@@ -1,255 +1,120 @@
-{{also|accélération}}
 ==English==
 
-===Alternative forms===
-* {{l|en|acc.}}
-* {{l|en|a.}}
-
 ===Etymology===
-{{root|en|ine-pro|*kel-}}
-First attested in 1531. From {{der|en|fr|accélération}} or more likely directly from {{der|en|la|accelerātiō||a hastening, acceleration}}<ref>{{R:CDOE|page=6}}</ref>. Equivalent to {{suffix|en|accelerate|ion}}.
+Latin ''[[acceleratio]]''; compare French ''[[accélération]]''
 
 ===Pronunciation===
-* {{enPR|əksĕlərā'shən}}, {{IPA|en|/ək.ˌsɛl.ə.ˈɹeɪ.ʃən/|/æk.ˌsɛl.ə.ˈɹeɪ.ʃən/|/ɪk.ˌsɛl.ə.ˈɹeɪ.ʃən/}}
-* {{audio|en|En-us-acceleration.ogg|Audio (US)}}
-* {{rhymes|en|eɪʃən|s=5}}
+/ˌæk.sɛ.lə.ˈre.ʃən/
 
 ===Noun===
-{{en-noun|~}}
+'''acceleration''' (''[[countable]] and [[uncountable]]''; ''plural'' '''accelerations''')
 
-# {{lb|en|uncountable}} The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to [[retardation]] or [[deceleration]].
-#: {{ux|en|a falling body moves toward the earth with an '''acceleration''' of velocity}}
-#* {{quote-journal|en|date=2022 January 12|author=Nigel Harris|title=Comment: Unhappy start to 2022|journal=RAIL|issue=948|page=3|text=On the East and West Coast Main Lines in the 1950s/60s, for example, we saw the extinction of intermediate stations in order to create the same sort of '''accelerations''' that IRP is now promising. Back then, the priority was faster main line services, with wayside/intermediate stations paying the ultimate price.}}
-# {{lb|en|countable}} The amount by which a [[speed]] or [[velocity]] increases (and so a [[scalar quantity]] or a [[vector quantity]]).
-#: {{ux|en|The boosters produce an acceleration of 20 metres per second per second.}}
-#* {{quote-book|en|author=[[w:Isaac Taylor|Isaac Taylor]]|passage=A period of social improvement, or of intellectual advancement, contains within itself a principle of '''acceleration''' {{...}}|title= Ultimate Civilisation|year=1859-1860}}
-# {{lb|en|physics}} The change of [[velocity]] with respect to [[time]] (can include [[deceleration]] or changing [[direction]]).
-# The [[advancement]] of [[student]]s at a rate that places them ahead of where they would be in the regular school [[curriculum]].
+#(''uncountable'') The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to [[retardation]] or [[deceleration]].
+#:''a falling body moves toward the earth with an '''acceleration''' of velocity''
+#(''countable'') The amount by which a [[speed]] or [[velocity]] decreases (and so a [[scalar quantity]] or a [[vector quantity]]).
+#:''The boosters produce an acceleration of 20 metres per second per second.''
+#:'''Quotations'''
+#::A period of social improvement, or of intellectual advancement, contains within itself a principle of '''acceleration''' &mdash; I. Taylor
+#{{physics}} The change of [[speed]] with respect to [[time]].
 
-====Usage notes====
+====Usage note====
 Acceleration in [[SI]] units is measured in [[metre]]s per second per second (m/s<sup>2</sup>), or in [[imperial]] units in feet per second per second (ft/s<sup>2</sup>).
 
 ====Antonyms====
-* {{sense|act or state, amount}} {{l|en|deceleration}}, {{l|en|retardation}}
+*(''act, state, amount''): [[deceleration]], [[retardation]]
 
-====Derived terms====
-{{derived terms|lang=en
-| acceleration clause
-| accelerationism
-| accelerationist
-|acceleration of gravity
-|acceleration principle
-| angular acceleration
-| autoacceleration
-| cardioacceleration
-| deacceleration
-| four-acceleration
-| hardware acceleration
-| Planck acceleration
-| plasma acceleration
-| plasma wakefield acceleration
-| proper acceleration
-| quadriacceleration
-}}
+===Related terms===
+*[[accelerate]]
+
+<!--these need to go on separate pages
+===Derived expressions===
+''all from astronomy and physics''
+
+*'''Acceleration of the moon''': the increase of the moon's mean motion in its orbit, in consequence of which its period of revolution is now shorter than in ancient times
+*'''Acceleration and retardation of the tides''': See '''Priming of the tides''', under [[Priming]]
+*'''Diurnal acceleration of the fixed stars''': the amount by which their apparent diurnal motion exceeds that of the sun, in consequence of which they daily come to the meridian of any place about three minutes fifty-six seconds of solar time earlier than on the day preceding
+*'''Acceleration of the planets''': the increasing velocity of their motion, in proceeding from the apogee to the perigee of their orbits
+-->
 
 ====Translations====
-{{trans-top|act or state}}
-* Armenian: {{t+|hy|արագացում}}
-* Belarusian: {{t|be|паскарэ́нне|n}}
-* Bulgarian: {{t|bg|ускоряване}}
-* Catalan: {{t+|ca|acceleració|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|加速|tr=jiāsù}}
-* Czech: {{t|cs|zrychlení|n}}
-* Dutch: {{t+|nl|versnelling|f}}, {{t+|nl|acceleratie|f}}
-* Esperanto: {{t|eo|akcelo}}
-* Finnish: {{t+|fi|kiihdytys}}
-* French: {{t+|fr|accélération|f}}
-* Galician: {{t+|gl|aceleración|f}}
-* German: {{t+|de|Beschleunigung|f}}
-* Greek: {{t+|el|επιτάχυνση|f}}
-* Hebrew: {{t|he|האצה|f|tr=he'atza}}
-* Hungarian: {{t+|hu|gyorsulás}}
-* Interlingua: {{t|ia|acceleration}}
-* Italian: {{t+|it|accelerazione|f}}
-{{trans-mid}}
-* Japanese: {{t+|ja|加速|tr=かそく, kasoku}}
-* Korean: {{t+|ko|가속(加速)}}
-* Latin: {{t|la|accelerātiō|f}}
-* Lithuanian: {{t|lt|pagreitis}}
-* Luxembourgish: {{t|lb|Acceleratioun|f}}
-* Malayalam: {{t+|ml|ത്വരണം}}
-* Middle Persian: {{t|pal|𐭠𐭥𐭮𐭲𐭠𐭯𐭮𐭭𐭭|ts=ōštābišn}}
-* Norwegian:
-*: Bokmål: {{t+|nb|akselerasjon|m}}
-*: Nynorsk: {{t|nn|akselerasjon|m}}
-* Persian: {{t+|fa|شتاب|tr=šetâb}}
-* Polish: {{t+|pl|przyspieszenie|n}}, {{t+|pl|akceleracja|f}}
-* Portuguese: {{t+|pt|aceleração|f}}
-* Romanian: {{t+|ro|accelerație|f}}, {{t+|ro|accelerare|f}}
-* Russian: {{t+|ru|ускоре́ние|n}}, {{t+|ru|разго́н|m}}
-* Serbo-Croatian: {{t+|sh|akcelerácija|f}}, {{t+|sh|ubrzánje|n}}
-* Spanish: {{t+|es|aceleración}}
-* Swahili: {{t|sw|mchapuko}}
-* Swedish: {{t+|sv|acceleration|c}}
-* Tagalog: {{t|tl|darasig}}
-* Ukrainian: {{t+|uk|приско́рення|n}}
-* Venetian: {{t|vec|acelerasion|f}}
-{{trans-bottom}}
 
-{{trans-top|amount}}
-* Armenian: {{t+|hy|արագացում}}
-* Bulgarian: {{t+|bg|ускоре́ние|n}}
-* Catalan: {{t+|ca|acceleració|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|加速度|tr=jiāsùdù}}
-* Czech: {{t|cs|zrychlení|n}}
-* Dutch: {{t+|nl|versnelling|f}}, {{t+|nl|acceleratie|f}}
-* Esperanto: {{t|eo|akcelo}}
-* Finnish: {{t+|fi|kiihtyvyys}}
-* French: {{t+|fr|accélération|f}}
-* German: {{t+|de|Beschleunigung|f}}
-{{trans-mid}}
-* Greek: {{t+|el|επιτάχυνση|f}}
-* Hebrew: {{t+|he|תאוצה|f|tr=teutza}}
-* Italian: {{t+|it|accelerazione|f}}
-* Japanese: {{t+|ja|加速度|tr=かそくど, kasokudo}}
-* Malay: {{t+|ms|pecutan}}
-* Polish: {{t+|pl|przyspieszenie|n}}
-* Portuguese: {{t+|pt|aceleração|f}}
-* Russian: {{t+|ru|ускоре́ние|n}}
-* Serbo-Croatian: {{t+|sh|akcelerácija|f}}, {{t+|sh|ubrzánje|n}}
-* Swedish: {{t+|sv|acceleration|c}}
-* Tagalog: {{t|tl|darasig}}
-{{trans-bottom}}
+'''act, state'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+*Finnish: [[kiihdytys]]
+*French: [[accélération]] ''f''
+*Italian: [[accelerazione]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+*[[Norwegian]]: [[akselerasjon]] ''c''
+|}
+|}
 
-{{trans-top|(physics)}}
-* Afrikaans: {{t|af|versnelling}}
-* Amharic: {{t|am|ፍጥንጥነት|f}}
-* Arabic: {{t|ar|تَسَارُع|m}}
-* Aragonese: {{t|an|aceleración|f}}
-* Armenian: {{t+|hy|արագացում}}, {{t+|hy|արագացում}}
-* Assamese: {{t|as|ত্বৰণ}}
-* Asturian: {{t|ast|aceleración|f}}
-* Azerbaijani: {{t|az|təcil}}
-* Bashkir: {{t|ba|тиҙләнеш|sc=Cyrl}}
-* Basque: {{t|eu|azelerazio}}
-* Belarusian: {{t|be|паскарэнне|n}}
-* Bengali: {{t|bn|ত্বরণ}}
-* Bulgarian: {{t+|bg|ускоре́ние|n}}
-* Burmese: {{t+|my|အရှိန်|f}}
-* Catalan: {{t+|ca|acceleració|f}}
-* Cebuano: {{t|ceb|pagpatulin}}
-* Chinese:
-*: Mandarin: {{t+|cmn|加速度|tr=jiāsùdù}}
-* Czech: {{t|cs|zrychlení|n}}, {{t|cs|akcelerace|f}}
-* Danish: {{t|da|acceleration|c}}
-* Dutch: {{t+|nl|versnelling|f}}, {{t+|nl|acceleratie|f}}
-* Esperanto: {{t|eo|akcelo}}
-* Estonian: {{t|et|kiirendus}}
-* Finnish: {{t+|fi|kiihtyvyys}}
-* French: {{t+|fr|accélération|f}}
-* Galician: {{t+|gl|aceleración|f}}
-* Georgian: {{t|ka|აჩქარება}}
-* German: {{t+|de|Beschleunigung|f}}
-* Greek: {{t+|el|επιτάχυνση|f}}
-* Haitian Creole: {{t|ht|akselerasyon}}
-* Hebrew: {{t+|he|תאוצה|f}}
-* Hindi: {{t+|hi|त्वरण|}}
-* Hungarian: {{t+|hu|gyorsulás}}
-* Icelandic: {{t|is|hröðun}}
-* Indonesian: {{t+|id|percepatan}}, {{t+|id|akselerasi}}
-* Irish: {{t|ga|luasghéarú}}
-* Italian: {{t+|it|accelerazione|f}}
-* Japanese: {{t+|ja|加速度|tr=kasokudo}}
-* Karachay-Balkar: {{t|krc|терклениу}}
-* Kazakh: {{t+|kk|үдеу|sc=Cyrl}}
-* Khmer: {{t+|km|សំទុះ}}
-* Korean: {{t+|ko|가속도}}
-* Latin: {{t|la|acceleratio|f}}
-* Latvian: {{t|lv|paātrinājums|m}}
-{{trans-mid}}
-* Lithuanian: {{t|lt|pagreitis|m}}
-* Macedonian: {{t|mk|забрзување|n}}
-* Malay: {{t|ms|pemecutan}}
-* Malayalam: {{t+|ml|ത്വരണം}}
-* Manx: {{t|gv|bieauaghey}}
-* Marathi: {{t|mr|त्वरण}}
-* Mongolian: {{t+|mn|хурдатгал|sc=Cyrl}}
-* Neapolitan: {{t|nap|accëllërazion|f}}
-* Nepali: {{t+|ne|प्रवेग|m}}
-* Newar: {{t|new|प्रवेग}}
-* Norwegian:
-*: Bokmål: {{t+|nb|akselerasjon|m}}
-*: Nynorsk: {{t|nn|akselerasjon|m}}
-* Occitan: {{t|oc|acceleracion|f}}
-* Persian: {{t+|fa|شتاب|tr=šetâb}}
-* Polish: {{t+|pl|przyspieszenie|n}}
-* Portuguese: {{t+|pt|aceleração|f}}
-* Punjabi: {{t|pa|ਪ੍ਰਵੇਗ}}
-* Romanian: {{t+|ro|accelerație|f}}
-* Russian: {{t+|ru|ускоре́ние|n}}
-* Serbo-Croatian: {{t+|sh|akcelerácija|f}}, {{t+|sh|ubrzánje|n}}, {{t|sh|акцелерација|f|sc=Cyrl}}
-* Sicilian: {{t|scn|accilirazzioni|f}}
-* Silesian: {{t|szl|szwůng|m}}
-* Sinhalese: {{t+|si|ත්වරණය|sc=Sinh}}
-* Slovak: {{t|sk|zrýchlenie|n}}
-* Slovene: {{t+|sl|pospešek|m}}, {{t+|sl|pospešek|m}}
-* Spanish: {{t+|es|aceleración|f}}
-* Sundanese: {{t|su|percepetan}}, {{t|su|akselerasi}}
-* Swedish: {{t+|sv|acceleration|c}}
-* Tagalog: {{t|tl|darasig}}, {{t|tl|akselerasyon}}
-* Tamil: {{t+|ta|முடுக்கம்}}
-* Tatar: {{t+|tt|тизләнеш|sc=Cyrl}}
-* Telugu: {{t+|te|త్వరణము}}
-* Thai: {{t+|th|ความเร่ง}}
-* Turkish: {{t+|tr|ivme}}, {{t+|tr|hızlanma}}, {{t+|tr|hızlanma}}
-* Ukrainian: {{t+|uk|прискорення|n}}
-* Urdu: {{t|ur|اسراع|m|tr=israa}}
-* Uzbek: {{t|uz|tezlanish}}
-* Venetian: {{t|vec|acelerasion|f}}
-* Vietnamese: {{t+|vi|gia tốc}}
-* Welsh: {{t|cy|cyflymiad}}
-* West Frisian: {{t|fy|fersnelling}}
-{{trans-bottom}}
+'''amount'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+*Finnish: [[kiihtyvyys]]
+*French: [[accélération]] ''f''
+*Italian: [[accelerazione]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
 
-{{trans-top|education}}
-{{trans-mid}}
-* Polish: {{t+|pl|akceleracja|f}}
-{{trans-bottom}}
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
 
-===See also===
-* {{l|en|displacement}}
-* {{l|en|velocity}}
-* {{l|en|jerk}}
+{{checktrans}}
+The translations below need to be checked by native speakers and inserted into the appropriate table(s) above.
 
-===References===
-<references/>
-
-[[Category:en:Acceleration]]
-[[Category:en:Mechanics]]
-[[Category:en:Sciences]]
+*German: [[Beschleunigung]] ''f''
+*Hebrew: [[תאוצה]] ''f''
+*Indonesian: [[cepat|percepatan]]
+*[[Interlingua]]: acceleration
+*Japanese: [[加速度]] ([[かそくど]], kasokudo) (1)
+*Polish: [[przyśpieszenie]] ''n''
+*Portuguese: [[aceleração]] ''f''
+*Romanian: [[acceleraţie]] ''f''
+*[[Romanica]]: acceleration ''f''
+*Russian: [[ускорение]]
+*Spanish: [[aceleración]]
+*Swedish: acceleration
 
 ----
 
 ==Interlingua==
-
 ===Noun===
-{{ia-noun|es}}
+'''acceleration'''
 
-# [[#English|acceleration]]
+#acceleration
 
 ----
-
-==Swedish==
-
-===Etymology===
-{{suffix|sv|accelerera|tion}}
-
+==Romanica==
 ===Noun===
-{{sv-noun|c}}
+'''acceleration'''
 
-# acceleration; a change in [[velocity]]
+#acceleration
 
-====Declension====
-{{sv-infl-noun-c-er}}
+----
+==Swedish==
+===Noun===
+'''acceleration'''
+
+#acceleration
+
+[[it:acceleration]]
+[[pl:Acceleration]]
+[[sv:acceleration]]
+[[fr:acceleration]]
