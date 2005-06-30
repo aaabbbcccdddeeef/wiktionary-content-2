@@ -1,108 +1,19 @@
-==English==
-
 ===Noun===
-{{en-noun}}
+'''[[cardinal]] [[number]]'''
 
-# A number used to denote [[quantity]]; a [[counting number]]; a [[cardinal]].
-#: ''The smallest '''cardinal numbers''' are 0, 1, 2, and 3.''
-#: ''The '''cardinal number''' "three" can be represented as "3" or "three".''
-# {{lb|en|mathematics}} A generalized kind of [[number]] used to denote the size of a [[set]], including [[infinite]] sets.
-#* {{quote-text|en|year=1920|author={{w|Bertrand Russell}}|title=Introduction to Mathematical Philosophy|page=83|passage=This '''cardinal number''' is the smallest of the infinite '''cardinal numbers'''; it is the one to which Cantor has appropriated the Hebrew Aleph with the suffix 0, to distinguish it from larger infinite cardinals. Thus the name of the smallest of infinite cardinals is &alefsym;<sub>0</sub>.}}
-# {{lb|en|grammar}} A word that expresses a [[countable]] [[quantity]]; a [[cardinal numeral]].
-#: ''"Three" is a '''cardinal number''', while "third" is an ordinal number.''
-
-====Synonyms====
-* {{sense|number}} {{l|en|cardinal}}
-* {{sense|word}} {{l|en|cardinal numeral}}
-
-====Coordinate terms====
-* {{sense|grammar}} {{l|en|distributive number}}, {{l|en|multiplier}}, {{l|en|ordinal number}}
+# A number used to denote quantity.
+#: ''"Three" is a cardinal number, while "third" is an ordinal number.''
 
 ====Translations====
-{{trans-top|number denoting quantity}}
-* Basque: {{t|eu|zenbaki kardinal}}
-* Bengali: {{t|bn|অঙ্কবাচক সংখ্যা|tr=ôṅkôbacôk śôṅkha}}
-* Catalan: {{t|ca|nombre cardinal|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|基數|sc=Hani}}, {{t+|cmn|基数|tr=jīshù|sc=Hani}}
-* Danish: {{t|da|kardinaltal|n}}
-* Esperanto: {{t|eo|kardinalo}}
-* Estonian: {{t|et|kardinaalarv}}
-* Faroese: {{t|fo|grundtal|n}}
-* Finnish: {{t+|fi|kardinaaliluku}}, {{t+|fi|perusluku}}
-* French: {{t+|fr|nombre cardinal|m}}
-* Galician: {{t|gl|número cardinal|m}}
-* Georgian: {{t|ka|რაოდენობითი რიცხვითი სახელი}}
-* German: {{t+|de|Kardinalzahl|f}}, {{t+|de|Grundzahl|f}}
-* Greek: {{t|el|απόλυτος αριθμός|m|sc=Grek}}
-* Hungarian: {{t+|hu|tőszám}}
-* Icelandic: {{t|is|fjöldatala|f}}, {{t+|is|höfuðtala|f}}
-{{trans-mid}}
-* Irish: {{t|ga|bunuimhir|f}}
-* Italian: {{t+|it|numero cardinale|m}}
-* Japanese: {{t+|ja|基数|tr=きすう, kisū}}
-* Korean: {{t+|ko|기수}}
-* Malay: {{t+|ms|nombor kardinal}}
-* Maori: {{t|mi|tau maha}}
-* Portuguese: {{t|pt|número cardinal|m}}
-* Romanian: {{t+|ro|numeral cardinal|n}}, {{t|ro|număr cardinal|n}}
-* Russian: {{t|ru|кардина́льное число́|n}}
-* Serbo-Croatian: {{t-check|sh|kardinalni broj|m}}
-* Spanish: {{t+|es|número cardinal|m}}
-* Swedish: {{t+|sv|kardinaltal|n}}, {{t+|sv|grundtal|n}}
-* Tagalog: {{t|tl|bilang na paulat}}
-* Turkish: {{t|tr|asıl sayı}}
-* Vietnamese: {{t|vi|số đếm}}
-* Welsh: {{t+|cy|rhif prifol}}
-{{trans-bottom}}
+*Dutch: [[hoofdtelwoord]] ''n'', [[bepaald telwoord]] ''n''
+*Finnish: [[kardinaaliluku]]
+*French: [[adjectif numéral cardinal]] ''m''
+*German: [[bestimmtes Zahlwort]] ''n''
+*Latin: [[cardinale]]
+*Spanish: [[numeral cardinal]] ''m''
+*Swedish: [[grundtal]]
 
-{{trans-top|number used to denote the size of a set}}
-* Basque: {{t|eu|zenbaki kardinal}}
-* Catalan: {{t|ca|nombre cardinal|m}}
-* Czech: {{t|cs|kardinální číslo|n}}
-* Danish: {{t|da|kardinaltal|n}}
-* Estonian: {{t|et|hulga võimsus}}
-* Finnish: {{t+|fi|kardinaaliluku}}, {{t+|fi|perusluku}}
-* French: {{t+|fr|nombre cardinal|m}}
-* Galician: {{t|gl|número cardinal|m}}
-* German: {{t+|de|Kardinalzahl|f}}
-* Hungarian: {{t|hu|kardinális szám}}
-* Icelandic: {{t|is|fjöldatala|f}}, {{t+|is|höfuðtala|f}}
-* Irish: {{t|ga|bunuimhir|f}}
-* Italian: {{t+|it|numero cardinale|m}}
-* Japanese: {{t|ja|集合数|tr=しゅうごうすう, shūgōsū}}, {{t+|ja|基数|tr=きすう, kisū|sc=Jpan}}
-{{trans-mid}}
-* Malay: {{t+|ms|nombor kardinal}}
-* Polish: {{t|pl|liczba kardynalna|f}}
-* Portuguese: {{t|pt|número cardinal|m}}
-* Romanian: {{t+|ro|cardinal|n}}
-* Russian: {{t|ru|мо́щность мно́жества|f}}, {{t|ru|кардина́льное число́|n}}
-* Serbo-Croatian: {{t-check|sh|kardinalni broj|m}}
-* Spanish: {{t+|es|número cardinal|m}}
-* Swedish: {{t+|sv|kardinaltal|n}}, {{t+|sv|grundtal|n}} (''if finite'')
-* Tagalog: {{t|tl|bilang na paulat}}
-* Turkish: {{t+|tr|asıl sayılar}}
-* Vietnamese: {{t+|vi|số lượng}}
-* Welsh: {{t+|cy|rhif prifol|m}}
-{{trans-bottom}}
+==== See also ====
+*[[ordinal number]]
 
-{{trans-see|cardinal numeral}}
-
-{{checktrans-top}}<!--word that expresses a countable quantity-->
-* Basque: {{t-check|eu|zenbaki kardinal}}
-* Ido: {{t-check|io|kardinala nombro}}
-* Latin: {{t-check|la|cardinale}}
-{{trans-mid}}
-* Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|главни број|m|sc=Cyrl}}
-*: Roman: {{t-check|sh|glavni broj|m}}, {{t-check|sh|kardinalni broj|m}}
-* Slovene: {{t-check|sl|kardinalno število|n}}
-{{trans-bottom}}
-
-===Further reading===
-* {{pedia}}
-
-[[Category:en:Infinity]]
-[[Category:en:Numbers]]
-[[Category:en:Parts of speech]]
-[[Category:en:Set theory]]
+[[it:cardinal number]]
