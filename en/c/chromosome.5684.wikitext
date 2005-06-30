@@ -1,152 +1,35 @@
 ==English==
-{{wikipedia}}
-[[Image:Chromosome-upright.png|thumb|An illustration of chromosome, with its parts. (1) Chromatid. One of the two identical parts of the chromosome after S phase. (2) Centromere. The point where the two chromatids touch, and where the microtubules attach. (3) Short arm (4) Long arm.]]
-
 ===Etymology===
-{{root|en|ine-pro|*tewh₂-}}
-19th century: from {{bor|en|de|Chromosom}}, ultimately from {{der|en|grc|χρῶμα||colour}} + {{m|grc|σῶμα||body}} (because they are stained under the microscope). Equivalent to {{af|en|chromo-|-some|pos=noun}}.
+19th century: [[Greek]], chrom- ([[colour]]) + sōma ([[body]]), due to the fact that they are stained under [[microscope]].
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈkɹəʊ.məˌsəʊm/}}
-* {{a|US}} {{IPA|en|/ˈkɹoʊməˌsoʊm/|/ˈkɹoʊməˌzoʊm/}}
-* {{audio|en|En-uk-chromosome.ogg|Audio (UK)}}
-* {{audio|en|En-us-chromosome.ogg|Audio (US)}}
+*{{IPA|/ˈkrəʊməˌsəʊm/ (''UK'') ''or'' /ˈkroʊməˌsoʊm/ (''US'')}}
+*{{SAMPA}} /<tt>"kr@Um@%s@Um</tt>/ (''UK'') ''or'' /<tt>"kroUm@%soUm</tt>/ (''US'')
 
 ===Noun===
-{{en-noun}}
+'''chromosome''' ([[chromosomes]])
 
-# {{lb|en|cytology|genetics}} A linear arrangement of condensed DNA and associated proteins (such as chaperone proteins) which contains the genetic material (genome) of an organism.
-#* {{quote-book|en|year=2019|author=[[w:Bill Bryson|Bill Bryson]]|title=The Body: A Guide for Occupants|publisher=Black Swan (2020)|page=7|passage=A length of DNA is divided into segments called '''chromosomes''' and shorter individual units called genes.}}
-#: {{ux|en|'''Chromosomes''' store genetic information.}}
+# A [[structure]] in the [[cell]] [[nucleus]] that contains [[DNA]], [[histone]] [[protein]], and other structural proteins.
 
 ====Derived terms====
-{{der4|en|chromosomal|isochromosome|X chromosome|Y chromosome|B chromosome|chromosome conformation capture|chromosome number|lampbrush chromosome|Ph chromosome|Philadelphia chromosome|ring chromosome|sex chromosome}}
-
-====Related terms====
-{{col3|en|chromo-|chromato-|-chrome|chromatic}}
+*[[chromosomal]]
+*[[isochromosome]]
 
 ====Translations====
-{{trans-top|structure in the cell nucleus}}
-* Albanian: {{t+|sq|kromozom|m}}
-* Arabic: {{t|ar|كْرُومُوسُوم|m|tr=krumusūm}}, {{t|ar|صِبْغِيّ}}
-* Armenian: {{t+|hy|քրոմոսոմ}}
-* Asturian: {{t|ast|cromosoma|m}}
-* Azerbaijani: {{t|az|xromosom}}
-* Belarusian: {{t|be|храмасо́ма|f|sc=Cyrl}}
-* Bengali: {{t|bn|তন্তুসদৃশ বস্তু|sc=Beng}}
-* Bulgarian: {{t|bg|хромозо́ма|f|sc=Cyrl}}, {{t|bg|хромозо́м|m|sc=Cyrl}}
-* Burmese: {{t|my|ခရိုမိုဆုမ်း|sc=Mymr}}
-* Catalan: {{t+|ca|cromosoma|m}}
-* Chinese:
-*: Hakka: {{t|hak|染色體|sc=Hani}}, {{t|hak|染色体|tr=ngiam-set-thí|sc=Hani}}
-*: Mandarin: {{t+|cmn|染色體|sc=Hani}}, {{t+|cmn|染色体|tr=rǎnsètǐ|sc=Hani}}
-*: Min Dong: {{t|cdo|染色體}}, {{t|cdo|染色体|tr=niēng sáik tā̤}}
-*: Min Nan: {{t|nan|染色體|sc=Hani}}, {{t|nan|染色体|tr=liám-sek-thé|sc=Hani}}
-* Czech: {{t|cs|chromozom|m}}
-* Danish: {{t+|da|kromosom}}
-* Dutch: {{t+|nl|chromosoom|n}}
-* Esperanto: {{t+|eo|kromosomo}}
-* Estonian: {{t|et|kromosoom}}
-* Finnish: {{t+|fi|kromosomi}}
-* French: {{t+|fr|chromosome|m}}
-* Galician: {{t|gl|cromosoma|m}}
-* Georgian: {{t|ka|ქრომოსომა}}
-* German: {{t+|de|Chromosom|n}}
-* Greek: {{t+|el|χρωμόσωμα|n}}
-* Gujarati: {{t|gu|રંગસૂત્ર|sc=Gujr}}
-* Hebrew: {{t+|he|כְרוֹמוֹזוֹם|tr=kromosom}}
-* Hindi: {{t|hi|गुणसूत्र}}, {{t|hi|गुण सूत्र}}
-* Icelandic: {{t+|is|litningur|m}}
-* Ido: {{t+|io|kromosomo}}
-* Indonesian: {{t+|id|kromosom}}
-* Irish: {{t|ga|crómasóm|m}}
-* Italian: {{t+|it|cromosoma|m}}
-* Japanese: {{t+|ja|染色体|tr=せんしょくたい, senshokutai}}
-* Kannada: {{t|kn|ವರ್ಣತಂತು|sc=Knda}}
-* Kazakh: {{t|kk|хромосома|sc=Cyrl}}
-* Khmer: {{t|km|វណ្ណាង្គ|tr=vonnang|sc=Khmr}}, {{t|km|ក្រូម៉ូសូម}}
-* Korean: {{t+|ko|염색체(染色體)}}, {{t|ko|물들체}} {{qualifier|North}}
-{{trans-mid}}
-* Kyrgyz: {{t|ky|хромосома|sc=Cyrl}}
-* Lao: {{t|lo|ກະໂລໂມຊົມ}}
-* Latvian: {{t|lv|hromosoma|f}}
-* Lithuanian: {{t|lt|chromosoma|f}}
-* Macedonian: {{t|mk|хромозом|m|sc=Cyrl}}
-* Maori: {{t|mi|pūira}}
-* Marathi: {{t|mr|गुणसूत्र|sc=Deva}}
-* Mongolian: {{t|mn|хромосом|sc=Cyrl}}
-* Nepali: {{t|ne|गुणसूत्र|sc=Deva}}
-* Norwegian:
-*: Bokmål: {{t|nb|kromosom|n}}
-*: Nynorsk: {{t|nn|kromosom|n}}
-* Occitan: {{t+|oc|cromosòma|m}}
-* Persian: {{t|fa|رنگین تن|tr=rangin tan|sc=fa-Arab}}
-* Polish: {{t+|pl|chromosom}}
-* Portuguese: {{t+|pt|cromossoma|m}} {{qualifier|Portugal}}, {{t+|pt|cromossomo|m}} {{qualifier|Brazil}}
-* Punjabi: {{t|pa|ਗੁਣਸੂਤਰ|sc=Guru}}
-* Romanian: {{t+|ro|cromozom|m}}
-* Russian: {{t+|ru|хромосо́ма|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|хромозом|m}}
-*: Roman: {{t|sh|hromozom|m}}
-* Slovak: {{t|sk|chromozóm|m}}
-* Slovene: {{t+|sl|kromosom|m}}
-* Spanish: {{t+|es|cromosoma|m}}
-* Swahili: {{t|sw|chembeuzi}}
-* Swedish: {{t+|sv|kromosom|c}}
-* Tagalog: {{t|tl|kromosoma}}
-* Tajik: {{t|tg|хромосома}}
-* Tamil: {{t+|ta|நிறப்புரி|sc=Taml}}, {{t|ta|நிறமூர்த்தம்|sc=Taml}}
-* Telugu: {{t+|te|వారసవాహిక|sc=Telu}}
-* Thai: {{t+|th|โครโมโซม}}
-* Turkish: {{t+|tr|kromozom}}
-* Ukrainian: {{t|uk|хромосо́ма|f|sc=Cyrl}}
-* Uzbek: {{t|uz|xromosoma}}
-* Vietnamese: {{t|vi|chất sinh sắt}}, {{t|vi|nhiểm sắc thể}}
-* Volapük: {{t+|vo|kromosom}}
-* Welsh: {{t+|cy|cromosom|m}}
-* West Frisian: {{t|fy|gromosoom}}
-* Yiddish: {{t|yi|כראָמאָסאָם}}
-{{trans-bottom}}
+*Chinese: [[染色體]] (rǎncè tǐ)
+*Danish: [[kromosom]]
+*Dutch: [[chromosoom]] ''n''
+*[[Esperanto]]: [[kromosomo]]
+*Finnish: [[kromosomi]]
+*French: chromosome ''f''
+*German: [[Chromosom]] ''n''
+*Indonesian: [[kromosom]]
+*Japanese: [[染色体]] (せんしょくたい, senshokutai)
+*Korean: [[염색체]] ([[染色體]], yeomsaekchae)
+*Polish: [[chromosom]]
+*Portuguese: [[cromossoma]] ''f''
+*Spanish: [[cromosoma]] ''f''
+*Swedish: [[kromosom]] ''c''
 
-====Further reading====
-* {{R:Webster 1913}}
-* {{R:Century 1911}}
-* {{R:OneLook}}
-
-----
-
-==French==
-
-===Etymology===
-19th century: {{af|fr|chromo-|-some}}, from {{uder|fr|de|Chromosom}}, ultimately from {{uder|fr|grc|χρῶμα||colour}} + {{m|grc|σῶμα||body}} (because they are stained under the microscope).
-
-===Pronunciation===
-* {{fr-IPA|chromosôme}}
-* {{audio|fr|LL-Q150 (fra)-0x010C-chromosome.wav|Audio}}
-* {{homophones|fr|chromosomes}}
-* {{hyphenation|fr|chro|mo|some}}
-
-===Noun===
-{{fr-noun|m}}
-
-# {{lb|fr|biology|cytology}} {{l|en|chromosome}}
-
-====Hyponyms====
-* {{l|fr|autosome}}
-* {{l|fr|chromoïde}}
-* {{l|fr|gonosome}}
-
-====Meronyms====
-* {{l|fr|chromatide}}
-
-====Holonyms====
-* {{l|fr|caryotype}}
-
-====Derived terms====
-* {{l|fr|chromosome Y}}
-* {{l|fr|chromosomique}}
-* {{l|fr|hétérochromosome}}
-
-===Further reading===
-* {{R:TLFi}}
+[[fr:chromosome]]
+[[Category:Greek derivations]]
