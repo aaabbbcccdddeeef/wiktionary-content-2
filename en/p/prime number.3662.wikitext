@@ -1,260 +1,52 @@
-{{also|prime-number}}
 ==English==
-{{wikipedia}}
-===Pronunciation===
-* {{audio|en|LL-Q1860 (eng)-PerfectSoundWhatever-prime number.wav|Audio (CA)}}
+===Noun phrase===
+'''prime number''' (''plural:'' '''prime numbers''')
+#{{mathematics}} a [[natural number]] [[great]]er than [[1]] [[divisible]] only by itself and 1; a member of the [[infinite]] [[sequence]] {2, 3, 5, 7, 11, 13, 17, 19, ...}.
+#:''Every natural number greater than 1 can be factorized into '''prime numbers'''.''
 
-===Noun===
-{{en-noun}}
-
-# {{lb|en|number theory}} Any [[natural number]] greater than 1 that cannot be formed by [[multiply]]ing two smaller natural numbers.
-#: {{ux|en|The {{w|fundamental theorem of arithmetic}} states that every natural number greater than 1 can be factorized into '''prime numbers''' in a way that is unique up to the order in which the factors are written.}}
-#* '''2007''', James Alfred Walker, Julian Francis Miller, ''Predicting '''Prime Numbers''' Using Cartesian Genetic Programming'', Marc Ebner, Michael O'Neill, Anikó Ekárt, Anna Isabel Esparcia-Alcázar, Leonardo Vanneschi (editors), ''Genetic Programming: 10th European Conference, EuroGP 2007, Proceedings'', Springer, {{w|LNCS}} 4445, [https://books.google.com.au/books?id=7Oq0PE8iTewC&pg=PA215&dq=%22prime+number%22%7C%22prime+numbers%22&hl=en&sa=X&ved=0ahUKEwjUrqz6kOncAhXB31QKHYSsDnYQ6AEIvwMwUg#v=onepage&q=%22prime%20number%22%7C%22prime%20numbers%22&f=false page 215],
-#*: As the evolved solution for the first 16 '''prime numbers''' was capable of accepting inputs up to 31, we decided to extend the experiment to see how the solution generalised on 15 previously unseen inputs (just as we did with the integer-based approach). From the 15 unseen inputs, 7 of the predicted 15 outputs were '''prime numbers''', which is just below 50%, indicating that the solution had learned something about "primeness" or favoured '''prime numbers'''.
-#* '''2010''', Colin Foster, ''Resources for Teaching Mathematics: 14–16'', {{w|Continuum International Publishing Group}}, [https://books.google.com.au/books?id=vqevhmxo6RkC&pg=PA168&dq=%22prime+number%22%7C%22prime+numbers%22&hl=en&sa=X&ved=0ahUKEwjUrqz6kOncAhXB31QKHYSsDnYQ6AEIuQIwNQ#v=onepage&q=%22prime%20number%22%7C%22prime%20numbers%22&f=false page 168],
-#*: The most common definition of a '''prime number''' used in school seems to be 'an integer whose only factors are one and itself', which unfortunately leaves open the question of whether one is itself a '''prime number'''. Until the nineteenth century, most mathematicians regarded one as a '''prime number''' – Henri Lebesgue (1875–1941) is often said to be the last professional mathematician to call one prime – so it is a little unfair to regard learners as silly for thinking this today, or for questioning why we do not now regard one as a '''prime number''' – it is still a good question.
-#* {{quote-journal|en|year=2013|month=July-August|author=[http://www.americanscientist.org/authors/detail/sarah-glaz Sarah Glaz]|title=[https://www.americanscientist.org/article/ode-to-prime-numbers Ode to Prime Numbers]|volume=101|issue=4|magazine={{w|American Scientist}}|passage=Some poems, echoing the purpose of early poetic treatises on scientific principles, attempt to elucidate the mathematical concepts that underlie '''prime numbers'''. Others play with primes’ cultural associations. Still others derive their structure from mathematical patterns involving primes.}}
-# {{lb|en|obsolete|number theory}} Any [[natural number]] (including 1) that is [[divisible]] only by itself and 1.
-
-====Usage notes====
-* Modern mathematical usage specifies that 1 is not a prime number; some older texts consider 1 to be a prime number.
-** Using the obsolete specification would affect the phrasing of the {{w|fundamental theorem of arithmetic}}: the factorisation of a given natural number would be unique only with regard to prime factors ''other than 1''.
-
-====Synonyms====
-* {{sense|natural number >1 divisible only by itself and 1}} {{l|en|prime}}
-
-====Antonyms====
-* {{sense|natural number divisible only by itself and 1}} {{l|en|composite number}}
-
-====Hypernyms====
-* {{l|en|integer}}, {{l|en|natural number}}, {{l|en|number}}
-
-====Hyponyms====
-{{col4
-|en|additive prime number
-|annihilating prime number
-|Bell number prime number
-|Carol prime number
-|Catalan prime number
-|centered decagonal prime number
-|centered heptagonal prime number
-|centered square prime number
-|centered triangular prime number
-|Chen prime number
-|circular prime number
-|cousin prime number
-|Cuban prime number
-|Cullen prime number
-|Delannoy number prime number
-|deletable prime number
-|dihedral prime number
-|double factorial prime number
-|double Mersenne prime number
-|Eisenstein prime number without imaginary part
-|emirp
-|Euclid prime number
-|Euclid-Mullin Sequence prime number
-|Euler irregular prime number
-|even prime number
-|factorial prime number
-|Fermat prime number
-|Fibonacci prime number
-|fortunate prime number
-|Gaussian prime number
-|generalized Fermat prime number base 10
-|Genocchi number prime number
-|Gilda's prime number
-|good prime number
-|happy prime number
-|harmonic prime number
-|Higgs prime number for squares
-|highly cototient number prime number
-|irregular prime number
-|isolated prime number
-|Kynea prime number
-|left-truncatable prime number
-|Leyland prime number
-|long prime number
-|Lucas prime number
-|lucky prime number
-|Markov prime number
-|Mersenne prime number
-|Mills prime number
-|minimal prime number
-|Motzkin prime number
-|Newman–Shanks–Williams prime number
-|non-generous prime number
-|odd prime number
-|Padovan prime number
-|palindromic prime number
-|palindromic wing prime number
-|partition prime number
-|Pell prime number
-|permutable prime number
-|Perrin prime number
-|Pierpont prime number
-|Pillai prime number
-|prime number of Binary Quadratic Form
-|primeval prime number
-|primorial prime number
-|Proth prime number
-|Pythagorean prime number
-|Quartan prime number
-|Ramanujan prime number
-|regular prime number
-|repunit prime number
-|right-truncatable prime number
-|safe prime number
-|Schröder prime number
-|Schröder-Hipparchus number prime number
-|self prime number
-|sexy prime number
-|Smarandache-Wellin prime number
-|Smarandache–Wellin prime number
-|Solinas prime number
-|Sophie Germain prime number
-|star prime number
-|Stern prime number
-|super-prime number
-|supersingular prime number
-|swinging prime number
-|Thabit number prime number
-|twin prime number
-|two-sided prime number
-|Ulam number prime number
-|unique prime number
-|Wagstaff prime number
-|Wall–Sun–Sun prime number
-|Weakly prime numbers
-|Wedderburn-Etherington number prime number
-|Wieferich prime number
-|Wilson prime number
-|Wolstenholme prime number
-|Woodall prime number
-}}
-
-====Derived terms====
-{{der3
-|en|prime constellation
-|prime factor
-|prime factorization
-|prime number theorem
-}}
-
-====Related terms====
-* {{l|en|primality}}
+====Usage Note====
+Older texts often consider 1 to be a prime number. Modern usage considers 1 to be a [[unit]] and not a prime.
 
 ====Translations====
-{{trans-top|natural number}}
-* Afrikaans: {{t+|af|priemgetal}}
-* Albanian: {{t|sq|numri kryesor}}
-* Amharic: {{t|am|ፕራይም ቁጥር}}
-* Arabic: {{t|ar|عَدَد أَوَّلِيّ|m}}
-* Armenian: {{t|hy|պարզ թիվ}}
-* Azerbaijani: {{t|az|sadə ədəd}}, {{t|az|əsli ədəd}}
-* Basque: {{t|eu|zenbaki lehen}}
-* Belarusian: {{t|be|просты́ лік|m|sc=Cyrl}}
-* Bengali: {{t|bn|মৌলিক সংখ্যা}}
-* Breton: {{t|br|niveroù kentael}}
-* Bulgarian: {{t|bg|просто́ число́|n}}
-* Burmese: {{t|my|သုဒ္ဒကိန်း}}
-* Catalan: {{t|ca|nombre primer|m}}
-* Chinese:
-*: Cantonese: {{t|yue|質數|sc=Hani}}, {{t|yue|质数|tr=zat1 sou3|sc=Hani}}
-*: Mandarin: {{t+|cmn|素數|sc=Hani}}, {{t+|cmn|素数|tr=sùshù|sc=Hani}}, {{t+|cmn|質數|sc=Hani}}, {{t+|cmn|质数|tr=zhìshù, zhíshù|sc=Hani}}
-*: Min Nan: {{t|nan|素數|sc=Hani}}, {{t|nan|素数|tr=sò͘-sò͘|sc=Hani}}, {{t|nan|質數|sc=Hani}}, {{t|nan|质数|tr=chit-sò͘|sc=Hani}}
-* Corsican: {{t|co|numeru primu}}
-* Czech: {{t+|cs|prvočíslo|n}}
-* Danish: {{t+|da|primtal}}
-* Dutch: {{t+|nl|priemgetal|n}}
-* Esperanto: {{t+|eo|primo}}
-* Estonian: {{t+|et|algarv}}
-* Finnish: {{t+|fi|alkuluku}}
-* French: {{t+|fr|nombre premier|m}}
-* Galician: {{t+|gl|número primo|m}}
-* Georgian: {{t|ka|მარტივი რიცხვი|sc=Geor}}
-* German: {{t+|de|Primzahl|f}}
-* Greek: {{t+|el|πρώτος αριθμός|m}}
-* Hausa: {{t|ha|firayim yawan}}
-* Hebrew: {{t+|he|מִסְפָּר רִאשׁוֹנִי|m}}
-* Hindi: {{t|hi|अभाज्य संख्या}}
-* Hungarian: {{t+|hu|prímszám}}
-* Icelandic: {{t+|is|frumtala|f}}, {{t|is|prímtala|f}}
-* Igbo: {{t|ig|praịm nọmba}}
-* Indonesian: {{t+|id|bilangan prima}}
-* Irish: {{t|ga|uimhir phríomha|f}}
-* Italian: {{t+|it|numero primo|m}}
-* Japanese: {{t+|ja|素数|tr=そすう, sosū}}
-* Javanese: {{t|jv|wilangan prima}}, {{t|jv|angka prima}}
-* Kannada: {{t+|kn|ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ}}
-* Kazakh: {{t|kk|жай сан}}
-* Khmer: {{t+|km|ចំនួនបឋម}}
-* Korean: {{t+|ko|소수(素數)}}, {{t+|ko|씨수}} {{qualifier|North Korea}}
-* Kyrgyz: {{t|ky|жөнөкөй сан}}
-* Latin: {{t|la|numerus primus|m}}
-* Latvian: {{t|lv|pirmskaitlis|m}}
-{{trans-mid}}
-* Lithuanian: {{t|lt|pirminis skaičius}}
-* Lombard: {{t|lmo|nümar primm}}
-* Low German: {{t|nds|Primtall}}
-* Luxembourgish: {{t|lb|Primzuel}}
-* Macedonian: {{t|mk|прост број}}
-* Malay: {{t|ms|nombor perdana}}
-* Malayalam: {{t|ml|പ്രൈം നമ്പർ}}, {{t|ml|അഭാജ്യസംഖ്യ}}
-* Maltese: {{t|mt|numru prim}}
-* Manx: {{t|gv|ard-earroo|m}}
-* Maori: {{t|mi|tau toitū}}
-* Mongolian: {{t|mn|анхны тоо}}
-* Norwegian:
-*: Bokmål: {{t+|nb|primtall|n}}
-*: Nynorsk: {{t|nn|primtal|n}}
-* Persian: {{t|fa|عدد اول|tr='adad avval}}
-* Polish: {{t+|pl|liczba pierwsza|f}}
-* Portuguese: {{t|pt|número primo|m}}
-* Punjabi: {{t|pa|ਪ੍ਰਮੁਖ ਸੰਖਿਆ}}
-* Romanian: {{t+|ro|număr prim}}
-* Russian: {{t|ru|просто́е число́|n}}
-* Scottish Gaelic: {{t|gd|prìomh-àireamh|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|прости број|m}}, {{t|sh|прост број|m}}
-*: Roman: {{t|sh|prosti broj|m}}, {{t|sh|prost broj|m}}
-* Sicilian: {{t|scn|nùmmuru primu|m}}
-* Sinhalese: {{t|si|ප්රථමක සංඛ්යාව}}
-* Slovak: {{t|sk|prvočíslo|n}}
-* Slovene: {{t+|sl|praštevilo|n}}
-* Southern Altai: {{t|alt|тегин тоо}}
-* Spanish: {{t+|es|número primo|m}}
-* Sundanese: {{t|su|nomer perdana}}, {{t|su|jumlah perdana}}
-* Swahili: {{t|sw|nambari kuu}}, {{t|sw|idadi mkuu}}
-* Swedish: {{t+|sv|primtal|n}}
-* Tagalog: {{t|tl|bilang na lantay}}, {{t|tl|bilang na balho}}
-* Tajik: {{t|tg|рақами сарвазир}}, {{t|tg|шумораи сарвазир}}
-* Tamil: {{t+|ta|பகா எண்}}
-* Telugu: {{t+|te|ప్రధాన సంఖ్య}}
-* Thai: {{t+|th|จำนวนเฉพาะ|tr=jam-nuan chà-pór}}
-* Turkish: {{t+|tr|asal sayı}}
-* Ukrainian: {{t|uk|просте́ число́|n}}
-* Urdu: {{t|ur|مفرد عدد}}, {{t|ur|ولی عدد}}
-* Uyghur: {{t|ug|تۈپ سان}}
-* Vietnamese: {{t+|vi|số nguyên tố}}
-* Welsh: {{t|cy|rhif cysefin}}
-* Xhosa: {{t|xh|oyona nombolo yokuqala}}, {{t|xh|inombolo eyintloko}}, {{t|xh|inombolo eyinhloko}}
-* Yiddish: {{t|yi|פּרימצאָל|f}}
-* Yoruba: {{t|yo|nọ́mbà àkọ́kọ́}}
-* Zulu: {{t|zu|inombolo esiyinhloko}}
-{{trans-bottom}}
+*Anglo Saxon: [[Frumtæl]]
+*Basque: [[zenbaki lehen]]
+*Belarussian: [[Просты лік]] (prost'i lik)
+*Bulgarian: [[Просто число]] (prosto shislo)
+*Chinese: [[素数]] ()
+*Czech: [[prvočíslo]]
+*Danish: [[primtal]]
+*Dutch: [[priemgetal]] ''n''
+*Estonian: [[algarv]]
+*Finnish: [[alkuluku]]
+*French: [[nombre premier]]
+*German: [[Primzahl]] ''f''
+*Greek, Modern: [[Πρώτος αριθμός]] (protos arithmos) ''m'' ([[:el:Πρώτος αριθμός|el]])
+*Hebrew: [[מספר ראשוני]] (??r? ?ashi??)
+*Hungarian: [[prímszám]]
+*Icelandic: [[prímtölur]]
+*Indonesian: [[bilangan prima]]
+*Italian: [[numero primo]]
+*Japanese: [[素数]] (そすう, sosū)
+*Korean: [[소수]] (sosu?)
+*Lithuanian: [[pirminiai skaičiai]]
+*Norwegian: [[primtall]]
+*Polish: [[liczba pierwsza]] ''f'', liczby pierwsze<!-- ''''-->
+*Portuguese: [[número primo]] ''m''
+*Russian: [[Простое число]] (prostoe shislo)
+*Sicilian: [[nummuru primu]] ''m''
+*Slovak: [[prvočíslo]] ''n''
+*Slovenian: [[praštevilo]]
+*Spanish: [[número primo]] '',''
+*Swedish: [[primtal]] ''n''
+*Thai: [[จำนวนเฉพาะ]] (??a?????)
+*Turkish: [[asal sayılar ]]
 
-====See also====
-* {{l|en|divisor}}
-* {{l|en|factor}}
+===Related Terms===
+*[[prime]]
+*[[prime factor]]
+*[[prime factorization]]
 
-====Further reading====
-* {{pedia|List of prime numbers}}
-* {{pedia|Fundamental theorem of arithmetic}}
-* {{pedia|Prime number theorem}}
-* {{pedia|Goldbach's conjecture}}
-* [https://www.encyclopediaofmath.org/index.php/Prime_number Prime number] on {{w|Encyclopedia of Mathematics}}
-* [http://mathworld.wolfram.com/PrimeNumber.html Prime Number] on {{w|Mathworld|Wolfram MathWorld}}
-
-[[Category:English pleonastic compound nouns]]
-[[Category:en:Numbers]]
+===See Also===
+* [[divisor]]
+* [[factor]]
+* [http://mathworld.wolfram.com/PrimeNumber.html Mathworld article on Prime Number]
