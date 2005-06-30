@@ -1,125 +1,78 @@
 ==English==
-{{wikipedia|Vocative case}}
-
 ===Etymology===
-{{root|en|ine-pro|*wekʷ-}}
-From Late {{inh|en|enm}}, borrowed from {{bor|en|frm|vocatif}}, from {{der|en|la|vocātīvus||for calling}}; a calque of Ancient Greek {{m|grc|κλητῐκή||for calling; vocative case}} &ndash; from {{m|la|voco|vocāre|to call}}, from {{der|en|ine-pro||*wokʷ-}}, [[o-grade]] of {{m|ine-pro|*wekʷ-|t=give vocal utterance, speak}}. See Latin {{m|la|vōx}}.
-
-===Pronunciation===
-* {{a|GenAm}} {{IPA|en|/ˈvɑkətɪv/|/ˈvoʊkətɪv/}}<!--common but sometimes proscribed, see November 2022 TR-->
-* {{a|RP}} {{IPA|en|/ˈvɒkətɪv/}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-vocative.wav|Audio (RP)}}
+Late Middle English < from Middle French [[vocatif]] < Latin [[vocativus]] ("calling") < [[vocatus]] ("invocation") < [[vocare]] ("to call") < Proto-Indo-European base [[*wek-]] ("give vocal utterance", "speak").
 
 ===Adjective===
-{{en-adj}}
-
-# Of or pertaining to calling; used in calling or [[vocation]].
-# {{lb|en|grammar}} Used in address; [[appellative]] (said of that case or form of the noun, pronoun, or adjective, in which a person or thing is addressed). For example "''Domine'', O Lord"
-
-====Related terms====
-* {{l|en|vocal}}
+#Of or pertaining to calling; used in calling or [[vocation]].
+#''(Grammar):'' used in address; appellative; — said of that case or form of the noun, pronoun, or adjective, in which a person or thing is addressed; as, ''Domine'', O Lord.
 
 ====Translations====
-{{trans-top|of or pertaining to calling}}
-* Finnish: {{t|fi|kutsumuksellinen}}, {{t|fi|kutsumus|alt=kutsumus-}}
-* French: {{t+|fr|vocationnel}}
-* Georgian: {{t+|ka|წოდებითი}}, {{t|ka|მოწოდებითი}}
-* German: {{t+|de|aufrufend}}
-* Greek: {{t+|el|κλητικός|}}
-* Hindi: {{t+|hi|संबोधित|sc=Deva}}
-{{trans-mid}}
-* Japanese: {{t+|ja|天職|tr=tenshoku no|alt=天職の}}
-* Latin: {{t|la|vocātīvus}}
-* Portuguese: {{t+|pt|vocativo|m}}
-* Russian: {{t+|ru|призыва́ющий|}}, {{t+|ru|зову́щий|}}
-{{trans-bottom}}
-
-{{trans-top|grammar: used in address}}
-* Arabic: {{t|ar|نِدَاء|m}}
-* Belarusian: {{t|be|клі́чны}}
-* Bulgarian: {{t|bg|зва́телен}}
-* Catalan: {{t+|ca|vocatiu}}
-* Czech: {{t|cs|vokativní}}
-* Dutch: {{t+|nl|vocatief|m}}
-* Finnish: {{t|fi|vokatiivinen}}
-* French: {{t+|fr|vocatif|m}}
-* Galician: {{t|gl|vocativo|m}}
-* Georgian: {{t+|ka|წოდებითი}}
-* German: {{t|de|vokativ}}
-* Greek: {{t+|el|κλητικός|}}
-*: Ancient: {{t|grc|κλητικός}}
-* Hindi: {{t+|hi|संबोधित|sc=Deva}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|megszólító}}
-* Irish: {{t+|ga|gairmeach}}
-* Japanese: {{t+|ja|呼格|tr=kokaku no|alt=呼格の}}
-* Latin: {{t|la|vocātīvus}}
-* Macedonian: {{t|mk|вокатив|m}}
-* Polish: {{t+|pl|wołacz|m}}
-* Portuguese: {{t+|pt|vocativo}}
-* Russian: {{t+|ru|зва́тельный|}}
-* Scottish Gaelic: {{t|gd|gairmeach}}
-* Serbo-Croatian: {{t+|sh|vokativan}}
-* Spanish: {{t+|es|vocativo}}
-* Swedish: {{t+|sv|vokativ}}
-* Ukrainian: {{t+|uk|кли́чний}}
-* Welsh: {{t|cy|cyfarchol}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Arabic: {{t-check|ar|مُنَادَى}}, {{t-check|ar|نَدَائِيّ}}
-* Dutch: {{t+check|nl|roeper|m}}
-* Hebrew: {{t-check|he|של יחסת פנייה|f|tr=šel yakhasat peniyah|sc=Hebr}}
-* Italian: {{t+check|it|vocativo}}
-{{trans-mid}}
-* Serbo-Croatian: {{t-check|sh|вокативни}}, {{t-check|sh|vokativni}}
-* Swedish: {{t+check|sv|vokativ}}
-* Turkish: {{t+check|tr|vokatif}}
-{{trans-bottom}}
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*Arabic: [[منادى|مُنَادَى]] (munáːda), [[ندائي|نَدَائِيّ]] (nadáː’i)
+*Bulgarian: [[звателен]] (zvátelen)
+*Croatian: [[vokativni]]
+*French: [[vocatif]]
+*Greek: [[κλητική]] (klitikí) ''f''
+*Hebrew: [[של יחסת פנייה]] (šel yakhasat peniyah) ''f''
+*Hungarian: [[megszólító]]
+*Italian: [[vocativo]]
+|}
+| width=1% |
+|bgcolor="FFFFE0" valign=top width=48%|
+{|
+*Japanese: [[呼格]] ([[こかく]], kokakú)
+*Latin: [[vocativus]]
+*Portuguese: [[vocativo]]
+*Russian: [[звательный]] (zvátel'nyj)
+*Serbian: [[вокативни]] (vokativni)
+*Spanish: [[vocativo]]
+*Swedish: [[vokativ]]
+*Turkish: [[vokatif]]
+*Ukrainian: [[кличний]] (klyčnyj)
+|}
+|}
 
 ===Noun===
-{{en-noun}}
-
-# {{lb|en|grammar}} The [[vocative case]]
-# {{lb|en|grammar}} A word in the [[vocative case]]
-# {{lb|en|rare}} Something said to (or as though to) a particular person or thing; an [[entreaty]], an [[invocation]].
-#*{{RQ:Richardson Clarissa|passage=[T]he two latter will hardly come neither, if they think it will be to hear your ''whining '''vocatives'''''.|letter=50}}
+#''(Grammar):'' The [[vocative case]]
 
 ====Translations====
-{{trans-see|grammatical case|vocative case}}
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*Arabic: [[صيغة المنادى|صِيغَةُ المُنَادَى]] ({{IPA|ʂíːɣatu l-munáːda}}) ''f''
+*Bulgarian: [[звателен падеж]] (zvátelen padéž) ''m''
+*Croatian: [[vokativ]] ''m''
+*Czech: [[vokativ]] ''m'', [[pátý pád]] ''m''
+*Dutch: [[aanspreekvorm]] ''m''
+*Finnish: [[vokatiivi]] (1)
+*French: [[vocatif]] ''m''
+*German: [[Vokativ]] ''m'', [[Anredefall]] ''m''
+*Greek: [[κλητική]] (klitikí) ''f''
+*Hebrew: [[יחסת פנייה]] (yakhasat peniyah) ''f''
+*Hungarian: [[megszólító eset]]
+*Italian: [[vocativo]] ''m''
+|}
+| width=1% |
+|bgcolor="FFFFE0" valign=top width=48%|
+{|
+*Japanese: [[呼格]] ([[こかく]], kokakú)
+*Latin: [[casus]] [[vocativus]] ''m''
+*Portuguese: [[vocativo]] ''m''
+*Russian: [[звательный пaдeж]] (zvátel'nyj padéž) ''m''
+*Serbian: [[вокатив]] (vokativ) ''m''
+*Slovak: [[piaty pád]] ''m'', [[vokatív]] ''m''
+*Spanish: [[vocativo]] ''m''
+*Swedish: [[vokativ]]
+*Turkish: [[vokatif]]
+*Ukrainian: [[кличний відмінок]] (klyčnyj vidminok) ''m''
+|}
+|}
 
 ===See also===
-* {{l|en|interjection}}
+*[[interjection]]
 
-[[Category:en:Grammatical cases]]
-
-----
-
-==Italian==
-
-===Adjective===
-{{head|it|adjective form}}
-
-# {{feminine plural of|it|vocativo}}
-
-----
-
-==Latin==
-
-===Adjective===
-{{la-adj-form|vocātīve}}
-
-# {{inflection of|la|vocātīvus||voc|m|s}}
-
-===References===
-* {{R:L&S}}
-* {{R:Gaffiot}}
-
-----
-
-==Romanian==
-
-===Noun===
-{{head|ro|noun form|g=n-p}}
-
-# {{plural of|ro|vocativ}}
+[[pl:Vocative]]
