@@ -1,165 +1,47 @@
-==English==
 {{wikipedia}}
-
+==English==
 ===Etymology===
-From {{der|en|frm|infinitif}}, from {{der|en|LL|infinitivus||unlimited, indefinite}}, from {{der|en|la|infinitus||unlimited, infinite}}.
+From Late Latin [[infinitivus]], from [[infinitus]]
 
 ===Pronunciation===
-* {{IPA|en|/ɪnˈfɪnɪtɪv/|/ɪnˈfɪnətɪv/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-infinitive.wav|Audio (UK)}}
+* [[Wiktionary:Pronunciation_key|IPA]]: /ɪnfɪnɪtɪv/ ''or'' /ɪnfɪnətɪv/
 
 ===Noun===
-{{en-noun}}
-
-# {{lb|en|grammar}} The infinitive mood or mode (a [[grammatical mood]]).
-#* '''1847''', J. J. P. Le Brethon and L. Sandier, ''Guide to the French language; especially devised for persons who wish to study that language without the assistance of a teacher. the tenth edition, revised and corrected'', London, p.&nbsp;69:
-#*: The MANNERS of acting, in grammar called ''modes'' or ''moods'', are four; '''''Infinitive''''', ''Imperative'', ''Indicative'', ''Subjunctive'' or ''Conjunctive''.
-#* '''1857''', Henry Tindall, ''A grammar and vocabulary of the Namaqua-Hottentot language'', p.&nbsp;38:
-#*: There are four moods, the '''Infinitive''', Imperative, Indicative, and Subjunctive. [...] the '''Infinitive''' is used to express a thing in a general manner.
-# {{lb|en|grammar}} A non-[[finite]] verb form considered [[neutral]] with respect to inflection; depending on language variously found used with [[auxiliary verb]]s, in [[subordinate clause]]s, or acting as a [[gerund]], and often as the [[dictionary form]].
-# {{lb|en|grammar}} A [[verbal noun]] formed from the infinitive of a verb.
-
-====Hypernyms====
-* {{sense|mood or mode}} {{l|en|grammatical mood}}, {{l|en|mood}}, {{l|en|mode}}
-* {{sense|verb (form)}} {{l|en|verb}}
-* {{sense|verbal noun}} {{l|en|verbal}}
-
-====Derived terms====
-* {{l|en|bare infinitive}}
-* {{l|en|full infinitive}}
-* {{l|en|perfect infinitive}}
+'''infinitive''' (plural '''[[infinitives]]''')
+# (''grammar'') The uninflected form of a verb. In English, this is usually formed with the verb stem preceded by 'to'.
+# (''grammar'') A [[Verbal_noun]] formed from the infinitive of a verb
 
 ====Translations====
-{{trans-top|a mood or mode of verbs}}
-* Albanian: {{t+|sq|paskajore|f}}
-* Czech: {{t|cs|neurčitý způsob|m}}
-* Dutch: {{t+|nl|infinitief|m}}, {{t+|nl|onbepaalde wijs|m}}
-* Esperanto: {{t+|eo|infinitivo}}
-* Galician: {{t+|gl|infinitivo|m}}
-* German: {{t+|de|Infinitiv|m}}
-* Greek:
-*: Ancient: {{t|grc|ἀπαρέμφατος|f}}
-* Hebrew: {{t|he|שֵׁם פֹּעַל|m|tr=shem pó‘al}}, {{t+|he|מָקוֹר|m|tr=makór}}
-{{trans-mid}}
-* Icelandic: {{t+|is|nafnháttur|m}}
-* Latin: {{t|la|infinitivus|m}}, {{t|la|modus infinitivus|m}}, {{t|la|modus perpetuus|m}}
-* Norwegian:
-*: Bokmål: {{t-needed|nb}}
-* Serbo-Croatian: {{t+|sh|infinitiv}}
-* Swedish: {{t+|sv|infinitiv|m}}, {{t|sv|obestämmt sätt}}
-* Tagalog: {{t|tl|pawatas}}, {{t|tl|panaganong pawatas}}
-* Welsh: {{t|cy|modd annherfynol|m}}, {{t+|cy|annherfynol|m}}
-{{trans-bottom}}
+*Dutch: [[infinitief]] ''m'', [[onbepaalde wijs]] ''m''
+*French: [[infinitif]] ''m''
+*German: [[Infinitiv]] ''m''
+*Hebrew: [[שם הפועל]]
+*Italian: [[infinito]] ''m''
+*Japanese: [[不定詞]] (ふていし)
+*Swedish: [[infinitiv]]
 
-{{trans-top|uninflected verb form}}
-* Afrikaans: {{t+|af|infinitief}}
-* Albanian: {{t+|sq|paskajore|f}}
-* Arabic: {{t+|ar|مَصْدَر|m}} {{qualifier|verbal noun}}
-* Armenian: {{t+|hy|անորոշ դերբայ}}
-* Asturian: {{t|ast|infinitivu|m}}
-* Belarusian: {{t|be|інфініты́ў|m|sc=Cyrl}}, {{t|be|нявызна́чаная фо́рма|f|sc=Cyrl}} {{qualifier|дзеясло́ва}}
-* Bulgarian: {{t|bg|инфинити́в|m|sc=Cyrl}}, {{t|bg|неопределе́на фо́рма|f}} {{qualifier|на глаго́ла}}
-* Catalan: {{t+|ca|infinitiu|m}}
-* Chinese:
-*: Mandarin: {{t|cmn|不定詞|sc=Hani}}, {{t|cmn|不定词|tr=bùdìngcí|sc=Hani}}
-* Czech: {{t+|cs|infinitiv|m-in}}, {{t+|cs|neurčitek|m-in}}
-* Danish: {{t+|da|infinitiv}}
-* Esperanto: {{t+|eo|infinitivo}}
-* Estonian: {{t|et|tegevusnimi}}, {{t+|et|infinitiiv}}
-* Faroese: {{t|fo|navnháttur|m}}
-* Finnish: {{t+|fi|infinitiivi}}
-* French: {{t+|fr|infinitif|m}}
-* Galician: {{t+|gl|infinitivo|m}}
-* Georgian: {{t|ka|ინფინიტივი}}
-* German: {{t+|de|Infinitiv|n|m}}
-* Greek: {{t+|el|απαρέμφατο|n}}
-*: Ancient: {{t|grc|ἀπαρέμφατος|f}}
-* Hebrew: {{t|he|שֵׁם פֹּעַל|m|tr=shem-pó'al|sc=Hebr}}
-* Hungarian: {{t+|hu|főnévi igenév}}
-* Ido: {{t+|io|infinitivo}}
-* Italian: {{t+|it|infinito|m}}
-* Japanese: {{t+|ja|不定詞|tr=ふていし, futeishi}}
-{{trans-mid}}
-* Kazakh: {{t|kk|инфинитив|sc=Cyrl}}
-* Korean: {{t+|ko|부정사(不定詞)}}
-* Latin: {{t|la|aparemphatum|n}}
-* Latvian: {{t|lv|nenoteiksme|f}}
-* Lithuanian: {{t+|lt|bendratis|f}}
-* Macedonian: {{t|mk|и́нфинитив|m|sc=Cyrl}}
-* Navajo: {{t|nv|bee áhodoonííł saad}}
-* Norman: {{t|nrf|înfinnitif|m}}
-* Norwegian:
-*: Bokmål: {{t|nb|infinitiv|m}}
-* Persian: {{t+|fa|مصدر|tr=masdar|sc=fa-Arab}}
-* Polish: {{t+|pl|bezokolicznik|m-in}}, {{t|pl|infinitiwus|m}}
-* Portuguese: {{t+|pt|infinitivo|m}}, {{t+|pt|infinito|m}}
-* Romanian: {{t+|ro|infinitiv|n}}
-* Russian: {{t|ru|неопределённая фо́рма|f}} {{qualifier|глаго́ла}}, {{t+|ru|инфинити́в|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|инфинитив|m}}
-*: Roman: {{t+|sh|infinitiv|m}}
-* Slovak: {{t|sk|neurčitok|m-in}}, {{t|sk|infinitív|m-in}}
-* Slovene: {{t+|sl|nedoločnik|m}}, {{t|sl|ínfinitiv|m}}
-* Spanish: {{t+|es|infinitivo|m}}
-* Tagalog: {{t|tl|pawatas}}
-* Turkish: {{t+|tr|mastar}}, {{t+|tr|eylemlik}}, {{t+|tr|isim-fiil}}
-* Ukrainian: {{t|uk|інфініти́в|m|sc=Cyrl}}, {{t|uk|дієйме́нник|m|sc=Cyrl}}, {{t|uk|невизна́чена фо́рма|f|sc=Cyrl}} {{qualifier|дієсло́ва}}
-* Vietnamese: {{t|vi|lối vô định}}
-* Welsh: {{t|cy|berf annherfynol|m}}
-* Yiddish: {{t|yi|אינפֿיניטיוו|m}}
-{{trans-bottom}}
-
-====See also====
-* {{l|en|gerund}}
-* {{l|en|supine}}
-* {{l|en|lemma}}
-* {{l|en|verb}}
+====See Also====
+* [[Verb]]
+* [[Gerund]]
+* [[Supine]]
 
 ===Adjective===
-{{en-adj|-}}
-
-# {{lb|en|grammar}} Formed with the infinitive.
-#* '''1847''', J. J. P. Le Brethon and L. Sandier, ''Guide to the French language; especially devised for persons who wish to study that language without the assistance of a teacher. the tenth edition, revised and corrected'', London, p.&nbsp;70
-#*: '''INFINITIVE''' MOOD or MANNER.<br />To Have, &nbsp; Avoir.
-#* '''1858''', C. P. Mason, ''English grammar; including the principles of grammatical analysis'', London, p.&nbsp;32:
-#*: In English there are four moods:–1. The '''Infinitive''' Mood. 2. The Indicative Mood. 3. the Imperative Mood. 4. The Subjunctive Mood.
-# Unlimited; not bounded or restricted; undefined.
-#* ''a.'' '''1823''', Cunningham's Sermons (quoted in '''1823''', ''The Edinburgh Christian Instructor'', volume 23, page 328)
-#*: {{...}} to search out in some higher region of '''infinitive''' space a spot where it was impossible for defilement to follow them {{...}}
-
-[[Category:en:Parts of speech]]
+'''infinitive''' (''uncomparable'')
+# (''grammar'') Formed with the infinitive
 
 ----
 
 ==French==
-
-===Pronunciation===
-* {{audio|fr|LL-Q150 (fra)-Poslovitch-infinitive.wav|Audio}}
-
 ===Adjective===
-{{head|fr|adjective form}}
+'''infinitive'''
 
-# {{feminine singular of|fr|infinitif}}
+# feminine of [[infinitif]]
 
 ===Noun===
-{{fr-noun|f}}
+'''infinitive''' ''f''
 
-# [[#English|infinitive]] [[clause]], same as {{m|fr|proposition infinitive}}
+# infinitive clause (=''proposition infinitive'')
 
-----
-
-==Italian==
-
-===Adjective===
-{{head|it|adjective form|g=f}}
-
-# {{feminine plural of|it|infinitivo}}
-
-----
-
-==Latin==
-
-===Noun===
-{{la-noun-form|īnfīnītīve}}
-
-# {{inflection of|la|īnfīnītīvus||voc|s}}
+[[it:infinitive]]
+[[nl:infinitive]]
+[[pl:Infinitive]]
