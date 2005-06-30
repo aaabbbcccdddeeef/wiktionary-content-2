@@ -1,116 +1,39 @@
-{{selfref|For Wiktionary's use of Unicode, see [[Wiktionary:Unicode]]}}
 ==English==
-{{wikipedia}}
-
-===Etymology===
-Published as a draft proposal in 1988, "intended to suggest a unique, unified, universal encoding". From {{prefix|en|uni|code}}.
 
 ===Pronunciation===
-* {{a|US}} {{IPA|en|/ˈjunɪˌkoʊd/}}
-* {{a|UK}} {{IPA|en|/ˈjuːnɪˌkəʊd/}}
-* {{audio|en|en-uk-Unicode.ogg|Audio (UK)}}
+*US [[w:IPA|IPA]]: /ˈjunɪˌkoːd/, [[w:SAMPA|SAMPA]]: /"junI%ko:d/
+*UK [[w:IPA|IPA]]: /ˈjunɪˌkəʊd/, [[w:SAMPA|SAMPA]]: /"junI%k@Ud/
 
 ===Proper noun===
-{{en-proper noun}}
+'''Unicode'''
 
-# {{lb|en|international standards|computing}} A series of [[character encoding]] standards intended to support the characters used by a large number of the world’s languages.
-#: {{ux|en|This character isn't in '''Unicode'''.}}
-# {{lb|en|computing}} The Unicode standards, together with standards for representing [[character]] [[string]]s as [[byte]] [[string]]s.
-#: {{ux|en|convert to '''Unicode'''}}
+# {{computing}} A series of [[character encoding]] standards intended to support the characters used by a large number of the world's languages.
+# {{computing}} The Unicode standards together with standards for representing [[character strings]] as [[byte strings]].
 
 ====Translations====
-{{trans-top|series of computer encoding standards}}
-* Albanian: {{t|sq|Unicode}}
-* Amharic: {{t|am|ዩኒኮድ}}
-* Arabic: {{t|ar|يُونِيكُود|m}}
-* Armenian: {{t|hy|Յունիկոդ}}
-* Belarusian: {{t|be|Юніко́д|m}}
-* Bengali: {{t+|bn|ইউনিকোড}}
-* Blin: {{t|byn|ዩኒኮድ}}
-* Bulgarian: {{t|bg|Унико́д|m}}
-* Catalan: {{t|ca|Unicode|m}}
-* Chinese:
-*: Cantonese: {{t|yue|統一碼}}, {{t|yue|统一码|tr=tung2 jat1 maa5}}, {{t|yue|萬國碼}}, {{t|yue|万国码|tr=maan6 gwok3 maa5}}, {{t|yue|單一碼}}, {{t|yue|单一码|tr=daan1 jat1 maa5}}
-*: Mandarin: {{t+|cmn|統一碼}}, {{t+|cmn|统一码|tr=tǒngyīmǎ}}, {{t+|cmn|萬國碼}}, {{t+|cmn|万国码|tr=wànguómǎ}}, {{t+|cmn|單一碼}}, {{t+|cmn|单一码|tr=dānyīmǎ}}
-* Czech: {{t|cs|Unicode}}
-* Danish: {{t|da|Unicode}}
-* Dutch: {{t+|nl|Unicode}}
-* Esperanto: {{t|eo|Unikodo}}
-* Finnish: {{t+|fi|Unicode}}
-* French: {{t+|fr|Unicode|m}}
-* Georgian: {{t|ka|უნიკოდი}}
-* German: {{t+|de|Unicode|m}}
-* Greek: {{t+|el|Unicode|n}}
-* Hebrew: {{t+|he|יוניקוד|tr=yunikod}}
-* Hindi: {{t|hi|यूनिकोड}}
-* Hungarian: {{t|hu|Unicode}}
-* Igbo: {{t|ig|Yunikod}}
-* Indonesian: {{t|id|Unicode}}
-* Interlingua: {{t|ia|Unicode}}
-* Italian: {{t+|it|Unicode|m}}
-* Japanese: {{t|ja|ユニコード|tr=yunikōdo}}
-* Kannada: {{t|kn|ಯುನಿಕೋಡ್}}
-* Khün: {{t|kkh|ᨿᩪᨶᩥᨤ᩠ᨯᩰᨯ᩼}}
-{{trans-mid}}
-* Korean: {{t+|ko|유니코드}}
-* Latvian: {{t|lv|Unikods|m}}
-* Lithuanian: {{t|lt|Unikodas|m}}
-* Maori: {{t|mi|waehereao}}
-* Marathi: {{t|mr|युनिकोड}}
-* Mongolian: {{t|mn|Юникод}}
-* Norwegian: {{t|no|Unicode}}
-* Persian: {{t|fa|یونیکد|tr=yuni-kod}}, {{t|fa|یونی‌کد|tr=yuni-kod}}
-* Polish: {{t|pl|Unicode}}
-* Portuguese: {{t|pt|Unicode|m}}
-* Romanian: {{t+|ro|Unicode|m}}
-* Russian: {{t+|ru|Юнико́д|m}}, {{t|ru|Унико́д|m}}
-* Sebat Bet Gurage: {{t|sgw|ዩኒኮድ}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|Уникод|m}}
-*: Roman: {{t|sh|Unikod|m}}
-* Sindhi: {{t|sd|يونيڪوڊ}}
-* Sorbian:
-*: Upper Sorbian: {{t|hsb|Unicode}}
-* Spanish: {{t+|es|Unicode|m}}
-* Swedish: {{t|sv|Unicode}}
-* Tamil: {{t|ta|யூனிக்கோடு}}
-* Telugu: {{t+|te|విశ్వ సంకేత మాల}}, {{t|te|యూనీకోడ్}}
-* Thai: {{t|th|ยูนิโคด|tr=yooníkôht}}
-* Tigrinya: {{t|ti|ዩኒኮድ}}
-* Turkish: {{t|tr|Evrensel Kod}}
-* Ukrainian: {{t|uk|Юніко́д|m}}
-* Uyghur: {{t|ug|يۇنىكود}}
-* Vietnamese: {{t+|vi|Unicode}}
-* Welsh: {{t+|cy|Unicode}}
-* Xamtanga: {{t|xan|ዩኒኮድ}}
-{{trans-bottom}}
-
-===Noun===
-{{en-noun|-}}
-
-# {{lb|en|computing|by extension|informal}} Characters from a contextually different script, often used in a nonstandard fashion. {{ngd|Sometimes used as an antonym to the characters of the [[Latin alphabet]].}}
-#: {{ux|en|Since most users on the site are [[westerners]], we have banned '''Unicode''' in all text input boxes.}}
+*[[Catalan]]: unicode ''m''
+*[[Czech]]: unicode
+*Danish: unicode
+*Dutch: unicode ''f''
+*[[Esperanto]]: [[unikodo]]
+*Finnish: unicode
+*French: unicode ''m''
+*German: unicode
+*Greek: unicode
+*Japanese: [[ユニコード]] (yunikōdo)
+*[[Lithuanian]]: [[unikodas]]
+*Norwegian: unicode
+*Polish: [[unikod]]
+*Romanian: [[unicod]] ''m''
+*Spanish: unicode ''m''
 
 ===See also===
-* {{l|en|ASCII}}
-* {{l|en|EBCDIC}}
-* {{l|en|UTF-7}}
-* {{l|en|UTF-8}}
-* {{l|en|UTF-16}}
-* [[Appendix:Unicode]]
-* {{l|mul|Appendix:Unicode/Miscellaneous_Symbols_and_Pictographs}}
+*[[ASCII]]
+*[[EBCDIC]]
+*[[UTF-7]]
+*[[UTF-8]]
+*[[UTF-16]]
 
-===Further reading===
-* [http://www.unicode.org Unicode website]
-
-===Anagrams===
-* {{anagrams|en|a=cdeinou|doucine}}
-
-----
-
-==Portuguese==
-
-===Proper noun===
-{{pt-proper noun|m}}
-
-# {{lb|pt|computing}} {{l|en|Unicode}} {{gloss|series of computer encoding standards}}
+===External links===
+*[[w:Unicode|Wikipedia article on Unicode]]
+*[http://www.unicode.org Unicode website]
