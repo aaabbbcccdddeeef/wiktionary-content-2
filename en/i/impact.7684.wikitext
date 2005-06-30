@@ -1,220 +1,34 @@
 ==English==
-
 ===Etymology===
-{{root|en|ine-pro|*peh₂ǵ-}}
-Attested since the 17th century, from {{bor|en|la|impāctus}}, perfect passive participle of {{m|la|impingō|t=dash against, impinge}}, from {{m|la|in-}} + {{m|la|pangō||fasten, drive in}}, ultimately from {{der|en|ine-pro|*peh₂ǵ-}}.
-
-===Pronunciation===
-* {{sense|noun}} {{enPR|imʹpăkt}}, {{IPA|en|/ˈɪmpækt/}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-impact (noun).wav |Audio (UK)}}
-* {{sense|verb}} {{enPR|im-păktʹ}}, {{IPA|en|/ɪmˈpækt/}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-impact (verb).wav |Audio (UK)}}
-** {{rhymes|en|ækt|s=2}}
-
+From Latin ''[[impingere]]'', to [[dash]] against, [[impinge]]
 ===Noun===
-{{en-noun|~}}
-
-# The striking of one body against another; [[collision]].
-# The force or energy of a [[collision]] of two [[object]]s.
-#: {{ux|en|The hatchet cut the wood on '''impact'''.}}
-# {{lb|en|chiefly|medicine}} A forced [[impinge|impinging]].
-#: {{ux|en|His spine had an impingement; L4 and L5 made '''impact''', which caused numbness in his leg.}}
-# {{lb|en|figurative|proscribed}} A [[significant]] or strong [[influence]] or [[effect]].
-#: {{ux|en|His friend's opinion had an '''impact''' on his decision.}}
-#: {{ux|en|Our choice of concrete will have a tremendous '''impact''' on the building's mechanical performance.}}
-#* {{quote-book|en|title=Unnaturally Delicious|author=Jayson Lusk|year=2016|ISBN=9781250074300|page=111
-|passage=One way to reduce the environmental '''impact''' of meat eating is to make livestock more productive.}}
-
-====Usage notes====
-* Adjectives often applied to "impact": <!-- by area of impact -->social, political, physical, <!-- goodness, size, likelihood, etc. --> positive, negative, good, bad, beneficial, harmful, significant, great, important, strong, big, small, real, huge, likely, actual, potential, devastating, disastrous, true, primary.
-* The adposition generally used with "impact" is "[[on]]" (such as in last example in section above)
-* There are some who find the figurative noun sense problematic, with a low threshold for labeling such use as overuse ([[cliché]]). In defensive editing, the solution is to replace the figurative noun sense with ''[[effect]]'' and the verb sense with ''[[affect]]'', which nearly always produces an acceptable result. (Rarely, a phrase such as "the impact of late effects" is better stetted to avoid "the effect of [...] effects".)
-
-====Derived terms====
-{{rel-top3|Terms derived from ''impact'' (noun)}}
-* {{l|en|impact aid}}
-* {{l|en|impact area}}
-* {{l|en|impactful}}
-* {{l|en|impactive}}
-{{rel-mid3}}
-* {{l|en|impact statement}}
-{{rel-bottom}}
-
-====Related terms====
-* {{l|en|impinge}}
-
-====Translations====
-{{trans-top|a collision}}
-* Bulgarian: {{t+|bg|сблъскване|n}}
-* Finnish: {{t+|fi|törmäys}}
-* French: {{t+|fr|impact|m}}, {{t+|fr|choc|m}}, {{t+|fr|collision|f}}
-* German: {{t+|de|Aufprall|m}}, {{t+|de|Einschlag|m}}, {{t+|de|Aufschlag|m}}
-* Hungarian: {{t+|hu|ütközés}}, {{t+|hu|becsapódás}}
-* Italian: {{t+|it|impatto|m}}, {{t+|it|collisione|f}}
-* Latin: {{t|la|impulsus|m}}, {{t|la|conflictus|m}}
-{{trans-mid}}
-* Polish: {{t|pl|impakt|m}}, {{t+|pl|zderzenie|n}}
-* Portuguese: {{t+|pt|impacto}}, {{t+|pt|impacte}}
-* Romanian: {{t+|ro|șoc|n}}, {{t+|ro|impact|n}}, {{t+|ro|coliziune|f}}
-* Russian: {{t+|ru|столкнове́ние|}}
-* Slovak: {{t|sk|náraz|m}}, {{t|sk|dopad|m}}, {{t|sk|úder|m}}
-* Ukrainian: {{t|uk|зі́ткнення|n}}
-* Vietnamese: {{t+|vi|va chạm}}
-* Welsh: {{t|cy|gwrthdrawiad|m}}
-{{trans-bottom}}
-
-{{trans-top|the force or energy of a collision of two objects}}
-* Dutch: {{t+|nl|inslag}}, {{t+|nl|botsing|f}}
-* Finnish: {{t|fi|iskuvaikutus}}, {{t+|fi|törmäys}}, {{t+|fi|isku}}
-* French: {{t+|fr|impact|m}}
-* German: {{t+|de|Einschlag|m}}, {{t+|de|Aufprall|m}}, {{t+|de|Aufschlag|m}}
-* Hungarian: {{t+|hu|behatás}}, {{t+|hu|hatás}}
-* Italian: {{t+|it|impatto|m}}
-* Latin: {{t|la|ictus}}
-* Norwegian: {{t|no|treffvirkning|c}}
-{{trans-mid}}
-* Polish: {{t+|pl|uderzenie|n}}
-* Portuguese: {{t+|pt|impacto|m}}, {{t+|pt|impacte}}
-* Russian: {{t+|ru|уда́р|m}}, {{t+|ru|толчо́к|m}}, {{t+|ru|сотрясе́ние|n}}
-* Slovak: {{t|sk|zrážka|f}}, {{t|sk|náraz|m}}, {{t|sk|úder|m}}
-* Spanish: {{t+|es|impacto|m}}
-* Turkish: {{t+|tr|çarpma}}
-* Ukrainian: {{t+|uk|удар}}
-* Welsh: {{t+|cy|gwrthdaro}}
-{{trans-bottom}}
-
-{{trans-top|a forced impinging}}
-* German: {{t+|de|Belastung|f}}, {{t+|de|Stoß|m}}, {{t+|de|Druck|m}}
-* Italian: {{t+|it|impatto|m}}
-* Portuguese: {{t+|pt|impacto|m}}
-{{trans-mid}}
-* Spanish: {{t+|es|impacto|m}}
-* Turkish: {{t+|tr|vuruş}}
-* Welsh: {{t|cy|cywasgiad |m}}
-{{trans-bottom}}
-
-{{trans-top|a significant or strong influence}}
-* Bulgarian: {{t+|bg|въздействие|n}}
-* Catalan: {{t+|ca|impacte|m}}
-* Czech: {{t+|cs|dopad|m}}
-* Dutch: {{t+|nl|schokeffect|n}}
-* Finnish: {{t+|fi|vaikutus}}
-* French: {{t+|fr|impact}}
-* Galician: {{t|gl|impacto|m}}
-* German: {{t+|de|Auswirkung|f}}, {{t+|de|Einwirkung|f}}, {{t+|de|Einfluss|m}}, {{t+|de|Beeinflussung|f}}
-* Greek:
-*: Ancient: {{t|grc|ἔμπτωσις}}
-* Hungarian: {{t+|hu|befolyás}}
-* Irish: {{t|ga|tionchar|m}}
-{{trans-mid}}
-* Italian: {{t+|it|impatto|m}}, {{t+|it|effetto|m}}, {{t+|it|influenza|f}}, {{t+|it|influsso|m}}
-* Norwegian: {{t|no|virkning|c}}
-* Occitan: {{t|oc|impacte|m}}
-* Polish: {{t|pl|impakt|m}}, {{t+|pl|wpływ|m}}
-* Portuguese: {{t+|pt|impacto|m}}
-* Russian: {{t+|ru|возде́йствие|n}}, {{t+|ru|влия́ние|n}}
-* Slovak: {{t|sk|dopad|m}}, {{t|sk|dôsledok|m}}
-* Spanish: {{t+|es|impacto|m}}, {{t+|es|efecto|m}}, {{t+|es|consecuencia|f}}
-* Swedish: {{t+|sv|inverkan|c}}
-* Turkish: {{t+|tr|etki}}, {{t+|tr|tesir}}
-* Ukrainian: {{t|uk|вплив}}
-* Welsh: {{t|cy|dylanwad|m}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Interlingua: {{t-check|ia|impacto}}
-{{trans-bottom}}
-
+'''impact''' (''plural'' '''impacts''')
+# a [[significant]] or strong [[influence]]
+#:''His friend's opinon had an '''impact''' on his decision.''
+#:''Which concrete we use will have a tremendous '''impact''' on the building's statics.''
+# (the force or energy of a) [[collision]] of two objects
+#:''The [[hatchet]] cut the wood on '''impact'''.''
+# (''mainly medical'') a forced [[impinge|impinging]]
+#:''His [[spine]] had an [[impingement]]; L4 and L5 made '''impact''', which caused [[numbness]] in his leg.''
+===Translations===
+*[[French]]: impact sur , influence sur (1), choc, collision, impact (2)
+*[[German]]: [[Einfluß]] ''m'' (1), [[Aufschlag]] ''m'' (2), [[Einschlag]] ''m'' (2), [[Aufprall]] ''m'' (2),
+*[[Interlingua]]: [[impacto]] 
+*[[Italian]]: [[effetto]] 
+*[[Portuguese]]: [[impacto]] ''m''.
+*[[Slovak]]: [[náraz]] ''m'' (1), [[dôsledok]] ''m'' (2)
+*[[Spanish]]: [[impacto]] ''m''. 
 ===Verb===
-{{en-verb}}
-
-# {{lb|en|transitive}} To [[collide]] or [[strike]], the act of [[impinging]].
-#: ''When the hammer '''impacts''' the nail, it bends.''
-# {{lb|en|transitive}} To [[compress]]; to [[compact]]; to press into something or pack together.
-#: ''The footprints of birds do not '''impact''' the soil in the way those of dinosaurs do.''
-# {{lb|en|transitive|figurative|proscribed}} To [[significant]]ly or [[strong]]ly [[influence]] or [[affect]]; to have an [[impact#Noun|impact]] on.
-#: ''I can make the changes, but it will '''impact''' the schedule.''
-# {{lb|en|transitive|rare}} To [[stamp]] or [[impress]] onto something.
-#: ''Ideas '''impacted''' on the mind.''
-
-====Usage notes====
-Some authorities object to the verb sense of ''impact'' meaning "to significantly or strongly influence or affect; to have an impact on". Although most [[w:Conversion_(word_formation)#Verbification|verbification]] instances in English draw no prescriptive attention, a few do, including this one. To avoid controversy, one can replace the verb sense with ''[[affect]]'', which nearly always produces an acceptable result. See also [[#Usage_notes|the usage note for the noun sense]].
-
-====Derived terms====
-* {{l|en|impaction}}
-* {{l|en|impactor}}
-
-====Translations====
-{{trans-top|to collide or strike}}
-* Bulgarian: {{t+|bg|удрям}}, {{t|bg|сблъсквам се}}
-* Catalan: {{t+|ca|impactar}}
-* Finnish: {{t+|fi|törmätä}}, {{t|fi|iskeytyä}}, {{t+|fi|iskeä}}
-* German: {{t+|de|einschlagen}}, {{t+|de|zusammenstossen}}, {{t+|de|kollidieren}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|ütközik}}
-* Italian: {{t+|it|colpire}}, {{t+|it|collidere}}
-* Lao: {{t-needed|lo}}
-* Polish: {{t+|pl|uderzać}}, {{t+|pl|zderzać}}
-* Thai: {{t-needed|th}}
-{{trans-bottom}}
-
-{{trans-top|to compress}}
-* Bulgarian: {{t+|bg|стягам}}, {{t+|bg|натъпквам}}
-* Dutch: {{t+|nl|samenpersen}}
-* Finnish: {{t|fi|[[puristaa]] [[kokoon]]}}
-{{trans-mid}}
-* German: {{t+|de|zusammenpressen}}
-* Hungarian: {{t+|hu|összenyomódik}}
-* Italian: {{t+|it|comprimere}}
-* Polish: {{t+|pl|ściskać}}
-{{trans-bottom}}
-
-{{trans-top|to influence}}
-* Bulgarian: {{t+|bg|въздействам}}
-* Catalan: {{t+|ca|impactar}}
-* Dutch: {{t+|nl|inwerken}}, {{t+|nl|beïnvloeden}}
-* Finnish: {{t+|fi|vaikuttaa}}
-* French: {{t+|fr|affecter}}, {{t+|fr|toucher}}
-{{trans-mid}}
-* German: {{t+|de|beeinflussen}}, {{t+|de|einwirken}}, {{t+|de|beeinträchtigen}}
-* Hungarian: {{t+|hu|befolyásol}}
-* Italian: {{t+|it|impattare}}, {{t+|it|incidere}}, {{t+|it|influenzare}}
-* Maori: {{t|mi|whakaaweawe}}
-* Polish: {{t+|pl|wpływać}}
-{{trans-bottom}}
-
-[[Category:English heteronyms]]
+#to influence
+#:''I can make the changes, but it will '''impact''' the schedule.
+#to collide or [[strike]]
+#:''When the hammer '''impacts''' the nail, it bends.''
 
 ----
 
-==French==
+== [[French]] ==
+=== [[noun]] ===
+# Impact
 
-===Etymology===
-From {{uder|fr|la|-}}, see above.
-
-===Pronunciation===
-* {{fr-IPA}}
-* {{audio|fr|LL-Q150 (fra)-DSwissK-impact.wav|Audio}}
-
-===Noun===
-{{fr-noun|m}}
-
-# {{lb|fr|literally|_|or|_|figuratively}} [[#English|impact]]
-
-===Further reading===
-* {{R:TLFi}}
-
-----
-
-==Romanian==
-
-===Etymology===
-From {{bor|ro|fr|impact}}, from {{der|ro|la|impactus}}.
-
-===Noun===
-{{ro-noun|n|impacturi}}
-
-# {{l|en|impact}}
-
-====Declension====
-{{ro-noun-n-uri}}
+[[et:Impact]]
+[[it:impact]]
