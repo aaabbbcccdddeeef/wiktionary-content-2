@@ -1,143 +1,21 @@
 ==English==
 
-===Etymology===
-{{root|en|ine-pro|*dʰer-}}
-From {{inh|en|enm|affirmative}}, {{m|enm|affirmatyve}}, from {{der|en|fro|affirmatif}}, from {{der|en|la|affirmativus}}, from {{m|la|affirmare|t=to assert}}.
-
-===Pronunciation===
-* {{a|RP}} {{IPA|en|/əˈfɜːmətɪv/}}
-* {{a|US}} {{IPA|en|/əˈfɝmətɪv/}}
-* {{audio|en|en-us-affirmative.ogg|Audio (US)}}
-
-===Adjective===
-{{en-adj}}
-
-# pertaining to [[truth]]; asserting that something ''is''; [[affirm]]ing
-#: {{ux|en|an '''affirmative''' answer}}
-# pertaining to any [[assertion]] or active [[confirmation]] that favors a particular result
-# [[positive]]
-#: {{ux|en|an '''affirmative''' vote}}
-# Confirmative; ratifying.
-#: {{ux|en|an act '''affirmative''' of common law}}
-# [[dogmatic]]
-#* {{RQ:Berkeley Alciphron}}
-#*: Lysicles was a little disconcerted by the '''affirmative''' air of Crito.
-# {{lb|en|logic}} Expressing the [[agreement]] of the two [[term]]s of a [[proposition]].
-# {{lb|en|algebra}} [[positive]]; not [[negative]]
-
-====Derived terms====
-{{der2|en|affirmative action|affirmatively|apefirmative action|affirmative defense|affirmative pregnant|affirmative resolution|affirmative waste|trans-affirmative}}
-
-====Translations====
-{{trans-top|pertaining to truth}}
-* Bulgarian: {{t+|bg|утвърдителен}}
-* Catalan: {{t|ca|afirmatiu}}
-* Finnish: {{t+|fi|myöntävä}}
-* French: {{t+|fr|affirmatif}}
-* German: {{t+|de|affirmativ}}
-* Greek:
-*: Ancient: {{t|grc|κατωμοτικός}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|afirmativo}}, {{t+|pt|positivo}}
-* Russian: {{t+|ru|утверди́тельный}}
-* Spanish: {{t+|es|afirmativo}}
-{{trans-bottom}}
-
-{{trans-top|positive}}
-* Bulgarian: {{t+|bg|положителен}}
-* Finnish: {{t+|fi|puoltava}}
-* French: {{t+|fr|affirmatif}}
-* German: {{t+|de|affirmativ}}
-* Greek:
-*: Ancient: {{t|grc|θετικός}}
-{{trans-mid}}
-* Irish: {{t|ga|dearfach}}
-* Polish: {{t+|pl|afirmacyjny}}, {{t+|pl|afirmatywny}}
-* Russian: {{t+|ru|положи́тельный}}
-* Spanish: {{t+|es|positivo}}
-* Welsh: {{t+|cy|cadarnhaol}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Irish: {{t-check|ga|deimhneach}}
-{{trans-mid}}
-* Manx: {{t-check|gv|shickyragh}}
-{{trans-bottom}}
-
 ===Noun===
-{{en-noun}}
-
-# [[yes|Yes]]; an [[answer]] that shows [[agreement]] or [[acceptance]].
-#: {{ux|en|That's an '''affirmative''' Houston, the space shuttle has lost the secondary thrusters.}}
-#: {{ux|en|10-4 good buddy. That's an '''affirmative''' - the tractor trailer is in the ditch at the side of the highway.}}
-#: {{ant|en|negative}}
-# {{lb|en|grammar}} An answer that shows agreement or acceptance.
-# {{lb|en|obsolete}} An [[assertion]].
-#* '''1646''', Sir Thomas Browne, ''Pseudodoxia Epidemica'', III.17:
-#*: that every hare is both male and female, beside the vulgar opinion, was the '''affirmative''' of Archelaus, of Plutarch, Philostratus, and many more.
-
-====Translations====
-{{trans-top|answer that shows agreement or acceptance}}
-* Catalan: {{t|ca|afirmativa|f}}
-* Dutch: {{t|nl|bevestigende zin|m}}
-* Finnish: {{t|fi|myöntölause}}
-* French: {{t-check|fr|phrase affirmative|f}}
-* German: {{t-check|de|affirmativer Satz|m}}
-{{trans-mid}}
-* Norwegian: {{t|no|bekreftes}}, {{t|no|tiltredes}} {{q|archaic}}
-* Portuguese: {{t|pt|afirmativa|f}}
-* Russian: {{t+|ru|утверди́тельный}}
-* Spanish: {{t+|es|afirmativa|f}}
-{{trans-bottom}}
-
-===Interjection===
-{{en-interj}}
-
-# An elaborate synonym for the word [[yes]].
-# {{lb|en|military|especially radio communications}} [[yes|Yes]]; [[true]]; [[correct]].
-
-====Translations====
-{{trans-top|(military) yes; true; correct}}
-{{trans-mid}}
-* Russian: {{t+|ru|так то́чно}}
-{{trans-bottom}}
+'''affirmative'''
+#[[Yes]]; an [[answer]] that shows [[agreement]] or [[acceptance]].
+#''(grammatical terminology)'': an answer that shows agreement or acceptance.
 
 ===See also===
-* {{l|en|affirmative sentence}}
+*[[affirmative sentence]]
 
-===References===
-* {{R:OneLook}}
+===Translations===
+*[[Dutch]]: [[bevestigende zin]] ''m''
+*[[French]]: [[phrase affirmative]] ''f''
+*[[German]]: [[affirmative Satz]] ''m''
+*[[Latin]]: [[]]
+*[[Spanish]]: [[oración afirmativa]] ''f''
 
-----
+[[Category:Positive words]]
 
-==French==
-
-===Pronunciation===
-* {{fr-IPA}}
-* {{audio|fr|LL-Q150 (fra)-DenisdeShawi-affirmative.wav|Audio (CAN)}}
-
-===Adjective===
-{{head|fr|adjective form}}
-
-# {{feminine singular of|fr|affirmatif}}
-
-----
-
-==German==
-
-===Pronunciation===
-* {{audio|de|De-affirmative.ogg|Audio}}
-
-===Adjective===
-{{head|de|adjective form}}
-
-# {{de-adj form of|affirmativ}}
-
-----
-
-==Latin==
-
-===Adjective===
-{{la-adj-form|affirmātīve}}
-
-# {{inflection of|la|affirmātīvus||voc|m|s}}
+[[et:affirmative]]
+[[pl:Affirmative]]
