@@ -1,53 +1,8 @@
 ==English==
-
-===Pronunciation===
-* {{IPA letters|en|S|Q|L}}
-** {{audio|en|En-us-SQL.ogg|Audio (US)}}
-* {{sense|Structured Query Language}} {{IPA|en|/ˈsiːkwəl/}}
-** {{audio|en|en-us-sequel.ogg|Audio (US)}}
-** {{homophones|en|sequel}}
-** {{rhymes|en|iːkwəl|s=2}}
-** The first form of SQL was called {{m|en||SEQUEL}}, pronounced like {{m|en||sequel}}. As a result, many speakers still pronounce {{m|en|SQL}} like {{m|en||sequel}}. (For these speakers, {{m|en|SQL}} is an [[Appendix:Glossary#acronym|acronym]].)
-
-===Noun===
-{{en-noun|-}}
-
-# {{lb|en|computer language|databases}} {{initialism of|en|w:Structured Query Language}}
-# {{lb|en|physics}} {{initialism of|en|[[standard]] [[quantum limit]]}}
-
-====Hypernyms====
-* {{l|en|QL}}
-
-====Hyponyms====
-{{col4
-|en| eSQL
-| NoSQL
-| PL/SQL
-| Transact-SQL
-| T-SQL
-}}
-
-====Derived terms====
-{{der2
-|en|HSQLDB
-}}
-
-====Translations====
-{{trans-top|SQL (Structured Query Language)}}
-* Arabic: {{t|ar|إِس كْيُو إِل|tr=ʾes kyū ʾel|m}}, {{t|ar|إسْ كْيُو إلْ|m}}
-* German: {{t+|de|SQL|n}}
-* Japanese: {{t+|ja|SQL|tr=esu-kyū-eru}}
-* Korean: {{t|ko|SQL|tr=eseukyuel}}
-* Norwegian: {{t|no|SQL|n}}
-{{trans-mid}}
-* Persian: {{t|fa|اس‌کیوال|tr=es-kiyu-el|sc=fa-Arab}}
-* Russian: {{t+|ru|SQL|m|tr=-}} (pronounced {{m|ru||эс-ку-э́ль}} or {{m|ru||эс-кью-э́л}})
-* Serbo-Croatian: {{t|sh|SQL|m}}
-* Swedish: {{t|sv|SQL|n}}
-* Turkish: {{t+|tr|SQL}}
-{{trans-bottom}}
-
-===References===
-* {{pedia}}
-
-[[Category:English acronyms]]
+==={{initialism}}===
+{{wikipedia}}
+'''SQL'''
+# [[Structured]] [[Query]] [[Language]]
+===See also===
+* [[database]]
+* [[mySQL]]
