@@ -1,190 +1,51 @@
 ==English==
-{{wikipedia}}
-
 ===Etymology===
-First attested in the mid 15th century. From {{inh|en|enm|accusative}}, from {{der|en|xno|accusatif}} or {{der|en|frm|acusatif}} or from {{der|en|la|accūsātīvus|t=having been blamed}}, from {{m|la|accūsō|t=to blame}}.  Equivalent to {{suffix|en|accuse|ative}}. The Latin form is a mistranslation of the {{der|en|grc|-}} grammatical term {{m|grc|αἰτιᾱτική|t=expressing an effect}}. This term actually comes from {{affix|grc|αἰτιᾱτός|t1=caused|-ῐκός|pos2=adjective suffix|nocat=1}}, but was reanalyzed as coming from {{m|grc||αἰτιᾱ-}}, the stem of the verb {{m|grc|αἰτιάομαι|t=to blame}}, + {{m|grc|-τῐκός|pos=verbal adjective suffix}}.
-
-===Pronunciation===
-* {{a|UK}} {{IPA|en|/əˈkjuːzətɪv/}}
-* {{a|US}} {{enPR|əkū'zətĭv}}, {{IPA|en|/əˈkjuzətɪv/}}
-* {{hyphenation|en|ac|cusa|tive}}
-* {{audio|en|en-us-accusative.ogg|Audio (US)}}
+From French adjective '''[[accusatif]]''', from Latin '''[[accusativus]]''', from perfect passive participle '''[[accusatus]]''', from verb '''[[accusare]]''', + adjective suffix '''[[-ivus]]'''. See [[accuse]].
 
 ===Adjective===
-{{en-adj}}
+'''accusative'''
 
-# Producing [[accusation]]s; in a manner that reflects a finding of fault or blame
-#: {{syn|en|accusatory|accusatorial}}
-#* '''22 November, 1641''', {{w|Edward Dering}}, ''a speech''
-#*: This hath been a very '''accusative''' age.
-# {{lb|en|grammar}} Applied to the [[case]] (as the fourth case of Latin, Lithuanian and Greek nouns) which expresses the [[immediate]] [[direct object|object]] on which the action or influence of a [[transitive]] verb has its limited influence. Other parts of speech, including secondary or [[predicate]] [[direct object]]s, will also influence a sentence’s construction. In German the case used for [[direct object]]s.
-
-====Translations====
-{{trans-top|producing accusations; accusatory}}
-* Armenian: {{t+|hy|մեղադրական}}
-* Catalan: {{t+|ca|acusatiu}}
-* Dutch: {{t+|nl|beschuldigend}}
-* Esperanto: {{t|eo|akuza}}
-* Finnish: {{t+|fi|syyttävä}}, {{t|fi|syyttelevä}}
-* Hungarian: {{t|hu|vádaskodó}}
-* Icelandic: {{t+|is|ásaka|alt=ásakandi}}
-{{trans-mid}}
-* Japanese: {{t|ja|非難を表す|tr=hinan wo arawasu}}
-* Portuguese: {{t+|pt|acusativo}}, {{t|pt|acusatório}}
-* Romanian: {{t+|ro|acuzator}}, {{t+|ro|acuzativ}}
-* Russian: {{t+|ru|обвини́тельный}}
-* Spanish: {{t+|es|acusativo}}
-* Turkish: {{t|tr|suçlayıcı}}
-* Welsh: {{t|cy|cyhuddgar}}, {{t|cy|cyhuddol}}
-{{trans-bottom}}
-
-{{trans-top|related to accusative case}}
-* Armenian: {{t+|hy|հայցական}}
-* Azerbaijani: {{t|az|təsirlik hal}}
-* Belarusian: {{t|be|вінава́льны}}
-* Bulgarian: {{t|bg|вини́телен}}
-* Catalan: {{t+|ca|acusatiu}}
-* Chinese:
-*: Mandarin: {{t+|cmn|宾格}}, {{t|cmn|第四格}}
-* Dutch: {{t+|nl|accusatief}}
-* Esperanto: {{t|eo|akuzativa}}
-* Estonian: {{t|et|sihitav}}, {{t+|et|akusatiiv}}
-* Finnish: {{t+|fi|akkusatiivi|alt=akkusatiivi-}}
-* French: {{t+|fr|accusatif}}
-* Georgian: {{t|ka|ბრალდებითი}}
-* German: {{t+|de|Akkusativ|alt=Akkusativ-}}, {{t+|de|akkusativisch}}
-* Greek: {{t+|el|αιτιατική|f}}
-*: Ancient: {{t|grc|αἰτιατική}}
-* Hungarian: {{t|hu|[[tárgyeset]][[-ben|ben]] [[lévő]]/[[álló]]}}
-* Icelandic: {{t+|is|þolfall|alt=þolfalls-}}
-{{trans-mid}}
-* Irish: {{t+|ga|áinsíoch}}, {{t|ga|cuspóireach}}
-* Japanese: {{t|ja|対格の}}
-* Latin: {{t|la|accūsātīvus}}
-* Latvian: {{t+|lv|akuzatīvs|m}}
-* Old English: {{t|ang|wrēġendlīċ}}
-* Polish: {{t+|pl|biernikowy}}
-* Portuguese: {{t+|pt|acusativo}}
-* Russian: {{t+|ru|вини́тельный}}
-* Slovene: {{t|sl|tožilniški}}
-* Spanish: {{t+|es|acusativo}}
-* Swedish: {{t+|sv|ackusativ}}
-* Turkish: {{t+|tr|belirtme}} (hâli/durumu), {{t+|tr|-i hâli}}, {{t|tr|aküzatif}}
-* Ukrainian: {{t+|uk|знахі́дний}}
-* Welsh: {{t+|cy|gwrthrychol}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* French: {{t+check|fr|accusatif}}
-* Hebrew: {{t-check|he|יחס הפעול|tr=yakhas ha-pa’ul}}
-{{trans-mid}}
-* Interlingua: {{t+check|ia|accusative}}
-* Italian: {{t+check|it|accusativo}}
-* Swedish: {{t+check|sv|ackusativ}}
-{{trans-bottom}}
-
-===Noun===
-{{en-noun}}
-
-# {{lb|en|grammar}} The [[accusative case]].
-
-====Synonyms====
-* {{sense|accusative case}} {{l|en|acc.}}, {{l|en|A.}}
-
-====Derived terms====
-{{der2|en
-|accusative absolute
-|accusative cognate
-|adverbial accusative
-|cognate accusative
-|genitive-accusative
-}}
+#Producing [[accusation]]s; [[accusatory]]; a manner that reflects a finding of fault or blame
+#:'''Quotations'''
+#:*This hath been a very '''accusative''' age &mdash; [[w:Sir E. Dering|Sir E. Dering]]
+#{{Grammar}}<!-- this is a template...if you wish to change the format, please edit the template itself -->: Applied to the [[case]] (as the fourth case of Latin and Greek nouns) which expresses the [[immediate]] [[direct object|object]] on which the action or influence of a [[transitive]] verb has its limited influence. Other parts of speech, including secondary or [[predicate]] [[direct object]]s, will also influence a sentence’s construction.
 
 ====Translations====
-{{trans-top|accusative case}}
-* Albanian: {{t+|sq|kallëzore|f}}
-* Arabic: {{t|ar|مَنْصُوب|m}}
-* Armenian: {{t+|hy|հայցական}}, {{t+|hy|հայցական հոլով}}
-* Asturian: {{t|ast|acusativu|m}}
-* Belarusian: {{t|be|вінава́льны склон|m}}, {{t|be|вінава́льны|m}}
-* Bulgarian: {{t|bg|винителен падеж|m}}
-* Catalan: {{t+|ca|acusatiu|m}}, {{t|ca|cas acusatiu|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|賓格}}, {{t+|cmn|宾格|tr=bīngé}}
-* Czech: {{t|cs|čtvrtý pád|m}}, {{t+|cs|akuzativ|m}}
-* Danish: {{t+|da|akkusativ}}
-* Dutch: {{t+|nl|accusatief|m}}, {{t+|nl|vierde naamval|m}}
-* Esperanto: {{t+|eo|akuzativo}}
-* Faroese: {{t+|fo|hvønnfall|n}}
-* Finnish: {{t+|fi|akkusatiivi}}, {{t+|fi|kohdanto}}
-* French: {{t+|fr|accusatif|m}}, {{t|fr|cas accusatif|m}}
-* Galician: {{t+|gl|acusativo|m}}
-* Georgian: {{t|ka|ბრალდებითი ბრუნვა}}, {{t|ka|აკუზატივი}}
-* German: {{t+|de|Akkusativ|m}}, {{t+|de|Wenfall|m}}, {{t|de|vierter Fall|m}}
-* Greek: {{t+|el|αιτιατική|f}}
-*: Ancient: {{t|grc|αἰτιατική|f}}
-* Hebrew: {{t|he|יחס הפעול|tr=yakhas ha-pa’ul|m}}
-* Hindi: {{t|hi|द्वितीया विभक्ति|f}}
-* Hungarian: {{t+|hu|tárgyeset}}, {{t+|hu|accusativus}} <!-- according to Magyar helyesírási szótár, 2017 -->
-* Icelandic: {{t+|is|þolfall|n}}
-* Ingrian: {{t|izh|akkusativa}}
-* Interlingua: {{t+|ia|accusativo}}
-* Irish: {{t|ga|áinsí|m}}
-*: Old Irish: {{t|sga|áinsid|m}}
-* Italian: {{t+|it|accusativo|m}}
-* Japanese: {{t+|ja|対格|tr=たいかく, taikaku}}
-{{trans-mid}}
-* Kashubian: {{t+|csb|winowôcz|m}}, {{t+|csb|akùzatiw|m}}
-* Kazakh: {{t|kk|табыс септік}}
-* Korean: {{t+|ko|대격}}
-* Latin: {{t|la|[[casus]] [[accusativus]]|m}}, {{t|la|incūsātīvus}}
-* Lithuanian: {{t+|lt|galininkas|m}}
-* Malayalam: {{t+|ml|പ്രതിഗ്രാഹിക}}
-* Mongolian: {{t|mn|заахын тийн ялгал}}, {{t+|mn|заах|sc=Cyrl}}
-* Northern Sami: {{t|se|akkusatiiva}}
-* Old English: {{t|ang|wregendlic casus}}
-* Polish: {{t+|pl|biernik|m-in}}, {{t+|pl|akuzatyw|m}}, {{t+|pl|accusativus|m}}, {{t+|pl|akuzatiwus|m}}
-* Portuguese: {{t+|pt|acusativo|m}}
-* Romanian: {{t+|ro|acuzativ|n}}, {{t|ro|caz acuzativ|n}}
-* Russian: {{t+|ru|вини́тельный паде́ж|m}}
-* Rusyn: {{t|rue|акузатів|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|акузатив|m}}
-*: Roman: {{t+|sh|akuzativ|m}}
-* Slovak: {{t+|sk|akuzatív|m}}, {{t|sk|štvrtý pád|m}}
-* Slovene: {{t+|sl|tožilnik|m}}
-* Spanish: {{t+|es|acusativo|m}}, {{t|es|caso acusativo|m}}
-* Swedish: {{t+|sv|ackusativ|c}}
-* Tamil: {{t+|ta|இரண்டாம் வேற்றுமை}}
-* Telugu: {{t+|te|ద్వితీయా విభక్తి}}
-* Thai: {{t+|th|กรรมการก}}
-* Ukrainian: {{t|uk|знахі́дний відмі́нок|m}}, {{t+|uk|знахі́дний|m}}
-* Uyghur: {{t|ug|چۈشۈم كېلىش}}
-* Vietnamese: {{t|vi|đối cách}}
-* Volapük: {{t|vo|kimifal}}, {{t+|vo|kusatif}}
-* Welsh: {{t+|cy|gwrthrychol|m}}
-* West Frisian: {{t|fy|hwaenfal}}, {{t|fy|4e fal}}, {{t+|fy|akkusatyf}}
-{{trans-bottom}}
-
-[[Category:en:Grammatical cases]]
-
-----
-
-==French==
-
-===Pronunciation===
-* {{audio|fr|LL-Q150 (fra)-Lyokoï-accusative.wav|Audio}}
-
-===Adjective===
-{{head|fr|adjective form}}
-
-# {{feminine singular of|fr|accusatif}}
-
-----
-
-==Latin==
+*Bulgarian: [[винителен]] (vinítelen)
+*Dutch: [[beschuldigend]]
+*French: [[accusatif]] ''m''
+*German: [[Akkusativ]]-
+*Greek: [[αιτιατική]] (aitiatikí) ''f''
+*Hebrew: [[יחס הפעול]] (yakhas ha-pa'ul) ''m''
+*Hungarian: [[tárgy]]
+*[[Interlingua]]: accusative
+*Italian: [[accusativo]] ''m''
+*Latin: [[accusativus]] ''m''
+*Portuguese: [[acusativo]] ''m''
+*Russian: [[винительный]] (vinítel’nyj) ''m''
+*Spanish: [[acusativo]] ''m''
+*Swedish: [[ackusativ]] (2)
 
 ===Noun===
-{{la-noun-form|accūsātīve}}
+'''accusative'''
 
-# {{inflection of|la|accūsātīvus||voc|s}}
+#{{Grammar}}: The [[accusative case]].
+
+====Translations====
+*Bulgarian: [[винителен падеж]] (vinítelen padéž) ''m''
+*Dutch: [[accusatief]] ''m'', [[vierde naamval]] ''m'', [[lijdend voorwerp]] ''n''
+*[[Esperanto]]: [[akuzativo]]
+*French: [[accusatif]] ''m''
+*German: [[Akkusativ]] ''m'', [[Wenfall]] ''m''
+*Greek: {{IPAchar|[[αἰτιατική πτῶσις]]}} (aitiatikí ptósis) ''f''
+*Hebrew: [[יחס הפעול]] (yakhas ha-pa'ul) ''m''
+*Hungarian: [[tárgy eset]]
+*[[Interlingua]]: [[accusativo]]
+*Italian: [[accusativo]] ''m''
+*Latin: [[casus]] [[accusativus]] ''m''
+*Portuguese: [[acusativo]] ''m''
+*Russian: [[винительный пaдeж]] (vinítel’nyj padéž) ''m''
+*Spanish: [[acusativo]] ''m'', [[complemento directo]] ''m''
+*Swedish: [[ackusativ]] ''n''
+
+[[sv:accusative]]
