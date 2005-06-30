@@ -1,44 +1,27 @@
 ==English==
-
-===Pronunciation===
-* {{audio|en|en-us-data structure.ogg|Audio (US)}}
-
 ===Noun===
-{{examples|[[hash table]], [[linked list]], [[binary tree]]}}
-{{en-noun}}
 
-# {{lb|en|computer science}} Any way of storing and organizing data in a computer so that it can be accessed efficiently.
+#An organization in software of [[data]] that allows more optimal [[search]]ing, categorizing, or [[storage]] of [[information]].
+#: Examples: [[matrix]], [[stack]], [[queue]], [[dequeue]], [[list]], [[vector]], scene graph.
 
 ====Translations====
-{{trans-top|organization of data}}
-* Catalan: {{t|ca|[[estructura]] [[de]] [[dades]]|f}}
-* Chinese:
-*: Mandarin: {{t|cmn|數據結構}}, {{t|cmn|数据结构|tr=shùjù jiégòu}}
-* Danish: {{t|da|datastruktur}}
-* Dutch: {{t|nl|gegevensstructuur}}, {{t+|nl|datastructuur|f}}
-* Estonian: {{t|et|andmestruktuur}}
-* Finnish: {{t+|fi|tietorakenne}}
-* French: {{t|fr|structure de donnée|f}}
-* German: {{t|de|Datenstruktur|f}}
-* Greek: {{t+|el|δομή δεδομένων|f}}
-* Hebrew: {{t+|he|מבנה נתונים|m}}
-{{trans-mid}}
-* Indonesian: {{t|id|[[struktur]] [[data]]}}
-* Japanese: {{t|ja|データ構造|tr=でーたこうぞう, dēta kōzō}}
-* Korean: {{t|ko|자료 구조}}
-* Macedonian: {{t+|mk|пода́точна структу́ра|f}}
-* Norwegian: {{t|no|datastruktur|m}}
-* Portuguese: {{t|pt|estrutura de dados|f}}
-* Romanian: {{t|ro|structură de date|f}}
-* Russian: {{t+|ru|структу́ра да́нных|f}}
-* Serbo-Croatian: {{t|sh|podatkovna struktura|f}}
-* Spanish: {{t|es|[[estructura]] [[de]] [[datos]]|f}}
-* Swedish: {{t|sv|datastruktur|c}}
-* Vietnamese: {{t|vi|cấu trúc dữ liệu}}
-{{trans-bottom}}
-
-====See also====
-* {{l|en|abstract data type}}
-
-===Further reading===
-* {{pedia}}
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*[[Catalan]]: [[estructura]] [[de]] [[dades]] ''f''
+*[[Chinese]]: [[数据结构]]
+*[[Dutch]]: [[gegevensstructuur]], [[datastructuur]] ''f''
+*[[Finnish]]: [[tietorakenne]]
+*[[German]]: [[Datenstruktur]] ''f''
+*[[Hebrew]]: [[מבנה נתונים]] ''m''
+*[[Indonesian]]: [[struktur]] [[data]]
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*[[Japanese]]: [[データ構造]] (でーたこうぞう, dēta-kōzō)
+|}
+|}
