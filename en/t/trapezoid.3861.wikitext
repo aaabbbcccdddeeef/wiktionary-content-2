@@ -1,106 +1,44 @@
 ==English==
-{{wikipedia}}
-
-[[File:Trapezoid2.png|thumb|Trapezoid (1) (US).|120px]]
-[[Image:Convex quadrilateral.svg|thumb|Trapezoid (2) (UK).]]
-
-===Etymology===
-From {{der|en|grc|τραπέζιον||irregular quadrilateral|lit=a little table}} + {{m|en|-oid||resembling}}.
-
-===Pronunciation===
-* {{enPR|tră'pəzoid}}, {{IPA|en|/ˈtɹæpəzɔɪd/}}
-* {{audio|en|en-au-trapezoid.ogg|Audio (AU)}}
+==Pronunciation==
+*(''US'') [[w:SAMPA|SAMPA]]: /tr{.pE.zOId/
 
 ===Noun===
-{{en-noun}}
+'''trapezoid''' (''plural'' '''trapezoids''')
 
-# {{lb|en|geometry|US}} A ([[convex]]) [[quadrilateral]] with two (non-adjacent) parallel sides.
-# {{lb|en|geometry|British|AU|NZ}} A [[convex]] [[quadrilateral]] with no sides parallel.
-# {{lb|en|anatomy}} The [[trapezoid bone]] of the [[wrist]].
-
-====Synonyms====
-* {{sense|geometry|convex quadrilateral with two non-adjacent parallel sides}} {{qualifier|British}} [[trapezium]]
-* {{sense|geometry|convex quadrilateral with no parallel sides}} {{l|en|irregular}} [[quadrilateral]], {{qualifier|US}} [[trapezium]]
-
-====Derived terms====
-* {{l|en|trapezoidal}}
+# (''geometry'') (''British'') A four-sided [[polygon]] with no two sides parallel (known as a [[trapezium]] in US English).
+# (''geometry'') (''US'') A four-sided [[polygon]] with two non-adjacent parallel sides (called a [[trapezium]] in British English).
 
 ====Translations====
-{{trans-see|quadrilateral with two sides parallel|trapezium}}
+'''with no sides parallel'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*French: [[trapézoïde]] ''m''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+|}
+|}
 
-{{trans-see|quadrilateral with no sides parallel|trapezium}}
+'''with two sides parallel'''
+{| border=0  width=100%
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*French: [[trapèze]] ''m''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*Italian: [[trapezio]] ''m''
+|}
+|}
 
-{{trans-top|trapezoid bone}}
-* Catalan: {{t+|ca|trapezoide|m}}
-* Finnish: {{t|fi|iso monikulmaluu}}
-{{trans-mid}}
-* Portuguese: {{t|pt|trapezoide|m}}
-* Spanish: {{t+|es|trapezoide|m}}
-{{trans-bottom}}
-
-[[Category:en:Shapes]]
-[[Category:en:Skeleton]]
-
-----
-
-==Polish==
-[[Image:Convex quadrilateral.svg|thumb|trapezoid]]
-
-===Pronunciation===
-{{pl-p}}
-
-===Noun===
-{{pl-noun|m-in}}
-
-# [[trapezium]]; [[irregular]] [[quadrilateral]]
-
-====Declension====
-{{pl-decl-noun
-|trapezoid|trapezoidy
-|trapezoidu|trapezoidów
-|trapezoidowi|trapezoidom
-|trapezoid|trapezoidy
-|trapezoidem|trapezoidami
-|trapezoidzie|trapezoidach
-|trapezoidzie|trapezoidy
-}}
-
-===Further reading===
-* {{R:pl:WSJP}}
-* {{R:pl:PWN}}
-
-{{C|pl|Geometry}}
-
-----
-
-==Romanian==
-
-===Etymology===
-From {{bor|ro|fr|trapézoïde}}.
-
-===Noun===
-{{ro-noun|n|trapezoide}}
-
-# {{l|en|trapezoid}}
-
-====Declension====
-{{ro-noun-n}}
-
-----
-
-==Serbo-Croatian==
-
-===Etymology===
-From {{der|sh|NL.|trapezoides}}.
-
-===Pronunciation===
-* {{IPA|sh|/trapezǒiːd/}}
-* {{hyphenation|sh|tra|pe|zo|id}}
-
-===Noun===
-{{sh-noun|g=m|head=trapezòīd}}
-
-# {{l|en|trapezium}}
-
-===References===
-* {{R:sh:HJP|f19kXxF9}}
+Translations to be checked and added to the right place in the tables above:
+*Danish: [[trapezoide]]
+*Dutch: [[trapezium]] ''n''
+*[[Esperanto]]: [[trapezio]]
+*Korean: [[평행사변형]] [平行四邊形] (pyeonghaengsabyeonhyeong)
