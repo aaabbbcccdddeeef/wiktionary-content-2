@@ -1,64 +1,24 @@
-==English==
-
+== English ==
 ===Etymology===
-From {{suffix|en|acid|ify}}, from {{uder|en|la|acidus||sour, acid}}; compare {{cog|fr|acidifier}}.
+Latin ''[[acidus]]'' sour, acid + -fy; compare French ''[[acidifier]]''
+===Transitive verb===
+'''acidify''', '''[[acidifies]]''', '''[[acidifying]]''', '''[[acidified]]'''
 
-===Pronunciation===
-* {{IPA|en|/əˈsɪdɪfaɪ/}}
-* {{audio|en|En-us-acidify.ogg|Audio (US)}}
-
-===Verb===
-{{en-verb}} {{tlb|en|transitive}}
-
-# To make something (more) [[acidic]] or [[sour]]; to convert into an [[acid]].
-# To [[neutralize]] [[alkali]]s.
-#: {{ux|en|to '''acidify''' sugar}}
-# {{lb|en|figurative}} To sour; to [[embitter]].
-#* {{RQ:Carlyle French Revolution}}
-#*: His thin existence all '''acidified''' into rage.
-
-====Antonyms====
-{{sense|chemistry}}
-* {{l|en|alkalify}}
-* {{l|en|basify}}
-
-====Related terms====
-* {{l|en|acidification}}
+# make something [[acid]] or [[sour]], to convert into an acid, to neutralize [[alkalis]], as to '''acidify''' sugar
+# to sour, to embitter
+#:'''Quotations'''
+#:*His thin existence all '''acidified''' into rage. - [[Thomas Carlyle]]
 
 ====Translations====
-{{trans-top|to make something acidic}}
-* Bulgarian: {{t|bg|подкислявам}}
-* Catalan: {{t+|ca|acidificar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|酸化|tr=suānhuà|sc=Hani}}
-* Dutch: {{t+|nl|verzuren}}
-* Finnish: {{t|fi|happamoittaa}}, {{t|fi|happamoitua}}; {{t|fi|hapottaa}}, {{t|fi|hapottua}}
-* French: {{t+|fr|acidifier}}
-* German: {{t+|de|säuern}}
-* Interlingua: {{t|ia|acidificar}}
-{{trans-mid}}
-* Irish: {{t|ga|aigéadaigh}}
-* Italian: {{t+|it|acidificare}}
-* Maori: {{t|mi|whakakawa}}, {{t|mi|whakawaikawa}}
-* Portuguese: {{t+|pt|acidificar}}
-* Romanian: {{t+|ro|acidifica}}
-* Russian: {{t+|ru|окисля́ть|impf}}, {{t+|ru|оки́слить|pf}}, {{t+|ru|подкисля́ть|impf}}, {{t+|ru|подки́слить|pf}}
-* Spanish: {{t+|es|acidificar}}
-* Swedish: {{t+|sv|syra}}
-{{trans-bottom}}
+* '''Finnish:''' [[happamoittaa]] (1, ''making''), [[happamoitua]] (1, ''converting''), [[hapantaa]] (1, ''non-technical making''), [[hapantua]] (1, ''non-technical converting''), [[katkeroitua]] (2)
+* '''French:''' [[acidifier]]
+* '''German:''' [[Säuern sich]]
+* '''Interlingua:''' [[acidificar]]
+* '''Italian:''' [[acidificare]]
+* '''Portuguese:''' [[acidificar]]
+* '''Spanish:''' [[acidificar]]
 
-{{trans-top|to neutralize alkalis}}
-* Bulgarian: {{t+|bg|неутрализирам}}
-* Finnish: {{t|fi|hapottaa}}
-{{trans-mid}}
-* Irish: {{t|ga|aigéadaigh}}
-{{trans-bottom}}
+===Related Terms===
+*[[acid]]
 
-{{trans-top|to embitter}}
-* Finnish: {{t|fi|katkeroittaa}}, {{t|fi|katkeroitua}}
-{{trans-mid}}
-* Maori: {{t|mi|whakakawa}}
-{{trans-bottom}}
-
-[[Category:English ergative verbs]]
-[[Category:en:Chemistry]]
+[[it:acidify]]
