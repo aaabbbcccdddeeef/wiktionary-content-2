@@ -1,420 +1,67 @@
-{{also|Dual|duel|duál}}
 ==English==
-{{wikipedia|Dual (grammatical number)}}
-{{wikipedia|Duality}}
-
-===Alternative forms===
-* {{alter|en|du.||abbreviation|grammar}}
+:''homophone: [[duel]]''
 
 ===Etymology===
-{{PIE word|en|dwóh₁}}
-Borrowed from {{bor|en|la|dualis|t=two}}, from {{m|la|duo|t=two}} + adjective suffix {{m|la|-alis}}.
+From Latin ''[[dualis]]'' ("two"), adjective formed from ''[[duo]]'' {"two"), + adjective suffix ''[[-alis]]''.
 
 ===Pronunciation===
-* {{a|UK}} {{enPR|dyo͞oʹəl, jo͞oʹəl}}; {{IPA|en|/ˈdjuː.əl/|/ˈdʒuː.əl/}}
-* {{a|US}} {{enPR|d(y)o͞o'əl}}; {{IPA|en|/ˈd(j)u.əl/}}
-* {{audio|en|en-uk-dual.ogg|Audio (UK)}}
-* {{rhymes|en|ʊəl|s=2}}
-* {{homophones|en|duel}}
+::(US) SAMPA:/du ' Vl/
 
-===Adjective===
-{{en-adj|-}}
-# Characterized by having [[two]] (usually equivalent) components.
-#: {{syn|en|double|twin|Thesaurus:dual}}
-#: {{coi|en|a '''dual'''-motor vehicle}}
-# Pertaining to [[two]], pertaining to a [[pair]] of.
-#: {{syn|en|double|duplicate|Thesaurus:twofold}}
-#: {{coi|en|'''dual''' engine failure}}
-#: {{coi|en|'''dual''' citizenship}}
-#* {{quote-book|en|year=2020|editor=Aída Besançon Spencer, William David Spencer|title=Christian Egalitarian Leadership: Empowering the Whole Church According to the Scriptures|author=Grace Ying May|chapter=Women Disciplining Men: A Biblical Pattern of Leadership|page=48|text=Both Deborah and Samuel held '''dual''' roles as judges and prophets.}}
-# {{lb|en|grammar}} Pertaining to a [[grammatical]] {{l|en|number|id=grammar}} in certain languages that refers to two of something, such as a pair of shoes.
-#: {{cot|en|singular|trial|plural}}
-#: ''Modern Arabic displays a '''dual''' number, as did Homeric Greek.''
-# {{lb|en|mathematics|physics}} Exhibiting [[duality]].
-# {{lb|en|linear algebra}} Being the space of all [[linear functional]]s of (some other space).
-#* {{quote-book|en|year=2012|author=Doug Fisher|author2=Hans-J. Lenz|title=Learning from Data: Artificial Intelligence and Statistics V|publisher=Springer Science & Business Media|isbn=9781461224044|page=81
-|passage=Accordingly, a hyperplane in the sample space is '''dual''' to a subspace in the variable space.}}
-# {{lb|en|category theory}} Being the [[dual#Noun|dual]] of some other category; containing the same objects but with source and target reversed for all [[morphisms]].
-#: {{syn|en|opposite}}
-#* {{quote-book|en|year=1992|author=Colin McLarty|title=Elementary Categories, Elementary Toposes|publisher=Clarendon Press|isbn=9780191589492|page=77
-|passage=Every category is '''dual''' to its own dual, so if a statement holds in all categories so does its dual.}}
+=== Adjective ===
+'''dual'''
+# Characterized by having two (usually equivalent) components.
+# double.
+#{{grammar}}: pertaining to a language form referring to two of something, such as a pair of shoes; contrast ''[[singular]]'' and ''[[plural]]''.
 
-====Derived terms====
-{{der2|en|dual-frequency|duality|dualism|dual-voltage|dual audio|dual boot|dual citizen|dual citizenship|dual control|dual earner|dual economy|dual federalism|dual graph|dual heritage|dual mandate|dual meet|dual mode|dual phenomenology|dual photon absorptiometry|dual polyhedron|dual primary|dual resident|dual school|dual SIM|dual-band|dual-boot|dual-clutch gearbox|dual-coding theory|dual-edged sword|dual-exceptional|dual-purpose|dual-sector model|dual-SIM|dual-tropic|Taoist dual cultivation}}
+:'''Examples:'''
+::''[[dual-headed]] computer''
 
 ====Translations====
-{{trans-top|having two components}}
-* Bulgarian: {{t|bg|от две части}}
-* Catalan: {{t+|ca|dual}}
-* Dutch: {{t+|nl|tweeledig}}
-* Esperanto: {{t|eo|duparta}}, {{t|eo|duala}}, {{t+|eo|duobla}}, {{t+|eo|binara}}
-* Finnish: {{qualifier|in compounds}} {{t+|fi|kaksi|alt=kaksi-}}, {{t+|fi|kaksois-}}, {{t|fi|duaalinen}}, {{t+|fi|duaali|alt=duaali-}}
-* French: {{t+|fr|double|m|f}}, {{t+|fr|duel|m}}, {{t+|fr|dual}}
-* Hungarian: {{t+|hu|kettős}}
-{{trans-mid}}
-* Indonesian: {{t+|id|dwi}}
-* Italian: {{t+|it|duale}}, {{t+|it|doppio}}
-* Latin: {{t|la|duālis}}
-* Manx: {{t|gv|dooblit}}
-* Polish: {{t+|pl|dwoisty}}, {{t+|pl|podwójny}}
-* Portuguese: {{t+|pt|dual}}
-* Russian: {{t+|ru|двойно́й}}, {{t+|ru|дво́йственный}}
-* Slovene: {{t+|sl|dvojen}}
-* Spanish: {{t+|es|doble}}, {{t+|es|dual}}
-{{trans-bottom}}
-
-{{trans-top|double}}
-* Arabic: {{t|ar|مُثَنًّى}}
-*: Gulf Arabic: {{t|afb|دَبَل|tr=dabal}}
-* Bulgarian: {{t+|bg|двоен}}
-* Catalan: {{t+|ca|doble}}
-* Dutch: {{t+|nl|dubbel|alt=dubbel-}}
-* Esperanto: {{t+|eo|duobla}}
-* Finnish: {{qualifier|in compounds}} {{t+|fi|kaksi|alt=kaksi-}}, {{t+|fi|kaksinkertainen}}
-* French: {{t+|fr|double|m|f}}
-{{trans-mid}}
-* Indonesian: {{t+|id|ganda}}
-* Manx: {{t|gv|dooblit}}
-* Polish: {{t+|pl|podwójny}}
-* Portuguese: {{t+|pt|duplo}}
-* Russian: {{t+|ru|двойно́й}}, {{t+|ru|двоя́кий}}, {{t+|ru|сдво́енный}}
-* Slovene: {{t+|sl|dvojen}}
-* Spanish: {{t+|es|doble}}
-* Swedish: {{t|sv|dubbel-}}, {{t+|sv|två-}}
-* Turkish: {{t+|tr|çift}}
-{{trans-bottom}}
-
-{{trans-top|in grammar}}
-* Arabic: {{t|ar|مُثَنًّى}}
-*: Gulf Arabic: {{t|afb|مُثَنَّى|tr=muṯanna}}
-* Armenian: {{t+|hy|երկակի}}
-* Czech: {{t|cs|duálový}}
-* Dutch: {{t+|nl|dualis|alt=dualis-}}, {{t+|nl|tweevoud|alt=tweevouds-}}
-* Finnish: {{qualifier|in compounds}} {{t+|fi|kaksikko|alt=kaksikko-}}, {{t|fi|duaalinen}}, {{qualifier|in compounds}} {{t+|fi|duaali|alt=duaali-}}
-* French: {{t+|fr|duel|m}}
-* German: {{t+|de|dual}}
-* Greek:
-*: Ancient: {{t|grc|δυϊκός}}
-* Hebrew: {{t+|he|זוגי}}
-* Hungarian: {{t+|hu|kettős}}, {{t+|hu|duális}} <!-- not "kettes", see e.g. https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/k-33922/kettes-356E6/ -->
-{{trans-mid}}
-* Indonesian: {{t+|id|dual}}
-* Middle Persian: {{t|pal|dw}}
-* Navajo: {{t|nv|naakigo|sc=Latn}}
-* Polish: {{t|pl|podwójna|f}}
-* Portuguese: {{t+|pt|dual}}
-* Russian: {{t+|ru|дво́йственный|m}}
-* Slovene: {{t|sl|dvojinski}}
-* Spanish: {{t+|es|dual}}
-* Swedish: {{t+|sv|dual}}
-* Tagalog: {{t|tl|dalawahan}}
-* Thai: {{t+|th|ทวิพจน์}}
-* Volapük: {{t|vo|telnumik}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Interlingua: {{t-check|ia|dual}}
-* Latin: {{t-check|la|dualis}}
-{{trans-mid}}
-* Romanian: {{t+check|ro|dual}}
-* Thai: {{t+|th|ทวิพจน์|tr=táwípód}}
-{{trans-bottom}}
-
-===Noun===
-{{en-noun}}
-
-# Of an item that is one of a pair, the other item in the pair.
-# {{lb|en|geometry}} Of a [[regular]] [[polyhedron]] with ''V'' vertices and ''F'' faces, the regular polyhedron having ''F'' vertices and ''V'' faces.
-#: {{ux|en|The octahedron is the dual of the cube.}}
-# {{rfc-sense|en}} {{lb|en|grammar}} The [[dual number]].
-# {{lb|en|mathematics}} Of a [[vector]] in an [[inner product space]], the [[linear]] [[functional]] corresponding to taking the [[inner product]] with that vector. The set of all duals is a [[vector space]] called the [[dual space]].
-
-====Derived terms====
-{{der2|en|categorical dual|first-person dual|second-person dual|self-dual|third-person dual}}
-
-====Translations====
-{{trans-top|grammatical number of a noun marking two of something}}
-* Arabic: {{t|ar|مُثَنَّى}}
-* Armenian: {{t+|hy|երկակի}}, {{t+|hy|երկակի թիվ}}
-* Czech: {{t+|cs|duál|m}}, {{t+|cs|dvojné číslo|n}}
-* Danish: {{t|da|dualis|c}}
-* Dutch: {{t+|nl|dualis|m}}, {{t+|nl|tweevoud|n}}
-* Faroese: {{t|fo|tvítal|n}}
-* Finnish: {{t+|fi|kaksikko}}
-* French: {{t+|fr|duel|m}}
-* German: {{t+|de|Dual|m}}, {{t+|de|Zweizahl|f}}
-* Greek:
-*: Ancient: {{t|grc|δυϊκόν|n}}
-* Hungarian: {{t|hu|[[kettős]] [[szám]]}}, {{t+|hu|duális}}
-* Irish: {{t|ga|déach}}
-{{trans-mid}}
-* Navajo: {{t|nv|nizhdiltʼéhígo|sc=Latn}}
-* Norwegian:
-*: Bokmål: {{t|nb|dualis|m}}, {{t+|nb|totall|n}}
-* Polish: {{t+|pl|liczba podwójna|f}}
-* Portuguese: {{t+|pt|dual|m}}
-* Russian: {{t+|ru|дво́йственное число́|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|двојѝна|f}}
-*: Roman: {{t+|sh|dvojìna|f}}
-* Slovene: {{t+|sl|dvojina|f}}
-* Swedish: {{t+|sv|dualis|c}}
-* Thai: {{t+|th|ทวิพจน์}}
-* Volapük: {{t+|vo|telnum}}
-{{trans-bottom}}
-
-====See also====
-* {{list:grammatical numbers/en}}
-* {{l|en|unal}}
-* {{l|en|duel}}
-
-===Verb===
-{{en-verb|++|pres_ptc_qual=UK|pres_ptc2=dualing|pres_ptc2_qual=US|past_qual=UK|past2=dualed|past2_qual=US}}
-
-# {{lb|en|transitive}} To convert from single to dual; specifically, to convert a single-[[carriageway]] road to a [[dual carriageway]].
-#* '''1994''', Great Britain. Parliament. House of Commons, ''Parliamentary Debates''
-#*: I have to declare an interest and I do so with some ambivalence because if the road is '''dualled''' it is likely to take half of my front garden.
-#* '''2006''', David Lowe, ''Intermodal Freight Transport'', p. 163
-#*: The power generation and propulsion systems are '''dualled''' to accommodate component failure and maintain propulsion at reduced speed should any part of one system be lost.
-#* {{quote-journal|en|date=2021 September 22|title=Network News: Nexus increases Tyne and Wear Metro train order to 46|journal=RAIL|issue=940|page=23|text=The investment will allow Nexus to increase service frequencies, reduce journey times, and improve reliability by '''dualling''' three sections of line between Pelaw and South Shields.}}
-
-===Anagrams===
-* {{anagrams|en|a=adlu|Auld|Daul|Dula|auld|laud|udal}}
-
-[[Category:en:Two]]
-
-----
-
-==French==
-
-===Adjective===
-{{fr-adj}}
-
-# {{l|en|dual}}
-
-===Noun===
-{{fr-noun|m}}
-
-# {{l|en|dual}}
-
-===Further reading===
-* {{R:TLFi}}
-
-----
-
-==German==
-
-===Pronunciation===
-* {{IPA|de|[duˈaːl]}}
-* {{hyph|de|du|al}}
-* {{audio|de|De-dual.ogg|Audio}}
-* {{rhymes|de|aːl|s=2}}
-
-===Adjective===
-{{de-adj}}
-
-# [[#English|dual]]
-
-====Declension====
-{{de-adecl}}
-
-===Further reading===
-* {{R:Duden}}
-* {{R:DWDS}}
-
-----
-
-==Irish==
-
-===Pronunciation===
-* {{IPA|ga|/d̪ˠuəl̪ˠ/|/d̪ˠuəlˠ/}}
-
-===Etymology 1===
-From {{inh|ga|sga|dúal|t=tress, lock of hair}}, from {{inh|ga|cel-pro|*doklos}}, from {{inh|ga|ine-pro|*doḱlos}} (compare {{cog|is|tagl|t=horse’s tail}}, {{cog|ang|tæġl}}, {{cog|en|tail}}).
-
-====Noun====
-{{ga-noun|m|duail|duail}}
-
-# [[lock]], [[tress]]
-#: {{syn|ga|dlaoi|dual gruaige}}
-# [[wisp]], [[tuft]]
-#: {{syn|ga|dlaoi}}
-# [[ply]], [[strand]]
-# [[twist]], [[twine]]
-# [[spiral]], [[whirl]]
-
-=====Declension=====
-{{ga-decl-m1|d|ual|uail}}
-
-=====Derived terms=====
-* {{l|ga|dualach|dualach<sup>1</sup>}}
-* {{l|ga|duailín}}, {{l|ga|dualán}}
-
-====Verb====
-{{ga-verb|pres=~ann|fut=~faidh|vn=~adh|pp=~ta}}
-
-# {{lb|ga|transitive}} [[twine]]
-# {{lb|ga|transitive}} [[braid]], [[coil]]
-# {{lb|ga|transitive}} [[interlace]], [[fold]]
-
-=====Conjugation=====
-{{ga-conj-1a|d|ua|l|broad}}
-
-===Etymology 2===
-{{rfe|ga}}
-
-====Noun====
-{{ga-noun|m|duail|duail}}
-
-# [[dowel]]
-# [[knot]] {{qualifier|in timber}}
-#: {{syn|ga|alt|cranra}}
-
-=====Declension=====
-{{ga-decl-m1|d|ual|uail}}
-
-=====Derived terms=====
-* {{l|ga|dualach|dualach<sup>2</sup>}}
-* {{l|ga|dualbhata}}
-
-===Etymology 3===
-From {{inh|ga|sga|dúal|t=that which belongs or is proper to an individual by nature or descent}}, from {{der|ga|ine-pro|*dʰewgʰ-}}.
-
-====Adjective====
-{{ga-adj|gsm=duail|gsf=duaile|pl=~a|comp=duaile}}
-
-# [[native]], [[natural]]
-#: {{ux|ga|Is '''dual''' dó a bheith leisciúil.|t=He is naturally lazy.|inline=1}}
-#: {{ux|ga|[[ní dual don diabhal bheith díomhaoin|Ní '''dual''' don diabhal bheith díomhaoin.]]|t=No rest for the wicked.|lit=It is not in the devil's nature to be idle.}}
-# [[proper]], [[fitting]]
-# in the natural [[order]] of things
-# [[fated]]
-# [[possible]]
-
-=====Declension=====
-{{ga-decl-adj|d|ual|gsm=uail|gsf=~e|pl=~a}}
-
-=====Related terms=====
-* {{l|ga|dualgas}}
-
-===Mutation===
-{{ga-mut}}
-
-===Further reading===
-* {{R:ga:Ó Dónaill}}
-* {{R:DIL|18951|head=1 dúal}}
-* {{R:DIL|18952|head=2 dúal}}
-* {{R:ga:EID}}
-* {{R:ga:Finck|II|72}}
-* {{R:ga:NEID}}
-
-----
-
-==Portuguese==
-
-===Pronunciation===
-{{pt-IPA}}
-* {{rhymes|pt|al|q1=Portugal|aw|q2=Brazil|s=2}}
-* {{hyph|pt|du|al}}
-
-===Adjective===
-{{pt-adj|hascomp=no}}
-
-# {{l|en|dual}} {{gloss|having two elements}}
-
-====Derived terms====
-* {{l|pt|dualidade}}
-* {{l|pt|dualmente}}
-
-----
-
-==Romanian==
-
-===Etymology===
-From {{bor|ro|fr|duel}}, from {{der|ro|la|dualis}}.
-
-===Noun===
-{{ro-noun|n|duale}}
-
-# {{lb|ro|grammar}} {{l|en|dual}}
-
-====Declension====
-{{ro-noun-n}}
-
-----
-
-==Scottish Gaelic==
-
-===Etymology 1===
-From {{inh|gd|sga|dúal|t=that which belongs or is proper to an individual by nature or descent}}, from {{der|gd|ine-pro|*dʰewgʰ-}}.
-
-====Pronunciation====
-* {{IPA|gd|/t̪uəɫ̪/}}
-
-====Adjective====
-{{gd-adj|comp=duaile}}
-
-# [[hereditary]]
-# [[usual]], [[natural]]
-#: {{uxi|gd|'S '''dual''' do phoileasman a bhith [[amharasach]].|It's natural for a policeman to be suspicious.}}
-
-====Noun====
-{{gd-noun|g=m|gen=duail|pl=dualan}}
-
-# [[birthright]]
-#: {{syn|gd|còir-bhreith}}
-# [[due]]
-# something which is [[natural]] and/or [[usual]]
-
-=====Derived terms=====
-* {{l|gd|bu dual do dh'isean an ròin a dhol chun na mara}}
-
-===Etymology 2===
-From {{inh|gd|sga|dúal|t=tress, lock of hair}}, from {{inh|gd|cel-pro|*doklos}}, from {{inh|gd|ine-pro|*doḱlos}}.
-
-====Noun====
-{{gd-noun|g=m|gen=duail|pl=dualan}}
-
-# [[curl]], [[lock]] of [[hair]]
-# [[plait]], [[strand]], [[braid]], or [[fold]]
-# [[ringlet]]
-
-====Verb====
-{{gd-verb|past=dhual|fut=dualidh|vn=dualadh|pp=dualte}}
-
-# [[plait]], [[twist]]
-# [[loop]], [[curl]]
-# [[fold]]
-# [[link]]
-
-===Mutation===
-{{gd-mut-cons|d|ual}}
-
-===References===
-* {{R:MacBain|145}}
-
-===Further reading===
-* {{R:DIL|18951|head=1 dúal}}
-* {{R:DIL|18952|head=2 dúal}}
-
-----
-
-==Spanish==
-
-===Etymology===
-From {{der|es|la|duālis}}.
-
-===Pronunciation===
-* {{rhymes|es|al|s=1}}
-
-===Adjective===
-{{es-adj}}
-
-# [[#English|dual]]
-# {{lb|es|grammar}} [[#English|dual]]
-
-====Derived terms====
-* {{l|es|dualmente}}
-
-===Further reading===
-* {{R:es:DRAE}}
+'''having two components'''
+{{top}}
+<!--languages from A to I go here-->
+*{{fi}}: [[kaksikko]]- (''in compounds''), [[kaksois]]- (''in compounds'')
+{{mid}}
+<!--languages from J to Z go here-->
+*Russian: [[двойной]] (dvojnój), [[двойственный]] (dvójstvennyj)
+*Spanish: [[doble]]
+{{bottom}}
+
+'''double'''
+{{top}}
+<!--languages from A to I go here-->
+*{{fi}}: [[kaksikko]]- (''in compounds''), [[kaksinkertainen]]
+{{mid}}
+<!--languages from J to Z go here-->
+*Russian: [[двойной]] (dvojnój), [[двоякий]] (dvojákij)
+*Spanish: [[doble]]
+{{bottom}}
+
+'''linguistic term'''
+{{top}}
+<!--languages from A to I go here-->
+*Finnish: [[kaksikko]]- (''in compounds''), [[duaalinen]], [[duaali]]- (''in compounds'')
+{{mid}}
+<!--languages from J to Z go here-->
+*Russian: [[двойственный]] (dvójstvennyj)
+*Spanish: dual
+{{bottom}}
+
+=====Translations to be checked=====
+
+*Dutch: [[tweeledig]]
+*Indonesian: [[ganda]], [[dwi]], dual
+*[[Interlingua]]: dual
+*Latin: [[dualis]]
+*Romanian: dual
+
+=== Related terms ===
+*[[duality]]
+*[[dualism]]
+*[[paucal]]
+*[[plural]]
+*[[singular]]
+*[[singulative]]
+*[[trial]]
+
+[[pl:Dual]]
