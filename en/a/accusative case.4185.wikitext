@@ -1,29 +1,41 @@
 ==English==
-
-===Alternative forms===
-* {{qualifier|abbreviation}}: {{l|en|A.}}, {{l|en|acc.}}, {{l|en|ACC}}
-
+{{Wikipedia}}
 ===Noun===
-{{examples|
-: ''I see '''the car'''.''
-: ''I hear '''a bell'''.''
-: ''I watch '''television'''.''
-: ''I play '''football'''.''
-: ''I read '''the book'''.''
-: ''I hit '''the ball'''.''
-}}
-{{en-noun}}
+'''accusative case'''
 
-# {{lb|en|grammatical case}}: In English and other modern languages, the [[case]] used to mark the immediate [[object]] ([[direct object]]) on which the [[transitive verb]] acts. In Latin grammar, the accusative case (cāsus accūsātīvus) includes functions derived from the Indo-European ''accusative'' and ''lative'' cases; said Lative Case express concepts similar to those of the English prepositions ''"to"'' and ''"towards"''.
-#: {{synonyms|en|accusative}}
+#{{grammar}}: [[case]] used to mark the immediate [[object]] ([[direct object]]) on which the action or influence of a [[transitive verb]] has its limited influence.
 
 ====Translations====
-{{trans-see|case used to mark the immediate object|accusative}}
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*Bulgarian: [[винителен падеж]] (vinítelen padéž) ''m''
+*Chinese: [[宾格]] (bīn-gé)
+*Croatian: [[akuzativ]] ''m''
+*Dutch: [[accusatief]] ''m'', [[vierde naamval]] ''m'', [[lijdend voorwerp]] ''n''
+*[[Esperanto]]: [[akuzativo]]
+*French: [[accusatif]] ''m''
+*German: [[Akkusativ]] ''m'', [[Wenfall]] ''m''
+*Greek: {{IPAchar|[[αἰτιατική πτῶσις]]}} (aitiatikí ptósis) ''f''
+*Hebrew: [[יחס הפעול]] (yakhas ha-pa'ul) ''m''
+|}
+| width=1% |
+|bgcolor="FFFFE0" valign=top width=48%|
+{|
+*Hungarian: [[tárgy eset]]
+*Icelandic: [[þolfall]]
+*[[Interlingua]]: [[accusativo]]
+*Italian: [[accusativo]] ''m''
+*Japanese: [[対格]] ([[たいかく]], taikakú)
+*Latin: [[casus]] [[accusativus]] ''m''
+*Lithuanian: [[galininkas]] ''m''
+*Portuguese: [[acusativo]] ''m''
+*Romanian: [[cazul acuzativ]] ''m''
+*Russian: [[винительный пaдeж]] (vinítel’nyj padéž) ''m''
+*Spanish: [[caso acusativo]] ''m'', [[complemento directo]] ''m''
+|}
+|}
 
-====See also====
-* {{l|en|dative case}}
-* {{l|en|objective case}}
-* [[Thesaurus:grammatical case]]
-
-===Further reading===
-* {{pedia}}
+===See also===
+*[[Wiktionary Appendix:Grammatical cases]]
