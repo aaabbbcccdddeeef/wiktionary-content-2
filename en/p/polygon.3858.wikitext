@@ -1,210 +1,52 @@
-{{also|Polygon|polygón}}
 ==English==
+===Pronunciation===
+:(US) SAMPA:/pO.li.gOn/
 
 ===Etymology===
-From {{der|en|grc|πολύγωνον}}, from {{m|grc|πολύς||many}} + {{m|grc|γωνία||angle}}.
-
-===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈpɒlɪɡən/|/ˈpɒliɡɒn/}}
-* {{a|US}} {{enPR|pälʹē-gän}}, {{IPA|en|/ˈpɑliɡɑn/}}
-* {{audio|en|en-us-polygon.ogg|Audio (US)}}
-* {{hyphenation|en|pol|y|gon}}
+Greek ''poly'', many + ''gon'', angle; compare French ''[[polygone]]''
 
 ===Noun===
-{{wikipedia}}
-{{en-noun}}
-[[File:Assorted polygons.svg|thumb|300px|right|Polygons (sense 1)]]
+'''polygon''' ('''plural''' '''polygons''')
 
-# {{lb|en|geometry}} A [[plane]] [[figure]] bounded by [[edge]]s that are all [[straight line]]s.
-# {{lb|en|geometry}} The [[boundary]] of such a figure.
-# {{lb|en|geometry|more generally}} A figure comprising [[vertex|vertices]] and (not necessarily straight) edges, [[alternating]]ly.
-# {{lb|en|geometry}} Such a figure and its [[interior]], taken as a whole.
-
-====Hypernyms====
-* ''See [[Thesaurus:polygon]]''
-
-====Hyponyms====
-* ''See [[Thesaurus:polygon]]''
-
-====Meronyms====
-* ''See [[Thesaurus:polygon]]''
-
-====Derived terms====
-{{der-top}}
-* {{l|en|cumulative frequency polygon}}
-* {{l|en|frequency polygon}}
-{{der-mid}}
-* {{l|en|funicular polygon}}
-* {{l|en|love polygon}}
-* {{l|en|polygon of forces}}
-{{der-bottom}}
-
-====Related terms====
-{{rel-top}}
-* {{l|en|polygonal}}
-* {{l|en|polygonality}}
-{{rel-mid}}
-* {{l|en|polygonhood}}
-* {{l|en|polygonness}}
-{{rel-bottom}}
+#(''geometry'') A [[plane]] [[figure]] bounded by straight [[edge]]s.
 
 ====Translations====
-{{trans-top|plane figure bounded by straight edges}}
-* Afrikaans: {{t|af|poligoon}}
-* Albanian: {{t+|sq|shumëkëndësh}}
-* Arabic: {{t|ar|مُضَلَّع|m}}
-* Aragonese: {{t|an|poligono|m}}
-* Armenian: {{t+|hy|բազմանկյուն}}
-* Asturian: {{t|ast|polígonu|m}}
-* Basque: {{t|eu|poligono}}
-* Bengali: {{t|bn|বহুভুজ}}
-* Bulgarian: {{t|bg|многоъгълник|m}}
-* Burmese: {{t+|my|ဗဟုဂံ}}
-* Catalan: {{t+|ca|polígon|m}}
-* Chinese:
-*: Cantonese: {{t+|cmn|多邊形}}, {{t|yue|多边形|tr=do1 bin1 jing4}}
-*: Hakka: {{t|hak|多邊形}}, {{t|hak|多边形|tr=tô-piên-hìn}}
-*: Mandarin: {{t+|cmn|多邊形}}, {{t+|cmn|多边形|tr=duōbiānxíng}}, {{t+|cmn|多角形|tr=duōjiǎoxíng}}
-* Chuvash: {{t|cv|нумай кӗтеслӗх|sc=Cyrl}}
-* Corsican: {{t|co|poligonu}}, {{t|co|puligonu|m}}
-* Czech: {{t+|cs|mnohoúhelník|m}}, {{t+|cs|polygon|m}}
-* Danish: {{t+|da|polygon}}
-* Dutch: {{t+|nl|veelhoek|m}}, {{t+|nl|polygoon|m}}
-* Esperanto: {{t|eo|plurangulo}}, {{t|eo|plurlatero}}, {{t|eo|poligono}}, {{t|eo|multangulo}}
-* Estonian: {{t+|et|hulknurk}}
-* Faroese: {{t|fo|marghyrningur|m}}
-* Finnish: {{t+|fi|monikulmio}}, {{t+|fi|polygoni}}
-* French: {{t+|fr|polygone|m}}
-* Friulian: {{t|fur|poligon}}, {{t|fur|poligonâl}}
-* Galician: {{t+|gl|polígono}}
-* Georgian: {{t|ka|პენტაკონტაგონი}}, {{t|ka|მრავალკუთხედი}}
-* German: {{t+|de|Vieleck|n}}, {{t+|de|Polygon|n}}
-* Greek: {{t+|el|πολύγωνο|n}}
-*: Ancient: {{t|grc|[[πολύγωνος|πολύγωνον]]|n}}
-* Guaraní: {{t|gn|apyeta}}
-* Gujarati: {{t|gu|બહુભુજ}}
-* Haitian Creole: {{t|ht|poligòn}}
-* Hebrew: {{t+|he|מצולע|m|tr=metsulá}}, {{t+|he|פוליגון|m|tr=poligón}}
-* Hindi: {{t|hi|बहुभुज}}
-* Hungarian: {{t+|hu|poligon}}, {{t+|hu|sokszög}}
-* Icelandic: {{t|is|marghyrningur|m}}
-* Ido: {{t+|io|poligono}}
-* Irish: {{t|ga|polagán|m}}
-* Italian: {{t+|it|poligono|m}}
-* Japanese: {{t|ja|多角形|tr=たかくけい, takakukei/たかっけい, takakkei}}
-* Kazakh: {{t|kk|көпбұрыш}}
-{{trans-mid}}
-* Khmer: {{t+|km|ពហុកោណ|tr=pea’hu’ kaon}}
-* Korean: {{t+|ko|다각형(多角形)}}
-* Kurdish:
-*: Northern Kurdish: {{t+|kmr|pirgoşe}}
-* Latin: {{t|la|polygonum|n}}
-* Latvian: {{t|lv|daudzstūris|m}}
-* Lithuanian: {{t|lt|daugiakampis|m}}
-* Low German: {{t|nds|Veeleck}}
-* Malayalam: {{t+|ml|ബഹുഭുജം}}
-* Manx: {{t|gv|yl-lhiatteean|m}}
-* Maori: {{t|mi|tapamaha}}, {{t|mi|taparau}}
-* Marathi: {{t|mr|बहुकोण}}
-* Moksha: {{t|mdf|lamuzha}}, {{t|mdf|kudnae}}
-* Moore: {{t|mos|kog-kʋʋma}}
-* Navajo: {{t|nv|łąʼį́ bízniikʼą́}}
-* Norwegian: {{t+|no|polygon}}
-* Persian: {{t|fa|چندضلعی}}
-* Polish: {{t+|pl|wielokąt|m-in}}, {{t|pl|wielobok|m-in}}
-* Portuguese: {{t+|pt|polígono|m}}
-* Punjabi: {{t|pa|ਬਹੁਭੁਜ}}
-* Quechua: {{t|qu|manchay chinruyuj}}
-* Romanian: {{t+|ro|poligon}}
-* Russian: {{t+|ru|многоуго́льник}}
-* Sanskrit: {{t|sa|बहुकोण}}
-* Scottish Gaelic: {{t|gd|poileagan}}
-* Serbo-Croatian: {{t+|sh|mnogokut|m}}, {{t|sh|mnogougao|m}}, {{t|sh|višekut|m}}, {{t|sh|višeugao|m}}, {{t+|sh|poligon|m}}
-* Slovak: {{t|sk|mnohouholník|m}}
-* Slovene: {{t|sl|mnogokotnik|m}}
-* Spanish: {{t+|es|polígono|m}}
-* Swahili: {{t|sw|pembenyingi}}
-* Swedish: {{t+|sv|polygon|c}}, {{t+|sv|månghörning|c}}
-* Tagalog: {{t|tl|damsiha}}
-* Tamil: {{t|ta|பல்கோணம்}}
-* Tatar: {{t|tt|nüeş}}
-* Telugu: {{t|te|బహుభుజి}}
-* Thai: {{t|th|รูปหลายเหลี่ยม}}
-* Turkish: {{t+|tr|çokgen}}
-* Ukrainian: {{t+|uk|багатокутник}}
-* Urdu: {{t|ur|کثیر الاضلاع}}
-* Vietnamese: {{t+|vi|đa giác}} ({{t|vi|多角}})
-* Volapük: {{t+|vo|mödalien}}
-* Yiddish: {{t|yi|פֿילעק}}
-{{trans-bottom}}
+*Chinese: (duobianxing, duo1bian1xing2)
+*Bulgarian: [[полигон]] ''m'', [[многоъгълник]] ''m''
+*Dutch: [[veelhoek]] ''m''
+*Finnish: [[monikulmio]], [[polygoni]]
+*French: [[polygone]] ''m''
+*German: Polygon ''n''
+*Irish: [[polagán]]
+*Italian: [[poligono]] ''m''
+*Polish: [[wielokąt]] ''m''
+*Swedish: polygon ''c''
+
+===False Friends===
+*Polish: [[poligon]]
+
+===Related terms===
+*[[polygonal]]
+*[[polygon of forces]]
 
 ===See also===
-* {{l|en|polyhedron}}
-
-[[Category:English terms prefixed with poly-]]
-[[Category:English terms suffixed with -gon]]
-[[Category:en:Polygons]]
+*[[polyhedron]]
 
 ----
-
-==Czech==
-
+==German==
 ===Noun===
-{{cs-noun|g=m}}
+'''Polygon''' ''n''
 
-# {{l|en|polygon}} {{gloss|plane figure bounded by straight edges}}
-
-====Synonyms====
-* {{l|cs|mnohoúhelník}}
-
-====Derived terms====
-* {{l|cs|polygonový}}
-
-===Further reading===
-* {{R:PSJC}}
-* {{R:SSJC}}
+#polygon
 
 ----
-
-==Danish==
-
-===Noun===
-{{da-noun|et|er|sg-def-2=polygonen|g=b}}
-
-# {{l|en|polygon}}
-#* '''1967''', Hans Sørensen, ''Nye Verga-studier: Romanen om Vizzini''
-#*: ... eller trekanten, rektanglet, parallelogrammet, kvadratet, ja, '''polygonet'''.
-#*:: ... or the triangle, the rectangle, the parallelogram, the square, indeed, the '''polygon'''.
-#* '''1799''', ''Skrifter som udi det Kiøbenhavnske Selskab af Lærdoms og Videnskabers Elskere ere fremlagte og oplæste : i aarene ..'', page 512
-#*: Altsaa er ogsaa idette Fald '''Polygonet''' ubestemt.
-#*:: Thus, in this case, too, the '''polygon''' is indefinite.
-
-====Declension====
-{{da-decl|et|sg-def-2=polygonen|er|g=b}}
-
-===References===
-* {{R:Den Danske Ordbog}}
-
-----
-
 ==Swedish==
-
 ===Noun===
-{{sv-noun|c}}
+'''Polygon''' ''c'' (''pl'' [[polygoner]], ''def sing'' [[polygonen]], ''def pl'' [[polygonerna]])
 
-# {{l|en|polygon}}
+# polygon
 
-====Declension====
-{{sv-infl-noun-c-er}}
+[[Category:Shapes]]
 
-====See also====
-* {{l|sv|femkant}}
-* {{l|sv|fyrhörning}}
-* {{l|sv|fyrkant}}
-* {{l|sv|hexagon}}
-* {{l|sv|kvadrat}}
-* {{l|sv|månghörning}}
-* {{l|sv|rektangel}}
-* {{l|sv|sexkant}}
-* {{l|sv|trekant}}
-* {{l|sv|triangel}}
+[[pl:Polygon]]
+[[sv:polygon]]
