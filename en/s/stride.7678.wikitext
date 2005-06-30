@@ -1,178 +1,24 @@
-{{also|Stride|stridé}}
 ==English==
+=== Pronunciation ===
+*strīd, /straɪd/, /straId/
 
-===Pronunciation===
-* {{enPR|strīd}}, {{IPA|en|/stɹaɪd/}}
-* {{audio|en|en-us-stride.ogg|Audio (US)}}
-* {{rhymes|en|aɪd|s=1}}
+=== Verb ===
+'''to stride''' ('''strides''', '''striding''', '''[[strode]]''', '''[[stridden]]''')
 
-===Etymology 1===
-From {{inh|en|enm|striden}}, from {{inh|en|ang|strīdan|t=to get by force, pillage, rob; stride}}, from {{der|en|gem-pro|*strīdaną}}.<ref>{{R:Etymonline}}</ref> Cognate with {{cog|nds|striden||to fight, to stride}}, {{cog|nl|strijden||to fight}}, {{cog|de|streiten||to fight, to quarrel}}.
+#To [[walk]] with long [[step]]s.
 
-====Verb====
-{{en-verb|strides|striding|strode|stridden|past_ptc2=strode|past_ptc3=strid}}
+==== Translations ====
+*Dutch: [[schrijden]]
+*Finnish: [[harppoa]]
+*German: [[schreiten]]
 
-# {{lb|en|intransitive}} To [[walk]] with long [[step]]s.
-#* {{RQ:Dryden Aeneis|9}}
-#*: Mars in the middle of the shining shield / Is grav'd, and '''strides''' along the liquid field.
-# To stand with the legs wide apart; to [[straddle]].
-# To pass over at a step; to step over.
-#* {{RQ:Shakespeare Cymbeline|III|iii|passage=a debtor that not dares to '''stride''' a limit}}
-#* {{quote-journal|en|date=2020 May 20|author=Philip Haigh|title=Ribblehead: at the heart of the S&C's survival and its revival|journal=Rail|page=26|text=For SAC66 is better known as Batty Moss (or [[Ribblehead]]) Viaduct - the magnificent, Grade 2-listed, 24-arch structure that '''strides''' over the pockmarked ground between Ribblehead station and Blea Moor signal box.}}
-# To [[straddle]]; to [[bestride]].
-#*{{RQ:Shakespeare Coriolanus|I|ix|passage=I mean to '''stride''' your steed.}}
+=== Noun ===
+'''stride''' (''plural'' '''strides''')
 
-=====Usage notes=====
-* Like several other irregular verbs (such as {{m|en|spit}}), the past participle conjugation of {{m|en||stride}} occurs with considerable variation.<ref>[http://languagelog.ldc.upenn.edu/nll?p=737 Language Log]</ref><ref>[http://www.languagehat.com/archives/003282.php Language Hat]</ref>
+#A long step.
+#(''in plural'' '''strides'''; ''Australian informal'') [[Trousers]].
 
-=====Derived terms=====
-{{col3|en|bestride|strider}}
+===Derived terms===
+*[[take something in one's stride]]
 
-=====Translations=====
-{{trans-top|to walk with long steps}}
-* Bulgarian: {{t+|bg|крача}}
-* Chinese:
-*: Mandarin: {{t+|cmn|跨|tr=kuà|sc=Hani}}
-* Czech: {{t|cs|kráčet|impf}}
-* Dutch: {{t+|nl|schrijden}}
-* Dzongkha: {{t|dz|ཧབ}}
-* Esperanto: {{t|eo|paŝi}}
-* Finnish: {{qualifier|once, take one long step}} {{t+|fi|harpata}}, {{t+|fi|loikata}}, {{qualifier|continuously}} {{t+|fi|harppoa}}
-* French: {{t+|fr|enjamber}}
-{{trans-mid}}
-* Galician: {{t|gl|alancar}}
-* German: {{t+|de|schreiten}}
-* Italian: {{t+|it|scavalcare}}
-* Maori: {{t|mi|whārona}}, {{t|mi|tōihi}}, {{t|mi|whārona}}, {{t|mi|whetoko}}
-* Persian: {{t|fa|شلنگیدن|tr=šelengidan|sc=fa-Arab}}
-* Polish: {{t+|pl|kroczyć}}
-* Spanish: {{t|es|dar zancadas}}
-* Walloon: {{t+|wa|asdjambler}}, {{t+|wa|ascoxhî}}, {{t+|wa|hazer}}, {{t|wa|li steper}}
-{{trans-bottom}}
-
-===Etymology 2===
-From {{inh|en|enm|stride}}, {{m|enm|stryde}}, from {{inh|en|ang|stride|t=a stride, pace}}, from the verb (see above). {{doublet|en|strid}}.
-
-====Noun====
-{{en-noun|~}}
-
-# {{lb|en|countable}} A [[long]] [[step]] in walking.
-#* {{quote-book|en|year=1907|author=[[w:Harold Edward Bindloss|Harold Bindloss]]| title=The Dust of Conflict| chapter=7|url=http://openlibrary.org/works/OL4429277W| passage=Still, a dozen men with rifles, and cartridges to match, stayed behind when they filed through a white aldea lying silent amid the cane, and the Sin Verguenza swung into slightly quicker '''stride'''.}}
-#* {{quote-journal|en|date=November 10, 2011| author=Jeremy Wilson| title=England Under 21 5 Iceland Under 21 0: match report| work=Telegraph| url=http://www.telegraph.co.uk/sport/football/teams/england/8882713/England-Under-21-5-Iceland-Under-21-0-match-report.html| passage=An utterly emphatic 5-0 victory was ultimately capped by two wonder strikes in the last two minutes from Aston Villa midfielder Gary Gardner. Before that, England had utterly dominated to take another purposeful '''stride''' towards the 2013 European Championship in Israel. They have already established a five-point buffer at the top of Group Eight.}}
-# {{lb|en|countable}} The [[distance]] covered by a long step.
-# {{lb|en|countable|computing}} The number of memory locations between successive [[element]]s in an [[array]], [[pixel]]s in a [[bitmap]], etc.
-#* '''2007''', Andy Oram, Greg Wilson, ''Beautiful Code''
-#*: This '''stride''' value is generally equal to the pixel width of the bitmap times the number of bytes per pixel, but for performance reasons it might be rounded {{...}}
-# {{lb|en|uncountable|music genre}} A [[jazz]] [[piano]] style of the 1920s and 1930s. The left hand characteristically plays a four-beat pulse with a single bass note, octave, seventh or tenth interval on the first and third beats, and a chord on the second and fourth beats.
-
-=====Derived terms=====
-{{col3|en|astride|break stride|get into one's stride|strided|[[strides]] {{qualifier|Australian|plural only}}|take something in one’s stride|take something in stride}}
-
-=====Translations=====
-{{trans-top|long step}}
-* Bulgarian: {{t+|bg|разкрач|m}}
-* Finnish: {{t|fi|harppaus}}
-* French: {{t+|fr|enjambée|f}}
-* Galician: {{t|gl|alancada|f}}
-* Italian: {{t+|it|falcata|f}}, {{t|it|lungo passo}}
-{{trans-mid}}
-* Maori: {{t|mi|whāronatanga}}
-* Persian: {{t+|fa|شلنگ|tr=šeleng|sc=fa-Arab}}
-* Plautdietsch: {{t|pdt|Schrett|m}}
-* Polish: {{t+|pl|krok|m}}
-* Spanish: {{t+|es|zancada|f}}, {{t|es|[[paso]] [[largo]]|m}}
-{{trans-bottom}}
-
-===References===
-<references />
-
-===Anagrams===
-* {{anagrams|en|a=deirst|direst|disert|dister|driest|drites|redist|ridest}}
-
-[[Category:English class 1 strong verbs]]
-[[Category:English irregular verbs]]
-[[Category:en:Gaits]]
-
-----
-
-==Danish==
-
-===Etymology===
-From {{inh|da|non|stríða}}, from {{inh|da|gem-pro|*strīdaną}}.
-
-===Pronunciation===
-{{IPA|da|[ˈsd̥ʁiːðəs]}}
-
-===Verb===
-{{head|da|verb|imperative|strid|present|strider|past|stred|past participle|stridt|present participle|stridende|present passive|strides|past passive|stredes|past participle passive|stredes}}
-
-# to [[fight]], [[struggle]]
-# (passive) to [[dispute]], [[quarrel]], [[fight]]
-
-===References===
-* {{R:DDO}}
-
-----
-
-==Italian==
-
-===Pronunciation===
-{{it-pr|strìde}}
-
-===Verb===
-{{head|it|verb form}}
-
-# {{inflection of|it|stridere||3|s|pres|indc}}
-
-===Anagrams===
-* {{anagrams|it|a=deirst|destri}}
-
-----
-
-==Latin==
-
-===Verb===
-{{la-verb-form|strīde}}
-
-# {{inflection of|la|strīdō||2|s|pres|actv|impr}}
-
-----
-
-==Norwegian Bokmål==
-
-===Alternative forms===
-* {{l|nb|stri}}
-
-===Etymology===
-From {{der|nb|non|stríða}}, and the adjective {{m|nb|stri}}.
-
-===Verb===
-{{head|nb|verb|imperative|strid|present tense|strider|passive|strides|simple past|stred|or|strei|or|stridde|past participle|stridd|present participle|stridende}}
-
-# to [[battle]], {{l|en|fight}}, {{l|en|struggle}}
-# to {{l|en|conflict}} (with)
-
-===References===
-* {{R:The Bokmål Dictionary}}
-
-----
-
-==Norwegian Nynorsk==
-
-===Adjective===
-{{head|nn|adjective form}}
-
-# {{inflection of|nn|strid||def|s}}
-# {{plural of|nn|strid}}
-
-----
-
-==Swedish==
-
-===Adjective===
-{{head|sv|adjective form}}
-
-# {{sv-adj-form-abs-def-m|strid}}
-
-===Anagrams===
-* {{anagrams|sv|a=deirst|Estrid|tiders}}
+[[fr:stride]]
