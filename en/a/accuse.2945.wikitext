@@ -1,168 +1,46 @@
-{{also|accusé}}
-==English==
-
 ===Etymology===
-First attested around 1300. From {{inh|en|enm|acusen}}, from {{der|en|fro|acuser}}, from {{der|en|la|accūsō||to call to account, accuse}}, from {{m|la|ad|t=to}} + {{m|la|causa|t=cause, lawsuit, reason}}. Akin to {{m|en|cause}}. Displaced native {{cog|en||[[bewray#Etymology|bewray]]}}.
-
+Old French ''[[acuser]]'', French ''[[accuser]]'', Latin ''[[accusare]]'', to call to account, accuse; ''[[ad-]]'' + ''[[causa]]'' cause, lawsuit. Compare [[cause]]
 ===Pronunciation===
-* {{a|RP}} {{enPR|əkyo͞ozʹ}}, {{IPA|en|/əˈkjuːz/}}
-* {{a|US}} {{enPR|əkyo͞ozʹ}}, {{IPA|en|/əˈkjuz/}}
-** {{audio|en|En-us-accuse.ogg|Audio (US)}}
-* {{rhymes|en|uːz|s=2}}
-* {{hyphenation|en|ac|cuse}}
-
-===Verb===
-{{en-verb}}
-
-# {{lb|en|transitive}} to find [[fault]] with, [[blame]], [[censure]]
-#* {{RQ:King James Version|book=Romans|chapter=2|verse=15|passage={{...}} and ''their'' thoughts the meanwhile '''accusing''' or else excusing one another.}}
-#* {{quote-book|en|date=1849-02-02|authorlink=Henry John Temple, 3rd Viscount Palmerston|author=Lord Palmerston|title=The Address in Answer to the Speech—Adjourned Debate|location=House of Commons|year2=1849|title2=Hansard's Parliamentary Debates|volume2=102|others2=third series|pageurl2=https://books.google.com/books?id=5pZUAAAAcAAJ&pg=PA215|page2=216|passage=We are '''accused''' of having persuaded Austria and Sardinia to lay down their arms when their differences might have involved the Powers of Europe in contention.}}
-# {{lb|en|transitive|law|followed by "of"}} to [[charge]] with having [[commit]]ted a [[crime]] or [[offence]]
-#* {{RQ:King James Version|book=Acts|chapter=24|verse=13|passage=Neither can they prove the things whereof they now '''accuse''' me.}}
-#: {{ux|en|For the U.S. President to be impeached, he must be '''accused''' of a high crime or misdemeanor.}}
-#: {{syn|en|charge|indict|impeach|arraign}}
-# {{lb|en|intransitive}} to make an [[accusation]] against someone
-#* {{quote-journal|en|date=2013-06-08|volume=407|issue=8839|page=55|magazine={{w|The Economist}}|title=[http://www.economist.com/news/business/21579011-president-proposes-new-round-intellectual-property-reform-obama-goes-troll-hunting Obama goes troll-hunting]|passage=According to this saga of intellectual-property misanthropy, these creatures [patent trolls] roam the business world, buying up patents and then using them to demand extravagant payouts from companies they '''accuse''' of infringing them. Often, their victims pay up rather than face the costs of a legal battle.}}
-#: {{syn|en|blame|censure|reproach|criminate}}
-
-====Conjugation====
-{{en-conj|stem=accus|old=1}}
-
-====Related terms====
-{{rel3|en
-|accusable
-|accusation
-|accusative
-|accusatory
-|accuser
-|excuse
-|recuse
-|ruse}}
-
-====Translations====
-{{trans-top|attribute blame to someone}}
-* Arabic: {{t|ar|اِتَّهَمَ}}
-* Asturian: {{t|ast|acusar}}
-* Azerbaijani: {{t|az|ittiham etmək}}, {{t|az|suçlamaq}}
-* Belarusian: {{t|be|абвінава́чваць|impf}}, {{t|be|абвінава́ціць|pf}}
-* Bulgarian: {{t+|bg|обвиня́вам|impf}}
-* Catalan: {{t+|ca|acusar}}
-* Cherokee: {{t|chr|ᎫᎯᏍᏗᎭ}}
-* Cheyenne: {{t|chy|-ho'é'ėšé'tov}}
-* Chickasaw: {{t|cic|ishtombohli}}
-* Chinese:
-*: Mandarin: {{t+|cmn|指責}}, {{t+|cmn|指责|tr=zhǐzé}}, {{t+|cmn|控告|tr=kònggào}}, {{t+|cmn|譴責}}, {{t+|cmn|谴责|tr=qiǎnzhé}}, {{t+|cmn|指控|tr=zhǐkòng}}, {{t+|cmn|控訴}}, {{t+|cmn|控诉|tr=kòngsù}}
-* Czech: {{t+|cs|obviňovat|impf}}, {{t+|cs|obvinit|pf}}
-* Danish: {{t+|da|beskylde}}, {{t+|da|anklage}}
-* Dutch: {{t+|nl|beschuldigen}}, {{t+|nl|aanklagen}}
-* Esperanto: {{t|eo|akuzi}}
-* Finnish: {{t+|fi|syyttää}}
-* French: {{t+|fr|accuser}}
-* Galician: {{t|gl|acusar}}
-* Georgian: {{t|ka|დაბრალება}}
-* German: {{t+|de|beschuldigen}}, {{t+|de|anklagen}}
-* Gothic: {{t|got|𐍆𐌰𐌹𐍂𐌹𐌽𐍉𐌽}}
-* Greek:
-*: Ancient: {{t|grc|κατηγορέω}}
-* Hungarian: {{t+|hu|vádol}}, {{t+|hu|megvádol}}
-* Icelandic: {{t+|is|kæra}}
-* Ido: {{t+|io|akuzar}}
-* Indonesian: {{t+|id|tuduh|alt=menuduh}}
-* Interlingua: {{t|ia|accusar}}
-* Irish: {{t|ga|coirigh}}
-{{trans-mid}}
-* Italian: {{t+|it|accusare}}
-* Japanese: {{t+|ja|問う|tr=とう, tou}}, {{t|ja|着せる|tr=きせる, kiseru}}
-* Korean: {{t+|ko|고소하다}}
-* Latin: {{t+|la|accūsō}}, {{t|la|criminor}}
-* Lithuanian: {{t+|lt|apkaltinti}}, {{t+|lt|kaltinti}}
-* Macedonian: {{t|mk|обвинува|impf}}, {{t|mk|обвини|pf}}
-* Maori: {{t|mi|whakapae}}, {{t|mi|whakatuaki}}
-* Norwegian:
-*: Bokmål: {{t+|no|beskylde}}
-*: Nynorsk: {{t|nn|skulde}}, {{t|nn|skylde}}
-* Polish: {{t+|pl|oskarżać|impf}}, {{t+|pl|oskarżyć|pf}}
-* Portuguese: {{t+|pt|acusar}}
-* Russian: {{t+|ru|вини́ть|impf}}, {{t+|ru|обвиня́ть|impf}}, {{t+|ru|обвини́ть|pf}}
-* Scots: {{t|sco|wyte}}
-* Scottish Gaelic: {{t|gd|cuir às leth}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|опту́жити|pf}}, {{t|sh|окри́вити|pf}}
-*: Roman: {{t+|sh|optúžiti|pf}}, {{t+|sh|okríviti|pf}}
-* Slovak: {{t|sk|obviňovať|impf}}, {{t|sk|obviniť|pf}}, {{t|sk|obžalovať|pf}}
-* Slovene: {{t|sl|obtožiti}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|do winy dawaś|impf}}, {{t|dsb|do winy daś|pf}}
-*: Upper Sorbian: {{t|hsb|wobwinować|impf}}, {{t|hsb|wobwinić|pf}}
-* Spanish: {{t+|es|acusar}}, {{t+|es|denunciar}}
-* Swedish: {{t+|sv|anklaga}}, {{t+|sv|beskylla}}
-* Turkish: {{t+|tr|suçlamak}}
-* Ukrainian: {{t|uk|звинува́чувати|impf}}, {{t|uk|звинува́тити|pf}}
-* West Frisian: {{t|fy|beskuldigje}}
-* Yiddish: {{t|yi|באַשולדיקן}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Hebrew: {{t-check|he|להאשים|tr=le'haashym}}
-{{trans-mid}}
-{{trans-bottom}}
-
+'''ac-cuse*''
+*[[IPA]]: //
+*[[SAMPA]]: //
+===Transitive Verb===
+Imperfect and past participle: '''accused''' <br>
+Present participle: '''accusing'''
+# to find fault with or put blame on someone
+#To charge with, or declare to have committed, a crime or offense
+#''(Law):'' to charge with an offense, judicially or by a public process; -- with '''of'''; as, to '''accuse''' one of a high crime or [[misdemeanor]]
+#:'''Quotations'''
+#:*Neither can they prove the things whereof they now '''accuse''' me. - ''Acts 24:13
+#:*We are '''accused of''' having persuaded Austria and Sardinia to lay down their arms. - [[Macaulay]]
+#To charge with a fault; to blame; to censure.
+#:'''Quotations'''
+#:*Their thoughts the meanwhile '''accusing''' or else excusing one another. - ''Romans, 2:15''
+#To betray; to show - [[wikipedia:en:Philip Sidney|Philip Sidney]]
+====Synonyms====
+*[[To charge]]; [[blame]]; [[censure]]; [[reproach]]; [[criminate]]; [[indict]]; [[impeach]]; [[arraign]]
+====Usage====
+*To [[Accuse]], [[Charge]], [[Impeach]], [[Arraign]]. These words agree in bringing home to a person the imputation of wrongdoing. 
+*To '''accuse''' is a somewhat formal act, and is applied usually (though not exclusively) to crimes; as, to '''accuse''' of treason.  
+*'''Charge''' is the most generic. It may refer to a crime, a dereliction of duty, a fault, etc.; more commonly it refers to moral delinquencies; as, to '''charge''' with dishonesty or falsehood. 
+*To '''arraign''' is to bring (a person) before a tribunal for trial; as, to '''arraign''' one before a court or at the bar public opinion. 
+*To '''impeach''' is officially to charge with misbehavior in office; as, to '''impeach''' a minister of high crimes. 
+*Both '''impeach''' and '''arraign''' convey the idea of peculiar dignity or impressiveness.
+==== Translations ====
+*[[Dutch]]: [[beschuldigen]]
+*[[French]]: [[accuser]]
+*[[German]]: [[Beschuldigen sich]]
+*[[Ido]]: [[akuzar]]
+*[[Indonesian]]: [[tuduh|menuduh]]
+*[[Interlingua]]: [[accusar]]
+*[[Italian]], [[Latin]]: [[accusare]]
+*[[Polish]]: [[oskarżać]]
+*[[Portuguese]]: [[acusar]]
+*[[Spanish]]: [[acusar]]
 ===Noun===
-{{en-noun|-}}
+#''(Obsolete):'' Accusation - Shakespeare
 
-# {{lb|en|obsolete}} [[accusation|Accusation]].
-#* {{quote-book
-|en
-|year=c. 1596–1599
-|first=William
-|last=Shakespeare
-|authorlink=William Shakespeare
-|title={{w|Henry IV, Part 2}}
-|section=act 3, scene 1
-|lines=158–160
-|passage=And dogged York, that reaches at the moon, / Whose overweening arm I have plucked back, / By false '''accuse''' doth level at my life.
-}}
-
-===Further reading===
-* {{R:Webster 1913}}
-* {{R:Century 1911}}
-* {{R:OneLook}}
-
-===Anagrams===
-* {{anagrams|en|a=accesu|cuecas}}
-
-[[Category:English reporting verbs]]
-[[Category:en:Criminal law]]
-
-----
-
-==French==
-
-===Pronunciation===
-* {{audio|fr|LL-Q150 (fra)-WikiLucas00-accuse.wav|Audio}}
-
-===Verb===
-{{head|fr|verb form}}
-
-# {{inflection of|fr|accuser||1//3|s|pres|ind//sub|;|2|s|impr}}
-
-----
-
-==Italian==
-
-===Pronunciation===
-{{it-pr|accùse}}
-
-===Noun===
-{{head|it|noun form|g=f}}
-
-# {{plural of|it|accusa}}
-
-----
-
-==Portuguese==
-
-===Verb===
-{{head|pt|verb form}}
-
-# {{pt-verb form of|accusar}}
+[[gl:Accuse]]
+[[it:accuse]]
+[[fi:Accuse]]
+[[sv:accuse]]
