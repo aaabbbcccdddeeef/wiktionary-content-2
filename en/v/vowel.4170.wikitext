@@ -1,253 +1,77 @@
 ==English==
-{{wikipedia}}
-
 ===Etymology===
-{{root|en|ine-pro|*wekʷ-}}
-From {{inh|en|enm|vouel}}, from {{der|en|fro|vouel}}, a variant of {{m|fro|voyeul}} (whence {{cog|fr|voyelle}}), from {{der|en|la|vōcālis||voiced}}, itself a [[:semantic loan|semantic loan]] of {{noncog|grc-koi|φωνῆεν}}. {{doublet|en|vocal}}.
-
-===Pronunciation===
-* {{enPR|vouʹəl}}, {{IPA|en|/ˈvaʊ.əl/}}
-* {{audio|en|en-us-vowel.ogg|Audio (US)}}
-* {{q|also}} {{enPR|voul}}, {{IPA|en|/vaʊl/}}
-* {{audio|en|LL-Q1860 (eng)-Back ache-vowel.wav|Audio (UK)}}
-* {{rhymes|en|aʊəl|aʊl|s2=1|s1=2}}
+From Latin ''[[vocalis]]'', voiced.
 
 ===Noun===
-{{en-noun}}
+'''vowel''' (''plural'' '''vowels''')
 
-# {{lb|en|phonetics}} A sound produced by the [[vocal cords]] with relatively little restriction of the [[oral cavity]], forming the prominent sound of a [[syllable]].
-#: {{ux|en|In Welsh, the ''w'' usually represents a '''vowel'''.}}
-# {{lb|en|orthography}} A [[letter]] representing the sound of vowel; in English, the vowels are ''a'', ''e'', ''i'', ''o'', ''u'', and ''y''.
-#: {{ux|en|''{{1|facetious}}'' is spelled with five '''vowels''' in alphabetical order.}}
-
-====Antonyms====
-* {{sense|sound}} {{l|en|consonant}}
-* {{sense|letter}} {{l|en|consonant}}
-
-====Derived terms====
-{{der3|en|title=Terms derived from ''vowel''
-|back vowel|disemvowel|front vowel|semivowel|oral vowel|nasal vowel|rounded vowel|vowel harmony|{{l|en|vowelization}}, {{l|en|vowelisation}}|{{l|en|vowelize}}, {{l|en|vowelise}}|vowelless|vowelling|vowel lowering|vowel point|vowel reduction}}
+#In [[phonetics]], a sound produced by the [[vocal chords]] with relatively little restriction of the [[oral cavity]], forming the prominent sound of a [[syllable]].
+#A [[letter]] representing the sound of vowel; in English, the vowels are ''a'', ''e'', ''i'', ''o'' and ''u'', and, in some cases, ''y''.
 
 ====Related terms====
-* {{l|en|vocalic}}
-* {{l|en|consonant}}
-* {{l|en|liquid}}
-
-====Descendants====
-* {{desc|yo|fáwẹ̀lì|bor=1}}
+*[[semivowel]]
 
 ====Translations====
-{{trans-top|sound}}
-* Afrikaans: {{t+|af|klinker}}, {{t+|af|vokaal}}
-* Albanian: {{t+|sq|zanore|f}}
-* Arabic: {{t|ar|صَائِت|m}}, {{t|ar|مُصَوِّت|m}}
-* Aragonese: {{t|an|vocal|f}}
-* Armenian: {{t+|hy|ձայնավոր}}
-* Asturian: {{t|ast|vocal|f}}
-* Azerbaijani: {{t|az|sait}}
-* Bashkir: {{t|ba|һуҙынҡы}}
-* Basque: {{t|eu|bokal}}
-* Belarusian: {{t+|be|гало́сны|m}}
-* Bengali: {{t|bn|স্বর}}
-* Bikol Central: {{t|bcl|tiyaw}}
-* Bulgarian: {{t+|bg|гла́сна|f}}
-* Burmese: {{t+|my|သရ}}
-* Catalan: {{t+|ca|vocal|f}}
-* Chechen: {{t|ce|мукъаме}}
-* Chinese:
-*: Mandarin: {{t+|cmn|母音|tr=mǔyīn}}, {{t+|cmn|元音|tr=yuányīn}}
-* Corsican: {{t|co|vucale|f}}
-* Czech: {{t+|cs|samohláska|f}}
-* Danish: {{t+|da|vokal|c}}, {{t|da|selvlyd}} {{qual|rare}}
-* Dutch: {{t+|nl|klinker|m}}, {{t|nl|klinkerklank|m}}
-* Esperanto: {{t|eo|vokalo}}
-* Estonian: {{t+|et|täishäälik}}, {{t+|et|vokaal}}
-* Faroese: {{t|fo|sjálvljóð|n}}
-* Finnish: {{t+|fi|vokaali}}
-* French: {{t+|fr|voyelle|f}}
-* Galician: {{t+|gl|vogal|f}}
-* Georgian: {{t|ka|ხმოვანი}}
-* German: {{t+|de|Vokal|m}}; {{q|specifying sound vs. letter}} {{t|de|Vokallaut|m}}; {{q|chiefly elementary school}} {{t+|de|Selbstlaut|m}}
-* Greek: {{t+|el|φωνήεν|n}}
-*: Ancient: {{t|grc|[[φωνήεντα]] ([[γράμματα]])|n-p}}, {{t|grc|φωνῆεν|n}}
-* Haitian Creole: {{t|ht|vwayèl}}
-* Hausa: {{t|ha|wasali}}
-* Hebrew: {{t+|he|תְּנוּעָה|f|tr=tnu‘á}}
-* Hindi: {{t+|hi|स्वर|m}}, {{t+|hi|सुर|m}}
-* Hungarian: {{t+|hu|magánhangzó}}
-* Icelandic: {{t+|is|sérhljóð|n}}
-* Indonesian: {{t+|id|huruf hidup}}, {{t+|id|vokal}}
-* Ingrian: {{t|izh|vokaali}}
-* Interlingua: {{t|ia|vocal}}
-* Irish: {{t+|ga|guta|m}}
-* Italian: {{t+|it|vocale|f}}
-* Japanese: {{t+|ja|母音|tr=ぼいん, boin}}
-* Kalmyk: {{t|xal|эгшг}}
-* Kapampangan: {{t|pam|kakatni}}
-* Kazakh: {{t+|kk|дауысты}}
-* Khmer: {{t+|km|ស្រៈ}}, {{t+|km|ស្វរៈ}}
-{{trans-mid}}
-* Korean: {{t+|ko|모음(母音)}}
-* Kyrgyz: {{t+|ky|үндүү}}
-* Lao: {{t|lo|ສະຫລະ}}
-* Latin: {{t+|la|vōcālis|f}}
-* Latvian: {{t|lv|patskanis|m}}, {{t|lv|vokālis|m}}
-* Lithuanian: {{t+|lt|balsis}}
-* Macedonian: {{t|mk|само́гласка|f}}
-* Malay: {{t|ms|bunyi hidup}}, {{t|ms|vokal}}
-* Maori: {{t|mi|oro puare}}
-* Mongolian:
-*: Cyrillic: {{t+|mn|эгшиг}}
-*: Mongolian: {{t|mn|ᠡᠭᠡᠰᠢᠭ}}
-* Navajo: {{t|nv|zaʼáán}}
-* Norwegian:
-*: Bokmål: {{t+|nb|vokal|m}}
-* Occitan: {{t+|oc|vocala|f}}
-* Old Norse: {{t|non|hljóðstafr}}
-* Persian: {{t+|fa|واکه|tr=vâke}}
-* Plautdietsch: {{t|pdt|Metlut|m}}
-* Polish: {{t+|pl|samogłoska|f}}
-* Portuguese: {{t+|pt|vogal|f}}
-* Punjabi: {{t|pa|ਸਵਰ|m}}
-* Romanian: {{t+|ro|vocală|f}}
-* Russian: {{t+|ru|гла́сный|m}}
-* Sanskrit: {{t+|sa|स्वर|m}}
-* Scottish Gaelic: {{t|gd|fuaimreag|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|самоглас|m}}, {{t|sh|са̏могласнӣк|m}}, {{t|sh|во̀ка̄л|m}}
-*: Roman: {{t|sh|samoglas|m}}, {{t+|sh|sȁmoglasnīk|m}}, {{t+|sh|vòkāl|m}}
-* Slovak: {{t|sk|samohláska|f}}
-* Slovene: {{t+|sl|samoglasnik|m}}
-* Southern Altai: {{t|alt|ӱндӱ}}
-* Spanish: {{t+|es|vocal|f}}
-* Swahili: {{t+|sw|vokali}}, {{t+|sw|irabu}}
-* Swedish: {{t+|sv|vokal|c}}, {{t|sv|vokalljud|n}}, {{t+|sv|självljud|n}} {{qualifier|archaic}}
-* Tagalog: {{t|tl|patinig}}
-* Tajik: {{t|tg|садонок}}
-* Telugu: {{t+|te|అచ్చు}}
-* Thai: {{t+|th|สระ}}
-* Turkish: {{t+|tr|ünlü}}, {{t+|tr|sesli}}
-* Turkmen: {{t|tk|çekimli}}
-* Ukrainian: {{t|uk|голосни́й|m}}
-* Urdu: {{t|ur|مصوت|tr=musavvat}}
-* Uzbek: {{t+|uz|unli}}
-* Veps: {{t|vep|vokal'}}
-* Vietnamese: {{t+|vi|nguyên âm}}, {{t+|vi|mẫu âm}}
-* Volapük: {{t+|vo|vokat}}
-* Walloon: {{t+|wa|voyale|f}}
-* Welsh: {{t+|cy|llafariad|f}}
-* Yiddish: {{t|yi|וואָקאַל}}
-* Zulu: {{t|zu|unkamisa|c1a|c2a}}
-{{trans-bottom}}
 
-{{trans-top|letter}}
-* Afrikaans: {{t+|af|klinker}}, {{t+|af|vokaal}}
-* Arabic: {{t|ar|حَرَكَة|f}} {{qualifier|short vowel sign}}, {{t|ar|حَرْفُ مَدّ|f}} {{qualifier|long vowel sign}}
-* Aragonese: {{t|an|vocal|f}}
-* Armenian: {{t+|hy|ձայնավոր}}
-* Asturian: {{t|ast|vocal|f}}
-* Bashkir: {{t|ba|һуҙынҡы}}
-* Basque: {{t|eu|bokal}}
-* Belarusian: {{t|be|гало́сная|f}}
-* Bikol Central: {{t|bcl|tiyaw}}
-* Bulgarian: {{t+|bg|гла́сна|f}}
-* Catalan: {{t+|ca|vocal|f}}
-* Central Dusun: {{t|dtp|vokal}}
-* Chechen: {{t|ce|мукъаме}}
-* Chinese:
-*: Mandarin: {{t+|cmn|母音|tr=mǔyīn}}, {{t+|cmn|元音|tr=yuányīn}}
-* Corsican: {{t|co|vucale|f}}
-* Czech: {{t+|cs|samohláska|f}}
-* Danish: {{t+|da|vokal|c}}
-* Dutch: {{t+|nl|klinker|m}}
-* Faroese: {{t|fo|sjálvljóð|n}}
-* Finnish: {{t+|fi|vokaali}}
-* French: {{t+|fr|voyelle|f}}
-* Galician: {{t+|gl|vogal|f}}, {{t|gl|letra vogal|f}}
-* Georgian: {{t|ka|ხმოვანი}}
-* German: {{t+|de|Vokal|m}}; {{q|specifying letter vs. sound}} {{t|de|Vokalbuchstabe|m}}
-* Greek: {{t+|el|φωνήεν|n}}
-*: Ancient: {{t|grc|φωνῆεν|n}}
-* Hungarian: {{t+|hu|magánhangzó}}, {{t|hu|magánhangzóbetű}}
-* Icelandic: {{t|is|sérhljóði|m}}
-* Indonesian: {{t+|id|huruf hidup}}, {{t+|id|vokal}}
-* Ingrian: {{t|izh|vokaali}}
-* Interlingua: {{t|ia|vocal}}
-* Irish: {{t+|ga|guta|m}}
-* Italian: {{t+|it|vocale|f}}
-{{trans-mid}}
-* Japanese: {{t+|ja|母音|tr=ぼいん, boin}}, {{t+|ja|母音字|tr=ぼいんじ, boinji}}
-* Kapampangan: {{t|pam|siwala}}, {{t|pam|siuala}}
-* Korean: {{t+|ko|모음(母音)}}
-* Lao: {{t|lo|ສະຫລະ}}
-* Latvian: {{t|lv|patskanis|m}}, {{t|lv|vokālis|m}}
-* Macedonian: {{t|mk|само́гласка|f}}
-* Malagasy: {{t+|mg|zanatsoratra}}
-* Malay: {{t|ms|huruf hidup}}, {{t|ms|vokal}}
-* Maori: {{t|mi|oro puare}}
-* Mongolian:
-*: Cyrillic: {{t|mn|эгшиг үсэг}}
-* Occitan: {{t+|oc|vocala|f}}
-* Persian: {{t+|fa|واکه|tr=vâke}}
-* Polish: {{t+|pl|samogłoska|f}}
-* Portuguese: {{t+|pt|vogal|f}}
-* Romanian: {{t+|ro|vocală|f}}
-* Russian: {{t+|ru|гла́сная|f}}
-* Sanskrit: {{t+|sa|स्वर|m}}
-* Scots: {{t|sco|vouel}}
-* Scottish Gaelic: {{t|gd|fuaimreag|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|самоглас|m}}, {{t|sh|са̏могласнӣк|m}}
-*: Roman: {{t|sh|samoglas|m}}, {{t+|sh|sȁmoglasnīk|m}}
-* Slovak: {{t|sk|samohláska|f}}
-* Spanish: {{t+|es|vocal|f}}, {{t|es|letra vocal|f}}
-* Swahili: {{t+|sw|vokali}}, {{t+|sw|irabu}}
-* Swedish: {{t+|sv|vokal|c}}
-* Tagalog: {{t|tl|patinig}}
-* Tamil: {{t+|ta|உயிரெழுத்து}}
-* Telugu: {{t+|te|అచ్చు}}
-* Thai: {{t|th|เสียงสระ}}, {{t+|th|สระ}}
-* Turkish: {{t+|tr|ünlü}}
-* Ukrainian: {{t|uk|голосна́|f}}
-* Veps: {{t|vep|vokal'}}
-* Volapük: {{t+|vo|vokat}}, {{t|vo|vokatatonat}}
-* Walloon: {{t+|wa|voyale|f}}
-{{trans-bottom}}
+'''sound'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*Finnish: [[vokaali]]
+*French: [[voyelle]] ''f''
+*German: [[Vokal]] ''m'', [[Selbstlaut]] ''m''
+*Italian: [[vocale]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Japanese: [[母音]] (ぼいん, boin)
+*Swedish: [[vokal]] ''c''
+*Portuguese: [[vogal]] ''f''
+|}
+|}
 
-{{checktrans-top}}
-* Guaraní: {{t-check|gn|pu'ae}}
-* Gujarati: {{t-check|gu|રવર|n}}
-{{trans-mid}}
-* Indonesian: {{t+check|id|huruf hidup}}, {{t+check|id|huruf vokal}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Interlingua: {{t-check|ia|vocal}}
-{{trans-bottom}}
+'''letter'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*Finnish: [[vokaali]]
+*French: [[voyelle]] ''f''
+*German: [[Vokal]] ''m'', [[Selbstlaut]] ''m''
+*Italian: [[vocale]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Japanese: [[母音]] (ぼいん, boin), [[母音字]] (ぼいんじ, boinji)
+*Swedish: [[vokal]] ''c''
+*Portuguese: [[vogal]] ''f''
+|}
+|}
 
-====See also====
-* {{l|en|vocalization|id=phonology}}
-''Placing of an element'':
-* {{l|en|prevocalic}} (occurring before a vowel)
-* {{l|en|intervocalic}} (occurring between vowels)
-* {{l|en|postvocalic}} (occurring after a vowel)
-''Types of vowels'' {{q|[[phonetics]]}}:
-* {{l|en|front}}, {{l|en|central}}, {{l|en|back}}
-* {{l|en|rounded}}, {{l|en|unrounded}}
-* {{l|en|close}}, {{l|en|near-close}}, {{l|en|close-mid}}, {{l|en|mid}}, {{l|en|open-mid}}, {{l|en|near-open}}, {{l|en|open}}
+=====Translations to be checked=====
 
-===Verb===
-{{en-verb|++|pres_ptc2=voweling|pres_ptc2_qual=US|past2=voweled|past2_qual=US}}
+The translations below need to be checked by native speakers and inserted into the appropriate table(s) above.
 
-# {{lb|en|linguistics}} To add [[vowel point]]s to a consonantal script (e.g. [[niqqud]] in Hebrew or [[harakat]] in Arabic).
-#*'''2019''', {{w|Tim Mackintosh-Smith}}, ''Arabs'', Yale University Press, p. 52:
-#*:However it should be '''vowelled''' – perhaps ‘Almaqah’ – his name seems to be composed of ‘Il’, the general name of the paramount Semitic deity {{...}}, plus another element that is possibly from the Sabaic verb ''wqh'', ‘to command’ {{...}}.
+*Chinese: [[元音]] (yuanyin)
+*Dutch: [[klinker]] ''m''
+*Guaraní: [[pu'ae]]
+*Hebrew: [[תנועה|תְּנוּעָה]] ''f''
+*Indonesian: [[huruf]] [[hidup]], [[huruf]] [[vokal]]
+*[[Interlingua]]: [[vocal#Interlingua|vocal]]
+*Slovak: [[samohláska]] ''f''
+*Spanish: [[vocal#Spanish|vocal]] ''f''
+*Turkish: [[ünlü]]
 
-====Synonyms====
-* {{l|en|vowelize}}
-* {{l|en|vocalize}}
+===See also===
+*[[consonant]]
+*[[semivowel]]
+*[[w:Vowel|Wikipedia article on vowels]]
 
-====Translations====
-{{trans-top|to add vowel points}}
-* Arabic: {{t+|ar|حَرَّكَ|m}}
-{{trans-bottom}}
-
-===Anagrams===
-* {{anagrams|en|a=elovw|wolve}}
+[[pt:Vowel]]
