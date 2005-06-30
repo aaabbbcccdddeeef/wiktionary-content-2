@@ -1,312 +1,133 @@
-{{also|Friend}}
 ==English==
-{{wikipedia|Friendship}}
-
 ===Etymology===
-{{root|en|ine-pro|*preyH-}}
-From {{inh|en|enm|frend}}, {{m|enm|freend}}, from {{inh|en|ang|frēond||friend|lit=loving[-one], lover}}, from {{inh|en|gmw-pro|*friund}}, from {{inh|en|gem-pro|*frijōndz||lover, friend}}, from {{der|en|ine-pro|*preyH-||to like, love}}, equivalent to {{suffix|enm|free|and|alt2=nd}}.
-
-Cognate with {{cog|stq|Fjund}}, {{m|stq|Früünd|t=friend}}, {{cog|fy|freon}}, {{m|fy|froen}}, {{m|fy|freondinne||friend}}, {{cog|nl|vriend||friend}}, {{cog|nds|Frund}}, {{m|nds|Fründ||friend, relative}}, {{cog|lb|Frënd|t=friend}}, {{cog|de|Freund||friend}}, {{cog|da|frænde||kinsman}}, {{cog|sv|frände||kinsman, relative}}, {{cog|is|frændi||kinsman}}, {{cog|got|𐍆𐍂𐌹𐌾𐍉𐌽𐌳𐍃||friend}}. More at {{m|en|free}}.
-
-Other cognates include {{cog|ru|приятель||friend}} and {{cog|sa|प्रिय|tr=priyá-||beloved}}.
-
-===Pronunciation===
-* {{a|RP|GA}} {{enPR|frĕnd}}, {{IPA|en|/fɹɛnd/|[fɹ̥end̥]}}
-* {{audio|en|En-uk-friend.ogg|Audio (RP)}}
-* {{audio|en|En-us-friend.ogg|Audio (GA)}}
-* {{a|now dialectal}} {{IPA|en|/frɪnd/}}<ref>{{R:Bingham IP|75}}</ref><!--not just pin-pen-->
-* {{rhymes|en|ɛnd|s=1}}
-
+From Middle English, from Old English [[freond|frēond]].
 ===Noun===
-{{en-noun}}
+'''friend''' (''plural'' friends)
 
-# A person, typically someone other than a [[family]] [[member]], [[spouse]] or [[lover]], whose company one enjoys and towards whom one feels [[affection]].
-#* '''1841''', {{w|Ralph Waldo Emerson}}, "Friendship", ''{{w|Essays: First Series|Essays}}'', Vol. I:
-#*: The only reward of virtue is virtue; the only way to have a '''friend''' is to be one.
-#* '''1917''', Richard M. Gummere translating {{w|Seneca the Younger|Seneca}} as ''{{w|Epistulae Morales ad Lucilium|Ad Lucilium Epistulae Morales}}'', Loeb Classical Library, Vol. I, [[:s:Moral letters to Lucilius/Letter 3|No. 3]]:
-#*: ...if you consider any man a '''friend''' whom you do not trust as you trust yourself, you are mightily mistaken and you do not sufficiently understand what true [[friendship]] means.
-#* '''1923''', William Armistead Falconer translating {{w|Cicero}} as ''[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/Laelius_de_Amicitia/text*.html De Amicitia]'', Loeb Classical Library, Vol. XX, p. 34:
-#*: ...he who looks upon a true '''friend''', looks, as it were, upon a sort of image of himself. Wherefore '''friends''', though absent, are at hand; though in need, yet abound; though weak, are strong; and&mdash;harder saying still&mdash;though dead, are yet alive; so great is the esteem on the part of their '''friends''', the tender recollection and the deep longing that still attends them.
-#* '''1927 Mar. 31''', {{w|Ernest Hemingway}}, [https://books.google.com.hk/books?id=SgKeQfmimJEC&pg=PA248 letter] to {{w|F. Scott Fitzgerald}}:
-#*: ...you are my devoted '''friend''' too. You do more and work harder and oh shit I'd get [[maudlin]] about how damned [[swell]] you are. My god I'd like to see you... You're a hell of a good guy.
-#* '''1933 Dec. 12''', {{w|Walter Winchell}}, "On Broadway", ''Scranton Republican'', p. 5:
-#*: Definition of a '''friend''': One who walks in&mdash;when the rest of the world walks out.
-#: {{ux|en|John and I have been '''friends''' ever since we were roommates at college.&nbsp;&nbsp; Trust is important between '''friends'''.&nbsp;&nbsp; I used to find it hard to make '''friends''' when I was shy.}}
-#: {{ux|en|We became '''friends''' in the war and remain '''friends''' to this day. &nbsp;&nbsp;  We were '''friends''' with some girls from the other school and stayed '''friends''' with them.}}
-# An [[associate]] who provides [[assistance]].
-#: {{ux|en|The Automobile Association is every motorist's '''friend'''.&nbsp;&nbsp; The police is every law-abiding citizen's '''friend'''.}}
-# A person with whom one is [[vaguely]] or [[indirectly]] [[acquainted]].
-#* {{quote-journal|en|date=2013-06-21|author={{w|Oliver Burkeman}}
-|volume=189|issue=2|page=27|magazine={{w|The Guardian Weekly}}
-|title=[http://www.guardian.co.uk/technology/2013/may/10/conscious-computing-twitter-facebook-google The tao of tech]
-|passage=The dirty secret of the internet is that all this distraction and interruption is immensely profitable. Web companies like to boast about [&hellip;], or offering services that let you "stay up to date with what your '''friends''' are doing",{{...}}and so on. But the real way to build a successful online business is to be better than your rivals at undermining people's control of their own attention.}}
-#: {{ux|en|a '''friend''' of a '''friend''';&nbsp; I added him as a '''friend''' on Facebook, but I hardly know&nbsp;him.}}
-# A person who backs or supports something.
-#: {{ux|en|I’m not a '''friend''' of cheap wine.}}
-# {{lb|en|informal}} An object or idea that can be used for good.
-#: {{ux|en|Fruit is your '''friend'''.}}
-# {{lb|en|colloquial|ironic|used only in the [[vocative]]}} {{n-g|Used as a form of [[address]] when [[warn]]ing someone.}}
-#: {{ux|en|You’d better watch it, '''friend'''.}}
-# {{lb|en|object-oriented programming}} A [[function]] or [[class]] granted special access to the [[private]] and [[protected]] [[member]]s of another class.
-#* {{quote-book|en|year=1991|author=Tom Swan|title=Learning C++|passage=But don't take the following sections as an endorsement of '''friends'''. Top C++ programmers avoid using '''friends''' unless absolutely necessary.}}
-#* {{quote-book|en|year=2001|author=Stephen Prata|title=C++ primer plus|passage=In that case, the function needn't (and shouldn't) be a '''friend'''.}}
-#* {{quote-book|en|year=2008|author=D S Malik|title=C++ Programming: From Problem Analysis to Program Design|passage=To make a function be a '''friend''' to a class, the reserved word <code>friend</code> precedes the function prototype{{...}}}}
-# {{lb|en|climbing}} A [[spring-loaded camming device]].
-#* '''1995''', ''Rock Climbing Basics''
-#*: Since they were introduced in the 1970s, '''friends''' have revolutionized climbing, making protection possible in previously impossible places {{...}}
-# {{lb|en|euphemistic}} A [[lover]]; a [[boyfriend]] or [[girlfriend]].
-#* {{RQ:Shakespeare Love's Labour's Lost|5|2|passage=Nor to the motion of a schoolboy's tongue ; Nor never come in visard to my '''friend'''}}
-#* '''1813''', Samuel Foote, ''The Commissary, Etc.'', page 17:
-#*: Time has been, when a gentleman wanted a '''friend''', I could supply him with choice in an hour; but the market is spoiled, and a body might as soon produce a hare or a partridge {{...}}
-#* '''1975''', {{w|Janis Ian}}, "In the Winter":
-#*: I met your '''friend'''. She's very nice, what can I say?
-# {{lb|en|Scotland|obsolete}} A [[relative]], a [[relation]] by blood or marriage.
-#: ''Friends agree best at a distance.''<!--James Kelly, ''A Complete Collection of Scottish Proverbs'' (1721): "By friends here is meant relations."-->
-#: ''Make friends of framet folk.''<!--James Kelly, ''A Complete Collection of Scottish Proverbs'' (1721): "Spoken to dissuade people from marrying their near kinswomen."-->
-#* '''1895''', Crockett, ''Bog-Myrtle'', 232:
-#*: He was not a drop's blood to me, though him and my wife were far-out '''friends'''.
-# {{lb|en|in the plural|usually preceded by "and"}} {{ngd|Used to refer collectively to a group of associated individuals, especially those comprising a cast, company, or crew}}
-#: {{syn|en|company|alt1=and company|et al.}}
-#: ''Meanwhile on ''The View'', Whoopi Goldberg and '''friends''' continue to issue forced apologies for their assumptive comments regarding non-profit organisation Turning Point USA...''
-
-====Usage notes====
-* ''friends'' is found as an invariable plural in the phrases ''make friends with'' and ''be friends with'': ''I am '''friends''' with her''; ''He made '''friends''' with his co-worker.''
-* We usually ''[[make]] a friend'', or ''make friends with'' someone. See '''[[:Appendix:Collocations of do, have, make, and take]]'''
-* In older texts and certain dialects, the prepositional phrase '''to friend''' means "as a friend or an ally", for exampleː "[https://en.wikisource.org/wiki/The_Faerie_Queene/Book_I/Canto_I with God to frend] (Spenser)". The antonym to the phrase '''to friend''' is '''to [[fiend]]'''.
+#A person other than a [[family member]], [[spouse]] or [[lover]] whose company one enjoys and towards whom one feels [[affection]].
+#A [[boyfriend]] or [[girlfriend]].
+#An object or idea that can be used for good.
+#:''Google is your friend.''
+#(''colloquial'', ''ironic''; ''used only in the [[vocative]]'') Used as a form of address when warning someone.
+#:''You'd better watch it, friend''
 
 ====Synonyms====
-* {{sense|person whose company one enjoys}} {{seeSynonyms|en|friend|sense=1}}
-* {{sense|boyfriend or girlfriend}} {{seeSynonyms|en|lover|sense=1}}
-* {{sense|person with whom you are acquainted}} {{l|en|acquaintance}}, {{l|en|contact}}
-* {{sense|person who provides assistance}} {{l|en|ally}}
-* {{sense|person who backs something}} {{l|en|admirer}}, {{l|en|booster}}, {{l|en|champion}}, {{l|en|protagonist}}, {{l|en|supporter}}
-* {{sense|form of address used in warning someone}} {{l|en|buster}}, {{l|en|mate}} {{qualifier|British}}, [[pal]], [[buddy]], [[sonny]]
+*(''person whose company one enjoys''): [[bud]] (''US, Canada''), [[buddy]] (''US, Canada''), [[chum]] (''British''), [[mate]] (''British''), [[pal]]
+*(''boyfriend, girlfriend''): [[boyfriend]], [[girlfriend]], [[lover]]
+*(''object or idea that can be used for good''):
+*(''form of address used in warning someone''): [[buster]], [[mate]] (''British''), [[pal]]
 
 ====Antonyms====
-* {{sense|person whose company one enjoys}} {{seeSynonyms|en|enemy|sense=1}}
-* {{sense|person with whom you are acquainted}} {{l|en|stranger}}
-* {{sense|person who provides assistance}} {{l|en|enemy}}, {{l|en|foe}}
+*(''person whose company one enjoys''): [[enemy]], [[foe]], [[nemesis]] (''non-standard'')
 
 ====Derived terms====
-{{der4|en
-|a friend in need is a friend indeed
-|best friend|befriend
-|bosom friend
-|boyfriend
-|boy-friend
-|boy friend
-|circle of friends
-|close friend
-|fair-weather friend
-|false friend
-|feathered friend
-|four-legged friend
-|friendom
-|friendhood
-|friendish
-|friendless
-|friendly
-|friend of Bill W.
-|friend of mine
-|friend of ours
-|friendship
-|friend with benefits
-|Friends
-|friends in high places
-|friends list
-|friendsome
-|friend zone
-|girlfriend
-|girl-friend
-|girl friend
-|good friend
-|half-friend
-|identification friend or foe
-|lady friend
-|man's best friend
-|nonfriend
-|old friend
-|penfriend
-|pen-friend
-|pen friend
-|say hello to my little friend
-|schoolfriend
-|with friends like that, who needs enemies
-|just friends
-|more than friends
-|unfriend
-}}
-
-====Descendants====
-* {{desc|bor=1|yue|-}} {{l|zh|friend|tr=fen{{sup|1}}}}
-* {{desc|bor=1|fi|frendi|}}
-* {{desc|bor=1|sh|-}}
-** {{desc|sh|frȅnd|sclb=1}}
-** {{desc|sh|фре̏нд|sclb=1}}
+*[[friendly]]
+*[[friendship]]
+*[[false friend]]
 
 ====Translations====
-{{see translation subpage|Noun}}
 
-===Verb===
-{{en-verb}}
+'''person whose company one enjoys'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+*Chinese: pengyou, peng2you3
+*Czech: [[přítel]] ''m'', [[přítelkyně]] ''f''
+*Dutch: [[vriend]], [[vriendje]] ''m'', [[vriendin]], [[vriendinnetje]] ''f'', [[maatje]] ''both m and f''
+*Esperanto: [[amiko]] (male or female), [[amikino]] (female)
+*French: [[ami]] ''m'', [[amie]] ''f''
+*German: [[Freund]] ''m'', [[Freundin]] ''f''
+*{{hu1|barát}}
+*[[Ido]]: [[amiko]] (gender-neutral) [[amikino]] ''f'', [[amikulo]] ''m''
+*[[Interlingua]]: [[amico#Interlingua|amico]]
+*Italian: [[amico#Italian|amico]] ''m'', [[amica]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+*[[Kurdish]]: [[heval]], [[dost]], [[yar]], [[hevrê]]
+*Latin: [[amicus]] ''m'', [[amica]] ''f''
+*Portuguese: [[amigo]] ''m'', [[amiga]] ''f''
+*Romanian: [[prieten]], [[amic]] ''m'', [[prietenă]], [[amică]] ''f''
+*Spanish: [[amigo]] ''m'', [[amiga]] ''f''
+*[[Turkish: [[arkadaş]], [[dost]]
+|}
+|}
 
-# {{lb|en|transitive|obsolete}} To act as a friend to, to [[befriend]]; to be friendly to, to help.
-#* '''1596''', Edmund Spenser, ''The Faerie Queene'', IV.ii:
-#*: Lo sluggish Knight the victors happie pray: / So fortune '''friends''' the bold [...].
-#* '''1896''', {{w|Alfred Edward Housman}}, ''{{w|A Shropshire Lad}}'', LXII:
-#*: ’Tis true, the stuff I bring for sale<br>Is not so brisk a brew as ale:<br>Out of a stem that scored the hand<br>I wrung it in a weary land.<br>But take it: if the smack is sour,<br>The better for the embittered hour;<br>It should do good to heart and head<br>When your soul is in my soul’s stead;<br>And I will '''friend''' you, if I may,<br>In the dark and cloudy day.
-# {{lb|en|transitive}} To add (a person) to a list of friends on a [[social networking]] site; to officially designate (someone) as a friend.
-#* '''2006''', David Fono and Kate Raynes-Goldie, "[http://209.85.165.104/search?q=cache:wXH9NWhjSq8J:k4t3.org/publications/hyperfriendship.pdf+%22Hyperfriendship+and+Beyond%22&hl=en&ct=clnk&cd=1&gl=us&client=firefox-a Hyperfriendship and Beyond: Friends and Social Norms on LiveJournal]" ([http://k4t3.org/publications/hyperfriendship.pdf PDF version]), ''Internet Research Annual Volume 4'', Peter Lang, {{ISBN|0820478571}}, page [http://books.google.com/books?q=%22friend+them%22+consalvo&btnG=Search+Books 99],
-#*: The difference between responses to the statement, "If someone '''friends''' me, I will '''friend''' them," and "If I '''friend''' someone, I expect them to '''friend''' me back," is telling.
-#* {{quote-book|en|year=2006|author=Kevin Farnham|author2=Dale G. Farnham|title=Myspace Safety: 51 Tips for Teens And Parents|url=http://books.google.com/books?id=t0ykIJl4oAEC&pg=PA69&dq=%22friend+someone%22&sig=ACfU3U07tfwMQUkPDjT1RSxhAX6wgSJG6w|page=69|publisher=How-To Primers|isbn=0977883353
-|passage=One of the most used features of MySpace is the practice that is nicknamed "friending." If you "'''friend'''" someone, then that person is added to your MySpace friends list, and you are added to their friends list.}}
+'''boyfriend or girlfriend'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+*Dutch: [[vriend]], [[vriendje]] ''m'', [[vriendin]] ''f''
+*Esperanto: [[amulo]], (''girlfriend'') [[amulino]]
+*French: (''boyfriend''): [[petit ami]] ''m'', [[copain]] ''m''; (''girlfriend''): [[petite amie]] ''f'', [[copine]] ''f''
+*Italian: (''boyfriend''): [[ragazzo]] ''m''; (''girlfriend''): [[ragazza]] ''f''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
 
-====Synonyms====
-* {{sense|to act as the friend of}} {{l|en|befriend}}
+'''object or idea that can be used for good'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
 
-====Antonyms====
-* {{sense|social networking}} {{l|en|defriend}}, {{l|en|unfriend}}
+'''form of address used to warn someone'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
 
-====Translations====
-{{trans-see|befriend}}
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
 
-{{trans-top|to act as the friend of}}
-* Belarusian: {{t|be|сябрава́ць}}
-* Dutch: {{t|nl|bevriend zijn met}}
-* Finnish: {{t+|fi|auttaa}}, {{t+|fi|avittaa}}
-* German: {{t+|de|anfreunden|alt=sich anfreunden}}
-* Persian: {{t|fa|دوستی کردن|tr=dusti kardan|sc=fa-Arab}}
-{{trans-mid}}
-* Polish: {{t+|pl|przyjaźnić się}}
-* Portuguese: {{t+|pt|favorecer}}
-* Russian: {{t+|ru|дружи́ть|impf}}, {{t+|ru|подружи́ться|pf}}
-* Spanish: {{t+|es|favorecer}}
-* Swedish: {{t+|sv|hjälpa}}, {{t+|sv|gynna}}, {{t+|sv|stödja}}
-* Zazaki: {{t|zza|dostey kerden}}
-{{trans-bottom}}
+The translations below need to be checked by native speakers and inserted into the appropriate table(s) above.  Note that the numbering is incorrect.
 
-{{trans-top|to add as a friend}}
-* Bulgarian: {{t|bg|сприятеля́вам се|sc=Cyrl}}
-* Chinese:
-*: Mandarin: {{t+|cmn|加|tr=jiā}}
-* Estonian: {{t|et|sõbrunema}}
-* Finnish: {{t|fi|[[lisätä]] [[kaveri]]ksi}}
-* French: {{t|fr|se lier d'amitié|alt=se lier d'amitié (avec)}}
-* Hungarian: {{t|hu|ismerősnek jelöl}}
-* Polish: {{t|pl|dodać do znajomych}}
-* Portuguese: {{t+|pt|amigar}}, {{t|pt|[[marcar]] [[como]] [[amigo]]}}
-{{trans-mid}}
-* Russian: {{t+|ru|зафре́ндить|pf|tr=zafrɛńditʹ}} {{qualifier|Internet}}, {{t|ru|[[доба́вить]] в [[друзья́]]}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|пријатељевати|alt=пријатељевати се}}
-*: Roman: {{t+|sh|prijateljevati|alt=prijateljevati se}}
-* Slovak: {{t|sk|spriateliť sa|n}}
-* Spanish: {{t+|es|amistar}}, {{t|es|hacer amigos}}
-* Tagalog: {{t|tl|kaibiganin}}
-* Ukrainian: {{t|uk|зафре́ндити}}
-* Zazaki: {{t|zza|embaz kerden}}
-{{trans-bottom}}
+*[[Breton]]: [[mignon]] ''m'' (1), [[mignonez]] ''f'' (2)
+*Chinese: [[朋友]]
+*Finnish: [[ystävä]] (1, 2), [[frendi]] (1, 2, ''colloquial''), [[tuttu]] (1), [[tuttava]] (1), [[kumppani]] (2), [[tuttavuus]] (3), [[kaveri]] (4)
+*Gaelic: [[cara]]
+*Georgian: [[მეგობარი]] (megobari)
+*Hebrew: [[ידיד]] ''m''
+*Indonesian: [[teman]], [[sahabat]], [[kawan]], [[sobat]] (''rare'')
+*Japanese: [[友達]] (ともだち, tomodachi)
+*Korean: [[친구]] [親舊] (chingu)
+*Latenkwa: [[zaytwi]]
+*Persian: [[دوست]] (dust)
+*Polish: [[przyjaciel]] ''m'', [[przyjaciółka]] ''f''
+*{{ru}}: [[друг]] ''m''
+*Slovak: [[priateľ]] ''m'', [[priateľka]] ''f''
+*Slovene: [[prijatelj]] ''m'', [[prijateljica]] ''f''
+*Swedish: [[vän]] (1, 2)
+*Turkish: [[arkadaş]] ''m'' (1), [[kız arkadaş]] ''f'' (2)
 
-===References===
-<references/>
-
-===Further reading===
-* {{R:OneLook}}
-
-===Anagrams===
-* {{anagrams|en|a=definr|Friden|finder|frined|redfin|refin'd|refind}}
-
-[[Category:English endearing terms]]
-[[Category:English terms of address]]
-[[Category:en:People]]
-
-----
-
-==Chinese==
-
-===Etymology===
-Borrowed from {{bor|yue|en|friend}}.
-
-===Pronunciation===
-{{zh-pron
-|c=fen1
-|cat=n,a
-}}
-
-===Noun===
-{{head|zh|noun}}
-
-# {{lb|zh|Cantonese}} {{l|en|friend}} {{zh-mw|個}}
-#: {{zh-x|佢 係 我 個 '''fr{}i{}end{1}''' 嚟 㗎。|He's my '''friend'''.|C}}
-#* {{zh-x|我 個 '''fr{}i{}end{1}''' 話：「唔 會 衰 嘅，邊 有 咁 容易 吖，世界 咁 多 人 死 又 唔 見 你 去 死。」|My '''friend''' said, "It's not gonna go wrong. It's not that easy [to go wrong]. There are so many people in the world, and I don't see you dying."|C|ref='''2008''', {{lang|zh|李紫媚}} (Jessica Li), {{lang|zh|《盜與罪：青少年犯罪預防理論與對策》}} (''Theft and delinquency: juvenile crime prevention theories and practice''), [https://books.google.com/books?id=VRQfAwAAQBAJ&pg=PA180 page 180]}}
-#* {{zh-x|喂，乜 你 班 '''fr{}i{}end{1}''' 咁{gam2} 踢波 嘅{ge2}，係咪{mai6} 有 啲 唔對路？|Hey, how come your '''friends''' play soccer like this. Is there some problem?|C|ref='''2015''', Playboy {{lang|zh|文}} (pseudonym), {{lang|zh|《港股策略王》}}, issue 18, [https://books.google.com/books?id=Ri7ACAAAQBAJ&pg=PA69 page 69]}}
-#* {{zh-x|我 個 '''fr{}i{}end{1}''' 叫 我 去 佢 屋企{kei5-2} 坐 吓{haa5}，但 又 唔 話 我 知 佢 女友 喺度，搞到 我 變 咗 做 電燈膽。|When my '''friend''' invited me to hang out at his house but he didn't tell me that his girlfriend would be there too, he made me a third wheel.|C|ref='''2016''', {{lang|zh|董德偉}}, {{lang|zh|《英語講呢D》}}, [https://books.google.ca/books?id=ERvcDAAAQBAJ&pg=PA101 page 101]}}
-
-====Synonyms====
-* {{zh-l|朋友}}
-
-===Adjective===
-{{head|zh|adjective}}
-
-# {{lb|zh|Cantonese}} in a [[close]] or [[friendly]] [[relationship]]
-#: {{zh-x|我哋 好 '''fr{}i{}end{1}''' 㗎。|We are really '''close'''.|C}}
-#* {{zh-x|實行{hang4} 用 㗎文{man4-2} 跟 佢 '''fr{}i{}end{1}''' 吓|Used a bit of Japanese to try and make friends with her|C|ref='''1985''', {{lw|zh|許冠傑}}, {{l|zh||《日本娃娃》}}}}
-#* {{zh-x|「因為 你哋 五 個 好似 好 '''fr{}i{}end{1}''' 好 開心 噉 喎{wo3}。」|“It's because you five seem so '''close''' and happy.”|C|ref='''2011''', TVB-J2, {{lw|zh|K-ON！！輕音少女}} (''{{w|K-On!!}}''), season 2, episode 1}}
-#* {{zh-x|我 叫 奧 古，和 她 識 了 很多 年，算 係 好 '''fr{}i{}end{1}''' 下{haa5}。|My name is ''Ou Gu''. I knew her for many years, so we are pretty '''close'''.|C|ref='''2013''', {{lw|zh|董啟章}} ({{w|Dung Kai-cheung}}), {{lang|zh|《體育時期（劇場版）【上學期】》}}, [https://books.google.com/books?id=F_HKAwAAQBAJ&pg=PA124 page 124]}}
-#* {{zh-x|我 唔 想 我哋 只係 喺 呢{ni1} 段 時間{gaan3} '''F{f}r{}i{}end{1}''' 返，我 想 我哋 變返 以前 咁{gam2}，'''F{f}r{}i{}end{1}''' 到 乜 都 傾，平{ping4}時 大家 有 啲 咩 都 會 搵 大家 講。|I don't want us to just be '''close''' for this while. I want us to turn back into how we were before, when we were so '''close''' that we would chat about anything, when we would normally look for each other to talk if anything happens.|C|ref='''2015''', {{lang|zh|少少肥}} (pseudonym), {{lang|zh|《自修室‧學界嘅蘭桂坊》}}, [https://books.google.com/books?id=ZLeaCgAAQBAJ&pg=PA243 page 243]}}
-#* {{zh-x|不過 始終 大家 都 係 細路，好 快 就 '''fr{}i{}end{1}''' 咗，我 個 人 好 易 相處，同 香港人、印度人 都 相處 到{dou3-2}，所以 其實 讀 咩 學校{haau6} 都 冇 問題。|But since everyone is a kid, we quickly became '''close'''. I easily get along with others, no matter if it's with Hong Kongers or Indians, so it doesn't matter which school I go to.|C|ref='''2016''', {{lw|zh|喬寶寶}}, ([[w:Gill Mohindepaul Singh|Q Bobo]]), {{lang|zh|《香港製造》}}, [https://books.google.com/books?id=NuzkDAAAQBAJ&pg=PA32 page 32]}}
-
-===References===
-* {{R:yue:ELHKC}}
-
-[[Category:Chinese terms written in foreign scripts]]
-
-----
-
-==Middle English==
-
-===Noun===
-{{head|enm|noun}}
-
-# {{alt form|enm|frend}}
-
-----
-
-==Old English==
-
-===Pronunciation===
-* {{ang-IPA|frīend}}
-
-===Noun===
-{{head|ang|noun form|head=frīend}}
-
-# {{inflection of|ang|frēond||dat|sg}}
-# {{inflection of|ang|frēond||nom|and|acc|p}}
-
-----
-
-==Spanish==
-
-===Etymology===
-From {{bor|es|en|friend}}.
-
-===Pronunciation===
-{{es-pr|frend}}
-
-===Noun===
-{{es-noun|m}}
-
-# {{lb|es|climbing}} [[cam]]
-
-----
-
-==Yola==
-
-===Noun===
-{{head|yol|noun}}
-
-# {{alt form|yol|vriene}}
-#* {{quote-book|yol|year=1867|chapter=VERSES IN ANSWER TO THE WEDDEEN O BALLYMORE|number=3|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=Mye thee '''friend''' ne're waant welcome, nor straayart comfoort.|translation=May thy '''friend''' ne'er want welcome, nor the stranger comfort.}}
-
-===References===
-* {{R:Poole 1867|page=100}}
+[[de:friend]]
+[[it:friend]]
+[[pl:Friend]]
+[[pt:Friend]]
+[[Category:1000 English basic words]]
