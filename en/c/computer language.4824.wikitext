@@ -1,52 +1,20 @@
 ==English==
-
-===Noun===
-{{en-noun}}
-
-# {{lb|en|programming}} A [[language]] that is used internally by computers, including [[programming language]]s, [[machine language]]s, [[query language]]s, [[markup language]]s etc.
-
-====Hypernyms====
-* {{l|en|language}}
-
-====Hyponyms====
-{{col4|en
-|command language
-|configuration language
-|construction language
-|description language
-|interface definition language
-|interface description language
-|machine language
-|markup language
-|modeling language
-|programming language
-|query language
-|style sheet language
-}}
+=== Noun ===
+#code of reserved words and symbols used in [[computer program]]s which give instructions to the [[computer]] on how to accomplish certain [[computing]] tasks.  Synonym: [[programming language]]
 
 ====Translations====
-{{trans-top|language associated with computers}}
-* Bulgarian: {{t|bg|компю́търен ези́к|m}}
-* Finnish: {{t|fi|tietokonekieli}}
-* French: {{t|fr|langage informatique|m}}
-* Georgian: {{t|ka|კომპიუტერული ენა}}, {{t|ka| მანქანის ენა}}
-* German: {{t+|de|Computersprache|f}}
-* Indonesian: {{t+|id|bahasa komputer}}
-* Interlingua: {{t|ia|linguage computatorial}}
-* Irish: {{t|ga|teanga ríomhaire|f}}
-* Japanese: {{t|ja|計算機言語|tr=keisanki-gengo}}
-* Khmer: {{t|km|ភាសាកុំព្យូទ័រ|tr=phea sar kom pyuu ter|sc=Khmr}}
-{{trans-mid}}
-* Polish: {{t|pl|język komputerowy|m}}
-* Portuguese: {{t|pt|linguagem de computador|f}}
-* Romanian: {{t|ro|limbaj de calculator|n}}
-* Slovak: {{t|sk|počítačový jazyk}}
-* Tagalog: {{t|tl|panuusing wika}}
-* Turkish: {{t+|tr|bilgisayar dili}}
-* Vietnamese: {{t|vi|ngôn ngữ điện toán}}, {{t|vi|ngôn ngữ máy điện toán}}, {{t|vi|ngôn ngữ máy tính}}
-* Volapük: {{t|vo|kompütapük}}
-{{trans-bottom}}
+*Dutch: [[programmeertaal]]
+*Finnish: [[ohjelmointikieli]]
+*French: [[langage]] ''m'', [[langage de programmation]] ''m''
+*German: [[Computersprache]] ''f''
+*[[Hebrew]]: [[שפת תיכנות]] (S'fat Tikh'nut) ''f'', [[שפות תיכנות]] (S'fot Tikh'nut) ''f pl''
+*Interlingua: [[linguage computatorial]], [[linguage de programmation]]
+*Portuguese: [[linguagem de computador]] ''f'', [[linguagem de programação]] ''f''
+*[[Romanica]]: [[linguage computatorial]] ''m'', [[linguage de programmation]] ''m''
+*Volapük: [[kompütapük]]
 
-===Further reading===
-* {{pedia}}
-* {{pedia|list of programming languages}}
+==== External Links====
+*[[w:List of programming languages|Wikipedia list of programming languages]]
+*[http://www2.latech.edu/~acm/HelloWorld.shtml The ACM "Hello World" Page]
+*[http://dmoz.org/Computers/Programming/Languages/ DMOZ Open Directory list of Programming Languages]
+*[http://dir.yahoo.com/Computers_and_Internet/Programming_and_Development/Languages/ Yahoo list of Programming Languages]
