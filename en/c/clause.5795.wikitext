@@ -1,221 +1,25 @@
-{{also|Clause}}
-==English==
-{{wikipedia}}
+== [[noun]] ==
+# ''colloq.'' a group of two or more words which include a [[subject]] and any necessary [[predicate]] (the predicate also includes a [[verb]], [[conjunction]], or a [[preposition]] to begin the clause, however this clause is not considered a sentence for colloquial purposes.
+#In formal usage, if a sentence contains a named [[subject]] and a [[predicate]], it is considered an ''independent clause''. Some grammarians prefer the term ''independent clause'' or [[simple sentence]] as opposed to [[sentence]].
 
-===Etymology===
-From {{inh|en|enm|clause}}, {{m|enm|claus}}, borrowed from {{der|en|fro|clause}}, from {{der|en|ML.|clausa}} (Latin diminutive {{m|la|clausula||close, end; a clause, close of a period}}), from {{der|en|la|clausus}}, past participle of {{m|la|claudere||to shut, close}}. See {{m|en|close}}, its doublet.
-{{root|en|ine-pro|*(s)kleh₂w-}}
+==Example of a grammatical dependent clause.==
+(e.g. ''When it got dark, they went back into the house'', "''When'' it got dark" is the clause within the complete sentence) The conjuction ''when'' begins the main clause (when it got dark, .." ; however, the [[pronoun]] ''it'' lacks a declared subject causing the reader to expect a [[subordinate clause]] to complete the idea.
 
-===Pronunciation===
-* {{IPA|en|/klɔːz/}}
-* {{audio|en|en-us-clause.ogg|Audio (US)}}
-* {{rhymes|en|ɔːz|s=1}}
-* {{homophones|en|claws}}
+==types of clauses==
+* independent clause or [[main clause]] (synonyms)
+* dependent clause or [[subordinate clause]] (synonyms)
 
-===Noun===
-{{en-noun}}
 
-# {{lb|en|grammar}} A verb, its necessary grammatical arguments, and any adjuncts affecting them.
-# {{lb|en|grammar}} A verb along with its subject and their modifiers. If a clause provides a complete thought on its own, then it is an independent ([[superordinate]]) clause; otherwise, it is ([[subordinate]]) dependent.
-#* {{quote-book|en|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=300|chapter=6}}
-#*: However, Coordination facts seem to undermine this hasty conclusion: thus, consider the following:<br> (43) &nbsp;&nbsp;&nbsp;&nbsp; [Your sister could go to College], but [''would she get a degree''?]<br> The second (italicised) conjunct is a '''Clause''' containing an inverted Auxiliary, ''would''. Given our earlier assumptions that inverted Auxiliaries are in C, and that C is a constituent of S-bar, it follows that the italicised '''Clause''' in (43) must be an S-bar. But our familiar constraint on Coordination tells us that only constituents belonging to ''the same Category'' can be conjoined. Since the second '''Clause''' in (43) is clearly an S-bar, then it follows that the first '''Clause''' must also be an S-bar — one in which the C(omplementiser) position has been left empty.
-# {{lb|en|legal}} A separate part of a contract, a will or another legal document.
 
-====Usage notes====
-In “When it got dark, they went back into the house”, “''When'' it got dark” is a dependent clause within the complete sentence. The independent clause “they went back into the house” could stand alone as a sentence, whereas the dependent clause could not.
+# a separate part of a contract, a will or another legal document.
 
-====Hyponyms====
-{{col4|en|title=types of grammatical clauses
-|adjective clause
-|adverbial clause
-|appositive clause
-|comment clause
-|comparative clause
-|concessive clause
-|conditional clause
-|conditional mood
-|coordinate clause
-|defining relative clause
-|dependent clause
-|finite clause
-|if clause
-|independent clause
-|main clause
-|nominal clause
-|nondefining relative clause
-|non-finite clause
-|noun clause
-|relative clause
-|restrictive clause
-|subclause
-|subordinate clause
-|superordinate clause
-|verbless clause
-}}
+=== Translations ===
+*Finnish: [[lause]] (1)
+*German: [[Nebensatz]] ''m'' (1), [[Klausel]] ''f'' (2)
+*[[Interlingua]]: [[clausa]]
+*Spanish: [[clausa]]
+*Japanese: [[節]] ([[せつ]], setsu)
 
-{{col2|en|title=part of a legal document
-|noncompete clause
-}}
-
-====Derived terms====
-{{der3|en|title=grammatical terms
-|3-clause
-|clause element
-|clause function
-|subclause
-|clausal
-}}
-
-{{der3|en|title=other terms (unsorted, may also contain grammatical terms)
-|acceleration clause|break clause|choice of forum clause|cognovit clause|conscience clause|definite clause|derogatory clause|escalator clause|escape clause|establishment clause|exit clause|final clause|forum clause|forum selection clause|free-exercise clause|get-out clause|grandfather clause|guillotine clause|Henry VIII clause|Horn clause|in terrorem clause|jurisdiction clause|matrix clause|negative clause|no-trade clause|notwithstanding clause|objective clause|operative clause|pedigree clause|residuary clause|small clause|subject clause|sunrise clause|sunset clause|supplementive clause|testing clause|that clause|weasel clause}}
-
-====Related terms====
-* {{l|en|close}}
-
-====Translations====
-{{trans-top|grammar: group of words which include a subject and any necessary predicate}}
-* Arabic: {{t|ar|مُرَكَّبٌ إِسْنَادِيّ}}
-* Bulgarian: {{t|bg|подчинено изречение|n}}
-* Dutch: {{t+|nl|bijzin|m}}
-* Finnish: {{t+|fi|lauseke}}
-* French: {{t+|fr|proposition|f}}
-* German: {{t+|de|Nebensatz|m}}
-* Hebrew: {{t+|he|פסוקית|f|tr=psukít}}
-* Hungarian: {{t+|hu|mellékmondat}}
-{{trans-mid}}
-* Irish: {{t|ga|clásal|m}}
-* Japanese: {{t+|ja|節|tr=[[せつ]], setsu|sc=Jpan}}
-* Portuguese: {{t+|pt|oração|f}}
-* Scottish Gaelic: {{t|gd|clàs|m}}
-* Tagalog: {{t|tl|sugnay}}
-{{trans-bottom}}
-
-{{trans-top|grammar: verb along with a subject and modifiers}}
-* Arabic: {{t+|ar|جُمْلَة|f}}
-* Armenian: {{t+|hy|նախադասություն}}
-* Azerbaijani: {{t+|az|cümlə}}
-* Catalan: {{t|ca|clàusula|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|短句|tr=duǎnjù|sc=Hani}}
-* Dutch: {{t+|nl|nevenschikking|f}}, {{t+|nl|bijzin|m}}
-* Finnish: {{t+|fi|lause}}
-* French: {{t+|fr|proposition|f}}
-* German: {{t+|de|Teilsatz|m}}
-{{trans-mid}}
-* Hungarian: {{t|hu|tagmondat}}
-* Irish: {{t|ga|clásal|m}}
-* Japanese: {{t+|ja|節|tr=せつ, setsu}}
-* Norman: {{t|nrf|proposition|f}}
-* Portuguese: {{t+|pt|oração|f}}
-* Russian: {{t+|ru|предложе́ние|n}} {{qualifier|also: sentence}}
-* Scottish Gaelic: {{t|gd|clàs|m}}
-* Swedish: {{t+|sv|sats|c}}
-* Tagalog: {{t|tl|sugnay}}
-* Turkish: {{t+|tr|cümlecik}}
-{{trans-bottom}}
-
-{{trans-top|legal: separate part of a contract}}
-* Arabic: {{t|ar|بَنْد|m}}
-* Armenian: {{t+|hy|հոդված|sc=Armn}}
-* Bulgarian: {{t+|bg|клауза|f|sc=Cyrl}}, {{t+|bg|параграф|m|sc=Cyrl}}
-* Catalan: {{t|ca|clàusula|f}}
-* Danish: {{t|da|klausul|c}}
-* Dutch: {{t+|nl|clausule|f}}
-* Finnish: {{t+|fi|ehto}}, {{t|fi|sopimusehto}}, {{t+|fi|klausuuli}}
-* French: {{t+|fr|clause|f}}
-* German: {{t+|de|Klausel|f}}
-* Greek: {{t+|el|ρήτρα|f|sc=Grek}}, {{t+|el|όρος|m|sc=Grek}}
-* Hebrew: {{t+|he|סעיף|m|tr=seíf}}
-* Hungarian: {{t+|hu|záradék}}, {{t|hu|klauzula}}, {{q|section of a legal document}} {{t+|hu|cikkely}}, {{t+|hu|paragrafus}},
-{{trans-mid}}
-* Ido: {{t+|io|klauzo}}
-* Irish: {{t|ga|clásal|m}}, {{t|ga|foráil|f}}, {{t|ga|agús|m}}
-* Polish: {{t+|pl|klauzula|f}}
-* Portuguese: {{t+|pt|cláusula|f}}, {{t+|pt|artigo|m}}
-* Spanish: {{t+|es|cláusula|f}}
-* Swedish: {{t+|sv|klausul|c}}
-* Ukrainian: {{t|uk|пункт}}, {{t+|uk|стаття}}
-* Vietnamese: {{t+|vi|điều khoản}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Icelandic: {{t+check|is|setning|f}}
-{{trans-mid}}
-* Interlingua: {{t-check|ia|clausa}}
-* Spanish: {{t+check|es|oración|f}}
-{{trans-bottom}}
-
-===Verb===
-{{en-verb}}
-
-# {{lb|en|transitive|shipping}} To [[amend]] (a [[bill of lading]] or similar document).
-#* {{quote-journal|en|journal=Report of the session|issue=11|author=Asian-African Legal Consultative Committee|year=1970|passage=The question of '''clausing''' the bills of lading, so as to avoid "dirtying", which impairs its negotiability, may also be looked into}}
-#* {{quote-book|en|title=The Hamburg rules on the carriage of goods by sea|page=215|author=Samir Mankabady|year=1978|passage=Any attempt to '''clause''' a Bill of Lading will be strenuously resisted by shippers, and they will obtain clean bills in the usual ways}}
-#* {{quote-book|en|title=Bills of lading: law and practice|author=Alan Mitchelhill|year=1990|passage=It was held that the bills of lading presented were in this case 'clean' as they contained no reservations by way of endorsement, '''clausing''' or otherwise to suggest that the goods were defective}}
-#* {{quote-book|en|title=Cases & materials on the carriage of goods by sea|page=104|author=Martin Dockra|coauthors=Katherine Reece Thomas|2004|passage=There is little authority in English law dealing with the liability of a carrier who unnecessarily '''clauses''' a bill of lading.}}
-
-====Further reading====
-* {{R:Webster 1913}}
-* {{R:Century 1911}}
-
-===Anagrams===
-* {{anagrams|en|a=acelsu|Caelus|secula}}
-
-[[Category:en:Directives]]
-
-----
-
-==French==
-
-===Etymology===
-From {{der|fr|fro|clause}}, borrowed from {{der|fr|ML.|clausa}}.
-
-===Pronunciation===
-* {{fr-IPA}}
-
-===Noun===
-{{fr-noun|f}}
-
-# [[#English|clause]]
-
-===Further reading===
-* {{R:TLFi}}
-
-----
-
-==Latin==
-
-===Participle===
-{{la-part-form|clause}}
-
-# {{inflection of|la|clausus||voc|m|s}}
-
-----
-
-==Middle English==
-
-===Alternative forms===
-* {{alter|enm|clawse|claus}}
-
-===Etymology===
-From {{bor|enm|fro|clause}}, from {{der|enm|ML.|clausa}}.
-
-===Pronunciation===
-* {{IPA|enm|/ˈklau̯z(ə)/}}
-
-===Noun===
-{{enm-noun}}
-
-# [[sentence]], {{l|en|clause}}
-# [[statement]], [[line]] {{gloss|of a text}}
-# [[writing]], [[text]], [[document]], [[letter]]
-# A [[section]] or [[portion]] of a text; a part of a series of quotes
-# {{lb|enm|law}} A {{l|en|clause}}, [[term]], or [[consideration]]; a section in a legal [[document]].
-
-====Descendants====
-* {{desc|en|clause}}
-
-====References====
-* {{R:MED Online|entry= clause |pos=n |id=MED7909 |accessdate=2018-04-23}}
-
-[[Category:enm:Textual division]]
+[[et:Clause]]
+[[it:clause]]
+[[pl:Clause]]
