@@ -1,441 +1,53 @@
-{{also|Symbol}}
+{{rfc}}
 ==English==
-{{wikipedia|Symbol (disambiguation)|mul=Symbol}}
-
 ===Etymology===
-{{root|en|ine-pro|*sem-|*gʷelH-}}
-[[File:Religious syms.png|thumb|upright|Symbols of various religions.]]
-From {{der|en|fr|symbole}}, from {{der|en|la|symbolus}}, {{m|la|symbolum||a sign, mark, token, symbol, in Late Latin also a creed}}, from {{der|en|grc|σύμβολον||a sign by which one infers something; a mark, token, badge, ticket, tally, check, a signal, watchword, outward sign}}, from {{m|grc|συμβάλλω||I throw together, dash together, compare, correspond, tally, come to a conclusion}}, from {{m|grc|σύν||with, together}} + {{m|grc|βάλλω||I throw, put}}.
+Literally ''to throw together''. From {{LL.}} [[symbolum]] and prior to that from {{Gr.}} which both meant ''mark'' or ''token''.  Also [[Hebrew]] 'shem' meaning 'word'. The Greek root of the word is from two words, [[βολς]] ''throw'' and the prefix [[συμ]] ''together''.
 
 ===Pronunciation===
-* {{enPR|sĭmbəl}}, {{IPA|en|/ˈsɪmbəl/}}
-* {{audio|en|en-us-symbol.ogg|Audio (GA)}}
-* {{rhymes|en|ɪmbəl|s=2}}
-* {{hyphenation|en|sym|bol}}
-* {{homophones|en|cymbal}}
+*(US) SAMPA:/sIm.bVl/
+
+====Homynyms====
+* [[cymbal]]
 
 ===Noun===
-{{en-noun}}
-
+'''symbol''' (plural '''symbols''')
 # A [[character]] or [[glyph]] representing an idea, concept or object.
-#: {{ux|en|[[$]] is the '''symbol''' for dollars in the US and some other countries.}}
-#: {{ux|en|Chinese people use word '''symbols''' for writing.}}
-# A thing considered the embodiment of a concept or object.
-#: {{ux|en|The lion is the '''symbol''' of courage; the lamb is the '''symbol''' of meekness or patience.}}
-# {{lb|en|linguistics}} A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a [[referent]]. See also [[icon]] and [[index]].
-# A summary of a [[dogmatic]] statement of faith.
-#: {{ux|en|The Apostles, Nicene Creed and the confessional books of Protestantism, such as the Augsburg Confession of Lutheranism are considered '''symbols'''.}}
-# {{lb|en|crystallography}} The [[numerical]] [[expression]] which defines a [[plane]]'s position relative to the assumed [[axis|axes]].
-# {{lb|en|obsolete}} That which is thrown into a common fund; hence, an appointed or accustomed duty.
-#* {{RQ:Taylor Eniautos|passage=They do their work in the days of peace {{...}} and come to pay their '''symbol''' in a war or in a plague.}}
-# {{lb|en|obsolete}} Share; allotment.
-#* {{RQ:Taylor Eniautos|passage=The persons who are to be judged {{...}} shall all appear to receive their '''symbol'''.}}
-# {{lb|en|programming}} An [[internal]] [[identifier]] used by a [[debugger]] to relate parts of the compiled program to the corresponding names in the [[source code]].
-# {{lb|en|telecommunications}} A signalling event on a communications channel; a signal that cannot be further divided into meaningful information.
-
-====Derived terms====
-* {{l|en|status symbol}}
-* {{l|en|typographical symbol}}
-
-====Related terms====
-* {{l|en|diabolical}}
-* {{l|en|symbolic}}
-* {{l|en|symbolize}}
-* {{l|en|symbolism}}
+#:'''example'''
+#:*"$ is the '''symbol''' for dollars in the US and some other countries"
+#:*"'#' is the hash '''symbol'''"
+# Any object, typically material, which is meant to represent another (usually abstract) even if there is no meaningful relationship. 
+#:'''example'''
+#:*"The dollar '''symbol''' has no relationship to the concept of currency or any related idea."
+# (''Linguistics'') A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a [[referent]]. See also [[icon]] and [[index]].
 
 ====Translations====
-{{trans-top|character or glyph}}
-* Afrikaans: {{t+|af|simbool}}
-* Albanian: {{t+|sq|shenjë}}, {{t+|sq|simbol}}
-* Arabic: {{t+|ar|رَمْز|m}}, {{t+|ar|عَلَامَة|f}}
-* Armenian: {{t+|hy|խորհրդանիշ}}, {{t+|hy|սիմվոլ}}
-* Asturian: {{t|ast|símbolu|m}}
-* Azerbaijani: {{t+|az|simvol}}, {{t|az|rəmz}}, {{t+|az|işarə}}
-* Basque: {{t|eu|ikur}}
-* Bavarian: {{t|bar|Sümbol}}
-* Belarusian: {{t|be|сі́мвал|m}}, {{t+|be|сы́мбаль|m}}, {{t+|be|знак|m}}
-* Bengali: {{t+|bn|প্রতীক}}, {{t|bn|সঙ্কেত}}, {{t+|bn|চিহ্ন}}
-* Bulgarian: {{t+|bg|си́мвол|m}}
-* Burmese: {{t+|my|သင်္ကေတ}}
-* Catalan: {{t+|ca|símbol|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|符號}}, {{t+|cmn|符号|tr=fúhào}}
-* Czech: {{t+|cs|symbol|m}}
-* Danish: {{t+|da|symbol|n}}, {{t+|da|tegn|n}}
-* Dutch: {{t+|nl|symbool|n}}
-* Estonian: {{t|et|sümbol}}
-* Finnish: {{t+|fi|merkki}}, {{t+|fi|symboli}}
-* French: {{t+|fr|symbole|m}}
-* Galician: {{t|gl|símbolo|m}}
-* Georgian: {{t|ka|სიმბოლო}}
-* German: {{t+|de|Symbol|n}}, {{t+|de|Zeichen|n}}
-* Greek: {{t+|el|σύμβολο|n}}
-*: Ancient: {{t|grc|σύμβολον|n}}, {{t|grc|σημεῖον|n}}
-* Hebrew: {{t+|he|סֵמֶל|m|tr=sémel}}
-* Higaonon: {{t|mba|timaan}}
-* Hiligaynon: {{t|hil|timaan}}
-* Hindi: {{t+|hi|प्रतीक|m}}, {{t+|hi|चिह्न|m}}, {{t+|hi|संकेत|m}}, {{t+|hi|निशान|m}}
-* Hungarian: {{t+|hu|szimbólum}}
-* Icelandic: {{t+|is|tákn|n}}
-* Italian: {{t+|it|simbolo|m}}
-* Japanese: {{t+|ja|記号|tr=きごう, kigō}}, {{t+|ja|符号|tr=ふごう, fugō}}
-* Kazakh: {{t+|kk|символ}}, {{t+|kk|рәміз}}
-* Khmer: {{t+|km|សញ្ញា}}, {{t+|km|វណ្ណ}}
-* Korean: {{t+|ko|상징(象徵)}}, {{t+|ko|부호(符號)}}, {{t+|ko|기호(記號)}}
-* Kyrgyz: {{t+|ky|символ}}
-* Lao: {{t+|lo|ສັນຍາລັກ}}
-* Latin: {{t|la|symbolum|n}}
-* Latvian: {{t|lv|simbols|m}}
-{{trans-mid}}
-* Lithuanian: {{t+|lt|simbolis|m}}
-* Macedonian: {{t|mk|симбол|m}}
-* Malay: {{t+|ms|lambang}}, {{t+|ms|simbol}}
-* Malayalam: {{t+|ml|ചിഹ്നം}}
-* Marathi: {{t|mr|चिन्ह|n}}
-* Mongolian:
-*: Cyrillic: {{t+|mn|тэмдэг}}
-* Norman: {{t|nrf|sŷmbole|m}}
-* Norwegian:
-*: Bokmål: {{t+|nb|symbol|n}}, {{t+|nb|tegn|n}}
-*: Nynorsk: {{t+|no|symbol|n}}, {{t|nn|tegn|n}}
-* Pali: {{t|pi|saṅketa|m}}
-* Pashto: {{t+|ps|سمبول|m|tr=samból}}, {{t+|ps|رمز|m|tr=ramz}}, {{t|ps|سيمبال|m|tr=simbãl}}
-* Persian: {{t+|fa|سمبل|tr=sambol}}, {{t+|fa|رمز|tr=ramz}}, {{t+|fa|علامت|tr='alâmat}}
-* Polish: {{t+|pl|symbol|m-in}}
-* Portuguese: {{t+|pt|símbolo|m}}
-* Romanian: {{t+|ro|simbol|m}}
-* Russian: {{t+|ru|си́мвол|m}}, {{t+|ru|знак|m}}
-* Sanskrit: {{t+|sa|चिह्न|n}}, {{t+|sa|प्रतीक|n}}, {{t+|sa|सङ्केत|m}}
-* Scots: {{t|sco|seembol}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|сѝмбо̄л|m}}
-*: Roman: {{t+|sh|sìmbōl|m}}
-* Slovak: {{t|sk|symbol|m}}
-* Slovene: {{t+|sl|znak|m}}, {{t+|sl|simbol|m}}
-* Spanish: {{t+|es|símbolo|m}}
-* Swedish: {{t+|sv|symbol|c}}, {{t+|sv|tecken|n}}
-* Tagalog: {{t+|tl|simbolo}}, {{t|tl|sagisag}}
-* Tajik: {{t|tg|рамз}}, {{t|tg|символ}}, {{t+|tg|аломат}}
-* Tatar: {{t|tt|символ}}
-* Thai: {{t+|th|สัญลักษณ์}}
-* Turkish: {{t+|tr|simge}}, {{t+|tr|sembol}}, {{t+|tr|işaret}}
-* Turkmen: {{t|tk|simwol}}, {{t+|tk|alamat}}
-* Ukrainian: {{t|uk|си́мвол|m}}, {{t|uk|знак|m}}
-* Urdu: {{t|ur|علامت|f|tr='alāmat}}
-* Uyghur: {{t|ug|بەلگە}}
-* Uzbek: {{t+|uz|simvol}}, {{t+|uz|ramz}}, {{t+|uz|belgi}}, {{t+|uz|ishora}}, {{t+|uz|alomat}}
-* Vietnamese: {{t+|vi|ký hiệu}} ({{t|vi|記號}}), {{t+|vi|biểu tượng}}
-* Welsh: {{t+|cy|llythyren|f}}, {{t+|cy|symbol|f}}
-* Yiddish: {{t|yi|סימבאָל|m}}, {{t|yi|צייכן|n}}
-{{trans-bottom}}
-
-{{trans-top|object meant to represent another}}
-* Albanian: {{t+|sq|simbol|m}}
-* Arabic: {{t+|ar|رَمْز|m}}, {{t|ar|شَارَة|f}}, {{t+|ar|شِعَار|m}}
-* Armenian: {{t+|hy|խորհրդանիշ}}, {{t+|hy|սիմվոլ}}
-* Asturian: {{t|ast|símbolu|m}}
-* Azerbaijani: {{t+|az|simvol}}, {{t|az|rəmz}}, {{t+|az|nişan}}, {{t+|az|əlamət}}
-* Belarusian: {{t|be|сі́мвал|m}}
-* Bengali: {{t+|bn|প্রতীক}}
-* Bulgarian: {{t+|bg|си́мвол|m}}
-* Burmese: {{t+|my|အထိမ်းအမှတ်}}
-* Catalan: {{t+|ca|símbol|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|象徵|tr=xiàngzhēng}}
-* Czech: {{t+|cs|symbol|m}}
-* Danish: {{t+|da|symbol|n}}
-* Dutch: {{t+|nl|symbool|n}}
-* Esperanto: {{t+|eo|simbolo}}
-* Estonian: {{t|et|sümbol}}
-* Finnish: {{t+|fi|symboli}}, {{t+|fi|merkki}}, {{t+|fi|tunnus}}
-* French: {{t+|fr|symbole|m}}
-* Galician: {{t|gl|símbolo|m}}
-* Georgian: {{t|ka|სიმბოლო}}
-* German: {{t+|de|Symbol|n}}
-* Greek: {{t+|el|σύμβολο|n}}
-* Hebrew: {{t+|he|סֵמֶל|m|tr=sémel}}
-* Hindi: {{t+|hi|प्रतीक|m}}
-* Hungarian: {{t+|hu|szimbólum}}, {{t+|hu|jelkép}}
-* Icelandic: {{t+|is|tákn|n}}
-* Japanese: {{t+|ja|象徴|tr=しょうちょう, shōchō}}, {{t+|ja|シンボル|tr=shinboru}}
-* Kazakh: {{t+|kk|рәміз}}, {{t+|kk|символ}}
-* Khmer: {{t|km|និមិត្តការណ៍}}, {{t|km|និមិត្តរូប}}
-* Korean: {{t+|ko|상징(象徵)}}
-* Kyrgyz: {{t+|ky|символ}}, {{t+|ky|белги}}
-{{trans-mid}}
-* Lao: {{t+|lo|ສັນຍາລັກ}}
-* Latvian: {{t|lv|simbols|m}}
-* Lithuanian: {{t+|lt|simbolis|m}}
-* Lunda: {{t|lun|yinjikijilu}}
-* Macedonian: {{t|mk|симбол|m}}
-* Malay: {{t+|ms|lambang}}, {{t+|ms|simbol}}
-* Malayalam: {{t+|ml|അടയാളം}}, {{t+|ml|പ്രതീകം}}
-* Mongolian:
-*: Cyrillic: {{t|mn|бэлэгдэл}}, {{t+|mn|тэмдэг}}, {{t+|mn|бэлэг}}
-* Norwegian:
-*: Bokmål: {{t+|nb|symbol|n}}
-*: Nynorsk: {{t+|no|symbol|n}}
-* Persian: {{t+|fa|نماد|tr=namâd}}, {{t+|fa|رمز|tr=ramz}}, {{t+|fa|سمبل|tr=sambol}}
-* Portuguese: {{t+|pt|símbolo}}
-* Romanian: {{t+|ro|simbol|n}}
-* Russian: {{t+|ru|си́мвол|m}}, {{t+|ru|эмбле́ма|f}}, {{t+|ru|знак|m}}
-* Scots: {{t|sco|seembol}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|сѝмбо̄л|m}}
-*: Roman: {{t+|sh|sìmbōl|m}}
-* Slovak: {{t|sk|symbol|m}}
-* Slovene: {{t+|sl|simbol|m}}
-* Spanish: {{t+|es|símbolo|m}}
-* Swedish: {{t+|sv|symbol|c}}
-* Tagalog: {{t+|tl|simboló}}, {{t|tl|sagisag}}
-* Tajik: {{t|tg|рамз}}, {{t+|tg|аломат}}, {{t|tg|нишона}}, {{t|tg|символ}}
-* Thai: {{t+|th|สัญลักษณ์}}
-* Turkish: {{t+|tr|sembol}}
-* Turkmen: {{t|tk|simwol}}, {{t|tk|nyşan}}
-* Ukrainian: {{t|uk|си́мвол|m}}
-* Uzbek: {{t+|uz|ramz}}, {{t+|uz|belgi}}, {{t+|uz|simvol}}
-* Vietnamese: {{t+|vi|ký hiệu}}, {{t+|vi|biểu tượng}}
-* Welsh: {{t+|cy|symbol|f}}
-* Yiddish: {{t|yi|סימבאָל|m}}
-{{trans-bottom}}
-
-{{trans-top|type of noun}}
-* Finnish: {{t+|fi|symboli}}
-* French: {{t+|fr|symbole|m}}
-{{trans-mid}}
-* Galician: {{t|gl|símbolo|m}}
-* Russian: {{t+|ru|си́мвол|m}}
-{{trans-bottom}}
-
-{{trans-top|summary of a dogmatic statement of faith}}
-* Finnish: {{t+|fi|symboli}}
-* French: {{t+|fr|symbole|m}}
-* Galician: {{t|gl|símbolo|m}}
-* Greek: {{t+|el|σύμβολο|n}}
-* Hebrew: {{t+|he|סַמְמָן|m|tr=sam'mán}}
-{{trans-mid}}
-* Norwegian:
-*: Bokmål: {{t+|nb|symbol|n}}
-*: Nynorsk: {{t+|no|symbol|n}}
-* Russian: {{t+|ru|си́мвол|m}}
-* Ukrainian: {{t|uk|си́мвол|m}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Ido: {{t+check|io|simbolo}}
-* Italian: {{t+check|it|simbolo|m}}
-* {{ttbc|sh}}:
-*: Cyrillic: [[симбол]], [[знак]] {{g|m}}; [[ознака]] {{g|f}}
-*: Roman: [[simbol]], [[znak]] {{g|m}}; [[oznaka]] {{g|f}}
-{{trans-mid}}
-* Serbo-Croatian: {{t+check|sh|simbol}}, {{t+check|sh|znak|m}}, {{t+check|sh|oznaka|f}}
-* Vietnamese: {{t+check|vi|ký hiệu}} (1), {{t-check|vi|[[vật]] [[tượng trưng]]}} (3)
-{{trans-bottom}}
-
-===Verb===
-{{en-verb|pres_ptc2=symbolling|past2=symbolled}}
-
-# To [[symbolize]].
-#* {{RQ:Tennyson Harold|scene=i|page=128|passage={{...}} They told me that the Holy Rood had lean'd / And bow'd above me; {{...}} / [I]f it bow'd, whether it '''symbol'd''' ruin / Or glory, who shall tell?}}
-
-====Translations====
-{{trans-see|symbolize}}
-
-===See also===
-* {{l|en|punctuation}}
-
-===Further reading===
-* {{R:Webster 1913}}
-* {{R:Century 1911}}
-
-[[Category:en:Symbols]]
-
-----
-
-==Czech==
-
-===Etymology===
-From {{bor|cs|la|symbolum}}.
-
-===Noun===
-{{cs-noun|g=m}}
-
-# {{l|en|symbol}}
-
-====Declension====
-{{cs-decl-noun
-|symbol|symbolu|symbolu|symbol|symbole|symbolu|symbolem
-|symboly|symbolů|symbolům|symboly|symboly|symbolech|symboly
-}}
+*Bosnian: [[simbol]], [[znak]] ''m''; [[oznaka]] ''f''
+*Chinese: [[符号]]
+*Dutch: [[symbool]]
+*French: [[symbole]] ''m'', [[sigle]] ''m''
+*German: [[Symbol]] ''n''
+*{{io}} : [[simbolo]]
+*Italian: [[simbolo]] ''m''
+*Lithuanian: [[simbolis]] ''m''
+*Serbian:
+:*cyrillic: [[симбол]], [[знак]] ''m''; [[ознака]] ''f''
+:*latin: [[simbol]], [[znak]] ''m''; [[oznaka]] ''f''
+*Swedish: [[symbol#Swedish|symbol]] ''c'', [[tecken]] ''n''
+*[[Vietnamese2020]]: [[biểutượng]]
+*:''Religions often use symbols to express their own concepts'' - [[tôngiáo]] [[thường]] [[dùng]] biểutượng để [[bàytỏ]] [[ýniệm]] [[riêng]] củahọ
 
 ====Related terms====
-* {{l|cs|symbolický}}
-* {{l|cs|symbolismus}}
-
-===Further reading===
-* {{R:PSJC}}
-* {{R:SSJC}}
-
-----
-
-==Danish==
-
-===Etymology===
-From {{der|da|grc|σύμβολον||a sign by which one infers something; a mark, token, badge, ticket, tally, check, a signal, watchword, outward sign}}, via {{bor|da|la|symbolum}}.
-
-===Pronunciation===
-* {{IPA|da|/symboːl/|[symˈb̥oːˀl]}}
-* {{rhymes|da|oːl|s=2}}
-
-===Noun===
-{{da-noun|et|er}}
-
-# {{l|en|symbol}}
-
-====Inflection====
-{{da-noun-infl|et|er}}
-
-====Derived terms====
-* {{l|da|statussymbol}}
-
-====Related terms====
-* {{l|da|symbolik}}
-* {{l|da|symbolisere}}
-* {{l|da|symbolisme}}
-* {{l|da|symbolist}}
-* {{l|da|symbolsk}}
-
-===Further reading===
-* {{pedia|lang=da}}
-
-----
-
-==Norwegian Bokmål==
-{{wikipedia|lang=no}}
-
-===Etymology===
-From {{der|nb|grc|σύμβολον}} via {{bor|nb|la|symbolum}}.
-
-===Noun===
-{{nb-noun-n3}}
-
-# a {{l|en|symbol}}
-
-====Derived terms====
-* {{l|nb|statussymbol}}
-* {{l|nb|symbolisme}}
-
-====Related terms====
-* {{l|nb|symbolisere}}
-* {{l|nb|symbolsk}}
-
-===References===
-* {{R:The Bokmål Dictionary}}
-
-----
-
-==Norwegian Nynorsk==
-{{wikipedia|lang=nn}}
-
-===Etymology===
-From {{der|nn|grc|σύμβολον}} via {{bor|nn|la|symbolum}}.
-
-===Noun===
-{{nn-noun-n1}}
-
-# a {{l|en|symbol}}
-
-====Derived terms====
-* {{l|nn|statussymbol}}
-* {{l|nn|symbolisme}}
-
-====Related terms====
-* {{l|nn|symbolsk}}
-
-===References===
-* {{R:The Nynorsk Dictionary}}
-
-----
-
-==Polish==
-{{wp|lang=pl}}
-
-===Etymology===
-{{bor+|pl|fr|symbole}}, from {{der|pl|la|symbolum}}, from {{der|pl|grc|σῠ́μβολον}}.
-
-===Pronunciation===
-{{pl-p|a=Pl-symbol.ogg}}
-
-===Noun===
-{{pl-noun|m-in}}
-
-# {{l|en|symbol}}
-
-====Declension====
-{{pl-decl-noun-m-in|symbo|l|u|genp=[[symboli]]/[[symbolów]]}}
-
-====Derived terms====
-{{col3|pl|title=adjective|symboliczny}}
-{{col3|pl|title=nouns|symbolika|symbolizm}}
-{{col3|pl|title=verb|symbolizować}}
-
-===Further reading===
-* {{R:pl:WSJP}}
-* {{R:pl:PWN}}
-
-----
+*[[typographical symbol]]
+*[[punctuation]]
+*[[symbolic]]
+*[[symbolize]]
+*[[symbolism]]
 
 ==Swedish==
-
-===Etymology===
-From {{bor|sv|la|symbolum}}, cognate with {{cog|en|symbol}}. Compare also {{cog|da|symbol}}, {{cog|nn|symbol}}, and {{cog|nb|symbol}}.
-
-===Pronunciation===
-* {{audio|sv|Sv-symbol.ogg|audio}}
-
 ===Noun===
-{{sv-noun|c}}
+'''symbol'''
+#[[symbol#English|symbol]]
 
-# {{l|en|symbol}}
-
-====Declension====
-{{sv-infl-noun-c-r|2=symbole}}
-
-====Derived terms====
-{{der4|sv|färgsymbol|nationalsymbol|natursymbol|partisymbol|planetsymbol|rättssymbol|samlingssymbol|symboldikt|symbolfigur|symbolfråga|symbolfunktion|symbolgestalt|symbolhandling|symbolik|symboliker|symbolisera|symbolisering|symbolisk|symbolism|symbolist|symbolistisk|symbolladdad|symbolmättad|symbolspråk|symbolvärde|symbolvärld|symbolåtgärd|varningssymbol}}
-
-===References===
-* {{R:svenska.se|saol}}
-* {{R:svenska.se|saob|symbol}}
-
-----
-
-==Welsh==
-
-===Alternative forms===
-* {{alter|cy|sumbol}}
-
-===Etymology===
-From {{bor|cy|en|symbol}}, from {{der|cy|fr|symbole}}, from {{der|cy|la|symbolus}}, {{m|la|symbolum||a sign, mark, token, symbol, in Late Latin also a creed}}, from {{der|cy|grc|σύμβολον||a sign by which one infers something; a mark, token, badge, ticket, tally, check, a signal, watchword, outward sign}}.
-
-===Pronunciation===
-* {{a|cy-N}} {{IPA|cy|/ˈsɨ̞mbɔl/}}
-* {{a|cy-S}} {{IPA|cy|/ˈsɪmbɔl/}}
-
-====Usage notes====
-Being a word borrowed from English derived from Greek, the ''y'' in ''symbol'' is pronounced /ɨ̞, ɪ/ rather than expected /ə/. To preserve consistency between pronunciation and spelling, some prefer to spell this word {{l|cy|sumbol}}. Nevertheless, ''symbol'' is the more common spelling of the two. See {{l|cy|pyramid}}/{{l|cy|puramid}}, {{l|cy|synthesis}}/{{l|cy|sunthesis}}, {{l|cy|system}}/{{l|cy|sustem}} for similar examples.
-
-===Noun===
-{{cy-noun|m|symbolau}}
-
-# [[#English|symbol]]
-
-====Derived terms====
-* {{l|cy|symbolaeth||symbolism}}
-* {{l|cy|symbolaidd||symbolic}}
-* {{l|cy|symboleiddio||symbolise}}
-* {{l|cy|symbolwr||symbolist}}
-* {{l|cy|symbolydd||symbolist}}
-
-===Further reading===
-* {{R:cy:GPC}}
+[[de:Symbol]]
+[[hu:Symbol]]
+[[pl:Symbol]]
