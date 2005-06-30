@@ -1,81 +1,19 @@
 ==English==
+=== Etymology ===
+From Greek ''gyro'' and ''skope''.
 
-===Etymology===
-Borrowed from {{bor|en|fr|gyroscope}}, coined in 1852 by physicist {{w|Leon Foucault}}, equivalent to {{confix|en|gyro|scope}}, from {{der|en|grc|γῦρος||circle}} and {{m|grc|σκοπός||watcher}}.
-
-===Noun===
-{{en-noun}}
-
-# An apparatus composed of a wheel which spins inside of a frame ([[gimbal]]) and causes the balancing of the frame in any direction or position. In the form of a [[gyroscopic stabilizer]], used to help keep aircraft and ships steady.
-#* {{quote-journal|en|date=2022 March 23|title=Network News: Hitachi on-train track monitoring trial expands to Scottish routes|journal=RAIL|issue=953|page=13|text=Working with NR, ScotRail and Porterbrook, Perpetuum has fitted sensors with '''gyroscopes''' and accelerometers to trains that are already in passenger service.}}
-
-====Derived terms====
-{{der4|en|gyroscopic|gyroscopic stabilizer}}
+=== Noun ===
+#an apparatus composed of a wheel which spins inside of a frame and causes the balancing of the frame in any direction or position. Often used in helping to keep aircraft and ships steady.
 
 ====Related terms====
-{{rel4|en
-|gyro
-|gyrocompass
-|gyroscopy
-|lasergyro
-}}
+*[[gyro]]
+*[[lasergyro]]
 
-====Translations====
-{{trans-top|apparatus}}
-* Arabic: {{t|ar|جَيْرُوسْكُوب}}
-* Catalan: {{t|ca|giroscopi|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|陀螺儀|sc=Hani}}, {{t+|cmn|陀螺仪|tr=tuóluóyí|sc=Hani}}, {{t+|cmn|迴轉儀|sc=Hani}}, {{t+|cmn|回转仪|tr=huízhuǎnyí|sc=Hani}}
-* Czech: {{t+|cs|gyroskop|m}}
-* Danish: {{t|da|gyroskop|c}}
-* Finnish: {{t+|fi|gyroskooppi}}
-* French: {{t+|fr|gyroscope|m}}
-* Galician: {{t|gl|xiroscopio|m}}
-* German: {{t+|de|Gyroskop|n}}
-* Greek: {{t+|el|γυροσκόπιο|n}}
-* Hungarian: {{t+|hu|giroszkóp}}
-{{trans-mid}}
-* Indonesian: {{t+|id|giroskop}}
-* Interlingua: {{t|ia|gyroscopio}}
-* Italian: {{t+|it|giroscopio|m}}
-* Japanese: {{t|ja|ジャイロスコープ|tr=jairosukōpu|sc=Jpan}}
-* Korean: {{t|ko|자이로 스코프}}
-* Malay: {{t|ms|gegasing}}, {{t|ms|giroskop}}
-* Polish: {{t+|pl|żyroskop|m}}
-* Portuguese: {{t+|pt|giroscópio|m}}
-* Russian: {{t+|ru|гироско́п|m}}
-* Slovene: {{t|sl|žiroskop|m}}
-* Spanish: {{t+|es|giroscopio|m}}
-* Swedish: {{t|sv|gyroskop|n}}
-* Tagalog: {{t|tl|halintigal}}
-{{trans-bottom}}
+==== Translations ====
+*Indonesian: [[giroskop]]
+*Interlingua: [[gyroscopio]]
+*Japanese: [[ジャイロスコープ]] (jairosukōpu)
 
-====See also====
-* {{l|en|INS}}
-
-===Further reading===
-* {{R:OneLook}}
-* {{pedia|gyroscope}}
-
-----
-
-==French==
-
-===Etymology===
-{{af|fr|gyro-|-scope}}, coined in 1852 by physicist {{w|Leon Foucault}}, from {{uder|fr|grc|γῦρος||circle}} and {{m|grc|σκοπός||watcher}}.
-
-===Pronunciation===
-* {{fr-IPA}}
-* {{audio|fr|Fr-Paris--gyroscope.ogg|Audio (Paris)}}
-
-===Noun===
-{{fr-noun|m}}
-
-# {{l|en|gyroscope}}
-
-====Derived terms====
-* {{l|fr|gyroscopique}}
-* {{l|fr|gyroscopiquement}}
-
-===Further reading===
-* {{R:TLFi}}
+==== See also====
+*[[w: gyroscope]]
+*[[INS]]
