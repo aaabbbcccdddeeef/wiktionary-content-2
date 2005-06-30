@@ -1,60 +1,10 @@
-{{also|chémia|chemią}}
-==Latin==
-{{wikipedia|lang=la}}
-
-===Alternative forms===
-* {{l|la|chimia}}, {{l|la|chymia}}
-
-===Etymology===
-{{clipping|la|alchēmia||alchemy}}, in turn from {{der|la|ar|اَلْكِيمِيَاء}}.
-
-===Pronunciation===
-* {{la-IPA|chēmia}}
-
-===Noun===
-{{la-noun|chēmia<1.sg>}}
-
-# {{lb|la|New Latin}} [[chemistry]]
-
-====Declension====
-{{la-ndecl|chēmia<1.sg>}}
-
-====Related terms====
-* {{l|la|chemicus}}
-
-====Descendants====
-* {{desc|de|Chemie|bor=1}}
-* {{desc|ru|хи́мия|bor=1}}
-
-{{topics|la|Sciences|Chemistry}}
-
-----
-
 ==Polish==
-
-===Etymology===
-{{lbor|pl|grc|χυμεία}}.
-
-===Pronunciation===
-{{pl-p|a=Pl-chemia.ogg}}
-
 ===Noun===
-{{pl-noun|f}}
+'''chemia''' ''f'' ([[Wiktionary Appendix:Polish soft feminine noun declension|declension]]) 
+# chemistry
 
-# [[chemistry]]
-# {{lb|pl|informal}} [[chemotherapy]]
-#: {{syn|pl|chemioterapia}}
+===Derived terms===
+*[[chemiczna]]
 
-====Declension====
-{{pl-decl-noun-f|tantum=s}}
-
-====Derived terms====
-{{col3|pl|title=adjectives|biogeochemiczny|geochemiczny|chemiczny}}
-{{col3|pl|title=adverb|chemicznie}}
-{{col3|pl|title=nouns|agrochemia|astrochemia|biogeochemia|geochemia|chemik|chemiczka|geochemik}}
-
-===Further reading===
-* {{R:pl:WSJP}}
-* {{R:pl:PWN}}
-
-{{C|pl|Chemistry}}
+[[la:Chemia]]
+[[pl:Chemia]]
