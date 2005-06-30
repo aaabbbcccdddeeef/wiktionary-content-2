@@ -1,801 +1,225 @@
-{{also|tree-|Tree|TREE|tréë}}
 ==English==
-{{picdic
-|image=Birnbaum am Lerchenberg retouched.jpg
-|text=tree (1)
-|detail1=
-{{picdicimg|en|image=Brunfelsia pauciflora shrub.jpg|link=plant}}
-|detail3=<!-- Meronyms -->
-{{picdicimg|en|image=Roots by cesarpb.jpg|link=root}}
-{{picdicimg|en|image=Magnolia acuminata trunk.JPG|link=trunk}}
-{{picdicimg|en|image=Ceiba sp branches.jpg|link=branch}}
-{{picdicimg|en|image=Autumn Red Oak Leaf.jpg|link=leaf}}
-{{picdicimg|en|image=Picea koyamae shoot.JPG|link=needle}}
-{{picdicimg|en|image=Fruit_Stall_in_Barcelona_Market.jpg|link=fruit}}
-}}
-[[Image:Grid-tree.svg|thumb|A tree structure]]
 
 ===Etymology===
-{{root|en|ine-pro|*dóru}}From {{inh|en|enm|tre}}, {{m|enm|tree}}, {{m|enm|treo}}, {{m|enm|treou}}, {{m|enm|trew}}, {{m|enm|trow}}, from {{inh|en|ang|trēo}}, {{m|ang|trēow|t=tree, wood, timber, beam, log, stake, stick, grove, cross, rood}}, from {{inh|en|gmw-pro|*treu}}, from {{inh|en|gem-pro|*trewą|t=tree, wood}}, from pre-Germanic {{m|ine-pro|*dréwom}}, thematic e-grade derivative of {{inh|en|ine-pro|*dóru|t=tree}}.
-
-{{rel-top|Cognates}}From the same Proto-Indo-European: {{cog|sco|tree|t=wood, rod, stick}}, {{cog|frr|tre}}, {{m|frr|trä|t=tree}}, {{cog|dum|tree}} > {{cog|nl|teer|t=tree}}, {{cog|da|træ|t=tree}}, {{cog|sv|trä|t=wood}}, {{m|sv|träd|t=tree}}, {{cog|no|tre|t=tree}}, {{cog|is|tré|t=tree}}, {{cog|got|𐍄𐍂𐌹𐌿|t=tree, wood, piece of wood}}, {{cog|sa|दारु|t=tree, wood}}, {{cog|sq|dru|t=tree, wood}}, {{cog|cy|dâr|t=oaks}}, {{cog|grc|δόρυ|t=wood, spear}}, {{cog|ru|де́рево}} or {{m|ru|дре́во}}, {{cog|xto|or}}. Related to {{m|en|tar}}, {{m|en|true}}.
-{{rel-bottom}}
-
-===Pronunciation===
-* {{a|RP}} {{IPA|en|/tɹiː/|[t̠ɹ̠̊˔ʷɪi̯]}}
-* {{a|GA}} {{enPR|trē}}, {{IPA|en|/tɹi/|[t̠ɹ̠̊˔ʷi]}}
-* {{audio|en|En-uk-tree.ogg|Audio (UK)}}
-* {{audio|en|en-us-tree.ogg|Audio (US)}}
-* {{audio|en|LL-Q1860 (eng)-Back ache-tree.wav|Audio}}
-* {{rhymes|en|iː|s=1}}
-* {{homophones|en|three|q1=with [[th-stopping]]}}
+From Middle English '''tree''' < Old English '''[[trēo]](w)''' (tree, wood, any wooden object) < Proto-Germanic '''[[*trewan]]''' < Proto-Indo-European '''[[*deru-]]'''/'''[[*doru-]]''' ([[oak]]).
 
 ===Noun===
-{{en-noun|s|treen|pl2qual=obsolete}}
+'''tree'''
 
-# A [[perennial]] [[woody]] [[plant]], not exactly defined, but differentiated from a [[shrub]] by its larger size (typically over a few meters in height) or growth habit, usually having a single (or few) main [[axis]] or [[trunk]] unbranched for some distance above the ground and a head of branches and foliage.
-#: {{ux|en|Hyperion is the tallest living '''tree''' in the world.}}
-#: {{ux|en|Birds have a nest in a '''tree''' in the garden.}}
-#* '''1992''' April 5, [[w:List of Jeeves and Wooster episodes|"The Full House"]], [[w:Jeeves and Wooster|''Jeeves and Wooster'']], Series 3, Episode 2:
-#*: ''B. Wooster:'' Of all the places on this great planet of ours, West Neck, Long Island, has chosen to be the most unexciting. The last time anything ''remotely'' interesting happened here was in 1842, when a '''tree''' fell over. They still talk about it in the village.
-#* {{quote-journal|en|year=2019|month=October|author=Ian Walmsley|title=Cleaning up|journal=Modern Railways|page=42|text=When we see a train trapped behind (or embedded in) a fallen '''tree''' our first thought should be 'what was it doing there anyway?' {{...}}'''Trees''' are also responsible for numerous minor delays in autumn <small>[due to leaves falling on the track]</small>, which rolling stock engineers are supposed to cope with as usual.}}
-# Any [[plant]] that is [[reminiscent]] of the above but not [[classified]] as a tree (in any [[botanical]] sense).
-#: {{ux|en|the banana '''tree'''}}
-# An object made from a tree trunk and having multiple [[hook]]s or storage [[platform|platforms]].
-#: {{ux|en|He had the choice of buying a scratching post or a cat '''tree'''.}}
+# A large [[plant]] with hard, thick [[stem]] and [[branch]]es made of [[wood]] and [[foliage]] such as [[leaf|leaves]] or [[needle|needles]].
+# {{cattag|Specialized terminology}}: Anything resembling the above, for example a banana or bonsai plant, but not a tree in a strict botanical sense.
+# An object made from a tree trunk and having multiple [[hook|hooks]] or storage [[platform|platforms]].
+#: ''He had the choice of buying a [[scratching post]] or a cat ''tree''.''
 # A device used to hold or stretch a shoe open.
-#: {{ux|en|He put a shoe '''tree''' in each of his shoes.}} <!-- Move to [[shoe tree]]? -->
-# The structural [[frame]] of a [[saddle]].
-# {{lb|en|graph theory}} A connected [[graph]] with no cycles or, if the graph is finite, equivalently a connected graph with ''n'' vertices and ''n''−1 edges.
-# {{lb|en|computing theory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
-# {{lb|en|graphical user interface}} A [[display]] or listing of [[entry|entries]] or [[element]]s such that there are [[primary]] and [[secondary]] entries shown, usually linked by drawn lines or by indenting to the right.
-#: {{ux|en|We’ll show it as a '''tree''' list.}}
-# Any [[structure]] or [[construct]] having [[branch]]es representing [[divergence]] or possible [[choice]]s.
-#: {{ux|en|[[family tree]]; [[skill tree]]}}
-# {{senseid|en|saddle}} The [[structure]] or [[wooden]] [[frame]] used in the construction of a [[saddle]] used in horse riding.
-# {{lb|en|in the plural|slang}} [[marijuana|Marijuana]].
-#* {{quote-song|en|lyricist={{w|Eminem}} and {{w|Nate Dogg}}|composer=|title={{w|Shake That}}|url=|album=Curtain Call: The Hits|artist=|year=2005|passage=I like good pussy and I like good '''trees''' / Smoke so much weed you wouldn't believe}}
-#* {{quote-song|en|title=Ace Feat. Smino & Saba|album=Room 25|artist=Noname| url=https://nonameraps.bandcamp.com/album/room-25| year=2018| passage=Whiskey with the team, got it bubblin' / I got '''trees''' in my luggage, I got tings out in London / Hope UK, what you say? Fuck is you sayin'?}}
-# {{lb|en|obsolete}} A [[cross]] or [[gallows]].
-#: {{ux|en|Tyburn '''tree'''}}
-#* {{RQ:King James Version|Acts|10|39|passage={{...}}whom [i.e., Jesus] they ſlew and hanged on a '''tree''',}}
-#* {{RQ:Shakespeare Tempest|III|ii|page=12|passage=[[w:Stephano (The Tempest)|''Ste.'']] ''Trinculo'', keepe a good tongue in your head : If you proue a mutineere, the next '''Tree''' :{{...}}}}
-# {{lb|en|chemistry}} A mass of [[crystal]]s, [[aggregate]]d in [[arborescent]] forms, obtained by [[precipitation]] of a [[metal]] from [[solution]].
-# {{lb|en|cartomancy}} The fifth [[Lenormand]] card.
-# {{lb|en|uncountable|math}} {{alt case|en|TREE}}.
+#: ''He put a shoe ''tree'' in each of his shoes.'' <!-- Move to [[shoe tree]]? -->
+# {{graphtheory}} A connected [[graph]] with no cycles.
+# {{comptheory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
+# {{gui}} A [[display]] or listing of [[entries]] or [[element|elements]] such that there are [[primary]] and [[secondary]] entries shown, usually linked by drawn lines or by indenting to the right.
+#: ''We'll show it as a ''tree'' list.''
+# Any [[structure]] or [[construct]] having [[branch]]es akin to (1).
 
-====Synonyms====
-{{checksense|en}}
-{{col2|en
-|sapling
-|seedling
-}}
-
-====Hypernyms====
-* {{l|en|plant}}
-* {{sense|in graph theory}} {{l|en|graph}}
-
-====Hyponyms====
-{{col3|en|title=Of the sense “a perennial plant”
-|cabbage tree
-|chaste tree
-|cherry tree
-|{{l|en|Cherry Tree}} {{q|places}}
-|hip tree
-|Joshua tree
-|lipstick tree
-|[[pear tree]], [[peartree]]
-|{{l|en|Pear Tree}} {{q|place}}
-}}
-* See also [[:Category:en:Trees]]
-
-{{col4|en|title=Computing, graph theory, mathematics
-|AVL tree
-|binary tree
-|caterpillar tree
-|DOM tree
-|Merkle tree
-|red-black tree
-|regression tree
-|search tree
-|spanning tree
-|suffix tree
-|syntax tree
-|XML tree
-}}
-
-{{col4|en|title=Other hyponyms of ''tree''
-|boottree
-|b-tree
-|boron tree
-|call tree
-|cat tree
-|clothes tree
-|coat tree
-|dead tree
-|decision tree
-|family tree
-|hat tree
-|Jesse Tree
-|Kurepa tree
-|manteltree
-|mantle-tree
-|maple tree
-|phylogenetic tree
-|rood-tree
-|saddle tree
-|shoe tree
-|skill tree
-|technology tree
-|trestle tree
-|world tree
-}}
-
-====Meronyms====
-{{col4|en|title=Of the sense “a perennial plant”|branch|knot|leaf|root|tree bark|tree ring|tree sap|tree trunk}}
-
-====Derived terms====
-{{der4|en
-|Kingstree
-}}
-
-{{col-u|en|3|title=Terms derived from “tree”
-|{{l|en|treebound|pos=adjective}} |{{l|en|treechanger|pos=noun}} |{{l|en|treehood|pos=noun}} |{{l|en|treeify|pos=verb}} |{{l|en|treeiness|pos=noun}} |{{l|en|treekind|pos=noun}} |{{l|en|treeless|pos=adjective}}
-|{{l|en|tree-lined}}, {{l|en|treelined}}|{{l|en|treelike|pos=adjective}} |{{l|en|treeling|pos=noun}} |{{l|en|treely|pos=adjective}} |{{l|en|treeness|pos=noun}} |{{l|en|treescape|pos=noun}} |{{l|en|treey|pos=adjective}}}}
-
-{{col|en|4|title=Attributive uses of the noun “tree”
-|northern tree shrew|snowy tree-cricket|treecreeper|tree-cricket|tree farm|tree fern|tree frog|tree hollow|[[tree house]] or [[treehouse]]|tree hugger|tree kangaroo|tree kingfisher|tree lawn|treelength|tree line|tree pangolin|tree pipit|treeplank|tree rat|tree shrew|treestand|tree surgeon|tree traversal|treewidth}}
-
-{{col|en|4|title=Idioms with the word “tree”
-|bark up the wrong tree|up a tree}}
-
-====Proverbs====
-* {{l|en|money doesn't grow on trees}}
-* {{l|en|see the forest for the trees}}
-
-====Descendants====
-* {{desc|jam|chrii}}
+====Related terms====
+*[[tree frog]]
+*[[b-tree]]
+*[[search tree]]
+*[[suffix tree]]
 
 ====Translations====
-{{trans-top|large woody plant}}{{multitrans|data=
-* Abkhaz: {{tt|ab|аҵла}}
-* Acehnese: {{tt|ace|bak}}
-* Acholi: {{tt|ach|yat}}, {{tt|ach|yadi|p}}
-* Adyghe: {{tt|ady|чъыгы}}, {{tt|ady|чъыг}} {{q|Shapsug}}
-* Afar: {{tt|aa|caxa}}
-* Afghan Sign Language: {{t-needed|afg}}
-* Afrikaans: {{tt+|af|boom}}
-* Ahom: {{tt|aho|𑜄𑜤𑜃𑜫}}
-* Ainu: {{tt|ain|ニ|tr=ni}}
-* Akkadian: {{tt|akk|𒄑|tr=iṣu}}
-* Aklanon: {{t|akl|kahoy}}
-* Al-Sayyid Bedouin Sign Language: {{t-needed|syy}}
-* Albanian: {{tt+|sq|dru|m}}, {{tt+|sq|pemë|f}}
-* Alviri-Vidari:
-*: Vidari: {{tt|avd|دراخت|tr=darāxt}}
-* Ama: {{tt|amm|a}}
-* Amharic: {{tt|am|ዛፍ}}
-* Aneme Wake: {{tt|aby|ana}}
-* Anindilyakwa: {{t-needed|aoi}}
-* Apalaí: {{tt|apy|wewe}}
-* Arabic: {{tt+|ar|شَجَر|m}} {{q|collective}}, {{tt+|ar|شَجَرَة|f}} {{q|[[singulative]]}}
-*: Gulf Arabic: {{tt|afb|شْيَرَة|f|tr=šyara}}
-*: San'ani Arabic: {{tt|ayn|شجرة|f|tr=šeǧarih}}
-*: Egyptian Arabic: {{tt|arz|شجر|m|tr=šɑgɑr}} {{q|collective}}, {{tt|arz|شجرة|f|tr=šɑgɑrɑ}} {{q|singulative}}
-*: North Levantine Arabic: {{t|apc|سجرة|m|tr=sežre}}
-*: South Levantine Arabic: {{t|ajp|شجرة|tr=šažara}}
-*: Iraqi Arabic: {{t|acm|شجرة|tr=šajara}}
-*: Tunisian Arabic: {{t|aeb|شجرة|tr=šužra}}, {{t|aeb|سزرة|tr=suzra}}
-*: Moroccan Arabic: {{t|ary|شجرة|m|tr=šəžṛa}}
-*: Hassaniya: {{t|mey|صضراية|tr=ṣădṛɑ̄ya}}
-* Aragonese: {{tt+|an|árbol|m}}
-* Aramaic:
-*: Hebrew: {{tt|arc|אילנא|m|tr=’īlānā’}}
-*: Syriac: {{tt|arc|ܐܝܠܢܐ|m|tr=’īlānā’}}
-* Arawak: {{tt|arw|ada}}
-* Armenian: {{tt+|hy|ծառ}}
-* Aromanian: {{tt|rup|arburi|m}}, {{tt|rup|arbure}}, {{tt|rup|cupaci|m}}, {{tt|rup|cupaciu|m}} {{tt|rup|lemnu}}
-* Assamese: {{tt|as|গছ}}, {{tt|as|ডাঙৰ গছ}}
-* Asturian: {{tt+|ast|árbol|m}}
-* Au: {{tt|avt|nu}}
-* Aukan: {{tt|djk|bon}}
-* Avar: {{tt|av|гъветӏ}}
-* Aymara: {{tt|ay|khoka}}, {{tt|ay|quqa}}
-* Azerbaijani: {{tt+|az|ağac}}
-* Balinese: {{tt|ban|wit}}, {{tt|ban|punya}}, {{tt|ban|ᬧᬸᬜᬦ᭄|tr=punyan}}
-* Baluchi: {{tt|bal|درچک|tr=dirack}}
-* Bambara: {{tt|bm|jiri}}
-* Baruga: {{tt|bjz|ika}} {{q|in all dialects, including Bareji, Mado and Tafota}}
-* Bashkir: {{tt|ba|ағас}}
-* Basque: {{tt+|eu|zuhaitz}}, {{tt+|eu|arbola}}
-* Bats: {{tt|bbl|ხე<sup>ნ</sup>}}
-* Bavarian: {{tt|bar|Bam}}
-* Belarusian: {{tt+|be|дрэ́ва|n}}
-* Bengali: {{tt+|bn|গাছ}}, {{tt+|bn|বৃক্ষ}}
-* Bonan: {{tt|peh|mortong}}, {{tt|peh|mutong}}
-* Borôro: {{tt|bor|i}}
-* Bouyei: {{t-needed|pcc}}
-* Brahui: {{tt|brh|درخت|tr=daraxt}}
-* Breton: {{tt+|br|gwez|f}} {{q|collective}}, {{tt+|br|gwezenn|f}}
-* Brunei Malay: {{tt|kxd|puhun}}, {{tt|kxd|pukuk}}
-* Budukh: {{t|bdk|дар}}
-* Buginese: {{tt|bug|ᨄᨚᨂ|tr=pong|}}
-* Bulgarian: {{tt+|bg|дърво́|n}}
-* Burmese: {{tt+|my|သစ်ပင်}}
-* Buryat: {{tt|bua|модон}}
-* Catalan: {{tt+|ca|arbre|m}}
-* Cebuano: {{tt|ceb|punuan}}
-* Chamicuro: {{tt|ccc|chena'to}}
-* Chamorro: {{tt|ch|tronko}}
-* Chechen: {{tt|ce|дитт}}
-* Chepang: {{t|cdm|सीङः|tr=sing'}}
-* Cherokee: {{tt|chr|ᏡᎬ}}
-* Chichewa: {{tt|ny|mtengo}}
-* Chickasaw: {{t|cic|itti'}}
-* Chinese:
-*: Cantonese: {{tt|yue|樹}}, {{tt|yue|树|tr=syu6}}, {{tt|yue|樹木}}, {{tt|yue|树木|tr=syu6 muk6}}
-*: Dungan: {{tt|dng|фу}}
-*: Gan: {{tt|gan|樹}}, {{tt|gan|树|tr=xy5}}
-*: Hakka: {{tt|hak|樹}}, {{tt|hak|树|tr=su}}, {{tt|hak|樹仔}}, {{tt|hak|树仔|tr=su-é}}
-*: Jin: {{tt|cjy|樹}}, {{tt|cjy|树|tr=sy3}}
-*: Mandarin: {{tt+|cmn|樹}}, {{tt+|cmn|树|tr=shù}}, {{tt+|cmn|喬木}}, {{tt+|cmn|乔木|tr=qiáomù}}, {{tt+|cmn|樹木}}, {{tt+|cmn|树木|tr=shùmù}}
-*: Min Bei: {{tt|mnp|樹}}, {{tt|mnp|树|tr=chiū / sṳ̄}}
-*: Min Dong: {{tt|cdo|樹}}, {{tt|cdo|树|tr=chéu}}, {{tt|cdo|𣗬|tr=chéu}}
-*: Min Nan: {{tt+|nan|樹}}, {{tt|nan|树|tr=chhiū / sū / sī}}, {{tt|nan|𣗬|tr=chhiū}}, {{tt|nan|樹叢}}, {{tt|nan|树丛|tr=sū-chông / chhiū-châng}} {{qualifier|Hokkien}}, {{tt+|nan|樹仔}}, {{tt|nan|树仔|tr=chhiū-á}}
-*: Wu: {{tt|wuu|樹}}, {{tt|wuu|树|tr=zr}}
-*: Xiang: {{tt|hsn|樹}}, {{tt|hsn|树|tr=xy5 / xy4}}
-* Chukchi: {{tt|ckt|утгуут|tr=utguut}}
-* Chuvash: {{tt|cv|йывӑҫ}}
-* Coptic: {{tt|cop|ϣⲏⲛ}}
-* Cornish: {{tt|kw|gwedhen|f}}
-* Corsican: {{tt+|co|alberu|m}}
-* Cree: {{tt|cr|ᒥᔅᑎᒄ}}, {{tt|cr|ᒥᐢᑎᐠ}}, {{tt|cr|ᒥᑐᐢ}}
-* Crimean Tatar: {{tt|crh|terek}}
-* Czech: {{tt+|cs|strom|m}}
-* Dalmatian: {{tt|dlm|juarbol|m}}
-* Danish: {{tt+|da|træ|n}}
-* Dargwa: {{tt|dar|галга}}
-* Dhivehi: {{tt+|dv|ގަސް}}
-* Dolgan: {{tt|dlg|мас|tr=mas}}
-* Dongxiang: {{tt|sce|mutun}}
-* Drung: {{t|duu|shing}}
-* Dutch: {{tt+|nl|boom|m}}
-* Dyirbal: {{tt|dbl|yugu|c4}}, {{tt|dbl|yuguɖaran|d}}, {{tt|dbl|yugu-yugu|p}}
-* Dzongkha: {{tt|dz|ཤིང}}
-* East Franconian: {{tt|vmf|Baam|m}}
-* East Yugur: {{tt|yuy|müdën}}
-* Eastern Arrernte: {{t|aer|arne}}
-* Eastern Mari: {{tt|chm|пу}}
-* Ecuadorian Sign Language: {{t-needed|ecs}}
-* Egyptian: {{t-egy|šn|m|h=Sn:n-M1}}
-* Erzya: {{tt|myv|чувто}}
-* Eshtehardi: {{tt|esh|دار|tr=dâr}}
-* Esperanto: {{tt+|eo|arbo}}
-* Estonian: {{tt+|et|puu}}
-* Even: {{t|eve|хякита}}
-* Evenki: {{t|evn|мо}}
-* Ewe: {{tt|ee|atí}}
-* Faroese: {{tt+|fo|træ|n}}
-* Fijian: {{tt+|fj|kau}}
-* Finnish: {{tt+|fi|puu}}
-* Franco-Provençal: {{tt|frp|âbro|m}}
-* French: {{tt+|fr|arbre|m}}
-* Friulian: {{tt|fur|arbul}}
-* Gagauz: {{tt|gag|fidan}}, {{tt|gag|aaç}}
-* Galibi Carib: {{tt|car|wewe}}
-* Galician: {{tt+|gl|árbore|f}}, {{tt+|gl|arbre|f}}
-* Gallurese: {{tt|sdn|alburi}}
-* Gbari: {{tt|gby|gbwegbwe}}
-* Ge'ez: {{tt|gez|ዕፅ}}
-* Georgian: {{tt+|ka|ხე}}
-* German: {{tt+|de|Baum|m}}
-*: Alemannic German: {{tt|gsw|böim}} {{q|Formazza}}, {{t|gsw|baum}} {{q|Issime|Carcoforo}}, {{t|gsw|bem}} {{q|Rimella|Campello Monti}}
-*: Rhine Franconian: {{tt|gmw-rfr|Baam}} {{q|Palatine}}
-* Gothic: {{tt|got|𐌱𐌰𐌲𐌼𐍃|m}}
-* Greek: {{tt+|el|δέντρο|n}}
-*: Ancient: {{tt|grc|δένδρον|n}}
-* Greenlandic: {{tt|kl|orpik}}
-* Guaraní: {{tt|gn|yvyra}}
-* Gujarati: {{tt+|gu|ઝાડ}}
-* Hadza: {{tt|hts|cʼìtí-yà}}
-* Haida: {{tt|hai|k'íit}}
-* Haitian Creole: {{tt|ht|pyebwa}}
-* Halkomelem: {{tt|hur|thqá:t}}
-* Hausa: {{tt|ha|bishiya|f|alt=bishiyā̀}}, {{tt|ha|bishiyoyi|p}}
-* Hawaiian: {{tt|haw|kumulāʻau}}
-* Hebrew: {{tt+|he|עֵץ|m|tr='etz}}, {{tt+|he|אִילָן|m|tr=ilán}} {{q|literary}}
-* Higaonon: {{t|mba|kayo}}
-* Hiligaynon: {{t|hil|kahoy}}
-* Hindi: {{tt+|hi|पेड़|m}}, {{tt+|hi|वृक्ष|m}}, {{tt|hi|दरख़्त|m}}
-* Hungarian: {{tt+|hu|fa}}
-* Hunsrik: {{tt|hrx|Baam|m}}
-* Icelandic: {{tt+|is|tré}}
-* Ido: {{tt+|io|arboro}}, {{tt|io|-iero}}
-* Igbo: {{tt|ig|osịsị}}
-* Inari Sami: {{tt|smn|muorâ}}
-* Indonesian: {{tt+|id|pohon}}
-* Interlingua: {{tt|ia|arbore}}
-* Inuktitut: {{tt+|iu|ᓇᐹᖅᑐᖅ}}
-* Inupiaq: {{tt|ik|napaaqtuq}}
-* Iraqw: {{tt|irk|xa'ano|m}}, {{tt|irk|xaa'i|p}}
-* Irish: {{tt+|ga|crann|m}}
-* Istriot: {{tt|ist|àrbaro|m}}
-* Istro-Romanian: {{tt|ruo|debla}}
-* Italian: {{tt+|it|albero|m}}
-* Jamaican Creole: {{tt|jam|chrii}}
-* Japanese: {{tt+|ja|木|tr=き, ki}}, {{tt+|ja|樹木|tr=じゅもく, jumoku}}
-* Jarai: {{tt|jra|kơyâo}}
-* Jarawa: {{tt|anq|taːŋ}}
-* Javanese: {{tt+|jv|wit}}
-* Jeju: {{tt|jje|낭}}
-* K'iche': {{tt|quc|cheʼ}}
-* Kabardian: {{tt|kbd|жыг}}
-* Kabuverdianu: {{tt|kea|arvi}}, {{tt|kea|arve}}
-* Kala Lagaw Ya: {{t-needed|mwp}}
-* Kalmyk: {{tt|xal|модн}}
-* Kambaata: {{t|ktb|haqqa}}
-* Kannada: {{tt+|kn|ಮರ}}, {{tt+|kn|ವೃಕ್ಷ}}
-* Karachay-Balkar: {{tt|krc|терек}}
-* Karakalpak: {{tt|kaa|ag'ash}}
-* Karakhanid: {{tt|xqa|يِغَجْ|tr=yïɣač}}
-* Karelian: {{tt|krl|puu}}
-* Kashubian: {{tt|csb|drzéwò|n}}
-* Kazakh: {{tt+|kk|ағаш}}, {{tt|kk|дарақ}}
-* Keoru-Ahia: {{tt|xeu|kora}}
-* Ket: {{tt|ket|өксь}}
-* Khakas: {{tt|kjh|ағас}}
-* Khinalug: {{tt|kjj|вишаь}}
-* Khmer: {{tt|km|ដើមឈើ}}
-* Khoekhoe: {{tt|naq|hais}}
-* Komi-Zyrian: {{tt|kpv|пу}}
-* Korafe-Yegha: {{tt|kpr|ika}} {{q|in all dialects, including Mokorua and Rabade}}
-* Korean: {{tt+|ko|나무}}
-* Kumyk: {{tt|kum|терек}}
-* Kuna: {{tt|cuk|sapi}}
-* Kurdish:
-*: Central Kurdish: {{tt+|ckb|دار}}
-*: Laki: {{tt+|lki|دار}}
-*: Northern Kurdish: {{tt+|kmr|dar|f}}
-* Kwoma: {{tt|kmo|mi}}
-* Kyrgyz: {{tt+|ky|жыгач}}, {{tt+|ky|дарак}}
-* Ladin: {{tt|lld|lën|m}}
-* Ladino:
-*: Hebrew: {{tt|lad|ארבולי|m}}, {{tt|lad|ארבול|m}}
-*: Latin: {{tt|lad|arvolé|m}}, {{tt|lad|arvol|m}}
-* Lak: {{tt|lbe|мурхь}}
-* Lakota: {{tt|lkt|čháŋ}}
-* Laboya: {{tt|lmy|pu}}
-* Lao: {{tt+|lo|ຕົ້ນໄມ້}}
-* Latgalian: {{tt|ltg|kūks}}
-* Ladin: {{tt|lld|alber|m}}
-*: Anpezan: {{tt|lld|brascion|m}}
-*: Badiot: {{tt|lld|lëgn|m}}
-*: Fascian: {{tt|lld|èlber|m}}
-*: Fodom: {{tt|lld|èlber|m}}
-*: Gherdëina: {{tt|lld|lën|m}}
-{{trans-mid}}
-* Latin: {{tt+|la|arbor|f}}
-* Latvian: {{tt+|lv|koks}}
-* Lezgi: {{tt|lez|ттар}}
-* Ligurian: {{t-needed|lij}}
-* Limburgish: {{tt+|li|boum|m}}
-* Lithuanian: {{tt+|lt|medis|m}}
-* Low German:
-*: German Low German: {{tt+|nds-de|Boom|m}}
-* Luganda: {{tt|lg|muti}}
-* Luxembourgish: {{tt+|lb|Bam|m}}
-* Lü: {{tt|khb|ᦂᦸᦺᦙᧉ}}
-* Maasai: {{tt|mas|olcani|m|alt=olc(h)ani}}, {{tt|mas|ilkeek|m-p}}
-* Macedonian: {{tt|mk|дрво|n}}
-* Majang: {{tt|mpe|kɛɛt}}
-* Malay: {{tt+|ms|pokok}}, {{tt+|ms|pohon}}
-* Malayalam: {{tt+|ml|മരം}}, {{t+|ml|വൃക്ഷം}}
-* Maltese: {{tt|mt|siġra|f}}
-* Manchu: {{tt|mnc|ᠮᠣᠣ}}
-* Mansi: {{tt|mns|йӣв}}
-* Manx: {{tt+|gv|billey|m}}
-* Maore Comorian: {{tt|swb|mwiri|c3|c4}}
-* Maori: {{tt+|mi|rākau}}
-* Mapudungun: {{tt|arn|aliwen}}
-* Maranao: {{t|mrw|kayo}}
-* Marathi: {{tt|mr|झाड|n}}, {{tt|mr|वृक्ष|m}}
-* Maricopa: {{tt|mrc|h'a}}
-* Mbabaram: {{tt|vmb|jalay}}
-* Mbyá Guaraní: {{t|gun|yvyra}}
-* Mi'kmaq: {{tt|mic|midis}}
-* Middle Chinese: {{t-needed|ltc}}
-* Mirandese: {{tt|mwl|arble|m}}
-* Miskito: {{tt|miq|dus}}
-* Mizo: {{t|lus|thing}}
-* Mon: {{tt+|mnw|ဆု|tr=chu}}
-* Mongolian: {{tt+|mn|мод}}
-* Motu: {{tt|meu|au}}
-* Mwani: {{tt|wmw|muti}}
-* Mòcheno: {{tt|mhn|pa'm|m}}
-* Nahuatl:
-*: Central: {{t|nhn|cuahuitl}}
-*: Central Huasteca: {{t|nch|koauitl}}
-*: Classical: {{tt|nci|cuahuitl}}
-*: Northern Puebla: {{tt|ncj|cohuitl}}
-*: Temascaltepec: {{t|nhv|kouitl}}
-*: Western Huasteca: {{t|nhw|kuauitl}}
-* Nanai: {{t|gld|мо}}
-* Nauruan: {{tt|na|imin ero}}, {{tt|na|imin erò ogoda}}
-* Navajo: {{tt|nv|tsin ííʼáii|sc=Latn}}, {{tt|nv|tsin ííʼáhígíí|sc=Latn}}
-* Nepali: {{tt|ne|रूख}}
-* Newar: {{tt|new|सिमा}}
-* Ngazidja Comorian: {{tt|zdj|mri|c3|c4}}
-* Nogai: {{tt|nog|терек}}
-* North Frisian:
-*: Föhr-Amrum, Halligen & Mooring: {{tt|frr|buum|m}}
-*: Helgoland: {{tt|frr|Booam|m}}
-*: Sylt: {{tt|frr|Boom|m}}
-* Northern Sami: {{tt|se|muorra}}
-* Norwegian:
-*: Bokmål: {{tt+|nb|tre|n}}
-*: Nynorsk: {{tt+|nn|tre|n}}
-* Nuer: {{tt|nus|jiath}}
-* Nyunga: {{tt|nys|boorn}}
-* O'odham: {{tt|ood|ʼu꞉s}}, {{tt|ood|uhs}}
-* Occitan: {{tt+|oc|arbre}}
-* Ojibwe: {{tt|oj|mitig}}, {{tt|oj|mitigoog|p}}, {{tt|oj|ᒥᐦᑎᐟ|tr=mitig}}, {{tt|oj|ᒥᐦᑎᑯᐟ|p|tr=mitigoog}}
-* Okinawan: {{tt|ryu|きー|tr=kii}}
-* Old Church Slavonic:
-*: Cyrillic: {{tt|cu|дрѣво|n}}
-*: Glagolitic: {{tt|cu|ⰴⱃⱑⰲⱁ|n}}
-* Old East Slavic: {{tt|orv|дерево|n}}
-* Old English: {{tt|ang|trēow|n}}
-* Old Frisian: {{tt|ofs|bām}}
-* Old Javanese: {{t|kaw|kayu}}, {{t|kaw|wit}}
-* Old Norse: {{tt|non|tré}}
-* Old Portuguese: {{tt|roa-opt|arvor}}
-* Old Prussian: {{tt|prg|garrin}}
-* Old Tamil: {{t|oty|𑀫𑀭𑀫𑁆}}
-* Old Turkic: {{tt|otk|𐰃|ts=ï}}, {{tt|otk|𐰃𐰍𐰲|ts=ïɣač}}
-* Oriya: {{tt+|or|ଗଛ}}
-* Oromo: {{tt+|om|muka}}
-* Ossetian:
-*: Digor: {{tt|os|бӕласӕ}}
-*: Iron: {{tt|os|бӕлас}}
-* Ottoman Turkish: {{tt|ota|آغاج|tr=ağaç}}
-* Panamint: {{tt|par|huuppin}}
-* Papiamentu: {{t|pap|palu}}
-* Pashto: {{tt+|ps|ونه|f|tr=wᶕna}}, {{tt+|ps|درخته|f|tr=dráxta}}
-* Pela: {{t|bxd|sak⁵⁵}}, {{t|bxd|sak⁵⁵ kɛ̃⁵⁵}}
-* Pennsylvania German: {{tt|pdc|Baam}}
-* Persian: {{tt+|fa|درخت|tr=deraxt}}, {{tt+|fa|دار|tr=dâr}}
-* Pipil: {{tt|ppl|kwawit}}, {{tt|ppl|cuahuit}}
-* Plautdietsch: {{tt+|pdt|Boom|m}}
-* Polish: {{tt+|pl|drzewo|n}}
-* Portuguese: {{tt+|pt|árvore|f}}
-* Powhatan: {{tt|pim|mihitek}}
-* Pumpokol: {{tt|xpm|hoxon}}, {{tt|xpm|oksɨ}}
-* Punjabi:
-*: Gurmukhi: {{t|pa|ਰੁੱਖ|m}}, {{t|pa|ਰੁੱਖੜਾ|m}} {{tt|pa|ਦਰੱਖ਼ਤ}}, {{tt|pa|ਪੇੜ}}
-*: Shahmukhi: {{t|pa|رُکّھ|m}}, {{t|pa|رُکھڑا|m}} {{tt|pa|دَرَخَت}}, {{tt|pa|پیڑ}}
-* Purepecha: {{tt|pua|anátapu}}
-* Quechua: {{tt|qu|sach'a}}, {{tt+|qu|mallki}}, {{tt|qu|saca}}, {{tt|qu|haca}}
-* Romani: {{tt|rom|rukh|m}}
-* Romanian: {{tt+|ro|arbore|m}}, {{tt+|ro|copac|m}}, {{tt+|ro|pom|m}}
-* Romansch: {{tt|rm|planta|f}}, {{tt|rm|plànta|f}}, {{tt|rm|plonta|f}}, {{tt|rm|plaunta|f}}, {{tt|rm|bös-ch|m}}, {{tt|rm|bos-ch|m}}
-* Russian: {{tt+|ru|де́рево|n}}, {{tt+|ru|дре́во|n}} {{qualifier|archaic or poetic}}
-* Rusyn: {{tt|rue|де́рево|n}}, {{tt|rue|стром|m}}
-* Rutul: {{tt|rut|хук|tr=xuk}}
-* Rwanda-Rundi: {{tt|rw|igiti}}
-* Saho: {{t|ssy|xarha}}
-* Samoan: {{tt|sm|lā'au}}
-* Sandawe: {{tt|sad|tʰěː}}
-* Sanskrit: {{tt+|sa|तरु|m}}, {{tt+|sa|द्रुम|m}}, {{tt+|sa|वृक्ष|m}}, {{tt+|sa|कुज|m}}
-* Santali: {{tt|sat|ᱫᱟᱨᱮ}}
-* Sardinian:
-*: Campidanese: {{tt|sc|mata|f}}, {{tt|sc|mata}}
-*: Logudorese: {{tt|sc|àrvure}}, {{tt|sc|arbore}}
-* Sassarese: {{tt|sdc|àiburu}}
-* Saterland Frisian: {{tt|stq|Boom}}
-* Scottish Gaelic: {{tt|gd|craobh|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{tt|sh|др̏во|n}}, {{tt|sh|ста́бло|n}}
-*: Roman: {{tt+|sh|dȑvo|n}}, {{tt+|sh|stáblo|n}}
-* Shan: {{tt+|shn|တူၼ်ႈမႆႉ}}
-* Shona: {{tt|sn|muti}}
-* Shor: {{tt|cjs|ағаш|tr=ağaş}}
-* Sichuan Yi: {{tt|ii|ꌩ}}
-* Sicilian: {{tt+|scn|àrbulu|m}}
-* Sidamo: {{t|sid|haqqe}}
-* Sikkimese: {{t-needed|sip}}
-* Silesian: {{tt|szl|strům|m}}
-* Sindhi: {{tt+|sd|وڻ|tr=vaṇu}}
-* Sinhalese: {{tt+|si|ගස}}
-* Skolt Sami: {{tt|sms|muõrr}}
-* Slovak: {{tt+|sk|strom|m}}
-* Slovene: {{tt+|sl|drevọ̑|n}}
-* Somali: {{tt+|so|geed|m}}
-* Sorbian:
-*: Lower Sorbian: {{tt|dsb|bom|m}}
-*: Upper Sorbian: {{tt+|hsb|štom|m}}
-* Sotho: {{tt|st|sefate}}
-* Southern Altai: {{tt|alt|агаш}}
-* Southern Sami: {{tt|sma|moere}}
-* Southern Pomo: {{tt|peq|kʰa:le}}
-* Spanish: {{tt+|es|árbol|m}}
-* Sranan Tongo: {{tt|srn|bon}}
-* Sukuma: {{t|suk|ntɪ̌}}
-* Sumerian: {{tt|sux|𒄑|tr=giš}}
-* Sundanese: {{tt|su|tangkal}}
-* Swahili: {{tt+|sw|mti|c3|c4}}
-* Swedish: {{tt+|sv|träd|n}}
-* Sylheti: {{tt|syl|ꠉꠣꠍ}}
-* Tagalog: {{tt+|tl|puno}}
-* Tajik: {{tt+|tg|дарахт}}, {{tt+|tg|дор}}, {{tt+|tg|шаҷар}}
-* Talysh:
-*: Anbarani: {{tt|tly|دو|tr=du}}
-*: Asalemi: {{tt|tly|دار|tr=dâr}}
-* Tamil: {{tt+|ta|மரம்}}, {{t+|ta|விருக்ஷம்}}
-* Taos: {{tt|twf|túłoną}}
-* Tat: {{tt|ttt|дор}}
-* Tatar: {{tt+|tt|агач}}
-* Tausug: {{t|tsg|kahuy}}
-* Telugu: {{tt+|te|చెట్టు}}, {{tt+|te|వృక్షము}}
-* Ternate: {{t|tft|hate}}
-* Tetum: {{t|tet|ai}}
-* Thai: {{tt+|th|ต้นไม้}}, {{tt+|th|เฌอ}}, {{tt+|th|พฤกษา}}
-* Tibetan: {{tt|bo|ཤིང}}
-* Tigrinya: {{tt+|ti|ኦም}}
-* Tiwi: {{t-needed|tiw}}
-* Tocharian B: {{tt|txb|stām}}
-* Tok Pisin: {{tt+|tpi|diwai}}
-* Tundra Nenets: {{tt|yrk|пя}}
-* Tupinambá: {{tt|tpn|ybyrá}}
-* Turkish: {{tt+|tr|ağaç}}
-* Turkmen: {{tt+|tk|agaç}}
-* Tuvan: {{tt|tyv|ыяш}}
-* Tzotzil: {{tt|tzo|te'}}
-* Udi: {{t|udi|ход}}
-* Udmurt: {{tt|udm|пу}}, {{tt|udm|писпу}}
-* Ugaritic: {{tt|uga|𐎓𐎕}}
-* Ukrainian: {{tt+|uk|де́рево|n}}
-* Umbundu: {{tt|umb|uti}}
-* Urdu: {{tt|ur|پیڑ|m|tr=peṛ}}, {{tt|ur|ورکش|tr=varkś}}, {{tt|ur|درخت|m|tr=daraxt}}
-* Uyghur: {{tt+|ug|دەرەخ}}
-* Uzbek: {{tt+|uz|daraxt}}
-* Venetian: {{tt|vec|alber|m}}, {{tt+|vec|àlbaro|m}}
-* Vietnamese: {{tt+|vi|cây}}
-* Vilamovian: {{tt|wym|baojm|m}}
-* Volapük: {{tt+|vo|bim}}, {{tt+|vo|bimil}} {{q|diminutive}}
-* Votic: {{tt|vot|puu}}
-* Võro: {{tt|vro|puu}}
-* Walloon: {{tt+|wa|åbe|m}}
-* Warlpiri: {{t-needed|wbp}}
-* Welsh: {{tt+|cy|coeden}}, {{tt+|cy|pren}}, {{tt|cy|colfen}} {{q|colloquial}}
-* West Frisian: {{tt+|fy|beam}}
-* Western Yugur: {{tt|ybe|jihaš}}, {{tt|ybe|terek}}
-* White Hmong: {{tt|mww|ntoo}}
-* Wolof: {{tt+|wo|garab}}
-* Xhosa: {{tt|xh|umthi|c3|c4}}
-* Yagara: {{tt|yxg|bagooroo}}
-* Yagnobi: {{tt|yai|дирахт}}
-* Yakut: {{tt|sah|мас}}
-* Yapese: {{tt|yap|gak'iy}}
-* Yiddish: {{tt|yi|בוים|m}}
-* Yir-Yoront: {{t-needed|yiy}}
-* Yoruba: {{t|yo|igi}}
-* Yucatec Maya: {{tt|yua|cheʼ}}
-* Yug: {{tt|yug|atče}}
-* Yámana: {{tt|yag|Sopeya}}, {{tt|yag|pouS}}, {{tt|yag|šopeya}}
-* Zazaki: {{tt+|zza|dar}}
-* Zealandic: {{tt|zea|boôm|m}}
-* Zhuang: {{tt|za|faex}}
-* Zulu: {{tt+|zu|umuthi|c3|c4}}, {{tt+|zu|isihlahla|c7|c8}}
-* ǃXóõ: {{tt|nmn|ʻʘnàje}}
-}}
-{{trans-bottom}}
-
-{{trans-top|pole with storage hooks}}
-* Finnish: {{t+|fi|puu}}
-* German: {{t+|de|Baum|m}}
-{{trans-mid}}
-* Italian: {{t+|it|albero|m}}
-{{trans-bottom}}
-
-{{trans-top|shoe tree}}
-* Fijian: {{t|fj|vu ni kau}}
-* German: {{t+|de|Schuhspanner|m}}
-* Japanese: {{t|ja|靴型|tr=kutsugata}}
-* Macedonian: {{t|mk|калап|m}}
-* Polish: {{t+|pl|prawidło|n}}
-{{trans-mid}}
-* Russian: {{t+|ru|распо́рка|f}}
-* Slovene: {{t+|sl|žlica|f}}
-* Swahili: {{t+|sw|mti}}
-* Swedish: {{t|sv|skoblock|n}}
-{{trans-bottom}}
-
-{{trans-top|frame of a saddle}}
-* French: {{t+|fr|arçon|m}}
-{{trans-mid}}
-* Swahili: {{t+|sw|mti}}
-{{trans-bottom}}
-
-{{trans-top|the structure or wooden frame used in the construction of a saddle used in horse riding}}
-* French: {{t+|fr|arçon|m}}
-{{trans-mid}}
-* Spanish: {{t+|es|fuste|m}}
-{{trans-bottom}}
-
-{{trans-top|''(graph theory)'' graph tree with no cycles}}
-* Danish: {{t+|da|træ|c}}
-* Finnish: {{t+|fi|puu}}
-* German: {{t+|de|Baum|m}}
-* Italian: {{t+|it|albero|m}}
-* Japanese: {{t+|ja|木|tr=ki}}
-* Korean: {{t|ko|트리}}, {{t+|ko|나무}}, {{t|ko|수형도}}
-* Lithuanian: {{t+|lt|medis|m}}
-* Macedonian: {{t|mk|дрво|n}}
-{{trans-mid}}
-* Persian: {{t+|fa|درخت}}
-* Polish: {{t+|pl|drzewo|n}}
-* Portuguese: {{t+|pt|árvore|f}}
-* Russian: {{t+|ru|де́рево|n}}
-* Swahili: {{t+|sw|mti}}
-* Swedish: {{t+|sv|träd|n}}
-* Thai: {{t|th|แผนภาพต้นไม้|tr=pànaepâap dtôn máai}}
-{{trans-bottom}}
-
-{{trans-top|''(computing theory)'' recursive data structure}}
-* Finnish: {{t+|fi|puu}}
-* German: {{t+|de|Baum|m}}
-* Italian: {{t+|it|albero|m}}
-* Japanese: {{t|ja|ツリー構造|tr=tsurī-kōzo}}
-* Lithuanian: {{t+|lt|medis|m}}
-* Macedonian: {{t|mk|дрво|n}}
-{{trans-mid}}
-* Polish: {{t+|pl|drzewo|n}}
-* Portuguese: {{t+|pt|árvore|f}}
-* Romanian: {{t+|ro|arbore|m}}
-* Russian: {{t+|ru|де́рево|n}}
-* Swahili: {{t+|sw|mti}}
-* Swedish: {{t+|sv|träd|n}}
-{{trans-bottom}}
-
-{{trans-top|''(graphical user interface)'' tree list}}
-* German: {{t+|de|Baum|m}}
-* Italian: {{t+|it|albero|m}}
-* Japanese: {{t|ja|ツリーリスト|tr=tsurī-risuto}}
-* Lithuanian: {{t+|lt|medis|m}}
-{{trans-mid}}
-* Macedonian: {{t|mk|дрво|n}}
-* Russian: {{t+|ru|де́рево|n}}
-* Swahili: {{t+|sw|mti}}
-{{trans-bottom}}
-
-===See also===
-* [[Thesaurus:tree]]
-* [[:Category:Trees]]
-* {{l|en|arboreal}}<!-- irregular adjective form -->
-
-===Verb===
-{{en-verb}}
-
-# {{lb|en|transitive}} To chase (an animal or person) up a tree.
-#: {{ux|en|The dog '''treed''' the cat.}}
-#* '''1897''', {{w|Henry Howard, 18th Earl of Suffolk|Henry Howard}} ''et al.'' (eds.), ''Encyclopaedia of Sport'', London: Lawrence & Bullen, Volume I, p. 599,<sup>[https://archive.org/details/encyclopaediaofs01suff]</sup>
-#*: When hunted it [the jaguar] takes refuge in trees, and this habit is well known to hunters, who pursue it with dogs and pot it when '''treed'''.
-#* {{quote-book|1=en|year=2008|author=Monte Dwyer|authorlink=Monte Dwyer|title=Red In The Centre: The Australian Bush Through Urban Eyes|publisher=Monyer Pty Ltd|page=146|text="And our dogs used to '''tree''' the cats on our property here, and we'd dispatch them."}}
-# {{lb|en|transitive}} To place in a tree.
-#: ''Black bears can '''tree''' their cubs for protection, but grizzly bears cannot.''
-# {{lb|en|transitive}} To place upon a tree; to fit with a tree; to stretch upon a tree.
-#: {{ux|en|to '''tree''' a boot}}
-#* '''1930''', {{w|Dashiell Hammett}}, ''{{w|The Maltese Falcon}}'', New York: Alfred A. Knopf, Chapter 14, p. 165,<sup>[https://archive.org/details/maltesefalcon01hamm]</sup>
-#*: Two suits and an overcoat hung in the closet over three pairs of carefully '''treed''' shoes.
-# {{lb|en|intransitive}} To take refuge in a tree.
+'''large woody plant''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*Albanian: [[pemë]] ''f''
+*Arabic: [[شجر|شَجَرٌ]] (šádžar) ''m (collective)'', [[شجرة|شَجَرَةٌ]] (šádžara) ''f ([[singulative]])'', [[شجر|شَجَرْتَيْنِ]] (šadžartéːn) ''(dual)'', [[شجر|شَجَرَاتٌ]] (šadžaráːt) ''([[paucal]])'', [[شجر|أشْجَارٌ]] (‘ašdžáːr) ''(pl.)''
+*[[Aymara]]: [[khoka]]
+*[[Basque]]: [[zuhaitz]]
+*[[Breton]]: [[gwez]] ''collective noun'' [[gwezenn]] ''f singular''
+*Bulgarian: [[дърво]] (dərvo) ''n''
+*[[Catalan]]: [[arbre]] ''m''
+*[[Chichewa]]: [[mtengo]]
+*CJKV Characters: [[木]]; [[樹]], [[树]]; [[栻]]
+*Chinese: [[樹]], [[树]] (shù), [[乔木]] (qiáomù)
+*Croatian: [[stablo]] ''n''
+*Czech: [[strom]] ''m''
+*Danish: [[træ]]
+*[[Dyirbal]]: [[yugu]] ''(noun class IV)'', [[yuguɖaran]] ''dual'', [[yugu-yugu]] ''pl''
+*Dutch: [[boom]] ''m''
+*[[Esperanto]]: [[arbo]]
+*Finnish: [[puu]]
+*French: [[arbre]] ''m''
+*[[Frisian]]: [[beam]]
+*Galician: [[árbore]] ''f''
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+*Greek: [[δένδρον]] (dhéndron) ''n''
+*[[Guaraní]]: [[yvyra]]
+*Hebrew: [[עץ]] (‛ēts) ''m''
+*Hungarian: [[fa]]
+*Ido: arboro
+*Indonesian: [[pohon]]
+*[[Interlingua]]: [[arbore]]
+*Italian: [[albero]] ''m''
+*Japanese: [[木]] ([[き]], ki), [[樹木]] ([[じゅもく]], jumoku)
+*[[Javanese]]: [[wit]]
+*Korean: [[나무]] (namu)
+*[[Lakota]]: [[chan]]
+*Latin: [[arbor]] ''f''
+*Lithuanian: [[medis]] ''m''
+*[[Luxembourgish]]: [[Baam]]
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+*[[Manchu]]: ([[moo]])
+*[[Nahuatl]]: [[cuahuitl]]
+*Norwegian: [[tre]] ''n''
+*[[Ojibwe]]: [[mitig]], [[mitigoog]] ''pl''
+*[[Persian]]: [[درخت|دِرَخت]] (deræxt)
+*Polish: [[drzewo]] ''n''
+*Portuguese: [[árvore]] ''f''
+*[[Quechua]]: [[sacha]], [[sachakuna]] ''pl''
+*[[Quenya]]: [[alda]], [[aldar]] ''pl'', [[aldaron]] ''genitive pl''
+*Romanian: [[arbore]] ''m'', [[copac]] ''m'', [[pom]] ''m''
+*Russian: [[дерево]] (dérevo) ''n'', [[дерево|деревья]] (derév'ja) ''pl''
+*[[Samoan]]: [[lā’au]]
+*[[Sanskrit]]: [[taru]], [[taruu]], [[daaru]], [[druma]]
+*Serbian: [[дрво]] (drvo) ''n''
+*[[Sichuanese]]: [[树]] (sō)
+*[[Sindhi]]: [[ون]] (vanu)
+*Slovak: [[strom]] ''m''
+*[[Slovene]]: [[drevo]] ''n''
+*[[Slovio]]: [[derevo]]
+*[[Somali]]: [[geed]]
+*[[Sorbian]]: [[štom]] 
+*[[Sotho]]: [[sefate]]
+*Spanish: [[árbol]] ''m''
+*[[Swahili]]: [[mti]] ''sg'', [[mti|miti]] ''pl (noun 3/4)''
+*Swedish: [[träd]] ''n''
+*[[Tagalog]]: [[puno]]
+*[[Tajik]]: [[дарахт]] (darakht)
+*[[Tamil]]: [[மரம்]] (maram)
+*[[Tatar]]: [[агач]] (agač)
+*[[Teochew]]: [[树]] (ciudiangdang)
+*Thai: [[ต้นไม้]] (tònmai)
+*[[Tok Pisin]]: [[diwai]]
+*[[Tupinambá]]: [[ybyrá]]
+*Turkish: [[ağaç]]
+*Ukrainian: [[дерево]] (derevo) ''n''
+*Vietnamese: [[cây]]
+*Welsh: [[pren]], [[coeden]], [[colfen]] (colloquial)
+|}
+|}
 
 ====Translations====
-{{trans-top|chase up a tree}}
-* Fijian: {{t|fj|vu ni kau}}
-* Finnish: {{t|fi|ajaa puuhun}}
-* Hebrew: {{t+|he|עץ}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|fa}}
-* Spanish: {{t+|es|enarbolar}}
-* Turkish: {{t+|tr|ağaç}}
-{{trans-bottom}}
+'''pole with storage hooks''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*
+|}
+|}
 
-===References===
-* {{pedia|Tree (disambiguation)}}
+====Translations====
+'''shoe tree''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*German: [[Schuhspanner]]
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*
+|}
+|}
 
-===Anagrams===
-* {{anagrams|en|a=eert|reet|rete|teer}}
+====Translations====
+{{graphtheory}} '''graph tree''' with no cycles. ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
+*Swedish: [[träd]] ''n''
+|}
+|}
 
-[[Category:en:Trees]]
+====Translations====
+{{comptheory}} '''recursive data structure''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
+*Swedish: [[träd]] ''n''
+|}
+|}
+
+====Translations====
+{{gui}} '''tree list''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
+|}
+|}
+
+===Transitive verb===
+'''to tree'''
+
+#To chase (an animal or person) up a tree.
+#: ''The dog ''treed'' the cat.''
 
 ----
-
-==Afrikaans==
-
-===Etymology===
-From {{inh|af|nl|tree}}, syncopic form of {{m|nl|trede}}, from {{inh|af|dum|trede}}. Equivalent to a deverbal from {{m|nl|treden}}.
-
-===Pronunciation===
-* {{IPA|af|/trɪə̯/}}
-
-===Noun===
-{{af-noun|treë}}
-
-# {{l|en|step}} {{gloss|single act of placing the foot when walking}}
-# [[yard]] {{gloss|unit of length}}
-
-----
-
 ==Dutch==
-
-===Alternative forms===
-* {{alter|nl|trede}}
-
-===Etymology===
-From syncope of {{m|nl|trede}}, from {{inh|nl|dum|trede}}. Equivalent to a deverbal from {{m|nl|treden}}.
-
-===Pronunciation===
-* {{IPA|nl|/treː/|[treː]|[treɪ̯]}}
-* {{audio|nl|Nl-tree.ogg|Audio}}
-* {{hyphenation|nl|tree}}
-* {{rhymes|nl|eː}}
-
 ===Noun===
-{{nl-noun|m|treden|pl2=treeën|pl3=-s|treetje}}
+'''tree''' (''contraction of'' [[trede]])
 
-# [[step]] {{qual|of a [[staircase]]}}, [[stair]]
-# [[step]] {{gloss|distance of one step when walking}}
-# {{lb|nl|archaic|also {{m|nl|tred}}}} a unit of length of about 2 to 3 [[feet]], roughly equivalent to a [[yard]]
+#[[step]] (''of a [[staircase]]''), [[stair]]
 
-====Derived terms====
-* {{l|nl|traptree}}
+[[Category:1000 English basic words]]
 
-====Descendants====
-* {{desc|af|tree}}
-
-===Anagrams===
-* {{anagrams|nl|eert|eter|reet|teer|tere}}
-
-----
-
-==Manx==
-
-===Alternative forms===
-* {{alter|gv|three}}
-
-===Etymology===
-From {{inh|gv|sga|trí}}, from {{inh|gv|cel-pro|*trīs}}, from {{inh|gv|ine-pro|*tréyes}}.
-
-===Pronunciation===
-* {{IPA|gv|/t̪riː/}}
-
-===Numeral===
-{{head|gv|numeral}}
-
-# {{cln|gv|cardinal numbers}} [[three]]
-
-===References===
-* {{R:DIL|41872|head=trí}}
-
-[[Category:gv:Three]]
-
-----
-
-==Middle English==
-
-===Noun===
-{{head|enm|noun}}
-
-# {{alt form|enm|tre}}
-
-----
-
-==North Frisian==
-
-===Etymology===
-From {{inh|frr|ofs|thrē}}.
-
-===Numeral===
-{{head|frr|numeral}}
-
-# {{lb|frr|Helgoland}} {{l|en|three}}
+[[de:tree]]
+[[es:tree]]
+[[fr:tree]]
+[[pl:Tree]]
+[[pt:Tree]]
+[[sv:tree]]
+[[zh:Tree]]
