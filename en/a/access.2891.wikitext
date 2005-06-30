@@ -1,331 +1,57 @@
-==English==
+===Etymology===
+French ''[[accès]]'', Latin ''[[accessus]]'', from ''[[accedere]]''. See [[accede]]
 
-===Etymology 1===
-From {{inh|en|enm|accesse}}, {{m|enm|acces}}, borrowed from {{der|en|frm|acces||attack, onslaught}} or from its source {{der|en|la|accessus}}, perfect passive participle of {{m|la|accēdō||approach; accede}}, from {{m|la|ad||to, toward, at}} + {{m|la|cēdō||move, yield}}. {{doublet|en|accessus}}. First attested in the early 14th century. The sense "entrance" was first attested about 1380.
+===Noun===
+'''access''' (plural: [[accesses]])
 
-====Pronunciation====
-* {{a|RP}} {{IPA|en|/ˈæksɛs/}}
-* {{a|GA}} {{enPR|ăkʹsĕs'}}, {{IPA|en|/ˈækˌsɛs/}}
-* {{audio|en|en-us-access.ogg|Audio (US)}}
-* {{rhymes|en|æksɛs|s=2}}
-* {{hyphenation|en|ac|cess}}
+# permission to [[approach]]
+#:'''Translations'''
+#:*Dutch: [[toegang]] ''m''
+#:*Finnish: [[pääsy]]
+#:*French: [[accès]] ''m''
+#:*German: [[Zugriff]] ''m''
+#:*Indonesian: [[akses]]
+#:*[[Interlingua]]: [[accesso]]
+#:*Italian: [[accesso]] ''m''
+#:*Japanese: [[アクセス]] (akusesu)
+#:*Norwegian: [[adgang]] ''c'', ''med'' [[anfall]] ''n''
+#:*Portuguese: [[acesso]]
+#:*Spanish: [[acceso]] ''m''
+#:*[[Vietnamese2020]]: [[truycập]]. E.g. direct access = [[truycập]] [[trựctiếp]].
 
-====Noun====
-{{en-noun|~}}
+#A coming to, or near approach; [[admittance]]; admission; [[accessibility]]; as, to gain '''access''' to a prince.
+#:'''[[Quotation]]s'''
+#:*I did repel his fetters, and denied His '''access''' to me. - Shakespeare, ''Hamlet, II-i''
+# The means, place, or way by which a thing may be approached; passage way; as, the '''access''' is by a neck of [[land]].
+#:'''Quotations'''
+#:*All '''access''' was thronged. - [[Milton]] 
+#Admission to sexual intercourse.
+#:'''Quotations'''
+#:*During coverture, '''access''' of the husband shall be presumed, unless the contrary be shown. - [[Blackstone]] 
+#Increase by something added; addition; as, an '''access''' of territory. (In this sense '''[[accession]]''' is more generally used.)
+#:'''Quotations'''
+#:*I, from the influence of thy looks, receive '''access''' in every virtue. - [[Milton]]
+#An [[onset]], attack, or fit of disease.
+#:'''Quotations'''
+#:*The first '''access''' looked like an apoplexy. - [[Burnet]]
+#''(Gallicism):'' A [[paroxysm]]; a fit of passion; an [[outburst]]; as, an '''access''' of fury.
+#''(law):'' the right of a [[w:non-custodial parent|non-custodial parent]] to visit their [[child]]
 
-# {{lb|en|uncountable}} A [[way]] or [[means]] of [[approach]]ing or [[enter]]ing; an [[entrance]]; a [[passage]].
-#* {{RQ:Milton Paradise Lost|passage=All '''access''' was thronged.}}
-# {{lb|en|uncountable}} The act of approaching or entering; an [[advance]].
-# {{lb|en|uncountable}} The right or ability of approaching or entering; [[admittance]]; [[admission]]; [[accessibility]].
-# {{lb|en|uncountable}} The quality of being easy to approach or enter.
-#* {{RQ:Shakespeare Hamlet|2|1|passage=I did repel his fetters, and denied His '''access''' to me.}}
-#* {{quote-journal|en|date=September 20, 2011| author=Graeme Paton| title=University access plan 'will fail', says Russell Group| work=Telegraph| url=http://www.telegraph.co.uk/education/universityeducation/8774824/University-access-plan-will-fail-says-Russell-Group.html| passage=Coalition plans to widen access to university will fail to get to the 'root cause' of the problem, according to the Russell Group.}}
-# {{lb|en|uncountable}} Admission to [[sexual]] [[intercourse]].
-#* {{RQ:Blackstone Commentaries|passage=During [[coverture]], '''access''' of the husband shall be presumed, unless the contrary be shown.}}
-# {{lb|en|archaic|countable}} An [[increase]] by [[addition]]; [[accession]]
-#: {{ux|en|an '''access''' of territory}}
-#* {{RQ:Milton Paradise Lost|passage=I, from the influence of thy looks, receive '''access''' in every virtue.}}
-# {{lb|en|countable}} An [[onset]], [[attack]], or [[fit]] of disease; an [[ague]] fit.
-#* {{RQ:Burnet History|text=The first '''access''' looked like an apoplexy.}}
-#* {{RQ:Beckett Watt|text=Then he resumed the pose, the decent pose, from which the sudden '''access''' of his old trouble had startled him, his hands on his knees, {{...}}}}
-# {{lb|en|countable}} An [[outburst]] of an [[emotion]]; a [[paroxysm]]; a fit of passion.
-#* {{quote-text|en|year=1917|author={{w|Frank L. Packard}}|title=The Adventures of Jimmie Dale| chapter=15| passage=The Magpie's flashlight, as he shifted it from his right hand to his left and wrenched out his revolver, had fallen upon two men crouched close against the wall by the library door—and he screamed out in an '''access''' of fury. "De double cross! A plant! De bulls! You damned snitch, Larry!" screamed out the Magpie—and fired.}}
-#* '''1946''', {{w|Arnold J. Toynbee}}, ''A Study of History'' (Abridgement of Volumes I-VI by D.C. Somervell)
-#*: It appears that, about the middle of the fourth century of the Christian Era, the Germans in the Roman service started the new practice of retaining their native names; and this change of etiquette, which seems to have been abrupt, points to a sudden '''access''' of self-confidence and self-assurance in the souls of the barbarian ''personnel'' which had previously been content to 'go Roman' without reservations.
-# {{lb|en|uncountable|legal}} The right of a [[noncustodial parent]] to visit their [[child]].
-# {{lb|en|countable|computing}} The process of locating data in memory.
-#* '''2011''', Victor Pankratius, ‎Ali-Reza Adl-Tabatabai, ‎Walter Tichy, ''Fundamentals of Multicore Software Development'' (page 74)
-#*: Operations on C++ volatiles do put the compiler on notice that the object may be modified asynchronously, and hence are generally safer to use than ordinary variable '''accesses'''.
-# {{lb|en|uncountable|networking}} [[connection|Connection]] to or [[communication]] with a [[computer program]] or to the [[Internet]].
-# {{lb|en|uncountable|Scotland}} {{1|complicity}} or [[assent]].
+===Verb===
+'''to access'''
 
-=====Usage notes=====
-* {{sense|outburst|paroxysm}} sometimes confused with {{m|en|excess}}.
+#''(computing):'' to have '''access''' to [[data]]
 
-=====Derived terms=====
-{{der2|en
-|access day
-|access code
-|access control
-|access course
-|access journalism
-|access method
-|access modifier
-|access point
-|access road
-|access specifier
-|access time
-|access token
-|access violation
-|anti-access area denial
-|controlled-access highway
-|data access object
-|e-access
-|limited-access highway
-|online public access catalog
-|public access
-|read-only access
-|direct access
-|random access
-|remote access}}
+===Related Words===
+*[[accessible]]
+*[[accessibility]]
+*[[accessibly]]
 
-=====Related terms=====
-{{rel-top}}
-* {{l|en|accede}}
-* {{l|en|accessary}}
-* {{l|en|accessibility}}
-* {{l|en|accessible}}
-{{rel-mid}}
-* {{l|en|accessibly}}
-* {{l|en|accession}}
-* {{l|en|accessory}}
-{{rel-bottom}}
+#:'''Translations'''
+#:*Dutch: [[benaderen]], [[aanspreken]]
 
-=====Translations=====
-{{trans-top|way or means of approaching}}
-* Arabic: {{t|ar|معبر|m|tr=maʿbar}}, {{t+|ar|منفذ|m|tr=manfaḏ}}
-* Armenian: {{t-needed|hy}}
-* Belarusian: {{t|be|до́ступ|m}}
-* Bulgarian: {{t+|bg|достъп|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|通路|tr=tōnglù}}
-* Czech: {{t+|cs|přístup|m}}
-* Danish: {{t+|da|indgang|c}}, {{t+|da|passage|c}}, {{t+|da|vej|c}}
-* Dutch: {{t+|nl|toegang}}, {{t+|nl|toegangsweg}}, {{t+|nl|passage}}
-* Esperanto: {{t+|eo|aliro}}
-* Estonian: {{t|et|pääs}}
-* Finnish: {{t+|fi|pääsy}}
-* French: {{t+|fr|accès|m}}
-* Galician: {{t|gl|acceso|m}}
-* German: {{t+|de|Zugang|m}}, {{t+|de|Eingang|m}}
-* Greek: {{t+|el|πρόσβαση|f}}
-* Hebrew: {{t+|he|גישה|tr=gisha}}
-* Hungarian: {{t+|hu|belépés}}
-* Italian: {{t+|it|accesso|m}}
-* Khmer: {{t-needed|km}}
-{{trans-mid}}
-* Latin: {{t+|la|aditus|m}}
-* Latvian: {{t|lv|piekļuve}}
-* Macedonian: {{t|mk|достап}}, {{t|mk|пристап}}
-* Malayalam: {{t+|ml|പ്രവേശനം}}
-* Maltese: {{t|mt|aċċess}}
-* Old English: {{t|ang|tōgang|m}}, {{t|ang|ingang|m}}
-* Polish: {{t+|pl|dostęp|m-in}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Romanian: {{t+|ro|acces|n}}
-* Russian: {{t+|ru|до́ступ|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|приступ|m}}, {{t|sh|при́лаз|m}}, {{t|sh|у̀лаз|m}}
-*: Roman: {{t+|sh|pristup|m}}, {{t+|sh|prílaz|m}}, {{t+|sh|ùlaz|m}}
-* Slovak: {{t|sk|prístup|m}}
-* Slovene: {{t|sl|dostop|m}}
-* Somali: {{t|so|marin}}
-* Spanish: {{t+|es|acceso|m}}
-* Swedish: {{t+|sv|ingång|c}}, {{t+|sv|passage|c}}, {{t+|sv|väg|c}}
-* Thai: {{t-needed|th}}
-* Ukrainian: {{t|uk|до́ступ|m}}
-{{trans-bottom}}
-
-{{trans-top|act of approaching or entering}}
-* Arabic: {{t|ar|دخول|m|tr=duḵūl}}, {{t|ar|ولوج|m|tr=wulūj}}
-* Belarusian: {{t|be|падхо́д|m}}
-* Bulgarian: {{t+|bg|достъп|m}}, {{t+|bg|подход}}
-* Czech: {{t+|cs|přístup|m}}
-* Dutch: {{t+|nl|benadering}}
-* Estonian: {{t|et|pääs}}
-* Finnish: {{t+|fi|pääsy}}, {{t+|fi|lähestyminen}}
-* French: {{t+|fr|approche|f}} {{gloss|act of approaching}}, {{t+|fr|entrée|f}} {{gloss|act of entering}}, {{t+|fr|accès}}
-* German: {{t+|de|Zugang|m}}
-* Greek: {{t+|el|πρόσβαση|f}}
-{{trans-mid}}
-* Italian: {{t+|it|accesso|m}}
-* Malayalam: {{t+|ml|പ്രവേശനം }}
-* Maltese: {{t|mt|aċċess}}
-* Old English: {{t|ang|tōgang|m}}
-* Polish: {{t+|pl|dostęp|m-in}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Romanian: {{t+|ro|apropiere|f}}, {{t+|ro|acces|n}}
-* Russian: {{t+|ru|подхо́д|m}}
-* Slovene: {{t|sl|pristop|m}}
-* Swedish: {{t+|sv|åtkomst|c}}
-* Ukrainian: {{t|uk|підхі́д|m}}
-{{trans-bottom}}
-
-{{trans-top|right or ability of approaching or entering}}
-* Arabic: {{t|ar|حق ولوج|m|tr=ḥaq wulūj}}
-* Bulgarian: {{t+|bg|достъп}}
-* Czech: {{t+|cs|přístup|m}}
-* Dutch: {{t+|nl|toegang}}, {{t|nl|toegangsrecht}}, {{t+|nl|toelating}}
-* Estonian: {{t|et|pääs}}
-* Finnish: {{t+|fi|pääsy}}
-* German: {{t+|de|Zugang|m}}, {{t+|de|Zutritt|m}}
-* Greek: {{t+|el|ελευθεροκοινωνία|f}}
-* Hungarian: {{t+|hu|hozzáférés}}, {{t+|hu|bejárás}}
-{{trans-mid}}
-* Norwegian:
-*: Bokmål: {{t+|nb|adgang|m}}, {{t|nb|tilgang|m}}
-*: Nynorsk: {{t|nn|åtgang|m}}, {{t|nn|tilgang|m}}
-* Old English: {{t|ang|tōgang|m}}
-* Polish: {{t+|pl|dostęp|m-in}}, {{t+|pl|akces}}, {{t+|pl|akcesja|f}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Romanian: {{t+|ro|acces|m|n}}
-* Slovene: {{t|sl|dostop|m}}
-* Swedish: {{t+|sv|tillgång|c}}, {{t+|sv|tillträde|c}}
-{{trans-bottom}}
-
-{{trans-top|admission to sexual intercourse}}
-* Dutch: {{t+|nl|instemming}}
-{{trans-mid}}
-* Swedish: {{t+|sv|tillgänglighet|c}}
-{{trans-bottom}}
-
-{{trans-top|increase by addition}}
-* Dutch: {{t+|nl|toevoeging}}, {{t+|nl|aanwinst}}
-{{trans-mid}}
-* Finnish: {{t+|fi|laajennus}}
-{{trans-bottom}}
-
-{{trans-top|onset, attack or fit of disease}}
-* Bulgarian: {{t+|bg|пристъп}}
-* Dutch: {{t+|nl|toeval}}, {{t+|nl|aanval}}
-* Finnish: {{t+|fi|kohtaus}}
-* French: {{t+|fr|accès|m}}
-* Greek: {{t+|el|παροξυσμός|m}}, {{t+|el|ξέσπασμα|n}}, {{t+|el|έκρηξη|f}}
-{{trans-mid}}
-* Latvian: {{t|lv|lēkme|f}}
-* Norwegian: {{t+|no|anfall|n}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Swedish: {{t+|sv|anfall|n}}, {{t+|sv|utbrott|n}}
-{{trans-bottom}}
-
-{{trans-top|outburst of an emotion}}
-* Dutch: {{t+|nl|aanval}}, {{t+|nl|uitval}}
-* Finnish: {{t+|fi|kohtaus}}
-* French: {{t+|fr|accès|m}}
-* German: {{t+|de|Ausbruch|m}}, {{t+|de|Gefühlsausbruch|m}}, {{t+|de|Anfall|m}}
-{{trans-mid}}
-* Greek: {{t+|el|παροξυσμός|m}}, {{t+|el|ξέσπασμα|n}}, {{t+|el|έκρηξη|f}}
-* Norwegian: {{t+|no|anfall|n}}, {{t+|no|utbrudd|n}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Swedish: {{t+|sv|anfall|n}}, {{t+|sv|utbrott|n}}
-{{trans-bottom}}
-
-{{trans-top|right to visit one's child}}
-* Danish: {{t|da|samværdsret|n}}
-* Dutch: {{t+|nl|bezoekrecht|n}}
-* Finnish: {{t|fi|tapaamisoikeus}}
-* German: {{t|de|Umgangsrecht|n}}
-{{trans-mid}}
-* Hungarian: {{t|hu|láthatás}}
-* Norwegian: {{t|no|besøksrett|m}}
-* Swedish: {{t+|sv|umgängesrätt|c}}
-{{trans-bottom}}
-
-{{trans-top|computing: process of locating data in memory}}
-* Chinese:
-*: Mandarin: {{t+|cmn|存取|tr=cúnqǔ}}
-* Esperanto: {{t|eo|atingo}}
-* Finnish: {{t+|fi|haku}}
-* French: {{t+|fr|accès|m}}
-* Georgian: {{t|ka|წვდომა}}
-* German: {{t+|de|Zugriff|m}}
-{{trans-mid}}
-* Greek: {{t+|el|πρόσβαση|f}}, {{t+|el|προσπέλαση|f}}
-* Japanese: {{t+|ja|アクセス|tr=akusesu}}
-* Norwegian: {{t+|no|aksess|m}}
-* Polish: {{t+|pl|dostęp|m-in}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Russian: {{t+|ru|до́ступ|m}}
-* Spanish: {{t+|es|acceso|m}}
-{{trans-bottom}}
-
-{{trans-top|communication with a computer program or the Internet}}
-* Finnish: {{t+|fi|yhteys}}
-* French: {{t+|fr|accès}}
-* Georgian: {{t|ka|წვდომა}}
-* German: {{t+|de|Zugriff|m}}
-* Greek: {{t+|el|πρόσβαση|f}}, {{t+|el|προσπέλαση|f}}
-* Italian: {{t+|it|accesso}}
-* Japanese: {{t+|ja|アクセス|tr=akusesu}}
-{{trans-mid}}
-* Norwegian: {{t+|no|aksess|m}}, {{t|no|tilgang|m}}
-* Polish: {{t+|pl|dostęp|m-in}}
-* Portuguese: {{t+|pt|acesso|m}}
-* Slovene: {{t|sl|dostop|m}}
-* Spanish: {{t+|es|acceso|m}}
-* Turkish: {{t+|tr|erişim}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Indonesian: {{t+check|id|akses}}
-* Interlingua: {{t-check|ia|accesso}}
-* Norwegian:
-*: Bokmål: {{t+check|nb|adgang|m}}, {{t|nb|tilgang|m}}
-*: Nynorsk: {{t-check|nn|åtgang|m}}, {{t|nn|tilgang|m}}
-{{trans-mid}}
-* Welsh: {{t-check|cy|dyfodiad|m}}
-{{trans-bottom}}
-
-===Etymology 2===
-* First attested in 1962.
-
-====Pronunciation====
-* {{a|RP}} {{IPA|en|/ˈæksɛs/|/əkˈsɛs/}}
-* {{a|GA}} {{enPR|ăkʹsĕs'|ək-sĕsʹ}}, {{IPA|en|/ˈækˌsɛs/|/əkˈsɛs/}}
-* {{audio|en|en-us-access.ogg|Audio (US)}}
-* {{rhymes|en|æksɛs|ɛs|s=2}}
-* {{hyphenation|en|ac|cess}}
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|transitive}} To gain or obtain access to.
-# {{lb|en|transitive|computing}} To have access to ([[data]]).
-#: ''I can't '''access''' most of the data on the computer without a password.''
-
-=====Derived terms=====
-* {{desc|pt-BR|acessar|der=1}}
-
-=====Translations=====
-{{trans-top|to gain or obtain access to}}
-* Arabic: {{t|ar|وَلَجَ}}, {{t|ar|ذلف|tr=ḏalafa}}, {{t|ar|نفذ|tr=nafaḏa}}, {{t+|ar|عبر|tr=ʿabara}}
-* Catalan: {{t+|ca|accedir}}
-* Dutch: {{t|nl|[[toegang]] [[hebben]] ([[tot]])}}, {{t+|nl|bereiken}}, {{t+|nl|verkrijgen}}
-* Finnish: {{t+|fi|päästä}}
-* French: {{t+|fr|accéder}}, {{t+|fr|avoir accès}}
-* Galician: {{t|gl|acceder}}
-{{trans-mid}}
-* Norwegian: {{t|no|[[få]] [[tilgang]]}}
-* Occitan: {{t+|oc|accedir}}
-* Portuguese: {{t+|pt|aceder}}, {{t+|pt|acessar}} {{q|Brazil}}
-* Slovene: {{t|sl|dostopati}}
-* Spanish: {{t+|es|acceder}}
-* Swedish: {{t|sv|göra åtkomlig}}, {{t+|sv|ta fram}}
-{{trans-bottom}}
-
-{{trans-top|computing: to have access to (data)}}
-* Armenian: {{t+|hy|մատչել}}
-* Dutch: {{t|nl|[[toegang]] [[hebben]] ([[tot]])}}
-* Finnish: {{t|fi|[[päästä]] [[käsiksi]]}}
-* French: {{t+|fr|accéder}}, {{t+|fr|avoir accès}}
-* German: {{t|de|[[Zugang]] [[haben]]}}, {{t+|de|zugreifen}}
-* Hungarian: {{t+|hu|hozzáfér}}
-{{trans-mid}}
-* Norwegian: {{t|no|aksessere}}
-* Portuguese: {{t+|pt|aceder}}, {{t+|pt|acessar}} {{q|Brazil}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|присту́пити|pf}}
-*: Roman: {{t+|sh|pristúpiti|pf}}
-* Slovene: {{t|sl|dostopati}}
-* Spanish: {{t+|es|acceder}}, {{t+|es|accesar}}
-* Swedish: {{t|sv|ha åtkomst}}
-{{trans-bottom}}
-
-===References===
-* {{R:Webster 1913}}
-* {{R:Century 1911}}
-* {{R:OneLook}}
-* {{R:Keywords 21st}}
-* {{R:DSL|pos=n}}
-
-[[Category:English heteronyms]]
+[[gl:Access]]
+[[it:access]]
+[[pl:Access]]
+[[pt:Access]]
+[[sv:access]]
