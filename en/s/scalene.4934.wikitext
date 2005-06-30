@@ -1,96 +1,11 @@
-{{also|scalène}}
-
 ==English==
-{{wp}}
-
-===Alternative forms===
-* {{alter|en|scalenus}} {{q|noun}}
-
-===Etymology===
-Borrowed from {{bor|en|LL.|scalēnus||of unequal sides}}, from {{bor|en|grc|σκᾰληνός|gloss=uneven, unequal}}.
-
-===Pronunciation===
-* {{a|RP}} {{IPA|en|/ˈskeɪ.liːn/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-scalene.wav|Audio (RP)}}
-* {{a|GA}} {{IPA|en|/ˈskeɪˌlin/|/skeɪˈlin/}}
-* {{rhymes|en|iːn|s=2}}
-
 ===Adjective===
-[[Image:Triangle.Scalene.svg|thumb|right|Example of a scalene triangle.]]
-{{en-adj|-}}
-
-# {{lb|en|trigonometry}} Having sides all [[unequal]] in length.
-#: {{ux|en|'''scalene''' triangle}}
-# {{lb|en|anatomy}} Of or pertaining to the [[scalene muscle]].
-
-====Derived terms====
-{{col2|en
-|interscalene
-|intrascalene
-|scalene muscle
-|scalene triangle
-|scaleno-}}
-
+'''scalene'''
+#(''geometry'') referring to a [[triangle]] having each of its three [[side]]s of [[different]] [[length]]s.
 ====Translations====
-{{trans-top|having sides unequal in length}}
-* Bulgarian: {{t+|bg|разностранен}}
-* Catalan: {{t|ca|escalè}}
-* Chinese:
-*: Mandarin: {{t|cmn|不等邊的}}, {{t|cmn|不等边的|tr=bùděngbiānde}}
-* Dutch: {{t|nl|ongelijkzijdig}}
-* Finnish: {{t|fi|erisivuinen}}
-* French: {{t+|fr|scalène}}
-* German: {{t|de|ungleichseitig}}
-* Greek: {{t+|el|σκαληνός}}
-*: Ancient Greek: {{t|grc|σκαληνός}}
-{{trans-mid}}
-* Hungarian: {{t|hu|egyenlőtlen oldalú}}, {{t+|hu|általános}}
-* Italian: {{t+|it|scaleno}}
-* Polish: {{t|pl|różnoboczny|m}}
-* Portuguese: {{t|pt|escaleno|m}}
-* Russian: {{t+|ru|неравносторо́нний|m}}, {{t+|ru|разносторо́нний|m}}
-* Spanish: {{t|es|escaleno}}
-* Tagalog: {{t|tl|tagibang}}
-{{trans-bottom}}
-
-===Noun===
-{{en-noun}}
-
-# {{lb|en|muscle}} {{ellipsis of|en|scalene muscle}}.
-# {{lb|en|trigonometry}} {{ellipsis of|en|scalene triangle}}.
-
+*Dutch: [[ongelijkzijdig]]
+*German: [[ungleichseitig]]
 ===See also===
-* {{l|en|equilateral}}
-* {{l|en|isosceles}}
-
-===References===
-* {{R:Lexico}}
-* {{R:Lexico|scalenus}}
-* {{R:MWO}}
-
-===Anagrams===
-* {{anagrams|en|a=aceelns|Senecal|canelés|cleanse|elances|enlaces|enscale}}
-
-----
-
-==Italian==
-
-===Pronunciation===
-{{it-pr|scalène}}
-
-===Adjective===
-{{head|it|adjective form}}
-
-# {{feminine plural of|it|scaleno}}
-
-----
-
-==Latin==
-
-===Pronunciation===
-* {{la-IPA|scalēne}}
-
-===Adjective===
-{{la-adj-form|scalēne}}
-
-# {{infl of|la|scalēnus||voc|m|s}}
+*[[equilateral]]
+*[[isosceles]]
+[[Category:English adjectives]]
