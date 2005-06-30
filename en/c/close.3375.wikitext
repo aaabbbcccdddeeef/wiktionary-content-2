@@ -1,757 +1,103 @@
-{{also|Close}}
 ==English==
-{{wikipedia}}
-
-===Etymology 1===
-{{root|en|ine-pro|*(s)kleh₂w-}}
-From {{inh|en|enm|closen||to close, enclose}}, partly continuing (in altered form) earlier {{inh|en|enm|clusen|t=to close}} (from {{inh|en|ang|clȳsan||to close, shut}}; compare {{m|en|beclose}}, {{m|en|foreclose}}, etc.), and partly derived from {{inh|en|enm|clos|pos=a|t=close, shut up, confined, secret}}, from {{der|en|fro|clos||close, confined|pos=adjective}}, from {{der|en|la|clausus||shut up|pos=past participle}}, from {{m|la|claudere||to bar, block, close, enclose, bring an end to, confine}}, from {{der|en|ine-pro|*klāw-||key, hook, nail}}, related to {{cog|la|clāvis||key, deadbolt, bar}}, {{m|la|clāvus||nail, peg}}, {{m|la|claustrum||bar, bolt, barrier}}, {{m|la|claustra||dam, wall, barricade, stronghold}}. Cognate with {{cog|grc|κλείς||bar, bolt, key}}, {{cog|de|schließen||to close, conclude, lock}}, {{cog|nl|sluiten||to close, conclude, lock}}. Partially replaced {{cog|ang|lūcan||to close, lock, enclose}}, (whence English [[lock]]). Doublet of {{m|en|clause}}.
+===Etymology===
+Latin ''[[claudere]]''
 
 ====Pronunciation====
-* {{a|RP}} {{enPR|klōz}}, {{IPA|en|/kləʊz/}}
-* {{a|GA}} {{enPR|klōz}}, {{IPA|en|/kloʊz/}}
-* {{rhymes|en|əʊz|s=1}}
-* {{audio|en|en-us-close-verb.ogg|Audio (US)}}
-* {{homophones|en|clothes}} {{a|in some dialects}}
+/ˈkləʊz/
+*{{audio|en-us-close-verb.ogg|Audio (US)}} (verb and noun senses)
 
-====Verb====
-{{en-verb}}
-
-# {{lb|en|physical}} To remove a gap.
-## To obstruct (an [[opening]]).
-## To move so that an opening is closed.
-##: {{ux|en|'''Close''' the door behind you when you leave.}}
-##: {{ux|en|Jim was listening to headphones with his eyes '''closed'''.}}
-##* {{RQ:Byron Childe Harold|canto=III|stanza=LXXXIV|passage=What deep wounds ever '''closed''' without a scar?}}
-##* {{RQ:Christie Autobiography|II|2|passage=If I '''close''' my eyes I can see Marie today as I saw her then. Round, rosy face, snub nose, dark hair piled up in a chignon.}}
-## To make (e.g. a gap) smaller.
-##: {{ux|en|The runner in second place is '''closing''' the gap on the leader.}}
-##: {{ux|en|to '''close''' the ranks of an army}}
-## {{lb|en|transitive|intransitive|engineering|gas and liquid flow|of valve or damper}} To move to a position preventing fluid from flowing.
-## {{lb|en|transitive|intransitive|electricity|of a switch, fuse or circuit breaker}} To move to a position allowing electricity to flow.
-## To grapple; to engage in close combat.
-##* '''1856-1858''', {{w|William H. Prescott}}, ''History of the Reign of Phillip II''
-##*: They boldly '''closed''' in a hand-to-hand contest.
-# To finish, to terminate.
-## To put an [[end]] to; to conclude; to complete; to finish; to consummate.
-##: {{ux|en|'''close''' the session; &emsp; to '''close''' a bargain; &emsp; to '''close''' a course of instruction}}
-##* {{RQ:Dryden Juvenal Satires|5|passage=One frugal supper did our studies '''close'''.}}
-## To come to an end.
-##: {{ux|en|The debate '''closed''' at six o'clock.}}
-## {{lb|en|marketing}} To make a [[sale]].
-## {{lb|en|baseball|pitching}} To make the final outs, usually three, of a game.
-##: {{ux|en|He has '''closed''' the last two games for his team.}}
-## {{lb|en|figurative|computing}} To terminate an [[application]], [[window]], [[file]] or [[database]] [[connection]], etc.
-## {{lb|en|transitive|finance}} To cancel or reverse (a trading position).
-# To come or [[gather]] [[around]]; to [[enclose]]; to [[encompass]]; to [[confine]].
-#* {{RQ:KJV|Jonah|2|5}}
-#*: The depth '''closed''' me round about.
-#* '''1633''', {{w|George Herbert}}, ''The Church''
-#*: But now Thou dost Thyself immure and '''close''' / In some one corner of a feeble heart; / Where yet both Sinne and Satan, Thy old foes, / Do pinch and straiten Thee, and use much art / To gain Thy thirds' and little part.
-# {{lb|en|surveying}} To have a [[vector]] sum of 0; that is, to form a closed [[polygon]].
-# {{lb|en|intransitive}} To do the tasks (putting things away, locking doors, etc.) required to prepare a store or other establishment to shut down for the night.
-#: {{ux|en|Whoever '''closed''' last night forgot to turn off the closet light.}}
-# {{lb|en|Philippines}} To [[turn off]]; to [[switch off]].
-#: {{uxi|en|Please '''close''' the lights.|t=Please '''turn off''' the lights.}}
-#: {{uxi|en|'''Close''' the fan please.|t=Please '''switch off''' the fan.}}
-#: {{uxi|en|'''Close''' the TV now.|t='''Turn off''' the TV now.}}
-
-=====Usage notes=====
-Due to the near-opposite meanings relating to fluid flow and electrical components, these usages are deprecated in safety-critical instructions, with the words ''to on'' or ''to off'' preferred, so instead of ''Close valve A; close switch B" use ''Turn valve A to OFF; turn switch B to ON''.
-
-=====Conjugation=====
-{{en-conj|stem=clos|old=1}}
-
-=====Synonyms=====
-* {{sense|obstruct (an opening)}} {{l|en|close off}}, {{l|en|close up}}, {{l|en|cover}}, {{l|en|shut}}, {{l|en|shut off}}
-* {{sense|move (a door)}} {{l|en|shut}}
-* {{sense|put an end to}} {{l|en|end}}, {{l|en|finish}}, {{l|en|terminate}}, {{l|en|wind up}}, {{l|en|close down}}
-* {{sense|make (a gap) smaller}} {{l|en|narrow}}
-* {{sense|terminate a computer program}} {{l|en|close out}}, {{l|en|exit}}
+==== Verb ====
+'''to close'''  ([[closes]], [[closed]], [[closing]])
+#To obstruct an opening by [[shut]]ting a door.
+#To put an [[end]] to
+#:''to '''close''' the session''
 
 =====Antonyms=====
-* {{sense|obstruct (an opening)}} {{l|en|open}}
-* {{sense|move (a door)}} {{l|en|open}}
-* {{sense|put an end to}} {{l|en|begin}}, {{l|en|commence}}, {{l|en|initiate}}, {{l|en|start}}
-* {{sense|make (a gap) smaller}} {{l|en|extend}}, {{l|en|widen}}
-* {{sense|terminate a computer program}} {{l|en|open}}, {{l|en|start}}
-
-=====Hyponyms=====
-* {{l|en|autoclose}}
-
-=====Derived terms=====
-{{der4|en|
-|close the book on|close the stable door after the horse has bolted||close one eye|close in on|close-stool|number close
-|autoclose
-|close-up
-|enclose
-|disclose
-|foreclose
-|closemouthed
-|closefisted
-|closeout
-|exclosure
-|closable
-|case closed
-|close down
-|close in
-|close off
-|close one's eyes
-|close out
-|close ranks
-|close the door on
-|close the face
-|close up
-|when one door closes, another opens}}
-
-=====Related terms=====
-{{der2|en|clause}}
+*[[open]]
 
 =====Translations=====
-{{trans-top|obstruct (an opening)}}
-* Afrikaans: {{t+|af|sluit}}, {{t|af|toemaak}}
-* Albanian: {{t+|sq|mbyll}}
-* Arabic: {{t|ar|أَغْلَقَ}}
-*: Egyptian Arabic: {{t|arz|قفل|tr=ʾafal}}
-*: Hijazi Arabic: {{t|acw|سَكَّر|tr=sakkar}}, {{t|ar|قَفَّل|tr=gaffal}}
-* Armenian: {{t+|hy|փակել}}
-* Aromanian: {{t|rup|ncljid}}
-* Assamese: {{t|as|বন্ধ কৰা}}
-* Azerbaijani: {{t|az|qapamaq}}, {{t+|az|bağlamaq}}, {{t+|az|örtmək}}
-* Basque: {{t|eu|itxi}}
-* Belarusian: {{t|be|зачыня́ць|impf}}, {{t|be|зачыні́ць|pf}}
-* Bengali: {{t|bn|বন্ধ করা}}
-* Bulgarian: {{t+|bg|затва́рям|impf}}
-* Burmese: {{t+|my|ပိတ်|sc=Mymr}}
-* Catalan: {{t+|ca|tancar}}, {{t+|ca|cloure}}
-* Cebuano: {{t|ceb|sira}}
-* Chinese:
-*: Cantonese: {{t|yue|閂|tr=saan1}}
-*: Mandarin: {{t+|cmn|關|sc=Hani}}, {{t+|cmn|关|tr=guān|sc=Hani}}, {{t+|cmn|閉|sc=Hani}}, {{t+|cmn|闭|tr=bì|sc=Hani}}, {{t+|cmn|關閉|sc=Hani}}, {{t+|cmn|关闭|tr=guānbì|sc=Hani}}
-* Crimean Tatar: {{t|crh|qapatmaq}}, (northern dialect: [[capmaq]])
-* Czech: {{t+|cs|zavírat|impf}}, {{t+|cs|zavřít|pf}}
-* Dalmatian: {{t|dlm|seruar}}, {{t|dlm|inseruor}}
-* Danish: {{t+|da|lukke}}
-* Dutch: {{t+|nl|dichten}}, {{t+|nl|sluiten}}
-* Estonian: {{t|et|sulgema}}
-* Ewe: {{t|ee|xe}}
-* Extremaduran: {{t|ext|afechal}}
-* Faroese: {{t|fo|lata aftur}}, {{t|fo|loka}}, {{t|fo|steingja}}
-* Finnish: {{t+|fi|sulkea}}, {{t+|fi|kuroa}}, {{t+|fi|ummistaa}}, {{t|fi|[[panna]] [[umpeen]]}}, {{t|fi|[[laittaa]] [[umpeen]]}}
-* French: {{t+|fr|fermer}}, {{t+|fr|boucher}}, {{t+|fr|clore}}
-* Friulian: {{t|fur|sierâ}}
-* Galician: {{t+|gl|pechar}}
-* Georgian: {{t|ka|დახურვა|sc=Geor}}, {{t|ka|დაკეტვა|sc=Geor}}
-* German: {{t+|de|schließen}}, {{t+|de|zumachen}}
-* Greek: {{t+|el|κλείνω}}
-*: Ancient: {{t|grc|κλείω}}
-* Hebrew: {{t+|he|סָגַר|tr=sagár}}
-* Hindi: {{t|hi|बंद करना}}
-* Hungarian: {{t+|hu|becsuk}}
-* Indonesian: {{t+|id|menutup}}
-* Irish: {{t|ga|dún}}, {{t|ga|druid}}
-* Italian: {{t+|it|chiudere}}
-* Japanese: {{t+|ja|閉める|tr=しめる, shimeru|sc=Jpan}}, {{t+|ja|閉じる|tr=とじる, tojiru|sc=Jpan}}
-* Javanese: {{t+|jv|nutup}}
-* Kazakh: {{t+|kk|жабу|sc=Cyrl}}
-* Khmer: {{t+|km|បិទ|tr=bət|sc=Khmr}}
-* Korean: {{t+|ko|닫다}}, {{t+|ko|덮다}}
-* Kyrgyz: {{t|ky|жапуу}}
-* Lao: {{t|lo|ອັດ}}, {{t|lo|ປິດ}}
-* Latgalian: {{t|ltg|dataiseit}}
-* Latin: {{t|la|claudō}}
-{{trans-mid}}
-* Latvian: {{t|lv|aiztaisīt}}, {{t|lv|aizdarīt}}
-* Lithuanian: {{t|lt|uždaryti}}
-* Low German: {{t|nds|sluten}}, {{t|nds|slüten}}
-* Macedonian: {{t|mk|за́твори|sc=Cyrl}}
-* Malay: {{t|ms|tutup|alt=menutup}}
-* Maltese: {{t|mt|għalaq}}
-* Mongolian: {{t+|mn|хаах}}
-* Neapolitan: {{t|nap|chiure}}
-* Nepali: {{t|ne|बन्द गर्नु}}
-* Norman: {{t|nrf|freunmer}}
-* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|slütj}}
-* Norwegian: {{t|no|stenge}}
-* Occitan: {{t+|oc|barrar}}, {{t+|oc|tancar}}, {{t+|oc|sarrar}}
-* Oromo: {{t|om|cufuu}}
-* Persian: {{t+|fa|بستن|tr=bastan}}
-* Polish: {{t+|pl|zamykać|impf}}, {{t+|pl|zamknąć|pf}}
-* Portuguese: {{t+|pt|fechar}}
-* Quechua: {{t|qu|wicgai}}, {{t|qu|wisq'ay}}
-* Romanian: {{t+|ro|închide}}
-* Romansch: {{t|rm|serrar}}, {{t|rm|sarrar}}, {{t|rm|serrer}}, {{t|rm|sarar}}
-* Russian: {{t+|ru|закрыва́ть|impf}}, {{t+|ru|закры́ть|pf}}
-* Sardinian: {{t|sc|serrai}}, {{t|sc|serrare}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|затворити|pf}}
-*: Roman: {{t+|sh|zatvoriti|pf}}
-* Sicilian: {{t+|scn|chiùdiri}}, {{t+|scn|chiùjiri}}, {{t+|scn|chiùriri}}, {{t+|scn|jùjiri}}
-* Sidamo: {{t|sid|cufa}}
-* Sindhi: {{t|sd|بَندِ ڪَرَڻُ}}
-* Sinhalese: {{t|si|වහනවා|sc=Sinh}}
-* Slovak: {{t|sk|zatvárať|impf}}, {{t|sk|zatvoriť|pf}}, {{t|sk|zavrieť|pf}}
-* Slovene: {{t+|sl|zapreti|pf}}
-* Spanish: {{t+|es|cerrar}}, {{t+|es|tapar}}, {{t+|es|clausurar}}
-* Swahili: {{t+|sw|funga}}
-* Swedish: {{t+|sv|stänga}}
-* Tajik: {{t+|tg|бастан|sc=Cyrl}}, {{t|tg|пӯшидан|sc=Cyrl}}
-* Tamil: {{t+|ta|மூடு}}
-* Telugu: {{t+|te|మూయు}}
-* Thai: {{t+|th|ปิด}}
-* Tibetan: {{t-needed|bo}}
-* Tok Pisin: {{t|tpi|pasim}}
-* Turkish: {{t+|tr|kapatmak}}
-* Turkmen: {{t|tk|ýapmak}}, {{t|tk|örtmek}}
-* Ugaritic: {{t|uga|𐎒𐎂𐎗}}
-* Ukrainian: {{t|uk|зачиня́ти|impf}}, {{t|uk|зачини́ти|pf}}, {{t|uk|закрива́ти|impf}}, {{t|uk|закри́ти|pf}}
-* Urdu: {{t|ur|بند کرنا|tr=band karnā|sc=ur-Arab}}
-* Uyghur: {{t|ug|يۇمماق}}
-* Uzbek: {{t+|uz|yopmoq}}, {{t+|uz|bekitmoq}}
-* Venetian: {{t|vec|serar}}, {{t|vec|sarar}}
-* Vietnamese: {{t+|vi|đóng}}
-* Welsh: {{t+|cy|cau}}
-* White Hmong: {{t|mww|kaw}}
-* Yiddish: {{t|yi|שליסן|sc=Hebr}}, {{t|yi|פֿאַרמאַכן}}
-* Zhuang: {{t-needed|za}}
-{{trans-bottom}}
-
-{{trans-top|move (a door)}}
-* Afrikaans: {{t|af|toemaak}}
-* Amis: {{t|ami|'edef}}
-* Arabic: {{t|ar|أَغْلَقَ}}
-*: Egyptian Arabic: {{t|arz|قفل|tr=qafal|sc=Arab}}
-* Armenian: {{t+|hy|փակել}}
-* Azerbaijani: {{t+|az|bağlamaq}}, {{t+|az|örtmək}}
-* Basque: {{t|eu|itxi}}
-* Belarusian: {{t|be|зачыня́ць|impf}}, {{t|be|зачыні́ць|pf}}
-* Bengali: {{t|bn|বন্ধ করা}}
-* Breton: {{t+|br|serriñ}}
-* Bulgarian: {{t+|bg|затва́рям|impf}}
-* Central Atlas Tamazight: {{t|tzm|ⵇⵇⵏ}}
-* Cherokee: {{t|chr|ᎠᏍᏚᎲᏍᎦ}}
-* Chinese:
-*: Cantonese: {{t+|yue|關|sc=Hani}}, {{t|yue|关|tr=gwaan1|sc=Hani}}
-*: Mandarin: {{t+|cmn|關|sc=Hani}}, {{t+|cmn|关|tr=guān|sc=Hani}}, {{t+|cmn|閉|sc=Hani}}, {{t+|cmn|闭|tr=bì|sc=Hani}}, {{t+|cmn|關閉|sc=Hani}}, {{t+|cmn|关闭|tr=guānbì|sc=Hani}}
-* Czech: {{t+|cs|zavírat|impf}}, {{t+|cs|zavřít|pf}}
-* Danish: {{t+|da|lukke}}
-* Dutch: {{t+|nl|sluiten}}, {{t+|nl|dichtdoen}}
-* Esperanto: {{t+|eo|fermi}}
-* Estonian: {{t|et|sulgema}}
-* Ewe: {{t|ee|tu}}
-* Finnish: {{t+|fi|sulkea}}, {{t|fi|[[laittaa]] [[kiinni]]}}, {{t|fi|[[panna]] [[kiinni]]}}
-* French: {{t+|fr|fermer}}
-* Galician: {{t+|gl|pechar}}
-* Georgian: {{t|ka|დახურვა|sc=Geor}}
-* German: {{t+|de|schließen}}, {{t+|de|zumachen}}
-* Hebrew: {{t+|he|סָגַר|tr=sagár}}
-* Hindi: {{t|hi|बंद करना|sc=Deva}}
-* Hungarian: {{t+|hu|becsuk}}
-* Ido: {{t+|io|klozar}}
-* Indonesian: {{t+|id|tutup}}
-* Interlingua: {{t|ia|clauder}}
-* Irish: {{t|ga|dún}}, {{t|ga|druid}}
-* Italian: {{t+|it|chiudere}}
-* Japanese: {{t+|ja|閉める|tr=しめる, shimeru}} {{qualifier|transitive}}, {{t+|ja|閉まる|tr=しまる, shimaru}} {{qualifier|intransitive}}, {{t+|ja|閉じる|tr=とじる, tojiru}} {{qualifier|transitive}}
-* Khmer: {{t-needed|km}}
-* Korean: {{t+|ko|닫다}}
-* Kurdish:
-*: Central Kurdish: {{t+|ckb|داخستن}}
-* Lao: {{t-needed|lo}}
-{{trans-mid}}
-* Latin: {{t|la|claudō}}
-* Latvian: {{t|lv|aizvērt}}, {{t|lv|aiztaisīt}}, {{t|lv|aizdarīt}}
-* Lithuanian: {{t|lt|uždaryti}}
-* Low German: {{t|nds|sluten}}, {{t|nds|slüten}}, {{t|nds|tomaken}}, {{t|nds|tomoken}}, {{t|nds|dichtmaken}}, {{t|nds|dichtmoken}}
-* Luxembourgish: {{t|lb|zoumaachen}}, {{t|lb|schléissen}}
-* Malay: {{t|ms|menutup}}
-* Maltese: {{t|mt|agħlaq}}
-* Maore Comorian: {{t|swb|ɓala|alt=uɓala}}
-* Maori: {{t|mi|pā}}
-* Nepali: {{t|ne|बन्द गर्नु}}
-* Norman: {{t|nrf|freunmer}}
-* Norwegian: {{t+|no|lukke}}, {{t|no|stenge}}
-* Occitan: {{t+|oc|barrar}}, {{t+|oc|tancar}}, {{t+|oc|tampar}}
-* Persian: {{t+|fa|بستن|tr=bastan|sc=fa-Arab}}
-* Polish: {{t+|pl|zamykać|impf}}, {{t+|pl|zamknąć|pf}}
-* Portuguese: {{t+|pt|fechar}}, {{t+|pt|cerrar}}
-* Quechua: {{t|qu|wichq'ay}}
-* Romanian: {{t+|ro|închide}}
-* Romansch: {{t|rm|serrar}}
-* Russian: {{t+|ru|закрыва́ть|impf}}, {{t+|ru|закры́ть|pf}}
-* Scottish Gaelic: {{t|gd|dùin}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|затворити|pf|sc=Cyrl}}
-*: Latin: {{t+|sh|zatvoriti|pf|sc=Latn}}
-* Slovak: {{t|sk|zatvárať|impf}}, {{t|sk|zatvoriť|pf}}, {{t|sk|zavrieť|pf}}
-* Slovene: {{t+|sl|zapréti}}
-* Spanish: {{t+|es|cerrar}}
-* Swahili: {{t+|sw|funga}}
-* Swedish: {{t+|sv|stänga}}
-* Tagalog: {{t+|tl|sara}}
-* Telugu: {{t+|te|మూయు}}
-* Thai: {{t+|th|งับ}}, {{t+|th|หุบ}}, {{t+|th|ปิด}}
-* Tibetan: {{t-needed|bo}}
-* Turkish: {{t+|tr|kapatmak}}, {{t+|tr|örtmek}}, {{t+|tr|kitlemek}}
-* Ukrainian: {{t|uk|зачиня́ти|impf}}, {{t|uk|зачини́ти|pf}}
-* Urdu: {{t|ur|بند کرنا|tr=band karnā|sc=ur-Arab}}
-* Vietnamese: {{t+|vi|đóng}}
-* Waray-Waray: {{t|war|sadhi}}, {{t|war|sarhi}}
-* Welsh: {{t+|cy|cau}}
-* White Hmong: {{t-needed|mww}}
-* Yiddish: {{t|yi|שליסן|sc=Hebr}}
-* Zhuang: {{t-needed|za}}
-{{trans-bottom}}
-
-{{trans-top|close (one's eyes)}}
-* Azerbaijani: {{t+|az|yummaq}}
-* Bengali: {{t|bn|বন্ধ করা}}
-* Cherokee: {{t|chr|ᏓᎦᏔᏍᏗᎭ}}
-* Chinese:
-*: Cantonese: {{t|yue|瞇埋眼|tr=mei1 maai4|alt=瞇埋|sc=Hani}}
-*: Mandarin: {{t+|cmn|閉上|sc=Hani}}, {{t+|cmn|闭上|tr=bìshang|sc=Hani}}
-* Danish: {{t+|da|lukke}}
-* Dutch: {{t+|nl|sluiten}}
-* Finnish: {{t+|fi|sulkea}}, {{t+|fi|ummistaa}}
-* French: {{t+|fr|fermer}}
-* German: {{t+|de|schließen}}
-* Hungarian: {{t+|hu|lehuny}}
-{{trans-mid}}
-* Japanese: {{t+|ja|閉じる|tr=とじる, tojiru|sc=Jpan}}
-* Malay: {{t|ms|pejam}}
-* Maori: {{t|mi|whakamoe}}
-* Ngazidja Comorian: {{t|zdj|funya|alt=ufunya}}
-* Norwegian: {{t+|no|lukke}}
-* Swedish: {{t+|sv|sluta}}
-* Thai: {{t+|th|หลับ}}
-* Ukrainian: {{t|uk|заплю́щувати|impf}}, {{t+|uk|стуля́ти|impf}}
-* Vietnamese: {{t+|vi|nhắm}}
-* Welsh: {{t+|cy|cau}}
-* Western Bukidnon Manobo: {{t|mbb|lipezeng}}
-{{trans-bottom}}
-
-{{trans-top|put an end to}}
-* Armenian: {{t+|hy|փակել}}
-* Azerbaijani: {{t+|az|bağlamaq}}, {{t|az|[[son]] [[qoymaq]]}}, {{t|az|qapatmaq}}
-* Bulgarian: {{t+|bg|приключвам}}, {{t+|bg|закривам}}
-* Danish: {{t|da|afslutte}}
-* Dutch: {{t+|nl|sluiten}}, {{t+|nl|beëindigen}}
-* Esperanto: {{t+|eo|fermi}}, {{t|eo|fini}}
-* Finnish: {{t+|fi|lopettaa}}, {{t+|fi|sulkea}}, {{t+|fi|päättää}}
-* French: {{t+|fr|clore}}, {{t|fr|mettre fin à}}, {{t+|fr|terminer}}, {{t+|fr|conclure}}, {{t+|fr|finir}}
-* Galician: {{t+|gl|rematar}}, {{t+|gl|terminar}}, {{t|gl|pór fin}}
-* German: {{t+|de|schließen}}, {{t+|de|beenden}}
-* Hebrew: {{t+|he|סָגַר|tr=sagár}}
-* Indonesian: {{t+|id|tutup}}
-* Interlingua: {{t|ia|clauder}}, {{t|ia|concluder}}, {{t|ia|terminar}}
-* Italian: {{t+|it|concludere}}, {{t+|it|terminare}}, {{t+|it|chiudere}}
-* Japanese: {{t+|ja|閉める|tr=しめる, shimeru}} {{qualifier|transitive}}, {{t+|ja|閉まる|tr=しまる, shimaru}} {{qualifier|intransitive}}, {{t+|ja|閉じる|tr=とじる, tojiru}} {{qualifier|transitive}}
-* Latvian: {{t|lv|slēgt}}
-* Low German: {{t|nds|sluten}}, {{t|nds|slüten}}
-{{trans-mid}}
-* Maltese: {{t|mt|temm}}
-* Maori: {{t|mi|whakamutu}}, {{t|mi|whakaoti}}
-* Norman: {{t|nrf|finni}}
-* Norwegian: {{t+|no|avslutte}}
-* Polish: {{t+|pl|zamknąć}}, {{t+|pl|zamykać}}
-* Portuguese: {{t+|pt|fechar}}, {{t+|pt|encerrar}}, {{t+|pt|concluir}}, {{t+|pt|terminar}}
-* Romanian: {{t+|ro|termina}}, {{t+|ro|finisa}}
-* Romansch: {{t|rm|finir}}
-* Russian: {{t+|ru|закрыва́ть|impf}}, {{t+|ru|закры́ть|pf}}, {{t+|ru|зака́нчивать|impf}}, {{t+|ru|зако́нчить|pf}}, {{t+|ru|заверша́ть|impf}}, {{t+|ru|заверши́ть|pf}}
-* Spanish: {{t+|es|cerrar}}, {{t+|es|terminar}}, {{t+|es|concluir}}, {{t+|es|finalizar}}
-* Swahili: {{t+|sw|funga}}
-* Swedish: {{t+|sv|avsluta}}
-* Telugu: {{t+|te|ముగించు}}
-* Turkish: {{t+|tr|kapatmak}}
-* Waray-Waray: {{t|war|tapuson}}
-* Yiddish: {{t|yi|שליסן|sc=Hebr}}
-{{trans-bottom}}
-
-{{trans-top|to make smaller}}
-* Azerbaijani: {{t+|az|azaltmaq}}, {{t|az|qısaltmaq}}
-* Dutch: {{t+|nl|verkleinen}}
-* Finnish: {{t+|fi|pienentää}}, {{t+|fi|kaventaa}}, {{t+|fi|kiristää}}, {{t+|fi|tiivistää}} {{q|close ranks}}
-* Italian: {{t+|it|accorciare}}, {{t+|it|ridurre}}
-{{trans-mid}}
-* Russian: {{t+|ru|сокраща́ть|impf}}, {{t+|ru|сократи́ть|pf}}
-* Spanish: {{t+|es|achicar}}, {{t+|es|acercarse}}, {{t+|es|acortar}}
-* Swahili: {{t+|sw|funga}}
-{{trans-bottom}}
-
-{{trans-top|surveying: to have a vector sum of 0}}
-* Finnish: {{t+|fi|sulkeutua}}
-{{trans-mid}}
-* Swahili: {{t+|sw|funga}}
-{{trans-bottom}}
-
-{{trans-top|to make a sale}}
-* Finnish: {{t|fi|[[päättää]] ([[kauppa]])}}, {{t|fi|tehdä kaupat}}, {{t+|fi|myydä}}
-* French: {{t+|fr|conclure}}
-* Italian: {{t+|it|concludere}}, {{t+|it|chiudere}}
-{{trans-mid}}
-* Spanish: {{t+|es|cerrar}}, {{t+|es|concluir}}
-* Swahili: {{t+|sw|funga}}
-{{trans-bottom}}
+:'''shut a door'''
+:*[[Dutch]]: [[sluiten]]
+:*[[Esperanto]]: [[fermi]]
+:*[[Finnish]]: [[sulkea]]
+:*{{fr}}: [[fermer]]
+:*German: [[schliessen]]
+:*Hebrew: [[סגור]] (Sa'gur)
+:*{{io}}: Klozar
+:*Indonesian: [[tutup]]
+:*[[Interlingua]]: [[clauder]]
+:*{{it}}: [[chiudere]]
+:*Japanese: [[閉じる]] ([[とじる]], tojiru), [[閉める]] ([[しめる]], shimeru)
+:*[[Korean]]: [[닫다]] (datda)
+:*Norwegian: [[lukke]], [[stenge]]
+:*Portuguese: [[fechar]], [[cerrar]]
+:*{{ru}}: [[закрыть]]
+:*Spanish: [[cerrar]]
+:*Swedish: [[stänga]]
+:'''End a session'''
+:*[[Dutch]]: [[sluiten]], [[beëindigen]]
+:*[[Esperanto]]: [[fermi]], [[fini]]
+:*Finnish: [[lopettaa]], [[sulkea]]
+:*French: [[clore]], [[mettre fin à]]
+:*Hebrew: [[לסגור]] (Li'sgor)
+:*Indonesian: [[tutup]]
+:*[[Interlingua]]: [[clauder]], [[concluder]], [[terminar]]
+:*Italian: [[concludere]], [[terminare]]
+:*Japanese: [[閉じる]] ([[とじる]], tojiru), [[閉める]] ([[しめる]], shimeru)
+:*[[Norwegian]]: [[avslutte]]
+:*[[Portuguese]]: [[fechar]], [[encerrar]], [[concluir]], [[terminar]]
+:*[[Swedish]]: [[avsluta]]
 
 ====Noun====
-{{en-noun}}
+'''close'''
+#the [[end]] of something
+#:''We owe them our thanks for bringing the project to a successful '''close'''.''
 
-# An [[end]] or [[conclusion]].
-#: ''We owe them our thanks for bringing the project to a successful '''close'''.''
-#* {{RQ:Macaulay Atterbury|His long and troubled life was drawing to a '''close'''.}}
-# The manner of shutting; the union of parts; junction.
-#* {{RQ:Homer Chapman Odysseys|passage=The doors of plank were; their '''close''' exquisite.}}
-# {{lb|en|sales}} The point at the end of a [[sales pitch]] when the consumer is asked to buy.
-#: {{synonyms|en|closer}}
-#* '''1983''', Charles B. Roth, Roy Alexander, ''Secrets of Closing Sales'' (page 110)
-#*: Regardless of the situation, the minute you feel it's time for the '''close''', try it.
-# A [[grapple]] in [[wrestling]].
-#*{{RQ:Shakespeare Henry 4-1|1|1|passage=The intestine shocke, And furious '''cloze''' of ciuill Butchery.}}
-# {{lb|en|music}} The conclusion of a [[strain]] of [[music]]; [[cadence]].
-#* {{RQ:Dryden Fables|The Flower and the Leaf}}
-#*: At every '''close''' she made, the attending throng / Replied, and bore the burden of the song.
-# {{lb|en|music}} A [[double]] [[bar]] marking the end.
-# {{lb|en|aviation|travel}} The time when checkin staff will no longer accept passengers for a flight.
-
-=====Synonyms=====
-* {{sense|end}} {{l|en|end}}, {{l|en|finale}}
-
-=====Antonyms=====
-* {{sense|end}} {{l|en|beginning}}, {{l|en|start}}
-
-=====Derived terms=====
-{{der2|en|close of business|close of play|come to a close|sell past the close|close season|close time|letters close}}
-
-=====Translations=====
-{{trans-top|end or conclusion}}
-* Bulgarian: {{t+|bg|край|m}}, {{t+|bg|завършек|m}}, {{t+|bg|закриване|n}}
-* Finnish: {{t+|fi|päätös}}, {{t+|fi|loppu}}, {{t+|fi|maali}} {{q|successful close}}
-* French: {{t+|fr|fin|f}}, {{t+|fr|conclusion|f}}, {{t+|fr|achèvement|m}}
-* Italian: {{t+|it|fine|f}}, {{t+|it|conclusione|f}}
-* Kurdish:
-*: Central Kurdish: {{t+|ckb|کۆتایی}}
-{{trans-mid}}
-* Latin: {{t|la|clausula|f}}
-* Maori: {{t|mi|mutunga}}, {{t|mi|whakaotinga}}
-* Portuguese: {{t+|pt|conclusão|f}}, {{t+|pt|fechamento|m}}
-* Russian: {{t+|ru|закры́тие|n}}, {{t+|ru|заверше́ние|n}}, {{t+|ru|оконча́ние|n}}
-* Spanish: {{t+|es|fin|m}}, {{t+|es|conclusión|f}}, {{t+|es|cierre|m}}
-* Swahili: {{t+|sw|funga}}
-* Swedish: {{t+|sv|slut|n}}
-{{trans-bottom}}
-
-===Etymology 2===
-{{root|en|ine-pro|*(s)kleh₂w-}}
-Borrowed from {{bor|en|fr|clos}}, from {{der|en|la|clausum}}, participle of {{m|la|claudō}}.
+===Etymology===
+Latin ''[[clausus]]''
 
 ====Pronunciation====
-* {{a|RP}} {{enPR|klōs}}, {{IPA|en|/kləʊs/}}
-* {{a|GA}} {{IPA|en|/kloʊs/}}
-* {{audio|en<!--this is the adjective with /s/, not the verb with /z/-->|en-uk-close.ogg|Audio (UK)}}
-* {{audio|en|en-us-close-adj.ogg|Audio (US)}}
-* {{rhymes|en|əʊs|s=1}}
+/ˈkləʊs/
+*{{audio|en-us-close-adj.ogg|Audio (US)}}
 
-====Adjective====
-{{en-adj|er}}
-
-# {{senseid|en|closed shut}}{{lb|en|now|rare}} [[closed|Closed]], [[shut]].
-#* {{RQ:Tyndale NT|Matthew|8|text=There is nothinge so '''close''', that shall not be openned, and nothinge so hyd that shall not be knowen.}}
-#* '''1830''', {{w|Thomas Thomson (chemist)}} ''The History of Chemistry'', Vol. 1, pp. 30-31:
-#*: As the alchymists were assiduous workmen—as they mixed all the metals, salts, &c... and subjected such mixtures to the action of heat in '''close''' vessels, their labours were occasionally repaid by the discovery of new substances...
-#* {{RQ:Charlotte Bronte Jane Eyre|chapter=1|text=I mounted into the window-seat: gathering up my feet, I sat cross-legged, like a Turk; and, having drawn the red [[moreen]] curtain nearly '''close''', I was [[shrine]]d in double retirement.}}
-# Narrow; confined.
-#: {{ux|en|a '''close''' alley; '''close''' quarters}}
-#* {{RQ:Dickens Pickwick Papers|41|text=a '''close''' prison}}
+==== Adjective ====
+'''close'''  ({{compar}}: [[closer]], {{superl}}: [[closest]])
 # At a little distance; [[near]].
-#* {{RQ:Maxwell Mirror and the Lamp|chapter=7|passage={{...}} St. Bede's at this period of its history was perhaps the poorest and most miserable parish in the East End of London. '''Close'''-packed, crushed by the buttressed height of the railway viaduct, rendered airless by huge walls of factories, it at once banished lively interest from a stranger's mind and left only a dull oppression of the spirit.}}
-#* {{quote-journal|en|date=2013-06-01|volume=407|issue=8838|page=71|magazine={{w|The Economist}}| title=[http://www.economist.com/news/finance-and-economics/21578670-peer-peer-lending-needs-new-name-end-peer-show End of the peer show]| passage=Finance is seldom romantic. But the idea of peer-to-peer lending comes '''close'''. This is an industry that brings together individual savers and lenders on online platforms. Those that want to borrow are matched with those that want to lend.}}
-#: {{ux|en|Is your house '''close'''?}}
-# Intimate; well-loved.
-#: {{ux|en|He is a '''close''' friend.}}
-## {{lb|en|legal}} Of a corporation or other business entity, [[closely held]].
-# Oppressive; without motion or ventilation; causing a feeling of [[lassitude]].
-#* {{RQ:Bacon Sylva Sylvarum|passage=If the rooms be low-roofed, or full of windows and doors, the one maketh the air '''close''', [...] and the other maketh it exceeding unequal.}}
-#* {{quote-book|en|year=1921|author={{w|P. G. Wodehouse}}|title={{w|Indiscretions of Archie}}|chapter=X| passage=He sighed drowsily. The atmosphere of the auction room was '''close'''; you weren't allowed to smoke; and altogether he was beginning to regret that he had come.}}
-# {{lb|en|Ireland|UK|weather}} Hot, [[humid]], with no [[wind]].
-# {{senseid|en|linguistics}} {{lb|en|linguistics|phonetics|of a vowel}} Articulated with the tongue body relatively close to the hard palate.
-# Strictly confined; carefully guarded.
-#: {{ux|en|a '''close''' prisoner}}
-# {{lb|en|obsolete}} Out of the way of observation; secluded; secret; hidden.
-#* {{RQ:KJV|1 Chronicles|12|1|text=He yet kept himself '''close''' because of Saul.}}
-#* {{RQ:Spenser Faerie Queene|book=III|canto=I|stanza=57|passage=her '''close''' intent}}
-# Nearly equal; almost evenly balanced.
-#: {{ux|en|a '''close''' contest}}
-# Short.
-#: {{ux|en|to cut grass or hair '''close'''}}
-# {{lb|en|archaic}} Dense; solid; compact.
-#* {{RQ:Locke Human Understanding|text=The golden globe being put into a press, [...] the water made itself way through the pores of that very '''close''' metal.}}
-# {{lb|en|archaic}} Concise; to the point.
-#: {{ux|en|'''close''' reasoning}}
-#* '''1690''', {{w|John Dryden}}, ''Translations'' (Preface)
-#*: Where the original is '''close''' no version can reach it in the same compass.
-# {{lb|en|dated}} Difficult to obtain.
-#* {{quote-journal|en|year=1886|work=United States Congressional Serial Set |title=Leases of Lands in the Indian Territory|author=|volume=2362|page=184|passage=Some of these parties have not paid their last payment, because money was '''close''' last fall.}}
-#* {{quote-book|en|year=1903| title=Gunton's Magazine of American Economics and Political Science|author=| page=249| passage=We are told out West that the reason money is so '''close''' now is because so large an amount has been invested in real estate. I cannot understand why that would make any difference if that money has been sent from one section of the country into another for the purpose of buying real estate. Why should it make any difference as to money being '''close'''? We are told in the East large amounts have been invested in the large manufacturing plants, such as the steel plants, etc. but if the money has been invested there it has simply changed hands, and why should that make any difference?}}
-#* {{quote-book|en|year=1965 | title=Country Life - Volume 137 |author=| page=326| passage=But there is reason underlying this confusion: time as well as money is '''close''' these days and a small wardrobe of hats can be very boring.}}
-#: {{ux|en|Money is '''close'''.}}
-# {{lb|en|dated}} Parsimonious; stingy.
-#* {{RQ:Keats Lamia|poem=Isabella|stanza=XVII|page=57|passage=Yet were these Florentines as self-retired / In hungry pride and gainful cowardice, / As two '''close''' Hebrews in that land inspired, / Paled in and vineyarded from beggar-spies; [...]}}
-#* '''1837''', {{w|Nathaniel Hawthorne}}, ''Twice-Told Tales'', Volume I: "Mr. Higginbotham's Catastrophe":
-#*: [...] he was a crusty old fellow, as '''close''' as a vice.
-#* {{RQ:Dickens Bleak House|passage=Though a hard-grained man, '''close''', dry, and silent, he can enjoy old wine with the best. He has a priceless bin of port in some artful cellar under the Fields, which is one of his many secrets.}}
-# Adhering strictly to a standard or original; exact.
-#: {{ux|en|a '''close''' translation; a '''close''' copy}}
-# Accurate; careful; precise; also, attentive; undeviating; strict.
-#: {{ux|en|The patient was kept under '''close''' observation.}}
-#* {{RQ:Locke Conduct||page=90|url=https://books.google.com/books?id=o0EVAAAAQAAJ&newbks=1&newbks_redir=0&pg=PA90#v=onepage&q&f=false|text=I must acknowledge that hitherto I have discover’d no other way to keep our Thoughts '''cloſe''' to their Buſineſs, but the endeavouring as much as we can, and by frequent Attention and Application, getting the habit of Attention and Application.}}
-# Marked, evident.
+#:"He is a '''close''' friend."
 
-=====Synonyms=====
-* {{sense|at a little distance}} {{l|en|close by}}, {{l|en|near}}, {{l|en|nearby}}; see also [[Thesaurus:near]]
-* {{sense|intimate}} {{l|en|intimate}}
-* {{sense|hot, humid}} {{l|en|muggy}}, {{l|en|oppressive}}; see also [[Thesaurus:muggy]]
-* {{sense|articulated with the tongue body relatively close to the hard palate}} {{l|en|high}}
-* {{sense|dense, solid, compact}} see also [[Thesaurus:compact]]
+=====Antonym=====
+*[[far]]
 
-=====Antonyms=====
-* {{sense|at a little distance}} {{l|en|distant}}, {{l|en|far}}, {{l|en|faraway}}, {{l|en|far off}}, {{l|en|remote}}; see also [[Thesaurus:distant]]
-* {{sense|intimate}} {{l|en|aloof}}, {{l|en|cool}}, {{l|en|distant}}
-* {{sense|articulated with the tongue body relatively close to the hard palate}} {{l|en|open}}
+====Related terms====
+*[[closely]]
 
-=====Hyponyms=====
-* {{l|en|thisclose}}
-* {{l|en|ultra-close}}
-
-=====Derived terms=====
-{{der3|en
-|close, but no cigar
-|close call
-|close-coupled
-|closely
-|close-minded
-|closeness
-|close shave
-|close-up
-|close with a buck
-|close as wax|close at hand|close combat|close encounter|close enough|close only counts in horseshoes|close only counts in horseshoes and darts|close only counts in horseshoes and hand grenades|close order|close protection|close quarters|close range|close reach|close thing|close to|close to home|close to one's heart|close to one's vest|close to the bone|close to the vest|close to the wind|close together|close-bodied|close-cropped|close-fitting|close-knit|close-mid|close-range|close-run|close-serried|close-set|close-winded|cut it close|fly too close to the sun|hit too close to home|in close neighbourhood|keep a close watch|keep one's cards close to one's chest|play it close to the hip|sail close to the wind|too close for comfort|too close to call|up close|close on the heels of|close-packed|close-packing|close-quarter|close-tiled|close-mid|close-hauled|couple-close|close helm|close helmet|close quarter|close quarters|close-fights|close-fisted|close borough|closehanded}}
-
-=====Translations=====
-{{trans-top|at a little distance}}
-* Albanian: {{t+|sq|afërt|alt=i afërt}}
-* Arabic: {{t|ar|قَرِيب}}
-*: Egyptian Arabic: {{t|arz|قُرَيِّب|m|tr=ʾorayyeb}}
-*: Hijazi Arabic: {{t|acw|قَرِيب|tr=garīb}}
-* Armenian: {{t+|hy|մոտ}}, {{t+|hy|մոտիկ}}
-* Aromanian: {{t|rup|aproapea}}, {{t|rup|aproapi}}
-* Azerbaijani: {{t+|az|yaxın}}
-* Bashkir: {{t|ba|яҡын|sc=Cyrl}}
-* Belarusian: {{t|be|блі́зкі|sc=Cyrl}}, {{t|be|блі́жні|sc=Cyrl}}
-* Bouyei: {{t|pcc|jaec}}
-* Breton: {{t+|br|tost}}
-* Bulgarian: {{t+|bg|бли́зък|sc=Cyrl}}, {{t+|bg|бли́жен|sc=Cyrl}}
-* Burmese: {{t+|my|နီး|sc=Mymr}}
-* Catalan: {{t+|ca|pròxim}}
-* Chinese:
-*: Cantonese: {{t|yue|近|tr=kan5}}
-*: Mandarin: {{t+|cmn|近|tr=jìn}}
-* Crimean Tatar: {{t|crh|yaqın}}
-* Czech: {{t+|cs|blízký|m}}
-* Danish: {{t|da|nær}}
-* Dutch: {{t+|nl|nabije}}, {{t+|nl|dichtbij}}
-* Esperanto: {{t+|eo|proksima}}
-* Estonian: {{t|et|lähedal}}
-* Finnish: {{t+|fi|läheinen}}, {{t+|fi|lähellä}} {{q|e.g. onko talosi lähellä?}}, {{t+|fi|liki}}, {{t+|fi|likeinen}}
-* French: {{t+|fr|proche|m|f}}, {{t+|fr|près}}
-* Georgian: {{t|ka|ახლო|sc=Geor}}, {{t|ka|ახლოს|sc=Geor}}, {{t|ka|მახლობლად|sc=Geor}}
-* German: {{t+|de|nah}}
-* Gothic: {{t|got|𐌽𐌴𐍈}}
-* Haitian Creole: {{t|ht|pwòch}}
-* Hebrew: {{t+|he|קָרוֹב|m|tr=karóv}}, {{t|he|קְרוֹבָה|f|tr=k'rová}}
-* Hindi: {{t+|hi|पास|sc=Deva}}
-* Ido: {{t+|io|proxim}}
-* Indonesian: {{t+|id|dekat}}
-* Interlingua: {{t|ia|proxime}}, {{t|ia|vicin}}
-* Irish: {{t|ga|dlúth}}
-* Isan: {{t-needed|tts}}
-* Italian: {{t+|it|vicino|m}}, {{t+|it|vicina|f}}
-* Japanese: {{t+|ja|近い|tr=[[ちかい]], chikai}}
-* Kazakh: {{t+|kk|жақын|sc=Cyrl}}
-* Khmer: {{t+|km|ជិត|tr=jɨt|sc=Khmr}}
-* Korean: {{t+|ko|가깝다}}
-* Kurdish:
-*: Central Kurdish: {{t+|ckb|نزیک}}
-*: Northern Kurdish: {{t+|kmr|nêzik}}
-* Kyrgyz: {{t+|ky|жакын|sc=Cyrl}}
-* Lao: {{t+|lo|ໃກ້}}
-* Latgalian: {{t|ltg|tyvs|m}}, {{t|ltg|tiveims|m}}
-{{trans-mid}}
-* Latvian: {{t|lv|tuvs}}
-* Lithuanian: {{t|lt|artimas}}
-* Lü: {{t-needed|khb}}
-* Macedonian: {{t|mk|бли́зок|sc=Cyrl}}
-* Malay: {{t+|ms|dekat}}
-* Maltese: {{t+|mt|qrib}}
-* Maori: {{t|mi|tata}}, {{t|mi|piritahi}}
-* Nepali: {{t|ne|नजिक}}
-* Norwegian:
-*: Bokmål: {{t+|nb|nær}}
-*: Nynorsk: {{t|nn|nær}}
-* Occitan: {{t+|oc|prèp}}
-* Old English: {{t|ang|nēah}}, {{t|ang|ġehende}}
-* Persian: {{t+|fa|نزدیک|tr=nazdik|sc=fa-Arab}}, {{t+|fa|قریب|tr=qarib|sc=fa-Arab}}
-* Polish: {{t+|pl|bliski}}
-* Portuguese: {{t+|pt|próximo}}, {{t+|pt|vizinho}}, {{t+|pt|perto}}
-* Quechua: {{t|qu|kaylla}}
-* Romanian: {{t+|ro|aproape}}
-* Russian: {{t+|ru|бли́зкий}}, {{t+|ru|бли́жний}}
-* Scottish Gaelic: {{t|gd|dlùth}}, {{t|gd|faisg}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|бли̏зак}}
-*: Roman: {{t+|sh|blȉzak}}
-* Shan: {{t-needed|shn}}
-* Slovak: {{t|sk|blízky}}
-* Slovene: {{t+|sl|bližnji}}
-* Sorbian:
-*: Lower Sorbian: {{t|dsb|bliski}}
-* Spanish: {{t+|es|cercano}}, {{t+|es|cerca}} {{qualifier|predicative}}
-* Swahili: {{t+|sw|fungu}}
-* Swedish: {{t+|sv|nära}}
-* Tajik: {{t+|tg|наздик|sc=Cyrl}}, {{t+|tg|қариб|sc=Cyrl}}
-* Tamil: {{t-needed|ta}}
-* Tatar: {{t+|tt|якын|sc=Cyrl}}
-* Tetum: {{t|tet|besik}}
-* Thai: {{t+|th|ใกล้}}
-* Turkish: {{t+|tr|yakın}}
-* Turkmen: {{t|tk|ýakyn}}
-* Ukrainian: {{t+|uk|бли́зький|sc=Cyrl}}, {{t+|uk|бли́жній|sc=Cyrl}}
-* Uzbek: {{t+|uz|yaqin}}
-* Vietnamese: {{t+|vi|gần}}
-* Welsh: {{t+|cy|agos}}
-* Yiddish: {{t|yi|נאָענט|sc=Hebr}}
-* Zhuang: {{t|za|gaenh}}, {{t|za|gyawj}}
-{{trans-bottom}}
-
-{{trans-top|intimate}}
-* Armenian: {{t+|hy|մոտիկ}}
-* Bashkir: {{t|ba|яҡын|sc=Cyrl}}
-* Bulgarian: {{t+|bg|бли́зък}}
-* Czech: {{t+|cs|blízký|m}}
-* Esperanto: {{t|eo|korligita}}
-* Finnish: {{t+|fi|läheinen}}, {{t+|fi|rakas}}
-* French: {{t+|fr|proche}}
-* Italian: {{t+|it|intimo}}
-{{trans-mid}}
-* Korean: {{t+|ko|친하다}}
-* Maori: {{t|mi|taupiri}}, {{t|mi|whakaawhiawhi}}
-* Polish: {{t+|pl|bliski}}
-* Portuguese: {{t+|pt|próximo}}
-* Russian: {{t+|ru|бли́зкий}}
-* Scottish Gaelic: {{t|gd|dlùth}}
-* Spanish: {{t+|es|cercano}}, {{t+|es|íntimo}}
-* Swahili: {{t+|sw|fungu}}
-* Turkish: {{t+|tr|yakın}}
-* Ukrainian: {{t+|uk|близьки́й}}
-{{trans-bottom}}
-
-{{trans-top|hot and humid or muggy}}
-* Bashkir: {{t|ba|тынсыу|sc=Cyrl}}
-* Dutch: {{t+|nl|zwoel}}, {{t+|nl|drukkend}}
-* Finnish: {{t+|fi|nihkeä}}, {{t+|fi|tukala}}
-* French: {{t+|fr|lourd}}
-* German: {{t+|de|schwül}}, {{t+|de|drückend}}
-{{trans-mid}}
-* Maori: {{t|mi|korire}}, {{t|mi|tūāhuru}}
-* Welsh: {{t+|cy|mwll}}, {{t|cy|mwrn}}, {{t+|cy|trymaidd}}
-{{trans-bottom}}
-
-====Noun====
-{{en-noun}}
-
-# {{lb|en|now|rare|chiefly Yorkshire}} An enclosed [[field]].
-# {{lb|en|chiefly British}} A [[street]] that ends in a [[dead end]].
-# {{lb|en|Scotland}} A very narrow [[alley]] between two buildings, often [[overhang|overhung]] by one of the buildings above the ground floor.
-# {{lb|en|Scotland}} The common staircase in a [[tenement]].
-# A [[cathedral close]].
-#* {{RQ:Macaulay History of England|chapter=3|passage='''closes''' surrounded by the venerable abodes of deans and canons.}}
-# {{lb|en|legal}} The [[interest]] which one may have in a piece of ground, even though it is not enclosed<ref>{{R:Bouvier LD}}</ref>
-
-=====Synonyms=====
-* {{sense|street}} {{l|en|cul-de-sac}}
-* {{sense|narrow alley}} {{seeSynonyms|en|alley}}
-
-=====Descendants=====
-* {{desc|ga|clós|bor=1}}
-* {{desc|cy|clos|bor=1}}
-
-=====Translations=====
-{{trans-top|street}}
-* Bulgarian: {{t|bg|задънена улица}}
-* Finnish: {{t+|fi|umpikuja}}
-* French: {{t+|fr|cul-de-sac|m}}
-{{trans-mid}}
-* Galician: {{t|gl|rúa cega|f}}
-* German: {{t+|de|Sackgasse}}
-* Russian: {{t+|ru|тупи́к|m}}
-{{trans-bottom}}
-
-{{trans-top|narrow alley between two buildings in Scotland}}
-* Scottish Gaelic: {{t|gd|clobhsa|m}}
-{{trans-mid}}
-{{trans-bottom}}
-
-===References===
-<references/>
-* {{R:Webster 1913}}
-
-===Anagrams===
-* {{anagrams|en|a=celos|Coles|coles|socle}}
-
-[[Category:English locatives]]
-{{cln|en|1-syllable words|ergative verbs|heteronyms}}
+===== Translations =====
+*[[Dutch]]: [[nabije]]
+*[[Esperanto]]: [[proksima]]
+*Finnish: [[läheinen]]
+*French: [[proche]]
+*Georgian: [[ახლო]] (akhlo)
+*German: [[nah]]
+*Hebrew: [[קרוב]] (Ka'rov) ''m'', [[קרובה]] (Kro'va) ''f''
+*{{io}}: proxim
+*Indonesian: [[dekat]]
+*[[Interlingua]]: [[proxime]], [[vicin]]
+*Italian: [[prossimo]], [[vicino]]
+*Japanese: [[近い]] ([[ちかい]], chikai)
+*Norwegian: [[nær]]
+*Portuguese: [[próximo]], [[vizinho]], [[perto]]
+*Russian: [[близкий]]
+*Swedish: [[nära]]
 
 ----
 
 ==French==
+===Verb form===
+'''close'''
 
-===Pronunciation===
-* {{audio|fr|LL-Q150 (fra)-Lyokoï-close.wav|Audio}}
+# ''first-, third-person singular subjunctive present of [[clore]]''
+# ''feminine of [[clos]], the past participle of clore''
 
-===Adjective===
-{{head|fr|adjective form}}
+[[it:close]]
 
-# {{feminine singular of|fr|clos}}
-
-===Verb===
-{{head|fr|verb form}}
-
-# {{inflection of|fr|clore||1//3|s|pres|subj}}
-
-===Participle===
-{{head|fr|past participle form|g=f-s}}
-
-# {{feminine singular past participle of|fr|clore}}
-
-===Further reading===
-* {{R:TLFi}}
-
-===Anagrams===
-* {{l|fr|socle}}
-
-----
-
-==Middle English==
-
-===Noun===
-{{head|enm|noun plural form}}
-
-# {{plural of|enm|cloth}}
-
-----
-
-==Portuguese==
-
-===Noun===
-{{pt-noun|m}}
-
-# {{lb|pt|photography}} [[close-up]] {{gloss|photography in which the subject is shown at a large scale}}
-#: {{syn|pt|close-up}}
-# [[attitude]]
+[[Category:English heteronyms]]
