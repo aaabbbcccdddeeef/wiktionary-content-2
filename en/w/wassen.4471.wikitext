@@ -1,120 +1,23 @@
-{{also|Wassen|Wassén|Waßen}}
 ==Dutch==
-
-===Pronunciation===
-* {{IPA|nl|/ˈʋɑsə(n)/}}
-* {{audio|nl|Nl-wassen.ogg|audio}}
-* {{rhymes|nl|ɑsən|s=2}}
-
-===Etymology 1===
-From {{inh|nl|dum|wasschen}}, from {{inh|nl|odt|wascan}}, from {{inh|nl|gem-pro|*waskaną}}, ultimately from {{der|nl|ine-pro|*wed-||water, wet}}.
-
-====Verb====
-{{nl-verb}}
-
-# {{lb|nl|transitive}} to [[wash]], to [[clean]]
-
-=====Inflection=====
-{{nl-conj-wk|was|wasse|wassen|trans=acc}}
-
-=====Derived terms=====
-* {{l|nl|afwassen}}
-* {{l|nl|bewassen}}
-* {{l|nl|verwassen}}
-* {{l|nl|wasbeurt}}
-* {{l|nl|wasgelegenheid}}
-* {{l|nl|wasmachine}}
-* {{l|nl|waswater}}
-
-=====Descendants=====
-* {{desc|af|was}}
-* {{desc|brc|wasi}}
-* {{desc|dcr|wasch|was}}
-* {{desc|skw|was}}
-* {{desc|srn|wasi|bor=1|unc=1}}
-** {{desc|djk|wasi|bor=1}}
-** {{desc|srm|wási|bor=1}}
-
-===Etymology 2===
-From {{inh|nl|dum|wassen}}, from {{inh|nl|odt|wassan}}, from {{inh|nl|gem-pro|*wahsijaną||to increase}}, from {{der|nl|ine-pro|*h₂weg-||to increase}}.
-
-====Verb====
-{{nl-verb}}
-
-# {{lb|nl|intransitive|archaic}} to [[grow]], to [[rise]], to [[increase]], to [[become]] [[high]]er and/or [[big]]ger, to [[wax]]
-#: {{ux|nl|de '''wassende''' maan|the '''waxing''' moon}}
-
-=====Inflection=====
-{{nl-conj-st|class=7|was|wies|wassen|wasse|trans=unacc}}
-
-=====Derived terms=====
-* {{l|nl|bewassen}}
-* {{l|nl|gewas}}
-* {{l|nl|verwassen}}
-* {{l|nl|volwassen}}
-* {{l|nl|wasdom}}
-* {{l|nl|wassenaar}}
-
-===Etymology 3===
-From {{affix|nl|was|-en|id2=substance}}.
-
-====Adjective====
-{{nl-adj|-}}
-
-# made of [[wax]], [[waxen]]
-
-=====Inflection=====
-{{nl-decl-adj||-|pred=-|part=-}}
-
-===Etymology 4===
-From {{affix|nl|was|-en|id2=denominative}}.
-
-====Verb====
-{{nl-verb}}
-
-# {{lb|nl|transitive}} to [[rub]] [[wax]] on
-
-=====Inflection=====
-{{nl-conj-wk|was|wasse|trans=acc}}
-
-=====Derived terms=====
-* {{l|nl|bewassen}}
-* {{l|nl|verwassen}}
-
-----
-
-==Low German==
-
-===Etymology===
-From {{inh|nds|osx|wahsan}}, from {{inh|nds|gem-pro|*wahsaną}}.
-
 ===Verb===
-{{head|nds|verb}}
+'''wassen'''
 
-# to [[wax]], [[grow]]
+#to wash or clean
+#to increase
+#to rub wax on something
 
-====Conjugation====
-{{nds-conj-st|class=7|wass|wass|wuss|wuss|wuss}}
+====Translations====
+*English: to [[wash]] (1), to [[clean]] (1), to [[grow]] (2), to [[rise]] (2), to [[increase]] (2), to [[become]] [[high]]er (2) and/or to become [[big]]ger (2), to [[wax]] (3)
+*German: [[waschen]] (1), [[wachsen]] (2), [[waxen]] (3)
 
-----
+===Adjective===
+'''wassen'''
 
-==Middle Dutch==
+# made of [[wax]]; [[waxen]]
 
-===Etymology===
-From {{inh|dum|odt|wassan}}, from {{inh|dum|gem-pro|*wahsijaną||to increase}}, from {{der|dum|ine-pro|*h₂weg-||to increase}}.
+====Translations====
+*English: [[wax]]
+*German: [[Wachs]]
 
-===Verb===
-{{dum-verb}}
-
-# to [[grow]], to [[wax]]
-# to [[increase]]
-
-====Inflection====
-{{rfinfl|dum|verb}}{{cln|dum|class 6 strong verbs}}
-
-====Descendants====
-* {{desc|nl|wassen}}
-
-===Further reading===
-* {{R:VMNW|ID66723|II}}
-* {{R:MNW|70734|III}}
+[[Category:Dutch irregular verbs]]
+[[nl:wassen]]
