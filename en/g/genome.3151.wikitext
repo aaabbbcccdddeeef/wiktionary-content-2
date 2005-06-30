@@ -1,107 +1,16 @@
-{{also|génome}}
-==English==
-
-===Etymology===
-From {{der|en|de|Genom}}; {{blend|en|gene|chromosome}}<ref name="ODO">{{R:Lexico}}</ref><ref>{{R:Etymonline}}</ref>; {{suffix|en|gene|ome}}.
-
-===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈd͡ʒiː.nəʊm/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-genome.wav |Audio (UK)}}
-* {{a|US}} {{IPA|en|/ˈd͡ʒiː.noʊm/|/d͡ʒɨˈnoʊm/}}
-
+==[[English]]==
 ===Noun===
-{{wikipedia}}
-{{en-noun}}
 
-# {{lb|en|genetics}} The complete [[genetic]] information (either [[DNA]] or, in some viruses, [[RNA]]) of an [[organism]].
-#* {{quote-journal|en|year=2012|month=March-April
-|author=[[w:Terry Sejnowski|Terrence J. Sejnowski]]
-|title=Well-connected Brains
-|volume=100|issue=2|page=171
-|magazine={{w|American Scientist}}
-|url=http://www.americanscientist.org/bookshelf/pub/well-connected-brains
-|passage=Creating a complete map of the human connectome would therefore be a monumental milestone but not the end of the journey to understanding how our brains work. The achievement will transform neuroscience and serve as the starting point for asking questions we could not otherwise have answered, just as having the human '''genome''' has made it possible to ask new questions about cellular and molecular systems.}}
-
-====Derived terms====
-{{der4|en
-|metagenome
-|Human Genome Project
-|whole-genome duplication
-|epigenome
-|genome transplant
-|genomewide
-|multigenome
-|subgenome
-|mitogenome
-|antigenome
-|pangenome
-|progenome
-|pseudogenome
-|minigenome
-|transgenome
-|microgenome
-|paleogenome
-|oncogenome
-|supragenome
-|genometric
-|genometrics
-|megagenome
-|genome assembly
-|hologenome
-|microgenome
-|lentigenome
-|intragenome
-|genomic
-|genomically
-|genomics}}
+#The complete [[DNA]] content of an organism, typically expressed in number of basepairs
 
 ====Translations====
-{{trans-top|complete genetic information of an organism}}
-* Arabic: {{t|ar|مَجِين|m}}, {{t|ar|جِينُوم|m|tr=jinūm}}
-* Asturian: {{t|ast|xenoma|m}}
-* Catalan: {{t|ca|genoma|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|基因組|sc=Hani}}, {{t+|cmn|基因组|tr=jīyīnzǔ|sc=Hani}}, {{t|cmn|基因體|sc=Hani}}, {{t|cmn|基因体|tr=jīyīntǐ|sc=Hani}}
-*: Min Nan: {{t|nan|基因體|tr=ki-in-thé|sc=Hani}}, {{t|nan|遺傳體|tr=ûi-thoân-thé|sc=Hani}}
-* Czech: {{t+|cs|genom|m}}
-* Danish: {{t+|da|genom|n}}
-* Dutch: {{t+|nl|genoom|n}}
-* Esperanto: {{t|eo|genaro}}
-* Finnish: {{t+|fi|genomi}}, {{t+|fi|perimä}}, {{t|fi|geeniperimä}}
-* French: {{t+|fr|génome|m}}
-* Galician: {{t|gl|xenoma|m}}
-* German: {{t+|de|Genom|n}}
-* Greek: {{t+|el|γονιδίωμα|n}}
-* Hungarian: {{t+|hu|genom}}
-* Icelandic: {{t+|is|erfðamengi|m}}
-* Ido: {{t+|io|genomo}}
-* Indonesian: {{t+|id|genom}}
-* Interlingua: {{t|ia|genoma}}
-* Italian: {{t+|it|genoma|m}}
-{{trans-mid}}
-* Japanese: {{t|ja|ゲノム|tr=genomu}}
-* Korean: {{t|ko|게놈}}
-* Latvian: {{t|lv|genoms|m}}
-* Lithuanian: {{t|lt|genomas|m}}
-* Occitan: {{t+|oc|genòma|m}}
-* Persian: {{t|fa|ژنوم|tr=ženom, ženum|sc=fa-Arab}}
-* Polish: {{t+|pl|genom|m-in}}
-* Portuguese: {{t+|pt|genoma|m}}
-* Romanian: {{t+|ro|genom|n}}
-* Russian: {{t+|ru|гено́м|m}}
-* Samogitian: {{t|sgs|genuoms|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|гѐно̄м|m|sc=Cyrl}}
-*: Roman: {{t+|sh|gènōm|m}}
-* Spanish: {{t+|es|genoma|m}}
-* Swedish: {{t+|sv|genom|n}}, {{t+|sv|arvsmassa|c}}
-* Turkish: {{t+|tr|genom}}
-* Ukrainian: {{t|uk|геном, -у|m}}
-* Vietnamese: {{t|vi|bộ gen}}
-* Volapük: {{t|vo|genom}}
-{{trans-bottom}}
-
-===References===
-<references/>
-
-[[Category:English terms prefixed with geno-]]
+*[[Catalan]]: [[genoma]] ''m''
+*[[Dutch]]: [[genoom]] ''n''
+*[[Finnish]]: [[genomi]], [[perimä]]
+*[[French]]: [[génome]] ''m''
+*[[German]]: [[Genom]] ''n''
+*[[Interlingua]]: [[genoma]]
+*[[Italian]]: [[genoma]] ''m''
+*[[Portuguese]]: [[genoma]] ''m''
+*[[Spanish]]: [[genoma]] ''m''
+*[[Volapük]]: [[genom]]
