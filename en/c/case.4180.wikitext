@@ -1,888 +1,111 @@
-{{also|CASE|Case|casé|cáse|cåse|cåsĕ|čase|čaše}}
 ==English==
-
-===Pronunciation===
-* {{IPA|en|/keɪs/}}
-* {{audio|en|en-us-case.ogg|Audio (US)}}
-* {{rhymes|en|eɪs|s=1}}
-* {{hyphenation|en|case}}
-
 ===Etymology 1===
-{{root|en|ine-pro|*ḱh₂d-|*-tus}}
-{{inh|en|enm|cas}}, from {{der|en|fro|cas|t=an event}}, from {{der|en|la|cāsus|t=a falling, a fall; accident, event, occurrence; occasion, opportunity; noun case}}, perfect passive participle of {{m|la|cadō|t=to fall, to drop}}.
+From Middle English '''[[cas]]''' < Old English '''[[cas]](us)''' (noun case) < Old French '''[[cas]]''' (an event) < Latin '''[[casus]]''' (a falling, a fall; accident, event, occurrence; occasion, opportunity; noun case), perfect passive participle of '''[[cadere]]''' (to fall, sink, drop) < Proto-Indo-European base *'''kad-''' (to fall).
 
-====Noun====
-{{en-noun}}
+===Noun===
+'''case''' (''plural:'' [[cases]])
 
-# An actual [[event]], [[situation]], or [[fact]].
-#: {{ux|en|For a change, in this '''case''', he was telling the truth.}}
-#: {{ux|en|It is not the '''case''' that every unfamiliar phrase is an idiom.}}
-#: {{ux|en|In '''case''' of fire, break glass. [sign on fire extinguisher holder in public space]}}
-#* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845|magazine={{w|The Economist}}
-|title=[http://www.economist.com/news/http://www.economist.com/news/business/21582001-army-new-online-courses-scaring-wits-out-traditional-universities-can-they The attack of the MOOCs]
-|passage=Since the launch early last year of&nbsp;[&hellip;] two Silicon Valley start-ups offering free education through MOOCs, massive open online courses, the ivory towers of academia have been shaken to their foundations. University brands built in some '''cases''' over centuries have been forced to contemplate the possibility that information technology will rapidly make their existing business model obsolete.}}
-# {{lb|en|now|rare}} A given [[condition]] or [[state]].
-#* {{RQ:Spenser Faerie Queene|III|10|text=Ne wist he how to turne, nor to what place: / Was never wretched man in such a wofull '''cace'''.}}
-#* '''1726''', Nathan Bailey, John Worlidge, ''Dictionarium Rusticum, Urbanicum & Botanicum''
-#*: Mares which are over-fat, hold with much difficulty; whereas those that are but in good '''case''' and plump, conceive with the greatest readiness and ease.
-# A piece of [[work]], specifically defined within a [[profession]].
-#: {{ux|en|It was one of the detective's easiest '''cases'''.&emsp; Social workers should work on a maximum of forty active '''cases'''.&emsp; The doctor told us of an interesting '''case''' he had treated that morning.}}
-#* {{RQ:Churchill Celebrity|chapter=2|passage=We drove back to the office with some concern on my part at the prospect of so large a '''case'''. Sunning himself on the board steps, I saw for the first time Mr. Farquhar Fenelon Cooke.}}
-#* {{quote-book|en|year=1927|author=[http://openlibrary.org/authors/OL2416183A F. E. Penny]
-|chapter=4|title=[http://openlibrary.org/works/OL16814587W Pulling the Strings]
-|passage=The '''case''' was that of a murder. It had an element of mystery about it, however, which was puzzling the authorities. A turban and loincloth soaked in blood had been found; also a staff. These properties were known to have belonged to a toddy drawer. He had disappeared.}}
-# {{lb|en|academia}} An instance or event as a topic of study.
-#: {{ux|en|The teaching consists of theory lessons and '''case''' studies.}}
-#* {{quote-journal|en|year=2012|month=March-April|author=John T. Jost
-|volume=100|issue=2|page=162|magazine={{w|American Scientist}}
-|title=[http://www.americanscientist.org/bookshelf/pub/social-justice-is-it-in-our-nature-and-our-future Social Justice: Is It in Our Nature (and Our Future)?]
-|passage=He draws eclectically on studies of baboons, descriptive anthropological accounts of hunter-gatherer societies and, in a few '''cases''', the fossil record.}}
-# {{senseid|en|law}}{{lb|en|legal}} A legal proceeding, [[lawsuit]].
-#* {{quote-book|en|year=1905|author=[[w:Emma Orczy|Baroness Emmuska Orczy]]
-|title=[[w:The Case of Miss Elliott|The Tremarn Case]]
-|chapter=2|url=http://openlibrary.org/works/OL8479084W
-|passage=“Two or three months more went by ; the public were eagerly awaiting the arrival of this semi-exotic claimant to an English peerage, and sensations, surpassing those of the Tichbourne '''case''', were looked forward to with palpitating interest.&nbsp;[…]”}}
-# {{lb|en|grammar}} A specific [[inflection]] of a word (particularly a noun, pronoun, or adjective) depending on its [[function]] in the [[sentence]].
-#: {{ux|en|The accusative '''case''' canonically indicates a direct object.&emsp; Latin has six '''cases''', and remnants of a seventh.}}
-#* {{quote-book|en|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=292|chapter=6}}
-#*: Now, the Subject of either an indicative or a subjunctive Clause is always assigned ''Nominative'' '''case''', as we see from:<br>(16) (a) &emsp; I know [that ''they''/*''them''/*''their'' leave for Hawaii tomorrow]<br><span style="color:white;">(16)</span> (b) &emsp; I demand [that ''they''/*''them''/*''their'' leave for Hawaii tomorrow]<br>By contrast, the Subject of an infinitive Clause is assigned ''Objective'' '''case''', as we see from:<br>(17) &emsp; I want [''them''/*''they''/*''their'' to leave for Hawaii tomorrow]<br>And the Subject of a ''gerund'' Clause is assigned either ''Objective'' or ''Genitive'' '''case''': cf.<br> (18) &emsp; I don't like the idea of [''them''/''their''/*''they'' leaving for Hawaii tomorrow]
-# {{lb|en|grammar|uncountable}} [[grammatical case|Grammatical cases]] and their meanings taken either as a topic in general or within a specific [[language]].
-#: {{ux|en|Jane has been studying '''case''' in Caucasian languages.&emsp; Latin is a language that employs '''case'''.}}
-# {{lb|en|medicine}} An instance of a specific [[condition]] or set of [[symptom]]s.
-#: {{ux|en|There were another five '''cases''' reported overnight.}}
-# {{lb|en|programming}} A section of [[code]] representing one of the [[action]]s of a [[conditional]] [[switch]].
-#* {{quote-book|en|year=2004|author=Rick Miller|title=C++ for Artists|passage=Place a break statement at the end of every '''case''' to prevent case fall-through.}}
-#* {{quote-book|en|year=2011|author=Stephen Prata|title=C++ Primer Plus|page=275|passage=Execution does not automatically stop at the next '''case'''.}}
+#A legal proceeding, [[lawsuit]].
+#One of several similar instances or events which are being studied and compared.
+#{{grammar}}: An instance of grammatical case; a category of nouns, pronouns, or adjectives, specialized (usually by [[inflection]]) to indicate a particular syntactic relation to other words in a sentence.
+#:''The ''[[accusative case]]'' canonically indicates a [[direct object]].''
+#:''Latin has six cases, and remnants of a seventh.''
+#{{grammar}}: ''(uncountable)'' A set of grammatical cases or their meanings in a particular language collectively.
+#:''Jane has been studying case in Caucasian languages.''
+#:''Latin is a language that employs case.''
 
-=====Synonyms=====
-{{col2
-|en|befall
-|grammatical case
-}}
+====Translations====
+*Arabic: {{ARchar|[[دعوى|دَعْوَى]]}} {{IPAchar|(dáʕwa)}} ''m'' (1), {{ARchar|[[دعاوى|دَعَاوَى]]}} {{IPAchar|(daʕáːwa)}} ''pl''; {{ARchar|[[حالة|حَالَةٌ]]}} {{IPAchar|(ħáːla)}} ''f'', {{ARchar|[[حالات|حَالاَتٌ]]}} {{IPAchar|(ħaláːt)}} ''pl'' (2,3)
+*[[Belarusian]]: [[склон]] (sklon) ''m'' (3)
+*Bulgarian: [[падеж]] (padéž) ''m'' (3)
+*Czech: [[pád]] ''m'' (3)
+*Danish: [[fald]] (3)
+*Dutch: [[naamval]] ''m'' (3), [[casus]] ''m'' (3)
+*Finnish: [[oikeusjuttu]] (1); [[tapaus]] (2); [[sijamuoto]] (3)
+*French: [[cause]] ''f'' (1); [[cas]] ''m'' (2,3)
+*German: [[Fall]] ''m'' (1,2); [[Kasus]] ''m'' (3)
+*Greek: [[δίκη]] (díki) ''f'' (1); [[περίπτωσις]] (períptosis) ''f'' (2); [[πτώσις]]  (ptósis) ''f'' (3)
+*Hebrew: [[יחסה]] (yakhasah) ''f'' (3)
+*Hungarian: [[eset]] (3)
+*Japanese: [[事件]] ([[じけん]], jíken) (2); [[格]] ([[かく]], kakú) (3)
+*Korean: [[경우]] (gyeong-u) (2); [[격]] (gyeok) (3)
+*Latin: [[causa]] ''f'' (1); [[casus]] ''m'' (2,3)
+*Portuguese: [[causa]] ''f'' (1); [[caso]] ''m'' (2,3)
+*Russian: [[судебное дело]] (sudébnoje délo) ''n'' (1); [[случай]] (slúčaj) ''m'' (2); [[падеж]] (padéž) ''m'' (3)
+*Slovak: [[pád]] ''m'' (3)
+*Spanish: [[causa]] ''f'' (1); [[caso]] ''m'' (2,3)
 
-=====Hyponyms=====
-* [[court case]]
-* See also [[Thesaurus:grammatical case]]
+===See also===
+*[[Wiktionary Appendix:Grammatical cases]]
 
-=====Derived terms=====
-{{der4|en
-|be the case
-|case study
-|Case|casebook
-|best-case
-|hard case
-|in case
-|just in case
-|make a case
-|put case
-|worst-case
-|as the case may be|case closed|case dependent|case grammar|case in point|case law|case of the Mondays|case report|case reporter|charity case|federal case|get off someone's case|get on someone's case|I rest my case|index case|justiciable case|make a case for|make a federal case out of something|make the case for|not the case|on a case-by-case basis|on the case|press one's case|rest one's case|sad case|smear case|special case|test case|textbook case|tough case|whatever the case may be|worse-case|worst case scenario|worst-case scenario|base case|build a case|case citation|case ending|case fatality rate|case history|case-in-chief|catch a case|cold case|edge case|Frankfurt case|Gettier case|leading case|limit case|long case|mental case|nutcase|open and shut case|put the case|reserved case|space case|stretcher case|trespass on the case|use case}}
-<!--for grammatical cases see [[Thesaurus:grammatical case]]-->
-
-=====Descendants=====
-* {{desc|sv|case|g=n|bor=1}}
-
-=====Translations=====
-{{trans-top|actual event, situation, or fact}}
-* Arabic: {{t+|ar|قَضِيَّة|f}}
-* Bashkir: {{t|ba|ваҡиға}}, {{t|ba|осраҡ}}
-* Belarusian: {{t|be|спра́ва|f}}, {{t|be|вы́падак|f}}
-* Bulgarian: {{t+|bg|де́ло|n}}, {{t+|bg|слу́чай|m}}
-* Catalan: {{t+|ca|cas|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|事件|tr=shìjiàn}}
-* Czech: {{t+|cs|případ|m}}
-* Danish: {{t+|da|tilfælde|n}}
-* Dutch: {{t+|nl|geval|n}}
-* Esperanto: {{t+|eo|afero}}
-* Finnish: {{t+|fi|tapaus}}
-* French: {{t+|fr|cas|m}}
-* Galician: {{t+|gl|caso|m}}
-* Georgian: {{t|ka|შემთხვევა}}
-* German: {{t+|de|Fall|m}}, {{t+|de|Sache|f}}, {{t+|de|Beispiel|n}}, {{t+|de|Punkt|m}}, {{t+|de|Argument|n}}
-* Greek: {{t+|el|περίπτωση|f}}, {{t+|el|περίσταση|f}}
-* Hebrew: {{t+|he|מקרה|m|tr=mikré}}
-* Italian: {{t+|it|caso|m}}
-* Japanese: {{t+|ja|例|tr=れい, rei}}, {{t+|ja|事例|tr=じれい, jirei}}, {{t+|ja|場合|tr=ばあい, baai}}, {{t+|ja|事件|tr=じけん, jiken}}
-{{trans-mid}}
-* Korean: {{t+|ko|사건(事件)}}, {{t+|ko|경우(境遇)}}
-* Ladino: {{t|lad|kavzo|m}}
-* Macedonian: {{t|mk|случај|m}}
-* Mongolian: {{t+|mn|хэрэг}}
-* Norwegian:
-*: Bokmål: {{t+|nb|tilfelle|n}}
-* Polish: {{t+|pl|przypadek|m-in}}, {{t+|pl|wypadek|m-in}}
-* Portuguese: {{t+|pt|caso|m}}
-* Romanian: {{t+|ro|caz|n}}
-* Russian: {{t+|ru|де́ло|n}}, {{t+|ru|слу́чай|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|слу̏ча̄ј|m}}
-*: Roman: {{t+|sh|slȕčāj|m}}
-* Slovak: {{t+|sk|prípad|m}}
-* Slovene: {{t+|sl|primer|m}}
-* Spanish: {{t+|es|caso|m}}
-* Swedish: {{t+|sv|fall|n}}
-* Ukrainian: {{t+|uk|спра́ва|f}}, {{t|uk|ви́падок|m}}
-* Vietnamese: {{t+|vi|trường hợp}} ({{t|vi|場合}})
-* Welsh: {{t+|cy|achos|m}}
-{{trans-bottom}}
-
-{{trans-top|piece of work}}
-* Arabic: {{t|ar|عُلْبَة|f}}
-* Belarusian: {{t|be|спра́ва|f}}
-* Finnish: {{t+|fi|tapaus}}
-* French: {{t+|fr|cas|m}}
-* German: {{t+|de|Fall|m}}
-* Greek: {{t+|el|υπόθεση|f}}, {{t+|el|περιστατικό|n}}
-{{trans-mid}}
-* Italian: {{t+|it|caso|m}}
-* Portuguese: {{t+|pt|caso|m}}
-* Russian: {{t+|ru|де́ло|n}}
-* Slovak: {{t+|sk|prípad|m}}
-* Slovene: {{t+|sl|primer|m}}
-* Ukrainian: {{t+|uk|спра́ва|f}}
-{{trans-bottom}}
-
-{{trans-top|instance or event as a topic of study}}
-* Arabic: {{t|ar|حَالَات|p}}
-* Armenian: {{t+|hy|դեպք}}
-* Bashkir: {{t|ba|осраҡ}}
-* Belarusian: {{t|be|вы́падак|m}}
-* Bulgarian: {{t+|bg|слу́чай|m}}
-* Catalan: {{t+|ca|cas|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|事件|tr=shìjiàn}}
-* Czech: {{t+|cs|případ|m}}
-* Dutch: {{t+|nl|geval|n}}
-* Esperanto: {{t+|eo|kazo}}
-* Finnish: {{t+|fi|tapaus}}, {{t+|fi|case}}
-* French: {{t+|fr|cas|m}}
-* Galician: {{t+|gl|caso|m}}
-* Georgian: {{t|ka|საქმე}}
-* German: {{t+|de|Fall|m}}
-* Greek: {{t+|el|περίπτωση|f}}
-* Haitian Creole: {{t|ht|ka}}
-* Hebrew: {{t+|he|מקרה|m|tr=miqre}}
-* Hungarian: {{t+|hu|eset}}
-* Icelandic: {{t-needed|is}}
-* Irish: {{t|ga|cás|m}}
-* Italian: {{t+|it|caso|m}}
-* Japanese: {{t+|ja|事件|tr=じけん, jiken}}
-* Khmer: {{t+|km|ករណី}}
-{{trans-mid}}
-* Korean: {{t+|ko|경우(境遇)}}
-* Latin: {{t+|la|cāsus|m}}
-* Lithuanian: {{t-needed|lt}}
-* Macedonian: {{t|mk|случај|m}}
-* Malagasy: {{t+|mg|tranga}}, {{t+|mg|zava-nitranga}}
-* Mirandese: {{t|mwl|causo|m}}
-* Mongolian: {{t+|mn|хэрэг}}
-* Occitan: {{t+|oc|cas|m}}
-* Persian: {{t+|fa|مورد|tr=mowred}}, {{t+|fa|کیس|tr=keys}}
-* Polish: {{t+|pl|wypadek|m}}
-* Portuguese: {{t+|pt|caso|m}}
-* Russian: {{t+|ru|слу́чай|m}}, {{t+|ru|кейс|m}} {{qualifier|colloquial or business, neologism}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|слу̏ча̄ј|m}}
-*: Roman: {{t+|sh|slȕčāj|m}}
-* Slovak: {{t+|sk|prípad|m}}
-* Slovene: {{t+|sl|primer|m}}
-* Spanish: {{t+|es|caso|m}}
-* Swahili: {{t+|sw|kesi|9/10}}
-* Swedish: {{t+|sv|fall|n}}, {{t+|sv|case|n}}
-* Thai: {{t-needed|th}}
-* Turkish: {{t-needed|tr}}
-* Ukrainian: {{t|uk|ви́падок|m}}
-* Vietnamese: {{t+|vi|trường hợp}} ({{t|vi|場合}})
-* Welsh: {{t+|cy|achos|m}}
-{{trans-bottom}}
-
-{{trans-top|legal proceeding}}
-* Arabic: {{t|ar|دَعْوَى|m}}
-* Armenian: {{t+|hy|դատական գործ}}
-* Bulgarian: {{t+|bg|дело|n}}, {{t+|bg|процес|m}}
-* Catalan: {{t+|ca|causa|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|案件|tr=ànjiàn}}
-* Czech: {{t+|cs|případ|m}}, {{t|cs|kauza|f}}
-* Dutch: {{t+|nl|rechtszaak|f|m}}, {{t+|nl|proces|n}}
-* Esperanto: {{t+|eo|afero}}, {{t|eo|juĝafero}}
-* Finnish: {{t+|fi|oikeustapaus}}
-* French: {{t+|fr|cause|f}}
-* Georgian: {{t|ka|საქმე}}, {{t|ka|კაზუსი}}
-* German: {{t+|de|Fall|m}}, {{t+|de|Prozess|m}}, {{t|de|Rechtssache|m}}
-* Greek: {{t+|el|υπόθεση|f}}
-* Hebrew: {{t+|he|תיק|m|tr=tyq}}
-* Hungarian: {{t+|hu|ügy}}
-* Irish: {{t|ga|cás|m}}
-* Italian: {{t+|it|causa|f}}, {{t+|it|caso|m}}
-{{trans-mid}}
-* Latin: {{t+|la|causa|f}}
-* Macedonian: {{t|mk|судско дело|n}}, {{t|mk|случај|n}}, {{t|mk|процес|n}}
-* Malay: {{t|ms|kes}}
-* Mongolian: {{t+|mn|хэрэг}}
-* Norman: {{t|nrf|cause|f}}
-* Polish: {{t+|pl|postępowanie|n}}, {{t+|pl|sprawa|f}}, {{t+|pl|proces|m-in}}
-* Portuguese: {{t+|pt|caso|m}}, {{t+|pt|causa|f}}
-* Russian: {{t|ru|суде́бное де́ло|n}}, {{t+|ru|проце́сс|m}}, {{t+|ru|де́ло|n}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|слу̏ча̄ј|m}}
-*: Roman: {{t+|sh|slȕčāj|m}}
-* Slovene: {{t+|sl|primer|m}}, {{t|sl|zadeva|f}}
-* Spanish: {{t+|es|causa|f}}, {{t+|es|pleito|m}}, {{t+|es|argumento|m}}
-* Swahili: {{t+|sw|kesi|9/10}}
-* Swedish: {{t+|sv|fall|n}}
-* Tagalog: {{qualifier|literally}} {{t|tl|kaso}}
-* Vietnamese: {{t|vi|vụ kiện}} ({{t|vi|[[務]][[件]]}})
-{{trans-bottom}}
-
-{{trans-see|grammatical case}}
-
-{{trans-top|grammar: set of grammatical cases or their meanings}}
-* Azerbaijani: {{t+|az|hal}}
-* Catalan: {{t+|ca|cas|m}}
-* Dutch: {{t+|nl|naamval|m}}
-* Faroese: {{t+|fo|fall|n}}
-* Finnish: {{t|fi|sijamuodot|p}}
-* French: {{t+|fr|cas|m}}
-* Icelandic: {{t+|is|fall|n}}
-* Italian: {{t+|it|caso|m}}
-* Japanese: {{t+|ja|格|tr=kaku}}
-{{trans-mid}}
-* Polish: {{t+|pl|przypadek|m}}
-* Portuguese: {{t+|pt|caso|m}}
-* Russian: {{t+|ru|падеж|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|па́деж|m}}
-*: Latin: {{t+|sh|pádež|m}}
-* Slovak: {{t|sk|ohýbanie|?}}
-* Swedish: {{t+|sv|kasus|m|n}}
-* Vietnamese: {{t+|vi|cách}} ({{t|vi|格}})
-{{trans-bottom}}
-
-{{trans-top|medicine: instance of a specific condition or set of symptoms}}
-* Arabic: {{t-needed|ar}}
-* Chinese:
-*: Mandarin: {{t-needed|cmn}}
-* Finnish: {{t+|fi|tapaus}}
-* French: {{t+|fr|cas|m}}
-* German: {{t+|de|Fall|m}}
-* Greek: {{t+|el|κρούσμα|n}}, {{t+|el|περιστατικό|n}}
-* Icelandic: {{t+|is|tilfelli|n}}
-* Italian: {{t+|it|caso|m}}
-{{trans-mid}}
-* Japanese: {{t+|ja|症例|tr=shōrei}}
-* Portuguese: {{t+|pt|caso|m}}
-* Russian: {{t-needed|ru}}
-* Slovak: {{t+|sk|prípad|m}}
-* Slovene: {{t+|sl|primer|m}}
-* Thai: {{t-needed|th}}
-* Vietnamese: {{t+|vi|trường hợp}} ({{t|vi|場合}}), {{t+|vi|ca}}
-* Welsh: {{t+|cy|achos|m}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Georgian: {{t+check|ka|ბრუნვა}}
-{{trans-mid}}
-{{trans-bottom}}
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|obsolete}} to [[propose]] [[hypothetical]] cases
-#* {{RQ:L'Estrange Fables of Aesop|passage='''Casing''' upon the Matter.}}
-
-====See also====
-* [[Appendix:Grammatical cases]]
-
-====References====
-* {{pedia}}
+----
 
 ===Etymology 2===
-{{root|en|ine-pro|*keh₂p-}}
-From {{inh|en|enm|cas}}, from {{der|en|ONF.|casse}}, (compare {{cog|fro|chasse||box, chest, case}}), from {{der|en|la|capsa|t=box, bookcase}}, from {{m|la|capiō|t=to take, seize, hold}}. {{doublet|en|cash}}. Compare {{cog|es|caja}}, {{cog|ast|caxa}}.
-
-====Noun====
-{{en-noun}}
-
-# {{senseid|en|box}} A [[box]] that contains or can contain a number of [[identical]] items of manufacture.
-# A box, sheath, or covering generally.
-#: {{ux|en|a '''case''' for spectacles; the '''case''' of a watch}}
-# A piece of [[luggage]] that can be used to transport an apparatus such as a [[sewing machine]].
-# An enclosing frame or casing.
-#: {{ux|en|a door '''case'''; a window '''case'''}}
-# A [[suitcase]].
-# A piece of [[furniture]], constructed partially of [[transparent]] glass or plastic, within which items can be displayed.
-# The outer [[covering]] or [[framework]] of a piece of apparatus such as a [[computer]].
-# {{lb|en|printing|historical}} A shallow [[tray]] divided into compartments or "boxes" for holding [[type]], traditionally arranged in sets of two, the "upper case" (containing capitals, small capitals, accented) and "lower case" (small letters, figures, punctuation marks, [[quadrat]]s, and spaces).
-# {{lb|en|typography|by extension}} The nature of a piece of [[alphabetic]] type, whether a “capital” ([[upper case]]) or “small” ([[lower case]]) letter.
-# {{lb|en|poker slang}} [[four of a kind|Four of a kind]].
-# {{lb|en|US}} A [[unit]] of [[liquid]] [[measure]] used to measure sales in the [[beverage]] industry, equivalent to 192 [[fluid ounce]]s.
-# {{lb|en|mining}} A small fissure which admits [[water]] into the workings<ref>{{R:Knight AMD}}</ref>.
-# A thin [[layer]] of [[hard]]er [[metal]] on the [[surface]] of an object whose deeper metal is allowed to remain soft.
-# A [[cardboard]] box that holds (usually 24) [[beer]] [[bottle]]s or [[can]]s.
-#: {{syn|en|carton}}
-#: {{ux|en|a single '''case''' of {{w|Bud Light}}}}
-# {{lb|en|UK|slang|obsolete}} A [[counterfeit]] [[crown]] {{gl|five-shilling coin}}.
-#* '''1859''', ''Snowden's magistrates assistant'' (page 90)
-#*: The price of a '''case''' (five shillings piece bad) from the smasher is about one shilling; an alderman (two and sixpence) about sixpence; a peg (shilling) about threepence; a downer or sprat (sixpence) about twopence.
-
-=====Derived terms=====
-{{der4|en|title=Terms derived from ''case'' (noun, etymology 2)
-|attaché case
-|briefcase
-|camel case
-|casing
-|case harden
-|charging case
-|crankcase
-|letter case
-|lower case
-|packing case
-|sentence case
-|staircase
-|suitcase
-|title case
-|upper case|dispatch case|gear case
-|alternating case|burial case|business case|chain case|cigarette case|closet case|corner case|display case|dressing case|egg case|jewel case|paper case|pencil case|pillow case|trophy case|slip case|road case|Pascal case|patty case|pencase|trotter case|uniform case|vanity case|Wardian case|basket case|case fan|case folding|case fraction|case head|cicada case|kebab case|snake case|spore case|tall-case clock|traps case|case badge|case hardened|case hardening|case-shot
-}}
-
-=====Derived terms=====
-{{der2|en|case clock|case knife|case insensitive|case sensitive}}
-
-=====Translations=====
-{{trans-top|box containing a number of identical items of manufacture}}
-* Arabic: {{t|ar|عُلَب|p}}
-* Armenian: {{t+|hy|արկղ}}
-* Belarusian: {{t|be|скры́ня|f}}
-* Bulgarian: {{t+|bg|сандъ́к|m}}, {{t|bg|кашон|m}}
-* Catalan: {{t+|ca|caixa|f}}, {{t+|ca|capsa|f}}
-* Chamicuro: {{t|ccc|kaja}}
-* Chinese:
-*: Mandarin: {{t+|cmn|箱|tr=xiāng}}, {{t+|cmn|箱子|tr=xiāngzi}}
-* Czech: {{t+|cs|bedna|f}}
-* Danish: {{t+|da|kasse|c}}
-* Dutch: {{t+|nl|kist|f}}
-* Finnish: {{t+|fi|pakkaus}}
-* French: {{t+|fr|caisse|f}}
-* Galician: {{t+|gl|caixa|f}}
-* German: {{t+|de|Kiste|f}}, {{t+|de|Behälter|m}}
-* Greek: {{t+|el|κιβώτιο|n}}
-*: Ancient: {{t|grc|θήκη|f}}
-* Hungarian: {{t+|hu|láda}}
-{{trans-mid}}
-* Italian: {{t+|it|cassetta|f}}
-* Japanese: {{t+|ja|箱|tr=はこ, hako}}
-* Korean: {{t+|ko|상자}}
-* Latin: {{t|la|capsa|f}}
-* Macedonian: {{t|mk|сандак|m}}, {{t|mk|гајба|f}}
-* Norwegian: {{t|no|kiste|f|m}}
-* Polish: {{t+|pl|skrzynia|f}}
-* Portuguese: {{t+|pt|caixa|f}}
-* Romanian: {{t+|ro|ladă|f}}
-* Russian: {{t+|ru|я́щик|m}}, {{t+|ru|коро́бка|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|са̀ндук|m}}, {{t|sh|га̑јба|f}}
-*: Roman: {{t+|sh|sànduk|m}}, {{t+|sh|gȃjba|f}}
-* Slovak: {{t|sk|debna|f}}
-* Slovene: {{t|sl|gajba|f}}, {{t|sl|zaboj|m}}
-* Spanish: {{t+|es|caja|f}}
-* Swedish: {{t+|sv|lår|c}}, {{t+|sv|låda|c}}
-* Ukrainian: {{t|uk|скри́ня|f}}
-{{trans-bottom}}
-
-{{trans-top|sheath, covering}}
-* Bulgarian: {{t+|bg|кутия|f}}
-* Danish: {{t|da|hylster|?}}
-* Dutch: {{t+|nl|hulsel|n}}
-* Esperanto: {{t+|eo|ingo}}
-* Galician: {{t|gl|estoxo|m}}
-* German: {{t+|de|Hülle|f}}
-* Greek: {{t+|el|θήκη|f}}, {{t|grc|ἔλυτρον|n}}
-*: Ancient: {{t|grc|κέλυφος|n}}, {{t|grc|θήκη|f}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|tok}}
-* Ido: {{t+|io|etuyo}}
-* Norwegian: {{t|no|hylster|n}}
-* Slovak: {{t|sk|puzdro|?}}
-* Swedish: {{t+|sv|hölje|n}}
-{{trans-bottom}}
-
-{{trans-top|piece of luggage that can be used to transport an apparatus}}
-* Armenian: {{t+|hy|արկղ}}
-* Bulgarian: {{t+|bg|калъф|m}}
-* Catalan: {{t+|ca|caixa|f}}, {{t+|ca|maleta|f}}
-* Czech: {{t+|cs|pouzdro|n}}
-* Dutch: {{t+|nl|tas|f}}
-* Finnish: {{t+|fi|laukku}}
-* French: {{t+|fr|écrin|m}}
-* Galician: {{t|gl|funda|f}}
-* German: {{t+|de|Koffer|m}}, {{t+|de|Kasten|m}}
-{{trans-mid}}
-* Ido: {{t+|io|etuyo}}, {{t+|io|kofro}}
-* Italian: {{t+|it|baule|m}}, {{t+|it|cassa|f}}
-* Macedonian: {{t|mk|ку́тија|f}}, {{t|mk|ку́фер|m}}
-* Portuguese: {{t+|pt|caixa|f}}
-* Russian: {{t+|ru|я́щик|m}}, {{t+|ru|кофр|m}}, {{t+|ru|кейс|m}}
-* Slovak: {{t|sk|puzdro|?}}
-* Slovene: {{t+|sl|kovček|m}}
-* Spanish: {{t+|es|caja|f}}, {{t+|es|maleta|f}}
-* Swedish: {{t+|sv|box|c}}, {{t+|sv|låda|c}}
-{{trans-bottom}}
-
-{{trans-top|suitcase}}
-* Armenian: {{t+|hy|ճամպրուկ}}
-* Bulgarian: {{t+|bg|куфар|m}}
-* Catalan: {{t+|ca|maleta|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|手提箱|tr=shǒutíxiāng}}
-* Dutch: {{t+|nl|valies|n}}
-* Finnish: {{t+|fi|laukku}}, {{t+|fi|matkalaukku}}
-* French: {{t+|fr|malle|f}}
-* German: {{t+|de|Koffer|m}}
-* Greek: {{t+|el|βαλίτσα|f}}, {{t+|el|αποσκευές|f-p}}
-* Hebrew: {{t+|he|מזוודה|f}}
-* Ido: {{t+|io|kofro}}
-{{trans-mid}}
-* Italian: {{t+|it|valigia|f}}
-* Japanese: {{t|ja|旅行鞄|tr=りょこうかばん, ryokou kaban}}, {{t|ja|スーツケース|tr=sūtsukēsu}}, {{t+|ja|ケース|tr=kēsu}}
-* Macedonian: {{t|mk|чанта|f}}
-* Portuguese: {{t+|pt|maleta|f}}, {{t+|pt|mala|f}}, {{t+|pt|valise|f}}, {{t|pt|valisa|f}}
-* Russian: {{t+|ru|чемода́н|m}}, {{t+|ru|кейс|m}}, {{t+|ru|диплома́т|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|ко̀фер|m}}
-*: Roman: {{t+|sh|kòfer|m}}
-* Slovak: {{t+|sk|kufor|m}}, {{t|sk|kufrík|?}}
-* Slovene: {{t+|sl|kovček|m}}
-* Spanish: {{t+|es|maleta|f}}, {{t+|es|valija|f}}
-* Swedish: {{t+|sv|resväska|c}}
-* Vietnamese: {{t+|vi|rương}}, {{t+|vi|hòm}}
-{{trans-bottom}}
-
-{{trans-top|piece of furniture, constructed partially of transparent glass or plastic}}
-* Bulgarian: {{t|bg|витри́на|f}}
-* Catalan: {{t+|ca|vitrina|f}}
-* Czech: {{t+|cs|vitrina|f}}
-* Dutch: {{t+|nl|vitrine|f}}, {{t+|nl|uitstalraam|n}}
-* Finnish: {{t+|fi|vitriini}}
-* French: {{t+|fr|vitrine|f}}
-* German: {{t+|de|Vitrine|f}}
-* Greek: {{t+|el|βιτρίνα|f}}, {{t+|el|προθήκη|f}}
-{{trans-mid}}
-* Ido: {{t+|io|vetrino}}
-* Italian: {{t+|it|vetrinetta|f}}
-* Macedonian: {{t|mk|витри́на|f}}
-* Portuguese: {{t+|pt|vitrine|f}}, {{t+|pt|mostruário|m}}
-* Russian: {{t+|ru|витри́на|f}}
-* Slovak: {{t|sk|vitrína|f}}
-* Slovene: {{t|sl|vitrina|f}}
-* Spanish: {{t+|es|vitrina|f}}
-* Swedish: {{t+|sv|vitrinskåp|n}}, {{t+|sv|monter|c}}
-{{trans-bottom}}
-
-{{trans-top|outer covering or framework of a piece of apparatus}}
-* Armenian: {{t+|hy|պատյան}}
-* Bulgarian: {{t+|bg|кожух|m}}
-* Catalan: {{t+|ca|caixa|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|盒子|tr=hézi}}, {{t+|cmn|匣子|tr=xiázi}}
-* Dutch: {{t+|nl|omhulsel|n}}
-* Finnish: {{t+|fi|kotelo}}, {{t+|fi|kuori}}
-* French: {{t+|fr|carter|m}}
-* German: {{t+|de|Gehäuse|n}}
-* Greek: {{t+|el|πλαίσιο|n}}, {{t+|el|περίβλημα|n}}, {{t+|el|κάσα|f}}
-* Hungarian: {{t+|hu|ház}}
-{{trans-mid}}
-* Italian: {{t+|it|intelaiatura|f}}, {{t+|it|custodia|f}}, {{t+|it|contenitore|m}}, {{t+|it|cabinet|m}}, {{t+|it|involucro|m}}
-* Japanese: {{t+|ja|箱|tr=はこ, hako}}, {{t|ja|筐体|tr=きょうたい, kyoutai}}
-* Portuguese: {{t+|pt|caixa|f}}
-* Russian: {{t+|ru|ко́жух|m}}, {{t+|ru|футля́р|m}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|ку̏ћӣште|n}}
-*: Roman: {{t+|sh|kȕćīšte|n}}
-* Slovak: {{t|sk|skrinka|?}}, {{t+|sk|skriňa|f}}
-* Slovene: {{t|sl|ohišje|n}}
-* Spanish: {{t+|es|caja|f}}, {{t+|es|carcasa|f}}
-* Swedish: {{t|sv|apparathölje|n}}, {{t+|sv|hölje|n}}, {{t+|sv|hus|n}}, {{t+|sv|kåpa|c}}, {{t+|sv|huv|c}}, {{t+|sv|skal|n}}
-* Vietnamese: {{t+|vi|hộp}}
-{{trans-bottom}}
-
-{{trans-top|(printing, historical) a shallow tray divided into compartments or "boxes" for holding type}}
-* Armenian: {{t+|hy|դուրճ}}
-{{trans-mid}}
-* Russian: {{t|ru|набо́рная ка́сса|f}}
-* Spanish: {{t+|es|caja|m}}
-{{trans-bottom}}
-
-{{trans-top|typography: the nature of a piece of alphabetic type}}
-* Armenian: {{t+|hy|դուրճ}}
-* Catalan: {{t+|ca|caixa|f}}
-* Dutch: {{t+|nl|kast|f}}
-* Esperanto: {{t+|eo|uskleco}}, {{t+|eo|usklo}}
-* Finnish: {{t|fi|aakkoslaji}}, {{t|fi|aakkoskoko}}, {{t|fi|kirjainkoko}}
-* French: {{t+|fr|casse|f}}
-{{trans-mid}}
-* German: {{t|de|Schriftkasten|m}}
-* Maori: {{t|mi|tohupū}}
-* Portuguese: {{t+|pt|caixa|f}}
-* Russian: {{t|ru|[[наборный|набо́рная]] [[ка́сса]]|f}}
-* Spanish: {{t+|es|caja|f}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Arabic: {{t-check|ar|عُلْبَة|f}}
-* Georgian: {{t-check|ka|ბუდე}}
-{{trans-mid}}
-* Turkish: {{t+check|tr|sandık}}
-{{trans-bottom}}
-
-====Adjective====
-{{en-adj|-}}
-
-# {{lb|en|poker slang}} The last remaining card of a particular rank.
-#: {{ux|en|He drew the '''case''' eight!}}
-#* '''2006''', David Apostolico, ''Lessons from the Professional Poker Tour'' (page 21)
-#*: If he did have a bigger ace, I still had at least six outs — the '''case''' ace, two nines, and three tens. I could also have more outs if he held anything less than A-K.
-
-=====References=====
-* Weisenberg, Michael (2000) ''[http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp The Official Dictionary of Poker].'' MGI/Mike Caro University. {{ISBN|978-1880069523}}
-
-====Verb====
-{{en-verb}}
-
-# {{lb|en|transitive}} To place (an item or items of manufacture) into a [[box]], as in preparation for [[shipment]].
-# {{lb|en|transitive}} To cover or protect with, or as if with, a case; to enclose.
-#* {{RQ:Prescott Philip 2|passage=The man who, '''cased''' in steel, had passed whole days and nights in the saddle.}}
-# {{lb|en|transitive|informal}} To [[survey]] (a building or other location) [[surreptitious]]ly, as in preparation for a robbery.
-#* {{quote-book|en|year=1977|author={{w|Michael Innes}}|title=The Gay Phoenix|isbn=9780396074427|pageurl=http://books.google.ca/books?ei=UEiQTI_wJc35nAfqjdi0DA&ct=result&id=AcvyAAAAMAAJ&dq=%22case+the+joint%22+subject%3A%22fiction%22&q=%22case+the+joint%22#search_anchor|page=116
-|passage=You are in the grounds of Brockholes Abbey, a house into which a great deal of valuable property has just been moved. And your job is to '''case''' the joint for a break in.}}
-#* '''2014''', {{w|Amy Goodman}}, ''From COINTELPRO to Snowden, the FBI Burglars Speak Out After 43 Years of Silence (Part 2)'', Democracy Now!, January 8, 2014, [http://www.democracynow.org/blog/2014/1/8/from_cointelpro_to_snowden_the_fbi 0:49 to 0:57]:
-#*: Bonnie worked as a daycare director. She helped '''case''' the FBI office by posing as a college student interested in becoming an FBI agent.
-
-=====Derived terms=====
-{{der2|en|casing nail|casing shoe}}
-
-=====Derived terms=====
-* {{l|en|case the deck}}
-
-=====Translations=====
-{{trans-top|to place into a box}}
-* Bulgarian: {{t+|bg|опаковам}}
-* Catalan: {{t+|ca|empaquetar}}
-* Finnish: {{t+|fi|pakata}}
-* German: {{t+|de|einpacken}}
-{{trans-mid}}
-* Irish: {{t|ga|cásáil}}
-* Portuguese: {{t+|pt|encaixotar}}
-* Russian: {{t+|ru|упаковывать|impf}}
-* Spanish: {{t+|es|empaquetar}}
-{{trans-bottom}}
-
-{{trans-top|to survey surreptitiously}}
-* Finnish: {{t+|fi|tutkia}}
-* German: {{t+|de|ausbaldowern}} {{qualifier|slang}}, {{t+|de|auskundschaften}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|felderít}}, {{t|hu|körülkémlel}}, {{t|hu|szemrevételez}}, {{t|hu|[[terepszemle|terepszemlét]] [[tart]]}}, {{t+|hu|felmér}}
-* Spanish: {{t|es|[[estudiar]] [[el]] [[terreno]]}}
-{{trans-bottom}}
-
-====References====
-<references/>
-* Weisenberg, Michael (2000) ''[http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp The Official Dictionary of Poker].'' MGI/Mike Caro University. {{ISBN|978-1880069523}}
-
-===Further reading===
-* {{R:OneLook}}
-* {{R:Britannica Dictionary}}
-* {{R:Macmillan Collocations}}
-* {{R:Cambridge Collocations}}
-* {{R:Ozdic}}
-* {{R:WordReference Collocations}}
-
-===Anagrams===
-* {{anagrams|en|a=aces|ACEs|ASCE|Aces|Ceas|ESCA|SCEA|aces|aesc|esca|æsc}}
-
-[[Category:en:Containers]]
-[[Category:en:Units of measure]]
-
-----
-
-==Afar==
-
-===Pronunciation===
-* {{aa-IPA|casé}}
-
-===Verb===
-{{aa-verb|f=casamcasé|p=cassiimé}}
-
-# {{lb|aa|transitive}} [[wave]] at
-# {{lb|aa|transitive}} [[strike]], [[hit]]
-
-====Conjugation====
-{{aa-conj/II|c|a|s|á}}
-
-===References===
-* {{R:aa:Parker:1985|+}}
-* {{R:aa:Hassan Kamil:2015|page=263}}
-
-----
-
-==Asturian==
-
-===Verb===
-{{ast-verb form}}
-
-# {{inflection of|ast|casar||1//3|s|pres|subj}}
-
-----
-
-==Chinese==
-
-===Alternative forms===
-* {{zh-l|畸士}}, {{zh-l|K士}}
-
-===Etymology===
-From {{bor|yue|en|case}}.
-
-===Pronunciation===
-{{zh-pron
-|c=kei1 si2
-|cat=n
-}}
+From Middle English '''[[cas]]''' < Old North French '''[[casse]]''', Old French '''[[chasse]]''' (box, chest, case) < Latin '''[[capsa]]''' (box, bookcase), from '''[[capere]]''' (to take, seize, hold).
 
 ===Noun===
-{{head|zh|noun}} {{lb|zh|Hong Kong Cantonese}}
+'''case''' ([[cases]])
 
-# [[#English|case]] {{gl|container; box}} {{zh-mw|個}}
-# [[#English|case]] {{gl|situation}} {{zh-mw|個}}
-# [[#English|case]] {{gl|piece of work}} {{zh-mw|個}}
-# [[#English|case]] {{gl|piece of work}} {{q|when associated with a file detailing the case, e.g. applications or reports}} {{zh-mw|隻}}
-# [[#English|case]] {{gl|legal proceeding}} {{zh-mw|單|隻}}
+#A box that contains or can contain a number of identical items of manufacture.
+#A piece of luggage that can be used to transport an apparatus such as a [[sewing machine]].
+#A [[suitcase]].
+#A piece of furniture, constructed partially of transparent glass or plastic, within which items can be displayed.
+#The outer covering or framework of a piece of apparatus such as a [[computer]].
+#In typography, the nature of a piece of alphabetic type, whether a "capital" ([[upper case]]) or "small" ([[lower case]]) letter.
 
-[[Category:Chinese terms written in foreign scripts]]
+====Translations====
+*Arabic: {{ARchar|[[علبة|عُلْبَةٌ]]}} {{IPAchar|(ʕúlba)}} ''f'', {{ARchar|[[علب|عُلَب]]}} {{IPAchar|(ʕúlab)}} ''pl'' (1)
+*Bulgarian: [[сандък]] (sandək) ''m'' (1)
+*Croatian: [[sanduk]] ''m'' (1)
+*Czech: [[bedna]] ''f'' (1)
+*Danish: [[kasse]] (1)
+*Dutch: [[kist]]  ''f'' (1)
+*Finnish: [[pakkaus]] (1); [[laukku]] (2,3); [[kotelo]] (5); [[isot kirjaimet]] ([[versaali]]) ''(uppercase)'', [[pienet kirjaimet]] ([[gemena]]) ''(lowercase)'' (6)
+*French: [[écrin]] ''m'' (1); [[casse]] ''f'' (6)
+*German: [[Kiste]] ''f'' (1); [[Koffer]] ''m'' (2,3); [[Vitrine]] ''f'' (4); [[Gehäuse]] ''n'' (5); [[Kasten]], [[Schriftkasten]] ''m'' (6)
+*Greek: [[κιβώτιον]] (kivótion) ''n'' (1)
+*Hungarian: [[láda]] (1)
+*Italian: [[cassetta]] (1)
+*Japanese: [[箱]] ([[はこ]], hakó) (1)
+*Korean: [[상자]] (sangja) (1)
+*Norwegian: [[kiste]] (1)
+*Polish: [[skrzynia]] (1)
+*Portuguese: [[caixa]] ''f'' (1,5,6)
+*Romanian: [[ladă]] (1)
+*Russian: [[ящик]] (jáščik) ''m'' (1); [[наборная касса]] (nabórnaja kássa) ''f'' (6)
+*Serbian: [[сандук]] (sanduk) ''m'' (1)
+*Slovak: [[debna]] ''f'' (1)
+*Spanish: [[caja]] ''f'' (1,5,6)
+*Swedish: [[lår]] ''c''
+*Turkish: [[sandık]]
+*Ukrainian: [[скриня]] (skrynja) ''f'' (1)
 
-----
+====Related terms====
+*[[case harden]]
+*[[hard case]]
 
-==French==
+===Transitive verb===
+'''case''' ([[cases]], [[cased]], [[casing]])
+#To place (an item or items of manufacture) into a box, as in preparation for shipment. (especially '''case''' and [[cased]].)
+#(''colloquial''): To survey (a building or other location) surreptitiously, as in preparation for a robbery. (Especially [[cases]] and [[casing]].)
 
-===Etymology===
-Borrowed from {{bor|fr|la|casa}}, in the sense of "hut, cabin". The other senses are a {{semantic loan|fr|es|casa|nocap=1}}. {{doublet|fr|chez}}, which was inherited.
+====Translations====
 
-===Pronunciation===
-* {{fr-IPA|câse}}
-* {{audio|fr|LL-Q150 (fra)-LoquaxFR-case.wav|Audio}}
-* {{audio|fr|LL-Q150 (fra)-DenisdeShawi-case.wav|Audio (CAN)}}
-* {{homophones|fr|cases}}
+*Finnish: [[panna koteloon]] (1)
+*German: [[einpacken]] (1)
 
-===Noun===
-{{fr-noun|f}}
-
-# {{lb|fr|archaic|rare|or|regional}} [[hut]], [[cabin]], [[shack]]
-# [[box]] {{q|on form}}
-# [[square]] {{q|on board game}}
-
-====Derived terms====
-* {{l|fr|avoir une case en moins}}
-* {{l|fr|case départ}}
-* {{l|fr|case à cocher}}
-* {{l|fr|manquer une case}}
-* {{l|fr|retour à la case départ}}
-
-====Descendants====
-* {{desc|ht-sdm|caze}}
-** {{desc|ht|kay}}
-
-===Further reading===
-* {{R:TLFi}}
-
-===Anagrams===
-* {{anagrams|fr|a=aces|à sec}}
-
-----
-
-==Galician==
-
-===Alternative forms===
-* {{alter|gl|caixe}}
-
-===Etymology===
-Attested since the 15th century ({{m|gl||quasy}}), inherited from {{inh|gl|la|quasi|t=as if}}.
-
-===Pronunciation===
-* {{IPA|gl|[ˈkɑsɪ]}}
-
-===Adverb===
-{{gl-adv}}
-
-# [[almost]]
-
-===References===
-* {{R:gl:CX|quasy}}
-* {{R:gl:DDLG}}
-* {{R:gl:TILG}}
-* {{R:TLPGP}}
+[[Category:English nouns]]
+[[Category:English words with multiple etymologies]]
 
 ----
 
 ==Italian==
-
-===Pronunciation===
-* {{hyph|it|ca|se}}
-
 ===Noun===
-{{head|it|noun form|g=f}}
+'''case''' ''f plural''
 
-# {{plural of|it|casa}}
+#(''plural of [[casa#Italian|casa]]'') [[house]]s
 
-===Anagrams===
-* {{anagrams|it|a=aces|asce|esca|seca}}
-
-----
-
-==Lower Sorbian==
-
-===Pronunciation===
-* {{IPA|dsb|/ˈt͡sasɛ/|[ˈt͡sasə]}}
-
-===Noun===
-{{head|dsb|noun form}}
-
-# {{inflection of|dsb|cas||nom//acc|p}}
-
-----
-
-==Middle Dutch==
-
-===Etymology===
-From {{inh|dum|odt|*kāsi}}, from late {{der|dum|gmw-pro|*kāsī}}, borrowed from {{der|dum|la|cāseus}}.
-
-===Noun===
-{{dum-noun|head=câse|m|g2=n}}
-
-# [[cheese]]
-
-====Inflection====
-{{rfinfl|dum|noun}}
-
-====Alternative forms====
-* {{alter|dum|kese||eastern}}{{attention|dum|diacritics?}}
-
-====Descendants====
-* {{desctree|nl|kaas}}
-* {{desc|li|kieës|kees}}
-
-===Further reading===
-* {{R:VMNW|ID52042}}
-* {{R:MNW|20776|I}}
-
-{{topics|dum|Foods}}
-
-----
-
-==Norwegian Bokmål==
-
-===Etymology===
-{{bor|nb|en|case}}, from {{der|nb|la|casus|cāsus}}. {{doublet|nb|kasus}}.
-
-===Pronunciation===
-* {{IPA|nb|/kɛɪ̯s/|/kæɪ̯s/}}
-
-===Noun===
-{{head|nb|noun|g=m|g2=n|definite singular|casen|or|caset|indefinite plural|caser|definite plural|casene}}
-
-# a [[case study]]; a {{l|en|case}} as used in a case study
-
-===References===
-* {{R:BD}}
-* {{R:NAOB|case_2}}
-
-----
-
-==Norwegian Nynorsk==
-
-===Etymology===
-{{bor|nn|en|case}}, from {{der|nn|la|casus|cāsus}}. {{doublet|nn|kasus}}.
-
-===Pronunciation===
-* {{IPA|nn|/kɛɪ̯s/|/kæɪ̯s/}} {{nn-pronu-note|s}}
-
-===Noun===
-{{nn-noun-multi|m1|n1}}
-
-# a [[case study]]; a {{l|en|case}} as used in a case study
-#: {{syn|nn|døme|eksempel}}
-
-===References===
-* {{R:ND}}
-
-----
-
-==Old French==
-
-===Noun===
-{{fro-noun|m}}
-
-# {{lb|fro|grammar}} {{l|en|case}}
-
-----
-
-==Portuguese==
-
-===Pronunciation===
-{{pt-IPA}}
-* {{hyph|pt|ca|se}}
-* {{rhymes|pt|azi|azɨ|s=2}}
-
-===Verb===
-{{head|pt|verb form}}
-
-# {{pt-verb form of|casar}}
-
-----
-
-==Romanian==
-
-===Noun===
-{{head|ro|noun form}}
-
-# {{inflection of|ro|casă||p|;|gen//dat|s}}
-
-----
-
-==Spanish==
-
-===Pronunciation===
-{{es-pr}}
-
-===Verb===
-{{head|es|verb form}}
-
-# {{es-verb form of|casar}}
-
-----
-
-==Swedish==
-{{wikipedia|lang=sv|casemetodik}}
-
-===Etymology===
-{{bor+|sv|en|case}}, from {{der|sv|la|cāsus}}. {{doublet|sv|kasus}}.
-
-===Noun===
-{{sv-noun|n}}
-# {{lb|sv|countable}} a [[#English|case]] (instance or event as a topic of study)
-
-<!--The nominative declension is "caset, case, casen", but is the genitive "ett case" or "ett cases"?-->
-
-====Synonyms====
-* {{l|sv|fall}}
-
-====Derived terms====
-* {{l|sv|casemetodik}}
-
-----
-
-==Venetian==
-
-===Noun===
-{{head|vec|noun form}}
-
-# {{plural of|vec|casa}}
+[[it:case]]
+[[pt:Case]]
+[[ru:Case]]
+[[fi:Case]]
