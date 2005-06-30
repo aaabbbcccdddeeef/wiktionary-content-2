@@ -1,36 +1,33 @@
-{{also|chłopieć}}
 ==Polish==
-{{wp|lang=pl}}
-
+[[pl:chlopiec]]
 ===Etymology===
-From {{af|pl|chłop|-iec}}. Cognate with {{cog|cs|chlapec}}, čakavian {{cog|sh|hlapac}}, {{cog|sk|chlapec}}, and {{cog|ru|хло́пец}}.
+Diminutive of [[chłopak]].
+===Personal masculine noun===
+<table border=1>
+{| 
+! !! singular !! plural
+|-
+! nominative
+| chłopiec || chłopcy
+|-
+! genitive
+| chłopca || chłopców
+|-
+! dative
+| chłopcu || chłopcom
+|-
+! accusative
+| chłopca || chłopców
+|-
+! instrumental
+| chłopcem || chłopcami
+|-
+! locative
+| chłopcze || chłopcach
+|-
+! vocative
+| chłopcze || chłopcy
+|}
+</table>
 
-===Pronunciation===
-{{pl-p|a=Pl-chłopiec.ogg}}
-
-===Noun===
-{{pl-noun|m-pr|dim=chłopczyk}}
-
-# [[boy]] {{gl|a male child}}
-#: {{syn|pl|chłopak|małolat|młodzieniec|młodzik|podrostek}}
-#: {{ant|pl|mężczyzna|q1=by age|dziewczyna|q2=by gender}}
-# {{lb|pl|colloquial|dated}} [[boyfriend]] {{gl|a male romantic partner}}
-#: {{syn|pl|chłopak|partner}}
-#: {{syn|pl|dziewczyna|partnerka}}
-
-====Usage notes====
-The word '''chłopiec''' is usually used for people younger than [[chłopak]].
-
-====Declension====
-{{pl-decl-noun-m-pr|dats=chłopcu}}
-
-====Related terms====
-{{col3|pl|title=adjective|chłopięcy}}
-{{col3|pl|title=nouns|chłopiec do bicia|chłop|chłopak|chłopczyca|chłopię|chłopięcość}}
-{{col3|pl|title=verb|chłopieć}}
-
-===Further reading===
-* {{R:pl:WSJP}}
-* {{R:pl:PWN}}
-
-{{C|pl|Male children}}
+# [[boy]]
