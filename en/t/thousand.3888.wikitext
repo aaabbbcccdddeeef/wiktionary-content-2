@@ -1,364 +1,84 @@
-==Translingual==
-
-===Etymology===
-From {{der|mul|en|thousand}}.
-
-===Pronunciation===
-* {{IPA|mul|/ˈtaʊˈzænd/}}<ref>{{cite book|url=https://www.icao.int/Meetings/anconf12/Document%20Archive/AN10_V2_cons%5B1%5D.pdf|title=Annex 10 to the Convention on International Civil Aviation: Aeronautical Telecommunications; Volume II Communication Procedures including those with PANS status|page=§5.2.1.4.3.1|publisher=International Civil Aviation Organization|edition=6th|date=October 2001|access-date=23 January 2019|archive-url=https://web.archive.org/web/20190331002913/https://www.icao.int/Meetings/anconf12/Document%20Archive/AN10_V2_cons%5B1%5D.pdf|archive-date=31 March 2019|url-status=live}}</ref>
-
-===Noun===
-{{mul-noun}}
-
-# {{phonetic alphabet|NATO/ICAO=1|ITU/IMO=1|word=1|{{l|en|thousand}}}}
-
-====Usage notes====
-Used when reciting distances (including altitudes), but not for serial numbers. That is, a serial number 10946 would be read simply as its digits: ''one zero nine four six''.
-
-===References===
-<references/>
-
-----
-
 ==English==
-{{number box|en|1000}}
-
-===Alternative forms===
-* Arabic numerals: [[1000]] {{qualifier|see for numerical forms in other scripts}}
-* Roman numerals: [[M]]
-* ISO prefix: [[kilo-]]
-* Exponential notation: 10<sup>3</sup>
-<!-- Please add other numerical forms to the page for 1000 instead of here. -->
-
-===Etymology===
-{{root|en|ine-pro|*tewh₂-}}
-From {{inh|en|enm|thousend}}, {{m|enm|thusand}}, from {{inh|en|ang|þūsend||thousand}}, from {{inh|en|gmw-pro|*þūsundi}}, from {{inh|en|gem-pro|*þūsundī||thousand}}, (compare {{cog|sco|thousand||thousand}}, {{cog|stq|duusend||thousand}}, {{cog|fy|tûzen||thousand}}, {{cog|nl|duizend||thousand}}, {{cog|de|tausend||thousand}}, {{cog|da|tusind||thousand}}, {{cog|sv|tusen||thousand}}, {{cog|no|tusen||thousand}}, {{cog|is|þúsund||thousand}}, {{cog|fo|túsund||thousand}}), from {{der|en|ine-pro|*tuHsont-}}, {{m|ine-pro|*tuHsenti-}} (compare {{cog|lt|tūkstantis|t=thousand}}, {{cog|ru|ты́сяча}}).
-
-===Pronunciation===
-* {{a|RP}} {{IPA|en|/ˈθaʊz(ə)nd/}}
-* {{a|GA}} {{enPR|thou′zənd}}, {{IPA|en|/ˈθaʊz(ə)n(d)/|[ˈθaʊ̯zn̩d]}}
-* {{audio|en|En-us-thousand.ogg|Audio (GA)}}
-* {{hyphenation|en|thou|sand}}
 
 ===Numeral===
-{{head|en|numeral|plural|thousands}}
-
-# {{cln|en|cardinal numbers}} A [[numerical]] [[value]] equal to [[1000|1,000]] = 10 &times; 100 = 10<sup>3</sup>
-#: {{ux|en|The company earned fifty '''thousand''' dollars last month.}}
-#: {{ux|en|Many '''thousands''' of people came to the conference.}}
-
-====Usage notes====
-Unlike cardinal numerals such as ''[[ten]]'' or ''[[ninety-nine]]'' (where one can say e.g. ''there were ten men present''), the word ''thousand'' is a noun like ''[[dozen]]'' and needs a determiner or another numeral to function as a numeral: one cannot say *''there were thousand men present'', but must say:
-* ''there were a '''thousand''' men / one '''thousand''' men / forty-three '''thousand''' men present''
-* one can also speak of ''the '''thousand''' men'', ''several '''thousand''' men'', or ''some '''thousand''' men who were present''
-* compare ''a dozen men / one dozen men / forty-three dozen men'', ''the dozen men'', ''several dozen men'', ''some dozen men''
-When preceded by a determiner or numeral and followed by ''of'', it can be singular<!--when used as a numeral?--> or plural<!--when used as a count noun for "a group of a thousand"?-->:
-* ''two '''thousand''' of the inhabitants died'', ''several '''thousand''' of the inhabitants fled''
-* ''many '''thousands''' of women marched''
-* "''Aragorn should find some two '''thousands''' of those that he had gathered to him in the South; but Imrahil should find three and a half thousands; and Éomer five hundreds of the Rohirrim who were unhorsed but themselves warworthy.''" (J.R.R. Tolkien, ''The Return of the King'')
-When followed by ''of'' and not preceded by a determiner or numeral, it must be pluralized with ''[[-s]]'': '''''thousands''' of women protested'', <!--example with adjective-->''countless '''thousands''' of women voted'', not *''thousand of women''.
-
-In Malaysian English, 1100, 1200, and other numbers combining a thousand and hundreds are known as '''''thousand''' one'', '''''thousand''' two'', '''''thousand''' three'', and so on.
-
-====Synonyms====
-* {{sense|numerical}} {{l|en|a thousand}}, {{l|en|one thousand}}
-
-====Derived terms====
-<!-- ordered by numerical value -->
-{{col2|en|title=numbers|sort=0
-|one thousand
-|[[one thousand and one]], [[thousand and one]], [[thousand one]]
-|two thousand
-|three thousand
-|four thousand
-|five thousand
-|six thousand
-|seven thousand
-|eight thousand
-|nine thousand
-|nine thousand nine hundred and ninety-nine
-|ten thousand
-|hundred thousand
-|thousand million
-}}
-{{col2|en|title=other
-|die a thousand deaths
-|hundreds and thousands
-|mother of thousands
-|[[thousandaire]], [[tenthousandaire]]
-|thousandfold
-|Thousand Islands
-|thousandth
-|yearthousand
-}}
-
-====Descendants====
-* {{desc|bor=1|haw|kaukani|alts=1}}
-
-====Translations====
-{{trans-top|cardinal number 1000}}
-* Abkhaz: {{t|ab|зықы|sc=Cyrl}}
-* Afrikaans: {{t+|af|duisend}}
-* Aklanon: {{t|akl|libo}}
-* Albanian: {{t+|sq|mijë}}
-* Amharic: {{t|am|ሺ}}
-* Arabic: {{t+|ar|أَلْف}}, {{t|ar|١٠٠٠}}
-* Aragonese: {{t|an|mil}}
-* Aramaic:
-*: Assyrian Neo-Aramaic: {{t|aii|ܐܲܠܦܵܐ|tr=ālpa|m}}
-*: Hebrew: {{t|arc|אלפא|tr=’alpā’|m}}
-*: Syriac: {{t|arc|ܐܠܦܐ|tr=’alpā’|m}}
-* Archi: {{t|aqc|изар}}
-* Armenian: {{t+|hy|հազար}}
-* Aromanian: {{t|rup|njilje}}
-* Assamese: {{t|as|হাজাৰ}}, {{t|as|হেজাৰ}}
-* Asturian: {{t+|ast|mil}}
-* Avar: {{t|av|азарго}}
-* Avestan: {{t|ae|𐬵𐬀𐬰𐬀𐬢𐬭𐬀}}
-* Aymara: {{t|ay|waranqa}}
-* Azerbaijani: {{t+|az|min}}
-* Bashkir: {{t|ba|мең|sc=Cyrl}}
-* Basque: {{t+|eu|mila}}
-* Belarusian: {{t|be|ты́сяча|f}}
-* Bengali: {{t|bn|হাজার|sc=Beng}}, {{t|bn|সহস্র}}
-* Bikol Central: {{t+|bcl|ribo}}
-* Breton: {{t+|br|mil}}
-* Brunei Malay: {{t|kxd|ribu}}
-* Bulgarian: {{t|bg|хиля́да|f}}
-* Burmese: {{t+|my|ထောင်}}, {{t|my|တစ်ထောင်}}
-* Buryat: {{t|bua|мянган}}
-* Catalan: {{t+|ca|mil}} (exact); {{t+|ca|miler}} or {{t|ca|milenar}} (approximately, or a set of a size numbered in the thousands)
-* Cebuano: {{t|ceb|libo}}
-* Chechen: {{t|ce|эзар}}
-* Cherokee: {{t|chr|ᎠᎦᏴᎵ}}, {{t|chr|ᎢᏯᎦᏴᎵ}}, {{t|chr|ᏐᏬ ᎢᏯᎦᏴᎵ}}
-* Chichewa: {{t|ny|chikwi}}, {{t|ny|sauzande}}
-* Chickasaw: {{t|cic|talhipa sipokni'}}
-* Chinese:
-*: Cantonese: {{t+|yue|千|tr=cin1|sc=Hani}}
-*: Dungan: {{t|dng|чян}}
-*: Mandarin: {{t+|cmn|千|tr=qiān|sc=Hani}}
-*: Min Nan: {{t+|nan|千|tr=chheng}}
-*:: Teochew: {{t+|nan|千|tr=coin1}}
-* Chuukese: {{t|chk|engöröu}}, {{t|chk|-ngöröu}}
-* Chuvash: {{t|cv|пин|sc=Cyrl}}
-* Crimean Tatar: {{t|crh|miñ}}
-* Czech: {{t+|cs|tisíc|m}}
-* Dalmatian: {{t|dlm|mel}}
-* Danish: {{t+|da|tusinde}}, {{t+|da|tusind}}
-* Dargwa: {{t|dar|азир}}
-* Drung: {{t|duu|tu}}
-* Dutch: {{t+|nl|duizend|f}}
-* Egyptian: {{t-egy|ḫꜣ|h=M12}}
-* Erzya: {{t|myv|тёжа}}
-* Esperanto: {{t+|eo|mil}}
-* Estonian: {{t+|et|tuhat}}
-* Ewe: {{t|ee|akpe}}
-* Faroese: {{t|fo|túsund}}
-* Finnish: {{t+|fi|tuhat}}
-* French: {{t+|fr|mille|m}}
-* Friulian: {{t|fur|mil}}
-* Galician: {{t+|gl|mil}}
-* Garifuna: {{t|cab|milu}}
-* Ge'ez: {{t|gez|እልፍ}}, {{t|gez|ሲሕ}}
-* Georgian: {{t+|ka|ათასი}}
-* German: {{t+|de|tausend|n}}
-* Gothic: {{t|got|𐌸𐌿𐍃𐌿𐌽𐌳𐌹|f|tr=þūsundi}}
-* Greek: {{t+|el|χίλια|n}}
-*: Ancient: {{t|grc|χίλιοι}}, {{t|grc|͵α}} {{qualifier|numeral}}
-* Greenlandic: {{t|kl|tuusinti}}
-* Guaraní: {{t|gn|su}}
-* Gujarati: {{t|gu|હજાર|sc=Gujr}}
-* Hausa: {{t|ha|dubu}}, {{t|ha|alif}}
-* Hawaiian: {{t|haw|kaukani}}
-* Hebrew: {{t+|he|אֶלֶף|tr=élef}}
-* Higaonon: {{t|mba|nangkalibo}}
-* Hiligaynon: {{t|hil|libo}}
-* Hindi: {{t+|hi|हज़ार|m}}, {{t+|hi|सहस्र}}, {{t|hi|१०००}}, {{t|hi|सहास}}
-* Hungarian: {{t+|hu|ezer}}
-* Ibanag: {{t|ibg|maribu}}
-* Icelandic: {{t+|is|þúsund|n}}
-* Ido: {{t+|io|mil}}
-* Ilocano: {{t|ilo|ribo}}
-* Indonesian: {{t+|id|ribu}}
-* Ingush: {{t|inh|эзар}}
-* Interlingua: {{t|ia|mille}}
-* Irish: {{t+|ga|míle}}
-* Isnag: {{t|isd|ribu}}
-* Istro-Romanian: {{t|ruo|miľår}}, {{t|ruo|tisuť}}, {{t|ruo|tåvžânt}}
-* Italian: {{t+|it|mille|m}}
-* Japanese: {{t+|ja|千|tr=せん, sen}}
-* Javanese: {{t+|jv|èwu}}
-* Kalmyk: {{t|xal|миңһн}}
-* Kannada: {{t+|kn|ಸಾವಿರ|sc=Knda}}
-* Kapampangan: {{t|pam|libu}}
-* Kazakh: {{t+|kk|мың|sc=Cyrl}}
-* Khakas: {{t|kjh|муң|sc=Cyrl}}
-* Khmer: {{t|km|មួយពាន់}}, {{t+|km|ពាន់}}
-* Komi-Permyak: {{t|koi|сюрс}}
-* Korean: {{t+|ko|천(千)}}
-* Kumyk: {{t|kum|минг|tr=miñ}}
-* Kurdish:
-*: Central Kurdish: {{t+|ckb|ھەزار}}
-*: Northern Kurdish: {{t+|kmr|hezar}}, {{t+|kmr|hizar}}
-* Kyrgyz: {{t|ky|миң|sc=Cyrl}}
-* Lakota: {{t|lkt|kȟoktá}}, {{t|lkt|khektópawiŋǧe}}
-* Lao: {{t|lo|ພັນ}}
-* Latgalian: {{t|ltg|tyukstūša}}
-* Latin: {{t+|la|mīlle}}, {{t+|la|mīlia}}
-* Latvian: {{t+|lv|tūkstotis}}
-* Lezgi: {{t|lez|агъзур}}
-* Ligurian: {{t-needed|lij}}
-{{trans-mid}}
-* Lithuanian: {{t+|lt|tūkstantis|m}}
-* Lombard: {{t+|lmo|mila}}, {{t+|lmo|milla}}
-* Louisiana Creole French: {{t|lou|mil}}
-* Luxembourgish: {{t+|lb|dausend}}
-* Lü: {{t|khb|ᦗᧃ}}
-* Macedonian: {{t+|mk|илјада|f}}
-* Malay: {{t+|ms|ribu}}
-* Malayalam: {{t+|ml|ആയിരം|sc=Mlym}}
-* Maltese: {{t+|mt|elf}}
-* Manchu: {{t|mnc|ᠮᡳᠩᡤᠠᠨ}}
-* Mansaka: {{t|msk|libo}}
-* Manx: {{t|gv|jeih keead}}, {{t|gv|milley}}, {{t|gv|thousane}}
-* Maore Comorian: {{t|swb|alifu}}
-* Maori: {{t|mi|mano}}
-* Maranao: {{t|mrw|nggibo}}
-* Marathi: {{t+|mr|हजार |tr=haj̈ar}}, {{t|mr|सहस्र}}, {{t|mr|१०००}}
-* Middle English: {{t|enm|thousend}}
-* Middle Korean: {{t|okm|즈믄|tr=cumun}}
-* Mirandese: {{t|mwl|mil}}
-* Mongolian: {{t+|mn|мянга|sc=Cyrl}}
-* Nanai: {{t|gld|минган}}
-* Nauruan: {{t|na|araña}}
-* Navajo: {{t|nv|tʼááłáhádí mííl}}, {{t|nv|mííl}}
-* Nepali: {{t|ne|हजार|tr=hajār}}
-* Northern Sami: {{t|se|duhát}}
-* Norwegian: {{t+|no|tusen}}
-* Occitan: {{t+|oc|mil}}, {{t+|oc|mila}}
-* Ojibwe: {{t|oj|ingodosagoons}}
-* Old English: {{t|ang|þūsend}}
-* Old Javanese: {{t|kaw|iwu}}
-* Old Turkic: {{t|otk|𐰋𐰃𐰭|ts=biŋ}}
-* Oriya: {{t|or|ହଜାର}}
-* Oromo: {{t|om|kuma}}
-* Ossetian: {{t|os|мин|sc=Cyrl}}, {{t|os|ӕрзӕ|sc=Cyrl}}
-* Ottoman Turkish: {{t|ota|بیك|tr=biŋ|sc=ota-Arab}}
-* Pashto: {{t+|ps|زر|tr=zër}}
-* Persian: {{t+|fa|هِزار|tr=hezâr}}, {{t+|fa|زار|tr=zār}} {{qualifier|colloquial and in compound words}}
-* Polish: {{t+|pl|tysiąc|m-in}}
-* Portuguese: {{t+|pt|mil}}
-* Punjabi: {{t|pa|ਹਜ਼ਾਰ|sc=Guru}}
-* Quechua: {{t|qu|waranqa}}, {{t|qu|waranga}}
-* Rohingya: {{t|rhg|házar}}, {{t|rhg|ázar}}
-* Romani: {{t|rom|bari}}, {{t|rom|бари}}
-* Romanian: {{t+|ro|mie|f}}
-* Russian: {{t+|ru|ты́сяча|f}}
-* Saho: {{t|ssy|shiix}}
-* Sanskrit: {{t+|sa|सहस्र}}
-* Santali: {{t|sat|ᱢᱤᱫ ᱦᱟᱡᱟᱨ}}
-* Santali: {{t|sat|ᱦᱟᱡᱟᱨ}}
-* Sardinian: {{t|sc|mila}}, {{t|sc|milla}}, {{t|sc|milli}}, {{t|sc|miza}}, {{t|sc|mizi}}
-* Scots: {{t|sco|thousand}}
-* Scottish Gaelic: {{t+|gd|mìle}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|тисућа|f|sc=Cyrl}}, {{t|sh|хиљада|f|sc=Cyrl}}
-*: Roman: {{t+|sh|tisuća|f}}, {{t+|sh|hiljada|f}}
-* Shan: {{t+|shn|ႁဵင်}}
-* Sherpa: {{t|xsr|འ་ཛར|tr=hazar}}
-* Shor: {{t|cjs|муң}}
-* Sicilian: {{t+|scn|milli}}, {{t+|scn|middi}}
-* Sidamo: {{t|sid|kume}}
-* Sindhi: {{t|sd|هِزار|tr=hazāru}}
-* Sinhalese: {{t+|si|දහස|sc=Sinh}}
-* Slovak: {{t+|sk|tisíc|m}}
-* Slovene: {{t+|sl|tísoč|m}}
-* Somali: {{t|so|kun}}
-* Southern Altai: {{t|alt|муҥ}}
-* Spanish: {{t+|es|mil|m}}
-* Swahili: {{t+|sw|elfu}}
-* Swedish: {{t+|sv|tusen}}
-* Tabasaran: {{t|tab|агъзур}}
-* Tagalog: {{t|tl|libo}}
-* Tajik: {{t+|tg|ҳазор|sc=Cyrl}}
-* Tamil: {{t+|ta|ஆயிரம்}}
-* Taos: {{t|twf|mílą}}
-* Tatar: {{t+|tt|мең|sc=Cyrl}}
-* Tausug: {{t|tsg|ibu}}, {{t|tsg|hangibu}}
-* Tedim Chin: {{t|ctd|tuul}}
-* Telugu: {{t+|te|వెయ్యి}}, {{t+|te|వేయి}}
-* Tetum: {{t|tet|rihun}}
-* Thai: {{t|th|หนึ่งพัน}}, {{t+|th|พัน}}
-* Tibetan: {{t|bo|སྟོང|sc=Tibt}}
-* Tigrinya: {{t+|ti|ሽሕ}}
-* Tocharian A: {{t|xto|wälts}}
-* Tocharian B: {{t|txb|yaltse}}
-* Turkish: {{t+|tr|bin}}
-* Turkmen: {{t+|tk|müň}}
-* Tuvan: {{t|tyv|муң}}
-* Udi: {{t|udi|гьазар}}
-* Udmurt: {{t|udm|сюрс}}
-* Ukrainian: {{t+|uk|ти́сяча|f}}
-* Urdu: {{t|ur|ہزار|m|tr=hazār}}, {{t|ur|سہاس|tr=sahaas}}, {{t|ur|سہسر|tr=sahasra}}, {{t|ur|۱۰۰۰}}
-* Uyghur: {{t|ug|مىڭ|sc=ug-Arab}}
-* Uzbek: {{t+|uz|ming}}
-* Venetian: {{t|vec|mìle}}
-* Vietnamese: {{t+|vi|ngàn}}, {{t+|vi|nghìn}}
-* Vilamovian: {{t|wym|taojzyt}}
-* Volapük: {{t+|vo|mil}}
-* Waray-Waray: {{t|war|yukot}}
-* Welsh: {{t+|cy|mil}}
-* West Frisian: {{t|fy|tûzen}}
-* Western Bukidnon Manobo: {{t|mbb|libu}}
-* Wolio: {{t|wlo|rewu}}
-* Wolof: {{t+|wo|junni}}
-* Yagnobi: {{t|yai|ҳазор}}
-* Yakut: {{t|sah|тыһыынча}}, {{t|sah|муҥ}}
-* Yiddish: {{t|yi|טויזנט|m}}
-* Yup'ik: {{t|ems|tiisiqaq}}, {{t|esu|tiissitsaaq}}
-* Zazaki: {{t|zza|xezar}}
-* Zou: {{t|zom|tul}}
-{{trans-bottom}}
-
-====See also====
-* [[Appendix:Words used as placeholders to count seconds]]
-
-===Anagrams===
-* {{anagrams|en|a=adhnostu|handouts|hands out}}
-
-[[Category:en:Thousand]]
+'''thousand'''
+# 1,000.
 
 ----
 
-==Middle English==
-
-===Numeral===
-{{head|enm|numeral}}
-
-# {{alt form|enm|thousend}}
-
-===Adjective===
-{{head|enm|adjective}}
-
-# {{alt form|enm|thousend}}
+*''Western (Arabic) Numeral'' '''Thousand, 1000'''
+*Chinese numeral: 仟, 千
+*Roman symbol: '''M''' or '''ↀ'''
+**'''Last''': [[Hundred]], [[100]]
+**'''Next''': [[Ten Thousand]] or [[Myriad]] (10,000), [[Million]], 10<sup>6</sup>
 
 ----
 
-==Scots==
+==Number==
 
-===Alternative forms===
-* {{alter|sco|thoosan|thoosand|thousant}}
+10<sup>3</sup> = 1,000 = 10 &times; 100
 
-===Etymology===
-{{dercat|sco|gem-pro|ine-pro|inh=1}}
-{{inh+|sco|enm|thousand}}, from {{inh|sco|ang|þūsend}}, from {{inh|sco|gmw-pro|*þūsundi}}.
+*Symbolic: 1000
+*Roman symbols: M 
+*ISO prefix: [[kilo-]]
 
-===Pronunciation===
-* {{IPA|sco|/ˈθuzɪnd/|/ˈθuzənd/}}
+===Translations===
+*Anglo-Saxon: þusend
+*Arabic: ألف
+*Belarusian: [[тысяча]]
+*[[Bosnian]]: hiljada, hiljadu ''genetive''
+*Breton: [[mil]]
+*Catalan: mil
+*Croatian: hiljadu
+*Czech:  tisíc
+*Danish: tusinde
+*Dutch: [[duizend]] ''f''
+*Esperanto: [[mil]]
+*Estonian: [[tuhat]]
+*Finnish: [[tuhat]]
+*French: [[mille]] ''m''
+*Frisian: [[tûzen]]
+*German: [[tausend]] ''n''
+*Greek: χίλια
+*Old Greek: χίλιοι
+*Guarani: sa
+*Gujarati: હજાર (hajāra)
+*Hebrew: אלף
+*{{hi}}: हज़ार (hajāra)
+*Hungarian: [[ezer]]
+*Icelandic: þúsund
+*[[Ido]]: [[mil]]
+*Indonesian: [[ribu]]
+*Interlingua: [[mille]]
+*Italian: [[mille]] ''m''
+*Japanese: [[千]] ([[せん]], sen)
+*Latin: mīlle
+*Lithuanian: [[tūkstantis]] ''m''
+*Klingon:  (saD)
+*Manchu: [[minggan]]
+*Norwegian: tusen
+*Persian: [[هِزار]] (hezār)
+*Polish: [[tysiąc]]
+*Portuguese: [[mil]]
+*Punjabi: ਹਜਾਰ (hajāra)
+*Romanian: [[mie]] ''f''
+*Russian: [[тысяча]] ''f''  (tysjacha)
+*Sanskrit: सहस्र (sahasra)
+*Serbian: хиљаду
+*Slovio: [[tisicx]]
+*Spanish: [[mil]] ''m''
+*Swahili: elfu
+*Swedish: tusen
+*Tagalog: [[libo]]
+*Thai: [[พัน]]
+*Turkish: [[bin]]
+*Ukrainian: [[тисяча]]
+*Vietnamese: [[một nghìn]], [[ngàn]]
+*Volapük: mil
+*Welsh: [[mil]]
 
-===Numeral===
-{{head|sco|numeral}}
+====Related words====
 
-# {{cln|sco|cardinal numbers}} {{l|en|thousand}}
+*[[thousandth]]
 
-====Usage notes====
-Used with "a" in the same way as English to denote 1000.
+[[Category:English cardinal numbers]]
