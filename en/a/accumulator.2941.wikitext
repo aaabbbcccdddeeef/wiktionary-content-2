@@ -1,208 +1,40 @@
 ==English==
-[[File:Image from page 066 of The Century dictionary and cyclopedia (1897) (14804974383).jpg|thumb|upright=.5|hydraulic accumulator (6)]]
-
 ===Etymology===
-From {{bor|en|la|accumulātor}}, agent noun of {{m|la|accumulō||pile up}}, {{suffix|en|accumulate|or}}.
-
-===Pronunciation===
-* {{a|US}} {{IPA|en|/ə.ˈkjum.jə.ˌleɪ.tɚ/}}
-* {{audio|en|en-us-accumulator.ogg|Audio (US)}}
+Latin
 
 ===Noun===
-{{en-noun}}
+'''accumulator''' ([[accumulators]])
 
-# {{lb|en|literal}} One who, or that which, [[accumulate]]s.
-#: {{syn|en|collector}}
-#: {{ux|en|He is a great '''accumulator''' of bad jokes.}}
-# {{lb|en|British}} A [[wet cell|wet-cell]] storage battery.
-#: {{ux|en|Looks like it's time to recharge the '''accumulator''' again.}}
-# {{lb|en|betting}} A collective [[bet]] on successive events, with both [[stake]] and [[winnings]] being carried forward to accumulate progressively.
-#: {{syn|en|parlay}}
-#* {{quote-book|en|year=2000|author=Guinness World Records|title=Guinness Book of Records 2000|publisher=Demco Media|isbn=9780606176064
-|passage=The largest payout for a bet on a horse race was  $1,627,084 after tax, paid to Britons Anthony Speelman and Nicholas Cowan on their $64 nine-horse '''accumulator''' at Santa Anita Racecourse, California, in 1987.}}
-# {{lb|en|mechanics}} A system of elastic springs for [[relieve|relieving]] the strain upon a rope, as in [[deep-sea]] [[dredging]].
-# {{lb|en|manufacturing}} A vessel containing pressurized hot water ready for release as steam.
-# {{lb|en|engineering|hydraulics}} A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).
-#: {{syn|en|shock absorber}}
-# {{lb|en|programming}} A [[register]] or [[variable]] used for holding the intermediate results of a [[computation]] or [[data]] [[transfer]].
-#* {{quote-book|en|year=1986|author=Jules H. Gilder|title=Apple IIc and IIe Assembly Language|publisher=Springer Science & Business Media|isbn=9781468464245|page={{gbooks|e8olBAAAQBAJ|139}}
-|passage=The contents of the memory location and '''accumulator''' are NOT altered, but the Negative, Zero and Carry flags are conditioned according to the result of the subtraction.}}
-#* {{quote-book|en|year=2011|author=Oliver Sturm|title=Functional Programming in C#|publisher=John Wiley & Sons|isbn=9780470971109|page={{gbooks|gE9BukqrsrMC|122}}
-|passage=The function  signature has changed to include the additional parameter '''accumulator'''. This  parameter, in a way, takes on the job of the return value.}}
-# {{lb|en|finance}} A [[derivative]] contract under which the seller commits to sell shares of an underlying security at a certain [[strike price]], which the buyer is obligated to buy.
-#: {{syn|en|share forward accumulator}}
-#* {{quote-book|en|year=2014|author=Jerome Yen|author2=Kin Keung Lai|title=Emerging Financial Derivatives|publisher=Routledge|isbn=9781317638889
-|passage=This product was fairly popular among investors in Hong Kong in 2007 considering the market conditions at that time. It is an '''accumulator''' of the underlying stock with a contract period of 12 months.}}
-# {{lb|en|UK|education|historical}} One who takes two higher degrees simultaneously, to reduce their length of study.
-#* '''1691–92''', {{w|Anthony Wood (antiquary)}}, ''Athenæ Oxonienses''
-#*: The first of these two was a compounder, the other who was an '''accumulator''', was lately made provost of Trin. coll. near Dublin, and on the 31st of March 1692 was nominated bish. of Kilmore.
-# {{lb|en|cryptography}} A one way membership [[function]].
-
-====Derived terms====
-* [[orgone accumulator]]
-* [[steam accumulator]]
+#One who, or that which, [[accumulate]]s, collects, or [[amass]]es.
+#''(Mechanics):'' An apparatus by means of which energy or power can be stored, such as the cylinder or tank for [[storing]] water for hydraulic [[elevators]], the secondary or [[storage]] battery used for [[accumulating]] the energy of electrical charges, etc.
+#A system of elastic springs for [[relieving]] the strain upon a rope, as in [[deep-sea]] [[dredging]]
 
 ====Related terms====
-* {{l|en|accumulate}}
-* {{l|en|accumulation}}
-* {{l|en|accumulative}}
+*[[accumulate]]
+*[[accumulation]]
 
-====Translations====
-{{trans-top|one who or that which accumulates}}
-* Bulgarian: {{t+|bg|акумула́тор|m}}
-* Czech: {{t+|cs|akumulátor|m}}
-* Dutch: {{t+|nl|verzamelaar|m}}
-* Finnish: {{t+|fi|varaaja}}, {{t+|fi|kerääjä}}, {{t+|fi|varasto}}
-* French: {{t+|fr|accumulateur|m}}, {{t+|fr| accumulatrice|f}}
-* German: {{t+|de|Akkumulator|m}}
-* Greek: {{t+|el|αποταμιευτής|m|sc=Grek}}, {{t+|el|αποθησαυριστής|m|sc=Grek}}
-* Indonesian: {{t+|id|akumulator}}
-* Interlingua: {{t|ia|accumulator}}
-{{trans-mid}}
-* Irish: {{t|ga|bailitheoir|m}}
-* Italian: {{t+|it|accumulatore|m}}, {{t|it|accumulatrice|f}}
-* Korean: {{t|ko|축적자}}
-* Malay: {{t+|ms|penumpuk}}
-* Persian: {{t+|fa|انباشتگر|tr=anbāštgar}}
-* Portuguese: {{t+|pt|acumulador|m}}
-* Romanian: {{t+|ro|acumulator}}
-* Russian: {{t+|ru|аккумуля́тор|m}}, {{t+|ru|накопи́тель|m}}
-* Spanish: {{t+|es|acumulador|m}}
-* Swedish: {{t+|sv|ackumulator}}
-{{trans-bottom}}
+==== Translations ====
+*[[Basque]]: [[metagailu]]
+*Bulgarian: [[Акумулатор]]
+*Danish: [[akkumulator]]
+*Dutch: [[accu]]
+*Finnish: [[akku]], [[varaaja]]
+*French: [[accumulateur]]
+*German: [[Akkumulator]]
+*Greek: [[συσσωρευτής]], [[αποταμιευτής]]
+*Hungarian: [[akkumulátor]]
+*Indonesian: [[akumulator]]
+*Interlingua: accumulator
+*Italian: [[accumulatore]]
+*Norwegian: [[akkumulator]]
+*[[Persian]]: [[انباره]] (anbareh)
+*Portuguese: [[acumulador]]
+*Romanica: accumulator ''m''
+*Russian: [[m:w:ru:аккумулятор|аккумулятор]]
+*Spanish: [[acumulador]]
+*Swedish: [[ackumulator]]
+*Turkish: [[akü]], [[akümülatör]]
 
-{{trans-top|wet-cell storage battery}}
-* Afrikaans: {{t|af|akkumlator}}
-* Azerbaijani: {{t|az|akkumulyator}}
-* Chinese:
-*: Mandarin: {{t+|cmn|蓄電池|sc=Hani}}, {{t+|cmn|蓄电池|tr=xùdiànchí|sc=Hani}}, {{t+|cmn|電瓶|sc=Hani}}, {{t+|cmn|电瓶|tr=diànpíng|sc=Hani}}
-* Czech: {{t+|cs|akumulátor|m}}
-* Dutch: {{t+|nl|accu|m}}
-* Esperanto: {{t|eo|akumulatoro}}
-* Finnish: {{t+|fi|akku}}
-* French: {{t+|fr|accumulateur|m}}
-* German: {{t+|de|Akkumulator|m}}
-{{trans-mid}}
-* Greek: {{t|el|ηλεκτρικός συσσωρευτής|m|sc=Grek}}
-* Hungarian: {{t+|hu|akkumulátor}}
-* Japanese: {{t+|ja|蓄電池|tr=ちくでんち, chikudenchi|sc=Jpan}}, {{t|ja|アキュムレータ|tr=akyumurēta|sc=Jpan}}
-* Korean: {{t|ko|축적자}}
-* Malay: {{t+|ms|akumulator}}
-* Persian: {{t+|fa|انباشتگر|tr=anbāštgar}}
-* Polish: {{t+|pl|akumulator|m-in}}
-* Portuguese: {{t+|pt|acumulador|m}}
-* Russian: {{t+|ru|аккумуля́тор|m}}
-* Turkish: {{t+|tr|akümülatör}}, {{t+|tr|akü}}
-* Vietnamese: {{t|vi|bình điện}}
-{{trans-bottom}}
-
-{{trans-top|betting: collective bet on successive events}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|mechanics: system of elastic springs for relieving strain upon a rope}}
-* Ido: {{t|io|akumulilo}}
-{{trans-mid}}
-* Russian: {{t+|ru|колле́ктор|m}}
-{{trans-bottom}}
-
-{{trans-top|manufacturing: vessel containing pressurized hot water ready for release as steam}}
-* Finnish: {{t|fi|höyryakku}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|hydraulics: container which stores hydraulic power for release}}
-* Dutch: {{t+|nl|accumulator|m}}
-* Finnish: {{t|fi|painesäiliö}}
-{{trans-mid}}
-* Ido: {{t+|io|akumulatoro}}
-{{trans-bottom}}
-
-{{trans-top|computer science: register for holding intermediate results}}
-* Dutch: {{t+|nl|accumulator|m}}
-* Esperanto: {{t|eo|akumulejo}}
-* Finnish: {{t+|fi|akku}}, {{t+|fi|akkumulaattori}}
-* German: {{t+|de| Akkumulator|m}}
-{{trans-mid}}
-* Greek: {{t+|el|συσσωρευτής|m|sc=Grek}}
-* Polish: {{t+|pl|akumulator|m}}
-* Portuguese: {{t+|pt|acumulador|m}}
-{{trans-bottom}}
-
-{{trans-top|finance: type of derivative contract}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Basque: {{t-check|eu|metagailu}}
-* Danish: {{t+check|da|akkumulator}}
-* Hebrew: {{t-check|he|מצבר|m|tr=matzber|sc=Hebr}} (2)
-* Norwegian: {{t+check|no|akkumulator}}
-{{trans-mid}}
-* Persian: {{t+check|fa|انباره|tr=anbareh}}
-* Swedish: {{t+check|sv|ackumulator}}
-* Turkish: {{t+check|tr|akü}}, {{t+check|tr|akümülatör}}
-* Welsh: {{t-check|cy|cronadur|m}}
-{{trans-bottom}}
-
-===Further reading===
-* {{pedia}}
-
-----
-
-==Dutch==
-
-===Alternative forms===
-* {{l|nl|accumulateur}} {{q|archaic}}
-
-===Etymology===
-Borrowed from {{bor|nl|fr|accumulateur}}, from {{der|nl|la|accumulātor}}. The spelling and pronunciation was subsequently adapted to Latin or {{der|nl|en|accumulator}}.
-
-===Pronunciation===
-* {{IPA|nl|/ˌɑ.ky.myˈlaː.tɔr/}}
-* {{audio|nl|Nl-accumulator.ogg|Audio}}
-* {{hyphenation|nl|ac|cu|mu|la|tor}}
-* {{rhymes|nl|aːtɔr}}
-
-===Noun===
-{{nl-noun|m|-:en|-}}
-
-# {{lb|nl|dated|now|chiefly|historical}} [[battery]], {{l|en|accumulator}}
-#: {{syn|nl|accu}}
-
-====Derived terms====
-* {{l|nl|accu}}
-
-----
-
-==Latin==
-
-===Alternative forms===
-* {{alt|la|adcumulātor}}
-
-===Pronunciation===
-* {{la-IPA|accumulātor}}
-
-===Etymology 1===
-{{af|la|accumulō|gloss1=to amass|-tor}}
-
-====Noun====
-{{la-noun|accumulātor<3>|g=m}}
-
-# one who [[heap]]s up, [[amass]]es, or [[hoard]]s
-
-=====Declension=====
-{{la-ndecl|accumulātor<3>}}
-
-===Etymology 2===
-{{nonlemma}}
-
-====Verb====
-{{la-verb-form|accumulātor}}
-
-# {{inflection of|la|accumulō||2//3|s|futr|pasv|impr}}
-
-===References===
-* {{R:L&S}}
-* {{R:Elementary Lewis}}
-* {{R:Gaffiot}}
+[[it:accumulator]]
+[[pl:Accumulator]]
+[[fi:Accumulator]]
