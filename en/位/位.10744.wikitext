@@ -1,26 +1,17 @@
-* '''[[Wiktionary:Chinese radical index| Radical]]''': [[Wiktionary:Chinese radical index 人|人]]+5
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 7|7]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2021<sub>8</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 人卜廿 (OYT)
-
-* '''Character decomposition''': left [[亻]], right [[立]]
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#throne
-*# position, post
-*# rank, status
-*# seat
-
+==Translingual==
+===Han character===
+{{Han char|rad=人|as=05|sn=7|four=2021<sub>8</sub>|canj=人卜廿 (OYT)}}
+# throne
+# position, post
+# rank, status
+# seat
+====References====
+{{Han ref|kx=0098.070|dkj=00503|dj=0206.180|hdz=10138.030|uh=4F4D|ud=20301|bh=A6EC|bd=42732}}
 ----
 
-== Chinese Hanzi ==
+==Chinese==
+===Hanzi===
+
 
 * '''Romanizations'''
 ** [[Mandarin]]:
@@ -31,11 +22,10 @@
 ***'''[[Jyutping]]''':
 ***'''[[Penkyamp]]''': 
 ***'''[[Yale]]''': wai2, wai6
-
 ----
-
 == Japanese ==
-[[Category:Japanese language|くらい]]
+
+
 ===Noun===
 {{janoun|くらい|kurai}}
 #[[grade]], [[rank]]
@@ -89,7 +79,9 @@
 
 
 ===Kanji===
-{{kanji|[[い]] ([[i]])|[[くらい]] ([[kurai]]), [[くらいする]] (位する, [[kuraisuru]])}}
+{{ja-kanji|grade=|rs=人05}}
+====Readings====
+{{ja-readings|on=[[い]] ([[i]])|kun=[[くらい]] ([[kurai]]), [[くらいする]] (位する, [[kuraisuru]])}}
 ====Compounds====
 *[[位階]]
 *[[位冠]]
@@ -101,10 +93,9 @@
 *[[位置]], [[位地]]
 *[[位牌]]
 *[[位負]]
-
 ----
-
-== Korean Hanja ==
+==Korean==
+===Hanja===
 
 * '''Pronunciation''': 위
 
@@ -113,23 +104,9 @@
 ** '''[[McCune-Reischauer]]''': wi
 
 
-== Dictionary Information ==
 
-* KangXi: 0098.070
-* Morohashi: 00503
-* Dae Jaweon: 0206.180
-* Hanyu Da Zidian: 10138.030
 
-== Technical Information ==
 
-* '''Unicode''':
-** Hex: 4F4D
-** Decimal: 20301
-* '''Big5''':
-** Hex: A6EC
-** Decimal: 42732
-
-[[Category:Japanese kanji|人05位]]
 
 [[fr:位]]
 [[ko:位]]
