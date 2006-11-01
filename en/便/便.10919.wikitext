@@ -1,23 +1,18 @@
-* '''[[Wiktionary:Chinese radical index| Radical]]''': [[Wiktionary:Chinese radical index 人|人]]+7
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 9|9]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2124<sub>6</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 人一中大 (OMLK)
-
-* '''Graphical Significance and Origin''': [[人]] + [[更]]. to simplify the tense state
-
-* '''Common Meaning'''
-*#[[convenience]], [[ease]]
-*# [[expedient]]
-*# [[news]]
-
+==Translingual==
+===Etymology===
+[[人]] + [[更]]. to simplify the tense state
+===Han character===
+{{Han char|rad=人|as=07|sn=9|four=2124<sub>6</sub>|canj=人一中大 (OMLK)}}
+# [[convenience]], [[ease]]
+# [[expedient]]
+# [[news]]
+====References====
+{{Han ref|kx=0103.320|dkj=00659|dj=0219.100|hdz=10157.030|uh=4FBF|ud=20415|bh=AB4B|bd=43851}}
 ----
 
-== Chinese [[Hanzi]] ==
+==Chinese==
+===Hanzi===
+
 
 * '''Romanizations'''
 ** [[Mandarin]]
@@ -28,11 +23,10 @@
 ***'''[[Jyutping]]''':
 ***'''[[Penkyamp]]''': 
 ***'''[[Yale]]''': bin6, pin4
-
 ----
-
 == Japanese ==
-[[Category:Japanese language|ひん']]
+
+
 === Noun ===
 {{janoun|びん|bin}}
 # a [[flight]]
@@ -62,12 +56,12 @@
 
 
 === Kanji ===
-{{kanji
-|[[べん]] ([[ben]]), [[びん]] ([[bin]])
-|[[たより]] ([[便り]], [[tayori]]), [[すなわち]] ([[sunawachi]])}}
+{{ja-kanji|grade=|rs=人07}}
+====Readings====
+{{ja-readings|on=[[べん]] ([[ben]]), [[びん]] ([[bin]])|kun=[[たより]] ([[便り]], [[tayori]]), [[すなわち]] ([[sunawachi]])}}
 
 ====Compounds====
-{{top}}
+{{top2}}
 *[[便々]], [[便便]]
 *[[便意]]
 *[[便衣]]
@@ -99,7 +93,7 @@
 *[[軽便]]
 *[[欠便]]
 *[[血便]]
-{{mid}}
+{{mid2}}
 *[[検便]]
 *[[幸便]]
 *[[後便]]
@@ -142,7 +136,8 @@
   
 ----
 
-== Korean [[Hanja]] ==
+==Korean==
+===Hanja===
 
 * '''Pronunciation''': [[편]], [[변]]
 
@@ -150,25 +145,9 @@
 ** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': pyeon, byeon
 ** '''[[McCune-Reischauer]]''': p'yŏn, pyŏn
 
-----
 
-== Dictionary Information ==
 
-* KangXi: 0103.320
-* Morohashi: 00659
-* Dae Jaweon: 0219.100
-* Hanyu Da Zidian: 10157.030
 
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 4FBF
-** Decimal: 20415
-* '''Big5''':
-** Hex: AB4B
-** Decimal: 43851
-
-[[Category:Japanese kanji|人07便]]
 [[Category:Japanese nouns|ひん']]
 [[Category:な-Adjectives|へん']]
 
