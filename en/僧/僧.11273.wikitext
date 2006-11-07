@@ -1,53 +1,20 @@
-*this character has a slight difference (also '''strokes''') between in China and in Japan
-**in China: <font size="6"><font lang="zh">僧</font></font>, in Japan: <font size="6"><font lang="ja">僧</font></font>
-
-* '''[[Wiktionary:Chinese radical index| Radical]]''': [[Wiktionary:Chinese radical index 人|人]]+12
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 14|14]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2826<sub>6</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 人金田日 (OCWA)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*# Buddhist [[priest]], [[monk]]
-*# san of Sanskrit sangha
-
+==Translingual==
+===Han character===
+{{Han char|rad=人|as=12|sn=14|four=2826<sub>6</sub>|canj=人金田日 (OCWA)}}
+# Buddhist [[priest]], [[monk]]
+# san of Sanskrit sangha
+====References====
+{{Han ref|kx=0117.140|dkj=01076|dj=0248.200|hdz=10222.010|uh=50E7|ud=20711|bh=B9AC|bd=47532}}
 ----
 
-== Chinese [[Hanzi]] ==
-
-* '''Romanizations'''
-** [[Mandarin]]
-*** '''[[Pinyin]]''': sēng (seng1)
-*** '''[[Wade-Giles]]''': seng<sup>1</sup>
-*** '''[[Yale]]''': 
-**[[Cantonese]]
-***'''[[Jyutping]]''':
-***'''[[Penkyamp]]''': 
-***'''[[Yale]]''': jang1, sang1
-
-===Compounds===
-*[[僧道]]
-*[[僧多粥少]]
-*[[僧侣]]
-*[[僧侣主义]]
-*[[僧尼]]
-*[[僧人]]
-*[[僧俗]]
-*[[僧徒]]
-*[[僧院]]
-*[[僧众]]
-
-
-
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=jang1, sang1}}
+# {{defn|Cantonese}}
 ----
 == Japanese ==
-[[Category:Japanese language|そう]]
+
+
 ===Noun===
 [[Category:Japanese nouns|そう]]
 '''僧''' ([[そう]], [[sō]])
@@ -55,7 +22,10 @@
 
 
 ===Kanji===
-{{kanji|[[そう]] ([[sō]])|[[ぼうず]] ([[bōzu]])}}
+{{ja-kanji|grade=|rs=人12}}
+# {{defn|Japanese}} <!-- line may be deleted if/when POS headers are added --> 
+====Readings====
+{{ja-readings|on=[[そう]] ([[sō]])|kun=[[ぼうず]] ([[bōzu]])}}
 ====Compounds====
 *[[僧衣]]
 *[[僧院]]
@@ -80,38 +50,28 @@
 *[[僧堂]]
 *[[僧尼]]
 *[[僧帽弁]]
-
-
 ----
-
-== Korean [[Hanja]] ==
-
-* '''Pronunciation''': [[승]]
-
-* '''Romanization'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': seung
-** '''[[McCune-Reischauer]]''': sŭng
-
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[승]]|rv=seung|mr=sŭng}}
+# {{defn|Korean}}
 ----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=sēng (seng1)|wg=seng<sup>1</sup>|y=}}
+# {{defn|Mandarin}}
 
-== Dictionary Information ==
-
-* KangXi: 0117.140
-* Morohashi: 01076
-* Dae Jaweon: 0248.200
-* Hanyu Da Zidian: 10222.010
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 50E7
-** Decimal: 20711
-* '''Big5''':
-** Hex: B9AC
-** Decimal: 47532
-
-[[Category:Chinese hanzi]]
-[[Category:Japanese kanji|人12僧]]
+====Compounds====
+*[[僧道]]
+*[[僧多粥少]]
+*[[僧侣]]
+*[[僧侣主义]]
+*[[僧尼]]
+*[[僧人]]
+*[[僧俗]]
+*[[僧徒]]
+*[[僧院]]
+*[[僧众]]
 
 [[fr:僧]]
 [[ko:僧]]
