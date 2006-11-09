@@ -1,33 +1,53 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 32''': [[Wiktionary:Chinese radical index 土|土]]+3 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 6|6]]
-
-* '''Stroke order''': 
-[[Image:在-order.gif]]
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 4021<sub>4</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 大中土 (KLG)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#be [[at]], [[in]], [[on]]
-*# [[consist in]], [[rest]]
-
+==Translingual==
+{{Han stroke|[[Image:在-order.gif]]}}
+===Han character===
+{{Han char|rn=32|rad=土|as=03|sn=6|four=4021<sub>4</sub>|canj=大中土 (KLG)}}
+# be [[at]], [[in]], [[on]]
+# [[consist in]], [[rest]]
+====References====
+{{Han ref|kx=0224.181|dkj=04881|dj=0455.140|hdz=10418.070|uh=5728|ud=22312|bh=A662|bd=42594}}
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=[[joi6|joi<sup>6</sup>]]}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=5|rs=土03}}
+# {{defn|Japanese}}
+====Readings====
+{{ja-readings|on=[[ざい]] (zai)|kun=[[ある]] (aru), [[います]] (imasu)}}
 
-== Chinese [[Hanzi]] ==
-
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': [[zài]] ([[zai4]])
-*** '''[[Wade-Giles]]''': [[tsai4|tsai<sup>4</sup>]]
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': [[joi6|joi<sup>6</sup>]]
+====Compounds====
+{{top4}}
+*[[在位]]
+*[[在家]]
+*[[在庫]]
+*[[在校]]
+{{mid4}}
+*[[在住]]
+*[[在職]]
+*[[在世]]
+*[[在籍]]
+{{mid4}}
+*[[在宅]]
+*[[在任]]
+*[[在来]]
+*[[在留]]
+{{mid4}}
+*[[存在]]
+{{bottom}}
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=재|rv=jae|mr=chae}}
+# {{defn|Korean}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[zài]] ([[zai4]])|wg=[[tsai4|tsai<sup>4</sup>]]}}
+# {{defn|Mandarin}}
 
 ===Verb===
 
@@ -41,7 +61,7 @@
 
 # [[in]], [[at]]
 
-===Compounds===
+====Compounds====
 *[[在案]]
 *[[在编]]
 *[[在册]]
@@ -82,75 +102,15 @@
 *[[在职]]
 *[[在座]]
 * [[現在]], [[现在]]
-
-* '''Other info''': 
-
 ----
-
-== Japanese ==
-=== [[Kanji]] ===
-{{ja-kanji|grade=5}}
-====Readings====
-{{ja-readings|on=[[ざい]] (zai)|kun=[[ある]] (aru), [[います]] (imasu)}}
-
-===Compounds===
-{{top4}}
-*[[在位]]
-*[[在家]]
-*[[在庫]]
-*[[在校]]
-{{mid4}}
-*[[在住]]
-*[[在職]]
-*[[在世]]
-*[[在籍]]
-{{mid4}}
-*[[在宅]]
-*[[在任]]
-*[[在来]]
-*[[在留]]
-{{mid4}}
-*[[存在]]
-{{bottom}}
-
-* '''Other info''':  
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''Pronunciation''': 재
-
-* '''Romanization'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': jae
-** '''[[McCune-Reischauer]]''': chae
-
-----
-
 ==Vietnamese==
-
-* tại
+===Han character===
+{{vi-hantu|tại}}
+# {{defn|Vietnamese}}
 ===Preposition===
 
 # [[in]]
 
-----
-
-== Dictionary Information ==
-
-* KangXi: 0224.181
-* Morohashi: 04881
-* Dae Jaweon: 0455.140
-* Hanyu Da Zidian: 10418.070
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 5728
-** Decimal: 22312
-* '''Big5''':
-** Hex: A662
-** Decimal: 42594
 
 [[fr:在]]
 [[hu:在]]
