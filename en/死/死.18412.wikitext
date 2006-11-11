@@ -1,35 +1,45 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 78''': [[Wiktionary:Chinese radical index 歹|歹]]+2 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 6|6]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 1021<sub>2</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 一弓心 (MNP)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*# [[die]]
-*# [[dead]]
-*# [[death]]
-
+==Translingual==
+===Han character===
+{{Han char|rn=78|rad=歹|as=02|sn=6|four=1021<sub>2</sub>|canj=一弓心 (MNP)}}
+# [[die]]
+# [[dead]]
+# [[death]]
+====References====
+{{Han ref|kx=0578.220|dkj=16365|dj=0970.070|hdz=21380.060|uh=6B7B|ud=27515|bh=A6BA|bd=42682}}
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=sei2}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=歹02}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[し]] (shi)|kun=[[しぬ]] (shinu)}}
 
-== Chinese [[Hanzi]] ==
+====Compounds====
+*[[死骸]]
+*[[死去]]
+*[[死刑]]
+*[[死傷]]
+*[[死亡]]
+*[[死滅]]
+*[[死力]]
+  
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[사]]|eumhun=|rv=sa|mr=sa|y=sa}}
+# {{defn|Korean}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[sǐ]] (si3)|wg=ssu<sup>3</sup>}}
+# {{defn|Mandarin}}
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': sǐ (si3)
-*** '''[[Wade-Giles]]''': ssu<sup>3</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': sei2
-
-===Compounds===
+====Compounds====
 *[[死活]]
 *[[死结]]
 *[[死劲儿]]
@@ -46,69 +56,16 @@
 *[[死于非命]]
 *[[死战]]
 *[[死角]]
-
 ----
+==Vietnamese==
+===Han character===
+{{vi-hantu|[[tử]]}}
+# {{defn|Vietnamese}}
 
-== Japanese [[Kanji]] ==
-
-* '''Readings'''
-** '''[[On]]''': [[し]] (shi)
-** '''[[Kun]]''': [[しぬ]] (shinu)
-
-===Compounds===
-*[[死骸]]
-*[[死去]]
-*[[死刑]]
-*[[死傷]]
-*[[死亡]]
-*[[死滅]]
-*[[死力]]
-  
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': [[사]]
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': sa
-** '''[[McCune-Reischauer]]''': sa
-** '''[[Yale]]''': sa
-
-
-----
-
-== Vietnamese [[Quốc ngữ]] ==
-
-* '''Reading''': [[tử]]
-
-===Compounds===
+====Compounds====
 *[[tử vong]] [死亡]
 *[[tự tử]] [自死]
 
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0578.220
-* Morohashi: 16365
-* Dae Jaweon: 0970.070
-* Hanyu Da Zidian: 21380.060
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 6B7B
-** Decimal: 27515
-* '''Big5''':
-** Hex: A6BA
-** Decimal: 42682
-
-[[Category:Japanese kanji]]
 [[fr:死]]
 [[hu:死]]
 [[ja:死]]
