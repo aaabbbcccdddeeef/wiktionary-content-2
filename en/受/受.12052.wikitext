@@ -1,38 +1,50 @@
-* '''[[Wiktionary:Chinese radical index| Radical]]''': [[Wiktionary:Chinese radical index 又|又]]+6
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 8|8]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2040<sub>7</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 月月水 (BBE)
-
-* '''Character decomposition''': above [[⺤]], middle [[冖]], below [[又]]
-
-* '''Graphical Significance and Origin''': 爪 (hand) + 又 (hand) + the sound [[舟]]
-
-* '''Common Meaning'''
-*# [[receive]], [[accept]], [[get]]
-*# [[bear]], [[stand]]
-
-* '''Cognate character''': [[守]]
-
+==Translingual==
+===Etymology===
+爪 (hand) + 又 (hand) + the sound [[舟]]
+===Han character===
+{{Han char|rad=又|as=06|sn=8|four=2040<sub>7</sub>|canj=月月水 (BBE)}}
+# [[receive]], [[accept]], [[get]]
+# [[bear]], [[stand]]
+====References====
+{{Han ref|kx=0166.050|dkj=03159|dj=0377.030|hdz=10396.020|uh=53D7|ud=21463|bh=A8FC|bd=43260}}
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=sau6}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=又06}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[じゅ]] (ju), [[しゅう]] (shū)|kun=[[うける]] (ukeru), [[うけ]] (uke)}}
 
-== Chinese [[Hanzi]] ==
+====Compounds====
+*[[受戒]]
+*[[受刑]]
+*[[受験]]
+*[[受講]]
+*[[受賞]]
+*[[受諾]]
+*[[受動]]
+*[[受動態]]
+*[[受難]]
+*[[受理]]
+*[[受領]]
+*[[受身形]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=수|rv=su|mr=su}}
+# {{defn|Korean}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[shòu]] (shou4)|wg=shou<sup>4</sup>}}
+# {{defn|Mandarin}}
 
-* '''Romanizations'''
-** [[Mandarin]]
-*** '''[[Pinyin]]''': shòu (shou4)
-*** '''[[Wade-Giles]]''': shou<sup>4</sup>
-*** '''[[Yale]]''': 
-**[[Cantonese]]
-***'''[[Jyutping]]''':
-***'''[[Penkyamp]]''': 
-***'''[[Yale]]''': sau6
-
-===Compounds===
+====Compounds====
 *[[受憋]]
 *[[受病]]
 *[[受不了]]
@@ -100,60 +112,6 @@
 *[[受罪]]
 *[[受之有愧]]
 *[[受制]]
-
-
-----
-
-== Japanese [[Kanji]] ==
-
-* '''Readings'''
-** '''[[On]]''': [[じゅ]] (ju), [[しゅう]] (shū)
-** '''[[Kun]]''': [[うける]] (ukeru), [[うけ]] (uke)
-
-===Compounds===
-*[[受戒]]
-*[[受刑]]
-*[[受験]]
-*[[受講]]
-*[[受賞]]
-*[[受諾]]
-*[[受動]]
-*[[受動態]]
-*[[受難]]
-*[[受理]]
-*[[受領]]
-*[[受身形]]
-
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''Pronunciation''': 수
-
-* '''Romanization'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': su
-** '''[[McCune-Reischauer]]''': su
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0166.050
-* Morohashi: 03159
-* Dae Jaweon: 0377.030
-* Hanyu Da Zidian: 10396.020
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 53D7
-** Decimal: 21463
-* '''Big5''':
-** Hex: A8FC
-** Decimal: 43260
-
-[[Category:Japanese kanji]]
 
 [[fr:受]]
 [[hu:受]]
