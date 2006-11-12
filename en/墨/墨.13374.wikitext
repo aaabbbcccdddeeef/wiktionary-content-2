@@ -1,37 +1,43 @@
 *this character has a slight difference between in China and in Japan
 **in China: <font size="6"><font lang="zh">墨</font></font>, in Japan: <font size="6"><font lang="ja">墨</font></font>
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 32''': [[Wiktionary:Chinese radical index 土|土]]+12 strokes in Chinese traditional, simplified and Japanese kyujitai, +11 in Japanese shinjitai
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 15|15]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 6010<sub>4</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 田土火土 (WGFG)
-
-* '''Graphical Significance and Origin''': [[黑]] is combined of chimney and flame, the look of sooty edge of chimney. 墨 is a lump of soil-formed soot. The old sound is /{{IPAchar|mək}}/, the m changed into voiceless nasal, moreover changed into /{{IPAchar|hək}}/, that is the sound of 黑
-
-* '''Common Meaning'''
-*# [[ink]]
-*# [[writing]]
-*# [[Mexico]] (abbreviation of [[墨西哥]])
-
+==Translingual==
+===Etymology===
+[[黑]] is combined of chimney and flame, the look of sooty edge of chimney. 墨 is a lump of soil-formed soot. The old sound is /{{IPAchar
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=15|four=6010<sub>4</sub>|canj=田土火土 (WGFG)|mək}}/, the m changed into voiceless nasal, moreover changed into /{{IPAchar|hək}}/, that is the sound of 黑}}
+# [[ink]]
+# [[writing]]
+# [[Mexico]] (abbreviation of [[墨西哥]])
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=mak6}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=土11}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=ボク (boku), モク (moku)|kun=[[すみ]] (sumi)}}
 
-== Chinese [[Hanzi]] ==
+====Compounds====
+*[[墨客]]
+*[[墨汁]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=묵|rv=muk|mr=muk}}
+# {{defn|Korean}}
+====References====
+{{Han ref|kx=0238.400|dkj=05469|dj=0478.020|hdz=10487.030|uh=58A8|ud=22696|bh=BEA5|bd=48805}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[dūn]] (dun1), [[mò]] (mo4)|wg=tun<sup>1</sup>, mo<sup>4</sup>}}
+# {{defn|Mandarin}}
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': dūn (dun1), mò (mo4)
-*** '''[[Wade-Giles]]''': tun<sup>1</sup>, mo<sup>4</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': mak6
-
-===Compounds===
+====Compounds====
 *[[墨宝]]
 *[[墨笔]], [[墨筆]]
 *[[墨斗]]
@@ -45,50 +51,6 @@
 *[[墨西哥]]
 *[[墨鱼]], [[墨魚]]
 *[[墨汁]], [[墨汁儿]]
-
-* '''Other info''': 
-
-----
-
-== Japanese [[Kanji]] ==
-
-* '''Readings'''
-** '''[[On]]''': ボク (boku), モク (moku)
-** '''[[Kun]]''': [[すみ]] (sumi)
-
-===Compounds===
-*[[墨客]]
-*[[墨汁]]
-
-* '''Other info''':  
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''Pronunciation''': 묵
-
-* '''Romanization'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': muk
-** '''[[McCune-Reischauer]]''': muk
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0238.400
-* Morohashi: 05469
-* Dae Jaweon: 0478.020
-* Hanyu Da Zidian: 10487.030
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 58A8
-** Decimal: 22696
-* '''Big5''':
-** Hex: BEA5
-** Decimal: 48805
 
 [[fr:墨]]
 [[ko:墨]]
