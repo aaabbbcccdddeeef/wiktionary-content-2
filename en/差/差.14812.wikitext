@@ -1,37 +1,53 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 48''': [[Wiktionary:Chinese radical index 工|工]]+7 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 9|9]] in China, [[Wiktionary:Chinese total strokes index 10|10]] in Japan
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 8021<sub>1</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 廿手一 (TQM)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#to [[differ]]
-*# [[different]], [[wrong]]
-*# [[nearly]], [[almost]]
-*# an [[officer]]
-
-
+==Translingual==
+===Han character===
+{{Han char|rn=48|rad=工|as=07|sn=10|four=8021<sub>1</sub>|canj=廿手一 (TQM)}}
+# to [[differ]]
+# [[different]], [[wrong]]
+# [[nearly]], [[almost]]
+# an [[officer]]
+====References====
+{{Han ref|kx=0326.020|dkj=08732|dj=0629.120|hdz=10413.040|uh=5DEE|ud=24046|bh=AE74|bd=44660}}
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=cha1, chaai1}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Noun===
+{{janoun|さ|sa}}
+# [[difference]]
 
-== Chinese Hanzi ==
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': chā (cha1), chà (cha4), chāi (chai1), cī (ci1), zhào (zhao4)
-*** '''[[Wade-Giles]]''': ch'ai<sup>1</sup>, chao<sup>4</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': cha1, chaai1
+===Kanji===
+{{ja-kanji|grade=|rs=工07}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[し]] ([[shi]]), [[さ]] ([[sa]])|kun=[[さす]] ([[差す]], [[sasu]]), [[たがう]] ([[tagau]]), [[たがい]] ([[tagai]])}}
+====Compounds====
+* [[差異]]
+* [[差違]]
+* [[差益]]
+* [[差額]]
+* [[差金]]
+* [[差遣]]
+* [[差損]]
+* [[差等]]
+* [[差動]]
+* [[差配人]]
+* [[差別]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[차]], [[치]]|rv=cha, chi|mr=ch'a, ch'i}}
+# {{defn|Korean}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[chā]] (cha1), [[chà]] (cha4), [[chāi]] (chai1), [[cī]] (ci1), [[zhào]] (zhao4)|wg=ch'ai<sup>1</sup>, chao<sup>4</sup>}}
+# {{defn|Mandarin}}
 
-===Compounds===
+====Compounds====
 #chā
 #*[[差别]]
 #*[[差池]], [[差迟]]
@@ -67,58 +83,6 @@
 #*[[差使]]
 #*[[差事]]
 #*[[差役]]
-
-
-----
-
-==Japanese==
-===Noun===
-{{janoun|さ|sa}}
-# [[difference]]
-
-
-===Kanji===
-{{kanji|[[し]] ([[shi]]), [[さ]] ([[sa]])|[[さす]] ([[差す]], [[sasu]]), [[たがう]] ([[tagau]]), [[たがい]] ([[tagai]])}}
-====Compounds====
-* [[差異]]
-* [[差違]]
-* [[差益]]
-* [[差額]]
-* [[差金]]
-* [[差遣]]
-* [[差損]]
-* [[差等]]
-* [[差動]]
-* [[差配人]]
-* [[差別]]
-
-
-----
-== Korean Hanja ==
-
-* '''Pronunciation''': [[차]], [[치]]
-
-* '''Romanization'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': cha, chi
-** '''[[McCune-Reischauer]]''': ch'a, ch'i
-
-
-----
-== Dictionary Information ==
-
-* KangXi: 0326.020
-* Morohashi: 08732
-* Dae Jaweon: 0629.120
-* Hanyu Da Zidian: 10413.040
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 5DEE
-** Decimal: 24046
-* '''Big5''':
-** Hex: AE74
-** Decimal: 44660
 
 [[fr:差]]
 [[hu:差]]
