@@ -1,23 +1,14 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 61''': [[Wiktionary:Chinese radical index 心|心]]+7 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 11|11]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 5033<sub>6</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 中中心 (LLP)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#suffer, worry about
-*# suffering
-
-
+==Translingual==
+===Han character===
+{{Han char|rn=61|rad=心|as=07|sn=11|four=5033<sub>6</sub>|canj=中中心 (LLP)}}
+# suffer, worry about
+# [[suffering]]
+====References====
+{{Han ref|kx=0388.160|dkj=10691|dj=0721.080|hdz=42300.090|uh=60A3|ud=24739|bh=B177|bd=45431}}
 ----
+==Chinese==
+===Hanzi===
 
-== [[Chinese]] [[Hanzi]] ==
 
 * '''Romanizations'''
 ** '''[[Mandarin]]'''
@@ -31,52 +22,22 @@
 **'''[[wikipedia:Min_Nan|Min Nan]]'''
 ***'''[[wikipedia:POJ|POJ]]''': hōan (hoan<sup>7</sup>)
 
-===Compounds===
-{{top}}
+====Compounds====
+{{top2}}
 *[[患难见真情]] ([[患難見真情]])
 {{bottom}}
-
-* '''Other info''': 
-
 ----
-
 ==Japanese==
-===[[Kanji]]===
-{{kanji|on readings=[[かん]] (kan), [[げん]] (gen)
-|kun readings=[[わずらう]] (wazurau), [[うれえる]] (ureeru), [[うれい]] (urei)
-}}
-
-[[Category:Japanese kanji]]
+===Kanji===
+{{ja-kanji|grade=|rs=心07}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[かん]] (kan), [[げん]] (gen)|kun=[[わずらう]] (wazurau), [[うれえる]] (ureeru), [[うれい]] (urei)}}
 ----
-
-== [[Korean]] [[Hanja]] ==
-
-* '''[[Hangeul]]''': 환
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': hwan
-** '''[[McCune-Reischauer]]''': hwan
-** '''[[Yale]]''': hwan
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0388.160
-* Morohashi: 10691
-* Dae Jaweon: 0721.080
-* Hanyu Da Zidian: 42300.090
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 60A3
-** Decimal: 24739
-* '''Big5''':
-** Hex: B177
-** Decimal: 45431
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=환|eumhun=|rv=hwan|mr=hwan|y=hwan}}
+# {{defn|Korean}}
 
 [[fr:患]]
 [[hu:患]]
