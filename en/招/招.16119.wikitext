@@ -1,29 +1,19 @@
 {{zh-hanzi|{{zh-lookup|招}}}}
 
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 64''': [[Wiktionary:Chinese radical index 手|手]]+5 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 8|8]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 5706<sub>2</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 手尸竹口 (QSHR)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#beckon, summon
-*# recruit, levy
-
+==Translingual==
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=5706<sub>2</sub>|canj=手尸竹口 (QSHR)}}
+# [[beckon]], [[summon]]
+# [[recruit]], [[levy]]
+====References====
+{{Han ref|kx=0427.010|dkj=11968|dj=0775.050|hdz=31860.070|uh=62DB|ud=25307|bh=A9DB|bd=43483}}
 ----
-
 ==Chinese==
 ===Mandarin===
 [[Pinyin]]: zhāo
 ===Noun===
-# beckon, summon
-# recruit, levy
+# [[beckon]], [[summon]]
+# [[recruit]], [[levy]]
 # measure word for moves or blows (especially in Martial arts)
 #: ''[[雙方]][[交]][[手]][[三]][[十]]'''招'''[[仍]][[未]][[分]][[出]][[勝]][[負]]''[http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=106956&GraphicWord=yes&QueryString=招]
 #: ''[[双方]][[交]][[手]][[三]][[十]]'''招'''[[仍]][[未]][[分]][[出]][[胜]][[负]]''
@@ -39,50 +29,21 @@
 *** '''[[Penkyamp]]''': 
 *** '''[[Yale]]''': jiu1
 
-* '''Other info''': 
+
 
 [[Category:zh-tw:Martial arts|手05]]
 [[Category:zh-cn:Martial arts|zhao1]]
-
 ----
-
 ==Japanese==
-===[[Kanji]]===
-{{kanji|on readings=[[しょう]] (shō), [[きょう]] (kyō)
-|kun readings=[[まねく]] (maneku), [[まねき]] (maneki)
-}}
-
-* '''Other info''':  
-
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[しょう]] (shō), [[きょう]] (kyō)|kun=[[まねく]] (maneku), [[まねき]] (maneki)}}
 ----
-
-== [[Korean]] [[Hanja]] ==
-
-* '''[[Hangeul]]''': 초, 교
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': cho, gyo
-** '''[[McCune-Reischauer]]''': ch'o, kyo
-** '''[[Yale]]''': cho, kyo
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0427.010
-* Morohashi: 11968
-* Dae Jaweon: 0775.050
-* Hanyu Da Zidian: 31860.070
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 62DB
-** Decimal: 25307
-* '''Big5''':
-** Hex: A9DB
-** Decimal: 43483
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[초]], [[교]]|eumhun=|rv=cho, gyo|mr=ch'o, kyo|y=cho, kyo}}
+# {{defn|Korean}}
 
 [[fr:招]]
