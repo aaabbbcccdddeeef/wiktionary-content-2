@@ -1,30 +1,44 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 56''': [[Wiktionary:Chinese radical index 弋|弋]]+3 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 6|6]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 4310<sub>0</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 戈心一 (IPM)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning''': [[style]], [[system]], [[formula]], [[rule]]
-
+==Translingual==
+===Han character===
+{{Han char|rn=56|rad=弋|as=03|sn=6|four=4310<sub>0</sub>|canj=戈心一 (IPM)}}
+# [[style]], [[system]], [[formula]], [[rule]]
+====References====
+{{Han ref|kx=0355.060|dkj=09663|hdz=10558.070|uh=5F0F|ud=24335|bh=A6A1|bd=42657}}
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=sik1}}
+# {{defn|Cantonese}}
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=弋03}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[しき]] (shiki), [[しょく]] (shoku)|kun=[[のり]] (nori), [[のっとる]] (nottoru)}}
 
-== Chinese [[Hanzi]] ==
+===Noun===
+#[[type]], [[style]]
+#[[formula]]
+#[[ceremony]], [[ritual]], [[function]]
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': shǐ (shi3), shì (shi4)
-*** '''[[Wade-Giles]]''': shih<sup>3</sup>, shih<sup>4</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': sik1
+====Compounds====
+*[[式次]]
+*[[式辞]]
+*[[式日]]
+*[[式典]]
+*[[式服]]
+*[[式神]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[식]]|eumhun=|rv=sik|mr=sik|y=sik}}
+# {{defn|Korean}}
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[shǐ]] (shi3), [[shì]] (shi4)|wg=shih<sup>3</sup>, shih<sup>4</sup>}}
+# {{defn|Mandarin}}
 
 ===Noun===
 # [[type]], [[style]], [[fashion]]
@@ -32,64 +46,9 @@
 #(''grammar'') [[mood]], [[mode]]
 #:叙述式 indicative mood
 
-===Compounds===
+====Compounds====
 *[[式样]]
 *[[式子]]
-
-
-----
-
-== Japanese [[Kanji]] ==
-
-* '''Readings'''
-** '''[[On]]''': [[しき]] (shiki), [[しょく]] (shoku)
-** '''[[Kun]]''': [[のり]] (nori), [[のっとる]] (nottoru)
-
-===Noun===
-#[[type]], [[style]]
-#[[formula]]
-#[[ceremony]], [[ritual]], [[function]]
-
-===Compounds===
-*[[式次]]
-*[[式辞]]
-*[[式日]]
-*[[式典]]
-*[[式服]]
-*[[式神]]
-
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': [[식]]
-
-* '''[[Hun-eum]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': sik
-** '''[[McCune-Reischauer]]''': sik
-** '''[[Yale]]''': sik
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0355.060
-* Morohashi: 09663
-* Hanyu Da Zidian: 10558.070
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 5F0F
-** Decimal: 24335
-* '''Big5''':
-** Hex: A6A1
-** Decimal: 42657
-
-[[Category:Japanese kanji]]
 
 [[fr:式]]
 [[hu:式]]
