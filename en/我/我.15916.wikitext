@@ -1,20 +1,13 @@
 {{zh-hanzi|{{zh-lookup|我}}}}
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 62''': [[Wiktionary:Chinese radical index 戈|戈]]+3 strokes
+==Translingual==
+{{Han stroke|[[Image:我-order.gif]]}}
+===Han character===
+{{Han char|rn=62|rad=戈|as=03|sn=7|four=2355<sub>0</sub>|canj=竹手戈 (HQI)}}
+# [[our]], [[us]], [[I]], [[me]], [[my]], [[we]] (Mandarin, Cantonese, Minnan)
 
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 7|7]]
 
-* '''Stroke order''': 
-[[Image:我-order.gif]]
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2355<sub>0</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 竹手戈 (HQI)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning''': [[our]], [[us]], [[I]], [[me]], [[my]], [[we]] (Mandarin, Cantonese, Minnan)
-
-* '''Synonyms''': [[吾]]
+====Synonyms====
+* [[吾]]
 
 ==Chinese==
 {{zh-pinyin|wǒ|góa|ngo5}}
@@ -31,17 +24,18 @@
 *** '''[[Penkyamp]]''': 
 *** '''[[Yale]]''': ngo5
 
-* '''Other info''': 
 
+====References====
+{{Han ref|kx=0412.010|dkj=11545|hdz=21401.020|uh=6211|ud=25105|bh=A7DA|bd=42970}}
 ----
-
 ==Japanese==
 ===Kanji===
-* '''Readings'''
-** '''[[On]]''': [[が]] (ga)
-** '''[[Kun]]''': [[われ]] (ware), [[わ]] (wa)
+{{ja-kanji|grade=|rs=戈03}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[が]] (ga)|kun=[[われ]] (ware), [[わ]] (wa)}}
 
-* '''Other info''':  
+
 
 ====Compounds====
 *[[我我]], [[我々]]
@@ -59,36 +53,12 @@
 ===Prefix===
 {{ja-pos|k|prefix|hira=わが|rom=waga}}
 #[[my]], [[our]]; also written as [[我が]]
-
 ----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=아|eumhun=|rv=a|mr=a|y=a}}
+# {{defn|Korean}}
 
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': 아
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': a
-** '''[[McCune-Reischauer]]''': a
-** '''[[Yale]]''': a
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0412.010
-* Morohashi: 11545
-* Hanyu Da Zidian: 21401.020
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 6211
-** Decimal: 25105
-* '''Big5''':
-** Hex: A7DA
-** Decimal: 42970
 
 [[Category:zh-tw:Pronouns|戈]]
 [[Category:zh-cn:Pronouns|wo3]]
@@ -96,7 +66,8 @@
 [[Category:nan-cn:Pronouns|góa]]
 [[Category:zh-tw:Beginning Mandarin|戈]]
 [[Category:zh-cn:Beginning Mandarin|wo3]]
-[[Category:Japanese kanji]]
+
+
 
 [[da:我]]
 [[es:我]]
