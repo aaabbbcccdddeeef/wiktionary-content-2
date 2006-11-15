@@ -1,21 +1,14 @@
 ==Japanese==
-[[Category:Japanese language|あく]]
-{| align="right" border="0" cellpadding="4" cellspacing="0" style="border:1px solid #aaaaaa; margin-left:5px; margin-right:10px; font-size:8pt; text-align:center;" rules="all" frame="box"
-| colspan="4" bgcolor="#f9f9f9" | Kanji in this word
-|- style="font-size:12pt;"
-! [[開]]
-|}
-===Verb===
-{{t1verb|あく|aku}}
+{{ja-kanjitab|開}}
 
-This form is only intransitive.
+===Verb===
+{{ja-verb|kk|type=1|tr=intrans|hira=あく|rom=aku}}
 
 # to [[open]]
 # to begin
 
-{{t1verb|ひらく|hiraku}}
-
-This form is transitive or intransitive.
+===Verb===
+{{ja-verb|kk|type=1|tr=both|hira=ひらく|rom=hiraku}}
 
 # to [[open]], [[lift]], [[uncover]], [[unpack]]
 # to [[bloom]]
