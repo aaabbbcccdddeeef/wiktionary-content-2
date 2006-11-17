@@ -1,34 +1,55 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 93''': [[Wiktionary:Chinese radical index 牛|牛]]+0 stroke
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 4|4]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 2500<sub>0</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 竹手 (HQ)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*#[[cow]], [[ox]], [[bull]]
-*# KangXi radical93
+==Translingual==
+===Han character===
+{{Han char|rn=93|rad=牛|as=00|sn=4|four=2500<sub>0</sub>|canj=竹手 (HQ)}}
+# [[cow]], [[ox]], [[bull]]
+# KangXi radical93
+====References====
+{{Han ref|kx=0697.010|dkj=19922|dj=1108.160|hdz=31800.010|uh=725B|ud=29275|bh=A4FB|bd=42235}}
 
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=ngau4}}
+# {{defn|Cantonese}}
 
-== Chinese [[Hanzi]] ==
+----
+== Japanese ==
+===Noun===
+{{janoun|うし|ushi}}
+# [[cow]], [[bull]], [[cattle]]
+# [[ox]]
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': niú (niu2), mào (mao4), mù (mu4)
-*** '''[[Wade-Giles]]''': mao<sup>4</sup>, mu<sup>4</sup>, niu<sup>2</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': ngau4
 
-===Compounds===
+===Kanji===
+{{ja-kanji|grade=|rs=牛00}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[ぎゅう]] (gyū)|kun=[[うし]] (ushi)}}
+
+====Compounds====
+*[[牛舎]]
+*[[牛車]]
+*[[牛耳る]]
+*[[牛肉]]
+*[[牛乳]]
+*[[牛蒡]]
+*[[牛酪]]
+
+[[Category:1000_Japanese_basic_words|うし]]
+[[Category:ja:Mammals|うし]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=소|rv=u|mr=u|y=wu}}
+# {{defn|Korean}}
+
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[niú]] (niu2), [[mào]] (mao4), [[mù]] (mu4)|wg=mao<sup>4</sup>, mu<sup>4</sup>, niu<sup>2</sup>}}
+# {{defn|Mandarin}}
+
+====Compounds====
 *[[牛蒡]]
 *[[牛鼻子]]
 *[[牛鞭]]
@@ -76,64 +97,6 @@
 *[[牛仔]], [[牛崽]]
 *[[牛仔裤]], [[牛崽裤]]
 
-* '''Other info''': 
-
-----
-
-== Japanese ==
-===Noun===
-{{janoun|うし|ushi}}
-# [[cow]], [[bull]], [[cattle]]
-# [[ox]]
-
-
-===Kanji===
-{{kanji
-|[[ぎゅう]] (gyū)
-|[[うし]] (ushi)
-}}
-
-====Compounds====
-*[[牛舎]]
-*[[牛車]]
-*[[牛耳る]]
-*[[牛肉]]
-*[[牛乳]]
-*[[牛蒡]]
-*[[牛酪]]
-
-[[Category:1000_Japanese_basic_words|うし]]
-[[Category:ja:Mammals|うし]]
-----
-
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': 우
-
-* '''[[Eumhun]] reading''': 소
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': u
-** '''[[McCune-Reischauer]]''': u
-** '''[[Yale]]''': wu
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0697.010
-* Morohashi: 19922
-* Dae Jaweon: 1108.160
-* Hanyu Da Zidian: 31800.010
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 725B
-** Decimal: 29275
-* '''Big5''':
-** Hex: A4FB
-** Decimal: 42235
 
 [[zh-min-nan:牛]]
 [[fr:牛]]
