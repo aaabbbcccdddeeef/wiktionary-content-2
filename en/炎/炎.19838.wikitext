@@ -1,34 +1,52 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 86''': [[Wiktionary:Chinese radical index 火|火]]+4 strokes
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 8|8]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 9080<sub>9</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 火火 (FF)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*# [[flame]], [[blaze]]
-*# [[hot]]
+==Translingual==
+===Han character===
+{{Han char|rn=86|rad=火|as=04|sn=8|four=9080<sub>9</sub>|canj=火火 (FF)}}
+# [[flame]], [[blaze]]
+# [[hot]]
+====References====
+{{Han ref|kx=0667.130|dkj=18910|dj=1076.210|hdz=32193.060|uh=708E|ud=28814|bh=AAA2|bd=43682}}
 
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=yim4}}
+# {{defn|Cantonese}}
 
-== Chinese [[Hanzi]] ==
+----
+== Japanese ==
+===Kanji===
+{{ja-kanji|grade=|rs=火04}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[えん]] (en), [[たん]] (tan)|kun=[[ほのお]] (honō), [[もえる]] (moeru)}}
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': yán (yan2)
-*** '''[[Wade-Giles]]''': yen<sup>2</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': yim4
+====Compounds====
+*[[炎暑]]
+*[[炎症]] (えんしょう, enshō)
+*[[炎上]]
+*[[炎帝]]
+*[[炎天]]
+*[[炎涼]]
+*[[火炎]]
+*[[虫垂炎]] (ちゅうすいえん, chūsuien)
 
-===Compounds===
+===Noun===
+{{ja-noun|k|hira=ほのお|rom=honō}}
+# [[flame]]; [[blaze]]
+
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[염]]|eumhun=|rv=yeom|mr=yŏm|y=yem}}
+# {{defn|Korean}}
+
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[yán]] (yan2)|wg=yen<sup>2</sup>}}
+# {{defn|Mandarin}}
+
+====Compounds====
 *[[炎帝]]
 *[[炎旱]]
 *[[炎黄]]
@@ -44,63 +62,11 @@
 *[[炎阳]]
 *[[炎症]]
 
-
 ----
-
-== Japanese ==
-===Kanji===
-{{kanji|[[えん]] (en), [[たん]] (tan)|[[ほのお]] (honō), [[もえる]] (moeru)}}
-
-===Compounds===
-*[[炎暑]]
-*[[炎症]] (えんしょう, enshō)
-*[[炎上]]
-*[[炎帝]]
-*[[炎天]]
-*[[炎涼]]
-*[[火炎]]
-*[[虫垂炎]] (ちゅうすいえん, chūsuien)
-
-===Noun===
-{{ja-noun|k|hira=ほのお|rom=honō}}
-# [[flame]]; [[blaze]]
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': [[염]]
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': yeom
-** '''[[McCune-Reischauer]]''': yŏm
-** '''[[Yale]]''': yem
-
-----
-
 ==Vietnamese==
-
-* viêm
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0667.130
-* Morohashi: 18910
-* Dae Jaweon: 1076.210
-* Hanyu Da Zidian: 32193.060
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 708E
-** Decimal: 28814
-* '''Big5''':
-** Hex: AAA2
-** Decimal: 43682
+===Han character===
+{{vi-hantu|viêm}}
+# {{defn|Vietnamese}}
 
 [[fr:炎]]
 [[ko:炎]]
