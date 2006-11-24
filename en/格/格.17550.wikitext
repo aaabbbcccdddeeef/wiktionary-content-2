@@ -10,30 +10,45 @@
 
 * '''Graphical Significance and Origin''': 
 
-* '''Common Meaning'''
-*# [[pattern]], [[standard]], [[form]]
-*# [[style]]
-
+* '''Common meaning''': [[pattern]], [[standard]], [[form]];[[style]]
 
 ----
-
 == Stroke order ==
 [[Image:格-bw.png]]
 
 
-== Chinese [[Hanzi]] ==
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=[[gaak3]]}}
+# {{defn|Cantonese}}
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': [[gē]] ([[ge1]]), [[gé]] ([[ge2]])
-*** '''[[Wade-Giles]]''': ko<sup>1</sup>, ko<sup>2</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': [[gaak3]]
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[こう]] (kō), [[かく]] (kaku), [[きゃく]] (kyaku)|kun=[[ただす]] (tadasu), [[いたる]] (itaru)}}
 
-===Compounds===
+====Compounds====
+* [[与格]] (よかく, yokaku)
+
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[격]], [[낙]]|eumhun=|rv=gyeok, nak|mr=kyŏk, nak|y=keyk, nak}}
+# {{defn|Korean}}
+
+====References====
+{{Han ref|kx=0524.110|dkj=14749|dj=0912.130|hdz=21203.060|uh=683C|ud=26684|bh=AEE6|bd=44774}}
+
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[gē]] ([[ge1]]), [[gé]] ([[ge2]])|wg=ko<sup>1</sup>, ko<sup>2</sup>}}
+# {{defn|Mandarin}}
+
+====Compounds====
 #gē
 #*[[格登]]
 #*[[格格]]
@@ -55,52 +70,6 @@
 #*[[格言]]
 #*[[格致]]
 #*[[格子]]
-
-* '''Other info''': 
-
-----
-
-== Japanese [[Kanji]] ==
-
-* '''Readings'''
-** '''[[On]]''': [[こう]] (kō), [[かく]] (kaku), [[きゃく]] (kyaku)
-** '''[[Kun]]''': [[ただす]] (tadasu), [[いたる]] (itaru)
-
-* '''Compounds''':
-**[[与格]] (よかく, yokaku)
-
-* '''Other info''':  
-
-----
-
-== Korean [[Hanja]] ==
-
-* '''[[Hangeul]]''': [[격]], [[낙]]
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': gyeok, nak
-** '''[[McCune-Reischauer]]''': kyŏk, nak
-** '''[[Yale]]''': keyk, nak
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0524.110
-* Morohashi: 14749
-* Dae Jaweon: 0912.130
-* Hanyu Da Zidian: 21203.060
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 683C
-** Decimal: 26684
-* '''Big5''':
-** Hex: AEE6
-** Decimal: 44774
 
 [[fr:格]]
 [[ko:格]]
