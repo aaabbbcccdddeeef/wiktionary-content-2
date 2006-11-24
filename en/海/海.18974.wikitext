@@ -1,34 +1,84 @@
-* '''[[Wiktionary:Chinese radical index| Radical]] Number 85''': [[Wiktionary:Chinese radical index 水|水]]+7 strokes in China, +6 in Japan
-
-* '''[[Wiktionary:Chinese total strokes index|Stroke number]]''': [[Wiktionary:Chinese total strokes index 10|10]], [[Wiktionary:Chinese total strokes index 9|9]]
-
-* '''Stroke order''': 
-
-* '''[[Wiktionary:Chinese four corner index|Four-Corner System]]''': 3815<sub>7</sub>
-
-* '''[[Wiktionary:Chinese Cangjie index|Cangjie input]]''': 水人田卜 (EOWY)
-
-* '''Graphical Significance and Origin''': 
-
-* '''Common Meaning'''
-*# [[sea]], [[ocean]]
-*# [[maritime]]
+==Translingual==
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=3815<sub>7</sub>|canj=水人田卜 (EOWY)}}
+# [[sea]], [[ocean]]
+# [[maritime]]
+====References====
+{{Han ref|kx=0625.140|dkj=17450|dj=1023.110|hdz=31627.010|uh=6D77|ud=28023|bh=AEFC|bd=44796}}
 
 ----
+==Cantonese==
+===Hanzi===
+{{yue-hanzi|jyut=|y=hoi2}}
+# {{defn|Cantonese}}
 
-== Chinese [[Hanzi]] ==
+----
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+# {{defn|Japanese}} 
+====Readings====
+{{ja-readings|on=[[かい]] (kai)|kun=[[うみ]] (umi)}}
 
-* '''Romanizations'''
-** '''[[Mandarin]]'''
-*** '''[[Pinyin]]''': hǎi (hai3)
-*** '''[[Wade-Giles]]''': hai<sup>3</sup>
-*** '''[[Yale]]''': 
-** '''[[Cantonese]]'''
-*** '''[[Jyutping]]''':
-*** '''[[Penkyamp]]''': 
-*** '''[[Yale]]''': hoi2
 
-===Compounds===
+====Compounds====
+*[[海人]]
+*[[海士]]
+*[[海女]]
+*[[海豚]] (いるか, iruka)
+*[[海豚座]] (いるかざ, irukaza)
+*[[海原]]
+*[[海運]]
+*[[海王星]] (かいおうせい, kaiousei)
+*[[海外]]
+*[[海岸]]
+*[[海峡]]
+*[[海月]]
+*[[海獣]]
+*[[海嘯]]
+*[[海上]]
+*[[海神]]
+*[[海図]]
+*[[海鮮]]
+*[[海戦]]
+*[[海草]]
+*[[海藻]]
+*[[海賊]]
+*[[海底]]
+*[[海難]]
+*[[海馬]]
+*[[海抜]]
+*[[海流]]
+*[[海老]]
+*[[海苔]] (のり, nori)
+*[[海辺]]
+*[[海蘿]] (ふのり, funori)
+
+===Noun===
+{{ja-noun|k|hira=うみ|rom=umi}}
+#[[sea]]
+#[[beach]]
+
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=[[해]]|eumhun=|rv=hae|mr=hae|y=hay}}
+# {{defn|Korean}}
+
+
+====Compounds====
+*[[海軍]] ([[해군]])
+*[[海圖]] ([[해도]])
+*[[海拔]] ([[해발]])
+*[[海溢]] ([[해일]])
+
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[hǎi]] (hai3)|wg=hai<sup>3</sup>}}
+# {{defn|Mandarin}}
+
+====Compounds====
 *[[海岸]]
 *[[海岸带]]
 *[[海岸炮]]
@@ -135,93 +185,6 @@
 *[[海运]]
 *[[海星]]
 *[[海啸]]
-
-* '''Other info''': 
-
-----
-
-==Japanese==
-===Kanji===
-
-* '''Readings'''
-** '''[[On]]''': [[かい]] (kai)
-** '''[[Kun]]''': [[うみ]] (umi)
-* '''Other info''':  
-
-====Compounds====
-*[[海人]]
-*[[海士]]
-*[[海女]]
-*[[海豚]] (いるか, iruka)
-*[[海豚座]] (いるかざ, irukaza)
-*[[海原]]
-*[[海運]]
-*[[海王星]] (かいおうせい, kaiousei)
-*[[海外]]
-*[[海岸]]
-*[[海峡]]
-*[[海月]]
-*[[海獣]]
-*[[海嘯]]
-*[[海上]]
-*[[海神]]
-*[[海図]]
-*[[海鮮]]
-*[[海戦]]
-*[[海草]]
-*[[海藻]]
-*[[海賊]]
-*[[海底]]
-*[[海難]]
-*[[海馬]]
-*[[海抜]]
-*[[海流]]
-*[[海老]]
-*[[海苔]] (のり, nori)
-*[[海辺]]
-*[[海蘿]] (ふのり, funori)
-
-===Noun===
-{{ja-noun|k|hira=うみ|rom=umi}}
-#[[sea]]
-#[[beach]]
-
-----
-
-== [[Korean]] Hanja ==
-
-* '''[[Hangeul]]''': [[해]]
-
-* '''[[Eumhun]] reading''': 
-
-* '''Romanizations'''
-** '''[[The 2000 South Korean Revised Romanization|The 2000 South Korean Revised]]''': hae
-** '''[[McCune-Reischauer]]''': hae
-** '''[[Yale]]''': hay
-
-===Compounds===
-*[[海軍]] ([[해군]])
-*[[海圖]] ([[해도]])
-*[[海拔]] ([[해발]])
-*[[海溢]] ([[해일]])
-
-----
-
-== Dictionary Information ==
-
-* KangXi: 0625.140
-* Morohashi: 17450
-* Dae Jaweon: 1023.110
-* Hanyu Da Zidian: 31627.010
-
-== Technical Information ==
-
-* '''Unicode''':
-** Hex: 6D77
-** Decimal: 28023
-* '''Big5''':
-** Hex: AEFC
-** Decimal: 44796
 
 [[fr:海]]
 [[ko:海]]
