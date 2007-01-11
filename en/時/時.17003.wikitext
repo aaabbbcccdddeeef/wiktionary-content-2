@@ -17,24 +17,21 @@
 # {{defn|Cantonese}}
 ----
 ==Japanese==
-[[Category:1000_Japanese_basic_words|とき]]
-
-
 ===Noun===
-{{janoun|じ|ji}}
-# [[hour]], [[o'clock]]
-{{janoun|とき|toki}}
+[[Category:1000_Japanese_basic_words|とき]]
+{{ja-noun|k|hira=とき|rom=toki}}
 # [[time]]
 # a [[case]]
 # [[time]] of something
 # a [[season]]
 # a [[tense]]
+===[[助数詞|Counter]]===
+{{ja-counter|hira=じ|rom=ji|index=しかん'}}
+# [[hour]], [[o'clock]]
+[[Category:ja:Time|しかん']]
 
-====[[助数詞|Counter]]====
-'''時''' ([[じ]], ''ji'')
-
-# [[hour]]s (duration)
-
+====Related terms====
+#[[時間]] ([[じかん]], [[jikan]]): [[hours]] (duration)
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=日06}}
@@ -43,21 +40,22 @@
 {{ja-readings|on=[[じ]] (''ji''), [[し]] (''shi'')|kun=[[とき]] (''toki''), [[これ]] (''kore'')}}
 
 ====Compounds====
+{{top2}}
 *[[時間]]
 *[[時期]]
 *[[時機]]
 *[[時季]]
 *[[時勢]]
 *[[時世]]
+{{mid2}}
 *[[時制]]
 *[[時節]]
 *[[時速]]
 *[[時短]]
 *[[時雨]]
-
-[[Category:ja:Time|し']]
-[[Category:Japanese counters|し']]
+{{bottom}}
 ----
+
 ==Korean==
 ===Hanja===
 {{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
