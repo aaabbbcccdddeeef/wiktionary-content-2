@@ -9,26 +9,20 @@
 ===Hanzi===
 {{yue-hanzi|jyut=|y=bei2}}
 # {{defn|Cantonese}}
-----
-==Korean==
-===Hanja===
-{{ko-hanja|hangeul=피|eumhun=저, 그, 저쪽|rv=pi|mr=p'i|y=phi}}
-# {{defn|Korean}}
-
-
-
-
-
-
-[[Category:Japanese pronouns|かれ]]
-----
-==Mandarin==
-===Hanzi===
-{{cmn-hanzi|pin=[[bǐ]] (bi3)|wg=pi<sup>3</sup>}}
-# {{defn|Mandarin}}
 -----
-== [[Japanese]] ==
+==[[Japanese]]==
+===Noun===
+{{ja-noun|k|hira=かれ|rom=kare}}
+# [[boyfriend]]
+{{ja-noun|k|hira=あれ|rom=are}}
+# that thing yonder - something far off, removed from both speaker and listener.
+#: Contrast with [[それ]], indicating something removed from the speaker but closer to the listener.  
+[[Category:Japanese nouns|かれ]] <!--override the link-->
 
+===Pronoun===
+{{ja-pos|k|proper|hira=かれ|rom=kare}}
+
+# [[he]]
 
 ===Kanji===
 {{ja-kanji|grade=|rs=彳05}}
@@ -36,22 +30,21 @@
 ====Readings====
 {{ja-readings|on=[[ひ]] (hi)|kun=[[かれ]] (kare), [[かの]] (kano), [[あれ]] (are)}}
 
-===Noun===
-{{janoun|かれ|kare}}
-# [[boyfriend]]
-
-===Pronoun===
-{{janoun|かれ|kare}}<!-- Using janoun template as there is no {{japronoun}}, and ja pronouns are essentially nouns, c.f. Shibatani etc. -->
-# [[he]]
-
-{{janoun|あれ|are}}
-# that thing yonder - something far off, removed from both speaker and listener.
-#: Contrast with [[それ]], indicating something removed from the speaker but closer to the listener.  
-
 ====Compounds====
 *[[彼岸]]
 *[[彼女]]
 *[[彼方]]
+----
+==Korean==
+===Hanja===
+{{ko-hanja|hangeul=피|eumhun=저, 그, 저쪽|rv=pi|mr=p'i|y=phi}}
+# {{defn|Korean}}
+
+----
+==Mandarin==
+===Hanzi===
+{{cmn-hanzi|pin=[[bǐ]] (bi3)|wg=pi<sup>3</sup>}}
+# {{defn|Mandarin}}
 
 [[fr:彼]]
 [[la:彼]]
