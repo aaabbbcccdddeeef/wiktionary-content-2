@@ -22,17 +22,17 @@
 ==Japanese==
 
 ===Noun===
-{{janoun|なか|naka}}
+{{ja-noun|k|hira=なか|rom=naka}}
 # [[inside]]
 # [[middle]]
 
-{{janoun|ちゅう|chū}}
+{{ja-noun|k|hira=ちゅう|rom=chū}}
 # [[middle]]
 # [[during]]
 # being in the process of doing
 # [[second]] [[volume]] of a three volume set
 
-{{janoun|うち|uchi}}
+{{ja-noun|k|hira=うち|rom=uchi}}
 :''[[内]] (うち, uchi)''
 :''[[裡]] (うち, uchi)''
 
@@ -40,12 +40,15 @@
 # [[inside]]
 
 ===Suffix===
--'''中''' ([[じゅう]], [[jū]])
+{{ja-pos|k|suffix|hira=じゅう|rom=jū|hidx=しゅう'}}
 # [[during]], in the course of, [[throughout]]
 
+===Suffix===
+{{ja-pos|k|suffix|hira=ちゅう|rom=chū}}
+# being in the process of doing
 
 ===Kanji===
-{{ja-kanji|grade=|rs=丨03}}
+{{ja-kanji|grade=1|rs=丨03}}
 ====Readings====
 {{ja-readings|on=[[ちゅう]] ([[chū]])|kun=[[なか]] ([[naka]]), [[うち]] ([[uchi]]), [[あたる]] ([[中たる]], [[ataru]])}}
 ====Compounds====
@@ -91,8 +94,6 @@
 *[[中身]]
 *[[上中下巻]]
 {{bottom}}
-
-[[Category:Grade 1 kanji|丨03中]]
 
 ----
 
