@@ -6,22 +6,27 @@
 # [[body]]
 # group, class, body, unit
 # inferior
+
+====Usage notes====
+This character is a traditional character in its own right, and as such has the third meaning cited above (‘inferior’, or a related meaning), and is read as ''ban6'' (Cantonese), ''bèn'' (Mandarin), ''bun'' (Korean), or ''hon'' (Japanese). Later, this character has been used as an abbreviation for [[體]], which it has now replaced in the [[Simplified Chinese]] and Japanese [[shinjitai]] character sets. Through this usage, the character has adopted the meanings (1 and 2) and readings (Cantonese ''tai2'', Mandarin ''tǐ'' and ''tī'', Korean ''che'', Japanese ''tei'' and ''tai'', and Vietnamese ''thể'').
+
 ====References====
 {{Han ref|kx=0098.130|dkj=00509|dj=0208.030|hdz=10130.010|uh=4F53|ud=20307|bh=CA5E|bd=51806}}
+
 ----
 ==Cantonese==
 ===Hanzi===
-{{yue-hanzi|jyut=|y=tai2}}
+{{yue-hanzi|jyut=[[ban6]], [[tai2]]|y=[[ban6]], [[tai2]]}}
 # {{defn|Cantonese}}
+
 ----
 == Japanese ==
 ===Noun===
-'''体''' ([[からだ]], [[karada]])
+{{ja-noun|k|hira=からだ|rom=karada}}
 # [[body]]
 # [[health]]
 
-
-'''体''' ([[たい]], [[tai]])
+{{ja-noun|k|hira=たい|rom=tai}}
 # [[body]]
 # [[form]]
 
@@ -29,14 +34,13 @@
 *[[体付き]]
 *[[体良く]]
 
-
 ===Kanji===
-{{ja-kanji|grade=|rs=人05}}
+{{ja-kanji|grade=2|rs=人05}}
 ====Readings====
 {{ja-readings|on=[[てい]] (tei), [[たい]] (tai), [[ほん]] (hon)|kun=[[からだ]] (karada)}}
 
 ====Compounds====
-{{top2}}
+{{top4}}
 *[[体位]]
 *[[体育]]
 *[[体液]]
@@ -48,6 +52,7 @@
 *[[体協]]
 *[[体躯]]
 *[[体刑]]
+{{mid4}}
 *[[体型]]
 *[[体形]]
 *[[体系]]
@@ -58,8 +63,8 @@
 *[[体裁]]
 *[[体質]]
 *[[体臭]]
-{{mid2}}
 *[[体重]]
+{{mid4}}
 *[[体術]]
 *[[体制]]
 *[[体勢]]
@@ -71,6 +76,7 @@
 *[[体得]]
 *[[体内]]
 *[[体認]]
+{{mid4}}
 *[[体熱]]
 *[[体罰]]
 *[[体貌]]
@@ -82,9 +88,6 @@
 *[[体力]]
 {{bottom}}
 
-
-
-[[Category:Japanese nouns|からだ]] 
 ----
 ==Korean==
 ===Hanja===
@@ -93,10 +96,11 @@
 ----
 ==Mandarin==
 ===Hanzi===
-{{cmn-hanzi|tra=體|pin=[[tǐ]] (ti3)|wg=t'i<sup>3</sup>}}
+{{cmn-hanzi|tra=體|pin=[[tǐ]] (ti3), [[bèn]] (ben4), [[tī]] (ti1)|wg=t'i<sup>3</sup>}}
 # {{defn|Mandarin}}
 
 ====Compounds====
+{{top4}}
 *[[体表]]
 *[[体裁]]
 *[[体操]]
@@ -110,6 +114,7 @@
 *[[体积]]
 *[[体检]]
 *[[体力]]
+{{mid4}}
 *[[体力劳动]]
 *[[体例]]
 *[[体谅]]
@@ -123,6 +128,7 @@
 *[[体态]]
 *[[体坛]]
 *[[体贴]]
+{{mid4}}
 *[[体统]]
 *[[体味]]
 *[[体温]]
@@ -136,6 +142,7 @@
 *[[体形]]
 *[[体型]]
 *[[体恤]]
+{{mid4}}
 *[[体癣]]
 *[[体循环]]
 *[[体验]]
@@ -149,6 +156,14 @@
 *[[体质]]
 *[[体重]]
 *[[腺体]]
+{{bottom}}
+
+----
+==Vietnamese==
+===Han character===
+{{vi-hantu|thể}}
+
+#{{defn|Vietnamese}}
 
 [[fr:体]]
 [[ko:体]]
