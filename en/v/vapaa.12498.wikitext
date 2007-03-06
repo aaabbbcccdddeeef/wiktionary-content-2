@@ -1,12 +1,12 @@
 ==Finnish==
 ===Pronunciation===
-/[[Pronunciation guide|vApa:]]/
+*{{IPA|/ˈʋɑpɑː/}}
 
 ===Etymology===
 From Slavic *''svaba'', compare ''[[svoboda]]''.
 
 ===Adjective===
-'''vapaa''' ('''vapaampi''', '''vapain''')
+{{fi-adj|vapa|type=23|comp=ampi|sup=in}}
 
 # [[free]], not imprisoned or enslaved.
 #:''vapaa mies'' (free man)
@@ -17,15 +17,9 @@ From Slavic *''svaba'', compare ''[[svoboda]]''.
 # Not married, [[single]].
 
 ===Noun===
-'''vapaa'''
+{{fi-noun|vapa|type=23}}
 
 # [[leave]] (from work, etc.)
-
-===Inflection===
-{{Fi17a|vapa|a}}
-
-[[Category:Finnish adjectives]]
-[[Category:Finnish nouns]]
 
 [[fr:vapaa]]
 [[io:vapaa]]
