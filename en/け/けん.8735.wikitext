@@ -1,17 +1,17 @@
-== Japanese ==          
-{{ja-attention|Hiragana header should be replaced with POS header|key=p}}
-===Hiragana===  
-[[Category:Japanese hiragana]]
-'''けん''' ([[ken]])
+==Japanese==
+===Noun===
+{{ja-noun|h|rom=ken}}
 # {{japdef|剣|[[sword]]}}
 # {{japdef|県|[[prefecture]]}}
-# {{japdef|間|(''architecture'') [[interval]], [[space]] of piller; (''length unit'') about 1.8 metre.}}
-# [[兼]]: ''[[concurrently]]''
+# {{japdef|間|(''architecture'') [[interval]], [[space]] of pillar; (''length unit'') about 1.8 metre.}}
 
+===Conjunction===
+{{ja-pos|h|conjunction|rom=ken}}
+# [[兼]]: [[concurrently]]
 
 ===Kanji reading===
-[[Category:Kanji reading]]
-'''けん''' ([[ken]])
+{{ja-kanjireading|rom=ken}}
+
 * [[倦]]
 * [[拳]]
 * [[犬]]
