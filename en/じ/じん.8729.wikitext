@@ -1,23 +1,17 @@
 ==Japanese==                                          
-{{ja-attention|Hiragana header should be replaced with POS header|key=p}}
-===Hiragana===
-[[Category:Japanese hiragana|しん']]
-'''じん''' ([[jin]])
-*{{japdef|人|[[person]]}}
-*{{japdef|ジン|[[gin]]}}
-*{{japdef|壬|[[ninth]] in rank}}
-*{{japdef|陣|(military) [[camp]], [[formation]]}}
-*{{japdef|仁|[[benevolence]]}}
+===Noun===
+{{ja-noun|h|rom=jin|hidx=しん'}}
 
+#{{japdef|人|[[person]]}}
+#{{japdef|仁|[[benevolence]]}}
+#{{japdef|ジン|[[gin]]}}
+#{{japdef|壬|[[ninth]] [[w:heavenly stem|heavenly stem]]}}
+#{{japdef|陣|(military) [[camp]], [[formation]]}}
 
 ===Kanji reading===
-[[Category:Kanji reading|しん']]
-'''じん''' ([[jin]])
+{{ja-kanjireading|rom=jin|hidx=しん'}}
 ====On-reading of:====
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top|
-{|
+{{top5}}
 *[[人]] 
 *[[儿]] 
 *[[神]] 
@@ -39,10 +33,7 @@
 *[[姙]] 
 *[[嫀]] 
 *[[嬧]] 
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top|
-{|
+{{mid5}}
 *[[尋]] 
 *[[尽]] 
 *[[屻]] 
@@ -64,10 +55,7 @@
 *[[灊]] 
 *[[煁]] 
 *[[燖]] 
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top|
-{|
+{{mid5}}
 *[[燼]] 
 *[[牣]] 
 *[[甚]] 
@@ -89,10 +77,7 @@
 *[[蕁]] 
 *[[蕈]] 
 *[[薼]] 
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top|
-{|
+{{mid5}}
 *[[藎]] 
 *[[蜃]] 
 *[[螓]] 
@@ -114,10 +99,7 @@
 *[[鈓]] 
 *[[鋠]] 
 *[[鐔]] 
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top|
-{|
+{{mid5}}
 *[[陣]] 
 *[[霃]] 
 *[[靭]] 
