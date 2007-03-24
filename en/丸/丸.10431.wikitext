@@ -15,8 +15,7 @@
 
 
 ===Noun===
-[[Category:Japanese nouns|まる]]
-'''丸''' ([[まる]], [[maru]])
+{{ja-noun|k|hira=まる|rom=maru}}
 #[[circle]]
 ====Alternative forms====
 *[[円]]
@@ -29,14 +28,12 @@
 
 
 ===Suffix===
-[[Category:Japanese suffixes|まる]]
--'''丸''' (-[[まる]], -[[maru]])
+{{ja-pos|k|suffix|hira=まる|rom=maru}}
 # ending for ship names
 
 
 ===Prefix===
-[[Category:Japanese prefixes|まる]]
-'''丸'''- ([[まる]]-, [[maru]]-)
+{{ja-pos|k|prefix|hira=まる|rom=maru}}
 # [[whole]], [[complete]]
 ====Derived terms====
 *[[丸っきり]], [[丸っ切り]]
@@ -58,8 +55,15 @@
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=丶02}}
+# [[ball]]; circular things such as bullets or pills
+# counter word for pills
+# (Japanese only) being [[circular]]
+# (Japanese only) make a thing [[circular]]
+# (Japanese only) circle
+# (Japanese only) a whole thing
+# (Japanese only) suffix for names of ships
 ====Readings====
-{{ja-readings|on=[[がん]] ([[gan]])|kun=[[まるい]] ([[丸い]], [[marui]]), [[まるめる]] ([[丸める]], [[marumeru]]), [[たま]] ([[tama]])}}
+{{ja-readings|goon=[[がん]] ([[gan]])|kanon=[[かん]] (kan)|kun=[[まるい]] (marui), [[まるめる]] (marumeru), [[たま]] ([[tama]])|nadzuke=[[たま]] (tama), [[まる]] (maru), [[まろ]] (maru)}}
 ====Compounds====
 {{top2}}
 *[[一丸]]
@@ -116,6 +120,8 @@
 *[[丸鑿]]
 *[[丸髷]] 
 {{bottom}}
+====References====
+{{ja-kref|a|2061|8ADB|345D}}
 
 ===Related terms===
 *[[丸で]]
@@ -130,6 +136,7 @@
 *[[丸彫り]]
 *[[丸儲け]]
 ----
+
 ==Korean==
 ===Hanja===
 {{ko-hanja|hangeul=환|eumhun=알|rv=hwan|mr=hwan}}
