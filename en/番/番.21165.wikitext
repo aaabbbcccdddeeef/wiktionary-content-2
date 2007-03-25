@@ -31,9 +31,11 @@
 
 
 
-== Japanese ==
+==Japanese==
+
 ===Kanji===
 {{ja-kanji|grade=2|rs=田07}}
+
 ====Readings====
 {{ja-readings|on=[[ばん]] ([[ban]]), [[はん]] ([[han]])|kun=[[つがい]] ([[tsugai]]), [[つがう]] ([[tsugau]]), [[つがえる]] ([[tsugaeru]])}}
 
@@ -46,8 +48,8 @@
 *[[番人]]
 *[[番組]]
 
-====[[助数詞|Counter]]====  
-{{ja-counter| kana=ばん | romaji=ban | index=はん' }}  
+===Counter===
+{{ja-pos|k|counter|hira=ばん|rom=ban|hidx=はん'}}
 
 # {{cattag|sports}} [[match]]es
 
