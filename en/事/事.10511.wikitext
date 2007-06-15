@@ -19,39 +19,78 @@
 
 ----
 ==Japanese==
+===Noun===
+{{ja-noun|k|hira=こと|rom=koto}}
+# abstract [[thing]], [[affair]], [[matter]], [[fact]]
+#* ささいな事だ
+#*: ささいなことだ
+#*: ''sasai na koto da''
+#*: It is a trivial matter
+# [[act]] (''word used for the nominalization of verbs, adjectives, or phrases'')
+#* ある程度まで私はあなたの言う事に賛成です
+#*: あるていどまでわたしはあなたのいうことにさんせいです
+#*: ''aru teido made watashi wa anata no iu koto ni sansei desu''
+#*: I agree with what you say to some extent
+# event of special importance [[affair]], [[something]], [[incident]], [[case]], [[occurence]], [[trouble]]
+#* 大変な事が起こった
+#*: たいへんなことがおこった
+#*: ''taihen na koto ga okotta''
+#*: A terrible accident occured
+# business matters, [[affairs]], [[business]], [[work]], [[duty]]
+#* 慌てて事を運ぶとミスをしますよ
+#*: あわててことをはこぶとミスをしますよ
+#*: ''awatete koto o hakobu to misu o shimasu yo''
+#*: You make mistakes if you do things in a hurry
+# [[things]], [[occasions]], [[circumstances]], [[details]], [[particulars]]
+#* 彼は学校を遅刻する事が有る
+#*: かれはごっこうをちこくすることがある
+#*: ''kare wa gakkō o chikoku suru koto ga aru''
+#*: He is sometimes late for school
+# [[worthwhileness]], [[reason]]
+#* いやしくもなすに足る事なら立派にやるだけの価値がある
+#*: いやしくもなすにたることならりっぱにやるだけのかちがある
+#*: ''iyashiku mo nasu ni taru koto nara rippa ni yaru dake no kachi ga aru''
+#*: If it is worth doing at all it is worth doing well
+# [[experience]]
+#* 京都に行った事が有りますか
+#*: きょうとにいったことがありますか
+#*: ''kyōto ni itta koto ga arimasu ka''
+#*: Have you ever been to Kyoto?
+
+====Usage Notes====
+事 is used for abstract things such as actions or a concepts, whereas [[物]] is used for more concrete things. 
 ===Kanji===
 {{ja-kanji|grade=3|rs=亅07}}
 ====Readings====
-{{ja-readings|on=[[じ]] ([[ji]]), [[し]] ([[shi]])|kun=[[こと]] ([[koto]]), [[つかう]] ([[tsukau]]), [[こととする]] ([[事とする]], [[kototosuru]])}}
+{{ja-readings|on=[[じ]] (''ji''), [[ず]] (''zu'')|kun=[[こと]] (''koto''), [[つかう]] ([[事う]], ''tsukau''), [[つかえる]] ([[事える]], ''tsukaeru'')|nanori=[[ろ]] (''ro'')}}
 ====Compounds====
-{{top4}}
-*[[事々]], [[事事]]
-*[[事々物々]], [[事事物物]]
-*[[事案]]
+{{top3}}
+*[[事々]], [[事事]] (''kotogoto''): everything
+*[[事々物々]], [[事事物物]] (''jijibutsubutsu''): everything, all things
+*[[事案]] (''jian''): concern
 *[[事宜]]
 *[[事共]]
 *[[事業]]
 *[[事局]]
-{{mid4}}
-*[[事件]]
-*[[事故]]
+*[[事件]] (''jiken''): event, affair
+*[[事故]] (''jiko''): accident, incident
 *[[事後]]
-*[[事項]]
-*[[事実]]
+{{mid3}}
+*[[事項]] (''jikō''): matters, articles
+*[[事実]] (''jijitsu''): as a matter of fact
 *[[事象]]
-*[[事情]]
-{{mid4}}
+*[[事情]] (''jijō''): circumstances, consideration
 *[[事績]]
-*[[事迹]], [[事跡]], [[事蹟]]
+*[[事迹]], [[事跡]], [[事蹟]] (''jiseki''): evidence, trace
 *[[事前]]
 *[[事相]]
 *[[事態]], [[事体]]
 *[[事大]]
-*[[事典]]
+{{mid3}}
+*[[事典]] (''jiten''): encyclopedia
 *[[事犯]]
-{{mid4}}
-*[[事物]]
-*[[事柄]]
+*[[事物]] (''jibutsu''): things, affairs
+*[[事柄]] (''kotogara''): matter, thing
 *[[事変]]
 *[[事毎]]
 *[[事務]]
@@ -60,27 +99,20 @@
 *[[事例]]
 {{bottom}}
 
-===Noun===
-{{ja-noun|k|hira=こと|rom=koto}}
-# [[thing]]
-
-====Usage Notes====
-事 is used for abstract things such as actions or a concepts, whereas [[物]] is used for more concrete things. 
-
 ====Derrived Terms====
 {{top2}}
-*[[事にしている]]
+*[[事にしている]] (''koto ni shite iru''): make a point of
 *[[事になっている]]
 *[[事とする]]
 *[[事によると]]　
 *[[事が足りる]]
-*[[事を運ぶ]]
-*[[事を起こす]]
+*[[事を運ぶ]] (''koto o hakobu''): proceed, go ahead
+*[[事を起こす]] (''koto o okosu''): cause trouble
 *[[事を好む]]
 *[[事を分ける]]
 *[[事を成し遂げる]]
 *[[事々しい]], [[事事しい ]]
-*[[事と次第で]]
+*[[事と次第で]] (''koto to shidai de''): under certain circumstances
 *[[事も無げ]]
 {{mid2}}
 *[[事改めて]]
@@ -94,7 +126,7 @@
 *[[事珍しく]]
 *[[事無し]]
 *[[事無く]]
-*[[事勿れ主義]]
+*[[事勿れ主義]] (''kotonakareshugi''): principle of peace-at-any-price
 *[[事立てる]]
 {{bottom}}
 ----
