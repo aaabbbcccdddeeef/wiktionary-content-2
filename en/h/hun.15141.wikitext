@@ -1,12 +1,10 @@
-{{see|Hun|hūn|hún|hǔn|hùn|hûn}}
-{{rfc|The Dutch section needs better context labelling}}
-
+{{see|Hun|hūn|hún|hǔn|hùn|hûn|-hun}}
 ==English==
 
 ===Noun===
 {{en-noun|-}}
 
-# {{slang}} affectionate abbreviation of ''[[honey]]''.
+# {{slang}} Affectionate abbreviation of ''[[honey]]''.
 # A [[grey partridge]].
 
 ----
@@ -28,7 +26,7 @@
 '''hun''' {{c}}
 
 # [[female]]
-# [[hen]] (''female bird'')
+# [[hen]] {{italbrac|female bird}}
 
 ===Pronoun===
 '''hun'''
@@ -45,9 +43,33 @@
 ===Pronoun===
 '''hun'''
 
-# [[their]]
-# The dative case of the third-person plural personal pronoun: [[them]], to them.
-# {{context|proscribed|lang=nl}} The accusative case of the third-person plural personal pronoun: [[them]].
+# ''The third-person plural possessive pronoun:'' [[their]].
+# ''The dative case of the third-person plural personal pronoun:'' [[them]], to them.
+# {{context|proscribed|lang=nl}} ''The accusative case of the third-person plural personal pronoun:'' [[them]].
+# {{context|proscribed|dialectical|lang=nl}} ''The nominative case of the third-person plural personal pronoun:'' [[they]].
+
+====Usage notes====
+* The distinction between ''[[hen]]'' (for the accusative) and ''hun'' is an artificially created one.  It was invented by the seventeenth century scholar [[w:Christiaen van Heule|Christiaen van Heule]], to make Dutch look more like Latin.  In practice almost everybody has trouble remembering when to use the one or the other, since this distinction is not made in any other person.  Thus it is common to hear sentences like:
+** ''Hij heeft '''hun''' verraden.''
+**: He betrayed them.
+** ''Ze zijn met '''hun''' uitgegaan.''
+**: They went out with them.
+*: But also the inverse:
+** ''Ik heb het '''hen''' gegeven.''
+**: I gave it to them.
+*: In written texts, care is usually taken to make ‘correct’ use of them.
+*: To circumvent this problem, often the nominative case is used for both.  This is not yet generally accepted.
+** ''Hij heeft '''ze''' verraden.''
+** ''Ze zijn met '''ze''' uitgegaan.''
+** ''Ik heb het '''ze''' gegeven.''
+
+* The use of ''hun'' for the nominative case, however, is more locally restrained and still generally considered wrong.
+* For more information, see [[w:nl:Hen of hun|the article in the Dutch Wikipedia]].
+====Related terms====
+* [[zij]], [[ze]]
+* [[hen]]
+
+[[Category:Dutch pronouns]]
 
 ----
 
@@ -74,7 +96,9 @@
 * [[eumhun]]
 
 ====Antonyms====
-* [[eum]] (“the sound of a Chinese character”)
+* [[eum]]
+
+[[Category:Korean nouns]]
 
 ----
 
@@ -83,7 +107,9 @@
 ===Noun===
 '''hun'''
 
-# A unit of weight equal to one hundredth of a [[tahil]]
+# A unit of [[weight]] equal to one hundredth of a [[tahil]].
+
+[[Category:Malay nouns]]
 
 ----
 
@@ -110,10 +136,7 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 # [[beginning]]
 # [[origin]]
 
-===Suffix===
-'''-hun'''
-
-# [[tree]]
+[[Category:Tetum nouns]]
 
 [[da:hun]]
 [[el:hun]]
