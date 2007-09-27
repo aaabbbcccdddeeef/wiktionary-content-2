@@ -76,7 +76,26 @@
 ===Hanzi===
 {{cmn-hanzi|pin=[[fāng]] ([[fang1]]), [[fēng]] ([[feng1]]), [[páng]] ([[pang2]]), [[wǎng]] ([[wang3]])|wg=fang<sup>1</sup>, feng<sup>1</sup>, p'ang<sup>2</sup>, wang<sup>3</sup>}}
 
-# {{defn|Mandarin}}
+===Adverb===
+{{cmn-adv|ts|pin=fāng|pint=fang1|rs=方00}}
+
+# {{literary|lang=zh-tw|skey=方00}} [[just]] [[now]]
+
+===Noun===
+{{cmn-noun|ts|pin=fāng|pint=fang1|rs=方00}}
+
+# {{Elementary Mandarin|lang=zh-tw|skey=方00}} [[square]]; [[rectangle]]
+# {{Intermediate Mandarin|lang=zh-tw|skey=方00}} [[aspect]]; [[side]]
+# {{Intermediate Mandarin|lang=zh-tw|skey=方00}} [[place]]; [[region]]
+# {{Intermediate Mandarin|lang=zh-tw|skey=方00}} [[method]]; [[way]]
+# {{Intermediate Mandarin|lang=zh-tw|skey=方00}} [[prescription]]
+# {{Intermediate Mandarin|lang=zh-tw|skey=方00}} [[power]] (mathmatics)
+#: 2[[的]]3[[次]]'''方'''[[是]]8
+#: '' 2 to the 3rd '''power''' is 8.
+
+[[Category:zh-cn:Elementary Mandarin|fang1]]
+[[Category:zh-cn:Intermediate Mandarin|fang1]]
+[[Category:zh-cn:Literary|fang1]]
 
 ====Compounds====
 *[[方响]]
@@ -89,11 +108,12 @@
 {{nan-noun|ts|poj=hong|pojt=hong1|rs=方00}}
 
 # [[aspect]]; [[side]]
-
+#: [[方面|方'''面''']] ([[hong-bīn|hong-'''bīn''']]): [[aspect]]; [[side]]  
 ===Noun===
-{{nan-noun|ts|poj=hng<!--Is this spelled correctly?-->|pojt=hng1|rs=方00}}
+{{nan-noun|ts|poj=hng|pojt=hng1|rs=方00}}
 
-# [[direction]]
+# [[region]]
+#: [[地方|地'''方''']] ([[tē-hng|tē-'''hng''']] or [[tōe-hng|tōe-'''hng''']]): [[regional]]; [[local]]
 
 [[zh-min-nan:方]]
 [[de:方]]
@@ -102,5 +122,3 @@
 [[hu:方]]
 [[ja:方]]
 [[pl:方]]
-
-{{zh-attention}}
