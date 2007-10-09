@@ -2,24 +2,21 @@
 ==Alabama==
 
 ===Pronoun===
-'''ano'''
+{{infl|akz|pronoun}}
 
 # {{context|personal pronoun}} [[I]]
 # {{context|possesive pronoun}} [[my]]
-
-[[Category:Alabama language]]
 
 ----
 
 ==Apalaí==
 
 ===Noun===
-'''ano'''
+{{infl|apy|noun}}
 
 # [[bee]]
 # [[honey]]
 
-[[Category:Apalaí nouns]]
 [[Category:apy:Food and Drink]]
 [[Category:apy:Insects]]
 
@@ -28,18 +25,16 @@
 ==Breton==
 
 ===Noun===
-'''ano''' {{m}}
+{{infl|br|noun|g=m}}
 
 # [[name]]
-
-[[Category:Breton nouns]]
 
 ----
 
 ==Czech==
 
 ===Particle===
-'''ano'''
+{{infl|cs|particle}}
 
 # [[yes]]
 
@@ -48,7 +43,7 @@
 ==Esperanto==
 
 ===Noun===
-'''ano''' (''plural:'' [[anoj]], ''diminutive:'' [[aneto]])
+{{eo-noun}}
 
 # [[member]] (of a society or a group)
 
@@ -71,7 +66,7 @@
 ==Italian==
 
 ===Noun===
-'''ano''' {{m}} (''plural:'' '''ani''')
+{{it-noun|an|m|o|i}}
 
 # [[anus]]
 
@@ -80,60 +75,53 @@
 ==Japanese==
 
 ===Pronoun===
-'''ano''' ([[あの]])
+{{infl|ja|pronoun|hiragana|あの}}
 
 # [[that]]
-
-[[Category:Japanese pronouns]]
 
 ----
 
 ==Latin==
 
 ===Noun===
-'''ānō''' {{m}}
+{{infl|la|noun form|head=ānō|g=m}}
 
 # {{inflection of|anus#Latin|ānus|dat|s}}
 # {{inflection of|anus#Latin|ānus|abl|s}}
-
-[[Category:Latin noun forms]]
 
 ----
 
 ==Old High German==
 
 ===Etymology 1===
-Akin to Latin ''[[anus]]''
+Akin to Latin {{term|anus|lang=la}}.
 
 ====Noun====
-'''ano''' {{m}}
+{{infl|goh|noun|g=m}}
 
 # [[grandfather]]
 # [[ancestor]]
 
 ===Etymology 2===
-Common Germanic, akin to Old Norse ''[[án]]''
+{{CG.|goh}}, akin to Old Norse {{term|án}}.
 
 ====Preposition====
-'''āno'''
+{{infl|goh|preposition|head=āno}}
 
 # [[without]]
-
-[[Category:Old High German nouns]]
-[[Category:Old High German prepositions]]
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From [[Latin]] ''[[annus]]'' “year”
+From {{L.|pt}} {{term|annus||year|lang=la}}.
 
 ===Pronunciation===
 *{{IPA|/'ʌnu/}}
 
 ===Noun===
-'''ano''' {{m}} (''plural:'' '''anos''')
+{{pt-noun-m}}
 
 # [[year]]
 
@@ -144,31 +132,27 @@ From [[Latin]] ''[[annus]]'' “year”
 ==Spanish==
 
 ===Etymology===
-Latin ''[[anus]]''
+{{L.|es}} {{term|anus|lang=la}}.
 
 ===Noun===
-'''ano''' {{m}} (''plural:'' '''anos''')
+{{es-noun-m}}
 
 # [[anus]]
 
-===See also===
+====See also====
 *[[año]]
-
-[[Category:Spanish nouns]]
 
 ----
 
 ==Tagalog==
 
 ===Pronunciation===
-Ah-nó
+*Ah-nó
 
 ===Pronoun===
-'''ano'''?
+{{infl|tl|pronoun|interrogative pronoun}}
 
-# {{interrogative}} [[what]]?
-
-[[Category:Tagalog language]]
+# [[what]]?
 
 [[af:ano]]
 [[ast:ano]]
