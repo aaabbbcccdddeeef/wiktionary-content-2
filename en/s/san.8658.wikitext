@@ -1,14 +1,10 @@
 {{see|San|-san|şan|sān|sǎn|sàn|sân|sản}}
-{{rfc|Preposition + definite article fusion unknown/invalid header}}
-
 ==Bosnian==
 
 ===Noun===
-'''san''' {{m}} {{s}} ({{p}}: '''snovi''')
+{{infl|bs|noun|gender=m|plural|snovi}}
 
 # [[dream]]
-
-[[Category:Bosnian nouns]]
 
 ----
 
@@ -17,26 +13,27 @@
 ===Particle===
 '''san'''
 
-# {{alternative spelling of|zan}}
+# {{alternative spelling of|zan|lang=Classical Nahuatl}}
 
 ----
 
 ==Croatian==
 
 ===Noun===
-'''san''' {{m}} {{s}} ({{p}}: '''snovi''')
+{{infl|hr|noun|gender=m|plural|snovi}}
 
 # [[dream]]
-
-[[Category:Croatian nouns]]
 
 ----
 
 ==[[Garífuna]]==
 
 ===Etymology===
-Probably from French ''[[cent#French|cent]]''
+Probably from French {{term|cent|lang=fr}}
 
+<!-- What part of speech is this?
+===Adjective===
+-->
 '''san'''
 
 # [[hundred]]
@@ -46,10 +43,11 @@ Probably from French ''[[cent#French|cent]]''
 ==Irish==
 
 ===Pronunciation===
-{{IPA|[sən]}}
+* {{IPA|lang=ga|[sən]}}
 
-===Preposition + definite article fusion===
-'''san'''
+===Contraction===
+{{infl|ga|contraction|preposition + definite article fusion}}
+
 # [[in]] [[the]] ([[singular]])
 
 ----
@@ -57,10 +55,10 @@ Probably from French ''[[cent#French|cent]]''
 ==Italian==
 
 ===Noun===
-'''san'''
+{{infl|it|noun|apocopate}}
 
-# (''form of [[santo]] used before a consonant'') [[saint]]
-#:''San Pietro'' &mdash; Saint Peter
+# {{context|used before a consonant}} {{apocopic form of|santo|lang=Italian}} [[saint]]
+#:'''''San''' Pietro'' — “Saint Peter”
 
 ====See also====
 *[[sant']], [[santo]]
@@ -127,34 +125,31 @@ From Bengali
 
 ==Serbian==
 
+====Alternative spellings====
+* {{qualifier|Cyrillic}} {{onym|sc=Cyrl|сан|tr=san|lang=sr}}
+
 ===Noun===
-'''san''' {{m}} {{s}} ({{p}}: '''snovi''')
+{{infl|sr|noun|gender=m|plural|snovi}}
 
 # [[dream]]
 
-====Cyrillic spelling====
-*[[сан#Serbian|сан]]
-
-[[Category:Serbian nouns]]
-
 ----
+
 ==Spanish==
 
-===Adjective form===
-'''san'''
+===Alternative forms===
+* {{qualifier|in proper nouns|capitalized}} [[San]]
 
-# masculine form of [[santo]], which has to be used before the noun.
+===Adjective===
+{{infl|es|adjective form|gender=m|apocopate||standard form|santo}}
 
-===Related terms===
-*[[San]] (used as title in proper nouns)
-
-[[category:Spanish adjective forms]]
+# {{context|before the noun}} {{apocopic form of|santo|lang=Spanish}} [[saint]]
 
 ----
 ==Torres Strait Creole==
 
 ===Etymology===
-From English ''[[sun]]''.
+From English {{term|sun}}.
 
 ===Noun===
 '''san'''
@@ -168,12 +163,10 @@ From English ''[[sun]]''.
 ==Turkish==
 
 ===Noun===
-'''san'''
+{{infl|tr|noun}}
 
 # [[name]]
 # [[reputation]]
-
-[[Category:Turkish nouns]]
 
 [[af:san]]
 [[el:san]]
