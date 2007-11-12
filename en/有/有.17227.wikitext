@@ -76,14 +76,26 @@
 
 # {{defn|Korean}}
 
-{{zh-hanzi|[[有]]}}
-
 ----
 
 ==Mandarin==
+{{zh-hanzi|[[有]]}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[yǒu]] ([[you3]])|wg=yu<sup>3</sup>}}
+===Adverb===
+{{cmn-adv|ts|pin=yòu|pint=you4|rs=月02}}
+
+# {{archaic|lang=zh-tw|skey=月02}} [[again]]
+
+====Synonyms====
+*[[又]]
+
+===Conjunction===
+{{cmn-conj|ts|pin=yòu|pint=you4|rs=月02}}
+
+# {{archaic|lang=zh-tw|skey=月02}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
+#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語˙為政]])
+#*: [[吾]][[十]]'''有'''[[五]][[而]][[志]][[於]][[學]]，[[三]][[十]][[而]][[立]]。
+#*:: ''When I was 10 '''and''' 5 years (15 years old), I devoted myself to study.  At the age of 30, I estblished myself (got a job and started a family).''
 
 ===Verb===
 {{cmn-verb|ts|pin=yǒu|pint=you3|rs=月02}}
@@ -100,6 +112,7 @@
 * [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)]
 
 [[Category:zh-cn:Beginning Mandarin|you3]]
+[[Category:zh-cn:Archaic|you4]]
 
 [[fr:有]]
 [[ko:有]]
