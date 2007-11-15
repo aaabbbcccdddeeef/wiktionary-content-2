@@ -44,15 +44,20 @@
 
 ==Mandarin==
 
-===Noun===
-{{cmn-noun|s|pin=yún|pint=yun2|tra=雲|rs=二02}}
-
-# A visible mass of water droplets suspended in the air; [[cloud]].
-
 ===Hanzi===
 {{cmn-hanzi|tra=雲|pin=[[yún]] ([[yun2]])|wg=yün<sup>2</sup>}}
 
 # {{defn|Mandarin}}
+
+===Noun===
+{{cmn-noun|s|pin=yún|pint=yun2|tra=雲|sim=云|rs=二02}}
+
+# {{Beginning Mandarin|lang=zh-cn|skey=yun2}} a [[cloud]]
+
+===Verb===
+{{cmn-verb|ts|pin=yún|pint=yun2|rs=二02}}
+
+# {{literary|lang=zh-tw|skey=二02}} to [[say]]; to [[speak]]
 
 ====Compounds====
 *[[云霭]]
@@ -87,8 +92,7 @@
 *[[云云]]
 *[[云蒸霞蔚]]
 
-====Usage notes====
-Both 云 and 雲 are simplified into 云.
+[[Category:zh-cn:Literary|yun2]]
 
 [[fr:云]]
 [[lt:云]]
