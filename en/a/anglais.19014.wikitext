@@ -12,16 +12,7 @@
 # [[English]] language
 #: ''Il parle '''anglais''' /il.par.lɑ̃.ɡlɛ/.'' - He speaks english. /He knows english.
 
-<!-- current word -->'''{{{current|{{PAGENAME}}}}}''' <!--
-gender -->{{#switch:m|m.|m={{m}}|f.|f={{f}}|mf={{m|f}}}} (<!--
-singular form -->{{#ifeq:{{{type}}}|plural|''singular'' '''[[{{{sg|{{{single|}}}}}}]]'''|<!--
-or plural form -->''plural'' '''[[{{{pl|{{{plural|{{{current|{{PAGENAME}}}}}{{#ifeq:|-||}}}}}}}}]]'''}}<!--
-word in other gender -->{{#if:{{{f|{{{fem|{{{othergender|anglaise}}}}}}}}}|<nowiki>;</nowiki> {{#switch:m|m.|m=''feminine''|f.|f=''masculine''|}} '''[[{{{f|{{{fem|{{{othergender|anglaise}}}}}}}}}]]'''{{#ifeq:{{{type}}}|plural||, ''plural'' '''[[{{{fplural|{{{f|{{{fem|{{{othergender|anglaise}}}}}}}}}{{#ifeq:|-||}}}}}]]'''}}}})<!--
-
-categories:
-main -->{{{category|[[Category:French nouns]]<!--
-no gender -->{{#if:m||[[Category:French nouns lacking gender]]}}<!--
-plural -->{{#ifeq:{{{type}}}|plural|[[Category:French noun forms]][[Category:French plurals]]|{{#ifeq:{{{pl|{{{plural|{{{current|{{PAGENAME}}}}}{{#ifeq:|-||s}}}}}}}}|{{PAGENAME}}|[[Category:French plurals]]}}}}}}}
+{{fr-noun|m||anglaise}}
 
 # an English person
 
