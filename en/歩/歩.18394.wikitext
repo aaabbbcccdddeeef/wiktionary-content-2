@@ -10,13 +10,41 @@
 ----
 
 ==Japanese==
+
 ===Kanji===
 {{ja-kanji|grade=2|rs=止04}}
-# {{defn|Japanese}} 
+
+# [[walk]]
+# a [[step]]
+
 ====Readings====
-{{ja-readings|on=[[ほ]] (ho), [[ぶ]] (bu), [[ふ]] (fu)|kun=[[あるく]] (aruku), [[あゆむ]] (ayumu), [[あゆみ]] (ayumi)}}
+{{ja-readings|on=[[ほ]] (ho), [[ぶ]] (bu), [[ふ]] (fu)|kun=[[あるく]] ([[歩く]], aruku), [[あゆむ]] (ayumu), [[あゆみ]] (ayumi)}}
+
+===Counter===
+{{ja-pos|k|counter|hira=ほ|rom=ho}}
+
+# counter for steps
+
+===Noun===
+{{ja-noun|k|hira=ほ|rom=ho}}
+
+# a [[step]] (as in footstep)
+
+{{ja-noun|k|hira=ふ|rom=fu}}
+
+# {{shogi|lang=ja|skey=ふ}} [[pawn]]
+
+===Proper noun===
+{{ja-pos|k|proper|hira=あゆむ|rom=Ayumu}}
+
+# A Japanese [[given name]].
+
+{{ja-pos|k|proper|hira=あゆみ|rom=Ayumi}}
+
+# A Japanese [[given name]].
 
 ----
+
 ==Korean==
 ===Hanja===
 {{ko-hanja|hangeul=보|eumhun=|rv=bo|mr=po|y=po}}
