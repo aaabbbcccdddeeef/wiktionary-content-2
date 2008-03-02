@@ -3,7 +3,7 @@
 ==Bosnian==
 
 ===Noun===
-{{infl|bs|noun|gender=m|plural|snovi}}
+{{bs-noun|g=m|snovi}}
 
 # [[dream]]
 
@@ -12,7 +12,7 @@
 ==Classical Nahuatl==
 
 ===Particle===
-'''san'''
+{{infl|nci|particle}}
 
 # {{alternative spelling of|zan|lang=Classical Nahuatl}}
 
@@ -21,24 +21,21 @@
 ==Croatian==
 
 ===Noun===
-{{infl|hr|noun|gender=m|plural|snovi}}
+{{hr-noun|g=m|snovi}}
 
 # [[dream]]
 
 ----
 
-==[[Garífuna]]==
+==[[Garifuna]]==
 
 ===Etymology===
-Probably from French {{term|cent|lang=fr}}
+Probably from {{F.|cab}} {{term|cent|lang=fr}}.
 
-<!-- What part of speech is this?
+===Cardinal number===
+{{infl|cab|numeral}}
 
-===Adjective===
--->
-'''san'''
-
-# [[hundred]]
+# {{cardinal|lang=cab}} [[hundred]]
 
 ----
 
@@ -92,7 +89,7 @@ Probably from French {{term|cent|lang=fr}}
 ==[[Kuna]]==
 
 ===Noun===
-'''san'''
+{{infl|cuk|noun}}
 
 # [[meat]]
 
@@ -115,24 +112,19 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 ==[[Rohingya]]==
 
 ===Etymology===
-From Bengali
+From {{Beng.|cit}}.
 
 ===Noun===
-'''san'''
+{{infl|cit|noun}}
 
 # [[moon]]
-
-[[Category:Rohingya language]]
 
 ----
 
 ==Serbian==
 
-===Alternative spellings===
-* {{qualifier|Cyrillic}} {{onym|sr|sc=Cyrl|сан|tr=san}}
-
 ===Noun===
-{{infl|sr|noun|gender=m|plural|snovi}}
+{{sr-noun|g=m|snovi|cyr=сан}}
 
 # [[dream]]
 
@@ -144,12 +136,12 @@ From Bengali
 * {{qualifier|in proper nouns|capitalized}} [[San]]
 
 ===Adjective===
-{{infl|es|adjective form|gender=m|apocopate||standard form|santo}}
+{{infl|es|adjective form|g=m|apocopate||standard form|santo}}
 
 # {{context|before the noun}} {{apocopic form of|santo|lang=Spanish}} [[saint]]
 
 ====Usage notes====
-Not used in front of the following names (use ''[[santo]]'' instead): Tomás, Tomé, Toribio y Domingo .
+Not used in front of the following names (use {{term|santo|lang=es}} instead): Tomás, Tomé, Toribio y Domingo .
 
 ===Noun===
 {{es-noun-m|pl=sanes}}
@@ -161,14 +153,12 @@ Not used in front of the following names (use ''[[santo]]'' instead): Tomás, To
 ==Torres Strait Creole==
 
 ===Etymology===
-From English {{term|sun}}.
+From {{E.|tcs}} {{term|sun}}.
 
 ===Noun===
-'''san'''
+{{infl|tcs|noun}}
 
 # [[sun]]
-
-[[Category:Torres Strait Creole nouns]]
 
 ----
 
