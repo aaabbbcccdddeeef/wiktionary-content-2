@@ -1,14 +1,24 @@
 ==Japanese==
-{{ja-attention|Hiragana header should be replaced with POS header|key=p}}
-===Hiragana===
-[[Category:Japanese hiragana]]
-'''さい''' ([[sai]])
-# {{ja-def|歳}} [[age]], [[year]], [[old]]
+===Noun===
+{{ja-noun|h|rom=sai}}
+
 # {{ja-def|犀}} [[rhinoceros]]
-# {{ja-def|差異}} [[差違]]: [[diversity]], [[difference]]
-# {{ja-def|際}} [[when]], [[in case of]]
+# {{ja-def|サイ}} [[rhinoceros]]
 # {{ja-def|才}} [[talent]], [[ability]]
+# {{ja-def|彩}} [[coloring]]
+# {{ja-def|差異}} [[diversity]], [[difference]]
+# {{ja-def|差違}} [[diversity]], [[difference]]
+# {{ja-def|際}} [[when]], [[in case of]]
+
+===Prefix===
+{{ja-pos|k|prefix|rom=sai}}
 # {{ja-def|再}} [[re-]]
+
+===Counter===
+{{ja-pos|k|counter|rom=sai}}
+# {{ja-def|歳}} [[age]], [[year]], [[old]]
+# {{ja-def|才}} [[talent]], [[ability]]
+
 
 [[fr:さい]]
 [[ko:さい]]
