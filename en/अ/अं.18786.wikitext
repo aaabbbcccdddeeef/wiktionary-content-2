@@ -8,18 +8,6 @@
 
 # A character of the [[Devanagari]] script.  Used to denote the nasalization sound represented by the [[anusvāra]], but in this form it is sometimes classified as a vowel in it's own right.
 
-It is used to replace the half letter of one of the 5 nasal consanants in hind which are 
-ङ    ञ    ण    न    म .
-For example, to translate color to hindi, it would be रंग or रङ्ग . In this case the dependent form of अं replaces ङ् (half ङ).
-Another example is hindi which is हिंदीं . अं replaces न् and so can also be written as हिन्दी .
-
-To tell what अं replces, take the letter that follows it, and find the nasal consanent that is in the same line. For example, द is in the line त थ द ध न , and न is the nasal consanant in that line. Next, add the ''virama'' which is ् after the nasal consanent. In this case, the sum is न् . Then just replace the अं in the hindi word with what you just got.
-
-Unfortunately, I don't think that the last 2 lines have a nasal consanent. The last 2 lines, not including the commun half consanant plus consanent are
-य र ल व and  श ष स ह .
-I don't know what ''hides'' in the ''bindu'' (dot).
-Note, the same rule has nothing to do with the ''[[chandrbindu]]'' (from moon and dot) which is अँ .
-
 ===Transliteration===
 {{rfc-header|Transliteration}}
 *[[w:IAST|IAST]]: ṃ  Ṃ
