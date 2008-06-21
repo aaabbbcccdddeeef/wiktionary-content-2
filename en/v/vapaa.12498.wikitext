@@ -1,12 +1,15 @@
 ==Finnish==
-===Pronunciation===
-*{{IPA|/ˈʋɑpɑː/}}
 
-===Etymology===
-From {{Sla.|fi}} *''svaba'', compare ''[[svoboda]]''.
+===Etymology 1===
+From {{Sla.|fi}} *''svaba'', compare {{term|svoboda}}.
 
-===Adjective===
-{{fi-adj|vapa|type=vapaa|comp=ampi|sup=in}}
+====Pronunciation====
+* {{IPA|lang=fi|[ˈʋɑpɑː]}}
+* Rhymes: [[Rhymes:Finnish:-ɑpɑː|-ɑpɑ­ː]]
+* Hyphenation: va·paa
+
+====Adjective====
+{{infl|fi|adjective|comparative|vapaampi|superlative|vapain}}
 
 # [[free|Free]] (''not imprisoned or enslaved'').
 #*'''''vapaa''' mies'' 
@@ -25,13 +28,26 @@ From {{Sla.|fi}} *''svaba'', compare ''[[svoboda]]''.
 #**The seat is vacant.
 # [[unmarried|Unmarried]], [[single]].
 
-====Derived terms====
+=====Declension=====
+{{fi-decl-vapaa|vapa|a|a|}}
+
+=====Derived terms=====
 * '''''vapaalla''' [[jalka|jalalla]]'' = [[at large]]
 
-===Noun===
-{{fi-noun|vapa|type=vapaa}}
+====Noun====
+{{infl|fi|noun}}
 
 # [[leave]] (from work, etc.)
+
+=====Declension=====
+{{fi-decl-vapaa|vapa}}
+
+===Etymology 2===
+
+====Noun====
+{{infl|fi|noun form}}
+
+# {{fi-form of|type=noun|case=partitive|pl=singular|[[vapa]]}}
 
 [[fr:vapaa]]
 [[io:vapaa]]
