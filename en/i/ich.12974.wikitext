@@ -36,9 +36,9 @@ The genitive case ''meiner'' is more and more rarely used in modern German.
 From {{proto|Indo-European|egom|lang=li}}.
 
 ===Pronunciation===
-* {{a|most dialects}} {{IPA:|/ɪx/|lang=li}}
-* {{a|Cleverlandic dialects}} {{IPA|/ik/|lang=li}}
-* {{a|Maastrict}} {{IPA|/ix/|lang=li}}
+* {{a|most dialects}} {{IPA|[ɪx]|lang=li}}
+* {{a|Cleverlandic dialects}} {{IPA|[ik]|lang=li}}
+* {{a|Maastrict}} {{IPA|[ix]|lang=li}}
 
 ===Pronoun===
 '''ich'''
@@ -46,21 +46,46 @@ From {{proto|Indo-European|egom|lang=li}}.
 # {{personal|lang=li}} [[I]].
 
 ====Inflection====
-* Singular
-** [[nominative|Nominative]]: '''ich'''
-** [[accusative|Accusative]]: [[mich]]
-** [[dative|Dative]]: [[mir]] (obsolete, replaced by mich)
-** [[genitive|Genitive]]: [[miener]] (obsolete)
-* Plural
-** [[nominative|Nominative]]: [[weer]], [[v'r]]
-** [[accusative|Accusative]]: [[ós]]
-** [[dative|Dative]]: [[ós]]
-** [[genitive|Genitive]]: [[ózzer]] (obsolete)
+{| class="wikitable" style="text-align: center;"
+|-
+!
+! Singular
+! Dual
+! Plural
+|-
+! [[Nominative]]
+| '''[[ich]]''', '''[['ch]]'''
+| '''[[weet]]'''
+| '''[[weer]]''', '''[[v'r]]'''
+|-
+! [[Genitive]]
+| '''[[miener]]''', '''[[miens]]'''
+| '''[[ózzer]]'''
+| '''[[ózzer]]'''
+|-
+! [[Locative]]
+| '''[[miches]]'''
+| '''[[ózzes]]'''
+| '''[[ózzes]]'''
+|-
+! [[Vocative]]
+| —
+| '''—'''
+| —
+|-
+! [[Dative]]
+| '''[[mir]]'''
+| '''[[ós]]'''
+| '''[[ós]]'''
+|-
+! [[Accusative]]¹
+| '''[[mich]]'''
+| '''[[ós]]'''
+| '''[[ós]]'''
+|}
+* Dative is nowadays obsolete, use accusative instead.
 
-====Synonyms====
-* [[weet]]
-
-[[Category:Limburgish language]]
+[[Category:Limburgish pronouns]]
 
 ----
 
