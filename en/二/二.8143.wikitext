@@ -1,6 +1,6 @@
 {{xsee|[[ニ]] (katakana)|[[貳]]|[[贰]]|[[弍]]}}<!-- may be replaced by zh-forms -->
 ==Translingual==
-{{Han stroke|[[Image:二-order.gif]]}}
+{{stroke_order|strokes=3}}
 
 ===Han character===
 {{Han char|rn=7|rad=二|as=00|sn=2|four=1010<sub>0</sub>|canj=一一 (MM)|ids=⿱[[一]][[一]]}}
@@ -120,6 +120,7 @@ From [[w:Middle Chinese|Middle Chinese]]
 ----
 
 ==Mandarin==
+{{zh-hanzi|二}}
 
 ===Pronunciation===
 *{{audio|zh-èr.ogg|audio}}
@@ -127,12 +128,7 @@ From [[w:Middle Chinese|Middle Chinese]]
 ===Hanzi===
 {{cmn-hanzi|pin=[[èr]] ([[er4]])|wg=[[erh4|erh<sup>4</sup>]]}}
 
-# {{defn|Mandarin|sort=二00}}
-
 * [[Tang]]: [[nji3]]
-
-====Synonyms====
-* [[两]]
 
 ====Compounds====
 {{top4}}
@@ -207,6 +203,14 @@ From [[w:Middle Chinese|Middle Chinese]]
 * [[二者]]
 * [[二指]]
 {{bottom}}
+
+===Noun===
+{{cmn-noun|ts|pin=èr|pint=er4|rs=二00}}
+
+# {{Beginning Mandarin|lang=zh-tw|skey=八00}} [[two]]
+
+====Synonyms====
+* [[两]]
 
 [[Category:Mandarin entries with audio links]]
 [[Category:zh-cn:Numbers|er4]]
