@@ -1,8 +1,6 @@
 ==Japanese==
 ===Verb===
-'''する''' (''[[suru]]'')
-:[[為る]] (する, ''suru'')
-する is nearly always written in [[hiragana]].
+{{ja-verb|h|type=3|kanji=為る|rom=suru}}
 # to [[do]]
 #: [[何]]を'''して'''いますか。
 #::[[なに]]を'''して'''いますか。
@@ -10,33 +8,28 @@
 #:::What are you '''doing'''?
 # to [[wear]] (accessories)
 #: [[ネクタイ]]を'''する'''。
+#:: [[ねくたい]]を'''する'''。
 #:: ''[[nekutai|Nekutai]] o '''suru'''.''
 #::: To '''wear''' a [[necktie]].
 
 ====Usage notes====
+* The verb する is seldom written in kanji (為る).
 * It is common to use する after certain nouns to indicate that the noun is being done:
 *: [[失礼]] ([[shitsurei]], "rudeness") → [[失礼する|失礼'''する''']] ([[shitsurei suru|shitsurei '''suru''']], "to be rude")
 *: [[旅行]] ([[ryokō]], "journey") → [[旅行する|旅行'''する''']] ([[ryokō suru|ryokō '''suru''']], "to travel")
 
+====See also====
+*[[하다]] (hada), the exact translation of 為る in Korean
+*{{[[:Template:ja-suru etyl|ja-suru etyl]]}}, the template used in etymology entries for words which include 為る
+
 ====Conjugation====
 {{ja-suru|||}}
 
-[[Category:Japanese Type 3 Verbs]]
-
-<!-- don't move korean - it maps much more neatly than the english translations -->
-====See also====
-*Korean: [[하다]] (hada)
-
-
-{{ja-attention|Hiragana header should be replaced with POS header|key=p}}
-
 ===Hiragana===
-'''する''' (''[[suru]]'')
-# [[刷る]], [[摺る]]: [[print]], [[pull]]
-# [[掏る]]: [[pick]] one's pocket
-# [[擦る]], [[摩る]], [[磨る]]: [[strike]], [[rub]], [[grind]]
-
-[[Category:Japanese hiragana]]
+{{ja-verb|h|rom=suru}}
+# {{ja-def|刷る|摺る}} to [[print]], to [[pull]]
+# {{ja-def|掏る}} to [[pick]] one's pocket
+# {{ja-def|擦る|摩る|磨る}} to [[strike]], to [[rub]], to [[grind]]
 
 [[de:する]]
 [[fr:する]]
