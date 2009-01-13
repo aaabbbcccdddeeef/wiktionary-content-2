@@ -27,7 +27,7 @@
 # {{defn|Japanese}}
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan)|kun=[[かんじる]] (kanjiru)}}
+* {{ja-readings|on=[[かん]] (kan)|kun=}} <!-- KANJIRU (on KAN + suffix ZURU/JIRU, like SHIN+ZURU or EN+JIRU) is NOT really a kun. Why does the Unihan Database say so? -->
 
 ====Compounds====
 * [[感温]]
