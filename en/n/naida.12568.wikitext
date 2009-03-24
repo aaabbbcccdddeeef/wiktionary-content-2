@@ -9,7 +9,7 @@
 * {{IPA|lang=fi|/ˈnɑidɑ(ʔ)/}}
 
 ===Verb===
-{{fi-verb|nai|type=voida}}
+{{infl|fi|verb}}
 
 # {{transitive|+ genitive-accusative}} To [[marry]].
 #:* '''''Nain''' [[eilen]] Anna'''n'''.''
@@ -20,6 +20,9 @@
 
 ====Usage notes====
 * As seen above, the meaning of the verb depends on the case of its object.
+
+====Conjugation====
+{{fi-conj-voida|nai}}
 
 ====Synonyms====
 * {{sense|to marry}} [[mennä naimisiin]] ''+ genitive +'' [[kanssa]], [[avioitua]] ''+ genitive +'' [[kanssa]]
