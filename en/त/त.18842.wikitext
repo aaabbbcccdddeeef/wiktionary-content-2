@@ -10,9 +10,9 @@
 # A letter of the [[Devanagari alphabet]].
 
 ====Ligatures====
-* [[क्त]] (kta): [[क]] + त
-* [[त्त]] (tta): त + त
-* [[स्त्र]] (stra): [[स]] + त + [[र]]
+* {{Deva|[[क्त]]}} (kta): {{compound|क|त|sc=Deva}}
+* {{Deva|[[त्त]]}} (tta): {{compound|त|त|sc=Deva}}
+* {{Deva|[[स्त्र]]}} (stra): {{compound|स|त|र|sc=Deva}}
 
 [[fr:त]]
 [[hu:त]]
