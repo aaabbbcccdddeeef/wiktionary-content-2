@@ -1,46 +1,10 @@
 {{also|Appendix:Variations of "san"}}
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|sъnъ|lang=bs}}, from {{proto|Indo-European|swépnos||súpnos|dream|lang=bs}}.
-
-===Noun===
-{{bs-noun|g=m|snovi}}
-
-# [[dream]]
-
-----
-
 ==Classical Nahuatl==
 
 ===Particle===
 {{infl|nci|particle}}
 
 # {{alternative spelling of|zan|lang=Classical Nahuatl}}
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|sъnъ|lang=hr}}, from {{proto|Indo-European|swépnos||súpnos|dream|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=m|head=sȁn}}
-
-# [[dream]]
-
-====Derived terms====
-{{top2}}
-* {{l|hr|sanak|sȁnak}}
-* {{l|hr|sanen|sànen}}
-* {{l|hr|sanjati|sánjati}}
-* {{l|hr|snovati|snòvati}}
-{{mid2}}
-* {{l|hr|sniti|snȉti}}
-* {{l|hr|snovid|snòvid}}
-* {{l|hr|snovit|snȍvit}}
-{{bottom}}
 
 ----
 
@@ -169,15 +133,38 @@ From {{etyl|bn|rhg}} {{term|চাঁদ|lang=bn|sc=Beng|tr=tʃām̐da}}.
 
 ----
 
-==Serbian==
+
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|sъnъ|lang=sr}}, from {{proto|Indo-European|swépnos||súpnos|dream|lang=sr}}.
+From {{proto|Slavic|sъnъ|lang=sh}}, from {{proto|Indo-European|swépnos||súpnos|dream|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=snovi|cyr=сан}}
+{{infl|sh|noun|g=m|head=sȁn|Cyrillic spelling:|{{l|sh|sc=Cyrl|сан|са̏н}}}}
 
 # [[dream]]
+
+====Declension====
+{{sh-decl-noun
+|sȁn|snȍvi / snȉ
+|snȁ|snȏvā
+|snu|snovima /snima
+|san|snove / sne
+|snu|snovi / sni
+|snu|snovima / snima
+|snom|snovima / snima}}
+
+====Derived terms====
+{{top2}}
+* {{l|sh|sanak|sȁnak}}
+* {{l|sh|sanen|sànen}}
+* {{l|sh|sanjati|sánjati}}
+* {{l|sh|snovati|snòvati}}
+{{mid2}}
+* {{l|sh|sniti|snȉti}}
+* {{l|sh|snovid|snòvid}}
+* {{l|sh|snovit|snȍvit}}
+{{bottom}}
 
 ----
 
