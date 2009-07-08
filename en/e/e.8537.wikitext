@@ -136,16 +136,38 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 
 ==Hungarian==
 
+===Etymology===
+From the same Uralic root *''e'' as Finnish [[että]] and Estonian [[et#Estonian|et]].
+
+===Pronoun===
+{{hu-pronoun|demonstrative}}
+
+#  {{context|archaic}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
+#* '''1836:''' Vörösmarty Mihály, Szózat
+#*: A nagy világon '''e''' kivűl (''modern spelling: [[kívül]]'')
+#*: Nincsen számodra hely;
+
 ===Determiner===
 {{infl|hu|determiner|demonstrative}}
 
-# {{context|before a noun|without an article}} [[this]]
-#* '''1836:''' Vörösmarty Mihály, Szózat
-#*: A nagy világon '''e''' kivűl
-#*: Nincsen számodra hely;
+# [[this]]
+#: '''''E''' házban lakott Petőfi Sándor'' - Petőfi Sándor lived in '''this''' house.
+
+====Synonyms====
+* [[eme]]
+* [[ezen]]
 
 ====Usage notes====
-A rarer substitute of {{term|ez|lang=hu}} and its inflected forms ({{term|ezt}}, {{term|ezen}} etc.).
+A rarer substitute of {{term|ez|lang=hu}}, but unlike ''ez'', it does not take the case of the noun it is attached to, and no definite article is used:
+:''ez'''en a''' hely'''en''''' - ''e hely'''en''''' (at this place)
+:''eb'''ben a''' ház'''ban''''' - ''e ház'''ban''''' (in this house)
+
+===Iterjection===
+{{infl|hu|interjection}}
+
+# [[look]]!, [[hey]]! (expressing surprise or wanting to get attention)
+#: '''''E'''! [[hát|Hát]] Józsi meg hová tűnt?'' - Hey! Where is Joe?
+#: ''Itt van, '''e'''!'' - Here it is. (informal, not polite)
 
 ===See also===
 * [[-e#Hungarian|-e]] (suffix)
