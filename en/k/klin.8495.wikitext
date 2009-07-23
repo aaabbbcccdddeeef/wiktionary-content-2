@@ -1,28 +1,3 @@
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|klinъ|lang=bs}}.
-
-===Noun===
-{{bs-noun|g=m|klinovi}}
-
-# [[nail]] (''metal piece'')
-# [[wedge]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|klinъ|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=m}}
-
-# [[wedge]]
-
-----
-
 ==Kashubian==
 
 ===Noun===
@@ -56,16 +31,29 @@ From {{proto|Slavic|klinъ|lang=pl}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|klinъ|lang=sr}}.
+From {{proto|Slavic|klinъ|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=klinovi|cyr=клин}}
+{{sh-noun|g=m|head=klȉn|r|клин|кли̏н}}
 
-# [[nail]] (''metal piece'')
 # [[wedge]]
+
+====Declension====
+{{sh-decl-noun
+|klin|klinovi
+|klina|klinova
+|klinu|klinovima
+|klin|klinove
+|kline|klinovi
+|klinu|klinovima
+|klinom|klinovima
+}}
+
+====Related terms====
+* {{l|sh|klati|klȁti}}
 
 ----
 
