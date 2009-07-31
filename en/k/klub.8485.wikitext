@@ -1,16 +1,3 @@
-==Bosnian==
-
-===Etymology===
-From {{etyl|de|bs}} {{term|Klub|lang=de}}, from {{etyl|en|bs}} {{term|club}}.
-
-===Noun===
-{{bs-noun|g=m|klubovi}}
-
-# [[club]] (organisation)
-# a [[nightclub]]
-
-----
-
 ==Crimean Tatar==
 
 ===Noun===
@@ -25,19 +12,6 @@ From {{etyl|de|bs}} {{term|Klub|lang=de}}, from {{etyl|en|bs}} {{term|club}}.
 * {{R:Useinov-Mireev 2002}}
 
 [[Category:Crimean Tatar nouns]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{etyl|de|hr}} {{term|Klub|lang=de}}, from {{etyl|en|hr}} {{term|club}}.
-
-===Noun===
-{{hr-noun|m}}
-
-# [[club]] {{i|association of members}}
-# [[nightclub]]
 
 ----
 
@@ -104,16 +78,30 @@ From {{etyl|de|hr}} {{term|Klub|lang=de}}, from {{etyl|en|hr}} {{term|club}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sr}} {{term|Klub|lang=de}} < {{etyl|en|sr}} {{term|club}}.
+From {{etyl|de|sh}} {{term|Klub|lang=de}}, from {{etyl|en|sh}} {{term|club|lang=en}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=klubovi|cyr=клуб}}
+{{sh-noun|g=m|head=klȗb|r|клуб|клу̑б}}
 
-# [[club]] (''organisation'')
-# a [[nightclub]]
+# [[club]] {{i|association of members}}
+# [[nightclub]]
+
+====Declension====
+{{sh-decl-noun
+|klȗb|klȕbovi
+|kluba|klubova
+|klubu|klubovima
+|klub|klubove
+|klube|klubovi
+|klubu|klubovima
+|klubom|klubovima
+}}
+
+====Derived terms====
+* {{l|sh|klupski|klȗpskī}}
 
 ----
 
