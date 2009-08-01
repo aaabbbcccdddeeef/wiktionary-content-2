@@ -1,5 +1,8 @@
 ==Bulgarian==
 
+===Etymology===
+From {{proto|Slavic|boršno|lang=bg}}.
+
 ===Pronunciation===
 * {{IPA|/brəʃ'nɔ/|lang=}}
 
@@ -18,6 +21,9 @@
 
 ==Macedonian==
 
+===Etymology===
+From {{proto|Slavic|boršno|lang=mk}}.
+
 ===Noun===
 '''брашно''' (brašno) {{n}}
 
@@ -28,29 +34,27 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|boršno|lang=sh}}.
 
 ===Noun===
-'''брашно''' {{n}} ({{p}}: '''брашна''')
+{{sh-noun|g=n|head=бра̏шно|c|brašno|brȁšno}}
 
-# [[flour]]
-# [[meal]] (coarse-ground unsifted grain)
-
-====Roman spelling====
-* [[brašno#Serbian|brašno]]
+# {{uncountable|lang=sh}} [[flour]]
+# {{uncountable|lang=sh}} [[meal]] (coarse-ground unsifted grain)
 
 ====Declension====
-{{sr-decl-noun
-|брашно|брашна
-|брашна|брашна
-|брашну|брашнима
-|брашно|брашна
-|брашно|брашна
-|брашном|брашнима
-|брашну|брашнима
+{{sh-decl-noun|pl=sg|sc=Cyrl
+|брашно|
+|брашна|
+|брашну|
+|брашно|
+|брашно|
+|брашну|
+|брашном|
 }}
-
-[[Category:Serbian nouns]]
 
 [[el:брашно]]
 [[ko:брашно]]
