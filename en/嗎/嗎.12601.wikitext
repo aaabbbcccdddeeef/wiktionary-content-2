@@ -51,19 +51,19 @@
 #: ''你好嗎''？ (''Nǐ hǎo ma''?)
 
 ====See also====
-* Arabic: {{t|ar|هل|tr=hal|sc=Arab}}, {{t|ar|أ|tr='a|sc=Arab}}
-* Esperanto: {{t|eo|ĉu}}
+* Arabic: {{t-|ar|هل|tr=hal|sc=Arab}}, {{t-|ar|أ|tr='a|sc=Arab}}
+* Esperanto: {{t+|eo|ĉu|xs=Esperanto}}
 * French: {{t+|fr|est-ce que}} (''initial'')
-* Hindi: {{t|hi|क्या|tr=kyā|sc=Deva}} (''initial'')
-* Japanese: {{t|ja|か|tr=ka|sc=Jpan}} (''final rather than initial'')
+* Hindi: {{t-|hi|क्या|tr=kyā|sc=Deva|xs=Hindi}} (''initial'')
+* Japanese: {{t+|ja|か|tr=ka|sc=Jpan}} (''final rather than initial'')
 * [[Khmer]]: {{Khmr|[[ទេ]]}} (dtēi) (''final rather than initial'')
-* Mongolian: {{t|mo|уу|tr=uu|sc=Cyrl}}, {{t|mo|үү|tr=üü|sc=Cyrl}}, {{t|mo|юу|tr=yu|sc=Cyrl}}, {{t|mo|юү|tr=yü|sc=Cyrl}} (''initial'')
-* Polish: {{t|pl|czy}} (''initial'')
+* Mongolian: {{t-|mo|уу|tr=uu|sc=Cyrl|xs=Moldavian}}, {{t|mo|үү|tr=üü|sc=Cyrl|xs=Moldavian}}, {{t|mo|юу|tr=yu|sc=Cyrl|xs=Moldavian}}, {{t-|mo|юү|tr=yü|sc=Cyrl|xs=Moldavian}} (''initial'')
+* Polish: {{t+|pl|czy}} (''initial'')
 * Persian: {{fa-Arab|[[آیا]]}} (āyā) (''initial'')
-* Russian: {{t+|ru|ли|tr=li|sc=Cyrl}} ''(placed after the first word in the sentence or phrase, not required)'', {{t|ru|разве|tr=rázve|sc=Cyrl}} (''initial'')
-* Thai: {{t|th|ไหม|tr=mãi|sc=Thai}} (''final rather than initial'')
-* Ukrainian: {{t|uk|чи|tr=čy|sc=Cyrl}} (''initial'')
-* Urdu: {{t|ur|کیا|tr=kyā|sc=ur-Arab}} (''initial'')
+* Russian: {{t+|ru|ли|tr=li|sc=Cyrl}} ''(placed after the first word in the sentence or phrase, not required)'', {{t+|ru|разве|tr=rázve|sc=Cyrl}} (''initial'')
+* Thai: {{t-|th|ไหม|tr=mãi|sc=Thai|xs=Thai}} (''final rather than initial'')
+* Ukrainian: {{t-|uk|чи|tr=čy|sc=Cyrl|xs=Ukrainian}} (''initial'')
+* Urdu: {{t-|ur|کیا|tr=kyā|sc=ur-Arab|xs=Urdu}} (''initial'')
 
 [[Category:zh-tw:Beginning Mandarin|口10嗎]]
 [[Category:interrogative particles]]
