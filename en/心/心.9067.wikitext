@@ -37,28 +37,25 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=しん|rom=shin}}
+===Etymology 1===
+/ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>/: *[kəkərə] > [kokoro].
 
-# [[heart]], [[mind]], [[core]]; [[spirit]], [[vitality]]; inner [[strength]], [[marrow]]
-# [[core]] (as of a fruit); [[wick]]; [[lead]] (as of a pencil); [[padding]]
-
-===Noun===
+====Noun====
 {{ja-noun|k|hira=こころ|rom=kokoro}}
 
 # [[mind]], [[heart]], [[spirit]], [[soul]]; [[thoughts]], [[ideas]]
 # [[attention]], [[mind]], [[interest]]
 # [[heart]], [[feelings]], [[emotion]], emotional state
+#* {{RQ:Man'yōshū|14|3466}}
+#: 麻可奈思美 奴礼婆許登尓豆 佐祢奈敝波 '''己許呂'''乃緒呂尓 能里弖可奈思母
 # [[wholeheartedness]], [[sincerity]], true heart
 # [[sympathy]], [[heart]], [[consideration]], generous disposition
 # [[meaning]], [[essence]]; [[answer]] (as to a riddle)
 
-===Suffix===
-{{ja-pos|k|suffix|hira=ごころ|rom=gokoro}}
+===Etymology 2===
+Cognate with {{term|裏|ura|inside}}.
 
-# [[spirit]], [[soul]]
-
-===Noun===
+====Noun====
 {{ja-noun|k|hira=うら|rom=ura}}
 
 # inner feelings; heart
@@ -67,13 +64,23 @@
 
 * [[羨ましい]] (urayamashii)
 
-===Kanji===
+===Etymology 3===
+
+====Noun====
+{{ja-noun|k|hira=しん|rom=shin}}
+
+# [[heart]], [[mind]], [[core]]; [[spirit]], [[vitality]]; inner [[strength]], [[marrow]]
+# [[core]] (as of a fruit); [[wick]]; [[lead]] (as of a pencil); [[padding]]
+
+===Etymology 4===
+
+====Kanji====
 {{ja-kanji|grade=2|rs=心00}}
 
-====Readings====
+=====Readings=====
 * {{ja-readings|on=[[しん]] (''shin'')|kun=[[こころ]] (''kokoro''), [[ごころ]] (''gokoro'')|nanori=[[むね]] (''mune''), [[まこと]] (''makoto''), [[み]] (''mi'')}}
 
-====Compounds====
+=====Compounds=====
 {{rel-top3|compounds containing "心"}}
 * [[心変わり]] (''kokorogawari''): inconstancy
 * [[心付け]] (''kokorozuke''): gratuity
@@ -192,6 +199,20 @@
 
 ====Phrases====
 * [[心頭滅却すれば火もまた涼し]]
+
+===References===
+* {{cite book
+  | last = Satake
+  | first = Akihiro
+  | coauthors = Hideo Yamada, Rikio Kudō, Masao Ōtani, Yoshiyuki Yamazaki
+  | title = Shin Nihon Koten Bungaku Taikei: Man'yōshū 3
+  | publisher = [[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+  | year = 2002
+  | origyear = c. 759
+  | location = [[w:Tōkyō|Tōkyō]]
+  | language = Japanese
+  | id = ISBN 4-00-240003-4
+  }}
 
 [[Category:1000 Japanese basic words|こころ]]
 
