@@ -18,11 +18,11 @@
 
 ====Translations====
 {{trans-top|comprehensive manual}}
-* Bulgarian: {{t|bg|библия|sc=Cyrl}}
-* Chinese: {{t|zh|圣经|tr=shèngjīng}}
+* Bulgarian: {{t+|bg|библия|sc=Cyrl}}
+* Chinese: {{t|cmn|圣经|tr=shèngjīng|sc=Hani|xs=Mandarin}}
 * Finnish: {{t+|fi|raamattu}}
 * German: {{t+|de|Bibel|f}}
-* Greek: {{t|el|βιβλίο|tr=biblίο|sc=Grek}}
+* Greek: {{t+|el|βιβλίο|tr=biblίο|sc=Grek}}
 * Hungarian: {{t+|hu|biblia}}
 * [[Interlingua]]: [[biblia]]
 {{trans-mid}}
@@ -31,7 +31,7 @@
 * Portuguese: {{t+|pt|Bíblia|f}}
 * Russian: {{t+|ru|библия|f|tr=bíblija|sc=Cyrl}}
 * Serbian:
-*: Cyrillic: {{t|sr|Библија|f}}, {{t|sr|Свето Писмо|n}}
+*: Cyrillic: {{t+|sr|Библија|f|sc=Cyrl}}, {{t-|sr|Свето Писмо|n|sc=Cyrl}}
 *: Roman: [[Biblija]] {{f}}, [[Sveto Pismo]] {{n}}
 {{trans-bottom}}
 
