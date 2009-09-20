@@ -61,55 +61,55 @@
 <ul>
 {| class=wikitable
 |- 
-| 7+0=111+000*
+| 7+0=111+000 (U+2630)*
 |  {{unicode|☰}}   
 |  [[乾]]
 |  [[天]]
 |  [[sky]]
 |- 
-| 6+1=110+001
+| 6+1=110+001 (U+2631)
 |  {{unicode|☱}}
 |  [[兌]]
 |  [[澤]]
 |  [[marsh]]
 |- 
-| 5+2=101+010
+| 5+2=101+010 (U+2632)
 | {{unicode|☲}}
 | [[離]]
 | [[火]]
 | [[fire]]
 |- 
-| 4+3=100+011
+| 4+3=100+011 (U+2633)
 | {{unicode|☳}}
 | [[震]]
 | [[雷]]
 | [[thunder]]
 |- 
-| 3+4=011+100
+| 3+4=011+100 (U+2634)
 | {{unicode|☴}}
 | [[巽]]
 | [[風]]
 | [[wind]]
 |- 
-| 2+5=010+101
+| 2+5=010+101 (U+2635)
 | {{unicode|☵}}
 | [[坎]]
 | [[水]]
 | [[water]]
 |- 
-| 1+6=001+110
+| 1+6=001+110 (U+2636)
 | {{unicode|☶}}
 | [[艮]]
 | [[山]]
 | [[mountain]]
 |- 
-| 0+7=000+111
+| 0+7=000+111 (U+2637)
 | {{unicode|☷}}
 | [[坤]]
 | [[地]]
 | [[earth]] 
 |}
-[*] Decimal pair=Binary pair. (The solid bar "—" of the Trigrams may be assigned to the binary number "1", while the split bar "--" to "0".)
+[*] Decimal pair=Binary pair (Codepoint). (The solid bar "—" of the Trigrams may be assigned to the binary number "1", while the split bar "--" to "0".)
 </ul>
 
 [[Category:Hanja readings|건]]
