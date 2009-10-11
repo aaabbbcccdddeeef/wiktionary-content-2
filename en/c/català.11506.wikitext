@@ -1,29 +1,33 @@
 ==Catalan==
-
+{{wikipedia|lang=ca}}
 ===Pronunciation===
-* {{a|Oriental}} {{IPA|/kətəˈɫa/|lang=ca}}
-* {{a|Occidental}} {{IPA|/kataˈɫa/|lang=ca}}
+* {{a|Eastern Catalan}} {{IPA|/kətəˈɫa/|lang=ca}}
+* {{a|Western Catalan}} {{IPA|/kataˈɫa/|lang=ca}}
 
 ===Adjective===
-{{ca-adj|f=catalana|mpl=catalans|fpl=catalanes}}
+{{ca-adj-mf|stem=catalan|sort=catala}}
 
-# [[Catalan]]; pertaining to [[w:Catalonia|Catalonia]] or to the [[w:Catalan language|Catalan language]]
+# [[Catalan]]  {{gloss|pertaining to Catalonia, the Catalan people, or the Catalan language}}
 
 ===Noun===
-{{ca-noun-mf|f=catalana|mpl=catalans|fpl=catalanes}}
+{{ca-noun-mf|f=catalana|mpl=catalans|fpl=catalanes|sort=catala}}
 
-# [[Catalan]], a person from [[w:Catalonia|Catalonia]]
+# [[Catalan]] {{gloss|a person from Catalonia or an ethnic Catalan}}
+
+====Related terms====
+* {{l|ca|Catalunya|gloss=Catalonia}}
 
 ===Proper noun===
-{{infl|ca|proper noun|g=m}}
+{{ca-proper noun|m|sort=catala}}
 
-# [[Catalan]] (the language)
+# [[Catalan]] {{gloss|the language spoken by the Catalans}}
 
-===Related terms===
-* [[Catalunya]]
+====See also====
+* {{l|ca|balear|gloss=Balearic}}
+* {{l|ca|valencià|gloss=Valencian}}
 
-[[Category:ca:Languages]]
-[[Category:ca:Nationalities]]
+[[Category:ca:Demonyms|catala]]
+[[Category:ca:Languages|catala]]
 
 [[ast:català]]
 [[ca:català]]
