@@ -1,13 +1,10 @@
-{{wikipedia}}
 {{also|D|d'|Appendix:Variations of "d"}}
+{{Basic Latin character info|image=[[Image:Letter d.svg|50px]]|hex=64|name=LATIN SMALL LETTER D}}
 ==Translingual==
-{{mul-script}}
-[[Image:Latin D.png|thumb|The letter ''d'']]
+{{wikipedia}}
 
 ===Etymology 1===
-[[Image:Uncial d.png|Approximate form of upper case letter D that was the source for lower case d]]
 Modification of capital letter {{term|D}}, from {{etyl|grc}} letter {{term|sc=polytonic|Δ|tr=D||Delta|lang=grc}}.
-<br clear="left" />
 
 ====Letter====
 {{mul-letter|upper=D|lower=d|script=Latn}}
@@ -18,11 +15,10 @@ Modification of capital letter {{term|D}}, from {{etyl|grc}} letter {{term|sc=po
 The letter {{term|d}} is used in the [[International Phonetic Alphabet]], in the alphabets of many languages, and in several romanization systems of non-Latin scripts to represent the [[w:Voiced alveolar plosive|voiced alveolar plosive]] ({{IPA|/d/}}).  In some languages and transcription systems where unaspirated stops contrast with aspirated stops, {{term|d}} represents an unaspirated {{IPAchar|/t/}}, while {{term|t}} represents an aspirated {{IPAchar|/tʰ/}}.
 
 ====See also====
-* {{qualifier|select forms with diacritics}} {{IPAchar|[[ď]]}} {{IPAchar|[[đ]]}} [[ð]] {{IPAchar|[[ƌ]]}} {{IPAchar|[[ȡ]]}} {{IPAchar|[[ḍ]]}} {{IPAchar|[[ḏ]]}} {{IPAchar|[[ḑ]]}} {{IPAchar|[[ḓ]]}}
-* {{qualifier|select similar letters and symbols}} [[∂]] [[₫]] {{IPAchar|[[ɖ]]}} {{onym||sc=IPAchar|ɗ}}
+{{Latn-script}}
+* {{qualifier|select similar letters and symbols}} [[∂]] [[₫]] {{IPAchar|[[ɖ]]}} {{onym||sc=IPAchar|ɗ}}  [[ð]]
 * {{qualifier|other scripts}} {{onym|el|sc=Grek|δ}} {{onym|ru|sc=Cyrl|д}} {{onym|he|sc=Hebr|ד}} {{onym|ko|sc=Hang|ㄷ}} {{onym|ar|sc=Arab|د}}
 * See [[Appendix:Variations of "d"]]
-* [[Appendix:Roman script]]
 
 ===Etymology 2===
 Lower case form of upper case roman numeral [[D]], a standardization of ''<s>D</s>'' or ''{{unicode|Ð}}'', from tally stick markings resembling a superimposed {{unicode|Ɔ}} and {{unicode|⋌}}, from the practice of encircling each hundredth {{unicode|⋌}} notch.
@@ -49,6 +45,20 @@ With a bar over the numeral, i.e., as <span style="text-decoration:overline;">d<
 {{infl|mul|symbol}}
 
 # {{mathematics}} the differential of a quantity
+
+===See also===
+{{Letter2
+|page=D
+|NATO=Delta
+|Morse=-··
+|Character=D4
+|Braille=⠑
+}}
+<gallery caption="Letter styles" perrow=3>
+Image:Latin D.png|Capital and lowercase versions of '''D''', in normal and italic type
+Image:Fraktur letter D.png|Uppercase and lowercase '''D''' in [[Fraktur]]
+Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script that was the source for lower case d
+</gallery>
 
 [[Category:IPA symbols|D]]
 
