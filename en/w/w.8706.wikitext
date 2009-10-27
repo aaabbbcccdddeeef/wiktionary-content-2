@@ -1,8 +1,7 @@
-{{wikipedia}}
-{{also|Appendix:Variations of "w"}}
-{{also|W|ա|ⴍ}}
+{{also|W|ա|ⴍ|Appendix:Variations of "w"}}
+{{Basic Latin character info|image=[[Image:Letter w.svg|50px]]|name=LATIN SMALL LETTER W|hex=77}}
 ==Translingual==
-{{mul-script}}
+{{wikipedia}}
 
 ===Letter===
 {{mul-letter|upper=W|lower=w|script=Latn}}
@@ -13,18 +12,21 @@
 # The nickname of George W. Bush, the 43rd President of the United States.
 
 ===See also===
-* Uppercase: [[W]]
-* With [[circumflex]]: [[ŵ]]
+{{Latn-script}}
 * Turned: {{unicode|[[ʍ]]}}
-* With [[grave]]: [[ẁ]]
-* With [[acute]]: [[ẃ]]
-* With [[diaeresis]]: [[ẅ]]
-* With dot above: {{unicode|[[ẇ]]}}
-* With dot below: {{unicode|[[ẉ]]}}
 * {{unicode|[[Ƿ]]}}
 * {{unicode|[[ʬ]]}}
-* [[U]]
-* [[V]]
+{{Letter2
+|page=W
+|NATO=Whiskey
+|Morse=·––
+|Character=W
+|Braille=⠺
+}}
+<gallery caption="Letter styles" perrow=3>
+Image:Latin W.png|Capital and lowercase versions of '''W''', in normal and italic type
+Image:Fraktur letter W.png|Uppercase and lowercase '''W''' in [[Fraktur]]
+</gallery>
 
 [[Category:IPA symbols|W]]
 
