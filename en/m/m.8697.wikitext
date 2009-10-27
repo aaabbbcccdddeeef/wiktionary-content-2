@@ -1,25 +1,19 @@
-[[Image:Latin M.png|thumb|The letter ''m'']]
 {{also|Appendix:Variations of "m"}}
+{{Basic Latin character info|image=[[Image:Letter m.svg|50px]]|name=LATIN SMALL LETTER M|hex=6D}}
 ==Translingual==
-{{mul-script}}
 {{wikipedia}}
+
 ===Etymology 1===
-[[Image:Greek uc mu.png|left|50px|Greek {{Grek|Μ}} (''M'', “Mu”), from which Latin upper case and lower case ''m'' were derived]]
+[[Image:Greek uc mu.png|50px|Greek {{Grek|Μ}} (''M'', “Mu”), from which Latin upper case and lower case ''m'' were derived]]
 Modification of capital letter {{term|M}}, from {{etyl|grc}} letter {{term|sc=polytonic|lang=grc|Μ|tr=M||Mu}}.
-<br clear="left" />
 
 ====Letter====
 {{mul-letter|upper=M|lower=m|script=Latn}}
 
 # The thirteenth letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
 
-====Usage notes====
-The letter {{term|m}} is used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent the bilabial nasal ({{IPA|/m/}}), including [[Cyrillic]] {{term|sc=Cyrl|м|tr=m||em}}, the beginning of various [[kana]] including {{term|sc=Jpan|ま|tr=ma}}, and Korean jamo {{term|sc=Hang|ㅁ|tr=m||mieum}}.
-
 ====See also====
-* Previous letter: [[l]]
-* Next letter: [[n]]
-* {{qualifier|select forms with diacritics}} {{IPAchar|[[ɱ]]}} {{IPAchar|[[ḿ]]}} {{IPAchar|[[ṁ]]}} {{IPAchar|[[ṃ]]}}
+{{Latn-script}}
 * {{qualifier|other scripts}} {{onym|el|sc=Grek|μ|tr=m|gloss=mu}}, {{onym|ru|sc=Cyrl|м|tr=m|gloss=em}}
 * Turned: [[ɯ]]
 
@@ -31,6 +25,7 @@ Various abbreviations
 
 # [[meter]] ([[metre]]), the unit of [[length]] in the [[International System of Units]]
 # [[milli-]]
+# {{context|phonectics}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent the bilabial nasal ({{IPA|/m/}}), including [[Cyrillic]] {{term|sc=Cyrl|м|tr=m||em}}, the beginning of various [[kana]] including {{term|sc=Jpan|ま|tr=ma}}, and Korean jamo {{term|sc=Hang|ㅁ|tr=m||mieum}}.
 
 ===Etymology 3===
 From upper case roman numeral [[M]] (1000), an alteration of <big><big>⋈</big></big>, from <big><big>∞</big></big>, an alteration of <big><big>ↀ</big></big>, an alteration of <big><big>Ⓧ</big></big>, from encircling [[X]] (the roman numeral for ten) to indicate the hundredth ten.
@@ -41,13 +36,23 @@ From upper case roman numeral [[M]] (1000), an alteration of <big><big>⋈</big>
 ====Numeral====
 {{infl|mul|numeral|lower case roman numeral||upper case|M}}
 
-# [[cardinal number|cardinal]] number one [[thousand]] (1000)
+# {{qualifier|[[w:Roman numerals|Roman numerals]]}} [[cardinal number|cardinal]] number one [[thousand]] (1000)
 
 =====Synonyms=====
 * [[CIƆ]]
 
-====See also====
-* [[w:Roman numerals|Roman numerals]]
+===See also===
+{{Letter2
+|page=M
+|NATO=Mike
+|Morse=––
+|Character=M
+|Braille=⠍
+}}
+<gallery caption="Letter styles" perrow=3>
+Image:Latin M.png|Capital and lowercase versions of '''M''', in normal and italic type
+Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
+</gallery>
 
 [[Category:IPA symbols|M]]
 
