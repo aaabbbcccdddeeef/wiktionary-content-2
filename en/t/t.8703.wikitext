@@ -1,18 +1,25 @@
-{{wikipedia}}
 {{also|T|Appendix:Variations of "t"}}
+{{Basic Latin character info|image=[[Image:Letter t.svg|50px]]|name=LATIN SMALL LETTER T|hex=74}}
 ==Translingual==
-{{mul-script}}
+{{wikipedia}}
 
 ===Letter===
 {{mul-letter|upper=T|lower=t|script=Latn}}
 
 # The twentieth letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
 
+====See also====
+{{Latn-script}}
+* [[Τ]] ([[tau]])
+* [[Т]] ([[te]])
+* Turned: [[ʇ]]
+
 ===Symbol===
 '''t'''
 
 # A symbol of the [[IPA]], representing a [[voiceless]] [[alveolar]] [[stop]].
 # {{context|mathematics|physics}} [[time]]
+# [[tonne]]
 
 ====Usage notes====
 * As a symbol meaning "time", '''t''' is italicised in print; for example, "the position at time ''t'' is ''x''".
@@ -22,33 +29,19 @@
 
 # {{programming}} ([[LISP]]) The [[atom]] representing true, as opposed to [[nil]].
 
-===Abbreviation===
-'''t'''
-
-# [[tonne]]
-
 ===See also===
-{{top3}}
-* With [[cedilla]]: [[ţ]]
-* With [[caron]]: [[ť]]
-* With stroke: [[ŧ]]
-* With palatal hook: [[ƫ]]
-{{mid3}}
-* With hook: [[ƭ]]
-* With retroflex hook: [[ʈ]]
-* With [[comma]] below: [[ț]]
-* With curl: [[ȶ]]
-* Turned: [[ʇ]]
-{{mid3}}
-* With dot above: [[ṫ]]
-* With dot below: [[ṭ]]
-* With line below: [[ṯ]]
-* With [[circumflex]] below: [[ṱ]]
-{{bottom}}
-
-===See also===
-* [[Τ]] ([[tau]])
-* [[Т]] ([[te]])
+{{Letter2
+|page=T
+|NATO=Tango
+|Morse=–
+|Character=T
+|Braille=⠞
+}}
+<gallery caption="Letter styles" perrow=3>
+Image:Latin T.png|Capital and lowercase versions of '''T''', in normal and italic type
+Image:Fraktur letter T.png|Uppercase and lowercase '''T''' in [[Fraktur]]
+File:Latin_alphabet_Tt.svg|Uppercase and lowercase '''T''' in sans-serif and serif font
+</gallery>
 
 [[Category:IPA symbols|T]]
 
