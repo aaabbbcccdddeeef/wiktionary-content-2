@@ -1,27 +1,20 @@
-{{wikipedia}}
 {{also|V|Appendix:Variations of "v"}}
+{{Basic Latin character info|image=[[Image:Letter v.svg|50px]]|name=LATIN SMALL LETTER V|hex=76}}
 ==Translingual==
-{{mul-script}}
-[[Image:Latin V.png|thumb|The letter ''v'']]
 
 ===Etymology 1===
-[[Image:Greek uc upsilon.png|left|50px|Greek letter Υ, from which Latin V derived]]
-Minuscule variation of Latin {{term|V}}, from seventh century Old Latin adoption of Old Italic letter {{term|𐌖|tr=V}}, from {{etyl|el}} letter {{term|sc=Grek|Υ|tr=Y||Upsilon}}.<br clear="left"/>
+[[Image:Greek uc upsilon.png|30px|Greek letter Υ, from which Latin V derived]]
+Minuscule variation of Latin {{term|V}}, from seventh century Old Latin adoption of Old Italic letter {{term|𐌖|tr=V}}, from {{etyl|el}} letter {{term|sc=Grek|Υ|tr=Y||Upsilon}}.
 
 ====Letter====
 {{mul-letter|upper=V|lower=v|script=Latn}}
 
 # The twenty-second letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
 
-=====Usage notes=====
-The letter {{term|v}} is used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:voiced labiodental fricative|voiced labiodental fricative]] ({{IPA|/v/}}).
-
 =====See also=====
-* {{qualifier|select forms with diacritics}} [[ṽ]] [[ṿ]]
+{{Latn-script}}
 * {{qualifier|select symbols}} [[ʌ]] [[ʋ]] [[ᵥ]]
-* {{qualifier|other scripts}} Cyrillic {{term|sc=Cyrl|в|tr=v||ve}}, Greek {{term|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|sc=Hebr|ו|tr=w||vav}} <!-- Or should ב ("beth" ("veth"?) be here instead? -->
-* For more variations, see [[Appendix:Variations of "v"]].
-* See [[Appendix:Roman script]], [[U]], [[W]], [[Y]]
+* {{qualifier|other scripts}} Cyrillic {{term|sc=Cyrl|в|tr=v||ve}}, Greek {{term|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|sc=Hebr|ו|tr=w||vav}}
 * {{pedialite}}
 
 ===Etymology 2===
@@ -41,12 +34,25 @@ Lower case form of upper case roman numeral [[V]], from abbreviation of IIIIΛ o
 * [[w:Roman numerals|Roman numerals]]
 
 ===Etymology 3===
-{{etystub}} <!-- Is this from a Latin abbreviation? -->
 
 ====Symbol====
 {{infl|mul|symbol}}
 
 # {{physics}} [[velocity]]
+# {{context|phonetics}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:voiced labiodental fricative|voiced labiodental fricative]] ({{IPA|/v/}}).
+
+===See also===
+{{Letter2
+|page=V
+|NATO=Victor
+|Morse=···–
+|Character=V
+|Braille=⠧
+}}
+<gallery caption="Letter styles" perrow=3>
+Image:Latin V.png|Capital and lowercase versions of '''V''', in normal and italic type
+Image:Fraktur letter V.png|Uppercase and lowercase '''V''' in [[Fraktur]]
+</gallery>
 
 [[Category:IPA symbols|V]]
 
