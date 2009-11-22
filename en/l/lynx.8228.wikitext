@@ -118,7 +118,10 @@ From {{etyl|enm}} ''[[#Middle English|lynx]]'' from {{etyl|la}} ''[[#Latin|lynx]
 ==Latin==
 
 ===Etymology===
-From {{etyl|grc|la}} '''{{polytonic|[[λύγξ]]}}''' (lunks)
+From {{etyl|grc|la}} {{term|λύγξ|tr=lunks|sc=Grek|lang=grc}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/lʏnks/|lang=la}}
 
 ===Noun===
 {{la-noun|lynx|lyncis|lyncis|c|third}}
@@ -135,6 +138,14 @@ From {{etyl|grc|la}} '''{{polytonic|[[λύγξ]]}}''' (lunks)
 #*::In listening lose the sense of woe;
 #*::Orion hearkens to the lyre,
 #*::And lets the '''lynx''' and lion go.
+
+====Inflection====
+{{la-decl-3rd|lynx|lynx|lync}}
+
+====Descendants====
+* Galician: {{l|gl|lince}}
+* Portuguese: {{l|pt|lince}}
+* Spanish: {{l|es|lince}}
 
 [[Category:la:Mammals]]
 
