@@ -22,12 +22,36 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=水08}}
+{{ja-kanji|grade=n|rs=水08}}
 
-# {{defn|Japanese}}
+# strand
+# beach
+# shore
 
 ====Readings====
-* {{ja-readings|on=[[しょ]] (sho)|kun=[[なぎさ]] (nagisa)}}
+* {{ja-readings|on=[[しょ]] (sho)|kun=[[なぎさ]] (nagisa)|nanori=[[なぎ]] (nagi)}}
+
+====References====
+{{ja-kref
+|ku= 2977
+|shift= 8f8d
+|jis= 3D6D
+|euc= BDED
+|freq= 2226
+|nelson= 2617
+|newnelson= 3164
+|halpern= 525 
+|kld= 386  
+|heisig= 1263
+|tuttle= 3a9.1 
+}}
+
+===Noun===
+{{ja-noun|k|count=-|hira=なぎさ|rom=nagisa}}
+
+# water's edge
+# beach
+# shore
 
 ----
 
