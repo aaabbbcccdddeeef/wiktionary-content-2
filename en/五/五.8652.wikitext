@@ -53,7 +53,9 @@ One possibility is that 五 was originally written as five horizontal lines, sim
 # five
 
 ===Kanji===
-{{ja-kanji|grade=|rs=二02}}
+{{ja-kanji|grade=1|rs=二02}}
+
+# [[five]], [[5]]
 
 ====Readings====
 * {{ja-readings|on=[[ご]] (''go'')|kun=[[いつ]] (''itsu''), [[いつつ]] ([[五つ]], ''itsutsu'')|nanori=[[い]] (''i''), [[さ]] (''sa''), [[さつ]] (''satsu''), [[ち]] (''chi''), [[ふ]] (''fu''), [[み]] (''mi''), [[め]] (''me'')}}
@@ -111,6 +113,21 @@ One possibility is that 五 was originally written as five horizontal lines, sim
 * [[五輪]] (''gorin''): The Olympics
 * [[五芒]] (''gobou''): pentagram
 {{bottom}}
+
+====References====
+{{ja-kref
+|jis= 385E
+|ku= 2462
+|shift= 8CDC
+|euc= B8DE
+|freq= 31
+|nelson= 15
+|newnelson= 77 
+|halpern= 3436
+|kld= 2142
+|heisig= 5
+|tuttle= 0a4.27
+}}
 
 [[Category:1000 Japanese basic words|こ']]
 [[Category:Japanese numbers|5]]
