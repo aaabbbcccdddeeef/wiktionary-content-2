@@ -13,6 +13,7 @@
 ----
 
 ==Japanese==
+{{ja-forms|[[児]]|[[儿]]|[[兒]]}}
 
 ===Noun===
 {{ja-noun|k|hira=こ|rom=ko}}
@@ -31,8 +32,14 @@ This word is more commonly written as [[子]].
 ===Kanji===
 {{ja-kanji|grade=4|rs=儿05}}
 
+# [[newborn]] [[babe]]
+# [[child]]
+# [[young]] of [[animals]]
+
 ====Readings====
-* {{ja-readings|on=[[じ]] (ji), [[に]] (ni), [[げい]] (gei)|kun=[[こ]] (ko)}}
+* {{ja-readings|kanon=[[じ]] (ji), [[げい]] (gei)|goon=[[に]] (ni), [[げ]] (ge)|kun=[[こ]] (ko)|nanori=[[る]] (ru)}}
+
+[[Category:CJKV characters simplified differently in Japan and China|兒1]]
 
 ====Compounds====
 {{top2}}
@@ -109,6 +116,21 @@ This word is more commonly written as [[子]].
 * [[鹿児島県]]
 * [[児童]]
 {{bottom}}
+
+====References====
+{{ja-kref
+|jis= 3B79
+|ku= 2789
+|shift= 8E99
+|euc= BBF9
+|freq= 679
+|nelson= 572
+|newnelson= 355
+|halpern= 2546
+|kld= 1617
+|heisig= 58
+|tuttle= 4c3.3
+}}
 
 [[fr:児]]
 [[sw:児]]
