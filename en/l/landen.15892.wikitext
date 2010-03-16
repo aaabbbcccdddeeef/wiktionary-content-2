@@ -10,7 +10,7 @@ Germanic, from [[land]] 'soil, ground, parcel' (cognate with English, German [[L
 # {{plural of|[[land#Dutch|land]]|lang=Dutch}}
 
 ===Verb===
-{{nl-verb-weak}}
+{{nl-verb|wk}}
 
 # {{intransitive}} To (arrive on) [[land]], notably from the air (for birds, airplanes) and to a lesser extent by ship
 # {{transitive}} To [[land]], bring an aircraft or other vehicle (down) to land
@@ -23,7 +23,7 @@ Germanic, from [[land]] 'soil, ground, parcel' (cognate with English, German [[L
 * [[opstijgen]]
 
 ====Conjugation====
-{{nl-verb-table|land|landt|landde|landden|geland|aux=zijn}}
+{{nl-conj-wk|land|dt=d|no-d=1|aux=zijn}}
 
 ====Derived terms====
 * [[landelijk]] (adjective)
