@@ -23,8 +23,7 @@
 ==Japanese==
 
 ===Etymology 1===
-
-Literally {{term|sc=Jpan|飲み|tr=nomi||drink}} + {{term|sc=Jpan|門|tr=to||passage}}. ''nomi'' is is the nominalized form the for verb {{term|sc=Jpan|飲む|tr=nomu||to drink}}.
+Compound of {{term|飲み|nomi|drink}} and {{term|門|to|passage}}. ''nomi'' is is the nominalized form the for verb {{term|飲む|nom-|to drink}}.
 
 ====Noun====
 {{ja-noun|k|hira=のみと|rom=nomito}}
@@ -32,6 +31,16 @@ Literally {{term|sc=Jpan|飲み|tr=nomi||drink}} + {{term|sc=Jpan|門|tr=to||pas
 # [[throat]]
 
 ===Etymology 2===
+From {{term|喉|nomito|id}}.
+
+====Noun====
+{{ja-noun|k|hira=のみど|rom=nomido}}
+
+# [[throat]]
+#* '''794''': ''[[w:Shin'yaku Kegonkyō Ongi Shiki|Shin'yaku Kegonkyō Ongi Shiki]]''
+#: 喉吻 下无粉反, 口邊也, 唇兩邊也, 上音呉, 訓'''乃美土'''
+
+===Etymology 3===
 
 nomito > nomto > nomdo > nondo.
 
@@ -40,7 +49,7 @@ nomito > nomto > nomdo > nondo.
 
 # [[throat]]
 
-===Etymology 3===
+===Etymology 4===
 
 nomito > nomto > nomdo > nondo > nodo.
 
@@ -58,6 +67,19 @@ nomito > nomto > nomdo > nondo > nodo.
 * {{ja-readings|on=[[こう]] (kō)|kun=[[のど]] (nodo)}}
 
 [[Category:ja:Anatomy|のど]]
+
+===References===
+* {{cite book
+  | last = Takeuchi
+  | first = Rizō
+  | authorlink = w:Takeuchi Rizō
+  | title = Nara Ibun: Volume 3
+  | publisher = Tōkyōdō Shuppan
+  | date = 1962
+  | location = [[w:Tōkyō|Tōkyō]]
+  | language = Japanese
+  | id = ISBN 4-4903-0010-7
+  }}
 
 ----
 
