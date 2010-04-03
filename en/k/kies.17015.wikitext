@@ -2,13 +2,13 @@
 ==Dutch==
 :still not all senses and etymologies
 ===Pronunciation===
-* {{IPA|lang=nl|/kiːs/}}
+* {{IPA|lang=nl|/kis/}}
 
 ===Etymology 1===
 From {{etyl|dum|nl}} [[kiese]], probably via Frisian from the Germanic root *kusio, thus cognate with [[kauwen]] 'to chew'
 
 ====Noun====
-{{nl-noun|g=m|kiezen}}
+{{nl-noun|g=m|kiezen|kiesje}}
 
 # A [[tooth]], especially a [[molar]] (in the back of the mouth)
 # {{figurative}} Certain resembling objects
@@ -34,7 +34,7 @@ From {{etyl|dum|nl}} [[kiese]], probably via Frisian from the Germanic root *kus
 Germanic, cognate with [[choose]], French [[choix]] etc.
 
 ====Adjective====
-{{nl-adj|sup=meest kies}}
+{{nl-adj|kieze|sup=peri|sup2=kiest}}
 
 # [[delicate]], [[choice]]
 # showing [[good taste]], [[well-chosen]]
@@ -45,14 +45,11 @@ Germanic, cognate with [[choose]], French [[choix]] etc.
 =====Derived terms=====
 * [[kiesheid]]
 
-====Verb form====
-{{infl|nl|verb form}}
+====Verb====
+{{infl|nl}}
 
-# {{form of|present imperfect singular|[[kiezen]]}}
-# {{form of|imperative|kiezen}}
-
-====Related terms====
-* [[keuze]]
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|kiezen}}
+# {{nl-verb-form|m=imp|kiezen}}
 
 ----
 
@@ -101,12 +98,3 @@ Like other interrogative and relative correlatives, {{term|kies}} can be combine
 [[ru:kies]]
 [[fi:kies]]
 [[zh:kies]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|kiezen}}
-# {{nl-verb-form|m=imp|kiezen}}
-[[Category:Requests for cleanup (MewBot)]]
