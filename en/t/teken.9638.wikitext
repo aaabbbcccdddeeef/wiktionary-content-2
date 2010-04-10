@@ -4,6 +4,7 @@ Cognate with English ''[[token]]''.
 
 ===Noun===
 {{nl-noun|g=n|pl1=tekenen|pl2=tekens|dim=tekentje}}
+
 # [[sign]]
 #: ''De firma kent sterren aan restaurants toe als '''teken''' van de kwaliteit.''<sup>[http://nl.wikipedia.org/wiki/Restaurant]</sup> &mdash; The firm confers stars to restaurants as a sign of quality.
 # [[signal]]
@@ -12,16 +13,16 @@ Cognate with English ''[[token]]''.
 * [[wonderteken]]
 
 ===Noun===
-'''teken''' ''m, pl''
-# plural of ''[[teek]]''; [[ticks]]
+{{infl|nl}}
+
+# {{nl-noun-form|pl=1|teek}}
 
 ===Verb===
-'''teken'''
-# first person singular present tense of ''[[tekenen]]''; [[draw]]
-# {{nl-verb-form|m=imperative|tekenen}}
+{{infl|nl}}
 
-[[Category:Dutch nouns]]
-[[Category:Dutch verb forms]]
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|tekenen}}
+# {{nl-verb-form|m=imp|tekenen}}
+
 ----
 
 ==Old Frisian==
@@ -37,12 +38,3 @@ Cognate with English ''[[token]]''.
 [[id:teken]]
 [[ku:teken]]
 [[nl:teken]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|tekenen}}
-# {{nl-verb-form|m=imp|tekenen}}
-[[Category:Requests for cleanup (MewBot)]]
