@@ -10,10 +10,29 @@
 
 ----
 
+==Azeri==
+
+===Etymology===
+From {{proto|Turkic|bīr|one|lang=az}}
+
+===Cardinal number===
+{{cardinalbox|az||1|2||iki|ord=birinci}}
+
+{{infl|az|numeral}}
+
+# {{cardinal|lang=az}} [[one]]
+
+----
+
 ==Crimean Tatar==
 
+===Etymology===
+From {{proto|Turkic|bīr|one|lang=crh}}
+
 ===Numeral===
-'''bir'''
+{{cardinalbox|crh||1|2||iki|ord=birinci}}
+
+{{infl|crh|numeral}}
 
 # {{cardinal|lang=crh}} [[one]]
 
@@ -22,6 +41,20 @@
 
 [[Category:Crimean Tatar nouns]]
 [[Category:crh:Cardinal numbers|1]]
+
+----
+
+==Gagauz==
+
+===Etymology===
+From {{proto|Turkic|bīr|one|lang=gag}}
+
+===Cardinal number===
+{{cardinalbox|gag||1|2||iki|ord=birinci}}
+
+{{infl|gag|numeral}}
+
+# {{cardinal|lang=gag}} [[one]]
 
 ----
 
@@ -75,7 +108,8 @@ From {{etyl|ar|mt}} {{term|بير|lang=ar}}.
 From {{etyl|otk|tr}} ''bir'', from {{proto|Turkic|bir|one|bīr|one|lang=tr}}.
 
 ===Numeral===
-'''bir'''
+{{cardinalbox|tr||1|2||iki|ord=birinci}}
+{{infl|tr|numeral}}
 
 # {{cardinal|lang=tr}} [[one]]
 
@@ -88,8 +122,14 @@ From {{etyl|otk|tr}} ''bir'', from {{proto|Turkic|bir|one|bīr|one|lang=tr}}.
 ----
 
 ==Turkmen==
+
+===Etymology===
+From {{proto|Turkic|bīr|one|lang=tk}}
+
 ===Cardinal number===
-{{infl|tr|numeral}}
+{{cardinalbox|tk||1|2||iki|ord=birinji}}
+
+{{infl|tk|numeral}}
 
 # {{cardinal|lang=tk}} [[one]]
 
@@ -97,12 +137,16 @@ From {{etyl|otk|tr}} ''bir'', from {{proto|Turkic|bir|one|bīr|one|lang=tr}}.
 
 ==Uzbek==
 
-===Numeral===
-'''bir''' (''Cyrillic spelling'' '''[[бир]]''')
+===Etymology===
+From {{proto|Turkic|bīr|one|lang=uz}}
+
+===Cardinal number===
+
+{{cardinalbox|uz||1|2||ikki|ord=birinchi}}
+
+{{infl|uz|numeral}}
 
 # {{cardinal|lang=uz}} [[one]]
-
-[[Category:uz:Cardinal numbers]]
 
 ----
 
