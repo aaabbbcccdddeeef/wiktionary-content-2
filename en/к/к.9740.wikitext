@@ -34,34 +34,30 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+===Alternative forms===
+* {{l|sh|ка}} (See usage notes)
+
+===Etymology===
+From {{proto|Slavic|kъ}} < {{proto|Indo-European|kom}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/k/|lang=sr}}
-
-===Letter===
-{{infl|sr|letter|lower case||upper case|К}}
-
-# The 12th letter of the [[Serbian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''к''' (kɛ) and it has the sound of English '''k'''.
-
-====See also====
-* Previous letter: [[ј#Serbian|ј]]
-* Next letter: [[л#Serbian|л]]
+* {{qualifier|phoneme}} {{IPA|/k/|lang=sh}}
 
 ===Preposition===
-{{infl|sr|preposition|Roman spelling|k}}
+{{sh-preposition|c|k}}
 
 # [[to]]
-# [[toward]]
+# [[towards]]
 
-====Synonyms====
-* [[ка#Serbian|ка]]
+====Usage notes====
+Although both {{term|к|lang=sh}} and {{term|ка|lang=sh}} can be used synonymously, {{term|к|lang=sh}} must take the alternative form {{term|ка|lang=sh}} in the following environment:
+* before /к, г, х/:
+*: ''ка граду'' - to the city
+*: ''ка горе'' - towards above
+*: ''ка хладу'' - toward the shade
 
 [[Category:Cyrillic script characters]]
-[[Category:Serbian prepositions]]
 [[Category:Ukrainian alphabet]]
 
 [[et:к]]
