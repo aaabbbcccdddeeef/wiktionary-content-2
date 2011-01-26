@@ -73,11 +73,11 @@
 ==Finnish==
 
 ===Verb===
-'''ano'''
+{{infl|fi}}
 
-# {{fi-form of|anoa|type=verb|mood=indicative|tense=present connegative}}
-# {{fi-form of|anoa|type=verb|pr=second-person|pl=singular|mood=imperative|tense=present}}
-# {{fi-form of|anoa|type=verb|pr=second-person|pl=singular|mood=imperative|tense=present connegative}}
+# {{fi-verb form of|tm=pres|c=1|anoa}}
+# {{fi-verb form of|pn=2s|tm=impr|anoa}}
+# {{fi-verb form of|pn=2s|tm=impr|c=1|anoa}}
 
 ===Anagrams===
 * [[oan#Finnish|oan]]
@@ -244,13 +244,3 @@ From {{etyl|la|pt}} {{term|annus||year|lang=la}}.
 [[tr:ano]]
 [[vo:ano]]
 [[zh:ano]]
-
-----
-==Finnish==
-===Verb===
-{{infl|fi}}
-
-# {{fi-verb form of|tm=pres|c=1|anoa}}
-# {{fi-verb form of|pn=2s|tm=impr|anoa}}
-# {{fi-verb form of|pn=2s|tm=impr|c=1|anoa}}
-[[Category:Requests for cleanup (MewBot)]]
