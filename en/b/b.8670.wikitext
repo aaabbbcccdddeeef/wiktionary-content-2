@@ -93,13 +93,12 @@ In Modern English, the letter {{term|b}} is silent in several words, including {
 * {{sense|letter name}} {{IPA|/beː/|lang=nl}}
 
 ===Letter===
-{{infl|nl|letter|lower case||upper case|B}}
+{{nl-letter|upper=B|lower=b}}
 
-# The second letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|2}}
 
-===See also===
-* Previous letter: [[a#Dutch|a]]
-* Next letter: [[c#Dutch|c]]
+====See also====
+* {{list|nl|Latin script letters}}
 
 ----
 
@@ -144,14 +143,16 @@ In Modern English, the letter {{term|b}} is silent in several words, including {
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|/be/|lang=ro}}
+* {{sense|letter name}} {{IPA|/be/|lang=ro}}
+* {{sense|phoneme}} {{IPA|/b/|lang=ro}}
 
 ===Letter===
-{{infl|ro|letter|lowercase||capital|B}}
+{{ro-letter|upper=B|lower=b}}
 
-# The fourth letter of the [[Romanian alphabet]] representing the phoneme /b/. Preceded by [[â]] and followed by [[c]].
+# {{Latn-def|ro|letter|4}}
 
-[[Category:Romanian letters]]
+====See also====
+* {{list|ro|Latin script letters}}
 
 ----
 
@@ -177,20 +178,28 @@ In Modern English, the letter {{term|b}} is silent in several words, including {
 * {{IPA|/be/|lang=sl}}
 
 ===Letter===
-{{infl|sl|letter|lowercase||capital|B}}
+{{sl-letter|upper=B|lower=b}}
 
-# The second letter of the [[Slovene alphabet]]. Preceded by [[a#Slovene|a]] and followed by [[c#Slovene|c]].
+# {{Latn-def|sl|letter|2}}
+
+====See also====
+* {{list|sl|Latin script letters}}
 
 ----
 
 ==Spanish==
+
+===Pronunciation===
 * {{qualifier|phoneme}} {{IPA|/b/, /β/̞|lang=es}}, {{SAMPA|/b/, /B/̞}}
 * {{qualifier|letter name}} {{IPA|/be/|lang=es}}, {{SAMPA|/be/}}
 
 ===Letter===
-{{infl|es|letter|lower case||upper case|B}}
+{{es-letter|upper=B|lower=b}}
 
-# The second letter of the [[Spanish]] alphabet, named ''[[be]]''.
+# {{Latn-def|es|letter|2|be}}
+
+====See also====
+* {{list|es|Latin script letters}}
 
 [[an:b]]
 [[zh-min-nan:b]]
