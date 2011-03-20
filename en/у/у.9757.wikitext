@@ -3,7 +3,7 @@
 ==Belarusian==
 
 ===Preposition===
-'''у''' (u)
+{{infl|be|preposition|sc=Cyrl|tr=u}}
 
 # [[in]]
 
@@ -15,12 +15,12 @@
 From the same {{proto|Finno-Ugric|wuδe|lang=chm}} as Finnish {{term|uusi}}, Estonian {{term|uus}}, Northern Sámi {{term|ođđa}}, and Hungarian {{term|új}}.
 
 ===Adjective===
-{{infl|chm|adjective|tr=u}}
+{{infl|chm|adjective|tr=u|sc=Cyrl}}
 
 # [[new]]
 
 ====Antonyms====
-* (''new'') [[тошто]]
+* {{qualifier|new}} {{l|chm|тошто|sc=Cyrl}}
 
 ----
 
@@ -32,7 +32,7 @@ From the same {{proto|Finno-Ugric|wuδe|lang=chm}} as Finnish {{term|uusi}}, Est
 ===Letter===
 {{infl|ru|letter|lower case||upper case|У}}
 
-# The twenty-first letter of the Russian [[Cyrillic]] alphabet. Its name is '''у''' (ū) and it has the sound of English '''oo''' in ''s'''oo'''n''. It is preceded by [[т|Т]] and followed by [[ф|Ф]].
+# The twenty-first letter of the Russian [[Cyrillic]] alphabet. Its name is '''у''' (ū) and it has the sound of English '''oo''' in {{s}}'oo'''n''. It is preceded by [[т|Т]] and followed by [[ф|Ф]].
 # Roman letter [[U]], [[u]]
 
 ====See also====
@@ -43,7 +43,7 @@ From the same {{proto|Finno-Ugric|wuδe|lang=chm}} as Finnish {{term|uusi}}, Est
 {{wikipedia|lang=ru|у (китайский язык)}}
 {{ru-noun|tr=u|g=m}} {{indeclinable}}
 
-# [[Wu]] (''language'')
+# [[Wu]] {{qualifier|language}}
 
 ===Preposition===
 '''у''' (u, ''+ [[genitive case]]'')
@@ -62,38 +62,6 @@ From the same {{proto|Finno-Ugric|wuδe|lang=chm}} as Finnish {{term|uusi}}, Est
 
 ----
 
-==Serbian==
-
-===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/u/|lang=sr}}
-* {{audio|Sr-u.ogg|audio}}
-
-===Letter===
-{{infl|sr|letter|lower case||upper case|У}}
-
-# The 24th letter of the [[Serbian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''у''' (ū) and it has the sound of English '''oo''' in ''s'''oo'''n''.
-
-====See also====
-* Previous letter: [[ћ#Serbian|ћ]]
-* Next letter: [[ф#Serbian|ф]]
-
-===Preposition===
-{{infl|sr|preposition|Roman spelling|u}}
-
-# [[in]]
-# [[inside]]
-# [[at]]
-# in the possession of
-
-[[Category:Cyrillic script characters]]
-[[Category:Serbian prepositions]]
-[[Category:Ukrainian letters]]
-
-----
-
 ==Serbo-Croatian==
 
 ===Pronunciation===
@@ -103,20 +71,22 @@ Its name is '''у''' (ū) and it has the sound of English '''oo''' in ''s'''oo''
 ===Preposition===
 {{sh-preposition|c|u}}
 
-# (''with locative'') [[in]], [[at]] (without change of position, answering the question {{term|sc=Cyrl|гдје|гдје̏|lang=sh}}/{{term|sc=Cyrl|где|где̏|lang=sh}})
+# {{qualifier|with locative}} [[in]], [[at]] (without change of position, answering the question {{term|sc=Cyrl|гдје|гдје̏|lang=sh}}/{{term|sc=Cyrl|где|где̏|lang=sh}})
 #: бити у школи — to be in the school
 #: у ц(иј)елом друштву — in the whole society
-# (''with accusative'') [[to]], [[into]] (with change of position, answering the question {{term|sc=Cyrl|куда|ку̀да|lang=sh}})
+# {{qualifier|with accusative}} [[to]], [[into]] (with change of position, answering the question {{term|sc=Cyrl|куда|ку̀да|lang=sh}})
 #: ићи у школу — to go to school
 #: путовати у Америку — to travel to America
-# (''with accusative'') [[on]], [[in]], [[at]], [[during]] (in expressions concerning time)
+# {{qualifier|with accusative}} [[on]], [[in]], [[at]], [[during]] (in expressions concerning time)
 #: у подне — at noon
 #: у ср(иј)еду — on Wednesday
 #: у зору — at dawn
 #: У колико сати? — At what time?
-# (''with locative'') [[in]], [[during]] (in expressions concerning time)
+# {{qualifier|with locative}} [[in]], [[during]] (in expressions concerning time)
 #: у једном дану — in one day
 #: у младости — during one's youth
+
+[[Category:Cyrillic script characters]]
 
 [[ar:у]]
 [[az:у]]
