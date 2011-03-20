@@ -3,7 +3,7 @@
 ==Azeri==
 
 ===Letter===
-'''И''', '''и''' (''italics: И, и'')
+{{infl|az|letter|lowercase, uppercase|и|sc=Cyrl}} (''italics: И, и'')
 
 # The eleventh letter of the [[Cyrillic]] alphabet as formerly used for [[Azeri]], preceded by [[з|З]] and followed by [[ы|Ы]], and representing {{IPAchar|/ɪ/}}. Since 1991, this sound has been written [[İ]].
 
@@ -17,15 +17,15 @@
 ===Conjunction===
 {{infl|bg|conjunction|sc=Cyrl|tr=i}}
 
-# [[and]] (''used to connect two homogeneous similar words or phrases'')
+# [[and]] {{qualifier|used to connect two homogeneous similar words or phrases}}
 #: ''Момчета '''и''' момичета излизат да играят. - Boys and girls come out to play.''
-# [[and]] (''used at the end of a list to indicate the last item'')
+# [[and]] {{qualifier|used at the end of a list to indicate the last item}}
 #: ''хляб, масло '''и''' сирене - bread, butter and cheese''
-# [[and]] (''used to join sentences or sentence fragments in chronological order'')
+# [[and]] {{qualifier|used to join sentences or sentence fragments in chronological order}}
 #: ''Поправих стола '''и''' той отново се счупи. - I mended the chair and it broke again.''
-# [[and]] (''used to indicate causation'')
+# [[and]] {{qualifier|used to indicate causation}}
 #: ''Още веднъж ме попитай за определението на “и” '''и''' ще изкрещя. - Ask me the definition of “and” again and I’ll scream.''
-# [[and]] (''used to ask for elaboration'')
+# [[and]] {{qualifier|used to ask for elaboration}}
 #: A: ''Нямам ключ.'' B: '''''И'''...'' A: '''''И''' ми трябва, за да вляза.'' - A: ''I don't have a key.'' B: ''And...'' A: ''And I need one to get in.''
 # [[also]], [[too]], [[likewise]], [[as well]]
 #: '''''И''' аз няма да бъда там - I shan't be there either''
@@ -35,7 +35,7 @@
 #: ''Не съм го '''и''' видял. - I haven't even seen him.''
 # [[just]], [[exactly]], [[precisely]]
 #: ''Така '''и''' предполагах. - Just as I suspected.''
-# {{mathematics|lang=bg}} [[and]], [[plus]] (''used to indicate addition'')
+# {{mathematics|lang=bg}} [[and]], [[plus]] {{qualifier|used to indicate addition}}
 #: ''Пет '''и''' шест е единадесет. - Five and six is eleven.''
 
 ====Synonyms====
@@ -187,16 +187,16 @@ From {{proto|Slavic|jь|lang=cu}}.
 # [[and]]
 #: {{Cyrl|[[вот|Вот]] [[яблоко|я́блоко]] '''и''' [[груша|гру́ша]]}} — ''Here’s an apple and a pear.''
 #: {{Cyrl|[[Россия|Росси́и]] нужны́ '''и''' а́рмия '''и''' фло́т}} — ''Russia needs an army [[as well as]] a navy''
-# [[even though]],   Боюсь данайцев и дары приносящих  — I fear the Greeks ([[Danaans]]) even though they bear gifts.
+# [[even though]], Боюсь данайцев и дары приносящих — I fear the Greeks ([[Danaans]]) even though they bear gifts.
 
 ====Synonyms====
 * {{sense|and}} [[а]]
 
 ===Noun===
-'''и''' (i) {{n}} ''(indeclinable)''
+'''и''' (i) {{n}} {{qualifier|indeclinable}}
 
-# ''(Roman letter)'' [[I]], [[i]]
-# ''(English letter)'' [[E]], [[e]]
+# {{qualifier|Roman letter}} [[I]], [[i]]
+# {{qualifier|English letter}} [[E]], [[e]]
 
 [[Category:Russian conjunctions]]
 [[Category:Russian indeclinable nouns]]
