@@ -1,30 +1,34 @@
 ==German==
 
 ===Pronunciation===
-* {{audio|De-at-sicher.ogg|audio (Austria)}}
+* {{IPA|[ˈzɪçɐ]|lang=de}}
 * {{SAMPA|/ziCer/}}
+* {{audio|De-at-sicher.ogg|audio (Austria)}}
 
 ===Etymology===
-Old High German ''[[sichur]]'', originally *''sikur''
+From {{etyl|goh|de}} {{term|sichur|lang=goh}}, originally *''sikur''.
 
 ===Adjective===
-'''sicher'''
+{{de-adj|sicherer|sichersten}}
 
 # [[safe]]
 # [[secure]]
 # [[certain]]
+
+====Declension====
+{{de-decl-adj|sicher|sicherer|sicherst}}
 
 ====Derived terms====
 * [[auf Nummer sicher gehen]]
 * [[sicherstellen]]
 
 ===Adverb===
-'''sicher'''
+{{infl|de|adverb}}
 
 # [[sure]]
 
 ===Verb===
-{{infl|de}}
+{{infl|de|verb form}}
 
 # {{de-verb form of|sichern|1|s|g}}
 # {{de-verb form of|sichern|i|s}}
