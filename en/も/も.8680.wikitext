@@ -1,30 +1,23 @@
 {{Hiragana character info|hex=3082|name=HIRAGANA LETTER MO}}
-==Translingual==
-
-===Syllable===
-{{mul-syllable|sc=Hira|sort=も}}
-
-# {{mul-hiradef|ま|お}}
-
-====See also====
-{{mul-script}}
-
-----
-
 ==Japanese==
 {{stroke order|strokes=3}}
 
 ===Etymology===
 Simplified in the [[w:Heian period|Heian period]] from the [[man'yōgana]] kanji [[毛]] ([[もう]], [[mō]]), meaning hair.
 
-===Hiragana character===
-{{ja-kana|rom=mo}}
+===Pronunciation===
+* {{IPA|[mo]|lang=ja}}
 
-# The [mo] syllable.
-# The thirty-fifth character in the [[gojūon]] ordering of [[hiragana]]. The previous character is [[め]] and the next character is [[や]]. The equivalent [[katakana]] character is [[モ]].
+===Syllable===
+{{ja-syllable|mo|sc=Hira}}
+
+# {{Hira-def|も|モ|mo|gyo=ま|dan=お}}
 
 ====Related terms====
 * For a list of words starting with も ('''mo''') see: [[Special:Allpages/も]]
+
+====See also====
+* {{list|ja|Hiragana}}
 
 ===Particle===
 {{ja-pos|h|particle|rom=mo}}
