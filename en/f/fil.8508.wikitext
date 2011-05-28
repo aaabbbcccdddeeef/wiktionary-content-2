@@ -139,7 +139,7 @@ From {{etyl|la|fr}} {{term|filum|fīlum|lang=la}}.
 From the imperative of {{proto|Celtic|wel-|see}} (cf. Welsh {{term|gweled|lang=cy}}). Semantic development from "see!" to "there is" is parallel to that of French {{term|voici|lang=fr}} < ''vois ci'' "see here" and {{term|voilà|lang=fr}} < ''vois là'' "see there".
 
 ===Verb===
-{{infl|sga|verb form|head=·fil}} {{i|conjunct}}, '''fil''' {{i|relative}}
+{{infl|sga|verb form|head=·fil}} {{qualifier|conjunct}}, '''fil''' {{qualifier|relative}}
 
 # {{conjugation of|attá|at·tá|pres|progressive conjunct|lang=sga}}
 # {{conjugation of|attá|at·tá|3|s|pres|progressive relative|lang=sga}}
@@ -151,8 +151,8 @@ In the conjunct form, the logical subject appears in the accusative (or as a cli
 * {{l|sga|fail}}
 * {{l|sga|feil}}
 * {{l|sga|fel}}
-* {{l|sga|fele}} {{i|relative}}
-* {{l|sga|file}} {{i|relative}}
+* {{l|sga|fele}} {{qualifier|relative}}
+* {{l|sga|file}} {{qualifier|relative}}
 
 ====Descendants====
 * Irish: {{l|ga|bhfuil}}, {{l|ga|níl}}
