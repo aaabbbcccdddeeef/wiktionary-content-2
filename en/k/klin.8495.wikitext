@@ -28,7 +28,7 @@ From {{proto|Slavic|klinъ|lang=pl}}.
 * {{audio|Pl-klin.ogg|Audio}}
 
 ===Noun===
-{{infl|pl|noun|g=m}}
+{{pl-noun|m}}
 
 # [[wedge]]
 
@@ -78,9 +78,12 @@ From {{proto|Slavic|klinъ|lang=hsb}}.
 ==Volapük==
 
 ===Noun===
-{{infl|vo|noun}}
+{{vo-noun}}
 
 # [[inclination]]
+
+====Declension====
+{{vo-decl-noun}}
 
 [[el:klin]]
 [[fr:klin]]
