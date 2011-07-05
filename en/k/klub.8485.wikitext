@@ -1,7 +1,7 @@
 ==Crimean Tatar==
 
 ===Noun===
-'''klub'''
+{{infl|crh|noun}}
 
 # [[club]]
 
@@ -10,8 +10,6 @@
 
 ===References===
 * {{R:Useinov-Mireev 2002}}
-
-[[Category:Crimean Tatar nouns]]
 
 ----
 
@@ -57,7 +55,7 @@
 * {{audio|Pl-klub.ogg|audio}}
 
 ===Noun===
-{{infl|pl|noun|g=m}}
+{{pl-noun|m}}
 
 # [[club]] (association of members)
 # [[club]], [[nightclub]]
@@ -113,11 +111,14 @@ From {{etyl|de|sh}} {{term|Klub|lang=de}}, from {{etyl|en|sh}} {{term|club|lang=
 ==Volapük==
 
 ===Noun===
-{{infl|vo|noun}}
+{{vo-noun}}
 
 # [[club]]
 # [[society]]
 # [[organization]]<!--are these three more or less the same?}}
+
+====Declension====
+{{vo-decl-noun}}
 
 ===See also===
 * [[sog]]
