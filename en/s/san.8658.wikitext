@@ -141,7 +141,7 @@ Used before vowel sounds and ''f'' (which [[lenition|lenites]]):
 
 ==Japanese==
 
-===Numeral===
+===Number===
 '''san''' ([[さん]])
 
 # [[三]]: [[three]]
@@ -161,7 +161,7 @@ Used before vowel sounds and ''f'' (which [[lenition|lenites]]):
 
 ----
 
-==[[Kuna]]==
+==Kuna==
 
 ===Noun===
 {{infl|cuk|noun}}
@@ -287,14 +287,14 @@ From {{proto|Slavic|sъnъ|lang=sh}}, from {{proto|Indo-European|swépnos||súpn
 Not used in front of the following names (use {{term|santo|lang=es}} instead): Tomás, Tomé, Toribio y Domingo .
 
 ====Noun====
-{{es-noun-m|pl=sanes}}
+{{es-noun|m|pl=sanes}}
 
 # {{context|Dominican Republic}} financial, temporal-savings scheme. The participants periodically contribute a [[quota]] to a communal pot that is given to one member, based on his/her turn amongst all the others.
 
 ===Etymology 2===
 
 ====Noun====
-{{es-noun-f|pl=sanes}}
+{{es-noun|f|pl=sanes}}
 
 # [[#English|san]]; the Greek letter [[M]], [[ϻ]]
 
@@ -325,8 +325,10 @@ From {{etyl|en|tcs}} {{term|sun}}.
 ----
 
 ==Vietnamese==
+
 ===Noun===
 {{infl|vi|noun}}
+
 # [[review]]
 # [[journal]]
 
