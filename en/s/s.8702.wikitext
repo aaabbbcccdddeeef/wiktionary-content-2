@@ -192,52 +192,29 @@ This preposition is followed by the [[instrumental case]].
 
 ----
 
-==Serbian==
-
-===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/s/|lang=sr}}
-
-===Letter===
-{{infl|sr|letter|lower case||upper case|S}}
-
-# The 24th letter of the [[Serbian Latin alphabet]].
-
-====See also====
-* Previous letter: [[r#Serbian|r]]
-* Next letter: [[š#Serbian|š]]
-
-===Preposition===
-{{infl|sr|preposition|Cyrillic spelling|с}}
-
-# [[with]]
-
-====Synonyms====
-* [[sa#Serbian|sa]]
-
-===Etymology===
-Abbreviation of '''[[srednji#Serbian|srednji]] [[rod#Serbian|rod]]'''.
-
-====Abbreviation====
-{{infl|sr|abbreviation|Cyrillic spelling|с}}
-# {{grammar|lang=sr}} [[neuter]] [[gender]]
-
-=====Synonyms=====
-* [[s.#Serbian|s.]]
-
-----
-
 ==Serbo-Croatian==
 
-===Alternative forms===
-* (see usage notes) {{l|sh|sa}}
+===Etymology 1===
+See [[#Translingual|Translingual section]].
 
-===Etymology===
+====Pronunciation====
+* {{qualifier|phoneme}} {{IPA|/s/|lang=sh}}
+
+====Letter====
+{{sh-letter|r|с}
+
+# The 24th letter of the Serbo-Croatian Latin alphabet ([[gajica]]), preceded by {{l|sh|r}} and followed by {{l|sh|š}}.
+
+===Etymology 2===
 From {{proto|Slavic|sъ|lang=sh}}, from {{proto|Indo-European|ḱom|lang=sh}}.
 
-===Pronunciation===
+====Alternative forms====
+* (see usage notes) {{l|sh|sa}}
+
+====Pronunciation====
 * {{IPA|/s/|lang=sh}}
 
-===Preposition===
+====Preposition====
 {{sh-preposition|r|с}}
 
 # (''with instrumental'') [[with]], together [[with]], along [[with]]
@@ -259,23 +236,32 @@ From {{proto|Slavic|sъ|lang=sh}}, from {{proto|Indo-European|ḱom|lang=sh}}.
 #: ''promatrati s prozora'' — to observe from the window
 #: ''ljudi s planine'' — people from the mountain
 # (''with genitive'') [[because of]] (= {{term|iz|lang=sh}}, {{term|zbog|zbȍg|lang=sh}})
-#: ''s tog razloga'' — because of that reason
+#: ''s tog razloga'' — for that reason
 
-====Usage notes====
+=====Usage notes=====
 {{term|s|lang=sh}} takes the alternative form {{term|sa|lang=sh}} in the following environments:
-* before /s, š, ś, z, ž, ź/:
+* before /s, š, z, ž/:
 *: ''sa stránē'' — aside
 *: ''sa škȏlōm'' — with school
-*: ''sa śȅvera'' - from the north
 *: ''sa zȗbom'' — with tooth
 *: ''sa živòtom'' — with life
-*: ''sa źènice'' - from the pupil
 * before consonant clusters where the second consonant is /s, š, z/:
 *: ''sà psom (sa psȍm)'' — with dog
 *: ''sa pšènicōm'' — with wheat
 *: ''sa ȑzānjem'' — with neighing
 * before instrumental form of first-person pronoun {{term|ja|jȃ|I|lang=sh}}
 *: ''sȁ mnȏm'' — with me
+
+===Etymology 3===
+Abbreviation of '''[[srednji#Serbian|srednji]] [[rod#Serbian|rod]]'''.
+
+====Alternative forms====
+* {{l|sh|s.}}
+
+====Abbreviation====
+{{infl|sh|abbreviation|Cyrillic spelling|с}}
+
+# {{grammar|lang=sh}} [[neuter]] [[gender]] ({{term|srednji|lang=sh}} {{term|rod|lang=sh}})
 
 ----
 
