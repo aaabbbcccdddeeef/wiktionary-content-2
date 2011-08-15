@@ -158,47 +158,6 @@ In writing, '''със''' is used in front of words starting with ''с'' or ''з'
 [[Category:Russian abbreviations]]
 [[Category:Russian prepositions]]
 [[Category:ru:Units of measure]]
-
-----
-
-==Serbian==
-
-===Etymology 1===
-
-====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|/s/|lang=sr}}
-
-====Letter====
-{{infl|sr|letter|lower case||upper case|С}}
-
-# The 21st letter of the [[Serbian Cyrillic alphabet]].
-
-=====Usage notes=====
-Its name is '''с''' and it has the sound of English '''s'''.
-
-=====See also=====
-* Previous letter: [[р#Serbian|р]]
-* Next letter: [[т#Serbian|т]]
-
-====Preposition====
-{{infl|sr|preposition|Roman spelling|s}}
-
-# [[with]]
-
-=====Synonyms=====
-* [[са#Serbian|са]]
-
-===Etymology 2===
-Abbreviation of {{term|средњи|lang=sr}} {{term|род|lang=sr}}
-
-====Abbreviation====
-{{infl|sr|abbreviation|Roman spelling|s}}
-
-# {{grammar|lang=sr}} [[neuter]] [[gender]]
-
-=====Synonyms=====
-* [[с.#Serbian|с.]]
-
 [[Category:Cyrillic script characters]]
 [[Category:Ukrainian letters]]
 
@@ -206,13 +165,23 @@ Abbreviation of {{term|средњи|lang=sr}} {{term|род|lang=sr}}
 
 ==Serbo-Croatian==
 
-===Alternative forms===
-* (see usage notes) {{l|sh|sc=Cyrl|са}}
+===Etymology 1===
 
-===Etymology===
+====Pronunciation====
+* {{qualifier|phoneme}} {{IPA|/s/|lang=sr}}
+
+====Letter====
+{{sh-letter|c|s}}
+
+# The 21st letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|р|sc=Cyrl}} and followed by {{l|sh|т|sc=Cyrl}}.
+
+===Etymology 2===
 From {{proto|Slavic|sъ|lang=sh}}, from {{proto|Indo-European|ḱom|lang=sh}}.
 
-===Pronunciation===
+====Alternative forms====
+* (see usage notes) {{l|sh|sc=Cyrl|са}}
+
+====Pronunciation====
 * {{IPA|/s/|lang=sh}}
 
 ===Preposition===
@@ -252,6 +221,16 @@ From {{proto|Slavic|sъ|lang=sh}}, from {{proto|Indo-European|ḱom|lang=sh}}.
 *: {{Cyrl|са р̏за̄њем}} — with neighing
 * before instrumental form of first-person pronoun {{term|sc=Cyrl|ја|ја̑|I|lang=sh}}
 *: {{Cyrl|са̏ мно̑м}} — with me
+
+===Etymology 3===
+
+====Alternative forms====
+* {{l|sh|с.}}
+
+====Abbreviation====
+{{infl|sh|abbreviation|Roman spelling|s}}
+
+# {{grammar|lang=sh}} [[neuter]] [[gender]] ({{term|средњи|lang=sh|sc=Cyrl}} {{term|род|lang=sh|sc=Cyrl}})
 
 [[az:с]]
 [[bg:с]]
