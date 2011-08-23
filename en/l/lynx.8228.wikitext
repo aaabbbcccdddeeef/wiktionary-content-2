@@ -26,7 +26,7 @@ From {{etyl|enm}} {{term|lynx|lang=enm}} from {{etyl|la}} {{term|lynx|lang=la}} 
 * Belarusian: {{t-|be|рысь|f|xs=Belarusian}}
 * [[Breton]]: [[lińs]]
 * Bulgarian: [[рис]] (ris)
-* [[Catalan]]: {{t|ca|linx|m}}
+* [[Catalan]]: {{t-|ca|linx|m}}
 * Central Sierra [[Miwok]]: [[tolˑomˑa-]]
 * [[Cree]]: [[ᐱᔔ]], [[pishuu]]
 * Croatian: {{t-|hr|ris}}
@@ -35,7 +35,7 @@ From {{etyl|enm}} {{term|lynx|lang=enm}} from {{etyl|la}} {{term|lynx|lang=la}} 
 * Dutch: {{t+|nl|lynx|m}}
 * Esperanto: {{t-|eo|linko|xs=Esperanto}}
 * Estonian: {{t+|et|ilves}}
-* Faroese: {{t|fo|geypa}}
+* Faroese: {{t-|fo|geypa}}
 * Finnish: {{t+|fi|ilves}}
 * French: {{t+|fr|lynx|m}}
 * [[Friulian]]: [[linç]]
@@ -45,6 +45,7 @@ From {{etyl|enm}} {{term|lynx|lang=enm}} from {{etyl|la}} {{term|lynx|lang=la}} 
 * Greek: {{t+|el|λύγκας|m}}
 * Hungarian: {{t+|hu|hiúz}}
 * Icelandic: {{t-|is|gaupa|f}}
+* Interlingua: {{t-|ia|lynce}}
 * Irish: [[lincse]]
 * Italian: {{t-|it|lince|f}}
 * Japanese: [[山猫]] ([[やまねこ]], yamaneko)
@@ -63,6 +64,7 @@ From {{etyl|enm}} {{term|lynx|lang=enm}} from {{etyl|la}} {{term|lynx|lang=la}} 
 * [[Occitan]]: [[linx]] {{m}}
 * Polish: {{t+|pl|ryś|f}}
 * Portuguese: {{t+|pt|lince|m}}
+* Quechua: {{t-|qu|linsi}}
 * [[Romani]]: [[divlio-murtano]] {{m}} [[divlio-mutsa]] {{f}}
 * Romanian: {{t+|ro|linx}}
 * [[Romansch]]: [[luf tscherver]]
@@ -71,15 +73,17 @@ From {{etyl|enm}} {{term|lynx|lang=enm}} from {{etyl|la}} {{term|lynx|lang=la}} 
 * [[Sardinian]]: [[linci]], [[lintze]]
 * [[Scottish Gaelic]]: {{t-|gd|lioncs|m|xs=Scottish Gaelic}}
 * Serbo-Croatian: [[рис]] ([[ris]])
+* Sicilian: {{t-|scn|linci}}
 * Slovak: {{t-|sk|rys}}
 * Slovene: {{t+|sl|ris}}
 * Spanish: {{t+|es|lince|m}}
-* Swahili: {{t|sw|linksi}}
+* Swahili: {{t-|sw|linksi}}
 * Swedish: {{t+|sv|lo|c}}, {{t+|sv|lodjur|n}}
 * Turkish: {{t+|tr|vaşak}}
 * Ukrainian: [[рись]] (rys’)
 * [[Upper Sorbian]]: [[rys]]
-* [[Volapük]]: {{qualifier|male or female}} {{t|vo|lünk}}, {{qualifier|male}} {{t|vo|hilünk}}, {{qualifier|female}} {{t|vo|jilünk}}, {{qualifier|male or female offspring, young}} {{t|vo|lünkül}}, {{qualifier|male offspring, young}} {{t|vo|hilünkül}}, {{qualifier|female offspring, young}} {{t|vo|jilünkül}}, {{qualifier|older term, male or female}} {{t|vo|luxaf}}
+* Venetian: {{tø|vec|lenze}}
+* [[Volapük]]: {{qualifier|male or female}} {{t|vo|lünk}}, {{qualifier|male}} {{t-|vo|hilünk}}, {{qualifier|female}} {{t-|vo|jilünk}}, {{qualifier|male or female offspring, young}} {{t-|vo|lünkül}}, {{qualifier|male offspring, young}} {{t-|vo|hilünkül}}, {{qualifier|female offspring, young}} {{t-|vo|jilünkül}}, {{qualifier|older term, male or female}} {{t-|vo|luxaf}}
 * Welsh: [[lyncs]]
 * [[West Frisian]]: [[lynks]]
 {{trans-bottom}}
@@ -146,21 +150,34 @@ From {{etyl|grc|la}} {{term|λύγξ|tr=lunks|sc=Grek|lang=grc}}.
 {{la-decl-3rd|lynx|lynx|lync}}
 
 ====Descendants====
-{{top3}}
-* Breton: {{l|br|liñs}}
+{{top4}}
+* Breton: {{l|br|lińs}}
+* Catalan: {{l|ca|linx}}
 * Dutch: {{l|nl|lynx}}
 * English: {{l|en|lynx}}
 * Esperanto: {{l|eo|linko}}
-{{mid3}}
 * French: {{l|fr|lynx}}
+{{mid4}}
 * Friulian: {{l|fur|linç}}
 * Galician: {{l|gl|lince}}
 * Ido: {{l|io|linco}}
-{{mid3}}
+* Interlingua: {{l|ia|lynce}}
+* Irish: {{l|ga|lincse}}
 * Italian: {{l|it|lince}}
+{{mid4}}
+* Occitan: {{l|oc|linx}}
 * Portuguese: {{l|pt|lince}}
+* Quechua: {{l|qu|linsi}}
+* Romanian: {{l|ro|linx}}
+* Sardinian: {{l|sc|linci}}, {{l|sc|lintze}}
+* Scottish Gaelic: {{l|gd|lioncs}}
+{{mid4}}
+* Sicilian: {{l|scn|linci}}
 * Spanish: {{l|es|lince}}
+* Swahili: {{l|sw|linksi}}
 * Venetian: {{l|vec|lenze}}
+* Welsh: {{l|cy|lyncs}}
+* West Frisian: {{l|fy|lynks}}
 {{{bottom}}
 
 [[Category:la:Mammals]]
