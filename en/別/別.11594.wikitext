@@ -25,18 +25,12 @@
 ----
 
 ==Japanese==
-{{ja-see-also|別な}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=刀05}}
 
-# {{defn|lang=ja|sort=刀05}}
-
 ====Readings====
 * {{ja-readings|on=[[べつ]] ([[betsu]]), [[べち]] ([[bechi]])|kun=[[わかれる]] ([[wakareru]]), [[わける]] ([[wakeru]]), [[わかれ]] ([[wakare]])}}
-
-====Derived terms====
-* [[別に]]
 
 ====Compounds====
 {{top3}}
@@ -63,6 +57,22 @@
 * {{l|ja|sc=Jpan|個別|tr=こべつ, kobetsu}}
 * {{l|ja|sc=Jpan|離別|tr=りべつ, ribetsu}}
 {{bottom}}
+
+===Adjective===
+{{ja-adj|k|decl=な|hira=べつ|rom=betsu|hidx=へつ'}} 
+
+# [[different]], [[separate]], [[another]]
+
+====Declension====
+{{ja-na|別|べつ|betsu}}
+
+===Adverb===
+{{ja-pos|kk|adverb|hira=べつ|rom=betsu|hidx=へつ}}
+
+# not [[particularly]]; not [[specially]] (used with a negative verb)
+
+====Derived terms====
+* {{l|ja|別に}}
 
 ===Noun===
 {{ja-noun|k|rom=betsu|hira=べつ|hidx=へつ'}}
