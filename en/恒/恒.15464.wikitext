@@ -16,10 +16,48 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=心06}}
 
-# {{defn|lang=ja|sort=心06}}
+# [[always]]; [[constant]]
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[つね]] (tsune), [[つねに]] (tsuneni)}}
+* {{ja-readings
+|on=[[こう]] (kō)
+|kun=[[つね]] (tsune), [[とこ]] (toko)
+|nanori=[[のぶ]] (nobu), [[ひさ]] (hisa), [[ひさし]] (hisashi)
+}}
+
+==== Compounds ====
+{{der-top|Compounds}}
+* {{l|ja|恒隠圏}} ({{l|ja|こういんけん}}, ''kōinken''): the area on the globe in which a given star is never visible
+* {{l|ja|恒温}} ({{l|ja|こうおん}}, ''kōon''): constant [[temperature]]; [[homoiothermic]], [[homoiothermal]]
+* {{l|ja|恒温槽}} ({{l|ja|こうおんそう}}, ''kōonsō''): a [[temperature-controlled]] or [[thermostatic]] [[bath]], [[chamber]], or [[oven]]
+* {{l|ja|恒温動物}} ({{l|ja|こうおんどうぶつ}}, ''kōondōbutsu''): a [[homoiotherm]]
+{{der-mid}}
+* {{l|ja|恒河}} ({{l|ja|こうが}}, ''Kōga''): the [[Ganges]] River
+* {{l|ja|恒河沙}} ({{l|ja|こうがしゃ}}, ''Kōgasha''): all the sand on the banks of the [[Ganges]] River: an [[infinite]] amount
+* {{l|ja|恒規}} ({{l|ja|こうき}}, ''kōki''): a [[rule]] or [[principle]] that must [[always]] be followed
+* {{l|ja|恒儀}} ({{l|ja|こうぎ}}, ''kōgi''): a [[custom]] or [[convention]]
+* {{l|ja|恒久}} ({{l|ja|こうきゅう}}, ''kōkyū''): [[permanence]]
+
+{{bottom}}
+
+==== Derived terms ====
+{{der-top}}
+* {{l|ja|恒とわ}} ({{l|ja|とことわ}}, ''tokotowa''): [[always]]; [[forever]]
+{{bottom}}
+
+=== Adjective ===
+{{ja-adj|k|decl=no|hira=つね|rom=tsune}}
+
+# [[constant]], [[always]]
+#* 親が子を思うのは世の'''恒'''だ。
+#** おやがこをおもうのはよの'''つね'''だ。
+#** Oya ga ko o omou no wa yo no '''tsune''' da.
+#*** It's one of the world's '''constants''' that a parent worries about their children.
+# [[usual]], [[ordinary]], [[everyday]], [[normal]]
+#* '''恒'''の服装で出て行った。
+#** '''つね'''のふくそうででていった。
+#** '''Tsune''' no fukusō de dete itta.
+#*** He went out in his '''usual''' / '''normal''' / '''everyday''' clothes.
 
 ===Proper noun===
 {{ja-pos|k|proper|hira=ひさし|rom=Hisashi}}
