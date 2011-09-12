@@ -34,30 +34,19 @@
 ==Japanese==
 {{ja-see-also|-川}}
 
-===Noun===
-{{ja-noun|k|hira=かわ|rom=kawa}}
-
-# [[river]], [[stream]], [[brook]]
-
-====Alternative forms====
-* [[河]]
-
-====Synonyms====
-* [[河川]] ([[かせん]], ''[[kasen]]'')
-
-====Alternative forms====
-* [[河]]
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=巛00}}
 
-# {{defn|lang=ja|sort=巛00}}
+# [[river]]
 
 ====Readings====
-* {{ja-readings|on=[[せん]] (''sen'')|kun=[[かわ]] (''kawa'')|nanori=[[か]] (''ka''), [[こ]] (''ko''), [[さわ]] (''sawa'')}}
+{{ja-readings
+|on=[[せん]] (''sen'')
+|kun=[[かわ]] (''kawa'')|nanori=[[か]] (''ka''), [[こ]] (''ko''), [[さわ]] (''sawa'')
+}}
 
 ====Compounds====
-{{top3}}
+{{der-top3|Compounds}}
 * {{l|ja|川上}} (''kawakami''): upstream
 * {{l|ja|川瀬}} (''kawase''): rapids
 * {{l|ja|川原}} (''kawara''): dry riverbed
@@ -65,14 +54,15 @@
 * {{l|ja|川岸}} (''kawagishi''): river bank
 * {{l|ja|川口}} (''kawaguchi''): mouth of river
 * {{l|ja|川端}} (''kawabata''): riverbank
-{{mid3}}
+{{der-mid3}}
+* {{l|ja|川嫁}} ({{l|ja|かわよめ}}, ''kawa yome''): a river [[nymph]]
 * {{l|ja|川柳}} (''senryū''): comic haiku
 * {{l|ja|小川}} (''ogawa''): brook
 * {{l|ja|河川}} (''kasen''): rivers
 * {{l|ja|山川}} (''sansen''): mountains and rivers
 * {{l|ja|滝川}} (''takigawa''): rapids
 * {{l|ja|谷川}} (''tanigawa''): mountain stream
-{{mid3}}
+{{der-mid3}}
 * {{l|ja|堀川}} (''horikawa''): canal
 * {{l|ja|淀川}} (''yodogawa''): a river in Japan
 * {{l|ja|川沿い}} (''kawazoi''): along the river
@@ -81,8 +71,16 @@
 * {{l|ja|天の川}} (''amanogawa''): Milky Way
 {{bottom}}
 
-====Derived terms====
-* {{l|ja|川嫁}} ({{l|ja|かわよめ}}, ''kawa yome''): lit. a "''[[river]]/[[water]] [[bride]]'';" a river/water [[nymph]]
+===Noun===
+{{ja-noun|k|hira=かわ|rom=kawa}}
+
+# [[river]], [[stream]], [[brook]]
+
+====Synonyms====
+* [[河川]] ([[かせん]], ''[[kasen]]'')
+
+====Alternative forms====
+* [[河]]
 
 [[Category:1000 Japanese basic words|かわ]]
 [[Category:ja:Rivers|*]]
