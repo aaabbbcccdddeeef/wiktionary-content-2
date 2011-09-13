@@ -15,16 +15,6 @@ see [[佛]]
 ----
 
 ==Japanese==
-===Noun===
-{{ja-noun|s|hira=ほとけ|rom=hotoke|kyu=佛}}
-# [[Buddha]]
-# [[Buddhist]] [[image]]
-# the [[deceased]], [[departed]] [[soul]]
-# a term that a parent calls a child expressing parental affection; my dear
-#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 7)
-#*: 「我子の'''仏'''、変化の人と申ながら、こゝら大きさまでやしなひたてまつる心ざし、をろかならず。 [...]」
-#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 61)
-#*: 「あが'''仏'''、何事思ひたまふぞ。おぼすらんこと、何事ぞ」
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=人02}}
@@ -33,7 +23,9 @@ see [[佛]]
 # [[France]] (from [[仏蘭西]])
 
 ====Readings====
-* {{ja-readings|on=[[ぶつ]] (''butsu''), [[ふつ]] (''futsu'')|kun=[[ほとけ]] (''hotoke'')}}
+* {{ja-readings
+|on=[[ぶつ]] (butsu), [[ふつ]] (futsu), [[ほつ]] (hotsu)
+|kun=[[ほとけ]] (hotoke)}}
 
 ==== Compounds ====
 {{der-top|Compounds}}
@@ -57,6 +49,49 @@ see [[佛]]
 * [[廃仏毀釈]] (''haibutsu kishaku''): anti-Buddhist movement at the beginning of the Meiji era
 {{bottom}}
 
+===Etymology 1===
+Abbreviation of [[ateji]] term {{l|ja|仏蘭西|tr=ふらんす, Furansu|gloss=France}}.
+
+====Proper noun====
+{{ja-pos|s|proper|hira=ふつ|rom=Futsu|kyu=佛}}
+
+# France.
+
+===Etymology 2===
+From {{etyl|zho|ja}} {{term|佛陀|tr=Fó​tuó|lang=zho}}, itself from {{etyl|sa|ja}} {{term|Buddha|lang=sa|sc=Latn}}.
+
+====Noun====
+{{ja-noun|s|hira=ぶつ|rom=butsu|kyu=佛}}
+
+# [[Buddhism]].
+
+====Proper noun====
+{{ja-pos|s|proper|hira=ぶつ|rom=Butsu|kyu=佛}}
+
+# Abbreviation of {{l|ja|仏陀|tr=ぶっだ, Budda|gloss=[[Buddha]]}}.
+
+===Etymology 3===
+
+ほとけ (hotoke): ''hoto'' from {{etyl|zho|ja}} {{term|佛陀|tr=Fó​tuó|lang=zho}}, itself from {{etyl|sa|ja}} {{term|Buddha|lang=sa|sc=Latn}}; ''ke'' probably the suffix {{term|気|tr=ke|lang=ja}}, possibly added to signify [[mystical]] or [[visible]].
+
+====Noun====
+{{ja-noun|s|hira=ほとけ|rom=hotoke|kyu=佛}}
+
+# A [[Buddha]]: an [[enlightened]] or [[awakened]] [[sentient]] being.
+# A [[statue]] or [[image]] of any Buddha.
+# The [[deceased]], a [[departed]] [[soul]].
+# A term that a parent calls a child expressing parental affection: "my dear".
+#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 7)
+#*: 「我子の'''仏'''、変化の人と申ながら、こゝら大きさまでやしなひたてまつる心ざし、をろかならず。 [...]」
+#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 61)
+#*: 「あが'''仏'''、何事思ひたまふぞ。おぼすらんこと、何事ぞ」
+
+====Proper noun====
+{{ja-pos|s|proper|hira=ほとけ|rom=Hotoke|kyu=佛}}
+
+# [[Śākyamuni]] [[Buddha]], Nepalese spiritual and philosophical teacher and founder of ''[[Buddhism]]''; Siddhartha Gautama.
+# Any of the other Buddhas named in [[Buddhist]] [[scripture]]s.
+
 ===References===
 
 * {{reference-book
@@ -65,7 +100,7 @@ see [[佛]]
   | coauthors = Ken Akiyama
   | title = [[w:Taketori Monogatari|Taketori Monogatari]] , [[w:Ise Monogatari|Ise Monogatari]]
   | publisher = [[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-  | date = 1997
+  | year = 1997
   | location = Tōkyō
   | id = ISBN 4-00-240017-4
   }}
