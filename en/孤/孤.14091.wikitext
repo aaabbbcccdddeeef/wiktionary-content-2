@@ -25,15 +25,31 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=子05}}
 
-# {{defn|lang=ja|sort=子05}}
+# [[solitude]], [[alone]]
+# [[orphan]]
 
 ====Readings====
-* {{ja-readings|on=[[こ]] (ko)|kun=[[みなしご]] (minashigo), [[ひとり]] (hitori)}}
+{{ja-readings
+|on=[[こ]] (ko)
+|kun=[[みなしご]] (minashigo), [[ひとり]] (hitori)
+}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|zho|ja}} {{term|孤|tr=gū||alone, lonely|lang=cmn}}.
+
+====Noun====
+{{ja-noun|k|hira=こ|rom=ko}}
+
+# An [[orphan]].
+# [[solitude|Solitude]].
+
+===Etymology 2===
+[[熟字訓|Jukujikun]] kanji use for the term みなしご, itself a compound of {{term|身|tr=mi||identity, family|lang=ja}} + {{term|無|tr=nashi||none, without|lang=ja}} + {{term|子|tr=ko||child|lang=ja}}.  The final syllable's ''ko'' reading changes to ''go'' due to {{rendaku}}.
+
+====Noun====
 {{ja-noun|k|hira=みなしご|rom=minashigo}}
 
-# [[orphan]]
+# An [[orphan]].
 
 ----
 
