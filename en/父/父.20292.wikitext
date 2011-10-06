@@ -26,6 +26,36 @@
 ----
 
 ==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=父00}}
+
+# [[father]]
+
+====Readings====
+{{ja-readings
+|on=[[ふ]] (fu)
+|kun=[[ちち]] (chichi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{l|ja|父母}} ({{l|ja|ふぼ}}, ''fubo''): both [[parents]]; one's [[father]] and [[mother]]
+* {{l|ja|教父}} ({{l|ja|きょうふ}}, ''kyōfu''): a [[godfather]]
+{{der-mid}}
+* {{l|ja|代父}} ({{l|ja|だいふ}}, ''daifu''): a [[godfather]]
+{{bottom}}
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|父ちゃん}} ({{l|ja|とうちゃん}}, ''[[tōchan]]''): {{qualifier|term of endearment}} [[pop]], [[dad]]
+{{der-mid}}
+* {{l|ja|お父さん}} ({{l|ja|おとうさん}}, ''[[otōsan]]''): [[father]]
+{{bottom}}
+
+====Antonyms====
+* {{l|ja|母}}
+
 ===Etymology 1===
 ====Noun====
 {{ja-noun|k|hira=ちち|rom=chichi}}
@@ -51,26 +81,6 @@ From [[父|chichi]]. Eastern dialect.
 
 ===Etymology 3===
 
-/kaso<small>2</small>/: *[kasə] > [kaso]. See [[父|kazo]].
-
-====Noun====
-{{ja-noun|k|hira=かそ|rom=kaso}}
-
-# father
-#* {{RQ:Wamyō Ruijushō|1|115}}
-#*: 父爲考、和名知々、日本紀私記云'''加曾'''
-
-===Etymology 4===
-
-From [[父|kaso]]. Medial -s- voices to /kazo/.
-
-====Noun====
-{{ja-noun|k|hira=かぞ|rom=kazo}}
-
-# father
-
-===Etymology 5===
-
 From [[父|chichi]].
 
 ====Noun====
@@ -80,7 +90,7 @@ From [[父|chichi]].
 #* {{RQ:Nippo Jisho|649}}
 #*: '''Tete'''. l, chichi. テテ. まはは, チチ (てて. または, 父) 父親.
 
-===Etymology 6===
+===Etymology 4===
 
 From [[父|chichi]].
 
@@ -91,29 +101,25 @@ From [[父|chichi]].
 #* {{RQ:Nippo Jisho|670}}
 #*: '''Toto'''. トト (とと) 父. これは子どもの使う語である.
 
-===Etymology 7===
+===Etymology 5===
 
-====Kanji====
-{{ja-kanji|grade=2|rs=父00}}
+/kaso<small>2</small>/: *[kasə] > [kaso].
 
-# [[father]]
+====Noun====
+{{ja-noun|k|hira=かそ|rom=kaso}}
 
-=====Readings=====
-* {{ja-readings|on={{l|ja|ふ}} (fu), {{l|ja|ほ}} (ho)|kun={{l|ja|ちち}} (chichi)}}
+# father
+#* {{RQ:Wamyō Ruijushō|1|115}}
+#*: 父爲考、和名知々、日本紀私記云'''加曾'''
 
-====Compounds====
-* {{l|ja|父母}} ({{l|ja|ふぼ}}, ''fubo''): lit. (a) "''[[parent]](s)''"
-* {{l|ja|父ちゃん}} (''[[tō-chan]]''): "''[[pa]], [[daddy]]''" etc.
+===Etymology 6===
 
-====Derived terms====
-* {{l|ja|教父}} ({{l|ja|きょうふ}}, ''kyōfu''): lit. a "''[[religious]] [[teachings]] [[father]]'';" a [[godfather]]
-* {{l|ja|代父}} ({{l|ja|だいふ}}, ''daifu''): lit. a "''[[replacement]] [[father]]'';" a [[godfather]]
-* {{l|ja|父天空}} ({{l|ja|ちちてんくう}}, ''chichi-tenkū''): lit. "''[[Father Sky]]''"
-* {{l|ja|父時間}} ({{l|ja|ちちじかん}}, ''chichi-jikan''): lit. "''[[Father Time]]''"
-* {{l|ja|父土地}} ({{l|ja|ちちとち}}, ''chichi-tochi''): lit. one's "''[[fatherland]]''"
+From [[父|kaso]]. Medial -s- voices to /kazo/.
 
-===Antonyms===
-* {{l|ja|母}} (''haha'')
+====Noun====
+{{ja-noun|k|hira=かぞ|rom=kazo}}
+
+# father
 
 ===References===
 * {{R:Nippo Jisho}}
