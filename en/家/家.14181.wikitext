@@ -47,7 +47,7 @@
 # a [[family]]
 
 ====Suffix====
-{{ja-noun|k|hira=か|rom=ka}}
+{{ja-noun|k|hira=か|rom=-ka}}
 # (as suffix) an [[expert]], [[professional]], [[performer]]
 
 ===Etymology 2===
@@ -61,11 +61,10 @@ Cognate with [[内|uchi]].
 # one's house
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=け|rom=ke|hidx=け}}
+{{ja-pos|k|suffix|hira=け|rom=-ke}}
 
 # a suffix representing relationship to a family
-#: 平'''家'''
-#:: the Taira family
+#: {{usex|平'''家'''|tr=たいらけ<br/>''Taira-ke''|t=the Taira family|lang=ja}}
 
 ===Etymology 3===
 
@@ -75,13 +74,18 @@ A contraction of [[家|uchi]] > chi. Often following the genitive case marker [[
 {{ja-noun|k|hira=ち|rom=chi}}
 
 # house
-#: 俺ん'''家'''に来ない？
-#:: Wanna come to my place?
+#: {{usex|俺ん'''家'''に来ない？|tr=おれんちにこない？<br/>''orenchi ni konai?''|t=Wanna come to my place?|lang=ja}}
 
 ====Noun====
-{{ja-noun|k|hira=や|rom=ya}}
+{{ja-noun|k|hira=や|rom=ya}} 
 
 # house
+
+====Suffix====
+{{ja-pos|k|suffix|hira=や|rom=-ya}}
+
+# house of something, place where some business is conducted
+# person who does that thing
 
 ====Kanji====
 {{ja-kanji|grade=2|rs=宀07}}
