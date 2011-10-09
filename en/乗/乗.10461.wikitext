@@ -26,12 +26,9 @@ Compare [[垂]] (from [[埀]]).
 ----
 
 ==Japanese==
-{{ja-see-also|-乗}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=丿08}}
-
-# {{defn|lang=ja|sort=丿08}}
 
 ====Readings====
 * {{ja-readings|on={{l|ja|じょう}} (''jō''), {{l|ja|しょう}} (''shō'')|kanyoon={{l|ja|じょうじる|じょう-じる}}|kun={{l|ja|のる|の-る}} (''noru''), {{l|ja|のり|の-り}} (''nori''), {{l|ja|のせる|の-せる}} (''noseru'')|nanori={{l|ja|のり}} (''nori'')}}
@@ -103,7 +100,11 @@ Compare [[垂]] (from [[埀]]).
 * [[乗っ取る]]
 * [[乗っ切る]]
 
-[[Category:ja:Mathematics|しょう]]
+===Suffix===
+{{ja-pos|k|suffix|hira=じょう|rom=-jō|hidx=しょう'}}
+
+# {{mathematics|lang=ja|skey=しょう'}} [[power]]
+#: {{usex|３の３'''乗'''は２７である。|tr=３の３[[じょう]]は２７である。<br/>''San no san'''[[jō]]''' wa [[ni]][[jū]][[shichi]] de aru.''|t=3 to the third '''power''' is 27.|lang=ja}}
 
 ----
 
