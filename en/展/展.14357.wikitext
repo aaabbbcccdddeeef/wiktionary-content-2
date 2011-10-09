@@ -34,8 +34,6 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=尸07}}
 
-# {{defn|lang=ja|sort=尸07}}
-
 ====Readings====
 * {{ja-readings|on=[[てん]] (ten)|kun=[[つらねる]] (tsuraneru), [[のべる]] (noberu), [[のびる]] (nobiru)}}
 
@@ -45,10 +43,12 @@
 ===Proper noun===
 {{ja-pos|k|proper|hira=まこと|rom=Makoto}}
 
-# {{given name|male|lang=ja}}
+# {{given name|male|lang=ja|sort=まこと}}
 
-[[Category:Japanese male given names|まこと]]
+===Suffix===
+{{ja-pos|k|suffix|hira=てん|rom=-ten}}
 
+# [[exhibition]]
 ----
 
 ==Korean==
