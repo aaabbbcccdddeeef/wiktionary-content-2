@@ -1,5 +1,16 @@
 ==Japanese==
 
+===Conjunction===
+{{ja-pos|h|conjunction|rom=ken}}
+# {{ja-def|兼}} [[concurrently]]
+
+===Counter===
+{{ja-pos|h|counter|rom=-ken}}
+
+# {{ja-def|件}} [[case]]s, [[matter]]s
+# {{ja-def|軒}} [[house]]s, buildings
+# {{ja-def|間}} gaps between pillars
+
 ===Noun===
 {{ja-noun|h|rom=ken}}
 # {{ja-def|剣}} [[sword]]
@@ -15,9 +26,13 @@
 # {{ja-def|建}} {{given name|male|lang=ja}}
 # {{ja-def|兼}} {{given name|male|lang=ja}}
 
-===Conjunction===
-{{ja-pos|h|conjunction|rom=ken}}
-# [[兼]]: [[concurrently]]
+===Suffix===
+{{ja-pos|h|suffix|rom=-ken}} 
+
+# {{ja-def|権}} right to do something
+# {{ja-def|券}} ticket, bond, certificate
+# {{ja-def|圏}} range, sphere, circle
+# {{ja-def|軒}} [[house]]s, buildings
 
 ===Kanji reading===
 {{ja-kanji reading|rom=ken}}
