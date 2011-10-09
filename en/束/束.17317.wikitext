@@ -28,7 +28,19 @@
 ----
 
 ==Japanese==
-{{ja-see-also|-束}}
+
+===Counter===
+{{ja-pos|k|counter|hira=たば|rom=-taba}}
+
+# counter for [[bundle]]s
+#* それは一束十円の値段でした
+#*: それはひとたばじゅうえんのねだんでした
+#*: ''sore wa hitotaba jūen no nedan deshita''
+#*: They cost 10 yen a bundle
+
+{{ja-pos|k|counter|hira=そく|rom=-soku}}
+
+# large bundles
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=木03}}
@@ -63,8 +75,17 @@
 #*: かれはふるいてがみをたばにした
 #*: ''kare wa furui tegami o taba ni shita''
 #*: He bound old letters into a bundle
+
 {{ja-noun|k|hira=つか|rom=tsuka}}
 # [[handbreadth]], [[bundle]]
+
+===Suffix===
+{{ja-pos|k|suffix|hira=-たば|rom=-taba|hidx=たば}}
+
+# [[bundle]]
+
+{{ja-pos|k|suffix|hira=そく|rom=-soku}}
+# {{mathematics|lang=ja|skey=そく}} [[lattice]]
 
 ----
 
