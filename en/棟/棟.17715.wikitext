@@ -24,15 +24,16 @@
 ----
 
 ==Japanese==
-{{ja-see-also|-棟}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=木08}}
 
-# {{defn|lang=ja|sort=木08}}
-
 ====Readings====
 * {{ja-readings|on=[[とう]] (tō)|kun=[[むね]] (mune)}}
+
+===Counter===
+{{ja-pos|k|counter|hira=とう|rom=-tō}}
+# buildings
 
 ===Noun===
 {{ja-noun|k|hira=とう|rom=tō}}
@@ -40,6 +41,10 @@
 
 {{ja-noun|k|hira=むね|rom=mune}}
 # ridge of a roof
+
+===Suffix===
+{{ja-pos|k|suffix|hira=とう|rom=-tō}}
+# building
 
 ----
 
