@@ -29,7 +29,6 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 ----
 
 ==Japanese==
-{{ja-see-also|-年}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=干03}}
@@ -59,17 +58,17 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 ====Pronunciation====
 * {{IPA|[nen]|lang=ja}}
 
-====Suffix====
-{{ja-pos|k|suffix|hira=ねん|rom=nen}}
+===Counter===
+{{ja-pos|k|counter|hira=ねん|rom=-nen}}
+# [[year]]s
+
+===Suffix===
+{{ja-pos|k|suffix|hira=ねん|rom=-nen}}
 
 # a [[grade]], a school year
-#: [[彼]]は[[中学]]２'''年'''[[だ]]。<br> かれはちゅうがくに'''ねん'''だ。
-#:: ''kare wa chūgaku ni '''nen''' da''
-#::: He's in the second '''grade''' in junior high school.
+#: {{usex|[[彼]]は[[中学]]２'''年'''[[だ]]。|tr=かれはちゅうがくに'''ねん'''だ。<br/>''kare wa chūgaku ni '''nen''' da.''|t=He's in the second '''grade''' in junior high school.|lang=ja}}
 # a [[year]]
-#: ２００８'''年'''に[[橋]]を建設し始めるようだ。<br> にせんはち'''ねん'''にはしをけんせつしはじめるようだ。
-#:: ''ni sen hachi '''nen''' ni hashi wo kensetsushi hajimeru yōda''
-#::: They seem to be going to start constructing the bridge in (the '''year''') 2008.
+#: {{usex|２００８'''年'''に[[橋]]を建設し始めるようだ。|tr=にせんはち'''ねん'''にはしをけんせつしはじめるようだ。<br/>''ni sen hachi '''nen''' ni hashi o kensetsushi hajimeru yōda.''|t=They seem to be going to start constructing the bridge in (the '''year''') 2008.|lang=ja}}
 
 ===Etymology 1===
 /to<sub>2</sub>si/ > /tosi/.
@@ -90,7 +89,7 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 * {{IPA|[tose]|lang=ja}}
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=とせ|rom=tose}}
+{{ja-pos|k|suffix|hira=とせ|rom=-tose}}
 
 # used in counting years; [[year|years]]
 
