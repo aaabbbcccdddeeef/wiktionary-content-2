@@ -39,8 +39,6 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 ===Kanji===
 {{ja-kanji|grade=3|rs=广06}}
 
-# {{defn|lang=ja|sort=广06}}
-
 ====Readings====
 * {{ja-readings|on=[[たく]] (taku)|toon=[[ど]] (do)|kanon=[[と]] (to)|kun=[[たび]] (tabi), [[はかる]] (hakaru), [[めもり]] (memori)}}
 
@@ -67,6 +65,20 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 * [[程度]]
 * [[年度]]
 {{bottom}}
+
+===Counter===
+{{ja-pos|k|counter|hira=たび|rom=-tabi|hidx=たび}}
+# [[time]]s
+
+===Suffix===
+{{ja-pos|k|suffix|hira=ど|rom=-do|hidx=と'}}
+# {{context|geometry|lang=ja|skey=と'}} [[degree]] of an angle
+# degree in temperature, scale, and so on
+# number of times
+# percentage of alcohol concentration
+
+{{ja-pos|k|suffix|hira=たび|rom=-tabi}}
+# [[time]]
 
 ----
 
