@@ -23,15 +23,9 @@
 ----
 
 ==Japanese==
-{{ja-see-also|-号}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=口02}}
-
-===Noun===
-{{ja-noun|k|hira=ごう|rom=gō|hidx=こう'}}
-
-# [[number]]
 
 ====Readings====
 * {{ja-readings|on=[[ごう]] ([[gō]])|kun=[[さけぶ]] ([[sakebu]]), [[よびな]] ([[yobina]])}}
@@ -43,6 +37,20 @@
 * [[号令]]
 * [[番号]]
 * [[暗号]]
+
+===Noun===
+{{ja-noun|k|hira=ごう|rom=gō|hidx=こう'}}
+
+# [[number]]
+
+===Suffix===
+{{ja-pos|s|suffix|hira=ごう|rom=-gō|hidx=こう'|kyu=號}}
+
+# ordinal marker, often with prefix [[第]]. It's used like [[-st]], [[-nd]], [[-rd]], [[-th]] in English.
+#:(第)六号
+#::(だい)ろくごう
+#::''(dai)-roku gō''
+#::(The) 6th
 
 ----
 
