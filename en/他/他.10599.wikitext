@@ -53,33 +53,17 @@ From [[人]] ‘person’ + [[也]] ‘also’.
 
 ==Japanese==
 
-===Noun===
-'''他''' ([[ほか]], [[hoka]])
-: 他 (た, ta)
-
-# [[another]], [[other]], some other
-
-====Related terms====
-* [[他ならぬ]]
-* [[その他]]
-
-====Idioms====
-* 他でもない<br>ほかでもない<br>''hoka demo nai''<br>What I want to say to you is...
-
-* 他に[[累]]を[[及ぼす]]<br>たにるいをおよぼす<br>''ta ni rui o oyobosu''<br>involve others in trouble
-
-* 他に[[例]]を[[見る|見ない]]<br>たにれいをみない<br>''ta ni rei o minai''<br>unparalleled; incomparable
-
-* 他の[[言]]に[[惑う|惑わされる]]<br>たのげんにまどわされる<br>''ta no gen ni madowasareru''<br>be led astray by others' opinions
-
 ===Kanji===
 {{ja-kanji|grade=3|rs=人03}}
 
 ====Readings====
-* {{ja-readings|on=[[た]] ([[ta]])|kun=[[ほか]] ([[hoka]])}}
+{{ja-readings
+|on=[[た]] ([[ta]])
+|kun=[[ほか]] ([[hoka]])
+}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * [[他意]] another meaning (for one's behavior or speech)
 * [[他界]] the world after death
 * [[他殺]] [[murder]]
@@ -97,7 +81,7 @@ From [[人]] ‘person’ + [[也]] ‘also’.
 * [[他山]]
 * [[他事]]
 * [[他社]] the other company
-{{mid2}}
+{{der-mid}}
 * [[他者]]
 * [[他出]]
 * [[他所]]
@@ -115,6 +99,34 @@ From [[人]] ‘person’ + [[也]] ‘also’.
 * [[他流]]
 * [[他力]]
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=ほか|rom=hoka}}
+
+{{ja-noun|k|hira=た|rom=ta}}
+
+# [[another]], [[other]], some other
+#* この'''他'''にも行き先がありますか。<br
+/> この'''ほか'''にもゆきさきがありますか。<br
+/> Kono '''hoka''' ni mo yukisaki ga arimasuka?<br
+/> Do you have any '''other''' destinations?
+#* この事業は'''他'''を利するために開始されました。<br
+/> このじぎょうは'''た'''をりするためにかいしされました。<br
+/> Kono jigyō wa '''ta''' o ri suru tame ni kaishi saremashita.<br
+/> This project was started in order to benefit '''others'''.
+
+====Related terms====
+* [[他ならぬ]]
+* [[その他]]
+
+====Idioms====
+* 他でもない<br>ほかでもない<br>''hoka demo nai''<br>What I want to say to you is...
+
+* 他に[[累]]を[[及ぼす]]<br>たにるいをおよぼす<br>''ta ni rui o oyobosu''<br>involve others in trouble
+
+* 他に[[例]]を[[見る|見ない]]<br>たにれいをみない<br>''ta ni rei o minai''<br>unparalleled; incomparable
+
+* 他の[[言]]に[[惑う|惑わされる]]<br>たのげんにまどわされる<br>''ta no gen ni madowasareru''<br>be led astray by others' opinions
 
 [[Category:Japanese nouns|ほか]]
 
