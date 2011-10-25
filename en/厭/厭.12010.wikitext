@@ -30,12 +30,46 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=厂12}}
-
-# {{defn|lang=ja|sort=厂12}}
+{{ja-kanji|grade=uc|rs=厂12}}
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (en), [[おう]] (ō), [[よう]] (yō)|kun=[[あきる]] (akiru), [[いとう]] (itou)}}
+{{ja-readings
+|on=[[あん]] (an), [[えん]] (en), [[おう]] (ō), [[おん]] (on), [[ゆう]] (yū), [[よう]] (yō)
+|kun=[[あきる|あ-きる]] ([[厭きる]], akiru), [[いとう|いと-う]] ([[厭う]], itou), [[いや]] (iya), [[おさえる|おさ-える]] ([[厭える]] osaeru)
+}}
+
+===Etymology 1===
+Shared root with {{l|ja|秋|tr=''aki'', "[[autumn]]"}}.  Current meaning possibly arising from metaphorical use of the meaning "autumn".
+
+====Noun====
+{{ja-noun|k|hira=あき|rom=aki}}
+
+# [[disgust|Disgust]].
+# [[having|Having]] one's [[fill]]; [[loss]] of [[interest]].
+
+====Alternative forms====
+* {{l|ja|厭き}}
+* {{l|ja|飽}}
+* {{l|ja|飽き}}
+
+====Idioms====
+* {{Jpan|厭き[[が]][[来る]]}}: One will become [[fed up]] with or [[lose]] [[interest]] in something that was formerly [[satisfying]].
+
+===Etymology 2===
+Probably originally [[onomatopoetic]], much like the English {{term|yuck}}.
+
+====Adjective====
+{{ja-adj|k|decl=na|hira=いや|rom=iya}}
+
+# [[disgusting|Disgusting]], [[unpleasant]], [[yucky]].
+
+=====Declension=====
+{{ja-na|厭|いや|iya}}
+
+====Interjection====
+{{ja-pos|k|interjection|hira=いや|rom=iya}}
+
+# [[yuck|Yuck]], [[ew]].
 
 ----
 
