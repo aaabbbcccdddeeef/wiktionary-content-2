@@ -28,19 +28,26 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=士03}}
-
-# {{defn|lang=ja|sort=士03}}
+{{ja-kanji|grade=c|rs=士03|style=s|kyu=壯}}
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō)|kun=[[さかん]] (sakan)}}
+{{ja-readings
+|on=[[そう]] (sō)
+|kun=[[さかん]] (sakan)
+|nanori=[[つよし]] (tsuyoshi)
+}}
+
+===Adjective===
+{{ja-adj|k|decl=na|hira=さかん|rom=sakan}}
+
+# {{alternate spelling of|盛ん|lang=ja}}
 
 ===Proper noun===
-{{ja-pos|k|proper|hira=そう|rom=Sō}}
+{{ja-pos|k|proper|hira=つよし|rom=Tsuyoshi}}
 
 # {{given name|male|lang=ja}}
 
-[[Category:Japanese male given names|そう]]
+[[Category:Japanese male given names|つよし]]
 
 ----
 
