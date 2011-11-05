@@ -27,20 +27,18 @@
 
 ==Japanese==
 
-===Noun===
-'''作''' ([[さく]], [[saku]])
-
-# a [[work]], a [[production]]
-# a [[crop]], a [[harvest]]
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=人05}}
 
 ====Readings====
-* {{ja-readings|on=[[さく]] ([[saku]]), [[さ]] ([[sa]])|kun=[[つくる]] ([[作る]], [[tsukuru]]), [[つくり]] ([[作り]], [[tsukuri]]), [[なす]] ([[nasu]])}}
+{{ja-readings
+|on=[[さく]] ([[saku]]), [[さ]] ([[sa]])
+|kun=[[つくる]] ([[作る]], [[tsukuru]]), [[つくり]] ([[作り]], [[tsukuri]])
+|nanori=[[くり]] ([[kuri]]), [[さか]] ([[saka]]), [[づくり]] ([[zukuri]]), [[とも]] ([[tomo]]), [[なお]] ([[nao]]), [[はぎ]] ([[hagi]]), [[まさか]] ([[masaka]])
+}}
 
 ====Compounds====
-{{top4}}
+{{der-top4|Compounds}}
 * [[秋作]]
 * [[後作]]
 * [[遺作]]
@@ -71,7 +69,7 @@
 * [[原作]]
 * [[減作]]
 * [[耕作]]
-{{mid4}}
+{{der-mid4}}
 * [[工作]]
 * [[小作]]
 * [[混作]]
@@ -102,7 +100,7 @@
 * [[多作]]
 * [[多毛作]]
 * [[単作]]
-{{mid4}}
+{{der-mid4}}
 * [[代作]]
 * [[駄作]]
 * [[著作]]
@@ -133,7 +131,7 @@
 * [[作意]]
 * [[作為]]
 * [[作家]]
-{{mid4}}
+{{der-mid4}}
 * [[作歌]]
 * [[作画]]
 * [[作況]]
@@ -165,9 +163,15 @@
 * [[作例]]
 {{bottom}}
 
-===Related terms===
+====Related terms====
 * [[抜け作]]
 * [[作る]]
+
+===Noun===
+'''作''' ([[さく]], [[saku]])
+
+# a [[work]], a [[production]]
+# a [[crop]], a [[harvest]]
 
 [[Category:Japanese nouns|さく]]
 
