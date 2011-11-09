@@ -24,12 +24,39 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=土08}}
+{{ja-kanji|grade=uc|rs=土08}}
 
-# {{defn|lang=ja|sort=土08}}
+# [[whitewash]]
 
 ====Readings====
-* {{ja-readings|on=[[あ]] (a), [[あく]] (aku), [[お]] (o)|kun=[[しろつち]] (shirotsuchi), [[いろつち]] (irotsuchi)}}
+{{ja-readings
+|on=[[あ]] (a), [[あく]] (aku), [[お]] (o)
+|kun=[[いろつち]] (irotsuchi), [[しらつち]] (shiratsuchi), [[しろつち]] (shirotsuchi)
+}}
+
+===Etymology===
+Compound of {{compound|lang=ja|白|tr1=しら, shira|t1=white|土|tr2=つち, tsuchi|t2=earth, soil}}.  The ''shira'' portion can alternately be pronounced ''shiro''.
+
+===Noun===
+{{ja-noun|k|hira=しらつち|rom=shiratsuchi}}
+
+{{ja-noun|k|hira=しろつち|rom=shirotsuchi}}
+
+# white [[soil]] or [[earth]], such as [[chalk]]
+# [[kaolin]] or other [[clay]] used for [[pottery]] or [[ceramics]]
+# white [[lacquer]]
+
+====Usage notes====
+Uncommon spelling.  More commonly spelled as {{l|ja|白土}}.
+
+====Alternative forms====
+* {{l|ja|白土|tr=[[しらつち]], ''[[shiratsuchi]]''; [[しろつち]], ''[[shirotsuchi]]''}}
+
+====Synonyms====
+* {{sense|white soil or earth}} {{l|ja|白亜}}, {{l|ja|白堊|tr=[[はくあ]], ''[[hakua#Japanese|hakua]]''}}
+* {{sense|white soil or earth}} {{l|ja|白土|tr=[[はくど]], ''[[hakudo#Japanese|hakudo]]''}}
+* {{sense|potter's clay}} {{l|ja|陶土|tr=[[とうど]], ''[[tōdo#Japanese|tōdo]]''}}
+* {{sense|white lacquer}} {{l|ja|白亜}}, {{l|ja|白堊|tr=[[はくあ]], ''[[hakua#Japanese|hakua]]''}}
 
 ----
 
