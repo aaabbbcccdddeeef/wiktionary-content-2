@@ -25,12 +25,16 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=8|rs=日06}}
+{{ja-kanji|grade=8|rs=日06|style=s|kyu=晉}}
 
 # to [[proceed]]
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=[[晋む]] ([[すすむ|すす-む]], ''[[susumu|susu-mu]]'')|nanori={{l|ja|くに}} (''[[kuni]]'', {{l|ja|すすみ}} (''[[susumi]]''), {{l|ja|すすむ}} (''[[susumu]]''), {{l|ja|のぶ}} (''[[nobu]]''), {{l|ja|ゆき}} (''[[yuki]]'')}}
+{{ja-readings
+|on=[[しん]] (shin)
+|kun=[[晋む]] ([[すすむ|すす-む]], ''[[susumu|susu-mu]]'')
+|nanori=[[くに]] (''[[kuni]]''), [[すすみ]] (''[[susumi]]''), [[すすむ]] (''[[susumu]]''), [[のぶ]] (''[[nobu]]''), [[ゆき]] (''[[yuki]]'')
+}}
 
 ===Proper noun===
 {{ja-pos|k|proper|hira=すすむ|rom=Susumu|kyu=晉}}
