@@ -50,7 +50,7 @@
 {{trans-top|a bird}}
 * Albanian: {{t-|sq|kukuvajkë|f|xs=Albanian}}, {{t+|sq|buf|m|xs=Albanian}}
 * [[Amharic]]: {{tø|am|ጉጉት|tr=gugut|sc=Ethi}}
-* Arabic: {{Arab|[[بومة]]}} (buuma) {{f}}
+* Arabic: {{Arab|[[بومة]]}} (buuma) {{f}}, {{t|ar|بومة|f|tr=buuma|sc=Arab}}
 * Armenian: {{t-|hy|բու|tr=bu}}
 * [[Azeri]]: {{t|az|bayquş}}
 * [[Basque]]: {{t-|eu|mozo|xs=Basque}}, {{t-|eu|hontz|xs=Basque}}, {{t-|eu|gauhontz|xs=Basque}}, {{t-|eu|hontza|xs=Basque}}
@@ -63,8 +63,8 @@
 * [[Central Bontoc]]: [[koop]]
 * [[Chamicuro]]: {{tø|ccc|ma'sheti}}
 * Chinese:
-*: Mandarin: {{t|cmn|鸮|tr=[[xiāo]]|sc=Hani}}
-*: Cantonese: {{t|yue|鴞|tr=hīu<sup>1</sup>|sc=Hani}}
+*: Mandarin: {{t|cmn|鸮|tr=[[xiāo]]|sc=Hani}}, {{t|zh|貓頭鷹|sc=Hani}}, {{t|zh|猫头鹰|tr=māotóuyīng|sc=Hani}}, {{t|zh|鴞|sc=Hani}}, {{t|zh|鸮|tr=xiāo|sc=Hani}}
+*: Cantonese: {{t|yue|鴞|tr=hīu<sup>1</sup>|sc=Hani}}, {{tø|yue|貓頭鷹|sc=Hant}}, {{tø|yue|猫头鹰|tr=maau1 tau4 jing1|sc=Hant}}, {{tø|yue|鴞|sc=Hant}}, {{tø|yue|鸮|tr=hiu1|sc=Hant}}
 * [[Crimean Tatar]]: {{t+|crh|kökökmiyav}}, {{t+|crh|muratquş}}
 * Croatian: {{t+|hr|sova|f}}
 * Czech: {{t+|cs|sova|f}}
@@ -90,16 +90,16 @@
 * Irish: {{t+|ga|ulchabhán|m|xs=Irish}}
 * Italian: {{t-|it|gufo|m}} {{qualifier|big}}, {{t+|it|civetta|f}} {{qualifier|small}}
 * [[Ivatan]]: [[bantuluk]]
-* Japanese: [[梟]] ([[フクロウ]], fukurō)
-* Korean: [[올빼미]] (olppaemi), [[부엉이]] (bueong-i)
+* Japanese: [[梟]] ([[フクロウ]], fukurō), {{t|ja|フクロウ|tr=fukurō|sc=Jpan}}, {{t|ja|梟|tr=ふくろう, fukurō|sc=Jpan}}
+* Korean: [[올빼미]] (olppaemi), [[부엉이]] (bueong-i), {{t|ko|올빼미|tr=olppaemi|sc=Kore}}, {{t|ko|부엉이|tr=bueong-i|sc=Kore}}
 * Kurdish: {{t+|ku|kund}}, {{t+|ku|bu}}, {{t|ku|pû}}, {{t+|ku|pepûk}}
 * [[Ladin]]: {{tø|lld|ciuita|xs=Ladin}}
 * [[Lao]]: {{t-|lo|ເຄົ້າ|tr=khao|sc=Laoo|xs=Lao}}
 * [[Latgalian]]: {{tø|ltg|palāda}}
+{{trans-mid}}
 * Latin: {{t-|la|ulula|f}}, {{t|la|noctua|f}}, {{t+|la|strix|f}}
 * Latvian: {{t-|lv|pūce|xs=Latvian}}, {{t|lv|apogs|tr=some species}}, {{t|lv|ūpis|m|tr=eagle-owl}}
 * Lithuanian: {{t+|lt|pelėda|f|xs=Lithuanian}}; also {{t+|lt|apuokas|m|xs=Lithuanian}} (some species)
-{{trans-mid}}
 * [[Low Saxon]]: [[uul]] {{f}}
 * [[Lower Sorbian]]: [[sowa]]
 * [[Macedonian]]: {{t|mk|був|tr=buv}}, {{t|mk|ут|m|tr=ut}}, {{t-|mk|утка|f|tr=útka}}
@@ -138,9 +138,10 @@
 * [[Taos]]: {{tø|twf|kǫ̏wéna|sc=Latinx|xs=Taos}}
 * [[Telugu]]: {{t|te|గుడ్లగూబ|tr=guDlagooba}}
 * Turkish: {{t+|tr|baykuş}}
-* Ukrainian: {{t-|uk|сова|f|tr=sova|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|сова|f|tr=sova|xs=Ukrainian}}, {{t|uk|сич|m|tr=syč|sc=Cyrl}}
 * [[Upper Sorbian]]: {{tø|hsb|sowa|f|xs=Upper Sorbian}}
 * [[Uyghur]]: {{t|ug|مۈشۈك ياپىلاق|sc=ug-Arab}}
+* Vietnamese: {{t|vi|con cú}}, {{t|vi|cú}}
 * [[Volapük]]: {{qualifier|male or female}} {{t|vo|lül}}, {{qualifier|male}} {{t|vo|hilül}}, {{qualifier|female}} {{t|vo|jilül}}, {{qualifier|offspring, young}} {{t|vo|lülül}}
 * Welsh: {{t-|cy|tylluan|f|xs=Welsh}}
 * [[West Frisian]]: [[ûle]]
