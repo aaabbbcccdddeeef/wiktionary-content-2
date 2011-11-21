@@ -33,27 +33,79 @@
 ----
 
 ==Japanese==
-===Alternative forms===
-機 has many {{w|ryakuji}} (handwritten abbreviations), as it is a common character with many strokes (16):
-* [[Image:RYAKUJI_ki_01.png|40px]] [[Image:RYAKUJI_ki_02.png|40px]] [[Image:RYAKUJI_ki_03.png|40px]] [[Image:RYAKUJI_ki_04.png|40px]]
-The first is a {{w|phono-semantic}} simplification – the ''on'' reading is “ki” (katakana キ), hence the first simplification is 木 + キ (semantic plus simplified phonetic) – compare [[File:Ryakuji GI.png|30px]] for [[議]] and [[File:RYAKUJI ma.png|30px]] for [[魔]]/[[摩]] – while the remaining characters are purely graphical simplifications.
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=木12}}
 
-# {{defn|lang=ja|sort=木12}}
-
 ====Readings====
-* {{ja-readings|on=[[き]] (ki)|kun=[[はた]] (hata), [[からくり]] (karakuri), [[おり]] (ori)}}
+{{ja-readings
+|on=[[き]] (ki)
+|kun=[[はた]] (hata), [[こぶち]] (kobuchi), [[おり]] (ori), [[わかつり]] (wakatsuri)
+}}
 
 ====Compounds====
-* {{term|危機||[[crisis]]|tr=[[きき]], [[kiki]]|lang=ja}}
-* {{term|飛行機||[[airplane]], [[aircraft]]|tr=[[ひこうき]], [[hikōki]]|lang=ja}}
-* {{term|計算機||[[calculator]]|tr=[[けいさんき]], [[keisanki]]|lang=ja}}
-* {{term|掃除機||[[vacuum cleaner]]|tr=[[そうじき]], [[sōjiki]]|lang=ja}}
+* {{l|ja|危機|tr=[[きき]], ''[[kiki]]''}}: [[crisis]]
+* {{l|ja|飛行機|tr=[[ひこうき]], ''[[hikōki]]''}}: [[airplane]], [[aircraft]]
+* {{l|ja|計算機|tr=[[けいさんき]], ''[[keisanki]]''}}: [[calculator]]
+* {{l|ja|掃除機|tr=[[そうじき]], ''[[sōjiki]]''}}: [[vacuum cleaner]]
 
 ====Usage notes====
-Often used interchangeably with {{term|器|||tr=[[き]], [[ki]]|lang=ja}} – with same reading き, ''ki'' – in compounds to indicate “machine”, with the subtlety that 機 implies a larger machine, such as an airplane, while 器 implies a smaller device, say hand-held. Compare {{term|飛行機||airplane|tr=[[ひこうき]], [[hikōki]]|lang=ja}} with {{term|食器||tableware|tr=[[しょっき]], [[shokki]]|lang=ja}}.
+Often used interchangeably in compounds with {{l|ja|器|tr=[[き]], ''[[ki]]''}} to indicate “machine”, with the distinction that 機 implies a larger machine, such as an airplane, while 器 implies a smaller device, possibly hand-held. Compare {{l|ja|飛行機|tr=''hikōki''|gloss=airplane}} with {{l|ja|食器|''shokki''|gloss=tableware}}.
+
+===Alternative forms===
+機 has many {{w|ryakuji}} (handwritten abbreviations), as it is a common character with many strokes (16):
+* [[Image:RYAKUJI_ki_01.png|40px]] A {{w|phono-semantic}} simplification from [[on'yomi]] of “ki” (katakana キ): 木 + キ (semantic plus simplified phonetic) – compare [[File:Ryakuji GI.png|30px]] for [[議]] and [[File:RYAKUJI ma.png|30px]] for [[魔]]/[[摩]].
+* [[Image:RYAKUJI_ki_02.png|40px]] Graphical simplification.
+* [[Image:RYAKUJI_ki_03.png|40px]] Graphical simplification.
+* [[Image:RYAKUJI_ki_04.png|40px]] Graphical simplification.
+
+===Etymology 1===
+From {{etyl|zho|ja|sort=き}} {{term|機|sc=Hani}}.
+
+====Noun====
+{{ja-noun|k|hira=き|rom=ki}}
+
+# a [[machine]], a [[device]]; a [[contraption]]
+# a [[loom]]
+# an [[opportunity]], a [[chance]] to do something; the [[right]] time or [[moment]]
+# something of great [[importance]]: the [[linchpin]] of the matter
+# [[resourcefulness]]
+# {{Buddhism|lang=ja|sort=き}} the [[moment]] of being moved into action by the [[teachings]] of the [[Buddha]]: see {{l|ja|機根|tr=''kikon''}}
+# by extension, the [[workings]] of the [[heart]] or [[mind]] in general
+# in [[Noh]] [[theater]], the [[breath]] of the [[mind]]
+# short for {{l|ja|飛行機|tr=''hikōki''}}: an [[airplane]], an [[aircraft]]
+# short for {{l|ja|機関銃|tr=''kikanjū''}}: a [[machine gun]]
+
+=====Idioms=====
+* {{l|ja|機が熟する|tr=[[きがじゅくする]], ''[[ki ga juku suru]]''}}: the [[time is ripe]]; a [[golden opportunity]]
+* {{l|ja|機に乗じる|tr=[[きにじょうじる]], ''[[ki ni jōjiru]]''}}, {{l|ja|機に投じる|tr=[[きにとうじる]], ''[[ki ni tōjiru]]''}}: to [[sieze the moment]], to [[jump at the chance]]
+* {{l|ja|機に臨み変に応ずる|tr=[[きにのぞみへんにおうずる]], ''[[ki ni nozomi hen ni ōzuru]]''}}, {{l|ja|機に応ずる|tr=[[きにおうずる]], ''[[ki ni ōzuru]]''}}: to [[move with the times]]
+* {{l|ja|機に|tr=[[機に因って法を説く]], ''[[ki ni yotte hō o toku]]''}}: to change the [[message]] to [[suit]] one's [[audience]]: to [[alter]] the [[format]] or [[presentation]] for better [[acceptance]], without changing the [[core]] [[idea]]s being [[convey]]ed
+* {{l|ja|機を逸する|tr=[[きをいっする]], ''[[ki o issuru]]''}}, {{l|ja|機を失する|tr=[[きをいしっする]], ''[[ki o shissuru]]''}}: to [[miss the boat]], to [[miss out]]
+
+===Etymology 2===
+Alteration from こうべうち, itself a compound of {{l|ja|首|tr=''kōbe'', "head"}} + {{l|ja|打ち|tr=''uchi'', "striking, hitting"}}.
+
+====Noun====
+{{ja-noun|k|hira=こぶち|rom=kobuchi}}
+
+# a [[trap]] or [[snare]] that works by [[behead]]ing the [[bird]] or [[beast]] caught in it
+
+===Etymology 3===
+From [[onomatopoeic]] {{l|ja|はた|tr=''hata''}}, possibly for the sound of the shuttle running back and forth, or for the sound of a woven cloth moving in the wind (c.f. {{l|ja|旗|tr=''hata'', "a flag"}}).
+
+====Noun====
+{{ja-noun|k|hira=はた|rom=hata}}
+
+# a [[loom]]
+# [[woven]] [[cloth]]
+
+===Etymology 4===
+Stem form ({{l|ja|連用形}}) of the verb {{l|ja|機る|tr=''wakatsuru''|gloss=to [[manipulate]] something}}, itself an alteration of {{l|ja|誘る|tr=''okotsuru''|gloss=to [[manipulate]] or [[con]] someone}}, a compound of {{l|ja|痴|tr=''oko''|gloss=a fool}} + {{l|ja|釣る|tr=''tsuru''|gloss=to [[fish]], to [[draw out]]}}.
+
+# to [[manipulate]] {{qualifier|as in a device}}
+# to [[manipulate]] {{qualifier|as in a person}}: to [[deceive]], to [[take in]] someone
+# to get on someone's right side; to [[humor]] someone; to [[make an effort]] to [[please]] someone
 
 ----
 
