@@ -28,34 +28,150 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=かたち|rom=katachi}}
-
-# [[shape]]
-
-===Suffix===
-{{ja-pos|k|suffix|hira=がた|rom=-gata|hidx=かた'}} 
-# [[form]], [[appearance]]
-
-{{ja-pos|k|suffix|hira=けい|rom=-kei}} 
-# {{linguistics|lang=ja|skey=けい}} [[tense]]
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=彡04}}
 
 ====Readings====
-* {{ja-readings|on=[[けい]] (kei), [[ぎょう]] (gyō)|kun=[[かたち]] (katachi), [[かた]] (kata), [[あらわれる]] (arawareru)}}
+{{ja-readings
+|on=[[けい]] (kei), [[ぎょう]] (gyō)
+|kun=[[がた]] (gata), [[かた]] (kata), [[かたち]] (katachi), [[かたぎ]] (katagi), [[なり]] (nari)
+|nanori=[[ち]] (chi)
+}}
 
 ====Compounds====
-* {{l|ja|形声}}
-* {{l|ja|形而上学}}
-* {{l|ja|形容詞}}
-* {{l|ja|形容動詞}}
-* {{l|ja|形成}}
-* {{l|ja|形態}}
-* {{l|ja|形体}}
-* {{l|ja|形相}}
-* {{l|ja|原形質}} - [[protoplasm]]
+{{der-top|Compounds}}
+* {{l|ja|形声|tr=[[けいせい]], ''[[keisei]]''}}: the [[phonosemantic]] formation of a [[kanji]] character from elements signifying meaning and elements signifying sound
+* {{l|ja|形成|tr=[[けいせい]], ''[[keisei]]''}}: [[formation]], [[shape]]
+* {{l|ja|形而下|tr=[[けいじか]], ''[[keijika]]''}}: [[physical]], [[material]]
+* {{l|ja|形而上|tr=[[けいじじょう]], ''[[keijijō]]''}}: [[metaphysical]]
+* {{l|ja|形而上学|tr=[[けいじじょうがく]], ''[[keijijōgaku]]''}}: [[metaphysics]]
+* {{l|ja|形容詞|tr=[[けいようし]], ''[[keiyōshi]]''}}: [[adjective]]
+* {{l|ja|形容動詞|tr=[[けいようどうし]], ''[[keiyō dōshi]]''}}: {{qualifier|Japanese grammar}} [[adjectival]] [[noun]], ''na-'' adjective
+{{der-mid}}
+* {{l|ja|形態|tr=[[けいたい]], ''[[keitai]]''}}: [[shape]], [[form]]
+* {{l|ja|形態学|tr=[[けいたいがく]], ''[[keitaigaku]]''}}: {{qualifier|biology}} [[morphology]]
+* {{l|ja|形態論|tr=[[けいたいろん]], ''[[keitairon]]''}}: {{qualifier|linguistics}} [[morphology]]
+* {{l|ja|形体|tr=[[けいたい]], ''[[keitai]]''}}: [[physical]] [[shape]]
+* {{l|ja|形相|tr=[[ぎょうそう]], ''[[gyōsō]]''}}: a [[facial expression]], a [[look]]
+* {{l|ja|形相|tr=[[けいそう]], ''[[keisō]]''}}: {{qualifier|philosophy}} the [[form]], the ''[[eidos]]''; the [[Platonic]] [[ideal]]
+* {{l|ja|原形質|tr=[[げんけいしつ]], ''[[genkeishitsu]]''}}: [[protoplasm]]
+{{bottom}}
+
+===Etymology 1===
+Probably related to {{l|ja|堅い}} / {{l|ja|硬い}} / {{l|ja|固い|tr=''katai''}}, {{term|lang=en|hard}}.
+
+====Alternative forms====
+* {{l|ja|型}}
+
+====Noun====
+{{ja-noun|k|hira=かた|rom=kata}}
+
+# a [[shape]]
+# a [[form]]
+# a [[pattern]], [[die]], or [[model]] from which [[copies]] are made
+# on a [[coin]], the side with writing on it: see antonym {{l|ja|縵面|tr=''name''}}
+# [[collateral]] for [[borrow]]ed [[money]]
+
+===Etymology 2===
+Derived from /kata/ above.  Changes to /gata/ due to {{rendaku}}.
+
+====Alternative forms====
+* {{l|ja|型}}
+
+====Suffix====
+{{ja-pos|k|suffix|hira=がた|rom=gata|hidx=かた'}}
+
+# {{qualifier|affixed to nouns}}: the [[shape]] or [[form]] of the affixed noun
+#* {{usex|lang=ja|{{l|ja|渦巻き}}'''形'''|tr=うずまき'''がた'''<br />''uzumaki'''gata'''''|t=a [[whirlpool]] '''shape'''}}
+#* {{usex|lang=ja|{{l|ja|卵}}'''形'''|tr=たまご'''がた'''<br />''tamago'''gata'''''|t=an [[egg]] '''shape'''}}
+# {{qualifier|affixed to [[on'yomi]] nouns}}: a [[typical]] example of the affixed noun; the [[type]] of the affixed noun
+#* {{usex|lang=ja|{{l|ja|学者}}'''形'''|tr=がくしゃ'''がた'''<br />''gakusha'''gata'''''|t=a [[scholar]] '''type'''}}
+#* {{usex|lang=ja|{{l|ja|英雄}}'''形'''|tr=えいゆう'''がた'''<br />''eiyū'''gata'''''|t=a [[hero]] '''type'''}}
+
+=====Usage notes=====
+For a [[shape]], the spelling {{l|ja|形}} is more commonly used.  For a [[type]], the spelling {{l|ja|型}} is more commonly used.
+
+===Etymology 3===
+Derived from {{l|ja|形木|tr=''katagi''}}, itself a compound of {{compound|lang=ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{term|lang=en|stencil}}.  The ''ki'' changes to ''gi'' due to {{rendaku}}.
+
+====Alternative forms====
+* {{l|ja|気質}}
+* {{l|ja|容気}}
+
+====Noun====
+{{ja-noun|k|hira=かたぎ|rom=katagi}}
+
+# [[social]] [[customs]], [[mores]]
+# one's [[appearance]]; one's [[stance]] or [[body language]]
+# one's [[character]], [[disposition]], [[nature]]
+
+====Suffix====
+{{ja-pos|k|suffix|hira=かたぎ|rom=katagi}}
+
+# the [[character]], [[disposition]], or [[nature]] of the affixed noun
+
+===Etymology 4===
+Origins unknown.  Appears to be /kata/ + /chi/, but the derivation of the /chi/ element is unclear.
+
+====Alternative forms====
+* {{l|ja|容}}
+
+====Noun====
+{{ja-noun|k|hira=かたち|rom=katachi}}
+
+# [[shape]] or [[form]]
+# [[form]], as opposed to [[substance]]
+# [[shapeliness]]: see {{l|ja|形有り|tr=''katachiari''}}
+
+===Etymology 5===
+From {{etyl|zho|ja|sort=けい}} {{term|形|sc=Hani}}.
+
+====Suffix====
+{{ja-pos|k|suffix|hira=けい|rom=-kei}} 
+
+# {{linguistics|lang=ja|skey=けい}} [[grammatical]] [[tense]]
+#* {{usex|lang=ja|{{l|ja|過去}}'''形'''|tr=かこ'''けい'''<br />''kako'''kei'''''|t=the [[past tense|past '''tense''']]}}
+#* {{usex|lang=ja|{{l|ja|将来}}'''形'''|tr=しょうらい'''けい'''<br />''shōrai'''kei'''''|t=the [[future tense|future '''tense''']]}}
+# {{qualifier|Japanese grammar}} a [[conjugation]] form of a [[verb]]
+#* {{usex|lang=ja|{{l|ja|連用}}'''形'''|tr=れんよう'''けい'''<br />''ren'yō'''kei'''''|t=the [[continuative]] '''form'''}}
+#* {{usex|lang=ja|{{l|ja|命令}}'''形'''|tr=めいれい'''けい'''<br />''meirei'''kei'''''|t=the [[imperative]] or [[command]] '''form'''}}
+
+[[Category:ja:Grammar|けい]]
+
+===Etymology 6===
+From {{l|ja|成り|tr=''nari''}}, the [[continuative]] form ({{l|ja|連用形|tr=''ren'yōkei''}}) of the verb {{l|ja|成る|tr=''naru''}}.
+
+====Alternative forms====
+* {{l|ja|態}}
+* {{l|ja|なり}}
+
+====Usage notes====
+The most common form for this use is {{l|ja|なり}}, for all parts of speech.
+
+====Noun====
+{{ja-noun|k|hira=なり|rom=nari}}
+
+# one's [[clothing]] and [[appearance]]
+# one's body [[shape]] or [[form]]
+# one's [[circumstances]] or [[situation]]
+# one's [[reputation]]
+# following the plain [[imperfective]] form ([[attributive]] form, {{l|ja|連対形|tr=''rentaikei''}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
+#* {{usex|lang=ja|{{l|ja|人々}}の{{l|ja|言う}}'''なり'''になった|tr=ひとびとのいう'''なり'''になった<br />''hitobito no iu '''nari''' ni natta''|t=things turned out '''just as''' people were saying}}
+# following the plain [[imperfective]] form ([[attributive]] form, {{l|ja|連対形|tr=''rentaikei''}}) of an adjective, indicates responding to the affixed adjective: compare English {{term|lang=en|fitting}}
+#* {{usex|lang=ja|寒ければ{{l|ja|寒い}}'''なり'''の{{l|ja|厚着}}を{{l|ja|する}}|tr=さむければさむい'''なり'''のあつぎをする<br />''samukereba samui '''nari''' no atsugi o suru''|t=if it's cold, '''then''' put on warm clothing / if it's cold, then put on warm clothes '''for''' cold weather}}
+# following the plain [[imperfective]] form ([[attributive]] form, {{l|ja|連対形|tr=''rentaikei''}}) of a verb, indicates the moment of the action occurring: compare English {{term|lang=en|as soon as}}
+#* {{usex|lang=ja|{{l|ja|断り}}を{{l|ja|聞く}}'''なり'''泣き出した|tr=ことわりをきく'''なり'''なきだした<br />''kotowari o kiku '''nari''' nakidashita''|t=she burst into tears '''as soon as''' she heard the rejection}}
+# following a noun, indicates a state [[fitting]] or [[becoming]] to the affixed noun
+#* {{usex|lang=ja|{{l|ja|子供}}'''なり'''に{{l|ja|想像}}{{l|ja|する}}|tr=こども'''なり'''にそうぞうする<br />''kodomo '''nari''' ni sōzō suru''|t=imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
+#* {{usex|lang=ja|{{l|ja|自分}}'''なり'''の{{l|ja|判断}}|tr=じぶん'''なり'''のはんだん<br />''jibun '''nari''' no handan''|t=my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
+# following a noun, indicates that [[shape]] or [[form]]: compare English {{term|lang=en|like}}
+#* {{usex|lang=ja|{{l|ja|弓}}'''なり'''に{{l|ja|なる}}|tr=ゆみ'''なり'''になる<br />''yumi '''nari''' ni naru''|t=to become bow-'''shaped''' / to become '''like''' a bow}}
+
+====Suffix====
+{{ja-pos|k|suffix|hira=なり|rom=nari}}
+
+# following the [[continuative]] form ({{l|ja|連用形|tr=ren'yōkei}}) of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
+#* {{usex|lang=ja|{{l|ja|人々}}が{{l|ja|言い}}'''なり'''になった|tr=ひとびとがいい'''なり'''になった<br />''hitobito ga ii'''nari''' ni natta''|t=things turned out '''just as''' people say}}
 
 ----
 
