@@ -9,7 +9,7 @@
 ===Letter===
 {{mul-letter|upper=H|lower=h|script=Latn}}
 
-# The eighth letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
+# {{non-gloss definition|The eighth letter of the [[Appendix:Latin script|basic modern Latin alphabet]].}}
 
 ====See also====
 {{Latn-script}}
@@ -44,7 +44,6 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 ----
 
 ==English==
-* The name of this letter is spelled ''[[aitch]]'' or ''[[haitch]]''
 
 ===Etymology 1===
 
@@ -103,13 +102,12 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 * {{sense|letter name}} {{IPA|/ɦa/|lang=nl}}
 
 ===Letter===
-{{head|nl|letter|lower case||upper case|H}}
+{{nl-letter|upper=H|lower=h}}
 
-# The eighth letter of the [[Dutch alphabet]]
+# {{Latn-def|nl|letter|8}}
 
-===See also===
-* Previous letter: [[g#Dutch|g]]
-* Next letter: [[i#Dutch|i]]
+====See also====
+* {{list|nl|Latin script letters}}
 
 ----
 
@@ -141,13 +139,12 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 # {{text messaging|informal|lang=hu}} abbreviation of conjunction {{term|hogy||that|lang=hu}}
 
 ===Letter===
-{{head|hu|letter|lower case||upper case|H}}
+{{hu-letter|upper=H|lower=h}}
 
-# The fourteenth letter of the [[Hungarian alphabet]]
+# {{Latn-def|hu|letter|14}}
 
-===See also===
-* Previous letter: {{l|hu|gy}}
-* Next letter: {{l|hu|i}}
+====See also====
+* {{list|hu|Latin script letters}}
 
 ----
 
@@ -158,19 +155,24 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 
 # See under [[H#Italian|H]]
 
+====See also====
+* {{list|it|Latin script letters}}
+
 ----
 
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|/ha/|/haʃ/|lang=ro}}
+* {{sense|letter name}} {{IPA|/ha/|/haʃ/|lang=ro}}
+* {{sense|phoneme}} {{IPA|/h/|lang=ro}}
 
 ===Letter===
-'''h''' (''lowercase'', ''capital'' '''[[H]]''')
+{{ro-letter|upper=H|lower=h}}
 
-# The tenth letter of the [[Romanian alphabet]] representing the phoneme /h/. Preceded by [[g]] and followed by [[i]].
+# {{Latn-def|ro|letter|10}}
 
-[[Category:Romanian letters]]
+====See also====
+* {{list|ro|Latin script letters}}
 
 ----
 
@@ -192,9 +194,9 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 ==Spanish==
 
 ===Letter===
-{{head|es|letter|lower case||upper case|H}}
+{{es-letter|upper=H|lower=h}}
 
-# The eighth letter of the Spanish alphabet.
+# {{Latn-def|es|letter|8}}
 
 ----
 
