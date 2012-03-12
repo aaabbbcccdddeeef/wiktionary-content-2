@@ -22,13 +22,39 @@
 ----
 
 ==Japanese==
-{{rfc|is it just me or should be '''Kanji''' section be outside of any etymology?}}
+
+===Kanji===
+{{ja-kanji|grade=4|rs=刀05}}
+
+# [[beginning]], [[start]], [[first]]
+
+====Readings====
+{{ja-readings
+|on=[[しょ]] (sho), [[そ]] (so)
+|kun=[[はじめ]] (hajime), [[はつ]] (hatsu), [[うい]] (ui)
+|nanori=[[はじめ]] (hajime), [[し]] (shi), [[もと]] (moto)
+}}
+
+====Compounds====
+* [[初雪]] ([[はつゆき]], [[hatsuyuki]]) the first snow
+* [[初心]] ([[しょしん]], [[shoshin]]) original intention
+* [[初心者]] ([[しょしんしゃ]], [[shoshinsha]]) beginner
+* [[最初]] ([[さいしょ]], [[saisho]]) first
+* [[初速度]] ([[しょそくど]], [[shosokudo]]) initial velocity
+* [[初夏]] ([[しょか]], [[shoka]]) the beginning of summer
+* [[初春]] ([[しょしゅん]], [[shoshun]]) the beginning of spring
+* [[初秋]] ([[しょしゅう]], [[shoshū]]) the beginning of autumn
+* [[初冬]] ([[しょとう]], [[shotō]]) the beginning of winter
+* [[初誕生]] ([[はつたんじょう]], [[hatsutanjō]]) first birthday
 
 ===Etymology 1===
+From {{etyl|ojp|ja|sort=うい}}.
+
 upi > uɸi > uwi > ui.
 
 ====Noun====
 {{ja-noun|k|hira=うい|hhira=うひ|rom=ui}}
+
 # the first; a start
 
 ====Prefix====
@@ -37,6 +63,7 @@ upi > uɸi > uwi > ui.
 # first
 
 ===Etymology 2===
+From {{etyl|ojp|ja|sort=はつ}}.
 
 patu > ɸatu > hatu
 
@@ -51,25 +78,7 @@ patu > ɸatu > hatu
 # first
 
 ===Etymology 3===
-
-====Kanji====
-{{ja-kanji|grade=4|rs=刀05}}
-
-=====Readings=====
-* {{ja-readings|on=[[しょ]] (sho), [[そ]] (so)|kun=[[はじめ]] (hajime), [[はつ]] (hatsu), [[うい]] (ui)}}
-
-=====Compounds=====
-* [[初めて]] ([[はじめて]], [[hajimete]]) for the first time
-* [[初雪]] ([[はつゆき]], [[hatsuyuki]]) the first snow
-* [[初心]] ([[しょしん]], [[shoshin]]) original intention
-* [[初心者]] ([[しょしんしゃ]], [[shoshinsha]]) beginner
-* [[最初]] ([[さいしょ]], [[saisho]]) first
-* [[初速度]] ([[しょそくど]], [[shosokudo]]) initial velocity
-* [[初夏]] ([[しょか]], [[shoka]]) the beginning of summer
-* [[初春]] ([[しょしゅん]], [[shoshun]]) the beginning of spring
-* [[初秋]] ([[しょしゅう]], [[shoshū]]) the beginning of autumn
-* [[初冬]] ([[しょとう]], [[shotō]]) the beginning of winter
-* [[初誕生]] ([[はつたんじょう]], [[hatsutanjō]]) first birthday
+From {{term|lang=ja|始め|tr=hajime||beginning, first}}.
 
 ====Proper noun====
 {{ja-pos|k|proper|hira=はじめ|rom=Hajime}}
