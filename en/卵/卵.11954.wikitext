@@ -32,37 +32,42 @@
 
 ==Japanese==
 
-===Pronunciation===
-* {{IPA|/tamago/|lang=ja}}
+===Kanji===
+{{ja-kanji|grade=6|rs=卩05}}
+
+# an [[egg]]
+
+====Readings====
+{{ja-readings
+|on=[[らん]] (ran), [[こん]] (kon)
+|kun=[[たまご]] (tamago)
+}}
+
+====Compounds====
+* {{l|ja|卵黄|tr=[[らんおう]], ''[[ran'ō]]''}}: [[yolk]]
+* {{l|ja|卵殻|tr=[[らんかく]], ''[[rankaku]]''}}: [[eggshell]]
+* {{l|ja|卵子|tr=[[らんし]], ''[[ranshi]]''}}: [[ovum]]
+* {{l|ja|卵生|tr=[[らんせい]], ''[[ransei]]''}}: [[oviparity]]
+* {{l|ja|卵巣|tr=[[らんそう]], ''[[ransō]]''}}: [[ovary]]
+* {{l|ja|卵白|tr=[[らんぱく]], ''[[ranpaku]]''}}: [[albumen]]
+* {{l|ja|卵焼}}, {{l|ja|卵焼き|tr=[[たまごやき]], ''[[tamagoyaki]]''}}: [[omelet]], [[fried eggs]]
 
 ===Etymology===
 From {{term|lang=ja|玉||tr=tama|ball}} + {{term|lang=ja|子||tr=ko|child}}.  The final ''ko'' voices to ''go'' due to {{rendaku}}.
-* see [[玉子]]
+
+===Pronunciation===
+* {{IPA|/tamago/|lang=ja}}
 
 ===Noun===
 {{ja-noun|k|hira=たまご|rom=tamago}}
 
 # an [[egg]]
 
-===Kanji===
-{{ja-kanji|grade=6|rs=卩05}}
+===Alternative forms===
+* {{l|ja|玉子}}
 
-# {{defn|lang=ja|sort=卩05}}
-
-====Readings====
-* {{ja-readings|on=[[らん]] (ran), [[こん]] (kon)|kun=[[たまご]] (tamago)}}
-
-====Compounds====
-* [[卵黄]] ([[らんおう]], [[ran'ō]]): [[yolk]]
-* [[卵殻]] ([[らんかく]], [[rankaku]]): [[eggshell]]
-* [[卵子]] ([[らんし]], [[ranshi]]): [[ovum]]
-* [[卵生]] ([[らんせい]], [[ransei]]): [[oviparity]]
-* [[卵巣]] ([[らんそう]], [[ransō]]): [[ovary]]
-* [[卵白]] ([[らんぱく]], [[ranpaku]]): [[albumen]]
-* [[卵焼]], [[卵焼き]] ([[たまごやき]], [[tamagoyaki]]): [[omelet]], [[fried eggs]]
-
-[[Category:ja:Eggs|*]]
-[[Category:ja:Foods|けいらん]]
+[[Category:ja:Eggs|たまご]]
+[[Category:ja:Foods|たまご]]
 
 ----
 
