@@ -2,10 +2,10 @@
 ==English==
 
 ===Etymology===
-From {{etyl|ja|en}} {{term|さん||tr=san|lang=ja}}
+From {{etyl|ja|en|sort=san}} {{term|さん||tr=san|lang=ja}}
 
 ===Suffix===
-{{head|en|suffix|sort=san}}
+{{en-suffix|sort=san}}
 
 # [[honorific|Honorific]] ending used to indicate a person is Japanese or talking with Japanese, or treated like Japanese.
 #: TIME, August 1, 1983:
@@ -61,7 +61,7 @@ From {{etyl|ja|en}} {{term|さん||tr=san|lang=ja}}
 ==Japanese==
 
 ===Etymology 1===
-From ''[[-sama]]'' ([[様#Japanese|様]])
+From {{term|様|tr=sama|lang=ja}}.
 
 ====Suffix====
 {{ja-pos|r|suffix|hira=さん}}
