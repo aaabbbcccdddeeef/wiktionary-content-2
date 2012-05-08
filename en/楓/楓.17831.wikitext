@@ -23,21 +23,94 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=木09}}
+{{ja-kanji|grade=c|rs=木09}}
+
+# [[maple]]
+# ''[[w:Liquidambar formosana|Liquidambar formosana]]'', Chinese [[sweetgum]] [[tree]], Formosan sweetgum tree
 
 ====Readings====
-* {{ja-readings|on=[[ふう]] (fū)|kun=[[かえで]] (kaede)}}
+{{ja-readings
+|kanon=[[ふう]] (fū)
+|kun=[[かえで]] (kaede), [[かいで]] (kaide), [[かつら]] (katsura), [[おかつら]] (okatsura)
+}}
 
-===Noun===
-{{ja-noun|k|hira=かえで|rom=kaede}} 
+====Compounds====
+* {{l|ja|楓蚕|tr=[[ふうさん]], ''[[fūsan]]''}}: alternate for {{term|lang=ja|天蚕蛾|tr=tegusuga||Japanese silkworm moth, ''Antheraea yamamai''}}
+* {{l|ja|風樹|tr=[[ふうじゅ]], ''[[fūju]]''}}: the Formosan gum tree; the maple
+* {{l|ja|楓科|tr=[[かえでか]], ''[[kaedeka]]''}}: the maple family, ''[[Aceraceae]]''
+* {{l|ja|楓紅葉|tr=[[かえでもみじ]], ''[[kaede momiji]]''}}: maple leaves that have turned red in autumn; a style of layered clothing with light yellow-green on the outside and yellow or orange-red on the inside
+* {{l|ja|楓棚|tr=[[かえでだな]], ''[[kaededana]]''}}: a type of shelf in a ''[[tokonoma]]'' or study, with four legs and eight shelves
+* {{l|ja|楓鳥}}, {{l|ja|カエデチョウ|tr=[[かえでちょう]], ''[[kaedechō]]''}}: the [[w:Black-rumped Waxbill|black-rumped waxbill]], a type of [[w:Estrildid_finch|estrildid finch]] common in Africa and introduced to Japan in the 1960s
+* {{l|ja|楓鳥科}}, {{l|ja|カエデチョウ科|tr=[[かえでちょうか]], ''[[kaedechōka]]''}}: [[genus]] ''[[Estrilda]]''
+* {{l|ja|楓糖|tr=[[ふうとう]], ''[[fūtō]]''}}: [[maple syrup]]
+* {{l|ja|楓葉|tr=[[ふうよう]], ''[[fūyō]]''}}: maple leaves that have turned red in autumn
 
-# [[maple]] tree
+[[File:Acer_palmatum_002.JPG|thumb|250px|{{Jpan|楓（カエデ）の[[葉っぱ]]と[[実#Japanese|実]]}}]]
+===Etymology 1===
+Originally a compound of {{compound|lang=ja|sort=かえで|蛙|tr1=kaeru|t1=frog|手|tr2=te|t2=hand}}, with the ''te'' changing to ''de'' due to {{rendaku}}, and the ''ru'' dropping out over time.  From the way the [[palmate]] leaves resemble a frog's foot.  
 
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/kaede/}}
+
+====Noun====
+{{ja-noun|k|hira=かえで|rom=kaede|hhira=kahede}} 
+
+# the [[maple]] tree
+
+=====Derived terms=====
+* {{l|ja|楓の木}}, {{l|ja|楓の樹|tr=[[かえでのき]], ''[[kaede no ki]]''}}: a maple [[tree]]
+* {{l|ja|楓の間|tr=[[かえでのま]], ''[[Kaede no Ma]]''}}: the Maple Room, one of the [[shogun]] [[sitting room]]s in Edo Castle
+
+===Etymology 2===
+Shift in pronunciation of ''kaede''.
+
+====Noun====
+{{ja-noun|k|hira=かいで|rom=kaide}} 
+
+# alternate reading for ''kaede'': the [[maple]] tree
+
+[[File:Cercidiphyllum_japonicum2.jpg|thumb|250px|{{Jpan|楓（カツラ）の[[葉っぱ]]と[[実#Japanese|実]]}}]]
+===Etymology 3===
+From {{etyl|ojp|ja|sort=かつら}}.  Less common spelling for {{l|ja|桂|tr=''katsura''}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/katsuɽa/}}
+
+====Noun====
+{{ja-noun|k|hira=かつら|rom=katsura}} 
+
+# the [[katsura]] tree, ''[[w:Cercidiphyllum japonicum|Cercidiphyllum japonicum]]''
+
+===Etymology 4===
+From {{etyl|ojp|ja|sort=おかつら}}.  Less common spelling for {{l|ja|男桂|tr=''okatsura''}}, an archaic name for the katsura tree.
+
+====Noun====
+{{ja-noun|k|hira=おかつら|rom=okatsura|hhira=をかつら}} 
+
+# the [[katsura]] tree, ''[[w:Cercidiphyllum japonicum|Cercidiphyllum japonicum]]''
+
+[[File:Liquidambar_formosana_02.jpg|thumb|250px|{{Jpan|楓（フウ）の[[葉っぱ]]と[[実#Japanese|実]]}}]]
+===Etymology 5===
+From {{etyl|zho|ja|sort=ふう}} {{term|sc=Hani|楓}}.
+
+====Pronunciation====
+* [[漢音#Japanese|Kan'on]]
+* {{IPA|lang=ja|/ɸuː/}}
+
+====Noun====
 {{ja-noun|k|hira=ふう|rom=fū}}
 
-# {{ja-def|フウ}} [[Formosa Sweetgum]], ''Liquidambar formosana''
+# {{ja-def|フウ}} the [[Formosan]] [[sweetgum]] [[tree]], ''[[w:Liquidambar formosana|Liquidambar formosana]]''
+# in certain kanji compounds, the [[maple]] tree
 
-[[Category:ja:Trees|ふう]] 
+=====Idioms=====
+* {{l|ja|楓呉江に落つ|tr=[[ふうごこうにおつ]], ''[[fū gokō ni otsu]]''}}: "the ''fū'' leaves falling in Wujiang" → being disappointed in the reality of something after having lofty ideas about it; from a story in the [[w:New Book of Tang|New Book of Tang]] about an inspiring poem from an otherwise uninspiring poet
+* {{l|ja|楓葉衰えて盧橘花開く|tr=[[ふうようおとろえてろきつはなひらく]], ''[[fūyō otoroete rokitsu hana hiraku]]''}}: "the red sweetgum/maple leaves fade, and the kumquat flowers open" → a metaphor for the turning of the seasons
+
+[[Category:ja:Trees|ふう]]
+[[Category:ja:Trees|かえで]]
 
 ----
 
