@@ -22,57 +22,25 @@
 
 ==Japanese==
 
-===Noun===
-'''内''' ([[うち]], [[uchi]])
-
-# [[inside]]
-# [[while]], [[during]]
-#* [[若い]]'''内'''に[[世界]]を[[旅行する|旅行した]]方がいい。
-#*: [[わかい]]'''うち'''に[[せかい]]を[[りょこうする|りょこうした]]ほうがいい。
-#*: ''[[wakai|Wakai]] '''uchi''' ni [[sekai]] o [[ryokōsuru|ryokōshita]] hō ga ii.''
-#*:: You should [[travel]] the [[world]] '''while''' you're [[young]].
-# one's own, [[my]], [[our]]
-#* '''内'''の[[会社]]
-#*: '''うち'''の[[かいしゃ]]
-#*:'''''Uchi''' no [[kaisha]].''
-#*:: '''Our''' company
-
-====Derived terms====
-* [[その内]]
-* [[手の内]]
-* [[松の内]]
-* [[此の内]]
-* [[内ゲバ]]
-* [[経たぬ内に]]
-* [[内ポケット]]
-* [[内衣し]], [[内隠し]]
-* [[内回り]]
-* [[内開き]]
-* [[内借り]]
-* [[内貸し]]
-* [[内張り]]
-* [[内渡し]]
-* [[内払い]]
-
-===Pronoun===
-{{ja-pos|k|pronoun|hira=うち|rom=uchi}}
-
-# {{Kansai|skey=うち}} [[I]], [[me]] {{qualifier|used by women}}
-
-====Usage notes====
-In Kansai, the equivalent of male [[俺]], used casually by adult women.
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=冂02}}
 
 ====Readings====
-* {{ja-readings|on=[[だい]] ([[dai]]), [[ない]] ([[nai]])|kun=[[うち]] ([[uchi]]), [[いる]] ([[iru]]), [[いれる]] ([[ireru]])}}
+{{ja-readings
+|goon=[[ない]] ([[nai#Japanese|nai]])
+|kanon=[[だい]] ([[dai#Japanese|dai]])
+|kun=[[うち]] ([[uchi#Japanese|uchi]])
+|nanori=[[いと]] (ito), [[ただ]] (tada), [[ち]] (chi), [[のち]] (nochi)
+}}
+
+====Antonyms====
+* {{l|ja|外}}
 
 ====Compounds====
-{{top4}}
-* {{l|ja|内骨格}} ({{l|ja|ないこっかく}}, ''[[naikokkaku]]''): an [[endoskeleton]]
-* {{l|ja|内形}} ({{l|ja|ないけい}}, ''[[naikei]]''): [[inner]] [[shape]]/[[form]]
-* {{l|ja|内祖母}} ({{l|ja|ないそぼ}}, ''[[naisobo]]''): (rare) [[paternal grandmother]], [[father]]'s mother
+{{der-top|Compounds}}
+* {{l|ja|内骨格|tr=[[ないこっかく]], ''[[naikokkaku]]''}}: an [[endoskeleton]]
+* {{l|ja|内形|tr=[[ないけい]], ''[[naikei]]''}}: [[inner]] [[shape]]/[[form]]
+* {{l|ja|内祖母|tr=[[ないそぼ]], ''[[naisobo]]''}}: {{qualifier|rare}} [[paternal grandmother]], [[father]]'s [[mother]]
 * [[案内]]
 * [[域内]]
 * [[以内]]
@@ -131,7 +99,6 @@ In Kansai, the equivalent of male [[俺]], used casually by adult women.
 * [[表内]]
 * [[鼻内]]
 * [[部内]]
-{{mid4}}
 * [[幕内]]
 * [[身内]]
 * [[洛内]]
@@ -190,7 +157,7 @@ In Kansai, the equivalent of male [[俺]], used casually by adult women.
 * [[内国]]
 * [[内沙汰]]
 * [[内債]]
-{{mid4}}
+{{der-mid}}
 * [[内妻]]
 * [[内済]]
 * [[内在]]
@@ -249,7 +216,6 @@ In Kansai, the equivalent of male [[俺]], used casually by adult women.
 * [[内談]]
 * [[内地]]
 * [[内池]]
-{{mid4}}
 * [[内着]]
 * [[内中]]
 * [[内通]]
@@ -311,10 +277,53 @@ In Kansai, the equivalent of male [[俺]], used casually by adult women.
 * [[内踝]]
 {{bottom}}
 
-====Antonyms====
-* {{l|ja|外}}
+===Etymology===
+From {{etyl|ojp|ja|sort=うち}}.
 
-[[Category:Japanese nouns|うち]]
+===Pronunciation 1===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ɯ˩.tɕi˥/}}
+
+====Noun====
+{{ja-noun|k|hira=うち|rom=uchi}}
+
+# [[inside]], [[within]] {{qualifier|physical location}}
+# [[between]], [[among]]
+# [[while]], [[during]], inside or within a span of [[time]]
+#* {{usex|lang=ja|[[若い]]'''内'''に[[世界]]を[[旅行]][[する|した]][[方#Japanese|方]]が[[いい]]。|tr=[[わかい]]'''うち'''に[[せかい]]を[[りょこう]][[する|した]][[ほう]]が[[いい]]。<br
+/>''[[wakai#Japanese|Wakai]] '''uchi''' ni [[sekai#Japanese|sekai]] o [[ryokō#Japanese|ryokō]] [[suru#Japanese|shita]] [[hō#Japanese|hō]] ga [[ii#Japanese|ii]].''|t=You should [[travel]] the [[world]] '''while''' you're [[young]].}}
+# one's own, [[my]], [[our]]
+#* {{usex|lang=ja|'''内'''の[[会社#Japanese|会社]]|tr='''うち'''の[[かいしゃ]]<br/>'''''uchi''' no [[kaisha#Japanese|kaisha]]''|t='''our''' company}}
+
+=====Derived terms=====
+{{der-top}}
+* {{l|ja|その内|tr=[[そのうち]], ''[[sono uchi]]''}}
+* {{l|ja|手の内|tr=[[てのうち]], ''[[te no uchi]]''}}
+* {{l|ja|松の内|tr=[[まつのうち]], ''[[matsu no uchi]]''}}
+* {{l|ja|此の内}}, {{l|ja|この内|tr=[[このうち]], ''[[kono uchi]]''}}
+* {{l|ja|内ゲバ|tr=[[うちゲバ]], ''[[uchi geba]]''}}
+* {{l|ja|内ポケット|tr=[[うちポケット]], ''[[uchi poketto]]''}}
+* {{l|ja|内衣し'}}, {{l|ja|内隠し|tr=[[うちかくし]], ''[[uchikakushi]]''}}
+* {{l|ja|内回り|tr=[[うちまわり]], ''[[uchi mawari]]''}}
+* {{l|ja|内開き|tr=[[うちびらき]], ''[[uchibiraki]]''}}
+* {{l|ja|内借り|tr=[[うちがり]], ''[[uchigari]]''}}
+* {{l|ja|内貸し|tr=[[うちがし]], ''[[uchigashi]]''}}
+* {{l|ja|内張り|tr=[[うちばり]], ''[[uchibari]]''}}
+* {{l|ja|内渡し|tr=[[うちわたし]], ''[[uchi watashi]]''}}
+* {{l|ja|内払い|tr=[[うちばらい]], ''[[uchibarai]]''}}
+{{bottom}}
+
+===Pronunciation 2===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ɯ˥.tɕi˩/}}
+
+====Pronoun====
+{{ja-pos|k|pronoun|hira=うち|rom=uchi}}
+
+# {{context|lang=ja|sort=うち|Kansai}} [[I]], [[me]] {{qualifier|used by women}}
+
+=====Usage notes=====
+In Kansai, the equivalent of male {{l|ja|俺|tr=''ore''}}, used casually by adult women.
 
 ----
 
