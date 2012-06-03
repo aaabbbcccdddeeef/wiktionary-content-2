@@ -24,23 +24,16 @@ Composed of [[犬]] (radical [[animal]]) and [[瓜]], suggesting [[孤]] ([[soli
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=きつね|kata=キツネ|rom=kitsune}}
-
-# [[fox]]
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
-#*: 狐狼 上扈反, 倭言'''岐都禰''', 又狐諼獸鬼所乘有三徳, 狐疑不定也, 狼音良, 訓, 似犬也, 倭言大神也
-
 ===Kanji===
-{{ja-kanji|rs=犬05|grade=}}
+{{ja-kanji|rs=犬05|grade=uc}}
 
-# a [[fox]].
+# a [[fox]]
 
 ====Readings====
-* {{ja-readings|on={{l|ja|こ}} (ko)|kun={{l|ja|きつね}} (kitsune)}}
-
-====Synonyms====
-* {{l|ja|フォックス}} (''[[fokkusu]]'')
+{{ja-readings
+|kanon=[[こ]] (ko)
+|kun=[[きつね]] (kitsune)
+}}
 
 ====Compounds====
 * {{l|ja|妖狐|tr=[[ようこ]], ''[[yōko]]''}}: a [[demon]] [[fox]] (a [[kitsune]])
@@ -48,6 +41,16 @@ Composed of [[犬]] (radical [[animal]]) and [[瓜]], suggesting [[孤]] ([[soli
 * {{l|ja|善狐|tr=[[ぜんこ]], ''[[zenko]]''}}: a [[good]] [[fox]]
 * {{l|ja|野狐|tr=[[やこう]], ''[[yakō]]''; [[のぎつね]], ''[[nogitsune]]''}}: [[field]] or [[wild]] foxes
 * {{l|ja|狐火|tr=[[きつねひ]], ''[[kitsunebi]]''}}: [[will o' the wisp]], [[foxfire]]
+
+===Noun===
+{{ja-noun|k|hira=きつね|kata=キツネ|rom=kitsune}}
+
+# a [[fox]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 狐狼 上扈反, 倭言'''岐都禰''', 又狐諼獸鬼所乘有三徳, 狐疑不定也, 狼音良, 訓, 似犬也, 倭言大神也
+
+====Synonyms====
+* {{l|ja|フォックス|tr=''[[fokkusu]]''}}
 
 ====Derived terms====
 * {{l|ja|狐憑き}} or {{l|ja|狐付き|tr=[[きつねつくき]], ''[[kitsunetsuki]]''}}: possession by a [[kitsune]]
