@@ -36,23 +36,52 @@ The character shows the rays of the sun, with the lower lines squared and balanc
 {{ja-kanji|grade=2|rs=儿04}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[ひかる]] (hikaru), [[ひかり]] (hikari)|nanori=[[みつ]] (mitsu)}}
+{{ja-readings
+|on=[[こう]] (kō), {{qualifier|historical}} [[くゎう]] (kwau)
+|kun={{l|ja|光る|tr=[[ひかる]], hikaru}}; {{l|ja|光}}, {{l|ja|光り|tr=[[ひかり]], hikari}}
+|nanori=[[あき]] (aki), [[あきら]] (akira),  [[こう]] (kō), [[てる]] (teru),  [[ひこ]] (hiko), [[み]] (mi), [[みつ]] (mitsu)
+}}
+
+====Compounds====
+{{der-top|Compouns}}
+* {{l|ja|光カード|tr=[[ひかりカード]], ''[[hikari kādo]]''}}: an [[optical]] [[card]]
+* {{l|ja|光コンピュータ|tr=[[ひかりコンピュータ]], ''[[hikari konpyūta]]''}}: an [[optical]] [[computer]]
+* {{l|ja|光ディスク|tr=[[ひかりディスク]], ''[[hikari disuku]]''}}: an [[optical]] [[disc]]
+* {{l|ja|光物}}, {{l|ja|光り物|tr=[[ひかりもの]], ''[[hikarimono]]''}}: something that [[shine]]s: a [[star]], an [[apparition]], the [[moon]], a [[metal]], a [[mackerel]], etc.
+* {{l|ja|光通信|tr=[[ひかりつうしん]], ''[[hikari tsūshin]]''}}: [[optical]] [[communication]]
+* {{l|ja|光通信ケーブル|tr=[[ひかりつうしんケーブル]], ''[[hikari tsūshin kēburu]]''}}: [[optical]] [[communication]] [[cable]], [[fiberoptic]] [[cable]]
+* {{l|ja|光ファイバー|tr=[[ひかりファイバー]], ''[[hikari faibā]]''}}: [[optical]] [[fiber]]
+* {{l|ja|光伝道度|tr=[[ひかりでんどうど]], ''[[hikari dendōdo]]''}}: [[photoconductivity]]
+* {{l|ja|光分解|tr=[[ひかりぶんかい]], ''[[hikari bunkai]]''}}: [[optical]] [[degradation]], [[photodegredation]]
+{{bottom}}
+
+===Etymology===
+Stem noun form of verb {{term|lang=ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[çika̠ɽi]}}
 
 ===Noun===
 {{ja-noun|k|hira=ひかり|rom=hikari}}
 
-# [[light]]
+# a [[physically]] [[perceived]] [[light]]: a [[light]], a [[gleam]], [[shining]], [[glittering]]
+#* {{usex|lang=ja|ダイヤモンドの'''光'''|tr=ダイヤモンドの'''ひかり'''<br/>''daiyamondo no '''hikari'''''|t=a diamond's '''glitter''' / '''shine''' / '''twinkling'''}}
+# a [[metaphorical]] light: [[glory]], a [[glimmer]], a [[gleam]]
+#* {{usex|lang=ja|前途に'''光'''を失う|tr=ぜんとに'''ひかり'''をうしなう<br/>''zento ni '''hikari''' o ushinau''|t=to lose '''light''' regarding the future → future prospects grow dim}}
+#* {{usex|lang=ja|解決への道に'''光'''を投げかける|tr=かいけつへのみちに'''ひかり'''をなげかける<br/>''kaiketsu e no michi ni '''hikari''' o nagekakeru''|t=to shed '''light''' on the way to a solution}}
+
+====Alternative forms====
+* {{l|ja|光り}}
 
 ===Proper noun===
 {{ja-pos|k|proper|hira=ひかる|rom=Hikaru}}
 
-# {{given name|male|lang=ja}}
+# {{given name|male|lang=ja|sort=ひかる}}
 
 {{ja-pos|k|proper|hira=こう|rom=Kō}}
 
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|ひかる]]
+# {{given name|male|lang=ja|sort=こう}}
 
 ----
 
