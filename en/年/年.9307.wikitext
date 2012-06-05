@@ -34,7 +34,11 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 {{ja-kanji|grade=1|rs=干03}}
 
 ====Readings====
-* {{ja-readings|on=[[ねん]] ([[nen]]), [[でん]] ([[den]])|kun=[[とし]] ([[toshi]]), [[ね]] ([[ne]])}}
+{{ja-readings
+|goon=[[ねん]] ([[nen]])
+|kanon=[[でん]] ([[den]])
+|kun=[[とし]] ([[toshi]]), [[とせ]] ([[tose]])
+}}
 
 ====Compounds====
 {{top2}}
@@ -55,38 +59,51 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 * [[来年]] ([[らいねん]], ''[[rainen]]''): [[next]] [[year]]
 {{bottom}}
 
-====Pronunciation====
-* {{IPA|[nen]|lang=ja}}
+===Etymology 1===
+From {{etyl|zho|ja|sort=ねん}} {{term|sc=Hani|年}}.
 
-===Counter===
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[ne̞ɴ]}}
+
+====Counter====
 {{ja-pos|k|counter|hira=ねん|rom=-nen}}
+
 # [[year]]s
 
-===Suffix===
+====Suffix====
 {{ja-pos|k|suffix|hira=ねん|rom=-nen}}
 
 # a [[grade]], a school year
-#: {{usex|[[彼]]は[[中学]]２'''年'''[[だ]]。|tr=かれはちゅうがくに'''ねん'''だ。<br/>''kare wa chūgaku ni '''nen''' da.''|t=He's in the second '''grade''' in junior high school.|lang=ja}}
+#: {{usex|lang=ja|[[彼]]は[[中学]]２'''年'''[[だ]]。|tr=かれはちゅうがくに'''ねん'''だ。<br/>''kare wa chūgaku ni '''nen''' da.''|t=He's in the second '''grade''' in junior high school.}}
 # a [[year]]
-#: {{usex|２００８'''年'''に[[橋]]を建設し始めるようだ。|tr=にせんはち'''ねん'''にはしをけんせつしはじめるようだ。<br/>''ni sen hachi '''nen''' ni hashi o kensetsushi hajimeru yōda.''|t=They seem to be going to start constructing the bridge in (the '''year''') 2008.|lang=ja}}
+#: {{usex|lang=ja|２００８'''年'''に[[橋]]を建設し始めるようだ。|tr=にせんはち'''ねん'''にはしをけんせつしはじめるようだ。<br/>''ni sen hachi '''nen''' ni hashi o kensetsushi hajimeru yōda.''|t=They seem to be going to start constructing the bridge in (the '''year''') 2008.}}
 
-===Etymology 1===
-/to<sub>2</sub>si/ > /tosi/.
+===Etymology 2===
+<span class="IPA">/to<sub>2</sub>si/ > /tosi/</span>
+
+From {{etyl|ojp|ja|sort=とし}}.  Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].
 
 ====Pronunciation====
-* {{IPA|[toɕi]|lang=ja}}
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[to̞ɕi]}}
 
 ====Noun====
 {{ja-noun|k|hira=とし|rom=toshi}}
 
+# {{context|lang=ja|sort=とし|obsolete}} [[grain]], particularly [[rice]]
+# {{context|lang=ja|sort=とし|obsolete}} a grain [[harvest]], a grain [[crop]]
 # a [[year]]
 # [[age]]
 
-===Etymology 2===
-/to<sub>2</sub>se/ > /tose/.
+===Etymology 3===
+<span class="IPA">/to<sub>2</sub>se/ > /tose/</span>
+
+From {{etyl|ojp|ja|sort=とし}}.  Likely a shift in pronunciation from ''toshi''.
 
 ====Pronunciation====
-* {{IPA|[tose]|lang=ja}}
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[to̞se̞]}}
 
 ====Suffix====
 {{ja-pos|k|suffix|hira=とせ|rom=-tose}}
