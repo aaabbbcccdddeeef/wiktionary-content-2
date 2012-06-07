@@ -29,46 +29,20 @@ This character is often interpreted as “wine”. However, it is commonly appli
 
 ==Japanese==
 
-===Etymology 1===
-/sake<sub>2</sub>/: sakəj > sake. From earlier non-bound apophonic form {{term|酒|saka}}.
-
-====Noun====
-{{ja-noun|k|hira=さけ|rom=sake}}
-
-# [[alcohol|Alcoholic]] [[beverage]] (e.g., [[wine]], [[whisky]], or [[sake]])
-# [[sake]], [[Saké]], Japanese rice wine
-
-=====Derived terms=====
-* [[お酒]] (osake)
-
-===Etymology 2===
-Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu Kanazukai|Jōdai Tokushu Kanazukai]]).
-
-====Noun====
-{{ja-noun|k|hira=き|rom=ki}}
-
-# [[sake]]
-#* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
-#*: 許能美'''岐'''波和賀美'''岐'''那良受久志能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美'''岐'''叙阿佐受袁勢佐佐
-
-====Noun====
-{{ja-noun|k|hira=くし|rom=kushi}}
-
-# sake
-#* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
-#*: 許能美岐波和賀美岐那良受'''久志'''能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美岐叙阿佐受袁勢佐佐
-
-=====Derived terms=====
-* [[笑酒]] (egushi)
-
 ====Kanji====
 {{ja-kanji|grade=3|rs=酉03}}
 
+# [[rice]] [[wine]]; [[alcohol]]
+
 =====Readings=====
-* {{ja-readings|on=[[しゅ]] (shu)|kun=[[さけ]] (sake)}}
+{{ja-readings
+|goon=[[しゅ]] (shu)
+|kun=[[さけ]] (sake), {{qualifier|in compounds}} [[さか]] (saka), [[き]] (ki), [[くし]] (kushi)
+|nanori=[[き]] (ki), [[さ]] (sa), [[し]] (shi), [[み]] (mi)
+}}
 
 =====Compounds=====
-{{top2}}
+{{der-top|Compounds}}
 * [[赤葡萄酒]] ([[あかぶどうしゅ]], [[akabudōshu]])→[[赤ワイン]]
 * [[悪酒]] ([[あくしゅ]], [[akushu]] or [[わるざけ]], [[waruzake]])
 * [[朝酒]] ([[あさざけ]], [[asazake]]) drinking in the morning
@@ -144,7 +118,7 @@ Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu
 * [[酒徒]] ([[しゅと]], [[shuto]])
 * [[酒毒]] ([[しゅどく]], [[shudoku]])
 * [[酒杯]] ([[しゅはい]], [[shuhai]])
-{{mid2}}
+{{mid}}
 * [[酒販]] ([[しゅはん]], [[shuhan]]) liquor retailing
 * [[酒癖]] ([[しゅへき]], [[shuheki]]) drinking habit
 * [[酒保]] ([[しゅほ]], [[shuho]])
@@ -217,8 +191,40 @@ Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu
 * [[三鞭酒]] ([[シャンパン]], [[shampan]]) champagne
 {{bottom}}
 
+===Etymology 1===
+/sake<sub>2</sub>/: sakəj > sake. From earlier non-bound apophonic form {{term|酒|saka}}.
+
+====Noun====
+{{ja-noun|k|hira=さけ|rom=sake}}
+
+# [[alcohol|Alcoholic]] [[beverage]] (e.g., [[wine]], [[whisky]], or [[sake]])
+# [[sake]], [[Saké]], Japanese rice wine
+
+=====Derived terms=====
+* [[お酒]] (osake)
+
+===Etymology 2===
+Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu Kanazukai|Jōdai Tokushu Kanazukai]]).
+
+====Noun====
+{{ja-noun|k|hira=き|rom=ki}}
+
+# [[sake]]
+#* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
+#*: 許能美'''岐'''波和賀美'''岐'''那良受久志能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美'''岐'''叙阿佐受袁勢佐佐
+
+====Noun====
+{{ja-noun|k|hira=くし|rom=kushi}}
+
+# sake
+#* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
+#*: 許能美岐波和賀美岐那良受'''久志'''能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美岐叙阿佐受袁勢佐佐
+
+=====Derived terms=====
+* [[笑酒]] (egushi)
+
 ===See also===
-{{top2}}
+{{der-top|See also}}
 * [[愛飲者]] (あいいんしゃ, aiinsha)
 * [[後引き上戸]] (あとひきじょうご, atohikijōgo)
 * [[泡盛]] (awamori)
@@ -230,7 +236,7 @@ Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu
 * [[焼酎]] (shōchū)
 * [[猩々]] (しょうじょう, shōjō)
 * [[上戸]] (じょうご, jōgo)
-{{mid2}}
+{{mid}}
 * [[泣き上戸]] (なきじょうご, nakijōgo)
 * [[飲み助]] [[呑み助]] (のみすけ, nomisuke)
 * [[飲み手]] (のみて, nomite)
