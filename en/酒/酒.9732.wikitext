@@ -193,18 +193,6 @@ This character is often interpreted as “wine”. However, it is commonly appli
 {{bottom}}
 
 ===Etymology 1===
-/sake<sub>2</sub>/: sakəj > sake. From earlier non-bound apophonic form {{term|酒|saka}}.
-
-====Noun====
-{{ja-noun|k|hira=さけ|rom=sake}}
-
-# [[alcohol|Alcoholic]] [[beverage]] (e.g., [[wine]], [[whisky]], or [[sake]])
-# [[sake]], [[Saké]], Japanese rice wine
-
-=====Derived terms=====
-* [[お酒]] (osake)
-
-===Etymology 2===
 Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu Kanazukai|Jōdai Tokushu Kanazukai]]).
 
 ====Noun====
@@ -214,15 +202,50 @@ Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu
 #* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
 #*: 許能美'''岐'''波和賀美'''岐'''那良受久志能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美'''岐'''叙阿佐受袁勢佐佐
 
+===Etymology 2===
+Cognate with obsolete {{term|lang=ja|奇し|tr=kushi||strange, wondrous, miraculous}}, which is also the root for {{term|lang=ja|薬|tr=kusuri||medicine}}.<ref name="Shogakukan">{{reference-book | title = Kokugo Dai Jiten Dictionary | year = 1988 | edition = Revised edition | publisher = Shogakukan | location = Tokyo | language = Japanese | quote =（「奇（く）し」で、霊妙なものの意からか）酒の異称 }}</ref><ref name="Allguide">{{cite web | year = 2003 | url = http://gogen-allguide.com/sa/sake.html | title = 酒 | publisher = Lookvise, Inc. | language = Japanese | accessdate = 2012-06-07 }}</ref>
+
 ====Noun====
 {{ja-noun|k|hira=くし|rom=kushi}}
 
-# sake
+# sake, rice wine
 #* 720: [[w:Nihon Shoki|Nihon Shoki]], volume 32 (Kodai Kayōshū, page 61)
 #*: 許能美岐波和賀美岐那良受'''久志'''能加美登許余迩伊麻須伊波多多須須久那美迦微能加牟菩岐本岐玖流本斯登余本岐本岐母登本斯麻都理許斯美岐叙阿佐受袁勢佐佐
 
 =====Derived terms=====
-* [[笑酒]] (egushi)
+* {{l|ja|笑酒}}, {{l|ja|咲酒|tr=[[えぐし]], ''[[egushi]]''}}: rice wine or other alcohol that makes one smile and become happy
+
+===Etymology 3===
+/sake<sub>2</sub>/ [sakəj] > [sake]
+
+Various theories exist.  Possible connection with {{term|lang=ja|栄え|tr=sakae}}, the stem of verb {{term|lang=ja|栄える|tr=sakaeru||to thrive, to flourish}}.<ref name="Allguide"/><ref name="Heibonsha">{{reference-book | last = Sugama | first = Seinosuke | title = Heibonsha World Encyclopedia, "酒" article | year = 1988 | url = http://kotobank.jp/word/%E9%85%92 | accessdate = 2012-06-07 | publisher = Heibonsha | location = Tokyo | language = Japanese }}</ref>
+
+====Noun====
+{{ja-noun|k|hira=さけ|rom=sake}}
+
+# [[alcohol|Alcoholic]] [[beverage]] (e.g., [[wine]], [[whisky]], or [[sake]])
+# [[sake]], [[saké]], Japanese rice wine
+
+=====Derived terms=====
+* {{l|ja|お酒|tr=[[おさけ]], ''[[osake]]''}}: Japanese rice wine
+
+===Etymology 4===
+Bound form of /sake/, only used as a prefix before other nouns.  In older forms of Japanese, could also be used to prefix verbs.<ref name="Shogakukan"/><ref name="Daijisen">{{reference-book | editor = Akira Matsumura | title = Digital Daijirin | url = http://kotobank.jp/word/%E9%85%92 | accessdate = 2012-06-07 | year = 1998 | publisher = Shogakukan | location = Tokyo | language = Japanese | isbn = 4095012129 }}</ref>
+
+====Prefix====
+{{ja-pos|k|prefix|hira=さか|rom=saka}}
+
+# [[alcohol]]
+# [[sake]], [[saké]], Japanese rice wine
+
+===Etymology 5===
+Originally a {{term|lang=ja|女房詞|tr=nyōbōshi||women's word}}.  Possibly derived from [[reduplication]] of the first syllable ''sa'' from ''sake''.  Alternately, may be derived by metaphor from the Chinese-derived euphemism for ''sake'', {{term|lang=ja|竹葉|tr=chikuyō|pos=literally, "bamboo leaves"}}, as {{term|lang=ja|笹|tr=sasa}} refers to a type of short, leafy bamboo.<ref name="Daijirin">{{reference-book | editor = Akira Matsumura | title = Daijirin | url = http://kotobank.jp/word/%E9%85%92 | accessdate = 2012-06-07 | edition = 3rd edition | year = 2006 | publisher = Sanseido | location = Tokyo | language = Japanese | isbn = 4-385-13905-9 }}</ref>
+
+====Noun====
+{{ja-noun|k|hira=ささ|rom=sasa}}
+
+# [[alcohol]]
+# [[sake]], [[saké]], Japanese rice wine
 
 ===See also===
 {{der-top|See also}}
@@ -252,6 +275,7 @@ Originally /ki<small>1</small>/. Likely realized as [ki] (see [[w:Jōdai Tokushu
 {{bottom}}
 
 ===References===
+<references/>
 
 * {{reference-book
   | last = Tsuchihashi
