@@ -35,14 +35,23 @@
 ----
 
 ==Japanese==
+{{attention|ja|Missing readings / senses: おうな, おなご, おな, おなあ, じょ -- these should all have own etym sections.}}
+
 ===Kanji===
 {{ja-kanji|grade=1|rs=女00}}
 
 ====Readings====
-* {{ja-readings|on=[[じょ]] (jo), [[にょ]] (nyo), [[にょう]] (nyō)|kun=[[おんな]] (onna), [[め]] (me), [[むすめ]] (musume)}}
+{{ja-readings
+|goon=[[にょ]] (nyo)
+|kanon=[[じょ]] (jo)
+|kanyoon=[[にょう]] (nyō)
+|kun=[[おんな]] (onna), [[め]] (me)
+|nanori=[[おな]] (ona), [[た]] (ta), [[つき]] (tsuki), [[な]] (na)
+}}
 
 ====Compounds====
-{{top2}}
+{{attention|ja|Compounds need templating, formatting.}}
+{{der-top|Compounds}}
 * {{l|ja|彼女}} ({{l|ja|かのじょ}}, ''kanojo''): lit. "''[[she]], [[her]] etc''"
 * [[女郎花]] ([[おみなえし]], [[ominaeshi]]) [[patrinia]]
 * [[女親]] ([[おんなおや]], [[onnaoya]]) [[female]] [[parent]]
@@ -61,7 +70,7 @@
 * [[女史]] ([[じょし]], [[joshi]]) [[Ms]].
 * [[女中]] ([[じょちゅう]], [[jochuu]]) [[maid]]
 * [[処女]] ([[しょじょ]], [[shojo]]) [[virgin]], [[maiden]]
-{{mid2}}
+{{der-mid}}
 * [[女子]] ([[じょし]], [[joshi]]) [[girl]]
 * [[女児]] ([[じょじ]], [[joji]]) [[female infant]]
 * [[女性]] ([[じょせい]], [[josei]]) [[woman]]
@@ -82,16 +91,24 @@
 {{bottom}}
 
 ===Etymology 1===
-/womi<small>1</small>na/ > /womina/ > /omina/. The initial /wo/ expressed "small, youth" and contrasted with /o/ "grown, old" (as in [[嫗|omina]] "old woman"). The medial /m/ is cognate with {{term|女|me|female, woman}}.
+From {{etyl|ojp|ja|sort=おみな}}.  {{IPAchar|/womi<sub>1</sub>na/}} > {{IPAchar|/womina/}} > {{IPAchar|/omina/}}. The initial {{IPAchar|/wo/}} expressed "small, youth" and contrasted with {{IPAchar|/o/}} "grown, old" (as in {{term|lang=ja|嫗|tr=omina}} "old woman"). The medial {{IPAchar|/mi/}} is cognate with {{term|lang=ja|女|tr=me||female, woman}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[o̞.mi.nä]}}
 
 ====Noun====
 {{ja-noun|k|hira=おみな|hhira=をみな|rom=omina}}
 
-# young woman
+# a [[young]] [[woman]]
 # a woman
 
 ===Etymology 2===
-wonna > onna. From earlier /womina/. The initial /wo/ expressed "small, youth" and contrasted with /o/ "grown, old" (as in [[嫗|omina]] "old woman"). The medial /n/, from earlier /m/, is cognate with {{term|女|me|female, woman}}.
+From earlier {{IPAchar|/womina/}}: {{IPAchar|/womina/}} > {{IPAchar|/woɴna/}} > {{IPAchar|/oɴna/}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[õ̞.ɴ.nä]}}
 
 ====Noun====
 {{ja-noun|k|hira=おんな|hhira=をんな|rom=onna}}
@@ -99,18 +116,24 @@ wonna > onna. From earlier /womina/. The initial /wo/ expressed "small, youth" a
 # a [[woman]]
 
 ===Etymology 3===
-/me<small>1</small>/ > /me/.
+From {{etyl|ojp|ja|sort=め}}.  {{IPAchar|/me<sub>1</sub>/}} > {{IPAchar|/me/}}
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[me̞]}}
 
 ====Noun====
 {{ja-noun|k|hira=め|rom=me}}
 
-# female
-# woman
-# wife
+# [[female]]
+# [[woman]]
+# [[wife]]
 #* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 3)
 #*: '''女（め）'''の女にあづけてやしなはす。
 
 =====Derived terms=====
+{{attention|ja|Deriveds need formatting, glosses.}}
+{{der-top}}
 * [[妹]] (imo)
 * [[郎女]] (iratsume)
 * [[姫]] (hime)
@@ -134,6 +157,7 @@ wonna > onna. From earlier /womina/. The initial /wo/ expressed "small, youth" a
 * [[母]] (omo)
 * [[乙女]] (otome)
 * [[浮女]] (ukareme)
+{{bottom}}
 
 ===References===
 
@@ -151,6 +175,7 @@ wonna > onna. From earlier /womina/. The initial /wo/ expressed "small, youth" a
 [[Category:1000 Japanese basic words|おんな]]
 
 ===See also===
+{{attention|ja|See alsos need formatting, glosses.}}
 * [[雌|mesu]]
 * [[嫗|onna]]
 * [[くノ一]] ([[kunoichi]])
