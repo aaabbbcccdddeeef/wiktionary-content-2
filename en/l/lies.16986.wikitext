@@ -72,7 +72,7 @@
 # [[list]]
 
 ====Inflection====
-{| class="wikitable" style="text-align: center;"
+{|class="wikitable" style="text-align: center;"
 |+ '''Inflection'''
 !
 ! Root singular
@@ -81,36 +81,46 @@
 ! Diminutive plural
 |-
 ! [[nominative|Nominative]]
-| lies
-| lieste
-| lieske
-| lieskes
+|lies
+|lieste
+|lieske
+|lieskes
 |-
 ! [[genitive|Genitive]]
-| lies
-| lieste
-| lieskes
-| lieskes
+|lies
+|lieste
+|lieskes
+|lieskes
 |-
 ! [[locative|Locative]]
-| liestes
-| liesteser
-| liesteske
-| liestesker
+|liestes
+|liesteser
+|liesteske
+|liestesker
 |-
 ! [[dative|Dative]]¹
-| ?
-| ?
-| ?
-| ?
+|?
+|?
+|?
+|?
 |-
 ! [[accusative|Accusative]]¹
-| ?
-| ?
-| ?
-| ?
+|?
+|?
+|?
+|?
 |}
 * Dative and accusative are nowadays obsolete, use nominative instead.
+
+----
+
+==Old French==
+
+===Noun===
+{{head|fro|noun form|g=f|g2=p}}
+
+# {{form of|nominative plural|lie|lang=fro}}
+# {{form of|oblique plural|lie|lang=fro}}
 
 ----
 
