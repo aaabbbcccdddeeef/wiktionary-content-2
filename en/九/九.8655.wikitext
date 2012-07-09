@@ -48,52 +48,97 @@ From [[Old Chinese]] ''*k<sup>w</sup>yu<sup>?</sup>'', from [[Proto-Sino-Tibetan
 
 ==Japanese==
 
-===Etymology===
-A depiction of a bent [[elbow]], an archaic representation of the number nine.
-
-===Number===
-{{cardinalbox|ja|8|9|10|八|十}}
-'''九''' ([[きゅう]], [[kyū]])
-
-# [[nine]]
-
-===Noun===
-{{ja-noun|k|hira=きゅう|rom=kyū|hidx=きゅう}}
-
-# [[nine]]
-# quite many things (lead to [[究]])
-
-===Counter===
-{{ja-pos|k|counter|hira=ここの|rom=kokono|hidx=ここの}}
-
-# nine
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=乙01}}
 
+# [[nine]]
+
 ====Readings====
-* {{ja-readings|on=[[きゅう]] (''kyū''), [[く]] (''ku'')|kun=[[ここの]] (''kokono''), [[ここのつ]] ([[九つ]], ''kokonotsu'')|nanori=[[いちじく]] (''ichijiku''), [[いちのく]] (''ichinoku''), [[この]] (''kono''), [[ひさし]] (''hisashi'')}}
+{{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[きゅう]] (kyū), {{qualifier|historical}} [[きう]] (kiu)
+|kun=[[ここの]] (kokono), [[ここのつ]] ([[九つ]], kokonotsu)
+|nanori=[[いちじく]] (ichijiku), [[いちのく]] (ichinoku), [[この]] (kono), [[ひさし]] (hisashi)
+}}
 
 ====Compounds====
-* [[九夏]] (''kyuuka''):
-* [[九回戦]] (''kyuukaisen''):
-* [[九官鳥]] (''kyuukanchou''):
-* [[九牛一毛]] (''kyuugyuuichimou''):
-* [[九九]], [[九々]] (''kuku''): Multiplication table
-* [[九月]] (''kugatsu''): September
-* [[九死]] (''kyuuji''):
-* [[九州]] (''kyuushuu''): Kyushu region of Japan
-* [[九重]] (''kokonoe''):
-* [[九寸五分]] (''kusungobu''):
-* [[九星]] (''kyuusei''):
-* [[九折]] (''kyuusetsu''):
-* [[九泉]] (''kyuusen''):
-* [[九地]] (''kyuuchi''):
-* [[九天]] (''kyuuten''):
-* [[九拝]] (''kyuuhai''):
-* [[九分]] (''kubu''):
-* [[九輪]] (''kurin''):
-* [[九六]] (''kunroku''):
+{{der-top|Compounds}}
+* {{l|ja|九夏|tr=[[きゅうか]], ''[[kyūka]]''}}:
+* {{l|ja|九官鳥|tr=[[きゅうかんちょう]], ''[[kyūkanchō]]''}}: a [[mina]] or [[mynah]] [[bird]]
+* {{l|ja|九牛一毛|tr=[[きゅうぎゅういちもう]], ''[[kyū gyū ichi mō]]''}}:
+* {{l|ja|九九}}, {{l|ja|九々|tr=[[くく]], ''[[kuku]]''}}: Multiplication table
+* {{l|ja|九月|tr=[[くがつ]], ''[[kugatsu]]''}}: September
+* {{l|ja|九死|tr=[[きゅうし]], ''[[kyūshi]]''}}: [[near]] [[death]], [[nearly]] [[dead]], a [[close shave]]
+* {{l|ja|九州|tr=[[きゅうしゅう]], ''[[Kyūshū]]''}}: the Kyūshū region of Japan
+* {{l|ja|九重|tr=[[ここのえ]], ''[[kokonoe]]''}}:
+* {{l|ja|九寸五分|tr=[[くすんごぶ]], ''[[kusun gobu]]''}}: a [[short sword]], a [[dagger]]
+* {{l|ja|九星|tr=[[きゅうせい]], ''[[kyūsei]]''}}:
+* {{l|ja|九折|tr=[[きゅうせつ]], ''[[kyūsetsu]]''}}:
+* {{l|ja|九泉|tr=[[きゅうせん]], ''[[kyūsen]]''}}:
+* {{l|ja|九地|tr=[[きゅうち]], ''[[kyūchi]]''}}:
+* {{l|ja|九天|tr=[[きゅうてん]], ''[[kyūten]]''}}:
+* {{l|ja|九拝|tr=[[きゅうはい]], ''[[kyūhai]]''}}:
+* {{l|ja|九分|tr=[[くぶ]], ''[[kubu]]''}}:
+* {{l|ja|九輪|tr=[[くりん]], ''[[kurin]]''}}:
+* {{l|ja|九六|tr=[[くんろく]], ''[[kunroku]]''}}:
+{{bottom}}
+
+===Etymology 1===
+From {{etyl|zho|ja|sort=きゅう}} {{term|sc=Hani|九}}.  [[呉音#Japanese|Goon]], so probably the initial reading when first borrowed into Japanese.  
+
+====Pronunciation====
+* [[音読み|On'yomi]]: [[呉音#Japanese|Goon]]
+* {{IPA|lang=ja|/ku/|[kɯᵝ]}}
+
+====Alternative forms====
+* {{l|ja|玖}}
+
+====Number====
+{{ja-pos|k|number|hira=く|rom=ku}}
+
+# [[nine]]
+# [[ninth]]
+
+====Noun====
+{{ja-noun|k|hira=く|rom=ku}}
+
+# [[nine]]
+# the [[ninth]]
+
+===Etymology 2===
+From {{etyl|zho|ja|sort=きゅう}} {{term|sc=Hani|九}}.  [[漢音#Japanese|Kan'on]], so probably a later reading.
+
+====Pronunciation====
+* [[音読み|On'yomi]]: [[漢音#Japanese|Kan'on]]
+* {{IPA|lang=ja|/kju.u/|[kjɯᵝː]}}
+
+====Number====
+{{cardinalbox|ja|8|9|10|八|十}}
+{{ja-pos|k|number|hira=きゅう|rom=kyū|hhira=きう}}
+
+# [[nine]]
+
+====Noun====
+{{ja-noun|k|hira=きゅう|rom=kyū|hhira=きう}}
+
+# [[nine]]
+# an [[indeterminate]] [[large]] [[number]], a [[myriad]], a great many
+# {{context|lang=ja|sort=きゅう|divination}} the number of [[yang]], in opposition to {{term|lang=ja|六|tr=roku||six}} as the number of [[yin]]
+
+=====Alternative forms=====
+* {{sense|large number}} {{l|ja|究}}
+
+===Etymology 3===
+From {{etyl|ojp|ja|sort=ここの}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ko.ko.no/|[ko̞ko̞no̞]}}
+
+====Counter====
+{{ja-pos|k|counter|hira=ここの|rom=kokono}}
+
+# [[nine]]
 
 ===References===
 * The Japan Times (March 17, 2010). ''[http://www.kanjiclinic.com/kc102final.htm You can count on the tales behind number-kanji].'' Accessed March 23, 2010.
