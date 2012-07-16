@@ -312,21 +312,41 @@ This pronoun began to be replaced by {{term|ghi|lang=dum}} in formal address dur
 
 ----
 
-==Norwegian==
+==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|no}} {{term|þú|lang=non}}.
+From {{etyl|non|nb}} {{term|þú|lang=non}}.
 
 ===Pronoun===
-{{head|no|pronoun|accusative|deg}}
+{{head|nb|pronoun|objective case|deg}}
 
-# [[you]] (''familiar sg'')
+# [[you]] (second person, singular)
 
 ====References====
-* {{R:Dokumentasjonsprosjektet}}
+* {{R:Dokumentasjonsprosjektet|lang=nb}}
 
 ===See also===
 {{nb-pers-pron}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology===
+From {{etyl|non|nn}} {{term|þú|lang=non}}.
+
+===Pronunciation===
+* {{IPA|/dʉ/|lang=nn}} {{nn-pronu-note}}
+
+===Pronoun===
+{{head|nn|pronoun|objective case|deg}}
+
+# [[you]] (second person, singular)
+
+====References====
+* {{R:Dokumentasjonsprosjektet|lang=nn}}
+
+===See also===
 {{nn-pers-pron}}
 
 ----
