@@ -37,33 +37,51 @@ A traditional variant of [[與]], 与 is not used in modern (standardized) tradi
 ===Kanji===
 {{ja-kanji|grade=c|rs=一03}}
 
-# {{defn|lang=ja|sort=一03}}
+# [[bestow]], [[impart]], [[award]], [[grant]], [[give]]
 
 ====Readings====
-* {{ja-readings|on=[[よ]] (yo)|kun=[[あたえる]] (ataeru), [[くみする]] (kumisuru), [[ともに]] (tomoni), [[あづかる]] (azukaru) }}
+{{ja-readings
+|on=[[よ]] (yo)
+|kun=[[あたう]] ([[与う]], atau), [[あたゆ]] ([[与ゆ]], atayu), [[あたえる]] ([[与える]], ataeru), [[あずかる]] ([[与る]], [[与かる]], azukaru), [[くみす]] ([[与す]], kumisu), [[くみする]] ([[与する]], kumisuru), [[ともに]] (tomoni)
+|nanori=[[とも]] (tomo), [[ゆ]] (yu)
+}}
 
 ====Compounds====
-{{top5}}
-* [[与格]](よかく, yokaku)
-* [[与件]]
-* [[与太]]
-{{mid5}}
-* [[与太郎]]
-* [[与奪]]
-* [[生殺与奪]]
-{{mid5}}
-* [[与力]]
-* [[関与]]
-* [[給与]]
-{{mid5}}
-* [[供与]]
-* [[授与]]
-* [[賞与]]
-{{mid5}}
-* [[贈与]]
-* [[天与]]
-* [[付与]]
+{{der-top|Compounds}}
+* {{l|ja|与格|tr=[[よかく]], ''[[yokaku]]''}}: the [[dative]] [[case]]
+* {{l|ja|与件}}:
+* {{l|ja|与太}}:
+* {{l|ja|与太郎}}:
+* {{l|ja|与奪}}:
+* {{l|ja|生殺与奪}}:
+* {{l|ja|与力}}:
+* {{l|ja|関与}}:
+* {{l|ja|給与}}:
+* {{l|ja|供与}}:
+* {{l|ja|授与}}:
+* {{l|ja|賞与}}:
+* {{l|ja|贈与}}:
+* {{l|ja|天与}}:
+* {{l|ja|付与}}:
 {{bottom}}
+
+===Etymology===
+Compound of {{compound|lang=ja|ともに|とも|tr1=tomo|t1=with; both|に|tr2=ni|t2=adverbial particle}}.  
+
+Use of the single kanji {{Jpan|与}} to spell this phrase is very rare and archaic, and is an example of [[熟字訓#Japanese|jukujikun]].
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/to.mo.ni/|[to̞mo̞ni]}}
+
+===Alternative forms===
+* {{l|ja|ともに}}, {{l|ja|共に}}, {{l|ja|倶に}}
+: The more common spellings are {{l|ja|ともに}} and {{l|ja|共に}}.
+
+===Adverb===
+{{ja-pos|k|adverb|hira=ともに|rom=tomo ni}}
+
+# {{ja-def|共に}} [[together]], [[with]], [[both]]
 
 ----
 
