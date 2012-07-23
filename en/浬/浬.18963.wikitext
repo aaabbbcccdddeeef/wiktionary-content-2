@@ -22,12 +22,57 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=水07}}
+{{ja-kanji|grade=c|rs=水07}}
 
-# {{defn|lang=ja|sort=水07}}
+# [[nautical mile]]; [[knot]]
 
 ====Readings====
-* {{ja-readings|on=[[り]] (ri)|kun=[[かいり]] (kairi), [[のっと]] (notto)}}
+{{ja-readings
+|on=[[り]] (ri)
+|kun=[[かいり]] (kairi), [[のっと]] (notto)
+}}
+
+===Etymology 1===
+From {{etyl|zho|ja|sort=り}} {{term|sc=Hani|浬}}.
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ri/|[ɽi]}}
+
+====Noun====
+{{ja-noun|k|hira=り|rom=ri}}
+
+# a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s
+
+===Etymology 2===
+From {{etyl|zho|ja|sort=かいり}} {{term|sc=Hani|海里}}.  The single-kanji spelling {{Jpan|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ka.i.ri/|[käiɽi]}}
+
+====Noun====
+{{ja-noun|k|hira=かいり|rom=kairi}}
+
+# a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s
+
+===Etymology 3===
+From {{etyl|en|ja|sort=のっと}} {{term|lang=en|knot}}.  The kanji spelling {{Jpan|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/no.t.to/|[no̞tto̞]}}
+
+====Alternative forms====
+* {{l|ja|節}}
+
+====Noun====
+{{ja-noun|k|kata=ノット|rom=notto|hidx=のっと}}
+
+# a [[knot]]: a [[nautical]] [[unit]] of [[speed]], one [[nautical mile]] [[per]] [[hour]]
+
+=====Usage notes=====
+The katakana spelling {{l|ja|ノット}} is more common in modern Japanese than either kanji spelling of {{Jpan|浬}} or {{l|ja|節}}.
 
 ----
 
