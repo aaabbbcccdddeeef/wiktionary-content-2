@@ -103,7 +103,8 @@ For a [[shape]], the spelling {{l|ja|形}} is more commonly used.  For a [[type]
 ===Etymology 3===
 Derived from {{l|ja|形木|tr=''katagi''}}, itself a compound of {{compound|lang=ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{term|lang=en|stencil}}.  The ''ki'' changes to ''gi'' due to {{rendaku|かたぎ}}.
 
-===Pronunciation===
+====Pronunciation====
+{{rfc-level|check placement of Pronunciation|lang=ja}}
 * [[訓読み|Kun'yomi]]
 * {{IPA|lang=ja|/ka.ta.gi/|[kätägi]}}
 
@@ -148,7 +149,7 @@ From {{etyl|zho|ja|sort=けい}} {{term|形|sc=Hani}}.
 * {{IPA|lang=ja|/ke.e/|[ke̞ː]}}
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=けい|rom=-kei}} 
+{{ja-pos|k|suffix|hira=けい|rom=-kei}}
 
 # {{linguistics|lang=ja|skey=けい}} [[grammatical]] [[tense]]
 #* {{usex|lang=ja|{{l|ja|過去}}'''形'''|tr=かこ'''けい'''<br />''kako'''kei'''''|t=the [[past tense|past '''tense''']]}}
@@ -156,8 +157,6 @@ From {{etyl|zho|ja|sort=けい}} {{term|形|sc=Hani}}.
 # {{qualifier|Japanese grammar}} a [[conjugation]] form of a [[verb]]
 #* {{usex|lang=ja|{{l|ja|連用}}'''形'''|tr=れんよう'''けい'''<br />''ren'yō'''kei'''''|t=the [[continuative]] '''form'''}}
 #* {{usex|lang=ja|{{l|ja|命令}}'''形'''|tr=めいれい'''けい'''<br />''meirei'''kei'''''|t=the [[imperative]] or [[command]] '''form'''}}
-
-[[Category:ja:Grammar|けい]]
 
 ===Etymology 6===
 From {{l|ja|成り|tr=''nari''}}, the [[continuative]] form ({{l|ja|連用形|tr=''ren'yōkei''}}) of the verb {{l|ja|成る|tr=''naru''}}.
@@ -197,6 +196,8 @@ The most common form for this use is {{l|ja|なり}}, for all parts of speech.
 
 # following the [[continuative]] form ({{l|ja|連用形|tr=ren'yōkei}}) of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
 #* {{usex|lang=ja|{{l|ja|人々}}が{{l|ja|言い}}'''なり'''になった|tr=ひとびとがいい'''なり'''になった<br />''hitobito ga ii'''nari''' ni natta''|t=things turned out '''just as''' people say}}
+
+[[Category:ja:Grammar|けい]]
 
 ----
 
