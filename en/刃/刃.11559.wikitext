@@ -27,28 +27,70 @@ Note the compositional differences between traditional, simplified, and Japanese
 ----
 
 ==Japanese==
-
-===Etymology===
-
-From Korean {{term|날#Etymology 2|nal|blade}}.
-
-===Noun===
-{{ja-noun|k|hira=な|rom=na}}
-
-# blade
-#* {{RQ:Man'yōshū|4|616}}
-#*: 剣大刀 '''名'''惜雲 吾者無 君尓不相而 年之経去礼者
-#*:: [Note: '''tsurugi tachi''' "swords" is a [[w:Makurakotoba|pillow word]] establishing a poetic association with the following ''na'' which simultaneously means both "name" and "blade", both of which share the same pronunciation.]
-
-====Derived terms====
-
-* [[刀]] (katana)
+{{wikipedia|lang=ja}}
+{{wikipedia|Blade}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀01}}
 
 ====Readings====
-* {{ja-readings|on=[[じん]] (jin)|kun=[[は]] (ha), [[やいば]] (yaiba), [[きる]] (kiru)}}
+{{ja-readings
+|goon=[[にん]] (nin)
+|kanon=[[じん]] (jin)
+|kun=[[は]] (ha), [[な]] (na), [[やいば]] (yaiba), {{qualifier|rare}} [[きる|き-る]] (ki-ru)
+|nanori=[[ち]] (chi), [[と]] (to)
+}}
+
+===Etymology 1===
+From {{etyl|ojp|ja|sort=な}}.  Likely [[cognate]] with {{etyl|ko|-}} {{term|lang=ko|날|tr=nal||blade}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/na/|[nä]}}
+
+====Noun====
+{{ja-noun|k|hira=な|rom=na}}
+
+# {{context|lang=ja|sort=な|obsolete}} a [[blade]], an [[edge]]
+#* {{RQ:Man'yōshū|4|616}}
+#*: 剣大刀 '''名'''惜雲 吾者無 君尓不相而 年之経去礼者
+#*:: つるぎたち '''な'''のをしけくも われはなし きみにあはずて としのへぬれば
+#*:: ''tsurugi tachi '''na''' no oshikeku mo ware wa nashi kimi ni awazute toshi no enureba''
+#*:: [Note: '''tsurugi tachi''' "swords" is a [[w:Makurakotoba|pillow word]] establishing a poetic association with the following ''na'' which simultaneously means both "name" and "blade", both of which share the same pronunciation.]
+
+====Derived terms====
+* {{l|ja|刀|tr=[[かたな]], ''[[katana]]''}}
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=は}}, cognate with {{term|lang=ja|歯|tr=ha||tooth}}.
+
+====Pronunciation====
+*[[訓読み|Kun'yomi]]
+*{{IPA|lang=ja|/ha/|[hä]}}
+
+====Noun====
+{{ja-noun|k|hira=は|rom=ha}}
+
+# an [[edge]], a [[blade]]
+
+=====Derived terms=====
+* {{Jpan|刃}} ([[やいば]], ''[[yaiba#Japanese|yaiba]]''): a [[sword]], a [[blade]], particularly one that has been [[forged]]
+
+===Etymology 3===
+Originally a compound of {{compound|lang=ja|sort=やいば|焼き|tr1=yaki|t1=burned, fired|刃|tr2=ha|t2=edge, blade}}.  The ''ha'' changes to ''ba'' due to {{rendaku|やいば}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ja.i.ba/|[jäibä]}}
+
+====Noun====
+{{ja-noun|k|hira=やいば|rom=yaiba}}
+
+# a [[forged]] [[blade]], such as a [[sword]]
+# the [[wavy]] pattern formed in the [[metal]] on the surface of a forged blade
+# a [[sword]] or similar edged [[weapon]]
+# something [[sharp]] like a [[sword]]
+# someone or something [[powerful]]
 
 ===References===
 * {{R:Man'yōshū 1}}
