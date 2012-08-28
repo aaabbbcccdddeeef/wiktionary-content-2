@@ -25,10 +25,10 @@ From {{etyl|enm}} {{term|lynx|lang=enm}}, from {{etyl|la}} {{term|lynx|lang=la}}
 * Basque: [[ipar]] [[katamotz]]
 * Belarusian: {{t-|be|рысь|f|tr=rys’|xs=Belarusian}}
 * Breton: [[lińs]]
-* Bulgarian: {{t|bg|рис|m|tr=ris|sc=Cyrl}}
+* Bulgarian: {{t+|bg|рис|m|tr=ris|sc=Cyrl}}
 * Catalan: {{t-|ca|linx|m}}
 * Central Sierra [[Miwok]]: [[tolˑomˑa-]]
-* Cherokee: {{t|chr|ᎬᎮ|tr=gvhe|sc=Cher}}
+* Cherokee: {{t-|chr|ᎬᎮ|tr=gvhe|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|zh|猞猁|tr=shēlì|sc=Hani}}, {{t|zh|山貓|sc=Hani}}, {{t|zh|山猫|tr=shānmāo|sc=Hani}}
 * Cree: [[ᐱᔔ]], [[pishuu]]
@@ -50,8 +50,8 @@ From {{etyl|enm}} {{term|lynx|lang=enm}}, from {{etyl|la}} {{term|lynx|lang=la}}
 * Icelandic: {{t-|is|gaupa|f}}
 * Interlingua: {{t-|ia|lynce}}
 * Irish: [[lincse]]
-* Italian: {{t-|it|lince|f}}
-* Japanese: {{t|ja|ヤマネコ|tr=yamaneko|sc=Jpan}}, {{t|ja|山猫|tr=やまねこ, yamaneko|sc=Jpan}}
+* Italian: {{t+|it|lince|f}}
+* Japanese: {{t-|ja|ヤマネコ|tr=yamaneko|sc=Jpan}}, {{t-|ja|山猫|tr=やまねこ, yamaneko|sc=Jpan}}
 * Korean: {{t-|ko|스라소니|tr=seurasoni|sc=Hang}}
 * Ladin: [[lustrel]]<!--NOTE: do not put the taxonomical name in as the Latin translation-->
 * Latgalian: {{tø|ltg|mežakačs|m}}
@@ -60,7 +60,7 @@ From {{etyl|enm}} {{term|lynx|lang=enm}}, from {{etyl|la}} {{term|lynx|lang=la}}
 * Latvian: [[lūsis]]
 * Lithuanian: {{t+|lt|lūšis|xs=Lithuanian}}
 * Lower Sorbian: [[rys]]
-* Macedonian: {{t|mk|рис|m|tr=ris|sc=Cyrl}}
+* Macedonian: {{t+|mk|рис|m|tr=ris|sc=Cyrl}}
 * Mongolian: {{t-|mn|шилүүс|tr=šilüüs|sc=Cyrl|xs=Mongolian}}
 * Montagnais: {{tø|moe|pishu}}
 * Navajo: {{tø|nv|náshdóí łibáhígíí}}
@@ -72,11 +72,11 @@ From {{etyl|enm}} {{term|lynx|lang=enm}}, from {{etyl|la}} {{term|lynx|lang=la}}
 * Romani: [[divlio-murtano]] {{m}} [[divlio-mutsa]] {{f}}
 * Romanian: {{t+|ro|linx}}
 * Romansch: [[luf tscherver]]
-* Russian: {{t|ru|рысь|f|tr=rys’|sc=Cyrl}}
+* Russian: {{t+|ru|рысь|f|tr=rys’|sc=Cyrl}}
 * Sami: [[albbas]]
 * Sardinian: [[linci]], [[lintze]]
 * Scottish Gaelic: {{t-|gd|lioncs|m|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|рис|m}}, {{t|sh|ris|m}}
+* Serbo-Croatian: {{t-|sh|рис|m}}, {{t-|sh|ris|m}}
 * Sicilian: {{t-|scn|linci}}
 * Slovak: {{t-|sk|rys|m}}
 * Slovene: {{t+|sl|ris|m}}
@@ -84,10 +84,10 @@ From {{etyl|enm}} {{term|lynx|lang=enm}}, from {{etyl|la}} {{term|lynx|lang=la}}
 * Swahili: {{t-|sw|linksi}}
 * Swedish: {{t+|sv|lo|c}}, {{t+|sv|lodjur|n}}
 * Turkish: {{t+|tr|vaşak}}
-* Ukrainian: {{t|uk|рись|f|tr=rys’|sc=Cyrl}}
+* Ukrainian: {{t-|uk|рись|f|tr=rys’|sc=Cyrl}}
 * Upper Sorbian: [[rys]]
 * Venetian: {{tø|vec|lenze}}
-* Volapük: {{qualifier|♂♀}} {{t|vo|lünk}}, {{qualifier|♂}} {{t-|vo|hilünk}}, {{qualifier|♀}} {{t-|vo|jilünk}}, {{qualifier|♂♀ offspring, young}} {{t-|vo|lünkül}}, {{qualifier|♂ offspring}} {{t-|vo|hilünkül}}, {{qualifier|♀ offspring}} {{t-|vo|jilünkül}}, {{qualifier|older term}} {{t-|vo|luxaf}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|lünk}}, {{qualifier|♂}} {{t-|vo|hilünk}}, {{qualifier|♀}} {{t-|vo|jilünk}}, {{qualifier|♂♀ offspring, young}} {{t-|vo|lünkül}}, {{qualifier|♂ offspring}} {{t-|vo|hilünkül}}, {{qualifier|♀ offspring}} {{t-|vo|jilünkül}}, {{qualifier|older term}} {{t-|vo|luxaf}}
 * Welsh: [[lyncs]]
 * West Frisian: [[lynks]]
 {{trans-bottom}}
