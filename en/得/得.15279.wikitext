@@ -61,8 +61,6 @@
 
 ==Mandarin==
 
-# Used to modify a [[verb]] with an [[adjective]]. In Chinese, so you can correctly modify a [[verb]] with any adjective, 得 must be placed between the [[verb]] (left) and the [[adjective]] (right) i.e. [[他]][[跑]][[快]] ("He runs fast") is grammatically incorrect, even though it goes with the order of a sentence in Chinese, but [[他]][[跑]]得[[快]] is correct, for 得 has been used correctly. Another example would be [[他]][[会]][[画画]][[好]] (He paints well), which would need to be corrected with [[他]][[会]][[画画]]徳[[好]].
-
 ===Pronunciation===
 * {{audio|zh-děi.ogg|audio}}
 * {{audio|Zh-dé.ogg|Audio}}
@@ -70,7 +68,13 @@
 ===Hanzi===
 {{cmn-hanzi|pin=[[dé]] ([[de2]]), [[de]] ([[de5]]), [[děi]] ([[dei3]])|wg=te<sup>2</sup>, te<sup>5</sup>, tei<sup>3</sup>}}
 
-# {{defn|lang=cmn|sort=彳08}}
+# [[-ly]]; {{n-g|used between a verb and adjective to allow the adjective to modify the verb.}} {{attention|cmn}}
+#: {{Hani|他跑'''得'''快。|lang=cmn}}
+#:: ''tā bó '''dé''' kuài.'' {{attention|cmn}}
+#:: He runs quick'''ly'''. [''literally'' He runs '''dé''' quick.] {{attention|cmn}}
+#: {{Hani|他会画画'''徳'''好。|lang=cmn}}
+#:: ''tā huì huàhuà '''dé''' hǎo.'' {{attention|cmn}}
+#:: He paints well. [''literally'' He paints '''dé''' good.] {{attention|cmn}}
 
 ====Derived terms====
 * [[得到]]
