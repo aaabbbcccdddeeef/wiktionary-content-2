@@ -1,165 +1,397 @@
 ==English==
+
+===Etymology===
+From {{etyl|enm}} {{term|writen|lang=enm}}, from {{etyl|ang}} {{term|writan|wrītan|to incise, engrave, write, draw, bestow by writing|lang=ang}}, from {{proto|Germanic|wrītanan|to carve, write|lang=en}}, from {{proto|Indo-European|wrey-|to rip, tear|lang=en}}, from {{proto|Indo-European|wer-|to rip, tear|lang=en}}. Cognate with Dutch {{term|rijten||to rip, tear|lang=nl}}, {{etyl|nds|-}} {{term|riten||to tear, split|lang=nds}}, German {{term|reißen||to tear, rip|lang=de}}, {{etyl|sv|-}} {{term|rita||to draw, design, delineate, model|lang=sv}}, {{etyl|is|-}} {{term|ríta||to cut, scratch, write|lang=is}}, {{etyl|de|-}} {{term|ritzen||to carve, scratch|lang=de}}.
+
 ===Pronunciation===
-*rīt, /raɪt/, /<tt>raIt</tt>/
-*:'''Homophones''': [[right]], [[rite]], [[wright]]
-*:[[Rhymes:English:-aɪt|Rhymes: -aɪt]]
+* {{a|UK|US}} {{enPR|rīt}}, {{IPA|/ɹaɪt/}}, {{X-SAMPA|/r\aIt/}}
+* {{audio|en-us-write.ogg|Audio (US)}}
+* {{audio|En-uk-to write.ogg|Audio (UK)}}
+* {{rhymes|aɪt}}
+* {{homophones|right|rite|wright}}
 
-===Transitive verb===
-'''to write''' (''[[present participle]]'' '''writing''', ''[[past tense]]'' '''[[wrote]]''', '''[[writ]]''' (''archaic''), ''[[past participle]]'' '''[[written]]''', '''writ''' (''archaic''))
+===Verb===
+{{en-verb|writes|writing|'''[[wrote]]''' ''or {{qualifier|archaic}}'' '''[[writ]]'''|'''[[written]]''' ''or {{qualifier|archaic}}'' '''[[writ]]'''}}
+[[Image:Carl Friedrich Abel cropped.jpg|thumb|right|A [[w:Thomas Gainsborough|painting]] of [[w:Carl Friedrich Abel|a man]] writing.]]
 
-#To form (letters, words or symbols) on a surface in order to communicate.
-#:''The pupil wrote his name on the paper.'' 
-#To be the author of (a book, article, poem, etc.).
-#:''My uncle writes newspaper articles for The Herald.'' 
-#(''US'') To send a letter to. 
-#:''Please write me when you get there.''
+# {{ambitransitive}} To form letters, words or symbols on a surface in order to communicate.
+#: ''The pupil '''wrote''' his name on the paper.''
+#: ''Your son has been '''writing''' on the wall.''
+# {{transitive}} To be the author of (a book, article, poem, etc.).
+#: ''My uncle '''writes''' newspaper articles for The Herald.''
+# {{transitive}} To send written information to.
+#: (''UK'') ''Please '''write''' to me when you get there.''
+#: (''US'') ''Please '''write''' me when you get there.''
+# {{transitive}} To show (information, etc) in written form.
+#: ''The due day of the homework is '''written''' in the syllabus.''
+# {{intransitive}} To be an author.
+#: ''I '''write''' for a living.''
+# {{transitive|computing}} To record (data) mechanically or electronically.
+#: ''The computer '''writes''' to the disk faster than it reads from it.''
+# {{transitive|South Africa|Canada|of a form, a document, etc.}} To [[fill in]], to [[complete]] using words.
+#: ''I was very anxious to know my score after I '''wrote''' the test.''
 
 ====Synonyms====
-*(''send a letter to''): write to (''British'')
+* {{sense|form letters, words or symbols in order to communicate}} [[inscribe]], [[scrawl]] {{qualifier|indistinctly}}, [[scribble]] {{qualifier|quickly or imprecisely}}
+* {{sense|be the author of}} [[author]], [[pen]]
+* {{sense|send (a letter) to}} to [[post]]
+* {{sense|show (information, etc) in written form}} [[display]], [[indicate]], [[mark]], [[show]]
+* {{sense|computing: store (data)}} [[save]], [[store]]
+* See also [[Wikisaurus:write]]
+
+====Antonyms====
+* {{sense|computing: store (data)}} [[load]], [[read]], [[retrieve]]
+
+====Derived terms====
+{{top3}}
+* [[bewrite]]
+* [[co-write]]
+* [[hand-written]]
+* [[nothing to write home about]]
+* [[overwrite]]
+* [[rewrite]]
+* [[that's all she wrote]]
+{{mid3}}
+* [[underwrite]]
+* [[who writes this stuff]]?
+* [[write down]], [[write-down]]
+* [[write head]]
+* [[write in]], [[write-in]]
+* [[write off]], [[write-off]]
+* [[write once]]
+{{mid3}}
+* [[write one's own ticket]]
+* [[write-only]]
+* [[write out]]
+* [[writer]]
+* [[write up]], [[write-up]]
+* [[writing]]
+{{bottom}}
 
 ====Translations====
+{{trans-top|to form letters, etc.}}
+* Afrikaans: {{t-|af|skryf|xs=Afrikaans}}
+* Albanian: {{t-|sq|shkruan|xs=Albanian}}
+* Amharic: {{t-|am|ጻፈ|tr=TS'afä|sc=Ethi|xs=Amharic}}, {{t-|am|ደረሰ|tr=däräsä|sc=Ethi|xs=Amharic}}
+* Arabic: {{t+|ar|كتب|tr=kátaba}}
+* {{trreq|an}}
+* Aramaic:
+*: Syriac: [[ܟܬܒ]] (kātēb)
+*: Hebrew: {{t+|he|כתב|tr=kātēb}}
+* Armenian: {{t+|hy|գրել|tr=grel}}
+* Aromanian: {{t-|rup|scriu}}
+* {{trreq|as}}
+* Asturian: {{t+|ast|escribir|xs=Asturian}}
+* Azeri: {{t+|az|yazmaq|xs=Azeri}}
+* {{trreq|ba}}
+* Basque: {{t-|eu|idatzi|xs=Basque}}
+* {{trreq|bar}}
+* Belarusian: {{t-|be|пісаць|tr=pisác’|xs=Belarusian}}
+* Bengali: {{t-|bn|লেখা|tr=lekha|sc=Beng}}
+* Breton: {{t+|br|skrivañ|xs=Breton}}
+* Bulgarian: {{t+|bg|пиша|tr=píša}}
+* Burmese: {{t+|my|ရေး|tr=ye:|sc=Mymr|xs=Burmese}}
+* Catalan: {{t+|ca|escriure}}
+* Cebuano: {{tø|ceb|sulat|xs=Cebuano}}
+* Chinese:
+*: Cantonese: {{tø|yue|寫|sc=Hani|xs=Cantonese}}, {{tø|yue|写|tr=se2, se3|sc=Hani|xs=Cantonese}}
+*: Mandarin: {{t-|cmn|寫|sc=Hani}},  {{t-|cmn|写|tr=xiě|sc=Hani}}
+* Chuvash: {{tø|cv|ҫыр|tr=șyr}}
+* Cornish: {{t-|kw|scryfa}}, {{t-|kw|scryfa}}
+* Crimean Tatar: {{tø|crh|yazmaq|xs=Crimean Tatar}}
+* Czech: {{t+|cs|psát}}
+* Danish: {{t+|da|skrive}}
+* {{trreq|dv}}
+* Dutch: {{t+|nl|schrijven}}
+* {{trreq|dz}}
+* Esperanto: {{t+|eo|skribi|xs=Esperanto}}
+* Estonian: {{t-|et|kirjutama}}
+* Ewe: {{tø|ee|ŋlɔ|xs=Ewe}}
+* Faroese: {{t+|fo|rita|xs=Faroese}}, {{t-|fo|skriva}}
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|écrire}}
+* Friulian: {{tø|fu|scrivi}}
+* Galician: {{t-|gl|escribir|xs=Galician}}
+* Georgian: {{t+|ka|წერა|tr=ts‘era|sc=Geor|xs=Georgian}}
+* German: {{t+|de|schreiben}}
+* Greek: {{t+|el|γράφω|tr=gráfo}}
+* Hawaiian: {{tø|haw|kākau|xs=Hawaiian}}
+* Hebrew: {{t+|he|כתב|alt=כָּתַב|tr=katáv}}
+* Hindi: {{t+|hi|लिखना|tr=likhnā|xs=Hindi}}
+* Hungarian: {{t+|hu|ír}}
+* Icelandic: {{t+|is|skrifa}}, {{t+|is|rita}}
+* Ido: {{t+|io|skribar|xs=Ido}}
+* Indonesian: {{t+|id|tulis|xs=Indonesian}}
+* Irish: {{t-|ga|scríobh|xs=Irish}}
+* Italian: {{t+|it|scrivere}}
+* Japanese: {{t+|ja|書く|tr=[[かく]], kaku}}
+* Kannada: {{t+|kn|ಬರೆ|tr=bari|sc=Knda}}
+* Khmer: {{t+|km|សរសេរ|tr=sorsēi|sc=Khmr}}
+* Korean: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}
+* Kurdish:
+*: Sorani: {{ku-Arab|[[نوسین]]}}
+* Ladino: {{tø|lad|eskrivir}}
+* Lao: {{t+|lo|ຂຽນ|tr=khian|sc=Laoo|xs=Lao}}
+* Latin: {{t+|la|scribo|alt=scrībō}}
+* Latvian: {{t+|lv|rakstīt|xs=Latvian}}
+{{trans-mid}}
+* Lithuanian: {{t+|lt|rašyti|xs=Lithuanian}}
+* Lojban: [[ciska]]
+* {{trreq|lg}}
+* Macedonian: {{t-|mk|пишува|tr=pišuva}}
+* Malay: {{t-|ms|tulis}}
+* Malayalam: {{t+|ml|എഴുത്ത്|tr=eḻutt|sc=Mlym}}
+* Maltese: {{t-|mt|tikteb}}
+* {{trreq|mi}}
+* Marathi: {{t-|mr|लिहिणें|sc=Deva|xs=Marathi}}
+* {{trreq|mzn}}
+* Mongolian: {{t-|mn|бичих|tr=bíčih|sc=Cyrl|xs=Mongolian}}
+* {{trreq|nah}}
+* Navajo: {{tø|nv|akʼeńʼjiłchííh}}
+* {{trreq|ne}}
+* Norwegian: {{t+|no|skrive}}
+* {{trreq|nov}}
+* Occitan: {{t+|oc|escriure|xs=Occitan}}
+* Old Church Slavonic: {{tø|cu|пьсати|tr=pĭsati|sc=Cyrs}}
+* Old Norse: {{tø|non|ríta}}
+* {{trreq|or}}
+* {{trreq|om}}
+* Ossetic: {{tø|os|фыссын|tr=fyssyn|sc=Cyrl|xs=Ossetian}}
+* {{trreq|pag}}
+* Persian: {{t+|fa|نوشتن|tr=naveštan, neveštan|xs=Persian}}
+* {{trreq|pms}}
+* Polish: {{t+|pl|pisać}} {{impf}}, {{t+|pl|napisać}} {{pf.}}
+* Portuguese: {{t+|pt|escrever}}, {{t+|pt|redigir}}
+* Punjabi: [[ਲਿਖਣਾ]]
+* Romanian: {{t+|ro|scrie}}
+* Romansch: {{t-|rm|scriver}}, {{t-|rm|screiver}}
+* Russian: {{t+|ru|писать|tr=pisát’}} {{impf}}, {{t+|ru|написать|tr=napisát’}} {{pf.}}
+* {{trreq|sm}}
+* Sanskrit: {{t+|sa|लिख्|xs=Sanskrit}}
+* Sardinian: {{l|sc|iscri}}, {{t-|sc|iscribere}}, {{t-|sc|iscriere}}, {{t-|sc|iscriri}}, {{t-|sc|iscrivere}}, {{t-|sc|scriri}}
+* Serbo-Croatian: {{t|sh|писати|sc=Cyrl}}
+* Serbo-Croatian: {{t-|sh|писати|sc=Cyrl|xs=Serbo-Croatian}},  {{t-|sh|pisati|alt=písati|xs=Serbo-Croatian}}
+* Sicilian: {{t+|scn|scrìviri|xs=Sicilian}}
+* Sinhalese: {{t-|si|ලියනවා|tr=liyanavā|sc=Sinh}}
+* Slovak: {{t-|sk|písať}}
+* Slovene: {{t+|sl|pisati}}
+* Sotho: {{t+|st|ngola|xs=Sotho}}
+* Spanish: {{t+|es|escribir}}
+* Swahili: {{t-|sw|kuandika|xs=Swahili}}
+* Swedish: {{t+|sv|skriva}}
+* Tagalog: {{t-|tl|sumulat|xs=Tagalog}}, {{t-|tl|isulat|xs=Tagalog}}
+* {{trreq|ty}}
+* Tajik: {{t-|tg|навиштан|sc=Cyrl|xs=Tajik}}
+* Tamil: {{t+|ta|எழுத்து|tr=ezhuttu|sc=Taml}}
+* Telugu: [[వ్రాయు]] [[రాయు]] (raayu) (1), [[రచించు]] (rachiMchu) (2)
+* Thai: {{t-|th|เขียน|tr=kĭan}},  {{t-|th|ขีด|tr=kèet}}
+* Tibetan: {{t-|bo|བྲིས|tr=bris|sc=Tibt}}
+* Tok Pisin: {{t-|tpi|rait|xs=Tok Pisin}},  {{t-|tpi|raitim|xs=Tok Pisin}}
+* {{trreq|to}}
+* Turkish: {{t+|tr|yazmak}}
+* Ukrainian: {{t+|uk|писати|tr=pysáty|xs=Ukrainian}}
+* Urdu: {{t-|ur|لکھنا|tr=likhnā|xs=Urdu}}
+* Venetian: {{tø|vec|scrivar}}, {{tø|vec|scriver}}
+* Vietnamese: {{t+|vi|viết|xs=Vietnamese}}
+* Welsh: {{t+|cy|ysgrifennu|xs=Welsh}}
+* West Frisian: {{t-|fy|skriuwe|xs=West Frisian}}
+* Yiddish: {{t-|yi|שרײַבן|tr=shraybn|xs=Yiddish}}
+{{trans-bottom}}
 
-'''form (letters, etc.)'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--left column-->
-*[[Cebuano]]: [[sulat]]
-*Chinese: [[写]]/[[寫]] (xie)
-*Dutch: [[schrijven]]
-*[[Esperanto]]: [[skribi]]
-*Finnish: [[kirjoittaa]]
-*French: [[écrire]]
-*German: [[schreiben]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--right column-->
-*Greek, Modern: [[γράφω]]
-*[[Ido]]: [[skribar]]
-*Irish: [[scríobh]]
-*Italian: [[scrivere]]
-*Japanese: [[書く]] ([[かく]], kaku)
-*Russian: [[писать]]
-|}
-|}
+{{trans-top|to send a letter to}}
+* Arabic: {{t+|ar|كتب|alt=كَتَبَ|tr=kátaba}}
+* Armenian: {{t+|hy|գրել|tr=grel}}
+* Croatian: {{t+|hr|pisati|alt=písati}}
+* Czech: {{t+|cs|napsat}}
+* Danish: {{t+|da|skrive}}
+* Dutch: {{t+|nl|schrijven}} ([[naar]])
+* Esperanto: [[skribi]] [[al]]
+* Estonian: {{t-|et|kirjutama}}
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|écrire}} [[à#French|à]]
+* German: {{t+|de|schreiben}}
+* Greek: {{t+|el|γράφω|tr=gráfo}} (+ [[σε]])
+* Hebrew: {{t+|he|כתב|alt=כָּתַב|tr=katáv}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|ír}}
+* Icelandic: {{t+|is|skrifa|alt=skrifa utan á bréf}}
+* Indonesian: {{t+|id|tulis|xs=Indonesian}},  {{t+|id|tulis|xs=Indonesian}}
+* Irish: [[scríobh]] [[chuig]]
+* Italian: {{t+|it|scrivere}} [[a#Italian|a]]
+* Japanese: [[書く]] ([[かく]], kaku)
+* Latin: {{t+|la|scribo}}
+* Lojban: te [[xatra]]
+* Norwegian: {{t+|no|skrive}}
+* Portuguese: {{t+|pt|escrever}}
+* Russian: {{t+|ru|писать|tr=pisát’}} {{impf}}, {{t+|ru|написать|tr=napisát’}} {{pf.}}
+* Spanish: {{t+|es|escribir}} a
+* Swedish: {{t+|sv|skriva}} ({{t+|sv|till}})
+{{trans-bottom}}
 
-'''be the author of'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--left column-->
-*Dutch: [[schrijven]]
-*[[Esperanto]]: [[verki]]
-*Finnish: [[kirjoittaa]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--right column-->
-*French: [[écrire]], [[rédiger]]
-*German: [[schreiben]], [[verfassen]], [[texten]], [[dichten]]
-*Irish: [[scríobh]]
-|}
-|}
+{{trans-top|to be the author of}}
+* Afrikaans: {{t-|af|skryf|xs=Afrikaans}}
+* Arabic: {{t+|ar|كتب|alt=كَتَبَ|tr=kátaba}}
+* Armenian: {{t+|hy|գրել|tr=grel}}
+* Croatian: {{t+|hr|pisati|alt=písati}}
+* Czech: {{t+|cs|psát}}
+* Danish: {{t+|da|skrive}}, {{t-|da|digte}}, {{t-|da|forfatte}} {{qualifier|rare}}
+* Dutch: {{t+|nl|schrijven}}
+* Esperanto: {{t-|eo|verki|xs=Esperanto}}
+* Estonian: {{t-|et|kirjutama}}
+* Ewe: [[ŋlɔ]]
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|écrire}}, {{t+|fr|rédiger}}
+* German: {{t+|de|schreiben}}, {{t+|de|verfassen}}, {{t+|de|texten}}, {{t+|de|dichten}}
+* Hebrew: {{t+|he|כתב|alt=כָּתַב|tr=katáv}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|ír}}; megír
+* Icelandic: {{t+|is|rithöfundur}}
+* Irish: {{t-|ga|scríobh|xs=Irish}}
+* Japanese: {{t+|ja|書く|tr=[[かく]], kaku}}
+* Latin: {{t+|la|scribo}}
+* Lojban: [[ciska]]
+* Norwegian: {{t+|no|skrive}}
+* Portuguese: {{t+|pt|escrever}}
+* Romanian: {{t-|ro|A scrie}}
+* Russian: {{t+|ru|писать|tr=pisát’}} {{impf}}, {{t+|ru|написать|tr=napisát’}} {{pf.}}
+* Sotho: {{t+|st|ngola|xs=Sotho}}
+* Spanish: {{t+|es|escribir}}
+* Swedish: {{t+|sv|skriva}}
+{{trans-bottom}}
 
-'''send a letter to'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--left column-->
-*Dutch: [[schrijven]]
-*[[Esperanto]]: [[skribi]] [[al]]
-*Finnish: [[kirjoittaa]]
-*French: [[écrire]] [[à#French|à]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--right column-->
-*German: [[schreiben]]
-*Greek, Modern: [[γράφω]] [[σε]]
-*Irish: [[scríobh]] [[chuig]]
-*Italian: [[scrivere]] [[a#Italian|a]]
-|}
-|}
+{{trans-top|to show (information)}}
+* Croatian: {{t-|hr|napisati|alt=napísati}}
+* Finnish: {{t+|fi|kirjoittaa}}
+* Hungarian: kiír
+{{trans-mid}}
+* Japanese: [[書く]] ([[かく]], kaku), [[示す]] (shimesu)
+* Spanish: {{t+|es|escribir}}
+{{trans-bottom}}
 
-=====Translations to be checked=====
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{trans-top|to be an author}}
+* Armenian: {{t+|hy|գրել|tr=grel}}
+* Czech: {{t+|cs|psát}}
+* Dutch: {{t+|nl|schrijven}}
+* Esperanto: {{t-|eo|verki|xs=Esperanto}}
+* Estonian: {{t-|et|kirjanik olema}} {{gloss|belles-lettres}}; {{t-|et|literaat olema}}
+* Ewe: [[ŋlɔ]]
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|écrire}}
+* German: {{t+|de|schreiben}}, {{t+|de|texten}}, {{t+|de|dichten}}
+* Hebrew: {{t+|he|כתב|alt=כָּתַב|tr=katáv}}
+* Hungarian: {{t+|hu|ír}}
+{{trans-mid}}
+* Icelandic: {{t+|is|rithöfundur}}
+* Japanese: [[書く]] ([[かく]], kaku)
+* Latin: {{t+|la|scribo}}
+* Lojban: [[ciska]]
+* Norwegian: {{t+|no|skrive}}
+* Portuguese: {{t+|pt|escrever}}
+* Russian: {{t+|ru|писать|tr=pisát’}} {{impf}}, {{t+|ru|написать|tr=napisát’}} {{pf.}}
+* Spanish: {{t+|es|escribir}}
+* Swedish: {{t+|sv|skriva}}, {{t+|sv|författa}} {{gloss|works of fiction}}
+* Welsh: {{t-|cy|llocio}}
+{{trans-bottom}}
 
-The translations below need to be checked by native speakers and inserted into the appropriate table(s) above.  The numbering is not necessarily reliable.
+{{trans-top|record (data)}}
+* Armenian: {{t+|hy|գրել|tr=grel}}
+* Croatian: {{t+|hr|pisati|alt=písati}}
+* Czech: {{t-|cs|zapisovat}}
+* Dutch: {{t+|nl|schrijven}}
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|enregistrer}}
+* German: {{t+|de|brennen}}, {{t+|de|schreiben}}
+* Hungarian: ír; megír {{gloss|record onto a specific data storage, e.g. DVD}}; kiír {{gloss|record a specific data item}}
+{{trans-mid}}
+* Icelandic: {{t+|is|skrifa|alt=skrifa ~ hér sér}}
+* Indonesian: {{t+|id|catat}}
+* Japanese: [[書込む]] ([[かきこむ]], kakikomu)
+* Latin: {{t+|la|scribo}}
+* Lojban: [[vreji]]
+* Portuguese: {{t+|pt|escrever}}
+* Russian: {{t+|ru|записывать|tr=zapísyvat’}} {{impf}}, {{t+|ru|записать|tr=zapisát’}} {{pf.}}
+* Spanish: {{t+|es|anotar}}, {{t+|es|apuntar}}, {{t+|es|escribir}}
+* Swedish: {{t+|sv|skriva}}
+{{trans-bottom}}
 
-*Arabic: [[كَتَبَ]] (kataba)
-*[[Guaraní]]: [[ai]] (h-) (1)
-*Indonesian: [[tulis]]
-*[[Interlingua]]: [[scriber]] (1, 2)
-*Korean: [[쓰다]][[:ko:쓰다|ko]] (sseu-da), Hanja: [[필기]]하다[[:ko:필기하다|필기하다]] (pil-gi-ha-da)
-*Portuguese: [[escrever]] (1, 2)
-*[[Romanica]]: [[scriber]] (1, 2)
-*Spanish: [[escribir]]
-*Welsh: [[ysgrifennu]]
+{{checktrans-top}}
+* {{ttbc|gn}}: [[ai]] (h-) (1)
+* {{ttbc|id}}: {{t+|id|tulis|xs=Indonesian}}
+{{trans-mid}}
+* {{ttbc|ia}}: [[scriber]] (1, 2)
+* {{ttbc|ko}}: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}, {{t+|ko|필기하다|tr=pilgihada|sc=Hang}}
+{{trans-bottom}}
 
-===Intransitive verb===
-'''to write''' (''same inflection as transitive verb'')
+===Noun===
+{{en-noun}}
 
-#To form letters, etc., in order to communicate.
-#:''He's being '''writing''' on the wall.''
-#To be an author.
-#:''I '''write''' for a living.''
+# {{computing}} The operation of storing data, as in [[memory]] or onto [[disk]].
+#: ''How many '''writes''' per second can this hard disk handle?''
 
-====Translations====
+===References===
+* {{R:Century 1911}}
+* {{R:Webster 1913}}
 
-'''form letters, etc'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*{{eo}}: [[skribi]]
-*{{fr}}: [[écrire]]
-*{{de}}: [[schreiben]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-|}
-|}
+===Statistics===
+* {{rank|merely|struck|man's|650|write|caught|below|window}}
 
-'''be an author'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*{{eo}}: [[verki]]
-*{{fr}}: [[écrire]]
-*{{de}}: [[schreiben]], [[texten]], [[dichten]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-|}
-|}
+===Anagrams===
+* [[twier#English|twier]]
 
-===Derived terms===
-*[[write in]]
-*[[write-off]]<!--noun-->
-*[[write off]]<!--verb-->
-*[[write out]]
-*[[writer]]
-*[[write up]]<!--verb-->
-*[[write-up]]<!--noun-->
-*[[writing]]
-
-[[Category:Communication]]
 [[Category:100 English basic words]]
+[[Category:English irregular verbs]]
+[[Category:en:Communication]]
 
+[[ast:write]]
+[[az:write]]
+[[br:write]]
+[[ca:write]]
+[[cs:write]]
+[[cy:write]]
+[[de:write]]
+[[et:write]]
+[[el:write]]
 [[es:write]]
+[[eo:write]]
+[[eu:write]]
+[[fa:write]]
+[[fr:write]]
+[[gl:write]]
+[[ko:write]]
+[[hi:write]]
+[[hr:write]]
+[[io:write]]
+[[id:write]]
+[[it:write]]
+[[kn:write]]
+[[ka:write]]
+[[kk:write]]
+[[ku:write]]
+[[lo:write]]
+[[lt:write]]
+[[li:write]]
 [[hu:write]]
-[[fi:Write]]
+[[mg:write]]
+[[ml:write]]
+[[my:write]]
+[[fj:write]]
+[[nl:write]]
+[[ja:write]]
+[[no:write]]
+[[oc:write]]
+[[km:write]]
+[[pl:write]]
+[[pt:write]]
+[[ro:write]]
+[[ru:write]]
+[[sm:write]]
+[[simple:write]]
+[[fi:write]]
+[[sv:write]]
+[[ta:write]]
+[[te:write]]
+[[th:write]]
+[[tr:write]]
+[[uk:write]]
+[[vi:write]]
+[[zh:write]]
