@@ -1,80 +1,521 @@
-{{rfc}}
+{{also|Read}}
 ==English==
+{{wikipedia}}
 
-===Pronunciation 1===
-*rēd, /riːd/, /ri:d/
-*:'''Homophones''': [[reed]]
-*:[[Rhymes:English:-iːd|Rhymes: -iːd]]
+===Etymology===
+From {{etyl|ang|en}} {{term|rædan|rǣdan|advise, read|lang=ang}}, from {{proto|Germanic|rēdanan|advise, counsel|lang=en}}. Cognate with Danish {{term|råde|lang=da}}, Dutch {{term|raden|lang=nl}}, German {{term|raten|lang=de}}, Swedish {{term|råda|lang=sv}}. The development from ‘advise, interpret’ to ‘interpret letters, read’ is unique to English. Compare {{term|rede}}.
 
-=== Pronunciation 2===
-*rĕd, /rɛd/, /rEd/
-*:'''Homophones''': [[red]]
-*:[[Rhymes:English:-ɛd|Rhymes: -ɛd]]
+===Pronunciation===
+* {{audio|En-uk-to read.ogg|Audio (UK)}}
+; Noun, and verb's present tense
+* {{a|UK}} {{enPR|rēd}}, {{IPA|/ɹiːd/}}, {{X-SAMPA|/ri:d/}}
+*: {{rhymes|iːd}}
+* {{a|US}} {{enPR|rēd}}, {{IPA|/ɹid/}}, {{X-SAMPA|/rid/}}
+*: {{audio|en-us-read.ogg|Audio (US)}}
+* {{homophones|lang=en|reed}}
 
-=== Transitive verb ===
-'''to read''' /ri:d/ [[imp.]] & [[p.p.]] also spelled ''read'' but pronounced /rεd/.  ([[reads]], [[reading]])
-# look at and interpret letters or other information that is [[written]]
-# speak from a written book
-# is interpreted (''Arabic reads backwards'')
-# hear (especially in CB parlance) ''Do you read me?'' [CB = Citizens' Band (US unlicensed amateur radio)]
-# to make a special study of, as by perusing textbooks; as, to read theology or law.
+; Verb's past tense and past participle
+* {{enPR|rĕd}}, {{IPA|/ɹɛd/}}, {{X-SAMPA|/rEd/}}
+*: {{audio|en-us-read-past.ogg|Audio (US)}}
+*: {{rhymes|ɛd}}
+* {{homophones|lang=en|red|redd}}
+
+===Noun===
+{{en-noun}}
+
+# A reading or an act of reading, especially an actor's part of a play.
+#* Philip Larkin, ''Self's the Man''
+#*: And when he finishes supper / Planning to have a '''read''' at the evening paper / It's ''Put a screw in this wall'' &mdash; / He has no time at all...
+#* '''2006''', ''MySQL administrator's guide and language reference'' (page 393)
+#*: In other words, the system can do 1200 '''reads''' per second with no writes, the average write is twice as slow as the average read, and the relationship is linear.
+
+====Derived terms====
+{{rel-top|Terms derived from the noun "read"}}
+* [[cold read]]
+* [[read-out]], [[readout]]
+{{rel-bottom}}
 
 ====Translations====
-*[[Catalan]]: [[llegir]]
-*Chinese: [[读]] (dú)
-*Czech: [[číst]]
-*Dutch: [[:nl:lezen|lezen]]
-*[[Esperanto]]: [[legi]]
-*Estonian: [[lugema]]
-*Finnish: [[lukea]]
-*French: [[lire]]
-*German: [[lesen]] ([[:de:lesen]])
-*[[Guaraní]]: [[moñe'ẽ]]
-*Hebrew: [[לקרוא]]
-*Hungarian: [[olvas]]
-*[[ido]]: [[lektar]]
-*Indonesian: [[baca|membaca]]
-*[[Interlingua]]: [[leger]]
-*Irish: [[léigh]]
-*Italian: [[leggere]]
-*Japanese: [[読む]] ([[よむ]], yomu)
-*Korean: [[읽다]][[:ko:읽다]] (ilk-da), [[독서하다]] ([[:ko:독서하다]]) (dokseo-hada)
-*Latin: [[legere]]
-*Polish: [[czytać]], [[przeczytać]], [[odczytać]] 
-*Portuguese: [[ler]]
-*Romanian: [[citi]]
-*[[Romanica]]: [[leger]]
-*Russian: [[читать]] ''imperf'', [[прочитать]] ''perf''
-*Spanish: [[leer]]
-*Swedish: [[läsa]] (1,2,3,5), [[uppfatta]] (4), [[förstå]] (4)
-*[[Tagalog]]: [[basa]]
-*Welsh: [[darllen]]
-*[[Yiddish]]: [[לײענען]]
+{{trans-top|a reading or an act of reading}}
+* French: {{t+|fr|lecture|f}}
+* {{trreq|Georgian}}
+* Icelandic: {{t-|is|lesning|f}}
+* Manx: {{t-|gv|lhaih|m}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|leitura|f}}
+* Romanian: {{t-|ro|citire|f}}, {{t-|ro|lecturare}}; {{t-|ro|intonare|f}} (''actor'')
+* Sanskrit: {{t+|sa|पठति|tr=psThati|sc=Deva}}
+{{trans-bottom}}
 
-=== Verb ===
-'''read'''
+===Verb===
+{{en-verb|reads|reading|read|'''[[read]]''' ''or'' (''archaic or dialect'') '''[[readen]]'''}}
+[[Image:Franz Eybl, Lesendes Mädchen.jpg|thumb|upright|A painting of a girl reading.]]
 
-# past tense of ''to read''
+# {{obsolete}} To [[think]], [[believe]]; to [[consider]] (that).
+#* '''1590''', Edmund Spenser, ''The Faerie Queene'', II.i:
+#*: But now, faire Ladie, comfort to you make, / And '''read''' [...] / That short reuenge the man may ouertake [...].
+# {{transitive|or|intransitive}} To look at and interpret letters or other information that is [[written]].
+#: ''Have you '''read''' this book?''
+#: ''He doesn’t like to '''read'''.''
+# {{transitive|or|intransitive}} To speak aloud words or other information that is written. ''Often construed with a ''to'' phrase or an indirect object.''
+#: ''He '''read''' us a passage from his new book.''
+#: ''All right, class, who wants to '''read''' next?''
+# {{transitive}} To [[interpret]] or [[infer]] a [[meaning]], [[significance]], etc.
+#: ''I can '''read''' his feelings in his face.''
+# To consist of certain text.
+#: ''On the door hung a sign that '''read''', "Proper Safety Equipment Required Beyond This Point."''
+# {{intransitive}} Of text, etc., to be interpreted or read in a particular way.
+#: ''Arabic '''reads''' right to left.''
+# {{transitive}} To [[substitute]] (a corrected piece of text in place of an erroneous one); {{non-gloss definition|used to introduce an emendation of a text}}.
+#* '''1832''', John Lemprière et al., ''Bibliotheca classica'', Seventh Edition, W. E. Dean, [http://books.google.com/books?id=xuE_AAAAYAAJ&pg=PA263&dq=read page 263]:
+#*: In [[w:Ab Urbe Condita (book)|Livy]], it is nearly certain that for Pylleon we should '''read''' Pteleon, as this place is mentioned in connection with Antron.
+# {{informal|usually|ironic}} {{non-gloss definition|Used after a euphemism to introduce the intended, more blunt meaning<!--is there a better word than meaning?--> of a term}}.
+#* '''2009''', Suzee Vlk et al., ''The GRE Test for Dummies'', Sixth Edition, Wiley Publishing, ISBN 978-0-470-00919-2, [http://books.google.com/books?id=IUBh5_9PlaEC&pg=PT213&dq=read page 191]:
+#*: Eliminate illogical ('''read''': stupid) answer choices.
+# {{transitive|telecommunications}} To be able to hear what another person is saying over a radio connection.
+#: ''Do you '''read''' me?''
+# {{transitive|British}} To make a special study of, as by perusing textbooks.
+#: ''I am '''reading''' theology at university.''
+# {{transitive|transgenderism}} to [[recognise]] (someone) as being [[transgender]]
+#: ''Every time I go outside, I worry that someone will '''read''' me.''
+# {{past of|[[#Verb|read]]}}
 
-==== Translations ====
-*Dutch: [[las]], [[lazen]]
-*Esperanto: [[legis]]
-*Ido: [[lektis]]
-*{{sv}}: [[läste]] (1,2,3,5), [[förstod]] (4), [[uppfattade]] (4)
+====Usage notes====
+* When "read" is used transitively with an author's name as the object, it generally means "to look at writing(s) by (the specified person)" (rather than "to recognise (the specified person) as transgender"). Example: "I am going to read Milton before I read ''His Dark Materials'', so I know what ''His Dark Materials'' is responding to."
 
-=== Verb ===
-'''read'''
+====Synonyms====
+* {{sense|look at and interpret letters or other information}} [[interpret]], [[make out]], [[make sense of]], [[understand]], [[scan]]
+* {{sense|speak aloud words or other information that is written}} read aloud, [[read out]], read out loud, [[speak]]
+* {{sense|be able to hear}} [[hear]], [[receive]]
+* {{sense|make a study of}} [[learn]], [[study]], [[look up]]
 
-# past participle of ''to read''
+====Antonyms====
+* {{sense|to be recognised as transgender}} [[pass]]
 
-=== Translations ===
-*Dutch: [[gelezen]]
-*{{sv}}: [[läst]] (1,2,3,5), [[förstått]] (4), [[uppfattat]] (4)
+====Derived terms====
+{{rel-top|Terms derived from the verb “read”}}
+* [[cold read]]
+* [[dictated bt not read]]
+* [[lip read]]/[[lip-read]]
+* [[mind-read]]
+* [[read between the lines]]
+* [[read dating]]
+* [[read for]]
+* [[read my lips]]
+* [[read-only]]
+* [[read out]]
+* [[read over]]
+{{rel-mid}}
+* [[read somebody like a book]]
+* [[read somebody the riot act]]
+* [[read somebody's mind]]
+* [[read the green]]
+* [[read through]]
+* [[read up]]
+* [[readable]]
+* [[reader]]
+* [[reading]]
+* [[RTFM]]
+* [[sight read]]
+* [[unread]]
+* [[WORM]]/[[Write Once Read Many]]
+* [[well-read]]
+{{rel-bottom}}
 
-[[Category:Communication]]
-[[Category: English heteronyms]]
+====Translations====
+{{trans-top|look at and interpret letters or other information}}
+* Afrikaans: {{t+|af|lees|xs=Afrikaans}}
+* Amharic: {{t-|am|ማንበብ|tr=manbäb|sc=Ethi}}
+* Arabic: {{t-|ar|قرأ|tr=qara'a}}
+* Armenian: {{t+|hy|կարդալ|tr=kardal}}, {{t-|hy|ընթերցել|tr=ënt’erc’el}}
+* Asturian: {{t-|ast|lleer}}
+* Basque: {{t-|eu|erakurri}}, {{t-|eu|leitu}}
+* Belarusian: {{t-|be|чытаць|tr=čytác’|xs=Belarusian}}
+* Bengali: {{t-|bn|পড়া|sc=Beng}}
+* Breton: {{t+|br|lenn}}
+* Bulgarian: {{t+|bg|чета|tr=četá}} {{impf}}, {{t-|bg|прочета|tr=prochetá|sc=Cyrl}} {{pf.}}, {{t+|bg|прочитам|tr=pročitam}} {{impf}}
+* Burmese: {{t+|my|ဖတ်|tr=hpat|sc=Mymr|xs=Burmese}}
+* Catalan: {{t+|ca|llegir}}
+* Chinese:
+*: Mandarin: {{t-|cmn|讀|sc=Hani}}, {{t-|cmn|读|tr=dú|sc=Hani}}, {{t-|cmn|看|tr=kàn|sc=Hani}}
+* Czech: {{t+|cs|číst}}
+* Danish: {{t+|da|læse}}
+* Dutch: {{t+|nl|lezen}}
+* Esperanto: {{t+|eo|legi|xs=Esperanto}}
+* Estonian: {{t-|et|lugema}}, {{t-|et|vaata}}
+* Faroese: {{t-|fo|lesa}}
+* Fijian: {{t-|fj|wilika}}
+* Finnish: {{t+|fi|lukea}}
+* French: {{t+|fr|lire}}
+* Galician: {{t-|gl|ler|xs=Galician}}
+* Georgian: {{t-|ka|კითხვა|tr=kit‘xva}}
+* German: {{t+|de|lesen}}
+* Greenlandic: {{t-|kl|atuarpoq|xs=Greenlandic}}
+* Hebrew: {{t+|he|קרא|tr=kará}}
+* Hindi: {{t-|hi|पढ़ना|tr=paṛhnā|xs=Hindi}}
+* Hungarian: {{t+|hu|olvas}}, {{t+|hu|elolvas}}
+* Icelandic: {{t+|is|lesa}}
+* Ido: {{t+|io|lektar|xs=Ido}}
+* Indonesian: {{t+|id|baca}}
+* Irish: {{t-|ga|léigh|xs=Irish}}
+* Italian: {{t+|it|leggere}}
+* Japanese: {{t+|ja|読む|tr=よむ, yomu}}
+* Jèrriais: {{tø|roa-jer|liéthe}}
+* Khmer: {{t+|km|មើល|tr=merl|sc=Khmr}}, {{t+|km|អាន|tr=ān|sc=Khmr}}
+* Korean: {{t+|ko|읽다|tr=ikta|sc=Hang}}
+* Kurdish:
+*: [[Kurmanji]]: {{t+|ku|xwendin}}, {{t+|ku|xwandin}}
+*: Sorani: {{t|ku|خوێندن|tr=xwÊndin|sc=ku-Arab}}
+* Lao: {{t-|lo|ອ່ານ|tr='aan|sc=Laoo|xs=Lao}}
+* Latin: {{t-|la|legere}}
+{{trans-mid}}
+* Latvian: {{t+|lv|lasīt|xs=Latvian}}
+* Lithuanian: {{t+|lt|skaityti}}
+* Lojban: {{t+|jbo|tcidu}}
+* Lower Sorbian: {{tø|dsb|cytaś}}
+* Luxembourgish: {{t+|lb|liesen}}
+* Macedonian: {{t-|mk|чита|tr=čitá}}
+* Malay: {{t+|ms|baca}}
+* Malayalam: {{t+|ml|വായിക്കുക|sc=Mlym|xs=Malayalam}}, {{t+|ml|വായന|sc=Mlym|xs=Malayalam}}
+* Maltese: {{t-|mt|qara}}
+* Manx: {{t-|gv|lhaih}}
+* Maori: {{t-|mi|rīti}}
+* Marathi: {{t-|mr|पठ्|tr=path|sc=Deva}}
+* Mongolian: {{t-|mn|унших|tr=únših|sc=Cyrl|xs=Mongolian}}
+* Nahuatl: {{t-|nah|pōhua|xs=Nahuatl}}
+* Navajo: {{tø|nv|ółtaʼ}}
+* Norwegian: {{t+|no|lese}}
+* Persian: {{t+|fa|خواندن|tr=xândan|xs=Persian}}
+* Piedmontese: {{tø|pms|lese}}
+* Polish: {{t+|pl|czytać}}
+* Portuguese: {{t+|pt|ler}}
+* Romanian: {{t+|ro|citi}}, {{t-|ro|lectura}}
+* Russian: {{t+|ru|читать|tr=čitát’}} {{impf}}, {{t+|ru|прочитать|tr=pročitát’}} {{pf.}}
+* Sanskrit: {{t+|sa|पठ्|tr=path|sc=Deva}}
+* Scottish Gaelic: {{t-|gd|leugh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|читати|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t-|sh|čitati|xs=Serbo-Croatian}}
+* Sinhalese: {{t-|si|කියවනවා|sc=Sinh}}
+* Slovak: {{t-|sk|čítať}}
+* Slovene: {{t+|sl|brati}}
+* Sotho: {{t+|st|bala|xs=Sotho}}
+* Spanish: {{t+|es|leer}}
+* Swahili: {{t+|sw|soma|xs=Swahili}}
+* Swedish: {{t+|sv|läsa}}
+* Tagalog: {{t+|tl|bumasa}}, {{t-|tl|basahin}}
+* Telugu: {{t+|te|చదువు}}
+* Thai: {{t-|th|อ่าน|tr=ān}}
+* Turkish: {{t+|tr|okumak}}
+* Ukrainian: {{t-|uk|читати|tr=čytáty|xs=Ukrainian}}
+* Urdu: {{t-|ur|پڑھنا|tr=paṛhnā|xs=Urdu}}
+* Vietnamese: {{t+|vi|đọc|xs=Vietnamese}}
+* Volapük: {{t+|vo|reidön}}
+* Welsh: {{t+|cy|darllen}}
+* West Frisian: {{t+|fy|lêze|xs=West Frisian}}
+* Yiddish: {{t-|yi|לייענען|tr=leyenen|sc=Hebr}}
+{{trans-bottom}}
+
+{{trans-top|speak aloud words or other information that is written}}
+* Afrikaans: {{t+|af|lees|xs=Afrikaans}}
+* Albanian: {{t-|sq|lexon|xs=Albanian}}
+* {{trreq|am}}
+* Arabic: {{t-|ar|قرأ|tr=qara'a}}
+* Armenian: {{t+|hy|կարդալ|tr=kardal}}, {{t-|hy|ընթերցել|tr=ënt’erc’el}}
+* Basque: {{t-|eu|irakurri}}
+* Belarusian: {{t-|be|чытаць|tr=čytác’|xs=Belarusian}}
+* {{trreq|bn}}
+* {{trreq|br}}
+* Bulgarian: {{t+|bg|чета|tr=četá|sc=Cyrl}} {{impf}}, {{t-|bg|прочета|tr=prochetá|sc=Cyrl}} {{pf.}}, {{t+|bg|прочитам|tr=pročitam}} {{impf}}
+* Burmese: {{t+|my|ဖတ်|tr=hpat|sc=Mymr|xs=Burmese}}
+* Catalan: {{t+|ca|llegir}}
+* Chinese:
+*: Mandarin: {{t-|cmn|念|tr=niàn|sc=Hani}}
+* Czech: {{t+|cs|číst}}, {{t-|cs|předčítat}}
+* Danish: {{t+|da|læse}}
+* Dutch: {{t+|nl|voorlezen}}
+* Esperanto: {{t+|eo|legi|xs=Esperanto}}
+* Estonian: {{t-|et|lugema}}
+* Faroese: {{t-|fo|lesa}}
+* Finnish: {{t+|fi|lukea}}
+* French: {{t+|fr|lire}}
+* Galician: {{t-|gl|ler|xs=Galician}}
+* Georgian: {{t-|ka|კითხვა|tr=kit‘xva}}
+* German: {{t+|de|vorlesen}}
+* Greek: {{t+|el|διαβάζω|tr=diavázo}}
+* {{trreq|gu}}
+* Hawaiian: {{tø|haw|heluhelu}}
+* Hebrew: {{t+|he|קרא|tr=kará}}
+* {{trreq|hi}}
+* Hungarian: {{t+|hu|felolvas}}
+* Icelandic: {{t+|is|lesa}}
+* Irish: {{t-|ga|léigh|xs=Irish}}
+* Italian: {{t+|it|leggere}}
+* Japanese: {{t+|ja|読む|tr=よむ, yomu}}
+* Jèrriais: {{tø|roa-jer|liéthe}}
+* {{trreq|kn}}
+* Khmer: {{t+|km|មើល|tr=merl}}, {{t+|km|អាន|tr=ān}}
+* Korean: {{t+|ko|읽다|tr=ikta|sc=Hang}}
+* Kurdish:
+*: [[Kurmanji]]: {{t+|ku|xwendin}}, {{t+|ku|xwandin}}
+*: Sorani: {{t|ku|خوێندن|tr=xwÊndin|sc=ku-Arab}}
+{{trans-mid}}
+* Latin: {{t-|la|recito}}
+* Latvian: {{t+|lv|lasīt|xs=Latvian}}
+* Lithuanian: {{t+|lt|skaityti|xs=Lithuanian}}
+* Malay: {{t+|ms|baca}}
+* {{trreq|ml}}
+* {{trreq|mt}}
+* Manx: {{t-|gv|lhaih}}
+* Maori: {{t-|mi|kōrero}}, {{t-|mi|pānui}}
+* Mongolian: {{t-|mn|унших|tr=unših|sc=Cyrl|xs=Mongolian}}
+* {{trreq|ne}}
+* Norwegian: {{t+|no|lese}}
+* {{trreq|or}}
+* Persian: {{t+|fa|خواندن|tr=xwândan|xs=Persian}}
+* Piedmontese: {{tø|pms|lese}}
+* Polish: {{t+|pl|czytać}}
+* Portuguese: {{t+|pt|ler}}
+* Punjabi: {{t-|pa|ਵਾਚਣਾ|tr=wācṇā}}
+* Romanian: {{t+|ro|citi}}
+* Russian: {{t+|ru|читать|tr=čitát’}} {{impf}}, {{t+|ru|прочитать|tr=pročitát’}} {{pf.}}
+* {{trreq|sm}}
+* {{trreq|sa}}
+* Scottish Gaelic: {{t-|gd|leugh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|читати|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t-|sh|čitati|xs=Serbo-Croatian}}
+* Slovak: {{t-|sk|čítať}}
+* Slovene: {{t+|sl|brati}}
+* Sotho: {{t+|st|bala|xs=Sotho}}
+* Spanish: {{t+|es|leer}}
+* Swahili: {{t+|sw|soma|xs=Swahili}}
+* Swedish: {{t+|sv|läsa}}
+* Tagalog: {{t+|tl|bumasa}}, {{t-|tl|basahin}}
+* {{trreq|ty}}
+* {{trreq|ta}}
+* Telugu: {{t-|te|వల్లెవేయు}}
+* Thai: {{t-|th|อ่าน|tr=àan}}, {{t-|th|อ่านออกเสียง|tr=àan òk sĭang}}
+* {{trreq|to}}
+* Turkish: {{t+|tr|okumak}}
+* {{trreq|ur}}
+* Vietnamese: {{t+|vi|đọc|xs=Vietnamese}}
+* Welsh: {{t+|cy|darllen|xs=Welsh}}
+* West Frisian: {{t+|fy|lêze|xs=West Frisian}}
+* Yiddish: {{t-|yi|לייענען|tr=leyenen}}
+{{trans-bottom}}
+
+{{trans-top|have the ability to read text or other information}}
+* Bulgarian: {{t+|bg|чета|tr=četá|sc=Cyrl}} {{impf}}
+* Catalan: {{t+|ca|llegir}}
+* Czech: {{t+|cs|číst}}, {{t-|cs|být gramotný}}
+* Dutch: {{t+|nl|lezen}}
+* Esperanto: {{t+|eo|legi|xs=Esperanto}}
+* Estonian: {{t-|et|lugema}}
+* French: {{t+|fr|lire}}
+* German: [[lesen]] [[können]]
+* Irish: {{t-|ga|léigh|xs=Irish}}
+* Italian: {{t+|it|leggere}}
+* Jèrriais: {{tø|roa-jer|liéthe}}
+* Kurdish:
+*: [[Kurmanji]]: {{t+|ku|xwendin}}, {{t+|ku|xwandin}}
+*: Sorani: {{t|ku|خوێندن|tr=xwÊndin|sc=ku-Arab}}
+{{trans-mid}}
+* Latin: {{t+|la|lego}}
+* Latvian: {{t+|lv|lasīt|xs=Latvian}}
+* Manx: {{t-|gv|lhaih}}
+* Norwegian: {{t+|no|lese}}
+* Persian: {{t+|fa|خواندن|tr=xwândan|xs=Persian}}
+* Polish: {{t+|pl|czytać}}
+* Romanian: {{t-|ro|a putea citi}}, {{t+|ro|citi}}, {{t-|ro|a lectura}}
+* Russian: {{t+|ru|читать|tr=čitát’}} {{impf}}, {{t+|ru|прочитать|tr=pročitát’}} {{pf.}}
+* Swedish: {{t+|sv|läsa}}
+{{trans-bottom}}
+
+{{trans-top|to consist of certain text}}
+* Indonesian: {{t+|id|berbunyi}}
+* Spanish: {{t+|es|decir}} {{qualifier|Latin America}}, {{t+|es|poner}} {{qualifier|Spain}}
+{{trans-mid}}
+* Vietnamese: {{t|vi|chỉ}}, {{t|vi|đề}}
+{{trans-bottom}}
+
+{{trans-top|of text, etc., to be interpreted or read in a particular way}}
+* Basque: {{t-|eu|atzeman}}
+* Catalan: [[llegir-se]]
+* Czech: [[číst]] se
+* Dutch: [[gelezen worden]]
+* French: {{t-|fr|se lire}}
+* German: [[gelesen]] [[werden]]
+* Indonesian: {{t-|id|dibaca}}
+{{trans-mid}}
+* Italian: {{t-|it|leggersi}}
+* Latin: {{t-|la|legor}}
+* Polish: [[być]] [[czytany]]
+* Romanian: {{t-|ro|a fi citit}}, {{t-|ro|a fi lecturat}}
+* Spanish: {{t-|es|leerse}}, {{t-|es|interpertase}}, {{t-|es|entenderse}}
+* Vietnamese: {{t|vi|viết}}, {{t|vi|ghi}}
+{{trans-bottom}}
+
+{{trans-top|be able to hear (in a radio communication)}}
+* Bulgarian: {{t+|bg|чувам|tr=čúvam|sc=Cyrl}} {{impf}}
+* Catalan: {{t+|ca|sentir}}
+* Dutch: {{t+|nl|ontvangen}}, {{t+|nl|horen}}
+* Estonian: {{t-|et|kuulma}}
+* Finnish: {{t+|fi|kuulla}}
+* French: {{t+|fr|recevoir}}
+* German: {{t+|de|verstehen}}
+{{trans-mid}}
+* Indonesian: {{t+|id|mengerti}}
+* Kurdish:
+*: [[Kurmanji]]: {{t+|ku|bîstin}}, {{t+|ku|bihîstin}}
+* Norwegian: {{t+|no|forstå}}, {{t+|no|høre}}, {{t+|no|oppfatte}}
+* Portuguese: {{t+|pt|copiar}}
+* Swedish: {{t+|sv|förstå}}, {{t+|sv|höra}}, {{t+|sv|uppfatta}}
+{{trans-bottom}}
+
+{{trans-top|make a study of}}
+* Catalan: {{t+|ca|estudiar}}
+* Estonian: {{t-|et|omandama}}
+* French: {{t+|fr|étudier}}
+* German: {{t+|de|studieren}}, {{t+|de|hören}}
+* Indonesian: {{t-|id|pelajari}}
+* Kurdish:
+*: [[Kurmanji]]: {{t+|ku|vekolîn}}
+* Latin: {{t-|la|studere}}
+* Malayalam: {{t+|ml|പഠിക്കുക|sc=Mlym|xs=Malayalam}}
+{{trans-mid}}
+* Nahuatl: {{t+|nah|machtia|xs=Nahuatl}}
+* Norwegian: {{t-|no|studere}}
+* Polish: {{t+|pl|czytać}}, {{t+|pl|studiować}}
+* Portuguese: {{t+|pt|estudar}}
+* Russian: {{t+|ru|изучать|tr=izučát’}}
+* Spanish: {{t+|es|estudiar}}
+* Swedish: {{t+|sv|studera}}
+* Vietnamese: {{t|vi|học}}, {{t|vi|nghiên cứu}}
+{{trans-bottom}}
+
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans-top}}
+* {{ttbc|ka}}: {{t-|ka|კითხულობს|tr=kitkhulobs}}
+* {{ttbc|gn}}: [[moñe'ẽ]]
+* {{ttbc|io}}: [[lektar]]
+* {{ttbc|id}}: [[baca|membaca]]
+* {{ttbc|ia}}: [[leger]]
+{{trans-mid}}
+* {{ttbc|ko}}: {{t+|ko|읽다|tr=ikta|sc=Hang}}, {{t+|ko|독서하다|tr=dokseohada|sc=Hang}}
+* {{ttbc|pl}}: [[czytać]], [[przeczytać]], [[odczytać]]
+* {{ttbc|ro}}: [[citi]]
+* {{ttbc|yi}}: [[לײענען]] (leyenen) (l)
+{{trans-bottom}}
+
+===See also===
+{{lookfrom|read}}
+
+===Statistics===
+* {{rank|high|above|received|299|read|together|already|son}}
+
+===Anagrams===
+* [[DARE#English|DARE]], [[dare#English|dare]], [[dear#English|dear]], [['eard#English|'eard]], [[rade#English|rade]]
+
 [[Category:100 English basic words]]
+[[Category:English discourse markers]]
+[[Category:English heteronyms]]
+[[Category:English irregular past participles]]
+[[Category:English irregular simple past forms]]
+[[Category:English irregular verbs]]
+[[Category:English verbs with base form identical to past participle]]
+[[Category:en:Communication]]
 
+----
+
+==Old English==
+
+===Etymology===
+{{proto|Germanic|raudaz|lang=ang}}, from {{proto|Indo-European|reudh-|lang=ang}}.
+
+Germanic cognates: Old Saxon {{term|rod|rōd|lang=osx}}, Dutch {{term|rood|lang=nl}}, Old High German {{term|rot|rōt|lang=goh}} (German {{term|rot|lang=de}}), Old Norse {{term|rauðr|lang=non}} (Icelandic {{term|rauður|lang=is}}, Swedish {{term|röd|lang=sv}}), Gothic {{term|𐍂𐌰𐌿𐌸𐍃|tr=rauths|lang=got|sc=Goth}}.
+
+Indo-European cognates: Ancient Greek {{term|ἐρυθρός|tr=eruthros|lang=grc|sc=polytonic}}, Latin {{term|ruber|lang=la}}, Old Irish {{term|rúad|lang=sga}}, Lithuanian {{term|raũdas|lang=lt}}, Russian {{term|рудой|lang=ru|sc=Cyrl}}.
+
+===Pronunciation===
+* {{IPA|/ˈræːad/|lang=ang}}
+
+===Adjective===
+{{head|ang|adjective|head=rēad}}
+
+# [[red]]
+
+[[Category:ang:Colors]]
+
+----
+
+==Swedish==
+
+===Verb===
+{{head|sv|verb form}}
+
+# {{sv-verb-form-pastpart|rea}}
+
+----
+
+==West Frisian==
+
+===Etymology===
+{{proto|Germanic|raudaz|lang=fy}}, from {{proto|Indo-European|reudh-|lang=fy}}.
+
+===Adjective===
+{{head|fy|adjective}}
+
+# [[red]]
+
+[[Category:fy:Colors]]
+
+[[az:read]]
+[[br:read]]
+[[ca:read]]
+[[cs:read]]
+[[cy:read]]
+[[de:read]]
+[[et:read]]
+[[el:read]]
 [[es:read]]
+[[eu:read]]
+[[fa:read]]
+[[fr:read]]
+[[fy:read]]
+[[gl:read]]
+[[ko:read]]
+[[hr:read]]
+[[io:read]]
+[[is:read]]
+[[it:read]]
+[[kn:read]]
+[[kk:read]]
+[[ku:read]]
+[[lt:read]]
+[[li:read]]
 [[hu:read]]
-[[pl:Read]]
+[[mg:read]]
+[[ml:read]]
+[[my:read]]
+[[fj:read]]
+[[nl:read]]
+[[ja:read]]
+[[no:read]]
+[[oc:read]]
+[[pl:read]]
+[[pt:read]]
+[[ro:read]]
+[[ru:read]]
+[[sq:read]]
+[[simple:read]]
+[[fi:read]]
+[[sv:read]]
+[[tl:read]]
+[[ta:read]]
+[[te:read]]
+[[th:read]]
+[[vi:read]]
+[[tr:read]]
+[[uk:read]]
+[[zh:read]]
