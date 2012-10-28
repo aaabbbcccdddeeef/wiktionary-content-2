@@ -143,6 +143,53 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 
 ----
 
+==Egyptian==
+===Pronoun===
+{{head|egy|pronoun|head=<hiero>n:Z2</hiero>}}
+''Dependent pronoun: first person plural''
+# [[we]], [[us]] (see usage notes)
+
+====Usage notes====
+This form of pronoun is an [[enclitic]], which must directly follow the word it modifies. Its meaning depends on its context. 
+* When it follows a verb, it indicates the '''object''' of the verb
+* In the second and third person when it follows an adjective, it forms the subject of an adjectival sentance 
+* When it follows a relative adjective, such as [[ntj]], [[ntt]], and [[jsṯ]], it indicates the ''subject'' of the relative clause (Usually only in the first person singular and third person neuter)
+* When it follows an imperative, it indicates the ''object'' of the verb.
+* When it follows a particle like [[mj.k]], it indicates the '''subject''' of the clause.
+* When attached to a preposition, it indicates the '''object''' of the preposition
+<br />
+
+This pronoun has a variant hieroglyphic writing:
+{| class="wikitable"
+|-
+| <hiero>n</hiero>
+|-
+|''n''
+|-
+|}
+
+====Inflection====
+Dependent pronouns inflect for gender and number. The "neuter" third person form is used for inanimate objects. See individual pages for variant writings.
+{| class="wikitable"
+|-
+!  !! Singular !! Plural
+|-
+| '''1st person''' || ''[[wj]]''|| ''[[n#Egyptian|n]]''
+|-
+| '''2nd masculine'''|| ''[[ṯw]]'' / ''[[tw]]'' ||rowspan="2"| ''[[ṯn]]'' / ''[[tn#Egyptian|tn]]''
+|-
+| '''2nd feminine'''|| ''[[ṯn]]'' / ''[[tn#Egyptian|tn]]''
+|-
+| '''3rd masculine'''|| ''[[sw#Egyptian|sw]]''||rowspan="2"| ''[[sn#Egyptian|sn]]'' 
+|-
+| '''3rd feminine'''|| ''[[sj]]''
+|-
+| '''3rd neuter'''|| colspan="2"| ''[[st#Egyptian|st]]''
+|}
+
+===References===
+Allen, ''Middle Egyptian''
+
 ==Esperanto==
 
 ===Pronunciation===
