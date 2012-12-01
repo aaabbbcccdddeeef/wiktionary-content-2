@@ -144,6 +144,46 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ----
 
 ==Egyptian==
+===Adjective===
+{{head|egy|prepostion|head=<hiero>n</hiero>}}
+
+# [[of]]
+
+====Usage notes====
+This ''genitival adjective'' is used to express the indirect genitive. It indicates that the noun preceeding it (with which it agrees in gender and number), is possessed by the noun which follows it.
+
+====Inflection====
+{| class="wikitable"
+|-
+!  !! Masculine !! Feminine
+|-
+| Singular || ''n''<hiero>n</hiero> || ''nt''<hiero>n:t</hiero>
+|-
+| Plural || ''nw''<hiero>nw:Z1</hiero> || ''nt''<hiero>n:t</hiero>
+|}
+
+===Preposition===
+{{head|egy|prepostion|head=<hiero>n</hiero>}}
+
+# [[to]], [[for]]  ([[dative]]) 
+# [[towards]]
+# for a period of time
+# because of
+
+====Usage notes====
+Before a noun it can be written
+{| class="wikitable"
+|-
+| <hiero>D35</hiero>
+|-
+| ''nj''
+|}
+
+This should not be confused with the negative particle, which is written similarly
+
+====Inflection====
+Adverbial forms: ''nj'' and ''n''
+
 ===Pronoun===
 {{head|egy|pronoun|head=<hiero>n:Z2</hiero>}}
 ''Dependent pronoun: first person plural''
@@ -188,7 +228,8 @@ Dependent pronouns inflect for gender and number. The "neuter" third person form
 |}
 
 ===References===
-Allen, ''Middle Egyptian''
+Allen, ''Middle Egyptian''<br />
+Faulkner, ''A Concise Dictionary of Middle Egyptian''
 
 ==Esperanto==
 
