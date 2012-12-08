@@ -95,7 +95,7 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 # [[mile]]
 # [[milli]]
 # [[million]]
-#*{{quote-news
+#* {{quote-news
 |year=2012
 |date=May 5
 |author=Phil McNulty
@@ -226,17 +226,6 @@ Contraction <!-- Abbreviation? -->of {{term|mwen|lang=ht}}, from {{etyl|fr|ht}} 
 
 ----
 
-==[[ǃKung]]==
-
-===Verb===
-'''m'''
-
-# [[eat]]
-
-[[Category:ǃKung verbs]]
-
-----
-
 ==Latin==
 
 ===Letter===
@@ -301,11 +290,17 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 ----
 
 ==Norwegian==
+
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|/emː/|/ɛmː/}}
-* {{sense|phoneme}} {{IPA|/m/}}
+* {{sense|letter name}} {{IPA|/emː/|/ɛmː/|lang=no}}
+* {{sense|phoneme}} {{IPA|/m/|lang=no}}
+
 ===Letter===
 * ''The 13th letter of the Norwegian alphabet''.
+{{head|no|letter}}
+
+# {{defn|Norwegian}}
+
 ----
 
 ==Portuguese==
@@ -408,6 +403,17 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 
 ====See also====
 * {{list|tr|Latin script letters}}
+
+----
+
+==ǃKung==
+
+===Verb===
+'''m'''
+
+# [[eat]]
+
+[[Category:ǃKung verbs]]
 
 [[an:m]]
 [[zh-min-nan:m]]
