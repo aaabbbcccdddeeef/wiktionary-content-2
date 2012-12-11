@@ -66,6 +66,7 @@ From {{etyl|enm}} and {{etyl|ang}} lower case letter {{term|e}} and split of {{t
 In addition to the phonemes noted above, "e" can also be silent, representing no sound itself but indicating which phoneme another letter in the word represents. See the article "[[w:Silent e|Silent e]]" on Wikipedia.
 
 ====Letter====
+{{rfc-level|Letter at L4+ not in L3 Ety section|lang=en}}
 {{en-letter|upper=E|lower=e}}
 
 # {{Latn-def|en|letter|5|e}}
@@ -96,8 +97,8 @@ In addition to the phonemes noted above, "e" can also be silent, representing no
 * Esperanto: {{t+|eo|e|xs=Esperanto}}
 * Hindi: {{t+|hi|ई|tr=ī|xs=Hindi}}
 * Japanese: {{t-|ja|イー|tr=ī}}
-{{trans-mid}}
 * Korean: {{t+|ko|이|tr=i|sc=Hang}}
+{{trans-mid}}
 * Latin: {{t+|la|e|alt=ē}}
 * Marathi: {{t-|mr|ई|tr=ī|sc=Deva}}
 * Portuguese: {{t+|pt|é|m}}
@@ -576,7 +577,7 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 ===Etymology 1===
 From {{etyl|la|nap}} {{term|de|lang=la}}
 
-===Alternative forms===
+====Alternative forms====
 [['e]]
 
 ====Preposition====
@@ -598,11 +599,12 @@ From {{etyl|la|nap}} {{term|et|lang=la}}
 
 ===Etymology 1===
 
-===Pronunciation===
-* {{sense|letter name}} {{IPA|/eː/}}
-* {{sense|phoneme}} {{IPA|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+====Pronunciation====
+{{rfc-level|check placement of Pronunciation|lang=no}}
+* {{sense|letter name}} {{IPA|/eː/|lang=no}}
+* {{sense|phoneme}} {{IPA|/eː/|/e/|/ɛ/|/ə/|/æ/|lang=no}}
 
-====Usage notes====
+=====Usage notes=====
 * {{IPA|/ə/}} only appears in unstressed syllables.
 
 ====Letter====
@@ -718,7 +720,6 @@ Only used with sensing verbs; otherwise use {{l|rap|i}}.
 ==Romanian==
 
 ===Etymology 1===
-{{rfc-pron-n|Pronunciation 1|lang=ro}}
 * {{qualifier|letter name}} {{IPA|/e/|lang=ro}}
 * {{qualifier|phoneme|generally}} {{IPA|/e/|lang=ro}}
 
@@ -758,13 +759,13 @@ See {{term|E|lang=ro}} for pronunciation notes and details.
 ===Etymology 3===
 From {{etyl|la|ro}} {{term|et|lang=ro}}.
 
-===Conjunction===
+====Conjunction====
 {{head|ro|conjunction}}
 
 # {{context|obsolete|lang=ro}} [[and]]
 # {{context|obsolete|lang=ro}} [[but]]
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|and}} {{l|ro|și}}
 * {{sense|but}} {{l|ro|dar}}, {{l|ro|iar}}
 
