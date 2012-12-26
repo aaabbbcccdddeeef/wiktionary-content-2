@@ -209,15 +209,27 @@ From {{etyl|sla-pro|cu}} {{recons|jь|lang=sla-pro}}.
 ====Synonyms====
 * {{sense|and}} [[а]]
 
+===Particle===
+{{head|ru|particle|tr=i}}
+
+# {{context|preceding a verb}} [[do]] ({{n-g|emphasizes the truth of the following verb}}).
+#: Он так '''и''' делает.
+#:: ''On tak '''i''' délajet.''
+#:: He '''does''' do it that way.
+#: Она '''и''' пошла туда.
+#:: ''Oná '''i''' pošlá tudá.''
+#:: She '''did''' go there.
+#: Оно '''и''' есть такое.
+#:: ''Onó '''i''' jest' takóje.''
+#:: It '''''is''''' like that.
+
 ===Noun===
-'''и''' (i) {{n}} {{qualifier|indeclinable}}
+{{ru-noun|и|tr=i|g=n|decl=no}}
 
 # The Cyrillic letter [[и#Russian|И]], [[и#Russian|и]].
 # {{qualifier|Roman letter}} [[I]], [[i]]
 # {{qualifier|English letter}} [[E]], [[e]]
 
-[[Category:Russian conjunctions]]
-[[Category:Russian indeclinable nouns]]
 [[Category:ru:Letter names]]
 [[Category:ru:Cyrillic letter names]]
 [[Category:ru:Latin letter names]]
