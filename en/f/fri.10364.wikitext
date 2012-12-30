@@ -85,10 +85,16 @@ From {{etyl|gml|no}} {{term|vrī|lang=gml}}. Cognates inlcude Danish {{term|fri|
 
 ==Old Frisian==
 
+===Etymology===
+From {{etyl|gem-pro|ofs}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon and Old High German {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|ofs}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}.
+
 ===Adjective===
 '''fri'''
 
 # [[free]]
+
+====Descendants====
+* West Frisian: {{l|fy|frij}}
 
 [[Category:Old Frisian adjectives]]
 
@@ -97,12 +103,15 @@ From {{etyl|gml|no}} {{term|vrī|lang=gml}}. Cognates inlcude Danish {{term|fri|
 ==Old High German==
 
 ===Etymology===
-{{etyl|gem-pro|goh}} {{recons|frijaz|lang=gem-pro}}, whence also Old English ''[[freo|frēo]]''
+From {{etyl|gem-pro|goh}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]'', Gothic {{term|𐍆𐍂𐌴𐌹𐍃|tr=freis|lang=got}}. Ultimately from {{etyl|ine-pro|goh}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}.
 
 ===Adjective===
 {{head|goh|adjective|head=frī}}
 
 # [[free]]
+
+====Descendants====
+* German: {{l|de|frei}}
 
 ----
 
@@ -147,7 +156,7 @@ From {{etyl|cel-pro|sga}} {{recons|writ-|lang=cel-pro}} (cf. Welsh {{term|wrth|l
 ==Old Saxon==
 
 ===Etymology===
-{{etyl|gem-pro|osx}} {{recons|frijaz|lang=gem-pro}}, whence also Old English ''[[freo|frēo]]''
+From {{etyl|gem-pro|osx}} {{recons|frijaz|lang=gem-pro}}, whence also Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|osx}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}. 
 
 ===Adjective===
 {{head|osx|adjective|head=frī}}
@@ -157,6 +166,11 @@ From {{etyl|cel-pro|sga}} {{recons|writ-|lang=cel-pro}} (cf. Welsh {{term|wrth|l
 ====Declension====
 {{osx-decl-adj|title=frī|frī}}
 
+====Descendants====
+* Middle Low German: {{l|gml|fri}}
+** Norwegian: {{l|no|fri}}
+** Swedish: {{l|sv|fri}}
+** Danish: {{l|da|fri}}
 ----
 
 ==Scots==
