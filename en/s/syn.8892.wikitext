@@ -52,17 +52,20 @@ From {{etyl|sla-pro|dsb}} {{recons|synъ|lang=sla-pro}}, from {{etyl|ine-pro|dsb
 * {{IPA|[sɨn]|lang=dsb}}
 
 ===Noun===
-{{head|dsb|noun|g=m}}
+{{dsb-noun|m|dim=synk}}
 
 # [[son]]
 
 ====Declension====
 {{dsb-decl-noun-17|syn|animate=1}}
 
+====Derived terms====
+* {{l|dsb|synašk}}
+
 ====Coordinate terms====
-* {{sense|gender}} {{l|dsb|źowka}}
-* {{sense|generation}} {{l|dsb|nan}}
-* {{sense|gender and generation}} {{l|dsb|maś}}
+* {{l|dsb|źowka|gloss=daughter}}
+* {{l|dsb|nan|gloss=father}}
+* {{l|dsb|maś|gloss=mother}}
 
 [[Category:dsb:Family]]
 [[Category:dsb:Male]]
