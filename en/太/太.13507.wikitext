@@ -42,46 +42,63 @@ Also {{Han simp|能}}, as in [[态]] (from [[態]]).
 ===Kanji===
 {{ja-kanji|grade=2|rs=大01}}
 
-# fat
+# {{sense|adjective}} [[fat]]
 
 ====Readings====
-* {{ja-readings|on=[[た]] (ta), [[たい]] (tai)|kun=[[太い]] ([[ふとい|ふと-い]], futo-i), [[太む]] ([[ふとむ|ふと-む]], futo-mu), [[太やか]] ([[ふとやか|ふと-やか]], futo-yaka), [[太る]] ([[ふとる|ふと-る]], futo-ru)|nanori=[[おお]] (ō), [[たか]] (taka), [[ひろ]] (hiro), [[ふとし]] (futoshi)}}
+{{ja-readings
+|kanyoon=[[た]] (ta)
+|goon=[[たい]] (tai)
+|kun=[[太い]] ([[ふとい|ふと-い]], futo-i), [[太む]] ([[ふとむ|ふと-む]], futo-mu), [[太やか]] ([[ふとやか|ふと-やか]], futo-yaka), [[太る]] ([[ふとる|ふと-る]], futo-ru)
+|nanori=[[おお]] (ō), [[たか]] (taka), [[ひろ]] (hiro), [[ふとし]] (futoshi)
+}}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{l|ja|太織}} ({{l|ja|ふとおり}}, ''futoori''): alternate for 太絹
-* {{l|ja|太絹}} ({{l|ja|ふとぎぬ}}, ''futoginu''): a type of [[cloth]], [[woven]] using [[raw]] [[silk]]
-* {{l|ja|太股}} ({{l|ja|ふともも}}, ''futomomo''): the [[thigh]]
-* {{l|ja|太陰}} ({{l|ja|たいいん}}, ''taiin''): the [[moon]]
-* {{l|ja|太陽}} ({{l|ja|たいよう}}, ''taiyō''): the [[sun]]
-* {{l|ja|太巻}} ({{l|ja|ふとまき}}, ''futomaki''): a [[fat]] [[roll]]
-* {{l|ja|太虚}} ({{l|ja|たいきょ}}, ''taikyo''): the [[sky]]
-* {{l|ja|太極拳}} ({{l|ja|太極拳}}, ''taikyokuken''): Chinese [[shadow boxing]]; [[tai chi]]
-* {{l|ja|太空}} ({{l|ja|たいくう}}, ''taikū''): the [[sky]]
-* {{l|ja|太原}} ({{l|ja|たいげん}}, ''Taigen'' / {{l|ja|たいゆあん}}, ''Taiyuan''): Chinese city of [[Taiyuan]]
+* {{l|ja|太織|tr=[[ふとおり]], ''[[futoori]]''}}: alternate for {{l|ja|太絹}}
+* {{l|ja|太絹|tr=[[ふとぎぬ]], ''[[futoginu]]''}}: a type of [[cloth]], [[woven]] using [[raw]] [[silk]]
+* {{l|ja|太股|tr=[[ふともも]], ''[[futomomo]]''}}: the [[thigh]]
+* {{l|ja|太陰|tr=[[たいいん]], ''[[taiin]]''}}: the [[moon]]
+* {{l|ja|太陽|tr=[[たいよう]], ''[[taiyō]]''}}: the [[sun]]
+* {{l|ja|太巻|tr=[[ふとまき]], ''[[futomaki]]''}}: a [[fat]] [[roll]]
+* {{l|ja|太虚|tr=[[たいきょ]], ''[[taikyo]]''}}: the [[sky]]
+* {{l|ja|太極拳|tr=[[たいきょくけん]], ''[[taikyokuken]]''}}: Chinese [[shadow boxing]]; [[tai chi]]
+* {{l|ja|太空|tr=[[たいくう]], ''[[taikū]]''}}: the [[sky]]
+* {{l|ja|太原|tr=[[たいげん]], ''[[Taigen]]''; [[たいゆあん]], ''[[Taiyuan]]''}}: Chinese city of [[Taiyuan]]
 {{der-mid}}
-* {{l|ja|太古}} ({{l|ja|たいこ}}, ''taiko''): [[ancient]] [[times]]
-* {{l|ja|太鼓}} ({{l|ja|たいこ}}, ''taiko''): a [[drum]]
-* {{l|ja|太鼓橋}} ({{l|ja|たいこばし}}, ''taikobashi''): an [[arched]] [[bridge]]
-* {{l|ja|太鼓腹}} ({{l|ja|たいこばら}}, ''taikobara''): a [[paunch]]
-* {{l|ja|太子}} ({{l|ja|たいし}}, ''taishi''): the [[crown prince]]
-* {{l|ja|太刀}} ({{l|ja|たち}}, ''tachi''): a Japanese [[longsword]]
-* {{l|ja|太郎}} ({{l|ja|たろう}}, ''Tarō''): a male [[given name]]
-* {{l|ja|樺太}} ({{l|ja|からふと}}, ''Karafuto''): [[Sakhalin]]
-* {{l|ja|唐太}} ({{l|ja|からふと}}, ''Karafuto''): [[Sakhalin]]
+* {{l|ja|太古|tr=[[たいこ]], ''[[taiko]]''}}: [[ancient]] [[times]]
+* {{l|ja|太鼓|tr=[[たいこ]], ''[[taiko]]''}}: a [[drum]]
+* {{l|ja|太鼓橋|tr=[[たいこばし]], ''[[taikobashi]]''}}: an [[arched]] [[bridge]]
+* {{l|ja|太鼓腹|tr=[[たいこばら]], ''[[taikobara]]''}}: a [[paunch]]
+* {{l|ja|太子|tr=[[たいし]], ''[[taishi]]''}}: the [[crown prince]]
+* {{l|ja|太刀|tr=[[たち]], ''[[tachi]]''}}: a Japanese [[longsword]]
+* {{l|ja|太郎|tr=[[たろう]], ''[[Tarō]]''}}: a male [[given name]]
+* {{l|ja|樺太|tr=[[からふと]], ''[[Karafuto]]''}}: [[Sakhalin]]
+* {{l|ja|唐太|tr=[[からふと]], ''[[Karafuto]]''}}: [[Sakhalin]]
 {{bottom}}
 
+===Etymology 1===
+Derived from the root word {{term|lang=ja|大|tr=ō||great, big}}.
 
-===Proper noun===
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[o̞ː]}}
+
+====Proper noun====
 {{ja-pos|k|proper|hira=おお|rom=Ō}}
 
-# {{surname|lang=ja}}
+# {{surname|lang=ja|sort=おお}}
 
+===Etymology 2===
+The {{etyl|ojp|ja|sort=ふとし}} [[terminal]] form of adjective {{term|lang=ja|太い|tr=futoi||fat, thick, big}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[ɸɯᵝto̞ɕi]}}
+
+====Proper noun====
 {{ja-pos|k|proper|hira=ふとし|rom=Futoshi}}
 
-# {{given name|male|lang=ja}}.
-
-[[Category:Japanese male given names|ふとし]]
+# {{given name|male|lang=ja|sort=ふとし}}.
 
 ----
 
