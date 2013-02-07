@@ -24,28 +24,41 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=水08}}
 
-# {{defn|lang=ja|sort=水08}}
+# {{l|en|shore}}, {{l|en|horizon}}
 
 ====Readings====
-* {{ja-readings|on=[[がい]] (gai)|kun=[[きし]] (kishi), [[はて]] (hate)}}
-
-===Noun===
-{{head|ja|noun|sc=Jpan}}{{attention|ja|needs inflection template}}
-
-# {{ja-noun|(k)|hira=はて|rom=hate}}
-
-# horizon
-## Example: 世界の涯か? (''Sekai no hate, ka? Edge of the world, you say?'')
+{{ja-readings
+|goon=(''rare'') [[げ]] (ge)
+|kanon=[[がい]] (gai)
+|kun=(''rare'') [[はて]] (hate)
+}}
 
 ====Compounds====
-* [[一生涯]], ([[いっしょうがい]], isshōgai): lifetime
-* [[境涯]], ([[きょうがい]], kyōgai): circumstances; one's situation in life
-* [[公生涯]] ([[こうしょうがい]], kōshōgai): public life
-* [[際涯]] ([[さいがい]], saigai): limits; boundary; end
-* [[水涯]] ([[すいがい]], suigai): water's edge
-* [[全生涯]] ([[ぜんしょうがい]], zenshōgai): one's whole life
-* [[天涯]] ([[てんがい]], tengai): horizon; distant land; skyline; heavenly shores; remote region
-* [[生涯学習]] ([[しょうがいがくしゅう]], shōgaigakushū): lifelong learning
+{{der-top|Compounds}}
+* {{l|ja|一生涯|tr={{l|ja|いっしょうがい}}, ''{{l|ja|sc=Latn|isshōgai}}''}}: lifetime
+* {{l|ja|境涯|tr={{l|ja|きょうがい}}, ''{{l|ja|sc=Latn|kyōgai}}''}}: circumstances; one's situation in life
+* {{l|ja|公生涯|tr={{l|ja|こうしょうがい}}, ''{{l|ja|sc=Latn|kōshōgai}}''}}: public life
+* {{l|ja|際涯|tr={{l|ja|さいがい}}, ''{{l|ja|sc=Latn|saigai}}''}}: limits; boundary; end
+* {{l|ja|水涯|tr={{l|ja|すいがい}}, ''{{l|ja|sc=Latn|suigai}}''}}: water's edge
+* {{l|ja|全生涯|tr={{l|ja|ぜんしょうがい}}, ''{{l|ja|sc=Latn|zenshōgai}}''}}: one's whole life
+* {{l|ja|天涯|tr={{l|ja|てんがい}}, ''{{l|ja|sc=Latn|tengai}}''}}: horizon; distant land; skyline; heavenly shores; remote region
+* {{l|ja|生涯学習|tr={{l|ja|しょうがいがくしゅう}}, ''{{l|ja|sc=Latn|shōgaigakushū}}''}}: lifelong learning
+{{bottom}}
+
+===Etymology===
+By extension from verb {{term|lang=ja|果てる|tr=hateru||to be at an end, to finish, to be done}}.
+
+The ''hate'' reading for {{Jpan|涯}} is rare, and is not listed in all dictionaries.
+
+===Pronunciation===
+* {{l|ja|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ha̠te̞]}}
+
+===Noun===
+{{ja-noun|k|hira=はて|rom=hate}}
+
+# the end of the land: the {{l|en|shore}}
+# the end of the visible world: the {{l|en|horizon}}
 
 ----
 
