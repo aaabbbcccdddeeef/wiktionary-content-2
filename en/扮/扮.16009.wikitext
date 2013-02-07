@@ -28,10 +28,40 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手04}}
 
-# {{defn|lang=ja|sort=手04}}
+# {{l|en|dress up|dress-up}}, {{l|en|disguise}}
 
 ====Readings====
-* {{ja-readings|on=[[ふん]] (fun), [[はん]] (han), [[へん]] (hen)|kun=[[よそおう]] (yosoou)}}
+{{ja-readings
+|goon=(''rare'') [[へん]] (hen)
+|kanon=(''rare'') [[はん]] (han)
+|on=[[ふん]] (fun)
+|kun=(''rare'') [[よそおう|よそお.う]] ({{l|ja|扮う}}, yosoo.u)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{l|ja|扮飾|tr={{l|ja|ふんしょく}}, ''{{l|ja|sc=Latn|funshoku}}''}}: {{l|en|makeup}}, {{l|en|put on|putting on}} {{l|en|cosmetics}}
+* {{l|ja|扮装|tr={{l|ja|ふんそう}}, ''{{l|ja|sc=Latn|funsō}}''}}: {{l|en|makeup}}, {{l|en|disguise}}, {{l|en|costume}}
+* {{l|ja|扮楡|tr={{l|ja|ふんゆ}}, ''{{l|ja|sc=Latn|fun'yu}}''}}: the {{l|en|elm}} tree; a {{l|en|shrine}}; an {{l|en|imperial}} {{l|en|palace}}; one's {{l|en|hometown}}
+{{bottom}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふん}}, with the addition of {{etyl|ojp|ja|sort=ふん}} {{term|lang=ja|す|tr=su}} for verb [[conjugation]].  {{term|lang=ja|す|tr=su}} eventually evolved into modern {{etyl|ja|-}} {{term|lang=ja|する|tr=suru}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[ɸɯ̃ᵝɴ]}}
+
+===Verb===
+{{ja-verb-suru|k|hira=ふん|rom=fun|trans=intransitive}}
+
+# to [[dress up]] in a [[disguise]], to [[disguise]] oneself
+#: {{usex|lang=ja|老人に'''扮して'''警察を逃げた。|tr=ろうじんに'''ふんして'''けいさつをにげた。<br/>''Rōjin ni '''fun shite''' keisatsu o nigeta.''|t=He '''dressed up''' as / '''disguised himself''' as an old man and escaped from the police.}}
+# to put on a [[costume]], to [[play]] a [[role]]
+#: {{usex|lang=ja|去年ハムレットに'''扮しました'''。|tr=きょねんハムレットに'''ふんしました'''。<br/>''Kyonen Hamuretto ni '''fun shimashita'''.''|t=Last year I '''played''' / '''took the role of''' Hamlet.}}
+
+====Conjugation====
+{{ja-suru|扮|ふん|fun}}
 
 ----
 
