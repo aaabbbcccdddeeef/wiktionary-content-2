@@ -1,26 +1,63 @@
 ==Japanese==
 
-===Adnominal===
-{{ja-pos|h|adnominal|kanji=此の|rom=kono}}
+===Etymology 1===
+Originally a compound of {{etyl|ojp|ja}} elements {{compound|lang=ja|こ|tr1=ko|t1=(''pronoun'') this|の|tr2=no|t2=possessive, modifies following noun}}.  {{l|ja|こ}} as a pronoun is no longer used individually in modern Japanese.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞no̞]}}
+
+====Alternative forms====
+* {{l|ja|此の}}, {{l|ja|斯の}}
+
+====Adnominal====
+{{ja-pos|h|adnominal|rom=kono}}
 
 # ''([[deictically]])'' [[this]] ... (near the speaker)
-#: '''この'''車は緑です。
-#:: '''This''' car is green.
+#: {{usex|lang=ja|'''この'''車は緑です。|tr='''この'''くるまはみどりです。<br/>'''''Kono''' kuruma wa midori desu.''|t='''This''' car is green.}}
 # ''([[anaphorically]])'' [[this]] ... I am talking about (only the speaker knows)
 
-====See also====
+=====Usage notes=====
+This term can only be used when followed by a noun or noun phrase.  It cannot be used as a standalone pronoun.  Examples:
+* '''この'''...はすきです。 — '''''Kono'''... wa suki desu.'' — I like this ... — '''incorrect''': there must be a noun in place of the ...
+:: Using ''kono'' as above is a bit like using English {{term|lang=en|the}} without a noun after it.
+* '''この'''ものはすきです。 — '''''Kono''' mono wa suki desu.'' — I like this thing. — '''correct''': a noun follows ''kono''.
+
+Almost always spelled in hiragana as {{Jpan|この}}.
+
+=====See also=====
 {{Japanese demonstratives}}
 
-====Related terms====
-* [[その]] (''sono'') [[that]] (near speaker)
-* [[あの]] (''ano'') [[that]] (near listener)
-* [[どの]] (''dono'') [[which]]
-* [[これ]] (''kore'') [[this]] one
-* [[ここ]] (''koko'') [[here]]
-* [[こちら]] (''kochira'') [[this]] direction
+=====Related terms=====
+{{rel-top}}
+* {{l|ja|その|tr=''{{l|ja|sc=Latn|sono}}''}}: [[that]] ... (near speaker)
+* {{l|ja|あの|tr=''{{l|ja|sc=Latn|ano}}''}}: [[that]] ... (near listener)
+* {{l|ja|どの|tr=''{{l|ja|sc=Latn|dono}}''}}: [[which]]
+* {{l|ja|これ|tr=''{{l|ja|sc=Latn|kore}}''}}: [[this]] one
+* {{l|ja|ここ|tr=''{{l|ja|sc=Latn|koko}}''}}: [[here]]
+* {{l|ja|こちら|tr=''{{l|ja|sc=Latn|kochira}}''}}: [[this]] direction
+{{rel-bottom}}
 
-====Usage notes====
-* The hiragana spelling ([[この]]) is preferred to the kanji spelling ([[此の]]), which is rarely used.
+===Etymology 2===
+{{IPAchar|/kokono/}} > {{IPAchar|/kono/}}
+
+Abbreviation of {{etyl|ojp|ja}} ''kokono'' (“nine”).
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞no̞]}}
+
+====Alternative forms====
+* {{l|ja|九}}
+
+====Number====
+{{ja-pos|h|number|rom=kono}}
+
+# [[nine]]
+#: {{usex|lang=ja|ひい、ふう、みい、…なな、やあ、'''この'''、とお|tr=''hī, fū, mī, ... nana, yā, '''kono''', tō''|t=one, two, three, ... seven, eight, '''nine''', ten}}
+
+=====Usage notes=====
+Generally only used when counting out loud, as in the example above.  In writing, usually found spelled out in hiragana as {{Jpan|この}} to make the reading unambiguous.
 
 [[fr:この]]
 [[ko:この]]
