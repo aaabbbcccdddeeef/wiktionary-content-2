@@ -23,19 +23,48 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=なし|rom=nashi}}
-
-# a [[pear]] tree
-# a [[pear]], a [[Japanese]] [[pear]]
-
 ===Kanji===
 {{ja-kanji|grade=|rs=木07}}
 
-# {{defn|lang=ja|sort=木07}}
+# [[pear]]
 
 ====Readings====
-* {{ja-readings|on=[[り]] (ri)|kun=[[なし]] (nashi)}}
+{{ja-readings
+|on=[[り]] (ri)
+|kun=[[なし]] (nashi)
+|nanori=[[か]] (ka)
+}}
+
+[[File:Pear-tree,katori-city,japan.JPG|thumb|250px|{{Jpan|梨}}: the [[tree]] and the [[fruit]]]]
+{{wikipedia|lang=ja|ナシ}}
+{{wikipedia|Pyrus pyrifolia}}
+===Etymology===
+From {{etyl|ojp|ja|sort=なし}}.  Derivation unclear, with numerous theories.  Two of the more common are given below.
+
+: May be originally a compound of {{compound|lang=ja|sort=なし|中|tr1=na</i>, hypothesized root of modern <i>naka|t1=middle, center|白い|tr2=shiro|t2=white}} in reference to the pale flesh of the fruit.
+
+: {{IPAchar|/na ɕiro/}} > {{IPAchar|/naɕi/}}
+
+: Alternately, may be originally a compound of {{compound|lang=ja|sort=なし|中|tr1=na</i>, hypothesized root of modern <i>naka|t1=middle, center|酢|tr2=su|t2=sour, acidic}} in reference to the way the flavor of the fruit becomes more astringent closer to the core.
+
+: {{IPAchar|/na su/}} > {{IPAchar|/naɕi/}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[na̠ɕi]}}
+
+===Alternative forms===
+* {{l|ja|ナシ}}
+
+===Noun===
+{{ja-noun|k|hira=なし|kata=ナシ|rom=nashi}}
+
+# a [[pear]] tree
+# a [[pear]] {{gloss|the fruit}}
+# more specifically, the [[Japanese]] or [[Asian]] [[pear]], {{taxlink|Pyrus pyrifolia|species}}
+
+====Usage notes====
+As with many terms used in biology, this word is often seen spelled in katakana, as {{l|ja|ナシ}}.
 
 [[Category:1000 Japanese basic words|なし]]
 [[Category:ja:Fruits|なし]]
