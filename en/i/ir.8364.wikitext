@@ -72,13 +72,50 @@ Shortened from {{term|irā|lang=ltg}}, related to {{etyl|lv|-}} {{term|ir|lang=l
 
 ==Latvian==
 
-===Verb===
+===Etymology 1===
+From {{etyl|bat-pro|lang=lv}} {{recons|irā}} ([[cf]]. dialectal, archaic forms {{term|irād|lang=lv}}, {{term|iraid|lang=lv}}, {{term|irāg|lang=lv}}, and also {{etyl|lt|-}} {{term|yra|yrà|lang=lt}}, which existed alongside {{recons|esti}} ([[cf]]. {{etyl|cu|-}} {{term|єстъ|tr=jestŭ|lang=cu}}, {{etyl|ru|-}} {{term|есть|tr=jest’|lang=ru}}, {{etyl|lt|-}} dialectal {{term|esti|ẽsti|lang=lt}}, {{etyl|prg|-}} {{term|ast|lang=prg}}), initially with basically existential (“there is”) meaning, but later on extending to all copular meanings, thus replacing {{recons|esti}}. In {{etyl|xsv|-}}, also the first person form {{term|irm||I am|lang=xsv}} is derived from this stem. The origin of {{etyl|bat-pro|-}} {{recons|irā|lang=bat-pro}}, however, is unclear. Various sources have been proposed: an older interjection ([[cf]]. {{etyl|lt|-}} {{term|aure|aurè|look!|lang=lt}}), the particle and conjuncation {{term|ir||both... and...|lang=lv}}, a noun with the meaning “existence,” “reality,” “thing,” or even (more recently) the {{etyl|ine-pro|-}} secundary third-person ending {{recons|-r}} with a later ''-ā''-extension.<ref name="LEV">Karulis, Konstantīns. 1992, 2001. ''Latviešu etimoloģijas vārdnīca.'' Rīga: AVOTS. ISBN 9984700127.</ref>
+
+====Verb====
 {{head|lv|verb form}}
 
 # ([[he]], [[she]], [[it]]) [[is]]; {{lv-inflection of|būt|3rd|s|prs|ind|v}}
 # ([[they]]) [[are]]; {{lv-inflection of|būt|3rd|p|prs|ind|v}}
 # {{qualifier|with the particle {{l|lv|lai}}}} [[let]] ([[him]], [[her]], [[it]]) [[be]]; {{lv-inflection of|būt|3rd|s|imp||v}}
 # {{qualifier|with the particle {{l|lv|lai}}}} [[let]] [[them]] [[be]]; {{lv-inflection of|būt|3rd|p|imp||v}}
+
+===Etymology 2===
+From {{etyl|bat-pro|lv}} {{recons|ir|lang=bat-pro}}, from the [[w:Indo-European ablaut|reduced grade]] {{recons|r̥|lang=ine-pro}} of {{etyl|ine-pro|lv}} {{recons|ar||so, then; question particle|lang=ine-pro}} (whence also {{etyl|lv|-}} {{term|ar||with|lang=lv}}, [[q.v.]]). The original meaning “and” ([[cf]]. {{etyl|lt|-}} cognate) is found in 16th- and 17th-century texts, but from the 18th century on {{term|ir|lang=lv}} was no longer used in this sense. Cognates include {{etyl|lt|-}} {{term|ir|ir̃|and|lang=lt}}, {{etyl|prg|-}} {{term|ir||also|lang=prg}}, {{term|er||(along) with|lang=prg}}, {{etyl|grc|-}} {{term|ἄρα|ἄρα, ἄρ', ῥά|so, then, therefore|tr=ára, ár', rhá|lang=grc}}.<ref name="LEV"/>
+
+====Conjunction====
+{{head|lv|conjunction}}
+
+# {{non-gloss definition|[[additive]] [[conjunction]] [[use]]d to [[join]] [[several]] [[similar]] [[sentence]] [[element]]s, [[indicate|indicating]] their [[similar]] [[nature]]}}: [[both]] ... [[and]] ..., ... [[and]] [[also]] ..., ... [[as well as]] ...
+#: ''gribējas '''ir''' smieties, '''ir''' raudāt'' — one wanted '''both''' to laugh '''and''' to cry
+#: ''nāca '''ir''' jaunie, '''ir''' vecie'' — '''both''' the young '''and''' the old came
+#: ''tolaik '''ir''' tēvs, '''ir''' māte bija miruši'' — at that time, '''both''' the father '''and''' the mother had died
+#: ''tā bija droša, interesanta un glīta meitene, kas prata būt '''ir''' jautra, '''ir''' nopietna'' — that was a brave, fun (lit. interesting) and pretty girl, who knew how to be '''both''' cheerful '''and''' serious
+#: ''nakts kā jau nakts: '''ir''' mēness spīd, '''ir''' tālē rūsa plaiksnī'' — the night is like the night (= as usual): the moon shines '''and also''' in the distance silent lightning flashes
+
+=====Synonyms=====
+* {{l/lv|kā}} ... {{l/lv|tā}} ...
+* {{l/lv|gan}} ... {{l/lv|gan}} ...
+
+====Particle====
+{{head|lv|particle}}
+
+# {{non-gloss definition|[[use]]d to [[mark]] [[connection]] and [[emphasis]], [[reinforcement]]; syn. {{term|arī|lang=lv}}}}
+#: ''Ludis nolēca lielā dubļu pančkā un tur '''ir''' palika, ratiem pakaļ skatīdamies'' — Ludis jumped into a big mud puddle and there '''also''' he stayed, looking ahead at the cart
+#: ''Dūdums pateica: “man vēl laika diezgan”, un pārliecināt viņu par piegādes normu nodošanu pirms termiņa tā '''ir''' neizdevās — Dūdums said: “I still have enough time,” and '''also''', '''so''' it was impossible to convince him about the rules for deliveray before the deadline
+# {{non-gloss definition|[[use]]d to [[mark]] [[emphasis]], to [[reinforce]]; syn. {{term|pat|lang=lv}}}}: [[really]], [[even]]
+#: ''tas viņam '''ir''' prātā nenāk'' — that doesn't '''even''' come to his mind
+#: ''krūmos ir pa naktīm guļot, pilsētā viņš parādoties reti'' — '''really''' sleeping at night in the bushes, he appeared rarely in the city
+
+=====Synonyms=====
+* {{l/lv|arī}}
+* {{l/lv|pat}}
+
+===References===
+<references />
 
 ----
 
