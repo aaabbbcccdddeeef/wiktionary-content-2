@@ -23,12 +23,30 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=犬10}}
+{{ja-kanji|grade=n|rs=犬10}}
 
-# {{defn|lang=ja|sort=犬10}}
+# a [[lion]]
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[しし]] (shishi)}}
+{{ja-readings
+|on=[[し]] (shi)
+|kun=(''rare'') [[しし]] (shishi)
+}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=し}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɕi]}}
+
+===Noun===
+{{ja-noun|k|hira=し|rom=shi}}
+
+# a [[lion]]
+
+====Usage notes====
+Very rarely used on its own.  The ''shishi'' reading is almost always spelled as {{l|ja|獅子}}.
 
 ----
 
