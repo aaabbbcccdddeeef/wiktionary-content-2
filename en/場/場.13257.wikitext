@@ -32,24 +32,49 @@
 {{ja-kanji|grade=2|rs=土09}}
 
 ====Readings====
-* {{ja-readings|on=[[じょう]] (jō)|kun=[[ば]] (ba)}}
+{{ja-readings
+|on=[[じょう]] (jō)
+|kun=[[ば]] (ba)
+}}
 
-===Noun===
+====Compounds====
+* {{l|ja|工場|tr={{l|ja|こうじょう}}, ''{{l|ja|sc=Latn|kōjō}}''}}: a [[factory]]
+
+===Etymology 1===
+Alteration from {{etyl|ojp|ja|sort=は'}} {{term|lang=ja|庭}} ({{IPAchar|/*nipa/}}, “garden, yard”).
+
+{{IPAchar|/*nipa/}} > {{IPAchar|/*niba/}} > {{IPAchar|/ba/}} 
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ba̠]}}
+
+====Noun====
 {{ja-noun|k|hira=ば|rom=ba|hidx=は'}}
 
 # a [[place]]
 # {{physics|lang=ja|skey=は'}} a [[field]]
 
-===Counter===
+====Counter====
 {{ja-pos|k|counter|hira=ば|rom=ba|hidx=は'}}
 
 # sections of a [[play]]
 
-====Compounds====
-* [[工場]] ([[こうじょう]], [[kōjō]]): [[factory]]
+===Etymology 2===
+From {{etyl|ltc|ja|sort=しょう'}}.
 
-===Suffix===
-{{ja-pos|k|suffix|hira=じょう|rom=-jō|hidx=しょう'}} 
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[d͡ʑʲo̞ː]}}
+
+====Noun====
+{{ja-noun|k|hira=じょう|rom=jō|hhira=ぢゃう|hidx=しょう'}}
+
+# a flattened area used for [[festival]]s or [[ceremony|ceremonies]]
+# a [[place]] where events are held
+
+====Suffix====
+{{ja-pos|k|suffix|hira=じょう|rom=-jō|hhira=ぢゃう|hidx=しょう'}} 
 
 # [[place]], [[arena]], [[course]]
 
