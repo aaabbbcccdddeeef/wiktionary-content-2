@@ -20,45 +20,165 @@
 ----
 
 ==Japanese==
+
 ===Kanji===
 {{ja-kanji|grade=3|rs=宀03}}
 
-====Readings====
-* {{ja-readings|on=[[しゅ]] (shu), [[す]] (su)|kun=[[まもる|まも-る]] (mamo-ru), [[まもり|まも-り]] (mamo-ri), [[もり]] (mori), [[もり|も-り]] (mo-ri)|nanori=[[まもる]] (Mamoru)}}
+# [[protect]], [[defend]], [[watch]] over
 
 ====Synonyms====
 * {{sense|[[protect]]}} {{l|ja|衛}}, {{l|ja|仗}}
 
+====Readings====
+{{ja-readings
+|goon=[[しゅ]] (shu), [[す]] (su)
+|kanon=[[しゅう]] (shū)
+|kun=[[まもる|まも.る]] ({{l|ja|守る}}, mamo.ru), [[まもり|まも.り]] ({{l|ja|守り}}, mamo.ri), [[もり]] (mori), [[もり|も.り]] ({{l|ja|守り}}, mo.ri)
+|nanori=[[う]] (u), [[し]] (shi), [[て]] (te), [[まもる]] (mamoru), [[も]] (mo)
+}}
+
 ====Compounds====
 {{der-top3|Compounds}}
-* {{l|ja|sc=Jpan|守衛|tr=しゅえい, shuei}}
-* {{l|ja|sc=Jpan|守禦|tr=しゅぎょ, shugyo}}
-* {{l|ja|sc=Jpan|守護|tr=しゅご, shugo}}
+* {{l|ja|守衛|tr=しゅえい, shuei}}
+* {{l|ja|守禦|tr=しゅぎょ, shugyo}}
+* {{l|ja|守護|tr=しゅご, shugo}}
 {{der-mid3}}
-* {{l|ja|sc=Jpan|守株|tr=しゅしゅ, shushu}}
-* {{l|ja|sc=Jpan|守戍|tr=しゅじゅ, shuju}}
-* {{l|ja|sc=Jpan|守備|tr=しゅび, shubi}}
+* {{l|ja|守株|tr=しゅしゅ, shushu}}
+* {{l|ja|守戍|tr=しゅじゅ, shuju}}
+* {{l|ja|守備|tr=しゅび, shubi}}
 {{der-mid3}}
-* {{l|ja|sc=Jpan|死守|tr=ししゅ, shishu}}
-* {{l|ja|sc=Jpan|肥後守|tr=ひごのかみ, higonokami}}
-* {{l|ja|sc=Jpan|守護神|tr=しゅごしん, shugoshin}}: a [[tutelary deity]]
+* {{l|ja|死守|tr=ししゅ, shishu}}
+* {{l|ja|肥後守|tr=ひごのかみ, higonokami}}
+* {{l|ja|守護神|tr=しゅごしん, shugoshin}}: a [[tutelary deity]]
 {{bottom}}
 
-====Derived terms====
-* {{l|ja|お守り}} ({{l|ja|おまもり}}, ''[[o mamori]]''): [[amulet]]s [[issue]]d by a [[Shinto]] [[shrine]]
+===Etymology 1===
+Noun stem of verb {{term|lang=ja|守る|tr=moru||to protect, to watch over}}.  Also spelled with the [[okurigana]] {{l|ja|り}}.
 
-===Noun===
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[mo̞ɾi]}}
+
+====Alternative forms====
+* {{l|ja|守り}}
+
+====Noun====
 {{ja-noun|k|hira=もり|rom=mori}}
 
-# [[nursemaid]]
-# [[baby-sit]]
+# a [[watchman]], a [[keeper]] {{gloss|as of a lighthouse}}, a [[caretaker]]
+# a [[nursemaid]], a [[babysitter]]
 
-===Proper noun===
+===Etymology 2===
+From verb {{term|lang=ja|守る|tr=mamoru||to protect}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠mo̞ɾ̠ɯᵝ]}}
+
+====Proper noun====
 {{ja-pos|k|proper|hira=まもる|rom=Mamoru}}
 
-# {{given name|male|lang=ja}}
+# {{given name|lang=ja|sort=まもる|male}}
 
-[[Category:Japanese male given names|まもる]]
+===Etymology 3===
+Noun stem of verb {{term|lang=ja|守る|tr=mamoru||to protect}}.  Also spelled with the [[okurigana]] {{l|ja|り}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠mo̞ɾi]}}
+
+====Alternative forms====
+* {{l|ja|守り}}
+
+====Noun====
+{{ja-noun|k|hira=まもり|rom=mamori}}
+
+# standing [[watch]], standing [[guard]]
+# a [[watchman]], a [[guard]] {{gloss|especially at a [[castle]] or [[fort]]}}
+# [[divine]] [[protection]] from [[misfortune]]
+# a [[god]] or [[spirit]] providing such protection
+# a [[ward]], [[charm]], [[talisman]], or other item providing divine protection
+# short for {{l|ja|守り刀}}, {{term|lang=ja|守刀|tr=mamorigatana||protection sword|pos=sword always kept at one's side for personal protection}}
+# a [[seal]] or [[coat of arms]] using a {{term|lang=ja|守り札|tr=mamorifuda||charm tag}}, {{term|lang=ja|守り袋|tr=mamoribukuro||charm bag}}, or similar charm for the design
+
+=====Synonym=====
+* {{sense|watchman}} {{l|ja|守備|tr={{l|ja|しゅび}}, ''{{l|ja|sc=Latn|shubi}}''}}; {{l|ja|警備|tr={{l|ja|けいび}}, ''{{l|ja|sc=Latn|keibi}}''}}; {{l|ja|警護|tr={{l|ja|けいご}}, ''{{l|ja|sc=Latn|keigo}}''}}
+* {{sense|divine protector}} {{l|ja|守り神|tr={{l|ja|まもりがみ}}, ''{{l|ja|sc=Latn|mamorigami}}''}}; {{l|ja|守護神|tr={{l|ja|しゅごしん}}, ''{{l|ja|sc=Latn|shugoshin}}''}}
+* {{sense|charm}} {{l|ja|お守り|tr={{l|ja|おまもり}}, ''{{l|ja|sc=Latn|omamori}}''}}; {{l|ja|守り札|tr={{l|ja|まもりふだ}}, ''{{l|ja|sc=Latn|mamorifuda}}''}}; {{l|ja|護符|tr={{l|ja|ごふ}}, ''{{l|ja|sc=Latn|gofu}}''}}; {{l|ja|守り袋|tr={{l|ja|まもりぶくろ}}, ''{{l|ja|sc=Latn|mamoribukuro}}''}}
+
+===Etymology 4===
+Alteration of ''mamori''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠bo̞ɾi]}}
+
+====Noun====
+{{ja-pos|k|proper|hira=まぼり|rom=mabori}}
+
+# see ''mamori'' above
+
+===Etymology 5===
+Alteration of ''mabori''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠bɯᵝɾi]}}
+
+====Noun====
+{{ja-pos|k|proper|hira=まぶり|rom=maburi}}
+
+# see ''mamori'' above
+
+===Etymology 6===
+From {{etyl|ltc|ja|sort=しゅ}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɕʲɯᵝ]}}
+
+====Noun====
+{{ja-noun|k|hira=しゅ|rom=shu}}
+
+# {{context|lang=ja|sort=しゅ|archaic}} used when listing an official's titles when there are two or more (compare English {{term|lang=en|cum}})
+# short for {{term|lang=ja|守護|tr=shugo||protection, protector}}
+# {{context|lang=ja|sort=しゅ|archaic}} short for {{term|lang=ja|国守|tr=kokushu||head administrator of a ''kuni'' in the old {{w|Ritsuryō}} system}}
+
+===Etymology 7===
+From the sense of being ''above'' in rank and status.  Essentially of the same meaning as {{term|lang=ja|上|tr=kami||above}}, but spelled {{Jpan|守}} to convey a sense of “[[watch]]ing” or “[[oversee]]ing”.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠mi]}}
+
+====Alternative forms====
+* {{l|ja|長官}}
+
+====Noun====
+{{ja-noun|k|hira=かみ|rom=kami}}
+
+# {{context|lang=ja|sort=かみ|archaic}} under the old {{w|Ritsuryō}} system of ancient Japan, the highest of the four ranks of [[civil servant]] staff, and general term for head [[administrator]]s of government departments
+# {{context|lang=ja|sort=かみ|archaic}} in the first year of the new {{w|Meiji era}} government established in 1868, the [[title]] of the seven heads of all government [[bureau]]s except the {{term|lang=ja|総裁局|tr=Sōsai Kyoku||Bureau of the President}}, whose head was titled {{term|lang=ja|総裁|tr=Sōsai||president” or “director general}}
+
+===Etymology 8===
+Alteration of ''kami''.
+
+{{IPAchar|/kami/}} > {{IPAchar|/kamu/}} > {{IPAchar|/kau/}} > {{IPAchar|/koː/}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞ː]}}
+
+====Noun====
+{{ja-noun|k|hira=こう|rom=kō|hhira=かう}}
+
+# {{context|lang=ja|sort=こう|obsolete}} see ''kami'' above; used in obsolete titles
+
+=====Derived terms=====
+The following are all titles in the old {{w|Ritsuryō}} system.
+* {{l|ja|守の君|tr={{l|ja|こうのきみ}}, ''{{l|ja|sc=Latn|kō no kimi}}''}}
+* {{l|ja|守の殿|tr={{l|ja|こうのとの}}, ''{{l|ja|sc=Latn|kō no tono}}''}}
+* {{l|ja|守の主|tr={{l|ja|こうのぬし}}, ''{{l|ja|sc=Latn|kō no nushi}}''}}
 
 ----
 
