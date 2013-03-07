@@ -27,10 +27,200 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=木05}}
 
-# {{defn|lang=ja|sort=木05}}
+# a [[handle]], [[lever]], [[knob]]
+# a [[design]] or [[pattern]]
+# one's [[build]] or [[character]]
 
 ====Readings====
-* {{ja-readings|on=[[へい]] (''hei''), [[ひょう]] (''hyō''), [[ひ]] (''hi'')|kun=[[え]] (''e''), [[がら]] (''gara''), [[つか]] (''tsuka'')}}
+{{ja-readings
+|goon=[[ひょう]] (hyō), (''historical'') [[ひゃう]] (hyau)
+|kanon=[[へい]] (hei)
+|kun=[[え]] (e), [[かび]] (kabi), [[かい]] (kai), [[から]] (kara), [[がら]] (gara), [[つか]] (tsuka), [[つく]] (tsuku)
+|nanori=[[から]] (kara), [[ら]] (ra)
+}}
+
+===Etymology 1===
+Change in meaning from {{term|lang=ja|枝|tr=e</i>, historically <i>ye||branch, stem}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[e̞]}}
+
+====Noun====
+{{ja-noun|k|hira=え|rom=e}}
+
+# a [[handle]], a [[grip]], a [[shaft]], a [[haft]]
+
+=====Synonyms=====
+* {{l|ja|取っ手}}, {{l|ja|取手}}, {{l|ja|把手|tr={{l|ja|とって}}, ''{{l|ja|sc=Latn|totte}}''}}
+
+=====Idioms=====
+* {{l|ja|柄の無い所に柄をすげる|tr={{l|ja|えのないところにえをすげる}}, ''{{l|ja|sc=Latn|e no nai tokoro ni e o sugeru}}''}}: “to attach a handle where there isn't one” → to strain credibility with one's words, to [[talk out one's ass]]
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=かび}}.  Of uncertain derivation.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠bi]}}
+
+====Alternative forms====
+* {{l|ja|穎}}
+
+====Noun====
+{{ja-noun|k|hira=かび|rom=kabi}}
+
+# an [[ear]] of [[grain]], particularly of [[rice]]
+# the [[handle]] or [[grip]] of a [[tool]], or [[hilt]] of a [[blade]]
+
+=====Usage notes=====
+The {{term|lang=en|grain}} sense is more commonly spelled {{l|ja|穎}}.
+
+===Etymology 3===
+Alteration of ''kabi''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠i]}}
+
+====Alternative forms====
+* {{l|ja|穎}}
+
+====Noun====
+{{ja-noun|k|hira=かい|rom=kai|hhira=かひ}}
+
+# see ''kabi'' above
+
+===Etymology 4===
+From {{etyl|ojp|ja|sort=から}}.  Origin of particle {{term|lang=ja|から|tr=kara||from, because}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠ɺ̠ä]}}
+
+====Suffix====
+{{ja-pos|k|suffix|hira=から|rom=-kara}}
+
+# of the same [[lineage]]
+# the inherent [[quality|qualities]] or [[characteristic]]s of a thing
+
+=====Usage notes=====
+The {{term|lang=en|lineage}} sense is often found embedded in other words, such as the first few of the following.
+
+=====Derived terms=====
+{{der-top}}
+* {{sense|lineage}} {{l|ja|同胞|tr={{l|ja|はらから}}, ''{{l|ja|sc=Latn|harakara}}''}}: “of the (same) belly” → a [[sibling]], more specifically a sibling from the same [[mother]]
+* {{sense|lineage}} {{l|ja|族|tr={{l|ja|やから}}, ''{{l|ja|sc=Latn|yakara}}''}}: “of the (same) house” → a [[family]] [[member]]
+* {{sense|lineage}} {{l|ja|親族|tr={{l|ja|うから}}, ''{{l|ja|sc=Latn|ukara}}''}}: “of the (same) parents/ancestors” → a [[blood relative]]
+* {{sense|qualities}} {{l|ja|神柄|tr={{l|ja|かみから}}, ''{{l|ja|sc=Latn|kamikara}}''; {{l|ja|かむから}}, ''{{l|ja|sc=Latn|kamukara}}''}}: the [[true]] [[nature]] of a [[god]]
+* {{sense|qualities}} {{l|ja|山柄|tr={{l|ja|やまから}}, ''{{l|ja|sc=Latn|yamakara}}''}}: the [[nature]] or [[characteristic]]s of a [[mountain]]
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|k|hira=から|rom=kara}}
+
+# {{context|lang=ja|sort=から|archaic}} {{qualifier|by extension from the ''qualities'' sense}} an [[origin]] or [[source]], a [[reason]] for something
+
+=====Usage notes=====
+Often followed by the particle {{term|lang=ja|に|tr=ni}}.  This usage evolved into the modern particle {{term|lang=ja|から|tr=kara||from, because}}.
+
+===Etymology 5===
+Alteration of ''kara''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ga̠ɺ̠ä]|[ŋa̠ɺ̠ä]}}
+
+====Suffix====
+{{ja-pos|k|suffix|hira=がら|rom=-gara}}
+
+# the inherent [[quality|qualities]] or [[characteristic]]s of a thing
+# a [[shape]], [[pattern]], or [[design]]
+
+=====Derived terms=====
+{{der-top}}
+* {{sense|qualities}} {{l|ja|国柄|tr={{l|ja|くにがら}}, ''{{l|ja|sc=Latn|kunigara}}''}}: a [[nation]]'s (good) qualities; the state of a nation
+* {{sense|qualities}} {{l|ja|人柄|tr={{l|ja|ひとがら}}, ''{{l|ja|sc=Latn|hitogara}}''}}: a person's [[character]]
+* {{sense|qualities}} {{l|ja|家柄|tr={{l|ja|いえがら}}, ''{{l|ja|sc=Latn|iegara}}''}}: a family's or household's [[station]] or [[standing]] in [[society]]
+* {{sense|qualities}} {{l|ja|続柄}}, {{l|ja|続き柄|tr={{l|ja|つづきがら}}, ''{{l|ja|sc=Latn|tsuzukigara}}''}}: one's [[immediate]] [[relation]]s, such as [[parent]]s or [[sibling]]s
+* {{sense|qualities}} {{l|ja|場所柄|tr={{l|ja|ばしょがら}}, ''{{l|ja|sc=Latn|bashogara}}''}}: the qualities of a [[place]]; that which is [[appropriate]] or [[suitable]] for a place
+* {{sense|qualities}} {{l|ja|時節柄|tr={{l|ja|じせつがら}}, ''{{l|ja|sc=Latn|jisetsugara}}''}}: the qualities of a [[time]] or [[season]]; that which is [[appropriate]] or [[suitable]] for a time or season
+* {{sense|shape}} {{l|ja|花柄|tr={{l|ja|はながら}}, ''{{l|ja|sc=Latn|hanagara}}''}}: a [[flower]] [[pattern]]
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|k|hira=がら|rom=gara}}
+
+# one's [[physical]] [[shape]] or [[build]]
+#: {{usex|lang=ja|'''柄'''の大きいやつだな。|tr='''がら'''のおおきいやつだな。<br/>'''''Gara''' no ōkii yatsu da na.''|t=Wow, he's sure '''built''' big.}}
+# one's [[character]], [[personality]], or [[temperament]]
+#: {{usex|lang=ja|'''柄'''の悪い人|tr='''がら'''のわるいひと<br/>'''''gara''' no warui hito''|t=a person with a bad '''character'''}}
+# a [[pattern]] or [[design]], such as on [[cloth]]
+#: {{usex|lang=ja|あの'''柄'''は派手過ぎるよ。|tr=あの'''がら'''ははですぎるよ。<br/>''Ano '''gara''' wa hade sugiru yo.''|t=That '''pattern''' is way too colorful.}}
+
+=====Synonyms=====
+* {{sense|build}} {{l|ja|体付き}}, {{l|ja|体付|tr={{l|ja|からだつき}}, ''{{l|ja|sc=Latn|karadatsuki}}''}}; {{l|ja|なり|tr=''{{l|ja|sc=Latn|nari}}''}}
+* {{sense|pattern}} {{l|ja|模様|tr={{l|ja|もよう}}, ''{{l|ja|sc=Latn|moyō}}''}}
+
+=====Idioms=====
+* {{l|ja|柄にもない|tr={{l|ja|がらにもない}}, ''{{l|ja|sc=Latn|gara ni mo nai}}''}}: “not even in one's character” → just not in one, just not suitable for one's character or abilities
+
+===Etymology 6===
+Cognate with {{term|lang=ja|束|tr=tsuka|pos=ancient unit of length, equivalent to the amount covered from pinky to forefinger when gripping something; analogous to English {{term|lang=en|hand}}}}.
+
+Both likely derive from verb {{term|lang=ja|付く|tr=tsuku||to set to, to attach, to accompany}}, particularly as seen in modern {{etyl|ja|-}} idioms such as {{term|lang=ja|手を付ける|tr=te o tsukeru||to set one's hand to something}}, {{term|lang=ja|手が付く|tr=te ga tsuku||lit=one's hand sets on something|to start using something}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[t͡sɯᵝka̠]}}
+
+====Noun====
+{{ja-noun|k|hira=つか|rom=tsuka}}
+
+# the [[hilt]] of a [[sword]] or [[knife]], or the [[grip]] of a [[bow]] or [[staff]]
+# the portion of a [[brush]] [[pen]] held in the hand
+# a [[penis]]
+
+=====Idioms=====
+* {{l|ja|柄を握る|tr={{l|ja|つかをにぎる}}, ''{{l|ja|sc=Latn|tsuka o nigiru}}''}}: “to hold the grip” → to [[stay the course]] in a [[career]] or [[trade]] and become an old [[master]]
+* {{l|ja|柄を取る|tr={{l|ja|つかをとる}}, ''{{l|ja|sc=Latn|tsuka o toru}}''}}: “to take the grip” → to [[stay the course]] in a [[career]] or [[trade]] and become an old [[master]]
+
+===Etymology 7===
+[[nominalization|Nominalization]] of verb {{term|lang=ja|付く||to attach}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[t͡sɯᵝkɯᵝ]}}
+
+====Alternative forms====
+* {{l|ja|銑}}, {{l|ja|釻}}
+
+====Noun====
+{{ja-noun|k|hira=つく|rom=tsuku}}
+
+# the [[nock]] on either end of a [[bow#Noun|bow]] where the [[drawstring]] rests
+# a [[bent]] [[nail]] or other kind of [[spike]] attached to or driven through an iron [[staff]] or a [[truncheon]] to make the weapon more dangerous
+# the areas on either end of a [[yoke]] or other carrying [[pole]] where [[cordage]] or [[rope]] is attached, from which the [[load]] is carried
+# the [[grip]] of a [[tiller]], [[boathook]], or other [[pole]]
+# {{qualifier|as a pun on the verb sense of ''stick to, attach''}} a female [[entertainer]]'s or [[prostitute]]'s [[secret]] [[lover]]
+
+=====Usage notes=====
+The {{term|lang=en|grip}} sense is not spelled using the alternative forms, and is only spelled {{Jpan|柄}} in kanji.
+
+=====Synonyms=====
+* {{sense|secret male lover}} {{l|ja|隠し男}}, {{l|ja|隠男|tr={{l|ja|かくしおとこ}}, ''{{l|ja|sc=Latn|kakushiotoko}}''}}
+
+===Etymology 8===
+[[ateji|Ateji]] or [[misspelling]] for uncommon {{term|lang=ja|表外字|tr=hyōgaiji||non-standard character}} kanji {{term|lang=ja|枘|tr=hozo||navel|pos=also generic term for something that [[protrude]]s slightly}}.  Note that the right half of {{term|lang=ja|柄}} is {{term|lang=ja|丙}}, with a top bar, while the right half of {{term|lang=ja|枘}} is {{term|lang=ja|内}}, without a top bar.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
+* {{IPA|lang=ja|[ho̞zo̞]}}
+
+====Noun====
+{{ja-noun|k|hira=ほぞ|rom=hozo}}
+
+# a [[tenon]], as in a [[mortise]] and tenon [[carpentry]] [[join]]
 
 ----
 
