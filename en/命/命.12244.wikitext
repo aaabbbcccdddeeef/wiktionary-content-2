@@ -30,12 +30,13 @@
 
 ====Readings====
 {{ja-readings
-|on=[[めい]] (mei), [[みょう]] (myō)
-|kun=[[いのち]] (inochi), [[おおせ]] (oose), [[みこと]] (mikoto)
+|goon=[[みょう]] (myō), (''historical'') [[みゃう]] (myau)
+|kanon=[[めい]] (mei)
+|kun=[[いのち]] (inochi), [[みこと]] (mikoto)
 }}
 
 ====Compounds====
-{{der-top4|Compounds using {{Jpan|命}}}}
+{{der-top4|Compounds}}
 * {{l|ja|革命|tr=[[かくめい]], ''[[kakumei]]''}}: revolution
 {{mid4}}
 * {{l|ja|運命|tr=[[うんめい]], ''[[unmei]]''}}: fate, destiny
@@ -43,13 +44,112 @@
 {{mid4}}
 {{bottom}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|ojp|ja|sort=いのち}}.  Probably a compound of {{etyl|ojp|-}} elements {{compound|lang=ja|sort=いのち|息|tr1=i|t1=breath|pos1=''i'' in compounds, ''iki'' on its own|の|tr2=no|pos2=possessive particle|霊|tr3=chi|t3=spirit, force, soul}}.
+
+Some analyses describe this as a compound using {{term|lang=ja|生|tr=i||life|tr1=i|t1=breath|pos=''i'' in compounds, ''iki'' on its own}} as the initial semantic element.  This is equally valid, as {{term|lang=ja|息|tr=iki}} and {{term|lang=ja|生き|tr=iki}} are cognates.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ino̞t͡ɕi]}}
+
+====Noun====
 {{ja-noun|k|hira=いのち|rom=inochi}}
 
-# The state that precedes death and follows birth or conception; [[life]]
+# [[life]]
+# [[lifespan]]
+# [[lifetime]]
+# [[fate]], [[destiny]]
+# {{context|lang=ja|sort=いのち|figuratively}} the most [[important]] part or [[aspect]] of a thing
 
-====Synonyms====
-* [[生]] ([[せい]], sei)
+=====Synonyms=====
+* {{sense|life}} {{l|ja|生命|tr={{l|ja|せいめい}}, ''{{l|ja|sc=Latn|seimei}}''}}
+* {{sense|lifespan}} {{l|ja|寿命|tr={{l|ja|じゅみょう}}, ''{{l|ja|sc=Latn|jumyō}}''}}
+* {{sense|lifetime}} {{l|ja|生涯|tr={{l|ja|しょうがい}}, ''{{l|ja|sc=Latn|shōgai}}''}}; {{l|ja|一生|tr={{l|ja|いっしょう}}, ''{{l|ja|sc=Latn|isshō}}''}}
+* {{sense|fate}} {{l|ja|運命|tr={{l|ja|うんめい}}, ''{{l|ja|sc=Latn|unmei}}''}}
+* {{sense|destiny}} {{l|ja|天命|tr={{l|ja|てんめい}}, ''{{l|ja|sc=Latn|tenmei}}''}}
+* {{sense|core aspect}} {{l|ja|真髄|tr={{l|ja|しんずい}}, ''{{l|ja|sc=Latn|shinzui}}''}}
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=みこと}}.  Compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|言|tr2=koto|t2=word}}.  The ''mi'' prefix is generally limited to extremely high-[[status]] contexts such as [[god]]s or [[emperor]]s.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[miko̞to̞]}}
+
+====Alternative forms====
+* {{l|ja|御言}}
+
+====Noun====
+{{ja-noun|k|hira=みこと|rom=mikoto}}
+
+# the [[word]]s or [[pronouncement]]s of a [[god]] or an [[emperor]]
+
+===Etymology 3===
+From {{etyl|ojp|ja|sort=みこと}}.  Originally a compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|事|tr2=koto|t2=abstract thing|pos2=as opposed to {{l|ja|物}}, ''mono'', “concrete thing”}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[miko̞to̞]}}
+
+====Alternative forms====
+* {{l|ja|尊}}
+
+====Noun====
+{{ja-noun|k|hira=みこと|rom=mikoto}}
+
+# the [[honorable]], the [[exalted]]
+#: Used as a title after the referenced noun when referring to gods, emperors, or other high-status persons.
+#* {{RQ:Kojiki|Kami tsu maki}}
+#*: {{Jpan|夜知富許能 迦微能'''美許登'''波}}
+#*: {{Jpan|八千矛の神の'''命'''は}}
+#*:: やちほこのかみの'''みこと'''は
+#*:: ''Yachihoko no kami no '''mikoto''' wa''
+#*::: '''the honorable''' god Yachihoko
+#* {{RQ:Manyoshu|Book 20, No. 4408}}
+#*: {{Jpan|波々蘇婆能 波々能美許等波}}
+#*: {{Jpan|柞葉の母の'''命'''は}}
+#*:: ははそばのははの'''みこと'''は
+#*:: ''hahasoba no haha no '''mikoto''' wa''
+#*::: '''the exalted''' mother of the oak leaf
+# the [[beloved]], [[dearly]] beloved
+#: Similarly used as a title after the referenced noun.
+#* {{RQ:Kojiki|Kami tsu maki}}
+#*: {{Jpan|和加久佐能　都麻能'''美許登'''}}
+#*: {{Jpan|若草の妻の'''命'''}}
+#*:: わかくさのつまの'''みこと'''
+#*:: ''Wakakusa no tsuma no '''mikoto'''''
+#*::: '''dearly beloved''' young wife
+
+====Pronoun====
+{{ja-pos|k|pronoun|hira=みこと|rom=mikoto}}
+
+# [[you]]
+# [[that]] [[person]]
+
+=====Usage notes=====
+Used ironically from the late {{w|Heian period}}, expressing a sense of mild [[derision]] or [[ridicule]].
+
+===Etymology 4===
+From {{etyl|ltc|ja|sort=めい}} {{term|lang=ltc|命}} ({{IPAchar|/mjængH/}}, “command”).  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|命|tr=mìng||life, destiny, instruction}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[me̞ː]}}
+
+====Noun====
+{{ja-noun|k|hira=めい|rom=mei}}
+
+# [[fate]], [[destiny]]
+# [[life]], [[lifespan]]
+# [[order]], [[command]]
+
+=====Synonyms=====
+* {{sense|fate}} {{l|ja|運命|tr={{l|ja|うんめい}}, ''{{l|ja|sc=Latn|unmei}}''}}
+* {{sense|destiny}} {{l|ja|天命|tr={{l|ja|てんめい}}, ''{{l|ja|sc=Latn|tenmei}}''}}
+* {{sense|life}} {{l|ja|生命|tr={{l|ja|せいめい}}, ''{{l|ja|sc=Latn|seimei}}''}}
+* {{sense|lifespan}} {{l|ja|寿命|tr={{l|ja|じゅみょう}}, ''{{l|ja|sc=Latn|jumyō}}''}}
+* {{sense|order}} {{l|ja|仰}}, {{l|ja|仰せ|tr={{l|ja|おおせ}}, ''{{l|ja|sc=Latn|ōse}}''}}; {{l|ja|命令|tr={{l|ja|めいれい}}, ''{{l|ja|sc=Latn|meirei}}''}}
 
 ----
 
