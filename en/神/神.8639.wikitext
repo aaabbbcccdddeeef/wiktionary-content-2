@@ -113,39 +113,39 @@
 ===Etymology 1===
 <span class="IPA">/kami<sub>2</sub>/ *[kamɨ] > /kami/ [kami]</span>
 
-From {{etyl|ojp|ja|sort=かみ}}.  Not related to {{term|上|kami<sub>1</sub>|up}} or {{term|髪|kami<sub>1</sub>|hair}}. Often appears in compounds as /kamu/　(modern /kaɴ/) indicating that /kami/ is a bound form deriving from */kamu.[[い|i]]/. Compare Ainu {{term|カムイ|tr=kamui|lang=ain}}, present in compounds like {{term|カムイモシリ|lang=ain}}.
+From {{etyl|ojp|ja|sort=かみ}}.  Not related to {{term|lang=ja|上|tr={{IPAchar|/kami<sub>1</sub>/}}||up}} or {{term|lang=ja|髪|tr=</i>{{IPAchar|/kami<sub>1</sub>/}}||hair}}. Often appears in compounds as {{IPAchar|/kamu/}}　(modern {{IPAchar|/kaɴ/}}), indicating that {{IPAchar|/kami/}} is a bound or fused form deriving from *{{IPAchar|/kamu.[[い|i]]/}}.  Note that this final ''i'' may be the {{etyl|ojp|-}} emphatic nominative particle {{term|lang=ja|い|tr=i}}, likely cognate with {{etyl|ko|-}} nominative particle {{term|lang=ko|이|tr=i}}.  Such fusion has occurred in other {{etyl|ja|-}} terms, such as {{term|lang=ja|目|tr=me||eye|pos=from ''ma'' + ''i''}} or {{term|lang=ja|酒|tr=sake||saké, liquor|pos=from ''saka'' + ''i''}}.
+
+Compare Ainu {{term|lang=ain|カムイ|tr=kamui||god}}, also present in compounds like {{term|lang=ain|カムイモシㇼ|tr=kamui mosir||land of the gods}}.
 
 ====Pronunciation====
-* {{IPA|/ka.mi/|lang=ja}}
+* {{IPA|lang=ja|/ka.mi/|[ka̱mi]}}
 
 ====Noun====
 {{ja-noun|k|hira=かみ|rom=kami}}
 
-# [[god]] (compare {{l|ja|神様}} [[God]])
+# [[god]]
 #* {{RQ:Nippo Jisho|85}}
 #*: '''Cami'''. カミ (神) 日本のゼンチヨ (gentios 異教徒)が尊崇する神(Cami).
-# [[spirit]] (compare {{l|ja|精霊}} [[Spirit]])
+# [[spirit]] (compare {{l|ja|精霊}} [[spirit]])
 # [[thunder]] (compare {{l|ja|雷}} [[thunder]])
 
 =====Derived terms=====
-* {{l|ja|国つ神}} ({{l|ja|くにつかみ}}, ''kunitsukami''): an [[indigenous]] or [[local]] [[god]]; an [[earth]]-[[spirit]]
+* {{l|ja|国つ神|tr={{l|ja|くにつかみ}}, ''{{l|ja|sc=Latn|kunitsukami}}''}}: an [[indigenous]] or [[local]] [[god]]; an [[earth]]-[[spirit]]
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=み}}.  Cognate with {{term|lang=ja|御|tr=mi||honorific prefix, originally used to refer to gods and other spiritually important things}}.
+From {{etyl|ojp|ja|sort=み}}.  Cognate with {{term|lang=ja|御|tr=mi|pos=honorific prefix, originally used to refer to gods and other high-status things}}.
 
 ====Noun====
 {{ja-noun|k|hira=み|rom=mi}}
 
-* [[spirit]], [[god]]
-
-# {{defn|Japanese}}
+# [[spirit]], [[god]]
 
 =====Alternative forms=====
 * {{l|ja|霊}}
 
 =====Derived terms=====
-* {{l|ja|海神|tr=[[わたつみ]], ''[[watatsumi]]''}}: god or spirit of the sea
-* {{l|ja|山祇|tr=[[やまつみ]], ''[[yamatsumi]]''}}: god or spirit of the mountain (although spelled with a different kanji, the ''mi'' here is the same as 神 (''mi''))
+* {{l|ja|海神|tr={{l|ja|わたつみ}}, ''{{l|ja|sc=Latn|wata tsu mi}}''}}: god or spirit of the sea
+* {{l|ja|山祇|tr={{l|ja|やまつみ}}, ''{{l|ja|sc=Latn|yama tsu mi}}''}}: god or spirit of the mountain (although spelled with a different kanji, the ''mi'' here is the same as {{Jpan|神}} ''mi'')
 
 [[Category:ja:God|かみ]]
 
