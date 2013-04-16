@@ -30,6 +30,17 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=欠02}}
 
+====Readings====
+* {{ja-readings|on=[[じ]] (ji), [[し]] (shi)|kun=[[つぐ]] ([[tsugu]]), [[つぎ]] ([[tsugi]])}}
+
+===Counter===
+{{ja-pos|k|counter|hira=じ|rom=ji|hidx=し'}} 
+
+# number of times
+
+===Noun===
+{{ja-noun|k|hira=つぎ|rom=tsugi}}
+
 # next, order, sequence, below
 #* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])
 #*: では <tt>C-v</tt> （'''次'''の画面を見る）をタイプして'''次'''の画面に[[進む|進んで]]下さい。（さあ、やってみましょう。コントロールキーを押しながら <tt>v</tt> です）
@@ -37,8 +48,11 @@
 #*:: ''De wa <tt>C-v</tt> ('''tsugi''' no gamen o miru) o taipu shite '''tsugi''' no gamen ni [[susumu|susunde]] kudasai. (sā, yatte mishō. Kontorōrukī o oshi na gara <tt>v</tt> desu)''
 #*::: Now type <tt>C-v</tt> (View '''next''' screen) to move to the '''next''' screen. (go ahead, do it by depressing the control key and <tt>v</tt> together)
 
-====Readings====
-* {{ja-readings|on=[[じ]] (ji), [[し]] (shi)|kun=[[つぐ]] ([[tsugu]]), [[つぎ]] ([[tsugi]])}}
+{{ja-noun|k|hira=じ|rom=-ji|hidx=し'}} 
+
+# the next one (e.g. the next generation)
+
+[[Category:1000 Japanese basic words]]
 
 ----
 
