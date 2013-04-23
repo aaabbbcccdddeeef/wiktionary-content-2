@@ -1,11 +1,11 @@
-{{Basic Latin character info|previous=b|next=d|image=[[Image:Letter c.svg|50px]]|hex=63|name=LATIN SMALL LETTER C}}
 {{also|C|Appendix:Variations of "c"}}
 ==Translingual==
+{{Basic Latin character info|previous=b|next=d|image=[[Image:Letter c.svg|50px]]|hex=63|name=LATIN SMALL LETTER C}}
 {{wikipedia}}
 
 ===Etymology 1===
 [[Image:EtruscanC-01.svg|50px|Etruscan 𐌂 {{qualifier|C}}, the source for Latin C]]
-Modification of upper case letter {{term|C}}, from Etruscan {{term|𐌂|tr=C}}, from Greek {{term|sc=Grek|Γ|tr=G||Gamma}}, from Phoenician {{term|sc=Phnx|𐤂|tr=G||gimmel}}.
+Modification of upper case letter {{term|C|lang=mul}}, from Etruscan {{term|𐌂|tr=C|lang=mul}}, from Greek {{term|lang=mul|sc=Grek|Γ|tr=G||Gamma}}, from Phoenician {{term|lang=mul|sc=Phnx|𐤂|tr=G||gimmel}}.
 
 ====Pronunciation====
 * {{a|IPA symbol}} {{audio|Voiceless palatal plosive.ogg|IPA}}
@@ -17,8 +17,8 @@ Modification of upper case letter {{term|C}}, from Etruscan {{term|𐌂|tr=C}}, 
 
 =====Usage notes=====
 * Not to be confused with {{term|ϲ|lang=grc}} (the lunate sigma).
-* In many many languages, the letter {{term|c}} represents both a “hard” {{IPAchar|/k/}} sound and a “soft” sound ({{IPAchar|/s/}}, {{IPAchar|/ts/}}, {{IPAchar|/tʃ/}}, or {{IPAchar|/θ/}}), based on the following letter.
-* In many languages, it occurs frequently in the digraph with {{term|ch}}.
+* In many languages, the letter {{term|c|lang=mul}} represents both a “hard” {{IPAchar|/k/}} sound and a “soft” sound ({{IPAchar|/s/}}, {{IPAchar|/ts/}}, {{IPAchar|/tʃ/}}, or {{IPAchar|/θ/}}), based on the following letter.
+* In many languages, it occurs frequently in the digraph with {{term|ch|lang=mul}}.
 * In some romanization systems of non-Latin scripts, it represents {{IPAchar|/tʃ/}}, {{IPAchar|/θ/}}, or {{IPAchar|/tsʰ/}}.
 
 =====See also=====
@@ -36,7 +36,7 @@ Modification of upper case letter {{term|C}}, from Etruscan {{term|𐌂|tr=C}}, 
 # {{context|[[w:IPA|IPA]]}} [[voiceless]] [[palatal]] [[plosive]].
 
 ===Etymology 2===
-Lower case form of upper case roman numeral [[C]], a standardization of {{term|sc=unicode|Ɔ}} and {{term|sc=unicode|C}} because the latter happens to be an abbreviation of {{etyl|la|mul}} {{term|centum|lang=la||hundred}}, from abbreviation of ƆIC, an alternate form of >I<, from tally stick markings resembling {{term|sc=unicode||Ж}} (a superimposed {{term|sc=unicode|X}} and {{term|sc=unicode|I}}), from the practice of designating each tenth X notch with an extra cut.
+Lower case form of upper case roman numeral [[C]], a standardization of {{term|lang=mul|sc=unicode|Ɔ}} and {{term|lang=mul|sc=unicode|C}} because the latter happens to be an abbreviation of {{etyl|la|mul}} {{term|centum|lang=la||hundred}}, from abbreviation of ƆIC, an alternate form of >I<, from tally stick markings resembling {{term|lang=mul|sc=unicode||Ж}} (a superimposed {{term|lang=mul|sc=unicode|X}} and {{term|lang=mul|sc=unicode|I}}), from the practice of designating each tenth X notch with an extra cut.
 
 ====Alternative forms====
 * [[C]], [[Ⅽ]], [[ⅽ]]
@@ -86,10 +86,10 @@ Image:Fraktur letter C.png|Uppercase and lowercase '''C''' in [[Fraktur]]
 
 ===Etymology 1===
 [[Image:Runic letter kauna.png|50px|left|The k-rune ᚲ, an older version of Anglo-Saxon Futhorc letter ᚳ]]
-[[Image:Rune-Cen.png|Anglo-Saxon Futhorc letter ᚳ, which was later replaced by Latin ‘c’]] {{etyl|ang}} lower case letter {{term|c}}, from 7th century replacement by Latin lower case {{term|c|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚳ|tr=c||cen}}. <br clear="left"/>
+[[Image:Rune-Cen.png|Anglo-Saxon Futhorc letter ᚳ, which was later replaced by Latin ‘c’]] {{etyl|ang}} lower case letter {{term|c|lang=ang}}, from 7th century replacement by Latin lower case {{term|c|lang=la}} of the Anglo-Saxon Futhorc letter {{term|lang=mul|ᚳ|tr=c||cen}}. <br clear="left"/>
 
 ====Pronunciation====
-* {{sense|letter name}} {{IPA|/siː/}} (usually spelled {{term|cee}})
+* {{sense|letter name}} {{IPA|/siː/}} (usually spelled {{term|cee|lang=en}})
 * {{sense|phoneme}} {{IPA|/k/}}, {{IPAchar|/s/}}, ...
 : {{audio|en-uk-c.ogg|Audio (UK)}}
 : {{audio|en-us-c.ogg|Audio (US)}}
