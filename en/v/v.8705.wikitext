@@ -4,7 +4,7 @@
 
 ===Etymology 1===
 [[Image:Greek uc upsilon.png|30px|Greek letter Υ, from which Latin V derived]]
-Minuscule variation of Latin {{term|V}}, from seventh century Old Latin adoption of Old Italic letter {{term|𐌖|tr=V}}, from {{etyl|el|mul}} letter {{term|sc=Grek|Υ|tr=Y||Upsilon}}.
+Minuscule variation of Latin {{term|V|lang=mul}}, from seventh century Old Latin adoption of Old Italic letter {{term|lang=mul|𐌖|tr=V}}, from {{etyl|el|mul}} letter {{term|lang=mul|sc=Grek|Υ|tr=Y||Upsilon}}.
 
 ====Letter====
 {{mul-letter|upper=V|lower=v|script=Latn}}
@@ -14,7 +14,7 @@ Minuscule variation of Latin {{term|V}}, from seventh century Old Latin adoption
 =====See also=====
 {{Latn-script}}
 * {{qualifier|select symbols}} [[ʌ]] [[ʋ]] [[ᵥ]]
-* {{qualifier|other scripts}} Cyrillic {{term|sc=Cyrl|в|tr=v||ve}}, Greek {{term|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|sc=Hebr|ו|tr=w||vav}}
+* {{qualifier|other scripts}} Cyrillic {{term|lang=mul|sc=Cyrl|в|tr=v||ve}}, Greek {{term|lang=mul|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|lang=mul|sc=Hebr|ו|tr=w||vav}}
 * {{pedialite}}
 
 ===Etymology 2===
@@ -64,15 +64,15 @@ Image:Fraktur letter V.png|Uppercase and lowercase '''V''' in [[Fraktur]]
 ==English==
 
 ===Etymology===
-From {{etyl|enm}} lower case letter {{term|v}} (also written {{term|u}}), from {{etyl|ang}} lower case {{term|u|lang=ang}} and respelling of {{etyl|ang}} {{term|f|lang=ang}} between vowels and voiced consonants.
-* [[Image:Rune-Feoh.png|10px|Anglo-Saxon Futhorc letter {{term||ᚠ|tr=f|feoh}}]] {{etyl|ang}} lower case {{term|f|lang=ang}} from 7th century replacement by Latin lower case {{term|f|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚠ|tr=f||feoh}}, derived from Etruscan letter {{term|𐌅|tr=v}}.
-* [[Image:Rune-Ur.png|10px|Anglo-Saxon Futhorc letter {{term||ᚢ|tr=u|ur}}]] {{etyl|ang}} lower case {{term|u|lang=ang}} from 7th century replacement by Latin lower case {{term|v|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚢ|tr=u||ur}}, derived from Raetic letter {{term||u}}.
+From {{etyl|enm}} lower case letter {{term|v|lang=enm}} (also written {{term|u|lang=enm}}), from {{etyl|ang}} lower case {{term|u|lang=ang}} and respelling of {{etyl|ang}} {{term|f|lang=ang}} between vowels and voiced consonants.
+* [[Image:Rune-Feoh.png|10px|Anglo-Saxon Futhorc letter {{term|lang=mul||ᚠ|tr=f|feoh}}]] {{etyl|ang}} lower case {{term|f|lang=ang}} from 7th century replacement by Latin lower case {{term|f|lang=la}} of the Anglo-Saxon Futhorc letter {{term|lang=mul|ᚠ|tr=f||feoh}}, derived from Etruscan letter {{term|lang=mul|𐌅|tr=v}}.
+* [[Image:Rune-Ur.png|10px|Anglo-Saxon Futhorc letter {{term|lang=mul||ᚢ|tr=u|ur}}]] {{etyl|ang}} lower case {{term|u|lang=ang}} from 7th century replacement by Latin lower case {{term|v|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚢ|tr=u||ur}}, derived from Raetic letter {{term||u|lang=mul}}.
 
-Before the 1700s, the pointed form {{term|v}} was written at the beginning of a word, while a rounded form {{term|u}} was used elsewhere, regardless of sound.  So whereas {{term|valor}} and {{term|excuse}} appeared as in modern printing, {{term|have}} and {{term|upon}} were printed {{term||haue}} and {{term||vpon}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{term|v}} form was used to represent the consonant, and {{term|u}} the vowel sound.  {{term|v}} then preceded {{term|u}} in the alphabet, but the order has since reversed.
+Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginning of a word, while a rounded form {{term|u|lang=en}} was used elsewhere, regardless of sound.  So whereas {{term|valor|lang=en}} and {{term|excuse|lang=en}} appeared as in modern printing, {{term|have|lang=en}} and {{term|upon|lang=en}} were printed {{term||haue|lang=en}} and {{term||vpon|lang=en}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{term|v|lang=en}} form was used to represent the consonant, and {{term|u|lang=en}} the vowel sound. {{term|v|lang=en}} then preceded {{term|u|lang=en}} in the alphabet, but the order has since reversed.
 
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|/v/}}
-* {{sense|letter name}} {{IPA|/viː/}} (spelled {{term|vee}})
+* {{sense|letter name}} {{IPA|/viː/}} (spelled {{term|vee|lang=en}})
 : {{audio|en-us-v.ogg|Audio (US)}}
 
 ===Letter===
@@ -91,7 +91,7 @@ Before the 1700s, the pointed form {{term|v}} was written at the beginning of a 
 ===Noun===
 {{en-noun|pl2=v's}}
 
-# a shape resembling the letter {{term|v}}
+# a shape resembling the letter {{term|v|lang=en}}
 #: ''The impact was so strong, it bent the bar into a '''v'''.''
 
 ----
@@ -112,7 +112,7 @@ Before the 1700s, the pointed form {{term|v}} was written at the beginning of a 
 
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|/v/|lang=ca}}, {{IPA|/b/|lang=ca}}
-* {{sense|letter name}} {{IPA|/ve/|lang=ca}}, {{IPA|/be/|lang=ca}} (spelled {{term|ve}}); {{IPA|/veˈβaʃə/|lang=ca}}, {{IPA|/beˈβaʃə/|lang=ca}} (spelled {{term|ve baixa}})
+* {{sense|letter name}} {{IPA|/ve/|lang=ca}}, {{IPA|/be/|lang=ca}} (spelled {{term|ve|lang=ca}}); {{IPA|/veˈβaʃə/|lang=ca}}, {{IPA|/beˈβaʃə/|lang=ca}} (spelled {{term|ve baixa|lang=ca}})
 
 ===Letter===
 {{ca-letter|upper=V|lower=v}}
@@ -350,7 +350,7 @@ It is a vowel.
 * {{sense|letter name}}
 ** {{qualifier|traditional}} {{IPA|lang=es|[ˈbe̞ˑ]}} (spelled {{term|ve|lang=es}})
 ** {{qualifier|common in most countries}} {{IPA|lang=es|[ˈuˑ.β̞e̞]}} (spelled {{term|uve|lang=es}})
-** {{qualifier|common in some countries}} {{IPA|lang=es|[ˌbe̞ ˈko̞ɾ.t̪ä]}} ({{term|ve corta}}), {{IPAchar|[ˌbe̞ 'β̞äˑ.hä]}} or {{IPAchar|[ˌbe̞ 'β̞äˑ.xä]}} ({{term|ve baja}}), {{term|ve pequeña}}, or {{IPAchar|[ˌbe̞ 't͡ʃiˑ.kä]}} ({{term|ve chica}})
+** {{qualifier|common in some countries}} {{IPA|lang=es|[ˌbe̞ ˈko̞ɾ.t̪ä]}} ({{term|ve corta|lang=es}}), {{IPAchar|[ˌbe̞ 'β̞äˑ.hä]}} or {{IPAchar|[ˌbe̞ 'β̞äˑ.xä]}} ({{term|ve baja|lang=es}}), {{term|ve pequeña|lang=es}}, or {{IPAchar|[ˌbe̞ 't͡ʃiˑ.kä]}} ({{term|ve chica|lang=es}})
 
 ===Letter===
 {{head|es|letter|lower case||upper case|V}}
@@ -358,7 +358,7 @@ It is a vowel.
 # The twenty-third (23rd) letter of the Spanish alphabet.
 
 ====Usage notes====
-The common letter names, as well as phrases like {{term|ve de vaca}} are used to distinguish the letter {{term|v}} from the letter {{term|b|lang=es}}.  This is done because the two letters represent a single phoneme in modern Spanish, causing their traditional names {{term|be|lang=es}} and {{term|ve|lang=es}} both to be pronounced as {{IPAchar|['be̞ˑ]}}.
+The common letter names, as well as phrases like {{term|ve de vaca|lang=es}} are used to distinguish the letter {{term|v|lang=es}} from the letter {{term|b|lang=es}}.  This is done because the two letters represent a single phoneme in modern Spanish, causing their traditional names {{term|be|lang=es}} and {{term|ve|lang=es}} both to be pronounced as {{IPAchar|['be̞ˑ]}}.
 
 ====See also====
 * Previous letter: [[u]]
