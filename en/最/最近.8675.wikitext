@@ -10,11 +10,18 @@
 * {{ja-accent-common|h|サ|イキン}}<ref>{{R:NHK Hatsuon}}</ref>
 * {{homophones|lang=ja|細菌}}
 
+===Noun===
+{{ja-noun|k|hira=さいきん|rom=saikin}}
+
+# the {{l|en|latest}}; the most [[recent]]
+
+====Derived terms====
+Computer Term
+* {{ja-l|最近稼動|さいきんかどう|saikin kadō}} ''n.'' recent activity
+
 ===Adverb===
 {{ja-pos|k|adverb|hira=さいきん|rom=saikin}}
 
-# [[latest]]
-# [[most]] [[recent]]
 # [[nowadays]]
 # [[recently]]
 #* [http://lambda.bugyo.tk/cdr/mwl/index.html マンガで分かるLisp] (Manga Guide to Lisp)
@@ -22,9 +29,10 @@
 #*:: みりん。ちいきねこ。'''さいきん'''までまくろのことをまぐろとおもっていた。
 #*:: ''Mirin. Chiiki neko. '''Saikin''' made makuro no koto o maguro to omotte ita.''
 #*:: Mirin: A neighbours' cat. Until '''recently''' often confused macros with tuna.
+
 ====Derived terms====
-Computer Term
-* {{ja-l|細菌稼動|さいきんかどう|saikin kadō}} recent activity
+Uncommon
+* {{ja-l|極最近|ごくさいきん|goku saikin}} ''adv.'' very recently
 
 ===References===
 <references/>
