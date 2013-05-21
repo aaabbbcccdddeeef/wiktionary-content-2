@@ -37,91 +37,125 @@ Note: The top line can be either longer or shorter than the arms.
 ----
 
 ==Japanese==
-{{rfc|lit. cleanup}}
+{{rfc|Cleanup -- some done, more needed.}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=大01}}
 
-===Noun===
-{{ja-noun|k|hira=てん|rom=ten}}: also see [[Deva]]
-
-# [[heaven]]; the [[sky]]
-# [[Buddhist]] [[term]], literally meaning: "''heaven''", referring to one of the six realms of [[reincarnation]] in Buddhist [[cosmology]].
-
 ====Readings====
-* {{ja-readings|on={{l|ja|てん}} (ten)|kun={{l|ja|あめ}} (ame), {{l|ja|そら}} (sora)}}
-
-====Compounds====
-{{top2}}
-* {{l|ja|天神}} ({{l|ja|てんじん}}, ''[[tenjin]]'')
-* {{l|ja|天空}} ({{l|ja|てんくう}}, ''[[tenkū]]'') 
-* {{l|ja|天皇}} ({{l|ja|てんのう}}, ''[[tennō]]'')
-* {{l|ja|天下}} ({{l|ja|てんか}}, ''[[tenka]]''; or {{l|ja|てんげ}}, ''[[tenge]]'')
-* {{l|ja|天蓋}} ({{l|ja|てんがい}}, ''[[tengai]]'')
-* {{l|ja|天気}} or {{l|ja|天氣}} ({{l|ja|てんき}}, ''[[tenki]]'')
-* {{l|ja|天狗}} ({{l|ja|てんぐ}}, ''[[tengu]]'')
-* {{l|ja|天候}} ({{l|ja|てんこう}}, ''[[tenkō]]'')
-* {{l|ja|天国}} ({{l|ja|てんごく}}, ''[[tengoku]]'')
-* {{l|ja|天才}} ({{l|ja|てんさい}}, ''[[tensai]]'')
-* {{l|ja|天災}} ({{l|ja|てんさい}}, ''[[tensai]]'')
-* {{l|ja|天災地変}} ({{l|ja|てんさいちへん}}, ''[[tensai-chihen]]'')
-* {{l|ja|天使}} ({{l|ja|てんし}}, ''[[tenshi]]'')
-* {{l|ja|天井}} ({{l|ja|てんじょう}}, ''[[tenjō]]'')
-* {{l|ja|天職}}
-* {{l|ja|天真爛漫}}
-* {{l|ja|楽天}} ({{l|ja|らくてん}}, ''[[rakuten]]''), optimism
-* {{l|ja|楽天家}} ({{l|ja|らくてんか}}, '[[rakutenka]]''), optimist
-* {{l|ja|楽天主義}} ({{l|ja|らくてんしゅぎ}}, ''[[rakutenshugi]]''), optimism
-* {{l|ja|楽天主義者}} ({{l|ja|らくてんしゅぎしゃ}}, ''[[rakutenshugisha]]''), optimist
-{{mid2}}
-* {{l|ja|天性}}
-* {{l|ja|天体}} ({{l|ja|てんたい}}, ''[[tentai]]'')
-* {{l|ja|天地}} ({{l|ja|てんち}}, ''[[tenchi]]'')
-* {{l|ja|天頂}}
-* {{l|ja|天然}}
-* {{l|ja|天秤}}
-* {{l|ja|天変地異}} ({{l|ja|てんぺんちい}}, ''[[tenpenchii]]'')
-* {{l|ja|天文}} ({{l|ja|てんもん}}, ''[[tenmon]]'')
-* {{l|ja|天文学}}, {{l|ja|天文學}} ({{l|ja|てんもんがく}}, ''[[tenmongaku]]'')
-* {{l|ja|天文台}} ({{l|ja|てんもんだい}}, ''[[tenmondai]]'')
-* {{l|ja|雨天}} ({{l|ja|うてん}}, ''[[uten]]'')
-* {{l|ja|辯才天}}, {{l|ja|辨財天}} ({{l|ja|べんざいてん}}, ''[[tenzaiten]]'')
-* {{l|ja|天上}} ({{l|ja|てんじょう}}, ''[[tenjō]]'')
-* {{l|ja|天降}} ({{l|ja|てんこう}},  ''[[tenkō]]'')
-* {{l|ja|天罰}} ({{l|ja|てんばつ}}, ''[[tenbatsu]]''): [[divine]] [[punishment]]
-* [[天地]] ([[てんち]], ''[[tenchi]]''): heaven and earth
-{{bottom}}
-
-====Related terms====
-* {{l|ja|天下り}}
-
-====Derived terms====
-* {{l|ja|天照大神}}/{{l|ja|天照大御神}} (''[[Amaterasu]]-ōmi[[kami]]''): lit. the "''[[great]] [[goddess]], Amaterasu ('[[illuminating]] [[heaven]]')''"
-* {{l|ja|天神地祇}} ({{l|ja|ちぎ}}): lit. the "''[[god]]s of [[heaven]] and [[earth]]''"
-* {{l|ja|天霊}} (''ten rei''): lit. a "''[[heavenly]] [[spirit]]''" -- the spirit of a [[god]] or of a heavenly-[[being]]
+{{ja-readings
+|on=[[てん]] (ten)
+|kun=[[あま]] (ama), [[あめ]] (ame)
+}}
 
 ====Synonyms====
 * {{l|ja|夭}}, {{l|ja|夫}}, {{l|ja|无}}, {{l|ja|关}}
 
-====See also====
-* {{l|ja|修羅}} (''Shura'') [[Asura]] ([[demi-god|Demi-God/Demon]]'s) [[realm]] of [[Buddhism]]
-* {{l|ja|人間}} (''Ningen'') [[Manuṣya]] ([[human|Human]]'s) realm of Buddhism
-* {{l|ja|畜生}} (''Chikushō'') [[Tiryagyoni]] ([[animal|Animal]]'s) realm of Buddhism
-* {{l|ja|餓鬼}} (''Gaki'') [[Preta]] ([[hungry|Hungry]] [[ghost|Ghost]]'s) realm of Buddhism
-* {{l|ja|奈落}} (''Naraku'') [[hell|Hell]] realm of Buddhism
+===Etymology 1===
+From {{etyl|ojp|ja|sort=あま}}.
 
-===Noun===
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[a̠ma̠]}}
+
+====Noun====
 {{ja-noun|k|hira=あま|rom=ama}}
 
-# {{archaic|lang=ja|skey=あま}} [[heaven]]; the [[sky]]
+# {{archaic|lang=ja|sort=あま}} the [[sky]], the [[heavens]]
+# the area above a [[kitchen]] [[stove]]:
+## where the [[smoke]] collects in an old kitchen using a [[wood-burning stove]]
+## a [[shelf]] or [[shelves]] above the stove
+# {{archaic|lang=ja|sort=あま}} [[heaven]]
 
 ====Derived terms====
-* [[天の川]], [[天の河]]
+{{der-top}}
+* {{ja-l|雨|あめ|ame}}: [[rain]]
+* {{ja-l|天の川}}, {{ja-l|天の河|あまのがわ|ama no gawa}}: the [[Milky Way]]
+* {{l|ja|天下り|あまくだり|amakudari}}: “descent from heaven” → an [[avatar]] of a god visiting earth; a former [[public official]] now working in the [[[private sector]]
+{{der-bottom}}
 
-===Noun===
+===Etymology 2===
+From {{etyl|ojp|ja|sort=あめ}} ''ama'' (see above).  Likely derived by fusion of ''ama'' + {{term|lang=ja|い|tr=i|pos=emphatic nominative particle}}, similar to the derivation of other words such as {{term|lang=ja|神|tr=kami|pos=''kamu'' + ''i''}}, {{term|lang=ja|目|tr=me|pos=''ma'' + ''i''}}, etc.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[a̠me̞]}}
+
+====Noun====
 {{ja-noun|k|hira=あめ|rom=ame}}
 
-# {{archaic|lang=ja|skey=あめ}} [[heaven]]; the [[sky]]
+# {{archaic|lang=ja|sort=あめ}} the [[sky]], the [[heavens]]
+# {{archaic|lang=ja|sort=あめ}} [[heaven]]
+# {{archaic|lang=ja|sort=あめ}} the [[roof]] of a [[palace]]
+
+=====Idioms=====
+* {{ja-l|天に跼り地に蹐む}} ({{ja-l|あめにせかがまりつちにぬきあしにふむ}}, {{ja-l|||ame ni sekagamari tsuchi ni nukiashinifumu}}; {{ja-l|あめにせぐくまりつちにぬきあしにふむ}}, {{ja-l|||ame ni segukumari tsuchi ni nukiashinifumu}}): “in heaven, bow and step carefully on the ground” → to be [[humble]] and [[respectful]] in [[heaven]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|雨|あめ|ame}}: [[rain]]
+{{der-bottom}}
+
+===Etymology 3===
+From {{etyl|ltc|ja|sort=てん}} {{term|lang=ltc|天}}.  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|天|tr=tiān}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[tẽ̞ɴ]}}
+
+====Noun====
+{{ja-noun|k|hira=てん|rom=ten}}
+
+# the [[sky]], the [[heavens]]
+# [[heaven]]
+# {{qualifier|metaphorically}} the [[gods]], [[providence]], [[fate]]
+
+=====Idioms=====
+* {{ja-l|天に唾する|てんにつばする|ten ni tsuba suru}}: “to spit at heaven” → a metaphor for [[court]]ing [[disaster]]
+* {{ja-l|天にも昇る心地|てんにものぼるここち|ten ni mo noboru kokochi}}: “a feeling like rising to heaven” → being in [[seventh heaven]], a really good [[feeling]]
+* {{ja-l|天を衝く|てんをつく|ten o tsuku}}: “to pierce the heavens” → to [[tower]], to be very [[tall]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|天神|てんじん|tenjin}}
+* {{ja-l|天空|てんくう|tenkū}} 
+* {{ja-l|天皇|てんのう|tennō}}
+* {{ja-l|天下|てんか|tenka}} ({{qualifier|rarely}} {{ja-l|てんげ}}, {{ja-l|||tenge}})
+* {{ja-l|天蓋|てんがい|tengai}}
+* {{ja-l|天気|てんき|tenki}}
+* {{ja-l|天狗|てんぐ|tengu}}
+* {{ja-l|天候|てんこう|tenkō}}
+* {{ja-l|天国|てんごく|tengoku}}
+* {{ja-l|天才|てんさい|tensai}}
+* {{ja-l|天災|てんさい|tensai}}
+* {{ja-l|天災地変|てんさいちへん|tensai-chihen}}
+* {{ja-l|天使|てんし|tenshi}}
+* {{ja-l|天井|てんじょう|tenjō}}
+* {{ja-l|天職|てんしょく|tenshoku}}
+* {{ja-l|天真爛漫|てんしんらんまん|tenshin ranman}}
+* {{ja-l|楽天|らくてん|rakuten}}: an [[optimistic]] [[outlook]], [[easygoing]]-ness
+* {{ja-l|楽天家|らくてんか|rakutenka}}: an [[optimist]]
+* {{ja-l|楽天主義|らくてんしゅぎ|rakuten shugi}}: [[optimism]]
+* {{ja-l|楽天主義者|らくてんしゅぎしゃ|rakuten shugisha}}: an [[optimist]]
+{{der-mid}}
+* {{ja-l|天性|てんせい|tensei}} [[inherent]] [[nature]], [[disposition]]
+* {{ja-l|天体|てんたい|tentai}}
+* {{ja-l|天地|てんち|tenchi}}
+* {{ja-l|天頂|てんちょう|tenchō}}: a [[zenith]]
+* {{ja-l|天然|てんねん|tennen}}: [[natural]], [[innate]]
+* {{ja-l|天秤|てんびん|tenbin}}: a [[balance]], a pair of [[scales]]
+* {{ja-l|天変地異|てんぺんちい|tenpen chii}}: an [[extraordinary]] [[natural]] [[phenomenon]] or [[occurrence]]
+* {{ja-l|天文|てんもん|tenmon}}
+* {{ja-l|天文学|てんもんがく|tenmongaku}}
+* {{ja-l|天文台|てんもんだい|tenmondai}}
+* {{ja-l|雨天|うてん|uten}}
+* {{ja-l|辯才天}}, {{ja-l|辨財天|べんざいてん|tenzaiten}}
+* {{ja-l|天上|てんじょう|tenjō}}
+* {{ja-l|天降|てんこう|tenkō}}
+* {{ja-l|天罰|てんばつ|tenbatsu}}: [[divine]] [[punishment]]
+* {{ja-l|天地|てんち|tenchi}}: heaven and earth
+* {{ja-l|天神地祇|てんじんちぎ|tenjin chigi}}: the [[god]]s of [[heaven]] and [[earth]]
+{{der-bottom}}
 
 ----
 
