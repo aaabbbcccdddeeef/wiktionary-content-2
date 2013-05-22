@@ -51,34 +51,123 @@
 ----
 
 ==Japanese==
-===Noun===
-[[Image:Yumi-p1000624.jpg|thumb|Japanese bows, arrows, and arrow-stand]]
-{{ja-noun|k|hira=ゆみ|rom=yumi}}
-
-# {{weaponry|lang=ja}} [[bow]] (to shoot with, or of a stringed instrument)
-# [[archery]]
-
-====See also====
-* {{l|ja|矢}} ({{l|ja|や}}, ''[[ya]]''): lit. an "''[[arrow]]''"
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=弓00}}
 
 ====Readings====
-* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[ゆみ]] (yumi)}}
+{{ja-readings
+|on=[[きゅう]] (kyū)
+|kun=[[たらし]] (tarashi), [[ゆ]] (yu), [[ゆみ]] (yumi)
+|nanori=[[こ]] (ko), [[ゆ]] (yu)
+}}
 
-====Compounds====
-* {{l|ja|胡弓}}
-* {{l|ja|弓道}} ({{l|ja|きゅうどう}}, ''[[kyūdō]]''): lit. the "''[[way]] of the [[bow]]''"
-* {{l|ja|和弓}}
-* {{l|ja|大弓}} (''[[daikyū]]''): lit. a "''[[great]] [[bow]]'';" a [[Japanese]] [[long bow]]
-* {{l|ja|半弓}} (''[[hankyū]]''): lit. a "''[[half]] [[bow]]'';" a [[Japanese]] [[short bow]]
-* {{l|ja|破魔弓}} ({{l|ja|はまゆみ}}, ''[[hama-yumi]]''): lit. a [[sacred]] "''[[evil]]-[[destroying]] [[bow]]''" (see also: ''[[w:Hama Yumi|Hama-Yumi]]'')
+===Etymology 1===
+From {{etyl|ojp|ja|sort=ゆ}}.  In modern {{etyl|ja|-}}, only found as a prefix in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-[[Category:ja:Musical instruments|ゆみ]]
-[[Category:ja:Weapons|ゆみ]]
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[jɯᵝ]}}
+
+====Prefix====
+{{ja-pos|k|prefix|hira=ゆ|rom=yu}}
+
+# a [[bow]], a bow [[shape]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|弓懸}}, {{ja-l|弽}}, {{ja-l|韘|ゆがけ|yugake}}: 
+* {{ja-l|弓束}}, {{ja-l|弓柄}}, {{ja-l|弣|ゆづか|yuzuka}}: 
+* {{ja-l|弓末|ゆずえ|yuzue}}: 
+* {{ja-l|弓弦|ゆづる|yuzuru}}: a [[bowstring]]
+* {{ja-l|弓弭}}, {{ja-l|弓筈}}, {{ja-l|弓彇|ゆはず|yuhazu}}: a [[nock]] on a [[bow]] where the [[bowstring]] sits
+{{der-bottom}}
+
+===Etymology 2===
+[[File:Bows-ViolaBassGdulkaKemence.jpg|thumb|250px|{{Jpan|弓}} (''yumi''): Four different types of bow.]]
+[[File:Yumi-p1000624.jpg|thumb|250px|{{Jpan|弓}} (''yu'', ''yumi'', ''tarashi'', ''kyū''): Japanese bows, arrows, and arrow-stand.]]
+Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', itself of uncertain derivation.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|o|ゆ|み}}<ref>{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[jɯᵝmi]}}
+
+====Noun====
+{{ja-noun|k|hira=ゆみ|rom=yumi}}
+
+# a [[bow]]:
+## {{weaponry|lang=ja|sort=ゆみ}} a bow for shooting [[arrow]]s
+## {{musical instrument|lang=ja|sort=ゆみ}} a bow for playing a [[stringed instrument]] such as a [[violin]] or [[cello]]
+# [[archery]]
+# {{Shinto|lang=ja|sort=ゆみ}} a type of [[kagura]] (sacred Shinto song and dance) intended to drive away [[evil]]
+# short for {{ja-l|破魔弓||hama yumi}}: a ceremonial archery bow with the power to dispel evil
+# a bow [[shape]], a [[curve]]
+# a bow-shaped [[tool]] used to [[beat]] [[ginned]] [[cotton]] into a softer and finer [[textile]]
+
+=====Coordinate terms=====
+* {{sense|archery}} {{ja-l|矢|や|ya}}: an [[arrow]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|破魔弓|はまゆみ|hama yumi}}: a [[traditional]] [[Shintō]] [[ceremonial]] [[bow]] for [[dispel]]ling [[evil]]
+{{der-bottom}}
+
+=====External links=====
+* {{pedia|lang=ja|弓_(武器)}} (archery)
+* {{pedia|Yumi|Yumi (Japanese archery bow)}}
+* {{pedia|lang=ja|弓_(楽器)}} (music)
+* {{pedia|Bow_(music)}}
+
+===Etymology 3===
+Alteration from ''torashi'', {{term|lang=ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb ''torasu'', from ''tora'' as the {{term|lang=ja|未然形|tr=mizenkei||incomplete form}} of verb {{term|lang=ja|取る|tr=toru||to take}} + {{term|lang=ja|す|tr=su|pos=honorific suffix in {{etyl|ojp|-}}}}.  Original meaning was “something kept [[to hand]]”.<ref name="KDJ"/><ref name="DJR"/>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ta̠ɺ̠a̠ɕi]}}
+
+====Alternative forms====
+* {{ja-l|執}}
+
+====Noun====
+{{ja-noun|k|hira=たらし|rom=tarashi}}
+
+# {{context|lang=ja|sort=たらし|rare|honorific}} an [[archery]] [[bow]], particularly one belonging to a [[noble]]
+
+=====Synonyms=====
+* {{ja-l|御執}}, {{ja-l|御弓|みたらし|mitarashi}}
+
+===Etymology 4===
+From {{etyl|ltc|ja|sort=きゅう}} {{term|lang=ltc|弓|tr=*giung}}.<ref name="KDJ"/><ref name="DJR"/>  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|弓|tr=gōng}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[kjɯᵝː]}}
+
+====Noun====
+{{ja-noun|k|hira=きゅう|rom=kyū}}
+
+# {{rare|lang=ja|sort=きゅう}} a [[bow]]
+# {{obsolete|lang=ja|sort=きゅう}} in [[ancient]] [[Chinese]] [[archery]], a [[unit]] of [[length]] for measuring the [[distance]] between the [[archer]] and the [[target]]; one ''kyū'' was equal to six {{term|lang=ja|尺|tr=shaku}}, roughly six [[feet]] or 182 [[centimeter]]s
+# {{obsolete|lang=ja|sort=きゅう}} in [[ancient]] [[China]], a [[unit]] of [[length]] for [[survey]]ing [[land]]; one ''kyū'' was equal to eight {{term|lang=ja|尺|tr=shaku}}, roughly eight [[feet]] or 242 [[centimeter]]s
+
+=====Usage notes=====
+In modern {{etyl|ja|-}}, the reading ''kyū'' is most often found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|胡弓|こきゅう|kokyū}}: a [[traditional]] [[Chinese]] [[fiddle]]
+* {{ja-l|弓道|きゅうどう|kyūdō}}: [[archery]] as a [[martial art]]
+* {{ja-l|大弓|だいきゅう|daikyū}}: a [[great]] [[bow]], a [[long bow]]
+* {{ja-l|半弓|はんきゅう|hankyū}}: a [[half]] [[bow]], a [[short bow]]
+{{der-bottom}}
+
+===References===
+<references/>
+
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 弓]]
+
 ----
 
 ==Korean==
