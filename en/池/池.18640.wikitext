@@ -25,13 +25,6 @@
 ----
 
 ==Japanese==
-
-===Noun===
-{{ja-noun|k|hira=いけ|rom=ike}}
-
-# [[pond]], small lake, pool
-#* {{usex|池を[[乾す]]|tr=いけをほす<br/>''ike o hosu''|t=drain a pond|lang=ja}}
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=水03}}
 
@@ -40,18 +33,22 @@
 
 ====Compounds====
 {{der-top|Compounds of 池}}
+* {{term|lang=ja|池袋|tr=ikebukuro}}
+* {{term|lang=ja|地水|tr=chisui}}
 * {{term|lang=ja|池沼|tr=chishō}}
+* {{term|lang=ja|地泉|tr=chisen}}
 * {{term|lang=ja|池亭|tr=chitei}}
 * {{term|lang=ja|池畔|tr=chinan}}
-* {{term|lang=ja|池袋|tr=ikebukuro}}
 * {{term|lang=ja|印池|tr=in'chi}}
+* {{term|lang=ja|園地|tr=en'chi}}
+* {{term|lang=ja|苑池|tr=en'chi}}
 * {{term|lang=ja|内池|tr=uchīke}}
 * {{term|lang=ja|城池|tr=jōchi}}
 * {{term|lang=ja|溜池|tr=temeike}}
+{{der-mid}}
 * {{term|lang=ja|電池|tr=denchi}}
 * {{term|lang=ja|肉池|tr=nikuchi}}
 * {{term|lang=ja|墨池|tr=bokuchi}}
-{{der-mid}}
 * {{term|lang=ja|古池|tr=furuike}}
 * {{term|lang=ja|瑶池|tr=yōchi}}
 * {{term|lang=ja|人工池|tr=jinkōke}}
@@ -62,6 +59,12 @@
 * {{term|lang=ja|金城湯池|tr=kinjōtōchi}}
 * {{term|lang=ja|酒池肉林|tr=shuchinikurin}}
 {{der-bottom}}
+
+===Noun===
+{{ja-noun|k|hira=いけ|rom=ike}}
+
+# {{l|en|pond}}, small {{l|en|lake}}, {{l|en|pool}}
+#* {{usex|池を{{l|ja|乾す}}|tr=いけをほす<br/>''ike o hosu''|t=drain a pond|lang=ja}}
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 池]]
