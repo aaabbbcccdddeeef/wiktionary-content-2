@@ -71,10 +71,10 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 ===={{initialism-old|en}}====
 '''h'''
 
-# {{science}} abbreviation for [[hour]] {{qualifier|particularly when used as a (non-[[SI#English|SI]]) unit of time alongside [[International System of Units]] (SI) units}}
-# {{baseball}} the statistic reporting the number of hits by a player
-# {{slang}} [[heroin]]
-# {{computing}} [[hexadecimal]] (following a number)
+# {{context|science}} abbreviation for [[hour]] {{qualifier|particularly when used as a (non-[[SI#English|SI]]) unit of time alongside [[International System of Units]] (SI) units}}
+# {{context|baseball}} the statistic reporting the number of hits by a player
+# {{context|slang}} [[heroin]]
+# {{context|computing}} [[hexadecimal]] (following a number)
 #* '''1994''', Jan Axelson, ''The microcontroller idea book'' (page 47)
 #*: The commands assume that the NV memory is addressed beginning at 8000'''h''' in external data memory.
 
@@ -137,7 +137,7 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 ===Conjunction===
 {{head|hu|conjunction}}
 
-# {{text messaging|informal|lang=hu}} abbreviation of conjunction {{term|hogy||that|lang=hu}}
+# {{context|text messaging|informal|lang=hu}} abbreviation of conjunction {{term|hogy||that|lang=hu}}
 
 ===Letter===
 {{hu-letter|upper=H|lower=h}}
