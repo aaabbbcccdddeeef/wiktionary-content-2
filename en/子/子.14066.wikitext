@@ -129,7 +129,7 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 Used only in [[kun'yomi]] compounds.
 
 # suffix used in female given names, such as 智子(ともこ, Tomoko), 英子(えいこ, Eiko; ひでこ, Hideko), 美奈子(みなこ, Minako)
-# {{rare|lang=ja}} suffix used in male given names
+# {{context|rare|lang=ja}} suffix used in male given names
 # an [[object]] of a particular [[state]] or [[property]]
 #* [[振]]'''子'''<br
 /> [[ふり]]'''こ'''<br
@@ -192,10 +192,10 @@ In some kanji compounds, 子 is part of the word but does not carry much meaning
 ===Noun===
 {{cmn-noun|ts|pin=zǐ|pint=zi3|rs=子00}}
 
-# {{literary|lang=cmn|sc=Hant|skey=子00}} [[son]]; [[child]]
-# {{literary|lang=cmn|sc=Hant|skey=子00}} [[person]]
-# {{astrology|lang=cmn|sc=Hant|skey=子00}} [[w:Rat (zodiac)|rat]]
-# {{literary|lang=cmn|sc=Hant|skey=子00}} [[master]]
+# {{context|literary|lang=cmn|sc=Hant|skey=子00}} [[son]]; [[child]]
+# {{context|literary|lang=cmn|sc=Hant|skey=子00}} [[person]]
+# {{context|astrology|lang=cmn|sc=Hant|skey=子00}} [[w:Rat (zodiac)|rat]]
+# {{context|literary|lang=cmn|sc=Hant|skey=子00}} [[master]]
 #: [[孔子]]
 #: ''Master Kong ([[Confucius]])''
 
@@ -222,7 +222,7 @@ In some kanji compounds, 子 is part of the word but does not carry much meaning
 ===Pronoun===
 {{cmn-pronoun|ts|pin=zǐ|pint=zi3|rs=子00}}
 
-# {{literary|lang=cmn|sc=Hant|skey=子00}} [[you]]
+# {{context|literary|lang=cmn|sc=Hant|skey=子00}} [[you]]
 
 ====Compounds====
 * [[椰子]]
