@@ -85,7 +85,10 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # {{defn|lang=ja|sort=寸00}}
 
 ====Readings====
-* {{ja-readings|on=[[すん]] (sun), [[そん]] (son)|kun=[[はかる]] (hakaru), [[とき]] (toki), [[き]] (ki)}}
+* {{ja-readings
+|goon=[[すん]] (sun)
+|kanon=[[そん]] (son) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[はかる]] (hakaru), [[とき]] (toki), [[き]] (ki)}}
 
 ===Noun===
 {{ja-noun|k|hira=すん|rom=sun}}
