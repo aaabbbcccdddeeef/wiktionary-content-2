@@ -56,20 +56,14 @@ Compare also {{term|止||foot|sc=Hani}}, derived from a footprint, originally co
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=て|rom=te}}
-
-# a [[hand]]
-# a [[handle]]
-# a [[paw]]; a [[foreleg]]
-# {{context|board games|lang=ja}} a [[move]]; a [[play]]
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=手00}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅ]](shu), [[しゅう]] (shū)|kun=[[て]] (te), [[てずから]] (tezukara)}}
-* Other info:
+* {{ja-readings
+|goon=[[しゅ]] (shu)
+|kanon=[[しゅう]] (shū)
+|kun=[[て]] (te), [[てずから]] (tezukara)}}
 
 ====Compounds====
 {{top2}}
@@ -79,6 +73,14 @@ Compare also {{term|止||foot|sc=Hani}}, derived from a footprint, originally co
 * [[相手]]
 * [[切手]]
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=て|rom=te}}
+
+# a [[hand]]
+# a [[handle]]
+# a [[paw]]; a [[foreleg]]
+# {{context|board games|lang=ja}} a [[move]]; a [[play]]
 
 [[Category:1000 Japanese basic words|て]]
 [[Category:ja:Anatomy|て]]
