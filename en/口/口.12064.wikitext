@@ -52,17 +52,14 @@ This character (口) is used ''within'' characters; if a square is instead used 
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=くち|rom=kuchi}}
-
-# [[mouth]]
-# [[opening]]
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=口00}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[くち]] (kuchi)}}
+* {{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こう]] (kō)
+|kun=[[くち]] (kuchi)}}
 
 ====Compounds====
 {{top4}}
@@ -149,6 +146,12 @@ This character (口) is used ''within'' characters; if a square is instead used 
 * [[口脇]]
 * [[口誦]]
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=くち|rom=kuchi}}
+
+# [[mouth]]
+# [[opening]]
 
 [[Category:1000 Japanese basic words|くち]]
 [[Category:Japanese terms written with one Han script character]]
