@@ -58,16 +58,17 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 
 ====Readings====
 {{ja-readings
-|on=[[りょく]] (ryoku), [[りき]] (riki)
+|goon=[[りき]] (riki)
+|kanon=[[りょく]] (ryoku)
 |kun=[[ちから]] (chikara), [[りきむ|りき-む]] ([[力む]], riki-mu)
 |nanori=[[いさお]] (isao), [[いさむ]] (isamu), [[お]] (o), [[か]] (ka), [[ちか]] (chika), [[ちから]] (chikara), [[じから]] (jikara), [[つとむ]] (tsutomu), [[よし]] (yoshi)
 }}
 
 ====Compounds====
-* {{l|ja|動力}} ({{l|ja|どうりき}}, ''[[dōriki]]; or {{l|ja|どうりょく}}, ''[[dōryoku]]''): [[energy]]
-* {{l|ja|気力}} ({{l|ja|きりょく}}, ''[[kiryoku]]''): [[spirit]]; [[drive]]; [[morale]]; [[vigor]]
-* {{l|ja|斥力}} ({{l|ja|せきりょく}}, ''[[sekiryoku]]''): [[repulsive]] [[force]]s
-* {{l|ja|引力}} ({{l|ja|いんりょく}}, ''[[inryoku]]''): [[attractive]] [[force]]s
+* {{l|ja|動力}} ({{l|ja|どうりき}}, dōriki; or {{l|ja|どうりょく}}, dōryoku): [[energy]]
+* {{l|ja|気力}} ({{l|ja|きりょく}}, kiryoku): [[spirit]]; [[drive]]; [[morale]]; [[vigor]]
+* {{l|ja|斥力}} ({{l|ja|せきりょく}}, sekiryoku): [[repulsive]] [[force]]s
+* {{l|ja|引力}} ({{l|ja|いんりょく}}, inryoku): [[attractive]] [[force]]s
 
 ===Noun===
 {{ja-noun|k|hira=ちから|rom=chikara}}
@@ -76,7 +77,7 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # {{context|tarot|lang=ja}}: [[strength]]; the eleventh [[trump]] or [[major arcana]] [[card]] in most traditional Tarot decks.
 
 ====Coordinate terms====
-* [[タロット]] (''[[tarotto]]''):  The [[tarot]].
+* {{l|ja|タロット|tr=tarotto|gloss=tarot}}
 
 ===Proper noun===
 {{ja-pos|k|proper|hira=ちから|rom=Chikara}}
