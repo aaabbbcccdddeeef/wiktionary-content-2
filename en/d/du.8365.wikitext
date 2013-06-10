@@ -62,7 +62,7 @@ From {{etyl|non|da}} {{term|þú|lang=non}}, from {{etyl|gem-pro|da}} {{recons|�
 ====Pronoun====
 {{head|da|pronoun|objective|dig}}
 
-# {{personal}} [[you]] (2nd person singular subject pronoun, informal)
+# {{context|personal}} [[you]] (2nd person singular subject pronoun, informal)
 
 =====See also=====
 {{Danish personal pronouns}}
@@ -100,7 +100,7 @@ From {{etyl|dum|nl}} {{term|du|lang=dum}}, from {{etyl|odt|nl}} {{term|thu|thū|
 ===Pronoun===
 {{head|nl|personal pronoun}}
 
-# {{obsolete|or|dialectal|lang=nl}} {{non-gloss definition|Second-person singular, subjective;}} [[thou]].
+# {{context|obsolete|or|dialectal|lang=nl}} {{non-gloss definition|Second-person singular, subjective;}} [[thou]].
 
 ----
 
@@ -128,7 +128,7 @@ From {{etyl|la|eo}} {{term|duo|lang=la}} or {{etyl|lt|eo}} {{term|du|lang=lt}}, 
 ===Cardinal numeral===
 {{eo-card}}
 
-# {{cardinal|lang=eo}} [[two]] ([[2]])
+# {{context|cardinal|lang=eo}} [[two]] ([[2]])
 
 {{eo BRO|1}}
 {{eo GCSE|0}}
@@ -172,7 +172,7 @@ From {{etyl|goh|de}} {{term|du|lang=goh}} (akin to Old Saxon {{term|thu|lang=osx
 ===Pronoun===
 '''du'''
 
-# {{personal|lang=de}} [[you]] (sg., ''informal, friends, relatives'').
+# {{context|personal|lang=de}} [[you]] (sg., ''informal, friends, relatives'').
 
 ====Inflection====
 * [[nominative case|Nominative]]: '''du'''
@@ -204,7 +204,7 @@ From {{etyl|goh|de}} {{term|du|lang=goh}} (akin to Old Saxon {{term|thu|lang=osx
 ===Cardinal numeral===
 {{head|io|numeral}}
 
-# {{cardinal|lang=io}} [[two]] (2)
+# {{context|cardinal|lang=io}} [[two]] (2)
 
 ----
 
@@ -216,7 +216,7 @@ From {{etyl|ira-pro|ku}} {{recons|duu̯a|lang=ira-pro}} (compare Persian {{term|
 ===Cardinal numeral===
 {{head|ku|numeral}}
 
-# {{cardinal|lang=ku}} [[two]] (2)
+# {{context|cardinal|lang=ku}} [[two]] (2)
 
 ----
 
@@ -228,7 +228,7 @@ From {{etyl|ine-pro|lt}} {{recons|dwóh₁|lang=ine-pro}}. Compare Latvian {{ter
 ===Cardinal numeral===
 {{head|lt|numeral|g=m|feminine|dvi}}
 
-# {{cardinal|lang=lt}} [[two]] (2)
+# {{context|cardinal|lang=lt}} [[two]] (2)
 
 ====Declension====
 {{lt-decl-numeral|du|dvi|dviejų|dviejų|dviem|dviem|du|dvi|dviem|dviem|dviejuose|dviejose}}
@@ -437,8 +437,8 @@ From {{etyl|gmq-osw|sv}} {{term|þu|lang=gmq-osw}}, from {{etyl|non|sv}} {{term|
 ===Pronoun===
 {{head|sv|pronoun}}
 
-# {{personal}} [[you]] (''familiar sg.'').
-# {{personal}} [[thou]].
+# {{context|personal}} [[you]] (''familiar sg.'').
+# {{context|personal}} [[thou]].
 
 ====Usage notes====
 While ''du'' is the traditionally familiar mode of address, it is since the early '70s the standard in almost all circumstances, possibly capitalized in formal communications.
