@@ -65,26 +65,53 @@
 * {{ja-readings
 |goon=[[もく]] (moku)
 |kanon=[[ぼく]] (boku)
-|kun=[[き]] (ki), [[こ]] (ko)}}
+|kun=[[き]] (ki), [[け]] (ke) {{qualifier|obsolete}}, [[こ]] (ko) {{qualifier|obsolete}}
+|nanori=[[ぐ]] (gu), [[も]] (mo), [[もと]] (moto)
+}}
 
 ===Etymology 1===
+{{IPAchar|/ki<sub>2</sub>/}}: {{IPAchar|[kɨ]}} > {{IPAchar|[ki]}}
 
-/ki<sub>2</sub>/: [kɨ] > [ki]. See bound apophonic form {{term|木|ko}}.
+From {{etyl|ojp|ja|sort=き}}.  Likely developed from fusion of older form ''ko'' + {{term|lang=ja|い|tr=i|pos=emphatic nominative particle}}, similar to the sound changes at work in {{ja-l|神}} in the shift from ''kamu'' to ''kami''.
+
+Now the modern {{etyl|ja|-}} word.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ki]}}
 
 ====Noun====
 {{ja-noun|k|hira=き|rom=ki}}
 
 # a [[tree]]; a [[shrub]]
-# [[wood]]; [[timber]]; [[lumber]]
-# {{context|graph theory|computer science|lang=ja|skey=き}} a [[tree]] (data structure)
-# First character of [[mokuyōbi|Mokuyōbi]] (Thursday) literally means ‘Weekday of Wood’
+# [[wood]], [[timber]], [[lumber]]
+# {{context|lang=ja|sort=き|graph theory|computer science}} a [[tree]] (data structure)
 
-=====Derived terms=====
-* [[猿も木から落ちる]] (さるもきからおちる, saru mo ki kara ochiru)
+=====Idioms=====
+* {{ja-l|猿も木から落ちる|さるもきからおちる|saru mo ki kara ochiru}}: “even monkeys fall from trees” → even the experts make mistakes
 
 ===Etymology 2===
+{{etyl|ojp|ja|sort=け}}.  Possibly an intermediate form.  Obsolete in modern {{etyl|ja|-}}, and never found in isolation; remains in certain place names.  Even in ancient times, its use was apparently limited to eastern dialects.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-/ko<sub>2</sub>/: [kə] > [ko]. See unbound apophonic form {{term|木|ki}}.
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ke̞]}}
+
+====Noun====
+{{ja-noun|k|hira=け|rom=ke}}
+
+# a [[tree]] {{usex|lang=ja|麻都能'''氣'''乃 奈美多流美礼波 伊波妣等乃 和例乎美於久流等 多々理之母己呂|tr=松の'''木'''の 並みたる見れば 家人の 我れを見送ると 立たりしもころ<br
+/>まつの'''け'''の なみたるみれば いはびとの われをみおくると たたりしもころ<br
+/>''Matsu no '''ke''' no / namitaru mireba / iwabito no / ware o miokuru to / tatari shi mokoro''|t=Looking at the pine '''trees''' all in a row, they were just like the people from the household standing to see me off|ref=<ref>{{RQ:Manyoshu|20|4375}}; [http://etext.virginia.edu/japanese/manyoshu/Man20Yo.html#4375 text here]</ref>}}
+
+===Etymology 3===
+{{IPAchar|/ko<sub>2</sub>/}}: {{IPAchar|[kə]}} > {{IPAchar|[ko̞]}}
+
+{{etyl|ojp|ja|sort=こ}}.  Likely the original form.  Obsolete in modern {{etyl|ja|-}}, and never found in isolation; only found in compounds and certain idioms.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞]}}
 
 ====Noun====
 {{ja-noun|k|hira=こ|rom=ko}}
@@ -92,17 +119,69 @@
 # a [[tree]]
 
 =====Derived terms=====
-* [[木高し]] (kodakashi)
-* [[木霊]] (kodama)
-* [[木隠れ]] (kogakure)
-* [[木陰]] (kokage)
-* [[木の葉]] (konoha)
-* [[木立]] (kotachi, kodachi)
+{{der-top}}
+* {{ja-l|木高し|こだかし|kodakashi}}
+* {{ja-l|木霊|こだま|kodama}}
+* {{ja-l|木隠れ|こがくれ|kogakure}}
+* {{ja-l|木陰|こかげ|kokage}}
+* {{ja-l|木の葉|このは|konoha}}
+* {{ja-l|木立|こだち|kodachi}}
+{{der-bottom}}
+
+===Etymology 4===
+From {{etyl|ltc|ja|sort=もく}} {{term|lang=ltc|木|tr=muwk}}.  The [[呉音#Japanese|''goon'']] reading, so likely the original borrowing.  Compare modern {{etyl|yue|-}} {{term|lang=yue|木|tr=muk⁶}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[mo̞kɯᵝ]}}
+
+====Noun====
+{{ja-noun|k|hira=もく|rom=moku}}
+
+# a [[tree]]
+# short for {{ja-l|木曜日||Mokuyōbi}}: [[Thursday]]
+#: When written in [[romaji]], often capitalized as {{ja-l|||Moku}}.
+# [[wood]] [[grain]]
+#: Often written {{ja-l|杢}}.
+
+=====Derived terms=====
+{{der-top}}
+{{der-bottom}}
+
+===Etymology 5===
+From {{etyl|ltc|ja|sort=ほく'}} {{term|lang=ltc|木|tr=}}.  The [[漢音#Japanese|''kan'on'']] reading, so likely a later borrowing.  Compare literary {{etyl|nan|-}} {{term|lang=nan|木|tr=bo̍k}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[bo̞kɯᵝ]}}
+
+====Adjective====
+{{ja-adj|k|infl=na|hira=ぼく|rom=boku|hidx=ほく'}}
+
+# {{context|lang=ja|sort=ほく'|derogatory}} [[wooden]], as of a person's [[character]] or [[behavior]]
+# {{context|lang=ja|sort=ほく'|derogatory}} [[wooden]], as of a person's [[mental]] [[abilities]]: [[blockheaded]], [[stupid]], [[dimwitted]]
+
+====Noun====
+{{ja-noun|k|hira=ぼく|rom=boku|hidx=ほく'}}
+
+# a [[tree]]; more specifically, a [[living]] tree
+# the [[bent]] and [[gnarl]]ed [[trunk]] or [[root]]s of an old tree
+# [[wood]], [[lumber]]
+# something made of [[wood]]
+# in ancient China, a [[wooden]] [[musical]] [[instrument]]
+
+=====Derived terms=====
+{{der-top}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|き]]
 [[Category:ja:Trees]]
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 木]]
+
 ----
 
 ==Korean==
