@@ -316,7 +316,7 @@ From the same Uralic root *''e'' as Finnish [[että]] and Estonian [[et#Estonian
 ===Pronoun===
 {{hu-pronoun|demonstrative}}
 
-# {{archaic|lang=hu}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
+# {{context|archaic|lang=hu}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
 #* '''1836:''' Vörösmarty Mihály, Szózat
 #*: A nagy világon '''e''' kivűl (''modern spelling: [[kívül]]'')
 #*: Nincsen számodra hely;
@@ -602,7 +602,7 @@ From {{etyl|la|nap}} {{term|et|lang=la}}
 ====Verb====
 {{head|no|verb}}
 
-# {{dialectal|lang=no}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
+# {{context|dialectal|lang=no}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
 
 ----
 
@@ -716,7 +716,7 @@ From {{etyl|la|pt}} {{term|et||and|lang=la}}, from {{etyl|ine-pro|pt}} {{recons|
 ===Noun===
 {{pt-noun|m|-}}
 
-# {{logic|lang=pt}} [[and]], [[conjunction]]
+# {{context|logic|lang=pt}} [[and]], [[conjunction]]
 
 ----
 
@@ -764,7 +764,7 @@ See {{term|E|lang=ro}} for pronunciation notes and details.
 ====Verb====
 '''e'''
 
-# {{informal|lang=ro}} {{ro-form-verb|3s|pres|fi}}
+# {{context|informal|lang=ro}} {{ro-form-verb|3s|pres|fi}}
 #: ''[[el|El]] '''e''' [[un]] [[copil]].''
 #:: "He is a child."
 
@@ -848,13 +848,13 @@ Variant of {{term|ej|lang=sh}} or {{term|hej|lang=sh}}
 ====Interjection====
 {{sh-interjection|r|е}}
 
-# {{rare|lang=sh}} [[well]], [[now]]
-# {{informal|at the beginning of the sentence|lang=sh}} [[hey]]
-# {{informal|at the beginning of the sentence|lang=sh}} Used to emphasize the sentence
+# {{context|rare|lang=sh}} [[well]], [[now]]
+# {{context|informal|at the beginning of the sentence|lang=sh}} [[hey]]
+# {{context|informal|at the beginning of the sentence|lang=sh}} Used to emphasize the sentence
 #: '''''E''', šta ima?'' — “Hey, what's up?”
-# {{informal|at the beginning of the sentence|lang=sh}} Used to express surprise
+# {{context|informal|at the beginning of the sentence|lang=sh}} Used to express surprise
 #: '''''E''', otkud ti?'' — “Hey, where did you come from?”
-# {{informal|at the beginning of the sentence|lang=sh}} Used to get attention or change the topic of conversation, especially if followed by [[a]] ([[and]], [[but]])
+# {{context|informal|at the beginning of the sentence|lang=sh}} Used to get attention or change the topic of conversation, especially if followed by [[a]] ([[and]], [[but]])
 #: '''''E''', a vidi ovo.'' — “And look at this.”
 
 ----
