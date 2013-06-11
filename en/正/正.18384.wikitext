@@ -73,7 +73,10 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 {{ja-kanji|grade=1|rs=止01}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei), [[しょう]] (shō)|kun=[[ただしい]] (tadashii), [[まさ]] (masa), [[ただす]] (tadasu)}}
+* {{ja-readings
+|goon=[[しょう]] (shō) < [[しやう]] (shau)
+|kanon=[[せい]] (sei)
+|kun=[[ただしい]] (tadashii), [[まさ]] (masa), [[ただす]] (tadasu)}}
 
 ====Compounds====
 {{top2}}
