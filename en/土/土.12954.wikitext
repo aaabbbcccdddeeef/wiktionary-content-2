@@ -59,7 +59,11 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 {{ja-kanji|grade=1|rs=土00}}
 
 ====Readings====
-* {{ja-readings|on=[[ど]] (do), [[と]] (to)|kun=[[つち]] (tsuchi)}}
+* {{ja-readings
+|goon=[[つ]] (tsu)
+|kanon=[[と]] (to)
+|kanyoon=[[ど]] (do)
+|kun=[[つち]] (tsuchi)}}
 
 ====Compounds====
 * [[土地]] ([[とち]], ''[[tochi]]''): [[ground]]; [[land]]
