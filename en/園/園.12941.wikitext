@@ -39,7 +39,10 @@
 {{ja-kanji|grade=2|rs=囗10}}
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (''en''), [[おん]] (''on'')|kun=[[その]] (''sono''), [[おん]] (''on'')}}
+* {{ja-readings
+|goon=[[おん]] (on) < [[をん]] (won)
+|kanon=[[えん]] (en) < [[ゑん]] (wen)
+|kun=[[その]] (sono), [[おん]] (on)}}
 
 ====Compounds====
 * {{term|動物園||zoo|tr=どうぶつえん, dōbutsuen|lang=ja|sc=Jpan}}
@@ -50,6 +53,7 @@
 {{ja-noun|k|hira=えん|rom=en}}
 
 # [[garden]]
+
 {{ja-noun|k|hira=その|rom=sono}}
 # garden
 # [[park]]
