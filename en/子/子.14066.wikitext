@@ -76,100 +76,155 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 |goon=[[し]] (shi)
 |kanon=[[し]] (shi)
 |toon=[[す]] (su)
-|kun=[[こ]] (ko), [[ね]] (ne)
-|nanori=[[こ]] (ko)
+|kun=[[こ]] (ko), [[ね]] (ne), [[み]] (mi)
+|nanori=[[こ]] (ko), [[さね]] (sane), [[しげ]] (shige), [[しげる]] (shigeru), [[たか]] (taka), [[ただ]] (tada), [[たね]] (tane), [[ちか]] (chika), [[つぐ]] (tsugu), [[とし]] (toshi), [[ね]] (ne), [[み]] (mi), [[みる]] (miru), [[やす]] (yasu)
 }}
 
-====Compounds====
-{{der-top|Some compounds using 子}}
-* {{l|ja|綿菓子}} ({{l|ja|わたがし}}, ''[[watagashi]]'') [[cotton candy]]
-* {{l|ja|子ども}} or {{l|ja|子供}} ({{l|ja|こども}}, ''[[kodomo]]'') a [[child]]
-* {{l|ja|お子さん}} ({{l|ja|おこさん}}, ''[[okosan]]'') your/someone's [[child]]
-* {{l|ja|子犬}} ({{l|ja|こいぬ}}, ''[[koinu]]''): a [[puppy]]
-* {{l|ja|子会社}} ({{l|ja|こがいしゃ}}, ''[[kogaisha]]''): a [[subsidiary]]
-{{der-mid}}
-* {{l|ja|子守歌}} ({{l|ja|こもりうた}}, ''[[komori uta]]''): a [[lullaby]]
-* {{l|ja|電子}} ({{l|ja|でんし}}, ''[[denshi]]''): an [[electron]]
-* {{l|ja|帽子}} ({{l|ja|ぼうし}}, ''[[bōshi]]''): [[hat]]
-* {{l|ja|椅子}} ({{l|ja|いす}}, ''[[isu]]''): a [[chair]]
-* {{l|ja|卓子}} ({{l|ja|たくし}}, ''[[takushi]]'' / {{l|ja|たくす}}, ''[[takusu]]''): {{qualifier|rare}} a [[table]]
-{{bottom}}
+===Etymology 1===
+{{etyl|ojp|ja|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Seen in the [[w:Kojiki|''Kojiki'']] and the [[w:Man'yōshū|''Man'yōshū'']], two of the oldest examples of written Japanese.
 
-===Noun===
+Cognate with {{term|lang=ja|蚕|tr=ko||silkworm}}.  Also possibly cognate with {{term|lang=ja|小|tr=ko||little|pos=diminutive prefix}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞]}}
+
+====Alternative forms====
+* {{ja-l|児}} {{qualifier|less commonly used}}
+
+====Noun====
 {{ja-noun|k|hira=こ|rom=ko}}
 
-# A [[child]].
-#* [[男]]の'''子'''<br
-/> [[おとこ]]の'''こ'''<br
-/> [[otoko]] no '''ko'''<br
-/> a [[male]] '''child'''; a [[boy]]
-# A smaller or younger version of a bigger object.
-#* [[きのこ|きの'''こ''']]<br
-/> kino'''ko'''<br
-/> literally, a "'''little''' tree": a [[mushroom]]
-#* [[竹の子|竹の'''子''']]<br
-/> たけの'''こ'''<br
-/> takeno'''ko'''<br
-/> a [[bamboo]] '''[[shoot]]'''
+# a [[child]]
+#: {{Jpan|男の'''子'''}} — {{Jpan|おとこの'''こ'''}} — ''otoko no '''ko''''' — male '''child''': a boy
+# {{context|lang=ja|sort=こ|figuratively}} a [[girl]], especially a [[dear]] or [[desire]]d one {{qualifier|compare use of English {{term|lang=en|baby}}, {{term|lang=en|babe}}}} {{usex|lang=ja|ref=<ref>{{RQ:Manyoshu|7|1266}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1266 text here]</ref>|大舟乎 荒海尓榜出 八船多氣 吾見之'''兒'''等之 目見者知之母|tr=大船を 荒海に漕ぎ出で や船たけ 我が見し'''子'''らが まみはしるしも<br/>おほぶねを あるみにこぎで やふねたけ わがみし'''こ'''らが まみはしるしも<br/>''Ōbune o / arumi ni kogi de / ya fune take / waga mishi '''ko'''ra ga / mami wa shirushi mo''|t=Rowing the big boat into the rough seas, putting our backs into it, the looks of those '''girl'''s I saw are clear [in my mind]}}
+# a [[smaller]] or [[younger]] [[version]] of a bigger object
+#: {{Jpan|きの'''こ'''}} — ''kino'''ko''''' — a "tree's '''child / little one'''": a mushroom
+#: {{Jpan|竹の'''子'''}} — {{Jpan|たけの'''こ'''}} — ''takeno'''ko''''' — a "bamboo's '''child / little one'''": a bamboo '''shoot'''
 
-===Prefix===
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|お子さん|おこさん|okosan}}: [[child]] {{qualifier|when addressing or referring to someone else's}}
+* {{ja-l|子供|こども|kodomo}}: a [[child]], [[children]]
+* {{ja-l|子守|こもり|komori}}: a [[babysitter]], a [[nurse]]; [[babysitting]]
+* {{ja-l|子守歌|こもりうた|komori uta}}: a [[lullaby]], a [[nursery]] [[song]]
+* {{ja-l|間の子}}, {{ja-l|合いの子|あいのこ|ai no ko}}: a child of racially different parents; a [[hybrid]] [[organism]]; something with the [[qualities]] of two other things, a combination
+* {{ja-l|豕}}, {{ja-l|猪子}}, {{ja-l|猪の子|いのこ|inoko}}: a [[wild]] [[pig]]; a [[wild]] [[piglet]]
+* {{ja-l|芋の子|いものこ|imo no ko}}: a smaller [[tuber]] branching off of another [[potato]]
+* {{ja-l|茸|きのこ|kinoko}}: a [[mushroom]]
+* {{ja-l|筍|たけのこ|takenoko}}: a [[bamboo]] [[shoot]]
+{{der-bottom}}
+
+====Prefix====
 {{ja-pos|k|prefix|hira=こ|rom=ko}}
 
-# An [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
-#* [[子会社|'''子'''会社]]<br
-/> [[こがいしゃ|'''こ'''がいしゃ]]<br
-/> [[kogaisha|'''ko'''gaisha]]<br
-/> a [[subsidiary]]
-#* [[子犬|'''子'''犬]]<br
-/> '''こ'''いぬ<br
-/> '''ko'''inu<br
-/> a [[puppy]]
+# an [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
+#: {{Jpan|'''子'''会社}} {{Jpan|'''こ'''がいしゃ}} — '''''ko'''''gaisha — a subsidiary
+#: {{Jpan|'''子'''犬}} — {{Jpan|'''こ'''いぬ}} — '''''ko'''inu'' — a puppy
 
-===Suffix===
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|子犬|こいぬ|koinu}}: a [[puppy]]
+* {{ja-l|子会社|こがいしゃ|kogaisha}}: a [[subsidiary]]
+{{der-bottom}}
+
+====Suffix====
 {{ja-pos|k|suffix|hira=こ|rom=ko}}
 
-Used only in [[kun'yomi]] compounds.
+# suffix used in female given names, such as {{ja-l|智子|ともこ|Tomoko}}, {{ja-l|英子|えいこ|Eiko}}, {{ja-l|秀子|ひでこ|Hideko}}, {{ja-l|美奈子|みなこ|Minako}}
+# {{context|lang=ja|sort=こ|rare}} suffix used in male given names
+# an [[object]] having a particular [[state]] or [[property]] {{qualifier|sometimes [[diminutive]]}}
+#: {{Jpan|振'''子'''}} — {{Jpan|ふり'''こ'''}} — ''furi'''ko''''' — an object that swings: a pendulum
+# [[roe]] (only when preceded by a fish name, or fish-related prefix)
+#: {{Jpan|明太'''子'''}} — {{Jpan|めんたい'''こ'''}} — ''mentai'''ko''''' — pollock '''roe'''
+#: {{Jpan|飛'''子'''}} — {{Jpan|とび'''こ'''}} — ''tobi'''ko''''' — flying fish '''roe'''
 
-# suffix used in female given names, such as 智子(ともこ, Tomoko), 英子(えいこ, Eiko; ひでこ, Hideko), 美奈子(みなこ, Minako)
-# {{context|rare|lang=ja}} suffix used in male given names
-# an [[object]] of a particular [[state]] or [[property]]
-#* [[振]]'''子'''<br
-/> [[ふり]]'''こ'''<br
-/> [[furi]]'''ko'''<br
-/> an object that swings: a [[pendulum]]
-# [[roe]] (only when preceded by a fish, or fish-related prefix)
-#* [[明太子|明太'''子''']]<br
-/> めんたい'''こ'''<br
-/> mentai'''ko'''<br
-/> [[pollock]] '''roe'''
-#* [[飛子|飛'''子''']]<br
-/> とび'''こ'''<br
-/> tobi'''ko'''<br
-/> [[flying fish]] '''roe'''
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|団子|だんご|dango}}: a [[dango]], a kind of [[dumpling]]
+* {{ja-l|愛子|まなご|manago}}: [[beloved]] [[child]]
+{{der-bottom}}
 
-{{ja-pos|k|suffix|hira=し|rom=shi}}
+===Etymology 2===
+From {{etyl|ltc|ja|sort=し}} {{term|lang=ltc|子|tr=tsiX}}.  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|子|tr=zǐ}}.
 
-{{ja-pos|k|suffix|hira=す|rom=su}}
+The {{l|ja|呉音|sc=Latn|''goon''}} reading of ''shi'' is likely the original borrowing.  The {{l|ja|唐音|sc=Latn|''tōon''}} reading ''su'' appears later, and only shows up in certain set terms borrowed from Chinese, where it seems to serve as a kind of nominalizing suffix.
 
-Used only in [[on'yomi]] compounds.
+Never used in isolation.  Only used in {{l|ja|sc=Latn|音読み|''on'yomi''}} compounds.
 
-# An [[object]], generally small, having a particular [[state]] or [[property]].
-#* [[中性子|中性'''子''']]<br
-/> ちゅうせい'''し'''<br
-/> chūsei'''shi'''<br
-/> literally, a [[neutral]] '''small thing''': a [[neutron]]
-#* [[椅子|椅'''子''']]<br
-/> い'''す'''<br
-/> i'''su'''<br
-/> literally, a [[chair]] '''small thing''': a [[chair]]
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɕi]|[sɯᵝ]}} {{qualifier|second reading less common, only used in word-final position}}
 
-====Usage notes====
-In some kanji compounds, 子 is part of the word but does not carry much meaning, as in 椅子.  Possibly because of this erosion of meaning, 子 used in some compounds has become optional, as in {{term|椰子|lang=ja}}/{{term|椰||a palm tree|tr=[[yashi]]|lang=ja}} and {{term|柚子|lang=ja}}/{{term|柚||[[yuzu]], an aromatic citron|tr=[[yuzu]]|lang=ja}}.  Also note that the ''shi'' or ''su'' reading will become voiced in some compounds as ''ji'' or ''zu'' due to [[Appendix:Japanese_glossary#rendaku|rendaku]] ({{l|ja|連濁}}).
+====Affix====
+{{ja-pos|k|affix|hira=し|rom=shi}} {{ja-altread|hira=す|rom=su}}
+
+# a [[child]]
+# an [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
+# an [[object]] having a particular [[state]] or [[property]] {{qualifier|sometimes [[diminutive]]}}
+#: {{Jpan|中性'''子'''}} — {{Jpan|ちゅうせい'''し'''}} — ''chūsei'''shi''''' — a [[neutral]] '''small thing''': a [[neutron]]
+#: {{Jpan|椅'''子'''}} — {{Jpan|い'''す''' — ''i'''su''' — literally, a [[chair]] '''small thing''': a [[chair]]
+
+=====Usage notes=====
+In some kanji compounds, {{Jpan|子}} is part of the word but does not carry much meaning in Japanese, as in {{term|lang=ja|椅子|tr=isu||chair}}.  Possibly because of this erosion of meaning, spelling out {{Jpan|子}} in some compounds has become optional, as in {{term|lang=ja|椰子}} vs. {{term|lang=ja|椰|tr=yashi||a palm tree}}, or {{term|lang=ja|柚子}} vs. {{term|lang=ja|柚|tr=yuzu||an aromatic citron}}.
+
+Also note that, in some compounds, the ''shi'' or ''su'' reading becomes voiced as ''ji'' or ''zu'' due to [[Appendix:Japanese_glossary#rendaku|rendaku]].
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|子院|しいん|shiin}}: a [[branch]] [[temple]]
+* {{ja-l|子音|しおん|shion}}: a [[consonant]]
+* {{ja-l|子器|しき|shiki}}: the [[reproductive]] [[organ]] of [[fungi]] in [[phylum]] [[Ascomycota]]: the [[ascocarp]]
+* {{ja-l|子宮|しきゅう|shikyū}}: the [[uterus]], the [[womb]]
+* {{ja-l|子午|しご|shigo}}: running [[north]] and [[south]]
+* {{ja-l|子細|しさい|shisai}}: a [[detail]], a [[particular]]; a [[circumstance]]
+* {{ja-l|子史|しし|shishi}}: 
+* {{ja-l|子実層|しじつそう|shijitsusō}}: the [[hymenium]] of certain [[fungi]]
+* {{ja-l|子実体|しじつたい|shijitsutai}}: the [[sporocarp]] or [[fruiting body]] of certain [[fungi]]
+* {{ja-l|子爵|ししゃく|shishaku}}: a [[viscount]]
+* {{ja-l|子女|しじょ|shijo}}: [[children]]; a [[girl]], a [[daughter]]
+* {{ja-l|子銭|しせん|shisen}}: [[interest]] earned on a [[loan]]
+* {{ja-l|子息|しそく|shisoku}}: a [[boy]], a [[son]]
+* {{ja-l|子孫|しそん|shison}}: a [[descendant]]
+* {{ja-l|子弟|してい|shitei}}: [[children]], [[young]] [[people]]
+* {{ja-l|子道|しどう|shidō}}: one's [[duty]] to one's children
+* {{ja-l|子嚢|しのう|shinō}}: the [[ascus]] or [[pericarp]] of certain [[fungi]]
+* {{ja-l|子婦|しふ|shifu}}: a [[daughter-in-law]]
+* {{ja-l|子母銭|しぼせん}}: [[money]], [[principal]] and [[interest]]
+* {{ja-l|子母沢|しもわざ|Shimowaza}}: a [[surname]]
+* {{ja-l|子法|しほう|shihō}}: a [[law]] based on a law in another country
+* {{ja-l|子房|しぼう|shibō}}: an [[ovary]]
+* {{ja-l|子本|しほん|shihon}}: [[principal]] and [[interest]]
+* {{ja-l|子夜|しや|shiya}}: [[midnight]]
+* {{ja-l|子葉|しよう|shiyō}}: the [[cotyledon]] or [[seed leaf]], the first [[leaf]] of a sprouting plant
+* {{ja-l|子来|しらい|shirai}}: the [[love]] of the [[populace]] for a [[just]] [[ruler]]
+* {{ja-l|子癇|しかん|shikan}}: [[eclampsia]]
+{{der-mid}}
+* {{ja-l|烏帽子|えぼし|eboshi}}: the formal black [[peaked]] [[cap]] worn by [[nobility]]
+* {{ja-l|菓子|かし|kashi}}: [[candy]]
+* {{ja-l|卓子|たくし|takushi}}: {{qualifier|rare}} a [[table]]
+* {{ja-l|中性子|ちゅうせいし|chūseishi}}: a [[neutron]]
+* {{ja-l|電子|でんし|denshi}}: an [[electron]]
+* {{ja-l|螺子}}, {{ja-l|捻子}}, {{ja-l|捩子|ねじ|neji}}: a [[screw]]
+* {{ja-l|胞子|ほうし|hōshi}}: a [[spore]]
+* {{ja-l|烽子|ほうし|hōshi}}: a [[courier]] or [[messenger]] in ancient Japan
+* {{ja-l|亡子|ぼうし|bōshi}}: a [[dead]] [[child]]
+* {{ja-l|帽子|ぼうし|bōshi}}: a [[hat]], a [[cap]]
+* {{ja-l|眸子|ぼうし|bōshi}}: the [[pupil]] of the [[eye]] {{qualifier|rare}}
+* {{ja-l|鋩子|ぼうし|bōshi}}: the [[tip]] of a [[sword]] or [[knife]]
+* {{ja-l|拍子|ひょうし|hyōshi}}: [[rhythm]]
+* {{ja-l|椅子|いす|isu}}: a [[chair]]
+* {{ja-l|茄子|なす|nasu}}: [[eggplant]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:ja:Family|こ]]
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 子]]
 [[Category:1000 Japanese basic words]]
+
 ----
 
 ==Korean==
