@@ -71,14 +71,11 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 ===Kanji===
 {{ja-kanji|grade=1|rs=山00}}
 
-===Noun===
-{{ja-noun|k|hira=やま|rom=yama}}
-
-# [[mountain]]
-
 ====Readings====
-* {{ja-readings|on={{l|ja|さん}} (san), {{l|ja|せん}} (sen)|kun={{l|ja|やま}} (yama)}}
-also [[ざん]] (zan)
+* {{ja-readings
+|goon={{l|ja|せん}} (sen)
+|kanon={{l|ja|さん}} (san)
+|kun={{l|ja|やま}} (yama)}}
 
 ====Compounds====
 {{top2}}
@@ -100,6 +97,11 @@ also [[ざん]] (zan)
 * {{l|ja|山犬}} ({{l|ja|やまいぬ}}, ''[[yamainu]]''): a [[mountain]] [[dog]]
 * {{l|ja|花果山}} ({{l|ja|かかざん}}, ''[[kakazan]]''): [[flower]]-[[fruit]] [[mountain]]
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=やま|rom=yama}}
+
+# [[mountain]]
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 山]]
