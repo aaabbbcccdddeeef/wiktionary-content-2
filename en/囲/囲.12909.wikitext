@@ -7,7 +7,7 @@ Japanese shinjitai {{Han simp|圍|f=韋|t=井}}.
 ===Han character===
 {{Han char|rn=31|rad=囗|as=04|sn=7|four=|canj=田廿廿 (WTT)|ids=⿴[[囗]][[井]]}}
 
-# [[surround]], [[encircle]], [[corral]]
+# (Japanese simplified form of {{term|圍|lang=mul|sc=Hani}}) [[surround]], [[encircle]], [[corral]]
 # [[whip]]
 
 ====References====
@@ -18,20 +18,28 @@ Japanese shinjitai {{Han simp|圍|f=韋|t=井}}.
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=4|rs=囗04}}
+{{ja-kanji|grade=4|rs=囗04|style=s|kyu=圍}}
 
-# {{defn|lang=ja|sort=囗04}}
+# to [[surround]], [[encircle]]
+
+{{ja-kanji|grade=9|rs=囗04|style=ky}}
+
+# [[whip]]
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i), [[とう]] (tō)|kun=[[かこむ]] (kakomu), [[かこい]] (kakoi), [[かこう]] (kakou), [[むち]] (muchi)}}
+'''As shinjitai form of {{Jpan|圍}}:'''
+* {{ja-readings
+|goon=[[え]] (e) < [[ゑ]] (we) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[い]] (i) < [[ゐ]] (wi)
+|kun=[[かこむ]] ([[囲む]], kakomu), [[かこい]] ([[囲い]], kakoi), [[かこう]] ([[囲う]] kakou)}}
 
-====Usage notes====
-[[shinjitai|Shinjitai]]
+'''As original character:'''
+* {{ja-readings
+|on=[[とう]] (tō)
+|kun=[[むち]] (muchi)}}
 
 ====Compounds====
-* [[囲碁]]
-* [[囲う]]
-* [[囲む]]
+* {{l|ja|囲碁}}
 
 ----
 
