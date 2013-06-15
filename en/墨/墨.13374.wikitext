@@ -27,10 +27,15 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=土11}}
+{{ja-kanji|grade=c|rs=土11|style=s|kyu=墨}}
+
+# [[ink]]
 
 ====Readings====
-* {{ja-readings|on=[[ぼく]] (boku), [[もく]] (moku)|kun=[[すみ]] (sumi)}}
+* {{ja-readings
+|goon=[[もく]] (moku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ぼく]] (boku)
+|kun=[[すみ]] (sumi)}}
 
 ====Compounds====
 * [[墨客]]
