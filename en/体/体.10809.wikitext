@@ -43,29 +43,25 @@ Readings as simplification of 體 (body, group):
 ----
 
 ==Japanese==
-===Noun===
-{{ja-noun|k|hira=からだ|rom=karada}}
-
-# [[body]]
-# [[health]]
-
-{{ja-noun|k|hira=たい|rom=tai}}
-# [[body]]
-# [[form]]
-
-====Derived terms====
-* {{l|ja|体付き}}
-* {{l|ja|体良く}}
-
-===Suffix===
-{{ja-pos|k|suffix|hira=たい|rom=-tai}}
-# [[body]], [[group]]
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=人05}}
+{{ja-kanji|grade=2|rs=人05|style=s|kyu=體}}
+
+# [[body]]
+
+{{ja-kanji|grade=9|rs=人05}}
+
+# [[inferior]]
 
 ====Readings====
-* {{ja-readings|on={{l|ja|てい}} (tei), {{l|ja|たい}} (tai), {{l|ja|ほん}} (hon)|kun={{l|ja|からだ}} (karada)}}
+'''As shinjitai form of {{Jpan|體}}:'''
+* {{ja-readings
+|goon={{l|ja|たい}} (tai)
+|kanon={{l|ja|てい}} (tei)
+|kun={{l|ja|からだ|tr=karada}}}}
+
+'''As original character:'''
+* {{ja-readings|on={{l|ja|ほん}} (hon)}}
 
 ====Compounds====
 {{top4}}
@@ -119,9 +115,25 @@ Readings as simplification of 體 (body, group):
 * {{l|ja|旧字体}}
 {{bottom}}
 
-====Synonyms====
-* {{l|ja|體}}
-* {{l|ja|休}}
+===Noun===
+{{ja-noun|k|hira=からだ|rom=karada}}
+
+# [[body]]
+# [[health]]
+
+{{ja-noun|k|hira=たい|rom=tai}}
+
+# [[body]]
+# [[form]]
+
+====Derived terms====
+* {{l|ja|体付き}}
+* {{l|ja|体良く}}
+
+===Suffix===
+{{ja-pos|k|suffix|hira=たい|rom=-tai}}
+
+# [[body]], [[group]]
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 体]]
