@@ -42,32 +42,19 @@ A simplification of the Buddhist symbol [[卍]] introduced when Buddhism came to
 
 ==Japanese==
 
-===Number===
-'''万''' ([[まん]], [[man]])
-
-# [[ten thousand]], 10,000
-
-===Noun===
-{{ja-noun|k|hira=よろず|rom=yorozu}}
-
-# [[ten thousand]]
-# a large number
-# [[all]], [[everything]]
-
-====Derived terms====
-* [[万が一]] ([[まんがいち]], [[mangaichi]])
-
-===Prefix===
-{{ja-pos|k|prefix|hira=ばん|rom=ban-|hidx=はん'}}
-
-# [[many]]
-# [[all]]
-
 ===Kanji===
-{{ja-kanji|grade=2|rs=一02}}
+{{ja-kanji|grade=2|rs=一02|style=s|kyu=萬}}
+
+# [[myriad]], ten thousand
+# very many
 
 ====Readings====
-* {{ja-readings|on=[[まん]] (''man''), [[ばん]] (''ban'')|kun=[[よろず]] (''yorozu'')|nanori=[[かず]] (''kazu''), [[ま]] (''ma''), [[ゆる]] (''yuru'')}}
+* {{ja-readings
+|goon=[[もん]] (mon) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ばん]] (ban)
+|kanyoon=[[まん]] (man)
+|kun=[[よろず]] (yorozu)
+|nanori=[[かず]] (kazu), [[ま]] (ma), [[ゆる]] (yuru)}}
 
 ====Compounds====
 {{top4}}
@@ -102,6 +89,27 @@ A simplification of the Buddhist symbol [[卍]] introduced when Buddhism came to
 * [[万斛]] ([[ばんこく]], [[bankoku]])
 * [[万軍]] ([[ばんぐん]], [[bangun]])
 {{bottom}}
+
+===Number===
+'''万''' ([[まん]], [[man]])
+
+# [[ten thousand]], 10,000
+
+===Noun===
+{{ja-noun|k|hira=よろず|rom=yorozu}}
+
+# [[ten thousand]]
+# a large number
+# [[all]], [[everything]]
+
+====Derived terms====
+* [[万が一]] ([[まんがいち]], [[mangaichi]])
+
+===Prefix===
+{{ja-pos|k|prefix|hira=ばん|rom=ban-|hidx=はん'}}
+
+# [[many]]
+# [[all]]
 
 [[Category:1000 Japanese basic words|まん]]
 [[Category:Japanese numbers|10000]]
