@@ -18,7 +18,7 @@
 ==Cantonese==
 
 ===Hanzi===
-{{yue-hanzi|jyut=|y=jam6}}
+{{yue-hanzi|jyut=zam6|y=jam6}}
 
 # {{defn|lang=yue|sort=月06}}
 
@@ -30,7 +30,10 @@
 {{ja-kanji|grade=c|rs=月06}}
 
 ====Readings====
-* {{ja-readings|on=[[ちん]] (chin), [[じん]] (jin), [[ちむ]] (chimu), [[ぢむ]] (jimu)|kun=[[われ]] (ware), [[わが]] (waga),　[[きざし]] (kizashi)}}
+* {{ja-readings
+|goon=[[じん]] (jin) < [[ぢむ]] (dimu) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|on=[[ちん]] (chin) < [[ちむ]] (chimu)
+|kun=[[われ]] (ware), [[きざし]] (kizashi)}}
 
 ===Pronoun===
 {{ja-pos|k|pronoun|hira=ちん|rom=chin}} 
