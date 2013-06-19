@@ -36,10 +36,14 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 {{ja-see-also|会する}}
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=人04}}
+{{ja-kanji|grade=2|rs=人04|style=s|kyu=會}}
 
 ====Readings====
-* {{ja-readings|on=[[かい]] ([[kai]]), [[え]] ([[e]]), [[け]] (ke)|kun=[[あう]] ([[会う]], [[au]])|nanori=[[あい]] ([[ai]]), [[い]] ([[i]])}}
+* {{ja-readings
+|goon=[[え]] (e) < [[ゑ]] (we), [[け]] (ke) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[かい]] (kai) < [[くわい]] (kwai)
+|kun=[[あう]] ([[会う]], au) < [[あふ]] (afu)
+|nanori=[[あい]] (ai) < [[あひ]] (ahi), [[い]] (i)}}
 
 ====Compounds====
 {{top2}}
