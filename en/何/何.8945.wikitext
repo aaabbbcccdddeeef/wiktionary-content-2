@@ -27,34 +27,16 @@
 
 ==Japanese==
 
-===Interjection===
-{{ja-pos|k|interjection|hira=なに|rom=nani}}
-
-# What?, Huh?
-
-===Pronoun===
-{{ja-pos|k|pronoun|hira=なに|rom=nani}}
-
-{{ja-pos|k|pronoun|hira=なん|rom=nan}}
-
-# [[what]]
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|92}}
-#*: 汝何所爲 '''奈尓'''世牟止曽
-# that thing (used in place of words you can't remember at the moment.)
-
-====Derived terms====
-* [[何か]]
-* [[何も]]
-* [[何かしら]]
-* [[何しろ]]
-* [[何せ]]
-* [[何たる]]
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=人05}}
 
+# [[what]]
+
 ====Readings====
-* {{ja-readings|on=[[か]] ([[ka]]), [[が]] ([[ga]])|kun=[[なに]] ([[nani]]), [[なん]] ([[nan]]), [[いず]] ([[izu]]), [[あが]] ([[aga]])}}
+* {{ja-readings
+|goon=[[が]] (ga) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[か]] (ka)
+|kun=[[なに]] (nani), [[なん]] (nan), [[いず]] (izu), [[あが]] (aga)}}
 
 ====Compounds====
 * [[如何]], [[奈何]]
@@ -86,6 +68,29 @@
 * [[何遍]]
 * [[何某]]
 * [[何様]]
+
+===Interjection===
+{{ja-pos|k|interjection|hira=なに|rom=nani}}
+
+# What?, Huh?
+
+===Pronoun===
+{{ja-pos|k|pronoun|hira=なに|rom=nani}}
+
+{{ja-pos|k|pronoun|hira=なん|rom=nan}}
+
+# [[what]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|92}}
+#*: 汝何所爲 '''奈尓'''世牟止曽
+# that thing (used in place of words you can't remember at the moment.)
+
+====Derived terms====
+* [[何か]]
+* [[何も]]
+* [[何かしら]]
+* [[何しろ]]
+* [[何せ]]
+* [[何たる]]
 
 ===See also===
 * [[何れ]] ([[どれ]], [[dore#Japanese|dore]]) which one?
