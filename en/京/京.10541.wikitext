@@ -45,7 +45,12 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # ten [[quadrillion]]
 
 ====Readings====
-* {{ja-readings|on=[[きょう]] (''kyō''), [[けい]] (''kei''), [[きん]] (''kin'')|kun=[[みやこ]] (''miyako'')|nanori=[[あつ]] (''atsu''), [[たか]] (''taka'')}}
+* {{ja-readings
+|goon=[[きょう]] (kyō) < [[きやう]] (kyau)
+|kanon=[[けい]] (kei)
+|toon=[[きん]] (kin) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[みやこ]] (miyako)
+|nanori=[[あつ]] (atsu), [[たか]] (taka)}}
 
 ====Compounds====
 {{top2}}
@@ -91,7 +96,6 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 {{bottom}}
 
 ===Etymology 1===
-
 /kyau/ > /kyoː/.
 
 ====Noun====
@@ -102,7 +106,6 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # ''(abbreviation)'' [[Kyoto]] ([[京都]], [[Kyoto|Kyōto]])
 
 ===Etymology 2===
-
 Compound of {{term|宮|miya|imperial palace}} and {{term|処|ko|place}}.
 
 ====Noun====
