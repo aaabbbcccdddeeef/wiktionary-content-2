@@ -23,7 +23,7 @@
 {{wikipedia|Voiceless glottal fricative}}
 {{head|mul|symbol}}
 
-# {{context|[[w:IPA|IPA]]}} [[voiceless]] [[glottal]] [[fricative]].
+# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiceless]] [[glottal]] [[fricative]].
 # [[Planck's constant]]
 
 ===See also===
@@ -71,10 +71,10 @@ Image:Fraktur letter H.png|Uppercase and lowercase '''H''' in [[Fraktur]]
 ===={{initialism-old|en}}====
 '''h'''
 
-# {{context|science}} abbreviation for [[hour]] {{qualifier|particularly when used as a (non-[[SI#English|SI]]) unit of time alongside [[International System of Units]] (SI) units}}
-# {{context|baseball}} the statistic reporting the number of hits by a player
-# {{context|slang}} [[heroin]]
-# {{context|computing}} [[hexadecimal]] (following a number)
+# {{context|science|lang=en}} abbreviation for [[hour]] {{qualifier|particularly when used as a (non-[[SI#English|SI]]) unit of time alongside [[International System of Units]] (SI) units}}
+# {{context|baseball|lang=en}} the statistic reporting the number of hits by a player
+# {{context|slang|lang=en}} [[heroin]]
+# {{context|computing|lang=en}} [[hexadecimal]] (following a number)
 #* '''1994''', Jan Axelson, ''The microcontroller idea book'' (page 47)
 #*: The commands assume that the NV memory is addressed beginning at 8000'''h''' in external data memory.
 
