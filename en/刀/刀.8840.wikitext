@@ -61,33 +61,94 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 
 ====Readings====
 {{ja-readings
-|on=[[とう]] (tō) < [[たう]] (tau), [[と]] (to)
-|kun=[[かたな]] (katana)}}
-
-====Synonyms====
-* {{ja-l|剣|つるぎ|tsurugi}}
+|goon=[[とう]] (tō) < [[たう]] (tau), [[と]] (to)
+|kanon=[[とう]] (tō) < [[たう]] (tau)
+|kun=[[かたな]] (katana)
+|nanori=[[き]] (ki), [[ち]] (chi), [[と]] (to), [[わき]] (waki)
+}}
 
 ====Compounds====
-* [[小刀]] ([[こがたな]], ''[[kogatana]]''; [[しょうとう]], ''[[shōtō]]''): a [[small]] [[knife]], [[short sword]]
-* [[大刀]] ([[だいとう]], ''[[daitō]]''): a [[long sword]]; a [[katana]]
-* [[木刀]] ([[ぼくとう]], ''[[bokutō]]''): a [[wooden]] [[sword]]
-* [[短刀]] ([[たんとう]], ''[[tantō]]''): short sword
-* [[刀工]] ([[とうこう]], ''[[tōkō]]''): [[swordsmith]]
-* [[薙刀]] ([[なぎなた]], ''[[naginata]]''): a [[halberd]], (like a [[yari]] or [[long]] [[spear]])
-* [[直刀]] ([[ちょくとう]], ''[[chokutō]]''): a straight sword
-* [[日本刀]] ([[にほんとう]], ''[[nihontō]]): [[katana]], Japanese sword, long sword with single-edge
-* {{l|ja|太刀}} ({{l|ja|たち}}, ''tachi''): a type of [[longsword|Longsword]]
+{{der-top|Compounds with irregular readings of {{Jpan|刀}}}}
+* {{ja-l|薙刀|なぎなた|naginata}}: a traditional Japanese [[halberd]]
+* {{ja-l|太刀|たち|tachi}}: a traditional Japanese [[longsword]]
+{{der-bottom}}
 
-===Pronunciation===
-* {{IPA|/katana/|lang=ja}}
+===Etymology 1===
+Compound of {{compound|lang=ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=blade|tr2=na}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-===Etymology===
-Compound of {{compound|lang=ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=blade|tr2=na}}.
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|o|か|たな}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{ja-accent-common|n|か|た|な}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ka̠ta̠na̠]}}
 
-===Noun===
+====Noun====
 {{ja-noun|k|hira=かたな|rom=katana}}
 
-# {{context|weaponry|lang=ja|sort=かたな}} a single bladed [[sword]]; a [[katana]]
+# {{context|lang=ja|sort=かたな|weaponry}} a single-[[blade]]d [[sword]]
+# {{context|lang=ja|sort=かたな|weaponry}} more specifically, a [[katana]]
+# a small single-sided [[blade]]
+
+=====Synonyms=====
+* {{sense|small blade}} {{ja-l|切れ物|きれもの|kiremono}}
+
+=====Related terms=====
+* {{sense|sword, but double-bladed}} {{ja-l|剣|つるぎ|tsurugi}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|刀市|かたないち|katana ichi}}: a [[sword]] [[market]]
+* {{ja-l|刀引|かたなびき|katanabiki}}: [[giving]] a [[sword]] worn on one's hip to another as a [[gift]] at a [[banquet]] or other social [[gathering]]
+{{der-mid}}
+* {{ja-l|小刀|こがたな|kogatana}}: a small [[knife]], a [[penknife]], a [[pocketknife]], a [[jackknife]]
+* {{ja-l|腰刀|こしがたな|koshigatana}}: a hip-sword, smaller than a katana and with no {{term|lang=ja|鍔|tr=tsuba||sword guard}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-l|刀折れ矢尽きる|かたなおれやつきる|katana ore ya tsukiru}}: “swords bent, out of arrows” → completely [[rout]]ed, a complete [[loss]] in [[battle]]
+* {{ja-l|刀に懸けて|かたなにかけて|katana ni kakete}}: “[depending, swearing] on one's sword” → a metaphor for [[firm]] [[resolve]] to see something through
+* {{ja-l|刀の錆び|かたなのさび|katana no sabi}}: “sword [[rust]]” → a metaphor for killing someone or being killed, from the way that [[blood]] can cause the [[steel]] of a sword to rust; a [[derogatory]] term for someone who isn't even worth [[soil]]ing a sword
+{{der-bottom}}
+
+===Etymology 2===
+From {{etyl|ltc|ja|sort=とう}} {{term|lang=ltc|刀|tr=taw}}.  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|刀|tr=dāo}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|と|う}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[to̞ː]}}
+
+====Noun====
+{{ja-noun|k|hira=とう|rom=tō|hhira=たう}}
+
+# a [[sword]], a [[katana]]
+# a [[scalpel]], such as that used by a [[surgeon]]
+# a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]
+
+=====Synonyms=====
+* {{sense|sword in general}} {{ja-l|刀剣|とうけん|tōken}}
+* {{sense|scalpel}} {{ja-l|メス||mesu}}
+* {{sense|Chinese money}} {{ja-l|刀銭}}, {{ja-l|刀泉|とうせん|tōsen}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|刀下|とうか|tōka}}: the [[underside]] or [[back]] of a [[blade]]
+* {{ja-l|刀架|とうか|tōka}}: a [[sword]] [[stand]]
+* {{ja-l|刀剣|とうけん|tōken}}: a [[sword]] in general, either single- or double-[[blade]]d
+* {{ja-l|刀工|とうこう|tōkō}}: a [[swordsmith]]
+* {{ja-l|刀貨|とうせん|tōsen}}: a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]
+{{der-mid}}
+* {{ja-l|小刀|しょうとう|shōtō}}: a [[small]] [[knife]], [[short sword]]
+* {{ja-l|大刀|だいとう|daitō}}: a [[long sword]], a [[katana]]
+* {{ja-l|短刀|たんとう|tantō}}: a short sword
+* {{ja-l|直刀|ちょくとう|chokutō}}: a straight sword
+* {{ja-l|日本刀|にほんとう|nihontō}}: a [[katana]], a Japanese sword, a long sword with a single-edge
+* {{ja-l|木刀|ぼくとう|bokutō}}: a [[wooden]] [[sword]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:ja:Swords|かたな]]
 [[Category:Japanese terms written with one Han script character]]
