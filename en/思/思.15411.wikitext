@@ -35,10 +35,13 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 ===Kanji===
 {{ja-kanji|grade=2|rs=心05}}
 
-# think
+# [[think]]
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[おもう]] (omou), [[おもい]] (omoi)}}
+* {{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=[[おもう]] (omou), [[おもい]] (omoi)}}
 
 ====Compounds====
 * [[思案]]
