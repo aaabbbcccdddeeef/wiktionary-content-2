@@ -51,8 +51,14 @@ no such file on Commons, leave commented out until one does-->
 ===Kanji===
 {{ja-kanji|grade=2|rs=匕03}}
 
+# [[north]]
+
 ====Readings====
-* {{ja-readings|on=[[ほく]] (hoku), [[はい]] (hai)|kun=[[きた]] (kita)<!--, [[にげる]] (nigeru)-->}}
+* {{ja-readings
+|goon=[[ほく]] (hoku)
+|kanon=[[ほく]] (hoku)
+|on=[[はい]] (hai)
+|kun=[[きた]] (kita), [[にげる]] (nigeru)}}
 
 ===Noun===
 {{ja-noun|k|hira=きた|rom=kita}}
