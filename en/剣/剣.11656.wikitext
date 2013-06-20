@@ -20,35 +20,34 @@ Japanese shinjitai {{Han simp|劍|f=僉|t=㑒}}; compare [[険]], [[検]], [[験
 
 ==Japanese==
 
-===Alternative forms===
-* {{l|ja|劍}} (''kyūjitai'')
-
 ===Kanji===
-{{ja-kanji|grade=c|rs=刀08}}
+{{ja-kanji|grade=c|rs=刀08|style=s|kyu=劍}}
 
 ====Readings====
-* {{ja-readings|on={{l|ja|けん}} (ken)|kun={{l|ja|つるぎ}} (tsurugi)}}
-
-====Usage notes====
-[[shinjitai|Shinjitai]]
+* {{ja-readings
+|goon={{l|ja|こん}} (kon) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon={{l|ja|けん}} (ken)
+|kun={{l|ja|つるぎ}} (tsurugi)}}
 
 ====Compounds====
-* {{l|ja|聖剣}} ({{l|ja|せいけん}}, ''seiken''): a [[holy]] or [[sanctified]] blade or sword
-* {{l|ja|剣士}} ({{l|ja|けんし}}, ''kenshi'')
-* {{l|ja|剣術}} ({{l|ja|けんじゅつ}}, ''[[kenjutsu]]'')
-* {{l|ja|剣道}} ({{l|ja|けんどう}}, ''kendō'')
-* {{l|ja|木剣}} ({{l|ja|ぼっけん}}, ''bokken'')
-* {{l|ja|刀身}} ({{l|ja|とうしん}}, ''tōshin'')
-* {{l|ja|剣豪}} ({{l|ja|けんごう}}, ''kengō''): master fencre
-* {{l|ja|剣客}} ({{l|ja|けんかく}}, ''kenkaku'')
+* {{l|ja|聖剣}} ({{l|ja|せいけん}}, seiken): a [[holy]] or [[sanctified]] blade or sword
+* {{l|ja|剣士}} ({{l|ja|けんし}}, kenshi)
+* {{l|ja|剣術}} ({{l|ja|けんじゅつ}}, [[kenjutsu]])
+* {{l|ja|剣道}} ({{l|ja|けんどう}}, kendō)
+* {{l|ja|木剣}} ({{l|ja|ぼっけん}}, bokken)
+* {{l|ja|刀身}} ({{l|ja|とうしん}}, tōshin)
+* {{l|ja|剣豪}} ({{l|ja|けんごう}}, kengō): master fencre
+* {{l|ja|剣客}} ({{l|ja|けんかく}}, kenkaku)
 
 ===Noun===
 {{ja-noun|k|hira=けん|rom=ken}}
 
 # [[sword]]
 
-====Alternative forms====
-* {{l|ja|つるぎ}}
+====Noun====
+{{ja-noun|k|hira=|rom=tsurugi}}
+
+# sword
 
 ====Synonyms====
 * {{l|ja|劍}}: [[sword]], [[dagger]], [[sabre]]
