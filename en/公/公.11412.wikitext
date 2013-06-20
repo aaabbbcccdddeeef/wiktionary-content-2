@@ -40,8 +40,8 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 ====Readings====
 * {{ja-readings
 |goon=[[く]] (ku)
-|kanon=[[こう]] (kō)
-|kun=[[おおやけ]] (ōyake), [[きみ]] (kimi)}}
+|kanon=[[こう]] (kō) < [[こう]] (kou)
+|kun=[[おおやけ]] (ōyake) < [[おほやけ]] (ohoyake), [[きみ]] (kimi)}}
 
 ====Compounds====
 {{top3}}
@@ -62,16 +62,16 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 {{bottom}}
 
 ===Noun===
-{{ja-noun|k|hira=おおやけ|rom=ōyake}}
+{{ja-noun|k|hira=おおやけ|rom=ōyake|hhira=おほやけ}}
 
 # [[official]], [[governmental]]
 
-{{ja-noun|k|hira=こう|rom=kō}}
+{{ja-noun|k|hira=こう|rom=kō|hhira=こう}}
 
 # [[prince]], [[duke]]
 
 ===Pronoun===
-{{ja-pos|k|pronoun|hira=きみ|rom=kimi}} 
+{{ja-pos|k|pronoun|hira=きみ|rom=kimi|hhira=きみ}} 
 
 # {{alternative form of|君|lang=ja}}
 
