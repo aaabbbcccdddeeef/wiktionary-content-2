@@ -31,7 +31,11 @@
 {{ja-kanji|grade=5|rs=刀05}}
 
 ====Readings====
-* {{ja-readings|on=[[はん]] (han), [[ばん]] (ban)|kun=[[わける]] (wakeru)}}
+* {{ja-readings
+|goon=[[はん]] (han)
+|kanon=[[はん]] (han)
+|kanyoon=[[ばん]] (ban)
+|kun=[[わける]] (wakeru)}}
 
 ===Noun===
 {{ja-noun|k|hira=はん|rom=han}}
@@ -41,9 +45,11 @@
 
 ===Suffix===
 {{ja-pos|k|suffix|hira=ばん|rom=ban|hidx=はん}}
+
 # [[size]] of paper or books
  
 {{ja-pos|k|suffix|hira=はん|rom=han|hidx=はん}} 
+
 # [[size]] of paper or books
 
 [[Category:Japanese terms written with one Han script character]]
