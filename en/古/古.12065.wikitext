@@ -35,22 +35,14 @@ from [[十]] ‘ten’ + [[口]] ‘mouths’.
 
 ==Japanese==
 
-===Etymology===
-
-inisipe > inisiɸe > inisiwe > inisie.
-Literally "that which has passed". From the verb {{term|往ぬ|in-|pass}} in adverbial form ''ini'', the past marker {{term|き|ki}} in attributive form ''si'', and {{term|方|pe|time, direction}}.
-
-===Noun===
-{{ja-noun|k|hira=いにしえ|hhira=いにしへ|rom=inishie}}
-
-# the [[past]]
-# [[ancient]] [[time]]s
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=口02}}
 
 ====Readings====
-* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[ふるい]] ([[古い]], furui), [[いにしえ]] (inishie)}}
+* {{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こ]] (ko)
+|kun=[[ふるい]] ([[古い]], furui), [[いにしえ]] (inishie)}}
 
 ====Compounds====
 * [[古意]]
@@ -68,6 +60,16 @@ Literally "that which has passed". From the verb {{term|往ぬ|in-|pass}} in adv
 * [[古文]]
 * [[古来]]
 * [[名古屋]] (なごや, nagoya)
+
+===Etymology===
+inisipe > inisiɸe > inisiwe > inisie.
+Literally "that which has passed". From the verb {{term|往ぬ|in-|pass}} in adverbial form ''ini'', the past marker {{term|き|ki}} in attributive form ''si'', and {{term|方|pe|time, direction}}.
+
+===Noun===
+{{ja-noun|k|hira=いにしえ|hhira=いにしへ|rom=inishie}}
+
+# the [[past]]
+# [[ancient]] [[time]]s
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 古]]
