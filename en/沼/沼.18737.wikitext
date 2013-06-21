@@ -19,15 +19,59 @@
 
 ----
 
-==Japanese==
-
 ===Kanji===
 {{ja-kanji|grade=c|rs=水05}}
 
-# {{defn|lang=ja|sort=水05}}
-
 ====Readings====
-* {{ja-readings|on=[[しょう]] (shō)|kun=[[ぬま]] (numa)}}
+{{ja-readings
+|goon=[[しょう]] (shō) < [[せう]] (seu)
+|kanon=[[しょう]] (shō) < [[せう]] (seu)
+|kun=[[ぬ]] (nu), [[ぬま]] (numa)
+}}
+
+===Etymology 1===
+From {{etyl|ojp|ja|sort=ぬ}}.  Root of the {{etyl|ojp|-}} verb {{term|lang=ja|ぬる|tr=nuru||to become loose; to become wet}} and modern {{etyl|ja|-|}} {{term|lang=ja|濡れる|tr=nureru||to become wet}}, adverb {{term|lang=ja|ぬるぬる|tr=nurunuru||loosely; lukewarmly; oozingly}}.
+
+May be cognate with {{etyl|ko|-}} {{term|lang=ko|늪|tr=neup||swamp, bog, marsh}}, {{etyl|mn|-}} {{term|lang=mn|нам|tr=nam||low-lying}}, {{term|lang=mn|намаг|tr=namag||swamp, bog, marsh}}, {{term|lang=mn|норох|tr=norokh||to become wet}}.
+
+Generally only used in compounds in modern {{etyl|ja|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[nɯᵝ]}}
+
+====Noun====
+{{ja-noun|k|hira=ぬ|rom=nu}}
+
+# a [[swamp]], a [[bog]], a [[marsh]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|小沼|おぬ|onu}}: a [[swamp]], particularly a [[small]] one
+* {{ja-l|隠沼|こもりぬ|komorinu}}: a [[hidden]] [[bog]]
+{{der-bottom}}
+
+=====See also=====
+* {{ja-l|沼間|ぬま|Numa}}: a [[surname]]
+
+===Etymology 2===
+Appears to be a compound of {{compound|lang=ja|sort=ぬま|沼|tr1=nu|t1=swamp|間|tr2=ma|t2=space, area}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|o|ぬ|ま}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[nɯᵝma̠]}}
+
+====Noun====
+{{ja-noun|k|hira=ぬま|rom=numa}}
+
+# a [[swamp]], a [[bog]], a [[marsh]]
+
+=====See also=====
+* {{ja-l|沼間|ぬま|Numa}}: a [[surname]]
+
+===References===
+<references/>
 
 ----
 
