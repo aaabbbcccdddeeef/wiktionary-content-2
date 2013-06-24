@@ -40,8 +40,26 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 
 ==Japanese==
 
-===Etymology 1===
+===Kanji===
+{{ja-kanji|grade=2|rs=宀07}}
 
+====Readings====
+* {{ja-readings
+|goon=[[け]] (ke), [[く]] (ku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|on=[[か]] (ka), [[こ]] (ko) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[いえ]] (ie), [[や]] (ya), [[うち]] (uchi)}}
+
+====Compounds====
+{{top2}}
+* [[家屋]]
+* [[家具]]
+* [[家族]]
+{{mid2}}
+* [[家庭]]
+* {{term|家禽||[[domestic]] [[fowl]]s, [[poultry]]|tr=[[かきん]], [[kakin]]|lang=ja|sc=Jpan}}
+{{bottom}}
+
+===Etymology 1===
 /ihe<small>1</small>/: [ipe] > [iɸe] > [iwe] > [ie]. Possibly related to [[廬|io]].
 
 ====Noun====
@@ -57,8 +75,7 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # (as suffix) an [[expert]], [[professional]], [[performer]]
 
 ===Etymology 2===
-
-Cognate with [[内|uchi]].
+Cognate with {{term|内|tr=uchi|lang=ja}}.
 
 ====Noun====
 {{ja-noun|k|hira=うち|rom=uchi}}
@@ -92,22 +109,6 @@ A contraction of [[家|uchi]] > chi. Often following the genitive case marker [[
 
 # house of something, place where some business is conducted
 # person who does that thing
-
-====Kanji====
-{{ja-kanji|grade=2|rs=宀07}}
-
-=====Readings=====
-* {{ja-readings|on=[[か]] ([[ka]]), [[け]] ([[ke]]), [[こ]] ([[ko]])|kun=[[いえ]] ([[ie]]), [[や]] ([[ya]]), [[うち]] ([[uchi]])}}
-
-=====Compounds=====
-{{top2}}
-* [[家屋]]
-* [[家具]]
-* [[家族]]
-{{mid2}}
-* [[家庭]]
-* {{term|家禽||[[domestic]] [[fowl]]s, [[poultry]]|tr=[[かきん]], [[kakin]]|lang=ja|sc=Jpan}}
-{{bottom}}
 
 [[Category:1000 Japanese basic words|いえ]]
 [[Category:Japanese terms written with one Han script character]]
