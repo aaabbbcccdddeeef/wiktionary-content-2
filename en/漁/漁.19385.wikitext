@@ -24,21 +24,26 @@
 ----
 
 ==Japanese==
-===Noun===
-{{ja-noun|k|hira=りょう|rom=ryō}}
-
-# {{context|business|lang=ja|skey=りょう}} [[fishing]]
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=水11}}
 
-# {{defn|lang=ja|sort=水11}}
+# to [[fish]]
 
 ====Readings====
-* {{ja-readings|on=[[りょう]] (ryō), [[ぎょ]] (gyo)|kun=[[すなどる]] (sunadoru), [[いさる]] (isaru), [[すなどり]] (sunadori)}}
+* {{ja-readings
+|goon=[[ご]] (go) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ぎょ]] (gyo)
+|kanyoon=[[りょう]] (ryō) < [[れふ]] (refu)
+|kun=[[すなどる]] (sunadoru), [[いさる]] (isaru), [[すなどり]] (sunadori), [[あさる]] (asaru)}}
 
 ====Compounds====
-* {{l|ja|漁師}} ({{l|ja|りょうし}}, ''ryōshi''): a [[fisherman]]
+* {{l|ja|漁師}} ({{l|ja|りょうし}}, ryōshi): [[fisherman]]
+
+===Noun===
+{{ja-noun|k|hira=りょう|rom=ryō}}
+
+# {{context|business|lang=ja|skey=りょう}} [[fishing]]
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 漁]]
