@@ -33,48 +33,16 @@ There are multiple possibilities:
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=とき|rom=toki}}
-
-# [[time]]
-# a [[case]]
-# [[time]] of something
-# a [[season]]
-# a [[tense]]
-
-===Counter===
-{{ja-pos|k|counter|hira=じ|rom=ji|hidx=し'}}
-
-# [[hour]], [[o'clock]]
-#: [[時計]]を[[見る]]と、[[ちょうど]][[十二時|十二'''時''']]三十四[[分]]五十六[[秒]]だった。
-#::  [[とけい]]を[[みる]]と、ちょうど[[じゅうにじ|じゅうに'''じ''']]さんじゅうよん[[ぷん]]ごじゅうろく[[びょう]]だった。
-#:: ''[[tokei|Tokei]] o [[miru]] to, chōdo [[jūni-ji|jūni-'''ji''']] sanjūyon-[[pun#Japanese|pun]] gojūroku-[[byō]] datta.''
-#::: When I looked at the clock, it was just 56 [[seconds]] past [[twelve o'clock|12]]:34.
-
-====Derived terms====
-* [[一時]] ([[いちじ]], [[ichi-ji]])
-* [[二時]] ([[にじ]], [[ni-ji]])
-* [[三時]] ([[さんじ]], [[san-ji]])
-* [[四時]] ([[よじ]], [[yo-ji]])
-* [[五時]] ([[ごじ]], [[go-ji]])
-* [[六時]] ([[ろくじ]], [[roku-ji]])
-* [[七時]] ([[しちじ]], [[shichi-ji]])
-* [[八時]] ([[はちじ]], [[hachi-ji]])
-* [[九時]] ([[くじ]], [[ku-ji]])
-* [[十時]] ([[じゅうじ]], [[jū-ji]])
-* [[十一時]] ([[じゅういちじ]], [[jūichi-ji]])
-* [[十二時]] ([[じゅうにじ]], [[jūni-ji]])
-
-====Related terms====
-* [[時間]] ([[じかん]], [[jikan]]): [[hours]] (duration)
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=日06}}
 
 # {{defn|lang=ja|sort=日06}}
 
 ====Readings====
-* {{ja-readings|on=[[じ]] (''ji''), [[し]] (''shi'')|kun=[[とき]] (''toki''), [[これ]] (''kore'')}}
+* {{ja-readings
+|goon=[[じ]] (ji)
+|kanon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[とき]] (toki), [[これ]] (kore)}}
 
 ====Compounds====
 {{top2}}
@@ -96,6 +64,41 @@ There are multiple possibilities:
 * [[時々]] ([[ときどき]], [[tokidoki]])
 * [[時計]] ([[とけい]], [[tokei]])
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=とき|rom=toki}}
+
+# [[time]]
+# a [[case]]
+# [[time]] of something
+# a [[season]]
+# a [[tense]]
+
+===Counter===
+{{ja-pos|k|counter|hira=じ|rom=ji|hidx=し'}}
+
+# [[hour]], [[o'clock|o’clock]]
+#: [[時計]]を[[見る]]と、[[ちょうど]][[十二時|十二'''時''']]三十四[[分]]五十六[[秒]]だった。
+#::  [[とけい]]を[[みる]]と、ちょうど[[じゅうにじ|じゅうに'''じ''']]さんじゅうよん[[ぷん]]ごじゅうろく[[びょう]]だった。
+#:: ''[[tokei|Tokei]] o [[miru]] to, chōdo [[jūni-ji|jūni-'''ji''']] sanjūyon-[[pun#Japanese|pun]] gojūroku-[[byō]] datta.''
+#::: When I looked at the clock, it was just 56 [[seconds]] past [[twelve o'clock|12]]:34.
+
+====Derived terms====
+* [[一時]] ([[いちじ]], [[ichi-ji]])
+* [[二時]] ([[にじ]], [[ni-ji]])
+* [[三時]] ([[さんじ]], [[san-ji]])
+* [[四時]] ([[よじ]], [[yo-ji]])
+* [[五時]] ([[ごじ]], [[go-ji]])
+* [[六時]] ([[ろくじ]], [[roku-ji]])
+* [[七時]] ([[しちじ]], [[shichi-ji]])
+* [[八時]] ([[はちじ]], [[hachi-ji]])
+* [[九時]] ([[くじ]], [[ku-ji]])
+* [[十時]] ([[じゅうじ]], [[jū-ji]])
+* [[十一時]] ([[じゅういちじ]], [[jūichi-ji]])
+* [[十二時]] ([[じゅうにじ]], [[jūni-ji]])
+
+====Related terms====
+* [[時間]] ([[じかん]], [[jikan]]): [[hours]] (duration)
 
 [[Category:1000 Japanese basic words|とき]]
 [[Category:ja:Time|しかん']]
