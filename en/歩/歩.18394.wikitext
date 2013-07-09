@@ -14,17 +14,21 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=止04}}
+{{ja-kanji|grade=2|rs=止04|style=s|kyu=步}}
 
 # [[walk]]
 # a [[step]]
 
 ====Readings====
-* {{ja-readings|on=[[ほ]] (ho), [[ぶ]] (bu), [[ふ]] (fu)|kun=[[あるく]] ([[歩く]], aruku), [[あゆむ]] (ayumu), [[あゆみ]] (ayumi)}}
+* {{ja-readings
+|goon=[[ぶ]] (bu)
+|kanon=[[ほ]] (ho)
+|kanyoon=[[ふ]] (fu)
+|kun=[[あるく]] ([[歩く]], aruku), [[あゆむ]] ([[歩む]], ayumu), [[あゆみ]] ([[歩み]], ayumi)}}
 
 ====Derived terms====
-* [[歩く]] ([[あるく]], [[aruku]]; "to walk")
-* [[歩いて]] ([[あるいて]], [[aruite]]; "on foot")
+* [[歩く]] ([[あるく]], [[aruku]]; “to walk”)
+* [[歩いて]] ([[あるいて]], [[aruite]]; “on foot”)
 
 ===Counter===
 {{ja-pos|k|counter|hira=ほ|rom=-ho}}
@@ -38,7 +42,7 @@
 
 {{ja-noun|k|hira=ふ|rom=fu}}
 
-# {{context|shogi|lang=ja|sort=ふ}} [[pawn]]
+# {{context|shogi|lang=ja|sort=ふ}} [[pawn]] (short for {{term|歩兵|tr=fuhyō|lang=ja}})
 
 ===Proper noun===
 {{ja-pos|k|proper|hira=あゆみ|rom=Ayumi}}
