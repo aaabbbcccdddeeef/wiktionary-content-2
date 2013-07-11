@@ -166,14 +166,14 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 ===Letter===
 {{head|nl|letter|lower case||upper case|M}}
 
-# The thirteenth letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|13}}
 
 ===See also===
-* Previous letter: [[l#Dutch|l]]
-* Next letter: [[n#Dutch|n]]
+* Previous letter: {{l/nl|l}}
+* Next letter: {{l/nl|n}}
 
 ===See also===
-* [['m#Dutch|'m]]
+* {{l/nl|'m}}
 
 ----
 
@@ -335,7 +335,8 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 
 ===Letter===
 {{head|no|letter}}
-# {{non-gloss definition|The 13th letter of the Norwegian alphabet.}}
+
+# {{Latn-def|no|letter|13}}
 
 ----
 
@@ -362,9 +363,7 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 ===Letter===
 {{head|ro|letter|lower case||upper case|M}}
 
-# The sixteenth letter of the [[Romanian alphabet]] representing the phoneme /m/. Preceded by [[l]] and followed by [[n]].
-
-[[Category:Romanian letters]]
+# {{Latn-def|ro|letter|16}} Representing the phoneme /m/. Preceded by [[l]] and followed by [[n]].
 
 ----
 
@@ -423,7 +422,7 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 {{head|sv|abbreviation}}
 
 # [[w/]], [[with]]; {{abbreviation of|med|lang=sv}}
-# [[w:Moderate Party|Moderate Party]]; {{abbreviation of|Moderaterna|lang=sv}}
+# {{w|Moderate Party}}; {{abbreviation of|Moderaterna|lang=sv}}
 
 ====See also====
 * [[m.a.o.]]
