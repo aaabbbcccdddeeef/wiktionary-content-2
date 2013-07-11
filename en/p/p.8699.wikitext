@@ -31,7 +31,7 @@ Image:Fraktur letter P.png|Uppercase and lowercase '''P''' in [[Fraktur]]
 {{wikipedia|Voiceless bilabial plosive}}
 {{head|mul|symbol}}
 
-# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiceless]] [[bilabial]] [[plosive]].
+# {{context|{{w|IPA}}|lang=mul}} [[voiceless]] [[bilabial]] [[plosive]]
 
 [[Category:IPA symbols|P]]
 
@@ -116,11 +116,11 @@ Image:Fraktur letter P.png|Uppercase and lowercase '''P''' in [[Fraktur]]
 ===Letter===
 {{head|nl|letter|lower case||upper case|P}}
 
-# The sixteenth letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|16}}
 
 ===See also===
-* Previous letter: [[o#Dutch|o]]
-* Next letter: [[q#Dutch|q]]
+* Previous letter: {{l/nl|o}}
+* Next letter: {{l/nl|q}}
 
 ----
 
@@ -209,7 +209,7 @@ Faulkner, ''A Concise Dictionary of Middle Egyptian''
 ===Noun===
 {{head|it|letter|g=m|g2=f|invariable}}
 
-# See under [[P#Italian|P]]
+# See under {{l/it|P}}
 
 ----
 
@@ -224,7 +224,7 @@ Faulkner, ''A Concise Dictionary of Middle Egyptian''
 ===Letter===
 {{head|la|letter}}
 
-# A letter of the Latin alphabet.
+# {{Latn-def|la|letter}}
 
 ----
 
@@ -270,7 +270,8 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 ===Letter===
 {{head|no|letter}}
-# {{non-gloss definition|The 16th letter of the Norwegian alphabet.}}
+
+# {{Latn-def|no|letter|16}}
 
 ----
 
@@ -292,11 +293,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|/pe/|lang=ro}}
 
 ===Letter===
-'''p''' (''lowercase'', ''capital'' '''[[P]]''')
+{{head|ro|letter|lowercase||capital|P}}
 
-# The nineteenth letter of the [[Romanian alphabet]] representing the phoneme /p/. Preceded by [[o]] and followed by [[r]].
-
-[[Category:Romanian letters]]
+# {{Latn-def|ro|letter|19}} Representing the phoneme /p/. Preceded by [[o]] and followed by [[r]].
 
 ----
 
@@ -320,7 +319,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head|es|letter|lower case||upper case|P}}
 
-# The 17th letter of the Spanish alphabet.
+# {{Latn-def|es|letter|17}}
 
 ----
 
