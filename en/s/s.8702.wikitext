@@ -17,7 +17,7 @@
 {{wikipedia|Voiceless alveolar sibilant|Voiceless alveolar fricative}}
 {{head|mul|symbol}}
 
-# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiceless]] [[alveolar]] [[fricative]]
+# {{context|{{w|IPA}}|lang=mul}} [[voiceless]] [[alveolar]] [[fricative]]
 
 ===See also===
 {{Latn-script}}
@@ -120,11 +120,11 @@ This preposition is followed by the [[instrumental case]].
 ===Letter===
 {{head|nl|letter|lower case||upper case|S}}
 
-# The nineteenth letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|19}}
 
 ===See also===
-* Previous letter: [[r#Dutch|r]]
-* Next letter: [[t#Dutch|t]]
+* Previous letter: {{l/nl|r}}
+* Next letter: {{l/nl|t}}
 
 ----
 
@@ -161,7 +161,7 @@ This preposition is followed by the [[instrumental case]].
 ===Letter===
 '''s'''
 
-# The thirty-first letter of the Hungarian alphabet, pronounced ''sh'' as in ''she''.
+# {{Latn-def|hu|letter|31}} Pronounced ''sh'' as in ''she''.
 
 ----
 
@@ -170,7 +170,7 @@ This preposition is followed by the [[instrumental case]].
 ===Noun===
 {{head|it|letter|g=m|g2=f|invariable}}
 
-# See under [[S#Italian|S]]
+# See under {{l/it|S}}
 
 ----
 
@@ -215,10 +215,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{sense|phoneme}} {{IPA|/s/|/ʃ/|/ʂ/*|lang=no}}
 
 ===Letter===
-* ''The 19th letter of the Norwegian alphabet''.
 {{head|no|letter}}
 
-# {{defn|no}}
+# {{Latn-def|no|letter|19}}
 
 ====Usage notes====
 * {{IPA|/ʃ/}} in Norwegian is created by merging '''skj''', '''sk''' and ''sj''.
@@ -245,11 +244,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|/se/|/es/|lang=ro}}
 
 ===Letter===
-'''s''' (''lowercase'', ''capital'' '''[[S]]''')
+{{head|ro|letter|lowercase||capital|S}}
 
-# The twenty-first letter of the [[Romanian alphabet]] representing the phoneme /s/. Preceded by [[r]] and followed by [[ş]].
-
-[[Category:Romanian letters]]
+# {{Latn-def|ro|letter|21}} Representing the phoneme /s/. Preceded by [[r]] and followed by [[ş]].
 
 ----
 
@@ -333,7 +330,7 @@ From {{etyl|sla-pro|sh}} {{recons|sъ(n)|lang=sla-pro}}, from {{etyl|ine-pro|sh}
 # [[with]]
 
 ====Synonyms====
-* [[so#Slovak|so]]
+* {{l|sk|so}}
 
 ----
 
@@ -355,7 +352,7 @@ From {{etyl|sla-pro|sh}} {{recons|sъ(n)|lang=sla-pro}}, from {{etyl|ine-pro|sh}
 ===Letter===
 {{head|es|letter|lower case||upper case|S}}
 
-# The 20th letter of the Spanish alphabet.
+# {{Latn-def|es|letter|20}}
 
 ----
 
