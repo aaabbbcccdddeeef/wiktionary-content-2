@@ -105,7 +105,7 @@ Image:Fraktur letter G.png|Uppercase and lowercase '''G''' in [[Fraktur]]
 ===Noun===
 {{head|nl|letter|lower case||upper case|G}}
 
-# The seventh letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|7}}
 # {{context|physics|lang=nl}} A unit of gravitational acceleration.
 
 ====Derived terms====
@@ -113,8 +113,8 @@ Image:Fraktur letter G.png|Uppercase and lowercase '''G''' in [[Fraktur]]
 * [[zachte g]]
 
 ====See also====
-* Previous letter: [[f#Dutch|f]]
-* Next letter: [[h#Dutch|h]]
+* Previous letter: {{l/nl|f}}
+* Next letter: {{l/nl|h}}
 
 ===Abbreviation===
 '''g'''
@@ -148,7 +148,7 @@ Image:Fraktur letter G.png|Uppercase and lowercase '''G''' in [[Fraktur]]
 ===Abbreviation===
 '''g'''
 
-# {{context|physics|lang=fr}} [[#English|g]]
+# {{context|physics|lang=fr}} {{l/en|g}}
 # {{context|texting|_|slang|lang=fr}} ='''[[j'ai]]'''
 
 [[Category:French abbreviations]]
@@ -164,7 +164,7 @@ Image:Fraktur letter G.png|Uppercase and lowercase '''G''' in [[Fraktur]]
 ===Letter===
 {{head|ia|letter|lower case||upper case|G}}
 
-# The seventh letter of the [[Interlingua alphabet]].
+# {{Latn-def|ia|letter|7}}
 
 ===See also===
 * Previous letter: [[f]]
@@ -177,7 +177,7 @@ Image:Fraktur letter G.png|Uppercase and lowercase '''G''' in [[Fraktur]]
 ===Noun===
 {{head|it|letter|g=m|g2=f|invariable}}
 
-# See under [[G#Italian|G]]
+# See under {{l/it|G}}
 
 ----
 
@@ -224,7 +224,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head|no|letter}}
 
-# ''The 7th letter of the Norwegian alphabet''.
+# {{Latn-def|no|letter|7}}
 
 ====Usage notes====
 * When g is written before j, they merge together and create the sound of y in '''you'''.
@@ -256,14 +256,12 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|/ɡe/|/dʒ/|lang=ro}}
 
 ===Letter===
-'''g''' (''lowercase'', ''capital'' '''[[G]]''')
+{{head|ro|letter|lowercase||capital|G}}
 
-# The ninth letter of the [[Romanian alphabet]] representing the phonemes /g/ and /dʒ/. Preceded by [[f]] and followed by [[h]].
+# {{Latn-def|ro|letter|9}} Representing the phonemes /g/ and /dʒ/. Preceded by [[f]] and followed by [[h]].
 
 ====Usage notes====
 See [[G]] for pronunciation notes
-
-[[Category:Romanian letters]]
 
 ----
 
@@ -287,7 +285,7 @@ See [[G]] for pronunciation notes
 ===Letter===
 {{head|es|letter|lower case||upper case|G}}
 
-# The seventh letter of the Spanish alphabet.
+# {{Latn-def|es|letter|7}}
 
 ----
 
