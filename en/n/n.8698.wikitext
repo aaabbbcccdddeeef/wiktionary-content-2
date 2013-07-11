@@ -132,14 +132,14 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ===Letter===
 {{head|nl|letter|lower case||upper case|N}}
 
-# The fourteenth letter of the [[Dutch alphabet]].
+# {{Latn-def|nl|letter|14}}
 
 ===See also===
-* Previous letter: [[m#Dutch|m]]
-* Next letter: [[o#Dutch|o]]
+* Previous letter: {{l/nl|m}}
+* Next letter: {{l/nl|o}}
 
 ===See also===
-* [['n#Dutch|'n]]
+* {{l/nl|'n}}
 
 ----
 
@@ -269,7 +269,7 @@ Faulkner, ''A Concise Dictionary of Middle Egyptian''
 ==German==
 
 ===Alternative forms===
-* [['n#German|'n]]
+* {{l/de|'n}}
 
 ===Pronunciation===
 * {{IPA|/n/|lang=de}}
@@ -277,7 +277,7 @@ Faulkner, ''A Concise Dictionary of Middle Egyptian''
 ===Article===
 {{head|de|article}}
 
-# {{context|colloquial|lang=de}} shorthand of ''[[ein#German|ein]]'' "[[a]]"
+# {{context|colloquial|lang=de}} shorthand of ''{{l/de|ein}}'' "[[a]]"
 
 ----
 
@@ -286,7 +286,7 @@ Faulkner, ''A Concise Dictionary of Middle Egyptian''
 ===Noun===
 {{head|it|letter|g=m|g2=f|invariable}}
 
-# See under [[N#Italian|N]]
+# See under {{l/it|N}}
 
 ----
 
@@ -339,7 +339,8 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 ===Letter===
 {{head|no|letter}}
-# {{non-gloss definition|The 14th letter of the Norwegian alphabet.}}
+
+# {{Latn-def|no|letter|14}}
 
 ====Usage notes====
 * {{IPA|/ɳ/}} Retroflex, merge of '''rn'''.
@@ -368,11 +369,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|/ne/|/en/|lang=ro}}
 
 ===Letter===
-'''n''' (''lowercase'', ''capital'' '''[[N]]''')
+{{head|ro|letter|lowercase||capital|N}}
 
-# The seventeenth letter of the [[Romanian alphabet]] representing the phoneme /n/. Preceded by [[m]] and followed by [[o]].
-
-[[Category:Romanian letters]]
+# {{Latn-def|ro|letter|17}} Representing the phoneme /n/. Preceded by [[m]] and followed by [[o]].
 
 ----
 
@@ -393,7 +392,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head|es|letter|lower case||upper case|N}}
 
-# The 14th letter of the Spanish alphabet.
+# {{Latn-def|es|letter|14}}
 
 ----
 
