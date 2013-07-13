@@ -53,20 +53,17 @@ Looks similar to: [[午]] (noon)
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=うし|rom=ushi}}
-
-# [[cow]], [[bull]], [[cattle]]
-# [[ox]]
-
-====Alternative forms====
-* [[ウシ]] (alternative; mandatory in science contexts, in which 牛 is never used)
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=牛00}}
 
+# [[cow]], [[ox]], [[cattle]]
+
 ====Readings====
-* {{ja-readings|on=[[ぎゅう]] (gyū)|kun=[[うし]] (ushi)}}
+* {{ja-readings
+|goon=[[ぐ]] (gu)
+|kanon=[[ぎゅう]] (gyū) < [[ぎう]] (giu)
+|kanyoon=[[ご]] (go)
+|kun=[[うし]] (ushi)}}
 
 ====Compounds====
 {{top2}}
@@ -86,6 +83,15 @@ Looks similar to: [[午]] (noon)
 * {{ja-l|牛馬|うしうま|ushi uma}}
 * {{ja-l|牛鬼|うしおに|ushioni}}
 {{bottom}}
+
+===Noun===
+{{ja-noun|k|hira=うし|kata=ウシ|rom=ushi}}
+
+# [[cow]], [[bull]], [[cattle]]
+# [[ox]]
+
+====Usage notes====
+Like other species names, usually written in katakana in scientific contexts.
 
 [[Category:1000 Japanese basic words|うし]]
 [[Category:ja:Cattle|うし]]
