@@ -51,7 +51,12 @@ Source: [http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymolog
 # {{defn|lang=ja|sort=戈03}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei), [[じょう]] (jō)|kun=[[なる]] (naru), [[たいらげる]] (tairageru), [[なす]] (nasu)}}
+* {{ja-readings
+|on=[[せい]] (sei), [[じょう]] (jō)
+|kun=[[なる]] (naru), [[たいらげる]] (tairageru), [[なす]] (nasu)
+|nanori=[[しげ]] (shige)
+}}
+
 ====Compounds====
 * [[成立]] ([[せいりつ]], ''[[seiritsu]]'')
 * [[成程]] ([[なるほど]], ''[[naruhodo]]'')
