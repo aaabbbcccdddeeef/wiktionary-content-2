@@ -25,62 +25,146 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=歹02}}
 
-===Noun===
+# [[death]]
+# to [[die]]
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=[[しぬ|し.ぬ]] ({{ja-l|死ぬ}}, shi.nu), [[ころす|ころ.す]] ({{ja-l|死す}}, koro.su) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}}}
+
+===Etymology 1===
+Appears to be a [[conflation]] of {{etyl|ltc|ja|sort=し}} {{term|lang=ltc|死|tr=sijX}} (compare modern {{etyl|cmn|-}} {{term|lang=cmn|死|tr=sǐ}}) with an {{etyl|ojp|ja|sort=し}} root that happened to have a similar pronunciation to the {{etyl|ltc|ja|sort=し}} and was probably cognate with {{term|lang=ja|去る|tr=saru||to go, to go away}}.
+
+In kanji compounds, this would be considered as {{term|lang=ja|音読み|sc=Latn|on'yomi}}; on its own, this could be considered as either {{term|lang=ja|音読み|sc=Latn|on'yomi}} or {{term|lang=ja|訓読み|sc=Latn|kun'yomi}}.
+
+====Pronunciation====
+* {{ja-accent-common|o||し}}<ref name="DJR">{{R:Daijirin}}</ref><ref name="NHK">{{R:NHK Hatsuon}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+* {{IPA|lang=ja|[ɕi]}}
+
+====Noun====
 {{ja-noun|k|hira=し|rom=shi}}
 
 # [[death]]
 
-====See also====
-* {{l|ja|死ぬ}}
+=====Derived terms=====
+{{der-top}}
+{{l|ja|sc=Latn|訓読み|Kun'yomi}}:
+* {{ja-l|死ぬ|しぬ|shinu}}: to [[die]]
 
-====Compounds====
-{{top4}}
-* [[死骸]]
-* [[死角]]
-* [[死活]]
-* [[死語]]: a [[dead language]]
-* [[死罪]]: [[capital crime]] & [[capital punishment|punishment]]
-* [[死屍]]: a dead body, corpse
-* [[死守]]
-* [[不死]]
-* [[不老不死]]
-{{mid4}}
-* [[死所]]
-* [[死生]]
-* [[死相]]
-* [[死蔵]]
-* [[死地]]
-* [[死闘]]
-* [[死人]] ([[しにん]], ''[[shinin]]''): a [[dead]] [[person]]; a [[corpse]]
-* [[死者]] ([[ししゃ]], ''[[shisha]]''): the dead
-* [[死体]] ([[したい]], ''[[shitai]]''): a [[cadaver]]
-{{mid4}}
-* [[死物]]
-* [[死文]]
-* [[死別]]
-* [[死没]]
-* [[死命]]
-* [[死霊]]
-{{mid4}}
-* [[死力]]
-* [[死去]]
-* [[死刑]]
-* [[死傷]]
-* [[死亡]]
-* [[死滅]]
-* [[死神]] (''[[shinigami]]'')
-* [[死の神]]
-{{bottom}}
+{{l|ja|sc=Latn|音読み|On'yomi}}:
+* {{ja-l|死因|しいん|shiin}}: [[cause]] of [[death]]
+* {{ja-l|死王|しおう|shiō}}: a dead [[king]]
+* {{ja-l|死王|しおう|Shiō}}: the [[Buddhist]] [[king]] of the [[dead]]
+* {{ja-l|死火|しか|shika}}: a dead [[flame]], a [[fire]] that has [[gone out]]; {{qualifier|Buddhism}} the [[flame]] of [[death]]
+* {{ja-l|死火山|しかざん|shikazan}}: an [[extinct]] [[volcano]]
+* {{ja-l|死花|しか|shika}}: [[paper]] [[flower]]s used for a [[funeral]]
+* {{ja-l|死花花|しかばな|shikabana}}: a [[decoration]] used at [[funeral]]s consisting of white [[paper]] [[fringe]]s on vertical [[stake]]s
+* {{ja-l|死貨|しか|shika}}: a [[currency]] that is no longer [[circulate]]d; any [[asset]] that is [[hoard]]ed and not [[circulate]]d
+* {{ja-l|死海|しかい|Shikai}}: the [[Dead Sea]]
+* {{ja-l|死灰|しかい|shikai}}: [[cold]], [[dead]] [[ash]]es; the [[ash]]es remaining after [[cremation]]
+* {{ja-l|死界|しかい|shikai}}: the [[underworld]], the [[world]] of the [[dead]]; a [[blind spot]], somewhere [[out of view]]
+* {{ja-l|死骸|しがい|shigai}}: a [[corpse]], a [[cadaver]]; a [[carcass]]
+* {{ja-l|死角|しかく|shikaku}}: a [[blind spot]], somewhere [[out of view]]; [[dead]] [[ground]] where launched [[projectile]]s do not fall
+* {{ja-l|死学|しがく|shigaku}}: a [[field]] of [[study]] that has no [[practical]] [[use]]
+* {{ja-l|死活|しかつ|shikatsu}}: [[life and death]]
+* {{ja-l|死勘定|しかんじょう|shi kanjō}}: a [[dead]] [[account]], a [[trading]] account that has no [[activity]]
+* {{ja-l|死期}} ({{ja-l|しき}}, {{ja-l|||shiki}}; {{ja-l|しご}}, {{ja-l|||shigo}}): the [[time]] of [[death]], the [[moment]] of one's death
+* {{ja-l|死球|しきゅう|shikyū}}: in [[baseball]], a [[pitch]] that hits the [[batter]], resulting in a free [[walk]]
+* {{ja-l|死去|しきょ|shikyo}}: one's [[death]], one's [[passing]]
+* {{ja-l|死境|しきょう|shikyō}}: one's [[place]] of [[death]]; a [[deadly]] place
+* {{ja-l|死菌|しきん|shikin}}: a [[dead]] [[bacterium]] or [[inactive]] [[virus]] used as the [[basis]] for a [[vaccine]]
+* {{ja-l|死句|しく|shiku}}: a [[plain]] [[phrase]] or [[line]] in a [[poem]], containing no [[imply|implied]] [[meaning]]s; {{qualifier|Buddhism}} an [[ascetic]]'s [[unsaid]] [[word]]s or [[phrase]]s, due to [[mental]] [[mistake]]s
+* {{ja-l|死苦|しく|shiku}}: {{qualifier|Buddhism}} the [[suffering]]s of [[death]]
+* {{ja-l|死刑|しけい|shikei}}: [[capital punishment]], the [[death penalty]], [[execution]]
+* {{ja-l|死結|しけつ|shiketsu}}: a kind of [[fragrant]] [[wood]] used in [[incense]] that is only fragrant years after [[harvest]]ing
+* {{ja-l|死後|しご|shigo}}: the [[time]] [[after]] one's [[death]]
+* {{ja-l|死語|しご|shigo}}: a [[dead language]]
+* {{ja-l|死罪|しざい|shizai}}: a [[capital crime]], a [[capital punishment]]
+* {{ja-l|死屍|しし|shishi}}: a [[dead]] [[body]], a [[corpse]]
+* {{ja-l|死守||}}:
+* {{ja-l|不死||}}:
+* {{ja-l|不老不死||}}:
+* {{ja-l|死所||}}:
+* {{ja-l|死生||}}:
+* {{ja-l|死相||}}:
+* {{ja-l|死蔵||}}:
+* {{ja-l|死地||}}:
+* {{ja-l|死闘||}}:
+* {{ja-l|死人|しにん|shinin}}: a [[dead]] [[person]]; a [[corpse]]
+* {{ja-l|死者|ししゃ|shisha}}: the [[dead]]
+* {{ja-l|死体|したい|shitai}}: a [[cadaver]]
+* {{ja-l|死物||}}:
+* {{ja-l|死文||}}:
+* {{ja-l|死別||}}:
+* {{ja-l|死没||}}:
+* {{ja-l|死命||}}:
+* {{ja-l|死霊||}}:
+* {{ja-l|死力||}}:
+* {{ja-l|死去||}}:
+* {{ja-l|死刑||}}:
+* {{ja-l|死傷||}}:
+* {{ja-l|死亡||}}:
+* {{ja-l|死滅||}}:
+* {{ja-l|死の神||}}:
+{{der-bottom}}
 
-====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[しぬ]] (shi-nu), [[みまかる]] (mimaka-ru) (non-Jōyō reading)}}
+====Verb====
+{{ja-verb-suru|k|hira=し|rom=shi}}
 
-====References====
-* {{S-JIS|8E80}}
-* {{JIS|3B60}}
+# to [[die]]
+#: Considered somewhat more [[archaic]] or [[formal]] than {{ja-l|死ぬ||shinu}}.
 
-====Synonyms====
-* {{sense|death}} [[亡]]
+=====Conjugation=====
+{{ja-suru|死|し}}
+
+===Etymology 2===
+The {{term|lang=ja|連用形|tr=ren'yōkei||stem form}} of verb {{term|lang=ja|死ぬ|tr=shinu||to die}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|し|に}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ɕini]}}
+
+====Noun====
+{{ja-noun|k|hira=しに|rom=shini}}
+
+# [[death]], [[dying]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|死後|しにあと|shiniato}}: the [[time]] [[after]] one's [[death]], particularly referring to the time after the death of one's [[spouse]]
+* {{ja-l|死一倍|しにいちば|shini ichibai}}: a kind of [[loan]] whereby the [[borrower]] must repay [[double]] the loan amount upon the [[death]] of the borrower's [[parent]]s and subsequent [[inheritance]] of parental [[asset]]s
+* {{ja-l|死軍|しにいくさ|shini ikusa}}: a [[fight to the death]]
+* {{ja-l|死絵|しにえ|shinie}}: a [[print]] or [[poster]] of a famous [[actor]] created on the occasion of that actor's [[death]], noting the actor's [[posthumous]] [[name]], place of [[burial]], and [[time]] of death
+* {{ja-l|死顔|しにがお|shinigao}}: the [[face]] or [[facial]] [[expression]] of a [[dead]] [[person]]
+* {{ja-l|死覚悟|しにかくご|shinikakugo}}: being [[prepared]] to [[die]], [[readiness]] to die
+* {{ja-l|死学問|しにがくもん|shinigakumon}}: a [[field]] of [[study]] that has no [[practical]] [[use]]
+* {{ja-l|死掛|しにかけ|shinikake}}: [[dying]], the [[act]] of dying
+* {{ja-l|死金|しにがね|shinigane}}: [[money]] [[save]]d in reserve to cover the [[cost]]s of one's own death; [[money]] that is [[hoard]]ed but not [[use]]d; [[money]] [[spent]] to no [[effect]], [[waste]]d money
+* {{ja-l|死神|しにがみ|shinigami}}: the [[god]] of [[death]], [[Death]]
+* {{ja-l|死極|しにぎわめ|shinigiwame}}: [[determination]] or [[resolution]] to [[die]]
+* {{ja-l|死狂|しにぐるい|shinigurui}}: [[crazy]] enough to [[die]]; [[crazy]] because one is [[unready]] to [[die]] and [[fear]]s [[death]]
+* {{ja-l|死気|しにげ|shinige}}: a [[sense]] of [[death]], [[deathliness]]
+* {{ja-l|死業|しにごう|shinigō}}: the [[karma]] of one's [[previous]] [[life]] that causes one's death in this life; a [[death]] attributed to [[karma]]
+* {{ja-l|死外|しにはずれ|shinihazure}}: the act of just barely avoiding death
+* {{ja-l|死花|しにばな|shinibana}}: [[posthumous]] [[fame]] or [[honor]]; an [[exceptional]] and [[memorable]] way of [[dying]]
+{{der-bottom}}
+
+====Prefix====
+{{ja-pos|k|prefix|hira=しに|rom=shini}}
+
+# [[bloody]], [[stupid]], [[goddamn]]
+#: Used as a [[negative]] or [[pejorative]] [[intensifier]].
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|死戯|しにたわけ|shinitawake}}: [[bloody]] [[foolishness]], [[goddamn]] [[mess around|messing around]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:ja:Death|し]]
 [[Category:Japanese terms written with one Han script character]]
