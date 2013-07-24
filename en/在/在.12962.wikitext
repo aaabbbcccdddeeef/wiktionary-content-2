@@ -31,26 +31,30 @@
 {{ja-kanji|grade=5|rs=土03}}
 
 ====Readings====
-* {{ja-readings|on=[[ざい]] (zai)|kun=[[ある|あ-る]] (aru), [[ます|-ま-す]] (-masu) (''rare'')}}
+{{ja-readings
+|goon=[[ざい]] (zai)
+|kanon=[[さい]] (sai) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[ある|あ.る]] ({{ja-l|在る}}, a.ru), [[あり]] (ari) {{qualifier|rare}}, [[ます|-ま.す]] ({{ja-l|在す}}, -ma.su) {{qualifier|rare}}
+}}
 
 ====Compounds====
 {{top3}}
-* {{l|ja|sc=Jpan|在位}}, {{l|ja|ざいい}}, {{l|ja|zaii}}
-* {{l|ja|sc=Jpan|在家}}, {{l|ja|ざいけ}}, {{l|ja|zaike}}
-* {{l|ja|sc=Jpan|在庫}}, {{l|ja|ざいこ}}, {{l|ja|zaiko}}
-* {{l|ja|sc=Jpan|在校}}, {{l|ja|ざいこう}}, {{l|ja|zaikō}}
-* {{l|ja|sc=Jpan|在住}}, {{l|ja|ざいじゅう}}, {{l|ja|zaijū}}
+* {{ja-l|在位|ざいい|zaii}}
+* {{ja-l|在家|ざいけ|zaike}}
+* {{ja-l|在庫|ざいこ|zaiko}}
+* {{ja-l|在校|ざいこう|zaikō}}
+* {{ja-l|在住|ざいじゅう|zaijū}}
 {{mid3}}
-* {{l|ja|sc=Jpan|在職}}, {{l|ja|ざいしょく}}, {{l|ja|zaishoku}}
-* {{l|ja|sc=Jpan|在世}}, {{l|ja|ざいせ}}, {{l|ja|zaise}}
-* {{l|ja|sc=Jpan|在籍}}, {{l|ja|ざいせき}}, {{l|ja|zaiseki}}
-* {{l|ja|sc=Jpan|在宅}}, {{l|ja|ざいたく}}, {{l|ja|zaitaku}}
-* {{l|ja|sc=Jpan|在任}}, {{l|ja|ざいにん}}, {{l|ja|zainin}}
+* {{ja-l|在職|ざいしょく|zaishoku}}
+* {{ja-l|在世|ざいせ|zaise}}
+* {{ja-l|在籍|ざいせき|zaiseki}}
+* {{ja-l|在宅|ざいたく|zaitaku}}
+* {{ja-l|在任|ざいにん|zainin}}
 {{mid3}}
-* {{l|ja|sc=Jpan|在来}}, {{l|ja|ざいらい}}, {{l|ja|zairai}}
-* {{l|ja|sc=Jpan|在留}}, {{l|ja|ざいりゅう}}, {{l|ja|zairyū}}
-* {{l|ja|sc=Jpan|存在}}, {{l|ja|そんざい}}, {{l|ja|sonzai}}
-* {{l|ja|sc=Jpan|在日}}, {{l|ja|ざいにち}}, {{l|ja|zainichi}}
+* {{ja-l|在来|ざいらい|zairai}}
+* {{ja-l|在留|ざいりゅう|zairyū}}
+* {{ja-l|存在|そんざい|sonzai}}
+* {{ja-l|在日|ざいにち|zainichi}}
 {{bottom}}
 
 ===Noun===
@@ -65,6 +69,7 @@
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 在]]
+
 ----
 
 ==Korean==
