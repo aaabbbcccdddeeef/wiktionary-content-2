@@ -1,7 +1,7 @@
 ==Breton==
 
 ===Etymology===
-Cognate with Cornish {{term|frig||nostril|lang=kw}}; perhaps related to {{etyl|cel-pro|br}} {{recons|srognā|lang=cel-pro}} (compare Welsh {{term|ffroen||nostril|lang=cy}}, Old Irish {{term|srón||nose|lang=sga}}).
+Cognate with Cornish {{term|frig||nostril|lang=kw}}; perhaps related to {{etyl|cel-pro|br}} {{term/t|cel-pro|*srognā}} (compare Welsh {{term|ffroen||nostril|lang=cy}}, Old Irish {{term|srón||nose|lang=sga}}).
 
 ===Pronunciation===
 * {{IPA|/ˈfriː/|lang=br}}
@@ -86,7 +86,7 @@ From {{etyl|gml|no}} {{term|vrī|lang=gml}}. Cognates inlcude Danish {{term|fri|
 ==Old Frisian==
 
 ===Etymology===
-From {{etyl|gem-pro|ofs}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon and Old High German {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|ofs}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}.
+From {{etyl|gem-pro|ofs}} {{term/t|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|ofs}} {{term/t|ine-pro|*prei-||to be fond of}}, {{term/t|ine-pro|*prey-}}.
 
 ===Adjective===
 '''fri'''
@@ -103,7 +103,7 @@ From {{etyl|gem-pro|ofs}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon 
 ==Old High German==
 
 ===Etymology===
-From {{etyl|gem-pro|goh}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]'', Gothic {{term|𐍆𐍂𐌴𐌹𐍃|tr=freis|lang=got}}. Ultimately from {{etyl|ine-pro|goh}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}.
+From {{etyl|gem-pro|goh}} {{term/t|gem-pro|*frijaz}}, whence also Old Saxon {{term|fri|frī|lang=osx}}, Old English ''[[freo|frēo]]'', Gothic {{term|𐍆𐍂𐌴𐌹𐍃|tr=freis|lang=got}}. Ultimately from {{etyl|ine-pro|goh}} {{term/t|ine-pro|*prei-||to be fond of}}, {{term/t|ine-pro|*prey-}}.
 
 ===Adjective===
 {{head|goh|adjective|head=frī}}
@@ -118,7 +118,7 @@ From {{etyl|gem-pro|goh}} {{recons|frijaz|lang=gem-pro}}, whence also Old Saxon 
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{recons|writ-|lang=cel-pro}} (cf. Welsh {{term|wrth|lang=cy}}), from {{etyl|ine-pro|sga}} {{recons|wert-||to turn|lang=ine-pro}} (cf. Latin {{term|versus||against|lang=la}}).
+From {{etyl|cel-pro|sga}} {{term/t|cel-pro|*writ-}} (cf. Welsh {{term|wrth|lang=cy}}), from {{etyl|ine-pro|sga}} {{term/t|ine-pro|*wert-||to turn}} (cf. Latin {{term|versus||against|lang=la}}).
 
 ===Preposition===
 {{head|sga|preposition}}
@@ -156,7 +156,7 @@ From {{etyl|cel-pro|sga}} {{recons|writ-|lang=cel-pro}} (cf. Welsh {{term|wrth|l
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{recons|frijaz|lang=gem-pro}}, whence also Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|osx}} {{recons|prei-||to be fond of|lang=ine-pro}}, {{recons|prey-||lang=ine-pro}}. 
+From {{etyl|gem-pro|osx}} {{term/t|gem-pro|*frijaz}}, whence also Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|osx}} {{term/t|ine-pro|*prei-||to be fond of}}, {{term/t|ine-pro|*prey-}}. 
 
 ===Adjective===
 {{head|osx|adjective|head=frī}}
@@ -190,7 +190,7 @@ From {{etyl|gem-pro|osx}} {{recons|frijaz|lang=gem-pro}}, whence also Old Englis
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gml|sv}} {{term|vri|lang=gml}}, from {{etyl|osx|sv}} {{term|fri|frī|lang=osx}}, from {{etyl|gem-pro|sv}} {{recons|frijaz|lang=gem-pro}}.
+From {{etyl|gml|sv}} {{term|vri|lang=gml}}, from {{etyl|osx|sv}} {{term|fri|frī|lang=osx}}, from {{etyl|gem-pro|sv}} {{term/t|gem-pro|*frijaz}}.
 
 ===Pronunciation===
 * {{audio|Sv-fri.ogg|audio}}
