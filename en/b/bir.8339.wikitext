@@ -2,7 +2,7 @@
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{recons|bira|lang=sqj-pro}}, from {{etyl|ine-pro|sq}} {{recons|bʰérus|lang=ine-pro}} (compare Old English {{term|byre|lang=ang}}, Gothic {{term|𐌱𐌰𐌿𐍂|tr=baur||son|lang=got}})<ref>A Concise Historical Grammar of the Albanian Language, V.Orel, Koninklijke Brill , Leiden 2000</ref>.
+From {{etyl|sqj-pro|sq}} {{term/t|sqj-pro|*bira}}, from {{etyl|ine-pro|sq}} {{term/t|ine-pro|*bʰérus}} (compare Old English {{term|byre|lang=ang}}, Gothic {{term|𐌱𐌰𐌿𐍂|tr=baur||son|lang=got}})<ref>A Concise Historical Grammar of the Albanian Language, V.Orel, Koninklijke Brill , Leiden 2000</ref>.
 
 ===Noun===
 {{sq-noun|m|bij|biri|bijtë}}
@@ -19,7 +19,7 @@ From {{etyl|sqj-pro|sq}} {{recons|bira|lang=sqj-pro}}, from {{etyl|ine-pro|sq}} 
 ==Azeri==
 
 ===Etymology===
-From {{etyl|trk-pro|az}} {{recons|bīr||one|lang=trk-pro}}
+From {{etyl|trk-pro|az}} {{term/t|trk-pro|*bīr||one}}
 
 ===Cardinal number===
 {{cardinalbox|az||1|2||iki|ord=birinci}}
@@ -33,7 +33,7 @@ From {{etyl|trk-pro|az}} {{recons|bīr||one|lang=trk-pro}}
 ==Crimean Tatar==
 
 ===Etymology===
-From {{etyl|trk-pro|crh}} {{recons|bīr||one|lang=trk-pro}}
+From {{etyl|trk-pro|crh}} {{term/t|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{cardinalbox|crh||1|2||iki|ord=birinci}}
@@ -49,7 +49,7 @@ From {{etyl|trk-pro|crh}} {{recons|bīr||one|lang=trk-pro}}
 ==Gagauz==
 
 ===Etymology===
-From {{etyl|trk-pro|gag}} {{recons|bīr||one|lang=trk-pro}}
+From {{etyl|trk-pro|gag}} {{term/t|trk-pro|*bīr||one}}
 
 ===Cardinal number===
 {{cardinalbox|gag||1|2||iki|ord=birinci}}
@@ -188,7 +188,7 @@ From {{etyl|goh|gmh}} {{term|bira|lang=goh}}
 * {{IPA|/biɾ/|lang=tr}}
 
 ===Etymology===
-From {{etyl|otk|tr}} ''bir'', from {{etyl|trk-pro|tr}} {{recons|bir||one|lang=trk-pro}}, {{recons|bīr||one|lang=trk-pro}}.
+From {{etyl|otk|tr}} ''bir'', from {{etyl|trk-pro|tr}} {{term/t|trk-pro|*bir||one}}, {{term/t|trk-pro|*bīr||one}}.
 
 ===Article===
 {{head|tr|article}}
@@ -215,7 +215,7 @@ From {{etyl|otk|tr}} ''bir'', from {{etyl|trk-pro|tr}} {{recons|bir||one|lang=tr
 ==Turkmen==
 
 ===Etymology===
-From {{etyl|trk-pro|tk}} {{recons|bīr||one|lang=trk-pro}}
+From {{etyl|trk-pro|tk}} {{term/t|trk-pro|*bīr||one}}
 
 ===Cardinal number===
 {{cardinalbox|tk||1|2||iki|ord=birinji}}
@@ -229,7 +229,7 @@ From {{etyl|trk-pro|tk}} {{recons|bīr||one|lang=trk-pro}}
 ==Uzbek==
 
 ===Etymology===
-From {{etyl|trk-pro|uz}} {{recons|bīr||one|lang=trk-pro}}
+From {{etyl|trk-pro|uz}} {{term/t|trk-pro|*bīr||one}}
 
 ===Cardinal number===
 {{cardinalbox|uz||1|2||ikki|ord=birinchi}}
