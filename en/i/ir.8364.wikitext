@@ -73,7 +73,7 @@ Shortened from {{term|irā|lang=ltg}}, related to {{etyl|lv|-}} {{term|ir|lang=l
 ==Latvian==
 
 ===Etymology 1===
-From {{etyl|bat-pro|lv}} {{recons|irā|lang=bat-pro}} ([[cf]]. dialectal, archaic forms {{term|irād|lang=lv}}, {{term|iraid|lang=lv}}, {{term|irāg|lang=lv}}, and also {{etyl|lt|-}} {{term|yra|yrà|lang=lt}}, which existed alongside {{recons|esti|lang=ine-pro}} ([[cf]]. {{etyl|cu|-}} {{term|єстъ|tr=jestŭ|lang=cu}}, {{etyl|ru|-}} {{term|есть|tr=jest’|lang=ru}}, {{etyl|lt|-}} dialectal {{term|esti|ẽsti|lang=lt}}, {{etyl|prg|-}} {{term|ast|lang=prg}}), initially with basically existential (“there is”) meaning, but later on extending to all copular meanings, thus replacing {{recons|esti|lang=ine-pro}}. In {{etyl|xsv|-}}, also the first person form {{term|irm||I am|lang=xsv}} is derived from this stem. The origin of {{etyl|bat-pro|-}} {{recons|irā|lang=bat-pro}} is, however, unclear. Various sources have been proposed: an older interjection ([[cf]]. {{etyl|lt|-}} {{term|aure|aurè|look!|lang=lt}}), the particle and conjunction {{term|ir||both... and...|lang=lv}}, a noun with the meaning “existence,” “reality,” “thing,” or even (more recently) the {{etyl|ine-pro|-}} secondary third-person verbal ending {{recons|-r|lang=ine-pro}} with a later ''-ā''-extension.<ref name="LEV">{{R:lv:LEV}}</ref>
+From {{etyl|bat-pro|lv}} {{term/t|bat-pro|*irā}} ([[cf]]. dialectal, archaic forms {{term|irād|lang=lv}}, {{term|iraid|lang=lv}}, {{term|irāg|lang=lv}}, and also {{etyl|lt|-}} {{term|yra|yrà|lang=lt}}, which existed alongside {{term/t|ine-pro|*esti}} ([[cf]]. {{etyl|cu|-}} {{term|єстъ|tr=jestŭ|lang=cu}}, {{etyl|ru|-}} {{term|есть|tr=jest’|lang=ru}}, {{etyl|lt|-}} dialectal {{term|esti|ẽsti|lang=lt}}, {{etyl|prg|-}} {{term|ast|lang=prg}}), initially with basically existential (“there is”) meaning, but later on extending to all copular meanings, thus replacing {{term/t|ine-pro|*esti}}. In {{etyl|xsv|-}}, also the first person form {{term|irm||I am|lang=xsv}} is derived from this stem. The origin of {{etyl|bat-pro|-}} {{term/t|bat-pro|*irā}} is, however, unclear. Various sources have been proposed: an older interjection ([[cf]]. {{etyl|lt|-}} {{term|aure|aurè|look!|lang=lt}}), the particle and conjunction {{term|ir||both... and...|lang=lv}}, a noun with the meaning “existence,” “reality,” “thing,” or even (more recently) the {{etyl|ine-pro|-}} secondary third-person verbal ending {{term/t|ine-pro|*-r}} with a later ''-ā''-extension.<ref name="LEV">{{R:lv:LEV}}</ref>
 
 ====Verb====
 {{head|lv|verb form}}
@@ -84,7 +84,7 @@ From {{etyl|bat-pro|lv}} {{recons|irā|lang=bat-pro}} ([[cf]]. dialectal, archai
 # {{qualifier|with the particle {{l|lv|lai}}}} [[let]] [[them]] [[be]]; {{lv-inflection of|būt|3rd|p|imp||v}}
 
 ===Etymology 2===
-From {{etyl|bat-pro|lv}} {{recons|ir|lang=bat-pro}}, from the [[w:Indo-European ablaut|reduced grade]] {{recons|r̥|lang=ine-pro}} of {{etyl|ine-pro|lv}} {{recons|ar||so, then; question particle|lang=ine-pro}} (whence also {{etyl|lv|-}} {{term|ar||with|lang=lv}}, [[q.v.]]). The original meaning “and” ([[cf]]. {{etyl|lt|-}} cognate) is found in 16th- and 17th-century texts, but from the 18th century on {{term|ir|lang=lv}} was no longer used in this sense. Cognates include {{etyl|lt|-}} {{term|ir|ir̃|and|lang=lt}}, {{etyl|prg|-}} {{term|ir||also|lang=prg}}, {{term|er||(along) with|lang=prg}}, {{etyl|grc|-}} {{term|ἄρα|ἄρα, ἄρ', ῥά|so, then, therefore|tr=ára, ár', rhá|lang=grc}}.<ref name="LEV"/>
+From {{etyl|bat-pro|lv}} {{term/t|bat-pro|*ir}}, from the [[w:Indo-European ablaut|reduced grade]] {{term/t|ine-pro|*r̥}} of {{etyl|ine-pro|lv}} {{term/t|ine-pro|*ar||so, then; question particle}} (whence also {{etyl|lv|-}} {{term|ar||with|lang=lv}}, [[q.v.]]). The original meaning “and” ([[cf]]. {{etyl|lt|-}} cognate) is found in 16th- and 17th-century texts, but from the 18th century on {{term|ir|lang=lv}} was no longer used in this sense. Cognates include {{etyl|lt|-}} {{term|ir|ir̃|and|lang=lt}}, {{etyl|prg|-}} {{term|ir||also|lang=prg}}, {{term|er||(along) with|lang=prg}}, {{etyl|grc|-}} {{term|ἄρα|ἄρα, ἄρ', ῥά|so, then, therefore|tr=ára, ár', rhá|lang=grc}}.<ref name="LEV"/>
 
 ====Conjunction====
 {{head|lv|conjunction}}
@@ -176,7 +176,7 @@ From {{etyl|la|pt}} {{term|ire|īre|lang=la}}, present active infinitive of {{te
 * {{qualifier|Surmiran}} {{l|rm|eir}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{term|eo|eō, īre|lang=la}}, from {{etyl|ine-pro|rm}} {{recons|h₁ey-|lang=ine-pro}}.
+From {{etyl|la|rm}} {{term|eo|eō, īre|lang=la}}, from {{etyl|ine-pro|rm}} {{term/t|ine-pro|*h₁ey-}}.
 
 ===Verb===
 {{rm-verb}}
