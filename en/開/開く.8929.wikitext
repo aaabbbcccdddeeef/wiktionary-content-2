@@ -1,39 +1,34 @@
 ==Japanese==
-{{ja-kanjitab|開}}
 
-===Verb===
+===Etymology 1===
+{{kanji readings tab|開|あ|sort=あく}}
+
+====Verb====
 {{ja-verb|kk|type=1|tr=intrans|hira=あく|rom=aku}}
 
 # to [[open]]
+#: {{usex|何'''が'''開く。|tr=[something]'''が'''あく。<br/>[something]'''''ga''' aku.''|t=[something] opens.|lang=ja}}
 # to begin
 
-===Verb===
+=====Usage notes=====
+The passive, causative, and volitional of あく are never used.
+
+=====Conjugation=====
+{{ja-go-ku|開|あ|a}}
+
+===Etymology 2===
+{{kanji readings tab|開|ひら|sort=ひらく}}
+
+====Verb====
 {{ja-verb|kk|type=1|tr=both|hira=ひらく|rom=hiraku}}
 
 # to [[open]], [[lift]], [[uncover]], [[unpack]]
+#:{{usex|何'''が'''開く。|tr=[something]'''が'''ひらく。<br/>[something]'''''ga''' hiraku.''|t=[something] opens.|lang=ja}}
+#:{{usex|誰'''が'''何'''を'''開く。|tr=[someone]'''が'''[something]'''を'''ひらく。<br/>[someone] '''''ga''' [something] '''o''' hiraku.''|t=[someone] opens [something].|lang=ja}}
 # to [[bloom]]
 # to [[start]], [[open]] (a store)
 
-====Construction====
-'''開く''' (あく, aku)
-* 何'''が'''開く。
-*: [something]'''が'''あく。
-*: [something] '''ga''' aku.
-*: [something] opens.
-
-'''開く''' (ひらく, hiraku)
-* 何'''が'''開く。
-*: [something]'''が'''ひらく。
-*: [something] '''ga''' hiraku.
-*: [something] opens.
-* 誰'''が'''何'''を'''開く。
-*: [someone]'''が'''[something]'''を'''ひらく。
-*: [someone] '''ga''' [something] '''o''' hiraku.
-*: [someone] opens [something].
-
-====Conjugation====
-: passive, causative, and volitional of あく is never used
-{{ja-go-ku|開|あ|a}}
+=====Conjugation=====
 {{ja-go-ku|開|ひら|hira}}
 
 [[Category:1000 Japanese basic words|ひらく]]
