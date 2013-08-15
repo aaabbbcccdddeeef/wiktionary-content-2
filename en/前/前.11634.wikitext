@@ -34,23 +34,86 @@
 {{ja-kanji|grade=2|rs=刀07}}
 
 ====Readings====
-* {{ja-readings|on=[[ぜん]] (zen), [[せん]] (sen)|kun=[[まえ]] (mae), [[すすむ]] (susumu)}}
+{{ja-readings
+|goon=[[ぜん]] (zen)
+|kanon=[[せん]] (sen) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanyoon=[[ぜ]] (ze) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[まえ]] (mae), [[さき]] (saki) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+}}
 
-===Etymology===
+===Etymology 1===
+From {{etyl|ojp|ja|sort=まえ}} as a compound of {{compound|lang=ja|sort=まえ|目|tr1=ma|t1=eye|方|tr2=he|t2=direction, -wards}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-mape > maɸe > mawe > mae. Literally "before one's eyes". Compound of {{term|目#Japanese|ma|eye}} and {{term|方#Japanese|pe|direction}}.
+{{IPAchar|/mape/}} > {{IPAchar|/maɸe/}} > {{IPAchar|/mawe/}} > {{IPAchar|/mae/}}
 
-===Noun===
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|a|ま|え}}<ref name="NHK">{{R:NHK Hatsuon}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+* {{IPA|lang=ja|[ma̠e̞]}}
+
+====Noun====
 {{ja-noun|k|hira=まえ|hhira=まへ|rom=mae}}
 
 # the [[front]]
 # the [[past]]
 
-===Prefix===
-{{ja-pos|k|prefix|hira=ぜん|rom=zen-|hidx=せん'}} 
+====Suffix====
+{{ja-pos|k|prefix|hira=まえ|rom=mae}} 
+
+# a [[portion]], an [[amount]]
+#: {{usex|lang=ja|六人'''前'''の御膳|tr=ろくにん'''まえ'''のごぜん<br/>''rokunin-'''mae''' no gozen''|t=a banquet '''for''' six people}}
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=さき}}.  Cognate with {{term|lang=ja|崎|tr=saki||a (geographical) point, where the land sticks out into the water}}.<ref name="KDJ"/>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|さ|き}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[sa̠ki]}}
+
+====Noun====
+{{ja-pos|k|proper|hira=さき|rom=saki}}
+
+# {{alternate spelling of|lang=ja|sort=さき|先|dot=:}} the [[tip]] of something; [[ahead]], in [[front]]; [[before]], [[earlier]], the [[past]]; [[afterwards]], the [[future]]; the [[destination]] of a motion or action
+
+=====Usage notes=====
+This sense is much more commonly spelled {{ja-l|先}}.  See that entry for more details.
+
+===Etymology 3===
+From {{etyl|ltc|ja|sort=せん'}} {{term|lang=ltc|前|tr=dzen}}.  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|前|tr=qián}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|ぜ|ん}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[zẽ̞ɴ]}}
+
+====Counter====
+{{ja-pos|k|counter|hira=ぜん|rom=zen}}
+
+# [[counter]] for irregularly shaped objects such as [[desk]]s, [[armrest]]s, and [[serving tray]]s
+# [[counter]] for ''[[kami]]'' and [[shrine]]s
+
+====Prefix====
+{{ja-pos|k|prefix|hira=ぜん|rom=zen-}}
 
 # the [[last]], the [[previous]]
 # [[pre-]] (of an era)
+
+===Etymology 4===
+Contraction of {{ja-l|御前||goze}}, itself a contraction of {{ja-l|御前||gozen}}, an [[honorific]] form of [[address]].<ref name="KDJ"/><ref name="DJR"/>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
+* {{IPA|lang=ja|[ze̞]}}
+
+====Suffix====
+{{ja-pos|h|suffix|hira=ぜ|rom=ze}}
+
+# {{context|lang=ja|sort=せ'|rare}} an [[honorific]] [[suffix]] added to a noun denoting a person
+#: {{usex|lang=ja|尼'''前'''|tr=あま'''ぜ'''<br/>''ama'''ze'''''|t=('''honorable''') nun}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|まえ]]
 [[Category:Japanese terms written with one Han script character]]
