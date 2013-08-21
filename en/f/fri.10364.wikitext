@@ -159,12 +159,14 @@ From {{etyl|cel-pro|sga}} {{term/t|cel-pro|*writ-}} (cf. Welsh {{term|wrth|lang=
 From {{etyl|gem-pro|osx}} {{term/t|gem-pro|*frijaz}}, whence also Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|osx}} {{term/t|ine-pro|*prei-||to be fond of}}, {{term/t|ine-pro|*prey-}}. 
 
 ===Adjective===
-{{head|osx|adjective|head=frī}}
+{{osx-adj|head=frī|frioro|frīoro|friost|frīost}}
 
 # [[free]]
 
 ====Declension====
 {{osx-decl-adj|title=frī|frī}}
+{{osx-decl-adj-wk|title=frī|frīor}}
+{{osx-decl-adj-sp|title=frī|frīost}}
 
 ====Descendants====
 * Middle Low German: {{l|gml|fri}}
