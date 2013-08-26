@@ -30,7 +30,7 @@ From {{etyl|ar|az}} {{term|فيل|tr=fīl|lang=ar}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{term|filum|fīlum|lang=la}}.
+From {{etyl|la|ca}} {{term/t|la|fīlum}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -61,7 +61,7 @@ From {{etyl|la|dlm}} {{term|filum|lang=la}}.
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|gml|da}} {{term|vile|vīle|lang=gml}}.
+From {{etyl|gml|da}} {{term/t|gml|vīle}}.
 
 ====Pronunciation====
 * {{IPA|/fiːl/|[fiːˀl]|lang=da}}
@@ -104,7 +104,7 @@ See {{l|da|file}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{term|filum|fīlum|lang=la}}.
+From {{etyl|la|fr}} {{term/t|la|fīlum}}.
 
 ===Pronunciation===
 * {{audio|Fr-fil.ogg|audio}}
@@ -173,7 +173,7 @@ From {{etyl|la|fr}} {{term|filum|fīlum|lang=la}}.
 ==Old French==
 
 ===Etymology 1===
-{{etyl|la|fro}} {{term|filium|fīlium|lang=la}}, accusative singular of {{term|filius|fīlius|lang=la}}.
+{{etyl|la|fro}} {{term/t|la|fīlium}}, accusative singular of {{term/t|la|fīlius}}.
 
 ====Noun====
 {{fro-noun|m|fiz|fiz}}
@@ -185,7 +185,7 @@ From {{etyl|la|fr}} {{term|filum|fīlum|lang=la}}.
 * French: {{l|fr|fils}} (from the nominative "fiz", later "fils")
 
 ===Etymology 2===
-{{etyl|la|fro}} {{term|filum|fīlum|lang=la}}.
+{{etyl|la|fro}} {{term/t|la|fīlum}}.
 
 ====Noun====
 {{fro-noun|m|fis|fis}}
@@ -240,7 +240,7 @@ In the conjunct form, the logical subject appears in the accusative (or as a cli
 * {{l|sh|fȉlj}}
 
 ===Etymology===
-From {{etyl|ota|sh}} {{term|فیل|tr=fil|lang=ota}} (modern Turkish {{term|fil|lang=tr}}), from {{etyl|ar|sh}} {{term|فيل|tr=fīl|lang=ar}}, from {{etyl|pal|sh}} {{term|𐭯𐭩𐭫|tr=pīl|lang=pal}}, from {{etyl|akk|sh}} {{term|𒄠𒋛|tr=pīru|lang=akk}}. Akin to {{term|fildiš|fìldiš|lang=sh}}.
+From {{etyl|ota|sh}} {{term|فیل|tr=fil|lang=ota}} (modern Turkish {{term|fil|lang=tr}}), from {{etyl|ar|sh}} {{term|فيل|tr=fīl|lang=ar}}, from {{etyl|pal|sh}} {{term|𐭯𐭩𐭫|tr=pīl|lang=pal}}, from {{etyl|akk|sh}} {{term|𒄠𒋛|tr=pīru|lang=akk}}. Akin to {{term/t|sh|fìldiš}}.
 
 ===Pronunciation===
 * {{qualifier|fȉl}}: {{IPA|/fîl/|lang=sh}}
@@ -276,7 +276,7 @@ From {{etyl|ota|sh}} {{term|فیل|tr=fil|lang=ota}} (modern Turkish {{term|fil|
 ==Swedish==
 
 ===Etymology 1===
-From {{etyl|gml|sv}} {{term|vile|vīle|lang=gml}}.
+From {{etyl|gml|sv}} {{term/t|gml|vīle}}.
 Cognate with English {{term|file|lang=en}} and German {{term|Feile|lang=de}}.
 
 ====Pronunciation====
