@@ -7,7 +7,7 @@
 * {{a|BE}} {{IPA|/lœy̆/|/lœː/|lang=nl}}
 
 ===Etymology 1===
-From {{etyl|dum|nl}} ''[[loy]]'', ''[[leuy]]''. Cognate with the Old Norse adjective {{term|lúinn|lang=non}} “exhausted”, the Latin noun {{term|lues|luēs|lang=la|epidemy}} and the Ancient Greek verb {{term|λύω|sc=polytonic|lang=grc}} “I untie”.<ref>de Vries / de Tollenaere, "Etymologisch Woordenboek", Utrecht 1986 (14de druk), ISBN 90-274-3459-X; article ''lui 2''</ref>
+From {{etyl|dum|nl}} ''[[loy]]'', ''[[leuy]]''. Cognate with the Old Norse adjective {{term|lúinn|lang=non}} “exhausted”, the Latin noun {{term/t|la|luēs||epidemy}} and the Ancient Greek verb {{term|λύω|sc=polytonic|lang=grc}} “I untie”.<ref>de Vries / de Tollenaere, "Etymologisch Woordenboek", Utrecht 1986 (14de druk), ISBN 90-274-3459-X; article ''lui 2''</ref>
 
 ====Adjective====
 {{nl-adj}}
@@ -67,7 +67,7 @@ Short form of {{term|luiden|lang=nl}}, a variant of  {{term|lieden|lang=nl}}.<re
 ==French==
 
 ===Etymology 1===
-From {{etyl|VL.|fr}} {{term/t|la|*illui|*illūi}}, which is a Vulgar Latin dative of Classical Latin {{term|ille|lang=la}} (dative ''[[illi|illī]]''). The ''-ui'' ending in Vulgar Latin ''illui'' is due to the influence of {{term|cui|lang=la}}.<ref>{{reference-book | last = Dauzat | first = Albert | coauthors = Jean Dubois, Henri Mitterand | title = Nouveau dictionnaire étymologique | year = 1964 | publisher = Librairie Larousse | location = Paris | language = French | pages = | chapter = il }}</ref>
+From {{etyl|VL.|fr}} {{term/t|la|*illūi}}, which is a Vulgar Latin dative of Classical Latin {{term|ille|lang=la}} (dative ''[[illi|illī]]''). The ''-ui'' ending in Vulgar Latin ''illui'' is due to the influence of {{term|cui|lang=la}}.<ref>{{reference-book | last = Dauzat | first = Albert | coauthors = Jean Dubois, Henri Mitterand | title = Nouveau dictionnaire étymologique | year = 1964 | publisher = Librairie Larousse | location = Paris | language = French | pages = | chapter = il }}</ref>
 
 Cognate with Italian {{term|lui|lang=it}}.
 
@@ -114,7 +114,7 @@ see the verb {{term|luire|lang=fr}}
 ==Friulian==
 
 ===Etymology===
-From {{etyl|VL.|fur}} {{term/t|la|*illui|*illūi}}, which is a Vulgar Latin form of ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}).
+From {{etyl|VL.|fur}} {{term/t|la|*illūi}}, which is a Vulgar Latin form of ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}).
 
 ===Pronoun===
 {{head|fur|pronoun}}
@@ -133,7 +133,7 @@ From {{etyl|VL.|fur}} {{term/t|la|*illui|*illūi}}, which is a Vulgar Latin form
 * {{IPA|[ˈlui]|lang=it}}
 
 ===Etymology===
-From {{etyl|VL.|it}} {{term/t|la|*illui|*illūi}}, which is a Vulgar Latin form of ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}). The ''ūi'' in ''illūi'' is modelled under influence of Vulgar Latin ''cūi'' (see Classical Latin {{term|cui|lang=la}}).<ref>{{reference-book | last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 130 | chapter = }}</ref>
+From {{etyl|VL.|it}} {{term/t|la|*illūi}}, which is a Vulgar Latin form of ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}). The ''ūi'' in ''illūi'' is modelled under influence of Vulgar Latin ''cūi'' (see Classical Latin {{term|cui|lang=la}}).<ref>{{reference-book | last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 130 | chapter = }}</ref>
 
 ===Pronoun===
 {{head|it|pronoun}}
@@ -156,14 +156,14 @@ From {{etyl|VL.|it}} {{term/t|la|*illui|*illūi}}, which is a Vulgar Latin form 
 ===Verb===
 {{la-verb-form|luī}}
 
-# {{conjugation of|luo|luō|1|s|perf|act|ind|lang=la}}
+# {{conjugation of|luō||1|s|perf|act|ind|lang=la}}
 
 ----
 
 ==Romanian==
 
 ===Etymology===
-From {{etyl|VL.|ro}} {{term/t|la|*illui|*illūi}}, which is a form of {{etyl|la|ro}} ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}).
+From {{etyl|VL.|ro}} {{term/t|la|*illūi}}, which is a form of {{etyl|la|ro}} ''[[illi|illī]]'' (dative singular of {{term|ille|lang=la}}).
 
 ===Pronunciation===
 * {{IPA|/luj/|lang=ro}}
