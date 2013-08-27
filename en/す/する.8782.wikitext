@@ -1,41 +1,59 @@
 ==Japanese==
 
 ===Etymology===
-From {{term|す|su|do}}. As with all verbs, during Middle Japanese the [[終止形|conclusive]] was gradually replaced by the [[連体形|attributive]], realigning the conjugations.
+From {{etyl|ojp|ja|sort=する}} root verb {{term|lang=ja|す|tr=su||to do}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|Kamakura]] and [[w:Muromachi period|Muromachi]] periods, the {{term|lang=ja|終止形|tr=shūshikei||terminal or sentence-ending form}} was gradually lost as the {{term|lang=ja|連体形|tr=rentaikei||attributive form}} came to be used for both the attributive and terminal grammatical roles, realigning the conjugations.
+
+===Pronunciation===
+* {{ja-accent-common|h|す|る}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[sɯᵝɾ̠ɯᵝ]}}
+
+===Alternative forms===
+* {{ja-l|為る}} {{qualifier|rare}}
 
 ===Verb===
-{{ja-verb|h|type=3|kanji=為る|rom=suru}}
+{{ja-verb|type=3}}
 # to [[do]]
-#: [[何]]を'''して'''いますか。
-#::[[なに]]を'''して'''いますか。
-#::''Nani o '''shite'''imasu ka?''
+#: 何を'''して'''いますか。
+#::なにを'''して'''いますか。
+#::''Nani o '''shite''' imasu ka?''
 #:::What are you '''doing'''?
-# to [[wear]] (accessories)
-#: [[ネクタイ]]を'''する'''。
-#:: [[ねくたい]]を'''する'''。
-#:: ''[[nekutai|Nekutai]] o '''suru'''.''
-#::: To '''wear''' a [[necktie]].
+# to wear (accessories)
+#: ネクタイを'''する'''。
+#:: ねくたいを'''する'''。
+#:: ''Nekutai o '''suru'''.''
+#::: To '''wear''' a necktie.
 
 ====Usage notes====
-* The verb する is seldom written in kanji (為る).
-* It is common to use する after certain nouns to indicate that the noun is being done; this is ''highly'' productive, meaning many verbs can be derived from nouns in this way, comparable to English {{term|-ly|lang=en}}:
-*: [[失礼]] ([[shitsurei]], "rudeness") → [[失礼する|失礼'''する''']] ([[shitsurei suru|shitsurei '''suru''']], "to commit a rudeness → to be rude")
-*: [[旅行]] ([[ryokō]], "journey") → [[旅行する|旅行'''する''']] ([[ryokō suru|ryokō '''suru''']], "to travel")
+The verb {{lang|ja|する}} (“to do”) is seldom written in kanji ({{ja-l|為る}}).
+
+It is common to use {{lang|ja|する}} after certain nouns to indicate that the noun is being done; this is ''highly'' [[productive]], meaning many nouns can be used as verbs in this way.  Some examples are:
+* {{term|lang=ja|失礼|tr=shitsurei||rudeness}} → {{lang|ja|失礼'''する'''}} (''shitsurei '''suru''''', “to do a rudeness” → “to be rude”)
+* {{term|lang=ja|旅行|tr=ryokō||journey}} → {{lang|ja|旅行'''する'''}} (''ryokō '''suru''''', “to do a journey” → “to travel”)
 
 ====Synonyms====
-* {{term|る|〜る|tr=-ru|lang=ja}}, a much less productive suffix for turning a noun into a verb
+* {{sense|to do}} {{ja-l|成す}}, {{ja-l|為す|なす|nasu}} {{qualifier|somewhat archaic, usage is more limited}}
+* {{sense|to do}} {{ja-l|行う|おこなう|okonau}} {{gloss|to carry out}}
+* {{sense|used to make a verb}} {{term|る|〜る|tr=-ru|lang=ja}}, a much less productive suffix for turning a noun into a verb
 
 ====See also====
-* [[す]] (su)
+* {{ja-l|す||su}}
 
 ====Conjugation====
 {{ja-suru|||}}
 
 ===Verb===
-{{ja-verb|h|rom=suru}}
-# {{ja-def|刷る|摺る}} to [[print]], to [[pull]]
-# {{ja-def|掏る}} to [[pick]] one's pocket
-# {{ja-def|擦る|摩る|磨る}} to [[strike]], to [[rub]], to [[grind]]
+{{ja-verb}}
+
+Various verbs deriving from senses similar to “to [[slide]]” or “to [[rub]]”:
+# {{ja-def|刷る|摺る}} to [[print]] something {{qualifier|from the way the paper would be placed on the printing block and '''rubbed'''}}
+# {{ja-def|掏る}} to [[pick]] someone's pocket {{qualifier|possibly from the way a pickpocket must '''slide''' along unnoticed; compare English {{term|lang=en|slick}}}}
+# {{ja-def|擦る|摩る|磨る|擂る}} to [[slide]], to [[rub]], to [[chafe]], to [[strike]] (as in a match, by rubbing); to [[lose]] or [[waste]] money
+# {{ja-def|剃る}} irregular reading for {{term|lang=ja|剃る|tr=soru||to shave}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words]]
 [[Category:Japanese suppletive verbs]]
