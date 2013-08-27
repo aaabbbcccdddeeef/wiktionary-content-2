@@ -1,19 +1,20 @@
 ==Japanese==
 
-===Etymology===
+===Etymology 1===
 From {{etyl|ojp|ja|sort=する}} root verb {{term|lang=ja|す|tr=su||to do}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|Kamakura]] and [[w:Muromachi period|Muromachi]] periods, the {{term|lang=ja|終止形|tr=shūshikei||terminal or sentence-ending form}} was gradually lost as the {{term|lang=ja|連体形|tr=rentaikei||attributive form}} came to be used for both the attributive and terminal grammatical roles, realigning the conjugations.
 
-===Pronunciation===
+====Pronunciation====
 * {{ja-accent-common|h|す|る}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
 * {{IPA|lang=ja|[sɯᵝɾ̠ɯᵝ]}}
 
-===Alternative forms===
+====Alternative forms====
 * {{ja-l|為る}} {{qualifier|rare}}
 
-===Verb===
+====Verb====
 {{ja-verb|type=3}}
+
 # to [[do]]
 #: 何を'''して'''いますか。
 #::なにを'''して'''いますか。
@@ -25,30 +26,33 @@ As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|K
 #:: ''Nekutai o '''suru'''.''
 #::: To '''wear''' a necktie.
 
-====Usage notes====
+=====Usage notes=====
 The verb {{lang|ja|する}} (“to do”) is seldom written in kanji ({{ja-l|為る}}).
 
 It is common to use {{lang|ja|する}} after certain nouns to indicate that the noun is being done; this is ''highly'' [[productive]], meaning many nouns can be used as verbs in this way.  Some examples are:
 * {{term|lang=ja|失礼|tr=shitsurei||rudeness}} → {{lang|ja|失礼'''する'''}} (''shitsurei '''suru''''', “to do a rudeness” → “to be rude”)
 * {{term|lang=ja|旅行|tr=ryokō||journey}} → {{lang|ja|旅行'''する'''}} (''ryokō '''suru''''', “to do a journey” → “to travel”)
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|to do}} {{ja-l|成す}}, {{ja-l|為す|なす|nasu}} {{qualifier|somewhat archaic, usage is more limited}}
 * {{sense|to do}} {{ja-l|行う|おこなう|okonau}} {{gloss|to carry out}}
 * {{sense|used to make a verb}} {{term|る|〜る|tr=-ru|lang=ja}}, a much less productive suffix for turning a noun into a verb
 
-====See also====
+=====See also=====
 * {{ja-l|す||su}}
 
-====Conjugation====
+=====Conjugation=====
 {{ja-suru|||}}
 
-===Verb===
+===Etymology 2===
+Reading for various kanji spellings.
+
+====Verb====
 {{ja-verb}}
 
 Various verbs deriving from senses similar to “to [[slide]]” or “to [[rub]]”:
 # {{ja-def|刷る|摺る}} to [[print]] something {{qualifier|from the way the paper would be placed on the printing block and '''rubbed'''}}
-# {{ja-def|掏る}} to [[pick]] someone's pocket {{qualifier|possibly from the way a pickpocket must '''slide''' along unnoticed; compare English {{term|lang=en|slick}}}}
+# {{ja-def|掏る}} to [[pick]] someone's pocket {{qualifier|possibly from the way a pickpocket must '''slide''' along unnoticed;<ref name="KDJ"/> compare English {{term|lang=en|slick}}}}
 # {{ja-def|擦る|摩る|磨る|擂る}} to [[slide]], to [[rub]], to [[chafe]], to [[strike]] (as in a match, by rubbing); to [[lose]] or [[waste]] money
 # {{ja-def|剃る}} irregular reading for {{term|lang=ja|剃る|tr=soru||to shave}}
 
