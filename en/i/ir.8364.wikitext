@@ -18,7 +18,7 @@ From {{etyl|non|da}} {{term|eir|lang=non}}.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|ire|īre|lang=la}}, present active infinitive of {{term|eo|eō|lang=la}}; the forms beginning with ''V'' from {{term|vadere|vādere|lang=la}}, present active infinitive of {{term|vado|vādō|lang=la}}.
+From {{etyl|la|gl}} {{term/t|la|īre}}, present active infinitive of {{term/t|la|eō}}; the forms beginning with ''V'' from {{term/t|la|vādere}}, present active infinitive of {{term/t|la|vādō}}.
 
 ===Verb===
 {{gl-verb||ir|pres=vou|pret=fun}}
@@ -73,7 +73,7 @@ Shortened from {{term|irā|lang=ltg}}, related to {{etyl|lv|-}} {{term|ir|lang=l
 ==Latvian==
 
 ===Etymology 1===
-From {{etyl|bat-pro|lv}} {{term/t|bat-pro|*irā}} ([[cf]]. dialectal, archaic forms {{term|irād|lang=lv}}, {{term|iraid|lang=lv}}, {{term|irāg|lang=lv}}, and also {{etyl|lt|-}} {{term|yra|yrà|lang=lt}}, which existed alongside {{term/t|ine-pro|*esti}} ([[cf]]. {{etyl|cu|-}} {{term|єстъ|tr=jestŭ|lang=cu}}, {{etyl|ru|-}} {{term|есть|tr=jest’|lang=ru}}, {{etyl|lt|-}} dialectal {{term|esti|ẽsti|lang=lt}}, {{etyl|prg|-}} {{term|ast|lang=prg}}), initially with basically existential (“there is”) meaning, but later on extending to all copular meanings, thus replacing {{term/t|ine-pro|*esti}}. In {{etyl|xsv|-}}, also the first person form {{term|irm||I am|lang=xsv}} is derived from this stem. The origin of {{etyl|bat-pro|-}} {{term/t|bat-pro|*irā}} is, however, unclear. Various sources have been proposed: an older interjection ([[cf]]. {{etyl|lt|-}} {{term|aure|aurè|look!|lang=lt}}), the particle and conjunction {{term|ir||both... and...|lang=lv}}, a noun with the meaning “existence,” “reality,” “thing,” or even (more recently) the {{etyl|ine-pro|-}} secondary third-person verbal ending {{term/t|ine-pro|*-r}} with a later ''-ā''-extension.<ref name="LEV">{{R:lv:LEV}}</ref>
+From {{etyl|bat-pro|lv}} {{term/t|bat-pro|*irā}} ([[cf]]. dialectal, archaic forms {{term|irād|lang=lv}}, {{term|iraid|lang=lv}}, {{term|irāg|lang=lv}}, and also {{etyl|lt|-}} {{term/t|lt|yrà}}, which existed alongside {{term/t|ine-pro|*esti}} ([[cf]]. {{etyl|cu|-}} {{term|єстъ|tr=jestŭ|lang=cu}}, {{etyl|ru|-}} {{term|есть|tr=jest’|lang=ru}}, {{etyl|lt|-}} dialectal {{term/t|lt|ẽsti}}, {{etyl|prg|-}} {{term|ast|lang=prg}}), initially with basically existential (“there is”) meaning, but later on extending to all copular meanings, thus replacing {{term/t|ine-pro|*esti}}. In {{etyl|xsv|-}}, also the first person form {{term|irm||I am|lang=xsv}} is derived from this stem. The origin of {{etyl|bat-pro|-}} {{term/t|bat-pro|*irā}} is, however, unclear. Various sources have been proposed: an older interjection ([[cf]]. {{etyl|lt|-}} {{term/t|lt|aurè||look!}}), the particle and conjunction {{term|ir||both... and...|lang=lv}}, a noun with the meaning “existence,” “reality,” “thing,” or even (more recently) the {{etyl|ine-pro|-}} secondary third-person verbal ending {{term/t|ine-pro|*-r}} with a later ''-ā''-extension.<ref name="LEV">{{R:lv:LEV}}</ref>
 
 ====Verb====
 {{head|lv|verb form}}
@@ -153,7 +153,7 @@ From {{etyl|non|gmq-osw}} {{term|ír|lang=non}}, variant of {{term|ér|lang=non}
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-ptg|pt}} {{term|ir|lang=roa-ptg}}, from {{etyl|la|pt}} {{term|ire|īre|lang=la}}, present active infinitive of {{term|eo|eō|lang=la}}; the forms beginning with ''V'' from {{term|vadere|vādere|lang=la}}, present active infinitive of {{term|vado|vādō|lang=la}}.
+From {{etyl|roa-ptg|pt}} {{term|ir|lang=roa-ptg}}, from {{etyl|la|pt}} {{term/t|la|īre}}, present active infinitive of {{term/t|la|eō}}; the forms beginning with ''V'' from {{term/t|la|vādere}}, present active infinitive of {{term/t|la|vādō}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ˈiɾ/|lang=pt}}
@@ -221,7 +221,7 @@ From {{etyl|la|rm}} {{term|eo|eō, īre|lang=la}}, from {{etyl|ine-pro|rm}} {{te
 ==Spanish==
 
 ===Etymology===
-The forms beginning with ''I'' or ''Y'' from {{etyl|la|es}} {{term|ire|īre|lang=la}}, present active infinitive of {{term|eo|eō|lang=la}}; the forms beginning with ''V'' from {{term|vadere|vādere|lang=la}}, present active infinitive of {{term|vado|vādō|lang=la}}; the forms beginning with ''F'' from the corresponding forms of {{term|sum|sum|lang=la}}.
+The forms beginning with ''I'' or ''Y'' from {{etyl|la|es}} {{term/t|la|īre}}, present active infinitive of {{term/t|la|eō}}; the forms beginning with ''V'' from {{term/t|la|vādere}}, present active infinitive of {{term/t|la|vādō}}; the forms beginning with ''F'' from the corresponding forms of {{term/t|la|sum}}.
 
 ===Verb===
 {{es-verb|-|ir|pres=voy|pret=fui|part=ido}}
