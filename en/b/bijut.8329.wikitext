@@ -1,7 +1,7 @@
 ==Volapük==
 
 ===Etymology===
-From {{etyl|fr|vo}} {{term|bijou||jewel|lang=fr}} + ''{{l|vo|-t}}'' added on (to avoid ending the noun in a vowel).
+{{borrowing|fr|bijou||jewel|lang=vo}} {{suffix||t|lang=vo}} added on (to avoid ending the noun in a vowel).
 
 ===Pronunciation===
 * {{IPA|[biˈʃut]|lang=vo}}, {{X-SAMPA|[bi"Sut]}}
@@ -15,24 +15,27 @@ From {{etyl|fr|vo}} {{term|bijou||jewel|lang=fr}} + ''{{l|vo|-t}}'' added on (to
 {{vo-decl-noun}}
 
 ====Derived terms====
-* [[bijutakasät]]
-* [[bijutated]]
-* [[bijutavob]]
-* [[bijutahivoban]]
-* [[bijutajivoban]]
-* [[bijutavoban]]
-* [[bijutel]]
-* [[bijutelik]]
-* [[bijutik]]
-* [[bijutiselidöp]]
-* [[bijutül]]
-* [[bijutülabogil]]
-* [[bijutülahitedan]]
-* [[bijutülajitedan]]
-* [[bijutülated]]
-* [[bijutülatedan]]
-* [[hibijutel]]
-* [[jibijutel]]
+{{der-top}}
+* {{l|vo|bijutakasät}}
+* {{l|vo|bijutated}}
+* {{l|vo|bijutavob}}
+* {{l|vo|bijutahivoban}}
+* {{l|vo|bijutajivoban}}
+* {{l|vo|bijutavoban}}
+* {{l|vo|bijutel|gloss=jeweller}}
+* {{l|vo|bijutelik}}
+* {{l|vo|bijutik}}
+{{der-mid}}
+* {{l|vo|bijutiselidöp}}
+* {{l|vo|bijutül|gloss=jewellery}}
+* {{l|vo|bijutülabogil}}
+* {{l|vo|bijutülahitedan}}
+* {{l|vo|bijutülajitedan}}
+* {{l|vo|bijutülated}}
+* {{l|vo|bijutülatedan}}
+* {{l|vo|hibijutel}}
+* {{l|vo|jibijutel}}
+{{der-bottom}}
 
 [[eo:bijut]]
 [[mg:bijut]]
