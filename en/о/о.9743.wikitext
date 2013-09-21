@@ -26,6 +26,9 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''onŭ''.
 
 ==Old Church Slavonic==
 
+===Etymology===
+From {{etyl|sla-pro|cu}} {{term/t|sla-pro|*o(b)}}, from {{etyl|ine-pro|cu}} {{term/t|ine-pro|*h₃ebhi}}.
+
 ===Preposition===
 {{cu-prep}}
 
@@ -60,21 +63,29 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''onŭ''.
 ===Pronunciation===
 * {{audio|Ru-о.ogg|Audio}}
 
-===Letter===
+===Etymology 1===
+====Letter====
 {{head|ru|letter|lower case||upper case|О}}
 
 # The sixteenth letter of the Russian [[Cyrillic]] alphabet.
 # The Roman letter [[O]], [[o]].
 
-====Usage notes====
+=====Usage notes=====
 Its Russian name is '''о''' (ō) and in stressed syllables it has the sound of the long '''o''' in '''''o'''rphan''. In unstressed positions, it is pronounced as a [[schwa]], like the '''o''' in ''m'''o'''ther''. (Unstressed Russian '''о''' is pronounced the same as unstressed Russian '''а'''.)
 
-====See also====
+=====See also=====
 * Previous letter: [[н#Russian|н]]
 * Next letter: [[п#Russian|п]]
 
-===Preposition===
-'''о''', [[об]] ''(before vowels)'', [[обо]] ''(before some difficult consonant clusters such as '''''мн-''''' and '''''вс-''''')''
+===Etymology 2===
+From {{etyl|sla-pro|ru}} {{term/t|sla-pro|*o(b)}}, from {{etyl|ine-pro|ru}} {{term/t|ine-pro|*h₃ebhi}}.
+
+====Alternative forms====
+* {{l|ru|об}} {{qualifier|before vowels}}
+* {{l|ru|обо}} {{qualifier|before some difficult consonant clusters such as ''мн-'' and ''вс-''}}
+
+====Preposition====
+{{head|ru|preposition}}
 
 # ''(+ [[prepositional case]])'': [[about]], [[of]], [[on]]
 #:* {{lang|ru|Они́ [[говорить|говоря́т]] обо [[я#Russian|мне́]]}} — ''They are talking about me.''
@@ -82,10 +93,7 @@ Its Russian name is '''о''' (ō) and in stressed syllables it has the sound of 
 # ''(+ [[accusative case]])'': [[against]], [[upon]]
 #:* {{lang|ru|[[опираться|опира́ться]] о [[стена|сте́ну]]}} — ''to lean against the wall''
 
-[[Category:Russian prepositions]]
-[[Category:ru:Letter names]]
-[[Category:ru:Cyrillic letter names]]
-[[Category:ru:Latin letter names]]
+{{catlangcode|ru|Letter names|Cyrillic letter names|Latin letter names}}
 
 ----
 
