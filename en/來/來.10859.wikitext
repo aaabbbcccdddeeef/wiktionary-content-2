@@ -33,12 +33,68 @@ It is shaped like corn or wheat (similar to [[禾]]), symbolizing the coming of 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=人06}}
+{{ja-kanji|grade=uc|rs=來00|style=ky|shin=来}}
 
-# {{defn|lang=ja|sort=人06}}
+# [[black]]
+
+====Usage notes====
+Not used in modern Japanese.  The [[shinjitai]] character {{l|ja|来}} is used instead.
 
 ====Readings====
-* {{ja-readings|on=らい (rai)|kun=[[くる]] (kuru)}}
+{{ja-readings
+|goon=[[らい]] (rai)
+|kanon=[[らい]] (rai)
+|kun=[[くる|く-る]] (ku-ru), [[きたる|きた-る]] / [[きたる|き-たる]] (kita-ru / ki-taru)
+}}
+
+====Compounds====
+{{attention|ja|Compounds need substantial expansion.}}
+{{der-top|Compounds}}
+* [[招來]] ([[しょうらい]], ''[[shōrai]]'')
+* [[來日]]
+* [[來月]]
+* [[來年]]
+* [[外來語]]
+* [[來世]]
+{{der-mid}}
+* [[來歴]]
+* [[來賓]]
+* [[來迎]]
+* [[來週]]
+{{bottom}}
+
+===Etymology 1===
+From {{etyl|zhx|ja|sort=らい}} {{term|sc=Hani|來}}.
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ra.i/|[ɽäi]}}
+
+====Prefix====
+{{ja-pos|k|prefix|rom=rai|hira=らい}}
+
+# [[next]], [[coming]] (week, year, etc.)
+#: {{usex|lang=ja|[[來年#Japanese|'''來'''年]]、[[來週#Japanese|'''來'''週]]|tr='''らい'''ねん、'''らい'''しゅう<br/>''[[rainen#Japanese|'''rai'''nen]], [[raishū#Japanese|'''rai'''shū]]''|t='''next''' year, '''next''' week}}
+#: {{usex|lang=ja|[[來週#Japanese|'''來'''週]][[月曜日#Japanese|月曜日]]に[[会う|会いましょう]]。|tr='''らい'''しゅうげつようびにあいましょう。<br/>'''''Rai'''shū Getsuyōbi ni aimashō.''|t=Let's meet Monday '''next'''. / Let's meet this '''coming''' Monday.}}
+
+====Suffix====
+{{ja-pos|k|suffix|rom=rai|hira=らい}}
+
+# [[since]], [[in]] (a span of time)
+#: {{usex|lang=ja|三年'''來'''あれを見ていない。|tr=さんねん'''らい'''あれをみていない。<br/>''Sannen'''rai''' are o mite inai.''|t=I haven't seen that '''in''' three years / '''since''' three years ago.}}
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic]] verb roots in Japanese.  This developed into [[来る|''kuru'']] in modern Japanese.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ku/|[kɯᵝ]}}
+
+====Verb====
+{{ja-verb|k|type=3|hira=く|rom=ku}}
+
+# {{context|lang=ja|sort=く|obsolete}} to approach ones position from a remote location: to [[come]]
+#: Developed into {{l|ja|来る|tr=[[くる]], ''[[kuru#Japanese|kuru]]''}} in modern Japanese.
 
 ----
 
