@@ -1,10 +1,10 @@
 ==Japanese==
 
 ===Etymology 1===
-{{kanji readings tab|開|あ|sort=あく|yomi=kun}}
+{{ja-kanjitab|あ|sort=あく|yomi=kun}}
 
 ====Verb====
-{{ja-verb|type=1|tr=intrans|hira=あく}}
+{{ja-verb|type=1|tr=intrans|あく}}
 
 # to [[open]]
 #: {{usex|何'''が'''開く。|tr=[something]'''が'''あく。<br/>[something]'''''ga''' aku.''|t=[something] opens.|lang=ja}}
@@ -14,13 +14,13 @@
 The passive, causative, and volitional of あく are never used.
 
 =====Conjugation=====
-{{ja-go-ku|開|あ|a}}
+{{ja-go-ku|あ}}
 
 ===Etymology 2===
-{{kanji readings tab|開|ひら|sort=ひらく|yomi=kun}}
+{{ja-kanjitab|ひら|sort=ひらく|yomi=kun}}
 
 ====Verb====
-{{ja-verb|type=1|tr=both|hira=ひらく}}
+{{ja-verb|type=1|tr=both|ひらく}}
 
 # to [[open]], [[lift]], [[uncover]], [[unpack]]
 #:{{usex|何'''が'''開く。|tr=[something]'''が'''ひらく。<br/>[something]'''''ga''' hiraku.''|t=[something] opens.|lang=ja}}
@@ -29,7 +29,7 @@ The passive, causative, and volitional of あく are never used.
 # to [[start]], [[open]] (a store)
 
 =====Conjugation=====
-{{ja-go-ku|開|ひら}}
+{{ja-go-ku|ひら}}
 
 [[Category:1000 Japanese basic words|ひらく]]
 
