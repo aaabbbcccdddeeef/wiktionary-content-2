@@ -1,5 +1,5 @@
 ==Japanese==
-{{kanji readings tab|最|さい|近|きん|yomi=on}}
+{{ja-kanjitab|さい|きん|yomi=on}}
 
 ===Etymology===
 {{prefix|最|近|lang=ja|tr1=sai|t1=most|tr2=kin|t2=close|sort=きん}}
@@ -11,7 +11,7 @@
 * {{homophones|lang=ja|細菌}}
 
 ===Noun===
-{{ja-noun|hira=さいきん}}
+{{ja-noun|さいきん}}
 
 # the {{l|en|latest}}; the most [[recent]]
 
@@ -20,7 +20,7 @@ Computer Term
 * {{ja-l|最近稼動|さいきんかどう|saikin kadō}} ''n.'' recent activity
 
 ===Adverb===
-{{ja-pos||adverb|hira=さいきん}}
+{{ja-pos|さいきん|adverb}}
 
 # [[nowadays]]
 # [[recently]]
