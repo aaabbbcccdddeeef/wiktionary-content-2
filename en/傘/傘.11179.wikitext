@@ -22,31 +22,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=かさ|rom=kasa|count=本}}
-
-# [[umbrella]], [[parasol]]
-#* 傘を[[差す]]
-#*: かさをさす
-#*: kasa o sasu
-#*: hold an umbrella
-#* 傘を[[広げる]]
-#*: かさをひろげる
-#*: kasa o hirogeru
-#*: open an umbrella
-#* 傘を[[すぼめる]]
-#*: かさをすぼめる
-#*: kasa o subomeru
-#*: close an umbrella
-#* 傘を[[巻く]]
-#*: かさをまく
-#*: kasa o maku
-#*: roll up an umbrella
-
-====Derived terms====
-* [[傘持ち]]
-* [[傘立て]]
-
 ===Kanji===
 {{ja-kanji|grade=7|rs=人10}}
 
@@ -54,7 +29,7 @@
 * {{ja-readings|on=[[さん]] ([[san]])|kun=[[かさ]] ([[kasa]])}}
 
 ====Compounds====
-* {{l|ja|日傘|gloss=parasol|tr=ひがさ, higasa|sc=Jpan}}
+* {{ja-r|日傘|gloss=parasol|ひがさ}}
 * [[傘屋]]
 * [[傘下]]
 * [[傘形碍子]]
@@ -64,12 +39,22 @@
 * [[傘寿]]
 * [[傘地]]
 * [[傘伐林]]
-* {{term|雨傘||umbrella|tr=あまがさ, amagasa|sc=Jpan|lang=ja}}
+* {{ja-r|雨傘|gloss=umbrella|あまがさ}}
+
+===Noun===
+{{ja-noun|かさ|count=本}}
+
+# [[umbrella]], [[parasol]]
+#: {{ja-usex|傘を差す|かさ を さす|hold an umbrella}}
+#: {{ja-usex|傘を広げる|かさ を ひろげる|open an umbrella}}
+#: {{ja-usex|傘をすぼめる|かさ を すぼめる|close an umbrella}}
+#: {{ja-usex|傘を巻く|かさ を まく|roll up an umbrella}}
+
+====Derived terms====
+* {{ja-r|傘持ち|かさもち|umbrella carrier}}
+* {{ja-r|傘立て|かさたて|umbrella stand}}
 
 [[Category:1000 Japanese basic words|かさ]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 傘]]
-
 ----
 
 ==Korean==
