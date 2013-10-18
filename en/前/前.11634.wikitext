@@ -52,16 +52,16 @@ From {{etyl|ojp|ja|sort=まえ}} as a compound of {{compound|lang=ja|sort=まえ
 * {{IPA|lang=ja|[ma̠e̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=まえ|hhira=まへ|rom=mae}}
+{{ja-noun|まえ|hhira=まへ}}
 
 # the [[front]]
 # the [[past]]
 
 ====Suffix====
-{{ja-pos|k|prefix|hira=まえ|rom=mae}} 
+{{ja-pos|まえ|suffix}} 
 
 # a [[portion]], an [[amount]]
-#: {{usex|lang=ja|六人'''前'''の御膳|tr=ろくにん'''まえ'''のごぜん<br/>''rokunin-'''mae''' no gozen''|t=a banquet '''for''' six people}}
+#: {{ja-usex|六人'''前'''の御膳|ろくにん-'''まえ''' の ごぜん|a banquet '''for''' six people}}
 
 ===Etymology 2===
 From {{etyl|ojp|ja|sort=さき}}.  Cognate with {{term|lang=ja|崎|tr=saki||a (geographical) point, where the land sticks out into the water}}.<ref name="KDJ"/>
@@ -72,7 +72,7 @@ From {{etyl|ojp|ja|sort=さき}}.  Cognate with {{term|lang=ja|崎|tr=saki||a (g
 * {{IPA|lang=ja|[sa̠ki]}}
 
 ====Noun====
-{{ja-pos|k|proper|hira=さき|rom=saki}}
+{{ja-noun|さき}}
 
 # {{alternate spelling of|lang=ja|sort=さき|先|dot=:}} the [[tip]] of something; [[ahead]], in [[front]]; [[before]], [[earlier]], the [[past]]; [[afterwards]], the [[future]]; the [[destination]] of a motion or action
 
@@ -88,26 +88,26 @@ From {{etyl|ltc|ja|sort=せん'}} {{term|lang=ltc|前|tr=dzen}}.  Compare modern
 * {{IPA|lang=ja|[zẽ̞ɴ]}}
 
 ====Counter====
-{{ja-pos|k|counter|hira=ぜん|rom=zen}}
+{{ja-pos|ぜん|counter}}
 
 # [[counter]] for irregularly shaped objects such as [[desk]]s, [[armrest]]s, and [[serving tray]]s
 # [[counter]] for ''[[kami]]'' and [[shrine]]s
 
 ====Prefix====
-{{ja-pos|k|prefix|hira=ぜん|rom=zen-}}
+{{ja-pos|ぜん|prefix}}
 
 # the [[last]], the [[previous]]
 # [[pre-]] (of an era)
 
 ===Etymology 4===
-Contraction of {{ja-l|御前||goze}}, itself a contraction of {{ja-l|御前||gozen}}, an [[honorific]] form of [[address]].<ref name="KDJ"/><ref name="DJR"/>
+Contraction of {{ja-r|御前|ごぜ}}, itself a contraction of {{ja-r|御前|ごぜん}}, an [[honorific]] form of [[address]].<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
 * {{IPA|lang=ja|[ze̞]}}
 
 ====Suffix====
-{{ja-pos|h|suffix|hira=ぜ|rom=ze}}
+{{ja-pos|ぜ|suffix}}
 
 # {{context|lang=ja|sort=せ'|rare}} an [[honorific]] [[suffix]] added to a noun denoting a person
 #: {{usex|lang=ja|尼'''前'''|tr=あま'''ぜ'''<br/>''ama'''ze'''''|t=('''honorable''') nun}}
@@ -116,8 +116,6 @@ Contraction of {{ja-l|御前||goze}}, itself a contraction of {{ja-l|御前||goz
 <references/>
 
 [[Category:1000 Japanese basic words|まえ]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 前]]
 ----
 
 ==Korean==
