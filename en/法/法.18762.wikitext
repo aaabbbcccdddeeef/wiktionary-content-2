@@ -23,14 +23,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=ほう|rom=hō}}
-
-# [[principle]]
-# [[law]]
-# [[method]]
-# (''Buddhist'') [[dharma]]
-
 ===Kanji===
 {{ja-kanji|grade=4|rs=水05}}
 
@@ -41,7 +33,7 @@
 
 ====Compounds====
 {{top3}}
-* {{l|ja|法号}} ({{l|ja|ほうごう}}, ''[[hōgō]]''): a [[dharma]] [[name]]
+* {{ja-r|法号|ほうごう|gloss=a [[dharma]] [[name]]}}
 * {{l|ja|法案}}
 * {{l|ja|法印}}
 * {{l|ja|法衣}}
@@ -81,14 +73,25 @@
 * {{l|ja|乗法}}
 * {{l|ja|定法}}
 * {{l|ja|民法}}
-* {{l|ja|寸法}} ({{l|ja|すんぽう}}, ''[[sunpō]]''): [[dimension]], [[size]]
+* {{ja-r|寸法|すんぽう|gloss=[[dimension]], [[size]]}}
 {{bottom}}
 
 ====Synonyms====
 * {{l|ja|灋}} [[law]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 法]]
+===Noun===
+{{ja-noun|ほう}}
+
+# [[principle]]
+# [[law]]
+# [[code]] of law
+# [[method]]
+# [[etiquette]] 
+# {{context|Buddhism|lang=ja|sort=ほう}} [[dharma]]
+# {{context|grammar|lang=ja|sort=ほう}} [[mood]]
+
+===References===
+* {{R:Shogakukan}}
 ----
 
 ==Korean==
