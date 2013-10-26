@@ -1,15 +1,15 @@
 ==Japanese==
-{{ja-kanjitab|に|ほん|ご}}
+{{ja-kanjitab|にち|k1=に|ほん|ご|yomi=on}}
 
 ===Etymology===
-{{suffix|日本|語|lang=ja|t2=language|t1=にほん, ''Nihon'', Japan|sort=にほんご}}
+{{suffix|日本|tr1=Nihon|t1=Japan|語|tr2=go|t2=language|lang=ja||sort=にほんご}}.
 
 ===Pronunciation===
 * {{IPA|lang=ja|/ni.ho.ɴ.go/|[nihõ̞ŋgo̞]|[nihõ̞ŋŋo̞]}}
 * {{audio|Ja-nihongo.ogg|Audio}}
 
 ===Proper noun===
-{{ja-pos|にほんご|proper}}
+{{ja-pos|proper|hira=にほんご}}
 
 # the [[Japanese]] [[language]]
 
@@ -41,11 +41,11 @@
 # the [[Japanese]] language
 
 ====Synonyms====
-* [[日文]]
-* [[日語]]
+* {{l|cmn|日文|tr=Rìwén}}
+* {{l|cmn|[[日语]]/[[日語]]|tr=Riyǔ}}
 
 ====Usage notes====
-* Like ''[[Nihongo]]'' in English, [[日本語]] Rìběnyǔ is usually restricted to linguistic and language learning contexts, whilst [[日文]] Rìwén and [[日語]] Riyǔ are more commonly used in written and conversational situations respectively.
+* Like {{term|Nihongo|lang=en}} in English, {{term|日本語|tr=Rìběnyǔ|lang=cmn}} is usually restricted to linguistic and language learning contexts, whilst {{term|日文|tr=Rìwén}} and {{term|[[日语]]/[[日語]]|tr=Riyǔ|lang=cmn}} are more commonly used in written and conversational situations respectively.
 
 [[Category:cmn:Languages in traditional script|日00日本語]]
 
