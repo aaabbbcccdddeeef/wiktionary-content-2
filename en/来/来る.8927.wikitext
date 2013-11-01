@@ -1,12 +1,12 @@
 ==Japanese==
-{{ja-kanjitab|来}}
 
 ===Etymology 1===
+{{ja-kanjitab|く|o1=る|yomi=kun}}
 
 ====Verb====
-{{ja-verb|kk|type=3|hira=くる|rom=kuru|kyu=來る}}
+{{ja-verb|type=3|くる|kyu=來る}}
 
-# To [[come]] - to move from further away to nearer to (toward the speaker/writer - as opposed to [[行く]])
+# To [[come]] (toward the speaker/writer).
 
 =====Conjugation=====
 {{ja-kuru|||}}
@@ -21,12 +21,19 @@
 * [[来る日]] ([[くるひ]], [[kuruhi]])
 
 ===Etymology 2===
+{{ja-kanjitab|きた|o1=る|yomi=kun}}
 
 ====Verb====
-{{ja-verb|kk|type=1|tr=intrans|hira=きたる|rom=kitaru}}
+{{ja-verb|type=1|tr=intrans|きたる}}
 
-# [[come]], [[arrive]]
-#: {{usex|'''来る'''（きたる）年が皆さん一人びとりにとり、よい年であるよう祈っています|tr='''きたる'''としがみなさんひとりびとりにとり、よいとしであるよういのっています。<br/>'''''kitaru''' toshi ga minasan hitori bitori ni tori, yoi toshi de aru yō inotte imasu.''|t=''I pray that '''next''' year will be a good year for each of you.|lang=ja|ref=<ref>"天皇誕生日 皇居で一般参賀", NHK, 23 December 2011</ref>}}
+# To [[come]], to [[arrive]].
+#: {{usex|'''来る'''年が皆さん一人びとりにとり、よい年であるよう祈っています。|tr='''きたる'''としがみなさんひとりびとりにとり、よいとしであるよういのっています。<br/>'''''Kitaru''' toshi ga minasan hitori bitori ni tori, yoi toshi de aru yō inotte imasu.''|t=I pray that '''next''' year [the '''coming''' year] will be a good year for each of you.|lang=ja|ref=<ref>"天皇誕生日 皇居で一般参賀", NHK, 23 December 2011</ref>}}
+
+=====Conjugation=====
+{{ja-go-ru|来|きた}}
+
+===See also===
+* {{l|ja|来す|tr=kitasu}}
 
 ===References===
 <references/>
