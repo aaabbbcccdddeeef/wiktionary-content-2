@@ -42,7 +42,27 @@ It is common to use {{lang|ja|する}} after certain nouns to indicate that the 
 * {{ja-l|す||su}}
 
 =====Conjugation=====
-{{ja-suru|||}}
+{{ja-verbconj-auto|lemma=|kana=
+|imperfective=し
+|continuative=し
+|terminal=する
+|attributive=する
+|hypothetical=すれ
+|imperative=せよ|imp1_note=<small><sup>1</sup></small>
+|imperative2=しろ|imp2_note=<small><sup>2</sup></small>
+|passive=させる
+|causative=させる<br>さす
+|potential=できる
+|volitional=しよう
+|negative=しない
+|negative_continuative=せず
+|formal=します
+|perfective=した
+|conjunctive=して
+|hypothetical_conditional=すれば
+|notes=<small><sup>1</sup> Written imperative
+<br><sup>2</sup> Spoken imperative</small>
+}}
 
 ===Etymology 2===
 Reading for various kanji spellings.
