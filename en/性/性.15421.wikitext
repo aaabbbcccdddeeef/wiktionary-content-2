@@ -25,31 +25,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|hira=せい|rom=sei}}
-
-# [[sex]], [[gender]]
-# {{context|grammar|lang=ja}} [[gender]]
-
-====Synonyms====
-* [[性別]] ([[せいべつ]], [[seibetsu]])
-
-{{ja-noun|k|hira=さが|rom=saga}}
-
-* one's [[nature]]
-* [[characteristic]]
-
-====Synonyms====
-* [[本能]] ([[ほんのう]], [[hon'nō]])
-
-===Suffix===
-{{ja-pos|k|suffix|hira=せい|rom=-sei}}
-
-# [[-ity]], [[-ness]], the nature of quality or something
-
-{{ja-pos|k|suffix|hira=しょう|rom=-shō}}
-# nature of something
-
 ===Kanji===
 {{ja-kanji|grade=5|rs=心05}}
 
@@ -92,9 +67,33 @@
 * {{S-JIS|90AB}}
 * {{JIS|402D}}
 
+===Noun===
+{{ja-noun|せい}}
+
+# [[sex]], [[gender]]
+# {{context|grammar|lang=ja}} [[gender]]
+
+====Synonyms====
+* {{ja-r|性別|せいべつ}}
+
+{{ja-noun|さが}}
+
+* one's [[nature]]
+* [[characteristic]]
+
+====Synonyms====
+* {{ja-r|本能|ほんのう}}
+
+===Suffix===
+{{ja-pos|せい|suffix}}
+
+# [[-ity]], [[-ness]], the nature of quality or something
+
+{{ja-pos|しょう|suffix}}
+# nature of something
+
+
 [[Category:ja:Grammar|せい]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 性]]
 ----
 
 ==Korean==
