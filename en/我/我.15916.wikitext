@@ -55,6 +55,24 @@ Alternatively, the character for a rake-like tool, used as a phonetic element (n
 
 ==Japanese==
 
+====Kanji====
+{{ja-kanji|grade=6|rs=戈03}}
+
+# {{defn|lang=ja|sort=戈03}}
+
+=====Readings=====
+* {{ja-readings|on=[[が]] (ga)|kun=[[われ]] (ware), [[わ]] (wa)}}
+
+=====Compounds=====
+* [[我我]], [[我々]]
+* [[我慢]]
+* [[我儘]], [[我が儘]]
+* [[我家]], [[我が家]]
+* [[我国]], [[我が国]]
+* [[我輩]], [[我が輩]]
+* [[我利我利]]
+* [[我等]][[我ら]]
+
 ===Etymology 1===
 The short form of {{term|我|tr=ware|lang=ja}}.
 
@@ -65,7 +83,7 @@ The short form of {{term|我|tr=ware|lang=ja}}.
 * {{IPA|[wa]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=わ|rom=wa|hidx=わ}}
+{{ja-pos|わ|pronoun}}
 
 # first-person personal pronoun; [[I]], [[me]]
 #* {{RQ:Taketori Monogatari}}
@@ -85,7 +103,7 @@ The long form of {{term|我|tr=wa|lang=ja}}. Compound of {{term|我|tr=wa|lang=j
 * {{IPA|[waɽe]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=われ|rom=ware|hidx=われ}}
+{{ja-pos|われ|pronoun}}
 
 # first person personal pronoun; [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|14|3384}}
@@ -109,7 +127,7 @@ Eastern dialect. Cognate with {{term|我|tr=ware|lang=ja}}.
 * {{IPA|[wanu]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=わぬ|rom=wanu|hidx=わぬ}}
+{{ja-pos|わぬ|pronoun}}
 
 # first person personal pronoun; [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|14|3476}}
@@ -127,7 +145,7 @@ Eastern dialect. Cognate with {{term|我|tr=ware|lang=ja}}.
 * {{IPA|[waɽo]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=わろ|rom=waro|hidx=わろ}}
+{{ja-pos|わろ|pronoun}}
 
 # first person personal pronoun; [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|20|4343}}
@@ -143,7 +161,7 @@ The short form of {{term|我|tr=are|lang=ja}}.
 * {{IPA|[a]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=あ|rom=a|hidx=あ}}
+{{ja-pos|あ|pronoun}}
 
 # first-person personal pronoun; [[I]], [[me]]
 #* {{RQ:Man'yōshū|14|3456}}
@@ -167,7 +185,7 @@ The long form of {{term|我|tr=a|lang=ja}}. Compound of {{term|我|tr=a|lang=ja}
 * {{IPA|[aɽe]|lang=ja}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=あれ|rom=are|hidx=あれ}}
+{{ja-pos|あれ|pronoun}}
 
 # first-person personal pronoun; [[I]], [[me]]
 #* {{RQ:Man'yōshū|5|808}}
@@ -184,24 +202,6 @@ The long form of {{term|我|tr=a|lang=ja}}. Compound of {{term|我|tr=a|lang=ja}
 #*: 霜上尓 安良礼多婆之里 伊夜麻之尓 '''安礼'''波麻為許牟 年緒奈我久 <sub>古今未詳</sub>
 #* {{RQ:Genji Monogatari|Yume no Ukihashi}}
 #*: [...]と、聞こえ動かして、几帳のもとに、おし寄せたてまつりたれば、'''あれ'''にもあらず、居給へるけはい[...]
-
-====Kanji====
-{{ja-kanji|grade=6|rs=戈03}}
-
-# {{defn|lang=ja|sort=戈03}}
-
-=====Readings=====
-* {{ja-readings|on=[[が]] (ga)|kun=[[われ]] (ware), [[わ]] (wa)}}
-
-=====Compounds=====
-* [[我我]], [[我々]]
-* [[我慢]]
-* [[我儘]], [[我が儘]]
-* [[我家]], [[我が家]]
-* [[我国]], [[我が国]]
-* [[我輩]], [[我が輩]]
-* [[我利我利]]
-* [[我等]][[我ら]]
 
 ===References===
 * {{R:Nippo Jisho}}
