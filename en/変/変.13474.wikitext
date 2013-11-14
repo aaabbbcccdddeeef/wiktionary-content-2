@@ -19,7 +19,7 @@ Japanese shinjitai {{Han simp|變|f=䜌|t=亦}}
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=4|rs=夊06}}
+{{ja-kanji|grade=4|rs=夊06|style=s}}
 # used to denote flat accidentals of musical notes.
 ====Readings====
 * {{ja-readings|on=[[へん]] (''hen'')|kun=[[かわる]] (''kawaru''), [[かえる]] (''kaeru'')}}
@@ -45,25 +45,20 @@ Japanese shinjitai {{Han simp|變|f=䜌|t=亦}}
 {{bottom}}
 
 ===Adjectival noun===
-{{ja-adj|s|decl=na|hira=へん|rom=hen|kyu=變}}
+{{ja-adj|infl=na|へん|kyu=變}}
 
 # [[strange]]
-#* '''変な'''[[人]]
-#*: '''へんな'''[[ひと]]
-#*: '''''hen na''' [[hito]]''
-#*: a '''strange''' [[person]]
+#: {{ja-usex|'''変'''な人|'''へん''' な ひと|a '''strange''' person}}
 
 ====Inflection====
-{{ja-na|変|へん|hen}}
+{{ja-na|へん}}
 
 ===Noun===
-{{ja-noun|s|hira=へん|rom=hen|kyu=變}}
+{{ja-noun|へん|kyu=變}}
 
 # a [[change]]
 
 [[Category:CJKV characters simplified differently in Japan and China|變1]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 変]]
 ----
 
 ==Korean==
