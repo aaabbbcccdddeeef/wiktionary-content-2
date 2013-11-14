@@ -28,34 +28,6 @@
 
 ==Japanese==
 
-===Adjectival noun===
-{{ja-adj|k|decl=na|hira=べん|rom=ben|hidx=へん'}}
-
-# [[convenient]]
-
-====Inflection====
-{{ja-na|便|べん|ben}}
-
-===Noun===
-{{ja-noun|k|hira=びん|rom=bin}}
-
-# a [[flight]]
-# [[mail]]
-# (bus) [[service]]
-
-{{ja-noun|k|hira=べん|rom=ben}}
-# a [[convenience]]
-# [[facilities]]
-# [[bowel movement]]
-
-{{ja-noun|k|hira=よすが|rom=yosuga}}
-: ''This word more commonly written as ''[[縁]].
-# [[way]], [[means]]
-# [[reminder]]
-
-====Synonyms====
-* [[便利]]
-
 ===Kanji===
 {{ja-kanji|grade=4|rs=人07}}
 
@@ -136,8 +108,41 @@
 * [[便の有り次第]]
 * [[便る]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 便]]
+===Etymology 1===
+====Adjectival noun====
+{{ja-adj|infl=na|べん}}
+
+# [[convenient]]
+
+=====Inflection=====
+{{ja-na|べん}}
+
+====Noun====
+{{ja-noun|べん}}
+# a [[convenience]]
+# [[facilities]]
+# [[bowel movement]]
+
+=====Synonyms=====
+* {{sense|convenient}} {{l/ja|便利}}
+
+===Etymology 2===
+====Noun====
+{{ja-noun|びん}}
+
+# a [[flight]]
+# [[mail]]
+# (bus) [[service]]
+
+===Etymology 3===
+====Noun====
+{{ja-noun|よすが}}
+# [[way]], [[means]]
+# [[reminder]]
+
+=====Synonyms=====
+* {{l/ja|縁}}
+
 ----
 
 ==Korean==
