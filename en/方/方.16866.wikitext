@@ -54,47 +54,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|k|count=|hira=ほう|rom=hō}}
-
-# [[direction]], [[way]], [[side]]
-
-{{ja-noun|k|count=|hira=かた|rom=kata}}
-
-# [[person]] (a polite version of [[人]] ([[ひと]], [[hito]]))
-#: [[あの]]'''方'''。
-#:: [[あの]]'''かた'''。
-#:: ''[[ano|Ano]] '''kata'''.''
-#::: [[that|That]] '''person'''. (polite)
-#: あの'''方'''は[[どなた]]ですか。
-#:: あの'''かた'''は[[どなた]]ですか。
-#:: Ano '''kata''' wa [[donata]] desu ka.
-#::: Who is that '''man'''? (formal)
-
-====Synonyms====
-* [[人]] ([[ひと]]) {{qualifier|plain}}
-
-===Suffix===
-{{ja-pos|k|suffix|hira=かた|rom=-kata}}
-
-# [[way]], [[method]] (of doing)
-
-===Etymology===
-
-pe > ɸe > we > e.
-
-===Suffix===
-{{ja-pos|k|suffix|hhira=へ|rom=-e|hira=え}}
-# a suffix expressing location, direction, or time
-
-====Derived terms====
-
-* [[古]]
-* [[行方]]
-
-====See also====
-* [[法]]
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=方00}}
 
@@ -103,22 +62,52 @@ pe > ɸe > we > e.
 
 ====Compounds====
 {{top3}}
-* {{l|ja|sc=Jpan|方正|tr=ほうせい, hōsei}}
-* {{l|ja|sc=Jpan|方形|tr=ほうけい, hōkei}}
-* {{l|ja|sc=Jpan|方式|tr=ほうしき, hōshiki}}
+* {{ja-r|方正|ほうせい}}
+* {{ja-r|方形|ほうけい}}
+* {{ja-r|方式|ほうしき}}
 {{mid3}}
-* {{l|ja|sc=Jpan|方術|tr=ほうじゅつ, hōjutsu}}
-* {{l|ja|sc=Jpan|方法|tr=ほうほう, hōhō}}
-* {{l|ja|sc=Jpan|方面|tr=ほうめん, hōmen}}
+* {{ja-r|方術|ほうじゅつ}}
+* {{ja-r|方法|ほうほう}}
+* {{ja-r|方面|ほうめん}}
 {{mid3}}
-* {{l|ja|sc=Jpan|方針|tr=ほうしん, hōshin}}
-* {{l|ja|sc=Jpan|夕方|tr=ゆうがた, yūgata}}
-* {{l|ja|sc=Jpan|味方|tr=みかた, mikata}}
+* {{ja-r|方針|ほうしん}}
+* {{ja-r|夕方|ゆうがた}}
+* {{ja-r|味方|みかた}}
 {{bottom}}
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 方]]
+===Noun===
+{{ja-noun|ほう}}
 
+# [[direction]], [[way]], [[side]]
+
+{{ja-noun|かた}}
+
+# [[person]] (a polite version of [[人]] ([[ひと]], [[hito]]))
+#: {{ja-usex|あの'''方'''。|あの '''かた'''。|That '''person'''. (polite)}}
+#: {{ja-usex|あの'''方'''はどなたですか。|あの '''かた''' は どなた です か。|Who is that '''gentleman'''? (formal)}}
+
+====Synonyms====
+* {{ja-r|人|ひと}} {{qualifier|plain}}
+
+===Suffix===
+{{ja-pos|かた|suffix}}
+
+# [[way]], [[method]] (of doing)
+
+===Etymology===
+
+pe > ɸe > we > e.
+
+===Suffix===
+{{ja-pos|え|suffix|hhira=へ}}
+# a suffix expressing location, direction, or time
+
+====Derived terms====
+* [[古]]
+* [[行方]]
+
+====See also====
+* [[法]]
 ----
 
 ==Korean==
