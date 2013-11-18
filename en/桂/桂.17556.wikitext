@@ -51,7 +51,7 @@
 * {{l|ja|桂園|tr=[[けいえん]], ''[[Keien]]''}}: [[pseudonym]] for {{term|lang=ja|香川景樹|tr=Kagawa Kageki}}, a poet during the late [[w:Edo period|Edo Period]]
 * {{l|ja|桂園一枝|tr=[[けいえんいっし]], ''[[Keien Isshi]]''}}: a private [[anthology]] of poetry printed towards the end of the [[w:Edo period|Edo Period]]
 * {{l|ja|桂園派|tr=[[けいえんは]], ''[[Keienha]]''}}: a style of {{term|lang=ja|和歌|tr=waka}} poetry, founded by {{term|lang=ja|香川景樹|tr=Kagawa Kageki}}
-* {{l|ja|桂科|tr=[[かつらか]], ''[[katsuraka]]''}}: the ''{{taxlink|Cercidiphyllaceae|family}}'' [[family]], containing only the {{taxlink|Cercidiphyllum|genus}} [[genus]], containing only the two [[species]] {{taxlink|Cercidiphyllum japonicum|species}} and {{taxlink|Cercidiphyllum magnificum|species}}, both commonly called {{term|lang=ja|桂|tr=katsura}}
+* {{l|ja|桂科|tr=[[かつらか]], ''[[katsuraka]]''}}: the [[Cercidiphyllaceae]] [[family]], containing only the {{taxlink|Cercidiphyllum|genus|noshow=1}} [[genus]], containing only the two [[species]] {{taxlink|Cercidiphyllum japonicum|species|noshow=1}} and {{taxlink|Cercidiphyllum magnificum|species|noshow=1}}, both commonly called {{term|lang=ja|桂|tr=katsura}}
 * {{l|ja|桂花}}, {{l|ja|桂華|tr=[[けいか]], ''[[keika]]''}}: {{qualifier|metaphor}} the [[moon]], from a Chinese legend of trees growing on the moon
 * {{l|ja|桂冠|tr=[[けいかん]], ''[[keikan]]''}}: a [[laurel]] [[wreath]]
 * {{l|ja|桂冠詩人|tr=[[けいかんしじん]], ''[[keikan shijin]]''}}: a [[poet]] [[laureate]]
@@ -89,8 +89,8 @@ From {{etyl|ojp|ja|sort=かつら}}.  Originally a compound of {{compound|lang=j
 ====Noun====
 {{ja-noun|k|hira=かつら|rom=katsura}}
 
-# the [[katsura]] tree, {{taxlink|Cercidiphyllum japonicum|species}}, also called the Japanese Judas tree
-# less commonly, the smaller {{taxlink|Cercidiphyllum  magnificum|species}} tree, more specifically called the {{l|ja|広葉桂}} or {{term|lang=ja|ヒロハカツラ|tr=''[[hiroha katsura]]''||broadleaf katsura}}.
+# the [[katsura]] tree, {{taxlink|Cercidiphyllum japonicum|species|noshow=1}}, also called the Japanese Judas tree
+# less commonly, the smaller {{taxlink|Cercidiphyllum  magnificum|species|noshow=1}} tree, more specifically called the {{l|ja|広葉桂}} or {{term|lang=ja|ヒロハカツラ|tr=''[[hiroha katsura]]''||broadleaf katsura}}.
 # a tree on the [[moon]], from a Chinese legend that the phases of the moon were caused by [[Lauraceae]] trees budding, blossoming, then dropping their flowers and leaves again as if in accelerated seasons
 # [[julienne]]d [[raw]] [[daikon]], used as a [[garnish]] for [[sashimi]]
 # alternate word for {{term|lang=ja|肉桂|tr=nikkei||the cinnamon or cassia tree}} or {{term|lang=ja|桂皮|tr=keihi||cinnamon or cassia bark}}
@@ -118,7 +118,7 @@ From {{etyl|ojp|ja|sort=めかつら}}.  Alternate spelling for {{term|lang=ja|�
 ====Noun====
 {{ja-noun|k|hira=めかつら|rom=mekatsura}}
 
-# the [[cinnamon]] tree, or other closely related trees in [[genus]] {{taxlink|Cinnamomum|genus}}
+# the [[cinnamon]] tree, or other closely related trees in [[genus]] {{taxlink|Cinnamomum|genus|noshow=1}}
 
 =====Synonyms=====
 * {{l|ja|肉桂|tr=[[にっけい]], ''[[nikkei]]''}}
