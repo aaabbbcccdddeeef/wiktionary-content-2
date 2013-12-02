@@ -19,39 +19,81 @@ Japanese shinjitai {{Han simp|劍|f=僉|t=㑒}}; compare [[険]], [[検]], [[験
 ----
 
 ==Japanese==
-[[File:Jian (sword).jpg|thumb|Tsurugi with [[scabbard]].]]
+{{Wikipedia|lang=ja}}
+[[File:Jian (sword).jpg|thumb|250px|{{lang|ja|剣}}: A ''ken'' or ''tsurugi'' with {{term|lang=ja|鞘|tr=saya||[[scabbard]]}}.]]
+{{Wikipedia|Sword}}
+{{Wikipedia|Tsurugi (sword)}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀08|style=s|kyu=劍}}
 
-===Noun===
+====Readings====
+{{ja-readings
+|goon=[[こん]] (kon) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[けん]] (ken)
+|kun=[[つるぎ]] (tsurugi)
+|nanori=[[けんざき]] (kenzaki), [[まやか]] (mayaka)
+}}
+
+===Etymology 1===
+From {{etyl|ltc|ja|sort=けん}} {{term|lang=lzh|劍|tr=kjæmH||sword}}.  Compare modern {{etyl|cmn|-}} traditional {{term|lang=cmn|劍}} and simplified {{term|lang=cmn|剑|tr=jiàn||sword, dagger, saber}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[kẽ̞ɴ]}}
+
+====Noun====
 {{ja-noun|k|hira=けん|rom=ken}}
 
-# [[sword]]; [[longsword]]
+# [[sword]]
+#: This term refers to swords in general.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|聖剣|せいけん|seiken}}: a [[holy]] or [[sanctified]] blade or sword
+* {{ja-l|剣士|けんし|kenshi}}: a [[swordsman]] or [[fencer]]
+* {{ja-l|剣術|けんじゅつ|kenjutsu}}: [[technique]]s of [[swordsmanship]]; [[kendo]], the Japanese [[martial art]] of the [[sword]]
+* {{ja-l|剣道|けんどう|kendō}}: [[kendo]], the Japanese [[martial art]] of the [[sword]]
+* {{ja-l|木剣|ぼっけん|bokken}}: a [[wooden]] [[sword]]
+* {{ja-l|剣客|けんかく|kenkaku}}: a [[swordsman]] or [[fencer]]
+* {{ja-l|剣豪|けんごう|kengō}}: a master [[fencer]] or great [[swordsman]]
+{{der-bottom}}
+
+===Etymology 2===
+{{unk.|ja}}.  Also read as ''tsuruki'' in {{etyl|ojp|ja|sort=つるぎ}} contexts.<ref name="KDJ"/><ref name="DJR">{{R:Daijirin}}</ref>
+
+A surface analysis suggests that this might be a compound of ''tsuru'' (variously {{ja-l|釣る}} or {{ja-l|吊る}}, meaning “to hang, as at one's side”) + ''ki'', but there is no clear [[etymon]] for the ''ki'' portion.  One possibility would be {{term|lang=ja|牙||fang}}, read as ''kiba'' in modern {{etyl|ja|-}} but also appearing as ''ki'' in {{etyl|ojp|-}} contexts.  Such usage might parallel the combined {{term|lang=en|tooth}} and {{term|lang=en|blade}} meanings of the term ''ha'', spelled more specifically as {{term|lang=ja|歯||tooth}} and {{term|lang=ja|刃||blade}}, with these two senses listed as [[cognate]]s in Japanese dictionaries.<ref name="KDJ"/><ref name="DJR"/>
+
+More tentative suggestions have been connections to Austronesian, such as {{etyl|tl|-}} {{term|lang=tl|suligi||dart; short spear}}, but such possibilities seem only [[speculative]] at present.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|つ|るぎ}}<ref name="DJR"/>
+* {{ja-accent-common|o|つる|ぎ}}<ref name="DJR"/>
+* {{IPA|lang=ja|[t͡sɯᵝɾ̠ɯᵝŋi]}}
 
 ====Noun====
 {{ja-noun|k|hira=つるぎ|rom=tsurugi}}
 
-# sword; longsword
+# [[sword]]
+#: This term usually refers more specifically to double-edged swords, as opposed to the single-edged {{term|lang=ja|刀|tr=katana}}.<ref name="KDJ"/>
 
-====Readings====
-* {{ja-readings
-|goon={{l|ja|こん}} (kon) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kanon={{l|ja|けん}} (ken)
-|kun={{l|ja|つるぎ}} (tsurugi)}}
+=====Synonyms=====
+* {{ja-l|諸刃|もろは|moroha}}: a double-edged sword
 
-====Compounds====
-* {{l|ja|聖剣}} ({{l|ja|せいけん}}, seiken): a [[holy]] or [[sanctified]] blade or sword
-* {{l|ja|剣士}} ({{l|ja|けんし}}, kenshi)
-* {{l|ja|剣術}} ({{l|ja|けんじゅつ}}, kenjutsu)
-* {{l|ja|剣道}} ({{l|ja|けんどう}}, kendō)
-* {{l|ja|木剣}} ({{l|ja|ぼっけん}}, bokken)
-* {{l|ja|刀身}} ({{l|ja|とうしん}}, tōshin)
-* {{l|ja|剣豪}} ({{l|ja|けんごう}}, kengō): master fencer
-* {{l|ja|剣客}} ({{l|ja|けんかく}}, kenkaku)
+===Etymology 3===
+{{unk.|ja}}.  Japanese names often apply readings from other words to [[allude]] to different meanings.
 
-====Synonyms====
-* {{l|ja|刃}} ({{l|ja|な}}, ''na''): a [[blade]]
+====Pronunciation====
+* {{IPA|lang=ja|[ma̠ja̠ka̠]}}
+
+====Proper noun====
+{{ja-pos|k|proper|hira=まやか|rom=Mayaka}}
+
+# {{given name|lang=ja|female}}
+
+===References===
+<references/>
 
 [[Category:CJKV characters simplified differently in Japan and China|劍1]]
 [[Category:ja:Swords|けん]]
