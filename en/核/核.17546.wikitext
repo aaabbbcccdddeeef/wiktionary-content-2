@@ -32,13 +32,13 @@
 * {{ja-readings|on=[[かく]] (kaku)|kun=[[さね]] (sane)}}
 
 ====Compounds====
-* {{term|原子核||[[atomic nucleus]]|tr=[[げんしかく]], [[genshi kaku]]|lang=ja|sc=Jpan}}
-* {{term|細胞核||[[cell nucleus]]|tr=[[さいぼうかく]], [[saibō kaku]]|lang=ja|sc=Jpan}}
-* {{term|核実験||[[nuclear]] [[test]]|tr=[[かくじっけん]], [[kaku jikken]]|lang=ja|sc=Jpan}}
-* {{term|核兵器||[[nuclear]] [[weapons]]|tr=[[かくへいき]], [[kaku heiki]]|lang=ja|sc=Jpan}}
+* {{ja-r|原子核|gloss=[[atomic nucleus]]|げんし かく}}
+* {{ja-r|細胞核|gloss=[[cell nucleus]]|さいぼう かく}}
+* {{ja-r|核実験|gloss=[[nuclear]] [[test]]|かく じっけん}}
+* {{ja-r|核兵器|gloss=[[nuclear]] [[weapons]]|かく へいき}}
 
 ===Noun===
-{{ja-noun|k|hira=かく|rom=kaku}}
+{{ja-noun|かく}}
 
 # [[atomic nucleus]]
 # {{context|algebra|lang=ja|sort=かく}} [[kernel]]
@@ -46,11 +46,8 @@
 # [[cell nucleus]]
 
 ====Synonyms====
-* {{sense|atomic nucleus}} {{term|原子核|tr=[[げんしかく]], [[genshi kaku]]|lang=ja|sc=Jpan}}
-* {{sense|cell nucleus}} {{term|細胞核|tr=[[さいぼうかく]], [[saibō kaku]]|lang=ja|sc=Jpan}}
-
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 核]]
+* {{sense|atomic nucleus}} {{ja-r|原子核|げんし かく}}
+* {{sense|cell nucleus}} {{ja-r|細胞核|さいぼう かく}}
 ----
 
 ==Korean==
