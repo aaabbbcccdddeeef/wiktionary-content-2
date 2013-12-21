@@ -5,25 +5,23 @@
 From earlier consonant stem {{term|食ぶ|tab-}}; became vowel stem tabe- when the [[終止形|conclusive]] was overtaken by the [[連体形|attributive]] form which ultimately resulted in the shift from [[下二段活用|lower bigrade]] to [[下一段活用|lower monograde]] conjugation class. From {{term|賜ぶ|tab-|receive}}.
 
 ===Verb===
-{{ja-verb|kk|type=2|hira=たべる|rom=taberu|hidx=たへる}}
+{{ja-verb|type=2|たべる}}
 
-# (humble) to eat or drink
+# to [[eat]]
+#: {{ja-usex|今日は、寿司を食べに銀座に行きます。|きょう は、 すし を たべ に ぎんざ に いきます。|I'll go to Ginza today to eat sushi.}}
+#: {{ja-usex|箸で食べます。|はし で たべます。|I eat with chopsticks.}}
+# {{context|archaic|humble|lang=ja|sort=たべる}} to eat or drink
 #* {{RQ:Nippo Jisho|594}}
 #*: '''Tabe''', uru, eta. タベ, ブル, ベタ (食べ, ぶる, べた) 食う, または, 飲む.
-# to [[eat]]
-#: 今日は、寿司を食べに銀座に行きます。
-#:: I'll go to Ginza today to eat sushi.
-#: 箸で食べます。
-#:: I eat with chopsticks.
 
 ====Synonyms====
-* {{term|食む|||tr=[[はむ]], [[hamu]]|lang=ja}}
-* {{term|食う|||tr=[[くう]], [[kuu]]|lang=ja}} {{qualifier|male, vulgar}}
-* {{term|まぼる|||tr=[[maboru]]|lang=ja}}
-* {{term|召し上がる|||tr=[[めしあがる]], [[meshiagaru]]|lang=ja}} {{qualifier|honorific}}
+* {{ja-r|召し上がる|めしあがる}} {{qualifier|honorific}}
+* {{ja-r|食う|く.う|}} {{qualifier|male, vulgar}}
+* {{ja-r|食む|はむ}} {{qualifier|of animals}}
+* {{ja-r|まぼる}} {{qualifier|obsolete}}
 
 ====Conjugation====
-{{ja-ichi|食べ|たべ|tabe}}
+{{ja-ichi|たべ}}
 
 ===References===
 * {{R:Nippo Jisho}}
