@@ -28,19 +28,6 @@
 
 ==Japanese==
 
-===Counter===
-{{ja-pos|k|counter|hira=たば|rom=-taba}}
-
-# counter for [[bundle]]s
-#* それは一束十円の値段でした
-#*: それはひとたばじゅうえんのねだんでした
-#*: ''sore wa hitotaba jūen no nedan deshita''
-#*: They cost 10 yen a bundle
-
-{{ja-pos|k|counter|hira=そく|rom=-soku}}
-
-# large bundles
-
 ===Kanji===
 {{ja-kanji|grade=4|rs=木03}}
 
@@ -66,28 +53,33 @@
 * [[束になって]] (''taba ni natte''): in a bunch
 {{bottom}}
 
+===Counter===
+{{ja-pos|たば|counter}}
+
+# counter for [[bundle]]s
+#: {{ja-usex|それは一束十円の値段でした|それ は ひとたば じゅう えん の ねだん でした|They cost 10 yen a bundle}}
+
+{{ja-pos|そく|counter}}
+
+# large bundles
+
 ===Noun===
-{{ja-noun|k|hira=たば|rom=taba}}
+{{ja-noun|たば}}
 
 # [[bundle]], [[bunch]], [[batch]], [[sheaf]], [[coil]]
-#* 彼は古い手紙を束にした
-#*: かれはふるいてがみをたばにした
-#*: ''kare wa furui tegami o taba ni shita''
-#*: He bound old letters into a bundle
+#: {{ja-usex|彼は古い手紙を束にした|かれ は ふるい てがみ を たば に した|He bound old letters into a bundle}}
 
-{{ja-noun|k|hira=つか|rom=tsuka}}
+{{ja-noun|つか}}
 # [[handbreadth]], [[bundle]]
 
 ===Suffix===
-{{ja-pos|k|suffix|hira=たば|rom=-taba|hidx=たば}}
+{{ja-pos|たば|suffix}}
 
 # [[bundle]]
 
-{{ja-pos|k|suffix|hira=そく|rom=-soku}}
+{{ja-pos|そく|suffix}}
 # {{context|mathematics|lang=ja|sort=そく}} [[lattice]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 束]]
 ----
 
 ==Korean==
