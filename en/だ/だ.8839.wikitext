@@ -37,37 +37,11 @@ This word is a [[enclitic]] just like other [[particle]]s. It is classified as [
 * [[じゃ]] (Some western dialects. Also used in archaic speech in fictional characters)
 
 =====Conjugation=====
-{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #fffff9; border: 1px #aaa solid; border-collapse: collapse;"
-|+ <big>'''Conjugation of だ'''</big>
-|-
-! bgcolor="#faf9b2" colspan="3" | '''Stem Forms'''
-|-
-| bgcolor="#ffffec" | '''Imperfective''' (未然形) || では|| ''de wa''
-|-
-| bgcolor="#ffffec" | '''Continuative''' (連用形) || で || ''de''
-|-
-| bgcolor="#ffffec" | '''Terminal''' (終止形)     || [[だ]] <br>[[です]] <br>[[でございます]] || ''[[da]]''<br>''[[desu]]''<br>''[[de gozaimasu]]''
-|-
-| bgcolor="#ffffec" | '''Attributive''' (連体形)  || である || ''de aru''
-|-
-| bgcolor="#ffffec" | '''Classical Imperfective''' (已然形)<br>'''Hypothetical''' (仮定形) || なら || ''nara''
-|-
-| bgcolor="#ffffec" | '''Imperative''' (命令形)   || N/A || N/A
-|-
-! bgcolor="#faf9b2" colspan="3" | '''Key Constructions'''
-|-
-| bgcolor="#ffffec" | '''Volitional'''           || だろう<br>でしょう<Br> でございましょう|| ''darō<Br>deshō<br>de gozaimashō''
-|-
-| bgcolor="#ffffec" | '''Negative'''             || [[ではない]]<Br>[[じゃない]]<br><Br>[[ではありません]]<br>[[じゃありません]]<br><br>ではございません|| ''de wa nai<Br>[[ja nai]]<Br><Br>de wa arimasen <Br>ja arimasen<Br><Br>de wa gozaimasen
-|-
-| bgcolor="#ffffec" | '''Negative Continuative'''|| ではなくて <br>じゃなくて || ''de wa nakute<br>ja nakute
-|-
-| bgcolor="#ffffec" | '''Perfective'''           || だった<br>[[でした]]<Br>でございました || ''datta<br>[[deshita]]<br>de gozaimashita''
-|-
-| bgcolor="#ffffec" | '''Conjunctive'''          || で || ''de''
-|-
-| bgcolor="#ffffec" | '''Hypothetical Conditional'''|| ならば<br>であれば || ''naraba<Br>de areba''
-|}
+{{ja-verbconj|だ||では|de wa||で|de||だ|da||である|de aru||なら|nara||-|-||-|-||-|-||-|-||だろう|darō||ではない<br>じゃない&sup1;|de wa nai<br>ja nai&sup1;||ではなくて<br>じゃなくて&sup1;|de wa nakute<br>ja nakute&sup1;||[[です]]|desu||だった|datta||で|de||ならば<br>であれば|naraba<br>de areba|<small>&sup1; Colloquial contraction</small>}}
+
+=====See also=====
+*{{l|ja|です|tr=''desu''}}
+*{{l|ja|ございます|tr=''gozaimasu''}}
 
 [[Category:Japanese auxiliary verbs|た']]
 
