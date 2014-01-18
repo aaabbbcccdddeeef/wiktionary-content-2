@@ -513,14 +513,20 @@ Compare Italian {{term|due|lang=it}}
 
 ==Welsh==
 
+===Etymology===
+From {{etyl|cel-pro|cy}} {{term/t|cel-pro|*dubus||black}} (compare Old Irish {{term|dub|lang=sga}}, Irish/Scottish Gaelic {{term|dubh|lang=ga}}), from {{etyl|ine-pro|sga}} {{term/t|ine-pro|*dʰewbʰ-||black}}.
+
+===Pronunciation===
+* {{a|North Wales}} {{IPA|[dɨː]|lang=cy}}
+* {{a|South Wales}} {{IPA|[diː]|lang=cy}}
+
 ===Adjective===
-{{head|cy|adjective|formal plural|duon|comparative|duach|superlative|duaf}}
+{{cy-adj|ach|pl=duon}}
 
 # [[black]]
-#: Mae ganddo fo fwstash '''du''' - ''He has a black mustache''
+#: {{usex|Mae ganddo fo fwstash '''du'''.|t=He has a black mustache.|lang=cy}}
 
-====Mutation====
-
+===Mutation===
 {{cy-mut-d|u}}
 
 [[ang:du]]
