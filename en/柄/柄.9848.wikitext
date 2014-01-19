@@ -47,10 +47,10 @@ Change in meaning from {{term|lang=ja|枝|tr=e</i>, historically <i>ye||branch, 
 * {{IPA|lang=ja|[e̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=え|rom=e}}
+{{ja-noun|え}}
 
 # a [[handle]], a [[grip]], a [[shaft]], a [[haft]]
-#: {{usex|lang=ja|大鎌の'''柄'''|tr=おおがまの'''え'''<br/>''ōgama no '''e'''''|t=a [[snath]], a [[scythe]] shaft}}
+#: {{ja-usex|大鎌の'''柄'''|おおがま の '''え'''|a [[snath]], a [[scythe]] shaft}}
 
 =====Synonyms=====
 * {{l|ja|取っ手}}, {{l|ja|取手}}, {{l|ja|把手|tr={{l|ja|とって}}, ''{{l|ja|sc=Latn|totte}}''}}
@@ -92,7 +92,7 @@ Alteration of ''kabi''.
 * {{l|ja|穎}}
 
 ====Noun====
-{{ja-noun|k|hira=かい|rom=kai|hhira=かひ}}
+{{ja-noun|かい|hhira=かひ}}
 
 # see ''kabi'' above
 
@@ -104,7 +104,7 @@ From {{etyl|ojp|ja|sort=から}}.  Origin of particle {{term|lang=ja|から|tr=k
 * {{IPA|lang=ja|[ka̠ɺ̠a̠]}}
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=から|rom=-kara}}
+{{ja-pos|から|suffix}}
 
 # of the same [[lineage]]
 # the inherent [[quality|qualities]] or [[characteristic]]s of a thing
@@ -122,7 +122,7 @@ The {{term|lang=en|lineage}} sense is often found embedded in other words, such 
 {{der-bottom}}
 
 ====Noun====
-{{ja-noun|k|hira=から|rom=kara}}
+{{ja-noun|から}}
 
 # {{context|lang=ja|sort=から|archaic}} {{qualifier|by extension from the ''qualities'' sense}} an [[origin]] or [[source]], a [[reason]] for something
 
@@ -140,7 +140,7 @@ In light of the {{term|lang=en|stem}} sense, probably derived semantically from 
 * {{l|ja|幹}}
 
 ====Counter====
-{{ja-pos|k|counter|hira=から|rom=kara}}
+{{ja-pos|から|counter}}
 
 # used to count items with [[shaft]]s
 
@@ -152,7 +152,7 @@ In light of the {{term|lang=en|stem}} sense, probably derived semantically from 
 # the [[shaft]], [[haft]], or [[handle]] of a [[tool]]
 
 ====Prefix====
-{{ja-pos|k|prefix|hira=から|rom=kara-}}
+{{ja-pos|から|prefix}}
 
 # describes something with a [[stem]], [[shaft]], or [[handle]]
 
@@ -175,7 +175,7 @@ Alteration of ''kara'', “qualities, characteristics”.  Originally only found
 * {{IPA|lang=ja|[ga̠ɺ̠a̠]|[ŋa̠ɺ̠a̠]}}
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=がら|rom=-gara}}
+{{ja-pos|がら|suffix}}
 
 # the inherent [[quality|qualities]] or [[characteristic]]s of a thing
 # a [[shape]], [[pattern]], or [[design]]
@@ -192,14 +192,14 @@ Alteration of ''kara'', “qualities, characteristics”.  Originally only found
 {{der-bottom}}
 
 ====Noun====
-{{ja-noun|k|hira=がら|rom=gara}}
+{{ja-noun|がら}}
 
 # one's [[physical]] [[shape]] or [[build]]
-#: {{usex|lang=ja|'''柄'''の大きいやつだな。|tr='''がら'''のおおきいやつだな。<br/>'''''Gara''' no ōkii yatsu da na.''|t=Wow, he's sure '''built''' big.}}
+#: {{ja-usex|'''柄'''の大きいやつだな。|'''がら''' の おおき.い やつ だ な。|Wow, he's sure '''built''' big.}}
 # one's [[character]], [[personality]], or [[temperament]]
-#: {{usex|lang=ja|'''柄'''の悪い人|tr='''がら'''のわるいひと<br/>'''''gara''' no warui hito''|t=a person with a bad '''character'''}}
+#: {{ja-usex|'''柄'''の悪い人|'''がら''' の わるい ひと|a person with a bad '''character'''}}
 # a [[pattern]] or [[design]], such as on [[cloth]]
-#: {{usex|lang=ja|あの'''柄'''は派手過ぎるよ。|tr=あの'''がら'''ははですぎるよ。<br/>''Ano '''gara''' wa hade sugiru yo.''|t=That '''pattern''' is way too colorful.}}
+#: {{ja-usex|あの'''柄'''は派手過ぎるよ。|あの '''がら''' は はで-すぎる よ。|That '''pattern''' is way too colorful.}}
 
 =====Synonyms=====
 * {{sense|build}} {{l|ja|体付き}}, {{l|ja|体付|tr={{l|ja|からだつき}}, ''{{l|ja|sc=Latn|karadatsuki}}''}}; {{l|ja|なり|tr=''{{l|ja|sc=Latn|nari}}''}}
@@ -218,7 +218,7 @@ Both likely derive from verb {{term|lang=ja|付く|tr=tsuku||to set to, to attac
 * {{IPA|lang=ja|[t͡sɯᵝka̠]}}
 
 ====Noun====
-{{ja-noun|k|hira=つか|rom=tsuka}}
+{{ja-noun|つか}}
 
 # the [[hilt]] of a [[sword]] or [[knife]], or the [[grip]] of a [[bow]] or [[staff]]
 # the portion of a [[brush]] [[pen]] held in the hand
@@ -239,7 +239,7 @@ Both likely derive from verb {{term|lang=ja|付く|tr=tsuku||to set to, to attac
 * {{l|ja|銑}}, {{l|ja|釻}}
 
 ====Noun====
-{{ja-noun|k|hira=つく|rom=tsuku}}
+{{ja-noun|つく}}
 
 # the [[nock]] on either end of a [[bow#Noun|bow]] where the [[bowstring]] rests
 # a [[bent]] [[nail]] or other kind of [[spike]] attached to or driven through an iron [[staff]] or a [[truncheon]] to make the weapon more dangerous
@@ -261,12 +261,10 @@ The {{term|lang=en|grip}} sense is not spelled using the alternative forms, and 
 * {{IPA|lang=ja|[ho̞zo̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=ほぞ|rom=hozo}}
+{{ja-noun|ほぞ}}
 
 # a [[tenon]], as in a [[mortise]] and tenon [[carpentry]] [[join]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 柄]]
 ----
 
 ==Korean==
