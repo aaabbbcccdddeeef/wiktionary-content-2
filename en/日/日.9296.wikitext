@@ -122,7 +122,7 @@ From {{etyl|ojp|ja|sort=ひ}} {{IPAchar|/hi<sub>1</sub>/}}.  This is distinct fr
 * {{IPA|lang=ja|/hi/|[çi]}}
 
 ====Noun====
-{{ja-noun|k|hira=ひ|rom=hi}}
+{{ja-noun|ひ}}
 
 # [[sun]]
 # [[day]]
@@ -147,7 +147,7 @@ From {{etyl|ojp|ja|sort=ひ}} {{IPAchar|/hi<sub>1</sub>/}}.  This is distinct fr
 : In compounds, this is often realized simply as {{IPAchar|/u/}}, {{IPAchar|[ɯᵝ]}}.
 
 ====Noun====
-{{ja-noun|k|hira=ふ|rom=fu}}
+{{ja-noun|ふ}}
 
 # {{context|lang=ja|sort=ふ|obsolete}} [[day]]
 
@@ -218,7 +218,7 @@ The use of ''ka'' for the number of days or day of the month is somewhat irregul
 * {{IPA|lang=ja|/ke/|[ke̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=け|rom=ke}}
+{{ja-noun|け}}
 
 # {{context|lang=ja|sort=け|obsolete}} [[days]]
 #: Only used in plural contexts.  Never used to indicate a single day.
@@ -229,8 +229,13 @@ The use of ''ka'' for the number of days or day of the month is somewhat irregul
 
 [[Category:1000 Japanese basic words|ひ]]
 [[Category:ja:Time|ひ]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 日]]
+
+===Etymology 5===
+
+====Suffix====
+{{ja-pos|にち|suffix}}
+# [[-th]]
+#: {{ja-usex|２７日|じゅう しち-にち|the 27th}}
 
 ----
 
