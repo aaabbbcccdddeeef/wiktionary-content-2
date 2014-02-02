@@ -161,10 +161,10 @@ From {{etyl|la|eo}} {{term|duo|lang=la}} or {{etyl|lt|eo}} {{term|du|lang=lt}}, 
 * {{l|de|Du}}
 
 ===Etymology===
-From {{etyl|goh|de}} {{term|du|lang=goh}} (akin to Old Saxon {{term|thu|lang=osx}} and English {{term|thou|lang=en}}), itself from {{etyl|gem-pro|de}} {{term/t|gem-pro|*þū}}, from {{etyl|ine-pro|de}} {{term/t|ine-pro|*túh₂}}.
-
+From {{etyl|goh|de}} {{term|du|lang=goh}} (akin to Old Saxon {{term|thu|lang=osx}} and English {{term|thou|lang=en}}), itself from 
 ===Pronunciation===
-* {{qualifier|standard}} {{IPA|/duː/|lang=de}}
+* {{qualifier|standard}} {{IPA|/duː/|lang=de}}{{etyl|gem-pro|de}} {{term/t|gem-pro|*þū}}, from {{etyl|ine-pro|de}} {{term/t|ine-pro|*túh₂}}.
+
 :* {{audio|De-du.ogg|audio}}
 :* {{rhymes|uː|lang=de}}
 * {{qualifier|colloquially in unstressed position}} {{IPA|/də/|lang=de}}
@@ -174,11 +174,15 @@ From {{etyl|goh|de}} {{term|du|lang=goh}} (akin to Old Saxon {{term|thu|lang=osx
 
 # [[you]] {{qualifier|singular familiar}}
 
+====Usage notes====
+As a simplified rule one can say that ''du'' is used among friends, relatives, and young people up to 25~30 years. ''Du'' is always used to address children up to 14~16 years, as well as gods, animals, and other creatures.
+
 ====Inflection====
 {{de-decl-personal pronouns}}
 
-====Usage notes====
-Used among friends, relatives and between young people up through university age or so; used to address children one does not know up to about age 16; used to address animals.
+In contemporary German, the genitive forms of personal pronouns are restricted to formal style and are unfrequent even there. They may be used
+* for the genitive object still found in a handful of verbs: ''Er erbarmte sich '''deiner''.''' – "He had mercy on you". (Colloquially one would either use the dative case, or a prepositional object, or replace the verb with another.) 
+* after the preposition {{term|statt|lang=de}} ("instead of, in place of"): ''Ich kam statt '''deiner''' in die Mannschaft.'' – "I joined the team in your place." (This sounds antiquated, for which reason ''an deiner Statt'' or ''an deiner Stelle'' is preferable. Nota bene: ''deiner'' here is not a genitive, but a possessive pronoun!) 
 
 ====Derived terms====
 * {{l/de|duzen}}
