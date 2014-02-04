@@ -53,21 +53,177 @@
 
 ====Readings====
 {{ja-readings
-|on=[[が]] (ga), [[げ]] (ge)
-|kun=[[きば]] (kiba), [[は]] (ha)
+|goon=[[げ]] (ge)
+|kanon=[[が]] (ga)
+|kun=[[きば]] (kiba), [[き]] (ki), [[かび]] (kabi) {{non-joyo-reading}}, [[は]] (ha) {{non-joyo-reading}}
 }}
 
-===Noun===
-{{ja-noun|k|hira=きば|rom=kiba}}
+===Etymology 1===
+From {{etyl|ojp|ja|sort=き}}.  Appears in the ''[[w:Man'yōshū|Man'yōshū]]''.<ref name="DJR">{{R:Daijirin}}</ref>
 
-# [[tooth]], [[fang]], [[tusk]]
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ki]}}
 
-====See also====
-* {{l|ja|門歯|tr=[[もんし]], ''[[monshi]]''}}: [[incisor]] tooth
-* {{l|ja|犬歯|tr=[[けんし]], ''[[kenshi]]''}}: [[canine tooth]]
-* {{l|ja|小臼歯|tr=[[しょうきゅうし]], ''[[shōkyūshi]]''}}: [[premolar]]
-* {{l|ja|臼歯|tr=[[きゅうし]], ''[[kyūshi]]''}}: [[molar]]
-* {{l|ja|象牙|tr=[[ぞうげ]], ''[[zōge]]''}}: [[elephant]] [[tusk]], [[ivory]]
+====Noun====
+{{ja-noun|き}}
+
+# {{context|lang=ja|sort=き|obsolete}} [[fang]], [[tusk]], [[tooth]] {{qualifier|particularly the [[canine]]}}
+#* {{lang|ja|'''牙'''喫建怒而}}<ref>{{RQ:Manyoshu|9|1809}}</ref>
+#*: {{lang|ja|'''き'''かみたけびて}}
+#*: '''''ki''' kami takebite''
+#*:: ferociously gnashing '''teeth'''
+
+=====Usage notes=====
+Although this term is no longer used in isolation, it does persist in certain compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|牙噛む|きがむ|kigamu}}: to [[gnash]] one's [[teeth]]
+* {{ja-l|牙骨|きぼね|kibone}}: the [[jawbone]], the [[mandible]], the [[lower jaw]]
+{{der-bottom}}
+
+===Etymology 2===
+Compound of {{etyl|ojp|ja|sort=きば}} elements {{compound|lang=ja|sort=きば|牙|tr1=ki|t1=fang, tusk|歯|tr2=ha|t2=tooth}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  {{rendaku2|sort=きば|ha|ba}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|a|き|ば}}<ref name="DJR"/>
+* {{IPA|lang=ja|[kiba̠]}}
+
+====Noun====
+{{ja-noun|きば}}
+
+# [[fang]], [[tusk]], [[tooth]] {{qualifier|particularly the [[canine]]s}}
+# {{context|lang=ja|sort=きば|falconry}} [[dog]] {{qualifier|primarily used for counting hunting dogs}}
+
+=====Usage notes=====
+This is the most common term for {{term|lang=en|fang}} in modern Japanese.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|牙上面|きばじょうめん|kiba jōmen}}: [[ivory]] or [[boar]] [[tusk]] used to [[rub]] the [[surface]] of a [[print]] in order to bring out the [[gloss]]
+* {{ja-l|牙筍貝|きばたけがい|kiba takegai}}: a kind of [[auger snail]] of [[family]] {{taxlink|Terebridae|family}}
+* {{ja-l|牙獐|きばのろ|kiba noro}}: the “fanged ''noro''”, a kind of [[roe deer]] of [[genus]] {{taxlink|Capreolus|genus}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-l|牙を噛む|きばをかむ|kiba o kamu}}: “to bite one's fangs” → to [[gnash]] one's [[teeth]]
+* {{ja-l|牙を研ぐ|きばをとぐ|kiba o togu}}: “to sharpen one's fangs” → to [[prepare]] to [[hurt]] one's [[opponent]].  Compare [[sharpen one's claws]]
+* {{ja-l|牙を鳴らす|きばをならす|kiba o narasu}}: “to clash one's fangs” → to [[gnash]] one's [[teeth]]; to get [[angry]]; to [[bare]] one's [[fang]]s
+* {{ja-l|牙を剥く|きばをむく|kiba o muku}}: “to bare one's fangs”
+* {{ja-l|牙あるものは角無し|きばあるものはつのなし|kiba aru mono wa tsuno nashi}}: “the one with fangs has no horns” → a [[metaphor]] for how no one is [[endow]]ed with every [[advantage]]
+{{der-bottom}}
+
+=====See also=====
+* {{ja-l|門歯|もんし|monshi}}: [[incisor]] tooth
+* {{ja-l|犬歯|けんし|kenshi}}: [[canine tooth]]
+* {{ja-l|小臼歯|しょうきゅうし|shōkyūshi}}: [[premolar]]
+* {{ja-l|臼歯|きゅうし|kyūshi}}: [[molar]]
+* {{ja-l|象牙|ぞうげ|zōge}}: [[elephant]] [[tusk]], [[ivory]]
+
+===Etymology 3===
+Cognate with, and probably the noun derivation of, verb {{term|lang=ja|黴びる|tr=kabiru||to go moldy}}, from the root idea of something [[sprout]]ing.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Used in the ''[[Kojiki]]''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠bi]}}
+
+====Noun====
+{{ja-noun|かび}}
+
+# {{context|lang=ja|sort=かび|obsolete}} a plant [[sprout]], a plant [[bud]]
+
+=====Derived terms=====
+* {{ja-l|葦牙|あしかび|ashikabi}}: a [[reed]] [[sprout]] or [[bud]]
+
+===Etymology 4===
+Non-standard alternate spelling for {{term|lang=ja|歯|tr=ha||tooth}}.<ref name="KDJ"/>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ha̠]}}
+
+====Noun====
+{{ja-noun|は}}
+
+# {{alternate spelling of|lang=ja|sort=は|歯|dot=:}} [[tooth]]
+
+===Etymology 5===
+From {{etyl|ltc|ja|sort=け'}} {{term|lang=ltc|牙|tr=ngæ}}.  Compare modern {{etyl|nan|-}} {{term|lang=nan|牙|tr=ge<sup>5</sup>}}.
+
+The ''[[呉音#Japanese|goon]]'' reading, so probably the reading as first imported into Japanese.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ge̞]}}
+
+====Noun====
+{{ja-noun|げ}}
+
+# an [[animal]]'s [[fang]] or [[tusk]]
+# an [[elephant]]'s [[tusk]]: [[ivory]]
+# a [[tooth]]
+
+=====Usage notes=====
+The {{term|lang=en|tooth}} meaning is much more commonly expressed using the word {{term|lang=ja|歯|tr=ha}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|牙の笏|げのしゃく|ge no shaku}}: an [[ivory]] [[mace]] or [[scepter]], used by certain social classes in ancient Japan
+* {{ja-l|牙歯|げし|geshi}}: teeth, tusks, or fangs
+* {{ja-l|牙軸|げじく|gejiku}}: the inner edge of a scroll around which the scroll is [[wound]], or an edge of a folding book to which pages are [[bound]], made of [[ivory]]
+* {{ja-l|牙床}}, {{ja-l|牙象|げしょう|geshō}}: a kind of [[cutout]] [[decorative]] [[carving]] technique for [[panel]]s, wherein the corners are left intact to reinforce the structure of the panel
+* {{ja-l|牙彫|げぼり|gebori}}: a [[carving]] made from a [[tusk]] or [[fang]], more specifically made of [[elephant]] [[ivory]]
+* {{ja-l|牙笏|げしゃく|geshaku}}: an [[ivory]] [[mace]] or [[scepter]], used by certain social classes in ancient Japan
+{{der-bottom}}
+
+===Etymology 6===
+From {{etyl|ltc|ja|sort=か'}} {{term|lang=ltc|牙|tr=ngæ}}.  Compare modern {{etyl|yue|-}} {{term|lang=yue|牙|tr=ngaa<sup>4</sup>}}.
+
+The ''[[漢音#Japanese|kan'on]]'' reading, so probably a later importation.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ga̠]}}
+
+====Affix====
+{{ja-pos|affix|が}}
+
+# an [[animal]]'s [[fang]] or [[tusk]]
+# an [[elephant]]'s [[tusk]]: [[ivory]]
+# a [[tooth]]
+
+=====Usage notes=====
+The ''ga'' reading is only used in compounds, and is never used in isolation.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|牙営|がえい|gaei}}: the [[headquarters]] of a general in a field camp
+* {{ja-l|牙音|がおん|gaon}}: a [[velar consonant]] {{qualifier|obsolete}}
+* {{ja-l|牙関緊急|がかんきんきゅう|gakan kinkyū}}: [[lockjaw]], a common [[symptom]] in the early stages of [[tetanus]]
+* {{ja-l|牙旗|がき|gaki}}: a [[flag]] raised at the site of an [[emperor]]'s or [[general]]'s field camp
+* {{ja-l|牙行|がこう|gakō}}: in China, a [[middleman]] or [[go-between]] in a [[commercial]] [[transaction]]
+* {{ja-l|牙山|がざん|Gazan}}: the city of [[w:Asan|Asan]], a [[port]] in [[w:South Korea|South Korea]]
+* {{ja-l|牙商|がしょう|gashō}}: a [[middleman]] or [[go-between]] in a [[commercial]] [[transaction]]
+* {{ja-l|牙城|がじょう|gajō}}: the [[keep]] or main [[residence]] within a [[castle]]; a [[headquarters]], a [[base]], a [[stronghold]]
+* {{ja-l|牙人|がじん|gajin}}: in China, a [[middleman]] or [[go-between]] in a [[commercial]] [[transaction]]
+* {{ja-l|牙銭|がせん|gasen}}: a [[fee]] or [[commission]] charged by a {{ja-l|牙行||gakō}}
+* {{ja-l|牙虫|がむし|gamushi}}: a [[water scavenger beetle]] of [[family]] {{taxlink|Hydrophilidae|family}}
+* {{ja-l|牙斧|がふ|gafu}}: a small [[axe]] or [[hatchet]] made from [[boar]] [[tusk]]
+* {{ja-l|牙保|がほ|gaho}}: a [[middleman]] or [[go-between]] in a [[commercial]] [[transaction]]
+* {{ja-l|牙保罪|がほざい|gahozai}}: the [[crime]] of [[fencing]] goods known to be [[stolen]]
+* {{ja-l|牙保犯|がほはん|gahohan}}: the [[crime]] of [[fencing]] goods known to be [[stolen]]
+* {{ja-l|牙門|がもん|gamon}}: a [[gate]] on which a [[general]]'s [[flag]] is flying; an army's [[headquarters]]
+* {{ja-l|牙籌|がちゅう|gachū}}: an [[abacus]]; more specifically, an [[ivory]] abacus
+* {{ja-l|牙籤}}, {{ja-l|牙籖|がせん|gasen}}: a small [[placard]] or [[label]] made of [[ivory]]; a small [[claw]]-shaped ivory [[clasp]] for holding a [[book]] closed
+* {{ja-l|牙纛|がとう|gatō}}: the [[flag]] of a [[general]]'s [[army]], the [[pole]] of which was traditionally decorated with [[ivory]] on the end
+* {{ja-l|牙儈|がかい|gakai}}: in China, a [[middleman]] or [[go-between]] in a [[commercial]] [[transaction]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 牙]]
