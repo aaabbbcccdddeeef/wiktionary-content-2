@@ -62,13 +62,16 @@
 ----
 
 ==Mandarin==
-{{zh-hanzi|啊}}
+{{zh-hanzi-box|啊}}
 
 ===Pronunciation===
-* {{audio|Zh-ā.ogg|audio}}
-* {{IPA|[ a˥˥ ]|lang=cmn}}
-* {{audio|Zh-a.ogg|audio}}
-* {{IPA|[ a ]|lang=cmn}}
+* {{audio|Zh-ā.ogg|audio (ā)}}
+* {{Pinyin-IPA|ā}}
+* {{audio|Zh-a.ogg|audio (a)}}
+* {{Pinyin-IPA|a}}
+* {{Pinyin-IPA|ǎ}}
+* {{Pinyin-IPA|á}}
+* {{Pinyin-IPA|à}}
 
 ===Hanzi===
 {{cmn-hanzi|pin=[[ā]] ([[a1]]), [[á]] ([[a2]]), [[ǎ]] ([[a3]]), [[à]] ([[a4]]), [[a]] ([[a5]])|wg=a<sup>1</sup>, a<sup>2</sup>, a<sup>3</sup>, a<sup>4</sup>, a}}
@@ -77,9 +80,25 @@
 {{cmn-interj|ts|pin=[[ā#Mandarin|ā]]|pint=a1|rs=口08}}
 
 # used by itself to express surprise; ah, oh, ha
-#: {{Hani|'''啊'''！我又赢了！}}
-#:: '''Ā'''! Wǒ yòu yíng le!
-#::: '''Ha'''! I've won again!
+#: {{usex|lang=cmn|'''啊'''！我又赢了！|tr='''Ā'''! Wǒ yòu yíng le!|t='''Ha'''! I've won again!|inline=0}}
+
+===Interjection===
+{{cmn-interj|ts|pin=[[ǎ#Mandarin|ǎ]]|pint=a3|rs=口08}}
+
+# (indicating puzzled surprise) [[what]]? [[oh]]? [[huh]]?
+#: {{usex|lang=cmn|'''啊'''！真有这事儿？|tr='''Ǎ'''! Zhēn yǒu zhè shìr?|t=What? Is that really so?|inline=0}}
+
+===Interjection===
+{{cmn-interj|ts|pin=[[á#Mandarin|á]]|pint=a2|rs=口08}}
+
+# (indicating doubt or questioning) [[what]]?, [[huh]]?, [[eh]]
+#: {{usex|lang=cmn|'''啊'''？你说什么？|tr='''Á'''? Nǐ shuō shénme?|t=Huh, what did you say?|inline=0}}
+
+===Interjection===
+{{cmn-interj|ts|pin=[[à#Mandarin|à]]|pint=a4|rs=口08}}
+
+# (indicating agreement/approval) [[ah]]
+#: {{usex|lang=cmn|'''啊'''，好吧。|tr='''À''', hǎo ba.|t=Well, OK.|inline=0}}
 
 ===Particle===
 {{cmn-particle|ts|pin=[[a#Mandarin|a]]|pint=a|rs=口08}}
@@ -94,8 +113,8 @@ Only used after words ending in ''-ng, ci, zi, si, chi, zhi, shi.'' See [[呀]] 
 * [http://internationalscientific.org/CharacterASP/CharacterEtymology.aspx?characterInput=%E5%95%8A internationalscientific.org]
 * [http://www.yellowbridge.com/chinese/wordsearch.php?searchMode=C&word=%E5%95%8A yellowbridge.com]
 
-[[Category:cmn:Beginning Mandarin|a1]]
-[[Category:Mandarin entries with audio links|a1]]
+[[Category:cmn:Beginning Mandarin|a]]
+[[Category:Mandarin entries with audio links|a]]
 
 ----
 
