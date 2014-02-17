@@ -12,7 +12,7 @@ ipu → iɸu → *iwu → iu. Medial /h/ regularly changed from [p] → [ɸ] →
 * [[云う]]
 
 ===Verb===
-{{ja-verb|type=1|いう|hhira=いふ}}
+{{ja-verb|type=1|いう|hhira=いふ|tr=trans}}
 
 # to [[say]], to [[tell]] somebody
 #* circa '''762''', ''Shōsōin Man'yōgana Monjo''
@@ -20,14 +20,17 @@ ipu → iɸu → *iwu → iu. Medial /h/ regularly changed from [p] → [ɸ] →
 #* circa '''890''', [[w:Taketori Monogatari|Taketori Monogatari]] (page 7)
 #*: 「おのが生さぬ子なれば、心にも従はずなんある」と'''言ひ'''て、月日過ぐす。
 #* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 6, page 84)
-#*: 「あなや」と'''いひ'''けれど、神鳴るさはぎにえ聞かざりけり。<br>私が'''言う'''ようにしなさい。<br>わたしが'''いう'''ようにしなさい。
-#*:: ''Watashi ga '''iu''' yō ni shinasai.''
-#*::: Do as I '''tell''' you.
+#*: 「あなや」と'''いひ'''けれど、神鳴るさはぎにえ聞かざりけり。
+#: {{ja-usex|私が'''言う'''ようにしなさい。|わたし が '''いう''' よう に しなさい。|Do as I '''tell''' you.}}
 # to [[call]], to [[name]] to [[give]] a name
 #* circa '''890''', [[w:Taketori Monogatari|Taketori Monogatari]] (page 3)
-#*: いまは昔、竹取の翁と'''いふ'''もの有けり。<br>この[[動物]]は[[日本語]]で何と言いますか。<br>この[[どうぶつ]]は[[にほんご]]でなんといいますか。
-#*:: ''Kono [[dōbutsu]] wa [[Nihongo]] de nan to '''iimasu''' ka?''
-#*::: What do you '''call''' this [[animal]] in [[Japanese]]?
+#*: いまは昔、竹取の翁と'''いふ'''もの有けり。
+#: {{ja-usex|この動物は日本語で何と言いますか。|この どうぶつ は ^にほんご で なん と い.い ます か。|What do you '''call''' this animal in Japanese?}}
+
+{{ja-verb|type=1|いう|hhira=いふ|tr=intrans}}
+
+# to [[cry]], to [[call]], for an animal to make a noise
+#: {{ja-usex|ニャーニャー言う猫|ニャーニャー いう ねこ|a mewing cat}}
 
 ====Derived terms====
 * [[言う迄もない]] (iu made mo nai)
