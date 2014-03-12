@@ -41,16 +41,35 @@
 {{rfc-header|Measure word|lang=cmn}}
 {{cmn-mw|s|pin=tou|pint=tou0|tra=頭|rs=大02}}
 
-# Prefix to noun that is used when the noun is a domestic animal.
+# Measure word for livestock
 #: ''我有两头猪。'' - ''I have two pigs.''
 
 ====Noun====
-{{cmn-noun|s|pin=tóu|pint=tou2|tra=頭|rs=大02}}
+{{cmn-noun|s|pin=tóu|pint=tou2|tra=頭|mw=个|rs=大02}}
 
 # [[head]]
-#: 我又要叫你和女人彼此为仇。你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。
-#: Wǒ yòu yào jiào nǐ hé nǚrén bǐcǐ wéi chóu . nǐde hòuyì hé nǚrén de hòuyì yĕ bǐcǐ wéi chóu . nǚrén de hòuyì yào shāng nǐde tóu , nǐ yào shāng tāde jiǎogēn .
-#:: And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+#* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 3.15]
+#*: 我又要叫你和女人彼此为仇。你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。
+#*: Wǒ yòu yào jiào nǐ hé nǚrén bǐcǐ wéi chóu . nǐde hòuyì hé nǚrén de hòuyì yĕ bǐcǐ wéi chóu . nǚrén de hòuyì yào shāng nǐde tóu , nǐ yào shāng tāde jiǎogēn .
+#*:: And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+#: 我头不再痛了。 wǒ tóu bùzài tòng le.
+#:: My head don't hurt anymore.
+# [[hair]]
+# [[top]], [[tip]], [[end]]
+# [[chief]], [[boss]]
+# [[remnant]], [[end]]
+
+===Adjective===
+{{cmn-adj|s|pin=tóu|pint=tou2|tra=頭|rs=大02}}
+
+# [[first]], [[leading]]
+
+===Suffix===
+{{head|cmn|suffix|simplified||Pinyin|tou}} {{attention|cmn|need suffix template}}
+
+# [[suffix]] for noun
+
+
 
 =====Compounds=====
 {{top3}}
@@ -162,3 +181,11 @@
 [[tr:头]]
 [[uk:头]]
 [[zh:头]]
+
+===References===
+* {{cite web
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=头
+| title = 头
+| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+| language = Mandarin/English
+| accessdate = 2014-03-12}}
