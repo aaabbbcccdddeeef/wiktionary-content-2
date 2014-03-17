@@ -34,24 +34,27 @@
 # [[grave]]; [[graveyard]]
 
 ====Readings====
-* {{ja-readings|kanon=[[ぼ]] (bo)|goon=[[も]] (mo)|kun=[[はか]] (haka)|nadzuke=[[つか]] (tsuka)}}
+{{ja-readings
+|goon=[[も]] (mo)
+|kanon=[[ぼ]] (bo)
+|kun=[[はか]] (haka)
+|nadzuke=[[つか]] (tsuka)
+}}
 
 ====Compounds====
-{{top4}}
-* [[上墓]]
-* [[墓碣]]
-{{mid4}}
-* [[墓誌銘]]
-* [[墓上]]
-{{mid4}}
-* [[墓田]]
-* [[墓表]]
-{{mid4}}
-* [[墓木已拱]]
-* [[墓地]] (ぼち, bochi)
-{{bottom}}
+{{der-top}}
+* {{ja-l|墓碣|ぼけつ|boketsu}}: a [[tombstone]], a [[headstone]]
+* {{ja-l|墓誌銘|ぼしめい|boshimei}}: an extra [[inscription]] at the end of a [[tombstone]] inscription, such as a short [[poem]]
+* {{ja-l|墓表|ぼひょう|bohyō}}: the [[text]] on a [[tombstone]], giving the [[deceased]]'s name, dates of birth and death, and other details
+* {{ja-l|墓地|ぼち|bochi}}: a [[cemetary]], a [[graveyard]]
+{{der-bottom}}
 
-====References====
+===Noun===
+{{ja-noun|はか}}
+
+# a [[grave]], a [[tomb]]
+
+===References===
 {{ja-kref
 |ku= 4272
 |shift= 95E6
@@ -66,11 +69,6 @@
 |heisig= 231
 |tuttle= 3k10.18
 }}
-
-===Noun===
-{{ja-noun|k|hira=はか|rom=haka}}
-
-# a [[grave]]; a [[tomb]]
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 墓]]
