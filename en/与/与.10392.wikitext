@@ -48,49 +48,54 @@ A traditional variant of [[與]], 与 is not used in modern (standardized) tradi
 ====Readings====
 {{ja-readings
 |on=[[よ]] (yo)
-|kun=[[あたう]] ([[与う]], atau), [[あたゆ]] ([[与ゆ]], atayu), [[あたえる]] ([[与える]], ataeru), [[あずかる]] ([[与る]], [[与かる]], azukaru), [[くみす]] ([[与す]], kumisu), [[くみする]] ([[与する]], kumisuru), [[ともに]] (tomoni)
+|kun=[[あたう]] ([[与う]], atau), [[あたゆ]] ([[与ゆ]], atayu), [[あたえる]] ([[与える]], ataeru), [[あずかる]] ([[与る]], [[与かる]], azukaru), [[くみす]] ([[与す]], kumisu), [[くみする]] ([[与する]], kumisuru), [[ともに]] (tomo ni)
 |nanori=[[とも]] (tomo), [[ゆ]] (yu)
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{l|ja|関与|tr=[[かんよ]], [[kan'yo]]}}
-* {{l|ja|給与|tr=[[きゅうよ]], [[kyūyo]]}}
-* {{l|ja|供与|tr=[[きょうよ]], [[kyōyo]]}}
-* {{l|ja|授与|tr=[[じゅよ]], [[juyo]]}}
-* {{l|ja|賞与|tr=[[しょうよ]], [[shōyo]]}}
-* {{l|ja|生殺与奪}}
-* {{l|ja|贈与|tr=[[ぞうよ]], [[zōyo]]}}
-* {{l|ja|天与|tr=[[てんよ]], [[ten'yo]]}}
-* {{l|ja|付与|tr=[[ふよ]], [[fuyo]]}}
-* {{l|ja|与格|tr=[[よかく]], ''[[yokaku]]''||dative case}}
-* {{l|ja|与件}}
-* {{l|ja|与太}}
-* {{l|ja|与太郎}}
-* {{l|ja|与奪}}
-* {{l|ja|与那国島||Yonaguni}}
-* {{l|ja|与力|tr=[[よりき]], [[yoriki]]}}
-* {{l|ja|与論島||Yoron}}
-* {{l|ja|与那原|tr=[[よなばる]], [[yonabaru]]}}
+* {{ja-l|関与|かんよ|kan'yo}}
+* {{ja-l|給与|きゅうよ|kyūyo}}
+* {{ja-l|供与|きょうよ|kyōyo}}
+* {{ja-l|授与|じゅよ|juyo}}
+* {{ja-l|賞与|しょうよ|shōyo}}
+* {{ja-l|生殺与奪}}
+* {{ja-l|贈与|ぞうよ|zōyo}}
+* {{ja-l|天与|てんよ|ten'yo}}
+* {{ja-l|付与|ふよ|fuyo}}
+* {{ja-l|与格|よかく|yokaku}}: the [[dative case]]
+* {{ja-l|与件}}
+* {{ja-l|与太}}
+* {{ja-l|与太郎}}
+* {{ja-l|与奪}}
+* {{ja-l|与那国||Yonaguni}}
+* {{ja-l|与力|よりき|yoriki}}
+* {{ja-l|与論||Yoron}}
+* {{ja-l|与那原|よなばる|Yonabaru}}
 {{bottom}}
 
 ===Etymology===
-Compound of {{compound|lang=ja|ともに|とも|tr1=tomo|t1=with; both|に|tr2=ni|t2=adverbial particle}}.  
+Compound of {{compound|lang=ja|とも|tr1=tomo|t1=with; both|に|tr2=ni|pos2=adverbial particle}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 Use of the single kanji {{lang|ja|与}} to spell this phrase is very rare and archaic, and is an example of [[熟字訓#Japanese|jukujikun]].
 
 ===Pronunciation===
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/tomoni/|[to̞mo̞ni]}}
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|と|もに}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{ja-accent-common|a|と|もに}}<ref name="DJR"/>
+* {{IPA|lang=ja|[to̞mo̞ ni]}}
 
 ===Alternative forms===
 * {{l|ja|ともに}}, {{l|ja|共に}}, {{l|ja|倶に}}
 : The more common spellings are {{l|ja|ともに}} and {{l|ja|共に}}.
 
 ===Adverb===
-{{ja-pos|k|adverb|hira=ともに|rom=tomo ni}}
+{{ja-pos|adverb|とも に}}
 
 # {{ja-def|共に}} [[together]], [[with]], [[both]]
+
+===References===
+<references/>
 
 ----
 
