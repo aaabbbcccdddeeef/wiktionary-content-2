@@ -1,7 +1,7 @@
 ==Japanese==
 
-===Counter===
-{{ja-pos|h|counter|rom=-kai}}
+===Classifier===
+{{ja-pos||classifier}}
 
 # {{ja-def|回}} [[occurrences]]
 # {{ja-def|回}} [[games]], [[rounds]], [[innings]] in baseball
@@ -15,7 +15,7 @@
 # {{ja-def|界}} [[world]]
 
 ===Particle===
-{{ja-pos|h|particle|rom=kai}}
+{{ja-pos||particle}}
 
 # {{ja-def|かい}} {{context|familiar|lang=ja}} marks a non-[[rhetorical question]], which expects a 'yes' or a 'no' answer, a variant of question particle {{term|か||ka}}
 #: 元気'''かい'''？
@@ -39,7 +39,7 @@
 * The question marker {{term|かい||kai|lang=ja}} is sometimes written as {{term|かえ||kae|lang=ja}}, but it's less common.
 
 ===Suffix===
-{{ja-pos|h|suffix|rom=-kai}}
+{{ja-pos||suffix}}
 
 # {{ja-def|会}} [[meeting]]
 # {{ja-def|階}} [[floor]], [[storey]]
