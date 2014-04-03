@@ -108,7 +108,7 @@ From Early {{etyl|ltc|ja|sort=く}}. [[呉音#Japanese|Goon]], the initial readi
 * {{l|ja|玖}}
 
 ====Number====
-{{ja-pos|k|number|hira=く|rom=ku}}
+{{ja-pos|く|number}}
 
 # [[nine]]
 # [[ninth]]
@@ -128,7 +128,7 @@ From {{etyl|ltc|ja|sort=きゅう}}. [[漢音#Japanese|Kan'on]], a later reading
 * {{audio|Ja-9-kyuu.ogg|Audio|lang=ja}}
 
 ====Number====
-{{ja-pos|k|number|hira=きゅう|rom=kyū|hhira=きう}}
+{{ja-pos||rom=kyū}}
 
 # [[nine]]
 
@@ -149,8 +149,8 @@ From {{etyl|ojp|ja|sort=ここの}}.
 * [[訓読み|Kun'yomi]]
 * {{IPA|lang=ja|/ko.ko.no/|[ko̞ko̞no̞]}}
 
-====Counter====
-{{ja-pos|counter|ここの}}
+====Classifier====
+{{ja-pos|classifier|ここの}}
 
 # [[nine]]
 
@@ -164,7 +164,7 @@ Abbreviation of {{etyl|ojp|ja}} ''kokono'' (“nine”).
 * {{IPA|lang=ja|[ko̞no̞]}}
 
 ====Number====
-{{ja-pos|k|number|hira=この|rom=kono}}
+{{ja-pos|この|number}}
 
 # [[nine]]
 #: {{usex|lang=ja|ひい、ふう、みい、…なな、やあ、'''この'''、とお|tr=''hī, fū, mī, ... nana, yā, '''kono''', tō''|t=one, two, three, ... seven, eight, '''nine''', ten}}
