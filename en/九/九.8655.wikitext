@@ -114,7 +114,7 @@ From Early {{etyl|ltc|ja|sort=く}}. [[呉音#Japanese|Goon]], the initial readi
 # [[ninth]]
 
 ====Noun====
-{{ja-noun|k|hira=く|rom=ku}}
+{{ja-noun|く}}
 
 # [[nine]]
 # the [[ninth]]
@@ -128,12 +128,12 @@ From {{etyl|ltc|ja|sort=きゅう}}. [[漢音#Japanese|Kan'on]], a later reading
 * {{audio|Ja-9-kyuu.ogg|Audio|lang=ja}}
 
 ====Number====
-{{ja-pos||rom=kyū}}
+{{ja-pos|きゅう|number|hhira=きう}}
 
 # [[nine]]
 
 ====Noun====
-{{ja-noun|k|hira=きゅう|rom=kyū|hhira=きう}}
+{{ja-noun|きゅう|hhira=きう}}
 
 # [[nine]]
 # an [[indeterminate]] [[large]] [[number]], a [[myriad]], a great many
@@ -150,7 +150,7 @@ From {{etyl|ojp|ja|sort=ここの}}.
 * {{IPA|lang=ja|/ko.ko.no/|[ko̞ko̞no̞]}}
 
 ====Classifier====
-{{ja-pos|classifier|ここの}}
+{{ja-pos|ここの|classifier}}
 
 # [[nine]]
 
