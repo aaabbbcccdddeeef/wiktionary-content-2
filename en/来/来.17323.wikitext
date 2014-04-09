@@ -38,7 +38,7 @@
 {{ja-readings
 |goon=[[らい]] (rai)
 |kanon=[[らい]] (rai)
-|kun=[[くる|く-る]] (ku-ru), [[きたる|きた-る]] / [[きたる|き-たる]] (kita-ru / ki-taru)
+|kun=[[く]] (ku), [[くる|く-る]] (ku-ru), [[きたる|きた-る]] / [[きたる|き-たる]] (kita-ru / ki-taru)
 }}
 
 ====Compounds====
@@ -55,40 +55,51 @@
 * [[来賓]]
 * [[来迎]]
 * [[来週]]
-{{bottom}}
+{{der-bottom}}
 
 ===Etymology 1===
-From {{etyl|zhx|ja|sort=らい}} {{term|sc=Hani|来}}.
+{{ja-kanjitab|らい|yomi=on}}
+From {{etyl|ltc|ja|sort=らい}} {{term|lang=ltc|來|tr=*ləi}}.  Compare modern {{etyl|cmn|-}} traditional {{term|lang=cmn|來}} and simplified {{term|lang=cmn|来|tr=lái}}.
 
 ====Pronunciation====
 * [[音読み|On'yomi]]
-* {{IPA|lang=ja|/ra.i/|[ɽäi]}}
+* {{IPA|lang=ja|[ɺ̠a̠i]}}
 
 ====Prefix====
-{{ja-pos|らい|prefix}}
+{{ja-pos|prefix|らい}}
 
 # [[next]], [[coming]] (week, year, etc.)
 #: {{ja-usex|'''来'''年、'''来'''週|'''らい'''ねん、 '''らい'''しゅう|'''next''' year, '''next''' week}}
 #: {{ja-usex|'''来'''週月曜日に会いましょう。|'''らい'''しゅう げつようび に あいましょう。|Let's meet Monday '''next'''. / Let's meet this '''coming''' Monday.}}
 
+====Proper noun====
+{{ja-pos|proper|らい}}
+
+# {{surname|lang=ja}}
+
 ====Suffix====
-{{ja-pos|らい|suffix}}
+{{ja-pos|suffix|らい}}
 
 # [[since]], [[in]] (a span of time)
-#: {{ja-usex|三年'''来'''あれを見ていない。|さん ねん-'''らい''' あれ を みて いない。|I haven't seen that '''in''' three years / '''since''' three years ago.}}
+#: {{ja-usex|三年'''来'''あれを見ていない。|^さん ねん-'''らい''' あれ を みて いない。|I haven't seen that '''in''' three years / '''since''' three years ago.}}
 
 ===Etymology 2===
+{{ja-kanjitab|く|yomi=kun}}
 From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic]] verb roots in Japanese.  This developed into [[来る|''kuru'']] in modern Japanese.
 
 ====Pronunciation====
 * [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/ku/|[kɯᵝ]}}
+* {{IPA|lang=ja|[kɯᵝ]}}
 
 ====Verb====
-{{ja-verb|k|type=3|hira=く|rom=ku}}
+{{ja-verb|type=3|く}}
 
-# {{context|lang=ja|sort=く|obsolete}} to approach ones position from a remote location: to [[come]]
-#: Developed into {{l|ja|来る|tr=[[くる]], ''[[kuru#Japanese|kuru]]''}} in modern Japanese.
+# {{context|lang=ja|sort=く|obsolete}} to approach one's position from a remote location: to [[come]]
+#: Developed into {{ja-l|来る|くる|kuru}} in modern Japanese.
+
+===References===
+* {{R:Kokugo Dai Jiten}}
+* {{R:Daijirin}}
 
 ----
 
