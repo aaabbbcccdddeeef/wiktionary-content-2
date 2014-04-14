@@ -44,7 +44,7 @@
 {{ko-hanja|hangeul=[[건]], [[간]]|rv=geon, gan|mr=kŏn, kan}}
 
 # ([[하늘]] 건, ''haneul-''): [[sky]]
-# ([[건괘]] 건, ''geon-gwae-''): {{unicode|☷}} or the 1st of the Eight Trigrams ({{unicode|☰☱☲☳☴☵☶☷}} or [[w:Ba gua (concept)|八卦]] ([[팔괘]], ''palgwae'')) 
+# ([[건괘]] 건, ''geon-gwae-''): {{lang|und|sc=Latinx|☷}} or the 1st of the Eight Trigrams ({{lang|und|sc=Latinx|☰☱☲☳☴☵☶☷}} or [[w:Ba gua (concept)|八卦]] ([[팔괘]], ''palgwae'')) 
 # ([[임금]] 건, ''im-geum-''): [[king]]
 # ([[마르다|마를]] 건, ''mareul-''): to be [[dry]] 
 
@@ -63,49 +63,49 @@
 {| class=wikitable
 |- 
 | 7+0=111+000 (U+2630)*
-|  {{unicode|☰}}   
+|  {{lang|und|sc=Latinx|☰}}   
 |  [[乾]]
 |  [[天]]
 |  [[sky]]
 |- 
 | 6+1=110+001 (U+2631)
-|  {{unicode|☱}}
+|  {{lang|und|sc=Latinx|☱}}
 |  [[兌]]
 |  [[澤]]
 |  [[marsh]]
 |- 
 | 5+2=101+010 (U+2632)
-| {{unicode|☲}}
+| {{lang|und|sc=Latinx|☲}}
 | [[離]]
 | [[火]]
 | [[fire]]
 |- 
 | 4+3=100+011 (U+2633)
-| {{unicode|☳}}
+| {{lang|und|sc=Latinx|☳}}
 | [[震]]
 | [[雷]]
 | [[thunder]]
 |- 
 | 3+4=011+100 (U+2634)
-| {{unicode|☴}}
+| {{lang|und|sc=Latinx|☴}}
 | [[巽]]
 | [[風]]
 | [[wind]]
 |- 
 | 2+5=010+101 (U+2635)
-| {{unicode|☵}}
+| {{lang|und|sc=Latinx|☵}}
 | [[坎]]
 | [[水]]
 | [[water]]
 |- 
 | 1+6=001+110 (U+2636)
-| {{unicode|☶}}
+| {{lang|und|sc=Latinx|☶}}
 | [[艮]]
 | [[山]]
 | [[mountain]]
 |- 
 | 0+7=000+111 (U+2637)
-| {{unicode|☷}}
+| {{lang|und|sc=Latinx|☷}}
 | [[坤]]
 | [[地]]
 | [[earth]] 
