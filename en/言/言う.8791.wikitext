@@ -2,10 +2,16 @@
 {{ja-kanjitab|い|sort=いう|yomi=kun}}
 
 ===Etymology===
-ipu → iɸu → *iwu → iu. Medial /h/ regularly changed from [p] → [ɸ] → [w]. Japanese never distinguished between /wu/ and /u/, so it automatically becomes [u]. The /w/ only surfaces in negative form: iwanai, where the phoneme /wa/ exists. Surface forms /iwimasu/ and /iwemasu/ automatically become [iimasu] and [iemasu] since Japanese no longer distinguishes /wi, we/ from /i, e/. Possibly related to Korean [[입]] (ip) “mouth”.
+From {{etyl|ojp|ja|sort=いう}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+{{IPAchar|/ipu/}} → {{IPAchar|/iɸu/}} → {{IPAchar|/*iwu/}} → {{IPAchar|/iu/}}
+
+Medial {{IPAchar|/h/}} regularly changed from {{IPAchar|[p]}} → {{IPAchar|[ɸ]}} → {{IPAchar|[w]}}. Japanese never distinguished between {{IPAchar|/wu/}} and {{IPAchar|/u/}}, so that automatically becomes {{IPAchar|[u]}}. The {{IPAchar|/w/}} only surfaces in the negative form of ''i'''w'''anai'', where the phoneme {{IPAchar|/wa/}} exists.  Surface forms {{IPAchar|/iwimasu/}} and {{IPAchar|/iwemasu/}} automatically become {{IPAchar|/iimasu/}} and {{IPAchar|/iemasu/}} since Japanese no longer distinguishes {{IPAchar|/wi, we/}} from {{IPAchar|/i, e/}}.
+
+Possibly related to {{etyl|ko|-}} {{ko-inline|입|ip|mouth}}.
 
 ===Pronunciation===
-{{ja-pron|ゆう|acc=h|y=k|a=Ja-iu-to say.ogg}}
+{{ja-pron|いう|acc=h|acc_ref=DJR|y=k|a=Ja-iu-to say.ogg}}
 
 ===Alternative forms===
 * {{l|ja|謂う}}
@@ -19,32 +25,34 @@ ipu → iɸu → *iwu → iu. Medial /h/ regularly changed from [p] → [ɸ] →
 #*: 和可夜之奈比乃 可波利爾波 於保末之末須 美奈美乃末知奈流奴乎 宇氣與止 於保止己可都可佐乃比止'''伊布''' 之可流可由恵爾 序禮宇氣牟比止良 久流末毛太之米弖 末都利伊禮之米太末布日 與禮良毛伊太佐牟 之可毛己乃波古美於可牟毛 阿夜布可流 可由恵爾 波夜久末可利太末布日之 於保己可ツ可佐奈比氣奈波 比止乃太氣太可比止 □己止波宇氣都流
 #* circa '''890''', [[w:Taketori Monogatari|Taketori Monogatari]] (page 7)
 #*: 「おのが生さぬ子なれば、心にも従はずなんある」と'''言ひ'''て、月日過ぐす。
-#* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 6, page 84)
+#* '''10th century''': [[w:Ise Monogatari|Ise Monogatari]] (chapter 6, page 84)
 #*: 「あなや」と'''いひ'''けれど、神鳴るさはぎにえ聞かざりけり。
-#: {{ja-usex|私が'''言う'''ようにしなさい。|わたし が '''いう''' よう に しなさい。|Do as I '''tell''' you.}}
-# to [[call]], to [[name]] to [[give]] a name
+#: {{ja-usex|私が'''言う'''ようにしなさい。|^わたし が '''いう''' よう に しなさい。|Do as I '''tell''' you.}}
+# to [[call]], to [[name]], to [[give]] a name
 #* circa '''890''', [[w:Taketori Monogatari|Taketori Monogatari]] (page 3)
 #*: いまは昔、竹取の翁と'''いふ'''もの有けり。
-#: {{ja-usex|この動物は日本語で何と言いますか。|この どうぶつ は ^にほんご で なん と い.い ます か。|What do you '''call''' this animal in Japanese?}}
+#: {{ja-usex|この動物は日本語で何と言いますか。|^この どうぶつ は ^にほんご で なん と い.います か。|What do you '''call''' this animal in Japanese?}}
 
 {{ja-verb|type=1|いう|hhira=いふ|tr=intrans}}
 
-# to [[cry]], to [[call]], for an animal to make a noise
+# to [[cry]], to [[call]], to make a noise {{qualifier|such as an animal}}
 #: {{ja-usex|ニャーニャー言う猫|ニャーニャー いう ねこ|a mewing cat}}
 
-====Derived terms====
-* [[言う迄もない]] (iu made mo nai)
-* [[言うに及ばず]] (iu ni oyobazu)
-* [[言うに足らず]] (iu ni tarazu)
-* [[言わん方無し]] (iwan kata nashi)
-* [[言わぬが花]] (iwanu ga hana)
-* [[言わずもがな]] (iwazu mogana)
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-l|言う迄もない|いうまでもない|iu made mo nai}}: it goes without saying
+* {{ja-l|言うに及ばず|いうにおよばず|iu ni oyobazu}}: it goes without saying; it isn't easy  say {{qualifier|not reaching the point of being easily expressed}}
+* {{ja-l|言うに足らず|いうにたらず|iu ni tarazu}}: it isn't worth bringing up; it isn't easy to say {{qualifier|not sufficiently clear, not easily expressible}}
+* {{ja-l|言わん方無し|いわんかたなし|iwan kata nashi}}: no way of saying it
+* {{ja-l|言わぬが花|いわぬがはな|iwanu ga hana}}: “not saying it, is a flower” → it would be better to leave it [[unsaid]]
+* {{ja-l|言わずもがな|いわずもがな|iwazu mo　gana}}: “not even saying would be preferable” {{qualifier|either because it is already known and doesn't need saying, or because not expressing it at all would be better}}
+{{der-bottom}}
 
 ====Conjugation====
 {{ja-go-u|い}}
 
 ===References===
-
+<references/>
 * {{reference-book
   | last = Horiuchi
   | first = Hideaki
