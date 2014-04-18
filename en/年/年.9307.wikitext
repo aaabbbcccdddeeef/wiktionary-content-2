@@ -75,8 +75,7 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 From {{etyl|zhx|ja|sort=ねん}} {{term|sc=Hani|年}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{IPA|lang=ja|[ne̞ɴ]}}
+{{ja-pron|ねん|acc=a|y=o}}
 
 ====Counter====
 {{ja-pos|ねん|counter}}
@@ -97,11 +96,10 @@ From {{etyl|zhx|ja|sort=ねん}} {{term|sc=Hani|年}}.
 From {{etyl|ojp|ja|sort=とし}}.  Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[to̞ɕi]}}
+{{ja-pron|とし|acc=o|y=k}}
 
 ====Noun====
-{{ja-noun|k|hira=とし|rom=toshi}}
+{{ja-noun|とし}}
 
 # {{context|lang=ja|sort=とし|obsolete}} [[grain]], particularly [[rice]]
 # {{context|lang=ja|sort=とし|obsolete}} a grain [[harvest]], a grain [[crop]]
@@ -148,14 +146,18 @@ From {{etyl|ojp|ja|sort=とし}}.  Likely a shift in pronunciation from ''toshi'
 ----
 
 ==Mandarin==
+{{zh-hanzi-box|[[年]]}}
 
 ===Pronunciation===
-* {{audio|zh-nián.ogg|audio|lang=cmn}}
+{{Pinyin-IPA|nián|a=zh-nián.ogg}}
+
+===Noun===
+{{cmn-noun|ts|pin=nián|pint=nian2}}
+
+# [[year]]
 
 ===Hanzi===
 {{cmn-hanzi|pin=[[nián]] ([[nian2]])|wg=nien<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=干03}}
 
 ====Compounds====
 {{top2}}
@@ -189,7 +191,7 @@ From {{etyl|ojp|ja|sort=とし}}.  Likely a shift in pronunciation from ''toshi'
 * [[新年]] (xīnnián)
 {{bottom}}
 
-[[Category:Mandarin entries with audio links]]
+[[Category:Mandarin entries with audio links|nian2]]
 
 ----
 
