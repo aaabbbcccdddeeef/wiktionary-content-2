@@ -28,23 +28,22 @@
 ----
 
 ==Mandarin==
+{{zh-hanzi-box|[[头]]|[[頭]]}}
+
+===Pronunciation===
+{{Pinyin-IPA|tóu|a=zh-tóu.ogg}}
 
 ===Hanzi===
-{{cmn-hanzi|tra=頭|pin=[[tóu]] ([[tou2]])|wg=t'ou<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=大02}}
-
-====Pronunciation====
-* {{audio|zh-tóu.ogg|audio|lang=cmn}}
+{{cmn-hanzi|tra=頭|sim=头|pin=[[tóu]] ([[tou2]])|wg=t'ou<sup>2</sup>}}
 
 ===Classifier===
-{{cmn-cls|s|pin=tou|pint=tou0|tra=頭}}
+{{cmn-cls|s|pin=tou|pint=tou0|tra=頭|sim=头}}
 
 # Measure word for livestock
 #: ''我有两头猪。'' - ''I have two pigs.''
 
 ====Noun====
-{{cmn-noun|s|pin=tóu|pint=tou2|tra=頭|mw=个}}
+{{cmn-noun|s|pin=tóu|pint=tou2|tra=頭|sim=头|mw=个}}
 
 # [[head]]
 #* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 3.15]
@@ -59,12 +58,12 @@
 # [[remnant]], [[end]]
 
 ===Adjective===
-{{cmn-adj|s|pin=tóu|pint=tou2|tra=頭}}
+{{cmn-adj|s|pin=tóu|pint=tou2|tra=頭|sim=头}}
 
 # [[first]], [[leading]]
 
 ===Suffix===
-{{head|cmn|suffix|simplified||Pinyin|tou}} {{attention|cmn|need suffix template}}
+{{cmn-suf|s|pin=tóu|pint=tou2|tra=頭|sim=头}}
 
 # [[suffix]] for noun
 
