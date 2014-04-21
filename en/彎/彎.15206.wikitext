@@ -25,10 +25,41 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=弓19}}
 
-# {{defn|lang=ja|sort=弓19}}
+# [[bend]], [[curve]]
+# [[stretching]] a [[bow]]
 
 ====Readings====
-* {{ja-readings|on=[[わん]] (wan)|kun=[[ひく]] (hiku)}}
+{{ja-readings
+|goon=[[えん]] (en) {{qualifier|rare}}
+|kanon=[[わん]] (wan)
+|kun=[[ひく|ひ.く]] ({{ja-l|彎く}}, hi.ku), [[ひきまかなう|ひきまかな.う]] ({{ja-l|彎う}}, hikimakana.u)
+}}
+
+===Etymology===
+{{ja-kanjitab|わん|yomi=on}}
+From {{etyl|ltc|ja|sort=わん}} {{term|lang=ltc|彎|tr=*quan}}.  Compare modern {{etyl|cmn|-}} traditional {{term|lang=cmn|彎}} and simplified {{term|lang=cmn|弯|tr=wān}}.
+
+Note that this character is replaced in modern Japanese by the simplified character {{term|lang=ja|湾|tr=wan}}, rather than the simplified Chinese character {{term|lang=cmn|弯|tr=wān||bend, curve}}.  The Japanese simplified version means {{term|lang=en|bay}} or {{term|lang=en|inlet}} when used on its own, but now also includes the {{term|lang=en|bend}}, {{term|lang=en|curve}} meanings when used in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|acc=1|わん}}
+
+===Noun===
+{{ja-noun|わん|style=k|shin=湾}}
+
+# a [[bend]], a [[curve]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|彎月}}, {{ja-l|湾月|わんげつ|wangetsu}}: a [[crescent]] [[moon]]
+* {{ja-l|彎曲}}, {{ja-l|彎曲|わんきょく|wankyoku}}: a [[bend]], a [[curve]]
+* {{ja-l|彎屈}}, {{ja-l|湾屈|わんくつ|wankutsu}}: [[bending]] over, [[stooping]]
+* {{ja-l|彎珠|わんじゅ|wanju}}: alternate name for {{term|lang=ja|袴葛|tr=hakamakazura}}, a kind of {{vern|orchid tree}}: {{taxlink|Bauhinia japonica|species}}
+* {{ja-l|彎入}}, {{ja-l|湾入|わんにゅう|wannyū}}: an [[inlet]] or [[bay]] along a [[coast]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
