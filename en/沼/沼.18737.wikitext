@@ -26,8 +26,8 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[しょう]] (shō) < [[せう]] (seu)
-|kanon=[[しょう]] (shō) < [[せう]] (seu)
+|goon=[[しょう]] (shō), [[せう]] (seu) {{qualifier|historical}}
+|kanon=[[しょう]] (shō), [[せう]] (seu) {{qualifier|historical}}
 |kun=[[ぬ]] (nu), [[ぬま]] (numa)
 }}
 
@@ -39,11 +39,10 @@ May be cognate with {{etyl|ko|-}} {{term|lang=ko|늪|tr=neup||swamp, bog, marsh}
 Generally only used in compounds in modern {{etyl|ja|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[nɯᵝ]}}
+{{ja-pron|yomi=kun|ぬ}}
 
 ====Noun====
-{{ja-noun|k|hira=ぬ|rom=nu}}
+{{ja-noun|ぬ}}
 
 # a [[swamp]], a [[bog]], a [[marsh]]
 
@@ -60,12 +59,10 @@ Generally only used in compounds in modern {{etyl|ja|-}}.<ref name="KDJ">{{R:Kok
 Appears to be a compound of {{compound|lang=ja|sort=ぬま|沼|tr1=nu|t1=swamp|間|tr2=ma|t2=space, area}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|o|ぬ|ま}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[nɯᵝma̠]}}
+{{ja-pron|yomi=kun|acc=2|acc_ref=NHK,DJR|ぬま}}
 
 ====Noun====
-{{ja-noun|k|hira=ぬま|rom=numa}}
+{{ja-noun|ぬま}}
 
 # a [[swamp]], a [[bog]], a [[marsh]]
 
@@ -78,11 +75,10 @@ From {{etyl|ltc|ja|sort=しょう}} {{term|lang=ltc|沼|tr=tsyewX}}.  Compare mo
 Only ever used in compounds.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{IPA|lang=ja|[ɕʲo̞ː]}}
+{{ja-pron|yomi=on|しょう}}
 
 ====Affix====
-{{ja-pos|k|affix|hira=しょう|rom=shō|hhira=せう}}
+{{ja-pos|affix|しょう|hhira=せう}}
 
 # a [[swamp]], a [[bog]], a [[marsh]]
 
