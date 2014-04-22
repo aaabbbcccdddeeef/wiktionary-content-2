@@ -32,14 +32,81 @@ Later borrowed phonetically to mean “no”.
 ===Kanji===
 {{ja-kanji|grade=uc|rs=弓02}}
 
-# [[fluorine|Fluorine]] (likely a simplification of {{l|ja|氟}}).
-# The [[dollar]] sign ([[$]]).
+# [[fluorine]]
+# the [[dollar]] sign ([[$]])
 
 ====Readings====
 {{ja-readings
-|on=[[ふつ]] (futsu), [[ほち]] (hochi), [[ぼつ]] (botsu)
-|kun=[[ず]] (zu), [[どる]] (doru)
+|goon=[[ほち]] (hochi) {{qualifier|rare}}
+|kanon=[[ふつ]] (futsu)
+|kun=[[ず]] (zu) {{qualifier|rare}}, [[どる]] (doru)
 }}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|フッ素|フッ素 (Fluroine)}}
+{{wikipedia|Fluorine}}
+[[File:Liquid_fluorine_tighter_crop.jpg|thumb|250px|{{lang|ja|弗}} (''futsu''): a sample of chilled liquid '''[[fluorine]]'''.]]
+</div>
+{{ja-kanjitab|ふつ|yomi=on}}
+Originally borrowed from {{etyl|ltc|ja|sort=ふつ}} {{term|lang=ltc|弗|tr=*pjut}}, meaning either “not” or “a [[gust]] of [[wind]]”.  Apparently later repurposed during the later [[w:Edo period|Edo period]] for its phonetic value (and possibly also for its “wind” → “[[gas]]” connotations) in translating the {{etyl|de|ja|sort=ふつ}} {{term|lang=de|Fluor||fluorine}}.
+
+The modern {{etyl|cmn|-}} {{term|lang=cmn|氟|tr=fú||fluorine}} appears to be a more recent invention based on this Japanese usage, adding the [[radical]] {{term|lang=mul|sc=Hani|气}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ふつ}}
+
+=====Affix=====
+{{ja-pos|affix|ふつ|kata=フツ}}
+
+# {{context|lang=ja|sort=ふつ|chemistry|element}} [[fluorine]], [[fluoride]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|弗化|ふっか|fukka}}: [[fluoridation]]; [[fluoro-]], [[fluor-]]; [[fluorinated]]
+* {{ja-l|弗化カルシウム|ふっかカルシウム|fukka karushiumu}}: [[calcium fluoride]], [[CaF2]]
+* {{ja-l|六弗化リン酸リチウム|ろくふっかりんさんりちうむ|roku fukka rinsan richiumu}}: [[lithium hexafluorophosphate]]
+* {{ja-l|弗化水素|ふっかすいそ|fukka suiso}}: [[hydrogen fluoride]], [[HF]]
+* {{ja-l|弗化水素酸|ふっかすいそさん|fukka suiso san}}: [[hydrofluoric acid]]
+* {{ja-l|弗化物|ふっかぶつ|fukkabutsu}}: [[fluoride]]
+* {{ja-l|六弗化硫黄|ろくふっかいおう|ろくふっかいおう|roku fukka iou}}: [[sulfur hexafluoride]]
+* {{ja-l|弗酸|ふっさん|fussan}}: short for {{ja-l|弗化水素酸||fukka suiso san}}: [[hydrofluoric acid]]
+* {{ja-l|弗素|ふっそ|fusso}}: [[fluorine]], [[F]]
+{{der-mid}}
+'''Purely phonetic uses:'''
+* {{ja-l|阿弗利加}}, {{ja-l|亜弗利加|アフリカ|Afurika}}: [[Africa]]
+* {{ja-l|阿弗利加系亜米利加人|アフリカけいアメリカじん|Afurika-kei Amerikajin}}: an [[African American]] {{qualifier|person}}
+* {{ja-l|阿弗利加野驢馬|アフリカのろば|Afurika noroba}}: the {{vern|African wild ass}}: {{taxlink|Equus africanus|species}}
+{{der-bottom}}
+
+=====Usage notes=====
+Seldom used.  In chemistry contexts, almost always spelled in [[katakana]] as {{ja-l|フツ}}, appearing in most compounds as {{lang|ja|フッ}}.  This is probably a reflection of this term's roots as a {{term|lang=ja|外来語|tr=gairaigo||word borrowed from another language}}.
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|ドル}}
+{{wikipedia|Dollar}}
+[[File:Dollar_Symbol_Evolution.svg|thumb|250px|{{lang|ja|弗}} (''doru''): evolution of the '''[[dollar]]''' symbol for both the [[w:United States dollar|United States]] and (now obsolete) [[w:Spanish dollar|Spanish]] dollar.]]
+</div>
+{{ja-kanjitab|どる|yomi=kun}}
+Repurposed for its visual similarity to the [[dollar]] symbol '''[[$]]'''.  This reading is ultimately a {{borrowing|nocap=1|nl|lang=ja|sort=とる'|dollar}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kun|acc=1|acc_ref=DJR|ドル}}
+
+====Alternative forms====
+* {{ja-l|ドル}}, {{ja-l|㌦}}
+
+====Symbol====
+{{ja-pos|symbol|ドル}}
+
+# a [[dollar]]
+
+=====Usage notes=====
+Occasionally seen, but more often encountered in the katakana spelling of {{ja-l|ドル}}.
+
+===References===
+<references/>
 
 ----
 
