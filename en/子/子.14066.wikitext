@@ -69,11 +69,11 @@
 }}
 
 ===Etymology 1===
+{{ja-kanjitab|こ|yomi=kun}}
 {{etyl|ojp|ja|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen in the [[w:Kojiki|''Kojiki'']] and the [[w:Man'yōshū|''Man'yōshū'']], two of the oldest examples of written Japanese. Cognate with {{term|lang=ja|蚕|tr=ko||silkworm}}. Also possibly cognate with {{term|lang=ja|小|tr=ko||little|pos=diminutive prefix}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ko̞]}}
+{{ja-pron|yomi=kun|こ}}
 
 ====Alternative forms====
 * {{ja-l|児}} {{qualifier|less commonly used}}
@@ -108,7 +108,7 @@
 {{der-bottom}}
 
 ====Prefix====
-{{ja-pos|k|prefix|hira=こ|rom=ko}}
+{{ja-pos|prefix|こ}}
 
 # an [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
 #: {{lang|ja|'''子'''会社}} {{lang|ja|'''こ'''がいしゃ}} — '''''ko'''''gaisha — a subsidiary
@@ -121,7 +121,7 @@
 {{der-bottom}}
 
 ====Suffix====
-{{ja-pos|k|suffix|hira=こ|rom=ko}}
+{{ja-pos|suffix|こ}}
 
 # suffix used in female given names, such as {{ja-l|智子|ともこ|Tomoko}}, {{ja-l|英子|えいこ|Eiko}}, {{ja-l|秀子|ひでこ|Hideko}}, {{ja-l|美奈子|みなこ|Minako}}
 # {{context|lang=ja|sort=こ|rare}} suffix used in male given names
@@ -138,6 +138,8 @@
 {{der-bottom}}
 
 ===Etymology 2===
+{{ja-kanjitab|す|yomi=on}}
+{{ja-kanjitab|し|yomi=on}}
 From {{etyl|ltc|ja|sort=し}} {{term|lang=ltc|子|tr=tsiX}}. Compare modern {{etyl|cmn|-}} {{term|lang=cmn|子|tr=zǐ}}.
 
 The {{l|ja|呉音|sc=Latn|''goon''}} reading of ''shi'' is likely the original borrowing. The {{l|ja|唐音|sc=Latn|''tōon''}} reading ''su'' appears later, and only shows up in certain set terms borrowed from Chinese, where it seems to serve as a kind of nominalizing suffix.
@@ -147,13 +149,13 @@ The {{l|ja|呉音|sc=Latn|''goon''}} reading of ''shi'' is likely the original b
 * {{IPA|lang=ja|[ɕi]|[sɯᵝ]}} {{qualifier|second reading less common, only used in word-final position}}
 
 ====Affix====
-{{ja-pos|k|affix|hira=し|rom=shi}} {{ja-altread|hira=す|rom=su}}
+{{ja-pos|affix|し}} {{ja-altread|hira=す|rom=su}}
 
 # a [[child]]
 # an [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
 # an [[object]] having a particular [[state]] or [[property]] {{qualifier|sometimes [[diminutive]]}}
 #: {{lang|ja|中性'''子'''}} — {{lang|ja|ちゅうせい'''し'''}} — ''chūsei'''shi''''' — a [[neutral]] '''small thing''': a [[neutron]]
-#: {{lang|ja|椅'''子'''}} — {{lang|ja|い'''す'''}} — ''i'''su''' — literally, a [[chair]] '''small thing''': a [[chair]]
+#: {{lang|ja|椅'''子'''}} — {{lang|ja|い'''す'''}} — ''i'''su''''' — literally, a [[chair]] '''small thing''': a [[chair]]
 
 =====Usage notes=====
 * This affix is never used in isolation. It is only used in {{l|ja|sc=Latn|音読み|''on'yomi''}} compounds.
