@@ -28,16 +28,52 @@
 
 ==Japanese==
 
-===Etymology===
-{{rfe|lang=ja|[http://japanese.stackexchange.com/a/5209/125 could this be an old Korean loanword?]}}
-
 ===Kanji===
 {{ja-kanji|grade=c|rs=土10}}
 
-# {{defn|lang=ja|sort=土09}}
+# [[mound]], [[hillock]], [[tumulus]] {{qualifier|implies a manmade origin}}
 
 ====Readings====
-* {{ja-readings|on=[[ちょう]] (chō)|kun=[[つか]] (tsuka)}}
+{{ja-readings
+|goon=[[ちゅう]] (chū) {{non-joyo-reading}}
+|kanon=[[ちょう]] (chō) {{non-joyo-reading}}
+|kun=[[つか]] (tsuka)
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Mound}}
+</div>
+{{ja-kanjitab|つか|yomi=kun}}
+Cognate with {{etyl|ojp|ja|sort=つか}} verb {{term|lang=ja|築く|tr=tsuku||to build up using earth and/or stone}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The {{IPAchar|/a/}} ending may indicate that ''tsuka'' developed as the [[nominalization]] of the {{term|lang=ja|未然形|tr=mizenkei||[[irrealis]] form}} of the verb, suggesting an original meaning of "that which is being built up into an [[earthworks]] (but isn't finished yet)".  The irrealis is also the root form for constructing the passive form of all Japanese verbs, so the original meaning might instead have been just the passive sense of "that which is built up into an earthworks".
+
+===Pronunciation===
+{{ja-pron|yomi=kun|acc=2|acc_ref=DJR|つか}}
+
+===Alternative forms===
+* {{ja-l|冢}}
+
+===Noun===
+{{ja-noun|つか}}
+
+# a [[mound]] or [[hillock]], generally [[manmade]]
+# a [[grave]], a [[tumulus]] or [[burial mound]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|一里塚|いちりづか}}: a [[milestone]]
+* {{ja-r|貝塚|かいづか}}: a [[shell]] [[mound]] or [[midden]]
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|grave, small burial mound}} {{ja-r|墓|はか}}
+* {{sense|tumulus, large burial mound}} {{ja-r|古墳|こふん}}
+
+===References===
+<references/>
 
 ----
 
