@@ -1,10 +1,44 @@
-==Cantonese==
+==Chinese==
 {{zh-hanzi-box|[[中]][[国]]|[[中國]]}}
 
+===Etymology===
+{{zh-compound|中|国|center, central|country, kingdom}}
+
+===Pronunciation===
+{{zh-pron
+|m=Zhōngguó
+|c=zung1 gwok3
+|mn=Tiong-kok
+|w=1tson koq
+|ma=y|ca=y|ga=y|ja=y|mna=y|wa=y|xa=y
+}}
+
 ===Proper noun===
-{{yue-proper noun|s|jyut=zung1 gwok3|tra=中國|sim=中国|rs=丨03}}
+{{zh-proper noun}}
 
 # [[China]]
+#: {{zh-usex|中国 的 首都{dū} 是 ^北京 。|The capital of '''China''' is Beijing.|link=yes}}
+#: {{zh-usex|他 现在 在 ^中国 旅行。|He's travelling around '''China''' right now.|link=yes}}
+#: {{zh-usex|你 喜欢 ^中国 文学 吗？|Do you like '''Chinese''' literature?|link=yes}}
+
+====Synonyms====
+* {{l|zh|天下|tr=tiānxià}} {{qualifier|lofty}}
+
+====Derived terms====
+* {{l|zh|中|tr=Zhōng-}} {{qualifier|abbreviation}}
+* {{l|zh|中国城|tr=Zhōngguóchéng}}
+* {{l|zh|中国大陆|tr=Zhōngguó dàlù}}
+* {{l|zh|中国话|tr=Zhōngguóhuà}}
+* {{l|zh|中国化|tr=Zhōngguóhuà}}
+* {{l|zh|中国画|tr=Zhōngguóhuà}}
+* {{l|zh|中国人|tr=Zhōngguórén}}
+* {{l|zh|中国通|tr=Zhōngguótōng}}
+* {{l|zh|中国语|tr=Zhōngguóyǔ}}
+
+===See also===
+* {{l|zh|华|tr=Huá-}} {{qualifier|abbreviation}}
+
+[[Category:zh:Countries|zhong1guo2]]
 
 ----
 
@@ -32,72 +66,6 @@
 
 [[Category:ja:Countries|ちゅうごく]]
 [[Category:ja:Place names|ちゅうごく]]
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[中]][[国]]|[[中國]]}}
-
-===Etymology===
-{{zh-compound|中|国|center, central|country, kingdom}}
-
-===Pronunciation===
-{{zh-pron
-|m=Zhōngguó
-|c=zung1 gwok3
-|mn=Tiong-kok
-|w=1tson koq
-|ma=y|ca=yue-中國.ogg|ga=gan-中國.ogg|ja=cjy-中國.ogg|mna=nan-中國.ogg|wa=wuu-中國.ogg|xa=hsn-中國.ogg
-}}
-
-===Proper noun===
-{{cmn-proper noun|s|pin=Zhōngguó|pint=zhong1guo2|tra=中國|sim=中国}}
-
-# [[China]]
-#: [[中国]][[的]][[首都]][[是]][[北京]]。
-#: Zhōngguó de shǒudū shì Běijīng
-#:: ''The capital of '''China''' is Beijing.''
-#: [[他]][[现在]][[在]][[中国]][[旅行]]。
-#: Tā xiànzài zài Zhōngguó lǚxíng
-#:: ''He's travelling around '''China''' right now.''
-#: [[你]][[喜欢]][[中国]][[文学]][[吗]]？
-#: Nǐ xǐhuān zhōngguó wénxué ma?
-#:: ''Do you like '''Chinese''' literature?''
-
-====Synonyms====
-* {{l|cmn|天下|tr=tiānxià}} {{qualifier|lofty}}
-
-====Derived terms====
-* {{l|cmn|中|tr=Zhōng-}} {{qualifier|abbreviation}}
-* {{l|cmn|中国城|tr=Zhōngguóchéng}}
-* {{l|cmn|中国大陆|tr=Zhōngguó dàlù}}
-* {{l|cmn|中国话|tr=Zhōngguóhuà}}
-* {{l|cmn|中国化|tr=Zhōngguóhuà}}
-* {{l|cmn|中国画|tr=Zhōngguóhuà}}
-* {{l|cmn|中国人|tr=Zhōngguórén}}
-* {{l|cmn|中国通|tr=Zhōngguótōng}}
-* {{l|cmn|中国语|tr=Zhōngguóyǔ}}
-
-===See also===
-* {{l|cmn|华|tr=Huá-}} {{qualifier|abbreviation}}
-
-[[Category:cmn:Countries|zhong1guo2]]
-
-----
-
-==Min Nan==
-{{zh-hanzi-box|[[中]][[国]]|[[中國]]}}
-
-===Proper noun===
-{{nan-proper noun|s|poj=Tiong-kok|pojt=tiong1kok4|tra=中國|sim=中国|rs=丨03}}
-
-# [[China]]
-
-====Derived terms====
-* [[中国人]]
-
-[[Category:nan:Countries|zhong1guo2]]
-[[Category:nan:Place names]]
 
 [[af:中国]]
 [[ca:中国]]
