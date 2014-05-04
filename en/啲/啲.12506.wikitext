@@ -10,21 +10,29 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[啲]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[di1]]|y=di1}}
-
-# a [[few]]
-
-----
-
-==Mandarin==
+===Pronunciation===
+{{zh-pron
+|m=dì
+|c=dì
+|cat=n
+}}
 
 ===Hanzi===
 {{cmn-hanzi|pin=[[dì]] ([[di4]])|wg=ti<sup>4</sup>}}
 
-# {{defn|lang=cmn|sort=口08}}
+===Noun===
+{{zh-noun}}
+
+# {{cx|Cantonese|lang=zh|sort=di4}} a [[few]], a little bit 
+#: {{usex|lang=yue|好靚生果。買'''啲'''啦，小姐。|tr=hou2 leng3 saang1 gwo2. maai5 '''di1''' laa1 siu2 ze2.|t=Very nice fruits. Buy a few, miss.|ref={{zh-loc|c|Guangzhou}}}}
+
+====Synonyms====
+* {{zh-l|一些}} (Mandarin)
+* {{zh-l|一寡}} (Min Nan)
+* {{zh-l|一撮}} (Teochew)
 
 [[fr:啲]]
 [[pl:啲]]
