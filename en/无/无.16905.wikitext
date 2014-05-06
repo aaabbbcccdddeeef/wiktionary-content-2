@@ -82,22 +82,22 @@
 {{cmn-noun|s|tra=無|pin=wú|pint=wu2}}
 
 # [[no]], [[none]], [[nothing]], [[lack]], [[nil]]
-#: 我无求于你。wǒ wú qiú yú nǐ. 
-#:: I want nothing from you.
-#: [[从无到有]] start from nothing, from scratch
+#: {{usex|我无求于你。|tr=wǒ wú qiú yú nǐ.|t=I want nothing from you.|inline=1|lang=cmn}}
+#: {{usex|[[从无到有]]|t=start from nothing, from scratch|inline=1|lang=cmn}}
 
 ===Prefix===
 {{cmn-pref|s|tra=無|pin=wú|pint=wu2}}
 
 # [[without]], [[-less]], [[un-]]
-#: [[无情]] heartless, [[无理]] unreasonable, [[无边]] unlimited, 
+#: {{usex|[[无情]]|t=heartless|inline=1|lang=cmn}}
+#: {{usex|[[无理]]|t=unreasonable|inline=1|lang=cmn}}
+#: {{usex|[[无边]]|t=unlimited|inline=1|lang=cmn}}
 
 ===Verb===
 {{cmn-verb|s|tra=無|pin=wú|pint=wu2}}
 
-# {{context|literary}} to not [[have]], to [[lack]], there is no
-#: 天空无云。tiānkōng wú yún.
-#:: There is no cloud in the sky.
+# {{label|cmn|literary}} to not [[have]], to [[lack]], there is no
+#: {{usex|天空无云。|tr=tiānkōng wú yún.|t=There is no cloud in the sky.|inline=1|lang=cmn}}
 
 ====Usage note====
 literary equivalent of [[没有]]
@@ -424,20 +424,16 @@ literary equivalent of [[没有]]
 {{nan-adv|s|poj=bô|pojt=bo5|tra=無|sim=无|rs=无00}}
 
 # have not
-#: [[我]]'''无'''[[共]][[伊]][[讲]]
-#: [[goá]] '''bô''' [[kā]] [[i]] [[kóng]]
-#: ''[[I]] '''didn't''' [[tell]] [[him]]''
+#: {{usex|[[我]]'''无'''[[共]][[伊]][[讲]]|tr=[[goá]] '''bô''' [[kā]] [[i]] [[kóng]]|t=[[I]] '''didn't''' [[tell]] [[him]]|inline=1|lang=nan}}
 
 ====Verb====
 {{nan-verb|s|poj=bô|pojt=bo5|tra=無|sim=无|rs=无00}}
 
 # do not have
-#: [[我]]'''无'''[[零星钱]]
-#: [[goá]] '''bô''' [[lân-san-chîⁿ]]
-#: ''[[I]] '''don't have''' [[any]] [[change]]''
+#: {{usex|[[我]]'''无'''[[零星钱]]|tr=[[goá]] '''bô''' [[lân-san-chîⁿ]]|t=[[I]] '''don't have''' [[any]] [[change]]|inline=1|lang=nan}}
 
 ====See also====
-* (''Mandarin'') [[没有]] ([[méiyǒu]])
+* {{qualifier|Mandarin}} {{l|cmn|没有|tr=[[méiyǒu]]}}
 
 ====References====
 *[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=8589&curpage=5&sample=%E7%84%A1&radiobutton=1&querytarget=1&limit=20&pagenum=10&rowcount=199 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
