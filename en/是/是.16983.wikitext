@@ -1,4 +1,4 @@
-{{also|shi|昰}}
+{{also|昰}}
 ==Translingual==
 {{stroke order|strokes=9}}
 {{stroke order|type=animate}}
@@ -9,10 +9,6 @@
 ===Han character===
 {{Han char|rn=72|rad=日|as=05|sn=9|four=6080<sub>1</sub>|canj=日一卜人 (AMYO)|ids=⿱[[日]]⿱[[一]][[龰]]}}
 
-# [[indeed]], [[yes]], [[right]]
-# to [[be]]
-# demonstrative [[pronoun]], [[this]], [[that]]
-
 ====Derived characters====
 * [[提]]
 
@@ -21,12 +17,53 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[是]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=si6|y=si6}}
+===Pronunciation===
+* {{zh-pron
+|m=shì
+|c=si6
+|mn=sī
+|w=2zr
+|ma=zh-shì.ogg
+|cat=v,n
+}}
 
-# {{defn|lang=yue|sort=日05}}
+===Verb===
+{{zh-verb}}
+
+# {{cx|Beginning Mandarin|lang=zh|sort=shi4}} [[is]]; to [[be]]
+#: {{usex|lang=cmn|泰晤士河'''是'''英国第二长的河流。|tr=Tàiwùshì hé '''shì''' Yīngguó dì'èr cháng de héliú.|t=The River Thames '''is''' the second longest river in the UK.}}
+
+====Usage note====
+Even if it is translated as to [[be]], 是 is used only to link two nouns.
+{{zh-usex|我 是 老师|I am a teacher}} {{zh-usex|我 是 中国人|I am Chinese.}}
+It can't be used to link a noun and an adjective. The following sentence is wrong : 这是好。
+The correct sentence is
+{{zh-usex|这 很 好|This is good}}
+Here [[很]] does not mean "very". It is used as a filler, to link a noun and an adjective.
+
+====See also====
+* (''Cantonese'') {{zh-l|係|系}}
+
+===Noun===
+{{zh-noun}}
+
+# [[yes]] (as answer to a question)
+
+===Adjective===
+{{zh-adj}}
+
+# [[right]], [[true]], [[correct]]
+
+===References===
+* {{cite web
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=是
+| title = 是
+| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+| language = Mandarin/English
+}}
 
 ----
 
@@ -45,69 +82,9 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=시|eumhun=바를|rv=si|mr=si|y=si}}
+{{ko-hanja|hangeul=시|eumhun=바를|rv=|mr=si|y=si}}
 
 # {{defn|lang=ko|sort=日05}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[是]]}}
-
-===Pronunciation===
-* {{Pinyin-IPA|shì|a=zh-shì.ogg}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[shì]] ([[shi4]])|wg=shih<sup>4</sup>}}
-
-===Verb===
-{{cmn-verb|ts|pin=shì|pint=shi4}}
-
-# {{cx|Beginning Mandarin|lang=cmn|sort=shi4}} [[is]]; to [[be]]
-#: {{usex|lang=cmn|泰晤士河'''是'''英国第二长的河流。|tr=Tàiwùshì hé '''shì''' Yīngguó dì'èr cháng de héliú.|t=The River Thames '''is''' the second longest river in the UK.}}
-
-====Usage note====
-Even if it is translated as to [[be]], 是 is used only to link two nouns.
-{{zh-usex|我 是 老师|I am a teacher}} {{zh-usex|我 是 中国人|I am chinese.}}
-It can't be used to link a noun and an adjective. The following sentence is wrong : 这是好。
-The correct sentence is
-{{zh-usex|这 很 好|This is good}}
-Here [[很]] does not mean "very". It is used as a filler, to link a noun and an adjective.
-
-===Noun===
-{{cmn-noun|ts|pin=shì|pint=shi4}}
-
-# [[yes]] (as awnser of a question)
-
-===Adjective===
-{{cmn-adj|ts|pin=shì|pint=shi4}}
-
-# [[right]], [[true]], [[correct]]
-
-===Proper noun===
-{{cmn-noun|s|pin=shì|pint=shi4|tra=昰}}
-
-# variant of 是 used in [[given name]]
-
-===References===
-* {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=是
-| title = 是
-| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-| language = Mandarin/English
-}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|tlpa=[[sī]] (si<sup>7</sup>)}}
-
-# {{defn|lang=nan|sort=日05}}
-
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=5013&curpage=1&sample=%E6%98%AF&radiobutton=1&querytarget=1&limit=20&pagenum=2&rowcount=32 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ----
 
@@ -117,19 +94,6 @@ Here [[很]] does not mean "very". It is used as a filler, to link a noun and an
 {{vi-hantu|[[thị]]|rs=日05}}
 
 # {{defn|lang=vi|sort=日05}}
-
-----
-
-==Wu==
-{{attention|wuu}}
-
-===Pronunciation===
-[ʂɨ˥˩]
-
-===Alternative forms===
-Latin Alphabet: sz´
-
-Zhuyin Fuhao: ㄙˊ
 
 [[zh-min-nan:是]]
 [[da:是]]
