@@ -22,12 +22,38 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|江}}
 
-===Hanzi===
-{{yue-hanzi|jyut=gong1|y=gong1}}
+===Pronunciation===
+{{zh-pron
+|m=jiāng
+|c=gong1
+|h=poj=kong
+|mn=kang
+|w=1kaan
+|mc=y
+|oc=y
+|cat=n,pn
+}}
 
-# {{defn|lang=yue|sort=水03}}
+===Noun===
+{{zh-noun}}
+
+# [[river]]
+
+====See also====
+* {{l|zh|河|tr=hé}}
+* {{l|zh|川|tr=chuān}}
+* {{l|zh|河流|tr=héliú}}
+* {{l|zh|水流|tr=shuǐliú}}
+* {{l|zh|溪流|tr=xīliú}}
+* {{l|zh|小河|tr=xiǎohé}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}} [[Jiang]]
 
 ----
 
@@ -58,65 +84,12 @@
 
 ----
 
-==Mandarin==
-
-===Pronunciation===
-* {{audio|zh-jiāng.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[jiāng]] ([[jiang1]])|wg=chiang<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=水03}}
-
-====See also====
-* {{l|cmn|川|tr=chuān}}
-* {{l|cmn|河|tr=hé}}
-* {{l|cmn|河流|tr=héliú}}
-* {{l|cmn|水流|tr=shuǐliú}}
-* {{l|cmn|溪流|tr=xīliú}}
-* {{l|cmn|小河|tr=xiǎohé}}
-
-[[Category:Mandarin entries with audio links]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''江''' (*gang)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
-
-# {{defn|lang=ltc|sort=水03}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=kang}}
-
-# {{defn|lang=nan}}
-
-----
-
 ==Vietnamese==
 
 ===Han character===
 {{vi-hantu|[[giang]], [[giăng]], [[nhăng]], [[gianh]]|rs=水03}}
 
 # {{defn|lang=vi|sort=水03}}
-
-----
-
-==Wu==
-{{attention|wuu}}
-
-===Pronunciation===
-* {{a|Shanghai}} {{IPA|[kɔŋ]|lang=wuu}}
-
-===Noun===
-{{head|wuu|noun|sc=Hani}}
-
-# [[river]]
 
 [[zh-min-nan:江]]
 [[fr:江]]
