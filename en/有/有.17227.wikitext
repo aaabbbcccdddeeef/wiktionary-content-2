@@ -7,9 +7,6 @@
 ===Han character===
 {{Han char|rn=74|rad=月|as=02|sn=6|four=4022<sub>7</sub>|canj=大月 (KB)|ids=⿱[[𠂇]][[月]]}}
 
-# [[have]], [[own]], [[possess]]
-# [[exist]]
-
 ====See also====
 * [[肴]] <!-- unrelated etymologically, but current form similar -->
 
@@ -18,26 +15,74 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[有]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[jau5]], [[jau6]]|y=yau5, yau6}}
+===Pronunciation===
+{{zh-pron
+|m=yǒu
+|c=jau5
+|h=poj=[[yu]] (yu<sup>1</sup>)|gd=ju<sup>1</sup> [Meixian], ziu<sup>1</sup>, ziu<sup>3</sup> [Hailu], ju<sup>1</sup>, ju<sup>3</sup> [Siyan], ju<sup>1</sup>, ju<sup>3</sup>, jiu<sup>1</sup>, jiu<sup>3</sup> [Bao'an], jiu<sup>1</sup> [Dongguan], ju<sup>1</sup>, ju<sup>3</sup>, jiu<sup>2</sup> [Kwangtung]|hpy=yiu1
+|mn=iú
+|w=2hieu
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a
+}}
 
-# {{defn|lang=yue|sort=月02}}
+====Verb====
+{{zh-adj}}
 
-----
+# {{context|Beginning Mandarin|lang=zh|sort=you3}} to [[have]]; to [[possess]]
+#: {{zh-usex|我 有 兩 輛 車。|I have two cars.|link=yes}}
+# {{context|Beginning Mandarin|lang=zh|sort=you3}} [[there is]]; to [[exist]]
+#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.1]
+#*: 太初'''有'''道，道与神同在，道就是神。
+#*: Taìchū '''yǒu''' Dào, Dào yǔ Shén tóngzaì, Dào jiùshì Shén.
+#*:: In the beginning was the Word, and the Word was with God, and the Word was God. 
+#* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 1.13]
+#*: '''[[有]]'''[[晚上]]，[[有]][[早晨]]，[[是]][[第三]][[日]]。
+#*: '''[[yǒu|Yǒu]]''' [[wǎnshàng]], [[yǒu]] [[zǎochén]], [[shì]] [[dì-sān]] [[rì]].
+#*:: And the evening and the morning were the third day.
+#: {{zh-usex|有 很 多 人。|'''There are''' a lot of people.|link=yes}}
+#: {{zh-usex|這兒{r} 有 書 嗎？|'''Are there''' any books here?|link=yes}}
 
-==Hakka==
+====Adjective====
+{{zh-adj}}
 
-===Hanzi===
-{{hak-hanzi|poj=[[yu]] (yu<sup>1</sup>)|gd=ju<sup>1</sup> [Meixian], ziu<sup>1</sup>, ziu<sup>3</sup> [Hailu], ju<sup>1</sup>, ju<sup>3</sup> [Siyan], ju<sup>1</sup>, ju<sup>3</sup>, jiu<sup>1</sup>, jiu<sup>3</sup> [Bao'an], jiu<sup>1</sup> [Dongguan], ju<sup>1</sup>, ju<sup>3</sup>, jiu<sup>2</sup> [Kwangtung]|hpy=yiu1}}
+# {{context|Beginning Mandarin|lang=zh|sort=you3}} [[some]]
 
-# {{defn|lang=hak|sort=月02}}
+===Pronunciation===
+{{zh-pron
+|m=yòu
+|cat=adv,con
+}}
 
-====References====
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E6%9C%89 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=58449&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+====Adverb====
+{{zh-adv}}
+
+# {{context|archaic|lang=zh|sort=you4}} [[again]]
+
+=====Synonyms=====
+* [[又]]
+
+=====Antonyms=====
+* [[沒]] ([[没]]), [[無]] ([[无]]), [[未]],  [[冇]]
+
+====Conjunction====
+{{zh-con}}
+
+# {{context|archaic|lang=zh|sort=you4}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
+#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語˙為政]])
+#*: [[吾]][[十]]'''有'''[[五]][[而]][[志]][[於]][[學]]，[[三]][[十]][[而]][[立]]。
+#*:: ''When I was 10 '''and''' 5 years (15 years old), I devoted myself to study.  At the age of 30, I established myself (got a job and started a family).''
+
+===External links===
+* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yǒu
+* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=148175&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yòu
+
+[[Category:Beginning Mandarin|you3]]
 
 ----
 
@@ -119,77 +164,6 @@
 {{ko-hanja|hangeul=유|eumhun=[[있다]] (Itta)|rv=yu|mr=yu|y=yu}}
 
 # {{defn|lang=ko|sort=月02}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[有]]}}
-
-===Pronunciation===
-{{Pinyin-IPA|yǒu|a=zh-yǒu.ogg}}
-
-===Verb===
-{{cmn-verb|ts|pin=yǒu|pint=you3}}
-
-# {{context|Beginning Mandarin|lang=cmn}} to [[have]]; to [[possess]]
-#: 我有两辆车。 wǒ yǒu liǎng liàng chē.
-#:: I have two cars.
-# {{context|Beginning Mandarin|lang=cmn}} [[there is]]; to [[exist]]
-#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.1]
-#*: 太初'''有'''道，道与神同在，道就是神。
-#*: Taìchū '''yǒu''' Dào, Dào yǔ Shén tóngzaì, Dào jiùshì Shén.
-#*:: In the beginning was the Word, and the Word was with God, and the Word was God. 
-#* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 1.13]
-#*: '''[[有]]'''[[晚上]]，[[有]][[早晨]]，[[是]][[第三]][[日]]。
-#*: '''[[yǒu|Yǒu]]''' [[wǎnshàng]], [[yǒu]] [[zǎochén]], [[shì]] [[dì-sān]] [[rì]].
-#*:: And the evening and the morning were the third day.
-#: '''有'''很多人。 '''yǒu''' hěnduō rén.
-#:: '''There is''' lots of people.
-#: 这儿'''有'''书吗? zhèr '''yǒu''' shū ma?
-#:: '''Is there''' any books here?
-
-===Adjective===
-{{cmn-adj|ts|pin=yǒu|pint=you3}}
-
-# {{context|Beginning Mandarin|lang=cmn}} [[some]]
-
-----
-
-===Adverb===
-{{cmn-adv|ts|pin=yòu|pint=you4}}
-
-# {{context|archaic|lang=cmn}} [[again]]
-
-====Synonyms====
-* [[又]]
-
-====Antonyms====
-* [[沒]] ([[没]]), [[無]] ([[无]]), [[未]],  [[冇]]
-
-===Conjunction===
-{{cmn-con|ts|pin=yòu|pint=you4}}
-
-# {{context|archaic|lang=cmn}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
-#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語˙為政]])
-#*: [[吾]][[十]]'''有'''[[五]][[而]][[志]][[於]][[學]]，[[三]][[十]][[而]][[立]]。
-#*:: ''When I was 10 '''and''' 5 years (15 years old), I devoted myself to study.  At the age of 30, I established myself (got a job and started a family).''
-
-===External links===
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yǒu
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=148175&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yòu
-
-[[Category:Mandarin entries with audio links|you4]]
-[[Category:Mandarin archaic terms|you4]]
-[[Category:Beginning Mandarin|you3]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''有''' (*hiǒu)<!--asterisk indicates that this is a reconstructed pronunciation-->
-
-# {{defn|lang=ltc|sort=月02}}
 
 ----
 
