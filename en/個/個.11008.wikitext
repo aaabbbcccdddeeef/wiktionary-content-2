@@ -27,47 +27,67 @@
 |h=poj=[[kè]], [[kài]]
 |mn=kò
 |w=5geq,5hheq,4eq,2ku
+|w_note=As classifier or particle: 5geq ~ 5hheq ~ 4eq; literary: 2ku
 |ma=zh-gè.ogg
-|cat=cl
+|cat=n,cl,part,a,adv
 }}
 
-===Classifier===
-{{zh-cls}}
-
-# the most commonly used [[measure word]]. Often used in place of all other measure words, particularly when the correct measure word is not known by the speaker.
-#: {{zh-usex|我 有 一 個 問題。|I have a question.|link=yes}}
-
-===Noun===
+===Definitions===
 {{zh-noun}}
 
-# [[individual]]
-#: {{zh-usex|個{gè}人|an individual|link=yes}}
-#: {{zh-usex|個{gè}別|individual, respective|link=yes}}
-#: {{zh-usex|個{gè}體|individuality|link=yes}}
-# [[size]]
-#: {{zh-usex|個{gè}兒{r}|size|link=yes}}
-#: {{zh-usex|個{gè}子{zi}|height, stature|link=yes}}
-
-
-===Pronunciation===
-{{zh-pron
-|w=5geq,5hheq,4eq,2ku
-|cat=part
-}}
-
-===Particle===
-{{zh-particle}}
-
-# {{cx|Wu|lang=zh}} possessive, attributive particle, [[Wu]] variant of {{zh-l|的||de}}
+# [[piece]]; [[individual]]
+#: {{zh-l|個人||an individual; personal}}
+#: {{zh-l|個體||individuality}}
+# [[size]], [[height]]
+#: {{zh-l|個子||height, stature}}
+#: {{zh-l|個兒||size}}
+# [[separate]], [[respective]]; [[separately]], [[individually]]
+#: {{zh-l|個別||individual, separate; some, a couple of}}
+# [[single]], [[alone]]
+# {{n-g|The generic classifier. Used with nouns lacking specific classifiers.}}
+#: {{zh-usex|我 有 一 個 問題。|I have a question.|link=yes}}
+# {{n-g|Alternative classifier, for nouns having specific classifiers. Often colloquial and regional. Usage varies greatly between different topolects.}}
+#: {{zh-usex|一 個 人|one person; alone|link=yes}}
+#: {{zh-usex|一 個 井|a well|C-GZ|link=yes}}
+#: {{zh-usex|一 個 房|a room|C-GZ|link=yes}}
+#: {{zh-usex|一 個 學校|one school|link=yes}}
+# {{cx|dialectal|lang=zh}} [[one]]
+# {{cx|regional|Cantonese|lang=zh}} five minutes (on the clock)
+#: {{zh-usex|而家 係 點 十一 個 字|It's five to two now.|C-GZ|link=yes}}
+#: {{zh-usex|爭 三個 六 點|a quarter to six|C-GZ|link=yes}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{n-g|Particle, placed between a verb and numbers, showing that the following numbers are approximate, not accurate.}}
+#: {{zh-usex|他 一下 跑 個 兩 三 公里 都 不在話下。|Running two or three kilometers in one go is a piece of cake for him.|link=yes}}
+#: {{zh-usex|他們 倆 就 差 個 一 兩 歲。|The age difference between them is only about one or two years.|link=yes}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{n-g|Particle, placed between a verb and its object or complement, adding a sense of ease, swiftness and one-offness to the action.}}
+#: {{zh-usex|吃 個 飯，洗 個 澡，休息 休息|have some food, have a shower and have some rest|link=yes}}
+#: {{zh-usex|我們 昨天 見 個 了 面，聊 了 聊 近況。|We met yesterday, and chatted about how we've been recently.|link=yes}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{n-g|Particle used after {{zh-l|些}}.}}
+#: {{zh-usex|那些 個 年 的 事 現在 回憶 起來 還是 記憶猶新。|It feels like yesterday when I reminisce about those stories in the past.|link=yes}}
+# {{cx|dialectal Mandarin|lang=zh}} {{n-g|Particle used in some time-related words.}}
+#: {{zh-l|今兒個||(''dialectal'') today}}
+# {{cx|obsolete|Wu|Xiang|Gan|dialectal Cantonese|dialectal Min|lang=zh}} (= [[搿]]) [[this]]; [[that]]
+#: {{zh-usex|個 個 人|this person|link=yes|SH}}
+#: {{zh-usex|個 隻 鴨子 勿 太 酥|This duck hasn't been cooked long enough for it to become tender.|link=yes|SH}}
+# {{cx|Wu|lang=zh}} {{n-g|Word-initial particle, serving as the definite article.}}
+#: {{zh-usex|個 人 今朝 為啥 勿 來|Why hasn't that guy come today?|link=yes|SH}}
+# {{cx|obsolete|Cantonese|Wu|lang=zh}} (= [[嘅]]) {{n-g|Possessive particle. Equivalent to Mandarin {{zh-l|的}}.}}
+#: {{zh-usex|我 個 小囡|my daughter|link=yes|SH}}
+#: {{zh-usex|住 響 你 屋企 個 陳 先生 係 乜嘢 人 嚟 呀？|Who is that Mr. Chan that lives at your house?|C-GZ|link=yes}}
+# {{cx|dialectal|lang=zh}} {{n-g|Sentence-final declarative, affirmative, or prohibitive particle. Equivalent to Mandarin {{zh-l|的}}, {{zh-l|了}}.}}
 
 ====Compounds====
-*[[個別]]
-*[[個個]]
-*[[個兒]]
-*[[個人]]
-*[[個體]]
-*[[個性]]
-*[[個子]]
+{{der2
+|* {{zh-l|個別}}
+|* {{zh-l|個個}}
+|* {{zh-l|個兒}}
+|* {{zh-l|個人}}
+|* {{zh-l|個體}}
+|* {{zh-l|個性}}
+|* {{zh-l|個子}}
+}}
+
+===Descendants===
+{{Sinoxenic-word|個|こ|개|cá}}
 
 [[Category:Beginning Mandarin|ge4]]
 
