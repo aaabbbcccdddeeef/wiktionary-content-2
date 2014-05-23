@@ -9,9 +9,6 @@
 ===Han character===
 {{Han char|rn=2|rad=丨|as=02|sn=3|four=8020.0|canj=人中 (OL)|ids=⿱[[𠆢]][[丨]]}}
 
-# numerary adjunct, piece (counter word)
-# [[single]]
-
 ====See also====
 * [[介]] <!-- graphically similar, and in fact confused – see Korean section -->
 
@@ -20,12 +17,60 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[个]]|[[個]]／[[箇]]}}
 
-===Hanzi===
-{{yue-hanzi|tra=個|jyut=go3|y=go3}}
+===Alternative forms===
+* {{zh-l|箇}}
 
-# {{defn|lang=yue|sort=丨02}}
+===Pronunciation===
+{{zh-pron
+|m=gè,ge
+|c=go3
+|h=poj=[[kè]], [[kài]]
+|mn=kò
+|w=3ku
+|ma=zh-gè.ogg
+|cat=cl
+}}
+
+===Classifier===
+{{zh-cls}}
+
+# the most commonly used [[measure word]]. Often used in place of all other measure words, particularly when the correct measure word is not known by the speaker.
+
+===Noun===
+{{zh-noun}}
+
+# [[individual]]
+#: {{zh-usex|个{gè}人|an individual|link=yes}}
+#: {{zh-usex|个{gè}别|individual, respective|link=yes}}
+#: {{zh-usex|个{gè}体|individuality|link=yes}}
+# [[size]]
+#: {{zh-usex|个{gè}儿{r}|size|link=yes}}
+#: {{zh-usex|个{gè}子{zi}|height, stature|link=yes}}
+
+===Pronunciation===
+{{zh-pron
+|w=3ku
+|cat=part
+}}
+
+===Particle===
+{{zh-particle}}
+
+# {{cx|Wu|lang=zh}} possessive, attributive particle, [[Wu]] variant of {{zh-l|的||de}}
+
+====Compounds====
+* [[个别]]
+* [[个个]]
+* [[个儿]]
+* [[个人]]
+* [[个体]]
+* [[个性]]
+* [[个子]]
+
+[[Category:Beginning Mandarin|ge4]]
 
 ----
 
@@ -71,41 +116,6 @@
 
 * [[개]] (gae; original pronunciation [[가]] (ga))
 * [[낱]] [[개]] (nat gae)
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[个]]|[[個]] or [[箇]]}}
-
-===Pronunciation===
-{{Pinyin-IPA|gè|a=zh-gè.ogg}}
-
-===Hanzi===
-{{cmn-hanzi|tra=個|pin=[[gè]] ([[ge4]])|wg=ko<sup>4</sup>}}
-
-===Classifier===
-{{cmn-cls|s|pin=gè|pint=ge4|sim=个|tra=[[個]] or [[箇]]}}
-
-# the most commonly used [[measure word]]. Often used in place of all other measure words, particularly when the correct measure word is not known by the speaker.
-
-===Noun===
-{{cmn-noun|s|pin=gè|pint=ge4|tra=[[個]] or [[箇]]}}
-
-# [[individual]]
-#: [[个人]] an individual; [[个别]] individual, respective; [[个体]] individuality
-# [[size]]
-#: [[个儿]] size; [[个子]] height, stature
-
-====Compounds====
-* [[个别]]
-* [[个个]]
-* [[个儿]]
-* [[个人]]
-* [[个体]]
-* [[个性]]
-* [[个子]]
-
-[[Category:Mandarin entries with audio links]]
 
 [[zh-min-nan:个]]
 [[cs:个]]
