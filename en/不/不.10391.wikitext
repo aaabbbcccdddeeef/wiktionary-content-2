@@ -33,10 +33,6 @@ The seed have been linked to the meaning of negation by saying that the root is 
 ===Han character===
 {{Han char|rn=1|rad=一|as=03|sn=4|four=1090<sub>0</sub>|canj=一火 (MF)}}
 
-# [[no]], [[not]]
-# [[un-]]
-# [[negation]] [[prefix]]
-
 ====Descendants====
 * [[ふ]]
 * [[フ]]
@@ -50,26 +46,134 @@ The seed have been linked to the meaning of negation by saying that the root is 
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[不]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[bat1]], [[fau2]]|y=bat1, fau2}}
+===Pronunciation===
+{{zh-pron
+|m=bù
+|c=bat1,fau2
+|h=poj=[[put]] (put<sup>4</sup>)|gd=put<sup>7</sup>|hpy=bud5
+|mn=put
+|oc=y
+|ma=y
+|cat=adv,pref
+}}
 
-# {{defn|lang=yue|sort=一03}}
+===Adverb===
+{{zh-adv}}
 
-----
+# [[not]]
+#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.5]
+#*: 光照在黑暗里，黑暗却'''不'''接受光。
+#*: Guāng zhào zaì hēiàn lǐ, hēi'àn què '''bù''' jiēshòu guāng.
+#*:: And the light shineth in darkness; and the darkness comprehended it '''not'''.
+#: ''{{lang|und|sc=Hani|我'''不'''是丹麦人.}}'' — “I am '''not''' Danish.” (Literally, “I not am Danish.”)
+#: 这个'''不'''好。
+#:: This is '''not''' good.
+# [[no]];
+#: {{zh-usex|你 是 丹麥人 嗎？不 是|“Are you Danish? '''No'''.”|link=yes}}
 
-==Hakka==
+====Usage notes====
+* The tone changes from fourth to second tone when followed by a fourth-tone syllable.
+* When negating the verb {{zh-l|有}} (to have), {{zh-l|沒|没}} is used instead of 不.
+* The word '''no''' does not have a translation in Chinese. To awser no to a yes/no question ( either "affirmative-negative questions" ([[正反问句]]) or {{zh-l|嗎|吗}}[ question) , you have to use the verb of the question in negative form, i.e. preceded by '''不''' (or by {{zh-l|沒|没}} in the case of {{zh-l|有}}).
+*:: 你认识他吗? / 你认识不认识他？  '''不认识'''。 
+*:: Do you know him?  '''No'''.
+*:If there is no verb to negate in the context, [[不是]] is used.
+*: No can be translated by [[否]] alone but this is formal and not standart Chinese.
 
-===Hanzi===
-{{hak-hanzi|poj=[[put]] (put<sup>4</sup>)|gd=put<sup>7</sup>|hpy=bud5}}
+====Synonyms====
+* [[没]] used to negate [[有]]
+* [[否]] no (formal)
+* [[不是]] no ( as awnser of a yes/no question )
 
-# {{defn|lang=hak|sort=一03}}
+====Antonyms====
+* [[是]] yes ( as awnser of a question )
 
-====References====
-* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E4%B8%8D CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=33782&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+===Prefix===
+{{zh-pref}}
+
+# [[un-]]; [[negation]] [[prefix]]
+#: [[不幸]] unfortunate; [[不安]] unpeaceful
+
+====Synonyms====
+* [[无]] (prefix) without, -less
+
+====Compounds====
+{{rel-top4|compound words that contain 不}}
+* [[不碍事]]
+* [[不安]]
+* [[不比]]
+* [[不必]]
+* [[不辞]]
+* [[不辞而别]]
+* [[不错]]
+* [[不丹]]
+* [[不单]]
+* [[不但]]
+* [[不当]]
+* [[不得不]]
+* [[不得了]]
+* [[不点儿]]
+* [[不断]]
+* [[不对]]
+{{rel-mid4}}
+* [[不顾]]
+* [[不管]]
+* [[不光]]
+* [[不好]]
+* [[不堪]]
+* [[不可]]
+* [[不愧]]
+* [[不力]]
+* [[不利]]
+* [[不良]]
+* [[不了]]
+* [[不料]]
+* [[不列颠]]
+* [[不劣方头]]
+* [[不吝]]
+* [[不论]]
+{{rel-mid4}}
+* [[不满]]
+* [[不免]]
+* [[不能]]
+* [[不平]]
+* [[不巧]]
+* [[不然]]
+* [[不仁]]
+* [[不忍]]
+* [[不如]]
+* [[不少]]
+* [[不是]]
+* [[不惜]]
+* [[不像话]]
+* [[不兴]]
+* [[不行]]
+* [[不省人事]]
+{{rel-mid4}}
+* [[不幸]]
+* [[不许]]
+* [[不扬]]
+* [[不要]]
+* [[不要紧]]
+* [[不一定]]
+* [[不一而足]]
+* [[不一会儿]]
+* [[不用]]
+* [[不由得]]
+* [[不再]]
+* [[不在]]
+* [[不在乎]]
+* [[不怎么样]]
+* [[不知不觉]]
+* [[不足]]
+{{rel-bottom}}
+
+===Proverbs===
+* [[不入虎穴，焉得虎子]]
+* [[不塞不流，不止不行]]
 
 ----
 
@@ -166,146 +270,6 @@ The seed have been linked to the meaning of negation by saying that the root is 
 
 ====References====
 * {{Hanja ref|nav=9606}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[不]]}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[bù]] ([[bu4]])|wg=pu<sup>4</sup>}}
-
-====Usage notes====
-* The tone changes from fourth to second tone when followed by a fourth-tone syllable.
-
-===Pronunciation===
-{{Pinyin-IPA|bù|a=zh-bù.ogg}}
-
-===Adverb===
-{{cmn-adv|ts|pin=bù|pint=bu4}}
-
-# [[not]]
-#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.5]
-#*: 光照在黑暗里，黑暗却'''不'''接受光。
-#*: Guāng zhào zaì hēiàn lǐ, hēi'àn què '''bù''' jiēshòu guāng.
-#*:: And the light shineth in darkness; and the darkness comprehended it '''not'''.
-#: ''{{lang|und|sc=Hani|我'''不'''是丹麦人.}}'' — “I am '''not''' Danish.” (Literally, “I not am Danish.”)
-#: 这个'''不'''好。
-#:: This is '''not''' good.
-# [[no]];
-#: ''{{lang|und|sc=Hani|你是丹麦人吗?'''不'''是.}}'' — “Are you Danish? '''No'''.” (Literally, “You are Danish? Not are.”)
-
-====Usage notes====
-* When negating the verb [[有]] ( to have ), [[没]] is used instead of 不.
-
-* The word '''no''' does not have a translation in Chinese. To awser no to a yes/no question ( either "affirmative-negative questions" ([[正反问句]]) or [[吗]] question) , you have to use the verb of the question in negative form, i.e. preceded by '''不''' ( or by [[没]] in the case of [[有]]). 
-*:: 你认识他吗? / 你认识不认识他？  '''不认识'''。 
-*:: Do you know him?  '''No'''.
-*:If there is no verb to negate in the context, [[不是]] is used.
-*: No can be translated by [[否]] alone but this is formal and not standart Chinese.
-
-====Synonyms====
-* [[没]] used to negate [[有]]
-* [[否]] no (formal)
-* [[不是]] no ( as awnser of a yes/no question )
-
-====Antonyms====
-* [[是]] yes ( as awnser of a question )
-
-===Prefix===
-{{cmn-pref|ts|pin=bù|pint=bu4}}
-
-# [[un-]]; [[negation]] [[prefix]]
-#: [[不幸]] unfortunate; [[不安]] unpeaceful
-
-====Synonyms====
-* [[无]] (prefix) without, -less
-
-====Compounds====
-{{rel-top4|compound words that contain 不}}
-* [[不碍事]]
-* [[不安]]
-* [[不比]]
-* [[不必]]
-* [[不辞]]
-* [[不辞而别]]
-* [[不错]]
-* [[不丹]]
-* [[不单]]
-* [[不但]]
-* [[不当]]
-* [[不得不]]
-* [[不得了]]
-* [[不点儿]]
-* [[不断]]
-* [[不对]]
-{{rel-mid4}}
-* [[不顾]]
-* [[不管]]
-* [[不光]]
-* [[不好]]
-* [[不堪]]
-* [[不可]]
-* [[不愧]]
-* [[不力]]
-* [[不利]]
-* [[不良]]
-* [[不了]]
-* [[不料]]
-* [[不列颠]]
-* [[不劣方头]]
-* [[不吝]]
-* [[不论]]
-{{rel-mid4}}
-* [[不满]]
-* [[不免]]
-* [[不能]]
-* [[不平]]
-* [[不巧]]
-* [[不然]]
-* [[不仁]]
-* [[不忍]]
-* [[不如]]
-* [[不少]]
-* [[不是]]
-* [[不惜]]
-* [[不像话]]
-* [[不兴]]
-* [[不行]]
-* [[不省人事]]
-{{rel-mid4}}
-* [[不幸]]
-* [[不许]]
-* [[不扬]]
-* [[不要]]
-* [[不要紧]]
-* [[不一定]]
-* [[不一而足]]
-* [[不一会儿]]
-* [[不用]]
-* [[不由得]]
-* [[不再]]
-* [[不在]]
-* [[不在乎]]
-* [[不怎么样]]
-* [[不知不觉]]
-* [[不足]]
-{{rel-bottom}}
-
-===Proverbs===
-* [[不入虎穴，焉得虎子]]
-* [[不塞不流，不止不行]]
-
-[[Category:Mandarin entries with audio links|bu4]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''不''' (*biət, pǝw)<!--the asterisk indicates that this is a reconstructed pronunciation-->
-
-# {{defn|lang=ltc|sort=一03}}
 
 ----
 
