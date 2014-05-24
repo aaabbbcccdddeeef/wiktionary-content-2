@@ -12,8 +12,6 @@
 ===Han character===
 {{Han char|rn=46|rad=山|as=00|sn=3|four=2277<sub>0</sub>|canj=山 (U)}}
 
-# [[mountain]], [[hill]], [[peak]]
-
 ====Coordinate terms====
 * [[丘]]
 
@@ -25,36 +23,52 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[山]]}}
+
+===Etymology===
+{{liushu|i}} – three mountain peaks. In the Oracle Bone Script, they were represented by triangles rather than vertical strokes. Compare [[丘]], particularly earlier forms.
 
 ===Pronunciation===
-* {{a|Hoisanese}} {{IPA|[san˧]|lang=yue}}
-
-===Hanzi===
-{{yue-hanzi|jyut=saan1|y=saan1}}
+{{zh-pron
+|m=shān
+|c=saan1
+|mn=san/soaⁿ/suann
+|h=poj=san|gd=san<sup>1</sup>|hpy=san1
+|w=1se
+|mc=y
+|oc=y
+|cat=n,pn
+}}
 
 ===Noun===
-{{yue-noun|ts|jyut=saan1|rs=山00}}
+{{zh-noun|mw=座}}
 
-# [[mountain]]
+# [[mountain]], [[hill]]
+# bundled straw in which [[silkworms]] spin [[cocoons]]
+# [[gable]]
 
-====Derived terms====
-* [[台山話]]
-* [[台山]]
+===Proper noun===
+{{zh-proper noun}}
 
-----
+# {{surname|lang=zh}} [[Shan]]
 
-==Hakka==
+====Compounds====
+* [[火山]]
+* [[山药]]
+* [[山歌]]
+* [[山门]]
 
-===Hanzi===
-{{hak-hanzi|poj=san|gd=san<sup>1</sup>|hpy=san1}}
-
-# {{defn|lang=hak|sort=山00}}
 
 ===References===
-* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query= CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=xxxxx&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+* {{cite web
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=山
+| title = 山
+| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+| language = Mandarin/English
+| accessdate = 2014-02-26}}
+
+[[Category:Beginning Mandarin|san1]]
 
 ----
 
@@ -108,86 +122,12 @@
 
 ----
 
-==Mandarin==
-
-===Pronunciation===
-* {{audio|zh-shān.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[shān]] ([[shan1]])|wg=shan<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=山00}}
-
-===Noun===
-{{cmn-noun|ts|pin=shān|pint=shan1|mw=座}}
-
-# [[mountain]], [[hill]]
-# bundled straw in which [[silkworms]] spin [[cocoons]]
-# [[gable]]
-
-===Proper noun===
-{{cmn-proper noun|ts|pin=shān|pint=shan1}}
-
-# {{surname|lang=cmn}}
-
-====Compounds====
-* [[火山]]
-* [[山药]]
-* [[山歌]]
-* [[山门]]
-
-[[Category:Mandarin entries with audio links]]
-
-===References===
-* {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=山
-| title = 山
-| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-| language = Mandarin/English
-| accessdate = 2014-02-26}}
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''山''' (*shrɛn)<!--asterisk indicates that this is a reconstructed pronunciation-->
-
-# {{defn|lang=ltc|sort=山00}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=san, soaⁿ|tlpa=san (san<sup>1</sup>), suann (suann<sup>1</sup>)}}
-
-# {{defn|lang=nan}}
-
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=205&curpage=1&sample=%E5%B1%B1&radiobutton=1&querytarget=1&limit=20&pagenum=10&rowcount=193 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
-
-----
-
 ==Vietnamese==
 
 ===Han character===
 {{vi-hantu|[[san]], [[sơn]]|rs=山00}}
 
 # {{defn|lang=vi|sort=山00}}
-
-----
-
-==Wu==
-{{attention|wuu|PoS/L3 header?}}
-
-===Pronunciation===
-{{head|wuu}} {{a|Shanghai}} (Taihu Wu): sĘ(52)
-
-* {{defn|lang=wuu|sort=山00}}
-
-===References===
-* [http://www.eastling.org/tdfweb/cmp.aspx?name=158 Eastling.org (东方语言学)] - "Dialect Pronunciation and Historical Comparison: Shanghai Wu" by Qian Nairong (钱乃荣)
 
 [[Category:CJKV radicals| ]]
 
