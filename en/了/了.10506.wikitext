@@ -38,49 +38,21 @@
 
 ----
 
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=c|rs=亅01}}
-
-# finish, complete
-
-====Readings====
-* {{ja-readings|on=[[りょう]] (ryō)|kun=[[おわる]] (owaru), [[ついに]] (tsuini)}}
-
-====Compounds====
-* [[了解]]
-* [[了承]]
-
-===Proper noun===
-{{ja-pos|k|proper|hira=さとる|rom=Satoru}}
-
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|さとる]]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[료]]>[[요]]|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
-
-# {{defn|ko}}
-
-----
-
-==Mandarin==
+==Chinese==
 {{zh-hanzi-box|[[了]]}}
 
 ===Hanzi===
-{{cmn-hanzi|pin=[[le]] ([[le5]]), [[liǎo]] ([[liao3]])|wg= le<sup>5</sup>, liao<sup>3</sup>}}
+{{zh-hanzi}}
 
 ===Pronunciation===
-{{Pinyin-IPA|le|a=Zh-le.ogg}}
+{{zh-pron
+|m=le
+|ma=Zh-le.ogg
+|cat=particle
+}}
 
 ====Particle====
-{{cmn-particle|ts|pin=le|pint=le5}}
+{{zh-particle}}
 
 # Used after a verb, indicate [[perfective aspect]] (action completion).<br>Most of the time, 了 is translated by a [[past tense]]. But it can also indicate that one action is completed before another.
 #* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 3:11]
@@ -103,13 +75,17 @@
 #:: He lived in Beijing '''for''' two years.
 
 ===Pronunciation===
-{{Pinyin-IPA|liǎo|a=zh-liǎo.ogg}}
+{{zh-pron
+|m=liǎo
+|ma=zh-liǎo.ogg
+|cat=verb
+}}
 
 ====Verb====
-{{cmn-verb|ts|pin=liǎo|pint=liao3}}
+{{zh-verb}}
 
 # To [[finish]]
-{{cmn-adj|s|pin=liǎo|pint=liao3|tra=瞭}}
+{{zh-adj}}
 
 # To [[understand]]
 #: [[了解]] liǎojiě (To [[understand]],to [[realize]] )
@@ -159,6 +135,38 @@
 {{nan-verb|ts|poj=liáu|c=了}}
 
 # also [[矣]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=亅01}}
+
+# finish, complete
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[おわる]] (owaru), [[ついに]] (tsuini)}}
+
+====Compounds====
+* [[了解]]
+* [[了承]]
+
+===Proper noun===
+{{ja-pos|k|proper|hira=さとる|rom=Satoru}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|さとる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# {{defn|ko}}
 
 ----
 
