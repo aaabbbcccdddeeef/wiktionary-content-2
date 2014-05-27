@@ -103,17 +103,36 @@ From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic
 
 ----
 
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[来]]|[[來]]}}
 
 ===Pronunciation===
-* {{audio|zh-lái.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=lái
+|c=loi4
+|h=pfs=lòi,lôi
+|mn=lâi
+|w=3le
+|ma=y
+|cat=v
+}}
 
-===Hanzi===
+====Verb====
+{{zh-verb}}
+
+# {{context|Beginning Mandarin|lang=zh|sort=lai2}} to [[come]]; to [[arrive]]
 {{cmn-hanzi|tra=來|pin=[[lái]] ([[lai2]])|wg=lai<sup>2</sup>}}
 #* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.6]
 #*: 有一个人，是从神那里差'''来'''的，名叫约翰。
-#*: Yǒu yīge rén, shì cóng Shén nàli chāi '''lái''' de, míngjiào John.
-#*:: There was a man sent from God, whose name was John. 
+#*: Yǒu yīge rén, shì cóng shén nàli chāi '''lái''' de, míngjiào John.
+#*:: There was a man sent from God, whose name was John.
+# to [[do]] (specific meaning depending on the context)
+
+====Derived terms====
+* [[来者不善，善者不来]]
+
+===See also===
+* (''Cantonese'') [[嚟]]
 
 ====Compounds====
 {{top3}}
@@ -132,11 +151,11 @@ From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic
 * [[来回票]]
 * [[来火]], [[来火儿]]
 * [[来件]]
-* [[…来讲]]
+* [[来讲|……来讲]]
 * [[来今]]
 {{mid3}}
 * [[来劲]], [[来劲儿]]
-* [[…来看]]
+* [[来看|……来看]]
 * [[来客]]
 * [[来历]]
 * [[来料加工]]
@@ -155,7 +174,7 @@ From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic
 {{mid3}}
 * [[来示]]
 * [[来势]]
-* [[…来说]]
+* [[来说|……来说]]
 * [[来头]], [[来头儿]]
 * [[来往]]
 * [[来文]]
@@ -172,18 +191,6 @@ From {{etyl|ojp|ja|sort=く}}.  The verb ''ku'' is one of the few [[monosyllabic
 * [[来自]]
 * [[来踪去迹]]
 {{bottom}}
-
-===Verb===
-{{cmn-verb|s|pin=lái|pint=lai2|tra=來}}
-
-# to [[come]]; to [[arrive]]
-
-===Phrase===
-* [[来者不善，善者不来]]
-
-# {{defn|lang=cmn|sort=木03}}
-
-[[Category:Mandarin entries with audio links]]
 
 [[fr:来]]
 [[ko:来]]
