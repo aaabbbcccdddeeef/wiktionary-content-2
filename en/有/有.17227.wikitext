@@ -41,9 +41,11 @@
 #: {{zh-usex|這兒{r} 有 書 嗎？|'''Are there''' any books here?|link=yes}}
 
 ====Usage note====
-If the subject of the sentence is a personne or an object, 有 is translated to ''to have''. But when the subject is a place or is undefined, it is translated to ''there is''.
-: Undefined subject : {{zh-usex|有 很 多 人。|'''There are''' a lot of people.|inline=y|link=yes|in_notes=y}}
-: Place : {{zh-usex|街上 有 很 多 车|There is a lot of car in the street|inline=y|link=yes|in_notes=y}}
+* If the subject of the sentence is a personne or an object, 有 is translated to ''to have''. But when the subject is a place or is undefined, it is translated to ''there is''.
+: Undefined subject {{zh-usex|有 很 多 人。|'''There are''' a lot of people.|inline=y|link=yes|in_notes=y}}
+: Place {{zh-usex|街上 有 很 多 车|There is a lot of car in the street|inline=y|link=yes|in_notes=y}}
+* 有 is the only verb not negated with {{l|zh|不}}. It is negated with {{l|zh|没}}
+: {{zh-usex|我 没有 钱|I don't have any money|in_notes=y}}
 
 ====Adjective====
 {{zh-adj}}
