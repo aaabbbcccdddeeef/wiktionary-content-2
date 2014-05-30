@@ -9,35 +9,8 @@
 ===Han character===
 {{Han char|rn=6|rad=亅|as=01|sn=2|four=1720<sub>7</sub>|canj=弓弓 (NN)}}
 
-# to [[finish]]
-# [[particle]] of completed action
-
 ====References====
 * {{Han ref|kx=0085.110|dkj=00226|dj=0173.200|hdz=10048.060|uh=4E86|ud=20102|bh=A446|bd=42054}}
-
-----
-
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=liu5|y=liu5}}
-
-# {{defn|lang=yue|sort=亅01}}
-<!--了如指掌-->
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[líau]] (liau<sup>2</sup>)|gd=liau<sup>3</sup>; liau<sup>3</sup>, le<sup>3</sup> [Hailu, Siyan]|hpy=liau3}}
-
-# {{defn|lang=hak|sort=亅01}}
-
-====References====
-* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E4%BA%86 CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=20749&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
 
 ----
 
@@ -51,40 +24,47 @@
 {{zh-pron
 |m=le
 |ma=Zh-le.ogg
+|c=liu5
+|mn=liáu
+|w=5leq
 |cat=particle
 }}
 
 ====Particle====
 {{zh-particle}}
 
-# {{n-g|Used after a verb, indicate [[perfective aspect]] (action completion)}}
-#: {{zh-usex|我 吃 '''了''' 这 个 苹果。|I '''ate''' the apple.|inline=yes}}
+# {{context|Beginning Mandarin|lang=zh|sort=le5}} {{n-g|Used after a verb, indicate [[perfective aspect]] (action completion)}}
+#: {{zh-usex|我 吃 了 這 個 蘋果。|I '''ate''' the apple.|link=yes}}
 # {{n-g|Used at the end of a sentence, indicate a change of state.}} 
-#: {{zh-usex|他是大学生了|He '''became''' student / He is a student '''now'''|inline=yes}}
+#: {{zh-usex|他 是 大學生 了。|He '''has become''' student / He is a student '''now'''|link=yes}}
 # ({{n-g|Used after a verb and followed by an amount of time, express duration}}) [[for]]
-#:{{zh-usex|他 在 北京 住 '''了''' 两 年。|He lived in Beijing '''for''' two years.|inline=yes}}
+#:{{zh-usex|他 在 ^北京 住 '''了''' 兩 年。|He lived in Beijing '''for''' two years.|link=yes}}
 
 ====Usage note====
 * {{sense|perfective aspect particle}} 
 : Most of the time, 了 is translated by a [[past tense]]. But it can also indicate that one action is completed before another.
-: {{zh-usex|你 吃 '''了''' 以后，告诉 我。|Tell me when you are done eating.|inline=yes|in_notes=1}}
+: {{zh-usex|你 吃 '''了''' 以後，告訴 我。|Tell me when you are done eating.|inline=yes|in_notes=1|link=yes}}
 
 
 * {{sense|change of state particle}}
 : When used as the ''change of state particle'', 了 can be translated by [[now]], [[already]] or not [[anymore]].
-: {{zh-usex|我 会 说 中文 '''了'''。|I can speak Chinese '''now'''. (I couldn't before)|inline=yes|in_notes=1)}}
-: {{zh-usex|我 吃饭 '''了'''。|I've eaten ('''already''').|inline=yes|in_notes=1}}
-: {{zh-usex|没有 纸 '''了'''。|There's no paper '''anymore'''.|inline=yes|in_notes=1}}
+: {{zh-usex|我 會 說 中文 '''了'''。|I can speak Chinese '''now'''. (I couldn't before)|inline=yes|in_notes=1|link=yes}}
+: {{zh-usex|我 吃飯 '''了'''。|I've eaten ('''already''').|inline=yes|in_notes=1|link=yes}}
+: {{zh-usex|沒有 紙 '''了'''。|There's no paper '''anymore'''.|inline=yes|in_notes=1|link=yes}}
 
 
-: In a question, 了 is put before the particle {{l|cmn|吗}}.
+: In a question, 了 is put before the particle {{zh-l|嗎/吗}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=liǎo
 |ma=zh-liǎo.ogg
+|c=liu5
+|w=3liau
 |cat=verb
 }}
+
+{{zh-hanzi-box|[[了]]|[[瞭]]／[[了]]}}
 
 ====Verb====
 {{zh-verb}}
@@ -93,9 +73,7 @@
 {{zh-adj}}
 
 # To [[understand]]
-#: [[了解]] liǎojiě (To [[understand]],to [[realize]] )
-
-[[Category:Mandarin entries with audio links|le5]]
+#: {{zh-l|瞭解/了解|tr=liǎojiě}}  (to [[understand]], to [[realize]] )
 
 ===References===
 * {{cite web
@@ -122,24 +100,6 @@
 | work = Chinese Grammar Wiki
 | title = Expressing duration with "le"
 | accessdate = 2014-02-13}}
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''了''' (*leǔ)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
-
-# {{defn|lang=ltc|sort=亅01}}
-
-----
-
-==Min Nan==
-
-===Verb===
-{{nan-verb|ts|poj=liáu|c=了}}
-
-# also [[矣]]
 
 ----
 
