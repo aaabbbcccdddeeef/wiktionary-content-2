@@ -51,10 +51,10 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{zh
 
 ===Pronunciation===
 {{zh-pron
-|m=dà,dài
+|m=dà
 |c=[[daai6]]
 |h=poj=thài;gd=t'ai<sup>5</sup>, t'ai<sup>3</sup> [Meixian, Bao'an];hpy=tai4
-|mn=tōa/tāi/ta
+|mn=tōa/ta
 |w=3du,3da
 |mc=y
 |oc=y
@@ -62,13 +62,12 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{zh
 |cat=a,adv
 }}
 
-===Adjective===
+====Adjective====
 {{zh-adj}}
-
-(''dà'')
 
 # [[big]], [[large]], [[huge]]
 #: {{zh-usex|這 個 太 '''大''' 了！|This is too '''big'''!|link=yes}}
+# [[big]], [[great]], [[deep]]
 # [[main]], [[major]]
 #: {{zh-usex|他們 將 車 一直 開 到 '''大'''門口。|They drove right up to the '''main''' gate.|link=yes}}
 #: {{zh-usex|他 是 一家 石油 公司 的 '''大''' 股東。|He is a '''major''' stockholder in an oil company.|link=yes}}
@@ -78,26 +77,31 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{zh
 #: {{zh-usex|你 多 '''大''' 了？|How '''old''' are you?|link=yes}}
 #: {{zh-usex|她 比 他 '''大'''。|She is '''older''' than him.|link=yes}}
 
-===Adverb===
+====Adverb====
 {{zh-adv}}
 
 # [[greatly]], very much
 #: {{zh-usex|^中 ^美 關係 已 有 很 '''大''' 改善。|Relations between China and America have improved '''greatly'''.|link=yes}}
 
-===Noun===
+====Noun====
 {{zh-noun}}
 
 # {{cx|dialectal|lang=zh}} [[father]]
 # {{cx|dialectal|lang=zh}} [[father]]'s elder or younger brother
 
-===Noun===
-{{zh-noun}}
+===Pronunciation===
+{{zh-pron
+|m=dài
+|mn=tāi
+|c=[[daai6]]
+}}
 
-(''dài'')
+====Noun====
+{{zh-noun}}
 
 # {{n-g|See {{zh-l|大夫}}.}}
 
-====Compounds====
+===Compounds===
 {{der-top}}
 {{top4}}
 * {{zh-l|大安}}
@@ -329,7 +333,7 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{zh
 {{bottom}}
 {{der-bottom}}
 
-====Descendants====
+===Descendants===
 {{Sinoxenic-word|大|だい|j2=たい|대|đại}}
 
 ----
