@@ -18,20 +18,18 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 
 ===Pronunciation===
 {{zh-pron
-|m=hǎo,hào,a=y,a2=y
-|c=hou2,hou3
+|m=hǎo,a=y
+|c=hou2
 |h=poj=[[háu]], [[hàu]];gd=hau<sup>3</sup> [Hailu], hau<sup>3</sup>, ho<sup>3</sup> [Siyan];hpy=hau3, hau4
-|mn=hó/hòⁿ
+|mn=hó
 |w=2hau
 |mc=y
 |oc=y
 |cat=a,adv,v
 }}
 
-===Adjective===
+====Adjective====
 {{zh-adj}}
-
-(M ''hǎo'', C ''hou2'', MN ''hó'', W ''2hau'')
 
 # to be [[good]], [[well]]
 #: {{zh-usex|你 '''好''' 嗎？|How are you?|link=yes}}
@@ -43,30 +41,11 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 # to be good to, easy to
 #: {{zh-usex|這 水龍頭 '''好''' 擰。|This tap turns '''easily'''.|link=yes}}
 
-(M ''hào'', C ''hou3'', MN ''hòⁿ'', W ''2hau'')
-
-# to be fond of, to like
-# to have a tendency to, to be prone to, good to, easy to
-
-===Verb===
-{{zh-verb}}
-
-(M ''hào'')
-
-# to [[like]]; to love; to be fond of 
-# to be liable to; to be prone to
-# {{cx|Shanghainese|lang=zh}} [[can]], to be able to (equivalent to standard Chinese {{zh-l|會|会}})
-#: {{zh-usex|儂 '''好''' 流利 個 講 上海話 𠲎？|'''Can''' you speak fluently Shanghainese?|SH|link=yes}}
-
-===Adverb===
-{{zh-adv}}
-
-# {{cx|chiefly|Cantonese|lang=zh|sort=hou2}} [[very]]
-#: {{zh-usex|我 個 中文 老師 好 好 人 㗎！|My Chinese teacher is a '''very''' nice person!|tr=ngo5 go3 zung1 man4 lou5 si1 '''hou2''' hou2 jan4 gaa2!|C-GZ||link=yes}}
+=====Antonyms=====
+* {{zh-l|壞|坏}} bad
 
 ====Compounds====
-{{rel-top|compound words that contain 好}}
-* hǎo
+{{rel-top|compound words that contain 好 hǎo}}
 ** [[好比]]
 ** [[好不]]
 ** [[好不容易]]
@@ -147,7 +126,27 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 ** [[好转]]
 ** [[好自为之]]
 ** [[好走]]
-* hào
+{{rel-bottom}}
+
+===Pronunciation===
+{{zh-pron
+|m=hào,a=y
+|c=hou3
+|mn=hòⁿ
+|w=2hau
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to be fond of, to like
+# to have a tendency to, to be prone to, good to, easy to
+# {{cx|Shanghainese|lang=zh}} [[can]], to be able to (equivalent to standard Chinese {{zh-l|會|会}})
+#: {{zh-usex|儂 '''好''' 流利 個 講 上海話 𠲎？|'''Can''' you speak fluently Shanghainese?|SH|link=yes}}
+
+====Compounds====
+{{rel-top|compound words that contain 好 hào}}
 ** [[好吃]]
 ** [[好大喜功]]
 ** [[好动]]
@@ -167,6 +166,19 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 ** [[好战]]
 ** [[好整以暇]]
 {{rel-bottom}}
+
+===Pronunciation===
+{{zh-pron
+|c=hou2
+|cat=adv
+}}
+====Adverb====
+{{zh-adv}}
+
+# {{cx|chiefly|Cantonese|lang=zh|sort=hou2}} [[very]]
+#: {{zh-usex|我 個 中文 老師 好 好 人 㗎！|My Chinese teacher is a '''very''' nice person!|tr=ngo5 go3 zung1 man4 lou5 si1 '''hou2''' hou2 jan4 gaa2!|C-GZ||link=yes}}
+
+
 
 ===Descendants===
 {{Sinoxenic-word|好|こう|호|hảo|v2=háo}}
