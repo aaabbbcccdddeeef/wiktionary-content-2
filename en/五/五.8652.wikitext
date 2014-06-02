@@ -10,9 +10,6 @@ One possibility is that 五 was originally written as five horizontal lines, sim
 ===Han character===
 {{Han char|rn=7|rad=二|as=02|sn=4|four=1010<sub>7</sub>|canj=一木一 (MDM)}}
 
-# [[five]]
-# used as a [[surname]]
-
 ====References====
 * {{Han ref|kx=0086.110|dkj=00257|dj=0178.040|hdz=10011.030|uh=4E94|ud=20116|bh=A4AD|bd=42157}}
 
@@ -26,34 +23,6 @@ One possibility is that 五 was originally written as five horizontal lines, sim
 
 ----
 
-==Cantonese==
-
-===Pronunciation===
-* {{a|Guangzhou}} {{IPA|/ŋ̍¹³/|lang=yue}}
-
-===Numeral===
-{{head|yue|numeral|jyutping and Yale|ng5}}
-
-# [[five]]
-
-[[Category:yue:Cardinal numbers]]
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=ńg|gd=ng<sup>3</sup>|hpy=ng3}}
-
-# {{defn|lang=hak|sort=二02}}
-
-====References====
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E4%BA%94 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=26216&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
 ==Chinese==
 {{zh-hanzi-box|五}}
 
@@ -63,37 +32,31 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*l/b-ŋa||five}}.
 ===Pronunciation===
 {{zh-pron
 |m=wǔ
-|ma=zh-wǔ.ogg
-|cat=hanzi
+|ma=y
+|c=ng5
+|h=pfs=ńg
+|mn=gō
+|mc=y
+|oc=y
+|cat=num,pn
 }}
 
-===Hanzi===
-{{zh-hanzi}}
+===Numeral===
+{{zh-num}}
+
+# [[five]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}} [[Wu]] (''mainland China, Taiwan''), [[Ng]] (''Hong Kong'')
 
 ====Compounds====
 * [[五味子]]
 
-===Numeral===
-{{zh-car-num}}
-
-# [[five]]
-
-[[Category:Mandarin entries with audio links|wu3]]
 [[Category:Mandarin numbers|wu3]]
 [[Category:zh:Cardinal numbers|wu3]]
 [[Category:Beginning Mandarin|wu3]]
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=[[ngóo]], [[gōo]]}}
-
-# {{defn|lang=nan|sort=二02}}
-
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ----
 
@@ -225,22 +188,6 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*l/b-ŋa||five}}.
 {{vi-hantu|ngũ|rs=二02}}
 
 # {{defn|lang=vi|sort=二02}}
-
-----
-
-==Wu==
-===Pronunciation===
-* {{a|Shanghai}} {{IPA|/ɦŋ̍²³/|lang=wuu}}
-* {{a|Suzhou}} {{IPA|/ŋ̍³¹/|lang=wuu}}
-
-----
-
-==Zhuang==
-
-===Hanzi===
-{{head|za|character}} ([[haj]])
-
-# [[five]]
 
 [[zh-min-nan:五]]
 [[cs:五]]
