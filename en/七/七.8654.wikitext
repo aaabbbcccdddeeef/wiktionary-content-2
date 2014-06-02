@@ -12,8 +12,6 @@ The top-most horizontal stroke is done from left to right.  The vertical line an
 ===Han character===
 {{Han char|rn=1|rad=一|as=01|sn=2|four=40710|canj=JU|ids=⿻乚丿}}
 
-# [[seven]]
-
 ====Descendants====
 * [[ㄘ]]
 
@@ -31,29 +29,34 @@ The top-most horizontal stroke is done from left to right.  The vertical line an
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|七}}
 
 ===Etymology===
-From {{etyl|sit-pro|yue}} {{m|sit-pro|*s-ni-s||seven}}.
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*s-ni-s||seven}}.
 
-===Hanzi===
-{{yue-hanzi|jyut=[[cat1]]|y=chat1}}
+===Pronunciation===
+{{zh-pron
+|m=qī
+|ma=y
+|c=cat1
+|h=pfs=chhit
+|mn=chhit
+|w=1tshiq
+|mc=y
+|oc=y
+|cat=num
+}}
 
-# {{defn|lang=yue|sort=一01}}
 
-----
+===Numeral===
+{{zh-num}}
 
-==Hakka==
+# [[seven]]
 
-===Hanzi===
-{{hak-hanzi|poj=tshit|gd=ts'it<sup>7</sup>|hpy=qid5}}
-
-# {{defn|lang=hak|sort=一01}}
-
-====References====
-* [http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E4%B8%83 CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=50452&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+[[Category:Mandarin numbers|qi1]]
+[[Category:zh:Cardinal numbers|qi1]]
+[[Category:Beginning Mandarin|qi1]]
 
 ----
 
@@ -163,61 +166,12 @@ From {{etyl|sit-pro|yue}} {{m|sit-pro|*s-ni-s||seven}}.
 
 ----
 
-==Mandarin==
-
-===Pronunciation===
-* {{audio|zh-qī.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[qī]] ([[qi1]]), [[shǎng]] ([[shang3]])|wg=ch'i<sup>1</sup>, shang<sup>3</sup>}}
-
-===Numeral===
-{{cmn-car-num|ts|pin=qī|pint=qi1|rs=一01}}
-
-# [[seven]]
-
-[[Category:Mandarin entries with audio links]]
-[[Category:Mandarin numbers in simplified script|qi1]]
-[[Category:Mandarin numbers in traditional script|一]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''七''' (*tshit)
-
-# {{defn|lang=ltc|sort=一01}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-noun|t|poj=chhit|pojt=chhit4|rs=一01}}
-
-# {{defn|lang=nan}}
-
-----
-
 ==Vietnamese==
 
 ===Han character===
 {{vi-hantu|[[thất]]|rs=一01}}
 
 # {{defn|lang=vi|sort=一01}}
-
-----
-
-==Wu==
-{{attention|wuu}}
-
-===Hanzi===
-Latin Alphabet: che
-Zhuyin Fuhao: ㄑㄜ
-{{head|wuu|hanzi|sc=Hani}}{{attention|wuu|needs inflection template}}
-
-# {{defn|wuu}}
 
 [[zh-min-nan:七]]
 [[cs:七]]
