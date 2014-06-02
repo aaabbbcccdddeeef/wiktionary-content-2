@@ -35,27 +35,42 @@ The conventional explanation is that this represented the concept of "many" thro
 |cat=adv
 }}
 
-===Adverb===
-{{zh-adv}}
+===Adjective===
+{{zh-adj}}
 
 # {{cx|Beginning Mandarin|lang=zh|sort=duo1}} [[many]], [[much]], [[a lot of]], [[numerous]] 
 #: {{zh-usex|街上 有 很 多 人。|There is a lot of people in the street|link=yes}}
-# [[more]]
-# {{non-gloss definition|(after an amount)}} and more, more than
+# {{non-gloss definition|(after an amount)}} [[over]], and more, more than
 #: {{zh-usex|兩 個 年 多|more than three year|link=yes}}
+# {{non-gloss definition|(used in comparison structure  得多 / 多了)}} much more, a lot more, far more
+#: {{zh-usex|他 比 我 高 得多。|He is a lot taller than I am.|link=yes|inline=y}}
+#: {{zh-usex|病人 今天 好 多了。|The patient is much better today.}}
+
+====Usage note====
+* {{sense|over , more than}} When the number is smaller or equal to 10, 多 can be put after the measure word.If it is bigger than ten, 多 has to be put before the measure word:
+
+===Adverb===
+{{zh-adv}}
+
+# {{non-gloss definition|(before or after a verb)}} [[more]]
+#: {{zh-usex|我 应该 多 运动。|I should exercise more.|link=yes}}
 # {{non-gloss definition|(used in question)}} [[how]], [[how much]], [[what]]
-#: {{zh-usex|你 到 学校 要 走 多 远 的 距离？|What distance do you have to walk to school ?}}
-#: {{zh-usex|你多高?|How tall are you?}}
-# {{non-gloss definition|(used in exclamations)}} [[how]], [[what]]
+#: {{zh-usex|你 到 学校 要 走 多 远 的 距离？|What distance do you have to walk to school ?|link=yes}}
+#: {{zh-usex|你 多 高?|How tall are you?|link=yes}}
+# {{non-gloss definition|(emphasis in exclamations)}} [[so]], [[how]], [[what]]
 #: {{zh-usex|看 她 多 漂亮 啊！|Look how pretty she is!|link=yes}}
-#: {{zh-usex|她 戴 的 帽子 多 可爱 呀!|What an adorable hat she is wearing!}}
+#: {{zh-usex|她 戴 的 帽子 多 可爱 呀!|What an adorable hat she is wearing! / The hat she is wearing is so adorable}}
+
+====Usage note====
+* {{sense|more}} Placing 多 after the verb is correct but it is less natural than placing it before.
+* {{sense|so, how}} pronounced [[duó]] (duo2) in Taiwan.
 
 ===Verb===
 {{zh-verb}}
 
+# to [[have a lot]]
 # to [[have]] more, to [[have]] too much, to [[have]] too many
 #: {{zh-usex|他 買 了 四 張 票，多 了 一 張。|He bought four tickets, which was one too many.|link=yes}}
-#: {{zh-usex|看 他 那個 樣子 肯定 是 喝 多 了。 你 最好 把 他 送 回家。|He seem to have had one (drink) too many. You'd better walk him home|link=yes}}
 
 ====Compounds====
 {{top2}}
@@ -63,6 +78,17 @@ The conventional explanation is that this represented the concept of "many" thro
 {{mid2}}
 {{bottom}}
 
+===Reference===
+* {{cite web
+| url = http://resources.allsetlearning.com/chinese/grammar/Expressing_%22much_more%22_in_comparisons
+| work = Chinese Grammar Wiki
+| title = Expressing much more in comparisons
+| accessdate = 2014-05-02}}
+* {{cite web
+| url = http://resources.allsetlearning.com/chinese/grammar/Doing_something_more_with_%22duo%22
+| work = Chinese Grammar Wiki
+| title = Doing something more with "duo"
+| accessdate = 2014-05-02}}
 ----
 
 ==Japanese==
