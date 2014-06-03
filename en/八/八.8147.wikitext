@@ -12,8 +12,6 @@
 ===Han character===
 {{Han char|rn=12|rad=八|as=00|sn=2|four=8000<sub>0</sub>|canj=竹人 (HO)|ids=⿹[[丿]][[乁]]}}
 
-# [[eight]]
-# [[all around]], [[all]] [[sides]]
 # KangXi radical [[Index:Chinese radical/八|八]]
 
 ====Usage notes====
@@ -37,32 +35,105 @@ Minor strokes in the shape of ハ/八, as in the top of [[劵]], can be referred
 
 ----
 
-==Cantonese==
+==Chinese==
 {{zh-hanzi-box|八}}
 
 ===Etymology===
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*s-ni-s||seven}}.
 From [[Old Chinese]] ''*pret'', from [[Proto-Sino-Tibetan]] ''*b-ryat'' (compare Classical Tibetan ''brgyad'')
 
-===Hanzi===
-{{yue-hanzi|jyut=[[baat3]]|y=baat3}}
+===Pronunciation===
+{{zh-pron
+|m=bā
+|ma=y
+|c=baat3
+|h=pfs=pat
+|mn=peh/poeh/pat
+|w=4paq
+|mc=y
+|oc=y
+|cat=num
+}}
 
-# {{defn|lang=yue|sort=八00}}
+===Numeral===
+{{zh-num}}
 
-[[Category:yue:Cardinal numbers|8]]
+# [[eight]]
 
-----
+====Usage notes====
+* (''Min Nan'') '''peh/poeh''' is used when referring to amounts, whereas '''pat''' is used for years and telephone numbers, bank account numbers etc. '''pat''' is literary and is used in expressions.
 
-==Hakka==
+===Pronunciation===
+{{zh-pron
+|mn=pat/bat
+|cat=v
+}}
 
-===Hanzi===
-{{hak-hanzi|poj=pat|gd=pat<sup>7</sup>|hpy=bad5}}
+===Verb===
+{{zh-verb}}
 
-# {{defn|lang=hak|sort=八00}}
+# {{cx|Min Nan|lang=zh}} to [[know]] somebody; to [[recognize]]
+# {{cx|Min Nan|lang=zh}} to be [[familiar]] with
 
-====References====
-* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%85%AB CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=30606&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+===See also===
+* {{zh-l|認識/认识}}
+
+===References===
+* {{reference-book
+ | last =
+ | first =
+ | authorlink =
+ | coauthors =
+ | year = 2000
+ | title = 台灣話大詞典　(Tâi-ôan-ōe tōa-sû-tián)
+ | publisher = ISBN 9573240785
+ | location =
+ | id =
+}}
+
+====Compounds====
+{{top2}}
+* [[八角]]
+* [[八宝菜]]
+* [[八達]]
+* [[八辺形]]
+* [[八潮路]]
+* [[八道]]
+* [[八丁]]
+* [[八幡]]
+* [[八方]]
+* [[八分]]
+* [[八卦]]
+* [[八荒]]
+* [[八角形]]
+* [[八九不离十]] ([[八九不離十]])
+* [[八九分]]
+* [[八苦]]
+* [[八面]]
+* [[八千里路云和月]] ([[八千里路雲和月]])
+{{mid2}}
+* [[八橋]]
+* [[八切]]
+* [[八日]]
+* [[八手]]
+* [[八朔]]
+* [[八月]]
+* [[八紘]]
+* [[八丈島]]
+* [[八重]]
+* [[八州]]
+* [[尺八]]
+* [[七転八倒]]
+* [[八字髭]]
+* [[間八]]
+* [[四苦八苦]]
+* [[七転八起]]
+* [[一八]]
+{{bottom}}
+
+[[Category:Mandarin numbers|ba1]]
+[[Category:zh:Cardinal numbers|ba1]]
+[[Category:Beginning Mandarin|ba1]]
 
 ----
 
@@ -80,7 +151,7 @@ From [[Old Chinese]] ''*pret'', from [[Proto-Sino-Tibetan]] ''*b-ryat'' (compare
 # [[eight]], [[8]]
 
 ====Noun====
-{{ja-noun|k|hira=はち|rom=hachi}}
+{{ja-noun|はち}}
 
 # [[eight]]
 # an abbreviation for 八の[[字]]
@@ -91,7 +162,7 @@ From [[Old Chinese]] ''*pret'', from [[Proto-Sino-Tibetan]] ''*b-ryat'' (compare
 The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 
 ====Noun====
-{{ja-noun|k|hira=や|rom=ya}}
+{{ja-noun|や}}
 
 # [[eight]]
 
@@ -156,7 +227,7 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=팔|rv=pal|mr=p'al|y=phal|eumhun=여덟|ehrv=yeodeolp|ehmr=yŏdŏl|ehy=yetelp}}
+{{ko-hanja|hangeul=팔|rv=|mr=p'al|y=phal|eumhun=여덟|ehrv=yeodeolp|ehmr=yŏdŏl|ehy=yetelp}}
 
 # [[eight]]
 
@@ -169,108 +240,6 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 
 ----
 
-==Mandarin==
-{{zh-hanzi-box|八}}
-
-===Pronunciation===
-{{Pinyin-IPA|bā|a=zh-bā.ogg}}
-
-===Numeral===
-{{cmn-car-num|ts|pin=bā|pint=ba1}}
-
-# {{context|cardinal|lang=cmn|sort=ba1}}[[eight]]
-
-====Compounds====
-{{top2}}
-* [[八角]]
-* [[八宝菜]]
-* [[八達]]
-* [[八辺形]]
-* [[八潮路]]
-* [[八道]]
-* [[八丁]]
-* [[八幡]]
-* [[八方]]
-* [[八分]]
-* [[八卦]]
-* [[八荒]]
-* [[八角形]]
-* [[八九不离十]] ([[八九不離十]])
-* [[八九分]]
-* [[八苦]]
-* [[八面]]
-* [[八千里路云和月]] ([[八千里路雲和月]])
-{{mid2}}
-* [[八橋]]
-* [[八切]]
-* [[八日]]
-* [[八手]]
-* [[八朔]]
-* [[八月]]
-* [[八紘]]
-* [[八丈島]]
-* [[八重]]
-* [[八州]]
-* [[尺八]]
-* [[七転八倒]]
-* [[八字髭]]
-* [[間八]]
-* [[四苦八苦]]
-* [[七転八起]]
-* [[一八]]
-{{bottom}}
-
-[[Category:Mandarin entries with audio links|ba1]]
-[[Category:Mandarin numbers|ba1]]
-[[Category:cmn:Cardinal numbers|ba1]]
-[[Category:Beginning Mandarin|ba1]]
-
-----
-
-==Min Nan==
-{{zh-hanzi-box|八}}
-
-===Pronunciation===
-* {{a|vernacular|Quanzhou}} {{IPA|[ pəʔ˩˩ ]|lang=nan}}
-* {{a|vernacular|Xiamen}} {{IPA|[ pueʔ˩˩ ]|lang=nan}}
-* {{a|vernacular|Zhangzhou}} {{IPA|[ peʔ˩˩ ]|lang=nan}}
-* {{a|literary}} {{IPA|[ pat˩˩ ]|lang=nan}}
-* {{a|literary}} {{IPA|[ bat˩˩ ]|lang=nan}}
-
-===Noun===
-{{nan-noun|ts|poj=[[poeh]], [[peh]] or [[pat]]|pojt=peh4}}
-
-# [[eight]]
-
-====Usage notes====
-* '''peh/poeh''' is used when referring to amounts, whereas '''pat''' is used for years and telephone numbers, bank account numbers etc.
-
-===Verb===
-{{nan-verb|ts|poj=[[pat]] or [[bat]]|pojt=pat4}}
-
-# to [[know]] somebody; to [[recognize]]
-# to be [[familiar]] with
-
-===See also===
-* {{zh-ts|認識|认识}} ([[jīn-sek]]) ''to know somebody''
-
-===References===
-* {{reference-book
- | last =
- | first =
- | authorlink =
- | coauthors =
- | year = 2000
- | title = 台灣話大詞典　(Tâi-ôan-ōe tōa-sû-tián)
- | publisher = ISBN 9573240785
- | location =
- | id =
-}}
-
-[[Category:nan:Numbers|peh4]]
-
-----
-
 ==Vietnamese==
 
 ===Han character===
@@ -280,20 +249,6 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 
 ====References====
 * [http://nomfoundation.org/common/nom_details.php?codepoint=516b Nom Foundation]
-
-----
-
-==Wu==
-
-===Hanzi===
-{{attention|wuu}}
-
-====Pronunciation====
-{{attention|wuu}}
-
-Latin Alphabet: buh
-
-Zhuyin Fuhao: ㄅuh
 
 [[Category:CJKV radicals| ]]
 
