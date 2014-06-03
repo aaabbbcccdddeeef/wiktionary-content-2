@@ -14,8 +14,6 @@ Original meaning was elbow (now [[肘]]).
 ===Han character===
 {{Han char|rn=5|rad=乙|as=01|sn=2|four=40017|canj=KN|ids=⿰乙丿}}
 
-# [[nine]]
-
 ====Related characters====
 * [[丸]]
 ===See also===
@@ -32,50 +30,29 @@ Original meaning was elbow (now [[肘]]).
 
 ----
 
-==Cantonese==
-
-===Etymology===
-
-From [[Old Chinese]] ''*k<sup>w</sup>yu<sup>?</sup>'', from [[Proto-Sino-Tibetan]] ''*t-kua'' (compare Classical Tibetan ''dgu'')
-
-===Hanzi===
-{{yue-hanzi|jyut=[[gau2]]|y=gau2}}
-
-# {{defn|lang=yue|sort=乙01}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=kíu|gd=kiu<sup>3</sup>; kieu<sup>3</sup> [Hong Kong]|hpy=giu3}}
-
-# {{defn|lang=hak|sort=乙01}}
-
-===References===
-* [http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E4%B9%9D CCDICT (Chineselanguage.org)]
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=15396&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
 ==Chinese==
 {{zh-hanzi-box|九}}
+
+===Etymology===
+From [[Old Chinese]] ''*k<sup>w</sup>yu<sup>?</sup>'', from [[Proto-Sino-Tibetan]] ''*t-kua'' (compare Classical Tibetan ''dgu'')
 
 ===Pronunciation===
 {{zh-pron
 |m=jiǔ
-|ma=zh-jiǔ.ogg
-|cat=hanzi
+|ma=y
+|c=gau2
+|h=pfs=kiú
+|mn=kiú/káu/kiáu
+|w=2jieu
+|mc=y
+|oc=y
+|cat=num
 }}
 
-===Hanzi===
-{{zh-hanzi}}, [[jiū]]
-
 ===Numeral===
-{{zh-car-num}}
+{{zh-num}}
 
-# {{context|cardinal|lang=zh|sort=jiu3}} [[nine]]
+# [[nine]]
 
 ====Compounds====
 {{top2}}
@@ -83,25 +60,9 @@ From [[Old Chinese]] ''*k<sup>w</sup>yu<sup>?</sup>'', from [[Proto-Sino-Tibetan
 {{mid2}}
 {{bottom}}
 
-[[Category:Mandarin entries with audio links|jiu3]]
 [[Category:Mandarin numbers|jiu3]]
 [[Category:zh:Cardinal numbers|jiu3]]
 [[Category:Beginning Mandarin|jiu3]]
-
-----
-
-==Middle Chinese==
-===Han character===
-'''九''' (*gioǔ, gioǔ)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-noun|t|poj=[[kiú]], [[káu]], [[kiáu]]|rs=乙01}}
-
-# {{defn|lang=nan}}
 
 ----
 
@@ -122,24 +83,24 @@ From [[Old Chinese]] ''*k<sup>w</sup>yu<sup>?</sup>'', from [[Proto-Sino-Tibetan
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{l|ja|九夏|tr=[[きゅうか]], ''[[kyūka]]''}}:
-* {{l|ja|九官鳥|tr=[[きゅうかんちょう]], ''[[kyūkanchō]]''}}: a [[mina]] or [[mynah]] [[bird]]
-* {{l|ja|九牛一毛|tr=[[きゅうぎゅういちもう]], ''[[kyū gyū ichi mō]]''}}: nine cows one hair ([[a drop in the ocean]])
-* {{l|ja|九九}}, {{l|ja|九々|tr=[[くく]], ''[[kuku]]''}}: Multiplication table
-* {{l|ja|九月|tr=[[くがつ]], ''[[kugatsu]]''}}: September
-* {{l|ja|九死|tr=[[きゅうし]], ''[[kyūshi]]''}}: [[near]] [[death]], [[nearly]] [[dead]], a [[close shave]]
-* {{l|ja|九州|tr=[[きゅうしゅう]], ''[[Kyūshū]]''}}: the Kyūshū region of Japan
-* {{l|ja|九重|tr=[[ここのえ]], ''[[kokonoe]]''}}:
-* {{l|ja|九寸五分|tr=[[くすんごぶ]], ''[[kusun gobu]]''}}: a [[short sword]], a [[dagger]]
-* {{l|ja|九星|tr=[[きゅうせい]], ''[[kyūsei]]''}}:
-* {{l|ja|九折|tr=[[きゅうせつ]], ''[[kyūsetsu]]''}}:
-* {{l|ja|九泉|tr=[[きゅうせん]], ''[[kyūsen]]''}}: the nether world
-* {{l|ja|九地|tr=[[きゅうち]], ''[[kyūchi]]''}}:
-* {{l|ja|九天|tr=[[きゅうてん]], ''[[kyūten]]''}}: the Ninth Heaven (the highest of heavens)
-* {{l|ja|九拝|tr=[[きゅうはい]], ''[[kyūhai]]''}}:
-* {{l|ja|九分|tr=[[くぶ]], ''[[kubu]]''}}:
-* {{l|ja|九輪|tr=[[くりん]], ''[[kurin]]''}}:
-* {{l|ja|九六|tr=[[くんろく]], ''[[kunroku]]''}}:
+* {{l|ja|九夏|tr=[[きゅうか]], ''kyūka''}}:
+* {{l|ja|九官鳥|tr=[[きゅうかんちょう]], ''kyūkanchō''}}: a [[mina]] or [[mynah]] [[bird]]
+* {{l|ja|九牛一毛|tr=[[きゅうぎゅういちもう]], ''kyū gyū ichi mō''}}: nine cows one hair ([[a drop in the ocean]])
+* {{l|ja|九九}}, {{l|ja|九々|tr=[[くく]], ''kuku''}}: Multiplication table
+* {{l|ja|九月|tr=[[くがつ]], ''kugatsu''}}: September
+* {{l|ja|九死|tr=[[きゅうし]], ''kyūshi''}}: [[near]] [[death]], [[nearly]] [[dead]], a [[close shave]]
+* {{l|ja|九州|tr=[[きゅうしゅう]], ''Kyūshū''}}: the Kyūshū region of Japan
+* {{l|ja|九重|tr=[[ここのえ]], ''kokonoe''}}:
+* {{l|ja|九寸五分|tr=[[くすんごぶ]], ''kusun gobu''}}: a [[short sword]], a [[dagger]]
+* {{l|ja|九星|tr=[[きゅうせい]], ''kyūsei''}}:
+* {{l|ja|九折|tr=[[きゅうせつ]], ''kyūsetsu''}}:
+* {{l|ja|九泉|tr=[[きゅうせん]], ''kyūsen''}}: the nether world
+* {{l|ja|九地|tr=[[きゅうち]], ''kyūchi''}}:
+* {{l|ja|九天|tr=[[きゅうてん]], ''kyūten''}}: the Ninth Heaven (the highest of heavens)
+* {{l|ja|九拝|tr=[[きゅうはい]], ''kyūhai''}}:
+* {{l|ja|九分|tr=[[くぶ]], ''kubu''}}:
+* {{l|ja|九輪|tr=[[くりん]], ''kurin''}}:
+* {{l|ja|九六|tr=[[くんろく]], ''kunroku''}}:
 {{der-bottom}}
 
 ===Etymology 1===
