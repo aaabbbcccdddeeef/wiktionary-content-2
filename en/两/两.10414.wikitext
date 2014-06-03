@@ -1,43 +1,53 @@
-{{also|兩|両}}<!-- may be replaced by zh-forms -->
+{{also|兩|両}}
 ==Translingual==
+{{ja-forms|[[両]]|[[两]]|[[兩]]}}
 {{stroke order|strokes=7}}
+
+===Etymology===
+{{Han simp}}
 
 ===Han character===
 {{Han char|rn=1|rad=一|as=06|sn=7|four=|canj=MOOB|ids=⿻⿱一从冂}}
 
-# [[two]]
-# [[both]], [[pair]], [[couple]]
-# [[ounce]]
-
 ====References====
 * {{Han ref|kx=0078.131|dkj=00051|dj=0157.210|hdz=10021.020|uh=4E24|ud=20004}}
 
-[[Category:Chinese numbers]]
-[[Category:Chinese numerals]]
+[[Category:CJKV characters simplified differently in Japan and China|兩2]]
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[loeng5]]|y=leung5|tra=兩}}
-
-# {{defn|lang=yue|sort=一06}}
-
-----
-
-==Mandarin==
-
-===Etymology===
+==Chinese==
+{{zh-hanzi-box|[[两]]|[[兩]]}}
+===Etymology 1===
 {{rfe|lang=cmn}}
 
-===Pronunciation===
-* {{audio|zh-liǎng.ogg|audio|lang=cmn}}
+====Pronunciation====
+{{zh-pron
+|m=liǎng|ma=y
+|c=loeng5
+|mn=niú
+|cat=num
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=兩|pin=[[liǎng]] ([[liang3]])|wg=liang<sup>3</sup>}}
+====Numeral====
+{{zh-num}}
 
-====Compounds====
+# [[two]]
+#: {{zh-usex|'''两'''-只 热气球|'''two''' hot air ballons|link=yes}}
+# [[some]], [[few]]
+#: {{zh-usex|你们 这 '''两'''-天 真 够 辛苦 的。|You've really been working hard the past '''few''' days.|link=yes}}
+
+=====Usage note=====
+* [[两]] is used when counting things with a measure word, [[二]] is used in numbers. 
+* Examples with [[两]]
+*: 两个人 two people, 两年 two years
+* Examples with [[二]]
+*: [[二十]] twenty (literally "two tens"), [[第二]] second
+
+=====Synonyms=====
+* {{zh-l|二|èr|two}}
+
+=====Compounds=====
 {{der-top}}
 * [[两岸]]
 * [[两败俱伤]]
@@ -84,35 +94,7 @@
 * [[两者]]
 {{der-bottom}}
 
-===Numeral===
-{{cmn-car-num|s|pin=liǎng|pint=liang3|tra=兩}}
-
-# [[two]]
-#:''两只热气球 - '''two''' hot air ballons''
-# [[some]], [[few]]
-#: 你们这'''两'''天真够辛苦的。nǐmen zhè '''liǎng''' tiānzhēn gòu xīnkǔ de.
-#:: You've really been working hard the past '''few''' days.
-
-====Usage note====
-
-[[两]] is used when counting things with a measure word, [[二]] is used in numbers. 
-
-Examples with [[两]]
-: 两个人 two people, 两年 two year
-
-Examples with [[二]]
-: [[二十]] twenty, [[第二]] second
-
-====Synonyms====
-* [[二]] (èr) two
-
-===Noun===
-{{cmn-noun|s|pin=liǎng|pint=liang3|tra=兩}}
-
-# [[w:Tael|Tael]], an ancient unit of weight for silver, approximatly 40 [[grams]]
-# [[市两]] market tael, equal to 50 [[grams]]
-
-===References===
+====References====
 * {{cite web
 | url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=两
 | title = 两
@@ -132,9 +114,26 @@ Examples with [[二]]
 | language = Mandarin/English
 | accessdate = 2014-03-21}}
 
-[[Category:CJKV characters simplified differently in Japan and China|兩2]]
-[[Category:Mandarin entries with audio links]]
-[[Category:cmn:Cardinal numbers]]
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=liǎng|ma=y
+|c=loeng2
+|mn=nn̄g
+|cat=num
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[w:Tael|Tael]], an ancient unit of weight for silver, approximatly 40 [[grams]]
+# [[市两]] market tael, equal to 50 [[grams]]
+
+{{zh-cat|Cardinal numbers}}
+
+===Descendants===
+{{Sinoxenic-word|兩|りょう|s=両|량|lưỡng|v2=lạng}}
 
 [[da:两]]
 [[fr:两]]
