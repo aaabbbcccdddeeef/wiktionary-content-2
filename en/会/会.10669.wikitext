@@ -16,116 +16,101 @@
 ==Chinese==
 {{zh-hanzi-box|[[会]]|[[會]]}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=huì
+|m=huì,huǐ,er=y
+|m_note="huǐ": Only in {{zh-l|[[一会儿|一会(儿)]]}}
 |c=wui5,wui6
-|h=pfs=voi
-|mn=ē
-|w=3ue
+|c_note="wui5": "to know how to"; "wui6": "to meet, to assemble"
+|h=pfs=voi, fi
+|mn=ē/hōe
+|mn_note="ē": "to know how to"; "hōe": "to meet, to assemble"
+|mc=1
+|oc=2
+|w=2ue,3hhue
+|w_note="2ue": "to know how to"; "3hhue": "to meet, to assemble"
 |ma=y
-|cat=v
-}}
-
-===Noun===
-{{zh-verb}}
-
-# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to know how to perform a task, [[can]], to be possible, be able to
-#: {{zh-usex|我 会 英语，不 会 日语。|I know English but don't know Japanese.|link=yes}}
-#: {{zh-usex|他 还 会 两 出 ^京戏。|He's able to sing a few airs of Beijing Opera.|link=yes}}
-# will, be likely to, be sure to
-#: {{zh-usex|他 会 在 家 吗？|Is he likely to be at home?|link=yes}}
-# to understand, to grasp
-#: {{zh-usex|误会|to misunderstand; misunderstanding|inline=y|link=y}}
-
-====Usage notes====
-* In Cantonese, [[會]] alone is read as wui5 in the sense of "know" and "will" while it is read as wui6 in compounds.
-
-===Pronunciation===
-{{zh-pron
-|m=huì,er=y,huǐ
-|c=wui6
-|h=pfs=fi
-|mn=hōe
-|w=3hhue
 |cat=v,n
 }}
 
-===Noun===
-{{zh-verb}}
+====Definitions====
+{{zh-noun|mw=个/次/场}}
 
-# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to [[assemble]], to [[meet]], to [[gather]]
-#: {{zh-usex|昨天 我 没有 会 着{zhe} 他。|I didn't see him yesterday.|link=yes}}
-
-===Noun===
-{{zh-noun}}
-
-# a [[moment]] (Taiwan pr. for this sense is "huǐ")
-#: {{zh-usex|等 一会儿{r}。|Wait a moment.|link=yes}}
-
-===Pronunciation===
-{{zh-pron
-|m=huì,er=y,huǐ
-|c=wui6-2
-|h=pfs=fi
-|mn=hōe
-|w=3hhue
-|cat=v,n
-}}
-
-===Noun===
-{{zh-noun|mw=个}}
-
+# {{†}} [[lid]], [[cover]]
+#* {{zh-l|启会}}
+# to [[gather]], to [[assemble]]
+#* {{zh-l|集会}}
+#* {{zh-usex|昨天 我 没有 会 着{zhe} 他。|I didn't see him yesterday.|link=yes}}
+# [[meeting]], [[gathering]]
+## Especially, meetings of sovereigns of their deputies in ancient China to form alliances.
+#* {{zh-l|聚会|gathering, party}}
+#* {{zh-l|盟会|meeting of sovereigns}}
 # [[union]], [[group]], [[association]]
-#: {{zh-usex|社会|society|inline=y|link=y}}
-#: {{zh-usex|帮会|secret society, underworld gang|inline=y|link=y}}
+#* {{zh-l|社会|society}}
+#* {{zh-l|帮会|secret society, underworld gang}}
+# {{†}} to [[match]], to [[conform]]
+# {{†}} to [[marry]]
+# {{†}} to [[copulate]]
+# to [[meet]], to [[rendezvous]]
+#* {{zh-l|会见}}
+#* {{zh-l|会面}}
+# a place where people meet; an economic or political centre; [[city]], [[town]]
+#* {{zh-l|都会}}
+#* {{zh-l|省会}}
+# [[occasion]], [[opportunity]], [[chance]]
+#* {{zh-l|机会}}
+# {{†}} [[rhythm]], [[cadence]]
+#* {{zh-l|节会}}
+# to [[understand]], to [[grasp]]
+#* {{zh-l|误会|to misunderstand; misunderstanding}}
+# to know how to perform a task, [[can]], to be possible, be able to
+#* {{zh-usex|我 会 英语，不 会 日语。|I know English but don't know Japanese.|link=yes}}
+#* {{zh-usex|他 还 会 两 出 ^京戏。|He's able to sing a few airs of Beijing Opera.|link=yes}}
+# will, be likely to, be sure to
+#* {{zh-usex|他 会 在 家 吗？|Is he likely to be at home?|link=yes}}
+# a [[moment]]
+#* {{zh-l|一会}}
+#* {{zh-l|会儿}}
+#* {{zh-usex|等 一会儿{r}。|Wait a moment.|link=yes}}
 
-===Pronunciation===
+===Pronunciation 2===
 {{zh-pron
-|m=Kuài
-|c=kui2
-|cat=pn
-}}
-
-===Proper noun===
-{{zh-proper noun}}
-
-# {{context|literary|lang=zh|sort=gui4}}
-#: {{zh-usex|^会稽|Guiji Commandery|inline=y|link=y}}
-
-===Pronunciation===
-{{zh-pron
-|m=kuài
-|c=wui6,kui2
+|m=kuài,guì
+|c=kui2,wui6
 |w=2kue
-|cat=v
+|mc=2
+|oc=1
+|cat=v,pn
 }}
 
-===Verb===
-{{zh-verb}}
+====Definitions====
+{{zh-pos}}
 
-# {{context|literary|lang=zh|sort=kuai4}} to do [[accounting]]
-#: {{zh-usex|会{kuài}计|accountant, accountancy, accounting|inline=y|link=y}}
-#: {{zh-usex|会{kuài}计师|accountant|inline=y|link=y}}
+# {{†}} to [[compute]], to [[calculate]], to [[sum]], to do [[accounting]]
+#* {{zh-l|会计|accountant, accountancy, accounting}}
+#* {{zh-l|会计师|accountant}}
+# {{n-g|Used in placenames.}}
+#* {{zh-l|会稽|Guiji Commandery}}
 
-====Usage notes====
-* In Cantonese, the reading "kui2" is obsolete.
+===Compounds===
+{{der3
+| {{zh-l|会标}}
+| {{zh-l|会餐}}
+| {{zh-l|会操}}
+| {{zh-l|会场}}
+| {{zh-l|会话}}
+| {{zh-l|会见}}
+| {{zh-l|会客}}
+| {{zh-l|会儿}}
+| {{zh-l|会谈}}
+| {{zh-l|会议}}
+| {{zh-l|音乐会}}
+}}
 
-====Compounds====
-{{der-top3}}
-# [[会标]]
-# [[会餐]]
-# [[会操]]
-# [[会场]]
-# [[会话]]
-# [[会见]]
-{{der-mid3}}
-# [[会客]]
-# [[会儿]]
-# [[会谈]]
-# [[会议]]
-# [[音乐会]]
-{{der-bottom}}
+===Descendants===
+{{Sinoxenic-word|會|s=会|かい|회|k2=괴|hội}}
+
+{{zh-cat|Beginning}}
 
 ----
 
