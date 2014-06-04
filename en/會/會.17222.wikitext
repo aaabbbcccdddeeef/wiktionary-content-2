@@ -2,9 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han compound|亼|曾|ls=ic}}
-
 ===Han character===
 {{Han char|rn=73|rad=曰|as=09|sn=13|four=8060<sub>6</sub>|canj=人一田日 (OMWA)}}
 
@@ -16,118 +13,106 @@
 ==Chinese==
 {{zh-hanzi-box|[[会]]|[[會]]}}
 
-===Pronunciation===
+===Etymology===
+The two pronunciations are ultimately cognate, derived from a root meaning "to join, to come together ~ to meet, to gather ~ to match, to fit - to understand". Perhaps related to {{zh-l|合|to match}} ~ {{zh-l|蓋|lid}}.
+
+Graphically: {{Han compound|亼|曾|ls=ic}} - a lid on top of an ancient double boiler.
+
+===Pronunciation 1===
 {{zh-pron
-|m=huì
+|m=huì,huǐ,er=y
+|m_note="huǐ": Only in {{zh-l|[[一會兒|一會(兒)]]}}
 |c=wui5,wui6
-|h=pfs=voi
-|mn=ē
-|mc=y
-|oc=y
-|w=3ue
+|c_note="wui5": "to know how to"; "wui6": "to meet, to assemble"
+|h=pfs=voi, fi
+|mn=ē/hōe
+|mn_note="ē": "to know how to"; "hōe": "to meet, to assemble"
+|mc=1
+|oc=2
+|w=3ue,3hhue
+|w_note="3ue": "to know how to"; "3hhue": "to meet, to assemble"
 |ma=y
-|cat=v
-}}
-
-===Noun===
-{{zh-verb}}
-
-# {{context|Beginning Mandarin|Literary Cantonese|lang=zh|sort=hui4}} to know how to perform a task, [[can]], to be possible, be able to
-#: {{zh-usex|我 會 英語，不 會 日語。|I know English but don't know Japanese.|link=yes}}
-#: {{zh-usex|他 還 會 兩 出 ^京戲。|He's able to sing a few airs of Beijing Opera.|link=yes}}
-# will, be likely to, be sure to
-#: {{zh-usex|他 會 在 家 嗎？|Is he likely to be at home?|link=yes}}
-# to understand, to grasp
-#: {{zh-usex|誤會|to misunderstand; misunderstanding|inline=y|link=y}}
-
-====Usage notes====
-* In Cantonese, [[會]] alone is read as wui5 in the sense of "know" and "will" while it is read as wui6 in compounds.
-
-===Pronunciation===
-{{zh-pron
-|m=huì,er=y,huǐ
-|c=wui6
-|h=pfs=fi
-|mn=hōe
-|w=3hhue
 |cat=v,n
 }}
 
-===Verb===
-{{zh-verb}}
+====Definitions====
+{{zh-noun|mw=個/次/場}}
 
-# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to [[assemble]], to [[meet]], to [[gather]]
-#: {{zh-usex|昨天 我 沒有 會 著{zhe} 他。|I didn't see him yesterday.|link=yes}}
-
-===Noun===
-{{zh-noun}}
-
-# a [[moment]] (Taiwan pr. for this sense is "huǐ")
-#: {{zh-usex|等 一會兒{r}。|Wait a moment.|link=yes}}
-
-===Pronunciation===
-{{zh-pron
-|m=huì,er=y,huǐ
-|c=wui6-2
-|h=pfs=fi
-|mn=hōe
-|w=3hhue
-|cat=v,n
-}}
-
-===Noun===
-{{zh-noun|mw=個}}
-
+# {{†}} [[lid]], [[cover]]
+#* {{zh-l|啟會}}
+# to [[gather]], to [[assemble]]
+#* {{zh-l|集會}}
+#* {{zh-usex|昨天 我 沒有 會 著{zhe} 他。|I didn't see him yesterday.|link=yes}}
+# [[meeting]], [[gathering]]
+## Especially, meetings of sovereigns of their deputies in ancient China to form alliances.
+#* {{zh-l|聚會|gathering, party}}
+#* {{zh-l|盟會|meeting of sovereigns}}
 # [[union]], [[group]], [[association]]
-#: {{zh-usex|社會|society|inline=y|link=y}}
-#: {{zh-usex|幫會|secret society, underworld gang|inline=y|link=y}}
+#* {{zh-l|社會|society}}
+#* {{zh-l|幫會|secret society, underworld gang}}
+# {{†}} to [[match]], to [[conform]]
+# {{†}} to [[marry]]
+# {{†}} to [[copulate]]
+# to [[meet]], to [[rendezvous]]
+#* {{zh-l|會見}}
+#* {{zh-l|會面}}
+# a place where people meet; a economic or political centre; [[city]], [[town]]
+#* {{zh-l|都會}}
+#* {{zh-l|省會}}
+# [[occasion]], [[opportunity]], [[chance]]
+#* {{zh-l|機會}}
+# {{†}} [[rhythm]], [[cadence]]
+#* {{zh-l|節會}}
+# to [[understand]], to [[grasp]]
+#* {{zh-l|誤會|to misunderstand; misunderstanding}}
+# to know how to perform a task, [[can]], to be possible, be able to
+#* {{zh-usex|我 會 英語，不 會 日語。|I know English but don't know Japanese.|link=yes}}
+#* {{zh-usex|他 還 會 兩 出 ^京戲。|He's able to sing a few airs of Beijing Opera.|link=yes}}
+# will, be likely to, be sure to
+#* {{zh-usex|他 會 在 家 嗎？|Is he likely to be at home?|link=yes}}
+# a [[moment]]
+#* {{zh-l|一會}}
+#* {{zh-l|會兒}}
+#* {{zh-usex|等 一會兒{r}。|Wait a moment.|link=yes}}
 
-===Pronunciation===
+===Pronunciation 2===
 {{zh-pron
-|m=Kuài
-|c=kui2
-|cat=pn
-}}
-
-===Proper noun===
-{{zh-proper noun}}
-
-# {{context|literary|lang=zh|sort=gui4}}
-#: {{zh-usex|^會稽|Guiji Commandery|inline=y|link=y}}
-
-===Pronunciation===
-{{zh-pron
-|m=kuài
-|c=wui6,kui2
+|m=kuài,guì
+|c=kui2,wui6
 |w=2kue
-|cat=v
+|mc=2
+|oc=1
+|cat=v,pn
 }}
 
-===Verb===
-{{zh-verb}}
+====Definitions====
+{{zh-pos}}
 
-# {{context|literary|lang=zh|sort=kuai4}} to do [[accounting]]
-#: {{zh-usex|會{kuài}計|accountant, accountancy, accounting|inline=y|link=y}}
-#: {{zh-usex|會{kuài}計師|accountant|inline=y|link=y}}
-
-====Usage notes====
-* In Cantonese, the reading "kui2" is obsolete.
+# {{†}} to [[compute]], to [[calculate]], to [[sum]], to do [[accounting]]
+#* {{zh-l|會計|accountant, accountancy, accounting}}
+#* {{zh-l|會計師|accountant}}
+# {{n-g|Used in placenames.}}
+#* {{zh-l|會稽|Guiji Commandery}}
 
 ===Compounds===
-{{der-top3}}
-# [[會標]]
-# [[會餐]]
-# [[會操]]
-# [[會場]]
-# [[會話]]
-# [[會見]]
-{{der-mid3}}
-# [[會客]]
-# [[會兒]]
-# [[會談]]
-# [[會議]]
-# [[音樂會]]
-{{der-bottom}}
+{{der3
+| {{zh-l|會標}}
+| {{zh-l|會餐}}
+| {{zh-l|會操}}
+| {{zh-l|會場}}
+| {{zh-l|會話}}
+| {{zh-l|會見}}
+| {{zh-l|會客}}
+| {{zh-l|會兒}}
+| {{zh-l|會談}}
+| {{zh-l|會議}}
+| {{zh-l|音樂會}}
+}}
+
+===Descendants===
+{{Sinoxenic-word|會|かい|회|k2=괴|hội}}
+
+{{zh-cat|Beginning}}
 
 ----
 
