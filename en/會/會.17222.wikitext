@@ -8,37 +8,99 @@
 ===Han character===
 {{Han char|rn=73|rad=曰|as=09|sn=13|four=8060<sub>6</sub>|canj=人一田日 (OMWA)}}
 
-# to [[assemble]], [[meet]] [[together]]
-# a [[meeting]]
-# an [[organization]]
-# [[will]], [[shall]]
-# [[able]] (only in conversation)
-
 ====References====
 * {{Han ref|kx=0503.080|dkj=14306|dj=0878.090|hdz=21524.050|uh=6703|ud=26371|bh=B77C|bd=46972}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[人]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[kui2]], [[wui2]], [[wui4]], [[wui5]], [[wui6]]|y=kui2, wui2, wui4, wui5, wui6|sim=会}}
+===Pronunciation===
+{{zh-pron
+|m=huì
+|c=wui5
+|h=pfs=voi
+|mn=ē
+|mc=y
+|oc=y
+|w=3ue
+|ma=y
+|cat=v
+}}
 
-# {{defn|lang=yue|sort=曰09}}
+===Noun===
+{{zh-verb}}
 
-----
+# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to know how to perform a task, [[can]], to be possible, be able to
+#: {{zh-usex|昨天 我 沒有 會著{zhe} 他。|I didn't see him yesterday.|link=yes}}
+# will, be likely to, be sure to
+#: {{zh-usex|他 會 在 家 嗎？|Is he likely to be at home?|link=yes}}
 
-==Hakka==
+===Pronunciation===
+{{zh-pron
+|m=huì,huǐ
+|c=wui6
+|h=pfs=fi
+|mn=hōe
+|w=3hhue
+|cat=v,n
+}}
 
-===Hanzi===
-{{hak-hanzi|poj=[[fùi]] (fui<sup>3</sup>), [[khwài]] (khwai<sup>3</sup>)|gd=fwi<sup>3</sup> [Meixian], fui<sup>6</sup> woi<sup>6</sup> [Hailu], woi<sup>5</sup> [Siyan], fui<sup>3</sup> k'ai<sup>5</sup> woi<sup>3</sup> [Bao'an], fui<sup>3</sup> [Dongguan], fui<sup>5</sup> k'wai<sup>5</sup> [Kwangtung]|hpy=fi4, fui4, kuai4, voi4}}
+===Noun===
+{{zh-verb}}
 
-# {{defn|lang=hak|sort=曰09}}
+# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to [[assemble]], to [[meet]], to [[gather]]
+#: {{zh-usex|我 會 英語，不 會 日語。|I know English but don't know Japanese.|link=yes}}
+#: {{zh-usex|他 還 會 兩 出 ^京戲。|He's able to sing a few airs of Beijing Opera.|link=yes}}
 
-====References====
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E6%9C%83 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=6291&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+===Noun===
+{{zh-noun|mw=[[個]]}}
+
+# [[union]], [[group]], [[association]]
+# a [[moment]] (Taiwan pr. for this sense is "huǐ")
+
+===Pronunciation===
+{{zh-pron
+|m=Guì
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{context|literary|lang=zh|sort=gui4}} see [[會稽]]
+#: {{zh-usex|^會稽|Guiji Commandery|inline=y|link=y}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuài
+|c=wui6,kui2
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{context|literary|lang=zh|sort=kuai4}} to do [[accounting]]
+#: {{zh-usex|會{kuài}計|accountant, accountancy, accounting|inline=y|link=y}}
+#: {{zh-usex|會{kuài}計師|accountant|inline=y|link=y}}
+
+====Compounds====
+{{der-top3}}
+# [[會標]]
+# [[會餐]]
+# [[會操]]
+# [[會場]]
+# [[會話]]
+# [[會見]]
+{{der-mid3}}
+# [[會客]]
+# [[會兒]]
+# [[會談]]
+# [[會議]]
+# [[音樂會]]
+{{der-bottom}}
 
 ----
 
@@ -60,51 +122,6 @@
 {{ko-hanja|hangeul=[[회]], [[괴]]|eumhun=|rv=hoe, goe|mr=hoe, koe|y=hoy, koy}}
 
 # {{defn|lang=ko|sort=曰09}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=会|pin=[[huì]] ([[hui4]]), [[kuài]] ([[kuai4]]), [[guì]] ([[gui4]])|wg=hui<sup>4</sup>, kuei<sup>4</sup>, k'uai<sup>4</sup>}}
-
-===Proper noun===
-{{cmn-proper noun|t|pin=Guì|pint=gui4|tra=會|sim=会}}
-
-# {{context|literary|lang=cmn}} see [[會稽]]
-
-===Verb===
-{{cmn-verb|t|pin=kuài|pint=kuai4|tra=會|sim=会}}
-
-# {{context|literary|lang=cmn}} to do [[accounting]]
-#* [[會計]]
-#* [[會計師]]
-
-===Verb===
-{{cmn-verb|t|pin=huì|pint=hui4|tra=會|sim=会}}
-
-# {{context|Beginning Mandarin|lang=cmn}} to meet with
-#* [[會標]]
-#* [[會餐]]
-#* [[會操]]
-#* [[會場]]
-#* [[會話]]
-#* [[會見]]
-#* [[會客]]
-#* [[會兒]]
-#* [[會談]]
-#* [[會議]]
-#* [[音樂會]]
-# {{context|Beginning Mandarin|lang=cmn|sort=hui4}} to know how to perform a task
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''會''' (*xwajH, khwajX)<!--asterisk indicates that this is a reconstructed pronunciation--><!--Unihan database uses the vowel ɑ instead of a; are these different?-->
-
-# {{defn|lang=ltc|sort=曰09}}
 
 ----
 
