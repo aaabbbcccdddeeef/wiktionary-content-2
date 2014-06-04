@@ -19,7 +19,7 @@
 ===Pronunciation===
 {{zh-pron
 |m=huì
-|c=wui5
+|c=wui5,wui6
 |h=pfs=voi
 |mn=ē
 |mc=y
@@ -32,13 +32,16 @@
 ===Noun===
 {{zh-verb}}
 
-# {{context|Beginning Mandarin|lang=zh|sort=hui4}} to know how to perform a task, [[can]], to be possible, be able to
+# {{context|Beginning Mandarin|Literary Cantonese|lang=zh|sort=hui4}} to know how to perform a task, [[can]], to be possible, be able to
 #: {{zh-usex|我 會 英語，不 會 日語。|I know English but don't know Japanese.|link=yes}}
 #: {{zh-usex|他 還 會 兩 出 ^京戲。|He's able to sing a few airs of Beijing Opera.|link=yes}}
 # will, be likely to, be sure to
 #: {{zh-usex|他 會 在 家 嗎？|Is he likely to be at home?|link=yes}}
 # to understand, to grasp
 #: {{zh-usex|誤會|to misunderstand; misunderstanding|inline=y|link=y}}
+
+====Usage notes====
+* In Cantonese, [[會]] alone is read as wui5 in the sense of "know" and "will" while it is read as wui6 in compounds.
 
 ===Pronunciation===
 {{zh-pron
@@ -50,24 +53,39 @@
 |cat=v,n
 }}
 
-===Noun===
+===Verb===
 {{zh-verb}}
 
 # {{context|Beginning Mandarin|lang=zh|sort=hui4}} to [[assemble]], to [[meet]], to [[gather]]
 #: {{zh-usex|昨天 我 沒有 會 著{zhe} 他。|I didn't see him yesterday.|link=yes}}
 
 ===Noun===
-{{zh-noun|mw=[[個]]}}
+{{zh-noun}}
 
-# [[union]], [[group]], [[association]]
-#: {{zh-usex|社會|society|inline=y|link=y}}
-#: {{zh-usex|幫會|secret society, underworld gang|inline=y|link=y}}
 # a [[moment]] (Taiwan pr. for this sense is "huǐ")
 #: {{zh-usex|等 一會兒{r}。|Wait a moment.|link=yes}}
 
 ===Pronunciation===
 {{zh-pron
-|m=Guì
+|m=huì,er=y,huǐ
+|c=wui6-2
+|h=pfs=fi
+|mn=hōe
+|w=3hhue
+|cat=v,n
+}}
+
+===Noun===
+{{zh-noun|mw=個}}
+
+# [[union]], [[group]], [[association]]
+#: {{zh-usex|社會|society|inline=y|link=y}}
+#: {{zh-usex|幫會|secret society, underworld gang|inline=y|link=y}}
+
+===Pronunciation===
+{{zh-pron
+|m=Kuài
+|c=kui2
 |cat=pn
 }}
 
@@ -92,7 +110,10 @@
 #: {{zh-usex|會{kuài}計|accountant, accountancy, accounting|inline=y|link=y}}
 #: {{zh-usex|會{kuài}計師|accountant|inline=y|link=y}}
 
-====Compounds====
+====Usage notes====
+* In Cantonese, the reading "kui2" is obsolete.
+
+===Compounds===
 {{der-top3}}
 # [[會標]]
 # [[會餐]]
