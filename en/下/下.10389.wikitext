@@ -25,94 +25,22 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[haa6]], [[haa5]]|y=ha6, ha5}}
-
-# {{defn|lang=yue|sort=一02}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=1|rs=一02}}
-
-====Readings====
-* {{ja-readings
-|goon=[[げ]] (ge)
-|kanon=[[か]] (ka)
-|kun=[[した]] (shita), [[しも]] (shimo), [[もと]] (moto), [[さがる]] ([[下がる]], sagaru), [[さげる]] ([[下げる]], sageru), [[くだる]] ([[下る]], kudaru), [[くだす]] ([[下す]], kudasu), [[くださる]] ([[下さる]], kudasaru), [[おりる]] ([[下りる]], oriru), [[おろす]] ([[下ろす]], orosu)}}
-
-====Compounds====
-* [[下限]] ([[かげん]], ''[[kagen]]'')
-* [[下弦]] ([[かげん]], ''[[kagen]]'')
-* [[下降]] ([[かこう]], ''[[kakou]]'')
-* [[下剋上]] ([[げこくじょう]], ''[[gekokujō]]'')
-* [[下車]] ([[げしゃ]], ''[[gesha]]'')
-* [[下種]]、[[下衆]]、[[下司]] ([[げす]], ''[[gesu]]'')
-* [[下駄]] ([[げた]], ''[[geta]]'')
-* [[下痢]] ([[げり]], ''[[geri]]'')
-* [[下着]] ([[したぎ]], ''[[shitagi]]'')
-* [[上下巻]]
-* [[上中下巻]]
-* [[下関]] ([[しものせき]], ''[[shimonoseki]]'')
-* [[靴下]] ([[くつした]], ''[[kutsushita]]'')
-
-===Noun===
-{{ja-noun|k|hira=した|rom=shita}}
-
-# the [[below]]
-
-===Noun===
-{{ja-noun|k|hira=しも|rom=shimo}}
-
-# lower portion, end
-
-===Noun===
-{{ja-noun|k|hira=もと|rom=moto}}
-
-# lower portion; base
-# under the influence of
-
-===Suffix===
-{{ja-pos|k|suffix|hira=か|rom=-ka}}
-
-# under a situation
-
-===Noun===
-{{ja-noun|k|hira=げ|rom=ge|hidx=け'}}
-
-# the [[last]] [[volume]] in a two- or three-volume set
-
-[[Category:1000 Japanese basic words|した]]
-[[Category:Japanese terms spelled with 下]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:ja:Taxonomy]]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=하|rv=ha|mr=ha|eumhun=아래|ehrv=alae|ehmr=arae|ehy=}}
-
-# {{defn|lang=ko|sort=一02}}
-
-====References====
-* {{Hanja ref|nav=12240}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|下}}
+==Chinese==
+{{zh-hanzi-box|[[下]]}}
 
 ===Pronunciation===
-* {{audio|zh-xià.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[xià]] ([[xià]])|wg=hsia<sup>4</sup>}}
+{{zh-pron
+|m=xià
+|c=haa6, haa5
+|h=
+|mn=
+|mn_note=
+|w=
+|mc=
+|ma=y|ma2=
+|cat=v,a,post,cls
+}}
+<!-- huánn - vernacular, hóng - literary -->
 
 ===Verb===
 {{cmn-verb|ts|pin=xià|pint=xià}}
@@ -297,7 +225,76 @@
 * {{l|cmn|往下看|tr=wǎngxiàkàn}}
 {{der-bottom}}
 
-[[Category:Mandarin entries with audio links]]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=一02}}
+
+====Readings====
+* {{ja-readings
+|goon=[[げ]] (ge)
+|kanon=[[か]] (ka)
+|kun=[[した]] (shita), [[しも]] (shimo), [[もと]] (moto), [[さがる]] ([[下がる]], sagaru), [[さげる]] ([[下げる]], sageru), [[くだる]] ([[下る]], kudaru), [[くだす]] ([[下す]], kudasu), [[くださる]] ([[下さる]], kudasaru), [[おりる]] ([[下りる]], oriru), [[おろす]] ([[下ろす]], orosu)}}
+
+====Compounds====
+* [[下限]] ([[かげん]], ''[[kagen]]'')
+* [[下弦]] ([[かげん]], ''[[kagen]]'')
+* [[下降]] ([[かこう]], ''[[kakou]]'')
+* [[下剋上]] ([[げこくじょう]], ''[[gekokujō]]'')
+* [[下車]] ([[げしゃ]], ''[[gesha]]'')
+* [[下種]]、[[下衆]]、[[下司]] ([[げす]], ''[[gesu]]'')
+* [[下駄]] ([[げた]], ''[[geta]]'')
+* [[下痢]] ([[げり]], ''[[geri]]'')
+* [[下着]] ([[したぎ]], ''[[shitagi]]'')
+* [[上下巻]]
+* [[上中下巻]]
+* [[下関]] ([[しものせき]], ''[[shimonoseki]]'')
+* [[靴下]] ([[くつした]], ''[[kutsushita]]'')
+
+===Noun===
+{{ja-noun|k|hira=した|rom=shita}}
+
+# the [[below]]
+
+===Noun===
+{{ja-noun|k|hira=しも|rom=shimo}}
+
+# lower portion, end
+
+===Noun===
+{{ja-noun|k|hira=もと|rom=moto}}
+
+# lower portion; base
+# under the influence of
+
+===Suffix===
+{{ja-pos|k|suffix|hira=か|rom=-ka}}
+
+# under a situation
+
+===Noun===
+{{ja-noun|k|hira=げ|rom=ge|hidx=け'}}
+
+# the [[last]] [[volume]] in a two- or three-volume set
+
+[[Category:1000 Japanese basic words|した]]
+[[Category:Japanese terms spelled with 下]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:ja:Taxonomy]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|rv=ha|mr=ha|eumhun=아래|ehrv=alae|ehmr=arae|ehy=}}
+
+# {{defn|lang=ko|sort=一02}}
+
+====References====
+* {{Hanja ref|nav=12240}}
 
 ----
 
