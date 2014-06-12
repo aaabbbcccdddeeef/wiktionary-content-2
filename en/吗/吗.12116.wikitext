@@ -9,62 +9,53 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=03|sn=6|four=|canj=口弓女一 (RNVM)|ids=⿰[[口]][[马]]}}
 
-# [[final]] [[interrogative]] [[particle]] (for simple "yes or no" type questions)
-
 ====References====
 * {{Han ref|kx=0177.021|hdz=10584.110|uh=5417|ud=21527}}
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[maa3]]|y=ma3}}
-
-# {{defn|lang=yue|sort=口03}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|吗|[[嗎]]}}
+==Chinese==
+{{zh-hanzi-box|[[吗]]|嗎}}
 
 ===Pronunciation===
-{{Pinyin-IPA|ma|a=zh-ma.ogg}}
+{{zh-pron
+|m=ma
+|c=maa1
+|h=pfs=mâ
+|mn=má
+|ma=y
+|cat=particle
+}}
 
 ===Particle===
-{{cmn-particle|s|pin=ma|pint=ma|tra=嗎|sim=吗}}
+{{zh-particle}}
 
-# final interrogative particle on a yes/no question.
-#* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 3:11]
-#*: [[耶和华]][[说]]，[[谁]][[告诉]][[你]][[赤]][[身]][[露]][[体]][[呢]]？[[莫非]][[你]][[吃]][[了]][[我]][[吩咐]][[你]][[不]][[可]][[吃]][[的]][[那]][[树]][[上]][[的]][[果子]][[吗]]？
-#*: Yēhéhuá shuō , shuí gàosu nǐ chìshēnlòutǐ ne , mòfēi nǐ chī le wǒ fēnfu nǐ bù kĕ chī de nà shù shàng de guǒzi ma .
-#*:: And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
-#: 你喜欢'''吗'''? nǐ xǐhuan ma?
-#:: '''Do''' you like it?
+# {{cx|Beginning Mandarin|lang=zh|sort=ma5}} final interrogative particle on a yes/no question
+#: {{zh-usex|你 喜欢 吗？|Do you like it?|link=y}}
 
 ====Usage notes====
-The particule 吗 allow to turn an affirmative sentence into a interogative sentence without modifying the sentence order.
-:: 他喜欢? He like it.
+The particule 嗎 allow to turn an affirmative sentence into a interrogative sentence without modifying the sentence order.
+:: 他喜欢。 He likes it.
 :: 他喜欢'''吗'''? '''Does''' he like it?
 
-====Related terms====
-Question words
-* [[谁]] (who)
-* [[什么]] (what)
-* [[怎么]] (how)
-* [[什么时候]] (when)
-* [[哪]] (what, which)
-* [[哪里]], [[哪儿]] (where)
-* [[呢]] ( reciprocal questions particule)
+====See also====
+* (''Wu'') {{zh-l|嗎/吗}}
+* Question particle : {{zh-l|呢}} (reciprocal questions ).
+
+===Pronunciation===
+{{zh-pron
+|m=mǎ
+|c=maa1
+|h=pfs=mâ
+|mn=má
+|ma=y
+|cat=n
+}}
 
 ===Noun===
-{{cmn-noun|s|pin=mǎ|pint=ma3|tra=嗎|sim=吗}}
+{{zh-noun}}
 
-# used for phonetic in [[吗啡]] ([[嗎啡]]) ([[morphine]])
-
-[[Category:Mandarin entries with audio links]]
-[[Category:Beginning Mandarin|ma]]
-[[Category:Mandarin interrogative particles]]
+# used for phonetic in {{zh-l|嗎啡/吗啡}} ([[morphine]])
 
 ===References===
 * {{cite web
@@ -73,6 +64,8 @@ Question words
 | work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
 | language = Mandarin/English
 | accessdate = 2014-02-17}}
+
+[[Category:Chinese interrogative particles|ma5]]
 
 [[da:吗]]
 [[fr:吗]]
