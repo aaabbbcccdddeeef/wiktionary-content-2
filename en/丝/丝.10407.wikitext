@@ -18,31 +18,29 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|tra=絲|jyut=si1|y=si1}}
-
-# {{defn|lang=yue|sort=一04}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[丝]]|[[絲]]}}
 
 ===Pronunciation===
-* {{audio|Zh-si.ogg|Audio|lang=cmn}}
+{{zh-pron
+|m=sī
+|c=si1
+|h=pfs=sṳ̂
+|mn=si
+|w=1sr
+|cat=n
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=絲|pin=[[sī]] ([[si1]])|wg=ssu<sup>1</sup>}}
-
-===Noun===
-{{cmn-noun|s|tra=絲|pin=sī|pint=si1}}
+====Noun====
+{{zh-noun}}
 
 # [[silk]]
-# a thread-like thing
-# a tiny [[bit]], [[trace]]
+# fine [[thread]]
+# [[trace]]
+# the [[number]] 10<sup>-4</sup>
 
 ====Compounds====
+{{der-top}}
 * [[丝绸]]
 * [[丝带]]
 * [[丝恩发怨]]
@@ -57,6 +55,7 @@
 * [[丝线]]
 * [[丝织品]]
 * [[丝竹]]
+{{der-bottom}}
 
 [[fr:丝]]
 [[ko:丝]]
