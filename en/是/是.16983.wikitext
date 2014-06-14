@@ -34,16 +34,22 @@
 ===Verb===
 {{zh-verb}}
 
-# {{context|Beginning Mandarin|lang=zh|sort=shi4}} [[is]], [[am]], [[are]], to [[be]] (copula)
+# {{context|Beginning Mandarin|lang=zh|sort=shi4}} to [[be]], [[is]], [[am]], [[are]]  {{n-g|([[copula]])}}
 #: {{zh-usex|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.|link=yes}}
+#: {{zh-usex|我 '''是''' 老師|I '''am''' a teacher|link=y}}
+#: {{zh-usex|我 '''是''' 中國人|I '''am''' Chinese.|link=y}}
 
 ====Usage note====
-Even if it is translated as to [[be]], 是 is used only to link two nouns.
-{{zh-usex|我 '''是''' 老師|I '''am''' a teacher|in_notes=yes}} {{zh-usex|我 '''是''' 中國人|I '''am''' Chinese.|in_notes=yes}}
-It can't be used to link a noun and an adjective. The following sentence is wrong : 这是好。
+Even if it is translated as to [[be]], 是 is used only to link two nouns or nominal expression.
+{{zh-usex|我 '''是''' 老師|I '''am''' a teacher|in_notes=yes|link=y}}
+{{zh-usex|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.|in_notes=yes|link=yes}}
+It can't be used to link a noun and an adjective. The following sentence is wrong : 
+: 这是好。
 The correct sentence is
-{{zh-usex|這 '''很''' 好|This '''is (very)''' good|in_notes=yes}}
-Here [[很]] is used as a filler, to link a noun and an adjective.
+{{zh-usex|這 '''很''' 好|This '''is (very)''' good|in_notes=yes|link=y}}
+Here [[很]] is used as a filler, to link a noun and an adjective and is not interpreted as very. Not using it would sound unatural.
+A way to use 是 with an adjective is to use {{zh-l|的}} after the adjective to turn it into a noun.
+#: {{zh-usex|那 只 猫 '''是''' 黑 的|This cat is black (This cat is a black one)|in_notes=yes|link=y}}
 
 ====See also====
 * (''Cantonese'') {{zh-l|係/系}}
