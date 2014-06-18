@@ -77,17 +77,30 @@
 ===Hanzi===
 {{cmn-hanzi|tra=雙|pin=[[shuāng]] ([[shuang1]])|wg=shuang<sup>1</sup>}}
 
-# {{defn|lang=cmn|sort=又02}}
+===Classifier===
+{{cmn-cls|s|pin=shuāng|tra=雙|sim=双}}
+
+# a [[pair]] of
+#: {{zh-usex|一 双 鞋|a pair of shoes|link=y}}
 
 ===Adjective===
-'''双'''
+{{cmn-adj|s|pin=shuāng|tra=雙|sim=双}}
 
-# [[even]] (number)
+# [[two-]]; [[double]]; [[twin]]
+#: {{zh-usex|双面|double-sided, two-faced|link=y}} 
+#: {{zh-usex|双向|bidirectional, two-way|link=y}} 
+# {{qualifier|number}} [[even]] 
 
 ====Antonyms====
-* [[单]]
+* {{zh-l|单}} odd
+
+===Proper noun===
+{{cmn-proper noun|s|pin=shuāng|tra=雙|sim=双}}
+
+# {{surname|lang=cmn}} [[Shuang]]
 
 ====Compounds====
+{{der-top}}
 * [[双胞胎]]
 * [[双臂]]
 * [[双边]]
@@ -153,6 +166,7 @@
 * [[双职工]]
 * [[双周刊]]
 * [[双子座]]
+{{der-bottom}}
 
 [[Category:Mandarin entries with audio links]]
 
