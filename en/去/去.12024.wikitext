@@ -1,9 +1,5 @@
 ==Translingual==
 {{stroke order|type=animate}}
-===Etymology===
-{{Han compound|大|t1=man|口|t2=mouth|ls=ic}} – a figure with mouth/voice below, departing. Top figure simplified to [[土]], unrelated to {{term|士||scholar, gentleman|sc=Hani}}, while bottom simplified to [[厶]].
-
-{{Han simp|谷}} additionally as part of [[却]], from [[卻]].
 
 ===Han character===
 {{Han char|rn=28|rad=厶|as=03|sn=5|four=4073<sub>1</sub>|canj=土戈 (GI)|ids=⿱[[土]][[厶]]}}
@@ -19,6 +15,13 @@
 ==Chinese==
 {{zh-hanzi-box|[[去]]}}
 
+===Etymology===
+There were two pronunciations in Middle Chinese. The rising tone pronunciation originally meant "to put away, to eliminate" (causative of "to go away"), and the falling tone "to go away, to leave, to depart" (anticausative). The merger of the two pronunciations already happened in Old Chinese and most extant dialects do not observe this distinction now.
+
+This word is of Sino-Tibetan origin with the basic meaning of "to get rid of". Compare {{etyl|bo|-}} {{m|bo|སྐྱག་པ||to spend, to lay out; dung, excrement}}, {{m|bo|རྐྱག||dirt, excrement}}, {{etyl|my|-}} {{m|my|ကျ||to fall, to become low}}, {{m|my|ချ||to put down, to bring down, to lower}}.
+
+Graphically: {{Han compound|大|t1=man|口|t2=mouth, object|ls=ic}}. Top figure simplified to [[土]], unrelated to {{term|士||scholar, gentleman|sc=Hani}}, while bottom simplified to [[厶]]. There are various interpretations of the combination of "man" and "mouth, object". One is that the ideograph represented a man with a hole marked in his crotch, and the inventors of writing had perhaps "anus" (i.e. getting rid of) in mind. Alternatively, it represented a man '''departing''' from a cave.
+
 ===Pronunciation===
 {{zh-pron
 |m=qù
@@ -32,65 +35,56 @@
 |cat=v,a
 }}
 
-====Definition====
-
-# to [[remove]]; to [[get rid of]]
-#* {{zh-usex|去掉|to remove|link=y}}
-#* {{zh-usex|脱去|to throw off|link=y}}
-#* {{zh-usex|拆去|to remove, to take off|link=y}} 
-# {{context|between two verb|lang=zh}} [[to]]; [[in order to]]
-# {{n-g|(used after a verb of motion to indicates movement away from the speaker)}}
-#* {{zh-usex|下去|to go down ( compare {{zh-l|下來/下来|to come down}} )|link=y}}
-#* {{zh-usex|送 去|to send away|link=y}}
-
-====Verb====
+====Definitions====
 {{zh-verb}}
 
 # to [[go]], to [[go away]], to [[leave]], to [[depart]]
 #: {{zh-usex|你 去 哪兒{r}？|Where are you going?|link=yes}}
-# {{context|before or after a verb|lang=zh}}  to go in order to do something
+# {{context|before or after a verb}}  to go in order to do something
 #* {{zh-usex|他 到 辦公室 去 請假。|He went to the office to ask for leave.|link=y}}
 #* {{zh-usex|他 去 釣魚 了，而 沒 去 打 網球。|He went fishing instead of playing tennis.|link=y}}
+# to [[remove]]; to [[get rid of]]
+#* {{zh-usex|去掉|to remove|link=y}}
+#* {{zh-usex|脱去|to throw off|link=y}}
+#* {{zh-usex|拆去|to remove, to take off|link=y}} 
+# {{context|between two verb}} [[to]]; [[in order to]]
+# {{n-g|(used after a verb of motion to indicates movement away from the speaker)}}
+#* {{zh-usex|下去|to go down ( compare {{zh-l|下來/下来|to come down}} )|link=y}}
+#* {{zh-usex|送 去|to send away|link=y}}
 # to [[send]]
 # to [[play]] {{qualifier|a part, a character}}; to [[act]]
+# [[last]]; [[past]]
+#* {{zh-usex|去年|last year|link=y}} 
 
 ====Antonyms====
-* {{zh-l|來/来}} to come, next , indicates movement toward the speaker
-
-====Adjective====
-{{zh-adj}}
-
-# [[last]]; [[past]]
-#* {{zh-usex|去 年|last year|link=y}} 
-
-====Derived terms====
-* {{zh-l|去年}}
+* {{zh-l|來/来|to come, next}}
 
 ====Compounds====
-{{rel-top}}
-* {{l|zh|去病}}
-* {{l|zh|去处|tr=qùchù}}
-* {{l|zh|去粗取精}}
-* {{l|zh|去掉}}
-* {{l|zh|去根}}
-* {{l|zh|去寒}}
-* {{l|zh|去火}}
-* {{l|zh|去留}}
-* {{l|zh|去路|tr=qùlù}}
-* {{l|zh|去你的|tr=qù nǐ de}}
-* {{l|zh|去年|tr=qùnián}}
-* {{l|zh|去任}}
-* {{l|zh|去声}}
-* {{l|zh|去世|tr=qùshì}}
-* {{l|zh|去暑}}
-* {{l|zh|去伪存真}}
-* {{l|zh|去污}}
-* {{l|zh|去向}}
-* {{l|cmn|去杂去劣}}
-* {{l|cmn|去职}}
-{{rel-bottom}}
+{{der3
+| {{zh-l|去年}}
+| {{zh-l|去病}}
+| {{zh-l|去處/去处|qùchù}}
+| {{zh-l|去粗取精}}
+| {{zh-l|去掉}}
+| {{zh-l|去根}}
+| {{zh-l|去寒}}
+| {{zh-l|去火}}
+| {{zh-l|去留}}
+| {{zh-l|去路|qùlù}}
+| {{zh-l|去你的|qù nǐ de}}
+| {{zh-l|去年|qùnián}}
+| {{zh-l|去任}}
+| {{zh-l|去聲/去声}}
+| {{zh-l|去世|qùshì}}
+| {{zh-l|去暑}}
+| {{zh-l|去偽存真/去伪存真}}
+| {{zh-l|去污}}
+| {{zh-l|去向}}
+| {{zh-l|去雜去劣/去杂去劣}}
+| {{zh-l|去職/去职}}
+}}
 
-[[Category:Beginning Mandarin|qu4]]
+{{zh-cat|Beginning}}
 
 ----
 
