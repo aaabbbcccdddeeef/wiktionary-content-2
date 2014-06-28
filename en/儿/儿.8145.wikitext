@@ -13,8 +13,6 @@ Also {{Han simp|兒|f=臼|t=&nbsp;}}
 {{Han char|rn=10|rad=儿|as=00|sn=2|four=2201<sub>0</sub>|canj=中山 (LU)|ids=⿰[[丿]][[乚]]}}
 
 # Kangxi radical [[Index:Chinese radical/儿|儿]]
-# [[human]]
-# [[son]], [[child]] {{qualifier|as simplification of 兒}}
 
 ====Descendants====
 *[[ㄦ]]
@@ -29,24 +27,19 @@ Also {{Han simp|兒|f=臼|t=&nbsp;}}
 
 ===Pronunciation===
 {{zh-pron
-|m=ér,rén
-|c=jan4
-|h=pfs=yîn;gd=ngin<sup>2</sup>, zin<sup>2</sup> [Hailu];hpy=
+|m=ér
+|c=ji4
+|h=pfs=yì
 |mn=lî/lîn
 |w=
 |mc=
 |oc=
-|ma=|ma2=
-|cat=
+|ma=y|ma2=y
+|cat=n,suffix
 }}
 
-===Definitions===
-{{zh-pos}}
-
-# {{defn|Han|sort=儿00}}
-
 ====Noun====
-{{cmn-noun|s|pin=ér|pint=er2|tra=兒|sim=儿}}
+{{zh-noun}}
 
 # [[child]]
 #: [[儿童]] 
@@ -57,7 +50,7 @@ Also {{Han simp|兒|f=臼|t=&nbsp;}}
 Not used as an individual character in modern Chinese.
 
 ===Suffix===
-{{cmn-suf|s|pin=r|pint=r5|tra=兒|sim=儿}}
+{{zh-suf}} (r)
 
 # non-syllabic diminutive suffix
 # [[w:Erhua|儿化韵 (Erhua)]], the addition of a final [[retroflex]] ("ér") to Mandarin syllable (feature of northern Mandarin)
@@ -73,23 +66,13 @@ In some case, the Erhua can change the meaning of a word.
 * [[头]] head  -> [[头儿]] leader
 *  [[白面]] flour -> [[白面儿]] heroine
 
-===Proper noun===
-{{cmn-proper noun|s|pin=r|pint=r5|tra=兒|sim=儿}}
-
-# [[w:Kangxi_radical|Kangxi radical]] 10
-
 ====Compounds====
-* {{l|cmn|儿歌|tr=érgē}} - nursery rhyme
-* {{l|cmn|儿化|tr=érhuà}}
-* {{l|cmn|儿女|tr=érnǚ}} - children, son(s) and daughter(s)
-* {{l|cmn|儿童|tr=értóng}} - child, children
-* {{l|cmn|儿子|tr=érzi}} - son
-* {{l|cmn|女儿|tr=nǚ'ér}} - daughter
-
-====References====
-*[http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%84%BF CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=57432&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+* {{l|zh|儿歌|tr=érgē}} - nursery rhyme
+* {{l|zh|儿化|tr=érhuà}}
+* {{l|zh|儿女|tr=érnǚ}} - children, son(s) and daughter(s)
+* {{l|zh|儿童|tr=értóng}} - child, children
+* {{l|zh|儿子|tr=érzi}} - son
+* {{l|zh|女儿|tr=nǚ'ér}} - daughter
 
 ----
 
