@@ -11,10 +11,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=00|sn=3|four=6000<sub>0</sub>|canj=口 (R)}}
 
-# [[mouth]]
-# open end
-# [[entrance]], [[gate]]
-
 ====Usage notes====
 This character (口) is used ''within'' characters; if a square is instead used as an enclosure (''around'') a character, then the character [[囗]] is used instead.
 
@@ -33,15 +29,15 @@ This character (口) is used ''within'' characters; if a square is instead used 
 |h=pfs=khéu, héu
 |mn=kháu/khó•/káu/khió
 |mn_note=kháu, khó•, káu - vernacular, khió - literary
-|w=
-|mc=
-|oc=
+|w=2kheu
+|mc=y
+|oc=y
 |ma=zh-kǒu.ogg
-|cat=n
+|cat=n,cls
 }}
 
 ====Noun====
-{{zh-noun|ts|pin=kǒu|pint=kou3|sort=口00}}
+{{zh-noun}}
 
 # [[mouth]]
 #: {{zh-usex|漱 漱 你 的 '''口'''。|Rinse your '''mouth''' out.|link=y}}
@@ -55,16 +51,11 @@ This character (口) is used ''within'' characters; if a square is instead used 
 # [[government]] [[organ]]; [[departement]]
 
 ====Classifier====
-{{cmn-cls|ts|pin=kǒu|pint=kou3|sort=口00}}
+{{zh-cls}}
 
 # {{n-g|measure word for thing with a mouth ( people, animals, guns ) }}
 # {{n-g|measure word for [[bites]] or [[mouthfuls]]}}
 #: {{zh-usex|我 可以 吃 一 '''口''' 嗎？|Can I have a '''bite'''?|link=y}}
-
-====Proper noun====
-{{cmn-noun|ts|pin=kǒu|pint=kou3|sort=口00}}
-
-# [[w:Kangxi_radical|Kangxi radical]] 30
 
 =====Compounds=====
 {{der-top}}
@@ -179,6 +170,8 @@ This character (口) is used ''within'' characters; if a square is instead used 
 | work = Jukuu
 | language = Mandarin/English
 | accessdate = 2014-03-03}}
+
+{{zh-cat|Beginning}}
 
 ----
 
@@ -306,15 +299,6 @@ This character (口) is used ''within'' characters; if a square is instead used 
 
 ====References====
 * {{Hanja ref|nav=8216}}
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''口''' (*khouX)<!--note: asterisk indicates that this character occurs more than four times in the Tang Dynasty corpus of literature-->
-
-# {{defn|lang=ltc|sort=口00}}
 
 ----
 
