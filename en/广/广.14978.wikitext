@@ -26,58 +26,21 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[jim2]]|y=yim2|tra=廣}}
-
-# {{defn|lang=yue|sort=广00}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=yám|gd=jam<sup>3</sup> [Hailu], zam<sup>3</sup> [Siyan], kwong<sup>3</sup> [Kwangtung]|hpy=}}
-
-# {{defn|lang=hak|sort=广00}}
-
-====References====
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E5%B9%BF CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=55855&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=广00}}
-
-# {{defn|lang=ja|sort=广00}}
-
-====Readings====
-* {{ja-readings|on=[[こう]] (kou)|kun=[[ひろ]] (hiro)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=엄|rv=eom|mr=ŏm}}
-
-# {{defn|lang=ko|sort=广00}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[广]]|[[廣]]}}
 
 ===Pronunciation===
-* {{audio|Zh-guang.ogg|Audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|tra=廣|pin=[[ān]] ([[an1]]), [[guǎng]] ([[guang3]]), [[yǎn]] ([[yan3]])|wg=an<sup>1</sup>, kuang<sup>3</sup>, yen<sup>3</sup>}}
-
-# {{defn|lang=cmn|sort=广00}}
+{{zh-pron
+|m=guǎng,ān,yǎn
+|c=jim2
+|h=pfs=yám
+|mn=kéng/kóng/giám
+|w=
+|mc=
+|oc=
+|ma=Zh-guang.ogg
+|cat=n
+}}
 
 ====Compounds====
 * [[广播]]
@@ -116,17 +79,29 @@
 * [[广远]]
 * [[广种薄收]]
 
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=kéng (keng<sup>2</sup>), kóng (kong<sup>2</sup>), giám (giam<sup>2</sup>)|gd=geng<sup>3</sup>, gong<sup>3</sup>, ngiam<sup>3</sup>}}
-
-# {{defn|lang=nan|sort=广00}}
-
 ====References====
 *[http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广00}}
+
+# {{defn|lang=ja|sort=广00}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kou)|kun=[[ひろ]] (hiro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=엄|rv=eom|mr=ŏm}}
+
+# {{defn|lang=ko|sort=广00}}
 
 [[Category:CJKV characters simplified differently in Japan and China|廣2]]
 [[Category:CJKV radicals| ]]
