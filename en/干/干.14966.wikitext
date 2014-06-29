@@ -28,73 +28,24 @@ Exists as a traditional character, and also a simplification of two traditional 
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=|y=gon1|tra=[[乾]], [[幹]]}}
-
-# {{defn|lang=yue|sort=干00}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=kon|gd=kon<sup>1</sup>, kon<sup>5</sup>|hpy=gon1}}
-
-# {{defn|lang=hak|sort=干00}}
-
-====References====
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E5%B9%B2 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=16678&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=6|rs=干00}}
-
-# to dry
-
-====Readings====
-* {{ja-readings|on=[[かん]] (kan)|kun=[[ほす]] (hosu), [[ひる]] (hiru), [[おかす]] (okasu)}}
-
-====Compounds====
-{{top3}}
-* {{l|ja|sc=Jpan|干戈|tr=かんか, kanka}}
-* {{l|ja|sc=Jpan|干害|tr=かんがい, kangai}}
-{{mid3}}
-* {{l|ja|sc=Jpan|干渉|tr=かんしょう, kanshō}}
-* {{l|ja|sc=Jpan|干魃|tr=かんばつ, kanbatsu}}
-{{mid3}}
-* {{l|ja|sc=Jpan|干天|tr=かんてん, kanten}}
-{{bottom}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[간]], [[강]]|rv=gan, gang|mr=kan, kang}}
-
-# {{defn|lang=ko|sort=干00}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[干]]}}
 
 ===Pronunciation===
-* {{audio|zh-gàn.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=gān,gàn
+|c=gon1
+|h=pfs=kon
+|mn=kan
+|w=
+|mc=
+|oc=
+|ma=zh-gàn.ogg
+|cat=n,a,v
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=[[乾]], [[乹]], [[亁]], [[幹]])|pin=[[gān]] ([[gan1]]), [[gàn]] ([[gan4]])|wg=kan<sup>1</sup>, kan<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=干00}}
-
-===Adjective===
-{{cmn-adj|s|tra=[[乾]], [[乹]], [[亁]]|pin=gān|pint=gan1}}
+====Adjective====
+{{zh-adj|s|tra=[[乾]], [[乹]], [[亁]]|pin=gān|pint=gan1}}
 
 # [[dry]]
 #: 我喉咙很'''干'''。 wǒ hóulóng hěn '''gān'''.
@@ -103,38 +54,34 @@ Exists as a traditional character, and also a simplification of two traditional 
 #: [[干净]] clean
 # [[adoptive]]; [[foster]]
 
-===Adverb===
-{{cmn-adv|s|tra=[[乾]], [[乹]], [[亁]]|pin=gān|pint=gan1}}
+====Adverb====
+{{zh-adv|s|tra=[[乾]], [[乹]], [[亁]]|pin=gān|pint=gan1}}
 
 # [[in vain]]; for nothing
 
-----
-
-===Proper noun===
-{{cmn-proper noun|s|tra=乾|pin=gān|pint=gan1}}
+====Proper noun====
+{{zh-proper noun|s|tra=乾|pin=gān|pint=gan1}}
 
 # {{surname|lang=cmn}}
 
-----
-===Verb===
-{{cmn-verb|ts|pin=gān|pint=gan1}}
+====Verb====
+{{zh-verb|ts|pin=gān|pint=gan1}}
 
 # to [[concern]]; to be implicated in
 
-===Noun===
-{{cmn-noun|ts|pin=gān|pint=gan1}}
+====Noun====
+{{zh-noun|ts|pin=gān|pint=gan1}}
 
 # {{context|archaic|lang=cmn}} [[shield]]
 
----- 
-===Noun===
-{{cmn-noun|s|tra=幹|pin=gàn|pint=gan4}}
+====Noun====
+{{zh-noun|s|tra=幹|pin=gàn|pint=gan4}}
 
 # [[trunk]]
 # [[main]] [[part]]
 
-===Verb===
-{{cmn-verb|s|tra=幹|pin=gàn|pint=gan4}}
+====Verb====
+{{zh-verb|s|tra=幹|pin=gàn|pint=gan4}}
 
 # to [[do]]
 #: 你在'''干'''什么? nǐ zài '''gàn''' shénme?
@@ -150,7 +97,7 @@ Exists as a traditional character, and also a simplification of two traditional 
 #: Fuck you!
 # {{context|vulgar|colloquial|lang=cmn}} to [[kill]]
 
-====Compounds====
+=====Compounds=====
 
 {{top4}}
 gān
@@ -268,29 +215,49 @@ gàn
 * [[干仗]]
 {{bottom}}
 
-[[Category:Mandarin entries with audio links]]
-
-===References===
+====References====
 * {{cite web
 | url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=干
 | title = 干
 | work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
 | language = Mandarin/English
 | accessdate = 2014-03-17}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=|tlpa=kan (kan<sup>1</sup>)}}
-
-# {{defn|lang=nan|sort=干00}}
-
-====References====
 *[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=212&curpage=1&sample=%E5%B9%B2&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=10 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=干00}}
+
+# to dry
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[ほす]] (hosu), [[ひる]] (hiru), [[おかす]] (okasu)}}
+
+====Compounds====
+{{top3}}
+* {{l|ja|sc=Jpan|干戈|tr=かんか, kanka}}
+* {{l|ja|sc=Jpan|干害|tr=かんがい, kangai}}
+{{mid3}}
+* {{l|ja|sc=Jpan|干渉|tr=かんしょう, kanshō}}
+* {{l|ja|sc=Jpan|干魃|tr=かんばつ, kanbatsu}}
+{{mid3}}
+* {{l|ja|sc=Jpan|干天|tr=かんてん, kanten}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[간]], [[강]]|rv=gan, gang|mr=kan, kang}}
+
+# {{defn|lang=ko|sort=干00}}
+
+----
+
 ==Vietnamese==
 
 ===Han character===
