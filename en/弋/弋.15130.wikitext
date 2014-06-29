@@ -21,26 +21,39 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[弋]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=yik6}}
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|h=pfs=yi̍t
+|mn=i̍k
+|w=
+|mc=
+|oc=
+|ma=|ma2=
+|cat=v
+}}
 
-# {{defn|lang=yue|sort=弋00}}
+====Noun====
+{{zh-noun|ts|pin=yì|pint=yi4|rs=弋00}}
 
-----
+# {{label|cmn|archaic}} A retrievable [[arrow]] attached to a string.
 
-==Hakka==
+====Verb====
+{{zh-verb|ts|pin=yì|pint=yi4|rs=弋00}}
 
-===Hanzi===
-{{hak-hanzi|poj=yi̍t|gd=jit<sup>8</sup>; jt<sup>8</sup> [Meixian], zit<sup>8</sup> [Hailu]|hpy=yid6}}
-
-# {{defn|lang=hak|sort=弋00}}
+# {{label|cmn|archaic}} to [[shoot]] with bow
+# {{label|cmn|archaic}} to [[catch]], [[arrest]]
 
 ====References====
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E5%BC%8B CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=57597&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+* {{cite web
+| url = http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F0B
+| title = Unihan data for U+5F0B
+}}
+*[http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
 
 ----
 
@@ -65,50 +78,12 @@
 
 ----
 
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=弋00}}
-
-===Noun===
-{{cmn-noun|ts|pin=yì|pint=yi4|rs=弋00}}
-
-# {{label|cmn|archaic}} A retrievable [[arrow]] attached to a string.
-
-===Verb===
-{{cmn-verb|ts|pin=yì|pint=yi4|rs=弋00}}
-
-# {{label|cmn|archaic}} to [[shoot]] with bow
-# {{label|cmn|archaic}} to [[catch]], [[arrest]]
-
-===References===
-* {{cite web
-| url = http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F0B
-| title = Unihan data for U+5F0B
-}}
-
-----
-
 ==Middle Chinese==
 
 ===Han character===
 '''弋''' (iək)
 
 # {{defn|lang=ltc}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|tlpa=i̍k (ik<sup>8</sup>)|gd=iak<sup>8</sup>}}
-
-# {{defn|lang=nan|sort=弋00}}
-
-====References====
-*[http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
 
 ----
 
