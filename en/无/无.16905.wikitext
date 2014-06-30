@@ -20,102 +20,63 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=mou4|y=mou4|tra=無}}
-
-# {{defn|lang=yue|sort=无00}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=vû|gd=vu<sup>2</sup> [Meixian], wu<sup>2</sup>, mo<sup>2</sup> [Hailu, Siyan]|hpy=vu2}}
-
-# {{defn|lang=hak|sort=无00}}
-
-====References====
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query= CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=xxxxx&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=无00}}
-
-# {{defn|lang=ja|sort=无00}}
-
-====Readings====
-* {{ja-readings|on=[[ぶ]] (bu), [[む]] (mu)|kun=[[ない]] (nai)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=무|eumhun=|rv=mu|mr=mu|y=mu}}
-
-# {{defn|lang=ko|sort=无00}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[无]]|[[無]]}}
 
 ===Pronunciation===
-* {{audio|Zh-wú.ogg|Audio|lang=cmn}}
+{{zh-pron
+|m=wú
+|c=mou4
+|h=pfs=vû
+|mn=bû/bô
+|w=
+|mc=
+|oc=
+|ma=Zh-wú.ogg
+|cat=a,adv,n,v,pref,conj,det
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=無|pin=[[wú]] ([[wu2]])|wg=wu<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=无00}}
-
-===Adverb===
-{{cmn-adv|s|tra=無|pin=wú|pint=wu2}}
+====Adverb====
+{{zh-adv|s|tra=無|pin=wú|pint=wu2}}
 # [[not]], [[no]]
 #: [[无可]] can't
 
-===Noun===
-{{cmn-noun|s|tra=無|pin=wú|pint=wu2}}
+====Noun====
+{{zh-noun|s|tra=無|pin=wú|pint=wu2}}
 
 # [[no]], [[none]], [[nothing]], [[lack]], [[nil]]
 #: {{usex|我无求于你。|tr=wǒ wú qiú yú nǐ.|t=I want nothing from you.|inline=1|lang=cmn}}
 #: {{usex|[[从无到有]]|t=start from nothing, from scratch|inline=1|lang=cmn}}
 
-===Prefix===
-{{cmn-pref|s|tra=無|pin=wú|pint=wu2}}
+====Prefix====
+{{zh-pref|s|tra=無|pin=wú|pint=wu2}}
 
 # [[without]], [[-less]], [[un-]]
 #: {{usex|[[无情]]|t=heartless|inline=1|lang=cmn}}
 #: {{usex|[[无理]]|t=unreasonable|inline=1|lang=cmn}}
 #: {{usex|[[无边]]|t=unlimited|inline=1|lang=cmn}}
 
-===Verb===
-{{cmn-verb|s|tra=無|pin=wú|pint=wu2}}
+====Verb====
+{{zh-verb|s|tra=無|pin=wú|pint=wu2}}
 
 # {{label|cmn|literary}} to not [[have]], to [[lack]], there is no
 #: {{usex|天空无云。|tr=tiānkōng wú yún.|t=There is no cloud in the sky.|inline=1|lang=cmn}}
 
-====Usage note====
-literary equivalent of [[没有]]
-
-====Synonyms====
-[[没有]]
-
 ===Conjunction===
-{{cmn-con|s|tra=無|pin=wú|pint=wu2}}
+{{zh-con|s|tra=無|pin=wú|pint=wu2}}
 
 # regardless of, no matter whether
 
-===Proper noun===
-{{cmn-proper noun|s|tra=無|pin=wú|pint=wu2}}
+====Proper noun====
+{{zh-proper noun|s|tra=無|pin=wú|pint=wu2}}
 
-# {{surname|lang=cmn}}
+=====Usage note=====
+Literary equivalent of [[没有]]
 
-====Compounds====
+=====Synonyms=====
+*[[没有]]
+
+=====Compounds=====
 {{der-top}}
 {{top4}}
 * [[无比]]
@@ -404,39 +365,35 @@ literary equivalent of [[没有]]
 {{bottom}}
 {{der-bottom}}
 
-===Phrase===
+====Phrase====
 * [[无源之水，无本之木]]
 
-# {{defn|lang=cmn|sort=无00}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|poj=|tlpa=bû (bu<sup>5</sup>), bô (bo<sup>5</sup>)|gd=pu<sup>2</sup>, po<sup>2</sup>}}
-
-====Pronunciation====
-* {{a|Quanzhou}} {{IPA|[ bo˧˥ ]|lang=nan}}
-* {{a|Zhangzhou}} {{IPA|[ bə˧˥ ]|lang=nan}}
-
-====Adverb====
-{{nan-adv|s|poj=bô|pojt=bo5|tra=無|sim=无|rs=无00}}
-
-# have not
-#: {{usex|[[我]]'''无'''[[共]][[伊]][[讲]]|tr=[[goá]] '''bô''' [[kā]] [[i]] [[kóng]]|t=[[I]] '''didn't''' [[tell]] [[him]]|inline=1|lang=nan}}
-
-====Verb====
-{{nan-verb|s|poj=bô|pojt=bo5|tra=無|sim=无|rs=无00}}
-
-# do not have
-#: {{usex|[[我]]'''无'''[[零星钱]]|tr=[[goá]] '''bô''' [[lân-san-chîⁿ]]|t=[[I]] '''don't have''' [[any]] [[change]]|inline=1|lang=nan}}
+====References====
+*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=8589&curpage=5&sample=%E7%84%A1&radiobutton=1&querytarget=1&limit=20&pagenum=10&rowcount=199 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ====See also====
 * {{qualifier|Mandarin}} {{l|cmn|没有|tr=[[méiyǒu]]}}
 
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=8589&curpage=5&sample=%E7%84%A1&radiobutton=1&querytarget=1&limit=20&pagenum=10&rowcount=199 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=无00}}
+
+# {{defn|lang=ja|sort=无00}}
+
+====Readings====
+* {{ja-readings|on=[[ぶ]] (bu), [[む]] (mu)|kun=[[ない]] (nai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=무|eumhun=|rv=mu|mr=mu|y=mu}}
+
+# {{defn|lang=ko|sort=无00}}
 
 ----
 
