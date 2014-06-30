@@ -11,8 +11,6 @@
 ===Han character===
 {{Han char|rn=38|rad=女|as=00|sn=3|four=4040<sub>0</sub>|canj=女 (V)}}
 
-# {{qualifier|human}} [[female]]
-# {{context|astronomy|lang=zh}} the [[Girl]], a [[Chinese]] [[constellation]] near [[Aquarius]]
 # ''Kangxi radical 38''
 
 ====Usage notes====
@@ -39,15 +37,15 @@ Generally used only for [[human]]s. Female animals are typically described as [[
 |c=jyu5,neoi5,neoi6
 |h=pfs=ńg, nyí
 |mn=lú/lí
-|w=
-|mc=
-|oc=
+|w=3ny
+|mc=y
+|oc=y
 |ma=zh-nǚ.ogg
 |cat=n
 }}
 
 ====Noun====
-{{cmn-noun|ts|pin=nǚ|pint=nü3}}
+{{zh-noun}}
 
 # [[woman]]
 #: {{zh-usex|女人|woman|link=y}}
@@ -64,7 +62,7 @@ Generally used only for [[human]]s. Female animals are typically described as [[
 *[[母]] [[female]] (for animal)
 
 ====Pronoun====
-{{zh-pronoun|ts|pin=rǔ|pint=ru3}}
+{{zh-pronoun}}
 
 # {{label|zh|archaic}} [[thou]] {{n-g|( variant of  [[汝]] )}}
 
@@ -220,7 +218,7 @@ From {{etyl|ojp|ja|sort=おみな}}. {{IPAchar|/womi<sub>1</sub>na/}} → {{IPAc
 * {{IPA|lang=ja|[o̞.mi.nä]}}
 
 ====Noun====
-{{ja-noun|k|hira=おみな|hhira=をみな|rom=omina}}
+{{ja-noun|おみな}}
 
 # {{context|lang=ja|sort=おみな|archaic}} a [[young]] [[woman]]
 # {{context|lang=ja|sort=おみな|archaic}} a woman
@@ -233,7 +231,7 @@ From earlier {{IPAchar|/womina/}}: {{IPAchar|/womina/}} → {{IPAchar|/woɴna/}}
 * {{IPA|lang=ja|/o.ɴ.naꜜ/|[õ̞˨.ɴ˦.nä˦]}}
 
 ====Noun====
-{{ja-noun|k|hira=おんな|hhira=をんな|rom=onna}}
+{{ja-noun|おんな}}
 
 # a [[woman]]
 
@@ -248,7 +246,7 @@ From {{etyl|ojp|ja|sort=め}}. {{IPAchar|/me<sub>1</sub>/}} → {{IPAchar|/me/}}
 * {{IPA|lang=ja|[me̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=め|rom=me}}
+{{ja-noun|め}}
 
 # [[female]]
 # [[woman]]
@@ -329,20 +327,11 @@ Used more in compounds than on its own.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[녀]]([[여]])|rv=nyeo(yeo)|mr=nyŏ(yŏ)|y=nye(<sup>n</sup>ye)|eumhun=계집|ehrv=gyejip|ehmr=kyejip|ehy=kyeycip}}
+{{ko-hanja|hangeul=[[녀]]([[여]])|mr=nyŏ(yŏ)|y=nye(<sup>n</sup>ye)|eumhun=계집|ehrv=gyejip|ehmr=kyejip|ehy=kyeycip}}
 
 # ([[계집]] 녀, ''gyejip-''): {{context|vulgar|lang=ko}} [[female]], [[woman]], [[wife]].
 
 [[Category:Hanja readings|녀]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''女''' (* [[nyuX]], * [[njiuX]])<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
-
-# {{defn|lang=ltc|sort=女00}}
 
 ----
 
