@@ -24,56 +24,30 @@ In seal form, it was the same as [[乞]].
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=hei3|y=hei3|tra=氣}}
-
-# {{defn|lang=yue|sort=气00}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[hì]], [[khi]]|gd=hi<sup>5</sup>, k'i<sup>5</sup> [Hailu, Siyan]|hpy=hi4, ki1}}
-
-# {{defn|lang=hak|sort=气00}}
-
-====References====
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E6%B0%94 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=8706&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=r|rs=气0}}
-
-# spirit
-# steam radical (きがまえ,kigamae)  
-
-====Readings====
-* {{ja-readings|on=[[き]] (ki), [[け]] (ke)|kun=[[いき]] (iki)}}
-
-====Usage notes====
-* This character exists only as a [[Index:Chinese radical/气|radical]] in Japanese.  The corresponding character is [[気]].
-
-----
-
-==Mandarin==
-{{wikipedia|lang=zh}}
-{{wikipedia|Qi|Qi, life force in Chinese culture|lang=en}}
+==Chinese==
+{{zh-hanzi-box|气|[[氣]]}}
 
 ===Pronunciation===
-* {{audio|Zh-qì.ogg|Audio|lang=cmn}}
+{{zh-pron
+|m=qì,xì
+|c=hei3
+|h=pfs=hì, khi
+|mn=khùi/khì
+|mn_note=khùi - vernacular, khì - literary
+|w=
+|mc=
+|oc=
+|ma=Zh-qì.ogg
+|cat=n
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=氣|pin=[[qì]] ([[qi4]]), [[xì]] ([[xi4]])|wg=ch'i<sup>4</sup>, hsi<sup>4</sup>}}
+===Definitions===
+{{zh-pos}}
 
-===Noun===
-{{cmn-noun|s|pin=qì|pint=qi4|tra=氣|sim=气}}
+{{wikipedia|Qi|Qi, life force in Chinese culture|lang=en}}
+
+====Noun====
+{{zh-noun|s}}
 
 # {{context|Intermediate Mandarin|lang=cmn}} [[air]]; [[gas]]
 #: {{zh-usex|出去 透 透 气！|Go out to breath fresh air!|link=y}}
@@ -89,8 +63,8 @@ In seal form, it was the same as [[乞]].
 #: {{zh-usex|天气|weather|link=y}}
 # {{context|Chinese philosophy|lang=cmn}} [[w:Qi|Qi]]; vital energy; [[life force]] 
 
-===Verb===
-{{cmn-verb|s|pin=qì|pint=qi4|tra=氣|sim=气}}
+====Verb====
+{{zh-verb|s}}
 
 # {{context|Elementary Mandarin|lang=cmn}} to get [[angry]]
 #: {{zh-usex|生气|to get angry|link=y}}
@@ -98,7 +72,7 @@ In seal form, it was the same as [[乞]].
 #: {{zh-usex|别 '''气''' 我!|Don't '''annoy''' me!|link=y}}
 # to [[breath]]
 
-====Compounds====
+=====Compounds=====
 {{der-top}}
 * [[气昂昂]]
 * [[气泵]]
@@ -209,7 +183,7 @@ In seal form, it was the same as [[乞]].
 * [[气壮山河]]
 {{der-bottom}}
 
-===References===
+====References====
 * {{cite web
 | url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=气
 | title = 气
@@ -224,12 +198,19 @@ In seal form, it was the same as [[乞]].
 
 ----
 
-==Min Nan==
+==Japanese==
 
-===Hanzi===
-{{nan-hanzi|poj=khì, khùi}}
+===Kanji===
+{{ja-kanji|grade=r|rs=气0}}
 
-# {{defn|lang=nan|sort=气00}}
+# spirit
+# steam radical (きがまえ,kigamae)  
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[け]] (ke)|kun=[[いき]] (iki)}}
+
+====Usage notes====
+* This character exists only as a [[Index:Chinese radical/气|radical]] in Japanese.  The corresponding character is [[気]].
 
 ----
 
