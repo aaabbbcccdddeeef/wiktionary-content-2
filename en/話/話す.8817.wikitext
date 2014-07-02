@@ -1,18 +1,24 @@
 ==Japanese==
-{{ja-kanjitab|はな|sort=はなす|yomi=kun}}
+{{ja-kanjitab|はな|o2=す|yomi=kun}}
+
+===Pronunciation===
+{{ja-pron|はなす|acc=2|yomi=kun|acc_ref=NHK}}
 
 ===Verb===
-{{ja-verb|はなす|type=1}}
+{{ja-verb|はなす|type=1|tr=intrans}}
 
-# {{context|transitive|lang=ja}} to [[talk]] (about something); to [[speak]] (on a subject); to [[converse]]
+# {{cx|transitive|lang=ja}} to [[talk]] (about something); to [[speak]] (on a subject); to [[converse]]
 # to [[speak]] (a language)
-#: {{ja-usex|アイスランドではアイスランド語を'''話します'''。|アイスランド で は アイスランド-ご を '''はなします'''。|They '''speak''' Icelandic in Iceland.}}
+#: {{ja-usex|アイスランドではアイスランド語を'''話します'''。|^アイスランド で は アイスランド-ご を '''はなします'''。|They '''speak''' Icelandic in Iceland.}}
 
 ====Synonyms====
 * {{sense|speak, talk}} {{ja-r|喋る|しゃべる}}
 
 ====Conjugation====
 {{ja-go-su|はな}}
+
+===References===
+<references />
 
 [[Category:1000 Japanese basic words|はなす]]
 
