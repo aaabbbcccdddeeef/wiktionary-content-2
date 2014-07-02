@@ -1,61 +1,39 @@
-{{also|聽}}
+{{also|聽|聴}}
 ==Translingual==
 {{stroke order|strokes=7}}
 
 ===Han character===
 {{Han char|rn=30|rad=口|as=04|sn=7|four=6202<sub>1</sub>|canj=口竹一中 (RHML)|ids=⿰[[口]][[斤]]}}
 
-# [[hear]]
-# [[understand]]
-# [[obey]], [[comply]]
-
 ====References====
 * {{Han ref|kx=0178.160|dkj=03352|dj=0396.020|hdz=10591.020|uh=542C|ud=21548|bh=A776|bd=42870}}
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=teng1|y=teng1}}
-
-# {{defn|lang=yue|sort=口04}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=口04}}
-
-# {{defn|lang=ja|sort=口04}}
-
-====Readings====
-* {{ja-readings|on=[[きん]] (kin), [[ぎん]] (gin)|kun=[[わらう]] (warau), [[ポンド]] (pondo)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[은]]|rv=eun|mr=ŭn}}
-
-# {{defn|lang=ko|sort=口04}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[听]]|[[聽]]}}
 
 ===Pronunciation===
-{{Pinyin-IPA|tīng|a=zh-tīng.ogg}}
+{{zh-pron
+|m=tīng
+|c=teng1
+|h=pfs=thâng
+|mn=thiaⁿ/thèng/theng
+|mn_note=thèng, theng are literary (文)
+|w=1thin
+|ma=y
+|cat=v}}
 
-===Verb===
-{{cmn-verb|s|pin=tīng|pint=ting1|tra=聽|sim=听}}
+====Verb====
+{{zh-verb}}
 
-# {{context|Beginning Mandarin|lang=cmn|sort=ting1}} to [[listen]]; to [[hear]]
-# {{context|Beginning Mandarin|lang=cmn|sort=ting1}} to [[obey]]
+# {{cx|Beginning Mandarin|lang=zh|sort=ting1}} to [[listen]]; to [[hear]]
+#: {{zh-usex|请 仔细 听。 |Please listen carefully|link=y}}
+# {{cx|Beginning Mandarin|lang=zh|sort=ting1}} to [[obey]]
+#: {{zh-usex|我 劝 他 别 去，他 不 听。 |I advised him bot to go, but he wouldn't listen.|link=y}}
 
 ====Derived terms====
+{{der-top}}
 * [[听便]]
 * [[听到]]
 * [[听得到]]
@@ -65,20 +43,20 @@
 * [[听任]]
 * [[听信]]
 * [[倾听]]
+{{der-bottom}}
+
+===Pronunciation===
+{{zh-pron
+|m=tìng
+|c=ting1
+|w=3thin
+|cat=v}}
 
 ===Verb===
-{{cmn-verb|s|pin=tìng|pint=ting4|tra=聽|sim=听}}
+{{zh-verb}}
 
-# {{context|archaic|lang=cmn|sort=ting1}} to handle (matters of state)
-
-====Derived terms====
-* [[听政]]
-
-===External links===
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=42784&GraphicWord=yes&QueryString=聽$ tīng - Guoyu Cidian (國語辭典)]
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=43049&GraphicWord=yes&QueryString=聽$ tìng - Guoyu Cidian (國語辭典)]
-
-[[Category:Mandarin entries with audio links]]
+# {{cx|archaic|lang=zh|sort=ting4}} to [[handle]] (matters of state)
+#: {{zh-usex|听{tìng}政|to handle matters of state|link=y|inline=y}}
 
 [[fr:听]]
 [[ko:听]]
