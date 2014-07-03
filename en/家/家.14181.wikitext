@@ -136,12 +136,8 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 ===Hanzi===
 {{cmn-hanzi|pin=[[jiā]] ([[jia1]])|wg=chia<sup>1</sup>}}
 
-# [[house]]
-# [[home]]
-# [[family]]
-
 ====Compounds====
-{{top2}}
+{{rel-top}}
 * [[家财]]
 * [[家蚕]]
 * [[家产]]
@@ -198,7 +194,7 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 * [[家雀儿]]
 * [[家禽]]
 * [[家人]]
-{{mid2}}
+{{rel-mid}}
 * [[家舍]]
 * [[家生子]], [[家生子儿]]
 * [[家声]]
@@ -255,13 +251,33 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 * [[家资]]
 * [[家子]]
 * [[家族]]
-{{bottom}}
+{{rel-bottom}}
 
 ===Noun===
 {{cmn-noun|ts|pin=jiā|pint=jia1}}
 
 # [[home]]
-# [[family]]
+# [[family]]; [[household]]
+#  [[school of thought]]; philosophical school
+#: {{zh-usex|^儒家|Confucian school|link=y}}
+#: {{zh-usex|^道家|Daoist School|link=y}}
+
+===Suffix===
+{{cmn-suf|ts|pin=jiā|pint=jia1}}
+
+# {{n-g|specialist in a certain activity or field}} [[-ist]]; [[-er]]; [[-ary]]; [[-ian]]
+#: {{zh-usex|藝術家|artist|link=y}}
+#: {{zh-usex|科學家|scientist|link=y}}
+
+===Pronoun===
+{{cmn-pronoun|ts|pin=jiā|pint=jia1}}
+
+# {{context|polite|for familly member}} [[my]]
+
+===Classifier===
+{{cmn-cls|ts|pin=jiā|pint=jia1}}
+
+# measure word for families or businesses
 
 ====Synonyms====
 * {{l|cmn|家里}}
