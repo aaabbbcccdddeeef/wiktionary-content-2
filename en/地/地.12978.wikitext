@@ -4,139 +4,53 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=03|sn=6|four=4411<sub>2</sub>|canj=土心木 (GPD)|ids=⿰[[土]][[也]]}}
 
-# [[earth]]
-# [[soil]], [[ground]]
-# [[region]]
-
 ====References====
 * {{Han ref|kx=0224.060|dkj=04890|dj=0456.080|hdz=10420.120|uh=5730|ud=22320|bh=A661|bd=42593}}
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[dei6]]|y=dei6}}
-
-# {{defn|lang=yue|sort=土03}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[thì]] (thi<sup>3</sup>)|gd=|hpy=ti4}}
-
-# {{defn|lang=hak|sort=土03}}
-
-====References====
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=43756&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=2|rs=土03}}
-
-# [[earth]]; [[ground]]
-
-====Readings====
-* {{ja-readings
-|goon=[[じ]] (ji) < [[ぢ]] (di)
-|kanon=[[ち]] (chi)
-|kun=[[つち]] (tsuchi)}}
-
-====Compounds====
-{{top3}}
-* {{l|ja|sc=Jpan|土地|tr=とち, tochi}}: [[ground]]; [[land]]
-* {{l|ja|sc=Jpan|意地悪|tr=いじわる, ijiwaru}}
-* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
-* {{l|ja|sc=Jpan|地底|tr=ちてい, chitei}}
-* {{l|ja|sc=Jpan|地理|tr=ちり, chiri}}
-* {{l|ja|sc=Jpan|地盤|tr=ちばん, chiban}}
-* {{l|ja|sc=Jpan|地位|tr=ちい, chii}}
-* {{l|ja|sc=Jpan|地域|tr=ちいき, chiiki}}
-* {{l|ja|sc=Jpan|地下|tr=ちか, chika}}
-{{mid3}}
-* {{l|ja|sc=Jpan|地学|tr=ちがく, chigaku}}
-* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
-* {{l|ja|sc=Jpan|地区|tr=ちく, chiku}}
-* {{l|ja|sc=Jpan|地形|tr=ちけい, chikei}}
-* {{l|ja|sc=Jpan|地上|tr=ちじょう, chijō}}
-* {{l|ja|sc=Jpan|地租|tr=ちそ, chiso}}
-* {{l|ja|sc=Jpan|地点|tr=ちてん, chiten}}
-* {{l|ja|sc=Jpan|地主|tr=じぬし, jinushi}}
-{{mid3}}
-* {{l|ja|sc=Jpan|地表|tr=ちひょう, chihyō}}
-* {{l|ja|sc=Jpan|地方|tr=ちほう, chihō}}
-* {{l|ja|sc=Jpan|地震|tr=じしん, jishin}}
-* {{l|ja|sc=Jpan|天地|tr=てんち, tenchi}}: heaven and earth
-* {{l|ja|sc=Jpan|天變地異|tr=てんぺんちい, tenpen chii}}: [[turmoil]] throughout heaven and earth
-* {{l|ja|sc=Jpan|現在地|tr=げんざいち, genzaichi}}: you are here
-{{bottom}}
-
-===Etymology 1===
-====Noun====
-{{ja-noun|ち}}
-
-# [[earth]]; [[land]]; [[ground]]
-# a [[place]]; a [[region]]; a piece of land
-# [[territory]]; [[dominion]]
-# (of a crate, etc) the [[bottom]]
-
-====Suffix====
-{{ja-pos|ち|suffix}} 
-
-# [[place]], [[area]]
-
-===Etymology 2===
-====Noun====
-{{ja-noun|じ|hhira=ぢ}}
-
-# [[earth]]; [[dirt]]
-# [[fabric]]
-#* {{RQ:Botchan}}:
-#*: {{ja-usex|いくらか薄い'''地'''には相違なくっても暑いには極ってる。|いくら か うすい '''じ''' に は そうい なくって も あつい に は きまってる。|However thin it might be, flannel is flannel and must have been pretty warm at that time of the year.}}
-# {{context|game of go|lang=ja|sort=し'}} [[territory]]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=지|rv=ji|mr=chi|eumhun=땅|ehrv=ttang|ehmr=ttang|ehy=ttang}}
-
-# ([[땅]] 지, ''ttang-''): [[earth]], [[land]], [[ground]]
-# ([[지위]] 지, ''jiwi-''): [[status]], [[rank]]
-
-====Compounds====
-* [[地位]] ([[지위]], ''jiwi'') [[status]], [[rank]]
-* [[地球]] ([[지구]], ''jigu'') the planet [[Earth]], [[globe]]
-* [[地下鐵]] ([[지하철]], ''jihacheol'') [[subway]]
-
-[[Category:Hanja readings|지]]
-
-----
-
-==Mandarin==
+==Chinese==
 {{zh-hanzi-box|[[地]]}}
 
 ===Pronunciation===
-{{Pinyin-IPA|dì|a=zh-de.ogg}}
+{{zh-pron
+|m=dì
+|c=dei6
+|h=pfs=thi
+|mn=tè/tē/toē/tī
+|mn_note=tē/toē/tī are  literary
+|w=3di
+|mc=y
+|oc=y
+|ma=y
+|cat=n}}
 
 ===Noun===
-{{cmn-noun|ts|pin=dì|pint=di4}}
+{{zh-noun}}
 
-# the [[earth]]
+# [[earth]]
+# [[soil]], [[ground]]
+#: {{zh-usex|這 匹 馬 倒 在 地 上，不 住 地{de} 蹬達。|The horse collapsed on the floor, but carried on kicking.|link=y}}
+# [[region]]
 # [[land]]
-#: {{zh-usex|地 是 空虛 混沌。^淵面 黑暗。^神 的 靈 運行 在 水面 上{shang}。|The earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.|link=yes}}
+# {{cx|Cantonese|lang=zh}} (={{zh-l|嘅}}), a less common plurality marker 
 
-====References====
-* [http://wordproject.org/multi/bi_en_cn_py.htm Bible Genesis Chapter 1 verse 2]
+===Pronunciation===
+{{zh-pron
+|m=de,di
+|m_note=di is used in poetry, songs
+|c=dei6-2
+|ma=y
+|cat=particle}}
+
+====Particle====
+{{zh-particle}}
+
+# (adverb-forming particle, like English [[-ly]])
+#: {{zh-usex|很 快 地||very quickly|link=y|inline=y}}
 
 ====Compounds====
+{{der-top}}
 * [[草地]]
 * [[地板]]
 * [[地磅]]
@@ -220,29 +134,96 @@
 * [[地主]]
 * [[地獄]]
 * [[土地]]
-
-[[Category:Mandarin entries with audio links]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''地''' (*dhì)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
-
-# {{defn|lang=ltc|sort=土03}}
+{{der-bottom}}
 
 ----
 
-==Min Nan==
+==Japanese==
 
-===Hanzi===
-{{nan-hanzi|poj=[[tè]] (te<sup>3</sup>), [[tuē]] (tue<sup>7</sup>), [[tī]] (ti<sup>7</sup>)}}
+===Kanji===
+{{ja-kanji|grade=2|rs=土03}}
 
-# {{defn|lang=nan|sort=土03}}
+# [[earth]]; [[ground]]
 
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=2278&curpage=3&sample=%E5%9C%B0&radiobutton=1&querytarget=1&limit=20&pagenum=6&rowcount=105 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+====Readings====
+* {{ja-readings
+|goon=[[じ]] (ji) < [[ぢ]] (di)
+|kanon=[[ち]] (chi)
+|kun=[[つち]] (tsuchi)}}
+
+====Compounds====
+{{der-top}}
+{{top3}}
+* {{l|ja|sc=Jpan|土地|tr=とち, tochi}}: [[ground]]; [[land]]
+* {{l|ja|sc=Jpan|意地悪|tr=いじわる, ijiwaru}}
+* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
+* {{l|ja|sc=Jpan|地底|tr=ちてい, chitei}}
+* {{l|ja|sc=Jpan|地理|tr=ちり, chiri}}
+* {{l|ja|sc=Jpan|地盤|tr=ちばん, chiban}}
+* {{l|ja|sc=Jpan|地位|tr=ちい, chii}}
+* {{l|ja|sc=Jpan|地域|tr=ちいき, chiiki}}
+* {{l|ja|sc=Jpan|地下|tr=ちか, chika}}
+{{mid3}}
+* {{l|ja|sc=Jpan|地学|tr=ちがく, chigaku}}
+* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
+* {{l|ja|sc=Jpan|地区|tr=ちく, chiku}}
+* {{l|ja|sc=Jpan|地形|tr=ちけい, chikei}}
+* {{l|ja|sc=Jpan|地上|tr=ちじょう, chijō}}
+* {{l|ja|sc=Jpan|地租|tr=ちそ, chiso}}
+* {{l|ja|sc=Jpan|地点|tr=ちてん, chiten}}
+* {{l|ja|sc=Jpan|地主|tr=じぬし, jinushi}}
+{{mid3}}
+* {{l|ja|sc=Jpan|地表|tr=ちひょう, chihyō}}
+* {{l|ja|sc=Jpan|地方|tr=ちほう, chihō}}
+* {{l|ja|sc=Jpan|地震|tr=じしん, jishin}}
+* {{l|ja|sc=Jpan|天地|tr=てんち, tenchi}}: heaven and earth
+* {{l|ja|sc=Jpan|天變地異|tr=てんぺんちい, tenpen chii}}: [[turmoil]] throughout heaven and earth
+* {{l|ja|sc=Jpan|現在地|tr=げんざいち, genzaichi}}: you are here
+{{bottom}}
+{{der-bottom}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|ち}}
+
+# [[earth]]; [[land]]; [[ground]]
+# a [[place]]; a [[region]]; a piece of land
+# [[territory]]; [[dominion]]
+# (of a crate, etc) the [[bottom]]
+
+====Suffix====
+{{ja-pos|ち|suffix}} 
+
+# [[place]], [[area]]
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|じ|hhira=ぢ}}
+
+# [[earth]]; [[dirt]]
+# [[fabric]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|いくらか薄い'''地'''には相違なくっても暑いには極ってる。|いくら か うすい '''じ''' に は そうい なくって も あつい に は きまってる。|However thin it might be, flannel is flannel and must have been pretty warm at that time of the year.}}
+# {{context|game of go|lang=ja|sort=し'}} [[territory]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|mr=chi|eumhun=땅|ehrv=ttang|ehmr=ttang|ehy=ttang}}
+
+# ([[땅]] 지, ''ttang-''): [[earth]], [[land]], [[ground]]
+# ([[지위]] 지, ''jiwi-''): [[status]], [[rank]]
+
+====Compounds====
+* [[地位]] ([[지위]], ''jiwi'') [[status]], [[rank]]
+* [[地球]] ([[지구]], ''jigu'') the planet [[Earth]], [[globe]]
+* [[地下鐵]] ([[지하철]], ''jihacheol'') [[subway]]
+
+[[Category:Hanja readings|지]]
 
 ----
 
