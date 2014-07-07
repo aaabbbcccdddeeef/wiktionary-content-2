@@ -43,13 +43,13 @@ Old Chinese *''trjəngʷ'' (Li Fanggui (1971)). Cognate with Old Tibetan {{term|
 ==Chinese==
 {{zh-hanzi-box|[[中]]}}
 
-===Pronunciation===
+===Pronunciation1===
 {{zh-pron
-|m=zhōng,zhòng
-|c=zung1,zung3
+|m=zhōng
+|c=zung1
 |h=pfs=chung
-|mn=tìng/tiong/tiòng
-|mn_note=tìng - vernacular, tiong, tiòng - literary
+|mn=tìng
+|mn_note=tìng - vernacular 
 |w=
 |mc=
 |oc=y
@@ -66,32 +66,27 @@ Old Chinese *''trjəngʷ'' (Li Fanggui (1971)). Cognate with Old Tibetan {{term|
 {{zh-adj|ts}}
 
 # [[medium]], [[intermediary]]
+#: {{zh-usex|這 件 夾克 有 3 個 大小 號。 小，'''中'''，大。|You can get the jacket in three sizes - small, '''medium''' and large.|link=y}}  
 # (dialect) [[all right]], [[OK]]
 
 ====Preposition====
 {{zh-prep|ts}}
 
 # [[within]], [[among]], [[in]] 
-# [[while]], in the process of, [[during]]
-#: 他在事故'''中'''受伤。 tā zài shìgù zhōng shòushāng.
-#:: He was injured '''in''' the accident
+#: {{zh-usex|受傷 者 中 有 一 位 15 歲 的 女孩。|A fifteen year old girl was among the injured.|link=y}}	  
+# [[while]], in the process of, [[during]], in the middle of
+#: {{zh-usex|他 在 事故 '''中''' 受傷。|He was injured '''in''' the accident|link=y}}
+#: {{zh-usex|她 出生 在 一 場 暴風雨 '''中'''。|She was born '''in the middle of''' a rain storm.|link=y}}	  
 
 ====Proper noun====
 {{zh-proper noun|ts}}
 
 # [[China]], [[Chinese]]
-# {{surname|lang=cmn}}
-
-====Verb====
-{{zh-verb|ts}}
-
-# to [[hit the mark]], to be correct, to be succesfull
-# to be hit by, to [[suffer]], to be [[affected]] by
-# to [[win]] (a prize, a lottery)
+#: {{zh-usex|中國|China}}
+# {{surname|lang=cmn}} Zhong
 
 =====Compounds=====
-* zhōng
-{{top2}}
+{{rel-top}}
 * {{l|cmn|中巴}}
 * {{l|cmn|中班}}
 * {{l|cmn|中饱}}
@@ -109,7 +104,7 @@ Old Chinese *''trjəngʷ'' (Li Fanggui (1971)). Cognate with Old Tibetan {{term|
 * {{l|cmn|中国画|tr=Zhōngguóhuà}}
 * {{l|cmn|中国话|tr=Zhōngguóhuà}}
 * {{l|cmn|中间|tr=zhōngjiān}}
-{{mid2}}
+{{rel-mid}}
 * {{l|cmn|中流}}
 * {{l|cmn|中拇指}}
 * {{l|cmn|中年|tr=zhōngnián}}
@@ -127,15 +122,34 @@ Old Chinese *''trjəngʷ'' (Li Fanggui (1971)). Cognate with Old Tibetan {{term|
 * {{l|cmn|中学|tr=zhōngxué}}
 * {{l|cmn|中央|tr=zhōngyāng}}
 * {{l|cmn|中药|tr=zhōngyào}}
-{{bottom}}
-* zhòng
-{{top2}}
+{{rel-bottom}}
+
+===Pronunciation2===
+{{zh-pron
+|m=zhòng
+|c=zung3
+|mn=tiong, tiòng
+|mn_notes=tiong, tiòng - literary
+|cat=v
+}}
+
+====Verb====
+{{zh-verb|ts}}
+
+# to [[hit the mark]], to be correct, to be succesfull
+# to be hit by, to [[suffer]], to be [[affected]] by
+#: {{zh-usex|一次 伏擊 中 一 名 警察 '''中''' 彈 身亡。|A policeman has been '''shot''' dead in an ambush.|link=y}}	  
+#: {{zh-usex|他 試圖 爬 走 時 肩膀 中 槍 了。|As he tried to crawl away, he was hit in the shoulder.	|link=y}}  
+# to [[win]] (a prize, a lottery)
+
+=====Compounds=====
+{{rel-top}}
 * {{l|cmn|中标}}
 * {{l|cmn|中彩}}
-{{mid2}}
+{{rel-mid}}
 * {{l|cmn|中風}}, {{l|cmn|中风|tr=zhòngfēng}}
 * {{l|cmn|中意}}
-{{bottom}}
+{{rel-bottom}}
 
 ====References====
 * {{cite web
