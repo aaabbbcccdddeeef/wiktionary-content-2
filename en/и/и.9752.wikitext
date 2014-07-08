@@ -191,11 +191,9 @@ From {{etyl|sla-pro|cu}} {{m|sla-pro|*jь}}.
 {{head|ru|conjunction}}
 
 # [[and]]
-#: ''{{lang|ru|[[вот|Вот]] [[яблоко|я́блоко]] '''и''' [[груша|гру́ша]]}}''
-#:: Here’s an apple and a pear.
+#: {{ux|ru|Вот я́блоко '''и''' гру́ша.|Here’s an apple and a pear.}}
 # [[as well as]], [[both]] ... and ...
-#: ''{{lang|ru|[[Россия|Росси́и]] нужны́ '''и''' а́рмия, '''и''' фло́т}}''
-#:: Russia needs an army [[as well as]] a navy
+#: {{ux|ru|Росси́и нужны́ '''и''' а́рмия, '''и''' фло́т.|Russia needs an army '''as well as''' a navy.}}
 # [[even]]
 #: {{ux|ru|Бою́сь дана́йцев '''и''' дары́ принося́щих|I fear the Danaans [Greeks], '''even''' those bearing gifts.}}
 
@@ -206,16 +204,10 @@ From {{etyl|sla-pro|cu}} {{m|sla-pro|*jь}}.
 {{head|ru|particle}}
 
 # {{context|preceding a verb|lang=ru}} {{non-gloss definition|Emphasizes the truth of the following verb.}}
-#: Он так '''и''' делает.
-#:: ''On tak '''i''' délajet.''
-#:: He '''does''' do it that way.
-#: Она '''и''' пошла туда.
-#:: ''Oná '''i''' pošlá tudá.''
-#:: She '''did''' go there.
-#: Оно '''и''' есть такое.
-#:: ''Onó '''i''' jest' takóje.''
-#:: It '''''is''''' like that.
-#: {{ux|ru|Я '''и''' есть русский националист''|I '''''am''''' a Russian nationalist}}
+#: {{ux|ru|Он так '''и''' де́лает.|He '''does''' do it that way.}}
+#: {{ux|ru|Она́ '''и''' пошла́ туда́.|She '''did''' go there.}}
+#: {{ux|ru|Оно́ '''и''' есть тако́е.|It '''''is''''' like that.}}
+#: {{ux|ru|Я '''и''' есть тот челове́к.|I '''''am''''' that person.}}
 
 ===Noun===
 {{ru-noun|и|n|-}}
