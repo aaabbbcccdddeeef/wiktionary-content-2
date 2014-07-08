@@ -1,50 +1,81 @@
 ==Translingual==
-{{stroke order|strokes=8}}
-{{stroke order|type=animate}}
 
 ===Alternative forms===
 * [[⻗]] (U+2ED7) (When used as a combining radical)
 
-===Etymology===
-{{liushu|p}} – a cloud with drops of rain falling from it.
-
-{{Han etyl}}
-
 ===Han character===
 {{Han char|rn=173|rad=雨|as=00|sn=8|four=1022<sub>7</sub>|canj=一中月卜 (MLBY)}}
-
-# [[rain]]
-# [[rainy]]
-# KangXi radical 173 [[Index:Chinese radical/雨|雨]]
-
-====Descendants====
-* [[Index:Chinese radical/雨]]
 
 ===References===
 * {{Han ref|kx=1371.180|dkj=42210|dj=1878.010|hdz=64057.010|uh=96E8|ud=38632|bh=AB42|bd=43842}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|雨}}
 
-===Hanzi===
-{{yue-hanzi|jyut=jyu5|y=yu5}}
+===Etymology===
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*k/r/s-wa}}.
 
-# {{defn|lang=yue|sort=雨00}}
+Graphically: {{liushu|p}} – a cloud with drops of rain falling from it.
 
-----
+{{stroke order|strokes=8}}
+{{stroke order|type=animate}}
+{{Han etyl}}
 
-==Hakka==
+===Pronunciation 1===
+{{zh-pron
+|m=yǔ,yù
+|c=jyu5
+|h=pfs=yí
+|mn=hō͘/ú
+|mn_note=hō͘ - colloquial; ú - literary
+|w=3hhy
+|ma=y
+|mc=1
+|oc=1,1
+|cat=n
+}}
 
-===Hanzi===
-{{hak-hanzi|poj=yí|gd=ji<sup>3</sup>; j<sup>3</sup> [Meixian], zi<sup>3</sup> [Hailu]|hpy=yi3}}
+====Definitions====
+{{zh-pos}}
 
-# {{defn|lang=hak|sort=雨00}}
+# [[rain]]
+#* {{zh-usex|雷 以 動 之，風 以 散 之，'''雨''' 以 潤 之，日 以 烜{xuǎn} 之。|Thunder serves to put things in motion; wind to scatter (the genial seeds of) them; '''rain''' to moisten them; the sun to warm them.|CL|ref=Yijing|link=yes}}
+# {{cx|figurative|lang=zh}}
+## {{†}} [[friend]]
+## {{†}} [[teaching]], [[instruction]]
 
-===References===
-*[http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E9%9B%A8 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=56893&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+====Descendants====
+{{Sinoxenic-word|雨|う|우|vũ}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yù
+|c=jyu6
+|mc=2
+|oc=2,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-pos}}
+
+# {{†}} to [[rain]]
+#* {{zh-usex|'''雨{yù}''' 我 公 田，遂 及 我 私。|May it '''rain''' first on our public fields, and then come to our private!|CL|ref=Shijing|link=yes}}
+# {{†}} to [[fall]] from the [[sky]] (like the rain)
+#* {{zh-usex|北 風 其 涼，'''雨{yù}''' 雪 其 雱。惠 而 好{hào} 我，攜 手 同 行。其 虛 其 邪，既 亟 只 且。|Cold blows the north wind; Thick '''fall'''s the snow. Ye who love and regard me, let us join hands and go together. Is it a time for delay? The urgency is extreme!|CL|ref=Shijing|link=yes}}
+
+===Compounds===
+{{der3
+| {{zh-l|雨雪}}
+| {{zh-l|傾盆大雨/倾盆大雨}}
+| {{zh-l|下雨}}
+| {{zh-l|风雨}}
+| {{zh-l|雨季}}
+| {{zh-l|降雨}}
+| {{zh-l|雲雨/云雨}}
+}}
 
 ----
 
@@ -190,50 +221,6 @@ Cognate with {{term|雨|ame|rain}}. Found in compounds. The /s/ either represent
 
 ----
 
-==Mandarin==
-{{zh-hanzi-box|雨}}
-
-===Pronunciation===
-{{Pinyin-IPA|yǔ|a=zh-yǔ.ogg}}
-
-===Noun===
-{{cmn-noun|ts|pin=yǔ|pint=yu3}}
-
-# [[rain]]
-#: [[傾]][[盆]][[大]][[雨]]。 (''[[Traditional Chinese|trad.]]'')
-#: [[倾]][[盆]][[大]][[雨]]。 (''[[Simplified Chinese|simp.]]'')
-#:: [[rain cats and dogs|Raining cats and dogs]].
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yǔ]] ([[yu3]])|wg=yü<sup>3</sup>}}
-
-# {{defn|lang=cmn|sort=雨00}}
-
-[[Category:Mandarin entries with audio links]]
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''雨''' (*hiǒ)
-
-# {{defn|lang=ltc|sort=雨00}}
-
-----
-
-==Min Nan==
-
-===Hanzi===
-{{nan-hanzi|tlpa=ú (u<sup>2</sup>), hōo (hoo<sup>7</sup>)}}
-
-# {{defn|lang=nan|sort=雨00}}
-
-===References===
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=4514&curpage=2&sample=%E9%9B%A8&radiobutton=1&querytarget=1&limit=20&pagenum=2&rowcount=32 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
-
-----
-
 ==Miyako==
 {{attention|mvi}}
 
@@ -243,16 +230,6 @@ Cognate with {{term|雨|ame|rain}}. Found in compounds. The /s/ either represent
 
 ===Noun===
 {{head|mvi|noun|hiragana|あみ|romaji|ami}}
-
-# [[rain]]
-
-----
-
-==Mulam==
-{{attention|mlm}}
-
-===Noun===
-{{head|mlm|noun|tr=kwən1}}
 
 # [[rain]]
 
