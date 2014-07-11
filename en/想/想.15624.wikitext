@@ -16,59 +16,24 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[soeng2]]|y=seung2}}
-
-# {{defn|lang=yue|sort=心09}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[síong]] (siong<sup>2</sup>)|gd=|hpy=xiong3}}
-
-# {{defn|lang=hak|sort=心09}}
-
-====References====
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=39415&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=3|rs=心09}}
-
-# {{defn|lang=ja|sort=心09}}
-
-====Readings====
-* {{ja-readings|on=[[そう]] (sō), [[そ]] (so)|kun=[[おもう]] (omou), [[おもい]] (omoi)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
-
-# {{defn|lang=ko|sort=心09}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[想]]}}
 
 ===Pronunciation===
-* {{audio|zh-xiǎng.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=xiǎng
+|c=soeng2
+|h=pfs=síong;hpy=xiong3
+|mn=
+|w=
+|mc=y
+|oc=y
+|ma=zh-xiǎng.ogg
+|cat=v
+}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[xiǎng]] ([[xiang3]])|wg=hsiang<sup>3</sup>}}
-
-===Verb===
-{{cmn-verb|ts|pin=xiǎng}}
+====Verb====
+{{zh-verb|ts}}
 
 # [[think]] {{gloss|to conceive of something or someone}}
 #* {{zh-usex|我 想 她 是 衰老 了。|I think she's going senile.|link=y}}	  
@@ -80,9 +45,9 @@
 #* {{zh-usex|還 '''想''' 喝 一 杯 嗎？|Would you '''like''' another drink?|link=y}}  
 #* {{zh-usex|她 '''想''' 當 芭蕾舞 演員。|She '''wants''' to be a ballet dancer.|link=y}}	  
 # to [[miss]] {{gloss|to feel the absence of someone or something}}
-#* {{zh-usex|你 走 了 我 會 '''想''' 你 的。|I'll '''miss''' you when you're gone.|link=y}}  	
+#* {{zh-usex|你 走 了 我 會 '''想''' 你 的。|I'll '''miss''' you when you're gone.|link=y}}	
 
-====Compounds====
+=====Compounds=====
 {{rel-top3}}
 * [[想必]]
 * [[想不到]]
@@ -125,7 +90,30 @@
 * [[意想]]
 {{rel-bottom}}
 
-[[Category:Mandarin entries with audio links]]
+====References====
+*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=39415&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[そ]] (so)|kun=[[おもう]] (omou), [[おもい]] (omoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+
+# {{defn|lang=ko|sort=心09}}
 
 ----
 
