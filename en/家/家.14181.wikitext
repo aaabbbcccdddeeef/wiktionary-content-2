@@ -10,11 +10,6 @@
 ===Han character===
 {{Han char|rn=40|rad=宀|as=07|sn=10|four=3023<sub>2</sub>|canj=十一尸人 (JMSO)|ids=⿱[[宀]][[豕]]}}
 
-#[[house]], [[home]], [[residence]]
-#[[family]]
-#(as a suffix): [[professional]], [[expert]], performer
-#(as a suffix): a [[school of thought]] (儒家, 道家, 法家)
-
 ====Derived characters====
 * [[傢]] [[嫁]] [[稼]]
 
@@ -23,118 +18,53 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[gaa1]], [[gu1]]|y=ga1, gu1}}
-
-# {{defn|lang=yue|sort=宀07}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=2|rs=宀07}}
-
-====Readings====
-* {{ja-readings
-|goon = [[け]] (ke), [[く]] (ku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kanon = [[か]] (ka), [[こ]] (ko) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kun = [[いえ]] (ie), [[や]] (ya), [[うち]] (uchi)}}
-
-====Compounds====
-{{top2}}
-* [[家屋]]
-* [[家具]]
-* [[家族]]
-{{mid2}}
-* [[家庭]]
-* {{term|家禽||[[domestic]] [[fowl]]s, [[poultry]]|tr=[[かきん]], [[kakin]]|lang=ja|sc=Jpan}}
-{{bottom}}
-
-===Etymology 1===
-/ihe<small>1</small>/: [ipe] → [iɸe] → [iwe] → [ie]. Possibly related to [[廬|io]].
-
-====Noun====
-{{ja-noun|k|hira=いえ|hhira=いへ|rom=ie}}
-
-# a [[house]]
-# one's own [[home]]
-# a [[home]]; a [[household]]
-# a [[family]]
-
-====Suffix====
-{{ja-noun|k|hira=か|rom=-ka}}
-# (as suffix) an [[expert]], [[professional]], [[performer]]
-
-===Etymology 2===
-Cognate with {{term|内|tr=uchi|lang=ja}}.
-
-====Noun====
-{{ja-noun|うち}}
-
-# a house
-# one's house
-
-====Suffix====
-{{ja-pos|け|suffix}}
-
-# a suffix representing relationship to a family
-#: {{ja-usex|平'''家'''|たいら-'''け'''|the Taira family}}
-
-===Etymology 3===
-
-A contraction of [[家|uchi]] → chi. Often following the genitive case marker [[の|no]] which contracts to ''n''.
-
-====Noun====
-{{ja-noun|ち}}
-
-# house
-#: {{ja-usex|俺ん'''家'''に来ない？|おれ ん '''ち''' に こない？|Wanna come to my place?}}
-
-====Noun====
-{{ja-noun|や}} 
-
-# house
-
-====Suffix====
-{{ja-pos|や|suffix}}
-
-# house of something, place where some business is conducted
-# person who does that thing
-
-=====See also=====
-* {{l|ja|者|tr=[[しゃ]], -sha}}
-* {{l|ja|手|tr=[[しゅ]], -shu}}
-
-[[Category:1000 Japanese basic words|いえ]]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[가]], [[고]]|rv=ga, go|mr=ka, ko}}
-
-# {{defn|lang=ko|sort=宀07}}
-
-====Compounds====
-* {{ko-inline|가구|gagu||家口}}
-* {{ko-inline|가장|gajang||家長}}
-* {{ko-inline|가정|gajeong||家庭}}
-* {{ko-inline|가족|gajok||家族}}
-* {{ko-inline|작가|jakka||作家}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[家]]}}
 
 ===Pronunciation===
-* {{audio|zh-jiā.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=jiā
+|ma=y
+|c=gaa1
+|h=pfs=kâ
+|mn=ke/ka
+|mn_note=ka is literary
+|w=1ka,1jia
+|w_note=1jia is literary
+|mc=y
+|oc=y
+|cat=n,suf,cls,pronoun}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[jiā]] ([[jia1]])|wg=chia<sup>1</sup>}}
+===Noun===
+{{zh-noun}}
+
+# {{cx|Beginning Mandarin|lang=zh|sort=jia1}} [[home]]
+#: {{zh-usex|我 的 家 就 在 這裡。|My home is here|link=y}}
+# {{cx|Beginning Mandarin|lang=zh|sort=jia1}} [[family]]; [[household]]
+#  [[school of thought]]; philosophical school
+#: {{zh-usex|^儒家|Confucian school|link=y}}
+#: {{zh-usex|^道家|Daoist School|link=y}}
+
+===Suffix===
+{{zh-suf}}
+
+# {{n-g|specialist in a certain activity or field}} [[-ist]]; [[-er]]; [[-ary]]; [[-ian]]
+#: {{zh-usex|藝術家|artist|link=y}}
+#: {{zh-usex|科學家|scientist|link=y}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{cx|polite|for family member|lang=zh|sort=jia1}} [[my]]
+
+===Classifier===
+{{zh-cls}}
+
+# measure word for families or businesses
+
+====Synonyms====
+* {{sense|home, family}} {{zh-l|家裡/家里}}, {{zh-l|家裏/家里}} 
+* {{sense|family}} {{zh-l|家庭}}, {{zh-l|家族}}
 
 ====Compounds====
 {{rel-top}}
@@ -253,54 +183,103 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 * [[家族]]
 {{rel-bottom}}
 
-===Noun===
-{{cmn-noun|ts|pin=jiā|pint=jia1}}
-
-# [[home]]
-# [[family]]; [[household]]
-#  [[school of thought]]; philosophical school
-#: {{zh-usex|^儒家|Confucian school|link=y}}
-#: {{zh-usex|^道家|Daoist School|link=y}}
-
-===Suffix===
-{{cmn-suf|ts|pin=jiā|pint=jia1}}
-
-# {{n-g|specialist in a certain activity or field}} [[-ist]]; [[-er]]; [[-ary]]; [[-ian]]
-#: {{zh-usex|藝術家|artist|link=y}}
-#: {{zh-usex|科學家|scientist|link=y}}
-
-===Pronoun===
-{{cmn-pronoun|ts|pin=jiā|pint=jia1}}
-
-# {{context|polite|for familly member|lang=cmn}} [[my]]
-
-===Classifier===
-{{cmn-cls|ts|pin=jiā|pint=jia1}}
-
-# measure word for families or businesses
-
-====Synonyms====
-* {{l|cmn|家里}}
-
-[[Category:Mandarin entries with audio links]]
+[[Category:zh:Family|jia1]]
 
 ----
 
-==Middle Chinese==
-===Han character===
-'''家''' (*ga)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=宀07}}
+
+====Readings====
+* {{ja-readings
+|goon = [[け]] (ke), [[く]] (ku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon = [[か]] (ka), [[こ]] (ko) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun = [[いえ]] (ie), [[や]] (ya), [[うち]] (uchi)}}
+
+====Compounds====
+{{top2}}
+* [[家屋]]
+* [[家具]]
+* [[家族]]
+{{mid2}}
+* [[家庭]]
+* {{term|家禽||[[domestic]] [[fowl]]s, [[poultry]]|tr=[[かきん]], [[kakin]]|lang=ja|sc=Jpan}}
+{{bottom}}
+
+===Etymology 1===
+/ihe<small>1</small>/: [ipe] → [iɸe] → [iwe] → [ie]. Possibly related to [[廬|io]].
+
+====Noun====
+{{ja-noun|いえ}}
+
+# a [[house]]
+# one's own [[home]]
+# a [[home]]; a [[household]]
+# a [[family]]
+
+====Suffix====
+{{ja-pos|か|suffix}}
+# (as suffix) an [[expert]], [[professional]], [[performer]]
+
+===Etymology 2===
+Cognate with {{term|内|tr=uchi|lang=ja}}.
+
+====Noun====
+{{ja-noun|うち}}
+
+# a house
+# one's house
+
+====Suffix====
+{{ja-pos|け|suffix}}
+
+# a suffix representing relationship to a family
+#: {{ja-usex|平'''家'''|たいら-'''け'''|the Taira family}}
+
+===Etymology 3===
+
+A contraction of [[家|uchi]] → chi. Often following the genitive case marker [[の|no]] which contracts to ''n''.
+
+====Noun====
+{{ja-noun|ち}}
+
+# house
+#: {{ja-usex|俺ん'''家'''に来ない？|おれ ん '''ち''' に こない？|Wanna come to my place?}}
+
+====Noun====
+{{ja-noun|や}} 
+
+# house
+
+====Suffix====
+{{ja-pos|や|suffix}}
+
+# house of something, place where some business is conducted
+# person who does that thing
+
+=====See also=====
+* {{l|ja|者|tr=[[しゃ]], -sha}}
+* {{l|ja|手|tr=[[しゅ]], -shu}}
+
+[[Category:1000 Japanese basic words|いえ]]
 
 ----
 
-==Min Nan==
+==Korean==
 
-===Hanzi===
-{{nan-hanzi|tlpa=[[ka]] (ka<sup>1</sup>), [[ke]] (ke<sup>1</sup>)]}}
+===Hanja===
+{{ko-hanja|hangeul=[[가]], [[고]]|mr=ka, ko}}
 
-# {{defn|lang=nan|sort=宀07}}
+# {{defn|lang=ko|sort=宀07}}
 
-===References===
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=5900&curpage=1&sample=%E5%AE%B6&radiobutton=1&querytarget=1&limit=20&pagenum=5&rowcount=98 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+====Compounds====
+* {{ko-inline|가구|gagu||家口}}
+* {{ko-inline|가장|gajang||家長}}
+* {{ko-inline|가정|gajeong||家庭}}
+* {{ko-inline|가족|gajok||家族}}
+* {{ko-inline|작가|jakka||作家}}
 
 ----
 
