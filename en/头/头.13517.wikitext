@@ -18,32 +18,27 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=tau4|y=tau4|tra=頭}}
-
-# {{defn|lang=yue|sort=大02}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|[[头]]|[[頭]]}}
+==Chinese==
+{{zh-hanzi-box|头|[[頭]]}}
 
 ===Pronunciation===
-{{Pinyin-IPA|tóu|a=zh-tóu.ogg}}
+{{zh-pron
+|m=tóu
+|c=tau4
+|mc=y
+|oc=y
+|ma=zh-tóu.ogg
+|cat=n
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=頭|sim=头|pin=[[tóu]] ([[tou2]])|wg=t'ou<sup>2</sup>}}
-
-===Classifier===
-{{cmn-cls|s|pin=tou|pint=tou0|tra=頭|sim=头}}
+====Classifier====
+{{zh-cls|s}}
 
 # Measure word for livestock
 #: ''我有两头猪。'' - ''I have two pigs.''
 
 ====Noun====
-{{cmn-noun|s|pin=tóu|pint=tou2|tra=頭|sim=头|mw=个}}
+{{zh-noun|s|mw=个}}
 
 # [[head]]
 #* [http://wordproject.org/multi/bi_en_cn_py.htm Genesis 3.15]
@@ -57,13 +52,13 @@
 # [[chief]], [[boss]]
 # [[remnant]], [[end]]
 
-===Adjective===
-{{cmn-adj|s|pin=tóu|pint=tou2|tra=頭|sim=头}}
+====Adjective====
+{{zh-adj|s}}
 
 # [[first]], [[leading]]
 
-===Suffix===
-{{cmn-suf|s|pin=tóu|pint=tou2|tra=頭|sim=头}}
+====Suffix====
+{{zh-suf|s}}
 
 # [[suffix]] for noun
 
@@ -158,8 +153,6 @@
 {{bottom}}
 {{der-bottom}}
 
-[[Category:Mandarin entries with audio links]]
-
 [[da:头]]
 [[fr:头]]
 [[ko:头]]
@@ -180,7 +173,7 @@
 [[uk:头]]
 [[zh:头]]
 
-===References===
+====References====
 * {{cite web
 | url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=头
 | title = 头
