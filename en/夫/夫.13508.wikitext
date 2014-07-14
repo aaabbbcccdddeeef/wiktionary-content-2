@@ -20,12 +20,61 @@ A man [[大]] with an hairpin [[一]] in his hair. In ancient times, when men re
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[夫]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[fu1]], [[fu4]]|y=fu1, fu4}}
+===Pronunciation===
+{{zh-pron
+|m=fū,fú
+|c=fu1,fu4
+|mc=y
+|oc=y
+|cat=n,pron,det
+}}
 
-# {{defn|lang=yue|sort=大01}}
+====Noun====
+{{zh-noun|ts}}
+# [[husband]]
+#: [[丈夫]] husband, [[夫妇]] married couple
+# {{senseid|cmn|man}}[[man]], [[male]] [[adult]]
+# [[manual]] [[worker]]
+#: [[农夫]] peasant,  [[渔夫]] fisherman
+
+====Pronoun====
+{{zh-pronoun|ts}}
+# (classical) he, she, they, those, this, that
+
+====Particle====
+{{zh-particle|ts}}
+# {{senseid|cmn|is it not}} {{context|literary|lang=cmn|sort=fu2}} sentence-final, meaning "Is it not?" or "Isn't it?"
+# {{senseid|cmn|topic marker}} {{context|literary|lang=cmn|sort=fu2}} initial particle which introduces a topic
+#* '''Spring and Autumn Period or Warring States Period''', [[孙武]] (Sun Wu), ''孫子 (The Art of War)'':
+#*: '''夫'''将者，国之辅也。辅周则国必强，辅隙则国必弱。
+#*:: The general is the country's defense. If the defense is solid, the country can only be strong; if it has gaps, then the country can only be weak.
+
+=====Usage notes=====
+Not used as an independent character in modern Chinese. Only found in compounds.
+
+=====Compounds=====
+{{der-top}}
+* [[夫人]] madam
+* [[大夫]] doctor
+* [[丈夫]] husband
+* [[夫妇]] married couple
+* [[功夫]] kung-fu
+* [[农夫]] peasant
+* [[渔夫]] fisherman
+{{der-bottom}}
+
+====References====
+* {{quote-book|1995|Edwin G. Pulleyblank|Outline of Classical Chinese Grammar|page=17}}
+* {{quote-book|1995|Edwin G. Pulleyblank|Outline of Classical Chinese Grammar|page=74}}
+* {{cite web
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=夫
+| title = 夫
+| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+| language = Mandarin/English
+| accessdate = 2014-02-17}}
 
 ----
 
@@ -79,6 +128,7 @@ A man [[大]] with an hairpin [[一]] in his hair. In ancient times, when men re
 [[Category:ja:Family|おつと]]
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 夫]]
+
 ----
 
 ==Korean==
@@ -88,56 +138,6 @@ A man [[大]] with an hairpin [[一]] in his hair. In ancient times, when men re
 
 # {{defn|lang=ko|sort=大01}}
 
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[fū]] ([[fu1]]), [[fú]] ([[fu2]])|wg=fu<sup>1</sup>}}
-
-===Noun===
-{{cmn-noun|ts|pin=fū|pint=fu1}}
-# [[husband]]
-#: [[丈夫]] husband, [[夫妇]] married couple
-# {{senseid|cmn|man}}[[man]], [[male]] [[adult]]
-# [[manual]] [[worker]]
-#: [[农夫]] peasant,  [[渔夫]] fisherman
-
-===Pronoun===
-{{cmn-pronoun|ts|pin=fú|pint=fu2}}
-# (classical) he, she, they, those, this, that
-
-===Particle===
-{{cmn-particle|ts|pin=fú|pint=fu2}}
-# {{senseid|cmn|is it not}} {{context|literary|lang=cmn|sort=fu2}} sentence-final, meaning "Is it not?" or "Isn't it?"
-# {{senseid|cmn|topic marker}} {{context|literary|lang=cmn|sort=fu2}} initial particle which introduces a topic
-#* '''Spring and Autumn Period or Warring States Period''', [[孙武]] (Sun Wu), ''孫子 (The Art of War)'':
-#*: '''夫'''将者，国之辅也。辅周则国必强，辅隙则国必弱。
-#*:: The general is the country's defense. If the defense is solid, the country can only be strong; if it has gaps, then the country can only be weak.
-
-====Usage notes====
-Not used as an independent character in modern Chinese. only found in compounds.
-
-====Compounds====
-{{der-top}}
-* [[夫人]] madam
-* [[大夫]] doctor
-* [[丈夫]] husband
-* [[夫妇]] married couple
-* [[功夫]] kung-fu
-* [[农夫]] peasant
-* [[渔夫]] fisherman
-{{der-bottom}}
-
-===References===
-* {{quote-book|1995|Edwin G. Pulleyblank|Outline of Classical Chinese Grammar|page=17}}
-* {{quote-book|1995|Edwin G. Pulleyblank|Outline of Classical Chinese Grammar|page=74}}
-* {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=夫
-| title = 夫
-| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-| language = Mandarin/English
-| accessdate = 2014-02-17}}
 ----
 
 ==Vietnamese==
