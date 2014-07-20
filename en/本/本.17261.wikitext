@@ -23,124 +23,22 @@ Derived from [[木]] (tree) by the addition of an extra stroke, representing roo
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[bun2]]|y=bun2}}
-
-# {{defn|lang=yue|sort=木01}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=1|rs=木01}}
-
-====Readings====
-* {{ja-readings|on=[[ほん]] (hon)|kun=[[もと]] (moto)|nadzuke=[[なり]] (nari), [[はじめ]] (hajime), [[もと]] (moto)}}
-
-====Compounds====
-{{top2}}
-* [[本意]] (ほんい, honi)
-* [[本家]] (ほんけ, honke)
-* [[本懐]] (ほんかい, honkai)
-* [[本格]] (ほんかく, honkaku)
-* [[本官]] (ほんかん, honkan)
-* [[本願]] (ほんがん, hongan)
-* [[本義]] (ほんぎ, hongi)
-* [[本業]] (ほんぎょう, hongyō)
-* [[本源]] (ほんげん, hongen)
-* [[本旨]]
-* [[本地]]
-* [[本地垂迹]]
-* [[本州]] (ほんしゅう, Honshū)
-* [[本性]]
-* [[本心]]
-* [[本籍]]
-* [[本草]]
-* [[本草学]]
-{{mid2}}
-* [[本草綱目]]
-* [[本体]]
-* [[本態]]
-* [[本朝]]
-* [[本土]]
-* [[本能]] (ほんのう, honnō)
-* [[本分]]
-* [[本邦]]
-* [[本末]] (ほんまつ, honmatsu)
-* [[本務]]
-* [[本命]]
-* [[本望]]
-* [[本屋]] ([[ほんや]], [[hon'ya]]): [[bookstore]]
-* [[本来]] (ほんらい, honrai)
-* [[本領]]
-* [[本論]]
-* [[本日]] ([[ほんじつ]], [[honjitsu]]): [[today]]
-* [[日本]] (にほん, Nihon; にっぽん, Nippon)
-* [[日本人]] (にほんじん, nihonjin; にっぽんじん, nipponjin)
-{{bottom}}
-
-===Etymology 1===
-
-====Counter====
-{{ja-pos|もと|counter}}
-
-# [[blades]] of grass and tree [[trunks]]
-# [[falcons]]
-
-====Noun====
-{{ja-noun|もと|count=個}}
-# the [[source]]
-# a [[root]]
-
-===Etymology 2===
-
-====Counter====
-{{ja-pos|ほん|counter}}
-
-# long [[cylindrical]] things such as glasses of drink, pairs of jeans, or [[trains]] and [[bus|buses]]
-# [[films]] or TV shows
-# [[home runs]] or [[goals]]
-# [[rounds]] of a match in [[boxing]], [[wrestling]] or [[judo]]
-
-====Noun====
-{{ja-noun|ほん|count=冊}}
-
-# a [[book]]
-# a [[script]]; a [[scenario]]
-
-[[Category:1000 Japanese basic words|ほん]]
-[[Category:ja:Falconry|もと]]
-[[Category:ja:Media|ほん]]
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=본|eumhun=[[뿌리]] (ppuri)|rv=bon|mr=pon|y=pon}}
-
-# {{defn|lang=ko|sort=木01}}
-
-====Compounds====
-* [[本貫]] ([[본관]])
-* [[本錢]] ([[본전]])
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[本]]}}
 
 ===Pronunciation===
-* {{audio|zh-běn.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=běn
+|c=bun2
+|mn=
+|mc=y
+|oc=y
+|ma=zh-běn.ogg
+|cat=n,a,adv,cls
+}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[běn]] ([[ben3]])|wg=[[pen3|pen<sup>3</sup>]]}}
-
-# {{defn|lang=cmn|sort=木01}}
-
-===Noun===
-{{cmn-noun|ts|pin=běn}}
+====Noun====
+{{zh-noun|ts}}
 
 # {{qualifier|of plants}} [[root]]; [[stem]] 
 # [[source]]; [[origin]]; [[root]]
@@ -149,29 +47,29 @@ Derived from [[木]] (tree) by the addition of an extra stroke, representing roo
 #: {{zh-usex|謙遜 是 美德 之 本。|Humility is the foundation of all virtue.|link=y}}
 # [[edition]]; [[version]]; [[copy]]
 
-===Adverb===
-{{cmn-adv|ts|pin=běn}}
+====Adverb====
+{{zh-adv|ts}}
 
 # [[originally]]
 # [[hereof]]
 #: {{zh-usex|'''本''' 函 下面 所 示 系 Y 先生 的 簽名。|You will find the signature of Mr. Y. at the foot '''hereof'''.|link=y}}
 
-===Adjective===
-{{cmn-adj|ts|pin=běn}}
+====Adjective====
+{{zh-adj|ts}}
 
 # [[current]]; [[present]]
 #: {{zh-usex|本年|current year|link=y}}
 #: {{zh-usex|'''本''' 財政 年 度 的 全部 投資 預算 已 用完。|We have already used up our total investment budget for the '''current''' fiscal year.|link=y}}
 
-===Classifier===
-{{cmn-cls|ts|pin=běn}}
+====Classifier====
+{{zh-cls|ts}}
 
 # {{n-g|classifier for books, periodicals, files}}
 #: {{zh-usex|一 本 書|a book|link=y}}
 #: {{zh-usex|一 本 雜誌|a magazine|link=y}}
 # [[volume]]
 
-====Compounds====
+=====Compounds=====
 {{der-top3}}
 * [[本报]]
 * [[本本主义]]
@@ -259,7 +157,103 @@ Derived from [[木]] (tree) by the addition of an extra stroke, representing roo
 * [[本罪]]
 {{der-bottom}}
 
-[[Category:Mandarin entries with audio links]]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=木01}}
+
+====Readings====
+* {{ja-readings|on=[[ほん]] (hon)|kun=[[もと]] (moto)|nadzuke=[[なり]] (nari), [[はじめ]] (hajime), [[もと]] (moto)}}
+
+====Compounds====
+{{top2}}
+* [[本意]] (ほんい, honi)
+* [[本家]] (ほんけ, honke)
+* [[本懐]] (ほんかい, honkai)
+* [[本格]] (ほんかく, honkaku)
+* [[本官]] (ほんかん, honkan)
+* [[本願]] (ほんがん, hongan)
+* [[本義]] (ほんぎ, hongi)
+* [[本業]] (ほんぎょう, hongyō)
+* [[本源]] (ほんげん, hongen)
+* [[本旨]]
+* [[本地]]
+* [[本地垂迹]]
+* [[本州]] (ほんしゅう, Honshū)
+* [[本性]]
+* [[本心]]
+* [[本籍]]
+* [[本草]]
+* [[本草学]]
+{{mid2}}
+* [[本草綱目]]
+* [[本体]]
+* [[本態]]
+* [[本朝]]
+* [[本土]]
+* [[本能]] (ほんのう, honnō)
+* [[本分]]
+* [[本邦]]
+* [[本末]] (ほんまつ, honmatsu)
+* [[本務]]
+* [[本命]]
+* [[本望]]
+* [[本屋]] ([[ほんや]], [[hon'ya]]): [[bookstore]]
+* [[本来]] (ほんらい, honrai)
+* [[本領]]
+* [[本論]]
+* [[本日]] ([[ほんじつ]], [[honjitsu]]): [[today]]
+* [[日本]] (にほん, Nihon; にっぽん, Nippon)
+* [[日本人]] (にほんじん, nihonjin; にっぽんじん, nipponjin)
+{{bottom}}
+
+===Etymology 1===
+
+====Counter====
+{{ja-pos|もと|counter}}
+
+# [[blades]] of grass and tree [[trunks]]
+# [[falcons]]
+
+====Noun====
+{{ja-noun|もと|count=個}}
+# the [[source]]
+# a [[root]]
+
+===Etymology 2===
+
+====Counter====
+{{ja-pos|ほん|counter}}
+
+# long [[cylindrical]] things such as glasses of drink, pairs of jeans, or [[trains]] and [[bus|buses]]
+# [[films]] or TV shows
+# [[home runs]] or [[goals]]
+# [[rounds]] of a match in [[boxing]], [[wrestling]] or [[judo]]
+
+====Noun====
+{{ja-noun|ほん|count=冊}}
+
+# a [[book]]
+# a [[script]]; a [[scenario]]
+
+[[Category:1000 Japanese basic words|ほん]]
+[[Category:ja:Falconry|もと]]
+[[Category:ja:Media|ほん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=본|eumhun=[[뿌리]] (ppuri)|rv=bon|mr=pon|y=pon}}
+
+# {{defn|lang=ko|sort=木01}}
+
+====Compounds====
+* [[本貫]] ([[본관]])
+* [[本錢]] ([[본전]])
 
 ----
 
