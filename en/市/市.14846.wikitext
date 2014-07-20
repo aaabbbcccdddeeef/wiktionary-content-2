@@ -18,77 +18,22 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[市]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=si5|y=si5}}
-
-# {{defn|lang=yue|sort=巾02}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=2|rs=巾02}}
-
-====Readings====
-* {{ja-readings
-|goon=[[じ]] (ji) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kanon=[[し]] (shi)
-|kun=[[いち]] (ichi)}}
-
-===Noun===
-{{ja-noun|k|hira=いち|rom=ichi}}
-
-# [[market]]
-
-{{ja-noun|k|hira=し|rom=shi}}
-
-# [[city]]
-
-====Compounds====
-* [[市営]] ([[しえい]], [[shiei]])
-* [[市外]] ([[しがい]], [[shigai]])
-* [[市街]] ([[しがい]], [[shigai]])
-* [[市場]] ([[いちば]], [[ichiba]] [[しじょう]], [[shijō]])
-* [[市井]]
-* [[市販]] ([[しはん]], [[shihan]])
-* [[市有]] ([[しゆう]], [[shiyū]])
-* [[市立]] ([[しりつ]], [[shiritsu]])
-* [[市松模様]] ([[いちまつもよう]], [[ichimatsumoyō]])
-* [[市長]] ([[しちょう]], [[shichō]]): [[mayor]]
-* [[市役所]] ([[しやくしょ]], [[shiyakusho]]): [[city hall]]
-
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 市]]
-[[Category:1000 Japanese basic words]]
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[시]]|eumhun=저자|rv=si|mr=si}}
-
-# {{defn|lang=ko|sort=巾02}}
-
-====Compounds====
-* [[平壤市]] ([[평양]])
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[shì]] ([[shi4]])|wg=shih<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=巾02}}
-
-====Pronunciation====
-* {{audio|zh-shì.ogg|audio|lang=cmn}}
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si5
+|mn=chhī
+|mc=y
+|oc=y
+|ma=zh-shì.ogg
+|cat=n
+}}
 
 ====Noun====
-{{cmn-noun|ts|pin=shì|pint=shi4}}
+{{zh-noun|ts}}
 
 # [[city]]
 # [[market]]
@@ -139,16 +84,56 @@
 * [[市制]]
 {{bottom}}
 
-[[Category:Mandarin entries with audio links]]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=巾02}}
+
+====Readings====
+* {{ja-readings
+|goon=[[じ]] (ji) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[し]] (shi)
+|kun=[[いち]] (ichi)}}
+
+===Noun===
+{{ja-noun|k|hira=いち|rom=ichi}}
+
+# [[market]]
+
+{{ja-noun|k|hira=し|rom=shi}}
+
+# [[city]]
+
+====Compounds====
+* [[市営]] ([[しえい]], [[shiei]])
+* [[市外]] ([[しがい]], [[shigai]])
+* [[市街]] ([[しがい]], [[shigai]])
+* [[市場]] ([[いちば]], [[ichiba]] [[しじょう]], [[shijō]])
+* [[市井]]
+* [[市販]] ([[しはん]], [[shihan]])
+* [[市有]] ([[しゆう]], [[shiyū]])
+* [[市立]] ([[しりつ]], [[shiritsu]])
+* [[市松模様]] ([[いちまつもよう]], [[ichimatsumoyō]])
+* [[市長]] ([[しちょう]], [[shichō]]): [[mayor]]
+* [[市役所]] ([[しやくしょ]], [[shiyakusho]]): [[city hall]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 市]]
+[[Category:1000 Japanese basic words]]
 
 ----
 
-==Min Nan==
+==Korean==
 
-===Hanzi===
-{{nan-hanzi|poj=chhī (chhi<sup>7</sup>)}}
+===Hanja===
+{{ko-hanja|hangeul=[[시]]|eumhun=저자|rv=si|mr=si}}
 
-# {{defn|lang=nan}}
+# {{defn|lang=ko|sort=巾02}}
+
+====Compounds====
+* [[平壤市]] ([[평양]])
 
 ----
 
