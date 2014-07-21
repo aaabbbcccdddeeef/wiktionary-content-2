@@ -17,12 +17,114 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|学|[[學]]}}
 
-===Hanzi===
-{{yue-hanzi|tra=學|jyut=hok6|y=hok6}}
+===Pronunciation===
+{{zh-pron
+|m=xué
+|c=hok6
+|mc=y
+|oc=y
+|ma=zh-xué.ogg
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=子05}}
+====Verb====
+{{zh-verb|s}}
+
+# to [[study]], to [[learn]]
+#* {{zh-usex|我 父母亲 希望 我 '''学''' 医，但是 我 不 愿意|My parents hoped I would '''study''' medicine, but I didn't want to.|link=y}}
+#* {{zh-usex|我 打算 学 摄影。|I plan to learn photography.|link=y}}
+# to [[imitate]]; to [[copy]]; to [[mimic]]
+#* {{zh-usex|我 妹妹 什么 都 '''学''' 我。|My little sister likes to '''copy''' everything I do.|link=y}}
+#* {{zh-usex|鹦鹉 '''学''' 人 语。|Parrots '''imitate''' human speech.|link=y}}
+
+====Synonyms====
+* {{zh-l|學習/学习}} to study, to learn
+* {{zh-l|讀書/读书}} to study
+* {{zh-l|唸書/念书}} (slang) to study
+
+====Suffix====
+{{zh-suf|s}}
+
+# [[science]]; [[-ology]]
+#* {{zh-usex|化学|chemistry|link=y}}
+#* {{zh-usex|生物学|biology|link=y}}
+
+=====Compounds=====
+{{rel-top4}}
+* [[学报]]
+* [[学步]]
+* [[学部邯郸]]
+* [[学部]]
+* [[学潮]]
+* [[学而不厌]]
+* [[学阀]]
+* [[学费]]
+* [[学分]]
+* [[学风]]
+* [[学府]]
+* [[学富五车]]
+* [[学好]]
+* [[学坏]]
+* [[学会]]
+* [[学级]]
+* [[学籍]]
+{{rel-mid4}}
+* [[学界]]
+* [[学究]]
+* [[学科]]
+* [[学理]]
+* [[学力]]
+* [[学历]]
+* [[学龄]]
+* [[学路]]
+* [[学名]]
+* [[学年]]
+* [[学派]]
+* [[学期]]
+* [[学前班]]
+* [[学前教育]]
+* [[学前期]]
+* [[学区]]
+* [[学舌]]
+{{rel-mid4}}
+* [[学生]]
+* [[学生会]]
+* [[学生气]]
+* [[学生腔]]
+* [[学生手册]]
+* [[学识]]
+* [[学时]]
+* [[学士]]
+* [[学术]]
+* [[学说]]
+* [[学堂]]
+* [[学童]]
+* [[学徒]]
+* [[学徒工]]
+* [[学位]]
+* [[学问]]
+* [[学无常师]]
+{{rel-mid4}}
+* [[学习]]
+* [[学系]]
+* [[学校]]
+* [[学兄]]
+* [[学养]]
+* [[学业]]
+* [[学以致用]]
+* [[学艺]]
+* [[学友]]
+* [[学员]]
+* [[学院]]
+* [[学杂费]]
+* [[学子]]
+* [[学长]]
+* [[学者]]
+* [[学制]]
+{{rel-bottom}}
 
 ----
 
@@ -129,116 +231,6 @@
 {{ko-hanja|hangeul=[[학]]|eumhun=배울|rv=hak|mr=hak}}
 
 # {{defn|lang=ko|sort=子05}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|tra=學|pin=[[xué]] ([[xue2]])|wg=hsüeh<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=子05}}
-
-====Pronunciation====
-* {{audio|zh-xué.ogg|audio|lang=cmn}}
-
-====Verb====
-{{cmn-verb|s|pin=xué|pint=xue2}}
-
-# to [[study]], to [[learn]]
-#* {{zh-usex|我 父母亲 希望 我 '''学''' 医，但是 我 不 愿意|My parents hoped I would '''study''' medicine, but I didn't want to.|link=y}}
-#* {{zh-usex|我 打算 学 摄影。|I plan to learn photography.|link=y}}
-# to [[imitate]]; to [[copy]]; to [[mimic]]
-#* {{zh-usex|我 妹妹 什么 都 '''学''' 我。|My little sister likes to '''copy''' everything I do.|link=y}}
-#* {{zh-usex|鹦鹉 '''学''' 人 语。|Parrots '''imitate''' human speech.|link=y}}
-
-====Synonyms====
-* {{zh-l|學習/学习}} to study, to learn
-* {{zh-l|讀書/读书}} to study
-* {{zh-l|唸書/念书}} (slang) to study
-
-====Suffix====
-{{cmn-suf|s|pin=xué|pint=xue2}}
-
-# [[science]]; [[-ology]]
-#* {{zh-usex|化学|chemistry|link=y}}
-#* {{zh-usex|生物学|biology|link=y}}
-
-=====Compounds=====
-{{rel-top4}}
-* [[学报]]
-* [[学步]]
-* [[学部邯郸]]
-* [[学部]]
-* [[学潮]]
-* [[学而不厌]]
-* [[学阀]]
-* [[学费]]
-* [[学分]]
-* [[学风]]
-* [[学府]]
-* [[学富五车]]
-* [[学好]]
-* [[学坏]]
-* [[学会]]
-* [[学级]]
-* [[学籍]]
-{{rel-mid4}}
-* [[学界]]
-* [[学究]]
-* [[学科]]
-* [[学理]]
-* [[学力]]
-* [[学历]]
-* [[学龄]]
-* [[学路]]
-* [[学名]]
-* [[学年]]
-* [[学派]]
-* [[学期]]
-* [[学前班]]
-* [[学前教育]]
-* [[学前期]]
-* [[学区]]
-* [[学舌]]
-{{rel-mid4}}
-* [[学生]]
-* [[学生会]]
-* [[学生气]]
-* [[学生腔]]
-* [[学生手册]]
-* [[学识]]
-* [[学时]]
-* [[学士]]
-* [[学术]]
-* [[学说]]
-* [[学堂]]
-* [[学童]]
-* [[学徒]]
-* [[学徒工]]
-* [[学位]]
-* [[学问]]
-* [[学无常师]]
-{{rel-mid4}}
-* [[学习]]
-* [[学系]]
-* [[学校]]
-* [[学兄]]
-* [[学养]]
-* [[学业]]
-* [[学以致用]]
-* [[学艺]]
-* [[学友]]
-* [[学员]]
-* [[学院]]
-* [[学杂费]]
-* [[学子]]
-* [[学长]]
-* [[学者]]
-* [[学制]]
-{{rel-bottom}}
-
-[[Category:Mandarin entries with audio links]]
 
 ----
 
