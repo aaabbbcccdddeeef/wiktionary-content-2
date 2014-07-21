@@ -20,56 +20,25 @@ Ancient forms: [[斆]], [[斅]]. The former is constructed from the skeleton of 
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|[[学]]|學}}
 
-===Hanzi===
-{{yue-hanzi|sim=学|jyut=hok6|y=hok6}}
-
-# {{defn|lang=yue|sort=子13}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=9|rs=子13|style=ky|shin=学}}
-
-# {{defn|lang=ja|sort=子13}}
-
-====Readings====
-* {{ja-readings
-|goon=[[がく]] (gaku)
-|kanon=[[がく]] (gaku)
-|kun=[[まなぶ]] (manabu)}}
-
-====Compounds====
-* {{l|ja|sc=Jpan|蘭學|tr=らんがく, rangaku}}
-* {{l|ja|sc=Jpan|學校|tr=がっこう, gakkō}}
-* {{l|ja|sc=Jpan|學生|tr=がくせい, gakusei}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=학|rv=hak|mr=hak|y=hak|eumhun=배우다|ehrv=bae-uda|ehmr=paeuda|ehy=pay.uta}}
-
-# [[learn]], take lessons, be taught, [[study]]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=学|pin=[[xué]] ([[xue2]])|wg=hsüeh<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=子05}}
-
-====Pronunciation====
-* {{audio|zh-xué.ogg|audio|lang=cmn}}
+===Pronunciation===
+{{zh-pron
+|m=xué
+|c=hok6
+|h=
+|mn=o̍h/ha̍k
+|mn_note=o̍h - vernacular, ha̍k - literary
+|w=
+|mc=y
+|oc=y
+|ma=zh-xué.ogg
+|cat=n
+}}
 
 ====Verb====
-{{cmn-verb|s|pin=xué|pint=xue2}}
+{{zh-verb|s}}
 
 # to [[study]], to [[learn]]
 #* {{zh-usex|我 父母親 希望 我 '''學''' 醫，但是 我 不 願意|My parents hoped I would '''study''' medicine, but I didn't want to.|link=y}}
@@ -84,7 +53,7 @@ Ancient forms: [[斆]], [[斅]]. The former is constructed from the skeleton of 
 * {{zh-l|唸書/念书|niànshū}} (slang) to study
 
 ====Suffix====
-{{cmn-suf|s|pin=xué|pint=xue2}}
+{{zh-suf|s}}
 
 # [[science]]; [[-ology]]
 #* {{zh-usex|化學|chemistry|link=y}}
@@ -166,12 +135,32 @@ Ancient forms: [[斆]], [[斅]]. The former is constructed from the skeleton of 
 
 ----
 
-==Min Nan==
+==Japanese==
 
-===Hanzi===
-{{nan-hanzi|poj=[[o̍h]] (oh<sup>8</sup>), [[ha̍k]] (hak<sup>8</sup>)}}
+===Kanji===
+{{ja-kanji|grade=9|rs=子13|style=ky|shin=学}}
 
-# {{defn|lang=nan|sort=子13}}
+# {{defn|lang=ja|sort=子13}}
+
+====Readings====
+* {{ja-readings
+|goon=[[がく]] (gaku)
+|kanon=[[がく]] (gaku)
+|kun=[[まなぶ]] (manabu)}}
+
+====Compounds====
+* {{l|ja|sc=Jpan|蘭學|tr=らんがく, rangaku}}
+* {{l|ja|sc=Jpan|學校|tr=がっこう, gakkō}}
+* {{l|ja|sc=Jpan|學生|tr=がくせい, gakusei}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=학|rv=hak|mr=hak|y=hak|eumhun=배우다|ehrv=bae-uda|ehmr=paeuda|ehy=pay.uta}}
+
+# [[learn]], take lessons, be taught, [[study]]
 
 ----
 
