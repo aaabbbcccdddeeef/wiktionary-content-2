@@ -1,21 +1,11 @@
-{{xsee|[[ニ]] (katakana)|[[貳]]|[[贰]]|[[弍]]}}<!-- may be replaced by zh-forms -->
+{{xsee|[[ニ]] (katakana)|[[貳]]|[[贰]]|[[弍]]}}
 ==Translingual==
-{{stroke order|type=bw|strokes=2}}
-{{stroke order|type=animate}}
-
-===Etymology===
-二 is simply two parallel lines (compare [[一]] and [[三]]) suggesting a continuous relationship.
-{{Han etyl}}
 
 ===Han character===
 {{Han char|rn=7|rad=二|as=00|sn=2|four=10100|canj=MM|ids=⿱一一}}
 
 ====References====
 * {{Han ref|kx=0086.010|dkj=00247|dj=0175.060|hdz=10002.010|uh=4E8C|ud=20108|bh=A447|bd=42055}}
-
-====See also====
-{{Chinese-numbers}}
-* {{qualifier|Chinese financial form}}: [[貳]] or [[贰]]
 
 [[Category:Chinese digits]]
 [[Category:Chinese numbers]]
@@ -24,10 +14,15 @@
 ----
 
 ==Chinese==
-{{zh-hanzi-box|[[二]]}}
+{{zh-hanzi-box|二}}
 
 ===Etymology===
+{{stroke order|type=bw|strokes=2}}
+{{stroke order|type=animate}}
 From {{etyl|sit-pro|zh}} {{m|sit-pro|*g/s-ni-s}}.
+
+Graphically: 二 is simply two parallel lines (compare [[一]] and [[三]]) suggesting a continuous relationship.
+{{Han etyl}}
 
 ===Pronunciation===
 {{zh-pron
@@ -39,126 +34,109 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*g/s-ni-s}}.
 |mc=y
 |oc=y
 |ma=Zh-èr.ogg
-|cat=num
+|cat=num,a
 }}
 
-===Numeral===
-{{zh-num}}
+===Definitions===
+{{zh-pos}}
 
 # [[two]]
-
-====Usage note====
-[[二]] is used in number. when counting thing with a measure word, {{zh-l|兩/两|liǎng}} is used.
-
-Examples with {{zh-l|二}}: {{zh-usex|二十|twenty|in_notes=yes}} {{zh-usex|第二|the second|in_notes=yes}}
-
-Examples with {{zh-l|兩/两|liǎng}}: {{zh-usex|兩 個 人|two people|link=yes|in_notes=yes}} {{zh-usex|兩 年|two years|link=yes|in_notes=yes}}
+#* {{zh-usex|子 曰：「君子 之 道，或 出 或 處{chǔ}，或 默 或 語，'''二''' 人 同 心，其 利 斷 金。同 心 之 言，其 臭{xiù} 如 蘭。」|The Master said, on this, "The ways of good men (different seem). This in a public office toils; that in his home the time beguiles. One man his lips with silence seals; another all his mind reveals. But when '''two''' men are one in heart, not iron bolts keep them apart; the words they in their union use, fragrance like orchid plants diffuse."|CL|ref=Yijing|link=yes}}
+# [[second]]
+#* {{zh-usex|子 ^墨子 曰：國 有 七 患。七 患 者 何？城郭 溝池 不 可 守 而 治 宮室，一 患 也。邊國 至 境 四鄰 莫 救，'''二''' 患 也。|Mozi said: There are seven causes of worry to a state and they are: (1) When the outer and the inner city walls are not defensible; '''(2)''' When an enemy state is approaching and yet one's neighbours do not come to the rescue.|CL|ref=Mozi|link=yes}}
+# {{†}} [[secondary]], [[vice-]]
+# {{†}} [[again]], [[once]] more
+# {{†}} two-fold, [[double]]
+# {{†}} [[fold]], [[times]]
+# {{†}} [[different]]; [[other]], [[else]]
+#* {{zh-l|二意}}
+#* {{zh-l|二心}}
+# {{n-g|Short for "[[twenty]], two hundred or two thousand" after hundreds, thousands and ten thousands.}}
+#* {{zh-usex|買 電腦 花 了 一 千 '''二'''。|Buying the computer cost me a hundred and '''two hundred''' bucks.|link=y}}
+# {{n-g|Short for "[[twenty]] [[cents]]".}}
+#* {{zh-usex|黃瓜 一 塊 '''二''' 一 斤。|The cucumbers are one dollar '''twenty''' per half kilogram.|link=y}}
+# {{cx|Northeast Mandarin|neologism|lang=zh}} [[stupid]], [[dumb]]; [[silly]], [[thick]], lacking mental agility (often in a cute way)
+#* {{zh-usex|你 這 人 怎麼 這麼 '''二'''！|Why are you so '''incorrigibly stupid'''!|link=y}}
 
 ====Synonyms====
-* {{zh-l|兩/两|liǎng}} two
-* Banker's numerals : [[貳]] ([[贰]]), [[弍]]
+* {{zh-l|兩/两|liǎng|two (''used in counting'')}}
+* {{zh-l|貳/贰/弍|two (''Banker's numerals'')}}
 
 ====See also====
 {{Chinese-numbers}}
 
 ====Compounds====
-{{der-top}}
-{{top4}}
-* [[二八]]
-* [[二把刀]]
-* [[二把手]]
-* [[二百五]]
-* [[二倍体]]
-* [[二部合唱]]
-* [[二重唱]]
-* [[二重性]]
-* [[二重奏]]
-* [[二传手]]
-* [[二次方程]]
-* [[二次函数]]
-* [[二次能源]]
-* [[二次曲面]]
-* [[二次曲线]]
-* [[二道贩子]]
-* [[二等公民]]
-{{mid4}}
-* [[二恶英]]
-* [[二房]]
-* [[儿房东]]
-* [[二伏]]
-* [[二副]]
-* [[二杆子]]
-* [[二管轮]]
-* [[二锅头]]
-* [[二胡]]
-* [[二虎相争，必有一伤]]
-* [[二乎]], [[二忽]]
-* [[二花脸]]
-* [[二话]]
-* [[二黄]], [[二簧]]
-{{mid4}}
-* [[二婚]], [[二婚儿]], [[二婚头]]
-* [[儿混子]]
-* [[二极管]]
-* [[二价]]
-* [[二进宫]]
-* [[二进制]]
-* [[二赖子]]
-* [[二郎腿]]
-* [[二愣子]]
-* [[二流]]
-* [[二流子]]
-* [[二硫化碳]]
-* [[二门]], [[二门儿]]
-* [[二拇指]]
-* [[二皮脸]]
-* [[二十八星瓢虫]]
-* [[二十八宿]]
-* [[二十四节气]]
-* [[二手]], [[二手儿]]
-{{mid4}}
-* [[二手货]]
-* [[二水]], [[二水儿]]
-* [[二踢脚]]
-* [[二五眼]]
-* [[二弦]]
-* [[二线]]
-* [[二心]]
-* [[二氧化氮]]
-* [[二氧化硅]]
-* [[二氧化硫]]
-* [[二氧化碳]]
-* [[二氧化物]]
-* [[二一添作五]]
-* [[二尾子]]
-* [[二意]]
-* [[二者]]
-* [[二指]]
-{{bottom}}
-{{der-bottom}}
+{{der5
+| {{zh-l|二八}}
+| {{zh-l|二把刀}}
+| {{zh-l|二把手}}
+| {{zh-l|二百五}}
+| {{zh-l|二倍体}}
+| {{zh-l|二部合唱}}
+| {{zh-l|二重唱}}
+| {{zh-l|二重性}}
+| {{zh-l|二重奏}}
+| {{zh-l|二传手}}
+| {{zh-l|二次方程}}
+| {{zh-l|二次函数}}
+| {{zh-l|二次能源}}
+| {{zh-l|二次曲面}}
+| {{zh-l|二次曲线}}
+| {{zh-l|二道贩子}}
+| {{zh-l|二等公民}}
+| {{zh-l|二恶英}}
+| {{zh-l|二房}}
+| {{zh-l|二房东}}
+| {{zh-l|二伏}}
+| {{zh-l|二副}}
+| {{zh-l|二杆子}}
+| {{zh-l|二管轮}}
+| {{zh-l|二锅头}}
+| {{zh-l|二胡}}
+| {{zh-l|二虎相争，必有一伤}}
+| {{zh-l|二乎}}, {{zh-l|二忽}}
+| {{zh-l|二花脸}}
+| {{zh-l|二话}}
+| {{zh-l|二黄}}, {{zh-l|二簧}}
+| {{zh-l|二婚}}, {{zh-l|二婚儿}}, {{zh-l|二婚头}}
+| {{zh-l|二混子}}
+| {{zh-l|二极管}}
+| {{zh-l|二价}}
+| {{zh-l|二进宫}}
+| {{zh-l|二进制}}
+| {{zh-l|二赖子}}
+| {{zh-l|二郎腿}}
+| {{zh-l|二愣子}}
+| {{zh-l|二流}}
+| {{zh-l|二流子}}
+| {{zh-l|二硫化碳}}
+| {{zh-l|二门}}, {{zh-l|二门儿}}
+| {{zh-l|二拇指}}
+| {{zh-l|二皮脸}}
+| {{zh-l|二十八星瓢虫}}
+| {{zh-l|二十八宿}}
+| {{zh-l|二十四节气}}
+| {{zh-l|二手}}, {{zh-l|二手儿}}
+| {{zh-l|二手货}}
+| {{zh-l|二水}}, {{zh-l|二水儿}}
+| {{zh-l|二踢脚}}
+| {{zh-l|二五眼}}
+| {{zh-l|二弦}}
+| {{zh-l|二线}}
+| {{zh-l|二心}}
+| {{zh-l|二氧化氮}}
+| {{zh-l|二氧化硅}}
+| {{zh-l|二氧化硫}}
+| {{zh-l|二氧化碳}}
+| {{zh-l|二氧化物}}
+| {{zh-l|二一添作五}}
+| {{zh-l|二尾子}}
+| {{zh-l|二意}}
+| {{zh-l|二者}}
+| {{zh-l|二指}}
+}}
 
-===Adjective===
-{{zh-adj}}
-
-# {{label|zh|Northeast Mandarin|sort=er2}} [[stupid]], [[dumb]]
-# {{context|neologism|non-offensive|lang=zh}} [[silly]], [[thick]], lacking mental agility (often in a cute way)
-
-===References===
-* {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=二
-| title = 二
-| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-| language = Mandarin/English
-| accessdate = 2014-03-21}}
-* {{cite web
-| url = http://resources.allsetlearning.com/chinese/grammar/%22Er%22_and_%22liang%22
-| title =  "Er" and "liang"
-| work = Chinese Grammar Wiki
-| language = Mandarin/English
-| accessdate = 2014-03-21}}
-
-[[Category:Beginning Mandarin|er2]]
-[[Category:zh:Cardinal numbers|er2]]
+{{zh-cat|Beginning|Cardinal numbers}}
 
 ----
 
