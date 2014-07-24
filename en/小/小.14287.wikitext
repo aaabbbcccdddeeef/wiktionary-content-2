@@ -1,21 +1,7 @@
-{{also|尛}}
 ==Translingual==
-{{stroke order|strokes=3}}
-{{stroke order|type=animate}}
-
-===Etymology===
-{{Han etyl}}
-{{liushu|i}}: 小 shows a person ([[人]]) with lowered arms, implying the meaning of ''[[small]]''. In contrast, [[大]] (the character for ''[[large]]''), symbolizes a person ([[人]]) with arms outstretched.
-
-{{liushu|i}}: Something divided in into smaller part [[八]] by a knife [[亅]].
-
-In [[w:Oracle bone script|Oracle bone script]] form, picture of three sand granules. compare with [[少]], represented by four dot in its oracle bone script form.
 
 ===Han character===
 {{Han char|rn=42|rad=小|as=00|sn=3|four=9000<sub>0</sub>|canj=弓金 (NC)|ids=⿻[[亅]][[八]]}}
-
-# [[small]], [[little]], [[young]], [[tiny]], [[insignificant]]
-#* '''Antonym''': [[大]]
 
 ====Derived terms====
 * [[尛]]
@@ -28,6 +14,20 @@ In [[w:Oracle bone script|Oracle bone script]] form, picture of three sand granu
 ==Chinese==
 {{zh-hanzi-box|[[小]]}}
 
+===Etymology===
+{{stroke order|strokes=3}}
+{{stroke order|type=animate}}
+
+{{unk.|lang=zh}}. Possibly related to {{zh-l|少|few, little; young}}.
+
+Graphically: {{liushu|i}}. Two interpretations are possible:
+# 小 shows a person ([[人]]) with lowered arms, implying the meaning of ''[[small]]''. In contrast, [[大]] (the character for ''[[large]]''), symbolizes a person ([[人]]) with arms outstretched.
+# Something divided in into smaller part [[八]] by a knife [[亅]].
+
+{{Han etyl}}
+
+In [[w:Oracle bone script|Oracle bone script]] form, picture of three sand granules. compare with [[少]], represented by four dot in its oracle bone script form.
+
 ===Pronunciation===
 {{zh-pron
 |m=xiǎo
@@ -35,43 +35,43 @@ In [[w:Oracle bone script|Oracle bone script]] form, picture of three sand granu
 |h=pfs=síau
 |mn=sió/siáu
 |mn_note=sió - vernacular, siáu - literary
-|w=
+|w=2xiau
 |mc=y
-|oc=
+|oc=y
 |ma=zh-xiǎo.ogg
 |cat=a}}
 
-====Adjective====
-{{zh-adj|ts|pin=xiǎo|pint=xiao3}}
+===Definitions===
+{{zh-adj}}
 
-# [[small]], [[tiny]], [[little]], [[short]]
+# [[small]], [[tiny]], [[little]]
+#* {{zh-l|小孩}}
 # [[minor]], [[petty]]
+# [[briefly]], for a short while
+#* {{zh-l|小憩}}
+# [[slightly]], [[a little]]
 # [[young]]
-#: {{zh-usex|這 嬰兒 太 '''小''' 了，不 能 自己 吃 東西。|The baby is too '''young''' to feed itself.|link=y}}
+#* {{zh-l|小狗|[[puppy]]}}
+#* {{zh-l|小貓/小猫|[[kitten]]}}
+#* {{zh-l|小羊|[[lamb]]}}
+#* {{zh-usex|這 嬰兒 太 '''小''' 了，不 能 自己 吃 東西。|The baby is too '''young''' to feed itself.|link=y}}
+# (the) [[youngest]]
+#* {{zh-l|小兒子/小儿子}}
+# a young person; [[child]], [[kid]], [[baby]]
+#* {{zh-l|一家老小}}
+# {{n-g|Prefix used in front of family name to indicate informality or affection (for young people, {{zh-l|老}} for elder people).}}
+#* Someone called {{lang|zh|李國寶／李国宝}} can be called {{lang|zh|小李}}.
+# {{cx|humble|lang=zh}} [[my]], [[our]]
+#* {{zh-l|小弟}}
+#* {{zh-l|小女}}
+#* {{zh-l|小的}}
 
 =====Antonym=====
-* {{zh-l|大}} big, tall, major
+* {{zh-l|大|big, tall, major}}
+* {{zh-l|老|old; informal prefix for older people}}
 
-====Prefix====
-{{zh-pref|ts|pin=xiǎo|pint=xiao3}}
-# {{n-g|prefix used in front of family name to indicate informality or affection (for young people, {{zh-l|老}} for elder people )}}
-#: Someone called 李国宝 can be called 小李
-# {{n-g|prefix used in front of animals to indicate the young}}
-#: {{zh-usex|小狗|[[puppy]]|link=y}}
-#: {{zh-usex|小貓|[[kitten]]|link=y}}
-#: {{zh-usex|小羊|[[lamb]]|link=y}}
-
-=====Synonyms=====
-* {{zh-l|老}} informal prefix for older people
-
-=====Compounds=====
-{{top2}}
-* [[小S]]
-{{mid2}}
-{{bottom}}
-
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=203&curpage=1&sample=%E5%B0%8F&radiobutton=1&querytarget=1&limit=20&pagenum=4&rowcount=68 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+===Descendants===
+{{Sinoxenic-word|小|しょう|소|tiểu}}
 
 ----
 
@@ -220,15 +220,6 @@ In [[w:Oracle bone script|Oracle bone script]] form, picture of three sand granu
 {{ko-hanja|hangeul=소|rv=so|mr=so|y=so|eumhun=작다|ehrv=jakda|ehmr=chakta|ehy=cakta}}
 
 # {{defn|lang=ko|sort=小00}}
-
-----
-
-==Middle Chinese==
-
-===Han character===
-'''小''' (*siɛ̌u)<!--asterisk signifies that this is a reconstructed pronunciation-->
-
-# {{defn|lang=ltc|sort=小00}}
 
 ----
 
