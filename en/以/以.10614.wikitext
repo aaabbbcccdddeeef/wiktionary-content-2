@@ -26,95 +26,36 @@ Originally [[厶]], a deformed version of [[已]]. 以 is a further deformation 
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[ji5]], [[jyu5]]|y=yi5, yu5}}
-
-# {{defn|lang=yue|sort=人03}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[yi]] (yi<sup>1</sup>)|gd=j<sup>1</sup> [Meixian], zi<sup>1</sup>, zi<sup>5</sup> [Hailu], ji<sup>1</sup>, ji<sup>5</sup> [Siyan], ji<sup>1</sup> [Bao'an, Hong Kong, Kwangtung], ji<sup>3</sup> [Dongguan]|hpy=yi1}}
-
-# {{defn|lang=hak|sort=人03}}
-
-====References====
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E4%BB%A5 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=56567&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=4|rs=人03}}
-
-# {{defn|lang=ja|sort=人03}}
-
-====Readings====
-* {{ja-readings|on=[[い]] ([[i]])|kun=[[おもう]] ([[omou]]), [[ゆえに]] ([[yueni]]), [[もって]] ([[以って]], [[motte]])}}
-
-====Compounds====
-{{top4}}
-* [[以遠]]
-* [[以往]]
-* [[以下]]
-* [[以外]]
-{{mid4}}
-* [[以後]]
-* [[以降]]
-* [[以上]]
-* [[以心伝心]]
-{{mid4}}
-* [[以西]]
-* [[以前]]
-* [[以東]]
-* [[以毒制毒]]
-{{mid4}}
-* [[以内]]
-* [[以南]]
-* [[以北]]
-* [[以来]]
-{{bottom}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=이|rv=i|mr=i}}
-
-# {{defn|lang=ko|sort=人03}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[以]]}}
 
 ===Pronunciation===
-* {{audio|Zh-yi.ogg|Audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yǐ]] ([[yi3]]), [[zhǎng]] ([[zhang3]])|wg=[[i3|i<sup>3</sup>]], [[chang3|chang<sup>3</sup>]]}}
-
-===Proper noun===
-{{cmn-proper noun|ts|pin=Yǐ|pint=Yi3}}
-
-# {{abbreviation of|以色列|lang=cmn}}
+{{zh-pron
+|m=yǐ,zhǎng
+|c=ji5,jyu5
+|h=pfs=yi;hpy=yi1
+|mn=
+|w=
+|mc=y
+|oc=y
+|ma=Zh-yi.ogg
+|cat=adv,v,ph,pn
+}}
 
 ===Adverb===
-{{cmn-adv|ts|pin=yǐ|pint=yi3}}
+{{zh-adv|ts}}
 
 # [[according to]]; [[so as to]]; [[in order to]]; [[by]]; [[with]]; [[because]]
 
 ===Verb===
-{{cmn-verb|ts|pin=yǐ|pint=yi3}}
+{{zh-verb|ts}}
 
 # to [[use]]
+
+===Proper noun===
+{{zh-proper noun|ts}}
+
+# {{abbreviation of|以色列|lang=cmn}}
 
 ====Compounds====
 {{rfv|lang=cmn|are all of these compounds really of the verb sense specifically? or should they be moved to the character section?}}
@@ -175,6 +116,54 @@ Originally [[厶]], a deformed version of [[已]]. 以 is a further deformation 
 * [[以眼还眼，以牙还牙]]
 * [[以子之矛，攻子之盾]]
 {{attention|cmn}}
+
+====References====
+*(''Hakka'') [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=56567&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+*(''Hakka'') Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人03}}
+
+# {{defn|lang=ja|sort=人03}}
+
+====Readings====
+* {{ja-readings|on=[[い]] ([[i]])|kun=[[おもう]] ([[omou]]), [[ゆえに]] ([[yueni]]), [[もって]] ([[以って]], [[motte]])}}
+
+====Compounds====
+{{top4}}
+* [[以遠]]
+* [[以往]]
+* [[以下]]
+* [[以外]]
+{{mid4}}
+* [[以後]]
+* [[以降]]
+* [[以上]]
+* [[以心伝心]]
+{{mid4}}
+* [[以西]]
+* [[以前]]
+* [[以東]]
+* [[以毒制毒]]
+{{mid4}}
+* [[以内]]
+* [[以南]]
+* [[以北]]
+* [[以来]]
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|rv=i|mr=i}}
+
+# {{defn|lang=ko|sort=人03}}
 
 ----
 
