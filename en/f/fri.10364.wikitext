@@ -1,7 +1,7 @@
 ==Breton==
 
 ===Etymology===
-Cognate with Cornish {{term|frig||nostril|lang=kw}}; perhaps related to {{etyl|cel-pro|br}} {{m|cel-pro|*srognā}} (compare Welsh {{term|ffroen||nostril|lang=cy}}, Old Irish {{term|srón||nose|lang=sga}}).
+Cognate with Cornish {{m|kw|frig||nostril}}; perhaps related to {{etyl|cel-pro|br}} {{m|cel-pro|*srognā}} (compare Welsh {{m|cy|ffroen||nostril}}, Old Irish {{m|sga|srón||nose}}).
 
 ===Pronunciation===
 * {{IPA|/ˈfriː/|lang=br}}
@@ -19,7 +19,7 @@ Cognate with Cornish {{term|frig||nostril|lang=kw}}; perhaps related to {{etyl|c
 * {{IPA|/friː/|[fʁiːˀ]|lang=da}}
 
 ===Etymology 1===
-From {{etyl|gml|da}} {{term|vrīen||to marry|lang=gml}}.
+From {{etyl|gml|da}} {{m|gml|vrīen||to marry}}.
 
 ====Verb====
 {{head|da|verb|imperative|fri|present|frier|or|frir|past|friede|past participle|friet}}
@@ -27,11 +27,11 @@ From {{etyl|gml|da}} {{term|vrīen||to marry|lang=gml}}.
 # [[propose]] {{gloss|to ask for one's hand in marriage}}
 
 =====Derived terms=====
-* [[frier]] ("[[suitor]]")
-* [[frieri]] ("[[proposal]] of marriage")
+* {{l|da|frier||suitor}}
+* {{l|da|frieri||proposal}}
 
 ===Etymology 2===
-From {{etyl|gml|da}} {{term|vrī|lang=gml}}.
+From {{etyl|gml|da}} {{m|gml|vrī}}.
 
 ====Adjective====
 {{head|da|adjective|neuter|frit|definite and plural|frie|comparative|friere|superlative|friest}}
@@ -41,10 +41,10 @@ From {{etyl|gml|da}} {{term|vrī|lang=gml}}.
 # [[available]]
 
 =====Derived terms=====
-* [[ufri]] ("[[constrained]]", "[[inhibited]]", "not free")
+* {{l|da|ufri||constrained, inhibited, not free}}
 
 ===Etymology 3===
-From {{etyl|gml|da}} {{term|vrīen||to free|lang=gml}}.
+From {{etyl|gml|da}} {{m|gml|vrīen||to free}}.
 
 ====Verb====
 {{head|da|verb|imperative|fri|present|frier|or|frir|past|friede|past participle|friet}}
@@ -65,7 +65,7 @@ From {{etyl|gml|da}} {{term|vrīen||to free|lang=gml}}.
 ==Norwegian==
 
 ===Etymology===
-From {{etyl|gml|no}} {{term|vrī|lang=gml}}. Cognates inlcude Danish {{term|fri|lang=da}}, Swedish {{term|fri|lang=sv}}, German {{term|frei|lang=de}}, Dutch {{term|vrei|lang=nl}}, English {{term|free|lang=en}}, and Gothic {{term|𐍆𐍂𐌴𐌹𐍃|tr=freis|lang=got}}
+From {{etyl|gml|no}} {{m|gml|vrī}}. Cognates inlcude Danish {{m|da|fri}}, Swedish {{m|sv|fri}}, German {{m|de|frei}}, Dutch {{m|nl|vrei}}, English {{m|en|free}}, and Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}
 
 ===Pronunciation===
 * {{IPA|/fɾiː/|lang=no}}
@@ -73,42 +73,43 @@ From {{etyl|gml|no}} {{term|vrī|lang=gml}}. Cognates inlcude Danish {{term|fri|
 ===Adjective===
 {{head|no|adjective}}
 
-# [[free]], not [[imprisoned]] or [[enslaved]]: ''en fri [[mann]]''
-# [[free]], not [[blocked]]: ''fri [[ferdsel]].''
-# [[without]], e.g. ''[[bly]]fri''
-# [[free]], no [[payment]] necessary: ''fri [[inngang]]''
+# [[free]], not [[imprisoned]] or [[enslaved]]
+#: {{ux|no|en '''fri''' mann|a free man|inline=1}}
+# [[free]], not [[blocked]]
+#: {{ux|no|'''fri''' ferdsel|free traffic|inline=1}}
+<!--# [[without]], e.g. ''[[bly]]fri'' <<< This should be at [[-fri]], just like English [[-free]]-->
+# [[free]], no [[payment]] necessary
+#: {{ux|no|'''fri''' inngang|free admission|inline=1}}
 
 ====Inflection====
 {{no-adj-infl|nb-class=7|nn-class=7}}
 
 ====Derived terms====
-* [[frispark]]
-* [[luktfri]]
-* [[snøfri]]
+* {{l|no|frispark}}
+* {{l|no|luktfri}}
+* {{l|no|snøfri}}
 
 ----
 
 ==Old Frisian==
 
 ===Etymology===
-From {{etyl|gem-pro|ofs}} {{m|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{term|frī|lang=osx}}, Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|ofs}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
+From {{etyl|gem-pro|ofs}} {{m|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{m|osx|frī}}, Old English {{m|ang|frēo}}. Ultimately from {{etyl|ine-pro|ofs}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
 
 ===Adjective===
-'''fri'''
+{{head|ofs|adjective}}
 
 # [[free]]
 
 ====Descendants====
 * West Frisian: {{l|fy|frij}}
 
-[[Category:Old Frisian adjectives]]
-
 ----
 
 ==Old High German==
 
 ===Etymology===
-From {{etyl|gem-pro|goh}} {{m|gem-pro|*frijaz}}, whence also Old Saxon {{term|frī|lang=osx}}, Old English ''[[freo|frēo]]'', Gothic {{term|𐍆𐍂𐌴𐌹𐍃|tr=freis|lang=got}}. Ultimately from {{etyl|ine-pro|goh}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
+From {{etyl|gem-pro|goh}} {{m|gem-pro|*frijaz}}, whence also Old Saxon {{m|osx|frī}}, Old English {{m|ang|frēo}}, Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}. Ultimately from {{etyl|ine-pro|goh}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
 
 ===Adjective===
 {{head|goh|adjective|head=frī}}
@@ -123,14 +124,14 @@ From {{etyl|gem-pro|goh}} {{m|gem-pro|*frijaz}}, whence also Old Saxon {{term|fr
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*writ-}} (compare Welsh {{term|wrth|lang=cy}}), from {{etyl|ine-pro|sga}} {{m|ine-pro|*wert-||to turn}} (compare Latin {{term|versus||against|lang=la}}).
+From {{etyl|cel-pro|sga}} {{m|cel-pro|*writ-}} (compare Welsh {{m|cy|wrth}}), from {{etyl|ine-pro|sga}} {{m|ine-pro|*wert-||to turn}} (compare Latin {{m|la|versus||against}}).
 
 ===Preposition===
 {{head|sga|preposition}}
 
 # [[towards]], [[to]]
 #* {{RQ:sga-gloss|Wb|16|d|8}}
-#*: Bíuu-sa oc irbáig dar far cenn-si '''fri''' Maccidóndu.
+#*: {{lang|sga|Bíuu-sa oc irbáig dar far cenn-si '''fri''' Maccidóndu.}}
 #*:: I am boasting about you to the Macedonians.
 # [[against]]
 # [[with]]
@@ -143,17 +144,17 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*writ-}} (compare Welsh {{term|wrth|lang=c
 ! bgcolor="#FFFFE0" | Plural
 |-
 | bgcolor="#F4F4F4" | '''1st person'''
-| [[frimm]] || [[frinn]]
+| {{l|sga|frimm}} || {{l|sga|frinn}}
 |-
 | bgcolor="#F4F4F4" | '''2d person'''
-| [[frit]] || [[frib]]
+| {{l|sga|frit}} || {{l|sga|frib}}
 |-
 | bgcolor="#F4F4F4" | '''3d masc.'''
-| [[fris]]
-| rowspan=2 | [[friu]]
+| {{l|sga|fris}}
+| rowspan=2 | {{l|sga|friu}}
 |-
 | bgcolor="#F4F4F4" | '''3d fem.'''
-| [[frie]]
+| {{l|sga|frie}}
 |}
 
 ----
@@ -161,7 +162,7 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*writ-}} (compare Welsh {{term|wrth|lang=c
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{m|gem-pro|*frijaz}}, whence also Old English ''[[freo|frēo]]''. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}. 
+From {{etyl|gem-pro|osx}} {{m|gem-pro|*frijaz}}, whence also Old English {{m|ang|frēo}}. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}. 
 
 ===Adjective===
 {{osx-adj|head=frī|frīoro|frīost}}
@@ -186,16 +187,16 @@ From {{etyl|gem-pro|osx}} {{m|gem-pro|*frijaz}}, whence also Old English ''[[fre
 # {{context|South Scots|lang=sco}} [[from]]
 
 ===See also===
-* [[frae]]
-* [[thrae]]
-* [[thri]]
+* {{l|sco|frae}}
+* {{l|sco|thrae}}
+* {{l|sco|thri}}
 
 ----
 
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gml|sv}} {{term|vri|lang=gml}}, from {{etyl|osx|sv}} {{term|frī|lang=osx}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*frijaz}}.
+From {{etyl|gml|sv}} {{m|gml|vri}}, from {{etyl|osx|sv}} {{m|osx|frī}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*frijaz}}.
 
 ===Pronunciation===
 * {{audio|Sv-fri.ogg|audio|lang=sv}}
@@ -205,81 +206,70 @@ From {{etyl|gml|sv}} {{term|vri|lang=gml}}, from {{etyl|osx|sv}} {{term|frī|lan
 
 # [[free]], unconstrained
 # [[free]], not imprisoned, released
-#: '''''fri''' mot borgen''
-#:: released on bail
+#: {{ux|sv|'''fri''' mot borgen|released on bail|inline=1}}
 # [[free]], without obligations
-#: ''Du är fri att göra som du vill.'' - You are free to do as you please.
+#: {{ux|sv|Du är '''fri''' att göra som du vill.|You are free to do as you please.}}
 # [[free]] of charge, [[gratis]]
-# [[free]] from, without; devoid of, does not contain. ([[blyfri]])
+<!--# [[free]] from, without; devoid of, does not contain. ([[blyfri]]) <<< This should be at [[-fri]], just like English [[-free]]-->
 
 ====Declension====
 {{sv-adj-reg|n=fritt}}
 
-====Related terms====
-{|
-|- valign=top
-|
-* [[alkolholfri]]
-* [[alliansfri]]
-* [[avgiftsfri]]
-* [[bombfri]]
-* [[felfri]]
-* [[fria]]
-* [[frige]]
-* [[frigöra]]
-|
-* [[frihamn]]
-* [[frihandel]]
-* [[friherre]]
-* [[friherrinna]]
-* [[frihet]]
-* [[friidrott]]
-* [[frikänna]]
-* [[frikår]]
-|
-* [[frikostig]]
-* [[frikyrka]]
-* [[frilägga]]
-* [[friland]]
-* [[frilans]]
-* [[friliggande]]
-* [[friluftsliv]]
-* [[frimärke]]
-|
-* [[frimurare]]
-* [[fripassagerare]]
-* [[frisim]]
-* [[frisinnad]]
-* [[frisinne]]
-* [[friskola]]
-* [[frisläppa]]
-|
-* [[frispark]]
-* [[fristad]]
-* [[fristat]]
-* [[fristående]]
-* [[fristil]]
-* [[frita]]
-* [[fritid]]
-* [[fritt#Adverb|fritt]]
-|
-* [[frivillig]]
-* [[frostfri]]
-* [[isfri]]
-* [[kostnadsfri]]
-* [[momsfri]]
-* [[mötesfri]]
-* [[ofri]]
-* [[problemfri]]
-|
-* [[receptfri]]
-* [[reklamfri]]
-* [[rostfri]]
-* [[skattefri]]
-* [[valfri]]
-|}
-
-<!-- 2 parts of speech in one heading --><!--- which language does this refer to? --->
+====Derived terms====
+{{der3
+|{{l|sv|alkolholfri}}
+|{{l|sv|alliansfri}}
+|{{l|sv|avgiftsfri}}
+|{{l|sv|bombfri}}
+|{{l|sv|felfri}}
+|{{l|sv|fria}}
+|{{l|sv|frige}}
+|{{l|sv|frigöra}}
+|{{l|sv|frihamn}}
+|{{l|sv|frihandel}}
+|{{l|sv|friherre}}
+|{{l|sv|friherrinna}}
+|{{l|sv|frihet}}
+|{{l|sv|friidrott}}
+|{{l|sv|frikänna}}
+|{{l|sv|frikår}}
+|{{l|sv|frikostig}}
+|{{l|sv|frikyrka}}
+|{{l|sv|frilägga}}
+|{{l|sv|friland}}
+|{{l|sv|frilans}}
+|{{l|sv|friliggande}}
+|{{l|sv|friluftsliv}}
+|{{l|sv|frimärke}}
+|{{l|sv|frimurare}}
+|{{l|sv|fripassagerare}}
+|{{l|sv|frisim}}
+|{{l|sv|frisinnad}}
+|{{l|sv|frisinne}}
+|{{l|sv|friskola}}
+|{{l|sv|frisläppa}}
+|{{l|sv|frispark}}
+|{{l|sv|fristad}}
+|{{l|sv|fristat}}
+|{{l|sv|fristående}}
+|{{l|sv|fristil}}
+|{{l|sv|frita}}
+|{{l|sv|fritid}}
+|{{l|sv|fritt}}
+|{{l|sv|frivillig}}
+|{{l|sv|frostfri}}
+|{{l|sv|isfri}}
+|{{l|sv|kostnadsfri}}
+|{{l|sv|momsfri}}
+|{{l|sv|mötesfri}}
+|{{l|sv|ofri}}
+|{{l|sv|problemfri}}
+|{{l|sv|receptfri}}
+|{{l|sv|reklamfri}}
+|{{l|sv|rostfri}}
+|{{l|sv|skattefri}}
+|{{l|sv|valfri}}
+}}
 
 [[br:fri]]
 [[da:fri]]
