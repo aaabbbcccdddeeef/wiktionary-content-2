@@ -16,88 +16,40 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[soeng1]]|y=seung1|tra=雙}}
-
-# {{defn|lang=yue|sort=又02}}
-
-----
-
-==Japanese==
-
-===Noun===
-{{ja-noun|k|hira=ふた|rom=futa}}
-
-# [[set]] of [[two]], [[pair]]
-
-===Kanji===
-{{ja-kanji|grade=c|rs=又02}}
-
-# {{defn|lang=ja|sort=又02}}
-
-====Readings====
-* {{ja-readings|on=[[そう]] (''sō'')|kun=[[ふた]] (''futa''), [[ふたつ]] (''futatsu''), [[たぐい]] (''tagui''), [[ならぶ]] (''narabu'')|nanori=[[なみ]] (''nami''), [[ふ]] (''fu''), [[もろ]] (''moro'')}}
-
-====Compounds====
-{{top2}}
-* [[双子]] (''futago''): twins, a twin
-* [[双方]] (''sōhō''): two way, both parties
-* [[双葉]] (''futaba''): bud, sprout
-* [[双肩]] (''sōken''): shoulders
-* [[双頭]] (''sōtō''): double-headed
-* [[双璧]] (''sōheki''): pair of bright jewels
-{{mid2}}
-* [[双六]] (''sugoroku''): a child's dice game
-* [[双眼鏡]] (''sōgankyō''): binoculars, field glasses
-* [[双生児]] (''sōseiji''): twins
-* [[双子葉植物]] (''sōshiyō shokubutsu''): dicotyledon
-* [[一双]] (''issō''): pair
-{{bottom}}
-
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 双]]
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=쌍|rv=ssang|mr=ssang|y=ssang}}
-
-# {{defn|lang=ko|sort=又02}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|双|[[雙]]}}
 
 ===Pronunciation===
-* {{audio|zh-shuāng.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|tra=雙|pin=[[shuāng]] ([[shuang1]])|wg=shuang<sup>1</sup>}}
+{{zh-pron
+|m=shuāng
+|c=soeng1
+|mc=y
+|oc=y
+|ma=zh-shuāng.ogg
+|cat=n,cls,a,pn
+}}
 
 ===Classifier===
-{{cmn-cls|s|pin=shuāng|tra=雙|sim=双}}
+{{zh-cls|s}}
 
 # a [[pair]] of
 #: {{zh-usex|一 双 鞋|a pair of shoes|link=y}}
 
 ===Adjective===
-{{cmn-adj|s|pin=shuāng|tra=雙|sim=双}}
+{{zh-adj|s}}
 
 # [[two-]]; [[double]]; [[twin]]
 #: {{zh-usex|双面|double-sided, two-faced|link=y}} 
 #: {{zh-usex|双向|bidirectional, two-way|link=y}} 
 # {{qualifier|number}} [[even]] 
 
-====Antonyms====
-* {{zh-l|单}} odd
-
 ===Proper noun===
-{{cmn-proper noun|s|pin=shuāng|tra=雙|sim=双}}
+{{zh-proper noun|s|pin=shuāng|tra=雙|sim=双}}
 
 # {{surname|lang=cmn}} [[Shuang]]
+
+====Antonyms====
+* {{zh-l|单}} odd
 
 ====Compounds====
 {{der-top}}
@@ -168,7 +120,50 @@
 * [[双子座]]
 {{der-bottom}}
 
-[[Category:Mandarin entries with audio links]]
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|k|hira=ふた|rom=futa}}
+
+# [[set]] of [[two]], [[pair]]
+
+===Kanji===
+{{ja-kanji|grade=c|rs=又02}}
+
+# {{defn|lang=ja|sort=又02}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (''sō'')|kun=[[ふた]] (''futa''), [[ふたつ]] (''futatsu''), [[たぐい]] (''tagui''), [[ならぶ]] (''narabu'')|nanori=[[なみ]] (''nami''), [[ふ]] (''fu''), [[もろ]] (''moro'')}}
+
+====Compounds====
+{{top2}}
+* [[双子]] (''futago''): twins, a twin
+* [[双方]] (''sōhō''): two way, both parties
+* [[双葉]] (''futaba''): bud, sprout
+* [[双肩]] (''sōken''): shoulders
+* [[双頭]] (''sōtō''): double-headed
+* [[双璧]] (''sōheki''): pair of bright jewels
+{{mid2}}
+* [[双六]] (''sugoroku''): a child's dice game
+* [[双眼鏡]] (''sōgankyō''): binoculars, field glasses
+* [[双生児]] (''sōseiji''): twins
+* [[双子葉植物]] (''sōshiyō shokubutsu''): dicotyledon
+* [[一双]] (''issō''): pair
+{{bottom}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 双]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쌍|rv=ssang|mr=ssang|y=ssang}}
+
+# {{defn|lang=ko|sort=又02}}
 
 [[fr:双]]
 [[ko:双]]
