@@ -97,7 +97,7 @@ In contemporary German, the genitive forms of personal pronouns are restricted t
 ==Limburgish==
 
 ===Alternative forms===
-* [[iech]], [[ik]]
+* {{l|li|iech}}, {{l|li|ik}}
 
 ===Etymology===
 From {{etyl|goh|li}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|li}} {{m|gem-pro|*ek}}, {{m|gem-pro|*ik}}.
@@ -107,9 +107,9 @@ From {{etyl|goh|li}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|li}} {{m|gem-pro|
 * {{a|Maastrict}} {{IPA|[ix]|lang=li}}
 
 ===Pronoun===
-{{head|li}}
+{{head|li|pronoun|personal}}
 
-# {{context|personal|lang=li}} [[I]].
+# [[I]]
 
 ====Inflection====
 {| class="wikitable" style="text-align: center;"
@@ -120,38 +120,31 @@ From {{etyl|goh|li}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|li}} {{m|gem-pro|
 ! Plural
 |-
 ! [[nominative]]
-| '''[[ich]]''', '''[['ch]]'''
-| '''[[weet]]'''
-| '''[[weer]]''', '''[[v'r]]'''
+| [[ich]], {{l|li|'ch}}
+| {{l|li|weet}}
+| {{l|li|weer}}, {{l|li|v'r}}
 |-
 ! [[genitive]]
-| '''[[miener]]''', '''[[miens]]'''
-| '''[[ózzer]]'''
-| '''[[ózzer]]'''
+| {{l|li|miener}}, {{l|li|miens}}
+| {{l|li|ózzer}}
+| {{l|li|ózzer}}
 |-
 ! [[locative]]
-| '''[[miches]]'''
-| '''[[ózzes]]'''
-| '''[[ózzes]]'''
+| {{l|li|miches}}
+| {{l|li|ózzes}}
+| {{l|li|ózzes}}
 |-
-! [[vocative]]
-| —
-| '''—'''
-| —
+! [[dative]]<ref group=*>Dative is nowadays obsolete, use accusative instead.</ref>
+| {{l|li|mir}}
+| {{l|li|ós}}
+| {{l|li|ós}}
 |-
-! [[dative]]
-| '''[[mir]]'''
-| '''[[ós]]'''
-| '''[[ós]]'''
-|-
-! [[accusative]]¹
-| '''[[mich]]'''
-| '''[[ós]]'''
-| '''[[ós]]'''
+! [[accusative]]
+| {{l|li|mich}}
+| {{l|li|ós}}
+| {{l|li|ós}}
 |}
-* Dative is nowadays obsolete, use accusative instead.
-
-[[Category:Limburgish pronouns]]
+<references group=* />
 
 ----
 
