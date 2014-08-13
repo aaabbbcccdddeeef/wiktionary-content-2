@@ -94,11 +94,9 @@
 
 # [[together]]
 # [[both]]
-# [[neither]]
 # [[all]]
-# [[and]]
-# [[alike]]
 # [[with]]
+# [[co-]]
 
 ====Readings====
 * {{ja-readings|on=[[きょう]] (kyō)|kun=[[とも]] (tomo), [[ともに]] (tomoni), [[ども]] (domo)}}
@@ -138,10 +136,8 @@
 * [[社共]] (しゃきょう, shakyō)
 {{mid3}}
 * [[是非共]] (ぜひとも, zehitomo)
-* [[送料共]] (そうりょうとも, sōryōtomo)
 * [[中共]] (ちゅうきょう, chūkyō)
 * [[防共]] (ぼうきょう, bōkyō)
-* [[母子共]] (ぼしとも, boshitomo)
 * [[身共]] (みども, midomo)
 * [[諸共]] (もろとも, morotomo)
 * [[容共]] (ようきょう, yōkyō)
@@ -151,17 +147,31 @@
 {{bottom}}
 
 ===Noun===
-{{ja-noun|k|hira=とも|rom=tomo}}
+{{ja-noun|とも}}
 
 # [[both]], [[all]]
 
+===Prefix===
+{{ja-pos|prefix|きょう}} 
+
+# [[co-]]
+
 ===Suffix===
-{{ja-pos|k|suffix|hira=ども|rom=-domo|hidx=とも'}} 
+{{ja-pos|suffix|とも}} 
+
+# [[altogether]]
+# -[[included]]
+
+====Synonyms====
+* {{ja-r|込|こみ}}
+
+===Suffix===
+{{ja-pos|suffix|ども}} 
 
 # indicates [[plural]]
 
 ====Synonyms====
-* {{l|ja|達|tr=たち}}
+* {{ja-r|達|たち}}
 
 ====Usage notes====
 Affixing 共 to oneself indicates humbleness. Affixing 共 to other people is disrespectful compared to 達 (たち, -tachi).
