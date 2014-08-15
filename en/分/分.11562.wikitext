@@ -33,126 +33,31 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[fan1]], [[fan6]]|y=fan1, fan6}}
-
-# {{defn|lang=yue|sort=刀02}}
-
-====Romanization====
-* {{l|yue|fan}}
-
-===Noun===
-{{yue-noun|ts|tas=分|HK=fan}}
-
-# {{context|Hong Kong|lang=yue}} [[fan]], a traditional unit of length, legally defined as 0.1 [[tsun]] ([[寸]]) or 0.00371475 [[metre]]s ([[米]])
-# a [[minute]] of time
-# an ancient small unit of time
-
-===See also===
-* {{sense|unit of length}} [[丈]] , [[尺]] , [[寸]]
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[pin]], [[pun]], [[fun]], [[fùn]], [[fūn]]|gd=fun<sup>1</sup>, fun<sup>1</sup>, pun<sup>1</sup> [Meixian, Siyan], fun<sup>1</sup>, pun<sup>1</sup>, fun<sup>1</sup> [Hailu]
-fun<sup>1</sup>, fun<sup>1</sup> [Hong Kong, Kwangtung], fun<sup>1</sup>, pun<sup>1</sup>, fun<sup>1</sup>, pin<sup>1</sup> [Bao'an], fun<sup>1</sup> [Dongguan]|hpy=bin1, bun1, fun1, fun4}}
-
-# {{defn|lang=hak|sort=刀02}}
-
-====References====
-*[http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%88%86 CCDICT (Chineselanguage.org)]
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=6495&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Noun===
-{{ja-noun|k|hira=ふん|rom=fun}}
-
-# a [[minute]] (unit of time)
-# a [[minute]] (unit of angle)
-
-{{ja-noun|k|hira=ぶん|rom=bun}}
-# [[part]]; [[share]]
-#: [[この]][[ケーキ]][[は]][[君]][[の]][[分]][[だ]][[よ]]。
-#: kono kēki wa kimi no bun da yo.
-#: this piece of cake is yours. (your share; it implies there are other pieces of cake.)
-
-{{ja-noun|k|hira=ぶ|rom=bu}} 
-
-# an obsolete unit of currency equal to four {{l/ja|両|tr=ryō}}
-
-===Counter===
-{{ja-pos|ふん|counter}}
-
-# [[minute]]s (duration)
-
-{{ja-minutes}}
-
-====Related terms====
-* [[わける]] (''wakeru''): "to [[divide]]"
-* [[わかる]] (''wakaru''): "to [[understand]]"
-
-===Kanji===
-{{ja-kanji|grade=2|rs=刀02}}
-
-====Readings====
-* {{ja-readings|on=[[ぶん]] (''bun''), [[ふん]] (''fun''), [[ぶ]] (''bu'')|kun=[[わける]] (''wakeru''), [[わかる]] (''wakaru''), [[わかれる]] (''wakareru'')}}
-
-====Compounds====
-{{top2}}
-* {{term|分類||[[classification]]|tr=[[ぶんるい]], [[bunrui]]|lang=ja|sc=Jpan}}
-* {{term|分類学||[[taxonomy]]|tr=[[ぶんるいがく]], [[bunruigaku]]|lang=ja|sc=Jpan}}
-* [[存分]]
-* [[多分]]
-{{mid2}}
-* [[半分]]
-* [[自分]]
-* [[市分]]
-{{mid4}}
-{{bottom}}
-
-[[Category:1000 Japanese basic words|ふん]]
-[[Category:ja:Time|ふん]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 分]]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=분|rv=bun|mr=pun|y=pwun|eumhun=[[나누다|나눌]]|ehrv=nanul|ehmr=nanul|ehy=}}
-
-# {{defn|lang=ko|sort=刀02}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[分]]}}
 
 ===Pronunciation===
-* {{audio|zh-fēn.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[fēn]] ([[fen1]])|wg=fen<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=刀02}}
+{{zh-pron
+|m=fēn
+|c=fan1,fan6
+|h=pfs=pin, pun, fun, fùn, fūn;hpy=bin1, bun1, fun1, fun4
+|mn=pun/hun/hūn
+|w=
+|mc=y
+|oc=y
+|ma=zh-fēn.ogg
+|cat=v,n,num
+}}
 
 ===Verb===
-{{cmn-verb|ts|pin=fēn|pint=fen1}}
+{{zh-verb|ts}}
 
 # to [[divide]], to [[separate]]
 # to [[distribute]], to [[allocate]]
-# to [[distinguish]], to [[differenciate]]
+# to [[distinguish]], to [[differentiate]]
 
 ===Noun===
-{{cmn-noun|ts|pin=fēn|pint=fen1}}
+{{zh-noun|ts}}
 
 # [[minute]]
 # [[fraction]]
@@ -160,10 +65,12 @@ fun<sup>1</sup>, fun<sup>1</sup> [Hong Kong, Kwangtung], fun<sup>1</sup>, pun<su
 # (sport) [[point]]
 # one [[tenth]]
 # (unit of money) 0.01 [[元]] (yuan)
-# abreviation of [[市分]], a unit of lengh equivalent to 0.33 cm 
+# {{context|Hong Kong|lang=yue}} [[fan]], a traditional unit of length, legally defined as 0.1 [[tsun]] ([[寸]]) or 0.00371475 [[metre]]s ([[米]])
+# an ancient small unit of time
+# abbreviation of [[市分]], a unit of lengh equivalent to 0.33 cm 
 
 ===Noun===
-{{cmn-noun|ts|pin=fèn|pint=fen4}}
+{{zh-noun|ts}}
 
 # [[part]], [[share]]
 # [[ingredient]], [[component]]
@@ -261,7 +168,6 @@ fun<sup>1</sup>, fun<sup>1</sup> [Hong Kong, Kwangtung], fun<sup>1</sup>, pun<su
 {{bottom}}
 {{der-bottom}}
 
-
 {{der-top|'''Not beginning with 分'''}}
 * [[成分]]
 * [[部分]]
@@ -273,33 +179,83 @@ fun<sup>1</sup>, fun<sup>1</sup> [Hong Kong, Kwangtung], fun<sup>1</sup>, pun<su
 * Terms marked with * are regular formations from nouns (e.g. 分校， 分行).
 * In the word [[处分]] (''chǔfèn''), this character is pronounced ''fèn'' (''fen4'').
 
-===References===
-* {{cite web
+===See also===
+* {{sense|unit of length}} [[丈]] , [[尺]] , [[寸]]
+
+====References====
+*(''Mandarin'') {{cite web
 | url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=分
 | title = 分
 | work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
 | language = Mandarin/English
 | accessdate = 2014-03-01}}
-
-[[Category:Mandarin entries with audio links]]
-
-----
-
-==Middle Chinese==
-===Han character===
-'''分''' (*biən, bhiə̀n)<!--note: asterisk indicates that this character appears more than four times in the Tang Dynasty corpus of literature-->
+*(''Hakka'') [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=6495&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+*(''Hakka'') Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+*(''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=593&curpage=1&sample=%E5%88%86&radiobutton=1&querytarget=1&limit=20&pagenum=4&rowcount=80 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ----
 
-==Min Nan==
+==Japanese==
 
-===Hanzi===
-{{nan-hanzi|poj=[[hun]] (hun<sup>1</sup>), [[hūn]] (hun<sup>7</sup>), [[pun]] (pun<sup>1</sup>)}}
+===Noun===
+{{ja-noun|k|hira=ふん|rom=fun}}
 
-# {{defn|lang=nan|sort=刀02}}
+# a [[minute]] (unit of time)
+# a [[minute]] (unit of angle)
 
-====References====
-*[http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=593&curpage=1&sample=%E5%88%86&radiobutton=1&querytarget=1&limit=20&pagenum=4&rowcount=80 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+{{ja-noun|k|hira=ぶん|rom=bun}}
+# [[part]]; [[share]]
+#: [[この]][[ケーキ]][[は]][[君]][[の]][[分]][[だ]][[よ]]。
+#: kono kēki wa kimi no bun da yo.
+#: this piece of cake is yours. (your share; it implies there are other pieces of cake.)
+
+{{ja-noun|k|hira=ぶ|rom=bu}} 
+
+# an obsolete unit of currency equal to four {{l/ja|両|tr=ryō}}
+
+===Counter===
+{{ja-pos|ふん|counter}}
+
+# [[minute]]s (duration)
+
+{{ja-minutes}}
+
+====Related terms====
+* [[わける]] (''wakeru''): "to [[divide]]"
+* [[わかる]] (''wakaru''): "to [[understand]]"
+
+===Kanji===
+{{ja-kanji|grade=2|rs=刀02}}
+
+====Readings====
+* {{ja-readings|on=[[ぶん]] (''bun''), [[ふん]] (''fun''), [[ぶ]] (''bu'')|kun=[[わける]] (''wakeru''), [[わかる]] (''wakaru''), [[わかれる]] (''wakareru'')}}
+
+====Compounds====
+{{top2}}
+* {{term|分類||[[classification]]|tr=[[ぶんるい]], [[bunrui]]|lang=ja|sc=Jpan}}
+* {{term|分類学||[[taxonomy]]|tr=[[ぶんるいがく]], [[bunruigaku]]|lang=ja|sc=Jpan}}
+* [[存分]]
+* [[多分]]
+{{mid2}}
+* [[半分]]
+* [[自分]]
+* [[市分]]
+{{mid4}}
+{{bottom}}
+
+[[Category:1000 Japanese basic words|ふん]]
+[[Category:ja:Time|ふん]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 分]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|rv=bun|mr=pun|y=pwun|eumhun=[[나누다|나눌]]|ehrv=nanul|ehmr=nanul|ehy=}}
+
+# {{defn|lang=ko|sort=刀02}}
 
 ----
 
