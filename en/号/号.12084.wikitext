@@ -17,12 +17,27 @@ Simplified Character of [[號]], but just as old. Not a later simplification.
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|号|[[號]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=hou6|tra=號}}
+===Pronunciation===
+{{zh-pron
+|m=hào,háo
+|c=hou4,hou6
+|mc=y
+|oc=y
+|ma=zh-hào.ogg
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=口02}}
+===Noun===
+{{zh-noun|s}}
+
+# [[number]], [[date]], [[mark]], [[sign]], [[symbol]]
+# {{context|literary|lang=cmn|sort=hao4}} [[brass]] [[wind]] [[instrument]]
+
+====Compounds====
+# [[小号]] ([[trumpet]])
 
 ----
 
@@ -52,6 +67,7 @@ Simplified Character of [[號]], but just as old. Not a later simplification.
 
 # ordinal marker, often with prefix [[第]]. It's used like [[-st]], [[-nd]], [[-rd]], [[-th]] in English.
 #: {{ja-usex|（第）六号|（だい）-ろく ごう|(The) 6th}}
+
 ----
 
 ==Korean==
@@ -60,24 +76,6 @@ Simplified Character of [[號]], but just as old. Not a later simplification.
 {{ko-hanja|hangeul=호|rv=ho|mr=ho}}
 
 # {{defn|lang=ko|sort=口02}}
-
-----
-
-==Mandarin==
-
-===Pronunciation===
-* {{audio|zh-hào.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|tra=號|pin=[[hào]] ([[hao4]]), [[háo]] ([[hao2]])|wg=hao<sup>2</sup>, hao<sup>4</sup>}}
-
-===Noun===
-{{cmn-noun|s|pin=hào|pint=hao4|tra=號|sim=号}}
-# [[number]], [[date]], [[mark]], [[sign]], [[symbol]]
-# {{context|literary|lang=cmn|sort=hao4}} [[brass]] [[wind]] [[instrument]]
-#: [[小号]] ([[trumpet]])
-
-[[Category:Mandarin entries with audio links]]
 
 [[fr:号]]
 [[ko:号]]
