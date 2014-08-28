@@ -29,11 +29,11 @@ Exists as a traditional character, and also a simplification of two traditional 
 ----
 
 ==Chinese==
-{{zh-hanzi-box|干|[[乾]]/[[幹]]/干}}
+{{zh-hanzi-box|干|[[乾]]}}
 
 ===Pronunciation===
 {{zh-pron
-|m=gān,gàn
+|m=gān
 |c=gon1
 |h=pfs=kon
 |mn=kan
@@ -49,9 +49,15 @@ Exists as a traditional character, and also a simplification of two traditional 
 
 # [[dry]]
 #* {{zh-usex|我 喉咙 很 '''干'''|My throat feels '''dry'''.|link=y}}
+#* {{zh-usex|我 的 衬衣 '''干''' 了 吗？|Is my shirt '''dry''' yet?|link=y}}	 
 # [[clean]]
-#* [[干净]] clean
+#* {{zh-l|干净}} clean
+#* {{zh-l|不干不净}} unclean; foul-mouthed
 # [[adoptive]]; [[foster]]
+#* {{zh-l|干爹}} godfather
+#* {{zh-l|干妈}} godmother
+#* {{zh-l|干女儿}} adopted daughter
+#* {{zh-l|干女儿}} adopted son
 
 ====Adverb====
 {{zh-adv|s|tra=[[乾]], [[乹]], [[亁]]|pin=gān|pint=gan1}}
@@ -61,17 +67,45 @@ Exists as a traditional character, and also a simplification of two traditional 
 ====Proper noun====
 {{zh-proper noun|s|tra=乾|pin=gān|pint=gan1}}
 
-# {{surname|lang=cmn}}
+# {{surname|lang=cmn}} Gan
+# {{short for|天干|lang=zh}}
+
+----
+{{zh-hanzi-box|干}}
+===Pronunciation===
+{{zh-pron
+|m=gān
+|c=gon1
+|h=pfs=kon
+|mn=kan
+|w=
+|mc=y
+|oc=
+|ma=zh-gàn.ogg
+|cat=n,a,v,adv
+}}
 
 ====Verb====
 {{zh-verb|ts|pin=gān|pint=gan1}}
 
 # to [[concern]]; to be implicated in
+#* {{zh-usex|这 事 与 我 无 干{gān}。|It has nothing to do with me.|link=y}}
 
 ====Noun====
 {{zh-noun|ts|pin=gān|pint=gan1}}
 
-# {{context|archaic|lang=cmn}} [[shield]]
+# {{context|archaic|lang=zh}} [[shield]]
+# {{context|literary|lang=zh}} [[bank]]; edge of water bodies
+#* {{zh-l|江干}} river bank
+
+----
+{{zh-hanzi-box|干|[[幹]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=gàn
+|c=gon3
+}}
 
 ====Noun====
 {{zh-noun|s|tra=幹|pin=gàn|pint=gan4}}
@@ -83,16 +117,17 @@ Exists as a traditional character, and also a simplification of two traditional 
 {{zh-verb|s|tra=幹|pin=gàn|pint=gan4}}
 
 # to [[do]]
-#* {{zh-usex|你 在 '''干''' 什么？|What are you '''doing'''?|link=y}} nǐ zài '''gàn''' shénme?
+#* {{zh-usex|你 在 '''干{gàn}''' 什么？|What are you '''doing'''?|link=y}}
+# to [[manage]]
 # to [[work]]
 #* [[干活]] to work
-#* {{zh-usex|你 是 '''干''' 什么 的？|What is your '''job'''?|link=y}} nǐ shì '''gàn''' shénmede?
+#* {{zh-usex|你 是 '''干{gàn}''' 什么 的？|What is your '''job'''?|link=y}}
 # to [[interfere]]
 #* [[干涉]] to [[interfere]]; to meddle
 #* [[干扰]] [[interference]]
-# {{context|vulgar|colloquial|lang=cmn}} to engage in sexual intercourse, to [[fuck]]
-#* {{zh-usex|干 你 妈！| Fuck you!|link=y}}
-# {{context|vulgar|colloquial|lang=cmn}} to [[kill]]
+# {{context|vulgar|colloquial|lang=zh}} to engage in sexual intercourse, to [[fuck]]
+#* {{zh-usex|干{gàn} 你 妈！| Fuck you!|link=y}}
+# {{context|vulgar|colloquial|lang=zh}} to [[kill]]
 
 =====Compounds=====
 {{rel-top|Compounds}}
