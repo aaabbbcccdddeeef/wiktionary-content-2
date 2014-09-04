@@ -16,51 +16,47 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|别|[[別]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[bit6]]|y=bit6}}
-
-# {{defn|lang=yue|sort=刀05}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=刀05}}
-
-# {{defn|lang=ja|sort=刀05}}
-
-====Readings====
-* {{ja-readings|on=[[べつ]] (betsu), [[べち]] (bechi)|kun=[[わかれる]] (wakareru), [[わける]] (wakeru), [[わかれ]] (wakare)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=별|rv=byeol|mr=pyŏl}}
-
-# {{defn|lang=ko|sort=刀05}}
-
-----
-
-==Mandarin==
-
-===Pronunciation===
-* {{audio|zh-bié.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[bié]] ([[bie2]]), [[biè]] ([[bie4]])|wg=pieh<sup>2</sup>, pieh<sup>4</sup>}}
+===Pronounciation===
+{{zh-pron
+|m=bié
+|c=bit6
+|cat=adverb
+|mc=y
+|oc=y
+}}
 
 ===Adverb===
-{{cmn-adv|s|pin=bié|pint=bie2|tra=別|sim=别}}
+{{zh-adv}}
 
-# [[don't]]
-#: '''别'''[[去]]! (don't go!)
+# [[do]] [[not]]; [[don't]]
+#: {{zh-usex|'''别''' 去！|Don't go!|link=y}}
+#: {{zh-usex|请 '''别''' 在 这里 拍照。|Please '''do not''' take photos here.|link=y}}
+#: {{zh-usex|别 '''忘''' 了 在 你 的 信 上 贴 张 邮票。|'''Don't''' forget to put a stamp on your letter.|link=y}}
+
+====Synonym====
+* {{zh-l|不要|bùyào}} do not; don't
+
+===Verb===
+{{zh-verb}}
+
+# to [[leave]]; to [[depart]]
+# to [[separate]]; to [[distinguish]]
+#* {{zh-l|区别}} difference; to distinguish
+# to [[classify]]
+# to [[pin]]
+# to [[stick]] in
+
+===Pronoun===
+{{zh-pronoun}}
+
+# [[other]]; [[another]]
+#: {{zh-usex|不要 探听 '''别''' 人 的 事。|Don't pry into the affairs of '''others'''.|link=y}}
 
 ====Compounds====
+{{rel-top|Compounds}}
 * bié
 ** [[别本]]
 ** [[别称]]
@@ -117,8 +113,44 @@
 * biè
 ** [[别扭]]
 ** [[别嘴]]
+{{rel-bottom}}
+
+----
+{{zh-hanzi-box|别|[[彆]]}}
+
+===Pronounciation===
+{{zh-pron
+|m=biè
+|cat=adverb
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to make somebody change their opinion; to [[dissuade]]
 
 [[Category:Mandarin entries with audio links]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀05}}
+
+# {{defn|lang=ja|sort=刀05}}
+
+====Readings====
+* {{ja-readings|on=[[べつ]] (betsu), [[べち]] (bechi)|kun=[[わかれる]] (wakareru), [[わける]] (wakeru), [[わかれ]] (wakare)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=별|rv=byeol|mr=pyŏl}}
+
+# {{defn|lang=ko|sort=刀05}}
 
 ----
 
