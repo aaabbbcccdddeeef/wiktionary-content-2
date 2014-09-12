@@ -11,56 +11,23 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
 {{yue-hanzi|jyut=[[zek3]], [[zi2]]|y=jek3, ji2|tra=隻}}
 
-# {{defn|lang=yue|sort=口02}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[chit]] (chit<sup>4</sup>), [[chí]] (chi<sup>2</sup>)|gd=|hpy=zid5, zi3}}
-
-# {{defn|lang=hak|sort=口02}}
-
-====References====
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=2006&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=口02}}
-
-# {{defn|lang=ja|sort=口02}}
-
-====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[ただ]] (tada)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=지|rv=ji|mr=chi|y=ci}}
-
-# {{defn|lang=ko|sort=口02}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|只|[[隻]]}}
 
 ===Pronunciation===
-{{Pinyin-IPA|zhī|zhǐ|a=Zh-zhī.ogg}}
+{{zh-pron
+|m=zhī
+|c=zek3
+|mc=y
+|oc=y
+|ma=Zh-zhī.ogg
+|cat=cls
+}}
 
 ===Classifier===
-{{cmn-cls||s|pin=[[zhī]] ([[zhi1]])|pint=zhi1|tra=隻|sim=只}}
+{{zh-cls||s|pin=[[zhī]] ([[zhi1]])|pint=zhi1|tra=隻|sim=只}}
 
 # [[w:Chinese_classifier|measure word]] for one of a pair
 # [[w:Chinese_classifier|measure word]] for certain animals, boats or containers
@@ -70,8 +37,21 @@
 * [[只言片语]]
 * [[只字不提]]
 
+{{zh-hanzi-box|只|[[衹]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|h=pfs=chit, chí;hpy=zid5, zi3
+|mn=
+|w=
+|ma=|ma2=
+|cat=adv
+}}
+
 ===Adverb===
-{{cmn-adv|s|pin=zhǐ|pint=zhi3|tra=[[衹]] or [[只]]|sim=只}}
+{{zh-adv|s|pin=zhǐ|pint=zhi3|tra=[[衹]] or [[只]]|sim=只}}
 
 # [[only]]; [[merely]]； [[just]]
 #: {{zh-usex|我 只 去 过 那里 一 次.|I' ve only been there once.}}
@@ -98,7 +78,30 @@
 * [[只要功夫深，铁杵磨成针]]
 * [[只争朝夕]]
 
-[[Category:Mandarin entries with audio links]]
+====References====
+*(''Hakka'') [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=2006&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+*(''Hakka'') Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口02}}
+
+# {{defn|lang=ja|sort=口02}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ただ]] (tada)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=口02}}
 
 ----
 
