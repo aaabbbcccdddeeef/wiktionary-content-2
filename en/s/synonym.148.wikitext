@@ -1,0 +1,231 @@
+{{also|Synonym|Wiktionary:Semantic_relations#Synonymy}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{etyl|enm|en}} {{term|sinonyme|lang=enm}}, from {{etyl|la|en}} {{m|la|synōnymum}}, from {{etyl|grc|en}} {{term|συνώνυμον|tr=sunōnumon|lang=grc}}, neuter singular form of {{term|συνώνυμος||synonymous|tr=sunōnumos|lang=grc}}, from {{term|σύν||with|lang=grc}} + {{term|ὄνομα||name|onoma|lang=grc}}. Corresponds to {{confix|syn|onym|lang=en}}.
+
+===Pronunciation===
+* {{IPA|/ˈsɪnənɪm/|lang=en}}
+* {{audio|en-us-synonym.ogg|Audio (US)|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# {{context|semantics|with respect to a given word or phrase|lang=en}} A [[word]] or [[phrase]] with a [[meaning]] that is the same as, or very similar to, another word or phrase.
+#: ''"Happy" is a '''synonym''' of "glad".''
+#* {{quote-book|passage=The proportion of English words that have an exact '''synonym''' is small.|author=William T. Parry, Edward A. Hacker|title=Aristotelian Logic|year=1991|url=http://books.google.com/books?id=rJceFowdGEAC}}
+# {{context|zoology|with respect to a name for a given taxon|lang=en}} Any of the formal names for the taxon, including the [[valid name]] (i.e. the [[senior synonym]]).
+# {{context|botany|with respect to a name for a given taxon|lang=en}} Any name for the taxon, usually a validly published, formally accepted one, but often also an unpublished name.
+# {{context|databases|lang=en}} An alternative (often shorter) [[name]] defined for an [[object]] in a [[database]].
+#* '''2011''', Paul Nielsen, Uttam Parui, ''Microsoft SQL Server 2008 Bible''
+#*: '''Synonyms''' are part of the SQL standard and are used frequently by Oracle DBAs. Note that Oracle includes both private and public synonyms.
+
+====Synonyms====
+* {{sense|word or phrase with same meaning as another}} [[equivalent]], <!--not according to the definition given for it: * [[metonym]],--> [[poecilonym]]
+
+====Antonyms====
+* {{sense|word or phrase with same meaning as another}} [[antonym]], [[opposite]]
+
+====Derived terms====
+* [[near-synonym]]
+
+====Related terms====
+* [[synonymic]]
+* [[synonymist]]
+* [[synonymous]]
+* [[synonymy]]
+
+====Translations====
+{{trans-top|word with same meaning as another}}
+* Armenian: {{t|hy|հոմանիշ|tr=homaniš|sc=Armn}}
+* Asturian: {{t+|ast|sinónimu|m}}
+* Bengali: {{t|bn|প্রতিশব্দ|sc=Beng}}
+* Catalan: {{t+|ca|sinònim|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|同義詞|sc=Hani}}, {{t+|cmn|同义词|tr=tóngyìcí|sc=Hani}}, {{t+|cmn|代名詞|sc=Hani}}, {{t+|cmn|代名词|tr=dàimíngcí|sc=Hani}}, {{qualifier|near-synonym}} {{t+|cmn|近義詞|sc=Hani}}, {{t|cmn|近义词|tr=jìnyìcí|sc=Hani}}
+* Czech: {{t+|cs|synonymum|n}}, {{t+|cs|slovo souznačné|n}}
+* Danish: {{t+|da|synonym|n}}
+* Dutch: {{t+|nl|synoniem|n}}, {{t|nl|evenwoord|n}}
+* Esperanto: {{t|eo|sinonimo}}
+* Estonian: {{t|et|sünonüüm}}
+* Finnish: {{t+|fi|synonyymi}}
+* French: {{t+|fr|synonyme|m}}
+* Galician: {{t+|gl|sinónimo|m}}
+* German: {{t+|de|Synonym|n}}
+* Greek: {{t+|el|συνώνυμο|n|tr=synónymo}}
+* Hindi: {{t|hi|पर्याय|m|tr=paryāy}}, {{t|hi|पर्यायवाची|sc=Deva}}, {{t|hi|समानार्थी शब्द|sc=Deva}}
+* Hungarian: {{t+|hu|szinonima}}
+* Icelandic: {{t+|is|samheiti|n}}
+* Italian: {{t+|it|sinonimo|m}}
+* Japanese: {{t+|ja|同義語|tr=どうぎご, dōgi-go; same|sc=Jpan}}, {{t+|ja|類義語|tr=るいぎご, ruigi-go; similar|sc=Jpan}}
+{{trans-mid}}
+* Khmer: {{t|km|ន័យដូច|sc=Khmr|tr=ney dooch}}
+* Latvian: {{t+|lv|sinonīms|m}}
+* Lithuanian: {{t|lt|sinonìmas|m}}
+* Malay: {{t|ms|synonim}}, {{t|ms|kata seerti}}, {{t|ms|sinonim}}, {{t|ms|muradif}}
+* Maori: {{t|mi|kupu taurite}}
+* Persian: {{t|fa|هم‌معنی|tr=ham-ma'ni|sc=fa-Arab}}, {{t+|fa|مترادف|tr=motarâdef|sc=fa-Arab}}
+* Polish: {{t+|pl|synonim|m}}
+* Portuguese: {{t+|pt|sinónimo}} {{qualifier|Portugal}}, {{t+|pt|sinônimo}} {{qualifier|Brazil}}
+* Romanian: {{t+|ro|sinonim|n}}
+* Russian: {{t+|ru|синоним|m|tr=sinónim}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|истозначница|f}}, {{t|sh|сино̀нӣм|m|sc=Cyrl}}
+*: Roman: {{t|sh|istòznačnica|f}}, {{t|sh|sinònīm|m}}
+* Slovene: {{t+|sl|sopomenka|f}}, {{t+|sl|sinonim|m}}
+* Spanish: {{t+|es|sinónimo|m}}
+* Swahili: {{t+|sw|kisawe}}
+* Swedish: {{t+|sv|synonym|c}}, {{t|sv|liktyding|c}}
+* Volapük: {{t|vo|leigasinifavöd}}
+* Welsh: {{t+|cy|cyfystyr|m}}
+{{trans-bottom}}
+
+{{trans-top|in zoological nomenclature}}
+* Czech: {{t+|cs|synonymum|n}}
+* Dutch: {{t+|nl|synoniem|n}}
+* Finnish: {{t+|fi|synonyymi}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|sinónimo}} {{qualifier|Portugal}}, {{t+|pt|sinônimo}} {{qualifier|Brazil}}
+* Swahili: {{t+|sw|sinonimu}}
+* Swedish: {{t+|sv|synonym|c}}, {{t|sv|vetenskaplig synonym|c}}, {{t|sv|namnsynonym|c}}
+{{trans-bottom}}
+
+{{trans-top|in botanical nomenclature}}
+* Czech: {{t+|cs|synonymum|n}}
+* Dutch: {{t+|nl|synoniem|n}}
+* Finnish: {{t+|fi|synonyymi}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|sinónimo}} {{qualifier|Portugal}}, {{t+|pt|sinônimo}} {{qualifier|Brazil}}
+* Swahili: {{t+|sw|sinonimu}}
+* Swedish: {{t+|sv|synonym|c}}, {{t|sv|vetenskaplig synonym|c}}, {{t|sv|namnsynonym|c}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Mandarin: {{t-check|cmn|同義詞|sc=Hani}}, {{t+check|cmn|同义词|tr=tongyici|sc=Hani}}
+* Indonesian: {{t-check|id|[[sama|persamaan]] [[kata]]}} <!-- was "[[sama|persamaan]] [[kata]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|sinonim}}
+* Interlingua: {{t-check|ia|synonymo}}
+* Malayalam: {{t+check|ml|പര്യായം|tr=paryaayam|sc=Mlym}}
+* Swedish: {{t+check|sv|synonym}}
+* Turkish: {{t+check|tr|eş anlamlı}}
+{{trans-bottom}}
+
+===See also===
+{{nyms|en}}
+
+* [[homotypic]]
+* [[heterotypic]]
+* [[Wiktionary:Semantic relations]]
+----
+
+==Danish==
+
+===Adjective===
+{{head|da|adjective|neuter|synonymt|definite and plural|synonyme}}
+
+# [[synonymous]]
+
+====Synonyms====
+* [[ensbetydende]]
+
+===Noun===
+{{da-noun|et|er}}
+
+# [[synonym#English|synonym]]
+
+====Inflection====
+{{da-noun-infl|et|er}}
+
+----
+
+==German==
+
+===Adjective===
+{{de-adj|-}}
+
+# [[synonymous]]
+
+====Declension====
+{{de-decl-adj-notcomp|synonym}}
+
+===External links===
+* {{R:Duden}}
+
+[[Category:de:Semantics]]
+
+----
+
+==Norwegian Bokmål==
+
+===Pronunciation===
+* {{audio|No-synonym.ogg|Audio|lang=nb}}
+
+===Adjective===
+{{nb-adj-1|-}}
+
+# [[synonymous]]
+
+===Noun===
+{{nb-noun-n3}}
+
+# [[#English|synonym]]
+
+----
+
+==Norwegian Nynorsk==
+
+===Adjective===
+{{nn-adj-1|-}}
+
+# [[synonymous]]
+
+===Noun===
+{{nn-noun-n1}}
+
+# [[#English|synonym]]
+
+[[ast:synonym]]
+[[be:synonym]]
+[[ca:synonym]]
+[[cs:synonym]]
+[[cy:synonym]]
+[[da:synonym]]
+[[de:synonym]]
+[[et:synonym]]
+[[el:synonym]]
+[[eu:synonym]]
+[[fa:synonym]]
+[[fr:synonym]]
+[[ko:synonym]]
+[[hy:synonym]]
+[[hsb:synonym]]
+[[hr:synonym]]
+[[io:synonym]]
+[[id:synonym]]
+[[it:synonym]]
+[[kn:synonym]]
+[[sw:synonym]]
+[[ku:synonym]]
+[[lv:synonym]]
+[[lt:synonym]]
+[[jbo:synonym]]
+[[hu:synonym]]
+[[mg:synonym]]
+[[ml:synonym]]
+[[my:synonym]]
+[[nl:synonym]]
+[[ja:synonym]]
+[[no:synonym]]
+[[nn:synonym]]
+[[oc:synonym]]
+[[pl:synonym]]
+[[pt:synonym]]
+[[ru:synonym]]
+[[simple:synonym]]
+[[fi:synonym]]
+[[sv:synonym]]
+[[ta:synonym]]
+[[tr:synonym]]
+[[uk:synonym]]
+[[vi:synonym]]
+[[zh:synonym]]
