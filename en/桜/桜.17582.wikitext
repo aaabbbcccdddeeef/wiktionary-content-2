@@ -46,6 +46,7 @@
 {{der-bottom}}
 
 ===Etymology===
+{{ja-kanjitab||yomi=k}}
 {| style="float:right;padding:0px;margin-right:-5px;"
 | [[File:Cerisier_du_Japon_Prunus_serrulata.jpg|thumb|none|119px|{{lang|ja|桜（[[桜木#Japanese|桜木]]）}}<br/>[[cherry tree]]]]
 | [[File:Cherry_blossoms_in_Vancouver_3_crop.jpg|thumb|none|119px|{{lang|ja|桜（[[桜花#Japanese|桜花]]）}}<br/>[[cherry blossom]]]]
@@ -69,7 +70,7 @@ From {{etyl|ojp|ja|sort=さくら}}.  Derived from verb {{suffix|lang=ja|sort=�
 * {{IPA|lang=ja|[sa̠ku͍ɽa̠]}}
 
 ===Noun===
-{{ja-noun|s|hira=さくら|kata=サクラ|rom=sakura|kyu=櫻}}
+{{ja-noun|さくら|kata=サクラ|kyu=櫻}}
 
 # a [[cherry]] tree, more specifically the Japanese cherry, {{taxlink|Prunus serrulata|species|noshow=1}}
 # a [[cherry]] blossom
@@ -102,7 +103,7 @@ From {{etyl|ojp|ja|sort=さくら}}.  Derived from verb {{suffix|lang=ja|sort=�
 * {{l|ja|背鰭|tr=[[せびれ]], ''[[sebire]]''}}: a [[dorsal]] [[fin]]
 
 ===Proper noun===
-{{ja-pos|k|proper|hira=さくら|rom=Sakura}}
+{{ja-pos|proper|さくら}}
 
 # {{given name|lang=ja|sort=さくら|female}}
 # the name of various cities, districts, and other places around Japan
@@ -112,10 +113,9 @@ From {{etyl|ojp|ja|sort=さくら}}.  Derived from verb {{suffix|lang=ja|sort=�
 ====See also====
 * {{audio|Sakura Sakura.song.ogg|''Sakura'' song|lang=ja}}
 
+[[CJKV characters simplified differently in Japan and China|櫻1]]
 [[Category:1000 Japanese basic words|さくら]]
 [[Category:ja:Trees|さくら]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 桜]]
 
 [[zh-min-nan:桜]]
 [[de:桜]]
