@@ -12,56 +12,28 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|带|[[帶]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[daai2]], [[daai3]]|y=daai2, daai3}}
-
-# {{defn|lang=yue|sort=巾06}}
-
-----
-
-==Japanese==
-{{ja-forms|[[帯]]|[[带]]|[[帶]]}}
-
-===Kanji===
-{{ja-kanji|grade=|rs=巾06}}
-
-# {{defn|lang=ja|sort=巾06}}
-
-====Readings====
-* {{ja-readings|on=[[たい]] (tai)|kun=[[おび]] (obi), [[おびる]] (obiru)}}
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=대|rv=dae|mr=tae}}
-
-# {{defn|lang=ko|sort=巾06}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi}}{{attention|cmn|needs inflection template}}
-
-# {{defn|lang=cmn}}
-
-====Pronunciation====
-* {{audio|zh-dài.ogg|audio|lang=cmn}}
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=daai2,daai3
+|mc=y
+|oc=y
+|ma=zh-dài.ogg
+|cat=n,v
+}}
 
 ====Noun====
-{{cmn-noun|s|pin=[[dài]] ([[dai4]])|pint=dai4|tra=帶|sim=带}}
+{{zh-noun|s}}
 
 # [[belt]]; [[ribbon]]; [[tape]]
-# [[tyre]]
+# [[tyre]], [[tire]]
 # [[zone]]; [[area]]; [[belt]]
 
 ====Verb====
-{{cmn-verb|s|pin=[[dài]] ([[dai4]])|pint=dai4|tra=帶|sim=带}}
+{{zh-verb|s}}
 
 # [[take]]; [[bring]]; [[carry]]
 # [[bear]]; [[have]]; [[with]]
@@ -109,6 +81,28 @@
 
 [[Category:CJKV characters simplified differently in Japan and China|帶2]]
 [[Category:Beginning Mandarin|dai4]]
+
+----
+
+==Japanese==
+{{ja-forms|[[帯]]|[[带]]|[[帶]]}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾06}}
+
+# {{defn|lang=ja|sort=巾06}}
+
+====Readings====
+* {{ja-readings|on=[[たい]] (tai)|kun=[[おび]] (obi), [[おびる]] (obiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대|rv=dae|mr=tae}}
+
+# {{defn|lang=ko|sort=巾06}}
 
 [[fr:带]]
 [[ko:带]]
