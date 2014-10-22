@@ -25,16 +25,16 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=广07}}
 
-# [[garden]]
-# [[atrium]]
-# [[enclosure]]
-
 ====Readings====
-* {{ja-readings|goon=[[じょう]] (jō)|kanon=[[てい]] (tei)|kun=[[にわ]] (niwa)}}
+{{ja-readings
+|goon=[[じょう]] (jō)
+|kanon=[[てい]] (tei)
+|kun=[[にわ]] (niwa)
+}}
 
 ===Pronunciation===
 {{ja-kanjitab|にわ|yomi=k}}
-* {{IPA|/ɲiɰa/|lang=ja}}
+{{ja-pron|yomi=k|にわ|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|にわ|hhira=には}}
@@ -42,8 +42,10 @@
 # [[garden]]
 
 ====Coordinate terms====
-* {{term|公園||park|tr=こうえん, kōen|lang=ja|sc=Jpan}}
+* {{ja-r|公園|こうえん}}: [[park]]
 
+===References===
+<references/>
 ----
 
 ==Korean==
