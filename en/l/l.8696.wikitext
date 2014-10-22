@@ -16,7 +16,7 @@
 
 ===Symbol===
 {{wikipedia|Alveolar lateral approximant}}
-{{head|mul|symbol}}
+{{mul-symbol}}
 
 # {{context|[[w:IPA|IPA]]|lang=mul}} [[alveolar]] [[lateral]] [[approximant]].
 # [[litre]] or [[liter]]
@@ -69,8 +69,8 @@ Image:Fraktur letter L.png|Uppercase and lowercase '''L''' in [[Fraktur]]
 
 ===Etymology 2===
 
-====Abbreviation====
-'''L'''
+====Abbreviation 1====
+{{en-abbreviation|head=L}}
 
 # [[Latin Language]]
 # [[Lira]]
@@ -79,7 +79,8 @@ Image:Fraktur letter L.png|Uppercase and lowercase '''L''' in [[Fraktur]]
 # Lobby
 # Liber
 
-{{head|en}}
+====Abbreviation 2====
+{{en-abbreviation}}
 
 # [[litre]], [[liter]]
 
@@ -275,7 +276,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* (''uppercase''): {{l|sh|L}}
+* {{qualifier|uppercase}} {{l|sh|L}}
 
 ===Pronunciation===
 * {{qualifier|phoneme}} {{IPA|/l/|lang=sh}}
