@@ -104,7 +104,44 @@ the sound when [[lumbering]]
 {{ja-kanji|grade=3|rs=戶04}}
 
 ====Readings====
-* {{ja-readings|goon=[[しょ]] (sho)|kanon=[[そ]] (so)|kun=[[ところ]] (tokoro), [[とこ]] (toko)}}
+{{ja-readings
+|goon=[[しょ]] (sho)
+|kanon=[[そ]] (so)
+|kun=[[と]] (to), [[ところ]] (tokoro), [[とこ]] (toko)
+}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|一所懸命|いっしょけんめい}}
+* {{ja-r|近所|きんじょ}}
+* {{ja-r|住所|じゅうしょ}}
+* {{ja-r|所為|しょい}}
+* {{ja-r|所感|しょかん}}
+* {{ja-r|所管|しょかん}}
+* {{ja-r|所見|しょけん}}
+* {{ja-r|所作|しょさ}}
+* {{ja-r|所在|しょざい}}
+{{mid3}}
+* {{ja-r|所在地|しょざいち}}
+* {{ja-r|所在|しょざい}}
+* {{ja-r|所持|しょじ}}
+* {{ja-r|所属|しょぞく}}
+* {{ja-r|所存|しょぞん}}
+* {{ja-r|所帯|しょたい}}
+* {{ja-r|所得|しょとく}}
+* {{ja-r|所得税|しょとくぜい}}
+* {{ja-r|所有物|しょゆうぶつ}}
+{{mid3}}
+* {{ja-r|所有者|しょゆうしゃ}}
+* {{ja-r|所有|しょゆう}}
+* {{ja-r|所有権|しょゆうけん}}
+* {{ja-r|所謂|いわゆる}}
+* {{ja-r|適材適所|てきざいてきしょ}}
+* {{ja-r|場所|ばしょ}}
+* {{ja-r|所以|ゆえん}}
+* {{ja-r|所有制|しょゆうせい}}
+* {{ja-r|所有主|しょゆうぬし}}
+{{bottom}}
 
 ===Counter===
 {{ja-pos|しょ|counter}}
@@ -119,43 +156,10 @@ the sound when [[lumbering]]
 # a [[place]], a [[scene]], a [[site]]; an [[address]]
 
 ====Derived terms====
-* [[所で]] ([[ところで]], [[tokoro de]]): [[by the way]], [[incidentally]]
-* [[所々]]/[[所所]]/[[処々]]/[[処処]] ([[ところどころ]], [[tokorodokoro]]): [[here and there]]
-* [[所へ]] ([[ところへ]], [[tokoro e]]): [[thereupon]]
-* [[所もある]] ([[ところもある]], [[tokoro mo aru]]): some, sometimes
-
-====Compounds====
-{{top3}}
-* {{l|ja|sc=Jpan|一所懸命|tr=いっしょけんめい, isshokenmei}}
-* {{l|ja|sc=Jpan|近所|tr=きんじょ, kinjo}}
-* {{l|ja|sc=Jpan|住所|tr=じゅうしょ, jūsho}}
-* {{l|ja|sc=Jpan|所為|tr=しょい, shoi}}
-* {{l|ja|sc=Jpan|所感|tr=しょかん, shokan}}
-* {{l|ja|sc=Jpan|所管|tr=しょかん, shokan}}
-* {{l|ja|sc=Jpan|所見|tr=しょけん, shoken}}
-* {{l|ja|sc=Jpan|所作|tr=しょさ, shosa}}
-* {{l|ja|sc=Jpan|所在|tr=しょざい, shozai}}
-{{mid3}}
-* {{l|ja|sc=Jpan|所在地|tr=しょざいち, shozaichi}}
-* {{l|ja|sc=Jpan|所在|tr=しょざい, shozai}}
-* {{l|ja|sc=Jpan|所持|tr=しょじ, shoji}}
-* {{l|ja|sc=Jpan|所属|tr=しょぞく, shozoku}}
-* {{l|ja|sc=Jpan|所存|tr=しょぞん, shozon}}
-* {{l|ja|sc=Jpan|所帯|tr=しょたい, shotai}}
-* {{l|ja|sc=Jpan|所得|tr=しょとく, shotoku}}
-* {{l|ja|sc=Jpan|所得税|tr=しょとくぜい, shotokuzei}}
-* {{l|ja|sc=Jpan|所有物|tr=しょゆうぶつ, shoyūbutsu}}
-{{mid3}}
-* {{l|ja|sc=Jpan|所有者|tr=しょゆうしゃ, shoyūsha}}
-* {{l|ja|sc=Jpan|所有|tr=しょゆう, shoyū}}
-* {{l|ja|sc=Jpan|所有権|tr=しょゆうけん, shoyūken}}
-* {{l|ja|sc=Jpan|所謂|tr=いわゆる, iwayuru}}
-* {{l|ja|sc=Jpan|適材適所|tr=てきざいてきしょ, tekizaitekisho}}
-* {{l|ja|sc=Jpan|場所|tr=ばしょ, basho}}
-* {{l|ja|sc=Jpan|所以|tr=ゆえん, yuen}}
-* {{l|ja|sc=Jpan|所有制|tr=しょゆうせい, shoyūsei}}
-* {{l|ja|sc=Jpan|所有主|tr=しょゆうぬし, shoyūnushi}}
-{{bottom}}
+* {{ja-r|所で|ところで}}: [[by the way]], [[incidentally]]
+* {{ja-l|所々}}, {{ja-l|所所}}, {{ja-l|処々}}, {{ja-r|処処|ところどころ}}: [[here and there]]
+* {{ja-r|所へ|ところ へ}}: [[thereupon]]
+* {{ja-r|所もある|ところ も ある}}: some, sometimes
 
 ===Suffix===
 {{ja-pos|しょ|suffix}}
@@ -163,6 +167,8 @@ the sound when [[lumbering]]
 {{ja-pos|ところ|suffix}}
 
 {{ja-pos|どころ|suffix}}
+
+{{attention|ja|This entire entry needs quite a bit of expansion and reorganization.}}
 
 # [[place]]
 
