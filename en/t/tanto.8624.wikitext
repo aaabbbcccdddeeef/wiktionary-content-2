@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology 1===
-* From {{etyl|ja|en}} {{term|短刀|tr=tantō </i>たんとう<i>|lang=ja}}, from {{etyl|ltc|en}} 短刀 (''twán-taw'' "dagger") (compare {{etyl|cmn|-}} ''duǎndāo'' 短刀), from [[短]] ("short") + [[刀]] ("knife").
+{{borrowing|ja|短刀|tr=tantō </i>たんとう<i>|lang=en}}, from {{etyl|ltc|en}} 短刀 (''twán-taw'' "dagger") (compare {{etyl|cmn|-}} ''duǎndāo'' 短刀), from {{m|ltc|短||short}} + {{m|ltc|刀||knife}}.
 
 ====Noun====
 {{en-noun}}
@@ -16,7 +16,7 @@
 {{projectlinks|pedia|page1=Tantō}}
 
 ===Etymology 2===
-* From {{etyl|it|en}} [[#Italian|tanto]].
+{{borrowing|it|tanto|lang=en}}.
 
 ====Pronunciation====
 * {{a|US}} {{IPA|/ˈtɑntoʊ/|lang=en}}
@@ -25,14 +25,14 @@
 ====Adverb====
 {{en-adv|-}}
 
-# {{context|music|lang=en}} So much; too much.
+# {{label|en|music}} So much; too much.
 
 =====Derived terms=====
 * [[non tanto]]
 * [[allegro non tanto]]
 
 ===Anagrams===
-* [[natto#English|natto]]
+* {{l/en|natto}}
 
 [[Category:en:Swords]]
 
@@ -54,7 +54,7 @@
 
 # [[such]]
 
-'''tanto ... como'''
+{{head|ia|adverb|head=tanto ... [[como]]}}
 
 # [[such]] ... [[as]]
 
@@ -63,7 +63,7 @@
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} ''[[tantus]]''.
+From {{etyl|la|it}} {{m|la|tantus}}.
 
 ===Pronunciation===
 * {{audio|It-tanto.ogg|Audio|lang=it}}
@@ -78,33 +78,29 @@ From {{etyl|la|it}} ''[[tantus]]''.
 # [[significant]]
 
 ===Pronoun===
-{{head|it}}
+{{head|it|pronoun}}
 
 # much
 # a lot
 
 ===Adverb===
-{{head|it}}
+{{it-adv}}
 
 # so much
 # [[very]]
 
 ===Conjunction===
-{{head|it}}
+{{head|it|conjunction}}
 
 # [[after all]]
 # [[anyways]]
 
 ===Derived terms===
-* [[di tanto in tanto]]
-* [[ogni tanto]]
+* {{l/it|di tanto in tanto}}
+* {{l/it|ogni tanto}}
 
 ===Anagrams===
-* [[tonta#Italian|tonta]]
-
-[[Category:Italian adverbs]]
-[[Category:Italian conjunctions]]
-[[Category:Italian pronouns]]
+* {{l/it|tonta}}
 
 ----
 
@@ -123,7 +119,7 @@ From {{etyl|la|it}} ''[[tantus]]''.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{term|tanto|lang=roa-opt}}, from {{etyl|la|pt}} {{term|tantus|lang=la}}.
+From {{etyl|roa-opt|pt}} {{m|roa-opt|tanto}}, from {{etyl|la|pt}} {{m|la|tantus}}.
 
 ===Pronunciation===
 * {{a|PT|Brazil}} {{IPA|/ˈtɐ̃.tu/|lang=pt}}
@@ -161,17 +157,14 @@ From {{etyl|roa-opt|pt}} {{term|tanto|lang=roa-opt}}, from {{etyl|la|pt}} {{term
 #: {{usex|A moeda de ouro vale cinco '''tantos''' mais que a de prata.|t=The gold coin is worth five '''times''' as much as the silver one.|lang=pt}}
 
 ====Derived terms====
-{{top2}}
-* {{l|pt|portanto}}
-* {{l|pt|tanto assim que}}
-* {{l|pt|tanto mais quanto}}
-* {{l|pt|tanto melhor}}
-{{mid2}}
-* {{l|pt|tanto quanto}}
-* {{l|pt|tanto que}}
-* {{l|pt|um tanto}}
-* {{l|pt|um tanto ou quanto}}
-{{bottom}}
+{{der3|{{l|pt|portanto}}
+|{{l|pt|tanto assim que}}
+|{{l|pt|tanto mais quanto}}
+|{{l|pt|tanto melhor}}
+|{{l|pt|tanto quanto}}
+|{{l|pt|tanto que}}
+|{{l|pt|um tanto}}
+|{{l|pt|um tanto ou quanto}}}}
 
 ====Descendants====
 * Indo-Portuguese: {{l|idb|tanto}}
@@ -184,7 +177,7 @@ From {{etyl|roa-opt|pt}} {{term|tanto|lang=roa-opt}}, from {{etyl|la|pt}} {{term
 ==Spanish==
 
 ===Etymology===
-{{etyl|la|es}} {{term|tantus|lang=es}}
+From {{etyl|la|es}} {{m|la|tantus}}.
 
 ===Adjective===
 {{es-adj|f=tanta}}
@@ -195,10 +188,8 @@ From {{etyl|roa-opt|pt}} {{term|tanto|lang=roa-opt}}, from {{etyl|la|pt}} {{term
 {{es-adv}}
 
 # [[so]] much, long, hard, often, etc.
-#: ''te quiero tanto''
-#:: ''I love you so much''
-#: de tanto hacerlo, se me irrita
-#:: no matter how much I do it, it [still] irritates me
+#: {{usex|Te quiero tanto.|t=I love you so much.|lang=es}}
+#: De tanto hacerlo, se me irrita.|t=No matter how much I do it, it [still] irritates me.|lang=es}}
 
 ===Noun===
 {{es-noun|m}}
@@ -206,30 +197,25 @@ From {{etyl|roa-opt|pt}} {{term|tanto|lang=roa-opt}}, from {{etyl|la|pt}} {{term
 # [[copy]]
 # poker [[chip]], [[counter]]
 # [[point]] (in a game)
-# {{context|Latin America|lang=es}} [[portion]]
+# {{label|es|Latin America}} [[portion]]
 
 ===Pronoun===
-{{head|es|pronouns}}
+{{head|es|pronoun}}
 
 # so [[much]], so [[many]]
 
 ====Related terms====
-* [[tan]]
+* {{l/es|tan}}
 
 ====Derived terms====
-{{top2}}
-* [[al tanto]]
-* [[entre tanto]]
-* [[en su tanto]]
-* [[otro tanto]]
-{{mid2}}
-* [[por tanto]]
-* [[por el tanto]]
-* [[por lo tanto]]
-* [[un tanto]]
-{{bottom}}
-
-[[Category:Spanish pronouns]]
+{{der3|{{l|es|al tanto}}
+|{{l|es|entre tanto}}
+|{{l|es|en su tanto}}
+|{{l|es|otro tanto}}
+|{{l|es|por tanto}}
+|{{l|es|por el tanto}}
+|{{l|es|por lo tanto}}
+|{{l|es|un tanto}}}}
 
 [[ast:tanto]]
 [[de:tanto]]
