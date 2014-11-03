@@ -13,9 +13,9 @@
 
 ===Symbol===
 {{wikipedia|Voiceless alveolar sibilant|Voiceless alveolar fricative}}
-{{head|mul|symbol}}
+{{mul-symbol}}
 
-# {{context|{{w|IPA}}|lang=mul}} [[voiceless]] [[alveolar]] [[fricative]]
+# {{label|mul|{{w|IPA}}}} [[voiceless]] [[alveolar]] [[fricative]]
 # Symbol for '''[[second]]''', an [[SI]] [[unit]] of [[measurement]] of [[time]].
 
 ===See also===
@@ -61,7 +61,7 @@ Image:Fraktur letter S.png|Uppercase and lowercase '''S''' in [[Fraktur]]
 ===Abbreviation===
 {{head|en|abbreviation}}
 
-# {{context|metrology|lang=en}} abbreviation for the [[scruple]] {{qualifier|unit of mass in the apothecaries' system}}
+# {{label|en|metrology}} abbreviation for the [[scruple]] {{qualifier|unit of mass in the apothecaries' system}}
 # {{alternative form of|s.|lang=en}}
 
 ===See also===
@@ -81,13 +81,11 @@ Image:Fraktur letter S.png|Uppercase and lowercase '''S''' in [[Fraktur]]
 ===Article===
 {{head|gsw|article|g=n}}
 
-# {{cx|definite|lang=gsw}} [[the]]
+# {{label|gsw|definite}} [[the]]
 #*'''1978''', Rolf Lyssey and Christa Maerker, ''Die Schweizermacher'' (transcript):
-#*:Wüssed Si, Herr Bodmer, das isches, was ich so bewundere an de Schwitzer: Ire Humor. I jedere Situazion '''s'''’richtige Wort.
-#*::''You know, Mr Bodmer, that's what I admire about the Swiss – their humour. The right word for every situation.''
+#*: {{usex|Wüssed Si, Herr Bodmer, das isches, was ich so bewundere an de Schwitzer: Ire Humor. I jedere Situazion '''s'''’richtige Wort.|t=You know, Mr Bodmer, that's what I admire about the Swiss – their humour. The right word for every situation.|lang=gsw}}
 #*'''2010''', {{w|Pedro Lenz}}, ''Der Goalie bin ig'':
-#*:D Wohnig isch d Wohnig und '''ds''' Business isch '''ds''' Business.
-#*::''Accommodation is accommodation, and business is business.''
+#*: {{usex|D Wohnig isch d Wohnig und '''ds''' Business isch '''ds''' Business.|t=Accommodation is accommodation, and business is business.|lang=gsw}}
 
 ====Declension====
 {{gsw-decl-definite article}}
@@ -187,14 +185,14 @@ This preposition is followed by the [[instrumental case]].
 ===Conjunction===
 {{head|hu|conjunction}}
 
-# {{context|poetic|lang=hu}} [[and]] (short variant of {{term|és||and|lang=hu}})
+# {{label|hu|poetic}} [[and]] (short variant of {{m|hu|és||and}})
 
 ====Derived terms====
 * [[satöbbi]]
 * [[segíts magadon, s az Isten is megsegít]]
 
 ===Letter===
-{{head|hu}}
+{{head|hu|letter}}
 
 # {{Latn-def|hu|letter|31}} Pronounced ''sh'' as in ''she''.
 
@@ -211,7 +209,6 @@ This preposition is followed by the [[instrumental case]].
 
 ==Latvian==
 {{wikipedia|lang=lv}}
-
 ===Etymology===
 Proposed in 1908 as part of the new Latvian spelling by the scientific commission headed by [[w:Kārlis Mīlenbahs|K. Mīlenbahs]], which was accepted and began to be taught in schools in 1909. Prior to that, Latvian had been written in German [[Fraktur]], and sporadically in [[Cyrillic]].
 
@@ -283,8 +280,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 # {{Latn-def|pt|letter|19|esse}}
 #* {{RQ:Harry Potter|7|pt-BR|page=350}}
-#*: Harry mal re'''s'''pirava: '''s'''erá que a '''s'''orte, a pura '''s'''orte poderia livrá-lo'''s''' de'''ss'''a encrenca?
-#*:: Harry was badly breathing: maybe luck, pure luck could save them from that trouble?
+#*: {{usex|Harry mal re'''s'''pirava: '''s'''erá que a '''s'''orte, a pura '''s'''orte poderia livrá-lo'''s''' de'''ss'''a encrenca?|t=Harry was badly breathing: maybe luck, pure luck could save them from that trouble?|lang=pt}}
 
 ----
 
@@ -325,40 +321,40 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*sъ(n)}}, from {{etyl|ine-pro|sh}} {{m|ine
 ====Preposition====
 {{sh-preposition|r|с}}
 
-# (''with instrumental'') [[with]], together [[with]], along [[with]]
-#: ''raditi s nekim'' — to work with somebody
-#: ''svađati se s nekim'' — to quarrel with somebody
-#: ''ratovati s nekim'' — to wage war with somebody
-#: ''d(j)evojka s plavom kosom'' — a girl with blonde hair
-#: ''s godinama dolazi mudrost'' — with age comes wisdom
-#: ''s ljubavlju'' — with love
-# (''with instrumental'') miscellaneous prepositional senses in various phrases
-#: ''što je s tobom?'' — what's wrong with you?
-#: ''s vremenom'' — in time
-#: ''pozdraviti se s nekim'' — to greet somebody
-# (''with genitive'') [[from]], [[off]]
-#: ''pao sam sa stabla'' — I fell from the tree
-#: ''s druge strane'' — on the other side
-#: ''sa zapada'' — from the west
-#: ''s leđa'' — from the back
-#: ''promatrati s prozora'' — to observe from the window
-#: ''ljudi s planine'' — people from the mountain
-# (''with genitive'') [[because of]] (= {{term|iz|lang=sh}}, {{m|sh|zbȍg}})
-#: ''s tog razloga'' — for that reason
+# {{qualifier|with instrumental}} [[with]], together [[with]], along [[with]]
+#: {{usex|raditi s nekim|inline=1|t=to work with somebody|lang=sh}}
+#: {{usex|svađati se s nekim|inline=1|t=to quarrel with somebody|lang=sh}}
+#: {{usex|ratovati s nekim|inline=1|t=to wage war with somebody|lang=sh}}
+#: {{usex|d(j)evojka s plavom kosom|inline=1|t=a girl with blonde hair|lang=sh}}
+#: {{usex|s godinama dolazi mudrost|inline=1|t=with age comes wisdom|lang=sh}}
+#: {{usex|s ljubavlju|inline=1|t=with love|lang=sh}}
+# {{qualifier|with instrumental}} miscellaneous prepositional senses in various phrases
+#: {{usex|što je s tobom?|inline=1|t=what's wrong with you?|lang=sh}}
+#: {{usex|s vremenom|inline=1|t=in time|lang=sh}}
+#: {{usex|pozdraviti se s nekim|inline=1|t=to greet somebody|lang=sh}}
+# {{qualifier|with genitive}} [[from]], [[off]]
+#: {{usex|pao sam sa stabla|inline=1|t=I fell from the tree|lang=sh}}
+#: {{usex|s druge strane|inline=1|t=on the other side|lang=sh}}
+#: {{usex|sa zapada|inline=1|t=from the west|lang=sh}}
+#: {{usex|s leđa|inline=1|t=from the back|lang=sh}}
+#: {{usex|promatrati s prozora|inline=1|t=to observe from the window|lang=sh}}
+#: {{usex|ljudi s planine|inline=1|t=people from the mountain|lang=sh}}
+# {{qualifier|with genitive}} [[because of]] (= {{m|sh|iz}}, {{m|sh|zbȍg}})
+#: {{usex|s tog razloga|inline=1|t=for that reason|lang=sh}}
 
 =====Usage notes=====
-{{term|s|lang=sh}} takes the alternative form {{term|sa|lang=sh}} in the following environments:
+'''s''' takes the alternative form {{m|sh|sa}} in the following environments:
 * before /s, š, z, ž/:
-*: ''sa stránē'' — aside
-*: ''sa škȏlōm'' — with school
-*: ''sa zȗbom'' — with tooth
-*: ''sa živòtom'' — with life
+*: {{usex|sa stránē|inline=1|t=aside|lang=sh}}
+*: {{usex|sa škȏlōm|inline=1|t=with school|lang=sh}}
+*: {{usex|sa zȗbom|inline=1|t=with tooth|lang=sh}}
+*: {{usex|sa živòtom|inline=1|t=with life|lang=sh}}
 * before consonant clusters where the second consonant is /s, š, z/:
-*: ''sà psom (sa psȍm)'' — with dog
-*: ''sa pšènicōm'' — with wheat
-*: ''sa ȑzānjem'' — with neighing
+*: {{usex|sà psom (sa psȍm)|inline=1|t=with dog|lang=sh}}
+*: {{usex|sa pšènicōm|inline=1|t=with wheat|lang=sh}}
+*: {{usex|sa ȑzānjem|inline=1|t=with neighing|lang=sh}}
 * before instrumental form of first-person pronoun {{m|sh|jȃ||I}}
-*: ''sȁ mnȏm'' — with me
+*: {{usex|sȁ mnȏm|inline=1|t=with me|lang=sh}}
 
 ===Etymology 3===
 
@@ -368,7 +364,7 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*sъ(n)}}, from {{etyl|ine-pro|sh}} {{m|ine
 ====Abbreviation====
 {{head|sh|abbreviation|Cyrillic spelling|с}}
 
-# {{context|grammar|lang=sh}} [[neuter]] [[gender]] ({{term|srednji|lang=sh}} {{term|rod|lang=sh}})
+# {{label|sh|grammar}} [[neuter]] [[gender]] ({{term|srednji|lang=sh}} {{term|rod|lang=sh}})
 
 ----
 
