@@ -1,0 +1,97 @@
+==English==
+
+===Etymology===
+From {{prefix|over|ride|lang=en}}.
+
+===Pronunciation===
+* verb:
+** {{IPA|/əʊ.vəˈraɪd/|lang=en}}
+* noun:
+** {{IPA|/ˈəʊ.və.raɪd/|lang=en}}
+
+===Verb===
+{{en-verb|overrides|overriding|overrode|overridden}}
+
+# To [[ride]] [[across]] or [[beyond]] something.
+# To ride a [[horse]] too [[hard]].
+# To [[counteract]] the [[normal]] [[operation]] of something.
+#: ''The Congress promptly '''overrode''' the president's veto, passing the bill into law''.
+#* {{RQ:Orwell Animal Farm|6}}
+#*: The needs of the windmill must '''override''' everything else, he said.
+# {{context|programming|object-oriented|lang=en}} To define a new behaviour of a [[method]] by creating the same [[method]] of the [[superclass]] with the same name and [[signature]].
+#: ''How the cat runs is defined in the method <code>run()</code> of the class <code>Cat</code>, which '''overrides''' the same method with the same signature of superclass called <code>Mammal</code>.''
+
+====Usage notes====
+* The form {{term|overrode|lang=en}} is sometimes used as a past participle, in place of the standard {{term|overridden|lang=en}}.
+
+====See also====
+* {{sense|programming}} [[overload]]
+
+====Translations====
+{{trans-top|to ride across or beyond something}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to ride a horse too hard}}
+* Dutch: {{t|nl|afjakkeren}}
+{{trans-mid}}
+* Japanese: {{t+|ja|酷使|alt=酷使する|tr=kokushi suru}}
+{{trans-bottom}}
+
+{{trans-top|to counteract the normal operation of something}}
+* Japanese: {{t|ja|覆す|tr=kutsugaesu}}
+{{trans-mid}}
+* Norwegian: {{t|no|motvirke}}, {{t|no|overstyre}}
+* Swedish: {{t|sv|åsidosätta}}
+{{trans-bottom}}
+
+{{trans-top|(software) To define a new behaviour of a [[method]]}}
+* Georgian: {{t|ka|გადაფარვა|sc=Geor}}
+{{trans-mid}}
+* German: {{t+|de|überschreiben}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A [[mechanism]], [[device]] or [[procedure]] used to [[counteract]] an [[automatic]] [[control]].
+# A [[royalty]].
+# A device for prioritizing audio signals, such that certain signals receive priority over others.
+
+====Translations====
+{{trans-top|A mechanism, device or procedure used to counteract an automatic control}}
+* Japanese: {{t|ja|オーバーライド|tr=ōbāraido}}
+{{trans-mid}}
+* Tamil: {{t|ta|ரத்து செய்தல்|sc=Taml}}
+{{trans-bottom}}
+
+{{trans-top|A royalty}}
+* Japanese: {{t+|ja|優先|tr=yūsen}}, {{t+|ja|優待|tr=yūtai}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|A device for prioritizing audio signals}}
+{{trans-mid}}
+{{trans-bottom}}
+
+[[et:override]]
+[[fa:override]]
+[[fr:override]]
+[[ko:override]]
+[[hy:override]]
+[[io:override]]
+[[kn:override]]
+[[hu:override]]
+[[mg:override]]
+[[ml:override]]
+[[my:override]]
+[[pl:override]]
+[[pt:override]]
+[[ru:override]]
+[[fi:override]]
+[[sv:override]]
+[[ta:override]]
+[[chr:override]]
+[[uk:override]]
+[[vi:override]]
+[[zh:override]]
