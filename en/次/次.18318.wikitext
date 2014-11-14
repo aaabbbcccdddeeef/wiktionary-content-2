@@ -45,29 +45,132 @@
 {{ja-kanji|grade=3|rs=欠02}}
 
 ====Readings====
-* {{ja-readings|on=[[じ]] (ji), [[し]] (shi)|kun=[[つぐ]] ([[tsugu]]), [[つぎ]] ([[tsugi]])}}
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kanyoon=[[じ]] (ji)
+|kun=[[つぐ|つ.ぐ]] (tsu.gu), [[つぎ]] (tsugi), [[ついで]] (tsuide), [[すく|す.く]] (su.ku), [[すき]] (suki), 
+|nanori=[[き]] (ki), [[すき]] (suki), [[つぐ]] (tsugu), [[よし]] (yoshi)
+}}
 
 ====Compounds====
 * {{l|ja|目次|tr=[[もくじ]], mokuji}}
 
-===Counter===
-{{ja-pos|じ|counter}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|し}}
+From {{etyl|ltc|ja|sort=し}} {{term|lang=zh|次|tr=tshij<sup>H</sup>||in order; second}}.
 
-# number of times
+Less common reading in modern Japanese.  [[supersede|Superseded]] in most cases by ''ji''; see below.
 
-===Noun===
-{{ja-noun|つぎ}}
+====Pronunciation====
+{{ja-pron|yomi=on|し}}
 
-# next, order, sequence, below
-#* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])
-#*: では <tt>C-v</tt> （'''次'''の画面を見る）をタイプして'''次'''の画面に[[進む|進んで]]下さい。（さあ、やってみましょう。コントロールキーを押しながら <tt>v</tt> です）
-#*:: では <tt>C-v</tt> （'''つぎ'''のがめんをみる）をたいぷして'''つぎ'''のがめんに[[すすむ|すすんで]]ください。（さあ、やってみましょう。コントロールキーを押しながら <tt>v</tt> です）
-#*:: ''De wa <tt>C-v</tt> ('''tsugi''' no gamen o miru) o taipu shite '''tsugi''' no gamen ni [[susumu|susunde]] kudasai. (sā, yatte mishō. Kontorōrukī o oshi na gara <tt>v</tt> desu)''
-#*::: Now type <tt>C-v</tt> (View '''next''' screen) to move to the '''next''' screen. (go ahead, do it by depressing the control key and <tt>v</tt> together)
+====Affix====
+{{ja-pos|affix|し}}
 
+# [[next]], [[secondary]]
+# [[following]]
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|次第|しだい}}: [[order]], order of [[event]]s, [[circumstances]]; [[dependent]] upon, coming after, taking orders from
+* {{ja-r|次忠|しちゅう}}: [[secondary]] [[loyalty]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|じ}}
+{{IPAchar|/si/}} → {{IPAchar|/ʑi/}} → {{IPAchar|/d͡ʑi/}}
+
+Sound shift from ''shi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanyo|じ}}
+
+====Counter====
+{{ja-pos|counter|じ}}
+
+# number of times: an [[ordinal]] marker
+#: {{ja-usex|第四'''次'''計画|だいよん'''じ''' けいかく|the four'''th''' plan}}
+# number in a sequence, number of [[aspect]]s or [[dimension]]s
+#: {{ja-usex|二'''次'''方程式、三'''次'''式|に'''じ''' ほうていしき、 さん'''じ''' しき|a quadrat'''ic''' equation, a thi'''rd order''' expression}}
+
+====Noun====
 {{ja-noun|じ}}
 
-# the next one (e.g. the next generation)
+# {{context|lang=ja|sort=じ|rare}} [[order]], [[sequence]]
+
+=====Usage notes=====
+Seldom found in isolation.
+
+====Prefix====
+{{ja-pos|prefix|じ}}
+
+# {{qualifier|attached to nouns}} the [[next]], [[secondary]], [[vice-]]
+#: {{ja-usex|'''次'''位、'''次'''長|'''じ'''い、 '''じ'''ちょう|'''second''' rank, '''vice-'''director}}
+# {{context|lang=ja|sort=じ|chemistry}} [[hypo-]] {{qualifier|used to distinguish the oxidation levels of various acids}}
+#: {{ja-usex|亜塩素酸、'''次'''亜塩素酸、亜臭素酸、'''次'''亜臭素酸|あえんそ さん、 '''じ'''あえんそ さん、 あしゅうそ さん、 '''じ'''あしゅうそ さん|chlorous acid, '''hypo'''chlorous acid, bromous acid, '''hypo'''bromous acid}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|つぎ}}
+Nominalization of the {{term|lang=ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=つぎ}}-derived verb {{term|lang=ja|次ぐ|tr=tsugu||to be in a sequence; to follow, to continue from something, to be next; to connect, to join}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つぎ|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|つぎ}}
+
+# [[next]], [[order]], [[sequence]], [[below]]
+#* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])
+#*: では <tt>C-v</tt> （'''次'''の画面を見る）をタイプして'''次'''の画面に進んで下さい。（さあ、やってみましょう。コントロールキーを押しながら <tt>v</tt> です）
+#*:: では <tt>C-v</tt> （'''つぎ'''のがめんをみる）をたいぷして'''つぎ'''のがめんにすすんでください。（さあ、やってみましょう。コントロールキーを押しながら <tt>v</tt> です）
+#*:: ''De wa <tt>C-v</tt> ('''tsugi''' no gamen o miru) o taipu shite '''tsugi''' no gamen ni susunde kudasai. (Sā, yatte mimashō. Kontorōru kī o oshinagara <tt>v</tt> desu)''
+#*::: Now type <tt>C-v</tt> (View '''next''' screen) to move to the '''next''' screen. (Go ahead, do it by depressing the control key and <tt>v</tt> together)
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|すき}}
+Nominalization of the {{term|lang=ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=すく}}-derived verb {{term|lang=ja|次く|tr=suku||to follow, to continue from something, to be next;}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The verb form was obsolete even in olden times.  Existence of the verb, possibly related to [[次ぐ|''tsugu'']] mentioned above, is inferred from placenames found in the [[w:Man'yōshū|''Man'yōshū'']] and other ancient poetry.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|すき}}
+
+====Alternative forms====
+* {{ja-l|主基}}
+
+====Noun====
+{{ja-noun|すき}}
+
+# {{context|lang=ja|sort=すき|Shinto}} at the {{term|lang=ja|大嘗祭|tr=Daijōsai}} and other major Shintō ceremonies, refers to the group of regional representatives making [[offering]]s of [[sake]] and [[grain]], who do so after the initial offering
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|ついで}}
+{{IPAchar|/tugite/}} → {{IPAchar|/tuide/}}
+
+Sound shift from {{term|lang=ja|次第|tr=tsugite||order, sequence}}, itself originally the {{term|lang=ja|連用形|tr=ren'yōkei||continuative or stem form}} of now-obsolete {{etyl|ojp|ja|sort=ついで}}-derived verb {{term|lang=ja|継ぎつ|tr=tsugitsu||to do things in sequence, to establish an order}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ついで|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|序}}, {{ja-l|序で}}, {{ja-l|第}}, {{ja-l|次いで}}, {{ja-l|尋いで}}, {{ja-l|次第}}, {{ja-l|嗣}}
+
+====Noun====
+{{ja-noun|ついで}}
+
+# [[order]], [[sequence]]
+# [[follower]], [[successor]]; the [[next]] thing in a sequence
+# a [[good]] [[opportunity]] to do something; doing something [[incidental]] to something else
+
+=====Usage notes=====
+The ''good opportunity'' sense is more often encountered as {{ja-r|序でに|ついで に}}.
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words]]
 
