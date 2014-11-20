@@ -4,8 +4,6 @@
 ===Han character===
 {{Han char|rn=46|rad=山|as=04|sn=7|four=|canj=心卜尸山 (PYSU)}}
 
-# [[island]]
-
 ====See also====
 * {{l|mul|sc=Hani|島}}
 * {{l|mul|sc=Hani|嶋}}
@@ -19,18 +17,25 @@
 ----
 
 ==Chinese==
-{{zh-hanzi-box|岛|[[島]]}}
+{{zh-hanzi-box|[[岛]]|[[島]]}}
 
 ===Pronunciation===
 {{zh-pron
 |m=dǎo
+|ma=y
 |c=dou2
-|h=pfs=tó
-|mc=
-|oc=y
-|ma=
+|h=pfs=táu;gd=tau<sup>3</sup>, to<sup>3</sup> [Hailu, Siyan, Meixian]; tau<sup>3</sup>;hpy=dau3
+|mn=tó
+|w=2tau
 |cat=n
 }}
+
+===Noun===
+{{zh-noun}}
+
+# [[island]]
+
+{{zh-cat|Elementary}}
 
 [[fr:岛]]
 [[ko:岛]]
