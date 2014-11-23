@@ -13,18 +13,21 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|梦|[[夢]]}}
 
 ===Pronunciation===
-* {{IPA|/mʊŋ˨/|lang=yue}}
-
-===Hanzi===
-{{yue-hanzi|tra=夢|jyut=mung6|y=mung6}}
-
-# [[dream]]
+{{zh-pron
+|m=mèng
+|c=mung6
+|mc=y
+|oc=y
+|ma=Zh-mèng.ogg
+|cat=n,a
+}}
 
 ===Noun===
-{{yue-noun|s|tra=夢|jyut=mung6|rs=木07}}
+{{zh-noun|s}}
 
 # [[dream]]
 
@@ -37,30 +40,6 @@
 * {{yue-tsj|發夢|发梦|faat3 mung6}}
 * {{yue-tsj|濕夢|湿梦|sap1 mung6}}
 * {{yue-tsj|白日夢|白日梦|baak6 jat6 mung6}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=|rs=木07}}
-
-# {{defn|lang=ja|sort=木07}}
-
-====Readings====
-* {{ja-readings|on=[[む]] ([[mu]])|kun=[[ゆめ]] ([[yume]]), [[くらい]] ([[kurai]]), [[ゆめみる]] ([[yumemiru]])}}
-
-----
-
-==Mandarin==
-
-===Pronunciation===
-* {{audio|Zh-mèng.ogg|Audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|tra=夢|pin=[[mèng]] ([[meng4]])|wg=meng<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=木07}}
 
 ====Compounds====
 * [[梦话]]
@@ -77,6 +56,18 @@
 * [[梦遗]]
 * [[梦呓]]
 * [[梦游症]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[む]] ([[mu]])|kun=[[ゆめ]] ([[yume]]), [[くらい]] ([[kurai]]), [[ゆめみる]] ([[yumemiru]])}}
 
 [[fr:梦]]
 [[ko:梦]]
