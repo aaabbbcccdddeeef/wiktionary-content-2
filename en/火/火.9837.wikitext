@@ -245,11 +245,11 @@ Possibly from {{etyl|sit-pro|zh}} {{m|sit-pro|*mej}}.
 
 ===Etymology 1===
 [[File:Fire.JPG|thumb|250px|{{lang|ja|火}}]]
-From {{etyl|ojp|ja|sort=ひ}}.  /hi<sub>2</sub>/: {{IPAchar|[pɨ]}} > {{IPAchar|[ɸɨ]}} > {{IPAchar|[ɸi]}} > {{IPAchar|[çi]}}. See apophonic form [[火|ho]].
+From {{etyl|ojp|ja|sort=ひ}}.  /hi<sub>2</sub>/: {{IPAchar|[pɨ]}} > {{IPAchar|[ɸɨ]}} > {{IPAchar|[ɸi]}} > {{IPAchar|[çi]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> See apophonic form [[火|ho]].
+{{ja-kanjitab|yomi=k|ひ}}
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[çi]}}
+{{ja-pron|yomi=k|ひ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ひ}}
@@ -259,19 +259,20 @@ From {{etyl|ojp|ja|sort=ひ}}.  /hi<sub>2</sub>/: {{IPAchar|[pɨ]}} > {{IPAchar|
 # [[heat]]
 
 =====Derived terms=====
-* {{l|ja|火遊び|tr=[[ひあそび]], ''[[hi asobi]]''}}: playing with fire
-* {{l|ja|篝火|tr=[[かがりび]], ''[[kagaribi]]''}}: a [[fire]] set in an [[iron]] [[cage]]-like [[bucket]] and used as [[illumination]] by [[guard]]s or [[hunter]]s; a [[capable]] person who gets things done
+* {{ja-r|火遊び|ひ あそび}}: playing with fire
+* {{ja-r|火先|ひさき}}: tip of a flame
+* {{ja-r|篝火|かがりび}}: a [[fire]] set in an [[iron]] [[cage]]-like [[bucket]] and used as [[illumination]] by [[guard]]s or [[hunter]]s; a [[capable]] person who gets things done
 
 =====Idioms=====
-* {{ja-l|火を見るよりも明らか|ひをみるよりもあきらか|hi o miru yori mo akiraka}}: "clearer than seeing the fire" → as [[plain as day]], as [[plain as the nose on one's face]], as [[clear as a bell]]
-* {{ja-l|火蓋を切る|ひぶたをきる|hibuta o kiru}}: "to open the lid on a [[cannon]]'s [[touchhole]]" → to [[prepare]] to [[fire]] a [[cannon]]; to [[fire]] a [[cannon]]; to [[start]] doing something
+* {{ja-r|火を見るよりも明らか|ひ を みる より も あきらか}}: "clearer than seeing the fire" → as [[plain as day]], as [[plain as the nose on one's face]], as [[clear as a bell]]
+* {{ja-r|火蓋を切る|ひぶた を きる}}: "to open the lid on a [[cannon]]'s [[touchhole]]" → to [[prepare]] to [[fire]] a [[cannon]]; to [[fire]] a [[cannon]]; to [[start]] doing something
 
 ===Etymology 2===
-From Old Japanese.  /ho/: {{IPAchar|[po]}} > {{IPAchar|[ɸo]}} > {{IPAchar|[ho]}}. Found in compounds. See apophonic form [[火|hi]].
+{{ja-kanjitab|yomi=k|ほ}}
+From {{etyl|ojp|ja|sort=ほ}}.  /ho/: {{IPAchar|[po]}} > {{IPAchar|[ɸo]}} > {{IPAchar|[ho]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Found in compounds. See apophonic form [[火|hi]].
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[ho̞]}}
+{{ja-pron|yomi=k|ほ}}
 
 ====Noun====
 {{ja-noun|ほ}}
@@ -279,18 +280,20 @@ From Old Japanese.  /ho/: {{IPAchar|[po]}} > {{IPAchar|[ɸo]}} > {{IPAchar|[ho]}
 # a [[fire]]
 
 =====Derived terms=====
-* {{l|ja|火気|tr=ほけ, ''hoke''}}: a [[flame]]; [[heat]]; [[smoke]]
-* {{l|ja|炎}}, {{l|ja|焔|tr=ほむら, ''[[homura]]''}}: [[flames]]; [[metaphorical]] flames, [[connote|connoting]] strong emotions such as [[anger]] or [[jealousy]], or such as [[ambition]] or [[passion]]
-* {{l|ja|炎|tr=ほのお, ''honoo''}}: a [[flame]]
-* {{l|ja|火照る|tr=ほてる, ''hoteru''}}: to [[feel]] [[hot]] or [[flushed]]
-* {{l|ja|火先|tr=ほさき、ひさき, "hosaki", "hisaki"}}: tip of a flame
+{{der-top}}
+* {{ja-r|火気|ほけ}}: a [[flame]]; [[heat]]; [[smoke]]
+* {{ja-l|炎}}, {{ja-r|焔|ほむら}}: [[flames]]; [[metaphorical]] flames, [[connote|connoting]] strong emotions such as [[anger]] or [[jealousy]], or such as [[ambition]] or [[passion]]
+* {{ja|炎|ほのお}}: a [[flame]]
+* {{ja-r|火照る|ほてる}}: to [[feel]] [[hot]] or [[flushed]]
+* {{ja-r|火先|ほさき}}: tip of a flame
+{{der-bottom}}
 
 ===Etymology 3===
-From Old Japanese.  Ancient dialect form in eastern Japan.  Found in compounds.
+{{ja-kanjitab|yomi=k|ふ}}
+From {{etyl|ojp|ja|sort=ふ}}.  Ancient dialect form in eastern Japan.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Found in compounds.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[ɸu͍]}}
+{{ja-pron|yomi=k|ふ}}
 
 ====Noun====
 {{ja-noun|ふ}}
@@ -298,45 +301,44 @@ From Old Japanese.  Ancient dialect form in eastern Japan.  Found in compounds.
 # a [[fire]]
 
 =====Derived terms=====
-* {{l|ja|葦火|tr=[[あしふ]], ''[[ashifu]]''}}: ancient eastern Japanese dialect reading for {{l|ja|葦火|tr=''ashibi''}}: a fire using dried [[reed]]s as [[kindling]] or [[fuel]]
+* {{ja-r|葦火|あしふ}}: ancient eastern Japanese dialect reading for {{l|ja|葦火|tr=''ashibi''}}: a fire using dried [[reed]]s as [[kindling]] or [[fuel]]
 
 ===Etymology 4===
 {| style="float:right;padding:0px;margin-right:-5px;"
 | [[File:Wuxing_en.svg|thumb|none|118px|{{lang|ja|火（か）}}: [[fire]] in the [[w:Wu Xing|Wu Xing]] system]]
 | [[File:Scorpius_constellation_map.svg|thumb|none|118px|{{lang|ja|火（か）}}: [[Antares]] in the [[Scorpio]] constellation]]
 |}
-From {{etyl|ltc|ja|sort=か}} {{term|sc=Hani|火}}.
+{{ja-kanjitab|yomi=o|か}}
+From {{etyl|ltc|ja|sort=か}} {{term|lang=zh|火|tr=xwa<sup>X</sup>}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-* [[音読み|On'yomi]], specifically [[漢音|kan'on]]
-* {{IPA|lang=ja|[ka̠]}}
+{{ja-pron|yomi=kanon|か|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|か|hhira=くゎ}}
+{{ja-noun|か|hhira=くわ}}
 
 # [[fire]]
 # one of the [[five]] [[classical]] [[elements]] in traditional Chinese [[philosophy]] and [[medicine]]: see the [[w:Wu Xing|"Wu Xing" entry on Wikipedia]]
 # under the old [[w:Ritsuryō|Ritsuryō]] system of ancient Japan, a [[military]] [[grouping]], consisting of 10 soldiers: a [[squad]]
 
 =====Idioms=====
-* {{ja-l|火中の栗を拾う|かちゅうのくりをひろう|kachū no kuri o hirou}}: “to pick chestnuts out of a fire” → to take a [[risk]]
+* {{ja-r|火中の栗を拾う|かちゅう の くり を ひろう}}: “to pick chestnuts out of a fire” → to take a [[risk]]
 
 =====Synonyms=====
-* {{sense|squad}} {{qualifier|modern Japanese}} {{l|ja|分隊|tr=[[ぶんたい]], ''[[buntai]]''}}
+* {{sense|squad}} {{qualifier|modern Japanese}} {{ja-r|分隊|ぶんたい}}
 
 ====Proper noun====
-{{ja-pos|か|proper|hhira=くゎ}}
+{{ja-pos|か|proper|hhira=くわ}}
 
 # [[Tuesday]]
 # [[Antares]], in the [[constellation]] [[Scorpio]]
 
 =====Synonyms=====
-* {{sense|Tuesday}} {{l|ja|火曜|tr=[[かよう]], ''[[Kayō]]''}}, {{l|ja|火曜日|tr=[[かようび]], ''[[Kayōbi]]''}}
-* {{sense|Antares}} {{l|ja|アンタレス|tr=''[[Antaresu]]''}}
+* {{sense|Tuesday}} {{ja-r|火曜|^かよう}}, {{ja-r|火曜日|^かようび}}
+* {{sense|Antares}} {{ja-l|アンタレス|^アンタレス}}
 
 ===References===
-* {{reference-book | title = Kokugo Dai Jiten Dictionary | year = 1988 | edition = Revised edition | publisher = Shogakukan | location = Tokyo | language = Japanese }}
-* {{reference-book | title = Digital Daijisen  | editor = Akira Matsumura | url = http://kotobank.jp/word/%E9%85%92 | accessdate = 2012-06-07 | year = 1997 | publisher = Shogakukan | location = Tokyo | language = Japanese | isbn = 4099068625 }}
+<references/>
 
 [[Category:1000 Japanese basic words|ひ]]
 [[Category:ja:Fire]]
