@@ -27,23 +27,27 @@ Composed of [[犬]] (radical [[animal]]) and [[瓜]], suggesting [[孤]] ([[soli
 ===Kanji===
 {{ja-kanji|rs=犬05|grade=uc}}
 
-# a [[fox]]
-
 ====Readings====
 {{ja-readings
+|goon=[[ぐ]] (gu), [[ご]] (go)
 |kanon=[[こ]] (ko)
 |kun=[[きつね]] (kitsune)
 }}
 
 ====Compounds====
-* [[雄狐]] ([[おすきつね]], ''[[osukitsune]]''): a [[male]] fox
-* [[雌狐]] ([[めすきつね]], ''[[mesukitsune]]''): a [[female]] fox; a [[vixen]]
-* {{l|ja|妖狐|tr=[[ようこ]], ''[[yōko]]''}}: a [[demon]] [[fox]] (a [[kitsune]])
-* {{l|ja|天狐|tr=[[てんこ]], ''[[tenko]]''}}: a [[celestial]] fox
-* {{l|ja|善狐|tr=[[ぜんこ]], ''[[zenko]]''}}: a [[good]] [[fox]]
-* {{l|ja|野狐|tr=[[やこ]], ''[[yako]]'', のぎつね, ''nogitsune''}}: [[field]] or [[wild]] foxes
-* {{l|ja|狐火|tr=[[きつねび]], ''[[kitsunebi]]''}}: [[will o' the wisp]], [[foxfire]]
-* {{l|ja|北狐|tr=[[キタキツネ]], ''[[kitakitsune]]''}}
+{{der-top|Compounds}}
+* {{ja-r|妖狐|ようこ}}: a [[demon]] [[fox]]
+* {{ja-r|天狐|てんこ}}: a [[celestial]] fox
+* {{ja-r|善狐|ぜんこ}}: a [[good]] [[fox]]
+* {{ja-r|野狐|やこ}}: [[field]] or [[wild]] foxes
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|きつね}}
+Various theories.  The most likely is based on the root form ''kitsu'', which may have originally been [[onomatopoeic]] for the sound of a fox's cry.<ref>'''1937''': ''Daigenkai'' (in Japanese).  Reissued in 1984.  ISBN 4-572-00062-X</ref>  The final ''ne'' syllable appeared for certain by the [[w:Heian period|Heian period]],<ref name="sasama">'''1998''': {{lang|ja|『怪異・きつね百物語』}} (''Yōkai: Kitsune Hyaku Monogatari'', “Phantoms: 100 Fox Tales”; in Japanese).  Yoshihiko Sasama.  ISBN 4-639-01544-5</ref> but the meaning of the ''ne'' portion remains unclear.
+
+===Pronunciation===
+{{ja-pron|yomi=k|きつね|acc=0|acc_ref=DJR|a=Kitsune.ogg}}
 
 ===Noun===
 {{ja-noun|きつね|キツネ}}
@@ -52,18 +56,26 @@ Composed of [[犬]] (radical [[animal]]) and [[瓜]], suggesting [[孤]] ([[soli
 #* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
 #*: 狐狼 上扈反, 倭言'''岐都禰''', 又狐諼獸鬼所乘有三徳, 狐疑不定也, 狼音良, 訓, 似犬也, 倭言大神也
 
-====Pronunciation====
-* {{audio|Kitsune.ogg|狐|lang=ja}}
+====Usage notes====
+{{U:ja:biology|キツネ}}
 
 ====Synonyms====
-* {{l|ja|フォックス|tr=''[[fokkusu]]''}}
+* {{ja-r|フォックス}}
 
 ====Derived terms====
-* {{l|ja|狐憑き}}, {{l|ja|狐付き|tr=[[きつねつき]], ''[[kitsunetsuki]]''}}: possession by a [[kitsune]]
-* {{l|ja|狐の嫁入り|tr=[[きつねのよめいり]], kitsune no yomeiri||sun shower}}
+{{der-top}}
+* {{ja-r|狐憑き|きつねつき}}: possession by a [[kitsune]]
+* {{ja-r|狐の嫁入り|きつね の よめいり}}: a sun shower
+* {{ja-r|狐火|きつねび}}: [[will o' the wisp]], [[foxfire]]
+* {{ja-r|雄狐|おすぎつね}}: a [[male]] fox
+* {{ja-r|北狐|きたきつね}}: {{taxlink|Vulpes vulpes schrenckii|species}}, the {{vern|northern fox}} of Japan and Sakhalin
+* {{ja-r|野狐|のぎつね}}: [[field]] or [[wild]] foxes
+* {{ja-r|雌狐|めすぎつね}}: a [[female]] fox, a [[vixen]]
+{{der-bottom}}
 
 ===References===
-* {{R:Nara Ibun 3}}
+<references/>
+:* {{R:Nara Ibun 3}}
 
 [[Category:ja:Foxes|きつね]]
 
