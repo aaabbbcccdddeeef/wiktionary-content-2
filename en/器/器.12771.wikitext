@@ -9,67 +9,28 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=13|sn=16|four=6666<sub>3</sub>|canj=口口戈大口 (RRIKR)|ids=⿱[[哭]][[吅]]}}
 
-# [[receptacle]], [[vessel]]
-# [[instrument]]
-
 ====References====
 * {{Han ref|kx=0210.020|dkj=04349|dj=0432.260|hdz=10690.070|uh=5668|ud=22120|bh=BEB9|bd=48825}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=hei3|y=hei3}}
+===Pronunciation===
+{{zh-pron
+|m=qì
+|ma=y
+|c=hei3
+|h=pfs=khí
+|mn=khì
+|w=2qi
+|mc=y
+|oc=y
+|cat=n,v
+}}
 
-# {{defn|lang=yue|sort=口13}}
-
-----
-
-==Japanese==
-[[File:RYAKUJI ki.png|thumb|right|100px|{{w|Ryakuji}} for 器.]]
-
-===Kanji===
-{{ja-kanji|grade=4|rs=口13}}
-
-====Readings====
-* {{ja-readings|on=[[き]] (ki)|kun=[[うつわ]] (utsuwa)}}
-
-====Usage notes====
-Often used interchangeably with {{term|機|||tr=[[き]], [[ki]]|lang=ja}} – with same reading き, ''ki'' – in compounds to indicate “machine”, with the subtlety that 器 implies a smaller device, say hand-held, while 機 implies a larger machine, such as an airplane. Compare {{term|食器||tableware|tr=[[しょっき]], [[shokki]]|lang=ja}} with {{term|飛行機||airplane|tr=[[ひこうき]], [[hikōki]]|lang=ja}}
-
-===Noun===
-{{ja-noun|うつわ}} 
-
-# [[container]], [[vessel]]
-# [[talent]], [[caliber]]
-
-===Suffix===
-{{ja-pos|き|suffix}}
-
-# device, instrument
-# container
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
-
-# {{defn|lang=ko|sort=口13}}
-
-----
-
-==Mandarin==
-{{zh-hanzi-box|器}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[qì]] ([[qi4]])|wg=ch'i<sup>4</sup>}}
-
-===Noun===
-{{cmn-noun|ts|pin=qì|pint=qi4}}
-
+===Definitions===
 # [[device]]; [[tool]]; [[utensil]]; [[ware]]
 #: {{l|zh|器具|tr=qìjù}}
 # {{context|medicine|lang=zh}} [[organ]]
@@ -78,11 +39,7 @@ Often used interchangeably with {{term|機|||tr=[[き]], [[ki]]|lang=ja}} – wi
 #: {{l|zh|器量|tr=qìliàng}}
 # [[talent]]; [[ability]]
 #: {{l|zh|大器晚成|tr=dàqìwǎnchéng}}
-
-===Verb===
-{{cmn-verb|ts|pin=qì|pint=qi4}}
-
-# {{context|literary|lang=zh}} to [[think]] [[highly]] of
+# {{cx|literary|lang=zh}} to [[think]] [[highly]] of
 #: {{l|zh|器重|tr=qìzhòng}}
 
 ====Compounds====
@@ -117,14 +74,42 @@ Often used interchangeably with {{term|機|||tr=[[き]], [[ki]]|lang=ja}} – wi
 * {{l|cmn|儀器|sc=Hani}}, {{l|zh|仪器|tr=yíqì}}
 {{der-bottom}}
 
+{{zh-cat|Advanced}}
+
 ----
 
-==Middle Chinese==
+==Japanese==
+[[File:RYAKUJI ki.png|thumb|right|100px|{{w|Ryakuji}} for 器.]]
 
-===Han character===
-'''器''' ([[kyì]])<!--asterisk indicates that this is a reconstructed pronunciation-->
+===Kanji===
+{{ja-kanji|grade=4|rs=口13}}
 
-# {{defn|lang=ltc|sort=口13}}
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[うつわ]] (utsuwa)}}
+
+====Usage notes====
+Often used interchangeably with {{term|機|||tr=[[き]], [[ki]]|lang=ja}} – with same reading き, ''ki'' – in compounds to indicate “machine”, with the subtlety that 器 implies a smaller device, say hand-held, while 機 implies a larger machine, such as an airplane. Compare {{term|食器||tableware|tr=[[しょっき]], [[shokki]]|lang=ja}} with {{term|飛行機||airplane|tr=[[ひこうき]], [[hikōki]]|lang=ja}}
+
+===Noun===
+{{ja-noun|うつわ}} 
+
+# [[container]], [[vessel]]
+# [[talent]], [[caliber]]
+
+===Suffix===
+{{ja-pos|き|suffix}}
+
+# device, instrument
+# container
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|mr=ki}}
+
+# {{defn|lang=ko|sort=口13}}
 
 ----
 
