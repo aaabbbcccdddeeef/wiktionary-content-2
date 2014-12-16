@@ -20,12 +20,63 @@ Originally a variant of [[幺]]. This eventually gave rise to the compound [[麽
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|么/[[幺]]|么/[[麼]]/[[麽]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=mo1|}}
+===Pronunciation===
+{{zh-pron
+|m=me,ma,má,yāo,mó
+|c=mo1,jiu1
+|mc=y
+|oc=y
+|ma=
+|cat=part,n,a
+}}
 
-# {{defn|lang=yue|sort=丿02}}
+===Particle===
+{{zh-particle|s|tra=[[麼]] or [[麽]]|pin=me|pint=me5|sort=丿02}}
+
+# interrogative suffix
+#: [[什么]] what
+#: [[为什么]] why
+#: [[怎么]] how
+
+===Particle===
+{{zh-particle|s|tra=[[麼]] or [[麽]]|pin=ma|pint=ma5|sort=丿02}}
+
+# [[interrogative]] final particule
+#: 你记得我'''么'''? nǐ jìde wǒ '''ma'''?
+#:: Do you remember me?
+
+===Particle===
+{{cmn-particle|s|tra=[[麼]] or [[麽]]|pin=má|pint=ma2|sort=丿02}}
+
+# [[exclamatory]] final particle
+
+===Adjective===
+{{zh-adj|t|sim=幺|pin=yāo|pint=yao1|sort=丿02}}
+
+# [[youngest]]
+#: [[老么]] informal manner of referring to the last (youngest) child in a family
+
+===Noun===
+{{zh-noun|t|sim=幺|pint=yao1|sort=丿02}}
+
+# [[one]] (when spelling number on phone or in military)
+# [[ace]], [[one]] on [[dice]] or [[dominoes]]
+
+===Proper noun===
+{{zh-proper noun|t|sim=幺|pin=yāo|pint=yao1|sort=丿02}}
+
+# {{surname|lang=cmn}}
+
+===References===
+* {{cite web
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=么
+| title = 么
+| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+| language = Mandarin/English
+| accessdate = 2014-02-14}}
 
 ----
 
@@ -47,64 +98,6 @@ Originally a variant of [[幺]]. This eventually gave rise to the compound [[麽
 {{ko-hanja|hangeul=요|rv=yo|mr=yo}}
 
 # {{defn|lang=ko|sort=丿02}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=幺|pin=[[ma]] ([[ma5]]), [[me]] ([[me5]]), [[mǒ]] ([[mo3]]), [[mo]] ([[mo5]]), [[yāo]] ([[yao1]])|wg=ma<sup>5</sup>, *me<sup>5</sup>, mo<sup>3</sup>, mo<sup>5</sup>, yao<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=丿02}}
-
-===Particle===
-{{cmn-particle|s|tra=[[麼]] or [[麽]]|pin=me|pint=me5|sort=丿02}}
-
-# interrogative suffix
-#: [[什么]] what
-#: [[为什么]] why
-#: [[怎么]] how
-
-----
-===Particle===
-{{cmn-particle|s|tra=[[麼]] or [[麽]]|pin=ma|pint=ma5|sort=丿02}}
-
-# [[interrogative]] final particule
-#: 你记得我'''么'''? nǐ jìde wǒ '''ma'''?
-#:: Do you remember me?
-
-----
-===Particle===
-{{cmn-particle|s|tra=[[麼]] or [[麽]]|pin=má|pint=ma2|sort=丿02}}
-
-# [[exclamatory]] final particule
-
-----
-
-===Adjective===
-{{cmn-adj|t|sim=幺|pin=yāo|pint=yao1|sort=丿02}}
-
-# [[youngest]]
-#: [[老么]] informal manner of referring to the last (youngest) child in a family
-
-===Noun===
-{{cmn-noun|t|sim=幺|pint=yao1|sort=丿02}}
-
-# [[one]] (when spelling number on phone or in military)
-# [[ace]], [[one]] on [[dice]] or [[dominoes]]
-
-===Proper noun===
-{{cmn-proper noun|t|sim=幺|pin=yāo|pint=yao1|sort=丿02}}
-
-# {{surname|lang=cmn}}
-
-===References===
-* {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=么
-| title = 么
-| work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-| language = Mandarin/English
-| accessdate = 2014-02-14}}
 
 [[zh-min-nan:么]]
 [[da:么]]
