@@ -12,74 +12,21 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=|y=[[choi4]]}}
-
-# {{defn|lang=yue|sort=手00}}
-
-----
-
-==Hakka==
-
-===Hanzi===
-{{hak-hanzi|poj=[[tshôi]] (tshoi<sup>5</sup>)|gd=|hpy=coi2}}
-
-# {{defn|lang=hak|sort=手00}}
-
-====References====
-*[http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=51170&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-*Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=2|rs=手00}}
-
-# {{defn|lang=ja|sort=手00}}
-
-====Readings====
-* {{ja-readings
-|goon=[[ざい]] (zai) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kanon=[[さい]] (sai)
-|kun=[[わずかに]] (wazukani), [[ざえ]] (zae)}}
-
-====Compounds====
-* [[才覚]]
-* [[才気]]
-* [[才能]]
-* {{term|漫才||a style of [[w:double act|double act]] [[stand-up comedy]]|tr=まんざい, manzai|sc=Jpan|lang=ja}}
-
-===Noun===
-{{ja-noun|k|hira=さい|rom=sai}}
-
-# ability, talent, aptitude
-
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 才]]
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[재]]|eumhun=재주|rv=jae|mr=chae|y=cay}}
-
-# {{defn|lang=ko|sort=手00}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[才]]}}
 
 ===Pronunciation===
-* {{audio|zh-cái.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[cái]] ([[cai2]])|wg=[[ts'ai2|ts'ai<sup>2</sup>]]}}
-
-# {{defn|lang=cmn|sort=手00}}
+{{zh-pron
+|m=cái
+|c=coi4
+|h=pfs=tshôi;hpy=coi2
+|mn=
+|w=
+|mc=y
+|oc=y
+|ma=zh-cái.ogg
+|cat=n,adv
+}}
 
 ====Compounds====
 * [[才德兼备]]
@@ -115,16 +62,47 @@
 * [[才智]]
 * [[才子]]
 
-[[Category:Mandarin entries with audio links]]
+====References====
+*(''Hakka'') [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=51170&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+*(''Hakka'') Lau, Chun-fat. ''Hakka Pinyin Dictionary'' (Chinese). [[Hong Kong]]: [[w:Chinese University of Hong Kong|The Chinese University Press]], 1997 <small>(Chinese IME supplement)</small> ISBN 962-201-750-9.
 
 ----
 
-==Middle Chinese==	
+==Japanese==
 
-===Han character===
-'''才''' (*dzhəi)<!--asterisk indicates that this is a reconstructed pronunciation-->
+===Kanji===
+{{ja-kanji|grade=2|rs=手00}}
 
-# {{defn|lang=ltc|sort=手00}}
+# {{defn|lang=ja|sort=手00}}
+
+====Readings====
+* {{ja-readings
+|goon=[[ざい]] (zai) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[さい]] (sai)
+|kun=[[わずかに]] (wazukani), [[ざえ]] (zae)}}
+
+====Compounds====
+* [[才覚]]
+* [[才気]]
+* [[才能]]
+* {{term|漫才||a style of [[w:double act|double act]] [[stand-up comedy]]|tr=まんざい, manzai|sc=Jpan|lang=ja}}
+
+===Noun===
+{{ja-noun|k|hira=さい|rom=sai}}
+
+# ability, talent, aptitude
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 才]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[재]]|eumhun=재주|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=手00}}
 
 ----
 
