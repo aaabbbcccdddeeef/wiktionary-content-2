@@ -1,8 +1,5 @@
-{{also|亁|干}}<!-- may be replaced by zh-forms -->
+{{also|亁|干}}
 ==Translingual==
-
-===Etymology===
-{{Han compound|倝|乙|c1=p|c2=s|ls=psc}}
 
 ===Han character===
 {{Han char|rn=5|rad=乙|as=10|sn=11|four=48417|canj=JJON|ids=⿸⿰𠦝𠂉乙}}
@@ -13,35 +10,65 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=干|s2=乾}}
+
+===Glyph origin===
+{{Han compound|倝|乙|c1=p|c2=s|ls=psc}}
+
+===Etymology 1===
+{{zh-forms|s=干}}
+
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*kan||dry, dry up}}.
 
 ===Pronunciation===
 {{zh-pron
-|m=gān,qián
-|ma=
-|c=gon1,kin4
+|m=gān
+|ma=y
+|c=gon1
 |h=pfs=kôn
-|mn=kan
+|mn=kan/koaⁿ
 |w=1koe
-|mc=y
-|oc=y
-|cat=n,a,adv,pn
+|mc=1
+|oc=1,1
+|cat=a,adv
 }}
 
 ===Definitions===
+{{zh-hanzi}}
+
 # [[dry]]
 #: {{zh-usex|我 喉嚨 很 '''乾'''。|My throat feels '''dry'''.|link=y}}
 # [[clean]]
-#: {{zh-usex|乾淨|clean|link=y}}
+#: {{zh-l|乾淨|clean}}
 # [[adoptive]]; [[foster]]
 # [[in vain]]; for nothing
-# {{surname|lang=zh}}
-# one of the Eight [[trigram|Trigrams]] (=qián, [[Simplified Chinese|simp.]] = [[Traditional Chinese|trad.]] 乾)
-#: {{zh-usex|乾[乾]{qián}道|ways of heaven; natural law|link=y}}
 
-===Compounds===
-* {{zh-l|乾淨/干净}}
-* {{zh-l|乾酪/干酪}}
+====Compounds====
+{{der3
+| {{zh-l|乾燥}}
+| {{zh-l|乾淨}}
+| {{zh-l|乾酪}}
+}}
+
+===Etymology 2===
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qián
+|ma=y
+|c=kin4
+|mn=khiân
+|mc=2
+|oc=2,2
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+# One of the Eight [[trigram|Trigrams]].
+#: {{zh-l|*乾道|ways of heaven; natural law}}
 
 ----
 
