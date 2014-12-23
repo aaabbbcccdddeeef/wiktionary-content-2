@@ -47,16 +47,18 @@ Note the compositional differences between traditional, simplified, and Japanese
 {{ja-readings
 |goon=[[にん]] (nin)
 |kanon=[[じん]] (jin)
-|kun=[[は]] (ha), [[な]] (na), [[やいば]] (yaiba), {{qualifier|rare}} [[きる|き-る]] (ki-ru)
+|kun=[[は]] (ha), {{qualifier|obsolete}} [[な]] (na), [[やいば]] (yaiba), {{qualifier|rare}} [[きる|き-る]] (ki-ru)
 |nanori=[[ち]] (chi), [[と]] (to)
 }}
 
 ===Etymology 1===
-From {{etyl|ojp|ja|sort=な}}.  Likely [[cognate]] with {{etyl|ko|-}} {{term|lang=ko|날||blade}}.
+{{ja-kanjitab|yomi=k|な}}
+From {{etyl|ojp|ja|sort=な}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Possibly [[cognate]] with {{etyl|ko|-}} {{m|ko|날||blade}}.
+
+Obsolete in modern Japanese.  Only found as an element in compounds.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/na/|[nä]}}
+{{ja-pron|yomi=k|な}}
 
 ====Noun====
 {{ja-noun|な}}
@@ -71,31 +73,31 @@ From {{etyl|ojp|ja|sort=な}}.  Likely [[cognate]] with {{etyl|ko|-}} {{term|lan
 * {{ja-r|刀|かたな}}
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=は}}, cognate with {{term|lang=ja|歯|tr=ha||tooth}}.
+{{ja-kanjitab|yomi=k|は}}
+From {{etyl|ojp|ja|sort=は}}, cognate with {{term|lang=ja|歯|tr=ha||tooth}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/ha/|[hä]}}
+{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|k|hira=は|rom=ha}}
+{{ja-noun|は}}
 
 # an [[edge]], a [[blade]]
 
 =====Derived terms=====
-* {{lang|ja|刃}} ([[やいば]], ''[[yaiba#Japanese|yaiba]]''): a [[sword]], a [[blade]], particularly one that has been [[forged]]
+* {{lang|ja|刃}} (''yaiba''): a [[sword]], a [[blade]], particularly one that has been [[forged]]: see below
 
 ===Etymology 3===
-Originally a compound of {{compound|lang=ja|sort=やいば|焼き|tr1=yaki|t1=burned, fired|刃|tr2=ha|t2=edge, blade}}.  The ''ha'' changes to ''ba'' due to {{rendaku|やいば}}.
+{{ja-kanjitab|yomi=k|やいば}}
+Originally a compound of {{compound|lang=ja|sort=やいば|焼き|tr1=yaki|t1=burned, fired|刃|tr2=ha|t2=edge, blade}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  {{rendaku2|sort=やいば|ha|ba}}
 
-{{IPAchar|/jaki/}} + {{IPAchar|/ha/}} > {{IPAchar|/jakiba/}} > {{IPAchar|/jaiba/}}
+{{IPAchar|/jaki/}} + {{IPAchar|/ha/}} → {{IPAchar|/jakiba/}} → {{IPAchar|/jaiba/}}
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/ja.i.ba/|[jäibä]}}
+{{ja-pron|yomi=k|やいば|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
 ====Noun====
-{{ja-noun|k|hira=やいば|rom=yaiba}}
+{{ja-noun|やいば}}
 
 # a [[forged]] [[blade]], such as a [[sword]]
 # the [[wavy]] pattern formed in the [[metal]] on the surface of a forged blade
@@ -103,8 +105,31 @@ Originally a compound of {{compound|lang=ja|sort=やいば|焼き|tr1=yaki|t1=bu
 # something [[sharp]] like a [[sword]]
 # someone or something [[powerful]]
 
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|刃は切れるが重宝|やいば は きれる が ちょうほう}}: “for a blade, cutting [sharpness] is precious” → the highest value of a tool is its ability to do what it is designed for
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|じん}}
+From {{etyl|ltc|ja|sort=じん}} {{m|zh|刃|tr=nyin<sup>H</sup>||edge of a blade}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|じん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じん}}
+
+# a [[blade]], a [[sword]]
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|刃を迎えて解く|じん を むかえて とく}}: “to fall before the blade” → a metaphor for extreme strength or power
+{{der-bottom}}
+
 ===References===
-* {{R:Man'yōshū 1}}
+<references/>
+:* {{R:Man'yōshū 1}}
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 刃]]
