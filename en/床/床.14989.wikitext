@@ -32,72 +32,78 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[しょう]] (''shō''), (''historical'') [[しゃう]] (''shau'')
-|kun=[[ゆか]] (''yuka''), [[とこ]] (''toko''), [[ゆかしい]] ([[床しい]], ''yukashii'')
+|goon=[[じょう]] (jō) {{non-joyo-reading}}, (''historical'') [[じやう]] (jau)
+|kanon=[[そう]] (sō) {{non-joyo-reading}}, (''historical'') [[さう]] (sau)
+|kanyoon=[[しょう]] (shō), (''historical'') [[しやう]] (shau)
+|kun=[[ゆか]] (yuka), [[とこ]] (toko), [[ゆかしい|ゆか.しい]] (yuka.shii)
 }}
 
-====Alternative forms====
-* {{l|ja|牀}}
-
 ===Etymology 1===
-Attested in the {{l|ja|日本書紀|tr=''Nihon Shoki''}}, completed in 720 and one of the earliest works written in Japanese (see [[Wikipedia:Nihon Shoki]]), with a meaning of {{term|lang=en|bed}}.
+{{ja-kanjitab|yomi=k|ゆか}}
+From {{etyl|ojp|ja|sort=ゆか}}.  Attested in the {{m|ja|日本書紀|tr=Nihon Shoki}}, completed in 720 and one of the earliest works written in Japanese (see [[Wikipedia:Nihon Shoki]]), with a meaning of {{m|en|bed}}.
 
-According to the {{lang|ja|和句解}} (''Wakuge''), published in 1668 by early Edo-period scholar Matsunaga Teitoku ({{lang|ja|松永貞徳}}; see [[Wikipedia:ja:松永貞徳]]), derives from ゆか (''yuka'') as the {{term|lang=ja|未然形|tr=''[[mizenkei]]''||[[irrealis]] form}} stem of the verb {{term|lang=ja|行く|tr=yuku||to go}} of an original meaning similar to "not going", in reference to a place where one sits down to rest.
+According to the {{lang|ja|和句解}} (''Wakuge''), published in 1668 by early Edo-period scholar Matsunaga Teitoku ({{lang|ja|松永貞徳}}; see [[Wikipedia:ja:松永貞徳]]), derives from ゆか (''yuka'') as the {{m|ja|未然形|tr=[[mizenkei]]||[[irrealis]] form}} stem of the verb {{m|ja|行く|tr=yuku||to go}} of an original meaning similar to "not going", in reference to a place where one sits down to rest.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[jɯᵝka̠]}}
+{{ja-pron|yomi=k|ゆか|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ゆか}}
 
-# The [[floor]] (the bottom surface of a room).
-# A [[bed]].
-# {{context|theater|lang=ja|sort=ゆか}} A raised area of a [[stage]] where a [[presenter]] or [[musician]] sits.
-# A raised [[platform]] erected along the Kamo River in Kyōto in summer, used as an outdoor [[tea]] shop or [[restaurant]].
+# the [[floor]] (the bottom surface of a room)
+# a [[bed]]
+# {{context|lang=ja|sort=ゆか|theater}} a raised area of a [[stage]] where a [[presenter]] or [[musician]] sits
+# a raised [[platform]] erected along the Kamo River in Kyōto in summer, used as an outdoor [[tea]] shop or [[restaurant]]
 
 =====Antonyms=====
-* {{sense|floor}} {{l|ja|天井|tr=[[てんじょう]], ''[[tenjō]]''}}: [[ceiling]]
+* {{sense|floor}} {{ja-r|天井|てんじょう}}: [[ceiling]]
 
 =====Coordinate terms=====
-* {{sense|floor}} {{l|ja|壁|tr=[[かべ]], ''[[kabe]]''}}: [[wall]]
+* {{sense|floor}} {{ja-r|壁|かべ}}: [[wall]]
 
 ===Etymology 2===
-Shared origin with {{l|ja|所}} ({{l|ja|ところ}}, ''tokoro''), "place".  Attested since at least the Nara period, appearing in the {{l|ja|万葉集|tr=''Man'yōshū''}}, completed in 759 (see [[Wikipedia:Man'yōshū]]).
+{{ja-kanjitab|yomi=k|とこ}}
+From {{etyl|ojp|ja|sort=とこ}}.  Cognate with {{m|ja|所|tr=tokoro||place}}.  Attested since at least the Nara period, appearing in the {{m|ja|万葉集|tr=Man'yōshū}}, completed in 759 (see [[Wikipedia:Man'yōshū]]).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[to̞ko̞]}}
+{{ja-pron|yomi=k|とこ|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|とこ}}
 
-# A [[raised]] [[platform]] roughly 30cm tall used in dirt-floored rooms as a [[seat]].
-# A raised area on which to sleep: a [[bed]].
-# The [[floor]].
-# [[tatami|Tatami]] mats.
-# The seat of an [[oxcart]].
-# Short for {{l|ja|床間}} / {{l|ja|床の間|tr=''toko no ma''}}: An [[alcove]] with a raised floor along one wall of a traditional Japanese living room.
-# An alcove with a raised floor used as a [[study]]: see {{l|ja|付書院|tr=''tsukeshoin''}}.
-# A [[box seat]], such as at a [[parade]], [[theater]], or [[stadium]].
-# Short for {{l|ja|床店|tr=''tokomise''}}: A [[stall]] with a raised floor used as a store.
-# Short for {{l|ja|床屋|tr=''tokoya''}}: A [[barbershop]], from how such shops were historically often ''tokomise''.
-# Short for {{l|ja|床船梁|tr=''tokofunabari''}}, {{l|ja|舵床|tr=''kajidoko''}}: The large [[wooden]] [[beam]] at the very [[aft]] of a traditional [[wood]]-[[hulled]] Japanese [[ship]], upon which the [[rudder]] is seated.
-# The [[heel]] of a [[plough]]; the part of the bottom of a plough that touches the ground and guides the [[ploughshare]].
-# Short for {{l|ja|苗床|tr=''naedoko''}}: A [[seedbed]].
-# Short for {{l|ja|鉄床}}, {{l|ja|金床|tr=''kanatoko''}}: An [[anvil]].
+# a [[raised]] [[platform]] roughly 30cm tall used in dirt-floored rooms as a [[seat]]
+# a raised area on which to sleep: a [[bed]]
+# the [[floor]]
+# [[tatami]] mats
+# the seat of an [[oxcart]]
+# short for {{m|ja|床間}} / {{m|ja|床の間|tr=toko no ma}}: an [[alcove]] with a raised floor along one wall of a traditional Japanese living room
+# an alcove with a raised floor used as a [[study]]: see {{m|ja|付書院|tr=tsuke shoin}}
+# a [[box seat]], such as at a [[parade]], [[theater]], or [[stadium]]
+# short for {{m|ja|床店|tr=tokomise}}: a [[stall]] with a raised floor used as a store
+# short for {{m|ja|床屋|tr=tokoya}}: a [[barbershop]], from how such shops were historically often ''tokomise''
+# short for {{m|ja|床船梁|tr=toko funabari}}, {{m|ja|舵床|tr=kajidoko}}: the large [[wooden]] [[beam]] at the very [[aft]] of a traditional [[wood]]-[[hulled]] Japanese [[ship]], upon which the [[rudder]] is seated
+# the [[heel]] of a [[plough]]; the part of the bottom of a plough that touches the ground and guides the [[ploughshare]]
+# short for {{m|ja|苗床|tr=naedoko}}: a [[seedbed]]
+# short for {{m|ja|鉄床}}, {{m|ja|金床|tr=kanatoko}}: an [[anvil]]
 
 ===Etymology 3===
-From {{etyl|ltc|ja|sort=しょう}}.
+{{ja-kanjitab|yomi=o|しょう}}
+From {{etyl|ltc|ja|sort=しょう}} {{m|zh|床|tr=jrhiɑng}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]], specifically [[呉音|''goon'']]
-* {{IPA|lang=ja|[ɕʲo̞ː]}}
+{{ja-pron|yomi=ky|しょう}}
+
+====Alternative forms====
+* {{l|ja|牀}}
 
 ====Counter====
 {{ja-pos|しょう|counter}}
 
 # [[bed]]s
+
+===References===
+<references/>
+
 ----
 
 ==Korean==
