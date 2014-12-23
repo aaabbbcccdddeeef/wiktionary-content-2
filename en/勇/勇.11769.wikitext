@@ -55,12 +55,18 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=力07}}
 
-# {{defn|lang=ja|sort=力07}}
+# [[courage]]
 
 ====Readings====
-* {{ja-readings|goon=[[ゆ]] (yu), [[ゆう]] (yū)|kanon=[[よう]] (yō)|kun=[[いさましい]] (isamashii), [[いさむ]] (isamu)}}
+{{ja-readings
+|goon=[[ゆ]] (yu), [[ゆう]] (yū)
+|kanon=[[よう]] (yō) {{non-joyo-reading}}
+|kun=[[いさましい|いさ.ましい]] (isa.mashii), [[いさむ|いさ.む]] (isa.mu)
+|nanori=[[いさむ]] (isamu), [[お]] (o), [[はや]] (haya)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * [[勇敢]]
 * [[勇気]]
 * [[勇姿]]
@@ -68,6 +74,7 @@
 * [[勇壮]]
 * [[勇退]]
 * [[勇猛]]
+{{der-bottom}}
 
 ===Proper noun===
 {{ja-pos|いさむ|proper}}
