@@ -4,14 +4,16 @@
 ===Han character===
 {{Han char|rn=86|rad=火|as=12|sn=16|four=9281<sub>8</sub>|canj=火弓人廿 (FNOT)|ids=⿰[[火]][[登]]}}
 
-# [[lantern]], [[lamp]]
-
 ====References====
 * {{Han ref|kx=0682.140|dkj=19402|dj=1094.100|hdz=32238.110|uh=71C8|ud=29128|bh=BF4F|bd=48975}}
 
 ----
+
 ==Chinese==
 {{zh-forms|s=灯}}
+
+===Etymology===
+{{Han compound|火|登|c1=s|c2=p|t1=candlelight|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -19,13 +21,28 @@
 |c=dang1
 |h=pfs=tên
 |mn=teng
+|w=1ten
+|mc=y
+|oc=y
 |cat=n
 }}
 
 ===Noun===
 {{zh-noun}}
 
-# 
+# [[lamp]]
+# [[lantern]]
+
+====Compounds====
+{{der3
+| {{zh-l|燈泡}}
+| {{zh-l|電燈}}
+| {{zh-l|照明燈}}
+| {{zh-l|燈塔}}
+| {{zh-l|燈光}}
+| {{zh-l|燈源}}
+| {{zh-l|日光燈}}
+}}
 
 ----
 
