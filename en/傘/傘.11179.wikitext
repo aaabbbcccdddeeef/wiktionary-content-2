@@ -4,31 +4,35 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=10|sn=12|four=8040<sub>8</sub>|canj=人人人十 (OOOJ)|ids=⿱[[人]]⿻⿰[[仌]]仌[[十]]}}
 
-# [[umbrella]], [[parasol]]
-# [[parachute]]
-
 ====References====
 * {{Han ref|kx=0113.200|dkj=00966|dj=0241.100|hdz=10198.130|uh=5098|ud=20632|bh=B3CA|bd=46026}}
 
 ----
 
 ==Chinese==
-{{zh-hanzi-box|[[伞]]|傘}}
+{{zh-forms|s=伞}}
 
 ===Pronunciation===
 {{zh-pron
 |m=sǎn
 |c=saan3
+|h=pfs=sán,sàn
+|mn=sòaⁿ
+|w=2se
+|ma=y
 |mc=y
 |oc=y
-|ma=
 |cat=n
 }}
 
 ===Noun===
-{{zh-noun|t}}
+{{zh-noun}}
 
-# [[umbrella]]
+# [[umbrella]], [[parasol]]
+#: {{zh-usex|雨傘|umbrella|link=y|in_notes=y}}
+# [[parachute]]
+#: {{zh-usex|跳傘|parachute|link=y|in_notes=y}}
+#: {{zh-usex|降落傘|parachute|link=y|in_notes=y}}
 
 ----
 
@@ -41,6 +45,7 @@
 * {{ja-readings|on=[[さん]] ([[san]])|kun=[[かさ]] ([[kasa]])}}
 
 ====Compounds====
+{{der-top}}
 * {{ja-r|日傘|gloss=parasol|ひがさ}}
 * [[傘屋]]
 * [[傘下]]
@@ -52,6 +57,7 @@
 * [[傘地]]
 * [[傘伐林]]
 * {{ja-r|雨傘|gloss=umbrella|あまがさ}}
+{{der-bottom}}
 
 ===Noun===
 {{ja-noun|かさ|count=本}}
@@ -73,13 +79,13 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[산]]|rv=san|mr=san}}
+{{ko-hanja|hangeul=[[산]]|mr=san}}
 
 # {{defn|lang=ko|sort=人10}}
 
 ====Compounds====
-* [[雨傘]] ([[우산]], usan)
-* [[日傘]] ([[일산]], ilsan)
+* [[雨傘]] ({{ko-l|우산}})
+* [[日傘]] ({{ko-l|일산}})
 
 ----
 
