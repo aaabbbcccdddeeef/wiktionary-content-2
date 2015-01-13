@@ -52,17 +52,50 @@
 
 ====Readings====
 {{ja-readings
-|on=[[こう]] (kō), [[ご]] (go)
-|kun=[[きみ]] (kimi), [[きさき]] (kisaki), [[きさい]] (kisai)
+|goon=[[ぐ]] (gu) {{non-joyo-reading}}
+|kanon=[[こう]] (kō)
+|kanyoon=[[ご]] (go) {{non-joyo-reading}}, [[ごう]] (gō) {{non-joyo-reading}}
+|kun=[[きさき]] (kisaki) {{non-joyo-reading}}, [[きさい]] (kisai) {{non-joyo-reading}}
 }}
 
-===Noun===
-{{ja-noun|きさい|きさき}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|きさき}}
+{{unk.|lang=ja|sort=きさき}}.  Possibly originally a contraction of {{m|ja|君}}{{m|ja|幸|tr=kimi saki|lit=lordly good fortune}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|きさき|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|妃}}, {{ja-l|後宮}}
+
+====Noun====
+{{ja-noun|きさき}}
 
 # [[queen]], [[empress]]
 
-====Synonyms====
-* {{ja-r|妃|きさき}}
+=====Synonyms=====
+* {{sense|queen}}: {{ja-r|王妃|おうひ}}
+* {{sense|empress}}: {{ja-r|皇后|こうごう}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|きさい}}
+{{IPAchar|/kisaki/}} → {{IPAchar|/kisai/}}
+
+Sound shift from ''kisaki'' above.  Appears to be less common in isolation than the ''kisaki'' reading above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|きさい}}
+
+====Alternative forms====
+* {{ja-l|皇后}}
+
+====Noun====
+{{ja-noun|きさい}}
+
+# [[queen]], [[empress]]
+
+===References===
+<references/>
 
 ----
 
