@@ -28,27 +28,21 @@ Two trunks are of the same height.
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-hanzi-box|开|开/[[開]]}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[hoi1]]|y=hoi1|tra=開}}
-
-# {{defn|lang=yue|sort=廾01}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|tra=開|pin=[[kāi]] ([[kai1]])|wg=k'ai<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=廾01}}
-
-====Pronunciation====
-* {{audio|zh-kāi.ogg|audio|lang=cmn}}
+===Pronunciation===
+{{zh-pron
+|m=kāi
+|c=hoi1
+|mc=y
+|oc=y
+|ma=zh-kāi.ogg
+|cat=v
+}}
 
 ====Verb====
-{{cmn-verb|s|tra=開|pin=kāi|pint=kai1}}
+{{zh-verb|s}}
 
 # to [[open]]
 #: {{zh-usex|我 不 能 开 这 个 门。|I can't open the door.}}
@@ -66,7 +60,6 @@ Two trunks are of the same height.
 
 ====Antonyms====
 * {{l|cmn|关}} to close, to switch off
-	
 
 =====Compounds=====
 {{rel-top|Compounds}}
