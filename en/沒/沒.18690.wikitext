@@ -9,9 +9,6 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=04|sn=7|four=3714<sub>7</sub>|canj=水弓水 (ENE)|ids=⿰[[氵]][[𠬛]]}}
 
-# to [[drown]], [[sink]]
-# [[not]], [[have not]], [[none]]
-
 ====Descendants====
 * [[没]]
 
@@ -23,7 +20,37 @@
 ==Chinese==
 {{zh-forms|s=没}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=méi
+|c=mut6
+|h=pfs=mu̍t
+|mn=bo̍at
+|w=5meq
+|ma=y
+|mc=y
+|oc=y
+|cat=v,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# not [[have]]; there is not; to be without
+#: {{zh-usex|這兒{r} 沒 人。|There's nobody here.|link=y}}
+# be not so ... as (when comparing)
+# less than, no more than
+# have not or did not (negative prefix for verbs, translated into other languages with verbs in the past tense)
+# negative prefix for verb {{zh-l|有}}
+
+====See also====
+* {{zh-l|沒有}}
+
+===Etymology 2===
+
+====Pronunciation====
 {{zh-pron
 |m=mò
 |c=mut6
@@ -36,18 +63,11 @@
 |cat=v
 }}
 
-===Verb===
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
-# not [[have]]; there is not; to be without
-#: {{zh-usex|這兒{r} 沒 人。|There's nobody here.|link=y|in_notes=y}}
-# be not so ... as (when comparing)
-# less than, no more than
-# have not or did not (negative prefix for verbs, translated into other languages with verbs in the past tense)
-# negative prefix for verb {{zh-l|有}}
-
-===See also===
-* {{zh-l|沒有}}
+# to [[drown]], to [[sink]]
+#: {{zh-l|淹沒|yānmò|to submerge; to inundate}}
 
 {{zh-cat|Beginning}}
 
@@ -68,29 +88,9 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=몰|eumhun=|rv=mol|mr=mol|y=mol}}
+{{ko-hanja|hangeul=몰|eumhun=|mr=mol|y=mol}}
 
 # {{defn|lang=ko|sort=水04}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=没|pin=[[méi]] ([[mei2]])|wg=mei<sup>2</sup>}}
-
-====Compounds====
-* [[淹沒]]
-
-===Prefix===
-{{cmn-pref|t|pin=méi|pint=mei2|sim=没}}
-
-# Negative prefix for verbs.
-
-===Verb===
-{{cmn-verb|t|pin=mò|pint=mo4|sim=没}}
-
-# To [[drown]]
 
 ----
 
