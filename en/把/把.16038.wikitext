@@ -6,10 +6,6 @@
 ===Han character===
 {{Han char|rn=64|rad=手|as=04|sn=7|four=5701<sub>7</sub>|canj=手日山 (QAU)|ids=⿰[[扌]][[巴]]}}
 
-# [[hold]], [[take]]
-# [[guard]]
-# [[regard]] as
-
 ====References====
 * {{Han ref|kx=0420.210|dkj=11874|dj=0768.010|hdz=31845.040|uh=628A|ud=25226|bh=A7E2|bd=42978}}
 
@@ -21,66 +17,34 @@
 ===Pronunciation===
 {{zh-pron
 |m=bǎ
-|c=baa2
-|mn=pé/pá
 |ma=y
+|c=baa2
+|h=pfs=pá
+|mn=pé/pá
+|w=2po,2pa
 |mc=y
 |oc=y
-|cat=n
+|cat=n,cl,v
 }}
 
-===Noun===
-{{zh-noun}}
+===Definitions===
+{{zh-hanzi}}
 
 # (measure word for anything that can be held in one's hand)
+#: {{zh-usex|三 把 刀|three knives|link=y}}
 # [[handle]]
-
-{{zh-cat|Beginning}}
-
-==Mandarin==
-{{zh-forms}}
-
-===Pronunciation===
-* {{audio|zh-bǎ.ogg|audio|lang=cmn}}
-* {{zh-pron
-|m=bǎ
-|mn=pé
-}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[bǎ]] ([[ba3]])|wg=pa<sup>3</sup>}}
-
-===Noun===
-{{cmn-noun|ts|pin=bǎ|pint=ba3}}
-
-# measure word for anything that can be held in one's hand
-#: [[三]]'''把'''[[刀]] (''Pinyin'' sān '''bǎ''' dāo, three knives)
-# handle
-
-===Verb===
-{{cmn-noun|ts|pin=bǎ|pint=ba3}}
-
-# {{context|Beginning Mandarin|lang=cmn}} a special type of helping verb which, when placed in front of the object of a sentence, allows for the object of the sentence to be placed before the verb.  This allows for greater flexibility in complex sentence construction.
-#: [[他]]'''把'''[[刀]][[放]][[在]][[桌子]][[上]]
-#: tā '''bǎ''' dāo fàng zài zhuōzi shàng
-#: ''he put the knife on the table'' (literal word order of original: ''he '''bǎ''' knife put at table top'')
-# (''prefix'') to guard; to have control over
-#: [[把守]] (''Pinyin'' [[bǎshǒu]], to guard; to defend)
-#: [[把握]] (''Pinyin'' [[bǎwò]], to grasp; to control; to master)
+# {{cx|Beginning Mandarin|lang=zh}} a special type of helping verb which, when placed in front of the object of a sentence, allows for the object of the sentence to be placed before the verb.  This allows for greater flexibility in complex sentence construction.
+#: {{zh-usex|他 把 刀 放 在 桌子{zi} 上。|He put the knife on the table.|link=y}}
+#: (''literal word order of original:'' ''he '''bǎ''' knife put at table top'')
+# to [[guard]]; to have control over
+#: {{zh-l|把守|bǎshǒu|to guard; to defend}}
+#: {{zh-l|把握|bǎwò|to grasp; to control; to master}}
 
 ===See also===
 ; special helping verb
-* [[共]] ([[kā]]) (Min Nan)
+* (''Min Nan'') {{zh-l|共}} ([[kā]])
 
-[[Category:Mandarin entries with audio links|ba3]]
-
-
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=baa2|y=ba2}}
-
-# {{defn|lang=yue|sort=手04}}
+{{zh-cat|Beginning|Intermediate}}
 
 ----
 
@@ -99,37 +63,9 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+{{ko-hanja|hangeul=파|eumhun=|mr=p'a|y=pha}}
 
 # {{defn|lang=ko|sort=手04}}
-
-----
-
-==Min Nan==
-
-===Pronunciation===
-* {{IPA|[ pa˥˧ ]|lang=nan}}
-* {{IPA|[ pe˥˧ ]|lang=nan}}
-
-===Noun===
-{{nan-noun|ts|poj=[[pé]] or [[pá]]|pojt=pe2}}
-
-# handle
-
-===Verb===
-{{nan-verb|ts|poj=[[pé]] or [[pá]]|pojt=pe2}}
-
-# (''prefix'') to guard; to have control over
-#: [[把守]] (''POJ'' [[pá-siú]], to guard; to defend)
-#: [[把握]] (''POJ'' [[pá-ak]], to grasp; to control; to master)
-
-===References===
-* {{cite web
-| url = http://203.64.42.21/iug/ungian/SoannTeng/chil/taihoa.asp
-| title = 把
-| work = On-line Taiwanese/Mandarin Dictionary (台文／華文線頂辭典)
-| language = Taiwanese/English
-| accessdate = 2011-01-29}}
 
 ----
 
