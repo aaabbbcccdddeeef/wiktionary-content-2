@@ -3,10 +3,6 @@
 {{stroke order|strokes=6}}
 {{Han char|rn=78|rad=歹|as=02|sn=6|four=1021<sub>2</sub>|canj=[[一]][[弓]][[心]] (MNP)|ids=⿸[[歹]][[匕]] or ⿱[[一]]⿰[[夕]]匕}}
 
-# [[die]]
-# [[dead]]
-# [[death]]
-
 ====References====
 * {{Han ref|kx=0578.220|dkj=16365|dj=0970.070|hdz=21380.060|uh=6B7B|ud=27515|bh=A6BA|bd=42682}}
 
@@ -18,64 +14,56 @@
 ===Pronunciation===
 {{zh-pron
 |m=sǐ
+|ma=zh-sǐ.ogg
 |c=sei2
+|h=pfs=sí
 |mn=sí
+|w=2si,2sr
+|w_note=si (2) is literary
 |mc=y
 |oc=y
-|ma=zh-sǐ.ogg
-|cat=v,a,n
+|cat=v,a,n,adv,pref
 }}
 
-===Noun===
-{{zh-noun}}
+===Definitions===
+{{zh-hanzi}}
 
 # [[death]]
-
-===Verb===
-{{zh-verb}}
-
 # to [[die]]
 #: {{zh-usex|佢 兩 年 前 已經 '''死''' 咗。|He already '''died''' two years ago.|C|link=yes}}
-# {{context|Cantonese|intransitive|lang=zh}} to [[go]], to [[disappear]]
+# {{cx|Cantonese|intransitive|lang=zh}} to [[go]], to [[disappear]]
 #* {{zh-usex|嗰 枝 死人 原子筆 '''死''' 咗 去 邊 呀？|tr=go2 zi1 sei2 jan4 jyun4 zi2 bat1 '''sei2''' zo2 heoi3 bin1 aa3?|Where's that goddamn pen?|C-GZ|link=yes}}
-
-====Synonyms====
-* {{sense|to die}} {{zh-l|瓜}} (''Cantonese'')
-
-===Adjective===
-{{zh-adj}}
-
 # [[dead]]
-
-===Adverb===
-{{zh-adv}}
-
 # {{label|zh|intensifier}} [[to death]] (see also [[死人]])
-
-===Prefix===
-{{zh-pref}}
-
 # [[damn]]
 #: {{zh-usex|呢個 '''死''' 阿伯 唔 識 揸車。|This '''damn''' geezer can't drive.|C|tr=nei1 go3 '''sei2''' aa3 baak3 m4 sik1 zaa1 ce1|link=yes}}
 #: {{zh-usex|'''死''' 鬼佬|'''goddamn''' white|C|link=yes}}
 
+====Synonyms====
+* {{sense|to die}} {{zh-l|瓜}} (''Cantonese'')
+
 ====Compounds====
-* [[死活]]
-* [[死结]]
-* [[死劲儿]]
-* [[死理]], [[死理儿]]
-* [[死力]]
-* [[死灭]]
-* [[死人]]
-* [[死伤]]
-* [[死神]]
-* [[死尸]]
-* [[死亡]]
-* [[死刑]]
-* [[死硬]]
-* [[死于非命]]
-* [[死战]]
-* [[死角]]
+{{der5
+| {{zh-l|死活}}
+| {{zh-l|死結}}
+| {{zh-l|死勁兒}}
+| {{zh-l|死理}}
+| {{zh-l|死理兒}}
+| {{zh-l|死力}}
+| {{zh-l|死滅}}
+| {{zh-l|死人}}
+| {{zh-l|死傷}}
+| {{zh-l|死神}}
+| {{zh-l|死屍}}
+| {{zh-l|死亡}}
+| {{zh-l|死刑}}
+| {{zh-l|死硬}}
+| {{zh-l|死於非命}}
+| {{zh-l|死戰}}
+| {{zh-l|死角}}
+}}
+
+{{zh-cat|Beginning|Intermediate}}
 
 ----
 
@@ -104,7 +92,7 @@ In kanji compounds, this would be considered as {{term|lang=ja|音読み|sc=Latn
 * {{IPA|lang=ja|[ɕi]}}
 
 ====Noun====
-{{ja-noun|k|hira=し|rom=shi}}
+{{ja-noun|し}}
 
 # [[death]]
 
@@ -171,13 +159,13 @@ In kanji compounds, this would be considered as {{term|lang=ja|音読み|sc=Latn
 {{der-bottom}}
 
 ====Verb====
-{{ja-verb-suru|k|hira=し|rom=shi}}
+{{ja-verb-suru|し}}
 
 # to [[die]]
 #: Considered somewhat more [[archaic]] or [[formal]] than {{ja-l|死ぬ||shinu}}.
 
 =====Conjugation=====
-{{ja-suru|死|し}}
+{{ja-suru|し}}
 
 ===Etymology 2===
 The {{term|lang=ja|連用形|tr=ren'yōkei||stem form}} of verb {{term|lang=ja|死ぬ|tr=shinu||to die}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
@@ -188,7 +176,7 @@ The {{term|lang=ja|連用形|tr=ren'yōkei||stem form}} of verb {{term|lang=ja|�
 * {{IPA|lang=ja|[ɕini]}}
 
 ====Noun====
-{{ja-noun|k|hira=しに|rom=shini}}
+{{ja-noun|しに}}
 
 # [[death]], [[dying]]
 
@@ -213,7 +201,7 @@ The {{term|lang=ja|連用形|tr=ren'yōkei||stem form}} of verb {{term|lang=ja|�
 {{der-bottom}}
 
 ====Prefix====
-{{ja-pos|k|prefix|hira=しに|rom=shini}}
+{{ja-pos|しに|prefix}}
 
 # [[bloody]], [[stupid]], [[goddamn]]
 #: Used as a [[negative]] or [[pejorative]] [[intensifier]].
@@ -235,7 +223,7 @@ The {{term|lang=ja|連用形|tr=ren'yōkei||stem form}} of verb {{term|lang=ja|�
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[사]]|eumhun=|rv=sa|mr=sa|y=sa}}
+{{ko-hanja|hangeul=[[사]]|eumhun=|mr=sa|y=sa}}
 
 # die
 # death
