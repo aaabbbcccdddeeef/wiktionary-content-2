@@ -28,6 +28,7 @@
 
 ==Japanese==
 {{rfc|the order of these headers seems totally nonstandard}}
+
 ===Kanji===
 {{ja-kanji|grade=c|rs=木06}}
 
@@ -36,11 +37,7 @@
 # the sweet [[osmanthus]] tree
 
 ====Readings====
-{{ja-readings
-|kanon=[[けい]] (kei)
-|kun=[[かつら]] (katsura), [[めかつら]] (mekatsura)
-|nanori=[[かつ]] (katsu), [[よし]] (yoshi), [[か]] (ka)
-}}
+{{ja-readings|kanon=[[けい]] (kei)|kun=[[かつら]] (katsura), [[めかつら]] (mekatsura)|nanori=[[かつ]] (katsu), [[よし]] (yoshi), [[か]] (ka)}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -82,13 +79,13 @@ From {{etyl|ojp|ja|sort=かつら}}. Originally a compound of {{compound|lang=ja
 
 ====Pronunciation====
 * [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[ka̠t͡su͍ɽa̠]}}
+* {{ja-pron|かつら}}
 
 ====Alternative forms====
 * {{l|ja|楓}} {{qualifier|uncommon}}
 
 ====Noun====
-{{ja-noun|k|hira=かつら|rom=katsura}}
+{{ja-noun|かつら}}
 
 # the [[katsura]] tree, ''[[Cercidiphyllum japonicum]]'', also called the Japanese Judas tree
 # less commonly, the smaller {{taxlink|Cercidiphyllum magnificum|species|noshow=1}} tree, more specifically called the {{l|ja|広葉桂}} or {{term|lang=ja|ヒロハカツラ|tr=''[[hiroha katsura]]''||broadleaf katsura}}.
@@ -100,7 +97,7 @@ From {{etyl|ojp|ja|sort=かつら}}. Originally a compound of {{compound|lang=ja
 * {{l|ja|桂男|tr=[[かつらおとこ]], ''[[katsura otoko]]''}}: the katsura man, a character in the Chinese legend who lives on the moon
 
 ====Proper noun====
-{{ja-pos|k|proper|hira=かつら|rom=Katsura}}
+{{ja-pos|proper|かつら}}
 
 # {{given name|male|lang=ja|sort=かつら}}
 # the west [[bank]] of the Katsura River in Kyōto
@@ -111,13 +108,13 @@ From {{etyl|ojp|ja|sort=めかつら}}. Alternate spelling for {{term|lang=ja|�
 
 ====Pronunciation====
 * [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[me̞ka̠t͡su͍ɽa̠]}}
+* {{ja-pron|めかつら}}
 
 ====Alternative forms====
 * {{l|ja|女桂|tr=[[めかつら]], ''[[mekatsura]]''}}
 
 ====Noun====
-{{ja-noun|k|hira=めかつら|rom=mekatsura}}
+{{ja-noun|めかつら}}
 
 # the [[cinnamon]] tree, or other closely related trees in [[genus]] ''[[Cinnamomum]]''
 
@@ -129,10 +126,10 @@ From {{etyl|zhx|ja|sort=けい}} {{term|sc=Hani|桂}}.
 
 ====Pronunciation====
 * [[音読み|On'yomi]]
-* {{IPA|lang=ja|[ke̞ː]}}
+* {{ja-pron|けい}}
 
 ====Noun====
-{{ja-noun|k|hira=けい|rom=kei}}
+{{ja-noun|けい}}
 
 # the [[cinnamon]] or [[cassia]] tree
 # common name for various other trees in [[family]] [[Lauraceae]]
@@ -147,10 +144,10 @@ From a Chinese legend that the phases of the moon were caused by ''kei'' trees, 
 
 ====Pronunciation====
 * [[音読み|On'yomi]]
-* {{IPA|lang=ja|[ke̞ː]}}
+* {{ja-pron|けい}}
 
 ====Noun====
-{{ja-noun|k|hira=けい|rom=kei}}
+{{ja-noun|けい}}
 
 # {{context|lang=ja|sort=けい|euphemistic}} the [[moon]]
 
@@ -164,18 +161,15 @@ Abbreviation of {{term|lang=ja|桂馬|tr=keima}}, the [[knight]] in {{term|lang=
 
 ====Pronunciation====
 * [[音読み|On'yomi]]
-* {{IPA|lang=ja|[ke̞ː]}}
+* {{ja-pron|けい}}
 
 ====Noun====
-{{ja-noun|k|hira=けい|rom=kei}}
+{{ja-noun|けい}}
 
 # the [[knight]] in {{term|lang=ja|将棋|tr=[[shōgi]]||Japanese chess}}
 
 =====Synonyms=====
 * {{l|ja|桂馬|tr=[[けいま]], ''[[keima]]''}}
-
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 桂]]
 
 ----
 
