@@ -29,12 +29,12 @@
 ===Noun===
 {{zh-noun}}
 
-# {{cx|Beginning Mandarin|lang=zh|sort=di4}} [[earth]]
-# {{cx|Beginning Mandarin|lang=zh|sort=di4}} [[soil]], [[ground]]
+# {{label|zh|Beginning Mandarin|sort=di4}} [[earth]]
+# {{label|zh|Beginning Mandarin|sort=di4}} [[soil]], [[ground]]
 #: {{zh-usex|這 匹 馬 倒 在 地 上，不 住 地{de} 蹬達。|The horse collapsed on the floor, but carried on kicking.|link=y}}
 # [[region]]
 # [[land]]
-# {{cx|Cantonese|lang=zh}} (={{zh-l|嘅}}), a less common plurality marker 
+# {{label|zh|Cantonese}} (={{zh-l|嘅}}), a less common plurality marker 
 
 ===Pronunciation===
 {{zh-pron
@@ -47,7 +47,7 @@
 ====Particle====
 {{zh-particle}}
 
-# {{cx|Beginning Mandarin}} (adverb-forming particle, like English [[-ly]])
+# {{label|zh|Beginning Mandarin}} (adverb-forming particle, like English [[-ly]])
 #: {{zh-usex|很 快 地|very quickly|link=y|inline=y}}
 
 ====Compounds====
@@ -156,33 +156,29 @@
 
 ====Compounds====
 {{der-top}}
-{{top3}}
-* {{l|ja|sc=Jpan|土地|tr=とち, tochi}}: [[ground]]; [[land]]
-* {{l|ja|sc=Jpan|意地悪|tr=いじわる, ijiwaru}}
-* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
-* {{l|ja|sc=Jpan|地底|tr=ちてい, chitei}}
-* {{l|ja|sc=Jpan|地理|tr=ちり, chiri}}
-* {{l|ja|sc=Jpan|地盤|tr=ちばん, chiban}}
-* {{l|ja|sc=Jpan|地位|tr=ちい, chii}}
-* {{l|ja|sc=Jpan|地域|tr=ちいき, chiiki}}
-* {{l|ja|sc=Jpan|地下|tr=ちか, chika}}
-{{mid3}}
-* {{l|ja|sc=Jpan|地学|tr=ちがく, chigaku}}
-* {{l|ja|sc=Jpan|地球|tr=ちきゅう, chikyū}}
-* {{l|ja|sc=Jpan|地区|tr=ちく, chiku}}
-* {{l|ja|sc=Jpan|地形|tr=ちけい, chikei}}
-* {{l|ja|sc=Jpan|地上|tr=ちじょう, chijō}}
-* {{l|ja|sc=Jpan|地租|tr=ちそ, chiso}}
-* {{l|ja|sc=Jpan|地点|tr=ちてん, chiten}}
-* {{l|ja|sc=Jpan|地主|tr=じぬし, jinushi}}
-{{mid3}}
-* {{l|ja|sc=Jpan|地表|tr=ちひょう, chihyō}}
-* {{l|ja|sc=Jpan|地方|tr=ちほう, chihō}}
-* {{l|ja|sc=Jpan|地震|tr=じしん, jishin}}
-* {{l|ja|sc=Jpan|天地|tr=てんち, tenchi}}: heaven and earth
-* {{l|ja|sc=Jpan|天變地異|tr=てんぺんちい, tenpen chii}}: [[turmoil]] throughout heaven and earth
-* {{l|ja|sc=Jpan|現在地|tr=げんざいち, genzaichi}}: you are here
-{{bottom}}
+{{der3|{{l|ja|土地|tr=とち, tochi}}: [[ground]]; [[land]]
+|{{l|ja|意地悪|tr=いじわる, ijiwaru}}
+|{{l|ja|地球|tr=ちきゅう, chikyū}}
+|{{l|ja|地底|tr=ちてい, chitei}}
+|{{l|ja|地理|tr=ちり, chiri}}
+|{{l|ja|地盤|tr=ちばん, chiban}}
+|{{l|ja|地位|tr=ちい, chii}}
+|{{l|ja|地域|tr=ちいき, chiiki}}
+|{{l|ja|地下|tr=ちか, chika}}
+|{{l|ja|地学|tr=ちがく, chigaku}}
+|{{l|ja|地球|tr=ちきゅう, chikyū}}
+|{{l|ja|地区|tr=ちく, chiku}}
+|{{l|ja|地形|tr=ちけい, chikei}}
+|{{l|ja|地上|tr=ちじょう, chijō}}
+|{{l|ja|地租|tr=ちそ, chiso}}
+|{{l|ja|地点|tr=ちてん, chiten}}
+|{{l|ja|地主|tr=じぬし, jinushi}}
+|{{l|ja|地表|tr=ちひょう, chihyō}}
+|{{l|ja|地方|tr=ちほう, chihō}}
+|{{l|ja|地震|tr=じしん, jishin}}
+|{{l|ja|天地|tr=てんち, tenchi}}: heaven and earth
+|{{l|ja|天變地異|tr=てんぺんちい, tenpen chii||[[turmoil]] throughout heaven and earth}}
+|{{l|ja|現在地|tr=げんざいち, genzaichi||you are here}}}}
 {{der-bottom}}
 
 ===Etymology 1===
@@ -193,7 +189,7 @@
 # [[earth]]; [[land]]; [[ground]]
 # a [[place]]; a [[region]]; a piece of land
 # [[territory]]; [[dominion]]
-# (of a crate, etc) the [[bottom]]
+# {{qualifier|of a crate, etc.}} the [[bottom]]
 
 ====Suffix====
 {{ja-pos|ち|suffix}} 
