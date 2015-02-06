@@ -104,19 +104,19 @@ From {{etyl|grc|en}} {{term|πλάσμα||something formed|tr=plasma|lang=grc|sc
 ==Irish==
 
 ===Noun===
-{{head|ga|noun|g=m}}
+{{ga-noun|plasma|plasmaí|g=m}}
 
-# {{context|physics|hematology|lang=ga}} [[#English|plasma]]
+# {{lb|ga|physics|hematology}} {{l|en|plasma}}
 
 ====Declension====
-{{ga-noun-m4|p|lasma|lasmaí}}
-
-====Mutation====
-{{ga mut cons|p|lasma}}
+{{ga-decl-m4|p|lasma|lasmaí}}
 
 ====Derived terms====
 * {{l|ga|plasma fola}}, {{l|ga|fuilphlasma}}
 * {{l|ga|taispeáint phlasma}}
+
+===Mutation===
+{{ga mut cons|p|lasma}}
 
 ----
 
