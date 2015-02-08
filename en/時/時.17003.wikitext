@@ -10,10 +10,6 @@ There are multiple possibilities:
 ===Han character===
 {{Han char|rn=72|rad=日|as=06|sn=10|four=6404<sub>1</sub>|canj=日土木戈 (AGDI)|ids=⿰[[日]][[寺]]}}
 
-# [[time]], [[season]]
-# [[hour]]
-# [[era]], [[age]], [[period]]
-
 ====Derived characters====
 * [[蒔]]
 
@@ -28,20 +24,97 @@ There are multiple possibilities:
 ===Pronunciation===
 {{zh-pron
 |m=shí
+|ma=y
 |c=si4
-|mn=
+|h=pfs=sṳ̀
+|mn=sî
+|w=3zr
 |mc=y
 |oc=y
-|ma=
-|cat=n,adv}}
+|cat=n,adv
+}}
 
-===Adverb===
-{{zh-adv|t}}
+===Definitions===
+{{zh-hanzi}}
 
-# [[when]]
+# [[when]], time when
+# [[time]], [[season]]
+# [[hour]]
+# [[era]], [[age]], [[period]]
 
 ====Compounds====
-* [[時候]]
+{{der5
+| {{zh-l|時弊}}
+| {{zh-l|時不常兒}}
+| {{zh-l|時不時}}
+| {{zh-l|時不我待}}
+| {{zh-l|時不我與}}
+| {{zh-l|時差}}
+| {{zh-l|時常}}
+| {{zh-l|時辰}}
+| {{zh-l|時代}}
+| {{zh-l|時點}}
+| {{zh-l|時段}}
+| {{zh-l|時而}}
+| {{zh-l|時分}}
+| {{zh-l|時乖命蹇}}
+| {{zh-l|時光}}
+| {{zh-l|時過境遷}}
+| {{zh-l|時候}}
+| {{zh-l|時或}}
+| {{zh-l|時機}}
+| {{zh-l|時價}}
+| {{zh-l|時間}}
+| {{zh-l|時間詞}}
+| {{zh-l|時間性}}
+| {{zh-l|時節}}
+| {{zh-l|時局}}
+| {{zh-l|時刻}}
+| {{zh-l|時空}}
+| {{zh-l|時款}}
+| {{zh-l|時來運轉}}
+| {{zh-l|時令}}
+| {{zh-l|時論}}
+| {{zh-l|時髦}}
+| {{zh-l|時評}}
+| {{zh-l|時期}}
+| {{zh-l|時區}}
+| {{zh-l|時日}}
+| {{zh-l|時尚}}
+| {{zh-l|時時}}
+| {{zh-l|時世}}
+| {{zh-l|時事}}
+| {{zh-l|時勢}}
+| {{zh-l|時俗}}
+| {{zh-l|時速}}
+| {{zh-l|時態助詞}}
+| {{zh-l|時務}}
+| {{zh-l|時下}}
+| {{zh-l|時鮮}}
+| {{zh-l|時限}}
+| {{zh-l|時效}}
+| {{zh-l|時效處理}}
+| {{zh-l|時新}}
+| {{zh-l|時興}}
+| {{zh-l|時序}}
+| {{zh-l|時樣}}
+| {{zh-l|時宜}}
+| {{zh-l|時移勢遷}}
+| {{zh-l|時移俗易}}
+| {{zh-l|時隱時現}}
+| {{zh-l|時有所聞}}
+| {{zh-l|時雨}}
+| {{zh-l|時運}}
+| {{zh-l|時針}}
+| {{zh-l|時政}}
+| {{zh-l|時值}}
+| {{zh-l|時鍾}}
+| {{zh-l|時鍾座}}
+| {{zh-l|時裝}}
+| {{zh-l|時裝表演}}
+}}
+
+{{zh-cat|Advanced}}
 
 ----
 
@@ -59,25 +132,27 @@ There are multiple possibilities:
 |kun=[[とき]] (toki), [[これ]] (kore)}}
 
 ====Compounds====
+{{der-top}}
 {{top2}}
-* [[時間]] ([[じかん]], [[jikan]])
-* [[時期]] ([[じき]], [[jiki]])
-* [[時機]] ([[じき]], [[jiki]])
-* [[時季]] ([[じき]], [[jiki]])
-* [[時勢]] ([[じせい]], [[jisei]])
-* [[時世]] ([[じせい]], [[jisei]])
-* [[時制]] ([[じせい]], [[jisei]])
-* [[時節]] ([[じせつ]], [[jisetsu]])
+* [[時間]] ([[じかん]], jikan)
+* [[時期]] ([[じき]], jiki)
+* [[時機]] ([[じき]], jiki)
+* [[時季]] ([[じき]], jiki)
+* [[時勢]] ([[じせい]], jisei)
+* [[時世]] ([[じせい]], jisei)
+* [[時制]] ([[じせい]], jisei)
+* [[時節]] ([[じせつ]], jisetsu)
 {{mid2}}
-* [[時速]] ([[じそく]], [[jisoku]])
-* [[時代]] ([[じだい]], [[jidai]])
-* [[時短]] ([[じたん]], [[jitan]])
-* [[時分]] ([[じぶん]], [[jibun]])
-* [[時文]] ([[じぶん]], [[jibun]])
-* [[時雨]] ([[しぐれ]], [[shigure]])
-* [[時々]] ([[ときどき]], [[tokidoki]])
-* [[時計]] ([[とけい]], [[tokei]])
+* [[時速]] ([[じそく]], jisoku)
+* [[時代]] ([[じだい]], jidai)
+* [[時短]] ([[じたん]], jitan)
+* [[時分]] ([[じぶん]], jibun)
+* [[時文]] ([[じぶん]], jibun)
+* [[時雨]] ([[しぐれ]], shigure)
+* [[時々]] ([[ときどき]], tokidoki)
+* [[時計]] ([[とけい]], tokei)
 {{bottom}}
+{{der-bottom}}
 
 {{ja-kanjitab|とき|yomi=k}}
 
@@ -100,18 +175,20 @@ There are multiple possibilities:
 #::: When I looked at the clock, it was just 56 [[seconds]] past [[twelve o'clock|12]]:34.
 
 ====Derived terms====
-* [[一時]] ([[いちじ]], [[ichi-ji]])
-* [[二時]] ([[にじ]], [[ni-ji]])
-* [[三時]] ([[さんじ]], [[san-ji]])
-* [[四時]] ([[よじ]], [[yo-ji]])
-* [[五時]] ([[ごじ]], [[go-ji]])
-* [[六時]] ([[ろくじ]], [[roku-ji]])
-* [[七時]] ([[しちじ]], [[shichi-ji]])
-* [[八時]] ([[はちじ]], [[hachi-ji]])
-* [[九時]] ([[くじ]], [[ku-ji]])
-* [[十時]] ([[じゅうじ]], [[jū-ji]])
-* [[十一時]] ([[じゅういちじ]], [[jūichi-ji]])
-* [[十二時]] ([[じゅうにじ]], [[jūni-ji]])
+{{der-top}}
+* [[一時]] ([[いちじ]], ichi-ji)
+* [[二時]] ([[にじ]], ni-ji)
+* [[三時]] ([[さんじ]], san-ji)
+* [[四時]] ([[よじ]], yo-ji)
+* [[五時]] ([[ごじ]], go-ji)
+* [[六時]] ([[ろくじ]], roku-ji)
+* [[七時]] ([[しちじ]], shichi-ji)
+* [[八時]] ([[はちじ]], hachi-ji)
+* [[九時]] ([[くじ]], ku-ji)
+* [[十時]] ([[じゅうじ]], jū-ji)
+* [[十一時]] ([[じゅういちじ]], jūichi-ji)
+* [[十二時]] ([[じゅうにじ]], jūni-ji)
+{{der-bottom}}
 
 ====Related terms====
 * [[時間]] ([[じかん]], [[jikan]]): [[hours]] (duration)
@@ -124,7 +201,7 @@ There are multiple possibilities:
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+{{ko-hanja|hangeul=시|eumhun=|mr=si|y=si}}
 
 # {{defn|lang=ko|sort=日06}}
 
