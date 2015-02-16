@@ -14,21 +14,37 @@
 ----
 
 ==Chinese==
-{{zh-hanzi-box|[[个]]|[[個]]／[[箇]]}}
+{{zh-forms|s=个}}
+
+===Pronunciation===
+{{zh-pron
+|m=gè
+|c=go3
+|h=pfs=ke
+|md=
+|mn=ê
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+{{zh-forms|s=个|t2=箇}}
 
 ===Etymology===
 {{Han compound|亻|固|c1=s|c2=p|ls=psc}}.
 
 The semantics may have developed along the grammaticalisation process "bamboo stalk" ([[箇]]) > "piece, item" > "classifier for every category of noun" > "possessive particle, generic particle". If so, it would then possibly be cognate with {{zh-l|竿|bamboo, rod}}. Compare {{etyl|bo|-}} {{l|bo|མཁར་བ}}, {{l|bo|འཁར་བ||walking stick, staff}} and {{etyl|th|-}} {{l|th|ก้าน||stem, stalk}}.
 
-===Alternative forms===
-* {{zh-l|箇}}
-
 ===Pronunciation===
 {{zh-pron
 |m=gè,ge
 |c=go3
-|h=pfs=[[kè]], [[kài]]
+|h=pfs=ke/kai
 |mn=kò
 |w=5geq,5hheq,4eq,2ku
 |w_note=As classifier or particle: 5geq ~ 5hheq ~ 4eq; literary: 2ku
@@ -42,46 +58,47 @@ The semantics may have developed along the grammaticalisation process "bamboo st
 {{zh-noun}}
 
 # [[piece]], [[item]]; [[individual]]
-#* {{zh-l|個人|an individual; personal}}
-#*: {{zh-l|個體|individuality}}
+#: {{zhex|個{gè}人|an individual; personal}}
+#: {{zhex|個{gè}體|individuality}}
 # [[size]], [[height]]
-#* {{zh-l|個子|height, stature}}
-#* {{zh-l|個兒|size}}
+#: {{zhex|個{gè}子|height, stature}}
+#: {{zhex|個{gè}兒{r}|size}}
 # [[separate]], [[respective]]; [[separately]], [[individually]]
-#* {{zh-l|個別|individual, separate; some, a couple of}}
+#: {{zhex|個{gè}別|individual, separate; some, a couple of}}
 # [[single]], [[alone]]
-# {{context|dialectal|lang=zh}} [[one]]
+# {{cx|dialectal|lang=zh}} [[one]]
 # {{non-gloss definition|The generic classifier. Used with nouns lacking specific classifiers.}}
-#* {{zh-usex|我 有 一 個 問題。|I have a question.}}
+#: {{zhex|我 有 一 個 問題。|I have a question.}}
 # {{non-gloss definition|Alternative classifier, for nouns having specific classifiers. Often colloquial and regional. Usage varies greatly between different topolects.}}
-#* {{zh-usex|一 個 人|one person; alone}}
-#* {{zh-usex|每 個 人|every person, everyone}}
-#* {{zh-usex|一 個 井|a well|C-GZ}}
-#* {{zh-usex|一 個 房|a room|C-GZ}}
-#* {{zh-usex|一 個 學校|one school}}
-# {{context|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle, placed between a verb and numbers, showing that the following numbers are approximate, not accurate.}}
-#: {{zh-usex|他 一下 跑 個 兩 三 公里 都 不在話下。|Running two or three kilometers in one go is a piece of cake for him.}}
-#: {{zh-usex|他們 倆 就 差{chà} 個 一 兩 歲。|The age difference between them is only about one or two years.}}
-# {{context|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle, placed between a verb and its object or complement, adding a sense of ease, swiftness and one-offness to the action.}}
-#: {{zh-usex|吃 個 飯，洗 個 澡，休息{xi} 休息{xi}|have some food, have a shower and have some rest}}
-#: {{zh-usex|我們 昨天 見 了 個 面，聊 了 聊 近況。|We met yesterday, and chatted about how we've been recently.}}
-# {{context|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle used after {{zh-l|些}}.}}
-#: {{zh-usex|那些 個 年 的 事 現在 回憶 起來 還是 記憶猶新。|It feels like yesterday when I reminisce about those stories in the past.}}
-# {{context|dialectal Mandarin|lang=zh}} {{non-gloss definition|Particle used in some time-related words.}}
-#* {{zh-l|今兒個|(''dialectal'') today}}
-# {{context|obsolete|Wu|Xiang|Gan|dialectal Cantonese|dialectal Min|lang=zh}} (= {{zh-l|搿}}) [[this]]; [[that]]
-#: {{zh-usex|個 個 人|this person|SH}}
-#: {{zh-usex|個 隻 鴨子 勿 太 酥|This duck hasn't been cooked long enough for it to become tender.|SH}}
-# {{context|Wu|lang=zh}} {{non-gloss definition|Word-initial particle, serving as the definite article.}}
-#: {{zh-usex|個 人 今朝 為啥 勿 來|Why hasn't that guy come today?|SH}}
-# {{context|obsolete|Cantonese|Wu|lang=zh}} (C = {{zh-l|嘅}}, W = {{zh-l|格}}) {{non-gloss definition|Possessive particle. Equivalent to Mandarin {{zh-l|的}}.}}
-#: {{zh-usex|我 個 小囡|my child|SH}}
-#: {{zh-usex|住 響 你 屋企 個 陳 先生 係 乜嘢 人 嚟 呀{aa3}？|Who is that Mr. Chan that lives at your house?|C-GZ}}
-# {{context|dialectal|lang=zh}} {{non-gloss definition|Sentence-final declarative, affirmative, or prohibitive particle. Equivalent to Mandarin {{zh-l|的}}, {{zh-l|了}}.}}
-#: {{zh-usex|標語 勿 是 我 寫 個。|I didn't write that slogan.|SH}}
+#: {{zhex|一 個 人|one person; alone}}
+#: {{zhex|每 個 人|every person, everyone}}
+#: {{zhex|一 個 井|a well|C-GZ}}
+#: {{zhex|一 個 房|a room|C-GZ}}
+#: {{zhex|一 個 學校|one school}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle, placed between a verb and numbers, showing that the following numbers are approximate, not accurate.}}
+#* {{zhex|他 一下 跑 個 兩 三 公里 都 不在話下。|Running two or three kilometers in one go is a piece of cake for him.}}
+#* {{zhex|他們 倆 就 差{chà} 個 一 兩 歲。|The age difference between them is only about one or two years.}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle, placed between a verb and its object or complement, adding a sense of ease, swiftness and one-offness to the action.}}
+#* {{zhex|吃 個 飯，洗 個 澡，休息{xi} 休息{xi}|have some food, have a shower and have some rest}}
+#* {{zhex|我們 昨天 見 了 個 面，聊 了 聊 近況。|We met yesterday, and chatted about how we've been recently.}}
+# {{cx|Mandarin|colloquial|lang=zh}} {{non-gloss definition|Particle used after {{zh-l|些}}.}}
+#* {{zhex|那些 個 年 的 事 現在 回憶 起來 還是 記憶猶新。|It feels like yesterday when I reminisce about those stories in the past.}}
+# {{cx|dialectal Mandarin|lang=zh}} {{non-gloss definition|Particle used in some time-related words.}}
+#* {{zhex|今兒個|(''dialectal'') today}}
+# {{cx|obsolete|Wu|Xiang|Gan|dialectal Cantonese|dialectal Min|lang=zh}} (= {{zh-l|搿}}) [[this]]; [[that]]
+#* {{zhex|個 個 人|this person|SH}}
+#* {{zhex|個 隻 鴨子 勿 太 酥|This duck hasn't been cooked long enough for it to become tender.|SH}}
+# {{cx|Wu|lang=zh}} {{non-gloss definition|Word-initial particle, serving as the definite article.}}
+#* {{zhex|個 人 今朝 為啥 勿 來|Why hasn't that guy come today?|SH}}
+# {{cx|obsolete|Cantonese|Wu|lang=zh}} {{non-gloss definition|Possessive particle. Equivalent to Mandarin {{zh-l|的}}.}}
+#: → {{zh-l|嘅}} (''Cantonese''), {{zh-l|格}} (''Wu'') 
+#* {{zhex|我 個 小囡|my child|SH}}
+#* {{zhex|住 響 你 屋企 個 陳 先生 係 乜嘢 人 嚟 呀{aa3}？|Who is that Mr. Chan that lives at your house?|C-GZ}}
+# {{cx|dialectal|lang=zh}} {{non-gloss definition|Sentence-final declarative, affirmative, or prohibitive particle. Equivalent to Mandarin {{zh-l|的}}, {{zh-l|了}}.}}
+#* {{zhex|標語 勿 是 我 寫 個。|I didn't write that slogan.|SH}}
 
 ====Compounds====
-{{der2
+{{der3
 | {{zh-l|個別}}
 | {{zh-l|個個}}
 | {{zh-l|個兒}}
@@ -94,7 +111,7 @@ The semantics may have developed along the grammaticalisation process "bamboo st
 ===Descendants===
 {{Sinoxenic-word|個|こ|개|cá}}
 
-[[Category:Beginning Mandarin|ge4]]
+{{zh-cat|Beginning}}
 
 ----
 
