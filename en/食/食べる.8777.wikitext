@@ -2,31 +2,40 @@
 {{ja-kanjitab|た|yomi=kun}}
 
 ===Etymology===
-From earlier consonant stem {{term|食ぶ|tab-}}; became vowel stem tabe- when the [[終止形|conclusive]] was overtaken by the [[連体形|attributive]] form which ultimately resulted in the shift from [[下二段活用|lower bigrade]] to [[下一段活用|lower monograde]] conjugation class. From {{term|賜ぶ|tab-|receive}}.
+From earlier {{etyl|ojp|ja|sort=たべる}} form {{m|ja|食ぶ|tr=tabu||to (humbly) receive or get|pos=from a superior}}, a verb with the {{m|ja|下二段|tr=shimo nidan}} or lower bigrade conjugation pattern.  This was the [[humble]] form of {{m|ja|賜ぶ}}, {{m|ja|給ぶ|tr=tabu||to ([[deign]] to) give|pos=to an inferior}}, a verb with the full {{m|ja|四段|tr=yodan}} or quadrigrade conjugation pattern.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Older bigrade ''tabu'' became modern monograde ''taberu'' due to a regular shift in lower bigrade verbs, whereby the older {{m|ja|終止形|tr=shūshikei||terminal form}} ending in ''-u'' was replaced with the {{m|ja|連体形|tr=rentaikei||attributive form}} ending in ''-eru''.
+
+Most likely cognate with {{m|ja|給う|tr=tamau||to give|pos=as a superior gives a thing to, or does something for, an inferior}}.
+
+Compare the historical development of meaning from “to humbly receive” → “to eat”, with the modern use of the humble verb {{m|ja|頂く|tr=itadaku||to receive}} just before eating, in a sense of “I humbly receive this food.”
 
 ===Pronunciation===
-* {{ja-pron|たべる|acc=2}}
+{{ja-pron|yomi=k|たべる|acc=2|acc_ref=DJR}}
 
 ===Verb===
-{{ja-verb|type=2|たべる}}
+{{ja-verb|たべる|type=2|tr=transitive}}
 
 # to [[eat]]
-#: {{ja-usex|今日は、寿司を食べに銀座に行きます。|きょう は、 すし を たべ に ぎんざ に いきます。|I'll go to Ginza today to eat sushi.}}
-#: {{ja-usex|箸で食べます。|はし で たべます。|I eat with chopsticks.}}
-# {{context|archaic|humble|lang=ja|sort=たべる}} to eat or drink
+#: {{ja-usex|今日は、寿司を食べに銀座に行きます。|^きょう は、 すし を たべ に ぎんざ に いきます。|I'll go to Ginza today to eat sushi.}}
+#: {{ja-usex|箸で食べます。|^はし で たべます。|I eat with chopsticks.}}
+# {{context|lang=ja|sort=たべる|archaic|humble}} to [[eat]] or [[drink]]
 #* {{RQ:Nippo Jisho|594}}
 #*: '''Tabe''', uru, eta. タベ, ブル, ベタ (食べ, ぶる, べた) 食う, または, 飲む.
 
 ====Synonyms====
+{{der-top|Synonyms}}
 * {{ja-r|召し上がる|めしあがる}} {{qualifier|honorific}}
 * {{ja-r|食う|く.う|}} {{qualifier|male, vulgar}}
 * {{ja-r|食む|はむ}} {{qualifier|of animals}}
 * {{ja-r|まぼる}} {{qualifier|obsolete}}
+{{der-bottom}}
 
 ====Conjugation====
 {{ja-ichi|たべ}}
 
 ===References===
+<references/>
 * {{R:Nippo Jisho}}
 
 [[Category:1000 Japanese basic words|たへる]]
