@@ -5,8 +5,6 @@
 ===Han character===
 {{Han char|rn=19|rad=力|as=03|sn=5|four=4600<sub>0</sub>|canj=大尸口 (KSR)|ids=⿰[[力]][[口]]}}
 
-# [[add]] to, [[increase]], [[augment]]
-
 ====Derived characters====
 * [[伽]] [[架]] [[枷]] [[迦]] [[茄]] [[珈]] [[笳]] [[袈]] [[痂]] [[跏]] [[駕]]
 
@@ -35,24 +33,31 @@
 ===Pronunciation===
 {{zh-pron
 |m=jiā
+|ma=y
 |c=gaa1
 |h=pfs=ka;hpy=ga1
 |mn=ke/ka
 |mn_note=ke - vernacular, ka - literary
-|w=
+|w=1ka
 |mc=y
 |oc=y
-|ma=zh-jiā.ogg
 |cat=v
 }}
 
+===Definitions===
+{{zh-hanzi}}
+
+# [[add]] to, [[increase]], [[augment]]
+
 ====Compounds====
-* {{l|cmn|加倍|tr=jiābèi}}
-* {{l|cmn|加護病房|tr=jiā hù bìngfáng}}
-* {{l|cmn|加蓬|tr=Jiāpéng}}
-* {{l|cmn|加強|tr=jiāqiáng}}
-* {{l|cmn|加油|tr=jiāyóu}}
-* {{l|cmn|加油站|tr=jiāyóuzhàn}}
+{{der-top}}
+* {{zh-l|加倍|tr=jiābèi}}
+* {{zh-l|加護病房|tr=jiā hù bìngfáng}}
+* {{zh-l|加蓬|tr=Jiāpéng}}
+* {{zh-l|加強|tr=jiāqiáng}}
+* {{zh-l|加油|tr=jiāyóu}}
+* {{zh-l|加油站|tr=jiāyóuzhàn}}
+{{der-bottom}}
 
 ====References====
 *(''Hakka'') [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=10283&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
@@ -67,9 +72,10 @@
 {{ja-kanji|grade=4|rs=力03}}
 
 ====Readings====
-* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[くわえる]] (kuwaeru), [[くわわる]] (kuwawaru), [[くわえて]] (kuwaete)}}
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[くわえる]] (kuwaeru), [[くわわる]] (kuwawaru)}}
 
 ====Compounds====
+{{der-top}}
 {{top3}}
 * [[加官]] (かかん, kakan)
 * [[加虐]] (かぎゃく, kagyaku)
@@ -100,13 +106,14 @@
 * [[参加]] (さんか, sanka)
 * [[添加]] (てんか, tenka)
 {{bottom}}
+{{der-bottom}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[가]]|rv=ga|mr=ka}}
+{{ko-hanja|hangeul=[[가]]|mr=ka}}
 
 # {{defn|lang=ko|sort=力03}}
 
