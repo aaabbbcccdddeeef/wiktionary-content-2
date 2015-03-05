@@ -40,49 +40,91 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=攴09}}
 
-# {{defn|lang=ja|sort=攴09}}
-
 ====Readings====
-* {{ja-readings|kanon=[[けい]] (kei)|goon=[[きょう]] (kyō)|kun=[[うやまう]] (uyamau)}}
+{{ja-readings
+|kanon=[[けい]] (kei)
+|goon=[[きょう]] (kyō)
+|kun=[[うやまう|うやま.う]] ({{ja-l|敬う}}, uyama.u)
+|nanori=[[け]] (ke), [[たか]] (taka), [[たかし]] (takashi), [[たけ]] (take), [[とし]] (toshi), [[のり]] (nori), [[ひろ]] (noro), [[ゆき]] (yuki), [[よし]] (yoshi)
+}}
 
 ====Compounds====
 {{der-top|Compounds of 敬}}
-* {{term|lang=ja|敬い|tr=uyamai}} reverence
-* {{term|lang=ja|敬う|tr=uyamau}} to respect
-* {{term|lang=ja|敬す|tr=keisu}} to respect
-* {{term|lang=ja|敬意|tr=keī}} respect
-* {{term|lang=ja|敬愛|tr=keiai}} respect and affection
-* {{term|lang=ja|敬遠|tr=keien}} keeping at a distance
-* {{term|lang=ja|敬具|tr=keigu}} a respectful closing statement
-* {{term|lang=ja|敬虔|tr=keiken}} pious
-* {{term|lang=ja|敬語|tr=keigo}} honorifics
-* {{term|lang=ja|敬神|tr=keishin}} piety
-* {{term|lang=ja|敬称|tr=keishō}} title of honor
-* {{term|lang=ja|敬体|tr=keitai}} distal style
+* {{m|ja|敬い|tr=uyamai}} reverence
+* {{m|ja|敬う|tr=uyamau}} to respect
+* {{m|ja|敬す|tr=keisu}} to respect
+* {{m|ja|敬意|tr=keii}} respect
+* {{m|ja|敬愛|tr=keiai}} respect and affection
+* {{m|ja|敬遠|tr=keien}} keeping at a distance
+* {{m|ja|敬具|tr=keigu}} a respectful closing statement
+* {{m|ja|敬虔|tr=keiken}} pious
+* {{m|ja|敬語|tr=keigo}} honorifics
+* {{m|ja|敬神|tr=keishin}} piety
+* {{m|ja|敬称|tr=keishō}} title of honor
+* {{m|ja|敬体|tr=keitai}} distal style
 {{der-mid}}
-* {{term|lang=ja|敬白|tr=keihaku}} Yours Sincerely
-* {{term|lang=ja|敬服|tr=keifuku}} admiration
-* {{term|lang=ja|敬慕|tr=keibo}} love and respect
-* {{term|lang=ja|敬礼|tr=keirei}} salute, bow
-* {{term|lang=ja|敬老|tr=keirō}} respect for elders
-* {{term|lang=ja|敬譲語|tr=keijōgo}} polite speech
-* {{term|lang=ja|敬天愛人|tr=keiten aijin}} "Revere heaven, love people."
-* {{term|lang=ja|失敬|tr=shikkei}} rude
-* {{term|lang=ja|尊敬|tr=sonkei}} respect
+* {{m|ja|敬白|tr=keihaku}} Yours Sincerely
+* {{m|ja|敬服|tr=keifuku}} admiration
+* {{m|ja|敬慕|tr=keibo}} love and respect
+* {{m|ja|敬礼|tr=keirei}} salute, bow
+* {{m|ja|敬老|tr=keirō}} respect for elders
+* {{m|ja|敬譲語|tr=keijōgo}} polite speech
+* {{m|ja|敬天愛人|tr=keiten aijin}} "Revere heaven, love people."
+* {{m|ja|失敬|tr=shikkei}} rude
+* {{m|ja|尊敬|tr=sonkei}} respect
 Archaic
-* {{term|lang=ja|敬啓|tr=keikei}} salutation at end of formal letter
-* {{term|lang=ja|敬呈|tr=keitei}} salutation in a formal letter
+* {{m|ja|敬啓|tr=keikei}} salutation at end of formal letter
+* {{m|ja|敬呈|tr=keitei}} salutation in a formal letter
 {{der-bottom}}
 
-===Noun===
-{{ja-noun|けい}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|けい}}
+From {{etyl|ltc|ja|sort=けい}} {{m|zh|敬|tr=kjæng<sup>H</sup>||respectful}}.
 
-# {{l|en|reverence}}, {{l|en|respect}}
+====Pronunciation====
+{{ja-pron|yomi=kanon|けい}}
 
-===Proper noun===
+====Affix====
+{{ja-pos|affix|けい}}
+
+# [[respect]], [[honor]], [[reverence]]
+
+=====Usage notes=====
+Used in kanji compounds.  Not used in isolation except as a ''suru'' verb.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  See {{ja-l|敬する}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|敬する|けいする}}: to [[respect]], to [[esteem]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|うやまい}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|敬う|tr=uyamau||to resepect, to esteem}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うやまい}}
+
+====Alternative forms====
+* {{ja-l|敬い}}
+
+====Noun====
+{{ja-noun|うやまい}}
+
+# [[respect]], [[esteem]]
+
+=====Usage notes=====
+More commonly spelled as {{ja-l|敬い}} with the [[okurigana]].
+
+===Etymology 3===
+Used as [[ateji]] in various names.
+
+====Proper noun====
 {{ja-pos|たかし|proper}}
 
-# {{given name|male|lang=ja}}
+# {{given name|lang=ja|sort=たかし|male}}
+
+===References===
+<references/>
 
 ----
 
