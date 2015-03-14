@@ -11,9 +11,6 @@
 ===Han character===
 {{Han char|rn=57|rad=弓|as=08|sn=11|four=1323<sub>6</sub>|canj=弓戈中戈 (NILI)|ids=⿰[[弓]][[𧈧]]}}
 
-# [[strong]], [[powerful]], [[energetic]]
-# ''A (typically male) [[given name]]''
-
 ====References====
 * {{Han ref|kx=0359.230|dkj=09815|hdz=20999.070|uh=5F37|ud=24375|bh=B16A|bd=45418}}
 
@@ -22,17 +19,59 @@
 ==Chinese==
 {{zh-forms|s=强}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=qiáng,jiàng,qiǎng
-|c=goeng6,koeng4,koeng5
+|m=qiáng
+|ma=y
+|c=koeng4
 |h=pfs=khiòng
 |mn=kiông/kiūⁿ
+|w=3jian
 |mc=y
 |oc=y
-|ma=
-|cat=a,pn
+|cat=a,adv
 }}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[strong]], [[powerful]], [[energetic]]
+# slightly more than; plus
+#: {{zhex|你 做 了 多少 了？……四 分之一 強。|How much have you done?...A bit more than a fourth.}}
+
+====Antonyms====
+* {{zh-l|弱}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=Jiàng
+|ma=y
+|c=goeng6
+|w=3jian
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=qiǎng
+|ma=y
+|c=koeng4
+|w=3jian
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[strive]]
+#: {{zhex|勉強|to force somebody to do something}}
+
+{{zh-cat|Elementary}}
 
 ----
 
@@ -57,6 +96,7 @@
 * [[強力無双である]] “[[Herculean]] strength”
 
 ====Compounds====
+{{der-top}}
 {{top3}}
 *{{l|ja|sc=Jpan|頑強|tr=がんきょう, gankyō}}
 *{{l|ja|sc=Jpan|強圧|tr=きょうあつ, kyōatsu}}
@@ -131,9 +171,10 @@
 *{{l|ja|sc=Jpan|補強|tr=ほきょう, hokyō}}
 *{{l|ja|sc=Jpan|列強|tr=れっきょう, rekkyō}}
 {{bottom}}
+{{der-bottom}}
 
 ===Proper noun===
-{{ja-pos|k|proper|hira=つよし|rom=Tsuyoshi}}
+{{ja-pos|つよし|proper}}
 
 # {{given name|male|lang=ja}}
 
@@ -144,7 +185,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=강|eumhun=|rv=gang|mr=kang|y=kang}}
+{{ko-hanja|hangeul=강|eumhun=|mr=kang|y=kang}}
 
 # {{defn|lang=ko|sort=弓08}}
 
