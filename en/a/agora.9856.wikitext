@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology 1===
-From {{etyl|la|en}}, from {{etyl|grc|en}} {{term|ἀγείρω||I gather, collect|tr=ageirō|lang=grc}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ger-||to assemble, gather together}}; see Latin {{term|grex|lang=la}}.
+From the {{etyl|grc|en}} {{m|grc|ἀγορά}}.
 
 ====Pronunciation====
 * {{a|UK}} {{enPR|ăgʹə-rə}}, {{IPA|/ˈæɡəɹə/|lang=en}}
@@ -18,7 +18,7 @@ From {{etyl|la|en}}, from {{etyl|grc|en}} {{term|ἀγείρω||I gather, collec
 * Finnish: {{t|fi|kokouspaikka}}
 * German: {{t+|de|Agora|f}}
 * Greek:
-*: Ancient: {{t|grc|ἀγορά|f|tr=agora|sc=polytonic}}
+*: Ancient: {{t|grc|ἀγορά|f}}
 {{trans-mid}}
 * Icelandic: {{t|is|samkomustaður|m}}
 {{trans-bottom}}
@@ -27,7 +27,7 @@ From {{etyl|la|en}}, from {{etyl|grc|en}} {{term|ἀγείρω||I gather, collec
 * Catalan: {{t|ca|àgora|f}}
 * Finnish: {{t+|fi|tori}}, {{t+|fi|agora}}
 * Greek:
-*: Ancient: {{t|grc|ἀγορά|f|tr=agora|sc=polytonic}}
+*: Ancient: {{t|grc|ἀγορά|f}}
 {{trans-mid}}
 * Icelandic: {{t|is|markaðstorg|n}}
 * Portuguese: {{t+|pt|ágora|f}}
@@ -117,6 +117,27 @@ From {{etyl|la|lad}} {{term|hac|lang=la}} {{term|hora|lang=la}}.
 {{lad-adv|l}}
 
 # [[now]]
+
+----
+
+==Latin==
+
+===Etymology===
+From the {{etyl|grc|la}} {{m|grc|ἀγορά}}.
+
+===Pronunciation===
+{{la-IPA}}
+
+===Noun===
+{{la-noun|agora|agorae|agorae|f|first}}
+
+# [[#English|agora]]
+
+====Declension====
+{{rfinfl|la|noun}}
+
+====References====
+* {{R:L&S}}
 
 ----
 
