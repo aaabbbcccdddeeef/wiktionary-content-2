@@ -4,30 +4,47 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=09|sn=11|four=2724<sub>7</sub>|canj=人口尸水 (ORSE)|ids=⿰[[亻]][[叚]]}}
 
-# [[falsehood]], [[deception]]
-# [[fake]], not [[real]]
-# [[vacation]]
-
 ====References====
 * {{Han ref|kx=0110.030|dkj=00835|dj=0233.160|hdz=10196.020|uh=5047|ud=20551|bh=B0B2|bd=45234}}
 
 ----
-
 ==Chinese==
+{{zh-forms}}
 
 ===Etymology 1===
 
 ====Pronunciation====
 {{zh-pron
-|m=jiǎ,jià
+|m=jiǎ
 |c=gaa2
-|cat=n,adj
+|mn=ké
+|mc=1
+|oc=-,1
+|cat=a,n
 }}
 
 ====Definitions====
-# [[falsehood]]; [[deception]] <!--noun?--> {{attention|zh|do people really use 假 as a noun, or is this a Unihan oddity}}
-# [[fake]]; not [[real]]; artificial <!--adjective-->
-#: {{zh-usex|假貨|counterfeit goods}}
+{{zh-hanzi}}
+
+# [[fake]]; not [[real]]; artificial
+#: {{zhex|假貨|counterfeit goods}}
+# [[falsehood]]; [[deception]]
+# to [[fake]]; to [[pretend]]
+# to [[lend]]
+# [[if]]
+
+====Compounds====
+{{der3
+| {{zh-l|假借}}
+| {{zh-l|假話}}
+| {{zh-l|假唱}}
+| {{zh-l|假裝}}
+| {{zh-l|造假}}
+| {{zh-l|真假}}
+| {{zh-l|假貨}}
+| {{zh-l|假如}}
+| {{zh-l|假若}}
+}}
 
 ===Etymology 2===
 
@@ -35,23 +52,32 @@
 {{zh-pron
 |m=jià
 |c=gaa3
+|mn=ká
+|mc=2
+|oc=n,2
 |cat=n
 }}
 
 ====Definitions====
-# [[vacation]] <!--noun?-->
-#: {{zh-usex|病假{jià}|sick leave}}
-#: {{zh-usex|假{jià}日|holiday}}
+{{zh-hanzi}}
+
+# [[vacation]]
+#: {{zhex|病假{jià}|sick leave}}
+#: {{zhex|假{jià}日|holiday}}
 
 ===Compounds===
-* {{zh-l|暑假}}
-* {{zh-l|假借}}
-* {{zh-l|假話}}
-* {{zh-l|假唱}}
-* {{zh-l|假裝}}
-
-===References===
-* [http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=%E5%81%87 MDBG English to Chinese dictionary]
+{{der3
+| {{zh-l|暑假}}
+| {{zh-l|放假}}
+| {{zh-l|假日}}
+| {{zh-l|寒假}}
+| {{zh-l|休假}}
+| {{zh-l|病假}}
+| {{zh-l|假期}}
+| {{zh-l|請假}}
+| {{zh-l|春假}}
+| {{zh-l|銷假}}
+}}
 
 ----
 
