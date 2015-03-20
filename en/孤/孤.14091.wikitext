@@ -31,7 +31,8 @@
 
 ====Readings====
 {{ja-readings
-|on=[[こ]] (ko)
+|goon=[[く]] (ku) {{non-joyo-reading}}
+|kanon=[[こ]] (ko)
 |kun=[[みなしご]] (minashigo), [[ひとり]] (hitori)
 }}
 
@@ -39,11 +40,10 @@
 From {{etyl|zhx|ja|sort=こ}} {{term|sc=Hani|孤}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{IPA|lang=ja|/ko/|[ko̞]}}
+{{ja-pron|こ|yomi=o}}
 
 ====Noun====
-{{ja-noun|k|hira=こ|rom=ko}}
+{{ja-noun|こ}}
 
 # an [[orphan]]
 # [[solitude]]
@@ -52,16 +52,14 @@ From {{etyl|zhx|ja|sort=こ}} {{term|sc=Hani|孤}}.
 [[熟字訓#Japanese|Jukujikun]] kanji use for the term {{l|ja|みなしご}}, itself a compound of {{term|lang=ja|身|tr=mi||identity, family}} + {{term|lang=ja|無|tr=nashi||none, without}} + {{term|lang=ja|子|tr=ko||child}}.  The final syllable's ''ko'' reading changes to ''go'' due to {{rendaku|みなしご}}.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
+{{ja-pron|みなしご|yomi=k}}
 * {{IPA|lang=ja|/mi.na.si.ɡo/|[minäɕiɡo̞]|[minäɕiŋo̞]}}
 
 ====Noun====
-{{ja-noun|k|hira=みなしご|rom=minashigo}}
+{{ja-noun|みなしご}}
 
-# an [[orphan]]
+# [[orphan]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 孤]]
 ----
 
 ==Korean==
