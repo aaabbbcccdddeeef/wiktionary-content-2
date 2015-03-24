@@ -36,18 +36,33 @@
 {{ja-kanji|grade=5|rs=刀06}}
 
 ====Readings====
-* {{ja-readings|goon=[[こん]] (kon) {{non-joyo-reading}}|kanon=[[けん]] (ken)|kun=[[わりふ]] (warifu), [[てがた]] (tegata)}}
+{{ja-readings
+|goon=[[こん]] (kon) {{non-joyo-reading}}
+|kanon=[[けん]] (ken), {{qualifier|historical}} [[くゑん]] (kwen)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=o|けん}}
+{{IPAchar|/kwen/}} → {{IPAchar|/ken/}}
+
+From {{etyl|ltc|ja|sort=けん}} {{m|zh|券|tr=khwen<sup>H</sup>?|ticket}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|けん|acc=1|acc_ref=DJR}}
 
 ===Noun===
-{{ja-noun|けん}}
+{{ja-noun|けん|hhira=くゑん}}
 
 # [[ticket]], [[certificate]]
 # [[bond]], [[coupon]]
 
 ===Suffix===
-{{ja-pos|suffix|けん|rom=ken}} 
+{{ja-pos|suffix|けん|hhira=くゑん}} 
 
 # [[ticket]], [[certificate]]
+
+===References===
+<references/>
 
 ----
 
