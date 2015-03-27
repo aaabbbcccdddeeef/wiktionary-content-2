@@ -44,92 +44,136 @@
 ====Kanji====
 {{ja-kanji|grade=c|rs=彳05}}
 
-# {{defn|lang=ja|sort=彳05}}
-
 =====Readings=====
-* {{ja-readings|on=[[ひ]] (hi)|kun=[[かれ]] (kare), [[かの]] (kano), [[あれ]] (are)}}
+{{ja-readings
+|on=[[ひ]] (hi)
+|kun=[[あ]] (a) {{non-joyo-reading}}, [[あの|あ.の]] ([[彼の]], a.no) {{non-joyo-reading}}, [[あれ]] (are) {{non-joyo-reading}}, [[あれ|あ.れ]] ([[彼れ]], a.re) {{non-joyo-reading}}, [[か]] (ka), [[かれ]] (kare), [[かの]] (kano), [[かの|か.の]] ([[彼の]], ka.no) {{non-joyo-reading}}
+|nanori=[[その]] (sono)
+}}
 
 =====Compounds=====
+{{der-top|Compounds}}
 * {{ja-r|彼処|あそこ|that place over there, that organization over there}}
 * {{ja-r|彼方|あちら, かなた|that way, that over there; far away}}
 * {{ja-r|彼女|かのじょ|she, girlfriend}}
 * {{ja-r|彼我|ひが|friend and fore}}
 * {{ja-r|彼岸|ひがん}}
+{{der-bottom}}
 
 ===Etymology 1===
-Short form of {{term|彼|kare}}.
-
-====Pronoun====
-{{ja-pos|k|pronoun|hira=か|rom=ka}}
-
-# distal demonstrative; something far off removed from both speaker and listener; [[that]]
-
-=====Derived terms=====
-* {{ja-r|彼の|かの|his, that}}
-* {{ja-r|彼|かれ|he}}
-
-===Etymology 2===
-/ka/ > /a/, with loss of initial /k/.
-
-====Pronoun====
-{{ja-pos|k|pronoun|hira=あ|rom=a}}
-
-# distal demonstrative; something far off removed from both speaker and listener; [[that]]
-
-=====Derived terms=====
-* [[彼の]] (ano)
-* [[彼]] (are)
-
-===Etymology 3===
-Compound of {{term|彼|ka}} and suffix {{term|れ|re}}. Long form of {{term|彼|ka}}.
-
-====Pronoun====
-{{ja-pos|k|pronoun|hira=かれ|rom=kare}}
-
-# distal demonstrative; something far off, removed from both speaker and listener; [[that]]
-#* {{RQ:Man'yōshū|18|4045}}
-#*: 於伎敝欲里 美知久流之保能 伊也麻之尓 安我毛布支見我 弥不根可母'''加礼'''
-# third person pronoun; [[he]], [[she]]
-# (particularly) male personal third  person pronoun; [[he]]
-
-=====Derived terms=====
-* [[彼]] (are)
-
-===Etymology 4===
-/kare/ > /are/, with loss of initial /k/. Long form of {{term|彼|a}}.
+{{ja-kanjitab|yomi=k|か}}
+From {{etyl|ojp|ja|sort=か}}.
 
 ====Pronunciation====
-* {{a|Standard Japanese}} Pitch Accent: {{ja-accent-standard|accent=0|あ|れ}}
+{{ja-pron|yomi=k|か|acc=1|acc_ref=DJR}}
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=あれ|rom=are}}
+{{ja-pos|pronoun|か}}
 
-# distal demonstrative; something far off, removed from both speaker and listener; [[that]]
-# third person pronoun; [[he]], [[she]], [[it]]
-# second person pronoun; [[you]]
-# a euphemism for sex; [[it]]
+# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
 
-===Etymology 5===
-From pronoun {{term|彼|kare|he}}.
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|彼}}, {{ja-r|彼の|かの|his; that}}
+* {{ja-r|彼|かれ|he}}
+{{der-bottom}}
 
-====Noun====
-{{ja-noun|k|hira=かれ|rom=kare}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かれ}}
+From {{etyl|ojp|ja|sort=かれ}}.  Compound of {{suffix|lang=ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}.  Found in the [[w:Man'yōshū|''Man'yōshū'']] compiled around 759.
 
-# [[boyfriend]]
+====Pronunciation====
+{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|かれ}}
+
+# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
+#* {{RQ:Man'yōshū|18|4045}}
+#*: {{lang|ja|於伎敝欲里 美知久流之保能 伊也麻之尓 安我毛布支見我 弥不根可母'''加礼'''}}
+# third person pronoun: [[he]], [[she]]
+## particularly, male personal third person pronoun: [[he]]
+## by extension from ''he'': [[boyfriend]]
 
 =====Synonyms=====
-* {{term|彼氏|||tr=[[かれし]], [[kareshi]]|lang=ja}}
+* {{sense|boyfriend}} {{ja-r|彼氏|かれし}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|彼氏|かれし|boyfriend}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|かの}}
+Compound of {{compound|lang=ja|sort=かの|彼|tr1=ka|t1=that, yon|の|tr2=no|pos2=possessive particle}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かの|acc=1|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|かの}}
+
+# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
+# third person pronoun: [[he]], [[she]], [[it]]
+
+=====Usage notes=====
+The term ''kano'' has been mostly replaced by {{ja-r|あの}} in modern Japanese.  ''Kano'' is still in use, but is viewed as more [[formal]] and [[archaic]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|彼女|かのじょ|she; girlfriend}}
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|あ}}
+{{IPAchar|/ka/}} → {{IPAchar|/a/}}
+
+Shift in pronunciation from ''ka'' above.  Appears from the [[w:Heian period|Heian period]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あ}}
+
+====Pronoun====
+{{ja-pos|pronoun|あ}}
+
+# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|彼の|あの|that [one] {{qualifier|as a modifier}}}}
+* {{ja-r|彼|あれ|that [one] {{qualifier|as a noun}}}}
+{{der-bottom}}
 
 ====See also====
-* [[此]], [[是]], [[之]] (ko, kore)
-* [[其]] (so, sore)
+* {{ja-l|此}}, {{ja-l|是}}, {{ja-l|之}} (''ko'', ''kore'')
+* {{ja-l|其}} (''so'', ''sore'')
 
-====References====
-* {{R:Man'yōshū 4}}
+===Etymology 5===
+{{ja-kanjitab|yomi=k|あれ}}
+Compound of {{suffix|lang=ja|sort=あれ|彼|tr1=a|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あれ|acc=0|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|あれ}}
+
+# [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
+# third person pronoun: [[he]], [[she]], [[it]]
+# second person pronoun: [[you]]
+# a euphemism for sex: [[it]]
+
+=====See also=====
+* {{ja-l|此}}, {{ja-l|是}}, {{ja-l|之}} (''ko'', ''kore'')
+* {{ja-l|其}} (''so'', ''sore'')
+
+=====Usage notes=====
+More often spelled in hiragana, as {{ja-l|あれ}}.
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|かれ]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 彼]]
 
 ----
 
