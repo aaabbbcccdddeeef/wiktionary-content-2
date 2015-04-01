@@ -838,7 +838,7 @@ Used instead of {{term|o|lang=es}} when the following word starts with a vowel s
 {{rfe|lang=vi}}
 
 ====Noun====
-{{vi-noun}}
+{{vi-noun|𡠄}}
 
 #{{context|dialectal|Northern dialects|lang=vi}} [[mother]]; [[mom]]
 
@@ -851,14 +851,15 @@ Used instead of {{term|o|lang=es}} when the following word starts with a vowel s
 [[Category:vi:Female]]
 
 ===Etymology 2===
-{{rfe|lang=vi}}
+From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*ʔuː||[[hump]] (of a [[zebu]])}}
 
 ====Noun====
-{{vi-noun|cls=khối}}
+{{vi-noun|cls=khối|[[幽]], [[𢉾]]}}
 
-#{{context|medicine|lang=vi}} [[tumor]]
+#{{context|oncology|pathology|lang=vi}} [[tumor]]
 
 =====Derived terms=====
+*{{l|vi|u mỡ}}
 *{{l|vi|u xơ tử cung}}
 *{{l|vi|u nang buồng trứng}}
 
@@ -873,7 +874,6 @@ Used instead of {{term|o|lang=es}} when the following word starts with a vowel s
 
 #{{Latn-def|vi|name|U|u}}
 [[Category:Vietnamese letters]]
-
 [[af:u]]
 [[ang:u]]
 [[an:u]]
