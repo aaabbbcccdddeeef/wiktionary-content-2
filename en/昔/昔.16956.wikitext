@@ -39,16 +39,31 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=日04}}
 
-# {{defn|lang=ja|sort=日04}}
-
 ====Readings====
-* {{ja-readings|on=[[せき]] (seki), [[しゃく]] (shaku)|kun=[[むかし]] (mukashi)}}
+{{ja-readings
+|goon=[[しゃく]] (shaku)
+|kanon=[[せき]] (seki)
+|kun=[[むかし]] (mukashi)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|むかし}}
+From {{etyl|ojp|ja|sort=むかし}}.  The ''muka'' portion derives from the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku||to face opposite to something}}, implying “that which stands opposite from the present”.  The ''shi'' portion is suffix {{m|ja|し|tr=shi}} indicating [[direction]], also found in words {{m|ja|縦し|tr=tatashi||the standing or vertical direction}}, {{m|ja|横し|tr=yokoshi||the sideways or horizontal direction}}.  This appears to be a somewhat rare alternative form, more commonly encountered as {{m|ja|さ|tr=sa}}, and may be cognate with the nominalizing adjective ending {{m|ja|さ|tr=sa}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|むかし|acc=0|acc_ref=DJR}}
+
+===Adverb===
+{{ja-pos|adverb|むかし}}
+
+# [[once]] {{qualifier|in the indeterminate past}}
+#: {{ja-usex|'''昔'''見た映画|'''むかし''' みた えいが|a movie I '''once''' saw}}
 
 ===Noun===
-{{ja-noun|k|hira=むかし|rom=mukashi}}
+{{ja-noun|むかし}}
 
 # the [[past]], [[old]] times
-#* {{RQ:Utsubo Monogatari|Toshikage}}
+#* {{RQ:Utsubo Monogatari|Toshikage}}<ref>{{R:Utsubo Monogatari 1}}</ref>
 #*: '''むかし'''、式部大輔、左大弁かけて清原の王ありけり。
 #: 昔と[[今]] — past and the present
 #: 昔の[[自分]] — my past self
@@ -58,14 +73,8 @@
 #: 昔の[[人]] — ancient people
 #: もう昔の[[話]]だ。— That's [[ancient history]].
 
-===Adverb===
-{{ja-pos|k|adverb|hira=むかし|rom=mukashi}}
-
-# [[once]]
-#: 昔[[見る|見た]][[映画]] — a movie I once saw
-
 ===References===
-* {{R:Utsubo Monogatari 1}}
+<references/>
 
 [[Category:ja:Time|むかし]]
 [[Category:Japanese terms written with one Han script character]]
