@@ -44,14 +44,100 @@
 {{ja-kanji|grade=c|rs=丶04}}
 
 ====Readings====
-{{ja-kanjitab|どんぶり|yomi=k}}
-* {{ja-readings|on=[[せい]] (sei), [[たん]] (tan), [[しょう]] (shō)|kun=[[どん]] (don), [[どんぶり]] (donburi)}}
+{{ja-readings
+|goon=[[しょう]] (shō), {{qualifier|historical}} [[しやう]] (shau)
+|kanon=[[せい]] (sei)
+|kun=[[どん]] (don), [[どんぶり]] (donburi)
+}}
 
-===Noun===
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Donburi}}
+[[File:Donburi-bachi by jetalone in Ginza, Tokyo.jpg|thumb|250px|{{lang|ja|丼}} (''donburi''): a large '''[[donburi]] [[bowl]]'''.]]
+{{wikipedia|lang=ja|丼物|丼物 (the food)}}
+{{wikipedia|Donburi}}
+[[File:Gyudon_by_jetalone_in_Higashi-Ginza,_Tokyo.jpg|thumb|250px|{{lang|ja|丼}} (''donburi'', ''don''): a serving of ''gyū'''don''''' or [[beef]] '''[[donburi]]'''.]]
+[[File:Tendon in Tokyo.jpg|thumb|250px|{{lang|ja|丼}} (''donburi'', ''don''): a serving of ''ten'''don''''' or [[tempura]] '''[[donburi]]'''.]]
+[[File:Oyakodon_003.jpg|thumb|250px|{{lang|ja|丼}} (''donburi'', ''don''): a serving of ''oyako'''don''''' or [[chicken]] and [[egg]] '''[[donburi]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|どんぶり}}
+Multiple possible derivations.
+* During the [[w:Edo period|Edo period]], restaurants specializing in large portions were called {{m|ja|慳貪屋|tr=kendon'ya}}, from {{m|ja|慳貪|tr=kendon||greedy|pos=in reference to “very hungry”}} + {{m|ja|屋|tr=ya||house, store, restaurant}}.  The serving [[bowl]]s were called {{m|ja|慳貪}}{{m|ja|振り}}{{m|ja|鉢|tr=kendon-buri-bachi}}, literally “greedy” + “in that fashion” + “bowl”.  The ''ken'' portion was [[elide]]d, producing ''donburi-bachi'', and then the ''-hachi'' was dropped to produce ''donburi''.
+* Alternatively, and perhaps more likely, ''donburi'' in reference to “a bowl filled with large amount of food” may be cognate with {{m|ja|どんぶり|tr=donburi}}, an [[onomatopoeia]] of something heavy [[plunk]]ing into deep water, or something big and soft [[plop]]ping down, related to [[onomatopoeia]] {{m|ja|どぶり|tr=doburi}}, {{m|ja|どぶん|tr=dobun}}, {{m|ja|どんぶ|tr=donbu}}, and {{m|ja|どん|tr=don}}, all of generally similar meanings.  The food starts with a large portion of rice, also referred to as {{m|ja|丼飯|tr=donburi meshi}}, which could be analyzed as “plopped-down rice”.
+: ''Donburi'' is also used to refer to something “rough, approximate, not finely worked”, as in the phrase {{m|ja|丼勘定|tr=donburi kanjō||rough approximation, loose estimate}}.  This is consistent with a derivation from the onomatopoeia, but not from the restaurant terms.
+
+The kanji spelling shows {{m|mul|井||a well}} with a dot in the center, possibly indicating something thrown into the well.  This could suggest that the {{etyl|ltc|-}} reading {{IPAchar|/təm<sup>X</sup>/}} may similarly derive from [[onomatopoeia]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|どんぶり|acc=0|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|どんぶり}}
 
-# A large [[bowl]] for serving [[rice]] and [[stew]].
-# [[donburi]], a dish served in such a bowl.
+# a simple large [[bowl]] for serving food
+# a one-[[bowl]] [[meal]] served in a [[donburi]] [[bowl]], consisting of a large portion of rice, covered in a [[meat]] or [[fish]]
+
+=====Usage notes=====
+To [[disambiguate]], speakers may refer more specifically to ''donburibachi'' for the bowl, and ''donburi mono'' for the food.
+
+English-language sources often refer to the food as similar to [[stew]] served over rice.  Note, however, that stews consist of meat, fish, and/or vegetables cooked in a liquid and served with the sauce, whereas donburi [[topping]]s may be relatively dry, as in [[tempura]] donburi or [[beef]] donburi, or even uncooked, as in ''tekkadon'' ([[tuna]] [[sashimi]] donburi).
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+{{sense|bowl}}
+* {{ja-r|丼鉢|どんぶりばち}}
+* {{qualifier|smaller bowl}} {{ja-r|茶碗|ちゃわん}}
+* {{qualifier|smaller bowl, northern dialect}} {{ja-r|椀子|わんこ}}
+* {{qualifier|smaller bowl, usually wooden}} {{ja-r|椀|わん}}, {{ja-r|碗|わん}}
+{{sense|food}}
+* {{ja-r|丼物|どんぶりもの}}
+{{der-bottom}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|丼勘定|どんぶり かんじょう}}: 
+* {{ja-r|丼鉢|どんぶりばち}}: a simple large [[bowl]] for serving food
+* {{ja-r|丼飯|どんぶり めし}}: a large [[helping]] of [[rice]] served in a ''donburi'' bowl
+* {{ja-r|丼物|どんぶり もの}}: a one-[[bowl]] [[meal]] consisting of a large portion of rice, covered in a [[meat]] or [[fish]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|どん}}
+[[abbreviation|Abbreviation]] of ''donburi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|どん|acc=1|acc_ref=DJR}}
+* When used as a suffix, the resulting term has a {{m|ja|平板型|tr=heiban-gata||flat type}} or type 0 [[w:Japanese pitch accent|pitch accent]] pattern.
+
+====Noun====
+{{ja-noun|どん}}
+
+# [[donburi]]: a one-[[bowl]] [[meal]] consisting of a large portion of rice, covered in a [[meat]] or [[fish]]
+
+=====Usage notes=====
+Seldom used as an independent noun.  More commonly encountered as a suffix.
+
+====Suffix====
+{{ja-pos|suffix|どん}}
+
+# [[donburi]]: a one-[[bowl]] [[meal]] consisting of a large portion of rice, covered in a [[meat]] or [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鰻丼|うなどん}}: [[eel]] [[donburi]]
+* {{ja-r|親子丼|おやこどん}}: literally “parent and child donburi”: [[chicken]] and [[egg]] [[donburi]], [[salmon]] and salmon [[roe]] [[donburi]]
+* {{ja-r|牛丼|ぎゅうどん}}: [[beef]] [[donburi]]
+* {{ja-r|カツ丼|カツどん}}: [[tonkatsu]] [[donburi]]
+* {{ja-r|カレー丼|カレーどん}}: [[curry]] [[donburi]]
+* {{ja-r|中華丼|ちゅうかどん}}: [[Chinese]]-style [[donburi]]
+* {{ja-r|鉄火丼|てっかどん}}: [[tuna]] [[sashimi]] [[donburi]]
+* {{ja-r|天丼|てんどん}}: [[tempura]] [[donburi]]
+* {{ja-r|豚丼|ぶたどん}}: [[pork]] [[donburi]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
