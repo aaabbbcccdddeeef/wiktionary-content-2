@@ -43,7 +43,6 @@ see [[佛]]
 {{ja-readings
 |goon=[[ぶつ]] (butsu)
 |kanon=[[ふつ]] (futsu)
-|on=[[ほつ]] (hotsu)
 |kun=[[ほとけ]] (hotoke)
 }}
 
@@ -79,11 +78,18 @@ Abbreviation of [[ateji]] term {{m|ja|仏蘭西|tr=Furansu||France}}.
 ====Proper noun====
 {{ja-pos|proper|ふつ|kyu=佛}}
 
-# [[France]]
+# {{abbreviation of|lang=ja|sort=ふつ|仏蘭西|nodot=1}}: [[France]]
+#: {{ja-usex|札幌日'''仏'''協会|^さっぽろ ^にち '''^ふつ''' ^きょうかい|The Sapporo Japan-'''France''' Society}}
+
+=====Synonyms=====
+{{der-top}}
+* {{ja-r|フランス}}
+* {{ja-r|仏蘭西|フランス}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=o|ぶつ}}
-From {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ}}, itself from {{etyl|sa|ja|sort=ふつ'}} {{m|sa|बुद्ध}}.
+From {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ||Buddha}}, itself from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|ぶつ|acc=1}}
@@ -93,14 +99,19 @@ From {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ}}, itself from {{et
 
 # [[Buddhism]]
 
+=====Synonyms=====
+{{der-top}}
+* {{ja-r|仏教|ぶっきょう}}
+{{der-bottom}}
+
 ====Proper noun====
 {{ja-pos|proper|ぶつ|kyu=佛}}
 
-# {{abbreviation of|lang=ja|sort=ぶつ|仏陀}}: [[Buddha]].
+# {{abbreviation of|lang=ja|sort=ぶつ|仏陀|nodot=1}}: [[Buddha]].
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|ほとけ}}
-Unclear.  The ''hoto'' element might be from a Chinese dialect variation on {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ}},<ref name="DJR">{{R:Daijirin}}</ref> or possibly just the {{m|zh|佛|tr=bjut}} portion,<ref name="DJS">{{R:Daijisen}}</ref> ultimately deriving from {{etyl|sa|ja|sort=ふつ'}} {{m|sa|बुद्ध}}.  The ''ke'' element might be the suffix {{m|ja|気|tr=ke||spirit}}.<ref name="DJR">{{R:Daijirin}}</ref>
+Unclear.  The ''hoto'' element might be from a Chinese dialect variation on {{etyl|ltc|ja|sort=ぶつ}} {{m|zh|佛陀|tr=bjut dhɑ}},<ref name="DJR">{{R:Daijirin}}</ref> or possibly just the {{m|zh|佛|tr=bjut}} portion,<ref name="DJS">{{R:Daijisen}}</ref> ultimately deriving from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}.  The ''ke'' element might be the suffix {{m|ja|気|tr=ke||spirit}}.<ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ほとけ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
@@ -122,9 +133,15 @@ Unclear.  The ''hoto'' element might be from a Chinese dialect variation on {{et
   | location = Tōkyō
   | id = ISBN 4-00-240017-4
   }}</ref> (page 7)
-#*: 「我子の'''仏'''、変化の人と申ながら、こゝら大きさまでやしなひたてまつる心ざし、をろかならず。 [...]」
+#*: {{lang|ja|我子の'''佛'''、變化の人と申しながら、こゝら大さまで養ひ奉る志疎かならず。}}
+#*:: {{lang|ja|わ が こ の '''ほとけ'''、 へんげ の ひと と まうしながら、 ここら おほき さま で やしなひ たてまつる こころざし をろか ならず。}}
+#*:: ''Wa ga ko no '''hotoke''', henge no hito to maushinagara, kokora ohoki sama de yashinahi tatematsuru kokorozashi woroka narazu.''
+#*::: My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.
 #* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]]<ref name="Taketori"/> (page 61)
-#*: 「あが'''仏'''、何事思ひたまふぞ。おぼすらんこと、何事ぞ」
+#*: {{lang|ja|あが'''仏'''、何事思ひたまふぞ。}}
+#*:: {{lang|ja|あ が '''ほとけ'''、 なにごと おもひたまふ ぞ。}}
+#*:: ''A ga '''hotoke''', nanigoto omohitamafu zo.''
+#*::: My '''dear''', what on earth are you thinking about?
 
 ====Proper noun====
 {{ja-pos|proper|ほとけ|kyu=佛}}
