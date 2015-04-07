@@ -57,36 +57,39 @@
 
 ==Japanese==
 
-===Pronunciation===
-{{ja-pron|もの|acc=o|y=k}}
-
 ===Kanji===
 {{ja-kanji|grade=3|rs=牛04}}
 
-# {{defn|lang=ja|sort=牛04}}
-
 ====Readings====
-* {{ja-readings|on=[[ぶつ]] ([[butsu]]), [[もつ]] ([[motsu]])|kun=[[もの]] ([[mono]])}}
+{{ja-readings
+|goon=[[もつ]] (motsu), {{qualifier|rare}} [[もち]] (mochi)
+|kanon=[[ぶつ]] (butsu)
+|kun=[[もの]] (mono), [[もん]] (mon) {{non-joyo-reading}}
+}}
 
 ====Compounds====
-{{top3}}
+{{der-top|Compounds}}
 * {{ja-r|好物|こうぶつ}}: favorite food
 * {{ja-r|本物|ほんもの}}: real
 * {{ja-r|物語|ものがたり}}: tale, story
-{{mid3}}
 * {{ja-r|食べ物|たべもの}}: food
 * {{ja-r|着物|きもの}}: kimono
 * {{ja-r|動物|どうぶつ}}: animal
-{{mid3}}
 * {{ja-r|果物|くだもの}}: fruit
 * {{ja-r|見物|けんぶつ}}: sightseeing
-* [[贋物]] ([[がんぶつ]], ''[[ganbutsu]]'')
-{{bottom}}
+* {{ja-r|贋物|がんぶつ}}: a [[fake]], an [[imitation]], a [[knock-off]]
+{{der-bottom}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|もの|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
 ===Noun===
 {{ja-noun|もの}}
 
-# [[thing]]
+# a [[thing]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words]]
 
