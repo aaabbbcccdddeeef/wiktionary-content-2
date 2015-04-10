@@ -185,103 +185,135 @@ Ancient simplification of [[龢]].
 ==Japanese==
 {{wikipedia|Wa (Japanese)}}
 
-===Etymology===
-Substitution for [[倭]].
-
 ===Kanji===
 {{ja-kanji|grade=3|rs=口05}}
 
 ====Readings====
-* {{ja-readings|on=[[わ]] (wa), [[か]] (ka)|kun=[[やわらぐ]] (yawaragu), [[なごむ]] (nagomu), [[なごやか]] (nagoyaka)
-|nanori=[[かず]] (kazu)}}
+{{ja-readings
+|goon=[[わ]] (wa)
+|kanon=[[か]] (ka)
+|toon=[[お]] (o)
+|kun=[[やわらぐ]] ([[和らぐ]], yawaragu), [[なごむ]] ([[和む]], nagomu), [[なごやか]] ([[和やか]], nagoyaka)
+|nanori=[[かず]] (kazu)
+}}
 
 ====Compounds====
-{{rel-top3}}
-* {{l|ja|sc=Jpan|和尚|tr=おしょう, oshō}}
-* {{l|ja|sc=Jpan|和韻|tr=わいん, wain}}
-* {{l|ja|sc=Jpan|和英|tr=わえい, waei}}
-* {{l|ja|sc=Jpan|和歌|tr=わか, waka}}
-* {{l|ja|sc=Jpan|和解|tr=わかい, wakai}}
-* {{l|ja|sc=Jpan|和学|tr=わがく, wagaku}}
-* {{l|ja|sc=Jpan|和菓子|tr=わがし, wagashi}}
-* {{l|ja|sc=Jpan|和漢|tr=わかん, wakan}}
-* {{l|ja|sc=Jpan|和姦|tr=わかん, wakan}}
-* {{l|ja|sc=Jpan|和漢混交文|tr=わかんこんこうぶん, wakankonkōbun}}
-* {{l|ja|sc=Jpan|和気|tr=わき, waki}}
-* {{l|ja|sc=Jpan|和気藹|tr=わきあい, wakiai}}
-* {{l|ja|sc=Jpan|和気藹藹|tr=わきあいあい, wakiaiai}}
-* {{l|ja|sc=Jpan|和議|tr=わぎ, wagi}}
-* {{l|ja|sc=Jpan|和協|tr=わきょう, wakyō}}
-* {{l|ja|sc=Jpan|和訓|tr=わくん, wakun}}
-* {{l|ja|sc=Jpan|和敬|tr=わけい, wakei}}
-* {{l|ja|sc=Jpan|和敬静寂|tr=わけいせいじゃく, wakeiseijaku}}
-* {{l|ja|sc=Jpan|和語|tr=わご, wago}}
-* {{l|ja|sc=Jpan|和寇|tr=わこう, wakō}}
-{{rel-mid3}}
-* {{l|ja|sc=Jpan|和合|tr=わごう, wagō}}
-* {{l|ja|sc=Jpan|和光同塵|tr=わこうどうじん, wakōdōjin}}
-* {{l|ja|sc=Jpan|和琴|tr=わきん, wakin}}
-* {{l|ja|sc=Jpan|和魂漢才|tr=わこんかんさい, wakonkansai}}
-* {{l|ja|sc=Jpan|和裁|tr=わさい, wasai}}
-* {{l|ja|sc=Jpan|和算|tr=わさん, wasan}}
-* {{l|ja|sc=Jpan|和紙|tr=わし, washi}}
-* {{l|ja|sc=Jpan|和字|tr=わじ, waji}}
-* {{l|ja|sc=Jpan|和室|tr=わしつ, washitsu}}
-* {{l|ja|sc=Jpan|和同|tr=わどう, wadō}}
-* {{l|ja|sc=Jpan|和習|tr=わしゅう, washū}}
-* {{l|ja|sc=Jpan|和順|tr=わじゅん, wajun}}
-* {{l|ja|sc=Jpan|和書|tr=わしょ, washo}}
-* {{l|ja|sc=Jpan|和上|tr=わじょう, wajō}}
-* {{l|ja|sc=Jpan|和食|tr=わしょく, washoku}}
-* {{l|ja|sc=Jpan|和製|tr=わせい, wasei}}
-* {{l|ja|sc=Jpan|和戦|tr=わせん, wasen}}
-* {{l|ja|sc=Jpan|和風|tr=わふう, wahū}}
-* {{l|ja|sc=Jpan|和服|tr=わふく, wahuku}}
-* {{l|ja|sc=Jpan|和文|tr=わぶん, wabun}}
-{{rel-mid3}}
-* {{l|ja|sc=Jpan|和平|tr=わへい, wahei}}
-* {{l|ja|sc=Jpan|和睦|tr=わぼく, waboku}}
-* {{l|ja|sc=Jpan|和本|tr=わほん, wahon}}
-* {{l|ja|sc=Jpan|和名|tr=わめい, wamei}}
-* {{l|ja|sc=Jpan|和訳|tr=わやく, wayaku}}
-* {{l|ja|sc=Jpan|和洋|tr=わよう, wayō}}
-* {{l|ja|sc=Jpan|和洋折衷|tr=わようせちゅう, wayōsecchū}}
-* {{l|ja|sc=Jpan|和様|tr=わよう, wayō}}
-* {{l|ja|sc=Jpan|和学|tr=わがく, wagaku}}
-* {{l|ja|sc=Jpan|漢和辞典|tr=かんわじてん, kanwajiten}}
-* {{l|ja|sc=Jpan|緩和|tr=かんわ, kanwa}}
-* {{l|ja|sc=Jpan|講和|tr=こうわ, kōwa}}
-* {{l|ja|sc=Jpan|昭和|tr=しょうわ, shōwa}}
-* {{l|ja|sc=Jpan|唱和|tr=しょうわ, shōwa}}
-* {{l|ja|sc=Jpan|総和|tr=そうわ, sōwa}}
-* {{l|ja|sc=Jpan|調和|tr=ちょうわ, chōwa}}
-* {{l|ja|sc=Jpan|飽和|tr=ほうわ, hōwa}}
-* {{l|ja|sc=Jpan|大和|tr=やまと, yamato}}
-{{rel-bottom}}
+{{der-top|Compounds}}
+* {{ja-r|和尚|おしょう}}
+* {{ja-r|和韻|わいん}}
+* {{ja-r|和英|わえい}}
+* {{ja-r|和歌|わか}}
+* {{ja-r|和解|わかい}}
+* {{ja-r|和学|わがく}}
+* {{ja-r|和菓子|わがし}}
+* {{ja-r|和漢|わかん}}
+* {{ja-r|和姦|わかん}}
+* {{ja-r|和漢混交文|わかん こんこう ぶん}}
+* {{ja-r|和気|わき}}
+* {{ja-r|和気藹|わきあい}}
+* {{ja-r|和気藹藹|わきあいあい}}
+* {{ja-r|和議|わぎ}}
+* {{ja-r|和協|わきょう}}
+* {{ja-r|和訓|わくん}}
+* {{ja-r|和敬|わけい}}
+* {{ja-r|和敬静寂|わけい せいじゃく}}
+* {{ja-r|和語|わご}}
+* {{ja-r|和寇|わこう}}
+* {{ja-r|和合|わごう}}
+* {{ja-r|和光同塵|わこう どうじん}}
+* {{ja-r|和琴|わきん}}
+* {{ja-r|和魂漢才|わこん かんさい}}
+* {{ja-r|和裁|わさい}}
+* {{ja-r|和算|わさん}}
+* {{ja-r|和紙|わし}}
+* {{ja-r|和字|わじ}}
+* {{ja-r|和室|わしつ}}
+* {{ja-r|和同|わどう}}
+* {{ja-r|和習|わしゅう}}
+* {{ja-r|和順|わじゅん}}
+* {{ja-r|和書|わしょ}}
+* {{ja-r|和上|わじょう}}
+* {{ja-r|和食|わしょく}}
+* {{ja-r|和製|わせい}}
+* {{ja-r|和戦|わせん}}
+* {{ja-r|和風|わふう}}
+* {{ja-r|和服|わふく}}
+* {{ja-r|和文|わぶん}}
+* {{ja-r|和平|わへい}}
+* {{ja-r|和睦|わぼく}}
+* {{ja-r|和本|わほん}}
+* {{ja-r|和名|わめい}}
+* {{ja-r|和訳|わやく}}
+* {{ja-r|和洋|わよう}}
+* {{ja-r|和洋折衷|わよう せちゅう}}
+* {{ja-r|和様|わよう}}
+* {{ja-r|和学|わがく}}
+* {{ja-r|漢和辞典|かんわ じてん}}
+* {{ja-r|緩和|かんわ}}
+* {{ja-r|講和|こうわ}}
+* {{ja-r|昭和|しょうわ}}
+* {{ja-r|唱和|しょうわ}}
+* {{ja-r|総和|そうわ}}
+* {{ja-r|調和|ちょうわ}}
+* {{ja-r|飽和|ほうわ}}
+* {{ja-r|大和|やまと}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=o|わ}}
+From {{etyl|ltc|ja|sort=わ}} {{m|zh|和|tr=hwa||harmonious}}.
+
+The “Japan” sense appears during the reign of [[w:Empress Genmei|Empress Genmei]] (707–715), as this character {{lang|ja|和}} was chosen as a homophone with a more favorable meaning to replace the previous character {{m|ja|倭|tr=wa}} then in use as the kanji name for Japan<ref name="DJR">{{R:Daijirin}}</ref> (see the etymology at {{ja-r|大和|^やまと}} for more details).  The “Japan” sense was usually read with a [[訓読み#Japanese|kun'yomi]] of ''yamato'', until some time in the [[w:Muromachi period|Muromachi period]], when the [[漢音#Japanese|kan'on]] reading of ''Wa'' became more common.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=goon|わ|acc=1}}
+
+====Noun====
 {{ja-noun|わ}}
 
 # [[peace]], [[harmony]]
 # [[sum]]
-# [[Japanese]]
-#: {{ja-usex|lang=ja|和食|わしょく|Japanese style food, Japanese cuisine}}
-#: {{ja-usex|lang=ja|和室|わしつ|a Japanese room with tatami flooring and usually sliding doors}}
 
-===Proper noun===
-{{ja-pos|わ|proper}}
+====Proper noun====
+{{ja-pos|proper|わ}}
 
 # [[Japan]], [[Japanese]], [[Nippo-]]
-#: {{ja-usex|lang=ja|和露辞典|^わ-^ろ じてん|Russian-Japanese dictionary}}
+#: {{ja-usex|lang=ja|'''和'''露辞典|'''^わ'''-^ろ じてん|'''Japanese'''-Russian dictionary}}
+#: {{ja-usex|'''和'''食|'''わ'''しょく|'''Japanese'''-style food, '''Japanese''' cuisine}}
+#: {{ja-usex|'''和'''室|'''わ'''しつ|a '''Japanese'''-style room with tatami flooring and usually sliding doors}}
 
-===Proper noun===
-{{ja-pos|k|proper|hira=のどか|rom=Nodoka}}
+=====Usage notes=====
+Often used as an [[affix]] to form compounds, as in the usage examples above.
 
-# {{given name|male|lang=ja}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|やまと}}
+Appears during the reign of [[w:Empress Genmei|Empress Genmei]] (707–715), as this character {{lang|ja|和}} was chosen as a homophone with a more favorable meaning to replace the previous character {{m|ja|倭|tr=wa}} then in use as the kanji name for Japan<ref name="DJR">{{R:Daijirin}}</ref> (see the etymology at {{ja-r|大和|^やまと}} for more details).  The “Japan” sense was usually read with a [[訓読み#Japanese|kun'yomi]] of ''Yamato'', until some time in the [[w:Muromachi period|Muromachi period]], when the [[漢音#Japanese|kan'on]] reading of ''Wa'' became more common.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-[[Category:Japanese male given names|のどか]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 和]]
+In modern Japanese, the ''Yamato'' reading is more commonly spelled {{ja-l|大和}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|やまと}}
+
+====Alternative forms====
+* {{ja-l|大和}} {{qualifier|more common}}, {{ja-l|倭}} {{qualifier|historical}}
+
+====Proper noun====
+{{ja-pos|proper|やまと}}
+
+# {{ja-def|大和}} [[Japan]], [[Japanese]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr}}
+Used as [[ateji]] in various names.
+
+====Proper noun====
+{{ja-pos|proper|のどか}}
+
+# {{given name|lang=ja|sort=のどか|male}}
+
+===References===
+<references/>
+
 ----
 
 ==Korean==
