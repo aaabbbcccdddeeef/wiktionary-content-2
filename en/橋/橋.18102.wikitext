@@ -45,30 +45,45 @@ Most of the things English terms ''bridges''&mdash;as over rivers&mdash;are desc
 {{ja-kanji|grade=3|rs=木12}}
 
 ====Readings====
-* {{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[きょう]] (kyō)|on=[[こう]] (kō)|kun=[[はし]] (hashi)}}
+{{ja-readings
+|goon=[[ぎょう]] (gyō)
+|kanon=[[きょう]] (kyō)
+|kun=[[はし]] (hashi)
+|nanori=[[ばせ]] (base)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|鉄橋|てっきょう}}
 * {{ja-r|高橋|たかはし}}
-
-===References===
-* {{Shin'yaku Kegonkyō Ongi Shiki}}
+{{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|はし|yomi=k}}
-pasi > ɸasi > hasi.
+{{IPAchar|/pasi/}} → {{IPAchar|/ɸasi/}} → {{IPAchar|/hasi/}}
+
+From {{etyl|ojp|ja|はし}}, originally indicating either the area between two things, or a connection between two things.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{m|ja|階|tr=hashi||stairs from a garden up to the house}}, both cognate with root ''hasa'' indicating the narrow area between two things, as  in {{m|ja|狭間|pos=classical ''hasama'', modern ''hazama''||narrow gap between two things}} or {{m|ja|挟む|tr=hasamu||to put between two things that are close together, to squeeze between two things}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Cognate also with root ''hoso'' indicating the narrowness of a thing itself, as in {{m|ja|細い|tr=hosoi||narrow, slender}}, {{m|ja|細める|tr=hosomeru||to narrow something, to make something narrow}}.
 
 ===Pronunciation===
-{{ja-pron|はし|accent=o|yomi=kun|acc_ref=NHK}}
+{{ja-pron|yomi=k|はし|acc=2|acc_ref=NHK,DJR}}
 
 ===Noun===
 {{ja-noun|はし}}
 
-# that which is constructed to connect two points for the purpose of transportation; a [[bridge]]
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|16}}
+# that which is constructed to connect two points for the purpose of transportation: a [[bridge]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|16}}:<ref name="SKOS">{{Shin'yaku Kegonkyō Ongi Shiki}}</ref>
 #*: 旋澓 [...] 梁力將反橋也二字'''波之'''
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|43}}
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|43}}:<ref name="SKOS"/>
 #*: 橋梁 上'''波之'''下宇都波利
+# a [[bridge]]-like [[walkway]] or [[corridor]] between two [[building]]s in a [[manor]], [[palace]], [[castle]], or similar structure
+# a person who acts as a [[bridge]] between different people: a [[mediator]], a [[go-between]]
+
+====Synonyms====
+* {{sense|bridge for traffic}} {{ja-r|橋梁|きょうりょう}}
+* {{sense|corridor}} {{ja-r|渡り廊下|わたりろうか}}, {{ja-r|渡殿|わたどの}}, {{ja-r|長橋|ながはし}}
+* {{sense|mediator}} {{ja-r|仲立ち|なかだち}}, {{ja-r|仲介|ちゅうかい}}
 
 ===References===
 <references/>
