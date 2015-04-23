@@ -63,29 +63,50 @@ Pictographic representation of a field.
 ===Kanji===
 {{ja-kanji|grade=1|rs=田00}}
 
-# {{defn|lang=ja|sort=田00}}
+# [[paddy]], [[field]]
 
 ====Readings====
-* {{ja-readings|goon=[[でん]] (den)
+{{ja-readings
+|goon=[[でん]] (den)
 |kanon=[[てん]] (ten)
 |kun=[[た]] (ta)
-|nanori=[[だ]] (da)}}
+|nanori=[[だ]] (da)
+}}
 
 ====Usage notes====
-This character means [[rice paddy]] in Japanese. The Chinese word for [[rice paddy]] is [[水田]].
+Note that the {{m|en|rice paddy}} meaning is specific to Japanese. The Chinese word for [[rice paddy]] is {{m|zh|水田}}.
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|半田|はんだ}}
+* {{ja-r|豊田|とよた}}
+* {{ja-r|羽田|はねだ}}
+* {{ja-r|成田|なりた}}
+{{der-bottom}}
+
+===Etymology===
 {{ja-kanjitab|た|yomi=k}}
+From {{etyl|ojp|ja|sort=た}}.  Appears in the [[w:Kojiki|''Kojiki'']] written in roughly 711-712.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|た|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|た}}
 
 # [[rice paddy]]
+# [[cultivated]] [[field]]
 
-====Compounds====
-* {{ja-r|半田|はんだ}}
-* {{ja-r|豊田|とよた}}
-* {{ja-r|羽田|はねだ}}
-* {{ja-r|成田|なりた}}
+====Usage notes====
+The term ''ta'' can refer to either a wet field as for rice agriculture, or a dry field as for other crops.  This term does not refer to a wild field or [[meadow]].
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|田んぼ|たんぼ}}: a [[cultivated]] [[field]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
