@@ -29,7 +29,33 @@
 # [[peach]]
 
 ====Readings====
-{{ja-readings|goon=[[どう]] (dō)|kanon=[[とう]] (tō), {{qualifier|historical}} [[たう]] (tau)|kun=[[もも]] (momo)}}
+{{ja-readings
+|goon=[[どう]] (dō), {{qualifier|historical}} [[だう]] (dau)
+|kanon=[[とう]] (tō), {{qualifier|historical}} [[たう]] (tau)
+|kun=[[もも]] (momo)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|桃花|とうか}}: [[peach]] [[blossom]] [[flower]]
+* {{ja-r|桃果|とうか}}: peach ([[fruit]])
+* {{ja-r|桃矢|^とうや}}: “peach arrow” → a male given name
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|もも}}
+From {{etyl|ojp|ja|sort=もも}}.  Brought to Japan in antiquity, with pits found in prehistoric sites from the [[w:Yayoi period|Yayoi period]], 300 BCE - 300 CE.  Mentioned as a [[food]] in documents from the [[w:Nara period|Nara]] and [[w:Heian period|Heian]] periods.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Ultimate derivation unknown.  Theories include the following.
+* Possibly derived originally from a reduplication of {{m|ja|実|tr=</i>Old Japanese ''mu'', modern Japanese ''mi''||fruit}}, from the way that peaches often grow in clusters.  However, the vowel shift seems unlikely given regular Japanese phonetic shifts.  In addition, most reduplicated terms in Japanese have the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern, starting high and falling.
+* Possibly cognate with {{etyl|ojp|-}} {{m|ja|百|tr=momo||hundred; lots}}.  However, this term also has the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern.
+* Possibly a reduplication of {{m|ja|毛|tr=mo||hair}}, from the way that peaches are [[hairy]].  The term is spelled as {{lang|ja|毛毛}} in some ancient documents.  However, {{m|ja|毛}} was commonly used as [[man'yōgana]] for its phonetic value, in which cases its original Chinese meaning of {{m|en|hair}} is usually ignored.
+None of the above possibilities seems very compelling.  Given the archaeological evidence, this term probably originated before the Japanese ancestor population migrated to the Japanese [[archipelago]].
+
+Possibly related to {{m|ja|梅|tr=</i>ancient ''mume'', modern ''ume''||Japanese apricot, Japanese plum}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|もも|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|もも|kata=モモ}}
@@ -38,24 +64,30 @@
 # [[peach]] tree
 
 ====Derived terms====
-* [[桃花]] ([[とうか]], ''[[tōka]]''): [[peach]] [[blossom]] [[flower]]
-* [[桃果]] ([[とうか]], ''[[tōka]]''): peach ([[fruit]])
-* [[桃色]] ([[ももいろ]], [[momo iro]]); pink
-* [[桃色鸚哥]] ([[ももいろいんこ]], [[モモイロインコ]], [[momo iro inko]]); a galah (''Eolophus roseicapillus''), rose-breasted cockatoo
-* [[桃色遊戯]] ([[ももいろゆうぎ]], [[momo iro yuugi]]); sex play
-* [[桃栗三年柿八年]] ([[ももくりさんねんかきはちねん]], [[momo kuri san nen kaki hachi nen]]); it often takes time to bear the fruit of one's actions, literally, planted peach and chestnut seeds take three years to bear fruit, plums take eight
-* [[桃尻]] ([[ももじり]], [[momo jiri]]); somebody who is bad at horse-riding; a fidgety, restless person
-* [[桃園]] ([[ももぞの]], [[momo zono]]); a peach orchard
-* [[桃の花の香り]] ([[もものはなのかおり]], [[momo no hana no kaori]]); fragrance of peach blossom
-* [[桃割れ]] ([[ももわれ]], [[momo ware]]); a hairstyle of Meiji and Taisho era, featuring a bun resembling a halved peach
+{{der-top}}
+* {{ja-r|桃色|もも いろ}}: pink
+* {{ja-r|桃色鸚哥|もも いろ いんこ}}: “pink parakeet” → {{taxlink|Eolophus roseicapillus|species}}: {{vern|galah}}, {{vern|rose-breasted cockatoo}}
+* {{ja-r|桃色遊戯|もも いろ ゆうぎ}}: “pink playing” → sex play
+* {{ja-r|桃尻|ももじり}}: “peach butt” → from the way that the end of a peach is often pointy, and thus difficult to place stably: somebody who is bad at horse-riding; a fidgety, restless person
+* {{ja-r|桃園|ももぞの}}: a peach orchard
+* {{ja-r|桃割れ|もも われ}}: “split peach” → a hairstyle of Meiji and Taisho era, featuring a bun resembling a halved peach
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|桃栗三年柿八年|もも くり さん ねん かき はち ねん}}: “peach and chestnut take three years [to bear fruit], persimmons take eight” → it often takes time to bear the fruit of one's actions
+{{der-bottom}}
+
+====Descendants====
+* {{etyl|ain|-}}: {{m|ain|モマ|tr=moma||Japanese peach, Japanese apricot}}
 
 ===Proper noun===
 {{ja-pos|proper|もも}}
 
 # {{given name|female|lang=ja|sort=もも}}
 
-====Derived names====
-* [[桃矢]] ([[とうや]], ''[[Tōya]]''): a male given name
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|もも]]
 [[Category:ja:Fruits|もも]]
