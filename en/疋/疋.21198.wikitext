@@ -53,16 +53,44 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=疋00}}
 
-# {{defn|lang=ja|sort=疋00}}
+# [[counter]] for [[horse]]s, [[mule]]s, and small [[animal]]s
+# [[counter]] for [[roll]]s of [[cloth]]
+# a [[measure]] of [[cloth]]
+# [[foot]] {{qualifier|rare}}
 
 ====Readings====
-* {{ja-readings|on=[[そ]] (so), [[しょ]] (sho), [[が]] (ga)|kun=[[あし]] (ashi), [[ひき]] (hiki)|nanori=}}
+{{ja-readings
+|goon=[[げ]] (ge), [[しょ]] (sho), [[ひち]] (hichi)
+|kanon=[[が]] (ga), [[そ]] (so), [[ひつ]] (hitsu)
+|kanyoon=[[ひき]] (hiki)
+|kun=[[あし]] (ashi)
+}}
 
-====Counter====
+====Usage notes====
+This kanji is not included in the [[w:Jōyō_kanji|Jōyō kanji list]].
+
+===Etymology===
+{{ja-kanjitab|yomi=o|ひき}}
+From {{etyl|ltc|ja|sort=ひき}} {{m|zh|疋|tr=srjo||foot; roll of cloth}}.  Conflated in Japanese with {{etyl|ltc|-}} {{m|zh|匹|tr=phjit||counter for horses and mules; counter for rolls of cloth}}, both in meaning and in reading.  The ''hichi'' reading evolved into ''hiki'' by association with {{m|ja|引き|tr=hiki||pulling}}, from the way that an animal's [[leash]] is [[pull]]ed.
+
+===Pronunciation===
+{{ja-pron|yomi=kanyo|ひき}}
+
+===Counter===
 {{ja-pos|ひき|counter}}
 
-# {{alternative form of|匹|lang=ja}}
+# {{alternative form of|lang=ja|sort=ひき|匹}}: [[counter]] for smaller [[animal]]s
+#: {{ja-usex|猫三'''匹'''を飼っています。|ねこ さん'''びき''' を かって います。|I have three cats.}}
 
+====Usage notes====
+Depending on the preceding word, ''-hiki'' may change via [[euphony]] to become ''-biki'' or ''-piki''.
+
+The counter for larger animals, such as [[livestock]], is usually {{m|ja|頭|tr=tō||head}}.
+
+===References===
+<references/>
+:* {{R:Daijirin}}
+:* {{R:Daijisen}}
 ----
 
 ==Korean==
