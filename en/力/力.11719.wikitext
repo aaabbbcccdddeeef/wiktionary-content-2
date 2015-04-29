@@ -148,6 +148,7 @@
 
 ==Japanese==
 {{wikipedia|lang=ja}}
+
 ===Kanji===
 {{ja-kanji|grade=1|rs=力00}}
 
@@ -162,10 +163,10 @@
 }}
 
 ===Etymology 1===
-Compound of {{etyl|ojp|ja|sort=ちから}} elements {{compound|lang=ja|sort=ちから|霊|tr1=chi|t1=power, life force, essence|から|tr2=kara|t2=from}}.
+From {{etyl|ojp|ja|sort=ちから}}.  Compound of {{etyl|ojp|ja|sort=ちから}} elements {{compound|lang=ja|sort=ちから|霊|tr1=chi|t1=power, life force, essence|から|tr2=kara|t2=from}}.
 
 ====Pronunciation====
-{{ja-pron|ちから|y=k|acc=o|dev=1|acc_ref=NHK}}
+{{ja-pron|ちから|y=k|acc=3|dev=1|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|ちから}}
@@ -178,27 +179,28 @@ Compound of {{etyl|ojp|ja|sort=ちから}} elements {{compound|lang=ja|sort=ち�
 
 =====Derived terms=====
 {{der-top}}
-力士  　(りき・し)<br />
-力持 　(ちから・もち)<br />
-力添え      (ちから・ぞえ)<br />
-力尾    (ちから・お)
-
+* {{ja-r|力足|ちから あし}}: a [[tense]]d [[leg]]; [[tensing]] one's [[leg]]s; {{qualifier|sumo}} the traditional [[sumo]] [[stomp]] at the beginning of a [[match]]
+* {{ja-r|力合わせ|ちから あわせ}}: matching strength: a [[competition]] of [[strength]]; {{qualifier|by extension}} a [[sumo]] [[match]]
+* {{ja-r|力軍|ちから いくさ}}: a [[test]] of [[strength]], a [[competition]] of [[strength]]
+* {{ja-r|力石|ちから いし}}: a large [[stone]] used as a [[dumbbell]] for purposes of [[test]]s of [[strength]]
+* {{ja-r|力一杯|ちから いっぱい}}: with all one's strength, as hard as one can
+* {{ja-r|力持ち|ちからもち}}: a very [[strong]] [[person]]
+* {{ja-r|力添え|ちからぞえ}}: [[help]], [[assistance]], [[aid]]
 {{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|ちから|proper}}
+{{ja-pos|proper|ちから}}
 
 # {{given name|male|lang=ja|sort=ちから}}
 
 ===Etymology 2===
-From {{etyl|ltc|ja|sort=りき}} {{term|lang=ltc|力|tr=lik}}.  The {{term|lang=ja|呉音|sc=Latn|''goon''}} reading, so likely the initial borrowing.  Compare modern {{etyl|yue|-}} {{term|lang=yue|力|tr=lik⁶}}.
+From {{etyl|ltc|ja|sort=りき}} {{term|lang=ltc|力|tr=lik}}.  The [[呉音#Japanese|goon]] reading, so likely the initial borrowing.  Compare modern {{etyl|yue|-}} reading ''lik<sup>6</sup>''.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}: {{term|lang=ja|呉音|sc=Latn|Goon}}
-* {{IPA|lang=ja|[ɾiki]|[ɾiki̥]}}
+{{ja-pron|yomi=goon|りき|acc=1|acc_ref=DJR}}
 
 ====Affix====
-{{ja-pos|りき|affix}}
+{{ja-pos|affix|りき}}
 
 # [[power]], [[strength]]
 #: {{ja-usex|'''力'''学、'''力'''士、二馬'''力'''|'''りき'''がく、'''りき'''し、にば'''りき'''|“'''power''' studies” (dynamics), “'''strength''' person” (sumo wrestler), two horse'''power'''}}
@@ -209,36 +211,38 @@ From {{etyl|ltc|ja|sort=りき}} {{term|lang=ltc|力|tr=lik}}.  The {{term|lang=
 # [[physical]] [[strength]]
 # {{context|lang=ja|sort=りき|Buddhism}} [[capability]], especially [[mystical]] [[power]]
 # {{context|lang=ja|sort=りき|Buddhism}} the [[suchness]] of [[ability]], one of the [[w:Ten suchnesses|Ten Suchnesses]] in Mahayana Buddhism
-# short for {{ja-l|力者||rikisha}}: a [[strong]] person
-# {{context|lang=ja|sort=りき|archaic}} short for {{ja-l|車力||shariki}}, {{ja-l|力車||rikisha}}: a [[rickshaw]]
+# short for {{m|ja|力者|tr=rikisha}}: a [[strong]] person
+# {{context|lang=ja|sort=りき|archaic}} short for {{m|ja|車力|tr=shariki}}, {{m|ja|力車|tr=rikisha}}: a [[rickshaw]]
 # {{context|lang=ja|sort=りき|archaic}} a [[rickshaw]] operator's [[wage]]s
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|動力|どうりき|dōriki}}: [[energy]], [[motive]] [[force]]
+* {{ja-r|動力|どうりき}}: [[energy]], [[motive]] [[force]]
+* {{ja-r|馬力|ばりき}}: [[horsepower]]
+* {{ja-r|力士|りきし}}: a [[sumo]] [[wrestler]]
 {{der-bottom}}
 
 ===Etymology 3===
-From {{etyl|ltc|ja|sort=りょく}} {{term|lang=ltc|力}}, but apparently from a different source dialect or at a different time than {{term|lang=ltc|力|tr=lik}}.  The {{term|lang=ja|漢音|sc=Latn|''kan'on''}} reading, so likely a later borrowing.  Compare reconstructed {{etyl|ltc|-}} reading {{IPAchar|/li̯ək/}}.
+From {{etyl|ltc|ja|sort=りょく}} {{m|zh|力}}, but apparently from a different source dialect or at a different time than {{m|zh|力|tr=lik}}.  The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing.  Compare reconstructed {{etyl|ltc|-}} reading {{IPAchar|/li̯ək/}} or {{etyl|ko|-}} reading ''ryeok''.
 
 Only found in compounds and idioms in modern Japanese.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}: {{term|lang=ja|漢音|sc=Latn|Kan'on}}
-* {{IPA|lang=ja|[ɾjo̞kɯᵝ]|ɾjo̞kɯ̥ᵝ]}}
+{{ja-pron|yomi=kanon|りょく}}
 
 ====Affix====
-{{ja-pos|りょく|affix|rom=-ryoku}}
+{{ja-pos|affix|りょく}}
 
 # [[strength]], [[power]]
 #: {{ja-usex|'''力'''争、権'''力'''|'''りょく'''そう、けん'''りょく'''|“strength struggle” (a hard fight), “right power” (authority)}}
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|動力|どうりょく|dōryoku}}: [[energy]], [[motive]] [[force]]
-* {{ja-l|気力|きりょく|kiryoku}}: [[spirit]]; [[drive]]; [[morale]]; [[vigor]]
-* {{ja-l|斥力|せきりょく|sekiryoku}}: [[repulsive]] [[force]]
-* {{ja-l|引力|いんりょく|inryoku}}: [[attractive]] [[force]]
+* {{ja-r|引力|いんりょく}}: [[attractive]] [[force]]
+* {{ja-r|気力|きりょく}}: [[spirit]]; [[drive]]; [[morale]]; [[vigor]]
+* {{ja-r|斥力|せきりょく}}: [[repulsive]] [[force]]
+* {{ja-r|動力|どうりょく}}: [[energy]], [[motive]] [[force]]
+* {{ja-r|力争|りょくそう}}: a [[test]] of [[strength]]; a [[hard]] [[fight]]
 {{der-bottom}}
 
 ===References===
