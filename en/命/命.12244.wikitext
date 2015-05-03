@@ -60,31 +60,28 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[みょう]] (myō), (''historical'') [[みゃう]] (myau)
+|goon=[[みょう]] (myō), (''historical'') [[みやう]] (myau)
 |kanon=[[めい]] (mei)
-|kun=[[いのち]] (inochi), [[みこと]] (mikoto)
+|kun=[[いのち]] (inochi), [[みこと]] (mikoto) {{non-joyo-reading}}
 }}
 
 ====Compounds====
-{{der-top4|Compounds}}
-* {{l|ja|革命|tr=[[かくめい]], ''[[kakumei]]''}}: revolution
-{{mid4}}
-* {{l|ja|運命|tr=[[うんめい]], ''[[unmei]]''}}: fate, destiny
-{{mid4}}
-{{mid4}}
+{{der-top|Compounds}}
+* {{ja-r|革命|かくめい}}: revolution
+* {{ja-r|運命|うんめい}}: fate, destiny
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|いのち}}
 From {{etyl|ojp|ja|sort=いのち}}.  Probably a compound of {{etyl|ojp|-}} elements {{compound|lang=ja|sort=いのち|息|tr1=i|t1=breath|pos1=''i'' in compounds, ''iki'' on its own|の|tr2=no|pos2=possessive particle|霊|tr3=chi|t3=spirit, force, soul}}.
 
-Some analyses describe this as a compound using {{term|lang=ja|生|tr=i||life,breath}}{{qualifier|''i'' in compounds, ''iki'' on its own}} as the initial semantic element.  This is equally valid, as {{term|lang=ja|息|tr=iki}} and {{term|lang=ja|生き|tr=iki}} are cognates.
+Some analyses describe this as a compound using {{m|ja|生|tr=i||life, breath|pos=''i'' in compounds, ''iki'' on its own}} as the initial semantic element.  This is equally valid, as {{m|ja|息|tr=iki}} and {{m|ja|生き|tr=iki}} are cognates.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ino̞t͡ɕi]}}
+{{ja-pron|yomi=k|いのち|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|k|hira=いのち|rom=inochi}}
+{{ja-noun|いのち}}
 
 # [[life]]
 # [[lifespan]]
@@ -93,40 +90,40 @@ Some analyses describe this as a compound using {{term|lang=ja|生|tr=i||life,br
 # {{context|lang=ja|sort=いのち|figuratively}} the most [[important]] part or [[aspect]] of a thing
 
 =====Synonyms=====
-* {{sense|life}} {{l|ja|生命|tr={{l|ja|せいめい}}, ''{{l|ja|sc=Latn|seimei}}''}}
-* {{sense|lifespan}} {{l|ja|寿命|tr={{l|ja|じゅみょう}}, ''{{l|ja|sc=Latn|jumyō}}''}}
-* {{sense|lifetime}} {{l|ja|生涯|tr={{l|ja|しょうがい}}, ''{{l|ja|sc=Latn|shōgai}}''}}; {{l|ja|一生|tr={{l|ja|いっしょう}}, ''{{l|ja|sc=Latn|isshō}}''}}
-* {{sense|fate}} {{l|ja|運命|tr={{l|ja|うんめい}}, ''{{l|ja|sc=Latn|unmei}}''}}
-* {{sense|destiny}} {{l|ja|天命|tr={{l|ja|てんめい}}, ''{{l|ja|sc=Latn|tenmei}}''}}
-* {{sense|core aspect}} {{l|ja|真髄|tr={{l|ja|しんずい}}, ''{{l|ja|sc=Latn|shinzui}}''}}
+* {{sense|life}} {{ja-r|生命|せいめい}}
+* {{sense|lifespan}} {{ja-r|寿命|じゅみょう}}
+* {{sense|lifetime}} {{ja-r|生涯|しょうがい}}, {{ja-r|一生|いっしょう}}
+* {{sense|fate}} {{ja-r|運命|うんめい}}
+* {{sense|destiny}} {{ja-r|天命|てんめい}}
+* {{sense|core aspect}} {{ja-r|真髄|しんずい}}
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=みこと}}.  Compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|言|tr2=koto|t2=word}}.  The ''mi'' prefix is generally limited to extremely high-[[status]] contexts such as [[god]]s or [[emperor]]s.
+{{ja-kanjitab|yomi=k|みこと}}
+From {{etyl|ojp|ja|sort=みこと}}.  Compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|言|tr2=koto|t2=word}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  The ''mi'' prefix is generally limited to extremely high-[[status]] contexts such as [[god]]s or [[emperor]]s.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[miko̞to̞]}}
+{{ja-pron|yomi=k|みこと|acc=0|acc_ref=DJR}} {{non-joyo-reading}}
 
 ====Alternative forms====
 * {{l|ja|御言}}
 
 ====Noun====
-{{ja-noun|k|hira=みこと|rom=mikoto}}
+{{ja-noun|みこと}}
 
 # the [[word]]s or [[pronouncement]]s of a [[god]] or an [[emperor]]
 
 ===Etymology 3===
-From {{etyl|ojp|ja|sort=みこと}}.  Originally a compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|事|tr2=koto|t2=abstract thing|pos2=as opposed to {{l|ja|物}}, ''mono'', “concrete thing”}}.
+{{ja-kanjitab|yomi=k|みこと}}
+From {{etyl|ojp|ja|sort=みこと}}.  Originally a compound of {{prefix|lang=ja|sort=みこと|御|tr1=mi|pos1=honorific prefix|事|tr2=koto|t2=abstract thing|pos2=as opposed to {{l|ja|物}}, ''mono'', “concrete thing”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[miko̞to̞]}}
+{{ja-pron|yomi=k|みこと|acc=0|acc_ref=DJR}} {{non-joyo-reading}}
 
 ====Alternative forms====
 * {{l|ja|尊}}
 
 ====Noun====
-{{ja-noun|k|hira=みこと|rom=mikoto}}
+{{ja-noun|みこと}}
 
 # the [[honorable]], the [[exalted]]
 #: Used as a title after the referenced noun when referring to gods, emperors, or other high-status persons.
@@ -152,7 +149,7 @@ From {{etyl|ojp|ja|sort=みこと}}.  Originally a compound of {{prefix|lang=ja|
 #*::: '''dearly beloved''' young wife
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=みこと|rom=mikoto}}
+{{ja-pos|pronoun|みこと}}
 
 # [[you]]
 # [[that]] [[person]]
@@ -161,28 +158,28 @@ From {{etyl|ojp|ja|sort=みこと}}.  Originally a compound of {{prefix|lang=ja|
 Used ironically from the late {{w|Heian period}}, expressing a sense of mild [[derision]] or [[ridicule]].
 
 ===Etymology 4===
-From {{etyl|ltc|ja|sort=めい}} {{term|lang=ltc|命}} ({{IPAchar|/mjængH/}}, “command”).  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|命|tr=mìng||life, destiny, instruction}}.
+{{ja-kanjitab|yomi=o|めい}}
+From {{etyl|ltc|ja|sort=めい}} {{m|zh|命|tr=mjæng<sup>H</sup>||command}}.  Compare modern {{etyl|cmn|-}} {{m|zh|命|tr=mìng||life, destiny, instruction}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{IPA|lang=ja|[me̞ː]}}
+{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|k|hira=めい|rom=mei}}
+{{ja-noun|めい}}
 
 # [[fate]], [[destiny]]
 # [[life]], [[lifespan]]
 # [[order]], [[command]]
 
 =====Synonyms=====
-* {{sense|fate}} {{l|ja|運命|tr={{l|ja|うんめい}}, ''{{l|ja|sc=Latn|unmei}}''}}
-* {{sense|destiny}} {{l|ja|天命|tr={{l|ja|てんめい}}, ''{{l|ja|sc=Latn|tenmei}}''}}
-* {{sense|life}} {{l|ja|生命|tr={{l|ja|せいめい}}, ''{{l|ja|sc=Latn|seimei}}''}}
-* {{sense|lifespan}} {{l|ja|寿命|tr={{l|ja|じゅみょう}}, ''{{l|ja|sc=Latn|jumyō}}''}}
-* {{sense|order}} {{l|ja|仰}}, {{l|ja|仰せ|tr={{l|ja|おおせ}}, ''{{l|ja|sc=Latn|ōse}}''}}; {{l|ja|命令|tr={{l|ja|めいれい}}, ''{{l|ja|sc=Latn|meirei}}''}}
+* {{sense|fate}} {{ja-r|運命|うんめい}}
+* {{sense|destiny}} {{ja-r|天命|てんめい}}
+* {{sense|life}} {{ja-r|生命|せいめい}}
+* {{sense|lifespan}} {{ja-r|寿命|じゅみょう}}
+* {{sense|order}} {{l|ja|仰}}, {{ja-r|仰せ|おおせ}}; {{ja-r|命令|めいれい}}
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 命]]
+===References===
+<references/>
 
 ----
 
