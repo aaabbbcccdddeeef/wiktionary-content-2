@@ -37,11 +37,10 @@ Minor strokes in the shape of ハ/八, as in the top of [[劵]], can be referred
 
 ==Chinese==
 {{zh-forms}}
-
 ===Etymology===
 From {{etyl|och|zh}} {{m|och||*pret}}, from {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}} (compare Classical Tibetan ''brgyad'')
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=bā
 |ma=y
@@ -54,47 +53,16 @@ From {{etyl|och|zh}} {{m|och||*pret}}, from {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r
 |cat=num
 }}
 
-===Numeral===
+====Numeral====
 {{zh-num}}
 
 # [[eight]]
 
-====Usage notes====
+=====Usage notes=====
 * (''Min Nan'') '''peh/poeh''' is used when referring to amounts, whereas '''pat''' is used for years and telephone numbers, bank account numbers etc. '''pat''' is literary and is used in expressions.
 
-====See also====
-{{Chinese-numbers}}
-
-===Pronunciation===
-{{zh-pron
-|mn=pat/bat
-|cat=v
-}}
-
-===Verb===
-{{zh-verb}}
-
-# {{context|Min Nan|lang=zh}} to [[know]] somebody; to [[recognize]]
-# {{context|Min Nan|lang=zh}} to be [[familiar]] with
-
-===See also===
-* {{zh-l|認識/认识}}
-
-===References===
-* {{reference-book
- | last =
- | first =
- | authorlink =
- | coauthors =
- | year = 2000
- | title = 台灣話大詞典　(Tâi-ôan-ōe tōa-sû-tián)
- | publisher = ISBN 9573240785
- | location =
- | id =
-}}
-
-====Compounds====
-{{top2}}
+=====Derived terms=====
+{{der-top}}
 * [[八角]]
 * [[八宝菜]]
 * [[八達]]
@@ -113,7 +81,7 @@ From {{etyl|och|zh}} {{m|och||*pret}}, from {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r
 * [[八苦]]
 * [[八面]]
 * [[八千里路云和月]] ([[八千里路雲和月]])
-{{mid2}}
+{{der-mid}}
 * [[八橋]]
 * [[八切]]
 * [[八日]]
@@ -129,7 +97,46 @@ From {{etyl|och|zh}} {{m|och||*pret}}, from {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r
 * [[間八]]
 * [[四苦八苦]]
 * [[一八]]
-{{bottom}}
+{{der-bottom}}
+
+=====See also=====
+{{Chinese-numbers}}
+
+====Noun====
+{{zh-noun}}
+
+# {{context|printing|lang=zh|sort=ba1}} The [[smallest]] [[size]] of [[usual]] [[type]], [[standardize]]d as 5 [[point]].
+
+=====Translations=====
+{{trans-see|5-point type|pearl}}
+
+===Pronunciation 2===
+{{zh-pron
+|mn=pat/bat
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{context|Min Nan|lang=zh}} to [[know]] somebody; to [[recognize]]
+# {{context|Min Nan|lang=zh}} to be [[familiar]] with
+
+====See also====
+* {{zh-l|認識/认识}}
+
+===References===
+* {{reference-book
+ | last =
+ | first =
+ | authorlink =
+ | coauthors =
+ | year = 2000
+ | title = 台灣話大詞典　(Tâi-ôan-ōe tōa-sû-tián)
+ | publisher = ISBN 9573240785
+ | location =
+ | id =
+}}
 
 [[Category:Mandarin numeral symbols|ba1]]
 [[Category:Chinese cardinal numbers|ba1]]
