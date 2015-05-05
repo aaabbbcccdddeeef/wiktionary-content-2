@@ -25,13 +25,65 @@
 ===Noun===
 {{ja-noun|k|hira=わざわい|rom=wazawai}}
 
-# {{ja-def|わざわい}} [[calamity]]
+# [[calamity]], [[disaster]]
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=火03}}
 
 ====Readings====
-* {{ja-readings|on=[[さい]] (sai)|kun=[[わざわい]] (wazawai)}}
+{{ja-readings
+|goon=[[さい]] (sai)
+|kanon=[[さい]] (sai)
+|kun=[[わざわい]] (wazawai), [[わざわい|わざわ.い]] ([[災い]], wazawa.i)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|さい}}
+From {{etyl|ltc|ja|sort=さい}} {{m|zh|災|tr=tsoj||calamity}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|さい}}
+
+====Noun====
+{{ja-noun|さい}}
+
+# an [[act of God]], a [[disaster]], a [[calamity]]
+
+=====Usage notes=====
+Seldom used on its own.  Most often used in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|災害|さいがい}}: [[disaster]], [[calamity]] {{qualifier|emphasis on the damage therefrom}}
+* {{ja-r|災難|さいなん}}: [[misfortune]], [[disaster]], [[catastrophe]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|わざわい}}
+{{IPAchar|/wazapapi/}} → {{IPAchar|/wazaɸaɸi/}} → {{IPAchar|/wazawahi/}} → {{IPAchar|/wazawai/}}
+
+From {{etyl|ojp|ja|sort=わざわい}}.  Originally a compound of {{m|ja|業|tr=waza||deed, doings}}, in reference to the doings of the {{m|ja|神|tr=kami||gods, spirits}} + {{m|ja|這う|這い|tr=hai|lit=crawling|spreading widely}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare the etymology of [[幸#sakiwai|幸]] (''sakiwai'', “good fortune”).  Compare also the connotations of the English term {{m|en|act of God}} in reference to [[disaster]]s.
+
+Often spelled {{m|ja|災い}} with the trailing [[okurigana]] {{m|ja|い}} to make the reading more explicit.
+
+====Pronunciation====
+{{ja-pron|yomi=k|わざわい|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|災い}}, {{ja-l|禍}}, {{ja-l|殃}}
+
+====Noun====
+{{ja-noun|わざわい|hhira=わざはい}}
+
+# an [[act of God]], a [[disaster]], a [[calamity]]
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|災を転じて福と為す|わざわい を てんじて ふく と なす}}: “to turn a calamity into good fortune”
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
