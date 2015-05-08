@@ -47,32 +47,43 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=月04}}
 
+# [[clothing]]
+# an [[amount]] equal to one [[swallow]] {{qualifier|act of swallowing}}
+
 ====Readings====
-* {{ja-readings|on=[[ふく]] (fuku)|kun=[[きる]] (kiru), [[きもの]] (kimono), [[したがう]] (shitagau)}}
+{{ja-readings
+|goon=[[ぶ]] (bu) {{non-joyo-reading}}, [[ぶく]] (buku) {{non-joyo-reading}}
+|kanon=[[ふう]] (fū) {{non-joyo-reading}}, [[ふく]] (fuku)
+|kun=[[まつらう]] ([[服う]], matsurau) {{non-joyo-reading}}, [[まつろう]] ([[服う]], matsurou) {{non-joyo-reading}}
+|nanori=[[はつ]] (hatsu), [[はら]] (hara)
+}}
 
 ===Counter===
-{{ja-pos|ふく|counter}}
+{{ja-pos|counter|ふく}}
 
-# [[dose]]s of medicine
-# [[gulp]]s of tea
-# [[puff]]s of tobacco
+# an [[amount]] equal to one [[swallow]]:
+## [[dose]]s of medicine
+## [[gulp]]s of tea
+## [[puff]]s of tobacco
 
 ===Noun===
-{{ja-noun|k|hira=ふく|rom=fuku}}
+{{ja-noun|ふく}}
 
 # [[clothes]]
 
 ====Derived terms====
-* {{l|ja|衣服|tr=[[いふく]], ifuku}}
-* {{l|ja|服装|tr=[[ふくそう]], fukusō}}
+{{der-top}}
+* {{ja-r|衣服|いふく}}: [[clothes]], [[apparel]], [[garments]]
+* {{ja-r|服装|ふくそう}}: [[clothing]], how one is [[dressed]], one's [[costume]]
+{{der-bottom}}
 
-====See also====
-* {{l|ja|衣類|tr=[[いるい]], irui}}
+====Synonyms====
+* {{sense|clothing}} {{ja-r|衣類|いるい}}
 
 ===Suffix===
-{{ja-pos|ふく|suffix}}
+{{ja-pos|suffix|ふく}}
 
-# clothes
+# [[clothes]]
 
 [[Category:1000 Japanese basic words|ふく]]
 [[Category:Japanese terms written with one Han script character]]
