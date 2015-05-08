@@ -155,36 +155,65 @@
 * {{ja-readings
 |goon=[[じ]] (ji) < [[ぢ]] (di)
 |kanon=[[ち]] (chi)
-|kun=[[つち]] (tsuchi)}}
+|kun=[[つち]] (tsuchi)
+|nanori=[[どま]] (doma)
+}}
+
+発音[編集]
+音読み :
+呉音 : ジ↗（ヂ）
+漢音 : チ↘
+訓読み : つ↗ち↘
 
 ====Compounds====
-{{der-top}}
-{{der3|{{l|ja|土地|tr=とち, tochi}}: [[ground]]; [[land]]
-|{{l|ja|意地悪|tr=いじわる, ijiwaru}}
-|{{l|ja|地球|tr=ちきゅう, chikyū}}
-|{{l|ja|地底|tr=ちてい, chitei}}
-|{{l|ja|地理|tr=ちり, chiri}}
-|{{l|ja|地盤|tr=ちばん, chiban}}
-|{{l|ja|地位|tr=ちい, chii}}
-|{{l|ja|地域|tr=ちいき, chiiki}}
-|{{l|ja|地下|tr=ちか, chika}}
-|{{l|ja|地学|tr=ちがく, chigaku}}
-|{{l|ja|地球|tr=ちきゅう, chikyū}}
-|{{l|ja|地区|tr=ちく, chiku}}
-|{{l|ja|地形|tr=ちけい, chikei}}
-|{{l|ja|地上|tr=ちじょう, chijō}}
-|{{l|ja|地租|tr=ちそ, chiso}}
-|{{l|ja|地点|tr=ちてん, chiten}}
-|{{l|ja|地主|tr=じぬし, jinushi}}
-|{{l|ja|地表|tr=ちひょう, chihyō}}
-|{{l|ja|地方|tr=ちほう, chihō}}
-|{{l|ja|地震|tr=じしん, jishin}}
-|{{l|ja|天地|tr=てんち, tenchi}}: heaven and earth
-|{{l|ja|天變地異|tr=てんぺんちい, tenpen chii||[[turmoil]] throughout heaven and earth}}
-|{{l|ja|現在地|tr=げんざいち, genzaichi||you are here}}}}
+{{der-top|Compounds}}
+{{der3
+|{{ja-r|土地|とち}}: [[ground]], [[land]]
+|{{ja-r|意地悪|いじわる}}
+|{{ja-r|地球|ちきゅう}}
+|{{ja-r|地底|ちてい}}
+|{{ja-r|地理|ちり}}
+|{{ja-r|地盤|ちばん}}
+|{{ja-r|地位|ちい}}
+|{{ja-r|地域|ちいき}}
+|{{ja-r|地下|ちか}}
+|{{ja-r|地学|ちがく}}
+|{{ja-r|地球|ちきゅう}}
+|{{ja-r|地区|ちく}}
+|{{ja-r|地形|ちけい}}
+|{{ja-r|地上|ちじょう}}
+|{{ja-r|地租|ちそ}}
+|{{ja-r|地点|ちてん}}
+|{{ja-r|地主|じぬし}}
+|{{ja-r|地表|ちひょう}}
+|{{ja-r|地方|ちほう}}
+|{{ja-r|地震|じしん}}
+|{{ja-r|天地|てんち}}: heaven and earth
+|{{ja-r|天變地異|てんぺん ち.い}}: [[turmoil]] throughout heaven and earth
+|{{ja-r|現在地|げんざいち}}: current location, you are here
+}}
 {{der-bottom}}
 
 ===Etymology 1===
+From {{etyl|ltc|ja|sort=じ}} {{m|zh|地|tr=dij<sup>H</sup>}}.  The [[呉音#Japanese|goon]] reading, so likely the initial borrowing.  Compare modern {{etyl|cmn|-}} ''dì''.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|じ|hhira=ぢ}}
+
+# [[earth]]; [[dirt]]
+# [[fabric]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|いくらか薄い'''地'''には相違なくっても暑いには極ってる。|いくら か うすい '''じ''' に は そうい なくって も あつい に は きまってる。|However thin it might be, flannel is flannel and must have been pretty warm at that time of the year.}}
+# {{context|game of go|lang=ja|sort=し'}} [[territory]]
+
+===Etymology 2===
+From {{etyl|ltc|ja|sort=ち}} {{m|zh|地|tr=dij<sup>H</sup>}}.  The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing.  The devoicing of the initial consonant might indicate a dialectal source.  Compare modern {{etyl|hak|-}} ''thi'', {{etyl|nan|-}} ''tī''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ち|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ち}}
@@ -199,16 +228,8 @@
 
 # [[place]], [[area]]
 
-===Etymology 2===
-
-====Noun====
-{{ja-noun|じ|hhira=ぢ}}
-
-# [[earth]]; [[dirt]]
-# [[fabric]]
-#* {{RQ:Botchan}}:
-#*: {{ja-usex|いくらか薄い'''地'''には相違なくっても暑いには極ってる。|いくら か うすい '''じ''' に は そうい なくって も あつい に は きまってる。|However thin it might be, flannel is flannel and must have been pretty warm at that time of the year.}}
-# {{context|game of go|lang=ja|sort=し'}} [[territory]]
+===References===
+<references/>
 
 ----
 
