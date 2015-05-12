@@ -3,9 +3,6 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=07|sn=10|four=4313<sub>4</sub>|canj=土戈人大 (GIOK)|ids=⿰[[土]][[矣]]}}
 
-# [[fine]] [[dust]], [[dirt]]
-# the number 10<sup>-10</sup>
-
 ====References====
 * {{Han ref|kx=0229.190|dkj=05107|dj=0465.090|hdz=10447.150|uh=57C3|ud=22467|bh=AE4A|bd=44618}}
 
@@ -26,12 +23,27 @@
 {{zh-pron
 |m=āi
 |c=aai1,oi1
+|h=pfs=âi
 |mn=ia
+|w=3e,3i
 |mc=y
 |oc=y
 |ma=
-|cat=n,num
+|cat=n,num,pn
 }}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fine]] [[dust]], [[dirt]]
+#: {{zh-l|塵埃|tr=chén'āi|dust}}
+# [[angstrom]]
+# one [[billionth]], the number 10<sup>-10</sup>
+# (''a phonetic component'')
+#: {{zh-l|埃及|Āijí|Egypt}}
+#: {{zh-l|埃塞俄比亞|Āisài'ébǐyà|Abyssinia}}
+#: {{zh-l|蘇維埃|sūwéi'āi|soviet}}
+# [[Egypt]] (''abbreviation'')
 
 ----
 
@@ -44,11 +56,11 @@
 * {{ja-readings|on=[[あい]] (ai)|kun=[[ちり]] (chiri), [[ほこり]] (hokori)}}
 
 ===Noun===
-{{ja-noun|k|hira=あい|rom=ai}} 
+{{ja-noun|あい}} 
 
 # one [[billionth]]
 
-{{ja-noun|k|hira=ほこり|rom=hokori}}
+{{ja-noun|ほこり}}
 
 # [[dust]]
 
@@ -61,7 +73,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=애|rv=ae|mr=ae}}
+{{ko-hanja|hangeul=애|mr=ae}}
 
 # {{defn|lang=ko|sort=土07}}
 
