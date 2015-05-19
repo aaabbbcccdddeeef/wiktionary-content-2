@@ -87,13 +87,17 @@
 # [[desire]]
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i)|kun=[[こころ]] (kokoro), [[おもい]] (omoi), [[おもう]] (omou)}}
+{{ja-readings
+|goon=[[い]] (i)
+|kanon=[[い]] (i)
+|kun={{qualifier|rare}} [[こころ]] (kokoro) {{non-joyo-reading}}
+}}
 
 ====Compounds====
-{{top3}}
+{{der-top|Compounds}}
 * [[悪意]]
 * [[意外]]
-* {{ja-r|意気|いき|gloss=spirit}}
+* {{ja-r|意気|いき}}: [[spirit]]
 * [[意気込み]]
 * [[意気消沈]]
 * [[意気衝天]]
@@ -101,20 +105,20 @@
 * [[意気地]]
 * [[意気投合]]
 * [[意気揚揚]]
-* {{ja-r|意見|gloss=opinion|いけん}}
+* {{ja-r|意見|いけん}}: [[opinion]]
 * [[意固地]]
 * [[意向]]
-* {{ja-r|意志|gloss=will, intent|いし}}
+* {{ja-r|意志|いし}}: [[will]], [[intent]]
 * [[意思]]
 * [[意思能力]]
 * [[意識]]
 * [[意趣]]
-{{mid3}}
+{{der-mid3}}
 * [[意趣返し]]
 * [[意匠]]
 * [[意図]]
 * [[意表]]
-* {{ja-r|意味|gloss=meaning, significance|いみ}}
+* {{ja-r|意味|いみ}}: [[meaning]], [[significance]]
 * [[意味深長]]
 * [[意欲]]
 * [[願意]]
@@ -128,7 +132,7 @@
 * [[真意]]
 * [[随意]]
 * [[生意気]]
-{{mid3}}
+{{der-mid3}}
 * [[誠意]]
 * [[戦意]]
 * [[善意]]
@@ -144,7 +148,7 @@
 * [[無意味]]
 * [[用意]]
 * [[留意]]
-{{bottom}}
+{{der-bottom}}
 
 ===Noun===
 {{ja-noun|い}}
