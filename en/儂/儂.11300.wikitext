@@ -46,19 +46,62 @@
 ==Japanese==
 {{ja-kanjitab|わし|yomi=kun}}
 
-===Pronoun===
-{{ja-pos|わし|pronoun}}
-
-# [[I]], [[me]] (used by the elderly)
-
 ===Kanji===
 {{ja-kanji|grade=|rs=人13}}
 
 ====Readings====
-* {{ja-readings|on=[[どう]] ([[dō]]), [[のう]] ([[nō]])|kun=[[わし]] ([[washi]])}}
+{{ja-readings
+|goon=[[の]] (no), [[のう]] (nō)
+|kanon=[[どう]] (dō)
+|kanyoon=[[のん]] (non)
+|kun=[[わし]] (washi), [[かれ]] (kare)
+}}
 
 ====Usage notes====
+This character is seldom used in modern Japanese.
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|わし}}
+Contraction of {{m|ja|私|tr=watashi||I, me}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|わし|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|私}} {{qualifier|more common}}
+
+====Pronoun====
+{{ja-pos|わし|pronoun}}
+
+# [[I]], [[me]] (used by the elderly)
+
+=====Usage notes=====
 The term is generally only used by the elderly, and its use is often considered stereotypical of them. As such, it is frequently used in TV shows and comics to emphasize the age of characters.
+
+More commonly spelled {{m|ja|私}}, or in [[kana#English|kana]] to make the reading explicit.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かれ}}
+From {{etyl|ojp|ja|sort=かれ}}.  Compound of {{suffix|lang=ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}.  Found in the [[w:Man'yōshū|''Man'yōshū'']] compiled around 759.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|彼}} {{qualifier|more common}}
+
+====Pronoun====
+{{ja-pos|pronoun|かれ}}
+
+# {{context|lang=ja|sort=かれ|rare}} third person pronoun: [[he]], [[she]]
+## particularly, male personal third person pronoun: [[he]]
+## by extension from ''he'': [[boyfriend]]
+
+=====Usage notes=====
+Very rare spelling.  See the more common spelling {{m|ja|彼}} for more details about the term.
+
+===References===
+<references/>
 
 ----
 
