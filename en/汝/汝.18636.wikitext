@@ -7,7 +7,7 @@
 # Rú (汝), a [[river]] in [[Henan]] [[province]] (pre-Han times)
 
 ====References====
-* {{Han ref|kx=0606.020|dkj=17138|dj=0999.110|hdz=31555.040|uh=6C5D|ud=27741|bh=A6BC|bd=42684}}
+* {{Han ref|kx=0606.020|dkj=17138|dj=0999.110|hdz=31555.040|uh=6C5D}}
 
 ----
 
@@ -22,10 +22,18 @@
 
 ==Japanese==
 
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+{{ja-readings|goon=[[にょ]] (nyo)|kanon=[[じょ]] (jo)|kun=[[なんじ]] (nanji), [[なれ]] (nare)}}
+
 ===Etymology 1===
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=い|rom=i}}
+{{ja-pos|pronoun|い}}
 
 # second person pronoun; [[you]]
 #* 712: [[w:Kojiki|Kojiki]] (page 156)
@@ -34,21 +42,21 @@
 ===Etymology 2===
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=まし|rom=mashi}}
+{{ja-pos|pronoun|まし}}
 
 # second person pronoun; [[you]]
 #* {{RQ:Man'yōshū|14|3440}}
 #*: 許乃河泊尓 安佐菜安良布児 奈礼毛安礼毛 余知乎曽母弖流 伊仾児多婆里尓 <sub>一云 '''麻之'''毛安礼母</sub>
 
 =====Derived terms=====
-* [[汝]] (imashi)
-* [[汝]] (mimashi)
+* {{ja-r|汝|いまし}}
+* {{ja-r|汝|みまし}}
 
 ===Etymology 3===
 Prefix ''i'' + pronoun {{term|汝|mashi}}. See also {{term|汝|mimashi}}.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=いまし|rom=imashi}}
+{{ja-pos|pronoun|いまし}}
 
 # second person pronoun; [[you]]
 #* {{RQ:Man'yōshū|11|2517}}
@@ -62,7 +70,7 @@ Prefix ''i'' + pronoun {{term|汝|mashi}}. See also {{term|汝|mimashi}}.
 Honorific prefix ''mi'' + pronoun {{term|汝|mashi}}. See also {{term|汝|imashi}}.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=みまし|rom=mimashi}}
+{{ja-pos|pronoun|みまし}}
 
 # second person pronoun; [[you]]
 #* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #5)
@@ -76,7 +84,7 @@ Honorific prefix ''mi'' + pronoun {{term|汝|mashi}}. See also {{term|汝|imashi
 {{etyl|ojp|ja|sort=な}}.  Possibly cognate with {{etyl|ko|-}} {{term|lang=ko|너||you|pos=second-person singular informal pronoun}}.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=な|rom=na}}
+{{ja-pos|pronoun|な}}
 
 # second person personal pronoun; [[you]]
 #* 712: [[w:Kojiki|Kojiki]] (poem #5)
@@ -94,7 +102,7 @@ Honorific prefix ''mi'' + pronoun {{term|汝|mashi}}. See also {{term|汝|imashi
 The long form of {{term|汝|nare}}. Compound of {{term|汝|na}} and suffix {{term|れ|re}}.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=なれ|rom=nare}}
+{{ja-pos|pronoun|なれ}}
 
 # second person personal pronoun; [[you]]
 #* {{RQ:Man'yōshū|14|3440}}
@@ -106,7 +114,7 @@ The long form of {{term|汝|nare}}. Compound of {{term|汝|na}} and suffix {{ter
 Compound of {{term|汝|na}} and {{term|貴|muchi}}.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=なむち|rom=namuchi}}
+{{ja-pos|pronoun|なむち}}
 
 # second person pronoun; [[you]]
 
@@ -114,7 +122,7 @@ Compound of {{term|汝|na}} and {{term|貴|muchi}}.
 /namuti/ > /namti/ > /namdi/ > /nandi/. From earlier {{term|なむち|namuchi}}. Final voicing due to influence of medial voiced /m/.
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=なむぢ|rom=nanji}}
+{{ja-pos|pronoun|なむぢ}}
 
 # second person personal pronoun; [[you]]
 #* {{RQ:Taketori Monogatari}}
@@ -126,23 +134,13 @@ Compound of {{term|汝|na}} and {{term|貴|muchi}}.
 /namuti/ > /namti/ > /namdi/ > /nandi/ > /nanzi/ [nand͡ʑi]
 
 ====Pronoun====
-{{ja-pos|k|pronoun|hira=なんじ|hhira=なんぢ|rom=nanji}}
+{{ja-pos|pronoun|なんじ|hhira=なんぢ}}
 
 # second person pronoun; [[you]]
 #* {{RQ:Taketori Monogatari}}
 #*: 「'''汝（なんぢ）'''が持ちて侍るかぐや姫たてまつれ。」
 #* {{RQ:Taketori Monogatari}}
 #*: いはく、「'''汝（なんぢ）'''、おさなき人、いささかなる功徳を翁つくりけるによりて、'''汝（なんぢ）'''が助けにとて、かた時のほどとて下ししを[...]」
-
-===Etymology 10===
-
-====Kanji====
-{{ja-kanji|grade=|rs=水03}}
-
-# {{defn|lang=ja|sort=水03}}
-
-=====Readings=====
-* {{ja-readings|on=[[じょ]] (jo)|kun=[[なんじ]] (nanji)}}
 
 ===References===
 * {{reference-book
