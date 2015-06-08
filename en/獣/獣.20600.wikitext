@@ -27,14 +27,16 @@
 }}
 
 ====Compounds====
-* {{l|ja|尾獣|tr=[[びじゅう]], ''[[bijū]]''}}: [[tailed]] [[beast]]
-* {{l|ja|雷獣|tr=[[らいじゅう]], ''[[raijū]]''}}: a [[thunder]] [[beast]]
-* {{l|ja|一角獣|tr=[[いっかくじゅう]], ''[[ikkakujū]]''}}: a [[unicorn]]
-* {{l|ja|獣医|tr=[[じゅうい]], ''[[jūi]]''}}: a [[veterinarian]]
+{{der-top|Compounds}}
+* {{ja-r|尾獣|びじゅう}}: [[tailed]] [[beast]]
+* {{ja-r|雷獣|らいじゅう}}: a [[thunder]] [[beast]]
+* {{ja-r|一角獣|いっかくじゅう}}: a [[unicorn]]
+* {{ja-r|獣医|じゅうい}}: a [[veterinarian]]
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|けだもの|yomi=k}}
-Literally "thing of hair". Compound of {{term|毛||tr=ke|hair|lang=ja}} and {{term|物||tr=mono|thing|lang=ja}}. Medial -da- acts as a genitive marker, also seen in {{term|果物||tr=kudamono|fruit|lang=ja}}.<ref name="DJR">{{R:Daijirin}}</ref>
+Literally "thing of hair".  Compound of {{compound|lang=ja|sort=けだもの|毛|tr1=ke|t1=hair|だ|tr2=da|pos2=genitive marker|物|tr3=mono|t3=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Medial ''-da-'' is a very rare genitive marker found in compounds, also seen in {{m|ja|果物||tr=kudamono|fruit}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|けだもの|acc=0|acc_ref=DJR}}
@@ -48,7 +50,7 @@ Literally "thing of hair". Compound of {{term|毛||tr=ke|hair|lang=ja}} and {{te
 
 ===Etymology 2===
 {{ja-kanjitab|けもの|yomi=k}}
-Literally "hair thing". Compound of {{term|毛||tr=ke|hair|lang=ja}} and {{term|物||tr=mono|thing|lang=ja}}.<ref name="DJR">{{R:Daijirin}}</ref>
+Literally "hair thing". Compound of {{compound|lang=ja|sort=けもの|毛|tr1=ke|t1=hair|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|けもの|acc=0|acc_ref=DJR}}
@@ -60,7 +62,7 @@ Literally "hair thing". Compound of {{term|毛||tr=ke|hair|lang=ja}} and {{term|
 
 ===Etymology 3===
 {{ja-kanjitab|しし|yomi=irr}}
-From {{term|lang=ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+From {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR}}
@@ -73,11 +75,16 @@ From {{term|lang=ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai 
 
 # {{context|archaic|lang=ja|sort=しし}} a [[beast]] {{qualifier|used for its meat, such as a [[boar]] or a [[deer]]}}
 
-=====Derived terms=====
+=====Idioms=====
+{{der-top|Idioms}}
 * {{ja-r|獣食った報い|ししくったむくい}}
+{{der-bottom}}
 
 ===Etymology 4===
 {{ja-kanjitab|じゅう|yomi=kanyoon}}
+{{IPAchar|/siu/}} → {{IPAchar|/ɕiu/}} → {{IPAchar|/d͡ʑiu/}} → {{IPAchar|/d͡ʑuː/}}
+
+From {{etyl|ltc|ja|sort=じゅう}} {{m|zh|獸|tr=syuw<sup>H</sup>||(wild) animal}}.  Compare modern {{etyl|cmn|-}} reading ''shòu'', {{etyl|nan|-}} ''siù''.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanyoon|じゅう|acc=1|acc_ref=DJR}}
@@ -87,8 +94,16 @@ From {{term|lang=ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai 
 
 # [[beast]]
 
-=====Derived terms=====
+====Derived terms====
+{{der-top}}
+* {{ja-r|獣医|じゅうい}}: a [[veterinarian]]
+* {{ja-r|怪獣|かいじゅう}}: a [[monster]] {{qualifier|generally a big animal monster, like [[Godzilla]] or [[Mothra]]}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
 * {{ja-r|獣を逐う者は目に太山を見ず|じゅう を おう もの は め に たいざん を みず}}
+{{der-bottom}}
 
 ===References===
 <references/>
