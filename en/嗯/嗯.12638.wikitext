@@ -10,22 +10,18 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=[[ng2]], [[ng6]]|y=ng2, ng6}}
-
-# {{defn|lang=yue|sort=口10}}
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-forms}}
 
 ===Pronunciation===
-* {{audio|zh-ng.ogg|audio|lang=cmn}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[ńg]] ([[ng2]]), [[ňg]] ([[ng3]]), [[ǹg]] ([[ng4]]), [[ēn]] ([[en1]])|wg=n<sup>2</sup>, ng<sup>2</sup>}}
+{{zh-pron
+|m=ēn
+|c=ng2,ng6
+|mc=
+|oc=
+|ma=zh-ng.ogg
+|cat=part,intj
+}}
 
 ===Interjection===
 {{cmn-interj|ts|pin=ńg|pint=ng2}}
@@ -46,12 +42,7 @@
 {{cmn-interj|ts|pin=[[ēn]]|pint=en1}}
 
 # a groaning sound; [[ah]], [[aah]]
-
-[[Category:Mandarin entries with audio links]]
-
-----
-
-
+<!-- for Lua module scripting -- ńg, ňg, ǹg (ng2, ng3, ng4) are a legitimate Mandarin readings -->
 [[da:嗯]]
 [[el:嗯]]
 [[fr:嗯]]
