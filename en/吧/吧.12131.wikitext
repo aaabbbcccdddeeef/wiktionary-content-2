@@ -24,11 +24,11 @@
 {{zh-particle}}
 
 # {{non-gloss definition|(used at the end of a sentence to indicate a suggested action; often used to express [[imperative mood]])}} [[let us]] ...; why don't you ... {{qualifier|emphatic final particle}}
-#* {{zh-usex|走 '''吧'''|'''let's''' go!}}
-#* {{zh-usex|你 有 時間 再 做 吧。|Do it when you have time.}}
-#* {{zh-usex|大家 去 工作 吧。|Get to work, everybody.}}
-# {{non-gloss definition|(used at the end of a sentence used to concede a point )}}
-#* {{zh-usex|好 吧|alright!}}
+#: {{zh-usex|走 吧|'''let's''' go!}}
+#: {{zh-usex|你 有 時間 再 做 吧。|Do it when you have time.}}
+#: {{zh-usex|大家 去 工作 吧。|Get to work, everybody.}}
+# {{non-gloss definition|(used at the end of a sentence used to concede a point)}}
+#: {{zh-usex|好 吧|alright!}}
 # {{context|onomatopoeia|lang=zh}} sound of [[crackling]]; [[crack]] 
 
 {{zh-cat|Beginning}}
@@ -36,33 +36,32 @@
 ====Usage notes====
 * 吧 is not used as a modal particle in Min Nan.  The particle [[ho͘ⁿ|ho{{lang|und|sc=Latinx|͘}}ⁿ]] provides a similar effect.
 
-====Derived terms====
-* [[酒吧]] ([[jiǔbā]])
-
 ===Pronunciation===
 {{zh-pron
 |m=bā
 |c=baa1
 |h=pfs=pâ
 |mn=pa
-|cat=part
+|cat=noun,syllable
 }}
 
 ====Noun====
 {{zh-noun}}
 
-# {{context|loanword|lang=zh}} [[bar]] {{qualifier|establishment serving alcohol}}
-# {{context|abbreviation|_| for {{zh-l|貼吧|internet board}}|lang=zh}}
+# {{context|loanword|lang=zh}} [[bar]] {{qualifier|an establishment serving alcohol}}
+# {{non-gloss definition|abbreviation for {{zh-l|貼吧|internet board}}}}
 
 ====Syllable====
-{{head|zh|syllable|traditional and simplified}}
+{{head|zh|syllable}}
 
-# [[transliteration]] for ''ba'' or ''bar''
+# {{non-gloss definition|[[transliteration]] for ''ba'' or ''bar''}}
 #: {{zh-usex|貼吧|internet board}}
 #: {{zh-usex|迪吧|diva}}
 
 ====Derived terms====
-* [[酒吧]] ([[chiú-pa]])
+* {{zh-l|酒吧}}
+* {{zh-l|貼吧}}
+* {{zh-l|迪吧}}
 
 ====References====
 * {{cite web
