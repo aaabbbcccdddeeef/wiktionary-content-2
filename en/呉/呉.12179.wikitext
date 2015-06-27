@@ -33,21 +33,60 @@ Japanese shinjitai {{Han simp|吳}}.
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=口04}}
+{{ja-kanji|grade=c|rs=口04|style=s|kyu=吳}}
 
-# give, do something for
+# [[China]]
+# to [[give]] something, to [[do]] something for someone
 
 ====Readings====
-* {{ja-readings|goon=[[ぐ]] (gu) {{non-joyo-reading}}|kanon=[[ご]] (go)|kun=[[くれ]] (kure), [[くれる]] (kureru)}}
+{{ja-readings
+|goon=[[ぐ]] (gu) {{non-joyo-reading}}
+|kanon=[[ご]] (go)|kun=[[くれ]] (kure), [[くれる]] ([[呉れる]], kureru)
+}}
 
-===Proper noun===
-{{ja-pos|ご|proper}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ご}}
+From {{etyl|ltc|ja|sort=ご}} {{m|zh|吳|tr=ngu|pos=name of a state}}.  Compare modern {{etyl|cmn|-}} {{zh-l|吳|tr=Wú}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ご}}
+
+====Proper noun====
+{{ja-pos|proper|ご|kyu=吳}}
 
 # Japanese reading of the Chinese [[surname]] Wu.
+# the ancient [[w:Wu (state)|State of Wu]]
+# [[China]], [[Chinese]]
+#: More commonly found in compounds in modern Japanese.
 
-{{ja-pos|くれ|proper}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|呉音|ご.おん}}: a kind of [[kanji]] [[reading]], indicating an older borrowing from Chinese
+{{der-bottom}}
 
-# a place name, such as that of Kure City in [[Hiroshima]] Prefecture
+===Etymology 2===
+{{ja-kanjitab|yomi=k|くれ}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|暮れる|tr=kureru||to set (''said of the sun or moon''), to get dark}}, from the way that China lies to the [[west]] of Japan, in the direction of the setting sun.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Originally referred more specifically to the ancient [[w:Wu (state)|State of Wu]] (roughly analogous with the modern [[w:Jiangnan|Jiangnan]] region), and later referring to China as a whole.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|くれ}}
+
+====Proper noun====
+{{ja-pos|くれ|proper|kyu=吳}}
+
+# {{context|lang=ja|sort=くれ|archaic}} [[China]], [[Chinese]]
+#: More commonly found in compounds in modern Japanese.
+# a place name, such as that of [[w:Kure,_Hiroshima|Kure City]] in [[w:Hiroshima_Prefecture|Hiroshima Prefecture]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|呉楽|くれがく}}: [[w:Gigaku|gigaku]], an [[extinct]] form of [[masked]] [[drama]] [[performance]] originally imported from China
+* {{ja-r|呉竹|くれたけ}}: alternate name for {{m|ja|淡竹|tr=hachiku}}: {{vern|henon bamboo}}, a variety of {{taxlink|Phyllostachys nigra|species|noshow=1}} or {{vern|black bamboo}}
+* {{ja-r|紅|くれない}}: [[crimson]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:ja:Cities|くれ]]
 
