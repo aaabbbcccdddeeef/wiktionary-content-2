@@ -63,35 +63,43 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*ŋa}}. Cognate with {{zh-l|吾}}, {{zh-l|�
 ===Kanji===
 {{ja-kanji|grade=6|rs=戈03}}
 
-# {{defn|lang=ja|sort=戈03}}
+# [[I]], [[me]]
 
 ====Readings====
-* {{ja-readings|on=[[が]] (ga)|kun=[[われ]] (ware), [[わ]] (wa)}}
+{{ja-readings
+|goon=[[が]] (ga)
+|kanon=[[が]] (ga)
+|kun=[[われ]] (ware), [[わ]] (wa)
+}}
 
 ====Compounds====
-* {{l|ja|我我}}, {{l|ja|我々|tr=[[われわれ]], wareware}}
-* {{l|ja|我慢|tr=[[がまん]], gaman}}
-* {{l|ja|我儘}}, {{l|ja|我が儘|tr=[[わがまま]], wagamama}}
-* {{l|ja|我家}}, {{l|ja|我が家|tr=[[わがや]], wagaya}}
-* {{l|ja|我国}}, {{l|ja|我が国|tr=[[わがくに]], wa ga kuni}}
-* {{l|ja|我輩}}, {{l|ja|我が輩|tr=[[わがはい]], wagahai}}
-* {{l|ja|我利我利}}
-* {{l|ja|我等}}, {{l|ja|我ら|tr=[[われら]], warera}}
-* {{l|ja|怪我|tr=[[けが]], kega}}
+{{der-top|Compounds}}
+* {{ja-r|我慢|がまん}}: 
+* {{ja-r|我利我利|がりがり}}: 
+* {{ja-r|我国|わがくに}}, {{ja-r|我が国|わがくに}}: [[my]] [[country]], my [[homeland]]
+* {{ja-r|我輩|わがはい}}, {{ja-r|我が輩|わがはい}}: [[we]], [[us]]
+* {{ja-r|我儘|わがまま}}, {{ja-r|我が儘|わがまま}}: [[selfish]]; [[selfishness]]
+* {{ja-r|我家|わがや}}, {{ja-r|我が家|わがや}}: [[my]] [[home]], my [[household]]
+* {{ja-r|我我|われわれ}}: [[we]], [[us]]
+* {{ja-r|我等|われら}}, {{ja-r|我ら|われら}}: [[we]], [[us]]
+{{der-mid}}
+* {{ja-r|怪我|けが}}: [[injury]], [[hurt]]
+{{der-bottom}}
 
 ===Etymology 1===
-The short form of {{term|我|tr=ware|lang=ja}}.
-
-====Alternative forms====
-* [[吾]]
+{{ja-kanjitab|yomi=k|わ}}
+From {{etyl|ojp|ja|sort=わ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  The short form of {{m|ja|我|tr=ware}}.
 
 ====Pronunciation====
-* {{IPA|[wa]|lang=ja}}
+{{ja-pron|yomi=k|わ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|吾}}, {{ja-l|和}} {{qualifier|rare}}
 
 ====Pronoun====
-{{ja-pos|わ|pronoun}}
+{{ja-pos|pronoun|わ}}
 
-# first-person personal pronoun; [[I]], [[me]]
+# first-person personal pronoun: [[I]], [[me]]
 #* {{RQ:Taketori Monogatari}}
 #*: 「[...]'''わ'''が丈たち竝ぶまで養ひたてまつりたる我子を、なに人が迎へきこえん。まさに許さんや」と言ひて、[...]
 #* {{RQ:Genji Monogatari|Kiritsubo}}
@@ -99,19 +107,25 @@ The short form of {{term|我|tr=ware|lang=ja}}.
 #* {{RQ:Genji Monogatari|Utsusemi}}
 #*: 女どち、のどやかなる夕闇の、道たどたどしげなるまぎれに、'''わ'''が車にてゐてたてまつる。
 
-===Etymology 2===
-The long form of {{term|我|tr=wa|lang=ja}}. Compound of {{term|我|tr=wa|lang=ja}} and suffix {{term|れ|tr=re|lang=ja}}.
+=====Usage notes=====
+In modern Japanese, most often encountered in fossilized phrases in combination with the {{etyl|ojp|-}} possessive particle {{ja-r|が}}, such as {{m|ja|我が儘|tr=wagamama|lit=just as I like||selfish; selfishness}} or {{m|ja|我が国|tr=wagakuni||my country, my homeland; {{qualifier|by extension}} Japan}}.
 
-====Alternative forms====
-* [[吾]]
+===Etymology 2===
+{{ja-kanjitab|yomi=k|われ}}
+From {{etyl|ojp|ja|sort=われ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears to be {{suffix|lang=ja|sort=われ|我|tr1=wa|pos1=see above|れ|tr2=re}}, a nominalizing suffix also seen in terms such as {{m|ja|これ|tr=kore||this}} and {{m|ja|誰|tr=dare||who}}.
+
+The long form of {{m|ja|我|tr=wa}}.
 
 ====Pronunciation====
-* {{IPA|[waɽe]|lang=ja}}
+{{ja-pron|yomi=k|われ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|吾}}
 
 ====Pronoun====
-{{ja-pos|われ|pronoun}}
+{{ja-pos|pronoun|われ}}
 
-# first person personal pronoun; [[I]], [[me]], [[oneself]]
+# first person personal pronoun: [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|14|3384}}
 #*: 可都思加能 麻末能手兒奈乎 麻許登可聞 '''和礼'''尓余須等布 麻末乃弖胡奈乎
 #* {{RQ:Taketori Monogatari}}
@@ -126,50 +140,67 @@ The long form of {{term|我|tr=wa|lang=ja}}. Compound of {{term|我|tr=wa|lang=j
 #* {{RQ:Nippo Jisho|679}}
 #*: '''Vare'''. ワレ (我) 私. また, おまえ. 本来の正しい言い方ではないが、下賎な者と話したり, 人を軽しめたりする時に用いる.
 
+=====Usage notes=====
+In modern Japanese, most often encountered in the plural forms {{m|ja|我等|tr=warera}} and {{m|ja|我我|tr=wareware||we, us}}.
+
 ===Etymology 3===
-Eastern dialect. Cognate with {{term|我|tr=ware|lang=ja}}.
+{{ja-kanjitab|yomi=k|わぬ}}
+{{etyl|ojp|ja|sort=わぬ}}.  Ancient eastern dialect.  Cognate with {{m|ja|我|tr=ware}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Obsolete.
 
 ====Pronunciation====
-* {{IPA|[wanu]|lang=ja}}
+{{ja-pron|yomi=k|わぬ}}
+
+====Alternative forms====
+* {{ja-l|吾}}
 
 ====Pronoun====
-{{ja-pos|わぬ|pronoun}}
+{{ja-pos|pronoun|わぬ}}
 
-# first person personal pronoun; [[I]], [[me]], [[oneself]]
+# {{context|lang=ja|sort=わぬ|obsolete}} first person personal pronoun: [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|14|3476}}
 #*: 宇倍兒奈波 '''和奴'''尓故布奈毛 多刀都久能 努賀奈敝由家婆 故布思可流奈母 或本歌末句曰 奴我奈敝由家杼 '''和奴'''賀由乃敝波
 #* {{RQ:Man'yōshū|20|4358}}
 #*: 於保伎美乃 美許等加志古美 伊弖久礼婆 '''和努'''等里都伎弖 伊比之古奈波毛
 
 ===Etymology 4===
-From /waro<sub>2</sub>/, which led to /waro/. Likely a compound of {{term|我|tr=wa|lang=ja}} and suffix {{term|ろ|tr=ro|lang=ja}}.
+{{ja-kanjitab|yomi=k|わろ}}
+{{IPAchar|/waro<sub>2</sub>/}} → {{IPAchar|/waro/}}
 
-====Alternative forms====
-* [[吾]]
+{{etyl|ojp|ja|sort=わぬ}}.  Ancient eastern dialect.  Likely a compound of {{suffix|lang=ja|sort=わろ|我|tr1=wa|pos1=see above|ろ|tr2=ro|pos2={{etyl|ojp|-}} suffix indicating affection}}.
+
+Obsolete.
 
 ====Pronunciation====
-* {{IPA|[waɽo]|lang=ja}}
+{{ja-pron|yomi=k|わろ}}
+
+====Alternative forms====
+* {{ja-l|吾}}
 
 ====Pronoun====
-{{ja-pos|わろ|pronoun}}
+{{ja-pos|pronoun|わろ}}
 
-# first person personal pronoun; [[I]], [[me]], [[oneself]]
+# {{context|lang=ja|sort=わろ|obsolete}} first person personal pronoun: [[I]], [[me]], [[oneself]]
 #* {{RQ:Man'yōshū|20|4343}}
 #*: '''和呂'''多比波 多比等於米保等 已比尓志弖 古米知夜須良牟 和加美可奈志母
 
 ===Etymology 5===
-The short form of {{term|我|tr=are|lang=ja}}.
+{{ja-kanjitab|yomi=k|あ}}
+{{etyl|ojp|ja|sort=あ}}.  The short form of {{m|ja|我|tr=are}}.
 
-====Alternative forms====
-* [[吾]]
+Obsolete.  Fell into disuse in roughly the [[w:Heian period|Heian period]],<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> when it was replaced by ''wa'' (see above).
 
 ====Pronunciation====
-* {{IPA|[a]|lang=ja}}
+{{ja-pron|yomi=k|あ}}
+
+====Alternative forms====
+* {{ja-l|吾}}
 
 ====Pronoun====
-{{ja-pos|あ|pronoun}}
+{{ja-pos|pronoun|あ}}
 
-# first-person personal pronoun; [[I]], [[me]]
+# {{context|lang=ja|sort=あ|obsolete}} first-person personal pronoun: [[I]], [[me]]
 #* {{RQ:Man'yōshū|14|3456}}
 #*: 宇都世美能 夜蘇許登乃敝波 思気久等母 安良蘇比可祢弖 '''安'''乎許登奈須那
 #* {{RQ:Man'yōshū|14|3457}}
@@ -182,18 +213,21 @@ The short form of {{term|我|tr=are|lang=ja}}.
 #*: '''あ'''が君、生き出で給へ。いと、いみじき目な見せ給ひそ
 
 ===Etymology 6===
-The long form of {{term|我|tr=a|lang=ja}}. Compound of {{term|我|tr=a|lang=ja}} and suffix {{term|れ|tr=re|lang=ja}}.
+{{ja-kanjitab|yomi=k|あれ}}
+The long form of {{m|ja|我|tr=a}}.  Compound of {{compound|lang=ja|sort=あれ|我|tr1=a|pos1=see above|れ|tr2=re}}, a nominalizing suffix also seen in terms such as {{m|ja|これ|tr=kore||this}} and {{m|ja|誰|tr=dare||who}}.
 
-====Alternative forms====
-* [[吾]]
+Obsolete.  Fell into disuse in roughly the [[w:Heian period|Heian period]],<ref name="DJR">{{R:Daijirin}}</ref> when it was replaced by ''ware'' (see above).
 
 ====Pronunciation====
-* {{IPA|[aɽe]|lang=ja}}
+{{ja-pron|yomi=k|あれ}}
+
+====Alternative forms====
+* {{ja-l|吾}}
 
 ====Pronoun====
-{{ja-pos|あれ|pronoun}}
+{{ja-pos|pronoun|あれ}}
 
-# first-person personal pronoun; [[I]], [[me]]
+# {{context|lang=ja|sort=あれ|obsolete}} first-person personal pronoun: [[I]], [[me]]
 #* {{RQ:Man'yōshū|5|808}}
 #*: 多都乃麻乎 '''阿礼'''波毛等米牟 阿遠尓与志 奈良乃美夜古迩 許牟比等乃多仁
 #* {{RQ:Man'yōshū|14|3361}}
@@ -210,43 +244,7 @@ The long form of {{term|我|tr=a|lang=ja}}. Compound of {{term|我|tr=a|lang=ja}
 #*: [...]と、聞こえ動かして、几帳のもとに、おし寄せたてまつりたれば、'''あれ'''にもあらず、居給へるけはい[...]
 
 ===References===
-* {{R:Nippo Jisho}}
-* {{reference-book
- | last = Horiuchi
- | first = Hideaki
- | coauthors = Akiyama Ken
- | title = Shin Nihon Koten Bungaku Taikei 17: [[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]
- | publisher = [[w:Iwanami Shoten Publishing|Iwanami Shoten]]
- | date = 1997
- | location = [[w:Tōkyō|Tōkyō]]
- | language = Japanese
- | id = ISBN 4-0024-0017-4
- }}
-* {{R:Man'yōshū 1}}
-* {{R:Man'yōshū 3}}
-* {{R:Man'yōshū 4}}
-* {{reference-book
- | last = Yamagishi
- | first = Tokuhei
- | title = Koten Bungaku Taikei 14: [[w:Genji Monogatari|Genji Monogatari]] 1
- | publisher = [[w:Iwanami Shoten Publishing|Iwanami Shoten]]
- | date = 1958
- | origyear = c. 1001–1014
- | location = Tōkyō
- | language = Japanese
- | id = ISBN 4-0006-0014-1
-}}
-* {{reference-book
- | last = Yamagishi
- | first = Tokuhei
- | title = Koten Bungaku Taikei 14: [[w:Genji Monogatari|Genji Monogatari]] 5
- | publisher = [[w:Iwanami Shoten Publishing|Iwanami Shoten]]
- | date = 1963
- | origyear = c. 1001–1014
- | location = Tōkyō
- | language = Japanese
- | id = ISBN 4-0006-0018-4
-}}
+<references/>
 
 ----
 
