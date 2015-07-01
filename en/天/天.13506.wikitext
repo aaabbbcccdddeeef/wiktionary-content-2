@@ -275,32 +275,31 @@ Further etymology is unknown. While it was reconstructed with a {{IPAchar|/*tʰ-
 ----
 
 ==Japanese==
-{{rfc|Cleanup -- some done, more needed.}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=大01}}
 
-#[[heavens]], [[sky]]
-#[[weather]]
-#[[God]], [[Heaven]]
+# [[heavens]], [[sky]]
 
 ====Readings====
 {{ja-readings
 |goon=[[てん]] (ten)
 |kanon=[[てん]] (ten)
 |kun=[[あま]] (ama), [[あめ]] (ame)
-|nanori=[[あま]] (ama), [[あめ]] (ame), [[かみ]] (kami), [[そら]] (sora), [[たか]] (taka), [[たかし]] (takashi)
+|nanori=[[かみ]] (kami), [[そら]] (sora), [[たか]] (taka), [[たかし]] (takashi)
 }}
 
 ====Compounds====
-* {{l|ja|天麩羅|tr=[[てんぷら]], [[テンプラ]], tenpura}}
+{{der-top|Compounds}}
+* {{ja-r|天麩羅|てんぷら}}: [[tempura]]
+{{der-bottom}}
 
 ===Etymology 1===
-From {{etyl|ojp|ja|sort=あま}}.
+{{ja-kanjitab|yomi=k|あま}}
+From {{etyl|ojp|ja|sort=あま}}.  Usually appears as a bound form only appearing in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Compare the formation of {{m|ja|目|tr=ma|pos=bound form in compounds}} and {{m|ja|目|tr=me|pos=standalone form}}, {{m|ja|手|tr=ta|pos=bound form in compounds}} and {{m|ja|手|tr=te|pos=standalone form}}.
 
 ====Pronunciation====
-* {{ja-l|訓読み||Kun'yomi}}
-* {{IPA|lang=ja|[a̠ma̠]}}
+{{ja-pron|yomi=k|あま}}
 
 ====Noun====
 {{ja-noun|あま}}
@@ -319,11 +318,11 @@ From {{etyl|ojp|ja|sort=あま}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=あめ}} ''ama'' (see above).  Likely derived by fusion of ''ama'' + {{term|lang=ja|い|tr=i|pos=emphatic nominative particle}}, similar to the derivation of other words such as {{term|lang=ja|神|tr=kami|pos=''kamu'' + ''i''}}, {{term|lang=ja|目|tr=me|pos=''ma'' + ''i''}}, etc.
+{{ja-kanjitab|yomi=k|あめ}}
+From {{etyl|ojp|ja|sort=あめ}} ''ama'' (see above).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Likely derived by fusion of ''ama'' + {{m|ja|い|tr=i|pos=emphatic nominative particle}}, similar to the derivation of other words such as {{m|ja|神|tr=kami|pos=''kamu'' + ''i''}}, {{m|ja|目|tr=me|pos=''ma'' + ''i''}}, etc.
 
 ====Pronunciation====
-* {{ja-l|訓読み||Kun'yomi}}
-* {{IPA|lang=ja|[a̠me̞]}}
+{{ja-pron|yomi=k|あめ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|あめ}}
@@ -333,7 +332,9 @@ From {{etyl|ojp|ja|sort=あめ}} ''ama'' (see above).  Likely derived by fusion 
 # {{context|archaic|lang=ja|sort=あめ}} the [[roof]] of a [[palace]]
 
 =====Idioms=====
-* {{ja-l|天に跼り地に蹐む}} ({{ja-l|あめにせかがまりつちにぬきあしにふむ}}, {{ja-l|||ame ni sekagamari tsuchi ni nukiashinifumu}}; {{ja-l|あめにせぐくまりつちにぬきあしにふむ}}, {{ja-l|||ame ni segukumari tsuchi ni nukiashinifumu}}): “in heaven, bow and step carefully on the ground” → to be [[humble]] and [[respectful]] in [[heaven]]
+{{der-top|Idioms}}
+* {{ja-r|天に跼り地に蹐む|あめ に せかがまり つち に ぬきあしにふむ}}, {{ja-r|天に跼り地に蹐む|あめ に せぐくまり つち にぬきあしにふむ}}: “in heaven, bow and step carefully on the ground” → to be [[humble]] and [[respectful]] in [[heaven]]
+{{der-bottom}}
 
 =====Derived terms=====
 {{der-top}}
@@ -341,11 +342,11 @@ From {{etyl|ojp|ja|sort=あめ}} ''ama'' (see above).  Likely derived by fusion 
 {{der-bottom}}
 
 ===Etymology 3===
-From {{etyl|ltc|ja|sort=てん}} {{term|lang=ltc|天|tr={{IPAchar|/tʰen/}}}}.  Compare modern {{etyl|cmn|-}} {{term|lang=cmn|天|tr=tiān}}.
+{{ja-kanjitab|yomi=on|てん}}
+From {{etyl|ltc|ja|sort=てん}} {{m|zh|天|tr={{IPAchar|/tʰen/}}||sky; heavens}}.  Compare modern {{etyl|cmn|-}} reading ''tiān''.
 
 ====Pronunciation====
-* {{ja-l|音読み||On'yomi}}
-* {{IPA|lang=ja|[tẽ̞ɴ]}}
+{{ja-pron|yomi=goon|てん|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|てん}}
@@ -355,51 +356,56 @@ From {{etyl|ltc|ja|sort=てん}} {{term|lang=ltc|天|tr={{IPAchar|/tʰen/}}}}.  
 # {{qualifier|metaphorically}} the [[gods]], [[providence]], [[fate]]
 
 =====Idioms=====
-* {{ja-l|天に唾する|てんにつばする|ten ni tsuba suru}}: “to spit at heaven” → a metaphor for [[court]]ing [[disaster]]
-* {{ja-l|天にも昇る心地|てんにものぼるここち|ten ni mo noboru kokochi}}: “a feeling like rising to heaven” → being in [[seventh heaven]], a really good [[feeling]]
-* {{ja-l|天を衝く|てんをつく|ten o tsuku}}: “to pierce the heavens” → to [[tower]], to be very [[tall]]
+{{der-top|Idioms}}
+* {{ja-r|天に唾する|てん に つば する}}: “to spit at heaven” → a metaphor for [[court]]ing [[disaster]]
+* {{ja-r|天にも昇る心地|てん に も のぼる ここち}}: “a feeling like rising to heaven” → being in [[seventh heaven]], a really good [[feeling]]
+* {{ja-r|天を衝く|てん を つく}}: “to pierce the heavens” → to [[tower]], to be very [[tall]]
+{{der-bottom}}
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|天神|てんじん|tenjin}}
-* {{ja-l|天空|てんくう|tenkū}}
-* {{ja-l|天皇|てんのう|tennō}}
-* {{ja-l|天下|てんか|tenka}} ({{qualifier|rarely}} {{ja-l|てんげ}}, {{ja-l|||tenge}})
-* {{ja-l|天蓋|てんがい|tengai}}
-* {{ja-l|天気|てんき|tenki}}
-* {{ja-l|天狗|てんぐ|tengu}}
-* {{ja-l|天候|てんこう|tenkō}}
-* {{ja-l|天国|てんごく|tengoku}}
-* {{ja-l|天才|てんさい|tensai}}
-* {{ja-l|天災|てんさい|tensai}}
-* {{ja-l|天災地変|てんさいちへん|tensai-chihen}}
-* {{ja-l|天使|てんし|tenshi}}
-* {{ja-l|天井|てんじょう|tenjō}}
-* {{ja-l|天職|てんしょく|tenshoku}}
-* {{ja-l|天真爛漫|てんしんらんまん|tenshin ranman}}
-* {{ja-l|楽天|らくてん|rakuten}}: an [[optimistic]] [[outlook]], [[easygoing]]-ness
-* {{ja-l|楽天家|らくてんか|rakutenka}}: an [[optimist]]
-* {{ja-l|楽天主義|らくてんしゅぎ|rakuten shugi}}: [[optimism]]
-* {{ja-l|楽天主義者|らくてんしゅぎしゃ|rakuten shugisha}}: an [[optimist]]
+* {{ja-r|天神|てんじん}}
+* {{ja-r|天空|てんくう}}
+* {{ja-r|天皇|てんのう}}
+* {{ja-r|天下|てんか}} ({{qualifier|rarely}} {{ja-l|てんげ}}, {{ja-l|||tenge}})
+* {{ja-r|天蓋|てんがい}}
+* {{ja-r|天気|てんき}}
+* {{ja-r|天狗|てんぐ}}
+* {{ja-r|天候|てんこう}}
+* {{ja-r|天国|てんごく}}
+* {{ja-r|天才|てんさい}}
+* {{ja-r|天災|てんさい}}
+* {{ja-r|天災地変|てんさい ちへん}}
+* {{ja-r|天使|てんし}}
+* {{ja-r|天井|てんじょう}}
+* {{ja-r|天職|てんしょく}}
+* {{ja-r|天真爛漫|てんしん らんまん}}
+* {{ja-r|楽天|らくてん}}: an [[optimistic]] [[outlook]], [[easygoing]]-ness
+* {{ja-r|楽天家|らくてんか}}: an [[optimist]]
+* {{ja-r|楽天主義|らくてん しゅぎ}}: [[optimism]]
+* {{ja-r|楽天主義者|らくてん しゅぎしゃ}}: an [[optimist]]
 {{der-mid}}
-* {{ja-l|天性|てんせい|tensei}} [[inherent]] [[nature]], [[disposition]]
-* {{ja-l|天体|てんたい|tentai}}
-* {{ja-l|天地|てんち|tenchi}}
-* {{ja-l|天頂|てんちょう|tenchō}}: a [[zenith]]
-* {{ja-l|天然|てんねん|tennen}}: [[natural]], [[innate]]
-* {{ja-l|天秤|てんびん|tenbin}}: a [[balance]], a pair of [[scales]]
-* {{ja-l|天変地異|てんぺんちい|tenpen chii}}: an [[extraordinary]] [[natural]] [[phenomenon]] or [[occurrence]]
-* {{ja-l|天文|てんもん|tenmon}}
-* {{ja-l|天文学|てんもんがく|tenmongaku}}
-* {{ja-l|天文台|てんもんだい|tenmondai}}
-* {{ja-l|雨天|うてん|uten}}
-* {{ja-l|辯才天}}, {{ja-l|辨財天|べんざいてん|tenzaiten}}
-* {{ja-l|天上|てんじょう|tenjō}}
-* {{ja-l|天降|てんこう|tenkō}}
-* {{ja-l|天罰|てんばつ|tenbatsu}}: [[divine]] [[punishment]]
-* {{ja-l|天地|てんち|tenchi}}: heaven and earth
-* {{ja-l|天神地祇|てんじんちぎ|tenjin chigi}}: the [[god]]s of [[heaven]] and [[earth]]
+* {{ja-r|天性|てんせい}} [[inherent]] [[nature]], [[disposition]]
+* {{ja-r|天体|てんたい}}
+* {{ja-r|天地|てんち}}
+* {{ja-r|天頂|てんちょう}}: a [[zenith]]
+* {{ja-r|天然|てんねん}}: [[natural]], [[innate]]
+* {{ja-r|天秤|てんびん}}: a [[balance]], a pair of [[scales]]
+* {{ja-r|天変地異|てんぺん ちい}}: an [[extraordinary]] [[natural]] [[phenomenon]] or [[occurrence]]
+* {{ja-r|天文|てんもん}}
+* {{ja-r|天文学|てんもんがく}}
+* {{ja-r|天文台|てんもんだい}}
+* {{ja-r|雨天|うてん}}
+* {{ja-r|辯才天|べんざいてん}}, {{ja-r|辨財天|べんざいてん}}
+* {{ja-r|天上|てんじょう}}
+* {{ja-r|天降|てんこう}}
+* {{ja-r|天罰|てんばつ}}: [[divine]] [[punishment]]
+* {{ja-r|天地|てんち}}: heaven and earth
+* {{ja-r|天神地祇|てんじん ちぎ}}: the [[god]]s of [[heaven]] and [[earth]]
 {{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:Han characters from which katakana were derived|テン]]
 
