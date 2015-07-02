@@ -214,26 +214,27 @@ Compare also {{term|止||foot|sc=Hani}}, derived from a footprint, originally co
 
 ==Japanese==
 {{attention|ja|missing the sense as a suffix meaning [[-er]] as in [[運転手]]}}
+
 ===Kanji===
 {{ja-kanji|grade=1|rs=手00}}
 
 ====Readings====
-* {{ja-readings
-|goon=[[しゅ]] (shu), [[す]] (su)
+{{ja-readings
+|goon=[[しゅ]] (shu)
 |kanon=[[しゅう]] (shū)
 |kanyoon=[[ず]] (zu)
 |kun=[[て]] (te), [[た]] (ta)
-|nanori=[[た]] (ta), [[て]] (te), [[で]] (de)}}
+}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * [[手紙]]
 * [[手袋]]
 * [[相手]]
-{{mid2}}
+{{der-mid}}
 * [[切手]]
 * [[お手許]], [[お手元]], [[御手許]], [[御手元]]
-{{bottom}}
+{{der-bottom}}
 
 ===Noun===
 {{ja-noun|て}}
@@ -241,7 +242,7 @@ Compare also {{term|止||foot|sc=Hani}}, derived from a footprint, originally co
 # [[hand]]
 # [[handle]]
 # [[paw]]; [[foreleg]]
-# {{context|board games|lang=ja}} a [[move]]; a [[play]]
+# {{context|lang=ja|sort=て|board games}} a [[move]], a [[play]]
 
 [[Category:1000 Japanese basic words|て]]
 [[Category:ja:Anatomy|て]]
