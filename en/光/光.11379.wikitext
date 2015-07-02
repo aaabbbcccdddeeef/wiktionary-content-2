@@ -178,14 +178,17 @@ The character shows the rays of the sun, with the lower lines squared and balanc
 * {{ja-r|光分解|ひかり ぶんかい}}: [[optical]] [[degradation]], [[photodegradation]]
 {{der-bottom}}
 
-===Etymology===
-Stem noun form of verb {{ja-r|光る|ひかる|gloss=to shine, to glitter, to gleam}}.
+===Etymology 1===
+{{ja-kanjitab|yomi=k|ひかり}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-===Pronunciation===
-{{ja-pron|ひかり|acc=3|acc_ref=NHK|y=k|dev=1}}
+====Pronunciation====
+{{ja-pron|yomi=k|ひかり|acc=3|acc_ref=NHK,DJR|dev=1}}
 
-===Noun===
-{{ja-kanjitab|ひかり|yomi=k}}
+====Alternative forms====
+* {{l|ja|光り}}
+
+====Noun====
 {{ja-noun|ひかり}}
 
 # a [[physically]] [[perceived]] [[light]]: a [[light]], a [[gleam]], [[shining]], [[glittering]]
@@ -196,17 +199,8 @@ Stem noun form of verb {{ja-r|光る|ひかる|gloss=to shine, to glitter, to gl
 # {{qualifier|in compounds}} [[optics]]
 #: {{ja-usex|'''光'''ファイバー|'''ひかり''' ファイバー|'''optical''' fiber}}
 
-====Alternative forms====
-* {{l|ja|光り}}
-
-===Proper noun===
-{{ja-kanjitab|ひかる|yomi=k}}
-{{ja-pos|ひかる|proper}}
-
-# {{given name|male|lang=ja|sort=ひかる}}
-
-{{ja-kanjitab|ひかり|yomi=k}}
-{{ja-pos|ひかり|proper}}
+====Proper noun====
+{{ja-pos|proper|ひかり}}
 
 # a place name, such as that of Hikari City in [[Yamaguchi]] Prefecture
 # one of the [[bullet train]] services running on the Tōkaido/Sanyō [[shinkansen]]
@@ -214,8 +208,29 @@ Stem noun form of verb {{ja-r|光る|ひかる|gloss=to shine, to glitter, to gl
 # {{given name|female|lang=ja|sort=ひかり}}
 {{catlangcode|ja|Cities|Japan|sort=ひかり}}
 
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|ひかる}}
+[[nominalization|Nominalization]] of the verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ひかる}}
+
+====Proper noun====
+{{ja-pos|proper|ひかる}}
+
+# {{given name|male|lang=ja|sort=ひかる}}
+
+===Etymology 3===
 {{ja-kanjitab|こう|yomi=o}}
-{{ja-pos|こう|proper}}
+{{IPAchar|/kwau/}} → {{IPAchar|/kwɔː/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}
+
+From {{etyl|ltc|ja|sort=こう}} {{m|zh|光|tr=kwang||light, brightness}}.  Compare modern {{etyl|cmn|-}} ''guāng'' and {{etyl|hak|-}} ''kông'', {{etyl|nan|-}} ''kong''.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|こう|acc=1}}
+
+====Proper noun====
+{{ja-pos|proper|こう|hhira=くわう}}
 
 # {{given name|male|lang=ja|sort=こう}}
 
