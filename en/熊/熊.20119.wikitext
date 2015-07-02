@@ -72,13 +72,15 @@
 # [[bear]]
 
 ====Readings====
-* {{ja-readings
-|kanon=[[ゆう]] (yū)
+{{ja-readings
 |goon=[[う]] (u)
-|kun=[[くま]] (kuma)|nanori=[[くま]] (kuma), [[かげ]] (kage)}}
+|kanon=[[ゆう]] (yū)
+|kun=[[くま]] (kuma)
+|nanori=[[かげ]] (kage)
+}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * {{ja-r|牡熊|おすくま}}: a [[male]] bear
 * {{ja-r|雌熊|めすくま}}: a [[female]] bear; a [[she-bear]]
 * {{ja-r|子熊|こくま}}: a bear [[cub]]
@@ -86,31 +88,44 @@
 * {{ja-r|白熊|しろくま}}: a [[white]] bear
 * {{ja-r|北極熊|ほっきょくぐま}}: a [[polar]] bear
 * {{ja-r|黒熊|くろくま}}: the Asiatic black bear
-{{mid2}}
-* {{ja-r|熊笹|くまざさ}}: bamboo grass, [[Sasa veitchii]]
+{{der-mid}}
+* {{ja-r|熊笹|くまざさ}}: {{vern|bamboo grass}}, {{taxlink|Sasa veitchii|species}}
 * {{ja-r|熊手|くまで}}: [[bamboo]] [[rake]]
-* {{ja-r|熊襲|くまそ|caps=y}}: the Kumaso people
-{{bottom}}
+* {{ja-r|熊襲|くまそ|caps=y}}: the [[w:Kumaso|Kumaso]] people
+{{der-bottom}}
+
 ===Etymology===
-{{ja-kanjitab|くま|yomi=k}}
-{{rfe|lang=ja}}
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Bear}}
+[[File:Medved_mzoo.jpg|thumb|250px|{{lang|ja|熊}} (''kuma''): a brown '''[[bear]]'''.]]
+</div>{{ja-kanjitab|くま|yomi=k}}
+From {{etyl|ojp|ja|sort=くま}}.  Probably cognate with {{m|ja|隈|tr=kuma||inside corner; inner bend; hollow or hole in something}}, perhaps from the way that bears often live in [[den]]s.  Probably also cognate with {{etyl|ko|-}} {{m|ko|곰||bear; hole}}.
+
 ===Pronunciation===
-{{ja-pron|くま|acc=2|acc_ref=NHK|y=k}}
+{{ja-pron|yomi=k|くま|acc=2|acc_ref=NHK,DJR|acc2=1|acc2_ref=DJR}}
+
 ===Noun===
 {{ja-noun|くま|クマ}}
 
-# {{lb|ja|zoology|sort=くま}} [[bear]]
-# {{lb|ja|slang|sort=くま}} [[bear]]; [[otter]]; [[hairy]] [[man]], especially one who is [[gay]]
+# {{lb|ja|zoology|sort=くま}} a [[bear]]
+# {{lb|ja|slang|sort=くま}} a [[bear]], an [[otter]]: a [[hairy]] [[man]], especially one who is [[gay]]
+
+====Usage notes====
+{{U:ja:biology|クマ}}
 
 ====Derived terms====
-*{{ja-l|熊鼠|クマネズミ|kumanezumi}}
-*{{ja-l|穴熊|アナグマ|anaguma}}
+{{der-top}}
+* {{ja-l|熊鼠|くまねずみ}}: ''[[Rattus rattus]]'', the [[black rat]]
+* {{ja-l|穴熊|あなぐま}}: {{taxlink|Meles meles|species}}, the [[badger]]
+{{der-bottom}}
 
 ===References===
 <references/>
 
 [[Category:1000 Japanese basic words|くま]]
 [[Category:ja:Ursids|くま]]
+
 ----
 
 ==Korean==
