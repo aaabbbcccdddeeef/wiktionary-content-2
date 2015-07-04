@@ -47,6 +47,38 @@ From {{etyl|VL.|it}} ''essere'', from {{etyl|la|it}} {{term|esse|lang=la}}, pres
 
 ----
 
+==Old Italian==
+===Etymology===
+From {{etyl|VL.|roa-oit}} {{m|la|*essere}}, from {{etyl|la|roa-oit}} {{m|la|esse}}, present active infinitive form of {{m|la|sum||I am}}.
+
+===Pronunciation===
+*{{IPA|lang=roa-oit|/ˈɛsːere/}}
+*{{hyphenation|ès|se|re|lang=roa-oit}}
+
+===Verb===
+# {{context|auxiliary|used to form composite past tense of many intransitive verbs|lang=it}} to have (done something); to [[be]] in the state of having (done something)
+# {{context|intransitive|indicating existence, identity, location, or a permanent quality|lang=it}} to [[be]]
+# {{context|impersonal|of a duration of time since an event|lang=it}} to have [[pass]]ed
+
+====Conjugation====
+{{head|roa-oit|verb}}
+{{it-conj
+|inf=essere|aux=essere
+|ger=sendo, [[essendo]]|presp=essente|pastp=essuto, suto, [[stato]]
+|pres1s=sono|pres2s=sei|pres3s=è|pres1p=semo, [[siamo]]|pres2p=sete, [[siete]]|pres3p=enno, sono
+|imperf1s=era, [[ero]]|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
+|prem1s=fui|prem2s=fusti, [[fosti]]|prem3s=fu|prem1p=fummo|prem2p=fuste, [[foste]]||prem3p=furo, fuoro, [[furono]]
+|fut1s=sarò|fut2s=sarai|fut3s=fia, fie, [[sarà]]|fut1p=saremo|fut2p=sarete|fut3p=fiano, fieno, [[saranno]]
+|cond1s=saria, [[sarei]], fora|cond2s=saresti|cond3s=saria, [[sarebbe]], fora|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
+|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=sieno, [[siano]]
+|impsub12s=fussi, [[fossi]]|impsub3s=fusse, [[fosse]]|impsub1p=fussimo, [[fossimo]]|impsub2p=fuste, [[foste]]|impsub3p=fussero, [[fossero]]
+|imp2s=sii|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}
+
+====Descendants====
+*Italian: {{l|it|essere}}
+
+----
+
 ==Tarantino==
 
 ===Verb===
