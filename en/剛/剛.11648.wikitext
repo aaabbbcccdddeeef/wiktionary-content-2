@@ -5,7 +5,7 @@
 {{Han compound|岡|刀|c1=p|c2=s|t2=knife|ls=psc}}
 
 ===Han character===
-{{Han char|rn=18|rad=刀|as=08|sn=10|four=7220<sub>0</sub>|canj=月山中弓 (BULN)|ids=⿰[[岡]][[刂]]}}
+{{Han char|rn=18|rad=刀|as=08|sn=10|four=72200|canj=BULN|ids=⿰[[岡]][[刂]]}}
 
 # [[hard]], [[tough]], [[rigid]], [[strong]]
 
@@ -14,67 +14,35 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=刚}}
 
-===Hanzi===
-{{yue-hanzi|jyut=gong1|y=gong1|sim=刚}}
+===Pronunciation===
+{{zh-pron
+|m=gāng
+|c=gong1
+|h=pfs=kông
+|md=
+|mn=kong
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=刀08}}
+===Definitions===
+{{zh-hanzi}}
 
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=c|rs=刀08}}
-
-# {{defn|lang=ja|sort=刀08}}
-
-====Readings====
-* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kanyoon=[[ごう]] (gō)|kun=[[つよい]] (tsuyoi), [[こわい]] (kowai)}}
-
-===Proper noun===
-{{ja-pos|k|proper|hira=たけし|rom=Takeshi}}
-
-# {{given name|male|lang=ja}}
-
-{{ja-pos|k|proper|hira=つよし|rom=Tsuyoshi}}
-
-# {{given name|male|lang=ja}}
-
-{{ja-pos|k|proper|hira=ごう|rom=Gō|hidx=こう'}}
-
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|たけし]]
-[[Category:Japanese male given names|こう']]
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=강|rv=gang|mr=kang}}
-
-# {{defn|lang=ko|sort=刀08}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=刚|pin=[[gāng]] ([[gang1]])|wg=kang<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=刀08}}
+# {{rfdef|lang=zh}}
 
 ===Adjective===
-{{cmn-adj|t|pin=gāng|pint=gang1|tra=剛|sim=刚}}
+{{zh-adj}}
 
 # [[firm]]; [[strong]]; [[hard]]
 #: {{zh-usex|他 的 性格 是 剛 與 柔 的 結合。|His character is a combination of strength and kindness.}}  
 
 ===Adverb===
-{{cmn-adv|t|pin=gāng|pint=gang1|tra=剛|sim=刚}}
+{{zh-adv}}
 
 # [[just]]; [[exactly]]
 #: {{zh-usex|剛好|just, exactly}}
@@ -119,6 +87,43 @@
 | {{zh-l|剛正}}
 | {{zh-l|剛直}}
 }}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=刀08}}
+
+# {{defn|lang=ja|sort=刀08}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kanyoon=[[ごう]] (gō)|kun=[[つよい]] (tsuyoi), [[こわい]] (kowai)}}
+
+===Proper noun===
+{{ja-pos|k|proper|hira=たけし|rom=Takeshi}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|k|proper|hira=つよし|rom=Tsuyoshi}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|k|proper|hira=ごう|rom=Gō|hidx=こう'}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|たけし]]
+[[Category:Japanese male given names|こう']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|rv=gang|mr=kang}}
+
+# {{defn|lang=ko|sort=刀08}}
 
 ----
 
