@@ -50,50 +50,48 @@
 |mc=y
 |oc=y
 |ma=Zh-zi.ogg
-|cat=n
+|cat=n,pref,suf
 }}
 
 ====Noun====
-{{zh-noun|ts|pin=zǐ|pint=zi3}}
+{{zh-noun}}
 
 # {{context|literary|lang=zh}} [[son]]; [[child]]
 # {{context|literary|lang=zh}} [[person]]
 # {{context|astrology|lang=zh}} First [[w:Earthly_Branches|Earthly Branch]] ({{zh-l|地支}} or {{zh-l|十二支}}) : {{non-gloss definition|[[w:Rat (zodiac)|rat]] in the [[w:Chinese_zodiac|Chinese zodiac]], 11th solar month, 11pm to 1am (midnight)}}
 # {{context|literary|lang=zh}} [[master]]
-#: {{zh-usex|孔子|Master Kong ([[Confucius]])}}
+#: {{zh-usex|^孔子|Master Kong ([[Confucius]])}}
 # [[Viscount]], {{non-gloss definition|fourth of five ranks of Chinese aristocracy ({{zh-l|五等爵位}}) under the [[w:Zhou dynasty|Zhou dynasty]] }}
 
 =====See also=====
 * {{zh-l|五等爵位|wǔděngjuéwèi}} the five ranks of Chinese aristocracy under the [[w:Zhou dynasty|Zhou dynasty]]
 
 ====Prefix====
-{{zh-pref|ts|pin=zǐ|pint=zi3}}
+{{zh-pref}}
 
 # [[young]]; [[tender]]; [[small]]
 # [[sub-]]
-#* {{zh-ts|子目錄|子目录}} [[subdirectory]]
+#: {{zh-usex|子目錄|subdirectory}}
 
 ====Suffix====
-{{zh-suf|ts|pin=zǐ|pint=zi3}}
+{{zh-suf}}
 
-# {{context|Intermediate Mandarin|lang=zh}} a suffix for small objects
-# {{context|Intermediate Mandarin|lang=zh}} a suffix for single-syllable nouns
-#* [[瓶子]] bottle
-
-====Suffix====
-{{zh-suf|ts|pin=zǐ|pint=zi3}}
-
+# a suffix for small objects
+# a suffix for single-syllable nouns
+#: {{zh-usex|瓶子|bottle}}
 # [[seed]]
-#* {{zh-usex|葵花子|sunflower seed}}
+#: {{zh-usex|葵花子|sunflower seed}}
 # [[fruit]] 
 # [[egg]]
 
 ====Pronoun====
-{{zh-pronoun|ts|pin=zǐ|pint=zi3}}
+{{zh-pronoun}}
 
 # {{context|literary|lang=zh}} [[you]]
 
 =====Compounds=====
+{{attention|zh|needs conversion into traditional}}
+
 {{rel-top}}
 * {{l|zh|白芥子|tr=báijièzǐ}}
 * {{l|zh|蓖麻子}}
@@ -108,10 +106,10 @@
 * {{l|zh|没食子}}
 * {{l|zh|女贞子|tr=nǚzhēnzǐ}}
 {{rel-mid}}
-* {{l|zh|山楂}}子
+* {{l|zh|山楂子}}
 * {{l|zh|蛇床子}}
 * {{l|zh|蛇麻子}}
-* {{l|cmn|繩子}}, {{l|zh|绳子}} (shéngzi)
+* {{zh-l|繩子|tr=shéngzi}}
 * {{l|zh|使君子|tr=shǐjūnzǐ}}
 * {{l|zh|菟丝子|tr=tùsīzǐ}}
 * {{l|zh|伪君子|tr=wěijūnzǐ}}
@@ -119,7 +117,7 @@
 * {{l|zh|香附子}}
 * {{l|zh|椰子|tr=yēzi}}
 * {{l|zh|众香子}}
-* {{l|zh|子彈|tr=zǐdàn}}
+* {{zh-l|子彈|tr=zǐdàn}}
 {{rel-bottom}}
 
 ====References====
@@ -130,7 +128,9 @@
 | work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
 | language = Mandarin/English
 | accessdate = 2014-03-17}}
-*(''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=200&curpage=3&sample=%E5%AD%90&radiobutton=1&querytarget=1&limit=20&pagenum=5&rowcount=90 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+* (''Min Nan'') {{thcwd|200}}
+
+{{zh-cat|Intermediate}}
 
 ----
 
