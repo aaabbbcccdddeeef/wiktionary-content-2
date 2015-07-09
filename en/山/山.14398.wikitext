@@ -76,36 +76,39 @@
 {{ja-kanji|grade=1|rs=山00}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[せん]] (sen)
 |kanon=[[さん]] (san)
 |kun=[[やま]] (yama)}}
 
 ====Compounds====
-{{top2}}
-* {{l|ja|山伏}} ({{l|ja|やまぶし}}, ''yamabushi''): a mountain [[hermit]]
-* {{l|ja|山頂}} ({{l|ja|さんちょう}}, ''sanchō''): mountain top
-* {{l|ja|火山}} ({{l|ja|かざん}}, ''kazan''): volcano
-* {{l|ja|氷山}} ({{l|ja|ひょうざん}}, ''hyōzan''): iceberg
-* {{l|ja|大山}} ({{l|ja|おおやま}} or {{l|ja|たいざん}}, ''ooyama'' or ''taizan''): big mountain
-* {{l|ja|小山}} ({{l|ja|こやま}}, ''koyama''): small mountain
-* {{l|ja|山国}} ({{l|ja|やまぐに}}, ''yamaguni''): mountainous country
-* {{l|ja|山吹}} ({{l|ja|やまぶき}}, ''yamabuki''): Japanese rose
-{{mid2}}
-* {{l|ja|山水}} ({{l|ja|さんすい}}, ''sansui''): landscape
-* {{l|ja|山人}} ({{l|ja|やまびと}}, ''yamabito''): mountain people
-* {{l|ja|山茶}} ({{l|ja|さんちゃ}}, ''sancha''): tea made in the mountains
-* {{l|ja|山岳}} ({{l|ja|さんがく}}, ''sangaku''): mountains
-* {{l|ja|山路}} ({{l|ja|さんろ}}, ''sanro''): mountain path
-* {{l|ja|山川}} ({{l|ja|さんせん}}, ''sansen''): mountains and rivers
-* {{l|ja|山犬}} ({{l|ja|やまいぬ}}, ''yamainu''): a [[mountain]] [[dog]]
-* {{l|ja|花果山}} ({{l|ja|かかざん}}, ''kakazan''): [[flower]]-[[fruit]] [[mountain]]
-{{bottom}}
+{{der-top|Compounds}}
+* {{ja-r|山伏|やまぶし}}: a mountain [[hermit]]
+* {{ja-r|山頂|さんちょう}}: mountain top
+* {{ja-r|火山|かざん}}: volcano
+* {{ja-r|山水牛|やますいぎゅう}}: [[anoa]]
+* {{ja-r|氷山|ひょうざん}}: iceberg
+* {{ja-r|大山|たいざん}}, {{ja-r|大山|おおやま}}: big mountain
+* {{ja-r|小山|こやま}}: small mountain
+* {{ja-r|山国|やまぐに}}: mountainous country
+* {{ja-r|山吹|やまぶき}}: Japanese rose
+{{der-mid}}
+* {{ja-r|山水|さんすい}}: landscape
+* {{ja-r|山人|やまびと}}: mountain people
+* {{ja-r|山茶|さんちゃ}}: tea made in the mountains
+* {{ja-r|山岳|さんがく}}: mountains
+* {{ja-r|山路|さんろ}}: mountain path
+* {{ja-r|山川|さんせん}}: mountains and rivers
+* {{ja-r|山犬|やまいぬ}}: a [[mountain]] [[dog]]
+* {{ja-r|花果山|かかざん}}: [[flower]]-[[fruit]] [[mountain]]
+{{der-bottom}}
+
 ===Etymology===
 {{ja-kanjitab|やま|yomi=k}}
 {{rfe|lang=ja}}
+
 ===Pronunciation===
-{{ja-pron|やま|acc=o|acc_ref=NHK|y=k}}
+{{ja-pron|yomi=k|やま|acc=2|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|やま}}
@@ -114,9 +117,12 @@
 
 ====Quotations====
 {{rfquote|lang=ja}}
+
 ===References===
 <references/>
+
 [[Category:ja:Landforms|やま]]
+
 ----
 
 ==Korean==
