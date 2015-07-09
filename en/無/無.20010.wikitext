@@ -36,7 +36,7 @@ Source character meaning “dance”, top component graphically originally a fig
 |mc=y
 |oc=y
 |ma=Zh-wú.ogg
-|cat=a,adv,n,v,pref,conj,det
+|cat=adverb,noun,prefix,verb,conjunction
 }}
 
 ===Adverb===
@@ -49,7 +49,7 @@ Source character meaning “dance”, top component graphically originally a fig
 {{zh-noun}}
 
 # [[no]], [[none]], [[nothing]], [[lack]], [[nil]]
-#: {{zh-usex|我 无 求 于 你。|tr=wǒ wú qiú yú nǐ.|I want nothing from you.}}
+#: {{zh-usex|我 无 求 于 你。|tr=wǒ wú qiú yú nǐ.|I want nothing from you.}} {{attention|zh|needs conversion to traditional}}
 #: {{zh-usex|從無到有|start from nothing, from scratch}}
 
 ====Prefix====
@@ -78,6 +78,7 @@ Literary equivalent of {{zh-l|沒有}}
 # regardless of, no matter whether
 
 ====Compounds====
+{{attention|zh|needs conversion to traditional}}
 {{der5
 | {{zh-l|無家可歸}}
 | {{zh-l|無神論}}
