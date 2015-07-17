@@ -176,9 +176,9 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. C
 ====Pronunciation====
 * {{audio|Ja-8-hachi.ogg|Audio|lang=ja}}
 
-====Number====
+====Numeral====
 {{cardinalbox|ja|7|8|9|七|九}}
-'''八''' ([[はち]], ''[[hachi]]'')
+{{ja-pos|numeral|はち}}
 
 # [[eight]], [[8]]
 
@@ -207,7 +207,7 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 {{ja-kanji|grade=1}}
 
 =====Readings=====
-* {{ja-readings|on=[[はち]] (''hachi'')|kun=[[や]] (''ya''), [[やつ]] ([[八つ]], ''yatsu''), [[やっつ]] ([[八つ]], ''yattsu''), [[よう]] (''yō'')|nanori=[[な]] (''na''), [[は]] (''ha''), [[はっ]] (''ha' ''), [[はつ]] (''hatsu''), [[やち]] (''yachi''), [[やつ]] (''yatsu'')}}
+* {{ja-readings|kanon=[[はつ]] (''hatsu'')|goon=[[はち]] (''hachi'')|kun=[[や]] (''ya''), [[やつ]] ([[八つ]], ''yatsu''), [[やっつ]] ([[八つ]], ''yattsu''), [[よう]] (''yō'')|nanori=[[な]] (''na''), [[は]] (''ha''), [[はっ]] (''ha' ''), [[はつ]] (''hatsu''), [[やち]] (''yachi''), [[やつ]] (''yatsu'')}}
 
 =====Compounds=====
 {{top2}}
@@ -250,14 +250,14 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 
 [[Category:1000 Japanese basic words|はち]]
 [[Category:Japanese numeral symbols|8]]
-[[Category:Japanese numerals]]
+[[Category:ja:Eight|はち]]
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=팔|rv=|mr=p'al|y=phal|eumhun=여덟|ehrv=yeodeolp|ehmr=yŏdŏl|ehy=yetelp}}
+{{ko-hanja|hangeul=[[팔]], [[배]]|rv=pal, bae|mr=p'al, pae|y=phal, pay|eumhun=여덟|ehrv=yeodeolp|ehmr=yŏdŏl|ehy=yetelp}}
 
 # [[eight]]
 
