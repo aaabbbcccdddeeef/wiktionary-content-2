@@ -22,6 +22,9 @@ Pictographic, representing objects strung together.
 ==Chinese==
 {{zh-forms}}
 
+===Etymology===
+Modern ''chuàn'', Middle Chinese ''kʷɯan''L (Pan Wuyun), Old Chinese *''kroːns'' (Zhengzhang Shangfang). Cognate with [[穿]] (chuān, Old Chinese *''kʰljon'', "to pierce through → to wear"), [[貫]] (guàn, Old Chinese *''koːn'', *''koːns'', "to penetrate").
+
 ===Pronunciation===
 {{zh-pron
 |m=chuàn
@@ -29,17 +32,30 @@ Pictographic, representing objects strung together.
 |mc=y
 |oc=y
 |ma=Zh-chuàn.ogg
-|cat=n,v
+|cat=n,adj,v,cls
 }}
 
-===Etymology===
-Modern ''chuàn'', Middle Chinese ''kʷɯan''L (Pan Wuyun), Old Chinese *''kroːns'' (Zhengzhang Shangfang). Cognate with [[穿]] (chuān, Old Chinese *''kʰljon'', "to pierce through → to wear"), [[貫]] (guàn, Old Chinese *''koːn'', *''koːns'', "to penetrate"). 
+===Noun===
+{{zh-noun}}
+
+# skewer
 
 ===Adjective===
-{{zh-adj|ts}}
+{{zh-adj}}
 
 # {{context|slang|lang=yue}} [[cocksure]], [[arrogant]]
 # {{context|slang|lang=yue}} [[sarcastic]]
+
+===Verb===
+{{zh-verb}}
+
+# {{rfdef|lang=zh}}
+
+===Classifier===
+{{zh-classifier}}
+
+# {{rfdef|lang=zh}}
+#: {{zh-usex|一 串 珠子|a '''string''' of beads}}
 
 ====Compounds====
 * [[串儿]]
