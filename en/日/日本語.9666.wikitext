@@ -37,10 +37,13 @@ Compound of {{suffix|日本|tr1=Nihon|t1=Japan|語|tr2=go|t2=language|lang=ja||s
 ===Pronunciation===
 {{ja-pron|yomi=on|acc=0|acc_ref=DJR|にほんご|audio=Ja-nihongo.ogg}}
 
-===Proper noun===
-{{ja-pos|proper|hira=にほんご}}
+===Noun===
+{{ja-noun|にほんご}}
 
 # the [[Japanese]] [[language]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|にほんご]]
 [[Category:ja:Languages|にほんご]]
@@ -48,14 +51,12 @@ Compound of {{suffix|日本|tr1=Nihon|t1=Japan|語|tr2=go|t2=language|lang=ja||s
 ----
 
 ==Korean==
+{{ko-hanjatab}}
 
-===Proper noun===
-{{ko-pos|proper noun|hangeul=일본어|rv=ilbon-eo|hidx=ㅇ일본어}}
+===Noun===
+{{ko-noun|hj|hangeul=일본어}}
 
-# the [[Japanese]] [[language]]
-
-====Synonyms====
-* [[일어]] ([[日語]], il-eo)
+# {{hanja form of|일본어|[[Japanese]] language}}
 
 [[af:日本語]]
 [[ast:日本語]]
