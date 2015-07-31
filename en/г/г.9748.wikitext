@@ -49,8 +49,8 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 Its name is '''гэ''' {{IPAchar|(gɛ)}} and it has the sound of /g/, a hard English '''g''' as in '''''g'''ood''.
 
 ====See also====
-* Previous letter: [[в#Russian|в]]
-* Next letter: [[д#Russian|д]]
+* Previous letter: {{l|ru|в}}
+* Next letter: {{l|ru|д}}
 
 ===Abbreviation===
 {{rfc-header|Abbreviation}}
@@ -89,10 +89,16 @@ Its name is '''г''' {{IPAchar|(gɛ)}} and it has the sound of /g/, a hard Engli
 
 ==Ukrainian==
 
-===Letter===
-'''Г''', '''г''' (''italics: Г, г'')
+===Pronunciation===
+* {{qualifier|phoneme}} {{IPA|/ɦ/|lang=uk}}
 
-# The fourth letter of the Ukrainian [[Cyrillic]] alphabet. Its name is '''ге''' {{IPAchar|(ɦɛ)}} and it has the sound of /ɦ/, a voiced glottal fricative. It is preceded by [[в|В]] and followed by [[ґ|Ґ]].
+===Letter===
+{{head|uk|letter|sc=Cyrl|upper case|Г}} (''italics: Г, г'')
+
+# The fourth letter of the Ukrainian [[Cyrillic]] alphabet. Its name is '''ге''' {{IPAchar|(ɦɛ)}} and it has the sound of /ɦ/, a voiced glottal fricative. It is preceded by {{l|uk|в|В}} and followed by {{l|uk|ґ|Ґ}}.
+
+===See also===
+* {{list:Cyrillic script letters/uk}}
 
 [[Category:Cyrillic script characters]]
 [[Category:Ukrainian letters]]
