@@ -141,11 +141,11 @@ Derived from ''kata'' above.  {{rendaku2|sort=かた'|kata|gata}}  Only found in
 {{ja-pos|suffix|がた}}
 
 # {{qualifier|affixed to nouns}}: the [[shape]] or [[form]] of the affixed noun
-#: {{usex|lang=ja|{{ja-l|渦巻き}}'''形'''|tr=うずまき'''がた'''<br />''uzumaki'''gata'''''|t=a [[whirlpool]] '''shape'''}}
-#: {{usex|lang=ja|{{ja-l|卵}}'''形'''|tr=たまご'''がた'''<br />''tamago'''gata'''''|t=an [[egg]] '''shape'''}}
+#: {{ja-usex|渦巻き'''形'''|うずまき'''がた'''|a [[whirlpool]] '''shape'''}}
+#: {{ja-usex|卵'''形'''|たまご'''がた'''|an [[egg]] '''shape'''}}
 # {{qualifier|affixed to [[on'yomi]] nouns}}: a [[typical]] example of the affixed noun; the [[type]] of the affixed noun
-#: {{usex|lang=ja|{{ja-l|学者}}'''形'''|tr=がくしゃ'''がた'''<br />''gakusha'''gata'''''|t=a [[scholar]] '''type'''}}
-#: {{usex|lang=ja|{{ja-l|英雄}}'''形'''|tr=えいゆう'''がた'''<br />''eiyū'''gata'''''|t=a [[hero]] '''type'''}}
+#: {{ja-usex|学者'''形'''|がくしゃ'''がた'''|a [[scholar]] '''type'''}}
+#: {{ja-usex|英雄'''形'''|えいゆう'''がた'''|a [[hero]] '''type'''}}
 
 =====Usage notes=====
 For a [[shape]], the spelling {{l|ja|形}} is more commonly used.  For a [[type]], the spelling {{l|ja|型}} is more commonly used.
@@ -201,11 +201,11 @@ From {{etyl|ltc|ja|sort=けい}} {{term|lang=ltc|形|tr=heng}}.  Compare modern 
 {{ja-pos|suffix|けい}}
 
 # {{cx|lang=ja|sort=けい|linguistics}} [[grammatical]] [[tense]]
-#: {{usex|lang=ja|{{l|ja|過去}}'''形'''|tr=かこ'''けい'''<br />''kako'''kei'''''|t=the [[past tense|past '''tense''']]}}
-#: {{usex|lang=ja|{{l|ja|将来}}'''形'''|tr=しょうらい'''けい'''<br />''shōrai'''kei'''''|t=the [[future tense|future '''tense''']]}}
+#: {{ja-usex|過去'''形'''|かこ'''けい'''|the [[past tense|past '''tense''']]}}
+#: {{ja-usex|将来'''形'''|しょうらい'''けい'''|the [[future tense|future '''tense''']]}}
 # {{qualifier|Japanese grammar}} a [[conjugation]] form of a [[verb]]
-#: {{usex|lang=ja|{{l|ja|連用}}'''形'''|tr=れんよう'''けい'''<br />''ren'yō'''kei'''''|t=the [[continuative]] '''form'''}}
-#: {{usex|lang=ja|{{l|ja|命令}}'''形'''|tr=めいれい'''けい'''<br />''meirei'''kei'''''|t=the [[imperative]] or [[command]] '''form'''}}
+#: {{ja-usex|連用'''形'''|れんよう'''けい'''|the [[continuative]] '''form'''}}
+#: {{ja-usex|命令'''形'''|めいれい'''けい'''|the [[imperative]] or [[command]] '''form'''}}
 
 ===Etymology 6===
 From {{ja-l|成り||nari}}, the {{term|lang=ja|連用形|tr=ren'yōkei||[[continuative]] form}} of the verb {{term|lang=ja|成る|tr=naru||to become}}.
@@ -229,22 +229,22 @@ The most common spelling for this use is {{ja-l|なり}}, for all parts of speec
 # one's [[circumstances]] or [[situation]]
 # one's [[reputation]]
 # following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
-#: {{usex|lang=ja|{{ja-l|人々}}の{{ja-l|言う}}'''なり'''になった|tr=ひとびとのいう'''なり'''になった<br />''hitobito no iu '''nari''' ni natta''|t=things turned out '''just as''' people were saying}}
+#: {{ja-usex|人々の言う'''なり'''になった|ひとびとのいう'''なり'''になった|things turned out '''just as''' people were saying}}
 # following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of an adjective, indicates responding to the affixed adjective: compare English {{term|lang=en|fitting}}
-#: {{usex|lang=ja|寒ければ{{ja-l|寒い}}'''なり'''の{{ja-l|厚着}}を{{ja-l|する}}|tr=さむければさむい'''なり'''のあつぎをする<br />''samukereba samui '''nari''' no atsugi o suru''|t=if it's cold, '''then''' put on warm clothing / if it's cold, then put on warm clothes '''for''' cold weather}}
+#: {{ja-usex|寒ければ寒い'''なり'''の厚着をする|さむければさむい'''なり'''のあつぎをする|if it's cold, '''then''' put on warm clothing / if it's cold, then put on warm clothes '''for''' cold weather}}
 # following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of a verb, indicates the moment of the action occurring: compare English {{term|lang=en|as soon as}}
-#: {{usex|lang=ja|{{ja-l|断り}}を{{ja-l|聞く}}'''なり'''泣き出した|tr=ことわりをきく'''なり'''なきだした<br />''kotowari o kiku '''nari''' nakidashita''|t=she burst into tears '''as soon as''' she heard the rejection}}
+#: {{ja-usex|断りを聞く'''なり'''泣き出した|ことわりをきく'''なり'''なきだした|she burst into tears '''as soon as''' she heard the rejection}}
 # following a noun, indicates a state [[fitting]] or [[becoming]] to the affixed noun
-#: {{usex|lang=ja|{{ja-l|子供}}'''なり'''に{{ja-l|想像}}{{ja-l|する}}|tr=こども'''なり'''にそうぞうする<br />''kodomo '''nari''' ni sōzō suru''|t=imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
-#: {{usex|lang=ja|{{ja-l|自分}}'''なり'''の{{ja-l|判断}}|tr=じぶん'''なり'''のはんだん<br />''jibun '''nari''' no handan''|t=my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
+#: {{ja-usex|子供'''なり'''に想像する|こども'''なり'''にそうぞうする|imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
+#: {{ja-usex|自分'''なり'''の判断|じぶん'''なり'''のはんだん|my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
 # following a noun, indicates that [[shape]] or [[form]]: compare English {{term|lang=en|like}}
-#: {{usex|lang=ja|{{ja-l|弓}}'''なり'''に{{ja-l|なる}}|tr=ゆみ'''なり'''になる<br />''yumi '''nari''' ni naru''|t=to become bow-'''shaped''' / to become '''like''' a bow}}
+#: {{ja-usex|弓'''なり'''になる|ゆみ'''なり'''になる|to become bow-'''shaped''' / to become '''like''' a bow}}
 
 ====Suffix====
 {{ja-pos|なり|suffix}}
 
 # following the {{term|lang=ja|連用形|tr=ren'yōkei||[[continuative]] form}} of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
-#: {{usex|lang=ja|{{ja-l|人々}}が{{ja-l|言い}}'''なり'''になった|tr=ひとびとがいい'''なり'''になった<br />''hitobito ga ii'''nari''' ni natta''|t=things turned out '''just as''' people say}}
+#: {{ja-usex|人々が言い'''なり'''になった|ひとびとがいい'''なり'''になった|things turned out '''just as''' people say}}
 
 [[Category:ja:Grammar|けい]]
 
