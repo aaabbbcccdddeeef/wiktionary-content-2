@@ -3,19 +3,40 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=05|sn=8|four=6600<sub>0</sub>|canj=口大尸口 (RKSR)|ids=⿰[[口]][[加]]}}
 
-# [[coffee]]
-
 ====References====
 * {{Han ref|kx=0185.211|dkj=03523|hdz=10610.060|uh=5496|ud=21654|bh=A940|bd=43328}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=ga3, ka1}}
+===Pronunciation===
+{{zh-pron
+|m=kā
+|c=kaa1,gaa3
+|h=pfs=kâ
+|md=
+|mn=ka
+|w=1ka
+|mc=y
+|oc=y
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=口05}}
+===Definitions===
+{{zh-hanzi}}
+
+# {{only used in|咖啡|lang=zh}}
+
+====Derived terms====
+{{der5
+| {{zh-l|咖啡}}
+| {{zh-l|咖啡鹼}}
+| {{zh-l|咖啡色}}
+| {{zh-l|咖啡廳}}
+| {{zh-l|咖啡因}}
+}}
 
 ----
 
@@ -51,11 +72,13 @@
 * gā
 ** [[咖喱]]
 * kā
+{{zh-der|{{der-top}}
 ** [[咖啡]]
 ** [[咖啡碱]]
 ** [[咖啡色]]
 ** [[咖啡厅]]
 ** [[咖啡因]]
+{{der-bottom}}}}
 
 [[de:咖]]
 [[fr:咖]]
