@@ -11,10 +11,10 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=kā
-|c=kaa1,gaa3
+|c=gaa3
 |h=pfs=kâ
 |md=
 |mn=ka
@@ -24,12 +24,12 @@
 |cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{only used in|咖啡|lang=zh}}
 
-====Derived terms====
+=====Derived terms=====
 {{der5
 | {{zh-l|咖啡}}
 | {{zh-l|咖啡鹼}}
@@ -37,6 +37,21 @@
 | {{zh-l|咖啡廳}}
 | {{zh-l|咖啡因}}
 }}
+
+===Pronunciation 2===
+{{zh-pron
+|m=gā
+|c=gaa3
+|w=1ka
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{only used in|咖喱|lang=zh}}
 
 ----
 
@@ -55,30 +70,9 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=가|rv=ga|mr=ka}}
+{{ko-hanja|hangeul=가|mr=ka}}
 
 # {{defn|lang=ko|sort=口05}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[gā]] ([[ga1]]), [[kā]] ([[ka1]])|wg=k'a<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=口05}}
-
-====Compounds====
-* gā
-** [[咖喱]]
-* kā
-{{zh-der|{{der-top}}
-** [[咖啡]]
-** [[咖啡碱]]
-** [[咖啡色]]
-** [[咖啡厅]]
-** [[咖啡因]]
-{{der-bottom}}}}
 
 [[de:咖]]
 [[fr:咖]]
