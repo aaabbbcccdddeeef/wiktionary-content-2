@@ -39,28 +39,82 @@
 ===Alternative forms===
 * {{zh-l|乗}}, {{zh-l|椉}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=chéng,shèng
-|c=sing4,sing6
+|m=chéng
+|c=sing4
+|mn=sêng
+|h=pfs=sṳ̀n
 |mc=
-|oc=y
+|oc=1,1
 |ma=
-|cat=v,cls
+|cat=v,n,pn
 }}
 
-===Definitions===
-{{zh-hanzi}}
+====Verb====
+{{zh-verb}}
 
-# [[ride]] (chéng: a vehicle)
-# [[multiply]] (chéng: multiply a number by another number)
-# [[carriage]] drawn by [[four]] [[horse]]s (shèng){{attention|zh|if that's the case then there needs to be two pronunciation sections}}
+# to [[mount]]
+# to [[ride]]
+# {{context|mathematics|lang=zh}} to [[multiply]]
+#: {{zh-usex|二 乘 八 等於 十六。|Two '''times''' eight equals sixteen.}}
+# to [[make use of]], to [[take advantage of]]
+#: {{zh-usex|乘機|to '''seize''' the opportunity}}
+# to [[pursue]], to [[attack]]
 
-====Compounds====
-* [[大乘]] (dàchéng or dàshèng)
-* [[二乘]] (èrshèng)
-* [[上乘]] (shàngshèng)
-* [[小乘]] (xiǎochéng or xiǎoshèng)
+====Noun====
+{{zh-noun}}
+
+# {{context|mathematics|lang=zh}} [[multiplication]]
+#: {{zh-usex|加.減.乘.除|addition, subtraction, '''multiplication''', division}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shèng
+|c=sing6
+|mn=sēng
+|h=pfs=sṳn
+|mc=
+|oc=2,2
+|ma=
+|cat=n,cls
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[history]] [[book]]
+
+====Classifier====
+{{zh-cls}}
+
+# [[carriage]] drawn by [[four]] [[horse]]s
+
+===Pronunciation 3===
+{{zh-pron
+|m=chéng,shèng,2nb=Taiwan
+|c=sing6
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{context|Buddhism}} [[vehicle]], [[creed]], [[yana]]
+
+=====Compounds=====
+* {{zh-l|大乘|tr=dàchéng, dàshèng}}
+* {{zh-l|二乘|tr=èrchéng, èrshèng}}
+* {{zh-l|上乘|tr=shàngchéng, shàngshèng}}
+* {{zh-l|小乘|tr=xiǎochéng, xiǎoshèng}}
 
 ===References===
 * {{R:twedu|A00037}}
