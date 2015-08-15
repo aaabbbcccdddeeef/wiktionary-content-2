@@ -62,10 +62,17 @@ a tree ([[木]]) with its top highlighted with an extra stroke, implying the mea
 {{ja-kanji|grade=4|rs=木01}}
 
 ====Readings====
-* {{ja-readings|on=[[まつ]] (matsu), [[ばつ]] (batsu)|kun=[[すえ]] (sue)}}
+{{ja-readings
+|goon=[[まち]] (machi), [[まつ]] (matsu)
+|kanon=[[ばつ]] (batsu)
+|kun=[[うら]] (ura) {{non-joyo-reading}}, [[うれ]] (ure) {{non-joyo-reading}}, [[すえ]] (sue)
+}}
 
 ====Compounds====
-* {{ja-r|週末|gloss=[[weekend]]|しゅうまつ}}
+{{der-top|Compounds}}
+* {{ja-r|始末|しまつ}}: [[circumstances]]; [[beginning]] and [[end]]; [[settlement]], [[disposal]]
+* {{ja-r|週末|しゅうまつ}}: [[weekend]]
+{{der-bottom}}
 
 ===Noun===
 {{ja-noun|すえ}}
@@ -74,15 +81,18 @@ a tree ([[木]]) with its top highlighted with an extra stroke, implying the mea
 # last [[child]], youngest child
 # [[triviality]]
 
+===Noun===
 {{ja-noun|まつ}}
 
 # the [[end]]
 # [[powder]]
 
+===Noun===
 {{ja-noun|うら}}
 
 # {{context|archaic|lang=ja|sort=うら}} [[tip]], top [[end]]
 
+===Noun===
 {{ja-noun|うれ}}
 
 # {{context|archaic|lang=ja|sort=うれ}} the [[trunk]] or [[leaves]] of a tree
