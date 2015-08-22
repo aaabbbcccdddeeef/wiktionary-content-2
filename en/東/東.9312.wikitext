@@ -56,58 +56,8 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 # [[eastern]], [[eastward]]
 
 ====Compounds====
-{{der-top}}
-{{top2}}
-*[[東半球]]
-*[[東北]]
-*[[東奔西跑]]
-*[[東邊]]，[[東邊兒]]
-*[[東部]]
-*[[東窗事發]]
-*[[東床]]
-*[[東倒西歪]]
-*[[東道]]
-*[[東道主]]
-*[[東渡]]
-*[[東方]]
-*[[東非]]
-*[[東風]]
-*[[東風吹馬耳]]
-*[[東宮]]
-*[[東家]]
-*[[東京]]
-*[[東經]]
-*[[東拉西扯]]
-*[[東鱗西爪]]
-*[[東盟]]
-*[[東面]], [[東面兒]]
-*[[東南]]
-{{mid2}}
-*[[東南亞]]
-*[[東挪西借]]
-*[[東歐]]
-*[[東跑西顛]]
-*[[東拼西湊]]
-*[[東坡肉]]
-*[[東三省]]
-*[[東山再起]]
-*[[東施效顰]]
-*[[東逃西竄]]
-*[[東塗西抹]]
-*[[東西]]
-*[[東…西…]]
-*[[東廂房]]
-*[[東鄉族]]
-*[[東亞]]
-*[[東洋]]
-*[[東洋車]]
-*[[東搖西擺。]]
-*[[東一榔頭，西一棒子]]
-*[[東瀛]]
-*[[東張西望]]
-*[[東正教]]
-{{bottom}}
-{{der-bottom}}
+{{der3|lang=zh
+|東半球 |東北 |東奔西跑 |東邊 |東邊兒 |東部 |東窗事發 |東床 |東倒西歪 |東道 |東道主 |東渡 |東方 |東非 |東風 |東風吹馬耳 |東宮 |東家 |東京 |東經 |東拉西扯 |東鱗西爪 |東盟 |東面 |東面兒 |東南 |東南亞 |東挪西借 |東歐 |東跑西顛 |東拼西湊 |東坡肉 |東三省 |東山再起 |東施效顰 |東逃西竄 |東塗西抹 |東西 |東…西… |東廂房 |東鄉族 |東亞 |東洋 |東洋車 |東搖西擺。 |東一榔頭，西一棒子 |東瀛 |東張西望 |東正教}}
 
 {{zh-cat|Compass points|Beginning}}
 
@@ -128,28 +78,12 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 |nanori=[[あい]] (ai), [[あがり]] (agari), [[あずま]] (azuma), [[あづま]] (adzuma), [[こ]] (ko), [[さき]] (saki), [[しの]] (shino), [[とお]] (tō), [[はじめ]] (hajime), [[はる]] (haru), [[ひが]] (higa), [[もと]] (moto)}}
 
 ====Compounds====
-{{top2}}
-* [[東方]] (tōhō): eastern direction
-* [[東南]] (tōnan): southeast
-* [[東亜]] (tōa): East Asia
-* [[東洋]] (tōyō): Orient
-* [[東部]] (tōbu): eastern part
-* [[東西南北]] (tōzainanboku): east, west, south, and north
-* [[関東]] (kantō): Kanto
-* [[東風]] (kochi): a spring wind that blows from the east
-{{mid2}}
-* [[中東]] (chūtō): Middle East
-* [[東京]] (tōkyō): Tokyo
-* [[東上]] (tōjō): going to Tokyo
-* [[東名高速道路]] (tōmei kōsokudōro): Tokyo-Nagoya Expressway
-* [[東側]] (higashigawa): east side
-* [[東口]] (higashiguchi): east entrance
-* [[東半球]] (higashihankyū): Eastern Hemisphere
-* [[東方]] (tōhō): Touhou Project
-{{bottom}}
+{{der3
+|{{l|ja|東方|tr=tōhō||eastern direction}} |{{l|ja|東南|tr=tōnan||southeast}} |{{l|ja|東亜|tr=tōa||East Asia}} |{{l|ja|東洋|tr=tōyō||Orient}} |{{l|ja|東部|tr=tōbu||eastern part}} |{{l|ja|東西南北|tr=tōzainanboku||east, west, south, and north}} |{{l|ja|関東|tr=kantō||Kanto}} |{{l|ja|東風|tr=kochi||a spring wind that blows from the east}} |{{l|ja|中東|tr=chūtō||Middle East}} |{{l|ja|東京|tr=tōkyō||Tokyo}} |{{l|ja|東上|tr=tōjō||going to Tokyo}} |{{l|ja|東名高速道路|tr=tōmei kōsokudōro||Tokyo-Nagoya Expressway}} |{{l|ja|東側|tr=higashigawa||east side}} |{{l|ja|東口|tr=higashiguchi||east entrance}} |{{l|ja|東半球|tr=higashihankyū||Eastern Hemisphere}} |{{l|ja|東方|tr=tōhō||Touhou Project}}
+}}
 
 ===Etymology 1===
-/himukasi/: *pimukasi > ɸimukasi > himukashi. Compound of {{term|日|pi|sun}}, {{term|向か|muka|facing, direction}}, and {{term|風|shi|wind, direction}}. Literally "the direction facing the sun".
+/himukasi/: *pimukasi > ɸimukasi > himukashi. Compound of {{compound|日|tr1=hi|t1=sun|向か|tr2=muka|t2=facing, direction|風|tr3=shi|t3=wind, direction|lang=ja}}. Literally "the direction facing the sun".
 
 ====Noun====
 {{ja-noun|ひむかし}}
@@ -217,11 +151,11 @@ aduma > azuma.
 # {{defn|lang=ko|sort=木04}}
 
 ====Compounds====
-* [[征東]] (정동)
-* [[正東]] (정동)
-* [[正東方]] (정동방)
-* [[齊東野人]] (제동야인)
-* [[東大門]] (동대문)
+* {{ko-l|征東|정동}}
+* {{ko-l|正東|정동}}
+* {{ko-l|正東方|정동방}}
+* {{ko-l|齊東野人|제동야인}}
+* {{ko-l|東大門|동대문}}
 
 ----
 
@@ -269,7 +203,7 @@ From {{term|上り|tr=agari|gloss=ascent, rise|lang=ryu}} in reference to the di
 * Native: あがり (agari)
 
 ===Etymology===
-From {{term|上り|tr=agari|gloss=ascent, rise|lang=yox}} in reference to the direction where the sun rises, ascends.
+From {{term|上り|tr=agari|gloss=ascent, rise|lang=yox|sc=Jpan}} in reference to the direction where the sun rises, ascends.
 
 ===Pronunciation===
 * {{IPA|/ʔagaɾi/|lang=yox}}
