@@ -103,50 +103,61 @@ The older form of 年, [[秊]], is a combination of [[禾]], which means ''[[gra
 }}
 
 ====Compounds====
-{{top2}}
-* {{ja-l|年月日|ねんがっぴ|nengappi}}
-* {{ja-l|年号|ねんごう|nengō}}
-* {{ja-l|年次|ねんじ|nenji}}
-* {{ja-l|年数|ねんすう|nensū}}
-* {{ja-l|年度|ねんど|nendo}}
-* {{ja-l|年輪|ねんりん|nenrin}}
-* {{ja-l|年齢|ねんれい|nenrei}}
-{{mid2}}
-* {{ja-l|閏年|うるうどし|urūdoshi}}
-* {{ja-l|学年|がくねん|gakunen}}
-* {{ja-l|元年|がんねん|gannen}}
-* {{ja-l|去年|きょねん|kyonen}}
-* {{ja-l|今年|ことし|kotoshi}}
-* {{ja-l|新年|しんねん|shinnen}}
-* {{ja-l|来年|らいねん|rainen}}
-{{bottom}}
+{{der-top|Compounds}}
+* {{ja-r|年月日|ねんがっぴ}}
+* {{ja-r|年号|ねんごう}}
+* {{ja-r|年次|ねんじ}}
+* {{ja-r|年数|ねんすう}}
+* {{ja-r|年度|ねんど}}
+* {{ja-r|年輪|ねんりん}}
+* {{ja-r|年齢|ねんれい}}
+{{der-mid}}
+* {{ja-r|閏年|うるうどし}}
+* {{ja-r|学年|がくねん}}
+* {{ja-r|元年|がんねん}}
+* {{ja-r|去年|きょねん}}
+* {{ja-r|今年|ことし}}
+* {{ja-r|新年|しんねん}}
+* {{ja-r|来年|らいねん}}
+{{der-bottom}}
 
 ===Etymology 1===
-From {{etyl|zhx|ja|sort=ねん}} {{m|zh|年}}.
+{{ja-kanjitab|yomi=o|ねん}}
+From {{etyl|ltc|ja|sort=ねん}} {{m|zh|年|tr=nen||year}}.  Compare modern {{etyl|cmn|-}} reading ''nián'', {{etyl|hak|-}} ''nyên'', {{etyl|yue|-}} ''nin<sup>4</sup>''.
 
 ====Pronunciation====
-{{ja-pron|ねん|acc=a|y=o}}
+{{ja-pron|yomi=goon|ねん|acc=1|acc_ref=DJR}}
 
 ====Counter====
 {{ja-pos|ねん|counter}}
 
 # [[year]]s
 
+====Noun====
+{{ja-noun|ねん}}
+
+# a [[year]]
+#: {{ja-usex|'''年'''に一度|'''ねん''' に いちど|once a '''year'''}}
+
 ====Suffix====
 {{ja-pos|ねん|suffix}}
 
 # a [[grade]], a school year
-#: {{ja-usex|彼は中学２'''年'''だ。|かれ は ちゅうがく に-'''ねん''' だ。|He's in the second '''grade''' in junior high school.}}
+#: {{ja-usex|彼は中学２'''年'''だ。|^かれ は ちゅうがく に-'''ねん''' だ。|He's in the second '''grade''' in junior high school.}}
 # a [[year]]
-#: {{ja-usex|２００８'''年'''に橋を建設し始めるようだ。|に せん はち-'''ねん''' に はし を けんせつ しはじめる よう だ。|They seem to be going to start constructing the bridge in (the '''year''') 2008.}}
+#: {{ja-usex|２００８'''年'''に橋を建設し始めるようだ。|^に せん はち-'''ねん''' に はし を けんせつ しはじめる よう だ。|They seem to be going to start constructing the bridge in (the '''year''') 2008.}}
 
 ===Etymology 2===
-<span class="IPA">/to<sub>2</sub>si/ > /tosi/</span>
+{{ja-kanjitab|yomi=k|とし}}
+{{IPAchar|/to<sub>2</sub>si/}} → {{IPAchar|/tosi/}} → {{IPAchar|/toɕi/}}
 
-From {{etyl|ojp|ja|sort=とし}}.  Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].
+From {{etyl|ojp|ja|sort=とし}}.  Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|とし|acc=o|y=k}}
+{{ja-pron|yomi=k|とし|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|歳}}
 
 ====Noun====
 {{ja-noun|とし}}
@@ -157,22 +168,27 @@ From {{etyl|ojp|ja|sort=とし}}.  Originally referred to [[grain]], particularl
 # [[age]]
 
 ====Derived terms====
-* {{ja-l|年神|としがみ|Toshigami}}
-* {{ja-l|年を取る|としをとる|toshi o toru}}
+* {{ja-r|年神|^としがみ}}: the [[spirit]] or [[god]] of the [[year]]
+* {{ja-r|年を取る|とし を とる}}: to [[pass]] [[New Years]]; to [[age]]
 
 ===Etymology 3===
-<span class="IPA">/to<sub>2</sub>se/ > /tose/</span>
+{{ja-kanjitab|yomi=k|とせ}}
+{{IPAchar|/to<sub>2</sub>se/}} → {{IPAchar|/tose/}}
 
-From {{etyl|ojp|ja|sort=とし}}.  Likely a shift in pronunciation from ''toshi''.
+From {{etyl|ojp|ja|sort=とし}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Likely a shift in pronunciation from ''toshi''.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[to̞se̞]}}
+{{ja-pron|yomi=k|とせ}}
 
 ====Suffix====
 {{ja-pos|とせ|suffix}}
 
-# used in counting years; [[year|years]]
+# {{context|lang=ja|sort=とせ|obsolete}} {{n-g|used to count years}}
+#* {{RQ:Manyoshu|5|880}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#880|here]:
+#*: {{ja-usex|阿麻社迦留、比奈尓伊都'''等世'''、周麻比都都、美夜故能提夫利、和周良延尓家利|^あまざかる、 ひな に いつ '''とせ'''、 すまひつつ、 みやこ の てぶり、 わすらえにけり|While living five ''years''' in the far-remote countryside, I wound up forgetting the manners of the capital}}
+
+===References===
+<references/>
 
 [[Category:ja:Time|とし]]
 [[Category:1000 Japanese basic words|とし]]
