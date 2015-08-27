@@ -87,33 +87,50 @@ Possibly borrowed from the hypothetical  {{etyl|tut-pro|zh}} {{m|tut-pro|*k`umi|
 |nanori=[[いえ]] (ie), [[たか]] (taka)
 }}
 
-===Etymology===
-<span class="IPA">/mi<sub>1</sub>ya/ > /miya/</span>
+===Etymology 1===
+{{ja-kanjitab|yomi=k|みや}}
+{{IPAchar|/mi<sub>1</sub>ya/}} → {{IPAchar|/miya/}}
 
-From {{etyl|ojp|ja|sort=みや}}.  A compound of {{l|ja|神}} or {{compound|lang=ja|sort=みや|御|tr1=mi|t1=spiritual honorific|屋|tr2=ya|t2=house}}.
+From {{etyl|ojp|ja|sort=みや}}.  A compound of {{m|ja|神}} or {{compound|lang=ja|sort=みや|御|tr1=mi|t1=spiritual honorific|屋|tr2=ya|t2=house}}.
 
-===Pronunciation===
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|h|み|や}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[mi.ja̠]}}
+====Pronunciation====
+{{ja-pron|yomi=k|みや|acc=0|acc_ref=NHK,DJR}}
 
-===Noun===
+====Noun====
 {{ja-noun|みや}}
 
-# the place where a god resides; a [[shrine]]
+# {{context|lang=ja|sort=みや|Shinto}} the place where a god resides: a [[shrine]]
 #* {{RQ:Nippo Jisho|413}}<ref name="NJ">{{R:Nippo Jisho}}</ref>
 #*: '''Miya'''. ミヤ (宮) 神 (Camis)の社.
-# the place where a ruler resides; a [[palace]]
+# {{context|lang=ja|sort=みや|Buddhism}} a [[temple]] holding a Buddhist statue
+# the place where a ruler resides: a [[palace]]
 #* {{RQ:Nippo Jisho|413}}<ref name="NJ"/>
 #*: '''Miya'''. ミヤ (宮) 国王の子. また, 国王の宮殿
 # a member of the imperial family
 #* {{RQ:Nippo Jisho|413}}<ref name="NJ"/>
 #*: '''Miya'''. ミヤ (宮) 国王の子. また, 国王の宮殿
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|みや|proper}}
 
 # {{surname|lang=ja|sort=みや}}
+# an old name for a region in the Atsuta area of {{w|Nagoya}}, {{w|Aichi prefecture}}, where the {{w|Atsuta Shrine}} is located
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|きゅう}}
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|宮|tr=kjuwng||dwelling; palace; note on a scale}}.  Compare modern {{etyl|nan|-}} reading ''kiong''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きゅう}}
+
+# a [[palace]]
+# {{context|lang=ja|sort=きゅう|traditional|_|music|_|of China and Japan}} the [[keynote]] or [[tonic]] of a [[musical]] [[scale]], such as {{m|en|do}} in the {{m|en|do}} {{m|en|re}} {{m|en|mi}} scale notation of [[solfège]]
+# {{contraction of|lang=ja|sort=きゅう|宮刑|nodot=1}}: literally “palace punishment”, this consisted of [[castration]] for men and [[sequestration]] in the [[palace]] for women
+# {{context|lang=ja|sort=きゅう|astronomy|astrology}} a [[zodiac]] [[sign]] or [[house]], defined as one-twelfth of the circle of the [[ecliptic]]
+#: {{ja-usex|黄道十二'''宮'''、宝瓶'''宮'''|おうどう じゅうに '''きゅう'''、 ほうへい '''きゅう'''|the twelve '''signs''' of the zodiac, the '''house''' of Aquarius}}
 
 ===References===
 <references/>
