@@ -14,42 +14,144 @@
 
 ===Etymology 1===
 
-====Pronunciation====
+====Pronunciation 1====
 {{zh-pron
 |m=shǔ
 |c=sou2
-|h=pfs=sṳ
-|mn=sò͘
-|mc=y
-|oc=y
+|h=pfs=
+|mn=siàu
+|mn_note=vernacular reading
+|mc=1
+|oc=1,1
 |ma=
 |cat=v
 }}
 
-====Verb====
+=====Verb=====
 {{zh-verb}}
 
 # to [[count]]; to [[enumerate]]
+
+====Pronunciation 2====
+{{zh-pron
+|m=shǔ
+|c=sou2
+|h=pfs=
+|mn=só͘/sò͘
+|mn_note=literary reading
+|mc=1
+|oc=1,1
+|ma=
+|cat=v
+}}
+
+=====Verb=====
+{{zh-verb}}
+
 # to [[criticize]]
+#: {{zh-usex|數{shǔ}落|to criticize, to scold}}
+
+====Pronunciation 3====
+{{zh-pron
+|m=shǔ
+|c=sou2
+|h=pfs=
+|mn=
+|mc=1
+|oc=1,1
+|ma=
+|cat=v
+}}
+
+=====Verb=====
+{{zh-verb}}
+
+# to be reckoned as exceptionally
+#: {{zh-usex|數{shǔ}一.數{shǔ}二|to be reckoned as first or second, to be one of the best}}
 
 ===Etymology 2===
 
-====Pronunciation====
+====Pronunciation 1====
 {{zh-pron
 |m=shù
-|c=sok3
-|h=pfs=sṳ
+|c=sou3
+|h=pfs=su
 |mn=sò͘
-|mc=y
-|oc=y
+|mn_note=literary reading
+|mc=2
+|oc=2,2
 |ma=
 |cat=n
 }}
 
-====Noun====
+=====Noun=====
 {{zh-noun|mw=個}}
 
-# [[number]]; [[figure]]
+# [[number]], [[figure]], [[amount]]
+#: {{zh-usex|人數|population}}
+# {{cx|mathematics}} [[number]]
+#: {{zh-usex|整數|integer}}
+# {{cx|grammar}} [[number]]
+#: {{zh-usex|單數|singular}}
+# {{zh-obsolete}} [[mathematics]] {{gloss|one of the Six Arts}}
+# {{zh-obsolete}} [[divination]]
+# {{zh-obsolete}} [[skill]]
+# {{zh-obsolete}} [[law]], [[rule]], [[regular]] [[pattern]]
+# {{zh-obsolete}} [[legal]] [[system]]
+
+====Pronunciation 2====
+{{zh-pron
+|m=
+|c=sou3
+|h=pfs=sṳ
+|mn=siàu
+|mn_note=vernacular reading
+|mc=2
+|oc=2,2
+|ma=
+|cat=n
+}}
+
+=====Noun=====
+{{zh-noun}}
+
+# {{cx|Cantonese|Hakka|Min Nan}} [[account]]
+#: {{zh-usex|數{sou3}簿{bou6-2}|'''account''' book|C}}
+
+====Pronunciation 3====
+{{zh-pron
+|m=shù
+|c=sou3
+|h=pfs=sṳ
+|mn=sò͘
+|mn_note=literary reading
+|mc=2
+|oc=2,2
+|ma=
+|cat=n
+}}
+
+=====Noun=====
+{{zh-noun}}
+
+# [[fate]], [[destiny]]
+#: {{zh-usex|氣數|'''fate'''}}
+
+====Pronunciation 4====
+{{zh-pron
+|m=shù
+|c=sou3
+|h=pfs=
+|mn=
+|mc=2
+|oc=2,2
+|ma=
+|cat=adj
+}}
+
+=====Adjective=====
+{{zh-adj}}
+
 # [[several]]
 
 ===Etymology 3===
@@ -57,19 +159,57 @@
 ====Pronunciation====
 {{zh-pron
 |m=shuò
-|c=sou3
-|h=pfs=sṳ
-|mn=sò͘
-|mc=y
-|oc=y
+|c=sok3
+|h=pfs=
+|mn=siàu/sok
+|mc=3
+|oc=3,3
 |ma=
-|cat=deter
+|cat=adv
 }}
 
-====Determiner====
-{{zh-det}}
+====Adverb====
+{{zh-adv}}
 
 # [[frequently]]; [[repeatedly]]
+#: {{zh-usex|數{shuò}見.不鮮|a common occurrence}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=cù
+|c=
+|h=pfs=
+|mn=
+|mc=
+|oc=
+|ma=
+|cat=adj
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[fine]] and [[closely]] [[woven]]
+#: {{zh-usex|數{cù}罟|'''closely woven''' net}}
+
+===Etymology 5===
+
+====Pronunciation====
+{{zh-pron
+|m=shù,sù,2nb=Taiwan
+|c=sou3
+|h=pfs=
+|mn=sò͘/siàu
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+====Definitions====
+# {{only used in|{{zh-l|數珠}}}}
 
 ----
 
