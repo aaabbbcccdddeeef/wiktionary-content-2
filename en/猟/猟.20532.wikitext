@@ -20,20 +20,26 @@
 # [[hunting]], [[hunt]]
 
 ====Readings====
-* {{ja-readings|goon=[[りょう]] (ryō)|kanon=[[りょう]] (ryō)|kun=[[かり|か-り]] (ka-ri), [[かる|か-る]] (ka-ru)}}
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[りょう]] (ryō)|kun=[[かり|か-り]] (ka-ri), [[かる|か-る]] (ka-ru)}}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{l|ja|狩猟|tr=[[しゅりょう]], ''[[shuryō]]''}}: [[hunting]]
-* {{l|ja|猟者|tr=[[りょうしゃ]], ''[[ryōsha]]''}}: a [[hunter]]
-* {{l|ja|猟師|tr=[[りょうし]], ''[[ryōshi]]''}}: a [[hunter]]
+* {{ja-r|禁猟|きんりょう}}: [[prohibition]] on [[hunting]]
+* {{ja-r|狩猟|しゅりょう}}: [[hunting]]
+* {{ja-r|密猟|みつりょう}}: [[poaching]]
 {{der-mid}}
-* {{l|ja|猟犬|tr=[[りょうけん]], ''[[ryōken]]''}}: a [[hunting dog]]; a [[hound]]
-* {{l|ja|密猟|tr=[[みつりょう]], ''[[mitsuryō]]''}}: [[poaching]]
+* {{ja-r|猟犬|りょうけん}}: a [[hunting dog]]; a [[hound]]
+* {{ja-r|猟師|りょうし}}: a [[hunter]]
+* {{ja-r|猟者|りょうしゃ}}: a [[hunter]]
 {{der-bottom}}
 
+{{ja-kanjitab|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|りょう|acc=1|acc_ref=DJR}}
+
 ===Noun===
-{{ja-noun|k|hira=りょう|rom=ryō|kyu=獵}}
+{{ja-noun|kyu=獵|りょう|hhira=れふ}}
 
 # [[hunting]]
 # [[game]] {{qualifier|animals that one hunts}}
@@ -41,8 +47,11 @@
 ====Synonyms====
 * {{l|ja|狩}}
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 猟]]
+====Derived terms====
+* {{ja-r|漁|りょう}}
+
+===References===
+<references/>
 
 [[fr:猟]]
 [[ku:猟]]
