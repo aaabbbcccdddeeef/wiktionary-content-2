@@ -28,23 +28,55 @@
 {{ja-kanji|grade=5|rs=土11}}
 
 ====Readings====
-* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[さかい]] (sakai)}}
+{{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[さかい]] (sakai)}}
 
-===Noun===
-{{ja-noun|さかい}} 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|難境|なんきょう}}: [[difficult]] [[situation]], [[difficult]] [[circumstances]]
+{{der-bottom}}
 
-# [[border]]
+{{wikipedia|lang=ja}}
 
-{{ja-noun|きょう}} 
+===Etymology 1===
+{{ja-kanjitab|きょう|yomi=o}}
+
+From {{etyl|ltc|ja|sort=きょう}} {{m|zh|境|tr=kjæng<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|きょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きょう|hhira=きやう}}
 
 # [[region]], [[environment]]
 # [[mental]] state
 # {{context|Buddhism|lang=ja|sort=きょう}} something that can be perceived with the mind or senses
 
-===Proper noun===
-{{ja-pos|さかい|proper}}
+===Etymology 2===
+{{ja-kanjitab|さかい|yomi=k}}
+
+{{IPAchar|/sakapi/}} → {{IPAchar|/sakaɸi/}} → {{IPAchar|/sakahi/}} → {{IPAchar|/sakai/}}
+
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|境う|tr=sakau||to divide, to form a boundary between things}}, derived as {{etyl|ojp|ja|sort=さかい}} element {{m|ja|境|tr=saka||division, border, boundary}} + auxiliary verb {{m|ja|ふ|tr=fu}} indicating repetition or ongoing state.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|さかい|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|界}}
+
+====Noun====
+{{ja-noun|さかい|hhira=さかひ}}
+
+# [[border]]
+
+====Proper noun====
+{{ja-pos|proper|さかい|hhira=さかひ}}
 
 # {{surname|lang=ja|sort=さかい}}
+
+===References===
+<references/>
 
 ----
 
