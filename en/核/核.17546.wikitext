@@ -36,13 +36,20 @@
 {{ja-kanji|grade=c|rs=木06}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku)|kun=[[さね]] (sane)}}
+{{ja-readings|goon=[[ぎゃく]] (gyaku)|kanon=[[かく]] (kaku)|kun=[[さね]] (sane)}}
 
 ====Compounds====
-* {{ja-r|原子核|gloss=[[atomic nucleus]]|げんし かく}}
-* {{ja-r|細胞核|gloss=[[cell nucleus]]|さいぼう かく}}
-* {{ja-r|核実験|gloss=[[nuclear]] [[test]]|かく じっけん}}
-* {{ja-r|核兵器|gloss=[[nuclear]] [[weapons]]|かく へいき}}
+* {{ja-r|原子核|げんしかく|gloss=[[atomic nucleus]]}}
+* {{ja-r|細胞核|さいぼうかく|gloss=[[cell nucleus]]}}
+* {{ja-r|核実験|かくじっけん|gloss=[[nuclear]] [[test]]}}
+* {{ja-r|核兵器|かくへいき|gloss=[[nuclear]] [[weapons]]}}
+* {{ja-r|尾状核|びじょうかく|gloss=[[caudate nucleus]]}}
+* {{ja-r|扁桃核|へんとうかく|gloss=[[amygdala]]}}
+
+{{ja-kanjitab|かく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かく|acc=1|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
 
 ===Noun===
 {{ja-noun|かく}}
@@ -53,8 +60,11 @@
 # [[cell nucleus]]
 
 ====Synonyms====
-* {{sense|atomic nucleus}} {{ja-r|原子核|げんし かく}}
-* {{sense|cell nucleus}} {{ja-r|細胞核|さいぼう かく}}
+* {{sense|atomic nucleus}} {{ja-r|原子核|げんしかく}}
+* {{sense|cell nucleus}} {{ja-r|細胞核|さいぼうかく}}
+
+===References===
+<references/>
 
 ----
 
