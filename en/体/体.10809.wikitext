@@ -45,7 +45,7 @@ Readings as simplification of 體 (body, group):
 # [[body]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[たい]] (tai)
 |kanon=[[てい]] (tei)
 |kun=[[からだ]] (karada)
@@ -53,55 +53,61 @@ Readings as simplification of 體 (body, group):
 
 ====Compounds====
 {{top4}}
-* {{l|ja|体位}}
-* {{l|ja|体育}}
-* {{l|ja|体液}}
-* {{l|ja|体温}}
-* {{l|ja|体外}}
-* {{l|ja|体格}}
-* {{l|ja|体感}}
-* {{l|ja|体技}}
-* {{l|ja|体協}}
-* {{l|ja|体躯}}
-* {{l|ja|体刑}}
-* {{l|ja|身体}} 
+* {{ja-r|体位|たいい}}
+* {{ja-r|体育|たい.いく}}
+* {{ja-r|体液|たいえき}}
+* {{ja-r|体温|たいおん}}
+* {{ja-r|体外|たいがい}}
+* {{ja-r|体格|たいかく}}
+* {{ja-r|体感|たいかん}}
+* {{ja-r|体技|たいぎ}}
+* {{ja-r|体協|たいきょう}}
+* {{ja-r|体躯|たいく}}
+* {{ja-r|体腔|たいくう}}
+* {{ja-r|体刑|たいけい}}
 {{mid4}}
-* {{l|ja|体型}}
-* {{l|ja|体形}}
-* {{l|ja|体系}}
-* {{l|ja|体験}}
-* {{l|ja|体現}}
-* {{l|ja|体言}}
-* {{l|ja|体腔}}
-* {{l|ja|体裁}}
-* {{l|ja|体質}}
-* {{l|ja|体臭}}
-* {{l|ja|体重}}
+* {{ja-r|身体|しんたい}}
+* {{ja-r|体型|たいけい}}
+* {{ja-r|体形|たいけい}}
+* {{ja-r|体系|たいけい}}
+* {{ja-r|体験|たいけん}}
+* {{ja-r|体現|たいげん}}
+* {{ja-r|体言|たいげん}}
+* {{ja-r|体裁|ていさい}}
+* {{ja-r|体質|たいしつ}}
+* {{ja-r|体臭|たいしゅつ}}
+* {{ja-r|体重|たいじゅう}}
+* {{ja-r|体術|たいじゅつ|gloss=[[taijutsu]]}}
 {{mid4}}
-* {{l|ja|体術}} (''[[taijutsu]]'')
-* {{l|ja|体制}}
-* {{l|ja|体勢}}
-* {{l|ja|体積}}
-* {{l|ja|体操}}
-* {{l|ja|体中}}
-* {{l|ja|体調}}
-* {{l|ja|体長}}
-* {{l|ja|体得}}
-* {{l|ja|体内}}
-* {{l|ja|体認}}
+* {{ja-r|体制|たいせい}}
+* {{ja-r|体勢|たいせい}}
+* {{ja-r|体積|たいせき}}
+* {{ja-r|体操|たいそう}}
+* {{ja-r|体中|たいちゅう}}
+* {{ja-r|体調|たいちょう}}
+* {{ja-r|体長|たいちょう}}
+* {{ja-r|体得|たいとく}}
+* {{ja-r|体内|たいない}}
+* {{ja-r|体認|たいにん}}
+* {{ja-r|体熱|たいねつ}}
 {{mid4}}
-* {{l|ja|体熱}}
-* {{l|ja|体罰}}
-* {{l|ja|体貌}}
-* {{l|ja|体面}}
-* {{l|ja|体毛}}
-* {{l|ja|体様}}
-* {{l|ja|体要}}
-* {{l|ja|体量}}
-* {{l|ja|体力}}
-* {{l|ja|新字体}}
-* {{l|ja|旧字体}}
+* {{ja-r|体罰|たいばつ}}
+* {{ja-r|体貌|たいぼつ}}
+* {{ja-r|体面|たいめん}}
+* {{ja-r|体毛|たいもう}}
+* {{ja-r|体様|たいよう}}
+* {{ja-r|体要|たいよう}}
+* {{ja-r|体量|たいりょう}}
+* {{ja-r|体力|たいりょく}}
+* {{ja-r|新字体|しんじたい|gloss=[[shinjitai]]}}
+* {{ja-r|旧字体|きゅうじたい|gloss=[[kyūjitai]]}}
+* {{ja-r|扁桃体|へんとうたい|gloss=[[amygdala]]}}
 {{bottom}}
+
+{{ja-kanjitab|たい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|たい|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|からだ}}
@@ -113,16 +119,20 @@ Readings as simplification of 體 (body, group):
 
 # [[body]]
 # [[form]]
-# {{label|ja|algebra}} [[field]] {{gloss|commutative ring with invertible nonzero elements}}
+# {{context|algebra|lang=ja|sort=たい}} [[field]] {{gloss|commutative ring with invertible nonzero elements}}
 
 ====Derived terms====
-* {{l|ja|体付き}}
-* {{l|ja|体良く}}
+* {{ja-r|体付き|からだつき}}
+* {{ja-r|体良く|ていよく}}
 
 ===Suffix===
 {{ja-pos|たい|suffix}}
 
 # [[body]], [[group]]
+
+===References===
+<references/>
+
 ----
 
 ==Korean==
