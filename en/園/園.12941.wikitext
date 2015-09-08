@@ -53,18 +53,27 @@
 {{ja-kanji|grade=2|rs=囗10}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[おん]] (on) < [[をん]] (won)
 |kanon=[[えん]] (en) < [[ゑん]] (wen)
-|kun=[[その]] (sono), [[おん]] (on)}}
+|kun=[[その]] (sono)}}
 
 ====Compounds====
-* {{ja-r|動物園|gloss=zoo|どうぶつえん}}
-* {{ja-r|薔薇園|gloss=rose garden|ばらえん}}
-* {{ja-r|公園|gloss=park|こうえん}}
+{{der-top|Compounds}}
+* {{ja-r|公園|こうえん}}: park
+* {{ja-r|動物園|どうぶつえん}}: zoo
+* {{ja-r|薔薇園|ばらえん}}: rose garden
+* {{ja-r|名園|めいえん}} [[excellent]] [[garden]], [[well-known]] [[garden]]
+* {{ja-r|茗園|めいえん}} [[tea]] [[plantation]]
+{{der-bottom}}
+
+{{ja-kanjitab|えん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|えん|acc=1|acc_ref=DJR}}
 
 ===Noun===
-{{ja-noun|えん}}
+{{ja-noun|えん|hhira=ゑん}}
 
 # [[garden]]
 
@@ -80,9 +89,12 @@
 # {{surname|lang=ja|sort=その}}
 
 ===Suffix===
-{{ja-pos|えん|suffix}}
+{{ja-pos|suffix|えん|hhira=ゑん}}
 
 # [[garden]], [[park]]
+
+===References===
+<references/>
 
 ----
 
