@@ -11,12 +11,23 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[jin3]]|y=yin3}}
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin3
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=宀07}}
+===Noun===
+{{zh-noun}}
+
+# [[banquet]], [[feast]]
+
+====Compounds====
+* {{zh-l|宴會|宴会|yànhuì|[[banquet]]}}
 
 ----
 
@@ -28,7 +39,39 @@
 # {{defn|lang=ja|sort=宀07}}
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (en)|kun=[[うたげ]] (utage), [[たのしむ]] (tanoshimu)}}
+{{ja-readings|goon=[[えん]] (en)|kanon=[[えん]] (en)|kun=[[うたげ]] (utage), [[たのしむ]] (tanoshimu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|茗宴|めいえん}}: [[tea party]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|うたげ|yomi=k}}
+Alteration of {{m|ja|打ち上げ|tr=uchiage||finishing of a performance, banquet at the finishing of a performance}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うたげ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うたげ}}
+
+# [[party]], [[banquet]], [[feast]]
+
+===Etymology 2===
+{{ja-kanjitab|えん|yomi=o}}
+From {{etyl|ltc|ja|sort=えん}} {{m|zh|宴|tr=ʔen<sup>H</sup>||banquet, feast}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|えん}}
+
+# [[party]], [[banquet]], [[feast]]
+
+===References===
+<references/>
 
 ----
 
@@ -38,15 +81,6 @@
 {{ko-hanja|hangeul=연|rv=yeon|mr=yŏn}}
 
 # {{defn|lang=ko|sort=宀07}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yàn]] ([[yan4]]), [[gū]] ([[gu1]]), [[jie]] ([[jie5]])|wg=yen<sup>4</sup>, ku<sup>1</sup>, chieh<sup>5</sup>}}
-
-# {{defn|lang=cmn|sort=宀07}}
 
 ----
 
