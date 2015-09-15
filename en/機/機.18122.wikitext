@@ -68,15 +68,17 @@
 }}
 
 ====Compounds====
-* {{l|ja|危機|tr=[[きき]], ''[[kiki]]''}}: [[crisis]]
-* {{l|ja|飛行機|tr=[[ひこうき]], ''[[hikōki]]''}}: [[airplane]], [[aircraft]]
-* {{l|ja|計算機|tr=[[けいさんき]], ''[[keisanki]]''}}: [[calculator]]
-* {{l|ja|掃除機|tr=[[そうじき]], ''[[sōjiki]]''}}: [[vacuum cleaner]]
+{{der-top|Compounds}}
+* {{ja-r|危機|きき}}: [[crisis]]
+* {{ja-r|飛行機|ひこうき}}: [[airplane]], [[aircraft]]
+* {{ja-r|計算機|けいさんき}}: [[calculator]]
+* {{ja-r|掃除機|そうじき}}: [[vacuum cleaner]]
+{{der-bottom}}
 
 ====Usage notes====
 Often used interchangeably in compounds with {{m|ja|器|tr=ki}} to indicate “machine”, with the distinction that {{lang|ja|機}} implies a larger machine, such as an airplane, while {{lang|ja|器}} implies a smaller device, possibly hand-held. Compare {{m|ja|飛行機|tr=hikōki||airplane}} with {{m|ja|食器|tr=shokki||tableware}}.
 
-===Alternative forms===
+====Alternative forms====
 機 has many {{w|ryakuji}} (handwritten abbreviations), as it is a common character with many strokes (16):
 * [[Image:RYAKUJI_ki_01.png|40px]] A {{w|phono-semantic}} simplification from [[on'yomi]] of “ki” (katakana キ): 木 + キ (semantic plus simplified phonetic) – compare [[File:Ryakuji GI.png|30px]] for [[議]] and [[File:RYAKUJI ma.png|30px]] for [[魔]]/[[摩]].
 * [[Image:RYAKUJI_ki_02.png|40px]] Graphical simplification.
@@ -84,7 +86,11 @@ Often used interchangeably in compounds with {{m|ja|器|tr=ki}} to indicate “m
 * [[Image:RYAKUJI_ki_04.png|40px]] Graphical simplification.
 
 ===Etymology 1===
-From {{etyl|zhx|ja|sort=き}} {{m|zh|機|sc=Hani}}.
+{{ja-kanjitab|yomi=o|き}}
+From {{etyl|ltc|ja|sort=き}} {{m|zh|機|tr=kjɨj||mechanism}}.  Compare modern {{etyl|nan|-}} reading ''ki''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|き|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|き}}
@@ -97,18 +103,27 @@ From {{etyl|zhx|ja|sort=き}} {{m|zh|機|sc=Hani}}.
 # {{context|Buddhism|lang=ja|sort=き}} the [[moment]] of being moved into action by the [[teachings]] of the [[Buddha]]: see {{l|ja|機根|tr=''kikon''}}
 # by extension, the [[workings]] of the [[heart]] or [[mind]] in general
 # in [[Noh]] [[theater]], the [[breath]] of the [[mind]]
-# short for {{l|ja|飛行機|tr=''hikōki''}}: an [[airplane]], an [[aircraft]]
-# short for {{l|ja|機関銃|tr=''kikanjū''}}: a [[machine gun]]
+# short for {{m|ja|飛行機|tr=hikōki}}: an [[airplane]], an [[aircraft]]
+# short for {{m|ja|機関銃|tr=kikanjū}}: a [[machine gun]]
 
 =====Idioms=====
-* {{l|ja|機が熟する|tr=[[きがじゅくする]], ''[[ki ga juku suru]]''}}: the [[time is ripe]]; a [[golden opportunity]]
-* {{l|ja|機に乗じる|tr=[[きにじょうじる]], ''[[ki ni jōjiru]]''}}, {{l|ja|機に投じる|tr=[[きにとうじる]], ''[[ki ni tōjiru]]''}}: to [[sieze the moment]], to [[jump at the chance]]
-* {{l|ja|機に臨み変に応ずる|tr=[[きにのぞみへんにおうずる]], ''[[ki ni nozomi hen ni ōzuru]]''}}, {{l|ja|機に応ずる|tr=[[きにおうずる]], ''[[ki ni ōzuru]]''}}: to [[move with the times]]
-* {{l|ja|機に|tr=[[機に因って法を説く]], ''[[ki ni yotte hō o toku]]''}}: to change the [[message]] to [[suit]] one's [[audience]]: to [[alter]] the [[format]] or [[presentation]] for better [[acceptance]], without changing the [[core]] [[idea]]s being [[convey]]ed
-* {{l|ja|機を逸する|tr=[[きをいっする]], ''[[ki o issuru]]''}}, {{l|ja|機を失する|tr=[[きをいしっする]], ''[[ki o shissuru]]''}}: to [[miss the boat]], to [[miss out]]
+{{der-top|Idioms}}
+* {{ja-r|機が熟する|き が じゅくする}}: the [[time is ripe]]; a [[golden opportunity]]
+* {{ja-r|機に乗じる|き に じょうじる}}, {{ja-r|機に投じる|き に とうじる}}: to [[sieze the moment]], to [[jump at the chance]]
+* {{ja-r|機に臨み変に応ずる|き に のぞみ へん に おうずる}}, {{ja-r|機に応ずる|き に おうずる}}: to [[move with the times]]
+* {{ja-r|機に因って法を説く|き に よって ほう を とく}}: to change the [[message]] to [[suit]] one's [[audience]]: to [[alter]] the [[format]] or [[presentation]] for better [[acceptance]], without changing the [[core]] [[idea]]s being [[convey]]ed
+* {{ja-r|機を逸する|き を いっする}}, {{ja-r|機を失する|き を しっする}}: to [[miss the boat]], to [[miss out]]
+{{der-bottom}}
 
 ===Etymology 2===
-Alteration from {{term|こうべうち|lang=ja}}, itself a compound of {{term|首||head|tr=kōbe|lang=ja}} + {{term|打ち||striking, hitting|tr=uchi|lang=ja}}.
+{{ja-kanjitab|yomi=k|こぶち}}
+Alteration from {{ja-r|こうべうち}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> itself a compound of {{m|ja|首|tr=kōbe||head}} + {{m|ja|打ち|tr=uchi||striking, hitting}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|こぶち|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|首打}}
 
 ====Noun====
 {{ja-noun|こぶち}}
@@ -116,7 +131,11 @@ Alteration from {{term|こうべうち|lang=ja}}, itself a compound of {{term|�
 # a [[trap]] or [[snare]] that works by [[behead]]ing the [[bird]] or [[beast]] caught in it
 
 ===Etymology 3===
-From [[onomatopoeic]] {{term|はた|tr=hata|lang=ja}}, possibly for the sound of the shuttle running back and forth, or for the sound of a woven cloth moving in the wind, compare {{term|旗||a flag|tr=hata|lang=ja}}.
+{{ja-kanjitab|yomi=k|はた}}
+From [[onomatopoeic]] {{m|ja|はた|tr=hata}}, possibly for the sound of the shuttle running back and forth, or for the sound of a woven cloth moving in the wind, compare {{m|ja|旗|tr=hata||a flag}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|はた|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|はた}}
@@ -125,11 +144,21 @@ From [[onomatopoeic]] {{term|はた|tr=hata|lang=ja}}, possibly for the sound of
 # [[woven]] [[cloth]]
 
 ===Etymology 4===
-Stem form ({{term|連用形|lang=ja}}) of the verb {{term|機る||to [[manipulate]] something|tr=wakatsuru|lang=ja}}, itself an alteration of {{term|誘る||to [[manipulate]] or [[con]] someone|tr=okotsuru|lang=ja}}, a compound of {{term|痴||a fool|tr=oko|lang=ja}} + {{term|釣る||to [[fish]], to [[draw out]]|tr=tsuru|lang=ja}}.
+{{ja-kanjitab|yomi=k|わかつり}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|機る|tr=wakatsuru||to [[manipulate]] something}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> itself an alteration of {{m|ja|誘る|tr=okotsuru||to [[manipulate]] or [[con]] someone}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> a compound of {{m|ja|痴|tr=oko||a fool}} + {{m|ja|釣る|tr=tsuru||to [[fish]], to [[draw out]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|わかつり}}
+
+====Noun====
+{{ja-noun|わかつり}}
 
 # to [[manipulate]] {{qualifier|as in a device}}
 # to [[manipulate]] {{qualifier|as in a person}}: to [[deceive]], to [[take in]] someone
 # to get on someone's right side; to [[humor]] someone; to [[make an effort]] to [[please]] someone
+
+===References===
+<references/>
 
 ----
 
