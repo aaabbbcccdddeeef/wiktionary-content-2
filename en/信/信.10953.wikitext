@@ -101,61 +101,64 @@
 {{ja-kanji|grade=4|rs=人07}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=[[まこと]] (makoto), [[たより]] (tayori), [[まかせる]] (makaseru)|nanori=[[のぶ]] (nobu)}}
-
-===Noun===
-{{ja-noun|しん}}
-
-# [[trust]], [[faith]]
-#* '''信'''を[[置く]].
-#*: '''しん'''を[[おく]].
-#*: '''''Shin''' o [[oku]].''
-#*:: Put one's '''trust''' in.
-#* '''信'''を[[問う]].
-#*: '''しん'''を[[とう]].
-#*: '''''Shin''' o [[tou]].''
-#*:: Make an appeal to one's sense of '''trust no man'''.
+{{ja-readings
+|goon=[[しん]] (shin)
+|kanon=[[しん]] (shin)
+|kun=[[まこと]] (makoto) {{non-joyo-reading}}
+|nanori=[[のぶ]] (nobu)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * [[信愛]]
 * [[信越]]
 * [[信管]]
 * [[信疑]]
-* {{l|ja|信義|tr=shingi|gloss=faith}}
+* {{ja-r|信義|しんぎ}}: faith
 * [[信教]]
-* {{l|ja|信仰|tr=shinkō|gloss=belief, faith; to have faith in a religion, profess faith in}}
+* {{ja-r|信仰|しんこう}}: belief, faith; to have faith in a religion, profess faith in
 * [[信金]]
 * [[信経]]
 * [[信玄袋]]
-* {{l|ja|信号|tr=shingō|gloss=a signal; traffic lights}}
+* {{ja-r|信号|しんごう}}: a signal; traffic lights
 * [[信士]]
-* {{l|ja|信実|tr=shinjitsu|gloss=sincerity; honesty; truth; faithfulness}}
-* {{l|ja|信者|tr=shinja|gloss=believer}}
+* {{ja-r|信実|しんじつ}}: sincerity, honesty, truth, faithfulness
+* {{ja-r|信者|しんじゃ}}: a believer
 * [[信受]]
 * [[信書]]
 * [[信女]]
 * [[信証]]
 * [[信賞必罰]]
 * [[信条]]
-* {{l|ja|信心}}
-* {{l|ja|信託|tr=shintaku|gloss=a trust, an entrustment; leaving things up to a trusted party; to set up a financial trust; to leave in trust}}
-* {{l|ja|信天翁}}
-* {{l|ja|信徒|tr=shinto|gloss=one who believes in a religion; a believer}}
-* {{l|ja|信任|tr=shinnin|gloss=trust, confidence, credence; to trust, confide}}
+* {{ja-r|信心|しんじん}}
+* {{ja-r|信託|しんたく}}: a trust, an entrustment; leaving things up to a trusted party; to set up a financial trust; to leave in trust
+* {{ja-r|信天翁|しんてんおう}}
+* {{ja-r|信徒||しんと}}: one who believes in a religion; a believer
+* {{ja-r|信任|しんにん}}: trust, confidence, credence; to trust, confide
 * [[信認]]
 * [[信念]]
 * [[信販]]
 * [[信伏]], [[信服]], [[信腹]]
-* {{l|ja|信奉|tr=shinpō|gloss=belief, faith}}
+* {{ja-r|信奉|しんぽう}}: belief, faith
 * [[信望]]
 * [[信約]]
-* {{l|ja|信用}}
-* {{l|ja|信頼|tr=shinrai|gloss=reliance, trust, confidence}}
+* {{ja-r|信用|しんよう}}: [[confidence]], [[trust]]
+* {{ja-r|信頼|しんらい}}: reliance, trust, confidence
 * [[信憑]]
+{{der-bottom}}
 
-===Related terms===
-* {{ja-r|信じる|しんじる|gloss=to believe; to trust; to believe in}}
-* {{ja-r|信ずる|しんずる|gloss=to believe, put trust in}}
+===Noun===
+{{ja-noun|しん}}
+
+# [[trust]], [[faith]]
+#: {{ja-usex|'''信'''を置く、'''信'''を取る|'''しん''' を おく、 '''しん''' を とる|to put one's '''trust''' (in something), to gain someone's '''trust'''}}
+
+====Related terms====
+{{rel-top}}
+* {{ja-r|信じる|しんじる}}: to believe; to trust; to believe in
+* {{ja-r|信ずる|しんずる}}: to believe, put trust in
+{{rel-bottom}}
+
 ----
 
 ==Korean==
