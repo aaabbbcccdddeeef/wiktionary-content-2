@@ -54,32 +54,75 @@
 # [[travel]]
 
 ====Readings====
-* {{ja-readings|on=[[りょ]] (ryo)|kun=[[たび]] (tabi)}}
+{{ja-readings
+|goon=[[ろ]] (ro) {{qualifier|non-joyo-kanji}}
+|kanon=[[りょ]] (ryo)
+|kun=[[たび]] (tabi)
+}}
 
 ====Compounds====
-* {{l|ja|sc=Jpan|旅先|tr=たびさき, tabisaki}}
-* {{l|ja|sc=Jpan|旅路|tr=たびじ, tabiji}}
-* {{l|ja|sc=Jpan|旅立|tr=たびだち, tabidachi}}
-* {{l|ja|sc=Jpan|旅人|tr=たびびと, tabibito}}
-* {{l|ja|sc=Jpan|旅館|tr=りょかん, ryokan}}
-* {{l|ja|sc=Jpan|旅券|tr=りょけん, ryoken}}
-* {{l|ja|sc=Jpan|旅行|tr=りょこう, ryokō}}
-* {{l|ja|sc=Jpan|旅団|tr=りょだん, ryodan}}
-* {{l|ja|sc=Jpan|旅費|tr=りょひ, ryohi}}
+{{der-top|Compounds}}
+* {{ja-r|旅先|たびさき}}: [[travel]] [[destination]]
+* {{ja-r|旅路|たびじ}}: [[travel]] [[route]], [[itinerary]]; a [[journey]]
+* {{ja-r|旅立|たびだち}}: [[departure]] {{qualifier|on a trip}}
+* {{ja-r|旅人|たびびと}}: a [[traveller]]
+* {{ja-r|旅館|りょかん}}: an [[inn]]
+* {{ja-r|旅券|りょけん}}: a [[passport]]
+* {{ja-r|旅行|りょこう}}: a [[trip]], a [[voyage]], [[travel]]
+* {{ja-r|旅団|りょだん}}: a [[brigade]]
+* {{ja-r|旅費|りょひ}}: [[travel]] [[expense]]s
+{{der-bottom}}
 
-===Noun===
-{{ja-noun|k|hira=たび|rom=tabi}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|りょ}}
+From {{etyl|ltc|ja|sort=りょ}} {{m|zh|旅|tr=ljo<sup>X</sup>||a military unit of 500 men; to go [on a sortie; on a trip or journey]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|りょ}}
+
+====Noun====
+{{ja-noun|りょ}}
+
+# in ancient China, a [[military]] [[unit]] of 500 [[soldier]]s
+# one of the [[I Ching]] [[hexagram]]s: [[sojourning]] ([[w:List_of_hexagrams_of_the_I_Ching#Hexagram_56|''I Ching hexagram interpretation on Wikipedia here'']])
+
+====Prefix====
+{{ja-pos|prefix|りょ}}
+
+# a [[trip]], a [[journey]], [[travel]]
+
+=====Usage notes=====
+The prefix usage only ever appears in kanji compounds.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|たび}}
+From {{etyl|ojp|ja|sort=たび}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears in the ''{{w|Man'yōshū}}'', completed no earlier than 759 and one of the oldest extant texts in the Japanese language.
+
+May be cognate with {{m|ja|度|tr=tabi||the time when something happens}}; both terms share the same pitch accent, and have some semantic overlap.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たび|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たび}}
 
 # a [[journey]]; [[travel]]
 #* '''1694''', 松尾芭蕉 [[w:Matsuo Bashō|Matsuo Bashō]]
-#*: {{ux|ja|'''旅'''に病んで夢は枯野をかけ廻る。|'''Tabi''' ni yande yume wa kareno o kakemeguru.|.}}
-#*: {{ux|ja|不思議な'''旅'''が始まるぜ！|Fushigi na '''tabi''' ga hajimaru ze!|!}}
+#*: {{ja-usex|'''旅'''に病んで夢は枯野をかけ廻る。|'''たび''' に やんで ゆめ は かれの を かけめぐる。|Anxious to go '''journeying''', my dreams run through the desolate fields.}}
+#*: {{ja-usex|不思議な'''旅'''が始まるぜ！|ふしぎ な '''たび''' が はじまる ぜ！|A strange '''journey''' is about to begin!}}
+# {{context|lang=ja|sort=たび|archaic}} a [[temporary]] [[time]] spent in a place
+# {{qualifier|more specifically}} a [[place]] where a {{m|ja|神輿|tr=mikoshi||portable shrine}} spends a [[temporary]] [[time]] outside of the {{m|ja|本宮|tr=hongū||main shrine building}} during a {{m|ja|祭り|tr=matsuri||festival}}
 
-====Derived terms====
-* [[旅する]]
+====Verb====
+{{ja-verb-suru|たび|tr=intrans}}
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 旅]]
+# to [[travel]], to [[go]] on a [[journey]] or [[trip]]
+
+=====Conjugation=====
+{{ja-suru|たび}}
+
+===References===
+<references/>
 
 ----
 
