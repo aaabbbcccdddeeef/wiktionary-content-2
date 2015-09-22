@@ -815,26 +815,65 @@ From {{etyl|la|pro}} {{term|et|lang=la}}.
 ==Portuguese==
 
 ===Pronunciation===
+* {{hyphenation|e|lang=pt}}
 
-'''Letter'''
+'''Letter''':
 * {{a|Portugal|Brazil}} {{IPA|/ˈɛ/|lang=pt}}
 * {{audio|Pt-br-e.ogg|Audio|lang=pt}}
 * {{homophones|lang=pt|é}}
-* {{hyphenation|e|lang=pt}}
 
-'''Conjunction, noun'''
-* {{a|Portugal|Brazil}} {{IPA|/ˈi/|lang=pt}}
+'''Conjunction''':
+* {{a|Portugal|Brazil}} {{IPA|/i/|lang=pt}}
 * {{audio|Pt-br-i.ogg|Audio|lang=pt}}
 * {{homophones|lang=pt|i}}
-* {{a|South Brazil}} {{IPA|/ˈe/|lang=pt}}
-* {{hyphenation|e|lang=pt}}
 
-===Letter===
+'''Noun''':
+* {{a|Brazil}} {{IPA|/ˈe/|lang=pt}}
+
+===Etymology 1===
+From {{etyl|roa-opt|pt}} {{m|roa-opt|e||and}}, from {{etyl|la|pt}} {{m|la|et||and}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*éti}}.
+
+====Conjunction====
+{{head|pt|conjunction}}
+
+# {{l|en|and}} {{gloss|connects two clauses without any special implication}}
+#: {{ux|pt|Eu vim '''e''' eles saíram.|I came '''and''' they left.}}
+#* {{RQ:Harry Potter|7|pt-BR|page=211}}
+#*: Mandaram lacrar todas as saídas '''e''' não deixar ninguém...
+#*:: They ordered me to seal all the exits and not to let anyone...
+# {{l|en|and}} {{gloss|connects the last and penultimate elements in a list}}
+#: {{ux|pt|Eu '''e''' ele vamos embora.|He '''and''' I are going away.}}
+#: {{ux|pt|Tenho quatro frutas: uma maçã, uma pera, uma laranja '''e''' uma uva.|I have four fruits: an apple, a pear, an orange '''and''' a grape.}}
+# {{lb|pt|emphatic}} {{l|en|and}} {{gloss|connects every element of a list}}
+#* {{RQ:Harry Potter|5|pt-BR|page=308}}
+#*: Você notou os cabelos dela, são negros '''e''' brilhantes '''e''' macios...
+#*:: You noticed her hair, it's dark and brilliant and soft...
+#: {{ux|pt|Ela é baixa, '''e''' burra, '''e''' preguiçosa, '''e''' feia.|She is short, '''and''' stupid, '''and''' lazy, '''and''' ugly.}}
+# {{lb|pt|logic}} {{l|en|and}} {{gloss|indicates a conjunction operation}}
+#: {{ux|pt|Verdadeiro '''e''' falso dá falso.|True '''and''' false yields false.}}
+
+=====Quotations=====
+{{seeCites}}
+
+=====Synonyms=====
+* {{l|pt|&}}
+
+====Noun====
+{{pt-noun|m|-}}
+
+# {{context|logic|lang=pt}} [[and]], [[conjunction]]
+
+====Quotations====
+{{seeCites}}
+
+===Etymology 2===
+
+====Letter====
 {{pt-letter|upper=E|lower=e}}
 
 # {{Latn-def|pt|letter|5}}
 
-====See also====
+=====See also=====
 * {{list:Latin script letters/pt}}
 
 # {{Latn-def|pt|letter|5|ê|é}}
@@ -842,33 +881,12 @@ From {{etyl|la|pro}} {{term|et|lang=la}}.
 #*: Qu'''e'''ro conv'''e'''rsar com os s'''e'''nhor'''e'''s '''e''' '''e'''xijo sua total '''e''' absoluta at'''e'''nção.
 #*:: I want to talk with you and I demand your total and absolute attention.
 
-===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|e||and}}, from {{etyl|la|pt}} {{m|la|et||and}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*éti}}.
+===Etymology 3===
 
-===Conjunction===
-{{head|pt|conjunction}}
-
-# {{l/en|and}}
-#* {{RQ:Harry Potter|5|pt-BR|page=308}}
-#*: Você notou os cabelos dela, são negros '''e''' brilhantes '''e''' macios...
-#*:: You noticed her hair, it's dark and brilliant and soft...
-#* {{RQ:Harry Potter|7|pt-BR|page=211}}
-#*: Mandaram lacrar todas as saídas '''e''' não deixar ninguém...
-#*:: They ordered me to seal all the exits and not to let anyone...
-
-====Quotations====
-{{seeCites}}
-
-====Synonyms====
-* {{l|pt|&}}
-
-===Noun===
+====Noun====
 {{pt-noun|m|-}}
 
-# {{context|logic|lang=pt}} [[and]], [[conjunction]]
-
-====Quotations====
-{{seeCites}}
+# {{abbreviation of|este|lang=pt|dot=}} {{gloss|east}}
 
 ----
 
