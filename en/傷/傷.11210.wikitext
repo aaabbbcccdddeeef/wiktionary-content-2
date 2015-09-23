@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=11|sn=13|four=28227|canj=OOAH|ids=⿰亻⿱𠂉昜}}
 
-====See also====
-* [[旬]] <!-- Graphically similar -->
-
 ====References====
 * {{Han ref|kx=0115.010|dkj=01029|dj=0244.070|hdz=10211.090|uh=50B7|ud=20663|bh=B6CB|bd=46795}}
 
@@ -25,36 +22,39 @@
 |cat=n,v
 }}
 
-===Definitions===
-# [[wound]], [[injury]]
-# [[fall ill]] from
+===Noun===
+{{zh-noun}}
+
+# [[wound]]s, [[injury|injuries]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[fall ill]] from
 #: 我又要叫你和女人彼此为仇。你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。
 #: Wǒ yòu yào jiào nǐ hé nǚrén bǐcǐ wéi chóu. Nǐde hòuyì hé nǚrén de hòuyì yĕ bǐcǐ wéi chóu. Nǚrén de hòuyì yào shāng nǐde tóu, nǐ yào shāng tāde jiǎogēn. 
 #:: And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. 
 
 ====Compounds====
-* [[傷殘]]
-* [[傷風]]
-* [[傷亡]]
-* [[傷惱筋]]
-* [[傷神]]
-* [[傷者]]
-<!-- need to be merged as traditional
-* [[伤疤]]
-* [[伤悲]]
-* [[伤兵]]
-* [[伤病员]]
-* [[伤财]]
-* [[伤残]]
-* [[伤残人奥运会]]
-* [[伤悼]]
-* [[伤风]]
-* [[伤害]]
-* [[伤脑筋]]
-* [[伤热]]
-* [[伤神]]
-* [[伤亡]]
-* [[伤心]] -->
+{{der3
+| {{zh-l|傷亡}}
+| {{zh-l|傷兵}}
+| {{zh-l|傷害}}
+| {{zh-l|傷心}}
+| {{zh-l|傷悲}}
+| {{zh-l|傷悼}}
+| {{zh-l|傷惱筋}}
+| {{zh-l|傷殘}}
+| {{zh-l|傷殘人奧運會}}
+| {{zh-l|傷熱}}
+| {{zh-l|傷疤}}
+| {{zh-l|傷病員}}
+| {{zh-l|傷神}}
+| {{zh-l|傷者}}
+| {{zh-l|傷腦筋}}
+| {{zh-l|傷財}}
+| {{zh-l|傷風}}
+}}
 
 ----
 
@@ -67,10 +67,10 @@
 * {{ja-readings|on=[[しょう]] (shō)|kun=[[きず]] (kizu), [[いたむ]] (itamu)}}
 
 ====Compounds====
-* [[傷心]] ([[しょうしん]], [[shōshin]]), [[broken]] [[heart]]
-* [[傷害]] ([[しょうがい]], [[shōgai]]), injury
-* [[損傷]] ([[そんしょう]], [[sonshō]]), injury
-* [[負傷]] ([[ふしょう]], [[fushō]]), [[wound]], [[sore]]
+* {{ja-l|傷心|しょうしん|shōshin}}: [[broken]] [[heart]]
+* {{ja-l|傷害|しょうがい|shōgai}}: injury
+* {{ja-l|損傷|そんしょう|sonshō}}: injury
+* {{ja-l|負傷|ふしょう|fushō}}: [[wound]], [[sore]]
 
 {{ja-kanjitab|きず|yomi=k}}
 
