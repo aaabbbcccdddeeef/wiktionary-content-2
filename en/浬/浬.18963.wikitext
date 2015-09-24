@@ -24,58 +24,61 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=水07}}
 
-# [[nautical mile]]; [[knot]]
+# [[nautical mile]] {{qualifier|unit of distance}}
+# [[knot]] {{qualifier|unit of speed}}
 
 ====Readings====
 {{ja-readings
-|on=[[り]] (ri)
+|goon=[[り]] (ri)
+|kanon=[[り]] (ri)
 |kun=[[かいり]] (kairi), [[ノット]] (notto)
 }}
 
 ===Etymology 1===
-From {{etyl|zhx|ja|sort=り}} {{m|zh|浬}}.
+{{ja-kanjitab|yomi=o|り}}
+Probably from {{etyl|ltc|ja|sort=り}} {{m|zh|浬}}.  The {{m|zh|浬}} character does not appear in ancient texts.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{IPA|lang=ja|/ri/|[ɽi]}}
+{{ja-pron|yomi=goon|り}}
 
 ====Noun====
-{{ja-noun|k|hira=り|rom=ri}}
+{{ja-noun|り}}
 
 # a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s
 
 ===Etymology 2===
-From {{etyl|zhx|ja|sort=かいり}} {{m|zh|海里}}.  The single-kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+{{ja-kanjitab|yomi=irr|かいり}}
+From {{etyl|ltc|ja|sort=かいり}} compound {{m|zh|海里|tr=xoj<sup>X</sup> li<sup>X</sup>|lit=sea, ocean + unit of distance}}.  The single-kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{IPA|lang=ja|/ka.i.ri/|[käiɽi]}}
+{{ja-pron|yomi=irr|かいり|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|k|hira=かいり|rom=kairi}}
+{{ja-noun|かいり}}
 
 # a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s
 
 ===Etymology 3===
-From {{etyl|en|ja|sort=のっと}} {{m|en|knot}}.  The kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+{{ja-kanjitab|yomi=irr|のっと}}
+From {{etyl|en|ja|sort=のっと}} {{m|en|knot|pos=unit of speed}}.  The kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/no.t.to/|[no̞tto̞]}}
+{{ja-pron|yomi=irr|ノット|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{l|ja|節}}, {{l|ja|ノット}}
 
 ====Noun====
-{{ja-noun|k|kata=ノット|rom=notto|hidx=のっと}}
+{{ja-noun|ノット}}
 
 # a [[knot]]: a [[nautical]] [[unit]] of [[speed]], one [[nautical mile]] [[per]] [[hour]]
 
 =====Usage notes=====
 The katakana spelling {{l|ja|ノット}} is more common in modern Japanese than either kanji spelling of {{lang|ja|浬}} or {{l|ja|節}}.
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 浬]]
+===References===
+<references/>
+
 ----
 
 ==Korean==
