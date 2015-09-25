@@ -77,41 +77,58 @@
 {{ja-kanji|grade=3|rs=口06}}
 
 ====Readings====
-* {{ja-readings|goon=[[ほん]] (hon)|kanon=[[ひん]] (hin)|kun=[[しな]] (shina)}}
+{{ja-readings|goon=[[ほん]] (hon)|kanon=[[ひん]] (hin)|kun=[[しな]] (shina)}}
 
 ====Compounds====
-{{top3}}
-* [[品薄]] (しなうす, shinausu)
-* [[品切れ]] (しなぎれ, shinagire)
-* [[品定め]] ( しなさだめ, shinasadame)
-* [[品物]] (しなもの, shinamono)
-* [[品位]] (ひんい, hin'i)
-{{mid3}}
-* [[品格]] (ひんかく, hinkaku)
-* [[品行]] (ひんこう, hinkō)
-* [[品行方正]] (ひんこうほうせい, hinkōhōsei)
-* [[品詞]] (ひんし, hinshi)
-* [[品質]] (ひんしつ, hinshitsu)
-{{mid3}}
-* [[品種]] (ひんしゅ, hinshu)
-* [[品性]] (ひんせい, hinsei)
-* [[品評]] (ひんぴょう, hinpyō)
-* [[品目]]　(ひんもく, hinmoku)
-{{bottom}}
+{{der-top|Compounds}}
+* {{ja-r|品薄|しなうす}}
+* {{ja-r|品切れ|しなぎれ}}
+* {{ja-r|品定め|しなさだめ}}
+* {{ja-r|品物|しなもの}}
+* {{ja-r|品位|ひんい}}
+* {{ja-r|品格|ひんかく}}
+* {{ja-r|品行|ひんこう}}
+* {{ja-r|品行方正|ひんこうほうせい}}
+* {{ja-r|品詞|ひんし}}
+{{der-mid}}
+* {{ja-r|品質|ひんしつ}}
+* {{ja-r|品種|ひんしゅ}}
+* {{ja-r|品性|ひんせい}}
+* {{ja-r|品題|ひんだい}}: [[evaluation]]; [[title]]
+* {{ja-r|品茶|ひんちゃ}}: [[tea]] [[evaluation]]; a game of drinking varieties of tea and guessing them correctly
+* {{ja-r|品評|ひんぴょう}}
+* {{ja-r|品目|ひんもく}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|しな|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|しな|acc=0|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|しな}}
 
 # [[article]], [[goods]]
 # [[stock]]
 # [[quality]]
 
+===Etymology 2===
+{{ja-kanjitab|ひん|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ひん|acc=0|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|ひん}}
 
 # [[grace]], [[elegance]]
 # [[refinement]]
 # [[article]], [[goods]]
 # [[course]], [[dish]]
+
+===References===
+<references/>
 
 ----
 
