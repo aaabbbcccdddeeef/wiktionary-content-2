@@ -10,24 +10,28 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[fan4]]|y=fan4}}
+===Pronunciation===
+{{zh-pron
+|m=fén,fēn
+|c=fan4,fan1
+|oc=y
+|mc=y
+|cat=
+}} <!--it seems like the pronunciation is different from 棻-->
 
-# {{defn|lang=yue|sort=木07}}
+===Definitions===
+{{zh-hanzi}}
 
-====References====
+# {{synonym of|棻|lang=zh}}
+
+===References===
+* {{R:twedu|C05141}}
+
+===References===
 *[http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 128]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[fén]] ([[fen2]])|wg=fen<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=木07}}
 
 [[fr:梤]]
 [[pl:梤]]
