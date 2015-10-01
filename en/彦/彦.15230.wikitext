@@ -26,30 +26,34 @@
 {{ja-kanji|grade=n|rs=彡06}}
 
 ====Readings====
-* {{ja-readings|on=[[げん]] (gen)|kun=[[ひこ]] (hiko)}}
+{{ja-readings
+|goon=[[げん]] (gen)
+|kanon=[[げん]] (gen)
+|kun=[[ひこ]] (hiko)
+}}
 
 ===Etymology===
 {{ja-kanjitab|ひこ|yomi=k}}
-/hi<small>1</small>ko<small>1</small>/: [piko] > [ɸiko] > [hiko].
-From [[日|hi]] "sun" + [[子|ko]] "man". The male version of [[姫]] ([[ひめ]], ''[[hime]]'') "[[princess]]".
+From {{etyl|ojp|ja|sort=ひこ}}. Originally {{IPAchar|/pi<sub>1</sub>ko<sub>1</sub>/}}. {{IPAchar|*[piko]}} → {{IPAchar|[ɸiko]}} → {{IPAchar|[hiko]}}.  Compound of {{compound|lang=ja|sort=ひこ|日|tr1=hi|t1=sun|子|tr2=ko|t2=child; boy}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  The female equivalent is {{m|ja|姫|tr=hiめ}}.
 
-====Pronunciation====
-* {{IPA|[çiko]|lang=ja}}
+===Pronunciation===
+{{ja-pron|yomi=k|ひこ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
-====Noun====
+===Noun===
 {{ja-noun|ひこ}}
 
 # a male child; a boy
 # an honorary male child; prince
 # chieftain; in ancient Japan, the ruler of a regional land
 
-=====Synonyms=====
-* {{l|ja|王子}} ({{l|ja|おうこ}}
-* {{l|ja|王}} ({{l|ja|おう}}
-* {{l|ja|若君}} ({{l|ja|わかぎみ}}, ''[[wakagimi]]'')
+====Synonyms====
+* {{ja-r|王子|おうこ}}
+* {{ja-r|王|おう}}
+* {{ja-r|若君|わかぎみ}}
 
-====References====
-* {{reference-book
+===References===
+<references/>
+:* {{reference-book
  | last = Ishihara
  | first = Michihiro
  | authorlink =
