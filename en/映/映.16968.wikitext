@@ -43,16 +43,24 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=日05}}
 
-# to [[reflect]]
+# a [[reflection]]; to [[reflect]]
+# a [[projection]]; to [[project]]
 
 ====Readings====
-* {{ja-readings|goon=[[よう]] (yō)|kanon=[[えい]] (ei)|kun=[[はえる]] (haeru), [[うつる]] (utsuru), [[うつす]] (utsusu)}}
+{{ja-readings
+|goon=[[よう]] (yō) {{non-joyo-reading}}, {{qualifier|historical}} [[やう]] (yau)
+|kanon=[[えい]] (ei)
+|kun=[[うつす]] ([[映す]], utsusu), [[うつる]] ([[映る]], utsuru), [[はえる]] ([[映える]], haeru), [[はえ]] ([[映え]], hae) {{non-joyo-reading}}, [[ばえ]] ([[映え]], bae) {{non-joyo-reading}}
+|nanori=[[あきら]] (akira), [[え]] (e), [[てる]] (teru)
+}}
 
 ====Compounds====
-* {{term|映る||to be [[reflect|reflected]]|tr=うつる, utsuru|lang=ja|sc=Jpan}}
-* {{term|映画||[[movie]]|tr=えいが, eiga|lang=ja|sc=Jpan}}
-* {{term|映写||[[projection]]|tr=えいじゃ, eija|lang=ja|sc=Jpan}}
-* {{term|映像||[[reflection]]|tr=えいぞう, eizou|lang=ja|sc=Jpan}}
+{{der-top|Compounds}}
+* {{ja-r|映る|うつる}}: to be [[reflect|reflected]]; to [[appear]] as an [[image]]; to [[match]] or go well with something {{qualifier|in terms of color coordination}}
+* {{ja-r|映画|えいが}}: a [[movie]]
+* {{ja-r|映写|えいしゃ}}: a [[projection]]; to [[project]] something {{qualifer|an image}}
+* {{ja-r|映像|えいぞう}}: an [[image]] {{qualifier|especially one on a screen or in one's mind}}, a [[reflection]]
+{{der-bottom}}
 
 ----
 
