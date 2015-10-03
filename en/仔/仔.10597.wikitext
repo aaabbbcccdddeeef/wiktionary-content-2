@@ -14,38 +14,82 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation 1===
+===Etymology 1===
+Cognate with {{zh-l|子}} and {{zh-l|崽}}.
+{{rfv|Are all the definitions below of the same etymology?|lang=zh}}
+
+====Pronunciation 1====
 {{zh-pron
-|m=zǐ,zǎi
-|c=zai2,zai3
-|h=
-|mn=á/ah/chú 
+|m=zǐ
+|c=zi2
+|h=pfs=chṳ́
+|mn=chú
 |w=
-|mc=y
-|oc=y
+|mc=2
+|oc=2
+|ma=
+|cat=a,n
+}}
+
+=====Adjective=====
+{{zh-adj}}
+
+# {{cx|domesticated animals or fowls|lang=zh}} [[young]]
+#: {{zh-usex|仔雞|chick}}
+# [[careful]], [[meticulous]]
+
+======Compounds======
+* {{zh-l|仔細}}
+
+=====Noun=====
+{{zh-noun}} {{tcx|Taiwan|lang=zh}}
+
+# (= {{zh-l|籽}}) [[seed]]
+#: {{zh-usex|菜仔 油|rape'''seed''' oil}}
+
+====Pronunciation 2====
+{{zh-pron
+|m=zǎi
+|c=zai2
+|h=
+|mn=
+|w=
+|mc=
+|oc=
 |ma=
 |cat=noun,suffix
 }}
 
-===Definitions===
-{{zh-hanzi}}
+=====Alternative forms=====
+* {{zh-l|崽}}
 
-# a small thing
-# a young animal or child
-# {{cx|Cantonese|lang=zh}} a son
+=====Noun=====
+{{zh-noun|mw=個}} {{tcx|regional|chiefly|Cantonese|lang=zh}}
+
+# [[son]]
 #: {{zh-usex|你 個 仔 真係 好 乖。|Your '''son''' is very well-behaved.|C}}
-# {{cx|Cantonese|Min Nan|lang=zh}} {{non-gloss definition|a suffix for small objects}}
-#: {{zh-usex|摃槌仔|hammer|tr=[[kòng-thûi-á]]|MN}}
-# {{cx|Cantonese|Min Nan|lang=zh}} {{non-gloss definition|a suffix for single-syllable nouns}}
+# [[child]]
+#: {{zh-usex|男仔|boy|C}}
+#: {{zh-usex|女仔|girl|C}}
+# [[young]] [[animal]]
+# [[young]] [[person]] of a particular [[trait]] or [[occupation]]
+#: {{zh-usex|肥仔|[[fatty]]|C}}
+#: {{zh-usex|打工仔|young worker|C}}
+
+{{zh-noun|mw=條}} {{tcx|Cantonese|lang=zh}}
+# {{cx|slang|lang=zh}} [[boyfriend]]
+
+=====Suffix=====
+{{zh-suf}} {{tcx|chiefly|Cantonese|lang=zh}}
+
+# {{non-gloss definition|a diminutive suffix}}
+#: {{zh-usex|凳仔|small stool|C}}
+#: {{zh-usex|叔仔|brother-in-law (husband's younger brother)|C}}
+# {{non-gloss definition|a suffix for single-syllable nouns}}
 #: {{zh-usex|雀仔|a birdie|C}}
 
-====Synonyms====
-* (''Mandarin'') {{zh-l|子}}
-
-====Compounds====
+=====Compounds=====
 {{der5
-| {{zh-l|草仔粿|tr=cǎozǎiguǒ}}
-| {{zh-l|芋仔冰|tr=yùzǎibīng}}
 | {{zh-l|仔女}}
 | {{zh-l|雀仔}}
 | {{zh-l|男仔}}
@@ -55,24 +99,139 @@
 | {{zh-l|肥仔}}
 }}
 
-===Pronunciation 2===
+===Etymology 2===
+Weak form of {{zh-l|囝|tr=kiáⁿ, káⁿ}}. (Mandarin and Cantonese pronunciations are cognate with {{zh-l|子}} and {{zh-l|崽}} in words borrowed from Min Nan.)
+
+====Alternative forms====
+* {{zh-l|囝}}
+* {{zh-l|兒}}
+* {{sense|after a name or title, used endearingly, humorously or pejoratively}} {{zh-l|啊}}, {{zh-l|也}}
+
+====Pronunciation====
 {{zh-pron
-|m=zī
-|c=zi1,zi2
+|m=zǐ,zǎi,1nb=standard in Taiwan,2nb=standard in Mainland; variant in Taiwan
+|c=zai2
+|h=
+|mn=á/ah
+|w=
+|mc=
+|oc=
 |ma=
-|cat=a
+|cat=suffix
 }}
 
-===Adjective===
-{{zh-adj}}
+====Suffix====
+{{zh-suf}} {{tcx|chiefly|Min Nan|lang=zh}}
 
-# [[careful]], [[attentive]]
+# {{non-gloss definition|a diminutive suffix for nouns, adjectives or quantities}}
+#: {{zh-usex|囡仔|child|tr=[[gín-á]]|MN}}
+#: {{zh-usex|小叔仔|brother-in-law (husband's younger brother)|tr=sió-chek-á|MN}}
+#: {{zh-usex|勻勻仔|slowly|tr=ûn-ûn-á|MN}}
+#: {{zh-usex|小可仔|a little bit|tr=sió-khuá-á|MN}}
+#: {{zh-usex|歌仔戲|{{w|Taiwanese opera}}}}
+# {{non-gloss definition|a suffix that converts a verb or adjective into a noun}}
+#: {{zh-usex|抿仔|brush|tr=bín-á|MN}}
+#: {{zh-usex|矮仔|shorty|tr=bín-á|MN}}
+# {{non-gloss definition|a suffix placed after a name or title, used endearingly, humorously or pejoratively}}
+
+=====Synonyms=====
+* {{qualifier|Mandarin}} {{zh-l|子}}
 
 ====Compounds====
-* {{zh-l|仔細}}
+* {{zh-l|草仔粿|tr=chháu-á-kóe, chháu-á-ké}}
+* {{zh-l|芋仔冰|tr=ō͘-á-peng}}
+
+===Etymology 3===
+Weak form of {{zh-l|佮|tr=kah, kap|and}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=á
+|cat=interfix
+}}
+
+====Interfix====
+{{zh-interfix}} {{tcx|Min Nan|lang=zh}}
+# {{non-gloss definition|an interfix placed between two nouns to show the relationship between the two objects}}
+#: {{zh-usex|翁仔某|husband '''and''' wife|tr=ang-á-bó͘}}
+
+===Etymology 4===
+Weak form of {{zh-l|百|tr=pah|hundred}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=á
+|cat=interfix
+}}
+
+====Interfix====
+{{zh-interfix}} {{tcx|Min Nan|lang=zh}}
+# {{non-gloss definition|an interfix placed between two numbers to denote the value of 100, i.e. x {{lang|zh|仔}} y &#61; 100x + 10y}}
+#: {{zh-usex|三仔五|three '''hundred''' fifty|tr=saⁿ-á-gō͘}}
+
+===Etymology 5===
+Weak form of {{zh-l|旦|tr=tòaⁿ|dawn}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=á/nà
+|cat=interfix
+}}
+
+====Interfix====
+{{zh-interfix}} {{tcx|Min Nan|lang=zh}}
+# {{non-gloss definition|an interfix used limitedly in certain temporal location adverbs}}
+#: {{zh-usex|今仔日|today|tr=kin-á-ji̍t}}
+#: {{zh-usex|明仔早|today|tr=bîn-á-chài}}
+
+===Etymology 6===
+
+====Alternative forms====
+* {{zh-l|兒}}
+* {{zh-l|欸}}
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=é
+|cat=suffix,n
+}}
+
+====Suffix====
+{{zh-suf}} {{tcx|Hakka|lang=zh}}
+
+# {{non-gloss definition|a suffix used after nouns}}
+#: {{usex|lang=hak|[[樹]]'''仔'''<br>[[树]]'''仔'''|t=tree|tr=su-'''é'''}}
+# {{non-gloss definition|a suffix that makes a derogatory slur}}
+#: {{usex|lang=hak|[[阿山]]'''仔'''|t=[[Mainlander]]|tr=â-sân-'''é'''}}
+
+===Etymology 7===
+
+====Pronunciation====
+{{zh-pron
+|m=zī
+|c=zi1
+|h=
+|mn=
+|w=
+|mc=1
+|oc=1
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{only used in|仔肩|lang=zh}}
 
 ===References===
 * [http://www.cantonese.sheik.co.uk/dictionary/characters/396/ CantoDict]
+* Chinese Linguipedia (中華語文知識庫): [http://chinese-linguipedia.org/clk/search/%E4%BB%94/79508/177002 zǐ], [http://chinese-linguipedia.org/clk/search/%E4%BB%94/79508/300981 zǎi], [http://chinese-linguipedia.org/clk/search/%E4%BB%94/79508/357642 zī]
+* Dictionary of Frequently-Used Taiwan Hakka (臺灣客家語常用詞辭典): [http://hakka.dict.edu.tw/hakkadict/result_detail.jsp?n_no=2618&soundtype=0&sample=%E4%BB%94 é], [http://hakka.dict.edu.tw/hakkadict/result_detail.jsp?n_no=14493&soundtype=0&sample=%E4%BB%94 chṳ́]
+* [http://blgjilui.dict.edu.tw/jilui_result.jsp?phrase=%E5%9B%9D Min Nan Lexicon (閩南語字彙)]
+* Revised Mandarin Chinese Dictionary (重編國語辭典修定本): [http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh?cond=%5E%A5J%24&pieceLen=50&fld=1&cat=&ukey=-1130347409&serial=2&recNo=0&op=f&imgFont=1 zī], [http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh?cond=%5E%A5J%24&pieceLen=50&fld=1&cat=&ukey=-1130347409&serial=2&recNo=1&op=f&imgFont=1 zǐ], [http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh?cond=%5E%A5J%24&pieceLen=50&fld=1&cat=&ukey=-1130347409&serial=2&recNo=2&op=f&imgFont=1 zǎi]
+* {{thcwd|1310}}
+* 臺灣閩南語按呢寫 (Tâi-oân Bân-lâm-gí Án-ne Siá): [http://140.111.56.95/hanji/annesia/pdf/annesia267pdf.pdf 囡仔囝], [http://140.111.56.95/hanji/annesia/pdf/annesia317pdf.pdf 明仔載]
 
 ----
 
