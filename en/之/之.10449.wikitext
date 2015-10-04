@@ -37,55 +37,56 @@
 |w=
 |mc=y
 |oc=y
-|ma=|ma2=
+|ma=
 |cat=part,pron,v
 }}
 
 ===Determiner===
 {{zh-det}}
-# {{context|obsolete|lang=zh}} this.
-#*{{zh-usex|'''之''' 子 于 歸。|'''This''' girl is to get married.|ref=《詩經·周南·桃夭》}}
+
+# {{context|obsolete|lang=zh}} This.
+#* {{zh-usex|'''之''' 子 于 歸。|'''This''' girl is to get married.|ref=《詩經·周南·桃夭》|CL}}
 
 ===Verb===
 {{zh-verb}}
 
-# {{context|obsolete|lang=zh}} to sprout, to come about.
-#*{{zh-usex|如 語 焉 而未 '''之'''然。|As though you have said something to your parents but their reply has not yet '''come'''.|ref=《禮記·祭義》}}
-# {{context|obsolete|lang=zh}} to go.
-#*{{zh-usex|吾 欲 '''之''' 楚。|I want to '''go to''' Chu.|ref=《戰國策·魏策四》}}
+# {{context|obsolete|lang=zh}} To sprout, to come about.
+#* {{zh-usex|如 語 焉 而未 '''之'''然。|As though you have said something to your parents but their reply has not yet '''come'''.|ref=《禮記·祭義》|CL}}
+# {{context|obsolete|lang=zh}} To go.
+#* {{zh-usex|吾 欲 '''之''' 楚。|I want to '''go to''' Chu.|ref=《戰國策·魏策四》|CL}}
 
 ===Particle===
-{{zh-particle|ts}}
+{{zh-particle}}
 
 # Indicates that the previous word has [[possessive|possession]] of the next one. 
-#*{{zh-usex|美国'''之'''声|Voice '''of''' America}}
-#* [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1]
-#*:{{zh-usex|论到 从起 初原 有的 生命'''之'''道，就是 我们 所听见 所看见，亲眼 看过，亲手 摸过的。|  That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word '''of''' life}}
+#* {{zh-usex|美國'''之'''聲|Voice '''of''' America}}
+#* {{zh-usex|論 到 從起 初原 有的 生命 '''之''' 道，就是 我們 所 聽見 所 看見，親眼 看 過，親手 摸 過 的。|That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word '''of''' life.|ref= [http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1]}}
 # Indicates that the previous word [[modify|modifies]] the next one.
-#*{{zh-usex|尺寸'''之'''功| a minor contribution}}
+#* {{zh-usex|尺寸'''之'''功| a minor contribution}}
 
-====Usage Notes====
-* As a partical, in English it functions like [['s]] or like the word "[[of]]" but with the position of possessor and possessee switched. [[的]] (de) is more common but 之 is used in many set expressions.
+====Usage notes====
+* As a particle, in English it functions like {{m|en|'s}} or like the word {{m|en|of}} but with the position of possessor and possessee switched.
+* {{zh-l|的|tr=de}} is more common but {{lang|zh|之}} is used in many set expressions.
+
+====Synonyms====
+* {{zh-l|的|tr=de}}
+
+====Compounds====
+* {{zh-l|之後}}
+* {{zh-l|之前}}
 
 ===Pronoun===
 {{zh-pronoun}}
 
-# the third-person pronoun, [[him]], [[she]], [[it]], [[them]].
-#*{{zh-usex|好 一一 聽 '''之'''。|He prefered to listen to '''them''' one-by-one.|ref=《韓非子·內儲說上七術》}}
-#*{{zh-usex|我们 不能 对此事 听'''之'''任'''之'''。|We cannot pass '''this matter''' by without protest.}}
+# The third-person pronoun: [[him]], [[she]], [[it]], [[them]].
+#* {{zh-usex|好 一一 聽 '''之'''。|He preferred to listen to '''them''' one-by-one.|ref=《韓非子·內儲說上七術》|CL}}
+#* {{zh-usex|我們 不能 對此事 聽'''之'''任'''之'''。|We cannot pass '''this matter''' by without protest.}}
 
-====Usage Notes====
-* The pronoun "之" is never used as a subject.
+====Usage notes====
+* The pronoun {{lang|zh|之}} is never used as a subject.
 
-====Synonyms====
-* {{l|cmn|的|tr=de}}
-
-====Compounds====
-* [[之後]]
-*[[之前]]
-
-====References====
-*(''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=572&curpage=1&sample=%E4%B9%8B&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=5 Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+===References===
+* (''Min Nan'') {{thcwd|572}}
 
 ----
 
