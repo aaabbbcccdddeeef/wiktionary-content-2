@@ -21,12 +21,15 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=yǒu
 |c=jau5
 |h=pfs=yû
-|mn=iú
+|mn=ū/iú
+|mn_note=ū - vernacular; iú - literary
 |w=3hhieu
 |mc=y
 |oc=y
@@ -43,6 +46,12 @@
 #: {{zh-usex|有 很 多 人。|'''There are''' a lot of people.}}
 #: {{zh-usex|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
 
+=====Antonyms=====
+* {{zh-l|沒}}
+* {{zh-l|無}}
+* {{zh-l|未}}
+* {{zh-l|冇}}
+
 ====Usage notes====
 * If the subject of the sentence is a person or an object, 有 is translated to ''to have''. But when the subject is a place or is undefined, it is translated to ''there is''.
 : Undefined subject {{zh-usex|有 很 多 人|'''there are''' a lot of people}}
@@ -55,7 +64,9 @@
 
 # {{context|Beginning Mandarin|lang=zh|sort=you3}} [[some]]
 
-===Pronunciation===
+===Etymology 2===
+
+====Pronunciation====
 {{zh-pron
 |m=yòu
 |c=jau6
@@ -65,21 +76,15 @@
 ====Adverb====
 {{zh-adv}}
 
-# {{context|archaic|lang=zh|sort=you4}} [[again]]
-
-=====Synonyms=====
-* {{zh-l|又}}
-
-=====Antonyms=====
-* {{zh-l|沒}}, {{zh-l|無}}, {{zh-l|未}}, {{zh-l|冇}}
+# (= {{zh-l|又}}) {{context|archaic|lang=zh|sort=you4}} [[again]]
 
 ====Conjunction====
 {{zh-con}}
 
-# {{context|archaic|lang=zh|sort=you4}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
-#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語˙為政]])
+# (= {{zh-l|又}}) {{context|archaic|lang=zh|sort=you4}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
+#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語．為政]])
 #*: [[吾]][[十]]'''有'''[[五]][[而]][[志]][[於]][[學]]，[[三]][[十]][[而]][[立]]。
-#*:: ''When I was 10 '''and''' 5 years (15 years old), I devoted myself to study.  At the age of 30, I established myself (got a job and started a family).''
+#* {{zh-usex|吾 十 有{yòu} 五 而 志 於 學，三十 而 立。|When I was 10 '''and''' 5 years (15 years old), I devoted myself to study.  At the age of 30, I established myself (got a job and started a family).|CL}}
 
 ===External links===
 * [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yǒu
