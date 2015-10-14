@@ -48,25 +48,29 @@
 # [[room]]
 
 ====Readings====
-* {{ja-readings
-|goon=[[しち]] (shichi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
-|kanon=[[しつ]] (shitsu)
-|kun=[[むろ]] (muro), [[へや]] (heya)}}
+{{ja-readings|goon=[[しち]] (shichi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}|kanon=[[しつ]] (shitsu)|kun=[[むろ]] (muro), [[へや]] (heya)}}
 
 ====Compounds====
-* {{l|ja|寝室|gloss=bedroom|tr=しんしつ, shinshitsu}}
-* {{l|ja|教室|gloss=classroom|tr=きょうしつ, kyōshitsu}}
-* {{l|ja|霊安室|gloss=morgue|tr=れいあんしつ, reianshitsu}}
+{{der-top|Compounds}}
+* {{ja-r|教室|きょうしつ}}: classroom
+* {{ja-r|室外|しつがい}}: [[outside]] a [[room]], [[outdoor]]
+* {{ja-r|室内|しつない}}: [[inside]] a [[room]], [[indoor]]
+* {{ja-r|寝室|しんしつ}}: bedroom
+* {{ja-r|霊安室|れいあんしつ}}: morgue
+{{der-bottom}}
+
+{{ja-kanjitab|しつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しつ|acc=2|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|しつ}}
 
-# [[room]], [[cellar]]
-
-===Suffix===
-{{ja-pos|suffix|しつ}} 
-
 # [[room]]
+
+===References===
+<references/>
 
 ----
 
