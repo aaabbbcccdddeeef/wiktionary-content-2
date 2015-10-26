@@ -30,30 +30,55 @@
 
 ==Japanese==
 
-===Etymology===
-{{ja-kanjitab|つま|yomi=k}}
-From {{m|ja|端|tr=tsuma||edge}}. One who resides in a room at the edge of a house upon marriage.
-
-===Alternative forms===
-* [[夫]]
-
-===Noun===
-{{ja-noun|つま}}
-
-# the male or female partner in a marriage; a [[spouse]]
-# {{cx|humble|lang=ja|sort=つま}} the female partner in a marriage; [[wife]]
-
-====Synonyms====
-* {{sense|one’s own wife}} {{term|家内|tr=かない, kanai|sc=Jpan|lang=ja}}
-* {{sense|spouse}} {{term|配偶者|tr=はいぐうしゃ, haigūsha|sc=Jpan|lang=ja}}
-
 ===Kanji===
 {{ja-kanji|grade=5|rs=女05}}
 
-# {{defn|lang=ja|sort=女05}}
+# [[spouse]]
 
 ====Readings====
-* {{ja-readings|goon=[[さい]] (sai)|kanon=[[せい]] (sei)|kun=[[つま]] (tsuma), [[めあわせる]] (meawaseru)}}
+{{ja-readings
+|goon=[[さい]] (sai)
+|kanon=[[せい]] (sei)
+|kun=[[つま]] (tsuma), [[めあわせる]] ([[妻せる]], [[妻合わせる]], meawaseru)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|つま}}
+From {{m|ja|端|tr=tsuma||side, edge}}, indicating the person who is ''at the side'' of someone: a [[spouse]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare the {{etyl|en|-}} expression {{m|en|better half}}.
+
+This term originally referred to either a male ({{m|en|husband}}) or female ({{m|en|wife}}) spouse.  In modern usage, this term refers only to a female spouse.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つま|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|夫}} {{qualifier|archaic}}
+
+====Noun====
+{{ja-noun|つま}}
+
+# {{cx|lang=ja|sort=つま|archaic}} the male or female partner in a [[marriage]]: a [[spouse]]
+# {{cx|lang=ja|sort=つま|humble|only refers to one's own}} the female partner in a [[marriage]]: [[wife]]
+
+=====Synonyms=====
+* {{sense|one’s own wife}} {{m|ja|家内|tr=kanai}}
+* {{sense|spouse in general}} {{m|ja|配偶者|tr=haigūsha}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|つま}}
+By extension from the ''at the'' {{m|en|side}} sense.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つま|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|つま}}
+
+# a [[side dish]]
+# a [[tangent]], a [[digression]], something to the [[side]] of the main thing
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|つま]]
 [[Category:ja:Family|つま]]
