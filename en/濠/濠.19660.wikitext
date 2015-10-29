@@ -1,7 +1,7 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=14|sn=17|four=30132|canj=EYRO}}
+{{Han char|rn=85|rad=水|as=14|sn=17|four=30132|canj=EYRO|ids=⿰氵豪}}
 
 # [[moat]], [[trench]], [[ditch]]
 # [[Australia]]
@@ -25,13 +25,65 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水14}}
 
-# {{defn|lang=ja|sort=水14}}
+# [[moat]], [[trench]]
+# {{context|abbreviation|lang=ja|sort=水14}} [[Australia]]
 
 ====Readings====
-* {{ja-readings|on=[[ごう]] (gō)|kun=[[ほり]] (hori)}}
+{{ja-readings|goon=[[ごう]] (gō)|kanon=[[こう]] (kō)|kun=[[ほり]] (hori)}}
 
 ====Compounds====
-* [[濠洲]], [[濠州]] (ごうしゅう, Gōshū)
+{{der-top|Compounds}}
+* {{ja-r|環濠|かんごう}}
+* {{ja-r|濠洲|^ごうしゅう}}, {{ja-r|濠州|^ごうしゅう}}: [[Australia]]
+* {{ja-r|城濠|じょうごう}}
+* {{ja-r|雪濠|せつごう}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ごう|yomi=o}}
+From {{etyl|ltc|ja|sort=こう'}} {{m|zh|濠}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ごう|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|壕}}
+
+====Noun====
+{{ja-noun|ごう|hhira=がう}}
+
+# [[moat]], [[trench]]
+
+=====Usage notes=====
+濠 implies one with water, 壕 implies one without water.
+
+===Etymology 2===
+{{ja-kanjitab|ほり|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|掘る|tr=horu||to dig}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほり|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|堀}}, {{ja-l|壕}}
+
+====Noun====
+{{ja-noun|ほり}}
+
+# [[ditch]], [[canal]]
+# [[moat]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|内濠|うちぼり}}
+* {{ja-r|城濠|しろぼり}}
+* {{ja-r|外濠|そとぼり}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
