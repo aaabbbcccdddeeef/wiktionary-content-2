@@ -102,20 +102,21 @@ The semantics may have developed along the grammaticalisation process "bamboo st
 ===Kanji===
 {{ja-kanji|grade=5|rs=人08}}
 
-# {{defn|lang=ja|sort=人08}}
-
 ====Readings====
-* {{ja-readings|goon=[[か]] (ka)|kanon=[[か]] (ka)|toon=[[こ]] (ko)|kun=[[こ]] (ko)}}
+{{ja-readings
+|goon=[[か]] (ka)
+|kanon=[[か]] (ka)
+|toon=[[こ]] (ko)
+}}
 
 ===Counter===
-{{ja-pos|こ|counter}}
+{{ja-pos|counter|こ}}
 
-# articles
-## accessories
-## rocks, fruits, berries, nuts<!-- 
-##:{{ja-usex|あの枝に桜ん坊が'''十個'''だけあります。|^あの　えだ　に　さくらんぼ　が '''じゅっこ''' だけ　あります。|There are only ten cherries on that branch.}} -->
-## bells, drums, music boxes
-## rice bowls, teacups, vases of alcohol
+# [[item]],, [[article]], [[thing]]
+#: {{ja-usex|あの枝に桜ん坊が十二'''個'''だけあります。|^あの えだ に さくらんぼ が じゅうに'''こ''' だけ あります。|There are only twelve cherries on that branch.}}
+
+====Usage notes====
+This is the most generic counter in Japanese.  It can be used to count just about anything.
 
 ----
 
