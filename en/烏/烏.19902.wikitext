@@ -66,30 +66,59 @@ Sense “black, dark” generalized from crow – “black as a crow”. Compare
 ----
 
 ==Japanese==
-[[file:Kolkrabe.jpg|thumb|right|200px|烏 (karasu)]]
 
 ===Kanji===
 {{ja-kanji|grade=|rs=火06}}
 
 ====Readings====
-* {{ja-readings|on=[[う]] (''u''), [[お]] (''o'') , from [[を]] (''wo''), [[え]] (''e'')|kun=[[からす]] (''karasu''), [[いずくんぞ]] (''izukunzo'')}}
+{{ja-readings
+|goon=[[う]] (u)
+|kanon=[[お]] (o), {{qualifier|historical}} [[を]] (wo)
+|kanyoon={{qualifier|rare, only in some compounds}} [[え]] (e)
+|kun=[[いずくんぞ]] (izukunzo), [[からす]] (karasu), [[なんぞ]] (nanzo)
+}}
 
 ====Compounds====
-* {{l|ja|濡烏|tr=[[ぬれがらす]], nuregarasu||jet-black}}
-* {{l|ja|八咫烏|tr=[[やたがらす]], yatagarasu||[[w:Yatagarasu|a flying creature in Japanese mythology]]}}
-* {{l|ja|烏賊|tr=[[イカ]], ika||squid}}
+{{der-top|Compounds}}
+* {{ja-r|濡烏|ぬれがらす}}: jet-black
+* {{ja-r|八咫烏|やたがらす}}: [[w:Yatagarasu|a flying creature in Japanese mythology]]
+* {{ja-r|烏賊|いか}}: squid
+* {{ja-r|烏合の衆|うごう の しゅう}}: a [[rabble]], a [[mob]], a [[disorderly]] [[crowd]]
+{{der-bottom}}
 
-===Noun===
-{{ja-noun|からす|kata=カラス}}
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Crow}}
+{{wikipedia|Raven}}
+[[File:Kolkrabe.jpg|thumb|250px|{{lang|ja|烏}} (''karasu''): a '''[[crow]]''', a '''[[raven]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|からす}}
+Compound of {{compound|lang=ja|sort=からす|から|tr1=kara|t1=caw|pos1=onomatopoeia|す|tr2=su|t2=bird?|pos2=ancient suffix appearing in certain bird names}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare the {{m|ja|す|tr=su}} in {{m|ja|鶯|tr=uguisu}}, {{m|ja|杜鵑|tr=hototogisu}}.
 
-# a [[crow]]; a [[raven]]
+====Pronunciation====
+{{ja-pron|yomi=k|からす|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{l|ja|鴉}}
 
+====Noun====
+{{ja-noun|からす|カラス}}
+
+# a [[crow]]; a [[raven]]
+
+=====Usage notes=====
+This is the most common reading for this character when used in isolation in modern Japanese.
+
+{{U:ja:biology|カラス}}
+
 ====Derived terms====
-* [[烏の行水]] (''karasu no gyozui''): a quick bath
-* [[烏合の衆]] (''ugo no shu'')
+{{der-top}}
+* {{ja-r|烏の行水|からす の ぎょうずい}}: a [[quick]] [[bath]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|からす]]
 [[Category:ja:Birds|からす]]
