@@ -5,7 +5,7 @@
 * {{l|fr|oeil}} {{qualifier|nonstandard}}
 
 ===Etymology===
-From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|oil}}, {{m|en|uel}}, {{m|fro|ueil}} (plural {{m|fro|olz}}, {{m|fro|ialz}}), from {{etyl|VL.|fr}} {{m|la|oclus}}, from {{etyl|la|fr}} {{m|la|oculus}}, ultimately from {{etyl|ine-pro|fr}} {{m|ine-pro|*h₃okʷ-}}, {{m|ine-pro|*h₃ekʷ-||eye; to see}}.
+From {{inh|fr|frm}}, from {{der|fr|fro|oil}}, {{m|fro|uel}}, {{m|fro|ueil}} (plural {{m|fro|olz}}, {{m|fro|ialz}}), from {{der|fr|VL.|oclus}}, from {{der|fr|la|oculus}}, ultimately from {{der|fr|ine-pro|*h₃okʷ-}}, {{m|ine-pro|*h₃ekʷ-||eye; to see}}.
 
 ===Pronunciation===
 * {{audio|Fr-œil.ogg|audio|lang=fr}}
@@ -15,22 +15,17 @@ From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|oil}}, {{m|en|uel}}, {{m|fro|
 ===Noun===
 {{fr-noun|m|yeux|œils}}
 
-# {{qualifier|plural ''[[yeux]]''}} [[eye]], organ that is sensitive to light, helping organisms to [[see]]
+# {{lb|fr|anatomy|plural ''[[yeux]]''}} [[eye]], organ that is sensitive to light, helping organisms to [[see]]
 # {{qualifier|plural ''[[yeux]]''}} [[glyph]], rendering of a single character
 # {{qualifier|plural ''[[œils]]''}} [[eye]] (of a needle)
 
 ====Derived terms====
-* [[à l'œil]]
-* [[coup d'œil]]
-* [[avoir un œil de lynx]]
-* [[œil pour œil, dent pour dent]]
-* [[clin d'œil]]
+{{der3|à l'œil|coup d'œil|avoir un œil de lynx|œil pour œil, dent pour dent|clin d'œil|lang=fr}}
 
 ===External links===
 * {{R:TLFi}}
 
-[[Category:fr:Anatomy|oeil]]
-[[Category:French terms spelled with Œ|oeil]]
+{{catlangname|fr|terms spelled with Œ}}
 
 ----
 
@@ -40,12 +35,12 @@ From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|oil}}, {{m|en|uel}}, {{m|fro|
 * {{l|frm|oeil}}
 
 ===Etymology===
-From {{etyl|fro|frm}} {{m|fro|ueil}}.
+From {{inh|frm|fro|ueil}}.
 
 ===Noun===
 {{frm-noun|m|yeulx}}
 
-# {{context|anatomy|lang=frm}} [[eye]]
+# {{lb|frm|anatomy}} [[eye]]
 
 ====Descendants====
 * French: {{l|fr|œil}}
