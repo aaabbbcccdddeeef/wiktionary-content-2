@@ -2,10 +2,13 @@
 ==English==
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|ich|lang=enm}}, from {{etyl|ang|en}} {{term|iċ||I|pos=pronoun|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*ek||I|pos=pronoun}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*éǵh₂||I}}. See also {{l|en|ch-}}, {{l|en|I}}.
+From {{inh|en|enm|ich}}, from {{inh|en|ang|iċ||I|pos=pronoun}}, from {{inh|en|gem-pro|*ek||I|pos=pronoun}}, from {{inh|en|ine-pro|*éǵh₂||I}}. See also {{m|en|ch-}}, {{m|en|I}}.
 
 ====Alternative forms====
-* {{l|en|Iche}}, {{l|en|che}}, {{l|en|'ch-}}, {{l|en|ch-}}
+* {{l|en|Iche}}
+* {{l|en|che}}
+* {{l|en|'ch-}}
+* {{l|en|ch-}}
 
 ====Pronunciation====
 * {{IPA|/itʃ/|/ɪtʃ/|lang=en}}
@@ -63,7 +66,7 @@ The Northern dialectal form, ''ik'' (which derives from the same Old English roo
 * {{l|gsw|ig}} {{qualifier|Bern}}
 
 ===Etymology===
-{{etyl|gmh|gsw}} {{term|ich|lang=gmh}}.
+From {{der|gsw|gmh|ich}}.
 
 ===Pronunciation===
 * {{a|Zurich}} {{IPA|/ix/|/i/|lang=gsw}} {{i|unstressed}}, {{IPA|[ɪːx]|lang=gsw}} {{i|stressed}}
@@ -81,7 +84,7 @@ The Northern dialectal form, ''ik'' (which derives from the same Old English roo
 ==Crimean Gothic==
 
 ===Etymology===
-From {{etyl|gem-pro|gme-cgo}} {{m|gem-pro|*ik}}, from {{etyl|ine-pro|gme-cgo}} {{m|ine-pro|*éǵh₂}}.
+From {{inh|gme-cgo|gem-pro|*ik}}, from {{inh|gme-cgo|ine-pro|*éǵh₂}}.
 
 ===Pronoun===
 {{head|gme-cgo|pronoun}}
@@ -95,7 +98,7 @@ From {{etyl|gem-pro|gme-cgo}} {{m|gem-pro|*ik}}, from {{etyl|ine-pro|gme-cgo}} {
 ==German==
 
 ===Etymology===
-From {{etyl|gmh|de}} {{term|ich|lang=gmh}}, from {{etyl|goh|de}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*ek}}, {{m|gem-pro|*ik}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*éǵh₂}}.
+From {{inh|de|gmh|ich}}, from {{inh|de|goh|ih}}, from {{inh|de|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|de|ine-pro|*éǵh₂}}.
 
 ===Pronunciation===
 * {{IPA|/ɪç/|lang=de}}
@@ -122,10 +125,11 @@ In contemporary German, the genitive forms of personal pronouns are restricted t
 ==Limburgish==
 
 ===Alternative forms===
-* {{l|li|iech}}, {{l|li|ik}}
+* {{l|li|iech}}
+* {{l|li|ik}}
 
 ===Etymology===
-From {{etyl|goh|li}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|li}} {{m|gem-pro|*ek}}, {{m|gem-pro|*ik}}.
+From {{der|li|goh|ih}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
 
 ===Pronunciation===
 * {{a|most dialects}} {{IPA|[ɪx]|lang=li}}
@@ -188,24 +192,24 @@ From {{etyl|goh|li}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|li}} {{m|gem-pro|
 ==Middle English==
 
 ===Etymology===
-From {{etyl|ang|enm}} {{term|iċ||I|pos=pronoun|lang=ang}}, from {{etyl|gem-pro|enm}} {{m|gem-pro|*ek||I|pos=pronoun}}, from {{etyl|ine-pro|enm}} {{m|ine-pro|*egom||I}}, {{m|ine-pro|*éǵh₂}}.
+From {{inh|enm|ang|iċ||I|pos=pronoun}}, from {{inh|enm|gem-pro|*ek||I|pos=pronoun}}, from {{inh|enm|ine-pro|*egom||I}}, {{m|ine-pro|*éǵh₂}}.
 
 ===Pronoun===
 {{head|enm|pronoun}}
 
-# {{non-gloss definition|The Southern and sometimes Midland dialectic form of {{term|I|lang=enm}}, in Early English, corresponding to {{term|ik|lang=enm}} of the Northern dialect.}}
+# {{non-gloss definition|The Southern and sometimes Midland dialectic form of {{m|enm|I}}, in Early English, corresponding to {{m|enm|ik}} of the Northern dialect.}}
 
 ----
 
 ==Middle High German==
 
 ===Etymology===
-From {{etyl|goh|gmh}} {{term|ih|lang=goh}}, from {{etyl|gem-pro|gmh}} {{m|gem-pro|*ek}}, {{m|gem-pro|*ik}}.
+From {{inh|gmh|goh|ih}}, from {{inh|gmh|gem-pro|[[*ek]], [[*ik]]}}.
 
 ===Pronoun===
 {{head|gmh|pronoun}}
 
-# {{context|personal|lang=gmh}} {{l|en|I}}
+# {{context|personal|lang=gmh}} [[I]]
 
 ====Declension====
 {{gmh-decl-noun|ich|{{l|gmh|wir}}|{{l|gmh|mich}}|{{l|gmh|unsich}}, {{l|gmh|uns}}|{{l|gmh|mîn}}|{{l|gmh|unser}}|{{l|gmh|mir}}|{{l|gmh|uns}}}}
