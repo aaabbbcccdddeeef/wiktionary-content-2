@@ -18,12 +18,12 @@ From {{etyl|roa-oit|it}} {{m|roa-oit|essere}}, from {{etyl|VL.|it}} ''essere'', 
 ====Conjugation====
 * Note: The present participle ''essente'' is very rare, and is usually replaced with ''stante'', the present participle of [[stare]]. Similarly the past participle ''[[essuto]]'' has disappeared, with ''[[stato]]'', the past participle of [[stare]], being used instead. [http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&Query=essuto&lettera=E]
 
-{{it-conj
-|inf=essere|aux=essere
+{{it-conj-ere||essere
+|inf=essere|
 |ger=essendo|presp=essente|pastp=stato
 |pres1s=sono|pres2s=sei|pres3s=è|pres1p=siamo|pres2p=siete|pres3p=sono
 |imperf1s=ero|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
-|prem1s=fui|prem2s=fosti|prem3s=fu|prem1p=fummo|prem2p=foste||prem3p=furono
+|prem1s=fui|prem2s=fosti|prem3s=fu|prem3s2=-|prem1p=fummo|prem2p=foste||prem3p=furono|prem3p2=-
 |fut1s=sarò|fut2s=sarai|fut3s=sarà|fut1p=saremo|fut2p=sarete|fut3p=saranno
 |cond1s=sarei|cond2s=saresti|cond3s=sarebbe|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
 |sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=siano
