@@ -26,20 +26,35 @@
 {{ja-kanji|grade=c|rs=玉05}}
 
 ====Readings====
-* {{ja-readings|on=[[ちん]] (chin)|kun=[[めずらしい]] (mezurashii)}}
+{{ja-readings
+|goon=[[ちん]] (chin)
+|kanon=[[ちん]] (chin)
+|kun=[[うず]] (uzu), [[めずら]] (mezura), [[めずらしい]] ([[珍しい]], mezurashii)
+|nanori=[[たから]] (takara), [[じん]] (jin)
+}}
 
-===Adjectival noun===
+===Etymology===
+{{ja-kanjitab|yomi=o|ちん}}
+From {{etyl|ltc|ja|sort=ちん}} {{m|zh|珍|tr=trin||treasure, precious thing}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ちん|acc=1|acc_ref=DJR}}
+
+===Adjective===
 {{ja-adj|infl=na|ちん}}
 
 # [[rare]], [[strange]]
 
 ====Inflection====
-{{ja-na|珍|ちん}}
+{{ja-na|ちん}}
 
 ===Noun===
 {{ja-noun|ちん}}
 
 # [[rarity]]
+
+===References===
+<references/>
 
 ----
 
