@@ -836,22 +836,22 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|e||and}}, from {{etyl|la|pt}} {{m|la|et||an
 ====Conjunction====
 {{head|pt|conjunction}}
 
-# {{l|en|and}} {{gloss|connects two clauses without any special implication}}
+# {{senseid|pt|clause connector}} {{l|en|and}} {{gloss|connects two clauses without any special implication}}
 #: {{ux|pt|Eu vim '''e''' eles saíram.|I came '''and''' they left.}}
 #* {{RQ:Harry Potter|7|pt-BR|page=211}}
 #*: Mandaram lacrar todas as saídas '''e''' não deixar ninguém...
 #*:: They ordered me to seal all the exits and not to let anyone...
-# {{l|en|and}} {{gloss|connects the last and penultimate elements in a list}}
+# {{senseid|pt|final element connector}} {{l|en|and}} {{gloss|connects the last and penultimate elements in a list}}
 #: {{ux|pt|Eu '''e''' ele vamos embora.|He '''and''' I are going away.}}
 #: {{ux|pt|Tenho quatro frutas: uma maçã, uma pera, uma laranja '''e''' uma uva.|I have four fruits: an apple, a pear, an orange '''and''' a grape.}}
-# {{lb|pt|emphatic}} {{l|en|and}} {{gloss|connects every element of a list}}
+# {{senseid|pt|emphatic element connector}} {{lb|pt|emphatic}} {{l|en|and}} {{gloss|connects every element of a list}}
 #* {{RQ:Harry Potter|5|pt-BR|page=308}}
 #*: Você notou os cabelos dela, são negros '''e''' brilhantes '''e''' macios...
 #*:: You noticed her hair, it's dark and brilliant and soft...
 #: {{ux|pt|Ela é baixa, '''e''' burra, '''e''' preguiçosa, '''e''' feia.|She is short, '''and''' stupid, '''and''' lazy, '''and''' ugly.}}
-# {{lb|pt|logic}} {{l|en|and}} {{gloss|indicates a conjunction operation}}
+# {{senseid|pt|conjunction}} {{lb|pt|logic}} {{l|en|and}} {{gloss|indicates a conjunction operation}}
 #: {{ux|pt|Verdadeiro '''e''' falso dá falso.|True '''and''' false yields false.}}
-# {{lb|pt|in the format “X e X”}} {{l|en|and}} {{gloss|indicates a great number of something}}
+# {{senseid|pt|a great number of}} {{lb|pt|in the format “X e X”}} {{l|en|and}} {{gloss|indicates a great number of something}}
 #: {{ux|pt|Esperei por anos '''e''' anos.|I waited for years '''and''' years.}}
 
 =====Quotations=====
