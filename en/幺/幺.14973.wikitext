@@ -23,11 +23,13 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=么}}
+{{zh-forms|t2=么}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
-|m=yāo,yào
+|m=yāo,āo,2nb=variant
 |c=jiu1
 |h=pfs=yau
 |mn=au/io
@@ -35,26 +37,32 @@
 |mc=y
 |oc=y
 |ma=|ma2=
-|cat=a,n
+|cat=a,n,pn
 }}
 
 ====Adjective====
-{{zh-adj|s|sim=么|pin=yāo|pint=yao1|sort=幺00}}
+{{zh-adj}}
+
+# [[tiny]]; [[minute]]
+#: {{zh-usex|幺麼[麽]{mó}|small; minute}}
 # [[youngest]]
-#: [[老么]] informal manner of referring to the last (youngest) child in a family
+#: {{zh-usex|老幺|informal manner of referring to the last (youngest) child in a family}}
 
 ====Noun====
-{{zh-noun|s|sim=么|pin=yāo|pint=yao1|sort=幺00}}
+{{zh-noun}}
 
-# [[one]] (when spelling number on phone or in military)
-# [[ace]], [[one]] on [[dice]] or [[dominoes]]
+# [[one]] {{qualifier|an alternative way of saying the numeral, especially on the phone or in the military}}
+# [[ace]]; [[one]] on [[dice]] or [[dominoes]]
 
 ====Proper noun====
-{{zh-proper noun|s|sim=么|pin=yāo|pint=yao1|sort=幺00}}
+{{zh-proper noun}}
 
-# a [[Chinese]] [[surname]]
+# {{surname|lang=zh}}
 
-====References====
+===Etymology 2===
+{{zh-see|糸|v}}
+
+===References===
 * {{cite web
 |url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=幺
 |title=幺
