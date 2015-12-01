@@ -84,23 +84,26 @@
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=十11}}
-<div style="float:right;">
-[[Image:Yellow birch trunk.jpg|thumb]]
-</div>
 
 ====Readings====
 {{ja-readings
-|goon=[[かん]] (kan)|kanon=[[かん]] (kan)
-|kun=[[みき]] (miki), [[わざ]] (waza)
+|goon=[[かん]] (kan)
+|kanon=[[かん]] (kan)
+|kun=[[みき]] (miki), [[から]] (kara)
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|新幹線|しんかんせん}}: [[bullet train]]
 * {{ja-r|脳幹|のうかん}}: [[brain stem]]
+{{der-bottom}}
 
 ===Etymology===
+<div style="float:right;">
+[[Image:Yellow birch trunk.jpg|thumb|250px|{{lang|ja|幹}} (''miki''): a tree '''[[trunk]]'''.]]
+</div>
 {{ja-kanjitab|みき|yomi=k}}
-Originally a compound of {{compound|lang=ja|sort=みき|身|tr1=mi|t1=body|木|tr2=ki|t2=tree}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+Originally a compound of {{compound|lang=ja|sort=みき|身|tr1=mi|t1=body|木|tr2=ki|t2=tree}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|みき|acc=1|acc_ref=DJR}}
@@ -108,9 +111,9 @@ Originally a compound of {{compound|lang=ja|sort=みき|身|tr1=mi|t1=body|木|t
 ===Noun===
 {{ja-noun|みき}}
 
-# tree [[trunk]]
-# [[stalk]]
-# [[core]], [[trunk]], central portion
+# the [[trunk]] or [[core]] of something:
+## a tree [[trunk]]
+## a plant [[stalk]]
 
 ===References===
 <references/>
