@@ -24,17 +24,32 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手13}}
 
-# {{defn|lang=ja|sort=手13}}
-
 ====Readings====
-* {{ja-readings|on=[[きん]] (kin)|kun=[[とらえる]] (toraeru), [[とりこ]] (toriko)}}
+{{ja-readings
+|goon=[[ごん]] (gon), {{qualifier|historical}} [[ごむ]] (gomu)
+|kanon=[[きん]] (kin), {{qualifier|historical}} [[きむ]] (kimu)
+|kun=[[とらえる]] ([[擒える]], toraeru), [[とりこ]] (toriko)
+}}
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=とりこ|取り|tr1=tori|t1=taking, capturing|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|取る}} ''toru'', “to take, to capture”|子|tr2=ko|t2=child; small thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|とりこ|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|虜}}, {{ja-l|俘}}, {{ja-l|囚}}, {{ja-l|俘虜}}
 
 ===Noun===
-{{ja-noun|k|hira=とりこ|rom=toriko}}
+{{ja-noun|とりこ}}
+
 # [[prisoner]], [[captive]], [[slave]]
 
-====Alternative forms====
-* {{l|ja|虜}}
+====Usage notes====
+Also used [[metaphor]]ically, such as {{m|ja|恋}}{{m|ja|の}}{{m|ja|擒|tr=koi no toriko|lit=love's slave}}.
+
+===References===
+<references/>
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 擒]]
