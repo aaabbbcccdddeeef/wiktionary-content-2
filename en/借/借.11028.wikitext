@@ -54,11 +54,42 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=人08}}
 
-====Readings====
-* {{ja-readings|goon=[[しゃ]] (sha), [[しゃく]] (shaku)|kanon=[[しゃ]] (sha), [[せき]] (seki) {{non-joyo-reading}}|kun=[[かりる]] (kariru), [[かり]] (kari), [[たとい]] (tatoi)}}
+# to [[borrow]]
 
-====Derived terms====
-* {{l|ja|借りる|tr=[[かりる]], kariru}}
+====Readings====
+{{ja-readings
+|goon=[[しゃ]] (sha), [[しゃく]] (shaku)
+|kanon=[[しゃ]] (sha), [[せき]] (seki) {{non-joyo-reading}}
+|kun=[[かる]] ([[借る]], karu), [[かりる]] ([[借りる]], kariru), [[かり]] (kari)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|貸借|たいしゃく}}: [[debit]] and [[credit]]; a [[loan]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|か|o1=り}}
+Originally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of classical verb {{m|ja|借る|tr=karu||to borrow}}, now also the {{m|ja|連用形|tr=ren'yōkei}} of modern verb {{m|ja|借りる|tr=kariru||to borrow}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|かり|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|借り}} {{qualifier|more common in running text}}
+
+===Noun===
+{{ja-noun|かり}}
+
+# [[borrowing]], a [[debt]], a [[loan]] {{qualifier|for the borrower, not the lender}}
+# {{context|lang=ja|sort=かり|obsolete}} in the {{w|Edo period}}, a [[system]] for arranging [[house call]]s by [[prostitute]]s
+# {{context|lang=ja|sort=かり|accounting|abbreviation}} [[borrower]], [[debtor]]: short for {{m|ja|借り方|tr=karikata}}
+
+====Antonyms====
+{{sense|borrowing, debt}} {{m|ja|貸し|tr=kashi}}: [[lending]], a [[credit]], a [[loan]] {{qualifier|for the lender, not the borrower}}
+
+===References===
+<references/>
 
 ----
 
