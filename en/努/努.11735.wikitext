@@ -28,17 +28,27 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=力05}}
 
-# {{defn|lang=ja|sort=力05}}
+# [[work]], [[toil]]
 
 ====Readings====
-* {{ja-readings|on=[[ど]] (do)|kun=[[つとめる]] (tsutomeru), [[ゆめ]] (yume)}}
+{{ja-readings
+|goon=[[ぬ]] (nu) {{non-joyo-reading}}
+|kanon=[[ど]] (do)
+|kun=[[つとむ]] ([[努む]], tsutomu) {{qualifier|obsolete}}, [[つとめる]] ([[努める]], tsutomeru)
+|nanori=[[つとむ]] (tsutomu)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|つとむ}}
+[[nominalization|Nominalization]] of the classical Japanese verb {{m|ja|努む|tr=tsutomu}} (modern {{m|ja|努める|tr=tsutomeru||to work, to toil}}).
+
+===Pronunciation===
+{{ja-pron|yomi=k|つとむ}}
 
 ===Proper noun===
-{{ja-pos|k|proper|hira=つとむ|rom=Tsutomu}}
+{{ja-pos|proper|つとむ}}
 
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|つとむ]]
+# {{given name|lang=ja|sort=つとむ|male}}
 
 ----
 
