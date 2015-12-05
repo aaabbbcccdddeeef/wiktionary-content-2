@@ -33,25 +33,54 @@
 {{ja-kanji|grade=6|rs=木06}}
 
 ====Readings====
-* {{ja-readings|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)|kanyoon=[[しゅ]] (shu)|kun=[[かぶ]] (kabu)}}
+{{ja-readings|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)|kanyoon=[[しゅ]] (shu)|kun=[[かぶ]] (kabu)}}
 
+===Etymology 1===
 {{ja-kanjitab|かぶ|yomi=k}}
 
-===Noun===
-{{ja-noun|noun|かぶ}}
+====Pronunciation====
+{{ja-pron|yomi=k|かぶ|acc=0|acc_ref=DJR,NHK}}
 
+====Noun====
+{{ja-noun|かぶ}}
+
+# [[stump]] of a tree
 # [[stock]] (in a company)
 # [[share]](s) of stock
-# [[stump]] of a tree
 
-===Suffix===
+====Suffix====
 {{ja-pos|suffix|かぶ}}
 
 # Abbreviation for {{term|株式会社||stock company|tr=かぶしきかいしゃ, kabushiki kaisha|sc=Jpan|lang=ja}}; [[inc.]]
 
-====Coordinate terms====
-* {{term|社||[[co.]]|tr=しゃ, sha|lang=ja}}
-* {{term|有||[[Ltd.]]|tr=ゆう, yū|lang=ja}}
+=====Coordinate terms=====
+* {{m|ja|社||[[co.]]|tr=しゃ, sha}}
+* {{m|ja|有||[[Ltd.]]|tr=ゆう, yū}}
+
+===Etymology 2===
+{{ja-kanjitab|しゅ|yomi=kanyoon}}
+From {{etyl|ltc|ja|sort=しゅ}} {{m|zh|株|tr=trju}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|しゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しゅ}}
+
+# [[stump]] of a tree
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|岩株|がんしゅ}}
+* {{ja-r|雌雄異株|しゆういしゅ}}
+* {{ja-r|雌雄同株|しゆうどうしゅ}}
+* {{ja-r|雌雄別株|しゆうべっしゅ}}
+* {{ja-r|守株|しゅしゅ}}
+* {{ja-r|株を削り根を掘る|しゅ を けずり ね を ほる}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
