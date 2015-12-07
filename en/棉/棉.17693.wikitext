@@ -41,12 +41,20 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=木08}}
+{{ja-kanji|grade=uc|rs=木08}}
 
-# {{defn|lang=ja|sort=木08}}
+# [[cotton]]
+# [[batting]], [[stuffing]]
 
 ====Readings====
-* {{ja-readings|on=[[めん]] (men)|kun=[[わた]] (wata)}}
+{{ja-readings
+|goon=[[めん]] (men)
+|kanon=[[べん]] (ben)
+|kun=[[わた]] (wata)
+}}
+
+====Usage notes====
+This is a non-standard variant in Japanese for the character {{m|ja|綿}}.  Note the difference in [[radical]]: {{lang|ja|棉}} has the {{m|ja|木}} or {{m|en|tree}} radical, while {{m|ja|綿}} as the {{m|ja|糸}} or {{m|en|thread}} radical.
 
 ----
 
