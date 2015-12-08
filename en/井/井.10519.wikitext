@@ -56,29 +56,52 @@
 # [[well]]
 
 ====Readings====
-* {{ja-readings|kanon=[[せい]] ([[sei]])|goon=[[しょう]] ([[shō]])|kun=[[い]] ([[i]]), [[いど]] ([[ido]]), [[ゐ]] ([[wi]], ''outdated'')}}
+{{ja-readings|goon=[[しょう]] (shō)|kanon=[[せい]] (sei)|kun=[[い]] (i), [[いど]] (ido)}}
 
 ====Compounds====
-* [[井堰]]
-* [[井桁]]
-* [[井戸]]
-* [[井綱]]
-* [[井守]]
-* [[井泉]]
-* [[井底]]
-* [[井筒]]
-* [[井目]]
+{{der-top|Compounds}}
+* {{ja-r|井桁|いけだ}}: [[well]] [[curb]]
+* {{ja-r|井堰|いせき}}
+* {{ja-r|井戸|いど}}: [[well]]
+* {{ja-r|井筒|いづつ}}
+* {{ja-r|井綱|いづな}}
+* {{ja-r|井守|いもり}}: [[salamander]], [[newt]]
+* {{ja-r|井泉|せいせん}}: [[well]], [[well]] [[water]]
+* {{ja-r|井底|せいてい}}: [[bottom]] of a [[well]]
+* {{ja-r|井目|せいもく}}
+* {{ja-r|油井|ゆせい}}: [[oil well]]
+{{der-bottom}}
 
-===Etymology===
+===Etymology 1===
+{{ja-kanjitab|い|yomi=k}}
 wi > i.
 
-===Noun===
+====Pronunciation====
+{{ja-pron|yomi=k|い|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|い|hhira=ゐ}}
 
-# a [[well]]
+# [[well]]
 
-====Derived terms====
-* [[井の中の蛙大海を知らず]]
+=====Derived terms=====
+* {{ja-r|井の中の蛙大海を知らず|い の なか の かわず たいかい を しらず}}: metaphor of a narrow world view based on limited experience (literally, "a frog in a well does not know the great ocean")
+
+===Etymology 2===
+{{ja-kanjitab|せい|yomi=o}}
+From {{etyl|ltc|ja|sort=せい}} {{m|zh|井|tr=tsjeng<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せい}}
+
+# [[well]], [[well]] [[curb]]
+# [[w:Well (Chinese constellation)|Well (Chinese constellation)]]
+
+===References===
+<references/>
 
 ----
 
