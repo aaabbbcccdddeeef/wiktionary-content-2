@@ -106,8 +106,8 @@ From {{etyl|fr|ht}} {{term|sang||blood|lang=fr}}
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|[sˠənˠ]|lang=ga}} {{qualifier|before ''a'', ''o'', ''u'', ''fha'', ''fho'', ''fhu''}}
-* {{IPA|[sˠənʲ]|lang=ga}} {{qualifier|before ''e'', ''i'', ''fhe'', ''fhi''}}
+* {{IPA|/sˠənˠ/|lang=ga}} {{qualifier|before ''a'', ''o'', ''u'', ''fha'', ''fho'', ''fhu''}}
+* {{IPA|/sˠənʲ/|lang=ga}} {{qualifier|before ''e'', ''i'', ''fhe'', ''fhi''}}
 
 ===Contraction===
 {{head|ga|contraction}}
@@ -116,12 +116,11 @@ From {{etyl|fr|ht}} {{term|sang||blood|lang=fr}}
 
 ====Usage notes====
 Used before vowel sounds and ''f'' (which [[Appendix:Irish mutations#Lenition|lenites]]):
-* ''san [[amhrán]]'' – "in the song"
-* ''san [[focal|fhocal]]'' – "in the word"
+* {{ux|ga|san amhrán|in the song}}
+* {{ux|ga|san fhocal|in the word}}
 
 ====Related terms====
-* [[sa#Irish|sa]] {{qualifier|used before consonant sounds}}
-* [[sna]] {{qualifier|plural}}
+{{ga-preposition contractions}}
 
 ----
 
