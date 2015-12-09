@@ -79,24 +79,39 @@ From {{etyl|non|da}} {{m|non|hlemmr}}.
 
 ==Old Irish==
 
-===Etymology===
-Ultimately from {{etyl|ine-pro|sga}} {{m|ine-pro|*el||brown, red}}; compare Latin {{m|la|ulmus}}.
+===Pronunciation===
+* {{IPA|/l͈ʲeṽ/|lang=sga}}
 
-===Noun===
+===Etymology 1===
+From {{inh|sga|cel-pro|[[*lēmos]], [[*limos]]}} (compare Welsh {{m|cy|llwyf}}), from {{inh|sga|ine-pro|*h₁élem||mountain elm}}; compare Latin {{m|la|ulmus}}.
+
+====Noun====
 {{head|sga|noun|g=m}}
 
 # [[elm]] tree
 
-====Synonyms====
+=====Synonyms=====
 * {{l|sga|lemán}}
 
-===Adjective===
+===Etymology 2===
+
+====Adjective====
 {{head|sga|adjective}}
 
 # [[soft]], [[tender]]
 # [[weak]], [[powerless]]
-# {{qualifier|in sexual sense}} [[impotent]]
+# [[impotent]] {{gloss|in sexual sense}}
 # [[foolish]], [[worthless]]
+
+====Descendants====
+* Irish: {{l|ga|leamh}}
+
+===Mutation===
+{{sga-mutation|l|em}}
+
+===References===
+* {{R:DIL|29870|head=1 lem (‘elm tree’)}}
+* {{R:DIL|29871|head=2 lem (‘soft’)}}
 
 ----
 
