@@ -74,34 +74,81 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 * {{ja-readings
 |goon=[[つう]] (tsū) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 |kanon=[[とう]] (tō)
-|kun=[[ひがし]] (higashi)
-|nanori=[[あい]] (ai), [[あがり]] (agari), [[あずま]] (azuma), [[あづま]] (adzuma), [[こ]] (ko), [[さき]] (saki), [[しの]] (shino), [[とお]] (tō), [[はじめ]] (hajime), [[はる]] (haru), [[ひが]] (higa), [[もと]] (moto)}}
-
-====Compounds====
-{{der3
-|{{l|ja|東方|tr=tōhō||eastern direction}}|{{l|ja|東南|tr=tōnan||southeast}}|{{l|ja|東亜|tr=tōa||East Asia}}|{{l|ja|東洋|tr=tōyō||Orient}}|{{l|ja|東部|tr=tōbu||eastern part}}|{{l|ja|東西南北|tr=tōzainanboku||east, west, south, and north}}|{{l|ja|関東|tr=kantō||Kanto}}|{{l|ja|東風|tr=kochi||a spring wind that blows from the east}}|{{l|ja|中東|tr=chūtō||Middle East}}|{{l|ja|東京|tr=tōkyō||Tokyo}}|{{l|ja|東上|tr=tōjō||going to Tokyo}}|{{l|ja|東名高速道路|tr=tōmei kōsokudōro||Tokyo-Nagoya Expressway}}|{{l|ja|東側|tr=higashigawa||east side}}|{{l|ja|東口|tr=higashiguchi||east entrance}}|{{l|ja|東半球|tr=higashihankyū||Eastern Hemisphere}}|{{l|ja|東方|tr=tōhō||Touhou Project}}
+|kun=[[あずま]] (azuma), [[ひむかし]] (himukashi), [[ひんがし]] (hingashi), [[ひがし]] (higashi)
+|nanori=[[あい]] (ai), [[あがり]] (agari), [[こ]] (ko), [[さき]] (saki), [[しの]] (shino), [[はじめ]] (hajime), [[はる]] (haru), [[ひが]] (higa), [[もと]] (moto)
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|東方|とうほう}}: eastern direction
+* {{ja-r|東南|とうなん}}: southeast
+* {{ja-r|東亜|^とうあ}}: East Asia
+* {{ja-r|東洋|とうよう}}: Orient
+* {{ja-r|東部|とうぶ}}: eastern part
+* {{ja-r|東西南北|とうざいなんぼく}}: east, west, south, and north
+* {{ja-r|関東|^かんとう}}: Kanto
+* {{ja-r|東風|とうふう}}: a spring wind that blows from the east
+* {{ja-r|中東|^ちゅうとう}}: Middle East
+* {{ja-r|東京|^とうきょう}}: Tokyo
+* {{ja-r|東上|とうじょう}}: going to Tokyo
+* {{ja-r|東名高速道路|とうめい こうそく どうろ}}: Tokyo-Nagoya Expressway
+* {{ja-r|東側|ひがしがわ}}: east side
+* {{ja-r|東口|ひがしぐち}}: east entrance
+* {{ja-r|東半球|ひがし はんきゅう}}: Eastern Hemisphere
+{{der-bottom}}
+
 ===Etymology 1===
-/himukasi/: *pimukasi > ɸimukasi > himukashi. Compound of {{compound|日|tr1=hi|t1=sun|向か|tr2=muka|t2=facing, direction|風|tr3=shi|t3=wind, direction|lang=ja}}. Literally "the direction facing the sun".
+{{ja-kanjitab|yomi=o|とう}}
+From {{etyl|ltc|ja|sort=とう}} {{m|zh|東|tr=tuwng||east}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|とう}}
+
+====Proper noun====
+{{ja-pos|proper|とう}}
+
+# {{surname|lang=ja|sort=とう}}
+# {{abbreviation of|lang=ja|sort=とう|nodot=1|関東|tr=Kantō}}: the Kantō region
+# {{abbreviation of|lang=ja|sort=とう|nodot=1|東国|tr=Tōgoku}}: eastern Japan
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ひむかし}}
+{{IPAchar|*/pimukasi/}} → {{IPAchar|/fimukaɕi}} → {{IPAchar|/himukaɕi/}}
+
+From {{etyl|ojp|ja|sort=ひむかし}}.  Compound of {{compound|lang=ja|sort=ひむかし|日|tr1=hi|t1=sun|向か|tr2=muka|t2=facing, direction|風|tr3=shi|t3=wind, direction}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひむかし}}
 
 ====Noun====
 {{ja-noun|ひむかし}}
 
-# [[east]]
+# {{context|lang=ja|sort=ひむかし|obsolete}} [[east]]
 
-===Etymology 2===
-* pingasi > ɸingasi > hingashi. From earlier '''/himukasi/''': *pimukasi > ɸimkasi > ɸimgasi > ɸigasi > higasi.
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ひんがし}}
+{{IPAchar|/pimukasi/}} → {{IPAchar|/pimugasi/}} → {{IPAchar|/fimugaɕi/}} → {{IPAchar|/fingaɕi/}} → {{IPAchar|/hingaɕi/}}
+
+Sound shift from earlier ''pimukasi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひんがし}}
 
 ====Noun====
 {{ja-noun|ひんがし}}
 
-# east
+# # {{context|lang=ja|sort=ひむかし|obsolete}} [[east]]
 #* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 4, page 82)
 #*: むかし、'''東（ひんがし）'''の五条に大后の宮おはしましける、西の対に住む人有けり。
 
-===Etymology 3===
-From hingashi, from himukashi.
+===Etymology 4===
+{{ja-kanjitab|yomi=k|ひがし}}
+{{IPAchar|/hingaɕi/}} → {{IPAchar|/higaɕi/}}
+
+Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひがし|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ひがし}}
@@ -111,10 +158,16 @@ From hingashi, from himukashi.
 ====Proper noun====
 {{ja-pos|ひがし|proper}}
 
-# {{surname|lang=ja}}
+# {{surname|lang=ja|sort=ひがし}}
 
-===Etymology 4===
-aduma > azuma.
+===Etymology 5===
+{{ja-kanjitab|yomi=k|あずま}}
+{{IPAchar|/aduma/}} → {{IPAchar|/ad͡zuma/}} → {{IPAchar|/azuma/}}
+
+From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|明日|tr=asu||tomorrow|pos=in reference to the rising of the sun}} + {{m|ja|間|tr=ma||space, area}}, but the voicing of the ''s'' in ''asu'' does not follow normal patterns.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
@@ -127,7 +180,9 @@ aduma > azuma.
 # {{given name|male|lang=ja|sort=あずま}}
 # {{surname|lang=ja|sort=あずま}}
 
-* {{reference-book
+===References===
+<references/>
+:* {{reference-book
 |last=Horiuchi
 |first=Hideaki
 |coauthors=Ken Akiyama
