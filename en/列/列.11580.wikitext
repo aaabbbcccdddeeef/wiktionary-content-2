@@ -33,19 +33,27 @@
 {{ja-kanji|grade=3|rs=刀04}}
 
 ====Readings====
-* {{ja-readings|goon=[[れち]] (rechi)|kanon=[[れつ]] (retsu)|on=[[れい]] (rei)|kun=[[つらねる]] (tsuraneru)}}
+{{ja-readings|goon=[[れち]] (rechi)|kanon=[[れつ]] (retsu)|kun=[[つらねる]] (tsuraneru)}}
 
 ====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|配列|はいれつ}}
+* {{ja-r|列島|れっとう}}
+{{der-bottom}}
+
 {{ja-kanjitab|れつ|yomi=o}}
-* {{ja-r|列島|れっとう|rettō}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|れつ|acc=1|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|れつ}}
 
 # [[line]], [[row]]
-# {{context|mathematics|lang=ja}} a [[column]] of a [[matrix]]
+# {{context|mathematics|lang=ja|sort=れつ}} a [[column]] of a [[matrix]]
 
-[[Category:ja:Mathematics|れつ]]
+===References===
+<references/>
 
 ----
 
