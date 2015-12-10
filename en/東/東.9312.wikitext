@@ -71,7 +71,7 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 # [[east]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[つう]] (tsū) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 |kanon=[[とう]] (tō)
 |kun=[[あずま]] (azuma), [[ひむかし]] (himukashi), [[ひんがし]] (hingashi), [[ひがし]] (higashi)
@@ -148,7 +148,7 @@ Sound shift from earlier ''pimukasi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</re
 Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ひがし|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+{{ja-pron|yomi=k|ひがし|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ひがし}}
@@ -167,7 +167,7 @@ Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.
 From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|天|tr=ama||sky, heavens}} + {{m|ja|端|tr=tsuma||edge, beginning}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
@@ -194,7 +194,6 @@ From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 }}
 
 [[Category:1000 Japanese basic words|ひがし]]
-[[Category:Japanese surnames|ひがし]]
 
 ----
 
