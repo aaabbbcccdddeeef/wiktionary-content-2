@@ -62,25 +62,39 @@
 {{ja-kanji|grade=3|rs=入04}}
 
 ====Readings====
-* {{ja-readings|on=[[ぜん]] (zen), [[せん]] (sen)|kun=[[まったく]] (mattaku), [[まったい]] (mattai), [[まっとうする]] (mattousuru)}}
+{{ja-readings
+|goon=[[ぜん]] (zen)
+|kanon=[[せん]] (sen) {{non-joyo-reading}}
+|kun=[[すべて]] ([[全て]], subete), [[まったく]] ([[全く]], mattaku), [[まったい]] ([[全い]], mattai), [[まっとう]] ([[全う]], mattou)
+}}
 
 ====Compounds====
-* [[全て]]
-* [[全部]]
-* [[全然]]
+{{der-top|Compounds}}
+* {{ja-r|全員|ぜんいん}}: [[all]] [[member]]s, all [[employee]]s
+* {{ja-r|全音|ぜんおん}}: a [[whole tone]]
+* {{ja-r|全部|ぜんぶ}}: [[altogether]]; [[everything]]
+* {{ja-r|全然|ぜんぜん}}: [[completely]] (not) {{qualifier|followed by a negative verb}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=o|ぜん}}
+From {{etyl|ltc|ja|sort=せん'}} {{m|zh|全|tr=dzjwen||complete, whole}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR}}
 
 ===Noun===
-{{ja-noun|k|hira=ぜん|rom=zen|hidx=せん'}}
+{{ja-noun|ぜん}}
 
 # [[entire]], [[complete]], [[overall]]
 
 ===Prefix===
-{{ja-pos|k|prefix|hira=ぜん|rom=zen-|hidx=せん'}}
+{{ja-pos|prefix|ぜん}}
 
 # [[all]], [[pan-]], [[omni-]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 全]]
+===References===
+<references/>
 
 ----
 
