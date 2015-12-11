@@ -2,6 +2,7 @@
 
 ===Adjective===
 {{head|bi|adjective}}
+
 # {{l|en|free}}; {{l|en|independent}}
 
 ----
@@ -9,7 +10,7 @@
 ==Breton==
 
 ===Etymology===
-Cognate with Cornish {{m|kw|frig||nostril}}; perhaps related to {{etyl|cel-pro|br}} {{m|cel-pro|*srognā}} (compare Welsh {{m|cy|ffroen||nostril}}, Old Irish {{m|sga|srón||nose}}).
+Cognate with Cornish {{m|kw|frig||nostril}}; perhaps related to {{der|br|cel-pro|*srognā}} (compare Welsh {{m|cy|ffroen||nostril}}, Old Irish {{m|sga|srón||nose}}).
 
 ===Pronunciation===
 * {{IPA|/ˈfriː/|lang=br}}
@@ -17,7 +18,7 @@ Cognate with Cornish {{m|kw|frig||nostril}}; perhaps related to {{etyl|cel-pro|b
 ===Noun===
 {{br-noun|m|frioù}}
 
-# {{context|anatomy|lang=br}} [[nose]]
+# {{lb|br|anatomy}} [[nose]]
 
 ----
 
@@ -90,27 +91,26 @@ From {{etyl|gml|nb}} {{m|gml|vrī}}. Cognates include Danish {{m|da|fri}}, Swedi
 #: {{ux|nb|'''fri''' inngang|free admission|inline=1}}
 
 ====Derived terms====
-{{top2}}
-* {{l|nb|alkoholfri}}
-* {{l|nb|blyfri}}
-* {{l|nb|frifinne}}
-* {{l|nb|frigi}}
-* {{l|nb|frigjøre}}
-* {{l|nb|frikjenne}}
-* {{l|nb|frikoble}}
-* {{l|nb|frimerke}}
-* {{l|nb|friminutt}}
-{{mid2}}
-* {{l|nb|frispark}}
-* {{l|nb|gjestfri}}
-* {{l|nb|isfri}}
-* {{l|nb|luktfri}}
-* {{l|nb|skyfri}}
-* {{l|nb|snøfri}}
-* {{l|nb|sukkerfri}}
-* {{l|nb|tollfri}}
-* {{l|nb|vedlikeholdsfri}}
-{{bottom}}
+{{der3
+|{{l|nb|alkoholfri}}
+|{{l|nb|blyfri}}
+|{{l|nb|frifinne}}
+|{{l|nb|frigi}}
+|{{l|nb|frigjøre}}
+|{{l|nb|frikjenne}}
+|{{l|nb|frikoble}}
+|{{l|nb|frimerke}}
+|{{l|nb|friminutt}}
+|{{l|nb|frispark}}
+|{{l|nb|gjestfri}}
+|{{l|nb|isfri}}
+|{{l|nb|luktfri}}
+|{{l|nb|skyfri}}
+|{{l|nb|snøfri}}
+|{{l|nb|sukkerfri}}
+|{{l|nb|tollfri}}
+|{{l|nb|vedlikeholdsfri}}
+}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -120,7 +120,7 @@ From {{etyl|gml|nb}} {{m|gml|vrī}}. Cognates include Danish {{m|da|fri}}, Swedi
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|gml|nn}} {{m|gml|vrī}}
+From {{der|nn|gml|vrī}}
 
 ===Adjective===
 {{head|nn|adjective|neuter singular|fritt|definite singular and plural|frie|comparative|friare|indefinite superlative|friast|definite superlative|friaste}}
@@ -133,20 +133,19 @@ From {{etyl|gml|nn}} {{m|gml|vrī}}
 #: {{ux|no|'''fri''' inngang|free admission|inline=1}}
 
 ====Derived terms====
-{{top2}}
-* {{l|nn|alkoholfri}}
-* {{l|nn|frimerke}}
-* {{l|nn|friminutt}}
-* {{l|nn|frispark}}
-* {{l|nn|gjestfri}}
-* {{l|nn|isfri}}
-{{mid2}}
-* {{l|nn|luktfri}}
-* {{l|nn|skyfri}}
-* {{l|nn|snøfri}}
-* {{l|nn|sukkerfri}}
-* {{l|nn|tollfri}}
-{{bottom}}
+{{der3
+|{{l|nn|alkoholfri}}
+|{{l|nn|frimerke}}
+|{{l|nn|friminutt}}
+|{{l|nn|frispark}}
+|{{l|nn|gjestfri}}
+|{{l|nn|isfri}}
+|{{l|nn|luktfri}}
+|{{l|nn|skyfri}}
+|{{l|nn|snøfri}}
+|{{l|nn|sukkerfri}}
+|{{l|nn|tollfri}}
+}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -186,15 +185,14 @@ From {{inh|goh|gem-pro|*frijaz}}, whence also Old Saxon {{m|osx|frī}}, Old Engl
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*writ-}} (compare Welsh {{m|cy|wrth}}), from {{etyl|ine-pro|sga}} {{m|ine-pro|*wert-||to turn}} (compare Latin {{m|la|versus||against}}).
+From {{inh|sga|cel-pro|*writ-}} (compare Welsh {{m|cy|wrth}}), from {{der|sga|ine-pro|*wert-||to turn}} (compare Latin {{m|la|versus||against}}).
 
 ===Preposition===
 {{head|sga|preposition}}
 
 # [[towards]], [[to]]
 #* {{RQ:sga-gloss|Wb|16|d|8}}
-#*: {{lang|sga|Bíuu-sa oc irbáig dar far cenn-si '''fri''' Maccidóndu.}}
-#*:: I am boasting about you to the Macedonians.
+#*: {{ux|sga|Bíuu-sa oc irbáig dar far cenn-si '''fri''' Maccidóndu.|I am boasting about you to the Macedonians.}}
 # [[against]]
 # [[with]]
 
@@ -247,7 +245,7 @@ From {{inh|osx|gem-pro|*frijaz}}, whence also Old English {{m|ang|frēo}}. Ultim
 ===Preposition===
 {{sco-prep}}
 
-# {{context|South Scots|lang=sco}} [[from]]
+# {{lb|sco|South Scots}} [[from]]
 
 ===See also===
 * {{l|sco|frae}}
@@ -259,7 +257,7 @@ From {{inh|osx|gem-pro|*frijaz}}, whence also Old English {{m|ang|frēo}}. Ultim
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gml|sv}} {{m|gml|vri}}, from {{etyl|osx|sv}} {{m|osx|frī}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*frijaz}}.
+From {{der|sv|gml|vri}}, from {{der|sv|osx|frī}}, from {{der|sv|gem-pro|*frijaz}}.
 
 ===Pronunciation===
 * {{audio|Sv-fri.ogg|audio|lang=sv}}
