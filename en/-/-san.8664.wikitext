@@ -30,32 +30,33 @@ From {{etyl|ja|en}} {{term|さん||tr=san|lang=ja}}
 ==Irish==
 
 ===Alternative forms===
-* {{l|ga|-sean}} {{qualifier|slender form}}
+* {{l|ga|-sean}} {{qualifier|used after palatalized consonants and front vowels}}
 
 ===Pronunciation===
-* {{IPA|[sˠən̪ˠ]|lang=ga}}
+* {{IPA|/sˠənˠ/|lang=ga}}
 
 ===Suffix===
 {{head|ga|suffix}}
 
-# [[-self]] {{qualifier|emphatic}}
+# {{n-g|emphatic suffix of the third-person singular masculine; used after velarized consonants and back vowels}}
+# {{n-g|emphatic suffix of the third-person plural; used after velarized consonants and back vowels}}
 
 ====Usage notes====
-* Added to [[noun|nouns]] in the presence of the [[possessive adjective]] to emphasize the possessor rather than the thing possessed:
-*: ''{{l|ga|a}} {{l|ga|carr|gcarr}}'''san''''' -- '''''[[their]]''' [[car]]''
-*: ''{{l|ga|a}} {{l|ga|madra|madra}}'''san''''' -- '''''[[their]]''' [[dog]]''
-* Added to [[prepositional pronoun|prepositional pronouns]] (ending in a broad consonant) to add emphasis ('''''not''''' to create a reflexive pronoun):
-** Used with [[third-person plural]] (except with slender forms such as {{l|ga|dóibh}}; e.g., {{l|ga|acusan}}, {{l|ga|orthusan}}, etc.).
-* Added to [[verb|verbs]] to indicate "[[themselves]]":
-*: ''{{l|ga|clois|chualadar}}'''san''' -- '''''[[they]] ([[themselves]])''' [[hear|heard]]'' {{qualifier|Munster Irish only|lang=ga}}
+* Added to [[noun]]s (or [[adjective]]s modifying a noun) in the presence of the [[possessive adjective]] to emphasize the possessor rather than the thing possessed:
+*: {{ux|ga|a mhadra'''san'''|''his'' dog|inline=1}}
+*: {{ux|ga|a gcarr dearg'''san'''|''their'' red car|inline=1}}
+* Added to [[pronoun]]s (both simple and prepositional) to add emphasis (''not'' to create a reflexive pronoun):
+*: {{ux|ga|air'''sean'''|on ''him''|inline=1}}
+*: {{ux|ga|siad'''san''', iad'''san'''|''they'', ''them''|inline=1}}
+* Added to synthetic [[verb]] forms to add emphasis to the subject (third-person plural only as there are no third-person singular synthetic forms):
+*: {{ux|ga|chualadar'''san'''|''they'' heard|inline=1}}
+
+====Derived terms====
+{{suffixsee|ga}}
 
 ====Related terms====
-* {{l|ga|-na}}
+* {{l|ga|-ne}}
 * {{l|ga|-sa}}
-
-====See also====
-* {{l|ga|féin}}
-* {{l|ga|iadsan}}, {{l|ga|siadsan}}
 
 ----
 
