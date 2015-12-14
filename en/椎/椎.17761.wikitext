@@ -40,19 +40,31 @@
 # {{defn|lang=ja|sort=木08}}
 
 ====Readings====
-* {{ja-readings|goon=[[すい]] (sui), [[ずい]] (zui)|kanon=[[すい]] (sui), [[つい]] (tsui)|kun=[[つち]] (tsuchi), [[うつ]] (utsu), [[しい]] (shii)}}
-
-{{ja-kanjitab|しい|yomi=k}}
-
-===Noun===
-{{ja-noun|しい}}
-
-# The {{vern|shii tree}} or {{vern|Japanese chinquapin}} ({{taxlink|Castanopsis cuspidata|species|noshow=1}})
+{{ja-readings|goon=[[すい]] (sui), [[ずい]] (zui)|kanon=[[すい]] (sui), [[つい]] (tsui)|kun=[[つち]] (tsuchi), [[うつ]] (utsu), [[しい]] (shii)}}
 
 ====Compounds====
-* [[椎間板]]
-* [[椎骨]]
-* [[椎茸]]
+{{der-top|Compounds}}
+* {{ja-r|椎茸|しいたけ}}: [[shiitake]]
+* {{ja-r|椎間板|ついかんばん}}: [[intervertebral disc]]
+* {{ja-r|椎骨|ついこつ}}: [[vertebra]]
+* {{ja-r|円椎|つぶらじい}}: [[shii tree]]
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しい|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|しい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|しい|hhira=しひ}}
+
+# any tree of the genus {{taxlink|Castanopsis|genus}}
+
+===References===
+<references/>
+
+[[Category:ja:Beech family plants|しい]]
 
 ----
 
