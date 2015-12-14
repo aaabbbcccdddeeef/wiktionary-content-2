@@ -1,7 +1,7 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=75|rad=木|as=10|sn=14|four=41947|canj=DMUE}}
+{{Han char|rn=75|rad=木|as=10|sn=14|four=41947|canj=DMUE|ids=⿰木夏}}
 
 # small evergreen shrub
 
@@ -39,12 +39,47 @@
 {{ja-kanji|grade=|rs=木10}}
 
 ====Readings====
-* {{ja-readings|on=[[か]] (ka)|kun=[[えのき]] (enoki)}}
+{{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[え]] (e), [[えのき]] (enoki)}}
 
-===Noun===
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|榎草|えのきぐさ}}
+* {{ja-r|榎茸|えのきたけ}}: [[enokitake]]
+* {{ja-r|榎寺|えのきでら}}
+* {{ja-r|榎の実|えのみ}}
+* {{ja-r|榎本|^えのもと}}: ''A [[surname]].''
+* {{ja-r|椋榎|むくえのき}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|え|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|え}}
+
+====Noun====
+{{ja-noun|え}}
+
+# [[Chinese hackberry]]
+
+===Etymology 2===
+{{ja-kanjitab|えのき|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|えのき|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|朴}}
+
+====Noun====
 {{ja-noun|えのき|エノキ}}
 
-# {{ja-def|エノキ}} [[Japanese hackberry]]
+# [[Chinese hackberry]]
+
+===References===
+<references/>
 
 [[Category:ja:Trees|えのき]]
 
