@@ -112,50 +112,49 @@
 {{ja-kanji|grade=1|rs=田02}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[なん]] (nan)
 |kanon=[[だん]] (dan)
 |kun=[[おとこ]] (otoko), [[お]] (o)}}
 
 ====Compounds====
-{{der-top}}
-{{top2}}
-* [[男親]] (おとこおや, otokooya) [[male]] [[parent]]
-* [[男神]] (おとこがみ, otokogami) [[masculine]] [[god]]
-* [[男側]] (おとこがわ, otokogawa) [[man's side]]
-* [[男気]] (おとこぎ, otokogi) [[chivalrous]] [[spirit]]
-* [[男心]] (おとこごころ, otokogokoro) [[male]] [[mind]]
-* [[男言葉]] (おとこことば, otokokotoba) [[male]] [[language]]
-* [[男坂]] (おとこざか, otokozaka) [[steep]] [[slope]]
-* [[男手]] (おとこで, otokode) [[male]] [[worker]]
-* [[男友達]] (おとこともだち, otokotomodachi) [[boyfriend]], [[male]] [[friend]]
-* [[男の子]] (おとこのこ, otoko no ko) [[boy]]
-* [[男の人]] (おとこのひと, otoko no hito) [[adult]] [[man]]
-* [[男役]] (おとこやく, otokoyaku) [[role of man]]
-* [[男山]] (おとこやま, otokoyama) [[steep]] [[mountain]]
-* [[男湯]] (おとこゆ, otokoyu) [[bathing room for men]]
-{{mid2}}
-* [[男系]] (だんけい, dankei) [[male-succession]]
-* [[男根]] (だんこん, dankon) [[male]] [[genital]]
-* [[男子]] (だんし, danshi) [[boy]]
-* [[男児]] (だんじ, danji) [[infant]] [[boy]]
-* [[男娼]] (だんしょう, danshō) [[male]] [[prostitute]]
-* [[男爵]] (だんしゃく, danshaku) [[baron]]
-* [[男女]] (だんじょ, danjo) man and woman
-* [[男色]] (だんしょく, danshoku) [[homosexual]]
-* [[男性]] (だんせい, dansei) [[man]]
-* [[男声]] (だんせい, dansei) [[male]] [[voice]]
-* [[男装]] (だんそう, dansō) [[male]] [[costume]]
-* [[男尊女卑]] (だんそんじょひ, dansonjohi) [[male-dominant]]
-* [[男優]] (だんゆう, dan'yū) [[actor]]
-{{bottom}}
+{{der-top|Compounds}}
+* {{ja-r|男親|おとこ.おや}}: [[male]] [[parent]]
+* {{ja-r|男神|おとこがみ}}: [[masculine]] [[god]]
+* {{ja-r|男側|おとこがわ}}: [[man's side]]
+* {{ja-r|男気|おとこぎ}}: [[chivalrous]] [[spirit]]
+* {{ja-r|男心|おとこごころ}}: [[male]] [[mind]]
+* {{ja-r|男言葉|おとこことば}}: [[male]] [[language]]
+* {{ja-r|男坂|おとこざか}}: [[steep]] [[slope]]
+* {{ja-r|男手|おとこで}}: [[male]] [[worker]]
+* {{ja-r|男友達|おとこともだち}}: [[boyfriend]], [[male]] [[friend]]
+* {{ja-r|男の子|おとこ の こ}}: [[boy]]
+* {{ja-r|男の人|おとこ の ひと}}: [[adult]] [[man]]
+* {{ja-r|男役|おとこやく}}: [[role of man]]
+* {{ja-r|男山|おとこやま}}: [[steep]] [[mountain]]
+* {{ja-r|男湯|おとこゆ}}: [[bathing room for men]]
+{{der-mid}}
+* {{ja-r|男系|だんけい}}: [[male-succession]]
+* {{ja-r|男根|だんこん}}, {{ja-r|男根|なんこん}}: [[penis]]
+* {{ja-r|男子|だんし}}: [[boy]]
+* {{ja-r|男児|だんじ}}: [[infant]] [[boy]]
+* {{ja-r|男娼|だんしょう}}: [[male]] [[prostitute]]
+* {{ja-r|男爵|だんしゃく}}: [[baron]]
+* {{ja-r|男女|だんじょ}}: man and woman
+* {{ja-r|男色|だんしょく}}: [[homosexual]]
+* {{ja-r|男性|だんせい}}: [[man]]
+* {{ja-r|男声|だんせい}}: [[male]] [[voice]]
+* {{ja-r|男装|だんそう}}: [[male]] [[costume]]
+* {{ja-r|男尊女卑|だんそんじょひ}}: [[male-dominant]]
+* {{ja-r|男優|だんゆう}}: [[actor]]
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|おとこ|yomi=k}}
 /woto<small>2</small>ko<small>1</small>/: [wotwoko] → [wotoko] → [otoko]. Cognate with the verb [[おつ|wot-]] "to become young" with [[子|ko]] as a male suffix. Contrasts with [[乙女|otome]], the female version.
 
 ====Pronunciation====
-{{ja-pron|おとこ|acc=3|yomi=kun|acc_ref=NHK}}
+{{ja-pron|yomi=k|おとこ|acc=3|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|おとこ|hhira=をとこ}}
@@ -163,7 +162,14 @@
 # [[man]]; [[male]] person.
 
 ===Etymology 2===
+{{ja-kanjitab|お|yomi=k}}
 /wo/: [wo] → [o]. The male equivalent to [[女|me]] "female, woman".
+
+====Pronunciation====
+{{ja-pron|yomi=k|お|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|雄}}, {{ja-l|牡}}, {{ja-l|夫}}
 
 ====Noun====
 {{ja-noun|お|hhira=を}}
@@ -174,36 +180,56 @@
 
 =====Derived terms=====
 {{der-top}}
-* {{l|ja|sc=Jpan|雄花|tr=おばな, obana}}
-* {{l|ja|sc=Jpan|雄鹿|tr=おじか, ojika}}, {{l|ja|sc=Jpan|牡鹿|tr=おじか, ojika}}
-* {{l|ja|sc=Jpan|雄牛|tr=おうし, oushi}}, {{l|ja|sc=Jpan|牡牛|tr=おうし, oushi}}
-* {{l|ja|sc=Jpan|雄羊|tr=おひつじ, ohitsuji}}
-* {{l|ja|sc=Jpan|雄叫び|tr=おたけべ, otakebe}}
-* {{l|ja|sc=Jpan|雄叫び|tr=おさけべ, osakebe}}
-* {{l|ja|sc=Jpan|雄鳥|tr=おんどり, ondori}}
-* {{l|ja|sc=Jpan|雄蕊|tr=おしべ, oshibe}}
-* {{l|ja|sc=Jpan|男滝|tr=おだき, odaki}}
-* {{l|ja|sc=Jpan|男々しい|tr=おおしい, ooshii}}
-* {{l|ja|sc=Jpan|雄犬|tr=おすいぬ, osuinu}}
-* {{l|ja|sc=Jpan|男猫|tr=おねこ, oneko}}, {{l|ja|sc=Jpan|雄猫|tr=おねこ, oneko}}, {{l|ja|sc=Jpan|牡猫|tr=おねこ, oneko}}
-* {{l|ja|sc=Jpan|雄松|tr=おまつ, omatsu}}
-* {{l|ja|sc=Jpan|雄蜂|tr=おばち, obachi}}
-* {{l|ja|sc=Jpan|牡馬|tr=おすうま, osuuma}}
-* {{l|ja|sc=Jpan|雄螺旋|tr=おねじ, oneji}}
-* {{l|ja|sc=Jpan|男雛|tr=おびな, obina}}
-* {{l|ja|sc=Jpan|雄猿|tr=おすざれ, osuzare}}
-* {{l|ja|sc=Jpan|雄蛭木|tr=おひるぎ, ohirugi}}
-* {{l|ja|sc=Jpan|寡男|tr=やもお, yamoo}}
-* {{l|ja|sc=Jpan|桂男|tr=かつらお, katsurao}}
+* {{ja-r|雄花|おばな}}
+* {{ja-r|雄鹿|おじか}}, {{ja-r|牡鹿|おじか}}
+* {{ja-r|雄牛|お.うし}}, {{ja-r|牡牛|お.うし}}
+* {{ja-r|雄羊|おひつじ}}
+* {{ja-r|雄叫び|おたけび}}
+* {{ja-r|雄叫び|おさけび}}
+* {{ja-r|雄鳥|おんどり}}
+* {{ja-r|雄蕊|おしべ}}
+* {{ja-r|男滝|おだき}}
+* {{ja-r|男男しい|お.おし.い}}, {{ja-r|男々しい|お.おし.い}}
+* {{ja-r|雄犬|おすいぬ}}
+* {{ja-r|男猫|おねこ}}, {{ja-r|雄猫|おねこ}}, {{ja-r|牡猫|おねこ}}
+* {{ja-r|雄松|おまつ}}
+* {{ja-r|雄蜂|おばち}}
+* {{ja-r|牡馬|おす.うま}}
+* {{ja-r|雄螺旋|おねじ}}
+* {{ja-r|男雛|おびな}}
+* {{ja-r|雄猿|おすざれ}}
+* {{ja-r|雄蛭木|おひるぎ}}
+* {{ja-r|寡男|やも.お}}
+* {{ja-r|桂男|かつらお}}
 {{der-bottom}}
 
 ===Etymology 3===
+{{ja-kanjitab|おのこ|yomi=irr}}
 /wo<small>2</small>ko<small>1</small>/: [wonwoko] → [wonoko] → onoko. From [[男|wo]] "male" + [[の|no<small>2</small>]] (genitive) + [[子|ko<small>1</small>]] "man, child".
+
+====Pronunciation====
+{{ja-pron|yomi=irr|おのこ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|男の子}}
 
 ====Noun====
 {{ja-noun|おのこ|hhira=をのこ}}
 
 # a boy
+
+===Etymology 4===
+{{ja-kanjitab|なん|yomi=o}}
+From {{etyl|ltc|ja|sort=なん}} {{m|zh|男|tr=nom}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|なん}}
+
+====Noun====
+{{ja-noun|なん}}
+
+# [[man]]
+# [[son]]
 
 ===References===
 <references />
