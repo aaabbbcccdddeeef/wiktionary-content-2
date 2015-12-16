@@ -72,16 +72,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|ね}}
-
-# a [[root]]
-# the [[source]]; the [[root]]
-# [[nature]]; one's character that one have by birth
-
-====Synonyms====
-* [[根っ子]] ([[ねっこ]], [[nekko]])
-
 ===Kanji===
 {{ja-kanji|grade=3|rs=木06}}
 
@@ -89,7 +79,48 @@
 # [[base]], [[foundation]]
 
 ====Readings====
-* {{ja-readings|on=[[こん]] (kon)|kun=[[ね]] (ne)}}
+{{ja-readings|goon=[[こん]] (kon)|kanon=[[こん]] (kon)|kun=[[ね]] (ne)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|男根|だんこん}}, {{ja-r|男根|なんこん}}: [[penis]]
+* {{ja-r|蓮根|れんこん}}, {{ja-r|蓮根|はすね}}: [[lotus]] [[root]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|ね|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ね|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ね}}
+
+# a [[root]]
+# the [[source]]; the [[root]]
+# [[nature]]; one's character that one have by birth
+
+=====Synonyms=====
+* {{ja-r|根っ子|ねっこ}}
+
+===Etymology 2===
+{{ja-kanjitab|こん|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|こん|acc=1|acc_ref=DJR,NHK}}
+* {{sense|perseverance, patience}} {{ja-pron|yomi=o|こん|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|こん}}
+
+# [[perseverance]], [[patience]]
+# {{context|arithmetic|lang=ja|sort=こん}} [[root]]
+
+=====Synonyms=====
+* {{sense|perseverance, patience}} {{ja-r|根気|こんき}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|ね]]
 [[Category:ja:Botany|ね]]
