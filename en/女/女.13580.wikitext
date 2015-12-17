@@ -191,8 +191,8 @@ Generally used only for [[human]]s. Female animals are typically described as [[
 * {{ja-r|女史|じょし}}: [[Ms]].
 * {{ja-r|女中|じょちゅう}}: [[maid]]
 * {{ja-r|処女|しょじょ}}: [[virgin]], [[maiden]]
-{{der-mid}}
 * {{ja-r|女子|じょし}}: [[girl]]
+{{der-mid}}
 * {{ja-r|女児|じょじ}}: [[female infant]]
 * {{ja-r|女性|じょせい}}: [[woman]]
 * {{ja-r|女声|じょせい}}: [[female voice]]
@@ -201,6 +201,7 @@ Generally used only for [[human]]s. Female animals are typically described as [[
 * {{ja-r|女優|じょゆう}}: [[actress]]
 * {{ja-r|女流|じょりゅう}}: [[female]]
 * {{ja-r|女郎|じょろう}}: [[prostitute]]
+* {{ja-r|仙女|せんにょ}}, {{ja-r|仙女|せんじょ}}: fairy, nymph, elf
 * {{ja-r|女房|にょうぼう}}: [[wife]]
 * {{ja-r|女官|にょかん}}: [[court]] [[lady]]
 * {{ja-r|女将|にょしょう}}: [[mistress]], [[hostess]]
@@ -213,25 +214,27 @@ Generally used only for [[human]]s. Female animals are typically described as [[
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|おみな|yomi=k}}
 From {{etyl|ojp|ja|sort=おみな}}. {{IPAchar|/womi<sub>1</sub>na/}} → {{IPAchar|/womina/}} → {{IPAchar|/omina/}}. The initial {{IPAchar|/wo/}} expressed "small, youth" and contrasted with {{IPAchar|/o/}} "grown, old" (as in {{m|ja|嫗|tr=omina}} "old woman"). The medial {{IPAchar|/mi/}} is cognate with {{m|ja|女|tr=me||female, woman}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|おみな|acc=0|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
+{{ja-pron|yomi=k|おみな|acc=0|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
 
 ====Noun====
-{{ja-noun|おみな}}
+{{ja-noun|おみな|hhira=をみな}}
 
 # {{context|lang=ja|sort=おみな|archaic}} a [[young]] [[woman]]
 # {{context|lang=ja|sort=おみな|archaic}} a woman
 
 ===Etymology 2===
+{{ja-kanjitab|おんな|yomi=k}}
 From earlier {{IPAchar|/womina/}}: {{IPAchar|/womina/}} → {{IPAchar|/woɴna/}} → {{IPAchar|/oɴna/}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|おんな|acc=3|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|おんな}}
+{{ja-noun|おんな|hhira=をんな}}
 
 # a [[woman]]
 
@@ -239,10 +242,14 @@ From earlier {{IPAchar|/womina/}}: {{IPAchar|/womina/}} → {{IPAchar|/woɴna/}}
 This has superseded ''omina'', and is now one of the standard Japanese words for {{m|en|woman}}.
 
 ===Etymology 3===
+{{ja-kanjitab|め|yomi=k}}
 From {{etyl|ojp|ja|sort=め}}. {{IPAchar|/me<sub>1</sub>/}} → {{IPAchar|/me/}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|め|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|雌}}, {{ja-l|牝}}, {{ja-l|妻}}
 
 ====Noun====
 {{ja-noun|め}}
@@ -300,7 +307,8 @@ Used more in compounds than on its own.
 {{der-bottom}}
 
 ===References===
-* {{reference-book
+<references/>
+:* {{reference-book
 |last=Horiuchi
 |first=Hideaki
 |coauthors=Ken Akiyama
@@ -310,7 +318,6 @@ Used more in compounds than on its own.
 |location=Tōkyō
 |id=ISBN 4-00-240017-4
 }}
-<references />
 
 ===See also===
 {{attention|ja|See alsos need glosses.}}
