@@ -37,6 +37,11 @@
 # [[in front]], [[forward]]
 # [[preceding]]
 
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|前戲|qiánxì|[[foreplay]]}}
+{{der-bottom}}
+
 ----
 
 ==Japanese==
@@ -56,15 +61,19 @@
 |kun=[[まえ]] (mae), [[さき]] (saki) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|前戯|ぜんぎ}}: [[foreplay]]
+{{der-bottom}}
+
 ===Etymology 1===
+{{ja-kanjitab|まえ|yomi=k}}
 From {{etyl|ojp|ja|sort=まえ}} as a compound of {{compound|lang=ja|sort=まえ|目|tr1=ma|t1=eye|方|tr2=he|t2=direction, -wards}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 {{IPAchar|/mape/}} > {{IPAchar|/maɸe/}} > {{IPAchar|/mawe/}} > {{IPAchar|/mae/}}
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|a|ま|え}}<ref name="NHK">{{R:NHK Hatsuon}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
-* {{IPA|lang=ja|[ma̠e̞]}}
+{{ja-pron|yomi=k|まえ|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|まえ|hhira=まへ}}
@@ -79,12 +88,11 @@ From {{etyl|ojp|ja|sort=まえ}} as a compound of {{compound|lang=ja|sort=まえ
 #: {{ja-usex|六人'''前'''の御膳|ろくにん-'''まえ''' の ごぜん|a banquet '''for''' six people}}
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=さき}}. Cognate with {{term|lang=ja|崎|tr=saki||a (geographical) point, where the land sticks out into the water}}.<ref name="KDJ"/>
+{{ja-kanjitab|さき|yomi=k}}
+From {{etyl|ojp|ja|sort=さき}}. Cognate with {{m|ja|崎|tr=saki||a (geographical) point, where the land sticks out into the water}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|h|さ|き}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[sa̠ki]}}
+{{ja-pron|yomi=k|さき|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|さき}}
@@ -95,12 +103,10 @@ From {{etyl|ojp|ja|sort=さき}}. Cognate with {{term|lang=ja|崎|tr=saki||a (ge
 This sense is much more commonly spelled {{ja-l|先}}. See that entry for more details.
 
 ===Etymology 3===
-From {{etyl|ltc|ja|sort=せん'}} {{term|lang=ltc|前|tr=dzen}}. Compare modern {{etyl|cmn|-}} {{term|lang=cmn|前|tr=qián}}.
+From {{etyl|ltc|ja|sort=せん'}} {{m|zh|前|tr=dzen}}. Compare modern {{etyl|cmn|-}} {{m|zh|前|tr=qián}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{ja-accent-common|a|ぜ|ん}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[zẽ̞ɴ]}}
+{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR,NHK}}
 
 ====Counter====
 {{ja-pos|ぜん|counter}}
@@ -115,11 +121,11 @@ From {{etyl|ltc|ja|sort=せん'}} {{term|lang=ltc|前|tr=dzen}}. Compare modern 
 # [[pre-]] (of an era)
 
 ===Etymology 4===
+{{ja-kanjitab|ぜ|yomi=kanyoon}}
 Contraction of {{ja-r|御前|ごぜ}}, itself a contraction of {{ja-r|御前|ごぜん}}, an [[honorific]] form of [[address]].<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
-* {{IPA|lang=ja|[ze̞]}}
+{{ja-pron|yomi=kanyoon|ぜ}}
 
 ====Suffix====
 {{ja-pos|ぜ|suffix}}
