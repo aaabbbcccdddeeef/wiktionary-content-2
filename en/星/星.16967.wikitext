@@ -102,41 +102,40 @@
 # [[star]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[しょう]] (shō) < [[しやう]] (shau)
 |kanon=[[せい]] (sei)
 |kun=[[ほし]] (hoshi)
-|nanori=[[ほし]] (Hoshi)
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
 * {{l|ja|星隕}}
-* {{l|ja|星辰}}
-* {{l|ja|星星}}, {{l|ja|星々}}: "''[[stars]]''" ([[plural]])
+* {{ja-r|星星|ほしぼし}}, {{ja-r|星々|ほしぼし}}: "''[[stars]]''" ([[plural]])
 * {{l|ja|星占}}
-* {{l|ja|星霜}}
+* {{ja-r|星霜|せいそう}}:
 * {{l|ja|星妃}}
-* {{l|ja|星芒}}
+* {{ja-r|星芒|せいぼう}}:
 * {{l|ja|星流}}
 * {{l|ja|星暦}}, {{l|ja|星歴}}
 * {{l|ja|星人}}
-* {{l|ja|明星}} ({{l|ja|みょうじょう}}, ''[[myōjō]]''):
-* {{l|ja|星辰}} ({{l|ja|せいしん}}, ''[[seishin]]''):
+* {{ja-r|明星|みょうじょう}}:
+* {{ja-r|星辰|せいしん}}:
 {{der-mid}}
-* {{l|ja|星宿}} ({{l|ja|せいしゅく}}, ''[[seishuku]]''):
-* {{l|ja|星雲}} ({{l|ja|せいうん}}, ''[[seiun]]''): {{sense|astronomy}} [[nebula]]
-* {{l|ja|星団}} ({{l|ja|せいだん}}, ''[[seidan]]''): {{sense|astronomy}} [[cluster]]
-* {{l|ja|巨星}} ({{l|ja|きょせい}}, ''[[kyosei]]''): {{sense|astronomy}} [[giant]]
-* {{l|ja|恒星}} ({{l|ja|こうせい}}, ''[[kōsei]]''): {{sense|astronomy}} [[star]]
-* {{l|ja|連星}} ({{l|ja|れんせい}}, ''[[rensei]]''): {{sense|astronomy}} [[binary star]]
-* {{l|ja|遊星}} ({{l|ja|ゆうせい}}, ''[[yūsei]]''): {{context|archaic|lang=ja}} [[planet]]
-* {{l|ja|惑星}} ({{l|ja|わくせい}}, ''[[wakusei]]''): {{sense|astronomy}} [[planet]]
-* {{l|ja|矮星}} ({{l|ja|わいせい}}, ''[[waisei]]''): {{sense|astronomy}} [[dwarf]]
-* {{l|ja|星体}} ({{l|ja|せいたい}}, ''[[seitai]]''): {{sense|astronomy}} [[star]] [[body]]
-* {{l|ja|星座}} ({{l|ja|せいざ}}, ''[[seiza]]''): {{sense|astronomy}} [[constellation]]
-* {{l|ja|流星}} ({{l|ja|りゅうせい}}, ''[[ryūsei]]''): {{sense|astronomy}} [[meteor]]
-* {{l|ja|彗星}} ({{l|ja|すいせい}}, ''[[suisei]]''): {{sense|astronomy}} [[comet]]
+* {{ja-r|星宿|せいしゅく}}:
+* {{ja-r|星雲|せいうん}}: {{sense|astronomy}} [[nebula]]
+* {{ja-r|星団|せいだん}}: {{sense|astronomy}} [[cluster]]
+* {{ja-r|巨星|きょせい}}: {{sense|astronomy}} [[giant]]
+* {{ja-r|恒星|こうせい}}: {{sense|astronomy}} [[star]]
+* {{ja-r|連星|れんせい}}: {{sense|astronomy}} [[binary star]]
+* {{ja-r|遊星|ゆうせい}}: (''[[archaic]]'') [[planet]]
+* {{ja-r|惑星|わくせい}}: {{sense|astronomy}} [[planet]]
+* {{ja-r|矮星|わいせい}}: {{sense|astronomy}} [[dwarf]]
+* {{ja-r|星体|せいたい}}: {{sense|astronomy}} [[star]] [[body]]
+* {{ja-r|星座|せいざ}}: {{sense|astronomy}} [[constellation]]
+* {{ja-r|流星|りゅうせい}}: {{sense|astronomy}} [[meteor]]
+* {{ja-r|彗星|すいせい}}: {{sense|astronomy}} [[comet]]
+* {{ja-r|箒星|ほうきぼし}}: [[comet]]
 {{der-bottom}}
 
 ===Etymology===
@@ -146,8 +145,7 @@ From {{etyl|ojp|ja|sort=ほし}}. Possibly cognate with Korean {{term|lang=ko|�
 <span class="IPA">/posi/ > /ɸosi/ > /hoɕi/</span>
 
 ===Pronunciation===
-* [[訓読み|Kun'yomi]].
-* {{IPA|lang=ja|[ho̞ɕi]}}
+{{ja-pron|yomi=k|ほし|acc=0|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|ほし}}
@@ -156,12 +154,15 @@ From {{etyl|ojp|ja|sort=ほし}}. Possibly cognate with Korean {{term|lang=ko|�
 # {{context|tarot|lang=ja|sort=ほし}}: The [[star|Star]]; the seventeenth [[trump]] or [[major arcana]] [[card]] in most traditional Tarot decks.
 
 ====Coordinate terms====
-* [[タロット]] (''[[tarotto]]''): The [[tarot]].
+* {{ja-r|タロット}}: The [[tarot]].
 
 ===Proper noun===
 {{ja-pos|proper|ほし}}
 
 # {{surname|lang=ja|sort=ほし}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|ほし]]
 [[Category:ja:Astronomy|ほし]]
