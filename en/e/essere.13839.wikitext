@@ -1,10 +1,10 @@
 ==Italian==
 
 ===Etymology===
-From {{etyl|roa-oit|it}} {{m|roa-oit|essere}}, from {{etyl|VL.|it}} ''essere'', from {{etyl|la|it}} {{m|la|esse}}, present active infinitive of {{term|sum|lang=la}}.
+From {{etyl|VL.|it}} ''essere'', from {{etyl|la|it}} {{m|la|esse}}, present active infinitive of {{m|la|sum||I am}}.
 
 ===Pronunciation===
-* {{IPA|/ˈɛs.se.re/|[ˈɛs̪.s̪e.r̺e]|lang=it}}
+* {{IPA|/ˈɛsːere/|[ˈɛs̪.s̪e.r̺e]|lang=it}}
 * {{audio|It-essere.ogg|Audio|lang=it}}
 * {{hyphenation|ès|se|re|lang=it}}
 
@@ -45,41 +45,6 @@ From {{etyl|roa-oit|it}} {{m|roa-oit|essere}}, from {{etyl|VL.|it}} ''essere'', 
 
 [[Category:Italian verbs taking essere as auxiliary]]
 [[Category:Italian terms derived from Latin]]
-
-----
-
-==Old Italian==
-
-===Etymology===
-From {{etyl|VL.|roa-oit}} {{m|la|*essere}}, from {{etyl|la|roa-oit}} {{m|la|esse}}, present active infinitive form of {{m|la|sum||I am}}.<br />
-The f-stem forms of the future tense derives from a northern variant {{m|roa-oit|fire||to be}}, from {{etyl|la|-}} {{m|la|fierī||to become, be}}.
-
-===Pronunciation===
-* {{IPA|lang=roa-oit|/ˈɛsːere/}}
-* {{hyphenation|ès|se|re|lang=roa-oit}}
-
-===Verb===
-{{head|roa-oit|verb}}
-
-# {{context|auxiliary|used to form composite past tense of many intransitive verbs|lang=roa-oit}} to have (done something); to [[be]] in the state of having (done something)
-# {{context|intransitive|indicating existence, identity, location, or a permanent quality|lang=roa-oit}} to [[be]]
-# {{context|impersonal|of a duration of time since an event|lang=roa-oit}} to have [[pass]]ed
-
-====Conjugation====
-{{it-conj
-|inf=essere|aux=essere
-|ger=sendo, [[essendo]]|presp=essente|pastp=essuto, suto, [[stato]]
-|pres1s=sono|pres2s=sei|pres3s=è|pres1p=sêmo, [[siamo]]|pres2p=sête, [[siete]]|pres3p=enno, sono
-|imperf1s=era, [[ero]]|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
-|prem1s=fui|prem2s=fusti, [[fosti]]|prem3s=fu|prem1p=fummo|prem2p=fuste, [[foste]]||prem3p=fûro, fuoro, [[furono]]
-|fut1s=sarò|fut2s=sarai|fut3s=fia, fie, [[sarà]]|fut1p=saremo|fut2p=sarete|fut3p=fiano, fieno, [[saranno]]
-|cond1s=saria, [[sarei]], fôra|cond2s=saresti|cond3s=saria, [[sarebbe]], fôra|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
-|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=sieno, [[siano]]
-|impsub12s=[[fussi]], [[fossi]]|impsub3s=[[fusse]], [[fosse]]|impsub1p=fussimo, [[fossimo]]|impsub2p=fuste, [[foste]]|impsub3p=fussero, [[fossero]]
-|imp2s=sii|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}
-
-====Descendants====
-* Italian: {{l|it|essere}}
 
 ----
 
