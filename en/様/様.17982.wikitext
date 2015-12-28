@@ -38,7 +38,12 @@ Right component is approximately 羊 + 水, but this is misleading. The composit
 # [[sir]], [[madam]] (more respectful than [[Mr.]], [[Ms]], [[Mrs.]], [[Miss]])
 
 ====Readings====
-* {{ja-readings|on=[[よう]] (yō), from [[やう]] (yau), [[しょう]] (shō)|kun=[[さま]] (sama)}}
+{{ja-readings
+|goon=[[よう]] (yō), {{qualifier|historical}} [[やう]] (yau)
+|kanon=[[よう]] (yō), {{qualifier|historical}} [[やう]] (yau)
+|kanyoon=[[しょう]] (shō), {{qualifier|historical}} [[しやう]] (shau)
+|kun=[[さま]] (sama)
+}}
 
 ====See also====
 * {{pedialite|lang=ja}}
@@ -49,6 +54,18 @@ Right component is approximately 羊 + 水, but this is misleading. The composit
 * {{l|ja|殿}} ({{l|ja|どの}}, ''[[dono]]'')
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=o|よう}}
+From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|よう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|よう|hhira=やう}}
+
+# [[way]]. [[style]], [[appearance]]
+
+===Etymology 2===
 {{ja-kanjitab|yomi=k|さま}}
 
 ====Pronunciation====
@@ -59,7 +76,7 @@ Right component is approximately 羊 + 水, but this is misleading. The composit
 
 # Honorific suffix that is more respectful than [[さん]]. Gender-neutral.
 
-===Etymology 2===
+===Etymology 3===
 {{ja-kanjitab|yomi=k|ちゃま}}
 Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare the formation of {{m|ja|ちゃん}} from {{m|ja|さん}}.
 
@@ -69,7 +86,7 @@ Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare 
 ====Suffix====
 {{ja-pos|ちゃま|suffix}}
 
-# {{context|childish|lang=ja|sort=ちゃま}} honorific suffix
+# {{context|lang=ja|sort=ちゃま|childish}} honorific suffix
 
 ===References===
 <references/>
