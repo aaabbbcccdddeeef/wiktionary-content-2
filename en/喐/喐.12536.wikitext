@@ -3,33 +3,40 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=RKBL|ids=⿰口郁}}
 
-# {{context|Cantonese|lang=mul}} to [[move]], [[touch]], [[hit]]
-
 ====References====
 * {{Han ref|kx=0198.140|dkj=03930|dj=0420.030|hdz=10638.100|uh=5590|ud=21904}}
 
 ----
-
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
 ===Alternative forms===
 * {{zh-l|郁}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[juk1]]|y=yuk1}}
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=juk1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
 
-# to [[move]]
+===Verb===
+{{zh-verb}}
+
+# {{cx|lang=zh}} to [[move]] (one's body or body parts)
+#: {{zh-usex|唔好 喐！|Don't move!|C}}
+# {{cx|lang=zh}} to [[move]] (something: an item, etc.)
+#: {{zh-usex|唔好 喐 佢！|Don't touch that!|C}}
+<!--
 # to [[touch]]
 # to [[hit]]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yù]] ([[yu4]])|wg=yü<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=口09}}
+-->
 
 [[fr:喐]]
 [[pl:喐]]
