@@ -48,47 +48,50 @@
 # {{rfdef|lang=zh}}
 
 ====Compounds====
-* {{l|cmn|波荡}}
-* {{l|cmn|波导管}}
-* {{l|cmn|波动|tr=bōdòng}}
-* {{l|cmn|波段}}
-* {{l|cmn|波尔卡}}
-* {{l|cmn|波峰}}
-* {{l|cmn|波幅}}
-* {{l|cmn|波腹}}
-* {{l|cmn|波谷}}
-* {{l|cmn|波光}}
-* {{l|cmn|波诡云谲}}
-* {{l|cmn|波黑|tr=Bōhēi}}
-* {{l|cmn|波及}}
-* {{l|cmn|波节}}
-* {{l|cmn|波兰|tr=Bōlán}}
-* {{l|cmn|波澜}}
-* {{l|cmn|波澜壮阔}}
-* {{l|cmn|波浪|tr=bōlàng}}
-* {{l|cmn|波浪鼓}}
-* {{l|cmn|波累}}
-* {{l|cmn|波罗门教}}
-* {{l|cmn|波能}}
-* {{l|cmn|波平浪静}}
-* {{l|cmn|波谱}}
-* {{l|cmn|波俏}}
-* {{l|cmn|波束}}
-* {{l|cmn|波斯|tr=Bōsī}}
-* {{l|cmn|波斯菊}}
-* {{l|cmn|波斯猫}}
-* {{l|cmn|波斯尼亚和黑塞哥维那|tr=Bōsīníyà hé Hēisāigēwéinà}}
-* {{l|cmn|波速}}
-* {{l|cmn|波涛}}
-* {{l|cmn|波纹|tr=bōwén}}
-* {{l|cmn|波纹管}}
-* {{l|cmn|波形}}
-* {{l|cmn|波源}}
-* {{l|cmn|波长}}
-* {{l|cmn|波折|tr=bōzhé}}
-* {{l|cmn|波状热}}
-* {{l|cmn|秋波|tr=qiūbō}}
-* {{l|cmn|香波|tr=xiāngbō}}
+{{der-top|Compounds}}
+* {{zh-l|波蕩}}
+* {{zh-l|波導管}}
+* {{zh-l|波動|bōdòng}}
+* {{zh-l|波段}}
+* {{zh-l|波爾卡}}
+* {{zh-l|波峰}}
+* {{zh-l|波幅}}
+* {{zh-l|波腹}}
+* {{zh-l|波谷}}
+* {{zh-l|波光}}
+* {{zh-l|波詭雲譎}}
+* {{zh-l|波函數|bōhánshù|[[wavefunction]]}}
+* {{zh-l|波黑|Bōhēi}}
+* {{zh-l|波及}}
+* {{zh-l|波節}}
+* {{zh-l|波蘭|Bōlán}}
+* {{zh-l|波瀾}}
+* {{zh-l|波瀾壯闊}}
+* {{zh-l|波浪|bōlàng}}
+* {{zh-l|波浪鼓}}
+* {{zh-l|波累}}
+* {{zh-l|波羅門教}}
+* {{zh-l|波能}}
+* {{zh-l|波平浪靜}}
+* {{zh-l|波譜}}
+* {{zh-l|波俏}}
+* {{zh-l|波束}}
+* {{zh-l|波斯|Bōsī}}
+* {{zh-l|波斯菊}}
+* {{zh-l|波斯貓}}
+* {{zh-l|波斯尼亞和黑塞哥維那|Bōsīníyà hé Hēisāigēwéinà}}
+* {{zh-l|波速}}
+* {{zh-l|波濤}}
+* {{zh-l|波紋|bōwén}}
+* {{zh-l|波紋管}}
+* {{zh-l|波形}}
+* {{zh-l|波源}}
+* {{zh-l|波長}}
+* {{zh-l|波折|bōzhé}}
+* {{zh-l|波狀熱}}
+* {{zh-l|秋波|qiūbō}}
+* {{zh-l|香波|xiāngbō}}
+{{der-bottom}}
 
 ----
 
@@ -100,7 +103,7 @@
 # {{defn|lang=ja|sort=水05}}
 
 ====Readings====
-* {{ja-readings|on=[[は]] (ha), [[ひ]] (hi)|kun=[[なみ]] (nami)}}
+{{ja-readings|goon=[[は]] (ha)|kanon=[[は]] (ha)|kun=[[なみ]] (nami)}}
 
 ====Compounds====
 * [[波形]]
@@ -111,6 +114,11 @@
 * [[波浪]]
 * [[津波]] (つなみ, tsunami)
 * [[波蘭]]
+
+{{ja-kanjitab|なみ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|なみ|acc=2|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|k|hira=なみ|rom=nami}}
@@ -126,8 +134,9 @@
 
 # {{context|abbreviation|lang=ja}} short notation of [[Poland]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 波]]
+===References===
+<references/>
+
 [[Category:Japanese female given names]]
 
 ----
