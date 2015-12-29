@@ -21,12 +21,19 @@
 |ma=y
 |c=kau4
 |mn=kiû
+|mc=y
+|oc=y
 |cat=n,adj}}
 
 ===Noun===
 {{zh-noun}}
 
 # [[ball]], [[sphere]], [[globe]], [[orb]]
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|膠球|jiāoqiú|[[glueball]]}}
+{{der-bottom}}
 
 ===Adjective===
 {{zh-adj}}
@@ -41,17 +48,26 @@
 {{ja-kanji|grade=3|rs=玉07}}
 
 ====Readings====
-* {{ja-readings|kanon=[[きゅう]] (kyū)|goon=[[ぐ]] (gu)|kun=[[たま]] (tama)}}
+{{ja-readings|goon=[[ぐ]] (gu)|kanon=[[きゅう]] (kyū)|kun=[[たま]] (tama)}}
 
 ===Etymology 1===
+{{ja-kanjitab|きゅう|yomi=o}}
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|球|tr=gjuw}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|きゅう}}
+{{ja-noun|きゅう|hhira=きう}}
 
 # [[sphere]]; [[globe]]; [[orb]]
 # {{context|baseball|lang=ja|sort=きゅう}} [[pitch]]
 
 ===Etymology 2===
+{{ja-kanjitab|たま|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|たま}}
@@ -59,7 +75,10 @@
 # [[ball]]
 # [[bulb]]
 
-[[Category:ja:Geometry|きゆう]]
+===References===
+<references/>
+
+[[Category:ja:Geometry|きゅう]]
 
 ----
 
