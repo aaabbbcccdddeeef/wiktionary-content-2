@@ -103,7 +103,7 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[しょう]] (shō) < [[しやう]] (shau)
+|goon=[[しょう]] (shō), {{qualifier|historical}} [[しやう]] (shau)
 |kanon=[[せい]] (sei)
 |kun=[[ほし]] (hoshi)
 }}
@@ -112,7 +112,6 @@
 {{der-top|Compounds}}
 * {{ja-r|準星|じゅんせい}}: [[quasar]]
 * {{l|ja|星隕}}
-* {{ja-r|星星|ほしぼし}}, {{ja-r|星々|ほしぼし}}: "''[[stars]]''" ([[plural]])
 * {{l|ja|星占}}
 * {{ja-r|星霜|せいそう}}:
 * {{l|ja|星妃}}
@@ -136,14 +135,13 @@
 * {{ja-r|星座|せいざ}}: {{sense|astronomy}} [[constellation]]
 * {{ja-r|流星|りゅうせい}}: {{sense|astronomy}} [[meteor]]
 * {{ja-r|彗星|すいせい}}: {{sense|astronomy}} [[comet]]
-* {{ja-r|箒星|ほうきぼし}}: [[comet]]
 {{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|ほし|yomi=k}}
-From {{etyl|ojp|ja|sort=ほし}}. Possibly cognate with Korean {{term|lang=ko|별||star}} and Manchu {{term|lang=mnc|ᡠᠰᡳᡥᠠ|tr=usiha||star}}.
+{{IPAchar|/posi/}} → {{IPAchar|/fosi/}} → {{IPAchar|/hoɕi/}}
 
-<span class="IPA">/posi/ > /ɸosi/ > /hoɕi/</span>
+From {{etyl|ojp|ja|sort=ほし}}. Possibly cognate with {{etyl|ko|-}} {{m|ko|별||star}} and {{etyl|mnc|-}} {{m|mnc|ᡠᠰᡳᡥᠠ|tr=usiha||star}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=k|ほし|acc=0|acc_ref=DJR,NHK}}
@@ -152,10 +150,16 @@ From {{etyl|ojp|ja|sort=ほし}}. Possibly cognate with Korean {{term|lang=ko|�
 {{ja-noun|ほし}}
 
 # [[star]]
-# {{context|tarot|lang=ja|sort=ほし}}: The [[star|Star]]; the seventeenth [[trump]] or [[major arcana]] [[card]] in most traditional Tarot decks.
+# {{context|lang=ja|sort=ほし|tarot}}: the [[star|Star]]: the seventeenth [[trump]] or [[major arcana]] [[card]] in most traditional [[tarot]] decks
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|箒星|ほうきぼし}}: [[comet]]
+* {{ja-r|星星|ほしぼし}}, {{ja-r|星々|ほしぼし}}: [[stars]] {{qualifier|[[plural]]}}
+{{der-bottom}}
 
 ====Coordinate terms====
-* {{ja-r|タロット}}: The [[tarot]].
+* {{ja-r|タロット}}: [[tarot]]
 
 ===Proper noun===
 {{ja-pos|proper|ほし}}
