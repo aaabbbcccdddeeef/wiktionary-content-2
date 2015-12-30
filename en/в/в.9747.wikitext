@@ -157,11 +157,10 @@ In writing, '''във''' is used in front of words starting with ''в'' or ''ф'
 
 ==Russian==
 
-===Pronunciation===
-* {{IPA|[v]|lang=ru}}
-* {{audio|Ru-в.ogg|Audio|lang=ru}}
-
 ===Etymology 1===
+
+====Pronunciation====
+* {{ru-IPA|ве}}
 
 ====Letter====
 {{wikipedia|Ve (Cyrillic)}}
@@ -178,6 +177,10 @@ From {{inh|ru|orv|въ}}, from {{inh|ru|sla-pro|*vъ(n)}}, from {{etyl|ine-pro|r
 ====Alternative forms====
 * {{l|ru|во}}
 
+====Pronunciation====
+* {{ru-IPA-manual|[v]}}
+* {{audio|Ru-в.ogg|Audio|lang=ru}}
+
 ====Preposition====
 {{head|ru|preposition}}
 
@@ -192,13 +195,11 @@ From {{inh|ru|orv|въ}}, from {{inh|ru|sla-pro|*vъ(n)}}, from {{etyl|ine-pro|r
 
 ===Etymology 3===
 
-====Abbreviation====
-{{rfc-header|Abbreviation}}
-'''в''' ([[вольт]], ''vol’t'')
+====Noun====
+{{ru-noun||m-in|-}}
 
-# [[volt]]
+# {{ru-abbrev of|вольт}}: [[volt]]
 
-[[Category:Russian abbreviations]]
 [[Category:ru:Units of measure]]
 
 [[Category:Russian one-letter words]]
