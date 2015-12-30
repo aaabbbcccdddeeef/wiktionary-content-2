@@ -48,11 +48,16 @@
 {{ja-kanji|grade=3|rs=玉07}}
 
 ====Readings====
-{{ja-readings|goon=[[ぐ]] (gu)|kanon=[[きゅう]] (kyū)|kun=[[たま]] (tama)}}
+{{ja-readings
+|goon=[[ぐ]] (gu)
+|kanon=[[きゅう]] (kyū)
+|kun=[[たま]] (tama)
+|nanori=[[く]] (ku)
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|きゅう|yomi=o}}
-From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|球|tr=gjuw}}.
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|球|tr=gjuw||ball, sphere, orb}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR,NHK}}
@@ -70,10 +75,10 @@ From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|球|tr=gjuw}}.
 {{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|たま}}
+{{ja-noun|たま|kyu=毬}}
 
 # [[ball]]
-# [[bulb]]
+# [[bulb]] {{qualifier|as in a light bulb}}
 
 ===References===
 <references/>
