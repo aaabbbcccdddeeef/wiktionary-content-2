@@ -221,19 +221,19 @@ From {{inh|cu|sla-pro|*a}}.
 ==Russian==
 
 ===Pronunciation===
-* {{ru-IPA|а́}}
+* {{ru-IPA}}
 * {{audio|Ru-а.ogg|audio|lang=ru}}
 
 ===Etymology 1===
 See [[#Translingual|Translingual section]].
 
-===Letter===
+====Letter====
 {{head|ru|letter|lower case||upper case|А}}
 
 # The first letter of the Russian [[Cyrillic]] alphabet. It is followed by the letter [[б]] (''b'').
 # The name of the Roman letter [[A]], [[a]] in Russian.
 
-====Usage notes====
+=====Usage notes=====
 The Russian name for '''а''' (''a'') is '''а''' (''ā''), and in stressed syllables it has the sound of the long '''a''' in ''f'''a'''ther''. In unstressed positions, it is pronounced as a [[schwa]], like the '''o''' in ''m'''o'''ther''. (Unstressed Russian '''а''' (''a'') is pronounced the same as unstressed Russian '''о''' (''o'').)
 
 ===Etymology 2===
@@ -241,7 +241,7 @@ From {{inh|ru|sla-pro|*a||and, but}}, from {{inh|ru|ine-bsl-pro|*ō}}, from {{in
 
 Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russian {{term|а||and, but|lang=ru}}, {{term|и||and|lang=ru}} and {{term|да||and, but|lang=ru}} with Lithuanian {{term|ar̃||if, whether|lang=lt}}, {{term|ir̃||and|lang=lt}} and {{term|dár||still, yet|lang=lt}}
 
-===Conjunction===
+====Conjunction====
 {{head|ru|conjunction}}
 
 # [[but]], [[and]] (introduces a new or different meaning).
@@ -250,7 +250,7 @@ Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russi
 #: {{ux|ru|А [[что]]?|Why so?|inline=1}}
 #: {{ux|ru|а [[тот|то]]|or else|inline=1}}
 
-====See also====
+=====See also=====
 * {{l|ru|а ве́дь}}
 * {{l|ru|а и́менно}}
 * {{l|ru|а то́}}
@@ -258,15 +258,15 @@ Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russi
 ===Etymology 3===
 Compare {{etyl|lt|-}} {{m|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, as well as {{etyl|got|-}} {{m|got|𐍉||ah!}}, {{etyl|la|-}} {{m|la|ā}}, {{m|la|āh||expression of pain, anger}}, {{etyl|grc|-}} {{m|grc|ἆ||ah!}}
 
-===Alternative forms===
+====Alternative forms====
 * {{term|аа|lang=ru}}, {{term|а-а|lang=ru}}
 
-===Interjection===
+====Interjection====
 {{head|ru|interjection}}!
 
 # [[well]]! {{gloss|expressing surprise}}
 
-===Particle===
+====Particle====
 {{head|ru|particle}}
 
 # (colloquial particle used to seek confirmation) [[eh]]
@@ -275,20 +275,19 @@ Compare {{etyl|lt|-}} {{m|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, 
 
 ===Etymology 4===
 
-===Abbreviation===
-{{rfc-header|Abbreviation}}
-{{head|ru|abbreviation}}
+====Noun====
+{{ru-noun||m-in|-}}
 
-# {{abbreviation of|ампер|lang=ru}} {{gloss|{{l|en|ampere}}}}
+# {{ru-abbrev of|ампер||[[ampere]]}}
 
 ===Etymology 5===
 
-===Pronoun===
+====Pronoun====
 {{head|ru|pronoun|invariable}}
 
 # {{context|criminal slang|lang=ru}} [[he]], [[she]] or [[it]] (used to point to a particular person)
 
-====References====
+=====References=====
 * {{R:ru:Pirozhkov}}
 
 [[Category:ru:Cyrillic letter names]]
