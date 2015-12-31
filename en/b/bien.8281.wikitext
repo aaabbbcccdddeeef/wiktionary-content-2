@@ -23,7 +23,7 @@ From {{etyl|la|ast}} {{term|bene||well|lang=la}}.
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{term|bien|lang=fro}}, from {{etyl|la|fr}} {{term|bene||well|lang=la}}.
+From {{etyl|fro|fr}} {{m|fro|bien}}, from {{etyl|la|fr}} {{term|bene||well|lang=la}}.
 
 ===Pronunciation===
 * {{audio|Fr-bien.ogg|audio|lang=fr}}
@@ -34,23 +34,19 @@ From {{etyl|fro|fr}} {{term|bien|lang=fro}}, from {{etyl|la|fr}} {{term|bene||we
 {{head|fr|adverb|comparative and superlative|mieux}}
 
 # [[well]]
-# [[indeed]]
+# [[indeed]]; [[so]]
+#: {{usex|'''Bien''', on peut partir maintenant ?|lang=fr|t=So, can we leave now?}}
 # (+ de, des, du) [[a lot of]]
 #: ''Macy Gray a traversé '''bien''' des épreuves.''
 #:: ''Macy Gray got through a lot of ordeals.''
-# {{context|colloquial|lang=fr}} [[really]] (''used as an intensifier'')
-#* ''Il est '''bien''' chiant, ce type''
+# {{context|colloquial|lang=fr}} [[really]] {{qualifier|used as an intensifier}}
+#* {{usex|Il est '''bien''' moche, ce type|lang=fr|t=He's really ugly, that guy}}
 
 ====Usage notes====
 This intensifier is used only with certain adjectives of negative connotation, such as {{m|fr|moche}}, {{m|fr|dégueu}}, {{m|fr|chiant}}.
 
 ====Synonyms====
-* (''intensifier'') {{l|fr|vraiment}}
-
-===External links===
-* {{R:TLFi}}
-
-[[Category:French intensifiers]]
+* {{sense|intensifier}} {{l|fr|vraiment}}
 
 ===Noun===
 {{fr-noun|m}}
@@ -59,7 +55,7 @@ This intensifier is used only with certain adjectives of negative connotation, s
 # a [[commodity]], a [[good]]
 # a [[possession]]
 
-===Derived terms===
+====Derived terms====
 * [[bien sûr]]
 * [[bientôt]]
 * [[très bien]]
@@ -69,9 +65,13 @@ This intensifier is used only with certain adjectives of negative connotation, s
 ===See also===
 * [[bon]]
 
+===External links===
+* {{R:TLFi}}
+
 ===Anagrams===
 * [[béni#French|béni]]
 
+[[Category:French intensifiers]]
 ----
 
 ==Japanese==
