@@ -27,10 +27,12 @@
 {{zh-verb}}
 
 # to [[relate]], to bear on
-# {{context|formal|literary|classical|lang=zh|sort=xi4}} [[is]], [[am]], [[are]], to [[be]] (copula)
-#: {{zh-usex|其 母 係 ^北京人。|His mother is a native of Beijing.}}
-# {{context|Cantonese|lang=zh|sort=hai6}} [[is]], [[am]], [[are]], to [[be]] (copula)
-#: {{zh-usex|烏龍{lung2}茶 係 茶 嘅 一 種。|Oolong tea is a type of tea.|C-GZ}}
+# {{lb|zh|formal|literary|classical|Cantonese|Hakka}} [[is]], [[am]], [[are]], to [[be]] (copula)
+#: {{zh-usex|其 母 係 ^北京人。|His mother '''is''' a native of Beijing.}}
+#: {{zh-usex|烏龍{lung4-2}茶 係 茶 嘅 一 種。|Oolong tea '''is''' a type of tea.|C-GZ}}
+
+====Synonyms====
+* {{sense|copula}} {{zh-l|是}}
 
 ====Usage notes====
 * (''Cantonese'') Not to be confused with {{zh-l|喺|tr=hai2}}.
@@ -38,9 +40,9 @@
 ===Noun===
 {{zh-noun}}
 
-# {{context|Cantonese|lang=zh|sort=hai6}} [[yes]] (as answer to a question)
+# {{lb|zh|Cantonese|Hakka}} [[yes]] (as answer to a question)
 
-====See also====
+====Synonyms====
 * {{zh-l|是}}
 
 ====References====
