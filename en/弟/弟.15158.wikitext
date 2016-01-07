@@ -54,37 +54,53 @@
 {{ja-kanji|grade=2|rs=弓04}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[だい]] (dai)
 |kanon=[[てい]] (tei)
 |kanyoon=[[で]] (de)
-|kun=[[おとうと]] (otouto)}}
+|kun=[[おとうと]] (otōto)
+}}
 
 ===Etymology 1===
-Cognate with the verb {{m|ja|劣る|tr=otoru||to be lesser, inferior}}.
+{{ja-kanjitab|yomi=k|おと}}
+Cognate with the verb {{m|ja|劣る|tr=otoru||to be lesser, inferior}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|おと}}
+
+====Alternative forms====
+* {{ja-l|乙}}
 
 ====Noun====
 {{ja-noun|おと}}
 
-# a younger sibling
+# a [[younger]] [[sibling]]
 
 ====See also====
 * {{ja-r|劣る|おとる}}
 
 ===Etymology 2===
-otopito > otoɸito > otowito > *otowuto > otouto > otoːto. Compound of {{compound|弟|t1=younger sibling|tr1=oto|人|t2=person|tr2=hito|lang=ja}}.
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Brother}}
+[[File:Nuclear_family_member_younger_brother.svg|thumb|250px|{{lang|ja|弟}} (''otōto''): the orange highlighting indicates the '''[[younger]] [[brother]]''' relative to all of the children to the left.]]
+</div>
+{{ja-kanjitab|yomi=k|おとうと}}
+{{IPAchar|/otopito/}} → {{IPAchar|/otoɸito/}} → {{IPAchar|/otowito/}} → {{IPAchar|/*otowuto/}} → {{IPAchar|/otouto/}} → {{IPAchar|/otoːto/}}
+
+Originally a compound of {{compound|lang=ja|sort=おとうと|弟|t1=younger sibling|tr1=oto|人|t2=person|tr2=hito}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{ja-pron|おとうと|y=k|acc=4|acc_ref=NHK}}
+{{ja-pron|yomi=k|おとうと|acc=4|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|おとうと}}
 
-# one’s own younger brother
-# a younger male
+# one’s own [[younger]] [[brother]]
+# a younger [[male]]
 
 =====Usage notes=====
-Used when referring to one’s own younger brother; to refer to another’s younger brother, one uses {{term|弟さん|lang=ja|tr=otōtosan}}, while when ''addressing'' one’s own younger brother, one uses their given name, such as {{term|太郎|lang=ja|tr=Tarō}}. Contrast with addressing one’s own older brother, when one uses the honorific {{term|お兄さん|lang=ja|tr=oniisan}}.
+Used when referring to one’s own younger brother.  To refer to someone else’s younger brother, the term {{m|ja|弟さん|tr=otōtosan}} is used instead.  When ''addressing'' one’s own younger brother, the given name is used, often with a suffix, such as {{m|ja|太郎}}{{m|ja|君|tr=Tarō-kun}}. Contrast with addressing one’s own older brother, when one uses the honorific {{m|ja|お兄さん|tr=onīsan}}.
 
 ===References===
 <references/>
