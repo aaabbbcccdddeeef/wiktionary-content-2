@@ -194,18 +194,61 @@
 ====Related terms====
 * [[抜け作]]
 
-===Noun===
-{{ja-kanjitab|さく|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|さく}}
+From {{etyl|ltc|ja|sort=さく}} {{m|zh|作|tr=tsak||to do, to work}}.  Compare modern {{etyl|yue|-}} reading ''zok<sup>3</sup>'', {{etyl|wuu|-}} ''tsoq'' (T4).
+
+====Pronunciation 1====
+{{ja-pron|yomi=goon|さく|acc=1|acc_ref=DJR}}
+
+=====Noun=====
 {{ja-noun|さく}}
 
-# a [[work]], a [[production]]
+# a [[work]], a [[production]] {{qualifier|particularly a cultural work, such as a work of art, of literature, or of theatre}}
+
+====Pronunciation 2====
+{{ja-pron|yomi=goon|さく|acc=0|acc_ref=DJR}}
+
+=====Noun=====
+{{ja-noun|さく}}
+
 # a [[crop]], a [[harvest]]
 
-===Verb===
-{{ja-kanjitab|つく|o1=る|yomi=k}}
-{{ja-verb|つくる}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|つく|o1=り}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|作る|tr=tsukuru||to make; to build; to work the land, to grow something}}, itself from {{etyl|ojp|ja|sort=つくる}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-# to [[make]]
+====Pronunciation 1====
+{{ja-pron|yomi=k|つくり|acc=3|acc_ref=DJR}}
+
+=====Noun=====
+{{ja-verb|つくり}}
+
+# the [[workmanship]] or [[make]] of something, how something is made
+#: {{ja-usex|'''作り'''のいい家具|'''つくり''' の い.い かぐ|furniture of good '''make''' or '''workmanship''', well-'''made''' furniture}}
+# [[make-up]], [[dress]], [[comportment]]: {{n-g|how one dresses and comports oneself}}
+#: {{ja-usex|派手な'''作り'''は嫌いだ。|^はで な '''つくり''' は きらい だ。|I dislike colorful / flashy '''dress'''.}}
+# a [[helping]] or [[serving]] of fresh [[sashimi]], usually several [[slice]]s
+#: {{ja-usex|鮭の'''作り'''を楽しみにしている。|^しゃけ の '''つくり''' を たのしみ に して いる。|I'm looking forward to a '''helping''' of salmon sashimi.}}
+
+=====Usage notes=====
+More often spelled with the [[okurigana]], as {{m|ja|作り}}.
+
+====Pronunciation 2====
+{{ja-pron|yomi=k|づくり}}
+* {{rendaku2|sort=つくり'|-tsukuri|-zukuri}}
+
+=====Suffix=====
+{{ja-pos|suffix|づくり}}
+
+# the [[making]] of something, particularly as in [[cultivation]]
+#: {{ja-usex|庭'''作り'''、バラ'''作り'''|にわ'''づくり'''、バラ'''づくり'''|garden'''ing''' / garden '''cultivation''', rose '''cultivation''' / '''growing''' roses}}
+
+=====Usage notes=====
+More often spelled with the [[okurigana]], as {{m|ja|作り}}.
+
+===References===
+<references/>
 
 ----
 
