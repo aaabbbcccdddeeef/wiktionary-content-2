@@ -67,40 +67,59 @@
 
 ====Readings====
 {{ja-readings
-|on=[[らん]] (ran)
+|goon=[[らん]] (ran)
+|kanon=[[らん]] (ran)
 |kun=[[たまご]] (tamago)
 }}
 
 ====Compounds====
-* {{l|ja|卵黄|tr=[[らんおう]], ''[[ran'ō]]''}}: [[yolk]]
-* {{l|ja|卵殻|tr=[[らんかく]], ''[[rankaku]]''}}: [[eggshell]]
-* {{l|ja|卵子|tr=[[らんし]], ''[[ranshi]]''}}: [[ovum]]
-* {{l|ja|卵生|tr=[[らんせい]], ''[[ransei]]''}}: [[oviparity]]
-* {{l|ja|卵巣|tr=[[らんそう]], ''[[ransō]]''}}: [[ovary]]
-* {{l|ja|卵白|tr=[[らんぱく]], ''[[ranpaku]]''}}: [[albumen]]
-* {{l|ja|卵焼}}, {{l|ja|卵焼き|tr=[[たまごやき]], ''[[tamagoyaki]]''}}: [[omelet]], [[fried eggs]]
+{{der-top|Compounds}}
+* {{ja-r|卵焼|たまごやき}}, {{ja-r|卵焼き|たまごやき}}: [[omelet]], [[fried eggs]]
+* {{ja-r|梵卵|ぼんらん}}: [[world egg]]
+* {{ja-r|卵黄|らんおう}}: [[yolk]]
+* {{ja-r|卵殻|らんかく}}: [[eggshell]]
+* {{ja-r|卵子|らんし}}: [[ovum]]
+* {{ja-r|卵生|らんせい}}: [[oviparity]]
+* {{ja-r|卵巣|らんそう}}: [[ovary]]
+* {{ja-r|卵白|らんぱく}}: [[albumen]]
+{{der-bottom}}
 
-===Etymology===
+===Etymology 1===
+{{ja-kanjitab|たまご|yomi=k}}
 <div class="thumb tright">
 <div class="thumbinner" style="width: 252px;">[[File:Vogeleier.jpg|124px]] [[File:Fried_egg,_sunny_side_up.jpg|123px]] <div class="thumbcaption">{{lang|ja|卵}}</div></div></div>
 Compound of {{compound|lang=ja|sort=たまご|玉|tr1=tama|t1=ball|子|tr2=ko|t2=child, small thing}}. The final ''ko'' voices to ''go'' due to {{rendaku|たまご}}.
 
-===Pronunciation===
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/ta.ma.ɡo/|[tämäɡo̞]|[tämäŋo̞]}}
+====Pronunciation====
+{{ja-pron|yomi=k|たまご|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
 
-===Alternative forms===
+====Alternative forms====
 * {{l|ja|玉子}}
 
-===Noun===
+====Noun====
 {{ja-noun|たまご}}
 
 # an [[egg]]
-#: This term in Japanese is nearly as broad in use as {{etyl|en|-}} {{term|lang=en|egg}}, indicating an egg as [[lay|laid]] by various [[oviparous]] [[organism]]s, and egg as used in [[cooking]]. For the more specific biological sense of {{term|lang=en|ovum}}, see {{l|ja|卵子|tr=''ranshi''}}.
+#: This term in Japanese is nearly as broad in use as {{etyl|en|-}} {{m|en|egg}}, indicating an egg as [[lay|laid]] by various [[oviparous]] [[organism]]s, and egg as used in [[cooking]]. For the more specific biological sense of {{m|en|ovum}}, see {{l|ja|卵子|tr=''ranshi''}}.
+
+===Etymology 2===
+{{ja-kanjitab|らん|yomi=o}}
+From {{etyl|ltc|ja|sort=らん}} {{m|zh|卵|tr=lwan<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|らん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|らん}}
+
+# [[ovum]]
+
+===References===
+<references/>
 
 [[Category:ja:Eggs|たまご]]
 [[Category:ja:Foods|たまご]]
-[[Category:1000 Japanese basic words]]
+[[Category:1000 Japanese basic words|たまご]]
 
 ----
 
