@@ -192,16 +192,27 @@ From {{inh|cu|sla-pro|*jь}}.
 * {{audio|Ru-и.ogg|audio|lang=ru}}
 * {{ru-IPA|и́}}
 
-===Letter===
+===Etymology 1===
+
+====Letter====
 {{head|ru|letter|lower case||upper case|И}} (''italics: И, и'')
 
-# The tenth letter of the Russian [[Cyrillic]] alphabet. Its name is '''и''' (i) and is usually pronounced /i/, but unstressed or after certain consonants it merges with ы into /ɪ/. It is preceded by [[з|З]] and followed by [[й|Й]].
+# The tenth letter of the Russian [[Cyrillic]] alphabet. Its name is {{m|ru|и}}} and is usually pronounced /i/, but unstressed or after certain consonants it merges with ы into /ɪ/. It is preceded by {{m|ru|з|З}} and followed by {{m|ru|й|Й}}.
 
-====See also====
+=====See also=====
 * [[w:Cyrillic alphabet|Wikipedia article on the Cyrillic alphabet]]
 * Search '''en.wiktionary.org''' for articles beginning with: '''[http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%98&namespace=0 И]''', '''[http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%B8&namespace=0 и]'''
 
-===Conjunction===
+====Noun====
+{{ru-noun||n-in|-}}
+
+# The Cyrillic letter [[и#Russian|И]], [[и#Russian|и]].
+# {{qualifier|Roman letter}} [[I]], [[i]]
+# {{qualifier|English letter}} [[E]], [[e]]
+
+===Etymology 2===
+
+====Conjunction====
 {{head|ru|conjunction}}
 
 # [[and]]
@@ -211,10 +222,12 @@ From {{inh|cu|sla-pro|*jь}}.
 # [[even]]
 #: {{ux|ru|Бою́сь дана́йцев '''и''' дары́ принося́щих|I fear the Danaans [Greeks], '''even''' those bearing gifts.}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|and}} {{l|ru|а}}
 
-===Particle===
+===Etymology 3===
+
+====Particle====
 {{head|ru|particle}}
 
 # {{context|preceding a verb|lang=ru}} {{non-gloss definition|Emphasizes the truth of the following verb. Note that "{{l|ru|есть}}" is also used, which is usually omitted.}}
@@ -222,13 +235,6 @@ From {{inh|cu|sla-pro|*jь}}.
 #: {{ux|ru|Она́ '''и''' пошла́ туда́.|She '''did''' go there.}}
 #: {{ux|ru|Оно́ '''и''' есть тако́е.|It '''''is''''' like that.}}
 #: {{ux|ru|Я '''и''' есть тот челове́к.|I '''''am''''' that person.}}
-
-===Noun===
-{{ru-noun|и|n|-}}
-
-# The Cyrillic letter [[и#Russian|И]], [[и#Russian|и]].
-# {{qualifier|Roman letter}} [[I]], [[i]]
-# {{qualifier|English letter}} [[E]], [[e]]
 
 [[Category:ru:Letter names]]
 [[Category:ru:Cyrillic letter names]]
