@@ -19,7 +19,7 @@
 {{wikipedia|Voiced labio-velar approximant}}
 {{head|mul|symbol}}
 
-# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiced]] [[labial]]-[[velar]] [[approximant]]
+# {{label|mul|[[w:IPA|IPA]]}} [[voiced]] [[labial]]-[[velar]] [[approximant]]
 
 ===See also===
 {{Latn-script}}
@@ -68,7 +68,7 @@ Image:Fraktur letter W.png|Uppercase and lowercase '''W''' in [[Fraktur]]
 
 ===Adjective===
 {{en-adj|?}}
-# {{context|cricket|lang=en}} [[wide]]
+# {{label|en|cricket}} [[wide]]
 # [[white]]
 
 [[Category:en:Compass points]]
@@ -125,7 +125,7 @@ Image:Fraktur letter W.png|Uppercase and lowercase '''W''' in [[Fraktur]]
 ===Pronoun===
 {{head|ht|pronoun}}
 
-# Contraction of {{term|ou|lang=ht}}.
+# Contraction of {{m|ht|ou}}.
 
 [[Category:Haitian Creole contractions]]
 
@@ -163,8 +163,8 @@ Short for {{m|ja|笑う||to laugh|tr=warau}}.
 ====Interjection====
 {{head|ja|interjection}}
 
-# {{context|Internet slang|lang=ja}} [[LOL]]; an expression of amusement or laughter.
-#: {{usex|lang=ja|このバカ'''ｗｗｗｗｗｗｗ'''|tr=Kono baka '''wwwwwww'''|translation=This idiot '''LOL'''}}
+# {{label|ja|Internet slang}} [[LOL]]; an expression of amusement or laughter.
+#: {{ux|ja|このバカ'''ｗｗｗｗｗｗｗ'''|tr=Kono baka '''wwwwwww'''|translation=This idiot '''LOL'''}}
 
 ====Usage notes====
 w is most often found used multiple times in a row as in the example above.
@@ -246,9 +246,9 @@ From {{inh|pl|sla-pro|*vъ(n)}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*én}}
 ===Preposition===
 {{head|pl|preposition}}
 
-# {{context|+ locative|lang=pl}} [[in]]
-# {{context|+ accusative|lang=pl}} [[into]], [[in]]
-# {{context|+ accusative|lang=pl}} [[on]] (time/date)
+# {{label|pl|+ locative}} [[in]]
+# {{label|pl|+ accusative}} [[into]], [[in]]
+# {{label|pl|+ accusative}} [[on]] (time/date)
 
 ====Usage notes====
 Some combinations of sounds, mostly consonant clusters at the beginning of the following noun, require that this preposition is used in longer form {{l|pl|we}}. Examples:
@@ -330,9 +330,9 @@ But:
 ===Verb===
 {{head|cy|verb form}}
 
-# {{context|colloquial|South Wales|lang=cy}} {{inflection of|bod||1|s|pres|lang=cy}} {{qualifier|in affirmative or negative statements}}
-#: {{usex|'''W''' i yn y car.|t=I’m in the car.|lang=cy|inline=1}}
-#: {{usex|'''W''' i ddim yn hapus.|t=I’m not happy.|lang=cy|inline=1}}
+# {{label|cy|colloquial|South Wales}} {{inflection of|bod||1|s|pres|lang=cy}} {{qualifier|in affirmative or negative statements}}
+#: {{ux|cy|'''W''' i yn y car.|t=I’m in the car.|inline=1}}
+#: {{ux|cy|'''W''' i ddim yn hapus.|t=I’m not happy.|inline=1}}
 
 ====Related terms====
 * {{l|cy|ydw}} {{qualifier|interrogative}}
