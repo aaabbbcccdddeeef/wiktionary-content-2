@@ -84,7 +84,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 # {{non-gloss definition|used when you are not certain about something and you would like confirmation}}: {{l|en|eh}}, {{l|en|well}}, {{l|en|right}}, or translated with a {{l|en|tag question}}
 #: {{ux|bg|Хареса ти, '''а'''?|So, you liked it, eh/did you?|inline=1}}
 #: {{ux|bg|Утре заминаваш, '''а'''?|You're leaving tomorrow, right?|inline=1}}
-# {{context|colloquial|lang=bg}} {{non-gloss definition|used to indicate that one did not hear what was said}}: {{l|en|eh}}, {{l|en|huh}}
+# {{label|bg|colloquial}} {{non-gloss definition|used to indicate that one did not hear what was said}}: {{l|en|eh}}, {{l|en|huh}}
 #: {{ux|bg|‘Не съм гладен.’ ‘'''А'''?’ ‘Казах, че не съм гладен.’|‘I'm not hungry.’ ‘Eh?’ ‘I said I'm not hungry.’|inline=1}}
 #: {{ux|bg|'''А'''? Какво каза?|Huh? What did you say?|inline=1}}
 # {{non-gloss definition|used to express understanding, recognition, or realization}}: {{l|en|oh}}
@@ -239,7 +239,7 @@ The Russian name for '''а''' (''a'') is '''а''' (''ā''), and in stressed syll
 ===Etymology 2===
 From {{inh|ru|sla-pro|*a||and, but}}, from {{inh|ru|ine-bsl-pro|*ō}}, from {{inh|ru|ine-pro|*h₁ōd}} (presumed to be the ablative of {{m|ine-pro|*éy|*éy, h₁e}}). Cognate with {{etyl|lt|-}} {{m|lt|õ||and, but}}.
 
-Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russian {{term|а||and, but|lang=ru}}, {{term|и||and|lang=ru}} and {{term|да||and, but|lang=ru}} with Lithuanian {{term|ar̃||if, whether|lang=lt}}, {{term|ir̃||and|lang=lt}} and {{term|dár||still, yet|lang=lt}}
+Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russian {{m|ru|а||and, but}}, {{m|ru|и||and}} and {{m|ru|да||and, but}} with Lithuanian {{m|lt|ar̃||if, whether}}, {{m|lt|ir̃||and}} and {{m|lt|dár||still, yet}}
 
 ====Pronunciation====
 * {{audio|Ru-а.ogg|Audio (stressed)|lang=ru}}
@@ -265,7 +265,7 @@ Possible link with {{etyl|lt|-}} {{m|lt|ar̃||question particle}}. Compare Russi
 Compare {{etyl|lt|-}} {{m|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, as well as {{etyl|got|-}} {{m|got|𐍉||ah!}}, {{etyl|la|-}} {{m|la|ā}}, {{m|la|āh||expression of pain, anger}}, {{etyl|grc|-}} {{m|grc|ἆ||ah!}}
 
 ====Alternative forms====
-* {{term|аа|lang=ru}}, {{term|а-а|lang=ru}}
+* {{m|ru|аа}}, {{m|ru|а-а}}
 
 ====Pronunciation====
 * {{ru-IPA}}
@@ -303,7 +303,7 @@ Compare {{etyl|lt|-}} {{m|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, 
 ====Pronoun====
 {{head|ru|pronoun|invariable}}
 
-# {{context|criminal slang|lang=ru}} [[he]], [[she]] or [[it]] (used to point to a particular person)
+# {{label|ru|criminal slang}} [[he]], [[she]] or [[it]] (used to point to a particular person)
 
 =====References=====
 * {{R:ru:Pirozhkov}}
@@ -339,31 +339,31 @@ From {{inh|sh|sla-pro|*a||and, but}}, from {{etyl|ine-bsl-pro|sh}} {{m|ine-bsl-p
 {{sh-conjunction|c|a}}
 
 # [[but]], [[and]] (compare {{m|sh|sc=Cyrl|а̏ли}})
-#: {{usex|учио сам ц(иј)ело посл(иј)еподне, а ништа нисам научио|t=I studied for the whole afternoon, but I didn't learn anything|lang=sh|inline=1}}
-#: {{usex|а како бисте ви то направили?|t=and how would you do that?|lang=sh|inline=1}}
+#: {{ux|sh|учио сам ц(иј)ело посл(иј)еподне, а ништа нисам научио|t=I studied for the whole afternoon, but I didn't learn anything|inline=1}}
+#: {{ux|sh|а како бисте ви то направили?|t=and how would you do that?|inline=1}}
 # [[while]] (on the contrary), [[whereas]]
-#: {{usex|столови су црвени, а столице су зелене|t=the tables are red, whereas the chairs are green|lang=sh|inline=1}}
-# {{context|with {{term|sc=Cyrl|да|lang=sh}} {{term|sc=Cyrl|не|lang=sh}}|lang=sh}} [[without]] (usually after negative verbs)
-#: {{usex|не могу се укључити у расправу, а да не направим неред|t=I cannot enter a discussion without making a mess|lang=sh|inline=1}}
-#: {{usex|одлази, а да није рекао ни збогом|t=he's leaving without even saying goodbye|lang=sh|inline=1}}
-# ({{term|sc=Cyrl||а|lang=sh}} {{m|sh|sc=Cyrl|и̏па̄к}}) [[and]] [[yet]]
-#: {{usex|прави пријатељ зна све о теби, а ипак те воли|t=the real friend knows everything about you, and yet he loves you|lang=sh|inline=1}}
-# ({{term|sc=Cyrl||а|lang=sh}} {{m|sh|sc=Cyrl|ка̏моли}}) not to mention, [[let alone]]
-#: {{usex|у мору лоших в(иј)ести тешко је остати објективан, а камоли оптимистичан|t=in the sea of bad news it's hard to stay objective, let alone optimistic|lang=sh|inline=1}}
-# ({{term|sc=Cyrl||а|lang=sh}} + {{term|sc=Cyrl|и|lang=sh}} + {{term|sc=Cyrl|да|lang=sh}}) [[even if]]
-#: {{usex|а и да јесам то направио, не би то учинило неку разлику|t=even if I did it, it wouldn't have made much of a difference|lang=sh|inline=1}}
-# ({{term|sc=Cyrl||а|lang=sh}} + {{term|sc=Cyrl|и|lang=sh}}) and [[so]], and [[also]], and [[too]]
-#: {{usex|свиђају ми се плавуше, а и ја се покојој свидим|t=I like blondes, and some of them even like me|lang=sh|inline=1}}
-#: {{usex|били су жалосни, а и ја сам|t=they were sad, and so am I|lang=sh|inline=1}}
+#: {{ux|sh|столови су црвени, а столице су зелене|t=the tables are red, whereas the chairs are green|inline=1}}
+# {{label|sh|with {{m|sh|sc=Cyrl|да}} {{m|sh|sc=Cyrl|не}}}} [[without]] (usually after negative verbs)
+#: {{ux|sh|не могу се укључити у расправу, а да не направим неред|t=I cannot enter a discussion without making a mess|inline=1}}
+#: {{ux|sh|одлази, а да није рекао ни збогом|t=he's leaving without even saying goodbye|inline=1}}
+# ({{m|sh|sc=Cyrl||а}} {{m|sh|sc=Cyrl|и̏па̄к}}) [[and]] [[yet]]
+#: {{ux|sh|прави пријатељ зна све о теби, а ипак те воли|t=the real friend knows everything about you, and yet he loves you|inline=1}}
+# ({{m|sh|sc=Cyrl||а}} {{m|sh|sc=Cyrl|ка̏моли}}) not to mention, [[let alone]]
+#: {{ux|sh|у мору лоших в(иј)ести тешко је остати објективан, а камоли оптимистичан|t=in the sea of bad news it's hard to stay objective, let alone optimistic|inline=1}}
+# ({{m|sh|sc=Cyrl||а}} + {{m|sh|sc=Cyrl|и}} + {{m|sh|sc=Cyrl|да}}) [[even if]]
+#: {{ux|sh|а и да јесам то направио, не би то учинило неку разлику|t=even if I did it, it wouldn't have made much of a difference|inline=1}}
+# ({{m|sh|sc=Cyrl||а}} + {{m|sh|sc=Cyrl|и}}) and [[so]], and [[also]], and [[too]]
+#: {{ux|sh|свиђају ми се плавуше, а и ја се покојој свидим|t=I like blondes, and some of them even like me|inline=1}}
+#: {{ux|sh|били су жалосни, а и ја сам|t=they were sad, and so am I|inline=1}}
 
 ===Etymology 3===
-Attested since the 15th century. Probably of onomatopoeic origin. Compare Slovene {{term|a|lang=sl}}, Russian {{term|а|lang=ru}}, Lithuanian {{m|lt|õ}}, Latin {{m|la|ō}} and Ancient Greek {{term|ὦ|lang=grc}}. These could all derive from Proto-Indo-European interjection {{m|ine-pro||ō|oh, ah}}, but each form in individual languages could easily be an independent, expressive formation.
+Attested since the 15th century. Probably of onomatopoeic origin. Compare Slovene {{m|sl|a}}, Russian {{m|ru|а}}, Lithuanian {{m|lt|õ}}, Latin {{m|la|ō}} and Ancient Greek {{m|grc|ὦ}}. These could all derive from Proto-Indo-European interjection {{m|ine-pro||ō|oh, ah}}, but each form in individual languages could easily be an independent, expressive formation.
 
 ====Interjection====
 {{sh-interjection|c|a}}
 
 # [[oh]], [[ah]]
-#: {{usex|а да?|t=oh really?|lang=sh|inline=1}}
+#: {{ux|sh|а да?|t=oh really?|inline=1}}
 
 ===References===
 * {{R:sh:HJP|fQ%3D%3D}}
