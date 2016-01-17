@@ -5,7 +5,7 @@
 
 ===Etymology===
 [[Image:Uncial e.png|Approximate form of upper case letter E that was the source for lower case e]]
-Modification of capital letter {{term|E|lang=mul}}, from {{etyl|grc|mul}} letter {{term|sc=Grek|Ε|tr=E||Epsilon|lang=mul}}.
+Modification of capital letter {{m|mul|E}}, from {{etyl|grc|mul}} letter {{m|mul|sc=Grek|Ε|tr=E||Epsilon}}.
 
 ===Pronunciation===
 * {{audio|Close-mid front unrounded vowel.ogg|IPA|lang=mul}}
@@ -18,7 +18,7 @@ Modification of capital letter {{term|E|lang=mul}}, from {{etyl|grc|mul}} letter
 ====See also====
 {{Latn-script}}
 * {{qualifier|select similar letters and symbols}} [[ɘ]] [[ǝ]] [[Ə]] [[Ɛ]] [[Æ]] [[Œ]]
-* {{qualifier|other scripts}} {{term|sc=Grek|lang=mul|ε|tr=e||[[epsilon]]}} {{term|sc=Cyrl|lang=mul|е|tr=je}}
+* {{qualifier|other scripts}} {{m|mul|sc=Grek|ε|tr=e||[[epsilon]]}} {{m|mul|sc=Cyrl|е|tr=je}}
 * See [[Appendix:Variations of "e"]]
 
 ===Symbol===
@@ -59,12 +59,12 @@ Image:Uncial e.png|Approximate form of upper case letter E in [[uncial]] script 
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{term|e|lang=ang}} and split of {{term|æ|lang=ang}}, {{term|ea|lang=ang}}, {{term|eo|lang=ang}}, and {{term|œ|lang=ang}}, from five 7th century replacements of Anglo-Saxon Futhorcs by Latin letters:
-* [[Image:Runic letter ehwaz.png|15px|Anglo-Saxon Futhorc ᛖ (e)]] {{etyl|ang|en}} lower case letter {{term|e|lang=ang}}, from replacement by Latin letter {{term|e|lang=ang}} of the Anglo-Saxon Futhorc letter {{term|ᛖ|tr=e|lang=ang}}.
-* [[Image:Rune-Æsc.png|15px|Anglo-Saxon Futhorc letter ᚫ (æ)]] {{etyl|ang|en}} lower case letter {{term|æ|lang=ang}} from replacement by Latin ligature {{term|æ|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚫ|tr=æ|lang=ang}}.
-* [[Image:Rune-Ear.png|15px|Anglo-Saxon Futhorc ᛠ (ea)]] {{etyl|ang|en}} lower case digraph {{term|ea|lang=ang}}, from replacement by Latin digraph {{term|ea|lang=ang}} of the Anglo-Saxon Futhorc letter {{term|ᛠ|tr=ea|lang=ang}}.
-* [[Image:Runic letter iwaz.png|15px|Anglo-Saxon Futhorc ᛇ (ēo)]] {{etyl|ang|en}} lower case digraph {{term|eo|lang=ang}} from replacement by Latin digraph {{term|eo|lang=ang}} of Anglo-Saxon Futhorc {{term|ᛇ|tr=ēo|lang=ang}}.
-* [[Image:Rune-Eðel.png|15px|Anglo-Saxon Futhorc ᛟ (œ)]] {{etyl|ang|en}} lower case letter {{term|œ|lang=ang}} from replacement by Latin ligature {{term|œ|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᛟ|tr=œ|lang=ang}}.
+From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split of {{m|ang|æ}}, {{m|ang|ea}}, {{m|ang|eo}}, and {{m|ang|œ}}, from five 7th century replacements of Anglo-Saxon Futhorcs by Latin letters:
+* [[Image:Runic letter ehwaz.png|15px|Anglo-Saxon Futhorc ᛖ (e)]] {{etyl|ang|en}} lower case letter {{m|ang|e}}, from replacement by Latin letter {{m|ang|e}} of the Anglo-Saxon Futhorc letter {{m|ang|ᛖ|tr=e}}.
+* [[Image:Rune-Æsc.png|15px|Anglo-Saxon Futhorc letter ᚫ (æ)]] {{etyl|ang|en}} lower case letter {{m|ang|æ}} from replacement by Latin ligature {{m|la|æ}} of the Anglo-Saxon Futhorc letter {{m|ang|ᚫ|tr=æ}}.
+* [[Image:Rune-Ear.png|15px|Anglo-Saxon Futhorc ᛠ (ea)]] {{etyl|ang|en}} lower case digraph {{m|ang|ea}}, from replacement by Latin digraph {{m|ang|ea}} of the Anglo-Saxon Futhorc letter {{m|ang|ᛠ|tr=ea}}.
+* [[Image:Runic letter iwaz.png|15px|Anglo-Saxon Futhorc ᛇ (ēo)]] {{etyl|ang|en}} lower case digraph {{m|ang|eo}} from replacement by Latin digraph {{m|ang|eo}} of Anglo-Saxon Futhorc {{m|ang|ᛇ|tr=ēo}}.
+* [[Image:Rune-Eðel.png|15px|Anglo-Saxon Futhorc ᛟ (œ)]] {{etyl|ang|en}} lower case letter {{m|ang|œ}} from replacement by Latin ligature {{m|la|œ}} of the Anglo-Saxon Futhorc letter {{m|ang|ᛟ|tr=œ}}.
 
 ===Pronunciation===
 * {{sense|letter name}} {{IPA|/iː/|lang=en}}
@@ -90,7 +90,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{term|e|lang=ang}} a
 {{en-noun|ees<!--e's is the plural of the letter, not its name-->}}
 
 # {{Latn-def|en|name|E|e}}
-# {{context|mathematics|lang=en}} the base of the natural logarithm, 2.718281828459045…
+# {{label|en|mathematics}} the base of the natural logarithm, 2.718281828459045…
 
 ====Coordinate terms====
 * {{list:Latin script letter names/en}}
@@ -169,11 +169,11 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{term|e|lang=ang}} a
 ===Article===
 {{head|gsw|article|g=f}}
 
-# {{context|indefinite|lang=gsw}} [[a]]/[[an]]
+# {{label|gsw|indefinite}} [[a]]/[[an]]
 
 ====Declension====
 {{gsw-decl-pronoun|en|e|es||emene|enere|emene|}}
-* Short forms of the dative – {{term|eme|lang=gsw}}, {{term|ere|lang=gsw}}, {{term|eme|lang=gsw}} – are also common.
+* Short forms of the dative – {{m|gsw|eme}}, {{m|gsw|ere}}, {{m|gsw|eme}} – are also common.
 
 ----
 
@@ -189,7 +189,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{term|e|lang=ang}} a
 ==Aromanian==
 
 ===Etymology===
-From {{etyl|la|rup}} {{term|et|lang=la}}.
+From {{etyl|la|rup}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|rup|conjunction}}
@@ -246,7 +246,7 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 ==Corsican==
 
 ===Etymology===
-From {{etyl|la|co}} {{term|et|lang=la}}.
+From {{etyl|la|co}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|co|conjunction}}
@@ -258,7 +258,7 @@ From {{etyl|la|co}} {{term|et|lang=la}}.
 ==Dalmatian==
 
 ===Etymology===
-From {{etyl|la|dlm}} {{term|et|lang=la}}.
+From {{etyl|la|dlm}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|dlm|conjunction}}
@@ -385,7 +385,7 @@ From {{etyl|urj-pro|hu}} {{m|urj-pro|*e-}}. Cognates include Finnish {{m|fi|ett�
 ===Pronoun===
 {{hu-pronoun|demonstrative}}
 
-# {{context|archaic|lang=hu}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
+# {{label|hu|archaic}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
 #* '''1836:''' Vörösmarty Mihály, Szózat
 #*: A nagy világon '''e''' kivűl (''modern spelling: [[kívül]]'')
 #*: Nincsen számodra hely;
@@ -401,7 +401,7 @@ From {{etyl|urj-pro|hu}} {{m|urj-pro|*e-}}. Cognates include Finnish {{m|fi|ett�
 * [[ezen]]
 
 ====Usage notes====
-A rarer substitute of {{term|ez|lang=hu}}, but unlike ''ez'', it does not take the case of the noun it is attached to, and no definite article is used:
+A rarer substitute of {{m|hu|ez}}, but unlike ''ez'', it does not take the case of the noun it is attached to, and no definite article is used:
 : ''ez'''en a''' hely'''en''''' - ''e hely'''en''''' (at this place)
 : ''eb'''ben a''' ház'''ban''''' - ''e ház'''ban''''' (in this house)
 
@@ -437,7 +437,7 @@ A rarer substitute of {{term|ez|lang=hu}}, but unlike ''ez'', it does not take t
 * {{qualifier|before a vowel}} {{l|io|ed}}
 
 ===Etymology===
-From {{etyl|fr|io}} {{term|et|lang=fr}}, {{etyl|es|io}} {{term|y|lang=es}}, {{term|e|lang=es}}, {{etyl|it|io}} {{term|e|lang=it}}, {{term|ed|lang=it}}, {{etyl|ru|io}} {{term|sc=Cyrl|и|tr=i|lang=ru}}.
+From {{etyl|fr|io}} {{m|fr|et}}, {{etyl|es|io}} {{m|es|y}}, {{m|es|e}}, {{etyl|it|io}} {{m|it|e}}, {{m|it|ed}}, {{etyl|ru|io}} {{m|ru|sc=Cyrl|и|tr=i}}.
 
 ===Conjunction===
 {{head|io|conjunction}}
@@ -453,7 +453,7 @@ From {{etyl|fr|io}} {{term|et|lang=fr}}, {{etyl|es|io}} {{term|y|lang=es}}, {{te
 ==Indo-Portuguese==
 
 ===Etymology===
-From {{etyl|pt|idb}} {{term|e||and|lang=pt}}, from {{etyl|roa-opt|idb}} {{term|e||and|lang=roa-opt}}, from {{etyl|la|idb}} {{term|et||and|lang=la}}, from {{etyl|ine-pro|idb}} {{m|ine-pro|*éti||over}}.
+From {{etyl|pt|idb}} {{m|pt|e||and}}, from {{etyl|roa-opt|idb}} {{m|roa-opt|e||and}}, from {{etyl|la|idb}} {{m|la|et||and}}, from {{etyl|ine-pro|idb}} {{m|ine-pro|*éti||over}}.
 
 ===Conjunction===
 {{head|idb|conjunction}}
@@ -495,7 +495,7 @@ From {{etyl|la|ist}} {{m|la|et}}.
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{term|et|lang=la}}.<ref>Angelo Prati, "Vocabolario Etimologico Italiano", Torino, 1951</ref>
+From {{etyl|la|it}} {{m|la|et}}.<ref>Angelo Prati, "Vocabolario Etimologico Italiano", Torino, 1951</ref>
 
 ===Alternative forms===
 * {{qualifier|before a vowel}} [[ed]]
@@ -594,7 +594,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 # {{Latn-def|lv|letter|7|e}}
 
 ====Usage notes====
-The letter '''''E'''''/'''''e''''' (like its long counterpart '''''Ē'''''/'''''ē''''') represent two sounds, [ɛ] — {{term|šaurais e||narrow e|lang=lv}} — and [æ] — {{term|platais e||broad e|lang=lv}}. In principle, [ɛ] is used when there is a palatal element (the vowels ''i'', ''ī'', ''e'', ''ē'', the diphthongs ''ie'', ''ei'', and the palatal consonants ''j'', ''ķ'', ''ģ'', ''ļ'', ''ņ'', ''š'', ''ž'', ''č'', ''dž'', and, in the old spelling, ''ŗ'') either in the same or in the following syllable; otherwise, [æ] is used. Unfortunately, some historical changes have obscured this pattern by removing some previously existing palatal elements; as a result of that, for a number of words the actual pronunciation of the letter ''e'' — [ɛ] or [æ] — must be memorized.
+The letter '''''E'''''/'''''e''''' (like its long counterpart '''''Ē'''''/'''''ē''''') represent two sounds, [ɛ] — {{m|lv|šaurais e||narrow e}} — and [æ] — {{m|lv|platais e||broad e}}. In principle, [ɛ] is used when there is a palatal element (the vowels ''i'', ''ī'', ''e'', ''ē'', the diphthongs ''ie'', ''ei'', and the palatal consonants ''j'', ''ķ'', ''ģ'', ''ļ'', ''ņ'', ''š'', ''ž'', ''č'', ''dž'', and, in the old spelling, ''ŗ'') either in the same or in the following syllable; otherwise, [æ] is used. Unfortunately, some historical changes have obscured this pattern by removing some previously existing palatal elements; as a result of that, for a number of words the actual pronunciation of the letter ''e'' — [ɛ] or [æ] — must be memorized.
 
 ====See also====
 * ''Letters of the Latvian alphabet:''
@@ -685,7 +685,7 @@ The letter '''''E'''''/'''''e''''' (like its long counterpart '''''Ē'''''/'''''
 * {{IPA|/e/|lang=nap}}
 
 ===Etymology 1===
-From {{etyl|la|nap}} {{term|de|lang=la}}
+From {{etyl|la|nap}} {{m|la|de}}
 
 ====Alternative forms====
 [['e]]
@@ -696,7 +696,7 @@ From {{etyl|la|nap}} {{term|de|lang=la}}
 # [[of]] {{gloss|used to express ownership}}
 
 ===Etymology 2===
-From {{etyl|la|nap}} {{term|et|lang=la}}
+From {{etyl|la|nap}} {{m|la|et}}
 
 ====Conjunction====
 {{head|nap|conjunction}}
@@ -729,7 +729,7 @@ From {{etyl|la|nap}} {{term|et|lang=la}}
 ====Verb====
 {{head|no|verb}}
 
-# {{context|dialectal|lang=no}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
+# {{label|no|dialectal}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
 
 ----
 
@@ -745,7 +745,7 @@ From {{etyl|la|nap}} {{term|et|lang=la}}
 ==Occitan==
 
 ===Etymology===
-From {{etyl|pro|oc}} {{term|e|lang=pro}}, from {{etyl|la|oc}} {{term|et|lang=la}}.
+From {{etyl|pro|oc}} {{m|pro|e}}, from {{etyl|la|oc}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|oc|conjunction}}
@@ -760,7 +760,7 @@ From {{etyl|pro|oc}} {{term|e|lang=pro}}, from {{etyl|la|oc}} {{term|et|lang=la}
 * {{l|fro|et}}
 
 ===Etymology===
-From {{etyl|la|fro}} {{term|et|lang=la}}.
+From {{etyl|la|fro}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|fro|conjunction}}
@@ -772,7 +772,7 @@ From {{etyl|la|fro}} {{term|et|lang=la}}.
 ==Old Portuguese==
 
 ===Etymology 1===
-From {{etyl|la|roa-opt}} {{term|et|lang=la}}, from {{etyl|ine-pro|roa-opt}} {{m|ine-pro|*éti}}.
+From {{etyl|la|roa-opt}} {{m|la|et}}, from {{etyl|ine-pro|roa-opt}} {{m|ine-pro|*éti}}.
 
 ====Pronunciation====
 * {{IPA|/e/|lang=roa-opt}}
@@ -805,7 +805,7 @@ From {{etyl|la|roa-opt}} {{term|et|lang=la}}, from {{etyl|ine-pro|roa-opt}} {{m|
 ==Old Provençal==
 
 ===Etymology===
-From {{etyl|la|pro}} {{term|et|lang=la}}.
+From {{etyl|la|pro}} {{m|la|et}}.
 
 ===Conjunction===
 {{head|pro|conjunction}}
@@ -868,7 +868,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|e||and}}, from {{etyl|la|pt}} {{m|la|et||an
 ====Noun====
 {{pt-noun|m|-}}
 
-# {{context|logic|lang=pt}} [[and]], [[conjunction]]
+# {{label|pt|logic}} [[and]], [[conjunction]]
 
 ====Quotations====
 {{seeCites}}
@@ -936,7 +936,7 @@ Only used with sensing verbs; otherwise use {{l|rap|i}}.
 * Next letter: [[f]]
 
 =====Usage notes=====
-See {{term|E|lang=ro}} for pronunciation notes and details.
+See {{m|ro|E}} for pronunciation notes and details.
 
 ====Interjection====
 {{head|ro|interjection}}
@@ -954,7 +954,7 @@ See {{term|E|lang=ro}} for pronunciation notes and details.
 ====Verb====
 {{head|ro|verb form}}
 
-# {{context|informal|lang=ro}} {{ro-form-verb|3s|pres|fi}}
+# {{label|ro|informal}} {{ro-form-verb|3s|pres|fi}}
 #: ''[[el|El]] '''e''' [[un]] [[copil]].''
 #:: "He is a child."
 
@@ -964,13 +964,13 @@ See {{term|E|lang=ro}} for pronunciation notes and details.
 * {{qualifier|familiar}} {{l|ro|-i}}
 
 ===Etymology 3===
-From {{etyl|la|ro}} {{term|et|lang=ro}}.
+From {{etyl|la|ro}} {{m|ro|et}}.
 
 ====Conjunction====
 {{head|ro|conjunction}}
 
-# {{context|obsolete|lang=ro}} [[and]]
-# {{context|obsolete|lang=ro}} [[but]]
+# {{label|ro|obsolete}} [[and]]
+# {{label|ro|obsolete}} [[but]]
 
 =====Synonyms=====
 * {{sense|and}} {{l|ro|și}}
@@ -1042,18 +1042,18 @@ See [[#Translingual|Translingual section]].
 Its name is '''е''' {{IPAchar|/ɛ/}} and it has the sound of '''e''' in ''n'''e'''t''.
 
 ===Etymology 2===
-Variant of {{term|ej|lang=sh}} or {{term|hej|lang=sh}}
+Variant of {{m|sh|ej}} or {{m|sh|hej}}
 
 ====Interjection====
 {{sh-interjection|r|е}}
 
-# {{context|rare|lang=sh}} [[well]], [[now]]
-# {{context|informal|at the beginning of the sentence|lang=sh}} [[hey]]
-# {{context|informal|at the beginning of the sentence|lang=sh}} Used to emphasize the sentence
+# {{label|sh|rare}} [[well]], [[now]]
+# {{label|sh|informal|at the beginning of the sentence}} [[hey]]
+# {{label|sh|informal|at the beginning of the sentence}} Used to emphasize the sentence
 #: '''''E''', šta ima?'' — “Hey, what's up?”
-# {{context|informal|at the beginning of the sentence|lang=sh}} Used to express surprise
+# {{label|sh|informal|at the beginning of the sentence}} Used to express surprise
 #: '''''E''', otkud ti?'' — “Hey, where did you come from?”
-# {{context|informal|at the beginning of the sentence|lang=sh}} Used to get attention or change the topic of conversation, especially if followed by [[a]] ([[and]], [[but]])
+# {{label|sh|informal|at the beginning of the sentence}} Used to get attention or change the topic of conversation, especially if followed by [[a]] ([[and]], [[but]])
 #: '''''E''', a vidi ovo.'' — “And look at this.”
 
 ----
@@ -1089,7 +1089,7 @@ Variant of {{term|ej|lang=sh}} or {{term|hej|lang=sh}}
 ====Noun====
 {{es-noun|f}}
 
-# Name of the letter {{term|E|lang=es}}.
+# Name of the letter {{m|es|E}}.
 
 ===Etymology 2===
 
@@ -1101,10 +1101,10 @@ Variant of {{term|ej|lang=sh}} or {{term|hej|lang=sh}}
 {{head|es|conjunction}}
 
 # [[and]]
-#: {{usex|lang=es|Yo hablo francés '''e''' inglés.|t=I speak French '''and''' English.}}
+#: {{ux|es|Yo hablo francés '''e''' inglés.|t=I speak French '''and''' English.}}
 
 =====Usage notes=====
-Used instead of {{term|y|lang=es}} when the following word starts with the vowel sound {{IPAchar|/i/}}.
+Used instead of {{m|es|y}} when the following word starts with the vowel sound {{IPAchar|/i/}}.
 
 ====See also====
 * {{l|es|u}}
@@ -1130,7 +1130,7 @@ Used instead of {{term|y|lang=es}} when the following word starts with the vowel
 ===Verb===
 {{head|sv|verb form}}
 
-# {{context|informal|Internet slang|text messaging|lang=sv}} colloquial spelling of [[är]]
+# {{label|sv|informal|Internet slang|text messaging}} colloquial spelling of [[är]]
 
 ----
 
@@ -1238,7 +1238,7 @@ Used instead of {{term|y|lang=es}} when the following word starts with the vowel
 # [[he]], [[him]]
 
 ====Usage notes====
-{{term|e|E}} is used predominantly in the south of Wales, while {{term|o|lang=cy}} is used in the north. {{term|fe|lang=cy}} and {{term|fo|lang=cy}} are variants of {{term|e}} and {{term|o|lang=cy}} respectively.
+{{term|e|E}} is used predominantly in the south of Wales, while {{m|cy|o}} is used in the north. {{m|cy|fe}} and {{m|cy|fo}} are variants of {{term|e}} and {{m|cy|o}} respectively.
 
 [[af:e]]
 [[ar:e]]
