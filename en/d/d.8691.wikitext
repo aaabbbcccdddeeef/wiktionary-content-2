@@ -5,7 +5,7 @@
 
 ===Etymology 1===
 [[Image:Uncial d.png|Approximate form of upper case letter D that was the source for lower case d]]
-Modification of capital letter {{term|D|lang=mul}}, from {{etyl|grc|mul}} letter {{term|Δ||Delta|lang=grc}}.
+Modification of capital letter {{m|mul|D}}, from {{etyl|grc|mul}} letter {{m|grc|Δ||Delta}}.
 
 ====Letter====
 {{mul-letter|upper=D|lower=d|script=Latn}}
@@ -13,7 +13,7 @@ Modification of capital letter {{term|D|lang=mul}}, from {{etyl|grc|mul}} letter
 # The fourth letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
 
 ====Usage notes====
-The letter {{term|d|lang=mul}} is used in the alphabets of many languages, and in several romanization systems of non-Latin scripts to represent the [[w:Voiced alveolar plosive|voiced alveolar plosive]] ({{IPAchar|/d/|lang=mul}}). In some languages and transcription systems where unaspirated stops contrast with aspirated stops, {{term|d|lang=mul}} represents an unaspirated {{IPAchar|/t/}}, while {{term|t|lang=mul}} represents an aspirated {{IPAchar|/tʰ/}}.
+The letter {{m|mul|d}} is used in the alphabets of many languages, and in several romanization systems of non-Latin scripts to represent the [[w:Voiced alveolar plosive|voiced alveolar plosive]] ({{IPAchar|/d/|lang=mul}}). In some languages and transcription systems where unaspirated stops contrast with aspirated stops, {{m|mul|d}} represents an unaspirated {{IPAchar|/t/}}, while {{m|mul|t}} represents an aspirated {{IPAchar|/tʰ/}}.
 
 ====See also====
 {{Latn-script}}
@@ -49,8 +49,8 @@ With a bar over the numeral, i.e., as <span style="text-decoration:overline;">d<
 {{wikipedia|Voiced alveolar plosive}}
 {{head|mul|symbol}}
 
-# {{context|mathematics|lang=mul}} the (path-independent, [[w:exact differential|exact]]) differential of a quantity
-# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiced]] [[alveolar]] [[plosive]]
+# {{label|mul|mathematics}} the (path-independent, [[w:exact differential|exact]]) differential of a quantity
+# {{label|mul|[[w:IPA|IPA]]}} [[voiced]] [[alveolar]] [[plosive]]
 
 ===See also===
 * {{sense|mathematics}} [[δ]]
@@ -75,7 +75,7 @@ Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script 
 
 ===Etymology 1===
 [[Image:Runic letter dagaz.png|left|50px|Anglo-Saxon Futhorc letter ᛞ, the Old English letter replaced by Latin d]]
-{{etyl|ang|en}} lower case letter {{term|d|lang=mul}}, from 7th century replacement by Latin lower case {{term|d|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᛞ|lang=mul|sc=Runr}}.<br clear="left"/>
+{{etyl|ang|en}} lower case letter {{m|mul|d}}, from 7th century replacement by Latin lower case {{m|la|d}} of the Anglo-Saxon Futhorc letter {{m|mul|ᛞ|sc=Runr}}.<br clear="left"/>
 
 ====Pronunciation====
 * {{sense|letter name}} {{IPA|/diː/|lang=en}}
@@ -102,8 +102,8 @@ Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script 
 
 ===Etymology 2===
 * {{sense|died, death}} abbreviation of
-* {{sense|British penny; old penny}} abbreviation of {{etyl|la|en}} {{term|denarii|lang=la}}, the name of the corresponding Roman coin.
-* {{sense|games|dice to use in a diceroll}} abbreviation of {{term|dice|lang=en}}
+* {{sense|British penny; old penny}} abbreviation of {{etyl|la|en}} {{m|la|denarii}}, the name of the corresponding Roman coin.
+* {{sense|games|dice to use in a diceroll}} abbreviation of {{m|en|dice}}
 
 ====Abbreviation====
 {{rfc-header|Abbreviation}}
@@ -111,14 +111,14 @@ Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script 
 
 # [[died]], [[death]].
 #: ''William Shakespeare, '''d''' 1616''
-# {{context|cricket|lang=en}} [[declare]]d; also abbreviated as {{term|dec|lang=en}}
+# {{label|en|cricket}} [[declare]]d; also abbreviated as {{m|en|dec}}
 
 ====Symbol====
 {{en-symbol}}
 
-# {{context|until February 1971|lang=en}} a British penny; an [[old penny]] (the modern decimal penny being abbreviated {{term|p|lang=en}}).
+# {{label|en|until February 1971}} a British penny; an [[old penny]] (the modern decimal penny being abbreviated {{m|en|p}}).
 #: ''£s'''d''''' — “pounds, shillings and pence”
-# {{context|games|infix|lang=en}} dice to use in a [[diceroll]]
+# {{label|en|games|infix}} dice to use in a [[diceroll]]
 #: ''2'''d'''6'' — “two six-sided die”
 # [[penny]], a measure of the size of [[nail]]s
 
@@ -131,14 +131,14 @@ Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script 
 ===Article===
 {{head|gsw|article|g=f}}
 
-# {{context|definite|lang=gsw}} [[the]]
+# {{label|gsw|definite}} [[the]]
 #* '''1978''', Rolf Lyssey and Christa Maerker, ''Die Schweizermacher'' (transcript):
 #*: '''Di''' nöchscht rächts. Mir fared i '''d’'''Fäldschtrass.
 #*:: ''The next right. We'll drive down Feldstrasse.''
 
 {{head|gsw|article|g=p}}
 
-# {{context|definite|lang=gsw}} [[the]]
+# {{label|gsw|definite}} [[the]]
 
 ====Declension====
 {{gsw-decl-definite article}}
@@ -168,12 +168,12 @@ Image:Uncial d.png|Approximate form of upper case letter D in [[uncial]] script 
 ===Noun===
 {{zh-noun}}
 
-# {{cx|Cantonese|nonstandard|lang=zh}} {{alternative spelling of|啲|lang=zh}}
+# {{lb|zh|Cantonese|nonstandard}} {{alternative spelling of|啲|lang=zh}}
 
 ===Suffix===
 {{zh-suf}}
 
-# {{cx|Cantonese|nonstandard|lang=zh}} {{alternative spelling of|啲|lang=zh}}
+# {{lb|zh|Cantonese|nonstandard}} {{alternative spelling of|啲|lang=zh}}
 
 [[Category:Chinese terms written in foreign scripts‎]]
 
@@ -427,12 +427,12 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Pronoun===
 {{head|sv|pronoun}}
 
-# {{context|Internet slang|text messaging|lang=sv}} {{abbreviation of|det|det|it|lang=sv}}
+# {{label|sv|Internet slang|text messaging}} {{abbreviation of|det|det|it|lang=sv}}
 
 ===Article===
 {{head|sv|article}}
 
-# {{context|Internet slang|text messaging|lang=sv}} {{abbreviation of|det|det|the|lang=sv}}
+# {{label|sv|Internet slang|text messaging}} {{abbreviation of|det|det|the|lang=sv}}
 
 ----
 
