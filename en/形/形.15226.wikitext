@@ -42,7 +42,7 @@
 # [[image]], [[appearance]]
 # [[body]]; [[entity]]; [[contour]]
 #: {{zhex|形體|physique}}
-# {{cx|grammar|lang=zh}} {{abbreviation of|lang=zh|{{zh-l|形容詞}}|dot=:}} [[adjective]]
+# {{lb|zh|grammar}} {{abbreviation of|lang=zh|{{zh-l|形容詞}}|dot=:}} [[adjective]]
 
 ====Synonyms====
 * {{sense|form}} {{zh-l|樣}}, {{zh-l|型}}
@@ -108,7 +108,7 @@
 {{der-bottom}}
 
 ===Etymology 1===
-Probably related to {{ja-l|堅い}} / {{ja-l|硬い}} / {{ja-l|固い||katai}}, {{term|lang=en|hard}}.
+Probably related to {{ja-l|堅い}} / {{ja-l|硬い}} / {{ja-l|固い||katai}}, {{m|en|hard}}.
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|訓読み|Kun'yomi}}
@@ -150,7 +150,7 @@ Derived from ''kata'' above. {{rendaku2|sort=かた'|kata|gata}} Only found in c
 For a [[shape]], the spelling {{l|ja|形}} is more commonly used. For a [[type]], the spelling {{l|ja|型}} is more commonly used.
 
 ===Etymology 3===
-Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|lang=ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{term|lang=en|stencil}}. {{rendaku2|sort=かたぎ|ki|gi}}
+Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|lang=ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{m|en|stencil}}. {{rendaku2|sort=かたぎ|ki|gi}}
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|訓読み|Kun'yomi}}
@@ -190,16 +190,16 @@ Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|lang=ja|so
 # [[shapeliness]]: see {{ja-l|形有り||katachiari}}
 
 ===Etymology 5===
-From {{etyl|ltc|ja|sort=けい}} {{term|lang=ltc|形|tr=heng}}. Compare modern {{etyl|cmn|-}} {{term|lang=cmn|形|tr=xíng}}. The {{term|lang=ja|漢音|sc=Latn|''kan'on''}} reading, so likely a later borrowing.
+From {{etyl|ltc|ja|sort=けい}} {{m|ltc|形|tr=heng}}. Compare modern {{etyl|cmn|-}} {{m|cmn|形|tr=xíng}}. The {{m|ja|漢音|sc=Latn|''kan'on''}} reading, so likely a later borrowing.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}: {{term|lang=ja|漢音|sc=Latn|Kan'on}}
+* {{l|ja|sc=Latn|音読み|On'yomi}}: {{m|ja|漢音|sc=Latn|Kan'on}}
 * {{IPA|lang=ja|/ke.e/|[ke̞ː]}}
 
 ====Suffix====
 {{ja-pos|suffix|けい}}
 
-# {{cx|lang=ja|sort=けい|linguistics}} [[grammatical]] [[tense]]
+# {{lb|ja|sort=けい|linguistics}} [[grammatical]] [[tense]]
 #: {{ja-usex|過去'''形'''|かこ'''けい'''|the [[past tense|past '''tense''']]}}
 #: {{ja-usex|将来'''形'''|しょうらい'''けい'''|the [[future tense|future '''tense''']]}}
 # {{qualifier|Japanese grammar}} a [[conjugation]] form of a [[verb]]
@@ -207,7 +207,7 @@ From {{etyl|ltc|ja|sort=けい}} {{term|lang=ltc|形|tr=heng}}. Compare modern {
 #: {{ja-usex|命令'''形'''|めいれい'''けい'''|the [[imperative]] or [[command]] '''form'''}}
 
 ===Etymology 6===
-From {{ja-l|成り||nari}}, the {{term|lang=ja|連用形|tr=ren'yōkei||[[continuative]] form}} of the verb {{term|lang=ja|成る|tr=naru||to become}}.
+From {{ja-l|成り||nari}}, the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] form}} of the verb {{m|ja|成る|tr=naru||to become}}.
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|訓読み|Kun'yomi}}
@@ -227,22 +227,22 @@ The most common spelling for this use is {{ja-l|なり}}, for all parts of speec
 # one's body [[shape]] or [[form]]
 # one's [[circumstances]] or [[situation]]
 # one's [[reputation]]
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
+# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
 #: {{ja-usex|人々の言う'''なり'''になった|ひとびと の いう '''なり''' に なった|things turned out '''just as''' people were saying}}
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of an adjective, indicates responding to the affixed adjective: compare English {{term|lang=en|fitting}}
+# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of an adjective, indicates responding to the affixed adjective: compare English {{m|en|fitting}}
 #: {{ja-usex|寒ければ寒い'''なり'''の厚着をする|さむければ さむい '''なり''' の あつぎ を する|if it's cold, '''then''' put on warm clothing / if it's cold, then put on warm clothes '''for''' cold weather}}
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of a verb, indicates the moment of the action occurring: compare English {{term|lang=en|as soon as}}
+# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連対形||rentaikei}}) of a verb, indicates the moment of the action occurring: compare English {{m|en|as soon as}}
 #: {{ja-usex|断りを聞く'''なり'''泣き出した|ことわり を きく '''なり''' なきだした|she burst into tears '''as soon as''' she heard the rejection}}
 # following a noun, indicates a state [[fitting]] or [[becoming]] to the affixed noun
 #: {{ja-usex|子供'''なり'''に想像する|こども '''なり''' に そうぞう する|imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
 #: {{ja-usex|自分'''なり'''の判断|じぶん '''なり''' の はんだん|my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
-# following a noun, indicates that [[shape]] or [[form]]: compare English {{term|lang=en|like}}
+# following a noun, indicates that [[shape]] or [[form]]: compare English {{m|en|like}}
 #: {{ja-usex|弓'''なり'''になる|ゆみ '''なり''' に なる|to become bow-'''shaped''' / to become '''like''' a bow}}
 
 ====Suffix====
 {{ja-pos|なり|suffix}}
 
-# following the {{term|lang=ja|連用形|tr=ren'yōkei||[[continuative]] form}} of a verb, indicates the state of the affixed verb or phrase: compare English {{term|lang=en|just}} {{term|lang=en|as}}
+# following the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] form}} of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
 #: {{ja-usex|人々が言い'''なり'''になった|ひとびと が いい'''なり''' に なった|things turned out '''just as''' people say}}
 
 [[Category:ja:Grammar|けい]]
