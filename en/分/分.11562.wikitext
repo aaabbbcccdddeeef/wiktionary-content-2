@@ -70,13 +70,13 @@
 # [[minute]] {{qualifier|unit of angle, 1/60 of a degree)}}
 # [[fraction]]
 #: {{zh-l|分之|used to indicate a fraction}}
-# {{context|sports|games|lang=zh}} [[point]]; [[mark]];
+# {{label|zh|sports|games}} [[point]]; [[mark]];
 #: {{zh-usex|本題 佔 五-十 '''分'''。|This question counts for 50 '''points'''.}}
 #: {{zh-usex|我 得 了 多少 '''分'''?|What's my '''score'''?}}
 # one [[tenth]]
-# {{context|unit of|_|money|lang=zh}} 0.01 [[yuan]]
-# {{context|Hong Kong|lang=zh}} [[fan]], a traditional unit of length, legally defined as 0.1 [[tsun]] ([[寸]]) or 0.00371475 [[metre]]s ([[米]])
-# {{context|archaic|lang=zh}} an ancient small unit of time
+# {{label|zh|unit of|_|money}} 0.01 [[yuan]]
+# {{label|zh|Hong Kong}} [[fan]], a traditional unit of length, legally defined as 0.1 [[tsun]] ([[寸]]) or 0.00371475 [[metre]]s ([[米]])
+# {{label|zh|archaic}} an ancient small unit of time
 # {{abbreviation of|lang=zh|市分|dot=:}} a unit of length equivalent to 0.33 cm
 
 ====See also====
@@ -247,8 +247,8 @@
 
 ====Compounds====
 {{top2}}
-* {{term|分類||[[classification]]|tr=[[ぶんるい]], [[bunrui]]|lang=ja|sc=Jpan}}
-* {{term|分類学||[[taxonomy]]|tr=[[ぶんるいがく]], [[bunruigaku]]|lang=ja|sc=Jpan}}
+* {{m|ja|分類||[[classification]]|tr=[[ぶんるい]], [[bunrui]]|sc=Jpan}}
+* {{m|ja|分類学||[[taxonomy]]|tr=[[ぶんるいがく]], [[bunruigaku]]|sc=Jpan}}
 * [[存分]]
 * [[多分]]
 {{mid2}}
