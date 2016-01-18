@@ -5,7 +5,7 @@
 
 ===Etymology 1===
 [[Image:Greek uc mu.png|50px|Greek {{lang|mul|sc=Grek|Μ}} (''M'', “Mu”), from which Latin upper case and lower case ''m'' were derived]]
-Modification of capital letter {{term|M|lang=mul}}, from {{etyl|grc|mul}} letter {{term|lang=grc|Μ||Mu}}.
+Modification of capital letter {{m|mul|M}}, from {{etyl|grc|mul}} letter {{m|grc|Μ||Mu}}.
 
 ====Letter====
 {{mul-letter|upper=M|lower=m|script=Latn}}
@@ -29,7 +29,7 @@ Various abbreviations.
 
 # [[meter]] ([[metre]]), the unit of [[length]] in the [[International System of Units]]
 # [[milli-]]
-# {{context|phonetics|lang=mul}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent the [[bilabial]] [[nasal]] ({{IPAchar|/m/|lang=mul}}), including [[Cyrillic]] {{term|lang=mul|sc=Cyrl|м|tr=m||em}}, the beginning of various [[kana]] including {{term|lang=mul|sc=Jpan|ま|tr=ma}}, and Korean jamo {{term|lang=mul|sc=Hang|ㅁ|tr=m||mieum}}.
+# {{label|mul|phonetics}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent the [[bilabial]] [[nasal]] ({{IPAchar|/m/|lang=mul}}), including [[Cyrillic]] {{m|mul|sc=Cyrl|м|tr=m||em}}, the beginning of various [[kana]] including {{m|mul|sc=Jpan|ま|tr=ma}}, and Korean jamo {{m|mul|sc=Hang|ㅁ|tr=m||mieum}}.
 # [[mass]]
 # [[month]] or [[months]]
 
@@ -93,7 +93,7 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 {{head|en|abbreviation}}
 
 # [[metre]]
-# {{context|grammar|lang=en}} [[masculine]]
+# {{label|en|grammar}} [[masculine]]
 # [[mile]]
 # [[milli]]
 # [[million]]
@@ -109,7 +109,7 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 # [[minute]]
 #* '''1908''', Francis Ernest Lloyd, ''The Physiology of Stomata'' (Carnegie Institution of Washington), [http://books.google.co.uk/books?id=TRFSAAAAMAAJ&q=%22o+micra%22&dq=%22o+micra%22&hl=en&ei=WCSbTd7GOsKj8QOKhcHrBg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CEcQ6AEwAw page 83]:
 #*: Another instance: 2<sup>h</sup>28<sup>m</sup> p. m., 10 micra; 3<sup>h</sup>08<sup>m</sup> p. m., 0 micra; irrigated with water: 3<sup>h</sup>09<sup>m</sup> p. m., 4 micra.
-# {{context|knitting|lang=en}} [[make]]
+# {{label|en|knitting}} [[make]]
 #* '''2011''', Kristi Porter, ''Knitting Patterns For Dummies'' (page 232)
 #*: Row 1 (RS): Kfb, knit to marker A, slip marker A, knit to marker B (there are no sts to knit between markers A and B in Row 1), '''m'''1, slip marker B, k1, slip marker B, '''m'''1, {{...}}
 
@@ -191,9 +191,9 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 {{head|egy|preposition|head=<hiero>m</hiero>}}
 
 # [[in]],
-# {{context|of time|lang=egy}} [[in]], [[for]], [[during]]
+# {{label|egy|of time}} [[in]], [[for]], [[during]]
 # (''with verbs of motion'') [[into]], [[out of]]
-# {{context|of material|lang=egy}} made of
+# {{label|egy|of material}} made of
 # by means of
 # in the state of, [[as]], [[is]]
 
@@ -281,7 +281,7 @@ Faulkner, ''Concise Dictionary of Middle Egyptian''
 ==Haitian Creole==
 
 ===Etymology===
-Contraction <!-- Abbreviation? -->of {{term|mwen|lang=ht}}, from {{etyl|fr|ht}} {{term|moi|lang=fr}}.
+Contraction <!-- Abbreviation? -->of {{m|ht|mwen}}, from {{etyl|fr|ht}} {{m|fr|moi}}.
 
 ===Pronunciation===
 {{rfp|lang=ht}}
@@ -481,7 +481,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 {{rfc-header|Abbreviation}}
 {{sh-abbreviation|r|м}}
 
-# {{context|grammar|lang=sh}} [[masculine]] [[gender]]
+# {{label|sh|grammar}} [[masculine]] [[gender]]
 # [[meter]] (unit of length)
 
 [[Category:sh:Units of measure]]
