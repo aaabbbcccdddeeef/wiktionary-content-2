@@ -46,9 +46,9 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 #: {{zh-l|股東|shareholder}}
 
 ====Coordinate terms====
-* {{term|南||south|lang=zh}}
-* {{term|西||west|lang=zh}}
-* {{term|北||north|lang=zh}}
+* {{m|zh|南||south}}
+* {{m|zh|西||west}}
+* {{m|zh|北||north}}
 
 ===Adjective===
 {{zh-adj}}
@@ -123,7 +123,7 @@ From {{etyl|ojp|ja|sort=ひむかし}}.  Compound of {{compound|lang=ja|sort=ひ
 ====Noun====
 {{ja-noun|ひむかし}}
 
-# {{context|lang=ja|sort=ひむかし|obsolete}} [[east]]
+# {{label|ja|sort=ひむかし|obsolete}} [[east]]
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|ひんがし}}
@@ -137,7 +137,7 @@ Sound shift from earlier ''pimukasi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</re
 ====Noun====
 {{ja-noun|ひんがし}}
 
-# # {{context|lang=ja|sort=ひむかし|obsolete}} [[east]]
+# # {{label|ja|sort=ひむかし|obsolete}} [[east]]
 #* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 4, page 82)
 #*: むかし、'''東（ひんがし）'''の五条に大后の宮おはしましける、西の対に住む人有けり。
 
@@ -229,7 +229,7 @@ From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 * [[広東瓜]] (くゎんとぅうい, kwantuui): watermelon
 
 ===Etymology===
-From {{term|上り|tr=agari|gloss=ascent, rise|lang=ryu}} in reference to the direction where the sun rises, ascends.
+From {{m|ryu|上り|tr=agari|gloss=ascent, rise}} in reference to the direction where the sun rises, ascends.
 
 ===Pronunciation===
 * {{IPA|/ʔagaɾi/|lang=ryu}}
@@ -259,7 +259,7 @@ From {{term|上り|tr=agari|gloss=ascent, rise|lang=ryu}} in reference to the di
 * Native: あがり (agari)
 
 ===Etymology===
-From {{term|上り|tr=agari|gloss=ascent, rise|lang=yox|sc=Jpan}} in reference to the direction where the sun rises, ascends.
+From {{m|yox|上り|tr=agari|gloss=ascent, rise|sc=Jpan}} in reference to the direction where the sun rises, ascends.
 
 ===Pronunciation===
 * {{IPA|/ʔagaɾi/|lang=yox}}
