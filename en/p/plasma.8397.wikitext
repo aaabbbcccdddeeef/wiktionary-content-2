@@ -11,12 +11,12 @@ From {{etyl|grc|en}} {{m|grc|πλάσμα||something formed}}
 ===Noun===
 {{en-noun|~}}
 
-# {{context|physics|lang=en}} A [[state of matter]] consisting of partially [[ionized]] [[gas]]
-# {{context|hematology|lang=en}} A clear component of [[blood]] or [[lymph]] containing [[fibrin]]
-# {{context|hematology|lang=en}} [[blood plasma|Blood plasma]], free of suspended [[cell]]s, used in [[transfusion]]s
-# {{context|mineralogy|lang=en}} A variety of green [[quartz]], used in ancient times for making engraved ornaments.
-# {{context|medicine|dated|lang=en}} A mixture of [[starch]] and [[glycerin]], used as a substitute for [[ointment]]s.
-# {{context|computer graphics|demoscene|lang=en}} A visual effect in which cycles of changing colours are [[warp]]ed in various ways to give the illusion of [[liquid]] [[organic]] movement.
+# {{label|en|physics}} A [[state of matter]] consisting of partially [[ionized]] [[gas]]
+# {{label|en|hematology}} A clear component of [[blood]] or [[lymph]] containing [[fibrin]]
+# {{label|en|hematology}} [[blood plasma|Blood plasma]], free of suspended [[cell]]s, used in [[transfusion]]s
+# {{label|en|mineralogy}} A variety of green [[quartz]], used in ancient times for making engraved ornaments.
+# {{label|en|medicine|dated}} A mixture of [[starch]] and [[glycerin]], used as a substitute for [[ointment]]s.
+# {{label|en|computer graphics|demoscene}} A visual effect in which cycles of changing colours are [[warp]]ed in various ways to give the illusion of [[liquid]] [[organic]] movement.
 #* '''1999''', "Rage Matrix", ''Coding plasma demos....HELP!'' (on newsgroup ''comp.programming'')
 #*: Has anyone here written a '''plasma''' demo in C/C++ who would be willing to explain to me exactly how it works?
 
@@ -99,7 +99,7 @@ From {{etyl|grc|en}} {{m|grc|πλάσμα||something formed}}
 ===Noun===
 {{fi-noun}}
 
-# {{context|biology|physics|hematology|lang=fi}} [[#English|plasma]]
+# {{label|fi|biology|physics|hematology}} [[#English|plasma]]
 
 ====Declension====
 {{fi-decl-kala|plasm|||a}}
@@ -131,7 +131,7 @@ From {{etyl|grc|en}} {{m|grc|πλάσμα||something formed}}
 ===Noun===
 {{it-noun|m}}
 
-# {{context|physics|biology|lang=it}} [[plasma#English|plasma]]
+# {{label|it|physics|biology}} [[plasma#English|plasma]]
 
 ====Related terms====
 * [[plasma sanguigno]]
@@ -170,7 +170,7 @@ From {{etyl|grc|nb}} ''"plasma"''
 ===Noun===
 {{head|nb|noun|g=n|definite singular|plasmaet|indefinite plural|plasma|or|plasmaer|definite plural|plasmaene}}
 
-# {{context|physics|biology|lang=nb}} {{l|en|plasma}}
+# {{label|nb|physics|biology}} {{l|en|plasma}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -187,7 +187,7 @@ From {{etyl|grc|nn}} ''"plasma"''
 ===Noun===
 {{nn-noun-n1}}
 
-# {{context|physics|biology|lang=nn}} {{l|en|plasma}}
+# {{label|nn|physics|biology}} {{l|en|plasma}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -199,7 +199,7 @@ From {{etyl|grc|nn}} ''"plasma"''
 ===Noun===
 {{pt-noun|m|-}}
 
-# {{context|physics|biology|lang=pt}} [[#English|plasma]]
+# {{label|pt|physics|biology}} [[#English|plasma]]
 
 ----
 
@@ -208,7 +208,7 @@ From {{etyl|grc|nn}} ''"plasma"''
 ===Noun===
 {{es-noun|m|plasmas}}
 
-# {{context|physics|biology|lang=es}} [[#English|plasma]]
+# {{label|es|physics|biology}} [[#English|plasma]]
 
 ===Verb===
 {{es-verb-form}}
