@@ -26,7 +26,7 @@ From {{etyl|trk-pro|az}} {{m|trk-pro|*bīr||one}}
 {{az-variant|c=бир|r=bir|a=بیر}}
 {{head|az|numeral}}
 
-# {{context|cardinal|lang=az}} {{l|en|one}}
+# {{label|az|cardinal}} {{l|en|one}}
 
 ====See also====
 * {{l|az|on bir}}
@@ -42,7 +42,7 @@ From {{etyl|trk-pro|crh}} {{m|trk-pro|*bīr||one}}
 {{cardinalbox|crh||1|2||iki|ord=birinci}}
 {{head|crh|numeral}}
 
-# {{context|cardinal|lang=crh}} [[one]]
+# {{label|crh|cardinal}} [[one]]
 
 ===References===
 * {{R:Useinov-Mireev 2002}}
@@ -58,7 +58,7 @@ From {{etyl|trk-pro|gag}} {{m|trk-pro|*bīr||one}}
 ===Cardinal number===
 {{head|gag|numeral}}
 
-# {{context|cardinal|lang=gag}} [[one]]
+# {{label|gag|cardinal}} [[one]]
 
 ----
 
@@ -246,7 +246,7 @@ From {{der|tr|otk|bir}}, from {{inh|tr|trk-pro|[[*bir]], [[*bīr]]||one}}.
 {{cardinalbox|tr||1|2||iki|ord=birinci}}
 {{head|tr|numeral}}
 
-# {{context|cardinal|lang=tr}} [[one]]
+# {{label|tr|cardinal}} [[one]]
 
 ----
 
@@ -260,7 +260,7 @@ From {{etyl|trk-pro|tk}} {{m|trk-pro|*bīr||one}}
 
 {{head|tk|numeral}}
 
-# {{context|cardinal|lang=tk}} [[one]]
+# {{label|tk|cardinal}} [[one]]
 
 ----
 
@@ -274,7 +274,7 @@ From {{etyl|trk-pro|uz}} {{m|trk-pro|*bīr||one}}
 
 {{head|uz|numeral}}
 
-# {{context|cardinal|lang=uz}} [[one]]
+# {{label|uz|cardinal}} [[one]]
 
 {{-}}
 
@@ -286,7 +286,7 @@ From {{etyl|trk-pro|uz}} {{m|trk-pro|*bīr||one}}
 * {{l|vo|bil}} (an older term (now [[obsolete]]) for "[[beer]]", the word {{l|vo|bil}} now means "[[bile]]" in [[reformed Volapük]])
 
 ===Etymology===
-Reformed in the 1920s from {{term|bil|lang=vo}}, to make it more like its etymons.
+Reformed in the 1920s from {{m|vo|bil}}, to make it more like its etymons.
 
 ===Pronunciation===
 * {{IPA|/bir/, [biɾ]|lang=vo}}
