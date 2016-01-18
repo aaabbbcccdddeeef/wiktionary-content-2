@@ -56,10 +56,10 @@
 ===Noun===
 {{zh-noun}}
 
-# {{context|literary|lang=zh}} [[son]]; [[child]]
-# {{context|literary|lang=zh}} [[person]]
-# {{context|astrology|lang=zh}} First [[w:Earthly_Branches|Earthly Branch]] ({{zh-l|地支}} or {{zh-l|十二支}}) : {{non-gloss definition|[[w:Rat (zodiac)|rat]] in the [[w:Chinese_zodiac|Chinese zodiac]], 11th solar month, 11pm to 1am (midnight)}}
-# {{context|literary|lang=zh}} [[master]]
+# {{label|zh|literary}} [[son]]; [[child]]
+# {{label|zh|literary}} [[person]]
+# {{label|zh|astrology}} First [[w:Earthly_Branches|Earthly Branch]] ({{zh-l|地支}} or {{zh-l|十二支}}) : {{non-gloss definition|[[w:Rat (zodiac)|rat]] in the [[w:Chinese_zodiac|Chinese zodiac]], 11th solar month, 11pm to 1am (midnight)}}
+# {{label|zh|literary}} [[master]]
 #: {{zh-usex|^孔子|Master Kong ([[Confucius]])}}
 # [[Viscount]], {{non-gloss definition|fourth of five ranks of Chinese aristocracy ({{zh-l|五等爵位}}) under the [[w:Zhou dynasty|Zhou dynasty]]}}
 
@@ -91,7 +91,7 @@
 ===Pronoun===
 {{zh-pronoun}}
 
-# {{context|literary|lang=zh}} [[you]]
+# {{label|zh|literary}} [[you]]
 
 ===Compounds===
 {{der3
@@ -166,7 +166,7 @@
 # a [[child]]
 #: {{lang|ja|男の'''子'''}} — {{lang|ja|おとこの'''こ'''}} — ''otoko no '''ko''''' — male '''child''': a boy
 #: {{lang|ja|いい'''子'''}} — {{lang|ja|いい'''こ'''}} — ''ii '''ko''''' — good '''boy'''; good '''girl'''
-# {{context|lang=ja|sort=こ|figuratively}} a [[girl]], especially a [[dear]] or [[desire]]d one {{qualifier|compare use of English {{m|en|baby}}, {{m|en|babe}}}}
+# {{label|ja|sort=こ|figuratively}} a [[girl]], especially a [[dear]] or [[desire]]d one {{qualifier|compare use of English {{m|en|baby}}, {{m|en|babe}}}}
 #* {{RQ:Manyoshu|7|1266}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1266 text here]
 #*: 大舟乎 荒海尓榜出 八船多氣 吾見之'''兒'''等之 目見者知之母
 #*:: 大船を 荒海に漕ぎ出で や船たけ 我が見し'''子'''らが まみはしるしも
@@ -207,7 +207,7 @@
 {{ja-pos|suffix|こ}}
 
 # suffix used in female given names, such as {{ja-l|智子|ともこ|Tomoko}}, {{ja-l|英子|えいこ|Eiko}}, {{ja-l|秀子|ひでこ|Hideko}}, {{ja-l|美奈子|みなこ|Minako}}
-# {{context|lang=ja|sort=こ|rare}} suffix used in male given names
+# {{label|ja|sort=こ|rare}} suffix used in male given names
 # an [[object]] having a particular [[state]] or [[property]] {{qualifier|sometimes [[diminutive]]}}
 #: {{lang|ja|振'''子'''}} — {{lang|ja|ふり'''こ'''}} — ''furi'''ko''''' — an object that swings: a pendulum
 # [[roe]] (only when preceded by a fish name, or fish-related prefix)
