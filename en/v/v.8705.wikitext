@@ -4,7 +4,7 @@
 
 ===Etymology 1===
 [[Image:Greek uc upsilon.png|30px|Greek letter Υ, from which Latin V derived]]
-Minuscule variation of Latin {{term|V|lang=mul}}, from seventh century Old Latin adoption of Old Italic letter {{term|lang=mul|𐌖|tr=V}}, from {{etyl|el|mul}} letter {{term|lang=mul|sc=Grek|Υ|tr=Y||Upsilon}}.
+Minuscule variation of Latin {{m|mul|V}}, from seventh century Old Latin adoption of Old Italic letter {{m|mul|𐌖|tr=V}}, from {{etyl|el|mul}} letter {{m|mul|sc=Grek|Υ|tr=Y||Upsilon}}.
 
 ====Letter====
 {{mul-letter|upper=V|lower=v|script=Latn}}
@@ -14,7 +14,7 @@ Minuscule variation of Latin {{term|V|lang=mul}}, from seventh century Old Latin
 =====See also=====
 {{Latn-script}}
 * {{qualifier|select symbols}} [[ʌ]] [[ʋ]] [[ᵥ]]
-* {{qualifier|other scripts}} Cyrillic {{term|lang=mul|sc=Cyrl|в|tr=v||ve}}, Greek {{term|lang=mul|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|lang=mul|sc=Hebr|ו|tr=w||vav}}
+* {{qualifier|other scripts}} Cyrillic {{m|mul|sc=Cyrl|в|tr=v||ve}}, Greek {{m|mul|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{m|mul|sc=Hebr|ו|tr=w||vav}}
 * {{pedialite}}
 
 ===Etymology 2===
@@ -41,8 +41,8 @@ Lower case form of upper case roman numeral [[V]], from abbreviation of IIIIΛ o
 ====Symbol====
 {{head|mul|symbol}}
 
-# {{context|physics|lang=mul}} [[velocity]]
-# {{context|phonetics|lang=mul}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:voiced labiodental fricative|voiced labiodental fricative]] ({{IPAchar|/v/|lang=mul}}).
+# {{label|mul|physics}} [[velocity]]
+# {{label|mul|phonetics}} used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:voiced labiodental fricative|voiced labiodental fricative]] ({{IPAchar|/v/|lang=mul}}).
 
 ===See also===
 {{Letter
@@ -64,15 +64,15 @@ Image:Fraktur letter V.png|Uppercase and lowercase '''V''' in [[Fraktur]]
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} lower case letter {{term|v|lang=enm}} (also written {{term|u|lang=enm}}), from {{etyl|ang|en}} lower case {{term|u|lang=ang}} and respelling of {{etyl|ang|en}} {{term|f|lang=ang}} between vowels and voiced consonants.
-* [[Image:Rune-Feoh.png|10px|Anglo-Saxon Futhorc letter {{term|lang=mul||ᚠ|tr=f|feoh}}]] {{etyl|ang|en}} lower case {{term|f|lang=ang}} from 7th century replacement by Latin lower case {{term|f|lang=la}} of the Anglo-Saxon Futhorc letter {{term|lang=mul|ᚠ|tr=f||feoh}}, derived from Etruscan letter {{term|lang=mul|𐌅|tr=v}}.
-* [[Image:Rune-Ur.png|10px|Anglo-Saxon Futhorc letter {{term|lang=mul||ᚢ|tr=u|ur}}]] {{etyl|ang|en}} lower case {{term|u|lang=ang}} from 7th century replacement by Latin lower case {{term|v|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚢ|tr=u||ur|lang=mul}}, derived from Raetic letter {{term||u|lang=mul}}.
+From {{etyl|enm|en}} lower case letter {{m|enm|v}} (also written {{m|enm|u}}), from {{etyl|ang|en}} lower case {{m|ang|u}} and respelling of {{etyl|ang|en}} {{m|ang|f}} between vowels and voiced consonants.
+* [[Image:Rune-Feoh.png|10px|Anglo-Saxon Futhorc letter {{m|mul||ᚠ|tr=f|feoh}}]] {{etyl|ang|en}} lower case {{m|ang|f}} from 7th century replacement by Latin lower case {{m|la|f}} of the Anglo-Saxon Futhorc letter {{m|mul|ᚠ|tr=f||feoh}}, derived from Etruscan letter {{m|mul|𐌅|tr=v}}.
+* [[Image:Rune-Ur.png|10px|Anglo-Saxon Futhorc letter {{m|mul||ᚢ|tr=u|ur}}]] {{etyl|ang|en}} lower case {{m|ang|u}} from 7th century replacement by Latin lower case {{m|la|v}} of the Anglo-Saxon Futhorc letter {{m|mul|ᚢ|tr=u||ur}}, derived from Raetic letter {{m|mul||u}}.
 
-Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginning of a word, while a rounded form {{term|u|lang=en}} was used elsewhere, regardless of sound. So whereas {{term|valor|lang=en}} and {{term|excuse|lang=en}} appeared as in modern printing, {{term|have|lang=en}} and {{term|upon|lang=en}} were printed {{term||haue|lang=en}} and {{term||vpon|lang=en}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{term|v|lang=en}} form was used to represent the consonant, and {{term|u|lang=en}} the vowel sound. {{term|v|lang=en}} then preceded {{term|u|lang=en}} in the alphabet, but the order has since reversed.
+Before the 1700s, the pointed form {{m|en|v}} was written at the beginning of a word, while a rounded form {{m|en|u}} was used elsewhere, regardless of sound. So whereas {{m|en|valor}} and {{m|en|excuse}} appeared as in modern printing, {{m|en|have}} and {{m|en|upon}} were printed {{m|en||haue}} and {{m|en||vpon}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{m|en|v}} form was used to represent the consonant, and {{m|en|u}} the vowel sound. {{m|en|v}} then preceded {{m|en|u}} in the alphabet, but the order has since reversed.
 
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|/v/|lang=en}}
-* {{sense|letter name}} {{IPA|/viː/|lang=en}} (spelled {{term|vee|lang=en}})
+* {{sense|letter name}} {{IPA|/viː/|lang=en}} (spelled {{m|en|vee}})
 : {{audio|en-us-v.ogg|Audio (US)|lang=en}}
 
 ===Letter===
@@ -92,7 +92,7 @@ Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginni
 ===Noun===
 {{en-noun|s|v's}}
 
-# a shape resembling the letter {{term|v|lang=en}}
+# a shape resembling the letter {{m|en|v}}
 #: ''The impact was so strong, it bent the bar into a '''v'''.''
 
 ----
@@ -113,7 +113,7 @@ Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginni
 
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|/v/|lang=ca}}, {{IPA|/b/|lang=ca}}
-* {{sense|letter name}} {{IPA|/ve/|lang=ca}}, {{IPA|/be/|lang=ca}} (spelled {{term|ve|lang=ca}}); {{IPA|/veˈβaʃə/|lang=ca}}, {{IPA|/beˈβaʃə/|lang=ca}} (spelled {{term|ve baixa|lang=ca}})
+* {{sense|letter name}} {{IPA|/ve/|lang=ca}}, {{IPA|/be/|lang=ca}} (spelled {{m|ca|ve}}); {{IPA|/veˈβaʃə/|lang=ca}}, {{IPA|/beˈβaʃə/|lang=ca}} (spelled {{m|ca|ve baixa}})
 
 ===Letter===
 {{ca-letter|upper=V|lower=v}}
@@ -242,7 +242,7 @@ Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginni
 ===Letter===
 {{head|la|letter|lower case||upper case|V}}
 
-# {{context|sometimes with ''[[littera]]'"|lang=la}} The 20th letter of the [[Latin]] alphabet.
+# {{label|la|sometimes with ''[[littera]]'"}} The 20th letter of the [[Latin]] alphabet.
 
 ===See also===
 * Previous letter: [[t]]
@@ -392,13 +392,13 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Preposition===
 {{sh-preposition|head}}
 
-# {{context|Kajkavian|lang=sh}} (''with locative'') [[in]], [[at]]
+# {{label|sh|Kajkavian}} (''with locative'') [[in]], [[at]]
 
-# {{context|Kajkavian|lang=sh}} (''with accusative'') [[to]], [[into]]
+# {{label|sh|Kajkavian}} (''with accusative'') [[to]], [[into]]
 
-# {{context|Kajkavian|lang=sh}} (''with accusative'') [[on]], [[in]], [[at]], [[during]] (in expressions concerning time)
+# {{label|sh|Kajkavian}} (''with accusative'') [[on]], [[in]], [[at]], [[during]] (in expressions concerning time)
 
-# {{context|Kajkavian|lang=sh}} (''with locative'') [[in]], [[during]] (in expressions concerning time)
+# {{label|sh|Kajkavian}} (''with locative'') [[in]], [[during]] (in expressions concerning time)
 
 ====Synonyms====
 * {{l|sh|u}}, {{l|sh|vu}}, {{l|sh|f}}
@@ -455,9 +455,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|lang=es|/b/}}
 * {{sense|letter name}}
-** {{qualifier|traditional}} {{IPA|lang=es|[ˈbe̞ˑ]}} (spelled {{term|ve|lang=es}})
-** {{qualifier|common in most countries}} {{IPA|lang=es|[ˈuˑ.β̞e̞]}} (spelled {{term|uve|lang=es}})
-** {{qualifier|common in some countries}} {{IPA|lang=es|[ˌbe̞ ˈko̞ɾ.t̪ä]}} ({{term|ve corta|lang=es}}), {{IPAchar|[ˌbe̞ 'β̞äˑ.hä]}} or {{IPAchar|[ˌbe̞ 'β̞äˑ.xä]}} ({{term|ve baja|lang=es}}), {{term|ve pequeña|lang=es}}, or {{IPAchar|[ˌbe̞ 't͡ʃiˑ.kä]}} ({{term|ve chica|lang=es}})
+** {{qualifier|traditional}} {{IPA|lang=es|[ˈbe̞ˑ]}} (spelled {{m|es|ve}})
+** {{qualifier|common in most countries}} {{IPA|lang=es|[ˈuˑ.β̞e̞]}} (spelled {{m|es|uve}})
+** {{qualifier|common in some countries}} {{IPA|lang=es|[ˌbe̞ ˈko̞ɾ.t̪ä]}} ({{m|es|ve corta}}), {{IPAchar|[ˌbe̞ 'β̞äˑ.hä]}} or {{IPAchar|[ˌbe̞ 'β̞äˑ.xä]}} ({{m|es|ve baja}}), {{m|es|ve pequeña}}, or {{IPAchar|[ˌbe̞ 't͡ʃiˑ.kä]}} ({{m|es|ve chica}})
 
 ===Letter===
 {{head|es|letter|lower case||upper case|V}}
@@ -465,7 +465,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 # The twenty-third (23rd) letter of the Spanish alphabet.
 
 ====Usage notes====
-The common letter names, as well as phrases like {{term|ve de vaca|lang=es}} are used to distinguish the letter {{term|v|lang=es}} from the letter {{term|b|lang=es}}. This is done because the two letters represent a single phoneme in modern Spanish, causing their traditional names {{term|be|lang=es}} and {{term|ve|lang=es}} both to be pronounced as {{IPAchar|['be̞ˑ]}}.
+The common letter names, as well as phrases like {{m|es|ve de vaca}} are used to distinguish the letter {{m|es|v}} from the letter {{m|es|b}}. This is done because the two letters represent a single phoneme in modern Spanish, causing their traditional names {{m|es|be}} and {{m|es|ve}} both to be pronounced as {{IPAchar|['be̞ˑ]}}.
 
 ====See also====
 * {{list:Latin script letters/es}}
