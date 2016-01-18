@@ -107,7 +107,7 @@ From {{etyl|och|zh}} {{m|och|*pret}}, from {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r-
 ====Noun====
 {{zh-noun}}
 
-# {{context|printing|lang=zh|sort=ba1}} [[pearl]]; The [[smallest]] [[size]] of [[usual]] [[type]], [[standardize]]d as 5 [[point]].
+# {{label|zh|printing|sort=ba1}} [[pearl]]; The [[smallest]] [[size]] of [[usual]] [[type]], [[standardize]]d as 5 [[point]].
 
 ===Etymology 2===
 From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-l|別}}.
@@ -140,13 +140,13 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. C
 =====Verb=====
 {{zh-verb}}
 
-# {{context|Min Nan|lang=zh}} to [[know]] somebody; to [[recognize]]
-# {{context|Min Nan|lang=zh}} to be [[familiar]] with
+# {{label|zh|Min Nan}} to [[know]] somebody; to [[recognize]]
+# {{label|zh|Min Nan}} to be [[familiar]] with
 
 ====Adverb====
 {{zh-adv}}
 
-# {{context|Min Nan|lang=zh}} [[already]], [[previously]]
+# {{label|zh|Min Nan}} [[already]], [[previously]]
 
 =====See also=====
 * {{zh-l|認識}}
@@ -193,7 +193,7 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. C
 # an abbreviation for 八兵衛
 
 ===Etymology 2===
-The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
+The ablaut form of {{m|ja|四||four|tr=yo}}, which it doubles.
 
 ====Noun====
 {{ja-noun|や}}
@@ -266,7 +266,7 @@ The ablaut form of {{term|四||four|tr=yo|lang=ja}}, which it doubles.
 ===Numeral===
 {{ko-pos|numeral|hangeul=팔}}
 
-# {{context|cardinal|lang=ko}} [[eight]]
+# {{label|ko|cardinal}} [[eight]]
 
 [[Category:Korean cardinal numbers|8]]
 
