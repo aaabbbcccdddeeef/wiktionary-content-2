@@ -4,7 +4,7 @@
 
 ===Etymology 1===
 [[Image:LetterV.svg|30px|Latin V, from which U derived]]
-Minuscule variation of {{term|U|lang=mul}}, a modern variation of classical Latin {{term|V|lang=mul}}, from seventh century Old Latin adoption of Old Italic letter {{term|𐌖|tr=V|lang=mul}}.
+Minuscule variation of {{m|mul|U}}, a modern variation of classical Latin {{m|mul|V}}, from seventh century Old Latin adoption of Old Italic letter {{m|mul|𐌖|tr=V}}.
 
 ====Letter====
 {{mul-letter|upper=U|lower=u|script=Latn}}
@@ -13,7 +13,7 @@ Minuscule variation of {{term|U|lang=mul}}, a modern variation of classical Lati
 
 =====See also=====
 {{Latn-script}}
-* {{qualifier|other scripts}} Cyrillic {{term|lang=mul|sc=Cyrl|у|tr=u}}, Greek {{term|lang=mul|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{term|lang=mul|sc=Hebr|ו|tr=w||vav}}
+* {{qualifier|other scripts}} Cyrillic {{m|mul|sc=Cyrl|у|tr=u}}, Greek {{m|mul|sc=Grek|υ|tr=y||upsilon}}, Hebrew {{m|mul|sc=Hebr|ו|tr=w||vav}}
 * {{pedialite}}
 
 ===Etymology 2===
@@ -24,8 +24,8 @@ Minuscule variation of {{term|U|lang=mul}}, a modern variation of classical Lati
 ====Symbol====
 {{head|mul|symbol}}
 
-# {{context|metrology|lang=mul}} symbol for [[unified]] [[atomic]] [[mass]] [[unit]]
-# {{context|phonetics|lang=mul}} Used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:Close back rounded vowel|close back rounded vowel]] ({{IPAchar|/u/|lang=mul}}).
+# {{label|mul|metrology}} symbol for [[unified]] [[atomic]] [[mass]] [[unit]]
+# {{label|mul|phonetics}} Used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:Close back rounded vowel|close back rounded vowel]] ({{IPAchar|/u/|lang=mul}}).
 # {{label|mul|particle}} [[up quark]]
 
 ===See also===
@@ -49,9 +49,9 @@ Image:Fraktur letter U.png|Uppercase and lowercase '''U''' in [[Fraktur]]
 
 ===Etymology===
 [[Image:Runic letter uruz.png|left|50px|Anglo-Saxon Futhorc letter ᚢ (u, “ur”)]]
-From {{etyl|enm|en}} lower case letter {{term|v|lang=enm}} (also written {{term|u|lang=enm}}), from {{etyl|ang|en}} lower case {{term|u|lang=ang}}, from 7th century replacement by lower case {{term|u|lang=mul}} of the Anglo-Saxon Futhorc letter {{term|lang=mul|ᚢ|tr=u||ur}}, derived from Raetic letter {{term||u|lang=mul}}.
+From {{etyl|enm|en}} lower case letter {{m|enm|v}} (also written {{m|enm|u}}), from {{etyl|ang|en}} lower case {{m|ang|u}}, from 7th century replacement by lower case {{m|mul|u}} of the Anglo-Saxon Futhorc letter {{m|mul|ᚢ|tr=u||ur}}, derived from Raetic letter {{m|mul||u}}.
 
-Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginning of a word, while a rounded form {{term|u|lang=en}} was used elsewhere, regardless of sound. So whereas {{term|valor|lang=en}} and {{term|excuse|lang=en}} appeared as in modern printing, {{term|have|lang=en}} and {{term|upon|lang=en}} were printed {{term||haue|lang=en}} and {{term||vpon|lang=en}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{term|v|lang=en}} form was used to represent the consonant, and {{term|u|lang=en}} the vowel sound. {{term|v|lang=en}} then preceded {{term|u|lang=en}} in the alphabet, but the order has since reversed.
+Before the 1700s, the pointed form {{m|en|v}} was written at the beginning of a word, while a rounded form {{m|en|u}} was used elsewhere, regardless of sound. So whereas {{m|en|valor}} and {{m|en|excuse}} appeared as in modern printing, {{m|en|have}} and {{m|en|upon}} were printed {{m|en||haue}} and {{m|en||vpon}}. Eventually, in the 1700s, to differentiate between the consonant and vowel sounds, the {{m|en|v}} form was used to represent the consonant, and {{m|en|u}} the vowel sound. {{m|en|v}} then preceded {{m|en|u}} in the alphabet, but the order has since reversed.
 
 ===Pronunciation===
 ; Letter name
@@ -117,7 +117,7 @@ Before the 1700s, the pointed form {{term|v|lang=en}} was written at the beginni
 ===Pronoun===
 {{en-pron|desc=second person, singular or plural, nominative or objective}}
 
-# {{context|abbreviation|slang|text messaging|internet|lang=en}} [[you]] {{qualifier|in text messaging and internet conversations}}
+# {{label|en|abbreviation|slang|text messaging|internet}} [[you]] {{qualifier|in text messaging and internet conversations}}
 #: ''Take me with '''u'''.''
 
 ===Abbreviation===
@@ -279,26 +279,26 @@ Cognate with West Frisian {{m|fy|jo}}, Low German {{m|nds|jo}}, {{m|nds|ju}}, En
 ===Pronoun===
 {{head|nl|pronoun|cat2=personal pronouns}}
 
-# {{context|personal|second-person singular|subjective|lang=nl}} [[you]] {{qualifier|polite}}.
+# {{label|nl|personal|second-person singular|subjective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Bent '''u''' klaar?|inline=1|Are you ready?}}
 #: {{ux|nl|Bent '''u''' er nog?|inline=1|Are you still there?}}
-# {{context|personal|second-person singular|objective|lang=nl}} [[you]] {{qualifier|polite}}.
+# {{label|nl|personal|second-person singular|objective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Ik zal het aan '''u''' geven.|inline=1|I will give it to you.}}
 #: {{ux|nl|Dit zal niet werken voor '''u'''.|inline=1|This won’t work for you.}}
-# {{context|personal|second-person singular|objective|lang=nl}} ''[[thee]] {{qualifier|dialectal}}.
+# {{label|nl|personal|second-person singular|objective}} ''[[thee]] {{qualifier|dialectal}}.
 #: {{ux|nl|Ik doe dat wel voor '''u'''.|inline=1|I’ll do it for thee.}}
-# {{context|personal|second-person plural|subjective|lang=nl}} [[you]] {{qualifier|polite}}.
+# {{label|nl|personal|second-person plural|subjective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Hebt '''u''' die oefening gemaakt?|inline=1|Have you prepared that exercise?}}
-# {{context|personal|second-person plural|objective|lang=nl}} [[you]] {{qualifier|polite}}.
+# {{label|nl|personal|second-person plural|objective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Ze zullen dat wel voor '''u''' doen.|inline=1|They’ll do it for you.}}
-# {{context|reflexive|second-person singular|lang=nl}} [[thyself]] {{qualifier|dialectal}}
+# {{label|nl|reflexive|second-person singular}} [[thyself]] {{qualifier|dialectal}}
 #: {{ux|nl|Gij hebt '''u''' niet gewassen.|inline=1|Thou hast not washed thyself.}}
-# {{context|reflexive|second-person plural|lang=nl}} [[yourselves]] {{qualifier|dialectal}}
+# {{label|nl|reflexive|second-person plural}} [[yourselves]] {{qualifier|dialectal}}
 #: {{ux|nl|Wast '''u''' eens.|inline=1|Wash yourselves.}}
 
 ====Usage notes====
-* The capitalization of {{term|u|lang=nl}} (as in ''[[U]]'' or ''[[Uw]]'') is now considered [[old-fashioned]], and no longer compulsory. In religious contexts, it is still often capitalized.
-* ''See usage notes at'' {{term|gij|lang=nl}}.
+* The capitalization of {{m|nl|u}} (as in ''[[U]]'' or ''[[Uw]]'') is now considered [[old-fashioned]], and no longer compulsory. In religious contexts, it is still often capitalized.
+* ''See usage notes at'' {{m|nl|gij}}.
 
 ====Declension====
 {{nl-decl-personal pronouns}}
@@ -474,7 +474,7 @@ From {{etyl|sem|mt}}. Cognate with {{etyl|ar|-}} {{m|ar|وَ}}, {{etyl|he|-}} {{
 ===Conjunction===
 {{head|mt|conjunction}}
 
-# [[and]] {{context|used to connect two similar words, phrases, etc.|lang=mt}}
+# [[and]] {{label|mt|used to connect two similar words, phrases, etc.}}
 
 ----
 
@@ -544,7 +544,7 @@ From {{inh|fro|la|ubi}}.
 ====Adverb====
 {{head|fro|adverb}}
 
-# {{context|interrogative|lang=fro}} [[where]]
+# {{label|fro|interrogative}} [[where]]
 
 =====Descendants=====
 * Middle French: {{l|frm|ou}}
@@ -632,7 +632,7 @@ From {{inh|pt|roa-opt|u}}, from {{inh|pt|la|ubi}}. Cognate with Galician {{m|gl|
 ====Adverb====
 {{head|pt|adverb}}
 
-# {{context|obsolete|lang=pt}} {{l|pt|where}}
+# {{label|pt|obsolete}} {{l|pt|where}}
 #* '''1534''', [[w:Gil Vicente|Gil Vicente]], [[s:pt:Auto de Mofina Mendes|Auto de Mofina Mendes]]:
 #*: {{ux|pt|{{...}} ''nam ſey per '''u'''|{{...}} (I) don't know '''where'''}}
 
@@ -776,7 +776,7 @@ From {{inh|sh|sla-pro|*u}}, from {{inh|sh|ine-pro|*h₂ew}}.
 ====Noun====
 {{es-noun|f|úes}}
 
-# Name of the letter {{term|U|lang=es}}.
+# Name of the letter {{m|es|U}}.
 
 ===Etymology 2===
 
@@ -894,7 +894,7 @@ Used instead of {{m|es|o}} when the following word starts with a vowel sound whi
 ====Noun====
 {{vi-noun|𡠄}}
 
-# {{context|northern Vietnam|lang=vi}} [[mother]]; [[mom]]
+# {{label|vi|northern Vietnam}} [[mother]]; [[mom]]
 
 =====Synonyms=====
 * {{l|vi|mẹ}}
@@ -911,7 +911,7 @@ From {{inh|vi|mkh-vie-pro|*ʔuː||[[hump]] (of a [[zebu]])}}
 ====Noun====
 {{vi-noun|cls=khối|[[幽]], [[𢉾]]}}
 
-# {{context|oncology|pathology|lang=vi}} [[tumor]]
+# {{label|vi|oncology|pathology}} [[tumor]]
 
 =====Derived terms=====
 * {{l|vi|u mỡ}}
