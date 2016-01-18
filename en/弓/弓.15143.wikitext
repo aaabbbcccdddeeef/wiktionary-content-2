@@ -111,10 +111,10 @@ Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', its
 {{ja-noun|ゆみ}}
 
 # a [[bow]]:
-## {{context|weaponry|lang=ja|sort=ゆみ}} a bow for shooting [[arrow]]s
-## {{context|musical instrument|lang=ja|sort=ゆみ}} a bow for playing a [[stringed instrument]] such as a [[violin]] or [[cello]]
+## {{label|ja|weaponry|sort=ゆみ}} a bow for shooting [[arrow]]s
+## {{label|ja|musical instrument|sort=ゆみ}} a bow for playing a [[stringed instrument]] such as a [[violin]] or [[cello]]
 # [[archery]]
-# {{context|Shinto|lang=ja|sort=ゆみ}} a type of [[kagura]] (sacred Shinto song and dance) intended to drive away [[evil]]
+# {{label|ja|Shinto|sort=ゆみ}} a type of [[kagura]] (sacred Shinto song and dance) intended to drive away [[evil]]
 # short for {{ja-r|破魔弓|はま ゆみ}}: a ceremonial archery bow with the power to dispel evil
 # a bow [[shape]], a [[curve]]
 # a bow-shaped [[tool]] used to [[beat]] [[ginned]] [[cotton]] into a softer and finer [[textile]]
@@ -138,7 +138,7 @@ Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', its
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|たらし}}
-Alteration from ''torashi'', {{term|lang=ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb ''torasu'', from ''tora'' as the {{term|lang=ja|未然形|tr=mizenkei||incomplete form}} of verb {{term|lang=ja|取る|tr=toru||to take}} + {{term|lang=ja|す|tr=su|pos=honorific suffix in {{etyl|ojp|-}}}}. Original meaning was “something kept [[to hand]]”.<ref name="KDJ"/><ref name="DJR"/>
+Alteration from ''torashi'', {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb ''torasu'', from ''tora'' as the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|取る|tr=toru||to take}} + {{m|ja|す|tr=su|pos=honorific suffix in {{etyl|ojp|-}}}}. Original meaning was “something kept [[to hand]]”.<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|たらし}}
@@ -149,14 +149,14 @@ Alteration from ''torashi'', {{term|lang=ja|連用形|tr=ren'yōkei||stem or con
 ====Noun====
 {{ja-noun|たらし}}
 
-# {{context|lang=ja|sort=たらし|rare|honorific}} an [[archery]] [[bow]], particularly one belonging to a [[noble]]
+# {{label|ja|sort=たらし|rare|honorific}} an [[archery]] [[bow]], particularly one belonging to a [[noble]]
 
 =====Synonyms=====
 * {{ja-l|御執}}, {{ja-l|御弓|みたらし|mitarashi}}
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=o|きゅう}}
-From {{etyl|ltc|ja|sort=きゅう}} {{term|lang=zh|弓|tr=*giung}}.<ref name="KDJ"/><ref name="DJR"/> Compare modern {{etyl|cmn|-}} {{term|lang=zh|弓|tr=gōng}}.
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|弓|tr=*giung}}.<ref name="KDJ"/><ref name="DJR"/> Compare modern {{etyl|cmn|-}} {{m|zh|弓|tr=gōng}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kan|きゅう|acc=1|acc_ref=DJR}}
@@ -164,9 +164,9 @@ From {{etyl|ltc|ja|sort=きゅう}} {{term|lang=zh|弓|tr=*giung}}.<ref name="KD
 ====Noun====
 {{ja-noun|きゅう}}
 
-# {{context|rare|lang=ja|sort=きゅう}} a [[bow]]
-# {{context|obsolete|lang=ja|sort=きゅう}} in [[ancient]] [[Chinese]] [[archery]], a [[unit]] of [[length]] for measuring the [[distance]] between the [[archer]] and the [[target]]; one ''kyū'' was equal to six {{term|lang=ja|尺|tr=shaku}}, roughly six [[feet]] or 182 [[centimeter]]s
-# {{context|obsolete|lang=ja|sort=きゅう}} in [[ancient]] [[China]], a [[unit]] of [[length]] for [[survey]]ing [[land]]; one ''kyū'' was equal to eight {{term|lang=ja|尺|tr=shaku}}, roughly eight [[feet]] or 242 [[centimeter]]s
+# {{label|ja|rare|sort=きゅう}} a [[bow]]
+# {{label|ja|obsolete|sort=きゅう}} in [[ancient]] [[Chinese]] [[archery]], a [[unit]] of [[length]] for measuring the [[distance]] between the [[archer]] and the [[target]]; one ''kyū'' was equal to six {{m|ja|尺|tr=shaku}}, roughly six [[feet]] or 182 [[centimeter]]s
+# {{label|ja|obsolete|sort=きゅう}} in [[ancient]] [[China]], a [[unit]] of [[length]] for [[survey]]ing [[land]]; one ''kyū'' was equal to eight {{m|ja|尺|tr=shaku}}, roughly eight [[feet]] or 242 [[centimeter]]s
 
 =====Usage notes=====
 In modern {{etyl|ja|-}}, the reading ''kyū'' is most often found in compounds.
