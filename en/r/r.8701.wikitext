@@ -5,7 +5,7 @@
 
 ===Etymology 1===
 [[Image:RomanR-01.png|50px|Upper case R, the source for lower case ''r'']]
-Modification of capital letter {{term|R|lang=mul}} by not closing the bottom of the loop but continuing into the leg to save a pen stroke, later shortening the right leg into a simple arc.
+Modification of capital letter {{m|mul|R}} by not closing the bottom of the loop but continuing into the leg to save a pen stroke, later shortening the right leg into a simple arc.
 
 ====Letter====
 {{mul-letter|upper=R|lower=r|script=Latn}}
@@ -15,7 +15,7 @@ Modification of capital letter {{term|R|lang=mul}} by not closing the bottom of 
 =====See also=====
 {{Latn-script}}
 * {{qualifier|select symbols}} [[®]] [[ℝ]] [[ɻ]] [[r̃]]
-* {{qualifier|other scripts}} Cyrillic {{term|lang=mul|sc=Cyrl|р|tr=r}} {{term|lang=mul|sc=Cyrl|я|tr=ja}}, Greek {{term|lang=mul|sc=Grek|ρ|tr=r||rho}}, Hebrew {{term|lang=mul|sc=Hebr|ר|tr=r||resh}}, Hangeul {{term|lang=mul|sc=Hang|ㄹ|tr=r||rieul}}
+* {{qualifier|other scripts}} Cyrillic {{m|mul|sc=Cyrl|р|tr=r}} {{m|mul|sc=Cyrl|я|tr=ja}}, Greek {{m|mul|sc=Grek|ρ|tr=r||rho}}, Hebrew {{m|mul|sc=Hebr|ר|tr=r||resh}}, Hangeul {{m|mul|sc=Hang|ㄹ|tr=r||rieul}}
 * [[dog's letter]]
 
 ===Etymology 2===
@@ -27,9 +27,9 @@ Modification of capital letter {{term|R|lang=mul}} by not closing the bottom of 
 {{wikipedia|Alveolar trill}}
 {{head|mul|symbol}}
 
-# {{context|engineering|geometry|lang=mul}} [[radius]]
-# {{context|{{w|IPA}}|lang=mul}} [[alveolar]] [[trill]]
-# {{context|phonetics|lang=mul}} used in several romanization systems of non-Latin scripts to represent an various other [[rhotic]] sounds ({{IPAchar|/r/|lang=mul}}).
+# {{label|mul|engineering|geometry}} [[radius]]
+# {{label|mul|{{w|IPA}}}} [[alveolar]] [[trill]]
+# {{label|mul|phonetics}} used in several romanization systems of non-Latin scripts to represent an various other [[rhotic]] sounds ({{IPAchar|/r/|lang=mul}}).
 ## {{non-gloss definition|Romanization of the Hebrew {{m/he|ר||reish”, “resh”, “rēš}} in the Common Israeli, Hebrew Academy (1953 and 2006), and ISO 259 transliteration schemes|lang=mul}}
 ## {{non-gloss definition|Romanization of the Hebrew {{m/he|רּ||reish”, “resh”, “rēš ḥāzāq}} in the Common Israeli transliteration scheme|lang=mul}}
 
@@ -55,7 +55,7 @@ Image:Fraktur letter R.png|Uppercase and lowercase '''R''' in [[Fraktur]]
 
 ===Etymology 1===
 [[Image:Runic letter raido.png|left|50px|Anglo-Saxon Futhorc letter ᚱ, the Old English letter replaced by Latin r]]
-{{etyl|ang|en}} lower case letter {{term|r|lang=en}}, from 7th century replacement by Latin lower case {{term|r|lang=la}} of the Anglo-Saxon Futhorc letter {{term|ᚱ|lang=mul}}.
+{{etyl|ang|en}} lower case letter {{m|en|r}}, from 7th century replacement by Latin lower case {{m|la|r}} of the Anglo-Saxon Futhorc letter {{m|mul|ᚱ}}.
 
 ====Pronunciation====
 * {{sense|letter name}} {{a|non-rhotic}} {{IPA|/ɑ(ɹ)/|lang=en}}, {{a|rhotic}} {{IPA|/ɑɹ/|lang=en}}, {{a|Ireland}} {{IPA|/ɔɹ/|lang=en}}
@@ -77,12 +77,12 @@ Image:Fraktur letter R.png|Uppercase and lowercase '''R''' in [[Fraktur]]
 # {{Latn-def|en|ordinal|18|ar}}
 
 ===Etymology 2===
-From {{term|are|lang=en}}, pronounced like the name of the letter {{term|r|lang=en}}
+From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 
 ====Verb====
 {{head|en|verb form}}
 
-# {{context|abbreviation|slang|text messaging|internet|lang=en}} [[are]] {{qualifier|in text messaging and internet conversations}}
+# {{label|en|abbreviation|slang|text messaging|internet}} [[are]] {{qualifier|in text messaging and internet conversations}}
 #: ''How '''r''' u'' — “How are you?”
 
 =====Translations=====
@@ -149,7 +149,7 @@ From {{term|are|lang=en}}, pronounced like the name of the letter {{term|r|lang=
 # [[against]]
 # [[from]], apart from (''[[ablative]]'')
 # (''with verbs of motion'') [[to]], [[towards]]
-# {{context|of time|lang=egy}} [[at]], [[in]], [[on]]
+# {{label|egy|of time}} [[at]], [[in]], [[on]]
 # (''after an adjective'', forming the comparative) [[than]]
 
 ====Usage notes====
