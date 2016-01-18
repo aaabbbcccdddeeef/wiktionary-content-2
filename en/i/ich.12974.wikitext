@@ -16,7 +16,7 @@ From {{inh|en|enm|ich}}, from {{inh|en|ang|iċ||I|pos=pronoun}}, from {{inh|en|g
 ====Pronoun====
 {{head|en|pronoun}}
 
-# {{context|personal|obsolete|lang=en}} [[I]].
+# {{label|en|personal|obsolete}} [[I]].
 #* '''1529''', John Skelton, ''Elynour Rummyng'':
 #*: "Behold," she sayd, "and se How bright I am of ble! '''Ich''' am not cast away, That can my husband say, [...]"
 #* '''1561''', John Awdelay, ''The fraternitye of vacabondes'':
@@ -47,7 +47,7 @@ The Northern dialectal form, ''ik'' (which derives from the same Old English roo
 ====Noun====
 {{en-noun|-}}
 
-# {{context|ichthyology|lang=en}} [[ichthyophthiriasis|Ichthyophthiriasis]], a parasitic infection of freshwater fish caused by the ciliate {{taxlink|Ichthyophthirius|genus|noshow=1}}.
+# {{label|en|ichthyology}} [[ichthyophthiriasis|Ichthyophthiriasis]], a parasitic infection of freshwater fish caused by the ciliate {{taxlink|Ichthyophthirius|genus|noshow=1}}.
 #* {{quote-book|1996|Edward J. Noga|Fish Disease: Diagnosis and Treatment|publisher=Iowa State University Press (2000)|pageurl=http://books.google.com/books?id=SAdDtT7YRRoC&pg=PA95&dq=ich|isbn=0-8138-2558-X|page=95
 |passage='''Ich''' is one of the most common diseases of freshwater fish.}}
 
@@ -88,7 +88,7 @@ From {{der|gsw|gmh|ich}}.
 * {{l|gmw-cfr|ech}} {{i|some dialects of Ripuarian; Moselle Franconian, unstressed, enclitic}}
 
 ===Etymology===
-From {{etyl|goh|gmw-cfr}} {{m|goh|ih}}. The expected form is ''ech''; the variant ''ich'' is from a form {{term||*īh|lang=goh}} with expressive lengthening (compare the corresponding diphthong in Moselle Franconian).
+From {{etyl|goh|gmw-cfr}} {{m|goh|ih}}. The expected form is ''ech''; the variant ''ich'' is from a form {{m|goh||*īh}} with expressive lengthening (compare the corresponding diphthong in Moselle Franconian).
 
 ===Pronunciation===
 * {{IPA|/iɕ/|[iɕ]|lang=gmw-cfr}}
@@ -139,7 +139,7 @@ From {{inh|de|gmh|ich}}, from {{inh|de|goh|ih}}, from {{inh|de|gem-pro|[[*ek]], 
 
 In contemporary German, the genitive forms of personal pronouns are restricted to formal style and are unfrequent even there. They may be used
 * for the genitive object still found in a handful of verbs: ''Er erbarmte sich '''meiner''.''' – "He had mercy on me". (Colloquially one would either use the dative case, or a prepositional object, or replace the verb with another.)
-* after the preposition {{term|statt|lang=de}} ("instead of, in place of"): ''Er kam statt '''meiner''' in die Mannschaft.'' – "He joined the team in my place." This sounds antiquated, and ''an meiner Statt'' or ''an meiner Stelle'' is preferable (in which case ''meiner'' is not a genitive, but a form of the possessive determiner {{m|de|mein}}).
+* after the preposition {{m|de|statt}} ("instead of, in place of"): ''Er kam statt '''meiner''' in die Mannschaft.'' – "He joined the team in my place." This sounds antiquated, and ''an meiner Statt'' or ''an meiner Stelle'' is preferable (in which case ''meiner'' is not a genitive, but a form of the possessive determiner {{m|de|mein}}).
 
 ===External links===
 * {{R:Duden}}
@@ -233,7 +233,7 @@ From {{inh|gmh|goh|ih}}, from {{inh|gmh|gem-pro|[[*ek]], [[*ik]]}}.
 ===Pronoun===
 {{head|gmh|pronoun}}
 
-# {{context|personal|lang=gmh}} [[I]]
+# {{label|gmh|personal}} [[I]]
 
 ====Declension====
 {{gmh-decl-noun|ich|{{l|gmh|wir}}|{{l|gmh|mich}}|{{l|gmh|unsich}}, {{l|gmh|uns}}|{{l|gmh|mîn}}|{{l|gmh|unser}}|{{l|gmh|mir}}|{{l|gmh|uns}}}}
@@ -273,7 +273,7 @@ From {{inh|gmh|goh|ih}}, from {{inh|gmh|gem-pro|[[*ek]], [[*ik]]}}.
 
 : (The ''genitive plural'' and ''accusative plural'' of '''[[on#Slovak|on]]''' (''he''), '''[[ona#Slovak|ona]]''' (''she''), and '''[[ono#Slovak|one]]''' (''it'').)
 
-# {{context|possessive pronoun|lang=sk}} [[their]], [[theirs]]
+# {{label|sk|possessive pronoun}} [[their]], [[theirs]]
 # [[them]]
 
 ===External links===
@@ -286,7 +286,7 @@ From {{inh|gmh|goh|ih}}, from {{inh|gmh|gem-pro|[[*ek]], [[*ik]]}}.
 ===Noun===
 {{yua-noun}}
 
-# {{context|anatomy|lang=yua}} [[eye]]
+# {{label|yua|anatomy}} [[eye]]
 # [[face]]
 # [[fruit]]
 
