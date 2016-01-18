@@ -26,27 +26,38 @@ Japanese shinjitai {{Han simp|鹽|f=臣|t=土|f2=鹵|t2=口|nocap=y}}.
 {{ja-kanji|grade=4|rs=土10|style=s|kyu=鹽}}
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (en)|kun=[[しお]] (shio)}}
+{{ja-readings|goon=[[えん]] (en)|kanon=[[えん]] (en)|kun=[[しお]] (shio)}}
 
 ===Etymology===
+{{ja-kanjitab|しお|yomi=k}}
 /siho/: [ɕipo] > [ɕiɸo] > [ɕiwo] > [ɕio].
 
 ===Pronunciation===
-* {{audio|Ja-shio-salt.ogg|しお|lang=ja}}
+{{ja-pron|yomi=k|しお|acc=2|acc_ref=DJR,NHK|a=Ja-shio-salt.ogg}}
 
 ===Noun===
-{{ja-noun|しお|hhira=しほ|kyu=鹽}}
+{{ja-noun|kyu=鹽|しお|hhira=しほ}}
 [[Image:Sal (close).jpg|thumb]]
 
 # salty white substance; [[salt]]
 #: {{ja-usex|塩の結晶|しお の けっしょう|salt crystal}}
 
-{{ja-noun|えん|kyu=鹽}}
+{{ja-kanjitab|えん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|kyu=鹽|えん}}
 
 # {{label|ja|chemistry|sort=えん}} substance that is mostly made in [[neutralize|neutralization]], such as [[sodium chloride]]
 
 ====Derived terms====
-* {{ja-r|ごま塩|gloss=sesame and salt|ごま しお}}
+* {{ja-r|胡麻塩|ごましお}}: sesame and salt
+* {{ja-r|塩酸|えんさん}}: [[hydrochloric acid]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|しお]]
 [[Category:ja:Sciences|えん]]
