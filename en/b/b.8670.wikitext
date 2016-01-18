@@ -5,7 +5,7 @@
 
 ===Etymology===
 [[Image:UncialB-01.png|50px|Approximate form of upper case B when the loop was dropped to form lower case ''b'']]
-Modification of capital letter {{term|B|lang=mul}} by dropping its upper loop, from the Greek letter {{term|lang=mul|sc=Grek|Β|tr=B||Beta}}.
+Modification of capital letter {{m|mul|B}} by dropping its upper loop, from the Greek letter {{m|mul|sc=Grek|Β|tr=B||Beta}}.
 
 ===Letter===
 {{mul-letter|upper=B|lower=b|script=Latn}}
@@ -13,7 +13,7 @@ Modification of capital letter {{term|B|lang=mul}} by dropping its upper loop, f
 # The second letter of the [[Appendix:Latin script|basic modern Latin alphabet]].
 
 ====Usage notes====
-The letter {{term|b|lang=mul}} is used in several romanization systems to represent the bilabial plosive or stop, usually voiced ({{IPAchar|/b/|lang=mul}}), including [[Cyrillic]] {{term|lang=mul|sc=Cyrl|б|tr=b||be}}, [[w:Zhuyin fuhao|Zhuyin fuhao]] [[ㄅ]], and Korean jamo {{term|lang=mul|sc=Hang|ㅂ|tr=b||bieup}}.
+The letter {{m|mul|b}} is used in several romanization systems to represent the bilabial plosive or stop, usually voiced ({{IPAchar|/b/|lang=mul}}), including [[Cyrillic]] {{m|mul|sc=Cyrl|б|tr=b||be}}, [[w:Zhuyin fuhao|Zhuyin fuhao]] [[ㄅ]], and Korean jamo {{m|mul|sc=Hang|ㅂ|tr=b||bieup}}.
 
 ====See also====
 * (''Latin script''): [[A]][[a]] [[B]][[b]] [[C]][[c]] [[D]][[d]] [[E]][[e]] [[F]][[f]] [[G]][[g]] [[H]][[h]] [[I]][[i]] [[J]][[j]] [[K]][[k]] [[L]][[l]] [[M]][[m]] [[N]][[n]] [[O]][[o]] [[P]][[p]] [[Q]][[q]] [[R]][[r]] [[S]][[s]] [[T]][[t]] [[U]][[u]] [[V]][[v]] [[W]][[w]] [[X]][[x]] [[Y]][[y]] [[Z]][[z]]
@@ -37,7 +37,7 @@ File:UncialB-01.png|[[uncial]] approximate form of Greek upper case beta that wa
 {{wikipedia|Voiced bilabial plosive}}
 {{head|mul|symbol}}
 
-# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiced]] [[bilabial]] [[plosive]]
+# {{label|mul|[[w:IPA|IPA]]}} [[voiced]] [[bilabial]] [[plosive]]
 # {{label|mul|particle}} [[beauty quark]], [[bottom quark]]
 
 [[Category:IPA symbols|B]]
@@ -62,7 +62,7 @@ File:UncialB-01.png|[[uncial]] approximate form of Greek upper case beta that wa
 # {{Latn-def|en|letter|2|bee}}
 
 =====Usage notes=====
-In Modern English, the letter {{term|b|lang=en}} is silent in several words, including {{term|climb|lang=en}}, and {{term|debt|lang=en}}.
+In Modern English, the letter {{m|en|b}} is silent in several words, including {{m|en|climb}}, and {{m|en|debt}}.
 
 =====See also=====
 * (''Latin script''): [[A]][[a]] [[B]][[b]] [[C]][[c]] [[D]][[d]] [[E]][[e]] [[F]][[f]] [[G]][[g]] [[H]][[h]] [[I]][[i]] [[J]][[j]] [[K]][[k]] [[L]][[l]] [[M]][[m]] [[N]][[n]] [[O]][[o]] [[P]][[p]] [[Q]][[q]] [[R]][[r]] [[S]][[s]] [[T]][[t]] [[U]][[u]] [[V]][[v]] [[W]][[w]] [[X]][[x]] [[Y]][[y]] [[Z]][[z]]
@@ -83,11 +83,11 @@ In Modern English, the letter {{term|b|lang=en}} is silent in several words, inc
 ====Symbol====
 {{en-symbol}}
 
-# {{context|astronomy|lang=en}} [[latitude]] in the [[galactic coordinate system]]
-# {{context|physics|lang=en}} [[barn]]
-# {{context|computing|lang=en}} [[bit]]
-# {{context|cricket|lang=en}} [[bye]]
-# {{context|size|lang=en}} [[big]]
+# {{label|en|astronomy}} [[latitude]] in the [[galactic coordinate system]]
+# {{label|en|physics}} [[barn]]
+# {{label|en|computing}} [[bit]]
+# {{label|en|cricket}} [[bye]]
+# {{label|en|size}} [[big]]
 
 =====Derived terms=====
 * {{sense|computing}} [[kb]] , [[Mb]] , [[Gb]] , [[Tb]] , [[Pb]] , [[Eb]]
