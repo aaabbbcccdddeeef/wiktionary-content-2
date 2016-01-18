@@ -16,9 +16,9 @@ Germanic, from [[land]] 'soil, ground, parcel' (cognate with English, German [[L
 ===Verb===
 {{nl-verb|landde|geland}}
 
-# {{context|intransitive|lang=nl}} To (arrive on) [[land]], notably from the air (for birds, airplanes) and to a lesser extent by ship
-# {{context|transitive|lang=nl}} To [[land]], bring an aircraft or other vehicle (down) to land
-# {{context|transitive|lang=nl}} To turn [[wild land]] (especially marshes) into [[arable]] land
+# {{label|nl|intransitive}} To (arrive on) [[land]], notably from the air (for birds, airplanes) and to a lesser extent by ship
+# {{label|nl|transitive}} To [[land]], bring an aircraft or other vehicle (down) to land
+# {{label|nl|transitive}} To turn [[wild land]] (especially marshes) into [[arable]] land
 
 ====Synonyms====
 * [[neerstrijken]]
@@ -59,8 +59,8 @@ From {{etyl|gml|de}} {{m|gml|landen}}, derived from the cognate form of German {
 ===Verb===
 {{de-verb-weak|landet|landete|gelandet|auxiliary=both}}
 
-# {{context|intransitive|auxiliary verb: sein|aviation|lang=de}} To [[land#English|land]]
-# {{context|transitive|auxiliary verb: haben|aviation|lang=de}} To [[land#English|land]]
+# {{label|de|intransitive|auxiliary verb: sein|aviation}} To [[land#English|land]]
+# {{label|de|transitive|auxiliary verb: haben|aviation}} To [[land#English|land]]
 
 ====Conjugation====
 {{de-conj-weak|land|gelandet|hs|e}}
