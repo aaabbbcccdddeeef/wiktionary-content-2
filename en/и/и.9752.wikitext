@@ -51,7 +51,7 @@
 #: {{ux|bg|Не съм го '''и''' видял.|I haven't even seen him.|inline=1}}
 # [[just]], [[exactly]], [[precisely]]
 #: {{ux|bg|Така '''и''' предполагах.|Just as I suspected.|inline=1}}
-# {{context|mathematics|lang=bg}} [[and]], [[plus]] {{qualifier|used to indicate addition}}
+# {{label|bg|mathematics}} [[and]], [[plus]] {{qualifier|used to indicate addition}}
 #: {{ux|bg|Пет '''и''' шест е единадесет.|Five and six is eleven.|inline=1}}
 
 ====Synonyms====
@@ -230,7 +230,7 @@ From {{inh|cu|sla-pro|*jь}}.
 ====Particle====
 {{head|ru|particle}}
 
-# {{context|preceding a verb|lang=ru}} {{non-gloss definition|Emphasizes the truth of the following verb. Note that "{{l|ru|есть}}" is also used, which is usually omitted.}}
+# {{label|ru|preceding a verb}} {{non-gloss definition|Emphasizes the truth of the following verb. Note that "{{l|ru|есть}}" is also used, which is usually omitted.}}
 #: {{ux|ru|Он так '''и''' де́лает.|He '''does''' do it that way.}}
 #: {{ux|ru|Она́ '''и''' пошла́ туда́.|She '''did''' go there.}}
 #: {{ux|ru|Оно́ '''и''' есть тако́е.|It '''''is''''' like that.}}
@@ -275,9 +275,9 @@ From {{inh|sh|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₁ey}}.
 #: {{ux|sh|и мени се свиђа ваш одабир|I like your choice too|inline=1}}
 # [[even]] (usually preceded by {{m|sh|sc=Cyrl|ча̏к}})
 #: {{ux|sh|(чак) и ја сам позван на забаву!|even I have been invited to the party|inline=1}}
-# ({{term|sc=Cyrl|не|lang=sh}} {{m|sh|sc=Cyrl|са̏мо}} .. {{m|sh|sc=Cyrl|не̏го}}/{{m|sh|sc=Cyrl|ве̏ћ}} {{term|sc=Cyrl||и|lang=sh}}...) [[also]], [[too]]
+# ({{m|sh|sc=Cyrl|не}} {{m|sh|sc=Cyrl|са̏мо}} .. {{m|sh|sc=Cyrl|не̏го}}/{{m|sh|sc=Cyrl|ве̏ћ}} {{m|sh|sc=Cyrl||и}}...) [[also]], [[too]]
 #: {{ux|sh|он је не само даровит, него и јако марљив|he is not only talented, but also very industrious|inline=1}}
-# [[so]], so [[that]] (= {{term|sc=Cyrl|те|lang=sh}}, {{term|sc=Cyrl|па|lang=sh}})
+# [[so]], so [[that]] (= {{m|sh|sc=Cyrl|те}}, {{m|sh|sc=Cyrl|па}})
 #: {{ux|sh|уморио сам се и нисам могао више играти кошарку|I grew tired, so I couldn't play basketball anymore|inline=1}}
 
 {{attention|sh|tone?}}
