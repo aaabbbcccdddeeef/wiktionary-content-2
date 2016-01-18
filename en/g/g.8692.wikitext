@@ -22,7 +22,7 @@
 
 # Symbol for the '''[[gram]]''', an [[Appendix:SI units|SI unit]] of [[mass]].
 # Symbol for '''gravitational acceleration''', approximately 9.81 m/s<sup>2</sup> or 32 ft/sec<sup>2</sup> at the earth's surface. Distinguished from [[G]].
-# {{context|{{w|IPA}}|lang=mul}} {{alternative form of|ɡ|nodot=1|lang=mul}} ([[voiced]] [[velar]] [[stop]]).
+# {{label|mul|{{w|IPA}}}} {{alternative form of|ɡ|nodot=1|lang=mul}} ([[voiced]] [[velar]] [[stop]]).
 # {{label|mul|particle}} [[gluon]]
 
 ====Translations====
@@ -83,7 +83,7 @@ Abbreviation.
 ====Noun====
 {{en-noun|~}}
 
-# {{context|physics|lang=en}} A unit of gravitational acceleration.
+# {{label|en|physics}} A unit of gravitational acceleration.
 # {{alternative case form of|G|lang=en|nodot=1}} {{gloss|grand: thousand}}.
 
 ----
@@ -111,7 +111,7 @@ Abbreviation.
 {{head|nl|letter|lower case||upper case|G}}
 
 # {{Latn-def|nl|letter|7}}
-# {{context|physics|lang=nl}} A unit of gravitational acceleration.
+# {{label|nl|physics}} A unit of gravitational acceleration.
 
 ====Derived terms====
 * [[harde g]]
@@ -125,7 +125,7 @@ Abbreviation.
 {{rfc-header|Abbreviation}}
 {{head|nl|abbreviation}}
 
-# {{context|physics|lang=nl}} [[gram]]
+# {{label|nl|physics}} [[gram]]
 
 ----
 
@@ -170,8 +170,8 @@ Abbreviation.
 {{rfc-header|Abbreviation}}
 {{head|fr|abbreviation}}
 
-# {{context|physics|lang=fr}} {{l|en|g}}
-# {{context|texting|_|slang|lang=fr}} ='''[[j'ai]]'''
+# {{label|fr|physics}} {{l|en|g}}
+# {{label|fr|texting|_|slang}} ='''[[j'ai]]'''
 
 [[Category:French abbreviations]]
 
