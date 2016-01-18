@@ -2,12 +2,12 @@
 ==Afrikaans==
 
 ===Etymology===
-{{etyl|nl|af}} {{term|mond|lang=af}}.
+{{etyl|nl|af}} {{m|af|mond}}.
 
 ===Noun===
 {{af-noun|monde}}
 
-# {{context|anatomy|lang=af}} [[mouth]]
+# {{label|af|anatomy}} [[mouth]]
 
 ----
 
@@ -28,12 +28,12 @@
 * {{IPA|/mɔnt/|lang=nl}}
 
 ===Etymology 1===
-From {{inh|nl|odt|mund}}, from {{inh|nl|gem-pro|*munþaz}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*ment-}}. Compare Low German {{term|Mund|lang=nds}}, West Frisian {{term|mûn|lang=fy}}, German {{term|Mund|lang=de}}, English {{term|mouth|lang=en}}, Danish {{term|mund|lang=da}}. See also {{term|muide|lang=nl}}.
+From {{inh|nl|odt|mund}}, from {{inh|nl|gem-pro|*munþaz}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*ment-}}. Compare Low German {{m|nds|Mund}}, West Frisian {{m|fy|mûn}}, German {{m|de|Mund}}, English {{m|en|mouth}}, Danish {{m|da|mund}}. See also {{m|nl|muide}}.
 
 ====Noun====
 {{nl-noun|m|-en|mondje}}
 
-# {{context|anatomy|lang=nl}} [[mouth]]
+# {{label|nl|anatomy}} [[mouth]]
 
 =====Derived terms=====
 {{top4}}
@@ -54,7 +54,7 @@ From {{inh|nl|odt|*munda}}, from {{inh|nl|gem-pro|*mundō}}.
 ====Noun====
 {{nl-noun|f|-en|mondje}}
 
-# {{context|obsolete|lang=nl}} [[hand]]
+# {{label|nl|obsolete}} [[hand]]
 
 =====Usage notes=====
 This word is no longer used or recognised in this sense, but survives in some fixed phrases, such as ''Morgenstond heeft goud in de '''mond'''.'' This is often understood as ''Morning hours have gold in the mouth'' by Dutch speakers, but the identical Icelandic phrase ''[[morgunstund hefur gull í mund]]'' shows that it is the sense of ''hand'' that survives (the Icelandic for mouth is [[munnur|munnur]], not [[mund]]).
@@ -140,7 +140,7 @@ From {{etyl|urj-pro|hu}} {{m|urj-pro|*mënᴈ-}} {{hu-suffix||d|t2=frequentative
 * {{l|oc|mound}} {{qualifier|Mistralian}}
 
 ===Etymology===
-From {{etyl|la|oc}} {{term|mundus|lang=la}}.
+From {{etyl|la|oc}} {{m|la|mundus}}.
 
 ===Noun===
 {{oc-noun|m}}
@@ -162,12 +162,12 @@ From {{etyl|la|oc}} {{term|mundus|lang=la}}.
 * {{qualifier|Puter|Vallader}} {{l|rm|muond}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{term|mundus|lang=la}}.
+From {{etyl|la|rm}} {{m|la|mundus}}.
 
 ===Noun===
 {{rm-noun|m}}
 
-# {{context|Surmiran|lang=rm}} [[world]]
+# {{label|rm|Surmiran}} [[world]]
 
 [[af:mond]]
 [[da:mond]]
