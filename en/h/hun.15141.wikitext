@@ -4,7 +4,7 @@
 ===Noun===
 {{en-noun|-}}
 
-# {{context|slang|lang=en}} Affectionate abbreviation of ''[[honey]]''.
+# {{label|en|slang}} Affectionate abbreviation of ''[[honey]]''.
 # A [[grey partridge]].
 
 ===Anagrams===
@@ -35,7 +35,7 @@
 ===Pronoun===
 {{head|da|pronoun|objective case|hende|possessive|hendes}}
 
-# {{context|personal|lang=da}} [[she]]
+# {{label|da|personal}} [[she]]
 
 ====See also====
 {{Danish personal pronouns}}
@@ -52,10 +52,10 @@
 {{head|nl|pronoun|personal}}
 
 # ''The dative case of the third-person plural personal pronoun:'' [[them]], to them.
-# {{context|proscribed|lang=nl}} ''The accusative case of the third-person plural personal pronoun:'' [[them]].
-# {{context|proscribed|dialectical|Netherlands|lang=nl}} ''The nominative case of the third-person plural personal pronoun:'' [[they]].
+# {{label|nl|proscribed}} ''The accusative case of the third-person plural personal pronoun:'' [[them]].
+# {{label|nl|proscribed|dialectical|Netherlands}} ''The nominative case of the third-person plural personal pronoun:'' [[they]].
 
-'''hun''' {{context|dependent possessive|lang=nl}} (''independent possessive'' '''[[hunne]]''')
+'''hun''' {{label|nl|dependent possessive}} (''independent possessive'' '''[[hunne]]''')
 # ''The third-person plural possessive pronoun:'' [[their]].
 
 ====Usage notes====
@@ -101,7 +101,7 @@ The use of ''hun'' for the nominative case generally only occurs in the Netherla
 ===Conjunction===
 {{head|hu|conjunction}}
 
-# {{context|regional|lang=hu}} [[where]] (''regional variant of'' [[hol]])
+# {{label|hu|regional}} [[where]] (''regional variant of'' [[hol]])
 
 ===Noun===
 {{hu-noun|ok}}
@@ -118,7 +118,7 @@ The use of ''hun'' for the nominative case generally only occurs in the Netherla
 ==Label==
 
 ===Etymology===
-Compare {{etyl|ksd|-}} {{term|vudu|lang=ksd}} and {{etyl|gfk|-}} {{term|hudu|lang=gfk}}.
+Compare {{etyl|ksd|-}} {{m|ksd|vudu}} and {{etyl|gfk|-}} {{m|gfk|hudu}}.
 
 ===Noun===
 {{head|lbb|noun}}
@@ -168,12 +168,12 @@ Compare {{etyl|ksd|-}} {{term|vudu|lang=ksd}} and {{etyl|gfk|-}} {{term|hudu|lan
 ==North Frisian==
 
 ===Etymology===
-From {{etyl|ofs|frr}} {{term|hond|lang=ofs}}. Cognates include Mooring North Frisian {{term|hönj|lang=frr}} and West Frisian {{term|hân|lang=fy}}.
+From {{etyl|ofs|frr}} {{m|ofs|hond}}. Cognates include Mooring North Frisian {{m|frr|hönj}} and West Frisian {{m|fy|hân}}.
 
 ===Noun===
 {{head|frr|noun|g=f|plural|hunen}}
 
-# {{context|Föhr-Amrum dialect|lang=frr}} {{context|anatomy|lang=frr}} [[hand]]
+# {{label|frr|Föhr-Amrum dialect}} {{label|frr|anatomy}} [[hand]]
 #: {{lang|frr|a rocht(er)/lacht(er) '''hun'''}}
 #:: the right/left '''hand'''
 
@@ -182,7 +182,7 @@ From {{etyl|ofs|frr}} {{term|hond|lang=ofs}}. Cognates include Mooring North Fri
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{term|hon|lang=non}}.
+From {{etyl|non|nb}} {{m|non|hon}}.
 
 ===Pronunciation===
 * {{IPA|/hʉn/|lang=nb}}
@@ -228,7 +228,7 @@ From {{etyl|non|nb}} {{term|hon|lang=non}}.
 ==Vietnamese==
 
 ===Etymology===
-Intentional mispronunciation of {{term|hôn|lang=vi}}, to avoid awkward situations, chiefly in Southern dialects.
+Intentional mispronunciation of {{m|vi|hôn}}, to avoid awkward situations, chiefly in Southern dialects.
 
 ===Pronunciation===
 {{vi-pron}}
@@ -236,7 +236,7 @@ Intentional mispronunciation of {{term|hôn|lang=vi}}, to avoid awkward situatio
 ===Verb===
 {{vi-verb}}
 
-# {{context|southern Vietnam|slang|especially on the lips|lang=vi}} to [[kiss]]
+# {{label|vi|southern Vietnam|slang|especially on the lips}} to [[kiss]]
 
 ====Synonyms====
 * [[thơm]], [[hôn]], [[chu]], [[chụt]], {{l|vi|mi}}
