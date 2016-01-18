@@ -140,7 +140,7 @@ From {{etyl|ltc|ja|sort=しょう'}} {{m|zh|常|tr=dzyang||constant}}.
 ====Adverb====
 {{ja-pos|adverb|じょう|hhira=じやう}}
 
-# {{context|lang=ja|sort=しょう'|obsolete}} [[always]], [[constantly]], [[consistently]]
+# {{label|ja|sort=しょう'|obsolete}} [[always]], [[constantly]], [[consistently]]
 
 ====Noun====
 {{ja-noun|じょう|hhira=じやう}}
@@ -162,8 +162,8 @@ Also sometimes read as ''kita''.
 ====Noun====
 {{ja-noun|きだ}} {{ja-altread|きた}}
 
-# {{context|lang=ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the length of cut cloth}}
-# {{context|lang=ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the area of an agricultural field or paddy}}
+# {{label|ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the length of cut cloth}}
+# {{label|ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the area of an agricultural field or paddy}}
 
 ====Counter====
 {{ja-pos|counter|きだ}}
@@ -183,8 +183,8 @@ From {{etyl|ojp|ja|sort=つね}}.  Appears in the ''{{w|Man'yōshū}}'', compile
 ====Adjective====
 {{ja-adj|infl=na|つね}}
 
-# {{context|lang=ja|sort=つね|obsolete}} [[eternal]], [[permanent]], [[consistent]]
-# {{context|lang=ja|sort=つね|obsolete}} [[normal]], [[everyday]], [[regular]], [[usual]], [[ordinary]]
+# {{label|ja|sort=つね|obsolete}} [[eternal]], [[permanent]], [[consistent]]
+# {{label|ja|sort=つね|obsolete}} [[normal]], [[everyday]], [[regular]], [[usual]], [[ordinary]]
 
 =====Usage notes=====
 This appears as an adjective in older texts with the classical [[attributive]] form ''tsune naru''.  When used attributively in modern Japanese, this term is used with the particle {{m|ja|の|tr=no}} instead:
@@ -257,8 +257,8 @@ This latter element is of unclear derivation.  Some sources<ref name="KDJ">{{R:K
 ====Adjective====
 {{ja-adj|infl=na|とことわ|hhira=とことは}}
 
-# {{context|lang=ja|sort=とことわ|archaic|rare}} [[permanent]], [[eternal]]
-# {{context|lang=ja|sort=とことわ|archaic|rare}} [[usual]], [[ordinary]]
+# {{label|ja|sort=とことわ|archaic|rare}} [[permanent]], [[eternal]]
+# {{label|ja|sort=とことわ|archaic|rare}} [[usual]], [[ordinary]]
 
 =====Usage notes=====
 Listed in dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> as a {{m|ja|形容動詞|tr=keiyō dōshi||''-na'' adjective}}.  However, actual usage suggests that this was only used with particle {{m|ja|に|tr=ni}} as an [[adverb]], and never with particle {{m|ja|な|tr=na}} or classical {{m|ja|なる|tr=naru}} as an [[adjective]].　　When this appears [[attributively]], it is followed by particle {{m|ja|の|tr=no}},<ref name="SMK5">{{R:Shinmeikai5}}</ref> the usual construction when using a noun to modify another noun.
@@ -270,7 +270,7 @@ Listed in dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR
 ====Noun====
 {{ja-noun|とことわ|hhira=とことは}}
 
-# {{context|lang=ja|sort=とことわ|archaic|rare}} [[permanence]], [[eternity]]
+# {{label|ja|sort=とことわ|archaic|rare}} [[permanence]], [[eternity]]
 
 =====Synonyms=====
 * {{ja-r|常しえ|とこしえ}}
