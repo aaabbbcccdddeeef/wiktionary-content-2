@@ -78,13 +78,15 @@ The seed has been linked to the meaning of negation by saying that the root is t
 ====Usage notes====
 * The tone changes from fourth to second tone when followed by a fourth-tone syllable.
 * When negating the verb {{zh-l|有}} (to have), {{zh-l|沒/没}} (Cantonese: {{zh-l|冇}}) is used instead of {{lang|zh|不}}.
-* The word '''no''' does not have a translation in Chinese. To answer no to a yes/no question ( either "affirmative-negative questions" (正反問句/正反问句) or {{zh-l|嗎/吗}} question), you have to use the verb of the question in negative form, i.e. preceded by '''不''' (or by {{zh-l|沒/没}} in the case of {{zh-l|有}}).
-*: {{zh-usex|你 認識 他 嗎？ ／ ^你 認識 不 認識 他？ ^不 認識。|Do you know him? '''No'''.}}
-*: If there is no verb to negate in the context, {{zh-l|不是}} is used.
-*: No can be translated by {{zh-l|否}} alone but this is formal and not standard Chinese.
-* 不 is similar to a verb prefix that forms a '''stative verb''' with the verb to be negated. Therefore the predicates of the 不 sentences that contain the new compound verbs can not be modified by the perfective aspect marker [[了]], which modifies only '''dynamic verbs'''.
+* The word '''no''' does not have a translation in Chinese. To answer "no" to a yes/no question (either "affirmative-negative questions" ({{zh-l|正反問句}}) or a {{zh-l|嗎}} question), you have to use the verb of the question in negative form, i.e. preceded by '''{{lang|zh|不}}''' (or by {{zh-l|沒/没}} in the case of {{zh-l|有}}).
+*: {{zh-usex|你 認識 他 嗎？^不 認識。|Do you know him? '''No'''.}}
+*: {{zh-usex|^你 認 不 認識 他？^不 認識。|Do you know ['''not''' know] him? '''No'''.}}
+** If there is no verb to negate in the context, {{zh-l|不是}} is used.
+** "No" can be translated by {{zh-l|否}} alone, but this is formal and not standard Chinese.
+** When a verb is two characters long, truncating it to the first character before {{lang|zh|不}} may sound more natural, as in the example above ({{lang|zh|'''[[認]]'''不'''[[認識]]'''[[他]]／'''[[认]]'''不'''[[认识]]'''[[他]]}} as opposed to {{zh-l|'''[[認識]]'''不'''[[認識]]'''[[他]]／'''[[认识]]'''不'''[[认识]]'''[[他]]}})
+* 不 is similar to a verb prefix that forms a '''stative verb''' with the verb to be negated. Therefore the predicates of the {{lang|zh|不}} sentences that contain the new compound verbs can not be modified by the perfective aspect marker {{zh-l|了}}, which modifies only '''dynamic verbs'''.
 *: {{zh-usex|我 不 當兵 了。|I am '''no''' longer a soldier.}}
-: When 了 appears in a 不 sentence, it usually functions as a marker of "currently relevant state" instead. See the sentence above and notice that it does not mean "I have not become a soldier".
+** When 了 appears in a 不 sentence, it usually functions as a marker of "currently relevant state" instead. See the sentence above and notice that it does not mean "I have not become a soldier".
 
 ====Synonyms====
 * {{zh-l|沒/没}} used to negate {{zh-l|有}}
