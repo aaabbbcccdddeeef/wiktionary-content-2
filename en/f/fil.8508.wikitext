@@ -13,13 +13,13 @@
 {{az-variant|c=фил|r=fil|a=فیل}}
 
 ===Etymology===
-From {{etyl|ar|az}} {{term|فِيل|lang=ar}}.
+From {{etyl|ar|az}} {{m|ar|فِيل}}.
 
 ===Noun===
 {{az-noun|i|lər}}
 
 # [[elephant]]
-# {{context|chess|lang=az}} [[bishop]]
+# {{label|az|chess}} [[bishop]]
 
 ====Declension====
 {{az-noun-c|i}}
@@ -37,7 +37,7 @@ From {{etyl|la|ca}} {{m|la|fīlum}}.
 {{ca-noun|m}}
 
 # [[thread]], [[wire]]
-# {{context|Internet|lang=ca}} [[discussion]] [[thread]]
+# {{label|ca|Internet}} [[discussion]] [[thread]]
 
 ====Synonyms====
 * {{sense|discussion thread}} {{l|ca|tema}}
@@ -47,7 +47,7 @@ From {{etyl|la|ca}} {{m|la|fīlum}}.
 ==Dalmatian==
 
 ===Etymology===
-From {{etyl|la|dlm}} {{term|filum|lang=la}}.
+From {{etyl|la|dlm}} {{m|la|filum}}.
 
 ===Noun===
 {{head|dlm|noun|g=m}}
@@ -76,7 +76,7 @@ From {{etyl|gml|da}} {{m|gml|vīle}}.
 {{da-noun-infl|en|e}}
 
 ===Etymology 2===
-From {{etyl|en|da}} {{term|file||an aggregation of data|lang=en}} (1962).
+From {{etyl|en|da}} {{m|en|file||an aggregation of data}} (1962).
 
 ====Pronunciation====
 * {{IPA|/fiːl/|[fiːˀl]|lang=da}}
@@ -228,7 +228,7 @@ From {{etyl|la|fr}} {{m|la|fīlum}}.
 * {{l|sga|file}} {{qualifier|relative}}
 
 ===Etymology===
-From the imperative of {{etyl|cel-pro|sga}} {{m|cel-pro|*wel-||see}} (compare Welsh {{term|gweled|lang=cy}}). Semantic development from "see!" to "there is" is parallel to that of French {{term|voici|lang=fr}}, from ''vois ci'' "see here" and {{term|voilà|lang=fr}}, from ''vois là'' "see there".
+From the imperative of {{etyl|cel-pro|sga}} {{m|cel-pro|*wel-||see}} (compare Welsh {{m|cy|gweled}}). Semantic development from "see!" to "there is" is parallel to that of French {{m|fr|voici}}, from ''vois ci'' "see here" and {{m|fr|voilà}}, from ''vois là'' "see there".
 
 ===Pronunciation===
 * {{IPA|/fʲilʲ/|lang=sga}}
@@ -268,7 +268,7 @@ In the conjunct form, the logical subject appears in the accusative (or as a cli
 {{sh-noun|g=m|head=fȉl|r|фил|фи̏л}} ''or''
 {{sh-noun|g=m|head=fȋl|r|фил|фи̑л}}
 
-# {{context|regional|lang=sh}} [[elephant]]
+# {{label|sh|regional}} [[elephant]]
 
 ====Synonyms====
 * {{sense|elephant}} {{l|sh|slȍn}}
@@ -295,7 +295,7 @@ In the conjunct form, the logical subject appears in the accusative (or as a cli
 
 ===Etymology 1===
 From {{etyl|gml|sv}} {{m|gml|vīle}}.
-Cognate with English {{term|file|lang=en}} and German {{term|Feile|lang=de}}.
+Cognate with English {{m|en|file}} and German {{m|de|Feile}}.
 
 ====Pronunciation====
 * {{IPA|/fiːl/|lang=sv}}
@@ -319,7 +319,7 @@ Cognate with English {{term|file|lang=en}} and German {{term|Feile|lang=de}}.
 * [[järnfil]]
 
 ===Etymology 2===
-{{rfe|lang=sv|French {{term|file|lang=fr}}?}}.
+{{rfe|lang=sv|French {{m|fr|file}}?}}.
 
 Row and lane (a row of vehicles) is one etymology, but as English [[file]] suggests computer file has a different etymology. However, the Swedish computer file is sometimes explained as a row of bytes, in attempt to shoehorn this new English loanword into the etymology of the existing word.
 
@@ -392,7 +392,7 @@ From {{inh|tr|ota|فیل|tr=fil}}, from {{der|tr|ar|فِيل}}, from {{der|tr|fa
 {{tr-noun|i|ler}}
 
 # [[elephant]]
-# {{context|chess|lang=tr}} [[bishop]]
+# {{label|tr|chess}} [[bishop]]
 
 ====Declension====
 {{tr-noun-c|i|d|poss=+|pred=+}}
