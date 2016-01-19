@@ -25,13 +25,17 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=水04}}
 
-# [[decision]]
-# [[vote]]
+# [[decision]], [[determination]]
 
 ====Readings====
-* {{ja-readings|goon=[[けち]] (kechi)|kanon=[[けつ]] (ketsu)|kun=[[きめる]] ([[決める]], kimeru), [[きまる]] ([[決まる]], kimaru)}}
+{{ja-readings
+|goon={{non-joyo-reading}} [[けち]] (kechi), {{qualifier|historical}} [[くゑち]] (kwechi)
+|kanon=[[けつ]] (ketsu), {{qualifier|historical}} [[くゑつ]] (kwetsu)
+|kun=[[きむ]] ([[決む]], kimu) [[きめる]] ([[決める]], kimeru), [[きまる]] ([[決まる]], kimaru), {{non-joyo-reading}} [[さくる]] ([[決る]], sakuru), {{non-joyo-reading}} [[しゃくる]] ([[決る]], shakuru)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * [[決意]]
 * [[決溢]]
 * [[決壊]]
@@ -51,9 +55,13 @@
 * [[決闘]]
 * [[決別]]
 * [[決裂]]
+{{der-bottom}}
 
 ====Derived terms====
-* {{l|ja|決して|tr=[[けっして]], kesshite}}
+{{der-top}}
+* {{ja-r|決する|けっする}}: to [[make up one's mind]], to [[determine]] (to do something)
+* {{ja-r|決して|けっして}}: {{qualifier|followed by a negative verb}} [[never]], [[not at all]]
+{{der-bottom}}
 
 ----
 
