@@ -23,6 +23,7 @@ Maybe cognate with {{zh-l|夾|to clip}}.
 |m=qiǎ,kǎ
 |m_note=qiǎ - literary; kǎ - colloquial
 |c=kaa2,kaa1
+|h=pfs=khà
 |mn=kha̍h
 |mc=
 |oc=
@@ -45,20 +46,23 @@ Maybe cognate with {{zh-l|夾|to clip}}.
 # a [[checkpoint]], a [[checkpost]]
 
 ===Etymology 2===
-Used as a transliteration character.
+From {{etyl|en|zh}} {{m|en|card}}.
+
+====Alternative forms====
+* {{qual|Cantonese}} {{zh-l|咭}}
 
 ====Pronunciation====
 {{zh-pron
 |m=kǎ
-|c=kaa1,kaat1
-|c_note=kaat1 - "card"; kaa1 - others
+|c=kaat1
+|h=pfs=khá/khà
 |mn=khah/khá
 |ma=
 |cat=n
 }}
 
-====Definitions====
-{{zh-hanzi}}
+====Noun====
+{{zh-noun}}
 
 # ({{etyl|en|zh}} {{m|en|card}}) a [[card]]
 #* {{zhex|卡片|card}}
@@ -67,12 +71,64 @@ Used as a transliteration character.
 #* {{zhex|刷卡|to swipe one's card}}
 #* {{zhex|碌卡{kaat1}|to swipe one's card|C}}
 #* {{zhex|電話卡|phone card}}
-# ({{etyl|en|zh}} {{m|en|car}}) → {{zh-l|卡車|truck, lorry}}
-# ({{etyl|fr|zh}} {{m|fr|calorie}}) {{abbreviation of|卡路里|lang=zh}}
-# ({{etyl|en|zh}} {{m|en|cassette}}) → {{zh-l|卡帶|cassette}}
 
-====Synonyms====
-* {{sense|card}} (''Cantonese'') {{zh-l|咭}}
+===Etymology 3===
+From {{etyl|fr|zh}} {{m|fr|calorie}}.
+
+====Pronunciation====
+{{zh-pron
+|m=kǎ
+|c=kaa1
+|h=pfs=khà
+|mn=
+|ma=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{abbreviation of|卡路里|lang=zh}}
+
+===Etymology 4===
+From {{etyl|en|zh}} {{m|en|car}}.
+
+====Pronunciation====
+{{zh-pron
+|m=kǎ
+|c=kaa1
+|h=pfs=
+|mn=khah
+|ma=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[truck]]; [[lorry]]
+#* {{zhex|卡車|truck}}
+#* {{zhex|貨卡|cargo truck}}
+
+===Etymology 4===
+From {{etyl|en|zh}} {{m|en|cassette}}.
+
+====Pronunciation====
+{{zh-pron
+|m=kǎ
+|c=kaa1
+|h=pfs=
+|mn=
+|ma=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[cassette]]
+#: {{zhex|卡帶|cassette}}
+#: {{zhex|雙 卡 錄音機|dual cassette recorder}}
 
 ===References===
 * {{thcwd|1400}}
