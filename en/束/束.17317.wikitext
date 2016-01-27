@@ -38,53 +38,72 @@
 {{ja-kanji|grade=4|rs=木03}}
 
 ====Readings====
-* {{ja-readings|on=[[そく]] (''soku'')|kun=[[たば]] (''taba''), [[たばねる]] ([[束ねる]], ''tabaneru''), [[つか]] (''tsuka''), [[つかねる]] ([[束ねる]], ''tsukaneru'')}}
+{{ja-readings|goon=[[そく]] (soku)|kanon=[[しょく]] (shoku)|kun=[[たば]] (taba), [[たばねる]] ([[束ねる]], tabaneru), [[つか]] (tsuka), [[つかねる]] ([[束ねる]], tsukaneru)}}
 
 ====Compounds====
-{{top3}}
-* [[束髪]] (''sokuhatsu''): bundled hair
-* [[束帯]] (''sokutai''): old ceremonial court dress
-* [[束縛]] (''sokubaku''): restraint, shackles
-* [[束ね]] (''tabane''): bundle, management
-* [[装束]] (''shōzoku''): costume, attire
-{{mid3}}
-* [[約束]] (''yakusoku''): arrangement, convention
-* [[拘束]] (''kōsoku''): restriction, restraint
-* [[結束]] (''kessoku''): union, unity
-* [[花束]] (''hanataba''): bunch of flowers
-{{mid3}}
-* [[札束]] (''satsutaba''): wad of bills
-* [[束ねる]] (''tabaneru''): tie up in a bundle
-* [[束の間]] (''tsukanoma''): brief space of time
-* [[束になって]] (''taba ni natte''): in a bunch
-{{bottom}}
+{{der-top|Compounds}}
+* {{ja-r|結束|けっそく}}:  union, unity
+* {{ja-r|拘束|こうそく}}:  restriction, restraint
+* {{ja-r|札束|さつたば}}:  wad of bills
+* {{ja-r|装束|しょうぞく}}:  costume, attire
+* {{ja-r|束帯|そくたい}}:  old ceremonial court dress
+* {{ja-r|束縛|そくばく}}:  restraint, shackles
+* {{ja-r|束髪|そくはつ}}: bundling one's hair, or the hair so bundled; a [[pompadour]]-like traditional Japanese hairstyle for women
+* {{ja-r|束になって|たば に なって}}:  in a bunch
+* {{ja-r|束ね|たばね}}:  bundle, management
+* {{ja-r|束ねる|たばねる}}:  tie up in a bundle
+* {{ja-r|束の間|つかのま}}:  brief space of time
+* {{ja-r|花束|はなたば}}:  bunch of flowers
+* {{ja-r|約束|やくそく}}:  arrangement, convention
+{{der-bottom}}
 
-===Counter===
-{{ja-pos|たば|counter}}
+===Etymology 1===
+{{ja-kanjitab|たば|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たば|acc=1|acc_ref=DJR,NHK}}
+
+====Counter====
+{{ja-pos|counter|たば}}
 
 # counter for [[bundle]]s
 #: {{ja-usex|それは一束十円の値段でした|それ は ひとたば じゅう えん の ねだん でした|They cost 10 yen a bundle}}
 
-{{ja-pos|そく|counter}}
-
-# large bundles
-
-===Noun===
+====Noun====
 {{ja-noun|たば}}
 
 # [[bundle]], [[bunch]], [[batch]], [[sheaf]], [[coil]]
 #: {{ja-usex|彼は古い手紙を束にした|かれ は ふるい てがみ を たば に した|He bound old letters into a bundle}}
 
+===Etymology 2===
+{{ja-kanjitab|つか|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|つか|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|つか}}
+
 # [[handbreadth]], [[bundle]]
 
-===Suffix===
-{{ja-pos|たば|suffix}}
+===Etymology 3===
+{{ja-kanjitab|そく|yomi=o}}
 
-# [[bundle]]
+====Pronunciation====
+{{ja-pron|yomi=goon|そく|acc=1|acc_ref=DJR}}
 
-{{ja-pos|そく|suffix}}
+====Counter====
+{{ja-pos|そく|counter}}
+
+# large bundles
+
+====Noun====
+{{ja-noun|そく}}
+
 # {{label|ja|mathematics|sort=そく}} [[lattice]]
+
+===References===
+<references/>
 
 ----
 
