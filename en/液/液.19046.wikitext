@@ -4,7 +4,7 @@
 {{Han compound|水|alt1=氵|t1=water|夜|ls=psc|c1=s|c2=p}} – a liquid, like water.
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=08|sn=11|four=30147|canj=EYOK}}
+{{Han char|rn=85|rad=水|as=08|sn=11|four=30147|canj=EYOK|ids=⿰氵夜}}
 
 # [[sap]], [[juice]], [[liquid]], [[fluid]]
 
@@ -27,20 +27,37 @@
 ===Kanji===
 {{ja-kanji|grade=5|rs=水08}}
 
-# {{defn|lang=ja|sort=水08}}
+# [[liquid]]
 
 ====Readings====
-* {{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[しる]] (shiru)}}
+{{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[しる]] (shiru)}}
 
 ====Compounds====
-* [[液化]]
-* [[液汁]]
-* [[液晶]]
-* [[液状]]
-* [[液体]]
-* [[血液]]
-* [[血液型]]
-* [[精液]]
+{{der-top|Compounds}}
+* {{ja-r|不凍液|ふとうえき}}: [[antifreeze]]
+* {{ja-r|液化|えきか}}
+* {{ja-r|液汁|えきじゅう}}
+* {{ja-r|液晶|えきしょう}}
+* {{ja-r|液状|えきじょう}}
+* {{ja-r|液体|えきたい}}
+* {{ja-r|血液|けつえき}}
+* {{ja-r|精液|せいえき}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|えき|yomi=o}}
+From {{etyl|ltc|ja|sort=えき}} {{m|zh|液|tr=yek||liquid}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|えき|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|えき}}
+
+# [[liquid]]
+
+===References===
+<references/>
 
 ----
 
