@@ -28,56 +28,101 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=dù
-|c=dok6,dou6
-|mn=tō͘/to̍k
-|mc=y
-|oc=y
+|c=dou6
+|mn=tō͘
+|mc=1
+|oc=1,1
 |ma=
-|cat=n,v,c:part
+|cat=n,suf,v,cls
 }}
 
-===Noun===
+====Noun====
 {{zh-noun}}
 
 # [[degree]]
-## degree of, [[level]], [[measure]] (of a substance's presence, etc)
+## degree of, [[level]], [[measure]] (of a substance's presence, etc.)
 ##: {{zh-usex|色度|color saturation}}
 ##: {{zh-usex|鹽度|salinity}}
-## [[-ness]]
-##: {{zh-usex|深度|depth}}
-##: {{zh-usex|長度|length}}
-##: {{zh-usex|亮度|brightness; luminance}}
-##: {{zh-usex|可信度|reliability; believability}}
 ## {{lb|zh|mathematics}} degree
 ##: {{zh-usex|旋轉 90 度|rotate 90 degrees}}
 ## {{lb|zh|temperature}} degrees
-##: {{zh-usex|絕對零度|absolute zero}}
+##: {{zh-usex|絕對.零度|absolute zero}}
 # [[kilowatt-hour]]
 
-===Verb===
+====Suffix====
+{{zh-suf}}
+
+# [[degree]], [[-ness]], [[-ity]]
+#: {{zh-usex|深度|depth}}
+#: {{zh-usex|長度|length}}
+#: {{zh-usex|亮度|brightness; luminance}}
+#: {{zh-usex|可信度|reliability; believability}}
+
+====Classifier====
+{{zh-cls}}
+
+# [[time]]
+#: {{zh-usex|再度|one more '''time'''}}
+
+====Verb====
 {{zh-verb}}
 
-# to take a measurement
-#: {{zh-usex|用 把 尺{cek3} 度{dok6} 吓|measure with a ruler|C}}
+# to [[pass]]; to [[spend]] [[time]]
 
 ====Compounds====
-* [[度牒]]
-* [[度过]]
-* [[度荒]]
-* [[度假]]
-* [[度假村]]
-* [[度量]]
-* [[度量衡]]
-* [[度日]]
-* [[度日如年]]
-* [[度数]]
-* [[度外]]
-* [[百度]]
+* {{zh-l|度牒}}
+* {{zh-l|度過}}
+* {{zh-l|度荒}}
+* {{zh-l|度假}}
+* {{zh-l|度假村}}
+* {{zh-l|度量}}
+* {{zh-l|度量衡}}
+* {{zh-l|度日}}
+* {{zh-l|度日如年}}
+* {{zh-l|度數}}
+* {{zh-l|度外}}
+* {{zh-l|百度}}
 
-===Particle===
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=duó,duò,2nb=Taiwan
+|c=dok6,dou6
+|mn=tō͘/to̍k
+|mc=2
+|oc=2,2
+|ma=
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[speculate]]
+# to [[measure]]; to [[estimate]]
+#: {{zh-usex|用 把 尺{cek3} 度{dok6} 下{haa5}|'''measure''' with a ruler|C}}
+# to [[devise]]
+#: {{zh-usex|度{dok6} 橋{kiu4-2}|'''devise''' a smart idea|C}}
+
+====Compounds====
+* {{zh-l|量度}}
+* {{zh-l|度量}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|c=dou6
+|cat=part
+}}
+
+====Particle====
 {{zh-particle}}
 
 # {{lb|zh|Cantonese}} {{non-gloss definition|Used to indicate location of something.}}
@@ -92,7 +137,7 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 ====See also====
 * {{zh-l|裡}}
 
-====References====
+===References===
 * {{thcwd|4875}}
 
 ----
