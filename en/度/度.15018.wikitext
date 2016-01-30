@@ -38,18 +38,16 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 |mc=1
 |oc=1,1
 |ma=
-|cat=n,suf,v,cls
+|cat=n,suf,v,cls,propn
 }}
 
 ====Noun====
 {{zh-noun}}
 
-# [[degree]]
-## {{lb|zh|mathematics}} degree
-##: {{zh-usex|旋轉 90 度|rotate 90 degrees}}
-## {{lb|zh|temperature}} degree
-##: {{zh-usex|絕對.零度|absolute zero}}
-# [[kilowatt-hour]]
+# [[linear]] [[measurement]]
+# [[extent]]; [[limit]]
+# [[law]]; [[standard]]
+# [[tolerance]]
 
 ====Suffix====
 {{zh-suf}}
@@ -65,13 +63,27 @@ Ultimately not related to [[席]], but similar simplification of top left compon
 ====Classifier====
 {{zh-cls}}
 
-# [[time]]
+# [[degree]]
+#: {{zh-usex|旋轉 90 度|rotate 90 degrees}}
+#: {{zh-usex|東經 @120 度|longitude 120 degrees east}}
+#: {{zh-usex|絕對.零度|absolute zero}}
+# [[kilowatt-hour]]
+# 0.01 [[dioptre]]s
+#: {{zh-usex|近視 300 度|–3.00 dioptres}}
+# {{lb|zh|alcohol concentration}} [[percent]]
+#: {{zh-usex|紅酒 酒精 十 幾 度。|Red wine is around 10% alcohol.}}
+# {{n-g|Classifier for events or occurrences}}; [[time]]
 #: {{zh-usex|再度|one more '''time'''}}
 
 ====Verb====
 {{zh-verb}}
 
 # to [[pass]]; to [[spend]] [[time]]
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
 
 ====Compounds====
 * {{zh-l|度牒}}
