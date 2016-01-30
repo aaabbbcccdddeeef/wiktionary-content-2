@@ -16,68 +16,26 @@
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=pin1|y=pin1|sim=编}}
-
-# {{defn|lang=yue|sort=糸09}}
-
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=5|rs=糸09}}
-
-# {{defn|lang=ja|sort=糸09}}
-
-====Readings====
-{{ja-readings|goon=[[へん]] (hen)|kanon=[[へん]] (hen)|kun=[[あむ]] (amu), [[とじいと]] (tojiito), [[ふみ]] (fumi)}}
-
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|短編|たんぺん}}
-* {{ja-r|長編|ちょうへん}}
-* {{ja-r|編集|へんしゅう}}
-* {{ja-r|編鐘|へんしょう}}: [[bianzhong]]
-{{der-bottom}}
-
-===Etymology===
-{{ja-kanjitab|へん|yomi=o}}
-From {{etyl|ltc|ja|sort=へん}} {{m|zh|編|tr=pen}}.
+==Chinese==
+{{zh-forms|s=编}}
 
 ===Pronunciation===
-{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}
+{{zh-pron
+|m=biān
+|c=pin1
+|h=pfs=phiên
+|md=
+|mn=pian
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
 
-===Noun===
-{{ja-noun|へん}}
+===Definitions===
+{{zh-hanzi}}
 
-# [[compilation]]
-
-===References===
-<references/>
-
-----
-
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=[[편]], [[변]]|eumhun=|rv=pyeon, byeon|mr=p'yŏn, pyŏn|y=phyen, pyen}}
-
-# {{defn|lang=ko|sort=糸09}}
-
-====Compounds====
-* [[玉編]]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=编|pin=[[biān]] ([[bian1]])|wg=[[pien1|pien<sup>1</sup>]]}}
-
-# {{defn|lang=cmn|sort=糸09}}
+# {{rfdef|lang=zh}}
 
 ====Compounds====
 * [[编程]]
@@ -126,6 +84,53 @@ From {{etyl|ltc|ja|sort=へん}} {{m|zh|編|tr=pen}}.
 * [[编缀]]
 * [[编组]]
 * [[编纂]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸09}}
+
+# {{defn|lang=ja|sort=糸09}}
+
+====Readings====
+{{ja-readings|goon=[[へん]] (hen)|kanon=[[へん]] (hen)|kun=[[あむ]] (amu), [[とじいと]] (tojiito), [[ふみ]] (fumi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|短編|たんぺん}}
+* {{ja-r|長編|ちょうへん}}
+* {{ja-r|編集|へんしゅう}}
+* {{ja-r|編鐘|へんしょう}}: [[bianzhong]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|へん|yomi=o}}
+From {{etyl|ltc|ja|sort=へん}} {{m|zh|編|tr=pen}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|へん}}
+
+# [[compilation]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[편]], [[변]]|eumhun=|rv=pyeon, byeon|mr=p'yŏn, pyŏn|y=phyen, pyen}}
+
+# {{defn|lang=ko|sort=糸09}}
+
+====Compounds====
+* [[玉編]]
 
 ----
 
