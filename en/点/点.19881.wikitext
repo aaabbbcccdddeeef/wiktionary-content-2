@@ -30,16 +30,27 @@ Current form is graphically {{Han compound|占|灬}}.
 {{ja-kanji|grade=2|rs=火05|style=s|kyu=點}}
 
 ====Readings====
-* {{ja-readings
-|kanon=[[てん]] (ten)
+{{ja-readings
 |goon=[[てん]] (ten)
+|kanon=[[てん]] (ten)
 |kun=[[ぼち]] (bochi), [[たてる]] ([[点てる]], tateru), [[さす]] ([[点す]], sasu), [[とぼす]] ([[点す]], tobosu), [[ともす]] ([[点す]], tomosu), [[つける]] ([[点ける]], [[tsukeru]])}}
 {{attention|ja|review readings}}
 
 ====Compounds====
-* {{ja-r|点穴|てんけつ|gloss=[[pressure point]]s}}
+{{der-top|Compounds}}
+* {{ja-r|自殺点|じさつてん}}: [[own goal]]
 * {{ja-r|濁点|だくてん}}
+* {{ja-r|点穴|てんけつ}}: [[pressure point]]s
 * {{ja-r|半濁点|はんだくてん}}
+{{der-bottom}}
+
+{{ja-kanjitab|てん|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=てん}} {{m|zh|點|tr=tem<sup>X</sup>||point}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|てん|acc=0|acc_ref=DJR}}
 
 ===Counter===
 {{ja-pos|てん|counter}}
@@ -50,12 +61,11 @@ Current form is graphically {{Han compound|占|灬}}.
 {{ja-noun|てん}}
 
 # [[spot]], [[dot]]
-# [[score]]; [[grade]]; [[mark]](s)
-
-===Suffix===
-{{ja-pos|てん|suffix}}
-
+# [[score]], [[grade]], [[mark]](s)
 # [[point]]
+
+===References===
+<references/>
 
 ----
 
