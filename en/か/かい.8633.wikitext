@@ -21,22 +21,10 @@
 {{ja-pos|particle}}
 
 # {{ja-def|かい}} {{label|ja|familiar}} marks a non-[[rhetorical question]], which expects a 'yes' or a 'no' answer, a variant of question particle {{m|ja|か|tr=ka}}
-#: 元気'''かい'''？
-#:: げんき'''かい'''？
-#:: ''Genki '''kai'''?''
-#::: Are you fine?
-#: あの[[女の子]]に[[気がある]]の'''かい'''。
-#:: あの[[おんなのこ]]にきがあるの'''かい'''。
-#:: ''Ano [[onna no ko]] ni ki ga aru no '''kai'''?''
-#::: Are you [[interest]]ed in that [[girl]]?
-#: 彼はもう[[来る|来た]]'''かい'''？
-#:: かれはもう[[くる|きた]]'''かい'''？
-#:: ''Kare wa mō [[kuru|kita]] '''kai'''?''
-#::: Has he [[come]] yet?
-#: [[本当]]に出来るの'''かい'''？
-#:: [[ほんとう]]にできるの'''かい'''？
-#:: ''[[hontō|Hontō ni]] dekiru no '''kai'''?''
-#::: Can you [[really]] do it?
+#: {{ja-usex|元気'''かい'''？|^げんき '''かい'''？|Are you fine?}}
+#: {{ja-usex|あの[[女の子]]に[[気がある]]の '''かい'''。|^あの [[おんなのこ]] に [[きがある]] の '''かい'''。|Are you [[interest]]ed in that [[girl]]?}}
+#: {{ja-usex|彼はもう[[来る|来た]]'''かい'''？|^かれ は もう [[くる|きた]] '''かい'''？|Has he [[come]] yet?}}
+#: {{ja-usex|[[本当]]に出来るの'''かい'''？|^[[ほんとう]] に できる の '''かい'''？|Can you [[really]] do it?}} 
 
 ====Usage notes====
 * The question marker {{m|ja|かい|tr=kai}} is sometimes written as {{m|ja|かえ|tr=kae}}, but it's less common.
