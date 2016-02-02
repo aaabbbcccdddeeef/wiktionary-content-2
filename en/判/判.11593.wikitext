@@ -45,27 +45,48 @@
 {{ja-kanji|grade=5|rs=刀05}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[はん]] (han)
 |kanon=[[はん]] (han)
 |kanyoon=[[ばん]] (ban)
-|on=[[ほう]] (hō)
 |kun=[[わかる]] (wakaru), [[わかれる]] (wakareru), [[わかつ]] (wakatsu)}}
 
-===Noun===
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|判然|はんぜん}}: [[clearness]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|はん|yomi=o}}
+From {{etyl|ltc|ja|sort=はん}} {{m|zh|判|tr=phan<sup>H</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|はん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|はん}}
 
 # [[stamp]], [[seal]]
 # [[judgement]]
 
-===Suffix===
+====Suffix====
+{{ja-pos|suffix|はん}}
+
+# [[size]] of paper or books
+
+===Etymology 2===
+{{ja-kanjitab|ばん|yomi=kanyoon}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|ばん|acc=1|acc_ref=NHK}}
+
+====Suffix====
 {{ja-pos|suffix|ばん}}
 
 # [[size]] of paper or books
 
-{{ja-pos|suffix|はん}}
-
-# [[size]] of paper or books
+===References===
+<references/>
 
 ----
 
