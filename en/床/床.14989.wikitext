@@ -62,6 +62,11 @@
 |kun=[[ゆか]] (yuka), [[とこ]] (toko), [[ゆかしい|ゆか.しい]] (yuka.shii)
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|同床|どうしょう}}: [[sharing]] a [[bed]]
+{{der-bottom}}
+
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ゆか}}
 From {{etyl|ojp|ja|sort=ゆか}}. Attested in the {{m|ja|日本書紀|tr=Nihon Shoki}}, completed in 720 and one of the earliest works written in Japanese (see [[Wikipedia:Nihon Shoki]]), with a meaning of {{m|en|bed}}.
@@ -69,7 +74,7 @@ From {{etyl|ojp|ja|sort=ゆか}}. Attested in the {{m|ja|日本書紀|tr=Nihon S
 According to the {{lang|ja|和句解}} (''Wakuge''), published in 1668 by early Edo-period scholar Matsunaga Teitoku ({{lang|ja|松永貞徳}}; see [[Wikipedia:ja:松永貞徳]]), derives from ゆか (''yuka'') as the {{m|ja|未然形|tr=[[mizenkei]]||[[irrealis]] form}} stem of the verb {{m|ja|行く|tr=yuku||to go}} of an original meaning similar to "not going", in reference to a place where one sits down to rest.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ゆか|acc=0|acc_ref=DJR}}
+{{ja-pron|yomi=k|ゆか|acc=0|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ゆか}}
@@ -90,7 +95,7 @@ According to the {{lang|ja|和句解}} (''Wakuge''), published in 1668 by early 
 From {{etyl|ojp|ja|sort=とこ}}. Cognate with {{m|ja|所|tr=tokoro||place}}. Attested since at least the Nara period, appearing in the {{m|ja|万葉集|tr=Man'yōshū}}, completed in 759 (see [[Wikipedia:Man'yōshū]]).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|とこ|acc=0|acc_ref=DJR}}
+{{ja-pron|yomi=k|とこ|acc=0|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|とこ}}
@@ -111,17 +116,17 @@ From {{etyl|ojp|ja|sort=とこ}}. Cognate with {{m|ja|所|tr=tokoro||place}}. At
 # short for {{m|ja|鉄床}}, {{m|ja|金床|tr=kanatoko}}: an [[anvil]]
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=o|しょう}}
+{{ja-kanjitab|しょう|yomi=kanyoon}}
 From {{etyl|ltc|ja|sort=しょう}} {{m|zh|床|tr=jrhiɑng}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=ky|しょう}}
+{{ja-pron|yomi=kanyoon|しょう|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{l|ja|牀}}
 
 ====Counter====
-{{ja-pos|しょう|counter}}
+{{ja-pos|counter|しょう|hhira=しやう}}
 
 # [[bed]]s
 
