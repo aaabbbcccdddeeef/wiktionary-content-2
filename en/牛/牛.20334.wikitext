@@ -128,11 +128,11 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*ŋwa}}.
 |{{zh-l|牛仔舞|niúzǎiwǔ}}
 |{{zh-l|吹牛|chuīniú}}
 |{{zh-l|公牛|gōngniú}}
-|{{zh-l|蝸牛|guāniú,wōniú}}
 |{{zh-l|黄牛|huángniú}}
 |{{zh-l|犛牛|líniú}}
 |{{zh-l|母牛|mǔniú}}
 |{{zh-l|水牛|shuìniú}}
+|{{zh-l|蝸牛|wōniú|[[snail]]}}
 |{{zh-l|小牛|xiǎoniú}}
 |{{zh-l|犀牛|xīniú}}
 |{{zh-l|九牛一毛|jiǔniúyīmáo}}
@@ -150,7 +150,7 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*ŋwa}}.
 # [[cow]], [[ox]], [[cattle]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[ぐ]] (gu) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 |kanon=[[ぎゅう]] (gyū) < [[ぎう]] (giu)
 |kanyoon=[[ご]] (go) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
@@ -163,12 +163,14 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*ŋwa}}.
 * {{ja-r|子牛|こ.うし}}, {{ja-r|仔牛|こ.うし}}
 * {{ja-r|雄牛|お.うし}}, {{ja-r|牡牛|お.うし}}
 * {{ja-r|雌牛|めうし}}, {{ja-r|牝牛|めうし}}
+* {{ja-r|蝸牛|かぎゅう}}: [[snail]]; [[cochlea]]
+* {{ja-r|蝸牛|かたつむり}}, {{ja-r|蝸牛|でんでんむし}}: [[snail]]
 * {{ja-r|牛舎|ぎゅうしゃ}}
 * {{ja-r|牛肉|ぎゅうにく}}: [[beef]]
 * {{ja-r|水牛|すいぎゅう}}: [[water buffalo]]
 * {{ja-r|呉牛|ごぎゅう}}: [[water buffalo]]
 {{der-mid}}
-* {{ja-r|牛乳|ぎゅうにゅう}}
+* {{ja-r|牛乳|ぎゅうにゅう}}: [[cow's milk]]
 * {{ja-r|牛車|ぎっしゃ}}
 * {{ja-r|牛耳る|ぎゅうじる}}
 * {{ja-r|牛蒡|ごぼう}}
@@ -179,14 +181,39 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*ŋwa}}.
 * {{ja-r|牛鬼|うしおに}}, {{ja-r|牛鬼|ぎゅうき}}
 {{der-bottom}}
 
-===Noun===
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|うし|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うし|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|うし|ウシ}}
 
-# [[cow]], [[bull]], [[cattle]]
-# [[ox]]
+# [[cow]], [[bull]], [[ox]], [[cattle]]
+# [[beef]]
 
-====Usage notes====
-Like other species names, usually written in katakana in scientific contexts.
+=====Usage notes=====
+{{U:ja:biology|ウシ}}
+
+===Etymology 2===
+{{ja-kanjitab|ぎゅう|yomi=o}}
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|牛|tr=ngjuw|lit=cow}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぎゅう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ぎゅう|hhira=ぎう}}
+
+# [[cow]], [[bull]], [[ox]], [[cattle]]
+# [[beef]]
+# {{label|ja|astronomy|sort=きゅう'}} [[Ox]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|うし]]
 [[Category:ja:Cattle|うし]]
@@ -200,6 +227,9 @@ Like other species names, usually written in katakana in scientific contexts.
 {{ko-hanja|hangeul=우|eumhun=소|mr=u|y=wu}}
 
 # {{defn|lang=ko|sort=牛00}}
+
+====Compounds====
+* {{ko-l|와우|[[snail]]|蝸牛}}
 
 ----
 
