@@ -23,7 +23,7 @@
 {{ja-kanji|grade=c|rs=宀10|style=s|kyu=寢}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=[[ね]](ne), [[ねる]] (neru), [[みたまや]] (mitamaya), [[やめる]] (yameru)}}
+{{ja-readings|goon=[[しん]] (shin)|kanon=[[しん]] (shin)|kun=[[ね]](ne), [[ねる]] (neru), [[みたまや]] (mitamaya), [[やめる]] (yameru)}}
 
 ====Compounds====
 {{top3}}
@@ -74,7 +74,7 @@
 * {{IPA|/nu/|lang=ja}}
 
 ====Verb====
-{{ja-verb|ぬ|type=|tr=intrans}}
+{{ja-verb|tr=intrans|type=ni|ぬ}}
 
 # to [[sleep]]
 
@@ -82,8 +82,32 @@
 * [[寝ぬ]] (inu)
 * [[寝る]] (neru)
 
+===Etymology 3===
+{{ja-kanjitab|しん|yomi=o}}
+From {{etyl|ltc|ja|sort=しん}} {{m|zh|寢|tr=tshim<sup>X</sup>||sleep}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|しん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しん}}
+
+# sleep
+
+===Etymology 4===
+{{ja-kanjitab|ね|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ね|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ね}}
+
+# sleep
+
 ===References===
-* {{reference-book
+<references/>
+:* {{reference-book
 |last=Horiuchi
 |first=Hideaki
 |coauthors=Ken Akiyama
