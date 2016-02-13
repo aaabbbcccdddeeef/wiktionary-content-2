@@ -210,12 +210,14 @@
 {{ja-kanji|grade=1|rs=一02}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[げ]] (ge)
 |kanon=[[か]] (ka)
 |kun=[[した]] (shita), [[しも]] (shimo), [[もと]] (moto), [[さがる]] ([[下がる]], sagaru), [[さげる]] ([[下げる]], sageru), [[くだる]] ([[下る]], kudaru), [[くだす]] ([[下す]], kudasu), [[くださる]] ([[下さる]], kudasaru), [[おりる]] ([[下りる]], oriru), [[おろす]] ([[下ろす]], orosu)}}
 
 ====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|閾下|いきか}}: [[subliminal]]
 * [[下限]] ([[かげん]], ''[[kagen]]'')
 * [[下弦]] ([[かげん]], ''[[kagen]]'')
 * [[下降]] ([[かこう]], ''[[kakou]]'')
@@ -228,38 +230,64 @@
 * [[上下巻]]
 * [[上中下巻]]
 * [[下関]] ([[しものせき]], ''[[shimonoseki]]'')
-* [[靴下]] ([[くつした]], ''[[kutsushita]]'')
+* {{ja-r|靴下|くつした}}: [[sock]]s
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|した|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|した|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|した}}
 
 # the [[below]]
 
-===Noun===
+===Etymology 2===
+{{ja-kanjitab|しも|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|しも|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|しも}}
 
 # lower portion, end
 
-===Noun===
+===Etymology 3===
+{{ja-kanjitab|もと|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|もと|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|もと}}
 
 # lower portion; base
 # under the influence of
 
-===Suffix===
+===Etymology 4===
+{{ja-kanjitab|げ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|げ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Suffix====
 {{ja-pos|suffix|か}}
 
 # under a situation
 
-===Noun===
+====Noun====
 {{ja-noun|げ}}
 
 # the [[last]] [[volume]] in a two- or three-volume set
 
+===References===
+<references/>
+
 [[Category:1000 Japanese basic words|した]]
-[[Category:Japanese terms spelled with 下]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:ja:Taxonomy]]
+[[Category:ja:Taxonomy|か]]
 
 ----
 
