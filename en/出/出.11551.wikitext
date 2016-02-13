@@ -53,8 +53,8 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 ====Readings====
 {{ja-readings
 |goon=[[すち]] (suchi), [[すい]] (sui)
-|kanon=[[しゅつ]] ([[shutsu]]), [[すい]] (sui)
-|kun=[[でる]] ([[出る]], [[deru]]), [[だす]] ([[出す]], [[dasu]]), [[でかける]] ([[出かける]], [[dekakeru]]), [[いづ]] ([[出づ]], [[izu]]), [[いだす]] ([[出だす]], [[idasu]])
+|kanon=[[しゅつ]] (shutsu), [[すい]] (sui)
+|kun=[[でる]] ([[出る]], deru), [[だす]] ([[出す]], dasu), [[でかける]] ([[出かける]], dekakeru), [[いづ]] ([[出づ]], izu), [[いだす]] ([[出だす]], idasu)
 }}
 
 ====Compounds====
@@ -72,7 +72,7 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 * {{ja-r|出格子|でごうし}}
 * {{ja-r|出殻|しゅっこく}}
 * {{ja-r|出額|でびたい}}
-* {{ja-r|出掛|tr=でかけ}}
+* {{ja-r|出掛|でかけ}}
 * {{ja-r|出棺|しゅっかん}}
 * {{ja-r|出監|しゅっかん}}
 * {{ja-r|出願|しゅつがん}}
@@ -179,20 +179,38 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 * {{ja-r|出臍|でべそ}}
 {{der-bottom}}
 
-===Noun===
+===Etymology 1===
+
+====Pronunciation====
+{{ja-pron|yomi=k|で|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|で}}
 
 # the process of something coming [[out]]
 # something that [[come]]s out
 
-===Noun===
+===Etymology 2===
+
+====Pronunciation====
+{{ja-pron|yomi=k|しゅつ|acc=2|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|しゅつ}}
 
 # being from a certain place
 # coming out
 
-[[Category:Japanese terms spelled with 出]]
-[[Category:Japanese terms written with one Han script character]]
+===Etymology 3===
+
+====Verb====
+{{ja-verb|type=ni|ず|hhira=づ}}
+
+# come out
+
+===References===
+<references/>
+
 
 ----
 
