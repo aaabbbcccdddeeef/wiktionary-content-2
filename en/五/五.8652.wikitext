@@ -38,35 +38,30 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*l/b-ŋa||five}}.
 {{zh-pron
 |m=wǔ
 |ma=y
-|c=ng5,m5
+|c=ng5
 |h=pfs=ńg
 |mn=gō/ngó͘
 |w=3hhngg,2u
 |mc=y
 |oc=y
-|cat=num,pn}}
+|cat=num,pn
+}}
 
-===Numeral===
-{{zh-num}}
+===Definitions===
+{{zh-hanzi}}
 
 # [[five]]
+# {{surname|lang=zh}} [[Wu]] (''mainland China, Taiwan''), [[Ng]] (''Hong Kong'')
+# {{lb|zh|printing}} The [[size]] of [[type]] between [[小五]] ([[little]] [[5]]) and [[小四]] ([[little]] [[4]]), [[standardize]]d as 10½ [[point]].
 
 ====See also====
 {{Chinese-numbers}}
 
-===Proper noun===
-{{zh-proper noun}}
-
-# {{surname|lang=zh}} [[Wu]] (''mainland China, Taiwan''), [[Ng]] (''Hong Kong'')
-
-===Noun===
-{{zh-noun}}
-
-# {{label|zh|printing|sort=wu3}} The [[size]] of [[type]] between [[小五]] ([[little]] [[5]]) and [[小四]] ([[little]] [[4]]), [[standardize]]d as 10½ [[point]].
-
 ====Compounds====
-* [[五味子]]
-* [[小五]]
+{{der3
+| {{zh-l|五味子}}
+| {{zh-l|小五}}
+}}
 
 [[Category:Mandarin numeral symbols|wu3]]
 [[Category:Chinese cardinal numbers|wu3]]
