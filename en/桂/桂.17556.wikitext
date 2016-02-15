@@ -56,7 +56,7 @@
 # the sweet [[osmanthus]] tree
 
 ====Readings====
-{{ja-readings|kanon=[[けい]] (kei)|kun=[[かつら]] (katsura), [[めかつら]] (mekatsura)|nanori=[[かつ]] (katsu), [[よし]] (yoshi), [[か]] (ka)}}
+{{ja-readings|goon=[[かい]] (kai)|kanon=[[けい]] (kei)|kun=[[かつら]] (katsura), [[めかつら]] (mekatsura)|nanori=[[かつ]] (katsu), [[よし]] (yoshi), [[か]] (ka)}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -94,11 +94,12 @@
 [[File:Cercidiphyllum_japonicum2.jpg|thumb|250px|{{lang|ja|桂（カツラ）の[[葉っぱ]]と[[実#Japanese|実]]}}]]
 
 ===Etymology 1===
+{{ja-kanjitab|かつら|yomi=k}}
 From {{etyl|ojp|ja|sort=かつら}}. Originally a compound of {{compound|lang=ja|sort=かつら|香|tr1=ka|t1=fragrance, good smell|出|tr2=zu|t2=to come out, to put something out}} + {{m|ja|ら|tr=ra|pos=nominalizing suffix}}: "that which puts out a good smell", from the way the wood smells good.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{ja-pron|かつら}}
+{{ja-pron|かつら|y=k|acc=h}}
+* {{homophone|鬘|lang=ja|sort=かつら}}
 
 ====Alternative forms====
 * {{l|ja|楓}} {{qualifier|uncommon}}
@@ -124,11 +125,11 @@ From {{etyl|ojp|ja|sort=かつら}}. Originally a compound of {{compound|lang=ja
 [[File:Cinnamomum_verum1.jpg|thumb|250px|{{lang|ja|桂（めかつら）の[[葉っぱ]]と[[実#Japanese|実]]}}]]
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|めかつら}}
 From {{etyl|ojp|ja|sort=めかつら}}. Alternate spelling for {{m|ja|女桂|tr=mekatsura||female katsura}}, an archaic name for the [[cinnamon]] tree. Compare {{m|ja|男桂|tr=okatsura||male katsura: the katsura tree}}. Appears with this reading in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}}, a Japanese dictionary of Chinese characters completed in 938.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{ja-pron|めかつら}}
+{{ja-pron|めかつら|y=k}}
 
 ====Alternative forms====
 * {{l|ja|女桂|tr=[[めかつら]], ''[[mekatsura]]''}}
@@ -142,11 +143,11 @@ From {{etyl|ojp|ja|sort=めかつら}}. Alternate spelling for {{m|ja|女桂|tr=
 * {{l|ja|肉桂|tr=[[にっけい]], ''[[nikkei]]''}}
 
 ===Etymology 3===
+{{ja-kanjitab|けい|yomi=o}}
 From {{etyl|zhx|ja|sort=けい}} {{m|zh|桂}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{ja-pron|けい}}
+{{ja-pron|けい|y=ko|acc=h|acc2=a}}
 
 ====Noun====
 {{ja-noun|けい}}
@@ -162,10 +163,6 @@ From {{etyl|zhx|ja|sort=けい}} {{m|zh|桂}}.
 ===Etymology 4===
 From a Chinese legend that the phases of the moon were caused by ''kei'' trees, which would bud, blossom, then drop their flowers and leaves again as if in accelerated seasons.
 
-====Pronunciation====
-* [[音読み|On'yomi]]
-* {{ja-pron|けい}}
-
 ====Noun====
 {{ja-noun|けい}}
 
@@ -179,10 +176,6 @@ From a Chinese legend that the phases of the moon were caused by ''kei'' trees, 
 
 ===Etymology 5===
 Abbreviation of {{m|ja|桂馬|tr=keima}}, the [[knight]] in {{m|ja|将棋|tr=[[shōgi]]||Japanese chess}}.
-
-====Pronunciation====
-* [[音読み|On'yomi]]
-* {{ja-pron|けい}}
 
 ====Noun====
 {{ja-noun|けい}}
