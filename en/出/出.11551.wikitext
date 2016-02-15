@@ -180,6 +180,8 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|で}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|出る|tr=deru||to come out}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|で|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
@@ -191,9 +193,11 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 # something that [[come]]s out
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=o|しゅつ}}
+From {{etyl|ltc|ja|sort=しゅつ}} {{m|zh|出|tr=tsyhwit||to go or come out}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しゅつ|acc=2|acc_ref=DJR}}
+{{ja-pron|yomi=kanon|しゅつ|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|しゅつ}}
@@ -202,11 +206,16 @@ Uncertain. For dictionary purposes the bottom element is analyzed as [[凵]], Ra
 # coming out
 
 ===Etymology 3===
+{{ja-kanjitab|yomi=k|ず}}
+Contraction of verb {{m|ja|出ず|tr=izu||to go or come out|pos=obsolete}}
 
 ====Verb====
 {{ja-verb|type=ni|ず|hhira=づ}}
 
-# come out
+# {{lb|ja|sort=す'|obsolete}} to go or come out
+
+====Usage notes====
+The {{m|ja|出る|tr=deru}} form is now the standard term for this in modern Japanese.
 
 ===References===
 <references/>
