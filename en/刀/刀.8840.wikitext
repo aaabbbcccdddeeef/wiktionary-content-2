@@ -132,13 +132,11 @@
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|かたな}}
 Compound of {{compound|lang=ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=edge|tr2=na}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|o|か|たな}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{ja-accent-common|n|か|た|な}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[ka̠ta̠na̠]}}
+{{ja-pron|y=k|acc=3|acc2=2|かたな}}
 
 ====Noun====
 {{ja-noun|かたな}}
@@ -175,12 +173,11 @@ Compound of {{compound|lang=ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=ed
 {{der-bottom}}
 
 ===Etymology 2===
+{{ja-kanjitab|とう|yomi=o}}
 From {{etyl|ltc|ja|sort=とう}} {{m|ltc|刀|tr=taw}}. Compare modern {{etyl|cmn|-}} {{m|cmn|刀|tr=dāo}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{ja-accent-common|a|と|う}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[to̞ː]}}
+{{ja-pron|とう|acc=a|y=o}}
 
 ====Noun====
 {{ja-noun|とう|hhira=たう}}
@@ -216,9 +213,8 @@ From {{etyl|ltc|ja|sort=とう}} {{m|ltc|刀|tr=taw}}. Compare modern {{etyl|cmn
 ===References===
 <references/>
 
-[[Category:ja:Swords|かたな]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 刀]]
+[[Category:Japanese words with multiple readings]]
+[[Category:ja:Swords]]
 
 ----
 
