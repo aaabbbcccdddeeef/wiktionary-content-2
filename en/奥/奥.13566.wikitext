@@ -22,7 +22,20 @@
 {{ja-kanji|grade=c|rs=大09|style=s|kyu=奧}}
 
 ====Readings====
-* {{ja-readings|goon=[[おう]] (ō), [[おく]] (oku)|kanon=[[いく]] (iku), [[おう]] (ō)|kanyoon=[[おく]] (oku)|kun=[[おく]] (oku), [[くま]] (kuma)}}
+{{ja-readings
+|goon=[[おう]] (ō), {{qualifier|historical}} [[あう]] (au), [[おく]] (oku) {{non-joyo-reading}}, {{qualifier|historical}} [[をく]] (woku)
+|kanon=[[いく]] (iku)  {{non-joyo-reading}}, {{qualifier|historical}} [[ゐく]] (wiku), [[おう]] (ō), {{qualifier|historical}} [[あう]] (au)
+|kanyoon=[[おく]] (oku), {{qualifier|historical}} [[をく]] (woku)
+|kun=[[おく]] (oku), [[おくまる]] ([[奥まる]], okumaru)
+|nanori=[[くま]] (kuma), [[おお]] (ō), [[おん]] (on), [[つ]] (tsu), [[のく]] (noku)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|おく}}
+Despite the apparent overlap with the modern [[呉音#Japanese|''goon'']] reading of ''oku'' that is derived from {{etyl|ltc|-}}, this term is actually rooted in {{etyl|ojp|ja|sort=おく}}, appearing in the ''{{w|Man'yōshū}}'' collection of poetry dating to roughly 759 CE.  Cognate with {{m|ja|沖|tr=oki||the open sea, offshore}}, originally in reference to “somewhere far removed, possibly out of sight”.  While ''oki'' came to mean “far removed in the wide open → far off shore”, ''oku'' instead came to mean “far removed inside → inside, interior”.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|おく|acc=1|acc_ref=DJR,SMK5}}
 
 ===Noun===
 {{ja-noun|おく}}
@@ -32,10 +45,18 @@
 # inside the house
 # one's [[heart]], true feelings
 
+====Derived terms====
+{{der-top}}
+* {{ja-r|奥まる|おくまる}}: to have a deep recess, to be deeply recessed, to have a deep interior
+{{der-bottom}}
+
 ===Proper noun===
 {{ja-pos|おく|proper}}
 
 # {{surname|lang=ja|sort=おく}}
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|おく]]
 
