@@ -184,19 +184,35 @@ From {{etyl|goh|gmh}} {{m|goh|bira}}
 
 ===Etymology 1===
 
-====Verb====
-{{head|sga|verb form|head=·bir}}
+====Alternative forms====
+* {{l|sga|biur}}
 
-# {{inflection of|beirid||2|s|pres|indc|conjunct|lang=sga}}
-
-===Etymology 2===
+====Pronunciation====
+* {{IPA|/bʲir/|lang=sga}}
 
 ====Noun====
-{{head|sga|noun|g=n|u-stem||plural|beura}}
+{{sga-noun|n|bero|beura|gen2=bera}}
 
 # [[stake]], [[spit]], [[point]]; [[spear]], [[spike]]
 #* {{RQ:sga-gloss|Sg|67|b|11}}
 #*: '''beura''' glosses {{m|la|sudes||stake}}
+
+=====Declension=====
+{{sga-decl-noun-table<!--
+nom.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+voc.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+acc.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+gen.s-->|{{l|sga|[[bero]], [[bera]]}}<!--
+dat.s-->|{{l|sga|biur}}<sup>L</sup><!--
+nom.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+voc.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+acc.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
+gen.d-->|{{l|sga|[[bero]], [[bera]]}}<sup>N</sup><!--
+nom.p-->|{{l|sga|beura}}<!--
+voc./acc.p-->|{{l|sga|beura}}<!--
+gen.p-->|{{l|sga|berae}}<sup>N</sup><!--
+dat.d./p-->|{{l|sga|beraib}}<!--
+-->|title=Neuter u-stem}}
 
 =====Derived terms=====
 * {{l|sga|berach||pointed}}
@@ -205,14 +221,30 @@ From {{etyl|goh|gmh}} {{m|goh|bira}}
 * Irish: {{l|ga|bior}}
 * Scottish Gaelic: {{l|gd|bior}}
 
-===Etymology 3===
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|/bʲir/|lang=sga}}
 
 ====Noun====
-{{head|sga|noun|plural|beru}}
+{{sga-noun|u|?|beru}}
 
 # [[water]], [[spring]], [[well]]
 #* {{RQ:sga-Corm|Y|158}}
 #*: '''bir''' .i. uisce ... biror ⁊ inbir ⁊ tobur
+
+===Etymology 3===
+
+====Pronunciation====
+* {{IPA|/bʲirʲ/|lang=sga}}
+
+====Verb====
+{{head|sga|verb form|head=·bir}}
+
+# {{inflection of|beirid||2|s|pres|indc|conjunct|lang=sga}}
+
+===Mutation===
+{{sga-mutation|b|ir}}
 
 ===References===
 * {{R:DIL|5933|head=1 bir (‘stake, spit’)}}
