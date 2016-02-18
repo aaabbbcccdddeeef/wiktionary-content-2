@@ -36,11 +36,11 @@ Japanese shinjitai. {{Han simp|劍|f=僉|t=㑒}}.
 }}
 
 ===Etymology 1===
+{{ja-kanjitab|けん|yomi=o}}
 From {{etyl|ltc|ja|sort=けん}} {{m|lzh|劍|tr=kjæmH||sword}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|劍}} and simplified {{m|cmn|剑|tr=jiàn||sword, dagger, saber}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{IPA|lang=ja|[kẽ̞ɴ]}}
+{{ja-pron|acc=a|y=ko|けん}}
 
 ====Noun====
 {{ja-noun|けん}}
@@ -60,6 +60,7 @@ From {{etyl|ltc|ja|sort=けん}} {{m|lzh|劍|tr=kjæmH||sword}}. Compare modern 
 {{der-bottom}}
 
 ===Etymology 2===
+{{ja-kanjitab|つるぎ|yomi=k}}
 {{unk.|ja}}. Also read as ''tsuruki'' in {{etyl|ojp|ja|sort=つるぎ}} contexts.<ref name="KDJ"/><ref name="DJR">{{R:Daijirin}}</ref>
 
 A surface analysis suggests that this might be a compound of ''tsuru'' (variously {{ja-l|釣る}} or {{ja-l|吊る}}, meaning “to hang, as at one's side”) + ''ki'', but there is no clear [[etymon]] for the ''ki'' portion. One possibility would be {{m|ja|牙||fang}}, read as ''kiba'' in modern {{etyl|ja|-}} but also appearing as ''ki'' in {{etyl|ojp|-}} contexts. Such usage might parallel the combined {{m|en|tooth}} and {{m|en|blade}} meanings of the term ''ha'', spelled more specifically as {{m|ja|歯||tooth}} and {{m|ja|刃||blade}}, with these two senses listed as [[cognate]]s in Japanese dictionaries.<ref name="KDJ"/><ref name="DJR"/>
@@ -67,10 +68,7 @@ A surface analysis suggests that this might be a compound of ''tsuru'' (variousl
 More tentative suggestions have been connections to Austronesian, such as {{etyl|tl|-}} {{m|tl|suligi||dart; short spear}}, but such possibilities seem only [[speculative]] at present.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|h|つ|るぎ}}<ref name="DJR"/>
-* {{ja-accent-common|o|つる|ぎ}}<ref name="DJR"/>
-* {{IPA|lang=ja|[t͡sɯᵝɾ̠ɯᵝŋi]}}
+{{ja-pron|acc=h|acc2=3|y=k|つるぎ}}
 
 ====Noun====
 {{ja-noun|つるぎ}}
@@ -85,7 +83,7 @@ More tentative suggestions have been connections to Austronesian, such as {{etyl
 {{unk.|ja}}. Japanese names often apply readings from other words to [[allude]] to different meanings.
 
 ====Pronunciation====
-* {{IPA|lang=ja|[ma̠ja̠ka̠]}}
+{{ja-pron|まやか}}
 
 ====Proper noun====
 {{ja-pos|proper|まやか}}
