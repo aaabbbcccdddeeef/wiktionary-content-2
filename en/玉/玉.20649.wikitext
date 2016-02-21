@@ -80,24 +80,37 @@ It is also interpreted as three pieces of jade strung together on a string.
 {{ja-kanji|grade=1|rs=玉00}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[ごく]] (goku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 |kanon=[[ぎょく]] (gyoku)
 |kun=[[たま]] (tama)}}
 
 ====Synonyms====
-* (''[[precious]] [[treasure]]''): {{l|ja|宝}}
+* {{sense|[[precious]] [[treasure]]}} {{l|ja|宝}}
 
 ===Etymology 1===
+{{ja-kanjitab|たま|yomi=k}}
 [[kun'yomi]]
+
+====Pronunciation====
+{{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|たま}}
 
 # [[ball]]
 
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|藻玉|もだま}}: [[St. Thomas bean]]
+{{der-bottom}}
+
 ===Etymology 2===
+{{ja-kanjitab|ぎょく|yomi=o}}
 [[on'yomi]]
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぎょく|acc=0|acc_ref=DJR,NHK|acc_note=​|acc2=1|acc2_ref=DJR,NHK|acc2_note={{qualifier|a stock being traded}}}}
 
 ====Noun====
 {{ja-noun|ぎょく}}
@@ -108,12 +121,19 @@ It is also interpreted as three pieces of jade strung together on a string.
 # [[geisha]]
 
 ===Etymology 3===
+{{ja-kanjitab|ぎょく|yomi=o}}
 Abbreviation of {{l|ja|玉将}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぎょく|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ぎょく}}
 
 # [[king]] in [[shogi]]
+
+===References===
+<references/>
 
 ----
 
