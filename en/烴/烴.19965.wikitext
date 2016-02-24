@@ -1,4 +1,6 @@
 {{also|烃}}
+{{character info/new}}
+
 ==Translingual==
 
 ===Han character===
@@ -11,21 +13,42 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=烃}}
 
-===Hanzi===
-{{yue-hanzi|jyut=ting1|y=ting1|sim=烃}}
+===Etymology 1===
+{{blend|zh|碳|氫|gloss1=carbon|gloss2=hydrogen}}
 
-# {{defn|lang=yue|sort=火07}}
+====Pronunciation====
+{{zh-pron
+|m=tīng,qīng,2nb=variant
+|c=ting1
+|cat=n
+}}
 
-----
+====Noun====
+{{zh-noun}}
 
-==Mandarin==
+# [[hydrocarbon]]
 
-===Hanzi===
-{{cmn-hanzi|sim=烃|pin=[[jǐng]] ([[jing3]])|wg=ching<sup>3</sup>}}
+=====Synonyms=====
+* {{zh-l|碳氫化合物}}
 
-# {{defn|lang=cmn|sort=火07}}
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jǐng
+|c=ging2
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
 
 [[fr:烴]]
 [[ja:烴]]
