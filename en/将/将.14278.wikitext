@@ -34,34 +34,34 @@
 # commander, leader, general
 
 ====Readings====
-* {{ja-readings|goon=[[そう]] (sō)|kanon=[[しょう]] (shō)|kun=[[ひきいる]] (hikiiru), [[もって]] (motte), [[まさに]] (masani)}}
+{{ja-readings|goon=[[そう]] (sō)|kanon=[[しょう]] (shō)|kun=[[ひきいる]] (hikiiru), [[もって]] (motte), [[まさに]] (masani)}}
 
 ====Compounds====
-* [[将家]]
-* [[将棋]] ([[shōgi]]), [[shogi]], Japanese chess
-* [[将軍]] ([[shōgun]]), [[shogun]], Japanese military ruler
-* [[将迎]]
-* [[将校]] ([[shōkō]]), a commissioned [[officer]]
-* [[主将]] (しゅしょう, [[shushō]]): (team) [[captain]]; (national forces) [[commander in chief]]
-* [[大将]] (たいしょう, [[taishō]]), (military) [[general]]
-* [[将種]]
-* [[将星]]
-* [[将星隕]]
-* [[将聖]]
-* [[将息]]
-* [[将卒]]
-* [[将率]]
-* [[将帥]]
-* [[将命]]
-* [[将門]]
-* [[将略]]
+{{der-top|Compounds}}
+* {{ja-r|主将|しゅしょう}}: (team) [[captain]]; (national forces) [[commander in chief]]
+* {{ja-r|将家|しょうか}}
+* {{ja-r|将棋|しょうぎ}}: [[shogi]], Japanese chess
+* {{ja-r|将軍|しょうぐん}}: [[shogun]], Japanese military ruler
+* {{ja-r|将校|しょうこう}}: a commissioned [[officer]]
+* {{ja-r|将帥|しょうすい}}
+* {{ja-r|将星|しょうせい}}
+* {{ja-r|将卒|しょうそつ}}: [[officers]] and [[soldiers]]
+* {{ja-r|将門|しょうもん}}
+* {{ja-r|大将|たいしょう}}: (military) [[general]]
+{{der-bottom}}
 
-===Noun===
-{{ja-noun|しょう}}
+===Etymology 1===
+{{ja-kanjitab|しょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しょう|hhira=しやう}}
 
 # [[general]]; [[commander]]
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|しょう}}
 
 # {{given name|male|lang=ja|sort=しょう}}
@@ -69,6 +69,20 @@
 {{ja-pos|proper|まさる}}
 
 # {{given name|male|lang=ja|sort=まさる}}
+
+===Etymology 2===
+{{ja-kanjitab|はた|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|はた|acc=1|acc_ref=DJR,NHK}}
+
+====Adverb====
+{{ja-pos|adverb}}
+
+# [[also]]
+
+===References===
+<references/>
 
 ----
 
