@@ -94,17 +94,37 @@
 # [[hair]], [[fur]]
 
 ====Readings====
-{{ja-kanjitab|け|yomi=k}}
-* {{ja-readings
-|goon=[[もう]] (mō)
-|kanon=[[ぼう]] (bō)
-|kun=[[け]] (ke)}}
+{{ja-readings|goon=[[もう]] (mō)|kanon=[[ぼう]] (bō)|kun=[[け]] (ke)}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|け|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|け|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|け}}
 
-# [[hair]]
-# [[fur]]
+# [[hair]], [[fur]]
+
+===Etymology 2===
+{{ja-kanjitab|もう|yomi=o}}
+From {{etyl|ltc|ja|sort=もう}} {{m|zh|毛|tr=maw}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|もう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|もう}}
+
+# a kind of unit
+
+===References===
+<references/>
+
+[[Category:ja:Anatomy|け]]
+[[Category:ja:Hair|け]]
+[[Category:ja:Fibers|け]]
 
 ----
 
@@ -114,6 +134,30 @@
 {{ko-hanja|hangeul=모|eumhun=털|rv=mo|mr=mo|y=mo}}
 
 # {{defn|lang=ko|sort=毛00}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|きー|romaji|kii}}
+
+===Etymology===
+Cognate with mainland {{etyl|ja|-}} {{m|ja|毛|tr=ke}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|きー|romaji|kii}}
+
+# [[hair]], [[fur]]
+
+====Compounds====
+{{der-top|Compounds}}
+* [[眉毛]] ([[まゆぎ]], ''[[mayugi]]''): [[eyebrow]]
+{{der-bottom}}
+
+[[Category:ryu:Anatomy|きい]]
+[[Category:ryu:Hair|きい]]
+[[Category:ryu:Fibers|きい]]
 
 ----
 
