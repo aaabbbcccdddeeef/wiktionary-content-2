@@ -2,10 +2,10 @@
 ==Translingual==
 
 ===Etymology===
-[[水]] + [[歰]]
+{{Han compound|水|歰}}
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=14|sn=17|four=37111|canj=ESIM}}
+{{Han char|rn=85|rad=水|as=14|sn=17|four=37111|canj=ESIM|ids=⿰氵歰}}
 
 # [[astringent]]
 # [[harsh]]
@@ -16,12 +16,28 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=涩}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=sap1, sap3|sim=涩}}
+===Pronunciation===
+{{zh-pron
+|m=sè
+|c=saap3,sap1,sik1,gip3
+|h=pfs=sep
+|md=
+|mn=siap
+|w=
+|cat=a
+}}
 
-# {{defn|lang=yue|sort=水14}}
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|固澀藥}}
+* {{zh-l|收澀藥}}
 
 ----
 
@@ -34,15 +50,6 @@
 
 ====Readings====
 * {{ja-readings|on=[[じゅう]] (jū), [[しゅう]] (shū)|kun=[[しぶい]] (shibui), [[しぶ]] (shibu)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=涩|pin=[[sè]] ([[se4]])|wg=se<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=水14}}
 
 [[fr:澀]]
 [[hu:澀]]
