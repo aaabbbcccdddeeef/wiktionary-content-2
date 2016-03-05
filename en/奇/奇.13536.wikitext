@@ -42,40 +42,31 @@ Original form of [[骑]] (to ride). Current meaning by sound loan.
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
-|m=qí,jī
-|c=gei1,kei4
-|mn=khia/kî
-|mn_note=khia - vernacular, kî - literary
-|mc=
-|oc=y
+|m=qí
+|c=kei4
+|mn=kî
+|mn_note=literary reading
+|mc=<!-- at 竒 -->
+|oc=2,2
 |ma=
 |cat=a
 }}
 
-===Adjective===
-{{zh-adj|ts|pin=jī|pint=ji1}}
-
-# [[odd]] (numbers)
-#: [[奇数]] odd number
-
-===Adjective===
-{{zh-adj|ts|pin=qí|pint=qi2}}
+====Adjective====
+{{zh-adj}}
 
 # [[strange]], [[odd]], [[weird]], [[unusual]]
-#: [[奇怪]] [[strange]], [[奇特]] [[peculiar]]
+#: {{zh-x|奇怪|strange}}
+#: {{zh-x|奇特|peculiar}}
 # [[wonderful]], [[fantastic]], [[remarkable]]
-#: [[奇迹]] [[miracle]], [[奇妙]] [[fantastic]]
+#: {{zh-x|奇跡|miracle}}
+#: {{zh-x|奇妙|fantastic}}
 
 ====Compounds====
-* jī
-** [[奇零]]
-** [[奇偶]]
-** [[奇偶性]]
-** [[奇数]]
-* qí
-{{top3}}
 ** [[奇昂]]
 ** [[奇拔]]
 ** [[奇兵]]
@@ -93,7 +84,6 @@ Original form of [[骑]] (to ride). Current meaning by sound loan.
 ** [[奇货可居]]
 ** [[奇祸]]
 ** [[奇计]]
-{{mid3}}
 ** [[奇迹]]
 ** [[奇景]]
 ** [[奇绝]]
@@ -111,7 +101,6 @@ Original form of [[骑]] (to ride). Current meaning by sound loan.
 ** [[奇事]]
 ** [[奇谈]]
 ** [[奇谈怪论]]
-{{mid3}}
 ** [[奇特]]
 ** [[奇伟]]
 ** [[奇文共赏]]
@@ -126,9 +115,40 @@ Original form of [[骑]] (to ride). Current meaning by sound loan.
 ** [[奇珍异宝]]
 ** [[奇装异服]]
 ** [[奇瑞]]
-{{bottom}}
 
-====References====
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jī
+|c=gei1
+|mn=khia
+|mn_note=vernacular reading
+|mc=
+|oc=1,1
+|ma=
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[odd]] (numbers)
+#: {{zh-x|奇數|odd number}}
+# {{lb|zh|literary}} [[unsmooth]]; [[disadvantageous]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[surplus]]
+
+====Compounds====
+* [[奇零]]
+* [[奇偶]]
+* [[奇偶性]]
+* [[奇數]]
+
+===References===
 * (''Min Nan'') {{thcwd|3773}}
 
 ----
