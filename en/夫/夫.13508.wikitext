@@ -34,7 +34,8 @@ A man [[大]] with an hairpin [[一]] in his hair. In ancient times, when men re
 }}
 
 ====Noun====
-{{zh-noun|ts}}
+{{zh-noun}}
+
 # [[husband]]
 #: {{zh-l|丈夫|husband}}, {{zh-l|夫婦|married couple}}
 # {{senseid|cmn|man}}[[man]], [[male]] [[adult]]
@@ -42,13 +43,15 @@ A man [[大]] with an hairpin [[一]] in his hair. In ancient times, when men re
 #: {{zh-l|農夫|peasant}}, {{zh-l|漁夫|fisherman}}
 
 ====Pronoun====
-{{zh-pronoun|ts}}
-# (classical) he, she, they, those, this, that
+{{zh-pronoun}}
+
+# {{lb|zh|classical}} he, she, they, those, this, that
 
 ====Particle====
-{{zh-particle|ts}}
-# {{senseid|cmn|is it not}} {{label|cmn|literary|sort=fu2}} sentence-final, meaning "Is it not?" or "Isn't it?"
-# {{senseid|cmn|topic marker}} {{label|cmn|literary|sort=fu2}} initial particle which introduces a topic
+{{zh-particle}}
+
+# {{senseid|cmn|is it not}} {{label|zh|literary|sort=fu2}} sentence-final, meaning "Is it not?" or "Isn't it?"
+# {{senseid|cmn|topic marker}} {{label|zh|literary|sort=fu2}} initial particle which introduces a topic
 #* '''Spring and Autumn Period or Warring States Period''', [[孙武]] (Sun Wu), ''孫子 (The Art of War)'':
 #*: '''夫'''将者，国之辅也。辅周则国必强，辅隙则国必弱。
 #*:: The general is the country's defense. If the defense is solid, the country can only be strong; if it has gaps, then the country can only be weak.
