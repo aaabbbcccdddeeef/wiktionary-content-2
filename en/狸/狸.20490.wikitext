@@ -6,6 +6,9 @@
 
 # [[raccoon dog]] ([[tanuki]])
 
+====Derived characters====
+* [[䔆]], [[𩮞]], [[𢟆]]
+
 ====References====
 * {{Han ref|kx=0711.290|dkj=20427|dj=1123.270|hdz=21348.110|uh=72F8|ud=29432|bh=AF57|bd=44887}}
 
@@ -18,36 +21,47 @@
 {{zh-pron
 |m=lí
 |c=lei4
+|j=li11
+|md=lì
 |mn=lî
+|w=3li
+|x=li13
 |mc=y
 |oc=y
-|cat=n}}
+|cat=n
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|狐狸|húli|[[fox]]}}
+{{der-bottom}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=犬07|style=s|kyu=貍}}
+{{ja-kanji|grade=|rs=犬07}}
 
 # {{defn|lang=ja|sort=犬07}}
 
 ====Readings====
-* {{ja-readings|goon=[[り]] (ri)|kanon=[[り]] (ri)|kun=[[たぬき]] (tanuki)}}
+{{ja-readings|goon=[[り]] (ri)|kanon=[[り]] (ri)|kun=[[たぬき]] (tanuki)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たぬき|yomi=k}}
 
 ===Etymology===
-{{wikipedia|lang=ja|タヌキ}}
-{{ja-kanjitab|たぬき|yomi=k}}
 {{rfe|lang=ja}}
 
 ===Pronunciation===
-{{ja-pron|たぬき|acc=a|acc_ref=NHK,DJR|y=k}}
+{{ja-pron|yomi=k|たぬき|acc=1|acc_ref=DJR,NHK}}
 
 ===Alternative forms===
 * {{ja-l|貍}}
 
 ===Noun===
-{{ja-noun|たぬき|タヌキ|たのき|タノキ|たたけ|タタケ}}
+{{ja-noun|たぬき|タヌキ}}
 
 # [[raccoon dog]]
 
