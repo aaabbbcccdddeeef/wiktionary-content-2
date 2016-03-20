@@ -176,7 +176,9 @@ From {{etyl|fro|fr}} {{m|fro|del}}.
 
 # contraction of [[de]] + [[le]] (''of the'').
 # contraction of [[de]] + [[le]], forms the partitive article.
-#: The partitive article signifies "[[some]]", but it often is not translated in English, Dutch, or German.
+
+====Usage notes====
+* The partitive article signifies "[[some]]", but it often is not translated in English, Dutch, or German.
 
 ----
 
@@ -266,7 +268,9 @@ From {{etyl|ira-pro|ku}} {{m|ira-pro|*duu̯a}} (compare Persian {{m|fa|دو|tr=d
 
 # contraction of [[de]] + [[u]] (''of the'').
 # contraction of [[de]] + [[u]], forms the partitive article.
-#: The partitive article signifies "[[some]]", but it often is not translated in English, Dutch, or German.
+
+====Usage notes====
+* The partitive article signifies "[[some]]", but it often is not translated in English, Dutch, or German.
 
 ----
 
@@ -289,7 +293,7 @@ From {{etyl|bat-pro|-}} {{m|ine-bsl-pro|*duwō}}, from {{etyl|ine-pro|lt}} {{m|i
 ==Lojban==
 
 ===Etymology===
-Derived from [[dunli]].
+Derived from {{m|jbo|dunli}}.
 
 ===Pronunciation===
 * {{IPA|lang=jbo|/ˈdu/}}
@@ -298,8 +302,7 @@ Derived from [[dunli]].
 {{jbo-cmavo|dub|du'o}}
 
 # (''identity selbri'') {{sumti|1}} equals {{sumti|2}}, {{sumti|3}}, {{sumti|4}}, ...
-#: ''li pa su'i vo '''du''' li mu''
-#:: one plus four equals five
+#: {{ux|jbo|li pa su'i vo '''du''' li mu|one plus four equals five}}
 
 ===See also===
 * [[dunli]]
@@ -339,7 +342,7 @@ From {{etyl|gem-pro|lb}} {{m|gem-pro|*þū}}.
 {{head|lb|pronoun|cat2=personal pronouns}}
 
 # ''second-person singular, nominative'': [[thou]]
-#: ''Wéi al bass '''du'''?'' &mdash; How old art '''thou'''?
+#: {{ux|lb|Wéi al bass '''du'''?|How old art '''thou'''?|inline=1}}
 
 ====Declension====
 {{lb-decl-personal pronouns}}
@@ -545,8 +548,7 @@ From {{inh|goh|gem-pro|*þū}}, whence also Old English ''[[þu]]'', Old Norse '
 {{head|ro|verb form}}
 
 # {{ro-form-verb|2s|impr|duce}}
-#: '''''Du'''-[[te]] [[acasă]]''.
-#:: Go home.
+#: {{ux|ro|'''Du'''-[[te]] [[acasă]].|Go home.}}
 
 ----
 
