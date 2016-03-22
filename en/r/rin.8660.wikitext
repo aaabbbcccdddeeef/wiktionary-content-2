@@ -2,12 +2,12 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|rinnen}}, from {{etyl|ang|en}} {{m|ang|rinnan||to run}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rinnaną||to run}}. More at {{l|en|run}}.
+From {{inh|en|enm|rinnen}}, from {{inh|en|ang|rinnan||to run}}, from {{inh|en|gem-pro|*rinnaną||to run}}. More at {{m|en|run}}.
 
 ===Verb===
 {{en-verb|rins|rinning|ran|run}}
 
-# {{label|en|ambitransitive|dialectal}} To [[run]].
+# {{lb|en|ambitransitive|dialectal}} To [[run]].
 
 ----
 
@@ -54,14 +54,13 @@ From {{etyl|enm|en}} {{m|enm|rinnen}}, from {{etyl|ang|en}} {{m|ang|rinnan||to r
 ==North Frisian==
 
 ===Etymology===
-From {{etyl|ofs|frr}} {{m|ofs|rein}}. Cognates include West Frisian {{m|fy|rein}}.
+From {{inh|frr|ofs|rein}}. Cognates include {{cog|fy|rein}}.
 
 ===Noun===
 {{head|frr|noun|g=m}}
 
-# {{label|frr|Föhr-Amrum dialect}} [[rain]]
-#: {{lang|frr|en smitjenen '''rin'''}}
-#:: heavy '''rain'''
+# {{lb|frr|Föhr-Amrum dialect}} [[rain]]
+#: {{ux|frr|en smitjenen '''rin'''|heavy '''rain'''}}
 #: {{ux|frr|Det liket efter '''rin'''.|It looks like '''rain'''.}}
 
 [[Category:frr:Weather]]
@@ -76,7 +75,7 @@ From {{etyl|ofs|frr}} {{m|ofs|rein}}. Cognates include West Frisian {{m|fy|rein}
 ===Verb===
 {{sco-verb|rins|rinnin|run|run}}
 
-# {{label|sco|South Scots}} to [[run]]
+# {{lb|sco|South Scots}} to [[run]]
 
 ----
 
@@ -86,6 +85,9 @@ From {{etyl|ofs|frr}} {{m|ofs|rein}}. Cognates include West Frisian {{m|fy|rein}
 {{head|cy|mutated noun}}
 
 # {{soft mutation of|rhin|lang=cy}}
+
+===Mutation===
+{{cy-mut-auto|rhin}}
 
 ----
 
