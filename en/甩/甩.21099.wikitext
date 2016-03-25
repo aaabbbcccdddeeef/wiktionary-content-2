@@ -1,10 +1,8 @@
-{{character info/new}}
 ==Translingual==
+{{character info/new}}
 
 ===Han character===
 {{Han char|rn=101|rad=用|as=00|sn=5|four=77212|canj=BQU}}
-
-# [[throw away]], [[discard]]
 
 ====References====
 * {{Han ref|kx=0755.251|dkj=21704|dj=1166.020|hdz=10099.020|uh=7529|ud=29993|bh=A5CF|bd=42447}}
@@ -15,14 +13,17 @@
 {{zh-forms}}
 
 ===Etymology===
-{{rfe|zh}}
+This is a late character, and the divergent readings in various topolects may or may not be cognate.
+
+The Mandarin reading came from {{zh-l|摔|shuāi|to fling, to throw, to fall down}}, which can be traced to *''srut'' in Old Chinese. It can be compared with {{etyl|bo|-}} {{m|bo|རུད||slip, that which has slipped down, falling mass, landslides}}, {{m|bo|རུད་རུད་པོ||loosened, disintegrated, rough}}.
+
+The Cantonese reading is probably unrelated, though it may reflect a descendant of the archaic pronunciation *''rut'' and hence be cognate with Mandarin. Either way, it is evidently from the same source as Min Nan {{zh-l|甪|tr=lut|to come off, to slip loose}}, Zhuang {{m|za|lot||to come loose and drop off (due to loose tying)}}, and Vietnamese {{m|vi|lột||to peel, to strip off}}. May be compared with Tibetan {{m|bo|ལོད་པོ||relaxed, careless}}, {{m|bo|ལྷོད་པོ||relaxed, loose, lax}}, and the Chinese word family of {{zh-l|*兌}} (*''lot'', > {{zh-l|*脫|to come off}}, {{zh-l|*蛻|exuviae}}). Unlikely to be related to {{zh-l|落|to fall, to drop off}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=shuǎi
 |c=lat1
-|mc=
-|oc=
+|w=2hue
 |ma=
 |cat=v
 }}
@@ -30,11 +31,26 @@
 ===Verb===
 {{zh-verb}}
 
-# {{lb|zh|Cantonese}} to [[come loose]]; to [[slip]] [[loose]]
-#: {{zh-usex|佢 條 鞋帶 甩 咗。|His shoelace came untied.|C}}
+# {{lb|zh|Mandarin}}
+## to [[toss]], to [[throw]]
+##: {{zh-x|把 石子 甩 出去|'''throw''' the stone away}}
+## to [[throw away]], to [[discard]]
+## to [[brush off]], to [[abandon]]
+##: {{zh-x|他 被 女友 甩 了。|He was '''dumped''' by his girlfriend.}}
+## to [[swing]]
+## {{lb|zh|dialectal}} to [[take off]], to [[remove]]
+## {{lb|zh|dialectal}} to [[heed]], to take [[notice]] of
+# {{lb|zh|Cantonese}}
+## to [[come]] [[loose]]; to [[slip]] [[loose]]
+##: {{zh-x|佢 條 鞋帶 甩 咗。|His shoelace came untied.|C}}
+# {{lb|zh|Wu}}
+## to [[throw]], to [[toss]]
+## to [[strike]]; to [[box]] (about the ears)
+## to [[shake off]], to [[escape]]
+## to [[wave]], to [[rock]]
 
 ====Synonyms====
-* {{qualifier|Min}} {{zh-l|𫝺}} {{attention|zh|synonym to what definition?}}
+* {{qualifier|Min}} {{zh-l|𫝺|hiù|to toss}}
 ----
 
 ==Japanese==
