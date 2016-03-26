@@ -57,12 +57,47 @@
 # {{defn|lang=ja|sort=犬10}}
 
 ====Readings====
-* {{ja-readings|goon=[[ごく]] (goku)|kanon=[[ぎょく]] (gyoku) {{non-joyo-reading}}|kun=[[ひとや]] (hitoya)}}
+{{ja-readings|goon=[[ごく]] (goku)|kanon=[[ぎょく]] (gyoku) {{non-joyo-reading}}|kun=[[ひとや]] (hitoya)}}
 
 ====Compounds====
-* [[煉獄]] ([[れんごく]], ''[[rengoku]])
-* [[地獄]] ([[じごく]], ''[[jigoku]]'')
-* [[辺獄]] ([[へんごく]], ''[[hengoku]]'')
+* {{ja-r|獄衣|ごくい}}: [[prison]] [[clothes]]
+* {{ja-r|獄則|ごくそく}}: [[prison]] [[rules]]
+* {{ja-r|地獄|じごく}}
+* {{ja-r|辺獄|へんごく}}
+* {{ja-r|煉獄|れんごく}}
+
+===Etymology 1===
+{{ja-kanjitab|ごく|yomi=o}}
+From {{etyl|ltc|ja|sort=こく'}} {{m|zh|獄|tr=ngjowk||prison}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ごく|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ごく}}
+
+# [[prison]]
+
+===Etymology 2===
+{{ja-kanjitab|ひとや|yomi=k}}
+Compound of {{compound|人|tr1=hito|t1=human|屋|tr2=ya|t2=house|lang=ja|sort=ひとや}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひとや|acc=0|dev=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|人屋}}, {{ja-l|囚獄}}
+
+====Noun====
+{{ja-noun|ひとや}}
+
+# [[prison]]
+
+===References===
+<references/>
+
+[[Category:ja:Buildings|こく']]
+[[Category:ja:Prison|こく']]
 
 ----
 
