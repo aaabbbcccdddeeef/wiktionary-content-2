@@ -1,27 +1,22 @@
 ==Turkish==
 
 ===Etymology===
-From {{suffix|Türk|çe|lang=tr}}.
+From {{affix|tr|Türk|-ce|alt2=-çe}}.
 
 ===Pronunciation===
 * {{IPA|[ˈt̪yɾktʃe]|lang=tr}}
 * {{audio|Turkce.ogg|audio|lang=tr}}
 
 ===Proper noun===
-{{head|tr|proper noun}}
+{{tr-proper noun}}
 
 # [[Turkish]] language
-#: '''''Türkçe''' bilmiyorum.''
-#:: I don't know (used instead of “speak”) Turkish.
-#: '''''Türkçem''' iyi değil.''
-#:: My Turkish isn't good. (i.e., I don't speak Turkish well)
-#: '''''Türkçeniz''' çok iyi.''
-#:: Your Turkish is very good.
-#: '''''Türkçem''' akıcıdır.''
-#:: My Turkish is fluent. (i.e., I speak Turkish fluently)
+#: {{ux|tr|'''Türkçe''' bilmiyorum.|inline=1|I don't know {{qualifier|used instead of 'speak'}} Turkish.}}
+#: {{ux|tr|'''Türkçem''' iyi değil.|inline=1|My Turkish isn't good. (i.e., I don't speak Turkish well)}}
+#: {{ux|tr|'''Türkçeniz''' çok iyi.|inline=1|Your Turkish is very good.}}
+#: {{ux|tr|'''Türkçem''' akıcıdır.|inline=1|My Turkish is fluent. (i.e., I speak Turkish fluently)}}
 # [[Turkish]] language class
-#: '''''Türkçelere''' geç kaldık!''
-#:: We are late for the Turkish classes!
+#: {{ux|tr|'''Türkçelere''' geç kaldık!|inline=1|We are late for the Turkish classes!}}
 
 ====Declension====
 {{tr-noun-v|e|poss=+}}
