@@ -21,14 +21,17 @@ Two [[丙]] side by side. 丙 was originally phonetic (both 丙 and 兩 were pro
 * {{zh-l|両}}
 
 ===Etymology 1===
-{{rfe|lang=zh}}
+{{rfe|zh|are the two pronunciations etymologically related?}}
 
 ====Pronunciation====
 {{zh-pron
 |m=liǎng|ma=y
 |c=loeng5
-|h=pfs=lióng, liông;hpy=liong1, liong3
+|h=pfs=lióng
 |mn=nn̄g/lióng
+|mn_note=nn̄g - vernacular; lióng - literary
+|mn-t=no6/liang2
+|mn-t_note=no6 - vernacular; liang2 - literary
 |mc=y
 |oc=y
 |cat=num
@@ -38,9 +41,9 @@ Two [[丙]] side by side. 丙 was originally phonetic (both 丙 and 兩 were pro
 {{zh-num}}
 
 # [[two]]
-#: {{zh-usex|'''兩''' 隻 熱氣球|'''two''' hot air ballons}}
+#: {{zh-usex|兩 隻 熱氣球|'''two''' hot air ballons}}
 # [[some]], [[few]]
-#: {{zh-usex|你們 這 '''兩'''-天 真 夠 辛苦 的。|You've really been working hard the past '''few''' days.}}
+#: {{zh-usex|你們 這 兩 天 真 夠 辛苦 的。|You've really been working hard the past '''few''' days.}}
 
 =====Usage notes=====
 * {{zh-l|兩}} is used when counting things with a measure word, {{zh-l|二}} is used in numbers.
@@ -101,7 +104,33 @@ Two [[丙]] side by side. 丙 was originally phonetic (both 丙 and 兩 were pro
 * [[兩者]]
 {{der-bottom}}
 
-====References====
+{{catlangname|zh|cardinal numbers|sort=liang3}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=liǎng|ma=y
+|c=loeng5,loeng5-2
+|h=pfs=liông
+|mn=niú
+|mn-t=niên2/nion2
+|cat=cls
+}}
+
+====Classifier====
+{{zh-cls}}
+
+# [[tael]], {{non-gloss definition|an ancient unit of weight for silver, approximately 40 [[grams]]}}
+# market tael ({{zh-l|市兩}}), {{non-gloss definition|equal to 50 [[grams]]}}
+
+{{zh-cat|Units of measure}}
+
+===Descendants===
+{{Sinoxenic-word|兩|りょう|s=両|량|lưỡng|v2=lạng}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|3598}}
 * {{R:cedict}}
 * {{cite-web
 |url=http://resources.allsetlearning.com/chinese/grammar/%22Er%22_and_%22liang%22
@@ -115,33 +144,6 @@ Two [[丙]] side by side. 丙 was originally phonetic (both 丙 and 兩 were pro
 |work=Jukuu
 |language=Mandarin/English
 |accessdate=2014-03-21}}
-
-===Etymology 2===
-
-====Pronunciation====
-{{zh-pron
-|m=liǎng|ma=y
-|c=loeng2
-|h=pfs=lióng/liông;hpy=liong1, liong3
-|mn=niú
-|cat=num
-}}
-
-====Noun====
-{{zh-noun}}
-
-# [[tael]], {{non-gloss definition|an ancient unit of weight for silver, approximately 40 [[grams]]}}
-# market tael ({{zh-l|市兩}}), {{non-gloss definition|equal to 50 [[grams]]}}
-
-{{catlangname|zh|cardinal numbers|sort=liang3}}
-
-===Descendants===
-{{Sinoxenic-word|兩|りょう|s=両|량|lưỡng|v2=lạng}}
-
-===References===
-* {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=21318&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
-* {{qualifier|Min Nan}} {{thcwd|3598}}
 
 ----
 
