@@ -51,7 +51,7 @@ From {{etyl|xno|en}} ''[[asetz]]'', from {{etyl|fro|en}} ''[[assez]]'' "enough".
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Aktiva|n-p}}, {{t|de|Vermögenswert|f}}
 * Greek: {{t+|el|ενεργητικό}}, {{t|el|περιουσιακό στοιχείο}}
-* Hebrew: {{t+|he|נכס|m|tr=nekhes|sc=Hebr}}
+* Hebrew: {{t+|he|נכס|m|tr=nekhes}}
 * Italian: {{t+|it|bene|m}}, {{t+|it|proprietà|f}}, {{t+|it|possedimento|m}}, {{t+|it|risorsa|f}}
 * Japanese: {{t+|ja|資産|tr=しさん, shisan|sc=Jpan}}
 {{trans-mid}}
@@ -65,7 +65,7 @@ From {{etyl|xno|en}} ''[[asetz]]'', from {{etyl|fro|en}} ''[[assez]]'' "enough".
 * Swahili: {{t+|sw|mali}}
 * Swedish: {{t+|sv|tillgång|c}}
 * Tagalog: {{t|tl|ariin}}
-* Telugu: {{t+|te|ఆస్థి|tr=aasthi}}
+* Telugu: {{t+|te|ఆస్థి}}
 * Thai: {{t-needed|th}}
 * Turkish: {{t+|tr|varlık}}
 * Vietnamese: {{t-needed|vi}}
@@ -94,19 +94,19 @@ From {{etyl|xno|en}} ''[[asetz]]'', from {{etyl|fro|en}} ''[[assez]]'' "enough".
 ===Noun===
 {{head|da|noun form|g=n}}
 
-# {{singular definite of|as|lang=da}}
+# {{inflection of|as||s|def|lang=da}}
 
 ----
 
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{bor|it|en}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
-# [[#English|asset]] (economic)
+# [[#English|asset]] {{qualifier|economic}}
 
 ===Anagrams===
 * [[sesta#Italian|sesta]]
