@@ -35,12 +35,11 @@
 ====Noun====
 {{zh-noun}}
 
-# {{label|zh|Beginning Mandarin|sort=di4}} [[earth]]
-# {{label|zh|Beginning Mandarin|sort=di4}} [[soil]], [[ground]]
-#: {{zh-usex|這 匹 馬 倒 在 地 上，不 住 地{de} 蹬達。|The horse collapsed on the floor, but carried on kicking.}}
+# {{lb|zh|Beginning Mandarin}} [[earth]]
+# {{lb|zh|Beginning Mandarin}} [[soil]], [[ground]]
+#: {{zh-usex|這 匹 馬 倒 在 '''地''' 上，不 住 地{de} 蹬達。|The horse collapsed on the floor, but carried on kicking.}}
 # [[region]]
 # [[land]]
-# {{label|zh|Cantonese}} (={{zh-l|嘅}}), a less common plurality marker
 
 ===Etymology 2===
 {{rfe|zh}}
@@ -59,7 +58,20 @@
 # {{label|zh|Beginning Mandarin}} (adverb-forming particle, like English [[-ly]])
 #: {{zh-usex|很 快 地|very quickly}}
 
-=====Compounds=====
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|c=dei6
+|cat=suf
+}}
+
+====Suffix====
+{{zh-suf}}
+
+# {{lb|zh|Cantonese}} {{alternative form of|哋||plurality marker|lang=zh}}
+
+===Compounds===
 {{der5
 |{{zh-l|草地}}
 |{{zh-l|地板}}
@@ -88,8 +100,6 @@
 |{{zh-l|地方主義}}
 |{{zh-l|地府}}
 |{{zh-l|地光}}
-|{{zh-l|隄埂}}
-|{{zh-l|隄埂兒}}
 |{{zh-l|地滾球}}
 |{{zh-l|地核}}
 |{{zh-l|地黃}}
