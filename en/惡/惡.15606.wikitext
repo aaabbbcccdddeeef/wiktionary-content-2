@@ -13,20 +13,15 @@
 ==Chinese==
 {{zh-forms|s=恶}}
 
-===Pronunciation===
-{{zh-pron
-|h=pfs=ok
-|mn=ok/òⁿ/ò͘ⁿ |mna=Taiwanese-The_Vowel_onn.ogg
-|w=3u,5oq
-|mc=y
-|oc=y
-|cat=a,v
-}}
-
 ===Pronunciation 1===
 {{zh-pron
 |m=è
 |c=ok3
+|h=pfs=ok
+|mn=ok
+|w=5oq
+|mc=3
+|oc=1,3
 |cat=a
 }}
 
@@ -34,8 +29,8 @@
 {{zh-adj}}
 
 # [[evil]], [[wicked]], [[mean]], [[bad]], [[foul]]
-#: {{zh-l|惡毒|èdú|malicious}}
-#: {{zh-usex|他 經常 做 '''惡'''，這 回 終於 犯事 了。|He often does '''bad things''' and has finally been caught.}}
+#: {{zh-x|惡毒|malicious}}
+#: {{zh-x|他 經常 做 惡，這 回 終於 犯事 了。|He often does '''bad things''' and has finally been caught.}}
 
 ====Antonyms====
 * {{zh-l|善}}
@@ -44,6 +39,12 @@
 {{zh-pron
 |m=wù
 |c=wu3
+|h=pfs=vu
+|mn=òⁿ/ò͘ⁿ
+|mna=Taiwanese-The_Vowel_onn.ogg
+|w=3u
+|mc=2
+|oc=2,2
 |cat=v
 }}
 
@@ -51,12 +52,14 @@
 {{zh-verb}}
 
 # to [[hate]]; to [[loathe]]
-#: {{zh-l|厭惡|yànwù|to loathe}}
+#: {{zh-x|厭惡|to loathe}}
 
 ===Pronunciation 3===
 {{zh-pron
 |m=wū
 |c=wu1
+|mc=1
+|oc=n,1
 |cat=intj
 }}
 
@@ -85,7 +88,6 @@
 |{{zh-l|惡果}}
 |{{zh-l|惡耗}}
 |{{zh-l|惡狠狠}}
-|{{zh-l|惡狠狠的}}
 |{{zh-l|惡化}}
 |{{zh-l|惡疾}}
 |{{zh-l|惡蹟}}
@@ -96,8 +98,7 @@
 |{{zh-l|惡露|èlù|[[lochia]]}}
 |{{zh-l|惡罵}}
 |{{zh-l|惡夢}}
-|{{zh-l|惡名}}
-|{{zh-l|惡名兒}}
+|{{zh-l|惡名}}, {{zh-l|惡名兒}}
 |{{zh-l|惡魔}}
 |{{zh-l|惡唸}}
 |{{zh-l|惡癖}}
@@ -119,7 +120,6 @@
 |{{zh-l|惡性循環}}
 |{{zh-l|惡性腫瘤}}
 |{{zh-l|惡兇兇}}
-|{{zh-l|惡兇兇的}}
 |{{zh-l|惡言}}
 |{{zh-l|惡言惡語}}
 |{{zh-l|惡意}}
