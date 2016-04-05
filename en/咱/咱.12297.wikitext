@@ -11,38 +11,83 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|t2=喒|t3=偺}}
 
-===Pronunciation===
-{{theaji|lán}}
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
-|m=zán |ma=y
+|m=zán,zá,1nb=standard in Mainland and Taiwan,2nb=standard in Taiwan
+|ma=y
 |c=zaa1
 |h=pfs=
 |md=
-|mn=lán
+|mn=
 |w=
 |mc=
 |oc=
 |cat=pronoun
 }}
 
-===Pronoun===
+====Pronoun====
 {{zh-pronoun}}
 
-# [[we]]; [[us]] (including the listener)
-# {{lb|zh|Min Nan}} [[our]]
-# {{lb|zh|Min Nan}} [[your]] (polite)
+# [[I]]; [[me]]
+# {{lb|zh|inclusive}} [[we]]; [[us]]
 
-====Compounds====
+=====Usage notes=====
+The Taiwan Mandarin reading ''zá'' is reserved for {{zh-l|咱家|tr=zájiā}}.
+
+=====Compounds=====
 * {{zh-l|咱們}}
+* {{zh-l|咱家}}
 
-====See also====
+===Etymology 2===
+
+====Alternative forms====
+* {{zh-l|俺|tr=-}}
+* {{zh-l|玌|tr=-}}
+
+====Pronunciation====
+{{zh-pron
+|mn=lán
+|mn-t=nang2
+|cat=pronoun,det
+}}
+
+====Pronoun====
+{{zh-pronoun}} {{tcx|lang=zh|Min Nan}}
+
+# {{lb|zh|inclusive}} [[we]]; [[us]]
+# {{lb|zh|polite}} [[you]]
+
+====Determiner====
+{{zh-det}} {{tcx|lang=zh|Min Nan}}
+
+# {{lb|zh|inclusive}} [[our]]
+
+===Etymology 3===
+Contraction of {{zh-m|早晚}}.
+
+====Pronunciation====
+{{zh-pron
+|m=zan
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[time]]
+#: {{zh-x|這咱{zan}|now}}
+
+===See also===
 * {{q|Mandarin}} {{zh-l|我們}}
-* {{q|Min Nan}} {{zh-l|阮|[[gún]]; [[góan]]|we (excluding the listener)}}
+* {{q|Min Nan}} {{zh-l|阮|[[gún]]; [[goán]]|(exclusive) we}}
 
 ===References===
 * {{thcwd|4792}}
+* {{thcwda|325}}
 
 {{zh-cat|Beginning}}
 
