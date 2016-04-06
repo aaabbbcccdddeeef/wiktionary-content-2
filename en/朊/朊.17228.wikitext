@@ -19,18 +19,27 @@
 |md=
 |mn=
 |w=
-|mc=y
-|oc=y
 |cat=n
 }}
 
-===Definitions===
+===Etymology 1===
+Newly coined character. {{Han compound|月|alt1=亻|元|ls=psc|c1=s|t1=body|c2=p|t2=original}}
+
+Modelled after the etymology of English "{{m|en|protein}}": from {{cog|grc|πρῶτος||first}} ― cf. {{zh-l|元|original, first}}, which also acted as the phonetic component of the character.
+
+====Definitions====
+{{zh-hanzi}}
+# {{lb|zh|biochemistry|obsolete}} [[protein]]
+#: {{zh-syn|蛋白質}}
+
+===Etymology 2===
+From {{der|zh|en|prion}}.
+
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|biochemistry}} [[prion]]
-#: {{zh-syn|朊病毒}}
-# {{lb|zh|biochemistry|obsolete}} [[protein]]
-#: {{zh-syn|蛋白質}}
+#: {{zh-syn|朊病毒|朊毒體}}
 
 [[fr:朊]]
 [[mg:朊]]
