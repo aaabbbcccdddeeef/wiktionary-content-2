@@ -135,13 +135,15 @@
 {{ja-pron|yomi=o|た|acc=1|acc_ref=DJR,NHK}}
 
 ===Noun===
-{{ja-noun|ほか}}
-
-{{ja-noun|た}}
+{{ja-noun|ほか}} {{ja-altread|hira=た}}
 
 # [[another]], [[other]], some other
-#: {{ja-usex|この'''他'''にも行き先がありますか。|^この '''ほか''' に も ゆきさき が あります か。|Do you have any '''other''' destinations?}}
-#: {{ja-usex|この事業は'''他'''を利するために開始されました。|^この じぎょう は '''た''' を りする ため に かいし されました。|This project was started in order to benefit '''others'''.}}
+#: {{ja-usex|この'''他'''にも行き先がありますか。|この '''ほか''' に も ゆきさき が あります か。|Do you have any '''other''' destinations?}}
+#: {{ja-usex|この事業は'''他'''を利するために開始されました。|この じぎょう は '''た''' を りする ため に かいし されました。|This project was started in order to benefit '''others'''.}}
+
+====Derived terms====
+* {{ja-r|他ならぬ|ほかならぬ}}
+* {{ja-r|その他|そのた}}, {{ja-r|その他|そのほか}}
 
 ====Idioms====
 {{der-top|Idioms}}
@@ -150,10 +152,6 @@
 * {{ja-r|他に例を見ない|た に れい を みない}}: “an example not seen in others” → incomparable
 * {{ja-r|他の言に惑わされる|た の げん に まどわされる}}: “to be led astray by others' words”
 {{der-bottom}}
-
-====Related terms====
-* {{ja-r|他ならぬ|ほかならぬ}}
-* {{ja-r|その他|そのた}}
 
 ===References===
 <references/>
