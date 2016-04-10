@@ -1,9 +1,6 @@
 {{also|棹}}
 ==Translingual==
 
-===Etymology===
-{{rfe|lang=mul}}
-
 ===Han character===
 {{Han char|rn=75|rad=木|as=06|sn=10|four=21904|canj=YAD|ids=⿱[[卜|⺊]][[杲]]}}
 
@@ -15,15 +12,23 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+From {{zh-l|卓}}, with the bottom {{zh-l|*十}} replaced by {{zh-l|*木|wood}} to indicate specifically the sense of "table".
+
+===Etymology===
+From {{zh-l|卓|high}}, as tables are relatively tall (compared to other furnitures like {{zh-l|*几}}).
+
+Similar descriptive derivations for furnitures include: {{zh-l|*登|to climb}} > {{zh-l|*凳|stool}}; {{zh-l|*倚|to lean}} > {{zh-l|*椅|chair}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=zhuō
 |c=zoek3,coek3
 |h=pfs=chok
-|md=
+|md=dó̤h
 |mn=toh
 |mn-t=doh4
-|w=
+|w=4tsoq
 |mc=y
 |oc=y
 |cat=n
@@ -33,39 +38,17 @@
 {{zh-hanzi}}
 
 # [[table]]; [[desk]]; [[stand]]
-#: {{zh-usex|杯子 在 '''桌''' 上。|The cup is on the '''table'''.}}
+#: {{zh-x|杯子 在 桌 上。|The cup is on the '''table'''.}}
 
 ====Derived terms====
-{{der3
-|{{zh-l|八仙桌}}
-|{{zh-l|供桌}}
-|{{zh-l|課桌}}
-|{{zh-l|抹桌子}}
-|{{zh-l|拍桌子}}
-|{{zh-l|書桌}}
-|{{zh-l|圓桌}}
-|{{zh-l|圓桌會議}}
-|{{zh-l|桌布}}
-|{{zh-l|桌燈}}
-|{{zh-l|桌面}}
-|{{zh-l|桌面系統}}
-|{{zh-l|桌上型}}
-|{{zh-l|桌上型電腦}}
-|{{zh-l|桌子}}
-}}
+{{zh-der|八仙桌|供桌|課桌|書桌|圓桌|圓桌會議|桌布|桌燈|桌面|桌面系統|桌上型|桌上型電腦|桌子}}
 
-====Descendants====
-* Thai: {{th-l|โต๊ะ}}
-
-===See also===
-* {{zh-l|桌別林}}
-
-===References===
-* {{cite-web
-|url=http://tatoeba.org/eng/sentences/search?query=桌&from=cmn&to=und
-|title=Sentences with 桌
-|work=Tatoeba
-|accessdate=2014-03-16}}
+===Descendants===
+{{CJKV||たく|탁|hj=卓}}
+''Others:''
+* Khmer: {{l|km|តុ}}
+* Lao: {{l|lo|ໂຕະ}}
+* Thai: {{l|th|โต๊ะ}}
 
 ----
 
