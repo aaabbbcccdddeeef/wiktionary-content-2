@@ -31,9 +31,11 @@ The top-most horizontal stroke is done from left to right. The vertical line and
 
 ==Chinese==
 {{zh-forms}}
+{{cardinalbox|zh|6|7|8|六|八}}
 
 ===Alternative forms===
-* {{l|zh|𠀁}} (ancient form)
+* {{q|banker's note}} {{zh-l|柒|tr=-}}
+* {{q|ancient}} {{zh-l|𠀁}}
 
 ===Etymology===
 From {{etyl|sit-pro|zh}} {{m|sit-pro|*s-ni-s||seven}}.
@@ -45,23 +47,24 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*s-ni-s||seven}}.
 |c=cat1
 |h=pfs=chhit
 |mn=chhit
+|mn-t=cig4/cêg4
 |w=1tshiq
 |mc=y
 |oc=y
-|cat=num
+|cat=num,n
 }}
 
 ===Noun===
 {{zh-noun}}
 
-# {{label|zh|printing|sort=qi1}} [[agate]]: The [[size]] of [[type]] between [[小六]] ([[little]] [[6]]) and [[八]] ([[8]]), [[standardize]]d as 5½ [[point]].
+# {{label|zh|printing|sort=qi1}} [[agate]]: The [[size]] of [[type]] between {{zh-l|小六|[[little]] [[6]]}} and {{zh-l|八|[[8]]}}, [[standardize]]d as 5½ [[point]].
 
 ===Numeral===
 {{zh-num}}
 
 # [[seven]]
 
-====Compounds====
+===Compounds===
 {{der3
 |{{zh-l|十七}}
 |{{zh-l|七十}}
