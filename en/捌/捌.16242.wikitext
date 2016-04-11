@@ -11,36 +11,81 @@
 ==Chinese==
 {{zh-forms}}
 
-===Alternative forms===
-* {{sense|to know}} {{zh-l|八}}
+===Etymology 1===
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.
 
-===Pronunciation===
-{{theaji|bat/pat}}
+====Pronunciation====
 {{zh-pron
 |m=bā
 |c=baat3
-|mn=bat/pat
-|mn_note=cognate, may be etymologically unrelated to other Chinese readings 
-|cat=n,num
+|cat=num
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# to [[break]] [[open]], [[split]] open
-# an [[:w:Chinese numbers#Numeral characters|accounting version]] of the numeral eight that is otherwise written as [[八]].
-# {{lb|zh|Min Nan}} to [[know]] somebody; to [[recognize]]; to be [[familiar]] with
+# an [[:w:Chinese numbers#Numeral characters|accounting version]] of the numeral eight that is otherwise written as {{zh-l|八|tr=-}}
 
-====Compounds====
-*[[捌字]]
-*[[捌貨]]
-*[[捌想]]
-*[[毋捌]]
-*[[相捌]]
+===Etymology 2===
+From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-l|別}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baat3
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+=====Noun=====
+{{zh-verb}}
+
+# (= {{zh-l|朳}}) [[toothless]] [[rake]]
+
+=====Verb=====
+{{zh-verb}}
+
+# (= {{zh-l|扒}}) to [[break]] [[open]], [[split]] open
+
+====Pronunciation====
+{{zh-pron
+|mn=pat/bat
+|mn-t=bag4
+|cat=v,adv
+}}
+
+=====Alternative forms=====
+* {{zh-l|別|tr=-}}
+* {{zh-l|八|tr=-}}
+* {{qualifier|to know|to be familiar with}} {{zh-l|識|tr=-}}
+* {{qualifier|already}} {{zh-l|曾|tr=-}}
+
+=====Verb=====
+{{zh-verb}}
+
+# {{label|zh|Min Nan}} to [[know]] somebody; to [[recognize]]
+# {{label|zh|Min Nan}} to be [[familiar]] with
+
+=====Adverb=====
+{{zh-adv}}
+
+# {{label|zh|Min Nan}} [[already]], [[previously]]
+
+=====Compounds=====
+* {{zh-l|捌字}}
+* {{zh-l|捌貨}}
+* {{zh-l|捌想}}
+* {{zh-l|毋捌}}
+* {{zh-l|相捌}}
+
+=====See also=====
+* {{zh-l|認識}}
 
 ===References===
-*{{qual|Min Nan}} {{thcwda|294}}
-*{{qual|Min Nan}} {{thcwd|6014}}
+* {{qual|Min Nan}} {{thcwda|294}}
+* {{qual|Min Nan}} {{thcwd|6014}}
+
 ----
 
 ==Japanese==
