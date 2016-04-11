@@ -24,14 +24,15 @@
 ===Pronunciation 1===
 {{zh-pron
 |m=shǎo
-|c=siu2,siu3
-|h=pfs=sháu, shàu, shéu, shèu;hpy=sau3, sau4, seu3, seu4
-|mn=chió/siàu/siáu
-|mn_note=chió/siàu - vernacular, siáu - literary
+|c=siu2
+|h=pfs=séu
+|mn=chió/siáu
+|mn_note=chió - vernacular; siáu - literary
+|mn-t=ziê2/zio2
 |w=
-|mc=y
-|oc=y
-|ma=zh-shǎo.ogg
+|mc=1
+|oc=1,1
+|ma=y
 |cat=det,a,v,adv
 }}
 
@@ -39,34 +40,45 @@
 {{zh-adj}}
 
 # [[few]], [[little]]
-#: {{zh-usex|很 少 人 知道 實情。|Few people know the truth.}}
-#: {{zh-usex|只有 很 少 一點 面包 和 餅乾。|There is only a little bread and a few biscuits.}}
+#: {{zh-usex|很 少{shǎo} 人 知道 實情。|Very '''few''' people know the truth.}}
+#: {{zh-usex|只有 很 少{shǎo} 麵包 和 餅乾。|There is only very '''little''' bread and biscuits.}}
 # [[inadequate]]
+
+=====Antonyms=====
+* {{zh-l|多|a lot}}
 
 ====Verb====
 {{zh-verb}}
 
 # to [[lack]], to be short of
-#: {{zh-usex|臥室 裡 少 一 隻 電燈泡。|There 's a light bulb missing in the bedroom.}}
+#: {{zh-usex|臥室 裡 少{shǎo} 一 隻 電燈泡。|There's a light bulb '''missing''' in the bedroom.}}
 # to [[lose]]
-#: {{zh-usex|他 屋 裡 少 了 東西。|He lost something in his house.}}
+#: {{zh-usex|他 屋 裡 少{shǎo} 了 東西。|He '''lost''' something in his house.}}
 # to [[stop]]
-#: {{zh-usex|少 說 廢話！|Stop chattering!}}
+#: {{zh-usex|少{shǎo} 說 廢話！|'''Stop''' chattering!}}
 
 ====Adverb====
 {{zh-adv}}
 
 # [[seldom]]
-#: {{zh-usex|懶惰 的 人 很 少 會 成功。|Lazy people seldom succeed.}}
+#: {{zh-usex|懶惰 的 人 很 少{shǎo} 會 成功。|Lazy people '''seldom''' succeed.}}
+
+====Compounds====
+* {{zh-l|多少}}
+* {{zh-l|很少}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=shào
-|mc=
-|oc=
-|cat=a
+|c=siu3
+|h=pfs=seu
+|mn=siàu
+|mn-t=siao3
+|mc=2
+|oc=2,2
+|ma=y
+|cat=a,pn
 }}
-{{attention|zh|needs other Chinese varieties}}
 
 ====Adjective====
 {{zh-adj}}
@@ -74,18 +86,16 @@
 # [[young]]
 #: {{zh-usex|別 看 她 歲數 大，可 長 得 少 相。|Despite her age, she still looked young.}}
 
-=====Antonyms=====
-* {{zh-l|多|duō|a lot}}
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
 
 ====Compounds====
-* {{zh-l|多少}}
-* {{zh-l|很少|tr=hěnshǎo}}
 * {{zh-l|少女}}
 * {{zh-l|少年}}
 
 ===References===
-* {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=35498&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
 * {{qualifier|Min Nan}} {{thcwd|796}}
 
 ----
