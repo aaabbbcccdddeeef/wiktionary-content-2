@@ -35,34 +35,56 @@
 ==Chinese==
 {{zh-forms}}
 {{cardinalbox|zh|2|3|4|二|四}}
+
+===Alternative forms===
+* {{q|banker's numerals}} {{zh-l|叁/參/叄}}
+
 ===Etymology===
 From {{etyl|sit-pro|zh}} {{m|sit-pro|*g-sum}}.
 
 ===Pronunciation===
 {{zh-pron
-|m=sān,sàn
-|c=saam1,saam3
+|m=sān
+|c=saam1
 |h=pfs=sâm
-|mn=saⁿ/sam/sàm
+|mn=saⁿ/sam
+|mn_note=saⁿ - vernacular; sam - literary
 |mn-t=san1/sam1
+|mn-t_note=san1 - vernacular; sam1 - literary
 |w=1se
-|mc=y
-|oc=y
+|mc=1
+|oc=1,1
 |ma=y
 |mna=Taiwanese-The_Vowel_ann.ogg
 |cat=num,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[three]]
 # {{surname|lang=zh}}
 
-====Synonyms====
-* Banker's numerals : [[叁]] ([[參]]), [[叄]]
+===Pronunciation===
+{{zh-pron
+|m=sān,sàn,2nb=variant
+|c=saam3,saam1
+|h=
+|mn=sàm
+|w=
+|mc=2
+|oc=2,2
+|ma=y
+|cat=adv
+}}
 
-====Compounds====
+====Definitions====
+{{zh-hanzi}}
+
+# [[repeatedly]]
+#: {{zh-x|三思|to think carefully}}
+
+===Compounds===
 {{der2
 |{{zh-l|三八}}
 |{{zh-l|其三}}
@@ -75,13 +97,13 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*g-sum}}.
 |{{zh-l|週三}}
 |{{zh-l|第三}}
 |{{zh-l|三思}}
-|{{zh-l|三K党}}
+|{{zh-l|三K黨}}
 |{{zh-l|三明治}}
 |{{zh-l|三溫暖}}
 |{{zh-l|第十三}}
 |{{zh-l|星期三}}
 |{{zh-l|禮拜三}}
-|{{zh-l|说三道四}}
+|{{zh-l|說三道四}}
 |{{zh-l|第三世界}}
 |{{zh-l|三令五申}}
 |{{zh-l|三五成群}}
@@ -100,13 +122,9 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*g-sum}}.
 ===See also===
 {{Chinese-numbers}}
 {{table:playing cards/zh}}
+
 ===References===
-* {{cite-web
-|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=三
-|title=三
-|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-|language=Mandarin/English
-|accessdate=2014-03-21}}
+* {{R:cedict}}
 
 {{zh-cat|Beginning}}
 
