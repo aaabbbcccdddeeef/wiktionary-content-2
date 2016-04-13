@@ -17,22 +17,8 @@
 ===Kanji===
 {{ja-kanji|grade=1|rs=气02|style=s|kyu=氣}}
 
-===Noun===
-{{ja-noun|き|kyu=氣}}
-
-# [[spirit]]; [[mood]]
-# [[air]], [[gas]]
-
 ====Readings====
-* {{ja-readings|goon=[[け]] (ke)|kanon=[[き]] (ki)|kun=[[いき]] (iki)}}
-
-====Derived terms====
-* {{ja-r|気がする|き が する}}
-* {{ja-r|気を付けて|き を つけて}}
-* {{ja-r|気に食わない|き に くわない}}, {{ja-r|気にくわない|き に くわない}}
-* {{ja-r|気がある|き が ある}}
-* {{ja-r|気になる|き に なる}}
-* {{ja-r|気に入る|き に いる}}
+{{ja-readings|goon=[[け]] (ke)|kanon=[[き]] (ki)|kun=[[いき]] (iki)}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -44,7 +30,7 @@
 * {{ja-r|意気|いき}}
 * {{ja-r|陰気|いんき}}
 * {{ja-r|邪気|じゃき}}
-* {{ja-r|蒸気|じょうき|gloss=steam}}
+* {{ja-r|蒸気|じょうき|steam}}
 * {{ja-r|火気|かき}}
 * {{ja-r|風気|かざけ}}
 * {{ja-r|気化|きか}}
@@ -52,6 +38,7 @@
 * {{ja-r|鬼気|きき}}
 * {{ja-r|気味|きみ}}, {{ja-r|気味|-ぎみ}}
 * {{ja-r|気力|きりょく}}
+* {{ja-r|気相|きそう|[[gaseous phase]]}}
 * {{ja-r|気息|きそく}}
 * {{ja-r|気体|きたい}}
 * {{ja-r|空気|くうき}}
@@ -77,9 +64,41 @@
 ====Synonyms====
 * {{sense|gas}} [[氛]]
 
+===Etymology 1===
+{{ja-kanjitab|き|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|き|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=氣|き}}
+
+# [[spirit]]; [[mood]]
+# [[air]], [[gas]]
+
+=====Derived terms=====
+* {{ja-r|気がする|き が する}}
+* {{ja-r|気を付けて|き を つけて}}
+* {{ja-r|気に食わない|き に くわない}}, {{ja-r|気にくわない|き に くわない}}
+* {{ja-r|気がある|き が ある}}
+* {{ja-r|気になる|き に なる}}
+* {{ja-r|気に入る|き に いる}}
+
+===Etymology 2===
+{{ja-kanjitab|け|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|け|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=氣|け}}
+
+# [[sign]]
+
+===References===
+<references/>
+
 [[Category:1000 Japanese basic words]]
-[[Category:Japanese terms spelled with 気]]
-[[Category:Japanese terms written with one Han script character]]
 
 [[cs:気]]
 [[fr:気]]
