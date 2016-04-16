@@ -14,15 +14,6 @@ Left part of [[㫃]]. As in [[旗]] and [[旅]].
 ===Han character===
 {{Han char|rn=70|rad=方|as=00|sn=4|four=00227|canj=YHS}}
 
-# a [[square]], [[rectangle]]
-# a [[region]]
-# [[local]]
-# [[prescription]], [[recipe]]
-# [[method]], [[way]]
-# {{label|zh|math}} [[involution]], [[power]]
-# [[direction]]
-# {{surname|lang=zh}}
-
 ====Derived characters====
 * [[Index:Chinese radical/方]]
 * [[坊]] [[防]] [[妨]] [[肪]] [[芳]]
@@ -44,19 +35,15 @@ Left part of [[㫃]]. As in [[旗]] and [[旅]].
 |m=fāng
 |c=fong1
 |h=pfs=fong
+|md=huŏng
 |mn=hng/png/hong
 |mn_note=hng, png - vernacular, hong - literary
-|w=
+|w=1faan
 |mc=y
 |oc=y
 |ma=|ma2=
 |cat=n,a
 }}
-
-===Adverb===
-{{zh-adv}}
-
-# {{label|zh|literary}} [[just]] [[now]]
 
 ===Noun===
 {{zh-noun}}
@@ -67,19 +54,15 @@ Left part of [[㫃]]. As in [[旗]] and [[旅]].
 # [[method]]; [[way]]
 # [[prescription]]
 # {{lb|zh|math}} [[power]]
-#: {{zh-usex|2 的 3 次方 是 8。|2 to the 3rd '''power''' is 8.}}
+#* {{zh-x|2 的 3 次方 是 8。|2 to the 3rd '''power''' is 8.}}
 # [[aspect]]; [[side]]
-#: {{zh-usex|方面|[[aspect]]; [[side]]}}
+#: {{zh-x|方面|[[aspect]]; [[side]]}}
 # [[region]]
+# {{label|zh|literary}} [[just]] [[now]]
+# {{surname|lang=zh}}
 
 ====Compounds====
-* {{zh-l|方响|tr=fāngxiǎng}}
-* {{zh-l|魔方|tr=mófāng}}
-* {{zh-l|地方}}
-* {{zh-l|方法}}
-
-====References====
-* (''Min Nan'') {{thcwd|809}}
+{{zh-der|方响|魔方|地方|方法}}
 
 {{zh-cat|Elementary|Intermediate}}
 
