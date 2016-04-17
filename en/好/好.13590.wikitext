@@ -2,12 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han compound|女|子|t1=woman|t2=child|ls=ic}}
-
-The widely accepted meaning of this word is that the words "'''female'''" (女) and "'''child'''" (子) were put together to form a compound, because it was a good thing for women to have a child. However, a broader interpretation is that the second character, 子, also means "of" or "son". So another possibility could be that it meant two children, a boy and a girl next to each other, which is a good fortune to have a boy and a girl. Lastly, it could mean that the "attitude" of a girl was considered good.
-
 ===Han character===
 {{Han char|rn=38|rad=女|as=03|sn=6|four=47447|canj=VND|ids=⿰女子}}
 
@@ -19,6 +13,12 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|女|子|t1=woman|t2=child|ls=ic}}
+
+The widely accepted meaning of this word is that the words "'''female'''" (女) and "'''child'''" (子) were put together to form a compound, because it was a good thing for women to have a child. However, a broader interpretation is that the second character, 子, also means "of" or "son". So another possibility could be that it meant two children, a boy and a girl next to each other, which is a good fortune to have a boy and a girl. Lastly, it could mean that the "attitude" of a girl was considered good.
+
 ===Pronunciation 1===
 {{zh-pron
 |m=hǎo
@@ -26,6 +26,7 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 |c=hou2
 |ca=y
 |h=pfs=hó
+|md=hō̤
 |mn=hó
 |mn-t=ho2/hao2
 |mn-t_note=ho2 - vernacular; hao2 - literary
@@ -39,117 +40,39 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 {{zh-hanzi}}
 
 # [[good]], [[well]]
-#* Antonym: → {{zh-l|壞|bad}}
-#: {{zh-usex|你 '''好''' 嗎？|How are you?}}
-#: {{zh-usex|真 是 個 '''好''' 主意！|That's a '''good''' idea!}}
+#* {{zh-ant|壞}}
+#* {{zh-x|你 好 嗎？|How are you?}}
+#* {{zh-x|真 是 個 好 主意！|That's a '''good''' idea!}}
 # [[nice]], [[kind]]
-#: {{zh-usex|他們 對 我 很 '''好'''。|They are very '''kind''' to me.}}
+#* {{zh-x|他們 對 我 很 好。|They are very '''kind''' to me.}}
 # [[done]], [[ready]]
-#: {{zh-usex|我 就 要 '''好''' 了。|I'll be '''ready''' very soon.}}
+#* {{zh-x|我 就 要 好 了。|I'll be '''ready''' very soon.}}
 # to be [[good]] to, [[easy]] to
-#: {{zh-usex|這 水龍頭 '''好''' 擰。|This tap turns '''easily'''.}}
+#* {{zh-x|這 水龍頭 好 擰。|This tap turns '''easily'''.}}
 # [[so that]]
 # [[so]], [[very]]
-#: (→ {{zh-l|很}})
-#: {{zh-usex|我 個 中文 老師 '''好''' 好 人 㗎！|My Chinese teacher is a '''very''' nice person!|tr=ngo5 go3 zung1 man4 lou5 si1 '''hou2''' hou2 jan4 gaa2!|C-GZ}}
+#* {{zh-also|很}}
+#* {{zh-x|我 個 中文 老師 '''好''' 好 人 㗎！|My Chinese teacher is a '''very''' nice person!|tr=ngo5 go3 zung1 man4 lou5 si1 '''hou2''' hou2 jan4 gaa2!|C-GZ}}
 # a pleasure to <small>VERB</small>
-#: {{zh-l|好吃|delicious}}
-#: {{zh-l|好用|a joy to use}}
-#: {{zh-l|好聽|pleasant-sounding}}
-# {{non-gloss definition|Particle used after verbs to denote the completion or near-completion of an action.|lang=zh}}
-# {{non-gloss definition|Particle denoting agreement, support or wish to terminate a conversation.|lang=zh}}
-# {{non-gloss definition|Particle denoting dissatisfaction in ironical sentences.|lang=zh}}
+#: {{zh-x|好吃|delicious}}
+#* {{zh-x|好用|a joy to use}}
+#* {{zh-x|好聽|pleasant-sounding}}
+# {{n-g|Particle used after verbs to denote the completion or near-completion of an action.|lang=zh}}
+# {{n-g|Particle denoting agreement, support or wish to terminate a conversation.|lang=zh}}
+# {{n-g|Particle denoting dissatisfaction in ironical sentences.|lang=zh}}
 
 ====Compounds====
-{{der3
-|{{zh-l|好比}}
-|{{zh-l|好不}}
-|{{zh-l|好不容易}}
-|{{zh-l|好吃}}
-|{{zh-l|好醜}}
-|{{zh-l|好處}}
-|{{zh-l|好處費}}
-|{{zh-l|好歹}}
-|{{zh-l|好的}}
-|{{zh-l|好端端}}
-|{{zh-l|好多}}
-|{{zh-l|好法}}
-|{{zh-l|好感}}
-|{{zh-l|好過}}
-|{{zh-l|好漢}}
-|{{zh-l|好好}}
-|{{zh-l|好好先生}}
-|{{zh-l|好喝}}
-|{{zh-l|好話}}
-|{{zh-l|好壞}}
-|{{zh-l|好貨}}
-|{{zh-l|好幾}}
-|{{zh-l|好傢伙}}
-|{{zh-l|好景不長}}
-|{{zh-l|好久}}
-|{{zh-l|好看}}
-|{{zh-l|好賴}}
-|{{zh-l|好了傷疤忘了痛}}
-|{{zh-l|好力寶}}
-|{{zh-l|好臉}}
-|{{zh-l|好馬不吃回頭草}}
-|{{zh-l|好孬}}
-|{{zh-l|好評}}
-|{{zh-l|好氣}}
-|{{zh-l|好球}}
-|{{zh-l|好兒}}
-|{{zh-l|好惹}}
-|{{zh-l|好人}}
-|{{zh-l|好人好事}}
-|{{zh-l|好人家}}
-|{{zh-l|好日子}}
-|{{zh-l|好容易}}
-|{{zh-l|好上加好}}
-|{{zh-l|好生}}
-|{{zh-l|好聲好氣}}
-|{{zh-l|好使}}
-|{{zh-l|好事}}
-|{{zh-l|好事不出門，惡事傳千里}}
-|{{zh-l|好事不宜遲}}
-|{{zh-l|好事多磨}}
-|{{zh-l|好手}}
-|{{zh-l|好受}}
-|{{zh-l|好說}}
-|{{zh-l|好說歹說}}
-|{{zh-l|好說話}}
-|{{zh-l|好死}}
-|{{zh-l|好似}}
-|{{zh-l|好天}}
-|{{zh-l|好聽}}
-|{{zh-l|好玩}}
-|{{zh-l|好聞}}
-|{{zh-l|好戲}}
-|{{zh-l|好像}}
-|{{zh-l|好小子}}
-|{{zh-l|好笑}}
-|{{zh-l|好些}}
-|{{zh-l|好心}}
-|{{zh-l|好心不得好報}}
-|{{zh-l|好性}}
-|{{zh-l|好樣}}
-|{{zh-l|好意}}
-|{{zh-l|好意思}}
-|{{zh-l|好用}}
-|{{zh-l|好友}}
-|{{zh-l|好運}}
-|{{zh-l|好在}}
-|{{zh-l|好找}}
-|{{zh-l|好轉}}
-|{{zh-l|好自為之}}
-|{{zh-l|好走}}
-|{{zh-l|好食}}
-}}
+{{zh-der|好比|好不|好不容易|好吃|好醜|好處|好處費|好歹|好的|好端端|好多|好法|好感|好過|好漢|好好|好好先生|好喝|好話|好壞|好貨|好幾|好傢伙|好景不長|好久|好看|好賴|好了傷疤忘了痛|好力寶|好臉|好馬不吃回頭草|好孬|好評|好氣|好球|好兒|好惹|好人|好人好事|好人家|好日子|好容易|好上加好|好生|好聲好氣|好使|好事|好事不出門，惡事傳千里|好事不宜遲|好事多磨|好手|好受|好說|好說歹說|好說話|好死|好似|好天|好聽|好玩|好聞|好戲|好像|好小子|好笑|好些|好心|好心不得好報|好性|好樣|好意|好意思|好用|好友|好運|好在|好找|好轉|好自為之|好走|好食}}
+
+====Descendants====
+{{CJKV||こう|호|hảo}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=hào,a=y
 |c=hou3
 |h=pfs=hau
+|md=hó̤
 |mn=hòⁿ
 |mn-t=haon3
 |w=2hau
@@ -163,34 +86,15 @@ The widely accepted meaning of this word is that the words "'''female'''" (女) 
 
 # to be [[fond]] of, to [[like]]
 # to have a [[tendency]] to, to be [[prone]] to, [[good]] to, [[easy]] to
-# {{label|zh|dialectal Mandarin|Wu}} [[can]], to be able to
-#: (→ {{zh-l|會}}, {{zh-l|可以}})
-#: {{zh-usex|儂 '''好''' 流利 個 講 上海話 𠲎？|'''Can''' you speak Shanghainese fluently?|SH}}
+# {{lb|zh|dialectal Mandarin|Wu}} [[can]], to be able to
+#* {{zh-also|會|可以}}
+#* {{zh-x|儂 好 流利 個 講 上海話 𠲎？|'''Can''' you speak Shanghainese fluently?|SH}}
 
 ====Compounds====
-{{der3
-|{{zh-l|好吃}}
-|{{zh-l|好大喜功}}
-|{{zh-l|好動}}
-|{{zh-l|好高騖遠}}
-|{{zh-l|好客}}
-|{{zh-l|好奇}}
-|{{zh-l|好強}}
-|{{zh-l|好色}}
-|{{zh-l|好尚}}
-|{{zh-l|好勝}}
-|{{zh-l|好事}}
-|{{zh-l|好為人師}}
-|{{zh-l|好惡}}
-|{{zh-l|好行小惠}}
-|{{zh-l|好學}}
-|{{zh-l|好逸惡勞}}
-|{{zh-l|好戰}}
-|{{zh-l|好整以暇}}
-}}
+{{zh-der|好吃|好大喜功|好動|好高騖遠|好客|好奇|好強|好色|好尚|好勝|好事|好為人師|好惡|好行小惠|好學|好逸惡勞|好戰|好整以暇}}
 
-===Descendants===
-{{Sinoxenic-word|好|こう|호|hảo|v2=háo}}
+====Descendants====
+{{CJKV||こう|호|háo}}
 
 ----
 
