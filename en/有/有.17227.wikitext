@@ -40,11 +40,11 @@
 ====Verb====
 {{zh-verb}}
 
-# {{label|zh|Beginning Mandarin|sort=you3}} to [[have]]; to [[possess]]
-#: {{zh-usex|我 有 兩 輛 車。|I have two cars.}}
-# {{label|zh|Beginning Mandarin|sort=you3}} [[there is]]; to [[exist]]
-#: {{zh-usex|有 很 多 人。|'''There are''' a lot of people.}}
-#: {{zh-usex|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
+# {{lb|zh|Beginning Mandarin}} to [[have]]; to [[possess]]
+#: {{zh-x|我 有 兩 輛 車。|I have two cars.}}
+# {{lb|zh|Beginning Mandarin}} [[there is]]; to [[exist]]
+#: {{zh-x|有 很 多 人。|'''There are''' a lot of people.}}
+#: {{zh-x|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
 
 =====Antonyms=====
 * {{zh-l|沒}}
@@ -55,16 +55,19 @@
 ====Usage notes====
 * If the subject of the sentence is a person or an object, {{lang|zh|有}} is translated as "to have". But when the subject is a place or is undefined, it is translated as "there is".
 ** Place:
-**: {{zh-usex|街上 有 很 多 車。|There are a lot of cars in the street.}}
+**: {{zh-x|街上 有 很 多 車。|There are a lot of cars in the street.}}
 ** Undefined subject:
-**: {{zh-usex|有 很 多 人|'''there are''' a lot of people}}
+**: {{zh-x|有 很 多 人|'''there are''' a lot of people}}
 * {{lang|zh|有}} is the only verb not negated with {{zh-l|不}}. It is negated with {{zh-l|沒}}.
-:: {{zh-usex|我 沒有 錢|I don't have any money}}
+:: {{zh-x|我 沒有 錢|I don't have any money}}
 
 ====Adjective====
 {{zh-adj}}
 
-# {{label|zh|Beginning Mandarin|sort=you3}} [[some]]
+# {{lb|zh|Beginning Mandarin}} [[some]]
+
+====Compounds====
+{{zh-der|沒有|還有|有關|所有權|有關係|所有|有趣|有意思|有意義|有點|擁有|有時候|有錢|富有}}
 
 ===Etymology 2===
 
@@ -72,40 +75,20 @@
 {{zh-pron
 |m=yòu
 |c=jau6
+|ma=y
 |cat=adv,con
 }}
 
 ====Adverb====
 {{zh-adv}}
 
-# (= {{zh-l|又}}) {{label|zh|archaic|sort=you4}} [[again]]
+# (= {{zh-l|又}}) {{lb|zh|archaic}} [[again]]
 
 ====Conjunction====
 {{zh-con}}
 
-# (= {{zh-l|又}}) {{label|zh|archaic|sort=you4}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
-#* {{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語．為政]])
-#*: [[吾]][[十]]'''有'''[[五]][[而]][[志]][[於]][[學]]，[[三]][[十]][[而]][[立]]。
-#* {{zh-usex|吾 十 有{yòu} 五 而 志 於 學，三十 而 立。|When I was 10 '''and''' 5 years (15 years old), I devoted myself to study. At the age of 30, I established myself (got a job and started a family).|CL}}
-
-
-====Compounds====
-{{der2
-|{{zh-l|沒有/没有}} have not
-|{{zh-l|還有/还有}} still have;and
-|{{zh-l|有關/有关}} relate to
-|{{zh-l|所有權/所有权)}} ownership
-|{{zh-l|有關係/有关系}} relevant;connections
-|{{zh-l|所有}} possess; all
-|{{zh-l|有趣}} interesting
-|{{zh-l|有意思}} interesting
-|{{zh-l|有意義/有意义}} meaningful
-|{{zh-l|有點/有点}} somewhat
-|{{zh-l|擁有/拥有}} acquire
-|{{zh-l|有時候/有时候}} occasionally
-|{{zh-l|有錢/有钱}} wealthy
-|{{zh-l|富有}} filled;wealthy
-}}
+# (= {{zh-l|又}}) {{lb|zh|archaic}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
+#* {{zh-x|吾 十 有{yòu} 五 而 志 於 學，三十 而 立。|When I was 10 '''and''' 5 years (15 years old), I devoted myself to study. At the age of 30, I established myself (got a job and started a family).|CL|ref={{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語．為政]])}}
 
 ===External links===
 * [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yǒu
