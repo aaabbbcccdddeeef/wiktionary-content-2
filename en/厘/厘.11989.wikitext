@@ -9,7 +9,7 @@
 ===Han character===
 {{Han char|rn=27|rad=厂|as=07|sn=9|four=71214|canj=MWG|ids=⿸厂里}}
 
-# [[thousandth]] [[part]] of [[tael]]
+# [[thousandth]] [[part]] of a [[tael]]
 # 1/100 (one [[hundredth]])
 
 ====References====
@@ -25,12 +25,44 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[lei4]]|y=lei4|tra=釐}}
+===Pronunciation===
+{{zh-pron
+|m=lí
+|c=lei4
+|mc=y
+|oc=y
+|ma=
+|cat=n,num
+}}
 
-# {{defn|lang=yue|sort=厂07}}
+===Definitions===
+# {{rfdef|lang=zh}}
+
+===Noun===
+{{zh-noun|s|tra=釐||pin=lí|pint=li2}}
+
+# centi-, 10<sup>−2</sup>
+#: [[厘米]] [[centimeter]]
+# a [[fraction]], a [[part]]
+# abreviation of [[市厘]], a traditionnal unit of measure ( see [[w:Chinese_units_of_measurement|Chinese units of measurement]] )
+# currency unit : 0.001 [[元]] or 0.1 [[分]]
+# [[unit]] of monthly [[interest]] (0.01%), [[unit]] of annual [[interest]] (1%)
+
+===Proper noun===
+{{zh-proper noun|s|tra=釐||pin=lí|pint=li2}}
+
+# Li (c. 2000 BC), sixth of the [[w:Yan_Emperor|legendary Flame Emperors]] ([[炎帝]]), also known as Ai [[哀]]
+
+===References===
+* {{cite-web
+|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=厘
+|title=厘
+|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+|language=Mandarin/English
+|accessdate=2014-03-03}}
 
 ----
 
@@ -52,38 +84,6 @@
 {{ko-hanja|hangeul=[[리]], [[전]]|rv=ri, jeon|mr=ri, chŏn}}
 
 # {{defn|lang=ko|sort=厂07}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|tra=釐|pin=[[lí]] ([[li2]])|wg=li<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=厂07}}
-
-===Noun===
-{{cmn-noun|s|tra=釐||pin=lí|pint=li2}}
-
-# centi-, 10<sup>−2</sup>
-#: [[厘米]] [[centimeter]]
-# a [[fraction]], a [[part]]
-# abreviation of [[市厘]], a traditionnal unit of measure ( see [[w:Chinese_units_of_measurement|Chinese units of measurement]] )
-# currency unit : 0.001 [[元]] or 0.1 [[分]]
-# [[unit]] of monthly [[interest]] (0.01%), [[unit]] of annual [[interest]] (1%)
-
-===Proper noun===
-{{cmn-proper noun|s|tra=釐||pin=lí|pint=li2}}
-
-# Li (c. 2000 BC), sixth of the [[w:Yan_Emperor|legendary Flame Emperors]] ([[炎帝]]), also known as Ai [[哀]]
-
-===References===
-* {{cite-web
-|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=厘
-|title=厘
-|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-|language=Mandarin/English
-|accessdate=2014-03-03}}
 
 [[zh-min-nan:厘]]
 [[fr:厘]]
