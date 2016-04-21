@@ -30,53 +30,75 @@ The character is also interpreted as a picture of an axe, a symbol of the king's
 
 ===Pronunciation===
 {{zh-pron
-|m=wáng,Wáng
-|c=wong4,wong6
-|h=pfs=vông;hpy=ong2, vong2
+|m=wáng
+|c=wong4
+|h=pfs=vòng;hpy=ong2/vong2
 |mn=ông
 |w=3hhuaan
-|mc=y
-|oc=y
+|mc=1
+|oc=1
 |ma=|ma2=
 |cat=n,a,v,pn
 }}
 
-===Noun===
+====Noun====
 {{zh-noun}}
 
 # [[king]], [[monarch]]
-#: {{zh-usex|這 男孩 被 擁 立 為 王。|The boy was proclaimed king.}}
+#: {{zh-usex|這 男孩 被 擁立 為 王。|The boy was proclaimed king.}}
+# [[champion]]
+#: {{zh-usex|棋王|chess '''champion'''}}
+#: {{zh-usex|拳王|boxing '''champion'''}}
 
-===Adjective===
+====Adjective====
 {{zh-adj}}
 
 # [[grand]], [[great]]
-# [[best]], [[strongest]], [[champion]]
-#: {{zh-usex|棋王|chess champion}}
-#: {{zh-usex|拳王|boxing champion}}
 
-===Verb===
-{{cmn-verb|ts|pin=wàng|pint=wang4}} {{attention|zh|06:53, 14 March 2016 (UTC)}}
+====Verb====
+{{zh-verb}}
 
-# {{label|zh|archaic}} to [[reign]], to [[rule]]
+# {{lb|zh|archaic|of feudal monarchs}} to [[see]] the [[emperor]]
 
-===Proper noun===
+====Proper noun====
 {{zh-proper noun}}
 
-# {{surname|lang=zh}} [[Wang]], [[Wong]] (Hong Kong)
+# {{surname|lang=zh|dot=:}} [[Wang]], [[Wong]] (Hong Kong)
 
-====Descendants====
+=====Descendants=====
 * {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Ong}}, {{l|tl|Wong}}
 
-===Compounds===
+====Compounds====
 * {{zh-l|王后|queen}}
 * {{zh-l|王子|prince}}
 * {{zh-l|王座|throne}}
 * {{zh-l|帝王|regal}}
 * {{zh-l|棋王|chess champion}}
 
+===Pronunciation===
+{{zh-pron
+|m=wàng
+|c=wong6
+|h=
+|mn=
+|w=
+|mc=2
+|oc=2
+|ma=|ma2=
+|cat=v,a
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[reign]], to [[rule]]
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|archaic}} {{zh-alt-form|旺|flourishing; prosperous}}
+
 ===References===
-* {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=54629&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
 * {{qualifier|Hakka}} {{R:hak:Lau 1997}}
 * {{qualifier|Mandarin}} {{R:cedict}}
 
