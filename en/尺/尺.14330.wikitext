@@ -53,14 +53,30 @@
 
 ==Japanese==
 
+===Kanji===
+{{ja-kanji|grade=6|rs=尸01}}
+
+# {{defn|lang=ja|sort=尸01}}
+
+====Readings====
+{{ja-readings|goon=[[しゃく]] (shaku)|kanon=[[せき]] (seki) {{non-joyo-reading}}|kun=[[ものさし]] (monosashi)}}
+
+====Compounds====
+* {{ja-r|尺一|しゃくいち}}: one [[shaku]] and one [[sun]]
+* {{ja-r|尺八|しゃくはち}}
+* {{ja-r|尺一|せき.いつ}}: in [[ancient]] [[China]], the [[paperboard]] on which the [[imperial]] [[decree]] was written, or the [[imperial]] [[decree]]
+
+{{wikipedia|lang=ja}}
+
 ===Etymology 1===
-{{wikipedia|shaku (unit)}}
+{{ja-kanjitab|しゃく|yomi=o}}
+From {{etyl|ltc|ja|sort=しゃく}} {{m|zh|尺|tr=tsyhek||foot (measure)}}.
 
 ====Pronunciation====
-* {{IPA|/ɕaku/|lang=ja}}
+{{ja-pron|yomi=goon|しゃく|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|しゃく}}
+{{ja-noun|しゃく|せき}}
 
 # The [[shaku]], "[[metal]] [[shaku]]", or [[Japanese foot]]: a [[traditional]] [[Japanese]] [[unit]] of [[length]] [[equal]] to 10 [[sun]] ([[寸]]) or <sup>1</sup>/<sub>10</sub> [[jō]] ([[丈]]), [[standardize]]d as <sup>10</sup>/<sub>33</sub> of a [[meter]]
 #* {{RQ:Wamyō Ruijushō|6|46}}
@@ -71,16 +87,16 @@
 #*: '''Xacu'''. シャク (尺) 1 palmoよりも少し長い, ある尺度. 例, Ix'''xacu''', ni'''xacu'''. (一尺, 二尺) '''Xacu'''uo toru. l, xacudoru. (尺を取る. または, 尺取る) 上述のようなpalmoを単位として寸法を計る.
 # The "[[whale]] [[shaku]]", a [[variant]] of the [[shaku]] [[used]] in [[measuring]] [[cloth]] [[equal]] to <sup>125</sup>/<sub>330</sub> of a [[meter]]
 # [[length]]
-# {{label|ja|zoology}} The [[geometer moth]] (''[[w:Geometer moth#Caterpillars|Geometra papilionaria]]'')
+# {{lb|ja|zoology}} The [[geometer moth]] (''[[w:Geometer moth#Caterpillars|Geometra papilionaria]]'')
 #* {{RQ:Nippo Jisho|741}}
 #*: '''Xacu'''. l, xacumuxi. シャク. または, しゃくむし (尺. または, 尺虫) 歩くときに身を縮めたりしながら進む一種の小虫. '''Xacu'''de taiuo tçuru. (尺で鯛を釣る) 諺. この小虫で鯛を釣って取る人のように, 小さなもので大きなものを手に入れる.
-# {{label|ja|zoology}} The [[inchworm]]
+# {{lb|ja|zoology}} The [[inchworm]]
 
 =====Idioms=====
-* [[尺で鯛を釣る]] (shaku de tai o tsuru)
+* {{ja-r|尺で鯛を釣る|しゃく で たい を する}}
 
 ===Etymology 2===
-Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja}}, voiced due to [[w:Rendaku|compounding]].
+Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja|sort=たかばかり}}, voiced due to [[w:Rendaku|compounding]].
 
 ====Pronunciation====
 * {{IPA|/takabakari/|lang=ja}}
@@ -96,23 +112,11 @@ Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja}},
 #* {{RQ:Wamyō Ruijushō|6|46}}
 #*: '''尺''' 魏武上雜物䟽云、象牙尺、齒亦反、辨色立成云、尺竹量也、'''太加波可利'''
 
-===Etymology 3===
-
-====Kanji====
-{{ja-kanji|grade=6|rs=尸01}}
-
-# {{defn|lang=ja|sort=尸01}}
-
-=====Readings=====
-* {{ja-readings|goon=[[しゃく]] (shaku)|kanon=[[せき]] (seki) {{non-joyo-reading}}|kun=[[ものさし]] (monosashi)}}
-
-=====Compounds=====
-* {{ja-r|尺八|しゃくはち}}
-
 ===References===
-* {{R:Nippo Jisho}}
-* {{R:Wamyō Ruijushō}}
-* {{cite-book
+<references/>
+:* {{R:Nippo Jisho}}
+:* {{R:Wamyō Ruijushō}}
+:* {{cite-book
 |last=Tadakane
 |first=Tachibana
 |coauthors=[[w:Masamune Atsuo|Atsuo Masamune]] (ed.)
