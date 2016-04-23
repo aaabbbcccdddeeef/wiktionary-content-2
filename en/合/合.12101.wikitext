@@ -17,17 +17,19 @@
 ----
 
 ==Chinese==
+{{zh-forms}}
 
 ===Etymology 1===
-{{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
 |m=hé
 |c=hap6
-|h=pfs=ha̍p/kap
-|mn=ha̍h/kah/ha̍p/kap
-|mn_note=ha̍h, kah - vernacular, ha̍p, kap - literary
+|h=pfs=ha̍p/kap/kak
+|mn=ha̍h/ha̍p
+|mn_note=ha̍h - vernacular; ha̍p - literary
+|mn-t=hah8/hab8
+|mn-t_note=hah8 - vernacular; hab8 - literary
 |mc=y
 |oc=y
 |ma=
@@ -38,17 +40,17 @@
 {{zh-verb}}
 
 # to [[close]]; to [[shut]]
-#* {{zh-l|合上}} close
+#* {{zh-x|合上|close}}
 # to [[join]]; to [[combine]]; to [[unite]]; to [[bring]] [[together]]
-#* {{zh-l|组合/組合|zǔhé}} to [[assemble]]
-#* {{zh-l|集合|jíhé}} to [[gather]], to assemble
+#* {{zh-x|組合|to assemble}}
+#* {{zh-x|集合|to gather, to assemble}}
 # to [[suit]]; to [[fit]]
-#* {{zh-l|适合/適合|shìhé}} to fit, to suit
-#* {{zh-l|合适/合適|héshì}} suitable, fitting
-#* {{zh-usex|魚 和 紅酒 不合。|Fish and red wine don't go well together.}}
-#* {{zh-usex|那 个 店 里 没 有 '''合''' 我 尺寸 的 帽子。|There are no hats in that store that '''fit''' me.}}
-# to be [[equal]] to, to [[add up]]
-#* {{zh-usex|一 公顷 '''合''' 十五 市亩。|A hectare is '''equal''' to 15 mu.}}
+#* {{zh-x|適合|to fit, to suit}}
+#* {{zh-x|合適|suitable, fitting}}
+#* {{zh-x|魚 和 紅酒 不合。|Fish and red wine don't '''go well together'''.}}
+#* {{zh-x|那 個 店 裡 沒有 合 我 尺寸 的 帽子。|There are no hats in that store that '''fit''' me.}}
+# to be [[equivalent]] to, to [[add up]]
+#* {{zh-x|一 公頃 合 十五 市畝。|A hectare '''is equivalent to''' 15 mu.}}
 
 ====Adjective====
 {{zh-adj}}
@@ -59,9 +61,8 @@
 ====Noun====
 {{zh-noun}}
 
-# the first scale degree in [[w:Gongche_notation|Gongche musical notation]] ({{zh-l|工尺譜/工尺谱}})
-# {{label|zh|battle}} [[round]]
-# {{label|zh|astronomy}} [[conjunction]]
+# {{lb|zh|game|battle}} [[round]]
+# {{lb|zh|astronomy}} [[conjunction]]
 
 ===Etymology 2===
 
@@ -69,24 +70,39 @@
 {{zh-pron
 |m=gě
 |c=gap3
+|h=pfs=khap
+|mn=kap
+|mn_note=literary reading
 |cat=n
 }}
 
 ====Noun====
 {{zh-noun}}
 
-# unit of measure for dry grain; one tenth of a [[升]]; one [[decilitre]]
+# one tenth of a {{zh-l|升}}; one [[decilitre]]
 
 ===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=hé
+|c=ho4
+|h=
+|mn=
+|mn-t=ho5
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# the first scale degree in [[w:Gongche notation|Gongche musical notation]] ({{zh-l|工尺譜}})
+
+===Etymology 4===
 {{zh-see|閤}}
 
 ===References===
-* {{cite-web
-|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=合
-|title=合
-|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-|language=Mandarin/English
-|accessdate=2014-03-17}}
+* {{R:cedict}}
 
 ----
 
