@@ -21,43 +21,110 @@
 {{zh-pron
 |m=cóng
 |c=cung4
-|h=pfs=tshîung, tsíung;hpy=qiung2, jiung3
+|h=pfs=chhiùng;hpy=qiung2
 |mn=chîng/chiông/chhiong
 |mn_note=chîng - vernacular, chiông, chhiong - literary
 |w=
-|mc=y
-|oc=y
-|ma=zh-cóng.ogg
-|cat=prep,adv,pref
+|mc=1
+|oc=1,2
+|ma=y
+|cat=prep,adv
 }}
 
 ====Preposition====
 {{zh-prep}}
 
 # [[from]]
-#* {{zh-usex|他 '''從''' 中國 來。|He comes '''from''' China.}}
-#* {{zh-usex|你 是 '''從''' 哪 個 國家 來 的？|Where are you '''from'''? (Which country are you '''from'''?)}}
-#* {{zh-usex|我們 隻 能 '''從''' 我們 的 錯誤 中 學習。|We can learn only '''from''' our mistakes.}}
+#* {{zh-x|他 從 中國 來。|He comes '''from''' China.}}
+#* {{zh-x|你 是 從 哪 個 國家 來 的？|Where are you '''from'''? (Which country are you '''from'''?)}}
+#* {{zh-x|我們 只 能 從 我們 的 錯誤 中 學習。|We can learn only '''from''' our mistakes.}}
 # [[from]] {{qualifier|a time}}; [[since]];
-#* {{zh-usex|這 家 店 '''從''' 9 點 開 到 18 點。|This shop is open '''from''' 9 to 6 o'clock.}}
-#* {{zh-usex|我們 '''從''' 小學 三 年級 就是 朋友 了。|We have been friends '''since''' the third grade.}}
+#* {{zh-x|這 家 店 從 早上 9 點 開 到 晚上 6 點。|This shop is open '''from''' 9 a.m. to 6 p.m.}}
+#* {{zh-x|我們 從 小學 三 年級 就是 朋友 了。|We have been friends '''since''' the third grade.}}
 # [[through]]; [[via]]
-#* {{zh-usex|一 陣 清風 '''從''' 窗口 吹 來。|A cool breeze came in '''through''' the window.}}
+#* {{zh-x|一 陣 清風 從 窗口 吹 來。|A cool breeze came in '''through''' the window.}}
 # [[past]] {{qualifier|a place}}
-#* {{zh-usex|我 每 天 都 '''從''' 郵局 經過。|I go '''past''' the post-office every day.}}
+#* {{zh-x|我 每 天 都 從 郵局 經過。|I go '''past''' the post-office every day.}}
 
 ====Adverb====
 {{zh-adv}}
 
-# {{label|zh|followed by negative}} [[never]]; [[ever]]
-#* {{zh-usex|我 以前 '''從 沒''' 見 過 她。|I have '''never''' seen her before}}
-#* {{zh-usex|我 '''從 不''' 違約。|I '''never''' break my promise.}}
+# {{lb|zh|followed by negative}} [[never]]; [[ever]]
+#* {{zh-usex|我 以前 '''從沒''' 見 過 她。|I have '''never''' seen her before}}
+#* {{zh-usex|我 '''從不''' 違約。|I '''never''' break my promise.}}
 
-====Prefix====
-{{zh-pref}}
+===Pronunciation===
+{{zh-pron
+|m=cóng,zòng,2nb=Taiwan
+|c=zung6
+|h=pfs=chiúng;hpy=jiung3
+|mn=
+|w=
+|mc=3
+|oc=3
+|ma=y
+|cat=a
+}}
 
-# {{non-gloss definition|prefix for cousins relatioship indicating a common paternal grandfather or earlier ancestor}}
-#* {{zh-usex|從兄|male cousin (paternal side)}}
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|of relatives}} [[paternal]] (with the same surname)
+#: {{zh-usex|從兄|paternal male cousin elder than oneself with the same surname}}
+
+===Pronunciation===
+{{zh-pron
+|m=cóng,cōng,2nb=Taiwan
+|c=sung1,cung1
+|h=
+|mn=
+|w=
+|mc=2
+|oc=n,1
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|從容}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòng,zōng,2nb=Taiwan
+|c=zung1,zung3
+|h=
+|mn=
+|w=
+|mc=
+|oc=2,n
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|縱}}
+
+===Pronunciation===
+{{zh-pron
+|m=zōng
+|c=zung1
+|h=
+|mn=
+|w=
+|mc=
+|oc=
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|蹤}}
 
 ===References===
 * {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=50764&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
