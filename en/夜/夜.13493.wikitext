@@ -91,16 +91,6 @@
 
 ==Japanese==
 
-===Pronunciation===
-{{ja-pron|よる|acc=h|y=kun}}
-
-===Noun===
-{{ja-noun|よる}} </br>
-{{ja-noun|よ}}
-<!--override the noun's index-->
-
-# [[night]]; the [[evening]]
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=夕05}}
 
@@ -113,11 +103,29 @@
 * {{ja-r|夜食|やしょく}}: night [[meal]], [[midnight]] [[snack]]
 * {{ja-r|十六夜|いざよい}}: the [[sixteenth]] [[night]] of every [[month]]
 
+===Etymology 1===
+{{ja-kanjitab|よる|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|よる|acc=h|y=kun}}
+
+====Noun====
+{{ja-noun|よる}}
+
+# [[night]]; the [[evening]]
+#: {{ja-usex|夜が明けて、月が沈んで、今日も地球が回る。|よる が あけて、つき が しずんで、きょう も ちきゅう が まわる。|Dawn breaks (lit. '''''night''' brightens''), the moon sinks, and today as well the Earth revolves.}}
+
+===Etymology 2===
+{{ja-kanjitab|よ|yomi=k}}
+
+====Noun====
+{{ja-noun|よ}}
+
+# {{lb|ja|literary}} [[night]]; the [[evening]]
+#: {{ja-usex|『真夏の'''夜'''の夢』|『^まなつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night''''s Dream]]''}}
+
 [[Category:1000 Japanese basic words|よる]]
-[[Category:Japanese nouns|よる]]
 [[Category:ja:Time|よる]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 夜]]
 
 ----
 
