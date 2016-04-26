@@ -2,10 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han simp|爲|f=爫|t=丶}}. In the oracle bone script, it is an {{Han compound|又|t1=hand|象|t2=elephant|ls=ic}} — a hand holding an elephant. In ancient China, elephants were used to do manual labour, thus the compound represented "to do; to work". The {{m|mul|又}} later became {{m|mul|爪||hand; claw}}. In the seal script, the {{m|mul|象}} has been corrupted; ''{{w|Shuowen Jiezi}}'' based its interpretation on the corrupted character and explained the character to be a representation of the macaque.
-
 ===Han character===
 {{Han char|rn=86|rad=火|as=05|sn=9|four=20227|canj=IKNF}}
 
@@ -21,6 +17,17 @@
 
 ==Chinese==
 {{zh-forms|s=为|t2=爲}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han simp|爲|f=爫|t=丶}}. In the oracle bone script, it is an {{Han compound|又|t1=hand|象|t2=elephant|ls=ic}} — a hand holding an animal (an elephant or a monkey). The {{zh-l|*又}} later became {{zh-l|*爪|hand; claw}}. ''{{w|Shuowen Jiezi}}'' explained the character to be a representation of the female macaque.
+
+===Etymology===
+The two pronunciations below ("to make; to do; to be", "for; to; because") are cognate; the latter is the *''-s'' derivative of the former. Words meaning "to make, to do" often have secondary meanings of "for, as" - compare {{zh-l|*作}}.
+
+Etymology not certain. Starostin compared this word with {{cog|bo|བགྱིད་པ||to make, to manufacture}}, {{m|bo|བགྱི་བ||action, deed}}, {{m|bo|ཡིན||is, be}} and {{cog|my|ဝေ||to distribute, to share}}. Schuessler listed {{m|mkh-pro|*ʔaayh||to give}} (> {{cog|km|ឲ្យ||to give, to donate}}) and {{cog|km|ធ្វើ||to do, to make}}, although the vowels do not match.
+
+The graphic representation using monkey or elephant probably stems a homophonic or near-homophonic etymon which was rarely attested; compare {{der|zh|sit-pro|*b/g-woj-n}} > {{cog|kac|woi||monkey}} and possibly {{zh-l|猿|ape}}. Outside Sino-Tibetan, compare {{cog|mkh-vie-pro|*-vɔːj||elephant}} > {{cog|vi|voi||elephant}}.
 
 ===Pronunciation 1===
 {{zh-pron
@@ -41,42 +48,20 @@
 
 # to [[do]], to [[make]]
 # {{qualifier|to turn, to transform}} [[into]], [[to]]
-#* {{zh-l|分為|to divide into, to split into}}
-#* {{zh-usex|那 兩 個 組織 已 合併 '''為{wéi}''' 一 個 組織。|Those two organizations have been amalgamated '''into''' single one.}}
-#* {{zh-usex|它 將{jiāng} 重{chóng}新 結晶 '''為{wéi}''' 原來 的 結構。|It will recrystallize '''into''' the original structure.}}
-#* {{zh-usex|他 被 晉升 '''為{wéi}''' 上校。|He was promoted '''to''' colonel.}}
+#* {{zh-x|分為|to divide into, to split into}}
+#* {{zh-x|那 兩 個 組織 已 合併 '''為{wéi}''' 一 個 組織。|Those two organizations have been amalgamated '''into''' single one.}}
+#* {{zh-x|它 將{jiāng} 重{chóng}新 結晶 '''為{wéi}''' 原來 的 結構。|It will recrystallize '''into''' the original structure.}}
+#* {{zh-x|他 被 晉升 '''為{wéi}''' 上校。|He was promoted '''to''' colonel.}}
 # to [[be]] {{qualifier|equivalent to|equal to}}
-#* {{zh-usex|失業率 '''為{wéi}''' @20%。|Unemployment '''is running''' at 20 per cent}}
-#* {{zh-usex|它 的 寬度 '''為{wéi}''' 7 米。|it '''is''' 7 metres in width}}
-#* {{zh-usex|一 公斤 '''為{wéi}''' 兩 磅。|A kilo '''is''' two pounds.}}
+#* {{zh-x|失業率 '''為{wéi}''' @20%。|Unemployment '''is running''' at 20 per cent}}
+#* {{zh-x|它 的 寬度 '''為{wéi}''' 7 米。|it '''is''' 7 metres in width}}
+#* {{zh-x|一 公斤 '''為{wéi}''' 兩 磅。|A kilo '''is''' two pounds.}}
 # to take something as
 # to [[act]] as; to [[serve]] as; to [[behave]] as
 # [[as]] (in the capacity of)
 
 ====Compounds====
-{{der3
-|{{zh-l|為法自弊}}
-|{{zh-l|為非作歹}}
-|{{zh-l|為害}}
-|{{zh-l|為患}}
-|{{zh-l|為力}}
-|{{zh-l|為難}}
-|{{zh-l|為盼}}
-|{{zh-l|為期}}
-|{{zh-l|為歉}}
-|{{zh-l|為人}}
-|{{zh-l|為生}}
-|{{zh-l|為時}}
-|{{zh-l|為首}}
-|{{zh-l|為數}}
-|{{zh-l|為所欲為}}
-|{{zh-l|為伍}}
-|{{zh-l|為限}}
-|{{zh-l|為由}}
-|{{zh-l|為止}}
-|{{zh-l|為主}}
-|{{zh-l|見義勇為}}
-}}
+{{zh-der|為法自弊|為非作歹|為害|為患|為力|為難|為盼|為期|為歉|為人|為生|為時|為首|為數|為所欲為|為伍|為限|為由|為止|為主|見義勇為}}
 
 ===Pronunciation 2===
 {{zh-pron
@@ -95,29 +80,14 @@
 {{zh-hanzi}}
 
 # [[for]]; [[to]]
-#* {{zh-usex|我 能 '''為{wèi}''' 你 做 點 什麼 嗎？|What can I do '''for''' you?}}
-#* {{zh-usex|我 真 '''為{wèi}''' 你 高興！|I am really happy '''for''' you!}}
-#* {{zh-usex|他 '''為{wèi}''' 自己 的 錯誤 道歉。|He gave an apology '''for''' his mistake.}}
+#* {{zh-x|我 能 '''為{wèi}''' 你 做 點 什麼 嗎？|What can I do '''for''' you?}}
+#* {{zh-x|我 真 '''為{wèi}''' 你 高興！|I am really happy '''for''' you!}}
+#* {{zh-x|他 '''為{wèi}''' 自己 的 錯誤 道歉。|He gave an apology '''for''' his mistake.}}
 # [[because of]]
-#: {{zh-usex|你 為 這 生氣 哦。|So that's what you're upset about?}}
+#: {{zh-x|你 為 這 生氣 哦。|So that's what you're upset about?}}
 
 ====Compounds====
-{{der3
-|{{zh-l|為此}}
-|{{zh-l|為的是}}
-|{{zh-l|為…而…}}
-|{{zh-l|為國捐軀}}
-|{{zh-l|為何}}
-|{{zh-l|為虎傅翼}}
-|{{zh-l|為虎作倀}}
-|{{zh-l|為了}}
-|{{zh-l|為民請命}}
-|{{zh-l|為人作嫁}}
-|{{zh-l|為什麼}}
-|{{zh-l|為著/为着}}
-|{{zh-l|為嘴傷身}}
-|{{zh-l|因為}}
-}}
+{{zh-der|為此|為的是|為…而…|為國捐軀|為何|為虎傅翼|為虎作倀|為了|為民請命|為人作嫁|為什麼|為著/为着|為嘴傷身|因為}}
 
 ----
 
