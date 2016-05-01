@@ -76,7 +76,7 @@
 {{ja-kanji|grade=1|rs=土00}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[つ]] (tsu)
 |kanon=[[と]] (to)
 |kanyoon=[[ど]] (do)
@@ -85,8 +85,6 @@
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|苦土|くど}}: [[magnesia]], [[magnesium oxide]]
-* {{ja-r|土豚|つちぶた}}: [[aardvark]]
-* {{ja-r|土狼|つちおおかみ}}: [[aardwolf]]
 * {{ja-r|土地|とち}}: [[ground]]; [[land]]
 * {{ja-r|陶土|とうど}}: [[potter's clay]]
 * {{ja-r|土産|みやげ}}: a [[souvenir]], a [[present]]
@@ -95,14 +93,29 @@
 
 {{ja-kanjitab|つち|yomi=k}}
 
+===Etymology===
+From {{etyl|ojp|ja|sort=つち}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|つち|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|地}}
+
 ===Noun===
 {{ja-noun|つち}}
 
 # [[earth]]; [[soil]]; [[mud]]
 # the [[ground]]
 
-====Phrases====
-* [[土を踏む]]: enter the foreign country
+====Derived terms====
+* {{ja-r|土狼|つちおおかみ}}: [[aardwolf]]
+* {{ja-r|土豚|つちぶた}}: [[aardvark]]
+* {{ja-r|土を踏む|つち を ふむ}}: enter the foreign country
+* {{ja-r|真土|まつち}}: good quality soil suitable for cultivation
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|つち]]
 
