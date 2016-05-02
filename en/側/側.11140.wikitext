@@ -38,12 +38,12 @@
 {{ja-kanji|grade=4|rs=人09}}
 
 ====Readings====
-{{ja-readings|goon=[[しき]] (shiki)|kanon=[[しょく]] ([[shoku]])|kanyoon=[[そく]] ([[soku]])|kun=[[かわ]] ([[kawa]]), [[かたわら]] ([[側ら]], [[katawara]]), [[そばめる]] ([[側める]], [[sobameru]])}}
+{{ja-readings|goon=[[しき]] (shiki)|kanon=[[そく]] (soku)|kun=[[がわ]] (gawa), [[かわ]] (kawa), [[そば]] (soba)}}
 
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|君側|くんそく}}: [[vicinity]] of a [[lord]]
-* {{ja-r|側圧|そくあつ}}
+* {{ja-r|側圧|そくあつ}}: [[lateral]] [[pressure]]
 * {{ja-r|側鎖|そくさ}}
 * {{ja-r|側室|そくしつ}}
 * {{ja-r|側射|そくしゃ}}
@@ -72,27 +72,67 @@
 * {{ja-r|側む|そばむ}}
 * {{ja-r|側仕え|そばづかえ}}
 
-===Pronunciation===
+===Etymology 1===
+{{ja-kanjitab|がわ|yomi=k}}
+
+====Pronunciation====
 {{ja-pron|yomi=k|がわ|acc=0|acc_ref=DJR,NHK}}
 
-===Noun===
-{{ja-noun|がわ}}
+====Noun====
+{{ja-noun|がわ|hhira=がは}}
 
 # [[side]]
 
-===Pronunciation===
+===Etymology 2===
+{{ja-kanjitab|そば|yomi=k}}
+
+====Pronunciation====
 {{ja-pron|yomi=k|そば|acc=1|acc_ref=DJR,NHK}}
 
-===Noun===
+====Alternative forms====
+* {{ja-l|傍}}
+
+====Noun====
 {{ja-noun|そば}}
 
 # [[vicinity]], [[near]], [[beside]]
 
-===Pronunciation===
+===Etymology 3===
+{{ja-kanjitab|かわ|yomi=k}}
+
+====Pronunciation====
 {{ja-pron|yomi=k|かわ|acc=2|acc_ref=DJR,NHK}}
 
-===Noun===
-{{ja-noun|かわ}}
+====Noun====
+{{ja-noun|かわ|hhira=かは}}
+
+# [[side]]
+
+===Etymology 4===
+{{ja-kanjitab|はた|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|はた|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|端}}, {{ja-l|傍}}
+
+====Noun====
+{{ja-noun|はた}}
+
+# [[vicinity]]
+
+===Etymology 5===
+{{ja-kanjitab|かたわら|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かたわら|acc=0|acc_ref=DJR,NHK|acc2=4|acc2_ref=NHK}}
+
+====Alternative forms====
+* {{ja-l|傍ら}}, {{ja-l|旁}}, {{ja-l|脇}}
+
+====Noun====
+{{ja-noun|かたわら|hhira=かたはら}}
 
 # [[side]]
 
