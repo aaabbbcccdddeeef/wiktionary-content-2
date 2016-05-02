@@ -80,19 +80,6 @@ Not used as an independent character in modern Chinese. Only found in compounds.
 
 ==Japanese==
 
-===Pronunciation===
-{{ja-pron|yomi=k|おっと|acc=0|acc_ref=SMK2,NHK}}
-
-===Noun===
-{{ja-kanjitab|おっと|yomi=k}}
-{{ja-noun|おっと}}
-
-# {{lb|ja|humble|sort=おっと}} (one's own) [[husband]]
-
-{{ja-noun|つま}}
-
-# [[spouse]], [[consort]]
-
 ===Kanji===
 {{ja-kanji|grade=4|rs=大01}}
 
@@ -102,8 +89,7 @@ Not used as an independent character in modern Chinese. Only found in compounds.
 * {{ja-readings|on=[[ふ]] (''fu''), [[ふう]] (''fū''), [[ぶ]] (''bu'') [[ぷ]](''pu'')|kun=[[おっと]] (''otto''), [[それ]] ([[夫れ]], ''sore'')|nanori=[[お]] (''o''), [[と]] (''to''), [[ゆう]] (''yū''), [[よ]] (''yo'')}}
 
 ====Compounds====
-{{der-top}}
-{{top2}}
+{{der-top|Compounds}}
 * [[夫妻]] (fusai)
 * [[夫人]] (fujin)
 * [[夫婦]] (fūfu)
@@ -113,7 +99,6 @@ Not used as an independent character in modern Chinese. Only found in compounds.
 * [[水夫]]
 * [[寡夫]] (kafu)
 * [[工夫]] (kufū, kōfu)
-{{mid2}}
 * [[丈夫]] (jōbu, masurao)
 * [[前夫]] (zenpu)
 * [[大夫]] (taifu, daibu, tayū)
@@ -127,8 +112,23 @@ Not used as an independent character in modern Chinese. Only found in compounds.
 * [[憲夫]] (のりお, Norio)
 * [[郁夫]] (いくお, Ikuo; ふみお, Fumio)
 * [[多喜夫]] (たきお, Takio)
-{{bottom}}
 {{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|おっと|yomi=k}}
+{{rfe|lang=ja|Needs splitting by reading.}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|おっと|acc=0|acc_ref=SMK2,NHK,DJR}}
+
+===Noun===
+{{ja-noun|おっと|hhira=をつと}}
+
+# {{lb|ja|humble|sort=おっと}} (one's own) [[husband]]
+
+{{ja-noun|つま}}
+
+# [[spouse]], [[consort]]
 
 ===References===
 <references/>
