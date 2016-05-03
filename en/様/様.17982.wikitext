@@ -45,16 +45,15 @@ Right component is approximately 羊 + 水, but this is misleading. The composit
 |kun=[[さま]] (sama)
 }}
 
-====See also====
-* {{pedialite|lang=ja}}
-* {{pedialite|Japanese honorifics}}
-* {{l|ja|さん}} (''[[san]]'')
-* {{l|ja|君}} ({{l|ja|くん}}, ''[[kun]]'')
-* {{l|ja|ちゃん}} (''[[chan]]'')
-* {{l|ja|殿}} ({{l|ja|どの}}, ''[[dono]]'')
-
 ===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Japanese honorifics}}
+</div>
 {{ja-kanjitab|yomi=o|よう}}
+
+{{IPAchar|/jau/}} → {{IPAchar|/jɔː/}} → {{IPAchar|/joː/}}
+
 From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}.
 
 ====Pronunciation====
@@ -65,33 +64,81 @@ From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}
 
 # [[way]], [[style]], [[appearance]]
 
-====Adjectival noun====
+====Adjective====
 {{ja-adj|よう|hhira=やう}}
 
-# be [[like]], look like, seem like
-#* {{ja-usex|まるで夢を見ている'''ようだ'''。|^まるで ゆめ を みている '''よう だ'''。|It felt as if I were dreaming.}}
+# be [[like]], look like, seem like, [[as if]]
+#* {{ja-usex|まるで夢を見ている'''よう'''だ。|^まる で ゆめ を みて いる '''よう''' だ。|It felt '''as if''' I were dreaming.}}
 
 =====Inflection=====
 {{ja-na|よう}}
 
 =====Usage notes=====
-* This term is virtually always written in Hiragana rather than Kanji. Using the Kanji version is likely to cause confusion with the honorific prefix 様 (さま ''sama'')
-* Only the Terminal (様だ/ようだ ''yō da''), Attributive (様な/ような ''yō na''), and Adverbial (様に/ように ''yō ni'') forms of this term are routinely used.
+In modern Japanese, this term is almost always written in hiragana.
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|さま}}
 
+From {{etyl|ojp|ja|sort=さま}}.  Originally a compound of {{compound|lang=ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
 ====Pronunciation====
 {{ja-pron|yomi=k|さま|acc=2|acc_ref=DJR}}
+{{qualifier|with [[rendaku]] when used as a suffix in some combinations}}
+{{ja-pron|yomi=k|ざま}}
+
+====Alternative forms====
+* {{ja-l|方}} {{qualifier|limited to the noun sense}}
+
+====Noun====
+{{ja-noun|さま}}
+
+# a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}
+# the [[state]] or [[situation]] of a thing
+# the general [[trend]], [[tenor]], or [[feel]] of a thing
+# one's [[social]] [[station]], [[status]], or [[quality]]
+# the [[way]] or [[means]] of doing something, [[how]] one does something
+# the [[reason]] or [[circumstances]] for something
+
+====Pronoun====
+{{ja-pos|pronoun|さま}}
+
+# {{lb|ja|sort=さま|archaic|honorific}} {{n-g|second-person pronoun:}} [[you]], [[you all]]
+# {{lb|ja|sort=さま|archaic|honorific}} {{n-g|third-person distal pronoun:}} [[he]], [[she]], [[they]] {{qualifier|distant from both speaker and listener}}
+
+=====Usage notes=====
+Used primarily by women of the [[red-light district]]s of the {{w|Edo period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The pronoun senses have largely fallen into disuse.  These originated as [[abbreviation]]s of longer forms {{m|ja|君様|tr=kimisama|lit=lord + that way}}, {{m|ja|方様|tr=katasama|lit=that side + that way}}, or {{m|ja|貴様|tr=kisama|lit=noble + that way}}, with the ''-sama'' suffix (see below) developing into an independent use.
 
 ====Suffix====
-{{ja-pos|さま|suffix}}
+{{ja-pos|さま|suffix|ざま}}
 
-# Honorific suffix that is more respectful than [[さん]]. Gender-neutral.
+# {{lb|ja|sort=さま|honorific}} {{n-g|polite personal suffix:}} [[honorable]], [[Mr.]], [[Ms.]]
+#: {{ja-usex|吉田'''様'''が来られましたら…|^よしだ-'''さま''' が こられましたら…|If ['''honorable'''] '''Mr.''' Yoshida comes here...}}
+# {{lb|ja|sort=さま|honorific}} {{n-g|attaching to nouns or other nominals: a [[politeness]] marker that often has no direct translation, replacing [[copula]] {{m|ja|です}} ''desu''}}
+#: {{ja-usex|ご苦労'''様'''、ご無事に来られてお嬉し'''様'''や。|ごくろう'''さま'''、 ごぶじ に こられて お.うれし'''さま''' や。|You've done well, I'm so happy you were able to get here without incident.}}
+# {{n-g|attaching to specific nouns or other nominals:}} [[that]] [[way]], that [[direction]]
+#: {{ja-usex|逆'''様'''、横'''様'''|さか'''さま'''、 よこ'''さま'''|back'''wards''', side'''ways'''}}
+# {{lb|ja|sort=さま|archaic}} {{n-g|attaching to verbs:}} [[just]] [[as]] {{qualifier|indicating the specific time when the verb is happening}}
+# {{n-g|attaching to verbs:}} the [[way]] of doing something, [[how]] one does something {{qualifier|often undergoes [[rendaku]], changing ''-sama'' to ''-zama''}}
+#: {{ja-usex|座り'''様'''|すわり'''さま'''|'''how''' one sits}}
+
+=====Usage notes=====
+The honorific senses developed out of [[euphemistic]] use of the noun sense of ''sama'', “that way”, as an [[oblique]] form of reference, starting from around the {{w|Muromachi period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The ''-sama'' suffix after personal names is more respectful than the everyday {{ja-r|さん}}, and is generally only used when being very [[polite]].  Gender-neutral.  This is sometimes glossed as {{m|en|honorable}}, but {{m|en|honorable}} is also used as a [[title]], such as for [[judge]]s or [[governor]]s or certain ranks of [[nobility]], whereas ''-sama'' is purely about politeness and relative social closeness.
+
+====See also====
+{{der-top|See also: personal honorifics}}
+* {{ja-r|さん}}
+* {{ja-r|君|くん}}
+* {{ja-r|ちゃん}}
+* {{ja-r|殿|どの}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|ちゃま}}
-Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare the formation of {{m|ja|ちゃん}} from {{m|ja|さん}}.
+Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare the formation of {{ja-r|ちゃん}} from {{ja-r|さん}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ちゃま|acc=2}}
