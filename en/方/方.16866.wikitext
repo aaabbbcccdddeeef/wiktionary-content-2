@@ -78,56 +78,91 @@ Left part of [[㫃]]. As in [[旗]] and [[旅]].
 # [[alternative]]
 
 ====Readings====
-* {{ja-readings|goon=[[ほう]] (hō) > [[はう]] (hau)|kanon=[[ほう]] (hō) > [[はう]] (hau)|kun=[[かた]] (kata), [[ならべる]] (naraberu), [[くらべる]] (kuraberu)}}
+{{ja-readings|goon=[[ほう]] (hō) > [[はう]] (hau)|kanon=[[ほう]] (hō) > [[はう]] (hau)|kun=[[かた]] (kata), [[ならべる]] (naraberu), [[くらべる]] (kuraberu)}}
 
 ====Compounds====
-{{top3}}
+{{der-top}}
 * {{ja-r|方正|ほうせい}}
+* {{ja-r|方響|ほうきょう}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]
 * {{ja-r|方形|ほうけい}}
+* {{ja-r|方磬|ほうけい}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]
 * {{ja-r|方式|ほうしき}}
-{{mid3}}
 * {{ja-r|方術|ほうじゅつ}}
 * {{ja-r|方法|ほうほう}}
 * {{ja-r|方面|ほうめん}}
-{{mid3}}
 * {{ja-r|方針|ほうしん}}
 * {{ja-r|夕方|ゆうがた}}
 * {{ja-r|味方|みかた}}
-{{bottom}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|ほう|yomi=o}}
+From {{etyl|ltc|ja|sort=ほう}} {{m|zh|方|tr=pjang}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ほう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|ほう|hhira=はう}}
 
 # [[direction]], [[way]], [[side]]
 
+===Etymology 2===
+{{ja-kanjitab|かた|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かた|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|かた}}
 
 # [[person]] (a polite version of [[人]] ([[ひと]], [[hito]]))
 #: {{ja-usex|あの'''方'''。|あの '''かた'''。|That '''person'''. (polite)}}
 #: {{ja-usex|あの'''方'''はどなたですか。|あの '''かた''' は どなた です か。|Who is that '''gentleman'''? (formal)}}
 
-====Synonyms====
+=====Synonyms=====
 * {{ja-r|人|ひと}} {{qualifier|plain}}
 
-===Suffix===
+====Suffix====
 {{ja-pos|かた|suffix}}
 
 # [[way]], [[method]] (of doing)
 
-===Etymology===
+===Etymology 3===
 pe > ɸe > we > e.
 
-===Suffix===
+====Suffix====
 {{ja-pos|え|suffix|hhira=へ}}
 
 # a suffix expressing location, direction, or time
 
-====Derived terms====
-* {{l|ja|古}}
-* {{l|ja|行方}}
+=====Derived terms=====
+* {{ja-r|古|いにしえ}}
+* {{ja-r|行方|ゆくえ}}
 
-====See also====
-* {{l|ja|法}}
+===Etymology 4===
+{{ja-kanjitab|さま|yomi=irr}}
+
+From {{etyl|ojp|ja|sort=さま}}.  Originally a compound of {{compound|lang=ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|さま|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|様}}
+
+====Noun====
+{{ja-noun|さま}}
+
+# a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}
+# the [[state]] or [[situation]] of a thing
+# the general [[trend]], [[tenor]], or [[feel]] of a thing
+# one's [[social]] [[station]], [[status]], or [[quality]]
+# the [[way]] or [[means]] of doing something, [[how]] one does something
+# the [[reason]] or [[circumstances]] for something
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words]]
 
