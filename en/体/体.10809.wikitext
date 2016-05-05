@@ -51,9 +51,50 @@ Readings as simplification of 體 (body, group):
 |kun=[[からだ]] (karada)
 }}
 
-====Compounds====
-{{top4}}
-* {{ja-r|体位|たいい}}
+===Etymology 1===
+{{ja-kanjitab|からだ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|からだ|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|躯}}, {{ja-l|身体}}
+
+====Noun====
+{{ja-noun|からだ}}
+
+# [[body]]
+# [[health]]
+
+=====Derived terms=====
+* {{ja-r|体付き|からだつき}}
+
+===Etymology 2===
+{{ja-kanjitab|たい|yomi=o}}
+From {{etyl|ltc|ja|sort=たい}} {{m|zh|體|tr=thej<sup>X</sup>||body}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|たい|acc=1|acc_ref=DJR,NHK}}
+
+====Counter====
+{{ja-pos|counter|たい}}
+
+# counter for [[humanoid]] objects
+
+====Noun====
+{{ja-noun|たい}}
+
+# [[body]]
+# [[form]]
+# {{lb|ja|algebra|sort=たい}} [[field]] {{gloss|commutative ring with invertible nonzero elements}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|ガラス体|ガラスたい|[[vitreous body]]}}
+* {{ja-r|字体|じたい}}
+* {{ja-r|硝子体|しょうしたい|[[vitreous body]]}}
+* {{ja-r|身体|しんたい}}
+* {{ja-r|体位|たい.い}}
 * {{ja-r|体育|たい.いく}}
 * {{ja-r|体液|たいえき}}
 * {{ja-r|体温|たいおん}}
@@ -65,20 +106,17 @@ Readings as simplification of 體 (body, group):
 * {{ja-r|体躯|たいく}}
 * {{ja-r|体腔|たいくう}}
 * {{ja-r|体刑|たいけい}}
-{{mid4}}
-* {{ja-r|身体|しんたい}}
 * {{ja-r|体型|たいけい}}
 * {{ja-r|体形|たいけい}}
 * {{ja-r|体系|たいけい}}
 * {{ja-r|体験|たいけん}}
 * {{ja-r|体現|たいげん}}
 * {{ja-r|体言|たいげん}}
-* {{ja-r|体裁|ていさい}}
 * {{ja-r|体質|たいしつ}}
-* {{ja-r|体臭|たいしゅつ}}
+{{der-mid}}
 * {{ja-r|体重|たいじゅう}}
-* {{ja-r|体術|たいじゅつ|gloss=[[taijutsu]]}}
-{{mid4}}
+* {{ja-r|体臭|たいしゅつ}}
+* {{ja-r|体術|たいじゅつ|[[taijutsu]]}}
 * {{ja-r|体制|たいせい}}
 * {{ja-r|体勢|たいせい}}
 * {{ja-r|体積|たいせき}}
@@ -90,7 +128,6 @@ Readings as simplification of 體 (body, group):
 * {{ja-r|体内|たいない}}
 * {{ja-r|体認|たいにん}}
 * {{ja-r|体熱|たいねつ}}
-{{mid4}}
 * {{ja-r|体罰|たいばつ}}
 * {{ja-r|体貌|たいぼつ}}
 * {{ja-r|体面|たいめん}}
@@ -99,39 +136,26 @@ Readings as simplification of 體 (body, group):
 * {{ja-r|体要|たいよう}}
 * {{ja-r|体量|たいりょう}}
 * {{ja-r|体力|たいりょく}}
-* {{ja-r|新字体|しんじたい|gloss=[[shinjitai]]}}
-* {{ja-r|旧字体|きゅうじたい|gloss=[[kyūjitai]]}}
-* {{ja-r|扁桃体|へんとうたい|gloss=[[amygdala]]}}
-{{bottom}}
+* {{ja-r|扁桃体|へんとうたい|[[amygdala]]}}
+{{der-bottom}}
 
-{{ja-kanjitab|たい|yomi=o}}
+===Etymology 3===
+{{ja-kanjitab|てい|yomi=o}}
 
-===Pronunciation===
-{{ja-pron|yomi=goon|たい|acc=1|acc_ref=DJR}}
-
-===Noun===
-{{ja-noun|からだ}}
-
-# [[body]]
-# [[health]]
-
-{{ja-noun|たい}}
-
-# [[body]]
-# [[form]]
-# {{label|ja|algebra|sort=たい}} [[field]] {{gloss|commutative ring with invertible nonzero elements}}
+====Pronunciation====
+{{ja-pron|yomi=kanon|てい|acc=1|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
-* {{qualifier|karada}} {{ja-r|身体|からだ}}
+* {{ja-l|態}}
 
-====Derived terms====
-* {{ja-r|体付き|からだつき}}
+====Noun====
+{{ja-noun|てい}}
+
+# [[appearance]]
+
+=====Derived terms=====
+* {{ja-r|体裁|ていさい}}
 * {{ja-r|体良く|ていよく}}
-
-===Suffix===
-{{ja-pos|たい|suffix}}
-
-# [[body]], [[group]]
 
 ===References===
 <references/>
