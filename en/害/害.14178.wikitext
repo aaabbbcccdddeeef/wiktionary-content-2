@@ -50,10 +50,6 @@
 ----
 
 ==Japanese==
-===Noun===
-{{ja-noun|がい}}
-
-# [[injury]], [[harm]], [[damage]]
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=宀07}}
@@ -63,12 +59,44 @@
 # [[disaster]]
 
 ====Readings====
-* {{ja-readings|goon=[[がい]] (gai)|kanon=[[かい]] (kai)|kun=[[そこなう]] ([[害なう]], sokonau), [[ころす]] (korosu), [[わざわい]] (wazawai)}}
+{{ja-readings|goon=[[がい]] (gai)|kanon=[[かい]] (kai)|kun=[[そこなう]] ([[害なう]], sokonau), [[ころす]] (korosu), [[わざわい]] (wazawai)}}
 
-====Compounds====
-* {{sense|damage}} {{ja-l|害悪}}, {{ja-l|害毒}}, {{ja-l|残害}}, {{ja-l|損害}}, {{ja-l|被害}}, {{ja-l|被害者}}, {{ja-l|無害}}, {{ja-l|有害}}, {{ja-l|利害}}
-* {{sense|kill}} {{ja-l|危害}}, {{ja-l|殺害}}, {{ja-l|自害}}
-* {{sense|disaster}} {{ja-l|災害}}, {{ja-l|風害}}, {{ja-l|水害}}
+{{ja-kanjitab|がい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かい'}} {{m|zh|害|tr=haj<sup>H</sup>||injury}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|がい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|がい}}
+
+# [[injury]], [[harm]], [[damage]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|害悪|がいあく}}
+* {{ja-r|害獣|がいじゅう|[[harmful]] [[animal]]}}
+* {{ja-r|害虫|がいちゅう|[[harmful]] [[insect]]}}
+* {{ja-r|害鳥|がいちょう|[[harmful]] [[bird]]}}
+* {{ja-r|害毒|がいどく}}
+* {{ja-r|危害|きがい}}
+* {{ja-r|災害|さいがい}}
+* {{ja-r|殺害|さつがい}}
+* {{ja-r|残害|ざんがい}}
+* {{ja-r|自害|じがい}}
+* {{ja-r|水害|すいがい}}
+* {{ja-r|損害|そんがい}}
+* {{ja-r|被害|ひがい}}
+* {{ja-r|風害|ふうがい}}
+* {{ja-r|無害|むがい}}
+* {{ja-r|有害|ゆうがい}}
+* {{ja-r|利害|りがい}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
