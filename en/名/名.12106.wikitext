@@ -144,14 +144,14 @@ Graphically, from {{Han compound|夕|t1=crescent|口}}.
 |tuttle=3d3.12
 }}
 
-{{ja-kanjitab|めい|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|な|yomi=k}}
 
-===Pronunciation===
-{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}
+====Pronunciation====
+{{ja-pron|yomi=k|な|acc=0|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|な}}
-: {{ja-noun|めい}}
 
 # [[name]]
 #: {{ja-usex|'''名'''を連ねる|'''な''' を つらねる|put one's '''name''' on (a list)}}
@@ -162,7 +162,8 @@ Graphically, from {{Han compound|夕|t1=crescent|口}}.
 #: {{ja-usex|'''名'''を上げる/現す/成す/売る|'''な''' を あげる/あらわす/なす/うる|become '''famous''', make one's '''name'''}}
 #:* '''Usage note:''' 名を上げる differs from 名が上がる in that the subject purposefully did something to make himself famous.
 
-====Derived terms====
+=====Derived terms=====
+* {{ja-r|千名|ちな}}: various [[rumour]]s
 * {{ja-r|名付ける|なづける}}
 * {{ja-r|名乗る|なのる}}, {{ja-r|名告る|なのる}}
 * {{ja-r|名も無い|な も ない}}
@@ -172,21 +173,27 @@ Graphically, from {{Han compound|夕|t1=crescent|口}}.
 * {{ja-r|名取|なとり}}
 * {{ja-r|名折れ|なおれ}}
 
-===Prefix===
-{{ja-pos|めい|prefix}}
+===Etymology 2===
+{{ja-kanjitab|めい|yomi=o}}
+From {{etyl|ltc|ja|sort=めい}} {{m|zh|名|tr=mjieng||name}}.
 
-# [[famous]], [[great]], [[noted]]
+====Pronunciation====
+{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}
 
-===Suffix===
-{{ja-pos|めい|suffix}}
-: {{ja-pos|な|suffix}}
-
-# [[name]] of
-
-===Counter===
+====Counter====
 {{ja-pos|めい|counter}}
 
 # counter word for [[people]], [[persons]]
+
+====Noun====
+{{ja-noun|めい}}
+
+# [[name]]
+
+====Prefix====
+{{ja-pos|めい|prefix}}
+
+# [[famous]], [[great]], [[noted]]
 
 ===References===
 <references/>
