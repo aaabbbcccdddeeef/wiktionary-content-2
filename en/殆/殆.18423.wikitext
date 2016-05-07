@@ -5,18 +5,32 @@
 
 # [[dangerous]], [[perilous]]
 # [[endangered]]
+# [[almost]]
 
 ====References====
 * {{Han ref|kx=0580.040|dkj=16430|dj=0972.180|hdz=21384.120|uh=6B86|ud=27526|bh=AC70|bd=44144}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=doi6, toi5}}
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=doi6,toi5
+|mc=y
+|oc=y
+|ma=
+|cat=a,adv
+}}
 
-# {{defn|lang=yue|sort=歹05}}
+===Definitions===
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{sense|critical}} [[危殆]]
+* {{sense|almost}} [[殆盡]], [[殆死不活]]
 
 ----
 
@@ -48,19 +62,6 @@
 {{ko-hanja|hangeul=태|eumhun=|rv=tae|mr=t'ae|y=thay}}
 
 # {{defn|lang=ko|sort=歹05}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[dài]] ([[dai4]])|wg=tai<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=歹05}}
-
-====Compounds====
-* {{sense|critical}} [[危殆]]
-* {{sense|almost}} [[殆盡]], [[殆死不活]]
 
 [[fr:殆]]
 [[ko:殆]]
