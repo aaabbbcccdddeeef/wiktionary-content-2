@@ -171,38 +171,39 @@ See [[兩#Usage notes]].
 
 ====Compounds====
 {{top3}}
-* [[二王]] ([[におう]], [[niō]])
-* [[二月]] ([[にがつ]], [[nigatsu]])
-* [[二言]] ([[にごん]], [[nigon]]); ([[ふたこと]], [[futakoto]])
-* [[二重]] ([[にじゅう]], [[nijū]])
-* [[二乗]] ([[じじょう]], [[jijō]])
-* [[二百]] ([[にひゃく]], [[nihyaku]])
-* [[二次]] ([[にじ]], [[niji]])
-* [[二塁]] ([[にるい]], [[nirui]])
-* [[二階]] ([[にかい]], [[nikai]])
-* [[二人]] ([[ふたり]], [[futari]])
+* {{ja-r|二王|におう}}
+* {{ja-r|二月|にがつ}}
+* {{ja-r|二言|にごん}}, {{ja-r|二言|ふたこと}}
+* {{ja-r|二重|にじゅう}}
+* {{ja-r|二乗|じじょう}}
+* {{ja-r|二百|にひゃく}}
+* {{ja-r|二次|にじ}}
+* {{ja-r|二字|にじ}}: two [[character]]s
+* {{ja-r|二塁|にるい}}
+* {{ja-r|二階|にかい}}
+* {{ja-r|二人|ふたり}}
 {{mid3}}
-* [[二心]] ([[にしん]], [[nishin]]); ([[ふたごころ]], [[futagokoro]])
-* [[二日]] ([[ふつか]], [[futsuka]])
-* [[二次元]] ([[にじげん]], [[nijigen]])
-* [[二院制]] ([[にいんせい]], [[niinsei]])
-* [[二毛作]] ([[にもうさく]], [[nimōsaku]])
-* [[二刀流]] ([[にとうりゅう]], [[nitōryū]])
-* [[二人称]] ([[ににんしょう]], [[nininshō]])
-* [[二年草]] ([[にねんそう]], [[ninensō]])
-* [[二枚貝]] ([[にまいがい]], [[nimaigai]])
-* [[二枚舌]] ([[にまいじた]], [[nimaijita]])
+* {{ja-r|二心|にしん}}, {{ja-r|二心|ふたごころ}}
+* {{ja-r|二日|ふつか}}
+* {{ja-r|二次元|にじげん}}
+* {{ja-r|二院制|にいんせい}}
+* {{ja-r|二毛作|にもうさく}}
+* {{ja-r|二刀流|にとうりゅう}}
+* {{ja-r|二人称|ににんしょう}}
+* {{ja-r|二年草|にねんそう}}
+* {{ja-r|二枚貝|にまいがい}}
+* {{ja-r|二枚舌|にまいじた}}
 {{mid3}}
-* [[二枚目]] ([[にまいめ]], [[nimaime]])
-* [[二十歳]] ([[はたち]], [[hatachi]])
-* [[二十日]] ([[はつか]], [[hatsuka]])
-* [[二律背反]] ([[にりつはいはん]], [[niritsuhaihan]])
-* [[二重人格]] ([[にじゅうじんかく]], [[nijūjinkaku]])
-* [[二束三文]] ([[にそくさんもん]], [[nisokusanmon]])
-* [[十重二十重]] ([[とえはたえ]], [[toehatae]])
-* [[二つ目]] ([[ふたつめ]], [[futatsume]])
-* [[二の次]] ([[にのつぎ]], [[ninotsugi]])
-* [[二の舞]] ([[にのまい]], [[ninomai]])
+* {{ja-r|二枚目|にまいめ}}
+* {{ja-r|二十歳|はたち}}
+* {{ja-r|二十日|はつか}}
+* {{ja-r|二律背反|にりつはいはん}}
+* {{ja-r|二重人格|にじゅうじんかく}}
+* {{ja-r|二束三文|にそくさんもん}}
+* {{ja-r|十重二十重|とえはたえ}}
+* {{ja-r|二つ目|ふたつめ}}
+* {{ja-r|二の次|にのつぎ}}
+* {{ja-r|二の舞|にのまい}}
 {{bottom}}
 
 ====Derived terms====
@@ -210,10 +211,11 @@ See [[兩#Usage notes]].
 * {{ja-r|二けた|ふたけた}} ''noun'': two digits, double figures
 
 ===Etymology 1===
+{{ja-kanjitab|に|yomi=o}}
+From {{etyl|ltc|ja|sort=に}} {{m|zh|二|tr=nyij<sup>H</sup>||two}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|に|acc=1}}
-* {{audio|Ja-2-ni.ogg|Audio|lang=ja}}
+{{ja-pron|yomi=goon|に|acc=1|acc_ref=DJR,NHK|a=Ja-2-ni.ogg}}
 
 ====Noun====
 {{ja-noun|に}}
@@ -242,12 +244,16 @@ See [[兩#Usage notes]].
 *: trying to do an impossible task; taking eye medicine from the 2nd floor
 
 ===Etymology 2===
+{{ja-kanjitab|ふた|yomi=k}}
 Originally /huta/: *[puta] > [ɸuta]. The Ablaut form of {{m|ja|一|tr=hito<small>2</small>||one}}, which it doubles.
 
 ====Noun====
 {{ja-noun|ふた}}
 
 # [[two]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|に]]
 [[Category:Japanese numeral symbols|2]]
