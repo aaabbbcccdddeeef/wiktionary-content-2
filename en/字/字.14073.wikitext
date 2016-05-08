@@ -105,10 +105,14 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*tsa ~ za}}. Cognate to its phonetic compon
 * {{ja-r|字引|じびき}}: dictionary
 * {{ja-r|数字|すうじ}}: numeral or number
 * {{ja-r|字訳|じやく}}
+* {{ja-r|二字|にじ}}: two [[character]]s
 
 ===Etymology 1===
 {{ja-kanjitab|じ|yomi=o}}
 Borrowed from Middle Chinese 字 with the southern [[pronunciation]] ([[kango]], [[Go-on]]).
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じ|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|じ}}
@@ -128,6 +132,9 @@ Borrowed from Middle Chinese 字 with the southern [[pronunciation]] ([[kango]],
 {{ja-kanjitab|あざ|yomi=k}}
 Shortened form of [[あざな]] ''azana'' "a section of a village" of ancient [[Japanese]] origin ([[wago]]).
 
+====Pronunciation====
+{{ja-pron|yomi=k|あざ|acc=1|acc_ref=DJR,NHK}}
+
 ====Noun====
 {{ja-noun|あざ}}
 
@@ -136,6 +143,23 @@ Shortened form of [[あざな]] ''azana'' "a section of a village" of ancient [[
 =====Derived terms=====
 * {{ja-r|大字|おおあざ}}
 * {{ja-r|小字|こあざ}}
+
+===Etymology 3===
+{{ja-kanjitab|あざな|yomi=k}}
+Of ancient [[Japanese]] origin ([[wago]]).
+
+====Pronunciation====
+{{ja-pron|yomi=k|あざな|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|あざな}}
+
+# [[courtesy name]]
+# [[nickname]]
+# a [[section]] of a [[village]]
+
+===References===
+<references/>
 
 [[Category:1000 Japanese basic words|し']]
 
