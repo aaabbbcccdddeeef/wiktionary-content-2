@@ -12,11 +12,17 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Alternative forms====
+* {{zh-l|罷|tr=-}}
+
+====Pronunciation====
 {{zh-pron
 |m=ba
 |c=baa6
-|h=pfs=pâ
+|h=
+|mn=pā
 |mc=y
 |oc=y
 |cat=part
@@ -25,43 +31,74 @@
 ====Particle====
 {{zh-particle}}
 
-# {{non-gloss definition|(used at the end of a sentence to indicate a suggested action; often used to express [[imperative mood]])}} [[let us]] ...; why don't you ... {{qualifier|emphatic final particle}}
-#: {{zh-x|走 吧|'''let's''' go!}}
+# {{non-gloss definition|Emphatic final particle; used at the end of a sentence to indicate a suggested action; often used to express [[imperative mood]]:}} [[let us]] ...; why don't you ...
+#: {{zh-x|走 吧！|'''Let's''' go!}}
 #: {{zh-x|你 有 時間 再 做 吧。|Do it when you have time.}}
 #: {{zh-x|大家 去 工作 吧。|Get to work, everybody.}}
-# {{non-gloss definition|(used at the end of a sentence used to concede a point)}}
-#: {{zh-x|好 吧|alright!}}
-# {{label|zh|onomatopoeia}} sound of [[crackling]]; [[crack]]
+# {{non-gloss definition|Used at the end of a sentence used to concede a point.}}
+#: {{zh-x|好 吧！|Alright!}}
 
 {{zh-cat|Beginning}}
 
 ====Usage notes====
-* 吧 is not used as a modal particle in Min Nan. The particle [[ho͘ⁿ|ho{{lang|und|sc=Latinx|͘}}ⁿ]] provides a similar effect.
+* {{lang|zh|吧}} is not usually used as a modal particle in Min Nan. The particle {{zh-l|乎|hohⁿ}} provides a similar effect.
 
-===Pronunciation===
+===Etymology 2===
+{{onomatopoeic|zh}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baa1
+|h=
+|mn=
+|cat=n
+}}
+
+====Noun====
+
+# {{lb|zh|onomatopoeia}} sound of [[crackling]]; [[crack]]
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baa1
+|h=
+|mn=
+|cat=v
+}}
+
+====Verb====
+
+# to [[smoke]]
+
+===Etymology 4===
+From {{der|zh|en|bar}}.
+
+====Pronunciation====
 {{zh-pron
 |m=bā
 |c=baa1
 |h=pfs=pâ
 |mn=pa
-|cat=noun,syllables
+|cat=n
 }}
 
-====Noun====
+====Definitions====
 {{zh-noun}}
 
-# {{label|zh|loanword}} [[bar]] {{qualifier|an establishment serving alcohol}}
-# {{non-gloss definition|abbreviation for {{zh-l|貼吧|internet board}}}}
+# [[bar]]
+#: {{zh-x|酒吧{bā}|bar; pub}}
+#: {{zh-x|貼吧{bā}|internet board (''lit.'' posting '''bar''')}}
+#: {{zh-x|迪吧{bā}|disco}}
+# {{zh-abbrev|貼吧|internet board}}
+# {{non-gloss definition|[[transliteration]] character}}
+#: {{zh-x|迪吧{bā}|diva}}
 
-====Syllable====
-{{head|zh|syllable}}
-
-# {{non-gloss definition|[[transliteration]] for ''ba'' or ''bar''}}
-#: {{zh-x|貼吧|internet board}}
-#: {{zh-x|迪吧|diva}}
-
-====Derived terms====
-* {{zh-der|吧臺|迪吧|酒吧|貼吧|網吧}}
+====Compounds====
+{{zh-der|吧臺|迪吧|酒吧|貼吧|網吧}}
 
 ----
 
