@@ -10,12 +10,32 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=fan1|y=fan1}}
+===Pronunciation===
+{{zh-pron
+|m=fēn
+|c=fan1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
 
-# {{defn|lang=yue|sort=气04}}
+===Noun===
+{{zh-noun}}
+
+# [[miasma]], [[vapor]], [[atmosphere]]
+
+====Compounds====
+* {{zh-l|氛圍}}
+
+===References===
+* {{R:cedict}}
 
 ----
 
@@ -37,31 +57,6 @@
 {{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
 
 # {{defn|lang=ko|sort=气04}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[fēn]] ([[fen1]])|wg=fen<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=气04}}
-
-===Noun===
-{{cmn-noun|ts|pin=fēn|pint=fen1}}
-
-# [[miasma]], [[vapor]], [[atmosphere]]
-
-====Compounds====
-* [[氛圍]]
-
-===References===
-* {{cite-web
-|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=氛
-|title=氛
-|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
-|language=Mandarin/English
-|accessdate=2014-03-02}}
 
 [[fr:氛]]
 [[hu:氛]]
