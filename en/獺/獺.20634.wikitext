@@ -25,18 +25,38 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=犬16}}
 
-# {{defn|lang=ja|sort=犬16}}
+# [[otter]]
 
 ====Readings====
-* {{ja-readings|kanyoon=[[だつ]] (datsu)|goon=[[たち]] (tachi)|kanon=[[たつ]] (tatsu)|kun=[[うそ]] (uso), [[おそ]] (oso), [[かわうそ]] (kawauso)}}
+* {{ja-readings|kanyoon=[[だつ]] (datsu)|goon=[[たち]] (tachi)|kanon=[[たつ]] (tatsu)|kun=[[うそ]] (uso), [[おそ]] (oso), [[かわうそ]] (kawauso), [[かわおそ]] (kawaoso)}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|おそ|yomi=k}}
+{{ja-kanjitab|うそ|yomi=k}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|acc=a|y=k|うそ}}
+
+====Noun====
+{{ja-noun|うそ}} {{ja-altread|hira=おそ|hhira=をそ}}
+
+# an [[otter]]
+
+[[Category:ja:Mustelids|うそ]]
+
+===Etymology 2===
+{{ja-kanjitab|かわおそ|yomi=k}}
 {{ja-kanjitab|かわうそ|yomi=k}}
-{{ja-noun|かわうそ|カワウソ|hhira=かはうそ}}
+{{compound|ja|川|獺|tr1=kawa|t1=[[river]]|tr2=uso|t2=[[otter]]|sort=かわうそ}}
 
-# {{alternative spelling of|川獺|lang=ja}}
+====Pronunciation====
+{{ja-pron|acc=h|y=k|かわうそ}}
 
-[[Category:ja:Mustelids|かわうそ]]
+====Noun====
+{{ja-noun|かわうそ|カワウソ|hhira=かはうそ}}<br>{{ja-altread|hira=かわおそ|kata=カワオソ|hhira=かわをそ}}
+
+# {{alternative spelling of|川獺|lang=ja||[[otter]]}}
 
 ----
 
