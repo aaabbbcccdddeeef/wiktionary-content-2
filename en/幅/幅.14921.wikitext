@@ -48,7 +48,7 @@
 # [[shin]] [[guard]]
 
 ====Readings====
-* {{ja-readings|on=[[ふく]] (fuku), [[ひょく]] (hyoku)|kun=[[はば]] (haba)}}
+{{ja-readings|goon=[[ふく]] (fuku)|kanon=[[ふく]] (fuku)|kun=[[はば]] (haba)}}
 
 ====Compounds====
 * {{ja-r|幅員|ふくいん}}
@@ -70,15 +70,38 @@
 |tuttle=3f9.2
 }}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|はば|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|はば|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|はば}}
 
-# [[width]]; [[breadth]]
+# [[width]], [[breadth]]
 # free room
 # [[difference]] (between two substances)
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 幅]]
+===Etymology 2===
+{{ja-kanjitab|ふく|yomi=o}}
+From {{etyl|ltc|ja|sort=ふく}} {{m|zh|幅|tr=pjuwk}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ふく|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+====Counter====
+{{ja-pos|counter|ふく}}
+
+# counter for [[scroll]]s
+
+====Noun====
+{{ja-noun|ふく}}
+
+# [[scroll]]
+
+===References===
+<references/>
 
 ----
 
