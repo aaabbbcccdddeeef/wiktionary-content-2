@@ -54,7 +54,7 @@
 ===Verb===
 {{zh-verb}}
 
-# {{label|zh|classical|literary|sort=shu1}} to [[write]]
+# {{lb|zh|classical|literary|sort=shu1}} to [[write]]
 
 ===Proper noun===
 {{zh-proper noun}}
@@ -62,7 +62,7 @@
 # {{zh-abbrev|書經|the ''{{w|Classic of History}}''}}
 
 ====Compounds====
-{{zh-der|書包|書報|書背|書本|書本兒|書冊|書茶館兒|書場|書癡|書蟲|書櫥|書呆子|書店|書蠹|書法|書房|書扉|書稿|書格子|書歸正傳|書櫃|書函|書號|書號兒|書畫|書會|書籍|書脊|書記|書家|書架|書簡|書柬|書局|書卷|書卷氣|書刊|書殼|書庫|書吏|書錄|書眉|書迷|書面|書面語|書名|書名號|書目|書皮|書皮兒|書評|書舖|書籤|書籤兒|書社|書生|書生氣|書市|書塾|書攤|書攤兒|書壇|書套|書體|書亭|書僮|書屋|書物|書香|書箱|書寫|書心|書信|書頁|書院|書齋|書展|書桌|書桌兒|圖書館}}
+{{zh-der|傳道書|書包|書報|書背|書本|書本兒|書冊|書茶館兒|書場|書癡|書蟲|書櫥|書呆子|書店|書蠹|書法|書房|書扉|書稿|書格子|書歸正傳|書櫃|書函|書號|書號兒|書畫|書會|書籍|書脊|書記|書家|書架|書簡|書柬|書局|書卷|書卷氣|書刊|書殼|書庫|書吏|書錄|書眉|書迷|書面|書面語|書名|書名號|書目|書皮|書皮兒|書評|書舖|書籤|書籤兒|書社|書生|書生氣|書市|書塾|書攤|書攤兒|書壇|書套|書體|書亭|書僮|書屋|書物|書香|書箱|書寫|書心|書信|書頁|書院|書齋|書展|書桌|書桌兒|圖書館}}
 
 ===References===
 * {{R:cedict}}
@@ -75,7 +75,7 @@
 {{ja-kanji|grade=2|rs=曰06}}
 
 ====Readings====
-* {{ja-readings|goon=[[しょ]] (sho)|kanon=[[しょ]] (sho)|kun=[[かく]] ([[書く]], kaku), [[がき]] (gaki)}}
+{{ja-readings|goon=[[しょ]] (sho)|kanon=[[しょ]] (sho)|kun=[[かく]] ([[書く]], kaku), [[がき]] (gaki)}}
 
 ====Compounds====
 {{top3}}
@@ -113,6 +113,7 @@
 * {{ja-r|草書|そうしょ}}
 * {{ja-r|叢書|そうしょ}}
 * {{ja-r|縦書|たてがき}}
+* {{ja-r|伝道の書|^でんどう の ^しょ|[[Ecclesiastes]]}}
 * {{ja-r|読書|どくしょ}}
 * {{ja-r|図書|としょ}}
 * {{ja-r|図書館|としょかん}}
@@ -125,10 +126,34 @@
 * {{ja-r|和書|わしょ}}
 {{bottom}}
 
-===Suffix===
-{{ja-pos|しょ|suffix}}
+===Etymology 1===
+{{ja-kanjitab|しょ|yomi=o}}
+From {{etyl|ltc|ja|sort=しょ}} {{m|zh|書|tr=syo||writing}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|しょ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しょ}}
 
 # [[document]]
+
+===Etymology 2===
+{{ja-kanjitab|ふみ|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ふみ|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}
+
+====Alternative forms====
+* {{ja-l|文}}
+
+====Noun====
+{{ja-noun|ふみ}}
+
+# [[letter]]
+
+===References===
+<references/>
 
 ----
 
@@ -140,7 +165,8 @@
 # {{defn|lang=ko|sort=曰06}}
 
 ====Compounds====
-* [[書店]] ([[서점]], seojeom)
+* {{ko-l|^전도서|[[Ecclesiastes]]|傳道書}}
+* {{ko-l|서점|書店}}
 
 ----
 
