@@ -12,7 +12,7 @@
 {{zh-forms}}
 
 ===Etymology 1===
-From {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.
+From {{der|zh|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -27,7 +27,7 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.
 # an [[:w:Chinese numbers#Numeral characters|accounting version]] of the numeral eight that is otherwise written as {{zh-l|八|tr=-}}
 
 ===Etymology 2===
-From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-l|別}}.
+From {{der|zh|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-l|*別}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -38,49 +38,40 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. C
 |cat=v,n
 }}
 
-=====Noun=====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
-# (= {{zh-l|朳}}) [[toothless]] [[rake]]
+# {{zh-alt-form|朳|toothless rake}}
+# {{zh-alt-form|扒|to break open, split open}}
 
-=====Verb=====
-{{zh-verb}}
+===Etymology 3===
+Min dialectal word for "to know".
 
-# (= {{zh-l|扒}}) to [[break]] [[open]], [[split]] open
+Austroasiatic substrate influence; may be related to {{zh-l|*別|to split; to differentiate}}. Cognate with {{cog|vi|biết||to know}}, {{cog|mtq|mắt||to know}}, Proto-Bahnaric ''*băt'' ("to remember, to know").
+
+Many variant written forms exist, including {{zh-l|*別}}, {{zh-l|*八}}, {{zh-l|*仈}}, {{zh-l|*白}}, {{zh-l|*識|to know}} and {{zh-l|*曾|already}}. {{lang|zh|捌}} is [http://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia294pdf.pdf recommended] by Taiwan's Ministry of Education.
 
 ====Pronunciation====
 {{zh-pron
-|mn=pat/bat
+|md=báik
+|mn=bat/pat
 |mn-t=bag4
 |cat=v,adv
 }}
 
-=====Alternative forms=====
-* {{zh-l|別|tr=-}}
-* {{zh-l|八|tr=-}}
-* {{qualifier|to know|to be familiar with}} {{zh-l|識|tr=-}}
-* {{qualifier|already}} {{zh-l|曾|tr=-}}
+====Definitions====
+{{zh-hanzi}} {{tcx|lang=zh|Min}}
 
-=====Verb=====
-{{zh-verb}}
+# to [[know]]; to [[recognise]]; to be [[familiar]] with
+#: {{zh-x|捌字|to '''know''' how to read|tr=báik-cê|MD}}
+# to [[know]] (somebody)
+#: {{zh-x|伓捌|to not '''know''' (someone)|tr=ng-báik|MD}}
+# [[already]], [[previously]]
+#: {{zh-x|捌曾|''a term denoting past tense''|tr=báik-cèng|MD}}
+#: {{zh-x|捌 做 過|to have done something '''already'''|tr=bat-tsò-kuè|MN}}
 
-# {{label|zh|Min Nan}} to [[know]] somebody; to [[recognize]]
-# {{label|zh|Min Nan}} to be [[familiar]] with
-
-=====Adverb=====
-{{zh-adv}}
-
-# {{label|zh|Min Nan}} [[already]], [[previously]]
-
-=====Compounds=====
+====Compounds====
 {{zh-der|捌字|捌貨|捌想|毋捌|相捌}}
-
-=====See also=====
-* {{zh-l|認識}}
-
-===References===
-* {{qual|Min Nan}} {{thcwda|294}}
-* {{qual|Min Nan}} {{thcwd|6014}}
 
 ----
 
