@@ -27,24 +27,30 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{gloss|sentence final particle indicating a reciprocal question; used to apply the previously asked question to a new subject}} What about ...?; And ...?
+# {{n-g|Sentence-final particle indicating a reciprocal question; used to apply the previously asked question to a new subject.}} What about ...?; And ...?
 #* {{zh-x|你 呢？|'''How about''' you?}}
 #* {{zh-x|你 覺得 呢？|'''What do''' you think?}}
 #* {{zh-x|你 爸爸{ba} 好 嗎？^你 媽媽{ma} '''呢'''？|How is your father? '''And''' your mom?}}
-# {{gloss|sentence final particle signaling a pause, to emphasize the preceding words}}
-# {{gloss|sentence final particle indicating action in progress, English [[present continuous]]}} to be ...[[-ing]]
+# {{n-g|Sentence-final particle signalling a pause, to emphasize the preceding words.}}
+# {{n-g|Sentence-final particle indicating action in progress, English [[present continuous]].}} to be ...[[-ing]]
 #* {{zh-x|我們 上 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}
-# {{gloss|sentence final particle used to make questions more indirect, to give the impression that the speaker is speaking to themself}}
+# {{n-g|Sentence-final particle used to make questions more indirect, to give the impression that the speaker is speaking to themselves.}}
 #* {{zh-x|他 去 哪兒{r} 了 呢？|I wonder where he's going?}}
 
 =====Usage notes=====
 When expressing an action in progress, 呢 can be used with {{zh-l|正在}} and {{zh-l|著/着}} in a sentence. This is the full pattern. Each part is optional.
-: {{zh-x|我們 '''正在''' 上'''著'''[着]{zhe} 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}
+: {{zh-x|我們 '''正在''' 上 '''著'''[着]{zhe} 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}
 
 =====Compounds=====
 * {{zh-l|呢喃}}
 
 ===Etymology 2===
+Substrate word. Compare:
+* {{cog|tai-pro|*najᶜ||this}}: {{cog|za|neix||this}}, {{cog|th|นี้||this}}, {{cog|lo|ນີ້||this}}
+* {{cog|mkh-pro|*niʔ ~ nih||this}}: {{cog|km|នេះ||this}}
+* {{cog|mkh-pro|*naaj||''deictic particle''}}: {{cog|km|នាយ||over there}}, {{cog|vi|này}}, {{m|vi|nầy||this}}, {{cog|vi|nay||now}}, {{cog|vi|nấy||that}}
+* {{cog|hmx-pro|*ʔneinˣ||this}}: {{cog|mww|no||here, this}}
+* {{cog|map-pro|*nay||''deictic particle'': this}}, {{m|map-pro|*qani||''proximal deictic'': this}}, {{m|map-pro|*-ni||''proximal spatio-temporal deixis'': this, here; now}}: {{cog|ms|ini||this}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -62,22 +68,6 @@ When expressing an action in progress, 呢 can be used with {{zh-l|正在}} and 
 
 =====Synonyms=====
 * {{zh-l|咿|tr=ji1}}
-
-===References===
-* {{cite-web
-|url=http://resources.allsetlearning.com/chinese/grammar/Expressing_actions_in_progress_(full_form)
-|title=Expressing actions in progress (full form)
-|work=Chinese Grammar Wiki
-|language=Mandarin/English}}
-* {{cite-web
-|url=http://resources.allsetlearning.com/chinese/grammar/Softening_the_tone_of_questions_with_%22ne%22
-|title=Softening the tone of questions with "ne"
-|work=Chinese Grammar Wiki
-|language=Mandarin/English}}
-* {{cite-web
-|url=http://www.cantonese.sheik.co.uk/dictionary/characters/1029/
-|title=CantoDict
-|language=Mandarin/English}}
 
 {{zh-cat|Beginning}}
 
