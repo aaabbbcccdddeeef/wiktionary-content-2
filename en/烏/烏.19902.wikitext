@@ -64,14 +64,14 @@ Sense “black, dark” generalized from crow – “black as a crow”. Compare
 * {{zh-l|烏龜}}
 * {{zh-l|烏龍|tr=wūlóng}}
 
-{{zh-cat|Birds}}
+{{zh-cat|Corvids}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=火06}}
+{{ja-kanji|rs=火06}}
 
 ====Readings====
 {{ja-readings
@@ -85,8 +85,12 @@ Sense “black, dark” generalized from crow – “black as a crow”. Compare
 {{der-top|Compounds}}
 * {{ja-r|烏賊|いか}}: [[squid]], [[cuttlefish]]
 * {{ja-r|屋烏|おく.う}}: [[crow]] perching on a [[roof]]
+* {{ja-r|烏喙骨|うかいこつ}}: [[coracoid]] {{gloss|bone}}
 * {{ja-r|烏合|うごう}}
+* {{ja-r|烏口骨|うこうこつ}}: [[coracoid]] {{gloss|bone}}
 * {{ja-r|烏合の衆|うごう の しゅう}}: a [[rabble]], a [[mob]], a [[disorderly]] [[crowd]]
+* {{ja-r|烏骨鶏|うこっけい}}: [[silky]], [[silkie]] {{gloss|breed of chicken}}
+* {{ja-r|烏啄骨|うたくこつ}}: [[coracoid]] {{gloss|bone}}
 {{der-bottom}}
 
 ===Etymology 1===
@@ -115,19 +119,44 @@ This is the most common reading for this character when used in isolation in mod
 
 {{U:ja:biology|カラス}}
 
-====Derived terms====
+=====Synonyms=====
+* {{ja-r|慈鳥|じちょう}}
+
+=====Derived terms=====
 {{der-top}}
+* {{ja-r|烏が鵜の真似|からす が う の まね}}
 * {{ja-r|烏座|^からすざ}}: [[Corvus]]
 * {{ja-r|烏の行水|からす の ぎょうずい}}: a [[quick]] [[bath]]
 * {{ja-r|濡烏|ぬれがらす}}: jet-black
 * {{ja-r|八咫烏|やたがらす}}: [[w:Yatagarasu|a flying creature in Japanese mythology]]
+* {{ja-r|渡烏|わたりがらす}}: [[common raven]]
 {{der-bottom}}
 
 ===References===
 <references/>
 
 [[Category:1000 Japanese basic words|からす]]
-[[Category:ja:Birds|からす]]
+[[Category:ja:Corvids|からす]]
+
+----
+
+==Kikai==
+
+===Kanji===
+{{head|kzg|kanji|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā}}
+
+===Etymology===
+Cognate with mainland {{etyl|ja|-}} {{m|ja|烏|tr=karasu}}.
+
+===Alternative forms===
+* {{l|kzg|鴉}}
+
+===Noun===
+{{head|kzg|noun|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā}}
+
+# [[crow]], [[raven]]
+
+[[Category:kzg:Corvids|からさあ']]
 
 ----
 
@@ -140,12 +169,72 @@ This is the most common reading for this character when used in isolation in mod
 
 ----
 
+==Northern Amami-Oshima==
+
+===Kanji===
+{{head|ryn|kanji|hiragana|からすぃ|romaji|karasi}}
+
+===Etymology===
+Cognate with mainland {{etyl|ja|-}} {{m|ja|烏|tr=karasu}}.
+
+===Alternative forms===
+* {{l|ryn|鴉}}
+
+===Noun===
+{{head|ryn|noun|hiragana|からすぃ|romaji|karasi}}
+
+# [[crow]], [[raven]]
+
+[[Category:ryn:Corvids|からすぃ]]
+
+----
+
+==Oki-No-Erabu==
+
+===Kanji===
+{{head|okn|kanji|hiragana|がらし|romaji|garashi}}
+
+===Etymology===
+Cognate with mainland {{etyl|ja|-}} {{m|ja|烏|tr=karasu}}.
+
+===Alternative forms===
+* {{l|okn|鴉}}
+
+===Noun===
+{{head|okn|noun|hiragana|がらし|romaji|garashi}}
+
+# [[crow]], [[raven]]
+
+[[Category:okn:Corvids|からし']]
+
+----
+
 ==Vietnamese==
 
 ===Han character===
 {{vi-hantu|[[ô]], [[o]], [[dặng]]|rs=火06}}
 
 # {{defn|lang=vi|sort=火06}}
+
+----
+
+==Yonaguni==
+
+===Kanji===
+{{head|yoi|kanji|hiragana|がらち|romaji|garachi}}
+
+===Etymology===
+Cognate with mainland {{etyl|ja|-}} {{m|ja|烏|tr=karasu}}.
+
+===Alternative forms===
+* {{l|yoi|鴉}}
+
+===Noun===
+{{head|yoi|noun|hiragana|がらち|romaji|garachi}}
+
+# [[crow]], [[raven]]
+
+[[Category:yoi:Corvids|からち']]
 
 [[zh-min-nan:烏]]
 [[bg:烏]]
