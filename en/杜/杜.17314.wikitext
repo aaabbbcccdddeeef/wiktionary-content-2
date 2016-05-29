@@ -3,6 +3,10 @@
 ===Han character===
 {{Han char|rn=75|rad=木|as=03|sn=7|four=44910|canj=DG|ids=⿰木土}}
 
+# [[stop]], [[prevent]]
+# [[restrict]]
+# {{surname|lang=zh}}
+
 ====References====
 * {{Han ref|kx=0512.090|dkj=14477|dj=0897.100|hdz=21157.020|uh=675C}}
 
@@ -15,23 +19,19 @@
 {{zh-pron
 |m=dù
 |c=dou6
+|h=pfs=
+|md=
 |mn=tō͘
+|w=
 |mc=y
 |oc=y
-|ma=
-|cat=v,pn
+|cat=
 }}
 
 ===Definitions===
-# [[stop]], [[prevent]]
-# [[restrict]]
-# {{surname|lang=zh}}
+{{zh-hanzi}}
 
-====Proper noun====
-[[杜甫]] (''pinyin'' [[dù|Dù]] [[fǔ|Fǔ]]; ''Wade-Giles'' Tu<sup>4</sup> Fu<sup>3</sup>)
-# [[w:Du Fu|Du Fu]] (712–770): a [[Chinese]] [[poet]]
-
-{{attention|zh|weird formatting}}
+# {{rfdef|lang=zh}}
 
 ----
 
@@ -48,42 +48,26 @@
 * {{ja-readings|goon=[[ず]] (zu)|kanon=[[と]] (to)|kun=[[もり]] (mori), [[ふさぐ]] (fusagu), [[やまなし]] (yamanashi)}}
 
 ====Compounds====
-* [[杜撰]] ([[ずさん]], zusan): [[careless]], [[slipshod]], [[faulty]]
-* [[杜松]] ([[ねず]], nezu): {{taxlink|Juniperus rigida|species|noshow=1}} ({{vern|temple juniper|pedia=1}})
-* [[杜氏]] ([[とじ]], toji): chief [[brewer]] at a [[sake]] [[brewery]]
-* [[杜漏]] ([[ずろう]], zurō): [[careless]], [[negligent]]
-* [[杜絶]]/[[途絶]] ([[とぜつ]], tozetsu): [[stoppage]]; [[interruption]]; [[cessation]]; [[suspension]]
-* [[杜若]] ([[かきつばた]], kakitsubata): {{taxlink|Iris laevigata|species|noshow=1}} ({{vern|rabbit-ear iris|pedia=1}})
+* {{ja-r|杜撰|ずさん}}: [[careless]], [[slipshod]], [[faulty]]
+* {{ja-r|杜松|ねず}}
+* {{ja-r|杜氏|とじ}}: chief [[brewer]] at a [[sake]] [[brewery]]
+* {{ja-r|杜漏|ずろう}}: [[careless]], [[negligent]]
+* {{ja-r|杜絶|とぜつ}}, {{ja-r|途絶|とぜつ}}: [[stoppage]]; [[interruption]]; [[cessation]]; [[suspension]]
+* {{ja-r|杜若|かきつばた}}
 
 ====Derived terms====
-* {{l|ja|杜撰脱漏}} ([[ずさんだつろう]], zusandatsurō): careless (slipshod) and with many omissions
-* {{l|ja|杜の都}} ([[もりのみやこ]], mori no miyako): lit. City of Trees. Nickname for [[w:Sendai, Japan|Sendai, Japan]]
-* {{l|ja|鎮守の杜}} ([[ちんじゅのもり]], chinju no mori): [[grove]] of the [[village]] [[shrine]]
+* {{ja-r|杜撰脱漏|ずさんだつろう}}: careless (slipshod) and with many omissions
+* {{ja-r|杜の都|もり の みやこ}}: lit. City of Trees. Nickname for [[w:Sendai, Japan|Sendai, Japan]]
+* {{ja-r|鎮守の杜|ちんじゅ の もり}}: [[grove]] of the [[village]] [[shrine]]
 
 ====Synonyms====
-* {{l|ja|森}} ([[もり]], mori)
-* {{l|ja|途}} ([[と]], to)
-
-====References====
-{{ja-kref
-|ku=3746
-|shift=936d
-|jis=454E
-|euc=C5CE
-|skip=1-4-3
-|freq=2062
-|nelson=2188
-|newnelson=2560
-|halpern=835
-|kld=559
-|heisig=2500
-|tuttle=4a3.1
-}}
+* {{ja-r|森|もり}}
+* {{ja-r|途|と}}
 
 ====Usage notes====
 杜 is included in a planned expansion of the general use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government.
 * The Japan Times (October 21, 2009). ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010.
-{{attention|ja|It's 2015. What is the result?}}
+{{attention|ja|It's {{CURRENTYEAR}}. What is the result?}}
 
 ===Noun===
 {{ja-noun|やまなし}}
@@ -93,7 +77,7 @@
 ===Proper noun===
 {{ja-pos|proper|と}}
 
-# [[杜甫]] ([[とほ]], To Ho): {{w|Du Fu}} (712–770), a [[Chinese]] [[poet]]
+# {{ja-r|杜甫|とほ}}, a [[Chinese]] [[poet]]
 
 ----
 
