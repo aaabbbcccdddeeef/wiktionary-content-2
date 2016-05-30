@@ -15,69 +15,87 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=ā,á,ǎ,à,a
-|c=aa1,aa2,aa3,aa4
-|h=pfs=a
-|mn=--ah
-|w=
-|mc=
-|oc=
+|m=ā
+|c=
 |ma=Zh-ā.ogg
-|ma2=Zh-a.ogg
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used by itself to express surprise.}} [[ah]], [[oh]], [[ha]]
+#: {{zh-x|'''啊{Ā}'''！我 又 贏 了！|'''Ha'''! I've won again!}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=á
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used to indicate doubt or questioning.}} [[what]]?, [[huh]]?, [[eh]]
+#: {{zh-x|'''啊{Á}'''？你 說 什麼？|Huh, what did you say?}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=ǎ
 |cat=intj,part
 }}
 
-===Interjection===
-{{cmn-interj|ts|pin=[[ā#Mandarin|ā]]|pint=a1}} {{attention|cmn|have multiple zh-pron boxes for each pronunciation?}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{non-gloss definition|(used by itself to express surprise)}} [[ah]], [[oh]], [[ha]]
-#: {{zh-x|'''啊{Ā}'''！我 又 贏 了！|'''Ha'''! I've won again!}}
-
-===Interjection===
-{{cmn-interj|ts|pin=[[ǎ#Mandarin|ǎ]]|pint=a3}}
-
-# {{non-gloss definition|(indicating puzzled surprise)}} [[what]]? [[oh]]? [[huh]]?
+# {{n-g|Used to indicate puzzled surprise.}} [[what]]? [[oh]]? [[huh]]?
 #: {{zh-x|'''啊{Ǎ}'''！真 有 這 事兒{r}？|What? Is that really so?}}
 
-===Interjection===
-{{cmn-interj|ts|pin=[[á#Mandarin|á]]|pint=a2}}
+===Pronunciation 4===
+{{zh-pron
+|m=à
+|cat=intj
+}}
 
-# {{non-gloss definition|(indicating doubt or questioning)}} [[what]]?, [[huh]]?, [[eh]]
-#: {{zh-x|'''啊{Á}'''？你 說 什麼？|Huh, what did you say?}}
+====Definitions====
+{{zh-hanzi}}
 
-===Interjection===
-{{cmn-interj|ts|pin=[[à#Mandarin|à]]|pint=a4}}
-
-# {{non-gloss definition|(indicating agreement/approval)}} [[ah]]
+# {{n-g|Used to indicate agreement/approval.}} [[ah]]
 #: {{zh-x|'''啊{À}'''，好 吧。|Well, OK.}}
 
-===Particle===
-{{cmn-particle|ts|pin=[[a#Mandarin|a]]|pint=a}}
+===Pronunciation 5===
+{{zh-pron
+|m=a
+|ma=Zh-a.ogg
+|cat=part
+}}
 
-# {{non-gloss definition|sentence-final particle expressing surprise}}
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Sentence-final particle expressing surprise.}}
 #: {{zh-x|你 不 來 '''啊{a}'''？|So you're not coming?}}
-# {{non-gloss definition|sentence-final particle expressing exclamation, excitement or enthusiasm}}
-#: {{zh-x|多 好 天兒{r} '''啊{a}'''！|What a fine day!}}
+# {{n-g|Sentence-final particle expressing exclamation, excitement or enthusiasm.}}
+#: {{zh-x|多 好 的 天兒{r} '''啊{a}'''！|What a fine day!}}
 #: {{zh-x|謝謝 '''啊{a}'''|Thanks.}}
-# {{non-gloss definition|sentence-final particle softening the request}}
+# {{n-g|Sentence-final particle softening the request.}}
 #: {{zh-x|老 ^王 '''啊{a}'''，這 可 不行 '''啊{a}'''！|Wang, this won't do!}}
-# {{non-gloss definition|used in enumerations, for confirmation (often untranslated)}}
+# {{n-g|Used in enumerations, for confirmation (often untranslated).}}
 #: {{zh-x|錢 '''啊{a}'''，書 '''啊{a}'''，表 '''啊{a}'''，我 都 丟 了。|Money, books, watch, I lost everything.}}
 # [[on and on]], [[continuously]]
 
 ====Usage notes====
-* Only used after words ending in ''-ng, ci, zi, si, chi, zhi, shi.'' See {{zh-l|呀|tr=ya}}, {{zh-l|哇|tr=wa}}, {{zh-l|哪|tr=na}}, {{zh-l|啦|tr=la}}.
+In speech, this toneless particle is found in complementary distribution with several other particles, governed by the nature of the preceding syllable. However, this distinction is not strictly reflected in writing, and {{lang|zh|啊}} tends to an all-encompassing particle. Thus it may carry the pronunciation of any of its variants below in actual speech:
 
-====Synonyms====
-* {{zh-l|呀|tr=ya}} {{q|after '' -a, -o, -e, -i, -ü''}}
-* {{zh-l|哇|tr=wa}} {{q|after ''-u, -ao''}}
-* {{zh-l|哪|tr=na}} {{q|after ''-n''}}
+* ''-ng, ci, zi, si, chi, zhi, shi'' + [a] → {{lang|zh|啊}} [a]
+* ''-a, -o, -e, -i, -ü'' + [a] → {{zh-l|*呀}} [ya]
+* ''-u, -ao'' + [a] → {{zh-l|*哇}} [wa]
+* ''-n'' + [a] → {{zh-l|*哪}} [na]
 
-===References===
-* {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=29415&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+===Compounds===
+{{zh-der|啊呀|啊哈|啊唷|啊喲}}
 
 {{zh-cat|Beginning}}
 
