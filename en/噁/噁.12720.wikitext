@@ -14,9 +14,11 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=恶}}
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|s=恶|t2=惡}}
+
+====Pronunciation====
 {{zh-pron
 |m=ě
 |c=ok3,wu3
@@ -29,13 +31,30 @@
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{zh-only used in|噁心/恶心}}
-# {{n-g|Used as a transliteration character in chemistry:}} [[oxy-|ox(y)-]]
 
-====Derived terms====
+===Etymology 2===
+{{zh-forms|s=𫫇}}
+
+====Pronunciation====
+{{zh-pron
+|m=è,ě,2nb=Taiwan
+|c=ok3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+# {{lb|zh|chemistry}} {{n-g|Used as a transliteration character in chemistry:}} [[oxy-|ox(y)-]]
+
+====Compounds====
 {{zh-der|二噁烷|二噁英|噁丁環|噁唑|噁唑烷|噁庚因|噁庚英|噁唑啉}}
 
 {{zh-cat|Chemistry}}
