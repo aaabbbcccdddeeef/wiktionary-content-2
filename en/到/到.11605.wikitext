@@ -14,62 +14,54 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han compound|至|刀|ls=psc|c1=p|c2=s|t1=to arrive}}
+
 ===Etymology 1===
 
 ====Pronunciation====
 {{zh-pron
 |m=dào
-|ma=zh-dào.ogg
+|ma=y
 |c=dou3,dou3-2
-|c_note=dou<sup>3-2</sup> is only used for the first sense under "Particle"
+|c_note=dou<sup>3-2</sup> - "''verbal suffix including action completion''".
 |h=pfs=to
 |mn=tàu/tò
 |mn_note=tàu - vernacular; tò - literary
 |w=2tau
 |mc=y
 |oc=y
-|cat=part,prep,v,adj
+|cat=v,part,prep,adj
 }}
 
-====Particle====
-{{zh-particle}}
+===Definitions===
+{{zh-hanzi}}
 
-# {{non-gloss definition|a verbal suffix that indicates the (successful) completion of an action|link=y}}
+# to [[go]] to
+#: {{zh-x|我 到 機場 接 你。|I'll '''go to''' the airport to pick you up.}}
+# to [[arrive]] at a [[destination]]; to [[reach]] a destination; to [[get to]]
+#: {{zh-x|火車 到 了|The train has '''arrived'''.}}
+# {{n-g|a verbal suffix that indicates the (successful) completion of an action|link=y}}
 #: {{zh-x|找到|to find (to search + completion)}}
 #: {{zh-x|做到|to achieve, to accomplish (to do + completion)}}
 #: {{zh-x|聽到|to hear (to listen + completion)}}
-#: {{zh-x|你 怎麼 沒有 聽 到 我 的 敲門 聲？|How did you not hear my knocking on the door?}}
+#* {{zh-x|你 怎麼 沒有 聽 到 我 的 敲門 聲？|How did you not hear my knocking on the door?}}
 # {{lb|zh|Mandarin|Cantonese|Hakka}} to the extent that
 #: {{zh-x|佢 嘈 到 我 瞓 唔 著[着]{zoek6}。|He is '''so''' noisy '''that''' I couldn't go to sleep.|C}}
+# [[to]] (a place)
+#: {{zh-x|他 到 中國 去 了。|He has gone '''to''' China.}}
+#: {{zh-x|我 最近 搬 到 這 個 地區。|I recently moved '''to''' this area.}}
+# [[until]] (a time), [[up to]], [[to]]
+#: {{zh-x|這 家 店 從 9 點 開 到 18 點。|This shop is open from 9 '''to''' 6 o'clock.}}
+#* {{zh-x|我們 要 把 假{jià}期 推遲 到 天氣 好些 的 時候。|We shall delay our holiday '''until''' the weather is better.}}
 
 =====Synonyms=====
 * {{sense|verbal suffix indicating completion}} {{q|Min Nan}} {{zh-l|著|tio̍h}}
 
-====Preposition====
-{{zh-prep}}
-
-# [[to]] (a place)
-#: {{zh-x|他 到 中國 去 了。|He has gone '''to''' China.}}
-#: {{zh-x|我 最近 搬 到 這 個 地區。|I recently moved '''to''' this area.}}
-# [[until]] (a time), [[up to]]
-#: {{zh-x|這 家 店 從 9 點 開 到 18 點。|This shop is open from 9 '''to''' 6 o'clock.}}
-#: {{zh-x|我們 要 把 假{jià}期 推遲 到 天氣 好些 的 時候。|We shall delay our holiday '''until''' the weather is better.}}
-
-====Verb====
-{{zh-verb}}
-
-# to [[go]] to {{rfex|lang=zh}}
-#: {{zh-x|我 到 機場 接 你。|I'll '''go to''' the airport to pick you up.}}
-# to [[arrive]] at a [[destination]]; to [[reach]] a destination; to [[get to]]
-#: {{zh-x|火車 到 了|The train has '''arrived'''.}}
-
 ===Etymology 2===
 
 ====Alternative forms====
-* {{zh-l|遘|tr=-}}
-* {{zh-l|告|tr=-}}
-* {{zh-l|至|tr=-}}
-* {{zh-l|甲|tr=-}}
+* {{zh-l|遘|tr=-}}, {{zh-l|告|tr=-}}, {{zh-l|至|tr=-}}, {{zh-l|甲|tr=-}}
 * {{qualifier|rare}} {{zh-l|各|tr=-}}, {{zh-l|格|tr=-}}, {{zh-l|𢓜|tr=-}}, {{zh-l|佫|tr=-}}, {{zh-l|徦|tr=-}}, {{zh-l|假|tr=-}}, {{zh-l|臵|tr=-}}
 
 ====Pronunciation====
@@ -80,20 +72,18 @@
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}} {{tcx|Min|lang=zh}}
+====Definitions====
+{{zh-hanzi}} {{tcx|Min|lang=zh}}
 
 # to [[arrive]]
 #: {{zh-x|伊 到 厝 矣。|He has [[arrived]] home.|MN|tr=I '''kàu''' chhù--ah.}}
 # {{lb|zh|mahjong|playing cards}} to complete a winning hand
 
-===References===
-* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=42663&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
-* [http://hakka.dict.edu.tw/hakkadict/index.htm Dictionary of Frequently-Used Taiwan Hakka]
-* {{thcwd|3607}}
-* {{R:hak:Lau 1997}}
-* Zhou, Changji (ed.). ''Minnan Fangyan Da Cidian'' (Chinese). [[Fuzhou]]: Fujian People's Publishing House, 2006. ISBN 7-211-03896-9.
+====References====
 * [https://taiwanlanguage.wordpress.com/2011/10/08/%E5%88%B0%CB%99%E5%90%84%EF%BC%88kau%CA%9F%EF%BC%89%E2%94%80%E2%94%80%E5%88%B0%E3%80%81%E4%BE%86%E5%88%B0/ 台灣話的語源與理據：到˙各（kauʟ）──到、來到]
+
+===Compounds===
+{{zh-der|一到處|一天到晚|一年到頭|三到|不到|不到家|不到得|不到的|不到頭|不周到|乍到|事到如今|事到臨頭|便做到|做到|先來後到|到不的|到任|到場|到大來|到家|到岸價格|到差|到底|到得|到手|到敢|到時|到期|到案|到此一遊|到省|到眼|到職|到臨|到處|到處奔走|到處為家|到達|到達簽證|到頭|到頭來|到齊|吃到飽|周到|周旋到底|堅持到底|報到|巴到|待到|得到|從頭到尾|從頭到腳|心到神知|恰到好處|想不到|意到筆隨|意想不到|慎到|懇到|手到回春|手到拿來|手到擒來|手到病除|打到|找到|把不到|投到|抬到天上|掄不到|損到家|搔到癢處|料不到|料到|新來乍到|旗開馬到|更做到|木雞養到|水到渠成|沒想到|獨到|獨到之處|獨到之見|白頭到老|百年到老|直到|碰到|禍到臨頭|禮數周到|窮到骨|等到|簽到|精到|老到|老成見到|臨到|藥到回春|藥到病除|見到|說到做到|讀書三到|走馬到任|趕到|踢到鐵板|辦不到|辦到|逕到|遇到|過到|達到|遲到|門到戶說|面面俱到|頭到|馬到成功|點到為止}}
 
 {{zh-cat|Beginning}}
 
