@@ -2,9 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{liushu|p}} – an image of a baby wrapped in a blanket, with only the head visible. Compare with [[子]], where the arms are visible.
-
 ===Han character===
 {{Han char|rn=6|rad=亅|as=01|sn=2|four=17207|canj=NN}}
 
@@ -16,7 +13,13 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Glyph origin===
+{{liushu|p}} – an image of a baby wrapped in a blanket, with only the head visible. Compare with {{zh-l|*子}}, where the arms are visible.
+
+===Etymology===
+Pronunciation 1 is derived from weakening of Pronunciation 2 ("to finish"). Cognate with {{cog|th|แล้ว||to be finished; already; then, afterwards}}, {{cog|lo|ແລ້ວ||to finish; to be completed; ''perfective particle''}}, {{cog|vi|rồi||already}}.
+
+===Pronunciation 1===
 {{zh-pron
 |m=le
 |ma=Zh-le.ogg
@@ -24,34 +27,37 @@
 |h=pfs=lé
 |mn=liáu
 |w=5leq
-|mc=y
-|oc=y
-|cat=particle
+|cat=part
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Beginning Mandarin}} {{non-gloss definition|Used after a verb, indicate [[perfective aspect]] (action completion)}}
+# {{n-g|Used after a verb, indicate [[perfective aspect]] (action completion).}}
 #: {{zh-x|我 吃 了 這 個 蘋果。|I '''ate''' the apple.}}
-#: {{zh-x|他 在 ^北京 住 '''了''' 兩 年。|He live'''d''' in Beijing for two years.}}
-# {{non-gloss definition|Used at the end of a sentence, indicate a change of state.}}
+#: {{zh-x|他 在 ^北京 住 了 兩 年。|He live'''d''' in Beijing for two years.}}
+# {{n-g|Used at the end of a sentence, indicate a change of state.}}
 #: {{zh-x|他 是 大學生 了。|He '''has become''' student / He is a student '''now'''.}}
 
-====Usage notes====
+=====Synonyms=====
+{{zh-dial}}
+
+=====Usage notes=====
+{{hide box|Usage notes|align=left|
 * {{sense|perfective aspect particle}}
 : Most of the time, 了 is translated by a [[past tense]]. But it can also indicate that one action is completed before another.
-: {{zh-x|你 吃 '''了''' 以後，告訴{su} 我。|Tell me when you are done eating.|in_notes=1}}
+:: {{zh-x|你 吃 了 以後，告訴{su} 我。|Tell me when you are done eating.|in_notes=1}}
 
 * {{sense|change of state particle}}
 : When used as the ''change of state particle'', 了 can be translated by [[now]], [[already]] or not [[anymore]].
-: {{zh-x|我 會 說 中文 '''了'''。|I can speak Chinese '''now'''. (I couldn't before)|in_notes=1}}
-: {{zh-x|我 吃飯 '''了'''。|I've eaten ('''already''').|in_notes=1}}
-: {{zh-x|沒有 紙 '''了'''。|There's no paper '''anymore'''.|in_notes=1}}
+:: {{zh-x|我 會 說 中文 了。|I can speak Chinese '''now'''. (I couldn't before)|in_notes=1}}
+:: {{zh-x|我 吃飯 了。|I've eaten ('''already''').|in_notes=1}}
+:: {{zh-x|沒有 紙 了。|There's no paper '''anymore'''.|in_notes=1}}
 
-: In a question, 了 is put before the particle {{zh-l|嗎/吗}}.
+: In a question, 了 is put before the particle {{zh-l|嗎}}.
+}}
 
-===Pronunciation===
+===Pronunciation 2===
 {{zh-pron
 |m=liǎo
 |ma=zh-liǎo.ogg
@@ -59,37 +65,20 @@
 |h=pfs=liáu
 |mn=liáu
 |w=3liau
+|mc=y
+|oc=y
 |cat=verb
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[finish]]
+# to [[finish]], to be [[complete]]d
 # to [[understand]]
 #: {{zh-x|'''瞭'''解|to [[understand]], to [[realize]]}}
-
-===References===
-* {{R:cedict}}
-* {{cite-web
-|url=http://tatoeba.org
-|title=Tatoeba
-|accessdate=2014-02-13}}
-* {{cite-web
-|url=http://resources.allsetlearning.com/chinese/grammar/Change_of_state_with_%22le%22
-|work=Chinese Grammar Wiki
-|title=Change of state with "le"
-|accessdate=2014-02-13}}
-* {{cite-web
-|url=http://resources.allsetlearning.com/chinese/grammar/Expressing_completion_with_%22le%22
-|work=Chinese Grammar Wiki
-|title=Expressing completion with "le"
-|accessdate=2014-02-13}}
-* {{cite-web
-|url=http://resources.allsetlearning.com/chinese/grammar/Expressing_duration_with_%22le%22
-|work=Chinese Grammar Wiki
-|title=Expressing duration with "le"
-|accessdate=2014-02-13}}
+# [[intelligent]], [[smart]]
+# {{lb|zh|in negative sentences}} [[completely]], [[utterly]]
+# {{n-g|Used with {{zh-l|不}} or {{zh-l|得|tr=de}} to express possibility.}}
 
 ----
 
