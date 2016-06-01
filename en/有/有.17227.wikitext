@@ -1,12 +1,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han compound|又|t1=hand|肉|alt2=⺼|t2=meat|ls=ic}} – a hand holding meat, hence “in possession of”; {{lang|zh|又}} also acts as a phonetic component. The hand shape has been significantly abstracted; compare {{m|mul|右|sc=Hani}}.
-
-''{{w|Shuowen Jiezi}}'' ({{lang|zh|說文解字}}) and other ancient sources have erroneously analyzed the character as a {{Han compound|又|c1=p|月|c2=s|t2=moon|ls=psc}}. ''Shuowen Jiezi'' defines {{lang|zh|有}} as "{{lang|zh|不宜有也}}" ("[to have something that] not should be had"), citing the ''{{w|Spring and Autumn Annals}}'' ({{lang|zh|春秋傳}}): "{{lang|zh|日月有食之}}" ("There are solar and lunar eclipses"). As eclipses were not auspicious to the Chinese, they were "something that should not be happening". The {{lang|zh|月}} component alludes to the inauspicious lunar eclipse.
-
 ===Han character===
 {{Han char|rn=74|rad=月|as=02|sn=6|four=40227|canj=KB|ids=⿱𠂇月}}
 
@@ -20,6 +14,12 @@
 
 ==Chinese==
 {{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|又|t1=hand|肉|alt2=⺼|t2=meat|ls=ic}} – a hand holding meat, hence “in possession of”; {{lang|zh|又}} also acts as a phonetic component. The hand shape has been significantly abstracted; compare {{zh-l|*右}}.
+
+''{{w|Shuowen Jiezi}}'' ({{lang|zh|說文解字}}) and other ancient sources have erroneously analyzed the character as a {{Han compound|又|c1=p|月|c2=s|t2=moon|ls=psc}}. ''Shuowen Jiezi'' defines {{lang|zh|有}} as "{{lang|zh|不宜有也}}" ("[to have something that] not should be had"), citing the ''{{w|Spring and Autumn Annals}}'' ({{lang|zh|春秋傳}}): "{{lang|zh|日月有食之}}" ("There are solar and lunar eclipses"). As eclipses were not auspicious to the Chinese, they were "something that should not be happening". The {{lang|zh|月}} component alludes to the inauspicious lunar eclipse.
 
 ===Etymology 1===
 
@@ -37,37 +37,23 @@
 |cat=v,a
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{lb|zh|Beginning Mandarin}} to [[have]]; to [[possess]]
+# to [[have]]; to [[possess]] {{gloss|when a subject is present}}
+#: {{zh-ant|無}}
 #: {{zh-x|我 有 兩 輛 車。|I have two cars.}}
-# {{lb|zh|Beginning Mandarin}} [[there is]]; to [[exist]]
+# [[there is]]; to [[exist]] {{gloss|when a subject is absent}}
 #: {{zh-x|有 很 多 人。|'''There are''' a lot of people.}}
 #: {{zh-x|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
-
-=====Antonyms=====
-* {{zh-l|沒}}
-* {{zh-l|無}}
-* {{zh-l|未}}
-* {{zh-l|冇}}
+# [[some]]
 
 ====Usage notes====
-* If the subject of the sentence is a person or an object, {{lang|zh|有}} is translated as "to have". But when the subject is a place or is undefined, it is translated as "there is".
-** Place:
-**: {{zh-x|街上 有 很 多 車。|There are a lot of cars in the street.}}
-** Undefined subject:
-**: {{zh-x|有 很 多 人|'''there are''' a lot of people}}
-* {{lang|zh|有}} is the only verb not negated with {{zh-l|不}}. It is negated with {{zh-l|沒}}.
+* In Mandarin, {{lang|zh|有}} is the only verb not negated with {{zh-l|不}}. It is negated with {{zh-l|沒}}.
 :: {{zh-x|我 沒有 錢|I don't have any money}}
 
-====Adjective====
-{{zh-adj}}
-
-# {{lb|zh|Beginning Mandarin}} [[some]]
-
 ====Compounds====
-{{zh-der|沒有|還有|有關|所有權|有關係|所有|有趣|有意思|有意義|有點|擁有|有時候|有錢|富有}}
+{{zh-der|沒有|還有|有關|所有權|有關係|所有|有趣|有意思|有意義|有點|擁有|有時候|有錢|富有|不有|九有|享有|但有|何有|保有|倘有|僅有|光有|公有|共有|具有|冉有|占有|原有|另有|只有|含有|唯有|固有|國有|大有|少有|希有|惡有|或有|握有|據有|故有|既有|有了|有事|有些|有人|有來|有偏|有分|有利|有力|有功|有助|有勁|有勞|有北|有司|有名|有周|有味|有命|有哏|有喜|有因|有夏|有奇|有如|有娀|有娠|有孝|有守|有客|有室|有害|有家|有帳|有年|有幸|有底|有庳|有形|有待|有後|有得|有徵|有德|有心|有恆|有恙|有恥|有情|有意|有成|有才|有擾|有故|有效|有救|有數|有方|有日|有時|有會|有服|有望|有染|有案|有極|有機|有氣|有漏|有為|有熊|有狐|有理|有生|有用|有病|有的|有益|有瞽|有神|有禮|有私|有秋|有種|有空|有窮|有竅|有等|有終|有緣|有聲|有臉|有舊|有若|有請|有識|有賴|有身|有道|有酒|有采|有量|有閒|有間|有限|有隙|有零|有章|有頃|有餘|有駜|有鼻|民有|烏有|無有|特有|獨有|萬有|私有|稀有|罕有|賦有|間有|頗有|領有}}
 
 ===Etymology 2===
 
@@ -79,20 +65,12 @@
 |cat=adv,con
 }}
 
-====Adverb====
-{{zh-adv}}
+===Definitions===
+{{zh-hanzi}}
 
-# (= {{zh-l|又}}) {{lb|zh|archaic}} [[again]]
-
-====Conjunction====
-{{zh-con}}
-
-# (= {{zh-l|又}}) {{lb|zh|archaic}} [[and]]; with a [[remainder]] of (when dividing an [[integer]] by ten)
+# {{†}} {{zh-alt-form|又|again}}
+# {{†}} {{zh-alt-form|又|and; with a remainder of (when dividing an integer by ten)}}
 #* {{zh-x|吾 十 有{yòu} 五 而 志 於 學，三十 而 立。|When I was 10 '''and''' 5 years (15 years old), I devoted myself to study. At the age of 30, I established myself (got a job and started a family).|CL|ref={{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語．為政]])}}
-
-===External links===
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=147625&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yǒu
-* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=148175&GraphicWord=yes&QueryString=%A6%B3$ Guoyu Cidian (國語辭典)] yòu
 
 {{zh-cat|Beginning}}
 
