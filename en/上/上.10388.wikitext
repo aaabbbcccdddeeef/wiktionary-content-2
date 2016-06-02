@@ -1,4 +1,4 @@
-{{also|丄}}<!-- may be replaced by zh-forms -->
+{{also|丄}}
 {{character info/new}}
 
 ==Translingual==
@@ -7,11 +7,6 @@
 
 ===Han character===
 {{Han char|rn=1|rad=一|as=02|sn=3|four=21100|canj=YM|ids=⿱卜一}}
-
-# (''prep'') [[above]], [[over]]
-# (''adj'') [[last]], [[former]], [[prior]]
-# (''adj'') [[above]], [[higher]]
-# (''v'') [[go up]], [[send up]]
 
 ===References===
 * {{Han ref|kx=0076.070|dkj=00013|dj=0145.010|hdz=10005.040|uh=4E0A|ud=19978|bh=A457|bd=42071}}
@@ -23,7 +18,6 @@
 
 ===Alternative forms===
 * {{q|archaic/obsolete}} {{zh-l|丄}}, {{zh-l|𠄞}}
-* {{qual|Min Nan}} {{zh-l|尚|siōng}}
 
 ===Glyph origin===
 {{Han etyl}}
@@ -32,14 +26,12 @@
 ===Pronunciation 1===
 {{zh-pron
 |m=shàng
-|c=soeng6,soeng5
-|c_note=soeng6 - all non-verb senses; soeng5 - all verb senses
-|h=pfs=sông/song
-|mn=chiūⁿ/chhiūⁿ/siōng
-|mn_note=chiūⁿ/chhiūⁿ - vernacular; siōng - literary
+|c=soeng6
+|h=pfs=song
+|mn=siōng
 |w=3zaan
 |mc=2
-|oc=1+2,1
+|oc=3,2
 |ma=y
 |cat=n,post,adj,v
 }}
@@ -49,24 +41,50 @@
 
 # [[upper]] [[part]]; [[high]] [[position]]; [[up]]
 #: {{zh-ant|下}}
+# {{†}} [[emperor]]
 # [[on]]; [[above]]
 #* {{zh-x|樹 上|'''on''' the tree}}
 #* {{zh-x|筆 在 桌 上。|The pen is on the desk.}}
+# [[superior]]; [[senior]]; [[top]]
 # [[preceding]]; [[previous]]; [[last]]; [[former]]
 #* {{zh-x|上 年|last year}}
 #* {{zh-x|上 集|First volume}}
-# to [[board]]; to [[get on]]
-#* {{zh-x|請 上車。|Please get into the car.}}
-# [[go]] to; [[leave]] for
-# to [[attend]] {{qualifier|class, work}}
-#* {{zh-x|上班|to go to work}}
-#* {{zh-x|她 上 夜校。|She goes to night school.}}
-# {{†}} referring to the [[emperor]]
-# [[within]], [[in]], from the [[standpoint]] of {{attention|zh|highly deficient gloss; needs expansion/better explanation --21:56, 23 March 2016 (UTC)}}
+# [[within]], [[in]], from the [[standpoint]] of, [[according to]]
 #* {{zh-x|在 理論 上|according to theory}}
 #* {{zh-x|在 ^英文 上 沒有 相似 的 說法。|There is no similar way of wording in English.}}
+# {{lb|zh|Min Nan}} [[most]]; [[extremely]]
+#* {{zh-also|*尚}}
 
 ===Pronunciation 2===
+{{zh-pron
+|m=shàng
+|c=soeng5
+|h=pfs=sông
+|mn=chiūⁿ/chhiūⁿ
+|mn_note=chiūⁿ - "to go up" (active); chhiūⁿ - "to be made to go up; to elevate something; to grow"
+|w=3zaan
+|mc=1
+|oc=1+2,1
+|ma=y
+|cat=v,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[go up]]; to [[ascend]]
+# to [[go]] to; to [[leave]] for (a place)
+# to [[board]]; to [[get on]]
+#* {{zh-x|請 上 車。|Please get into the car.}}
+# to [[attend]] (class, work)
+#* {{zh-x|上班|to go to work}}
+#* {{zh-x|她 上 夜校。|She goes to night school.}}
+# to [[enter]] (a field); to [[appear]] (on stage)
+# to [[fit]]; to [[install]]; to [[apply]]
+# to [[screw]]; to [[tighten]], to [[twist]]
+# {{n-g|Particle following verbs, indicating direction or achievement.}}
+
+===Pronunciation 3===
 {{zh-pron
 |m=shǎng
 |c=soeng5
@@ -74,7 +92,7 @@
 |mn=sióng
 |w=3zaan
 |mc=1
-|oc=3,2
+|oc=1,2
 |ma=y
 |cat=n
 }}
