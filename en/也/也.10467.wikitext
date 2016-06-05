@@ -3,10 +3,6 @@
 {{stroke order|stroke=3}}
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-Uncertain, possibly a pictograph of an ancient funnel or wash basin. The character was once interchangeable with [[它]] and may have originated as a simplification.
-
 ===Han character===
 {{Han char|rn=5|rad=乙|as=02|sn=3|four=44712|canj=PD|ids=⿻乜丨}}
 
@@ -26,6 +22,10 @@ Uncertain, possibly a pictograph of an ancient funnel or wash basin. The charact
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+Uncertain, possibly a pictograph of an ancient funnel or wash basin. The character was once interchangeable with {{zh-l|*它}} and may have originated as a simplification.
+
 ===Pronunciation===
 {{zh-pron
 |m=yě
@@ -34,45 +34,35 @@ Uncertain, possibly a pictograph of an ancient funnel or wash basin. The charact
 |md=iâ
 |mn=iā
 |w=3hha,3hhia
-|ma=zh-yě.ogg
+|ma=y
 |mc=y
 |oc=y
-|cat=adv
+|cat=adv,part,pn
 }}
 
-===Adverb===
-{{zh-adv}}
+===Definitions===
+{{zh-hanzi}}
 
 # [[also]]; [[too]]
-#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.13]
-#*: 这等人不是从血气生的，不是从情欲生的，'''也'''不是从人意生的，乃是从神生的。
-#*: Zhèděng rén bùshì cóng xuèqì shēng de, bùshì cóng qíngyù shēng de, '''yě''' bùshì cóng rényì shēng de, nǎishì cóng Shén shēng de.
-#*:: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
-#: {{zh-x|我 也 去 了。|I also went.}}
-#: {{zh-x|我 也 是 中國人。|I too am Chinese/I am also Chinese.}}
-# {{label|zh|in negative sentences|sort=ye3}} [[neither]], [[either]]
+#: {{zh-x|我 也 去 了。|I '''also''' went.}}
+#* {{zh-x|我 也 是 中國人。|I am Chinese '''too'''.}}
+# {{lb|zh|in negative sentences}} [[neither]], [[either]]
 #: {{zh-x|你 如果 不 去，我 也 不 去。|If you don't go, I won't '''either'''.}}
-#: {{zh-x|我 也 沒有 看見 過 它。|I haven't seen it '''either'''.}}
-# {{qualifier|emphasis}} [[even]] (used in the {{lang|zh|連……也/都}} and {{lang|zh|連……也/都 不如}} stuctures; interchangeable with {{l|zh|都}})
-#: {{zh-x|他 連 畜生 也 不如，連 自己 的 父母 也 不 養活。|He is no better than an animal, because he doesn't even support his own parents.}}
-
-{{zh-cat|Beginning|sort=ye3}}
-
-====See also====
-* {{sense|too, also}} {{q|Cantonese}} {{zh-l|都|tr=dou1}}
-* {{sense|even}} {{zh-l|都}}
-
-===Particle===
-{{zh-particle}}
-
-# {{label|zh|classical|sort=ye3}} {{non-gloss definition|An emphatic final particle of strong affirmation or identity.}}
-#: {{zh-x|生 而 知 之 者 ，上 也|Those who are born with the possession of knowledge are the highest class of men.|CL}}
-#: {{zh-x|其 西 有 大 山，天下 至 高 者 也。|Laden with surrounding mountains, it is clearly the most supreme under heaven.|CL}}
-
-===Proper noun===
-{{zh-proper noun}}
-
+#* {{zh-x|我 也 沒有 看見 過 它。|I haven't seen it '''either'''.}}
+# {{n-g|An adverbial particle used in the {{lang|zh|[[連]]……也……}} and {{lang|zh|連……也[[不如]]}} constructions. Interchangeable with {{zh-l|*都}}.}} [[even]]
+#* {{zh-x|他 連 畜生 也 不如，連 自己 的 父母 也 不 養活。|He is no better than an animal, because he doesn't even support his own parents.}}
+# {{lb|zh|classical}} {{n-g|An emphatic final particle of strong affirmation or identity.}}
+#* {{zh-x|生 而 知 之 者 ，上 也|Those who are born with the possession of knowledge are the highest class of men.|CL}}
+#* {{zh-x|其 西 有 大 山，天下 至 高 者 也。|Laden with surrounding mountains, it is clearly the most supreme under heaven.|CL}}
 # {{surname|lang=zh}} [[Ye]]
+
+====Synonyms====
+{{zh-dial}}
+
+===Compounds===
+{{zh-der|之乎者也|也不盡然|也不見得|也先|也可|也好|也是|也曾|也未可知|也波|也罷|也行|也許|也速該|也須|也麼哥|可也|撥風也似|暴雷也似|死也瞑目|溜之乎也|潑天也似|空空如也|箭也似的|維也納 |莫予毒也|莫余毒也|說也奇怪|阿也|飛也似的}}
+
+{{zh-cat|Beginning}}
 
 ----
 
