@@ -2,14 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{liushu|i}}: a person [[人]] with arms stretched out as far as possible, implying the meaning of big/great/large. This is in contrast to [[小]] which represents a person [[人]] with lowered arms implying small in size.
-
-Compare with [[尢]], which is a man with bent legs with the meaning of weak.
-
-Compare also [[文]], which is a man with arms outstretched and a crest or tattoo on his chest denoting culture or language, and to [[夭]], which is a man with arms outstretched and leaning to side (running), denoting youth.
-
 ===Han character===
 {{Han char|rn=37|rad=大|as=00|sn=3|four=40030/40800|canj=K|ids=⿻一人}}
 
@@ -27,6 +19,14 @@ Compare also [[文]], which is a man with arms outstretched and a crest or tatto
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}}: a person [[人]] with arms stretched out as far as possible, implying the meaning of big/great/large. This is in contrast to [[小]] which represents a person [[人]] with lowered arms implying small in size.
+
+Compare with [[尢]], which is a man with bent legs with the meaning of weak.
+
+Compare also [[文]], which is a man with arms outstretched and a crest or tattoo on his chest denoting culture or language, and to [[夭]], which is a man with arms outstretched and leaning to side (running), denoting youth.
+
 ===Etymology===
 Three pronunciations can be found in Modern Standard Chinese:
 
@@ -36,9 +36,9 @@ Three pronunciations can be found in Modern Standard Chinese:
 
 Pronunciation 2), the diphthong reading, is traditionally regarded as the correct one. However, the monophthong reading 1) has been recorded as early as {{w|Han Dynasty}}, and Sui-Tang rhyme books record both. Both readings are reflected in Sino-xenic readings in non-Sinitic languages, although the diphthong readings dominate in compounds. Axel Schüssler postulates that all pronunciations can eventually be traced back to liquid initials, i.e. 1,2) **''laːts'', 3) **''hlaːts''.
 
-The three pronunciations are cognate. Within Chinese, they are cognate with {{l|zh|太}} (tài, OC *''tʰaːds'', "too, excessively"), {{l|zh|泰}} (tài, OC *''tʰaːds'', "big", note that this character also means "to reach", perhaps unrelated), {{l|zh|誕}} (dàn, OC *''l̥aːnʔ'', "big, magniloquent, ridiculous"). There are no unambiguous Tibeto-Burman cognates. Proto-Tibeto-Burman {{m|sit-pro|*taj||big}}, from which came Written Tibetan {{m|bo|མཐེ་བོ|tr=mthe bo||thumb}}, Nung ''tʰɛ'' ("big, large, great"), Mikir ''tʰè'', ''ketʰè'' ("id."), Written Burmese {{m|my|sc=Mymr|တယ်|tr=tai||very}}, is often compared with. There is no final -''s'' in the Tibeto-Burman words, but a -''y'', which, according to James Matisoff, "indicates emergent quality in stative verbs". Also compare Chinese {{l|zh|多}} (duō, OC *''ʔl̥aːl'', "many, much"), {{l|zh|都}} (dū > dōu, OC *''taː'', "all").
+The three pronunciations are cognate. Within Chinese, they are cognate with {{l|zh|太}} (tài, OC *''tʰaːds'', "too, excessively"), {{l|zh|泰}} (tài, OC *''tʰaːds'', "big", note that this character also means "to reach", perhaps unrelated), {{l|zh|誕}} (dàn, OC *''l̥aːnʔ'', "big, magniloquent, ridiculous"). There are no unambiguous Tibeto-Burman cognates. Proto-Tibeto-Burman {{m|sit-pro|*taj||big}}, from which came Written Tibetan {{m|bo|མཐེ་བོ||thumb}}, Nung ''tʰɛ'' ("big, large, great"), Mikir ''tʰè'', ''ketʰè'' ("id."), Written Burmese {{m|my|တယ်||very}}, is often compared with. There is no final -''s'' in the Tibeto-Burman words, but a -''y'', which, according to James Matisoff, "indicates emergent quality in stative verbs". Also compare Chinese {{l|zh|多}} (duō, OC *''ʔl̥aːl'', "many, much"), {{l|zh|都}} (dū > dōu, OC *''taː'', "all").
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=dà
 |c=daai6
@@ -51,81 +51,61 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{l|
 |w_note=3du - vernacular; 3da - literary
 |mc=y
 |oc=y
-|ma=y|ma2=y
-|cat=a,adv}}
+|ma=y
+|cat=a,adv
+}}
 
-====Adjective====
-{{zh-adj}}
+====Definitions===
+{{zh-hanzi}}
 
 # [[big]], [[large]], [[huge]]
-#: {{zh-x|這 個 太 大 了！|This is too '''big'''!}}
+#: {{zh-ant|小}}
+#* {{zh-x|這 個 太 大 了！|This is too '''big'''!}}
 # [[big]], [[great]], [[deep]]
 # [[main]], [[major]]
-#: {{zh-x|他們 將 車 一直 開 到 大 門口。|They drove right up to the '''main''' gate.}}
-#: {{zh-x|他 是 一家 石油 公司 的 大 股東。|He is a '''major''' stockholder in an oil company.}}
+#* {{zh-x|他們 將 車 一直 開 到 大 門口。|They drove right up to the '''main''' gate.}}
+#* {{zh-x|他 是 一家 石油 公司 的 大 股東。|He is a '''major''' stockholder in an oil company.}}
 # [[loud]], [[heavy]]
-#: {{zh-x|昨天 下 大雨。|There was '''heavy''' rain yesterday.}}
+#* {{zh-x|昨天 下 大雨。|There was '''heavy''' rain yesterday.}}
 # [[mature]]; [[grown up]]
-#: {{zh-x|你 多 大 了？|How '''old''' are you?}}
-#: {{zh-x|她 比 他 大。|She is '''older''' than him.}}
-
-=====Coordinate terms=====
-* {{sense|mature}} {{zh-l|老|[[old]]; [[aged]]; [[elderly]]}}
-
-=====Antonyms=====
-* {{sense|big|mature}} {{zh-l|小|small}}, {{q|literary|Cantonese|Hakka|Min Nan}} {{zh-l|細|tr=-}}
-
-====Adverb====
-{{zh-adv}}
-
+#: {{zh-also|老}}
+#* {{zh-x|你 多 大 了？|How '''old''' are you?}}
+#* {{zh-x|她 比 他 大。|She is '''older''' than him.}}
 # [[greatly]], very much
-#: {{zh-x|^中 ^美 關係 已 有 很 大 改善。|Relations between China and America have improved '''greatly'''.}}
-
-====Noun====
-{{zh-noun}}
-
+#* {{zh-x|^中 ^美 關係 已 有 很 大 改善。|Relations between China and America have improved '''greatly'''.}}
 # {{lb|zh|dialectal}} [[father]]
 # {{lb|zh|dialectal}} [[father]]'s elder or younger brother
 
-===Pronunciation===
+===Pronunciation 2===
 {{zh-pron
-|m=dài
+|m=dài,dà
+|m_note=dà - variant used in {{l|zh|大王|ringleader; monarch}}
 |c=daai6
 |h=pfs=thai
 |mn=tāi
 |mn-t=dai6
 |dial=n
-|cat=n}}
+|cat=n
+}}
 
-====Noun====
-{{zh-noun}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{zh-only used in|大夫|doctor}}
-# {{zh-only used in|大城|Daicheng, Hebei}}
+# {{zh-only|大夫|doctor}}
+# {{zh-only|大城|Daicheng, Hebei}}
+# {{zh-only|大王|(in operas, old novels) king; ringleader}}
 
-===Pronunciation===
-{{zh-pron
-|m=dài,dà,2nb=Taiwan
-|c=daai6
-|mn-t=dai6
-|dial=n
-|cat=n}}
-
-====Adjective====
-{{zh-noun}}
-
-# {{zh-only used in|大王|(in operas, old novels) king; ringleader}}
-
-===Pronunciation===
+===Pronunciation 3===
 {{zh-pron
 |m=tài
 |c=taai3
 |mn-t=tai3
 |dial=n
-|cat=a}}
+|cat=a
+}}
 
-====Adjective====
-{{zh-noun}}
+====Definitions====
+{{zh-hanzi}}
 
 # {{lb|zh|archaic}} {{zh-alt-form|太}}
 
@@ -134,9 +114,6 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{l|
 
 ===Descendants===
 {{CJKV|大|だい|j2=たい|대|đại}}
-
-===References===
-* {{q|Min Nan}} {{thcwd|195}}
 
 ----
 
