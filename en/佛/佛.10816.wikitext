@@ -11,16 +11,16 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=仏}}
 {{wikipedia|lang=zh}}
 
-===Alternative forms===
-* {{l|zh|仏}}
+===Glyph origin===
+{{Han compound|亻|弗|ls=psc|c1=s|c2=p}}
 
-===Etymology===
-Abbreviation of {{zh-l|佛陀}}, from {{etyl|pi|zh}} {{m|pi|buddha}} or {{etyl|sa|zh}} {{m|sa|बुद्ध}}.
+===Etymology 1===
+Abbreviation of {{zh-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|बुद्ध}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=fó
 |c=fat6
@@ -34,7 +34,7 @@ Abbreviation of {{zh-l|佛陀}}, from {{etyl|pi|zh}} {{m|pi|buddha}} or {{etyl|s
 |cat=pn,n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[Buddha]]
@@ -42,37 +42,8 @@ Abbreviation of {{zh-l|佛陀}}, from {{etyl|pi|zh}} {{m|pi|buddha}} or {{etyl|s
 # [[Buddhism]]
 #: {{zh-x|佛教|Buddhism}}
 
-====Compounds====
-{{der5
-|{{zh-l|佛得角}}
-|{{zh-l|佛燈}}
-|{{zh-l|佛殿}}
-|{{zh-l|佛法}}
-|{{zh-l|佛法僧}}
-|{{zh-l|佛光}}
-|{{zh-l|佛號}}
-|{{zh-l|佛教}}
-|{{zh-l|佛經}}
-|{{zh-l|佛龕}}
-|{{zh-l|佛門}}
-|{{zh-l|佛事}}
-|{{zh-l|佛手}}
-|{{zh-l|佛寺}}
-|{{zh-l|佛塔}}
-|{{zh-l|佛堂}}
-|{{zh-l|佛頭着糞}}
-|{{zh-l|佛陀}}
-|{{zh-l|佛像}}
-|{{zh-l|佛學}}
-|{{zh-l|佛牙}}
-|{{zh-l|佛眼相看}}
-|{{zh-l|佛爺}}
-|{{zh-l|佛珠}}
-|{{zh-l|佛祖}}
-|{{zh-l|佛手瓜}}
-}}
-
-===Pronunciation===
+===Etymology 2===
+====Pronunciation====
 {{zh-pron
 |m=fú
 |c=fat1
@@ -80,10 +51,13 @@ Abbreviation of {{zh-l|佛陀}}, from {{etyl|pi|zh}} {{m|pi|buddha}} or {{etyl|s
 |cat=adv
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# ''Character used in'' {{zh-l|仿佛|tr=fǎngfú}}.
+# {{zh-only|仿佛}}.
+
+===Compounds===
+{{zh-der|七佛|三世佛|丹佛|五方佛|仿佛|佛七|佛事|佛像|佛克納|佛剎|佛印|佛因|佛國|佛國記|佛圖|佛圖戶|佛圖澄|佛地|佛堂|佛場|佛妝|佛子|佛學|佛家|佛寺|佛帕|佛心宗|佛性|佛戾|佛手|佛手柑|佛手瓜|佛指甲|佛教|佛日|佛曲|佛會|佛朗哥|佛果|佛桑|佛法|佛海|佛燈|佛爺|佛牙|佛珠|佛生日|佛眼兒|佛祖|佛科|佛科擺|佛粥|佛經|佛老|佛肸|佛舍利|佛號|佛誕日|佛誕節|佛貍|佛跳牆|佛郎機|佛門|佛陀|佛青|佛馱|佛龕|作佛事|佞佛|供佛|傑佛士|千佛塔|千佛山|千佛洞|南無佛|孔佛|寶生佛|念佛|念米佛|成佛|抱佛腳|拜佛|歡喜佛|活佛|浴佛|浴佛節|燃燈佛|番佛|繡佛|老佛爺|胡佛|藥師佛|見在佛|辟支佛|選佛場|闢佛}}
 
 {{zh-cat|Religion|Buddhism}}
 
