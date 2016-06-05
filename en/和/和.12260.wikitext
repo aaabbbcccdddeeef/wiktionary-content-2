@@ -1,9 +1,6 @@
 {{also|倭|咊|龢}}
 ==Translingual==
 
-===Etymology===
-Ancient simplification of [[龢]].
-
 ===Han character===
 {{Han char|rn=30|rad=口|as=05|sn=8|four=26900|canj=HDR|ids=⿰禾口}}
 
@@ -20,10 +17,10 @@ Ancient simplification of [[龢]].
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=龢}}
 
-===Alternative forms===
-* {{zh-l|龢}}
+===Glyph origin===
+Ancient simplification of {{zh-l|*龢}}.
 
 ===Pronunciation 1===
 {{zh-pron
@@ -32,44 +29,68 @@ Ancient simplification of [[龢]].
 |h=pfs=fò
 |mn=hôe/hô/hō
 |w=3hhu
-|mc=y
-|oc=y
-|cat=adj,n}}
+|mc=1
+|oc=1,1
+|cat=adj,n
+}}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary}} [[peaceful]]; [[harmonious]]
-#: {{zh-x|和平|peace, peaceful}}
+# [[peaceful]]; [[harmonious]]
+#* {{zh-x|和平|peace, peaceful}}
+# [[gentle]]; [[kind]]
+# [[warm]]; [[temperate]]
+# [[sum]]; [[total]]
+#* {{zh-x|五 加 四 的 和 是 九。|The sum of 5 and 4 is 9.}}
+# to [[make]] [[peace]]; to become [[reconcile]]d
+# {{lb|zh|chess}} to [[tie]]
+# {{lb|zh|music}} An ancient mouth organ similar to the sheng, but smaller; no longer used.
 # [[Japanese]]
-#: {{zh-x|和服|kimono, Japanese traditional clothing}}
-# [[sum]]
-#: {{zh-x|五 加 四 的 和 是 九。|The sum of 5 and 4 is 9.}}
-# {{lb|zh|archaic}} an ancient mouth organ similar to the sheng, but smaller; no longer used
-# {{lb|zh|Beginning Mandarin|sort=he2}} [[and]]
-#: {{zh-x|我 想 買 些 肉，魚，麵包 '''和''' 雞蛋。|I want to buy some meat, fish, bread, '''and''' eggs.}}
-# [[with]]
-#: {{zh-x|他 '''和''' 流浪 街头 的 孩子 交 上 了 朋友。|He has made friends '''with''' the kids on the street.}}
-#: {{zh-x|他 想 '''和''' 其他 國家 採取 一致 行動。|He wants to act in concert '''with''' other nations.}}
-#: {{zh-x|'''和''' 你 的 車 比起 來，我 的 車 很 小。|Compared '''with''' yours, my car is small.}}
-#: {{zh-x|如果 你 把 譯文 '''和''' 原文 比較 一下，你 就 會 找到 不 準確 的 地方{fang}。|If you compare the translation '''with''' the original, you will find the inaccuracy.}}
-# {{surname|lang=zh}} He
-
-=====See also=====
-* {{sense|with}} (''Cantonese'') {{zh-l|同埋|tr=tung4 maai4}}
-
-====Usage notes====
-{|
-| Standard Mandarin:
-| hé
-|-
-| Taiwan:
-| hàn
-|}
-{{attention|zh|pronunciation section says "hàn" pronunciation is "(Standard Chinese, Beijing)" but usage notes section says it is "Taiwan"}}
-[[Category:Min Nan literary terms|ho5]]
+#* {{zh-x|和服|kimono, Japanese traditional clothing}}
+# {{surname|lang=zh}} [[He]]
 
 ===Pronunciation 2===
+{{zh-pron
+|m=hé,hàn,2nb=variant in Taiwan
+|c=wo4
+|cat=conj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[and]]
+#: {{zh-x|我 和 你|me '''and''' you}}
+#* {{zh-x|我 想 買 些 肉，魚，麵包 和 雞蛋。|I want to buy some meat, fish, bread, '''and''' eggs.}}
+# [[with]]
+#* {{zh-x|他 和 流浪 街头 的 孩子 交 上 了 朋友。|He has made friends '''with''' the kids on the street.}}
+#* {{zh-x|他 想 和 其他 國家 採取 一致 行動。|He wants to act in concert '''with''' other nations.}}
+#* {{zh-x|和 你 的 車 比起 來，我 的 車 很 小。|Compared '''with''' yours, my car is small.}}
+#* {{zh-x|如果 你 把 譯文 和 原文 比較 一下，你 就 會 找到 不 準確 的 地方{fang}。|If you compare the translation '''with''' the original, you will find the inaccuracy.}}
+
+=====See also=====
+{{zh-dial}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=hè
+|c=wo6
+|mc=2
+|oc=2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to [[make]] [[sounds]] in [[concert]] with; to [[echo]]
+#: {{zh-x|附和{hè}|to second, to echo}}
+#: {{zh-x|唱和{hè}|antiphon, sung reply}}
+#: {{zh-x|應和{hè}|to echo, to correspond}}
+#: {{zh-x|酬和{hè}|to respond to a poem with a poem}}
+
+===Pronunciation 4===
 {{zh-pron
 |m=huò
 |cat=v
@@ -84,7 +105,7 @@ Ancient simplification of [[龢]].
 #: {{zh-x|混和{huò}|mixture, amalgame}}
 #: {{zh-x|揉和{huò/hé}|to knead}}
 
-===Pronunciation 3===
+===Pronunciation 5===
 {{zh-pron
 |m=hú
 |c=wu2
@@ -94,26 +115,10 @@ Ancient simplification of [[龢]].
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary|sort=hu2}} to have a winning hand (at [[mahjong]] etc)
+# {{lb|zh|literary}} to have a winning hand (at [[mahjong]] etc)
 #: {{zh-x|和{hú}牌|to win in mahjong}}
 
-===Pronunciation 4===
-{{zh-pron
-|m=hè
-|c=wo6
-|cat=adj
-}}
-
-====Definitions====
-{{zh-hanzi}}
-
-# {{lb|zh|literary|sort=he4}} to [[make]] [[sounds]] in [[concert]] with; to [[echo]]
-#: {{zh-x|附和{hè}|to second, to echo}}
-#: {{zh-x|唱和{hè}|antiphon, sung reply}}
-#: {{zh-x|應和{hè}|to echo, to correspond}}
-#: {{zh-x|酬和{hè}|to respond to a poem with a poem}}
-
-===Pronunciation 5===
+===Pronunciation 6===
 {{zh-pron
 |m=huo
 |cat=adj
@@ -127,67 +132,9 @@ Ancient simplification of [[龢]].
 #: {{zh-x|溫和{huo}|warm, lukewarm}}
 
 ===Compounds===
-{{der5
-|{{zh-l|和藹/和蔼}}
-|{{zh-l|和璧隋珠}}
-|{{zh-l|和暢/和畅}}
-|{{zh-l|和道}}
-|{{zh-l|和風/和风}}
-|{{zh-l|和風細雨/和风细雨}}
-|{{zh-l|和服}}
-|{{zh-l|和光同塵/和光同尘}}
-|{{zh-l|和好}}
-|{{zh-l|和合}}
-|{{zh-l|和緩/和缓}}
-|{{zh-l|和會/和会}}
-|{{zh-l|和姦/和奸}}
-|{{zh-l|和解}}
-|{{zh-l|和局}}
-|{{zh-l|和樂/和乐}}
-|{{zh-l|和美}}
-|{{zh-l|和睦}}
-|{{zh-l|和暖}}
-|{{zh-l|和盤託出/和盘托出}}
-|{{zh-l|和平}}
-|{{zh-l|和平鴿/和平鸽}}
-|{{zh-l|和平共處/和平共处}}
-|{{zh-l|和平談判/和平谈判}}
-|{{zh-l|和平演變/和平演变}}
-|{{zh-l|和碁/和棋}}
-|{{zh-l|和氣/和气}}
-|{{zh-l|和洽}}
-|{{zh-l|和親/和亲}}
-|{{zh-l|和軟/和软}}
-|{{zh-l|和善}}
-|{{zh-l|和尚}}
-|{{zh-l|和尚打傘/和尚打伞}}
-|{{zh-l|和尚頭/和尚头}}
-|{{zh-l|和聲/和声}}
-|{{zh-l|和事老}}
-|{{zh-l|和數/和数}}
-|{{zh-l|和順/和顺}}
-|{{zh-l|和談/和谈}}
-|{{zh-l|和調/和调}}
-|{{zh-l|和頭/和头}}
-|{{zh-l|和婉}}
-|{{zh-l|和文}}
-|{{zh-l|和弦}}
-|{{zh-l|和祥}}
-|{{zh-l|和諧/和谐}}
-|{{zh-l|和煦}}
-|{{zh-l|和顏悅色/和颜悦色}}
-|{{zh-l|和議/和议}}
-|{{zh-l|和易}}
-|{{zh-l|和音}}
-|{{zh-l|和約/和约}}
-|{{zh-l|和悅/和悦}}
-|{{zh-l|和衷共濟/和衷共济}}
-|{{zh-l|和詩/和诗}}
-|{{zh-l|和弄}}
-|{{zh-l|和稀泥}}
-}}
+{{zh-der|一倡百和|一和|一唱一和|一唱百和|一團和氣|三和弦|上和下睦|不和|中和|中和反應|中和殿|中和節|主和弦|乾和|二和藥|五族共和|人和|伯希和|保和殿|修和|倡和|傷和氣|元和|元和腳|元和體|六脈調和|共和|共和國|共和時代|前和|劉彥和|勸和|協和|南北和議|卞和|取和|周召共和|和一|和丸教子|和事佬|和事天子|和事老|和光同塵|和勝|和勸|和協|和南|和厚|和合|和合二仙|和合僧|和合日|和合湯|和同|和味|和和氣氣|和哄|和善|和囉|和囉槌|和好|和好如初|和姦|和婉|和容悅色|和尚|和尚打傘|和局|和平|和平主義|和平使者|和平共存|和平共處|和平改革|和平日|和平條約|和平談判|和平鴿|和弄|和弦|和息|和悅|和戎|和數|和文|和旨|和易|和景|和暖|和暢|和會|和服|和林|和樂|和歌|和氏|和氏璧|和氣|和氣生財|和氣習習|和氣致祥|和氣融融|和洽|和煦|和熊|和牌|和珅|和璧|和璧隋珠|和番|和盤托出|和睦|和稀泥|和約|和緩|和羹|和而不同|和聲|和聲學|和聲樂器|和菜|和藹|和藹可親|和衣|和衷共濟|和袖|和親|和解|和解政策|和解書|和詩|和誘|和誘罪|和調|和談|和諧|和議|和買|和闐玉|和闐縣|和闐語|和隋之珍|和音|和韻|和韻詩|和順|和頭|和顏|和顏下氣|和顏悅色|和風|和風細雨|和風麗日|和鬧|和鳴|和鸞|和麵|和墨|咸和|唱和|嘻和|回和|國和民順|圓和|地利人和|堂頭和尚|壎箎相和|大和尚|大和民族|大和繪|天和|天心和合|太和|太和殿|夫婦和|失和|夾和|媾和|安和|安和樂利|宣和|宣和書譜|宣和畫譜|寬和|將相和|就和|屬和|山和尚|巴駱和|巴黎和會|巴黎和約|布袋和尚|平和|平和恬淡|庭外和解|廣州和約|張志和|彼倡此和|彼唱此和|心和氣平|心平氣和|恬和|恭謹謙和|慈和|應和|打和|打和哄|握手言和|搆和|摻和|撒和|攙和|攪和|政通人和|文星和合|日暖風和|日麗風和|春和景明|春風和氣|昭君和番|昭和|昭和草|時和年豐|時和歲稔|時和歲豐|晴和|暄和|暖和|暖和和|曲高和寡|林和靖|柔和|樂和|此唱彼和|民和|民和年稔|民和年豐|永和|求和|沖和|油花和尚|法海和尚|流和心性|淳和|混俗和光|混和|清和|渾俗和光|溫和|溫和飲食|漏春和尚|漢和帝|無添和|熱和|燮和|燮和之任|玉體違和|王叔和|琴瑟和好|琴瑟和諧|琴瑟和鳴|琴瑟調和|當家和尚|百事和合|相和|相和歌|碰和|碰碰和|神清氣和|祥和|禪和子|算術和|綠色和平|緩和|緩和劑|總和|群居和一|義和團|義和拳|羲和|羲和馭日|耶和華|脾和|至和|興和|花和尚|藍采和|融和|親和力|解和|言和|言和意順|言歸和好|說和|調和|調和鼎鼐|談和|請和|諧和|謙和|講和|議和|貴體違和|跳牆和尚|軟和|辛丑和約|連和|過飽和|違和|遙相應和|鄭元和|鄭和|酬和|醇和|金和|附和|陰陽和|陽和|隨和|隨聲附和|雍和|雍和宮|零和|音和|順和|頤和園|風和日暖|風和日美|風和日麗|風日晴和|飲和|飽和|飽和帶|飽和度|飽和溶液|飽和溼度|飽和蒸汽|飽和狀態|飽和空氣|飽和脂肪|飽和轟炸|飽和點|養和|馴和|魚水和諧|鸞和|鸞鳳和鳴|鼎鼐調和}}
 
-{{zh-cat|Musical instruments}}
+{{zh-cat|Beginning|Musical instruments}}
 
 ----
 
