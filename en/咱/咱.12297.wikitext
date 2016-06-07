@@ -18,7 +18,7 @@
 ====Pronunciation====
 {{zh-pron
 |m=zán,zá,1nb=standard in Mainland and Taiwan,2nb=standard in Taiwan
-|m_note=zá - reserved for {{zh-l|咱家|tr=zájiā}}
+|m_note=zá - generally only used in {{zh-l|咱家|tr=zájiā}}
 |ma=y
 |c=zaa1
 |h=pfs=
@@ -27,7 +27,7 @@
 |w=
 |mc=
 |oc=
-|cat=pronoun
+|cat=pron,part
 }}
 
 ====Pronoun====
@@ -35,17 +35,35 @@
 
 # [[I]]; [[me]]
 # {{lb|zh|inclusive}} [[we]]; [[us]]
+# {{n-g|A particle used after personal pronouns.}}
 
 =====Synonyms=====
 * {{sense|I|me}} {{zh-l|我}}
 
+====See also====
+{{cmn-personal pronouns}}
+
 =====Compounds=====
-* {{zh-l|咱們}}
-* {{zh-l|咱家}}
+{{zh-der|咱們|咱家}}
 
 ===Etymology 2===
+Contraction of {{zh-m|早晚}}.
+
+====Pronunciation====
+{{zh-pron
+|m=zan
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[time]]
+#: {{zh-x|這咱{zan}|now}}
+
+===Etymology 3===
 {{zh-forms|alt=俺,㑑,玌}}
-From {{zh-l|儂|lâng|person; I, me}} + elision of {{zh-l|儂|tr=-}}. Compare {{zh-l|阮|goán|we, us (exclusive)}}, {{zh-l|恁|lín|you (plural)}}, {{zh-l|𪜶|tr=in|they, them}}.
+From {{zh-l|儂|lâng|person; I, me}} + elision of {{zh-l|儂|tr=-}}. Compare {{zh-l|阮|gún, goán|we, us (exclusive)}}, {{zh-l|恁|lín|you (plural)}}, {{zh-l|𪜶|tr=in|they, them}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -65,28 +83,11 @@ From {{zh-l|儂|lâng|person; I, me}} + elision of {{zh-l|儂|tr=-}}. Compare {{
 
 # {{lb|zh|inclusive}} [[our]]
 
-===Etymology 3===
-{{zh-forms|t2=喒|t3=偺}}
-Contraction of {{zh-m|早晚}}.
+====See also====
+* {{q|Min Nan|exclusive}} {{zh-l|阮|[[gún]], [[goán]]}}
 
-====Pronunciation====
-{{zh-pron
-|m=zan
-|cat=
-}}
-
-====Definitions====
-{{zh-hanzi}}
-
-# [[time]]
-#: {{zh-x|這咱{zan}|now}}
-
-===See also===
-* {{q|Mandarin}} {{zh-l|我們}}
-* {{q|Cantonese}} {{zh-l|我哋|tr=ngo5 dei6}}
-* {{q|Min Nan|exclusive}} {{zh-l|阮|[[gún]]; [[goán]]}}
-* {{q|Hakka}} {{zh-l|𠊎等|tr=ngài-tén, ngài-tên, ngài-nên}}, {{zh-l|𠊎兜|tr=ngài-têu}}, {{zh-l|𠊎這兜|tr=ngài-yá-têu}}
-{{cmn-personal pronouns}}
+===Etymology 4===
+{{zh-see|咋|v}}
 
 ===References===
 * {{thcwd|4792}}
