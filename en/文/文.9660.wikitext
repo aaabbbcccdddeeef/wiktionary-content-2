@@ -2,10 +2,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{liushu|i}}: a man with a painted or tattooed chest. In current form, tattoo has vanished, so simply an outline of a man (head, outstretched arms, legs, chest). Compare [[大]], which has no chest.
-
 ===Han character===
 {{Han char|rn=67|rad=文|as=00|sn=4|four=00400|canj=YK|ids=⿱亠乂}}
 
@@ -17,6 +13,10 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}}: a man with a painted or tattooed chest – original form of {{zh-l|*紋}}. In current form, tattoo has vanished, so simply an outline of a man (head, outstretched arms, legs, chest). Compare {{zh-l|*大}}, which has no chest.
+
 ===Pronunciation===
 {{zh-pron
 |m=wén
@@ -26,31 +26,32 @@
 |w=3ven
 |mc=y
 |oc=y
-|ma=|ma2=
-|cat=n
+|ma=
+|cat=n,v,a,cls,pn
 }}
 
-====Noun====
-{{zh-noun}}
+===Definitions===
+{{zh-hanzi}}
 
-# {{qualifier|written}} [[language]]
-#: {{zh-x|中文|Chinese}}
-#: {{zh-x|英文|English}}
+# {{zh-alt-form|紋|[[mark]], [[pattern]], [[design]], [[decoration]]}}
+# {{zh-alt-form|紋|to [[tattoo]]}}
+#: {{zh-x|文身|to tattoo}}
+#: {{zh-x|文面|face tattoo}}
+# to [[cover]]
+#: {{zh-x|文 過|to cover one's fault}}
+#: {{zh-x|文過飾非|to whitewash}}
 # [[writing]]; [[literary]] [[composition]]; [[literature]]
 #: {{zh-x|文件|document}}
 #: {{zh-x|文章|article, essay}}
+# [[literary]]
+# {{zh-abbrev|文讀|literary reading}}
+# [[written]] [[language]]
+#: {{zh-ant|語}}
+#: {{zh-x|中文|Chinese}}
+#: {{zh-x|英文|English}}
 # [[culture]]
 #: {{zh-x|文化|culture}}
 #: {{zh-x|文明|civilization}}
-# {{zh-abbrev|文讀|literary reading}}
-
-=====See also=====
-* {{zh-l|語|spoken language}}
-
-====Adjective====
-{{zh-adj}}
-
-# [[literary]]
 # [[civil]], [[civilian]]
 #: {{zh-x|文職|civilian post}}
 #: {{zh-x|文官|civil official}}
@@ -59,151 +60,11 @@
 #: {{zh-x|斯文|refined, cultured}}
 #: {{zh-x|文雅|elegant, refined}}
 #: {{zh-x|文人|scholar}}
-
-====Verb====
-{{zh-verb}}
-
-# to [[tattoo]]
-#: {{zh-x|文身|to tatooo}}
-#: {{zh-x|文面|face tattoo}}
-# to [[cover]]
-#: {{zh-x|文 過|to cover one's fault}}
-#: {{zh-x|文過飾非|to whitewash}}
-
-====Proper noun====
-{{zh-proper noun}}
-
+# {{†}} {{n-g|Classifier for coins.}}
 # {{surname|lang=zh}}
 
-====Classifier====
-{{zh-cls}}
-
-# {{label|cmn|archaic}} measure word for coins
-
-====Compounds====
-{{rel-top|Compounds}}
-{{top4}}
-* [[文情]]
-* [[文白]]
-* [[文本]]
-* [[文笔]]
-* [[文不对题]]
-* [[文不加点]]
-* [[文不尽意]]
-* [[文才]]
-* [[文采]]
-* [[文昌鱼]]
-* [[文词]]
-* [[文辞]]
-* [[文从字顺]]
-* [[文牍主义]]
-* [[文法]]
-* [[文房]]
-* [[文房四宝]]
-* [[文风]]
-* [[文风不动]]
-* [[文稿]]
-* [[文告]]
-* [[文革]]
-* [[文工团]]
-* [[文官]]
-* [[文过饰非]]
-* [[文豪]]
-* [[文化]] (wénhuà: [[culture]])
-* [[文化层]]
-* [[文化大革命]]
-* [[文化宫]]
-{{mid4}}
-* [[文化馆]]
-* [[文化买办]]
-* [[文化人]]
-* [[文化水平]]
-* [[文化站]]
-* [[文火]]
-* [[文集]]
-* [[文籍]]
-* [[文件]]
-* [[文江学海]]
-* [[文教]]
-* [[文静]]
-* [[文句]]
-* [[文具]]
-* [[文据]]
-* [[文科]]
-* [[文库]]
-* [[文莱]]
-* [[文理]]
-* [[文林]]
-* [[文律]]
-* [[文脉]]
-* [[文盲]]
-* [[文庙]]
-* [[文名]]
-* [[文明]]
-* [[文墨]]
-* [[文痞]]
-* [[俄凭]]
-{{mid4}}
-* [[文气]]
-* [[文契]]
-* [[文人]]
-* [[文如其人]]
-* [[文弱]]
-* [[文山会海]]
-* [[文身]]
-* [[文史]]
-* [[文士]]
-* [[文饰]]
-* [[文书]]
-* [[文思]]
-* [[文坛]]
-* [[文体]]
-* [[文无定法]]
-* [[文武]]
-* [[文武之道，一张一弛]]
-* [[文物]]
-* [[文戏]]
-* [[文献]]
-* [[文胸]]
-* [[文修武备]]
-* [[文秀]]
-* [[文选]]
-* [[文学]]
-* [[文学家]]
-* [[文学语言]]
-* [[文雅]]
-* [[文言]]
-{{mid4}}
-* [[文言文]]
-* [[文艺]]
-* [[文艺复兴]]
-* [[文艺批评]]
-* [[文艺学]]
-* [[文友]]
-* [[文娱]]
-* [[文苑]]
-* [[文约]]
-* [[文藻]]
-* [[文责]]
-* [[文摘]]
-* [[文战]]
-* [[文章]]
-* [[文职]]
-* [[文治]]
-* [[文质彬彬]]
-* [[文绉绉]]
-* [[文绉绉的]]
-* [[文竹]]
-* [[文字]]
-* [[文字学]]
-* [[文字狱]]
-* [[文節]]
-* [[金文]] (jīnwén: bronze [[inscription]])
-* [[注文]]
-* [[鐘鼎文]] (zhōng dǐng wén)
-* [[甲骨文]] (jiǎgǔwén: [[w:oracle bone script|oracle bone script]])
-{{bottom}}
-{{rel-bottom}}
+===Compounds===
+{{zh-der|文化:culture|金文:bronze inscription|甲骨文:oracle bone script|一文|上文|下文|中文|主文|尹文|人文|今文|作文|來文|修文|倒文|公文|具文|分文|初文|印文|原文|古文|右文|同文|呈文|和文|咨文|回文|國文|圖文|壽文|外文|多文|天文|奇文|契文|套文|孫文|宇文|屬文|平文|序文|廣文|弄文|弔文|引文|彝文|微文|徵文|德文|思文|慧文|懿文|成文|戲文|批文|披文|掉文|換文|撰文|收文|敘文|散文|敷文|文丑|文人|文件|文例|文偃|文儈|文具|文券|文句|文史|文同|文名|文君|文告|文命|文園|文場|文壇|文士|文契|文字|文學|文宗|文官|文定|文宣|文履|文山|文庫|文廟|文引|文弱|文彩|文德|文思|文情|文憑|文戲|文房|文才|文摘|文教|文旆|文旌|文旦|文明|文書|文會|文林|文柄|文格|文案|文武|文母|文氣|文治|文法|文深|文火|文牒|文牘|文物|文犀|文狀|文獻|文王|文理|文益|文盲|文石|文科|文移|文種|文稿|文童|文竹|文筆|文籍|文粹|文約|文繡|文義|文翁|文翰|文職|文臣|文致|文苑|文藝|文藻|文虎|文蛤|文衡|文表|文言|文調|文豪|文貌|文賦|文質|文身|文軌|文軒|文辭|文運|文過|文選|文采|文雅|文集|文靜|文面|文革|文章|文風|文飾|文體|文魔|文魚|文鳥|文墨|斯文|新文|日文|明文|時文|會文|本文|朱文|桓文|條文|梵文|榜文|檄文|歐文|正文|水文|法文|注文|洋文|浮文|深文|溫文|滿文|漢文|烈文|煩文|牒文|申文|異文|發文|白文|盲文|短文|石文|碑文|祝文|祭文|禮文|禱文|秉文|程文|策文|節文|範文|篆文|籀文|經文|綴文|習文|脫文|臨文|苗文|英文|華文|落文|藏文|藝文|虛文|行文|衍文|表文|詞文|詩文|話文|詳文|語文|說文|課文|論文|諺文|譯文|變文|讖文|賣文|贅文|赦文|跋文|轉文|釋文|重文|銘文|錢文|闕文|關文|陰文|陶文|陽文|隱文|雄文|雜文|電文|韻文|飛文|駢文|高文|鬥文|鬻文|鴻文|齋文|龍文|龜文}}
 
 ----
 
