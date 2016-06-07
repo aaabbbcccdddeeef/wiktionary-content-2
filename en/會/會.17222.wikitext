@@ -22,22 +22,18 @@
 {{zh-forms|s=会}}
 
 ===Etymology===
-The two pronunciations are ultimately cognate, derived from a root meaning "to join, to come together ~ to meet, to gather ~ to match, to fit - to understand". Perhaps related to {{zh-l|合|to match}} ~ {{zh-l|蓋|lid}}.
+All the pronunciations are ultimately cognate, derived from a root meaning "to join, to come together ~ to meet, to gather ~ to match, to fit ~ to understand". Perhaps related to {{zh-l|合|to match}} ~ {{zh-l|蓋|lid}}.
 
 ===Pronunciation 1===
 {{zh-pron
-|m=huì,er=y
-|m_note=huǐ - Only in {{zh-l|[[一會兒|一會(兒)]]}}
-|c=wui5,wui3,wui6,wui6-2
-|c_note=wui5, wui3 - "to know how to"; wui6 - "to meet, to assemble"; wui6-2 - "meeting"
-|h=pfs=voi/fi
+|m=huì
+|c=wui6,wui6-2
+|h=pfs=fi
 |mn=hōe
-|mn_note=hōe - "to meet, to assemble"
+|w=3hhue
+|dial=2
 |mc=1
 |oc=1,2
-|dial=2
-|w=2ue,3hhue
-|w_note=2ue - "to know how to"; 3hhue - "to meet, to assemble"
 |ma=y
 |cat=v,n
 }}
@@ -46,58 +42,96 @@ The two pronunciations are ultimately cognate, derived from a root meaning "to j
 {{zh-hanzi}}
 
 # [[union]], [[group]], [[association]] {{zh-mw|個}}
-#* {{zh-l|社會|society}}
-#* {{zh-l|幫會|secret society, underworld gang}}
+#* {{zh-x|社會|society}}
+#* {{zh-x|幫會|secret society, underworld gang}}
 # {{non-gloss definition|a place where people meet; an economic or political centre}}; [[city]], [[town]]
-#* {{zh-l|都會}}
-#* {{zh-l|省會}}
+#* {{zh-x|都會|capital city}}
+#* {{zh-x|省會|provincial capital}}
 # [[occasion]], [[opportunity]], [[chance]]
-#* {{zh-l|機會}}
+#* {{zh-x|機會|opportunity}}
 # to [[understand]], to [[grasp]]
-#* {{zh-l|誤會|to misunderstand; misunderstanding}}
+#* {{zh-x|誤會|to misunderstand; misunderstanding}}
 # {{†}} [[lid]], [[cover]]
-#* {{zh-l|啟會}}
+#* {{zh-x|啟會|to uncover}}
 # {{†}} to [[match]], to [[conform]]
 # {{†}} to [[marry]]
 # {{†}} to [[copulate]]
+# to [[gather]], to [[assemble]]
+#* {{zh-x|集會|to gather}}
+#* {{zh-x|昨天 我 沒有 會 著{zhe} 他。|I didn't '''see''' him yesterday.}}
+# to [[meet]], to [[rendezvous]]
+#* {{zh-x|會見|to meet with}}
+#* {{zh-x|會面|to meet with}}
+#* {{zh-x|我 要 到 車站 會 朋友.|I have to go to the station to '''meet''' a friend.}}
+# [[meeting]], [[gathering]] {{zh-mw|場|次}}
+#* {{zh-x|會議|meeting, conference}}
+#* {{zh-x|我 還有 個 會 要 開。|I have a '''meeting''' to go to.}}
+## Especially, meetings of sovereigns of their deputies in ancient China to form alliances.
+##* {{zh-x|聚會|gathering, party}}
+##* {{zh-x|盟會|meeting of sovereigns}}
+# {{†}} [[rhythm]], [[cadence]]
+#* {{zh-x|節{jié}會|rhythm of a musical piece}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=huì
+|c=wui5,wui3
+|c_note=wui3 - nonstandard
+|h=pfs=voi
+|mn=ē/ōe
+|mn_note=substitute character
+|w=2ue
+|dial=n
+|mc=1
+|oc=1,2
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # to know how to perform a task, [[can]], be able to
 #* {{zh-x|我 會 英語，不 會 日語。|I '''know''' English but don't '''know''' Japanese.}}
 #* {{zh-x|他 還 會 兩 出 ^京戲。|He's '''able''' to sing a few airs of Beijing Opera.}}
 # to be possible; [[can]]
 #: {{zh-x|污染 會 使 氣喘 加重。|Pollution '''can''' aggravate asthma.}}
-# to [[gather]], to [[assemble]]
-#* {{zh-l|集會}}
-#* {{zh-x|昨天 我 沒有 會 著{zhe} 他。|I didn't see him yesterday.}}
-# to [[meet]], to [[rendezvous]]
-#* {{zh-l|會見}}
-#* {{zh-l|會面}}
-#* {{zh-x|我 要 到 車站 會 朋友.|I have to go to the station to '''meet''' a friend.}}
-# [[meeting]], [[gathering]] {{zh-mw|場|次}}
-#* {{zh-l|會議|meeting, conference}}
-#* {{zh-x|我 還有 個 會 要 開。|I have a '''meeting''' to go to.}}
-## Especially, meetings of sovereigns of their deputies in ancient China to form alliances.
-##* {{zh-l|聚會|gathering, party}}
-##* {{zh-l|盟會|meeting of sovereigns}}
-# will, be likely to, be sure to
+# will, to be likely to, to be sure to
 #* {{zh-x|他 會 在 家 嗎？|Is he '''likely''' to be at home?}}
 #* {{zh-x|公共汽車 會 准時 到達.|The bus '''will''' arrive on time}}
-# {{†}} [[rhythm]], [[cadence]]
-#* {{zh-l|節會}}
-# a [[moment]]
-#* {{zh-x|一會}}
-#* {{zh-l|會兒}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=huì,huǐ,er=y,1nb=standard in Mainland,2nb=standard in Taiwan,2nc=common variant in Mainland
+|c=wui6
+|h=
+|mn=
+|mc=1
+|oc=1,2
+|dial=n
+|w=
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[moment]]
+#* {{zh-x|一會|a moment}}
+#* {{zh-l|會兒|a moment}}
 #* {{zh-x|等 一會兒{r}。|Wait a '''moment'''.}}
 
-===Pronunciation 2===
+===Pronunciation 4===
 {{zh-pron
-|m=kuài,guì
+|m=kuài
 |c=kui2,kui3,wui6
 |h=pfs=fi
 |mn=kòe
 |w=2kue
 |dial=1
 |mc=2
-|oc=2,1
+|oc=3,1
 |cat=v,pn
 }}
 
@@ -105,10 +139,45 @@ The two pronunciations are ultimately cognate, derived from a root meaning "to j
 {{zh-hanzi}}
 
 # {{†}} to [[compute]], to [[calculate]], to [[sum]], to do [[accounting]]
-#* {{zh-l|會計|accountant, accountancy, accounting}}
-#* {{zh-l|會計師|accountant}}
-# {{non-gloss definition|Used in placenames.}}
-#* {{zh-l|會稽|Guiji Commandery}}
+#* {{zh-x|會{kuài}計|accountant, accountancy, accounting}}
+#* {{zh-x|會{kuài}計師|accountant}}
+# {{surname|lang=zh}}
+
+===Pronunciation 5===
+{{zh-pron
+|m=kuài,guì,1nb=standard in Mainland,2nb=standard in Taiwan,2nc=variant in Mainland
+|c=
+|h=
+|mn=
+|w=
+|dial=n
+|mc=2
+|oc=3,1
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|會稽|Guiji Commandery}}
+
+===Pronunciation 6===
+{{zh-pron
+|m=kuò
+|c=
+|h=
+|mn=
+|w=
+|dial=n
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|會撮}}
 
 ===Compounds===
 {{zh-der|會標|會餐|會操|會場|會話|會見|會客|會兒|會談|會議|茶會|音樂會}}
@@ -119,7 +188,7 @@ The two pronunciations are ultimately cognate, derived from a root meaning "to j
 {{zh-cat|Beginning}}
 
 ===References===
-*(''Min Nan'') {{thcwd|9596}}
+* {{q|Min Nan}} {{thcwd|9596}}
 
 ----
 
