@@ -19,6 +19,9 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han compound|釆|田|ls=psc|c1=p|c2=s}} – "animal's footprint in the field", original form of {{zh-l|蹯}}.
+
 ===Etymology 1===
 
 ====Pronunciation====
@@ -29,8 +32,8 @@
 |md=huăng
 |mn=hoan
 |w=1fe
-|mc=y
-|oc=y
+|mc=1+2+5
+|oc=2,2+4+5
 |ma=
 |cat=v,cls,n
 }}
@@ -59,6 +62,8 @@
 |m=Pān
 |c=pun1
 |w=1phoe
+|mc=3
+|oc=n,3
 |ma=
 |cat=pn
 }}
@@ -73,16 +78,34 @@
 
 ====Pronunciation====
 {{zh-pron
-|m=Pó
+|m=pó
 |c=po4
 |ma=
-|cat=pn
+|cat=pn,a
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # {{surname|lang=zh}}
+# {{zh-only|番番|pópó}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=bō
+|c=
+|mc=4
+|oc=1,1
+|ma=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|番番|bōbō}}
 
 ----
 
