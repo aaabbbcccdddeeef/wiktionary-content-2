@@ -300,10 +300,10 @@ This word can be placed after a type of person and before a number to indicate t
 ==Hungarian==
 
 ===Pronunciation===
-* {{IPA|/ʃ/|lang=hu}}
+* {{hu-IPA}}
 * {{audio|Hu-s.ogg|Audio (conjunction)|lang=hu}}
-* {{sense|conjunction}} {{IPA|/ˈʃ/|lang=hu}}
-* {{sense|letter name}} {{IPA|/ˈɛʃː/|lang=hu}}
+* {{sense|conjunction}} {{hu-IPA}}
+* {{sense|letter name}} {{hu-IPA|ess}}
 
 ===Conjunction===
 {{head|hu|conjunction}}
@@ -311,8 +311,11 @@ This word can be placed after a type of person and before a number to indicate t
 # [[and]] (short variant of {{m|hu|és||and}})
 
 ====Derived terms====
+{{qualifier|Compound words}}:
 * {{l|hu|egyszersmind}}
 * {{l|hu|satöbbi}}
+{{qualifier|Expressions}}:
+* {{l|hu|egyszer s mindenkorra}}
 * {{l|hu|segíts magadon, s az Isten is megsegít}}
 
 ===Letter===
