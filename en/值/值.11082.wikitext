@@ -10,31 +10,44 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
-
-===Alternative forms===
-* {{zh-l|値}}
+{{zh-forms|alt=値}}
 
 ===Pronunciation===
 {{zh-pron
-|m=zhí,zhì
+|m=zhí
 |c=zik6
 |mc=y
 |oc=y
-|ma=Zh-zhí.ogg
+|ma=y
 |cat=n
 }}
 
-===Noun===
-{{zh-noun}}
+====Definitions====
+{{zh-hanzi}}
 
 # [[price]]
 # {{lb|zh|mathematics|computing|etc.}} [[value]]
-#: {{zh-x|絕對值|absolute value}}
-# be [[worth]]
-#: {{zh-x|這 塊 玉 值 一 萬 美元。|This jade is worth ten thousand dollars.}}
+#: {{zh-x|絕對值|absolute '''value'''}}
+# to be [[worth]]
+#: {{zh-x|這 塊 玉 值 一 萬 美元。|This jade '''is worth''' ten thousand dollars.}}
 # [[worthwhile]]
-#: {{zh-x|這 趟 旅行 太值了。|This journey is absolutely worthwhile.}}
+#: {{zh-x|這 趟 旅行 太 值 了。|This journey is absolutely '''worthwhile'''.}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zik6
+|mc=y
+|oc=y
+|ma=y
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ===References===
 * {{R:twedu|A00179}}
