@@ -44,7 +44,7 @@ Cognate with {{zh-l|子}} and {{zh-l|崽}}.
 =====Noun=====
 {{zh-noun}} {{tcx|Taiwan|lang=zh}}
 
-# (= {{zh-l|籽}}) [[seed]]
+# {{zh-alt-form|籽|seed}}
 #: {{zh-x|菜仔 油|rape'''seed''' oil}}
 
 ====Pronunciation 2====
@@ -58,13 +58,13 @@ Cognate with {{zh-l|子}} and {{zh-l|崽}}.
 |mc=
 |oc=
 |ma=
-|cat=noun,suffix
+|cat=n,suf
 }}
 
 =====Noun=====
 {{zh-noun}} {{tcx|regional|chiefly|Cantonese|lang=zh}}
 
-# [[son]] {{zh-mw|個|粒}}
+# [[son]] {{zh-mw|個|c:粒}}
 #: {{zh-x|你 個 仔 真係 好 乖。|Your '''son''' is very well-behaved.|C}}
 # [[child]]
 #: {{zh-x|男仔|boy|C}}
@@ -108,14 +108,14 @@ Weak form of {{zh-l|囝|tr=kiáⁿ, káⁿ}}. ({{etyl|cmn|-}} and {{etyl|yue|-}}
 {{zh-suf}} {{tcx|chiefly|Min Nan|lang=zh}}
 
 # {{non-gloss definition|a diminutive suffix for nouns, adjectives or quantities}}
-#: {{zh-x|囡仔|child|tr=gín-'''á'''|MN}}
-#: {{zh-x|小叔仔|brother-in-law (husband's younger brother)|tr=sió-chek-'''á'''|MN}}
-#: {{zh-x|勻勻仔|slowly|tr=ûn-ûn-'''á'''|MN}}
-#: {{zh-x|小可仔|a little bit|tr=sió-khuá-'''á'''|MN}}
+#: {{zh-x|囡仔|child|MN}}
+#: {{zh-x|小叔仔|brother-in-law (husband's younger brother)|MN}}
+#: {{zh-x|勻勻仔|slowly|MN}}
+#: {{zh-x|小可仔|a little bit|MN}}
 #: {{zh-x|歌仔戲|{{w|Taiwanese opera}}}}
 # {{non-gloss definition|a suffix that converts a verb or adjective into a noun}}
-#: {{zh-x|抿仔|brush|tr=bín-'''á'''|MN}}
-#: {{zh-x|矮仔|shorty|tr=é-'''á'''|MN}}
+#: {{zh-x|抿仔|brush|MN}}
+#: {{zh-x|矮仔|shorty|MN}}
 # {{non-gloss definition|a suffix placed after a name or title, used endearingly, humorously or pejoratively}}
 
 =====Synonyms=====
@@ -138,7 +138,7 @@ Weak form of {{zh-l|佮|tr=kah, kap|and}}.
 ====Interfix====
 {{zh-interfix}} {{tcx|Min Nan|lang=zh}}
 # {{non-gloss definition|an interfix placed between two nouns to show the relationship between the two objects}}
-#: {{zh-x|翁仔某|husband '''and''' wife|tr=ang-'''á'''-bó͘}}
+#: {{zh-x|翁仔某|husband '''and''' wife|MN}}
 
 ===Etymology 4===
 {{zh-forms}}
@@ -153,7 +153,7 @@ Weak form of {{zh-l|百|tr=pah|hundred}}.
 ====Interfix====
 {{zh-interfix}} {{tcx|Min Nan|lang=zh}}
 # {{non-gloss definition|an interfix placed between two numbers to denote the value of 100, i.e. x {{lang|zh|仔}} y &#61; 100x + 10y}}
-#: {{zh-x|三仔五|three '''hundred''' fifty|tr=saⁿ-'''á'''-gō͘}}
+#: {{zh-x|三仔五|three '''hundred''' fifty|MN}}
 
 ===Etymology 5===
 {{zh-forms}}
@@ -168,8 +168,8 @@ Weak form of {{zh-l|旦|tr=tòaⁿ|dawn}}.
 ====Interfix====
 {{zh-interfix}} {{tcx|Min Nan|lang=zh}}
 # {{non-gloss definition|an interfix used limitedly in certain temporal location adverbs}}
-#: {{zh-x|今仔日|today|tr=kin-'''á'''-ji̍t}}
-#: {{zh-x|明仔早|tomorrow|tr=bîn-'''á'''-chài}}
+#: {{zh-x|今{kin-}仔日|today|MN}}
+#: {{zh-x|明{bîn-}仔早{chài}|tomorrow|MN}}
 
 ===Etymology 6===
 {{zh-forms|alt=兒,欸}}
@@ -177,7 +177,7 @@ Weak form of {{zh-l|旦|tr=tòaⁿ|dawn}}.
 ====Pronunciation====
 {{zh-pron
 |h=pfs=é
-|cat=suffix,n
+|cat=suf,n
 }}
 
 ====Suffix====
