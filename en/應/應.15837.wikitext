@@ -2,13 +2,8 @@
 ==Translingual==
 {{Han simplified forms|應|応|应}}
 
-===Etymology===
-{{Han compound|䧹|心|c1=p|c2=s|t2=heart|ls=psc}}
-
 ===Han character===
 {{Han char|rn=61|rad=心|as=13|sn=16|four=00231|canj=IOGP,IGP|ids=⿸䧹心}}
-
-# [[should]], [[ought]] to, [[must]]
 
 ====References====
 * {{Han ref|kx=0405.210|dkj=11330|dj=0746.020|hdz=42359.030|uh=61C9|ud=25033|bh=C0B3|bd=49331}}
@@ -18,14 +13,18 @@
 ==Chinese==
 {{zh-forms|s=应|alt=応}}
 
+===Glyph origin===
+{{Han compound|䧹|心|c1=p|c2=s|t2=heart|ls=psc}}
+
 ===Pronunciation 1===
 {{zh-pron
 |m=yīng
 |c=jing1
-|h=
-|mn=
-|mc=y
-|oc=y
+|h=yin
+|mn=eng
+|dial=1
+|mc=1
+|oc=1,1
 |ma=
 |cat=v
 }}
@@ -33,36 +32,42 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# [[should]]
-#* {{zh-usex|《詩經 • 周頌 • 賚》：文王 既 勤 止，我 '''應{yīng}'''受 之。|"Book of Songs" weekly song "reward":The industrious life, I should accept the.}}
-# {{rfdef|lang=zh}}
+# [[should]]; [[ought to]]
+#: {{zh-x|文王 既 勤 止，我 應{yīng} 受 之。|King Wen laboured earnestly; Right is it we '''should''' have received [the kingdom].|ref=Shijing}}
+# [[perhaps]]; [[maybe]]
 
-=====Derived terms=====
-* {{zh-l|應該}}
+====Compounds====
+{{zh-der|應該|應當|應得|應盡|該應}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=yìng
 |c=jing3
-|h=pfs=en/yin
-|mn=ìn/eng/èng
-|mn_note=ìn - vernacular, eng, èng - literary
-|mc=y
-|oc=y
+|h=pfs=en/yin/yín
+|h_note=en - colloquial ("to reply"); yin - literary ("to agree, to handle"); yín - colloquial ("to promise")
+|mn=ìn/èng
+|mn_note=ìn - vernacular; èng - literary
+|dial=2
+|mc=2
+|oc=n,2
 |ma=
-|cat=v
+|cat=v,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# to [[answer]]; to [[reply]]
+# to [[permit]]; to [[promise]]
+# to [[agree]]; to [[echo]]; to go [[along]] with
+# to [[handle]]; to [[deal]] with
+# to [[confirm]]; to [[verify]]
+# to [[suit]]; to [[fit]]
+# to [[accept]]
+# {{surname|lang=zh}}
 
-=====Derived terms=====
-* {{zh-l|答應}}
-
-======References======
-* {{qualifier|Min Nan}} {{thcwd|12172}}
+====Compounds====
+{{zh-der|答應|回應|應答|應驗|得心應手|反應|供應|效應|呼應|回應|報應|對應|相應|感應|應召|應承|應用|應聘|應聲|應酬|接應|順應|支應|適應}}
 
 ----
 
