@@ -23,13 +23,10 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
-
-===Alternative forms===
-* {{zh-l|囸}}
+{{zh-forms|alt=囸,𡆠,𡇁,𡆸,𡇗,𡈎}}
 
 ===Etymology===
-From {{etyl|sit-pro|zh}} {{m|sit-pro|*nəj}}.
+From {{inh|zh|sit-pro|*nəj}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -42,17 +39,17 @@ From {{etyl|sit-pro|zh}} {{m|sit-pro|*nəj}}.
 |mc=y
 |oc=y
 |ma=y
-|cat=n,prefixes,suffixes
+|cat=n,pre,suf
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{label|zh|literary|sort=ri4}} [[sun]]
-# {{label|zh|literary|sort=ri4}} [[day]]
+# {{lb|zh|literary|or|dialectal}} [[sun]]
+# {{lb|zh|literary|or|dialectal}} [[day]]
 # day of the month
-# {{abbreviation of|日本|lang=zh|dot=:}} [[Japan]]; [[Japanese]]; [[Nippo-]]
-#: {{zh-x|中日 詞典|Chinese'''-Japanese''' dictionary}}
+# {{zh-abbrev|日本|[[Japan]]; [[Japanese]]; [[Nippo-]]|dot=:}}
+#: {{zh-x|中日 詞典|Chinese-'''Japanese''' dictionary}}
 
 ====Synonyms====
 * {{sense|sun}} {{zh-l|太陽}}
