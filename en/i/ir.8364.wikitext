@@ -229,12 +229,15 @@ From {{etyl|ine-bsl-pro|lt}} {{m|ine-bsl-pro|*ir||and, also}}, compare {{etyl|lv
 * {{l|gmq-osw|i|ī}}
 
 ===Etymology===
-From {{etyl|non|gmq-osw}} {{m|non|ír}}, variant of {{m|non|ér}}.
+From {{inh|gmq-osw|non|ír}}, variant of {{m|non|ér}}, from {{inh|gmq-osw|gem-pro|*jīz}}, variant of {{m|gem-pro|*jūz}}.
 
 ===Pronoun===
 {{head|gmq-osw|pronoun|cat2=personal pronouns|head=īr}}
 
 # [[you]] {{gloss|plural}}
+
+====Declension====
+{{gmq-osw-decl-ppron}}
 
 ====Descendants====
 * Swedish: {{l|sv|I}}, {{l|sv|ni}}
