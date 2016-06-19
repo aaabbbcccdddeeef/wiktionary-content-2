@@ -1,6 +1,4 @@
-{{also|唔}}
 {{character info/new}}
-
 ==Translingual==
 {{stroke order|type=animate}}
 
@@ -10,9 +8,6 @@
 ====Descendants====
 * [[ふ]]
 * [[フ]]
-
-===See also===
-* {{l|mul|弗}}
 
 ===References===
 * {{Han ref|kx=0076.150|dkj=00019|dj=0149.040|hdz=10011.060|uh=4E0D|ud=19981|bh=A4A3|bd=42147}}
@@ -28,11 +23,40 @@
 ===Glyph origin===
 {{Han etyl}}
 
-{{liushu|p}}
+{{liushu|p}}.
 
-The character {{lang|mul|不}} originated as a pictograph of the [[calyx]] of a flower. It was then composed into a phono-semantic character with the pictograph for mouth ({{l|mul|口}}), to form {{l|mul|否}}, representing "no", negation. This composed meaning then spread back to the original character {{lang|mul|不}}, making it a synonym of {{lang|mul|否}}. A new character of {{l|mul|柎}} was eventually created to represent the original meaning of calyx.
+The character {{lang|zh|不}} originated as a pictograph of the [[calyx]] of a flower. It was then composed into a phono-semantic character with the pictograph for mouth ({{zh-l|*口}}), to form {{och-l|否}}, representing “no” (negation). This composed meaning then spread back to the original character {{lang|zh|不}}, making it a synonym of {{lang|zh|否}}. A new character of {{och-l|柎}} was eventually created to represent the original meaning of calyx.
 
 [[w:Bernhard_Karlgren|Karlgren]] and [[w:Léon_Wieger|Wieger]] interpret it as a bird flying toward the sky ({{zh-l|*一}}). The sky being the limit for the bird, thus the idea of negation.
+
+===Etymology===
+Old Chinese had two sets of negatives: the initial *''p''-series and the initial *''m''-series. {{lang|zh|不}} is the prototype of the *''p''-series of negatives. Although it is the usual Literary Chinese negative attested from the [[oracle bone script]] down, its current usage is now confined to Mandarin dialects. In the oracle bone inscriptions, a total of five negative particles can be found: {{och-l|*不}}, {{och-l|*弗}}, {{och-l|*毋}}, {{och-l|*勿}} and {{och-l|*非}}. With the exception of {{och-l|*非}} (discussed later), the remaining can be neatly organised into the following system:
+
+{| class="wikitable" style="text-align:center"
+! !! *''-V'' !! *''-ɯd''
+|-
+! *''p-''type negatives (< ?)
+| {{och-l|不}} || {{och-l|弗}}
+|-
+! *''m-''type negatives (< {{cog|sit-pro|*ma}})
+| {{och-l|毋}}<br>({{och-l|無}}) || {{och-l|勿}}
+|}
+
+{{zh-ref|Takahashi (1996)}} argued that the *''m-''type negatives are modal (i.e. negative verbs which are thought of as controllable by the {{w|Shang Dynasty|Shang}}), whereas the *''p-''type negatives are non-modal (imply uncontrollability; actions which are beyond the control of living persons).
+
+In the *''p''-series, {{lang|zh|不}} usually goes with intransitive verbs in the oracle bone script, and {{och-l|弗}} with transitive ones, although there are some glaring exceptions. Little or no pattern can be discerned in the *''m-''type category. {{zh-ref|Takahashi (1996)}} also proposed that the difference between the two vowel series was whether they preceded “stative, eventive, passive” (*''-V'' series) or “non-stative, non-eventive, active” (*''-ɯd'' series) verbs. 
+
+It is possible that the two parallel series of negatives in Old Chinese represent a fusion of the common Sino–Tibetan {{m|sit-pro|*ma||no, not}} (carried by the eastward-migrating early Sino–Tibetans) and an indigenous negation system in Central China, and that the merger had been complete by the {{w|Shang Dynasty|Shang}} times. Compare a similar system in Proto-Tai: {{m|tai-pro|*ɓawᴮ||not [strong form 1]}}, {{m|tai-pro|*boːᴮ||not [strong form 2]}}, {{m|tai-pro|*miːᴬ||not [weak form]}}; {{etyl|th|-}} {{m|th|บ่||(''literary, archaic, dialectal'') not}}.
+
+In developing from Middle Chinese to Mandarin, this word escaped from regular sound changes to yield its modern pronunciation of ''bù'', owing to itself belonging to the popular stratum. The expected reading is ''fǒu'', with labiodentalisation, now represented by its unaffected Middle Chinese homophone {{zh-l|*否|not}}. The development from Old Chinese to Middle Chinese was not regular either; the variant Middle Chinese readings with [[checked]] coda (''–t'') were an innovation not found in Old Chinese. Another example of high-frequency words escaping regular sound changes is {{och-l|父|dad}}, which resulted in a late coinage of {{zh-l|爸}}.
+
+{{lang|zh|不}} is cognate with other negation particles in the *''p-''type category:
+
+* {{och-l|弗|not}};
+* {{och-l|非|tr=*pɯj|not be; not}} – can be safely regarded as a fusion of {{och-l|不|not}} and {{och-l|惟|to be}};
+* {{och-l|否|not; to be wrong}};
+* {{och-l|匪|it is not; to be not}}; and
+* {{och-l|棐|it is not; to be not}}.
 
 ===Pronunciation 1===
 {{zh-pron
@@ -41,8 +65,8 @@ The character {{lang|mul|不}} originated as a pictograph of the [[calyx]] of a 
 |h=pfs=put
 |mn=put
 |w=4peq
-|mc=1,3,4
-|oc=1,1+3
+|mc=1+2+3+4
+|oc=1,1+2+3
 |ma=y
 |cat=adv,part
 }}
@@ -110,7 +134,6 @@ The character {{lang|mul|不}} originated as a pictograph of the [[calyx]] of a 
 {{zh-pron
 |m=fū
 |c=
-|oc=n,2
 |cat=adv,part
 }}
 
