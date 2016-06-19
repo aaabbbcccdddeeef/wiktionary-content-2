@@ -21,10 +21,21 @@
 {{Han etyl}}
 {{Han simp|舞|f=舛|t=&nbsp;}} – removal of {{zh-l|*舛}} (character used for sound). (Compare {{zh-l|*可}} from {{zh-l|*奇}}.)
 
-Source character {{och-l|舞}} meaning “dance”, top component graphically originally a figure with outstretched arms holding two animal hides: [[革]] + [[大]] + [[革]].
+In the source character {{och-l|舞|dance}}, top component graphically originally a figure with outstretched arms holding two animal hides: {{zh-l|*革}} + {{zh-l|*大}} + {{zh-l|*革}}.
 
 ===Etymology 1===
+Core Sino–Tibetan. From {{inh|zh|sit-pro|*ma||no, not}}; cognate with {{cog|bo|མ||not}} and {{cog|my|မ||not}}. This word is the prototypical negation particle in the *''m-'' series of Chinese negatives. Cognate with:
 
+* {{och-l|微|not, no}}
+* {{och-l|毋|do not}}
+* {{och-l|勿|not, don't}}
+* {{och-l|未|not yet, haven't}}
+* {{och-l|靡|not, no}}
+* {{och-l|亡|not have; to flee, to disappear, to die}}
+* {{och-l|沒|to end, to disappear, to drown}}
+* {{och-l|莫|none, nobody, nothing; do not; can not}}
+
+See also {{och-l|不|not}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -82,13 +93,14 @@ From {{der|zh|sa|नमस्}}.
 |c=mo4
 |h=pfs=mò
 |md=mŏ
-|cat=
+|w=3mo
+|cat=part
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-only used in|南無}}
+# {{zh-only|南無}}
 
 ====Compounds====
 {{zh-der|南無|南無阿彌陀佛}}
