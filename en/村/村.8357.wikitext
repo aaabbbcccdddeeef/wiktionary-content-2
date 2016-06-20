@@ -59,7 +59,7 @@
 # [[village]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[そん]] (son)
 |kanon=[[そん]] (son)
 |kun=[[むら]] (mura)}}
@@ -67,9 +67,17 @@
 ====Usage notes====
 Frequently found as part of a surname, with reading {{ja-r|むら}}, as in {{ja-r|村上|^むらかみ}}.
 
-===Pronunciation===
+====Compounds====
+* {{ja-r|村落|そんらく|[[village]], [[hamlet]]}}
+
+{{wikipedia|lang=ja}}
 {{ja-kanjitab|むら|yomi=k}}
-{{ja-pron|むら|accent=o|yomi=kun|acc_ref=NHK}}
+
+===Etymology===
+Cognate with {{m|ja|群|tr=mura||gathering}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|むら|acc=2|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|むら}}
@@ -77,7 +85,7 @@ Frequently found as part of a surname, with reading {{ja-r|むら}}, as in {{ja-
 # [[village]]
 
 ===References===
-<references />
+<references/>
 
 [[Category:1000 Japanese basic words|むら]]
 
