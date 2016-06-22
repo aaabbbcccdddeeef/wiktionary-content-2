@@ -2,16 +2,8 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han compound|止|一|t1=foot|t2=the beginning place|ls=ic}}, meaning "to go".
-
 ===Han character===
 {{Han char|rn=4|rad=丿|as=03|sn=3|four=30307|canj=INO}}
-
-# [['s|’s]] (marks preceding phrase as modifier of following phrase)
-# [[it]], [[him]], [[her]], [[them]]
-# [[go to]]
 
 ====Derived characters====
 * [[乏]] [[芝]]
@@ -31,65 +23,46 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|止|一|t1=foot|t2=the beginning place|ls=ic}} – meaning “to go”.
+
 ===Pronunciation===
 {{zh-pron
 |m=zhī
 |c=zi1
 |h=
 |mn=chi
-|w=
+|w=1tsr
 |mc=y
 |oc=y
 |ma=
 |cat=part,pron,v
 }}
 
-===Determiner===
-{{zh-det}}
+===Definitions===
+{{zh-hanzi}}
 
-# {{label|zh|obsolete}} This.
-#* {{zh-x|'''之''' 子 于 歸。|'''This''' girl is to get married.|ref=《詩經·周南·桃夭》|CL}}
-
-===Verb===
-{{zh-verb}}
-
-# {{label|zh|obsolete}} To sprout, to come about.
-#* {{zh-x|如 語 焉 而未 '''之'''然。|As though you have said something to your parents but their reply has not yet '''come'''.|ref=《禮記·祭義》|CL}}
-# {{label|zh|obsolete}} To go.
-#* {{zh-x|吾 欲 '''之''' 楚。|I want to '''go to''' Chu.|ref=《戰國策·魏策四》|CL}}
-
-===Particle===
-{{zh-particle}}
-
-# Indicates that the previous word has [[possessive|possession]] of the next one.
-#* {{zh-x|^美國 '''之''' 聲|Voice '''of''' America}}
-#* {{zh-x|論 到 從起 初原 有的 生命 '''之''' 道，就是 我們 所 聽見 所 看見，親眼 看 過，親手 摸 過 的。|That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word '''of''' life.|ref=[http://wordproject.org/multi/bi_en_cn_py.htm 1John 1.1]}}
-# Indicates that the previous word [[modify|modifies]] the next one.
-#* {{zh-x|尺寸'''之'''功|a minor contribution}}
-
-====Usage notes====
-* As a particle, in English it functions like {{m|en|'s}} or like the word {{m|en|of}} but with the position of possessor and possessee switched.
-* {{zh-l|的|tr=de}} is more common but {{lang|zh|之}} is used in many set expressions.
+# {{n-g|Indicates that the previous word has [[possessive|possession]] of the next one.}}
+#: {{zh-x|生命 之 道|the way '''of''' life}}
+#: {{zh-x|^美國 之 聲|Voice '''of''' America}}
+# {{n-g|Indicates that the previous word [[modify|modifies]] the next one.}}
+#* {{zh-x|尺寸之功|a minor contribution}}
+# {{†}} [[this|This]].
+#* {{zh-x|之 子 于 歸。|'''This''' girl is to get married.|ref=Shijing}}
+# {{†}} To [[sprout]], to [[come about]].
+#* {{zh-x|如 語{yù} 焉 而未 之然。|As though you have said something to your parents but their reply has not yet '''come'''.|ref=Liji}}
+# {{†}} To [[go]].
+#* {{zh-x|吾 欲 之 楚。|I want to '''go to''' Chu.|ref=Zhanguoce}}
+# {{n-g|The third-person pronoun: [[him]], [[her]], [[it]], [[them]], when it appears in a non-subject position in the sentence.}}
+#* {{zh-x|好{hào} 一一 聽 之。|He preferred to listen to '''them''' one-by-one.|ref=Hanfeizi}}
+#* {{zh-x|我們 不能 對 此 事 聽之任之。|We cannot pass '''this matter''' by without protest.}}
 
 ====Synonyms====
-* {{zh-l|的|tr=de}}
+{{zh-dial|的}}
 
-====Compounds====
-* {{zh-l|之後}}
-* {{zh-l|之前}}
-
-===Pronoun===
-{{zh-pronoun}}
-
-# The third-person pronoun: [[him]], [[her]], [[it]], [[them]].
-#* {{zh-x|好 一一 聽 '''之'''。|He preferred to listen to '''them''' one-by-one.|ref=《韓非子·內儲說上七術》|CL}}
-#* {{zh-x|我們 不能 對此事 聽'''之'''任'''之'''。|We cannot pass '''this matter''' by without protest.}}
-
-====Usage notes====
-* The pronoun {{lang|zh|之}} is never used as a subject.
-
-===References===
-* (''Min Nan'') {{thcwd|572}}
+===Compounds===
+{{zh-der|之後|之前|久之|之外|之子|之江|之無|何之|兼之|均之|敬之|總之|過之|頃之}}
 
 ----
 
