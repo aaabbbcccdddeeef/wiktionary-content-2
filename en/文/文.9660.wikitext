@@ -81,59 +81,145 @@
 |nanori=[[かざり]] (kasari), [[ふ]] (fu), [[も]] (mo)
 }}
 
-====Compounds====
-{{top3}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|もん}}
+From {{etyl|ltc|ja|sort=もん}} {{m|zh|文|tr=mjun||ornate; a kind of coin; language, literature, a letter, a character}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|もん|acc=1|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|もん}}
+
+# the {{w|Japanese mon (currency)|mon}}, an old [[currency]]
+# a unit of [[length]] for measuring the size of one's foot {{qualifier|from the way that the ''mon'' coins would be lined up and used as a kind of [[inch]] marker}}
+# a [[character]], a [[letter]]
+# [[writing]], something [[written]]
+# a [[magical]] [[spell]]
+# {{qualifier|also spelled {{m|ja|紋}}}} a [[design]], a [[pattern]]
+# {{qualifier|also spelled {{m|ja|紋}}}} a {{m|ja|家紋|tr=kamon||family crest}}
+
+=====Usage notes=====
+The {{m|en|design}} and {{m|en|crest}} senses are more often spelled {{m|ja|紋}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|文句|もんく}}
+* {{ja-r|文言|もんごん}}: the [[phrasing]] or [[wording]] of a piece of [[writing]]
+* {{ja-r|文字|もじ}}: a [[character]], a [[letter]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ぶん}}
+A later borrowing from {{etyl|ltc|ja|sort=ぶん}}.  Compare modern {{etyl|nan|-}} reading ''bûn'', {{etyl|hak|-}} ''vûn''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぶん|acc=1|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|ぶん}}
+
+# {{label|ja|grammar|sort=ふん'}} a [[sentence]]
+# [[writing]], [[composition]]
+# a [[design]] or [[pattern]] as [[decoration]]
+# [[literature]], [[learning]], [[scholarship]]
+# [[elegance]], [[refinement]] {{qualifier|especially of writing or wording}}
+# a [[saying]], an [[aphorism]], a [[proverb]]
+
+====Derived terms====
+{{der-top}}
 * {{ja-r|文案|ぶんあん}}
 * {{ja-r|文意|ぶんい}}
 * {{ja-r|文化|ぶんか}}
-* {{ja-l|文官}}
-* {{ja-r|文学|ぶんがく}}
-* {{ja-r|文句|もんく}}
+* {{ja-r|文官|ぶんかん}}: a [[civil servant]], a [[public official]]
+* {{ja-r|文学|ぶんがく}}: [[literature]]
 * {{ja-r|文芸|ぶんげい}}
-* {{ja-l|文言}}
+* {{ja-r|文言|ぶんげん}}: the [[phrasing]] or [[wording]] of a piece of [[writing]]; in Chinese contexts, the [[written]] style or [[register]] as opposed to the [[spoken]] style or [[register]]
 * {{ja-r|文豪|ぶんごう}}
-{{mid3}}
 * {{ja-r|文才|ぶんさい}}
-* {{ja-r|文字|もじ}}
-* {{ja-l|文書}}
+* {{ja-r|文書|ぶんしょ}}
 * {{ja-r|文章|ぶんしょう}}
-* {{ja-r|文身|いれずみ}}
 * {{ja-r|文人|ぶんじん}}
 * {{ja-r|文責|ぶんせき}}
 * {{ja-r|文体|ぶんたい}}
-* {{ja-r|文筆|ぶんぴつ}}
-{{mid3}}
-* {{ja-r|文法|ぶんぽう}}
+* {{ja-r|文筆|ぶんぴつ}}: [[writing]], [[literary]] [[work]], [[literature]]
+* {{ja-r|文法|ぶんぽう}}: [[grammar]]
 * {{ja-r|文末|ぶんまつ}}
-* {{ja-r|文脈|ぶんみゃく}}
+* {{ja-r|文脈|ぶんみゃく}}: [[genre]]
 * {{ja-r|文民|ぶんみん}}
-* {{ja-r|文明|ぶんめい}}
+* {{ja-r|文明|ぶんめい}}: [[civilization]]
 * {{ja-r|文面|ぶんめん}}
-* {{ja-r|論文|ろんぶん}}: thesis
-* {{ja-r|博士論文|はかせろんぶん}}: Ph.D. thesis
-* {{ja-r|礼文島|れぶんとう}}: Rebun Island
-{{bottom}}
+* {{ja-r|論文|ろんぶん}}: [[thesis]]
+* {{ja-r|博士論文|はくし ろんぶん}}: a Ph.D. thesis
+* {{ja-r|礼文島|れぶんとう}}: {{w|Rebun Island}}
+{{der-bottom}}
 
-===Noun===
-{{ja-noun|ぶん}}
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ふみ}}
+Possibly a shift from an older {{etyl|ltc|-}}-derived reading ''pun''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Earlier Japanese writing was ambiguous regarding the final ''n'' sound spelled {{m|ja|ん}} in modern Japanese, with this sound often spelled (and possibly pronounced) as {{m|ja|む|tr=mu}} instead.
 
-# {{label|ja|grammar|sort=ふん'}} [[sentence]]
+{{IPAchar|*/pumu/}} → {{IPAchar|/pumi/}} → {{IPAchar|/ɸumi/}}
 
-===Noun===
-{{ja-noun|もん}}
+This reading appears in the {{w|Heian period}}, in works such as ''{{w|The Tale of Genji}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-# the {{w|Japanese mon (currency)|mon}}, an old currency
+====Pronunciation====
+{{ja-pron|yomi=k|ふみ|acc=1|acc_ref=DJR,SMK5}}
 
-===Noun===
+====Noun====
 {{ja-noun|ふみ}}
 
-# [[letter]]
+# [[writing]], something [[written]]
+# a [[letter]] {{qualifier|written communication}}, an [[epistle]]
+# {{lb|ja|sort=ふみ|archaic}} [[study]], [[scholarship]] {{qualifier|especially of classical Chinese}}
+# a style of {{m|ja|家紋|tr=kamon||family crest}}
 
-====Synonyms====
-* {{ja-r|手紙|てがみ}}
+=====Synonyms=====
+* {{sense|letter, epistle}} {{ja-r|手紙|てがみ}}
 
-====Derived terms====
-* {{ja-r|恋文|こいぶみ}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|恋%文|こい%ぶみ}}: a [[love letter]]
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|あや}}
+Uncertain.  Appears in texts from the early {{w|Heian period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あや|acc=2|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|あや}}
+
+# {{qualifier|also spelled {{m|ja|紋}}, {{m|ja|綾}}}}
+## a [[pattern]], a [[design]], especially one with [[diagonally]] [[crossing]] lines
+## a [[diagonal]] [[crossing]]
+## a [[flowery]] [[expression]] or [[turn of phrase]]
+## a [[plot]], a [[scheme]]
+## a [[refrain]] or recurring [[phrase]] in a piece of [[music]]
+## a [[harder]] [[vein]] or [[grain]] in a leaf or piece of wood or bamboo
+## a [[stain]], a [[blemish]]
+## a [[mediator]], a [[go-between]] {{qualifier|apparently from the way that a go-between can make the relationship more indirect and indistinct}}
+## a small indistinct [[fluctuation]] in a trend line
+# {{qualifier|also spelled {{m|ja|綾}}, {{m|ja|絢}}}}
+## a kind of [[woven]] [[silk]] [[textile]] with a diagonally crossing pattern
+## short for {{m|ja|綾織|tr=ayaori}}: a [[twill]] [[weave]]; someone who [[weave]]s [[twill]]
+## short for {{m|ja|綾竹|tr=ayadake}}: in a [[loom]], a [[bamboo]] [[pole]] placed between the [[heddle]] and the [[back beam]] or [[platen]], used to improve the handling
+## short for {{m|ja|綾取り|tr=ayatori}}: [[cat's cradle]]
+
+=====Usage notes=====
+For the second group of senses, the {{m|ja|綾}} spelling is more common.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|奇|あや}}, {{ja-r|怪|あや}}: [[mystifying]], [[mysterious]], [[strange]] {{qualifier|from the way that an ''aya'' pattern could confound the eyes}}
+* {{ja-r|綾織|あやおり}}: a [[twill]] [[weave]]; someone who [[weave]]s [[twill]]
+* {{ja-r|綾竹|あやだけ}}: in a [[loom]], a [[bamboo]] [[pole]] placed between the [[heddle]] and the [[back-beam]] or [[platen]], used to improve the handling
+* {{ja-r|綾取り|あやとり}}: [[cat's cradle]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
