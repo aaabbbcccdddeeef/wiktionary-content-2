@@ -44,37 +44,34 @@ Cognate with {{och-l|寔|this}}, {{och-l|實|this}} and {{och-l|諟|to examine, 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{lb|zh|archaic}} [[this]]; this [[thing]]
-#: {{zh-x|是日|[''archaic''] '''this''' day}}
-#* {{zh-x|是 可 忍 ， 孰 不 可 忍 ？|If '''this''' can be tolerated, what cannot?}}
-# {{lb|zh|copulative}} to [[be]].
-#* {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}
-#: {{zh-x|我 是 老師|I '''am''' a teacher}}
-#* {{zh-x|我 是 中國人|I '''am''' Chinese.}}
-# to [[be]] {{gloss|to occupy a place}}
-#* {{zh-x|到處 都 是|to '''be''' everywhere}}
-#* {{zh-x|房子 前面 是 禾場。|The threshing floor '''is''' in front of the house.}}
-# to [[suit]]
-# {{n-g|A particle indicating concession.}}
-# {{n-g|A syntactic marker for emphasis.}}
-#* {{zh-x|我 是 昨天 買 的 票。|It '''was''' yesterday when I bought the ticket.}}
-# [[every]], [[any]]
-# [[right]], [[true]], [[correct]]
+# {{lb|zh|obsolete}} [[this]]; this [[thing]]
+#* {{zh-x|是日|'''this''' day}}
+#* {{zh-x|是 可 忍 ， 孰 不 可 忍 ？|If '''this''' can be tolerated, what cannot?|ref=Analects}}
+# {{lb|zh|copulative}} to be.
+## {{n-g|indicating that the subject and object are the same.}}
+##: {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}
+## {{n-g|indicating that the subject has the qualities described by a noun or noun phrase.}}
+##: {{zh-x|我 是 老師|I '''am''' a teacher}}
+##: {{zh-x|我 是 中國人|I '''am''' Chinese.}}
+## {{n-g|indicating a place being occupied by the object, where the place forms the subject.}}
+##: {{zh-x|房子 前面 是 禾場。|The threshing floor '''is''' in front of the house.}}
+##: {{zh-x|到處 都 是|to '''be''' everywhere}}
+# {{n-g|a particle emphasizing the word following it.}}
+#: {{zh-x|我 是 昨天 買 的 票。|'''It was''' yesterday when I bought the ticket.}}
+#: {{zh-x|我 買 票 是 在 昨天。|'''It was''' yesterday when I bought the ticket.}}
+# {{n-g|a particle showing agreement. In this meaning, 是 is stressed.}} [[truly]]; [[indeed]].
+#: {{zh-x|天氣 是 冷。|It is '''indeed''' cold.}}
+#: {{zh-x|是 ， 長{zhǎng}官 。|'''Yes''', sir.}}
+# {{lb|zh|only in compounds}} [[true]], [[correct]]
+#* {{zh-x|不是|fault; mistake; wrongdoing}}
 #* {{zh-x|你 說 得{de} 是|What you said is '''right'''}}
-# to [[praise]], to [[justify]]
-# [[certainly]], [[really]]
-# [[yes]] (as answer to a question)
-#: {{zh-x|不是|no}}
-# {{lb|zh|archaic}} [[affair]]; [[matter]]
-#* {{zh-x|共 商 國 是|to discuss national '''affairs'''}}
+#* {{zh-x|各 行 其 是|to have each going his own way, i.e., doing what he considers '''right'''}}
+#* {{zh-x|共 商 國 是|to discuss national affairs }} (This is a fossil word from Ancient Chinese where 是 originally means "what is right (for the country)", i.e., "laws and policies")
 # {{surname|lang=zh}}
-
-====Synonyms====
-{{zh-dial}}
 
 ====Usage notes====
 {{hide box|Usage notes|align=left|
-Even if it is translated as "[[be|to be]]", {{lang|zh|是}} is used only to link two nouns or nominal expressions.
+When translated as "[[be|to be]]", {{lang|zh|是}} is used only to link two nouns or nominal expressions.
 : {{zh-x|我 是 老師|I '''am''' a teacher}}
 : {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}
 {{lang|zh|是}} cannot be used to link a noun and an adjective. The following sentence is wrong:
@@ -84,6 +81,10 @@ The correct sentence is
 Here, {{zh-l|很}} is used as a filler to link a noun and an adjective and is not interpreted as "very". Not using it would sound unnatural.
 A way to use {{lang|zh|是}} with an adjective is to use {{zh-l|的}} after the adjective to turn it into a noun.
 : {{zh-x|那 隻 猫 是 黑 的|This cat is black (This cat is a black one)}}}}
+
+====See also====
+* {{q|literary|Cantonese|Hakka}} {{zh-l|係}}
+
 ====Compounds====
 {{zh-der|是不是|是以|是否|是啥說啥|是故|是的|是非|是非不分|是非分明|是非曲直|是非自有公論|是非莫辨|乃是|也就是|事實求是|事求是|但是|便是|倒是|值得注意的是|假假若是|光是|凡是|利是|原因是|只是|可不是|可是|多得是|如是|實事求是|尤其是|就是|或是|於是|既是|有的是|橫是|正是|比比皆是|求是|為的是|煞是|獨行其是|盡是|硬是|確是|積非成是|算是|總是|老是|而是|自以為是|自行其是|若是|莫不是|莫衷一是|要不是|要是|賠不是|還是|那倒是|那是|重要的是|雖是}}
 
