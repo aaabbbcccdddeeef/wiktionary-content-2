@@ -2,20 +2,8 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han compound|戈|口|一|ls=ic}}, "territory".
-
-Borrowed for abstract meanings. The derivative [[國]] and [[域]] refer to the original word.
-
-Note that [[咸]] is not derived from 或, and that the characters 口一 are stacked in the opposite order in these characters. Both are ultimately from {{m|mul|戈||halberd, spear|sc=Hani}}.
-
 ===Han character===
 {{Han char|rn=62|rad=戈|as=04|sn=8|four=53100|canj=IRM|ids=⿹戈⿱口一}}
-
-# [[or]], [[either]], [[else]]
-# [[perhaps]], [[maybe]]
-# [[someone]], [[somebody]], [[some]] people
 
 ====Usage notes====
 While 或 is both a traditional and simplified character (it was not simplified), it ''is'' simplified as a component of the character [[國]] → [[国]].
@@ -30,6 +18,14 @@ While 或 is both a traditional and simplified character (it was not simplified)
 
 ==Chinese==
 {{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|戈|口|一|ls=ic}}, “territory”.
+
+Borrowed for abstract meanings. The derivative {{och-l|國}} and {{och-l|域}} refer to the original word.
+
+Note that {{zh-l|*咸}} is not derived from {{lang|zh|或}}, and that the characters {{lang|zh|口}} and {{lang|zh|一}} are stacked in the opposite order in these characters. Both are ultimately from {{zh-l|*戈|halberd, spear}}.
 
 ===Pronunciation 1===
 {{zh-pron
@@ -48,19 +44,20 @@ While 或 is both a traditional and simplified character (it was not simplified)
 {{zh-hanzi}}
 
 # [[or]], either ... or
-#: {{zh-x|'''或'''多'''或'''少|[[more or less]], some amount}}
-#: {{zh-x|^中國 '''或''' ^日本 生產 的 電腦|a computer manufactured in China '''or''' Japan}}
-#: {{zh-x|可以 說 兩 種 '''或''' 兩 種 以上 的 語言|able to speak two '''or''' more languages}}
+#: {{zh-x|^中國 或 ^日本|China '''or''' Japan}}
+#: {{zh-x|或多或少|[[more or less]], some amount}}
+#* {{zh-x|可以 說 兩 種 或 兩 種 以上 的 語言|able to speak two '''or''' more languages}}
 # [[perhaps]], [[maybe]]
-#: {{zh-x|代表團 已 出發， 明天 上午 '''或''' 可 到達。|The delegation has set out, and will '''probably''' arrive tomorrow morning.}}
+#* {{zh-x|代表團 已 出發， 明天 上午 或 可 到達。|The delegation has set out, and will '''probably''' arrive tomorrow morning.}}
 # [[occasionally]], [[sometimes]]
 # {{†}} [[someone]], [[some]] people, [[something]]
-#* {{zh-x|齊 人 伐 燕，勝 之。宣 王 問 曰：「'''或''' 謂 寡人 勿 取，'''或''' 謂 寡人 取 之」。|Qi attacked Yan, conquering it. King Xuan said: "'''Some people''' tell me not to take it [Yan] for myself; '''some''' tell me to take it".|CL}}
+#* {{zh-x|齊 人 伐 燕，勝 之。宣 王 問 曰：「或 謂 寡人 勿 取，或 謂 寡人 取 之」。|Qi attacked Yan, conquering it. King Xuan said: "'''Some people''' tell me not to take it [Yan] for myself; '''some''' tell me to take it".|CL}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=yù
 |c=wik6
+|dial=n
 |oc=2,n
 |ma=y
 |cat=n
@@ -69,8 +66,11 @@ While 或 is both a traditional and simplified character (it was not simplified)
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{non-gloss definition|Alternative form of {{zh-l|域|range, territory}}.}}
-# {{†}} {{non-gloss definition|Alternative form of {{zh-l|國/国|country}}.}}
+# {{†}} {{zh-original|域|range, territory}}
+# {{†}} {{zh-original|國|country}}
+
+===Compounds===
+{{zh-der|不可或缺|倘或|偶或|即或|多言或中|容或|或人|或則|或是|或時|或曰|或有|或然率|或缺|或者|或許|或謂|或體|抑或|甚或|設或|間或}}
 
 ----
 
