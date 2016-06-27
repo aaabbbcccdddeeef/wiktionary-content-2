@@ -1,11 +1,9 @@
+{{also|肴}}
 ==Translingual==
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=74|rad=月|as=02|sn=6|four=40227|canj=KB|ids=⿱𠂇月}}
-
-====See also====
-* {{l|mul|肴}} <!-- unrelated etymologically, but current form similar -->
 
 ====References====
 * {{Han ref|kx=0504.200|dkj=14332|dj=0880.020|hdz=32041.050|uh=6709|ud=26377|bh=A6B3|bd=42675}}
@@ -17,11 +15,18 @@
 
 ===Glyph origin===
 {{Han etyl}}
-{{Han compound|又|t1=hand|肉|alt2=⺼|t2=meat|ls=ic}} – a hand holding meat, hence “in possession of”; {{lang|zh|又}} also acts as a phonetic component. The hand shape has been significantly abstracted; compare {{zh-l|*右}}.
+{{Han compound|又|t1=hand|肉|alt2=⺼|t2=meat|ls=psc|c1=p|c2=s}} – a hand holding meat, hence “in possession of”. {{lang|zh|又}} is both a phonetic and semantic component. The hand shape has been significantly abstracted; compare {{och-l|右}}.
 
-''{{w|Shuowen Jiezi}}'' ({{lang|zh|說文解字}}) and other ancient sources have erroneously analyzed the character as a {{Han compound|又|c1=p|月|c2=s|t2=moon|ls=psc}}. ''Shuowen Jiezi'' defines {{lang|zh|有}} as "{{lang|zh|不宜有也}}" ("[to have something that] not should be had"), citing the ''{{w|Spring and Autumn Annals}}'' ({{lang|zh|春秋傳}}): "{{lang|zh|日月有食之}}" ("There are solar and lunar eclipses"). As eclipses were not auspicious to the Chinese, they were "something that should not be happening". The {{lang|zh|月}} component alludes to the inauspicious lunar eclipse.
+Alternatively, the graph was perhaps originally intended for the word {{och-l|醢|minced pickled meat}}, which also has the {{och-l|又}} element as phonetic.
+
+''{{w|Shuowen Jiezi}}'' and other ancient sources have erroneously analyzed the character as a {{Han compound|又|c1=p|月|c2=s|t2=moon|ls=psc|nocap=1}}. ''Shuowen Jiezi'' defines {{lang|zh|有}} as "{{lang|zh|不宜有也}}" ("[to have something that] not should be had"), citing the ''{{w|Spring and Autumn Annals}}'' ({{lang|zh|春秋傳}}): "{{lang|zh|日月有食之}}" ("There are solar and lunar eclipses"). As eclipses were not auspicious to the Chinese, they were "something that should not be happening". The {{lang|zh|月}} component alludes to the inauspicious lunar eclipse.
 
 ===Etymology 1===
+Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད་པ||to be; to have}}. Related to:
+
+* {{och-l|侑|to offer, to sacrifice}} [causative, i.e. “to cause to have”]
+* {{och-l|又|again}} [adverbial]
+* {{och-l|或|some; or}} [indefinite]
 
 ====Pronunciation====
 {{zh-pron
@@ -49,7 +54,11 @@
 # [[there is]]; to [[exist]] {{gloss|when a subject is absent}}
 #: {{zh-x|有 很 多 人。|'''There are''' a lot of people.}}
 #: {{zh-x|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
-# [[some]]
+# {{lb|zh|euphemistic}} to be [[pregnant]] with a child
+# [[abundant]]; [[affluent]]
+# [[many]]; [[much]]; {{lb|zh|of time}} [[long]]; {{lb|zh|of age}} [[old]]
+# [[some]] {{gloss|indefinite pronoun}}
+# {{surname|lang=zh}}
 
 =====Usage notes=====
 * In Mandarin, {{lang|zh|有}} is the only verb not negated with {{zh-l|不}}. It is negated with {{zh-l|沒}}.
