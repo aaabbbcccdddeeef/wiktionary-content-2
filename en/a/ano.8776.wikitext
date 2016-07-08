@@ -102,7 +102,7 @@ From {{etyl|gem-pro|gme-cgo}} {{m|gem-pro|*hanô}} or {{m|gem-pro|*hanjō}}. Cog
 ==Galician==
 
 ===Etymology 1===
-From {{etyl|la|gl}} {{m|la|annus}}.
+From {{inh|gl|roa-opt|ano||year}}, from {{inh|gl|la|annus||year}}.
 
 ====Noun====
 {{gl-noun|m}}
@@ -115,7 +115,7 @@ From {{etyl|la|gl}} {{m|la|annus}}.
 * {{l|gl|anual}}
 
 ===Etymology 2===
-From {{etyl|la|gl}} {{m|la|ānus}}.
+{{bor|gl|la|ānus}}.
 
 ====Noun====
 {{gl-noun|m}}
@@ -139,7 +139,7 @@ From {{etyl|la|gl}} {{m|la|ānus}}.
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{m|la|anus}}.
+{{bor|it|la|anus}}.
 
 ===Noun===
 {{it-noun|m}}
@@ -213,7 +213,7 @@ From {{inh|goh|gem-pro|*ēnu}}, akin to Old Norse {{m|non|án}}.
 * {{l|pt|anno}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|ano||year}}, from {{etyl|la|pt}} {{m|la|annus||year}}, from {{etyl|itc-pro|pt}} {{m|itc-pro|*atnos||year}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*h₂et-nos-}}, from {{m|ine-pro|*h₂et-||to go}}.
+From {{inh|pt|roa-opt|ano||year}}, from {{inh|pt|la|annus||year}}, from {{inh|pt|itc-pro|*atnos||year}}, from {{der|pt|ine-pro|*h₂et-nos-}}, probably from {{m|ine-pro|*h₂et-||to go}}.
 
 Cognate with Galician {{m|gl|ano}}, Spanish {{m|es|año}}, Catalan {{m|ca|any}}, Occitan {{m|oc|an}}, French {{m|fr|an}}, Italian {{m|it|anno}} and Romanian {{m|ro|an}}.
 
@@ -242,7 +242,7 @@ Cognate with Galician {{m|gl|ano}}, Spanish {{m|es|año}}, Catalan {{m|ca|any}},
 ==Spanish==
 
 ===Etymology===
-{{etyl|la|es}} {{m|la|anus}}.
+{{bor|es|la|anus}}.
 
 ===Noun===
 {{es-noun|m}}
@@ -288,6 +288,9 @@ From {{etyl|poz-pol-pro|to}} {{m|poz-pol-pro|*rano}}, from {{etyl|poz-oce-pro|to
 ----
 
 ==Venetian==
+
+===Etymology===
+From {{inh|vec|la|annus||year}}.
 
 ===Noun===
 {{vec-noun|an|m|o|i}}
