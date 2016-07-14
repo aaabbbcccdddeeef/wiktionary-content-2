@@ -28,41 +28,66 @@ Alteration of {{m|mul|步|sc=Hani}}, with {{m|mul|𣥂|sc=Hani}} replaced by the
 # a [[step]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[ぶ]] (bu)
 |kanon=[[ほ]] (ho)
 |kanyoon=[[ふ]] (fu)
 |kun=[[あるく]] ([[歩く]], aruku), [[あゆむ]] ([[歩む]], ayumu), [[あゆみ]] ([[歩み]], ayumi)}}
 
-====Derived terms====
-* {{ja-r|歩く|あるく}}: to walk
-* {{ja-r|歩いて|あるいて}}: on foot
+====Compounds====
+* {{ja-r|歩く|あるく|[[walk]]}}
+* {{ja-r|歩廊|ほろう|[[corridor]]; [[platform]]}}
 
-===Counter===
-{{ja-pos|ほ|counter}}
+===Etymology 1===
+{{ja-kanjitab|ほ|yomi=o}}
+From {{etyl|ltc|ja|sort=ほ}} {{m|zh|歩|tr=bu<sup>H</sup>||step}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ほ|acc=1|acc_ref=DJR,NHK}}
+
+====Counter====
+{{ja-pos|kyu=步|ほ|counter}}
 
 # [[steps]]
 
-===Noun===
-{{ja-noun|ほ}}
+====Noun====
+{{ja-noun|kyu=步|ほ}}
 
 # a [[step]] (as in footstep)
 
-{{ja-noun|ふ}}
+===Etymology 2===
+{{ja-kanjitab|ふ|yomi=o}}
 
-# {{label|ja|shogi|sort=ふ}} [[pawn]] (short for {{m|ja|歩兵|tr=fuhyō}})
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|ふ|acc=0|acc_ref=DJR,NHK}}
 
-===Proper noun===
-{{ja-pos|あゆみ|proper}}
+====Noun====
+{{ja-noun|kyu=步|ふ}}
+
+# {{lb|ja|shogi|sort=ふ}} [[pawn]] (short for {{m|ja|歩兵|tr=fuhyō}})
+
+===Etymology 3===
+{{ja-kanjitab|ぶ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ぶ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=步|ぶ}}
+
+# a unit of land measurement
+
+====Proper noun====
+{{ja-pos|proper|kyu=步|あゆみ}}
 
 # {{given name|female|lang=ja|sort=あゆみ}}
 
-{{ja-pos|あゆむ|proper}}
+{{ja-pos|proper|kyu=步|あゆむ}}
 
 # {{given name|unisex|lang=ja|sort=あゆむ}}
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 歩]]
+===References===
+<references/>
 
 ----
 
