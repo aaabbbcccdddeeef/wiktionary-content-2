@@ -1,19 +1,8 @@
 {{also|竒}}
 ==Translingual==
 
-===Etymology===
-{{liushu|ic}} : A man [[大]] riding a horse. The horse is now [[可]].
-
-Original form of {{l|mul|騎}} (to ride). Current meaning by sound loan.
-
-===Alternative forms===
-* {{l|mul|竒}}
-
 ===Han character===
 {{Han char|rn=37|rad=大|as=05|sn=8|four=40621|canj=KMNR|ids=⿱大可}}
-
-# [[odd]], [[uneven]]
-# [[odd]], [[uncommon]], [[strange]], [[peculiar]], [[unusual]]
 
 ====Derived characters====
 * [[寄]] [[椅]] [[綺]] [[埼]] [[崎]] [[旖]] [[騎]] ([[骑]])
@@ -21,26 +10,17 @@ Original form of {{l|mul|騎}} (to ride). Current meaning by sound loan.
 ====Descendants====
 * [[可]]
 
-====Synonyms====
-*{{sense|uncommon}} {{l|mul|異}}
-
-====Antonyms====
-* {{l|mul|平}}
-
 ====References====
 * {{Han ref|kx=0250.310|dkj=05892|dj=0510.290|hdz=10533.040|uh=5947|ud=22855|bh=A95F|bd=43359}}
-* {{cite-web
-|url=http://internationalscientific.org/CharacterEtymology.aspx?characterInput=奇
-|title=奇
-|work=Chinese Etymology
-|author=Richard Sears
-|language=English/Mandarin
-|accessdate=2014-03-17}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=竒}}
+
+===Etymology===
+{{Han etym}}
+{{liushu|ic}}: A man {{zh-l|*大}} riding a horse. The horse is now {{zh-l|*可}}. Original form of {{och-l|騎|to ride}}. Current meaning by sound loan.
 
 ===Etymology 1===
 
@@ -50,19 +30,19 @@ Original form of {{l|mul|騎}} (to ride). Current meaning by sound loan.
 |c=kei4
 |mn=kî
 |mn_note=literary reading
-|mc=<!-- at 竒 -->
+|mc=1
 |oc=2,2
 |ma=
 |cat=a
 }}
 
-====Adjective====
-{{zh-adj}}
+====Definitions====
+{{zh-hanzi}}
 
-# [[strange]], [[odd]], [[weird]], [[unusual]]
+# [[strange]]; [[odd]]; [[weird]]; [[unusual]]
 #: {{zh-x|奇怪|strange}}
 #: {{zh-x|奇特|peculiar}}
-# [[wonderful]], [[fantastic]], [[remarkable]]
+# [[wonderful]]; [[fantastic]]; [[remarkable]]
 #: {{zh-x|奇跡|miracle}}
 #: {{zh-x|奇妙|fantastic}}
 
@@ -77,32 +57,23 @@ Original form of {{l|mul|騎}} (to ride). Current meaning by sound loan.
 |c=gei1
 |mn=khia
 |mn_note=vernacular reading
-|mc=
+|dial=n
+|mc=2
 |oc=1,1
 |ma=
 |cat=a
 }}
 
-====Adjective====
-{{zh-adj}}
+====Definitions====
+{{zh-hanzi}}
 
-# [[odd]] (numbers)
+# {{†}} [[unsmooth]]; [[disadvantageous]]
+# {{†}} [[surplus]]
+# {{lb|zh|mathematics}} [[odd]]
 #: {{zh-x|奇數|odd number}}
-# {{lb|zh|literary}} [[unsmooth]]; [[disadvantageous]]
-
-====Noun====
-{{zh-noun}}
-
-# {{lb|zh|literary}} [[surplus]]
 
 ====Compounds====
-* {{zh-l|奇零}}
-* {{zh-l|奇偶}}
-* {{zh-l|奇偶性}}
-* {{zh-l|奇數}}
-
-===References===
-* {{q|Min Nan}} {{thcwd|3773}}
+{{zh-der|奇零|奇偶|奇偶性|奇數}}
 
 ----
 
