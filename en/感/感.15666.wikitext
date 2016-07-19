@@ -56,7 +56,7 @@
 # feeling, sensation, emotion
 
 ====Readings====
-* {{ja-readings|goon=[[こん]] (kon)|kanon=[[かん]] (kan)|kun=}} <!-- KANJIRU (on KAN + suffix ZURU/JIRU, like SHIN+ZURU or EN+JIRU) is NOT really a kun. Why does the Unihan Database say so? -->
+{{ja-readings|goon=[[こん]] (kon)|kanon=[[かん]] (kan)}}
 
 ====Compounds====
 {{der5
@@ -98,13 +98,25 @@
 | {{ja-l|感冒}}
 | {{ja-l|感銘}}
 | {{ja-l|感涙}}
+| {{ja-r|敏感|びんかん|[[sensitivity]]}}
 }}
 
-===Suffix===
-{{ja-pos|suffix|かん}}
+{{ja-kanjitab|かん|yomi=o}}
 
-# [[feeling]] of
+===Etymology===
+From {{etyl|sort=かん|ltc|ja}} {{m|zh|感|tr=kom<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かん}}
+
+# [[feeling]]
 #: {{ja-usex|虚無'''感'''|きょむ'''かん'''|'''feeling of''' emptiness}}
+
+===References===
+<references/>
 
 ----
 
@@ -116,7 +128,8 @@
 # {{defn|lang=ko|sort=心09}}
 
 ====Compounds====
-* {{l|ko|感氣|tr=[[감기]], gamgi}}
+* {{ko-l|감기|感氣}}
+* {{ko-l|민감|[[sensitivity]]|敏感}}
 
 ----
 
@@ -126,6 +139,9 @@
 {{vi-hantu|[[cảm]], [[cám]]|rs=心09}}
 
 # {{defn|lang=vi|sort=心09}}
+
+====Compounds====
+* {{vi-l|mẫn cảm|敏感|[[sensitive]]}}
 
 [[fr:感]]
 [[ko:感]]
