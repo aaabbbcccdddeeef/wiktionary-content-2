@@ -1,26 +1,23 @@
 ==Dutch==
 
 ===Etymology===
-From {{inh|nl|dum|sien}}, from {{inh|nl|odt|sian}}, from {{inh|nl|gem-pro|*sehwaną}}, from {{der|nl|ine-pro|*sekʷ-||to see, notice}}. Cognate with {{cog|nds|sehn}}, {{cog|fy|sjen}}, {{cog|de|sehen}}, {{cog|en|see}}, {{etyl|da|-}} and {{cog|sv|se}}, {{cog|is|sjá}}, {{cog|got|𐍃𐌰𐌹𐍈𐌰𐌽}}.
-
-''zien'' was originally a class 5 strong verb. There was originally an 'h' sound in ''zien'', which was lost from the infinitive and present tense forms through [[syncope]] in Old Dutch. However, the 'h' sound alternated with a 'g' in the past tense through [[w:Grammatischer Wechsel|Grammatischer Wechsel]], and this remained.
+From {{inh|nl|dum|sien}}, from {{inh|nl|odt|sian}}, from {{inh|nl|gem-pro|*sehwaną}}, from {{der|nl|ine-pro|*sekʷ-||to see, notice}}. Originally a class 5 strong verb, but the Germanic {{m|gem-pro||*h}} was lost from the infinitive and present tense forms through [[syncope]] in Old Dutch. However, it alternated with {{m|gem-pro||*g}} in the past tense through [[w:Grammatischer Wechsel|Grammatischer Wechsel]], and this remained.
 
 ===Pronunciation===
+* {{IPA|lang=nl|/zin/}}
 * {{rhymes|in|lang=nl}}
 * {{audio|Nl-zien.ogg|audio|lang=nl}}
-* {{IPA|lang=nl|/zin/}}
 
 ===Verb===
 {{nl-verb|zag|gezien}}
 
-# To [[see]].
-#: Ik '''zie''' jouw kat! — “I see your cat!”
+# {{lb|nl|transitive}} to [[see]]
+#: {{ux|nl|Ik '''zie''' jouw kat!|I '''see''' your cat!}}
 
 ====Conjugation====
 {{nl-conj-st|class=5|zie|zag|zien|zie||zaagt|vnoun=zicht|vnoung=f}}
 
 ====Derived terms====
-{{top4}}
 * {{l|nl|aanzien}}
 * {{l|nl|afzien}}
 * {{l|nl|doorzien}}
@@ -31,7 +28,6 @@ From {{inh|nl|dum|sien}}, from {{inh|nl|odt|sian}}, from {{inh|nl|gem-pro|*sehwa
 * {{l|nl|ontzien}}
 * {{l|nl|uitzien}}
 * {{l|nl|voorzien}}
-{{bottom}}
 
 [[az:zien]]
 [[ca:zien]]
