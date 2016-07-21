@@ -24,9 +24,9 @@ Minuscule variation of {{m|mul|U}}, a modern variation of classical Latin {{m|mu
 ====Symbol====
 {{head|mul|symbol}}
 
-# {{label|mul|metrology}} symbol for [[unified]] [[atomic]] [[mass]] [[unit]]
-# {{label|mul|phonetics}} Used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:Close back rounded vowel|close back rounded vowel]] ({{IPAchar|/u/|lang=mul}}).
-# {{label|mul|particle}} [[up quark]]
+# {{lb|mul|metrology}} symbol for [[unified]] [[atomic]] [[mass]] [[unit]]
+# {{lb|mul|phonetics}} Used in the [[International Phonetic Alphabet]] and in several romanization systems of non-Latin scripts to represent a [[w:Close back rounded vowel|close back rounded vowel]] ({{IPAchar|/u/|lang=mul}}).
+# {{lb|mul|particle}} [[up quark]]
 
 ===See also===
 {{Letter
@@ -119,7 +119,7 @@ Before the 1700s, the pointed form {{m|en|v}} was written at the beginning of a 
 ===Pronoun===
 {{en-pron|desc=second person, singular or plural, nominative or objective}}
 
-# {{label|en|abbreviation|slang|text messaging|internet}} [[you]] {{qualifier|in text messaging and internet conversations}}
+# {{lb|en|abbreviation|slang|text messaging|internet}} [[you]] {{qualifier|in text messaging and internet conversations}}
 #: ''Take me with '''u'''.''
 
 ===Abbreviation===
@@ -197,7 +197,7 @@ Probably from an early (proto-Romanian) root *''eaua'', from {{inh|rup|la|illam}
 ====Pronoun====
 {{head|rup|pronoun|cat2=personal pronouns|g=f|short/unstressed accusative form of|ea}}
 
-# {{label|rup|direct object}} [[her]]
+# {{lb|rup|direct object}} [[her]]
 
 ====Related terms====
 * {{l|rup|ãl}} (''masculine equivalent'')
@@ -311,21 +311,21 @@ Cognate with West Frisian {{m|fy|jo}}, Low German {{m|nds|jo}}, {{m|nds|ju}}, En
 ===Pronoun===
 {{head|nl|pronoun|cat2=personal pronouns}}
 
-# {{label|nl|personal|second-person singular|subjective}} [[you]] {{qualifier|polite}}.
+# {{lb|nl|personal|second-person singular|subjective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Bent '''u''' klaar?|inline=1|Are you ready?}}
 #: {{ux|nl|Bent '''u''' er nog?|inline=1|Are you still there?}}
-# {{label|nl|personal|second-person singular|objective}} [[you]] {{qualifier|polite}}.
+# {{lb|nl|personal|second-person singular|objective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Ik zal het aan '''u''' geven.|inline=1|I will give it to you.}}
 #: {{ux|nl|Dit zal niet werken voor '''u'''.|inline=1|This won’t work for you.}}
-# {{label|nl|personal|second-person singular|objective}} ''[[thee]] {{qualifier|dialectal}}.
+# {{lb|nl|personal|second-person singular|objective}} ''[[thee]] {{qualifier|dialectal}}.
 #: {{ux|nl|Ik doe dat wel voor '''u'''.|inline=1|I’ll do it for thee.}}
-# {{label|nl|personal|second-person plural|subjective}} [[you]] {{qualifier|polite}}.
+# {{lb|nl|personal|second-person plural|subjective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Hebt '''u''' die oefening gemaakt?|inline=1|Have you prepared that exercise?}}
-# {{label|nl|personal|second-person plural|objective}} [[you]] {{qualifier|polite}}.
+# {{lb|nl|personal|second-person plural|objective}} [[you]] {{qualifier|polite}}.
 #: {{ux|nl|Ze zullen dat wel voor '''u''' doen.|inline=1|They’ll do it for you.}}
-# {{label|nl|reflexive|second-person singular}} [[thyself]] {{qualifier|dialectal}}
+# {{lb|nl|reflexive|second-person singular}} [[thyself]] {{qualifier|dialectal}}
 #: {{ux|nl|Gij hebt '''u''' niet gewassen.|inline=1|Thou hast not washed thyself.}}
-# {{label|nl|reflexive|second-person plural}} [[yourselves]] {{qualifier|dialectal}}
+# {{lb|nl|reflexive|second-person plural}} [[yourselves]] {{qualifier|dialectal}}
 #: {{ux|nl|Wast '''u''' eens.|inline=1|Wash yourselves.}}
 
 ====Usage notes====
@@ -508,7 +508,7 @@ From {{etyl|sem|mt}}. Cognate with {{cog|ar|وَ}}, {{cog|he|וְ־|tr=v'}}.
 ===Conjunction===
 {{head|mt|conjunction}}
 
-# [[and]] {{label|mt|used to connect two similar words, phrases, etc.}}
+# [[and]] {{lb|mt|used to connect two similar words, phrases, etc.}}
 
 ----
 
@@ -595,7 +595,7 @@ From {{inh|fro|la|ubi}}.
 ====Adverb====
 {{head|fro|adverb}}
 
-# {{label|fro|interrogative}} [[where]]
+# {{lb|fro|interrogative}} [[where]]
 
 =====Descendants=====
 * Middle French: {{l|frm|ou}}
@@ -683,7 +683,7 @@ From {{inh|pt|roa-opt|u}}, from {{inh|pt|la|ubi}}. Cognate with Galician {{m|gl|
 ====Adverb====
 {{head|pt|adverb}}
 
-# {{label|pt|obsolete}} {{l|pt|where}}
+# {{lb|pt|obsolete}} {{l|pt|where}}
 #* '''1534''', [[w:Gil Vicente|Gil Vicente]], [[s:pt:Auto de Mofina Mendes|Auto de Mofina Mendes]]:
 #*: {{ux|pt|{{...}} ''nam ſey per '''u'''|{{...}} (I) don't know '''where'''}}
 
@@ -963,7 +963,7 @@ Used instead of {{m|es|o}} when the following word starts with a vowel sound whi
 ====Noun====
 {{vi-noun|𡠄}}
 
-# {{label|vi|northern Vietnam}} [[mother]]; [[mom]]
+# {{lb|vi|northern Vietnam}} [[mother]]; [[mom]]
 
 =====Synonyms=====
 * {{l|vi|mẹ}}
@@ -980,7 +980,7 @@ From {{inh|vi|mkh-vie-pro|*ʔuː||[[hump]] (of a [[zebu]])}}
 ====Noun====
 {{vi-noun|cls=khối|[[幽]], [[𢉾]]}}
 
-# {{label|vi|oncology|pathology}} [[tumor]]
+# {{lb|vi|oncology|pathology}} [[tumor]]
 
 =====Derived terms=====
 * {{l|vi|u mỡ}}
