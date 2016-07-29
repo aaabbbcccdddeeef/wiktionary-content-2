@@ -32,6 +32,9 @@
 
 # {{rfdef|lang=zh}}
 
+====Compounds====
+* {{zh-l|陰脣}}
+
 ----
 
 ==Japanese==
@@ -42,10 +45,18 @@
 # [[lip]]
 
 ====Readings====
-* {{ja-readings|goon=[[しん]] (shin), [[じゅん]] (jun)|kanon=[[しん]] (shin), [[しゅん]] (shun)|kun=[[くちびる]] (kuchibiru)}}
+{{ja-readings|goon=[[しん]] (shin), [[じゅん]] (jun)|kanon=[[しん]] (shin), [[しゅん]] (shun)|kun=[[くちびる]] (kuchibiru)}}
+
+====Compounds====
+* {{ja-r|陰唇|いんしん|[[labia]]}}
+
+{{ja-kanjitab|くちびる|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|くちびる|acc=0|dev=1|acc_ref=DJR,NHK}}
 
 ===Noun===
-{{ja-noun|くちびる}}
+{{ja-noun|kyu=脣|くちびる}}
 
 # [[lip]]s
 #* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
@@ -57,12 +68,11 @@
 * {{l|ja|紅唇}}
 
 ===References===
-* {{R:Nara Ibun 3}}
+<references/>
+:* {{R:Nara Ibun 3}}
 
 [[Category:1000 Japanese basic words|くちびる]]
 [[Category:ja:Anatomy|くちびる]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 唇]]
 
 ----
 
