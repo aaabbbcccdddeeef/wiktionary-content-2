@@ -19,21 +19,21 @@ clock
 * {{l|nl|uurwerk}} {{g2|n}}
 
 ====Derived terms====
-{{top3}}
-* {{l|nl|avondklok}}
-* {{l|nl|grote klok}}
-* {{l|nl|klokhuis}} {{g2|n}}
-* {{l|nl|kerkklok}}
-* {{l|nl|klokwerk}} {{g2|n}}
-* {{l|nl|koekoeksklok}}
-* {{l|nl|meiklokje}} {{g2|n}}
-* {{l|nl|noodklok}}
-* {{l|nl|paasklok}}
-* {{l|nl|prikklok}}
-* {{l|nl|slingerklok}}
-* {{l|nl|torenklok}}
-* zoals het klokje thuis tikt, tikt het nergens
-{{bottom}}
+{{der3
+|{{l|nl|avondklok}}
+|{{l|nl|grote klok}}
+|{{l|nl|klokhuis|g=n}}
+|{{l|nl|kerkklok}}
+|{{l|nl|klokwerk|g=n}}
+|{{l|nl|koekoeksklok}}
+|{{l|nl|meiklokje|g=n}}
+|{{l|nl|noodklok}}
+|{{l|nl|paasklok}}
+|{{l|nl|prikklok}}
+|{{l|nl|slingerklok}}
+|{{l|nl|torenklok}}
+|zoals het klokje thuis tikt, tikt het nergens
+}}
 
 ===Verb===
 {{nl-verb-form}}
@@ -49,7 +49,7 @@ clock
 * {{audio|Sv-klok.ogg|audio|lang=sv}}
 
 ===Etymology===
-From {{etyl|gmq-osw|sv}} {{m|gmq-osw|kloker}}, from {{etyl|non|sv}} {{m|non|klókr}}, from {{etyl|gml|sv}} {{m|gml|klōk}}.
+From {{inh|sv|gmq-osw|kloker}}, from {{inh|sv|non|klókr}}, from {{der|sv|gml|klōk}}.
 
 ===Adjective===
 {{head|sv|adjective}}
