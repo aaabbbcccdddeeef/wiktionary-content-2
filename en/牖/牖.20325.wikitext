@@ -1,7 +1,7 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=91|rad=片|as=11|sn=15|four=20027|canj=LLHSB,LLISB,LNHSB,LNISB}}
+{{Han char|rn=91|rad=片|as=11|sn=15|four=20027|canj=LLHSB,LLISB,LNHSB,LNISB|ids=⿰片⿸户甫}}
 
 # [[window]]
 # lead enlightenment
@@ -23,12 +23,21 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=片11}}
-
-# {{defn|lang=ja|sort=片11}}
+{{ja-kanji|rs=片11}}
 
 ====Readings====
-* {{ja-readings|on=[[ゆう]] (yū), [[ゆ]] (yu)|kun=[[まど]] (mado)}}
+{{ja-readings|goon=[[ゆ]] (yu)|kanon=[[ゆう]] (yū)|kun=[[まど]] (mado)}}
+
+====Compounds====
+* {{ja-r|窓牖|そうゆう|[[window]]}}
+* {{ja-r|牖戸|ゆうこ}}
+
+{{ja-kanjitab|まど|yomi=k}}
+
+===Noun===
+{{ja-noun|まど}}
+
+# {{alternative spelling of|lang=ja|窓}}
 
 ----
 
