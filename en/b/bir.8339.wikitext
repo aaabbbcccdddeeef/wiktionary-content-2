@@ -183,7 +183,8 @@ From {{etyl|goh|gmh}} {{m|goh|bira}}
 ==Old Irish==
 
 ===Etymology 1===
-From {{etyl|cel-pro|sga}} {{m|la|*beru}}
+From {{inh|sga|cel-pro|*beru}}
+
 ====Alternative forms====
 * {{l|sga|biur}}
 
@@ -193,9 +194,9 @@ From {{etyl|cel-pro|sga}} {{m|la|*beru}}
 ====Noun====
 {{sga-noun|n|bero|beura|gen2=bera}}
 
-# [[stake]], [[spit]], [[point]]; [[spear]], [[spike]]
+# {{def|[[stake]], [[spit]], [[point]]; [[spear]], [[spike]]}}
 #* {{RQ:sga-gloss|Sg|67|b|11}}
-#*: '''beura''' glosses {{m|la|sudes||stake}}
+#*: {{l|sga||'''beura'''}} glosses {{m|la|sudes||stake}}
 
 =====Declension=====
 {{sga-decl-noun-table<!--
@@ -229,11 +230,12 @@ dat.d./p-->|{{l|sga|beraib}}<!--
 ====Noun====
 {{sga-noun|u|?|beru}}
 
-# [[water]], [[spring]], [[well]]
+# {{def|[[water]], [[spring]], [[well]]}}
 #* {{RQ:sga-Corm|Y|158}}
-#*: '''bir''' .i. uisce ... biror ⁊ inbir ⁊ tobur
+#*: {{l|sga||'''bir''' .i. uisce ... biror ⁊ inbir ⁊ tobur}}
 
 ===Etymology 3===
+{{nonlemma}}
 
 ====Pronunciation====
 * {{IPA|/bʲirʲ/|lang=sga}}
