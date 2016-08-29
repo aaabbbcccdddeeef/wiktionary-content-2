@@ -28,22 +28,22 @@
 ==Breton==
 
 ===Etymology===
-From {{etyl|cel-pro|br}} {{m|cel-pro|*dubus||black}}, from {{etyl|ine-pro|br}} {{m|ine-pro|*dʰewbʰ-||black}}.
+From {{inh|br|cel-pro|*dubus||black}}, from {{der|br|ine-pro|*dʰewbʰ-||black}}.
 
 ===Pronunciation===
 * {{IPA|/ˈdyː/|lang=br}}
 
 ===Adjective===
 {{head|br|adjective}}
-
+{{def|
 # [[black]]
 # [[swollen]]
-# [[starved]]
+# [[starved]]}}
 
 ===Noun===
 {{head|br|noun|g=m}}
 
-# [[black]]
+# {{l|en|black}}
 
 ====Mutation====
 {{br-noun-mutation|d|u|g=m}}
@@ -76,7 +76,7 @@ From {{inh|kw|cel-pro|*dubus||black}}, from {{inh|kw|ine-pro|*dʰewbʰ-||black}}
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|gmq-oda|da}} {{m|gmq-oda|thu}}, rom {{etyl|non|da}} {{m|non|þú}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*túh₂||you}}.
+From {{inh|da|gmq-oda|thu}}, from {{inh|da|non|þú}}, from {{inh|da|gem-pro|*þū}}, from {{inh|da|ine-pro|*túh₂||you}}.
 
 ====Pronunciation====
 * {{IPA|/du/|[d̥u]|lang=da}}
@@ -91,7 +91,7 @@ From {{etyl|gmq-oda|da}} {{m|gmq-oda|thu}}, rom {{etyl|non|da}} {{m|non|þú}}, 
 
 ===Etymology 2===
 {{PIE root|da|dʰewgʰ}}
-From {{etyl|gmq-oda|da}} {{m|gmq-oda|dughæ}}, from {{etyl|non|da}} {{m|non|duga}}.
+From {{inh|da|gmq-oda|dughæ}}, from {{inh|da|non|duga}}.
 
 ====Pronunciation====
 * {{IPA|/duː/|[d̥uːˀ]|lang=da}}
@@ -130,7 +130,7 @@ From {{inh|nl|dum|du}}, from {{inh|nl|odt|thū}}, from {{inh|nl|gem-pro|*þū}},
 ==Elfdalian==
 
 ===Etymology===
-From {{etyl|non|ovd}} {{m|non|þú}}, from {{etyl|gem-pro|ovd}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|ovd}} {{m|ine-pro|*túh₂}}. Cognate with {{cog|sv|du}}.
+From {{inh|ovd|non|þú}}, from {{inh|ovd|gem-pro|*þū}}, from {{inh|ovd|ine-pro|*túh₂}}. Cognate with {{cog|sv|du}}.
 
 ===Pronoun===
 {{head|ovd|pronoun|cat2=personal pronouns}}
@@ -143,7 +143,7 @@ From {{etyl|non|ovd}} {{m|non|þú}}, from {{etyl|gem-pro|ovd}} {{m|gem-pro|*þ�
 {{cardinalbox|eo|1|2|3|unu|tri|ord=dua|adv=due|mult=duobla|frac=duona}}
 
 ===Etymology===
-From {{etyl|la|eo}} {{m|la|duo}}, from {{etyl|ine-pro|eo}} {{m|ine-pro|*dwóh₁}}.
+From {{der|eo|la|duo}}, from {{der|eo|ine-pro|*dwóh₁}}.
 
 ===Pronunciation===
 * {{IPA|/du/|lang=eo}}
@@ -166,7 +166,7 @@ From {{etyl|la|eo}} {{m|la|duo}}, from {{etyl|ine-pro|eo}} {{m|ine-pro|*dwóh₁
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{m|fro|del}}.
+From {{inh|fr|fro|del}}.
 
 ===Pronunciation===
 * {{audio|Fr-du.ogg|audio|lang=fr}}
@@ -191,7 +191,7 @@ From {{etyl|fro|fr}} {{m|fro|del}}.
 * {{l|de|Du}}
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|du}} (akin to Old Saxon {{m|osx|thu}} and English {{m|en|thou}}), itself from {{etyl|gem-pro|de}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*túh₂}}.
+From {{inh|de|goh|du}} (akin to {{cog|osx|thu}} and {{cog|en|thou}}), itself from {{inh|de|gem-pro|*þū}}, from {{inh|de|ine-pro|*túh₂}}.
 
 ===Pronunciation===
 * {{qualifier|standard|generally}} {{IPA|/duː/|lang=de}}
@@ -240,7 +240,7 @@ In contemporary German, the genitive forms of personal pronouns are restricted t
 {{cardinalbox|io|1|2|3|un|tri|ord=duesma|adv=dufoye|mult=duopla|frac=duima|wplink=2_(nombro)}}
 
 ===Etymology===
-From {{etyl|eo|io}} {{m|eo|du}}, from {{etyl|fr|io}} {{m|fr|deux}}, {{etyl|es|io}} {{m|es|dos}}, {{etyl|it|io}} {{m|it|due}}, ultimately from {{etyl|ine-pro|io}} {{m|ine-pro|*dwóh₁}}.
+From {{der|io|eo|du}}, from {{der|io|fr|deux}}, {{der|io|es|dos}}, {{der|io|it|due}}, ultimately from {{der|io|ine-pro|*dwóh₁}}.
 
 ===Numeral===
 {{head|io|numeral}}
@@ -252,7 +252,7 @@ From {{etyl|eo|io}} {{m|eo|du}}, from {{etyl|fr|io}} {{m|fr|deux}}, {{etyl|es|io
 ==Kurdish==
 
 ===Etymology===
-From {{etyl|ira-pro|ku}} {{m|ira-pro|*duu̯a}} (compare Persian {{m|fa|دو|tr=do}}, Pashto {{m|ps|دوه|tr=dwa}}, Avestan {{m|ae|𐬛𐬬𐬀|tr=dva}}), from {{etyl|iir-pro|ku}} (compare Sanskrit {{m|sa|द्व|tr=dvá}}, Marathi {{m|mr|दोन|tr=don}}, Hindi {{m|hi|दो|tr=do}}/Urdu {{m|ur|دو|tr=do}}, Punjabi {{m|pa|ਦੋ|tr=dō}}), from {{etyl|ine-pro|ku}} {{m|ine-pro|*dwóh₁}} (compare Russian {{m|ru|два|tr=dva}}, Lithuanian {{m|lt|du}}, Greek {{m|el|δύο}}, Spanish {{m|es|dos}}, English {{m|en|two}}).
+From {{inh|ku|ira-pro|*duu̯a}} (compare {{cog|fa|دو|tr=do}}, {{cog|ps|دوه|tr=dwa}}, {{cog|ae|𐬛𐬬𐬀}}), from {{der|ku|iir-pro|-}} (compare {{cog|sa|द्व|tr=dvá}}, {{cog|mr|दोन|tr=don}}, {{cog|hi|दो}}/{{cog|ur|دو|tr=do}}, {{cog|pa|ਦੋ|tr=dō}}), from {{inh|ku|ine-pro|*dwóh₁}} (compare {{cog|ru|два}}, {{cog|lt|du}}, {{cog|el|δύο}}, {{cog|es|dos}}, {{cog|en|two}}).
 
 ===Numeral===
 {{head|ku|numeral}}
@@ -280,7 +280,7 @@ From {{etyl|ira-pro|ku}} {{m|ira-pro|*duu̯a}} (compare Persian {{m|fa|دو|tr=d
 ==Lithuanian==
 
 ===Etymology===
-From {{cog|bat-pro|*duwō}}, from {{etyl|ine-pro|lt}} {{m|ine-pro|*dwóh₁}}. Compare Latvian {{m|lv|divi}}. Cognate to Latin {{m|la|duo}}.
+From {{inh|lt|bat-pro|*duwō}}, from {{inh|lt|ine-pro|*dwóh₁}}. Compare {{cog|lv|divi}}. Cognate to {{cog|la|duo}}.
 
 ===Numeral===
 {{head|lt|numeral|g=m|feminine|dvi}}
@@ -336,7 +336,7 @@ From {{der|dsb|sla-pro||*jьdǫ|pos=first-person singular}} and {{m|sla-pro||*j�
 ==Luxembourgish==
 
 ===Etymology===
-From {{etyl|gem-pro|lb}} {{m|gem-pro|*þū}}.
+From {{inh|lb|gem-pro|*þū}}.
 
 ===Pronunciation===
 * {{IPA|/duː/|lang=lb}}
@@ -372,7 +372,7 @@ From {{etyl|gem-pro|lb}} {{m|gem-pro|*þū}}.
 ==Middle Dutch==
 
 ===Etymology===
-From {{inh|dum|odt|thū}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*þū}}.
+From {{inh|dum|odt|thū}}, from {{inh|dum|gem-pro|*þū}}.
 
 ===Pronunciation===
 * {{IPA|lang=dum|/dyː/|/dy/}}
@@ -418,7 +418,7 @@ From {{inh|gml|osx|thū}}, from {{inh|gml|gem-pro|*þū}}.
 ==Norman==
 
 ===Etymology===
-From {{etyl|la|nrf}} {{m|la|dux|dux, ducem}}.
+From {{inh|nrf|la|dux|dux, ducem}}.
 
 ===Noun===
 {{head|nrf|noun|g=m}}
@@ -433,7 +433,7 @@ From {{etyl|la|nrf}} {{m|la|dux|dux, ducem}}.
 ==North Frisian==
 
 ===Etymology===
-From {{etyl|gem-pro|frr}} {{m|gem-pro|*dōną}}. Cognates include Mooring North Frisian {{m|frr|düünj}} and {{cog|fy|dwaan}}.
+From {{inh|frr|gem-pro|*dōną}}. Cognates include Mooring {{cog|frr|düünj}} and {{cog|fy|dwaan}}.
 
 ===Verb===
 {{head|frr|verb}}
@@ -471,7 +471,7 @@ From {{etyl|gem-pro|frr}} {{m|gem-pro|*dōną}}. Cognates include Mooring North 
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|þú}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*túh₂}}.
+From {{inh|nb|non|þú}}, from {{inh|nb|gem-pro|*þū}}, from {{inh|nb|ine-pro|*túh₂}}.
 
 ===Pronunciation===
 * {{IPA|/dʉː/|lang=nb}}
@@ -492,7 +492,7 @@ From {{etyl|non|nb}} {{m|non|þú}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*þū}
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|þú}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|nn}} {{m|ine-pro|*túh₂}}.
+From {{inh|nn|non|þú}}, from {{inh|nn|gem-pro|*þū}}, from {{inh|nn|ine-pro|*túh₂}}.
 
 ===Pronunciation===
 * {{IPA|/dʉː/|lang=nn}} {{nn-pronu-note}}
@@ -538,7 +538,7 @@ From {{etyl|non|nn}} {{m|non|þú}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*þū}
 [[File:Bulach Inschrift.jpg|right|thumb|one drawing of the inscription on the Bülach fibula]]
 
 ===Etymology===
-From {{inh|goh|gem-pro|*þū}}, whence also Old English ''[[þu]]'', Old Norse ''[[þú]]'', and ultimately from {{etyl|ine-pro|goh}} {{m|ine-pro|*túh₂}}. Perhaps the earliest attestation of the pronoun is the inscription on the [[w:Bülach fibula|Bülach fibula]], which may show {{lang|und|sc=Runr|ᛞᚢ}} (''du'') already differentiated from other Germanic languages’ ''þu''.
+From {{inh|goh|gem-pro|*þū}}, whence also {{cog|ang|þu}}, {{cog|non|þú}}, and ultimately from {{inh|goh|ine-pro|*túh₂}}. Perhaps the earliest attestation of the pronoun is the inscription on the [[w:Bülach fibula|Bülach fibula]], which may show {{m|goh|sc=Runr|ᛞᚢ|tr=du}} already differentiated from other Germanic languages’ ''þu''.
 
 ===Pronunciation===
 * {{IPA|/du/|lang=goh}}
@@ -646,8 +646,6 @@ Compare Italian {{m|it|due}}
 ====Derived terms====
 * {{l|vi|du khách}}
 * {{l|vi|du lịch}}
-
-{{attention|vi}}
 
 ----
 
