@@ -9,34 +9,45 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
-===Alternative forms===
-* {{qualifier|non-standard}} {{zh-l|D}}, {{zh-l|d}}
-* {{qualifier|non-standard}} {{zh-l|o的}}
-* {{zh-l|尐}}
+===Etymology 1===
+{{zh-forms|alt=D-nonstandard,d-nonstandard,o的-nonstandard,尐}}
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |c=di1
-|cat=c:n,c:suf
+|cat=pron,det,suf
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese|sort=di4}} a [[few]], a little bit
-#: {{zh-x|好 靚 生果{gwo2}。買 '''啲''' 啦，小姐。|Very nice fruits. Buy a few, miss.|C-GZ}}
+# {{lb|zh|Cantonese}} a [[few]]; a little bit; [[some]]
+#* {{zh-x|好 靚 生果。買 啲 啦，小姐。|Very nice fruits. Buy '''a few''', miss.|C-GZ}}
+# {{lb|zh|Cantonese}} [[the]]; [[those]]
+#* {{zh-x|啲 西瓜 好 甜。|'''The''' watermelon is sweet.|C}}
+#* {{zh-x|洗 埋 啲 衫 啦！|Finish washing '''the''' clothes!|C}}
+# {{lb|zh|Cantonese}} [[more]]; [[-er]]
+#* {{zh-x|聽{ting1}日 要 早 啲 起身。|You need to get up earli'''er''' tomorrow.|C}}
+#* {{zh-x|食 快 啲 啦！|Eat fast'''er'''!|C}}
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|些}}
 
-===Definitions===
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|mn=teh
+|cat=part
+}}
+
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese|sort=di4}} [[more]]; [[-er]]
-#: {{zh-x|聽{ting1}日 要{jiu3} 早 '''啲''' 起身。|You need to get up earli'''er''' tomorrow.|C}}
-#: {{zh-x|食 快 '''啲''' 啦！|Eat fast'''er'''!|C}}
+# {{lb|zh|Min Nan}} {{zh-alt-form|*咧|-ing}}
+#* {{zh-x|門徒 看著[着] ^伊 佇 湖 的 頂面 啲{teh} 行，真 著驚，講：「^是 鬼！」^𪜶 驚-甲 大聲 喝{hoah} 出來。|And when the disciples saw him walk'''ing''' on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.|TW|ref={{lang|現代台語譯本}} (Today's Taiwanese Version), {{lang|zh|馬太福音}} (Matthew) 14:26}}
 
 [[fr:啲]]
 [[mg:啲]]
