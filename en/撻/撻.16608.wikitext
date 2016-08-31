@@ -15,16 +15,16 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=tà
 |c=taat3
 |mc=y
 |oc=y
-|cat=
+|cat=v,adj
 }}
-
-===Etymology 1===
 
 ====Definitions====
 {{zh-hanzi}}
@@ -36,9 +36,15 @@
 {{zh-der|光撻撻|光辣撻|大張撻伐|扑撻|抹撻|捶撻|撻伐|撻市|撻罰|楚撻|沒撻煞|鞭撻}}
 
 ===Etymology 2===
-{{zh-forms}}
 
 {{bor|zh|en|tart}} via {{etyl|yue|zh}}.
+
+====Pronunciation====
+{{zh-pron
+|m=tà
+|c=taat1
+|cat=n
+}}
 
 ====Definitions====
 {{zh-hanzi}}
@@ -46,7 +52,21 @@
 # [[tart]] {{gloss|pastry}}
 
 =====Compounds=====
-{{zh-der|蛋撻}}
+{{zh-der|蛋撻|葡撻}}
+
+===Etymology 3===
+{{bor|zh|en|start}}.
+
+====Pronunciation====
+{{zh-pron
+|c=taat1,taak1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[start]] a [[car]]
 
 ===References===
 * {{R:twedu|A01679}}
