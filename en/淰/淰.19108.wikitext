@@ -1,7 +1,7 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=08|sn=11|four=38132|canj=EOIP}}
+{{Han char|rn=85|rad=水|as=08|sn=11|four=38132|canj=EOIP|ids=⿰氵念}}
 
 # [[fish]]
 # [[still]]
@@ -11,18 +11,51 @@
 
 ----
 
-hi
+==Chinese==
+{{zh-forms}}
 
-==Cantonese==
+===Pronunciation 1===
+{{zh-pron
+|m=niǎn
+|c=naam5
+|mc=3
+|oc=1
+|cat=
+}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=nam4, nam6}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{defn|lang=yue|sort=水08}}
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=niǎn
+|c=nim5
+|mc=2
+|oc=2
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=shěn
+|c=sam2
+|mc=1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ----
-
-bye
 
 ==Japanese==
 
@@ -36,12 +69,12 @@ bye
 
 ----
 
-==Mandarin==
+==Zhuang==
 
-===Hanzi===
-{{cmn-hanzi|pin=[[niàn]] ([[nian4]])|wg=nien<sup>4</sup>}}
+===Noun===
+{{za-head|noun}}
 
-# {{defn|lang=cmn|sort=水08}}
+# {{za-sawndip form of||raemx}}
 
 [[fr:淰]]
 [[hu:淰]]
