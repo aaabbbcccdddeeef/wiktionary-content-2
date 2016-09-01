@@ -185,7 +185,7 @@ All the pronunciations are ultimately cognate, derived from a root meaning "to j
 # {{zh-only used in|會撮}}
 
 ===Compounds===
-{{zh-der|會標|會餐|會操|會場|會話|會見|會客|會兒|會談|會議|茶會|音樂會}}
+{{zh-der|會標|會餐|會操|會場|會話|會見|會客|會兒|會談|會議|會陰|茶會|音樂會}}
 
 ===Descendants===
 {{CJKV|會|s=会|かい|회|k2=괴|hội}}
@@ -205,10 +205,10 @@ All the pronunciations are ultimately cognate, derived from a root meaning "to j
 # {{defn|lang=ja|sort=曰09}}
 
 ====Readings====
-* {{ja-readings|on=[[かい]] (kai), [[え]] (e)|kun=[[あう]] (au)}}
+{{ja-readings|goon=[[え]] (e)|kanon=[[かい]] (kai)|kun=[[あう]] (au)}}
 
 ===Pronunciation===
-{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|shin=会|かい|hhira=くわい}}
@@ -232,6 +232,9 @@ All the pronunciations are ultimately cognate, derived from a root meaning "to j
 
 # {{defn|lang=ko|sort=曰09}}
 
+====Compounds====
+* {{ko-l|회음|[[perineum]]|會陰}}
+
 ----
 
 ==Vietnamese==
@@ -240,6 +243,9 @@ All the pronunciations are ultimately cognate, derived from a root meaning "to j
 {{vi-hantu|[[hội]], [[cuối]], [[hụi]]|rs=曰09}}
 
 # {{defn|lang=vi|sort=曰09}}
+
+====Compounds====
+* {{vi-l|hội âm|會陰|[[perineum]]}}
 
 [[zh-min-nan:會]]
 [[da:會]]
