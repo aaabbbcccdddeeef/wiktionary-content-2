@@ -3,11 +3,6 @@
 ===Han character===
 {{Han char|rn=2|rad=丨|as=06|sn=7|four=50006|canj=LL|ids=⿻丨吕}}
 
-# [[string]]
-# [[relatives]]
-# [[conspire]]
-# [[skewer]]
-
 ====Derived characters====
 * [[患]], [[𠁷]], [[𠁸]], [[𠁺]], [[𠁻]], [[𠳡]], [[𢈢]], [[𫡌]], [[𫡍]], [[𫡎]]
 
@@ -21,60 +16,64 @@
 
 ===Glyph origin===
 {{Han etym}}
-Pictographic, representing objects strung together.
+{{liushu|p}} – objects strung together.
 
 ===Etymology===
-Modern ''chuàn'', Middle Chinese ''kʷɯan''L (Pan Wuyun), Old Chinese *''kroːns'' (Zhengzhang Shangfang). Cognate with [[穿]] (chuān, Old Chinese *''kʰljon'', "to pierce through → to wear"), [[貫]] (guàn, Old Chinese *''koːn'', *''koːns'', "to penetrate").
+Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}}.
 
 ===Pronunciation 1===
 {{zh-pron
 |m=chuàn,er=y
 |c=cyun3
+|h=pfs=chhon
+|md=chióng
 |mn=chhǹg
-|mc=y
-|oc=y
-|ma=Zh-chuàn.ogg
-|cat=n,adj,v,cls
-}}
-
-====Noun====
-{{zh-noun}}
-
-# skewer
-
-====Adjective====
-{{zh-adj}}
-
-# {{lb|zh|Cantonese|slang}} [[cocksure]], [[arrogant]]
-# {{lb|zh|Cantonese|slang}} [[sarcastic]]
-
-====Verb====
-{{zh-verb}}
-
-# {{rfdef|lang=zh}}
-
-====Classifier====
-{{zh-cls}}
-
-# {{rfdef|lang=zh}}
-#: {{zh-x|一 串 珠子|a '''string''' of beads}}
-#: {{zh-x|一 串 鞭炮|a '''string''' of firecrackers}}
-#: {{zh-x|一 串 葡萄|a '''bunch''' of grapes}}
-
-===Pronunciation 2===
-{{zh-pron
-|m=guàn
-|c=gwaan3
-|cat=
+|w=2tshoe
+|oc=n,2
+|ma=y
+|cat=v,n,cls,c:a
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# to [[string]] together; to [[link]] up
+# [[string]]; [[chain]]; [[series]]
+# [[skewer]]
+# {{zh-classifier|[[strung]], [[bunch]]ed or [[cluster]]ed objects}}
+#: {{zh-x|一 串 珠子|a '''string''' of beads}}
+#: {{zh-x|一 串 鞭炮|a '''string''' of firecrackers}}
+#: {{zh-x|一 串 葡萄|a '''bunch''' of grapes}}
+# to [[gang]] up on; to [[conspire]]; to [[collaborate]]
+# to [[cross]]; to [[criss-cross]]; to [[traverse]] to; to [[mix]] (undesirably)
+# to [[pay]] a [[visit]] to; to [[visit]]; to [[move]] about
+# to [[play]] (a role); to [[act]]
+# {{lb|zh|Cantonese}} to [[spell]] (a word in Roman letters)
+# {{lb|zh|Cantonese|slang|may be derived from {{zh-l|*串聯}} during the {{w|Cultural Revolution}}}} [[cocksure]]; [[arrogant]]; [[cocky]]
+# {{lb|zh|Cantonese|slang}} [[sarcastic]]
 
-===References===
-* {{R:twedu|A00021}}
+====Compounds====
+{{zh-der|fold=1|一串珠|一串紅|一串驪珠|一連串|不上串|串供|串同|串味|串哄|串場|串子|串定|串客|串座|串戲|串打|串換|串杖|串氣|串游|串演|串燒|串疽|串票|串秧兒|串聯|串聯電阻|串花|串花家|串街|串親戚|串講|串通|串通一氣|串道|串鈴|串門子|串騙|串鼓|串鼻子|勾串|印串|反串|大會串|客串|戚串|手串兒|獃串了皮|親串|貫串|賣串兒|連串|錢串子|香串|驪珠串|鬼串|黃串餅}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=guàn
+|c=gwaan3
+|mc=y
+|oc=1,1
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[get]] [[close]] to; to [[fawn]] on; to be [[obsequious]] to; to [[curry]] [[favour]] with
+# {{†}} [[people]] on [[intimate]] [[term]]s
+# {{†}} [[habit]]; [[custom]]
+# {{†}} to [[joke]]; to [[banter]]
+
+====Compounds====
+{{zh-der|fold=1|串用|串習|親串|戚串|串暱|串狎}}
 
 ----
 
