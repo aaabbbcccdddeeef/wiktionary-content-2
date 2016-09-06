@@ -23,18 +23,72 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=土10}}
+{{ja-kanji|rs=土10}}
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi), [[じ]] (ji)|kun=[[ねぐら]] (negura)}}
+{{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi)|kun=[[ねぐら]] (negura), [[とぐろ]] (toguro), [[とや]] (toya), [[とぐら]] (togura)}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|ねぐら|yomi=k}}
+Compound of {{affix|sort=ねぐら|ja|寝|tr1=ne|座|tr2=kura}}.<ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=ねぐら|kura|gura}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ねぐら|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|ねぐら}}
 
-# [[roost]], [[den]], or other [[nest]]ing place
+# [[roost]]
 
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 塒]]
+===Etymology 2===
+{{ja-kanjitab|とぐろ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|とぐろ|acc=3|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|蜷局}}
+
+====Noun====
+{{ja-noun|とぐろ}}
+
+# [[coil]]
+
+=====Derived terms=====
+* {{ja-r|塒を巻く|とぐろ を まく}}
+
+===Etymology 3===
+{{ja-kanjitab|とや|yomi=k}}
+Compound of {{affix|sort=とや|ja|鳥|tr1=to|屋|tr2=ya}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とや|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|鳥屋}}
+
+====Noun====
+{{ja-noun|とや}}
+
+# [[henhouse]]
+
+===Etymology 4===
+{{ja-kanjitab|とぐら|yomi=k}}
+Compound of {{affix|sort=とぐら|ja|鳥|tr1=to|座|tr2=kura}}. {{rendaku2|sort=とぐら|kura|gura}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|とぐら}}
+
+====Alternative forms====
+* {{ja-l|鳥栖}}, {{ja-l|鳥座}}
+
+====Noun====
+{{ja-noun|とぐら}}
+
+# [[nest]]
+
+===References===
+<references/>
 
 ----
 
