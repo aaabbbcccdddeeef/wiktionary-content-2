@@ -17,12 +17,15 @@ Originally a compound of {{etyl|ojp|ja}} elements {{compound|lang=ja|こ|tr1=ko|
 # ''([[anaphorically]])'' [[this]] ... I am talking about (only the speaker knows)
 
 =====Usage notes=====
-This term can only be used when followed by a noun or noun phrase. It cannot be used as a standalone pronoun. Examples:
-* *'''この'''がすきです。 — *'''''Kono''' ga suki desu.'' — I like this ... — '''incorrect''': there must be a noun in place of the ...
-:: Using ''kono'' as above is a bit like using English {{m|en|the}} without a noun after it.
-* '''この'''いろがすきです。 — '''''Kono''' iro ga suki desu.'' — I like this color. — '''correct''': a noun follows ''kono''.
-
-Almost always spelled in hiragana as {{lang|ja|この}}.
+*This term can only be used when followed by a noun or noun phrase. It cannot be used as a standalone pronoun. Examples:
+** '''Correct''':
+**: {{ux|ja|{{furigana|'''この'''[[色]]が好きです。|'''この'''いろがすきです。}}|tr='''Kono''' iro ga suki desu.|I like this color.|inline=1}}
+**: A noun follows ''kono''.
+** '''Incorrect''':
+**: {{ux|ja|{{furigana|'''この'''が好きです。|'''この'''がすきです。}}|tr='''Kono''' ga suki desu.|I like this ...|inline=1}}
+**: There must be a noun in place of the "...".
+**: Using ''kono'' in this way is comparable to using English {{m|en|the}} without a noun after it (*''I like the.'').
+* Almost always spelled in hiragana as {{lang|ja|この}}.
 
 =====See also=====
 {{Japanese demonstratives}}
