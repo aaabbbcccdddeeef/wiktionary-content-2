@@ -1,19 +1,9 @@
-<!--{{also|幾}} (different character in Japan)-->
 {{also|凡|凢|儿|幾}}
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{liushu|p}}: a desk or table.
-
 ===Han character===
 {{Han char|rn=16|rad=几|as=00|sn=2|four=77210|canj=HN}}
-
-# small [[table]]
-# (simplified form of [[幾]])
-# [[how many]]? [[how much]]?
-# a [[few]], [[some]]
 
 ====Derived characters====
 * [[Index:Chinese radical/几]]
@@ -28,16 +18,21 @@
 
 ==Chinese==
 
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – [[stool]] (viewed from the side).
+
 ===Etymology 1===
 {{zh-forms|alt=𠀃}}
 
 ====Pronunciation====
 {{zh-pron
-|m=jī,jǐ,2nb=literary
+|m=jī,jǐ,2nb=Taiwan,2nc=literary
 |ma=y
-|c=gei1
+|c=gei1,gei2
+|md=gī
 |mn=kí
-|w=2qi
+|w=2ji
 |mc=y
 |oc=y
 |cat=n
@@ -46,11 +41,21 @@
 ====Definitions====
 {{zh-hanzi}}
 
+# {{†}} [[stool]]; [[chair]]
+# [[long]] [[narrow]] table; [[bench]]
 # [[small]] [[table]]
 #: {{zh-x|茶几|tea table}}
 
+=====Descendants=====
+{{CJKV||き|궤|kỉ}}
+''Others'':
+* Vietnamese: {{l|vi|ghế||chair}}
+
+====Compounds====
+{{zh-der|伏几|几几|几席|几杖|几案|几筵|方几|明窗淨几|燕几|窗明几淨|茶几|隱几|雪窗螢几|高几}}
+
 ===Etymology 2===
-{{zh-see|幾}}
+{{zh-see|幾||[[how many]]; [[some]]; [[fine]]}}
 
 ===Etymology 3===
 {{zh-see|人|v}}
