@@ -11,10 +11,7 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
-
-===Alternative forms===
-* {{zh-l|伩}}, {{zh-l|㐰}}
+{{zh-forms|alt=伩,㐰}}
 
 ===Pronunciation===
 {{zh-pron
@@ -42,10 +39,9 @@
 # {{senseid|zh|truly}} [[truly]]; [[indeed]]
 
 ===Noun===
-{{zh-noun|mw=封}}
+{{zh-noun}}
 
-# [[letter]] {{gloss|written communication}}
-#: {{zh-x|一 封 信|a letter}}
+# [[letter]] {{gloss|written communication}} {{zh-mw|m,c:封}}
 # [[information]]
 #: {{zh-x|信息|news, message}}
 # [[trust]]
