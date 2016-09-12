@@ -92,7 +92,7 @@ From {{inh|zh|sit-pro|*t/duŋ}}. Cognate with {{cog|bo|གཞུང||middle, cen
 {{ja-kanji|grade=1|rs=丨03}}
 
 ====Readings====
-* {{ja-readings|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)|kun=[[なか]] (naka), [[うち]] (uchi), [[あたる|あ.たる]] (a.taru)}}
+{{ja-readings|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)|kun=[[なか]] (naka), [[うち]] (uchi), [[あたる|あ.たる]] (a.taru)}}
 
 ====Compounds====
 {{der-top3|Compound words that contain 中}}
@@ -195,13 +195,35 @@ Uncommon
 * {{m|ja|上中下|tr=jōchūge}}
 {{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|なか|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|なか|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|なか}}
 
 # [[inside]]
 # [[middle]]
 
+=====Derived terms=====
+* {{ja-r|中今|なかいま|the [[present]], as a [[privileged]] [[moment]] in [[eternity]]}}
+
+====Proper noun====
+{{ja-pos|proper|なか}}
+
+# {{surname|sort=なか|lang=ja}}
+
+===Etymology 2===
+{{ja-kanjitab|なか|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ちゅう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|ちゅう}}
+
 # [[middle]], [[medium]]
 #: 大'''中'''小
 #:: large, '''medium''' and small
@@ -211,6 +233,13 @@ Uncommon
 # [[during]]; being in the process of doing
 # [[second]] [[volume]] of a [[three]] volume [[set]]
 
+===Etymology 3===
+{{ja-kanjitab|うち|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|うち}}
 : ''{{l|ja|内}} ({{l|ja|うち}}, uchi)''
 : ''{{l|ja|裡}} ({{l|ja|うち}}, uchi)''
@@ -227,10 +256,6 @@ Uncommon
 {{ja-pos|あたり|proper}}
 
 # {{surname|lang=ja|sort=あたり}}
-
-{{ja-pos|なか|proper}}
-
-# {{surname|lang=ja|sort=なか}}
 
 {{ja-pos|あたる|proper}}
 
@@ -251,6 +276,9 @@ Uncommon
 #: {{ja-usex|メンテ'''中'''|メンテ-'''ちゅう'''|'''currently in''' maintenance}}
 
 The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}} can be somewhat confusing: {{m|ja|じゅう|tr=jū}} means ''throughout,'' in ''all'' places, as in {{m|ja|一日中||all day long|tr=ichinichijū}} or {{m|ja|体中||throughout the body|tr=karadajū}}, while {{m|ja|ちゅう|tr=chū}} means ''within,'' but not ''everywhere,'' as in {{m|ja|授業中||in class, during class|tr=jugyōchū}}. Contrast “I worked on this ''all day long''” with “I worked on this ''in class'' (but not necessarily for the entire time)”.
+
+===References===
+<references/>
 
 ==Korean==
 
