@@ -2,10 +2,6 @@
 {{ja-forms|海|海|海}}
 
 ===Etymology===
-{{Han compound|水|每|c1=s|c2=p|alt1=氵|t1=water|ls=psc}}
-
-The Old Chinese word is believed to have been pronounced very much like 每, with an m- initial. [http://lodel.ehess.fr/crlao/document.php?id=1217 Baxter-Sagart] reconstruct the Old Chinese as *[[w:International Phonetic Alphabet|m̥ˤəʔ]]; compare with 每 *[[w:International Phonetic Alphabet|mˤəʔ]].
-
 Appears with [[母]] (2 dots) in Chinese, yielding {{lang|und|sc=Hani|海}}, but with simplified form [[毋]] (1 cross stroke) in Japanese shinjitai, yielding {{lang|ja|海}} = 氵 + [[毎]]. These are however encoded with the same Unicode character – see {{w|Han unification}}.
 
 [[File:海-bw.png|thumb|Stroke order|400px]]
@@ -21,8 +17,14 @@ Appears with [[母]] (2 dots) in Chinese, yielding {{lang|und|sc=Hani|海}}, but
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|每|c1=s|c2=p|alt1=氵|t1=water|ls=psc}}.
+
 ===Etymology===
-{{rfe|lang=zh|Also the Translingual section needs to be checked and possibly moved here}}
+Probably related to {{och-l|晦|dark}}; in numerous [[Zhou]] texts {{lang|zh|海}} is described as {{lang|zh|晦}} ({{zh-ref|Schuessler, 2007}}).
+
+Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -35,13 +37,18 @@ Appears with [[母]] (2 dots) in Chinese, yielding {{lang|und|sc=Hani|海}}, but
 |w=2he
 |mc=y
 |oc=y
-|cat=n,pn
+|cat=n,a,adv,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# [[sea]], [[ocean]]
+# [[sea]]; [[ocean]]
+# [[big]] [[lake]]
+# [[overseas]]; [[abroad]]
+# {{lb|zh|figurative}} [[sea]]; [[abundance]]; [[infiniteness]]
+# {{lb|zh|regional}} [[profuse]]; [[numerous]]
+# [[unrestrainedly]]; [[randomly]]; [[casually]]
 # {{surname|lang=zh}} [[Hai]] (''mainland China, Taiwan''), [[Hoi]] (''Hong Kong'')
 
 ====Compounds====
