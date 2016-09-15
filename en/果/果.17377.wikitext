@@ -53,10 +53,13 @@
 {{ja-kanji|grade=4|rs=木04}}
 
 ====Readings====
-* {{ja-readings|goon=[[か]] (ka)|kanon=[[か]] (ka)|kun=[[はたす]] ([[果たす]], hatasu), [[はたす]] ([[果す]], hatasu), [[はてる]] ([[果てる]], hateru), [[はて]] ([[果て]], hate), [[くだもの]] (kudamono)|nanori=[[み]] (mi), [[あきら]] (akira), [[はた]] (hata), [[はたす]] (hatasu), [[まさる]] (masaru)}}
+{{ja-readings|goon=[[か]] (ka)|kanon=[[か]] (ka)|kun=[[はたす]] ([[果たす]], hatasu), [[はたす]] ([[果す]], hatasu), [[はてる]] ([[果てる]], hateru), [[はて]] ([[果て]], hate), [[くだもの]] (kudamono)|nanori=[[み]] (mi), [[あきら]] (akira), [[はた]] (hata), [[はたす]] (hatasu), [[まさる]] (masaru)}}
 
 ====Compounds====
 {{der-top|Compounds}}
+* {{ja-r|映日果|いちじく}}, {{ja-r|映日果|えいじつか}}: [[fig]]
+* {{ja-r|無花果|いちじく}}, {{ja-r|無花果|むかか}}: [[fig]]
+* {{ja-r|無花果果|いちじくか}}: [[syconium]]
 * {{ja-r|果敢|かかん}}: resolute, determined
 * {{ja-r|果実|かじつ}}: fruit, berry
 * {{ja-r|果樹|かじゅ}}: fruit tree
@@ -86,13 +89,22 @@
 * {{ja-r|苹果|へいか}}, {{ja-r|苹果|ひょうか}}: [[apple]] (fruit)
 {{der-bottom}}
 
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|か|yomi=o}}
+
+===Etymology===
+From {{der|sort=か|ja|ltc|果|tr=kuɑ<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|か|acc=1|acc_ref=DJR}}
+
 ===Counter===
-{{ja-pos|か|counter}}
+{{ja-pos|counter|か|hhira=くわ}}
 
 # pieces of [[fruit]]
 
 ===Noun===
-{{ja-noun|か}}
+{{ja-noun|か|hhira=くわ}}
 
 # [[fruit]]
 # {{lb|ja|Buddhism|sort=か}} [[phala]], attained state, [[result]]
@@ -101,6 +113,9 @@
 ====See also====
 * {{l|ja|因}} (''in''): cause, factor
 * {{l|ja|悟り}} (''satori''): Buddhist enlightenment
+
+===References===
+<references/>
 
 ----
 
