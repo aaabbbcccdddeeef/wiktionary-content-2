@@ -11,12 +11,37 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=tam5}}
+===Pronunciation===
+{{zh-pron
+|m=dàng
+|c=tam5
+|c-t=
+|g=tong5
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=donn5
+|mc=y
+|oc=y
+|cat=n,pn
+}}
 
-# {{defn|lang=yue|sort=水01}}
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal|_|Mandarin|Cantonese|Hakka|Gan|Xiang}} [[puddle]]; [[pool]]; [[pit]]
+# {{lb|zh|dialectal|_|Xiang}} [[deep]] part of a [[river]]
+# {{zh-short|氹仔|Taipa}}
+#: {{zh-x|^澳 氹{Dàng} ^大橋|Macau-'''Taipai''' Bridge}}
+
+====Compounds====
+{{zh-der|氹子|氹公|氹坑|氹仔:Taipa|水氹|路氹}}
 
 ----
 
@@ -29,19 +54,6 @@
 
 ====Readings====
 * {{ja-readings|on=[[かん]] (kan)|kun=[[ためいけ]] (tameike)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[dàng]] ([[dang4]])|wg=tang<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=水01}}
-
-Variant of [[凼]], also obsolete.
-# [[氹仔]] dàngzǎi : Taipa (in Portuguese), ''Tamzai'' in Cantonese
-# [[澳]]氹[[大]][[橋]] ào-dàng dàqiáo : Macau-Taipai Bridge
 
 [[fr:氹]]
 [[hu:氹]]
