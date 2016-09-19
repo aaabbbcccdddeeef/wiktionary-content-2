@@ -1,13 +1,8 @@
+{{also|灰}}
 ==Translingual==
-
-===Etymology===
-{{Han compound|屵|t1=mountain, cliff|火|t2=fire|ls=ic}} – flammable substance from under a mountain (mined coal). Alternatively, the act of making ash {{m|mul|灰||ash|sc=Hani}} in a {{m|mul|山||mountain|sc=Hani}}.[http://www.yellowbridge.com/chinese/character-etymology.php?searchChinese=1&zi=%E7%82%AD]
 
 ===Han character===
 {{Han char|rn=86|rad=火|as=05|sn=9|four=22289|canj=UKF,UMF|ids=⿱山灰}}
-
-====See also====
-* {{l|mul|灰}} <!-- visually similar -->
 
 ====References====
 * {{Han ref|kx=0668.240|dkj=18953|dj=1077.240|hdz=32195.150|uh=70AD|ud=28845|bh=ACB4|bd=44212}}
@@ -17,15 +12,24 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|岸|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*tal||charcoal; dust; ashes}}. Cognate with {{cog|bo|ཐལ་བ||ashes; dust; dirt}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=tàn
 |c=taan3
 |h=pfs=than
+|md=táng
 |mn=thòaⁿ
+|w=2the
 |mc=y
 |oc=y
-|ma=Zh-tàn.ogg
+|ma=y
 |cat=n
 }}
 
@@ -33,8 +37,23 @@
 {{zh-hanzi}}
 
 # [[charcoal]]
+# [[charcoal]] [[fire]]
 # [[coal]]
-# [[carbon]]
+# [[coal]]-like [[substance]]
+# {{zh-alt-form|碳|[[carbon]]}}
+
+===Compounds===
+{{zh-der|冰炭|冰炭不洽|吞炭|吞炭漆身|塗炭|塗炭生民|塗炭生靈|戴炭簍子|打醋炭|握炭流湯|木炭|木炭畫|民墜塗炭|民生塗炭|泥炭|浮炭|漆身吞炭|瀝青炭|火炭|灰炭|炭化|炭墼|炭層|炭敬|炭火|炭烤|炭疽病|炭盆|炭窩|炭窯|炭筆|炭筆畫|炭簍子|炭米|炭精|炭精棒|炭精筆|炭精紙|焦炭|煤炭|熛炭|熟炭|熾炭|獸炭|生民塗炭|生炭|生靈塗炭|白炭|石炭|石炭紀|紅頭黑炭|草炭|荼炭|褐炭|踐冰履炭|雪中送炭|雪裡送炭|骨炭|麩炭|黑炭}}
+
+===Descendants===
+{{CJKV||たん|탄|thán}}
+''Others'':
+* Khmer: {{l|km|ធ្យូង}}
+* Proto-Hmong-Mien: {{l|hmx-pro|*thanᴴ||charcoal}}
+** White Hmong: {{l|mww|thee}}
+* Lao: {{l|lo|ຖ່ານ}}
+* Thai: {{l|th|ถ่าน}}
+* Vietnamese: {{l|vi|than}}
 
 ----
 
