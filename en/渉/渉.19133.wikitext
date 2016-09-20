@@ -13,27 +13,34 @@
 
 ==Japanese==
 
+===Kanji===
+{{ja-kanji|grade=c|rs=水08}}
+
+# to {{l|en|ford}} a body of water
+# to {{l|en|cross}} a body of water
+
+====Readings====
+{{ja-readings
+|goon=[[じょう]] (jō) {{non-joyo-reading}}, {{qualifier|historical}} [[ぜふ]] (zefu), [[ちょう]] (chō) {{non-joyo-reading}}, {{qualifier|historical}} [[てふ]] (tefu)
+|kanon=[[しょう]] (shō), {{qualifier|historical}} [[せふ]] (sefu), [[ちょう]] (chō) {{non-joyo-reading}}, {{qualifier|historical}} [[てふ]] (tefu)
+|kun=[[わたる]] ([[渉る]], wataru)
+|nanori=[[えん]] (en)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|干渉|かんしょう}}
+* {{ja-r|交渉|こうしょう}}
+* {{ja-r|渉外|しょうがい}}
+{{der-bottom}}
+
+===Etymology===
+Nominalization of the verb {{m|ja|渉る|tr=wataru||to ford or otherwise cross a body of water}}.
+
 ===Proper noun===
 {{ja-pos|proper|わたる}}
 
 # {{given name|male|lang=ja|sort=わたる}}
-
-===Kanji===
-{{ja-kanji|grade=c|rs=水08}}
-
-# {{defn|lang=ja|sort=水08}}
-
-====Readings====
-* {{ja-readings|goon=[[じょう]] (jō) {{non-joyo-reading}} < [[ぜふ]] (zefu, zeu), [[ちょう]] (chō) {{non-joyo-reading}} < [[てふ]] (tefu)|kanon=[[しょう]] (shō) < [[せふ]] (sefu), [[ちょう]] (chō) {{non-joyo-reading}} < [[てふ]] (tefu)|kun=[[わたる]] (wataru), [[かかわる]] (kakawaru)}}
-
-====Compounds====
-{{top3}}
-* {{ja-r|干渉|かんしょう}}
-{{mid3}}
-* {{ja-r|交渉|こうしょう}}
-{{mid3}}
-* {{ja-r|渉外|しょうがい}}
-{{bottom}}
 
 [[Category:Japanese male given names|わたる]]
 
