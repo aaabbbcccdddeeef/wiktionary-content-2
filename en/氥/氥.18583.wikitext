@@ -3,28 +3,36 @@
 ===Han character===
 {{Han char|rn=84|rad=气|as=06|sn=10|four=80617|canj=ONMCW|ids=⿹气西}}
 
-# archaic version of [[氙]] ([[xenon]])
-
 ====References====
 * {{Han ref|kx=0599.151|dkj=17062|hdz=32011.090|uh=6C25|ud=27685|bh=D244|bd=53828}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=saan1, sin1}}
+===Glyph origin===
+{{Han compound|气|c1=s|t1=gas|西|c2=p|ls=psc}}
 
-# {{defn|lang=yue|sort=气06}}
+===Etymology===
+{{bor|zh|en|xenon|'''xe'''non}}.
 
-----
+===Pronunciation===
+{{zh-pron
+|m=xī
+|c=sai1
+|cat=n
+}}
 
-==Mandarin==
+===Definitions===
+{{zh-hanzi}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[qíng]] ([[qing2]]), [[xī]] ([[xi1]])|wg=ch'ing<sup>2</sup>, hsi<sup>1</sup>}}
+# {{lb|zh|chemistry|obsolete}} [[xenon]]
 
-# {{defn|lang=cmn|sort=气06}}
+====Synonyms====
+* {{zh-l|氙}}
+
+{{zh-cat|Chemical elements}}
 
 [[fr:氥]]
 [[pl:氥]]
