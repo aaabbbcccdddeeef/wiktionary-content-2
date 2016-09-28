@@ -11,14 +11,15 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𢭍,𢰚}}
 
-===Alternative forms===
-* {{zh-l|𢭍}}
-* {{zh-l|𢰚}}
-* {{zh-l|㪜}}
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|手|c1=s|t1=hand|耑|c2=p|ls=psc}}
 
 ===Etymology 1===
+{{zh-forms|alt=㪜}}
+{{rfe|zh}}
 
 ====Pronunciation====
 {{zh-pron
@@ -30,114 +31,49 @@
 |cat=v,pn
 }}
 
-====Verb====
-{{zh-verb}}
-
-# to [[speculate]], to [[guess]]
-# to [[measure]], to [[estimate]], to [[assess]]
-# to [[try]], to [[attempt]]
-# to [[hold]], to [[grab]]
-
-====Proper noun====
-{{zh-proper noun}}
-
-# {{surname|lang=zh}}
-
-===Etymology 2===
-
-====Pronunciation====
-{{zh-pron
-|m=揣
-|c=
-|mn=
-|cat=
-}}
-
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-only used in|囊揣}}
-# {{zh-only used in|掙揣}}
+# to [[speculate]]; to [[guess]]
+# to [[measure]]; to [[estimate]]; to [[assess]]
+# to [[try]]; to [[attempt]]
+# to [[hold]]; to [[grab]]
+# {{surname|lang=zh}}
 
-===Etymology 3===
-
-====Pronunciation====
-{{zh-pron
-|m=chuāi,chuǎi,2nb=Taiwan
-|c=
-|mn=
-|cat=v
-}}
-
-====Verb====
-{{zh-verb}}
-
-# to [[hide]] or [[carry]] something in clothes
-# {{zh-obsolete}} to be [[pregnant]]
-# {{zh-obsolete}} to [[impose]] onto someone
-
-===Etymology 4===
-
-====Alternative forms====
-* {{zh-l|找|tr=-}}
+===Etymology 2===
+{{zh-forms|alt=找}}
 
 ====Pronunciation====
 {{zh-pron
 |mn=chhē/chhōe
 |mn-t=cuê7
+|dial=n
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{lb|zh|Min Nan}} to [[look for]], to [[seek]]
-#* {{zh-x|明知 愛情 是 毒藥，偏偏 一 喙\嘴 共\甲 啉\喝 落；等到 情 火 一直 燒，'''找''' 無 止痛 的 解藥。|[I] clearly knew love is a poison, [but I] still drank it; by the time the fire of love was ceaselessly burning, [I still] could not '''find''' a painkilling antidote.|MN|tr=Bêng-chai ài-chêng sī to̍k-io̍h, phian-phian chi̍t chhùi kā lim lo̍h; tán kah chîng hóe it-ti̍t sio, '''chhōe''' bô chí-thiàⁿ ê kái-io̍h.|ref={{lang|zh|{{w|lang=zh|蕭玉芬}}}}, {{lang|zh|毒藥}}}}
+# {{lb|zh|Min Nan}} to [[look for]]; to [[seek]]
+#* {{zh-x|明知 愛情 是 毒藥，偏偏 一 喙\嘴 共\甲{kā} 啉\喝{lim} 落{lo̍h}；等 到{kah} 情{chêng} 火 一直 燒，'''找{chhōe}''' 無 止痛 的 解藥。|[I] clearly knew love is a poison, [but I] still drank it; by the time the fire of love was ceaselessly burning, [I still] could not '''find''' a painkilling antidote.|TW|ref={{lang|zh|{{w|lang=zh|蕭玉芬}}}}, {{lang|zh|毒藥}}}}
 
-===Etymology 5===
-
-====Pronunciation====
-{{zh-pron
-|m=tuán
-|c=
-|mn=
-|h=pfs=thòn
-|mc=
-|oc=
-|cat=a,v
-}}
-
-====Adjective====
-{{zh-adj}}
-
-# {{zh-obsolete}} (= {{zh-l|敦}}) [[assemble]]d, [[gather]]ed
-
-====Verb====
-{{zh-verb}} {{tcx|Hakka|lang=zh}}
-
-# to [[guess]]
-
-===Etymology 6===
+===Etymology 3===
+{{zh-forms|alt=慱,𬣍}}
 
 ====Pronunciation====
 {{zh-pron
-|m=zhuī
-|c=
-|mn=
-|mc=
-|oc=
-|cat=v
+|h=pfs=thòn;gd=ton2
+|dial=n
+|cat=a,h:v
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
-# {{zh-obsolete}} to [[strike]]
+# {{lb|zh|Hakka}} to [[guess]]
 
-===Etymology 7===
-
-====Alternative forms====
-* {{zh-l|挆}}, {{zh-l|挅}}
+===Etymology 4===
+{{zh-forms|alt=挆,挅}}
 
 ====Pronunciation====
 {{zh-pron
@@ -146,14 +82,68 @@
 |mn=
 |mc=2
 |oc=n,1
+|dial=n
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
 # {{zh-obsolete}} to [[measure]], to [[estimate]]
 # {{zh-obsolete}} to [[shake]], to [[rock]]
+
+===Etymology 5===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=揣
+|c=
+|mn=
+|dial=n
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|囊揣||掙揣}}
+
+===Etymology 6===
+
+====Pronunciation====
+{{zh-pron
+|m=chuāi,chuǎi,2nb=Taiwan
+|c=
+|mn=
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[hide]] or [[carry]] something in clothes
+# {{zh-obsolete}} to be [[pregnant]]
+# {{zh-obsolete}} to [[impose]] onto someone
+
+===Etymology 7===
+
+====Pronunciation====
+{{zh-pron
+|m=zhuī
+|c=
+|mn=
+|mc=
+|oc=
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[strike]]
 
 ===Etymology 8===
 
@@ -164,20 +154,38 @@
 |mn=
 |mc=
 |oc=
+|dial=n
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
 # {{zh-obsolete}} to [[measure]]
 
+===Etymology 9===
+
+====Pronunciation====
+{{zh-pron
+|m=tuán
+|c=tyun4
+|mc=
+|oc=
+|dial=n
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{zh-alt-form|團|[[assemble]]d; [[gather]]ed}}
+
 ===References===
 * Chinese Linguipedia (中華語文知識庫): [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187036 chuǎi], [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187037 chuài/chuǎi], [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187038 chuāi/chuǎi]
-* [http://dict2.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAxNjIz Dictionary of Chinese Character Variants]
+* {{R:twedu|A01623}}
 * [http://hakka.dict.edu.tw/hakkadict/result_detail.jsp?n_no=13131&soundtype=0&sample=%E6%8F%A3 Dictionary of Frequently-Used Taiwan Hakka (臺灣客家語常用詞辭典)]
 * [http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8F%A3 Multi-function Chinese Character Database]
-* [http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh?idx=dict.idx&cond=%5E%B4%A2%24&pieceLen=50&fld=1&cat=&imgFont=1 Revised Mandarin Chinese Dictionary (重編國語辭典修定本)]
+* [http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&searchid=W00000008615 Revised Mandarin Chinese Dictionary (重編國語辭典修定本)]
 * {{thcwd|8434}}
 * [http://www.zdic.net/z/1a/js/63E3.htm ZDIC]
 * Zhou, Changji (ed.). Minnan Fangyan Da Cidian (Chinese). Fuzhou: Fujian People's Publishing House, 2006. ISBN 7-211-03896-9.
