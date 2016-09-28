@@ -2,11 +2,12 @@
 ==Translingual==
 {{stroke order|type=animate}}
 {{stroke order|type=janimate}}
-{{Han etyl}}
 
 ===Han character===
 {{Han char|rn=100|rad=生|as=0|sn=5|four=25100|canj=HQM|ids=⿻𠂉土}}
-#{{mul-kangxi radical-def}}
+
+# {{mul-kangxi radical-def}}
+
 ====References====
 * {{Han ref|kx=0754.260|dkj=21670|dj=1162.040|hdz=42575.010|uh=751F|ud=29983|bh=A5CD|bd=42445}}
 
@@ -15,88 +16,82 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|屮|一|ls=ic|t1=bud|t2=ground}} – [[sprouting]] from the ground.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-riŋ ~ s-r(j)aŋ||to live; to be alive; to give birth; raw; green}}. Related to {{och-l|青|blue-green}}, {{och-l|蒼|dark blue; deep green}}. Cognate with {{cog|my|ရှင်||to live; alive}}, {{cog|lus|hring||to bear; to bring forth; to give birth to; green}}.
+
+{{zh-ref|Schuessler (2007)}} proposes that {{cog|sit-pro||*sriŋ}} is derived from the root {{m|sit-pro|*sri||to exist}} (whence possibly Chinese {{och-l|體|body; shape; form}}) + {{m|sit-pro|*-ŋ||''terminative suffix''}}.
+
+Derivatives: {{och-l|性|nature; character; personality; quality}}, {{och-l|姓|family name}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=shēng
-|ma=y
 |c=saang1,sang1
 |c_note=saang1 - vernacular; sang1 - literary
 |h=pfs=sâng/sên
 |h_note=sâng - vernacular; sên - literary
 |md=săng/sĕng
 |mn=chheⁿ/chhiⁿ/seⁿ/siⁿ/seng
-|mna=Taiwanese-The_Vowel_enn.ogg
 |mn_note=chheⁿ, chhiⁿ, seⁿ, siⁿ - vernacular; seng - literary
 |w=1san,1sen
 |w_note=1san - vernacular; 1sen - literary
 |mc=y
 |oc=y
-|cat=n,a,adv
+|ma=y
+|mna=Taiwanese-The_Vowel_enn.ogg
+|cat=v,n,a,adv
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# [[gentleman]]
-# [[student]]
-#* {{zh-x|你 作為 全日制 生 必須 定期 上課。|As a full-time student, you should attend classes on a regular basis.}}
-# [[actor]] or a male character, especially in Chinese operas
-# {{lb|zh|Cantonese}} [[Mr]]
-#: {{zh-also|先生}}
-# to [[give birth]]; to [[bear]]
-#* {{zh-x|她 妻子 '''生''' 了 一 對 雙胞胎 女孩。|His wife '''gave birth''' to twin girls.}}
+# to [[live]]; to [[subsist]]; to [[exist]]
+# to [[grow]]; to [[develop]]; to [[bud]]
+#* {{zh-x|紅豆 生 南 國。|Red berries '''grow''' in southern lands.}}
+# {{lb|zh|causative}} to [[bear]]; to [[give birth]]; to [[bring up]]; to [[rear]]
+#* {{zh-x|她 妻子 生 了 一 對 雙胞胎 女孩。|His wife '''gave birth''' to twin girls.}}
 #* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.9]
-#* {{zh-x|那 光 是 真 光，照亮 一切 '''生''' 在 世上 的 人。|That was the true Light, which lighteth every man that '''cometh''' into the world.}}
-# to [[be born]]
-#* {{zh-x|他 '''生''' 在 中國|He '''is born''' in China}}
-# to [[grow]]
-#* {{zh-x|紅豆 '''生''' 南 國|Red berries '''grow''' in southern lands.}}
-# to [[light]] {{qualifier|a fire}}
-#* {{zh-x|母親 沒 有 生 爐子。|Mother did not light the stove.}}
+#* {{zh-x|那 光 是 真 光，照亮 一切 生 在 世上 的 人。|That was the true Light, which lighteth every man that '''cometh''' into the world.}}
+# to [[be born]]; to [[come]] into [[existence]]
+#* {{zh-x|他 生 在 中國。|He '''was born''' in China.}}
+# [[offspring]]; [[descendant]]
+# [[pupil]]; [[disciple]]; [[student]]
+#* {{zh-x|你 作為 全日制 生 必須 定期 上課。|As a full-time student, you should attend classes on a regular basis.}}
+# {{lb|zh|historical}} [[scholar]]; [[Confucian]] scholar
+# {{lb|zh|opera}} [[actor]] or [[male]] [[character]]
+# {{zh-short|先生|[[gentleman]]}}
+# {{lb|zh|Cantonese}} {{zh-short|先生|[[Mr.]]}}
+# [[life]]; [[existence]]; [[being]]; [[living]]
+# [[fresh]]; not [[stale]]
 # [[raw]]; [[uncooked]]
-#* {{zh-x|我 不 喜歡 在 我 色拉 裡 的 '''生''' 洋蔥。|I do not like '''raw''' onions in my salad.}}
+#* {{zh-x|生 洋蔥|'''raw''' onions}}
 #* {{zh-x|我 覺{gok3}得 呢 塊 肉 仲係 太 生。|I think this piece of meat is too raw.|C}}
-# [[unfamiliar]]
+# [[uncultured]]; [[uncultivated]]
+# [[strange]]; [[unfamiliar]]
+# [[mechanically]]; [[forcedly]]
+# {{†}} [[very]]; [[quite]]; [[extremely]]
+# [[vivid]]; [[strong]]; [[forceful]]
+# [[innate]]; [[natural]]; [[born]] with
+# {{†}} {{zh-original|性|[[intelligence]]; [[natural]] [[endowment]]}}
+# [[living]] [[thing]]s; [[organism]]
+# [[livelihood]]; [[subsistence]]
+# [[lifetime]]; all one's [[life]]
+# [[birthday]]; [[anniversary]]
+# to [[bring]] back to [[life]]; to [[revive]]; to [[rescue]]
+# to [[generate]]; to [[breed]]; to [[create]]
+# to [[manufacture]]; to [[produce]]
+# to [[happen]]; to [[occur]]; to [[take place]]
+# {{lb|zh|Buddhism}} to [[go]] into [[society]]; to be [[reincarnate]]d
+# {{lb|zh|dialectal}} to [[set up]]; to [[put in]]; to [[settle]]
+# to [[light]]; to [[ignite]] (a fire)
+#* {{zh-x|母親 沒 有 生 爐子。|Mother did not light the stove.}}
 
 ====Compounds====
-{{der3
-|{{zh-l|生變|tr=shēngbiàn|to occur unexpectedly}}
-|{{zh-l|生病|tr=shēngbìng|ill, sick}}
-|{{zh-l|生產|tr=shēngchǎn|production}}
-|{{zh-l|生詞|tr=shēngcí|a new word that one is not familiar with}}
-|{{zh-l|生地|tr=shēngdì|root of the ''[[Rehmannia glutinosa]]'' (Chinese herb)}}
-|{{zh-l|生活|tr=shēnghuó|life, existence, livelihood, lifestyle}}
-|{{zh-l|生理|tr=shēnglǐ|physiology}}
-|{{zh-l|生靈|tr=shēnglíng|the people, the citizenry}}
-|{{zh-l|生命|tr=shēngmìng|life, existence}}
-|{{zh-l|生氣|tr=shēngqì|angry, upset}}
-|{{zh-l|生人|tr=shēngrén|a stranger}}
-|{{zh-l|生日|tr=shēngrì|birthday}}
-|{{zh-l|生疏|tr=shēngshū|out of practice, rusty, not familiar}}
-|{{zh-l|生死|tr=shēngsǐ|life and death, to live and die}}
-|{{zh-l|生態|tr=shēngtài|ecology}}
-|{{zh-l|生物|tr=shēngwù|living being, organism}}
-|{{zh-l|生意|tr=shēngyi|business, trade}}
-|{{zh-l|生化|tr=shēnghuà|biochemistry}}
-|{{zh-l|衛生|tr=wèishēng|hygienic, hygiene, sanitation, health}}
-|{{zh-l|先生|tr=xiānshēng|mister, sir, husband}}
-|{{zh-l|生搬硬套}}
-|{{zh-l|生動}}
-|{{zh-l|生發}}
-|{{zh-l|生根}}
-|{{zh-l|生活問題}}
-|{{zh-l|生火}}
-|{{zh-l|生機}}
-|{{zh-l|生計}}
-|{{zh-l|生絲}}
-|{{zh-l|生效}}
-|{{zh-l|生長}}
-|{{zh-l|生殖}}
-|{{zh-l|生字}}
-}}
-
-===References===
-* {{qualifier|Min Nan}} {{thcwd|1852}}
+{{zh-der|生變:to occur unexpectedly|生病:ill, sick|生產:production|生詞:a new word that one is not familiar with|生地:root of the ''[[Rehmannia glutinosa]]'' (Chinese herb)|生活:life, existence, livelihood, lifestyle|生理:physiology|生靈:the people, the citizenry|生命:|life, existence|生氣:angry, upset|生人:a stranger|生日:birthday|生疏:out of practice, rusty, not familiar|生死:life and death, to live and die|生態:ecology|生物:living being, organism|生意:business, trade|生化:biochemistry|衛生:hygienic, hygiene, sanitation, health|先生:mister, sir, husband|生搬硬套|生動|生發|生根|生活問題|生火|生機|生計|生絲|生效|生長|生殖|生字|一生|三生|丟生|乍生|互生|人生|今生|他生|伐生|你生|佾生|來生|侍生|侯生|保生|偏生|做生|偷生|傍生|催生|傷生|像生|僑生|儒生|共生|再生|出生|前生|勉生|勞生|化生|半生|卵生|厚生|友生|受生|叢生|合生|同生|含生|喪生|四生|回生|增生|外生|多生|天生|夾生|女生|好生|孤生|孳生|學生|孿生|安生|官生|家生|宿生|寄生|寤生|寫生|射生|對生|小生|尾生|師生|平生|幸生|庠生|廕生|廩生|往生|後生|復生|怎生|怕生|怪生|怯生|慶生|懷生|所生|打生|托生|投生|招生|挺生|捉生|捐生|捕生|接生|攝生|收生|放生|救生|新生|旁生|旅生|族生|晚生|更生|書生|有生|本生|橫生|次生|欺生|此生|武生|死生|殘生|殺生|民生|永生|求生|治生|洪生|派生|浮生|滋生|濟生|為生|無生|營生|狂生|獨生|生事|生來|生像|生僻|生光|生冷|生分|生利|生前|生厭|生受|生口|生吃|生員|生壙|生天|生存|生客|生小|生就|生布|生平|生年|生徒|生心|生忌|生忿|生怕|生性|生恐|生息|生成|生手|生技|生擒|生放|生料|生是|生書|生朝|生業|生母|生民|生水|生油|生津|生涯|生湊|生漆|生澀|生炭|生煤|生父|生狼|生猛|生獰|生生|生番|生疑|生疼|生皮|生相|生眼|生硬|生祠|生端|生紙|生綃|生肖|生育|生色|生花|生芻|生苗|生茶|生荒|生菌|生菜|生薑|生藥|生蠔|生角|生財|生貨|生趣|生路|生身|生辰|生還|生鈔|生鐵|生隙|生面|生食|生飲|生養|生魂|生鮮|生齒|產生|申生|男生|畜生|畢生|疇生|發生|監生|目生|相生|眷生|眼生|眾生|禮生|種生|窮生|童生|紅生|終生|經生|維生|緣生|群生|老生|考生|耳生|聊生|胎生|脆生|腐生|花生|苟生|萌生|落生|葛生|蒼生|蔓生|衍生|親生|託生|認生|誕生|諸生|謀生|貢生|貪生|超生|輕生|輪生|轉生|逃生|道生|達生|鄙生|醜生|醫生|重生|野生|長生|門生|附生|陌生|降生|陰生|雙生|面生|養生|餘生|驀生|鬚生|鯫生|麴生|龔生}}
 
 ----
 
