@@ -9,9 +9,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=03|sn=6|four=77220|canj=BMR|ids=⿵冂𠮛}}
 
-# [[same]], [[similar]]
-# [[together]] with
-
 ====Derived characters====
 <!-- sorted by where this component is placed: right, middle, bottom -->
 * [[洞]], [[銅]], [[桐]], [[侗]], [[恫]], [[挏]], [[鮦]], [[駧]], [[眮]], [[詷]]
@@ -42,23 +39,21 @@
 |m=tóng
 |c=tung4
 |h=pfs=thùng
+|md=dùng
 |mn=tâng/tông
 |mn_note=tâng - vernacular; tông - literary
+|w=3don
 |mc=y
 |oc=y
 |ma=
-|cat=a
+|cat=a,adv,prep
 }}
 
-===Adjective===
-{{zh-adj}}
+===Definitions===
+{{zh-hanzi}}
 
 # same; identical
 #: {{zh-x|同 一個 世界，同 一個 夢想。|One World, One Dream. (literally "The '''Same''' World, The '''Same''' Dream")}}
-
-===Preposition===
-{{zh-prep}}
-
 # {{non-gloss definition|Indicating accompany.}}
 #: {{zh-x|我 同 你 去|I am going '''with''' you.}}
 # {{non-gloss definition|Indicating relationship.}}
@@ -67,15 +62,11 @@
 #: {{zh-x|今年 的 氣候 同 往年 不 一樣。|The climate this year is different '''from''' which of the past.}}
 # {{lb|zh|Cantonese}} [[for]]
 #: {{zh-x|同 我 攞{lo2} 一 罐 甜酸醬，唔該。|Please get me a can of sweet-and-sour sauce.|C}}
+# [[and]]
 
 ====Synonyms====
 * {{sense|with}}
 {{zh-dial|和}}
-
-===Conjunction===
-{{zh-con}}
-
-# and
 
 ===Compounds===
 * {{zh-l|同樣}}
@@ -120,7 +111,7 @@ From {{etyl|ltc|ja|sort=とう'}} {{m|zh|同|tr=duwng||same}}.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=동|rv=dong|mr=tong}}
+{{ko-hanja|hangeul=동}}
 
 # {{defn|lang=ko|sort=口03}}
 
