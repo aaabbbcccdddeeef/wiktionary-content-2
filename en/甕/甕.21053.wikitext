@@ -2,10 +2,13 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=98|rad=瓦|as=13|sn=18|four=00717|canj=YVGN}}
+{{Han char|rn=98|rad=瓦|as=13|sn=18|four=00717|canj=YVGN|ids=⿱雍瓦}}
 
 # [[earthen]] [[jar]]
 # [[jar]] for [[ashes]]
+
+====Derived characters====
+* [[𥗯]], [[𨇹]], [[𪗃]]
 
 ====References====
 * {{Han ref|kx=0752.250|dkj=21617|dj=1160.080|hdz=21433.050|uh=7515|ud=29973|bh=C27C|bd=49788}}
@@ -14,6 +17,8 @@
 
 ==Chinese==
 {{zh-forms}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
 
 ===Pronunciation===
 {{zh-pron
@@ -42,12 +47,99 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=瓦13}}
+{{ja-kanji|rs=瓦13}}
 
 # {{defn|lang=ja|sort=瓦13}}
 
 ====Readings====
-* {{ja-readings|on=[[おう]] (ō)|kun=[[かめ]] (kame), [[みか]] (mika)}}
+{{ja-readings|goon=[[う]] (u)|kanon=[[おう]] (ō)|kun=[[かめ]] (kame), [[みか]] (mika), [[みかわ]] (mikawa), [[もたい]] (motai), [[たしらか]] (tashiraka)}}
+
+=====Compounds=====
+* {{ja-r|浅甕|さらけ}}
+* {{ja-r|斎甕|ゆか}}
+* {{ja-r|斎甕物|ゆかもの}}
+* {{ja-r|甕菜|ようさい}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|かめ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かめ|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|瓶}}
+
+====Noun====
+{{ja-noun|かめ}}
+
+# [[earthenware]] [[pot]]
+
+=====Derived terms=====
+* {{ja-r|合わせ口甕棺|あわせぐちかめかん}}
+* {{ja-r|甕棺|かめかん}}
+* {{ja-r|甕の蓋|かめ の ふた}}
+* {{ja-r|こわれ甕|こわれがめ}}
+* {{ja-r|酒甕|さかがめ}}
+* {{ja-r|酢甕|すがめ}}
+* {{ja-r|水甕|みずがめ}}
+
+===Etymology 2===
+{{ja-kanjitab|みか|yomi=k}}
+{{prefix|sort=みか|ja|御|tr1=mi-|t1=honorific prefix|か|tr2=ka|t2=vessel}}<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|みか}}
+
+====Noun====
+{{ja-noun|みか}}
+
+# [[large]] [[earthenware]] [[pot]] for [[brew]]ing [[sake]]
+
+=====Derived terms=====
+* {{ja-r|武甕槌神|^たけみかづち の ^かみ}}
+
+===Etymology 3===
+{{ja-kanjitab|みかわ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|みかわ}}
+
+====Noun====
+{{ja-noun|みかわ}}
+
+# [[large]] [[earthenware]] [[pot]] for [[brew]]ing [[sake]]
+
+===Etymology 4===
+{{ja-kanjitab|もたい|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|もたい}}
+
+====Alternative forms====
+* {{ja-l|瓮}}
+
+====Noun====
+{{ja-noun|もたい|hhira=もたひ}}
+
+# [[earthenware]] [[vessel]] for [[sake]], etc
+
+===Etymology 5===
+{{ja-kanjitab|たしらか|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たしらか}}
+
+====Noun====
+{{ja-noun|たしらか}}
+
+# [[earthenware]] [[vessel]] used by the [[emperor]] to [[clean]] his [[hand]]s
+
+===References===
+<references/>
+
+[[Category:ja:Containers|かめ]]
 
 ----
 
