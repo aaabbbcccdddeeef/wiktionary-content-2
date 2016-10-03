@@ -3,14 +3,6 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-A top line representing the level above a man with outstretched arms ({{zh-l|大}}). Ancient representation of the character show a man with a large head, an anthropomorphic representation of heaven.
-
-Original meaning of the word is "sky". Such concept is difficult to depict with a pictogram, hence the current form. Influenced by the glyph, the character was frequently glossed in Old Chinese documents with {{zh-l|*顛|crown of the head}}, and such had led to incorrect hypotheses which regarded {{zh-l|天}} as a derivation of {{zh-l|*顛}} or {{zh-l|*巔}}, "top (of the head/hill)".
-
-Graphical opposite of {{zh-l|立}}.
-
 ===Han character===
 {{Han char|rn=37|rad=大|as=01|sn=4|four=10430|canj=MK|ids=⿱一大}}
 
@@ -28,9 +20,15 @@ Graphical opposite of {{zh-l|立}}.
 ==Chinese==
 {{zh-forms|alt=𠀘,𠀡}}
 [[File:Lhfls.jpg|thumb|250px|The sky over [[Guangdong]].]]
-[[File:Su Song Star Map 1.JPG|thumb|250px|An 11th-century Chinese map of the heavens.]]
 [[File:Hall_of_Prayer_for_Good_Harvests_interior_2014.jpg|thumb|250px|The Hall of Prayer for Good Harvests in [[Beijing]]'s [[w:Temple of Heaven|Temple of Heaven]].]]
-[[File:2010 Smog over China.jpg|thumb|250px|The weather over the [[w:North China Plain|North China Plain]] on 8 October 2010.]]
+
+===Glyph origin===
+{{Han etyl}}
+A top line representing the level above a man with outstretched arms ({{zh-l|大}}). Ancient representation of the character show a man with a large head, an anthropomorphic representation of heaven.
+
+Original meaning of the word is "sky". Such concept is difficult to depict with a pictogram, hence the current form. Influenced by the glyph, the character was frequently glossed in Old Chinese documents with {{zh-l|*顛|crown of the head}}, and such had led to incorrect hypotheses which regarded {{zh-l|天}} as a derivation of {{zh-l|*顛}} or {{zh-l|*巔}}, "top (of the head/hill)".
+
+Graphical opposite of {{zh-l|立}}.
 
 ===Etymology===
 This character was previously reconstructed to have a *tʰ-initial in Old Chinese, but this hypothesis has been largely discounted in recent reconstructions, in light of evidence from early Chinese accounts of dialectal pronunciations, transcription of other languages, as well as cognate/derived characters within Chinese, which has all pointed to a voiceless resonant initial *''l̥''- in Old Chinese. The book ''Shiming'' showed that, by c. 200 CE, this initial had already produced dialectal variation in the pronunciation: People in central-western China pronounced it with the back of the tongue, like {{zh-l|*顯}} {{IPAchar|[*xˤenʔ]}}, while people in eastern China pronounced it with the tip of the tongue, like {{zh-l|*坦}} {{IPAchar|[*tʰˤanʔ]}}. An old northwestern dialect variant survives as {{zh-l|祆|God of the [[Zoroastrian]]s}} {{IPAchar|[xen]}}, and the word {{zh-l|天竺|India}} was used to transcribe Old Persian *''Hind-uka'' ("India").
@@ -50,35 +48,42 @@ Further etymology is unknown. While it was reconstructed with a {{IPAchar|/*tʰ-
 |mc=y
 |oc=y
 |ma=y
-|cat=n
+|cat=n,a
 }}
+
 ===Definitions===
 {{zh-hanzi}}
 
-# The [[sky]]; the [[heavens]]; [[heavenly]], [[celestial]].
-#* {{zh-l|天空}}
-#: {{zh-x|'''天''' 黑 了。|'''It''' got dark (in the evening).}}
+# [[sky]]; [[heavens]]; [[heavenly]]; [[celestial]]
+#* {{zh-x|天空|sky}}
+#: {{zh-x|天 黑 了。|'''It''' got dark (in the evening).}}
 # {{lb|zh|mythology|_|or|_|religion}} [[heaven]] as the [[abode]] of the [[god]]s or the [[blessed]] [[departed]]; [[heavenly]].
-#* {{zh-l|上天}}, {{zh-l|天意}}
+#* {{zh-x|上天|to go up to the sky; to go to heaven}}
+#* {{zh-x|天意|Heaven's will}}
 # {{lb|zh|mythology|_|or|_|religion}} [[Heaven]] as an [[impersonal]] [[deity]], [[often]] [[translate]]d as [[God]].
-#* {{zh-l|天主}}, {{zh-l|老天}}
-#: {{zh-x|我 的 '''天''' 啊！|Oh my '''God'''!}}
-#: {{zh-x|'''天''' 助 自 助 者。|'''God''' helps those who help themselves.}}
-# [[top]], [[overhead]]
-#* {{zh-l|天橋}}, {{zh-l|天窗}}
-# [[weather]]
-#* {{zh-l|天氣}}
-#: {{zh-x|如果 '''天''' 晴，我們 就 去 散步。|If the '''weather''' clears, we'll go for a walk.}}
+#* {{zh-x|天主|God}}
+#* {{zh-x|老天|god}}
+#* {{zh-x|我 的 天 啊！|Oh my '''God'''!}}
+#* {{zh-x|天 助 自 助 者。|'''God''' helps those who help themselves.}}
+# [[top]]; [[overhead]]
+#* {{zh-x|天橋|footbridge}}
+#* {{zh-x|天窗|skylight}}
+# [[weather]]; [[climate]]
+#* {{zh-x|天氣|weather}}
+#* {{zh-x|如果 天 晴，我們 就 去 散步。|If the '''weather''' clears, we'll go for a walk.}}
 # {{†}} [[day]] (24 hours)
-#* {{zh-l|今天}}, {{zh-l|明天}}
+#: {{zh-x|今天|today}}
+#: {{zh-x|明天|tomorrow}}
 # {{†}} [[day]] (as opposed to night)
-#* {{zh-l|白天}}
+#: {{zh-x|白天|daytime}}
 # {{†}} [[season]]
 #* {{zh-x|春天、夏天、秋天、冬天|spring, summer, autumn, winter}}
 # [[nature]]
-#* {{zh-l|天災}}
-# [[natural]], [[innate]]
-#* {{zh-l|天生}}, {{zh-l|天性}}, {{zh-l|天才}}
+#* {{zh-x|天災|natural disaster}}
+# [[natural]]; [[innate]]
+#* {{zh-l|天生|innate}}
+#* {{zh-l|天性|nature, personality}}
+#* {{zh-l|天才|genius}}
 
 ====Synonyms====
 * {{zh-l|日|day (''to express date'')}}
