@@ -28,8 +28,7 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 |w=4heq
 |ma=y
 |dial=2
-|mc=y
-|oc=y
+|oc=n,2
 |cat=v
 }}
 
@@ -53,7 +52,7 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 |w=4heq
 |dial=1
 |mc=y
-|oc=y
+|oc=n,1+3
 |cat=v
 }}
 
@@ -63,11 +62,12 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 # to [[shout]]; to call out
 
 ====Compounds====
-{{zh-der|喝彩|喝采|喝斥|喝倒彩|喝道|喝令|喝六呼幺|喝問|大吆小喝|呼么喝六|呼盧喝雉|喝五吆三|喝吆|喝禮|吆三喝四|喓五喝六|吆五喝六|喝神斷鬼|恫疑虛喝|估喝|呼三喝四|喝六呼么|呵喝|大喝|喝倒采|喝住|喝命|喝止|喝囉|大聲吆喝|呼喝|叱喝|嗔喝|喝雉呼盧|喝攛箱|喝探|喝參|喝掇|恫喝|當頭棒喝|提鈴喝號|痛喝|棒喝|斷喝|斥喝|籠街喝道|迎頭棒喝|邀喝|虛喝}}
+{{zh-der|fold=1|喝彩|喝采|喝斥|喝倒彩|喝道|喝令|喝六呼幺|喝問|大吆小喝|呼么喝六|呼盧喝雉|喝五吆三|喝吆|喝禮|吆三喝四|喓五喝六|吆五喝六|喝神斷鬼|恫疑虛喝|估喝|呼三喝四|喝六呼么|呵喝|大喝|喝倒采|喝住|喝命|喝止|喝囉|大聲吆喝|呼喝|叱喝|嗔喝|喝雉呼盧|喝攛箱|喝探|喝參|喝掇|恫喝|當頭棒喝|提鈴喝號|痛喝|棒喝|斷喝|斥喝|籠街喝道|迎頭棒喝|邀喝|虛喝}}
 
 ===Pronunciation 3===
 {{zh-pron
 |m=hē
+|dial=n
 |cat=intj
 }}
 
