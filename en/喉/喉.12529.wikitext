@@ -45,49 +45,39 @@
 
 ==Japanese==
 
+===Kanji===
+{{ja-kanji|rs=口09}}
+
+====Readings====
+{{ja-readings|goon=[[ぐ]] (gu)|kanon=[[こう]] (kō)|kun=[[のど]] (nodo)}}
+
+=====Compounds=====
+* {{ja-r|咽喉|いんこう|[[throat]]}}
+
 ===Etymology 1===
-Compound of {{compound|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=passage|lang=ja}}. ''nomi'' is is the nominalized form the for verb {{m|ja|飲む|tr=nomu||to drink}}.
-
-====Noun====
-{{ja-noun|のみと}}
-
-# [[throat]]
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|81}}
-#*: 咽咀 上於見反 咽倭云'''能美等''' 咀嚼也 咀才與反 倭言久不
-
-===Etymology 2===
-From {{m|ja|喉|tr=nomito}}.
-
-====Noun====
-{{ja-noun|のみど}}
-
-# [[throat]]
-#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|57}}
-#*: 喉吻 下无粉反 口邊也 唇兩邊也 上音呉 訓'''乃美土'''
-
-===Etymology 3===
-nomito > nomto > nomdo > nondo.
-
-====Noun====
-{{ja-noun|のんど}}
-
-# [[throat]]
-
-===Etymology 4===
+{{ja-kanjitab|のど|yomi=k}}
 nomito > nomto > nomdo > nondo > nodo.
+
+====Pronunciation====
+{{ja-pron|yomi=k|のど|acc=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|咽}}
 
 ====Noun====
 {{ja-noun|のど}}
 
 # [[throat]]
 
-====Kanji====
-{{ja-kanji|grade=c|rs=口09}}
+=====Synonyms=====
+* {{ja-r|咽喉|いんこう}}
 
-=====Readings=====
-* {{ja-readings|goon=[[ぐ]] (gu)|kanon=[[こう]] (kō)|kun=[[のど]] (nodo)}}
+===Etymology 2===
+{{ja-kanjitab|こう|yomi=o}}
+From {{der|sort=こう|ja|ltc|喉|tr=huw}}.
 
-===Etymology 5===
+====Pronunciation====
+{{ja-pron|yomi=o|こう}}
 
 ====Counter====
 {{ja-pos|こう|counter}}
@@ -97,9 +87,59 @@ nomito > nomto > nomdo > nondo > nodo.
 =====Synonyms=====
 * {{ja-r|尾|び}}
 
+===Etymology 3===
+{{ja-kanjitab|sort=のんど|yomi=irr}}
+nomito > nomto > nomdo > nondo.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|のんど}}
+
+====Alternative forms====
+* {{ja-l|咽}}
+
+====Noun====
+{{ja-noun|のんど}}
+
+# [[throat]]
+
+===Etymology 4===
+{{ja-kanjitab|sort=のみど|yomi=irr}}
+From {{m|ja|喉|tr=nomito}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|のみど}}
+
+====Alternative forms====
+* {{ja-l|咽}}
+
+====Noun====
+{{ja-noun|のみど}}
+
+# [[throat]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|57}}
+#*: 喉吻 下无粉反 口邊也 唇兩邊也 上音呉 訓'''乃美土'''
+
+===Etymology 5===
+{{ja-kanjitab|sort=のみと|yomi=irr}}
+Compound of {{affix|sort=のみと|ja|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=passage}}. ''nomi'' is the nominalized form of the verb {{m|ja|飲む|tr=nomu||to drink}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|のみと}}
+
+====Alternative forms====
+* {{ja-l|咽}}
+
+====Noun====
+{{ja-noun|のみと}}
+
+# [[throat]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|81}}
+#*: 咽咀 上於見反 咽倭云'''能美等''' 咀嚼也 咀才與反 倭言久不
+
 ===References===
-* {{Shin'yaku Kegonkyō Ongi Shiki}}
-* {{R:Nara Ibun 3}}
+<references/>
+:* {{Shin'yaku Kegonkyō Ongi Shiki}}
+:* {{R:Nara Ibun 3}}
 
 [[Category:ja:Anatomy|のど]]
 
@@ -111,6 +151,26 @@ nomito > nomto > nomdo > nondo > nodo.
 {{ko-hanja|hangeul=[[후]]|rv=hu|mr=hu}}
 
 # {{defn|lang=ko|sort=口09}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|ぬーでぃー|romaji|nūdī}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|喉|tr=nodo}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|ぬーでぃー|romaji|nūdī}}
+
+# [[throat]]
+
+====Derived terms====
+* {{l|ryu|喉弦|tr=[[ぬーでぃーじる]], ''[[nūdījiru]]''||[[vocal cords]]}}
+
+[[Category:ryu:Anatomy|ぬうでぃい]]
 
 ----
 
