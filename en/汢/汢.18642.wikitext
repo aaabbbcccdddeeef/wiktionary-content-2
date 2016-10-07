@@ -10,18 +10,35 @@
 
 ==Japanese==
 
+===Glyph origin 1===
+{{Han simp|泏|f=出|t=土}}.
+
 ===Kanji===
 {{ja-kanji|grade=|rs=水03}}
 
 # {{rfv-sense}} [[wetland]], [[marsh]]
 # {{n-g|Used in placenames.}}
-# {{lb|ja|archaic|rare}} {{abbreviation of|lang=ja|浄土|tr=jōdo||the Pure Land}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |on=
 |kun=[[ぬた]] (nuta), [[ぬる]] (nuru)
 }}
+
+===Glyph origin 2===
+{{abbreviation of|lang=ja|浄土|tr=jōdo||the Pure Land}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{lb|ja|archaic|rare}} {{abbreviation of|lang=ja|浄土|tr=jōdo||the Pure Land}}
+
+====Readings====
+{{ja-readings
+|on=
+|kun=[[じょうど]] (jōdo)
+}}
+{{attention|ja|presumably}}
 
 ===References===
 * {{R:Wasei Kanji 2014|1192}}
