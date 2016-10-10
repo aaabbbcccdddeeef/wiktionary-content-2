@@ -214,25 +214,24 @@ From {{inh|sga|cel-pro|*writ-}} (compare Welsh {{m|cy|wrth}}, prefix {{m|cy|gwrt
 # [[with]]
 
 ====Inflection====
-{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="3" rules="all" class="inflection-table"
-|-
-! bgcolor="#FFFFE0" | Person
-! bgcolor="#FFFFE0" | Singular
-! bgcolor="#FFFFE0" | Plural
-|-
-| bgcolor="#F4F4F4" | '''1st person'''
-| {{l|sga|frimm}} || {{l|sga|frinn}}
-|-
-| bgcolor="#F4F4F4" | '''2d person'''
-| {{l|sga|frit}} || {{l|sga|frib}}
-|-
-| bgcolor="#F4F4F4" | '''3d masc.'''
-| {{l|sga|fris}}
-| rowspan=2 | {{l|sga|friu}}
-|-
-| bgcolor="#F4F4F4" | '''3d fem.'''
-| {{l|sga|frie}}
-|}
+{{sga-prep-infl
+ |1sg         = [[frimm]], [[frium]]
+ |1sg-em      = [[frimsa]], [[friumsa]]
+ |2sg         = frit
+ |2sg-em      = fritsu
+ |3sgm-acc    = fris
+ |3sgm-acc-em = frissom
+ |3sgf        = frie
+ |1pl         = frinn
+ |1pl-em      = frinni
+ |2pl         = frib
+ |2pl-em      = fribsi
+ |3pl-acc     = friu
+ |3pl-acc-em  = friusom
+}}
+
+====Descendants====
+* Irish: {{l|ga|fré}}
 
 ----
 
