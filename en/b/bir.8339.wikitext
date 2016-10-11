@@ -199,21 +199,24 @@ From {{inh|sga|cel-pro|*beru}}
 #*: {{l|sga||'''beura'''}} glosses {{m|la|sudes||stake}}
 
 =====Declension=====
-{{sga-decl-noun-table2<!--
-nom.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-voc.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-acc.s-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-gen.s-->|{{l|sga|[[bero]], [[bera]]}}<!--
-dat.s-->|{{l|sga|biur}}<sup>L</sup><!--
-nom.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-voc.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-acc.d-->|{{l|sga|'''bir''', [[biur]]}}<sup>N</sup><!--
-gen.d-->|{{l|sga|[[bero]], [[bera]]}}<sup>N</sup><!--
-nom.p-->|{{l|sga|beura}}<!--
-voc./acc.p-->|{{l|sga|beura}}<!--
-gen.p-->|{{l|sga|berae}}<sup>N</sup><!--
-dat.d./p-->|{{l|sga|beraib}}<!--
--->|title=Neuter u-stem}}
+{{sga-decl-noun-table2
+|title=neuter u-stem
+|nom_sg=bir+N|nom_sg2=biur+N
+|voc_sg=bir+N|voc_sg2=biur+N
+|acc_sg=bir+N|acc_sg2=biur+N
+|gen_sg=bero+H|gen_sg2=bera+H
+|dat_sg=biur+L
+|nom_du=bir+N|nom_du2=biur+N
+|voc_du=bir+N|voc_du2=biur+N
+|acc_du=bir+N|acc_du2=biur+N
+|gen_du=bero+N|gen_du2=bera+N
+|dat_du=beraib
+|nom_pl=beura
+|voc_pl=beura
+|acc_pl=beura
+|gen_pl=berae+N
+|dat_pl=beraib
+}}
 
 =====Derived terms=====
 * {{l|sga|berach||pointed}}
