@@ -13,36 +13,55 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=悬|alt=県}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|縣|心|t2=heart|ls=psc|c1=p|c2=s}} – to be concerned (in one’s heart).
 
-===Pronunciation===
+===Pronunciation 1===
+{{zh-forms|s=悬|alt=県}}
 {{zh-pron
 |m=xuán
 |c=jyun4
-|h=pfs=
-|md=gèng/hèng/hièng
-|md_note=gèng - vernacular (“low”); hèng - vernacular (“to hang”); hièng - literary (“to hang”)
-|mn=xm,tp,km:koâiⁿ/qz:kûiⁿ/zz,kh,tn,lk,sx,yl,mg,hc,tc:koân/hiân
-|mn_note=koân, koâiⁿ - vernacular; hiân - literary
+|h=pfs=hièn
+|md=hèng/hièng
+|md_note=hèng - vernacular; hièng - literary
+|mn=hiân
+|mn_note=literary
+|mn-t=huin5/ngui5/hiang5
 |w=3hhyoe
 |mc=y
 |oc=y
-|cat=v,a,md:a,mn:a
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[hang]]; to [[suspend]]; to [[hoist]]
 # to be [[hung]]
+
+===Pronunciation 2===
+{{zh-forms|s=悬|alt=高}}
+{{zh-pron
+|md=gèng
+|md_note=vernacular
+|mn=xm,tp,km:koâiⁿ/qz:kûiⁿ/zz,kh,tn,lk,sx,yl,mg,hc,tc:koân
+|mn_note=vernacular
+|mn-t=guin5
+|mn-t_note=vernacular
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{lb|zh|Min}} [[tall]]; [[high]]
 # {{lb|zh|Min Nan}} of [[high]] [[level]]; [[above]] [[average]]
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|tall; high}} {{zh-l|高}}
 * {{sense|of high level; above average}} {{zh-l|高}}
 
