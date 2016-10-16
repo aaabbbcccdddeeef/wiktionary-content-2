@@ -11,6 +11,10 @@
 ----
 
 ==Chinese==
+<!--
+|c=maa3,maa4
+|h=pfs=mà
+-->
 
 ===Etymology 1===
 {{zh-forms}}
@@ -18,9 +22,6 @@
 ====Pronunciation====
 {{zh-pron
 |m=ma,má
-|c=maa3,maa4
-|h=pfs=mà
-|mn=mā
 |cat=
 }}
 
@@ -33,10 +34,7 @@
 #: 你'''嘛'''，[[不必]]去。
 
 =====Compounds=====
-{{zh-der|喇嘛|喇嘛教|班禪喇嘛|燒喇嘛|達賴喇嘛}}
-
-===References===
-* {{R:yue:mfccd}}
+{{zh-der|幹嘛}}
 
 ===Etymology 2===
 {{zh-forms}}
@@ -44,9 +42,6 @@
 ====Pronunciation====
 {{zh-pron
 |m=ma
-|c=maa3,maa4
-|h=pfs=mà
-|mn=mā
 |cat=
 }}
 
@@ -58,20 +53,28 @@
 =====Compounds=====
 {{zh-der|喇嘛|喇嘛教|班禪喇嘛|燒喇嘛|達賴喇嘛}}
 
-===References===
-* {{R:yue:mfccd}}
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|mn=mā/mà/--mah
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
 
 <strong class="error"><span class="scribunto-error" id="mw-scribunto-error-0">Lua error: not enough memory</span></strong>
 
 # [[also]]
 
-====References====
-* {{thcwd|10417}}
-
 ===See also===
 * {{q|Mandarin}} {{zh-l|也}}
 
-}}
+===References===
+* {{R:yue:mfccd}}
+* {{thcwd|10417}}
 
 ----
 
