@@ -71,14 +71,21 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=宀04}}
 
-# {{defn|lang=ja|sort=宀04}}
+# {{l|en|completion}}
 
 ====Readings====
-* {{ja-readings|goon=[[がん]] (gan)|kanon=[[かん]] (kan)|kun=[[まったい]] (mattai), [[まっとうする]] (mattousuru)}}
+{{ja-readings
+|goon=[[がん]] (gan)
+|kanon=[[かん]] (kan)
+|kun=[[まったい]] ([[完い]], mattai) {{non-joyo-reading}}, [[まっとうする]] ([[完うする]], mattōsuru) {{non-joyo-reading}}
+}}
 
 ====Compounds====
-* [[完成]] ([[かんせい]], ''[[kansei]]'')
-* [[完了]] ([[かんりょう]], ''[[kanryō]]'')
+{{der-top|Compounds}}
+* {{ja-r|完%成|かん%せい}}: {{l|en|completion}}, {{l|en|finish}}; to become {{l|en|complete}} or {{l|en|finished}}
+* {{ja-r|完%了|かん%りょう}}: {{l|en|completion}}, {{l|en|finish}}; to {{l|en|complete}} or {{l|en|finish}} something
+{{der-bottom}}
+
 ----
 
 ==Korean==
