@@ -50,34 +50,56 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水03}}
 
-# [[mercury]]
+# {{l|en|mercury}}, {{l|en|quicksilver}} {{qualifier|the metal}}
 
 ====Readings====
-* {{ja-readings|goon=[[ぐ]] (gu)|kanon=[[こう]] (kō)|kun=[[みずがね]] (mizugane)}}
+{{ja-readings
+|goon=[[ぐ]] (gu)
+|kanon=[[こう]] (kō)
+|kun=[[みずがね]] (mizugane)
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|みずがね|yomi=k}}
-From the [[訓読み|kun'yomi]] compound of {{compound|lang=ja|sort=みずがね|水|tr1=mizu|t1=water|銀|tr2=kane|t2=metal, silver}}. {{rendaku2|sort=みずがね|kane|gane}}
+Compound of {{compound|lang=ja|sort=みずがね|水|tr1=mizu|t1=water|銀|tr2=kane|t2=metal, silver}}. {{rendaku2|sort=みずがね|kane|gane}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|みずがね}}
 
 ====Noun====
 {{ja-noun|みずがね|hhira=みづがね}}
 
-# {{lb|ja|sort=みずがね|chemistry|rare|obsolete}} {{alternative spelling of|水銀|lang=ja}}: [[mercury]]; [[quicksilver]]
+# {{lb|ja|sort=みずがね|chemistry|rare|obsolete}} {{alternative spelling of|水銀|lang=ja}}: {{l|en|mercury}}, {{l|en|quicksilver}}
 
-====Usage notes====
-The ''mizugane'' reading is largely obsolete in modern Japanese. The usage of this kanji is extremely rare.
+=====Usage notes=====
+The term ''mizugane'', regardless of kanji spelling, is largely obsolete in modern Japanese.
+
+The usage of this kanji is extremely rare, and it is not used in isolation in modern Japanese. Use {{l|ja|水銀}} instead for the standalone word for {{m|en|mercury}}.
 
 ===Etymology 2===
 {{ja-kanjitab|こう|yomi=o}}
-{{rfe|lang=ja}}
+From {{der|ja|ltc|sort=こう|汞|tr={{IPAchar|/ɦuŋX/}}||mercury, quicksilver}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|こう}}
 
 ====Noun====
 {{ja-noun|こう}}
 
-# [[mercury]]
+# {{l|en|mercury}}, {{l|en|quicksilver}}
 
-====Usage notes====
-The ''kō'' reading is used in chemical compounds that is made of mercury (e.g. [[corrosive sublimate]]).
+=====Usage notes=====
+The ''kō'' reading is used in chemical compounds that include (e.g. {{l|en|corrosive sublimate}}).
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|甘%汞|かん%こう}}: {{l|en|calomel}}, {{l|en|mercury}}(I) {{l|en|chloride}}
+* {{ja-r|雷%汞|らい%こう}}: {{l|en|mercury}}(II) {{l|en|fulminate}}
+{{der-bottom}}
+
+===References===
+* {{R:Kokugo Dai Jiten}}
+* {{R:Daijirin}}
 
 [[Category:ja:Chemical elements|こう']]
 
