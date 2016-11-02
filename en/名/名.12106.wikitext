@@ -20,7 +20,7 @@
 {{Han compound|夕|t1=crescent|口|t2=mouth|ls=ic}} — to say one's own name to identify oneself in the dark.
 
 ===Etymology===
-From {{inh|zh|sit-pro|*r-miŋ}}.
+From {{inh|zh|sit-pro|*r-miŋ||name}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -37,20 +37,24 @@ From {{inh|zh|sit-pro|*r-miŋ}}.
 |w=3min
 |mc=y
 |oc=y
-|cat=n
+|cat=n,a,v,cls
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
 # [[name]]
-#: {{zh-x|凡 接待 他 的，就是 信 他 '''名''' 的 人，他 就 賜 他們 權柄，作 ^神 的 儿女。|But as many as received him, to them gave he power to become the sons of God, even to them that believe on his '''name'''.|ref=[http://wordproject.org/multi/bi_en_cn_py.htm John 1.12]}}
+#* {{zh-x|凡 接待 他 的，就是 信 他 名 的 人，他 就 賜 他們 權柄，作 ^神 的 儿女。|But as many as received him, to them gave he power to become the sons of God, even to them that believe on his '''name'''.|ref=[http://wordproject.org/multi/bi_en_cn_py.htm John 1.12]}}
 # [[given name]]
-# [[reputation]]
+# [[reputation]]; [[fame]]
 #: {{zh-x|有名|famous}}
+# [[famous]]; [[reputable]]
 #: {{zh-x|名牌|having a good brand name; a brand name product}}
-# {{lb|zh|grammar}} {{zh-abbrev|名詞|[[noun]]}}
-# {{lb|zh|grammar}} {{zh-abbrev|專有名詞|[[proper noun]]}}
+# {{lb|zh|grammar}} {{zh-short|名詞|[[noun]]}}
+# {{lb|zh|grammar}} {{zh-short|專有名詞|[[proper noun]]}}
+# to [[describe]]; to [[give]] [[detail]]s of
+# {{zh-classifier|[[place]] in a [[competition]] or [[position]] in a [[name]] [[list]]}}
+# {{zh-classifier|[[people]] with a certain status or identity}}
 
 ====Synonyms====
 * {{sense|name}} {{zh-l|名字}}
