@@ -64,7 +64,7 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 # The night.
 
 ====Readings====
-* {{ja-readings|goon=[[や]] (ya)|kanon=[[や]] (ya)|kun=[[よ]] (yo), [[よる]] (yoru)}}
+{{ja-readings|goon=[[や]] (ya)|kanon=[[や]] (ya)|kun=[[よ]] (yo), [[よる]] (yoru)}}
 
 ====Compounds====
 * {{ja-r|夜食|やしょく}}: night [[meal]], [[midnight]] [[snack]]
@@ -74,7 +74,7 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 {{ja-kanjitab|よる|yomi=k}}
 
 ====Pronunciation====
-{{ja-pron|よる|acc=h|y=kun}}
+{{ja-pron|yomi=k|よる|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|よる}}
@@ -86,14 +86,20 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 ===Etymology 2===
 {{ja-kanjitab|よ|yomi=k}}
 
+====Pronunciation====
+{{ja-pron|yomi=k|よる|acc=1|acc_ref=DJR,NHK}}
+
 ====Noun====
 {{ja-noun|よ}}
 
 # {{lb|ja|literary}} [[night]]; the [[evening]]
 #: {{ja-usex|『真夏の'''夜'''の夢』|『^まなつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night''''s Dream]]''}}
 
+===References===
+<references/>
+
 [[Category:Japanese basic words|よる]]
-[[Category:ja:Time|よる]]
+[[Category:ja:Times of day|よる]]
 
 ----
 
@@ -106,12 +112,81 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 
 ----
 
+==Oki-No-Erabu==
+
+===Kanji===
+{{head|ryu|kanji|kun'yomi|いぃーる|romaji|yīru}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|夜|tr=yoru||night}}.
+
+===Noun===
+{{head|okn|noun|hiragana|いぃーる|romaji|yīru}}
+
+# [[night]]
+
+[[Category:okn:Times of day|ゆる]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|kun'yomi|ゆる|romaji|yuru|kun'yomi|ゆー|romaji|yū}}
+
+===Etymology 1===
+Cognate with mainland {{cog|ja|夜|tr=yoru||night}}.
+
+====Counter====
+{{head|ryu|noun|hiragana|ゆる|romaji|yuru}}
+
+# [[night]]s
+#: {{ja-usex|一夜|ちゅゆる|one night}}
+#: {{ja-usex|二夜|たゆる|two nights}}
+
+====Noun====
+{{head|ryu|noun|hiragana|ゆる|romaji|yuru}}
+
+# [[night]]
+
+===Etymology 2===
+Cognate with mainland {{cog|ja|夜|tr=yo||night}}.
+
+====Noun====
+{{head|ryu|noun|hiragana|ゆー|romaji|yū}}
+
+# [[night]]
+
+===References===
+* {{R:Okinawago Jiten}}
+
+[[Category:ryu:Times of day|ゆる]]
+
+----
+
 ==Vietnamese==
 
 ===Han character===
 {{vi-hantu|[[dạ]], [[dà]]|rs=夕05}}
 
 # {{defn|lang=vi|sort=夕05}}
+
+----
+
+==Yonaguni==
+
+===Kanji===
+{{head|yoi|kanji|kun'yomi|どぅる|romaji|duru}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|夜|tr=yoru||night}}.
+
+===Noun===
+{{head|yoi|noun|hiragana|どぅる|romaji|duru}}
+
+# [[night]]
+
+[[Category:yoi:Times of day|ゆる]]
 
 [[zh-min-nan:夜]]
 [[be:夜]]
