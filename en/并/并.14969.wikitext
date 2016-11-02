@@ -1,16 +1,8 @@
 {{also|幷|並|併|开|倂}}
 ==Translingual==
 
-===Etymology===
-{{Han simp|並}}, which is in turn from [[竝]].
-
-Also simplified from [[幷]], as in [[餅]] (from [[餠]]).
-
 ===Han character===
 {{Han char|rn=51|rad=干|as=05|sn=8|four=80441|canj=TT,XTT|ids=⿱丷开,⿱䒑廾}}
-
-# [[combine]], [[annex]]
-# [[also]], [[in addition]], [[furthermore]], [[what is more]]
 
 ====References====
 * {{Han ref|kx=0340.031|dkj=09170|dj=0649.020|hdz=10242.060|uh=5E76|ud=24182|bh=A67D|bd=42621}}
@@ -19,14 +11,18 @@ Also simplified from [[幷]], as in [[餅]] (from [[餠]]).
 
 ==Chinese==
 
+===Glyph origin===
+{{Han etym}}
+{{Han simp|並}}, which is in turn from {{och-l|竝}}.
+
 ===Etymology 1===
-{{zh-see|並}}
+{{zh-see|並||to be [[side by side]]; [[simultaneously]]; [[moreover]]}}
 
 ===Etymology 2===
-{{zh-see|併}}
+{{zh-see|併||to [[combine]]}}
 
 ====Usage notes====
-In ancient texts, {{lang|zh|并}} may be the same as {{l|zh|併}}, but not {{l|zh|並}}. {{l|zh|並}} and {{l|zh|併}} are not homophones in Old Chinese.
+In ancient texts, {{lang|zh|并}} may be the same as {{och-l|併}}, but not {{och-l|並}}. {{lang|zh|並}} and {{lang|zh|併}} were differently pronounced in Old Chinese.
 
 ===Etymology 3===
 {{zh-forms}}
@@ -34,15 +30,20 @@ In ancient texts, {{lang|zh|并}} may be the same as {{l|zh|併}}, but not {{l|z
 ====Pronunciation====
 {{zh-pron
 |m=bīng
+|c=bing1
+|mc=1
+|oc=1,1
 |cat=pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[Bingzhou]], a province in ancient China
-#: {{zh-also|并州}}
-# {{synonym of|太原|lang=zh}}: [[Taiyuan]]
+# ({{zh-l|～[[州]]}}) {{lb|zh|geography}} {{w|Bing Province}} {{gloss|province in ancient China}}
+# {{zh-synonym|太原|[[Taiyuan]] City}}
+
+====Compounds====
+{{zh-der|fold=1|并州剪|并邦|并州|并州故鄉|并刀}}
 
 ----
 
