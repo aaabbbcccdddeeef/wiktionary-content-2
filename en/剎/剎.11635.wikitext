@@ -14,60 +14,74 @@
 ==Chinese==
 {{zh-forms|s=刹}}
 
+===Glyph origin===
+{{Han etym}}
+{{Han compound|殺|刀|alt2=刂|ls=psc|c1=p|c2=s}}.
+
 ===Etymology 1===
+Transcription of the ''kṣV'' ({{m|sa|क्ष|tr=-}}) cluster in various {{bor|zh|sa|-|notext=1}} words, including:
+* {{cog|sa|क्षेत्र||land; place of pilgrimage}} ({{zh-l|*剎多羅}})
+* {{cog|sa|क्षण||instant}} ({{zh-l|*剎那}})
+* {{cog|sa|क्षेम||residence}} ({{zh-l|*剎摩}})
+* {{cog|sa|क्षत्रिय||warrior caste}} ({{zh-l|*剎怛利耶}}, {{zh-l|*剎帝利}}, {{zh-l|*剎利}})
 
 ====Pronunciation====
 {{zh-pron
 |m=chà
 |c=saat3,caat3
 |h=pfs=
-|md=
+|md=chák
 |mn=sat
-|w=
-|mc=
-|oc=
+|w=4tshaq
+|dial=1
+|mc=y
+|oc=y
 |cat=n
 }}
 
-====Noun====
-{{zh-noun}}
+====Definitions====
+{{zh-hanzi}}
 
-# a [[Buddhist]] [[temple]]; a Buddhist [[monastery]]
-#: {{zh-x|古剎|old Buddhist temple}}
-# a [[brief]] [[moment]]; a [[short]] moment
-#*  {{zh-x|你我 在 回望 那 一剎{saat3}　彼此 慰問 境況|{{t-needed|zh}}|C-LIT|ref={{w2|zh|陳慧嫻}} (lyricist {{w2|zh|簡寧}}), {{w2|zh|人生何處不相逢}}}}
-#*  {{zh-x|懷念 那 一剎{saat3}　耀眼 的 火花|{{t-needed|zh}}|C-LIT|ref={{w2|zh|李克勤}} (lyricist {{w2|zh|陳少琪}}), {{lang|zh|飛花}}}}
-
-=====Derived terms=====
-* {{zh-l|剎那}}
+# {{zh-short|剎多羅}}
+## {{lb|zh|Buddhism}} [[land]]; [[world]]; [[place]]; [[area]]
+## {{lb|zh|Buddhism}} [[place]] of [[pilgrimage]]; [[kshetra]]; [[Buddhist]] [[temple]]; Buddhist [[monastery]]; [[pagoda]]
+##* {{zh-x|古剎|old Buddhist temple}}
+# {{zh-short|剎那}}
+## {{lb|zh|Buddhism}} [[instant]]; [[moment]]; [[impermanence]]
+## {{lb|zh|by extension}} [[brief]] [[moment]]; [[short]] moment
+##* {{zh-x|你我 在 回望 那 一剎{saat3}　彼此 慰問 境況|{{t-needed|zh}}|C-LIT|ref={{w2|zh|陳慧嫻}} (lyricist {{w2|zh|簡寧}}), {{w2|zh|人生何處不相逢}}}}
+##* {{zh-x|懷念 那 一剎{saat3}　耀眼 的 火花|{{t-needed|zh}}|C-LIT|ref={{w2|zh|李克勤}} (lyricist {{w2|zh|陳少琪}}), {{lang|zh|飛花}}}}
 
 =====See also=====
 * {{sense|brief moment}} {{zh-l|刻}}
 
-===Etymology 1===
+====Compounds====
+{{zh-der|fold=1|剎那|剎柱|剎摩|剎海|金剎|剎帝利|古剎|寶剎|塵剎|巴剎|佛剎|上剎|一剎那|剎時|梵剎|羅剎女|羅剎|羅剎國}}
+
+===Etymology 2===
 
 ====Pronunciation====
 {{zh-pron
 |m=shā
 |c=saat3,caat3
 |h=pfs=
-|md=
+|md=sák
 |mn=sat
-|w=
+|w=4saq
+|dial=2
 |mc=
 |oc=
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}}
+====Definitions====
+{{zh-hanzi}}
 
 # to [[brake]] (a car); to [[stop]] a car
 #: {{zh-x|剎{shā}車|to brake a car}}
 
-===References===
-* {{R:twedu|A00352}}
-* {{R:yue:Hanzi}}
+====Compounds====
+{{zh-der|fold=1|剎車}}
 
 {{zh-cat|Time|Buddhism}}
 
