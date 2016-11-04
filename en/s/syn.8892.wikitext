@@ -35,7 +35,7 @@ From Greek syn-, with, together, having same function as co-, (synthesis, synopt
 ==Czech==
 
 ===Etymology===
-From {{inh|cs|sla-pro|*synъ}}, from {{etyl|ine-pro|cs}} {{m|ine-pro|*suHnús}}.
+From {{inh|cs|sla-pro|*synъ}}, from {{inh|cs|ine-pro|*suHnús}}.
 
 ===Pronunciation===
 * {{audio|Cs-syn.ogg|audio|lang=cs}}
@@ -71,15 +71,15 @@ From {{inh|cs|sla-pro|*synъ}}, from {{etyl|ine-pro|cs}} {{m|ine-pro|*suHnús}}.
 ==Lower Sorbian==
 
 ===Etymology===
-From {{inh|dsb|sla-pro|*synъ}}, from {{etyl|ine-pro|dsb}} {{m|ine-pro|*suHnús}}.
+From {{inh|dsb|sla-pro|*synъ}}, from {{inh|dsb|ine-bsl-pro|*sūˀnus}}, from {{inh|dsb|ine-pro|*suHnús}}.
 
 ===Pronunciation===
-* {{IPA|[sɨn]|lang=dsb}}
+* {{IPA|/sɨn/|lang=dsb}}
 
 ===Noun===
 {{dsb-noun|m|dim=synk}}
 
-# [[son]]
+# {{l|en|son}}
 
 ====Declension====
 {{dsb-decl-noun-17|syn|animate=1}}
@@ -93,16 +93,17 @@ From {{inh|dsb|sla-pro|*synъ}}, from {{etyl|ine-pro|dsb}} {{m|ine-pro|*suHnús}
 * {{l|dsb|maś||mother}}
 
 ===References===
+* {{R:dsb:Muka}}
 * {{R:dsb:Starosta}}
 
-{{catlangcode|dsb|Family|Male}}
+{{C|dsb|Family|Male}}
 
 ----
 
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|sýn}}
+From {{inh|nb|non|sýn}}
 
 ===Noun===
 {{nb-noun-n3}} (''genitive form'' '''{{l|nb|syne}}''')
@@ -133,7 +134,7 @@ From {{etyl|non|nb}} {{m|non|sýn}}
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|sýn}}
+From {{inh|nn|non|sýn}}
 
 ===Noun===
 {{nn-noun-n1}}
@@ -179,7 +180,7 @@ From {{inh|gmq-osw|non|sjón}}, from {{inh|gmq-osw|gem-pro|*siuniz}}.
 ==Polish==
 
 ===Etymology===
-From {{inh|pl|sla-pro|*synъ}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*suHnús}}.
+From {{inh|pl|sla-pro|*synъ}}, from {{inh|pl|ine-pro|*suHnús}}.
 
 ===Pronunciation===
 * {{IPA|/sɨn/|lang=pl}}
@@ -204,7 +205,7 @@ From {{inh|pl|sla-pro|*synъ}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*suHnús}}.
 ==Slovak==
 
 ===Etymology===
-From {{inh|sk|sla-pro|*synъ}}, from {{etyl|ine-bsl-pro|sk}} {{m|ine-bsl-pro|*sūˀnus}}, from {{etyl|ine-pro|sk}} {{m|ine-pro|*suHnús}}.
+From {{inh|sk|sla-pro|*synъ}}, from {{inh|sk|ine-bsl-pro|*sūˀnus}}, from {{inh|sk|ine-pro|*suHnús}}.
 
 ===Pronunciation===
 * {{IPA|/sin/|lang=sk}}
@@ -256,7 +257,7 @@ From {{inh|sv|gmq-osw|syn|sȳn}}, from {{inh|sv|non|[[sýn]], [[sjón]]}}, from 
 ==Upper Sorbian==
 
 ===Etymology===
-From {{inh|hsb|sla-pro|*synъ}}, from {{etyl|ine-pro|hsb}} {{m|ine-pro|*suHnús}}.
+From {{inh|hsb|sla-pro|*synъ}}, from {{inh|hsb|ine-pro|*suHnús}}.
 
 ===Noun===
 {{head|hsb|noun|g=m}}
@@ -271,7 +272,7 @@ From {{inh|hsb|sla-pro|*synъ}}, from {{etyl|ine-pro|hsb}} {{m|ine-pro|*suHnús}
 ==West Frisian==
 
 ===Etymology===
-From {{etyl|gem-pro|fy}} {{m|gem-pro|*sīnaz||his, her, its, their|pos=reflexive possessive pronoun}}, from {{etyl|ine-pro|fy}} {{m|ine-pro|*séynos}}, genitive of {{m|ine-pro|*só||that}}; cognate with {{cog|sv|sin}}, {{cog|fo|sín}}, {{cog|nl|zijn}}, {{cog|de|sein}}.
+From {{inh|fy|gem-pro|*sīnaz||his, her, its, their|pos=reflexive possessive pronoun}}, from {{inh|fy|ine-pro|*séynos}}, genitive of {{m|ine-pro|*só||that}}; cognate with {{cog|sv|sin}}, {{cog|fo|sín}}, {{cog|nl|zijn}}, {{cog|de|sein}}.
 
 ===Pronunciation===
 * {{IPA|/sin/|lang=fy}}
