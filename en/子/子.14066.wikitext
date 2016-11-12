@@ -33,14 +33,16 @@ From {{inh|zh|sit-pro|*tsa ~ za||child, offspring, relatives; to come forth (as 
 
 Cognate with {{och-l|字|character; letter}}, {{och-l|慈|loving; kind}}, {{och-l|滋|to grow, to breed, to propagate, to bring about, to increase}}, {{och-l|孳|to breed, to propagate}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=zǐ,zi
+|m=zǐ
 |c=zi2
 |h=pfs=chṳ́
 |md=cṳ̄
-|mn=qz:chír/tw,xm,zz:chú/qz,tw,xm,zz:chí/tw:jí/tw:lí
-|mn_note=chí, jí, lí - vernacular; chír/chú - literary
+|mn=xm,zz,tw:chú/qz:chír/chí
+|mn_note=chú/chír - literary; chí - colloquial (“seed; egg”)
+|mn-t=ze2/zi2
+|mn-t_note=ze2 - literary; zi2 - colloquial
 |w=2tsr
 |mc=y
 |oc=y
@@ -48,23 +50,24 @@ Cognate with {{och-l|字|character; letter}}, {{och-l|慈|loving; kind}}, {{och-
 |cat=n,pref,suf
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{†}} [[child]], [[offspring]]
 # {{†}} [[son]]
-#* {{zh-x|兒子{zi}|son}}
+#* {{zh-x|獨生子|only '''son'''}}
 # {{†}} [[descendant]], [[posterity]]
 # {{†}} [[person]]
 #* {{zh-x|女子|female; woman}}
 # {{†}} [[master]], [[teacher]]
-# {{†}} {{n-g|A respectful suffix attached to people's family names.}}
+# {{†}} {{n-g|A respectful suffix for teachers, usually attached to their surnames.}}
 #* {{zh-x|^孔子|Master Kong ([[Confucius]])}}
+#* {{zh-x|^老子|[[Laocius]]}}
 # {{†}} [[you]]
 # {{zh-alt-form|籽|seed}}
 #* {{zh-x|葵花子|sunflower seed}}
-# {{n-g|Suffix for small objects or general diminutive suffix.}}
-#* {{zh-x|瓶子{zi}|bottle}}
+# {{†}} [[egg]]
+#* {{zh-x|魚子|caviar}}
 # [[young]]; [[tender]]; [[small]]
 # {{n-g|Prefix attached to nouns, denoting "a part of", "belonging to" or "individual".}} [[sub-]]
 #* {{zh-x|子目錄|subdirectory}}
@@ -72,9 +75,42 @@ Cognate with {{och-l|字|character; letter}}, {{och-l|慈|loving; kind}}, {{och-
 # [[viscount|Viscount]], fourth of [[五等爵位|five ranks of Chinese aristocracy]] under the {{w|Zhou dynasty}}.
 # {{lb|zh|physics|biology}} [[-on]]
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|兒子}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=zi
+|c=zi2
+|mn=xm,zz,tw:chú/qz:chír
+|mc=y
+|oc=y
+|cat=suf
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Suffix for small objects or general diminutive suffix.}}
+#* {{zh-x|瓶子{zi}|bottle}}
+
+=====Synonyms=====
 {{zh-dial}}
+
+===Pronunciation 3===
+{{zh-pron
+|mn=xm,qz,zz:chí/kh:jí/xm,tp:lí/qz:bí
+|mn_note=vernacular
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Hokkien}}
+
+# [[small]], [[round]] [[object]]
+#* {{zh-x|算盤子{jí}|abacus bead|MN}}
+# {{lb|zh|Xiamen|Quanzhou}} {{zh-classifier|small objects}}
+# {{lb|zh|Zhangzhou|Taiwan}} {{zh-classifier|bananas}}
 
 ===Compounds===
 {{zh-compsee}}
