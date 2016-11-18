@@ -4,8 +4,6 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=04|sn=6|four=25206|canj=OL,XOL|ids=⿰亻中}}
 
-# {{surname|lang=zh}}
-
 ====References====
 * {{Han ref|kx=0094.110|dkj=00403|dj=0200.030|hdz=10121.070|uh=4EF2|ud=20210|bh=A5F2|bd=42482}}
 
@@ -16,7 +14,7 @@
 
 ===Glyph origin===
 {{Han etym}}
-A variant of 中, created to separate the sense of seniority from the original meaning of "middle". Equivalent to {{Han compound|人|alt1=亻|中|t1=person|t2=middle|ls=ic}}.
+{{Han compound|人|alt1=亻|中|t1=person|t2=middle|ls=psc|c1=s|c2=p}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -32,7 +30,7 @@ A variant of 中, created to separate the sense of seniority from the original m
 ===Etymology 1===
 Derived from {{och-l|中|middle}}.
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{†}} [[second]], especially when referring to seniority of siblings. {{n-g|See usage notes of [[伯]]}}.
@@ -40,15 +38,22 @@ Derived from {{och-l|中|middle}}.
 # {{†}} [[middle]]
 #: {{zh-x|仲夏|midsummer}}
 #: {{zh-x|仲裁|arbitration}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|仲弓|伯仲叔季|將仲子|伯壎仲篪|國際仲裁|仲父|仲家|二仲|商務仲裁|仲介|仲夏|伯仲之間|仲秋|仲介公司|仲尼|仲子|仲冬|仲春|仲裁|伯仲|焦仲卿妻|昆仲|賢昆仲|翁仲|管仲隨馬}}
 
 ===Etymology 2===
-Uncertain. Maybe derived from etymology 1, or a variant of [[總]].
+From {{zh-l|*重}}.
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|Cantonese}} [[still]] (referring to time)
 #: {{zh-x|佢 而家 都 仲 食飯\食 緊 食飯\飯。|He is '''still''' eating, even now.|C}}
+
+====Compounds====
+{{zh-der|仲要}}
 
 ----
 
