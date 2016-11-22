@@ -18,8 +18,10 @@
 ====Pronunciation====
 {{zh-pron
 |m=ne
-|h=pfs=nè
 |c=ne1
+|h=pfs=nè
+|md=nì
+|md_note=literary
 |mn=neh/nih/ne/nî
 |mn_note=all Min Nan cognates
 |w=0ne
@@ -32,21 +34,44 @@
 # {{n-g|Sentence-final particle indicating a reciprocal question; used to apply the previously asked question to a new subject.}} What about ...?; And ...?
 #* {{zh-x|你 呢？|'''How about''' you?}}
 #* {{zh-x|你 覺得 呢？|'''What do''' you think?}}
-#* {{zh-x|你 爸爸{ba} 好 嗎？^你 媽媽{ma} '''呢'''？|How is your father? '''And''' your mom?}}
+#* {{zh-x|你 爸爸{ba} 好 嗎？^你 媽媽{ma} 呢？|How is your father? '''And''' your mom?}}
 # {{n-g|Sentence-final particle signalling a pause, to emphasize the preceding words.}}
 # {{n-g|Sentence-final particle indicating action in progress, English [[present continuous]].}} to be ...[[-ing]]
-#* {{zh-x|我們 上 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}
+#* {{zh-x|我們 上 漢語 課 呢。|We '''are''' attend'''ing''' a Chinese lesson.}}
 # {{n-g|Sentence-final particle used to make questions more indirect, to give the impression that the speaker is speaking to themselves.}}
 #* {{zh-x|他 去 哪兒{r} 了 呢？|I wonder where he's going?}}
 
 =====Usage notes=====
+{{hide box|Usage notes|
 When expressing an action in progress, 呢 can be used with {{zh-l|正在}} and {{zh-l|著/着}} in a sentence. This is the full pattern. Each part is optional.
-: {{zh-x|我們 '''正在''' 上 '''著'''[着]{zhe} 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}
+: {{zh-x|我們 '''正在''' 上 '''著'''[着]{zhe} 漢語 課 '''呢'''。|We '''are''' attend'''ing''' a Chinese lesson.}}}}
 
-=====Compounds=====
-* {{zh-l|呢喃}}
+====Compounds====
+{{zh-der|fold=1|嗎呢|便是呢}}
 
 ===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=ní
+|c=nei4,nei1
+|md=nà̤/nì
+|md_note=nà̤ - “whispering”; nì - “cloth”
+|w=3nyi
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[whispering]]; [[murmuring]]
+# {{†}} [[twittering]]
+# {{†}} [[woollen]] [[cloth]] (for [[heavy]] [[clothing]])
+
+====Compounds====
+{{zh-der|fold=1|呢料|呢喃|呢衣|呢呢痴痴|呢子|呢喃細語|呢絨|鏡面呢|馬褲呢}}
+
+===Etymology 3===
 Substrate word. Compare:
 * {{cog|tai-pro|*najᶜ||this}}: {{cog|za|neix||this}}, {{cog|th|นี้||this}}, {{cog|lo|ນີ້||this}}
 * {{cog|mkh-pro|*niʔ ~ nih||this}}: {{cog|km|នេះ||this}}
@@ -65,11 +90,11 @@ Substrate word. Compare:
 
 # {{lb|zh|Cantonese}} [[this]]
 
-====Usage notes====
-* See [[呢個#Usage notes]].
-
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|這}}
+
+=====Usage notes=====
+* See [[呢個#Usage notes|{{lang|zh|呢個}}#Usage notes]].
 
 {{zh-cat|Beginning}}
 
