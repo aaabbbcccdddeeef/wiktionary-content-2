@@ -74,7 +74,7 @@ Sino-Tibetan. Cognate with {{cog|bo|བབས||shape, form, appearance}}, {{m|bo
 # [[system]]
 
 ====Readings====
-* {{ja-readings|kanyoon=[[はっ]] (haQ), [[ほっ]] (hoQ)|goon=[[ほう]] (hō) > [[ほふ]] (hofu)|kanon=[[ほう]] (hō) > [[はふ]] (hafu)|kun=[[のり]] (nori), [[おきて]] (okite), [[のっとる]] (nottoru)|nanori=[[かず]] (kazu), [[つね]] (tsune), [[のり]] (nori), [[はかる]] (hakaru)}}
+{{ja-readings|kanyoon=[[はっ]] (haQ), [[ほっ]] (hoQ)|goon=[[ほう]] (hō) > [[ほふ]] (hofu)|kanon=[[ほう]] (hō) > [[はふ]] (hafu)|kun=[[のり]] (nori), [[おきて]] (okite), [[のっとる]] (nottoru)|nanori=[[かず]] (kazu), [[つね]] (tsune), [[のり]] (nori), [[はかる]] (hakaru)}}
 
 ====Compounds====
 {{top3}}
@@ -121,7 +121,16 @@ Sino-Tibetan. Cognate with {{cog|bo|བབས||shape, form, appearance}}, {{m|bo
 * {{ja-r|寸法|すんぽう|gloss=[[dimension]], [[size]]}}
 {{bottom}}
 
-===Noun===
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ほう|yomi=o}}
+{{der|ja|ltc|法|sort=ほう}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ほう|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|ほう|hhira=はふ}}
 
 # [[principle]]
@@ -131,10 +140,39 @@ Sino-Tibetan. Cognate with {{cog|bo|བབས||shape, form, appearance}}, {{m|bo
 # [[etiquette]]
 # {{lb|ja|Buddhism|sort=ほう}} [[dharma]]
 # {{lb|ja|grammar|sort=ほう}} [[mood]]
-# {{lb|ja|mathematics}} [[divisor]]
+# {{lb|ja|mathematics|sort=ほう}} [[divisor]]
+
+===Etymology 2===
+{{ja-kanjitab|のり|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|のり|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|則}}, {{ja-l|矩}}
+
+====Noun====
+{{ja-noun|のり}}
+
+# [[law]]
+
+===Etymology 3===
+{{ja-kanjitab|ふらん|yomi=irr}}
+From {{der|ja|fr|franc|sort=ふらん}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|フラン|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|フラン}}
+
+# {{alternative spelling of|フラン|lang=ja}}
 
 ===References===
-* {{R:Shogakukan}}
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Currency|ふらん]]
 
 ----
 
