@@ -263,7 +263,7 @@ From {{inh|cu|sla-pro|*jь}}.
 * {{qualifier|phoneme}} {{IPA|/i/|lang=sh}}
 
 ====Letter====
-{{sh-letter|c|i}}
+{{sh-letter}}
 
 # The 10th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|з|sc=Cyrl}} and followed by {{l|sh|ј|sc=Cyrl}}.
 
@@ -275,7 +275,7 @@ From {{inh|sh|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₁ey}}.
 * {{audio|Sr-i.ogg|audio|lang=sh}}
 
 ====Conjunction====
-{{sh-conjunction|c|i}}
+{{sh-conjunction}}
 
 # [[and]]
 #: {{ux|sh|Ивица и Марица се воле|Ivica and Marica love each other.|inline=1}}
