@@ -487,7 +487,7 @@ See [[#Translingual|Translingual section]].
 * {{qualifier|phoneme}} {{IPA|/s/|lang=sh}}
 
 ====Letter====
-{{sh-letter|r|с}}
+{{sh-letter}}
 
 # The 24th letter of the Serbo-Croatian Latin alphabet ([[gajica]]), preceded by {{l|sh|r}} and followed by {{l|sh|š}}.
 
@@ -501,7 +501,7 @@ From {{inh|sh|sla-pro|*sъ(n)}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*ḱom}}.
 * {{IPA|/s/|lang=sh}}
 
 ====Preposition====
-{{sh-preposition|r|с}}
+{{sh-preposition}}
 
 # {{qualifier|with instrumental}} [[with]], together [[with]], along [[with]]
 #: {{ux|sh|raditi s nekim|inline=1|t=to work with somebody}}
