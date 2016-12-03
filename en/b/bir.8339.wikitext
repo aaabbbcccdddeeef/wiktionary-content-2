@@ -20,7 +20,7 @@ From {{inh|sq|sqj-pro|*bira}}, from {{der|sq|ine-pro|*bʰérus}} (compare {{cog|
 {{cardinalbox|az|0|1|2||iki|ord=birinci}}
 
 ===Etymology===
-From {{etyl|trk-pro|az}} {{m|trk-pro|*bīr||one}}
+From {{inh|az|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{az-variant|c=бир|r=bir|a=بیر}}
@@ -36,7 +36,7 @@ From {{etyl|trk-pro|az}} {{m|trk-pro|*bīr||one}}
 ==Crimean Tatar==
 
 ===Etymology===
-From {{etyl|trk-pro|crh}} {{m|trk-pro|*bīr||one}}
+From {{inh|crh|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{cardinalbox|crh||1|2||iki|ord=birinci}}
@@ -53,7 +53,7 @@ From {{etyl|trk-pro|crh}} {{m|trk-pro|*bīr||one}}
 {{cardinalbox|gag||1|2||iki|ord=birinci}}
 
 ===Etymology===
-From {{etyl|trk-pro|gag}} {{m|trk-pro|*bīr||one}}
+From {{inh|gag|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{head|gag|numeral}}
@@ -65,7 +65,7 @@ From {{etyl|trk-pro|gag}} {{m|trk-pro|*bīr||one}}
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|nl|id}} {{m|nl|bier}}.
+{{bor|id|nl|bier}}.
 
 ===Noun===
 {{id-noun}}
@@ -112,7 +112,7 @@ From {{etyl|nl|id}} {{m|nl|bier}}.
 ==Malay==
 
 ===Etymology===
-From {{etyl|en|ms}} {{m|en|beer}}.
+{{bor|ms|en|beer}}.
 
 ===Pronunciation===
 * {{a|Johor-Selangor}} {{IPA|/be(r)/|lang=ms}}
@@ -134,7 +134,7 @@ From {{etyl|en|ms}} {{m|en|beer}}.
 ==Maltese==
 
 ===Etymology===
-From {{etyl|ar|mt}} {{m|ar|بِئْر}}.
+From {{inh|mt|ar|بِئْر}}.
 
 ===Noun===
 {{mt-noun|m|bjar}}
@@ -149,7 +149,7 @@ From {{etyl|ar|mt}} {{m|ar|بِئْر}}.
 * {{l|enm|bire}}, {{l|enm|bur}}, {{l|enm|byre}}
 
 ===Etymology===
-From {{etyl|ang|enm}} {{m|ang|byre||strong wind, storm}}.
+From {{inh|enm|ang|byre||strong wind, storm}}.
 
 ===Noun===
 {{enm-noun}}
@@ -181,7 +181,7 @@ From {{etyl|ang|enm}} {{m|ang|byre||strong wind, storm}}.
 ==Middle High German==
 
 ===Etymology===
-From {{etyl|goh|gmh}} {{m|goh|bira}}
+From {{inh|gmh|goh|bira}}
 
 ===Noun===
 {{gmh-noun}} (''plural'' [[birn]])
@@ -302,7 +302,7 @@ From {{der|tr|otk|𐰋𐰃𐰼|tr=bir}}, from {{inh|tr|trk-pro|[[*bir]], [[*bīr
 ==Turkmen==
 
 ===Etymology===
-From {{etyl|trk-pro|tk}} {{m|trk-pro|*bīr||one}}
+From {{inh|tk|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{cardinalbox|tk||1|2||iki|ord=birinji}}
@@ -316,7 +316,7 @@ From {{etyl|trk-pro|tk}} {{m|trk-pro|*bīr||one}}
 ==Uzbek==
 
 ===Etymology===
-From {{etyl|trk-pro|uz}} {{m|trk-pro|*bīr||one}}
+From {{inh|uz|trk-pro|*bīr||one}}
 
 ===Numeral===
 {{cardinalbox|uz||1|2||ikki|ord=birinchi}}
@@ -324,8 +324,6 @@ From {{etyl|trk-pro|uz}} {{m|trk-pro|*bīr||one}}
 {{head|uz|numeral}}
 
 # {{lb|uz|cardinal}} [[one]]
-
-{{-}}
 
 ----
 
