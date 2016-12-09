@@ -79,9 +79,11 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[きょう]] (kyō) < [[けう]] (keu)
-|kanon=[[こう]] (kō) < [[かう]] (kau) {{non-joyo-reading}}
-|kun=[[おしえる]] ([[教える]], oshieru), [[おしえ]] ([[教え]], oshie), [[おそわる]] ([[教わる]], osowaru)}}
+|goon=[[きょう]] (kyō), {{qualifier|historical}} [[けう]] (keu)
+|kanon=[[こう]] (kō), {{qualifier|historical}} [[かう]] (kau) {{non-joyo-reading}}
+|kun=[[おしえる]] ([[教える]], oshieru), [[おしえ]] ([[教え]], oshie), [[おそわる]] ([[教わる]], osowaru)
+|nanori=[[さとし]] (satoshi), [[のり]] (nori), [[ひさ]] (hisa)
+}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -113,23 +115,43 @@
 * {{ja-r|教祖|きょうそ}}
 {{der-bottom}}
 
-{{ja-kanjitab|きょう|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|yomi=o|きょう}}
+{{IPAchar|/keu/}} → {{IPAchar|/kjoː/}}
 
-===Etymology===
-{{der|ja|ltc|教}}
+From {{der|ja|ltc|sort=きょう|教|tr={{IPAchar|/kˠau/}}||to teach, to instruct}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=goon|きょう}}
 
-===Suffix===
+====Affix====
+{{ja-pos|affix|きょう|hhira=けう}}
+
+# [[teaching]]
+
+=====Usage notes=====
+Only used in kanji compounds.  Never used in isolation with this reading.
+
+====Suffix====
 {{ja-pos|suffix|きょう|hhira=けう}}
 
 # [[-ism]] {{gloss|religion}}
 
-===Proper noun===
+===Etymology 2===
+{{ja-kanjitab|yomi=k|さとし}}
+From either the classical {{m|ja|終止形|tr=shūshikei||terminal form}} ''satoshi'' of modern adjective {{m|ja|聡い|tr=satoi||clever, sharp-witted}}, or the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} ''satoshi'' of cognate verb {{m|ja|諭す|tr=satosu||to admonish, persuade, remonstrate → to redirect into a smarter direction}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|さとし}}
+
+====Proper noun====
 {{ja-pos|proper|さとし}}
 
 # {{given name|lang=ja|sort=さとし|male}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
 
 ----
 
