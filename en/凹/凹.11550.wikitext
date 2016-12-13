@@ -60,16 +60,18 @@
 }}
 
 ===Etymology 1===
-{{etyl|zhx|ja|sort=おう}}. Date of borrowing unknown. Compare modern {{cog|cmn|凹|tr=āo, wā}}.
+{{ja-kanjitab|yomi=o|おう}}
+{{IPAchar|/apu/}} → {{IPAchar|/afu/}} → {{IPAchar|/au/}} → {{IPAchar|/ɔː/}} → {{IPAchar|/oː/}}
+
+From {{der|ja|ltc|凹|tr={{IPAchar|/ʔˠɛp̚/}}}}.  Compare modern {{cog|cmn|-}} reading ''āo'', {{cog|nan|-}} ''au''.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{IPA|lang=ja|[o̞ː]}}
+{{ja-pron|yomi=kanon|おう}}
 
 ====Affix====
 {{ja-pos|affix|おう|hhira=あふ}}
 
-# [[concave]]
+# {{l|en|concave}}
 
 =====Usage notes=====
 The character {{lang|ja|凹}} with the reading ''ō'' is only used in compounds, and never in isolation.
@@ -97,12 +99,11 @@ The character {{lang|ja|凹}} with the reading ''ō'' is only used in compounds,
 {{der-bottom}}
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|くぼ}}
 {{unk.|lang=ja|sort=くぼ}}. Sound similarities might suggest a connection to words related to {{m|en|darkness}} or ''deep'' {{m|en|interior}}, such as {{m|ja|雲|tr=kumo||cloud}}, {{m|ja|蜘蛛|tr=kumo||spider}}, {{m|ja|隈|tr=kuma||a recess, a deep interior corner}}, {{m|ja|黒|tr=kuro||black}}, {{m|ja|暗|tr=kura||darkness}}; more at {{ja-l|黒}}. Alternately, these broad similarities might be pure coincidence.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[kɯᵝbo̞]}}
-* {{ja-accent-common|h|く|ぼ|kùbó}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+{{ja-pron|yomi=k|くぼ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR}}
 
 ====Alternative forms====
 * {{ja-l|窪}}
@@ -110,8 +111,8 @@ The character {{lang|ja|凹}} with the reading ''ō'' is only used in compounds,
 ====Noun====
 {{ja-noun|くぼ}}
 
-# an area with sides higher than the center: an [[indentation]], a [[depression]], a [[dip]], a [[divot]], a [[hole]]
-# {{lb|ja|sort=くぼ|slang}} female [[genitalia]], the [[vagina]]
+# an area with sides higher than the center: an {{l|en|indentation}}, a {{l|en|depression}}, a {{l|en|dip}}, a {{l|en|divot}}, a {{l|en|hole}}
+# {{lb|ja|sort=くぼ|slang}} female {{l|en|genitalia}}, the {{l|en|vagina}}
 
 =====Derived terms=====
 {{der-top|Terms derived from {{lang|ja|凹}} (''kubo'')}}
@@ -143,12 +144,11 @@ The character {{lang|ja|凹}} with the reading ''ō'' is only used in compounds,
 * {{sense|female genitalia}} {{ja-l|前門|ぜんもん|zenmon}}, {{ja-l|まんこ||manko}}
 
 ===Etymology 3===
+{{ja-kanjitab|yomi=k|くぼみ}}
 Noun stem of verb {{m|ja|凹む|tr=kubomu||to become hollow, to become sunken, to become indented}}, itself a compound of {{compound|lang=ja|sort=くぼみ|凹|tr1=kubo|t1=an indentation, a dip|む|tr2=mu|t2=to become like something|pos2=auxiliary verb attaching to nouns or adjective stems, cognate with {{ja-l|びる}} ''biru''}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[kɯᵝbo̞mi]}}
-* {{ja-accent-common|h|く|ぼみ|kùbómí}}<ref name="NHK"/>
+{{ja-pron|yomi=k|くぼみ|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
 * {{ja-l|窪み}}, {{ja-l|窪}}, {{ja-l|凹み}}
@@ -156,7 +156,7 @@ Noun stem of verb {{m|ja|凹む|tr=kubomu||to become hollow, to become sunken, t
 ====Noun====
 {{ja-noun|くぼみ}}
 
-# a [[pit]], a [[hollow]], a [[cavity]], a [[depression]], a [[dent]]
+# a {{l|en|pit}}, a {{l|en|hollow}}, a {{l|en|cavity}}, a {{l|en|depression}}, a {{l|en|dent}}
 
 =====Derived terms=====
 {{der-top|Terms derived from {{lang|ja|凹}} (''kubomi'')}}
@@ -167,11 +167,11 @@ Noun stem of verb {{m|ja|凹む|tr=kubomu||to become hollow, to become sunken, t
 The {{ja-l|凹み}} or {{ja-l|窪み}} spelling with the {{l|ja|sc=Latn|送り仮名|okurigana}} {{lang|ja|み}} is more common when used as a standalone term. The spelling without the okurigana is more common in compounds.
 
 ===Etymology 4===
+{{ja-kanjitab|yomi=k|なかくぼ}}
 Compound of {{compound|lang=ja|sort=なかくぼ|中|tr1=naka|t1=inside, inner|窪|tr2=kubo|t2=pit, indentation}}.<ref name="KDJ"/><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[na̠ka̠kɯᵝbo̞]}}
+{{ja-pron|yomi=k|なかくぼ|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
 
 ====Alternative forms====
 * {{ja-l|中窪}}
@@ -179,8 +179,8 @@ Compound of {{compound|lang=ja|sort=なかくぼ|中|tr1=naka|t1=inside, inner|�
 ====Noun====
 {{ja-noun|なかくぼ}}
 
-# a [[sunken]] [[center]]
-# a [[place]] or [[object]] with a sunken center
+# a {{l|en|sunken}} {{l|en|center}}
+# a {{l|en|place}} or {{l|en|object}} with a sunken center
 
 =====Usage notes=====
 The {{ja-l|中窪}} spelling is more common.
@@ -189,12 +189,11 @@ The {{ja-l|中窪}} spelling is more common.
 * {{ja-l|中低|なかびく|nakabiku}}
 
 ===Etymology 5===
+{{ja-kanjitab|yomi=k|へこみ}}
 Noun stem of verb {{m|ja|凹む|tr=hekomu||to become hollow, to become sunken, to become indented}}, itself an [[abbreviate]]d compound of {{compound|lang=ja|sort=へこみ|減る|alt1=減り|tr1=heri|pos1=noun stem of verb {{ja-l|減る}} ''heru'', “to reduce, to decrease, to diminish”|込む|tr2=komu|t2=to go inwardly}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[he̞ko̞mi]}}
-* {{ja-accent-common|h|へ|こみ|hèkómí}}<ref name="NHK"/>
+{{ja-pron|yomi=k|へこみ|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
 * {{ja-l|凹み}}
@@ -202,9 +201,9 @@ Noun stem of verb {{m|ja|凹む|tr=hekomu||to become hollow, to become sunken, t
 ====Noun====
 {{ja-noun|へこみ}}
 
-# a [[pit]], a [[hollow]], a [[cavity]], a [[depression]], a [[dent]]
-# a [[mistake]], and [[error]]
-# a [[moment]] of [[weakness]] or [[confusion]], being [[at a loss]]
+# a {{l|en|pit}}, a {{l|en|hollow}}, a {{l|en|cavity}}, a {{l|en|depression}}, a {{l|en|dent}}
+# a {{l|en|mistake}}, and {{l|en|error}}
+# a {{l|en|moment}} of {{l|en|weakness}} or {{l|en|confusion}}, being {{l|en|at a loss}}
 
 =====Usage notes=====
 The {{ja-l|凹み}} spelling is more common.
@@ -216,18 +215,18 @@ The {{ja-l|凹み}} spelling is more common.
 * {{sense|at a loss}} {{ja-l|困惑|こんわく|konwaku}}
 
 ===Etymology 6===
+{{ja-kanjitab|yomi=k|ぼこ}}
 Uncertain. Possibly [[onomatopoeic]] from the sound of a wheel bouncing in a rut or pothole, or from the sound of something hollow when tapped. Compare adverb {{m|ja|ぼこぼこ|tr=bokoboko||full of holes; hollowly}}.
 
 Alternately, may be compound of {{compound|lang=ja|sort=ほこ'|ぼ|tr1=bo|t1=empty?|pos1=uncertain; possibly related to verb {{ja-l|掘る}} ''horu'', “to dig, to dig out”|こ|tr2=ko|t2=place|pos2=suffixing element seen in other words such as {{ja-l|そこ}} ''soko'', “there” or {{ja-l|端っこ}} ''hashikko'', “edge, end, tip”}}. Compare {{m|ja|凸|tr=deko||protrusion}}, likely a compound of {{m|ja|出|tr=de||coming out}} + {{m|ja|こ|tr=ko||place|pos=suffixing element}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[bo̞ko̞]}}
+{{ja-pron|yomi=k|ぼこ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ぼこ}}
 
-# an [[indentation]], a [[dip]] or [[divot]], a [[hollow]], a [[dent]] in a surface
+# an {{l|en|indentation}}, a {{l|en|dip}} or {{l|en|divot}}, a {{l|en|hollow}}, a {{l|en|dent}} in a surface
 
 =====Derived terms=====
 {{der-top|Terms derived from {{lang|ja|凹}} (''boko'')}}
