@@ -119,54 +119,87 @@ Many of the senses are now written with the specialised character {{zh-l|份}}.
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|ふん}}
-
-# a [[minute]] (unit of time)
-# a [[minute]] (unit of angle)
-
-{{ja-noun|ぶん}}
-# [[part]]; [[share]]
-#: {{ja-usex|このケーキは君の分だよ。|この ケーキ は きみ の ぶん だ よ。|This piece of cake is yours. (your share; it implies there are other pieces of cake.)}}
-
-{{ja-noun|ぶ}}
-
-# an obsolete unit of currency equal to four {{l/ja|両|tr=ryō}}
-
-===Counter===
-{{ja-pos|ふん|counter}}
-
-# [[minute]]s (duration)
-
-{{ja-minutes}}
-
-====Related terms====
-* {{ja-r|わける}}: "to [[divide]]"
-* {{ja-r|わかる}}: "to [[understand]]"
-
 ===Kanji===
 {{ja-kanji|grade=2|rs=刀02}}
 
 ====Readings====
-* {{ja-readings|goon=[[ぶん]] (bun), [[ふん]] (fun)|kanon=[[ふん]] (fun)|kanyoon=[[ぶ]] (bu)|kun=[[わける]] (wakeru), [[わかる]] (wakaru), [[わかれる]] (wakareru)}}
+{{ja-readings
+|goon=[[ぶん]] (bun), [[ふん]] (fun)
+|kanon=[[ふん]] (fun)
+|kanyoon=[[ぶ]] (bu)
+|kun=[[わける]] ([[分ける]], wakeru), [[わかる]] ([[分かる]], wakaru), [[わかれる]] ([[分かれる]], wakareru)
+|nanori=[[いた]] (ita), [[わけ]] (wake)
+}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * {{ja-r|分類|ぶんるい}}: [[classification]]
 * {{ja-r|分類学|ぶんるいがく}}: [[taxonomy]]
 * {{ja-r|存分|ぞんぶん}}
 * {{ja-r|多分|たぶん}}
-{{mid2}}
 * {{ja-r|半分|はんぶん}}
 * {{ja-r|自分|じぶん}}
-* [[市分]]
-{{mid4}}
-{{bottom}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ふん}}
+
+{{IPAchar|/pun/}} → {{IPAchar|/fun/}}
+
+From {{der|ja|ltc|sort=ふん|分|tr={{IPAchar|/pɨun/}}||a minute}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ふん|acc=1|acc_ref=DJR}}
+
+====Counter====
+{{ja-pos|counter|ふん}}
+
+# {{l|en|minute}}s (duration)
+
+====Noun====
+{{ja-noun|ふん}}
+
+# a {{l|en|minute}} (unit of time)
+# a {{l|en|minute}} (unit of angle)
+
+=====Usage notes=====
+When preceded by a number, the reading changes depending on the phonetic context.
+{{ja-minutes}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ぶん}}
+
+From {{der|ja|ltc|sort=ふん'|分|tr={{IPAchar|/bɨun<sup>H</sup>/}}||a minute}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ぶん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぶん}}
+
+# a {{l|en|part}}, a {{l|en|share}}, a {{l|en|portion}}
+#: {{ja-usex|このケーキは君の'''分'''だよ。|この ケーキ は きみ の '''ぶん''' だ よ。|This piece of cake is your '''portion'''.}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|ぶ}}
+
+{{IPAchar|/bun/}} → {{IPAchar|/bu/}}
+
+Shift from ''bun'' above, with influence on the meaning from the {{cog|ltc|-}} sense tied to original {{cog|ltc|-}} reading {{IPAchar|/pɨun/}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyo|ぶ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぶ}}
+
+# an obsolete unit of currency equal to four {{ja-r|両|りょう}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|ふん]]
 [[Category:ja:Time|ふん]]
-[[Category:Japanese terms written with one Han script character]]
-[[Category:Japanese terms spelled with 分]]
 
 ----
 
