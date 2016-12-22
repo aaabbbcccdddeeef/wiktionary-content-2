@@ -42,25 +42,62 @@
 {{ja-kanji|grade=|rs=人07}}
 
 ====Readings====
-* {{ja-readings|goon=[[しょ]] (sho)|kanon=[[そ]] (so)|kun=[[まないた]] (manaita)}}
+{{ja-readings
+|goon=[[しょ]] (sho)
+|kanon=[[そ]] (so)
+|kun=[[まないた]] (manaita)
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|そ|yomi=o}}
-{{rfe|ja}}
+
+From {{der|ja|ltc|sort=そ|{{IPAchar|/t͡ʃɨʌX/}}||a wooden stand used in offering rites}}.  Compare modern {{cog|yue|-}} reading ''zo<sup>2</sup>''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|そ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|そ}}
 
-# a [[sacrificial]] [[altar]]
+# a {{l|en|sacrificial}} {{l|en|altar}}
+# a {{l|en|cutting board}}, a {{l|en|chopping board}}
+
+=====Usage notes=====
+This reading appears to be less common.  For the {{m|en|cutting board}} sense in particular, the ''manaita'' reading below is more common.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|俎%上|そ%じょう}}: on the {{l|en|altar}}, on the {{l|en|cutting board}}
+* {{ja-r|俎%豆|そ%とう}}: a ceremonial object in ancient China; {{l|en|etiqutte}}, {{l|en|manners}}
+{{der-bottom}}
 
 ===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Cutting board}}
+[[File:Seriola_on_cutting_board.jpg|thumb|250px|{{lang|ja|俎}} (''manaita''): an amberjack on a '''{{l|en|cutting board}}'''.]]
+</div>
 {{ja-kanjitab|まないた|yomi=k}}
-{{rfe|ja}}
+
+Compound of {{compound|lang=ja|真魚|tr1=mana|t1=edible fish|板|tr2=ita|t2=board}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+The {{m|ja|俎}} kanji spelling comes from {{der|ja|zh|俎}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まないた|acc=0|acc_ref=DJR,NHK,SMK5|acc2=3|acc2_ref=DJR,NHK,SMK5|acc3=4|acc3_ref=NHK,SMK5}}
+
+====Alternative forms====
+* {{ja-l|まな板}}
+* {{ja-l|俎板}}
+* {{ja-l|真魚板}}
 
 ====Noun====
 {{ja-noun|まないた}}
 
-# {{altspell|まな板||[[chopping board]]|lang=ja}}
+# {{altspell|lang=ja|まな板||{{l|en|chopping board}}, {{l|en|cutting board}}}}
+
+===References===
+<references/>
 
 ----
 
