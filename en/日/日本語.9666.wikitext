@@ -1,4 +1,5 @@
 {{also|日本语}}
+
 ==Chinese==
 {{zh-forms|s=日本语|type=21}}
 
@@ -21,33 +22,32 @@
 ====Usage notes====
 * Like {{m|en|Nihongo}} in English, {{zh-l|日本語}} is usually restricted to linguistic and language learning contexts, whilst {{zh-l|日文}} and {{zh-l|日語}} are more commonly used in written and conversational situations respectively.
 
-{{zh-cat|Languages}}
+{{zh-cat|Japanese}}
 
 ----
 
 ==Japanese==
-<div style="float:right;">
 {{wikipedia|lang=ja}}
-{{wikipedia|Japanese language}}
-</div>
-{{ja-kanjitab|にち|k1=に|ほん|ご|yomi=on}}
+{{ja-kanjitab|にち|k1=にっ|ほん|k2=ぽん|ご|yomi=o}}
+{{ja-kanjitab|にち|k1=に|ほん|ご|yomi=irr|sort=にほんご}}
 
 ===Etymology===
-Compound of {{suffix|日本|tr1=Nihon|t1=Japan|語|tr2=go|t2=language|lang=ja||sort=にほんご}}.
+From {{suf|ja|日本|tr1=Nihon, Nippon|t1=[[Japan]]|語|tr2=go|t2=[[language]]|sort=にほんご}}
 
 ===Pronunciation===
-{{ja-pron|yomi=on|acc=0|acc_ref=DJR|にほんご|audio=Ja-nihongo.ogg}}
+{{ja-pron|y=i|acc=0|acc_ref=DJR,SMK5,NHK|にほんご|audio=Ja-nihongo.ogg}}
+{{ja-pron|y=go|acc=0|acc_ref=NHK|にっぽんご}}
 
 ===Proper noun===
-{{ja-pos|proper|にほんご}}
+{{ja-pos|proper|にほんご|にっぽんご}}
 
 # the [[Japanese]] [[language]]
 
 ===References===
 <references/>
 
-[[Category:Japanese basic words|にほんご]]
-[[Category:ja:Languages|にほんご]]
+{{cln|ja|basic words|sort=にほんご}}
+{{C|ja|Japanese|sort=にほんご}}
 
 ----
 
@@ -55,9 +55,9 @@ Compound of {{suffix|日本|tr1=Nihon|t1=Japan|語|tr2=go|t2=language|lang=ja||s
 {{ko-hanjatab}}
 
 ===Proper noun===
-{{ko-proper noun|hj|hangeul=일본어}}
+{{ko-propn|hangeul=일본어|mr=Ilbonŏ|y=Ilpon.e}}
 
-# {{hanja form of|일본어|[[Japanese]] language}}
+# {{hanja form of|일본어|[[Japanese]] [[language]]}}
 
 [[af:日本語]]
 [[ast:日本語]]
