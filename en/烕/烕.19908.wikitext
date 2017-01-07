@@ -1,9 +1,6 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{Han compound|戌|火|t2=fire|ls=ic}}, essentially 戈 + 火: to take an ax to the fire, to destroy (extinguish) the fire. {{rfv-etymology|mul}}
-
 ===Han character===
 {{Han char|rn=86|rad=火|as=06|sn=10|four=|canj=IHMF|ids=⿵戌火}}
 
@@ -30,12 +27,31 @@
 
 ----
 
-==Mandarin==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[xuè]] ([[xue4]])|wg=hsüeh<sup>4</sup>}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戌|火|c1=p|c2=s|t2=fire|ls=psc}}.
 
-# {{defn|lang=cmn|sort=火06}}
+''{{w|Shuowen}}'' considers this to be an {{Han compound|戌|火|t1=ninth month|t2=fire|ls=ic|nocap=y}}, probably alluding to a passage in ''{{w|Huainanzi}}'':
+: {{zh-x|^火 生 於 寅，壯 於 午，死 於 戌|[The element] fire is born in the first month, is strong in the fifth month, and dies in the ninth month.|CL}}
+
+===Etymology===
+Cognate to {{och-l|滅}}.
+
+===Pronunciation===
+{{zh-pron
+|m=miè,xuè
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[extinguish]]; to [[destroy]]
 
 [[fr:烕]]
 [[hu:烕]]
