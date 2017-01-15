@@ -171,12 +171,19 @@ Probably from {{zh-l|敢|kám, káⁿ}}.
 {{ja-kanji|grade=c|rs=田00}}
 
 ====Readings====
-* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō) > [[かふ]] (kafu)|kanyoon=[[かん]] (kan)|kun=[[よろい]] (yoroi) > [[よろひ]] (yorohi), [[つめ]] (tsume), [[きのえ]] (kinoe)|nanori=}}
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō) > かふ (kafu)|kanyoon=[[かん]] (kan)|kun=[[よろい]] (yoroi) > よろひ (yorohi), [[つめ]] (tsume), [[きのえ]] (kinoe)}}
 
 ====Compounds====
 * {{ja-r|甲虫|こうちゅう}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|こう|yomi=o}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=1|y=ko|こう}}
+
+====Noun====
 {{ja-noun|こう|hhira=かふ}}
 
 # carapace, shell
@@ -184,21 +191,46 @@ Probably from {{zh-l|敢|kám, káⁿ}}.
 # [[instep]] or the back of the hand
 # the first party
 
+===Etymology 2===
+{{ja-kanjitab|よろい|yomi=k}}
+{{rfe|ja}}
+
+====Alternative forms====
+* {{ja-l|鎧}}
+
+====Pronunciation====
+{{ja-pron|acc=0|よろい|y=k}}
+
+====Noun====
 {{ja-noun|よろい|hhira=よろひ}}
 
 # armor
 
-{{ja-noun|きのえ}}
+===Etymology 3===
+{{ja-kanjitab|かん|yomi=ky}}
+{{rfe|ja}}
 
-# first sign of the Chinese calendar
+====Pronunciation====
+{{ja-pron|acc=0|かん|y=ky}}
 
+====Noun====
 {{ja-noun|かん}}
 
 # treble range
 
-====Alternative forms====
-* {{l|ja|鎧}}
+===Etymology 4===
+{{ja-kanjitab|きのえ|yomi=k}}
+{{com|ja|木|の|兄|tr1=Ki|t1={{w|Wood (Wu Xing)|Wood}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=e|t3=[[elder brother]]|sort=きのえ}}
 
+====Pronunciation====
+{{ja-pron|acc=0|y=k|きのえ}}
+
+====Proper noun====
+{{ja-pos|proper|きのえ}}
+
+# the first of the ten {{w|Heavenly Stems}}
+
+{{C|ja|Heavenly Stems|sort=きのえ}}
 ----
 
 ==Korean==
