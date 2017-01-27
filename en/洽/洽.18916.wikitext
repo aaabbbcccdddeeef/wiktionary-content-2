@@ -19,25 +19,67 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|水|合|ls=psc|c1=s|t1=water|c2=p}}.
 
-===Pronunciation===
+===Etymology===
+Causative of {{och-l|合|to be together}} ({{zh-ref|Schuessler, 2007}}).
+
+Alternatively, it may be related to {{cog|bo|འགྲུབ||to be accomplished}} ({{zh-ref|Schuessler, 2007}}).
+
+{{etystub|zh}} <!-- are all these senses/pronunciations related? -->
+
+===Pronunciation 1===
 {{zh-pron
-|m=qià
-|c=hap6,haap6,hap1,ap1
-|h=pfs=
+|m=qià,xiá,2nb=variant
+|c=hap6,hap1,haap6,ap1
+|h=pfs=kap/khap
 |md=
-|mn=hia̍p/ka̍p/ha̍p
-|mn_note=hia̍p/ka̍p - vernacular; ha̍p - literary
+|mn=hia̍p/ha̍p
+|mn_note=hia̍p - vernacular; ha̍p - literary (rare)
 |w=
 |mc=y
 |oc=y
-|cat=v,pn
+|cat=v,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{†}} to [[moisten]]
+# {{†}} to be in [[accord]]; to be [[harmonious]]; to [[agree]]
+# {{†}} to [[consult]]
+# {{†}} [[extensive]]; [[wide]]
+
+====Compounds====
+{{zh-der|優洽|允洽|情投意洽|博洽|仁洽|喜洽|心甜意洽|妥洽|冰炭不洽|博學洽聞|商洽|強記洽聞|和洽|博物洽聞|汗洽股慄|投洽|款洽|沾洽|歡洽|洽詢|汗流洽背|洽商|暢洽|洽辦|洽購|熙洽|浹洽|接洽|洽談|洽聞博見|洽聞|洽恰|洽聞強記|殫見洽聞|洽濡|重熙累洽|融洽|驩洽|面洽|重光累洽|翔洽|謙洽}}
+
+===Pronunciation 2===
+{{zh-pron
+|mn=ka̍p
+|mn_note=vernacular
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Hokkien}}
+
+# {{lb|zh|of liquids}} [[thick]]; [[viscous]]
+# {{lb|zh|Xiamen|Zhangzhou|Taiwan}} [[mediocre]]; [[stupid]]; [[clumsy]]
+
+====Compounds====
+{{zh-der|洽潲|洽哥|洽食|洽醪醪|醪洽洽|洽膏膏}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=hé,gé
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} {{zh-alt-form|郃|a river in Shaanxi|dot=,}} now known as {{zh-l|金水河}}.
+#: {{zh-x|在 洽{Hé} 之 陽、在 ^渭 之 涘{sì}。|On the north of the '''He'''; on the banks of the Wei.|ref=Shijing}}
 
 ===References===
 * {{R:twedu|A02195}}
