@@ -12,12 +12,28 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=狯}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=kui2|sim=狯}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=犬13}}
+===Pronunciation===
+{{zh-pron
+|m=kuài
+|c=kui2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|狡獪|狙獪}}
 
 ----
 
@@ -32,7 +48,7 @@
 * {{ja-readings|on=[[かい]] (kai)|kun=[[わるがしこ]] (warugashiko)}}
 
 ====Compounds====
-* [[老獪]] ([[ろうかい]], rōkai)
+* {{ja-r|老獪|ろうかい}}
 
 ----
 
@@ -42,15 +58,6 @@
 {{ko-hanja|hangeul=[[회]], [[쾌]]|eumhun=|rv=hoe, kwae|mr=hoe, k'wae|y=hoy, khway}}
 
 # {{defn|lang=ko|sort=犬13}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=狯|pin=[[kuài]] ([[kuai4]])|wg=k'uai<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=犬13}}
 
 [[fr:獪]]
 [[hu:獪]]
