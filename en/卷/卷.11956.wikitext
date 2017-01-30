@@ -1,12 +1,18 @@
 {{character info/new}}
 {{also|巻|捲}}
 ==Translingual==
+{{ja-forms|[[巻]]|卷|卷}}
 {{stroke order|type=animate}}
+
+===Alternative forms===
+Note that in Chinese, the bottom is [[㔾]], while in Japanese, the bottom is [[己]].
 
 ===Han character===
 {{Han char|rn=26|rad=卩|as=06|sn=8|four=90712|canj=FQSU}}
 
-# to [[make]] a [[comeback]]{{rfv-sense}}
+# [[scroll#Noun|scroll]]
+# [[curl#Verb|to curl]]
+# {{lb|zh|literary}} to [[make]] a [[comeback]]. {{rfv-sense}} <!-- Only used in compound terms such as 巻き返し (Japanese) and 卷土重來 (Mandarin Chinese) -->
 
 ====References====
 * {{Han ref|kx=0159.230|dkj=02860|dj=0365.050|hdz=10315.030|uh=5377|ud=21367|bh=A8F7|bd=43255}}
@@ -14,13 +20,15 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=巻}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|龹|卩|ls=psc|c1=p|c2=s}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{zh-forms|t2=捲}}
+
+====Pronunciation====
 {{zh-pron
 |m=juǎn,er=y
 |c=gyun2,gyun3
@@ -45,7 +53,10 @@
 ====Compounds====
 {{zh-der|fold=1|卷雲|卷甲|卷地皮|卷棚|卷積雲|微卷|卷幘|卷心菜|卷舌|卷繖花序|卷旗息鼓|席卷|席卷天下|卷柏|卷層雲|卷鬚|卷葉蛾|卷舒|卷耳|卷懷|卷尾猴|卷土重來|水逝雲卷|手卷|漫卷|海帶卷|韜戈卷甲|蛋卷|膠卷|電卷風馳|銀絲卷|電卷星飛|風馳電卷|舒卷}}
 
-===Pronunciation 2===
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
 |m=juàn,er=y
 |c=gyun2,gyun3
@@ -71,7 +82,10 @@
 ====Compounds====
 {{zh-der|fold=1|卷軸|問卷調查|卷帙|交卷|刷卷|卷帙浩繁|卷紙|卷軸裝|官卷|交白卷|卷宗|寶卷|審囚刷卷|宣卷|壓卷|卷子|問卷|亹亹不卷|展卷|把卷|案卷|手不釋卷|白卷|書卷|披卷|萬卷|溫卷|硃卷|掩卷|書卷氣|課卷|黃卷青燈|篇卷|繳卷|開卷有得|縑緗黃卷|閉卷考|落卷|開卷考|開卷|行卷|開卷有益|墨卷|黃卷|魚籃寶卷|考卷|繳白卷|青燈黃卷|閱卷|釋卷|答案卷|調卷|試卷|評卷|經卷}}
 
-===Pronunciation 3===
+===Etymology 3===
+{{zh-forms|alt=婘}}
+
+====Pronunciation====
 {{zh-pron
 |m=quán
 |c=kyun4
@@ -93,9 +107,10 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|巻|卷}}
 
 ===Kanji===
-{{ja-kanji|grade=|rs=卩06}}
+{{ja-kanji|grade=|rs=卩06|style=ky|shin=巻}}
 
 # {{defn|lang=ja|sort=卩06}}
 
