@@ -50,52 +50,88 @@
 # [[monkey]]
 
 ====Readings====
-* {{ja-readings|goon=[[おん]] (on)|kanon=[[えん]] (en)|kun=[[さる]] (saru), [[ましら]] (mashira)}}
+{{ja-readings
+|goon=[[おん]] (on)
+|kanon=[[えん]] (en), {{qualifier|historical}} [[ゑん]] (wen)
+|kun=[[さる]] (saru), [[まし]] (mashi) {{non-joyo-reading}}, [[ましら]] (mashira) {{non-joyo-reading}}
+|nanori=[[さ]] (sa), [[さわ]] (sawa)
+}}
 
 ====Compounds====
-* {{ja-l|猿臂}}
+{{der-top|Compounds}}
+* {{ja-r|猿%臂|えん%ぴ}}: a {{l|en|monkey}}'s {{l|en|elbow}}; someone skilled at {{l|en|archery}}
+{{der-bottom}}
 
-===Pronunciation===
+===Etymology 1===
+<div style="float:right;">
 {{wikipedia|lang=ja|サル}}
+{{wikipedia|Monkey}}
+[[File:JapaneseMacaqueM2218.jpg|thumb|250px|{{lang|ja|猿}} (''saru'', ''mashi'', ''mashira''): a '''{{l|en|monkey}}''', specifically a Japanese macaque.]]
+</div>
 {{ja-kanjitab|yomi=k|さる}}
-{{ja-pron|acc=a|y=k|さる}}
 
-===Noun===
+From {{inh|ja|ojp|sort=さる|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.
+
+Ultimate derivation possibly a {{bor|nocap=1|sort=さる|ja|ain|サロ|tr=saro||monkey|pos=from {{m|ain|サㇻ|tr=sar||a tail}} + {{m|ain|オ|tr=o||to bear, to wear, to carry}}}}.<ref name="BAT">{{R:ain:B}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|さる|acc=1|acc_ref=DJR,SMK5}}
+
+====Noun====
 {{ja-noun|さる|サル}}
 
-# a [[monkey]]
+# a {{l|en|monkey}}
 #* {{RQ:Konkōmyō Saishōōkyō Ongi|10 (back)}}
 #*: 猕猴 二字合訓'''佐流'''
 
-====Derived terms====
+=====Usage notes=====
+{{U:ja:biology|サル}}
+
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|日%本%猿|^ニ%ホン%ザル}}
 * {{ja-r|狐%猿|キツネ%ザル}}
 * {{ja-r|猿も木から落ちる|さる も き から おちる}}
 * {{ja-r|申|さる}}
+{{der-bottom}}
 
-====Usage notes====
-{{U:ja:biology|サル}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|まし}}
+
+From {{inh|ja|ojp|sort=まし}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE, used phonetically to spell the sound {{IPAchar|/masi/}}.
+
+Ultimate derivation {{unk|nocap=1|sort=まし}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まし|acc=1|acc_ref=SMK5}}
+
+====Noun====
+{{ja-noun|まし}}
+
+# {{lb|ja|sort=まし|archaic|possibly|_|obsolete}} a {{l|en|monkey}}
+
+=====Usage notes=====
+This form seems to be used less often than ''mashira'' below.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ましら}}
+
+Derived from earlier ''mashi'' form above.  Found in texts from the early 1900s, possibly earlier.  Appears to be ''mashi'' + the pluralizing and genericizing suffix {{m|ja|ら|tr=ra}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ましら|acc=0|acc_ref=DJR,SMK5|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|ましら}}
+
+# {{lb|ja|sort=まし|archaic}} a {{l|en|monkey}}
+
+===References===
+<references/>
+:* {{R:Konkōmyō Saishōōkyō Ongi}}
 
 [[Category:Japanese basic words|さる]]
 [[Category:ja:Monkeys|さる]]
-
-===Noun===
-{{ja-kanjitab|yomi=k|まし}}
-{{ja-noun|まし}}
-
-# {{lb|ja|archaic|sort=まし}} a monkey
-
-===Pronunciation===
-{{ja-kanjitab|yomi=k|ましら}}
-{{ja-pron|acc=h|acc2=a|y=k|ましら}}
-
-===Noun===
-{{ja-noun|ましら}}
-
-# {{lb|ja|archaic|sort=ましら}} a monkey
-
-===References===
-* {{R:Konkōmyō Saishōōkyō Ongi}}
 
 ----
 
