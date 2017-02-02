@@ -49,12 +49,20 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=土09}}
 
-# [[hard]], [[firm]]
+# {{l|en|hard}}, {{l|en|firm}}
+# {{l|en|tough}}
+# {{l|en|strict}}
 
 ====Readings====
-* {{ja-readings|goon=[[けん]] (ken)|kanon=[[けん]] (ken)|kun=[[かたい]] (katai), [[かたく]] (kataku)}}
+{{ja-readings
+|goon=[[けん]] (ken)
+|kanon=[[けん]] (ken)
+|kun=[[かたい]] ([[堅い]], katai)
+|nanori=[[きん]] (kin)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * [[堅強]]
 * [[堅固]]
 * [[堅持]]
@@ -62,13 +70,12 @@
 * [[堅忍不抜]]
 * [[堅牢]]
 * [[具志堅]]
+{{der-bottom}}
 
 ===Proper noun===
 {{ja-pos|proper|けん}}
 
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|けん]]
+# {{given name|lang=ja|sort=けん|male}}
 
 ----
 
