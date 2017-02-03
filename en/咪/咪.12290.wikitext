@@ -19,7 +19,7 @@
 {{zh-forms}}
 
 ===Etymology 1===
-{{onomatopoeic|zh}}. The microphone sense is a {{bor|yue|en|microphone|nocap=1}}.
+{{onomatopoeic|zh}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -29,15 +29,14 @@
 |cat=n
 }}
 
-====Noun====
-{{zh-noun}}
+====Definitions====
+{{zh-hanzi}}
 
 # [[meow]]
 # sound used to call a [[cat]]
-# {{lb|zh|Cantonese}} [[microphone]]
 
 =====Compounds=====
-{{zh-der|咪咪|咪高峰}}
+{{zh-der|咪咪}}
 
 ===Etymology 2===
 
@@ -48,12 +47,41 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
 
 # {{contraction of|唔係|tr=m<sup>4</sup> hai<sup>6</sup>|lang=yue}}
 
 ===Etymology 3===
-{{bor|zh|en|imidazole}}.
+
+====Pronunciation====
+{{zh-pron
+|c=mai5
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# [[don't]]
+
+=====Synonyms=====
+{{zh-dial|別}}
+
+===Etymology 4===
+{{bor|yue|en|microphone}} (or {{m|en|mic}}).
+
+====Pronunciation====
+{{zh-pron
+|c=mai1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# {{zh-short|咪高峰|[[microphone]]}}
+
+===Etymology 5===
 
 ====Pronunciation====
 {{zh-pron
@@ -64,13 +92,7 @@
 =====Definitions=====
 {{zh-hanzi}}
 
-# {{n-g|Used in transcription.}}
-
-=====Compounds=====
-{{zh-der|咪唑}}
-
-===References===
-* {{pedia|Organic nomenclature in Chinese}}
+# {{zh-only|咪唑|imidazole}}
 
 ----
 
