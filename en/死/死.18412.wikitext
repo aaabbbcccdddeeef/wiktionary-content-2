@@ -98,18 +98,21 @@ From {{inh|zh|sit-pro|*səj}}.
 }}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=o|し}}
 Appears to be a [[conflation]] of {{etyl|ltc|ja|sort=し}} {{m|ltc|死|tr=sij<sup>X</sup>}} (compare modern {{etyl|cmn|-}} reading ''sǐ'') with an {{etyl|ojp|ja|sort=し}} root that happened to have a similar pronunciation to the {{etyl|ltc|-}} and was probably cognate with {{m|ja|去る|tr=saru||to go, to go away}}.
 
 In kanji compounds, this would be considered as {{m|ja|音読み|sc=Latn|on'yomi}}; on its own, this could be considered as either {{m|ja|音読み|sc=Latn|on'yomi}} or {{m|ja|訓読み|sc=Latn|kun'yomi}}.
 
 ====Pronunciation====
-{{ja-pron|し|acc=1|acc_ref=DJR,NHK,SMK5}}
+{{ja-pron|し|acc=1|acc_ref=DJR,NHK,SMK5|y=o}}
+{{ja-pron|し|acc=1|y=k}}
 
 ====Noun====
+{{ja-kanjitab|yomi=k|し}}
+{{ja-kanjitab|yomi=o|し}}
 {{ja-noun|し}}
 
 # [[death]]
+#:{{ja-usex|ハリー・ポッターと'''死の'''秘%宝|^ハリー・^ポッター と '''^し の''' ^ひ%ほう|{{w|Harry Potter and the Deathly Hallows|Harry Potter and the '''Deathly''' Hallows}}}}
 
 =====Derived terms=====
 {{der-top}}
@@ -174,6 +177,7 @@ In kanji compounds, this would be considered as {{m|ja|音読み|sc=Latn|on'yomi
 {{der-bottom}}
 
 ====Verb====
+{{ja-kanjitab|yomi=o|し}}
 {{ja-verb-suru|し}}
 
 # to [[die]]
