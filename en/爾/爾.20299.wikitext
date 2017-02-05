@@ -64,30 +64,101 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|おれ}}
-
-# {{lb|ja|archaic|vulgar|sort=おれ}} [[you]]
-{{ja-noun|なんじ}}
-# {{lb|ja|archaic|sort=なんじ}} [[thou]], [[you]]
-
-===Interjection===
-{{ja-pos|interjection|しか}}
-
-# {{lb|ja|archaic|sort=しか}} like that, as such
-# [[yeah]], [[uh-huh]]
-
 ===Kanji===
 {{ja-kanji|grade=|rs=爻10}}
 
-# {{defn|lang=ja|sort=爻10}}
+# {{l|en|you}}
+# {{l|en|like}} {{l|en|that}}, that {{l|en|way}}
 
 ====Readings====
-* {{ja-readings|kanon=[[じ]] (''ji'')|goon=[[に]] (''ni'')|kun=[[おれ]] (''ore''), [[しか]] (''shika''), [[しかり]] (''shikari''), [[その]] (''sono''), [[なんじ]] (''nanji''), [[のみ]] (''nomi'')|nanori=[[あきら]] (''akira''), [[ちか]] (''chika''), [[み]] (''mi''), [[みつる]] (''mitsuru'')}}
+{{ja-readings
+|goon=[[に]] (ni)
+|kanon=[[じ]] (ji)
+|kun=[[おれ]] (ore), [[しか]] (shika), [[しかり]] (shikari), [[その]] (sono), [[なんじ]] (nanji), [[のみ]] (nomi)
+|nanori=[[あきら]] (akira), [[ちか]] (chika), [[み]] (mi), [[みつる]] (mitsuru)
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|爾来|じらい}}: from that time on
 * {{ja-r|爾後|じご}}: from this time on
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|おれ}}
+
+From {{inh|ja|ojp|sort=おれ|-}}.  Found in use mostly from ancient times until roughly the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> used to refer in the {{l|en|second person}} to social {{l|en|inferior}}s or to {{l|en|insult}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+The {{l|en|second person}} sense of {{m|en|you}} appears to be obsolete in modern Japanese.
+
+Not to be confused with the modern term {{m|ja|俺|tr=ore}} with the {{l|en|first person}} sense of {{m|en|I}}, {{m|en|me}}.  See {{m|ja|俺}} for that sense.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おれ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|儞}}
+
+====Pronoun====
+{{ja-pos|pronoun|おれ}}
+
+# {{lb|ja|archaic|vulgar|sort=おれ}} {{l|en|you}}
+
+=====Usage notes=====
+Often used to {{l|en|insult}}.  Compare modern {{cog|ja|お前|tr=omae}}, {{cog|en|you}} {{m|en|son of a bitch}}.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|なんじ}}
+
+{{IPAchar|/namuti/}} → {{IPAchar|*/nandi/}} → {{IPAchar|/nand͡ʑi/}}
+
+From {{inh|ja|ojp|sort=なんじ|-}}.  Originally derived as a compound of {{compound|lang=ja|sort=なんじ|汝|tr1=na|t1=you|pos=ancient term|貴|tr2=muchi|pos2=honorific suffix}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+Originally used to refer {{l|en|honorifically}} to the {{l|en|second person}}.  From around the {{w|Nara period}}, the {{l|en|honorific}} sense lessened, and the term was used to refer to social {{l|en|equal}}s or occasionally social {{l|en|inferior}}s.  By the {{w|Muromachi period}}, this term was the most common {{l|en|second person}} {{l|en|pronoun}} for social {{l|en|inferior}}s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|汝}} {{qualifier|more common}}
+
+====Pronoun====
+{{ja-pos|pronoun|なんじ}}
+
+# {{lb|ja|archaic|sort=なんじ}} {{l|en|thou}}, {{l|en|you}}
+
+=====Usage notes=====
+No longer in use in modern Japanese outside of contexts where the speaker is deliberately invoking archaic usage.  Compare use of {{cog|en|thou}}.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|しか}}
+
+From {{inh|ja|ojp|sort=しか|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Compound of {{compound|lang=ja|sort=しか|し|tr1=shi|t1=that|pos1=demonstrative, likely related to {{m|ja|さ|tr=sa}}, modern {{m|ja|そう|tr=sō}}|か|tr2=ka|pos2=suffix indicating state}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+The {{l|en|interjection}} sense appears to have developed from the {{l|en|adverb}} sense.
+
+====Pronunciation====
+{{ja-pron|yomi=k|しか}}
+
+====Alternative forms====
+* {{ja-l|然}} {{qualifier|more common}}
+
+====Adverb====
+{{ja-pos|adverb|しか}}
+
+# {{lb|ja|sort=しか|obsolete}} like that, as such
+# {{lb|ja|sort=しか|obsolete}} {{l|en|certainly}}, {{l|en|definitely}}
+
+=====Derived terms=====
+* {{ja-r|然し|しかし|be that as it may, however}}
+
+====Interjection====
+{{ja-pos|interjection|しか}}
+
+# {{lb|ja|sort=しか|obsolete|conversational}} {{l|en|yeah}}, {{l|en|uh-huh}}
+
+===References===
+<references/>
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 爾]]
