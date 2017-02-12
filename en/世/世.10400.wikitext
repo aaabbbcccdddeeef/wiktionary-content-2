@@ -69,33 +69,40 @@
 {{ja-kanji|grade=3|rs=一04}}
 
 ====Readings====
-* {{ja-readings|goon=[[せ]] (se)|kanon=[[せい]] (sei)|kun=[[よ]] (yo)}}
+{{ja-readings
+|goon=[[せ]] (se)
+|kanon=[[せい]] (sei)
+|kun=[[よ]] (yo)
+|nanori=[[とし]] (toshi), [[ゆ]] (yu), [[ゆき]] (yuki)
+}}
 
 ====Compounds====
-* [[世界]] (せかい, sekai)
-* [[世紀]] (せいき, seiki)
-* [[世辞]] (せじ, seji)
-* [[永世]] (えいせい, eisei)
-* [[救世主]] (きゅうせいしゅ, kyūseishu)
-* [[創世記]] (そうせいき, sōseiki)
-* [[創世期]] (そうせいき, sōseiki)
-* [[新世界]] (しんせかい, shinsekai)
+{{der-top|Compounds}}
+* {{ja-r|世%界|せ%かい}}
+* {{ja-r|世%紀|せい%き}}
+* {{ja-r|世%辞|せ%じ}}
+* {{ja-r|永%世|えい%せい}}
+* {{ja-r|救%世%主|きゅう%せい%しゅ}}
+* {{ja-r|創%世%記|そう%せい%き}}
+* {{ja-r|創%世%期|そう%せい%き}}
+* {{ja-r|新%世%界|しん%せ%かい}}
+{{der-bottom}}
 
 ===Counter===
 {{ja-pos|せい|counter}}
 
-# [[generation]]s
+# {{l|en|generation}}s
 
 ===Noun===
 {{ja-noun|よ}}
 
-# [[world]], [[society]]
-# [[generation]], [[age]]
+# {{l|en|world}}, {{l|en|society}}
+# {{l|en|generation}}, {{l|en|age}}
 
 ===Suffix===
 {{ja-pos|せい|suffix}}
 
-# {{lb|ja|geology|sort=せい}} [[epoch]]
+# {{lb|ja|geology|sort=せい}} {{l|en|epoch}}
 
 [[Category:Han characters from which katakana were derived|セ]]
 
