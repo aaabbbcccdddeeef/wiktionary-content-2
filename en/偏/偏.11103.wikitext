@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=09|sn=11|four=23227|canj=OHSB,OISB|ids=⿰亻扁}}
 
-# [[inclined]] on one side
-# [[slanting]]
-
 ====References====
 * {{Han ref|kx=0110.160|dkj=00848|dj=0235.100|hdz=10195.100|uh=504F|ud=20559|bh=B0BE|bd=45246}}
 
@@ -29,18 +26,21 @@
 |w=
 |mc=y
 |oc=y
-|cat=
+|cat=a
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# [[inclined]] on one side
+# [[slanting]]
 
 ====Derived terms====
 * {{zh-l|偏頭痛}}
 * {{zh-l|偏見|bias}}
 * {{zh-l|偏偏}}
+
+{{zh-cat|Intermediate}}
 
 ----
 
@@ -58,6 +58,7 @@
 * {{ja-readings|on=[[へん]] (hen)|kun=[[かたよる]] ([[偏る]], katayoru), [[ひとえに]] ([[偏に]], hitoeni)}}
 
 ====Compounds====
+{{der-top}}
 * [[不偏]]
 * [[普偏]]
 * [[偏愛]]
@@ -95,6 +96,7 @@
 * [[偏旁]]
 * [[獣偏]]
 * [[人偏]]
+{{der-bottom}}
 
 ===Related terms===
 * [[偏降り]]
@@ -108,7 +110,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[편]]|rv=pyeon|mr=p'yŏn}}
+{{ko-hanja|hangeul=편}}
 
 # {{defn|lang=ko|sort=人09}}
 
