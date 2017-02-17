@@ -69,7 +69,7 @@ From {{inh|zh|sit-pro|*kləj||excrement}}.
 ===Kanji===
 {{ja-kanji|grade=|rs=尸06}}
 
-# [[excrement]], [[feces]], [[poop]]
+# {{l|en|excrement}}, {{l|en|feces}}, {{l|en|poop}}
 
 ====Readings====
 {{ja-readings
@@ -91,22 +91,26 @@ Cognate with {{m|ja|臭い|tr=kusai||stinky, smelly}}, {{m|ja|腐る|tr=kusaru||
 ====Noun====
 {{ja-noun|くそ}}
 
-# {{lb|ja|colloquial|sort=くそ}} [[feces]], [[excrement]]
+# {{lb|ja|colloquial|sort=くそ}} {{l|en|feces}}, {{l|en|excrement}}
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|屎っ垂れ|くそったれ}}: [[dingleberry]] {{qualifier|vulgar epithet}}
-* {{ja-r|目屎|めくそ}}: [[rheum]], [[eye]] [[mucus]]
+* {{ja-r|屎っ垂れ|くそったれ}}: {{l|en|dingleberry}} {{qualifier|vulgar epithet}}
+* {{ja-r|目屎|めくそ}}: {{l|en|rheum}}, {{l|en|eye}} {{l|en|mucus}}
 {{der-bottom}}
 
 =====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|屎にする|くそ に する}}: “to turn something into shit; to treat something as shit” → to make something worthless; to treat something as worthless
 * {{ja-r|屎の役にも立たぬ|くそ の やく に も たたぬ}}: “not even standing in the role of shit” → not even good for shit
-*:: (See {{ja-r|役に立つ|やく に たつ}}: “to be useful, to play a role”)
+*: (See {{ja-r|役に立つ|やく に たつ}}: “to be useful, to play a role”)
+* {{ja-r|屎も味噌も一緒|くそ も みそ も いっしょ}}: “both crap and miso together” → a situation where it is difficult to tell the good from the bad
+{{der-bottom}}
 
 ====Interjection====
 {{ja-pos|interjection|くそ}}
 
-# {{lb|ja|sort=くそ|expletive}} [[crap]], [[shit]], [[bullshit]], [[poop]]
+# {{lb|ja|sort=くそ|expletive}} {{l|en|crap}}, {{l|en|shit}}, {{l|en|bullshit}}, {{l|en|poop}}
 
 =====Usage notes=====
 This is not considered as profane as the English glosses. For instance, a child of five using the Japanese interjection ''kuso'' would be unremarkable, whereas it would be very socially inappropriate for a child of five to use the English interjection {{m|en|shit}}.
@@ -114,19 +118,19 @@ This is not considered as profane as the English glosses. For instance, a child 
 ====Prefix====
 {{ja-pos|prefix|くそ}}
 
-# {{non-gloss definition|A [[derogatory]] prefix.}}
+# {{non-gloss definition|A {{l|en|derogatory}} prefix.}}
 #: {{ja-usex|'''屎'''爺い|'''くそ'''じじい|'''crappy''' old man}}
 
 ====Suffix====
 {{ja-pos|suffix|くそ}}
 
-# {{non-gloss definition|A [[derogatory]] [[emphasis|emphasizing]] suffix.}}
+# {{non-gloss definition|A {{l|en|derogatory}} {{l|en|emphasis|emphasizing}} suffix.}}
 #: {{ja-usex|下手'''屎'''|へた'''くそ'''|'''crappy''' bad at something; to be '''shit''' at doing something}}
 #: {{ja-usex|襤褸'''屎'''|ぼろ'''くそ'''|broken down '''for shit''', raggedy-'''ass'''}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|ばば}}
-Appears to derive from [[baby talk]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare {{cog|en|poopoo}}.
+Appears to derive from {{l|en|baby talk}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare {{cog|en|poopoo}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ばば|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
@@ -137,14 +141,13 @@ Appears to derive from [[baby talk]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 ====Noun====
 {{ja-noun|ばば}}
 
-# {{qualifier|children's word}}: [[poopoo]], [[poop]], [[dookie]]
-# {{qualifier|children's word}}: something [[unclean]]
+# {{qualifier|children's word}}: {{l|en|poopoo}}, {{l|en|poop}}, {{l|en|dookie}}
+# {{qualifier|children's word}}: something {{l|en|unclean}}
 
 =====Idioms=====
-* {{l|ja|猫屎|猫'''屎'''}}{{l|ja|する}}
-*: [[ねこばば|ねこ'''ばば''']][[する]]
-*: neko'''baba''' suru
-*:: to [[sweep something under the rug]]: to hide a problem without actually dealing with it {{qualifier|from how a cat will bury its poop}}
+{{der-top|Idioms}}
+* {{ja-r|猫屎する|ねこばばする}}: to {{l|en|sweep something under the rug}} → to hide a problem without actually dealing with it {{qualifier|from how a cat will bury its poop}}
+{{der-bottom}}
 
 ===References===
 <references/>
