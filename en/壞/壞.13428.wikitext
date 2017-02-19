@@ -3,10 +3,6 @@
 ==Translingual==
 {{Han simplified forms|壞|壊|坏}}
 
-===Glyph origin===
-{{Han etym}}
-{{Han compound|土|褱|c1=s|c2=p|t1=earth|ls=psc}}.
-
 ===Han character===
 {{Han char|rn=32|rad=土|as=16|sn=19|four=44132|canj=GYWV|ids=⿰土褱}}
 
@@ -16,20 +12,22 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=坏}}
+{{zh-forms|s=坏|alt=坯}}
 
-===Alternative forms===
-* {{zh-l|坯}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|褱|c1=s|c2=p|t1=earth|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
-|m=huài|ma=zh-huài.ogg
+|m=huài
 |c=waai6
 |h=pfs=fái
 |mn=hāi
 |w=3hhua
 |mc=y
 |oc=y
+|ma=zh-huài.ogg
 |cat=a,v
 }}
 
@@ -38,9 +36,12 @@
 
 # [[bad]]
 # [[rotten]]; [[spoiled]]
+#: {{rfex|zh}}
 # to [[spoil]]; to [[go rotten]]
 # [[broken]] {{gloss|non-functional}}
 # to [[break]]; to [[stop]] [[working]]
+#: {{zh-x|很 容易 壞|breaks very easily}}
+#: {{zh-x|到 而家 都 仲 未 壞，真係 犀利。|It's amazing, it hasn't broken.}}
 # to [[ruin]]; to [[destroy]]
 
 ====Compounds====
