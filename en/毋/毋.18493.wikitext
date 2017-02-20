@@ -3,18 +3,9 @@
 ==Translingual==
 {{stroke order|type=animate}}
 
-===Etymology===
-{{Han etyl}}
-{{Han simp|母|f=⺀|t=丿}}, replacing the two dots with one stroke.
-
-Compare [[黒]] (from [[黑]]).
-
 ===Han character===
 {{Han char|rn=80|rad=毋|as=00|sn=4|four=77500|canj=WJ}}
 
-# do not
-# [[not]]
-# {{surname|lang=zh}}
 # {{mul-kangxi radical-def}}
 
 ====References====
@@ -23,38 +14,74 @@ Compare [[黒]] (from [[黑]]).
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+In the oracle bone script, {{zh-l|*母|mother}} was borrowed to represent this character. It was later specialized to distinguish it from “mother”, replacing the two dots with one stroke. Compare {{zh-l|*黒}} (from {{zh-l|*黑}}).
+
+===Etymology 1===
 {{zh-forms}}
+{{rfe|zh|related to 無?}}
 
-===Alternative forms===
-* {{qual|Min Nan}}: {{zh-l|不|tr=m̄}}, {{zh-l|呣|tr=m̄}}, {{zh-l|唔|tr=m̄}}, {{zh-l|伓|tr=m̄}}
-
-===Pronunciation===
-{{theaji|m̄}}
-
+====Pronunciation====
 {{zh-pron
 |m=wú
 |c=mou4
-|h=pfs=mù/m̀
-|mn=m̄
+|h=pfs=mù
+|mn=bû
 |w=
 |mc=y
 |oc=y
-|cat=v,adv,n
+|cat=adv,v,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Classical Chinese}} [[do not]]
-#: {{zh-x|宜 未 雨 而 綢繆，毋 臨 渴 而 掘 井。|[One] should, [when it is] not yet raining, bind tightly [the window]. [One] should not [wait] until [one is] thirsty [to] dig [a] well.<br />(Literally: One should prepare before it is too late, see {{zh-l|未雨綢繆}} and {{zh-l|臨渴掘井}}.)|ref=[[:zh:w:朱柏廬治家格言|'''Zhūzǐ Jiāxùn''': the familial rules of Zhuzi]] ([[:zh:s:朱子家訓|full text here]])|CL}}
+# {{lb|zh|literary}} [[do not]]
+#: {{zh-x|宜 未 雨 而 綢繆，毋 臨 渴 而 掘 井。|It is proper to bind [the window] tightly when it is not yet raining. Do not dig a well when you are about to be thirsty. (I.e., one should prepare before it is too late. See {{zh-l|未雨綢繆}} and {{zh-l|臨渴掘井}}.)|ref={{w2|zh|朱柏廬治家格言|朱子家訓}} ([[s:zh:朱子家訓|The Familial Rules of Zhuzi]])|CL}}
+# {{lb|zh|literary}} [[not]]
+# {{lb|zh|literary}} {{zh-alt-form|無|to not have}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|將毋|四毋|巨毋霸|寧缺毋濫|少安毋躁|毋翼而飛|毋望之禍|毋枉毋縱|毋乃|毋望之福|毋須|毋忘在莒|毋庸|毋得|毋庸置疑|毋寧}}
+
+===Etymology 2===
+{{zh-forms|alt=不,伓,呣,唔}}
+{{rfe|zh|Norman relates this to 未, but Schuessler relates this to 無}}
+
+====Pronunciation====
+{{zh-pron
+|mn=m̄
+|cat=adv
+}}
+{{attention|zh|kind of tempted to put Teochew here as well, but that might be too prescriptive}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{lb|zh|Min Nan}} [[not]]
 #: {{zh-x|我 毋 捌字。|I'm illiterate (literally: I '''don't''' know characters)|MN}}
 
 ====References====
-* (''Min Nan'') {{thcwd|818|毋}}
+* {{q|Min Nan}} {{thcwd|818|毋}}
 
-===Compounds===
-{{zh-der|將毋|四毋|巨毋霸|寧缺毋濫|少安毋躁|毋翼而飛|毋望之禍|毋枉毋縱|毋乃|毋望之福|毋須|毋忘在莒|毋庸|毋得|毋庸置疑|毋寧}}
+===Etymology 3===
+{{zh-forms|alt=唔}}
+From {{och-l|無|to not have}}. Cognate with {{cog|yue|唔|tr=m<sup>4</sup>}}.
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=m̀
+|cat=adv
+}}
+{{attention|zh|kind of tempted to put Meizhou dialect here as well, but that might be too prescriptive}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hakka}} [[not]]
 
 ----
 
