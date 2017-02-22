@@ -56,15 +56,56 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=瓜00}}
 
-# {{defn|lang=ja|sort=瓜00}}
+# {{l|en|gourd}}, {{l|en|squash}}, {{l|en|melon}}
 
 ====Readings====
-* {{ja-readings|on=[[か]] (ka)|kun=[[うり]] (uri)}}
+{{ja-readings
+|goon=[[け]] (ke), {{qualifier|historical}} [[くゑ]] (kwe)
+|kanon=[[か]] (ka), {{qualifier|historical}} [[くわ]] (kwa)
+|kun=[[うり]] (uri)
+}}
 
 ====Compounds====
-* {{ja-l|胡瓜|きゅうり|kyūri}}: cucumber
-* {{ja-l|西瓜|すいか|suika}}: watermelon
-* {{ja-l|南瓜|かぼちゃ|kabocha}}: a Japanese pumpkin
+{{der-top|Compounds}}
+* {{ja-r|胡瓜|きゅうり}}: cucumber
+* {{ja-r|西瓜|すいか}}: watermelon
+* {{ja-r|南瓜|かぼちゃ}}: a Japanese pumpkin
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Gourd}}
+{{wikipedia|Cucurbita|Squash}}
+{{wikipedia|Melon}}
+</div>
+{{ja-kanjitab|yomi=k|うり}}
+
+From {{inh|ja|ojp|-}}.  Found in the ''{{w|Man'yōshū}}'', compiled some time after 759 CE.
+
+Possibly derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|熟る|tr=uru||to ripen}}, modern form {{m|ja|熟れる|tr=ureru}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|うり|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|うり|ウリ}}
+
+# {{l|en|gourd}}, {{l|en|squash}}, {{l|en|melon}}
+
+====Usage notes====
+{{U:ja:biology|ウリ}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|瓜の蔓には茄子はならぬ|うり の つる に は なすび は ならぬ}}: “an eggplant won't grow on a gourd vine” → {{l|en|like father, like son}}, or the {{l|en|apple does not fall far from the tree}}
+* {{ja-r|瓜を二つに割ったよう|うり を ふたつ に わった よう}}, {{ja-r|瓜を二つに割りたる如し|うり を ふたつ に わりたる ごとし}}: “like a gourd split in two” → {{l|en|like two peas in a pod}}
+* {{ja-r|瓜二つ|うり ふたつ}}: “two gourds” → {{l|en|like two peas in a pod}}
+* {{ja-r|瓜を二つに割らずそのまま|うり を ふたつ に わらず その まま}}: “like a gourd that hasn't even been split in two” → {{l|en|like two peas in a pod}}, more emphatically
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
