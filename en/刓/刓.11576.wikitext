@@ -12,12 +12,35 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[jyun4]]|y=yun4}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=刀04}}
+===Pronunciation===
+{{zh-pron
+|m=wán
+|c=jyun4
+|mn=gôan
+|mn-t=nguang5/nguêng5
+|mn-t_note=nguêng5 - Chaozhou
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刓團|刓方為圓}}
+
+===References===
+* {{R:twedu|B00217}}
+* {{R:yue:mfccd}}
 
 ----
 
@@ -39,15 +62,6 @@
 {{ko-hanja|hangeul=완|rv=wan|mr=wan}}
 
 # to [[trim]]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[wán]] ([[wan2]])|wg=wan<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=刀04}}
 
 [[fr:刓]]
 [[hu:刓]]
