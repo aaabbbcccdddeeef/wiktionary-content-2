@@ -37,16 +37,19 @@
 {{zh-pron
 |m=fēn,er=y
 |c=fan1
-|h=pfs=fûn/pûn
+|h=pfs=pûn/fûn
+|h_note=pûn - vernacular (“to divide; to separate; to distribute; to give; by”); fûn - literary
 |md=buŏng/hŭng
 |md_note=buŏng - vernacular; hŭng - literary
 |mn=pun/hun
 |mn_note=pun - vernacular; hun - literary
+|mn-t=bung1/hung1
+|mn-t_note=bung1 - vernacular; hung1 - literary
 |w=1fen
 |mc=1
 |oc=1
 |ma=y
-|cat=v,n,num
+|cat=v,h:prep,n,num
 }}
 
 ====Definitons====
@@ -62,6 +65,9 @@
 #* {{zh-x|我 分 不 清 他們。他們 長 得 太 像 了。|I cannot '''tell them apart'''. They are very much alike.}}
 #* {{zh-x|他 是 一 個 懦夫，一 個 分 不 清 蠻力 和 大丈夫 氣概 的 恃強凌弱 者。|He's a coward and a bully who confuses physical strength with manhood.}}
 # {{zh-short|分手|to break up}}
+# {{lb|zh|Hakka|Teochew}} to [[give]]
+# {{lb|zh|Hakka|Teochew}} [[by]]
+#* {{zh-x|分{pûn} 人 罵|to be scolded ('''by''' people)|H}}
 # [[minute]] {{gloss|unit of time}}
 #: {{zh-x|分鐘|minute}}
 #* {{zh-x|現在 是 7 點 45 分。|It's quarter to eight now.}}
@@ -72,10 +78,16 @@
 #* {{zh-x|本題 佔 五-十 分。|This question counts for 50 '''points'''.}}
 #* {{zh-x|我 得 了 多少{shǎo} 分？|What's my '''score'''?}}
 # one [[tenth]]
-# {{lb|zh|currency}} 0.01 [[yuan]]; [[cent]]
-# {{lb|zh|Hong Kong}} [[fan]], a traditional unit of length, legally defined as 0.1 [[tsun]] ([[寸]]) or 0.00371475 [[metre]]s ([[米]])
+# {{lb|zh|currency}} 0.01 [[yuan]] (or [[dollar]], etc.); [[cent]]
+# one tenth of a {{zh-l|*寸}} {{gloss|a unit of length}}
+## {{lb|zh|Hong Kong}} [[fan]], legally defined as  0.00371475 [[metre]]s
+## {{lb|zh|Mainland}} {{zh-abbrev|市分|dot=,}} equivalent to 0.33 cm
+# one tenth of a {{zh-l|*畝}} {{gloss|a unit of area}}
 # {{lb|zh|historical}} an ancient small unit of time
-# {{zh-abbrev|市分|dot=:}} a unit of length equivalent to 0.33 cm
+
+=====Synonyms=====
+{{zh-dial|給}}
+{{zh-dial|被}}
 
 =====See also=====
 * {{sense|unit of length}} {{zh-l|丈}}, {{zh-l|尺}}, {{zh-l|寸}}
