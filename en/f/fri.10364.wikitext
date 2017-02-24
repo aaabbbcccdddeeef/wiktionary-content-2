@@ -31,7 +31,7 @@ Cognate with Cornish {{m|kw|frig||nostril}}; perhaps related to {{der|br|cel-pro
 * {{rhymes|i|lang=da}}
 
 ===Etymology 1===
-From {{der|da|gml|vrīen||to marry}}.
+From {{etyl|gml|da}} {{m|gml|vrīen||to marry}}.
 
 ====Verb====
 {{head|da|verb|imperative|fri|present|frier|or|frir|past|friede|past participle|friet}}
@@ -43,7 +43,7 @@ From {{der|da|gml|vrīen||to marry}}.
 * {{l|da|frieri||proposal}}
 
 ===Etymology 2===
-From {{der|da|gml|vrī}}.
+From {{etyl|gml|da}} {{m|gml|vrī}}.
 
 ====Adjective====
 {{da-adj|frit|frie|friere|friest}}
@@ -56,7 +56,7 @@ From {{der|da|gml|vrī}}.
 * {{l|da|ufri||constrained, inhibited, not free}}
 
 ===Etymology 3===
-From {{der|da|gml|vrīen||to free}}.
+From {{etyl|gml|da}} {{m|gml|vrīen||to free}}.
 
 ====Verb====
 {{head|da|verb|imperative|fri|present|frier|or|frir|past|friede|past participle|friet}}
@@ -89,7 +89,7 @@ From {{der|da|gml|vrīen||to free}}.
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{der|nb|gml|vrī}}. Cognates include Danish {{m|da|fri}}, Swedish {{m|sv|fri}}, German {{m|de|frei}}, Dutch {{m|nl|vrei}}, English {{m|en|free}}, and Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}
+From {{etyl|gml|nb}} {{m|gml|vrī}}. Cognates include Danish {{m|da|fri}}, Swedish {{m|sv|fri}}, German {{m|de|frei}}, Dutch {{m|nl|vrei}}, English {{m|en|free}}, and Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}
 
 ===Pronunciation===
 * {{IPA|/fɾiː/|lang=nb}}
@@ -189,7 +189,7 @@ From {{der|nn|gml|vrī}}
 ==Old Frisian==
 
 ===Etymology===
-From {{inh|ofs|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{m|osx|frī}}, Old English {{m|ang|frēo}}. Ultimately from {{der|ofs|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
+From {{inh|ofs|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{m|osx|frī}}, Old English {{m|ang|frēo}}. Ultimately from {{etyl|ine-pro|ofs}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
 
 ===Adjective===
 {{head|ofs|adjective}}
@@ -204,7 +204,7 @@ From {{inh|ofs|gem-pro|*frijaz}}, whence also Old Saxon and Old High German {{m|
 ==Old High German==
 
 ===Etymology===
-From {{inh|goh|gem-pro|*frijaz}}, whence also Old Saxon {{m|osx|frī}}, Old English {{m|ang|frēo}}, Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}. Ultimately from {{der|goh|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
+From {{inh|goh|gem-pro|*frijaz}}, whence also Old Saxon {{m|osx|frī}}, Old English {{m|ang|frēo}}, Gothic {{m|got|𐍆𐍂𐌴𐌹𐍃}}. Ultimately from {{etyl|ine-pro|goh}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
 
 ===Adjective===
 {{head|goh|adjective|head=frī}}
@@ -256,7 +256,7 @@ From {{inh|sga|cel-pro|*writ-}} (compare Welsh {{m|cy|wrth}}, prefix {{m|cy|gwrt
 ==Old Saxon==
 
 ===Etymology===
-From {{inh|osx|gem-pro|*frijaz}}, whence also Old English {{m|ang|frēo}}. Ultimately from {{der|osx|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
+From {{inh|osx|gem-pro|*frijaz}}, whence also Old English {{m|ang|frēo}}. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*prei-||to be fond of}}, {{m|ine-pro|*prey-}}.
 
 ===Adjective===
 {{osx-adj|head=frī|frīoro|frīost}}
