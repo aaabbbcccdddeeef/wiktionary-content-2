@@ -1,9 +1,19 @@
 {{character info/new}}
+{{character info/new|0xfa37}}
+{{character info/new|0x2f84c}}
 {{also|叹|歎}}
+
 ==Translingual==
+{{ja-forms|嘆|[[叹]]|嘆}}
+
+===Alternative forms===
+Note that in traditional Chinese, the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] for this character is written with [[廿]] on top while in Japanese [[wikipedia:Shinjitai|shinjitai]], the component [[File:U26c29.svg|25px|text-bottom|𦰩|link=𦰩]] is written with [[艹]] on top and has one stroke less. In simplified Chinese, the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] is simplified to [[又]] instead.
+
+===Usage notes===
+In [[wikipedia:Classical Chinese|classical Chinese]], this character is used [[interchangeably]] with [[歎]] to express a [[sigh]] or [[lament]].
 
 ===Han character===
-{{Han char|rn=30|rad=口|as=11|sn=14|four=64034|canj=RTLO|ids=⿰口𦰩}}
+{{Han char|rn=30|rad=口|as=11|asj=10|sn=14|snj=13|four=64034|canj=RTLO|ids=⿰口𦰩(GHTKV),⿰口⿱艹⿻口夫(J)}}
 
 # [[sigh]], [[admire]]
 # [[chant]]
@@ -43,7 +53,7 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=口11}}
+{{ja-kanji|grade=c|rs=口11|style=s|kyu=嘆}} <!-- Kyūjitai form is encoded as U+FA37 (Compatibility Ideograph) -->
 
 # [[sigh]]
 # [[lament]]
