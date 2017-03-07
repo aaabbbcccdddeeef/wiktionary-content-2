@@ -20,19 +20,15 @@ Belongs to the *''m-'' series of negatives; see {{och-l|無|no}} for more. Cogna
 |c=m4,ng4
 |c_note=ng4 - hypercorrection
 |mn-t=m6
-|cat=part
+|cat=adv
 }}
 
 ====Definitions====
-{{zh-hanzi}} {{tlb|zh|Cantonese|Teochew}}
+{{zh-hanzi}}
 
-# {{n-g|Particle placed before a verb or adjective to make it negative.}}
-#: {{zh-x|唔好意思，我 唔 記得。|Sorry, I do'''n't''' remember.|C-GZ}}
+# {{lb|zh|Cantonese|Teochew}} [[not]] {{gloss|negator}}
+#: {{zh-x|唔好意思，我 '''唔''' 記得。|Sorry, I do'''n't''' remember.|C-GZ}}
 #: {{zh-x|你 知 唔 知道 游水池 喺 邊度{dou6} 呀？|Do you know where the swimming pool is?|C-GZ}}
-# {{n-g|Particle of hesitation or thinking.}}
-#: {{zh-x|唔……不如 去 嗰 間 餐廳 吖！|'''Well'''... let's go to that restaurant!|C-GZ}}
-# {{n-g|Particle of agreement.}}
-#: {{zh-x|「噉樣{joeng6-2} 得 唔 得 呀？」「唔。」|"Is this OK?" "'''Uh-huh'''."|C-GZ}}
 
 ====Synonyms====
 {{zh-dial|不}}
@@ -45,14 +41,34 @@ Belongs to the *''m-'' series of negatives; see {{och-l|無|no}} for more. Cogna
 
 ====Pronunciation====
 {{zh-pron
-|m=wú
+|m=ńg,ń,wú
+|c=m4
 |cat=intj
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{n-g|An expression of permission or surprise}}; [[hmm]]
+# {{n-g|Used to express agreement or permission:}} [[mhm]]; [[uh-huh]]
+#: {{zh-x|「噉樣{joeng6-2} 得 唔 得 呀？」「唔。」|"Is this OK?" "'''Uh-huh'''."|C}}
+# {{n-g|Used to express surprise.}}
+# {{zh-alt-form|嗯|dot=:}} {{n-g|Used to express doubt.}}
+# {{lb|zh|Cantonese}} {{n-g|Used to express hesitation or thinking:}} [[hmm]]
+#: {{zh-x|唔……不如 去 嗰 間 餐廳 吖！|'''Hmm'''... let's go to that restaurant!|C}}
+
+===Etymology 3===
+{{onomatopoeic}}.
+
+====Pronunciation====
+{{zh-pron
+|m=wú
+|c=ng4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{zh-only|咿唔|sound of recitation}}
 
 ===References===
