@@ -1,5 +1,7 @@
 {{character info/new}}
+{{character info/new|0x2f814}}
 {{also|内}}
+
 ==Translingual==
 
 ===Han character===
@@ -76,12 +78,15 @@ Related to {{och-l|入|to enter}}; see there for more.
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=入02|style=ky|shin=内}}
+{{ja-kanji|grade=|rs=入02}}
 
 # {{defn|lang=ja|sort=入02}}
 
 ====Readings====
 {{ja-readings|goon=[[ない]] (nai)|kanon=[[だい]] (dai)|kun=[[うち]] (uchi), [[いる]] (iru), [[いれる]] (ireru)}}
+
+====Usage notes====
+This character is not used in Japanese and lacks JIS support. Tha variant {{l-ja|内}} (U+5185) is used instead.
 
 ----
 
