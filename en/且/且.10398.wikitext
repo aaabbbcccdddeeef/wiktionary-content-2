@@ -1,25 +1,9 @@
 {{character info/new}}
 {{also|旦|目|自}}
-
 ==Translingual==
-
-===Etymology===
-{{Han etyl}}
-{{liushu|p}}: multiple interpretations: a stonen altar or an erect penis. Original form of [[祖]].
-
-===References===
-* {{cite-web
-|url=http://www.hanziyuan.com/result.php?zi=且
-|title=且
-|work=字源
-|language=Mandarin
-|accessdate=2014-02-24}}
 
 ===Han character===
 {{Han char|rn=1|rad=一|as=04|sn=5|four=77100|canj=BM|ids=⿴𠀃𠄠}}
-
-# [[moreover]], [[also]] (post-subject)
-# [[about to]], [[will]] [[soon]] (pre-verb)
 
 ====Derived characters====
 * [[祖]] [[姐]] [[阻]] [[狙]] [[租]] [[粗]] [[組]] ([[组]]) [[宜]] [[助]]
@@ -30,43 +14,95 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𠀇,𠀃}}
 
-===Alternative forms===
-* {{zh-l|𠀃}}
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}}. Multiple interpretations:
+* A chopping block for meat, as viewed from above; original form of {{och-l|俎}};
+* A stone altar, thus the original form of {{och-l|祖}};
+* An erect penis.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=qiě
-|c=ce2,cou4,zeoi1,ceoi2,ceoi1
-|h=
+|c=ce2
+|h=pfs=chiá
+|md=chiā
 |mn=chhiáⁿ/xm,zz:chhiá
-|w=
-|mc=y
-|oc=y
+|w=2qia,2qi
+|w_note=2qia - vernacular; 2qi - literary
+|mc=2
+|oc=2,1
 |ma=Zh-qie.ogg
-|cat=adv,v
+|cat=pron,adv,conj,part,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[and]], [[moreover]]
-#: {{zh-l|而且}}
-# [[and]] (both ... and ...)
-#: {{zh-x|他 的 演講 簡短 且 切中{zhòng} 要害。|His speech was short '''and''' to the point.}}
-# [[for the time being]]
+# [[this]]
+# [[almost]]; [[nearly]]
+# [[be]] [[going]] to; [[will]]; [[shall]]
+# [[just]]; [[for the time being]]
+# [[even]] (''placed after a hypothetical extreme scenario for emphasis'')
+# {{lb|zh|dialectal}} for a [[long]] [[time]]
+# '''[[and]]; [[also]]''' (''for juxtaposition'')
+#: {{zh-x|而且|and; but also}}
+#* {{zh-x|他 的 演講 簡短 且 切中{zhòng} 要害。|His speech was short '''and''' to the point.}}
+# [[both]] ... [[and]] ...
+# [[or]] (''to list alternatives'')
+# [[moreover]] (''to indicate progression'')
+# [[if]]; [[assuming]] (''to indicate hypotheticality'')
+# {{n-g|[[sentence]]-[[initial]] or sentence-[[medial]] [[modal]] [[particle]]}}
+# {{surname|lang=zh}}
 
-=====Compounds=====
-* {{zh-l|而且}}
+====Compounds====
+{{zh-der|fold=1|而且|得過且過|且夫|且見|尚且|且行且談|且住|且是|急且|且自|且戰且走|姑且|且說|且要|因循苟且|且道|且如|且則|且歌且舞|並且|不苟且|且慢|故且|權且|暫且擱下|抑且|暫且|況且|更且|甚且|死且不朽|窮且益堅|敢且|方且|苟且唐塞|苟且偷安|苟且偷生|聊且|苟且自度|載歌且舞|苟且}}
 
-====References====
-* {{R:cedict}}
-* {{cite-web
-|url=http://tatoeba.org/eng/sentences/search?query=且&from=cmn&to=und
-|title=Sentences with 且
-|work=Tatoeba
-|accessdate=2014-03-11}}
+===Pronunciation 2===
+{{zh-pron
+|m=jū
+|c=zeoi1,ceoi2
+|mc=2
+|oc=1,2
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|俎|[[chopping]] [[board]]}}
+# [[many]]; [[numerous]]; [[flourishing]]
+# [[sixth]] [[month]] in the [[lunar]] [[calendar]]
+# {{n-g|[[sentence]]-[[final]] [[modal]] [[particle]]}}
+# {{zh-alt-form|駔|[[steed]]}}
+
+====Compounds====
+{{zh-der|fold=1|且月|狂且|猼且|鉗且}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=cú
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|徂|to [[go]] to}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=jū
+|c=ceoi1,cou4
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|次且|[[hesitant]] in [[walking]]}}
 
 ----
 
