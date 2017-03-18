@@ -9,7 +9,7 @@
 {{ady-adv}}
 
 # [[or]]
-#: {{lang|ady|кӏо '''е''' чъэ}} — Go '''or''' run.
+#: {{ux|ady|кӏо '''е''' чъэ|Go '''or''' run|inline=y}}
 
 ----
 
@@ -24,12 +24,12 @@
 ===Letter===
 {{head|bg|letter|lower case||upper case|Е}}
 
-# The sixth letter of the Bulgarian [[Cyrillic]] alphabet. Its name is '''е''' /{{IPAchar|ɛ}}/ and it has the sound of '''e''' in ''n'''e'''t''. It is preceded by [[д|Д]] and followed by [[ж|Ж]].
+# The sixth letter of the Bulgarian [[Cyrillic]] alphabet. Its name is '''е''' {{IPAchar|/ɛ/}} and it has the sound of '''e''' in ''n'''e'''t''. It is preceded by [[д|Д]] and followed by [[ж|Ж]].
 
 ====See also====
 * {{l|bg|ѣ|Ѣ, ѣ}}
 * [[w:Cyrillic alphabet|Wikipedia article on the Cyrillic alphabet]]
-* Search '''en.wiktionary.org''' for articles beginning with: '''[http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%95&namespace=0 Е], [http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%B5&namespace=0 е]'''
+* Search ''en.wiktionary.org'' for articles beginning with: '''[http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%95&namespace=0 Е], [http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%B5&namespace=0 е]'''
 
 ===Verb===
 {{bg-verb-form|съм|e}}
@@ -40,10 +40,10 @@
 {{head|bg|interjection|tr=e|sc=Cyrl}}
 
 # ''used to express indignation, dissatisfaction, irritation, annoyance''
-#: '''''Е''', прекаляваш! - You've crossed the line!''
-#: '''''Е''', то бива, бива, ама... - Really, that’s the limit.''
-# ''used to express surprise'', [[well#Interjection|well]], [[really#Interjection|really]]
-#: '''''Е'''! Чухте ли я какво каза! - Did you hear what she said!''
+#: {{ux|bg|'''Е''', прекаляваш!|You've crossed the line!|inline=y}}
+#: {{ux|bg|'''Е''', то бива, бива, ама...|Really, that's the limit...|inline=y}}
+# ''used to express surprise'', [[well]], [[really]]
+#: {{ux|bg|'''Е'''! Чухте ли я какво каза!|Did you hear what she said!|inline=y}}
 
 ===Particle===
 {{head|bg|particle|tr=e|sc=Cyrl}}
