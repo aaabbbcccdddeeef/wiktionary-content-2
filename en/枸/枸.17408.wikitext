@@ -11,28 +11,88 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=构}}
 
 ===Glyph origin===
 {{Han etyl}}
 {{Han compound|木|句|ls=psc|c1=s|c2=p}}.
 
-===Pronunciation===
+===Etymology===
+; “bent; crooked”
+: Cognate with {{och-l|句|hook|id=1}}, {{och-l|鉤|to hook}}.
+{{etystub|zh}}
+
+===Pronunciation 1===
 {{zh-pron
-|m=gǒu,jǔ,gōu,qú
-|c=gau2,geoi2
-|mc=y
-|oc=y
+|m=gǒu
+|c=gau2
+|h=pfs=kiéu
+|mn=xm,zz,tw:kó͘/qz:kió
+|mc=3
+|oc=n,2
 |cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|枸杞||枸骨}}
+
+====Compounds====
+{{zh-der|枸杞|枸杞子|枸杞茶|枸骨|枸棘|枸槽子}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jǔ
+|c=geoi2
+|h=pfs=kiéu
+|mn=xm,qz:kú/zz:kí
+|mc=2
+|oc=1,3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{taxlink|Hovenia|genus}} {{gloss|probably {{taxlink|Hovenia acerba|species}}}}
+#* {{zh-x|南 山 有 枸{jǔ}，北 山 有 楰。|On the hills of the south is the '''''Hovenia''''';<br>On those of the north is the ''yú''.|ref=Shijing}} {{attn|zh|what's 楰?}}
+# {{†}} {{zh-alt-form|蒟|[[betel]]; ''[[Piper betle]]''}}
+
+====Compounds====
+{{zh-der|枸櫞|枸醬|枸櫞酸|枳枸|枸那}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=gōu
+|c=gau1
+|mn=xm,zz:ko͘/qz:kio
+|mc=1
+|oc=n,1
+|cat=a,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[crooked]]; [[bent]]
+#* {{zh-x|故 枸{gōu} 木 必 將 待 檃栝{kuò} 烝 矯 然後 直。|{{t-needed|zh}}|ref=Xunzi}}
+# {{†}} [[intertwined]] [[root]]s
+#* {{zh-x|有 九 欘，下 有 九 枸{gōu}。|There are nine bending branches, and below are nine intertwined roots.|ref=Shanhaijing}}
+
+====Compounds====
+{{zh-der|枸橘|枸桹|枸肆|枸肆語}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=qú
+|cat=
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# kind of [[aspen]] found in [[Sichuan]] ({{taxlink|Hovenia dulcis|species}})
-
-===Compounds===
-{{zh-der|枸杞|枸杞子|枸骨|枸櫞|枸醬|枸櫞酸}}
+# {{rfdef|zh}}
 
 ----
 
