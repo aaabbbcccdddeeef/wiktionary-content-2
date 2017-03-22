@@ -96,68 +96,69 @@ In isolation, the character {{lang|ja|母}} has 5 strokes in modern Japanese –
 * {{ja-l|嚊}}, {{ja-l|嬶}}
 
 ===Etymology 1===
-{{etyl|ojp|ja|sort=はは}}. {{IPAchar|/haha/}}: {{IPAchar|*/papa/}} > {{IPAchar|/fafa/}} > {{IPAchar|/fawa/}} > {{IPAchar|/fafa/}} > {{IPAchar|/haha/}}
+{{ja-kanjitab|yomi=k|はは}}
 
-Medial {{IPAchar|/-f/ [ɸ]}} regularly changes to {{IPAchar|/w/ [ɰᵝ]}}, resulting in {{IPAchar|/fawa/}} > {{IPAchar|/hawa/}}, the expected final form; see ''hawa'' below. This form first appears in the [[w:Heian period|Heian period]]. However, likely due to spelling influence or reduplication associations, the earlier {{IPAchar|/fafa/}} resurfaced in the late 16th century towards the end of the [[w:Muromachi period|Muromachi period]], with both forms seen until recent times, when ''hawa'' falls into disuse.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Initial {{IPAchar|/f-/ [ɸ]}} regularly becomes {{IPAchar|[h]|}}, resulting in modern {{IPAchar|[ha̠ha̠]}}.
+{{inh|ja|ojp|sort=はは|-}}. {{IPAchar|/haha/}}: {{IPAchar|*/papa/}} → {{IPAchar|/fafa/}} → {{IPAchar|/fawa/}} → {{IPAchar|/fafa/}} → {{IPAchar|/haha/}}
+
+Medial {{IPAchar|/-f/ [ɸ]}} regularly changes to {{IPAchar|/w/ [ɰᵝ]}}, resulting in {{IPAchar|/fawa/}} → {{IPAchar|/hawa/}}, the expected final form; see ''hawa'' below. This form first appears in the {{w|Heian period}}. However, likely due to spelling influence or reduplication associations, the earlier {{IPAchar|/fafa/}} resurfaced in the late 16th century towards the end of the {{w|Muromachi period}}, with both forms seen until recent times, when ''hawa'' falls into disuse.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Initial {{IPAchar|/f-/ [ɸ]}} regularly becomes {{IPAchar|[h]|}}, resulting in modern {{IPAchar|[ha̠ha̠]}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|a|は|は}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[ha̠ha̠]}}
+{{ja-pron|yomi=k|はは|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|はは}}
 
-# {{qualifier|humble}} [[mother]]
+# {{qualifier|humble}} {{l|en|mother}}
 #* {{RQ:Wamyō Ruijushō|1|116}}
 #*: 母 尔雅云、母爲妣、卑履反、去聲之重、和名'''波々'''、日本紀私記云、以路波
 #* {{RQ:Nippo Jisho|196}}
 #*: '''Fafa'''. l, faua. ハハ. または、ハワ(母) 母.
 
 =====Usage notes=====
-Only ever used to refer to one's own mother when speaking to someone else. Still widely used in modern {{etyl|ja|-}}.
+Only ever used to refer to one's own mother when speaking to someone else. Still widely used in modern {{cog|ja|-}}.
 
 =====Antonyms=====
-* {{ja-l|父|ちち|chichi}}: [[father]]
+* {{ja-l|父|ちち|chichi}}: {{l|en|father}}
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|母上|ははうえ|hahaue}}: [[mother]] {{qualifier|when addressing one's own mother}}
-* {{ja-l|母親|ははおや|hahaoya}}: a [[mother]]
-* {{ja-l|母方|ははかた|hahakata}}: a [[relative]] on one's [[mother]]'s [[side]]
-* {{ja-l|母君|ははぎみ|hahagimi}}: [[mother]] {{qualifier|when addressing one's own mother; more honorific than ''hahaue''}}
-* {{ja-l|母子|ははこ|hahako}}: [[mother]] and [[child]]
-* {{ja-l|母御|ははご|hahago}}: [[mother]] {{qualifier|when addressing someone else's mother}}
-* {{ja-l|母御前|ははごぜん|hahagozen}}: [[mother]] {{qualifier|when addressing someone else's mother}}
-* {{ja-l|母島|ははじま|Hahajima}}: the [[main]] [[island]] of the [[w:Bonin Islands|Ogasawara Islands]]
-* {{ja-l|母者|ははじゃ|hahaja}}: a person who is a [[mother]]: a [[term of endearment]]
-* {{ja-l|母者人|ははじゃひと|hahaja hito}}: a person who is a [[mother]]: a [[term of endearment]]
-* {{ja-l|母刀自|ははとじ|hahatoji}}: [[mother]] {{qualifier|honorific}}
-* {{ja-l|母の日|ははのひ|Haha no Hi}}: [[Mother's Day]]
-* {{ja-l|母御息所|ははみやすどころ|haha miyasudokoro}}: an [[imperial]] [[concubine]] or other [[female]] member of the imperial [[household]] who is also a [[mother]]
-* {{ja-l|母物|ははもの|hahamono}}: a [[book]], [[play]], or other [[entertainment]] in which [[motherly]] [[love]] is a central theme
+* {{ja-l|母上|ははうえ|hahaue}}: {{l|en|mother}} {{qualifier|when addressing one's own mother}}
+* {{ja-l|母親|ははおや|hahaoya}}: a {{l|en|mother}}
+* {{ja-l|母方|ははかた|hahakata}}: a {{l|en|relative}} on one's {{l|en|mother}}'s {{l|en|side}}
+* {{ja-l|母君|ははぎみ|hahagimi}}: {{l|en|mother}} {{qualifier|when addressing one's own mother; more honorific than ''hahaue''}}
+* {{ja-l|母子|ははこ|hahako}}: {{l|en|mother}} and {{l|en|child}}
+* {{ja-l|母御|ははご|hahago}}: {{l|en|mother}} {{qualifier|when addressing someone else's mother}}
+* {{ja-l|母御前|ははごぜん|hahagozen}}: {{l|en|mother}} {{qualifier|when addressing someone else's mother}}
+* {{ja-l|母島|ははじま|Hahajima}}: the {{l|en|main}} {{l|en|island}} of the {{w|Bonin Islands|Ogasawara Islands}}
+* {{ja-l|母者|ははじゃ|hahaja}}: a person who is a {{l|en|mother}}: a {{l|en|term of endearment}}
+* {{ja-l|母者人|ははじゃひと|hahaja hito}}: a person who is a {{l|en|mother}}: a {{l|en|term of endearment}}
+* {{ja-l|母刀自|ははとじ|hahatoji}}: {{l|en|mother}} {{qualifier|honorific}}
+* {{ja-l|母の日|ははのひ|Haha no Hi}}: {{l|en|Mother's Day}}
+* {{ja-l|母御息所|ははみやすどころ|haha miyasudokoro}}: an {{l|en|imperial}} {{l|en|concubine}} or other {{l|en|female}} member of the imperial {{l|en|household}} who is also a {{l|en|mother}}
+* {{ja-l|母物|ははもの|hahamono}}: a {{l|en|book}}, {{l|en|play}}, or other {{l|en|entertainment}} in which {{l|en|motherly}} {{l|en|love}} is a central theme
 {{der-mid}}
-* {{ja-l|生みの母}}, {{ja-l|産みの母|うみのはは|umi no haha}}: a [[birth]] [[mother]]
-* {{ja-l|国の母|くにのはは|kuni no haha}}: the [[emperor]]'s [[mother]]; {{qualifier|figuratively}} the mother of the [[country]]
-* {{ja-l|代理母|だいりはは|dairi haha}}: a [[foster]] [[mother]]
-* {{ja-l|父母|ちちはは|chichi haha}}: one's own [[parent]]s
-* {{ja-l|父母|ててはは|tete haha}}: one's own [[parent]]s {{qualifier|uncommon}}
-* {{ja-l|法師が母|ほうしがはは|Hōshi ga Haha}}: the title of a {{m|ja|狂言|tr=kyōgen||short farcical performance played as an intermission in a [[noh]] play}}
-* {{ja-l|瞼の母|まぶたのはは|mabuta no haha}}: the [[image]] of one's [[mother]] in [[dream]]s or [[memory]], such as when one's mother is [[far]] [[away]] or has [[pass away|passed away]]
-* {{ja-l|継母|ままはは|mamahaha}}: a [[stepmother]], a [[foster]] [[mother]]
+* {{ja-l|生みの母}}, {{ja-l|産みの母|うみのはは|umi no haha}}: a {{l|en|birth}} {{l|en|mother}}
+* {{ja-l|国の母|くにのはは|kuni no haha}}: the {{l|en|emperor}}'s {{l|en|mother}}; {{qualifier|figuratively}} the mother of the {{l|en|country}}
+* {{ja-l|代理母|だいりはは|dairi haha}}: a {{l|en|foster}} {{l|en|mother}}
+* {{ja-l|父母|ちちはは|chichi haha}}: one's own {{l|en|parent}}s
+* {{ja-l|父母|ててはは|tete haha}}: one's own {{l|en|parent}}s {{qualifier|uncommon}}
+* {{ja-l|法師が母|ほうしがはは|Hōshi ga Haha}}: the title of a {{m|ja|狂言|tr=kyōgen||short farcical performance played as an intermission in a {{l|en|noh}} play}}
+* {{ja-l|瞼の母|まぶたのはは|mabuta no haha}}: the {{l|en|image}} of one's {{l|en|mother}} in {{l|en|dream}}s or {{l|en|memory}}, such as when one's mother is {{l|en|far}} {{l|en|away}} or has {{l|en|pass away|passed away}}
+* {{ja-l|継母|ままはは|mamahaha}}: a {{l|en|stepmother}}, a {{l|en|foster}} {{l|en|mother}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{etyl|ojp|ja|sort=はわ}}. See etymology for ''haha'' above for details.
+{{ja-kanjitab|yomi=k|はわ}}
+
+From {{inh|ja|ojp|sort=はわ|-}}. See etymology for ''haha'' above for details.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ha̠ɰᵝa̠]}}
+{{ja-pron|yomi=k|はわ}}
 
 ====Noun====
 {{ja-noun|はわ}}
 
-# {{qualifier|humble}} [[mother]]
+# {{qualifier|humble}} {{l|en|mother}}
 #* {{RQ:Nippo Jisho|213}}
 #*: '''Faua'''. ハワ (母) 母親.
 #* {{RQ:Nippo Jisho|196}}
@@ -168,42 +169,44 @@ From {{etyl|ojp|ja|sort=はわ}}. See etymology for ''haha'' above for details.
 #*: Bogui. ボギ (母儀) '''Faua''' (母)に同じ. 母.
 
 =====Usage notes=====
-Obsolete in mainstream {{etyl|ja|-}}. May persist in dialects.
+Obsolete in mainstream {{cog|ja|-}}. May persist in dialects.
 
 ===Etymology 3===
-{{etyl|ojp|ja|sort=は}}. Possibly an abbreviation of ''haha'', or possibly the original form.
+{{ja-kanjitab|yomi=k|は}}
+
+{{inh|ja|ojp|sort=は|-}}. Possibly an abbreviation of ''haha'', or possibly the original form.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ha̠]}}
+{{ja-pron|yomi=k|は}}
 
 ====Noun====
 {{ja-noun|は}}
 
-# {{lb|ja|sort=は|obsolete}} [[mother]]
+# {{lb|ja|sort=は|obsolete}} {{l|en|mother}}
 #* {{RQ:Wamyō Ruijushō|1|116}}
 #*: 母 尔雅云、母爲妣、卑履反、去聲之重、和名波々、日本紀私記云、以路'''波'''
 
 =====Usage notes=====
-Not found in isolation, only found in compounds. Obsolete and unused in modern {{etyl|ja|-}}.
+Not found in isolation, only found in compounds. Obsolete and unused in modern {{cog|ja|-}}.
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|父母|かぞいろは|kazoiroha}}: one's own [[parent]]s
+* {{ja-l|父母|かぞいろは|kazoiroha}}: one's own {{l|en|parent}}s
 * {{ja-l|いろは||iroha}}: one's own mother
 {{der-bottom}}
 
 ===Etymology 4===
-{{etyl|ojp|ja|sort=あも}}. Obsolete and unused in modern {{etyl|ja|-}}. Already falling into disuse by the writing of the [[w:Man'yōshū|''Man'yōshū'']] in 759, where it is only found in pieces written in eastern dialects.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Possibly cognate with {{cog|ko|엄마||mother}}, {{m|ko|어머니||mother}}.
+{{ja-kanjitab|yomi=k|あも}}
+
+From {{inh|ja|ojp|sort=あも|-}}. Obsolete and unused in modern {{cog|ja|-}}. Already falling into disuse by the writing of the ''{{w|Man'yōshū}}'' in 759, where it is only found in pieces written in eastern dialects.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Possibly cognate with {{cog|ko|엄마||mother}}, {{m|ko|어머니||mother}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[a̠mo̞]}}
+{{ja-pron|yomi=k|あも}}
 
 ====Noun====
 {{ja-noun|あも}}
 
-# [[mother]]
+# {{lb|ja|sort=あも|obsolete}} {{l|en|mother}}
 #* {{RQ:Man'yōshū|20|4376}}
 #*: 多妣由岐尓 由久等之良受弖 '''阿母'''志々尓 己等麻乎佐受弖 伊麻叙久夜之氣
 #* {{RQ:Man'yōshū|20|4377}}
@@ -215,91 +218,94 @@ Not found in isolation, only found in compounds. Obsolete and unused in modern {
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|母父|あもしし|amoshishi}}: one's [[parent]]s {{qualifier|obsolete; eastern dialect}}
+* {{ja-l|母父|あもしし|amoshishi}}: one's {{l|en|parent}}s {{qualifier|obsolete; eastern dialect}}
 * {{ja-l|母刀自|あもとじ|amotoji}}: mother {{qualifier|honorific; obsolete; eastern dialect}}
 {{der-bottom}}
 
 ===Etymology 5===
-{{etyl|ojp|ja|sort=おも}}. Obsolete and unused in modern {{etyl|ja|-}}. Appears to be an alteration from ''amo'' above.
+{{ja-kanjitab|yomi=k|おも}}
+
+From {{inh|ja|ojp|sort=おも|-}}. Obsolete and unused in modern {{cog|ja|-}}. Appears to be an alteration from ''amo'' above.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[o̞mo̞]}}
+{{ja-pron|yomi=k|おも}}
 
 ====Noun====
 {{ja-noun|おも}}
 
-# [[mother]]
+# {{lb|ja|sort=あも|obsolete}} {{l|en|mother}}
 #* {{RQ:Man'yōshū|20|4386}}
 #*: 和加々都乃 以都母等夜奈枳 以都母々々々 '''於母'''加古比須々 奈理麻之都之母
 #* {{RQ:Man'yōshū|20|4401}}
 #*: 可良己呂武 須宗尓等里都伎 奈苦古良乎 意伎弖曽伎怒也 '''意母'''奈之尓志弖
 #* {{RQ:Man'yōshū|20|4402}}
 #*: 知波夜布留 賀美乃美佐賀尓 奴佐麻都里 伊波布伊能知波 '''意毛'''知々我多米
-# a [[woman]] who [[breastfeed]]s and [[raise]]s a [[child]] in place of a [[parent]]: a [[wet nurse]]
+# a {{l|en|woman}} who {{l|en|breastfeed}}s and {{l|en|raise}}s a {{l|en|child}} in place of a {{l|en|parent}}: a {{l|en|wet nurse}}
 #* {{RQ:Man'yōshū|12|2925}}
 #*: 緑児之 為社乳母者 求云 乳飲哉君之 '''於毛'''求覧
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|母父|おもちち|omochichi}}: one's [[parent]]s
-* {{ja-l|母調子|おもちょうし|omo chōshi}}: the [[main]] or [[thematic]] [[key]] in a piece of {{ja-l|雅楽||gagaku}} [[music]]
+* {{ja-l|母父|おもちち|omochichi}}: one's {{l|en|parent}}s
+* {{ja-l|母調子|おもちょうし|omo chōshi}}: the {{l|en|main}} or {{l|en|thematic}} {{l|en|key}} in a piece of {{m|ja|雅楽|tr=gagaku}} {{l|en|music}}
 * {{ja-l|母刀自|おもとじ|omotoji}}: mother {{qualifier|honorific}}
-* {{ja-l|母同胞|おもはらから|omoharakara}}: a [[sibling]] from the same [[mother]]
-* {{ja-l|母屋}}, {{ja-l|母家|おもや|omoya}}: the [[main]] [[residence]] in a [[manor]]; the [[main]] or [[central]] [[building]] in a [[palace]]; the [[main]] [[household]] in an extended family; the [[main]] [[store]] in a [[chain]]
-* {{ja-l|母良|おもら|omora}}: in ancient times, a [[woman]] serving at the {{m|ja|伊勢神宮|tr=Ise Jingū||[[w:Ise Grand Shrine|Ise Grand Shrine]]}}
+* {{ja-l|母同胞|おもはらから|omoharakara}}: a {{l|en|sibling}} from the same {{l|en|mother}}
+* {{ja-l|母屋}}, {{ja-l|母家|おもや|omoya}}: the {{l|en|main}} {{l|en|residence}} in a {{l|en|manor}}; the {{l|en|main}} or {{l|en|central}} {{l|en|building}} in a {{l|en|palace}}; the {{l|en|main}} {{l|en|household}} in an extended family; the {{l|en|main}} {{l|en|store}} in a {{l|en|chain}}
+* {{ja-l|母良|おもら|omora}}: in ancient times, a {{l|en|woman}} serving at the {{m|ja|伊勢神宮|tr=Ise Jingū||{{w|Ise Grand Shrine}}}}
 {{der-bottom}}
 
 ======Synonyms======
 * {{sense|wet nurse}} {{ja-l|乳母|うば|uba}}
 
 ===Etymology 6===
-{{unk.|lang=ja|sort=かか}}. One theory holds that this is a corrupted and abbreviated form of {{ja-l|御方様||okatasama}}, a term to refer to or address someone else's wife (now extremely formal, but much more everyday in the [[w:Edo period|Edo period]]), possibly influenced by children's speech:
+{{ja-kanjitab|yomi=k|かか}}
 
-{{IPAchar|/okatasama/}} > {{IPAchar|/katasama/}} > {{IPAchar|/kakasama/}} > {{IPAchar|/kaka/}}
+{{unk.|lang=ja|sort=かか}}. One theory holds that this is a corrupted and abbreviated form of {{m|ja|御方様|tr=okatasama}}, a term to refer to or address someone else's wife (now extremely formal, but much more everyday in the {{w|Edo period}}), possibly influenced by children's speech:
+
+{{IPAchar|/okatasama/}} → {{IPAchar|/katasama/}} → {{IPAchar|/kakasama/}} → {{IPAchar|/kaka/}}
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ka̠ka̠]}}
+{{ja-pron|yomi=k|かか}}
 
 ====Noun====
 {{ja-noun|かか}}
 
-# {{lb|ja|sort=かか|childish}} [[mommy]], [[mummy]]
+# {{lb|ja|sort=かか|childish}} {{l|en|mommy}}, {{l|en|mummy}}
 #* {{RQ:Nippo Jisho|71}}
 #*: '''Caca'''. カカ (かか) Faua (母)に同じ. 母. これは子供の言葉である. また、尊敬すべき婦人、あるいは、年長で一家の主婦のような婦人の意に取られる.
 # {{lb|ja|sort=かか|obsolete}} [[wife]]
-#: Seen in the [[w:Edo period|Edo period]] among the lower socioeconomic classes. Used to refer both to one's own wife when talking to others, and to refer to someone else's wife.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+#: Seen in the {{w|Edo period}} among the lower socioeconomic classes. Used to refer both to one's own wife when talking to others, and to refer to someone else's wife.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|御母様|おかかさま|okakasama}}: [[mother]]; someone else's [[wife]]
-* {{ja-l|お母さん|おっかさん|okkasan}} {{qualifier|formerly one of the most common terms for “[[mother]]”, now considered somewhat archaic}}
-* {{ja-l|お母さん|おかあさん|okāsan}} {{qualifier|one of the most common terms for “[[mother]]” in modern {{etyl|ja|-}}}}
-* {{ja-l|母様|かかさま|kakasama}}: [[mother]]; someone else's [[wife]] {{qualifier|less formal than ''okakasama''}}
-* {{ja-l|母さん|かかさん|kakasan}}: [[mother]] {{qualifier|children's word}}
+* {{ja-l|御母様|おかかさま|okakasama}}: {{l|en|mother}}; someone else's {{l|en|wife}}
+* {{ja-l|お母さん|おっかさん|okkasan}} {{qualifier|formerly one of the most common terms for “{{l|en|mother}}”, now considered somewhat archaic}}
+* {{ja-l|お母さん|おかあさん|okāsan}} {{qualifier|one of the most common terms for “{{l|en|mother}}” in modern {{cog|ja|-}}}}
+* {{ja-l|母様|かかさま|kakasama}}: {{l|en|mother}}; someone else's {{l|en|wife}} {{qualifier|less formal than ''okakasama''}}
+* {{ja-l|母さん|かかさん|kakasan}}: {{l|en|mother}} {{qualifier|children's word}}
 {{der-bottom}}
 
 ===Etymology 7===
-Alteration of ''kaka''<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>: {{IPAchar|/kaka/}} > {{IPAchar|/-kka/}} > {{IPAchar|/kaː/}}
+{{ja-kanjitab|yomi=k|かあ}}
+
+Alteration of ''kaka''<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>: {{IPAchar|/kaka/}} → {{IPAchar|/-kka/}} → {{IPAchar|/kaː/}}
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[ka̠ː]}}
+{{ja-pron|yomi=k|かあ}}
 
 ====Noun====
 {{ja-noun|かあ}}
 
-# [[mother]]
+# {{l|en|mother}}
 
 =====Usage notes=====
 Almost never seen in isolation. Most commonly seen with honorific prefix ''o-'' and honorific suffix ''-san'', as {{ja-l|お母さん||okāsan}}.
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|母さん|かあさん|kāsan}}: [[mother]] {{qualifier|informal form of address; would only be used when addressing one's own mother}}
-* {{ja-l|お母|おかあ|okā}}: [[mother]] {{qualifier|informal form of address; would only be used when addressing one's own mother}}
-* {{ja-l|お母さん|おかあさん|okāsan}}: [[mother]] {{qualifier|most common term; could be used to address or refer to one's own mother, or to refer to someone else's mother}}
+* {{ja-l|母さん|かあさん|kāsan}}: {{l|en|mother}} {{qualifier|informal form of address; would only be used when addressing one's own mother}}
+* {{ja-l|お母|おかあ|okā}}: {{l|en|mother}} {{qualifier|informal form of address; would only be used when addressing one's own mother}}
+* {{ja-l|お母さん|おかあさん|okāsan}}: {{l|en|mother}} {{qualifier|most common term; could be used to address or refer to one's own mother, or to refer to someone else's mother}}
 {{der-bottom}}
 
 ===References===
