@@ -209,7 +209,7 @@ This should not be confused with the negative particle, which is written identic
 |-
 | '''Adverbial forms''' || ''nj'' || <hiero>n:Z4</hiero>
 |-
-||| ''n(j)|| <hiero>n</hiero>
+||| ''n(j)''|| <hiero>n</hiero>
 |}
 
 ===Pronoun===
@@ -470,16 +470,12 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 ===Pronunciation===
 * {{sense|letter name}} {{IPA|/enː/|/ɛnː/|lang=no}}
-* {{sense|phoneme}} {{IPA|/n/|/ɳ/*|/ŋ/*|lang=no}}
+* {{sense|phoneme}} {{IPA|/n/|/ɳ/|/ŋ/|qual2=in ''rn''|qual3=in ''ng'' and ''nk''|lang=no}}
 
 ===Letter===
 {{head|no|letter}}
 
 # {{Latn-def|no|letter|14}}
-
-====Usage notes====
-* {{IPAchar|/ɳ/|lang=no}} Retroflex, merge of '''rn'''.
-* {{IPAchar|/ŋ/|lang=no}} Velar nasal, merge of '''ng''', and when n comes before k, like in the English ''thi'''nk'''''.
 
 ----
 
@@ -564,7 +560,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Spanish==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/n/|/ŋ/|/ɱ/|/n̪/|/n̟/|/n̪/|/nʲ/|/ɴ/|lang=es}}
+* {{qualifier|phoneme}} {{IPA|/n/|lang=es}}
 * {{qualifier|letter}} {{IPA|/ˈene/|lang=es}}
 ** {{audio|letter n es es.flac|Audio (Spain)|lang=es}}
 
