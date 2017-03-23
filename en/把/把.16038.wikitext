@@ -10,28 +10,36 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|手|巴|alt1=扌|ls=psc|c1=s|c2=p}}.
+{{Han compound|手|巴|ls=psc|c1=s|c2=p|t1=hand}}.
 
-===Pronunciation===
+===Pronunciation 1===
+{{zh-forms}}
 {{zh-pron
-|m=bǎ,bà,er=y,2er=y
-|m_note=bà - variant pronunciation for “handle”
+|m=bǎ,bà,bǎi,er=y,2er=y,3n=Beijing dialect
+|m_note=bǎ - all senses except “stem”; bà - “handle; stem”; bǎi - preposition
+|m-s=ba3
 |c=baa2,baa3
-|h=pfs=pá
+|c_note=baa3 - rare variant for “handle; stem”
+|c-t=ba2
+|g=ba3
+|h=pfs=pá;gd=ba3
+|j=ba2
 |md=bā/bá
-|md_note=bā - “to hold; handle; classifier”; bá - variant pronunciation for “handle”
+|md_note=bā - “to hold; handle; classifier”; bá - “handle”
 |mn=xm,qz,tw:pé/zz:pée/pá/tw:pà
 |mn_note=pé/pée - vernacular; pá - literary; pà - used in {{zh-l|*遏手把}}
+|mn-t=bê2/ba2
+|mn-t_note=bê2 - vernacular; ba2 - literary
 |w=2po,2pa
 |w_note=2po - vernacular; 2pa - literary
+|x=ba3
 |mc=y
 |oc=y
 |ma=y
-|cat=v,n,cls,adv
+|cat=v,n,prep,cls,adv,pn
 }}
 
 ===Definitions===
@@ -42,11 +50,16 @@
 #: {{zh-x|把守|to guard; to defend}}
 #: {{zh-x|把握|to grasp; to control; to master}}
 # {{lb|zh|TCM}} to [[feel]] (for the [[pulse]])
-# {{non-gloss definition|A special type of helping verb which, when placed in front of the [[object]] of a sentence, allows for the object of the sentence to be placed before the verb. This allows for greater flexibility in complex sentence construction.}}
+# {{n-g|A light verb or preposition placed before the object of a sentence to allow it to be placed before the verb, giving greater flexibility in complex sentence construction.}}
 #: {{zh-x|他 把 刀 放 在 桌子{zi} 上。|He put the knife on the table.}}
-# {{non-gloss definition|used to introduce a “subject + verb + complement” structure}}; to [[cause]] to; to [[make]]
+# {{n-g|Used before a “subject + verb + complement” structure}}; to [[cause]] to; to [[make]]
+#: {{zh-x|真的 把 我 氣 死 了！|It really '''made''' me so mad!}}
 # [[bundle]]; [[bunch]]
-# [[handle]]; [[knob]]; [[grip]] (a part of an object which is held in the hand)
+# [[handle]]; [[knob]]; [[grip]] {{gloss|a part of an object which is held in the hand}}
+#: {{zh-x|車把|handlebar (of a bicycle)}}
+#: {{zh-x|刀把{bà}|knife '''handle'''; hilt}}
+# [[stem]] (of a [[flower]], [[leaf]], [[fruit]], etc.)
+#: {{zh-x|葉把{bà}兒{r}|stem of a leaf}}
 # {{zh-classifier|[[object]]s that can be held using [[handle]]s or [[knob]]s, such as [[gun]]s, [[chair]]s, [[broom]]s, [[umbrella]]s}}
 #: {{zh-x|三 把 刀|three knives}}
 #: {{zh-x|四 把 鉸{gaau3}剪|four pairs of scissors|C}}
@@ -55,7 +68,8 @@
 # {{zh-classifier|[[bundle]]s or [[bunch]]es}}
 # {{zh-classifier|some [[abstract]] [[idea]]s, such as [[force]], [[effort]] or [[age]]}}
 # {{zh-classifier|something done with the [[hand]]}}
-# {{non-gloss definition|placed after numerals or classifiers to express uncertainty}}; [[approximately]]
+# {{non-gloss definition|Placed after numerals or classifiers to express uncertainty}}; [[approximately]]
+# {{surname|lang=zh}}
 
 ====Synonyms====
 {{zh-dial}}
