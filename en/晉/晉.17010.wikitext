@@ -48,7 +48,7 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=uc|rs=日06|style=ky|shin=晋}}
+{{ja-kanji|grade=uc|rs=日06}} <!-- Not a kyūjitai character. Both 晉 and 晋 are present in the Kangxi dictionary -->
 
 # to [[proceed]]
 
@@ -56,6 +56,9 @@
 {{ja-readings
 |on=[[しん]] (shin)
 |kun=[[すすむ|すす-む]] (susu-mu)}}
+
+====Usage notes====
+Alternative form of [[晋]] ({{w|Jinmeiyō kanji}} used for names).
 
 ----
 
