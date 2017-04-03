@@ -89,45 +89,55 @@
 {{ja-kanji|grade=3|rs=木04}}
 
 ====Readings====
-* {{ja-readings|goon=[[へん]] (hen)|kanon=[[はん]] (han)|kanyoon=[[ばん]] (ban)|kun=[[いた]] (ita)}}
+{{ja-readings|goon=[[へん]] (hen)|kanon=[[はん]] (han)|kanyoon=[[ばん]] (ban)|kun=[[いた]] (ita)}}
 
 ====Compounds====
-{{top2}}
-* {{ja-r|板垣|^いたがき}}
-* [[板材]]
-* [[板の間]]
-* {{ja-r|板場|いたば}}
-* {{ja-r|板挟み|いたばさみ}}
-* [[板碑]]
-* [[板塀]]
-* {{ja-r|板前|いたまえ}}
-* [[板目]]
-* [[板木]]
-{{mid2}}
-* [[板書]]
-* {{ja-r|黒板|こくばん}}: [[blackboard]]
-* {{ja-r|白板|はくばん}}: [[whiteboard]]
+{{der-top|Compounds}}
+* {{ja-r|板木|はんぎ}}
+* {{ja-r|板木|ばんぎ}}
+* {{ja-r|板書|ばんしょ}}
+* {{ja-r|指板|しばん|[[fingerboard]]}}
+* {{ja-r|黒板|こくばん|[[blackboard]]}}
+* {{ja-r|白板|はくばん|[[whiteboard]]}}
+* {{ja-r|平板型|へいばん}}
 * {{ja-r|平板型|へいばんがた}}
 * {{ja-r|平板式|へいばんしき}}
-* {{ja-r|鉄板|てっぱん}}: [[griddle]]
+* {{ja-r|鉄板|てっぱん|[[griddle]]}}
 * {{ja-r|鉄板焼き|てっぱんやき}}
-* {{ja-r|押板|おし.いた}}: [[shoin]] style [[tokonoma]])
-* {{ja-r|三板|さんば}}: [[Okinawa]]n [[castanet]]s
-{{bottom}}
+* {{ja-r|三板|サンパン}}, {{ja-r|舢板|サンパン|[[sampan]]}}
+{{der-bottom}}
 
+{{wp|lang=ja}}
 {{ja-kanjitab|いた|yomi=k}}
 
+===Pronunciation===
+{{ja-pron|yomi=k|いた|acc=1|acc_ref=DJR,NHK}}
+
 ===Noun===
-{{wikipedia|lang=ja}}
 {{ja-noun|いた}}
 
 # [[plank]], [[board]]
-# {{lb|ja|cooking}} {{abbreviation of|俎板|lang=ja}}
-# {{lb|ja|cooking}} {{abbreviation of|板前|lang=ja}}
-# {{lb|ja|cooking}} {{abbreviation of|板場|lang=ja}}
+# {{lb|ja|cooking|sort=いた}} {{abbreviation of|俎板|lang=ja}}
+# {{lb|ja|cooking|sort=いた}} {{abbreviation of|板前|lang=ja}}
+# {{lb|ja|cooking|sort=いた}} {{abbreviation of|板場|lang=ja}}
 
 ====Derived terms====
-* {{ja-r|まな板|まないた}}
+{{der-top}}
+* {{ja-r|板垣|いたがき}}
+* {{ja-r|板材|いたざい}}
+* {{ja-r|板の間|いたのま}}
+* {{ja-r|板場|いたば}}
+* {{ja-r|板挟み|いたばさみ}}
+* {{ja-r|板碑|いたび}}
+* {{ja-r|板塀|いたべい}}
+* {{ja-r|板前|いたまえ}}
+* {{ja-r|板目|いため}}
+* {{ja-r|押板|おし.いた|[[shoin]] style [[tokonoma]]}}
+* {{ja-r|俎板|まないた}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
