@@ -6,7 +6,7 @@
 
 # [[widowed]]
 # [[alone]]; [[friendless]]
-# {{lb|cmn|literary}} [[few]]
+# {{lb|cmn|literary}} [[few]], [[minority]]
 
 ====References====
 * {{Han ref|kx=0290.190|dkj=07286|dj=0574.260|hdz=20947.070|uh=5BE1|ud=23521|bh=B9E8|bd=47592}}
@@ -42,10 +42,33 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=宀11}}
 
-# widow
-
 ====Readings====
 * {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[やもめ]] (yamome), [[すくない]] (sukunai)}}
+
+====Compounds====
+* {{sense|widow, alone}} [[寡夫]], [[寡婦]], [[鰥寡孤独]]
+* {{sense|few, minority}} [[寡占]], [[寡頭政治]], [[寡聞]], [[寡兵]], [[寡黙]], [[衆寡]]
+
+===Etymology 1===
+====Noun====
+{{ja-kanjitab|か|yomi=o}}
+{{ja-noun|か}}
+
+# [[minority]]
+#: {{ja-usex|'''寡'''を以って衆を制する|'''か''' を もって しゅう を せいする|Majority can be conquered by '''minority'''.}}
+
+;Antonyms
+* {{ja-r|衆|しゅう|gloss=[[majority]]}}
+
+===Etymology 2===
+====Noun====
+{{ja-kanjitab|やもめ|yomi=kun}}
+{{ja-noun|やもめ}}
+
+# [[widow]]
+
+=====Derived terms=====
+* {{ja-r|男寡|おとこやもめ|gloss=[[widower]]}}
 
 ----
 
