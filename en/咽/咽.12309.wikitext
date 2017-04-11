@@ -1,5 +1,7 @@
 {{character info/new}}
+{{character info/new|0xf99e}}
 {{also|嚥}}
+
 ==Translingual==
 
 ===Han character===
@@ -23,26 +25,51 @@
 {{Han etym}}
 {{Han compound|口|t1=mouth|因|ls=psc|c1=s|c2=p}} – connected to the mouth, the throat.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=yān
-|c=jin1,jit3,jin3
+|c=jin1
 |h=pfs=
 |md=
 |mn=qz,tw,xm,zz:ian
 |w=
-|mc=y
-|oc=y
+|mc=1
+|oc=1
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# [[throat]], [[pharynx]]
 
 ====Compounds====
-* {{zh-l|狼吞虎咽}}
+{{zh-der|咽喉|咽炎|口咽|喉咽|咽頭}}
+
+===Etymology 2===
+{{zh-see|嚥|sv}}
+
+===Etmology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=yè
+|c=jit3
+|mc=3
+|oc=2,3
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to make a [[hoarse]] sound
+
+====Compounds====
+{{zh-der|嗚咽|哽咽}}
 
 ----
 
