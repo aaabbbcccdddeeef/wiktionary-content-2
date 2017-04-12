@@ -2,9 +2,6 @@
 {{also|剀}}
 ==Translingual==
 
-===Etymology===
-{{Han etym}}
-
 ===Han character===
 {{Han char|rn=18|rad=刀|as=10|sn=12|four=22100|canj=UTLN|ids=⿰豈刂}}
 
@@ -16,12 +13,31 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=剀}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=hoi2|sim=剀}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=刀10}}
+===Pronunciation===
+{{zh-pron
+|m=kǎi
+|c=hoi2,goi1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|剴切}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -43,18 +59,6 @@
 {{ko-hanja|hangeul=개|rv=gae|mr=kae}}
 
 # {{defn|lang=ko|sort=刀10}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|sim=剀|pin=[[kǎi]] ([[kai3]])|wg=k'ai<sup>3</sup>}}
-
-# {{defn|lang=cmn|sort=刀10}}
-
-====Compounds====
-* [[剴切]]
 
 [[fr:剴]]
 [[ko:剴]]
