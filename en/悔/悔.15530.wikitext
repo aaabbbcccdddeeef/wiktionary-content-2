@@ -1,8 +1,11 @@
 {{character info/new}}
+{{character info/new|0xfa3d}}
+{{character info/new|0x2f8a3}}
+
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=61|rad=心|as=07|sn=10|four=98055|canj=POWY|ids=⿰忄每}}
+{{Han char|rn=61|rad=心|as=07|asj=06|sn=10|snj=9|four=98055|canj=POWY|ids=⿰忄每(GHTKV),⿰忄毎(J)}}
 
 ====References====
 * {{Han ref|kx=0387.170|dkj=10617|dj=0719.280|hdz=42305.130|uh=6094|ud=24724|bh=AEAC|bd=44716}}
@@ -10,7 +13,7 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𢙽:historical variant,𠧩:ancient form}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -22,15 +25,20 @@
 |h=pfs=fí
 |mn=hóe/tw:húi
 |mn_note=hóe - literary; húi - vernacular (Taiwan)
+|mc=y
+|oc=y
 |cat=
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# [[repent]], [[show]] [[remorse]], [[regret]]
+# to [[repent]], to [[show]] [[remorse]], to [[regret]]
 
-====References====
+===Compounds===
+{{zh-der|後悔|悔改|悔恨|懺悔|懊悔|追悔|悔罪}}
+
+===References===
 * (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
 
 ----
@@ -38,9 +46,9 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=心07}}
+{{ja-kanji|grade=c|rs=心07|style=s|kyu=悔}} <!-- 悔 (U+FA3D) is the kyūjitai form (CJK Compatibility Ideograph) -->
 
-# repent
+# to [[repent]], [[regret]]
 
 ====Readings====
 * {{ja-readings|on=[[かい]] (kai) < [[くわい]] (kwai), [[け]] (ke)|kun=[[くいる]] (kuiru), [[くやむ]] (kuyamu)}}
