@@ -1,17 +1,14 @@
 {{character info/new}}
 {{also|歡}}
+
 ==Translingual==
 {{Han simplified forms|歡|歓|欢}}
 
 ===Etymology===
-Japanese shinjitai {{Han simp|歡|f=艹|t=𠂉|f2=吅|t2=一}}
+Japanese {{w|shinjitai}} character. {{Han simp|歡|f=艹|t=𠂉|f2=吅|t2=一}}.
 
 ===Han character===
-{{Han char|rn=76|rad=欠|as=11|sn=15|four=|canj=OGNO|ids=}}
-
-# [[happy]], [[pleased]], [[glad]]
-# [[joy]]
-# [[enjoy]]
+{{Han char|rn=76|rad=欠|as=11|sn=15|four=|canj=OGNO|ids=⿰⿱𠂉⿻一隹欠}}
 
 ====References====
 * {{Han ref|kx=0572.101|dkj=16197|dj=0960.100|hdz=80027.240|uh=6B53|ud=27475}}
@@ -19,14 +16,20 @@ Japanese shinjitai {{Han simp|歡|f=艹|t=𠂉|f2=吅|t2=一}}
 ----
 
 ==Japanese==
+{{ja-kanji forms|歓|歡}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=欠11|style=s|kyu=歡}}
 
-# {{defn|lang=ja|sort=欠11}}
+# [[happy]], [[pleased]], [[glad]]
+# [[joy]], [[delight]]
 
 ====Readings====
 * {{ja-readings|on=[[かん]] (kan)|kun=[[よろこぶ]] (yorokobu)}}
+
+====Compounds====
+* {{ja-r|歓迎|かんげい}}: {{l|en|welcome}}, {{l|en|reception}}
+* {{ja-r|歓声|かんせい}}: {{l|en|cheer}}, {{l|en|shout}} of {{l|en|joy}}
 
 [[fr:歓]]
 [[hu:歓]]
