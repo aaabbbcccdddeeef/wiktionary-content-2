@@ -1,10 +1,11 @@
 {{character info/new}}
+{{character info/new|0xfa30}}
+{{character info/new|0x2f805}}
+
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=9|rad=人|as=07|sn=9|four=28257|canj=OOWY|ids=⿰亻毎 <small>(J)</small>,⿰亻每 <small>(GTK)</small>}}
-
-# [[insult]], [[ridicule]], [[disgrace]]
+{{Han char|rn=9|rad=人|as=07|asj=06|sn=9|snj=8|four=28257|canj=OOWY|ids=⿰亻每(GHTKV),⿰亻毎(J)}}
 
 ====References====
 * {{Han ref|kx=0103.010|dkj=00629|dj=0218.170|hdz=10163.010|uh=4FAE|ud=20398|bh=AB56|bd=43862}}
@@ -12,7 +13,10 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㑄:ancient form}}
+
+===Glyph origin===
+{{Han etym}}
 
 ===Pronunciation===
 {{zh-pron
@@ -28,14 +32,17 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# to [[insult]], [[ridicule]], [[disgrace]]
+
+===Compounds===
+{{zh-der|侮辱|欺侮}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=人07}}
+{{ja-kanji|grade=c|rs=人07|style=s|kyu=侮}} <!-- 侮 (U+FA30) is the kyūjitai form (CJK Compatibility ideograph) -->
 
 # [[contempt]], [[disdain]], [[scorn]]
 
