@@ -1,25 +1,37 @@
 {{character info/new}}
+{{character info/new|0x2f8d5}}
+{{also|替|普|晋|𤾕}}
+
 ==Translingual==
 
-===Han character===
-{{Han char|rn=72|rad=日|as=10|sn=14|four=|canj=XYTA,YTA|ids=⿱竝日}}
+===Alternative forms===
+A CJK {{w|Unicode compatibility characters|compatibility ideograph}} (U+2F8D5) exists with [[曰]] as the bottom component instead of [[日]].
 
-# {{defn|Han|sort=日10}}
+===Han character===
+{{Han char|rn=72|rad=日|as=10|sn=14|four=|canj=XYTA,YTA|ids=⿱竝日,⿱竝曰}}
+
+====Derived characters====
+* {{l|mul|[[𧭘]]/[[譜]]}}, {{l|mul|普}} (and its [[普#Derived_characters|derived characters]]), {{l|mul|替}} (and its [[替#Derived_characters|derived characters]])
 
 ====References====
 * {{Han ref|kx=0498.360|dkj=14082|hdz=21530.180|uh=669C|ud=26268}}
+* {{Han ref|uh=26268}}
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[pou2]]|y=pou2}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=日10}}
+===Etymology 1===
+{{zh-see|替|a|to [[substitute]]}} <!--《廣韻·去聲·霽·替》替：『廢也，代也，滅也。《說文》本作暜廢一偏下也。他計切，二十。』-->
 
-====References====
-* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 123]
+===Etymology 2===
+{{zh-see|普|a|[[universal]], [[widespread]]}} <!--《康熙字典》普：『《唐韻》滂古切，音浦。《說文》作暜，日無色也。《註》日無光則遠近皆同，故从竝。』-->
+
+===Usage notes===
+Note that etymology 1 applies to the character with [[曰]] as the bottom component (U+2F8D5) while etymology 2 applies to the character with [[日]] as the bottom component (U+669C). When {{w|regular script}} ([[楷書]]) became the more prominent style in {{w|Chinese script styles|Chinese calligraphy}}, the component [[竝]] in 暜 was simplified to [[替]] and [[普]] respectively to avoid confusion between the two forms.
 
 ----
 
@@ -28,19 +40,13 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=日10}}
 
-# {{defn|lang=ja|sort=日10}}
+# {{alt-form|lang=ja|[[普]]}} {{gloss|[[general#Adjective|general]], [[universal]], [[widespread]]}}
 
 ====Readings====
 * {{ja-readings|on=[[ふ]] (fu)|kun=[[あまねし]] (amaneshi)}}
 
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[jìn]] ([[jin4]])|wg=chin<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=日10}}
+===Usage notes===
+This character was added to {{w|JIS X 0208}} in 1990 but is scarcely used except in historical texts.
 
 [[fr:暜]]
 [[hu:暜]]
