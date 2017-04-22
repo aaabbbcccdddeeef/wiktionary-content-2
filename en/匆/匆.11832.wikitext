@@ -1,25 +1,33 @@
 {{character info/new}}
-{{also|怱|匁|勿}}
+{{character info/new|0x2f82a}}
+{{also|悤|怱|匁|勿}}
+
 ==Translingual==
 
+===Alternative forms===
+A CJK compatibility ideograph (U+2F82A) exists for an alternative form with [[乀]] stroke that extends across [[勿]] beyond the right side of [[勹]].
+
 ===Han character===
-{{Han char|rn=20|rad=勹|as=03|sn=5|four=27450|canj=PKK|ids=⿻勿丶}}
+{{Han char|rn=20|rad=勹|as=03|sn=5|four=27450|canj=PKK|ids=⿻勿丶(U+5306),⿻勿乀(2F82A)}}
 
-# [[hastily]], in [[haste]], [[hurriedly]]
+====Derived characters====
+* {{l|mul|[[茐]], [[䖏]], [[𡧴]], [[𢝰]], [[𬖕]], [[𠰯]], [[𠱱]], [[𢫍]], [[𦓭]], [[𨠞]], [[𨣭]], [[𩂜]], [[𠁅]]}}
 
-====See also====
-* {{l|mul|匁}} [[勿]]
+====Usage notes====
+This character is not found in the {{w|Kangxi dictionary}}. It is a reduction of {{l|mul|怱}} which was originally derived from {{l|mul|悤}}.
 
 ====References====
 * {{Han ref|kx=0151.031|dkj=02511|dj=0340.070|hdz=10257.020|uh=5306|ud=21254|bh=A55E|bd=42334}}
+* {{Han ref|uh=2F82A}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=悤:original form,怱:modern variant of 悤,忩:unorthodox variant of 悤,匇:corrupted form of 匆}}
 
 ===Glyph origin===
 {{Han etym}}
+{{rfe|lang=zh}}
 
 ===Pronunciation===
 {{zh-pron
@@ -37,7 +45,8 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[hastily]], [[hurriedly]]
+# [[restless]], [[agitated]]
 
 ====Compounds====
 {{zh-der|匆匆忙忙|匆猝|匆忙|來去匆匆|匆促|匆遽|匆匆|行色匆匆|興匆匆}}
