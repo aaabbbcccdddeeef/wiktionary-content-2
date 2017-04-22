@@ -1,19 +1,20 @@
 {{character info/new}}
+{{also|匆|怱|悤|总}}
+
 ==Translingual==
-{{ja-forms|忩|[[总]]|[[悤]]}}
 
 ===Etymology===
-Japanese {{Han simp|悤|f=囪|t=公}}, as in [[総]], from [[總]].
+{{Han simp|悤|f=囪|t=公}} in Japanese {{w|shinjitai}} and used as a component in characters such as {{l|mul|総}}, simplified from {{l|mul|總}}.
 
-Present form {{Han compound|公|心}}.
+Originally a reduced form of {{l|mul|怱}} ({{Han compound|匆|心}}).
 
 ===Han character===
 {{Han char|rn=61|rad=心|as=04|sn=7|four=|canj=CIP|ids=⿱公心}}
 
-# [[hastily]], in [[haste]], [[hurriedly]]
+# {{alt-form|lang=mul|[[怱]]/[[匆]]}}
 
 ====Derived characters====
-* [[総]] [[聡]]
+* {{l|mul|[[総]], [[聡]], [[倊]], [[捴]], [[棇]], [[焧]], [[㥖]], [[䐋]], [[䙂]], [[𢃧]], [[𢛌]], [[𤗉]], [[𤥼]], [[𧗺]], [[𧩟]], [[𨌪]], [[𨨟]], [[𫃄]], [[𩣭]], [[𩭤]], [[𢈳]], [[𪠎]], [[𥮨]], [[䓗]], [[𢚱]]}}
 
 ====References====
 * {{Han ref|kx=0377.260|dkj=10366|dj=0705.130|hdz=42274.070|uh=5FE9|ud=24553}}
@@ -26,18 +27,8 @@ Present form {{Han compound|公|心}}.
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
-{{zh-pron
-|m=cōng
-|c=cung1
-|mc=y
-|oc=y
-|ma=
-|cat=adv
-}}
-
-====References====
-* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 106]
+===Definitions===
+{{zh-see|匆|v|[[hastily]], [[hurriedly]]}}
 
 ----
 
@@ -46,7 +37,7 @@ Present form {{Han compound|公|心}}.
 ===Kanji===
 {{ja-kanji|grade=|rs=心04}}
 
-# {{defn|lang=ja|sort=心04}}
+# {{alt-form|lang=ja|[[怱]]/[[匆]]}} {{gloss|to [[rush]], to be in a [[hurry]]}}
 
 ====Readings====
 * {{ja-readings|on=[[そう]] (sō)|kun=[[にわか]] (niwaka), [[あわてる]] (awateru)}}
