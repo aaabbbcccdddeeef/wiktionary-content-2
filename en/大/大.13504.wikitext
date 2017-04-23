@@ -46,7 +46,12 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{oc
 |m=dà
 |m-s=da4
 |c=daai6,daai6-2,daai6-1
-|h=pfs=thai
+|c_note=daai6-2 - “only so big/old”; daai6-1 - “small”
+|c-t=ai5
+|g=tai5/to5
+|g_note=to5 - limited (e.g. {{l|zh|大姑娘|大(姑)娘}}, {{l|zh|大姑爺|大(姑)爺}})
+|h=pfs=thai;gd=tai4
+|j=da3
 |md=duâi
 |mn=tōa/tāi
 |mn_note=tōa - vernacular; tāi - literary
@@ -54,12 +59,13 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{oc
 |mn-t_note=dua7 - vernacular; dai6 - literary
 |w=3du,3da
 |w_note=3du - vernacular; 3da - literary
+|x=dai5/da4
+|x_note=dai5 - vernacular; da4 - literary
 |mc=y
 |oc=y
 |ma=y
-|cat=a,adv
+|cat=a,adv,c:v
 }}
-{{attention|yue|context needed for daai6-2, daai6-1}}
 
 ====Definitions====
 {{zh-hanzi}}
@@ -76,11 +82,18 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{oc
 # [[mature]]; [[grown up]]
 #: {{zh-also|老}}
 #* {{zh-x|你 多 大 了？|How '''old''' are you?}}
-#* {{zh-x|她 比 他 大。|She is '''older''' than him.}}
+#* {{zh-x|她 比 他 大。|She is '''old'''er than him.}}
+#* {{zh-x|你 隻 狗 係 咁 大{daai6-2} 㗎 喇。|Your dog isn't going to grow any '''old'''er.|C}}
 # [[greatly]]; very much
 #* {{zh-x|^中 ^美 關係 已 有 很 大 改善。|Relations between China and America have improved '''greatly'''.}}
 # {{lb|zh|dialectal}} [[father]]
 # {{lb|zh|dialectal}} [[father]]'s elder or younger brother
+# {{lb|zh|Cantonese}} [[small]]
+#* {{zh-x|咁 大{daai6-1}|so puny|C}}
+# {{lb|zh|Cantonese|slang}} to [[intimidate]]; to [[threaten]]
+#* {{zh-x|你 大 我 呀{aa4}？|Are you trying to '''intimidate''' me?|C}}
+# {{lb|zh|Cantonese|euphemistic}} [[number two]]
+#* {{zh-x|我 好 急 呀，要 去 大。|I need to go '''number two'''.|C}}
 # {{zh-abbrev|大學|university}} ''Used only in the abbreviation of the name.''
 #: {{zh-x|北{Běi} 大{Dà}|Peking University}}
 
@@ -95,9 +108,10 @@ The three pronunciations are cognate. Within Chinese, they are cognate with {{oc
 ===Pronunciation 2===
 {{zh-pron
 |m=dài,dà
-|m_note=dà - variant used in {{l|zh|大王|ringleader; monarch}}
+|m_note=dà - variant used in {{l|zh|大王||ringleader; monarch}}
 |c=daai6
 |h=pfs=thai
+|j=dai3
 |md=dâi
 |mn=tāi
 |mn-t=dai6
