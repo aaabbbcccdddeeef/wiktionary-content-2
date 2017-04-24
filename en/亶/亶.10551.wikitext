@@ -2,14 +2,10 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=8|rad=亠|as=11|sn=13|four=00106|canj=YWRM|ids=⿱㐭旦 <small>(GTJ)</small>,⿱㐭且 <small>(K)</small>}}
-
-# [[sincere]]
-# [[real]], [[true]]
-# [[truth]]
+{{Han char|rn=8|rad=亠|as=11|sn=13|four=00106|canj=YWRM|ids=⿱㐭旦}}
 
 ====Derived characters====
-* [[顫]], [[擅]], [[壇]], [[膻]], [[檀]], [[嬗]], [[氊]], [[氈]], [[儃]], [[饘]], [[鸇]], [[𧾍]], [[䁴]], [[驙]], [[澶]], [[鱣]], [[蟺]], [[𨭖]]
+* {{l|mul|[[顫]]/[[颤]], [[擅]], [[壇]], [[膻]], [[檀]], [[嬗]], [[氊]], [[氈]], [[儃]], [[饘]]/[[𫗴]], [[鸇]]/[[鹯]], [[𧾍]], [[䁴]], [[驙]]/[[𫘰]], [[澶]], [[鱣]]/[[鳣]], [[蟺]], [[𨭖]]/[[𫔑]], [[繵]]/[[𬙉]], [[㣶]], [[䄠]], [[䆄]], [[䁴]], [[䃪]], [[譠]], [[旜]], [[勯]], [[皽]], [[㔊]]}}
 
 ====References====
 * {{Han ref|kx=0089.200|dkj=00328|hdz=10291.060|uh=4EB6|ud=20150|bh=DCB3|bd=56499}}
@@ -23,10 +19,12 @@
 {{Han etym}}
 {{Han compound|㐭|旦|c1=s|c2=p|ls=psc}}.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
-|m=dǎn
-|c=taan2,sin6,sin4
+|m=dǎn,dàn
+|c=taan2,daan6
 |h=pfs=
 |md=
 |mn=chiⁿ
@@ -35,12 +33,47 @@
 |oc=y
 |cat=a,n
 }}
-{{attention|zh|needs sorting out}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{zh-obsolete}} [[sincere]], [[truthful]] <!-- [1]《廣韻·上聲》亶：信也，厚也，大也，多也，穀也，俗作亶。多旱切，又遮連切，八。 [2]《康熙字典》亶:『《唐韻》多旱切《集韻》《韻會》黨旱切《正韻》多𥳑切，𠀤音僤。信也。』-->
+# {{alt-form|lang=zh|但}}
+# {{surname|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciations====
+{{zh-pron
+|m=zhān
+|c=sin4
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{alt-form|lang=zh|邅}} <!--《康熙字典》亶:『...《集韻》張連切，音鱣。屯亶，難行不進貌。《正譌》別作迍邅，非。又與但同。...』-->
+
+===Etymology 3===
+
+====Pronunciations====
+{{zh-pron
+|m=chán
+|c=sin6
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{alt-form|lang=zh|𦒜}} ''{{gloss|to [[fly]]}}'' <!--《康熙字典》亶:『...《集韻》時連切，音蟬。《山海經》有亶爰山。又與𦒜同。《揚雄·蜀都賦》堪巖亶翔。』-->
 
 ===References===
 * {{R:yue:Hanzi}}
