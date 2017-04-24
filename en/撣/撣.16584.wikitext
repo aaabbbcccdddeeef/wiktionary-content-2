@@ -1,13 +1,10 @@
 {{character info/new}}
 {{also|掸}}
+
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=64|rad=手|as=12|sn=15|four=56056|canj=QRRJ|ids=⿰扌單}}
-
-# to [[dust]]
-# a [[duster]]
-# [[Shan]] people (Mandarin)
 
 ====References====
 * {{Han ref|kx=0455.090|dkj=12725|dj=0804.150|hdz=31958.050|uh=64A3|ud=25763|bh=E5B8|bd=58808}}
@@ -20,30 +17,90 @@
 {{Han etym}}
 
 ===Etymology 1===
-{{zh-forms|s=掸}}
+{{zh-forms|s=掸|alt=撢}}
 
 ====Pronunciation====
 {{zh-pron
 |m=dǎn
 |c=daan6
-|mc=y
-|oc=y
-|cat=
+|mc=1
+|oc=1+2+5
+|cat=v
 }}
-{{attention|zh|distribute mc/oc}}
+{{attention|zh|distribute mc/oc}} <!-- Need to consult Hanyu Da Zidian 汉语大字典／漢語大字典. Mistakes may exist. -->
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{alt-form|lang=zh|撢}} {{gloss|to [[dust#Verb|dust]]}} <!-- Modern usage as verb -->
+# {{zh-obsolete}} to [[make]] [[contact]] with <!-- [1]《廣韻·上平聲·寒·壇》撣：觸也，太經云揮繫其名。[2]《太玄經·盛》: 何福滿肩，提禍撣撣。[3]《揚子·太𤣥經》何福滿肩，提禍撣撣。「註:撣撣，敬也。何福持禍而自儆戒也。」-->
+
+====Compounds====
+{{zh-der|動撣|布撣子|撣塵|撣援|撣灰}}
 
 ===Etymology 2===
+{{zh-forms|s=掸}}
+{{zh-wp|zh:撣族}}
+
+====Pronunciation====
+{{zh-pron
+|m=Shàn
+|c=sin6
+|mc=
+|oc=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{w|Shan people}}
+
+====Compounds====
+{{zh-der|撣人|撣族}}
+
+===Etymology 3===
 {{zh-forms|s=掸}}
 
 ====Pronunciation====
 {{zh-pron
-|m=shàn
-|c=sin6
+|m=chán
+|c=
+|mc=2
+|oc=4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[pull]], to [[tow]] <!--[1]《說文》撣：提持也。从手單聲。讀若行遟驒驒。[2]《廣韻·下平聲·仙·鋋》撣：撣援牽引 -->
+
+===Etymology 4===
+{{zh-forms|s=掸}}
+
+====Pronunciation====
+{{zh-pron
+|m=dàn
+|c=
+|mc=3
+|oc=3
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{alt-form|lang=zh|彈}} <!-- [1]《康熙字典》撣：『... 又《唐韻》徒干切《集韻》《韻會》唐干切《正韻》唐闌切，𠀤音檀。觸也。又與彈通。鼓絃也。又國名。』-->
+# {{zh-obsolete}} to [[touch]] <!-- [1]《康熙字典》撣：『... 又《唐韻》《集韻》《韻會》徒案切《正韻》杜案切，𠀤音憚。亦觸也。』[2]《廣韻·去聲·翰·憚》撣：撣觸也。又徒于切。-->
+
+===Etymology 5===
+{{zh-forms|s=掸}}
+
+====Pronunciation====
+{{zh-pron
+|m=tān,zhǎn
+|c=
 |mc=
 |oc=
 |cat=
@@ -52,9 +109,9 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-obsolete}} to be [[hasty]] <!--《康熙字典》撣：又他干切，音灘。持不堅也。又旨善切，饘上聲。排急也。-->
 
-===Etymology 3===
+===Etymology 6===
 {{zh-forms|s=掸|alt=摌}}
 
 ====Pronunciation====
@@ -68,9 +125,6 @@
 
 # {{lb|zh|Sichuanese}} to [[whip]]
 # {{lb|zh|Sichuanese}} to [[chase]] away (flies), to get rid of (dust)
-
-===Compounds===
-{{zh-der|動撣|布撣子|撣人|撣塵|撣援|撣族|撣灰}}
 
 ===References===
 * {{R:yue:Hanzi}}
@@ -92,7 +146,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手12|hanviet=[[đan]], [[đản]]}}
+{{vi-hantu|rs=手12|hanviet=[[đan]], [[đản]]}}
 
 # {{defn|lang=vi|sort=手12}}
 
