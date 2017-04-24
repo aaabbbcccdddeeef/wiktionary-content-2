@@ -1,12 +1,9 @@
 {{character info/new}}
 {{also|弋|𠀋}}
+
 ==Translingual==
 {{stroke order|type=animate}}
 {{stroke order|type=tanimate}}
-
-===Etymology===
-{{Han etyl}}
-{{liushu|i}}; a tool or weapon on a pole, the pole having developed into the long upper-left to lower-right diagonal stroke.
 
 ===Han character===
 {{Han char|rn=62|rad=戈|as=00|sn=4|four=53000|canj=I|ids=⿻弋丿}}
@@ -25,6 +22,12 @@
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:戈 (武器)|en:dagger-axe}}
+{{zh-wp|zh:戈姓}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|i}}; a tool or weapon on a pole, the pole having developed into the long upper-left to lower-right diagonal stroke.
 
 ===Pronunciation===
 {{zh-pron
@@ -38,25 +41,19 @@
 |cat=n
 }}
 
-====Noun====
-{{zh-noun}}
+===Definitions===
+{{zh-hanzi}}
 
-# {{lb|zh|archaic}} dagger-axe {{gloss|an ancient Chinese weapon similar to a halberd}}
-
-====Proper noun====
-{{zh-proper noun}}
-
+# {{lb|zh|archaic}} {{w|dagger-axe}} {{gloss|an ancient Chinese [[weapon]] similar to a [[halberd]]}}
 # {{surname|lang=zh}}
+# used as a [[phonetic]] in foreign names
+#: {{zh-x|^戈登|Gordon}}
+#: {{zh-x|^探戈|Tango}}
 
-====Usage notes====
-Also used as a phonetic in foreign names.
-: {{zh-x|^戈登|Gordon}}
-: {{zh-x|^探戈|Tango}}
+===Compounds===
+{{zh-der|戈壁|倒戈|干戈|兵戈|探戈舞}}
 
-====See also====
-{{projectlink|pedia|Dagger-axe}}
-
-====References====
+===References===
 * {{cite-web
 |url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=戈
 |title=戈
@@ -70,6 +67,7 @@ Also used as a phonetic in foreign names.
 ----
 
 ==Japanese==
+{{wp|lang=ja|戈}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=戈00}}
