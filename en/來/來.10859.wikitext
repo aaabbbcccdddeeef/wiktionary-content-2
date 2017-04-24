@@ -38,22 +38,34 @@
 
 ===Glyph origin===
 {{Han etym}}
-It is shaped like corn or wheat (similar to {{zh-l|*禾}}), symbolising the coming of the crops. Its Old Chinese pronunciation begins with “*''mr-''”. The meaning “come” was originally represented by {{och-l|麥|wheat}}, adding a radical meaning “footprint” or “walk slowly”. Their meanings have interchanged. M-remaining is {{lang|zh|麥}}, l-remaining is {{lang|zh|來}}.
+{{liushu|p}} of wheat – original character of {{och-l|麥|wheat}} or {{och-l|麳|wheat}}. The line in the middle represents the ear, the two lines pointing upwards represent leaves, and the lines pointing downwards represent the stem and roots. An additional horizontal line was often added at the top end of the character, possibly used to emphasize the ear of the wheat. Compare {{zh-l|*禾}}.
+
+This character has been borrowed for “to come” since the oracle bone script. During the {{w|Western Zhou}} and {{w|Warring States period}}s, additional semantic components, such as {{zh-l|*止|foot}} or {{zh-l|*辵|to walk}}, were added to differentiate the original sense from the borrowed sense. However, these additions were not inherited in later scripts.
+
+Some consider the derivative {{zh-l|*麥}} from the addition of {{zh-l|*夊|to walk slowly}} to be the original form for the meaning “to come”. If so, their meanings have interchanged due to frequent use of {{lang|zh|來}} for “to come”. {{attn|zh|Any sources disproving this? Most sources interpret 夊 differently because it seems like 麥 was never used to mean "to come" in oracle bones.}}
+
+''{{w|Shuowen}}'' connects “wheat” and “to come” from a mythological standpoint: {{lang|zh|天所來也}} (“it comes from the heavens”). This may be supported by archaeological evidence, which suggests that wheat is not native to China, but originated in the Fertile Crescent.
+
+{{lang|zh|來}} and {{lang|zh|麥}} have both been reconstructed to begin with *''mr-'' in Old Chinese. The former retains the liquid as {{IPAchar|/l/}}, while the latter retains the nasal {{IPAchar|/m/}}.
 
 ===Etymology===
-From {{inh|zh|sit-pro|*la-j ~ ra}}.
+From {{inh|zh|sit-pro|*la-j ~ ra||to come}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=lái
 |m-s=nai2
 |c=loi4
-|h=pfs=lòi
+|c-t=loi3
+|g=lai4
+|h=pfs=lòi;gd=loi2
+|j=lai1
 |md=lì/lài
 |md_note=lì - colloquial; lài - literary
 |mn=lâi
 |mn-t=lai5
 |w=3le
+|x=lai2
 |mc=y
 |oc=y
 |ma=y
