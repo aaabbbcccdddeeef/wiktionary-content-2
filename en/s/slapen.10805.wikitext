@@ -47,21 +47,25 @@ From {{inh|nds|gml|slāpen}}, from {{etyl|osx|nds}} {{m|osx|slapan}}, from {{ety
 ==Middle Dutch==
 
 ===Etymology===
-From {{inh|dum|odt|*slāpan}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*slēpaną}}.
+From {{inh|dum|odt|*slāpan}}, from {{inh|dum|gem-pro|*slēpaną}}.
 
 ===Pronunciation===
 * {{IPA|lang=dum|/ˈslaːpən/}}
 
 ===Verb===
-{{dum-verb}}
+{{dum-verb|head=slâpen}}
 
 # to [[sleep]]
 
-====Conjugation====
+====Inflection====
 {{dum-conj-st|slap|sliep|sliep|slap|class=7}}
 
 ====Descendants====
 * Dutch: {{l|nl|slapen}}
+
+===Further reading===
+* {{R:VMNW|ID40703|II}}
+* {{R:MNW|52279}}
 
 [[da:slapen]]
 [[de:slapen]]
