@@ -38,14 +38,6 @@
 
 ==Japanese==
 
-===Etymology===
-{{compound|lang=ja|ひ|t1=Japanese cypress|pos1=from {{etyl|ojp|ja|sort=ひのき}} {{IPAchar|/hi<sub>1</sub>/}} which is homophonous with {{IPAchar|/hi<sub>1</sub>/}} (“sun”)|の|pos2=genitive case marker|き|t3=tree}}
-
-===Pronunciation===
-{{ja-pron|ひのき|acc=1|dev=3}}
-* {{a|Osaka}} {{ja-accent-common|a|ひ|のき}}
-* {{a|{{w|Late Middle Japanese}}}} {{IPAchar|/ɸinoki/}}
-
 ===Kanji===
 {{ja-kanji|grade=|rs=木13|style=ky|shin=桧}}
 
@@ -54,11 +46,19 @@
 ====Readings====
 * {{ja-readings|on=[[かい]] (kai)|kun=[[ひのき]] (hinoki)}}
 
-===Noun===
+===Etymology===
+{{compound|lang=ja|ひ|t1=Japanese cypress|pos1=from {{etyl|ojp|ja|sort=ひのき}} {{IPAchar|/hi<sub>1</sub>/}} which is homophonous with {{IPAchar|/hi<sub>1</sub>/}} (“sun”)|の|pos2=genitive case marker|き|t3=tree}}
+
+====Pronunciation====
+{{ja-pron|ひのき|acc=1|dev=3}}
+* {{a|Osaka}} {{ja-accent-common|a|ひ|のき}}
+* {{a|{{w|Late Middle Japanese}}}} {{IPAchar|/ɸinoki/}}
+
+====Noun====
 {{ja-noun|ひのき}}
 # [[hinoki]], [[Japanese cypress]] (''{{w|Chamaecyparis obtusa}}'')
 
-====Descendants====
+=====Descendants=====
 * English: {{l|en|hinoki}}
 
 ----
