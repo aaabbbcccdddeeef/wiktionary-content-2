@@ -13,9 +13,9 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Etymology 1===
+{{zh-forms}}
 {{onomatopoeic|zh}}.
 
 ====Pronunciation====
@@ -37,17 +37,22 @@
 {{zh-der|咪咪}}
 
 ===Etymology 2===
+{{rfe|zh|contraction of 唔係 (m4 hai6)?}}
 
 ====Pronunciation====
 {{zh-pron
 |c=mai6
-|cat=v
+|cat=adv
 }}
 
 ====Definitions====
 {{zh-hanzi}} {{tlb|zh|Cantonese}}
 
-# {{contraction of|唔係|tr=m<sup>4</sup> hai<sup>6</sup>|lang=yue}}
+# {{n-g|When used with {{zh-l|囉|lo<sup>1</sup>}} at the end of a phrase, used to spell out something obvious.}} {{attn|zh|may need clarification}}
+#* {{zh-x|本 書 咪{mai6} 已經 還 返 畀 你 囉。|I've already given the book back to you, haven't I?|C}}
+# {{n-g|When used with {{zh-l|囉|lo<sup>1</sup>}} or rising intonation at the end of a phrase, used to connect a condition to a result or suggestion.}}
+#* {{zh-x|你 想 睇戲 咪{mai6} 買 飛 囉。|If you want to watch a movie, '''then''' buy your tickets.|C}}
+#* {{zh-x|你 食 埋 咁 多 煎炸 嘢 咪{mai6} 好 熱氣？|If you're eating so much fried stuff, won't you build up a lot of internal heat?|C}}
 
 ===Etymology 3===
 
@@ -60,13 +65,14 @@
 ====Definitions====
 {{zh-hanzi}} {{tlb|zh|Cantonese}}
 
-# [[don't]]
+# {{lb|zh|imperative}} [[don't]]
+#* {{zh-x|咪{mai5} 咁 多事 啦！|'''Don't''' be so nosy!|C}}
 
 =====Synonyms=====
 {{zh-dial|別}}
 
 ===Etymology 4===
-{{bor|yue|en|microphone}} (or {{m|en|mic}}).
+{{bor|yue|en|microphone|'''mi'''crophone}} or {{m|en|mic}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -77,7 +83,7 @@
 ====Definitions====
 {{zh-hanzi}} {{tlb|zh|Cantonese}}
 
-# {{zh-short|咪高峰|[[microphone]]}}
+# {{zh-short|咪高峰|[[microphone]]}} {{zh-mw|支}}
 
 =====Synonyms=====
 {{zh-dial|傳聲器}}
@@ -96,25 +102,62 @@
 # {{zh-only|咪唑|imidazole}}
 
 ===Etymology 6===
-{{zh-see|米|v|metre}}
-
-===Etymology 7===
-{{zh-see|咩|v|the call of a sheep}}
-
-===Etymology 8===
 {{bor|yue|en|mile}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |c=mai1
 |cat=n
 }}
 
-===Definitions===
-{{zh-hanzi}}
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
 
-# {{lb|zh|Cantonese}} [[mile]]
-# {{lb|zh|Hong Kong Cantonese|informal}} [[kilometre]] per [[hour]]
+# [[mile]]
+# {{lb|zh|informal}} [[mile]] per [[hour]]
+# {{lb|zh|informal}} [[kilometre]] per hour
+#* {{zh-x|呢{nei1}度 行 六十 咪 㗎 咋{zaa3} 喎{wo3}。|You should only be driving at 60 '''km/h'''.|C}}
+
+{{attn|zh|咪錶 derived from this?}}
+
+===Etymology 7===
+{{zh-forms|alt=冞}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|c=mai1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# to [[study]] [[hard]]
+
+====Compounds====
+{{zh-der|咪家}}
+
+===Etymology 8===
+{{zh-forms|alt=劘}}
+
+====Pronunciation====
+{{zh-pron
+|c=mai1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# to [[peel]] with a [[knife]]
+# to [[pinch]] (with [[fingernail]]s)
+
+===Etymology 9===
+{{zh-see|米|v|metre}}
+
+===Etymology 10===
+{{zh-see|咩|v|the call of a sheep}}
 
 ----
 
