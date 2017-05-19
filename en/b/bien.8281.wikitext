@@ -2,12 +2,15 @@
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|bene||well}}.
+From {{inh|ast|la|bene||well}}.
 
 ===Adverb===
 {{head|ast|adverb}}
 
 # [[well]]
+
+====Related terms====
+* {{l|ast|bonu}}
 
 ----
 
@@ -23,7 +26,7 @@ From {{etyl|la|ast}} {{m|la|bene||well}}.
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{m|fro|bien}}, from {{etyl|la|fr}} {{m|la|bene||well}}.
+From {{inh|fr|frm|bien}}, from {{inh|fr|fro|bien}}, from {{inh|fr|la|bene||well}}.
 
 ===Pronunciation===
 * {{audio|Fr-bien.ogg|audio|lang=fr}}
@@ -70,7 +73,7 @@ This intensifier is used only with certain adjectives of negative connotation, s
 * {{l|fr|très bien}}
 {{der-bottom}}
 
-===See also===
+====Related terms====
 * {{l|fr|bon}}
 
 ===Further reading===
@@ -103,12 +106,15 @@ This intensifier is used only with certain adjectives of negative connotation, s
 ==Middle French==
 
 ===Etymology===
-{{inh|frm|fro|bien}}.
+From {{inh|frm|fro|bien}}.
 
 ===Adverb===
 {{head|frm|adverb}}
 
 # [[well]] (in a positive way; in a way that meets or exceeds expectations)
+
+====Related terms====
+* {{l|frm|bienfaire}}
 
 ====Descendants====
 * French: {{l|fr|bien}}
@@ -134,7 +140,7 @@ This intensifier is used only with certain adjectives of negative connotation, s
 ==Old French==
 
 ===Etymology===
-{{etyl|la|fro}} {{m|la|bene}}.
+From {{inh|fro|la|bene}}.
 
 ===Pronunciation===
 * {{IPA|/bjẽn/|lang=fro}}
@@ -155,15 +161,19 @@ This intensifier is used only with certain adjectives of negative connotation, s
 # [[possession]]; [[object]] of [[value]]
 # [[good]] {{gloss|as opposed to evil}}
 
+====Related terms====
+* {{l|fro|bon}}
+
 ====Descendants====
-* French: {{l|fr|bien}} (adverb and noun)
+* Middle French: {{l|frm|bien}}
+** French: {{l|fr|bien}} (adverb and noun)
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|bene||well}}.
+From {{inh|es|osp|-}}, from {{inh|es|la|bene||well}}.
 
 ===Pronunciation===
 * {{IPA|lang=es|[bje̞n]|/bjen/}}
@@ -188,6 +198,9 @@ From {{etyl|la|es}} {{m|la|bene||well}}.
 #: ''Las colonias '''bien''' están en las afueras de la ciudad''.
 #:: ''The '''upscale''' neighborhoods are in the city suburbs.''
 
+====Antonyms====
+* {{l|es|mal}}
+
 ===Noun===
 {{es-noun|m|es}}
 
@@ -197,7 +210,11 @@ From {{etyl|la|es}} {{m|la|bene||well}}.
 # ''(plural)'' [[goods]], [[property]], [[possessions]], [[assets]], [[wealth]], [[estate]]
 {{attention|es|we seem to me missing the sense used in the song Las Mañanitas}}
 
-===See also===
+====Antonyms====
+* {{l|es|mal}}
+
+===Related terms===
+* {{l|es|bienfacer}}
 * {{l|es|buen}}, {{l|es|bueno}}
 
 [[Category:Spanish basic words]]
