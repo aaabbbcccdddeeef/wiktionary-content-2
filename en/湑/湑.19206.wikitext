@@ -4,14 +4,10 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=09|sn=12|four=37127|canj=ENOB|ids=⿰氵胥}}
 
-# to [[strain]] [[spirit]]s, [[filter]] out the [[dreg]]s in [[wine]]
-# a [[river]] in [[Shaanxi]] [[province]]
-# [[lush]], [[luxuriant]]
-# [[dew]]
 # [[bright]]{{rfv-sense|mul}}
 
 ====References====
-* {{Han ref|kx=0636.290|dkj=17829|dj=1043.260|hdz=31690.060|uh=6E51|ud=28241|bh=D9FA|bd=55802}}
+{{Han ref|kx=0636.290|dkj=17829|dj=1043.260|hdz=31690.060|uh=6E51}}
 * [http://www.zdic.net/z/1d/js/6E51.htm zdic.net (Han Dian)]
 
 ----
@@ -19,13 +15,20 @@
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|胥|ls=psc|c1=s|c2=p|t1=water}}.
+
 ===Etymology 1===
+
 ====Pronunciation====
 {{zh-pron
 |m=xǔ
 |c=seoi2
+|mn=xm:sú/qz:sír/zz:sí
+|mn-t=su2
 |mc=2
-|oc=y
+|oc=1,2
 |ma=
 |cat=v,a,n
 }}
@@ -33,16 +36,21 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[strain]] [[spirit]]s, [[filter]] out the [[dreg]]s in [[wine]]
-# [[lush]], [[luxuriant]]
+# to [[strain]] [[spirit]]s; to [[filter]] out the [[dreg]]s in [[wine]]
+#* {{zh-x|有 酒 湑{xǔ} 我，無 酒 酤 我。|If I have spirits, I '''strain''' them, do I; if I have no spirits, I buy them, do I.|ref=Shijing}}
+# [[lush]]; [[luxuriant]]
 # [[dew]]
 
 ===Etymology 2===
+
 ====Pronunciation====
 {{zh-pron
 |m=xū
 |c=seoi1
+|mn=xm:su/qz:sir/zz:si
+|mn-t=su1
 |mc=1
+|oc=n,1
 |ma=
 |cat=pn
 }}
