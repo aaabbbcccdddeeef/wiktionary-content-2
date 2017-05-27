@@ -2,13 +2,8 @@
 {{also|籲}}
 ==Translingual==
 
-===Etymology===
-{{Han etyl}}
 ===Han character===
 {{Han char|rn=30|rad=口|as=03|sn=6|four=61040|canj=RMD|ids=⿰口于}}
-
-# interjection '[[alas|Alas!]]'
-# to [[sigh]]
 
 ====References====
 * {{Han ref|kx=0174.140|dkj=03275|dj=0387.060|hdz=10575.070|uh=5401|ud=21505|bh=A653|bd=42579}}
@@ -17,13 +12,17 @@
 
 ==Chinese==
 
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|口|于|ls=psc|c1=s|c2=p|t1=mouth}}.
+
 ===Etymology 1===
 {{zh-see|籲}}
 
 ===Etymology 2===
 {{zh-forms}}
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=xū
 |c=heoi1
@@ -33,15 +32,34 @@
 |w=
 |mc=y
 |oc=y
-|cat=interj,v,a
+|cat=v,interj,a,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# [[hush]]
-# [[sigh]]
-# [[sad]]
+# to [[sigh]]
+# {{†}} [[huh]]! {{gloss|used to express surprise or doubt}}
+# {{†}} [[worried]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|吁咈都俞|喘吁吁|吁噓|吁嗟|吁俞|吁咈|噫吁戲|嗟吁|吁氣|吁吁|欷吁|氣喘吁吁|短嘆長吁|氣吁吁|歎吁|長吁|長吁短嘆|都俞吁咈}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yū
+|cat=interj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Mainland China}} [[whoa]]! {{gloss|used to stop animals from advancing}}
+
 ----
 
 ==Japanese==
