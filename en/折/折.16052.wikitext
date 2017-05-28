@@ -2,82 +2,106 @@
 {{also|摺}}
 ==Translingual==
 
-===Etymology===
-{{Han etyl}}
 ===Han character===
 {{Han char|rn=64|rad=手|as=04|sn=7|four=52021|canj=QHML|ids=⿰扌斤}}
 
-# [[break off]], [[snap]]
-# to [[bend]]
-
 ====References====
-* {{Han ref|kx=0422.040|dkj=11890|dj=0770.010|hdz=31838.070|uh=6298|ud=25240|bh=A7E9|bd=42985}}
+{{Han ref|kx=0422.040|dkj=11890|dj=0770.010|hdz=31838.070|uh=6298}}
 
 ----
 
 ==Chinese==
 
+===Glyph origin===
+{{Han etyl}}
+
 ===Etymology 1===
 {{zh-forms}}
+From {{inh|zh|sit-pro|*tsjat||to cut off; to sever; to break}}.
 
-====Pronunciation====
+====Pronunciation 1====
 {{zh-pron
 |m=zhé
 |ma=y
-|c=sit6,zit3
+|c=zit3
 |h=pfs=chak
 |md=
 |mn=chi̍h/chek/chiat
-|mn_note=chi̍h/chek - vernacular, chiat - literary
+|mn_note=chi̍h, chek - vernacular; chiat - literary
 |w=
-|mc=y
-|oc=y
-|cat=v,n
+|mc=2
+|oc=3,2
+|cat=v,n,cls,pn
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
-# to [[strand]]
+# to [[break off]]; to [[snap]]; to [[pluck]] off
 # to [[bend]]
 # to [[lose]]
-# to [[die young]]
-# to [[admire]]
-# to [[trade]]
-# to [[censure]]
-# {{zh-short|折扣}}
-# [[frustrate]]
-# a measure word
+# to [[die]] ([[young]])
+# to [[admire]]; to be [[convince]]d
+# to [[trade]]; to [[exchange]]
+# to [[censure]]; to [[blame]]
+# [[discount]]
+#: {{zh-x|打 九 折|ten percent off (or discount to ninety percent of the original price)}}
+# [[difficulty]]; [[obstacle]]
+# {{zh-classifier|folds}}
+# {{zh-classifier|theatrical scenes}}
 # {{lb|zh|Chinese calligraphy}} a change in direction of a stroke (such as in {{m|mul|㇕}}, {{m|mul|㇉}}{{,}} or {{m|mul|㇜}})
+# {{surname|lang=zh}}
 
-====Coordinate terms====
+=====Coordinate terms=====
 * {{list:basic character strokes/zh}}
-====Pronunciation====
+
+====Pronunciation 2====
 {{zh-pron
 |m=zhē
+|c=zit3
 |cat=v
 }}
-====Definitions====
+
+=====Definitions=====
 {{zh-hanzi}}
-#to [[overturn]]
-#to [[pour-out]]
-====Pronunciation====
+
+# to [[turn over]]; to [[flip]]
+# to [[pour out]]; to [[tip]] something out
+
+====Pronunciation 3====
 {{zh-pron
 |m=shé
+|c=sit6
+|mc=3
+|oc=2,3
 |cat=v
 }}
-====Definitions====
-{{zh-hanzi}}
-#to [[break]]
-#to [[loss]]
-===Etymology 2===
-{{zh-see|翼|v}}
 
-===Etymology 3===
+=====Definitions=====
+{{zh-hanzi}}
+
+# to [[break]]
+# to be at a (financial) [[loss]]
+
+====Pronunciation 4====
+{{zh-pron
+|m=tí
+|mc=1
+|oc=n,1
+|cat=v
+}}
+{{attn|zh|B-S has dì, not sure what that is}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-only|折折}}
+
+===Etymology 2===
 {{zh-see|摺}}
 
-===References===
-* (''Min Nan'') {{thcwd|3222}}
+===Etymology 3===
+{{zh-see|翼|v}}
 
 ----
 
