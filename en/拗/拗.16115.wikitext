@@ -14,30 +14,102 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
-|m=ǎo,ào,niù,yù
-|c=aau3,ngaau3,aau2,ngaau2,juk6
-|h=pfs=au/áu
-|mn=áu/qz:auh
+|m=ǎo
+|c=aau2
+|h=pfs=
+|mn=
 |mc=y
 |oc=y
 |cat=
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{rfdef|zh}}
 
 ====Compounds====
-{{zh-der|一不拗眾|四不拗六|執拗|憋拗|拗不登|拗不過|拗口|拗口令|拗口風|拗句|拗強|拗彆|拗彆攪炒|拗怒|拗性|拗曲作直|拗甜|拗相公|拗花|拗處|拗蠻|拗體|拗體詩|曲拗|違拗|點拗}}
+{{zh-der|拗曲作直|拗花|點拗}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=ào
+|c=aau3
+|h=pfs=
+|mn=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|四不拗六|執拗|拗不過|拗處|拗甜|拗彆|拗不登|拗句|曲拗|拗彆攪炒|拗體|拗體詩|拗強|拗蠻|拗口風|拗口令|拗口|違拗}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=niù
+|c=
+|h=pfs=
+|mn=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一不拗眾|拗性|拗相公|憋拗}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yù
+|c=juk6
+|h=pfs=
+|mn=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|拗怒}}
+
+<!--
+|h=pfs=au/áu
+|mn=áu/qz:auh
+-->
 
 ===References===
 * {{R:twedu|A01549}}
