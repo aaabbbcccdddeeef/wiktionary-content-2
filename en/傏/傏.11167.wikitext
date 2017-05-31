@@ -13,12 +13,23 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[tong4]]|y=tong4}}
+===Pronunciation===
+{{zh-pron
+|m=táng
+|c=tong4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
 
-# {{defn|lang=yue|sort=人10}}
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
 
 ====References====
 *[http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 67]
@@ -34,12 +45,3 @@
 
 ====Readings====
 * {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[おごる]] (ogoru)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[táng]] ([[tang2]])|wg=t'ang<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=人10}}
