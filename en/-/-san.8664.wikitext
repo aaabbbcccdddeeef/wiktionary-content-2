@@ -37,21 +37,22 @@ From {{etyl|ja|en}} {{m|ja|さん||tr=san}}
 * {{IPA|/sˠənˠ/|lang=ga}}
 
 ===Suffix===
-{{head|ga|suffix}}
+{{ga-suffix|e}}
 
-# {{non-gloss definition|emphatic suffix of the third-person singular masculine; used after velarized consonants and back vowels}}
-# {{non-gloss definition|emphatic suffix of the third-person plural; used after velarized consonants and back vowels}}
+# {{non-gloss definition|emphatic suffix of the following persons; used after velarized consonants and back vowels}}
+## {{n-g|third-person singular masculine}}
+## {{n-g|third-person plural}}
 
 ====Usage notes====
 Spelled with a hyphen after ''-s'', otherwise without a hyphen.
 * Added to [[noun]]s (or [[adjective]]s modifying a noun) in the presence of the [[possessive adjective]] to emphasize the possessor rather than the thing possessed:
-*: {{ux|ga|a mhadra'''san'''|''his'' dog|inline=1}}
-*: {{ux|ga|a gcarr dearg'''san'''|''their'' red car|inline=1}}
+*: {{uxi|ga|a mhadra'''san'''|''his'' dog}}
+*: {{uxi|ga|a gcarr dearg'''san'''|''their'' red car}}
 * Added to [[pronoun]]s (both simple and prepositional) to add emphasis (''not'' to create a reflexive pronoun):
-*: {{ux|ga|as'''-san'''|out of ''him''|inline=1}}
-*: {{ux|ga|siad'''san''', iad'''san'''|''they'', ''them''|inline=1}}
+*: {{uxi|ga|as'''-san'''|out of ''him''|inline=1}}
+*: {{uxi|ga|siad'''san''', iad'''san'''|''they'', ''them''}}
 * Added to synthetic [[verb]] forms to add emphasis to the subject (third-person plural only as there are no third-person singular synthetic forms):
-*: {{ux|ga|chualadar'''san'''|''they'' heard|inline=1}}
+*: {{uxi|ga|chualadar'''san'''|''they'' heard}}
 
 ====Derived terms====
 {{suffixsee|ga}}
