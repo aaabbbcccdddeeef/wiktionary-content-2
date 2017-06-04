@@ -179,14 +179,9 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 This ''genitival adjective'' is used to express the indirect genitive. It indicates that the noun preceding it (with which it agrees in gender and number), is possessed by the noun which follows it.
 
 ====Inflection====
-{| class="wikitable"
-|-
-! !! Masculine !! Feminine
-|-
-| Singular || ''n''<hiero>n</hiero> || ''nt''<hiero>n:t</hiero>
-|-
-| Plural || ''nw''<hiero>nw:Z1</hiero> || ''nt''<hiero>n:t</hiero>
-|}
+{{egy-decl-adj|f=n|n, nj|hiero1=<hiero>n</hiero>, <hiero>n:y</hiero>|hiero2=<hiero>n:t</hiero>
+|hiero3=<hiero>n-w-y:.</hiero>|hiero4=<hiero>n:t*y</hiero>
+|hiero5=<hiero>nw</hiero>, <hiero>nw:Z1</hiero>|hiero6=<hiero>n:t</hiero>}}
 
 ===Preposition===
 {{head|egy|preposition|head=<hiero>n</hiero>}}
