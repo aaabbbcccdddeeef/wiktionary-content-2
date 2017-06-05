@@ -17,20 +17,25 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 ----
 
 ==Chinese==
-{{zh-forms|alt=嗑}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|口|曷|ls=psc|c1=s|c2=p}}.
+{{Han compound|口|曷|ls=psc|c1=s|c2=p|t1=mouth}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{zh-forms|alt=欱}}
+From {{inh|zh|sit-pro|*hwap||to drink}}. Cognate to {{och-l|噏|to drink}} and {{och-l|呷|to drink}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
 {{zh-pron
 |m=hē
 |m-s=ho1
 |c=hot3
-|h=pfs=hot
-|mn=hat/hoah
+|j=hah4
+|mn=hoah/hat
+|mn_note=hoah - vernacular; hat - literary
 |w=4heq
+|x=ho6
 |ma=y
 |dial=2
 |oc=n,2
@@ -48,16 +53,24 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 ====Compounds====
 {{zh-der|fold=1|喝了蜜|喝悶酒|喝墨水|喝西北風|喝醉|喝交杯|吃香喝辣|信口開喝|吃吃喝喝|喝風痾煙|吃喝不分|大吃大喝|喝洋水|喝啞吧酒|喝喜酒|吃喝嫖賭|喝寡酒|喝風呵煙|喝風|喝茶|喝湯|吃喝玩樂|白吃白喝|磨喝樂|聽喝}}
 
-===Pronunciation 2===
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
 |m=hè
 |c=hot3
-|h=pfs=hot
-|mn=hat/hoah
+|g=hot6
+|h=pfs=hot;gd=hod5
+|j=hah4
+|md=hák
+|mn=hoah/hat
+|mn_note=hoah - vernacular; hat - literary
 |w=4heq
+|x=ho6
 |dial=1
-|mc=y
-|oc=n,1+3
+|mc=2
+|oc=n,3
 |cat=v
 }}
 
@@ -69,9 +82,33 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 ====Compounds====
 {{zh-der|fold=1|喝彩|喝采|喝斥|喝倒彩|喝道|喝令|喝六呼幺|喝問|大吆小喝|呼么喝六|呼盧喝雉|喝五吆三|喝吆|喝禮|吆三喝四|喓五喝六|吆五喝六|喝神斷鬼|恫疑虛喝|估喝|呼三喝四|喝六呼么|呵喝|大喝|喝倒采|喝住|喝命|喝止|喝囉|大聲吆喝|呼喝|叱喝|嗔喝|喝雉呼盧|喝攛箱|喝探|喝參|喝掇|恫喝|當頭棒喝|提鈴喝號|痛喝|棒喝|斷喝|斥喝|籠街喝道|迎頭棒喝|邀喝|虛喝}}
 
-===Pronunciation 3===
+===Etymology 3===
+{{zh-forms|alt=𡁁}}
+
+====Pronunciation====
 {{zh-pron
-|m=hē
+|m=yè
+|c=jit3
+|dial=n
+|mc=1
+|oc=n,1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|of one's voice}} [[hoarse]]
+
+====Compounds====
+{{zh-der|嘶喝}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hē,hè
 |dial=n
 |cat=intj
 }}
@@ -80,6 +117,9 @@ Han unification: Japanese character appears as <span lang="ja" style="font-size:
 {{zh-hanzi}}
 
 # {{zh-alt-form|嗬|[[hey]]}}
+
+===Etymology 5===
+{{zh-see|𡁁|v|sound}}
 
 {{zh-cat|Beginning}}
 
