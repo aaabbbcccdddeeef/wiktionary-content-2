@@ -1,58 +1,342 @@
+{{also|completé|complété|complète}}
 ==English==
-===Transitive verb===
-'''to complete''' ([[completes]], [[completed]], [[completing]])
 
-# To [[finish]]<!-- please improve -->
+===Etymology===
+From {{inh|en|enm|compleet||full, complete}}, a {{bor|en|fro|complet|nocap=1}} or {{bor|en|la|completus|notext=1}}, past participle of {{m|la|compleo|compleō|I fill up, I complete}} (whence also {{m|en|complement}}, {{m|en|compliment}}), from {{m|la|com-}} + {{m|la|pleo|pleō|I fill, I fulfill}} (whence also {{m|en|deplete}}, {{m|en|replete}}, {{m|en|plenty}}), ultimately from {{der|en|ine-pro|*pleh₁-||to fill}} (English {{m|en|full}}).
+
+===Alternative forms===
+* {{l|en|compleat}} {{qualifier|archaic}}<!--Maybe just dated, I'm not really sure of the difference-Keene-->
+
+===Pronunciation===
+* {{IPA|/kəmˈpliːt/|lang=en}}
+* {{audio|en-us-complete.ogg|Audio (US)|lang=en}}
+* {{rhymes|iːt|lang=en}}
+* {{hyphenation|com|plete|lang=en}}
+
+===Verb===
+{{en-verb|complet}}
+
+# {{lb|en|transitive}} To [[finish]]; to make [[done]]; to reach the [[end]].
+#: ''He '''completed''' the assignment on time.''
+# {{lb|en|transitive}} To make [[whole]] or [[entire]].
+#: ''The last chapter '''completes''' the book nicely.''
+
+====Usage notes====
+* This is a [[catenative]] verb that takes the ''gerund (-ing)''. See [[Appendix:English catenative verbs]]
 
 ====Synonyms====
-*[[accomplish]]
-*[[finish]]
+* {{l|en|accomplish}}
+* {{l|en|finish}}
 
-====Antonym====
-*[[incomplete]]
+====Related terms====
+{{top2}}
+* {{l|en|accomplish}}
+* {{l|en|complement}}
+* {{l|en|completion}}
+* {{l|en|completive}}
+{{mid2}}
+* {{l|en|comply}}
+* {{l|en|deplete}}
+* {{l|en|replete}}
+{{bottom}}
 
 ====Translations====
-*Chinese: [[完成]]
-*Dutch: [[voltooien]]
-*French: [[accomplir]]
-*German: [[durchzuführen]]
-*Greek: [[ολοκληρώσει]]
-*Italian: [[completare]]
-*Japanese: [[完了する]]<!-- please check -->
-*Polish: [[ukończyć]]
-*Portuguese: [[terminar]]
-*Russian: [[завершить]] (zavershit')
-*Spanish: [[terminar]]
+{{trans-top|to finish}}
+* Arabic: {{t|ar|اِنْتَهَى}}, {{t|ar|أَكْمَلَ}}
+* Armenian: {{t-needed|hy}}
+* Catalan: {{t+|ca|complir}}
+* Chinese:
+*: Mandarin: {{t+|cmn|完成|tr=wánchéng|sc=Hani}}
+* Czech: {{t+|cs|dokončit}}
+* Dutch: {{t+|nl|voltooien}}
+* Esperanto: {{t|eo|kompleti}}
+* Finnish {{t|fi|[[tehdä]] [[loppuun]]}}, {{t|fi|[[saada]] [[valmiiksi]]}}
+* French: {{t+|fr|accomplir}}, {{t+|fr|terminer}}
+* Georgian: {{t|ka|დამთავრება}}, {{t|ka|მორჩნა}}, {{t|ka|დასრულება}}
+* German: {{t+|de|beenden}}, {{t+|de|fertigstellen}}, {{t+|de|fertigmachen}}
+* Greek: {{t+|el|ολοκληρώνω}}
+* Hebrew: {{t|he|סיים|tr=siyém}}
+* Ido: {{t+|io|kompletigar}}
+* Italian: {{t|it|completare}}, {{t+|it|compiere}}
+* Japanese: {{t+|ja|完了|tr=kanryō suru|alt=完了する|sc=Jpan}}, {{t|ja|全うする|tr=mattō suru|sc=Jpan}}, {{t+|ja|終える|tr=oeru|sc=Jpan}}
+* Kazakh: {{t+|kk|бітіру|sc=Cyrl}}, {{t|kk|аяқтау|sc=Cyrl}}
+* Khmer: {{t-needed|km}}
+{{trans-mid}}
+* Kurdish:
+*: Sorani: {{t|ku|ته‌واو کردن|tr=tawAw kirdin|sc=ku-Arab}}
+* Maori: {{t|mi|whakatepe}} {{qualifier|without any omissions}}
+* Mongolian: {{t-needed|mn}}
+* Norwegian:
+*: Bokmål: {{t|nb|fullføre}}, {{t|nb|gjøre ferdig}}
+*: Nynorsk: {{t|nn|fullføre}}, {{t|nn|gjere ferdig}}
+* Polish: {{t+|pl|ukończyć}}
+* Portuguese: {{t+|pt|terminar}}, {{t+|pt|acabar}}, {{t+|pt|concluir}}
+* Romanian: {{t+|ro|completa}}, {{t+|ro|termina}}
+* Russian: {{t+|ru|заверша́ть|impf}}, {{t+|ru|заверши́ть|pf}}, {{t+|ru|зака́нчивать|impf}}, {{t+|ru|зако́нчить|pf}}
+* Slovene: {{t|sl|dokončati}}, {{t|sl|zaključiti}}
+* Spanish: {{t+|es|terminar}}, {{t+|es|completar}}
+* Swedish: {{t+|sv|slutföra}}, {{t+|sv|färdigställa}}, göra {{t+|sv|färdig}}
+* Telugu: {{t+|te|పూర్తిచేయు}}, {{t+|te|ముగించు}}
+* Thai: {{t-needed|th}}
+* Turkish: {{t+|tr|tamamlamak}}
+* Vietnamese: {{t-needed|vi}}
+{{trans-bottom}}
 
-=== Adjective ===
-'''complete''' (more complete, most complete)
+{{trans-top|to make whole or entire}}
+* Catalan: {{t+|ca|complir}}
+* Dutch: {{t+|nl|aanvullen}}
+* Esperanto: {{t|eo|plenigi}}
+* Finnish: {{t+|fi|täydentää}}, {{t+|fi|lopettaa}}
+* French: {{t+|fr|compléter}}
+* Georgian: {{t|ka|შევსება}}
+* German: {{t|de|komplettieren}}, {{t+|de|ergänzen}}
+* Ido: {{t+|io|kompletigar}}
+* Italian: {{t|it|completare}}, {{t+|it|riempire}}
+{{trans-mid}}
+* Japanese: {{t+|ja|完成|tr=kansei saseru|alt=完成させる|sc=Jpan}}
+* Maori: {{t|mi|whakatepe}}
+* Polish: {{t|pl|dopełnić}}, {{t+|pl|uzupełnić}}, {{t|pl|skompletować|pf}}
+* Portuguese: {{t+|pt|completar}}, {{t+|pt|inteirar}}, {{t+|pt|concluir}}
+* Russian: {{t+|ru|укомплекто́вывать|impf}}, {{t+|ru|комплектова́ть|impf}}, {{t+|ru|укомплектова́ть|pf}}
+* Slovene: {{t|sl|dopolniti}}
+* Spanish: {{t+|es|cumplir}}
+* Swedish: {{t+|sv|fullborda}}
+* Turkish: {{t+|tr|tamamlamak}}
+{{trans-bottom}}
 
-# With everything included
+{{checktrans-top}}
+* Esperanto: {{t-check|eo|kompletigi}}
+{{trans-mid}}
+* Hebrew: {{t-check|he|להשלים|tr=le'hashlym|sc=Hebr}}
+{{trans-bottom}}
 
-==== Synonyms ====
-*[[total]]
+===Adjective===
+{{en-adj|er|more}}
 
-==== Translations ====
-*[[Catalan]]: [[complet]] ''m'', [[completa]] ''f''
-*Chinese: [[完全]]
-*Dutch: [[volledig]], [[compleet]], [[allesomvattend]]
-*French: [[complet]] ''m'', [[complète]] ''f''
-*German: [[ganz]], [[komplett]], [[vollständig]]
-*Greek: [[πλήρης]] ''m/f'', [[πλήρες]] ''n''
-*Indonesian: [[lengkap]], [[sempurna]], [[komplit]]
-*Italian: [[completo]] ''m'', [[completa]] ''f''
-*Japanese: [[完成]] (かんせい, kansei), [[完全]]な (かんぜん, kanzen)
-*Polish: [[kompletny]]
-*Portuguese: [[completo]] ''m'', [[completa]] ''f''
-*Russian: [[вполне]] ''m/f/n'' (vpolne)
-*Spanish: [[completo]] ''m'', [[completa]] ''f''
+# With all parts [[included]]; with nothing missing; full.
+#: {{ux|en|My life will be '''complete''' once I buy this new television.}}
+#: {{ux|en|She offered me '''complete''' control of the project.}}
+#: {{ux|en|After she found the rook, the chess set was '''complete'''.}}
+#* {{quote-magazine|year=2012|month=March-April
+|author=[[w:Terry Sejnowski|Terrence J. Sejnowski]]
+|title=Well-connected Brains
+|volume=100|issue=2|page=171
+|magazine={{w|American Scientist}}
+|url=http://www.americanscientist.org/bookshelf/pub/well-connected-brains
+|passage=Creating a '''complete''' map of the human connectome would therefore be a monumental milestone but not the end of the journey to understanding how our brains work.}}
+# Finished; [[end]]ed; [[conclude]]d; completed.
+#: {{ux|en|When your homework is '''complete''', you can go and play with Martin.}}
+#* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
+|title={{w|The Celebrity}}|chapter=5
+|passage=In the eyes of Mr. Farquhar Fenelon Cooke the apotheosis of the Celebrity was '''complete'''. The people of Asquith were not only willing to attend the house-warming, but had been worked up to the pitch of eagerness. The Celebrity as a matter of course was master of ceremonies.}}
+# {{non-gloss definition|Generic intensifier}}.
+#: {{ux|en|He is a '''complete''' bastard!}}
+#: {{ux|en|It was a '''complete''' shock when he turned up on my doorstep.}}
+#: {{ux|en|Our vacation was a '''complete''' disaster.}}
+# {{lb|en|analysis|Of a [[metric space]]}} in which every [[Cauchy sequence]] converges.
+# {{lb|en|algebra|Of a [[lattice]]}} in which every set with a lower bound has a greatest lower bound.
+# {{lb|en|math|Of a [[category]]}} in which all small [[limit]]s exist.
+# {{lb|en|logic|of a proof system of a [[formal system]]}} &nbsp; With respect to a given [[semantics]], that any [[well-formed formula]] which is (semantically) [[valid]] must also be [[provable]].<ref>Sainsbury, Mark [2001] ''Logical Forms : An Introduction to Philosophical Logic''. Blackwell Publishing, Hong Kong (2010), page 358.</ref>
+#* Gödel's first incompleteness theorem showed that ''Principia'' could not be both consistent and [[complete]]. According to the theorem, for every sufficiently powerful logical system (such as ''Principia''), there exists a statement ''G'' that essentially reads, "The statement ''G'' cannot be proved." Such a statement is a sort of Catch-22: if ''G'' is provable, then it is false, and the system is therefore inconsistent; and if ''G'' is not provable, then it is true, and the system is therefore incomplete.<sup>{{w|Principia Mathematica|WP}}</sup>
+# {{lb|en|computing theory}} With respect to a [[complexity class]], used of a [[problem]] that is in that class and such that every other problem in that class can be [[reduce]]d to it (usually in [[polynomial]] time or [[logarithmic]] space).
+#* {{quote-book|passage=QMA arises naturally in the study of quantum computation, and it also has a '''complete''' problem, Local Hamiltonian, which is a generalization of ''k''-SAT.
+|pageurl=https://books.google.ca/books?id=iJ8XZ4JmXKIC&pg=PA17
+|page=17
+|title=The Complexity of the Consistency and N-representability Problems for Quantum States
+|author=Yi-Kai Liu
+|year=2007}}
+#* {{quote-book|passage='''BPP''' behaves differently in some ways from other classes we have seen. For example, we know of no '''complete''' languages for '''BPP'''.
+|page=137
+|pageurl=https://books.google.ca/books?id=8Wjqvsoo48MC&pg=PA137
+|title=Computational Complexity: A Modern Approach
+|author=Sanjeev Arora and Boaz Barak
+|year=2009}}
 
-==French==
-===noun===
-A popular French dish, served for breakfast, consisting of egg, ham and cheese on bread
+====Synonyms====
+* {{sense|with everything included}} {{l|en|entire}}, {{l|en|total}}
+* {{sense|finished}} {{l|en|done}}
 
-[[it:complete]]
-[[pl:Complete]]
-[[ro:Complete]]
-[[fi:Complete]]
-[[Category:1000 English basic words]]
+====Antonyms====
+* {{l|en|incomplete}}
+
+====Hyponyms====
+{{hyp4|lang=en
+| {{l|en|bicomplete}}
+| {{l|en|cocomplete}}
+| {{l|en|feature-complete}}
+| {{l|en|NP-complete}}
+}}
+
+====Derived terms====
+{{der4|lang=en
+| {{l|en|completely}}
+| {{l|en|completeness}}
+| {{l|en|completion}}
+| {{l|en|completist}}
+}}
+
+====Translations====
+{{trans-top|with everything included}}
+* Arabic: {{t|ar|كَامِل}}
+* Asturian: {{t|ast|completu}}
+* Belarusian: {{t|be|по́ўны|sc=Cyrl}}
+* Bulgarian: {{t+|bg|пъ́лен|m|sc=Cyrl}}, {{t+|bg|цял}}
+* Catalan: {{t+|ca|complet|m}}, {{t+|ca|completa|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|完全|tr=wánquán|sc=Hani}}
+* Czech: {{t+|cs|úplný|m}}, {{t+|cs|plný}}
+* Dutch: {{t+|nl|volledig}}, {{t+|nl|compleet}}, [[allesomvattend]] (''less used''), {{t+|nl|algeheel}}
+* Esperanto: {{t+|eo|kompleta}}
+* Finnish: {{t+|fi|täydellinen}}
+* French: {{t+|fr|complet|m}}, {{t+|fr|complète|f}}
+* Galician: {{t+|gl|completo}}
+* Georgian: {{t|ka|სრული}}
+* German: {{t+|de|ganz}}, {{t+|de|komplett}}, {{t+|de|vollständig}}
+* Greek: {{t+|el|πλήρης|m|f}}, {{t+|el|πλήρες|n}}
+* Hindi: {{t+|hi|पूरा|tr=pūrā|sc=Deva}}
+* Indonesian: {{t+|id|lengkap}}, {{t+|id|sempurna}}, {{t+|id|komplit}}
+* Interlingua: {{t|ia|complete}}
+* Irish: {{t|ga|líonmhar}}, {{t|ga|foirfe}}
+* Italian: {{t+|it|completo|m}}, {{t+|it|completa|f}}
+* Japanese: {{t+|ja|完全|alt=完全な|tr=kanzen na}}, {{t|ja|全い|tr=mattai}}
+* Kurdish:
+*: Sorani: {{t+|ku|ته‌واو|tr=tawAw|sc=ku-Arab}}
+* Latvian: {{t|lv|pilnīgs}}
+{{trans-mid}}
+* Macedonian: {{t|mk|полн|sc=Cyrl}}
+* Norwegian:
+*: Bokmål: {{t+|nb|komplett}}
+*: Nynorsk: {{t|nn|komplett}}
+* Occitan: {{t|oc|complet}}
+* Persian: {{t+|fa|کامل|tr=kâmel|sc=fa-Arab}}, {{t+|fa|کمپلت|tr=komplet|sc=fa-Arab}}
+* Polish: {{t+|pl|pełny}}, {{t+|pl|kompletny}}
+* Portuguese: {{t+|pt|completo}}, {{t+|pt|integral}}, {{t|pt|totalizado}}, {{t+|pt|íntegro}}
+* Romanian: {{t+|ro|complet}}
+* Russian: {{t+|ru|по́лный}}, {{t+|ru|це́лый}}, {{t+|ru|соверше́нный}}
+* Scottish Gaelic: {{t|gd|buileach}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пун|sc=Cyrl}}
+*: Roman: {{t+|sh|pun}}
+* Slovak: {{t|sk|plný}}
+* Slovene: {{t|sl|popoln}}
+* Spanish: {{t+|es|completo}}
+* Swahili: {{t+|sw|kamili}}
+* Swedish: {{t+|sv|komplett}}, {{t+|sv|fullständig}}
+* Telugu: {{t+|te|పూర్తి}}, {{t+|te|సంపూర్ణమైన}}
+* Turkish: {{t+|tr|tamam}}
+* Ukrainian: {{t|uk|по́вний|sc=Cyrl}}
+* Urdu: {{t|ur|پورا|tr=pūrā|sc=ur-Arab}}
+* Yoruba: {{t|yo|bam-bam}}
+{{trans-bottom}}
+
+{{trans-top|finished; ended; concluded; completed}}
+* Asturian: {{t|ast|completu}}
+* Bulgarian:, {{t+|bg|завършен}}
+* Catalan: {{t+|ca|complet}}
+* Finnish: {{t+|fi|valmis}}
+* Galician: {{t+|gl|completo}}
+* Georgian: {{t|ka|დასრულებული}}
+* German: {{t+|de|abgeschlossen}}, {{t+|de|beendet}}
+{{trans-mid}}
+* Irish: {{t|ga|foirfe}}
+* Italian: {{t+|it|completato}}, {{t+|it|concluso}}
+* Japanese: {{t+|ja|終わる|alt=終わった|tr=owatta}}
+* Maori: {{t|mi|rūpeke}}
+* Portuguese: {{t+|pt|completo}}, {{t+|pt|concluído}}, {{t+|pt|terminado}}
+* Slovene: {{t|sl|dokončan}}
+* Spanish: {{t+|es|completo}}
+{{trans-bottom}}
+
+{{trans-top|generic intensifier derived from "complete"}}
+* Finnish: {{t+|fi|täydellinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of metric space: such that every Cauchy sequence converges in it}}
+* Finnish: {{t+|fi|täydellinen}}
+* French: {{t+|fr|complète|f}}
+{{trans-mid}}
+* Polish: {{t|pl|zupełna|f}}
+* Portuguese: {{t+|pt|completo|m}}
+{{trans-bottom}}
+
+{{trans-top|of a lattice: such that every set with a lower bound has a greatest lower bound}}
+* Polish: {{t|pl|zupełna|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of a category: such that all small limits exist}}
+* Polish: {{t|pl|zupełna|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of a proof system: such that any semantically valid formula is also provable}}
+* Polish: {{t+|pl|zupełny}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Further reading====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+===References===
+<references />
+
+===Statistics===
+* {{rank|distribute|ordinary|forms|948|complete|access|ways|grave}}
+
+[[Category:English 2-syllable words]]
+[[Category:English basic words]]
+[[Category:en:Functional analysis]]
+[[Category:en:Mathematics]]
+
+----
+
+==Interlingua==
+
+===Adjective===
+{{ia-adj}}
+
+# {{l|en|complete}}
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+
+# {{feminine plural of|completo|lang=it}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|complēte}}
+
+# {{inflection of|compleō||2|p|pres|actv|impr|lang=la}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{pt-verb-form}}
+
+# {{inflection of|completar||1|s|pres|subj|lang=pt}}
+# {{inflection of|completar||3|s|pres|subj|lang=pt}}
+# {{inflection of|completar||1|s|impr|lang=pt}}
+# {{inflection of|completar||3|s|impr|lang=pt}}
+
+----
+
+==Spanish==
+
+===Verb===
+{{head|es|verb form}}
+
+# {{es-verb form of|ending=ar|mood=imperative|pers=2|formal=yes|number=singular|completar}}
+# {{es-verb form of|ending=ar|mood=subjunctive|tense=present|pers=1|number=singular|completar}}
+# {{es-verb form of|ending=ar|mood=subjunctive|tense=present|pers=2|formal=yes|number=singular|completar}}
+# {{es-verb form of|ending=ar|mood=subjunctive|tense=present|pers=3|number=singular|completar}}
