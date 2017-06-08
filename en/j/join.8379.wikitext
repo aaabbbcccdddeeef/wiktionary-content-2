@@ -1,0 +1,269 @@
+==English==
+
+===Etymology===
+{{PIE root|en|yewg}}
+From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|fro|joindre|notext=1}}, {{m|fro|juindre}}, {{m|fro|jungre}}, from {{der|en|la|iungō||join, yoke}}, from {{der|en|ine-pro|*yewg-|gloss=to join, unite}}. Cognate with Old English {{m|ang|iucian}}, {{m|ang|iugian}}, {{m|ang|ġeocian||to join; yoke}}. More at {{l|en|yoke}}.
+
+===Pronunciation===
+* {{IPA|/ˈdʒɔɪn/|lang=en}}
+* {{rhymes|ɔɪn|lang=en}}
+* {{audio|en-us-join.ogg|Audio (US)|lang=en}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|transitive}} To [[combine]] more than one item into one; to put together.
+#: {{ux|en|The plumber '''joined''' the two ends of the broken pipe.&nbsp;&nbsp; We '''joined''' our efforts to get an even better result.}}
+# {{lb|en|intransitive}} To come together; to meet.
+#: {{ux|en|Parallel lines never '''join'''.&nbsp;&nbsp; These two rivers '''join''' in about 80 miles.}}
+#* {{w|William Shakespeare}} (1564-1616)
+#*: Nature and fortune '''joined''' to make thee great.
+# {{lb|en|transitive}} To come into the [[company]] of.
+#: {{ux|en|I will '''join''' you watching the football game as soon as I have finished my work.}}
+#* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
+|title={{w|The Celebrity}}|chapter=4
+|passage=No matter how early I came down, I would find him on the veranda, smoking cigarettes, or otherwise his man would be there with a message to say that his master would shortly '''join''' me if I would kindly wait.}}
+# {{lb|en|transitive}} To become a [[member]] of.
+#: {{ux|en|Many children '''join''' a sports club.&nbsp;&nbsp; Most politicians have '''joined''' a party.}}
+#* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=22
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=In the autumn there was a row at some cement works about the unskilled labour men. A union had just been started for them and all but a few '''joined'''. One of these blacklegs was laid for by a picket and knocked out of time.}}
+# {{lb|en|computing|databases|transitive}} To produce an [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+#: {{ux|en|By '''joining''' the Customer table on the Product table, we can show each customer's name alongside the products they have ordered.}}
+# To unite in marriage.
+#* {{w|John Wycliffe}} (1320-1384)
+#*: he that '''joineth''' his virgin in matrimony
+#* Bible, {{w|Gospel of Matthew|Matthew}} xix. 6
+#*: What, therefore, God hath '''joined''' together, let not man put asunder.
+# {{lb|en|obsolete|rare}} To [[enjoin]] upon; to [[command]].
+#* {{w|William Tyndale}} (1494-1536)
+#*: They '''join''' them penance, as they call it.
+# To accept, or engage in, as a contest.
+#: {{ux|en|to '''join''' encounter, battle, or issue}}
+#: {{rfquotek|Milton}}
+
+====Synonyms====
+* {{sense|to combine more than one item into one}} {{l|en|bewed}}, {{l|en|connect}}, {{l|en|fay}}, {{l|en|unite}}
+
+====Hyponyms====
+* {{list:database joins/en}}
+
+====Translations====
+{{trans-top|to combine more than one item into one; to put together}}
+* Arabic: {{t|ar|ينضم|sc=fa-Arab}}
+* Armenian: {{t+|hy|միացնել}}
+* Aromanian: {{t|rup|mpriunedz}}, {{t|rup|unescu}}
+* Chinese:
+*: Mandarin: {{t+|cmn|連接}}, {{t+|cmn|连接|tr=liánjiē}}
+* Czech: {{t+|cs|spojit}}
+* Dutch: {{t+|nl|samenvoegen}}, {{t+|nl|verenigen}}
+* Estonian: {{t|et|estonian}}
+* French: {{t+|fr|joindre}}
+* Friulian: {{t|fur|zontâ}}
+* Galician: {{t+|gl|xuntar}}
+* German: {{t+|de|verknüpfen}}, {{t+|de|vereinigen}}, {{t+|de|anschließen}}
+* Hungarian: {{t+|hu|összekapcsol}}, {{t+|hu|összeköt}}
+* Icelandic: {{t|is|sameina}}
+* Irish:
+*: Old Irish: {{t|sga|ad·comla}}
+* Italian: {{t+|it|unire}}, {{t+|it|giuntare}}
+{{trans-mid}}
+* Japanese: {{t+|ja|つなげる|tr=tsunageru}}, {{t|ja|接続|alt=接続する|tr=setsuzoku suru}}, {{t+|ja|結合|alt=結合する|tr=ketsugō suru}}
+* Latin: {{t|la|coniungō}}, {{t|la|cōnectō}}, {{t+|la|iungō}}
+* Latvian: {{t|lv|savienot}}, {{t|lv|saistīt}}, {{t|lv|apvienot}}
+* Lithuanian: {{t+|lt|jungti}}, {{t|lt|sujungti}}
+* Macedonian: {{t|mk|спојува}}, {{t|mk|здружува}}
+* Norman: {{t|nrf|joindre}}
+* Norwegian: {{t|no|sammenstille}}
+* Old English: {{t|ang|gadrian}}, {{t|ang|gelæcan}}
+* Polish: {{t+|pl|łączyć}} / {{t+|pl|połączyć}}
+* Portuguese: {{t+|pt|juntar}}, {{t+|pt|unir}}
+* Quechua: {{t|qu|huñuy}}, {{t|qu|t'inkiy}}
+* Romanian: {{t+|ro|alătura}}, {{t+|ro|împreuna}}, {{t+|ro|uni}}
+* Russian: {{t+|ru|соединя́ть|impf}}, {{t+|ru|соедини́ть|pf}}; {{t+|ru|скреплять|impf}}, {{t+|ru|скрепить|pf}}; {{t+|ru|объединя́ть|impf}}, {{t+|ru|объедини́ть|pf}} ''efforts''
+* Spanish: {{t+|es|juntar}}
+* Swedish: {{t+|sv|sammanfoga}}, {{t|sv|foga samman}} (''a number of objects''), {{t|sv|slå samman}} (''efforts''), {{t|sv|föra samman}}
+* Turkish: {{t+|tr|birleştirmek}}
+{{trans-bottom}}
+
+{{trans-top|to come together; to meet}}
+* Armenian: {{t+|hy|միանալ}}
+* Dutch: {{t+|nl|samenkomen}}
+* German: {{t|de|zusammenkommen}}
+* Hiligaynon: {{t|hil|abay|alt=abáy}}
+* Hungarian: {{t+|hu|beletorkollik}}, {{t+|hu|találkozik}}
+* Italian: {{t+|it|incontrare}}
+* Japanese: {{t|ja|つながる|tr=tsunagaru}}, {{t|ja|接続|alt=接続する|tr=setsuzoku suru}}; {{qualifier|for a river or road}} {{t|ja|合流|alt=合流する|tr=gōryū suru}}
+* Latvian: {{t|lv|apvienoties}}, {{t|lv|vienoties}}, {{t|lv|savienoties}}
+* Macedonian: {{t|mk|се спојува}}, {{t|mk|се здружува}}
+{{trans-mid}}
+* Old English: {{t|ang|fegan}}
+* Persian: {{t+|fa|پیوستن|tr=peyvastan}}
+* Polish: {{t+|pl|łączyć się}} / {{t+|pl|połączyć się}}
+* Portuguese: {{t|pt|[[juntar]]-[[se]]}}
+* Russian: {{t+|ru|соединя́ться|impf}}, {{t+|ru|соедини́ться|pf}}; {{t+|ru|объединя́ться|impf}}, {{t+|ru|объедини́ться|pf}}
+* Spanish: {{t+|es|acompañar}}
+* Swedish: {{t+|sv|möta|alt=mötas}}, {{t+|sv|förenas}}
+* Turkish: {{t+|tr|birleşmek}}, {{t+|tr|çakışmak}}, {{t+|tr|kesişmek}}, {{t+|tr|bir araya gelmek}}
+{{trans-bottom}}
+
+{{trans-top|to come into the company of}}
+* Armenian: {{t+|hy|միանալ}}
+* Catalan: {{t+|ca|unir-se}}, {{t+|ca|afegir-se}}
+* Chinese:
+*: Mandarin: {{t+|cmn|參加}}, {{t+|cmn|参加|tr=cānjiā}}, {{t+|cmn|加入|tr=jiārù}}
+* Dutch: {{t+|nl|vervoegen}}
+* French: {{t+|fr|joindre|alt=se joindre}}
+* German: {{t+|de|anschließen|alt=sich anschließen}}
+* Hungarian: {{t+|hu|csatlakozik}}
+* Italian: {{t|it|aggregarsi}}
+* Japanese: {{t|ja|加わる|tr=kuwawaru}}, {{t+|ja|同伴|alt=同伴する|tr=dōhan suru}}; {{qualifier|figurative}} {{t|ja|合流|alt=合流する|tr=gōryū suru}}
+{{trans-mid}}
+* Latvian: {{t|lv|pievienoties}}
+* Lithuanian: {{t|lt|prisijungti}}, {{t|lt|prisidėti}}
+* Macedonian: {{t|mk|се придружува}}, {{t|mk|се приклучува}}
+* Maori: {{t|mi|kuhu}}, {{t|mi|whakatapoko}}
+* Persian: {{t+|fa|پیوستن|tr=peyvastan}}
+* Polish: {{t+|pl|dołączyć}}, {{t+|pl|dołączyć się}}, {{t+|pl|przyłączyć się}}
+* Portuguese: {{t|pt|[[juntar]]-[[se]] [[a]]}}
+* Russian: {{t+|ru|присоединя́ться|impf}}, {{t+|ru|присоедини́ться|pf}}
+* Swedish: {{t+|sv|följa med}}, {{t|sv|komma med}}, {{t+|sv|hänga med}}
+* Turkish: {{t+|tr|katılmak}}
+{{trans-bottom}}
+
+{{trans-top|to become a member of}}
+* Arabic: {{t|ar|ينخرط}}
+* Armenian: {{t+|hy|միանալ}}
+* Catalan: {{t+|ca|unir-se}}
+* Chinese:
+*: Mandarin: {{t+|cmn|加盟|tr=jiāméng}}, {{t+|cmn|加入|tr=jiārù}}
+* Czech: {{t+|cs|vstoupit}}, {{t|cs|připojit se}}, {{t|cs|stát se členem}}
+* Dutch: {{t|nl|lid worden van}}, {{t+|nl|toetreden}}
+* French: {{t+|fr|joindre|alt=se joindre}}
+* German: {{t+|de|beitreten}}
+* Hungarian: {{t+|hu|belép}}
+* Italian: {{t+|it|aderire}}, entrare a far parte
+* Japanese: {{t|ja|加わる|tr=kuwawaru}}, {{t+|ja|参加|alt=参加する|tr=sanka suru}}; {{qualifier|figurative}} {{t|ja|合流|alt=合流する|tr=gōryū suru}}
+{{trans-mid}}
+* Latvian: {{t|lv|iestāties}}
+* Lithuanian: {{t|lt|įstoti}}
+* Macedonian: {{t|mk|стапува}}, {{t|mk|се зачленува}}
+* Maori: {{t|mi|whakatapoko}}
+* Persian: {{t+|fa|پیوستن|tr=peyvastan}}
+* Polish: {{t+|pl|wstępować}} / {{t+|pl|wstąpić}}, {{t+|pl|przystępować}} / {{t+|pl|przystąpić}}
+* Portuguese: {{t|pt|[[juntar]]-[[se]] [[a]]}}, {{t|pt|[[entrar]] [[em]]}}
+* Russian: {{t+|ru|вступа́ть|impf}}, {{t+|ru|вступи́ть|impf}}
+* Spanish: {{t+|es|unirse}}
+* Swedish: {{t+|sv|gå med}} (i)
+* Turkish: {{t+|tr|katılmak}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Catalan: {{t-check|ca|afegir}}, {{t-check|ca|ajuntar}}
+* French: {{t+check|fr|rejoindre}}
+* {{ttbc|de}}: [[verbinden]] (1), sich [[treffen]] (2), sich [[anschließen]] (3), [[beitreten]] (4)
+{{trans-mid}}
+* Hebrew: {{t-needed|he}}
+* {{ttbc|sl}}: [[združiti]] (1,2), [[pridružiti]] se (3,4)
+* Spanish: {{t+check|es|juntar}}
+{{trans-bottom}}
+
+{{trans-top|to engage or join in battle}}
+* Maori: {{t|mi|harapaki}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# An intersection of piping or wiring; an [[interconnect]].
+# {{lb|en|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{lb|en|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{m|mul|∨}}.
+
+====Antonyms====
+* {{sense|lowest upper bound}} {{l|en|meet}}
+
+====Derived terms====
+{{rel-top3|Terms derived from ''join'' (noun)}}
+* {{l|en|antijoin}}
+* {{l|en|autojoin}}
+* {{l|en|cross join}}
+* {{l|en|equijoin}}
+* {{l|en|explicit join}}
+{{rel-mid3}}
+* {{l|en|hash join}}
+* {{l|en|implicit join}}
+* {{l|en|inner join}}
+* {{l|en|left join}}
+* {{l|en|natural join}}
+{{rel-mid3}}
+* {{l|en|outer join}}
+* {{l|en|right join}}
+* {{l|en|semijoin}}
+* {{l|en|theta join}}
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|an intersection of piping or wiring; an interconnect}}
+* Catalan: {{t+|ca|unió}}
+* Chinese:
+*: Mandarin: {{t+|cmn|連接}}, {{t+|cmn|连接|tr=liánjiē}}
+* Dutch: {{t+|nl|verbinding}}
+* French: {{t+|fr|jointure|f}}
+* German: {{t+|de|Verbindung|f}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|kötés}}, {{t+|hu|csatlakozás}}, {{t|hu|toldás}}
+* Japanese: {{t|ja|接続|tr=setsuzoku}}, {{t+|ja|結合|tr=ketsugō}}
+* Macedonian: {{t|mk|спојка|f}}, {{t|mk|спојница|f}}, {{t|mk|спој|m}}
+* Portuguese: {{t+|pt|conexão|f}}
+* Russian: {{t+|ru|соедине́ние|n}}, {{t+|ru|стык|m}}
+{{trans-bottom}}
+
+{{trans-top|an intersection of data}}
+* French: {{t+|fr|jointure|f}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|junção|f}}
+{{trans-bottom}}
+
+[[Category:English basic words]]
+
+----
+
+==Dalmatian==
+
+===Alternative forms===
+* {{l|dlm|yoin}}
+
+===Etymology===
+From {{inh|dlm|la|ūnus}}.
+
+===Pronunciation===
+* {{IPA|/join/|lang=dlm}}
+
+===Numeral===
+{{head|dlm|numeral|plural|joina}}
+
+# [[one]]
+
+[[Category:Dalmatian cardinal numbers]]
+
+----
+
+==Finnish==
+
+===Etymology 1===
+
+====Verb====
+{{head|fi|verb form}}
+
+# {{fi-form of|juoda|pr=first-person|pl=singular|mood=indicative|tense=past}}
+
+===Etymology 2===
+
+====Noun====
+{{head|fi|noun form}}
+
+# {{fi-form of|joki|case=instructive|pl=plural}}
+
+===Anagrams===
+* {{l|fi|Joni}}, {{l|fi|ojin}}
