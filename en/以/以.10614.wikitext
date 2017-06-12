@@ -67,7 +67,7 @@ Originally {{zh-l|*厶}}, a deformed version of {{zh-l|已}}. {{lang|zh|以}} is
 # [[compared]] [[with]]
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i)|kun=[[おもう]] (omou), [[ゆえに]] (yueni), [[もって]] ([[以って]], motte)}}
+{{ja-readings|goon=い|kanon=い|kun=おもう, ゆえに, も-って}}
 
 ====Compounds====
 {{der-top}}
@@ -93,6 +93,18 @@ Originally {{zh-l|*厶}}, a deformed version of {{zh-l|已}}. {{lang|zh|以}} is
 * [[以来]]
 {{bottom}}
 {{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|い|yomi=o}}
+From {{der|ja|ltc|tr=yi<sup>X</sup>|以|sort=い}}
+
+===Prefix===
+{{ja-pos|prefix|い}}
+
+# from (this reference point) and (more)
+#:{{ja-usex|'''以'''後|'''い'''ご|from now on}}
+#:{{ja-usex|この日'''以'''後|この ひ '''い'''ご|from that day on; ever since that day}}
+#*{{quote-book|||{{ruby|{{lang|ja|[ＳＴＡＲＴＥＲ](スターター) [ＤＥＣＫ](デッキ)}}}}|||{{ruby|{{lang|ja|「ジャンク・シンクロン」＋チューナー'''[以](い)'''[外](がい)のモンスター１[体](たい)'''[以](い)'''[上](じょう)}}}}|chapter={{lang|ja|ジャンク・ウォリアー}}|trans-chapter=Junk Warrior|date=Mar 15 2008|publisher={{w|Konami}}|translation=“Junk Synchron” + 1 or more non-Tuner monsters|transliteration=''“Janku Shinkuron” + Chūnā '''i'''gai no monsutā ittai '''i'''jō}}
 
 ----
 
