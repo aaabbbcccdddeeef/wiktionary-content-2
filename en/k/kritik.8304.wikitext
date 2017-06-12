@@ -1,17 +1,34 @@
 {{also|Kritik}}
 ==Czech==
 
-===Noun===
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|/krɪtɪk/|lang=cs}}
+
+====Noun====
 {{cs-noun|g=m}}
 
 # [[critic]]
 
-====Declension====
-{{rfinfl|cs|noun}}
+=====Declension=====
+{{cs-decl-noun
+ |kritik|kritika|[[kritikovi]], [[kritiku]]|kritika|kritiku|[[kritikovi]], [[kritiku]]|kritikem
+ |[[kritici]], [[kritikové]]|kritiků|kritikům|kritiky|[[kritici]], [[kritikové]]|kriticích|kritiky
+}}
 
-====Related terms====
-* {{l|cs|kritizovat}}
-* {{l|cs|kritika|g=f}}
+=====Derived terms=====
+* {{l|cs|kritička|g=f}}
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|/krɪtɪk/|lang=cs}}
+
+====Noun====
+{{cs-noun form}}
+
+# {{inflection of|kritika||gen|p|lang=cs}}
 
 ===Further reading===
 * {{R:PSJC}}
