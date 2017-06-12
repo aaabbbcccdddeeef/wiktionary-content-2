@@ -135,49 +135,28 @@ Image:Fraktur letter P.png|Uppercase and lowercase '''P''' in [[Fraktur]]
 ==Egyptian==
 
 ===Noun===
-{{head|egy|noun|head=<hiero>p:Z1</hiero>}}
-''masculine''
+{{head|egy|noun|g=m|head=<hiero>p:Z1</hiero>}}
 
 # [[mat]]
 
 ====Inflection====
-{| class="wikitable"
-|-
-! colspan="2"|Declension
-|-
-| sing. || ''p''
-|-
-| dual || ''pwj''
-|-
-| plural || ''pw''
-|}
+{{egy-decl-noun|g=m|p}}
 
 ===Noun===
-{{head|egy|noun|head=<hiero>p:S</hiero>}}
-''masculine''
+{{head|egy|noun|g=m|head=<hiero>p:S</hiero>}}
 
 # [[plinth]]
 
 ====Inflection====
-{| class="wikitable"
-|-
-! colspan="2"|Declension
-|-
-| sing. || ''p''
-|-
-| dual || ''pwj''
-|-
-| plural || ''pw''
-|}
+{{egy-decl-noun|g=m|p}}
 
 ===Proper noun===
-{{head|egy|proper noun|head=<hiero>p:O49</hiero>}}
-''feminine''
+{{head|egy|proper noun|g=f|head=<hiero>p:O49</hiero>}}
 
 # [[w:Buto|Pe]], a city in Lower Egypt, where the Pharaohs were crowned.
 
 ===References===
-Faulkner, ''A Concise Dictionary of Middle Egyptian''
+* {{R:egy:Faulkner}}
 
 [[Category:egy:Architecture]]
 
