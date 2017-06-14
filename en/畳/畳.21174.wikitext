@@ -26,23 +26,46 @@ Japanese shinjitai {{Han simp|疊|f=畾|t=田}}. In current form {{Han compound|
 {{ja-kanji|grade=c|rs=田07|style=s|kyu=疊}}
 
 ====Readings====
-* {{ja-readings|goon=[[じょう]] (jō)|kanon=[[ちょう]] (chō) {{non-joyo-reading}}|kun=[[たたむ]] (tatamu), [[たたみ]] (tatami), [[かさねる]] (kasaneru)|nanori=}}
+* {{ja-readings|goon=じょう<でふ|kanon=ちょう<てふ|kun=かさ-ねる, かさ-ねる, たた-む, たた-み|nanori=あき}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|たた|o1=み|yomi=k}}
+From {{m|ja|畳む|pos=v|tr=tatamu||to [[fold]]}}
+
+====Pronunciation====
+{{ja-pron|acc=1|y=k|たたみ}}
+
+====Noun====
 {{ja-noun|たたみ|kyu=疊}}
 
 # [[tatami]]; a [[tatami]] mat
 # [[repeat]], [[duplicate]]
 # [[repetitious]]
 
-===Counter===
-{{ja-pos|じょう|counter}}
+===Etymology 2===
+{{ja-kanjitab|じょう|yomi=o}}
+From {{der|ja|ltc|疊|tr=dep||to [[fold]]|sort=しょう'}}
+
+====Counter====
+{{ja-pos|じょう|counter|hhira=でふ|kyu=疊}}
 
 # tatami [[mat]]s
 # units of [[area]] as measured in tatami mats
 
-====See also====
+===Etymology 3===
+{{ja-kanjitab|たとう|yomi=irr|sort=たとう}}
+
+====Pronunciation====
+{{ja-pron|acc=2|y=i|たとう}}
+
+====Noun====
+{{ja-noun|たとう|hhira=たたう|kyu=疊}}
+
+# {{clip|lang=ja|畳紙|tr=tatōgami|sort=たとう}}
+
+===See also===
 * {{ja-r|和室|gloss=Japanese-style room|わしつ}}
 * {{ja-r|布団|gloss=[[futon]], sleeping mattress|ふとん}}
 
-[[Category:Japanese basic words|たたみ]]
+{{cln|ja|basic words|sort=たたみ}}
+{{cln|ja|words with multiple readings}}
