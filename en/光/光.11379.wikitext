@@ -68,7 +68,7 @@
 {{ja-readings
 |goon=こう<くわう
 |kanon=こう<くわう
-|kun=ひか-る, ひかり-
+|kun=ひか-る, ひか-り
 |nanori=あき, あきら, こう, てる, ひこ, み, みつ
 }}
 
@@ -88,11 +88,11 @@
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=k|ひかり}}
+{{ja-kanjitab|yomi=k|ひか|o1=り}}
 The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ひかり|acc=3|acc_ref=NHK,DJR|dev=1}}
+{{ja-pron|y=k|ひかり|acc=3|acc_ref=NHK,DJR|dev=1}}
 
 ====Alternative forms====
 * {{l|ja|光り}}
@@ -105,6 +105,23 @@ The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|�
 # a [[metaphorical]] light: [[glory]], a [[glimmer]], a [[gleam]]
 #: {{ja-usex|前途に'''光'''を失う|ぜんと に '''ひかり''' を うしなう|to lose '''light''' regarding the future → future prospects grow dim}}
 #: {{ja-usex|解決への道に'''光'''を投げかける|かいけつ へ の みち に '''ひかり''' を なげかける|to shed '''light''' on the way to a solution}}
+#* {{quote-book
+||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}
+|{{lang|ja|{{w|lang=ja|ファイアーエムブレム 覇者の剣}}}}
+||353
+|{{ja-usex|タニアの'''光'''ティーナ|^タニア の '''^ひかり''' ^ティーナ|Tina, Light of Tania}}
+|coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}
+|chapter={{ruby|{{lang|ja|それぞれの[道](みち)へ}}}}
+|trans-chapter=Epilog
+|trans-title=Fire Emblem: Sword of Champions
+|genre=fiction
+|edition=Jump Remix
+|volume=5
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|date=Oct 20 2007
+|isbn=978-4-08-109486-8}}
 # {{qualifier|in compounds}} [[optics]]
 #: {{ja-usex|'''光'''ファイバー|'''ひかり''' ファイバー|'''optical''' fiber}}
 
