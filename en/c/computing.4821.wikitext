@@ -1,22 +1,79 @@
-=== Etymology ===
-From Latin ''computare'' meaning to count or compute.
+==English==
+{{wikipedia}}
 
-== [[noun]] ==
-#action of using a [[computer]], an electronic apparatus that can process, store and retrieve large amounts of information very quickly.
-# The study of computers and computer programming.
-#:''This course will cover several major fields of computing''
+===Pronunciation===
+* {{IPA|/kəmˈpjuːtɪŋ/|lang=en}}
+* {{audio|en-us-computing.ogg|Audio (US)|lang=en}}
 
-===Translations===
-*[[Dutch]]: [[computeren]], met de computer werken/spelen/bezig zijn
-*[[Esperanto]]: [[komputili]]
-*[[Interlingua]]: [[computatorar]]
-*[[Spanish]]: [[computar]]
-*[[Volapük]]: [[kompütön]]
+===Verb===
+{{head|en|present participle}}
 
-=== See also ===
-*[[computer]]
-*[[computer-aided design]]
-*[[computer graphics]]
-*[[computer language]]
-*[[programming language]]
-*[[computer science]]
+# {{present participle of|compute|lang=en|nocat=1}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{lb|en|literally}} The process or act of [[calculation]]
+# The use of a [[computer]] or computers.
+# The study, field of computers and [[computer programming]].
+#: ''This course will cover several major fields of '''computing'''.
+
+====Related terms====
+* {{l|en|computable}}
+* {{l|en|computation}}
+* {{l|en|computerize}}
+
+====Translations====
+{{trans-see|calculation}}
+
+{{trans-top|action of using a computer}}
+* Chinese:
+*: Mandarin: {{t|cmn|计算机应用|sc=Hani}}
+* Dutch: {{t+|nl|computeren}}, {{t+|nl|computergebruik|n}}
+{{trans-mid}}
+* Finnish: {{t+|fi|tietojenkäsittely}}
+* Greek: {{t+|el|υπολογίζοντας}}
+{{trans-bottom}}
+
+{{trans-top|the study, field of computers and computer programming}}
+* Chinese:
+*: Mandarin: {{t|cmn|计算机编程|sc=Hani}}
+* Dutch: {{t+|nl|informatica}}
+* Finnish: {{t+|fi|tietojenkäsittelytiede}}
+* French: {{t+|fr|informatique|f}}
+* Galician: {{t|gl|informática|f}}
+* Greek: {{t+|el|πληροφορική|f}}
+* Hungarian: {{t+|hu|számítástechnika}}
+* Italian: {{t+|it|informatica|f}}
+* Japanese: {{t|ja|計算機科学|tr=keisanki-kagaku|sc=Jpan}}
+{{trans-mid}}
+* Khmer: {{t|km|កុំព្យូទ័រវិទ្យា|tr=kompyuutoa vityie|sc=Khmr}}, {{t|km|គណិតូបករណ៍វិទ្យា|tr=kak net tob kor vit tyea|sc=Khmr}}
+* Macedonian: {{t|mk|информатика|f|sc=Cyrl}}
+* Persian: {{t+|fa|انفورماتیک|tr=anformâtik}}
+* Polish: {{t+|pl|informatyka|f}}
+* Portuguese: {{t+|pt|informática|f}}, {{t+|pt|computação|f}}
+* Romanian: {{t+|ro|informatică|f}}
+* Russian: {{t+|ru|информа́тика|f}}
+* Sindhi: {{t+|sd|ڳڻپيوڀياس|tr=ganpyubhiyaas|sc=sd-Arab}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{t-check|eo|komputili}}
+* {{ttbc|fr}}: [[computation]], utilisation d'un ordinateur, [[informatique]]
+* Interlingua: {{t-check|ia|computatorar}}
+* Novial: {{t-check|nov|komputo}}, {{t-check|nov|komputatione}}
+{{trans-mid}}
+* Serbo-Croatian: {{t+check|sh|računarstvo|n}}
+* Spanish: {{t-check|es|computación}}
+* Volapük: {{t-check|vo|kompütön}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|computer-aided design}}
+* {{l|en|computer graphics}}
+* {{l|en|computer language}}
+* {{l|en|computer science}}
+
+{{topics|en|Computing}}
+
+[[Category:English 3-syllable words]]
