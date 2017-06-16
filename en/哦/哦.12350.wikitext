@@ -4,10 +4,8 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=07|sn=10|four=63050|canj=RHQI|ids=⿰口我}}
 
-# [[oh]]? [[really]]? is that [[so]]?
-
 ====References====
-* {{Han ref|kx=0190.090|dkj=03642|dj=0409.260|hdz=10630.150|uh=54E6|ud=21734|bh=AE40|bd=44608}}
+{{Han ref|kx=0190.090|dkj=03642|dj=0409.260|hdz=10630.150|uh=54E6}}
 
 ----
 
@@ -16,29 +14,79 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|我|ls=psc|c1=s|c2=p|t1=mouth; speech}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=ó,ò,é
-|c=ngo4,o4,o6
-|mn=qz,xm,zz:ò͘/tw:ô͘
-|mc=y
-|oc=y
-|cat=intj,part
+|m=ó
+|c=o2,o4
+|mn=ml:ò͘/tw:ô͘
+|cat=intj
 }}
-{{attention|zh|what should be done about the multiple Mandarin readings? Are these meaningful distinctions?}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# (interjection indicating doubt or surprise), [[oh]]
-# (interjection indicating realization), [[oh]]
-# sentence-final particle conveying [[informality]], [[warmth]], [[friendliness]] or [[intimacy]]
-#: {{zh-x|好 好玩，但 小心 點 哦。|Have fun and be careful.}}
-# sentence-final particle indicating that one is stating a fact that the other person is not aware of
+# {{n-g|Used to express doubt:}} [[oh]]?; [[really]]?
+#: {{zh-x|哦{Ó}，你 就是 他 的 老師？|'''Oh'''? You're his teacher?}}
 
-===References===
-* {{R:cedict}}
+===Pronunciation 2===
+{{zh-pron
+|m=ò,ó,1nb=Mainland,2nb=Taiwan
+|c=o5,o6
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used to express realization or understanding:}} [[oh]]
+#: {{zh-x|哦，我 忘記 帶 鉛筆 來。|'''Oh''', I forgot to bring a pencil.}}
+#: {{zh-x|哦，原來 他 是 個 醫生。|'''Oh''', so he's a doctor.}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=o
+|c=o3
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|sentence-final particle conveying [[informality]], [[warmth]], [[friendliness]] or [[intimacy]]}}
+#: {{zh-x|好好 玩，但 小心 點 哦{o}。|Have fun and be careful.}}
+# {{n-g|sentence-final particle indicating that one is stating a fact that the other person is not aware of}}
+
+===Pronunciation 4===
+{{zh-pron
+|c=o4
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|Used to express acknowledgement:}} [[okay]]
+#: {{zh-x|「幫 我 熄燈 吖。」「哦。」|“Turn off the light for me.” “Okay.”|C}}
+
+===Pronunciation 5===
+{{zh-pron
+|m=é
+|c=ngo4
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to [[recite]] (poetry); to [[chant]]
+# {{lb|zh|Cantonese}} to [[nag]]
+
+====Compounds====
+{{zh-der|吟哦|哦詩|日哦夜哦|咦咿哦哦}}
 
 ----
 
