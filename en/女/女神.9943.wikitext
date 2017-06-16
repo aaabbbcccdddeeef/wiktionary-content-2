@@ -27,37 +27,51 @@
 ----
 
 ==Japanese==
-<div style="float:right;">
-{{wikipedia|lang=ja}}
-{{wikipedia|Goddess}}
-</div>
+{{swp|lang=ja}}
 
 ===Etymology===
 {{ja-kanjitab|め|かみ|k2=がみ|yomi=k}}
-Compound of {{compound|女|tr1=me|t1=woman, female|神|tr2=kami|t2=god, divinity|lang=ja|sort=めがみ}}. {{rendaku2|sort=めがみ|kami|gami}}
+{{com|ja|女|tr1=me|t1=[[female]]|神|tr2=kami|t2=[[god]]|sort=めがみ}}. {{rendaku2|sort=めがみ|kami|gami}}
 
 ===Pronunciation===
-{{ja-pron|yomi=k|めがみ|acc=1|acc_ref=NHK,DJR}}
+{{ja-pron|y=k|めがみ|acc=1|acc_ref=NHK,DJR}}
 
 ===Noun===
 {{ja-noun|めがみ}}
 
-# a [[goddess]]: a [[female]] [[god]]
+# a [[goddess]] {{gl|female deity}}
+#* {{quote-book
+||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}
+|{{lang|ja|{{w|lang=ja|ファイアーエムブレム 覇者の剣}}}}
+||352
+|{{ja-usex|西%方の女%神エキドナ|^せい%ほう の '''^め%がみ''' ^エキドナ|Echidna, Goddess of the West}}
+|coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}
+|chapter={{ruby|{{lang|ja|それぞれの[道](みち)へ}}}}
+|trans-chapter=Epilog
+|trans-title=Fire Emblem: Sword of Champions
+|genre=fiction
+|edition=Jump Remix
+|volume=5
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|date=Oct 20 2007
+|isbn=978-4-08-109486-8}}
 
 ====Derived terms====
 {{der-top}}
-* {{ja-r|幸運の女神|こううん の めがみ}}: [[goddess]] of [[luck]]: [[Lady Luck]]
-* {{ja-r|正義の女神|せいぎ の めがみ}}: [[goddess]] of [[justice]]: [[Lady Justice]]
-* {{ja-r|自由の女神|じゆう の めがみ}}: [[goddess]] of [[freedom]]: [[Lady Liberty]], the [[Statue of Liberty]]
+* {{ja-r|幸%運の女%神|^こう%うん の ^め%がみ|[[Lady Luck]]}}
+* {{ja-r|正%義の女%神|^せい%ぎ の ^め%がみ|[[Lady Justice]]}}
+* {{ja-r|自%由の女%神|^じ%ゆう の ^め%がみ|[[Lady Liberty]]}}
 {{der-bottom}}
 
 ====Antonyms====
-* {{ja-r|男神|おがみ}}: a [[male]] god
+* {{ja-r|男%神|お%がみ|[[male]] god}}
 
 ===References===
 <references/>
 
-[[Category:ja:Gods|めかみ']]
+{{C|ja|Gods|Female|sort=めがみ}}
 
 ----
 
