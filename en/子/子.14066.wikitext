@@ -152,18 +152,37 @@ Cognate with {{och-l|字|character; letter}}, {{och-l|慈|loving; kind}}, {{och-
 {{etyl|ojp|ja|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen in the [[w:Kojiki|''Kojiki'']] and the [[w:Man'yōshū|''Man'yōshū'']], two of the oldest examples of written Japanese. Cognate with {{m|ja|蚕|tr=ko||silkworm}}. Also possibly cognate with {{m|ja|小|tr=ko||little|pos=diminutive prefix}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|こ|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|y=k|こ|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
 * {{s|child}} {{ja-l|児}} {{qualifier|less commonly used}}
 * {{s|girl}} {{ja-l|娘}}
 
 ====Noun====
-{{ja-noun|こ}}
+{{ja-noun|こ|count=人}}
 
 # a [[child]]
 #: {{lang|ja|男の'''子'''}} — {{lang|ja|おとこの'''こ'''}} — ''otoko no '''ko''''' — male '''child''': a boy
 #: {{lang|ja|いい'''子'''}} — {{lang|ja|いい'''こ'''}} — ''ii '''ko''''' — good '''boy'''; good '''girl'''
+#* {{quote-book
+||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}
+|{{lang|ja|{{w|lang=ja|ファイアーエムブレム 覇者の剣}}}}
+||355
+|{{ruby|{{lang|ja|[後](のち)にラグナのセルディアと[結](むす)ばれ８'''[人](にん)の[子](こ)'''を[儲](もう)けた}}}}
+|coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}
+|chapter={{ruby|{{lang|ja|それぞれの[道](みち)へ}}}}
+|trans-chapter=Epilog
+|trans-title=Fire Emblem: Sword of Champions
+|genre=fiction
+|edition=Jump Remix
+|volume=5
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|date=Oct 20 2007
+|isbn=978-4-08-109486-8
+|translation=He later had 8 children with Serdia of Ragna
+|transliteration=''Nochi ni Raguna no Serudia to musubare hachi-'''nin no ko''' o mōketa''}}
 # {{lb|ja|sort=こ|figuratively}} a [[girl]], especially a [[dear]] or [[desire]]d one {{qualifier|compare use of English {{m|en|baby}}, {{m|en|babe}}}}
 #* {{RQ:Manyoshu|7|1266}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1266 text here]
 #*: 大舟乎 荒海尓榜出 八船多氣 吾見之'''兒'''等之 目見者知之母
