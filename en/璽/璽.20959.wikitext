@@ -55,13 +55,12 @@
 }}
 
 ===Etymology 1===
-From {{etyl|ltc|ja|sort=し'}} {{m|ltc|璽|tr=sjeX}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|璽}} and simplified {{m|cmn|玺|tr=xǐ}}.
+From {{etyl|ltc|ja|sort=し'}} {{ltc-l|璽}}. Compare modern {{cog|cmn|-}} {{zh-l|璽}}.
 
 The reading changed from an initial borrowing of {{IPAchar|/shi/ [ɕi]}} to the current reading of {{IPAchar|/ji/ [d͡ʑi]}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}
-* {{IPA|lang=ja|[d͡ʑi]}}
+* {{ja-pron|じ|y=o}}
 
 ====Noun====
 {{ja-noun|じ|hhira=}}
@@ -101,9 +100,7 @@ The reading changed from an initial borrowing of {{IPAchar|/shi/ [ɕi]}} to the 
 Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} ''shirushi'' of verb {{m|ja|印す|tr=shirusu||to stamp with a seal or sigil; to mark or brand}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{ja-accent-common|h|し|るし}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
-* {{IPA|lang=ja|[ɕiɾ̠ɯᵝɕi]}}
+* {{ja-pron|しるし|acc=h|y=k|acc_ref=NHK}}
 
 ====Alternative forms====
 * {{ja-l|印}}
@@ -135,8 +132,7 @@ Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} ''shirushi'' o
 Compound of {{prefix|lang=ja|sort=みしるし|御|tr1=mi|pos1=honorific prefix|璽|tr2=shirushi|t2=imperial mark, seal, or sigil}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|lang=ja|[miɕiɾ̠ɯᵝɕi]}}
+* {{ja-pron|みしるし|y=k}}
 
 ====Alternative forms====
 * {{ja-l|御璽}}, {{ja-l|御印}}
