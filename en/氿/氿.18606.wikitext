@@ -4,32 +4,73 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=02|sn=5|four=34117|canj=EKN,XEKN|ids=⿰氵九}}
 
-# [[mountain]] [[spring]]
-# [[spurt]] from the [[side]]
-# [[liquor]] ({{Hani-second-round simplification of|酒}})
-
 ====References====
-* {{Han ref|kx=0604.010|dkj=17102|dj=0997.100|hdz=31549.030|uh=6C3F|ud=27711|bh=C9A3|bd=51619}}
+{{Han ref|kx=0604.010|dkj=17102|dj=0997.100|hdz=31549.030|uh=6C3F}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|九|ls=psc|c1=s|c2=p|t1=water}}.
+
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=guǐ
-|c=gwai1,gwai2
+|c=gwai2
 |mc=y
 |oc=y
 |ma=
-|cat=n,v
+|cat=n,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{†}} [[dry]] [[ground]] at the [[shore]]
+# {{†}} ([[springwater]]) [[spurt]]ed from the [[side]] of a [[mountain]]
+# {{†}} [[small]] [[fountain]]
+
+====Compounds====
+{{zh-der|氿泉}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jiǔ
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in the names of [[lake]]s in {{w|Yixing}}, [[Jiangsu]], China.}}
+
+====Compounds====
+{{zh-der|東氿|西氿|團氿|三氿}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=qiú
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[shore]]
+
+===Etymology 4===
+{{zh-see|酒|v}}<!-- {{Hani-second-round simplification of|酒}} -->
 
 ----
 
@@ -51,3 +92,12 @@
 {{ko-hanja|hangeul=궤|eumhun=|rv=gwe|mr=kwe|y=kwey}}
 
 # [[spring]]
+
+----
+
+==Zhuang==
+
+===Noun===
+{{za-head|noun}}
+
+# {{za-sawndip form of|laeuj}}
