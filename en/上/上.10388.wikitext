@@ -13,7 +13,7 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=丄,𠄞}}
+{{zh-forms|alt=丄,𠄞,尚-Min Nan “most”}}
 
 ===Glyph origin===
 {{Han etyl}}
@@ -25,12 +25,20 @@ From {{inh|zh|sit-pro|*s-tjaŋ}}.
 ===Pronunciation 1===
 {{zh-pron
 |m=shàng
+|m-s=sang4
 |c=soeng6
-|h=pfs=song
+|c-t=siang5
+|g=song5
+|h=pfs=song;gd=song4
+|j=son3/hon3
 |md=siông
 |mn=xm,qz,tw:siōng/xm,zz:siāng
-|mn_note=Xiamen siāng - only used for "most, extremely"
+|mn_note=Xiamen siāng - only used for “most”
+|mn-t=zion7/ziên7/siang6
+|mn-t_note=zion7/ziên7 - vernacular (“upper part; up; on; above; in”); siang6 - literary (“superior; most”)
 |w=3zaan
+|x=shan5/shan4
+|x_note=shan5 - vernacular; shan4 - literary
 |mc=2
 |oc=3,2
 |ma=y
@@ -48,29 +56,36 @@ From {{inh|zh|sit-pro|*s-tjaŋ}}.
 #* {{zh-x|筆 在 桌 上。|The pen is on the desk.}}
 # [[superior]]; [[senior]]; [[top]]
 # [[preceding]]; [[previous]]; [[last]]; [[former]]
-#* {{zh-x|上 年|last year}}
+#* {{zh-x|上年|last year}}
 #* {{zh-x|上 集|last episode}}
 # [[first]] of several (usually two or three) partitions
 #: {{zh-ant|中|下}}
 #* {{zh-x|西遊記 上|Journey to the West I}}
 #* {{zh-x|上古.漢語 和 中古.漢語|Old Chinese and Middle Chinese}}
-# [[within]], [[in]], from the [[standpoint]] of, [[according to]]
+# [[within]]; [[in]]; from the [[standpoint]] of; [[according to]]
 #* {{zh-x|在 理論 上|according to theory}}
 #*{{zh-x|在 這個 世界 上|in this world}}
 #* {{zh-x|在 ^英文 上 沒有 相似 的 說法。|There is no similar way of wording in English.}}
 # {{lb|zh|Min Nan}} [[most]]; [[extremely]]
-#* {{zh-also|*尚}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=shàng
+|m-s=sang4
 |c=soeng5
-|h=pfs=sông
+|c-t=siang1
+|g=song5
+|h=pfs=sông/sóng;gd=song1/song3
+|h_note=sông / song1 - “to go up; to go; to attend” (major reading); sóng / song3 - “to fit; to install; to apply”
+|j=son3/hon3
 |md=siông/chiông
-|md_note=siông - "to go up" (major reading); chiông - only in "to pull up"
+|md_note=siông - “to go up” (major reading); chiông - only in “to pull up”
 |mn=xm,tp,kh,yl,hc,tc,sx,km,mg:chiūⁿ/zz,tn:chiōⁿ/qz,lk:chiǔⁿ/xm,tp,kh,yl,hc,tc,sx,km,mg:chhiūⁿ/zz,tn:chhiōⁿ/qz,lk:chhiǔⁿ
-|mn_note=chiūⁿ/chiōⁿ/chiǔⁿ - "to go up" (major reading); chhiūⁿ/chhiōⁿ/chhiǔⁿ - only in "to pull up; to grow; to pile up"
+|mn_note=chiūⁿ/chiōⁿ/chiǔⁿ - “to go up” (major reading); chhiūⁿ/chhiōⁿ/chhiǔⁿ - only in “to pull up; to grow; to pile up”
+|mn-t=zion6/ziên6
 |w=3zaan
+|x=shan5/shan4
+|x_note=shan5 - vernacular; shan4 - literary
 |mc=1
 |oc=1+2,1
 |ma=y
@@ -105,10 +120,12 @@ From {{inh|zh|sit-pro|*s-tjaŋ}}.
 ===Pronunciation 3===
 {{zh-pron
 |m=shǎng
+|m-s=sang3
 |c=soeng5
 |h=pfs=sóng
 |md=siōng
 |mn=xm,qz,tw:sióng/zz:siáng
+|mn-t=siang6
 |w=3zaan
 |mc=1
 |oc=1,1
