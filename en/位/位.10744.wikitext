@@ -61,10 +61,45 @@ From {{inh|zh|sit-pro|*g-r(j)ap||to stand}}. Cognate with {{och-l|立}}.
 ----
 
 ==Japanese==
-{{ja-see-also|位する}}
 
-===Counter===
-{{ja-pos|い|hhira=ゐ|counter}}
+===Kanji===
+{{ja-kanji|grade=4|rs=人05}}
+
+====Readings====
+{{ja-readings
+|goon=い
+|kanon=い<ゐ
+|kun=くらい-<くらゐ-
+}}
+
+===Etymology 1===
+{{ja-kanjitab|い|yomi=o}}
+{{der|ja|ltc|位|sort=い}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|い|acc=1|acc_ref=NHK}}
+
+====Affix====
+{{ja-pos|affix}}
+
+# [[rank]], [[place]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|位階|いかい}}
+* {{ja-r|位冠|いかん}}
+* {{ja-r|位官|いかん}}
+* {{ja-r|位記|いき}}
+* {{ja-r|位勲|いくん}}
+* {{ja-r|位次|いじ}}
+* {{ja-r|位相|いそう}}
+* {{ja-r|位置|いち}}
+* {{ja-r|位牌|いはい}}
+* {{ja-r|騎乗位|きじょうい|[[cowgirl position]]}}
+{{der-bottom}}
+
+====Counter====
+{{ja-pos|counter|い|hhira=ゐ}}
 
 # [[rank]], [[place]]
 #* [[第]]１'''位'''である
@@ -82,7 +117,14 @@ From {{inh|zh|sit-pro|*g-r(j)ap||to stand}}. Cognate with {{och-l|立}}.
 # decimal place
 # [[ghost]]s
 
-===Noun===
+===Etymology 2===
+{{ja-kanjitab|くらい|yomi=o}}
+Compound of {{affix|ja|座|tr1=kura|t1=high place|居|tr2=i|t2=residence}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=o|くらい|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|くらい|hhira=くらゐ}}
 
 # [[grade]], [[rank]]
@@ -105,41 +147,20 @@ From {{inh|zh|sit-pro|*g-r(j)ap||to stand}}. Cognate with {{och-l|立}}.
 #*: [[assume]] the throne
 # {{lb|ja|mathematics|sort=くらい}} [[place]], [[position]]
 
-====Derived terms====
-* {{ja-r|位取る|くらいどる}}
+=====Derived terms=====
+* {{ja-r|位する|くらい する}}
 * {{ja-r|位倒れ|くらいだおれ}}
 * {{ja-r|位付け|くらいづけ}}
+* {{ja-r|位取る|くらいどる}}
+* {{ja-r|位負|くらいまけ}}
 
-===Suffix===
-{{ja-pos|くらい|hhira=くらゐ|suffix}}
+====Suffix====
+{{ja-pos|suffix|くらい|hhira=くらゐ}}
 
 # [[seat]], [[position]], [[rank]], [[grade]]
 
-===Kanji===
-{{ja-kanji|grade=4|rs=人05}}
-
-====Readings====
-{{ja-readings
-|goon=い
-|kanon=い<ゐ
-|kun=くらい-<くらゐ-
-}}
-
-====Compounds====
-{{top3}}
-* {{ja-r|位階|いかい}}
-* {{ja-r|位冠|いかん}}
-* {{ja-r|位官|いかん}}
-* {{ja-r|位記|いき}}
-{{mid3}}
-* {{ja-r|位勲|いくん}}
-* {{ja-r|位次|いじ}}
-* {{ja-r|位相|いそう}}
-* {{ja-r|位置|いち}}
-{{mid3}}
-* {{ja-r|位牌|いはい}}
-* {{ja-r|位負|くらいまけ}}
-{{bottom}}
+===References===
+<references/>
 
 ----
 
