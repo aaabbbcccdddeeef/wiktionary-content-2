@@ -44,39 +44,59 @@
 # [[value]]
 
 ====Readings====
-* {{ja-readings|kanon=[[ち]] (chi), [[ちょく]] (choku)|kun=[[ね]] (ne), [[あたい]] (atai), [[あう]] (au)}}
+{{ja-readings|goon=じ,じき|kanon=ち,ちょく|kun=ね,あたい,あう}}
 
 ====Compounds====
-* {{ja-r|価値|かち|gloss=[[value]]}}
-* {{ja-r|値段|ねだん|gloss=[[price]]}}
-* {{ja-r|卸値|おろしね|gloss=[[trade]] [[price]]}}
+* {{ja-r|価値|かち|[[value]]}}
 
-===Noun===
-{{ja-noun|あたい}}
+{{wp|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|あたい|yomi=k}}
+Possibly the conjunctive form of the verb {{m|ja|能う|tr=atau}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あたい|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|価}}
+
+====Noun====
+{{ja-noun|あたい|hhira=あたひ}}
 
 # [[value]]
 
-====Alternative forms====
-* {{l|ja|価}}
-
-====Derived terms====
+=====Derived terms=====
 * {{ja-r|値千金|あたいせんきん}}
 
-===Noun===
+=====See also=====
+* {{ja-r|変数|へんすう|[[variable]]}}
+
+====Verb====
+{{ja-verb-suru|あたい|hhira=あたひ}}
+
+# be [[deserving]], be [[worthy]] (of doing)
+
+=====Conjugation=====
+{{ja-suru|あたい}}
+
+===Etymology 2===
+{{ja-kanjitab|ね|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ね|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|ね}}
 
 # [[price]]
 
-===Verb===
-{{ja-verb-suru|あたい}}
+=====Derived terms=====
+* {{ja-r|値段|ねだん|[[price]]}}
+* {{ja-r|卸値|おろしね|[[trade]] [[price]]}}
 
-# be [[deserving]], be [[worthy]] (of doing)
-
-====Conjugation====
-{{ja-suru|あたい}}
-
-[[Category:Japanese terms spelled with 値]]
-[[Category:Japanese terms written with one Han script character]]
+===References===
+<references/>
 
 ----
 
