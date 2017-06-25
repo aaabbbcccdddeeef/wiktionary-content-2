@@ -171,7 +171,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ==Egyptian==
 
 ===Adjective===
-{{head|egy|adjective|head=<hiero>n</hiero>}}
+{{egy-adj|head=<hiero>n</hiero>}}
 
 # [[of]]
 
@@ -184,58 +184,40 @@ This ''genitival adjective'' is used to express the indirect genitive. It indica
 |hiero5=<hiero>nw</hiero>, <hiero>nw:Z1</hiero>|hiero6=<hiero>n:t</hiero>}}
 
 ===Preposition===
-{{head|egy|preposition|head=<hiero>n</hiero>}}
+{{egy-prep|head=<hiero>n</hiero>}}
 
 # [[to]], [[for]] (''[[dative]]'')
 # [[towards]]
 # {{lb|egy|of time}} [[for]], [[until]]
-# because of
+# [[because]] of
 
 ====Usage notes====
-Before a noun it can be written
-{| class="wikitable"
-|-
-| <hiero>D35</hiero>
-|-
-| ''nj''
-|}
+Before a noun it can be written thus:
+
+{{egy-hieroforms
+|<hiero>D35</hiero>|read1=nj}}
 
 This should not be confused with the negative particle, which is written identically.
 
 ====Inflection====
 {| class="wikitable"
+| '''Adverbial forms''' || {{l-self|egy|nj}} || <hiero>n:Z4</hiero>
 |-
-| '''Adverbial forms''' || ''nj'' || <hiero>n:Z4</hiero>
-|-
-| || ''n(j)'' || <hiero>n</hiero>
+| || {{l-self|egy|n|n(j)}} || <hiero>n</hiero>
 |}
 
 ===Pronoun===
-{{head|egy|pronoun|head=<hiero>n:Z2</hiero>}}
-''dependent pronoun: first person plural''
+{{egy-pron|dep|p|1p|head=<hiero>n:Z2</hiero>}}
 
 # [[we]], [[us]] (see usage notes)
 
 ====Usage notes====
-This form of pronoun is an [[enclitic]], which must directly follow the word it modifies. Its meaning depends on its context.
-* When it follows a verb, it indicates the '''object''' of the verb
-* In the second and third person when it follows an adjective, it forms the subject of an adjectival sentence
-* When it follows a relative adjective, such as [[ntj]], [[ntt]], and [[jsṯ]], it indicates the ''subject'' of the relative clause (Usually only in the first person singular and third person neuter)
-* When it follows an imperative, it indicates the ''object'' of the verb.
-* When it follows a particle like [[mj.k]], it indicates the '''subject''' of the clause.
-* When attached to a preposition, it indicates the '''object''' of the preposition
-<br />
+{{U:egy:dep pronoun}}
 
-This pronoun has a variant hieroglyphic writing:
-{| class="wikitable"
-|-
-| <hiero>n</hiero>
-|-
-|''n''
-|}
+{{egy-hieroforms
+|<hiero>n</hiero>|read1=n}}
 
 ====Inflection====
-Dependent pronouns inflect for gender and number. The "neutral" third person form is often used for inanimate objects. See individual pages for variant writings.
 {{Egyptian personal pronouns}}
 
 ===References===
