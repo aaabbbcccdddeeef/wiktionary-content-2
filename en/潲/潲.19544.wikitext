@@ -12,18 +12,27 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|稍|ls=psc|c1=s|c2=p}}.
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=sau3|y=sau3}}
+===Pronunciation===
+{{zh-pron
+|m=shào
+|c=saau3
+|mc=y
+|oc=y
+|cat=v,n
+}}
+===Noun===
+{{zh-noun}}
+# [[pig]] [[swill]]
+====Compounds====
+* {{zh-l|潲水}}
 
-# {{defn|lang=yue|sort=水12}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[shào]] ([[shao4]])|wg=shao<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=水12}}
+===Verb===
+{{zh-verb}}
+# of rain, to [[fall]] in [[aslant]]
+#: {{zh-x|潲雨 了，咱 趕緊 關 窗戶{hu}。|Rain is '''falling in aslant'''. Let's close the window now.}}
