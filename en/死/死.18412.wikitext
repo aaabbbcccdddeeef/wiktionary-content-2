@@ -107,10 +107,8 @@ In kanji compounds, this would be considered as {{m|ja|音読み|sc=Latn|on'yomi
 
 ====Pronunciation====
 {{ja-pron|し|acc=1|acc_ref=DJR,NHK,SMK5|y=o}}
-{{ja-pron|し|acc=1|y=k}}
 
 ====Noun====
-{{ja-kanjitab|yomi=k|し}}
 {{ja-kanjitab|yomi=o|し}}
 {{ja-noun|し}}
 
@@ -199,7 +197,7 @@ In kanji compounds, this would be considered as {{m|ja|音読み|sc=Latn|on'yomi
 The {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|死ぬ|tr=shinu||to die}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しに|acc=0|acc_ref=DJR}}
+{{ja-pron|y=k|しに|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|しに}}
@@ -240,7 +238,7 @@ The {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|死ぬ|tr=shinu||
 ===References===
 <references/>
 
-[[Category:ja:Death|し]]
+{{C|ja|Death|sort=し}}
 
 ----
 
