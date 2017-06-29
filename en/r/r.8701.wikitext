@@ -141,11 +141,15 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 ==Egyptian==
 {{was fwotd|2016|July|19|lang=egy}}
 
-===Pronunciation===
+===Etymology 1===
+From earlier {{m|egy|rꜣ}}. The actual reading of this word is uncertain, as it is always written as an ideogram, but evidence from Coptic suggests the original was {{m|egy||rꜣ}}.
+
+====Pronunciation====
+* {{a|[[w:Old Egyptian|Reconstructed Old Egyptian]]}} {{IPA|/raʀ/|lang=egy}}, plural {{IPA|/raːʀaw/|lang=egy}}
 * {{a|Egyptological|US}} {{IPA|/ɝ/|lang=en}}
 
-===Noun===
-{{head|egy|noun|g=m|head=<hiero>r:Z1</hiero>|g=m}}
+====Noun====
+{{egy-noun|m|type=consonant stem|head=<hiero>r:Z1</hiero>}}
 
 # [[mouth]]
 #* ''Stela of Hekaib'', Rijksmuseum van Oudheden, [http://www.rmo.nl/collectie/zoeken?object=AP+78 AP 78]:
@@ -153,11 +157,13 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 #*:: jnk nḏs jkr ḏd m '''r'''.f
 #*:: I was an excellent individual; one who spoke with his own '''mouth'''.
 
-====Inflection====
+=====Inflection=====
 {{egy-decl-noun|g=m|r}}
 
-===Preposition===
-{{head|egy|preposition|head=<hiero>r</hiero>}}
+===Etymology 2===
+
+====Preposition====
+{{egy-prep|head=<hiero>r</hiero>}}
 
 # [[regarding]], [[with respect to]], [[concerning]], [[according to]]
 # [[for]], [[in order to]]
@@ -167,27 +173,24 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 # {{lb|egy|of time}} [[at]], [[in]], [[on]]
 # {{lb|egy|after an adjective}} forming the comparative) [[than]]
 
-====Usage notes====
-At the beginning of a sentence, and sometimes before pronouns, written
+=====Usage notes=====
+At the beginning of a sentence, and sometimes before pronouns, written thus:
 
-{| class="wikitable"
-|-
-| <hiero>i-r</hiero>
-|-
-| ''jr''
-|}
+{{egy-hieroforms
+|<hiero>i-r</hiero>|read1=jr}}
 
 ====Inflection====
 {| class="wikitable"
+| '''Adverbial form''' || {{m|egy|jrj}} || <hiero>i-r:Z4</hiero>
 |-
-| '''Adverbial form''' || ''jrj'' || <hiero>i-r:Z4</hiero>
-|-
-| || ''jr(j)'' || <hiero>i-r</hiero>
+| || {{m|egy|jr|jr(j)}} || <hiero>i-r</hiero>
 |}
 
 ===References===
 * {{R:egy:Allen}}
 * {{R:egy:Faulkner}}
+* {{R:egy:Loprieno|p=58}}
+* {{R:egy:Gardiner|p=429}}
 
 ----
 
