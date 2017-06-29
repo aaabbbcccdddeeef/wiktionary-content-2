@@ -1,17 +1,11 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-A combination of semantic [[氵]] ("[[water]]", ''used for rivers'') + phonetic [[折]] ([[Appendix:Baxter-Sagart Old Chinese reconstruction|Old Chinese]]: *''tet''), although usually glossed as semantic as well ("[[broken]], [[crooked]], [[bent]]").
-
 ===Han character===
 {{Han char|rn=85|rad=水|as=07|sn=10|four=32121|canj=EQHL|ids=⿰氵折}}
 
-# {{lb|zh|geography|abbreviation}} ''Short for'' '''[[浙江]]''': [[Zhejiang]], the [[coastal]] [[province]] of [[eastern]] [[China]] [[lying]] [[between]] [[Hangzhou]] [[bay|Bay]] and [[Fujian]].
-# {{lb|zh|historical|geography}} A [[former]] [[name]] of the [[Qiantang]] [[river|River]] in [[Zhejiang]].
-
 ====References====
-* {{Han ref|kx=0623.210|dkj=17458|dj=1021.100|hdz=31618.200|uh=6D59|ud=27993|bh=AEFD|bd=44797}}
+{{Han ref|kx=0623.210|dkj=17458|dj=1021.100|hdz=31618.200|uh=6D59}}
 
 ----
 
@@ -26,7 +20,7 @@ A combination of semantic [[氵]] ("[[water]]", ''used for rivers'') + phonetic 
 {{zh-pron
 |m=zhè
 |c=zit3
-|mn=qz,tw,xm,zz:chiat
+|mn=chiat
 |mc=y
 |oc=y
 |cat=
@@ -35,7 +29,8 @@ A combination of semantic [[氵]] ("[[water]]", ''used for rivers'') + phonetic 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-div|江}} {{lb|zh|historical}} Zhe River {{gloss|former name of the [[Qiantang]] River in [[Zhejiang]], China}}
+# {{zh-short|浙江|Zhejiang Province}}
 
 ====Compounds====
 {{zh-der|兩浙|江浙|浙本|浙東|浙東學派|浙江|浙江潮|浙贛鐵路}}
