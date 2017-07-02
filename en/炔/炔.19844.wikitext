@@ -2,13 +2,8 @@
 {{also|耿}}
 ==Translingual==
 
-===Etymology===
-: [[火]] (fire) + [[夬]], the latter being derived from [[缺]] (lack) of which it is the phonetic element. This is coined in light of the observed lack of two of the hydrogens in alkenes and the fact that alkynes are flammable.
-
 ===Han character===
 {{Han char|rn=86|rad=火|as=04|sn=8|four=95830|canj=FDK,XFDK|ids=⿰火夬}}
-
-# [[alkyne]]
 
 ====References====
 * {{Han ref|kx=0667.190|dkj=18917|dj=1076.270|hdz=32194.030|uh=7094|ud=28820|bh=CD50|bd=52560}}
@@ -17,6 +12,15 @@
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|夬|ls=psc|c1=s|c2=p|t1=fire}} ― smoky.
+
+For the sense “alkyne”, the {{zh-l|*夬}} component is derived from {{zh-l|缺|to lack}}, of which it is also the phonetic element. The character was coined in light of fact that [[alkyne]]s are ''flammable'' ({{zh-l|火}}―“fire”), and ''lack'' two of the hydrogens compared to [[alkene]]s of the [[homologous series]].
+
+Compare {{zh-l|烷}} and {{zh-l|烯}}.
 
 ===Etymology 1===
 From {{zh-l|缺}}.
@@ -24,43 +28,24 @@ From {{zh-l|缺}}.
 ====Pronunciation====
 {{zh-pron
 |m=quē
-|m-s=
 |c=kyut3
-|c-t=
-|g=
-|h=pfs=
-|j=
-|md=
-|mn=
-|mn-t=
-|w=
-|x=
-|mc=
-|oc=
 |cat=n
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[alkyne]]
+# {{zh-div|烴}} {{lb|zh|organic compound}} [[alkyne]]
+
+====Compounds====
+{{zh-der|乙炔|丙炔|丁炔|炔烴|炔鍵|丁二炔|苯乙炔}}
 
 ===Etymology 2===
 
 ====Pronunciation====
 {{zh-pron
 |m=guì
-|m-s=
 |c=gai3
-|c-t=
-|g=
-|h=pfs=
-|j=
-|md=
-|mn=
-|mn-t=
-|w=
-|x=
 |mc=y
 |oc=y
 |cat=a,pn
@@ -69,7 +54,7 @@ From {{zh-l|缺}}.
 ====Definitions====
 {{zh-hanzi}}
 
-# [[smoky]]
+# {{†}} [[smoky]]
 # {{surname|lang=zh}}
 
 ----
