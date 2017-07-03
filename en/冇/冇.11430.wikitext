@@ -1,46 +1,56 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-From the removal of the two inner strokes from {{m|mul|有||to have|sc=Hani}}.
-
 ===Han character===
 {{Han char|rn=13|rad=冂|as=02|sn=4|four=40227|canj=KB,XKB|ids=⿱𠂇冂}}
 
 ====References====
-* {{Han ref|kx=0128.351|hdz=10096.170|uh=5187|ud=20871|bh=C94E|bd=51534}}
+{{Han ref|kx=0128.351|hdz=10096.170|uh=5187}}
 
 ----
 
 ==Chinese==
 
+===Glyph origin===
+From the removal of the two inner strokes from {{zh-l|*有|to have}}.
+
 ===Etymology 1===
-{{zh-forms|alt=無}}
+{{zh-forms|alt=無,冒-Xiang}}
+From {{ltc-l|無|to not have}}, fused with {{ltc-l|有|to have}} ({{zh-ref|Schuessler, 2007}}).
 
 ====Pronunciation====
 {{zh-pron
 |m=mǎo,mǒu
-|m-s=mo2
 |c=mou5
+|c-t=mau1
+|h=pfs=mò;gd=mo2
+|w=3mau
+|x=mau5/mau6
+|x_note=mau5 - “have not; did not”; mau6 - “to not have” (contraction of {{zh-l|*冇得}})
 |cat=v
 }}
 
-====Verb====
-{{zh-verb}} {{tlb|zh|dialectal|chiefly|Cantonese}}
+====Definitions====
+{{zh-hanzi}}
 
-# to [[not]] [[have]]
-#: {{zh-x|你 '''冇''' 女朋友？梗係 唔 信 啦！……或者 有。你 唔知 啫。|You '''don't have''' a girlfriend? Of course I don't believe you! ... Maybe you do have one, but you just don't know it.|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}
-# to [[not]] [[exist]]
+# {{lb|zh|dialectal Mandarin|Cantonese|dialectal Gan|Hakka|dialectal Wu|Xiang}} to [[not]] [[have]]; to not [[exist]]
+#: {{zh-x|你 冇 女朋友？梗係 唔 信 啦！……或者 有。你 唔知 啫。|You '''don't have''' a girlfriend? Of course I don't believe you! ... Maybe you do have one, but you just don't know it.|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}
 #: {{zh-x|冇 理由 㗎。|Impossible.|C}}
+# {{lb|zh|dialectal Mandarin|Cantonese|Xiang}} have not; did not (do something) {{gloss|indicating non-completion of a verb}}
+#: {{zh-x|我 冇 同 佢 講。|I '''did not''' tell him.|C}}
+#: {{zh-x|佢 幾 個 月 都 冇 嚟。|He '''hasn't''' come for a few months.|C}}
 
 =====Usage notes=====
 * Originally from Cantonese, the meaning of this character is now passively understood by many Mandarin speakers.
 
 =====Synonyms=====
-* {{qualifier|chiefly Mandarin}} {{zh-l|沒}}, {{zh-l|沒有}}
+{{zh-dial|沒有}}
 
 ===Etymology 2===
 {{zh-forms}}
+Compare {{cog|skb|||hollow; hole (in a tree, bamboo)|tr=phoong<sup>C2</sup>}}, {{cog|aav-ban-pro|*pɔːŋ||hollow; flattened}} ({{zh-ref|Schuessler, 2007}}).
+
+{{etystub|zh}}
 
 ====Pronunciation====
 {{zh-pron
@@ -51,8 +61,8 @@ From the removal of the two inner strokes from {{m|mul|有||to have|sc=Hani}}.
 |cat=a
 }}
 
-====Adjective====
-{{zh-adj}}
+====Definitions====
+{{zh-hanzi}}
 
 # {{lb|zh|Min|Hakka}} [[empty]]; [[hollow]]; [[spongy]]; [[not]] [[sturdy]]
 #: {{zh-x|冇柴|'''porous''' wood|MN}}
@@ -60,9 +70,6 @@ From the removal of the two inner strokes from {{m|mul|有||to have|sc=Hani}}.
 # {{lb|zh|Min Nan}} [[extravagant]]; [[generous]]
 #: {{zh-x|冇手|'''generous'''|MN}}
 # {{lb|zh|Hakka}} [[insufficient]]; [[lacking]]
-
-===References===
-* {{cite-book|last=|first=|year=2007|title=[[w:Hanyu Da Cidian|Hanyu Da Cidian 3.0]]|language=Mandarin|publisher=[[w:Commercial Press|Commercial Press]]|location=[[Hong Kong]]|isbn=9789620702778}}
 
 ----
 
