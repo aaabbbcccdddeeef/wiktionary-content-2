@@ -49,43 +49,12 @@
 {{ja-kanji|grade=4|rs=人09}}
 
 ====Readings====
-{{ja-readings
-|goon=しき
-|kanon=そく
-|kun=がわ-, かわ-, そば-
-}}
-
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|君側|くんそく}}: [[vicinity]] of a [[lord]]
-* {{ja-r|側圧|そくあつ}}: [[lateral]] [[pressure]]
-* {{ja-r|側鎖|そくさ}}
-* {{ja-r|側室|そくしつ}}
-* {{ja-r|側射|そくしゃ}}
-* {{ja-r|側車|そくしゃ}}
-* {{ja-r|側線|そくせん}}
-* {{ja-r|側背|そくはい}}
-* {{ja-r|側部|そくぶ}}
-* {{ja-r|側聞|そくぶん}}
-* {{ja-r|側壁|そくへき}}
-* {{ja-r|側辺|そくへん}}
-* {{ja-r|側面|そくめん}}
-* {{ja-r|側路|そくろ}}
-* {{ja-r|側火山|そっかざん}}
-* {{ja-r|側近|そっきん}}
-* {{ja-r|側溝|そっこう}}
-* {{ja-r|側根|そっこん}}
-* {{ja-r|側頭|そくとう}}
-* {{ja-r|側泳|そばえい}}
-* {{ja-r|側杖|そばづえ}}
-* {{ja-r|側女|そばめ}}
-* {{ja-r|側役|そばやく}}
-{{der-bottom}}
+{{ja-readings|goon=しき|kanon=そく|kun=がわ-, かわ-, そば-}}
 
 ====Related terms====
 * {{ja-r|側か|ほのか}}
-* {{ja-r|側む|そばむ}}
-* {{ja-r|側仕え|そばづかえ}}
+
+{{wp|lang=ja}}
 
 ===Etymology 1===
 {{ja-kanjitab|がわ|yomi=k}}
@@ -111,6 +80,16 @@
 {{ja-noun|そば}}
 
 # [[vicinity]], [[near]], [[beside]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|側泳|そばえい}}
+* {{ja-r|側杖|そばづえ}}
+* {{ja-r|側仕え|そばづかえ}}
+* {{ja-r|側む|そばむ}}
+* {{ja-r|側女|そばめ}}
+* {{ja-r|側役|そばやく}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|かわ|yomi=k}}
@@ -150,6 +129,59 @@
 {{ja-noun|かたわら|hhira=かたはら}}
 
 # [[side]]
+
+===Etymology 6===
+{{ja-kanjitab|そく|yomi=o}}
+{{der|ja|ltc|側|sort=そく}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|そく|acc=1|acc_ref=DJR}}
+
+====Affix====
+{{ja-pos|affix|そく}}
+
+# [[side]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|君側|くんそく|[[vicinity]] of a [[lord]]}}
+* {{ja-r|側圧|そくあつ|[[lateral]] [[pressure]]}}
+* {{ja-r|側位|そくい|[[spoons position]]}}
+* {{ja-r|側鎖|そくさ}}
+* {{ja-r|側室|そくしつ}}
+* {{ja-r|側射|そくしゃ}}
+* {{ja-r|側車|そくしゃ}}
+* {{ja-r|側線|そくせん}}
+* {{ja-r|側背|そくはい}}
+* {{ja-r|側部|そくぶ}}
+* {{ja-r|側聞|そくぶん}}
+* {{ja-r|側壁|そくへき}}
+* {{ja-r|側辺|そくへん}}
+* {{ja-r|側面|そくめん}}
+* {{ja-r|側路|そくろ}}
+* {{ja-r|側火山|そっかざん}}
+* {{ja-r|側近|そっきん}}
+* {{ja-r|側溝|そっこう}}
+* {{ja-r|側根|そっこん}}
+* {{ja-r|側頭|そくとう}}
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|そく}}
+
+# the first of the [[w:Eight Principles of Yong|Eight Principles of Yong]]
+
+=====Hypernyms=====
+* {{ja-r|永字八法|えいじ はっぽう|the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+
+=====Coordinate terms=====
+* {{ja-r|勒|ろく|the second of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|努|ど|the third of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|趯|てき|the fourth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|策|さく|the fifth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|掠|りゃく|the sixth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|啄|たく|the seventh of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|磔|たく|the eighth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
 
 ===References===
 <references/>
