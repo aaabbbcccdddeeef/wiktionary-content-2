@@ -103,27 +103,10 @@ Cognate with {{cog|bo|ཚ་བོ||nephew}}, {{cog|bo|ཚ་རུས||descenda
 {{ja-kanji|grade=1|rs=子03}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=[[じ]] (ji)
 |kanon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
 |kun=[[あざ]] (aza), [[うむ]] (umu), [[ます]] (masu)}}
-
-====Compounds====
-* {{ja-r|十字|じゅうじ}}: [[cross]]
-* {{ja-r|字解|じかい}}
-* {{ja-r|字義|じぎ}}: the meaning of a word
-* {{ja-r|字源|じげん}}: the construction of a character
-* {{ja-r|字体|じたい}}: font or lettering
-* {{ja-r|字典|じてん}}: character dictionary
-* {{ja-r|字母|じぼ}}: letter (of the alphabet)
-* {{ja-r|漢字|かんじ}}: Chinese characters
-*: {{ja-r|漢字返し|かんじがえし}}: kanji repeater
-* {{ja-r|文字|もじ}}: letter, character, or ideograph
-* {{ja-r|字引|じびき}}: dictionary
-* {{ja-r|数字|すうじ}}: numeral or number
-* {{ja-r|字訳|じやく}}
-* {{ja-r|二字|にじ}}: two [[character]]s
-* {{ja-r|大字|だいじ}}: a large character
 
 ===Etymology 1===
 {{ja-kanjitab|じ|yomi=o}}
@@ -139,6 +122,26 @@ Borrowed from Middle Chinese 字 with the southern [[pronunciation]] ([[kango]],
 #: {{ja-usex|この字は何と読みますか？|この じ は なん と よみますか？|How do you pronounce this character?}}
 # [[handwriting]]
 #: {{ja-usex|彼女は字が上手い。|かのじょ は じ が うまい。|She has good handwriting.}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|永字|えいじ|the character {{m|ja|永|tr=ei||eternity}}}}
+* {{ja-r|十字|じゅうじ|[[cross]]}}
+* {{ja-r|字解|じかい}}
+* {{ja-r|字義|じぎ|the meaning of a word}}
+* {{ja-r|字源|じげん|the construction of a character}}
+* {{ja-r|字体|じたい|font or lettering}}
+* {{ja-r|字典|じてん|character dictionary}}
+* {{ja-r|字母|じぼ|letter (of the alphabet)}}
+* {{ja-r|漢字|かんじ|Chinese characters}}
+*: {{ja-r|漢字返し|かんじがえし|kanji repeater}}
+* {{ja-r|文字|もじ|letter, character, or ideograph}}
+* {{ja-r|字引|じびき|dictionary}}
+* {{ja-r|数字|すうじ|numeral or number}}
+* {{ja-r|字訳|じやく}}}}
+* {{ja-r|二字|にじ|two [[character]]s}}
+* {{ja-r|大字|だいじ|a large character}}
+{{der-bottom}}
 
 ====Counter====
 {{ja-pos|じ|counter}}
