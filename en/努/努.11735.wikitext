@@ -46,8 +46,6 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=力05}}
 
-# [[work]], [[toil]]
-
 ====Readings====
 {{ja-readings
 |goon=[[ぬ]] (nu) {{non-joyo-reading}}
@@ -56,17 +54,51 @@
 |nanori=[[つとむ]] (tsutomu)
 }}
 
-===Etymology===
+{{wp|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ど|yomi=o}}
+{{der|ja|ltc|努|sort=と'}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ど|acc=1|acc_ref=DJR}}
+
+====Affix====
+{{ja-pos|affix|ど}}
+
+# [[work]], [[toil]]
+
+====Noun====
+{{ja-noun|ど}}
+
+# the third of the [[w:Eight Principles of Yong|Eight Principles of Yong]]
+
+=====Hypernyms=====
+* {{ja-r|泳字八法|えいじ はっぽう|the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+
+=====Coordinate terms=====
+* {{ja-r|側|そく|the first of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|勒|ろく|the second of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|趯|てき|the fourth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|策|さく|the fifth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|掠|りゃく|the sixth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|啄|たく|the seventh of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+* {{ja-r|磔|たく|the eighth of the [[w:Eight Principles of Yong|Eight Principles of Yong]]}}
+
+===Etymology 2===
 {{ja-kanjitab|yomi=k|つとむ}}
 [[nominalization|Nominalization]] of the classical Japanese verb {{m|ja|努む|tr=tsutomu}} (modern {{m|ja|努める|tr=tsutomeru||to work, to toil}}).
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|つとむ}}
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|つとむ}}
 
 # {{given name|lang=ja|sort=つとむ|male}}
+
+===References===
+<references/>
 
 ----
 
