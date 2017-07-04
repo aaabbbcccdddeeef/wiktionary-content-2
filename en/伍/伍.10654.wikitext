@@ -11,16 +11,11 @@
 ----
 
 ==Chinese==
-
-===Etymology 1===
-{{zh-see|五|v|five}}
-====See also====
-{{Chinese-numbers}}
-
-===Etymology 2===
 {{zh-forms}}
-
-====Pronunciation====
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亻|五|ls=psc|c1=s|c2=p}}. Also {{liushu|ic}}.
+===Pronunciation===
 {{zh-pron
 |m=wǔ
 |c=ng5
@@ -34,20 +29,23 @@
 |cat=n,propn
 }}
 
-====Noun====
+===Noun===
 {{zh-noun}}
 
-# [[troop]] (of five [[soldiers]])
+# [[troop]] of five [[soldiers]]
 # {{lb|zh|figuratively}} [[military]]
-# [[ally]], [[company]]
+# {{zh-alt-form|五|[[five]]|tr=-|dot=}}
 
-====Proper noun====
+===Proper noun===
 {{zh-proper noun}}
 
 # {{surname|lang=zh|dot=}}: [[Wu]], [[Woo]], [[Ng]], or [[Eng]].
 
-=====Descendants=====
+====Descendants====
 * {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Go}}, {{l|tl|Wu}}
+
+===See also===
+{{Chinese-numbers}}
 
 [[Category:Chinese numeral symbols]]
 [[Category:Chinese numerals]]
