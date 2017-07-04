@@ -1,8 +1,12 @@
 ==Japanese==
-{{ja-kanjitab|し|sort=しぬ|yomi=kun}}
+{{DEFAULTSORT:しぬ}}
+{{ja-kanjitab|し|sort=しぬ|yomi=k}}
 
 ===Etymology===
-{{affix|ja|死|往ぬ}}
+{{com|ja|死|往ぬ}}
+
+===Pronunciation===
+{{ja-pron|y=k|acc=0|しぬ}}
 
 ===Verb===
 {{ja-verb|type=1|tr=intrans|しぬ}}
@@ -11,6 +15,22 @@
 #: {{ja-usex|'''死にたい'''ほど苦しい|'''しにたい''' ほど くるし.い|so excruciating one '''wishes to die'''}}
 # to [[become]] [[lifeless]], to [[lack]] [[vitality]], to show a [[lack]] of [[vigor]]
 #: {{ja-usex|目が'''死んだ'''ような人|め が '''しんだ''' よう な ひと|a person with lifeless eyes (''lit.'' a person with eyes that appear to have '''died''')}}
+#*{{quote-book|||{{w2|ja|聖闘士星矢|{{ruby|[Saint](セイント)[星](セイ)[矢](ヤ)}}|sc=Jpan}}
+||298
+|{{ja-usex|ドラゴン紫%龍は'''死んだ'''‼|^ドラゴン ^シ%リュウは '''しんだ'''‼|Dragon Shiryū is dead‼}}
+|last=Kurumada
+|first=Masami
+|authorlink=Masami Kurumada
+|chapter={{ruby|{{lang|ja|[女神](アテナ)の[聖闘士](セイント)の[巻](まき)}}}}
+|trans-chapter=Athena’s Saints
+|trans-title={{w|Saint Seiya}}
+|genre=fiction
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|date=Jan 23 2001
+|volume=1
+|isbn=4-08-617650-5}}
 
 ====Conjugation====
 {{ja-go-nu|死|し|shi}}
@@ -21,4 +41,5 @@
 ===Trivia===
 * {{lang|ja|死ぬ}} is the only modern Japanese verb which ends in {{m|ja|ぬ}} (an older example is {{m|ja|去ぬ||to go, to leave|tr=inu}}, which is now archaic). Accordingly, it is often used in textbooks to illustrate conjugation of {{lang|ja|〜ぬ}} verbs.
 
-[[Category:Japanese basic words|しぬ]]
+{{cln|ja|basic words}}
+{{C|ja|Death}}
