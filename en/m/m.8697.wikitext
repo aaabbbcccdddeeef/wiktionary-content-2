@@ -202,33 +202,25 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 * {{a|Reconstructed}} {{IPA|/ma/|lang=egy}}<ref>2007, Gábor Takács, ''Etymological Dictionary of Egyptian'', ISBN 9789004164123</ref>
 
 ===Preposition===
-{{head|egy|preposition|head=<hiero>m</hiero>}}
+{{egy-prep|head=<hiero>m</hiero>}}
 
-# [[in]],
+# [[in]]
 # {{lb|egy|of time}} [[in]], [[for]], [[during]]
-# (''with verbs of motion'') [[into]], [[out of]]
+# {{lb|egy|with verbs of motion}} [[into]]
+# {{lb|egy|with verbs of motion}} [[from]] [[within]]
 # {{lb|egy|of material}} made of
 # by means of
 # in the state of, [[as]], [[is]]
 
 ====Usage notes====
-This preposition is often used, with the sixth definition here to indicate temporary identity, so for example ''s m ꜣhw'' (the man is a poor man), implies that this a temporary, rather than an eternal state. Egyptian generally has an expansive view of what counts as a temporary identity, compared to English.
-<br />
+This preposition is often used with the last definition here to indicate temporary identity, so, for example, {{m|egy|z}} {{m|egy||m}} {{m|egy|ꜣhw}} (“the man is a poor man”) implies that this a temporary, rather than an eternal, state. Egyptian generally has an expansive view of what counts as a temporary identity compared to English.
 
-Alternative hieroglyphic writings:
-
-{| class="wikitable"
-|-
-| <hiero>im</hiero>
-|-
-| ''m''
-|}
+{{egy-hieroforms
+|<hiero>im</hiero>|read1=m}}
 
 ====Inflection====
-{| class="wikitable"
-|-
-| '''Adverbial form''' || {{m|egy|jm}} || <hiero>i-m</hiero>
-|}
+{{egy-hieroforms|title=Adverbial forms of {{m-self|egy|m}}
+|<hiero>i-m</hiero>|read1=jm}}
 
 ===References===
 * {{R:egy:Allen}}
