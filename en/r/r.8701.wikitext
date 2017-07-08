@@ -153,9 +153,9 @@ From earlier {{m|egy|rꜣ}}. The actual reading of this word is uncertain, as it
 
 # [[mouth]]
 #* ''Stela of Hekaib'', Rijksmuseum van Oudheden, [http://www.rmo.nl/collectie/zoeken?object=AP+78 AP 78]:
-#*: <hiero>nw:k n:D-s-A1 i-q:r D:d m r:Z1-f</hiero>
-#*:: jnk nḏs jkr ḏd m '''r'''.f
-#*:: I was an excellent individual; one who spoke with his own '''mouth'''.
+#*: {{quote|egy|<hiero>nw:k n:D-s-A1 i-q:r D:d m r:Z1-f</hiero>
+|tr=jnk nḏs jqr ḏd m '''r'''.f
+|I was an excellent individual; one who spoke with his own '''mouth'''.}}
 
 =====Inflection=====
 {{egy-decl-noun|g=m|type=consonant-stem|r}}
@@ -166,25 +166,23 @@ From earlier {{m|egy|rꜣ}}. The actual reading of this word is uncertain, as it
 {{egy-prep|head=<hiero>r</hiero>}}
 
 # [[regarding]], [[with respect to]], [[concerning]], [[according to]]
-# [[for]], [[in order to]]
+# [[in order to]], [[for]] (the purpose of)
 # [[against]]
 # [[from]], apart from (''[[ablative]]'')
-# {{lb|egy|with verbs of motion}} [[to]], [[towards]]
+# {{lb|egy|with verbs of motion|of places}} [[to]], [[towards]]
 # {{lb|egy|of time}} [[at]], [[in]], [[on]]
 # {{lb|egy|after an adjective|forming the comparative}} [[than]]
 
 =====Usage notes=====
-At the beginning of a sentence, and sometimes before pronouns, written thus:
+At the beginning of a sentence, and occasionally before pronouns, written thus:
 
 {{egy-hieroforms
 |<hiero>i-r</hiero>|read1=jr}}
 
 ====Inflection====
-{| class="wikitable"
-| '''Adverbial form''' || {{m|egy|jrj}} || <hiero>i-r:Z4</hiero>
-|-
-| || {{m|egy|jr|jr(j)}} || <hiero>i-r</hiero>
-|}
+{{egy-hieroforms|title=Adverbial forms of {{m-self|egy|r}}
+|<hiero>i-r:Z4</hiero>|read1=jrj
+|<hiero>i-r</hiero>|read2=jr}}
 
 ===References===
 * {{R:egy:Allen}}
