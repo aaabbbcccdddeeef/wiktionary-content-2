@@ -179,7 +179,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 {{egy-prep|head=<hiero>n</hiero>}}
 
 # [[to]], [[for]] (''[[dative]]'')
-# [[towards]]
+# in the [[direction]] of, [[towards]]
 # {{lb|egy|of time}} [[for]], [[until]]
 # [[because]] of
 
@@ -192,11 +192,9 @@ Before a noun it can be written thus:
 This should not be confused with the negative particle, which is written identically.
 
 ====Inflection====
-{| class="wikitable"
-| '''Adverbial forms''' || {{l-self|egy|nj}} || <hiero>n:Z4</hiero>
-|-
-| || {{l-self|egy|n|n(j)}} || <hiero>n</hiero>
-|}
+{{egy-hieroforms|title=Adverbial forms of {{m-self|egy|n}}
+|<hiero>n:Z4</hiero>|read1=nj
+|<hiero>n</hiero>|read2=n}}
 
 ===Pronoun===
 {{egy-pron|dep|p|1p|head=<hiero>n:Z2</hiero>}}
