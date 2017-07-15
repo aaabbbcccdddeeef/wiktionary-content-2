@@ -19,27 +19,47 @@
 {{Han etym}}
 {{Han compound|正|鳥|ls=psc|c1=p|c2=s|t2=bird}} ― a kind of bird.
 
-===Pronunciation===
+===Etymology===
+; “in it; on it; here”
+: From {{och-l|於|id=2}} + {{m|och||*-n|demonstrative suffix|sc=Latn}}, an element equivalent to {{zh-l|*之|him; her; it}} ({{zh-ref|Schuessler, 2007}}; {{zh-ref|Pulleyblank, 1995}}). Compare {{och-l|爰}}.
+
+; “where; how”
+: Probably a variant of {{och-l|安|where; how}} ({{zh-ref|Schuessler, 2007}}).
+
+===Pronunciation 1===
 {{zh-pron
 |m=yān
-|c=jin1,jin4
-|mc=y
-|oc=y
-|cat=pron,conj,part
+|c=jin4
+|mc=3
+|oc=2
+|cat=pron
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{lb|zh|pronoun}} {{n-g|Graphic fusion of {{zh-l|*於}} and {{zh-l|*之}}.}}
-#* {{zh-x|眾 惡{wù} 之，必 察 焉；眾 好 之，必 察 焉。|Everybody hates him, I must look '''at him'''; everybody likes him, again, I must look '''at him'''.|CL}}
-# {{†}} {{lb|zh|interrogative pronoun}} [[how]]? [[why]]? [[where]]? [[when]]?
-#* {{zh-x|焉 知 非 福？|'''How''' can one know if it's good or not?|CL}}
-# {{†}} {{lb|zh|conjunction}} [[thereupon]]; [[therefore]]; [[then]]
-#* {{zh-x|聖人 以 治 天下 為 事 者 也，必 知 亂 之 所 自 起，焉 能 治 之，不 知 亂 之 所 自 起，則 不 能 治。|The wise man is the one who considers ruling the world as a vocation. If he realizes that chaos emerges from himself, '''then''' he will be able to govern; if he doesn't realize it, he won't be able to govern.|CL}}
-# {{†}} {{lb|zh|final modal particle}} {{n-g|Conveys some rhetorical nuance (synonym of {{zh-l|*哉}} or {{zh-l|*乎}}).}}
-#* {{zh-x|何 以 称 焉 ？|'''So''', how do you call it?|CL}}
+# {{†}} in it; on it; to it; from it; by it; [[here]]
+#* {{zh-x|眾 惡{wù} 之，必 察 焉；眾 好{hào} 之，必 察 焉。|When the multitude hate a man, it is necessary to examine '''into the case'''. When the multitude like a man, it is necessary to examine '''into the case'''.|ref=Analects}}
+# {{†}} {{n-g|Final modal particle, used to show a particular state or express affirmation, doubt or exclamation.}}
+#: {{zh-syn|哉|乎}}
+#* {{zh-x|此 何 以 稱 焉？|How would one explain it?|ref=Shiji}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yān
+|c=jin1
+|mc=2+1
+|oc=1,3+1
+|cat=pron,conj,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|interrogative}} [[how]]? [[why]]? [[where]]? [[when]]?
+#* {{zh-x|焉 知 非 福？|'''How''' could one have known that it would not be fortuitous?|CL}}
+# {{†}} [[thereupon]]; [[therefore]]; [[then]]
+#* {{zh-x|聖人 以 治 天下 為{wéi} 事 者 也，必 知 亂 之 所 自 起，焉 能 治 之，不 知 亂 之 所 自 起，則 不 能 治。|The wise man who has charge of governing the empire should know the cause of disorder '''before''' he can put it in order. Unless he knows its cause, he cannot regulate it.|ref=Mozi}}
 
 ===Compounds===
 {{zh-der|下焉者|心焉如割|心不在焉|少焉|焉知|焉得|焉支山|烏焉成馬|焉能|焉爾|於焉|終焉之志|罪莫大焉|語焉不詳}}
