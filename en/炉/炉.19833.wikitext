@@ -23,28 +23,36 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=火04}}
-
-# {{defn|lang=ja|sort=火04}}
+{{ja-kanji|kyu=爐|rs=火04}}
 
 ====Readings====
-* {{ja-readings|goon=[[る]] (ru)|kanon=[[ろ]] (ro)|kun=[[いろり]] (irori)}}
+{{ja-readings|goon=る|kanon=ろ|kun=いろり}}
 
-====Compounds====
-* {{l|ja|炉火}}
-* {{l|ja|炉端}}
-* {{l|ja|炉辺}}
-* {{l|ja|風炉}}
-* {{l|ja|焜炉|tr=[[コンロ]], konro}}
-
-===Etymology===
-{{wikipedia|lang=ja}}
+{{wp|lang=ja}}
 {{ja-kanjitab|ろ|yomi=o}}
 
-===Noun===
-{{ja-noun|ろ}}
+===Etymology===
+{{der|ja|ltc|爐|sort=ろ}}
 
-# [[furnace]]; [[kiln]]
+===Pronunciation===
+{{ja-pron|yomi=kanon|ろ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=爐|ろ}}
+
+# [[furnace]], [[kiln]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|炉火|ろか}}
+* {{ja-r|炉端|ろたん}}
+* {{ja-r|炉辺|ろへん}}
+* {{ja-r|風炉|ふうろ}}
+* {{ja-r|焜炉|こんろ}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
