@@ -62,13 +62,7 @@ A simplification of the Buddhist symbol [[卍]] introduced when Buddhism came to
 # very many
 
 ====Readings====
-{{ja-readings
-|goon=もん
-|kanon=ばん
-|kanyoon=まん
-|kun=よろず
-|nanori=かず, ま, ゆる
-}}
+{{ja-readings|goon=もん|kanon=ばん|kanyoon=まん|kun=よろず-<よろづ-|nanori=かず, かつ, すすむ, たか, つむ, つもる, ま, ゆる, よし}}
 
 ====Compounds====
 {{top4}}
@@ -106,12 +100,12 @@ A simplification of the Buddhist symbol [[卍]] introduced when Buddhism came to
 {{bottom}}
 
 ===Noun===
-{{ja-noun|まん|kyu=萬}}
+{{ja-noun|kyu=萬|まん}}
 
 # [[ten thousand]], 10,000
 
 ===Noun===
-{{ja-noun|よろず|kyu=萬}}
+{{ja-noun|kyu=萬|よろず|hhira=よろづ}}
 
 # [[ten thousand]]
 # a large number
@@ -121,7 +115,7 @@ A simplification of the Buddhist symbol [[卍]] introduced when Buddhism came to
 * {{ja-r|万が一|まんがいち}}
 
 ===Prefix===
-{{ja-pos|ばん|prefix|kyu=萬}}
+{{ja-pos|kyu=萬|ばん|prefix}}
 
 # [[many]]
 # [[all]]
