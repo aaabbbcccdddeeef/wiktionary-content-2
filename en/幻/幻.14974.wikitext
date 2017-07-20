@@ -41,7 +41,7 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=幺01}}
 
-# [[phantasm]]; [[vision]]; [[dream]]; [[illusion]]; [[apparition]]
+# {{l|en|phantasm}}, {{l|en|vision}}, {{l|en|dream}}, {{l|en|illusion}}, {{l|en|apparition}}
 
 ====Readings====
 {{ja-readings
@@ -51,6 +51,7 @@
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|魔幻|まげん}}
 * {{ja-r|幻影|げんえい}}
 * {{ja-r|幻灯|げんとう}}
@@ -59,21 +60,23 @@
 * {{ja-r|幻滅|げんめつ}}
 * {{ja-r|幻想|げんそう}}
 * {{ja-r|夢幻|むげん}}
+{{der-bottom}}
 
 ===Etymology===
-Probably from {{etyl|ojp|ja|sort=まぼろし}}; used in ''[[w:The Tale of Genji|The Tale of Genji]]'', completed in 1021.
+Probably from {{inh|ja|ojp|sort=まぼろし|-}}.  Used in ''{{w|The Tale of Genji}}'', completed in 1021.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The initial ''ma'' is almost certainly {{m|ja|目|tr=ma</i>, modern <i>me||eye}}.  The ''boroshi'' portion is of uncertain derivation, possibly related to modern {{l|en|colloquial}} adjective {{ja-r|ぼろい||rough, ragged, worn-out}}, or verb {{ja-r|ばらす||to mess something up}}.
 
 ===Pronunciation===
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[ma̠bo̞ɽo̞ɕi]}}
+{{ja-pron|yomi=k|まぼろし|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|まぼろし}}
 
-# an [[illusion]], a [[phantom]], a [[dream]], a [[vision]]
+# an {{l|en|illusion}}, a {{l|en|phantom}}, a {{l|en|dream}}, a {{l|en|vision}}
 
-====Derived terms====
-* {{ja-r|幻を追う|まぼろし を お.う}}: to pursue phantoms
+===References===
+<references/>
 
 [[Category:Japanese terms spelled with 幻]]
 [[Category:Japanese terms written with one Han script character]]
