@@ -77,32 +77,43 @@
 * {{ja-r|爆炎|ばくえん}}:
 {{der-bottom}}
 
+
+===Etymology 1===
 {{wikipedia|lang=ja}}
 {{ja-kanjitab|ほのお|yomi=k}}
 
-===Etymology===
-ponopo > ɸonoɸo > ɸonowo > honoo > honoː. Compound of {{compound|火|tr1=ho|t1=fire|の|tr2=no|t2=possessive particle|穂|tr3=ho|t3=ear, head|lang=ja|sort=ほのお}}.<ref name="DJR">{{R:Daijirin}}</ref>
+{{IPAchar|/ponopo/}} → {{IPAchar|/ɸonoɸo/}} → {{IPAchar|/ɸonowo/}} → {{IPAchar|/honowo/}} → {{IPAchar|/honoː/}}
 
-===Pronunciation===
+Compound of {{compound|lang=ja|sort=ほのお|火|tr1=ho|t1=fire|の|tr2=no|pos2=possessive particle|穂|tr3=ho|t3=ear, head}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
 {{ja-pron|yomi=k|ほのお|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}
 
-===Alternative forms===
+====Alternative forms====
 * {{ja-l|焰}}, {{ja-l|焔}}
 
-===Noun===
+====Noun====
 {{ja-noun|ほのお|hhira=ほのほ}}
 
-# [[flame]]
+# {{l|en|flame}}
 #: {{ja-usex|ハリー・ポッターと'''炎'''のゴブレット|^ハリー・^ポッター と '''^ほのお''' の ^ゴブレット|{{w|Harry Potter and the Goblet of Fire|Harry Potter and the Goblet of '''Fire'''}}}}
 #: {{ja-usex|燃え広がる'''炎'''|^もえひろがる '''^ほのお'''|{{w|Catching Fire|Catching '''Fire'''}}}}
 #* {{RQ:Konkōmyō Saishōōkyō Ongi|5 (front)}}
 #*: 燄 '''保乃保'''
 #* {{quote-book||date=Dec 22 2001||Premium Pack 5|chapter={{ruby|{{lang|ja|[真紅眼の黒竜](レッドアイズ・ブラックドラゴン)}}}}|trans-chapter=Red-Eyes Black Dragon|language=Japanese|publisher={{w|Konami}}|||{{ja-usex|真%紅の眼を持つ黒%竜。怒りの黒き'''炎'''はその眼に映る者%全てを焼き尽くす。|^しん%く の め を もつ こく%りゅう。^いかり の くろき '''ほのお''' は その め に うつる もの% すべて を やきつくす。|A black dragon with crimson eyes. Its black '''flames''' of fury burn away anything that’s reflected in those eyes.}}}}
 
-===Suffix===
+===Etymology 2===
+{{ja-kanjitab|yomi=o|えん}}
+
+From {{der|ja|ltc|sort=えん|炎|tr={{IPAchar|/ɦˠiᴇm/}}|flame; blaze}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|えん}}
+
+====Suffix====
 {{ja-pos|えん|suffix}}
 
-# {{lb|ja|disease|sort=えん}} [[-itis]]
+# {{lb|ja|disease|sort=えん}} {{l|en|inflammation}}, {{l|en|-itis}}
 
 ===References===
 <references/>
