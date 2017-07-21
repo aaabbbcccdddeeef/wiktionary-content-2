@@ -57,40 +57,71 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水03}}
 
-# {{defn|lang=ja|sort=水03}}
+# {{l|en|you}}
 
 ====Readings====
-{{ja-readings|goon=[[にょ]] (nyo)|kanon=[[じょ]] (jo)|kun=[[なんじ]] (nanji), [[なれ]] (nare)}}
+{{ja-readings
+|goon=にょ
+|kanon=じょ
+|kun=い, まし, いまし, みまし, うぬ, し, な, なむち, なむじ, なんじ, なれ
+}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|い}}
+
+From {{inh|ja|ojp|sort=い|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Possibly cognate with {{cog|ko|이#Etymology_4|이|this person}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|い}}
 
 ====Pronoun====
 {{ja-pos|pronoun|い}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=い|derogatory}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* 712: [[w:Kojiki|Kojiki]] (page 156)
 #*: 大久米命二人、召兄宇迦斯罵詈云、'''伊'''賀<small>此二字以音</small>所作仕奉於大殿内者、意禮<small>此二字以音</small>先入、明白其將爲仕奉之状而[...]
 
+=====Usage notes=====
+Takes the particle {{m|ja|が}}.
+
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|まし}}
+
+The {{l|en|nominalization}} of {{l|en|honorific}} verb {{m|ja|坐す|tr=masu||to be|pos=honorific}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Alternatively, a shortening of ''imashi''<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> (see below).
+
+====Pronunciation====
+{{ja-pron|yomi=k|まし}}
 
 ====Pronoun====
 {{ja-pos|pronoun|まし}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=まし|obsolete|informal}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* {{RQ:Man'yōshū|14|3440}}
 #*: 許乃河泊尓 安佐菜安良布児 奈礼毛安礼毛 余知乎曽母弖流 伊仾児多婆里尓 <sub>一云 '''麻之'''毛安礼母</sub>
+
+=====Usage notes=====
+Less honorific than both ''mashi'' and ''imashi''.
 
 =====Derived terms=====
 * {{ja-r|汝|いまし}}
 * {{ja-r|汝|みまし}}
 
 ===Etymology 3===
-Prefix ''i'' + pronoun {{m|ja|汝|tr=mashi}}. See also {{m|ja|汝|tr=mimashi}}.
+{{ja-kanjitab|yomi=k|いまし}}
+
+The {{l|en|nominalization}} of {{l|en|honorific}} verb {{m|ja|坐す|tr=imasu||to be|pos=honorific}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Possibly also analyzable as a compound of {{prefix|lang=ja|sort=いまし|汝|tr1=i|t1=you|坐|tr2=mashi|t2=presence; being|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of honorific verb {{m|ja|坐す}} ''masu'', “to be”}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いまし}}
 
 ====Pronoun====
 {{ja-pos|pronoun|いまし}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=いまし|obsolete|polite}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* {{RQ:Man'yōshū|11|2517}}
 #*: 足千根乃 母尓障良婆 無用 '''伊麻思'''毛吾毛 事應成
 #* {{RQ:Man'yōshū|14|3359}}
@@ -98,13 +129,21 @@ Prefix ''i'' + pronoun {{m|ja|汝|tr=mashi}}. See also {{m|ja|汝|tr=mimashi}}.
 #* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #29)
 #*: 朕子'''伊末之'''<small>仁</small>授給
 
+=====Usage notes=====
+More honorific than ''mashi''.  Less honorific than ''mimashi''.
+
 ===Etymology 4===
-Honorific prefix ''mi'' + pronoun {{m|ja|汝|tr=mashi}}. See also {{m|ja|汝|tr=imashi}}.
+{{ja-kanjitab|yomi=k|みまし}}
+
+Compound of {{prefix|lang=ja|sort=みまし|御|tr1=mi|pos1=honorific prefix|汝|tr2=mashi|t2=you}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Also analyzable as a shift in meaning of {{m|ja|御座|tr=mimashi}}, an honorific term of address or reference used for {{l|en|nobility}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|みまし}}
 
 ====Pronoun====
 {{ja-pos|pronoun|みまし}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=みまし|obsolete|honorific}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #5)
 #*: 藤原宮<small>爾</small>天下所知'''美麻斯'''<small>乃</small>父<small>止</small>坐天皇<small>乃</small>'''美麻斯'''<small>爾</small>賜<small>志</small>天下之業<small>止</small>詔大命<small>乎</small>聞食恐<small>美</small>受賜懼<small>理</small>坐事<small>乎</small>衆聞食宣。可久賜時<small>爾</small>'''美麻斯'''王<small>乃</small>齡<small>乃</small>弱<small>爾</small>[...]吾子'''美麻斯'''王<small>爾</small>授賜[...]
 #* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #51)
@@ -112,13 +151,26 @@ Honorific prefix ''mi'' + pronoun {{m|ja|汝|tr=mashi}}. See also {{m|ja|汝|tr=
 #* 797: [[w:Shoku Nihongi|Shoku Nihongi]] (edict #52)
 #*: 大命坐詔<small>久</small>'''美麻斯'''大臣<small>乃</small>仕奉來狀<small>波</small>[...]
 
+=====Usage notes=====
+More honorific than both ''mashi'' and ''imashi''.
+
 ===Etymology 5===
-{{etyl|ojp|ja|sort=な}}. Possibly cognate with {{cog|ko|너||you|pos=second-person singular informal pronoun}}.
+{{ja-kanjitab|yomi=k|な}}
+
+From {{inh|ja|ojp|sort=な|-}}.  Possibly cognate with {{cog|ko|너||you|pos=second-person singular informal pronoun}}.
+
+Also found in some instances as a self-reference, {{m|en|one}}, {{m|en|oneself}}.  This sense is more commonly spelled {{m|ja|己}} when used in isolation.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Possibly cognate with {{cog|ko|나||I|pos=first-person singular informal pronoun}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|な}}
+
+====Alternative forms====
+* {{ja-l|己}}
 
 ====Pronoun====
 {{ja-pos|pronoun|な}}
 
-# second person personal pronoun; [[you]]
+# {{lb|ja|sort=な|obsolete}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* 712: [[w:Kojiki|Kojiki]] (poem #5)
 #*: 夜知富許能 加微能美許登夜 阿賀淤富久迩奴斯 '''那'''許曾波 遠迩伊麻世婆 宇知微流 斯麻能佐岐邪岐 加岐微流 伊蘇能佐岐淤知受和加久佐能 都麻母多勢良米 阿波母與 賣迩斯阿禮婆 '''那'''遠岐弖遠波那志 '''那'''遠岐弖 都麻波那斯 [...]
 #* 720: [[w:Nihon Shoki|Nihon Shoki]] (poem #90)
@@ -129,53 +181,101 @@ Honorific prefix ''mi'' + pronoun {{m|ja|汝|tr=mashi}}. See also {{m|ja|汝|tr=
 #*: 夜麻杼里乃 乎呂能波都乎尓 可賀美可家 刀奈布倍美許曽 '''奈'''尓与曽利鶏米
 #* c. 920: ''Azuma Asobi Uta'' (#2)
 #*: 衣 和賀世古加 介左乃古止天者 奈奈川乎乃 也川乎乃古止乎 之良部 太留古止也 '''奈'''乎加介也末乃 可川乃介也 乎々々々
+# {{lb|ja|sort=な|obsolete}} {{n-g|first person pronoun}}: {{l|en|I}}
+# {{lb|ja|sort=な|obsolete}} {{n-g|self-referential pronoun}}: {{l|en|one}}, {{l|en|oneself}}
+#* c. 759: ''{{w|Man'yōshū}} poem 1755 (text [http://jti.lib.virginia.edu/japanese/manyoshu/Man9Yos.html#1755 here])
+#*: {{lang|ja|鴬之 生卵乃中尓 霍公鳥 獨所生而 '''己'''父尓 似而者不鳴 己母尓 似而者不鳴}}
+#*: {{lang|ja|うぐひすの かひごのなかに ほととぎす ひとりうまれて '''な'''がちちに にてはなかず}}
+#*: ''Inside a warbler's egg, a cuckoo was born, but it looked like '''its own''' father and did not sing...''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|汝|なれ}}: {{l|en|you}} (see below)
+* {{ja-r|汝|なむち}}: {{l|en|you}} (see below)
+* {{ja-r|汝|なむぢ}}: {{l|en|you}} (see below)
+* {{ja-r|汝|なんじ}}: {{l|en|you}} (see below)
+{{der-mid}}
+Also appears in some ancient compound terms with a sense of {{m|en|I}}, {{m|en|my}}.  
+* {{ja-r|汝%弟|な%おと}}: my younger brother
+* {{ja-r|汝%夫|な%せ}}: my man, my husband
+* {{ja-r|汝%妹|な%にも}}: my younger sister
+* {{ja-r|汝%姉|な%ね}}: my older sister
+{{der-bottom}}
 
 ===Etymology 6===
-The long form of {{m|ja|汝|tr=nare}}. Compound of {{m|ja|汝|tr=na}} and suffix {{m|ja|れ|tr=re}}.
+{{ja-kanjitab|yomi=k|なれ}}
+
+From {{inh|ja|ojp|sort=なれ|-}}.  The long form of {{m|ja|汝|tr=nare}}. Compound of {{m|ja|汝|tr=na}} and suffix {{m|ja|れ|tr=re}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|なれ}}
 
 ====Pronoun====
 {{ja-pos|pronoun|なれ}}
 
-# second person personal pronoun; [[you]]
+# {{lb|ja|sort=な|obsolete}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* {{RQ:Man'yōshū|14|3440}}
 #*: 許乃河泊尓 安佐菜安良布児 '''奈礼'''毛安礼毛 余知乎曽母弖流 伊仾児多婆里尓 <sub>一云 麻之毛安礼母</sub>
 #* c. 913 [[w:Kokin Wakashū|Kokin Wakashū]] (#904)
 #*: ちはやぶる宇治のはしもり '''なれ'''をしぞあはれとは思ふ 年のへぬれば
 
 ===Etymology 7===
-Compound of {{m|ja|汝|tr=na}} and {{m|ja|貴|tr=muchi}}.
+{{ja-kanjitab|yomi=k|なむち}}
+
+From {{inh|ja|ojp|sort=なむち|-}}.  Compound of {{compound|lang=ja|sort=なむち|汝|tr1=na|t1=you|貴|tr2=muchi|t2=noble}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|なむち}}
 
 ====Pronoun====
 {{ja-pos|pronoun|なむち}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=なむち|obsolete}} {{n-g|second person pronoun}}: {{l|en|you}}
 
 ===Etymology 8===
-/namuti/ > /namti/ > /namdi/ > /nandi/. From earlier {{m|ja|なむち|tr=namuchi}}. Final voicing due to influence of medial voiced /m/.
+{{ja-kanjitab|yomi=k|なむぢ}}
+
+{{IPAchar|/namuti/}} → {{IPAchar|/namudi/}} → {{IPAchar|/namud͡ʑi/}}
+
+From earlier {{m|ja|なむち|tr=namuchi}}. Final voicing due to influence of medial voiced {{IPAchar|/m/}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|なむじ}}
 
 ====Pronoun====
-{{ja-pos|pronoun|なむぢ}}
+{{ja-pos|pronoun|なむじ|hhira=なむぢ}}
 
-# second person personal pronoun; [[you]]
+# {{lb|ja|sort=なむぢ|obsolete}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* {{RQ:Taketori Monogatari}}
 #*: 大納言わらゐて、「'''なむぢ'''らが君の使と名を流しつ。君の仰ごとをば、いかが背くべき」との給て [...]
 #* {{RQ:Taketori Monogatari}}
 #*: 大納言起きゐてのたまはく、「'''汝（なむぢ）'''らよくもて來ずなりぬ。龍は鳴る神のるいにこそありけれ。[...]」
 
 ===Etymology 9===
-/namuti/ > /namti/ > /namdi/ > /nandi/ > /nanzi/ [nand͡ʑi]
+{{ja-kanjitab|yomi=k|なんじ}}
+
+{{IPAchar|/namuti/}} → {{IPAchar|/namudi/}} → {{IPAchar|/nandi/}} → {{IPAchar|/nand͡ʑi/}}
+
+From earlier {{m|ja|なむぢ|tr=namudi}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|爾}}
 
 ====Pronoun====
 {{ja-pos|pronoun|なんじ|hhira=なんぢ}}
 
-# second person pronoun; [[you]]
+# {{lb|ja|sort=なんじ|archaic}} {{n-g|second person pronoun}}: {{l|en|you}}
 #* {{RQ:Taketori Monogatari}}
 #*: 「'''汝（なんぢ）'''が持ちて侍るかぐや姫たてまつれ。」
 #* {{RQ:Taketori Monogatari}}
 #*: いはく、「'''汝（なんぢ）'''、おさなき人、いささかなる功徳を翁つくりけるによりて、'''汝（なんぢ）'''が助けにとて、かた時のほどとて下ししを[...]」
 
 ===References===
-* {{cite-book
+<references/>
+:* {{cite-book
 |last=Horiuchi
 |first=Hideaki
 |coauthors=Akiyama Ken
@@ -186,7 +286,7 @@ Compound of {{m|ja|汝|tr=na}} and {{m|ja|貴|tr=muchi}}.
 |language=Japanese
 |isbn=4-0024-0017-4
 }}
-* {{cite-book
+:* {{cite-book
 |last=Kurano
 |first=Kenji
 |title=[[w:Shoku Nihongi|Shoku Nihongi]] Senmyō
@@ -196,7 +296,7 @@ Compound of {{m|ja|汝|tr=na}} and {{m|ja|貴|tr=muchi}}.
 |language=Japanese
 |isbn=4-00-300381-0
 }}
-* {{cite-book
+:* {{cite-book
 |last=Kurano
 |first=Kenji
 |coauthors=Yūkichi Takeda
@@ -205,7 +305,7 @@ Compound of {{m|ja|汝|tr=na}} and {{m|ja|貴|tr=muchi}}.
 |year=1958
 |isbn=4-0006-0001-X
 }}
-* {{cite-book
+:* {{cite-book
 |last=Saeki
 |first=Umetomo
 |title=Nihon Koten Bungaku Taikei 8: [[w:Kokin Wakashū|Kokin Wakashū]]
@@ -215,9 +315,9 @@ Compound of {{m|ja|汝|tr=na}} and {{m|ja|貴|tr=muchi}}.
 |language=Japanese
 |isbn=4-0006-0008-7
 }}
-* {{R:Taketori Monogatari}}
-* {{R:Man'yōshū 3}}
-* {{R:Kodai Kayōshū}}
+:* {{R:Taketori Monogatari}}
+:* {{R:Man'yōshū 3}}
+:* {{R:Kodai Kayōshū}}
 
 ----
 
