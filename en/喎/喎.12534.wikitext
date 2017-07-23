@@ -11,15 +11,17 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=㖞}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|口|咼|c1=s|c2=p|t1=mouth|ls=psc}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{zh-forms|s=㖞}}
+
+====Pronunciation====
 {{zh-pron
-|m=wāi,kuāi,2nb=Taiwan
+|m=喎
 |c=waa1,kwaa1
 |mc=y
 |oc=y
@@ -29,21 +31,43 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|especially of mouth}} [[awry]]; [[askew]]
+# {{lb|zh|especially of mouth}} [[wry]]; [[askew]]; [[crooked]]
 
 ====Compounds====
 {{zh-der|喎斜}}
 
-===Pronunciation 2===
+===Etymology 2===
+{{zh-forms|s=㖞|alt=wor}}
+
+====Pronunciation 1====
 {{zh-pron
-|c=wo3,wo5
-|cat=intj
+|c=wo3
+|cat=part
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese}} {{n-g|final particle expressing contradiction, quotation, etc.}}
+# {{lb|zh|Cantonese}} {{n-g|Sentence-final modal particle used as a casual reminder.}}
+#: {{zh-x|記住 帶 多 件 摟 喎{wo3}。|Remember to bring a jacket with you.|C}}
+#: {{zh-x|臨 瞓 前 要 刷牙 喎{wo3}。|You've got to brush your teeth before bed.|C}}
+
+====Pronunciation 2====
+{{zh-forms|s=㖞|alt=wor}}
+{{zh-pron
+|c=wo5
+|cat=part
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|Sentence-final modal particle used for reported speech.}}
+#: {{zh-x|老師 叫 我哋 去 食飯 先 喎{wo5}。|The teacher told us to go eat first.|C}}
+#: {{zh-x|開 多 三 張 檯{toi4-2} 喎{wo5}。|(Someone said) Set up three more tables.|C}}
+
+====Pronunciation 3====
+{{zh-see|啝}}
 
 ===References===
 * {{R:yue:Hanzi}}
