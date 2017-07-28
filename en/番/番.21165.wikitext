@@ -20,9 +20,9 @@
 {{Han etym}}
 {{Han compound|釆|田|ls=psc|c1=p|c2=s}} – "animal's footprint in the field", original form of {{zh-l|蹯}}.
 
-===Etymology 1===
+===Etymology===
 
-====Pronunciation====
+===Pronunciation 1===
 {{zh-pron
 |m=fān
 |c=faan1
@@ -30,44 +30,33 @@
 |md=huăng
 |mn=hoan/qz,tw,xm:han
 |w=1fe
-|mc=1+2+5
-|oc=2,2+4+5
-|ma=
+|mc=2
+|oc=2,4
 |cat=v,cls,n
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[take turns]]
-# to [[repeat]]
-# {{n-g|Classifier for times of actions.}} [[turn]], [[time]]
-# [[time]], [[-fold]]
-# [[kind]], [[type]]
-# {{zh-alt-form|蕃|to [[guard]]}}
-# [[foreign]] [[people]], other [[ethnic]] [[group]]s
-# [[foreign]] [[country]]
-# [[foreign]], non-[[native]]
+# to [[do]] in [[turn]]s; to [[take turns]]; to [[repeat]]
+# {{zh-classifier|[[action]]s, [[deed]]s|t=a [[show]] of ...}}
+# {{zh-classifier|the [[number]] of [[time]]s an [[action]] has been [[perform]]ed|t=[[turn]]; [[time]]}}
+# {{zh-classifier|[[different]] [[kind]]s of [[thing]]s|t=[[kind]]; [[type]]}}
+# {{n-g|A [[generic]] [[term]] for the [[non-]][[Han]] [[people]] in [[China]]'s [[west]] in [[historical]] [[time]]s;}} {{lb|zh|by extension}} [[non-]][[Han]] [[people]]; [[foreign]] [[land]]; [[foreign]], [[non-native]]
+#: {{zh-syn|胡|洋}}
 #: {{zh-x|番茄|tomato [lit. foreign eggplant]}}
 # {{zh-short|番劇|[[anime]] [[series]]}}
 
-=====Synonyms=====
-* {{l|zh|胡}}
-* {{l|zh|洋}}
+====Compounds====
+{{zh-der|半唐番:a person of half-Chinese ancestry|番邦|番號|番客|番木瓜|番茄|番石榴|番薯|平埔番|番鬼|十番|一番|一番口舌|三番五次|三番兩次|三番四復|下番|今番|兩次三番|前番|吐魯番|和番|土番|土番鴨|大啖一番|小番子|屢次三番|幾次三番|幾番|幾番家|押番|擺番|攧番|放番|昭君和番|更番|正番鴨|熟番|理番通事|生番|番代|番佛|番使|番來覆去|番地|番天覆地|番夷|番子|番子手|番弓|番張跟斗|番役|番悔|番戍|番攤館|番木鱉|番椒|番瓜|番番|番番是福|番社|番筧|番羅|番芋|番荔枝|番菜|番菜館|番藷|番騰|番鴨|番麥粒|當番|紅毛番|累次三番|翻兩番|翻番|者番|西番果|西番蓮|輪番|輪番上陣|這番|連番|顛番面皮|番船|番國|番話|番人|番儂|番紅|番婆|番柿|番錢|番囝|番檨|番茄素|番茄醬|番薯椪餅|番茄炒蛋}}
 
-=====Compounds=====
-{{zh-der|半唐番:a person of half-Chinese ancestry|番邦|番號|番客|番木瓜|番茄|番石榴|番薯|平埔番|番鬼|十番|一番|一番口舌|三番五次|三番兩次|三番四復|下番|今番|兩次三番|前番|吐魯番|和番|土番|土番鴨|大啖一番|小番子|屢次三番|幾次三番|幾番|幾番家|押番|擺番|攧番|放番|昭君和番|更番|正番鴨|熟番|理番通事|生番|番代|番佛|番使|番來覆去|番地|番天覆地|番夷|番子|番子手|番弓|番張跟斗|番役|番悔|番戍|番攤館|番木鱉|番椒|番瓜|番番|番番是福|番社|番筧|番羅|番芋|番荔枝|番菜|番菜館|番藷|番騰|番鴨|番麥粒|當番|紅毛番|累次三番|翻兩番|翻番|者番|西番果|西番蓮|輪番|輪番上陣|這番|連番|顛番面皮|番船|番國|番話|番人|番儂|番紅|番婆|番柿|番錢|番囝|番檨}}
-
-===Etymology 2===
-
-====Pronunciation====
+===Pronunciation 2===
 {{zh-pron
 |m=Pān
 |c=pun1
 |w=1phoe
 |mc=3
 |oc=n,3
-|ma=
 |cat=pn
 }}
 
@@ -77,13 +66,25 @@
 # {{surname|lang=zh}}
 # {{zh-only|番禺}}
 
-===Etymology 3===
+===Pronunciation 3===
+{{zh-pron
+|m=fán
+|c=
+|mc=1+5
+|oc=n,5+2
+}}
 
-====Pronunciation====
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-original|蹯|[[animal]]'s [[foot]]}}
+# {{zh-alt-form|藩|[[fence]]}}
+# {{zh-alt-form|蕃|[[luxuriant]]}}
+
+===Pronunciation 4===
 {{zh-pron
 |m=pó
 |c=po4
-|ma=
 |cat=pn,a
 }}
 
@@ -93,15 +94,12 @@
 # {{surname|lang=zh}}
 # {{zh-only|番番|pópó}}
 
-===Etymology 4===
-
-====Pronunciation====
+===Pronunciation 5===
 {{zh-pron
 |m=bō
 |c=
 |mc=4
 |oc=1,1
-|ma=
 |cat=a
 }}
 
