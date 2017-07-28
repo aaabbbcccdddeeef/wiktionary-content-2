@@ -34,7 +34,10 @@
 
 ===Etymology===
 {{ja-kanjitab|ひこ|yomi=k}}
-From {{etyl|ojp|ja|sort=ひこ}}. Originally {{IPAchar|/pi<sub>1</sub>ko<sub>1</sub>/}}. {{IPAchar|*[piko]}} → {{IPAchar|[ɸiko]}} → {{IPAchar|[hiko]}}. Compound of {{compound|lang=ja|sort=ひこ|日|tr1=hi|t1=sun|子|tr2=ko|t2=child; boy}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> See also {{m|ja|姫|tr=hime}}, {{m|ja|息子|tr=musuko}}, {{m|ja|男|tr=otoko}}.
+
+{{IPAchar|/pi<sub>1</sub>ko<sub>1</sub>/}}: {{IPAchar|*[piko]}} → {{IPAchar|[ɸiko]}} → {{IPAchar|[hiko]}}
+
+From {{etyl|ojp|ja|sort=ひこ}}. Compound of {{compound|lang=ja|sort=ひこ|日|tr1=hi|t1=sun|pos1=a prefix or appellation used in reference to the imperial family|子|tr2=ko|t2=child}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|ひこ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
@@ -42,14 +45,19 @@ From {{etyl|ojp|ja|sort=ひこ}}. Originally {{IPAchar|/pi<sub>1</sub>ko<sub>1</
 ===Noun===
 {{ja-noun|ひこ}}
 
-# a male child; a boy
-# an honorary male child; prince
+# a male child, a boy
+# a prince
 # chieftain; in ancient Japan, the ruler of a regional land
 
 ====Synonyms====
 * {{ja-r|王子|おうこ}}
 * {{ja-r|王|おう}}
 * {{ja-r|若君|わかぎみ}}
+
+===See also===
+* {{ja-r|姫|ひめ}}: a {{l|en|princess}}
+* {{ja-r|息子|むすこ}}: a {{l|en|son}}
+* {{ja-r|男|おとこ}}: a {{l|en|man}}
 
 ===References===
 <references/>
