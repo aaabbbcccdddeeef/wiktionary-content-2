@@ -86,19 +86,32 @@ Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}
 {{ja-kanji|grade=7|rs=丨06}}
 
 ====Readings====
-{{ja-readings|goon=けん<けん<くゑん, せん|kanon=かん<くわん, せん|kun=くし-, つらぬ-く}}
+{{ja-readings
+|goon=けん<けん<くゑん, せん
+|kanon=かん<くわん, せん
+|kun=くし-, つらぬ-く
+}}
 
+===Etymology===
 {{ja-kanjitab|くし|yomi=k}}
+
+From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears in the ''{{w|Nihon Shoki}}'', finished CE 720.
+
+===Pronunciation===
+{{ja-pron|yomi=k|くし|acc=2|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|くし}}
 
-# [[skewer]]
-# {{lb|ja|slang|computing}} [[proxy server]]
+# {{l|en|skewer}}
+# {{lb|ja|slang|computing}} {{l|en|proxy server}}
 #: {{ja-usex|中国'''串'''を使わないと|ちゅうごく '''くし''' を つかわない と|if you don't use a China '''proxy server'''}}
 
 ====Synonyms====
 * {{sense|proxy}} {{ja-r|プロクシ}}, {{ja-r|プロクシ サーバー}}, {{ja-r|串鯖|くしさば}}
+
+===References===
+<references/>
 
 [[Category:ja:Cooking|くし]]
 
