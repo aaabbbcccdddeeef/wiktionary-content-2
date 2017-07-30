@@ -33,7 +33,7 @@ The correct form of the simplified character of [[變]] is [[变]] (with [[又]]
 # used to denote [[flat]] [[accidental|accidentals]] of musical notes
 
 ====Readings====
-* {{ja-readings|goon=[[へん]] (''hen'')|kanon=[[へん]] (''hen'')|kun=[[かわる]] (''kawaru''), [[かえる]] (''kaeru'')}}
+* {{ja-readings|goon=へん|kanon=へん|kun=か-える,か-わる<か-はる}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -52,13 +52,30 @@ The correct form of the simplified character of [[變]] is [[变]] (with [[又]]
 * {{ja-l|変わり|かわり|kawari}}: [[change]]; [[alteration]]; [[substitute]]
 {{der-bottom}}
 
+===Pronunciation===
 {{ja-kanjitab|へん|yomi=o}}
+{{ja-pron|acc=1|y=o|へん}}
 
 ===Adjectival noun===
 {{ja-adj|infl=na|へん|kyu=變}}
 
 # [[strange]]
-#: {{ja-usex|'''変'''な人|'''へん''' な ひと|a '''strange''' person}}
+#: {{ja-usex|'''変な'''人|'''へん な''' ひと|a '''strange''' person}}
+#*{{quote-book|||{{w2|ja|動物のお医者さん}}
+||7
+|{{ja-usex|菱%沼%聖%子：'''ヘンな'''院%生。|^ひし%ぬま% ^せい%こ：'''^ヘン な''' いん%せい。|Hishinuma Seiko: An eccentric school graduate.}}
+|chapter={{ruby|{{lang|ja|○[動](どう)[物](ぶつ)のお[医](い)[者](しゃ)さん　[登](とう)[場](じょう)[人](じん)[物](ぶつ)[紹](しょう)[介](かい)}}}}
+|trans-chapter=○ The Veterinarian: Character Intro
+|trans-title=The Veterinarian
+|genre=fiction
+|language=Japanese
+|edition=44th
+|location=Tokyo
+|publisher={{w|Hakusensha}}
+|date=Nov 15 1993
+|origdate=Aug 1989
+|volume=2
+|isbn=4-592-11083-8}}
 
 ====Inflection====
 {{ja-na|へん}}
