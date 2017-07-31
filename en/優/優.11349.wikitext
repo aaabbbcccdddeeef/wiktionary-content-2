@@ -54,7 +54,13 @@
 # [[actor]]
 
 ====Readings====
-* {{ja-readings|kanon=[[ゆう]] ([[yū]])|goon=[[う]] ([[u]])|kun=[[やさしい]] ([[yasashii]]), [[すぐれる]] ([[sugureru]]), [[ゆたか]] (yutaka), [[ゆうに]] (yūni), [[わざおぎ]] ([[wazaogi]])|nanori=[[かつ]] (katsu), [[ひろ]] (hiro), [[まさ]] (masa), [[まさる]] (masaru), [[ゆたか]] (yutaka)}}
+{{ja-readings
+|goon=う
+|kanon=ゆう<いう
+|kun=すぐ-れる, まさ-る, やさ-しい<!--, わざおぎ-<わざをぎ- -->
+|nanori=かつ, ひろ, ゆたか}}
+
+{{attention|ja|kun-reading "わざおぎ" is an irregular reading of the kanji compound "[[俳優]]", attested in the ''Nihon Shoki''}}
 
 ====Compounds====
 {{der3|lang=ja|{{ja-r|優渥|ゆうあく}}
