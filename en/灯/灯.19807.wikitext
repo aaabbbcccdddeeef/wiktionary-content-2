@@ -22,16 +22,28 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=4|rs=火02}}
+{{ja-kanji|grade=4|kyu=燈|rs=火02}}
 
 ====Readings====
+As shinjitai/variant kanji of 燈:
 {{ja-readings
-|goon=ちょう<ちやう, とう
-|kanon=てい, とう
-|toon=ちん, とん
-|kun=あか-し, あか-り, とぼ-し, とぼ-す, とぼ-る, とも-し, とも-しび, とも-す, とも-る, ひ-, ほ-
+|goon=とう
+|kanon=とう
+|kanyoon=とん
+}} 
+As unsimplified kanji 灯:
+{{ja-readings
+|goon=ちょう<ちやう
+|kanon=てい
+|toon=ちん
+}}
+Readings shared by both kanji:
+{{ja-readings
+|kun=あかし-, あか-り, とぼ-し, とぼ-す, とぼ-る, とも-し, ともしび-, とも-す, とも-る, ひ-, ほ-
+|nanori=
 }}
 
+{{attention|ja|help with readings}}
 ====Compounds====
 * {{ja-r|灯%籠|とう%ろう}}
 * {{ja-r|幻%灯|げん%とう}}
