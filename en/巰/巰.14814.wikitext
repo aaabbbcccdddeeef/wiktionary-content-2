@@ -5,16 +5,16 @@
 ===Han character===
 {{Han char|rn=48|rad=工|as=10|sn=13|four=10112|canj=MMYIU|ids=⿰巠㐬}}
 
-# an [[atom]] [[group]]
-
 ====References====
-* {{Han ref|kx=0326.051|hdz=10414.040|uh=5DF0|ud=24048|bh=DD57|bd=56663}}
+{{Han ref|kx=0326.051|hdz=10414.040|uh=5DF0}}
 
 ----
 
 ==Chinese==
 {{zh-forms|s=巯}}
-<!--{{zh-wp}}-->
+
+===Etymology===
+{{blend|zh|氫|tr1=qīng|t1=hydrogen|硫|tr2=liú|t2=sulfur}}
 
 ===Pronunciation===
 {{zh-pron
@@ -23,7 +23,7 @@
 |cat=
 }}
 
-===Definitions===
-{{zh-hanzi}}
+===Noun===
+{{zh-noun}}
 
-# {{rfdef|zh}}
+# {{lb|zh|organic chemistry}} [[sulfhydryl]]
