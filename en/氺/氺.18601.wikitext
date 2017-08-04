@@ -20,9 +20,13 @@ Radical-like form; used in compound characters.
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=水01}}
+{{ja-kanji|grade=r|rs=水01}}
 
-# {{defn|lang=ja|sort=水01}}
+# {{alternate form of|lang=ja|下水||bottom water radical}} 
 
 ====Readings====
-* {{ja-readings|on=[[すい]] (sui)|kun=[[したみず]] (shitamizu)}}
+{{ja-readings
+|goon=すい<すゐ
+|kanon=すい<すゐ
+|kun=したみず-<したみづ-
+}}
