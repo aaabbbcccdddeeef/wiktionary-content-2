@@ -200,10 +200,12 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 
 ==Egyptian==
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 * {{a|Reconstructed}} {{IPA|/ma/|lang=egy}}<ref>{{R:egy:EDE|v=3}}</ref>
 
-===Preposition===
+====Preposition====
 {{egy-prep|head=<hiero>m</hiero>}}
 
 # [[in]]
@@ -214,24 +216,39 @@ Image:Fraktur letter M.png|Uppercase and lowercase '''M''' in [[Fraktur]]
 # by means of
 # in the state of, [[as]], [[is]]
 
-====Usage notes====
+=====Usage notes=====
 This preposition is often used with the last definition here to indicate temporary identity, so, for example, {{m|egy|z}} {{m|egy||m}} {{m|egy|ꜣhw}} (“the man is a poor man”) implies that this a temporary, rather than an eternal, state. Egyptian generally has an expansive view of what counts as a temporary identity compared to English.
 
 {{egy-hieroforms
 |<hiero>im</hiero>|read1=m}}
 
-====Inflection====
+=====Inflection=====
 {{egy-hieroforms|title=Adverbial forms of {{m-self|egy|m}}
 |<hiero>i-m</hiero>|read1=jm}}
 
-====Derived terms====
+=====Derived terms=====
 {{der2|lang=egy
 |jmj}}
+
+===Etymology 2===
+
+====Particle====
+{{egy-part|proclitic|head=<hiero>m-D38</hiero>}}
+
+# [[behold]], [[lo]], [[look]]
+
+====Alternative forms====
+{{egy-hieroforms
+|<hiero>m-D37</hiero>|read1=m
+|<hiero>m-a</hiero>|read2=m}}
+
+=====Usage notes=====
+This particle must introduce a sentence. It is followed by an attached second-person suffix pronoun, such as {{m|egy|.k}}, {{m|egy|.ṯ}}, {{m|egy|.ṯnj}}, or {{m|egy|.ṯn}}, indicating the person being addressed.
 
 ===References===
 * {{R:egy:Allen}}
 * {{R:egy:Faulkner}}
-<references></references>
+<references/>
 
 ----
 
