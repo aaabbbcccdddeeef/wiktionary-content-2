@@ -125,16 +125,16 @@ Derivatives:
 ----
 
 ==Japanese==
-{{rfc|ja|''Number'' is an unrecognized part of speech. What should it be instead?}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=止01}}
 
 ====Readings====
-* {{ja-readings
-|goon=[[しょう]] (shō) < [[しやう]] (shau)
-|kanon=[[せい]] (sei)
-|kun=[[ただしい]] (tadashii), [[まさ]] (masa), [[ただす]] (tadasu)}}
+{{ja-readings
+|goon=しょう<しやう
+|kanon=せい
+|kun=ただ-し.い, ただ-す, まさ-, まさ-に
+}}
 
 ====Compounds====
 {{der-top}}
@@ -177,7 +177,7 @@ Derivatives:
 {{bottom}}
 {{der-bottom}}
 
-===Number===
+===Numeral===
 {{ja-pos|number|hira=せい|rom=sei}}
 
 # A number of 10<sup>40</sup> in modern Japanese since 17th century.
