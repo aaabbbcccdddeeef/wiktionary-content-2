@@ -242,12 +242,18 @@ From {{inh|sk|sla-pro|*synъ}}, from {{inh|sk|ine-bsl-pro|*sūˀnus}}, from {{in
 * {{rhymes|in|lang=sk}}
 
 ===Noun===
-{{sk-noun|g=m|gen=syna|pl=synovia|decl=chlap}}
+{{sk-noun|g=m|gen=syna|pl=synovia|genpl=synov|decl=chlap}}
 
 # [[son]]
 
 ====Declension====
 {{sk-decl-noun|syn|syna|synovi|syna|synovi|synom|synovia|synov|synom|synov|synoch|synmi}}
+
+====Derived terms====
+* {{l|sk|synovský}}
+* {{l|sk|synovsky}}
+* {{l|sk|synovstvo}}
+* {{l|sk|synček}}, {{l|sk|synáčik}}
 
 ===Further reading===
 * {{R:SDK}}
