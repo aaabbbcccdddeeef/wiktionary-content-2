@@ -173,7 +173,7 @@ This preposition is followed by the [[instrumental case]].
 ==Egyptian==
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>s</hiero>}}
+{{egy-noun|m|head=<hiero>s</hiero>}}
 
 # The object depicted in the hieroglyph <hiero>s</hiero>. {{uncertain|egy}}
 ## A cloth
@@ -182,7 +182,7 @@ This preposition is followed by the [[instrumental case]].
 {{egy-decl-noun|g=m|s}}
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>s-Z1</hiero>}}
+{{egy-noun|m|head=<hiero>s-Z1</hiero>}}
 
 # A vessel or container (made of gold) {{defdate|18th dynasty}}
 
@@ -190,23 +190,21 @@ This preposition is followed by the [[instrumental case]].
 {{egy-decl-noun|g=m|s}}
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>s-G38</hiero>}}
+{{egy-noun|m|head=<hiero>s-G38</hiero>}}
 
 # A type of goose, especially as an offering for the dead {{defdate|Old Kingdom}}
 # {{form of|Variant form|sr||type of goose|lang=egy}}
 
 ====Alternative forms====
-{| class="wikitable"
-|-
-| <hiero>s-G54</hiero>
-| <hiero>s</hiero>
-|}
+{{egy-hieroforms
+|<hiero>s-G54</hiero>|read1=s
+|<hiero>s</hiero>|read2=s}}
 
 ====Inflection====
 {{egy-decl-noun|g=m|s}}
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>s</hiero>}}
+{{egy-noun|m|head=<hiero>s</hiero>}}
 
 # {{ngd|abbreviation for {{m|egy|snb||health}} in the formula {{m|egy|ꜥnḫ wḏꜣ snb||life, prosperity, health}}}}
 
