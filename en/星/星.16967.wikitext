@@ -68,7 +68,7 @@ Originally {{och-l|曐}}, which is a {{Han compound|ls=psc|nocap=1|晶|生|c1=s|
 ===Kanji===
 {{ja-kanji|grade=2|rs=日05}}
 
-# [[star]]
+# {{l|en|star}}
 
 ====Readings====
 {{ja-readings
@@ -79,7 +79,7 @@ Originally {{och-l|曐}}, which is a {{Han compound|ls=psc|nocap=1|晶|生|c1=s|
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|準星|じゅんせい}}: [[quasar]]
+* {{ja-r|準星|じゅんせい}}: {{l|en|quasar}}
 * {{ja-r|星霜|せいそう}}
 * {{ja-r|星芒|せいぼう}}
 * {{ja-r|星人|せいじん}}
@@ -87,54 +87,77 @@ Originally {{och-l|曐}}, which is a {{Han compound|ls=psc|nocap=1|晶|生|c1=s|
 * {{ja-r|星辰|せいしん}}
 * {{ja-r|星宿|せいしゅく}}
 {{der-mid}}
-* {{ja-r|星雲|せいうん}}: {{q|astronomy}} [[nebula]]
-* {{ja-r|星団|せいだん}}: {{q|astronomy}} [[cluster]]
-* {{ja-r|巨星|きょせい}}: {{q|astronomy}} [[giant]]
-* {{ja-r|恒星|こうせい}}: {{q|astronomy}} [[star]]
-* {{ja-r|連星|れんせい}}: {{q|astronomy}} [[binary star]]
-* {{ja-r|遊星|ゆうせい}}: {{q|archaic}} [[planet]]
-* {{ja-r|惑星|わくせい}}: {{q|astronomy}} [[planet]]
-* {{ja-r|矮星|わいせい}}: {{q|astronomy}} [[dwarf]]
-* {{ja-r|星体|せいたい}}: {{q|astronomy}} [[star]] [[body]]
-* {{ja-r|星座|せいざ}}: {{q|astronomy}} [[constellation]]
-* {{ja-r|流星|りゅうせい}}: {{q|astronomy}} [[meteor]]
-* {{ja-r|彗星|すいせい}}: {{q|astronomy}} [[comet]]
+* {{ja-r|星雲|せいうん}}: {{q|astronomy}} {{l|en|nebula}}
+* {{ja-r|星団|せいだん}}: {{q|astronomy}} {{l|en|cluster}}
+* {{ja-r|巨星|きょせい}}: {{q|astronomy}} {{l|en|giant}}
+* {{ja-r|恒星|こうせい}}: {{q|astronomy}} {{l|en|star}}
+* {{ja-r|連星|れんせい}}: {{q|astronomy}} {{l|en|binary star}}
+* {{ja-r|遊星|ゆうせい}}: {{q|archaic}} {{l|en|planet}}
+* {{ja-r|惑星|わくせい}}: {{q|astronomy}} {{l|en|planet}}
+* {{ja-r|矮星|わいせい}}: {{q|astronomy}} {{l|en|dwarf}}
+* {{ja-r|星体|せいたい}}: {{q|astronomy}} {{l|en|star}} {{l|en|body}}
+* {{ja-r|星座|せいざ}}: {{q|astronomy}} {{l|en|constellation}}
+* {{ja-r|流星|りゅうせい}}: {{q|astronomy}} {{l|en|meteor}}
+* {{ja-r|彗星|すいせい}}: {{q|astronomy}} {{l|en|comet}}
 {{der-bottom}}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|ほし|yomi=k}}
 {{IPAchar|/posi/}} → {{IPAchar|/fosi/}} → {{IPAchar|/hoɕi/}}
 
-From {{etyl|ojp|ja|sort=ほし}}. Possible cognates include {{cog|ko|별||star}} and {{cog|mnc|ᡠᠰᡳᡥᠠ|tr=usiha||star}}.
+From {{inh|ja|ojp|sort=ほし|-}}. Possible cognates include {{cog|ko|별||star}} and {{cog|mnc|ᡠᠰᡳᡥᠠ|tr=usiha||star}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|ほし|acc=0|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|ほし}}
 
-# [[star]]
-#: {{ja-usex|数え切れないくらいたくさんの'''星'''が輝いている|かぞえきれない くらい たくさん の '''ほし''' が かがやいている|an endless number of '''stars''' are shining}}
+# {{l|en|star}}
+#: {{ja-usex|数え切れないくらいたくさんの'''星'''が輝いている|かぞえきれない くらい たくさん の '''ほし''' が かがやいて いる|an endless number of '''stars''' are shining}}
 #* {{quote-book|date=May 2 2014|||publisher={{w|Wizards of the Coast}}|{{lang|ja|ニクスへの旅}}|chapter={{ruby|{{lang|ja|レオニンの[偶](ぐう)[像](ぞう)[破](は)[壊](かい)[者](しゃ)}}}}|trans-chapter=Leonin Iconoclast|||{{ja-usex|「'''星%々'''は夜%空にあるべきです。ここは我%々の世%界。そして我%々の事は我%々が決めます。」|「'''^ほし%ぼし''' は よ%ぞら に ある べき です。^ここ は われ%われ の せ%かい。^そして われ%われ の こと は われ%われ が きめます。」|“The '''stars''' belong in the night sky. This is our world. And we take matters into our own hands.”}}|trans-title=Journey into Nyx|language=Japanese}}
-# {{lb|ja|sort=ほし|tarot}} the [[star|Star]]
-# {{lb|ja|abbreviation}} [[Singapore]]
+# {{lb|ja|sort=ほし|tarot}} the {{l|en|star|Star}}
 
-===Suffix===
-{{ja-pos|suffix|せい}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|星%明かり|ほし%あかり}}: {{l|en|starshine}}
+* {{ja-r|星%石|ほし%いし}}: a {{l|en|meteorite}}
+* {{ja-r|星%糸|ほし%いと}}: a kind of {{l|en|decorative}} {{l|en|thread}} with small {{l|en|knot}}s or {{l|en|ball}}s of thread at regular {{l|en|interval}}s
+* {{ja-r|星%糞|ほし%くそ}}: a {{l|en|meteorite}}
+* {{ja-r|箒%星|ほうき%ぼし|{{l|en|comet}}}}
+* {{ja-r|星%星|ほし%ぼし}}, {{ja-r|星%々|ほし%ぼし|{{l|en|stars}}}}
+{{der-bottom}}
 
-# {{lb|ja|loosely|especially|fiction}} ''suffix attached to the name of a planet''
-#:{{ja-usex|ニューイヤー'''星'''調%査%行|^ニュー ^イヤー'''-せい''' ^ちょう%さ%こう|Expedition to Planet New Year}}
-
-===See also===
-* {{ja-r|箒%星|ほうき%ぼし|[[comet]]}}
-* {{ja-r|星%星|ほし%ぼし}}, {{ja-r|星%々|ほし%ぼし|[[stars]]}}
-* {{ja-r|輝%星|き%せい|[[bright]] [[star]]}}
-* {{ja-r|タロット||[[tarot]]}}
-
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|ほし}}
 
 # {{surname|lang=ja|sort=ほし}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|せい}}
+
+From {{der|ja|ltc|sort=せい|星|tr={{IPAchar|/seŋ/}}||star}}.
+
+The {{m|en|Singapore}} sense derives from the pre-{{l|en|World War Two}} kanji spelling {{l|ja|星加坡}} (modern kanji spelling {{l|ja|新加坡}}) as a {{bor|ja|zh|-|nocap=1}}, itself a {{l|en|transliteration}} of {{cog|ms|Singapura}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
+* Note: the pitch accent for the suffix is determined by the entire term.
+
+====Proper noun====
+{{ja-pos|proper|せい}}
+
+# one of the {{w|Twenty-Eight Mansions}} in the Chinese system of {{l|en|constellations}}
+# {{lb|ja|abbreviation}} {{l|en|Singapore}}
+
+====Suffix====
+{{ja-pos|suffix|せい}}
+
+# {{lb|ja|loosely|especially|fiction}} {{l|en|planet}} {{n-g|suffix attached to the name of a planet}}
+#:{{ja-usex|ニューイヤー'''星'''調%査%行|^ニュー ^イヤー'''-せい''' ^ちょう%さ%こう|Expedition to '''Planet''' New Year}}
+
+=====Derived terms=====
+* {{ja-r|輝%星|き%せい|{{l|en|bright}} {{l|en|star}}
 
 ===References===
 <references/>
