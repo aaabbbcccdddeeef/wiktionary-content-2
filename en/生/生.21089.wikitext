@@ -183,7 +183,7 @@ From {{inh|ja|ojp|sort=なま|-}}.  Numerous derivatives already in use in the {
 # {{short for|生ビール|lang=ja}}
 
 ====Prefix====
-{{ja-pos|なま|prefix}}
+{{ja-pos|prefix|なま}}
 
 # {{l|en|live}}
 # {{l|en|fresh}}, {{l|en|draft}}
@@ -202,7 +202,7 @@ From {{der|ja|ltc|sort=せい|生|tr={{IPAchar|/ʃˠæŋ/}}||alive; fresh; raw; 
 {{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-pos|せい|noun}}
+{{ja-noun|せい}}
 
 # a {{l|en|living}}
 #: {{ja-usex|'''生'''を営む|'''せい''' を いとなむ|make a '''living'''}}
@@ -211,7 +211,7 @@ From {{der|ja|ltc|sort=せい|生|tr={{IPAchar|/ʃˠæŋ/}}||alive; fresh; raw; 
 #: {{syn|ja|命}}
 
 ====Suffix====
-{{ja-pos|せい|suffix}}
+{{ja-pos|suffix|せい}}
 
 # a {{l|en|student}}
 #: {{ja-usex|中学'''生'''、大学'''生'''、受験'''生'''|ちゅうがく'''せい'''、だいがく'''せい'''、じゅけん'''せい'''|middle-school '''student''', university '''student''', test-taking '''student''' → examin'''ee'''}}
@@ -225,13 +225,13 @@ Likely a contraction from {{m|ja|生き|tr=iki||life, living; freshness}}.<ref n
 {{ja-pron|yomi=k|き|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-pos|き|noun}}
+{{ja-noun|き}}
 
 # {{l|en|purity}}, a lack of any {{l|en|admixture}}, a state of being {{l|en|undiluted}}
 #: {{ja-usex|ウィスキー を '''生''' で 飲む|ウィスキー を '''き''' で のむ|drink whiskey '''straight'''}}
 
 ====Prefix====
-{{ja-pos|き|prefix}}
+{{ja-pos|prefix|き}}
 
 # {{l|en|unrefined}}
 #: {{ja-usex|生糸|きいと|'''raw''' silk}}
