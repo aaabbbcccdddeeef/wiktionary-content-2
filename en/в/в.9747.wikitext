@@ -185,11 +185,11 @@ From {{inh|ru|orv|въ}}, from {{inh|ru|sla-pro|*vъ(n)}}, from {{etyl|ine-pro|r
 ====Preposition====
 {{head|ru|preposition}}
 
-# ''(location)'' [[in]], [[at]], [[on]] ''(+ [[prepositional case]])''
+# ''(location)'' [[in]], [[at]], [[on]] {{case-gov|ru|prepositional}}
 #: {{uxi|ru|[[он|Он]] в теа́тре|He’s at (in) the theater.}}
-# ''(direction)'' [[to]], [[into]] ''(+ [[accusative case]])''
+# ''(direction)'' [[to]], [[into]] {{case-gov|ru|accusative}}
 #: {{uxi|ru|Он [[идти|идёт]] в [[теа́тр]]|He’s going to (into) the theater.}}
-# ''(time)'' [[at]], [[in]], [[on]] ''(+ [[accusative case]])''
+# ''(time)'' [[at]], [[in]], [[on]] {{case-gov|ru|accusative}}
 #: {{uxi|ru|в [[три]] [[час|часа́]]|at three o’clock}}
 #: {{uxi|ru|в [[пятница|пя́тницу]]|on Friday}}
 # [[per]]
