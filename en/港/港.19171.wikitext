@@ -58,7 +58,7 @@ Note that, as in [[巷]], in Chinese, the bottom is [[巳]], while in Japanese, 
 
 ====Readings====
 {{ja-readings
-|goon=こう
+|goon=こう<こう
 |kanon=こう<かう
 |kun=みなと-
 }}
@@ -78,13 +78,16 @@ Note that, as in [[巷]], in Chinese, the bottom is [[巳]], while in Japanese, 
 ===Etymology===
 {{wikipedia|lang=ja}}
 {{ja-kanjitab|みなと|yomi=k}}
-From {{m|ja|水|tr=mi||water}}, {{ja-l|な|tr=na}}, old form of {{m|ja|の|tr=no||possessive particle}}, and {{m|ja|門|tr=to||gate}}. {{attention|ja|from Old Japanese?}}
+From {{inh|ja|ojp|-}}: {{ja-compound|水|み|な|な|門|と|t1=water|pos2=possessive particle|t3=gate}}. Attested in the ''{{w|Kojiki}}'' and ''{{w|Nihon Shoki}}'' as {{ja-l|水門}}. {{attention|ja|Confirm the etymology is from Old Japanese}}
 
-===Pronunciation===
+====Alternate forms====
+* {{ja-l|湊}}
+
+====Pronunciation====
 * {{audio|Ja-Minato.oga|Audio|lang=ja}}
 * {{ja-pron|みなと|yomi=k|acc=h|acc_ref=NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|みなと}}
 
 # [[port]]
