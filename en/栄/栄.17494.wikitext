@@ -32,7 +32,7 @@ Japanese {{w|shinjitai}} character. {{Han simp|榮|f=炏|t=⺍}}.
 {{ja-readings
 |goon=よう<やう
 |kanon=えい
-|kun=さか-える, は-え, は-える
+|kun=さか-える<さか-ゆ, は-え, は-える<は-ゆ
 |nanori=さかえ, しげ, てる, なが, ひで, よし
 }}
 
@@ -51,13 +51,24 @@ Japanese {{w|shinjitai}} character. {{Han simp|榮|f=炏|t=⺍}}.
 * {{ja-r|栄養|えいよう}}: {{l|en|nutrition}}
 
 ===Etymology 2===
+{{ja-kanjitab|ろん|yomi=irr}}
 {{wp|lang=ja|和了}}
+{{bor|ja|cmn|榮|tr=róng|sort=ろん}}
+
+====Alternate spellings====
+*{{ja-l|栄和}} ({{ja-l|ロンホー}})
+*{{ja-l|栄和了}} ({{ja-l|ロンあがり}})
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ロン}}
+
 ====Noun====
-{{ja-noun|ロン}}
-# {{lb|ja|mahjong|sort=ろん}} {{abbreviation of|lang=ja|栄和|tr=a win by picking up a discard}}
+{{ja-noun|kyu=榮|ロン}}
+# {{lb|ja|mahjong|sort=ろん}} {{abbreviation of|lang=ja|栄和|tr=a win by picking up a discarded tile}}
 # {{lb|ja|mahjong|sort=ろん}} a call for such a win
 
 ====Coordinate terms====
 * {{ja-r|自摸|ツモ}}
 
+----
 [[Category:Japanese male given names|さかえ]]
