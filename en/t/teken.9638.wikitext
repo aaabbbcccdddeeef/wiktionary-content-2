@@ -6,7 +6,7 @@
 
 ===Etymology 1===
 {{PIE root|nl|deyḱ}}
-From {{inh|nl|odt|*tēkan}}, from {{inh|nl|gem-pro|*taikną}}.
+From {{inh|nl|dum|têken}}, from {{inh|nl|odt|*tēkan}}, from {{inh|nl|gem-pro|*taikną}}.
 
 ====Noun====
 {{nl-noun|n|-@en|pl2=-s|tekentje}}
@@ -21,13 +21,14 @@ From {{inh|nl|odt|*tēkan}}, from {{inh|nl|gem-pro|*taikną}}.
 * {{l|nl|gedenkteken}}
 * {{l|nl|wonderteken}}
 
+===Etymology 2===
+{{nonlemma}}
+
 ====Verb====
 {{nl-verb-form}}
 
 # {{nl-verb form of|p=1|n=sg|t=pres|m=ind|tekenen}}
 # {{nl-verb form of|m=imp|tekenen}}
-
-===Etymology 2===
 
 ====Noun====
 {{head|nl|noun plural form}}
@@ -52,6 +53,39 @@ From {{inh|nl|odt|*tēkan}}, from {{inh|nl|gem-pro|*taikną}}.
 
 ====Conjugation====
 {{nds-conj-wk|head=''teken'' (weak verb, irregular)|teken|teken|teken|teeknen, tek|teken}}
+
+----
+
+==Middle Dutch==
+
+===Etymology===
+From {{inh|dum|odt|*tēkan}}, from {{inh|dum|gem-pro|*taikną}}.
+
+===Noun===
+{{dum-noun|head=têken|n}}
+
+# [[mark]], [[sign]]
+# [[gesture]]
+# [[signal]]
+# [[sign]], [[indication]]
+# [[mark]], [[wound]]
+
+====Inflection====
+{{rfinfl|dum|noun}}
+
+====Alternative forms====
+* {{l|dum|teiken}}
+
+====Derived terms====
+* {{l|dum|têkenen}}
+
+====Descendants====
+* Dutch: {{l|nl|teken}}
+* Limburgish: {{l|li|teike}}
+
+===Further reading===
+* {{R:VMNW|ID58692|I}}
+* {{R:MNW|57470|I}}
 
 ----
 
