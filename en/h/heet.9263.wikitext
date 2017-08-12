@@ -6,25 +6,23 @@
 * {{IPA|/ɦeːt/|lang=nl}}
 
 ===Etymology 1===
-From {{inh|nl|dum|*heet}}, from {{inh|nl|odt|*hēt}}, from {{inh|nl|gem-pro|*haitaz}}. Compare Low German {{m|nds|het}}, {{m|nds|heet}}, German {{m|de|heiß}}, West Frisian {{m|fy|hjit}}, English {{m|en|hot}}, Danish {{m|da|hed}}.
+From {{inh|nl|dum|hêet}}, from {{inh|nl|odt|*hēt}}, from {{inh|nl|gem-pro|*haitaz}}.
 
 ====Adjective====
 {{nl-adj|heter}}
 
 # [[hot]] (very warm)
+#: {{ant|nl|koud|koel}}
 # [[spicy]], [[hot]]
 
 =====Inflection=====
 {{nl-decl-adj|hete}}
 
-=====Antonyms=====
-* {{l|nl|koud}}
-* {{l|nl|koel}}
-
-=====Derived terms=====
+=====Related terms=====
 * {{l|nl|hitte}}
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Verb====
 {{nl-verb-form}}
@@ -49,3 +47,30 @@ From {{inh|nl|dum|*heet}}, from {{inh|nl|odt|*hēt}}, from {{inh|nl|gem-pro|*hai
 {{head|lb|verb form}}
 
 # {{inflection of|haen||3|s|pres|ind|lang=lb}}
+
+----
+
+==Middle Dutch==
+
+===Etymology===
+From {{inh|dum|odt|*hēt}}, from {{inh|dum|gem-pro|*haitaz}}.
+
+===Adjective===
+{{dum-adj|head=hêet}}
+
+# [[hot]]
+# [[passionate]]
+
+====Inflection====
+{{rfinfl|dum|adjective}}
+
+====Alternative forms====
+* {{l|dum|heit}}
+
+====Descendants====
+* Dutch: {{l|nl|heet}}
+* Limburgish: {{l|li|heit}}
+
+===Further reading===
+* {{R:VMNW|ID84172|II}}
+* {{R:MNW|16254|VI}}
