@@ -25,11 +25,14 @@
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=日05|style=s|kyu=晝}}
+# [[noon]]
 
 ====Readings====
-* {{ja-readings
-|on=[[ちゅう]] (chū) < [[ちう]] (chiu)
-|kun=[[ひる]] (hiru)}}
+{{ja-readings
+|goon=ちゅう<ちう
+|kanon=ちゅう<ちう
+|kun=ひる-
+}}
 
 ====Compounds====
 * {{ja-r|昼御飯|ひるごはん}}: lunch
@@ -42,7 +45,12 @@
 * {{ja-r|白昼|はくちゅう}}
 * {{ja-r|真昼|まひる}}
 
-===Noun===
+===Etymology===
+{{ja-kanjitab|ひる|yomi=kun}}
+From {{ja-compound|日|ひ|る|t1=sun|pos2=suffix expressing state or change}}, as in the time when the sun is at its highest point in the sky {{rfv-etymology|ja}}.
+{{attention|ja|Old Japanese?}}
+
+====Noun====
 {{ja-noun|ひる}}
 
 # [[noon]] (12 p.m.)
