@@ -108,7 +108,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 
 ===Pronunciation 2===
 * {{qualifier|stressed}} {{IPA|/a/|lang=bg}}
-* {{qualifier|unstressed}} {{IPA|/ɐ/, /ə/|lang=bg}}
+* {{qualifier|unstressed}} {{IPA|/ɐ/|/ə/|lang=bg}}
 
 ====Conjunction====
 {{head|bg|conjunction|tr=a|sc=Cyrl}}
@@ -277,7 +277,7 @@ Possible link with {{cog|lt|ar̃||question particle}}. Compare {{cog|ru|а||and,
 * {{qualifier|unstressed, pre-tonal}} {{ru-IPA-manual|[ɐ]}}
 
 ====Conjunction====
-{{head|ru|conjunction}}
+{{head|ru|conjunction|cat2=one-letter words}}
 
 # [[but]], [[and]] (introduces a new or different meaning).
 #: {{uxi|ru|[[сегодня|Сего́дня]] [[теплый|тепло́]], а [[вчера́]] [[быть|бы́ло]] [[холодный|хо́лодно]]|It is warm today, but yesterday it was cold.}}
@@ -337,11 +337,7 @@ Compare {{cog|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, 
 =====References=====
 * {{R:ru:Pirozhkov}}
 
-[[Category:Russian one-letter words]]
-[[Category:ru:Cyrillic letter names]]
-[[Category:ru:Latin letter names]]
-[[Category:ru:Letter names]]
-[[Category:ru:Units of measure]]
+{{C|ru|Cyrillic letter names|Latin letter names|Letter names|Units of measure}}
 
 ----
 
@@ -365,7 +361,7 @@ See [[#Translingual|Translingual section]].
 * {{list:Cyrillic script letters/sh}}
 
 ===Etymology 2===
-From {{inh|sh|sla-pro|*a||and, but}}, from {{etyl|ine-bsl-pro|sh}} {{m|ine-bsl-pro|*ō}}.
+From {{inh|sh|sla-pro|*a||and, but}}, from {{inh|sh|ine-bsl-pro|*ō}}.
 
 ====Conjunction====
 {{sh-conjunction}}
@@ -428,7 +424,7 @@ See [[#Translingual|Translingual section]].
 #: {{ux|uk|[[не|Не]] [[він]], а [[вона]]|Not he, but she.|inline=1}}
 
 ===Particle===
-{{head|uk|particle}}
+{{head|uk|particle|cat2=interrogative particles}}
 
 # {{non-gloss definition|interrogative particle: introduces a question}}
 #: {{ux|uk|А [[то]] [[для]] [[чого]]?|And why so?|inline=1}}
@@ -438,6 +434,3 @@ See [[#Translingual|Translingual section]].
 {{head|uk|interjection}}!
 
 # [[ah]]!, [[oh]]!, [[oh well]]
-
-[[Category:Ukrainian interrogative particles]]
-[[Category:Ukrainian letters]]
