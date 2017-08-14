@@ -66,7 +66,7 @@ Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=水06|style=s|kyu=海}} <!-- Note: Kyūjitai form 海 (U+FA45) (CJK compatibility ideograph) -->
+{{ja-kanji|grade=2|rs=水06|kyu=海}} <!-- Note: Kyūjitai form 海 (U+FA45) (CJK compatibility ideograph) -->
 
 # [[sea]]
 # [[ocean]]
@@ -123,9 +123,9 @@ Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|うみ}}
-From {{etyl|ojp|ja|sort=うみ}}.
+From {{etyl|ojp|ja|sort=うみ}}: {{ja-compound|大|う|水|み|t1=big|t2=water}}. 大 can also be read as {{ja-l|おほ}} (modern {{ja-l|おお}}), forming {{ja-r|大%水|おほ%み}} {{rfv-etymology|ja}}.
 
-May derive from a compound of {{m|ja|う|tr=u|pos=stem indicating “ocean”; compare {{m|ja|魚|tr=uo||fish}}, {{m|ja|潮|tr=ushio||salt water}}}} + {{m|ja|水|tr=mi||water}}.
+May also derive from a compound of {{m|ja|う|tr=u|pos=stem indicating “ocean”; compare {{m|ja|魚|tr=uo||fish}}, {{m|ja|潮|tr=ushio||salt water}}}} + {{m|ja|水|tr=mi||water}}.
 
 ====Pronunciation====
 * {{ja-pron|yomi=k|うみ|acc=1|acc_ref=NHK,DJR}}
