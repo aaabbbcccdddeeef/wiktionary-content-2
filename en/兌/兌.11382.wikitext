@@ -14,10 +14,14 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=兑}}
+{{zh-forms|s=兑|t2=兑}}
 
 ===Glyph origin===
 {{Han etym}}
+
+In the oracle bone script, it is a {{Han compound|八|口|人|ls=ic|t1=speech; breath|t2=mouth|t3=person|nocap=1}} – speech; original character of {{och-l|說|id=2|to speak}}. It is also a {{Han compound|㕣|人|ls=psc|c1=p|c2=s|t2=person|nocap=1}}.
+
+{{zh-l|*八}} may be interpreted as smile lines above the mouth (Gao Hongjin) or as meaning “to divide” (Lin Yiguang, i.e. the mouth is divided when smiling); in either case, the character would be the original character of {{och-l|悅|pleased|id=1}}.
 
 ===Etymology 1===
 
@@ -25,11 +29,12 @@
 {{zh-pron
 |m=duì
 |c=deoi3,deoi6
+|h=pfs=tui
 |mn=tōe/tw:tūi/twv:lúi
-|mc=
+|mc=y
 |oc=y
 |ma=
-|cat=n
+|cat=n,pn
 }}
 
 ====Definitions====
@@ -38,6 +43,7 @@
 # [[exchange]]
 # second of the eight [[w:Ba Gua|trigrams]]
 # 58th [[hexagram]] of the [[I Ching]]
+# {{surname|lang=zh}}
 
 ====Compounds====
 {{zh-der|兌換|兌現|兌款|兌付|匯兌|外幣兌換|兌換券|國外匯兌|勻兌|兌運|兌用|兌頭|官收官兌|兌子|兌換利益|兌條|兌轉|兌獎|兌換率|商兌|兌坊|止兌|磨兌|擠兌|砸兌|攙兌|折兌|拆兌|承兌}}
