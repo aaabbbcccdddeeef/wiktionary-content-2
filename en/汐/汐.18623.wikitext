@@ -53,12 +53,22 @@ From {{och-l|夕|evening}}. Compare {{och-l|潮|morning tide; tide}}.
 
 # [[eventide]]
 # [[tide]]
-# salt water
+# [[salt water]]
 # [[opportunity]]
 
 ====Readings====
-* {{ja-readings|on=[[せき]] (seki)|kun=[[しお]] (shio), [[うしお]] (ushio)}}
+{{ja-readings
+|goon=じゃく<じやく
+|kanon=せき
+|kun=うしお-<うしほ-, しお-<しおほ-
+|nanori=いそ, せい
+}}
 
+====Usage notes====
+* Both {{ja-l|汐}} and {{ja-l|潮}} have the kun-readings of ''shio'' and ''ushio''. Archaically, {{ja-r|夕汐|ゆうしお}} was used to mean tides during the night, and {{ja-r|朝潮|あさしお}} was used for tides in the morning. For tides at any time of day, the compound ''chōseki'' may be used, below.
+
+====Compounds====
+* {{ja-r|潮%汐|ちょう%せき|[[tide]]}}
 ----
 
 ==Korean==
