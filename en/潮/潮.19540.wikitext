@@ -63,13 +63,27 @@ Derived from {{och-l|朝|morning}}. Compare {{och-l|汐|evening tide; ebb}} < {{
 {{ja-kanji|grade=6|rs=水12}}
 
 ====Readings====
-* {{ja-readings|goon=[[じょう]] (jō) {{non-joyo-reading}}|kanon=[[ちょう]] (chō)|kun=[[しお]] (shio), [[うしお]] (ushio)}}
+{{ja-readings
+|goon=じょう<でう
+|kanon=ちょう<てう
+|kun=うしお-<うしほ, しお-<しほ
+|nanori=いた
+}}
+
+====Usage notes====
+* Both {{ja-l|潮}} and {{ja-l|汐}} have the kun-readings of ''shio'' and ''ushio''. Archaically, tides in the morning were called {{ja-r|朝潮|あさしお}}, the term for tides at nighttime was {{ja-r|夕汐|ゆうしお}}. For tides at any time of day, the compound ''chōseki'' may be used, below.
+
+====Compounds====
+* {{ja-r|潮%汐|ちょう%せき|[[tide]]}}
 
 ===Etymology 1===
 /siho/: *[sipo] > [siɸo] > [ɕiɸo] > [ɕiwo] > [ɕio]. Cognate with {{m|ja|潮|tr=ushio}}.
 
 ====Pronunciation====
 * {{IPA|/ɕio/|lang=ja}}
+
+====Homophones====
+* {{ja-l|塩}}
 
 ====Noun====
 {{ja-noun|しお|hhira=しほ}}
