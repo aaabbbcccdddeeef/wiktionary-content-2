@@ -65,24 +65,33 @@
 * {{ja-readings|goon=[[だん]] (dan)|kanon=[[たん]] (tan) {{non-joyo-reading}}|kun=[[きたえる]] (kitaeru), [[わかち]] (wakachi)}}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-r|階段|かいだん}}: stairs
+{{der5|lang=ja|
+{{ja-r|階段|かいだん}}: stairs
 |{{ja-r|初段|しょだん}}
 |{{ja-r|段位|だんい}}
 |{{ja-r|値段|ねだん}}: price
 |{{ja-r|段ボール|だんボール}}
 }}
 
-===Noun===
+===Etymology===
+{{ja-kanjitab|だん|yomi=o}}
+
+====Noun====
 {{ja-noun|だん}}
 
 # [[step]]s (up and down); [[stairs]]
 # [[rating]]; [[ranking]]
 # [[row]]; [[line]] (of text)
 
-===Suffix===
+====Suffix====
 {{ja-pos|suffix|だん}}
 
 # (after a number) -th rank; -th degree black belt (in karate, judo, etc)
+# [[section]] {{gloss|in a table of the kana}}
+#: {{ja-usex|は行う'''段'''|.は-ぎょう う-'''だん'''|row ''ha'', '''section''' ''u''}}
+
+====Coordinate terms====
+* {{ja-r|行|ぎょう}}
 
 ----
 
