@@ -14,19 +14,19 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=汇|alt=彚,𢑥,*蝟-hedgehog,𧳪-hedgehog,猬-hedgehog}}
+{{zh-forms|s=汇|alt=彚,𢑥}}
 
 ===Glyph origin===
 {{Han etym}}
-Phono-semantic compound ({{l|zh|形聲}}): semantic {{l|zh|𢑞}} (partially written) + phonetic {{l|zh|胃}} (''{{#invoke:och-pron|retrieve_pron|胃}}'', partially written).
+{{Han compound|㣇|胃|ls=psc|c1=s|c2=p|abb2=y}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=huì
-|c=wai6,wui6
-|mn=lūi/hōe
-|mc=
-|oc=
+|c=wai6,wui6,leoi6
+|mn=hōe/lūi
+|mc=y
+|oc=y
 |ma=
 |cat=v,n
 }}
@@ -34,8 +34,9 @@ Phono-semantic compound ({{l|zh|形聲}}): semantic {{l|zh|𢑞}} (partially wri
 ===Definitions===
 {{zh-hanzi}}
 
-# [[hedgehog]]
+# {{†}} {{zh-alt-form|蝟|[[hedgehog]]}}
 # to [[gather]]; to [[assemble]]
+# [[collection]]; [[class]]; [[category]]
 
 ====Compounds====
 {{zh-der|基本詞彙|彙整|彙集|品彙|彙刊|彙編|彙報|字彙|草字彙|詞彙學|辭彙|語彙|詞彙}}
