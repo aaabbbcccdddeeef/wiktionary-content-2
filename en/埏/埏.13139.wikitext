@@ -11,12 +11,54 @@
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[jin4]]|y=yin4}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=土07}}
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yán
+|c=jin4
+|mc=y
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|垓埏|八埏|埏隧}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shān
+|c=sin1,saan1
+|mc=y
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|埏埴}}
+
+===References===
+* {{R:twedu|B00548}}
+* {{R:yue:mfccd}}
 
 ----
 
@@ -42,12 +84,3 @@
 {{ko-hanja|hangeul=[[연]]|rv=yeon|mr=yŏn}}
 
 # [[boundary]]
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yán]] ([[yan2]])|wg=yen<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=土07}}
