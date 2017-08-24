@@ -32,16 +32,17 @@
 |goon=しょう<しやう
 |kanon=せい
 |kun=こえ-<こゑ-, こわ-
+|nanori=おと, かた, ちか, な, のぶ, もり
 }}
 
 ====Compounds====
-* {{ja-r|声区|せいく}}: [[vocal]] [[register]]
+* {{ja-r|声%区|せい%く}}: [[vocal]] [[register]]
 
 {{wikipedia|lang=ja}}
 
 ===Etymology 1===
 {{ja-kanjitab|こえ|yomi=k}}
-/kowe/ > /koe/
+{{IPAchar|/kowe/}} → {{IPAchar|/koe/}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|こえ|acc=1|acc_ref=DJR,NHK}}
@@ -50,7 +51,7 @@
 {{ja-noun|kyu=聲|こえ|hhira=こゑ}}
 
 # [[voice]]
-#* 905 [[w:Kokin Wakashū|Kokin Wakashū]] (poem #16)
+#* 905 [[w:Kokin Wakashū|Kokin Wakashū]] (poem #16)<ref>{{cite-book|last=Kojima|first=Noriyuki|coauthors=Arai Eizō|title=Shin Nihon Koten Bungaku Taikei 5: [[w:Kokin Wakashū|Kokin Wakashū]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1989|origyear=905|language=Japanese|isbn=4-00-240005-0}}</ref>
 #*: {{ja-usex|野%辺 ちかく 家%居 しせれば うぐひす の なくなる '''こゑ''' は 朝な 朝な きく|の%べ ちかく いへ%ゐ しせれば うぐひす の なくなる '''こゑ''' は あさな あさな きく|rom=nobe chikaku iei shisereba uguisu no naku naru '''koe''' ni wa asa na asa na kiku|Because I make my home near the fields and meadows, each and every morning, I hear the '''song''' of the mountain thrush trilling spring.<ref>{{cite-book|1996|Laurel Rasplica Rodd, Mary Catherine Henkenius|Kokinshū - A Collection of Poems Ancient and Modern|page=29}}</ref>
 }}
 
@@ -61,6 +62,7 @@
 
 ===Etymology 2===
 {{ja-kanjitab|しょう|yomi=o}}
+From {{etyl|ltc|ja|sort=しょう}} {{m|ltc|聲|tr=shieng|pos=reconstructed by some linguists as {{IPAchar|/ɕiᴇŋ/}}}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|しょう}}
@@ -74,27 +76,16 @@
 # [[tone mark]]
 
 =====Derived terms=====
-* {{ja-r|去声|きょしょう}}
-* {{ja-r|四声|ししょう}}
-* {{ja-r|声点|しょうてん}}
-* {{ja-r|上声|じょうしょう}}
-* {{ja-r|入声|にっしょう}}
-* {{ja-r|平声|ひょうしょう}}
-* {{ja-r|連声|れんじょう}}
+* {{ja-r|去%声|きょ%しょう}}
+* {{ja-r|四%声|し%しょう}}
+* {{ja-r|声%点|しょう%てん}}
+* {{ja-r|上%声|じょう%しょう}}
+* {{ja-r|入%声|にっ%しょう}}
+* {{ja-r|平%声|ひょう%しょう}}
+* {{ja-r|連%声|れん%じょう}}
 
 ===References===
 <references/>
-:* {{cite-book
-|last=Kojima
-|first=Noriyuki
-|coauthors=Arai Eizō
-|title=Shin Nihon Koten Bungaku Taikei 5: [[w:Kokin Wakashū|Kokin Wakashū]]
-|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-|date=1989
-|origyear=905
-|language=Japanese
-|isbn=4-00-240005-0
-}}
 
 [[Category:Japanese basic words|こえ]]
 
