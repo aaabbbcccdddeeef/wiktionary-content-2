@@ -108,37 +108,38 @@ See [[兩#Usage notes]].
 }}
 
 ====Compounds====
-{{der3|lang=ja|{{ja-l|二王|におう}}
-|{{ja-l|二月|にがつ}}
-|{{ja-l|二言|にごん}}, {{ja-l|二言|ふたこと}}
-|{{ja-l|二重|にじゅう}}
-|{{ja-l|二乗|じじょう}}
-|{{ja-l|二百|にひゃく}}
-|{{ja-l|二次|にじ}}
-|{{ja-l|二字|にじ}}
-|{{ja-l|二塁|にるい}}
-|{{ja-l|二階|にかい}}
-|{{ja-l|二人|ふたり}}
-|{{ja-l|二心|にしん}}, {{ja-l|二心|ふたごころ}}
-|{{ja-l|二日|ふつか}}
-|{{ja-l|二次元|にじげん}}
-|{{ja-l|二院制|にいんせい}}
-|{{ja-l|二毛作|にもうさく}}
-|{{ja-l|二刀流|にとうりゅう}}
-|{{ja-l|二人称|ににんしょう}}
-|{{ja-l|二年草|にねんそう}}
-|{{ja-l|二枚貝|にまいがい}}
-|{{ja-l|二枚舌|にまいじた}}
-|{{ja-l|二枚目|にまいめ}}
-|{{ja-l|二十歳|はたち}}
-|{{ja-l|二十日|はつか}}
-|{{ja-l|二律背反|にりつはいはん}}
-|{{ja-l|二重人格|にじゅうじんかく}}
-|{{ja-l|二束三文|にそくさんもん}}
-|{{ja-l|十重二十重|とえはたえ}}
-|{{ja-l|二つ目|ふたつめ}}
-|{{ja-l|二の次|にのつぎ}}
-|{{ja-l|二の舞|にのまい}}
+{{der3-u|lang=ja
+|{{ja-r|二%王|に%おう}}
+|{{ja-r|二%月|に%がつ}}
+|{{ja-r|二%言|に%ごん}}, {{ja-r|二言|ふたこと}}
+|{{ja-r|二%重|に%じゅう}}
+|{{ja-r|二%乗|じ%じょう}}
+|{{ja-r|二%百|に%ひゃく}}
+|{{ja-r|二次|にじ}}
+|{{ja-r|二字|にじ}}
+|{{ja-r|二%塁|に%るい}}
+|{{ja-r|二%階|に%かい}}
+|{{ja-r|二人|ふたり}}
+|{{ja-r|二%心|に%しん}}, {{ja-r|二%心|ふた%ごころ}}
+|{{ja-r|二日|ふつか}}
+|{{ja-r|二%次%元|に%じ%げん}}
+|{{ja-r|二%院%制|に%いん%せい}}
+|{{ja-r|二%毛%作|に%もう%さく}}
+|{{ja-r|二%刀%流|に%とう%りゅう}}
+|{{ja-r|二%人%称|に%にん%しょう}}
+|{{ja-r|二%年%草|に%ねん%そう}}
+|{{ja-r|二%枚%貝|に%まい%がい}}
+|{{ja-r|二%枚%舌|に%まい%じた}}
+|{{ja-r|二%枚%目|に%まい%め}}
+|{{ja-r|二十歳|はたち}}
+|{{ja-r|二十日|はつか}}
+|{{ja-r|二%律%背%反|に%りつ%はい%はん}}
+|{{ja-r|二%重%人%格|に%じゅう%じん%かく}}
+|{{ja-r|二%束%三%文|に%そく%さん%もん}}
+|{{ja-r|十重二十重|とえはたえ}}
+|{{ja-r|二つ目|ふたつめ}}
+|{{ja-r|二の次|にのつぎ}}
+|{{ja-r|二の舞|にのまい}}
 }}
 
 ====Derived terms====
@@ -157,9 +158,9 @@ From {{etyl|ltc|ja|sort=に}} {{m|zh|二|tr=nyij<sup>H</sup>||two}}.
 
 # [[two]], [[2]]
 # [[second]]
-#: {{ja-usex|二兎 を 追う者 は 一兎 を も 得ず|にと を お.う もの は いっと を も えず|focus on one thing at a time}}
-#: {{ja-usex|二 の 足 を 踏む|に の あし を ふむ|hesitate; think twice; shy or flinch}}
-#: {{ja-usex|二階 から 目薬|にかい から めぐすり|trying to do an impossible task (lit. taking eye medicine from the second floor)}}
+#: {{ja-usex|'''二'''兎 を 追う者 は 一兎 を も 得ず|'''に'''と を お.う もの は いっと を も えず|focus on one thing at a time}}
+#: {{ja-usex|'''二''' の 足 を 踏む|'''に''' の あし を ふむ|hesitate; think twice; shy or flinch}}
+#: {{ja-usex|'''二'''%階 から 目%薬|'''に'''%かい から め%ぐすり|trying to do an impossible task (lit. taking eye medicine from the '''second''' floor)}}
 
 ====Numeral====
 {{cardinalbox|ja|1|2|3|一|三}}
@@ -169,7 +170,7 @@ From {{etyl|ltc|ja|sort=に}} {{m|zh|二|tr=nyij<sup>H</sup>||two}}.
 
 ===Etymology 2===
 {{ja-kanjitab|ふた|yomi=k}}
-Originally /huta/: *[puta] > [ɸuta]. The Ablaut form of {{m|ja|一|tr=hito<small>2</small>||one}}, which it doubles.
+Originally {{IPAchar|/huta/}}: *{{IPAchar|[puta]}} > {{IPAchar|[ɸuta]}}. The Ablaut form of {{m|ja|一|tr=hito<small>2</small>||one}}, which it doubles.
 
 ====Noun====
 {{ja-noun|ふた}}
