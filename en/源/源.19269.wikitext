@@ -55,22 +55,40 @@
 }}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-r|源委|げんい}}
-|{{ja-r|源泉|げんせん}}
-|{{ja-r|源流|げんりゅう}}
-|{{ja-r|語源|ごげん}}
-|{{ja-r|根源|こんげん}}
-|{{ja-r|同源|どうげん}}
+{{der5|lang=ja|{{ja-r|源%委|げん%い|}}
+|{{ja-r|源%泉|げん%せん|}}
+|{{ja-r|源%流|げん%りゅう|}}
+|{{ja-r|語%源|ご%げん|}}
+|{{ja-r|根%源|こん%げん|}}
+|{{ja-r|同%源|どう%げん|}}
 }}
 
-===Noun===
-{{ja-noun|みなもと}}
+===Etymology 1===
+{{ja-kanjitab|みなもと|yomi=kun}}
+From {{attention|ja|Old or Middle Japanese?}} {{ja-compound|水|み|な|な|元|もと|t1=[[water]]|pos2=possessive particle|t3=origin, source|nocat=1}}
 
+====Pronunciation====
+{{ja-pron|みなもと|y=k}}
+
+====Noun====
+{{ja-noun|みなもと}}
 # [[source]], [[origin]]
 
-===Suffix===
-{{ja-pos|suffix|げん}}
+====Proper noun====
+{{ja-pos|みなもと|proper}}
+# {{surname|lang=ja|sort=みなもと}}
 
+====See also====
+* {{ja-r|源%氏|^みなもと%-し}}, {{ja-r|源%氏|^げん%じ}}
+
+===Etymology 2===
+From {{etyl|ltc|ja|sort=げん}} {{m|ltc|源|tr=nguan|pos=reconstructed by some linguists as {{IPAchar|/ŋʉɐn/}}}}
+
+====Pronunciation====
+{{ja-pron|げん|y=kanon}}
+
+====Suffix====
+{{ja-pos|suffix|げん}}
 # [[source]]
 
 ----
