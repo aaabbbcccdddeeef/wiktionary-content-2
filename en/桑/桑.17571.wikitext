@@ -60,15 +60,26 @@
 # [[mulberry]]
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō)|kun=[[くわ]] (kuwa)}}
+{{ja-readings
+|goon=そう<さう
+|kanon=そう<さう
+|kun=くわ<くは
+}}
 
-===Noun===
-{{ja-noun|くわ}}
+===Etymology===
+{{ja-kanjitab|くわ|yomi=kun}}
+Two theories:
+# From {{ja-compound|食う|く.う|葉|は|t1=to [[eat]]|t2=[[leaf]]|nocat=1}}, referencing to the food of [[silkworm]]s.
+# From {{ja-compound|胡|こ|葉|は|t1=[[barbarian]]|t2=leaf|nocat=1}}, referencing that mulberry trees were brought to Japan from the western parts of China or beyond.
 
+{{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|くわ|y=k}}
+
+====Noun====
+{{ja-noun|くわ|クワ|hhira=くは|hkata=クハ}}
 # [[mulberry]]
-
-[[Category:Japanese terms spelled with 桑]]
-[[Category:Japanese terms written with one Han script character]]
 
 ----
 
