@@ -2,18 +2,31 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=99|rad=甘|as=03|sn=8|four=|canj=IPTM|ids=⿹弋甘}}
-
-# sugar product
+{{Han char|rn=99|rad=甘|as=03|sn=8|four=4370|canj=IPTM|ids=⿹弋甘}}
 
 ====References====
-* {{Han ref|kx=0355.101|hdz=10559.070|uh=7519|ud=29977}}
+{{Han ref|kx=0355.101|hdz=10559.070|uh=7519}}
 
 ----
 
-==Mandarin==
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[dài]] ([[dai4]])|wg=tai<sup>4</sup>}}
+===Etymology===
+{{blend|zh|代|tr1=dài|t1=substitute|甘|tr2=gān|t2=sweet}}.
 
-# {{defn|lang=cmn|sort=甘03}}
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=doi6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|dated|chemistry}} [[glycoside]]
+
+====Synonyms====
+* {{zh-l|苷}}, {{zh-l|醣苷}}, {{zh-l|配糖體}}, {{zh-l|配糖物}}
