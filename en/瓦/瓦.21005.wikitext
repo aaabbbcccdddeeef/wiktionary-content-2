@@ -78,28 +78,57 @@
 
 ===Kanji===
 {{ja-kanji|grade=|rs=瓦00}}
+# [[tile]]
+# [[gram]], [[gramme]]
 
 ====Readings====
 {{ja-readings
 |goon=げ<げ<ぐゑ
 |kanon=が<ぐわ
-|kun=かわら-, グラム-
+|kun=かわら-<かはら-, グラム-
 }}
 
 ====Compounds====
-* [[瓦解]]
-* [[瓦礫]]
+* {{ja-r|瓦%解|が%かい|[[collapse]], [[downfall]]}}
+* {{ja-r|瓦礫|が%れき|[[rubble]], [[wreckage]]}}
 
-===Noun===
+===Etymology 1===
 [[Image:Tiled roof in Dubrovnik-edit.jpg|thumb]]
-{{ja-noun|かわら}}
+{{ja-kanjitab|かわら|yomi=kun}}
+{{IPAchar|/kapara/}} → {{IPAchar|/kaɸara/}} → {{IPAchar|/kawara/}}
 
+From {{etyl|sa|ja}} {{m|sa|कपाल||[[skull]], [[w:kapala|kapala]]|pos=etc.}}<ref name="DJR">{{R:Daijirin}}</ref>; along with Buddhism, roof tiles came to Japan in the [[w:Asuka period|Asuka period]], once found on Buddhist temples. Later on, the trend of roof tiles spread throughout medieval Japan.
+
+There is another theory that roof tiles were made of clay, {{ja-r|土|つち}}, and like pottery they were fired, as in "changed": {{ja-r|変わる|かわる}}, therefore ''kawara'' was derived from the [[未然形#Japanese|imperfective form]] {{ja-r|変わら|かわら}}. {{rfv-etymology|ja}}
+
+====Noun====
+{{ja-noun|かわら|hhira=かはら}}
 # [[roof tile]]s
+
+===Etymology 2===
+Abbreviation of transliterated [[当て字#Japanese|ateji]] {{ja-r|瓦%蘭%姆|グ%ラ%ム}}, attested in the [[w:Meiji period|Meiji period]]. 
+
+Once considered a [[国字#Japanese|kokuji]], another example being {{ja-r|瓲|トン|[[ton]], [[tonne]]}}.
+
+====Noun====
 {{ja-noun|グラム}}
-# {{lb|ja|dated}} {{n-g|Symbol for [[gramme]]}}
+# {{lb|ja|dated}} {{n-g|Symbol for [[gram]], [[gramme]]}}
+
+====Derived terms====
+{{der-top|Terms derived from グラム}}
+*{{ja-r|瓲|ミリグラム|[[milligram]], [[milligramme]]}}
+*{{ja-r|甅|センチグラム|[[centigram]], [[centigramme]]}}
+*{{ja-r|瓰|デシグラム|[[decigram]], [[decigramme]]}}
+*{{ja-r|瓧|デカグラム|[[decagram]], [[decagramme]]}}
+*{{ja-r|瓸|ヘクトグラム|[[hectogram]], [[hectogramme]]}}
+*{{ja-r|瓩|キログラム|[[kilogram]], [[kilogramme]]}}
+{{der-bottom}}
 
 [[Category:Japanese terms spelled with 瓦]]
 [[Category:Japanese terms written with one Han script character]]
+
+===References===
+<references/>
 
 ----
 
