@@ -46,22 +46,39 @@
 
 ===Kanji===
 {{ja-kanji|grade=|rs=水13}}
-
-# {{defn|lang=ja|sort=水13}}
+# [[waterway]], [[channel]]
+# [[wake]] (of a ship)
 
 ====Readings====
 {{ja-readings
-|on=れい
-|kun=みお-
+|goon=りょう<りやう
+|kanon=れい
+|kun=みお-<みを-
+|nanori=みほ, みよ
 }}
 
+====Compounds====
+* {{ja-r|澪%標|れい%ひょう}}, {{ja-r|澪%標|みお%つくし|[[perch]], [[mark]]s in a [[water]] [[channel]]}}
+
 ===Etymology===
+{{IPAchar|/minowo/}} → {{IPAchar|/mi-wo/}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
 {{ja-kanjitab|みお|yomi=k}}
-{{rfe|ja}}
+From {{attention|ja|Old/Middle Japanese?}} {{ja-r|水の緒|みのを|rom=minowo|water's thread}}: {{ja-compound|水|み|の|の|緒|を|rom3=wo|t1=[[water]]|pos2=possessive particle|t3=[[string]], [[thread]]|nocat=1}}, then was shortened to ''miwo''. The {{ja-l|を}} was changed to {{ja-l|お}} by [[w:Modern kana usage|modern kana usage]].
+
+====Alternate forms====
+* {{ja-l|水脈}}
+* {{ja-l|水尾}}
+
+====Pronunciation====
+{{ja-pron|みお|yomi=kun}}
+
+====Noun====
+{{ja-noun|みお|hhira=みを}}
+# [[waterway]]
+# [[channel]], [[groove]]
 
 ====Proper noun====
 {{ja-pos|proper noun|みお}}
-
 # {{given name|female|lang=ja}}
 
 [[Category:Japanese terms derived from Old Japanese]]
