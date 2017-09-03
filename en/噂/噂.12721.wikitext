@@ -41,12 +41,33 @@
 {{ja-kanji|grade=n|rs=口12}}
 
 ====Readings====
-* {{ja-readings|on=[[そん]] (son)|kun=[[うわさ]] (uwasa)}}
+{{ja-readings
+|goon=そん
+|kanon=そん
+|kun=うわさ-<うはさ-
+}}
+
+===Etymology===
+{{ja-kanjitab|うわさ|yomi=kun}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|うわさ|y=k}}
 
 ===Noun===
-{{ja-noun|うわさ}}
+{{ja-noun|うわさ|hhira=うはさ}}
+# [[rumor]] (US), [[rumour]] (UK)
+# [[gossip]]
 
-# [[rumor]], [[gossip]]
+====Synonyms====
+* {{ja-r|風%聞|ふう%ぶん}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|うわさ}}
+# [[talk]] gossip (about)
+
+====Conjugation====
+{{ja-suru|うわさ}}
 
 ====Derived terms====
 * {{ja-r|うわさ を すれば}}
