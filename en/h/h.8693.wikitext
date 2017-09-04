@@ -323,9 +323,19 @@ The letter '''''H'''''/'''''h''''' (like '''''F'''''/'''''f''''', and '''''O''''
 
 ===Noun===
 {{head|pt|noun form}}
-# {{abbreviation of|hora|lang=pt}} Used to indicate time in relation to a 24-hour clock.
-#: ''O evento é hoje, às 20'''h''''' - ''The event is today at 8 p.m.''
-#: ''09'''h'''30'' - ''09:30 a.m.''
+# {{abbreviation of|hora|lang=pt}} 
+##Used to indicate time in relation to a 24-hour clock.
+##: ''O evento é hoje, às 20'''h''''' - ''The event is today at 8 p.m.''
+##: ''09'''h'''30'' - ''09:30 a.m.''
+##Used to indicate any sequence of time in hours.
+##: ''O atleta completou a corrida em 1h20{{l|pt|min}}45{{l|pt|s}}'' - ''The athlete completed the race in 1 hour, 21 minutes and 45 seconds''
+
+====Usage notes====
+* This abbreviation uses no spaces or points and must always follow a number (in its most common usage, a number between 0 and 23 to indicate the day's hours).  
+* The abbreviation can be followed by a number between 00 and 59 to indicate the minutes of an hour. This can be optionally represented by another abbreviation: '''{{l|pt|min}}'''.
+** Example: ''15h30'' or ''15h30min'', the first being much more common
+* min can be further followed by another abbreviation, '''{{l|pt|s}}''', to represent seconds.
+** Example: ''20h43min08s''
 
 ----
 
