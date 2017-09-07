@@ -11,12 +11,25 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=𫝵}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[dou2]]|y=dou2}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=山14}}
+===Pronunciation===
+{{zh-pron
+|m=dǎo
+|c=dou2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ====References====
 * [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 101]
@@ -31,13 +44,4 @@
 # {{defn|lang=ja|sort=山14}}
 
 ====Readings====
-* {{ja-readings|on=[[とう]] (tō)|kun=[[しま]] (shima)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[dǎo]] ([[dao3]])|wg=tao<sup>3</sup>}}
-
-# {{defn|lang=cmn|sort=山14}}
+* {{ja-readings|on=とう|kun=[[しま]] (shima)}}
