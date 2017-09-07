@@ -19,11 +19,15 @@
 
 ===Glyph origin===
 {{Han etym}}
+
 ===Etymology 1===
+
 ====Pronunciation====
 {{zh-pron
 |m=jì
-|c=gai2,gai6
+|c=gai6-2,gai6
+|c_note=gai6-2 - vernacular (all senses); gai6 - literary (reserved for Buddhist senses)
+|c-t=gai5*
 |mc=1
 |oc=1
 |cat=n
@@ -32,10 +36,12 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-short|偈陀}}
+# {{lb|zh|Buddhism}} {{zh-short|偈陀|[[gatha]]}}
+# {{lb|zh|Cantonese}} [[talk]]; [[chat]]; [[conversation]]
 
 ====Compounds====
-{{zh-der|偈偈|偈子|偈言|偈頌}}
+{{zh-der|偈偈|偈子|偈言|偈頌|傾偈|傾閒偈|閒偈|話事偈|佛偈|啱偈|密偈}}
+
 ===Etymology 2===
 ====Pronunciation====
 {{zh-pron
@@ -51,7 +57,10 @@
 
 # [[fast]]
 # [[brave]]
+
 ===Etymology 3===
+Borrowed from {{bor|yue|en|gear|notext=1}}.
+
 ====Pronunciation====
 {{zh-pron
 |c=gai2
@@ -59,10 +68,13 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
 
-# {{lb|zh|Cantonese}} [[talk]]; [[chat]]
-# {{lb|zh|Cantonese}} [[engine]]
+# [[engine]] {{zh-mw|副}}
+# {{lb|zh|figurative}} [[body]]; [[health]]
+
+====Compounds====
+{{zh-der|偈油|爆偈}}
 
 ===References===
 * {{R:yue:Hanzi}}
