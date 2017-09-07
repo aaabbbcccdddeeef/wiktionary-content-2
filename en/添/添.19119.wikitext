@@ -15,12 +15,12 @@
 ==Chinese==
 {{zh-forms}}
 
-===Etymology===
-Compare {{cog|th|แถม}}, {{cog|khb|ᦶᦏᧄ}} and {{cog|vi|thêm}}.
-
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|水|alt1=氵|t1=water|忝|ls=psc|c1=s|c2=p}} – to increase by pouring more water in.
+{{Han compound|水|t1=water|忝|ls=psc|c1=s|c2=p}} – to increase by pouring more water in.
+
+===Etymology===
+Compare {{cog|tai-pro|*k.temᴬ||full}}, whence {{cog|th|เต็ม||full}} ({{zh-ref|Manomaivibool, 1975}}).
 
 ===Pronunciation===
 {{zh-pron
@@ -34,7 +34,7 @@ Compare {{cog|th|แถม}}, {{cog|khb|ᦶᦏᧄ}} and {{cog|vi|thêm}}.
 |w=
 |mc=y
 |oc=y
-|cat=v,c:part
+|cat=v,c:adv,c:part
 }}
 
 ===Definitions===
@@ -42,13 +42,19 @@ Compare {{cog|th|แถม}}, {{cog|khb|ᦶᦏᧄ}} and {{cog|vi|thêm}}.
 
 # to [[add]]; to [[increase]]
 # to [[give birth]] to (a baby)
-# {{lb|zh|Cantonese}} [[again]]; [[once more]]
+# {{lb|zh|Cantonese}} {{zh-alt-form|𠻹|tr=tim1[[again]]; [[more]]}}
 # {{lb|zh|Cantonese}} {{zh-alt-form|𠻹|tr=tim1|''modal particle''}}
-# {{lb|zh|Taishanese}} [[need]] to [do something]; [[have to]]
+# {{lb|zh|Taishanese}} [[need]] to (do something); [[have to]]
 #: {{zh-x|我 橫掂 都 添 去。|I '''have to''' go anyway.|C-T}}
 
 ===Compounds===
 {{zh-der|加油添醬|如虎添翼|增添|加添|延壽添嗣|一喫一添|加油添醋|平添|添枝加葉|添加物|無添和|火上添油|添丁|放屁添風|添倉|添油加醋|添增|添綴|添磚加瓦|添置|添購|添加|畫蛇添足|添本|添兵減灶|添補|為蛇添足|添房|添案小吃|為虎添翼|添妝|添盆|添造|添線|添箱|添忙|添壽|添墳|添枝接葉|海屋籌添|沒添貨|有枝添葉|海屋添籌|紅袖添香|與虎添翼|附添|錦上添花|頰上添毫}}
+
+===Descendants===
+* {{desc|vi|thêm|bor=1}}
+{{attn|zh|Thai แถม, Lü ᦶᦏᧄ?}}
+
+----
 
 ==Japanese==
 
