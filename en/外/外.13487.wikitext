@@ -72,26 +72,76 @@
 |kun=そと-, ほか-, はず-す, はず-れる
 }}
 
-===Noun===
-{{ja-noun|ほか}}
+====Antonyms====
+* {{ja-l|内}}
 
-# [[other]] (things); the [[rest]]
+====Compounds====
+* {{ja-r|外す|はずす}}: to [[unfasten]], to [[remove]]
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|そと|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|そと|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|そと}}
 
 # (the) [[outside]]
 
-===Suffix===
-{{ja-pos|がい|suffix}}
+===Etymology 2===
+{{ja-kanjitab|ほか|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほか|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|他}}
+
+====Noun====
+{{ja-noun|ほか}}
+
+# [[other]] (things); the [[rest]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|sort=よそ}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|よそ|acc=2|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|よそ}}
+
+# {{alternative spelling of|余所|lang=ja}}
+
+===Etymology 5===
+{{ja-kanjitab|と|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|と}}
+
+====Noun====
+{{ja-noun|と}}
+
+# (the) [[outside]]
+# [[toilet]]
+
+===Etymology 6===
+{{ja-kanjitab|がい|yomi=o}}
+{{der|ja|ltc|外|sort=かい'}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|がい}}
+
+====Suffix====
+{{ja-pos|suffix|がい|hhira=ぐわい}}
 
 # [[outside]] of; [[except]] for
 
-====Compounds====
-{{der-top|Compounds}}
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|外骨格|がいこっかく}}: an [[exoskeleton]]
 * {{ja-r|外形|がいけい}}: [[external]] [[shape]]/[[form]]
-* {{ja-r|外す|はずす}}: to [[unfasten]], to [[remove]]
 * {{ja-r|外祖母|がいそぼ}}: (rare) [[maternal grandmother]], [[mother]]'s mother
 * {{ja-r|外交|がいこう}}
 * {{ja-r|外人|がいじん}}
@@ -103,24 +153,34 @@
 * {{ja-r|外国語|がいこくご}}
 * {{ja-r|外来|がいらい}}
 * {{ja-r|外来語|がいらいご}}
-{{der-mid}}
 * {{ja-r|外泊|がいはく}}
 * {{ja-r|外相|がいしょう}}
-* {{ja-r|外科|げか}}
 * {{ja-r|外耳|がいじ}}
 * {{ja-r|外苑|がいえん}}
 * {{ja-r|外資|がいし}}
 * {{ja-r|外貨|がいか}}
 * {{ja-r|外装|がいそう}}
-* {{ja-r|外法|げほう}}
-* {{ja-r|外道|げどう}}
 * {{ja-r|外部|がいぶ}}
 * {{ja-r|海外|かいがい}}
 * {{ja-r|室外|しつがい}}: [[outside]] a [[room]], [[outdoor]]
 {{der-bottom}}
 
-====Antonyms====
-* {{l|ja|内}}
+===Etymology 7===
+{{ja-kanjitab|げ|yomi=o}}
+{{der|ja|ltc|外|sort=け'}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|げ|acc=1|acc_ref=DJR}}
+
+# {{lb|ja|Buddhism|sort=け'}} [[non-Buddhist]] [[teaching]]s or [[text]]s
+
+=====Derived terms=====
+* {{ja-r|外科|げか}}
+* {{ja-r|外道|げどう}}
+* {{ja-r|外法|げほう}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words]]
 
