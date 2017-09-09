@@ -1,9 +1,6 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-[[凡]] + [[巾]]<!--please add English explanation of this-->
-
 ===Han character===
 {{Han char|rn=16|rad=几|as=03|sn=5|four=|canj=HNLB|ids=⿵⺇巾}}
 
@@ -17,10 +14,8 @@
 ==Japanese==
 [[file:Takoagetaikai873.JPG|thumb|right|200px|凧(tako)]]
 
-===Noun===
-{{ja-noun|たこ}}
-
-# (''toy'') [[kite]] (i.e. a tethered object lifted by wind)
+===Glyph origin===
+{{ja-etym-kokuji}}.
 
 ===Kanji===
 {{ja-kanji|grade=n|rs=几03}}
@@ -28,10 +23,10 @@
 ====Readings====
 * {{ja-readings|kun=[[たこ]] (tako), [[いかのぼり]] (ikanobori)}}
 
-====Usage notes====
-This character is a kokuji ({{ja-l|国字}}), i.e. a [[kanji]] invented in Japan.
+===Etymology===
+{{ja-kanjitab|たこ|yomi=k}}
 
-[[Category:Japanese-only CJKV Characters|几03]]
+====Noun====
+{{ja-noun|たこ}}
 
-[[Category:Japanese terms spelled with 凧]]
-[[Category:Japanese terms written with one Han script character]]
+# (toy) [[kite]] {{gloss|a tethered object lifted by wind}}
