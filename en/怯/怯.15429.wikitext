@@ -35,6 +35,9 @@
 
 # {{rfdef|lang=zh}}
 
+===Compounds===
+{{zh-der|卑怯|心怯|怯場|怯弱|怯懦|畏怯|羞怯|膽怯|露怯}}
+
 ===References===
 * {{thcwdq}}
 
@@ -48,7 +51,10 @@
 # {{defn|lang=ja|sort=心05}}
 
 ====Readings====
-* {{ja-readings|on=[[きょう]] (kyō)|kun=[[おびえる]] (obieru), [[おじる]] (ojiru)}}
+* {{ja-readings
+|goon=こう
+|kanon=きょう
+|kun=おびえ-る, お-じる, おそ-れる, ひる-む, よわ-い}}
 
 ----
 
@@ -64,7 +70,7 @@
 ==Vietnamese==
 
 ===Han character===
-'''怯''' ([[khiếp]], [[khép]])
+{{vi-hantu|[[khiếp]], [[khép]]|rs=心05}}
 
 # {{defn|lang=vi}}
 
