@@ -39,8 +39,7 @@
 
 ===Kanji===
 {{ja-kanji|grade=|rs=水13}}
-# [[waterway]], [[channel]]
-# [[wake]] (of a ship)
+# {{l|en|waterway}}, {{l|en|channel}}
 
 ====Readings====
 {{ja-readings
@@ -51,29 +50,48 @@
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|澪%標|れい%ひょう}}, {{ja-r|澪%標|みお%つくし|[[perch]], [[mark]]s in a [[water]] [[channel]]}}
+{{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|みお|yomi=k}}
-{{IPAchar|/mi<sub>1</sub>nowo/}} → {{IPAchar|/mi-wo/}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|みお}}
 
-From {{etyl|ojp|ja|sort=みお}} {{ja-r|水の緒|みの.を|rom=minowo|thread of water}}<ref name="DJR">{{R:Daijirin}}</ref>: {{ja-compound|水|み|の|の|緒|を|rom3=wo|t1=[[water]]|pos2=possessive particle|t3=[[string]], [[thread]]|nocat=1}}, then was shortened to ''miwo''. The {{ja-l|を}} was changed to {{ja-l|お}} by [[w:Modern kana usage|modern kana usage]].
+{{IPAchar|/mi<sub>1</sub> wo/}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
 
-====Alternate forms====
-* {{ja-l|水脈}}
-* {{ja-l|水尾}}
+From {{inh|ja|ojp|-|sort=みお}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE, spelled either phonetically in ''{{w|man'yōgana}}'' or as {{m|ja|水尾}}<ref name="MYS">{{RQ:Manyoshu|7|1108}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1108 here]</ref>.
+
+Derived as a compound of {{compound|lang=ja|sort=みお|水|tr1=mi|t1=water|pos1=ancient combining form|緒|tr2=wo</i>, modern reading <i>o|t2=cord; something long and continuing|pos2=likely cognate with {{m|ja|尾|tr=o||tail}} from the sense of “something long and continuing from the end of the main body”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|みお|yomi=kun}}
+{{ja-pron|yomi=kun|みお|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|水尾}}, {{ja-l|水脈}}
 
 ====Noun====
 {{ja-noun|みお|hhira=みを}}
-# [[waterway]]
-# [[channel]], [[groove]]
+
+# {{l|en|waterway}}
+# {{qualifier|more specifically}} a {{l|en|navigable}} {{l|en|channel}}
 
 ====Proper noun====
 {{ja-pos|proper noun|みお}}
-# {{given name|female|lang=ja}}
+
+# {{given name|female|lang=ja|sort=みお}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|れい}}
+
+From {{der|ja|ltc|-}} {{ltc-l|澪}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|れい}}
+
+====Proper noun====
+{{ja-pos|proper noun|みお}}
+
+# {{given name|female|lang=ja|sort=れい}}
 
 ===References===
 <references/>
