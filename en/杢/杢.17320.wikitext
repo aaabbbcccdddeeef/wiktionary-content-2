@@ -34,12 +34,24 @@
 
 ==Japanese==
 
+===Glyph origin===
+{{ja-etym-kokuji}}, a ligature of {{m|ja|木工|tr=moku}}.
+
 ===Kanji===
 {{ja-kanji|grade=|rs=木03}}
 
 # [[woodworker]]
 
-====Readings====
-* {{ja-readings|on=|kun=[[もく]] (moku)}}
+===Etymology===
+{{ja-kanjitab|もく|yomi=k}}
 
-[[Category:Japanese-only CJKV Characters|木+03]]
+====Noun====
+{{ja-noun|もく}}
+
+# {{alternative spelling of|lang=ja|木工|tr=moku||[[woodworker]]}}
+
+====Readings====
+{{ja-readings
+|on=
+|kun=もく-
+}}
