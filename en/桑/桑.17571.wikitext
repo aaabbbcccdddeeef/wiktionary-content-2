@@ -68,23 +68,36 @@
 
 ===Etymology===
 {{ja-kanjitab|くわ|yomi=kun}}
-Two theories:
-# {{IPAchar|/kupupa/}} → {{IPAchar|/kupa/}} → {{IPAchar|/kufa/}} → {{IPAchar|/kuwa/}}
-#: From {{ja-compound|食う|く.う|葉|は|t1=to [[eat]]|t2=[[leaf]]|nocat=1}}, referencing to the food of [[silkworm]]s.
-# {{IPAchar|/kopa/}} → {{IPAchar|/kufa/}} → {{IPAchar|/kuwa/}}
-#: From {{ja-compound|胡|こ|葉|は|t1=[[barbarian]]|pos1=itself from {{etyl|ltc|ja|sort=がつ}} {{m|ltc|胡|tr=yuo}}|t2=leaf|nocat=1}}, referencing that mulberry trees were brought to Japan from the western parts of China or beyond.
 
-{{rfv-etymology|ja}}
+{{IPAchar|/kupa/}} → {{IPAchar|/kuɸa/}} → {{IPAchar|/kuwa/}}
 
-====Pronunciation====
-{{ja-pron|くわ|y=k}}
+From {{inh|ja|ojp|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name="MYS">{{RQ:Manyoshu|7|1357}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1357 here]</ref>
 
-====Noun====
+Ultimate derivation unclear.  Definitely not related to {{cog|ko|뽕||mulberry tree}} or {{m|ko|오디||mulberry fruit}}, nor to {{cog|ain|テㇱマニ|tr=tesmani||mulberry tree}} or {{m|ain|ツレㇷ゚ニ|tr=turepni||mulberry tree}}.
+
+Some theories suggest this might have originally been a compound.  Possible derivations may include:
+
+* A shift from {{m|ja|蚕}}{{m|ja|葉|tr=kopa||silkworm + leaf}}
+* A shift from {{m|ja|胡}}{{m|ja|葉|tr=kopa||non-Chinese people to the west of China + leaf}}, possibly referencing the origin of some mulberry species in central Asia
+* A contraction of {{m|ja|食う|食ふ}}{{m|ja|葉|tr=kupu pa||eat + leaf}}, where ''kupu'' is the ancient reading of modern {{m|ja|食う|tr=kuu}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|くわ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
 {{ja-noun|くわ|クワ|hhira=くは|hkata=クハ}}
-# [[mulberry]]
 
-====Homophones====
-* {{ja-l|鍬}}
+# {{l|en|mulberry}}
+
+====Usage notes====
+{{U:ja:biology|クワ}}
+
+This term can refer to the fruit or the tree.  For greater specificity, the following may be used:
+* {{ja-r|桑の木|くわ の き}}: {{l|en|mulberry}} {{l|en|tree}}
+* {{ja-r|桑の実|くわ の み}}: {{l|en|mulberry}} {{l|en|fruit}}
+
+===References===
+<References/>
 
 ----
 
