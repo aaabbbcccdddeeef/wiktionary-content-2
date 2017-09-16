@@ -28,7 +28,7 @@
 {{ja-kanji forms|恋|戀}}
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=心06|kyu=戀}}
+{{ja-kanji|rs=心06|kyu=戀}}
 
 ====Readings====
 {{ja-readings
@@ -43,24 +43,22 @@
 * {{ja-r|恋人|こいびと}}
 
 ===Etymology===
-{{ja-kanjitab|こい|yomi=kun}}
+{{ja-kanjitab|こい|yomi=k}}
 {{IPAchar|/kopi<sub>1</sub>/}} → {{IPAchar|/koɸi/}} → {{IPAchar|/koi/}}
 
-====Alternate spellings====
-* {{ja-l|恋い}}
-
 ====Pronunciation====
-{{ja-pron|こい|y=k}}
+{{ja-pron|yomi=k|こい|acc=1|acc_ref=DJR,NHK}}
+
+====Alternate forms====
+* {{ja-l|恋い}}
 
 ====Noun====
 {{ja-noun|kyu=戀|こい|hhira=こひ}}
+
 # [[love]], [[romantic]] love
 
 ====Synonyms====
 * {{ja-r|愛|あい}}
-
-====Homophones====
-* {{ja-l|鯉}}
 
 ====Derived terms====
 * {{ja-r|恋する|こいする}}
