@@ -89,35 +89,44 @@
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|瓦%解|が%かい|[[collapse]], [[downfall]]}}
 * {{ja-r|瓦%礫|が%れき|[[rubble]], [[wreckage]]}}
+{{der-bottom}}
 
 ===Etymology 1===
 [[Image:Tiled roof in Dubrovnik-edit.jpg|thumb]]
 {{ja-kanjitab|かわら|yomi=kun}}
+
 {{IPAchar|/kapara/}} → {{IPAchar|/kaɸara/}} → {{IPAchar|/kawara/}}
 
-From {{etyl|sa|ja|sort=かわら}} {{m|sa|कपाल||[[w:kapala|kapala]]|pos="[[pot]]", "[[skull]]", etc.}}<ref name="DJR">{{R:Daijirin}}</ref>, via {{etyl|ltc|ja|sort=かわら}} {{m|ltc|迦波羅|tr=kˠa puɑ lɑ}}.  Along with Buddhism, roof tiles came to Japan in the [[w:Asuka period|Asuka period]], once found on Buddhist temples. Later on, the trend of roof tiles spread throughout medieval Japan.
+Probably from {{der|ja|sa|sort=かわら|कपाल|कपालः|tr=kapāla|cup, bowl, skull}},<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  possibly via {{ltc-l|迦波羅}}.  Along with Buddhism, roof tiles came to Japan in the {{w|Asuka period}}.
 
-Folk etymologies exist:
-# From the belief that said tiles were made of clay, {{ja-r|土|つち}}, and like pottery they were fired, as in "changed": {{ja-r|変わる|かわる}}, therefore ''kawara'' was derived from its [[未然形#Japanese|imperfective form]], {{ja-r|変わら|かわら}} {{rfv-etymology|ja}}. 
-# From [[万葉仮名#Japanese|man'yōgana]] {{ja-r|伽%和%羅|か%わ%ら|[[甲冑#Japanese|helmet and armor]]}}, or {{ja-r|加%宇%良|か%う%ら|[[tortoise]] [[shell]]}}, both relating to armor {{rfv-etymology|ja}}.
+Cognate with {{m|ja|骨}}, {{m|ja|䯊|tr=kawara||a bone, particularly a covering bone such as a skull or kneecap}}.
+
+Folk etymologies include:
+* from {{m|ja|変わる|変わら|tr=kawara}}, the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|変わる|tr=kawaru||to change}}, from the idea that tiles were produced by changing the clay into pottery through {{l|en|firing}}
 
 ====Pronunciation====
-{{ja-pron|かわら|y=k}}
+{{ja-pron|yomi=k|かわら|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|かわら|hhira=かはら}}
-# [[roof tile]]s
+
+# {{l|en|roof tile}}
 
 ===Etymology 2===
-Abbreviation of transliterated [[当て字#Japanese|ateji]] {{ja-r|瓦%蘭%姆|グ%ラ%ム}}, attested in the [[w:Meiji period|Meiji period]]. 
+Abbreviation of transliterated {{ja-ateji|sort=くらむ'}} spelling {{ja-r|瓦%蘭%姆|グ%ラ%ム}}, attested in the {{w|Meiji period}}.  The term {{ja-r|グラム}} itself was borrowed from either {{bor|notext=1|ja|en|gram}} or {{bor|notext=1|ja|fr|gramme}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-Once considered a [[国字#Japanese|kokuji]], another example being {{ja-r|瓲|トン|[[ton]], [[tonne]]}}.
+Once considered a {{m|ja|国字|tr=kokuji||national character|pos=a kanji coined in Japan}}, another example being {{ja-r|瓲|トン|[[ton]], [[tonne]]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|グラム|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|グラム}}
-# {{lb|ja|dated}} {{n-g|Symbol for [[gram]], [[gramme]]}}
+
+# {{lb|ja|dated}} {{n-g|symbol for {{l|en|gram}}, {{l|en|gramme}}}}
 
 ====Derived terms====
 {{der-top|Terms derived from グラム}}
