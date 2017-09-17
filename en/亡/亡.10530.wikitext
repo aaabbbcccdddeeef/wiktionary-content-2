@@ -19,7 +19,7 @@
 ===Pronunciation 1===
 {{zh-pron
 |m=wáng
-|c=mong4,mou4
+|c=mong4
 |h=pfs=mòng
 |mn=bông
 |mc=y
@@ -49,6 +49,7 @@
 ===Pronunciation 2===
 {{zh-pron
 |m=wú
+|c=mou4
 }}         <!-- 集韻：微夫切 虞平 -->
 
 ====Definitions====
@@ -56,6 +57,10 @@
 
 # {{†}} {{zh-alt-form|無|not have}}
 # {{†}} {{zh-alt-form|毋|don't}} 
+# {{†}} [[poor]]
+
+===References===
+* {{R:DKJ}}
 
 ----
 
@@ -71,9 +76,16 @@
 
 ====Readings====
 {{ja-readings
-|goon=む, もう<まう
-|kanon=ぶ, ぼう<ばう
+|goon=もう<まう
+|kanon=ぼう<ばう
 |kun=な-い, な-き, ほろ-ぶ, ほろ-びる, ほろ-ぼす
+}}
+
+As an alternative form of {{m|ja|無|t=not}}:
+{{ja-readings
+|goon=む
+|kanon=ぶ
+|kun=な-い, な-き
 }}
 
 ====Compounds====
