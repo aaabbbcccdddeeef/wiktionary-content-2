@@ -53,45 +53,45 @@
 
 ===Etymology 1===
 {{ja-kanjitab|さつ|yomi=on}}
+
 {{IPAchar|/satu/}} → {{IPAchar|/sat͡su/}}
 
-From {{etyl|ltc|ja|sort=さつ}} {{m|ltc|札|tr=tsæt|pos=reconstructed by some linguists as {{IPAchar|/t͡ʃˠɛt̚/}}}}.
+From {{der|ja|ltc|sort=さつ|-}} {{ltc-l|札}}.
 
 ====Pronunciation====
-{{ja-pron|さつ|y=kanon}}
+{{ja-pron|yomi=kanon|さつ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|さつ}}
-# [[paper money]]; a [[bill]]; a (bank) [[note]]
+# [[paper money]], a [[bill]], a (bank) [[note]]
 
 =====Synonyms=====
 * {{ja-r|紙%幣|し%へい}}
 
 ===Etymology 2===
 {{ja-kanjitab|ふだ|yomi=kun}}
-{{IPAchar|/pumiita/}} → {{IPAchar|/ɸumita/}} → {{IPAchar|/ɸunda/}} → {{IPAchar|/ɸuda/}}
 
-Originally a compound of {{ja-r|文%板|ふみ%いた}}<ref name="DJR">{{R:Daijirin}}</ref>, {{ja-compound|文|ふみ|板|いた|t1=[[writing]]|t2=[[board]], [[plank]]|nocat=1}}.
+{{IPAchar|/pumi ita/}} → {{IPAchar|/ɸumita/}} → {{IPAchar|/ɸunda/}} → {{IPAchar|/ɸuda/}}
 
-Ultimate derivation probably from {{etyl|ine-pro|ja}} root {{m|ine-pro|*bheudh-||to [[know]], [[inform]]}} {{rfv-etymology|ja}}; cognate with {{ja-r|触れる|ふれる|to [[touch]]}}, {{ja-r|迸る|ほとばしる|to [[surge]], [[gush]] [[out]]}}, {{ja-r|解く|ほどく|to [[solve]]}}, and {{ja-r|施す|ほどくす|to [[apply]]}}.
-
-====Alternate forms====
-* {{ja-l|簡}}
+Originally a compound of {{ja-compound|文|ふみ|板|いた|t1=[[writing]]|t2=[[board]], [[plank]]}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|ふだ|y=k}}
+{{ja-pron|yomi=k|ふだ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|簡}}
 
 ====Noun====
 {{ja-noun|ふだ}}<br/>{{ja-altread|hira=ふみた}}<br/>{{ja-altread|hira=ふんだ}}
-# a [[card]]; a [[plate]]; a [[tag]]
-
-=====Compounds=====
-* {{ja-r|花%札|はな%ふだ|[[hanafuda]]}}
+# a [[card]], a [[plate]], a [[tag]]
 
 =====Derived terms=====
+{{der-top}}
+* {{ja-r|花%札|はな%ふだ|[[hanafuda]]}}
 * {{ja-r|御%札|お%ふだ}}
 * {{ja-r|切り札|きりふだ}}
 * {{ja-r|引き札|ひきふだ}}
+{{der-bottom}}
 
 ===References===
 <references/>
