@@ -43,9 +43,7 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=人13}}
-
-# ceremony
+{{ja-kanji|rs=人13}}
 
 ====Readings====
 {{ja-readings
@@ -55,18 +53,48 @@
 |nanori=きたる, ただし, のり, よし
 }}
 
-====Compounds====
-{{top3}}
-* {{ja-r|礼儀|れいぎ}}
-* {{ja-r|地球儀|ちきゅうぎ}}
-* {{ja-r|秘儀|ひぎ}}
-{{mid3}}
-* {{ja-r|儀式|ぎしき}}
-* {{ja-r|難儀|なんぎ}}
-* {{ja-r|六分儀|ろくぶんぎ}}
-{{mid3}}
+{{ja-kanjitab|ぎ|yomi=o}}
+
+===Etymology===
+{{der|ja|ltc|儀|sort=き'}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぎ|acc=1|acc_ref=DJR,NHK}}
+
+===Affix===
+{{ja-pos|affix|ぎ}}
+
+# [[ceremony]]
+# [[model]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|儀式|ぎしき|[[ceremony]]}}
+* {{ja-r|地球儀|ちきゅうぎ|[[globe]]}}
+* {{ja-r|天象儀|てんしょうぎ|[[planetarium]]}}
 * {{ja-r|八分儀|はちぶんぎ}}
-{{bottom}}
+* {{ja-r|秘儀|ひぎ}}
+* {{ja-r|難儀|なんぎ}}
+* {{ja-r|礼儀|れいぎ}}
+* {{ja-r|六分儀|ろくぶんぎ}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|ぎ}}
+
+# [[ceremony]]
+# [[thing]]
+
+===Suffix===
+{{ja-pos|suffix|ぎ}}
+
+# [[thing]], in relation to
+
+====Usage notes====
+Used after a name or personal pronoun in letters and notices.
+
+===References===
+<references/>
 
 ----
 
