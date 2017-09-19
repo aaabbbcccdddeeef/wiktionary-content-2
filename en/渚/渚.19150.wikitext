@@ -43,9 +43,7 @@
 ===Kanji===
 {{ja-kanji|grade=n|rs=水08}}
 
-# strand
-# beach
-# shore
+# {{l|en|strand}}, {{l|en|beach}}, {{l|en|shore}}
 
 ====Readings====
 {{ja-readings
@@ -55,7 +53,30 @@
 |nanori=なぎ
 }}
 
+===Etymology===
+{{ja-kanjitab|なぎさ|yomi=k}}
+
+From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Found in the ''{{w|Man'yōshú}}'', completed some time after 759 CE.<ref name="MYS">{{RQ:Manyoshu|15|3706}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3706 here]</ref>
+
+Possibly a compound of {{compound|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=calming, dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to calm down, to die down|pos=as of waves or wind}}, cognate with {{m|ja|和やか|tr=nagoyaka||calm, quiet}}|磯|tr2=sa|t2=rocky shore, pebble beach}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||rock, stone}}.
+
+The ''nagi'' element might instead derive from classical verb {{m|ja|投ぐ|tr=nagu||to beat, strike, hit; to throw, fling, cast}}; however, this classical verb evolved into modern form {{m|ja|投げる|tr=nageru}}, as the classical conjugation pattern was {{m|ja|下二段|tr=shimo nidan||lower bigrade}}, where the ''-gu'' ending only ever became ''-ge'', never ''-gi''.  That said, ancient Japanese did have verbs that were effectively {{l|en|ambitransitive}}, where transitivity was conveyed by context and by conjugation pattern.  The lower-bigrade conjugation of transitive classical verb {{m|ja|投ぐ|tr=nagu}} suggests the potential existence of an intransitive variant with the regular {{m|ja|四段活用|tr=yodan katsuyō||quadrigrade conjugation}}, where the final ''-gu'' would have become ''-gi''.
+
+====Noun====
+{{ja-noun|なぎさ|count=-}}
+
+# the water's edge:
+## {{l|en|beach}}
+## {{l|en|shore}}
+## {{l|en|bank}} {{qualifier|as of a river or stream}}
+
+====Proper noun====
+{{ja-pos|proper|なぎさ}}
+
+# {{given name|unisex|lang=ja|sort=なぎさ}}
+
 ====References====
+<references/>
 {{ja-kref
 |ku=2977
 |shift=8f8d
@@ -69,26 +90,6 @@
 |heisig=1263
 |tuttle=3a9.1
 }}
-
-===Etymology===
-{{ja-kanjitab|なぎさ|yomi=k}}
-{{unk|lang=ja}}, theories include:
-# From {{ja-compound|波|なみ|際|きわ|磯|いそ|t1=wave|t2=edge|t3=rocky beach, seashore|nocat=1}}
-# From {{ja-compound|波|なみ|前|さき|t1=wave|t2=before|nocat=1}}, or
-# From {{ja-compound|和み|なごみ|浅い|あさい|t1=tranquil|t2=shallow|nocat=1}}
-{{rfv-etymology|ja}}
-
-====Noun====
-{{ja-noun|なぎさ|count=-}}
-
-# water's edge
-# [[beach]]
-# [[shore]]
-
-====Proper noun====
-{{ja-pos|proper|なぎさ}}
-
-# {{given name|unisex|lang=ja|sort=なぎさ}}
 
 ----
 
