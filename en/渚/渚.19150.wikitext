@@ -47,13 +47,13 @@
 
 ====Readings====
 {{ja-readings
-|goon=しょ
-|kanon=しょ
-|kun=なぎさ-
-|nanori=なぎ
+|goon=しょ<しよ
+|kanon=しょ<しよ
+|kun=なぎさ-, みぎわ-<みぎは-
+|nanori=すか, なぎ, まりん
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|なぎさ|yomi=k}}
 
 From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Found in the ''{{w|Man'yōshú}}'', completed some time after 759 CE.<ref name="MYS">{{RQ:Manyoshu|15|3706}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3706 here]</ref>
@@ -61,6 +61,12 @@ From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 Possibly a compound of {{compound|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=calming, dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to calm down, to die down|pos=as of waves or wind}}, cognate with {{m|ja|和やか|tr=nagoyaka||calm, quiet}}|磯|tr2=sa|t2=rocky shore, pebble beach}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||rock, stone}}.
 
 The ''nagi'' element might instead derive from classical verb {{m|ja|投ぐ|tr=nagu||to beat, strike, hit; to throw, fling, cast}}; however, this classical verb evolved into modern form {{m|ja|投げる|tr=nageru}}, as the classical conjugation pattern was {{m|ja|下二段|tr=shimo nidan||lower bigrade}}, where the ''-gu'' ending only ever became ''-ge'', never ''-gi''.  That said, ancient Japanese did have verbs that were effectively {{l|en|ambitransitive}}, where transitivity was conveyed by context and by conjugation pattern.  The lower-bigrade conjugation of transitive classical verb {{m|ja|投ぐ|tr=nagu}} suggests the potential existence of an intransitive variant with the regular {{m|ja|四段活用|tr=yodan katsuyō||quadrigrade conjugation}}, where the final ''-gu'' would have become ''-gi''.
+
+====Alternative forms====
+* {{ja-l|汀}}
+
+====Pronunciation====
+* {{ja-pron|y=k|なぎさ|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|なぎさ|count=-}}
@@ -72,10 +78,23 @@ The ''nagi'' element might instead derive from classical verb {{m|ja|投ぐ|tr=n
 #: [[w:Shinchokusen Wakashū|Shinchokusen Wakashū]], poem no. 525 (also Hyakunin Isshu, poem no. 93)
 #: {{ja-usex|世の中はつねにもがもな'''渚'''こぐあまの小%舟の綱%手かなしも|よのなか は つね に もがも な '''なぎさ''' こぐ あま の を%ぶね の つな%で かなし も|rom= Yo no naka wa tsune ni mogamo na '''nagisa''' kogu ama no obune no tsunade kanashi mo|May the world be ever like this: a fisherman's skiff rowed along the '''shore''', pulled with a rope, is truly sad.<ref>{{cite-book|1996|Matsuo Bashō, Hiroaki Sato|Bashō's Narrow Road: Spring and Autumn Passages}}</ref>}}
 
+=====Synonyms=====
+* {{ja-r|浜%辺|はま%べ}}
+
 ====Proper noun====
 {{ja-pos|proper|なぎさ}}
 
 # {{given name|unisex|lang=ja|sort=なぎさ}}
+
+===Etymology 2===
+{{ja-kanjitab|みぎわ|yomi=kun}}
+
+====Pronunciation====
+{{ja-pron|y=k|みぎわ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|みぎわ|hhira=みぎは}}
+# {{alternative spelling of|lang=ja|水際||[[waterside]]}}
 
 ====References====
 <references/>
