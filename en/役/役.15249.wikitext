@@ -51,30 +51,37 @@
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=彳04}}
-
-# service
+# [[duty]], [[office]]
+# [[service]]
+# [[role]], [[part]]
 
 ====Readings====
 {{ja-readings
 |goon=やく
 |kanon=えき
 |kun=つとめ-, えだち-
-|nanori=
+|nanori=え, えん, えんの, おうこ, おうせ, おおせ, まもり, まもる
 }}
 
 ===Etymology===
 {{ja-kanjitab|やく|yomi=o}}
+From {{der|ja|ltc|sort=やく|-}} {{ltc-l|役|id=1}}. The [[呉音#Japanese|goon]] reading, so likely the initial borrowing.
 
-===Noun===
+====Pronunciation====
+{{ja-pron|y=go|やく|acc=2|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|やく}}
-
 # [[role]], [[service]], [[use]]
+# {{lb|ja|card games|mahjong|sort=やく}} [[hand]], [[point]]s
 
-===Suffix===
+====Suffix====
 {{ja-pos|suffix|やく}}
-
 # [[play]]ing the [[role]] [[of]]...
 #: {{ja-usex|涼%宮ハルヒ'''役'''の平%野 綾さん|^すず%みや ^ハルヒ-'''やく''' の ^ひら%の ^あや-さん|{{w|Aya Hirano}}, who voices {{w|Haruhi Suzumiya}}}}
+
+===References===
+<references/>
 
 ----
 
