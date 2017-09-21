@@ -22,14 +22,44 @@
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=口12|kyu=囑}}
-
-# {{defn|lang=ja|sort=口12}}
+# [[entrust]]
+# [[request]]
 
 ====Readings====
 {{ja-readings
-|on=しょく
+|goon=そく
+|kanon=しょく<しよく
 |kun=たの-む
 }}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|委%嘱|い%しょく|[[entrust]]ing with}}
+* {{ja-r|遺%嘱|い%しょく|[[dying]] [[wish]]}}
+* {{ja-r|受%嘱|じゅ%しょく|[[be]]ing [[entrust]]ed with}}
+* {{ja-r|嘱%託|しょく%たく|[[commission]], [[charge]], [[part-time]]}}
+* {{ja-r|嘱%望|しょく%ぼう|([[have|having]] [[great]]) [[expectation]]}}
+* {{ja-r|嘱%目|しょく%もく|[[pay attention|paying attention]] to}}
+* {{ja-r|付%嘱|ふ%しょく|[[confer]]ment}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|しょく|yomi=on}}
+From {{der|ja|ltc|sort=しょく|-}} {{ltc-l|囑}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Alternative forms====
+* {{ja-l|属}}
+
+====Pronunciation====
+{{ja-pron|y=kan|しょく}}
+
+====Verb====
+{{ja-verb-suru|tr=trans|しょく}}
+# [[entrust]]
+# [[send]] (a [[message]], etc.)
+
+=====Conjugation=====
+{{ja-suru|しょく}}
 
 ----
 
