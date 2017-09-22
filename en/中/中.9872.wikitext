@@ -125,10 +125,10 @@ Related to:
 
 ====Readings====
 {{ja-readings
-|goon=ちゅう<ちゆう
-|kanon=ちゅう<ちゆう
-|on=じゅう<ぢゆう
+|goon=ちゅう<ちゆう, じゅう<ぢゆう
+|kanon=ちゅう<ちゆう, じゅう<ぢゆう
 |kun=なか-<なか-, うち-<うち-, あ-たる<あ-たる
+|nanori=あたり, あつ, あつる, かなえ, かなめ, ただし, とうる,とおる, ひとし, みつる, わたる
 }}
 
 ====Compounds====
@@ -236,6 +236,7 @@ Uncommon
 
 ===Etymology 1===
 {{ja-kanjitab|なか|yomi=k}}
+{{rfe|ja}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|なか|acc=1|acc_ref=DJR,NHK}}
@@ -258,14 +259,14 @@ Uncommon
 * [[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/中央]]
 
 ===Etymology 2===
-{{ja-kanjitab|なか|yomi=o}}
+{{ja-kanjitab|ちゅう|yomi=o}}
+From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|ちゅう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ちゅう}}
-
 # [[middle]], [[medium]]
 #: 大'''中'''小
 #:: large, '''medium''' and small
@@ -275,52 +276,76 @@ Uncommon
 # [[during]]; being in the process of doing
 # [[second]] [[volume]] of a [[three]] volume [[set]]
 
-===Etymology 3===
-{{ja-kanjitab|うち|yomi=k}}
-
-====Pronunciation====
-{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
-
-====Noun====
-{{ja-noun|うち}}
-
-: ''{{l|ja|内}} ({{l|ja|うち}}, uchi)''
-: ''{{l|ja|裡}} ({{l|ja|うち}}, uchi)''
-
-: 内 is the most common [[kanji]] for this [[pronunciation]].
-# [[inside]]
-
-===Proper noun===
+====Proper noun====
 {{ja-pos|ちゅう|proper}}
-
 # short form for [[China]] or [[Chinese]], [[Sino-]] (prefix)
 #: {{ja-usex|日%中 関%係|^にっ%ちゅう かん%けい|Sino-Japanese relations}}
 
-{{ja-pos|あたり|proper}}
-
-# {{surname|lang=ja|sort=あたり}}
-
-{{ja-pos|あたる|proper}}
-
-# {{given name|female|lang=ja|sort=あたる}}
-
-===Suffix===
-{{ja-pos|じゅう|suffix}}
-
-# [[during]], in the course of, [[throughout]]
-#: {{ja-usex|世界'''中'''|せかい'''じゅう'''|'''throughout''' the world}}
-#: {{ja-usex|体'''中'''|からだ'''じゅう'''|'''throughout''' the body}}
-# [[all over]], everywhere
-
-{{ja-pos|ちゅう|suffix}}
-
+====Suffix====
+{{ja-pos|suffix|ちゅう|}}
 # being in the process of doing
 #: {{ja-usex|ダウンロード'''中'''|ダウンロード-'''ちゅう'''|download'''ing'''; download '''in progress'''}}
 #: {{ja-usex|メンテ'''中'''|メンテ-'''ちゅう'''|'''currently in''' maintenance}}
 #: {{ja-usex|インストール'''中'''|インストール-'''ちゅう'''|install'''ing'''}}
 #: {{ja-usex|準備'''中'''|じゅんび'''ちゅう'''|'''currently in''' preparation}}
 
+===Etymology 3===
+{{ja-kanjitab|じゅう|yomi=on}}
+{{rfe|ja|from a later Chinese reading, sound shift, or rendaku?}}
+
+====Pronunciation====
+{{ja-pron|y=o|じゅう}}
+
+====Suffix====
+{{ja-pos|suffix|じゅう|hhira=ぢゅう}}
+# [[during]], in the course of, [[throughout]]
+#: {{ja-usex|世界'''中'''|せかい'''じゅう'''|'''throughout''' the world}}
+#: {{ja-usex|体'''中'''|からだ'''じゅう'''|'''throughout''' the body}}
+# [[all over]], everywhere
+
+====Usage notes====
 The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}} can be somewhat confusing: {{m|ja|じゅう|tr=jū}} means ''throughout,'' in ''all'' places, as in {{m|ja|一日中||all day long|tr=ichinichijū}} or {{m|ja|体中||throughout the body|tr=karadajū}}, while {{m|ja|ちゅう|tr=chū}} means ''within,'' but not ''everywhere,'' as in {{m|ja|授業中||in class, during class|tr=jugyōchū}}. Contrast “I worked on this ''all day long''” with “I worked on this ''in class'' (but not necessarily for the entire time)”.
+
+===Etymology 4===
+{{ja-kanjitab|うち|yomi=k}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|内}}, {{ja-l|裡}}
+
+====Noun====
+{{ja-noun|うち}}
+# [[inside]]
+
+====Usage notes====
+{{ja-l|内}} is the most common [[kanji]] for this [[pronunciation]].
+
+===Etymology 5===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|あたり|proper}}
+# {{surname|lang=ja|sort=あたり}}
+
+{{ja-pos|あたる|proper}}
+# {{given name|female|lang=ja|sort=あたる}}
+
+===Etymology 6===
+{{ja-kanjitab|ちゅん|yomi=irr|sort=ちゆん}}
+{{rfe|ja|Borrowing from a Chinese dialect?}}
+
+====Pronunciation====
+{{ja-pron|y=irr|チュン}}
+
+====Noun====
+{{ja-noun|チュン}}
+# {{lb|ja|mahjong|sort=ちゆん}} [[red dragon]] (tile)
+
+====See also====
+* {{ja-r|三%元%牌|さん%げん%パイ|[[dragon]] [[tile]]s}}: {{ja-r|白|ハク|[[white dragon]]}}, {{ja-r|發|ハツ|[[green dragon]]}}, {{ja-r|中|チュン|red dragon}}
 
 ===References===
 <references/>
