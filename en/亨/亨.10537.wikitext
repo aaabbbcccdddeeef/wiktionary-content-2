@@ -25,7 +25,7 @@
 |mn=heng
 |mc=1
 |oc=1,3
-|cat=
+|cat=n
 }}
 
 ====Definitions====
@@ -40,6 +40,7 @@
 {{zh-pron
 |m=pēng
 |c=paang1
+|dial=n
 |mc=2
 |oc=2,2
 |cat=
@@ -53,6 +54,7 @@
 ===Pronunciation 3===
 {{zh-pron
 |m=xiǎng
+|dial=n
 |mc=3
 |oc=3,1
 |cat=
@@ -77,12 +79,32 @@
 # go smoothly
 
 ====Readings====
-* {{ja-readings|on=[[きょう]] (kyō), [[こう]] (kō), [[ほう]] (hō)|kun=[[たてまつる]] (tatematsuru), [[とおる]] (tooru)}}
+{{ja-readings
+|goon=きょう<きやう
+|kanon=こう<かう
+|kun=とお-る<とほ-る
+}}
+
+As an alternative form of {{m|ja|享}}:
+{{ja-readings
+|goon=こう<かう
+|kanon=きょう<きやう
+|kun=たてまつ-る
+}}
+
+As an alternative form of {{m|ja|烹}}:
+{{ja-readings
+|goon=ひょう<ひやう
+|kanon=ほう<はう
+}}
 
 ===Proper noun===
 {{ja-pos|proper|とおる}}
 
 # {{given name|male|lang=ja}}
+
+===References===
+* {{R:DKW}}
 
 [[Category:Japanese male given names|とおる]]
 
