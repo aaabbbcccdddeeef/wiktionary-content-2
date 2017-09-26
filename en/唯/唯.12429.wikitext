@@ -17,41 +17,49 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|口|隹|c1=s|c2=p|t1=mouth|ls=psc}}.
+{{Han compound|口|隹|c1=s|c2=p|t1=mouth|ls=psc|no_och2=y}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=wéi
 |c=wai4,wai2
 |h=pfs=vì
 |mn=ûi/tw,xm,zz:bî
 |mn_note=ûi - literary; bî - vernacular
-|mc=y
-|oc=y
-|cat=a,adv
+|mc=1
+|oc=1,1
+|cat=a,adv,conj,part
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[only]]; [[alone]]
-
-===Pronounciation 2===
-{{zh-pron|
-|m=wěi
-|c=wai5
-|mc=y
-|cat=particle
-}}
-
-===Definitions 2===
-{{zh-hanzi}}
-
-# {{†}} [[yeah]]
+# [[because]]
+# [[although]]
+# to [[be]]
+# {{n-g|Particle for expressing one's [[wish]].}}
+# {{n-g|Meaningless [[sentence]]-[[initial]] particle.}}
 
 ====Compounds====
-{{zh-der|任人唯親|任人唯賢|匪唯|唯一|唯利是圖|唯利是從|唯利是求|唯利是視|唯名論|唯吾獨尊|唯命是從|唯命是聽|唯唯|唯唯否否|唯唯諾諾|唯妙唯肖|唯實論|唯心論|唯恐|唯恐不及|唯我|唯我獨尊|唯我論|唯是命題|唯有|唯物史觀|唯物論|唯獨|唯美|唯美主義|唯諾|唯識|唯識宗|唯識論|唯讀|奉命唯謹|成唯識論|萬法唯識}}
+{{zh-der|fold=1|唯吾獨尊|唯識論|奉命唯謹|唯妙唯肖|唯物論|唯利是求|唯我|唯實論|匪唯|唯我獨尊|唯利是圖|任人唯親|唯識宗|唯名論|唯獨|唯恐|唯識|唯命是聽|唯美主義|唯心論|唯是命題|任人唯賢|唯一|唯讀|唯美|唯物史觀|唯有|唯恐不及|唯命是從|唯利是視|唯利是從|唯我論|萬法唯識|成唯識論}}
+
+===Pronounciation 2===
+{{zh-pron
+|m=wěi
+|c=wai5
+|mc=2
+|oc=n,2
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{n-g|A [[polite]] [[particle]] used to [[respond]] to [[elder]]s:}} [[yes]]
+
+====Compounds====
+{{zh-der|fold=1|唯唯諾諾|唯諾|唯唯否否|唯唯}}
 
 ===References===
 * {{R:yue:Hanzi}}
