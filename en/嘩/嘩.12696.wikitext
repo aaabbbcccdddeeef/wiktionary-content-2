@@ -11,16 +11,18 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=哗}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|華|ls=psc|c1=s|c2=p|t1=mouth}}.
 
 ===Pronunciation 1===
+{{zh-forms|t2=譁|s=哗}}
 {{zh-pron
 |m=huá
-|c=jip6,waa4
-|mn=ml:hoa/tw:hōa
+|c=waa1,jip6
+|c_note=jip6 - rare
+|mn=hoa/ml:hôa
 |oc=y
 |cat=v
 }}
@@ -34,9 +36,13 @@
 {{zh-der|喧嘩|嘩然}}
 
 ===Pronunciation 2===
+{{zh-forms|s=哗}}
 {{zh-pron
 |m=huā
-|c=waa1,faa1
+|c=waa1,waa4,faa1,jip6
+|c_note=faa1, jip6 - rare
+|mn=xm:khôa/xm:hôa/qz:hoa
+|mn_note=Xiamen: khôa - vernacular; hôa - literary
 |cat=n
 }}
 
@@ -48,6 +54,36 @@
 
 ====Compounds====
 {{zh-der|嘩啦|嘩啦啦|嘩喇喇|白嘩嘩|稀里嘩啦}}
+
+===Pronunciation 3===
+{{zh-forms|s=哗}}
+{{zh-pron
+|mn=xm,zz,tw:hōa/qz:hǒa/twv:hoa
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} to [[joke around]]; to [[laugh]] and [[play]]
+# {{lb|zh|Min Nan}} to make [[noise]]; to [[bustle]]
+
+====Compounds====
+{{zh-der|嘻嘻嘩嘩|嘩酒|嘩嘩滾|嘩嘩叫|嘩嘩嚷|講嘩|摽嘩|摽滾嘩|喊嘩|嘩嘩吼|嘩滾|反嘩|滾嘩}}
+
+===Pronunciation 4===
+{{zh-forms|s=哗}}
+{{zh-pron
+|c=waa4,waa3
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[wow]]!; [[whoa]]! {{gloss|used to express surprise or admiration}}
+#: {{zh-x|嘩{waa4}，咁 多 人 嘅{ge2}？|'''Whoa''', there's so many people.|C}}
+#: {{zh-x|嘩{waa4}，好 靚 啊{aa3}！|''Whoa'', it's so pretty!|C}}
 
 ----
 
