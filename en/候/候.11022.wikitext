@@ -74,13 +74,98 @@
 {{ja-readings
 |goon=ぐ
 |kanon=こう
-|kun=そうろう-<さうらふ-, うかが-う, さぶら-う
+|kun=そうろ.う-<さうらふ-, うかが-う, さぶら-う
 }}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|うかみ|yomi=k}}
+Attested in the ''{{w|Nihon Shoki}}''.<ref name=DJR>{{R:Daijirin}}</ref> 
+
+====Noun====
+{{ja-noun|うかみ}}
+# {{lb|ja|obsolete|sort=うかみ}} {{alternative spelling of|lang=ja|窺見||[[lookout]], [[scout]]}}
+
+===Etymology 2===
+{{ja-kanjitab|こう|yomi=o}}
+
+From {{der|ja|ltc|sort=こう|-}} {{ltc-l|候}}. The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|y=kan|こう|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|こう}}
 
 # {{lb|ja|literary|sort=こう}} the [[season]], the [[weather]] of the current season
+
+===Etymology 3===
+{{ja-kanjitab|そい|yomi=k}}
+{{ja-kanjitab|そえ|yomi=k}}
+The {{m|ja|命令形|tr=meireikei||imperative forms}} of the verb {{ja-r|そう}}, itself from {{ja-l||さうへ}}, modern {{ja-l|そうえ}}.<ref name=DJR>{{R:Daijirin}}</ref> See etymology 4.
+
+====Pronunciation====
+{{ja-pron|y=k|そい|そえ}}
+
+====Suffix====
+{{ja-pos|suffix|そい|hhira=そひ}}<br/>{{ja-pos|suffix|そえ|hhira=そへ}}
+# {{lb|ja|archaic|informal|sort=そい}} representation of imperative {{m|ja|[[お]]…[[なさい]]|tr=o- ... nasai}}, equivalent to English "''Please...''"
+
+===Etymology 4===
+{{ja-kanjitab|そう|yomi=k}}
+{{IPAchar|/sau/}} → {{IPAchar|/sou/}}
+
+Late-medieval transition from ''sōrou'', see {{ja-l|候う}}.<ref name=DJR>{{R:Daijirin}}</ref> 
+
+====Pronunciation====
+{{ja-pron|y=k|そ.う}}
+
+====Verb====
+{{ja-verb|そ.う|hhira=さう}}
+# {{lb|ja|archaic|sort=そう}} to be; [[auxiliary]] used in place of {{m|ja|ある|-ある}} after {{ja-l|で}} or {{ja-l|に}} when forming a [[copula]]
+# {{lb|ja|archaic|sort=そう}} to do; auxiliary used in place of {{m|ja|ます|-ます}} after a {{m|ja||-ます}} stem
+
+===Etymology 5===
+{{ja-kanjitab|ぞう|yomi=k}}
+{{IPAchar|/zau/}} → {{IPAchar|/d͡zou/}}
+
+From archaic {{m|ja|[[に]][[候]]|tr=...ni zau}}, historical ''sau'' changed to ''zau'' due to {{ja-rendaku|sort=そう}}.<ref name=DJR>{{R:Daijirin}}</ref> 
+
+====Pronunciation====
+{{ja-pron|y=k|ぞ.う}}
+
+====Verb====
+{{ja-verb|ぞう|hhira=ざう}}
+# {{lb|ja|archaic|informal|sort=そう}} {{synonym of|lang=ja|です||to be}}
+# {{lb|ja|archaic|formal|sort=そう}} {{synonym of|lang=ja|[[で]][[ございます]]||to be}}
+
+===Etymology 6===
+{{ja-kanjitab|ぞうろ|yomi=k}}
+{{IPAchar|/zauro/}} → {{IPAchar|/d͡zoːro/}}
+
+Stem of rendaku form {{m|ja|候う|tr=zōrou}}, used in compounds. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|ぞうろ}}
+
+====Noun====
+{{ja-noun|ぞうろ|hhira=ざうろ}}
+# [[service]]
+# [[doing]]
+
+===Etymology 7===
+{{ja-kanjitab|そろ|yomi=k}}
+Transition from {{m|ja|候う|tr=sōrou}}, see etymology 4.
+
+====Pronunciation====
+{{ja-pron|y=k|そろ}}
+
+====Verb====
+{{ja-verb|そろ}}
+# {{lb|ja|archaic|sort=そろ}} to be; auxiliary used in place of {{m|ja|ある|-ある}} after {{ja-l|で}} or {{ja-l|に}} when forming a [[copula]]
+# {{lb|ja|archaic|sort=そろ}} to do; auxiliary used in place of {{m|ja|ます|-ます}} after a {{m|ja||-ます}} stem
+
+===References===
+<references/>
 
 ----
 
