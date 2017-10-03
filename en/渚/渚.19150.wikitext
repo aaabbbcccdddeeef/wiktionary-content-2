@@ -60,16 +60,14 @@ From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 
 Possibly a compound of {{compound|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=calming, dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to calm down, to die down|pos=as of waves or wind}}, cognate with {{m|ja|和やか|tr=nagoyaka||calm, quiet}}|磯|tr2=sa|t2=rocky shore, pebble beach}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||rock, stone}}.
 
-The ''nagi'' element might instead derive from classical verb {{m|ja|投ぐ|tr=nagu||to beat, strike, hit; to throw, fling, cast}}; however, this classical verb evolved into modern form {{m|ja|投げる|tr=nageru}}, as the classical conjugation pattern was {{m|ja|下二段|tr=shimo nidan||lower bigrade}}, where the ''-gu'' ending only ever became ''-ge'', never ''-gi''.  That said, ancient Japanese did have verbs that were effectively {{l|en|ambitransitive}}, where transitivity was conveyed by context and by conjugation pattern.  The lower-bigrade conjugation of transitive classical verb {{m|ja|投ぐ|tr=nagu}} suggests the potential existence of an intransitive variant with the regular {{m|ja|四段活用|tr=yodan katsuyō||quadrigrade conjugation}}, where the final ''-gu'' would have become ''-gi''.
+====Pronunciation====
+* {{ja-pron|y=k|なぎさ|acc=0|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{ja-l|汀}}
 
-====Pronunciation====
-* {{ja-pron|y=k|なぎさ|acc=0|acc_ref=DJR}}
-
 ====Noun====
-{{ja-noun|なぎさ|count=-}}
+{{ja-noun|なぎさ}}
 
 # the water's edge:
 ## {{l|en|beach}}
@@ -86,18 +84,26 @@ The ''nagi'' element might instead derive from classical verb {{m|ja|投ぐ|tr=n
 
 # {{given name|unisex|lang=ja|sort=なぎさ}}
 # {{surname|lang=ja|sort=なぎさ}}
-# A [[place]] name
+# a {{l|en|place name}}
 
 ===Etymology 2===
 {{ja-kanjitab|みぎわ|yomi=kun}}
 
+Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=water|pos1=combining form|際|tr2=kiwa|t2=edge, boundary}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  {{rendaku2|sort=みぎわ|kiwa|giwa}}
+
 ====Pronunciation====
 {{ja-pron|y=k|みぎわ|acc=0|acc_ref=DJR}}
 
+====Alternative forms====
+* {{ja-l|汀}}, {{ja-l|水際}}
+
 ====Noun====
 {{ja-noun|みぎわ|hhira=みぎは}}
-# {{alternative form of|lang=ja|汀||[[water's edge]]}}
-# {{alternative spelling of|lang=ja|水際||[[water's edge]]}}
+
+# {{alternative form of|lang=ja|汀}}, {{m|ja|水際}}: the water's edge:
+## {{l|en|beach}}
+## {{l|en|shore}}
+## {{l|en|bank}} {{qualifier|as of a river or stream}}
 
 ====References====
 <references/>
