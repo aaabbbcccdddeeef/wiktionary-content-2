@@ -168,7 +168,7 @@ Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.
 
 {{IPAchar|/aduma/}} → {{IPAchar|/ad͡zuma/}} → {{IPAchar|/azuma/}}
 
-From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|天|tr=ama||{{l|en|sky}}, {{l|en|heavens}}}} + {{m|ja|端|tr=tsuma||{{l|en|edge}}, {{l|en|beginning}}}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
+From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|天|tr=ama||{{l|en|sky}}, {{l|en|heavens}}}} + {{m|ja|端|tr=tsuma||{{l|en|edge}}, {{l|en|beginning}}}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}
@@ -176,9 +176,10 @@ From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
 
-# {{lb|ja|archaic|sort=あすま}} {{l|en|east}}
-# {{lb|ja|archaic|by extension|sort=あすま}} eastern Japan
+# {{lb|ja|archaic|sort=あずま}} {{l|en|east}}
+# {{lb|ja|archaic|by extension|sort=あずま}} eastern Japan
 # {{abbreviation of|lang=ja|東琴||six-stringed Japanese {{l|en|zither}}}}
+# {{lb|ja|archaic|possibly|_|obsolete}} the {{l|en|Edo}} area {{qualifier|specifically used in the Kansai region, especially around Kyōto and Ōsaka}}
 
 ====Proper noun====
 {{ja-pos|あずま|proper|hhira=あづま}}
@@ -191,9 +192,6 @@ From {{etyl|ojp|ja|sort=あずま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 # {{given name|lang=ja|sort=あづま|female}}
 # {{surname|lang=ja|sort=あづま}}
-
-=====Homophones=====
-* {{ja-r|吾%妻|あ%づま|rom=-}}, {{ja-r|吾%嬬|あ%づま|[[my]] [[spouse]]}}
 
 ===Etymology 6===
 {{ja-kanjitab|とん|yomi=irr|sort=とん}}
@@ -260,7 +258,7 @@ Other various nanori readings.
 
 {{ja-pos|proper|のぼる}}
 
-# {{given name|lang=ja|sort=のほる|male}}
+# {{given name|lang=ja|sort=のぼる|male}}
 
 {{ja-pos|proper|はじめ}}
 
