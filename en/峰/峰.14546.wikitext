@@ -55,19 +55,74 @@
 |kanon=ほう
 |kanyoon=ぶ
 |kun=みね-
+|nanori=たかし, たかね
 }}
 
-{{ja-kanjitab|みね|yomi=k}}
+===Etymology 1===
+{{ja-kanjitab|お|yomi=k}}
+{{IPAchar|/wo/}} → {{IPAchar|/o/}}
 
-===Noun===
+From {{der|ja|ojp|sort=お|-}}. Attested in the ''{{w|Man'yōshū}}''.
+
+====Alternative forms====
+* {{ja-l|丘}}
+
+====Pronunciation====
+{{ja-pron|y=k|お}}
+
+====Noun====
+{{ja-noun|お|hhira=を}}
+
+# {{lb|ja|obsolete|sort=お}} a small place in the mountain
+# {{lb|ja|obsolete|sort=お}} [[hill]]
+# {{lb|ja|obsolete|sort=お}} [[peak]], [[ridge]]
+
+=====Derived terms=====
+* {{ja-r|丘|おか|rom=-}}, {{ja-r|岡|おか|[[hill]]}}
+
+===Etymology 2===
+{{ja-kanjitab|ね|yomi=k}}
+From {{der|ja|ojp|sort=ね|-}}. Used in compounds.
+
+====Alternative forms====
+* {{ja-l|嶺}}
+
+====Pronunciation====
+{{ja-pron|y=k|ね|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ね}}
+
+# [[summit]] of a [[mountain]], [[peak]]
+
+===Etymology 3===
+{{ja-kanjitab|みね|yomi=k}}
+From {{ja-compound|御|み|峰|ね|pos1=honorific prefix|t2=[[peak]]}}<ref name=DJR>{{R:Daijirin}}</ref>, in reference to the {{m|ja|神|tr=kami||[[god]] or [[spirit]]}} at the top of a mountain. Now the standard spelling for ''peak''.
+
+Compare {{m|ja|道|tr=michi||[[road]]}}.
+
+====Alternative forms====
+* {{ja-l|嶺}}
+
+====Pronunciation====
+{{ja-pron|y=k|みね|acc=2|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|みね}}
 
 # [[peak]], [[ridge]]
+# {{lb|ja|by extension}} [[top]] or [[summit]] of something
+# [[back]] of a [[blade]]
 
 ===Proper noun===
 {{ja-pos|proper|みね}}
 
+# ''A place name''
+# {{given name|female|lang=ja}}
 # {{surname|lang=ja|sort=みね}}
+
+===References===
+<references/>
 
 ----
 
