@@ -93,7 +93,7 @@ From {{inh|zh|sit-pro|*(g/k)wa-n||to put on; to wear; to clothe}}. Cognate with 
 |goon=かん<くわん
 |kanon=かん<くわん
 |kun=かんむり-
-|nanori=
+|nanori=かもり, まさる
 }}
 
 ====Compounds====
@@ -105,42 +105,104 @@ From {{inh|zh|sit-pro|*(g/k)wa-n||to put on; to wear; to clothe}}. Cognate with 
 ====Derived terms====
 * {{ja-r|瓜%田に履を納れず、李%下に冠を正さず|か%でん に くつ を いれず、り%か に かんむり を たださず}}
 
-===Etymology===
-{{wikipedia|lang=ja}}
-{{ja-kanjitab|yomi=o|かん}}
-{{ja-kanjitab|yomi=irr|sort=かぶり|かぶり}}
-{{ja-kanjitab|yomi=irr|sort=かむり|かむり}}
-{{ja-kanjitab|yomi=irr|sort=こうぶり|こうぶり}}
-{{ja-kanjitab|yomi=k|かんむり}} {{attention|ja|align ja-kanjitabs from horizontal to vertical arrangement}}
-{{IPAchar|/kaɡapuri/}} → {{IPAchar|/kauburi/}} → {{IPAchar|/kaumuri/}} → {{IPAchar|/kammuri/}}
+===Etymology 1 ===
+{{ja-kanjitab|yomi=k|かがふり}}
+{{IPAchar|/kaɡapuri/}} → {{IPAchar|/kaɡafuri/}}
 
-From {{inh|ja|ojp|sort=かんむり|-}} {{ja-r|かがふり|rom=kagapuri}}, which evolved to {{ja-r|かうぶり}} in Middle Japanese. Further evolution gives ''kaburi'' and ''kaumuri'', the latter evolved to modern ''kanmuri''. ''Kamuri'' comes from another evolution of ''kaburi'', while ''kōburi'' is the [[w:Modern kana usage|modern kana usage]] form of Middle Japanese ''kauburi''.
-
-The on-reading comes from {{etyl|ltc|ja|sort=かん}} {{m|ltc|冠|tr=kuan}}.
-
-====Alternative forms====
-* {{ja-r|被り|かぶり}}
+From {{inh|ja|ojp|sort=かんむり|-}}.
 
 ====Pronunciation====
-{{ja-pron|acc2=3|y=k|かんむり|acc=h}}
-{{ja-pron|y=k|こうぶり}}
-{{ja-pron|acc=h|y=i|かむり}}
-{{ja-pron|acc=3|y=i|かぶり}}
-{{ja-pron|acc=a|y=o|かん}}
+{{ja-pron|y=k|かがふり}}
 
-===Noun===
-{{ja-noun|かんむり}}<br/>{{ja-noun|こうぶり|hhira=かうぶり}}<br/>{{ja-noun|かむり}}<br/>{{ja-noun|かぶり}}<br/>{{ja-noun|かん|hhira=くわん}}
+====Noun====
+{{ja-noun|かがふり}}
+# something to [[cover]] the [[head]]; [[headpiece]],  [[crown]]
+
+===Etymology 2===
+{{ja-kanjitab|かぶり|yomi=k}}
+Likely a shift from ''kagafuri'' above, ancient ''kagapuri''. {{rfv-etymology|ja}}
+
+====Noun====
+{{ja-noun|かぶり|acc=3|acc_ref=DJR}}
+# {{alternative spelling of|lang=ja|被り}}
+
+===Etymology 3===
+{{ja-kanjitab|かむり|yomi=k}}
+A shift from ''kaburi'' above. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|かむり}}
+
+====Noun====
+{{ja-noun|かむり}}
+# [[crown]]
+# [[roof]] of a [[tunnel]]
+# {{lb|ja|poetry}} first (traditionally, five) [[mora]]e of a [[haiku]], etc.; or the first line of it
+
+===Etymology 4===
+{{ja-kanjitab|こうぶり|yomi=k}}
+A shift from ''kagafuri'' above, ancient ''kagapuri''.<ref name=DJR>{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=k|こうぶり}}
+
+====Noun====
+{{ja-noun|こうぶり|hhira=かうぶり}}
+# [[headpiece]], [[crown]]
+# [[rank]]
+# {{synonym of|lang=ja|年爵|}}
+
+===Etymology 5===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=k|かんむり}}
+The modern spelling. A shift from ''kōburi'' above, historical ''kauburi''.<ref name=DJR>{{R:Daijirin}}</ref> Also encountered is ''kanburi''.
+
+====Pronunciation====
+{{ja-pron|y=k|acc=0|acc2=3|かんむり|acc_ref=DJR|acc2_ref=DJR}}}
+{{ja-pron|y=k|かんぶり}}
+
+====Noun====
+{{ja-noun|かんむり|かんぶり}}
 # a [[crown]] {{gloss|royal headdress}}
 # a [[type]] of [[traditional]] [[cap]]
 # the [[top]] [[radical]] of a [[kanji]], such as {{lang|ja|冖}} as in {{lang|ja|冠}} itself
 
 {{topics|ja|Headwear|Orthography|sort=かんむり}}
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|かんむり}}
+# {{given name|female|lang=ja|sort=かんむり}}
 # {{surname|lang=ja|sort=かんむり}}
 
 {{C|ja|Chinese character components}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|さか}}
+Clipping of {{ja-r|鶏%'''冠'''|と%'''さか'''}}. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|さか}}
+
+====Noun====
+{{ja-noun|さか}}
+# [[comb]] of a [[chicken]] or [[pheasant]]
+
+===Etymology 7===
+{{ja-kanjitab|yomi=o|かん}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|冠}}.
+
+====Pronunciation====
+{{ja-pron|y=o|かん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かん|hhira=くわん}}
+# [[headpiece]], [[crown]]
+
+=====Derived terms=====
+* {{ja-r|冠たる|かんたる|[[best]], [[unrivalled]]}}
+
+===References===
+<references/>
 
 ----
 
