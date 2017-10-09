@@ -72,6 +72,9 @@ When written as a bottom radical, it is similar to [[灬]] but is distinguished 
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=心00}}
+# [[heart]]
+# [[spirit]]
+# [[spirit]]
 
 ====Readings====
 {{ja-readings
@@ -197,7 +200,9 @@ When written as a bottom radical, it is similar to [[灬]] but is distinguished 
 
 ===Etymology 1===
 {{ja-kanjitab|こころ|yomi=k}}
-/ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>/: *[kəkərə] > [kokoro]. Cognate with {{cog|ryu|くくる|tr=kukuru}}.
+{{IPAchar|/ko₂ko₂ro₂/|}} → {{IPAchar|/kokoro/}}: *[kəkərə] →> [kokoro]
+
+From {{der|ja|ojp|sort=こころ|-}}. Cognate with {{cog|ryu|くくる|tr=kukuru}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|こころ|acc=3|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK|a=ja-kokoro.ogg}}
@@ -222,8 +227,8 @@ When written as a bottom radical, it is similar to [[灬]] but is distinguished 
 |isbn=978-4-06-363790-8}}
 # [[attention]], [[mind]], [[interest]]
 # [[heart]], [[feelings]], [[emotion]], emotional state
-#* {{RQ:Man'yōshū|14|3466}}
-#*: {{l|ja|麻可奈思美}} {{l|ja|奴礼婆許登尓豆}} {{l|ja|佐祢奈敝波}} '''{{l|ja|己許呂}}'''{{l|ja|乃緒呂尓}} {{l|ja|能里弖可奈思母}}
+#* {{RQ:Man'yōshū|14|3466}}<ref>,{{R:Man'yōshū 3}}</ref> text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3466 here]
+#*: {{ja-usex|m=麻可奈思美 奴礼婆許登尓豆 佐祢奈敝波 '''己許呂'''乃緒呂尓 能里弖可奈思母|m_kana=まかなしみ ぬればことにづ さねなへば '''こころ'''のをろに のりてかなしも|ま愛しみ寝れば言に出さ寝なへば'''心'''の[[緒ろ]]に乗りて愛しも|まかなしみ ぬればことにづ さねなへば '''こころ'''のをろに のりてかなしも|rom=makanashimi nureba koto ni zu sanenaeba '''kokoro''' no oro ni norite kanashi mo}}
 # [[wholeheartedness]], [[sincerity]], true heart
 # [[sympathy]], [[heart]], [[consideration]], generous disposition
 # [[meaning]], [[essence]]; [[answer]] (as to a riddle)
@@ -238,10 +243,13 @@ Cognate with {{m|ja|裏|tr=ura||inside}}.
 ====Noun====
 {{ja-noun|うら}}
 
-# inner feelings; heart
+# [[inner]] [[feeling]]s; [[heart]]
 
 ===Etymology 3===
 {{ja-kanjitab|しん|yomi=o}}
+{{IPAchar|/sim/|}} → {{IPAchar|/sin/}} → {{IPAchar|/ɕin/}}
+
+From {{der|ja|ltc|sort=しん|-}} {{ltc-l|心}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|しん|acc=1|acc_ref=DJR,NHK}}
@@ -253,11 +261,10 @@ Cognate with {{m|ja|裏|tr=ura||inside}}.
 # [[core]] (as of a fruit); [[wick]]; [[lead]] (as of a pencil); [[padding]]
 
 =====Compounds=====
-* {{ja-r|汎心論|はんしんろん|gloss=panpsychism}}
+* {{ja-r|汎%心%論|はん%しん%ろん|[[panpsychism]]}}
 
 ===References===
 <references/>
-:* {{R:Man'yōshū 3}}
 
 [[Category:Japanese basic words|こころ]]
 
