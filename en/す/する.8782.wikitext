@@ -6,11 +6,11 @@ From {{etyl|ojp|ja}} root verb {{m|ja|す|tr=su||to do}}.<ref name="KDJ">{{R:Kok
 
 As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|Kamakura]] and [[w:Muromachi period|Muromachi]] periods, the {{m|ja|終止形|tr=shūshikei||terminal or sentence-ending form}} was gradually lost as the {{m|ja|連体形|tr=rentaikei||attributive form}} came to be used for both the attributive and terminal grammatical roles, realigning the conjugations.
 
-====Pronunciation====
-{{ja-pron|する|acc=h|y=kun|acc_ref=NHK}}
-
 ====Alternative forms====
 * {{qualifier|rare}} {{ja-l|為る}}
+
+====Pronunciation====
+{{ja-pron|する|acc=h|y=kun|acc_ref=NHK}}
 
 ====Verb====
 {{ja-verb|type=3|tr=trans}}
@@ -31,14 +31,6 @@ The verb {{lang|ja|する}} (“to do”) is seldom written in kanji ({{ja-l|為
 It is common to use {{lang|ja|する}} after certain nouns to indicate that the noun is being done; this is ''highly'' [[productive]], meaning many nouns can be used as verbs in this way. Some examples are:
 * {{m|ja|勉強|tr=benkyō||studying}} → {{lang|ja|勉強'''する'''}} (''benkyō '''suru''''', “to do studying” → “to study”)
 * {{m|ja|旅行|tr=ryokō||journey}} → {{lang|ja|旅行'''する'''}} (''ryokō '''suru''''', “to do journey” → “to travel”)
-
-=====Synonyms=====
-* {{sense|to do}} {{ja-r|成す|なす|rom=-}}, {{ja-r|為す|なす}} {{qualifier|somewhat archaic, usage is more limited}}
-* {{sense|to do}} {{ja-r|行う|おこなう|to carry out}}
-* {{sense|used to make a verb}} {{ja-r|linkto=る|〜る|rom=-ru}}, a much less productive suffix for turning a noun into a verb
-
-=====See also=====
-* {{ja-r|す}}
 
 =====Conjugation=====
 {{ja-verbconj-auto|lemma=|kana=
@@ -63,6 +55,14 @@ It is common to use {{lang|ja|する}} after certain nouns to indicate that the 
 ¹ Written imperative
 ² Spoken imperative</small>
 }}
+
+=====Synonyms=====
+* {{sense|to do}} {{ja-r|成す|なす|rom=-}}, {{ja-r|為す|なす}} {{qualifier|somewhat archaic, usage is more limited}}
+* {{sense|to do}} {{ja-r|行う|おこなう|to carry out}}
+* {{sense|used to make a verb}} {{ja-r|linkto=る|〜る|rom=-ru}}, a much less productive suffix for turning a noun into a verb
+
+=====See also=====
+* {{ja-r|す}}
 
 ===Etymology 2===
 Reading for various kanji spellings.
