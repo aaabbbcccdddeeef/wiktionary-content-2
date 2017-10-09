@@ -87,6 +87,8 @@ From {{inh|zh|sit-pro|*(g/k)wa-n||to put on; to wear; to clothe}}. Cognate with 
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=冖07}}
+# [[crown]]
+# [[best]], [[peerless]]
 
 ====Readings====
 {{ja-readings
@@ -98,9 +100,6 @@ From {{inh|zh|sit-pro|*(g/k)wa-n||to put on; to wear; to clothe}}. Cognate with 
 
 ====Compounds====
 * {{ja-r|冠%詞|かん%し|[[article]]}}
-* {{ja-r|王%冠|おう%かん|[[crown]]}}
-* {{ja-r|月%桂%冠|げっ%けい%かん|[[laurel wreath]]}}
-* {{ja-r|草%冠|くさ%かんむり|[[grass]] [[radical]]}}
 
 ====Derived terms====
 * {{ja-r|瓜%田に履を納れず、李%下に冠を正さず|か%でん に くつ を いれず、り%か に かんむり を たださず}}
@@ -116,28 +115,43 @@ From {{inh|ja|ojp|sort=かんむり|-}}.
 
 ====Noun====
 {{ja-noun|かがふり}}
-# something to [[cover]] the [[head]]; [[headpiece]],  [[crown]]
+# {{lb|ja|archaic|possibly|_|obsolete|sort=かがふり}} [[head]] [[cover]]ing; [[headdress]],  [[crown]]
+# {{lb|ja|by extension|archaic|sort=かがふり}} [[order]], [[rank]]
+
+=====See also=====
+* {{ja-r|位%階|い%かい|court rank}}
 
 ===Etymology 2===
 {{ja-kanjitab|かぶり|yomi=k}}
 Likely a shift from ''kagafuri'' above, ancient ''kagapuri''. {{rfv-etymology|ja}}
 
+====Alternative forms====
+* {{ja-l|被り}}, {{ja-l|頭}}
+
+====Pronunciation====
+{{ja-pron|y=k|かぶり|acc=3|acc_ref=DJR}}
+
 ====Noun====
 {{ja-noun|かぶり|acc=3|acc_ref=DJR}}
-# {{alternative spelling of|lang=ja|被り}}
+# [[headdress]], [[crown]]
+# {{lb|ja|theater|sort=かぶり}} [[large]] [[attendance]], [[full house]]
+# {{lb|ja|archaic|sort=かぶり}} [[order]], [[rank]]
+
+=====Synonyms=====
+* {{sense|full house}} {{ja-r|大%入り|おお%いり}}
 
 ===Etymology 3===
 {{ja-kanjitab|かむり|yomi=k}}
 A shift from ''kaburi'' above. {{rfv-etymology|ja}}
 
 ====Pronunciation====
-{{ja-pron|y=k|かむり}}
+{{ja-pron|y=k|かむり|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|かむり}}
-# [[crown]]
-# [[roof]] of a [[tunnel]]
-# {{lb|ja|poetry}} first (traditionally, five) [[mora]]e of a [[haiku]], etc.; or the first line of it
+# [[headdress]], [[crown]]
+# distance from the [[tunnel]]'s [[roof]] to the surface directly above it
+# {{lb|ja|poetry}} first (traditionally, five) [[mora]]e of a [[haiku]], etc.; specifically, the first verse or line of a poem
 
 ===Etymology 4===
 {{ja-kanjitab|こうぶり|yomi=k}}
@@ -148,9 +162,12 @@ A shift from ''kagafuri'' above, ancient ''kagapuri''.<ref name=DJR>{{R:Daijirin
 
 ====Noun====
 {{ja-noun|こうぶり|hhira=かうぶり}}
-# [[headpiece]], [[crown]]
-# [[rank]]
-# {{synonym of|lang=ja|年爵|}}
+# [[headdress]], [[crown]]
+# [[order]], [[rank]]
+# {{synonym of|lang=ja|年爵||an [[annual]] [[salary]] in the Heian period}}
+
+=====Compounds=====
+* {{ja-r|初%冠|うい%こうぶり|crowning a boy for the first time at a coming-of-age ceremony​}}
 
 ===Etymology 5===
 {{wikipedia|lang=ja}}
@@ -165,9 +182,39 @@ The modern spelling. A shift from ''kōburi'' above, historical ''kauburi''.<ref
 {{ja-noun|かんむり|かんぶり}}
 # a [[crown]] {{gloss|royal headdress}}
 # a [[type]] of [[traditional]] [[cap]]
+# [[name]]; [[title]]; named [[sponsorship]] of a program, event, team, etc.​
 # the [[top]] [[radical]] of a [[kanji]], such as {{lang|ja|冖}} as in {{lang|ja|冠}} itself
 
 {{topics|ja|Headwear|Orthography|sort=かんむり}}
+
+=====Compounds=====
+{{der-top|Terms derived from かんむり}}
+* {{ja-r|冠%海%雀|カンムリ%-ウミ%スズメ|{{w|Japanese murrelet}} (''Synthliboramphus wumizusume'')}} 
+* {{ja-r|冠%鳰|カンムリ%-カイツブリ|{{w|great crested grebe}} (''Podiceps cristatus'')}} 
+* {{ja-r|冠%狐%猿|カンムリ%-キツネ%ザル|{{w|crowned lemur}} (''Eulemur coronatus'')}}
+* {{ja-r|かんむり座|^かんむりざ|[[Corona Borealis]])}} 
+* {{ja-r|冠%鷲|カンムリ%ワシ|{{w|crested serpent eagle}} (''Spilornis cheela'')}}
+* {{ja-r|初%冠|うい%かんむり|type of [[cap]] in [[Noh]]}}
+* {{ja-r|お冠|お-かんむり|rom=-}}, {{ja-r|御%冠|お%-かんむり|[[bad]] [[temper]], bad [[mood]]}}
+{{der-bottom}}
+{{der-top|Radical names containing 冠}}
+* {{ja-r|麻%冠|あさ%-かんむり|pos="[[hemp]]" radical}}
+* {{ja-r|穴%冠|あな%-かんむり|pos="[[hole]]" [[radical]]}}
+* {{ja-r|雨%冠|あま%-かんむり}}, {{ja-r|雨%冠|あめ%-かんむり|pos="[[rain]]" radical}}
+* {{ja-r|ウ冠|ウ-かんむり|pos=''[[katakana]]'' "{{ll|ja|ウ|u}}" radical}}
+* {{ja-r|老%冠|おい%-かんむり|pos="[[old]]" [[radical]]}}
+* {{ja-r|髪%冠|かみ%-かんむり|pos="[[hair]]" radical}}
+* {{ja-r|草%冠|くさ%-かんむり|pos="[[grass]]" radical}}
+* {{ja-r|卦%算%冠|けい%さん%-かんむり|pos="[[kettle lid]]" radical}}
+* {{ja-r|尸%冠|しかばね%-かんむり|pos="[[corpse]]" radical}}
+* {{ja-r|大%冠|だい%-かんむり|pos=top "[[big]]" radical}}
+* {{ja-r|竹%冠|たけ%-かんむり|pos="[[bamboo]]" radical}}
+* {{ja-r|爪%冠|つめ%-かんむり|pos=top "[[claw]]" radical}}
+* {{ja-r|戸%冠|と%-かんむり|pos="[[door]]" radical}}
+* {{ja-r|虎%冠|とら%-かんむり|pos="[[tiger]]" radical}}
+* {{ja-r|山%冠|やま%-かんむり|pos=top "[[mountain]]" radical}}
+* {{ja-r|ワ冠|ワ-かんむり}}, {{ja-r|平%冠|ひら%-かんむり}}, {{ja-r|冖%冠|べき%-かんむり|pos=''katakana'' "{{ll|ja|ワ|wa}}" radical}}
+{{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|proper|かんむり}}
@@ -197,6 +244,21 @@ From {{der|ja|ltc|sort=かん|-}} {{ltc-l|冠}}.
 ====Noun====
 {{ja-noun|かん|hhira=くわん}}
 # [[headpiece]], [[crown]]
+
+=====Compounds=====
+{{der-top}Compounds derived from かん}}
+* {{ja-r|冠%位|かん%い}}
+* {{ja-r|冠%水|かん%すい|being [[cover]]ed in [[water]]; being [[submerge]]d or [[inundate]]d}}
+* {{ja-r|栄%冠|えい%かん|[[laurels]], [[garland]]}}
+* {{ja-r|王%冠|おう%かん|[[crown]]}}
+* {{ja-r|極%冠|きょっ%かん|[[polar cap]]}}
+* {{ja-r|鶏%冠|けい%かん|[[cockscomb]]}}
+* {{ja-r|月%桂%冠|げっ%けい%かん|[[laurel wreath]]}}
+* {{ja-r|主%教%冠|しゅ%きょう%かん|[[mitre]], [[miter]]}}
+* {{ja-r|戴%冠|てい%かん|[[coronation]]}}
+* {{ja-r|宝%冠|ほう%かん|[[diadem]]}}
+* {{ja-r|林%冠|ほう%かん|[[tree canopy]]}}
+{{der-bottom}}
 
 =====Derived terms=====
 * {{ja-r|冠たる|かんたる|[[best]], [[unrivalled]]}}
