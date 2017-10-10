@@ -35,14 +35,16 @@
 ====Readings====
 {{ja-readings
 |goon=こ
-|kanon=きょ
+|kanon=きょ<きよ
 |kun=うそ-, は-く, ふ-く
 }}
 
-===Pronunciation===
+===Etymology===
 {{ja-kanjitab|yomi=k|うそ}}
-{{ja-pron|acc=a|y=k|うそ}}
-* {{hmp|lang=ja|sort=うそ|鷽|獺}}
+Attested in the late {{w|Heian period}}. Possibly cognate with {{m|ja|嘯く|tr=usobuku||to [[boast]]}}.
+
+===Pronunciation===
+{{ja-pron|y=k|うそ|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|うそ|ウソ}}
@@ -80,6 +82,19 @@
 |publisher={{w|Square Enix}}
 |date=Sep 22 2003
 |isbn=4-7575-1007-1}}
+# [[mistake]]; [[error]]
+# [[unwise]] [[move]]; [[bad]] [[decision]]
+
+====Synonyms====
+* {{sense|lie, falsehood}} {{ja-r|偽り|いつわり}}
+* {{sense|lie, falsehood}} {{ja-r|虚%言|きょ%げん}}, {{ja-r|虚%言|きょ%ごん}}
+* {{sense|lie, falsehood}} {{ja-r|空%言|そら%ごと}}
+* {{sense|mistake}} {{ja-r|間違い|まちがい}}
+* {{sense|error}} {{ja-r|誤り|あやまり}}
+
+====Derived terms====
+* {{ja-r|嘘つき|うそつき|gloss=a [[liar]]}}
+* {{ja-r|大%嘘|おお%うそ|gloss=a big [[lie]]}}
 
 ===Interjection===
 {{ja-pos|interjection|うそ|ウソ}}
@@ -89,6 +104,5 @@
 ====Usage notes====
 * In Japanese, using ''uso'' is less inflammatory than calling something a lie in English; it is used similar to "No way!" or "Really!"
 
-====Derived terms====
-* {{ja-r|嘘つき|うそつき|gloss=a [[liar]]}}
-* {{ja-r|大%嘘|おお%うそ|gloss=a big [[lie]]}}
+===References===
+<references/>
