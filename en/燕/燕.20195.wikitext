@@ -68,29 +68,42 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=火12}}
 
-====Readings====
-* {{ja-readings|on=[[えん]] (en)|kun=[[つばめ]] (tsubame)}}
+# [[swallow]]
 
-===Noun===
+====Readings====
+{{ja-readings|goon=えん|kanon=えん|kun=つばめ-}}
+
+===Pronunciation 1===
+{{ja-kanjitab|つばくらめ|yomi=k}}
+{{ja-pron|acc=3|acc2=4|つばくらめ}}
+
+====Noun====
 {{ja-noun|つばくらめ}}
 
-# a swallow
+# a [[swallow]] {{gl|bird}}
 #* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 11)
 #*: 「[...] 石上の中納言には、'''燕（つばくらめ）'''の持たる子安のかい、ひとつ取りて賜へ」
 #* {{RQ:Wamyō Ruijushō|7|29}}
 #*: 是我邦所謂'''豆波久良米'''也
 
-===Noun===
-{{ja-noun|つばめ|ツバメ}}
-
-# [[swallow]], especially the [[barn swallow]], ''[[Hirundo rustica]]''
-
+===Pronunciation 2===
+{{ja-kanjitab|つばめ|yomi=k}}
+{{ja-pron|acc=0|y=k|つばめ}}
+{{swp|lang=ja|ツバメ}}
 {{wikispecies|Hirundo rustica}}
 
-===Proper noun===
+====Noun====
+{{ja-noun|つばめ|ツバメ}}
+
+# a [[barn swallow]]
+
+=====Derived terms=====
+* {{ja-r|雨%燕|アマ%ツバメ}}
+
+====Proper noun====
 {{ja-pos|つばめ|proper}}
 
-# a place name, such as that of Tsubame City in [[Niigata]] Prefecture
+# a [[place name]], such as that of Tsubame City in [[Niigata]] Prefecture
 
 ===References===
 * {{cite-book
@@ -105,8 +118,7 @@
 }}
 * {{R:Wamyō Ruijushō}}
 
-[[Category:ja:Birds|つはめ]]
-[[Category:ja:Cities|つばめ]]
+{{C|ja|Swallows|Cities|Japan|sort=つばめ}}
 
 ----
 
