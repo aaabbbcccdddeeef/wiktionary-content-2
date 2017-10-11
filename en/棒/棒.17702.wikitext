@@ -48,11 +48,12 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=木08}}
 
-# pole, stick, staff, rod, cane, straight line
+# [[pole]], [[stick]], [[staff]], [[rod]], [[cane]]
+# [[straight line]]
 
 ====Readings====
 {{ja-readings
-|goon=ぼう
+|goon=ぼう<ばう
 |kanon=ほう<はう
 |kun=つえ-<つ.ゑ-
 }}
@@ -60,15 +61,26 @@
 ===Etymology===
 {{wikipedia|lang=ja}}
 {{ja-kanjitab|ぼう|yomi=o}}
-From {{etyl|ltc|ja|sort=ぼう}} {{m|ltc|棒|tr=balng|pos=reconstructed by some linguists as {{IPAchar|/bˠʌŋ/}}}}.
+From {{der|ja|ltc|sort=ぼう|-}} {{ltc-l|棒}}. The ''{{ll|ja|呉音|goon}}'' pronunciation, so likely an earlier borrowing.
 
-====Noun====
-{{ja-noun|ぼう}}
+===Pronunciation===
+{{ja-pron|y=go|ぼう|acc=0|acc_ref=DJR}}
 
-# [[stick]]-like or [[long]], [[cylindrical]] item: [[pointer]], [[pole]], [[rod]], etc.
+===Noun===
+{{ja-noun|ぼう|hhira=ばう}}
+
+# a staff, measuring 6 ''{{ll|ja|尺|shaku}}'' (about 1.8 meters), used in martial arts such as {{m|ja|棒術|tr=bōjutsu}}
+# {{lb|ja|by extension}} [[stick]]-like or [[long]], [[cylindrical]] item: [[pointer]], [[pole]], [[rod]], etc.
 #: {{ja-usex|'''棒'''を持つ|'''ぼう''' を もつ|to hold a '''pointer'''}}
 #: {{ja-usex|うまい'''棒'''|^うまい'''ぼう'''|{{w|Umaibō}} (a cylinder-shaped snack food)}}
 #: {{ja-usex|'''棒'''のぼり|'''ぼう'''-のぼり|pole climbing (found in elementary schools to train the strength of students)}}
+# {{lb|ja|by extension}} a [[straight line]]; [[bar]]
+# {{lb|ja|by extension}} state of being in a "straight line"; [[continuous]]
+# [[taut]] [[leg]] [[muscle]]s due to [[fatigue]]
+# {{lb|ja|Buddhism|sort=ほう}} staff used by practitioners of Zen Buddhism
+
+===References===
+<references/>
 
 ----
 
