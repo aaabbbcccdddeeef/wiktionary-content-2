@@ -25,34 +25,63 @@
 {{ja-kanji|grade=|rs=厂10}}
 
 ====Readings====
-* {{ja-readings|goon=[[ず]] (zu), [[じゅう]] (jū)|kanon=[[ちゅう]] (chū)|kun=[[くりや]] (kuriya), [[ひつ]] (hitsu), [[ぬし]] (nushi)}}
+{{ja-readings
+|goon=ず, じゅう
+|kanon=ちゅう
+|kun=くりや
+}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|厨房|ちゅうぼう}}
 * {{ja-r|厨子|ずし}}
+{{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|くりや|yomi=k}}
+{{ja-kanjitab|yomi=k|くりや}}
 
-{{rfe|ja}}
+Originally a compound of {{compound|lang=ja|sort=くりや|涅|tr1=kuri|t1=black; dark-colored|pos1=cognate with {{m|ja|黒|tr=kuro||black}}; in reference to the darkening of the walls from soot from cooking fires|屋|tr2=ya|t2=house; shed}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|くりや|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|くりや}}
 
-# [[kitchen]]
+# {{l|en|kitchen}}
 
 ===Etymology 2===
-{{ja-kanjitab|ちゅう|yomi=o}}
+{{ja-kanjitab|yomi=o|ちゅう}}
 
-From {{etyl|zhx|ja}}.
+From {{der|ja|ltc|-}} {{ltc-l|厨}}.
 
-{{etystub|lang=ja}}
+====Pronunciation====
+{{ja-pron|yomi=kanon|ちゅう}}
+
+====Noun====
+{{ja-noun|ちゅう}}
+
+# {{l|en|kitchen}}
+
+=====Usage notes=====
+Only found in compounds, never in isolation.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|ちゅう}}
+
+Appears to be a punning phonetic use based on {{m|ja|中|tr=chū||in the middle of something; addict of something}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ちゅう}}
 
 ====Suffix====
 {{ja-pos|suffix|ちゅう}}
 
-# {{lb|ja|internet slang}} [[freak]]; [[nerd]]
+# {{lb|ja|internet slang}} {{l|en|freak}}, {{l|en|nerd}}
 #: {{ja-usex|ニコ'''厨'''|ニコ-'''ちゅう'''|{{w|Niconico}} addict}}
 
 =====See also=====
 * {{ja-r|廃|はい}}
+
+===References===
+<references/>
