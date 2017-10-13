@@ -16,48 +16,54 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|厨|廚}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=厂10}}
 
 ====Readings====
 {{ja-readings
-|goon=ず, じゅう
-|kanon=ちゅう
-|kun=くりや
+|goon=じゅう<ぢゆう, ず<づ
+|kanon=ちゅう<ちゆう
+|kun=くりや-
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|厨房|ちゅうぼう}}
-* {{ja-r|厨子|ずし}}
-{{der-bottom}}
+* {{ja-r|厨%子|ず%し}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|くりや}}
 
-Originally a compound of {{compound|lang=ja|sort=くりや|涅|tr1=kuri|t1=black; dark-colored|pos1=cognate with {{m|ja|黒|tr=kuro||black}}; in reference to the darkening of the walls from soot from cooking fires|屋|tr2=ya|t2=house; shed}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Originally a compound of {{compound|lang=ja|sort=くりや|涅|tr1=kuri|t1={{l|en|black}}; {{l|en|dark}}-{{l|en|color|colored}}|pos1=cognate with {{m|ja|黒|tr=kuro||black}}; in reference to the darkening of the walls from soot from cooking fires|屋|tr2=ya|t2={{l|en|house}}; {{l|en|shed}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|くりや|acc=0|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|くりや}}
+{{ja-noun|kyu=廚|くりや}}
 
 # {{l|en|kitchen}}
+# {{abbreviation|lang=ja|厨人||{{l|en|chef}}}}
+
+=====Synonyms=====
+* {{sense|kitchen}} {{ja-r|台%所|たい%どこ}}, {{ja-r|台%所|たい%どころ}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=o|ちゅう}}
 
-From {{der|ja|ltc|-}} {{ltc-l|厨}}.
+From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|廚}}. The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|ちゅう}}
 
 ====Noun====
-{{ja-noun|ちゅう}}
+{{ja-noun|kyu=廚|ちゅう}}
 
 # {{l|en|kitchen}}
+
+=====Synonyms=====
+* {{ja-r|庖%厨|ほう%ちゅう}}
+* {{ja-r|厨%房|ちゅう%ぼう}}
 
 =====Usage notes=====
 Only found in compounds, never in isolation.
@@ -75,6 +81,12 @@ Appears to be a punning phonetic use based on {{m|ja|中|tr=chū||in the middle 
 
 # {{lb|ja|internet slang}} {{l|en|freak}}, {{l|en|nerd}}
 #: {{ja-usex|ニコ'''厨'''|ニコ-'''ちゅう'''|{{w|Niconico}} addict}}
+
+=====Compounds=====
+* {{ja-r|厨%坊|ちゅう%ぼう|rom=-}}, {{ja-r|厨%房|ちゅう%ぼう|{{l|en|Internet}} {{l|en|troll}}}} 
+* {{ja-r|硬派厨|こう%は%ちゅう|Internet {{l|en|tough guy}}}}
+* {{ja-r|切断厨|せっ%たん%ちゅう|{{l|en|ragequitter}}}}
+* {{ja-r|特定厨|とく%てい%ちゅう}}
 
 =====See also=====
 * {{ja-r|廃|はい}}
