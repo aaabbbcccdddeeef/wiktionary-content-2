@@ -21,11 +21,10 @@
 |mn=qz:pat/qz:peh/qz:pa/xm:pha/zz:pá
 |mn_note=pat - literary; peh - vernacular; pa/pha/pá - vernacular (俗)
 |w=
-|mc=
-|oc=
+|mc=1
+|oc=1
 |cat=v
 }}
-{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}
 
 ====Definitions====
 {{zh-hanzi}}
@@ -69,15 +68,31 @@
 {{zh-pron
 |m=bié
 |c=paa1
+|mc=3
+|oc=3
 |cat=v
 }}
-{{attention|zh|see references}}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# to [[divide]]
 
+===Pronunciation 4===
+{{zh-pron
+|m=bài
+|mc=2
+|oc=2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to pull up
+# to [[rescue]]
+===Pronunciation 5===
+{{zh-see|趴|v}}
 ===References===
 * {{R:twedu|A01500}}
 * {{R:yue:Hanzi}}
