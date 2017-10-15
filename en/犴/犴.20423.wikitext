@@ -12,27 +12,69 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|犬|干|ls=psc|c1=s|c2=p|t1=dog}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|alt=豻}}
+
+====Pronunciation====
 {{zh-pron
-|m=àn
-|c=hon6,ngon6,hon4
-|mc=y
-|oc=y
-|cat=
+|m=àn,hàn,2nb=variant
+|c=ngon6,hon6
+|mn=ml:gān
+|mn-t=ngang6
+|mc=1
+|oc=1
+|cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{†}} a kind of [[wild]] [[dog]] from [[northern]] [[China]]
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=àn,hàn,2nb=variant
+|c=ngon6,hon6
+|mn=ml:gān
+|mn-t=ngang6
+|mc=2
+|oc=2
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[jail]]; [[prison]]
+# {{surname|lang=zh}}
 
 ====Compounds====
-{{zh-der|犴圄|狴犴|獄犴}}
+{{zh-der|犴圄|狴犴|獄犴|犴戶|犴庭|犴狴|犴訟|犴獄}}
+
+===Etymology 3===
+{{zh-forms|alt=𤞶}}
+
+====Pronunciation====
+{{zh-pron
+|m=hān,àn,1nb=Mainland,2nb=Taiwan
+|c=hon4
+|mn-t=gang1/hang5
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[moose]]; [[elk]]
+#: {{zh-syn|駝鹿}}
 
 ===References===
 * {{R:yue:Hanzi}}
