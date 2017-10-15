@@ -37,10 +37,53 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木06}}
 
-# {{defn|lang=ja|sort=木06}}
+# [[sumac]] {{rfv-sense|ja}}
+# [[cloth]] [[weave|woven]] from [[tree]] [[fibre]]s
 
 ====Readings====
-* {{ja-readings|on=[[ごう]] (gō), [[こう]] (kō)|kun=[[たえ]] (tae), [[ぬるで]] (nurude), [[たく]] (taku)}}
+{{rfv-pronunciation|ja}}
+{{ja-readings
+|goon=こう<かう
+|kanon=こう<かう
+|kun=たえ-<たへ-, たく-
+}}
+
+===Etymology 1===
+{{ja-kanjitab|たえ|yomi=k}}
+{{IPAchar|/tape<sub>2</sub>/}} → {{IPAchar|/tape/}} → {{IPAchar|/tafe/}} → {{IPAchar|/tawe/}} → {{IPAchar|/tae/}}
+
+From {{inh|ja|ojp|sort=たえ|-}}.
+
+{{rfe|ja|}}
+
+====Pronunciation====
+{{ja-pron|y=k|たえ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たえ|hhira=たへ}}
+# {{lb|ja|archaic|sort=たえ}} [[cloth]], especially, from the [[fiber]]s of the {{m|ja|梶の木|tr=kajinoki||[[paper mulberry]]}} tree
+# {{lb|ja|by extension}} [[generic name]] for "cloth"
+
+=====Compounds=====
+* {{ja-r|白%栲|しろ%たえ|[[white]] [[cloth]]}}
+
+===Etymology 2===
+{{ja-kanjitab|たく|yomi=k}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|たく}}
+
+====Noun====
+{{ja-noun|たく}}
+# {{lb|ja|archaic|possibly|_|obsolete|sort=たく}} old name for {{m|ja|楮|tr=kōzo||[[hybrid]] [[mulberry]]|pos=used to make Japanese paper}}
+# {{lb|ja|archaic|possibly|_|obsolete|sort=たく}} old name for {{m|ja|梶の木|tr=kajinoki||[[paper mulberry]]}}
+
+=====Compounds=====
+* {{ja-r|栲%衾|たく%ぶすま|[[clothing]] [[weave|woven]] from paper mulberry}}
+
+===References===
+<references/>
 
 ----
 
