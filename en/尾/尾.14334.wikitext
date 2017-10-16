@@ -50,7 +50,7 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=尸04}}
+{{ja-kanji|rs=尸04}}
 
 ====Readings====
 {{ja-readings
@@ -59,22 +59,63 @@
 |kun=お-
 }}
 
-====Compounds====
-* {{ja-r|尻尾|しっぽ|gloss=[[tail]]}}
+{{wp|lang=ja}}
 
-===Etymology===
+===Etymology 1===
+{{ja-kanjitab|お|yomi=k}}
 /wo/ → /o/.
 
-===Noun===
+====Pronunciation====
+{{ja-pron|yomi=k|お|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|お|hhira=を}}
 
 # a [[tail]]
 # the foot of a mountain
 # the end of something
 
-====Derived terms====
-* {{ja-r|尾ろ|おろ}}
-* {{ja-r|尻尾|しっぽ}}
+=====Synonyms=====
+* {{sense|tail}} {{ja-r|尻尾|しっぽ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|尾ろ|おろ|[[tail]]}}
+* {{ja-r|尻尾|しっぽ|[[tail]]}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|び|yomi=o}}
+{{der|ja|ltc|尾|sort=ひ'}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|び|acc=1|acc_ref=DJR}}
+
+====Affix====
+{{ja-pos|affix|び}}
+
+# [[tail]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|尾宿|^びしゅく|[[Tail]]}}
+{{der-bottom}}
+
+====Counter====
+{{ja-pos|counter|び}}
+
+# [[fish]], [[shrimp]]
+
+====Proper noun====
+{{ja-pos|proper|び}}
+
+# {{lb|ja|Chinese astronomy|sort=ひ'}} [[Tail]]
+
+=====Synonyms=====
+* {{ja-r|尾宿|^びしゅく}}, {{ja-r|足垂れ星|^あしたれぼし}}
+
+===References===
+<references/>
 
 ----
 
