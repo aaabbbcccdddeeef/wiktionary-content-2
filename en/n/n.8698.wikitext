@@ -205,18 +205,18 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 # {{lb|egy|of time}} [[for]], [[until]]
 # [[because]] of
 
-====Usage notes====
+====Inflection====
+{{egy-hieroforms|title=Adverbial forms of {{m-self|egy|n}}
+|<hiero>n:Z4</hiero>|read1=nj
+|<hiero>n</hiero>|read2=n}}
+
+====Alternative forms====
 Before a noun it can be written thus:
 
 {{egy-hieroforms
 |<hiero>D35</hiero>|read1=nj}}
 
 This should not be confused with the negative particle, which is written identically.
-
-====Inflection====
-{{egy-hieroforms|title=Adverbial forms of {{m-self|egy|n}}
-|<hiero>n:Z4</hiero>|read1=nj
-|<hiero>n</hiero>|read2=n}}
 
 ====Derived terms====
 {{der2|lang=egy
@@ -230,11 +230,12 @@ This should not be confused with the negative particle, which is written identic
 ====Usage notes====
 {{U:egy:dep pronoun}}
 
-{{egy-hieroforms
-|<hiero>n</hiero>|read1=n}}
-
 ====Inflection====
 {{Egyptian personal pronouns}}
+
+====Alternative forms====
+{{egy-hieroforms
+|<hiero>n</hiero>|read1=n}}
 
 ===References===
 * {{R:egy:Allen}}
