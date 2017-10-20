@@ -84,6 +84,7 @@ Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}
 
 ===Kanji===
 {{ja-kanji|grade=7|rs=丨06}}
+# [[spit]], [[skewer]]
 
 ====Readings====
 {{ja-readings
@@ -92,7 +93,16 @@ Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}
 |kun=くし-, つらぬ-く
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|串刺|くしざし|[[impalement]]}}
+* {{ja-r|玉串|たまぐし}}
+* {{ja-r|祓%串|はらえ%ぐし}}
+* {{ja-r|目%串|め%ぐし|[[suspicion]]s, {{l|en|guess}}}}
+{{der-bottom}}
+
 ===Etymology===
+{{wp|lang=ja}}
 {{ja-kanjitab|くし|yomi=k}}
 
 From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears in the ''{{w|Nihon Shoki}}'', finished CE 720.
@@ -103,12 +113,33 @@ From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  
 ===Noun===
 {{ja-noun|くし}}
 
-# {{l|en|skewer}}
+# {{l|en|skewer}}, {{l|en|spit}}
+# a {{l|en|candle}}'s {{l|en|wick}}
+# a ''{{w|tamagushi}}''
 # {{lb|ja|slang|computing}} {{l|en|proxy server}}
 #: {{ja-usex|中国'''串'''を使わないと|ちゅうごく '''くし''' を つかわない と|if you don't use a China '''proxy server'''}}
 
 ====Synonyms====
+* {{sense|skewer}} {{ja-r|串刺|くしざし}}, {{ja-r|焼串|やきぎし|rom=-}}, {{ja-r|焼き串|やきぐし}}
+* {{sense|candle's wick}} {{ja-r|芯|しん}}
 * {{sense|proxy}} {{ja-r|プロクシ}}, {{ja-r|プロクシ サーバー}}, {{ja-r|串鯖|くしさば}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|串%揚げ|くし%あげ}}
+* {{ja-r|串柿|くしがき|skewered {{l|en|dry|dried}} {{l|en|persimmon|persimmons}}}}
+* {{ja-r|串カツ|くしカツ}}
+* {{ja-r|串焼|くしやき|rom=-}}, {{ja-r|串%焼き|くし%やき}}
+* {{ja-r|金串|かなぐし|{{l|en|metal}} spit or skewer}}
+* {{ja-r|牛%串|ぎゅう%くし|skewered {{l|en|beef}}}}
+* {{ja-r|竹串|たけぐし|{{l|en|bamboo}} skewer}}
+* {{ja-r|澪標|みおつくし|{{l|en|dolphin}}, channel-mark}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|くし}}
+
+# {{surname|lang=ja|sort=くし}}
 
 ===References===
 <references/>
