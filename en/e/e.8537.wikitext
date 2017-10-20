@@ -1,3 +1,4 @@
+{{also|E|è|Appendix:Variations of "e"}}
 ==Translingual==
 {{character info/new}}
 {{character info/new|ｅ}}
@@ -17,8 +18,8 @@ Modification of capital letter {{m|mul|E}} in [[uncial]] script, from {{etyl|grc
 
 ====See also====
 {{Latn-script}}
-* ''(select similar letters and symbols)'' [[ɘ]] [[ǝ]] [[Ə]] [[Ɛ]] [[Æ]] [[Œ]]
-* ''(other scripts)'' {{m|mul|sc=Grek|ε|tr=e||[[epsilon]]}} {{m|mul|sc=Cyrl|е|tr=je}}
+* {{qualifier|select similar letters and symbols}} [[ɘ]] [[ǝ]] [[Ə]] [[Ɛ]] [[Æ]] [[Œ]]
+* {{qualifier|other scripts}} {{m|mul|sc=Grek|ε|tr=e||[[epsilon]]}} {{m|mul|sc=Cyrl|е|tr=je}}
 * See [[Appendix:Variations of "e"]]
 
 ===Symbol===
@@ -29,14 +30,14 @@ Modification of capital letter {{m|mul|E}} in [[uncial]] script, from {{etyl|grc
 # {{lb|mul|mathematics}} The base of [[natural logarithm]]s, a [[transcendental]] number with a value of approximately 2.718281828459
 # {{lb|mul|science}} Symbol separating [[mantissa]] from the [[exponent]] in [[scientific notation]].
 #: 1.2566e-6 = 1.2566 × 10<sup>-6</sup>
-# {{lb|mul|[[w:IPA|IPA]]}} [[close-mid]] [[front]] [[unrounded]] vowel
+# {{lb|mul|[[w:IPA|IPA]]}} [[close-mid]] [[front]] [[unrounded]] [[vowel]]
 # {{lb|mul|algebra|group theory}} {{l|en|identity element}}
 #: ''a'' ∘ '''''e''''' = '''''e''''' ∘ ''a'' = ''a''
 # {{lb|mul|particle}} [[electron]]
 
 ====Synonyms====
-* ''(electron)'' {{l|mul|e⁻}}
-* ''(identity element)'' {{l|mul|1}}, ''(chiefly matrices)'' {{l|mul|I}}
+* {{sense|electron}} {{l|mul|e⁻}}
+* {{sense|identity element}} {{l|mul|1}}, {{qualifier|chiefly matrices}} {{l|mul|I}}
 
 ===Gallery===
 <gallery caption="Letter styles" perrow=3 mode=packed>
@@ -69,10 +70,10 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 * [[Image:Rune-Eðel.png|15px|Anglo-Saxon Futhorc ᛟ (œ)]] {{etyl|ang|en}} lower case letter {{m|ang|œ}} from replacement by Latin ligature {{m|la|œ}} of the Anglo-Saxon Futhorc letter {{m|ang|ᛟ|tr=œ}}.
 
 ===Pronunciation===
-* ''(letter name)'' {{IPA|/iː/|lang=en}}
+* {{sense|letter name}} {{IPA|/iː/|lang=en}}
 * {{audio|En-uk-e.ogg|Audio (UK)|lang=en}}
 * {{audio|en-us-e.ogg|Audio (US)|lang=en}}
-* ''(phoneme)'' {{IPA|/ɛ/|/iː/|/ə/|/eɪ/|lang=en}}
+* {{sense|phoneme}} {{IPA|/ɛ/|/iː/|/ə/|/eɪ/|lang=en}}
 * In addition to the phonemes noted above, "e" can also be silent, representing no sound itself but indicating which phoneme another letter in the word represents. See the article "[[w:Silent e|Silent e]]" on Wikipedia.
 
 ===Letter===
@@ -102,7 +103,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 * Arabic: {{t|ar|إِي|m}}, {{t|ar|إِيه|m}}
 * Catalan: {{t+|ca|e|f}}
 * Chinese:
-*: Mandarin: ''(English letter names are called as in English, no other standard Mandarin name exists)''
+*: Mandarin: {{qualifier|English letter names are called as in English, no other standard Mandarin name exists}}
 * Esperanto: {{t-simple|eo|e|langname=Esperanto|interwiki=1}}
 * Finnish: {{t-simple|fi|ee|langname=Finnish|interwiki=1}}
 * French: {{t+|fr|e|m}}
@@ -119,7 +120,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 * Marathi: {{t|mr|ई|tr=ī|sc=Deva}}
 * Persian: {{t+|fa|ای|tr=i|sc=fa-Arab}}, {{t+|fa|ئی|tr=i|sc=fa-Arab}}
 * Portuguese: {{t+|pt|é|m}}
-* Russian: {{t+|ru|и|n}} ''(English)'', {{t+|ru|е|n}}, {{t+|ru|э|n}}
+* Russian: {{t+|ru|и|n}} {{qualifier|English}}, {{t+|ru|е|n}}, {{t+|ru|э|n}}
 * Spanish: {{t+|es|e|f}}
 * Thai: {{t+|th|อี}}
 * Turkish: {{t-simple|tr|e|langname=Turkish|interwiki=1}}
@@ -160,7 +161,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 ===Pronoun===
 {{sq-pronoun}}
 
-# Third-person singular accusative-case pronominal clitic (him, her, it)
+# Third-person singular accusative-case pronominal clitic {{gloss|him, her, it}}
 #: ''S''''e''' di.''
 #:: I don't know (it).
 
@@ -185,7 +186,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 ===Article===
 {{head|gsw|article|g=f}}
 
-# {{lb|gsw|indefinite}} a/an
+# {{lb|gsw|indefinite}} [[a]]/[[an]]
 
 ====Declension====
 {{gsw-decl-pronoun|en|e|es||emene|enere|emene|}}
@@ -198,7 +199,7 @@ From {{etyl|enm|en}} and {{etyl|ang|en}} lower case letter {{m|ang|e}} and split
 ===Pronoun===
 {{head|aoa|pronoun}}
 
-# he
+# [[he]]
 
 ----
 
@@ -210,19 +211,19 @@ From {{inh|rup|la|et}}.
 ===Conjunction===
 {{head|rup|conjunction}}
 
-# and
-# but
-# or
+# [[and]]
+# [[but]]
+# [[or]]
 
 ====Synonyms====
-* ''(and)'' {{l|rup|shi}}
+* {{sense|and}} {{l|rup|shi}}
 
 ----
 
 ==Azeri==
 
 ===Pronunciation===
-* ''(phoneme)'' {{IPA|/e/|lang=az}}
+* {{qualifier|phoneme}} {{IPA|/e/|lang=az}}
 
 ===Letter===
 {{az-letter|upper=E|lower=e}}
@@ -242,7 +243,7 @@ From {{inh|rup|la|et}}.
 ====Pronoun====
 {{head|br|pronoun}}
 
-# his
+# [[his]]
 
 ===Etymology 2===
 From {{inh|br|cel-bry-pro|*ɨn}}, from {{inh|br|cel-pro|*eni}}.
@@ -250,7 +251,7 @@ From {{inh|br|cel-bry-pro|*ɨn}}, from {{inh|br|cel-pro|*eni}}.
 ====Preposition====
 {{head|br|preposition}}
 
-# in
+# [[in]]
 
 =====Usage notes=====
 It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#Breton|er]].
@@ -289,7 +290,10 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 ===Article===
 {{head|co|article|g=f-p}}
 
-# the
+# [[the]]
+
+====Related terms====
+* {{l|co|u}}, {{l|co|a}}, {{l|co|i}}, {{l|co|l'}}
 
 ----
 
@@ -301,7 +305,7 @@ From {{inh|dlm|la|et}}.
 ===Conjunction===
 {{head|dlm|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -310,7 +314,7 @@ From {{inh|dlm|la|et}}.
 ===Pronunciation===
 * {{audio|Nl-e.ogg|Audio|lang=nl}}
 * {{rhymes|eː|lang=nl}}
-* ''(letter name)'' {{IPA|/eː/|lang=nl}}
+* {{sense|letter name}} {{IPA|/eː/|lang=nl}}
 
 ===Letter===
 {{head|nl|letter|lower case||upper case|E}}
@@ -328,15 +332,15 @@ From {{inh|dlm|la|et}}.
 ===Conjunction===
 {{head|egl|conjunction}}
 
-# and
+# {{l|en|and}}
 
 ----
 
 ==Esperanto==
 
 ===Pronunciation===
-* ''(letter name)'' {{IPA|/e/|lang=eo}}
-* ''(phoneme)'' {{IPA|/e/|lang=eo}}
+* {{sense|letter name}} {{IPA|/e/|lang=eo}}
+* {{sense|phoneme}} {{IPA|/e/|lang=eo}}
 * {{audio|Eo-e.ogg|Audio|lang=eo}}
 
 ===Letter===
@@ -401,7 +405,7 @@ From {{inh|fur|la|et}}.
 ===Conjunction===
 {{head|fur|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -412,7 +416,7 @@ From {{inh|fur|la|et}}.
 ====Letter====
 {{ff-letter|upper=E|lower=e}}
 
-# {{non-gloss definition|A letter of the Fula alphabet, written in the [[Appendix:Latin script|Latin script]].}}
+# {{non-gloss definition|A [[letter]] of the Fula [[alphabet]], written in the [[Appendix:Latin script|Latin script]].}}
 
 ====Usage notes====
 * {{U:ff:common}}
@@ -425,8 +429,8 @@ From {{inh|fur|la|et}}.
 ====Conjunction====
 {{head|ff|conjunction}}
 
-# and
-# with
+# [[and]]
+# [[with]]
 
 ====Usage notes====
 * {{U:ff:common}}
@@ -441,7 +445,7 @@ From {{inh|gl|la|et}}.
 ===Conjunction===
 {{head|gl|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -450,13 +454,13 @@ From {{inh|gl|la|et}}.
 ===Particle===
 {{head|haw|particle}}
 
-# {{non-gloss definition|used to mark the following verb as an infinitive}}; to
+# {{non-gloss definition|used to mark the following verb as an infinitive}}; [[to]]
 # {{non-gloss definition|used before a name, a noun or a phrase to address someone or something}}
 
 ===Preposition===
 {{head|haw|preposition}}
 
-# by (indicating the agent of a verb in the passive voice)
+# [[by]] {{gloss|indicating the agent of a verb in the passive voice}}
 
 ----
 
@@ -472,7 +476,7 @@ From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}
 ===Pronoun===
 {{hu-pronoun|demonstrative}}
 
-# {{lb|hu|archaic}} this (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
+# {{lb|hu|archaic}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
 #* '''1836:''' Vörösmarty Mihály, Szózat
 #*: A nagy világon '''e''' kivűl (''modern spelling: [[kívül]]'')
 #*: Nincsen számodra hely;
@@ -480,7 +484,7 @@ From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}
 ===Determiner===
 {{head|hu|determiner|demonstrative}}
 
-# this
+# [[this]]
 #: '''''E''' házban lakott Petőfi Sándor'' - Petőfi Sándor lived in '''this''' house.
 
 ====Usage notes====
@@ -495,7 +499,7 @@ A rarer substitute of {{m|hu|ez}}, but unlike ''ez'', it does not take the case 
 ===Interjection===
 {{head|hu|interjection}}
 
-# look!, hey! (expressing surprise or wanting to get attention)
+# [[look]]!, [[hey]]! (expressing surprise or wanting to get attention)
 #: '''''E'''! [[hát|Hát]] Józsi meg hová tűnt?'' - Hey! Where is Joe?
 #: ''Itt van, '''e'''!'' - Here it is. (informal, not polite)
 
@@ -517,7 +521,7 @@ A rarer substitute of {{m|hu|ez}}, but unlike ''ez'', it does not take the case 
 ==Ido==
 
 ===Alternative forms===
-* ''(before a vowel)'' {{l|io|ed}}
+* {{qualifier|before a vowel}} {{l|io|ed}}
 
 ===Etymology===
 From {{der|io|fr|et}}, {{der|io|es|y}}, {{m|es|e}}, {{der|io|it|e}}, {{m|it|ed}}, {{der|io|ru|и}}.
@@ -525,7 +529,7 @@ From {{der|io|fr|et}}, {{der|io|es|y}}, {{m|es|e}}, {{der|io|it|e}}, {{m|it|ed}}
 ===Conjunction===
 {{head|io|conjunction}}
 
-# and
+# [[and]]
 
 ====Related terms====
 * {{l|io|a}}, {{l|io|ad|gloss=to}}
@@ -541,7 +545,7 @@ From {{der|idb|pt|e||and}}, from {{der|idb|roa-opt|e||and}}, from {{der|idb|la|e
 ===Conjunction===
 {{head|idb|conjunction}}
 
-# and (expresses two elements to be taken together or in addition to each other)
+# {{l|en|and}} {{gloss|expresses two elements to be taken together or in addition to each other}}
 #* {{quote-text|year=1883|author=Hugo Schuchardt|title=Kreolische Studien|volume=3|passage=Trasê tamêm um vaquinh bem gord '''e''' matá par nós comê '''e''' par nós regalá|translation=Bring also a small and very fat cow '''and''' kill (it) for us to eat '''and''' for us to feast on}}
 
 ----
@@ -549,12 +553,12 @@ From {{der|idb|pt|e||and}}, from {{der|idb|roa-opt|e||and}}, from {{der|idb|la|e
 ==Interlingua==
 
 ===Alternative forms===
-* ''(rare)'' [[et]]
+* {{qualifier|rare}} [[et]]
 
 ===Conjunction===
 {{head|ia|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -566,7 +570,7 @@ From {{inh|ist|la|et}}.
 ===Conjunction===
 {{head|ist|conjunction}}
 
-# and
+# {{l|en|and}}
 #* '''1877''', Antonio Ive, ''Canti popolari istriani: raccolti a Rovigno'', volume 5, Ermanno Loescher, page 128:
 #*: Caro, cun quil visito bianco '''e''' russo.
 #*:: Dear, with that little white '''and''' red face.
@@ -596,12 +600,12 @@ From {{der|it|la|ē|pos=''the name of the letter'' {{m|la|E}}}}.
 From {{inh|it|la|et}}.<ref>Angelo Prati, "Vocabolario Etimologico Italiano", Torino, 1951</ref>
 
 ====Alternative forms====
-* ''(before a vowel)'' {{l|it|ed}}
+* {{qualifier|before a vowel}} {{l|it|ed}}
 
 ====Conjunction====
 {{head|it|conjunction}}
 
-# and
+# [[and]]
 
 ====See also====
 * {{l|it|ed}}
@@ -640,7 +644,7 @@ From {{inh|it|la|et}}.<ref>Angelo Prati, "Vocabolario Etimologico Italiano", Tor
 * {{a|Classical}} {{IPA|/eː/|lang=la}}
 
 ====Noun====
-{{head|la|noun|head=ē|indeclinable}}
+{{head|la|noun|head=ē|{{l|en|indeclinable}}}}
 
 # {{non-gloss definition|The name of the letter ''{{l|la|E}}''.}}
 
@@ -661,11 +665,15 @@ Abbreviated from {{m|la|ēx}}.
 ====Preposition====
 {{head|la|preposition|head=ē|short form of|ex}}
 
-# {{senseid|la|preposition}} out of, from
+# {{senseid|la|preposition}} [[out of]], [[from]]
 #* {{Q|la|Lucretius|De rerum natura|6|quote=..et ignis [[semen#Latin|semina]] convolvunt '''e''' nubibus.|trans=..and the seeds of fire roll '''from''' the clouds.}}
 
 =====Derived terms=====
 * {{l|la|e pluribus unum}}
+
+=====Related terms=====
+* {{l|la|e-}}
+* {{l|la|ex}}
 
 [[Category:la:Letter names of the Roman alphabet]]
 
@@ -716,14 +724,14 @@ The letter '''''E'''''/'''''e''''' (like its long counterpart '''''Ē'''''/'''''
 ===Article===
 {{head|lij|article|g=f-p|singular|a}}
 
-# the
+# [[the]]
 
 ----
 
 ==Livonian==
 
 ===Pronunciation===
-* ''(phoneme)'' {{liv-IPA|e}}
+* {{qualifier|phoneme}} {{liv-IPA|e}}
 
 ===Letter===
 {{head|liv|letter|upper case|E}}
@@ -810,7 +818,7 @@ From {{der|nap|la|de}}
 ====Preposition====
 {{head|nap|preposition}}
 
-# of (used to express ownership)
+# [[of]] {{gloss|used to express ownership}}
 
 ===Etymology 2===
 From {{inh|nap|la|et}}
@@ -818,15 +826,15 @@ From {{inh|nap|la|et}}
 ====Conjunction====
 {{head|nap|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
 ==Norwegian==
 
 ===Pronunciation===
-* ''(letter name)'' {{IPA|/eː/|lang=no}}
-* ''(phoneme)'' {{IPA|/eː/|/e/|/ɛ/|/ə/|/æ/|lang=no}}
+* {{sense|letter name}} {{IPA|/eː/|lang=no}}
+* {{sense|phoneme}} {{IPA|/eː/|/e/|/ɛ/|/ə/|/æ/|lang=no}}
 
 ===Etymology 1===
 
@@ -846,7 +854,7 @@ From {{inh|nap|la|et}}
 ====Verb====
 {{head|no|verb}}
 
-# {{lb|no|dialectal}} Present tense of '''{{l|nb|være}}''' ''(Bokmål)'', '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' ''(Nynorsk)''; equivalent to standardized ''{{l|no|er}}''.
+# {{lb|no|dialectal}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
 
 ----
 
@@ -855,7 +863,7 @@ From {{inh|nap|la|et}}
 ===Conjunction===
 {{head|nov|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -867,7 +875,7 @@ From {{inh|oc|pro|e}}, from {{inh|oc|la|et}}.
 ===Conjunction===
 {{head|oc|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -882,7 +890,7 @@ From {{inh|fro|la|et}}.
 ===Conjunction===
 {{head|fro|conjunction}}
 
-# and
+# [[and]]
 
 ----
 
@@ -900,7 +908,7 @@ From {{inh|roa-opt|la|et}}, from {{inh|roa-opt|ine-pro|*éti}}.
 ====Conjunction====
 {{head|roa-opt|conjunction}}
 
-# and (expresses two elements to be taken together or in addition to each other)
+# {{l|en|and}} {{gloss|expresses two elements to be taken together or in addition to each other}}
 
 =====Descendants=====
 * Fala: {{l|fax|i}}
@@ -927,7 +935,7 @@ From {{der|pro|la|et}}.
 ===Conjunction===
 {{head|pro|conjunction}}
 
-# and
+# [[and]]
 
 ====Descendants====
 * Occitan: {{l|oc|e}}
@@ -941,7 +949,7 @@ From {{der|pro|la|et}}.
 ====Pronoun====
 {{head|pon|pronoun}}
 
-# he, she, it, third person pronoun
+# [[he]], [[she]], [[it]], third person pronoun
 
 ===Etymology 2===
 
@@ -952,7 +960,7 @@ From {{der|pro|la|et}}.
 ====Determiner====
 {{head|pon|determiner}}
 
-# his, her, hers, its (third person possessive pronoun)
+# [[his]], [[her]], [[hers]], [[its]], third person possessive pronoun
 #: {{ux|pon|Liho iang '''eh''' pwoud.|The woman joined her husband.}}
 
 ===Etymology 3===
@@ -961,7 +969,7 @@ Of {{onomatopoeic|lang=pon}} origin.
 ====Interjection====
 {{head|pon|interjection}}
 
-# what (in response to being called)
+# [[what]], in response to being called
 
 ----
 
@@ -989,22 +997,22 @@ From {{inh|pt|roa-opt|e||and}}, from {{inh|pt|la|et||and}}, from {{inh|pt|ine-pr
 ====Conjunction====
 {{head|pt|conjunction}}
 
-# {{senseid|pt|clause connector}} and (connects two clauses indicating that the events occurred together, one after the other or without any special implication)
+# {{senseid|pt|clause connector}} {{l|en|and}} {{gloss|connects two clauses indicating that the events occurred together, one after the other or without any special implication}}
 #: {{ux|pt|Eu vim '''e''' eles saíram.|I came '''and''' they left.}}
 #* {{RQ:Harry Potter|7|pt-BR|page=211}}
 #*: Mandaram lacrar todas as saídas '''e''' não deixar ninguém...
 #*:: They ordered me to seal all the exits and not to let anyone...
-# {{senseid|pt|final element connector}} and (connects the last and penultimate elements in a list)
+# {{senseid|pt|final element connector}} {{l|en|and}} {{gloss|connects the last and penultimate elements in a list}}
 #: {{ux|pt|Eu '''e''' ele vamos embora.|He '''and''' I are going away.}}
 #: {{ux|pt|Tenho quatro frutas: uma maçã, uma pera, uma laranja '''e''' uma uva.|I have four fruits: an apple, a pear, an orange '''and''' a grape.}}
-# {{senseid|pt|emphatic element connector}} {{lb|pt|emphatic}} and (connects every element of a list)
+# {{senseid|pt|emphatic element connector}} {{lb|pt|emphatic}} {{l|en|and}} {{gloss|connects every element of a list}}
 #* {{RQ:Harry Potter|5|pt-BR|page=308}}
 #*: Você notou os cabelos dela, são negros '''e''' brilhantes '''e''' macios...
 #*:: You noticed her hair, it's dark and brilliant and soft...
 #: {{ux|pt|Ela é baixa, '''e''' burra, '''e''' preguiçosa, '''e''' feia.|She is short, '''and''' stupid, '''and''' lazy, '''and''' ugly.}}
-# {{senseid|pt|conjunction}} {{lb|pt|logic}} and (indicates a conjunction operation)
+# {{senseid|pt|conjunction}} {{lb|pt|logic}} {{l|en|and}} {{gloss|indicates a conjunction operation}}
 #: {{ux|pt|Verdadeiro '''e''' falso dá falso.|True '''and''' false yields false.}}
-# {{senseid|pt|a great number of}} {{lb|pt|in the format “X e X”}} and (indicates a great number of something)
+# {{senseid|pt|a great number of}} {{lb|pt|in the format “X e X”}} {{l|en|and}} {{gloss|indicates a great number of something}}
 #: {{ux|pt|Esperei por anos '''e''' anos.|I waited for years '''and''' years.}}
 
 =====Quotations=====
@@ -1016,7 +1024,7 @@ From {{inh|pt|roa-opt|e||and}}, from {{inh|pt|la|et||and}}, from {{inh|pt|ine-pr
 ====Noun====
 {{pt-noun|m|-}}
 
-# {{lb|pt|logic}} and, conjunction
+# {{lb|pt|logic}} [[and]], [[conjunction]]
 
 ====Quotations====
 {{seeCites}}
@@ -1041,7 +1049,7 @@ From {{inh|pt|roa-opt|e||and}}, from {{inh|pt|la|et||and}}, from {{inh|pt|ine-pr
 ====Noun====
 {{pt-noun|m|-}}
 
-# {{abbreviation of|este|lang=pt|dot=}} (east)
+# {{abbreviation of|este|lang=pt|dot=}} {{gloss|east}}
 
 ----
 
@@ -1062,7 +1070,7 @@ Only used with sensing verbs; otherwise use {{l|rap|i}}.
 ===Conjunction===
 {{head|rgn|conjunction}}
 
-# and
+# {{l|en|and}}
 
 ----
 
@@ -1071,8 +1079,8 @@ Only used with sensing verbs; otherwise use {{l|rap|i}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* ''(letter name)'' {{IPA|/e/|lang=ro}}
-* ''(phoneme|generally)'' {{IPA|/e/|lang=ro}}
+* {{qualifier|letter name}} {{IPA|/e/|lang=ro}}
+* {{qualifier|phoneme|generally}} {{IPA|/e/|lang=ro}}
 
 ====Letter====
 {{head|ro|letter|lower case||upper case|E}}
@@ -1089,9 +1097,9 @@ See {{m|ro|E}} for pronunciation notes and details.
 ====Interjection====
 {{head|ro|interjection}}
 
-# expression of annoyance, irritation
-# expression of boredom, indifference
-# ''(when prolonged''...'''eee''') surprise, satisfaction, admiration
+# expression of [[annoyance]], [[irritation]]
+# expression of [[boredom]], [[indifference]]
+# ''(when prolonged''...'''eee''') [[surprise]], [[satisfaction]], [[admiration]]
 
 ===Etymology 2===
 
@@ -1103,13 +1111,13 @@ See {{m|ro|E}} for pronunciation notes and details.
 {{head|ro|verb form}}
 
 # {{lb|ro|informal}} {{ro-form-verb|3s|pres|fi}}
-#: ''El '''e''' un [[copil]].''
+#: ''[[el|El]] '''e''' [[un]] [[copil]].''
 #:: "He is a child."
 
 =====Synonyms=====
 * {{l|ro|este}}
-* ''(regional)'' {{l|ro|îi}}
-* ''(familiar)'' {{l|ro|-i}}
+* {{qualifier|regional}} {{l|ro|îi}}
+* {{qualifier|familiar}} {{l|ro|-i}}
 
 ===Etymology 3===
 From {{der|ro|ro|et}}.
@@ -1117,12 +1125,12 @@ From {{der|ro|ro|et}}.
 ====Conjunction====
 {{head|ro|conjunction}}
 
-# {{lb|ro|obsolete}} and
-# {{lb|ro|obsolete}} but
+# {{lb|ro|obsolete}} [[and]]
+# {{lb|ro|obsolete}} [[but]]
 
 =====Synonyms=====
-* ''(and)'' {{l|ro|și}}
-* ''(but)'' {{l|ro|dar}}, {{l|ro|iar}}
+* {{sense|and}} {{l|ro|și}}
+* {{sense|but}} {{l|ro|dar}}, {{l|ro|iar}}
 
 ----
 
@@ -1131,7 +1139,7 @@ From {{der|ro|ro|et}}.
 ===Preposition===
 {{head|sm|preposition}}
 
-# by (a person or animate object)
+# [[by]] (a person or animate object)
 
 ----
 
@@ -1146,12 +1154,12 @@ From {{inh|gd|sga|[[é]], [[hé]]}}, from {{inh|gd|ine-pro|*éy}}.
 ===Pronoun===
 {{head|gd|pronoun}}
 
-# he
-# him
-# ''(referring to a masculine noun)'' it
+# [[he]]
+# [[him]]
+# {{qualifier|referring to a masculine noun}} [[it]]
 
 ====Related terms====
-* {{l|gd|esan}} ''(emphatic)''
+* {{l|gd|esan}} {{qualifier|emphatic}}
 
 ====See also====
 {{top2}}
@@ -1179,7 +1187,7 @@ See [[#Translingual|Translingual section]].
 * (''uppercase''): {{l|sh|E}}
 
 ====Pronunciation====
-* ''(phoneme)'' {{IPA|/e/|lang=sh}}
+* {{qualifier|phoneme}} {{IPA|/e/|lang=sh}}
 
 ====Letter====
 {{sh-letter}}
@@ -1195,8 +1203,8 @@ Variant of {{m|sh|ej}} or {{m|sh|hej}}
 ====Interjection====
 {{sh-interjection}}
 
-# {{lb|sh|rare}} well, now
-# {{lb|sh|informal|at the beginning of the sentence}} hey
+# {{lb|sh|rare}} [[well]], [[now]]
+# {{lb|sh|informal|at the beginning of the sentence}} [[hey]]
 # {{lb|sh|informal|at the beginning of the sentence}} {{non-gloss|Used to emphasize the sentence}}
 #: {{ux|sh|'''E''', šta ima?|'''Hey''', what's up?|inline=y}}
 # {{lb|sh|informal|at the beginning of the sentence}} {{non-gloss|Used to express surprise}}
@@ -1209,7 +1217,7 @@ Variant of {{m|sh|ej}} or {{m|sh|hej}}
 ==Skolt Sami==
 
 ===Pronunciation===
-* ''(phoneme)'' {{IPA|/e/|/ɛ/|lang=sms}}
+* {{qualifier|phoneme}} {{IPA|/e/|/ɛ/|lang=sms}}
 
 ===Letter===
 {{head|sms|letter|upper case|E}}
@@ -1244,12 +1252,12 @@ Variant of {{m|sh|ej}} or {{m|sh|hej}}
 
 ====Alternative forms====
 * {{l|es|y}}
-* {{l|es|é}} ''(obsolete)''
+* {{l|es|é}} {{qualifier|obsolete}}
 
 ====Conjunction====
 {{head|es|conjunction}}
 
-# and
+# [[and]]
 #: {{ux|es|Yo hablo francés '''e''' inglés.|t=I speak French '''and''' English.}}
 
 =====Usage notes=====
@@ -1291,7 +1299,7 @@ Used instead of {{m|es|y}} when the following word starts with the vowel sound {
 ===Particle===
 {{head|ty|particle}}
 
-# indicates that an action is unfinished when inserted before the verb
+# indicates that an action is [[unfinished]] when inserted before the verb
 
 ----
 
@@ -1300,7 +1308,7 @@ Used instead of {{m|es|y}} when the following word starts with the vowel sound {
 ===Pronoun===
 {{head|tio|pronoun}}
 
-# him, her, it (third-person pronoun, objective case, singular)
+# [[him]], [[her]], [[it]] (third-person pronoun, objective case, singular)
 
 ====External links====
 * https://corpus1.mpi.nl/media-archive/dobes_data/Teop/Info/Teop_Sketch_Grammar_May07.pdf
@@ -1313,7 +1321,7 @@ Used instead of {{m|es|y}} when the following word starts with the vowel sound {
 ===Preposition===
 {{head|to|preposition}}
 
-# by
+# [[by]]
 
 ----
 
@@ -1340,7 +1348,7 @@ Used instead of {{m|es|y}} when the following word starts with the vowel sound {
 ==Turkmen==
 
 ===Pronunciation===
-* ''(phoneme)'' {{IPA|/e/|lang=tk}}
+* {{qualifier|phoneme}} {{IPA|/e/|lang=tk}}
 
 ===Letter===
 {{head|tk|letter|upper case|E}}
@@ -1379,9 +1387,9 @@ Borrowed from {{bor|vi|pt|é|notext=1}}.
 ====Verb====
 {{vi-verb|{{vi-l|衣}}, {{vi-l|㥋}}, {{vi-l|𢙬}}, {{vi-l|𠵱}}, {{vi-l|𠲖}}, {{vi-l|依}}}}
 
-# to fear; to be [[apprehensive]], to be afraid
+# to [[fear]]; to be [[apprehensive]], to be [[afraid]]
 #: {{ux|vi|Tôi '''e''' cô ta không đến.|I am afraid she will not come.}}
-# to be slightly ashamed
+# to be slightly [[ashamed]]
 
 =====Derived terms=====
 * {{vi-l|e rằng}}
@@ -1402,19 +1410,19 @@ Borrowed from {{bor|vi|pt|é|notext=1}}.
 ===Noun===
 {{wym-noun|n}}
 
-# egg
+# [[egg]]
 
 ----
 
 ==Volapük==
 
 ===Alternative forms===
-* ''(before a vowel)'' {{l|vo|ed}}
+* {{qualifier|before a vowel}} {{l|vo|ed}}
 
 ===Conjunction===
 {{head|vo|conjunction}}
 
-# and
+# [[and]]
 
 ====Related terms====
 * {{l|vo|ü}}, {{l|vo|üd|gloss=or}}
@@ -1429,7 +1437,7 @@ Borrowed from {{bor|vi|pt|é|notext=1}}.
 ===Pronoun===
 {{head|cy|pronoun|cat2=personal pronouns}}
 
-# he, him
+# [[he]], [[him]]
 
 ====Usage notes====
 ''E'' is used predominantly in the south of Wales, while {{m|cy|o}} is used in the north. {{m|cy|fe}} and {{m|cy|fo}} are variants of {{m|cy||e}} and {{m|cy|o}} respectively.
@@ -1444,12 +1452,12 @@ Borrowed from {{bor|vi|pt|é|notext=1}}.
 ===Interjection===
 {{head|zza|interjection}}
 
-# yes
+# [[yes]]
 
 ===Particle===
 {{head|zza|particle}}
 
-# yes
+# [[yes]]
 
 ====Antonyms====
 * {{l|zza|nê}}
