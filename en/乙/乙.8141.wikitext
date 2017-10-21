@@ -78,71 +78,93 @@
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|乙子|おとご}}
 * {{ja-r|乙種|おつしゅ}}
 * {{ja-r|乙巡|おつじゅん}}
 * {{ja-r|乙女|おとめ}}
 * {{ja-r|乙姫|おとひめ}}
 * {{ja-r|乙夜|いつや}}, {{ja-r|乙夜|おつや}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|おつ|yomi=o}}
-{{rfe|ja}}
+
+Originally from {{der|ja|ltc|sort=おつ|-}} {{ltc-l|乙}}, arising from the proper noun sense.  Appears in texts from at least 833 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|acc=0|y=go|おつ}}
-
-====Adjectival noun====
-{{ja-adj|infl=na|おつ}}
-
-# [[strange]]
-# [[interestingly]] strange, [[spicy]]
-
-=====Inflection=====
-{{ja-na|おつ}}
-
-===Etymology 2===
-{{ja-kanjitab|おつ|yomi=o}}
-From {{der|ja|ltc|tr=ʔit|乙|sort=おつ}}
-
-====Pronunciation====
-{{ja-pron|acc=1|acc2=0|y=go|おつ}}
-
-===Noun===
-{{ja-noun|おつ}}
-
-# the [[second]]
-# the [[latter]]
+{{ja-pron|yomi=goon|おつ|acc=1|acc_ref=DJR}}
 
 ====Proper noun====
 {{wp|lang=ja}}
 {{ja-pos|proper|おつ}}
 
-# the second of the ten {{w|Celestial stem|Heavenly Stems}}
+# the {{l|en|second}} of the ten {{w|Celestial Stems}}
 
 {{topics|ja|Heavenly Stems|sort=おつ}}
 
-===Interjection===
+====Noun====
+{{ja-noun|おつ}}
+
+# the {{l|en|second}} item of any ordered {{l|en|list}}
+# {{lb|ja|sort=おつ|music}} one {{l|en|tone}} lower than the {{l|en|note}} indicated by {{m|ja|甲|tr=kō||the first of something}}
+# {{lb|ja|sort=おつ|by extension from the musical sense}} a lower, {{l|en|sonorous}} and {{l|en|moving}} {{l|en|sound}} or {{l|en|tone}}
+# {{lb|ja|sort=おつ|noh|_|theatre}} in {{l|en|noh}} {{l|en|musical}} {{l|en|accompaniment}}, a specific kind of {{l|en|muffled}} {{l|en|drum}} {{l|en|beat}} played by striking the {{l|en|head}} of the {{l|en|taiko}}
+ {{l|en|drum}} and keeping the {{l|en|mallet}} pressed against the {{l|en|head}}
+# {{lb|ja|sort=おつ|Kansai|_|dialect|slang}} a {{l|en|stupid}} person, someone who is {{l|en|slow}} on the {{l|en|uptake}}
+# {{lb|ja|sort=おつ|rare|possibly|_|archaic}} the {{l|en|state}} or {{l|en|circumstances}} of a thing
+# {{lb|ja|sort=おつ|rare|possibly|_|archaic}} {{l|en|dressing up}} in an odd fashion
+
+===Etymology 2===
+{{ja-kanjitab|おつ|yomi=o}}
+
+By extension from the {{m|en|moving}} {{m|en|tone}} noun sense.  Appears in texts from the late {{w|Edo period}}, in the early 1800s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=goon|おつ|acc=0|acc_ref=DJR}}
+
+====Adjective====
+{{ja-adj|infl=na|おつ}}
+
+# {{l|en|out of the ordinary}}, {{l|en|strange}} or {{l|en|unusual}} in an {{l|en|interesting}} or {{l|en|stylish}} way
+# {{l|en|strange}}, {{l|en|odd}}, {{l|en|weird}}
+#* {{w|:ja:東海道中膝栗毛}} (''{{w|Tōkaidōchū Hizakurige}}'', “Footing It along the Tokaido Road”, or “Shank's Mare”), serial published '''1802-1814''':
+#*: {{ja-usex|ヲヤ弥次さん、'''おつ'''な手つきをしておめへ何をする|ヲヤ やじ-さん、 '''おつ''' な 手つき を して おめへ 何 を する|rom=Oya Yaji-san, '''otsu''' na tetsuki o shite omē nani o suru|Oy, Yaji, what do you think you're doing with your '''weird''' way of using your hands?}}
+
+=====Inflection=====
+{{ja-na|おつ}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|おつ}}
+
+Derived as aggressive clipping of {{m|ja|お疲れ様です|tr=otsukaresama desu|lit=that's honorable exhaustion (from hard work)|pos=used as a kind of greeting at work}}.  The use of {{lang|ja|乙}} for the spelling is an example of {{l|en|phonetic}} {{ja-ateji|sort=おつ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|おつ}}
+
+====Interjection====
 {{ja-pos|おつ|interjection}}
 
-# {{lb|ja|internet slang}} {{clipping of|お疲れ様です|tr=otsukaresama desu|lang=ja}}
+# {{lb|ja|internet slang}} {{clipping of|lang=ja|sort=おつ|お疲れ様です|tr=otsukaresama desu}}
 
 ====Derived terms====
 * {{ja-r|うぽつ}}, {{ja-r|うｐ乙|うｐおつ}}
 
-===Etymology 3===
+===Etymology 4===
 {{ja-kanjitab|きのと|yomi=k}}
-{{com|ja|木|の|弟|tr1=Ki|t1={{w|Wood (Wu Xing)|Wood}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=oto|t3=[[younger brother]]|sort=きのと}}
+
+Compound of {{com|ja|sort=きのと|木|tr1=Ki|t1={{w|Wood (Wu Xing)|Wood}}|pos1=one of the {{w|Wu Xing|Five Elements}}|の|tr2=no|pos2=attributive marker|弟|tr3=oto|t3=[[younger brother]]}}.
 
 ====Pronunciation====
-{{ja-pron|acc=2|y=k|きのと}}
+{{ja-pron|yomi=k|きのと|acc=2|acc_ref=DJR}}
 
 ====Proper noun====
 {{ja-pos|proper|きのと}}
 
 # the second of the ten {{w|Celestial stem|Heavenly Stems}}
 
-{{cln|ja|words with multiple readings}}
+===References===
+<references/>
 
 ----
 
