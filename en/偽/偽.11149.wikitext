@@ -54,22 +54,76 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=人09|kyu=僞}}
 
-# False, imposter, counterfeit
+# [[falsehood]], [[lie]]
+# [[deceive]]
+# [[pretend]]
+# [[counterfeit]],  [[forgery]] 
 
 ====Readings====
 {{ja-readings
 |goon=が<ぐわ, ぎ<ぎ<ぐゐ
 |kanon=が<ぐわ, ぎ<ぎ<ぐゐ
 |kanyoon=か<くわ
-|kun=いつわ-る<いつは-る, にせ-<!--, いつわ-り<いつは-り-->
+|kun=いつわ-る<いつは-る, にせ-
 }}
-
-{{attention|ja|"itsuwari" is continuative/noun form of "itsuwaru", it may need to have an etymology here or a new entry linked from here and "itsuwaru"}}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|偽薬|ぎやく}}: [[placebo]]
+* {{ja-r|偽%装|ぎ%そう|[[camouflage]]; [[pretense]]}}
+* {{ja-r|偽%造|ぎ%ぞう|[[counterfeit]]ing}}
+* {{ja-r|偽%善|ぎ%ぜん|[[hypocrisy]]|}}
+* {{ja-r|偽%薬|ぎ%やく|[[placebo]]}}
+* {{ja-r|虚%偽|きょ%ぎ}}, {{ja-r|虚偽|こぎ|[[falsehood]]; [[fallacy]]}}
+* {{ja-r|詐偽|さぎ|[[lie]]|}}
+* {{ja-r|真%偽|しん%ぎ|[[authenticity]], [[veracity]]}}
 {{der-bottom}}
+
+====See also====
+* {{ja-r|偽り|いつわり}}
+
+===Etymology 1===
+{{ja-kanjitab|ぎ|yomi=o}}
+{{IPAchar|/ɡwi/}} → {{IPAchar|/ɡi/}}
+
+From {{der|ja|ltc|sort=ぎ|-}} {{ltc-l|僞}}.
+
+====Pronunciation====
+{{ja-pron|y=o|ぎ|acc=1|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-noun|kyu=僞|ぎ}}
+# {{lb|ja|logic|sort=き}} [[false]]
+
+=====Derived terms=====
+* {{ja-r|偽%名|ぎ%めい|false [[name]]}}
+
+===Etymology 2===
+{{ja-kanjitab|にせ|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|似せる|tr=niseru||[[copy]], [[imitate]], [[forge]]}}. {{rfv-etymology|ja}}
+
+====Alternative forms====
+* {{ja-l|贋}}
+
+====Pronunciation====
+{{ja-pron|y=k|にせ|acc=0|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-noun|kyu=僞|にせ|ニセ}}
+# [[imitation]], [[fake]]
+# [[counterfeit]], [[forgery]]
+
+====Prefix====
+{{ja-pos|prefix|kyu=僞|にせ|ニセ}}
+# [[pseudo-]]
+
+=====Usage notes=====
+* {{U:ja:informal|ニセ}}
+
+=====Derived terms=====
+* {{ja-r|偽物|にせもの}}
+
+===References===
+<references/>
 
 ----
 
