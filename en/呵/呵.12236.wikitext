@@ -5,10 +5,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=05|sn=8|four=61020|canj=RMNR|ids=⿰口可}}
 
-# [[scold]]
-# [[laughing]] [[sound]]
-# [[yawn]]
-
 ====References====
 * {{Han ref|kx=0183.020|dkj=03459|dj=0402.030|hdz=10598.100|uh=5475|ud=21621|bh=A8FE|bd=43262}}
 
@@ -19,55 +15,29 @@
 
 ===Glyph origin===
 {{Han etym}}
-<!--Please check the pronouncion in dialects and old/middle Chinese, and then remove this comment
-{{zh-pron
-|m=hē,ē
-|c=ho1,ho2,o1
-|h=pfs=
-|md=
-|mn=ml:ho/tw:o
-|mn_note=ho - literary; o - 阿 is used in the Mainland
-|w=
-|mc=y
-|oc=y
-|cat=
-}}
--->
 
 ===Etymology 1===
 
 ====Pronunciation 1====
 {{zh-pron
 |m=hē
+|c=ho1,ho2
 |cat=v,adv,interj
-|mc=1
-|oc=1,2
+|mc=2
+|oc=1
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # to [[berate]]
 # to [[shout]]
-# sound of laugh
+# {{lb|zh|onomatoepia}} sound of laugh
 # interjection to express surprise
 # to [[breathe]]
 
-====Pronunciation 2====
-<!--呼箇切-->
-{{zh-pron
-|m=hē
-|cat=v
-|mc=2
-|oc=n,1
-}}
-
-=====Definitions=====
-{{zh-hanzi}}
-# to expel breath
-
-=====Derived terms=====
-{{zh-der|一气呵成}}
+===Compounds===
+{{zh-der|呵責|呵斥|一氣呵成|呵呵|呵哈|呵護|樂呵呵|呵欠|打呵欠|呵喝|斥呵|呵禁|呵護備至|笑呵呵|精心呵護|呵氣}}
 
 ===Etymology 2===
 {{zh-see|哈|v}}
@@ -77,24 +47,27 @@
 
 ===Etymology 4===
 
-====Pronunciation====
+====Pronunciation 2====
 {{zh-pron
 |m=kē
+|c=ho1,ho2
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
-# used for transcription
+
+# {{non-gloss|Used in transliteration.}}
 
 ====Derived terms====
 {{zh-der|呵羅單|呵叻}}
 
 ===Etymology 5===
 
-====Pronunciation====
+===Pronunciation 3===
 {{zh-pron
 |m=huō
+|c=ho1,ho2
 |cat=v
 }}
 
@@ -102,6 +75,9 @@
 {{zh-hanzi}}
 
 # to [[cheat]]
+
+===Etymology 6===
+{{zh-see|訶|ss}}
 
 ----
 
