@@ -30,18 +30,30 @@
 |goon=だん
 |kanon=たん
 |toon=とん
-|kun=かたまり-, まどか-, まる-い
+|kun=かたまり-, まる-い
 |nanori=あつ, まろ
 }}
 
 ===Etymology===
 {{ja-kanjitab|だん|yomi=o}}
-{{rfe|ja}}
 
-====Suffix====
+From {{der|ja|ltc|sort=たん'|-}} {{ltc-l|團}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|だん|acc=1|acc_ref=DJR}}
+
+===Proper noun===
+{{ja-pos|proper|だん}}
+
+# {{surname|lang=ja|sort=だん|A=a|dot=}}
+
+===Suffix===
 {{ja-pos|suffix|だん|kyu=團}}
 
-# [[group]]; [[team]]; [[gang]]
-#: {{ja-usex|銀%河'''団'''|ぎん%が'''だん'''|a [[galaxy cluster]]}}
-#: {{ja-usex|ロケット'''団'''|^ロケット-'''だん'''|{{w|Team Rocket}}}}
-#: {{ux|ja|CLAMP学園探偵'''団'''|tr=Kuranpu Gakuen Tantei'''dan'''|{{w|Clamp School Detectives|Clamp Academy Detectives}}}}
+# {{l|en|group}}, {{l|en|team}}, {{l|en|gang}}
+#: {{ja-usex|銀%河'''団'''|ぎん%が'''だん'''|a {{l|en|galaxy cluster|galaxy '''cluster'''}}}}
+#: {{ja-usex|ロケット'''団'''|^ロケット-'''だん'''|{{w|Team Rocket|'''Team''' Rocket}}}}
+#: {{ux|ja|CLAMP学園探偵'''団'''|tr=Kuranpu Gakuen Tantei'''dan'''|{{w|Clamp School Detectives|Clamp Academy Detective'''s'''}}}}
+
+===References===
+<references/>
