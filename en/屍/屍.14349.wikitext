@@ -56,32 +56,44 @@
 
 ===Etymology 1===
 {{ja-kanjitab|かばね|yomi=k}}
-{{rfe|ja}}
+
+From {{inh|ja|ojp|sort=かばね|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|18|4094}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4094 here]</ref>
+
+Appears to be a compound.  Ultimate derivation {{unk|lang=ja|sort=かばね|nocap=1}}.
 
 ====Pronunciation====
-{{ja-pron|acc=0|かばね|y=k}}
+{{ja-pron|yomi=k|かばね|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸所|tr=kabane-dokoro}}}}
 
 ====Noun====
 {{ja-noun|かばね}}
 
-# a [[corpse]]; a [[cadaver]]
+# a {{l|en|corpse}}, a {{l|en|cadaver}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|しかばね}}
-Perhaps a contraction of {{m|ja|死に屍|tr=shinikabane|lit=[[dead]] [[corpse]]}}. See also {{m|ja|死ぬ|tr=shinu||to [[die]]}}.
-{{rfe|ja}}
+
+Compound of {{compound|lang=ja|sort=しかばね|死|tr1=shi|t1=death; dead|屍|tr2=kabane|t2=corpse}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Not used in the ''{{w|Man'yōshū}}''; appears to be a later development.
 
 ====Pronunciation====
-{{ja-pron|acc=0|y=k|しかばね|dev=1}}
+{{ja-pron|yomi=k|しかばね|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸冠|tr=shikabane kanmuri}}}}
 
 ====Noun====
 {{ja-noun|しかばね}}
 
-# a [[corpse]]; a [[cadaver]]
+# a {{l|en|corpse}}, a {{l|en|cadaver}}
 #* {{quote-book||date=Jul 5 2014||{{lang|ja|決闘王の記憶 －決闘都市編－}}|trans-title=Memories of the Duel King: Battle City Edition|chapter={{ruby|{{lang|ja|オベリスクの[巨](きょ)[神](しん)[兵](へい)}}}}|trans-chapter=Obelisk the Giant God Soldier|language=Japanese|publisher={{w|Konami}}|||{{ja-usex|その者、降%臨せしむれば、灼%熱の疾%風%大%地に吹き荒れ、生きとし生ける者すべて'''屍'''とならん。|^その もの、こう%りんせし むれば、しゃく%ねつ の しっ%ぷう% だい%ち に ふきあれ、いきとし.いける もの すべて '''しかばね''' とならん。|Once this being descends with burning winds sweeping over the land, all living things shall turn into '''corpses'''.}}}}
 
 ====Synonyms====
 * See [[Thesaurus:しかばね]]
+
+===References===
+<references/>
 
 {{cln|ja|words with multiple readings}}
 {{C|ja|Death|sort=しかばね}}
