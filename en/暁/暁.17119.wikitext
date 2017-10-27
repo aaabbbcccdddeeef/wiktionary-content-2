@@ -19,37 +19,111 @@
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=日08|kyu=曉}}
+# [[daybreak]], [[dawn]]
+# [[in the event]]
 
 ====Readings====
-* {{ja-readings|goon=きょう<けう|kanon=きょう<けう|kanyoon=ぎょう<げう|kun=あかつき-, さと-る|nanori=あきら, あけ, さとる, てる}}
+{{ja-readings
+|goon=きょう<けう
+|kanon=きょう<けう
+|kanyoon=ぎょう<げう
+|kun=あかつき-, さと-る
+|nanori=あきら, あけ, あつき, さとる, てる, ゆたか
+}}
 
 ===Etymology 1===
-Compound of {{m|ja|明|tr=aka||bright}} and {{m|ja|時|tr=toki||time}}.
+{{ja-kanjitab|あかとき|yomi=k}}
+{{IPAchar|/aka toki<sub>1</sub>/}} → {{IPAchar|/akatoki/}}
 
-====Noun====
-{{ja-noun|あかとき}}
-
-# [[dawn]], [[daybreak]]
-
-===Etymology 2===
-From {{m|ja|暁|tr=akatoki}}.
+From {{inh|ja|ojp|sort=あかとき|-}}. Compound of {{m|ja|明|tr=aka||[[bright]]}} and {{m|ja|時|tr=toki||[[time]]}}.<ref name=DJR>{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-* {{ja-pron|あかつき|dev=3|acc=0}}
+{{ja-pron|y=k|あかとき}}
 
 ====Noun====
-{{ja-noun|あかつき}}
+{{ja-noun|kyu=曉|あかとき}}
+
+# {{lb|ja|archaic|possibly|_|obsolete|sort=あかとき}} [[dawn]], [[daybreak]]
+#: {{RQ:Manyoshu|18|4084}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo#4084.html here]
+#:: {{ja-usex|m='''安可登吉'''尓 名能里奈久奈流 保登等藝須 伊夜米豆良之久 於毛保由流香母|m_kana='''あかとき'''に なのりなくなる ほととぎす いやめづらしく おもほゆるかも|'''暁'''に名告り鳴くなる霍公鳥いやめづらしく思ほゆるかも|'''あかとき''' に な-のり なくなる ほととぎす いや めづらしく おもほゆるかも|rom='''akatoki''' ni nanori nakunaru {{ll|ja|ほととぎす|hototogisu}} iya mezurashiku omōyuru kamo}}
+
+=====Derived terms=====
+* {{ja-r|暁%闇|あかとき%-やみ|[[moonless]] dawn}}
+
+===Etymology 2===
+{{ja-kanjitab|あかつき|yomi=k}}
+{{IPAchar|/akatoki/}} → {{IPAchar|/akatuki/}} → {{IPAchar|/akat͡suki/}}
+
+Sound change from ''akatoki'' above.<ref name=DJR>{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=k|あかつき|dev=3|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=曉|あかつき}}
 
 # [[dawn]], [[daybreak]]
-#* {{RQ:Konkōmyō Saishōōkyō Ongi|8 (back)}}
-#*: 天暁 '''アカツキ'''
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|8 (back)}}<ref>{{R:Konkōmyō Saishōōkyō Ongi}}</ref>
+#*: {{lang|ja|天暁 '''アカツキ'''}}
+#: '''905''', ''{{w|Kokin Wakashū}}'' (book 13, poem 625; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 30)
+#:: {{ja-usex|有明のつれなく見えし別れより'''暁'''ばかり憂きものはなし|ありあけ の つれなく みえし わかれ より '''あかつき''' ばかり うきもの は なし|rom={{ll|ja|有明|ariake}} no tsurenaku mieshi wakare yori '''akatsuki''' bakari {{ll|ja|浮き物|ukimono}} wa nashi|Since that parting when I saw that distant look in the late moon's glare, nothing seems more cruel to me than the hours before '''dawn'''.<ref>{{cite-book|1997|{{w|Shōtetsu}}|editor=Steven D. Carter|Unforgotten Dreams: Poems by the Zen Monk Shōtetsu|series=Translations from the Asian classics |edition=illustrated|publisher=Columbia University Press|isbn=0-2311-0576-2|page=38}}</ref>}}
+# [[event]], [[occasion]], [[occurrence]]
 
-===Etymology 3===
+=====Synoynms=====
+* {{sense|dawn}} {{ja-r|夜明け|よあけ}}
+* {{sense|dawn}} {{ja-r|夜明け方|よあけ-がた}}
+
+=====Derived terms=====
+* {{ja-r|暁%起き|あかつき%-おき|waking up just before daybreak}}
+* {{ja-r|暁の空|あかつき の そら|dawning [[sky]]}}
+* {{ja-r|暁%闇|あかつき%-やみ|[[moonless]] dawn}}
+* {{ja-r|成功の暁には|せいこう の あかつき に は|when one has [[succeed]]ed}}
+
+=====Proverbs=====
+* {{ja-r|春眠 暁 を 覚えず|しゅんみん あかつき を おぼえず}}
 
 ====Proper noun====
+{{ja-pos|proper|あかつき}}
+
+# {{given name|female|lang=ja|sort=あかつき}}
+# {{surname|lang=ja|sort=あかつき}}
+
+===Etymology 3===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|あかな}}
+
+# {{given name|female|lang=ja|sort=あかな}}
+
+{{ja-pos|proper|あき}}
+
+# {{given name|female|lang=ja|sort=あき}}
+# {{surname|lang=ja|sort=あき}}
+
+{{ja-pos|proper|あきら}}
+
+# {{given name|female|lang=ja|sort=あきら}}
+
+{{ja-pos|proper|きょう|hhira=けう}}
+
+# {{given name|unisex|lang=ja|sort=きよう}}
+
+{{ja-pos|proper|ぎょう|hhira=げう}}
+
+# {{given name|female|lang=ja|sort=きよう'}}
+
+{{ja-pos|proper|さとし}}
+
+# {{given name|male|lang=ja|sort=さとし}}
+
 {{ja-pos|proper|さとる}}
 
-# {{given name|male|lang=ja|sort=さとる}}
+# {{given name|unisex|lang=ja|sort=さとる}}
+
+{{ja-pos|proper|とおる}}
+
+# {{given name|unisex|lang=ja|sort=とおる}}
 
 ===References===
-* {{R:Konkōmyō Saishōōkyō Ongi}}
+<references/>
