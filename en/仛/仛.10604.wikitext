@@ -18,9 +18,32 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
+{{zh-pron
+|m=chà
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|姹|[[young]] [[girl]]}}
+# [[haughty]]; [[extravagant]] <!-- 《玉篇》驕逸也 -->
+
+===Pronunciation 2===
 {{zh-pron
 |m=tuō
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|侂|to [[depend]]}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=duó
 |c=tok3
 |mc=y
 |oc=y
@@ -28,7 +51,12 @@
 |cat=n,a
 }}
 
-====References====
+====Definitions====
+{{zh-hanzi}}
+
+# [[other]] <!-- Guangyun and Jiyun: 他也 -->
+
+===References===
 * (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]
 
 ----
@@ -41,7 +69,19 @@
 # {{defn|lang=ja|sort=人03}}
 
 ====Readings====
-* {{ja-readings|on=[[た]] (ta), [[たく]] (taku)|kun=[[おとめ]] (otome), [[よる]] (yoru)}}
+“Young girl”:
+{{ja-readings
+|goon=た
+|kanon=た
+|kun=おとめ-<をとめ-
+}}
+
+“To depend”:
+{{ja-readings
+|goon=だく
+|kanon=たく
+|kun=よ-る
+}}
 
 ----
 
