@@ -89,13 +89,119 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木05}}
 
-# {{defn|lang=ja|sort=木05}}
+# [[citron]]
 
 ====Readings====
 {{ja-readings
-|on=ゆ
+|goon=じく<ぢく, ゆ
+|kanon=ちく, ゆう<いう
 |kun=ゆず-
 }}
+
+====Compounds====
+* {{ja-r|晩%白%柚|バン%ペイ%ユ|{{w|banpeiyu}}}}
+
+===Etymology 1===
+{{ja-kanjitab|ゆ|yomi=o}}
+From {{der|ja|ltc|sort=ゆ|-}} {{ltc-l|柚|id=1}}. The ''{{ll|ja|呉音|goon}}'' pronunciation, so likely an earlier borrowing.
+
+Found in the ''{{w|Wamyō Ruijushō}}'':<ref name=DJR>{{R:Daijirin}}</ref>
+
+:{{lang|ja|'''柚'''　爾雅集注云柚（音由又以臰反）一名樤（音條和名'''由'''）...}}
+
+where {{ja-l|由}} is the ''{{w|man'yōgana}}'' form of {{ja-l|ゆ}}.
+
+====Pronunciation====
+{{ja-pron|y=go|ゆ}}
+
+====Noun====
+{{ja-noun|ゆ}}
+
+# {{lb|ja|possibly|_|obsolete|sort=ゆ}} [[yuzu]] (''{{w|Citrus junos}}'')
+
+=====Derived terms=====
+* {{ja-r|柚餅子|ゆべし}}
+* {{ja-r|柚%味噌|ゆ%みそ}}
+
+====Proper noun====
+{{ja-pos|proper|ゆ}}
+
+# {{surname|lang=ja|sort=ゆ}}
+
+===Etymology 2===
+{{ja-kanjitab|ゆう|yomi=o}}
+{{IPAchar|/iu/}} → {{IPAchar|/juː/}}
+
+Probably from {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|柚|id=1}}. The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing. {{rfv-etymology|ja}}
+
+Found in the ''{{w|Wakan Sansai Zue}}''.<ref name=DJR>{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=kan|ゆう}}
+
+====Noun====
+{{ja-noun|ゆう|hhira=いう}}
+
+# {{lb|ja|possibly|_|obsolete|sort=ゆう}} [[yuzu]] (''{{w|Citrus junos}}'')
+
+=====Derived terms=====
+* {{ja-r|柚%香%菊|ユウ%カ%-ギク}}
+* {{ja-r|柚%香%焼|ゆう%か%やき|rom=}}, {{ja-r|柚%香%焼き|ゆう%か%やき|[[citrus]]-[[grill]]ed}}
+
+====Proper noun====
+{{ja-pos|proper|ゆう}}
+
+# {{given name|lang=ja|female|sort=ゆう}}
+# {{surname|lang=ja|sort=ゆう}}
+
+===Etymology 3===
+{{wp|lang=ja|ユズ}}
+{{ja-kanjitab|ゆず|yomi=k}}
+Probably a borrowing from {{bor|ja|cmn|柚子|tr=yòuzi|sort=ゆす|notext=1}}. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|ゆず|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ゆず|ユズ}}
+
+# {{altspelling|lang=ja|柚子||[[yuzu]]}}
+
+=====Usage notes=====
+* {{U:ja:biology}}
+
+=====Derived terms=====
+* {{ja-r|柚%茶|ゆず%ちゃ}}
+* {{ja-r|柚坊|ゆずぼう|{{w|swallowtail butterfly}} [[larva]]|pos=pest of citrus plants}}
+* {{ja-r|柚%味噌|ゆず%みそ}}
+
+====Proper noun====
+{{ja-pos|proper|ゆず}}
+
+# {{given name|lang=ja|female|sort=ゆず}}
+
+===Etymology 4===
+Other various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|ゆい}}
+
+# {{given name|lang=ja|female|sort=ゆ}}
+
+{{ja-pos|proper|ゆざき}}
+
+# {{surname|lang=ja|sort=ゆさき}}
+
+{{ja-pos|proper|ゆずさき}}
+
+# {{surname|lang=ja|sort=ゆすさき}}
+
+{{ja-pos|proper|ゆに}}
+
+# {{given name|lang=ja|female|sort=ゆに}}
+
+===References===
+<references/>
 
 ----
 
