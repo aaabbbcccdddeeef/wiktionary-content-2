@@ -44,25 +44,98 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木05}}
 
-# [[holly olive]], ''Osmanthus heterophyllus''
+# [[holly]]
 
 ====Readings====
 {{ja-readings
 |goon=しゅ<しゆ
 |kanon=しゅう<しゆう
 |kun=ひいらぎ-<ひひらぎ-, ひらぎ-
-|nanori=らぎ
+|nanori=ひい<ひひ, らぎ
 }}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|ひいらぎ|yomi=k}}
+{{IPAchar|*/pi<sub>1</sub>pi<sub>1</sub>ra ki<sub>2</sub>/}} → {{IPAchar|/pipiraɡi/}} → {{IPAchar|/fifiraɡi/}} → {{IPAchar|/hiːraɡi/}}
+
+From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. Originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=obsolete}} + {{m|ja|木|tr=ki||[[tree]]}}, from the tree's sharp leaves. {{rfv-etymology|ja}}
+
+{{rfe|ja|extend for 'ponyfish' meaning}}
+
+====Alternative forms====
+* {{sense|holly olive}} {{ja-l|疼木}}
+* {{sense|ponyfish}} {{ja-l|鮗}}
+
+====Pronunciation====
+{{ja-pron|y=k|ひいらぎ|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|ひいらぎ|ヒイラギ|hhira=ひひらぎ|hkata=ヒヒラギ}}
 
-# [[holly olive]], ''Osmanthus heterophyllus''
+# [[holly olive]] (''[[Osmanthus heterophyllus]]''); [[false holly]]
+# {{lb|ja|by extension}} [[holly]]
+# {{w|spotnape ponyfish}} ({{taxlink|Leiognathus nuchalis|species|ver=171028}})​
 
-===Proper noun===
+=====Usage notes=====
+* {{U:ja:biology|ヒイラギ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|柊%鰯|ひいらぎ%-いわし|[[sardine]] and holly [[charm]]}}
+* {{ja-r|ヒイラギ科|ヒイラギ-か|[[Leiognathidae]]}}
+* {{ja-r|柊%挿す|ひいらぎ%さす}}
+* {{ja-r|柊%菜|ヒイラギ%ナ|[[mizuna]]}}
+* {{ja-r|柊%南天|ヒイラギ% ナンテン|{{taxlink|Mahonia japonica|species|ver=171028}}}}
+* {{ja-r|西洋%柊|セイヨウ% ヒイラギ|English holly|pos={{taxlink|Ilex aquifolium|species|ver=171028}}}}
+{{der-bottom}}
+
+====Proper noun====
 {{ja-pos|proper|ひいらぎ|hhira=ひひらぎ}}
 
-# {{surname|lang=ja|sort=ひいらぎ}}
+# {{given name|lang=ja|female|sort=ひいらき}}
+# {{surname|lang=ja|sort=ひいらき}}
+
+===Etymology 2===
+{{ja-kanjitab|ひらぎ|yomi=k}}
+{{IPAchar|/pipiraɡi/}} → {{IPAchar|*/firaɡi/}} → {{IPAchar|/hiraɡi/}}
+
+Shift from ''hīragi'' above. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|ひらぎ}}
+
+====Noun====
+{{ja-noun|ひらぎ|ヒラギ}}
+
+# ''Same as'' {{l|ja||ひいらぎ}} ''above''.
+
+====Proper noun====
+{{ja-pos|proper|ひらぎ}}
+
+# {{surname|lang=ja|sort=ひらき}}
+
+===Etymology 3===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|しゅう}}
+
+# {{given name|lang=ja|female|sort=しゆう}}
+
+{{ja-pos|proper|のえる}}
+
+# {{given name|lang=ja|female|sort=のえる}}
+
+{{ja-pos|proper|ひいら|hhira=ひひら}}
+
+# {{given name|lang=ja|female|sort=ひいら}}
+
+{{ja-pos|proper|ひいらぎさき|hhira=ひひらぎさき}}
+
+# {{surname|lang=ja|sort=ひいらきさき}}
+
+===References===
+<references/>
 
 ----
 
