@@ -43,7 +43,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=山09}}
 
-# [[storm]]
+# [[storm]], [[tempest]]
 
 ====Readings====
 {{ja-readings
@@ -52,16 +52,83 @@
 |kun=あらし-
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|嵐気|らんき|[[mountain]] [[mist]], mountain [[air]]}}
+* {{ja-r|春嵐|しゅんらん|[[spring]] storm}}
+* {{ja-r|翠嵐|すいらん}}
+* {{ja-r|晴嵐|せいらん|mountain [[vapor]]}}
+* {{ja-r|五十嵐|^いがらし|pos=surname, other nanori readings}}
+{{der-bottom}}
+
+===Etymology 1===
 {{ja-kanjitab|あらし|yomi=k}}
+{{IPAchar|/arasi/}} →  {{IPAchar|/araɕi/}}
 
-===Pronunciation===
-{{ja-pron|あらし|acc=1|acc_ref=SMK2}}
+From {{m|ja|荒らし|tr=arashi||[[destroyer]]}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|荒らす|tr=arasu||[[destroy]], [[ruin]]}}. Likely influenced by {{m|ja|風|tr=shi||[[wind]]|pos=obsolete}}.
 
-===Noun===
+====Alternative forms====
+* {{sense|windstorm}} {{ja-l|暴風}} {{gloss|jukujikun}}
+* {{sense|rainstorm}} {{ja-l|暴風雨}} {{gloss|jukujikun}}
+
+====Pronunciation====
+{{ja-pron|あらし|acc=1|acc_ref=DJR,SMK2}}
+
+====Noun====
 {{ja-noun|あらし}}
 
-# a [[storm]]; weather condition
-# a difficult problem; a [[difficulty]]
+# a [[storm]] (weather condition), either:
+## a [[windstorm]]
+##* '''1086''', ''{{w|Goshūi Wakashū}}'' (book 5, poem 366; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 69)
+##*: {{ja-usex|'''嵐'''吹く三%室の山のもみぢ葉は竜%田の川の錦なりけり|'''あらし''' ふく み%むろ の やま の もみぢ-ば は たつ%た のかは の にしき なり けり|rom='''arashi''' fuku Mimuro-no-yama no momiji-ba wa Tatsuta-no-kawa no {{ll|ja|錦|nishik}}i nari keri|The sweeping '''stormy winds''' from Mount Mimuro weaves adorning Tatsuta river with a brocade of crimson leaves.<ref>{{cite-book|2015|Sagnik Bhattacharya|A Hundred Autumn Leaves: The Ogura Hyakunin Isshu: Translated and Annotated|publisher=Partridge Publishing|isbn=1-4828-5919-X}}</ref>|sort=あらし}}
+##: '''1235''', ''{{w|Shinchokusen Wakashū}}'' (book 16, poem 1052); also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 96)
+##:: {{ja-usex|花さそふ'''嵐'''の庭の雪ならでふりゆくものはわが身なりけり|はな さそふ '''あらし''' の には の ゆき なら で ふり ゆく もの は わが み なり けり|rom=hana sasou '''arashi''' no {{ll|ja|庭|niwa}} no yuki nara de furi yuku mono wa waga mi nari keri|Cherry blossoms lured by a '''storm''', all this snow―but no, what is falling is nothing but myself.<ref>{{cite-book|2012|Hiroaki Sato|Legends of the Samurai|publisher=Gerald Duckworth & Co.|isbn=0-7156-4436-X||||page=10}}</ref>|sort=あらし}}
+## a [[rainstorm]]
+# {{lb|ja|figurative|sort=あらし}} a [[difficult]] [[problem]]; a [[difficulty]]
+#: {{ja-usex|激しい感情の'''嵐'''|はげし.い かんじょう の '''あらし'''}}
+
+=====Synonyms=====
+* {{sense|windstorm}} {{ja-r|暴風|ぼうふう}}
+* {{sense|windstorm}} {{ja-r|烈風|れっぷう|[[gale]]}}
+* {{sense|rainstorm}} {{ja-r|暴風雨|ぼうふうう}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|嵐の大洋|^あらし の ^たいよう|{{w|Oceanus Procellarum}}}}
+* {{ja-r|嵐の前の静けさ|あらし の まえ の しずけさ|[[calm before the storm]]}}
+* {{ja-r|嵐を呼ぶ|あらし を よぶ|cause a [[commotion]]}}
+* {{ja-r|青%嵐|あお%あらし|wind blowing over fresh [[verdure]]}}
+* {{ja-r|宇%宙%線%嵐|う%ちゅう%せん% あらし|[[cosmic ray]] storm}}
+* {{ja-r|大%嵐|おお%あらし|[[raging]] storm}}
+* {{ja-r|コップの中の嵐|コップ の なか の あらし|[[storm in a teacup]], [[tempest in a teapot]]}}
+* {{ja-r|砂%塵%嵐|さ%じん% あらし|[[duststorm]], [[sandstorm]]}}
+* {{ja-r|小夜%嵐|さよ% あらし|[[strong]] [[nighttime]] wind}}
+* {{ja-r|磁気嵐|じきあらし|[[magnetic]] storm}}
+* {{ja-r|砂%嵐|すな%あらし|[[sandstorm]]}}
+* {{ja-r|政界の嵐|せいかい の あらし|[[political]] storm}}
+* {{ja-r|山%嵐|やま%あらし|[[mountain]] storm; judo throwing technique}}
+* {{ja-r|夜%嵐|よ%あらし|[[night]] storm}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|あらし}}
+
+# {{given name|lang=ja|female|sort=あらし}}
+# {{surname|lang=ja|sort=あらし}}
+
+===Etymology 2===
+{{ja-kanjitab|らん|yomi=o}}
+{{IPAchar|/ramu/}} →  {{IPAchar|/ran/}}
+
+From {{der|ja|ltc|sort=らん|-}} {{ltc-l|嵐}}.
+
+====Pronunciation====
+{{ja-pron|y=o|らん}}
+
+====Proper noun====
+{{ja-pos|proper|らん}}
+
+# {{given name|lang=ja|female|sort=らん}}
 
 ===References===
 <references/>
