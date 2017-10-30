@@ -29,13 +29,27 @@
 |w=
 |mc=y
 |oc=y
-|cat=
+|cat=n,v,a,cl
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{lb|zh|historical}} a unit of measure, which had been defined to be 8 [[chi]], 7 chi, 5 chi 6 [[cun]], and 4 chi
+# {{†}} to [[fathom]]; to [[measure]] [[depth]] or [[height]]
+# {{†}} {{zh-alt-form|刃|[[blade]]; [[sword]]; [[knife]]}}
+# {{†}} {{zh-alt-form|牣|to [[fill]]; [[full]]}}
+# {{†}} {{zh-alt-form|認|to [[recognize]]}}
+# {{†}} {{zh-alt-form|忍|to [[endure]]}}
+# {{†}} {{zh-alt-form|韌|[[strong]] and [[moderately]] [[pliable]]}}
+# {{lb|zh|historical}} {{non-gloss definition|a place in [[Chu]] during the {{w|Spring and Autumn period}}}}
+
+===Compounds===
+{{zh-der|千仞|壁立千仞|振衣千仞岡|為山九仞，功虧一簣|萬仞}}
+
+===References===
+* {{R:DKJ}}
+* [http://www.zdic.net/z/15/xs/4EDE.htm zdic.net (汉典)]
 
 ----
 
@@ -45,7 +59,11 @@
 {{ja-kanji|grade=|rs=人03}}
 
 ====Readings====
-* {{ja-readings|on=[[じん]] (jin)|kun=[[はかる]] (hakaru)}}
+{{ja-readings
+|goon=にん
+|kanon=じん
+|kun=はか-る
+}}
 
 ===Noun===
 {{ja-noun|じん}}
