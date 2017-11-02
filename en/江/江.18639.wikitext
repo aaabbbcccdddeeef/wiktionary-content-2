@@ -77,12 +77,12 @@ The original Chinese word for “river” was {{zh-l|水}}, literally “water�
 # [[bay]]
 
 ====Readings====
-{{rfv-pronunciation|ja|gō and ye}}
 {{ja-readings
-|goon=こう<こう, ごう<ごう
-|kanon=こう<かう, ごう<がう
-|kun=え-<!--<え-<𛀁--->
-|nanori=え.え, こ, のぶ
+|goon=こう<こう
+|kanon=こう<かう
+|kanyoon=ごう<ごう
+|kun=え-<え-<𛀁
+|nanori=え.え, こ, のぶ, くん, とうみ, み, りえ
 }}
 
 =====Compounds=====
@@ -95,9 +95,9 @@ The original Chinese word for “river” was {{zh-l|水}}, literally “water�
 {{ja-kanjitab|え|yomi=k}}
 {{IPAchar|/je/}} → {{IPAchar|/e/}}
 
-From {{inh|ja|ojp|sort=え|-}}.
+From {{inh|ja|ojp|sort=え|-}}. The ''ye'' pronunciation gradually dropped out in {{w|Early Middle Japanese}}, persisting in some dialects and specific terms.  For instance, see {{pedialite|Yebisu}}
 
-{{rfe|ja|The ''ye'' pronunciation was dropped in Early Middle Japanese?}}
+This term was so representative of the ''ye'' reading that it lent its shape to the {{w|hentaigana}} {{m|ja|𛀁|tr=ye}}.
 
 ====Pronunciation====
 {{ja-pron|y=k|え|acc=1|acc_ref=DJR}}
@@ -105,15 +105,24 @@ From {{inh|ja|ojp|sort=え|-}}.
 ====Noun====
 {{ja-noun|え}}
 
-# [[inlet]]; [[bay]]
-# {{lb|ja|archaic|possibly|_|obsolete|sort=え}} [[sea]]; [[large]] [[river]] {{rfv-sense|ja}}
+# {{l|en|inlet}}, {{l|en|bay}}
+# {{lb|ja|archaic|possibly|_|obsolete|sort=え}} {{gloss|general term for a large body of water}}
+## {{l|en|sea}}
+## {{l|en|large}} {{l|en|river}}
+## {{l|en|lake}}
+
+=====Usage notes=====
+Although {{lang|ja|江}} (''e'') was sometimes used generically for a large body of water, it was most often used to indicate the portion of that body of water that extended {{l|en|inland}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 =====Synonyms=====
-* {{ja-r|入%江|いり%え|rom=-}}, {{ja-r|入り江|いりえ}}
-* {{ja-r|湾|わん}}
+* {{sense|inlet}} {{ja-r|入%江|いり%え|rom=-}}, {{ja-r|入り江|いりえ}}
+* {{sense|bay}} {{ja-r|湾|わん}}
 
 =====Derived terms=====
-* {{ja-r|江戸|^えど}}
+{{der-top}}
+* {{ja-r|江戸|^えど}}: {{l|en|Edo}} (now {{l|en|Tokyo}})
+* {{ja-r|入り江|いりえ}}: {{l|en|inlet}}
+{{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|proper|え}}
@@ -122,11 +131,11 @@ From {{inh|ja|ojp|sort=え|-}}.
 
 ===Etymology 2===
 {{ja-kanjitab|こう|yomi=o}}
-{{IPAchar|/kau/}} → {{IPAchar|/koː/}}
+{{IPAchar|/kau/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}
 
-From {{der|ja|ltc|sort=こう|-}} {{ltc-l|江}}. {{rfv-etymology|ja}}
+From {{der|ja|ltc|sort=こう|-}} {{ltc-l|江}}.
 
-The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+The {{m|ja|漢音|kan'on}} reading, so likely a later borrowing.
 
 ====Pronunciation====
 {{ja-pron|y=kan|こう}}
@@ -134,27 +143,32 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 ====Noun====
 {{ja-noun|こう|hhira=かう}}
 
-# {{lb|ja|archaic|sort=こう}} [[large]] [[river]]
+# {{lb|ja|archaic|sort=こう}} {{l|en|large}} {{l|en|river}}
 
 ====Proper noun====
 {{ja-pos|proper|こう|hhira=かう}}
 
-# {{short for|lang=ja|長江|tr=Chōkō||[[Yangtze]]}}
-# old name for {{m|ja|琵琶湖|tr=Biwa-ko||[[Lake Biwa]]}}
-# {{surname|lang=ja|sort=こう}}
-# {{given name|lang=ja|unisex|sort=こう}}
+# {{short for|nocap=1|nodot=1|lang=ja|長江|tr=Chōkō}}: the {{l|en|Yangtze}} {{l|en|river|River}}
+# old name for {{m|ja|琵琶湖|tr=Biwa-ko}}: {{l|en|Lake Biwa}}
+# {{surname|A=a|nodot=1|lang=ja|sort=こう}}
+# {{given name|A=a|nodot=1|lang=ja|unisex|sort=こう}}
 
 =====Derived terms=====
-* {{ja-r|江河|^こうが}}
+{{der-top}}
+* {{ja-r|江河|^こうが}}: the {{l|en|Yangtze}} {{l|en|river|River}} and the {{l|en|Yellow River}}
+{{der-bottom}}
 
 ===Etymology 3===
 Various nanori readings.
 
+====Pronunciation====
+{{ja-pron|yomi=kanyo|ごう|acc=1}}
+
 ====Proper noun====
 {{ja-pos|proper|ごう}}
 
-# {{surname|lang=ja|sort=こう'}}
-# {{given name|lang=ja|unisex|sort=こう'}}
+# {{surname|A=a|nodot=1|lang=ja|sort=こう'}}
+# {{given name|A=a|nodot=1|lang=ja|unisex|sort=こう'}}
 
 ===References===
 <references/>
