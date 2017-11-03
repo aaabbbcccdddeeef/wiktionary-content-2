@@ -13,7 +13,11 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation 1===
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+====Pronunciation====
 {{zh-pron
 |m=chào
 |c=caau3
@@ -28,23 +32,13 @@
 
 # [[child]]
 # [[tiny]]
+# {{zh-alt-form|㑳|[[stubborn]]}}
 
 ====References====
 * (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]
 
-===Pronunciation 2===
-{{zh-pron
-|m=miǎo
-|c=
-|ma=
-|cat=a
-}}
-
-====Definitions====
-{{zh-hanzi}}
-
-# (archaic variant of [[眇]]) [[minute]], [[minuscule]]
-# (archaic variant of 眇) [[blind]] in [[one]] [[eye]]
+===Etymology 2===
+{{zh-see|眇|v}}
 
 ----
 
@@ -56,4 +50,8 @@
 # {{defn|lang=ja|sort=人04}}
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō), [[びょう]] (byō), [[みょう]] (myō)|kun=[[さいさま]] (saisama)}}
+{{ja-readings
+|goon=しょう<せう, みょう<めう
+|kanon=そう<さう, びょう<べう
+|kun=さいさま
+}}
