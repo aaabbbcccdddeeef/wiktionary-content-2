@@ -31,18 +31,54 @@ Compare {{ja-r|裃|かみしも}}, {{ja-r|垰|たお}}.
 
 ====Readings====
 {{ja-readings
-|on=
-|kun=とうげ-
+|kun=とうげ-<たうげ-
+|nanori=たわ, たわとう
 }}
 
-===Pronunciation===
-* {{ja-pron|とうげ|acc=3|acc_ref=NHK}}
+===Etymology 1===
+{{ja-kanjitab|とうげ|yomi=k}}
+{{IPAchar|/tamuke/}} → {{IPAchar|/tauɡe/}} → {{IPAchar|/toːɡe/}}
 
-===Noun===
+Sound shift from {{m|ja|手向け|tr=tamuke||tribute to a person about to depart}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> It is said that these offerings were "given" to them as they traveled into the afterlife, akin to a ''mountain''. {{rfv-etymology|ja}}
+
+====Pronunciation====
+* {{ja-pron|y=k|とうげ|acc=3|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|とうげ|hhira=たうげ}}
 
-# [[mountain]] [[pass]]
-# [[crisis]], [[climax]]
+# [[mountain]] [[pass]], [[ridge]]
+# {{lb|ja|figurative|sort=とうげ}} [[crisis]], [[climax]]
+
+====Proper noun====
+{{ja-pos|proper|たうげ}}
+
+# {{surname|lang=ja|sort=たうげ}}
+
+{{ja-pos|proper|とうげ|hhira=たうげ}}
+
+# ''A place name''.
+# {{surname|lang=ja|sort=とうげ}}
+
+===Etymology 2===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|たお}}
+
+# {{surname|lang=ja|sort=たお}}
+
+{{ja-pos|proper|たおげ}}
+
+# {{surname|lang=ja|sort=たおげ}}
+
+{{ja-pos|proper|とおげ}}
+
+# {{surname|lang=ja|sort=とおげ}}
+
+{{ja-pos|proper|どうげさき}}
+
+# {{surname|lang=ja|sort=どうげさき}}
 
 ===References===
 <references/>
