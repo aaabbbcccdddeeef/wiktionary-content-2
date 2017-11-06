@@ -2,7 +2,7 @@
 ==Italian==
 
 ===Etymology===
-From Vulgar Latin ''[[Reconstruction:Latin/essere|*essere]]'', from {{inh|it|la|esse}}, present active infinitive of {{m|la|sum||I am}}, from {{inh|it|itc-pro|*ezom}}, from {{inh|it|ine-pro|*h₁ésti||I am, I exist}}.
+From {{der|it|VL.|*essere}}, from {{inh|it|la|esse}}, present active infinitive of {{m|la|sum||I am}}, from {{inh|it|itc-pro|*ezom}}, from {{inh|it|ine-pro|*h₁ésti||I am, I exist}}.
 
 ===Pronunciation===
 * {{IPA|/ˈɛs.se.re/|[ˈɛs̪s̪er̺e]|lang=it}}
@@ -18,9 +18,10 @@ From Vulgar Latin ''[[Reconstruction:Latin/essere|*essere]]'', from {{inh|it|la|
 # {{lb|it|auxiliary|used to form composite past tense of many intransitive verbs}} to have (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian verbs taking essere as auxiliary|Category:Italian verbs taking essere as auxiliary]].''
 # {{lb|it|impersonal|of a duration of time since an event}} to have [[pass]]ed
 
-====Conjugation====
-The present participle ''essente'' is very rare, and is usually replaced with ''stante'', the present participle of ''[[stare]]''. Similarly the past participle ''[[essuto]]'' has disappeared, with ''[[stato]]'', the past participle of ''stare'', being used instead.<ref>[http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&Query=essuto&lettera=E]</ref>
+====Usage notes====
+The present participle {{m|it|essente}} is very rare, and is usually replaced with {{m|it|stante}}, the present participle of {{m|it|stare}}. Similarly the past participle {{m|it|essuto}} has disappeared, with {{m|it|stato}}, the past participle of {{m|it|stare}}, being used instead.<ref>[http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&Query=essuto&lettera=E]</ref>
 
+====Conjugation====
 {{it-conj-ere||essere
 |inf=essere|
 |ger=essendo|presp=essente|pastp=stato
