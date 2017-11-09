@@ -96,32 +96,38 @@ In ancient scripts, it had the form {{zh-l|*旹}}, with {{och-l|之}} as the pho
 
 ===Etymology 1===
 {{ja-kanjitab|とき|yomi=k}}
+
 {{IPAchar|/to<sub>2</sub>ki<sub>1</sub>/}} → {{IPAchar|/toki/}}
 
-From {{inh|ja|ojp|sort=とき|-}}.
+From {{inh|ja|ojp|sort=とき|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|3|467}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#467 here]</ref>
 
 ====Pronunciation====
-{{ja-pron|とき|acc=2|acc_ref=SMK2,ZAJ}}
+{{ja-pron|yomi=k|とき|acc=2|acc_ref=SMK2,ZAJ}}
 
 ====Noun====
 {{ja-noun|とき}}
 
-# [[time]]
+# {{l|en|time}}
 #: {{ja-usex|'''時'''の流れ|'''とき''' の ながれ|the flow of '''time'''}}
-# a [[case]]; [[occasion]]; [[time]]
+# a {{l|en|case}}, {{l|en|occasion}}, {{l|en|time}}
 #: {{ja-usex|困った'''時'''は私に相談してください。|こまった '''とき''' は わたし に そうだん して ください。|Please consult with me '''when''' troubled (in '''times''' of trouble).}}
-# [[time]] of something
-# a [[season]]
-# a [[tense]]
+# {{l|en|time}} of something
+# a {{l|en|season}}
+# a {{l|en|tense}}
 
 ===Etymology 2===
 {{ja-kanjitab|じ|yomi=o}}
-From {{der|ja|ltc|sort=し|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely a later borrowing.
+
+From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じ}}
+* The pitch accent depends on the entire appended word.
 
 ====Counter====
 {{ja-pos|counter|じ}}
 
-# [[hour]], [[o'clock|o’clock]]
+# {{l|en|hour}}, {{l|en|o'clock|o’clock}}
 #: {{ja-usex|時%計 を 見る と、ちょうど １２%時 ３４%分 ５６%秒 だった。|と%けい を みる と、ちょうど じゅうに-%じ さんじゅうよん-%ぷん ごじゅうろく-%びょう だった。|When I looked at the clock, it was just 56 seconds past 12:34.}}
 
 =====Derived terms=====
@@ -141,7 +147,7 @@ From {{der|ja|ltc|sort=し|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' read
 {{der-bottom}}
 
 =====Related terms=====
-* {{ja-r|時%間|じ%かん}}: [[hours]] (duration)
+* {{ja-r|時%間|じ%かん}}: {{l|en|hours}} (duration)
 
 ====Suffix====
 {{ja-pos|suffix|じ}}
