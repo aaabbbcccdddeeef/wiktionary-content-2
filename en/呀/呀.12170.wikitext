@@ -22,19 +22,20 @@
 |ma=y
 |c=aa1
 |mn=a/ia
-|mc=y
-|oc=y
-|cat=intj,n
+|mc=1
+|oc=1
+|cat=intj,n,cls,v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
+# to be surprised
 # (expressing surprise)
 #: {{zh-x|呀{Yā}！下雨 了！|Ah! It's raining!}}
 # {{lb|zh|onomatopoeia}} [[creak]]
 #: {{zh-x|門 呀{yā} 的 一 聲 開 了。|The door opened with a creak.}}
-
+# a classifier
 ===Pronunciation 2===
 {{zh-pron
 |m=ya
@@ -78,12 +79,24 @@
 # {{non-gloss definition|Particle used after list items in a list of examples.}}
 #* {{zh-x|因為 國 呀、權 呀、榮 呀、皆 係 你 有、至 到 世世、誠心所願。|For thine is the kingdom, and the power, and the glory, for ever. Amen.|C|ref='''1882''', {{lang|zh|馬太福音傳 羊城土白}} (Matthew in Canton Colloquial) 6:13b}}
 
-{{attention|zh|probably more}}
-
 =====See also=====
 * {{zh-l|咩|tr=me1}}
 * {{zh-l|㗎|tr=gaa4}}
 * {{q|Mandarin}} {{zh-l|啊}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=xiā
+|mc=2
+|oc=2
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# (of mouth) [[opened]]
+# [[empty]]
 
 {{zh-cat|Beginning}}
 
