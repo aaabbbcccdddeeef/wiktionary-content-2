@@ -17,15 +17,42 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=pǐ
 |c=pei2
-|mc=y
-|oc=y
+|mc=2,3
+|oc=1,2,4
 |ma=
 |cat=v
 }}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to [[part]]; to part with
+# {{†}} to [[distinguish]]; to [[tell apart]]
+# {{†}} {{zh-alt-form|比}}
+
+====Compounds====
+{{zh-der|仳別|仳脇|仳𠌯|仳離}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=pí
+|c=pei4
+|mc=1
+|oc=3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|仳倠}}
+
+===References===
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 63]
 
 ----
 
@@ -37,7 +64,11 @@
 # {{defn|lang=ja|sort=人04}}
 
 ====Readings====
-* {{ja-readings|on=[[ひ]] (hi), [[び]] (bi)|kun=[[わかれる]] (wakareru)}}
+{{ja-readings
+|goon=び
+|kanon=ひ
+|kun=わか-れる
+}}
 
 ----
 
