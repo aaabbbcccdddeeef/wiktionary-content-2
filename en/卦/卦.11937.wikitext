@@ -22,11 +22,16 @@
 ===Pronunciation===
 {{zh-pron
 |m=guà
+|m-s=
 |c=gwaa3
+|c-t=
+|g=
 |h=pfs=
+|j=
 |md=
 |mn=kòa
 |w=
+|x=
 |mc=y
 |oc=y
 |cat=
@@ -37,6 +42,9 @@
 
 # {{rfdef|lang=zh}}
 
+===Compounds===
+{{zh-der|八卦|卜卦|占卦|打卦|算卦|變卦}}
+
 ----
 
 ==Japanese==
@@ -45,7 +53,11 @@
 {{ja-kanji|grade=|rs=卜06}}
 
 ====Readings====
-* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[うらかた]] (urakata)}}
+* {{ja-readings
+|goon=け
+|kanon=かい
+|kanyoon=か
+|kun=うらかた}}
 
 ===Etymology===
 {{wikipedia|lang=ja}}
@@ -70,6 +82,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[quái]]|rs=卜06}}
+{{vi-hantu|quái|rs=卜06}}
 
 # {{defn|lang=vi|sort=卜06}}
