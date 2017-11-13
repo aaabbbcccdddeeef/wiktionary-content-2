@@ -11,7 +11,7 @@
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|alamannus}} or {{m|la|alemannus}} (related to [[Alaman]]s, ancient [[Germanic]] people for whom the name meant "all people", according to Asinius Quadratus). ''aleman'' became {{m|fro|alemant}} by the addition of a terminal T of the singular objective case for adjectives of second class in {{etyl|fro|fr}}, and then {{m|fro|alemand}}. The Latin word itself derives from the former High German ''[[Alaman]]'', from a {{etyl|gem-pro|fr}} {{m|gem-pro|*Alamanniz}}, likely from the roots {{m|gem-pro|*allaz}} (whence English {{m|en|all}}) and *''manniz'' < {{m|gem-pro|*mann-}} (whence English {{m|en|man}}).
+From {{der|fr|LL|Alamannus}} or {{m|la|Alemannus}} (related to [[Alaman]]s, ancient [[Germanic]] people for whom the name meant "all people", according to Asinius Quadratus). ''aleman'' became {{m|fro|alemant}} by the addition of a terminal T of the singular objective case for adjectives of second class in {{der|fr|fro|-}}, and then {{m|fro|alemand}}. The Latin word itself derives from the {{cog|goh|Alaman}}, from a {{der|fr|gem-pro|*Alamanniz}}, likely from the roots {{m|gem-pro|*allaz}} (whence {{cog|en|all}}) and *''manniz'' < {{m|gem-pro|*mann-}} (whence {{cog|en|man}}).
 
 ===Pronunciation===
 * {{IPA|/al.mɑ̃/|lang=fr}}
@@ -22,43 +22,30 @@ From {{etyl|la|fr}} {{m|la|alamannus}} or {{m|la|alemannus}} (related to [[Alama
 {{fr-noun|m}}
 
 # [[German]] {{gloss|The [[German]] language}}
-#:* L’'''allemand''' est une langue germanique.
-#:*: ''German is a Germanic language.''
-#:* Mon stagiaire parle un '''allemand''' impeccable.
-#:*: ''My trainee speaks perfect German.''
-#:* Parlez-vous '''allemand''' ?
-#:*: ''Do you speak German?''
-
-====Synonyms====
-* {{l|fr|langue de Goethe}}
-* {{l|fr|langue de Charlemagne}}
-* {{l|fr|langue des Francs}}
+#: {{syn|fr|langue de Goethe|langue de Charlemagne|langue des Francs}}
+#: {{ux|fr|L’'''allemand''' est une langue germanique.|inline=1|'''German''' is a Germanic language.}}
+#: {{ux|fr|Mon stagiaire parle un '''allemand''' impeccable.|inline=1|My trainee speaks perfect '''German'''.}}
+#: {{ux|fr|Parlez-vous '''allemand''' ?|inline=1|Do you speak '''German'''?}}
 
 ====Hypernyms====
 * {{l|fr|langue}}
 * {{l|fr|langue germanique}}
 
 ====Derived terms====
-* {{l|fr|bas-allemand}}
-* {{l|fr|haut-allemand}}
+{{der2|bas-allemand|haut-allemand|lang=fr}}
 
 ===Adjective===
 {{fr-adj}}
 
 # [[German]] {{gloss|related to or originating from Germany}}
-#:* J’ai acheté une voiture '''allemande'''.
-#:*: ''I've bought a German car.''
-#:* Les contes '''allemands''' sont fameux.
-#:*: ''German fairy tales are famous.''
+#: {{ux|fr|J’ai acheté une voiture '''allemande'''.|inline=1|I've bought a '''German''' car.}}
+#: {{ux|fr|Les contes '''allemands''' sont fameux.|inline=1|'''German''' fairy tales are famous.}}
 # [[German]] {{gloss|related to the [[German]] language}}
-#:* Il n’y a pas qu’en Allemagne qu’on utilise des mots '''allemands'''.
-#:*: ''Not only in Germany does one use German words.''
-#:* La traduction '''allemande''' de ''France'' est ''Frankreich''.
-#:*: ''The German translation of "France" is ''Frankreich''.''
+#: {{ux|fr|Il n’y a pas qu’en Allemagne qu’on utilise des mots '''allemands'''.|inline=1|Not only in Germany does one use '''German''' words.}}
+#: {{ux|fr|La traduction '''allemande''' de ''France'' est ''Frankreich''.|inline=1|The '''German''' translation of "France" is ''Frankreich''.}}
 
 ===Related terms===
-* {{l|fr|alémanique}}
-* {{l|fr|Allemagne}}
+{{rel2|alémanique|Allemagne|lang=fr}}
 
 ===See also===
 * [http://fr.wiktionary.org/wiki/allemand allemand] in French on the Wiktionnaire
