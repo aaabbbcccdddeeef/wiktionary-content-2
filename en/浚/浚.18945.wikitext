@@ -18,7 +18,17 @@
 ===Pronunciation===
 {{zh-pron
 |m=jùn
+|m-s=
 |c=zeon3
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
 |mc=y
 |oc=y
 |ma=
@@ -30,6 +40,9 @@
 
 # {{rfdef|lang=zh}}
 
+====Compounds====
+{{zh-der|疏浚}}
+
 ----
 
 ==Japanese==
@@ -40,7 +53,10 @@
 # {{defn|lang=ja|sort=水07}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅん]] (shun)|kun=[[さらう]] (sarau)}}
+* {{ja-readings
+|goon=しゅん
+|kanon=しゅん
+|kun=さら-う, さら-える}}
 
 ----
 
@@ -56,7 +72,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水07|hanviet=tuấn}}
+{{vi-hantu|rs=水07|tuấn}}
 
 # {{defn|lang=vi|sort=水07}}
 
