@@ -64,17 +64,21 @@
 
 ====Compounds====
 * {{ja-r|琴線|きんせん}}
-* {{ja-r|琴柱|ことじ}}
-* {{ja-r|琴爪|ことづめ}}
 * {{ja-r|琴曲|きんきょく}}
-* {{ja-r|竪琴|たてごと}}
-* {{ja-r|大正琴|たいしょうごと}}
 * {{ja-r|洋琴|ようきん}}
 * {{ja-r|木琴|もっきん}}
 
 ===Etymology===
 {{ja-kanjitab|こと|yomi=k}}
-{{wikipedia|Koto (musical instrument)}}
+{{wp|Koto (musical instrument)}}
+{{IPAchar|/ko<sub>2</sub> oto<sub>2</sub>/}} → {{IPAchar|*/kooto/}} → {{IPAchar|/koto/}}
+
+Originally a compound of {{ja-compound|木|こ|音|おと|t1=[[tree]], [[wood]]|t2=[[sound]]|nocat=1}}, {{rfv-etymology|ja}} with the initial ''o'' dropped by [[haplology]].
+
+Compare {{m|ja|事|tr=koto}}.
+
+=====Alternative forms=====
+* {{ja-l|箏}}
 
 ====Pronunciation====
 {{ja-pron|こと|acc=1|acc_ref=DJR}}
@@ -82,15 +86,18 @@
 ====Noun====
 {{ja-noun|こと}}
 
-# Japanese [[zither]]/[[harp]]; [[koto]]
+# ''[[koto]]'': a Japanese traditional [[zither]] or [[harp]], inspired by the ''guzheng'' (Chinese harp)
 
-=====Alternative forms=====
-* {{ja-l|箏}}
-
-{{C|ja|Musical instruments|sort=こと}}
+====Derived terms====
+* {{ja-r|琴%柱|こと%じ}}
+* {{ja-r|琴爪|ことづめ}}
+* {{ja-r|大正琴|たいしょうごと}}
+* {{ja-r|竪琴|たてごと}}
 
 ===References===
-<references />
+<references/>
+
+{{C|ja|Musical instruments|sort=こと}}
 
 ----
 
