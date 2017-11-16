@@ -57,27 +57,38 @@
 
 ====Readings====
 {{ja-readings
-|goon=ごん
-|kanon=きん
+|goon=ごん<ごん<ごむ
+|kanon=きん<きん<きむ
 |kun=こと-
 }}
 
 ====Compounds====
-* {{ja-r|琴線|きんせん}}
-* {{ja-r|琴曲|きんきょく}}
-* {{ja-r|洋琴|ようきん}}
-* {{ja-r|木琴|もっきん}}
+{{der-top|Compounds}}
+* {{ja-r|琴線|きんせん|[[koto]] [[string]]; [[heartstrings]]}}
+* {{ja-r|琴曲|きんきょく|koto [[music]]}}
+* {{ja-r|一弦琴|いちげん-きん|rom=-}}, {{ja-r|一絃琴|いちげん-きん}}
+* {{ja-r|口琴|こうきん|[[Jew's harp]]|pos=literally "[[mouth harp]]"}}
+* {{ja-r|自鳴琴|じめいきん|[[music box]]}}
+* {{ja-r|弾琴|だんきん|koto [[play]]ing}}
+* {{ja-r|鉄琴|てっきん|[[metallophone]]}}
+* {{ja-r|手風琴|てふうきん|[[accordion]]}}
+* {{ja-r|二弦琴|にげん-きん}}
+* {{ja-r|馬頭琴|ばとうきん}}
+* {{ja-r|口琴|びやぼん|Edo-period [[mouth harp]]}}
+* {{ja-r|木琴|もっきん|[[xylophone]]}}
+* {{ja-r|和琴|わごん}}
+{{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|こと|yomi=k}}
+===Etymology 1===
 {{wp|Koto (musical instrument)}}
+{{ja-kanjitab|こと|yomi=k}}
 {{IPAchar|/ko<sub>2</sub> oto<sub>2</sub>/}} → {{IPAchar|*/kooto/}} → {{IPAchar|/koto/}}
 
-Originally a compound of {{ja-compound|木|こ|音|おと|t1=[[tree]], [[wood]]|t2=[[sound]]|nocat=1}}, {{rfv-etymology|ja}} with the initial ''o'' dropped by [[haplology]].
+Likely from {{inh|ja|ojp|sort=こと|-}}. Originally a compound of {{ja-compound|木|こ|音|おと|t1=[[tree]], [[wood]]|t2=[[sound]]|nocat=1}}, {{rfv-etymology|ja}} with the initial ''o'' dropped by [[haplology]].
 
 Compare {{m|ja|事|tr=koto}}.
 
-=====Alternative forms=====
+====Alternative forms====
 * {{ja-l|箏}}
 
 ====Pronunciation====
@@ -86,13 +97,94 @@ Compare {{m|ja|事|tr=koto}}.
 ====Noun====
 {{ja-noun|こと}}
 
-# ''[[koto]]'': a Japanese traditional [[zither]] or [[harp]], inspired by the ''guzheng'' (Chinese harp)
+# ''[[koto]]'': a Japanese traditional [[zither]] or [[harp]], inspired by the ''{{w|guzheng}}'' (Chinese zither)
+# {{lb|ja|archaic|sort=こと}} any [[stringed instrument]]
 
-====Derived terms====
-* {{ja-r|琴%柱|こと%じ}}
-* {{ja-r|琴爪|ことづめ}}
-* {{ja-r|大正琴|たいしょうごと}}
+=====Usage notes=====
+* Usually spelled as {{m|ja|箏}}, for the "Chinese zither" sense.
+
+=====Synonyms=====
+* {{sense|koto}} {{ja-r|箏の琴|そう の こと}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|こと座|^こと-ざ|[[Lyra]]}}
+* {{ja-r|琴%柱|こと%じ|[[bridge]] of a koto}}
+* {{ja-r|琴爪|ことづめ|koto [[plectrum]]}}
+* {{ja-r|琴鳥|コトドリ|[[superb lyrebird]]}}
+* {{ja-r|東琴|あずまごと}}
+* {{ja-r|須磨%琴|すま%-ごと}}
+* {{ja-r|小琴|おごと|koto|pos=usually small}}
+* {{ja-r|百済%琴|くだら%-ごと}}
+* {{ja-r|大正琴|^たいしょう-ごと}}
 * {{ja-r|竪琴|たてごと}}
+* {{ja-r|大和%琴|^やまと%-ごと}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|こと}}
+
+# {{given name|lang=ja|female|A=a|sort=こと}}
+# {{surname|lang=ja|A=a|sort=こと}}
+
+===Etymology 2===
+{{wp|lang=ja|琴}}
+{{ja-kanjitab|きん|yomi=o}}
+From {{der|ja|ltc|sort=きん|-}} {{ltc-l|琴}}. {{rfv-etymology|ja}}
+
+The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|y=kan|きん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きん}}
+
+# [[qin]] (Chinese zither)
+# {{short for|lang=ja|古琴|tr=kokin||[[guqin]]}}
+
+=====Synonyms=====
+* {{ja-r|七弦琴|しちげん-きん}}
+
+=====Derived terms=====
+* {{ja-r|琴瑟|きんしつ|[[qin]] and [[se]]|pos=figuratively, "[[marital]] [[harmony]]"}}
+
+=====See also=====
+* {{ja-r|奚琴|けいきん|[[xiqin]]}}
+* {{ja-r|月琴|げっきん|[[yueqin]]}}
+* {{ja-r|瑟|しつ|[[se]]}}
+* {{ja-r|提琴|ていきん|{{w|tiqin}}}}
+* {{ja-r|洋琴|ようきん|[[yangqin]]}}
+
+====Proper noun====
+{{ja-pos|proper|きん}}
+
+# {{given name|lang=ja|female|A=a|sort=きん}}
+# {{surname|lang=ja|A=a|sort=きん}}
+
+===Etymology 3===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|くむ}}
+
+# {{surname|lang=ja|A=a|sort=くむ}}
+
+{{ja-pos|proper|ぐん}}
+
+# {{surname|lang=ja|A=a|sort=ぐん}}
+
+{{ja-pos|proper|ことえ}}
+
+# {{given name|lang=ja|female|A=a|sort=ことえ}}
+
+{{ja-pos|proper|ことざき}}
+
+# {{surname|lang=ja|A=a|sort=ことさき}}
+
+{{ja-pos|proper|ことみ}}
+
+# {{given name|lang=ja|female|A=a|sort=ことみ}}
 
 ===References===
 <references/>
