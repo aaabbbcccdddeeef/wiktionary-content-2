@@ -72,8 +72,7 @@ In ancient scripts, it had the form {{zh-l|*旹}}, with {{och-l|之}} as the pho
 }}
 
 ====Compounds====
-{{der-top}}
-{{top2}}
+{{der-top|Compounds}}
 * {{ja-r|時間|じかん}}
 * {{ja-r|時期|じき}}
 * {{ja-r|時機|じき}}
@@ -81,17 +80,14 @@ In ancient scripts, it had the form {{zh-l|*旹}}, with {{och-l|之}} as the pho
 * {{ja-r|時勢|じせい}}
 * {{ja-r|時世|じせい}}
 * {{ja-r|時制|じせい}}
-* {{ja-r|時節|じせつ}}
-{{mid2}}
-* {{ja-r|時速|じそく}}
-* {{ja-r|時代|じだい}}
+* {{ja-r|時節|じ%せつ}}
+* {{ja-r|時速|じ%そく}}
+* {{ja-r|時代|じ%だい}}
 * {{ja-r|時短|じたん}}
 * {{ja-r|時分|じぶん}}
 * {{ja-r|時文|じぶん}}
 * {{ja-r|時雨|しぐれ}}
-* {{ja-r|時々|ときどき}}
 * {{ja-r|時計|とけい}}
-{{bottom}}
 {{der-bottom}}
 
 ===Etymology 1===
@@ -115,6 +111,37 @@ From {{inh|ja|ojp|sort=とき|-}}.  Found in the ''{{w|Man'yōshū}}'', complete
 # a {{l|en|season}}
 # a {{l|en|tense}}
 
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|時々|ときどき}}
+* {{ja-r|暁|あかつき}}
+* {{ja-r|ある時|ある とき}}
+* {{ja-r|御%時|お.-おん%とき}}
+* {{ja-r|片時|かたとき}}
+* {{ja-r|潮時|しおどき}}
+* {{ja-r|食事%時|しょくじ%-どき}}
+* {{ja-r|梅雨%時|つゆ%-どき}}
+* {{ja-r|出%時|で%どき}}
+* {{ja-r|花時|はなどき}}
+* {{ja-r|半時|はんとき}}
+* {{ja-r|一時|ひととき}}
+* {{ja-r|暇な時|ひま な とき}}
+* {{ja-r|昼時|ひるどき}}
+* {{ja-r|二時|ふたとき}}
+* {{ja-r|法と時|ほう と とき}}
+* {{ja-r|まさかの時|まさか の とき}}
+{{der-bottom}}
+
+====Suffix====
+{{ja-pos|suffix|どき}}
+
+# time of...; time for... 
+
+====Proper noun====
+{{ja-pos|proper|とき}}
+
+# {{given name|lang=ja|female|A=a|sort=とき}}
+
 ===Etymology 2===
 {{ja-kanjitab|じ|yomi=o}}
 
@@ -128,7 +155,7 @@ From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' rea
 {{ja-pos|counter|じ}}
 
 # {{l|en|hour}}, {{l|en|o'clock|o’clock}}
-#: {{ja-usex|時%計 を 見る と、ちょうど １２%時 ３４%分 ５６%秒 だった。|と%けい を みる と、ちょうど じゅうに-%じ さんじゅうよん-%ぷん ごじゅうろく-%びょう だった。|When I looked at the clock, it was just 56 seconds past 12:34.}}
+#: {{ja-usex|時%計 を 見る と、ちょうど １２%時 ３４%分 ５６%秒 だった。|と%けい を みる と、ちょうど じゅうに%-じ さんじゅうよん%-ぷん ごじゅうろく%-びょう だった。|When I looked at the clock, it was just 56 seconds past 12:34.}}
 
 =====Derived terms=====
 {{der-top}}
@@ -153,6 +180,18 @@ From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' rea
 {{ja-pos|suffix|じ}}
 
 # at the time of
+
+===Etymology 3===
+{{ja-kanjitab|さだ|yomi=irr}}
+{{IPAchar|/sida/}} → {{IPAchar|/sada/}}
+
+Sound shift from {{inh|ja|ojp|しだ|tr=sida|t=doing time, opportunity|sort=さた}}.<ref name=DJR>{{R:Daijirin}}</ref>
+
+===Noun===
+{{ja-noun|さだ}}
+# {{lb|ja|obsolete|sort=さた}} [[chance]]; [[time]]; [[prime of life]] {{rfv-sense|ja}}
+#* {{RQ:Manyoshu|14|3478}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3478 here]
+#*: {{ja-usex|m=等保斯等布 故奈乃思良祢尓 阿抱'''思太'''毛 安波乃敝'''思太'''毛 奈尓己曽与佐礼|m_kana=とほしとふ こなのしらねに あほ'''しだ'''も あはのへ'''しだ'''も なにこそよされ|遠しとふ故奈の白嶺に逢ほ'''しだ'''も逢はのへ'''しだ'''も汝にこそ寄され|とほしとふ こなのしらねに あほ'''しだ'''も あはのへ'''しだ'''も なにこそよされ|rom=tōshi tou Kona-no-shirane ni ao '''shida''' mo awa-no-e '''shida''' mo na ni koso yosare|sort=さた}}
 
 ===References===
 <references/>
