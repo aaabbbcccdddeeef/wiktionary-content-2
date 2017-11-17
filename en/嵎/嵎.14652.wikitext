@@ -15,7 +15,7 @@
 ==Cantonese==
 
 ===Hanzi===
-{{yue-hanzi|jyut=[[jyu4]]|y=yu4}}
+{{yue-hanzi|jyut=jyu4|y=yu4}}
 
 # {{defn|lang=yue|sort=山09}}
 
@@ -29,7 +29,11 @@
 # {{defn|lang=ja|sort=山09}}
 
 ====Readings====
-* {{ja-readings|on=[[ぐう]] (gū), [[ぐ]] (gu)|kun=[[くま]] (kuma)}}
+* {{ja-readings
+|goon=ぐ
+|kanon=ぐ
+|kanyoon=ぐう
+|kun=くま}}
 
 ----
 
@@ -54,6 +58,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山09|hanviet=giủng}}
+{{vi-hantu|rs=山09|giủng}}
 
 # {{defn|lang=vi|sort=山09}}
