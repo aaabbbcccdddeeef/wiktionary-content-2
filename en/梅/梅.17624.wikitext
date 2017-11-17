@@ -58,48 +58,65 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 {{ja-readings
 |goon=まい, め
 |kanon=ばい
-|kun=うめ-
+|kun=うめ-, むめ-
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|yomi=k|うめ}}
 
-Probably from /mume/, from {{der|ja|zhx}} {{m|zh|梅}} ({{cog|ltc|-}} {{IPAchar|/muʌi/}}, {{cog|och|-}} {{IPAchar|/*mɯː/}}). Compare {{m|ja|馬|tr=uma}} ({{cog|ltc|-}} {{IPAchar|/mˠa<sup>X</sup>/}}, {{cog|och|-}} {{IPAchar|/*mraːʔ/}}).
+{{IPAchar|/me/}} → {{IPAchar|*/mme/}} → {{IPAchar|/mume/}} → {{IPAchar|/ume/}}
 
-{{rfv-etymology|ja}}
+From {{inh|ja|ojp|sort=うめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Found already in the ''{{w|Man'yōshū}}'' with the ''ume'' reading, completed some time after 759 CE.<ref>{{RQ:Manyoshu|5|822}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#822 here]</ref>
 
-===Pronunciation===
+Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> with the borrowed {{IPAchar|/me/}} reading gaining a pronounced kind of initial {{IPAchar|/m/}} sound, perhaps realized as {{IPAchar|/mme/}}.  The phonetic spelling was often rendered as {{ja-l|むめ}} ({{IPAchar|/mme/}} or {{IPAchar|/mume/}}) from the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> with ''mme / mume'' and ''ume'' apparently existing in free variation.  The reading eventually settled on {{ja-l|うめ}} ({{IPAchar|/ume/}}).  Compare the similar pattern of phonetic shift for {{m|ja|馬|tr=ma → *mma → muma → uma||horse}}, from {{cog|ltc|-}} {{ltc-l|馬}}.
+
+====Pronunciation====
 {{ja-pron|yomi=k|うめ|acc=0|acc_ref=DJR}}
 
-===Alternative forms===
-* {{l|ja|楳}}
+====Alternative forms====
+* {{l|ja|楳}} {{qualifier|rare}}
 
-===Noun===
+====Noun====
 {{ja-noun|うめ|ウメ}}
 
 # a {{vern|Japanese plum}} or {{vern|Japanese apricot}}, ''[[Prunus mume]]''
-# the lowest of a 3 level rank system
+# the lowest of a three-level rank system
 
-====Usage notes====
+=====Usage notes=====
 {{U:ja:biology|ウメ}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
-* {{ja-r|梅酒|うめしゅ}}: [[plum wine]]
-* {{ja-r|梅花|ばいか}}: [[plum]] or [[apricot]] [[blossom]] [[flower]]
-* {{ja-r|梅果|ばいか}}: [[plum]] or [[apricot]] ([[fruit]])
-* {{ja-r|梅沢|^うめざわ}}: a place in [[w:Kanagawa prefecture|Kanagawa prefecture]]; a [[surname]]
+* {{ja-r|梅酒|うめしゅ}}: {{l|en|plum wine}}
+* {{ja-r|梅花|ばいか}}: {{l|en|plum}} or {{l|en|apricot}} {{l|en|blossom}} {{l|en|flower}}
+* {{ja-r|梅果|ばいか}}: {{l|en|plum}} or {{l|en|apricot}} ({{l|en|fruit}})
+* {{ja-r|梅沢|^うめざわ}}: a place in {{w|Kanagawa prefecture}}; a {{l|en|surname}}
 {{der-bottom}}
 
-====Coordinate terms====
+=====Coordinate terms=====
 * {{sense|rank}}
-** {{ja-r|松|まつ}}: pine, the top rank
-** {{ja-r|竹|たけ}}: bamboo, the middle rank
+** {{ja-r|松|まつ}}: {{l|en|pine}}, the top rank
+** {{ja-r|竹|たけ}}: {{l|en|bamboo}}, the middle rank
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|うめ}}
 
-# {{given name|female|lang=ja|sort=うめ}}.
+# {{given name|A=a|female|lang=ja|sort=うめ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|むめ}}
+
+{{IPAchar|/me/}} → {{IPAchar|*/mme/}} → {{IPAchar|/mume/}}
+
+From {{inh|ja|ojp|sort=むめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  This reading becomes common during the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> later falling into disuse.  {{l|en|supersede|Superseded}} by the ''ume'' reading above.
+
+====Pronunciation====
+{{ja-pron|yomi=k|むめ}}
+
+====Noun====
+{{ja-noun|むめ}}
+
+# {{lb|ja|sort=むめ|archaic|possibly|_|obsolete}} a {{vern|Japanese plum}} or {{vern|Japanese apricot}}, ''[[Prunus mume]]''
 
 ===References===
 <references/>
