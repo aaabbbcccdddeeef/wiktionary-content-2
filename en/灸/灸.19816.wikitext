@@ -41,6 +41,7 @@
 ----
 
 ==Japanese==
+{{wp|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=火03}}
@@ -48,7 +49,29 @@
 # {{defn|lang=ja|sort=火03}}
 
 ====Readings====
-* {{ja-readings|kanon=[[きゅう]] (kyū)|kun=[[やいと]] (yaito)|goon=[[く]] (ku)}}
+{{ja-readings
+|goon=く
+|kanon=きゅう<きう
+|kun=やいと-<やいと-
+}}
+
+===Etymology 1===
+{{ja-kanjitab|きゅう|yomi=o}}
+From {{der|ja|ltc|-}} {{ltc-l|灸}}.
+
+===Noun===
+{{ja-noun|きゅう|hhira=きう}}
+
+# [[moxibustion]]
+
+===Etymology 2===
+{{ja-kanjitab|やいと|yomi=k}}
+From {{m|ja|焼き|tr=yaki|t=scorching|pos={{ja-etym-renyokei|焼く|やく}}}} + {{m|ja|処|tr=to|t=place}}.
+
+===Noun===
+{{ja-noun|やいと|hhira=やいと}}
+
+# {{n-g|Same as above.}}
 
 ----
 
