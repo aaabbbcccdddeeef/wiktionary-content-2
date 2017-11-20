@@ -61,10 +61,16 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 |kun=うめ-, むめ-
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|梅%花|ばい%か}} {{l|en|plum}} or {{l|en|apricot}} {{l|en|blossom}} {{l|en|flower}}
+* {{ja-r|梅%果|ばい%か}} {{l|en|plum}} or {{l|en|apricot}} ({{l|en|fruit}})
+{{der-bottom}}
+
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|うめ}}
 
-{{IPAchar|/me/}} → {{IPAchar|*/mme/}} → {{IPAchar|/mume/}} → {{IPAchar|/ume/}}
+{{IPAchar|/me<sub>2</sub>/}} → {{IPAchar|*/mme<sub>2</sub>/}} → {{IPAchar|/mume<sub>2</sub>/}} → {{IPAchar|/ume<sub>2</sub>/}} → {{IPAchar|/ume/}}
 
 From {{inh|ja|ojp|sort=うめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Found already in the ''{{w|Man'yōshū}}'' with the ''ume'' reading, completed some time after 759 CE.<ref>{{RQ:Manyoshu|5|822}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#822 here]</ref>
 
@@ -80,6 +86,10 @@ Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="D
 {{ja-noun|うめ|ウメ}}
 
 # a {{vern|Japanese plum}} or {{vern|Japanese apricot}}, ''[[Prunus mume]]''
+#* {{RQ:Manyoshu|5|840}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#840 here]
+#*: {{ja-usex|m=波流楊那宜 可豆良尓乎利志 '''烏梅'''能波奈 多礼可有可倍志 佐加豆岐能倍尓|m_kana=はるやなぎ かづらにをりし '''うめ'''のはな たれかうかべし さかづきのへに|春 [[柳]] [[葛|かづら]] に 折りし '''梅''' の 花 誰れ か 浮かべし 酒坏 の 上 に|はる やなぎ かづら に をりし '''うめ''' の はな たれ か うかべし さかづき の へ に|'''Plum blossoms''', picked to make garlands like willows, who will float you in his cup?<ref>{{cite-book|1982|Paula Doe|author2={{w|Ōtomo no Yakamochi|Yakamochi Ōtomo}}|A Warbler's Song in the Dusk: The Life and Work of Ōtomo Yakamochi (718-785)|edition=illustrated|publisher=University of California Press|isbn=0-5200-4346-4|page=32}}</ref>|sort=うめ}}
+#* ''c.'' '''1005''', ''{{w|Shūi Wakashū}}'' (book 1, poem 15)
+#*: {{ja-usex|我が宿の'''梅'''の立ち枝や見えつらむ思ひの[[他|ほか]]に君が来ませる|わが やど の '''うめ''' の たち-え や みえつらむ おもひ の ほか に きみ が きませる|rom=waga yado no '''ume''' no tachi-e ya mietsuran omoi no hoka ni kimi ga kimaseru|Is it that the young branch tips, of the '''plum tree''' in my garden have come into view? For unexpectedly my lord, you have been moved to visit.<ref>{{cite-book|2014|Sugawara no Takasue no Musume|author2=Sonja Arntzen|author3=Moriyuki Ito|The Sarashina Diary: A Woman's Life in Eleventh-Century Japan|series=Translations from the Asian Classics|edition=illustrated, reprint|publisher=Columbia University Press|isbn=0-2315-3745-X|page=111}}</ref>|sort=うめ}}
 # the lowest of a three-level rank system
 
 =====Usage notes=====
@@ -87,16 +97,14 @@ Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="D
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|梅酒|うめしゅ}}: {{l|en|plum wine}}
-* {{ja-r|梅花|ばいか}}: {{l|en|plum}} or {{l|en|apricot}} {{l|en|blossom}} {{l|en|flower}}
-* {{ja-r|梅果|ばいか}}: {{l|en|plum}} or {{l|en|apricot}} ({{l|en|fruit}})
-* {{ja-r|梅沢|^うめざわ}}: a place in {{w|Kanagawa prefecture}}; a {{l|en|surname}}
+* {{ja-r|梅%酒|うめ%しゅ|{{l|en|plum wine}}}}
+* {{ja-r|梅沢|^うめざわ|pos=a place in {{w|Kanagawa Prefecture}}; a {{l|en|surname}}}}
 {{der-bottom}}
 
 =====Coordinate terms=====
-* {{sense|rank}}
-** {{ja-r|松|まつ}}: {{l|en|pine}}, the top rank
-** {{ja-r|竹|たけ}}: {{l|en|bamboo}}, the middle rank
+* {{sense|rank}} {{ja-r|松%竹梅|しょう%ちくばい}}
+** {{ja-r|松|まつ|{{l|en|pine}}|pos=the top rank}}
+** {{ja-r|竹|たけ|{{l|en|bamboo}}|pos=the middle rank}}
 
 ====Proper noun====
 {{ja-pos|proper|うめ}}
@@ -106,7 +114,7 @@ Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="D
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|むめ}}
 
-{{IPAchar|/me/}} → {{IPAchar|*/mme/}} → {{IPAchar|/mume/}}
+{{IPAchar|/me<sub>2</sub>/}} → {{IPAchar|*/mme<sub>2</sub>/}} → {{IPAchar|/mume<sub>2</sub>/}} → {{IPAchar|/mume/}}
 
 From {{inh|ja|ojp|sort=むめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  This reading becomes common during the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> later falling into disuse.  {{l|en|supersede|Superseded}} by the ''ume'' reading above.
 
@@ -117,6 +125,8 @@ From {{inh|ja|ojp|sort=むめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><r
 {{ja-noun|むめ}}
 
 # {{lb|ja|sort=むめ|archaic|possibly|_|obsolete}} a {{vern|Japanese plum}} or {{vern|Japanese apricot}}, ''[[Prunus mume]]''
+#* '''905''', ''{{w|Kokin Wakashū}}'' (book 1, poem 32)
+#*: {{ja-usex|[[折る|折り]]つれば[[袖]][[こそ]][[匂う|匂へ]]'''梅'''の花ありとやここに[[鶯|うぐひす]]の鳴く|をりつれば そで こそ にほへ '''むめ''' の はな あり と や ここ に うぐひす の なく|rom=oritsureba sode koso nioe '''mume''' no hana ari to ya koko ni uguisu no naku|The bough once broken gave its fragrance to the sleeve: petals of the '''plum''' must be somewhere near at hand, the warbler thinks, to hear it sing!<ref>{{cite-book|1993|Edwin A. Cranston|A Waka Anthology: Grasses of remembrance|publisher=Stanford University Press|isbn=0-8047-4825-X|page=138}}</ref>|sort=むめ}}
 
 ===References===
 <references/>
