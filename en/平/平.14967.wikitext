@@ -116,11 +116,138 @@
 |nanori=なみ, つね
 }}
 
-===Proper noun===
-{{ja-pos|たいら|proper|hhira=たひら}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|平均|へいきん|[[average]], [[mean]]; [[balance]]}}
+* {{ja-r|平日|へいじつ|[[weekday]]}}
+* {{ja-r|平凡|へいぼん|[[ordinary]]; [[commonplace]]}}
+* {{ja-r|平野|へいや|[[plain]], [[field]]}}
 
-# {{surname|lang=ja|sort=たいら}}
-# {{given name|male|lang=ja|sort=たいら}}
+* {{ja-r|平和|へいわ|[[peace]], [[harmony]]}}
+* {{ja-r|平%和|ピン%フ}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|ひら|yomi=k}}
+{{IPAchar|/pi<sub>1</sub>ra/}} → {{IPAchar|/pira/}} → {{IPAchar|/fira/}} → {{IPAchar|/hira/}}
+
+Stem of {{m|ja|平たい|tr=hiratai}}. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|ひら|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ひら}}
+
+# [[something]] [[flat]]; [[flatten]]ed
+# [[ordinary]]; [[common]]; [[mediocre]]
+# [[person]] of [[low]]-[[rank]]ing [[status]]
+## [[freshman]]
+## [[novice]]
+## [[private]]
+# the [[top]] [[ridge]] of a [[roof]] [[parallel]] to the [[side]] of a [[building]] {{rfv-sense|ja}}
+# {{short for|lang=ja|平織|tr=hiraori||{{w|plain weave}}}}
+# in [[bookbinding]], the flat part of a [[cover]] {{rfv-sense|ja}}
+# {{short for|lang=ja|平椀|tr=hirawan}}
+
+=====Derived terms=====
+* {{ja-r|平泳ぎ|ひらおよぎ|[[breaststroke]]}}
+* {{ja-r|平%日|ひら%び}}
+
+====Prefix====
+{{ja-pos|prefix|ひら}}
+
+# [[single-minded]] {{rfv-sense|ja}}
+#: connects to a noun
+
+====Proper noun====
+{{ja-pos|proper|ひら}}
+
+# {{given name|female|lang=ja|A=a|sort=ひら}}
+# {{surname|lang=ja|A=a|sort=ひら}}
+
+===Etymology 2===
+{{ja-kanjitab|たいら|yomi=k}}
+{{IPAchar|/tapi<sub>1</sub>ra/}} → {{IPAchar|/tapira/}} → {{IPAchar|/tafira/}} → {{IPAchar|/taira/}}
+
+Nominalization of {{m|ja|平ら|tr=taira}}.
+
+====Noun====
+{{ja-noun|たいら|hhira=たひら}}
+
+# a [[plain]]; a [[flat]] {{rfv-sense|ja}}
+
+====Proper noun====
+{{ja-pos|proper|たいら|hhira=たひら}}
+
+# ''a place name''
+# {{surname|lang=ja|A=a|sort=たいら}}
+# {{given name|male|lang=ja|A=a|sort=たいら}}
+
+===Etymology 3===
+{{ja-kanjitab|ひょう|yomi=o}}
+{{IPAchar|*/bʲau/}} → {{IPAchar|/pʲau/}} → {{IPAchar|/pjɔː/}} → {{IPAchar|/pjoː/}}
+
+Probably from the ''{{ll|ja|呉音|goon}}'' reading ''byō'', itself derived from {{der|ja|ltc|sort=ひよう|-}} {{ltc-l|平|id=2}}. 
+
+{{rfe|ja|explain loss of plosive}}
+
+====Pronunciation====
+{{ja-pron|y=kanyo|ひょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ひょう|hhira=ひやう}}
+
+# {{synonym of|lang=ja|平韻|tr=hyōin}}
+# {{abbreviation of|lang=ja|平調|tr=hyōjō}}
+
+===Etymology 4===
+{{ja-kanjitab|へい|yomi=o}}
+
+From {{der|ja|ltc|sort=へい|-}} {{ltc-l|平|id=2}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|y=kanyo|へい|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|へい}}
+
+# [[something]] neither [[high]] nor [[low]]
+# something [[calm]]
+
+====Proper noun====
+{{ja-pos|proper|へい}}
+
+# {{surname|lang=ja|A=a|sort=へい}}
+
+===Etymology 5===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|おさむ}}
+
+# {{surname|lang=ja|A=a|sort=おさむ}}
+# {{given name|male|lang=ja|A=a|sort=おさむ}} {{rfv-sense|ja}}
+
+{{ja-pos|proper|ひとし}}
+
+# {{surname|lang=ja|A=a|sort=ひとし}}
+# {{given name|male|lang=ja|A=a|sort=ひとし}}
+
+{{ja-pos|proper|ひろし}}
+
+# {{given name|male|lang=ja|A=a|sort=ひろし}} {{rfv-sense|ja}}
+
+{{ja-pos|proper|やすし}}
+
+# {{given name|male|lang=ja|A=a|sort=やすし}} {{rfv-sense|ja}}
+
+{{ja-pos|proper|よし}}
+
+# {{surname|lang=ja|A=a|sort=よし}}
+
+===References===
+<references/>
 
 ----
 
