@@ -72,20 +72,20 @@ Further etymology is unknown. {{zh-ref|Schuessler (2007)}} relates it to {{cog|b
 ====Readings====
 {{ja-readings|goon=すい,し|kanon=すい,し|kun=くち-,くちばし-,はし-}}
 
-===Alternative forms===
+===Etymology 1===
 {{ja-kanjitab|くちばし|yomi=k|r=y}}
-* {{ja-l|喙}}
+From {{com|ja|口|端|tr2=hashi|t2={{l|en|[[tip]]; [[edge]]}}}}. The kanji is composed of {{m|ja|口|tr=kuchi}} and {{m|ja|觜|tr=hashi}}. See also [[嘴#Japanese|嘴]]#Japanese.
 
-===Etymology===
-From {{com|ja|口|觜|tr1=kuchi|t1={{l|en|mouth}}|tr2=hashi|t2={{l|en|[[beak]]; [[bill]]}}}}. This kanji is also composed of those two roots.
+====Alternative forms====
+* {{ja-l|喙}}
 
 ====Pronunciation====
 {{ja-pron|くちばし|acc=0|y=k|dev=1|acc_ref=NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|くちばし}}
 
-# {{lb|ja|anatomy}} {{l|en|a [[beak]]; a [[bill]]}}
+# {{lb|ja|anatomy|sort=くちばし}} {{l|en|a [[beak]]; a [[bill]]}}
 #*{{quote-book|||Booster 5
 |||{{ja-usex|相%手を長い体で締め上げ、大きな'''くちばし'''でつついて攻%撃。|あい%て を ながい からだ で しめあげ、おおきな '''くちばし''' で つついて こう%げき。|It attacks by pecking at its opponent with its huge beak while constricting them with its long body.}}
 |date=Oct 17 1999
@@ -94,8 +94,25 @@ From {{com|ja|口|觜|tr1=kuchi|t1={{l|en|mouth}}|tr2=hashi|t2={{l|en|[[beak]]; 
 |chapter={{laja|くちばしヘビ}}
 |trans-chapter=Beaked Snake}}
 
+===Etymology 2===
+{{ja-kanjitab|はし|yomi=k}}
+From {{m|ja|端|tr=hashi||{{l|en|[[tip]]; [[edge]]}}}}
+
+====Alternative forms====
+* {{ja-l|觜}}
+
+====Pronunciation====
+{{ja-pron|acc=1|y=k|はし}}
+
+====Noun====
+{{ja-noun|はし}}
+
+# {{lb|ja|anatomy|sort=くちばし}} {{l|en|a [[beak]]; a [[bill]]}}
+
 ===References===
 <references/>
+
+{{cln|ja|words with multiple readings}}
 
 ----
 
