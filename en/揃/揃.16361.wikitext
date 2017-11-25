@@ -15,6 +15,7 @@
 ----
 
 ==Chinese==
+{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -24,27 +25,10 @@
 
 ====Pronunciation====
 {{zh-pron
-|m=jiān
-|c=zin1
-|mc=y
-|oc=y
-|cat=
-}}
-
-====Definitions====
-{{zh-hanzi}}
-
-# {{rfdef|zh}}
-
-===Etymology 2===
-{{zh-forms}}
-
-====Pronunciation====
-{{zh-pron
 |m=jiǎn
 |c=zin2
-|mc=y
-|oc=y
+|mc=
+|oc=
 |cat=
 }}
 
@@ -55,6 +39,23 @@
 
 ====Compounds====
 {{zh-der|揃平}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiān
+|c=zin1
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ===References===
 * {{R:yue:mfccd}}
