@@ -14,12 +14,50 @@
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[zin1]], [[zin2]]|y=jin1, jin2}}
+===Glyph origin===
+{{Han etym}}
 
-# to [[skin]] an [[animal]]
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiān
+|c=zin1
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiǎn
+|c=zin2
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|揃平}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -45,12 +83,3 @@
 {{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
 
 # {{defn|lang=ko|sort=手09}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[jiǎn]] ([[jian3]]), [[jiān]] ([[jian1]])|wg=chien<sup>3</sup>, chien<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=手09}}
