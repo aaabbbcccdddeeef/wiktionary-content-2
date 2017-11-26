@@ -50,6 +50,10 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=广07}}
 
+# [[courtyard]]
+# [[garden]]
+# [[yard]]
+
 ====Readings====
 {{ja-readings
 |goon=じょう<ぢやう
@@ -57,18 +61,50 @@
 |kun=にわ-<には-
 }}
 
-===Pronunciation===
+====Compounds====
+* {{ja-r|庭園|ていえん|[[garden]]}}
+* {{ja-r|庭球|ていきゅう|[[tennis]]}}
+
+===Etymology===
 {{ja-kanjitab|にわ|yomi=k}}
+{{IPAchar|/nipa/}} → {{IPAchar|/nifa/}} → {{IPAchar|/niwa/}}
+
+From {{inh|ja|ojp|sort=にわ|-}}.
+
+===Pronunciation===
 {{ja-pron|yomi=k|にわ|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|にわ|hhira=には}}
 
 # [[garden]]
+#* '''1235''', ''{{w|Shinchokusen Wakashū}}'' (book 16, poem 1052); also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 96)
+#*: {{ja-usex|花[[誘う|さそふ]][[嵐]]の'''庭'''の[[雪]]ならでふりゆくものは[[我が身|わが身]][[なりけり]]|はな さそふ あらし の '''には''' の ゆき なら で ふり ゆく もの は わが み なり けり|rom=hana sasou arashi no '''niwa''' no yuki nara de furi yuku mono wa waga mi nari keri|It entices the flowers―the storm―but though the '''garden's''' white, it is not snow, and what it is that's scattering are, in fact, the years of my life!<ref>{{cite-book|1996|Joshua S. Mostow|Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2||||page=424}}</ref>|sort=にわ}}
 #: {{ja-usex|'''庭'''で美味しい魚を食べた。|'''にわ''' で おいし.い さかな を たべた。|I ate a delicious fish in the '''garden'''.}}
+# {{lb|ja|historical|sort=にわ}} [[place]] where [[something]] is done {{rfv-sense|ja}}
+# {{lb|ja|regional|sort=にわ}} at the entrance of a house, a [[dirt]] [[floor]] {{rfv-sense|ja}}
+# {{synonym of|lang=ja|家庭|tr=katei||[[home]]; [[family]]}}
+# [[wide]] [[sea]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|庭%木|にわ%き|[[garden]] [[tree]]}}
+* {{ja-r|庭%師|にわ%し|[[gardener]]}}
+* {{ja-r|庭弄り|にわ-いじり}}, {{ja-r|庭%仕%事|にわ%-し%ごと|[[gardening]]}}
+* {{ja-r|庭つ鳥|にわ つ とり|pos=old name for ''niwatori''; [[epithet]] for "[[chicken]]"}}
+* {{ja-r|接骨木|ニワトコ|Japanese [[elderberry]]}} 
+* {{ja-r|鶏|にわとり|[[chicken]]}}
+* {{ja-r|場|ば|[[place]]; [[occasion]]; [[field]]}}
+{{der-bottom}}
 
 ====Coordinate terms====
 * {{ja-r|公園|こうえん}}: [[park]]
+
+===Proper noun===
+{{ja-pos|proper|にわ|hhira=には}}
+
+# {{given name|lang=ja|female|sort=にわ}}
+# {{surname|lang=ja|sort=にわ}}
 
 ===References===
 <references/>
