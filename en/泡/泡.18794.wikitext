@@ -4,10 +4,6 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=05|sn=8|four=37112|canj=EPRU|ids=⿰氵包}}
 
-# [[bubbles]], [[suds]]
-# [[blister]]
-# [[soak]]
-
 ====References====
 * {{Han ref|kx=0617.070|dkj=17307|dj=1012.050|hdz=31591.050|uh=6CE1|ud=27873|bh=AA77|bd=43639}}
 
@@ -19,31 +15,49 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation to be splitted===
 {{zh-pron
-|m=pào,pāo
 |c=pou5,paau4,paau3,paau1
 |h=pfs=pau
-|md=
 |mn=phàu/xm,zz:phāu/qz,xm,zz:phā/qz:pha/tw:pho/tw:phò
 |mn_note=pho - 波 is used in the Mainland; phò - 啵 is used in the Mainland
-|w=
-|mc=y
-|oc=y
 |cat=n,v,cls
+}}{{attention|zh}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=pāo
+|mc=y<!--Does /bˠau/ have the proper noun sense only?-->
+|oc=1+3
 }}
 
-===Definitions===
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Name of a river.}}
+# {{rfdef|zh}}
+# [[small]] [[lake]]
+#: {{zh-alt-inline|脬}}
+# {{zh-classifier|excreta}}
+#: {{zh-alt-inline|脬}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=pào,er=y
+|oc=2
+}}
+
+====Definitions====
 {{zh-hanzi}}
 
 # [[bubble]]
-# [[pimple]]
 # [[bubblelike]] object
-# to cause to [[soak]] in fluid
+# [[blister]]
+# to [[soak]]
+#: {{zh-alt-inline|𣶐}}
 # {{lb|zh|slang}} to meet and seduce somebody for romantic purposes, to [[pick up]]
-# {{n-g|classifier for urine}}
 
-====Compounds====
+===Compounds===
 {{zh-der|豆泡|燈泡|泡泡|泡沫}}
 
 ----
