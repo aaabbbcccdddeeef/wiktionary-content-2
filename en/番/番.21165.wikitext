@@ -20,15 +20,28 @@
 {{Han etym}}
 {{Han compound|釆|田|ls=psc|c1=p|c2=s}} – "animal's footprint in the field"; original form of {{zh-l|蹯}}.
 
+===Etymology===
+; “to do in turns; turn; time”
+: Iterative of {{och-l|反|to turn; to return|id=1}} by aspiration of the initial ({{zh-ref|Schuessler, 2007}}).
+
+{{etystub|zh}}
+
 ===Pronunciation 1===
 {{zh-pron
 |m=fān
+|m-s=fan1
 |c=faan1
-|h=pfs=fân
+|c-t=fan1
+|g=fan1
+|h=pfs=fân;gd=fan1
+|j=fan1
 |md=huăng
 |mn=hoan/xm,qz,tw:han
 |mn_note=han - only used in {{zh-l|*番薯}}
+|mn-t=huang1/huêng1/hung1/hang1
+|mn-t_note=hung1 (Chaozhou) / hang1 (Jieyang) - only used in {{zh-l|*番葛}}
 |w=1fe
+|x=fan1
 |mc=2
 |oc=2,4
 |cat=v,cls,n
@@ -43,7 +56,7 @@
 # {{zh-classifier|[[different]] [[kind]]s of [[thing]]s|t=[[kind]]; [[type]]}}
 # {{n-g|A [[generic]] [[term]] for the [[non-]][[Han]] [[people]] in [[China]]'s [[west]] in [[historical]] [[time]]s;}} {{lb|zh|by extension}} [[non-]][[Han]] [[people]]; [[foreign]] [[land]]; [[foreign]], [[non-native]]
 #: {{zh-syn|胡|洋}}
-#: {{zh-x|番茄|tomato [lit. foreign eggplant]}}
+#: {{zh-x|番茄|tomato [lit. '''foreign''' eggplant]}}
 # {{zh-short|番劇|[[anime]] [[series]]}}
 
 ====Compounds====
@@ -53,6 +66,8 @@
 {{zh-pron
 |m=Pān
 |c=pun1
+|mn-t=puan1/puang1
+|mn-t_note=puang1 - Shantou
 |w=1phoe
 |mc=3
 |oc=n,3
@@ -84,6 +99,7 @@
 {{zh-pron
 |m=pó
 |c=po4
+|mn-t=po5
 |cat=pn,a
 }}
 
