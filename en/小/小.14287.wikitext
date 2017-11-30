@@ -102,8 +102,7 @@ Compare with {{och-l|少}}, represented by four dots in its oracle bone script f
 }}
 
 ====Compounds====
-{{rel-top3|compounds containing "小"}}
-* {{ja-r|小さい|ち.いさい}}: small
+{{rel-top3|Compounds}}
 * {{ja-r|小さな|ち.いさ な}}: small
 * {{ja-r|小陰唇|しょういんしん}}: [[labia minora]]
 * {{ja-r|小%国|しょう%こく}}: small nation
@@ -197,24 +196,44 @@ Compare with {{och-l|少}}, represented by four dots in its oracle bone script f
 * {{ja-r|袋%小%路|ふくろ%こ%うじ}}: blind alley
 {{rel-bottom}}
 
-====Idioms====
-* {{ja-r|大は小を兼ねる|だい は しょう を かねる|The greater serves the lesser.}}
+====See also====
+* {{ja-r|小さな|ち.いさ な|small}}
 
+===Etymology 1===
 {{ja-kanjitab|しょう|yomi=o}}
-{{rfc|ja}}
-===Pronunciation===
+{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕjoː/}} 
+
+From {{der|ja|ltc|sort=しよう|-}} {{ltc-l|小}}.
+
+====Pronunciation====
 {{ja-pron|yomi=o|しょう|acc=1|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|しょう|hhira=せう}}
 
 # [[smallness]]; [[small]] size, small (sometimes used as an abbreviation for small serving, etc.)
 
-===Prefix===
+=====Idioms=====
+* {{ja-r|大は小を兼ねる|だい は しょう を かねる|The greater serves the lesser.}}
+
+====Prefix====
 {{ja-pos|prefix|しょう|hhira=せう}}
 
 # [[small]], [[little]]
 
+====Suffix====
+{{ja-pos|suffix|しょう|hhira=せう}}
+
+# suffix after names of [[elementary school]]s
+#: {{ja-usex|佃小|つくだ-しょう|Tsukuda Elementary School}}
+
+===Etymology 2===
+{{ja-kanjitab|こ|yomi=k}}
+{{IPAchar|/ko<sub>1</sub>/}} → {{IPAchar|/ko/}}
+
+From the {{inh|ja|ojp|sort=こ|-}} stem {{m|ja|こ|tr=ko-}}. Cognate with {{m|ja|子|tr=ko||[[child]]}}.
+
+====Prefix====
 {{ja-pos|prefix|こ}}
 
 # [[less]] in size or quantity, [[small]], [[little]], [[short]]
@@ -223,16 +242,50 @@ Compare with {{och-l|少}}, represented by four dots in its oracle bone script f
 # [[infant]]
 
 ====Related terms====
-* {{ja-r|子|こ-}}: child
-* {{ja-r|児|こ-}}: child
-* {{ja-r|娘|こ-}}: daughter
-* {{ja-r|仔|こ-}}: offspring
+* {{ja-r|子|こ-|child}}
+* {{ja-r|児|こ-|child}}
+* {{ja-r|娘|こ-|daughter}}
+* {{ja-r|仔|こ-|offspring}}
 
-===Suffix===
-{{ja-pos|suffix|しょう|hhira=せう}}
+===Etymology 3===
+{{ja-kanjitab|お|yomi=k}}
+{{IPAchar|/wo/}} → {{IPAchar|/o/}}
 
-# suffix after names of elementary schools
-#: {{ja-usex|佃小|つくだ-しょう|Tsukuda Elementary School}}
+From the {{inh|ja|ojp|sort=お|-}} stem {{m|ja|を|tr=wo-}}, modern {{m|ja|お|tr=o-}}. Rarely used alone.
+
+====Prefix====
+{{ja-pos|prefix|お|hhira=を}}
+
+# ''attached to certain nouns'':
+## [[small]] in [[shape]] or [[scale]]
+##: {{m|ja|小川|'''小'''川|tr='''o'''gawa|'''small''' [[river]]}}
+##: {{m|ja|小舟|'''小'''舟|tr='''o'''bune|'''small''' [[boat]]}}
+## ''attached to certain names to give expression or feelings'' {{rfv-sense|ja}}
+##: {{m|ja|小田|'''小'''田|tr='''O'''da||pos=literally, "'''small''' [[rice paddy]]"}}
+##: {{m|ja|小野|'''小'''野|tr='''O'''no|pos=literally, "'''small''' [[field]]"}}
+# ''used proverbially to represent "small" or "slight"'' {{rfv-sense|ja}}
+#: {{m|ja|[[小止み]]なく降る雨|'''小'''止みなく降る雨|tr='''oyami'''naku furu ame}}
+#: {{m|ja|[[小暗い]]道|'''小'''暗い道|tr='''ogurai''' michi}}
+
+===Etymology 4===
+{{ja-kanjitab|ささ|yomi=k}}
+{{ja-kanjitab|さざ|yomi=k}}
+{{rfe|ja}}
+
+====Alternative forms====
+* {{ja-l|細}}
+
+====Prefix====
+{{ja-pos|prefix|ささ|さざ}}
+
+# ''attached to certain nouns to mean:''
+## [[small]]
+## [[fine]]
+## [[slight]]
+##: 
+
+====Derived terms====
+* {{ja-r|漣|さざなみ|[[ripple]]}}
 
 ===References===
 <references/>
