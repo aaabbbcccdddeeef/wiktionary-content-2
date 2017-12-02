@@ -25,13 +25,13 @@
 {{ja-kanji|grade=4|kyu=燈|rs=火02}}
 
 ====Readings====
-As shinjitai/variant kanji of 燈:
+As shinjitai/variant kanji of {{ja-l|燈}}:
 {{ja-readings
 |goon=とう
 |kanon=とう
 |kanyoon=とん
 }}
-As unsimplified kanji 灯:
+As unsimplified kanji {{ja-l||灯}}:
 {{ja-readings
 |goon=ちょう<ちやう
 |kanon=てい
@@ -43,25 +43,124 @@ Readings shared by both kanji:
 |nanori=
 }}
 
-{{attention|ja|help with readings}}
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|灯%籠|とう%ろう}}
 * {{ja-r|幻%灯|げん%とう}}
 * {{ja-r|提%灯|ちょう%ちん}}
+{{der-bottom}}
 
-===Counter===
-{{ja-pos|とう|counter|kyu=燈}}
+===Etymology 1===
+{{ja-kanjitab|とう|yomi=o}}
+From {{der|ja|ltc|sort=|-}} {{ltc-l|燈}}.
 
-# electric lights
+====Pronunciation====
+{{ja-pron|y=o|とう|acc=1|acc_ref=DJR}}
 
-===Suffix===
-{{ja-pos|とう|suffix|kyu=燈}}
+====Noun====
+{{ja-noun|kyu=燈|とう}}
 
-# electric light
+# [[light]]
 
-===Noun===
-{{ja-noun|ともしび}}
+====Counter====
+{{ja-pos|counter|kyu=燈|とう}}
+
+# [[electric]] [[light]]s
+
+====Suffix====
+{{ja-pos|suffix|kyu=燈|とう}}
+
+# [[electric]] [[light]]
+
+===Etymology 2===
+{{ja-kanjitab|ともし|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tomosu||to [[light]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|ともし|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=燈|ともし}}
 
 # a [[light]]
+# {{altspelling|lang=ja|照射||a [[torch]] used to [[bait]] [[deer]]}}
+
+===Etymology 3===
+{{ja-kanjitab|ともしび|yomi=k}}
+Compound of {{m|ja|点し|tr=tomoshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tomosu||to [[light]]}} + {{m|ja|火|tr=hi||[[fire]]}}. The ''hi'' changes to ''bi'' as an instance of {{rendaku|sort=ともしひ}}.
+
+====Alternative forms====
+* {{ja-l|灯火}}, {{ja-l|燭}}
+
+====Pronunciation====
+{{ja-pron|y=k|ともしび|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=燈|ともしび}}
+
+# a [[light]]
+#: '''1986''', {{w2|ja|井上あずみ}}, {{w2|ja|pref=「|suf=」|君をのせて}}
+#:: {{ja-usex|[...]　[[君]]を[[隠す|かくして]]　[[輝く]][[瞳]][[煌めく|きらめく]] '''灯'''　[[地球]]は[[回る|まわる]]君を[[乗せる|のせて]]　[...]|[...]　きみ を かくして　かがやく ひとみ きらめく '''ともしび'''　ちきゅう は まわる きみ を のせて　[...]|rom=...kimi o kakushite, kagayaku hitomi kirameku '''tomoshibi''', chikyū wa mawaru kimi wo nosete, ...|sort=ともしひ}}
 # a [[lit]] [[flame]] such as a [[candle]] or [[torch]]
 # {{lb|ja|sort=ともしび|historical|obsolete}} under the {{w|Ritsuryō}} system in the {{w|Heian period}}, a kind of [[scholarship]] granted to [[university]] [[student]]s
+
+=====Derived terms=====
+* {{ja-r|灯%消えんとして光を増す|ともしび% きえん として ひかり を ます}}
+
+===Etymology 4===
+{{ja-kanjitab|とぼし|yomi=k}}
+{{IPAchar|/tomosi/}} → {{IPAchar|/tobosi/}} → {{IPAchar|/toboɕi/}}
+
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tobosu||to [[light]]|pos=archaic}}.
+
+Appears to be a shift from ''tomoshi'' above, nasal /m/ becomes plosive /b/.
+
+====Pronunciation====
+{{ja-pron|y=k|とぼし|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=燈|とぼし}}
+
+# {{lb|ja|archaic|sort=とほし}} a [[light]]; a [[lamp]]
+
+====Proper noun====
+{{ja-pos|proper|とぼし}}
+
+# ''a [[place name]]''
+
+===Etymology 5===
+{{ja-kanjitab|あかし|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|明かす|tr=akasu||to [[pass]]}}.
+
+====Alternative forms====
+* {{ja-l|明かし}}
+
+====Pronunciation====
+{{ja-pron|y=k|あかし|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=燈|あかし}}
+# a [[light]] or [[lamp]], especially in the context of [[Shinto]] and [[Buddhism]].
+#: '''1987''', {{w2|ja|坂本冬美}}, {{w2|ja|pref=「|suf=」|あばれ太鼓}}
+#:: {{ja-usex|[[櫓%太%鼓]]の'''灯'''が[[揺れる|ゆれて]][[揃う|揃い]][[浴衣]]の[[夏]]が[[行く|ゆく]]|やぐら%-だい%こ の '''あかし''' が ゆれて そろい ゆかた の なつ が ゆく|sort=あかし}} 
+
+=====Derived terms=====
+* {{ja-r|御%灯|み%あかし|[[lighted]] [[lamp]] used as a [[religious]] [[offering]]}}
+
+===Etymology 6===
+{{ja-kanjitab|ひ|yomi=k}}
+Cognate with {{m|ja|火|tr=hi||[[fire]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|ひ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=燈|ひ}}
+
+# a [[light]] that [[illuminates]] objects
+
+=====Derived terms=====
+* {{ja-r|灯%涼し|ひ%すずし|[[coolness]] of [[twinkle|twinkling]] lights}}
+
+===References===
+<references/>
