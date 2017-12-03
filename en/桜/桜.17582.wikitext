@@ -16,15 +16,17 @@
 ----
 
 ==Japanese==
+<div style="float:right;">
 {{ja-kanji forms|桜|櫻}}
 {{wikipedia|lang=ja}}
 {{wikipedia|Cherry blossom}}
+</div>
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=木06|kyu=櫻}}
 
-# a [[cherry]] [[tree]]
-# a [[cherry]] [[blossom]]
+# [[cherry]] [[tree]]
+# [[cherry]] [[blossom]]
 
 ====Readings====
 {{ja-readings
@@ -35,23 +37,12 @@
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|桜チーズ|さくら チーズ}}: [[sakura]] [[cheese]]: see [[w:Sakura cheese|sakura cheese]]
-* {{ja-r|桜木|さくらぎ}}: [[cherry tree]]
-* {{ja-r|桜花|おうか}}, {{ja-r|桜花|さくらばな}}: [[cherry blossom]] ([[flower]])
-* {{ja-r|桜桃|さくらんぼ}}, {{ja-r|桜桃|おうとう}}: [[cherry]] (lit. cherry & [[peach]])
-* {{ja-r|桜ん坊|さくらんぼ}}: [[cherry]] ([[fruit]]) mostly used for Japanese cherries
-* {{ja-r|桜色|さくらいろ}}: (''[[complexion]]''): [[pink]]; [[florid]]
-* {{ja-r|桜海老|さくら えび}}: a kind of [[shrimp]] or [[prawn]]
-* {{ja-r|桜貝|さくらがい}}: a kind of [[shellfish]]
-* {{ja-r|桜草|さくらそう}}: [[primrose]]
-* {{ja-r|桜肉|さくらにく}}: [[horsemeat]]
-* {{ja-r|桜餅|さくらもち}}: [[w:Sakuramochi|sakuramochi]]
-* {{ja-r|桜前線|さくら ぜんせん}}: the cherry-blossom [[front]]
-* {{ja-r|桜湯|さくら ゆ}}: [[sakura tea]]
-* {{ja-r|桜吹雪|さくら ゆき}}: a flurry of falling cherry blossoms
+* {{ja-r|桜%花|おう%か|[[cherry blossom]]}}
+* {{ja-r|桜桃|おうとう|[[cherry]]|pos=literally "cherry and [[peach]]}}
 {{der-bottom}}
 
 ===Etymology===
+<div style="float:right;">
 {| style="float:right;padding:0px;margin-right:-5px;"
 | [[File:Cerisier_du_Japon_Prunus_serrulata.jpg|thumb|none|119px|{{lang|ja|桜（[[桜木#Japanese|桜木]]）}}<br/>[[cherry tree]]]]
 | [[File:Cherry_blossoms_in_Vancouver_3_crop.jpg|thumb|none|119px|{{lang|ja|桜（[[桜花#Japanese|桜花]]）}}<br/>[[cherry blossom]]]]
@@ -68,8 +59,11 @@
 | <div class="thumb tnone">
 <div class="thumbinner" style="width: 120px;">[[File:Kintengu_03c.png|37px]] [[File:Kintengu_03d.png|37px]] [[File:Kintengu_03h.png|37px]] <div class="thumbcaption">{{lang|ja|桜（[[花札#Japanese|花札]]）}}<br/>cherry blossom [[suit]]</div></div></div>
 |}
-{{ja-kanjitab|yomi=k|さくら}}
-From {{etyl|ojp|ja|sort=さくら}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Derived from verb {{suffix|lang=ja|sort=さくら|咲く|tr1=saku|t1=to bloom, to burst open|ら|tr2=ra}}, a nominalizing and pluralizing suffix.
+</div>
+{{ja-kanjitab|さくら|yomi=k}}
+From {{etyl|ojp|ja|sort=さくら}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> 
+
+Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}} + {{m|ja|等|tr=-ra|pos=nominalizing and pluralizing suffix}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=k|さくら|acc=0|acc_ref=DJR}}
@@ -77,15 +71,19 @@ From {{etyl|ojp|ja|sort=さくら}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 ===Noun===
 {{ja-noun|さくら|サクラ|kyu=櫻}}
 
-# a [[cherry]] tree, more specifically the Japanese cherry, {{taxlink|Prunus serrulata|species|noshow=1}}
+# a [[cherry]] tree, more specifically the Japanese cherry ({{taxlink|Prunus serrulata|species|ver=171202}})
+#* '''905''', ''{{w|Kokin Wakashū}}'' (book 16, poem 832)
+#*: {{ja-usex|[[深草]]の[[野辺]]の'''桜'''し心あらば[[今年]][[ばかり]]は[[墨染]]に咲け|^ふかくさ-の-のべ の '''さくら''' し こころ あらば ことし ばかり は すみぞめ に さけ|oh '''cherry trees''' of Fukakusa Field[,] if you truly have a heart this year[,] at least[,] you'll be dressed in blossoms dyed in inky black.<ref>{{cite-book|1996|Laurel Rasplica Rodd|author2=Mary Catherine Henkenius|Kokinshū: A Collection of Poems Ancient and Modern|series=C & T Asian literature series; C & T Asian languages series|edition=reprint|publisher=Cheng & Tsui|isbn=0-8872-7249-5|page=288}}</ref>|sort=さくら}}
 # a [[cherry]] blossom
+#* '''1086''', ''{{w|Goshūi Wakashū}}'' (book 1, poem 120; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 73)
+#*: {{ja-usex|[[高砂の]][[尾上|をのへ]]の'''桜'''咲きに[[けり]][[外%山]]の[[霞|かすみ]][[立てる|立たず]]もあらなむ|たかさご の をのへ の '''さくら''' さき に けり と%やま の かすみ たたず も あらなむ|rom=Takasago no onoe no '''sakura''' saki ni keri toyama no kasumi tatazu mo aranan|The '''cherries''' on Takasago peak have come into bloom; may the haze not rise on the outer slopes.<ref>{{cite-book|1993|{{w|Princess Shikishi}}|author2=Hiroaki Sato|String of Beads: Complete Poems of Princess Shikishi|series=A publication of the School of Hawaiian, Asian & Pacific studies; SHAPS library of translations|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1483-5|page=77}}</ref>|sort=さくら}} 
 # cherry [[wood]]
 # cherry [[bark]]
 # short for {{m|ja|桜色|tr=sakura iro||a pink color, the color of cherry blossoms}}
-# short for {{l|ja|桜重}}, {{m|ja|桜襲|tr=sakuragasane||a layered style of wearing [[kimono]] with one layer in the ''sakura iro'' color}}
+# short for {{m|ja|桜重}}, {{m|ja|桜襲|tr=sakuragasane||a layered style of wearing [[kimono]] with one layer in the ''sakura iro'' color}}
 # short for {{m|ja|桜肉|tr=sakura niku||[[horsemeat]]}}, from the color
 # alternate term for {{m|ja|天保一分銀|tr=Tenpō ichibugin}}, a [[rectangular]] [[silver]] [[coin]] issued during the {{m|ja|天保|tr=Tenpō}} era (1830-1844), so called for its cherry blossom pattern; worth one-quarter of a {{m|ja|両|tr=ryō}}
-# in the [[w:Kansai region|Kansai region]], a class of [[prostitute]] in the [[red-light district]]
+# in the {{w|Kansai region}}, a class of [[prostitute]] in the [[red-light district]]
 # short for {{m|ja|桜湯|tr=sakura yu||sakura tea}}
 # the [[suit]] of [[card]]s in a [[hanafuda]] deck that show the cherry blossom, representing the [[month]] of [[March]]
 # the [[middle]] of the [[dorsal]] [[fin]] of a [[fish]]
@@ -95,12 +93,30 @@ From {{etyl|ojp|ja|sort=さくら}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 # short for {{m|ja|佐倉炭|tr=Sakura-zumi}}, a high-quality {{m|ja|炭|tr=sumi||charcoal}} made in {{m|ja|佐倉|tr=[[w:Sakura,_Chiba|Sakura]], [[w:Chiba Prefecture|Chiba Prefecture]]}}, using {{lang|ja|桜}} as [[ateji]] for {{l|ja|佐倉}}
 
 ====Synonyms====
-* {{sense|cherry tree}} {{ja-r|桜木|さくらぎ}}
+* {{sense|cherry tree}} {{ja-r|桜%木|さくら%ぎ}}
 * {{sense|cherry blossom}} {{ja-r|桜花|おうか}}, {{ja-r|桜花|さくらばな}}
 * {{sense|cherry bark}} {{ja-r|桜皮|さくらがわ}}
-* {{sense|horsemeat}} {{ja-r|桜肉|さくらにく}}, {{ja-r|馬肉|ばにく}}
-* {{sense|silver coin}} {{ja-r|天保一分銀|^てんぽう いちぶぎん}}; {{ja-r|額銀|がくぎん}}
-* {{sense|sakura tea}} {{ja-r|桜湯|さくら ゆ}}
+* {{sense|horsemeat}} {{ja-r|桜%肉|さくら%にく}}, {{ja-r|馬%肉|ば%にく}}
+* {{sense|silver coin}} {{ja-r|天保%一%分%銀|^てんぽう% いち%ぶ%ぎん}}; {{ja-r|額銀|がくぎん}}
+* {{sense|sakura tea}} {{ja-r|桜%湯|さくら% ゆ}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|桜%色|さくら%いろ}}: (''[[complexion]]''): [[pink]]; [[florid]]
+* {{ja-r|桜%海老|さくら%-えび}}: a kind of [[shrimp]] or [[prawn]]
+* {{ja-r|桜%貝|さくら%がい}}: a kind of [[shellfish]]
+* {{ja-r|桜%木|さくら%ぎ|[[cherry tree]]}}
+* {{ja-r|桜%前線|さくら% ぜんせん|the cherry-blossom [[front]]}}
+* {{ja-r|桜%草|さくら%そう|[[primrose]]}}
+* {{ja-r|桜チーズ|さくら チーズ|[[sakura]] [[cheese]]}}
+* {{ja-r|桜%肉|さくら%にく|[[horsemeat]]}}
+* {{ja-r|桜花|さくらばな}}: [[cherry blossom]] ([[flower]])
+* {{ja-r|桜%吹雪|さくら% ふぶき|[[flurry]] of [[fall]]ing cherry blossoms}}
+* {{ja-r|桜%餅|さくら%もち|{{w|sakuramochi}}}}
+* {{ja-r|桜%湯|さくら% ゆ|[[sakura tea]]}}
+* {{ja-r|桜桃|さくらんぼ|[[cherry]]|pos=literally "cherry and [[peach]]"}}
+* {{ja-r|桜ん坊|さくらんぼう|[[edible]] [[cherry]]}}
+{{der-bottom}}
 
 ====See also====
 * {{ja-r|木材|もくざい}}: [[wood]], [[timber]], [[lumber]]
@@ -113,6 +129,7 @@ From {{etyl|ojp|ja|sort=さくら}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 # {{given name|lang=ja|sort=さくら|female}}
 # the name of various cities, districts, and other places around Japan
 # a piece of {{m|ja|琴|tr=koto}} [[music]], often [[entitle]]d ''[[w:Sakura Sakura|Sakura Sakura]]'' in English
+#: {{ja-usex|桜　桜　[[弥生]]の[[空]]は　[[見%渡す]][[限り]]　[...]|さくら　さくら　^やよい の そら は　み%わたす かぎり　[...]|rom=sakura sakura yayoi no sora wa miwatasu kagiri...|sort=さくら}}
 # a piece of music played at the start of {{m|ja|平曲|tr=Heikyoku}} (a [[retelling]] of ''[[w:The Tale of the Heike|The Tale of the Heike]]'' with {{m|ja|琵琶|tr=biwa}} [[lute]] [[accompaniment]])
 
 ====See also====
