@@ -21,7 +21,17 @@
 ===Pronunciation===
 {{zh-pron
 |m=wǔ
+|m-s=
 |c=ng5,ng6
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
 |mc=y
 |oc=y
 |cat=
@@ -33,7 +43,7 @@
 # {{rfdef|zh}}
 
 ====Compounds====
-{{zh-der|忤視|乖忤|忤逆不孝|忤耳|忤慢|忤奴|忤物|忤逆|不以為忤}}
+{{zh-der|不以為忤|乖忤|忤奴|忤慢|忤物|忤耳|忤視|忤逆|忤逆不孝|違忤}}
 
 ===References===
 * {{R:yue:mfccd}}
@@ -48,7 +58,10 @@
 # {{defn|lang=ja|sort=心04}}
 
 ====Readings====
-* {{ja-readings|on=[[ご]] (go)|kun=[[さからう]] (sakarau)}}
+* {{ja-readings
+|goon=ぐ
+|kanon=ご
+|kun=さからう, もと-る}}
 
 ----
 
@@ -64,6 +77,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心04|hanviet=ngỗ}}
+{{vi-hantu|rs=心04|ngỗ}}
 
 # {{defn|lang=vi|sort=心04}}
