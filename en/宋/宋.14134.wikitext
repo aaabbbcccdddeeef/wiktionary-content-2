@@ -53,18 +53,51 @@
 ===Kanji===
 {{ja-kanji|grade=8|rs=宀04}}
 
-# {{defn|lang=ja|sort=宀04}}
+# [[Song]] ([[Chinese]] [[dynasty]])
+<!--# [[dwell]] -->
 
 ====Readings====
+{{rfv-pronunciation|ja}}
 {{ja-readings
+|goon=そ
 |kanon=そう
-|kun=すまい, おる
+|toon=そん
+|soon=そん
+<!--|kun=すまい-, お-る-->
 }}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|屈%宋|^くっ%そう}}
+* {{ja-r|呂%宋|^ル%ソン|[[Luzon]]}}
+{{der-bottom}}
+
+===Etymology===
+{{wp|lang=ja}}
+{{ja-kanjitab|そう|yomi=o}}
+
+From {{der|ja|ltc|sort=そう|-}} {{ltc-l|宋}}. {{rfv-etymology|ja}}
+
+===Pronunciation===
+{{ja-pron|y=kan|そう}}
 
 ===Proper noun===
 {{ja-pos|proper|そう}}
 
-# [[Song]] (former Chinese dynasty)
+# [[Song]] (former [[Chinese]] [[dynasty]]):
+## name of the state during the [[Zhou]] dynasty {{rfv-sense|ja}}
+## the {{m|ja|劉宋|tr=Ryūsō}}, around 420-479
+## the {{m|ja|北宋|tr=Hokusō||Northern Song}} and {{m|ja|南宋|tr=Nansō||Southern Song}} dynasties, spanning around 960-1279
+# {{surname|lang=ja|A=a|sort=そう}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|宋音|^そう-おん}}
+* {{ja-r|宋学|^そう-がく}}
+* {{ja-r|宋詞|^そう-し}}
+* {{ja-r|宋朝|^そう-ちょう}}
+* {{ja-r|入宋|にゅう-^そう}}
+{{der-bottom}}
 
 ----
 
