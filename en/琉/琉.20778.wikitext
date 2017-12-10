@@ -45,7 +45,12 @@
 # [[lapis lazuli]]
 
 ====Readings====
-* {{ja-readings|on=[[りゅう]] (ryū), [[る]] (ru)|kun=|nanori=}}
+* {{ja-readings
+|goon=る
+|kanon=りゅう<りう
+|kun=
+|nanori=
+}}
 
 ====Compounds====
 * {{ja-r|琉璃|るり}}: [[lapis lazuli]]
@@ -64,6 +69,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=玉07| hanviet = lưu}}
+{{vi-hantu|rs=玉07|lưu}}
 
 # {{defn|lang=vi|sort=玉07}}
