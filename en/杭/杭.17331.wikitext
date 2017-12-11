@@ -77,7 +77,11 @@ Originally a variant of {{och-l|抗|to fight against}}.
 # {{defn|lang=ja|sort=木04}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[わたる]] (wataru), [[くい]] (kui)}}
+* {{ja-readings
+|goon=ごう
+|kanon=こう
+|kun=くい-, わた-る
+}}
 
 ===Noun===
 {{ja-noun|くい}}
