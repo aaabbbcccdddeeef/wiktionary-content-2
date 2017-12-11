@@ -12,12 +12,74 @@
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=yeung4}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|氵|襄|c1=s|c2=p|t1=water|ls=psc}}.
 
-# {{defn|lang=yue|sort=水17}}
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=ráng
+|c=joeng4
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|甘露瀼瀼|瀼瀼濕濕|瀼瀼|泱瀼}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=ráng
+|c=joeng6
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|瀼河|瀼瀼|泱瀼}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=nǎng
+|c=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{su#bst:zh-der/new|泱瀼|p=nǎng}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -39,16 +101,3 @@
 {{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
 
 # {{defn|lang=ko|sort=水17}}
-
-----
-
-==Mandarin==
-
-{{Han compound|氵|襄|c1=s|c2=p|t1=river|ls=psc}}.
-
-===Hanzi===
-{{cmn-hanzi|pin=[[ráng]] ([[rang2]])|wg=jang<sup>2</sup>}}
-
-{{cmn-hanzi|pin=[[ràng]] ([[rang4]])}}
-
-# {{defn|lang=cmn|sort=水17}}
