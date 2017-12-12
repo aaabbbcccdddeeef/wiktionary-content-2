@@ -27,7 +27,10 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|溘溘|溘謝}}
 
 ----
 
@@ -39,7 +42,10 @@
 # {{defn|lang=ja|sort=水10}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[たちまち]] (tachimachi), [[にわか]] (niwaka)}}
+* {{ja-readings
+|goon=こう<こふ
+|kanon=こう<かふ
+|kun=[[たちまち]] (tachimachi), [[にわか]] (niwaka)}}
 
 ----
 
@@ -55,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水10| hanviet = hụp}}
+{{vi-hantu|rs=水10|hụp}}
 
 # {{defn|lang=vi|sort=水10}}
