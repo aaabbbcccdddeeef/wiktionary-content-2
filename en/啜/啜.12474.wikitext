@@ -10,24 +10,21 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=諁,嚽,歠,𠼣,𩟫}}
+
 
 ===Glyph origin===
 {{Han etym}}
 
-===Etymology 1===
+<!--|c=cyut3,zyut3
+|h=pfs=cho̍t-->{{attention|zh|Please check and place these pronunciations}}
 
-====Pronunciation====
+===Pronunciation 1===
+{{zh-forms|alt=嚽,歠,𠼣,𩟫}}
 {{zh-pron
-|m=chuò,zhuó
-|c=cyut3,zyut3
-|h=pfs=cho̍t
-|md=
-|mn=
-|w=
-|mc=y
-|oc=y
-|cat=
+|m=chuò
+|mc=1+2+3+5
+|oc=y,1+2+4+5
+|cat=v
 }}
 
 ====Definitions====
@@ -39,25 +36,34 @@
 =====Compounds=====
 {{zh-der|啜汁|啜飲|啜持|啜哄|啜賺|啜茶|啜泣|啜茗|啜菽飲水|餔糟啜醨|餔啜|飲水啜菽}}
 
-====References====
-* {{R:yue:Hanzi}}
-
-===Etymology 2===
-
-====Pronunciation====
+===Pronunciation 2===
+{{zh-forms|alt=諁}}
 {{zh-pron
-|m=chuài
-|c=
-|mc=
-|oc=
-|ma=
+|m=zhuó
+|mc=4
+|oc=n,3
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
+# {{defn|zh}}
+
+===Pronunciation 3===
+{{zh-forms}}
+{{zh-pron
+|m=chuài
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{surname|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
