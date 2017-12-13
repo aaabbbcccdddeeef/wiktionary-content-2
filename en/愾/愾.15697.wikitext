@@ -34,7 +34,7 @@
 # {{rfdef|zh}}
 
 ====Compounds====
-{{zh-der|愾憤|同仇敵愾|敵愾|憤愾|敵愾同仇}}
+{{zh-der|同仇敵愾|愾憤|憤愾|敵愾|敵愾同仇}}
 
 ===References===
 * {{R:yue:mfccd}}
@@ -49,7 +49,12 @@
 # {{defn|lang=ja|sort=心10}}
 
 ====Readings====
-* {{ja-readings|on=[[き]] (ki), [[がい]] (gai), [[きつ]] (kitsu)|kun=[[ためいき]] (tameiki)}}
+* {{ja-readings
+|goon=かい, け
+|kanon=かい, き
+|kanyoon=がい
+|kun=ためいき
+}}
 
 ----
 
@@ -65,7 +70,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心10|hanviet=khái}}
+{{vi-hantu|rs=心10|khái}}
 
 # {{defn|lang=vi|sort=心10}}
 
