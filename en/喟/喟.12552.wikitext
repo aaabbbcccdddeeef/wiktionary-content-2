@@ -30,7 +30,10 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|慷喟}}
 
 ----
 
@@ -42,7 +45,11 @@
 # {{defn|lang=ja|sort=口09}}
 
 ====Readings====
-* {{ja-readings|on=[[き]] (ki), [[くわい]] (kuwai), [[け]] (ke)|kun=[[ためいき]] (tameiki)}}
+* {{ja-readings
+|goon=き<くゐ
+|kanon=き<くゐ
+|kun=なげ-く, ためいき
+}}
 
 ----
 
@@ -58,6 +65,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[vị]]|rs=口09}}
+{{vi-hantu|vị|rs=口09}}
 
 # {{defn|lang=vi|sort=口09}}
