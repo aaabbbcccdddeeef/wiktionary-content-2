@@ -50,7 +50,12 @@
 # {{defn|lang=ja|sort=心06}}
 
 ====Readings====
-* {{ja-readings|on=[[じゅん]] (jun), [[しゅん]] (shun)|kun=[[まこと]] (makoto)}}
+* {{ja-readings
+|goon=しゅん
+|kanon=しゅん
+|kanyoon=じゅん
+|kun=まこと-
+}}
 
 ----
 
@@ -66,7 +71,7 @@
 ==Vietnamese==
 
 ===Han character===
-'''恂''' ([[tuân]])
+{{vi-hantu|tuân|rs=心06}}
 
 # {{defn|lang=vi}}
 
