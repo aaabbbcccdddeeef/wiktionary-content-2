@@ -78,28 +78,65 @@
 * {{ja-r|世%紀|せい%き}}
 * {{ja-r|世%辞|せ%じ}}
 * {{ja-r|永%世|えい%せい}}
-* {{ja-r|救%世%主|きゅう%せい%しゅ}}
-* {{ja-r|創%世%記|そう%せい%き}}
-* {{ja-r|創%世%期|そう%せい%き}}
-* {{ja-r|新%世%界|しん%せ%かい}}
 {{der-bottom}}
 
-===Counter===
-{{ja-pos|せい|counter}}
+===Etymology 1===
+{{ja-kanjitab|よ|yomi=k}}
+<span class="IPA">⟨yo<sub>2</sub>⟩</span> → {{IPAchar|/yo/}}
 
-# {{l|en|generation}}
-#: {{ja-usex|ルパン三'''世'''|ルパン さん'''せい'''|Lupin the '''Third'''}}
+From {{inh|ja|ojp|sort=よ|-}}, pronunciation is distinct from {{m|ja|夜|tr={{IPAchar|/yo<sub>1</sub>/}}||[[night]], [[nighttime]]}}.
 
-===Noun===
+Change in meaning of {{m|ja|節|tr=yo}}, in the sense of the bamboos and reeds bulging at certain intervals.<ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|y=k|よ|acc=1|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|代}}
+
+====Noun====
 {{ja-noun|よ}}
 
 # {{l|en|world}}, {{l|en|society}}
-# {{l|en|generation}}, {{l|en|age}}
+# this world, this {{w|life}}
+#: {{synonyms|ja|俗世間|tr=zoku seken}}
+# {{l|en|generation}}, {{l|en|age}}, {{l|en|era}}
+# {{l|en|lifetime}}
+#: {{synonyms|ja|一生|tr=isshō}}
+# {{l|en|lifespan}} 
+#: {{synonyms|ja|寿命|tr=jumyō}}
+# {{l|en|time}} of {{l|en|year}}, {{l|en|season}}
+#: {{synonyms|ja|時節|tr=jisetsu|時期|tr2=jiki|折|tr3=ori}}
+# {{l|en|relationship}} between a man and a woman
+# {{l|en|period}} of a person leading as a {{l|en|patriarch}} {{rfv-sense|ja}}
 
-===Suffix===
-{{ja-pos|せい|suffix}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|神%世|かみ%よ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|せい|yomi=o}}
+From {{der|ja|ltc|sort=せい|-}} {{ltc-l|世}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Counter====
+{{ja-pos|counter|せい}}
+
+# {{l|en|generation}}
+#: {{ja-usex|ルパン三'''世'''|^ルパン-さん'''せい'''|{{w|Lupin the Third|Lupin the '''Third'''}}}}
+
+====Suffix====
+{{ja-pos|suffix|せい}}
 
 # {{lb|ja|geology|sort=せい}} {{l|en|epoch}}
+
+====Proper noun====
+{{ja-pos|proper|せい}}
+
+# {{given name|female|lang=ja|A=a|sort=せい}}
+
+===References===
+<references/>
 
 [[Category:Han characters from which katakana were derived|セ]]
 
