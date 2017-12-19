@@ -45,7 +45,7 @@ Monosyllabic ''tuān'' reading by contraction of polysyllabic ''túshūguǎn,'' 
 ==Japanese==
 
 ===Glyph origin===
-Created by Chinese library sciences expert Du Dingyou ({{lang|ja|杜定友}}) in Japan in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.
+Created by Chinese library sciences expert Du Dingyou ({{w2|ja|杜定友}}) in Japan in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.
 
 ===Kanji===
 {{ja-kanji|grade=|rs=囗10}}
@@ -53,7 +53,10 @@ Created by Chinese library sciences expert Du Dingyou ({{lang|ja|杜定友}}) in
 # {{lb|ja|obscure}} [[library]]
 
 ====Readings====
-* {{ja-readings|on=[[としょかん]] (toshokan), [[しょ]] (sho)|kun=}}
+{{ja-readings
+|on=しょ
+|kun=としょかん-
+}}
 
 ===Noun===
 {{ja-noun|としょかん}}
