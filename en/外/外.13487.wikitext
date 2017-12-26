@@ -77,14 +77,10 @@
 |kun=そと-, ほか-, はず-す, はず-れる, と
 }}
 
-====Antonyms====
-* {{ja-l|内}}
-
-====Compounds====
-* {{ja-r|外す|はずす}}: to [[unfasten]], to [[remove]]
-
 ===Etymology 1===
-{{ja-kanjitab|そと|yomi=k}}
+{{ja-kanjitab|yomi=k|そと}}
+
+Appears from roughly the {{w|Muromachi period}},<ref name="DJR">{{R:Daijirin}}</ref> {{l|en|supersede|superseding}} earlier ''to'' reading (see below).  Likely a compound of either {{compound|lang=ja|sort=そと|背|tr1=so|t1=back, behind|pos1=ancient reading found in compounds|外|tr2=to|t2=outside}}, or {{compound|lang=ja|sort=そと|背|tr1=so|t1=back, behind|pos1=ancient reading found in compounds|所|tr2=to|t2=place}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|そと|acc=1|acc_ref=DJR,NHK}}
@@ -92,7 +88,7 @@
 ====Noun====
 {{ja-noun|そと}}
 
-# (the) [[outside]]
+# (the) {{l|en|outside}}
 
 ===Etymology 2===
 {{ja-kanjitab|ほか|yomi=k}}
