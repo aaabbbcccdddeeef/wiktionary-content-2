@@ -168,8 +168,9 @@ Appears from roughly the {{w|Muromachi period}},<ref name="DJR">{{R:Daijirin}}</
 {{der-bottom}}
 
 ===Etymology 6===
-{{ja-kanjitab|げ|yomi=o}}
-{{der|ja|ltc|外|sort=け'}}
+{{ja-kanjitab|yomi=o|げ}}
+
+From {{bor|ja|ltc|sort=け'|-}} {{ltc-l|外}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|げ|acc=1|acc_ref=DJR}}
@@ -177,12 +178,13 @@ Appears from roughly the {{w|Muromachi period}},<ref name="DJR">{{R:Daijirin}}</
 ====Noun====
 {{ja-noun|げ}}
 
-# {{lb|ja|Buddhism|sort=け'}} non-[[Buddhist]] [[teaching]]s or [[text]]s
+# {{lb|ja|sort=け'|Buddhism}} non-{{l|en|Buddhist}} {{l|en|teaching}}s or {{l|en|text}}s
+# {{lb|ja|sort=け'|in compounds}} {{l|en|external}}
 
 =====Derived terms=====
-* {{ja-r|外科|げか}}
-* {{ja-r|外道|げどう}}
-* {{ja-r|外法|げほう}}
+* {{ja-r|外%科|げ%か}}: {{l|en|surgery}} {{qualifier|as a field of medicine}}
+* {{ja-r|外%道|げ%どう}}: any non-Buddhist {{l|en|religion}}
+* {{ja-r|外%法|げ%ほう}}: any non-Buddhist {{l|en|religion}}; any non-Buddhist {{l|en|teaching}}
 
 ===References===
 <references/>
