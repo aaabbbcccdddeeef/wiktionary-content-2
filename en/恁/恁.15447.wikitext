@@ -10,9 +10,13 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Etymology 1===
+{{zh-forms}}
+; “to think”
+: Cognate with {{och-l|念|to think}}. See there for more.
+
+{{etystub|zh}}
 
 ====Pronunciation====
 {{zh-pron
@@ -25,20 +29,21 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[long for]]
-# to [[allow]]
-# [[honest]]
-# [[weak]]
-# {{zh-alt-form|飪}}
+# {{†}} to [[think]]; to [[consider]]
+# {{†}} to [[allow]]
+# {{†}} [[honest]]
+# {{†}} [[weak]]
+
+====Compounds====
+{{zh-der|恁約|恁憑}}
 
 ===Etymology 2===
-{{zh-see|您|v}}
-
-===Etymology 3===
+{{zh-forms|alt=按-Hakka,咹-Hakka}}
+{{rfe|zh|Hakka same etymology?}}
 
 ====Pronunciation====
 {{zh-pron
-|m=nèn
+|m=nèn,rèn,1nb=standard in Mainland,2nb=variant in Mainland,2nc=standard in Taiwan
 |m-s=
 |c=jam5,jam6
 |c-t=
@@ -46,17 +51,53 @@
 |h=pfs=án
 |j=
 |md=
-|mn=lín
+|mn=
+|mn-t=rim2
 |cat=pron,adv
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[so]]
-# [[this]]
-# [[how]]
-# [[what]]
+# {{lb|zh|dialectal}} [[so]]
+# {{lb|zh|dialectal}} [[this]]; [[that]]
+# {{lb|zh|dialectal}} [[how]]
+# {{lb|zh|dialectal}} [[what]]
+
+=====Synonyms=====
+{{zh-dial|這麼}}
+
+====Compounds====
+{{zh-der|恁人|恁地|恁時|恁般|恁等|恁麼|恁樣|恁廝|恁的|不恁麼|忒恁|直恁}}
+
+===Etymology 3===
+{{zh-forms|alt=您}}
+Contraction of {{zh-l|汝儂|tr=lí-nâng|we}}. See {{zh-l|*儂|person; ''pronoun suffix''}} for more.
+
+====Pronunciation====
+{{zh-pron
+|mn=lín
+|mn-t=ning2
+|cat=pron,det
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[you]] (plural)
+# {{lb|zh|Min Nan}} [[your]] (singular or plural)
+
+====Compounds====
+{{zh-der|恁母|恁娘|恁爸|恁嬭|恁老兄|恁厝|恁兜}}
+
+=====Synonyms=====
+{{zh-dial|你們}}
+
+===Etymology 4===
+{{zh-see|您|v}}
+
+===Etymology 5===
+{{zh-see|飪|v}}
 
 ----
 
