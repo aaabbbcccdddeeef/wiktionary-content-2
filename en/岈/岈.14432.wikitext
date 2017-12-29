@@ -11,12 +11,31 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[haa1]], [[ngaa4]]|y=ha1, nga4}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=山04}}
+===Pronunciation===
+{{zh-pron
+|m=yá
+|c=haa1,ngaa4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|嵖岈}}
+
+===Compounds===
+{{su#bst:zh-der/new|p=yá}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -38,16 +57,3 @@
 {{ko-hanja|hangeul=하|rv=ha|mr=ha}}
 
 # {{defn|lang=ko|sort=山04}}
-
-----
-
-==Mandarin==
-
-===Glyph origin===
-{{Han etym}}
-{{Han compound|山|牙|c1=s|c2=p|t1=mountain|ls=psc}}.
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yá]] ([[ya2]])|wg=ya<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=山04}}
