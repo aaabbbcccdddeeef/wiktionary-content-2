@@ -11,45 +11,49 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etyl}}
-{{liushu|i}}. In this character [[尸]] represents a man, and [[匕]] (otherwise meaning "spoon") also represents a man; two men leaning against each other, originally meaning "close, intimate". The derivative [[昵]] refers to the original word.
+{{liushu|ic}}. The character does not appear as an independent character in the oracle bone script but appears as a component of {{zh-l|*𢓚}} and {{zh-l|*秜}}. The character shows a man ({{zh-l|*尸}}) sitting on or leaning on another man ({{zh-l|*匕}}), giving the original meaning of “to stop” or “close; intimate”; the derivative {{zh-l|*昵}} refers to the latter meaning.
 
-===Etymology===
-; Buddhist nun
-: {{clipping|lang=zh|比丘尼}}, from {{bor|zh|sa|भिक्षुणी||[[female]] [[beggar]]}} or {{bor|zh|pi|bhikkhunī||[[female]] [[beggar]]}}. Compare {{cog|sa|भिक्षु||[[beggar]]}}.
+===Etymology 1===
+{{zh-forms}}
+{{clipping|lang=zh|比丘尼}}, from {{der|zh|sa|भिक्षुणी||[[female]] [[beggar]]}} or {{der|zh|pi|bhikkhunī||[[female]] [[beggar]]}}. Compare {{cog|sa|भिक्षु||[[beggar]]}}.
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=ní
 |m-s=nyi2
 |c=nei4
 |c-t=nai3
-|h=pfs=nì
+|g=nyi4
+|h=pfs=nì;gd=ni2
+|j=ni1
 |md=nà̤
-|mn=kh,qz,xm,zz:nî/qz,tp:lî
+|mn=ml,tp,tn,tc,lk,sx,yl:nî/qz,kh,tn,hc,lk,km,mg:lî/tp,mg:lûi
+|mn_note=lûi - used in {{zh-l|*尼姑}}
+|mn-t=ni5
 |w=3nyi
+|x=nyi2
 |mc=y
-|oc=y
-|cat=n,a
+|cat=n,a,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # [[Buddhist]] [[nun]]
-# [[close]]; [[intimate]]
-# [[safe]]
-# [[harmonious]]
 
-====Compounds====
-{{zh-der|fold=1|尼泊爾|尼姑|尼姑庵|尼古丁|尼加拉瓜|尼龍|尼日爾|尼日利亞|毛里塔尼亞|尼僧|尼采|尼安德塔人|尼站|尼童子|僧尼|多明尼加|多米尼克|坦尚尼亞|尼斯信條|不列塔尼|尼羅河|愛沙尼亞|愛奧尼亞|尼父|師尼|印尼|仲尼|尼壇|尼日|布爾哥尼|哈尼族|分尼|威尼斯|宣尼|尼庵|亞美尼亞|突尼西亞|比基尼|比基尼島|突尼斯|波士尼亞|比丘尼|提舍尼|盤尼西林|白尼羅河|摩尼教|溫尼伯|牟尼|毗尼日用|陀羅尼|阿多尼斯|鐵達尼號|腓尼基人|藍尼羅河|葉尼塞河|馬尼拉|馬尼拉麻|額爾德尼|陀羅尼被|阿尼林|阿摩尼亞|釋迦牟尼|邁錫尼城|羅馬尼亞|腓尼基}}
+===Etymology 2===
+{{zh-forms}}
+{{unk|zh}}. Possibly a variant of {{och-l|邇|near}} (compare {{cog|cmn|-}} {{zh-l|你}} from {{och-l|爾}}), or a conflation of {{och-l|邇|near}} and {{och-l|昵}} ({{zh-ref|Schuessler, 2007}}).
 
-===Pronunciation 2===
+====Pronunciation====
 {{zh-pron
-|m=nǐ
+|m=ní,nì
+|c=nei4
+|mc=y
+|oc=3,y
 |dial=n
 |cat=a
 }}
@@ -57,12 +61,53 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[stop]]
+# {{†}} [[near]]; [[close]]; [[intimate]]
+# {{†}} [[peaceful]]; [[calm]]
+# {{†}} [[harmonious]]
 
-===Pronunciation 3===
+===Etymology 3===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=Ní
+|c=nei4
+|mc=y
+|oc=
+|dial=n
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=nǐ,nì
+|oc=1+2,n
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[stop]]; to [[obstruct]]
+
+===Etymology 5===
+{{zh-forms|alt=乃,倷}}
+
+====Pronunciation====
 {{zh-pron
 |c-t=nai2
 |dial=n
+|cat=cls
 }}
 
 ====Definitions====
@@ -77,6 +122,24 @@
 
 =====Synonyms=====
 {{zh-dial|些}}
+
+===Etymology 5===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|dial=n
+|cat=pref
+}}
+{{rfp|zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Leizhou Min}} {{n-g|Prefix in non-face-to-face kinship terms.}}
+
+===Compounds===
+{{zh-der|fold=1|尼泊爾|尼姑|尼姑庵|尼古丁|尼加拉瓜|尼龍|尼日爾|尼日利亞|毛里塔尼亞|尼僧|尼采|尼安德塔人|尼站|尼童子|僧尼|多明尼加|多米尼克|坦尚尼亞|尼斯信條|不列塔尼|尼羅河|愛沙尼亞|愛奧尼亞|尼父|師尼|印尼|仲尼|尼壇|尼日|布爾哥尼|哈尼族|分尼|威尼斯|宣尼|尼庵|亞美尼亞|突尼西亞|比基尼|比基尼島|突尼斯|波士尼亞|比丘尼|提舍尼|盤尼西林|白尼羅河|摩尼教|溫尼伯|牟尼|毗尼日用|陀羅尼|阿多尼斯|鐵達尼號|腓尼基人|藍尼羅河|葉尼塞河|馬尼拉|馬尼拉麻|額爾德尼|陀羅尼被|阿尼林|阿摩尼亞|釋迦牟尼|邁錫尼城|羅馬尼亞|腓尼基}}
 
 {{zh-cat|Buddhism}}
 
