@@ -2,27 +2,40 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=07|sn=10|four=|canj=EHEJ|ids=⿰氵夆}}
-
-# {{defn|Han|sort=水07}}
+{{Han char|rn=85|rad=水|as=07|sn=10|four=37154|canj=EHEJ|ids=⿰氵夆}}
 
 ====References====
-* {{Han ref|kx=0625.050|dkj=17492|dj=1023.040|hdz=31631.040|uh=6D72|ud=28018}}
-* [http://www.zdic.net/z/1d/js/6D72.htm zdic.net (Han Dian)]
+{{Han ref|kx=0625.050|dkj=17492|dj=1023.040|hdz=31631.040|uh=6D72}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
-
-{{Han compound|氵|夆|c1=s|c2=p|t1=river|ls=psc}}.
+{{Han compound|水|alt1=氵|夆|c1=s|c2=p|t1=river|ls=psc}}.
 
 ===Etymology 1===
-{{zh-see|漨|a}}
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=féng
+|c=
+|mc=
+|oc=
+|ma=
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|漨}}
+# {{n-g|Used in {{zh-l|楊家浲}}, a place in [[Hubei]], [[China]].}}
 
 ===Etymology 2===
+{{zh-forms}}
+{{rfe|zh|same word as {{zh-l|*洚}}, {{zh-l|*洪}}?}}
 
 ====Pronunciation====
 {{zh-pron
@@ -37,4 +50,4 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# [[large]] [[river]]
+# {{†}} [[flood]]
