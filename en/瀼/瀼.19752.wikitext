@@ -13,38 +13,40 @@
 ----
 
 ==Chinese==
-{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|氵|襄|c1=s|c2=p|t1=water|ls=psc}}.
+{{Han compound|水|alt1=氵|襄|c1=s|c2=p|t1=water|ls=psc}}.
 
 ===Etymology 1===
 {{zh-forms}}
+From {{inh|zh|sit-pro|*s-naːŋ||heavy; thick (of liquids); viscous}}; cognate with {{cog|lus|hnâng||thick; viscous}} ({{zh-ref|Schuessler, 2007}}; STEDT). {{zh-ref|Coblin (1986)}} also compares this with {{cog|my|နှင်း||dew; mist}}.
 
 ====Pronunciation====
 {{zh-pron
 |m=ráng
 |c=joeng4
-|mc=
-|oc=
-|cat=
+|mc=y
+|oc=y
+|cat=a,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{†}} [[dewy]]; [[heavy]] with [[dew]]; [[misty]]
+# {{zh-div|河}} Rang River {{gloss|a river in [[Henan]], [[China]]}}
 
 ====Compounds====
-{{zh-der|甘露瀼瀼|瀼瀼濕濕|瀼瀼}}
+{{zh-der|甘露瀼瀼|瀼瀼濕濕|瀼瀼|瀼河}}
 
 ===Etymology 2===
-{{zh-forms}}
+{{zh-forms|alt=讓}}
 
 ====Pronunciation====
 {{zh-pron
-|m=ráng
+|m=瀼
+|m-s=rang4
 |c=joeng6
 |mc=
 |oc=
@@ -54,27 +56,26 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{rfdef|zh}} <!-- 四川方言词语续考: 江水橫通山谷或山間溪流入江處; 大字典: 澗水横通山谷入江河; 大詞典: 流入江河的山溪水; 兩岸: 蜀人多稱澗水橫通山谷入江河為「瀼」; 國語辭典: 山間的溪流通到江裡去的，蜀人多稱為「瀼」 -->
 
 ====Compounds====
-{{zh-der|瀼河}}
+{{zh-der|瀼渡河}}
 
 ===Etymology 3===
 {{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
-|m=nǎng
-|c=
+|m=nǎng,ráng,2nb=variant
 |mc=
 |oc=
-|cat=
+|cat=a
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{†}} {{lb|zh|of water}} [[flowing]]
 
 ====Compounds====
 {{zh-der|泱瀼}}
@@ -84,7 +85,7 @@
 
 ====Pronunciation====
 {{zh-pron
-|m=ràng
+|m=nǎng,rǎng,2nb=variant
 |c=
 |mc=
 |oc=
@@ -94,10 +95,7 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
-
-====Compounds====
-{{zh-der|瀼渡河}}
+# {{rfdef|zh}} <!-- 水淤；漚漬 -->
 
 ===References===
 * {{R:yue:mfccd}}
