@@ -47,20 +47,53 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=宀06}}
 
-# {{defn|lang=ja|sort=宀06}}
+# [[proclaim]], [[announce]]
+# [[say]]
 
 ====Readings====
 {{ja-readings
-|on=せん
-|kun=の-べる, の-る, のたま-う
+|goon=せん
+|kanon=せん
+|kun=のたま-う<のたま-ふ, のたま-わく<のたま-はく, の-べる, の-る
+|nanori=のぶ
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|宣言|せんげん}}
 * {{ja-r|宣告|せんこく}}
 * {{ja-r|宣誓|せんせい}}
 * {{ja-r|宣託|せんたく}}
 * {{ja-r|宣伝|せんでん}}
+{{der-bottom}}
+ 
+===Etymology===
+{{ja-kanjitab|せん|yomi=o}}
+From {{der|ja|ltc|sort=せん|-}} {{ltc-l|宣}}.
+
+===Pronunciation===
+{{ja-pron|y=o|せん|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せん}}
+
+# [[proclamation]] {{rfv-sense|ja}}
+#: {{synonyms|ja|宣旨|tr=senji}}
+
+===Verb===
+{{ja-verb-suru|せん}}
+
+# [[declare]] {{rfv-sense|ja}}
+#: {{synonyms|ja|[[宣言]]する|tr=sengen suru}}
+
+===Proper noun===
+{{ja-pos|proper|せん}}
+
+# {{given name|female|lang=ja|A=a|sort=せん}}
+# {{surname|lang=ja|A=a|sort=せん}}
+
+===References===
+<references/>
 
 ----
 
