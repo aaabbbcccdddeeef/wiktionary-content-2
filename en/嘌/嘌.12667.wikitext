@@ -21,21 +21,20 @@
 {{zh-pron
 |m=嘌
 |c=piu1,piu3
+|cat=n
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
-
-=====Compounds=====
-{{zh-der|嘌呤|嘌唱}}
+# {{zh-only|嘌呤}}
 
 ===Pronunciation 2===
 {{zh-pron
 |m=piāo
 |mc=y
 |oc=y
+|cat=v
 }}
 
 ====Definitions====
@@ -44,6 +43,8 @@
 # {{†}} [[pass]]ing [[swift]]ly
 # {{†}} to [[speak]]
 
+=====Compounds=====
+{{zh-der|嘌唱}}
 ===References===
 * {{R:yue:Hanzi}}
 
