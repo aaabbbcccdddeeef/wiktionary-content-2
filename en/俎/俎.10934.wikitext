@@ -46,15 +46,15 @@
 
 ====Readings====
 {{ja-readings
-|goon=[[しょ]] (sho)
-|kanon=[[そ]] (so)
-|kun=[[まないた]] (manaita)
+|goon=しょ
+|kanon=そ
+|kun=まないた-
 }}
 
 ===Etymology 1===
-{{ja-kanjitab|そ|yomi=o}}
+{{ja-kanjitab|yomi=o|そ}}
 
-From {{der|ja|ltc|sort=そ|{{IPAchar|/t͡ʃɨʌ<sup>X</sup>/}}||a wooden stand used in offering rites}}. Compare modern {{cog|yue|-}} reading ''zo<sup>2</sup>''.
+[[Appendix:Glossary#loanword|Borrowing]] from {{bor|ja|ltc|sort=そ|-}} {{ltc-l|俎|a wooden stand used in offering rites}}. Compare modern {{cog|yue|-}} reading ''zo<sup>2</sup>''.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|そ|acc=1|acc_ref=DJR}}
@@ -62,23 +62,23 @@ From {{der|ja|ltc|sort=そ|{{IPAchar|/t͡ʃɨʌ<sup>X</sup>/}}||a wooden stand u
 ====Noun====
 {{ja-noun|そ}}
 
-# a {{l|en|sacrificial}} {{l|en|altar}}
-# a {{l|en|cutting board}}, a {{l|en|chopping board}}
+# a [[sacrificial]] [[altar]]
+# a [[cutting board]], a [[chopping board]]
 
 =====Usage notes=====
 This reading appears to be less common. For the {{m|en|cutting board}} sense in particular, the ''manaita'' reading below is more common.
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|俎%上|そ%じょう}}: on the {{l|en|altar}}, on the {{l|en|cutting board}}
-* {{ja-r|俎%豆|そ%とう}}: a ceremonial object in ancient China; {{l|en|etiqutte}}, {{l|en|manners}}
+* {{ja-r|俎%上|そ%じょう}}: on the [[altar]], on the [[cutting board]]
+* {{ja-r|俎%豆|そ%とう}}: a ceremonial object in ancient China; [[etiqutte]], [[manners]]
 {{der-bottom}}
 
 ===Etymology 2===
 <div style="float:right;">
 {{wikipedia|lang=ja}}
 {{wikipedia|Cutting board}}
-[[File:Seriola_on_cutting_board.jpg|thumb|250px|{{lang|ja|俎}} (''manaita''): an amberjack on a '''{{l|en|cutting board}}'''.]]
+[[File:Seriola_on_cutting_board.jpg|thumb|250px|{{m|ja|俎|tr=manaita}}: an amberjack on a '''[[cutting board]]'''.]]
 </div>
 {{ja-kanjitab|まないた|yomi=k}}
 
@@ -97,7 +97,7 @@ The {{m|ja|俎}} kanji spelling comes from {{der|ja|zh|俎}}.
 ====Noun====
 {{ja-noun|まないた}}
 
-# {{altspell|lang=ja|まな板||{{l|en|chopping board}}, {{l|en|cutting board}}}}
+# {{altspell|lang=ja|まな板||[[chopping board]], [[cutting board]]}}
 
 ===References===
 <references/>
