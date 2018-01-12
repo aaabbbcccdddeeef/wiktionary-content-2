@@ -18,8 +18,17 @@
 ===Pronunciation===
 {{zh-pron
 |m=kē
+|m-s=
 |c=o1
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
 |mn=koa/kho
+|mn-t=
+|w=
+|x=
 |mc=y
 |oc=y
 |ma=
@@ -34,6 +43,9 @@
 # {{surname|lang=zh}}
 # [[Kyrgyz]] (the people, language, etc.)
 # [http://en.wikipedia.org/wiki/Notholithocarpus tan oak]
+
+====Derived terms====
+{{zh-der|柯子|柯則}}
 
 ====Descendants====
 * {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Cua}}
@@ -51,7 +63,11 @@
 # {{defn|lang=ja|sort=木05}}
 
 ====Readings====
-* {{ja-readings|on=[[か]] (ka)|kun=[[え]] (e)}}
+* {{ja-readings
+|goon=か
+|kanon=か
+|kun=え-
+}}
 
 ----
 
@@ -67,7 +83,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木05|hanviet=kha}}
+{{vi-hantu|rs=木05|kha}}
 
 # {{defn|lang=vi|sort=木05}}
 
