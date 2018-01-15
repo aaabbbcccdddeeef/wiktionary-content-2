@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=64|rad=手|as=12|sn=15|four=54096|canj=QKCF|ids=⿰扌尞}}
 
-# [[lift up]], [[raise]]
-# [[leave]], [[depart]]
-
 ====References====
 * {{Han ref|kx=0456.070|dkj=12741|dj=0805.060|hdz=31955.020|uh=64A9|ud=25769|bh=BCBA|bd=48314}}
 
@@ -21,44 +18,79 @@
 ===Etymology 1===
 {{zh-forms}}
 
-====Pronunciation====
+====Pronunciation 1====
 {{zh-pron
-|m=liáo,liāo
-|c=liu6,liu4,liu1
+|m=liáo
+|c=liu4
 |h=pfs=liàu
 |mn=liâu/liô
 |mn_note=liâu - literary; liô - vernacular
-|mc=y
-|oc=y
-|cat=
+|mc=1
+|oc=1
+|cat=v
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
-
+# to [[arrange]]
+# to [[wind]]
+# to [[pick up]]
+# to [[incite]]
+# to [[banter]]
 =====Compounds=====
-{{zh-der|丟盔撩甲|剔蠍撩蜂|夢撒撩丁|扯謊撩白|撥撩|撥雨撩雲|撥雲撩雨|撩丁|撩亂|撩人|撩兒敲兒|撩動|撩弄|撩撥|撩東劄西|撩東撾西|撩水|撩水飯|撩淺|撩虎鬚|撩蜂吃螫|撩蜂撥刺|撩衣|撩衣破步|撩起|撩蹶子|撩逗|撩邊兒|撩鍋|撩雲撥雨|撩鬥|暖盪撩鍋|沒撩沒亂|眼花撩亂|破步撩衣|神魂撩亂|課嘴撩牙}}
+{{zh-der|剔蠍撩蜂|丟盔撩甲|夢撒撩丁|扯謊撩白|撩蜂吃螫|撩撥|撥雲撩雨|撩雲撥雨|撩丁|撩兒敲兒|撩水飯|撩蹶子|撥雨撩雲|撩弄|撩虎鬚|沒撩沒亂|撩蜂撥刺|神魂撩亂|暖盪撩鍋|撩東劄西|眼花撩亂|撩逗|撩鍋|撩亂|撩東撾西|撩淺|撩鬥|撩動|撩人|撥撩|課嘴撩牙}}
+====Pronunciation 2====
+{{zh-pron
+|m=liāo
+|c=liu1
+|cat=v
+}}
 
+=====Definitions=====
+{{zh-hanzi}}
+
+# to [[raise]]
+# to [[sprinkle]]
+=====Compounds=====
+{{zh-der|撩起|破步撩衣|撩水|撩衣破步|撩邊兒|撩衣}}
+
+====Pronunciation 3====
+{{zh-pron
+|m=liào
+|c=liu6
+|cat=v
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-alt-form|撂}}
+# to [[glance]]
+# {{zh-only|撩峭}}
 ===Etymology 2===
 {{zh-forms|alt=了}}
 
 ====Pronunciation====
 {{zh-pron
+|m=liǎo
 |c=liu2,liu1
+|mc=2
+|oc=2
 |cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese}} to [[pick]] at; to [[dig]] at
+# {{lb|zh|literary|or|Cantonese}} to [[pick]] at; to [[dig]] at
 #: {{zh-x|撩 鼻屎|to '''pick''' one's boogers|C}}
 
 =====See also=====
 * {{zh-l|挖}}
 
+===Etymology 3===
+{{zh-see|撈|v}}
 ===References===
 * {{R:twedu|A01669}}
 * {{R:yue:Hanzi}}
