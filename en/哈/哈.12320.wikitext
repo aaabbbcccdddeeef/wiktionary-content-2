@@ -21,9 +21,10 @@
 ====Pronunciation====
 {{zh-pron
 |m=hā
+|c=ngap6
 |mc=y
 |oc=y
-|cat=a
+|cat=a,cls
 }}
 
 ====Definitions====
@@ -31,6 +32,7 @@
 
 # {{zh-hist-ghost}} {{lb|zh|of fish}} [[many]]; [[plenteous]]
 # {{zh-hist-ghost}} {{lb|zh|of a fish's mouth}} [[open]]ing; [[move|moving]]
+# {{†}} [[mouthful]]
 
 ===Etymology 2===
 {{zh-forms}}
@@ -90,33 +92,85 @@
 
 ===Etymology 4===
 {{zh-forms}}
+{{rfe|zh|related to 喝?}}
 
 ====Pronunciation====
 {{zh-pron
 |m=hǎ
-|m-s=ha3
-|m-s_note={{rfv-pron|zh}}
-|c=haa1,haa5
-|c_note=haa5 - rare
 |md=háh
-|mn=xm,qz:hap/zz:hah
-|mn_note=surname
-|mn-t=hah4
-|cat=v,n,pn
+|cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|Beijing}} to [[scold]]; to [[reprimand]]
-# [[Pekingese]]; [[pug]] {{rfv-sense|zh}}
-#* {{zh-x|哈{hǎ}巴{ba}狗|Chinese pug}}
-# {{surname|lang=zh}}
-
-====Compounds====
-{{zh-der|哈德門|哈巴狗|哈巴:hǎba|哈叭狗|米哈|哈達}}
 
 ===Etymology 5===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hǎ
+|m-s=ha3
+|c=haa1,haa5
+|c_note=haa5 - rare
+|md=hă
+|mn=ha
+|mn-t=hah4
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[Pekingese]]; [[pug]] {{rfv-sense|zh}}
+#* {{zh-x|哈{hǎ}巴{ba}狗|Chinese pug}}
+
+====Compounds====
+{{zh-der|哈巴狗|哈巴:hǎba}}
+
+===Etymology 6===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=Hǎ
+|c=haa1
+|md=Háh
+|mn=xm,qz:Hap/zz:Hah
+|mn-t=hah4
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===Etymology 7===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hǎ
+|c=haa1
+|md=hăh
+|md_note=used in {{zh-l|*哈達}}
+|mn=xm:ha
+|mn-t=hah4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in the words below.}}
+
+====Compounds====
+{{zh-der|哈德門|米哈|哈達}}
+
+===Etymology 8===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -129,12 +183,12 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-only|哈喇}}
+# {{zh-only|哈喇|a kind of [[top-quality]] [[woollen]] [[good]]s produced in [[Russia]]}}
 
 ====Compounds====
 {{zh-der|哈喇|哈喇呢}}
 
-===Etymology 6===
+===Etymology 9===
 {{zh-forms}}
 {{rfe|zh|from 憨?}}
 
@@ -157,7 +211,7 @@
 ====Compounds====
 {{zh-der|哈帳|哈話}}
 
-===Etymology 7===
+===Etymology 10===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -171,12 +225,13 @@
 
 # {{lb|zh|Southwestern Mandarin}} to [[tickle]]
 
-===Etymology 8===
+===Etymology 11===
 {{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
 |m=hà,hā,1nb=standard in Mainland,2nb=standard in Taiwan,2nc=variant in Mainland
+|mn-t=gab4
 |cat=n
 }}
 
@@ -185,7 +240,7 @@
 
 # {{zh-only|哈士蟆}}
 
-===Etymology 9===
+===Etymology 12===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -199,7 +254,7 @@
 
 # {{zh-only|哈巴|knee bending when walking}}
 
-===Etymology 10===
+===Etymology 13===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -214,7 +269,7 @@
 # {{zh-alt-form|喝|to drink}}
 # {{zh-alt-form|呷}}
 
-===Etymology 11===
+===Etymology 14===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -231,10 +286,10 @@
 ====Compounds====
 {{zh-der|麻哈}}
 
-===Etymology 12===
+===Etymology 15===
 {{zh-see|歃|v}}
 
-===Etymology 13===
+===Etymology 16===
 {{zh-see|𪘁|v}}
 
 ===References===
