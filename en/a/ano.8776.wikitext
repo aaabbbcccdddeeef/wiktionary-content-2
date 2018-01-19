@@ -224,12 +224,12 @@ From {{inh|osx|gem-pro|*ēnu}}.
 ==Portuguese==
 
 ===Alternative forms===
-* {{l|pt|anno}} {{qualifier|obsolete}}
+* {{alter|pt|anno||obsolete}}
 
 ===Etymology===
-From {{inh|pt|roa-opt|ano||year}}, from {{inh|pt|la|annus||year}}, from {{inh|pt|itc-pro|*atnos||year}}, from {{der|pt|ine-pro|*h₂et-nos-}}, probably from {{m|ine-pro|*h₂et-||to go}}.
+From {{inh|pt|roa-opt|ano|t=year}}, from {{inh|pt|la|annus|t=year}}, from {{inh|pt|itc-pro|*atnos|t=year}}, from {{der|pt|ine-pro|*h₂et-nos-}}, probably from {{m|ine-pro|*h₂et-|t=to go}}.
 
-Cognate with Galician {{m|gl|ano}}, Spanish {{m|es|año}}, Catalan {{m|ca|any}}, Occitan {{m|oc|an}}, French {{m|fr|an}}, Italian {{m|it|anno}} and Romanian {{m|ro|an}}.
+Cognate with {{cog|gl|ano}}, {{cog|es|año}}, {{cog|ca|any}}, {{cog|oc|an}}, {{cog|fr|an}}, {{cog|it|anno}} and {{cog|ro|an}}.
 
 ===Pronunciation===
 * {{IPA|/ˈɐ.nu/|lang=pt}}
@@ -247,18 +247,17 @@ Cognate with Galician {{m|gl|ano}}, Spanish {{m|es|año}}, Catalan {{m|ca|any}},
 {{seeCites}}
 
 ====Related terms====
-{{top2}}
-* {{l|pt|anal}}
-* {{l|pt|aniversário}}
-* {{l|pt|anual}}
-{{mid2}}
-* {{l|pt|ânuo}}
-* {{l|pt|anuário}}
-* {{l|pt|perene}}
-{{bottom}}
+{{rel3
+|{{l|pt|anal}}
+|{{l|pt|aniversário}}
+|{{l|pt|anual}}
+|{{l|pt|ânuo}}
+|{{l|pt|anuário}}
+|{{l|pt|perene}}
+|lang=pt}}
 
 ====Descendants====
-* Kabuverdianu: {{l|kea|anu}}
+* {{desc|kea|anu}}
 
 [[Category:pt:Time]]
 
