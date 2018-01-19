@@ -192,25 +192,26 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 
 ==Egyptian==
 
-===Adjective===
-{{egy-adj|head=<hiero>n</hiero>}}
+===Etymology 1===
+Cognate with {{cog|he|לְ־||to, for, of|tr=lə-}}, {{cog|ar|لِـ||to, for, belonging to}}.<ref>{{R:egy:Hoch|15}}</ref>
 
-# {{abb|nj||of; genitival adjective|lang=egy}}
+====Pronunciation====
+{{egy-IPA-E}}
 
-===Preposition===
+====Preposition====
 {{egy-prep|head=<hiero>n</hiero>}}
 
-# [[to]], [[for]] (''[[dative]]'')
+# [[to]], [[for]] {{gloss|[[dative]]}}
 # in the [[direction]] of, [[towards]]
 # {{lb|egy|of time}} [[for]], [[until]]
 # [[because]] of
 
-====Inflection====
+=====Inflection=====
 {{egy-hieroforms|title=Adverbial forms of {{m-self|egy|n}}
 |<hiero>n:Z4</hiero>|read1=nj
 |<hiero>n</hiero>|read2=n}}
 
-====Alternative forms====
+=====Alternative forms=====
 Before a noun it can be written thus:
 
 {{egy-hieroforms
@@ -218,7 +219,7 @@ Before a noun it can be written thus:
 
 This should not be confused with the negative particle, which is written identically.
 
-====Derived terms====
+=====Derived terms=====
 {{der2|lang=egy
 |jwtj-n.f
 |nj
@@ -227,24 +228,40 @@ This should not be confused with the negative particle, which is written identic
 |ꜣḫ-n-jtn
 |snb-n.j}}
 
-===Pronoun===
+===Etymology 2===
+
+====Pronunciation====
+{{egy-IPA-E}}
+
+====Adjective====
+{{egy-adj|head=<hiero>n</hiero>}}
+
+# {{abb|nj|t=of, belonging to (genitival adjective)|lang=egy}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{egy-IPA-E}}
+
+====Pronoun====
 {{egy-pron|dep|p|1p|head=<hiero>n:Z2</hiero>}}
 
 # [[we]], [[us]] (see usage notes)
 
-====Usage notes====
+=====Usage notes=====
 {{U:egy:dep pronoun}}
 
-====Inflection====
+=====Inflection=====
 {{Egyptian personal pronouns}}
 
-====Alternative forms====
+=====Alternative forms=====
 {{egy-hieroforms
 |<hiero>n</hiero>|read1=n}}
 
 ===References===
 * {{R:egy:Allen}}
 * {{R:egy:Faulkner}}
+<references/>
 
 ----
 
