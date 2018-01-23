@@ -40,7 +40,11 @@
 # {{defn|lang=ja|sort=木05}}
 
 ====Readings====
-* {{ja-readings|on=[[た]] (ta), [[だ]] (da)|kun=[[かじ]] (kaji)}}
+* {{ja-readings
+|goon=だ
+|kanon=た
+|kun=かじ-
+}}
 
 ----
 
@@ -56,6 +60,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木05|hanviet=xà}}
+{{vi-hantu|rs=木05|xà}}
 
 # {{defn|lang=vi|sort=木05}}
