@@ -47,7 +47,12 @@
 # {{defn|lang=ja|sort=心09}}
 
 ====Readings====
-* {{ja-readings|on=[[ずい]] (zui), [[すい]] (sui)|kun=[[おそれる]] (osoreru)}}
+* {{ja-readings
+|goon=すい
+|kanon=すい
+|kanyoon=ずい
+|kun=おそ-れる
+}}
 
 ----
 
@@ -63,6 +68,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心09|hanviet=nhoai}}
+{{vi-hantu|rs=心09|nhoai}}
 
 # {{defn|lang=vi|sort=心09}}
