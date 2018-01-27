@@ -55,12 +55,19 @@
 }}
 
 ===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja|ヒイラギ}}
+{{wp|Osmanthus heterophyllus}}
+</div>
 {{ja-kanjitab|ひいらぎ|yomi=k}}
-&#42;{{IPAchar|/pi<sub>1</sub>pi<sub>1</sub>ra ki<sub>2</sub>/}} → {{IPAchar|/pipiraɡi/}} → {{IPAchar|/fifiraɡi/}} → {{IPAchar|/hiːraɡi/}}
 
-From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. Originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=obsolete}} + {{m|ja|木|tr=ki||[[tree]]}}, from the tree's sharp leaves. {{rfv-etymology|ja}}
+{{IPAfont|⟨pi<sub>1</sub>pi<sub>1</sub>ra ki<sub>2</sub>⟩}} → {{IPAchar|/pipiraɡi/}} → {{IPAchar|/fifiraɡi/}} → {{IPAchar|/hiwiraɡi/}} → {{IPAchar|/hiːraɡi/}}
 
-{{rfe|ja|extend for 'ponyfish' meaning}}
+From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. 
+
+Originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=obsolete}} + {{m|ja|木|tr=ki||[[tree]]}}, from the tree's sharp leaves. {{rfv-etymology|ja}}
+
+{{rfe|ja|extend for "spotnape ponyfish" sense}}
 
 ====Alternative forms====
 * {{sense|holly olive}} {{ja-l|疼木}}
@@ -73,7 +80,7 @@ From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. Origi
 {{ja-noun|ひいらぎ|ヒイラギ|hhira=ひひらぎ|hkata=ヒヒラギ}}
 
 # [[holly olive]] (''[[Osmanthus heterophyllus]]''); [[false holly]]
-# {{lb|ja|by extension}} [[holly]]
+# a style of {{m|ja|家紋|tr=kamon||family {{l|en|crest}}}} with designs of holly olive [[leaf|leaves]]
 # {{w|spotnape ponyfish}} ({{taxlink|Leiognathus nuchalis|species|ver=171028}})​
 
 =====Usage notes=====
@@ -82,12 +89,16 @@ From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. Origi
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|柊%鰯|ひいらぎ%-いわし|[[sardine]] and holly [[charm]]}}
-* {{ja-r|ヒイラギ科|ヒイラギ-か|[[Leiognathidae]]}}
+* {{ja-r|柊%樫|ヒイラギ%ガシ}}
 * {{ja-r|柊%挿す|ひいらぎ%さす}}
+* {{ja-r|柊%草|ヒイラギ%ソウ|{{w|Ajuga incisa}}}}
 * {{ja-r|柊%菜|ヒイラギ%ナ|[[mizuna]]}}
 * {{ja-r|柊%南天|ヒイラギ% ナンテン|{{taxlink|Mahonia japonica|species|ver=171028}}}}
-* {{ja-r|西洋%柊|セイヨウ% ヒイラギ|English holly|pos={{taxlink|Ilex aquifolium|species|ver=171028}}}}
+* {{ja-r|柊%黐|ヒイラギ%モチ}}, {{ja-r|西洋%柊|セイヨウ% ヒイラギ|English [[holly]]|pos={{taxlink|Ilex aquifolium|species|ver=171028}}}}
 {{der-bottom}}
+
+=====See also=====
+* {{ja-r|木犀|モクセイ|[[sweet osmanthus]]|pos=''[[Osmanthus fragrans]]''}}
 
 ====Proper noun====
 {{ja-pos|proper|ひいらぎ|hhira=ひひらぎ}}
@@ -99,10 +110,7 @@ From {{inh|ja|ojp|sort=ひいらき|-}}, attested in the ''{{w|Kojiki}}''. Origi
 {{ja-kanjitab|ひらぎ|yomi=k}}
 {{IPAchar|/pipiraɡi/}} → *{{IPAchar|/firaɡi/}} → {{IPAchar|/hiraɡi/}}
 
-Shift from ''hīragi'' above. {{rfv-etymology|ja}}
-
-====Pronunciation====
-{{ja-pron|y=k|ひらぎ}}
+Shift from ''hīragi'' above.<ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Noun====
 {{ja-noun|ひらぎ|ヒラギ}}
