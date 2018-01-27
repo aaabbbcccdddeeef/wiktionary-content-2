@@ -5,8 +5,6 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=09|sn=12|four=47127|canj=GBBR|ids=⿰土咼}}
 
-# [[crucible]]
-
 ====References====
 * {{Han ref|kx=0233.080|dkj=05247|dj=0470.260|hdz=10454.010|uh=581D|ud=22557|bh=B3FA|bd=46074}}
 
@@ -19,23 +17,36 @@
 {{Han etym}}
 {{Han compound|土|咼|c1=s|c2=p|t1=earth|ls=psc}}.
 
-===Pronunciation===
+<!--|c=wo1,gwo1
+|mn=oe
+Which section(s) do these pronunciation belong to?-->{{attention|zh}}
+
+===Pronunciation 1===
 {{zh-pron
 |m=guō
-|c=wo1,gwo1
-|mn=oe
 |mc=y
 |oc=y
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-only|坩堝}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=wō,guō
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{defn|zh}}
 
 ====Compounds====
-{{zh-der|哪堝兒|坩堝|那堝兒}}
+{{zh-der|哪堝兒|那堝兒}}
 
 ===References===
 * {{R:yue:Hanzi}}
