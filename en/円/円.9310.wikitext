@@ -28,112 +28,218 @@ Japanese simplification of [[圓]], via a simplified character similar to [[𠮚
 ===Kanji===
 {{ja-kanji|grade=1|rs=冂02|kyu=圓}}
 
+# [[circle]]
+# [[yen]]
+
 ====Readings====
 {{ja-readings
 |goon=えん<ゑん
-|kanon=えん<ゑん
+|kanon=えん<ゑん, おん<をん
 |kun=まる-, まる-い, つぶ-ら, まど-か, まろ-やか
 }}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-l|一円}}
-|{{ja-l|大団円}}
-|{{ja-l|楕円}}
-|{{ja-l|長円}}
-|{{ja-l|凸円}}
-|{{ja-l|方円}}
-|{{ja-l|卵円}}
-|{{ja-l|黒円}}
-|{{ja-l|円味}}
-|{{ja-l|円運動}}
-|{{ja-l|円屋根}}
-|{{ja-l|円花蜂}}
-|{{ja-l|円蓋}}
-|{{ja-l|円滑}}
-|{{ja-l|円環}}
-|{{ja-l|円顔}}
-|{{ja-l|円規}}
-|{{ja-l|円丘}}
-|{{ja-l|円居}}
-|{{ja-l|円鏡}}
-|{{ja-l|円曲}}
-|{{ja-l|円形}}, {{ja-l|円型}}
-|{{ja-l|円弧}}
-|{{ja-l|円光}}
-|{{ja-l|円寂}}
-|{{ja-l|円周}}
-|{{ja-l|円熟}}
-|{{ja-l|円心}}
-|{{ja-l|真円真珠}}
-|{{ja-l|円刃刀}}
-|{{ja-l|円陣}}
-|{{ja-l|円錐}}
-|{{ja-l|円窓}}
-|{{ja-l|円卓}}
-|{{ja-l|円弾}}
-|{{ja-l|円柱}}
-|{{ja-l|円虫類}}
-|{{ja-l|円頂}}
-|{{ja-l|円天井}}
-|{{ja-l|円転}}
-|{{ja-l|円筒}}
-|{{ja-l|円内}}
-|{{ja-l|円盤}}
-|{{ja-l|円舞}}
-|{{ja-l|円墳}}
-|{{ja-l|円偏光}}
-|{{ja-l|円本}}
-|{{ja-l|円盆}}
-|{{ja-l|円満}}
-|{{ja-l|遊動円木}}
-|{{ja-l|円罐}}
-|{{ja-l|円鉋}}
-|{{ja-l|円顱}}
-|{{ja-l|円ら}}
-|{{ja-l|真ん円}}
-|{{ja-l|円か}}
-|{{ja-l|円み}}
-}}
-===Etymology===
-''(Yen)'' from {{etyl|cmn|ja}} [[圓]] (''yuán'' "circle" >"round coin") referring to the [[piece of eight]] (compare {{etyl|cmn|-}} ''yuán'' [[元]], Korean ''won'' [[원]]).
+{{der-top|Compounds}}
+* {{ja-r|円 運動|えん うんどう|circular motion}}
+* {{ja-r|円蓋|えんがい|[[dome]]}}
+* {{ja-r|円滑|えんかつ}}
+* {{ja-r|円罐|えんかま}}
+* {{ja-r|円環|えんかん}}
+* {{ja-r|円規|えんき|[[compass]]|pos=drawing tool}}
+* {{ja-r|円丘|えんきゅう}}
+* {{ja-r|円鏡|えんきょう}}
+* {{ja-r|円形|えんけい}}
+* {{ja-r|円弧|えんこ}}
+* {{ja-r|円光|えんこう}}
+* {{ja-r|円寂|えんじゃく}}
+* {{ja-r|円周|えんしゅう|[[circle]]}}
+* {{ja-r|円熟|えんじゅく}}
+* {{ja-r|円心|えんしん}}
+* {{ja-r|円陣|えんじん}}
+* {{ja-r|円錐|えんすい}}
+* {{ja-r|円窓|えんそう}}
+* {{ja-r|円卓|えんたく}}
+* {{ja-r|円柱|えんちゅう}}
+* {{ja-r|円虫%類|えんちゅう%るい}}
+* {{ja-r|円頂|えんちょう}}
+* {{ja-r|円転|えんてん}}
+* {{ja-r|円筒|えんとう}}
+* {{ja-r|円盤|えんばん}}
+* {{ja-r|円舞|えんぶ}}
+* {{ja-r|円墳|えんぷん}}
+* {{ja-r|円 偏光|えん へんこう}}
+* {{ja-r|円本|^えんぽん}}
+* {{ja-r|円満|えんまん}}
+* {{ja-r|円顱|えんろ}}
+* {{ja-r|一円|いちえん}}
+* {{ja-r|団円|だんえん}}
+* {{ja-r|楕円|だえん|rom=-}}, {{ja-r|橢円|だえん}}, {{ja-r|長円|ちょうえん|[[oval]], [[ellipse]]}}
+* {{ja-r|方円|ほうえん}}
+* {{ja-r|遊動円木|ゆうどうえんぼく}}
+* {{ja-r|卵円孔|らんえんこう}}
+* {{ja-r|円%居|まど%い}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|lang=ja|円 (数学)}}
+{{wp|Circle}}
+{{wp|lang=ja|円 (通貨)}}
+{{wp|Japanese yen}}
+</div>
 {{ja-kanjitab|えん|yomi=on}}
-{{ja-noun|えん|hhira=ゑん|kyu=圓}}
+{{IPAchar|/wen/}} → {{IPAchar|/eɴ/}}
 
-# {{lb|ja|math}} [[circle]]
-# [[yen]] (the [[Japanese]] currency)
+From {{der|ja|ltc|sort=えん|-}} {{ltc-l|圓}}, with the original sense of "[[circle]], [[round]]ness".
 
-====Derived terms====
+The ''[[yen]]'' sense came much later in the {{w|Meiji period}}, a borrowing {{bor|ja|cmn|sort=えん|圓|tr=yuán}}, itself from {{m|zh|銀圓|tr=yínyuán||round [[silver#Adjective|silver]] object(s), ''especially'' a [[piece of eight]]}}. Compare {{cog|zh|元|tr=yuán||[[yuan]]}} and {{cog|ko|원||Korean [[won]]}}.
+
+The ''yen'' became the official currency of Japan in 1871, succeeding the {{m|ja|両|tr=ryō}} and the {{m|ja|文|tr=mon}}.
+
+====Pronunciation====
+{{ja-pron|y=o|えん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=圓|えん|hhira=ゑん}}
+
+# a [[round]] or [[circular]] [[object]]; a [[circle]]; [[roundness]]
+# {{lb|ja|math}} [[circle]] {{gloss|set of all points in plane at a given distance and at a given point}}
+#: {{synonyms|ja|円周|tr=enshū}}
+# ''[[yen]]'': the official [[currency]] of [[Japan]]
+#: one yen is equal to 100 {{m|ja|銭|tr=sen}}
+#: {{synonyms|ja|円貨|tr=enka}}
+
+=====Derived terms=====
+{{der-top}}
 * {{sense|circle}}
-** {{ja-l|外接円}}
-** {{ja-l|内接円}}
-** {{ja-l|交換円}}
-** {{ja-l|四分円}}
-** {{ja-l|大円}}
-** {{ja-l|同心円}}
-** {{ja-l|半円}}
-** {{ja-l|円軌道}}
-** {{ja-l|円グラフ}}
+** {{ja-r|円 軌道|えん きどう}}
+** {{ja-r|円グラフ|えん-グラフ|[[pie chart]]}}
+** {{ja-r|外接円|がいせつえん}}
+** {{ja-r|四分%円|しぶん%-えん}}
+** {{ja-r|内接円|ないせつえん}}
+** {{ja-r|大円|だいえん}}
+** {{ja-r|同心円|どうしんえん}}
+** {{ja-r|半円|はんえん}}
+{{der-mid}}
 * {{sense|yen}}
-** {{ja-l|円安}}
-** {{ja-l|円為替}}
-** {{ja-l|円価}}
-** {{ja-l|円貨}}
-** {{ja-l|円記号}}
-** {{ja-l|円借款}}
-** {{ja-l|円相場}}
-** {{ja-l|円建て}}
+** {{ja-r|円高|えんだか|[[strong]] yen}}
+** {{ja-r|円安|えんやす|[[weak]] yen}}
+** {{ja-r|円%為替|えん%-かわせ|yen [[exchange]]}}
+** {{ja-r|円価|えんか|yen [[value]]}}
+** {{ja-r|円貨|えんか}}
+** {{ja-r|円 記号|えん きごう|pos=the yen [[symbol]], [[¥]]}}
+** {{ja-r|円 借款|えん しゃっかん}}
+** {{ja-r|円 相場|えん そうば|yen [[exchange rate]]}}
+** {{ja-r|円%建て|えん%-だて}}
+{{der-bottom}}
 
-====See also====
+=====See also=====
 * {{l|ja|¥}}
 
-===Noun===
+====Proper noun====
+{{ja-pos|proper|kyu=圓|えん|hhira=ゑん}}
 
-{{ja-noun|まる}}
+# {{surname|lang=ja|A=a|sort=えん}}
+# {{given name|lang=ja|female|A=a|sort=えん}}
+
+===Etymology 2===
+{{ja-kanjitab|まろ|yomi=kun}}
+{{IPAfont|⟨maro<sub>2</sub>⟩}} → {{IPAchar|/maro/}}
+
+From {{inh|ja|ojp|sort=まろ|-}}.
+
+====Noun====
+{{ja-noun|kyu=圓|まろ}}
+
+# {{lb|ja|archaic|sort=まろ}} {{altspelling|lang=ja|丸||[[roundness]], [[plumpness]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|円し|まろし}}, {{ja-r|円い|まろい|[[round]]}}
+* {{ja-r|円み|まろみ}}
+{{der-bottom}}
+
+===Etymology 3===
 {{ja-kanjitab|まる|yomi=kun}}
+{{IPAchar|/maro/}} → {{IPAchar|/maru/}}
 
-# [[circle]], [[ring]]
+Sound shift from ''maro'' above.
+
+====Pronunciation====
+{{ja-pron|y=k|まる|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=圓|まる}}
+
+# {{altspelling|lang=ja|丸||[[circle]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|円し|まるし}}, {{ja-r|円い|まるい|[[round]]}}
+* {{ja-r|円み|まるみ}}
+* {{ja-r|円顔|まるがお}}
+* {{ja-r|円%鏡|まる%かがみ}}
+* {{ja-r|円形|まるがた|rom=-}}, {{ja-r|円型|まるがた}}
+* {{ja-r|円%鉋|まる%がんな}}
+* {{ja-r|円錐|まるぎり}}
+* {{ja-r|円 天井|まる てんじょう}}
+* {{ja-r|円%刃|まる%ば}}
+* {{ja-r|円花蜂|マル-ハナバチ|[[bumblebee]]}}
+* {{ja-r|円盆|まるぼん}}
+* {{ja-r|円窓|まるまど}}
+* {{ja-r|円%屋根|まる%やね|[[cupola]]}}
+* {{ja-r|黒円|くろまる}}
+{{der-bottom}}
+
+====Prefix====
+{{ja-pos|prefix|kyu=圓|まる}}
+
+# {{altspelling|lang=ja|丸}}: ''prefix to [[number]]s remaining constant''
+# {{altspelling|lang=ja|丸}}: ''prefix to noun to mean an object is completely in that noun''
+
+====Proper noun====
+{{ja-pos|proper|kyu=圓|まる}}
+
+# {{surname|lang=ja|A=a|sort=まる}}
+# {{given name|lang=ja|unisex|A=a|sort=まる}}
+
+===Etymology 4===
+Various nanori readings.
+
+====Proper noun====
+{{ja-pos|proper|つぶら}}
+
+# {{surname|lang=ja|A=a|sort=つふら}}
+# {{given name|lang=ja|female|A=a|sort=つふら}}
+
+{{ja-pos|proper|のどか}}
+
+# {{given name|lang=ja|female|A=a|sort=のとか}}
+
+{{ja-pos|proper|kyu=圓|まどか}}
+
+# {{surname|lang=ja|A=a|sort=まとか}}
+# {{given name|lang=ja|female|A=a|sort=まとか}}
+
+{{ja-pos|proper|まろか}}
+
+# {{given name|lang=ja|female|A=a|sort=まろか}}
+
+{{ja-pos|proper|まろし}}
+
+# {{given name|lang=ja|unisex|A=a|sort=まろし}}
+
+{{ja-pos|proper|みつ}}
+
+# {{given name|lang=ja|female|A=a|sort=みつ}}
+
+{{ja-pos|proper|めぐる}}
+
+# {{given name|lang=ja|female|A=a|sort=めくる}}
+
+===References===
+<references/>
 
 [[Category:ja:Currency|えん]]
 
