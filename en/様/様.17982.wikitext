@@ -60,12 +60,12 @@ From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}
 {{ja-pron|yomi=goon|よう|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|よう|hhira=やう}}
+{{ja-noun|よう|hhira=やう|kyu=樣}}
 
 # [[way]], [[style]], [[appearance]]
 
 ====Adjective====
-{{ja-adj|よう|infl=na|hhira=やう}}
+{{ja-adj|よう|infl=na|hhira=やう|kyu=樣}}
 
 # be [[like]], look like, seem like, [[as if]], having the likeness of
 #: {{ja-usex|まるで夢を見ている'''様'''だ。|^まる で ゆめ を みて いる '''よう''' だ。|It felt '''as if''' I were dreaming.}}
@@ -75,7 +75,7 @@ From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}
 
 =====Usage notes=====
 * In contemporary Japanese, this term is often written in hiragana.
-* Traditional Japanese grammar analyzes this term as a {{l|ja|助動詞|tr=jodōshi|t=auxiliary verb}}, {{m|ja|ようだ|tr=yō da}}.
+* Traditional Japanese grammar analyzes this term as a {{l|ja|助動詞|tr=jodōshi|t=auxiliary verb}}, {{m|ja|ようだ|tr=yō da}}, from the noun {{m|ja|様|tr=yō}} and the auxiliary verb {{m|ja|だ}}.
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|さま}}
@@ -91,7 +91,7 @@ From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|so
 * {{ja-l|方}} {{qualifier|limited to the noun sense}}
 
 ====Noun====
-{{ja-noun|さま}}
+{{ja-noun|さま|kyu=樣}}
 
 # a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}
 # the [[state]] or [[situation]] of a thing
@@ -102,7 +102,7 @@ From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|so
 # the [[reason]] or [[circumstances]] for something
 
 ====Pronoun====
-{{ja-pos|pronoun|さま}}
+{{ja-pos|pronoun|さま|kyu=樣}}
 
 # {{lb|ja|sort=さま|archaic|honorific}} {{n-g|second-person pronoun:}} [[you]], [[you all]]
 # {{lb|ja|sort=さま|archaic|honorific}} {{n-g|third-person distal pronoun:}} [[he]], [[she]], [[they]] {{qualifier|distant from both speaker and listener}}
@@ -113,7 +113,7 @@ Used primarily by women of the [[red-light district]]s of the {{w|Edo period}}.<
 The pronoun senses have largely fallen into disuse. These originated as [[abbreviation]]s of longer forms {{m|ja|君様|tr=kimisama|lit=lord + that way}}, {{m|ja|方様|tr=katasama|lit=that side + that way}}, or {{m|ja|貴様|tr=kisama|lit=noble + that way}}, with the ''-sama'' suffix (see below) developing into an independent use.
 
 ====Suffix====
-{{ja-pos|さま|suffix|ざま}}
+{{ja-pos|さま|suffix|ざま|kyu=樣}}
 
 # {{lb|ja|sort=さま|honorific}} {{n-g|polite personal suffix:}} [[honorable]], [[Mr.]], [[Ms.]]
 #: {{ja-usex|吉田'''様'''が来られましたら…|^よしだ-'''さま''' が こられましたら…|If ['''honorable'''] '''Mr.''' Yoshida comes here...}}
@@ -146,7 +146,7 @@ Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare 
 {{ja-pron|yomi=k|ちゃま|acc=2}}
 
 ====Suffix====
-{{ja-pos|ちゃま|suffix}}
+{{ja-pos|ちゃま|suffix|kyu=樣}}
 
 # {{lb|ja|sort=ちゃま|childish}} honorific suffix
 
