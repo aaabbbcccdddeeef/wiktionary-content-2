@@ -12,13 +12,18 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|彳|皮|ls=psc|c1=s|c2=p}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms}}
+Related to {{och-l|夫|that}} ({{zh-ref|Schuessler, 2007}}).
+
+{{etystub|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m=bǐ
 |c=bei2
@@ -32,13 +37,45 @@
 |cat=pron
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# [[other]]; [[that]]; [[those]]
+# [[that]]; [[those]]
+# [[other]]
 
-===Compounds===
+====Compounds====
 {{zh-der|彼此|顧此失彼|彼竭我盈|彼眾我寡|厚此薄彼|彼得大帝|厚彼薄此|彼長我消|彼蒼|彼唱此和|不分彼此|何彼襛矣|彼岸|彼倡此和|瞻彼洛矣|挹彼注茲|挹彼注此|此唱彼和|知彼知己|知己知彼|此起彼伏|此發彼應|此問彼難|此起彼落|此仆彼起|聖彼得堡|誓彼襟靈}}
+
+===Etymology 2===
+Related to {{zh-l|許|hí, hír|that}}; see there for more.
+
+Pronunciation 2 is a fusion word of {{zh-l|許|hí, hír|that}} + {{zh-l|一|it|one}}; compare {{cog|cmn|-}} {{zh-l|那|nèi}}, from {{zh-l|那|that}} + {{zh-l|一|one}} ({{zh-ref|Mei and Yang, 1995}}).
+
+====Pronunciation 1====
+{{zh-forms|alt=許,赫}}
+{{zh-pron
+|mn=zz:hé/tw:he
+|cat=pron
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Zhangzhou|Taiwan Min Nan}} [[that]] {{gloss|demonstrative pronoun}}
+#: {{zh-x|這 是 阮 老母，彼{he} 是 阮 老爸。|This is my mother, and '''that''' is my father.|TW}}
+
+====Pronunciation 2====
+{{zh-forms|alt=許,迄}}
+{{zh-pron
+|mn=hit
+|cat=det
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[that]] {{gloss|demonstrative determiner}}
+#: {{zh-x|彼 本 冊|'''that''' book|TW}}
 
 ----
 
