@@ -11,31 +11,73 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=澜|alt=㳕-second round simp.}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|水|闌|ls=psc|t1=water|c1=s|c2=p}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|s=澜|alt=㳕-second round simp.}}
+
+====Pronunciation====
 {{zh-pron
 |m=lán
-|c=laan4,laan6
-|mn=lân/qz:lǎn/xm,zz:lān/qz:nǒa/tw,xm,zz:nōa
-|mn_note=lân/lǎn/lān - literary; nǒa/nōa - vernacular
+|c=laan4
+|mn=lân
+|mn-t=lang5
 |mc=y
 |oc=n,y<!--Where does Baxter-Sagart's /*[r]ˤanʔ/ come from?-->
-|cat=
+|cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# [[big]] [[wave]]
+# [[billow]]
 # [[ripple]]
 
 ====Compounds====
-{{zh-der|力挽狂瀾|安瀾|層瀾|平地波瀾|推波助瀾|文瀾閣|歷瀾|汍瀾|波瀾|波瀾壯闊|波瀾老成|瀾汗|瀾滄江|瀾漫|瀾翻|蒸漚歷瀾|狂瀾|米瀾}}
+{{zh-der|力挽狂瀾|安瀾|層瀾|平地波瀾|推波助瀾|文瀾閣|歷瀾|汍瀾|波瀾|波瀾壯闊|波瀾老成|瀾汗|瀾滄江|瀾翻|蒸漚歷瀾|狂瀾|米瀾}}
+
+===Etymology 2===
+{{zh-forms|s=澜|alt=㳕-second round simp.}}
+
+====Pronunciation====
+{{zh-pron
+|m=làn
+|c=laan6
+|mn=xm,zz:lān/qz:lǎn
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|瀾漫}}
+
+===Etymology 3===
+{{zh-forms|s=澜|alt=涎,灠,漤,潾,㘓}}
+From {{och-l|涎|saliva|id=1}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=lân;gd=lan1
+|md=lāng
+|mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,km,mg:nōa/qz,lk:nǒa
+|mn-t=nua6
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|chiefly|Min}} [[saliva]]
+
+=====Synonyms=====
+{{zh-dial|口水}}
+
+====Compounds====
+{{zh-der|喙瀾|口瀾}}
 
 ===References===
 * {{R:yue:Hanzi}}
