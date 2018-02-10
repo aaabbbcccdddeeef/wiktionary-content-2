@@ -54,24 +54,108 @@
 }}
 
 ====Compounds====
-* {{ja-r|柑橘類|かんきつるい}}
+{{der-top|Compounds}}
+* {{ja-r|橘%皮|き%がわ|pos=the [[peel]] of the ''tachibana'' fruit}}
+* {{ja-r|橘家 神道|^きっけ ^しんとう}}
+* {{ja-r|橘中 の 楽しみ|きっちゅう の たのしみ}}
+* {{ja-r|温州%橘|^うんしゅう%-きつ|pos=alternative name for ''[[Citrus unshiu]]''}}
+* {{ja-r|柑橘|かんきつ}}, {{ja-r|柑橘%類|かんきつ%-るい|pos=[[citrus fruit]]s as a whole}}
+* {{ja-r|月%橘|ゲッ%キツ|orange jessamine|pos=''[[Murraya paniculata]]''}}
+* {{ja-r|源平藤橘|^げんぺいとうきつ|pos=the four major clans in the {{w|Nara period}}: [[Minamoto]], [[Taira]], [[Fujiwara]] and [[Tachibana]]}}
+* {{ja-r|香橘|こうきつ}}
+* {{ja-r|四季%橘|シキ%-キツ|[[calamondin]]|pos={{taxlink|Citrus × microcarpa|species|ver=180209}}}}
+* {{ja-r|臭橘|しゅうきつ|pos=alternative name for the trifoliate orange}}
+* {{ja-r|盧%橘|ろ%きつ}}
+* {{ja-r|金橘|キンカン}}
+{{der-bottom}}
 
-===Pronunciation===
-{{ja-kanjitab|yomi=k|たちばな}}
-{{wikipedia|Tachibana}}
-{{wikipedia|lang=ja|橘 (曖昧さ回避)}}
-{{ja-pron|acc=2|y=k|たちばな}}
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja|タチバナ}}
+{{wp|Citrus tachibana}}
+</div>
+{{ja-kanjitab|たちばな|yomi=k}}
 
-===Noun===
-{{wikipedia|lang=ja|タチバナ}}
+{{IPAchar|/tadibana/}} → {{IPAchar|/tatibana/}} → {{IPAchar|/tat͡ɕibana/}}
+
+Named after {{m|ja|田道間守|tr=Tajimamori||{{w|Tajimamori}}}}, a legendary figure mentioned in the ''{{w|Kojiki}}'' and the ''{{w|Nihon Shoki}}''; purportedly bringing back certain fruits, but not directly as ''tachibana'' by name.
+
+Shortened to ''tachi'' for some compounds.
+
+====Pronunciation====
+{{ja-pron|y=k|たちばな|acc=2|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|たちばな|タチバナ}}
 
 # ''[[Citrus]] tachibana'', a [[species]] of [[wild]], [[green]], [[inedible]] [[citrus]] [[fruit]] [[native]] to [[Japan]]
+#: {{synonyms|ja|大和橘|tr=Yamato tachibana}}
+#: {{hypernyms|ja|蜜柑|tr=mikan}}
+# {{synonym of|lang=ja|唐橘|tr=kara-tachibana}}: the {{w|trifoliate orange}}, {{taxlink|Citrus trifoliata|species|ver=180209}}, formerly ''Poncirus trifoliata''
+# {{lb|ja|historical|sort=たちはな}} [[generic name]] for [[citrus fruit]]s, usually [[eat]]en [[raw]]
+# name of a {{m|ja|家紋|tr=kamon||family {{l|en|crest}}}}, with designs of ''tachibana'' [[flower]]s, [[fruit]]s, and [[leaf|leaves]]
 
-===Proper noun===
+=====Usage notes=====
+* {{U:ja:biology|タチバナ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|橘 を|たちばな を|pos=pillow word}}
+* {{ja-r|橘 神道|^たちばな ^しんとう}}
+* {{ja-r|橘%寺|^たちばな%-でら}}
+* {{ja-r|橘%鳥|たちばな%-どり|lesser cuckoo}}
+* {{ja-r|橘%擬|タチバナ%モドキ|pos={{taxlink|Pyracantha angustifolia|species|ver=180209}}}}
+* {{ja-r|橘%屋|^たちばな%-や}}
+* {{ja-r|橘%焼|たちばな%-やき|rom=-}}, {{ja-r|橘%焼き|たちばな%-やき}}
+* {{ja-r|橘%湾|^たちばな%-わん}}
+* {{ja-r|右近 の 橘|^うこん の ^たちばな}}, {{ja-r|御%階 の 橘|^み%はし の ^たちばな}}
+* {{ja-r|弟橘%媛|^おとたちばな%-ひめ}}, {{ja-r|橘%媛|^たちばな%ひめ}}
+* {{ja-r|枸橘|カラタチ|{{w|trifoliate orange}}|pos={{taxlink|Citrus trifoliata|species|ver=180209}}}}
+* {{ja-r|唐%橘|カラ%-タチバナ}}
+* {{ja-r|草%橘|クサ%-タチバナ}}
+* {{ja-r|御%前 橘|^ゴ%ゼン タチバナ}}
+* {{ja-r|酢%橘|ス%ダチ|{{w|sudachi}}|pos=''Citrus sudachi''}}
+* {{ja-r|大明%橘|^タイミン%-タチバナ|{{taxlink|Myrsine neriifolia|species|ver=180209}}}}
+* {{ja-r|花%橘|はな%-たちばな}}
+* {{ja-r|姫%橘|ひめ%-たちばな}}
+* {{ja-r|山%橘|やま%-たちばな}}
+* {{ja-r|大和 橘|^やまと たちばな}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|江南 の 橘 江北 の 枳 と なる|^こうなん の たちばな ^こうほく の からたち と なる}}
+
+====Proper noun====
+<div style="float:right;">
+{{wp|lang=ja|橘氏}}
+{{wp|Tachibana clan (kuge)}}
+</div>
 {{ja-pos|proper|たちばな}}
 
-# {{surname|lang=ja|sort=たちばな}}
+# {{short for|lang=ja|橘氏|tr=Tachibana uji|nodot=1}}: name of an ancient clan, who often held high-ranking positions in the medieval Japanese court
+# name of one of two [[destroyer]]s of the Imperial Japanese Navy (see {{pedialite|Japanese destroyer Tachibana}})
+# name of a class of destroyers of the Imperial Japanese Navy during [[World War II]] (see {{pedialite|Matsu-class destroyer}})
+# {{surname|lang=ja|sort=たちはな}}
+
+{{ja-pos|proper|たち}}
+
+# {{surname|lang=ja|sort=たち}}
+
+===Etymology 2===
+From {{der|ja|ltc|sort=きち|-}} {{ltc-l|橘}}.
+
+====Proper noun====
+{{ja-pos|proper|きち}}
+
+# {{surname|lang=ja|A=a|sort=きち}}
+
+{{ja-pos|proper|きつ}}
+
+# {{given name|female|lang=ja|A=a|sort=きつ}}
+# {{surname|lang=ja|A=a|sort=きつ}}
+
+===References===
+<references/>
 
 {{topics|ja|Citrus subfamily plants|Japan|sort=たちばな}}
 
