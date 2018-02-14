@@ -31,7 +31,12 @@
 # {{defn|lang=ja|sort=方12}}
 
 ====Readings====
-* {{ja-readings|on=[[はん]] (han)|kun=[[はた]] (hata)}}
+* {{ja-readings
+|goon=ほん
+|kanon=はん
+|kanyoon=ばん
+|kun=はた-
+}}
 
 ----
 
@@ -47,7 +52,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=方12|hanviet=phướn}}
+{{vi-hantu|rs=方12|phướn}}
 
 # {{defn|lang=vi|sort=方12}}
 
