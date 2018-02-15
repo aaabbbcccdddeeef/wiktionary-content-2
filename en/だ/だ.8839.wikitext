@@ -21,30 +21,30 @@
 Contraction of [[で]][[ある]] (''de aru'')
 
 ====Verb====
-{{ja-pos|aux}}
+{{ja-verb|tr=intransitive}}
 
-# {{n-g|A particle used when a sentence has a [[nominal]] as its [[predicate]], usually but not always equal to the English verb "to be".}}
+# {{n-g|Used when a sentence has a [[nominal]] as its [[predicate]], usually but not always equal to the English verb "to be".}}
 #: {{ja-usex|私 は 学%生 '''です'''。|わたし は がく%せい '''です'''。|I '''am''' a student.}}
 #: {{ja-usex|汚%物 は 消%毒 '''だ'''。|お%ぶつ は しょう%どく '''だ'''。|The filth should be disinfected.}}
 #: {{ja-usex|お代わり '''だ'''。|おかわり '''だ'''。|(Of a second helping) one more please.}}
-#: {{ja-usex|冬休みは明日から'''だ'''。|ふゆ%やすみ は あした から '''だ'''。|Winter vacation '''is''' from tomorrow. (Winter vacation starts from tomorrow.)}}
-#: {{ja-usex|トイレ は どこ '''です'''か？|Where '''is''' the toilet?}}
-#: {{ja-usex|売り場は一%階'''です'''か、二%階'''です'''か？|うりば は いっ%かい '''です'''か、に%かい '''です'''か？|'''Is''' the counter on the first floor or the second floor?}}
+#: {{ja-usex|冬%休みは明日から'''だ'''。|ふゆ% やすみ は あした から '''だ'''。|Winter vacation '''is''' from tomorrow. (Winter vacation starts from tomorrow.)}}
+#: {{ja-usex|トイレ は どこ '''です''' か？|Where '''is''' the toilet?}}
+#: {{ja-usex|売り場は一%階'''です'''か、二%階'''です'''か？|うりば は いっ%かい '''です''' か、に%かい '''です''' か？|'''Is''' the counter on the first floor or the second floor?}}
 
 =====Usage notes=====
-* This word is an [[enclitic]] just like other [[particle]]s. It is classified as {{l|ja|[[助動詞]]|tr=jodōshi}} in traditional Japanese grammar, because of its particle-like phonological behavior.
-* This particle only applies to nouns and ''na''-adjectives. An ''i''-adjective or verb alone suffices to end a sentence or clause. For example, {{m|ja|美しい|tr=Utsukushii}} could mean "it's beautiful", analogous to {{m|ja|[[綺麗]]'''だ'''|tr=Kirei da|t=It's pretty.}}
-** {{m|ja|です|tr=desu}} can be applied to ''i''-adjectives, while {{m|ja|だろう|tr=darō}}/{{m|ja|でしょう|tr=deshō}} and {{m|ja|なら|tr=nara}} can be applied to both ''i''-adjectives and verbs.
-* Although だ cannot be used to introduce a relative clause ending in a ''na''-adjective or noun – {{m|ja|[[学生]]'''だ'''[[アリス]]}} doesn't work, nor does {{m|ja|です}} here – some of the conjugations of だ can: {{m|ja|[[学生]][[である]][[アリス]]}} (Alice who is a student), {{m|ja|[[学生]][[だった]]/[[であった]][[アリス]]}} (Alice who was a student), {{m|ja|[[学生]][[ではない]]/[[じゃない]][[アリス]]}} (Alice who is not a student), {{m|ja|[[学生]][[ではなかった]]/[[じゃなかった]][[アリス]]}} (Alice who was not a student).
+* This word is phonologically an [[enclitic]], similar to [[particle]]s. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
+* This verb only applies to nouns and ''na''-adjectives. An ''i''-adjective or verb alone suffices to end a sentence or clause. For example, {{m|ja|美しい|tr=utsukushii}} could mean "it's beautiful" as a complete grammatical sentence, analogous to {{m|ja|[[綺麗]]'''だ'''|tr=kirei da|t=It's pretty}}.
+** The polite form {{m|ja|です|tr=desu}} can be applied to ''i''-adjectives, while {{m|ja|だろう|tr=darō}} / {{m|ja|でしょう|tr=deshō}} and {{m|ja|なら|tr=nara}} can be applied to both ''i''-adjectives and verbs.
+* だ cannot be used to introduce a relative clause ending in a ''na''-adjective or noun – {{m|ja|[[学生]]'''だ'''[[アリス]]}} doesn't work, nor does {{m|ja|です}} here.  However, some of the conjugations of だ can: {{m|ja|[[学生]][[である]][[アリス]]}} (Alice who is a student), {{m|ja|[[学生]][[だった]]/[[であった]][[アリス]]}} (Alice who was a student), {{m|ja|[[学生]][[ではない]]/[[じゃない]][[アリス]]}} (Alice who is not a student), {{m|ja|[[学生]][[ではなかった]]/[[じゃなかった]][[アリス]]}} (Alice who was not a student).
 
 =====Conjugation=====
 {{ja-verbconj|だ||では|de wa||で|de||だ|da||である|de aru||なら<br>であれ|nara<br>de are||-|-||-|-||-|-||-|-||だろう|darō||ではない<br>じゃない&sup1;|de wa nai<br>ja nai&sup1;||ではなくて<br>じゃなくて&sup1;|de wa nakute<br>ja nakute&sup1;||[[です]]|desu||だった|datta||で|de||ならば<br>であれば|naraba<br>de areba|<small>&sup1; Colloquial contraction</small>}}
 
 =====Synonyms=====
-* {{l|ja|である}}
-* {{l|ja|や}} (Kansai dialect)
-* {{l|ja|じゃ}} (Some western dialects. Also used in archaic speech in fictional characters)
+* {{ja-r|で ある}}
+* {{ja-r|や}} (Kansai dialect)
+* {{ja-r|じゃ}} (Some western dialects. Also used in archaic speech in fictional characters)
 
 =====See also=====
-* {{l|ja|です|tr=''desu''}}
-* {{l|ja|ございます|tr=''gozaimasu''}}
+* {{ja-r|です}} {{qualifier|polite}}
+* {{ja-r|ございます}} {{qualifier|humble}}
