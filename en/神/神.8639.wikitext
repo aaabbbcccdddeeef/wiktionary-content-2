@@ -175,16 +175,21 @@ Different branches of Christianity use different terms for God:
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|かみ|yomi=k}}
-{{swp|lang=ja}}
-{{IPAchar|/kami<sub>2</sub>/ *[kamɨ] → /kami/ [kami]}}
+<div style="float:right;"/>
+{{wikipedia|lang=ja}}
+{{wikipedia|Kami}}
+{{wikipedia|God}}
+</div>
+{{ja-kanjitab|yomi=k|かみ}}
+
+{{IPAfont|⟨kami<sub>2</sub>⟩}} → *{{IPAchar|/kamɨ/}} → {{IPAchar|/kami/}}
 
 From {{inh|ja|ojp|sort=かみ|-}}. Not related to {{m|ja|上|tr=</i>{{IPAchar|/kami<sub>1</sub>/}}||up}} or {{m|ja|髪|tr=</i>{{IPAchar|/kami<sub>1</sub>/}}||hair}}. Possibly cognate with Korean [[검]] (kŏm, "God", "Spirit") Often appears in compounds as {{IPAchar|/kamu/}} (modern {{IPAchar|/kaɴ/}}), indicating that {{IPAchar|/kami/}} is a bound or fused form deriving from *{{IPAchar|/kamu.i/}}. Note that this final ''i'' may be the {{etyl|ojp|-}} emphatic nominative particle {{m|ja|い|tr=i}}, likely cognate with {{etyl|ko|-}} nominative particle {{m|ko|이}}. Such fusion has occurred in other {{etyl|ja|-}} terms, such as {{m|ja|目|tr=me||eye|pos=from ''ma'' + ''i''}} or {{m|ja|酒|tr=sake||saké, liquor|pos=from ''saka'' + ''i''}}.
 
 Compare {{cog|ain|カムイ|tr=kamuy||god}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|かみ|acc=1|acc_ref=NHK,DJR}}
+{{ja-pron|yomi=k|かみ|acc=1|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|かみ}}
@@ -244,28 +249,31 @@ Compare {{cog|ain|カムイ|tr=kamuy||god}}.
 
 =====Derived terms=====
 {{der-top}}
+* {{ja-r|雷|かみなり}}: [[thunder]]
 * {{ja-r|国つ神|くにつかみ}}: an [[indigenous]] or [[local]] [[god]]; an [[earth]]-[[spirit]]
 {{der-bottom}}
 
 ====See also====
 * {{ja-r|精%霊|せい%れい}}
-* {{ja-r|雷|かみなり}}
 
 ===Etymology 2===
-{{ja-kanjitab|み|yomi=k}}
-From {{etyl|ojp|ja|sort=み}}. Cognate with {{m|ja|御|tr=mi|pos=honorific prefix, originally used to refer to gods and other high-status things}}.
+{{ja-kanjitab|yomi=k|み}}
+
+{{IPAfont|⟨mi<sub>1</sub>⟩}} → {{IPAchar|/mi/}}
+
+From {{inh|ja|ojp|sort=み|-}}. Cognate with {{m|ja|御|tr=mi|pos=honorific prefix, originally used to refer to gods and other high-status things}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|み}}
+{{ja-pron|yomi=k|み}}
+
+====Alternative forms====
+* {{ja-l|霊}}
 
 ====Noun====
 {{ja-noun|み}}
 
 # a [[god]]
 # a [[spirit]]
-
-=====Alternative forms=====
-* {{l|ja|霊}}
 
 =====Derived terms=====
 {{der-top}}
