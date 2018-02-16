@@ -70,6 +70,7 @@
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|煙草|たばこ}}: [[tobacco]], a [[cigar]]
 * {{ja-r|煙幕|えんまく}}: a [[smokescreen]]
 * {{ja-r|狼煙|のろし}}: [[smoke signal]], [[skyrocket]], a [[signal]] [[fire]]
@@ -78,28 +79,99 @@
 * {{ja-r|煙霧|えんむ}}: a [[haze]]
 * {{ja-r|煙霧質|えんむしつ}}: an [[aerosol]]
 * {{ja-r|煙突|えんとつ}}: [[chimney]], [[smokestack]]
-* {{ja-r|煙突掃除夫|えんとつ そうじふ}}: a [[chimney sweep]]er ([[cleaner]])
+{{der-bottom}}
 
-====Derived terms====
-* {{ja-r|煙る|けむる}}: (to produce) smoke
-* {{ja-r|煙い|けむい}}: [[smoky]]
+===Etymology 1===
+{{ja-kanjitab|yomi=k|けむり}}
 
-====Alternative forms====
-* {{l|ja|烟}}
+{{IPAchar|/keburi/}} → {{IPAchar|/kemuri/}}
 
-===Etymology===
-{{ja-kanjitab|けむり|yomi=k}}
+Shift from {{der|ja|ojp|-}}-derived ''keburi'' reading (see below) as a regular {{IPAchar|/b/}} → {{IPAchar|/m/}} change.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Appears in the ''{{w|Taiheiki}}'' of the late 1300s.
+
+Now the most common reading.
 
 ====Pronunciation====
-{{ja-pron|けむり|y=k|acc=0|acc_ref=NHK}}
+{{ja-pron|yomi=k|けむり|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+====Alternative forms====
+* {{l|ja|烟}} {{qualifier|less common}}
 
 ====Noun====
 {{ja-noun|count=|けむり}}
 
 # [[smoke]]
 
-=====Synonyms=====
-* {{ja-r|烽|のろし}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|けむ}}
+
+Truncation of earlier ''kemuri'' (see above).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Appears in [[kabuki]] plays of the late {{w|Edo Period}} (late 1700s, early 1800s).
+
+====Pronunciation====
+{{ja-pron|yomi=k|けむ|acc=0|acc_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{l|ja|烟}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|けむ}}
+
+# {{lb|ja|sort=けむ|informal|colloquial}} [[smoke]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|けぶり}}
+
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|煙る|tr=keburu||to be smoky, to give off smoke}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Appears with this reading in the ''{{w|Man'yōshū}}''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|けぶり}}
+
+====Alternative forms====
+* {{l|ja|烟}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|けぶり}}
+
+# {{lb|ja|sort=けぶり|archaic|possibly|_|dialect}} [[smoke]]
+
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|けぶ}}
+
+Truncation of earlier ''keburi'' (see above).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|けぶ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|烟}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|けぶ}}
+
+# {{lb|ja|sort=けぶ|archaic|possibly|_|dialect}} [[smoke]]
+
+===Etymology 5===
+{{ja-kanjitab|yomi=o|えん}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|えん}}
+
+====Affix====
+{{ja-pos|affix|えん}}
+
+# [[smoke]]
+# [[fog]], [[mist]]
+# [[soot]]
+# [[tobacco]], tobacco [[product]]s such as [[cigarette]]s or [[cigar]]s
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|煙%突|えん%とつ|smokestack, chimney}}
+* {{ja-r|禁%煙|きん%えん|no smoking}}
+{{der-bottom}}
 
 ===References===
 <references/>
