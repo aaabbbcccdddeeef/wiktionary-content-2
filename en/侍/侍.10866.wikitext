@@ -51,23 +51,21 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=人06}}
 
-# {{defn|lang=ja|sort=人06}}
+# [[samurai]]
+# [[wait upon]], [[serve]]
 
 =====Readings=====
 {{ja-readings
 |goon=じ
 |kanon=し
-|kun=さむらい-, はべ-る, さぶら-う
-|nanori=ひと
+|kun=さぶらい-<さぶらひ, さぶら-う<さぶら-ふ, さむらい-<さむらひ, さむら-う<さむら-ふ, はべ-る
+|nanori=つこ, ひと
 }}
 
 =====Compounds=====
-{{der-top}}
-* {{ja-r|侍気質|さむらいかたぎ}}
-* {{ja-r|侍八騎|さむらいはっき}}
+{{der-top|Compounds}}
 * {{ja-r|侍医|じい}}
 * {{ja-r|侍衛|じえい}}
-* {{ja-r|侍衛長|じえいちょう}}
 * {{ja-r|侍御|じぎょ}}
 * {{ja-r|侍講|じこう}}
 * {{ja-r|侍祭|じさい}}
@@ -75,59 +73,86 @@
 * {{ja-r|侍者|じしゃ}}
 * {{ja-r|侍臣|じしん}}
 * {{ja-r|侍従|じじゅう}}
-* {{ja-r|侍従官|じじゅうかん}}
-* {{ja-r|侍従職|じじゅうしょく}}
-* {{ja-r|侍従長|じじゅうちょう}}
-{{der-mid}}
-* {{ja-r|侍従武官|じじゅうぶかん}}
 * {{ja-r|侍女|じじょ}}
 * {{ja-r|侍僧|じそう}}
 * {{ja-r|侍読|じどく}}
 * {{ja-r|侍婢|じひ}}
 * {{ja-r|侍立|じりつ}}
-* {{ja-r|田舎侍|いなかざむらい}}
-* {{ja-r|犬侍|いぬざむらい}}
-* {{ja-r|芋侍|いもざむらい}}
 * {{ja-r|近侍|きんじ}}
-* {{ja-r|国侍|くにざむらい}}
 * {{ja-r|典侍|てんじ}}
 * {{ja-r|内侍|ないじ}}
 * {{ja-r|陪侍|ばいじ}}
-* {{ja-r|若侍|わかざむらい}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|さぶらい|yomi=k}}
-saburapi > saburaɸi > saburawi > saburai. The nominalized form of the verb {{m|ja|侍う|tr=saburau}}.
-
-====Noun====
-{{ja-noun|さぶらい|hhira=さぶらひ}}
-
-# one who serves nearby; a servant
-# a warrior; [[samurai]]
-#* {{RQ:Nippo Jisho|545}}
-#*: '''Saburai'''. サブライ(侍) 貴族, または,尊敬すべき人〔武士〕.
-
-===Etymology 2===
+<div style=float:right;>
+{{wp|lang=ja}}
+{{wp|Samurai}}
+</div>
 {{ja-kanjitab|さむらい|yomi=k}}
-{{wikipedia|lang=ja}}
-saburaɸi > samuraɸi > samurawi > samurai. From earlier {{m|ja|侍|tr=saburahi}}.
+{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/samurawi/}} → {{IPAchar|/samurai/}}
+
+Sound shift from ''saburai'' (see below), itself the {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]|pos=modern ''saburau''}}, ultimately derived from {{m|ja|さ|tr=sa-||pos=prefix meaning "[[early]]"}} + {{m|ja|守らふ|tr=morafu||to [[keep watch]]|pos=modern ''morau''}}.
+
+The shift from ''saburaf-'' → ''samuraf-'' is due to the development of the {{m|ja|女性語|tr=josei-go||{{w|Gender differences in spoken Japanese|women's language}}}} in {{w|Middle Japanese}}, expected from {{m|ja|候|tr=sōrō||[[service]]|pos=classical ''saurafu''}}.
+
+====Alternative forms====
+* {{ja-l|士}}
 
 ====Pronunciation====
-{{ja-pron|さむらい|acc=h|acc_ref=NHK|y=k}}
+{{ja-pron|y=k|さむらい|acc=h|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|さむらい|hhira=さむらひ}}
 
-# one who serves nearby; [[servant]]
-# [[warrior]]; [[samurai]]
+# {{lb|ja|historical|sort=さむらい}} a [[warrior]] [[class]] in [[medieval]] and pre-[[modern]] Japan; [[samurai]]
+#: {{synonyms|ja|武士|tr=bushi}}
+# one who [[serve]]s [[nearby]]:
+## a [[servant]]
+## a [[retainer]]
+# {{short for|lang=ja|侍所|tr=samurai-dokoro|nodot=1}}: the Board of Retainers in the {{w|Kamakura period|Kamakura}} and {{w|Muromachi period|Muromachi}} periods.
+# an [[above]]-[[average]] [[person]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|侍 気質|さむらい かたぎ}}
+* {{ja-r|田舎%侍|いなか%-ざむらい}}
+* {{ja-r|犬%侍|いぬ%ざむらい}}
+* {{ja-r|忰%侍|かせ%-ざむらい}}
+* {{ja-r|国%侍|くに%-ざむらい}}
+* {{ja-r|若%侍|わか%-ざむらい}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|黄%金 と 侍 は 朽ちて も 朽ちぬ|こ%がね と さむらい は くちて も くちぬ}}
 
 =====See also=====
-* {{ja-r|武士|ぶし}}
+* {{ja-r|武士%道|ぶし%どう|samurai [[code of conduct]]}}
+* {{ja-r|浪人|ろうにん|[[masterless]] [[samurai]]}}
+
+===Etymology 2===
+{{ja-kanjitab|さぶらい|yomi=k}}
+{{IPAfont|⟨sa morapi<sub>1</sub>⟩}} → {{IPAchar|/saburapi/}} → {{IPAchar|/saburafi/}} → {{IPAchar|/saburawi/}} → {{IPAchar|/saburai/}}
+
+The {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of classical verb {{m|ja|侍ふ|tr=saburafu||to [[serve]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|さぶらい}}
+
+====Noun====
+{{ja-noun|さぶらい|hhira=さぶらひ}}
+
+# {{lb|ja|archaic|sort=さむらい}} one who [[serve]]s [[nearby]]:
+## a [[servant]]
+## a [[retainer]]
+## a [[warrior]]; particularly, a [[samurai]]
+##* {{RQ:Nippo Jisho|545}}<ref>{{R:Nippo Jisho}}</ref>
+##*: '''Saburai'''. サブライ('''侍''') 貴族, または,尊敬すべき人〔武士〕.
+# {{synonym|lang=ja|下侍|tr=shimosaburai|nodot=1}}: {{rfdef|ja}}
+# {{short for|lang=ja|侍所|tr=saburai-dokoro|nodot=1}}: a [[samurai]] [[guardhouse]] in the {{w|Heian period}}
 
 ===References===
 <references/>
-* {{R:Nippo Jisho}}
 
 ----
 
