@@ -132,7 +132,14 @@
 {{der-bottom}}
 
 ===Etymology 1===
-From {{etyl|zhx|ja|sort=きょう'}} {{m|zh|業}}.
+{{ja-kanjitab|yomi=o|ぎょう}}
+
+{{IPAchar|/ɡepu/}} → {{IPAchar|/ɡefu/}} → {{IPAchar|/ɡeu/}} → {{IPAchar|/ɡjoː/}}
+
+From {{bor|ja|ltc|sort=きょう'|-}} {{ltc-l|業}}.  The [[漢音#Japanese|kan'on]], so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぎょう|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|ぎょう|hhira=げふ}}
@@ -148,7 +155,14 @@ From {{etyl|zhx|ja|sort=きょう'}} {{m|zh|業}}.
 * {{ja-r|業を創め、統を垂る|ぎょう を はじめ、とう を たる}}: a man of virtue builds up his skills, and then passes them on to those who come after
 
 ===Etymology 2===
-From {{etyl|zhx|ja|sort=こう'}} {{m|zh|業}}. Translation from the Sanskrit term {{m|sa|कर्मन्|tr=kárman||act, action, performance}}.
+{{ja-kanjitab|yomi=o|ごう}}
+
+{{IPAchar|/ɡopu/}} → {{IPAchar|/ɡofu/}} → {{IPAchar|/ɡou/}} → {{IPAchar|/ɡoː/}}
+
+From {{bor|ja|ltc|sort=こう'|-}} {{ltc-l|業}}.  The [[呉音#Japanese|goon]], so likely an earlier borrowing.  Translation from the Sanskrit term {{m|sa|कर्मन्|tr=kárman||act, action, performance}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ごう|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|ごう|hhira=ごふ}}
@@ -170,15 +184,30 @@ From {{etyl|zhx|ja|sort=こう'}} {{m|zh|業}}. Translation from the Sanskrit te
 * {{ja-r|業によりて果を引く|ごう に よりて か を ひく}}: [[you reap what you sow]], [[what goes around comes around]]
 
 ===Etymology 3===
-Stem noun form of verb {{m|ja|業る|tr=''naru''||to [[earn a living]]}}. Ultimately of same origin as verb {{l|ja|なる}}.
+{{ja-kanjitab|yomi=k|なり}}
+
+From {{inh|ja|ojp|sort=なり|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|5|805}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#801 here]</ref>
+
+Derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|業る|tr=naru||to [[earn a living]]}}. Ultimately of same origin as verb {{ja-r|なる|to become}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|なり}}
 
 ====Noun====
 {{ja-noun|なり}}
 
-# a [[living]], a [[job]], what one does to [[earn a living]]
+# {{lb|ja|sort=なり|archaic|possibly|_|obsolete}} a [[living]], a [[job]], what one does to [[earn a living]]
 
 ===Etymology 4===
-From {{etyl|ojp|ja|sort=わざ}} ''waza''.
+{{ja-kanjitab|yomi=k|わざ}}
+
+From {{inh|ja|ojp|sort=わざ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|4|721}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#721 here]</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|わざ|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+====Alternative forms====
+* {{ja-l|技}}
 
 ====Noun====
 {{ja-noun|わざ}}
@@ -187,18 +216,23 @@ From {{etyl|ojp|ja|sort=わざ}} ''waza''.
 # an [[intentional]] [[act]] or [[action]]
 # {{lb|ja|Buddhism|sort=わざ}} a Buddhist [[memorial service]]
 # one's [[job]], [[occupation]], [[profession]]
-# a [[matter]] or [[affair]]: implies a [[complication]] or [[problem]]よ
+# a [[matter]] or [[affair]]: implies a [[complication]] or [[problem]]
 #: {{ja-usex|容%易な'''業'''ではありませんよ。|よう%い な '''わざ''' で は ありません よ。|It's no easy '''matter''', I tell you.}}
 # a [[technique]], a [[means]] of doing something
 #: {{ja-usex|'''業'''を磨く|'''わざ''' を みがく|polish one's '''technique'''}}
 # a [[move]] or [[technique]] in [[sumo]], [[judo]], [[kendo]], or other competitive activity
 # a [[disaster]], [[misfortune]], [[calamity]]
 
-=====Synonyms=====
-* {{sense|a disaster}} {{ja-r|災い|わざわい}}: a [[disaster]]
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|災い|わざわい}}: a [[disaster]]
+{{der-bottom}}
 
 =====Related terms=====
 * {{sense|intentional act}} {{ja-r|態と|わざ と}}: intentionally, deliberately
+
+===References===
+<references/>
 
 ----
 
