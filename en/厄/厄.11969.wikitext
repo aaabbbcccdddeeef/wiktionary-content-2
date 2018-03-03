@@ -15,13 +15,20 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=𠂬,阨,戹}}
 
 ===Glyph origin===
 {{Han etym}}
-{{liushu|p}} or {{Han compound|厂|卪|alt2=㔾|ls=ic|t1=cliff|t2=person}}.
 
-===Pronunciation===
+; Etymology 1 and 3
+: See {{zh-l|*戹}}.
+; Etymology 2
+: ''{{w|Shuowen}}'': {{Han compound|厂|卩|ls=psc|c1=p|c2=s|t2=joint|no_och=1|no_och1=1}}.
+
+===Etymology 1===
+{{zh-forms|alt=戹,阨,𠂬}}
+Probably related to {{och-l|嗌|throat}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
 {{zh-pron
 |m=è
 |m-s=nge2
@@ -33,25 +40,55 @@
 |md=áik
 |mn=eh/xm,zz,tw:ek/qz:iak
 |mn_note=eh - vernacular; iak/ek - literary
-|mn-t=êh4/oh4
-|mn-t_note=oh4 - “difficult”
+|mn-t=êh4
 |w=5ngeq
 |x=nge6
 |mc=y
 |oc=y
 |ma=
-|cat=n,mn:a
+|cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[adversity]]; [[difficulty]]; [[distress]]
+# {{zh-alt-form|軛|yoke}}
+
+====Compounds====
+{{zh-der|厄會|厄爾巴島|厄魯特族|厄利垂亞|乘人之厄|央厄|在陳之厄|兵厄|厄瓜多|困厄|厄難|厄運|厄臺|消災解厄|水厄|災厄|矜貧救厄|陳蔡之厄|黃楊厄閏|解厄}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=ě,è
+|dial=n
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-hg}} {{n-g|Used in {{zh-l|科厄}}.}}
+
+===Etymology 3===
+{{zh-forms}}
+From {{zh-l|惡|tr=-}}.
+
+====Pronunciation====
+{{zh-pron
+|mn-t=oh4
+|dial=n
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{lb|zh|Teochew}} [[difficult]]
 #: {{zh-syn|難}}
-
-===Compounds===
-{{zh-der|厄會|厄爾巴島|厄魯特族|厄利垂亞|乘人之厄|央厄|在陳之厄|兵厄|厄瓜多|困厄|厄難|厄運|厄臺|消災解厄|水厄|災厄|矜貧救厄|陳蔡之厄|黃楊厄閏|解厄}}
 
 ----
 
