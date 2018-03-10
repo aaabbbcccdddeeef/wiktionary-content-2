@@ -17,15 +17,15 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|口|戛|c1=s|c2=p|t1=mouth|t2=sound|ls=ic|ls2=psc}}.
+{{Han compound|口|戛|ls=psc|c1=s|c2=p|t1=mouth}}.
 
 ===Etymology 1===
 {{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
-|m=gá
-|c=gaa4,gaa1,gat1,gaa2
+|m=gā
+|c=gaa1,gat1,gaat3
 |mc=y
 |oc=y
 |cat=
@@ -34,58 +34,75 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|onomatopoeic}} {{n-g|A short but loud sound:}} [[crack]]; [[creak]]; [[screech]]
 
-=====Compounds=====
-{{zh-der|嘎兒|嘎叭|嘎吱|嘎啦|嘎嘎|嘎嘎兒|嘎嘎兒天|嘎嘎棗兒|嘎嘎渣渣|嘎巴|嘎巴兒|嘎巴流星|嘎渣兒|嘎調|嘰嘰嘎嘎}}
+====Compounds====
+{{zh-der|嘎叭|嘎吱|嘎啦|嘎嘎|嘎嘎渣渣|嘎巴|嘎巴兒|嘎巴流星|嘎渣兒|嘰嘰嘎嘎}}
 
 ===Etymology 2===
-{{zh-forms|alt=戛,朒}}
+{{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
-|m-s=ga3
+|m=gá
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-only|嘎嘎|{{q|Sichuanese|childish}} [[meat]]}}
+# {{zh-only|嘎調}}
 
 ===Etymology 3===
 {{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
-|m=gā
-|c=
-|mc=y
-|oc=y
+|m=gá
+|c=gaa4,gaat3
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-alt-form|尜}}
+
+====Compounds====
+{{zh-der|嘎兒|嘎嘎兒|嘎嘎|嘎嘎兒天|嘎嘎棗兒}}
 
 ===Etymology 4===
-{{zh-forms}}
+{{zh-forms|alt=玍,嘎}}
 
 ====Pronunciation====
 {{zh-pron
 |m=gǎ
-|c=
-|mc=y
-|oc=y
-|cat=
+|c=gaa2,gaat3
+|cat=a
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|Beijing Mandarin|Northeastern Mandarin|Jilu Mandarin|Jiaoliao Mandarin|Zhongyuan Mandarin|dialectal Jin}} [[ill-tempered]]
+# {{lb|zh|Beijing Mandarin|Northeastern Mandarin|Jilu Mandarin}} [[naughty]]
+
+===Etymology 5===
+{{zh-forms|alt=戛,朒}}
+
+====Pronunciation====
+{{zh-pron
+|m-s=ga3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Sichuanese}} [[meat]]
+
+====Compounds====
+{{zh-der|嘎嘎}}
 
 ===References===
 * {{R:yue:Hanzi}}
