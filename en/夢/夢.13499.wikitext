@@ -65,6 +65,8 @@ Oracle bone script: {{liushu|p}} – a person lying on a bed, with restless hand
 {{ja-kanji|grade=5|rs=夕11}}
 
 # [[dream]]
+# [[vision]]
+# [[illusion]]
 
 ====Readings====
 {{ja-readings
@@ -74,33 +76,84 @@ Oracle bone script: {{liushu|p}} – a person lying on a bed, with restless hand
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|夢境|むきょう}}
+* {{ja-r|夢魂|むこん}}
+* {{ja-r|夢相|むそう}}
+* {{ja-r|夢裏|むり}}
 * {{ja-r|悪夢|あくむ}}
+* {{ja-r|淫夢|いんむ}}
+* {{ja-r|快%夢|かい%む}}
+* {{ja-r|怪%夢|かい%む}}
+* {{ja-r|槐%夢|かい%む}}
+* {{ja-r|客%夢|かく%む}}
+* {{ja-r|吉%夢|きち%む}}
+* {{ja-r|凶夢|きょうむ}}
+* {{ja-r|郷夢|きょうむ}}
+* {{ja-r|虚夢|きょむ}}
+* {{ja-r|実夢|じつむ}}
+* {{ja-r|瑞夢|ずいむ}}
+* {{ja-r|正夢|せいむ}}
+* {{ja-r|性夢|せいむ}}
+* {{ja-r|占夢|せんむ}}
+* {{ja-r|痴夢|ちむ}}
+{{der-bottom}}
 
 ===Etymology 1===
-/ime<sub>2</sub>/: *[iməj] > [ime]. From {{com|ja|寝|tr1=i|t1=[[sleep]]|目|tr2=me|t2=[[eye]]}}.
-
-====Noun====
-{{ja-noun|いめ}}
-
-# {{lb|ja|archaic|sort=いめ}} [[dream]]
-
-===Etymology 2===
 {{ja-kanjitab|ゆめ|yomi=k}}
-From earlier ''ime''.
+{{IPAchar|/ime/}} → {{IPAchar|/yume/}}
+
+Shift from {{inh|ja|ojp|sort=ゆめ|-}} ''ime'' (see below).<ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/>
+
+The {{IPAchar|/i/}} → {{IPAchar|/yu/}} shift is common in {{w|Middle Japanese}}, seen in {{m|ja|言う|tr=iu</i> → <i>yuu||to [[speak]]}} and {{m|ja|行く|tr=iku</i> → <i>yuku||to [[go]]}}.
 
 ====Pronunciation====
-{{ja-pron|ゆめ|acc=2|acc_ref=ZAJ}}
+{{ja-pron|y=k|ゆめ|acc=2|acc_ref=DJR,ZAJ}}
 
 ====Noun====
 {{ja-noun|ゆめ}}
 
-# [[dream]]
+# a [[dream]]
+# a [[vision]] {{gloss|[[wish]] for the [[future]]}}
+# leaving [[reality]] to the [[state]] of [[luscious]]ness {{rfv-sense|ja}}
+# a [[fantasy]] ([[idea]] from one's [[imagination]])
+# an [[illusion]] or [[delusion]]
+#: {{synonyms|ja|迷夢|tr=meimu}}
+# something [[fragile]] {{rfv-sense|ja}}
 
 ====Derived terms====
-* {{ja-r|夢見る|ゆめみる}}
+{{der-top}}
+* {{ja-r|夢夢し|ゆめゆめし}}
+* {{ja-r|夢%路|ゆめ%じ}}
+* {{ja-r|夢助|^ゆめすけ|rom=-}}, {{ja-r|夢介|^ゆめすけ}}
+* {{ja-r|夢%見る|ゆめ%みる}}
 * {{ja-r|夢を見る|ゆめ を みる}}
-* {{ja-r|夢物語|ゆめものがたり}}
 * {{ja-r|夢語り|ゆめがたり}}
+* {{ja-r|夢人|ゆめびと}}
+* {{ja-r|夢 物%語|ゆめ もの%がたり}}
+* {{ja-r|正夢|まさゆめ}}
+{{der-bottom}}
+
+====Proverbs====
+{{der-top|Proverbs}}
+* {{ja-r|夢 に 夢%見る|ゆめ に ゆめ%みる}}
+* {{ja-r|夢の夢|ゆめ の ゆめ}}, {{ja-r|夢 の また 夢|ゆめ の また ゆめ}}
+* {{ja-r|夢 は 逆夢|ゆめ は さかゆめ}}
+* {{ja-r|南柯の夢|なんか の ゆめ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|いめ|yomi=k}}
+{{IPAfont|⟨i me<sub>2</sub>⟩}} → *{{IPAchar|/iməj/}} → {{IPAchar|/ime/}}
+
+From {{inh|ja|ojp|sort=いめ|-}}, first attested in the ''{{w|Kojiki}}'' (720 {{CE}}).
+
+Originally a compound of {{m|ja|寝|tr=i||[[sleep]], [[sleep]]ing}} + {{m|ja|目|tr=me||[[eye]]}}.
+
+====Noun====
+{{ja-noun|いめ}}
+
+# {{lb|ja|archaic|sort=いめ}} a [[dream]]
 
 ===References===
 <references/>
