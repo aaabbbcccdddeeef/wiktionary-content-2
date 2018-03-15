@@ -62,49 +62,105 @@ Derived from {{och-l|朝|morning}}. Compare {{och-l|汐|evening tide; ebb}} < {{
 ===Kanji===
 {{ja-kanji|grade=6|rs=水12}}
 
+# [[tide]]
+# [[saltwater]]
+# [[opportunity]]
+
 ====Readings====
 {{ja-readings
 |goon=じょう<でう
 |kanon=ちょう<てう
 |kun=うしお-<うしほ-, しお-<しほ-
-|nanori=いた
+|nanori=いた, しおい, しおり
 }}
 
 ====Usage notes====
-* Both {{ja-l|潮}} and {{ja-l|汐}} have the kun-readings of ''shio'' and ''ushio''. Archaically, tides in the morning were called {{ja-r|朝潮|あさしお}}, the term for tides at nighttime was {{ja-r|夕汐|ゆうしお}}. For tides at any time of day, the compound ''chōseki'' may be used, below.
+* Both {{ja-l|潮}} and {{ja-l|汐}} have the ''kun''-readings of ''shio'' and ''ushio''. Archaically, tides in the morning were called {{m|ja|朝潮|tr=asashio}}, the term for tides at nighttime was {{m|ja|夕汐|tr=yūshio}}. For tides at any time of day, {{m|ja|潮汐|tr=chōseki}} may be used.
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ja-r|潮%汐|ちょう%せき|[[tide]]}}
+* {{ja-r|怒潮|どちょう}}
+{{der-bottom}}
+
+===Alternative forms===
+* {{sense|for tides in the [[evening]]}} {{ja-l|汐}}
 
 ===Etymology 1===
-/siho/: *[sipo] > [siɸo] > [ɕiɸo] > [ɕiwo] > [ɕio]. Cognate with {{m|ja|潮|tr=ushio}}.
+{{ja-kanjitab|しお|yomi=k}}
+{{IPAchar|/usipo/}} → *{{IPAchar|/isipo/}} → {{IPAchar|/sipo/}} → {{IPAchar|/ɕifo/}} → {{IPAchar|/ɕiwo/}} → {{IPAchar|/ɕio/}}
+
+A shift from or a shortening of {{inh|ja|ojp|sort=しお|-}} ''ushio'' (see below).
 
 ====Pronunciation====
-* {{IPA|/ɕio/|lang=ja}}
-
-====Homophones====
-* {{ja-l|塩}}
+{{ja-pron|y=k|しお|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|しお|hhira=しほ}}
 
-# the rising of oceans due to tidal forces from the moon and sun; the [[tide]]
-#* {{RQ:Man'yōshū|18|4045}}
-#*: 於伎敝欲里 美知久流'''之保'''能 伊也麻之尓 安我毛布支見我 弥不根可母加礼
+# a ([[morning]]) [[tide]]
+#* {{RQ:Man'yōshū|18|4045}}<ref>{{R:Man'yōshū 4}}</ref>, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4045 here]
+#*: {{ja-usex|m=於伎敝欲里 美知久流'''之保'''能 伊也麻之尓 安我毛布支見我 弥不根可母加礼|m_kana=おきへより みちくる'''しほ'''の いやましに あがもふきみが みふねかもかれ|沖%辺 より 満ち来る '''潮''' の いや増し に 我が 思ふ 君 が 御%船 か も かれ|おき%べ より みちくる '''しほ''' の いやまし に あが もふ きみ が み%ふね か も かれ|rom=okibe yori michikuru '''shio''' no iyamashi ni aga 'mou kimi ga mifune ka mo kare|My lord[,] for whom I long more and more like the '''tide''' coming up from the offing, could that there be your boat?<ref>{{cite-book|1963|Jan Lodewijk Pierson, Jr.|The Manyôśû Translated and Annotated Book XVIII|publisher=Brill Archive|page=14}}</ref>|sort=しお}}
+# [[seawater]]
+# a (usually [[favorable]]) [[chance]] or [[opportunity]]
+#: {{synonyms|ja|潮時|tr=shiodoki}}
+# [[charm]], [[attractive]]ness
+#: {{synonyms|ja|愛嬌|tr=aikyō}}
+# {{lb|ja|historical|sort=しお}} in the {{w|Edo period}}, name of a [[courtesan]] [[rank]] in the {{w|Shinmachi}} district of Osaka, next to the {{m|ja|鹿恋|tr=kakoi}}.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|塩|しお|[[salt]]}}
+* {{ja-r|潮時|しおどき}}
+* {{ja-r|朝潮|あさしお|[[morning]] tide}}
+* {{ja-r|真%潮|ま%しお}}
+* {{ja-r|夕潮|ゆうしお|[[evening]] tide}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|しお|hhira=しほ}}
+
+# {{surname|lang=ja|A=a|sort=しお}}
+# {{given name|female|lang=ja|A=a|sort=しお}}
+
+{{ja-pos|proper|しほ}}
+
+# {{surname|lang=ja|A=a|sort=しほ}}
+# {{given name|female|lang=ja|A=a|sort=しほ}}
 
 ===Etymology 2===
-/usiho/: *[usipo] > [usiɸo] > [uɕiɸo] > [uɕiwo] > [uɕio]. Cognate with {{m|ja|潮|tr=shio}}.
+{{ja-kanjitab|うしお|yomi=k}}
+{{IPAchar|/usipo/}} → {{IPAchar|/usipo/}} → {{IPAchar|/uɕifo/}} → {{IPAchar|/uɕiwo/}} → {{IPAchar|/uɕio/}}
+
+From {{inh|ja|ojp|sort=うしお|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
 
 ====Pronunciation====
-* {{IPA|/uɕio/|lang=ja}}
+{{ja-pron|y=k|しお|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|うしお|hhira=うしほ}}
 
-# the rising of oceans due to tidal forces from the moon and sun; the [[tide]]
+# a ([[morning]]) [[tide]]
+# [[seawater]]
+# a [[tidal current]]
+#: {{synonyms|ja|潮流|tr=chōryū}}
+# {{short for|lang=ja|潮汁|tr=ushiojiru|nodot=1}}: a [[thin]] [[soup]] of [[fish]] or [[shellfish]] [[boil]]ed in seawater
+
+=====Derived terms======
+{{der-top}}
+* {{ja-r|潮%汁|うしお%じる}}, {{ja-r|潮%煮|うしお%に}}
+* {{ja-r|潮%染|うしお%ぞめ|rom=-}}, {{ja-r|潮%染め|うしお%ぞめ}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|うしお|hhira=うしほ}}
+
+# ''a [[place name]]''
+# {{surname|lang=ja|A=a|sort=うしお}}
+# {{given name|female|lang=ja|A=a|sort=うしお}}
 
 ===References===
-* {{R:Man'yōshū 4}}
+<references/>
 
 ----
 
