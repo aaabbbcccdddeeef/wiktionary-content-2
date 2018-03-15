@@ -25,31 +25,33 @@
 ===Etymology===
 From {{inh|it|la|latīnus}}.
 
-===Noun===
-{{it-noun|m}} ''Feminine'' '''[[latina]]'''
-
-# [[Latin]] (''person'')
-
-===Proper noun===
-{{head|it|proper noun|g=m}}
-
-# [[Latin]] (''language'')
-
 ===Adjective===
 {{it-adj|latin}}
 
 # [[Latin]]
 
+===Noun===
+{{it-noun|m|f=latina}}
+
+# [[Latin]] {{q|person}}
+
+===Proper noun===
+{{head|it|proper noun|g=m}}
+
+# [[Latin]] {{q|language}}
+
 ===Related terms===
-* {{l|it|Latina}}
-* {{l|it|latineggiare}}
-* {{l|it|latinismo}}
-* {{l|it|latinista}}
-* {{l|it|latinità}}
-* {{l|it|latinizzare}}
+{{rel3
+|Latina
+|latineggiare
+|latinismo
+|latinista
+|latinità
+|latinizzare
+|lang=it}}
 
 ===Anagrams===
-* {{l|it|tonali}}
+* {{anagrams|it|tonali}}
 
 [[Category:it:Languages]]
 
