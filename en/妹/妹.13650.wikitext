@@ -52,36 +52,130 @@ Zhangzhou: māi - vernacular; moāi - literary
 
 ====Readings====
 {{ja-readings
-|goon=め, まい
+|goon=まい, め
 |kanon=ばい
-|kun=いもうと-, いも-
+|kun=いも-, いもうと-, いもと-
+|nanori=せ
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|貴妹|きまい}}
+* {{ja-r|愚妹|ぐまい}}
+* {{ja-r|兄妹|けいまい}}
+* {{ja-r|実妹|じつまい}}
+* {{ja-r|姉妹|しまい}}, {{ja-r|姉妹|きょうだい}}
+* {{ja-r|従妹|じゅうまい}}
+* {{ja-r|叔妹|しゅくまい}}
+* {{ja-r|小妹|しょうまい|rom=-}}, {{ja-r|少妹|しょうまい}}
+* {{ja-r|弟妹|ていまい}}
+* {{ja-r|亡妹|ぼうまい}}
+* {{ja-r|末妹|まつまい}}
+* {{ja-r|令妹|れいまい}}
+* {{ja-r|十姉妹|ジュウシマツ}}
+* {{ja-r|妹尾|^せのお}}
+{{der-bottom}}
+
 ===Etymology 1===
-/imo<small>1</small>/ → /imo/. The medial /m/ means "woman, female" and is found in a number of related terms: [[女|me]], [[女|onna]], [[女神|megami]], [[嫗|omina]], [[母|omo]] etc.
+{{ja-kanjitab|いも|yomi=k}}
+{{IPAfont|⟨imo<sub>1</sub>⟩}} → {{IPAchar|/imo/}}
+
+From {{inh|ja|ojp|sort=いも|-}}.
+
+The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of related terms such as {{m|ja|女|tr=<i>me</i>, <i>onna</i>||[[woman]]}}, {{m|ja|嫗|tr=omina||[[elderly]] woman}}, and {{m|ja|母|tr=omo||[[mother]]|pos=archaic}}.
 
 ====Pronunciation====
-{{ja-pron|いも|acc=1|acc_ref=SMK2}}
+{{ja-pron|y=k|いも|acc=1|acc_ref=SMK2}}
 
 ====Noun====
 {{ja-noun|いも}}
 
-# a close female companion; a sister or wife
+# {{lb|ja|archaic|usually from a male's viewpoint|sort=いも}} a [[close]] [[female]] [[companion]]
+## one's [[sister]]
+## one's [[lover]]
+## one's [[wife]]
+# {{lb|ja|archaic|usually from a female's viewpoint|sort=いも}} a [[woman]]
+
+=====Antonyms=====
+* {{ja-r|兄|せ|close [[male]] companion, [[man]]}}
 
 =====Derived terms=====
-* {{l|ja|妹}} (imōto)
+{{der-top}}
+* {{ja-r|妹|いもうと|one's younger sister}}
+* {{ja-r|妹ら|いもら}}
+* {{ja-r|妹 が 家 に|いも が いえ に|pos=pillow word}}
+* {{ja-r|妹 が 績む|いも が うむ|pos=pillow word}}
+* {{ja-r|妹 が 髪|いも が かみ|pos=pillow word}}
+* {{ja-r|妹 が 着る|いも が きる|pos=pillow word}}
+* {{ja-r|妹 が 袖|いも が そで|pos=pillow word}}
+* {{ja-r|妹 が 手 を|いも が て を|pos=pillow word}}
+* {{ja-r|妹 が 紐|いも が ひも|pos=pillow word}}
+* {{ja-r|妹 が 目 を|いも が め を|pos=pillow word}}
+* {{ja-r|妹許|いもがり}}
+* {{ja-r|妹%姑|いも%-しゅうとめ}}
+* {{ja-r|妹%兄|いも%せ|rom=-}}, {{ja-r|妹%背|いも%せ}}
+* {{ja-r|妹 に 恋ひ|いも に こひ|rom=imo ni koi|pos=pillow word}}
+* {{ja-r|妹山|いもやま}}
+* {{ja-r|汝妹|なにも}}
+* {{ja-r|継妹|ままいも}}
+* {{ja-r|吾妹|わぎも}}
+{{der-bottom}}
 
 ===Etymology 2===
-{{m|ja|妹|tr=imo<small>1</small>}} + {{m|ja|人|tr=hi<small>1</small>to<small>2</small>||person}}: /imopitə/ → /imoɸito/ → /imowito/ → /imouto/ → /imoːto/.
+{{IPAfont|⟨imo<sub>(1)</sub> pi<sub>1</sub>to<sub>2</sub>⟩}} → *{{IPAchar|/imopitə/}} → {{IPAchar|/imofito/}} → {{IPAchar|/imowito/}} → *{{IPAchar|/imowuto/}} {{IPAchar|/imoːto/}}
+
+Originally a compound of {{m|ja||妹|tr=imo|pos=close female companion}} + {{m|ja|人|tr=hito||[[person]]}}.<ref>{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>
+
+The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of {{m|ja|:w:ja:ウ音便|ウ音便|tr=u onbin|''u'' sound shift}}, found in terms with bilabial consonants ({{IPAchar|/m/}}, {{IPAchar|/b/}}, {{IPAchar|/w/}}) followed by ''i''; commonly seen in terms such as {{m|ja|玄人|tr=kurōto||[[professional]]}}, {{m|ja|素人|tr=shirōto||[[amateur]]}}, or possibly, {{m|ja|相撲|tr=sumō||[[sumo]]}}.
 
 ====Pronunciation====
-* {{ja-pron|いもうと|y=k|acc=4|acc_ref=SMK2,NHK}}
+{{ja-pron|y=k|いもうと|acc=4|acc_ref=SMK2,DJR,NHK}}
 
 ====Noun====
 {{ja-noun|いもうと}}
 
-# one's own younger sister
-# a younger female
+# one's own [[younger]] [[sister]]
+#: {{antonyms|ja|姉|tr=ane}}
+# the [[wife]] of one's younger [[brother]]; one's [[sister-in-law]]
+#: {{synonyms|ja|義妹|tr=gimai}}
+# a younger [[female]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|妹%御|いもうと%-ご}}
+* {{ja-r|妹 女郎|いもうと じょろう}}
+* {{ja-r|妹%分|いもうと%ぶん}}
+* {{ja-r|妹%婿|いもうと%-むこ|rom=-}}, {{ja-r|妹%聟|いもうと%-むこ}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|いもと|yomi=k}}
+{{IPAchar|/imopitə/}} → *{{IPAchar|/imoputə/}} → *{{IPAchar|/imobutə/}} → *{{IPAchar|/imomutə/}} → *{{IPAchar|/imontə/}} → {{IPAchar|/imoto/}}
+
+Likely a variant shift from derived compound {{m|ja||妹|tr=imo|pos=close female companion}} + {{m|ja|人|tr=hito||[[person]]}}, appears in ''{{w|The Tale of  Heiji}}'', written around the mid-12th century.
+
+====Noun====
+{{ja-noun|いもと}}
+
+# one's own [[younger]] [[sister]]
+#: {{antonyms|ja|姉|tr=ane}}
+# the [[wife]] of one's younger [[brother]]; one's [[sister-in-law]]
+#: {{synonyms|ja|義妹|tr=gimai}}
+# a younger [[female]]
+
+====Proper noun====
+{{ja-pos|proper|いもと}}
+
+# ''a [[place name]]''
+
+===Etymology 4===
+{{ja-kanjitab|まい|yomi=o}}
+From {{der|ja|ltc|sort=まい|-}} {{ltc-l|妹}}.
+
+====Proper noun====
+{{ja-pos|proper|まい}}
+
+# {{given name|female|lang=ja|A=a|sort=まい}}
 
 ===References===
 <references/>
