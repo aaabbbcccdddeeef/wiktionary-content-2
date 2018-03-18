@@ -83,7 +83,7 @@ When written as a bottom radical, it is similar to [[灬]] but is distinguished 
 {{ja-readings
 |goon=しん<しん<しむ
 |kanon=しん<しん<しむ
-|kun=こころ-, ごころ-
+|kun=こころ-
 |nanori=むね, まこと, み
 }}
 
@@ -198,17 +198,14 @@ When written as a bottom radical, it is similar to [[灬]] but is distinguished 
 |{{ja-r|心太|ところてん}}: ''[[Gelidium]]'' [[jelly]]; [[prostate]] [[orgasm]]
 }}
 
-====Phrases====
-* {{l|ja|心頭滅却すれば火もまた涼し}}
-
 ===Etymology 1===
 {{ja-kanjitab|こころ|yomi=k}}
-{{IPAchar|/ko₂ko₂ro₂/|}} → {{IPAchar|/kokoro/}}: *[kəkərə] →> [kokoro]
+{{IPAfont|⟨ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>⟩|}} → *{{IPAchar|/kəkərə/}} → {{IPAchar|/kokoro/}}
 
-From {{der|ja|ojp|sort=こころ|-}}. Cognate with {{cog|ryu|くくる|tr=kukuru}}.
+From {{der|ja|ojp|sort=こころ|-}}. Cognate with {{cog|ryu|心|tr=kukuru}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|こころ|acc=3|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK|a=ja-kokoro.ogg}}
+{{ja-pron|y=k|こころ|acc=3|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK|a=ja-kokoro.ogg}}
 
 ====Noun====
 {{ja-noun|こころ}}
@@ -252,10 +249,10 @@ From {{der|ja|ojp|sort=こころ|-}}. Cognate with {{cog|ryu|くくる|tr=kukuru
 
 ===Etymology 2===
 {{ja-kanjitab|うら|yomi=irr}}
-Cognate with {{m|ja|裏|tr=ura||inside}}.
+Cognate with {{m|ja|裏|tr=ura||[[inside]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=irr|うら}}
+{{ja-pron|y=irr|うら|acc=2}}
 
 ====Noun====
 {{ja-noun|うら}}
@@ -264,12 +261,12 @@ Cognate with {{m|ja|裏|tr=ura||inside}}.
 
 ===Etymology 3===
 {{ja-kanjitab|しん|yomi=o}}
-{{IPAchar|/sim/|}} → {{IPAchar|/sin/}} → {{IPAchar|/ɕin/}}
+{{IPAchar|/simu/|}} → {{IPAchar|/siɴ/}} → {{IPAchar|/ɕiɴ/}}
 
 From {{der|ja|ltc|sort=しん|-}} {{ltc-l|心}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|しん|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|y=o|しん|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|しん}}
