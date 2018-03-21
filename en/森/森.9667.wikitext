@@ -79,12 +79,14 @@
 }}
 
 ===Etymology===
-{{ja-kanjitab|もり|yomi=k}}
+{{ja-kanjitab|yomi=k|もり}}
 {{rfe|lang=ja}}
 
 ===Pronunciation===
-{{ja-pron|もり|acc=h|acc_ref=NHK|y=k}}
-{{ja-pron|a=もり.wav}}
+{{ja-pron|yomi=k|もり|acc=0|acc_ref=DJR,NHK,SMK5|a=もり.wav}}
+
+===Alternative forms===
+* {{ja-l|杜}} {{qualifier|less common}}
 
 ===Noun===
 {{ja-noun|もり}}
@@ -99,13 +101,11 @@
 |trans-chapter=Trent}}
 
 ====Derived terms====
-* {{ja-r|森嫁|もり よめ}}: lit. a "''[[forest]] [[bride]]'';" a forest [[nymph]]
-* {{ja-r|青森|^あおもり}}: literally, "green forest"
+* {{ja-r|森嫁|もり よめ}}: a forest [[nymph]] 
+* {{ja-r|青森|^あおもり}}: {{w|Aomori Prefecture}}, literally meaning “[[green]] [[forest]]”
 
-====Synonyms====
-* {{ja-r|林|はやし}}; {{ja-r|杜|もり}}
-
-{{topics|ja|Forests|sort=もり|Magic: The Gathering}}
+====See also====
+* {{ja-r|林|はやし|woods|pos=generally smaller than a ''mori''}}
 
 ===Proper noun===
 {{ja-pos|proper|もり}}
@@ -114,6 +114,8 @@
 
 ===References===
 <references/>
+
+{{topics|ja|Forests|sort=もり|Magic: The Gathering}}
 
 ----
 
