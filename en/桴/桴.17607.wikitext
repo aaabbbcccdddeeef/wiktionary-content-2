@@ -39,36 +39,78 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木07}}
 
-# {{defn|lang=ja|sort=木07}}
+# [[drumstick]], [[mallet]]
+# [[raft]]
 
 ====Readings====
 {{ja-readings
-|on=ふ
-|kun=ばち-, いかだ-
+|goon=ふ, ぶ
+|kanon=ふ, ふう
+|kun=ばち-, ぶち-, いかだ-
 }}
 
 ===Etymology 1===
-{{wikipedia|lang=ja|バチ}}
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Bachi}}
+[[File:Taikos_bachi.jpg|thumb|250px|{{m|ja|桴|tr=bachi}}: a selection of [[taiko]] '''[[drumstick]]s'''.]]
+</div>
 {{ja-kanjitab|ばち|yomi=k}}
 
+Might be a sound shift from ''buchi'' (see below), from the sense of {{m|en|strike|striking}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ばち|acc=2|acc_ref=DJR}}
+
 ====Alternative forms====
-* {{ja-l|枹}}
+* {{ja-l|撥}}, {{ja-l|枹}}
 
 ====Noun====
 {{ja-noun|ばち|バチ}}
 
-# [[drum stick]] for instruments such as the [[taiko]] and [[gong]]
-
-====Related terms====
-* {{ja-r|撥|ばち}}
+# {{ja-def|桴|枹}} a [[drum stick]] for instruments such as the [[taiko]] and [[gong]], a [[percussion]] [[mallet]]
+#: {{synonyms|ja|桴|tr1=buchi|q1=see below}}
+# {{ja-def|撥|桴}} in {{m|ja|雅楽||tr=gagaku|traditional Japanese court music}}, the [[plectra]] or [[pick]]s used to play the [[biwa]] [[lute]] and [[shamisen]], together with the [[stick]]s and other objects held by the [[dancer]] in {{m|ja|舞楽||tr=bugaku|traditional Japanese court dance}}
+#: {{n-g|the former is generally spelled {{m|ja|撥}}, and the latter {{m|ja|桴}}}}
 
 ===Etymology 2===
-{{ja-kanjitab|いかだ|yomi=k}}
+{{ja-kanjitab|yomi=k|ぶち}}
+
+Appears to be the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|打つ||tr=butsu|to strike something, to hit something}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ぶち}}
+
+====Noun====
+{{ja-noun|ぶち}}
+
+# {{lb|ja|sort=ふち'|archaic|possibly|_|obsolete}} a [[drum stick]] for instruments such as the [[taiko]] and [[gong]], a [[percussion]] [[mallet]]
+
+===Etymology 3===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Raft}}
+[[File:Isarfloss.jpg|thumb|250px|{{m|ja|桴|tr=ikada}}: a '''[[raft]]''' on a river in Germany.]]
+</div>
+{{ja-kanjitab|yomi=k|いかだ}}
+
+From {{inh|ja|ojp|sort=いかだ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|1|50}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#50 here]</ref>
+
+Appears to be a possible compound, but the ultimate derivation is unknown.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いかだ|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+====Alternative forms====
+* {{ja-l|筏}} {{qualifier|more common}}, {{ja-l|栰}} {{qualifier|rare}}
 
 ====Noun====
 {{ja-noun|いかだ|イカダ}}
 
-# {{alternative spelling of|lang=ja|筏||[[raft]]}}
+# a [[raft]]
+
+===References===
+<references/>
 
 ----
 
