@@ -56,7 +56,7 @@
 ===Kanji===
 {{ja-kanji|grade=1|rs=木08}}
 
-# [[forest]]; [[woods]]
+# [[forest]], [[woods]]
 
 ====Readings====
 {{ja-readings
@@ -67,20 +67,22 @@
 }}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-l|森閑}}
-|{{ja-l|森厳}}
-|{{ja-l|森々}}, {{ja-l|森森}}
-|{{ja-l|森然}}
-|{{ja-l|森羅万象}}
-|{{ja-l|森林}}
-|{{ja-l|森林火災}}
-|{{ja-l|森林公園}}
-|{{ja-l|森林浴}}
-}}
+{{der-top|Compounds}}
+* {{ja-r|森閑|しんかん}}
+* {{ja-r|森厳|しんぜん}}
+* {{ja-r|森森|しんしん|rom=-}}, {{ja-r|森々|しんしん}}
+* {{ja-r|森邃|しんすい}}
+* {{ja-r|森然|しんぜん}}
+* {{ja-r|森羅|しんら}}
+* {{ja-r|森立|しんりつ}}
+* {{ja-r|森林|しんりん}}
+* {{ja-r|森列|しんれつ}}
+* {{ja-r|陰森|いんしん}}
+{{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|yomi=k|もり}}
-{{rfe|lang=ja}}
+From {{inh|ja|ojp|sort=もり|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{w|CE}}).
 
 ===Pronunciation===
 {{ja-pron|yomi=k|もり|acc=0|acc_ref=DJR,NHK,SMK5|a=もり.wav}}
@@ -91,26 +93,50 @@
 ===Noun===
 {{ja-noun|もり}}
 
-# a [[forest]] {{gloss|dense collection of trees}}
+# a [[forest]] {{gloss|[[dense]] [[collection]] of [[tree]]s}}
 #*{{quote-book|||Vol.4
-|||{{ja-usex|まだまだ成%長し続けている'''森'''の大%木。'''森'''の守り神。|まだまだ せい%ちょうしつづけている '''もり''' の たい%ぼく。'''もり''' の まもり かみ。|A growing forest tree. He is the guardian god of the woods.}}
+|||{{ja-usex|まだまだ成%長し続けている'''森'''の大%木。'''森'''の守り神。|まだまだ せい%ちょうしつづけている '''もり''' の たい%ぼく。'''もり''' の まもり かみ。|A growing '''forest''' tree. He is the guardian god of the woods.}}
 |date=Jul 22 1999
 |publisher={{w|Konami}}
 |language=Japanese
 |chapter={{laja|トレント}}
 |trans-chapter=Trent}}
+#: {{synonyms|ja|森林|tr=shinrin}}
+# a [[shrine]] [[grove]]
 
 ====Derived terms====
+{{der-top}}
+* {{ja-r|森%薊|モリ%-アザミ}}
+* {{ja-r|森ガール|もり-ガール}}
+* {{ja-r|森陰|もりかげ}}
+* {{ja-r|森神|もりがみ}}
+* {{ja-r|森%派|^もり%-は}}
+* {{ja-r|森番|もりばん}}
 * {{ja-r|森嫁|もり よめ}}: a forest [[nymph]] 
-* {{ja-r|青森|^あおもり}}: {{w|Aomori Prefecture}}, literally meaning “[[green]] [[forest]]”
+* {{ja-r|青森|^あおもり|{{w|Aomori Prefecture}}|pos=literally "[[green]] forest"}}
+* {{ja-r|生%田の森|^いく%た-の-もり}}
+* {{ja-r|池%子の森|^いけ%ご-の-もり}}
+* {{ja-r|岩瀬の森|^いわせ-の-もり}}
+* {{ja-r|磐%手の森|^いわ%で-の-もり}}
+* {{ja-r|浮%田の森|^うき%た-の-もり}}
+* {{ja-r|老%蘇%森|^おい%そ-の%-もり|rom=-}}, {{ja-r|老%曽%森|^おい%そ-の%-もり|pos=pillow word}}
+* {{ja-r|気%色の森|^け%しき-の-もり}}
+* {{ja-r|重森|^しげもり}}
+* {{ja-r|信太%の森|^しのだ%-の-もり}}
+* {{ja-r|糺の森|^ただす-の-もり|rom=-}}, {{ja-r|糺ノ森|^ただす-ノ-もり|rom=-}}, {{ja-r|糾ノ森|^ただす-ノ-もり}}
+* {{ja-r|鎮守の森|^ちんじゅ-の-もり}}
+* {{ja-r|成らずの森|ならず の もり}}
+* {{ja-r|羽%束%師の森|^は%つか%し-の-もり}}
+* {{ja-r|万木の森|^ゆるぎ-の-もり}}
+{{der-bottom}}
 
 ====See also====
-* {{ja-r|林|はやし|woods|pos=generally smaller than a ''mori''}}
+* {{ja-r|林|はやし|[[woods]]|pos=generally smaller than a ''mori''}}
 
 ===Proper noun===
 {{ja-pos|proper|もり}}
 
-# {{surname|lang=ja|sort=もり}}
+# {{surname|lang=ja|A=a|sort=もり}}
 
 ===References===
 <references/>
