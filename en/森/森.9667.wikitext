@@ -82,13 +82,15 @@
 
 ===Etymology===
 {{ja-kanjitab|yomi=k|もり}}
-From {{inh|ja|ojp|sort=もり|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{w|CE}}).
+From {{inh|ja|ojp|sort=もり|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{w|CE}}).<ref>{{RQ:Manyoshu|10|1850}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man10Yo.html#1850 here]</ref>
+
+Probably cognate with {{m|ja|盛り||tr=mori|pile, heap}}, the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of verb {{m|ja|盛る||tr=moru|to heap up, to build up into a significant amount}}, from the way a forest can look like a heap or mound from a distance.<ref name="SMK5">{{R:Shinmeikai5}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|もり|acc=0|acc_ref=DJR,NHK,SMK5|a=もり.wav}}
 
 ===Alternative forms===
-* {{ja-l|杜}} {{qualifier|less common}}
+* {{ja-l|杜}} {{qualifier|less common; specific to the ''shrine grove'' sense}}
 
 ===Noun===
 {{ja-noun|もり}}
@@ -136,7 +138,7 @@ From {{inh|ja|ojp|sort=もり|-}}, first attested in the ''{{w|Man'yōshū}}'' (
 ===Proper noun===
 {{ja-pos|proper|もり}}
 
-# {{surname|lang=ja|A=a|sort=もり}}
+# {{surname|lang=ja|A=a|nodot=1|sort=もり}}
 
 ===References===
 <references/>
