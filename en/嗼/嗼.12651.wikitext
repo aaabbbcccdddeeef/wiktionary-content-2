@@ -1,9 +1,6 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{Han etyl}}
-
 ===Han character===
 {{Han char|rn=30|rad=口|as=11|sn=14|four=64034|canj=RTAK|ids=⿰口莫}}
 
@@ -12,12 +9,28 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=mok6}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=口11}}
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mak6,mok6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -39,12 +52,3 @@
 {{ko-hanja|hangeul=막|rv=mak|mr=mak}}
 
 # {{defn|lang=ko|sort=口11}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[mò]] ([[mo4]])|wg=mo<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=口11}}
