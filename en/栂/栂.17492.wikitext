@@ -37,15 +37,68 @@
 # [[hemlock]] (tree)
 
 ====Readings====
-* {{ja-readings|on=|kun=[[とが]] (toga), [[つが]] (tsuga)}}
+{{ja-readings
+|kanyoon=ばい
+|kun=とが-, つが-
+}}
 
-====Compounds====
-* [[栂椹]] (togasawara)
+===Etymology 1===
+{{ja-kanjitab|yomi=k|つが}}
 
-===Noun===
+{{IPAfont|⟨tuɡa⟩}} → {{IPAchar|/t͡suɡa/}}
+
+From {{inh|ja|ojp|sort=つが|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|3|324}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#324 here]</ref>
+
+Appears to be an alternative phonetic realization of ''toga'' below.
+
+====Pronunciation====
+{{ja-pron|yomi=k|つが|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
 {{ja-noun|つが|ツガ}}
 
-# [[hemlock]] (tree), the genus ''[[Tsuga]]''
+# a [[hemlock]] (tree), of the genus ''[[Tsuga]]''
+
+=====Usage notes=====
+{{U:ja:biology|ツガ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|都%賀|^つ%が}}: a [[surname]] and [[place name]]
+* {{ja-r|栂%桜|つが%ざくら}}: {{taxlink|Phyllodoce nipponica|species}}
+* {{ja-r|栂の木|つがのき}}: a [[hemlock]] [[tree]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|とが}}
+
+{{IPAfont|⟨to<sub>1</sub>ɡa⟩}} → {{IPAchar|/toɡa/}}
+: Alternative reconstruction:
+{{IPAfont|⟨to<sub>1</sub>ɡa⟩}} → *{{IPAchar|/twoɡa/}} → {{IPAchar|/toɡa/}}
+
+From {{inh|ja|ojp|sort=とが|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|6|907}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man6Yos.html#907 here]</ref>
+
+Appears to be an alternative phonetic realization of ''tsuga'' above.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とが|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|とが}}
+
+# a [[hemlock]] (tree), of the genus ''[[Tsuga]]''
+
+=====Usage notes=====
+Less commonly used than  the ''tsuga'' reading above.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|栂%椹|とが%さわら}}: the {{vern|Japanese Douglas fir}} ({{taxlink|Pseudotsuga japonica|species}})
+* {{ja-r|栂%尾|^とが%の.お}}: a place in Kyoto
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
