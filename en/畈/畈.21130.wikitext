@@ -9,12 +9,34 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=faan3|y=faan3}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|田|反|c1=s|c2=p|t1=field|ls=psc}}.
 
-# {{defn|lang=yue|sort=田04}}
+===Pronunciation===
+{{zh-pron
+|m=fàn
+|c=faan3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|dialect}} [[cropland]]
+# {{zh-classifier|large fields}}
+# {{non-gloss|Used in placenames.}}
+#: {{zh-x|張 家 畈 鎮|Zhangjiafan township in [[Hubei]] province {{zh-also|{{w|zh:張家畈鎮|張家畈鎮}}}}}}
+#: {{zh-x|田 畈 街 鎮|Tianfanjie township in [[Jiangxi]] province {{zh-also|{{w|zh:田畈街鎮|田畈街鎮}}}}}}
+
+====Compounds====
+{{zh-der|畈田}}
 
 ----
 
@@ -29,13 +51,3 @@
 * {{ja-readings|on=[[はん]] (han), [[ほん]] (hon)|kun=|nanori=}}
 
 ----
-
-==Mandarin==
-===Glyph origin===
-{{Han etym}}
-{{Han compound|田|反|c1=s|c2=p|t1=field|ls=psc}}.
-===Hanzi===
-{{cmn-hanzi|pin=[[fàn]] ([[fan4]])|wg=fan<sup>4</sup>}}
-
-# {{lb|zh|dialect}} cropland ({{n-g|commonly used in location names}})
-# {{zh-classifier|large fields}}
