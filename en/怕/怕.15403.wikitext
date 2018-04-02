@@ -25,10 +25,15 @@ Cognate with {{och-l|怖}}.
 |ma=y
 |m-s=pa4
 |c=paa3
+|c-t=
+|g=
 |h=pfs=pha
+|j=
 |md=pá
 |mn=qz,twv,xm,zz:phàⁿ/tw:phà
+|mn-t=
 |w=2pho
+|x=
 |mc=y
 |oc=y
 |cat=v,adv
@@ -57,7 +62,11 @@ Cognate with {{och-l|怖}}.
 # {{defn|lang=ja|sort=心05}}
 
 ====Readings====
-* {{ja-readings|on=[[は]] (ha), [[はく]] (haku)|kun=[[おそれる]] (osoreru)}}
+* {{ja-readings
+|goon=へ
+|kanon=は
+|kun=おそ-れる
+}}
 
 ----
 
@@ -73,6 +82,6 @@ Cognate with {{och-l|怖}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[phạ]]|rs=心05}}
+{{vi-hantu|phạ|rs=心05}}
 
 # {{defn|lang=vi|sort=心05}}
