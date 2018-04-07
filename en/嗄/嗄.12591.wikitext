@@ -4,8 +4,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=10|sn=13|four=61047|canj=RMUE|ids=⿰口夏}}
 
-# [[hoarse]] of [[voice]]
-
 ====References====
 * {{Han ref|kx=0201.340|dkj=04047|dj=0424.260|hdz=10666.090|uh=55C4|ud=21956|bh=DCD3|bd=56531}}
 
@@ -16,27 +14,69 @@
 
 ===Glyph origin===
 {{Han etym}}
+<!--
+{{zh-pron
+|mn=sā
+}}-->{{attention|zh}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=shà
-|c=aa2,aai3,saa3,ngaai3,haa2
-|md=hák
-|mn=sā
-|mc=y
+|c=saa3
+|mc=2+1
 |oc=y
 |cat=
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
+# [[hoarse]]
+
+====Compounds====
+{{zh-der|嘻嘻嗄嗄|嗄程}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=á,a
+|c=aa2
+|cat=interj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|An interjection.}}
 # ''sentence-final particle and interjection expressing surprise''
+
+====Compounds====
+{{zh-der|嘻嘻嗄嗄}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=xià
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in compounds.}}
+
+====Compounds====
+{{zh-der|嗄飯|嗄程}}
+
+===Pronunciation 4===
+{{zh-pron
+|md=hák
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{lb|zh|Min Dong}} [[hoarse]]
 
 ====Compounds====
-{{zh-der|嗄飯|嗄程|嘻嘻嗄嗄|嗄嗄聲}}
+{{zh-der|嗄嗄聲}}
 
 ===References===
 * {{R:yue:mfccd}}
