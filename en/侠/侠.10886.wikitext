@@ -5,7 +5,7 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=06|sn=8|four=|canj=OKT|ids=⿰亻夹}}
 
-# [[chivalrous]] person
+# [[chivalrous]] [[person]]
 # [[knight-errant]]
 
 ====References====
@@ -23,16 +23,83 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=人06|kyu=俠}}
 
+# [[tomboy]]
+# [[chivalry]]
+
 ====Readings====
 {{ja-readings
-|on=きょう
-|kun=おとこだて-, きゃん-
+|goon=ぎょう<げふ
+|kanon=きょう<けふ
+|toon=きゃん<きやん
+|kun=おとこだて-
 }}
 
-===Noun===
-{{ja-noun|きゃん|kyu=俠}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|侠客|きょうかく}}
+* {{ja-r|侠気|きょうき}}
+* {{ja-r|侠骨|きょうこつ}}
+* {{ja-r|侠者|きょうしゃ}}
+* {{ja-r|義侠|ぎきょう}}
+* {{ja-r|豪侠|ごうきょう}}
+* {{ja-r|任侠|じんきょう|rom=-}}, {{ja-r|仁侠|じんきょう}}, {{ja-r|任侠|にんきょう|rom=-}}, {{ja-r|仁侠|にんきょう}}
+* {{ja-r|勇侠|ゆうきょう}}
+* {{ja-r|游侠|ゆうきょう|rom=-}}, {{ja-r|遊侠|ゆうきょう}}
+* {{ja-r|侠%気|おとこ%ぎ}}
+{{der-bottom}}
 
-# [[tomboy]], a young woman who is indiscreet
+===Etymology 1===
+{{ja-kanjitab|きょう|yomi=o}}
+{{IPAchar|/kepu/}} → {{IPAchar|/kefu/}} → *{{IPAchar|/kewu/}} → {{IPAchar|/keu/}} → {{IPAchar|/kjoː/}}
 
-====Synonyms====
-* {{ja-r|お侠|お-きゃん}}
+From {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}.
+
+====Pronunciation====
+{{ja-pron|y=ko|きょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=俠|きょう|hhira=けふ}}
+
+# [[chivalrous]] [[spirit]] {{rfv-sense|ja}}
+#: {{synonyms|ja|男気|tr=otokogi|俠気|tr2=kyōki}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|侠血|きょうけつ}}
+* {{ja-r|侠心|きょうしん}}
+* {{ja-r|侠盗|きょうとう}}
+* {{ja-r|侠婦|きょうふ}}
+* {{ja-r|武侠|ぶきょう}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|きゃん|yomi=o}}
+
+From a later borrowing of {{bor|ja|ltc|sort=きやん|-}} {{ltc-l|俠}}. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=to|きゃん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=俠|きゃん}}
+
+# a [[chivalrous]] [[person]]
+#: {{synonyms|ja|侠客|tr=kyōkaku}}
+# a [[tomboy]]
+#: {{synonyms|ja|御侠|tr=o-kyan|転婆|tr2=tenba}}
+
+=====Derived terms=====
+* {{ja-r|御%侠|お%-きゃん}}
+
+====Adjective====
+{{ja-adj|kyu=俠|infl=na|きゃん}}
+
+# [[chivalrous]]
+# [[tomboyish]]
+#: {{synonyms|ja|御侠|tr=o-kyan|転婆|tr2=tenba}}
+
+=====Inflection=====
+{{ja-na|きゃん}}
+
+===References===
+<references/>
