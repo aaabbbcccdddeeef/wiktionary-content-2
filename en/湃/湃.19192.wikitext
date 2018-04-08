@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=09|sn=12|four=31150|canj=EHQJ|ids=⿰氵拜}}
 
-# [[sound]] of [[wave]]s
-# [[turbulent]]
-
 ====References====
 * {{Han ref|kx=0636.080|dkj=17808|dj=1043.130|hdz=31679.020|uh=6E43|ud=28227|bh=B4FB|bd=46331}}
 
@@ -18,23 +15,33 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=pài
 |c=paai3,baai3
 |mn=ml:phài/tw:pài
 |mc=y
 |oc=y
-|cat=n,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{n-g|Used in {{l|zh|澎湃}} and {{l|zh|湃湃}}, etc.}}
 
 ====Compounds====
 {{zh-der|奔騰澎湃|彭湃|心潮澎湃|澎湃|浪濤澎湃|滂湃|洶涌澎湃|湃湃|洶湧澎湃|泙湃}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=bá
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ===References===
 * {{R:yue:mfccd}}
