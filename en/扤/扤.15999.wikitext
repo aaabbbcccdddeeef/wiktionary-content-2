@@ -12,12 +12,52 @@
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[at1]], [[ngaat6]], [[ngat1]]|y=at1, ngaat6, ngat1}}
+===Glyph origin===
+{{Han etym}}
 
-# {{defn|lang=yue|sort=手03}}
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=wù
+|c=ngaat6
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|揺扤}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=ngat1
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{su#bst:zh-der/new}}
+
+===References===
+* {{R:yue:mfccd}}
 
 ----
 
@@ -30,12 +70,3 @@
 
 ====Readings====
 * {{ja-readings|on=[[ごつ]] (gotsu), [[ごち]] (gochi), [[げつ]] (getsu), [[がち]] (gachi)|kun=[[うごく]] (ugoku)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[wù]] ([[wu4]])|wg=wu<sup>4</sup>}}
-
-# {{defn|lang=cmn|sort=手03}}
