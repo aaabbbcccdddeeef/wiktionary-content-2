@@ -1,13 +1,24 @@
 {{also|杀}}
 {{character info/new}}
 {{character info/new|0xf970}}
+{{character info/new|0xfa96}}
+{{character info/new|0x2f8f5}}
 ==Translingual==
+{{CJKV-forms|殺|杀|殺|殺}}
+
+===Alternative forms===
+* In {{w|traditional Chinese}}, the bottom left component is {{l|mul|朮}} in Taiwan/Hong Kong and {{l|mul|朩}} in the {{w|GB 18030|encoding standard}} of mainland China.
+* In Japanese {{w|Kanji}}, the bottom left component is {{l|mul|木}} while in Korean {{w|Hanja}}, the component is {{l|mul|术}}, which is also the historical form found in the {{w|Kangxi dictionary}}.
+* Three unicode {{w|z-variant}}s exist for this character. U+F970 corresponds to the historical Kangxi form while U+FA96 corresponds to the Japanese form. U+2F8F5 is similar to the traditional form in Taiwan but has {{l|mul|𣎳}} instead of {{l|mul|朮}} as its bottom left component.
 
 ===Han character===
-{{Han char|rn=79|rad=殳|as=07|sn=11|four=47947|canj=KCHNE,KDHNE|ids=⿰杀殳}}
+{{Han char|rn=79|rad=殳|as=07|asj=06|sn=11|snj=10|four=47947|canj=KCHNE,KDHNE|ids=⿰杀殳(G,U+2F8F5),⿰⿱㐅朮殳(HT),⿰⿱㐅木殳(JV,U+FA96),⿰𣏂殳(K,U+F970)}}
 
 ====References====
 * {{Han ref|kx=0585.110|dkj=16638|dj=0978.050|hdz=32157.010|uh=6BBA|ud=27578|bh=B1FE|bd=45566}}
+* {{Han ref|uh=F970}}
+* {{Han ref|uh=FA96}}
+* {{Han ref|uh=2F8F5}}
 
 ----
 
