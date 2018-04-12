@@ -52,13 +52,37 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手08}}
 
-# {{defn|lang=ja|sort=手08}}
+# [[press]]
+# [[print]]
+# [[affix]] a [[stamp]]
+# [[seal]]
 
 ====Readings====
 {{ja-readings
-|on=なつ, だつ
-|kun=お-す
+|goon=なち, なつ
+|kanon=だつ
+|kun=お-す, さ-す, つ-く
+|nanori=な
 }}
+
+====Compounds====
+{{der-top}}
+* {{ja-r|捺印|なついん}}
+* {{ja-r|捺染|なっせん}}
+* {{ja-r|捺%落|な%らく}}
+* {{ja-r|捺筆|だっぴつ}}
+* {{ja-r|押捺|おうなつ}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|なつ|yomi=o}}
+
+From {{der|ja|ltc|sort=なつ|-}} {{ltc-l|捺}}.
+
+===Proper noun===
+{{ja-pos|proper|なつ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=なつ}}
 
 ----
 
