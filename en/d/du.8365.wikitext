@@ -470,7 +470,19 @@ From {{inh|nrf|la|dux|dux, ducem}}.
 ===Etymology===
 From {{inh|frr|gem-pro|*dōną}}. Cognates include Mooring {{cog|frr|düünj}} and {{cog|fy|dwaan}}.
 
+===Verb===
+{{head|frr|verb}}
 
+# {{lb|frr|Föhr-Amrum}} to {{l|en|do}}
+# {{lb|frr|Föhr-Amrum}} to {{l|en|give}}
+
+====Conjugation====
+{{frr-FoehrAmrum-conj-table
+|infinitive I=du
+|infinitive II=tu duen
+|past_participle=den
+|imperative_sg=du
+|imperative_pl=du'em
 |pres_ind_1sg=du
 |pres_ind_2sg=deest
 |pres_ind_3sg=dee
