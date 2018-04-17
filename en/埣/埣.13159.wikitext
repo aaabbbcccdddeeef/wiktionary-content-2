@@ -12,7 +12,7 @@
 ==Cantonese==
 
 ===Hanzi===
-{{yue-hanzi|jyut=[[seoi3]]|y=seui3}}
+{{yue-hanzi|jyut=seoi3|y=seui3}}
 
 # {{defn|lang=yue|sort=土08}}
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=土08}}
 
 ====Readings====
-* {{ja-readings|on=[[さい]] (sai), [[そつ]] (sotsu)|kun=[[かれつち]] (karetsuchi)}}
+* {{ja-readings
+|goon=すい, そち
+|kanon=さい, そつ
+|kun=[[かれつち]] (karetsuchi)}}
 
 ----
 
@@ -45,6 +48,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[giót]]|rs=土08}}
+{{vi-hantu|giót|rs=土08}}
 
 # {{defn|lang=vi|sort=土08}}
