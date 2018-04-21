@@ -30,23 +30,87 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=厶06|kyu=參}}
 
+# [[nonplus]]sed
+# [[three]] (in documents)
+# [[go]]ing, [[come|coming]]
+# [[visiting]], [[visit]]
+# be [[defeat]]ed
+# [[die]]
+# be [[mad]]ly in [[love]]
+# [[participate]], [[take part]] in
+
 ====Readings====
-{{ja-kanjitab|さん|yomi=o}}
 {{ja-readings
-|goon=さん<さむ, そん<そむ, しん<しむ
-|kanon=さん<さむ, しん<しむ
-|kun=まい-る, まじ-わる, み-つ
+|goon=しん<しん<しむ, そん<そん<そむ
+|kanon=さん<さん<さむ, しん<しん<しむ
+|kun=まい-る<まゐ-る, まじ-わる<まじ-はる
 }}
 
-===Noun===
-{{ja-noun|さん|kyu=參}}
+As variant kanji for {{ja-l|三}}:
+{{ja-readings
+|goon=さん<さん<さむ
+|kanon=さん<さん<さむ
+|kun=み-つ
+}}
 
-# {{lb|ja|legal|sort=さん}} [[3]], [[three]]
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|参篭|さんろう}}
+* {{ja-r|人参|にんじん}}
+{{der-bottom}}
 
-{{ja-noun|しん|kyu=參}}
-# {{lb|ja|astronomy|sort=しん}} Chinese [[w:Three Stars (Chinese constellation)|Three Stars]] constellation
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja|参宿}}
+{{wp|Three Stars (Chinese constellation}}
+</div>
+{{ja-kanjitab|しん|yomi=o}}
 
-====Usage notes====
+From {{bor|ja|ltc|sort=しん|{{ltc-l|參|id=1}}}}.
+
+====Pronunciation====
+{{ja-pron|y=o|しん|acc=1|acc_ref=DJR}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=參|しん}}
+
+# {{lb|ja|astronomy|sort=しん}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
+#: {{synonyms|ja|參宿|tr=Shin-shuku|唐鋤星|tr2=Karasuki-boshi}}
+
+===Etymology 2===
+{{ja-kanjitab|さん|yomi=o}}
+
+From {{bor|ja|ltc|sort=しん|{{ltc-l|參|id=3}}}}.
+
+====Pronunciation====
+{{ja-pron|y=ko|さん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-pos|proper|kyu=參|さん}}
+
+# {{lb|ja|Zen|_|Buddhism|sort=さん}} a [[gathering]] of [[Zen]] members in [[meditation]], [[preach]]ing, and [[invocation]] 
+
+====Proper noun====
+{{ja-pos|proper|kyu=參|さん}}
+
+# {{lb|ja|astronomy}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
+#: {{synonyms|ja|參宿|tr=San-shuku|唐鋤星|tr2=Karasuki-boshi}}
+
+===Etymology 3===
+{{ja-kanjitab|さん|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|y=o|さん|acc=0|acc_ref=DJR}}
+
+====Numeral====
+{{ja-pos|numeral|さん|kyu=參}}
+
+# {{lb|ja|legal|sort=さん}} ''Financial form of'' {{m|ja|三|tr=san}}: [[three]], [[3]]
+
+=====Usage notes=====
 This form of [[3]] is only used in legal documents.
+
+===References===
+<references/>
 
 [[Category:Japanese numeral symbols|さん]]
