@@ -3,20 +3,17 @@
 ==Translingual==
 {{Han simplified forms|殘|残|残}}
 
-===Alternative forms===
-Due to [[wikipedia:Han unification|Han unification]], both [[wikipedia:Simplified Chinese|simplified Chinese]] and Japanese [[wikipedia:Shinjitai|shinjitai]] forms are encoded under the same [[code point]].
-
 ===Glyph origin===
-{{Han simp|殘|f=戔|t=戋}}. Note that Japanese shinjitai uses different form of simplified phonetic: [[㦮]] (extra stroke above [[戋]]).
+{{Han simp|殘|f=戔|t=㦮}} for Japanese shinjitai and {{Han simp|殘|f=戔|t=戋|nocap=y}} for simplified Chinese.
+
+===Alternative forms===
+Note that Japanese shinjitai uses {{l|mul|㦮}} (extra line above {{l|mul|戋}}) while simplified Chinese uses {{l|mul|戋}}. Due to {{w|Han unification}}, both {{w|simplified Chinese}} and Japanese {{w|shinjitai}} forms are encoded under the same [[code point]]. Different forms can be observed when using the appropriate font.
 
 ===Han character===
-{{Han char|rn=78|rad=歹|as=05|asj=06|sn=9|snj=10|four=13250|canj=MNIJ|ids=⿰歹戋(G),⿰歹㦮(J)}}
+{{Han char|rn=78|rad=歹|as=05|asj=06|sn=9|snj=10|four=13250|canj=MNIJ|ids=⿰歹戋(G),⿰歹㦮(TJK)}}
 
-# to [[damage]], to [[injure]]
-# to [[kill]]
-# to be [[left]], to [[remain]]
-# [[severe]], [[cruel]]
-# [[damaged]], [[defective]]
+====Derived characters====
+* {{l|mul|[[𣸶]]}} ''(Based on China glyph form containing {{l|mul|戋}})'' <!-- The official Unicode chart contains 戋 for this derived character -->
 
 ====References====
 {{Han ref|kx=0580.291|dkj=16459|hdz=21383.080|uh=6B8B}}
