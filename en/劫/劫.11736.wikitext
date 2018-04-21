@@ -48,19 +48,120 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=力05}}
 
+# [[intimidate]]
+# [[aeon]], [[eon]]
+
 ====Readings====
-{{ja-kanjitab|こう|yomi=o}}
 {{ja-readings
 |goon=こう<こふ
-|kanon=きょう
+|kanon=きょう<けふ
 |kanyoon=ごう<ごふ
 |kun=おびや-かす
 }}
 
-===Noun===
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|劫火|こうか}}
+* {{ja-r|曠劫|こうごう}}
+* {{ja-r|劫濁|こうじょく}}
+* {{ja-r|劫奪|こうだつ}}
+* {{ja-r|劫初|ごうしょ}}
+* {{ja-r|劫盗|ごうとう}}
+* {{ja-r|劫末|ごうまつ}}
+* {{ja-r|劫掠|ごうりゃく|rom=-}}, {{ja-r|劫略|ごうりゃく}}
+* {{ja-r|永劫|えいごう}}
+* {{ja-r|壊劫|えこう}}
+* {{ja-r|億劫|おっこう}}, {{ja-r|億劫|おっくう}}
+* {{ja-r|空劫|くうこう}}
+* {{ja-r|久遠%劫|くおん%ごう}}
+* {{ja-r|倶胝%劫|くてい%こう}}
+* {{ja-r|減劫|げんこう}}
+* {{ja-r|賢劫|けんごう}}, {{ja-r|賢劫|げんごう}}
+* {{ja-r|五劫 思惟|ごこう しゆい}}
+* {{ja-r|三 阿 僧祇 劫|さん あ そうぎ こう}}
+* {{ja-r|四劫|しこう}}
+* {{ja-r|住劫|じゅうこう}}
+* {{ja-r|小劫|しょうこう}}
+* {{ja-r|成劫|じょうこう}}, {{ja-r|成劫|じょうごう}}
+* {{ja-r|塵劫|じんこう}}, {{ja-r|塵劫|じんごう}}, {{ja-r|塵点%劫|じんでん%ごう}}
+* {{ja-r|増劫|ぞうこう}}
+* {{ja-r|多生%劫|たしょう%ごう}}
+* {{ja-r|万劫|まんごう}}, {{ja-r|万劫|ばんごう}}
+* {{ja-r|無量%劫|むりょう%ごう}}
+* {{ja-r|歴劫|りゃっこう}}
+{{der-bottom}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Kalpa (aeon)}}
+</div>
+{{ja-kanjitab|こう|yomi=o}}
+{{IPAchar|/kopu/}} → {{IPAchar|/kofu/}} → *{{IPAchar|/kowu/}} → {{IPAchar|/koː/}}
+
+From {{bor|ja|ltc|sort=こう|-}} {{ltc-l|劫}}, short form of {{ltc-l|劫波}}, itself a [[transliteration]] of {{bor|ja|sa|sort=こう|कल्प||[[aeon]]}}.
+
+====Pronunciation 1====
+{{ja-pron|y=go|こう|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|こう|hhira=こふ}}
 
-# {{lb|ja|Buddhism|sort=こう}} [[kalpa]]
+# {{lb|ja|Buddhism|sort=こう}} ''[[kalpa]]'': a unit of time in [[Buddhist]] [[cosmology]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|劫を経る|こう を へる}}
+* {{ja-r|劫﨟|こうろう|rom=-}}, {{ja-r|劫臘|こうろう}}
+* {{ja-r|億万%劫|おくまん%ごう}}
+* {{ja-r|時劫|じこう}}
+{{der-bottom}}
+
+=====Proverbs=====
+* {{ja-r|烏賊の甲より年の劫|いか の こう より とし の こう}}
+* {{ja-r|亀の甲より年の劫|かめ の こう より とし の こう}}
+
+====Pronunciation 2====
+{{ja-pron|y=go|こう|acc=0|acc2=1|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|こう|hhira=こふ}}
+
+# {{lb|ja|Go|sort=こう}} a position in which two [[alternating]] [[stone]]s can be [[capture]]d and [[recapture]]d [[indefinitely]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|劫材|こうざい}}
+* {{ja-r|劫%立て|こう%だて}}
+* {{ja-r|劫種|こうだね}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|ごう|yomi=o}}
+
+{{IPAchar|/ɡopu/}} → {{IPAchar|/ɡofu/}} → *{{IPAchar|/ɡowu/}} → {{IPAchar|/ɡoː/}}
+
+Possibly a shift from ''kō'' above. {{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|y=kanyo|ごう|acc=1}}
+
+====Noun====
+{{ja-noun|ごう|hhira=ごふ}}
+
+# {{lb|ja|Buddhism}} ''[[kalpa]]'': a unit of time in [[Buddhist]] [[cosmology]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|劫罰|ごうばつ}}
+* {{ja-r|時劫|じごう}}
+* {{ja-r|多劫|たごう}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+{{top|ja|Go|sort=こう}}
 
 ----
 
