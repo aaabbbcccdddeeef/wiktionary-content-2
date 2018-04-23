@@ -106,7 +106,7 @@ Image:Fraktur letter C.png|Uppercase and lowercase '''C''' in [[Fraktur]]
 * {{sense|letter name}} {{IPA|/siː/|lang=en}} (usually spelled {{m|en|cee}})
 :: {{audio|en-uk-c.ogg|Audio (UK)|lang=en}}
 :: {{audio|en-us-c.ogg|Audio (US)|lang=en}}
-* {{sense|phoneme}} {{IPA|/k/|lang=en}}, {{IPAchar|/s/}}, {{IPAchar|/tʃ/}}, ...
+* {{sense|phoneme}} {{IPA|/k/|/s/|/tʃ/|lang=en}}, ...
 * Usage notes: In English, c is usually pronounced as /k/ ("crack", "climb", "clone"), sometimes pronounced as /s/ ("cereal", "celebrity", "[[citron]]"), and rarely pronounced as /tʃ/ ("[[ciao]]", "[[cello]]", "[[vermicelli]]"). Sometimes c is pronounced as /tʃ/ due to [https://en.wikipedia.org/wiki/List_of_English_words_of_Italian_origin English words that came from Italian]. (Italian has a rule that states that [[c#Italian|c before i or e is pronounced as /tʃ/]].[http://www.italymagazine.com/featured-story/how-pronounce-c-italian])
 
 ====Letter====
@@ -183,7 +183,7 @@ Various abbreviations
 
 ===Pronunciation===
 * {{sense|letter name}} {{IPA|lang=ca|/se/}}
-* {{sense|phoneme}} {{IPA|/k/|lang=ca}}, {{IPAchar|/s/}}
+* {{sense|phoneme}} {{IPA|/k/|/s/|lang=ca}}
 
 ===Letter===
 {{ca-letter|upper=C|lower=c}}
@@ -201,7 +201,7 @@ Various abbreviations
 * {{audio|Nl-c.ogg|Audio|lang=nl}}
 * {{rhymes|eː|lang=nl}}
 * {{sense|letter name}} {{IPA|/seː/|lang=nl}}
-* {{sense|phoneme}} {{IPA|/s/|lang=nl}}, {{IPAchar|/k/}}, {{IPAchar|/tʃ/}}
+* {{sense|phoneme}} {{IPA|/s/|/k/|/tʃ/|lang=nl}}
 
 ===Letter===
 {{nl-letter|lower=c|upper=C}}
@@ -249,7 +249,7 @@ Various abbreviations
 
 ===Pronunciation===
 * {{q|letter name}} {{fr-IPA|cé}}
-* {{q|phoneme}} {{IPA|/k/|lang=fr}}, {{IPAchar|/s/}}
+* {{q|phoneme}} {{IPA|/k/|/s/|lang=fr}}
 
 ===Letter===
 {{fr-letter|upper=C|lower=c}}
@@ -404,7 +404,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Etymology 1===
 
 ====Pronunciation====
-* {{q|phoneme}} {{IPA|/k/|lang=pt}}, {{IPAchar|/s/}}
+* {{q|phoneme}} {{IPA|/k/|/s/|lang=pt}}
 
 ====Letter====
 {{pt-letter|upper=C|lower=c}}
@@ -438,7 +438,7 @@ From {{m|pt|cê}}, short form of {{m|pt|você||you}}.
 
 ===Pronunciation===
 * {{sense|letter name}} {{IPA|/tʃe/|lang=ro}}
-* {{sense|phoneme}} {{IPA|lang=ro|/k/}} and {{IPAchar|/tʃ/}}
+* {{sense|phoneme}} {{IPA|lang=ro|/k/|/tʃ/}}
 
 ===Letter===
 {{ro-letter|lower=c|upper=C}}
@@ -471,6 +471,9 @@ See [[C]] for pronunciation notes.
 ----
 
 ==Skolt Sami==
+
+===Pronunciation===
+* {{q|phoneme}} {{IPA|/t͡s/|lang=sms}}
 
 ===Letter===
 {{head|sms|letter|upper case|C}}
