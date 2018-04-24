@@ -88,6 +88,9 @@ From {{inh|it|la|latīnus}}.
 ===Etymology===
 Borrowed from {{bor|es|la|latīnus}}. Compare {{doublet|ladino|lang=es|notext=1}}.
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj|f=latina}}
 
@@ -100,9 +103,11 @@ Borrowed from {{bor|es|la|latīnus}}. Compare {{doublet|ladino|lang=es|notext=1}
 * {{l|es|latinoamericano}}
 
 ====Related terms====
-* {{l|es|ladino}}
-* {{l|es|latín}}
-* [[latinx]]
+{{rel3
+|ladino
+|latín
+|latinx
+|lang=es}}
 
 ====Descendants====
 * {{desc|en|Latino|bor=1}}
