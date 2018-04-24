@@ -15,7 +15,7 @@
 ==Cantonese==
 
 ===Hanzi===
-{{yue-hanzi|jyut=[[heoi2]]|y=heui2}}
+{{yue-hanzi|jyut=heoi2|y=heui2}}
 
 # {{defn|lang=yue|sort=木06}}
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=木06}}
 
 ====Readings====
-* {{ja-readings|on=[[く]] (ku), [[う]] (u)|kun=[[くぬぎ]] (kunugi)}}
+{{ja-readings
+|goon=く
+|kanon=く
+|kun=くぬぎ-}}
 
 ----
 
@@ -45,7 +48,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木06|hanviet=hủ}}
+{{vi-hantu|rs=木06|hủ}}
 
 # {{defn|lang=vi|sort=木06}}
 
