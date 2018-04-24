@@ -18,7 +18,18 @@
 ===Pronunciation===
 {{zh-pron
 |m=jué
+|m-s=
 |c=gok3
+|c-t=
+|g=
+|h=pfs=
+|j=
+|mb=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
 |mc=y
 |oc=y
 |ma=
@@ -31,6 +42,9 @@
 # [[rafter]]
 # Toringo [[crabapple]] ({{taxlink|Malus toringo|species|noshow=1}})
 
+====Compounds====
+{{zh-der|椽桷}}
+
 ----
 
 ==Japanese==
@@ -41,7 +55,10 @@
 # {{defn|lang=ja|sort=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku)|kun=[[たるき]] (taruki)}}
+{{ja-readings
+|goon=かく
+|kanon=かく
+|kun=たるき}}
 
 ----
 
@@ -57,6 +74,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=dác}}
+{{vi-hantu|rs=木07|dác}}
 
 # {{defn|lang=vi|sort=木07}}
