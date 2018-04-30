@@ -3,22 +3,28 @@
 {{character info/new|0x2f901}}
 ==Translingual==
 {{ja-forms|海|海|海}}
+{{stroke order|strokes=10}}
 
 ===Alternative forms===
-Appears with [[母]] (2 dots) in Chinese, yielding {{lang|und|sc=Hani|海}}, but with simplified form [[毋]] (1 cross stroke) in Japanese shinjitai, yielding {{lang|ja|海}} = 氵 + [[毎]]. These are however encoded under the same Unicode codepoint – see {{w|Han unification}}.
-
-[[File:海-bw.png|thumb|Stroke order|400px]]
+In Chinese, the bottom right component is {{l|mul|母}} with 2 dots, yielding <font lang="zh" size="4.5">海</font>. In Japanese {{w|shinjitai}}, this component is simplified to {{l|ja|毋}} (1 cross stroke), yielding <font lang="ja" size="4.5">海</font> ({{l|mul|[[氵]]+[[毎]]}}). Both forms are encoded under the same Unicode codepoint – see {{w|Han unification}}.
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=07|asj=06|sn=10|snj=9|four=38157|canj=EOWY|ids=⿰氵每(GHTKV),⿰氵毎(J)}}
+{{Han char|rn=85|rad=水|as=07|asj=06|sn=10|snj=9|four=38157|canj=EOWY|ids=⿰氵每(GHTKV,U+FA45),⿰氵毎(J,U+2F901)}}
+
+====Derived characters====
+* {{l|mul|[[嗨]], [[𢲨]], [[𤍃]], [[𫗀]], [[𥉪]], [[𤀇]], [[𦷫]], [[𬕧]], [[𩘫]], [[塰]]}}
 
 ====References====
-* {{Han ref|kx=0625.140|dkj=17450|dj=1023.110|hdz=31627.010|uh=6D77|ud=28023|bh=AEFC|bd=44796}}
+{{Han ref|kx=0625.140|dkj=17450|dj=1023.110|hdz=31627.010|uh=6D77}}
+{{Han ref|uh=FA45}}
+{{Han ref|uh=2F901}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:海|en:Sea}}
+{{zh-wp|zh:海姓|en:Hai (surname)}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -70,10 +76,11 @@ Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms|k=y}} <!-- Note: Kyūjitai form of 海 is U+FA45 (CJK compatibility ideograph) -->
+{{wp|lang=ja}}
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=水06}} <!-- Note: Kyūjitai form 海 (U+FA45) (CJK compatibility ideograph) -->
+{{ja-kanji|grade=2|rs=水06}}
 
 # [[sea]]
 # [[ocean]]
