@@ -67,53 +67,157 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=口07}}
 
+# [[Tang dynasty]]
+# [[China]], [[Chinese]], [[Sino-]]
+# [[foreign]]
+# [[baseless]], [[bogus]]
+# [[abrupt]], [[sudden]]
+
 ====Readings====
+{{rfv-pronunciation|ja}}
 {{ja-readings
 |goon=どう<だう
 |kanon=とう<たう
+|toon=たん
+|soon=たん
 |kun=から-, もろこし-
-|nanori=かろ, たん
+|nanori=かろ
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|唐揚げ|からあげ}}: [[deep-fried]] [[chicken]] [[nugget]]s
-* {{ja-r|唐木|からき}}: exotic wood
-* {{ja-r|唐獅子|からじし}}, {{ja-r|唐獅子|からしし}}: an [[artistic]] [[portrayal]] of a [[lion]]
-* {{ja-r|唐手|からて}}: [[karate]]
-* {{ja-r|唐様|からよう}}:: Chinese style design
-* {{ja-r|毛唐|けとう}}: foreigner, Westerner
-* {{ja-r|毛唐人|けとうじん}}: foreigner, Westerner
-* {{ja-r|唐音|とうおん}}: Tang reading of a kanji character
-* {{ja-r|唐辛子|とうがらし}}: red pepper
-* {{ja-r|唐詩|とうし}}: Tang poetry
-* {{ja-r|唐人|とうじん}}: a Chinese person; a foreigner from China
-* {{ja-r|唐朝|とうちょう}}: the [[Tang Dynasty]]
-* {{ja-r|唐縮緬|とうちりめん}}: [[muslin]]
-* {{ja-r|入唐|にっとう}}: a [[visit]] to [[Tang Dynasty]] [[China]]
+* {{ja-r|唐朝|^とうちょう|the [[Tang Dynasty]]}}
+* {{ja-r|唐突|とうとつ}}
+* {{ja-r|荒唐|こうとう}}
+* {{ja-r|唐棣花|ハネズ}}
+* {{ja-r|唐土|^もろこし}}
+* {{ja-r|唐黍|モロコシ}}
 {{der-bottom}}
 
 ===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Tang dynasty}}
+</div>
 {{ja-kanjitab|とう|yomi=o}}
+{{IPAchar|/tau/}} → {{IPAchar|/tɔː/}} → {{IPAchar|/toː/}}
+
+From {{bor|ja|ltc|sort=とう|-}} {{ltc-l|唐}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|とう|acc=1|acc_ref=NHK}}
+{{ja-pron|y=ko|とう|acc=1|acc_ref=NHK}}
 
 ====Noun====
 {{ja-noun|とう|hhira=たう}}
 
-# the {{w|Tang Dynasty}}, which ruled [[China]] from 618 to 907
+# [[foreign]] [[land]]s in general
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|唐%辛%子|トウ%-ガラ%シ|[[red pepper]]}}
+* {{ja-r|唐人|とうじん|[[Chinese]] [[person]]; [[foreigner]]; [[barbarian]]}}
+* {{ja-r|唐%縮緬|とう%-ちりめん|[[muslin]]}}
+* {{ja-r|唐紅|とうべに|[[fuchsine]]}}
+* {{ja-r|玉蜀黍|トウモロコシ|[[corn]], [[maize]]}}
+* {{ja-r|毛%唐|け%とう|[[foreigner]], [[Westerner]]}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|唐へ投げ銀|とう へ なげ-がね}}
+
+====Proper noun====
+{{ja-pos|proper|とう|hhira=たう}}
+
+# {{lb|ja|historical|sort=とう}} name of various [[Chinese]] [[dynasty|dynasties]]:
+## the [[Tang dynasty]] (618-907 {{CE}})
+## the {{m|ja|後唐|tr=Kōtō||{{w|Later Tang}}}} (923-937 {{CE}})
+## the {{m|ja|後唐|tr=Nantō||{{w|Southern Tang}}}} (937–976 {{CE}})
+# {{lb|ja|dated||sort=とう}} [[China]] in general
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|唐%音|^とう%-おん|[[Tang]] reading of a ''kanji'' character}}
+* {{ja-r|唐%詩|^とう%-し|Tang [[poetry]]}}
+* {{ja-r|唐%人|^とう%-じん|a [[Chinese]] [[person]]; a [[foreigner]] from [[China]]}}
+* {{ja-r|入唐|にっとう|[[visit]] to [[Tang Dynasty]] China}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|から|yomi=k}}
+From {{inh|ja|ojp|sort=から|-}}.
+
+Shift from {{m|ja|漢|tr=Kara}}, the name of [[China]] during the {{w|Han dynasty}} (202 {{BCE}}-220 {{CE}}), the use of this kanji signifies the transition to the [[Tang dynasty]].
+
+Originally meant "China" during the Tang dynasty and "elements imported from China", then later expanded to mean "[[foreign]] [[land]]s in general" and "elements imported from foreign lands".
 
 ====Pronunciation====
 {{ja-pron|yomi=k|から|acc=1|acc_ref=DJR}}
 
+====Prefix====
+{{ja-pos|prefix|から}}
+
+# {{n-g|element in compounds, referring to things [[import]]ed from [[China]] or from other [[foreign]] [[land]]s}}
+#: {{ja-usex|[[漢詩]]、[[唐歌|'''唐'''歌]]、[[唐揚げ|'''唐'''揚げ]]、[[漢音]]|からうた、'''から'''うた、'''から'''あげ、からごえ|Chinese-style poetry (as opposed to formal {{l|en|waka}} Japanese-style poetry), '''Chinese-style''' poetry, deep-fried chicken or fish (a style introduced by '''Europeans''' in the 1600s), "Chinese voice" → the {{ll|ja|漢音|kan'on}} or Chinese-derived reading for a character}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|唐%揚げ|から%あげ|[[deep-fried]] [[chicken]] [[nugget]]s}}
+* {{ja-r|唐歌|からうた}}
+* {{ja-r|唐%木|から%き|[[exotic]] [[wood]]}}
+* {{ja-r|唐%紅|から%-くれない|[[Chinese]] [[red]]}}
+* {{ja-r|唐%獅子|から%-じし|rom=-}}, {{ja-r|唐%獅子|から%-じし}}: an [[artistic]] [[portrayal]] of a [[lion]]
+* {{ja-r|唐%手|から%て|[[karate]]}}
+* {{ja-r|唐梨|カラナシ}}
+* {{ja-r|唐様|からよう|[[Chinese]]-[[style]] [[design]]}}
+{{der-bottom}}
+
 ====Noun====
 {{ja-noun|から}}
 
-# {{lb|sort=から|ja|formal|dated}} [[China]]; [[Cathay]]
+# [[foreign]] [[land]]s in general
+# {{short for|lang=ja|唐織り|tr=karaori|nodot=1|sort=から}}: [[silk]] [[fabric]]s [[import]]ed from [[China]]; an [[exquisite]]ly-[[embroider]]ed [[woman]]'s [[kimono]]; a [[costume]] made in the ''karaori'' style used in [[Noh]] [[theater]]
+
+====Proper noun====
+{{ja-pos|proper|から}}
+
+# {{lb|ja|formal|dated|sort=から}} the name of [[China]] during the {{w|Tang dynasty}} (618-907 {{CE}}}
+
+=====Derived terms=====
+* {{ja-r|唐 人|^から ひと}}, {{ja-r|唐%人|^から%-びと|a [[Chinese]] or [[Korean]] [[person]]; a [[foreigner]] from [[China]] or [[Korea]]}}
+
+=====See also=====
+* {{ja-r|漢|^から|pos=usually "[[China]] in the {{w|Han dynasty}}"}}
+* {{ja-r|韓|^から|pos=usually "[[Korea]]"}}
+* {{ja-r|加羅|^から|rom=-}}, {{ja-r|伽羅|^から|rom=-}}, {{ja-r|迦羅|^から|the {{w|Gaya confederacy}}|pos=original derivation}}
+* {{ja-r|呉|^くれ|[[China]] during the {{w|Wu dynasty}}}}
+
+===Etymology 3===
+{{ja-kanjitab|もろこし|yomi=k}}
+{{IPAfont|⟨mo<sub>2</sub>ro<sub>2</sub> ko<sub>1</sub>si⟩}} → {{IPAfont|⟨moro<sub>2</sub>ko<sub>1</sub>si⟩}} → *{{IPAchar|/morəkosi/}} → {{IPAchar|/morokoɕi/}}
+
+From {{inh|ja|ojp|sort=もろこし|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 753 {{CE}}).
+
+Originally a compound of {{m|ja|諸|tr=moro-|pos=prefix meaning "[[many]]"}} + {{m|ja|越|tr=koshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|越す|tr=kosu||to [[cross]] ([[over]])}},<ref name="DJR"/> by reinterpretation of {{ll|ja|訓読み|''kun''-reading}} {{m|ja||越|tr=koshi}} from {{ll|ja|音読み|''on''-reading}} of {{m|ja|越|tr=Etsu||{{w|Yue (state)|(state of) Yue}}}}.<ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+* {{ja-pron|y=k|もろこし|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|唐土}}
+
+====Noun====
+{{ja-noun|もろこし}}
+
+# {{lb|ja|archaic|sort=もろこし}} any [[object]]s [[import]]ed from [[China]]
+
+=====Derived terms=====
+* {{ja-r|唐 黍|もろこし きび}}, {{ja-r|唐黍|モロコシ}}
+
+====Proper noun====
+{{ja-pos|proper|もろこし}}
+
+# {{lb|ja|archaic|sort=もろこし}} the name of [[China]] by the ancient Japanese people
+#: {{synonyms|ja|唐土|tr=Tōdo}}
 
 ===References===
 <references/>
