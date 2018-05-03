@@ -72,30 +72,118 @@ The character present in the {{w|Kangxi dictionary}} is [[淸]] (U+6DF8), which 
 ----
 
 ==Japanese==
-{{wp|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=水08}}
 
-# {{defn|lang=ja|sort=水08}}
+# [[clear]]
+# [[refreshing]]
+# [[clean]], [[pure]]
+# [[Qing dynasty]]
 
 ====Readings====
+{{rfv-pronunciation|ja}}
 {{ja-readings
 |goon=しょう
 |kanon=せい
 |toon=しん
-|kun=きよ-い, きよ-める, きよ-まる
-|nanori=あき, さや, し, すが, すみ, せ, ちん
+|soon=ちん
+|kun=きよ-い, きよ-める, きよ-まる, さや-か
+|nanori=あき, いさみ, きよ, きよし, さや, し, すが, すがし, すず, すみ, せ
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|清浄|しょうじょう}}
+* {{ja-r|清清|せいせい|rom=-}}, {{ja-r|清々|せいせい}}
+* {{ja-r|清朝|せいちょう}}, {{ja-r|清朝%体|せいちょう%たい}}
+* {{ja-r|清洒|せいしゃ|rom=-}}, {{ja-r|清灑|せいしゃ}}
 * {{ja-r|清酒|せいしゅ}}
+* {{ja-r|清浄|せいじょう}}
+* {{ja-r|清遊|せいゆう|rom=-}}, {{ja-r|清游|せいゆう}}
+* {{ja-r|廓清|かくせい|rom=-}}, {{ja-r|郭清|かくせい}}
 * {{ja-r|双清|そうせい}}: [[painting]]s of [[daffodil]]s and [[ume]] flowers
+* {{ja-r|清水|きよみず}}, {{ja-r|清水|しみず}}
+* {{ja-r|清清|すがすが|rom=-}}, {{ja-r|清々|すがすが}}
+{{der-bottom}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Qing dynasty}}
+</div>
+{{ja-kanjitab|しん|yomi=o}}
+Borrowing from {{bor|ja|cmn|sort=しん|-}} {{bor|ja|zh|sort=しん|-}} {{m|zh|清|tr=qīng|lit=[[bright]], [[clear]]}}.
+
+====Proper noun====
+{{ja-pos|proper|しん}}
+
+# the [[Qing dynasty]] (1616-1912)
+# ''a [[place name]]''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|清国|^しん-こく}}
+* {{ja-r|清朝|^しん-ちょう}}
+* {{ja-r|日清|^にっしん}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|せい|yomi=o}}
+
+From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|清}}.
 
 ===Proper noun===
+{{ja-pos|proper|せい}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=せい}}
+# {{surname|lang=ja|A=a|nodot=1|sort=せい}}
+
+===Etymology 3===
+{{ja-kanjitab|さや|yomi=k}}
+
+From {{inh|ja|ojp|sort=さや|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+
+Stem of {{m|ja|清か|tr=sayaka||[[bright]], [[clear]]}}.
+
+====Alternative forms====
+* {{ja-l|明}}
+
+====Adverb====
+{{ja-pos|adverb|さや}}
+
+# [[brightly]], [[clearly]], [[vividly]]
+# [[cleanly]], [[freshly]], [[purely]]
+# [[rustlingly]]
+
+=====Usage notes=====
+* Usually takes the particle {{m|ja|に|tr=ni}}.
+
+====Proper noun====
+{{ja-pos|proper|さや}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=さや}}
+
+===Etymology 4===
+{{ja-kanjitab|さやか|yomi=k}}
+
+[[nominalization|Nominalization]] of {{m|ja|清か|tr=sayaka||[[bright]], [[clear]]}}.
+
+====Proper noun====
+{{ja-pos|proper|さやか}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=さやか}}
+
+===Etymology 5===
+{{ja-kanjitab|きよし|yomi=k}}
+
+From classical adjective {{m|ja|清し|tr=kiyoshi}}, modern {{m|ja|清い|tr=kiyoi||[[clear]]}}.
+ 
+====Proper noun====
 {{ja-pos|proper|きよし}}
 
-# {{given name|male|lang=ja}}
+# {{surname|lang=ja|A=a|nodot=1|sort=きよし}}
+# {{given name|unisex|lang=ja|A=a|nodot=1|sort=きよし}}
 
 [[Category:Japanese male given names|きよし]]
 
