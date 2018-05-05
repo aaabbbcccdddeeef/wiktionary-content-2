@@ -2,25 +2,25 @@
 {{character info/new}}
 ==Translingual==
 
-===Glyph origin===
-{{Han etym}}
-{{liushu|p}}. It is the original character of [[秫]]
-
 ===Alternative forms===
-* {{l|mul|术}}
+{{l|mul|术}} ''({{w|zh:新字形|Standardized form}} in mainland China)''
 
 ===Han character===
 {{Han char|rn=75|rad=木|as=01|sn=5|four=43210|canj=IJC|ids=⿺𣎳丶}}
 
-====Derived glyphs====
-* [[述]], [[術]], [[訹]], [[怵]], [[沭]], [[秫]], [[鉥]], [[㾁]], [[𩖶]]
+====Derived characters====
+* {{l|mul|[[𠰲]], [[怵]], [[𢫖]], [[沭]], [[述]], [[𣭍]], [[炢]], [[㺷]], [[秫]], [[䘤]], [[絉]], [[𦈭]], [[𣸃]], [[訹]], [[䟣]], [[鉥]]([[𬬸]]), [[𩖶]], [[𪲭]], [[術]]([[术]]), [[𫀦]], [[㾁]], [[怷]], [[𤇍]]}} ''(Only for {{w|zh:國字標準字體|Taiwan standard character forms}}. Note that China character forms contain {{l|mul|术}} instead.)''
 
 ====References====
-* {{Han ref|kx=0509.120|dkj=14423|dj=0893.020|hdz=80019.110|uh=672E|ud=26414|bh=A5BA|bd=42426}}
+{{Han ref|kx=0509.120|dkj=14423|dj=0893.020|hdz=80019.110|uh=672E}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}}. It is the original character of [[秫]].
 
 ===Etymology 1===
 {{zh-forms|s=术|t2=术}}
@@ -29,13 +29,16 @@
 {{zh-pron
 |m=shú
 |c=seot6
+|mc=
+|oc=y
 |cat=n
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[glutinous]] [[millet]], {{zh-alt-form|秫|tr=-}}
+# [[glutinous]] [[millet]]
+# {{zh-alt-form|秫}}
 
 ===Etymology 2===
 {{zh-forms|s=术|t2=术|alt=𦬸}}
@@ -49,7 +52,7 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{defn|lang=zh}}
+# {{rfdef|zh}}
 
 =====Compounds=====
 {{zh-der|白朮|蒼朮|莪朮}}
@@ -84,7 +87,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木01|hanviet=[[thuật]], [[truật]]}}
+{{vi-hantu|[[thuật]], [[truật]]|rs=木01}}
 
 # {{defn|lang=vi|sort=木01}}
 
