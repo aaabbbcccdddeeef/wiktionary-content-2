@@ -3,15 +3,21 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=75|rad=木|as=02|sn=6|four=17904|canj=HND|ids=⿱木}}
+{{Han char|rn=75|rad=木|as=02|sn=6|four=17904|canj=HND|ids=⿱𠘧木(G),⿱𠘧𣎳(HT),⿱几木(KV)}}
+
+====Derived characters====
+* {{l|mul|[[哚]], [[垛]], [[㛊]], [[𡯦]], [[𡷔]], [[挆]], [[𣳼]], [[𦚩]], [[𣑫]], [[𣧷]], [[𤤸]], [[𤱧]], [[𬒋]], [[䑮]], [[𧊶]], [[𬡖]], [[𧧨]], [[趓]], [[跺]], [[躲]], [[䤪]]([[𬭆]]), [[𪘉]], [[剁]], [[𭪋]], [[䒳]], [[𥬲]], [[𩬻]], [[𡇙]]}}
 
 ====References====
-* {{Han ref|kx=0510.050|dkj=14429|dj=0894.050|hdz=21155.050|uh=6735|ud=26421|bh=A6B7|bd=42679}}
+{{Han ref|kx=0510.050|dkj=14429|dj=0894.050|hdz=21155.050|uh=6735}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=𣎾,𣎿,,朶,𣏻,䒳}}
+{{zh-forms|alt=𣎾,𣎿,朶,𣏻,䒳,杂}}
+
+===Glyph origin===
+{{Han etym}}
 
 ===Pronunciation===
 {{zh-pron
@@ -49,7 +55,7 @@
 # {{defn|lang=ja|sort=木02}}
 
 ====Readings====
-* {{ja-readings|on=[[だ]] (da), [[た]] (ta)|kun=[[えだ]] (eda)}}
+* {{ja-readings|on=だ, た|kun=えだ}}
 
 ----
 
@@ -65,8 +71,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木02|hanviet=[[đóa]], [[tạp]]}}
+{{vi-hantu|[[đóa]], [[tạp]]|rs=木02}}
 
 # {{defn|lang=vi|sort=木02}}
-
-{{cln|vi|Han tu}}
