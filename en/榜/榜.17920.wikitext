@@ -1,14 +1,15 @@
+{{also|搒}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=75|rad=木|as=10|sn=14|four=40927|canj=DYBS|ids=⿰木旁}}
 
-# [[placard]]
-# [[list]] of [[successful]] [[exam]] [[candidate]]s
+====Derived characters====
+* {{l|mul|[[𭋞]], [[𡽲]]}}
 
 ====References====
-* {{Han ref|kx=0543.190|dkj=15241|dj=0931.080|hdz=21268.120|uh=699C|ud=27036|bh=BA5D|bd=47709}}
+{{Han ref|kx=0543.190|dkj=15241|dj=0931.080|hdz=21268.120|uh=699C}}
 
 ----
 
@@ -18,25 +19,100 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=bǎng,bèng
-|c=bong2,pang4,pong3,bong3
+|m=bǎng
+|c=bong2
 |mn=pńg/póng
 |mn_note=pńg - vernacular; póng - literary
-|mc=y
-|oc=y
-|cat=
+|mc=2
+|oc=n,1+2
+|cat=n
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[placard]]
+# [[list]] of [[successful]] [[candidate]]s
 
-====Compounds====
-{{zh-der|名列榜首|上榜|同榜|張榜|副榜|兩榜|堂榜|名魁虎榜|名榜|喪榜|光榮榜|出榜|排行榜|榜尾|榜文|殃榜|手榜|牌榜|秋榜|榜眼|榜單|發榜|榜首|榜楚|榜牌|標榜|登虎榜|春秋榜|榜歌|春榜|放榜|榜花|甲榜|押榜|榜掠|榜書|揭榜|榜上無名|榜張|榮譽榜|榜額|榜示|榜樣|榜帖|榜女|榜人|榜箠|榜笞|紅榜|金榜|蕊榜|落榜|金榜題名|點榜|虎榜|龍虎榜|背榜|陪榜|黃榜|金榜掛名|鏤榜|署榜}}
+=====Compounds=====
+{{zh-der|名列榜首|上榜|同榜|張榜|副榜|兩榜|堂榜|名魁虎榜|名榜|喪榜|光榮榜|出榜|排行榜|榜尾|榜文|殃榜|手榜|牌榜|秋榜|榜眼|榜單|發榜|榜首|榜牌|標榜|登虎榜|春秋榜|春榜|放榜|榜花|甲榜|押榜||榜書|揭榜|榜上無名|榜張|榮譽榜|榜額|榜示|榜樣|榜帖|紅榜|金榜|蕊榜|落榜|金榜題名|點榜|虎榜|龍虎榜|背榜|陪榜|黃榜|金榜掛名|鏤榜|署榜}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=bàng,bèng
+|m_note=bàng - mainland China; bèng - Taiwan <!-- Compare 漢語大字典 (China) and Moedict.tw (Taiwan) -->
+|c=pong3,bong3
+|mc=3
+|oc=y,n
+|ma=
+|cat=n,v
+}}
+
+====Definition====
+{{zh-hanzi}}
+
+# boat [[oar]]; [[boat]]
+# to [[row]]
+#: {{zh-x|榜{bàng/bèng} 舟|to [[row]]}}
+#: {{zh-alt-inline|搒}} <!-- Similar compounds found under 搒 in 《漢語大詞典》 -->
+# to [[beat up]] a person <!-- 漢語大字典 (China) and Moedict.tw (Taiwan) gives this definition. See also pronunciation 3 -->
+# {{zh-alt-form|傍}} <!-- 漢語大字典 -->
+
+=====Compounds=====
+{{zh-der|榜掠|榜人|榜女|榜板|榜妾|榜楚|榜歌|榜汰|榜枻|榜信|榜師|榜舫|榜舟|榜船|榜童|榜聲}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=bēng
+|c=pang4
+|mc=1
+|oc=n,3
+|ma=
+|cat=n,v
+}}
+
+====Definition====
+{{zh-hanzi}}
+
+# {{zh-div|檠}} tool used to [[straighten]] [[bow]]
+# to [[beat up]] a person {{gloss|''type of punishment in ancient times''}} <!-- 《漢語大詞典》 (China) gives pronunciation of compounds as bēng whereas Moedict.tw gives pronunciation as bèng. Similar definition found under pronunciation bàng in 《漢語大字典》 (China) -->
+#: {{zh-alt-inline|搒}} <!-- Similar compounds found under 搒 in 《漢語大詞典》 -->
+
+=====Compounds=====
+{{zh-der|榜檠|榜箠|榜笞|榜死|榜服|榜毒|榜殺|榜責|榜達|榜繫}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=páng <!-- Pronunciation given in 漢語大字典(第二版) is pāng -->
+|c=
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+====Definition====
+{{zh-hanzi}}
+
+# {{zh-hg}} type of [[wood]] <!-- 《集韻·唐韻》 -->
+# {{zh-alt-form|旁}} <!-- 《漢語大字典》 -->
+
+===Pronunciation 5===
+{{zh-pron
+|m=pǎng
+|c=
+|cat=v
+}}
+
+====Definition====
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal}} to [[loosen]] [[soil]] <!-- Refer 《漢語大詞典》 -->
+
+=====Compounds=====
+{{zh-der|榜青|榜地}}
 
 ===References===
 * {{R:yue:Hanzi}}
