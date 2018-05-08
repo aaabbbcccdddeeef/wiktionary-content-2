@@ -1,20 +1,28 @@
 {{also|参|蔘|叄}}
 {{character info/new}}
+{{character info/new|0xf96b}}
 ==Translingual==
 {{ja-forms|[[参]]|[[参]]|參}}
 
 ===Han character===
-{{Han char|rn=28|rad=厶|as=09|sn=11|four=23202|canj=IIIH|ids=⿱𠫯彡}}
+{{Han char|rn=28|rad=厶|as=09|sn=11|four=23202|canj=IIIH|ids=⿱厽㐱}}
+
+====Derived characters====
+* {{l|mul|[[傪]], [[𠗿]], [[𠔭]], [[嘇]], [[墋]], [[㜗]], [[㠁]], [[幓]], [[慘]], [[摻]], [[滲]], [[遪]], [[槮]], [[犙]], [[㺑]], [[㽩]], [[磣]], [[穇]], [[糝]], [[縿]], [[襂]], [[謲]], [[贂]], [[䟃]], [[醦]], [[鏒]], [[驂]], [[鰺]], [[黲]], [[剼]], [[毿]], [[㓄]], [[䫩]], [[嵾]], [[蔘]], [[篸]], [[瘮]], [[鬖]]}}
+
+====Descendants====
+* {{l|mul|[[参]]}} ''(Japanese {{w|shinjitai}} and {{w|simplified Chinese}})''
 
 ====References====
 {{Han ref|kx=0164.280|dkj=03098|dj=0372.280|hdz=10387.230|uh=53C3}}
+{{Han ref|uh=F96B}}
 
 ----
 
 ==Chinese==
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han simp|曑|f=晶|t=厽}}.
 
 The bronze script form is an {{Han compound|晶|光|彡|ls=ic|nocap=1|t1=stars|t2=light; brightness|t3=light rays}} – {{w|Three Stars (Chinese constellation)|Three Stars}} mansion. {{och-l|彡}} also acts as a phonetic component. Ignoring the lines connecting the three stars, {{zh-l|*光}} may be interpreted as {{zh-l|*卩|kneeling person}}, representing someone looking at the shining stars above him.
@@ -39,6 +47,7 @@ From {{och-l|三|[[three]]}} + other element ({{zh-ref|Schuessler, 2007}}).
 
 ====Definitions====
 {{zh-hanzi}}
+{{zh-wp|zh:參宿|en:Three Stars (Chinese constellation)}}
 
 # {{zh-div|宿}} {{lb|zh|Chinese astronomy}} {{w|Three Stars (Chinese constellation)|Three Stars}} mansion {{gloss|one of the {{w|Twenty-Eight Mansions}}}}
 # {{surname|lang=zh}}
@@ -107,7 +116,22 @@ From {{och-l|三|[[three]]}} + other element ({{zh-ref|Schuessler, 2007}}).
 {{zh-der|參展|參堂|參考|參假|參前落後|功過參半|憂喜參半|參靈|參雜|參校|參戰|參訂|參伍|參觀|參軍|參孫|內參|參贊|參透|參考書|利弊參半|參政權|同參|形名參同|免參|參知政事|參驗|參看|參拜|參與|參革|參酌|參話頭|參破|參同契|參度|參選|公眾參與|參請|參天|參場|參劾|喝參|參頭|參預|參賽|參議院|參議會|參議|參譚|參謁|參見|參禪|參照|參朝|參政|參悟|參半|參加|參佐|參本|參閱|參將|參事|參謀|參數|參綜|早參|晨參暮省|拔地參天|晚參|朝參暮禮|疑信參半|打參|毀譽參半|暮禮晨參|晨參暮禮|放參|飽參|筆參造化|魚頭參政|說參請|違紀參選|聯合參謀}}
 
 ===Etymology 4===
-{{zh-see|叄|v|three}}
+{{zh-forms|s=叁}} <!-- Historical sources does not indicate 叄 to have the specific meaning of "three". Refer http://www.guoxuedashi.com/zidian/53C4.html -->
+
+====Pronunciation====
+{{zh-pron
+|m=sān
+|c=saam1
+|cat=num
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|financial}} {{zh-alt-form|三|[[three]]}}
+
+=====See also=====
+{{Chinese-numbers}}
 
 ===Etymology 5===
 {{zh-forms|s=参|alt=叄,㕘,叅}}
@@ -133,10 +157,10 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 {{zh-der|參差不齊|參差|參錯|玉參差}}
 
 ===Etymology 6===
-{{zh-see|摻|v|a genre of drum music}}
+{{zh-see|摻|v|''[[càn]]'', type of [[drum]] [[music]]}} <!-- 《漢語大字典》： 參（五） càn 鼓曲名。 击鼓三次。 也写作 “摻”。 -->
 
 ===Etymology 7===
-{{zh-see|糝|v|mixed; impure}}
+{{zh-see|糝|v|[[mixed]]; [[impure]]}}
 
 {{cln|zh|numeral symbols}}
 
@@ -162,7 +186,7 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[참]], [[삼]]|rv=cham, sam|mr=ch'am, sam|y=cham, sam}}
+{{ko-hanja|hangeul=[[참]], [[삼]]|rv=[[cham]], [[sam]]|mr=[[ch'am]], [[sam]]|y=[[cham]], [[sam]]}}
 
 # {{defn|lang=ko|sort=厶09}}
 
@@ -171,6 +195,6 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tham]], [[sâm]]|rs=厶09}}
+{{vi-hantu|[[tham]], [[sam]], [[sâm]], [[khươm]]|rs=厶09}}
 
 # {{defn|lang=vi|sort=厶09}}
