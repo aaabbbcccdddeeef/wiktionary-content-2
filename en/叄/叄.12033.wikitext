@@ -1,9 +1,15 @@
-{{also|叁|參}}
+{{also|叁|參|𠫰}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=28|rad=厶|as=09|sn=11|four=|canj=IIIM|ids=⿱𠫯三}}
+
+====Derived characters====
+* {{l|mul|[[𢠊]], [[𤡙]]}}
+
+====Related characters====
+* {{l|mul|[[參]]}} ''({{w|Variant Chinese character#Orthodox and vulgar variants|Orthodox form}} of 叄)''
 
 ====References====
 {{Han ref|kx=0164.301|dkj=03089|hdz=10387.210|uh=53C4|ud=21444}}
@@ -12,22 +18,45 @@
 
 ==Chinese==
 
-===Etymology 1===
+===Definitions===
 {{zh-see|參|v}}
 
-===Etymology 2===
-{{zh-forms|s=叁|t2=參|t3=叁}}
+===Usage notes===
+For the traditional Chinese character of {{l|mul|叁}} (''<small>Financial form of {{l|mul|三}}</small>''), see etymology 4 of <big>[[參#Etymology 4|參]]</big> instead.
+<!-- Note: Historical sources does not indicate 叄 to have the specific meaning of "three". Refer http://www.guoxuedashi.com/zidian/53C4.html -->
 
-====Pronunciation====
-{{zh-pron
-|m=sān
-|c=saam1
-|cat=num
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=厶09}}
+
+# {{alt-form|lang=ja|參}}
+
+====Readings====
+{{ja-readings
+|on=さん, しん
+|kun=まいる, みつ, まじわる
 }}
 
-====Definitions====
-{{zh-hanzi}}
+----
 
-# {{lb|zh|financial}} {{zh-alt-form|三|[[three]]}}
+==Korean==
 
-{{cln|zh|numeral symbols}}
+===Hanja===
+{{ko-hanja|hangeul=[[참]], [[삼]]|rv=[[cham]], [[sam]]|mr=[[ch'am]], [[sam]]|y=[[cham]], [[sam]]}}
+
+# {{defn|lang=ko|sort=厶09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tam]]|rs=厶09}}
+
+# {{defn|lang=vi|sort=厶09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=53C4 Nom Foundation]
