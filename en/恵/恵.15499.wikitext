@@ -35,30 +35,98 @@ Japanese shinjitai {{Han simp|惠|f=叀|t=𤰔}}; compare [[専]].
 ===Kanji===
 {{ja-kanji|grade=c|rs=心06|kyu=惠}}
 
-# favor
-# blessing
-# grace
-# kindness
+# [[blessing]], [[grace]]
+# [[favor]]
+# [[wise]]
+# [[kind]], [[kindness]]
+# [[fortunate]]
 
 ====Readings====
 {{ja-readings
 |goon=え<ゑ
-|kanon=けい
-|kun=めぐ-む, めぐみ
-|nanori=あや, け, さと, さとし, しげ, へい, み, やす 
+|kanon=けい<けい<くゑい
+|kun=めぐみ-, めぐ-む
+|nanori=あい, あや, け, さと, さとし, しげ, しげる, へい, み, めぐる, やす 
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|恵方|えほう}}
+* {{ja-r|恵愛|けいあい}}
 * {{ja-r|恵子|^けいこ}}
+* {{ja-r|恵顧|けいこ}}
+* {{ja-r|恵贈|けいぞう}}
+* {{ja-r|恵送|けいそう}}, {{ja-r|御%恵送|ご%-けいそう}}
+* {{ja-r|恵投|けいとう}}
+* {{ja-r|恵風|けいふう}}
+* {{ja-r|恵与|けいよ}}
+* {{ja-r|恩恵|おんけい}}
+* {{ja-r|互恵|ごけい}}
+* {{ja-r|施恵|しけい}}
+* {{ja-r|仁恵|じんけい}}
+* {{ja-r|特恵|とっけい}}
+* {{ja-r|余恵|よけい}}
+{{der-bottom}}
 
-===Proper noun===
-{{ja-pos|proper|けい}}
+===Etymology 1===
+{{ja-kanjitab|え|yomi=o}}
+{{IPAchar|/we/}} → {{IPAchar|/e/}}
 
-# {{given name|male|lang=ja}}
+From {{der|ja|ltc|sort=え|-}} {{ltc-l|惠}}, itself a translation of {{der|ja|sa|sort=え|प्राज्ञा||[[wisdom]]}}.<ref name="DJS">{{R:Daijisen}}</ref>
 
-{{ja-pos|proper|めぐみ}}
+The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
 
-# {{given name|female|lang=ja}}
+====Alternative forms====
+* {{ja-l|慧}}
 
-[[Category:Japanese female given names|めぐみ]]
-[[Category:Japanese male given names|けい]]
+====Pronunciation====
+{{ja-pron|y=go|え|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=惠|え|hhira=ゑ}}
+
+# [[enlightenment]]
+#: {{synonyms|ja|悟り|tr=satori}}
+# {{lb|ja|especially in|_|Buddhism|sort=え}} [[wisdom]] {{gloss|especially ''[[prajna]]'', one of the {{w|Threefold Training|three divisions}} of the {{w|Noble Eightfold Path}}}}
+#: {{synonyms|ja|[[知恵]], [[智慧]]|tr=chie|般若|tr2=hannya}}
+#: {{hypernyms|ja|三学|tr=sangaku}}
+
+=====Usage notes=====
+* The {{ja-l|慧}} kanji appears to be more commonly used.
+
+===Etymology 2===
+{{ja-kanjitab|けい|yomi=o}}
+{{IPAchar|/kwei/}} → {{IPAchar|/kei/}} → {{IPAchar|/keː/}}
+
+From {{der|ja|ltc|-}} {{ltc-l|惠}}.
+
+The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Proper noun====
+{{ja-pos|proper|kyu=惠|けい}}
+
+# {{given name|unisex|lang=ja|A=a|nodot=1|sort=けい}}
+
+===Etymology 3===
+{{ja-kanjitab|めぐみ|yomi=k}}
+
+[[nominalization|Nominalization]] of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|恵む|tr=megumu||to [[give]] (in [[charity]]); to [[bless]], to be [[kind]]}}.
+
+====Proper noun====
+{{ja-pos|proper|kyu=惠|めぐみ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=めくみ}}
+# {{surname|lang=ja|A=a|nodot=1|sort=めくみ}}
+
+===Etymology 4===
+{{ja-kanjitab|めぐむ|yomi=k}}
+
+[[nominalization|Nominalization]] of {{m|ja|恵む|tr=megumu||to [[give]] (in [[charity]]); to [[bless]], to be [[kind]]}}.
+
+====Proper noun====
+{{ja-pos|proper|kyu=惠|めぐむ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
+
+===References===
+<references/>
