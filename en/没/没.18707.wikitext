@@ -3,6 +3,7 @@
 ==Translingual==
 {{stroke order|strokes=7}}
 {{stroke order|type=animate}}
+{{ja-forms|没|没|[[沒]]}}
 
 ===Glyph origin===
 Variant of {{l|mul|沒}}. Also used in Japanese shinjitai and simplified Chinese.
@@ -10,8 +11,11 @@ Variant of {{l|mul|沒}}. Also used in Japanese shinjitai and simplified Chinese
 ===Han character===
 {{Han char|rn=85|rad=水|as=04|sn=7|four=|canj=EHNE|ids=⿰氵殳}}
 
+====Related characters====
+* {{l|mul|[[沒]]}} ''({{w|Traditional Chinese|Traditional form}} of 没)''
+
 ====References====
-* {{Han ref|kx=0612.121|dkj=17233|dj=1005.150|hdz=31570.070|uh=6CA1|ud=27809}}
+{{Han ref|kx=0612.121|dkj=17233|dj=1005.150|hdz=31570.070|uh=6CA1}}
 
 ----
 
@@ -23,23 +27,36 @@ Variant of {{l|mul|沒}}. Also used in Japanese shinjitai and simplified Chinese
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=水04|kyu=沒}}
+{{ja-kanji|grade=c|rs=水04}} <!-- 沒 not listed as kyūjitai form in Jōyō Kanji 2010 -->
 
 # [[drown]]
 # [[sink]]
 # [[hide]]
 # [[fall into]]
 # [[disappear]]
-# [[die]]
+# [[death]]
 
 ====Readings====
 {{ja-readings
 |goon=もつ
 |kanon=ぼつ
-|kun=しず-む, おぼ-れる, し-ぬ
+|kun=しず-む, おぼ-れる, し-ぬ, い-る, ぼっ-する
 }}
 
 ====Compounds====
-* [[死没]]
-* [[戦没]]
-* [[病没]]
+* {{ja-r|死没|しぼつ}}: {{l|en|death}}
+* {{ja-r|戦没|せんぼつ}}: {{l|en|death}} in {{l|en|battle}}
+* {{ja-r|病没|びょうぼつ}}: {{l|en|death}} by {{l|en|illness}}
+* {{ja-r|没収|ぼっしゅう}}: {{l|en|confiscation}}; {{l|en|forfeiture}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mốt]], [[một]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6CA1 Nom Foundation]
