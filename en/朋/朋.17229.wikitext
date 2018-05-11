@@ -43,16 +43,45 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=月04}}
 
+# [[friend]]
+# [[faction]]
+
 ====Readings====
 {{ja-readings
-|on=ほう
+|goon=ぼう
+|kanon=ほう
 |kun=とも-
 }}
 
-===Noun===
-{{ja-noun|とも}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|朋党|ほうとう}}
+* {{ja-r|朋輩|ほうばい}}
+* {{ja-r|朋友|ほうゆう}}
+* {{ja-r|親朋|しんぽう}}
+* {{ja-r|同朋|どうぼう}}
+* {{ja-r|友朋|ゆうほう}}
+{{der-bottom}}
 
-# {{alternative form of|友|lang=ja}}
+===Etymology===
+{{ja-kanjitab|とも|yomi=k}}
+Extension of and cognate with {{m|ja|共|tr=tomo||[[same]], [[together]]}}.<ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|y=k|とも|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とも|トモ}}
+
+# {{altspell|lang=ja|友|tr=tomo|nodot=1|sort=とも}}: a [[friend]], [[companion]]; a [[member]] of the [[same]] [[category]]; a [[comrade]]
+
+===Proper noun===
+{{ja-pos|proper|とも}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=とも}}
+
+===References===
+<references/>
 
 ----
 
