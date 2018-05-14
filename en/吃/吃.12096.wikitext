@@ -110,29 +110,65 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=口03}}
 
-# to [[stammer]] or [[stutter]]
+# [[stammer]]ing, [[stutter]]ing
+# [[accept]], [[comply]]
 
 ====Readings====
 {{ja-readings
 |goon=こち
 |kanon=きつ
-|kun=ども-る
+|kun=きっ-する<きつ-する, ども-り, ども-る
 }}
 
-===Etymology===
-{{bor|ja|cmn|吃|tr=chī|sort=ちー|withtext=1}}
+====Compounds====
+{{der-top}}
+* {{ja-r|吃驚|きっきょう}}
+* {{ja-r|吃緊|きっきん}}
+* {{ja-r|吃水|きっすい}}
+* {{ja-r|吃相|きっそう}}
+* {{ja-r|吃音|きつおん}}
+* {{ja-r|吃%語|きつ%ご}}
+* {{ja-r|吃吃|きつきつ}}, {{ja-r|吃々|きつきつ}}
+* {{ja-r|吃又|^どもまた}}
+* {{ja-r|吃逆|しゃっくり}}
+* {{ja-r|小%吃|シァオ%チー}}
+* {{ja-r|吃驚|びっくり}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|ままなき|yomi=irr}}
+
+Attested in the ''{{w|Ruiju Myōgishō}}'' (''c.'' 12th century).<ref name="DJR"/>
+
+Likely a compound of {{m|ja|儘|tr=mama||[[continuous]] [[state]]}} + {{m|ja|泣き|tr=naki}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|泣く|tr=naku||to [[cry]]}}. {{rfv-etymology|ja}}
+
+====Noun====
+{{ja-noun|ままなき}}
+
+# [[stammer]]ing, [[stutter]]ing
+# a [[stutterer]]
+
+=====Synonyms=====
+* {{ja-r|吃り|どもり}}
+
+===Etymology 2===
 {{ja-kanjitab|ちー|yomi=irr}}
+{{bor|ja|cmn|吃|tr=chī|sort=ちー|withtext=1}}<ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=irr|チー}}
+{{ja-pron|y=i|チー|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|チー}}
 
-# {{lb|ja|mahjong|sort=ちー}} [[chow]]
+# {{lb|ja|mahjong|sort=ちー}} [[chow]] ([[meld]] of [[three]] [[tiles]] that form a [[sequence]])
 
 ====Coordinate terms====
-* {{ja-r|碰|ポン}}, {{ja-r|槓|カン}}
+* {{ja-r|碰|ポン|[[pung]]}}
+* {{ja-r|槓|カン|[[kong]]}}
+
+===References===
+<references/>
 
 ----
 
