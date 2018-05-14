@@ -1,19 +1,25 @@
 ==Japanese==
 {{DEFAULTSORT:しぬ}}
-{{ja-kanjitab|し|sort=しぬ|yomi=k}}
+{{ja-kanjitab|yomi=k|し|sort=しぬ}}
 
 ===Etymology===
-{{com|ja|死|往ぬ}}
+From {{inh|ja|ojp|sort=しぬ|-}}.  Appears in the oldest Japanese texts, including the ''{{w|Nihon Shoki}}'' of 720 CE and the ''{{w|Man'yōshū}}''<ref>{{RQ:Manyoshu|5|889}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#889 here]</ref> of 759 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+The {{ja-r|ぬ}} ending historically had an irregular conjugation pattern, shared only by now-obsolete verb {{m|ja|往ぬ}}, {{m|ja|去ぬ||tr=inu|go away; pass; disappear}} and auxiliary verb {{m|ja|ぬ||tr=nu|pos=indicating completion, generally reserved for non-intentional, spontaneous, or intransitive actions}}.  The {{ja-r|ぬ}} in verb {{m|ja||死ぬ}} was viewed as identical to the auxiliary,<ref name="DJS">{{R:Daijisen}}</ref> and the verb {{m|ja||死ぬ}} initially was thus never conjugated with this auxiliary as an additional suffix.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+The auxiliary itself may have derived from the verb {{m|ja|往ぬ}}, {{m|ja|去ぬ||tr=inu|go away; pass; disappear}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> raising the possibility that the verb {{m|ja||死ぬ}} may have derived from a fusion of {{m|ja|死||tr=shi|death}} + {{m|ja|往ぬ}}, {{m|ja|去ぬ||tr=inu|go away; pass; disappear}}.
+
+The transition from the {{m|ja|ナ行変格活用||tr=na henkaku katsuyō|''na'' irregular conjugation}} pattern to the regular {{m|ja|四段活用||tr=yodan katsuyō|quadrigrade conjugation}} appears in texts from the {{w|Muromachi period}} (1336–1573).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  The ''na'' irregular pattern persisted in increasingly limited use until the {{w|Meiji period}} (1868–1929).<ref name="DJR">{{R:Daijirin}}</ref>
 
 ===Pronunciation===
-{{ja-pron|y=k|acc=0|しぬ}}
+{{ja-pron|yomi=k|しぬ|acc=0|acc_ref=DJR,NHK,SMK5|acc2=2|acc2_ref=SMK5}}
 
 ===Verb===
 {{ja-verb|type=1|tr=intrans|しぬ}}
 
 # to [[die]]
 #: {{ja-usex|'''死にたい'''ほど苦しい|'''しにたい''' ほど くるし.い|so excruciating one '''wishes to die'''}}
-#: {{ja-usex|大事な人に'''死なれる'''|だいじ な ひと に '''しなれる'''|to have someone important die on you; to lose someone important}}
+#: {{ja-usex|大事な人に'''死なれる'''|だいじ な ひと に '''しなれる'''|to have someone important '''die on you''' → to '''lose''' someone important}}
 #*{{quote-book|||{{w2|ja|聖闘士星矢|{{ruby|[Saint](セイント)[星](セイ)[矢](ヤ)}}|sc=Jpan}}
 ||298
 |{{ja-usex|ドラゴン紫%龍は'''死んだ'''‼|^ドラゴン ^シ%リュウ は '''しんだ'''‼|Dragon Shiryū is dead‼}}
@@ -31,16 +37,24 @@
 |volume=1
 |isbn=4-08-617650-5}}
 # to [[become]] [[lifeless]], to [[lack]] [[vitality]], to show a [[lack]] of [[vigor]]
-#: {{ja-usex|目が'''死んだ'''ような人|め が '''しんだ''' よう な ひと|a person with dead eyes}}
+#: {{ja-usex|目が'''死んだ'''ような人|め が '''しんだ''' よう な ひと|a person with '''dead''' eyes}}
 
 ====Conjugation====
-{{ja-go-nu|死|し|shi}}
+{{ja-go-nu|し}}
+
+====Usage notes====
+This Japanese verb denotes an [[instantaneous]] action.  The ''-te / -de'' + ''iru'' grammatical form is usually described in English as equivalent to the [[present progressive]].  However, for Japanese instantaneous verbs, this ''-te / -de'' + ''iru'' grammatical form instead more commonly indicates that the action of the verb has completed, and the result of the verb is the new current state.
+
+For instance, ''shinu'' specifically denotes the [[instantaneous]] action of dying, whereas the English verb {{m|en|die}} denotes more of a process.  To express the idea of ''someone is now in the process of transitioning from alive to dead'', English speakers would use the present continuous construction, ''someone '''is dying'''''.  However, the similar grammatical construction in Japanese, {{m|ja|[[誰か]][[は]]'''死んで[[いる]]'''|tr=dare ka wa '''shinde iru'''}}, instead means that ''someone '''is dead'''''.  To express the process in Japanese, speakers use the alternative constructions {{m|ja|死んで[[いる]]'''[[所|ところ]][[だ]]'''|tr=shinde iru '''tokoro da'''|lit='''it is the moment of''' dying}} or {{m|ja|死に'''[[掛ける|かけて]][[いる]]'''|tr=shini'''kakete iru'''|lit='''starting''' to die}}.
 
 ====Synonyms====
-* See [[Thesaurus:死ぬ]]
+See [[Thesaurus:死ぬ]]
 
 ===Trivia===
-* {{lang|ja|死ぬ}} is the only modern Japanese verb which ends in {{m|ja|ぬ}} (an older example is {{m|ja|去ぬ||to go, to leave|tr=inu}}, which is now archaic). Accordingly, it is often used in textbooks to illustrate conjugation of {{lang|ja|〜ぬ}} verbs.
+{{lang|ja|死ぬ}} is the only modern Japanese verb which ends in {{m|ja|ぬ}} (an older example is {{m|ja|去ぬ||to go, to leave|tr=inu}}, which is now archaic). Accordingly, it is often used in textbooks to illustrate the conjugation pattern for {{lang|ja|〜ぬ}} verbs.
+
+===References===
+<references/>
 
 {{cln|ja|basic words}}
 {{C|ja|Death}}
