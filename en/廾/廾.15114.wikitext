@@ -4,26 +4,31 @@
 {{stroke order|type=animate}}
 
 ===Han character===
-{{Han char|rn=55|rad=廾|as=00|sn=3|four=44000|canj=JJ,XXJJ}}
+{{Han char|rn=55|rad=廾|as=00|sn=3|four=44000|canj=JJ,XXJJ|ids=⿻丿十}}
 
 # {{mul-kangxi radical-def}}
 
 ====Derived characters====
 * [[Index:Chinese radical/廾]]
-* [[灷]] [[戒]]
+* {{l|mul|[[𧘬]], [[灷]], [[𬌪]], [[𫌲]], [[𫙐]], [[𬶽]], [[戒]]}}
 
 ====References====
-* {{Han ref|kx=0353.080|dkj=09583|dj=0668.070|hdz=10513.110|uh=5EFE|ud=24318|bh=A47B|bd=42107}}
+{{Han ref|kx=0353.080|dkj=09583|dj=0668.070|hdz=10513.110|uh=5EFE}}
+
+[[Category:CJKV radicals]]
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:廾部|en:Radical 55}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=gǒng
 |c=gung2
@@ -32,18 +37,22 @@
 |w=
 |mc=y
 |oc=y
-|ma=|ma2=
+|ma=
 |cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[clasp]] one's [[hand]]s
 
+===Etymology 2===
+{{zh-see|廿}}
+
 ----
 
 ==Japanese==
+{{wp|lang=ja|廾部}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=廾00}}
@@ -55,7 +64,7 @@
 {{ja-readings
 |goon=く
 |kanon=きょう<きよう
-|kun=ささ-げる<!--, にじゅう<にじふ,　にじゅうあし<にじふあし-->
+|kun=ささ-げる <!-- にじゅう<にじふ,　にじゅうあし<にじふあし -->
 }}
 
 {{attention|ja|confirm radical for "twenty"}}
@@ -78,8 +87,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=廾00|hanviet=[[củng]], [[trấp]], [[trập]]}}
+{{vi-hantu|rs=廾00|[[trấp]], [[trập]], [[củng]]}}
 
 # {{defn|lang=vi|sort=廾00}}
 
-[[Category:CJKV radicals| ]]
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5EFE Nom Foundation]
