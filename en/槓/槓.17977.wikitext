@@ -41,33 +41,51 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木10}}
 
-# {{defn|lang=ja|sort=木10}}
+# [[lever]]
 
 ====Readings====
-{{ja-readings|goon=こう|kanon=こう<かう|kun=てこ-}}
+{{ja-readings
+|goon=こう
+|kanon=こう<かう
+|kun=てこ-
+}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|槓子|カンツ}}
-* {{ja-r|槓桿|こうかん}}: [[lever]]
-{{der-bottom}}
-
-{{wikipedia|lang=ja}}
-{{ja-kanjitab|かん|yomi=irr}}
+* {{ja-r|槓桿|こうかん|[[lever]]}}
 
 ===Etymology===
-From {{etyl|cmn|ja|sort=かん}} {{zh-l|槓|tr=gàng}}.
+{{wp|lang=ja}}
+{{ja-kanjitab|かん|yomi=irr}}
+Borrowing from {{bor|ja|cmn|sort=かん|-}} {{zh-l|槓|tr=gàng}}.<ref name="DJS">{{R:Daijisen}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=irr|カン}}
 
 ===Noun===
-{{ja-noun|かん|カン}}
+{{ja-noun|カン}}
 
-# {{lb|ja|mahjong|sort=かん}} [[kong]]
+# {{lb|ja|mahjong|sort=かん}} {{short for|lang=ja|槓子|tr=kantsu|nodot=1|sort=かん}}: [[kong]] {{gloss|[[meld]] of [[four]] [[identical]] [[tile]]s}}
+## a {{m|ja|大明槓|tr=dai-minkan}}: [[open]] ''kan''
+## a {{m|ja|小明槓|tr=shō-minkan}} or {{m|ja|加槓|tr=kakan}}: [[add]]ed ''kan''
+## a {{m|ja|暗槓|tr=ankan}}: [[close]]d ''kan''
+# {{lb|ja|mahjong|sort=かん}} a [[call]] for such a meld
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|槓%子|カン%ツ}}
+* {{ja-r|槓ドラ|カンドラ}}
+* {{ja-r|暗槓|アンカン}}
+* {{ja-r|加%槓|カ%カン}}
+* {{ja-r|搶%槓|チャン%カン}}
+* {{ja-r|明槓|ミンカン}}
+{{der-bottom}}
 
 ====Coordinate terms====
-* {{ja-r|吃|チー}}, {{ja-r|碰|ポン}}
+* {{ja-r|吃|チー|[[chow]]}}
+* {{ja-r|碰|ポン|[[pung]]}}
+
+===References===
+<references/>
 
 ----
 
