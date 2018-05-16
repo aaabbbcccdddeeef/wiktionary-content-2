@@ -27,7 +27,6 @@
 # {{l|en|two}}
 
 ====Readings====
-As shinjitai kanji of 兩:
 {{ja-readings
 |goon=りょう<りやう
 |kanon=りょう<りやう
@@ -119,17 +118,18 @@ As shinjitai kanji of 兩:
 }}
 
 ===Kanji 2===
-{{ja-kanji forms|両|輛}}
-{{ja-kanji|grade=3|rs=一05|kyu=輛}}
+{{ja-kanji|grade=3|rs=一05}}
 
 # {{l|en|counter}} for {{l|en|carriages}}, such as in a {{l|en|train}}
 
 ====Readings====
-As shinjitai kanji of 輛:
 {{ja-readings
 |goon=ろう<らう
 |kanon=りょう<りやう
 }}
+
+====Usage notes====
+Usually replaces {{m|ja|輛}} and extended shinjitai form {{m|ja|輌}} in modern usage.
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -185,13 +185,10 @@ Probably from {{der|ja|ltc|sort=りょう|輛|tr=lɨɐŋ<sup>H</sup>?|pos=counte
 {{ja-pron|yomi=kanon|りょう}}
 
 ====Counter====
-{{ja-pos|counter|りょう|kyu=輛|hhira=りやう}}
+{{ja-pos|counter|りょう|hhira=りやう}}
 
 # a {{l|en|car}} of a {{l|en|train}}
 #: {{ja-usex|この電%車は六%'''両'''%編%成です。|この でん%しゃ は ろく%'''りょう'''% へん%せい です。|This train consists of six '''cars'''.}}
-
-=====Usage notes=====
-{{l|en|shinjitai|Shinjitai}}. As this form conflates the traditional characters {{m|ja|兩}} and {{m|ja|輛}}, some may prefer not to simplify the latter, or to use the {{w|extended shinjitai}} form {{m|ja|輌}}.
 
 ===References===
 <references/>
