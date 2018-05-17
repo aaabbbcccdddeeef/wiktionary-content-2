@@ -36,7 +36,7 @@
 |mn=hô/qz:hô͘/xm,tp,mg,hc:hê/qz,lk,sx,km,hc:hêr/zz,kh,tn,yl,tc:hôe
 |mn_note=hô/hô͘ - literary; hê/hêr/hôe - vernacular
 |mn-t=hua5/huê5
-|mn-t_note=hua5 - literary; huê5 - vernacular (used in {{zh-l|和尚*}})
+|mn-t_note=hua5 - literary; huê5 - vernacular (used in {{zh-l|*和尚}})
 |w=3hhu
 |x=ho2
 |mc=1
@@ -68,6 +68,7 @@
 |m=hé,hàn,2nb=standard in Taiwan,2nc=dialectal variant in Mainland
 |m-s=ho2
 |c=wo4
+|mn=tw:hām/twv:hâm
 |cat=con
 }}
 
@@ -84,14 +85,14 @@
 #* {{zh-x|如果 你 把 譯文 和 原文 比較 一下，你 就 會 找到 不 準確 的 地方{fang}。|If you compare the translation '''with''' the original, you will find the inaccuracy.}}
 #* {{zh-x|意思 和 日語 的 「ダメ#Japanese\ダ{da}メ{me}」 類似。|The meaning is similar to the Japanese ''dame''.}}
 
-=====See also=====
+=====Synonyms=====
 {{zh-dial}}
 
 ===Pronunciation 3===
 {{zh-pron
 |m=hè
 |c=wo6
-|mn=hō
+|mn=xm,tw:hō
 |mc=2
 |oc=2
 |cat=v
@@ -111,27 +112,44 @@
 
 ===Pronunciation 4===
 {{zh-pron
-|m=huò,huó
-|m_note=huó - alternative pronunciation for "to knead" in Mainland
+|m=huó,huò,1nb=standard in Mainland,2nb=standard in Taiwan
 |m-s=ho4
 |c=wo4
-|mn=qz:hō͘/xm,zz:hō
+|mn=xm:hô
 |cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} to [[stir]]; to [[mix]]
-#: {{zh-x|攪和{huo}|to stir, to mix}}
-#: {{zh-x|和{huò} 麵|to knead dough}}
-#: {{zh-x|混和{huò}|mixture, amalgame}}
-#: {{zh-x|揉和{huò/hé}|to knead}}
+# to [[mix]] with [[water]] to make something [[stick]] together; to [[knead]]
+#: {{zh-x|和{huó} 麵|to knead dough}}
 
 ====Compounds====
 {{zh-der|fold=1|二和藥|和丸教子|和弄|和稀泥|和麵|和墨|夾和|打和|打和哄|打落牙齒和血吞|摻和|攙和}}
 
 ===Pronunciation 5===
+{{zh-pron
+|m=huò
+|c=wo4,gwo3
+|c_note=gwo3 - variant pronunciation for the classifier
+|mn=xm,zz:hō/qz:hō͘
+|cat=v,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[mix]] (usually substances in [[powder]] or [[grain]] form)
+#: {{zh-x|攪和{huo}|to stir, to mix}}
+# to add [[water]] to make something less [[thick]]
+# {{zh-classifier|the number of rinses when washing clothes}}
+# {{zh-classifier|the number of times a dose of Chinese medicine is boiled}}
+
+====Compounds====
+{{zh-der|fold=1|二和藥|和丸教子|和弄|和稀泥|和麵|和墨|夾和|打和|打和哄|打落牙齒和血吞|摻和|攙和}}
+
+===Pronunciation 6===
 {{zh-pron
 |m=hú
 |c=wu4,wu4-2
@@ -147,7 +165,7 @@
 ====Compounds====
 {{zh-der|fold=1|碰和|碰碰和|和牌}}
 
-===Pronunciation 6===
+===Pronunciation 7===
 {{zh-pron
 |m=huo
 |c=wo4
@@ -162,7 +180,7 @@
 #: {{zh-x|溫和{huo}|warm, lukewarm}}
 
 ====Compounds====
-{{zh-der|fold=1|熱和|攪和|暖和|軟和|溫和}}
+{{zh-der|fold=1|熱和|暖和|軟和|溫和}}
 
 {{zh-cat|Beginning|Musical instruments}}
 
