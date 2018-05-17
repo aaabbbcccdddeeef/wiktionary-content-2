@@ -1,17 +1,28 @@
 {{also|姫}}
 {{character info/new}}
 ==Translingual==
+{{CJKV-forms|姬|姬|姫|姬}}
+
+===Alternative forms===
+The character commonly used in Japanese is {{l|mul|姫}} (<code>U+59EB</code>). Note that the Korean form is written with {{l|mul|𦣝}} as the right component, which is the historical form found in the {{w|Kangxi Dictionary}}.
 
 ===Han character===
-{{Han char|rn=38|rad=女|as=07|sn=10|four=41417|canj=VSLL|ids=⿰女𦣞}}
+{{Han char|rn=38|rad=女|as=07|sn=10|four=41417|canj=VSLL|ids=⿰女𦣞(GHT),⿰女𦣝(K)}}
+
+====Derived characters====
+* {{l|mul|[[𩠯]]}}
 
 ====References====
-* {{Han ref|kx=0260.230|dkj=06230|dj=0526.240|hdz=21049.150|uh=59EC|ud=23020|bh=AE56|bd=44630}}
+{{Han ref|kx=0260.230|dkj=06230|dj=0526.240|hdz=21049.150|uh=59EC}}
 
 ----
 
 ==Chinese==
 {{zh-forms|alt=姫}}
+{{zh-wp|zh:姬姓|en:Jī}}
+
+===Glyph origin===
+{{Han etym}}
 
 ===Pronunciation===
 {{zh-pron
@@ -39,9 +50,9 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=uc|rs=女07|shin=姫}}
+{{ja-kanji|grade=uc|rs=女07}} <!-- Not listed as kyūjitai in 2010 Jōyō Kanji -->
 
-# [[princess]]
+# {{alt-form|lang=ja|姫}}.
 
 ====Readings====
 {{ja-readings
