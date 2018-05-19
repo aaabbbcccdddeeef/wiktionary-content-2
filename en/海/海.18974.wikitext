@@ -77,13 +77,13 @@ Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 
 ==Japanese==
 {{ja-kanji forms|k=y}} <!-- Note: Kyūjitai form of 海 is U+FA45 (CJK compatibility ideograph) -->
-{{wp|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=水06}}
 
-# [[sea]]
-# [[ocean]]
+# [[sea]], [[ocean]]
+# [[vast]]ly [[gather]]ed
+# [[large]], [[wide]]
 
 ====Readings====
 {{ja-readings
@@ -95,48 +95,74 @@ Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-l|海人}}, {{ja-l|海士}}, {{ja-l|海女}}, {{ja-l|蜑}}: (''ama''): a [[diver]], someone who gathers [[fish]], [[shellfish]], and [[seaweed]] as a profession
-* {{ja-r|海豚|いるか}}: [[dolphin]]
-* {{ja-r|海豚座|いるかざ}}: the [[dolphin]] [[constellation]], [[Delphinus]]
-* {{ja-r|海原|うなばら}}: [[great]] [[ocean]]
-* {{ja-r|海運|かいうん}}: [[marine]] [[transportation]]
-* {{ja-r|海外|かいがい}}: [[abroad]], [[foreign country]]
-* {{ja-r|海岸|かいがん}}: [[coast]], [[seashore]], [[seacoast]]
-* {{ja-r|海峡|かいきょう}}: [[strait]]
-* {{ja-r|海軍|かいぐん}}: [[navy]]
-* {{ja-r|海月|くらげ}}: [[jellyfish]]
-* {{ja-r|海獣|かいじゅう}}: [[marine]] [[animal]] (especially a [[walrus]] or [[sea lion]])
-* {{ja-r|海嘯|かいしょう}}: [[tidal wave]]
-* {{ja-r|海上|かいじょう}}: on the [[sea]], [[marine]], [[maritime]]
-* {{ja-r|海王星|かいおうせい}}: [[sea]] [[king]] [[star]]; [[Neptune]]
-* {{ja-r|海神|かいじん}}: [[sea]] [[god]]/[[spirit]]; [[Neptune]]
-* {{ja-r|海図|かいず}}: [[sea]] [[chart]], [[water]] [[map]]
-* {{ja-r|海水|かいすい}}: [[seawater]]
-{{der-mid}}
-* {{ja-r|海鮮|かいせん}}: [[seafood]]
-* {{ja-r|海戦|かいせん}}: [[naval]] [[battle]]
-* {{ja-r|海草|かいそう}}: [[seagrass]]
-* {{ja-r|海藻|かいそう}}: [[seaweed]]
-* {{ja-r|海賊|かいぞく}}: [[pirate]]
-* {{ja-r|海底|かいてい}}: [[seabed]]
-* {{ja-r|海難|かいなん}}: [[marine]]
-* {{ja-r|海馬|かいば}}: a [[sea lion]]
-* {{ja-r|海抜|かいばつ}}: [[above]] [[sea]] [[level]]
-* {{ja-r|海錨|かいびょう}}: [[sea anchor]]
-* {{ja-r|海辺|かいへん}}: [[seaside]]
-* {{ja-r|海洋|かいよう}}: [[marine]]
-* {{ja-r|海流|かいりゅう}}: [[sea]] [[current]], [[ocean]] [[trend]]
-* {{ja-r|海老|えび}}: [[shrimp]], [[prawn]], [[lobster]]
-* {{ja-r|海苔|のり}}: [[nori]], a kind of [[seaweed]]
-* {{ja-r|海蘿|ふのり}}
+* {{ja-r|海運|かいうん|[[marine]] [[transportation]]}}
+* {{ja-r|海外|かいがい|[[abroad]], [[foreign country]]}}
+* {{ja-r|海岸|かいがん|[[coast]], [[seashore]], [[seacoast]]}}
+* {{ja-r|海峡|かいきょう|[[strait]]}}
+* {{ja-r|海軍|かいぐん|[[navy]]}}
+* {{ja-r|海獣|かいじゅう|[[marine]] [[animal]]}}
+* {{ja-r|海嘯|かいしょう|[[tidal wave]]}}
+* {{ja-r|海上|かいじょう|on the [[sea]], [[marine]], [[maritime]]}}
+* {{ja-r|海王星|^かいおうせい|[[Neptune]]}}
+* {{ja-r|海神|かいじん|[[sea]] [[god]]/[[spirit]]}}
+* {{ja-r|海図|かいず|[[sea]] [[chart]], [[water]] [[map]]}}
+* {{ja-r|海水|かいすい|[[seawater]]}}
+* {{ja-r|海鮮|かいせん|[[seafood]]}}
+* {{ja-r|海戦|かいせん|[[naval]] [[battle]]}}
+* {{ja-r|海草|かいそう|[[seagrass]]}}
+* {{ja-r|海藻|かいそう|[[seaweed]]}}
+* {{ja-r|海賊|かいぞく|[[pirate]]}}
+* {{ja-r|海中|かいちゅう}}
+* {{ja-r|海底|かいてい|[[seabed]]}}
 * {{ja-r|海藤|かいどう}}
+* {{ja-r|海難|かいなん|[[marine]]}}
+* {{ja-r|海馬|かいば|[[sea lion]]}}
+* {{ja-r|海抜|かいばつ|[[above]] [[sea level]]}}
+* {{ja-r|海錨|かいびょう|[[sea anchor]]}}
+* {{ja-r|海辺|かいへん|[[seaside]]}}
+* {{ja-r|海洋|かいよう|[[marine]]}}
+* {{ja-r|海流|かいりゅう|[[sea]] [[current]], [[ocean]] [[trend]]}}
+* {{ja-r|海豹|アザラシ}}
+* {{ja-r|海驢|アシカ}}
+* {{ja-r|熱海|^あたみ}}
+* {{ja-r|海人|あま|rom=-}}, {{ja-r|海士|あま|rom=-}}, {{ja-r|海女|あま|[[diver]]}}
+* {{ja-r|海参|いりこ|rom=-}}, {{ja-r|煎海鼠|いりこ}}
+* {{ja-r|海豚|イルカ|[[dolphin]]}}
+* {{ja-r|海胆|ウニ}}
+* {{ja-r|海老|エビ|[[shrimp]], [[prawn]], [[lobster]]}}
+* {{ja-r|淡海|おうみ}}
+* {{ja-r|海髪|オゴ}}, {{ja-r|海髪|オゴノリ}}
+* {{ja-r|海月|クラゲ|[[jellyfish]]}}
+* {{ja-r|海鼠腸|このわた}}
+* {{ja-r|海象|セイウチ|rom=-}}, {{ja-r|海馬|セイウチ}}
+* {{ja-r|海鼠|ナマコ}}
+* {{ja-r|海苔|ノリ|[[nori]]}}
+* {{ja-r|海底|ハイテイ}}, {{ja-r|海底 摸月|ハイテイ ラオユエ}}
+* {{ja-r|海星|ヒトデ|rom=-}}, {{ja-r|海盤車|ヒトデ|[[starfish]]}}
+* {{ja-r|海蘿|フノリ}}
+* {{ja-r|海鞘|ホヤ|[[sea squirt]]}}
+* {{ja-r|海松|ミル}}
+* {{ja-r|海雲|モズク|rom=-}}, {{ja-r|海蘊|モズク}}
+* {{ja-r|海人草|マクリ|rom=-}}, {{ja-r|海仁草|マクリ}}
+* {{ja-r|天空 海闊|てんくう かいかつ}}
 {{der-bottom}}
 
 ===Etymology 1===
+<div style="float:right">
+{{wp|lang=ja}}
+{{wp|Sea}}
+{{wp|Ocean}}
+</div>
 {{ja-kanjitab|yomi=k|うみ}}
-From {{etyl|ojp|ja|sort=うみ}}: {{ja-compound|大|う|水|み|t1=big|t2=water|nocat=1}}. 大 can also be read as {{ja-l|おほ}} (modern {{ja-l|おお}}), forming {{ja-r|大%水|おほ%み}} {{rfv-etymology|ja}}.
+{{IPAfont|⟨umi<sub>1</sub>⟩}} → *{{IPAchar|/umij/}} → {{IPAchar|/umi/}}
 
-May also derive from a compound of {{m|ja|う|tr=u|pos=stem indicating “ocean”; compare {{m|ja|魚|tr=uo||fish}}, {{m|ja|潮|tr=ushio||salt water}}}} + {{m|ja|水|tr=mi||water}}.
+From {{inh|ja|ojp|sort=うみ|-}}. 
+
+Appears to be derived from a compound; there are two leading theories regarding the ultimate derivation:
+* Shift from {{m|ja|大|tr=ō-||[[big]], [[great]]}} + {{m|ja|水|tr=mi||[[water]]|pos=combining form}}.<ref>{{R:Nipponica|https://kotobank.jp/word/海-441456#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29}}</ref> This is problematic phonetically because there is no known term having a related shift from {{IPAchar|/opo/}} → {{IPAchar|/oː/}} → {{IPAchar|/o/}} → {{IPAchar|/u/}}, and semantically as there already exists a compound {{m|ja|大水|tr=ōmizu||[[flood]]}}.
+* From {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|水|tr=mi||water|pos=combining form}}. The ''u-'' stem is evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}
+
+The second derivation appears to be likely.
 
 ====Pronunciation====
 * {{ja-pron|yomi=k|うみ|acc=1|acc_ref=NHK,DJR}}
@@ -144,58 +170,75 @@ May also derive from a compound of {{m|ja|う|tr=u|pos=stem indicating “ocean�
 ====Noun====
 {{ja-noun|うみ}}
 
-# [[sea]], [[ocean]]
-#:{{ja-usex|'''海'''の神、タッサ|'''^うみ''' の ^かみ、^タッサ|Thassa, Goddess of the Sea}}
+# a [[sea]], an [[ocean]]
 #*{{quote-book|||Vol.1
-|||{{ja-usex|偉%大な海の王。終わることのない大%津%波を呼び、敵をのみこむ。|い%だい な '''うみ''' の おう。おわる こと の ない おお%つ%なみ を よび、てき を のみこむ。|The great king of the sea who calls on endless giant tidal waves to engulf his enemies.}}
+|||{{ja-usex|偉%大な海の王。終わることのない大%津%波を呼び、敵をのみこむ。|い%だい な '''うみ''' の おう。おわる こと の ない おお%つ%なみ を よび、てき を のみこむ。|The great king of the '''sea''' who calls on endless giant tidal waves to engulf his enemies.|sort=うみ}}
 |date=Feb 4 1999
 |publisher={{w|Konami}}
 |language=Japanese
 |chapter={{lj|[怒](いか)りの[海](かい)[王](おう)}}
 |trans-chapter=Furious Sea King}}
 #*{{quote-book|||BOOSTER 7
-|||{{ja-usex|'''海'''を守る、緑のウロコに身を包むリザードマンの戦%士。|'''うみ''' を まもる、みどり の ウロコ に み を つつむ リザードマン の せん%し。|A sea-guarding lizardman warrior covered in green scales.}}
+|||{{ja-usex|'''海'''を守る、緑のウロコに身を包むリザードマンの戦%士。|'''うみ''' を まもる、みどり の ウロコ に み を つつむ リザードマン の せん%し。|A '''sea'''-guarding lizardman warrior covered in green scales.|sort=うみ}}
 |date=Mar 1 2000
 |publisher={{w|Konami}}
 |language=Japanese
 |chapter={{lj|ナイト・リザード}}
 |trans-chapter=Night Lizard}}
+#: {{ja-usex|'''海'''の神、タッサ|'''^うみ''' の ^かみ、^タッサ|Thassa, Goddess of the Sea|sort=うみ}}
+#: {{antonyms|ja|陸|tr=riku}}
+# a [[lake]]
+#: {{synonyms|ja|湖|tr=mizuumi}}
+# {{lb|ja|sort=うみ|figurative}} an [[object]] [[cover]]ing over a [[large]] [[area]], as in {{m|ja|血の海|tr=chi no umi||pool of [[blood]]}} or {{m|ja|火の海|tr=hi no umi||sea of [[fire]]}}
+# {{lb|ja|sort=うみ|planetology}} a [[mare]] {{gloss|[[dark]] [[surface]] of a [[celestial]] [[body]], thought to appear like a sea}}
+# {{lb|ja|sort=うみ|calligraphy}} in a {{m|ja|硯|tr=suzuri||[[inkstone]]}}, a [[reservoir]] where [[water]] is [[store]]d 
+#: {{synonyms|ja|池|tr=ike}}
 
 =====Usage notes=====
-This is the most common general term in modern Japanese for {{m|en|sea}} or {{m|en|ocean}}.
+This is the most common general term in modern Japanese for ''{{m|en|sea}}'' or ''{{m|en|ocean}}''.
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|海路|うなじ}}: sea route
-* {{ja-r|海辺|うみべ}}: beach, seashore
-* {{ja-r|海鳥|うみどり}}: sea bird
-* {{ja-r|海原|うなばら}}: ocean, sea
-* {{ja-r|海草|うみぐさ}}: seaweed
-* {{ja-r|大海|おおうみ}}: ocean, large sea
-* {{ja-r|海風|うみかぜ}}: sea breeze
-* {{ja-r|荒海|あらうみ}}: rough sea
-* {{ja-r|海山|うみやま}}: sea and mountains
-* {{ja-r|血の海|ちのうみ}}: pool of blood
-* {{ja-r|海亀|うみがめ}}: sea turtle
-{{der-mid}}
-* {{ja-r|海の幸|うみのさち}}: seafood
-* {{ja-r|海沿い|うみぞい}}: coastlands
-* {{ja-r|海狸|うみだぬき}}: beaver
-* {{ja-r|海鳴り|うみなり}}: rumbling of the sea
-* {{ja-r|海綿|うみわた}}: sponge
-* {{ja-r|鰻|うなぎ}}: eel
-* {{ja-r|青海原|あおうなばら}}; blue sea
-* {{ja-r|入海|いりうみ}}; bay, inlet, gulf, creek
-* {{ja-r|外海|そとうみ}}; open seas
-* {{ja-r|泥海|どろうみ}}; muddy sea
-* {{ja-r|海牛|うみうし}}; sea slug
+<!--* {{ja-r|鰻|うなぎ|[[eel]]}}-->
+* {{ja-r|海上|うなかみ}}
+* {{ja-r|海境|うなさか}}
+* {{ja-r|海%路|うな%じ}}
+* {{ja-r|海原|うなばら|[[great]] [[ocean]]}}
+* {{ja-r|海牛|うみうし|[[sea slug]]}}
+* {{ja-r|海風|うみかぜ|sea [[breeze]]}}
+* {{ja-r|海亀|うみがめ|[[sea turtle]]}}
+* {{ja-r|海草|うみぐさ|[[seaweed]]}}
+* {{ja-r|海幸|うみさち}}, {{ja-r|海の幸|うみ の さち|[[seafood]]}}
+* {{ja-r|海%沿い|うみ%ぞい|[[coastland]]s}}
+* {{ja-r|海%狸|うみ%だぬき|[[beaver]]}}
+* {{ja-r|海鳥|うみどり|sea [[bird]]}}
+* {{ja-r|海鳴り|うみなり|[[rumble|rumbling]] of the sea}}
+* {{ja-r|海%辺|うみ%べ|[[beach]], [[seashore]]}}
+* {{ja-r|海山|うみやま|sea and [[mountain]]s}}
+* {{ja-r|海綿|うみわた|[[sea sponge]]}}
+* {{ja-r|荒海|あらうみ|[[rough]] sea}}
+* {{ja-r|淡海|あわうみ}}
+* {{ja-r|入海|いりうみ|[[bay]], [[inlet]], [[gulf]], [[creek]]}}
+* {{ja-r|大海|おおうみ|ocean, large sea}}
+* {{ja-r|外海|そとうみ|[[open sea]]s}}
+* {{ja-r|血の海|ち の うみ|[[pool]] of [[blood]]}}
+* {{ja-r|泥海|どろ.うみ|[[mud]]dy sea}}
+* {{ja-r|鳰の海|^にお-の-うみ}}
 {{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|海を渡る|うみ を わたる|cross over the ocean → go to a foreign country}}
+
+====Proper noun====
+{{ja-pos|proper|うみ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=うみ}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|わた}}
-From {{etyl|ojp|ja|sort=わた}}.
+From {{inh|ja|ojp|sort=わた|-}}.
 
-May be related to {{cog|zkg|波旦|tr=padan}}. Possibly cognate with {{cog|ko|바다||ocean, sea}}.
+May be related to {{cog|zkg|波旦|tr=padan}}. Possibly cognate with {{cog|ko|바다||[[ocean]], [[sea]]}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|わた}}
@@ -207,13 +250,17 @@ May be related to {{cog|zkg|波旦|tr=padan}}. Possibly cognate with {{cog|ko|�
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|海神|わたつみ}}: sea god
-* {{ja-r|海主|わたぬし}}: sea master, sea god
+* {{ja-r|海%神|わた つ% み|rom=-}}, {{ja-r|綿 津 見|わた つ み|sea [[god]]}}
+* {{ja-r|海中|わたなか}}
+* {{ja-r|海主|わたぬし|sea [[master]], sea god}}
+* {{ja-r|海の神|わた の かみ}}
+* {{ja-r|海の底|わた の そこ|pos=pillow word}}
+* {{ja-r|海の原|わた の はら}}
 {{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|み}}
-Either cognate with {{m|ja|水|tr=mi||water}}, or an abbreviation of ''umi'' above.
+Either cognate with {{m|ja|水|tr=mi||[[water]]}}, or an abbreviation of ''umi'' above.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|み}}
@@ -225,7 +272,7 @@ Either cognate with {{m|ja|水|tr=mi||water}}, or an abbreviation of ''umi'' abo
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|温海|あつみ}}: warm sea
+* {{ja-r|温海|^あつみ}}
 {{der-bottom}}
 
 ===References===
