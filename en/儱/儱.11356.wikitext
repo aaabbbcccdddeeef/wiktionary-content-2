@@ -13,6 +13,9 @@
 ----
 
 ==Chinese==
+<!-- original ety 1, now etys 1 and 3 -->
+{{attention|nan|supposedly <láng> with the 華語 translation of 儱? Iunn Un-gian}}
+{{attention|nan|also appears in 甘字典查詢 as <lóng>}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -22,23 +25,17 @@
 
 ====Pronunciation====
 {{zh-pron
-|m=lóng
+|m=lǒng
 |c=lung5
-|mc=
-|oc=
+|mc=1
+|oc=1
 |cat=
 }}
-{{attention|nan|supposedly <láng> with the 華語 translation of 儱? Iunn Un-gian}}
-{{attention|nan|also appears in 甘字典查詢 as <lóng>}}
-{{attn|ltc}}{{attn|och|Middle+Old Chinese needs to be distributed}}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
-
-====Compounds====
-{{zh-der|儱倲|儱侗}}
+# {{zh-only|儱侗}}
 
 ===Etymology 2===
 {{zh-forms|s=𫢒}}
@@ -47,18 +44,29 @@
 {{zh-pron
 |m=lòng
 |c=lung5
-|mc=
-|oc=
+|mc=2
+|oc=2
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-only|儱偅}}
 
-====Compounds====
-{{zh-der|儱偅}}
+===Etymology 3===
+{{zh-forms|s=𫢒}}
+
+====Pronunciation====
+{{zh-pron
+|m=lóng
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|儱倲}}
 
 ===References===
 * {{R:twedu|B00192}}
