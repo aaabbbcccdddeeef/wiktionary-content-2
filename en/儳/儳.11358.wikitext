@@ -4,11 +4,6 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=17|sn=19|four=27213|canj=ONRI|ids=⿰亻毚}}
 
-# [[obstinate]]
-# [[stupid]]
-# [[uneven]]
-# [[mix]]
-
 ====References====
 * {{Han ref|kx=0121.260|dkj=01296|dj=0256.120|hdz=10237.100|uh=5133|ud=20787|bh=C35F|bd=50015}}
 
@@ -20,23 +15,42 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=chàn
-|c=caam4,caam3,zaam6
-|mc=y
-|oc=y
-|cat=
+|m=chán
+|c=caam4
+|mc=1
+|oc=1
+|cat=a
 }}
-{{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|literary}} [[disorderly]]
+# {{†}} [[ugly]]
+# {{†}} {{zh-alt-form|攙|to [[support]] by the [[arm]]}}
 
 ====Compounds====
-{{zh-der|儳言|儳道}}
+{{zh-der|儖儳|儳亂|儳互|儳儳:chánchán|儳巖|輕儳|鼓儳}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=chàn
+|c=caam3,zaam6
+|mc=2+3
+|oc=2+3
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[insert]]
+# {{†}} {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|儳言|儳道|儳儳:chànchàn|儳和|儳婦|儳焉|儳然|儳羼|儳路}}
 
 ===References===
 * {{R:twedu|B00195}}
