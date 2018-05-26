@@ -76,14 +76,17 @@
 # {{defn|lang=ja|sort=彳06}}
 
 ====Readings====
-* {{ja-readings|on=[[こん]] (kon)|kun=[[もとる]] (motoru)}}
+{{ja-readings
+|goon=ごん
+|kanon=こん
+|kun=もと-る}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=흔|eumhun=|rv=heun|mr=hŭn|y=hun}}
+{{ko-hanja|hangeul=흔|eumhun=}}
 
 # {{defn|lang=ko|sort=彳06}}
 
@@ -92,8 +95,6 @@
 ==Vietnamese==
 
 ===Han character===
-'''很''' ([[ngận]], [[hẩn]])
+{{vi-hantu|[[ngận]], [[hẩn]]|rs=彳06}}
 
 # {{defn|lang=vi}}
-
-{{cln|vi|Han tu}}
