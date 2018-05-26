@@ -34,21 +34,76 @@ Found also in {{w|Chinese calligraphy|calligraphic}} works of {{w|Yan Zhenqing|�
 ===Kanji===
 {{ja-kanji|grade=8|rs=日06}} <!-- Not a shinjitai character. Both 晉 and 晋 are present in the Kangxi dictionary -->
 
-# to [[proceed]]
+# [[proceed]]
+# [[Jin]]
 
 ====Readings====
 {{ja-readings
-|on=しん
-|kun=すす-む
-|nanori=くに, すすみ, すすむ, のぶ, ゆき
+|goon=しん
+|kanon=しん
+|kun=すす-む, すすむしん-
+|nanori=くに, すすみ, のぶ, ゆき
 }}
 
-===Proper noun===
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|晋翁%忌|^しんおう%き}}
+* {{ja-r|晋山|しんざん}}
+* {{ja-r|晋子%忌|^しんし%き}}
+* {{ja-r|晋書|^しんじょ}}
+* {{ja-r|晋朝|しん-ちょう}}
+* {{ja-r|後晋|^こうしん}}, {{ja-r|後晋|^ごしん}}
+* {{ja-r|三晋|^さんしん}}
+* {{ja-r|西晋|^せいしん}}
+* {{ja-r|東晋|^とうしん}}
+{{der-bottom}}
+
+===Etymology 1===
+{{wp|lang=ja}}
+{{ja-kanjitab|しん|yomi=o}}
+{{IPAfont|*/t͡sin/}} → {{IPAchar|/siɴ/}} → {{IPAchar|/ɕiɴ/}}
+
+From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|晉}}.
+
+====Proper noun====
+{{ja-pos|proper|しん}}
+
+# {{lb|ja|historical|sort=しん}} the [[Chinese]] [[state]] of {{w|Jin (Chinese state)|Jin}} (''c.'' 11th century–376 {{BCE}}) during the {{w|Zhou dynasty}}
+# {{lb|ja|historical}} the {{w|Jin dynasty}} (266–420 {{CE}})
+## the {{m|ja|西晋|tr=Seishin||{{w|ja:西晋|Western Jin}}|pos=266–316 {{CE}}}}
+## the {{m|ja|東晋|tr=Tōshin||{{w|ja:東晋|Eastern Jin}}|pos=317–420 {{CE}}}}
+#: {{synonyms|ja|晋朝|tr=Jin-chō}}
+# {{lb|ja|historical}} the {{w|Later Jin (Five Dynasties)|Later Jin}} (936-947 {{CE}}), one of the {{w|Five Dynasties}}
+#: {{synonyms|ja|後晉|tr=Kōshin, Goshin}}
+# {{surname|lang=ja|A=a|nodot=1|sort=しん}}
+# {{given name|unisex|lang=ja|A=a|nodot=1|sort=しん}}
+
+===Etymology 2===
+{{ja-kanjitab|すすむしん|yomi=k}}
+
+Compound of {{m|ja|進む|tr=susumu||to [[proceed]]}} + {{m|ja|晋|tr=Shin||[[Jin]]}}.
+
+The {{ja-l||秦}} kanji itself has a ''{{ll|ja|訓読み|kun'yomi}}'' of ''susumu''.
+
+====Usage notes====
+This reading is used to distinguish from the ''{{l|ja|漢音|kan'on}}''-reading of {{m|ja|秦|tr=Shin||{{w|Qin dynasty}}}}, itself called {{m|ja|秦|tr=Hata-shin}}. The senses are the same for Etymology 1 above.
+
+===Etymology 3===
+{{ja-kanjitab|すすみ|yomi=k}}
+
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|進む|tr=susumu||to [[proceed]]}}.
+
+====Proper noun====
+{{ja-pos|proper|すすみ}}
+
+# {{given name|unisex|lang=ja|A=a|nodot=1|sort=すすみ}}
+
+===Etymology 4===
+{{ja-kanjitab|すすむ|yomi=k}}
+
+Nominalization of {{m|ja|進む|tr=susumu||to [[proceed]]}}.
+
+====Proper noun====
 {{ja-pos|proper|すすむ}}
 
-# {{given name|male|lang=ja}}.
-
-===Usage notes===
-Same as {{l|ja|晉}}, which is an older form of 晋. <!-- 晉 is not the kyūjitai form of 晋 -->
-
-[[Category:Japanese male given names|すすむ]]
+# {{given name|unisex|lang=ja|A=a|nodot=1|sort=すすむ}}
