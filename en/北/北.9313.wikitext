@@ -73,17 +73,55 @@ Compare the graphical origin of {{och-l|南|south}} ({{zh-ref|Sagart, 1988}}).
 {{ja-kanji|grade=2|rs=匕03}}
 
 # [[north]]
+# [[escape]], [[run away]]
 
 ====Readings====
 {{ja-readings
 |goon=ほく
 |kanon=ほく
 |toon=ぺ
-|kun=きた-, にげる-
+|kanyoon=ぺい
+|kun=きた-, に-げる
 }}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|北%緯|ほく%い}}
+* {{ja-r|北海|ほっかい}}, {{ja-r|北海|^ほっかい}}
+* {{ja-r|北%海道|^ほっ%かいどう}}
+* {{ja-r|北極|ほっきょく}}, {{ja-r|北極|^ほっきょく}}
+* {{ja-r|北国|ほっこく}}
+* {{ja-r|北上|ほくじょう}}
+* {{ja-r|北進|ほくしん}}
+* {{ja-r|北西|ほくせい}}
+* {{ja-r|北端|ほくたん}}
+* {{ja-r|北天|ほくてん}}
+* {{ja-r|北%斗|ほく%と}}
+* {{ja-r|北%斗 七星|^ほく%と ^しちせい|[[Big Dipper]]}}
+* {{ja-r|北%部|ほく%ぶ}}
+* {{ja-r|北風|ほくふう}}
+* {{ja-r|北面|ほくめん}}
+* {{ja-r|北洋|ほくよう}}, {{ja-r|北洋|^ほくよう}}
+* {{ja-r|北陸|^ほくりく}}
+* {{ja-r|北方|ほっぽう}}
+* {{ja-r|極北|きょくほく}}
+* {{ja-r|硯北|けんぼく}}
+* {{ja-r|朔北|さくほく}}
+* {{ja-r|東北|とうほく}}, {{ja-r|東北|^とうほく}}
+* {{ja-r|南北|なんぼく}}
+* {{ja-r|敗北|はいぼく|[[defeat]]}}
+* {{ja-r|北条|^ほうじょう}}
+* {{ja-r|台北|^タイペイ}}
+* {{ja-r|北%京|^ペ%キン}}
+* {{ja-r|北%叟笑む|ほく%そえむ}}
+{{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|きた|yomi=k}}
+
+From {{inh|ja|ojp|sort=きた|-}}.
+
+Ultimate derivation {{unk|nocap=1|sort=きた}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|きた|acc=0|dev=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
@@ -91,12 +129,27 @@ Compare the graphical origin of {{och-l|南|south}} ({{zh-ref|Sagart, 1988}}).
 ====Noun====
 {{ja-noun|きた}}
 
-# [[north]]
+# [[north]] {{gl|[[compass]] [[direction]]}}
+#: {{antonyms|ja|南|tr=minami}}
+# the [[North]] {{gl|[[northern]] [[part]] of a [[region]]}}
+# the [[north wind]]
+#: {{synonyms|ja|北風|tr=kitakaze, hokufū}}
+# a [[developed country]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|北%面|きた%-おもて}}
+* {{ja-r|北風|きたかぜ}}
+* {{ja-r|北国|きたぐに}}
+* {{ja-r|北 半球|^きた ^はんきゅう}}
+* {{ja-r|東%北|ひがし%-きた}}
+{{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|きた|proper}}
+{{ja-pos|proper|きた|キタ}}
 
-# {{surname|lang=ja|sort=きた}}
+# a ''[[place name]]''
+# {{surname|lang=ja|A=a|nodot=1|sort=きた}}
 
 ===References===
 <references/>
