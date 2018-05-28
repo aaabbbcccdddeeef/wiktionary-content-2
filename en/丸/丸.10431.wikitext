@@ -54,11 +54,10 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 ===Kanji===
 {{ja-kanji|grade=2|rs=丶02}}
 
-# [[ball]]; circular thing such as a bullet or pill
-# {{non-gloss definition|counter word for pills}}
-# being [[circular]]
-# make a thing [[circular]]
-# a whole thing
+# [[circle]]
+# [[round]]
+# [[whole]]
+# [[pill]]
 
 ====Readings====
 {{ja-readings
@@ -69,18 +68,7 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 }}
 
 ====Compounds====
-{{top2}}
-* [[一丸]]
-* [[黒丸]]
-* [[睾丸]]
-* [[銃丸]]
-* [[正露丸]], [[征露丸]]
-* [[弾丸]]
-* [[二重丸]]
-* [[砲丸]]
-* [[本丸]]
-* [[丸々]], [[丸丸]]
-* [[丸事]]
+{{der-top|Compounds}}
 * [[丸味]]
 * [[丸暗記]], [[丸諳記]]
 * [[丸一]]
@@ -96,7 +84,6 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 * [[丸鋸]]
 * [[丸型]], [[丸形]]
 * [[丸公]]
-{{mid2}}
 * [[丸鋼]]
 * [[丸腰]]
 * [[丸剤]]
@@ -104,10 +91,8 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 * [[丸首]]
 * [[丸十]]
 * [[丸傷]]
-* [[丸石]]
 * [[丸窓]]
 * [[丸損]]
-* [[丸太]]
 * [[丸帯]]
 * [[丸底]]
 * [[丸天井]]
@@ -123,9 +108,192 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 * [[丸裸]]
 * [[丸鑿]]
 * [[丸髷]]
-{{bottom}}
+* [[一丸]]
+* [[黒丸]]
+* [[睾丸]]
+* [[銃丸]]
+* [[正露丸]], [[征露丸]]
+* [[弾丸]]
+* [[二重丸]]
+* [[砲丸]]
+* [[本丸]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|まる|yomi=k}}
+{{IPAfont|⟨maro<sub>2</sub>⟩}} → *{{IPAchar|/marə/}} → {{IPAchar|/maru/}}
+
+Shift from {{inh|ja|ojp|-}} {{m|ja||丸|tr=maro|pos=see below}}.<ref name="DJR"/>
+
+====Alternative forms====
+* {{sense|round object, soft-shell turtle, wholeness}} {{ja-l|円}}
+
+====Pronunciation====
+{{ja-pron|y=k|まる|acc=0|acc_ref=DJR}}
+* Pitch accent for prefix unknown.
+
+====Noun====
+{{ja-noun|まる}}
+
+# ''any [[round]] [[object]]'':
+## a [[circle]]
+## a [[sphere]], [[ball]]
+## {{lb|ja|by extension}} ''any non-perfectly round objects, such as'' an [[oval]]
+## the "{{m|ja|○}}" [[symbol]], equivalent to a [[check mark]] in some other languages
+## {{lb|ja|by extension}} something [[correct]], [[good]], or [[right]]
+# {{lb|ja|colloquial|sort=まる}} [[money]]
+#: {{synonyms|ja|金銭|tr=kinsen}}
+# [[enclosure]] [[inside]] a [[castle]]'s [[wall]]s
+# {{lb|ja|colloquial|sort=まる}} the {{ja-l|。}} mark, or {{m|ja|句点|tr=kuten||[[full stop]], [[period]]}} 
+# {{lb|ja|colloquial|sort=まる}} the {{ja-l|゜}} mark, or {{m|ja|半濁点|tr=handakuten||semi-voicing mark}}
+# the [[circular]] [[outline]] of a Japanese [[crest]]
+# {{lb|ja|Kansai|sort=まる}} a [[soft-shell turtle]]
+#: {{synonyms|ja|鼈|tr=suppon}}
+# ''term relating to [[completeness]]'':
+## [[full]]ness, [[whole]]ness
+## [[meeting]] [[specific]] [[conditions]] 
+# ''a Japanese unit of weight'' 
+#: 1 ''maru'' is equal to 50 {{m|ja|斤|tr=kin}}, approximately 30 [[kilogram]]s
+# ''a Japanese unit of counting ''[[washi]]'' ''
+# a [[day]] where [[price]]s are [[double]]d in a [[red-light district]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|丸い|まるい}}
+* {{ja-r|丸かし|まるかし}}
+* {{ja-r|丸っこい|まるっこい}}
+* {{ja-r|丸で|まるで}}
+* {{ja-r|丸まる|まるまる|[[become]] [[rounded]]}}
+* {{ja-r|丸み|まるみ|[[roundness]]}}
+* {{ja-r|丸む|まるむ}}, {{ja-r|丸める|まるめる}}
+* {{ja-r|丸丸|まるまる|rom=-}}, {{ja-r|丸々|まるまる}}
+* {{ja-r|丸石|まるいし}}
+* {{ja-r|丸%刈り|まる%がり}}
+* {{ja-r|丸%太|まる%た}}
+* {{ja-r|丸の儘|まる の まま}}
+* {{ja-r|丸%彫り|まる%ぼり}}
+* {{ja-r|丸儲け|まるもうけ}}
+* {{ja-r|丸持|まるもち|rom=-}}, {{ja-r|丸%持ち|まる%もち}}
+* {{ja-r|木の丸殿|き の まるどの}}
+* {{ja-r|二の丸|に の まる|[[outer]] [[citadel]]}}
+* {{ja-r|日の丸|ひ の まる}}, {{ja-r|日の丸|^ひのまる}}
+* {{ja-r|真ん丸|まんまる|[[perfect]] [[circle]]}}
+{{der-bottom}}
+
+===Prefix===
+{{ja-pos|まる|prefix}}
+
+# [[whole]], [[complete]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|丸洗い|まる-あらい}}
+* {{ja-r|丸%写し|まる%-うつし}}
+* {{ja-r|丸覚え|まる-おぼえ}}
+* {{ja-r|丸抱え|まるがかえ}}
+* {{ja-r|丸%勝ち|まる%がち}}
+* {{ja-r|丸%切り|まる%きり}}, {{ja-r|丸っ切り|まるっきり}}
+* {{ja-r|丸ごと|まるごと}}
+* {{ja-r|丸%出し|まる%だし}}
+* {{ja-r|丸潰れ|まるつぶれ}}
+* {{ja-r|丸%取り|まる%どり}}
+* {{ja-r|丸%呑み|まる%のみ}}
+* {{ja-r|丸干|まるぼし|rom=-}}, {{ja-r|丸%干し|まる%ぼし}}
+* {{ja-r|丸%負け|まる%まけ}}
+* {{ja-r|丸%見え|まる%みえ}}
+* {{ja-r|丸%焼き|まる%やき}}
+* {{ja-r|丸%焼け|まる%やけ}}
+{{der-bottom}}
+
+====Suffix====
+{{ja-pos|suffix|まる}}
+
+# ''suffix for [[ship]] [[names]]''
+
+===Proper noun===
+{{ja-pos|proper|まる}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=まる}}
+
+===Etymology 2===
+{{ja-kanjitab|まる|yomi=o}}
+
+====Suffix====
+{{ja-pos|suffix|まる}}
+
+# {{altspell|lang=ja|麻呂|tr=maru|nodot=1|sort=まる}}: ''attaches to [[name]]s of [[person]]s or [[object]]s expressing [[dearness]]
+
+====Pronoun====
+{{ja-pos|pronoun|まる}}
+
+# {{lb|ja|archaic|possibly|_|obsolete|sort=まる}} {{altspell|lang=ja|麻呂|tr=maru|nodot=1|sort=まる}}: ''first-person singular'', [[I]], [[me]]
+
+===Etymology 3===
+{{ja-kanjitab|まろ|yomi=o}}
+{{IPAfont|⟨maro<sub>2</sub>⟩}} → *{{IPAchar|/marə/}} → {{IPAchar|/maro/}}
+
+From {{inh|ja|ojp|sort=まろ|-}}. Appears to be the older form.
+
+====Adjective====
+{{ja-adj|infl=nari|まろ}}
+
+# [[round]]
+# [[plump]] and [[thick]]
+# [[all]], [[whole]]
+#: {{synonyms|ja|全部|tr=zenbu}}
+
+====Noun====
+{{ja-noun|まろ}}
+
+# a [[round]] [[object]]
+# [[all]], [[whole]]
+# [[coin]]s, [[money]]
+#: {{synonyms|ja|銭|tr=zeni}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|丸い|まろい}}
+* {{ja-r|丸かし|まろかし|rom=-}}, {{ja-r|塊|まろかし}}
+* {{ja-r|丸かす|まろかす}}
+* {{ja-r|丸かる|まろかる}}
+* {{ja-r|丸ぐ|まろぐ}}
+* {{ja-r|丸む|まろむ}}, {{ja-r|丸める|まろめる}}
+* {{ja-r|丸%寝|まろ%ね}}
+* {{ja-r|丸%臥し|まろ%ぶし}}
+* {{ja-r|丸%寄生|まろ%ほや}}
+* {{ja-r|丸虫|まろむし}}
+* {{ja-r|丸%屋|まろ%や}}
+* {{ja-r|木の丸殿|き の まろどの}}, {{ja-r|木の丸殿|こ の まろどの}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|まろ}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 4===
+{{ja-kanjitab|がん|yomi=o}}
+{{IPAchar|/ɡwan/}} → {{IPAchar|/ɡan/}}
+
+From {{bor|ja|ltc|sort=かん'|-}} {{ltc-l|丸}}.
+
+====Pronunciation====
+{{ja-pron|y=go|がん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|がん|hhira=ぐわん}}
+
+# a [[meatball]], [[fishball]]
+# a [[pill]]
+#: {{synonyms|ja|丸薬|tr=gan'yaku}}
+
+===Proper noun===
+{{ja-pos|proper|がん|hhira=ぐわん}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
 
 ===References===
+<references/>
 {{ja-kref
 |ku=2061
 |shift=8ADB
@@ -140,63 +308,6 @@ Unrelated to the right component of characters like {{zh-l|*執}} and {{zh-l|*�
 |heisig=44
 |tuttle=0a3.28
 }}
-
-====Related terms====
-* {{l|ja|丸で}} ([[まるで]], [[marude]])
-* {{l|ja|丸っこい}}
-* {{l|ja|丸まる}}
-* {{l|ja|丸み}}
-* {{l|ja|丸刈り}}
-* {{l|ja|丸々と}}, {{l|ja|丸丸と}}
-* {{l|ja|丸持ち}}
-* {{l|ja|丸焼き}}
-* {{l|ja|丸切り}}
-* {{l|ja|丸彫り}}
-* {{l|ja|丸儲け}}
-
-===Noun===
-{{ja-noun|まる}}
-
-# [[circle]]
-# {{lb|ja|colloquial|sort=まる}} [[半濁点]], a semi-voicing mark
-
-====Alternative forms====
-* {{l|ja|円}}
-* {{l|ja|○}}
-
-====Derived terms====
-* {{l|ja|日の丸}}
-* {{l|ja|真ん丸}}
-* {{l|ja|二の丸}}
-* {{l|ja|丸の侭}}
-* {{l|ja|丸い|tr=[[まるい]], [[marui]]|sc=Jpan}}
-
-===Prefix===
-{{ja-pos|まる|prefix}}
-
-# [[whole]], [[complete]]
-
-====Derived terms====
-* {{l|ja|丸っきり}}, {{l|ja|丸っ切り}}
-* {{l|ja|丸ごと}}
-* {{l|ja|丸覚え}}
-* {{l|ja|丸干し}}
-* {{l|ja|丸見え}}
-* {{l|ja|丸写し}}
-* {{l|ja|丸取り}}
-* {{l|ja|丸出し}}
-* {{l|ja|丸勝ち}}
-* {{l|ja|丸焼け}}
-* {{l|ja|丸洗い}}
-* {{l|ja|丸潰れ}}
-* {{l|ja|丸呑み}}
-* {{l|ja|丸負け}}
-* {{l|ja|丸抱え}}
-
-===Suffix===
-{{ja-pos|まる|suffix}}
-
-# {{non-gloss definition|suffix for ship names}}
 
 ----
 
