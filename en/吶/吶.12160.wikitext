@@ -13,35 +13,67 @@
 ==Chinese==
 {{zh-forms|s=呐}}
 
-===Pronunciation===
-{{zh-pron
-|m=nà,na,ne
-|ma=zh-na.ogg
-|c=naap6,neot6,nat6
-|h=pfs=na
-|md=
-|mn=ml:la̍p/tw:nah
-|mn_note=nah - 凹 is used in the Mainland
-|w=5neq
-|mc=y
-|oc=y
-|cat=v,part
-}}
+===Etymology 1===
 
-===Definitions===
+====Pronunciation====
+{{zh-pron
+|m=nà
+|c=naap6
+|h=pfs=
+|md=
+|mn=ml:la̍p
+|w=5neq
+|ma=zh-na.ogg
+|cat=v
+}}
+{{attn|zh|Hakka na?}}
+
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary}} to [[stammer]]
-#: {{zh-l|吶吶|to [[stammer]]}}
-# {{lb|zh|literary}} to [[shout]]
-#: {{zh-l|吶喊|to [[shout]]}}
-# {{lb|zh|literary}} see {{zh-l|呢}}
+# to [[shout]]
+#: {{zh-x|吶喊|to [[shout]]}}
 
-===Compounds===
-{{zh-der|嗩吶}}
+====Compounds====
+{{zh-der|吶喊|嗩吶|搖旗吶喊|聲吶}}
 
-===See also===
-* {{zh-l|訥}}
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=nè,nà
+|c=neot6,nat6
+|oc=y,n
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} {{zh-alt-form|訥|to [[stammer]]}}
+#: {{zh-x|吶{nè}吶{nè}|to [[stammer]]}}
+
+===Etymology 3===
+{{zh-see|哪|v|sentence-final particle}}
+
+===Etymology 4===
+{{zh-see|呢|v|sentence-final particle}}
+
+===Etymology 5===
+
+====Pronunciation====
+{{zh-pron
+|m=nuò
+|mc=y
+|oc=n,y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|嗗吶}}
 
 {{zh-cat|Beginning}}
 
