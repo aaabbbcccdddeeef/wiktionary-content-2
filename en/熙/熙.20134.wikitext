@@ -1,19 +1,24 @@
-{{also|煕|熈|焈|凞}}
+{{also|煕|熈|𤋮|凞|焈}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=86|rad=火|as=10|sn=14|four=77331|canj=SUF,XSUF|ids=⿱巸灬}}
 
-# [[bright]], [[splendid]], [[glorious]]
+====Derived characters====
+* {{l|mul|[[𠘕]], [[𡁱]], [[㜯]], [[𤀠]], [[𤐤]], [[𩟄]], [[𬞭]], [[𭙼]]}}
+
+====Related characters====
+* {{l|mul|[[煕]]}} ''(Orthodox form in {{w|Kangxi dictionary}})''
+* {{l|mul|[[熈]], [[𤋮]], [[凞]], [[焈]]}} ''({{w|Variant Chinese character|Variant forms}})''
 
 ====References====
-* {{Han ref|kx=0678.161|hdz=32226.060|uh=7199|ud=29081|bh=BAB3|bd=47795}}
+{{Han ref|kx=0678.161|hdz=32226.060|uh=7199}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=焈,熈,煕}}
+{{zh-forms|alt=焈,熈,煕,𤋮,凞}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -26,13 +31,13 @@
 |mn=hi
 |mc=y
 |oc=y
-|cat=
+|cat=a,v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[bright]], [[splendid]], [[glorious]]
+# [[bright]]; [[splendid]]; [[glorious]]
 #* {{zh-x|穆穆 文 王、於 緝 '''熙''' 敬 止|Profound was king Wen; Oh! continuous and '''bright''' was his feeling of reverence}}
 
 ===Pronunciation 2===
@@ -41,7 +46,7 @@
 |c=
 |mc=
 |oc=
-|cat=
+|cat=pn
 }}
 
 ====Definitions====
@@ -59,7 +64,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=火10}}
 
-# [[shine]]
+# [[bright]]; [[prosperous]]; [[merry]]
 
 ====Readings====
 {{ja-readings
@@ -80,3 +85,15 @@
 {{ko-hanja|hangeul=희|eumhun=|rv=hui|mr=hŭi|y=huy}}
 
 # {{defn|lang=ko|sort=火10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=火10|[[hây]], [[hy]], [[hi]]}}
+
+# {{defn|lang=vi|sort=火10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7199 Nom Foundation]
