@@ -1,14 +1,30 @@
+{{also|熙|煕|熈}}
 {{character info/new}}
 {{character info/new|0xfa15}}
 ==Translingual==
+{{CJKV-forms|凞|凞|凞|凞}}
+
+===Alternative forms===
+* In mainland China and Japan, the character is composed of {{l|mul|冫}} and {{l|mul|熈}} as the right and left components.
+* In Taiwan and Hong Kong, only the upper left component consists of {{l|mul|冫}} while the bottom consists entirely of {{l|mul|灬}}.
+* In Korea, the middle component {{l|mul|丿}} is missing and {{l|mul|巳}} is replaced by {{l|mul|㔾}}. <!-- Refer Unicode charts, version 10.0 (2017) -->
+* A CJK compatibility ideograph exists at <code>U+FA15</code> which is similar to the Korean form except {{l|mul|㔾}} is replaced by {{l|mul|巳}}.
 
 ===Han character===
-{{Han char|rn=15|rad=冫|as=14|sn=16|four=37331|canj=IMLSF|ids=⿰冫熈 <small>(GJ)</small>,⿱⿰冫⿲丿臣巳灬 <small>(T)</small>,⿱⿰冫巸灬 <small>(K)</small>}}
+{{Han char|rn=15|rad=冫|as=14|sn=16|four=37331|canj=IMLSF|ids=⿰冫熈(GJ),⿱⿰冫⿲丿臣巳灬(HT),⿱⿲冫臣㔾灬(K),⿱⿲冫臣巳灬(<code>U+FA15</code>)}}
 
-# [[bright]], [[splendid]], [[glorious]]
+====Related characters====
+* {{l|mul|[[熙]]}} ''(Preferred form in modern Chinese)''
+* {{l|mul|[[煕]]}} ''(Orthodox form in {{w|Kangxi dictionary}})''
 
 ====References====
-* {{Han ref|kx=0133.460|dkj=01721|dj=0298.280|hdz=10301.160|uh=51DE|ud=20958|bh=E8F9|bd=59641}}
+{{Han ref|kx=0133.460|dkj=01721|dj=0298.280|hdz=10301.160|uh=51DE}}
+{{Han ref|uh=FA15}}
+
+----
+
+==Chinese==
+{{zh-see|熙|hv}} <!-- Refer 《篇海類篇》 and 《字彙補》 -->
 
 ----
 
@@ -32,10 +48,3 @@
 # {{defn|lang=ko|sort=冫14}}
 
 ----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[xī]] ([[xi1]])|wg=hsi<sup>1</sup>}}
-
-# {{defn|lang=cmn|sort=冫14}}
