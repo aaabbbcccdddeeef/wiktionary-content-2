@@ -80,7 +80,7 @@ As part of the surname {{l|ja|万俟}}:
 }}
 
 ====Compounds====
-{{top4}}
+{{der-top|Compounds}}
 * {{ja-r|万一|まんいち}}: [[perhaps]]
 * {{ja-r|万引|まんびき}}: [[shoplifting]]
 * {{ja-r|万屋|よろずや}}: general [[merchant]]
@@ -88,7 +88,6 @@ As part of the surname {{l|ja|万俟}}:
 * {{ja-r|万感|ばんかん}}: flood of [[emotion|emotions]]
 * {{ja-r|万機|まんき}}: state affairs
 * {{ja-r|万芸|ばんげい}}: [[versatility]]
-{{mid4}}
 * {{ja-r|万古|ばんこ}}: [[old time]], all this [[time]], [[eternity]]
 * {{ja-r|万劫|ばんごう}}: an extremely long period of time
 * {{ja-r|万才|まんさい}}: [[ten thousand]] years old
@@ -96,15 +95,13 @@ As part of the surname {{l|ja|万俟}}:
 * {{ja-r|万死|ばんし}}: critical state of the life
 * {{ja-r|万寿|ばんじゅ}}, {{ja-r|万寿|まんじゅ}}: [[longevity]]
 * {{ja-r|万丈|ばんじょう}}: [[hurrah]]
-{{mid4}}
 * {{ja-r|万乗|ばんじょう}}: [[sovereignty]]
 * {{ja-r|万状|ばんじょう}}: [[diversification]]
 * {{ja-r|万善|まんぜん}}: [[ten thousand]] [[virtue|virtues]], {{ja-r|万全|まんぜん}}: [[perfect]]
 * {{ja-r|万灯|まんどう}}: [[ten thousand]] lights
 * {{ja-r|万博|ばんぱく}}: [[international]] [[exposition]]
 * {{ja-r|万歩計|まんぽけい}}: [[pedometer]]
-* {{ja-r|万万|ばんばん}}: [[very much ]]
-{{mid4}}
+* {{ja-r|万万|ばんばん}}: [[very much]]
 * {{ja-r|万民|ばんみん}}: [[all]] the [[people]], the [[entire]] [[nation]]
 * {{ja-r|万有|ばんゆう}}
 * {{ja-r|万葉仮名|まんようがな}}
@@ -112,28 +109,65 @@ As part of the surname {{l|ja|万俟}}:
 * {{ja-r|万力|まんりき}}
 * {{ja-r|万斛|ばんこく}}
 * {{ja-r|万軍|ばんぐん}}
-{{bottom}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=o|まん}}
+
+From {{bor|ja|ltc|sort=まん|-}} {{ltc-l|万}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyo|まん|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
 {{ja-noun|kyu=萬|まん}}
 
 # [[ten thousand]], 10,000
 
-===Noun===
+=====Derived terms=====
+* {{ja-r|万が一|まんがいち}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ばん}}
+
+From {{bor|ja|ltc|sort=はん'|-}} {{ltc-l|万}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kan|ばん|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Adverb====
+{{ja-pos|adverb|kyu=萬|ばん}}
+
+# {{qualifier|followed by a negative}} [[even if]], [[never]]
+# {{qualifier|followed by a negative}} [[no matter what]]
+
+====Prefix====
+{{ja-pos|prefix|kyu=萬|ばん}}
+
+# [[many]]
+# [[all]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|よろず}}
+
+{{IPAfont|⟨yo<sub>2</sub>ro<sub>2</sub>du⟩}} → {{IPAchar|/yorodu/}} → {{IPAchar|/yorod͡zu/}} → {{IPAchar|/yorozu/}}
+
+From {{inh|ja|ojp|sort=よろず|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Found in the oldest sources, such as the ''{{w|Man'yōshū}}'' (c. 759 CE).<ref>{{RQ:Manyoshu|20|4408}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4408 here]</ref>
+
+Appears to be a compound or inflection, but the derivation is unclear.
+
+====Pronunciation====
+{{ja-pron|yomi=k|よろず|acc=1|acc_ref=DJR,NHK,SMK5|acc2=0|acc2_ref=DJR,NHK,SMK5}}
+
+====Noun====
 {{ja-noun|kyu=萬|よろず|hhira=よろづ}}
 
 # [[ten thousand]]
 # a large number
 # [[all]], [[everything]]
 
-====Derived terms====
-* {{ja-r|万が一|まんがいち}}
-
-===Prefix===
-{{ja-pos|kyu=萬|ばん|prefix}}
-
-# [[many]]
-# [[all]]
+===References===
+<references/>
 
 [[Category:Japanese basic words|まん]]
 [[Category:Japanese numeral symbols|10000]]
