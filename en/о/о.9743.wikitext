@@ -158,10 +158,6 @@ From {{inh|cu|sla-pro|*o(b)}}, from {{etyl|ine-pro|cu}} {{m|ine-pro|*h₃ebʰi}}
 ===Etymology 3===
 From {{inh|ru|sla-pro|*o(b)}}, from {{inh|ru|ine-pro|*h₃ebʰi}}.
 
-====Alternative forms====
-* {{l|ru|об}} {{qualifier|before vowels and in some other cases}}
-* {{l|ru|обо}} {{qualifier|before some words such as ''мне'' or ''все''}}
-
 ====Pronunciation====
 * {{audio|Ru-о.ogg|Audio (stressed)|lang=ru}}
 * {{qualifier|stressed}} {{ru-IPA}}
@@ -171,9 +167,9 @@ From {{inh|ru|sla-pro|*o(b)}}, from {{inh|ru|ine-pro|*h₃ebʰi}}.
 ====Preposition====
 {{head|ru|preposition}}
 
-# ''(+ [[prepositional case]])'': [[about]], [[of]], [[on]]
+# (+ [[prepositional case]]) [[about]], [[of]], [[on]]
 #: {{uxi|ru|[[я|Я]] [[читать|чита́л]] о [[он|нём]]|I’ve read about him.}}
-# ''(+ [[accusative case]])'': [[against]], [[upon]]
+# (+ [[accusative case]]) [[against]], [[upon]]
 #: {{uxi|ru|[[опира́ться]] о [[стена|сте́ну]]|to lean against the wall}}
 
 ====Pronunciation and usage notes====
@@ -182,6 +178,10 @@ The ''о'' form is unstressed except in the idiom [[бок о бок|бок о́
 The form ''о'' is usually used before consonants. In some cases before consonants the form ''обо'' is used. Before an iotated vowel and before the pronoun ''их'' the forms ''об'' and ''o'' are used interchangeably.
 
 Instead of ''его'', ''её'', the forms beginning with н- are used: ''о него'', ''о неё''.
+
+====Alternative forms====
+* {{l|ru|об}} {{qualifier|before vowels and in some other cases}}
+* {{l|ru|обо}} {{qualifier|before some words such as ''мне'' or ''все''}}
 
 {{topics|ru|Letter names|Cyrillic letter names|Latin letter names}}
 
@@ -193,9 +193,6 @@ Instead of ''его'', ''её'', the forms beginning with н- are used: ''о н�
 
 ===Etymology 1===
 
-====Alternative forms====
-* (''uppercase''): {{l|sh|О}}
-
 ====Pronunciation====
 * {{qualifier|phoneme}} {{IPA|/o/|lang=sh}}
 
@@ -204,6 +201,9 @@ Instead of ''его'', ''её'', the forms beginning with н- are used: ''о н�
 
 # The 18th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|њ|sc=Cyrl}} and followed by {{l|sh|п|sc=Cyrl}}.
 
+====Alternative forms====
+* {{l|sh|О}} {{qualifier|uppercase}}
+
 ===Etymology 2===
 From {{inh|sh|sla-pro|*o(b)}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₃ebʰi}}. See {{m|sh|sc=Cyrl|о-}}, {{m|sh|sc=Cyrl|об-}}.
 
@@ -211,13 +211,14 @@ From {{inh|sh|sla-pro|*o(b)}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₃ebʰi}}
 * {{IPA|/o/|lang=sh}}
 
 ====Preposition====
-{{sh-preposition}}
+{{sh-preposition|head=o}}
 
-# (''with accusative'') [[on]], [[against]]
-#: об(ј)есити нешто о куку — to hang something on a hook
-#: ударити главом о зид — to hit one's head against the wall
-#: огр(иј)ешити се о закон — to violate a law
-# (''with locative'') [[about]], [[concerning]]
-#: бринути се о некоме — to take care of somebody
-#: в(иј)ест о катастрофи — news about the catastrophe
-#: р(иј)еч је о..., ради се о.... — it's about..., this refers to...
+# {{qualifier|+ [[accusative case]]}} [[on]], [[against]]
+#: {{ux|sh|об(ј)есити нешто о куку|to hang something on a hook|inline=1}}
+#: {{ux|sh|ударити главом о зид|to hit one's head against the wall|inline=1}}
+#: {{ux|sh|огр(иј)ешити се о закон|to violate a law|inline=1}}
+# {{qualifier|+ [[locative case]]}} [[about]], [[concerning]]
+#: {{ux|sh|бринути се о некоме|to take care of somebody|inline=1}}
+#: {{ux|sh|в(иј)ест о катастрофи|news about the catastrophe|inline=1}}
+#: {{ux|sh|Р(иј)еч је о..., ради се о...|It's about..., this refers to...|inline=1}}
+#: {{ux|sh|Написао сам есеј о раном средњем вијеку.|I wrote an essay on the Early Middle Ages.|inline=1}}
