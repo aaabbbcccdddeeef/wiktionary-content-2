@@ -114,24 +114,42 @@ From Proto-Finno-Ugric *wuďe. Cognates include Finnish {{m|fi|uusi}}, Estonian 
 
 ==Serbo-Croatian==
 
-===Pronunciation===
+===Etymology 1===
+See [[#Translingual|Translingual section]].
+
+====Alternative forms====
+* (''uppercase'') {{l|sh|У}}
+
+====Pronunciation====
+* {{qualifier|phoneme}} {{IPA|/u/|lang=sh}}
+* {{audio|Sr-u.ogg|audio|lang=sh}}
+
+====Letter====
+{{sh-letter}}
+
+# The 24th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|ћ}} and followed by {{l|sh|ф}}.
+
+===Etymology 2===
+From {{inh|sh|sla-pro|*u}}, from {{inh|sh|ine-pro|*h₂ew}}.
+
+====Pronunciation====
 * {{IPA|/u/|lang=sh}}
 * {{audio|Sr-u.ogg|audio|lang=sh}}
 
-===Preposition===
+====Preposition====
 {{sh-preposition}}
 
-# {{qualifier|with locative}} [[in]], [[at]] (without change of position, answering the question {{m|sh|sc=Cyrl|гдје̏}}/{{m|sh|sc=Cyrl|где̏}})
-#: бити у школи — to be in the school
-#: у ц(иј)елом друштву — in the whole society
-# {{qualifier|with accusative}} [[to]], [[into]] (with change of position, answering the question {{m|sh|sc=Cyrl|ку̀да}})
-#: ићи у школу — to go to school
-#: путовати у Америку — to travel to America
-# {{qualifier|with accusative}} [[on]], [[in]], [[at]], [[during]] (in expressions concerning time)
-#: у подне — at noon
-#: у ср(иј)еду — on Wednesday
-#: у зору — at dawn
-#: У колико сати? — At what time?
-# {{qualifier|with locative}} [[in]], [[during]] (in expressions concerning time)
-#: у једном дану — in one day
-#: у младости — during one's youth
+# {{qualifier|+ [[locative case]]}} [[in]], [[at]] {{qualifier|without change of position, answering the question {{m|sh|гдје̏}}/{{m|sh|где̏}}}}
+#: {{ux|sh|бити у школи|to be in school|inline=1}}
+#: {{ux|sh|у ц(иј)елом друштву|in the whole society|inline=1}}
+# {{qualifier|+ [[accusative case]]}} [[to]], [[into]] {{qualifier|with change of position, answering the question {{m|sh|ку̀да}}}}
+#: {{ux|sh|ићи у школу|to go to school|inline=1}}
+#: {{ux|sh|путовати у Америку|to travel to America|inline=1}}
+# {{qualifier|+ [[accusative case]]}} [[on]], [[in]], [[at]], [[during]] {{qualifier|in expressions concerning time}}
+#: {{ux|sh|у подне|at noon|inline=1}}
+#: {{ux|sh|у ср(иј)еду|on Wednesday|inline=1}}
+#: {{ux|sh|у зору|at dawn|inline=1}}
+#: {{ux|sh|У колико сати?|At what time?|inline=1}}
+# {{qualifier|+ [[locative case]]}} [[in]], [[during]] {{qualifier|in expressions concerning time}}
+#: {{ux|sh|у једном дану|in one day|inline=1}}
+#: {{ux|sh|у младости|during one's youth|inline=1}}
