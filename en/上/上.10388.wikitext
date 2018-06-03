@@ -156,6 +156,18 @@
 ===Kanji===
 {{ja-kanji|grade=1|rs=一02}}
 
+# [[above]], [[high]], [[up]]
+# [[earlier]]
+# [[excellent]], [[top]]
+# [[certain]] [[time]] or [[place]] in the [[past]]
+# [[limit]]
+# [[climb]], [[rise]]
+# [[offer]]
+# [[go]] to the [[center]]
+# [[raise]], [[bring up]]
+# one of the {{w|four tones}} of {{w|Middle Chinese}}
+# {{w|Kōzuke Province}}
+
 ====Readings====
 {{ja-readings
 |goon=じょう<じやう
@@ -165,63 +177,111 @@
 }}
 
 ====Compounds====
-* {{ja-r|上%石|あげ%いし}}
-* {{ja-r|上%人|しょう%にん}}
+{{der-top|Compounds}}
+* {{ja-r|上州|^じょうしゅう}}
+* {{ja-r|上声|じょうしょう}}, {{ja-r|上声|じょうせい}}
+* {{ja-r|上代|じょうだい}}
+* {{ja-r|上人|しょうにん}}
+* {{ja-r|上石|あげいし}}
+* {{ja-r|平上%去入|ひょうじょう%きょにゅう}}
+* {{ja-r|上手い|うまい}}
+* {{ja-r|上%海|^シャン%ハイ|[[Shanghai]]}}
+* {{ja-r|逆上せる|のぼせる}}
+* {{ja-r|上枝|ほつえ}}
+* {{ja-r|嶺%上 開%花|リン%シャン カイ%ホー}}
+* {{ja-r|嶺%上%牌|リン%シャン%パイ}}
+{{der-bottom}}
 
 ===Etymology 1===
-{{IPAchar|/upe/}} → {{IPAchar|/uɸe/}} → {{IPAchar|/uwe/}} → {{IPAchar|/ue/}}
+{{ja-kanjitab|うえ|yomi=k}}
+{{IPAfont|⟨upe<sub>1</sub>⟩}} → *{{IPAchar|/upwe/}} → {{IPAchar|/ufe/}} → {{IPAchar|/uwe/}} → {{IPAchar|/ue/}}
+
+From {{inh|ja|ojp|sort=うえ|-}}.
+
+Bound [[apophony|apophonic]] form of ''uwa'', ancient ''upa'' (see below), possibly by fusion with an empathic particle {{m|ja|い|tr=i}}.
 
 ====Pronunciation====
-* {{audio|Ja-ue.ogg|Audio|lang=ja}}
-{{ja-pron|うえ|acc=0|acc_ref=SMK2,NHK}}
+{{ja-pron|y=k|うえ|acc=0|acc_ref=DJR,SMK2,NHK|audio=Ja-ue.ogg}}
 
 ====Noun====
 {{ja-noun|うえ|hhira=うへ}}
 
 # the [[above]]
-# the [[top]] (position, or direction)
+# the [[top]] {{gl|[[position]] or [[direction]]}}
 # the [[surface]] of
 
-=====Compounds=====
+=====Antonyms=====
+* {{ja-r|下|した}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|上上|うえうえ|rom=-}}, {{ja-r|上々|うえうえ}}
+* {{ja-r|上杉|^うえすぎ}}
+* {{ja-r|上%野|^うえ%の}}
 * {{ja-r|上%屋|うえ%や}}
+{{der-bottom}}
 
 ===Etymology 2===
-{{IPAchar|/upa/}} → {{IPAchar|/uɸa/}} → {{IPAchar|/uwa/}}
+{{ja-kanjitab|うわ|yomi=k}}
+{{IPAchar|/upa/}} → {{IPAchar|/ufa/}} → {{IPAchar|/uwa/}}
+
+From {{inh|ja|ojp|-}}. The combining form of ''ue'', ancient ''upe'' (see above).<ref name="DJR"/>
 
 ====Noun====
 {{ja-noun|うわ|hhira=うは}}
 
-# upper, over
+# [[upper]], [[over]]
 
 =====Compounds=====
-{{der-top|Compounds of {{ja-r|上|うわ}}}}
-Common
-* {{ja-r|上%着|うわ%ぎ}}
-
-Uncommon
+{{der-top}}
+* {{ja-r|上上|うわうわ|rom=-}}, {{ja-r|浮浮|うわうわ}}
+* {{ja-r|上顎|うわ.あご}}
+* {{ja-r|上臼|うわうす}}
 * {{ja-r|上%絵|うわ%え}}
 * {{ja-r|上%枝|うわ%えだ}}
+* {{ja-r|上襟|うわえり|rom=-}}, {{ja-r|上衿|うわえり|rom=-}}, {{ja-r|上領|うわえり}}
+* {{ja-r|上帯|うわおび}}
+* {{ja-r|浮気|うわき}}
+* {{ja-r|上%着|うわ%ぎ}}
 * {{ja-r|上%衣|うわ%ぎ}}
+* {{ja-r|噂|うわさ}}
+* {{ja-r|上棚|うわだな|rom=-}}, {{ja-r|上枻|うわだな}}
 * {{ja-r|上%手|うわ%て}}
+* {{ja-r|上%剥げ|うわ%はげ}}
+* {{ja-r|後妻|うわなり}}
 * {{ja-r|上%荷|うわ%に}}
 * {{ja-r|上%値|うわ%ね}}
 * {{ja-r|上%歯|うわ%ば}}
-
-{{der-mid}}
-Uncommon (continued)
+* {{ja-r|上履|うわばき|rom=-}}, {{ja-r|上%履き|うわ%ばき}}
+* {{ja-r|上張|うわばり|rom=-}}, {{ja-r|上%張り|うわ%ばり}}
+* {{ja-r|上%翳|うわ%ひ}}
 * {{ja-r|上%辺|うわ%べ}}
 * {{ja-r|上%目|うわ%め}}
 * {{ja-r|上%屋|うわ%や}}
-
-Rare
-* {{ja-r|上%顎|うわ%あご}}
-* {{ja-r|上%臼|うわ%うす}}
-* {{ja-r|上%帯|うわ%おび}}
-* {{ja-r|上%翳|うわ%ひ}}
 {{der-bottom}}
 
 ===Etymology 3===
-{{IPAchar|/kami₁/}} → {{IPAchar|/kami/}}
+{{ja-kanjitab|へ|yomi=k}}
+{{ja-kanjitab|え|yomi=irr}}
+{{IPAfont|⟨upe<sub>1</sub>⟩}} → *{{IPAchar|/ipe/}} → {{IPAfont|⟨pe<sub>1</sub>⟩}} → *{{IPAchar|/pwe/}} → {{IPAchar|/fe/}} → {{IPAchar|/he/}}
+
+Short-form of or shift from ''ue'', ancient ''upe'' (see above). Realized as ''-e'' in some compounds.
+
+=====Usage notes=====
+The senses are the same with ''ue''.
+
+=====Derived terms=====
+* {{ja-r|尾上|おのえ}}
+
+===Etymology 4===
+{{ja-kanjitab|かみ|yomi=k}}
+{{IPAfont|⟨kami<sub>1</sub>⟩}} → *{{IPAchar|/kamʲi/}} → {{IPAchar|/kami/}}
+
+From {{inh|ja|ojp|-}}.
+
+Bound [[apophony|apophonic]] form of ancient ''kamu'' (see ''kan'' below), possibly by fusion with an empathic particle {{m|ja|い|tr=i}}.
+
+Distinct from {{m|ja|神|tr={{IPAfont|/kami<sub>2</sub>/}} → [[kami]]||[[Shinto]] [[deity]]}}.
 
 ====Pronunciation====
 {{ja-pron|かみ|acc=1|acc_ref=SMK2,NHK}}
@@ -229,52 +289,74 @@ Rare
 ====Noun====
 {{ja-noun|かみ}}
 
-# the start
-# a high place; the top
-# one with a high rank
+# the [[start]]
+# a [[high place]]; the [[top]]
+# one with a [[high]] [[rank]]
 
-===Etymology 4===
-{{IPAchar|/zyau/}} → {{IPAchar|/zyɔː/}} → {{IPAchar|/d͡ʑoː/}}
+=====Antonyms=====
+* {{ja-r|下|しも}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|守|かみ}}
+* {{ja-r|上%毛野|^かみつ%けの}}, {{ja-r|上野|^こうずけ}}
+* {{ja-r|上%総|^かみつ%ふさ}}, {{ja-r|上総|^かずさ}}
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|かん|yomi=k}}
+{{IPAfont|/kamu/}} → {{IPAchar|/kaɴ/}}
+
+Shift from {{inh|ja|ojp|-}} combining form ''kamu''.
+
+=====Usage notes=====
+The senses are the same with ''kami''.
+
+===Etymology 6===
+{{ja-kanjitab|じょう|yomi=k}}
+{{IPAchar|/d͡ʑɨau/}} → {{IPAchar|/zjau/}} → {{IPAchar|/zjɔː/}} → {{IPAchar|/d͡ʑoː/}}
+
+From {{der|ja|ltc|sort=しよう'|-}} {{ltc-l|上}}.
+
+====Pronunciation====
+{{ja-pron|y=go|じょう|acc=1|acc_ref=DJR}}
+* Pitch accent for suffix unknown.
 
 ====Noun====
 {{ja-noun|じょう|hhira=じやう}}
 
-# the [[first]] [[volume]] in a two- or three-volume set
+# the [[first]] [[volume]] in a two- or three-[[volume]] set
+#: {{antonyms|ja|下|tr=ge}}
 
-=====Compounds=====
-{{der-top|Compounds of {{ja-r|上|じょう}}}}
-Common
-* {{ja-r|上%位|じょう%い}}
-* {{ja-r|上%映|じょう%えい}}
-* {{ja-r|上%演|じょう%えん}}
-* {{ja-r|上%級|じょう%きゅう}}
-* {{ja-r|上%京|じょう%きょう}}
-* {{ja-r|上%空|じょう%くう}}
-* {{ja-r|上%下|じょう%げ}}
-* {{ja-r|上%告|じょう%こく}}
-* {{ja-r|上%司|じょう%し}}
-* {{ja-r|上%旬|じょう%じゅん}}
-* {{ja-r|上%昇|じょう%しょう}}
-* {{ja-r|上%場|じょう%じょう}}
-* {{ja-r|上%手|じょう%ず}}
-* {{ja-r|上%層|じょう%そう}}
-
-{{der-mid}}
-Common (continued)
-* {{ja-r|上%達|じょう%たつ}}
-* {{ja-r|上%等|じょう%とう}}
-* {{ja-r|上%品|じょう%ひん}}
-* {{ja-r|上%部|じょう%ぶ}}
-* {{ja-r|上%陸|じょう%りく}}
-* {{ja-r|上%流|じょう%りゅう}}
-
-Uncommon
-* {{ja-r|上%官|じょう%かん}}
-* {{ja-r|上%戸|じょう%ご}}
-* {{ja-r|上%船|じょう%せん}}
-* {{ja-r|上%奏|じょう%そう}}
-* {{ja-r|上%段|じょう%だん}}
-* {{ja-r|上%納|じょう%のう}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|上上|じょうじょう|rom=-}}, {{ja-r|上々|じょうじょう}}
+* {{ja-r|上位|じょうい}}
+* {{ja-r|上映|じょうえい}}
+* {{ja-r|上演|じょうえん}}
+* {{ja-r|上級|じょうきゅう}}
+* {{ja-r|上京|じょうきょう}}
+* {{ja-r|上空|じょうくう}}
+* {{ja-r|上下|じょうげ}}
+* {{ja-r|上告|じょうこく}}
+* {{ja-r|上司|じょうし}}
+* {{ja-r|上旬|じょうじゅん}}
+* {{ja-r|上昇|じょうしょう}}
+* {{ja-r|上場|じょうじょう}}
+* {{ja-r|上手|じょうず}}
+* {{ja-r|上層|じょうそう}}
+* {{ja-r|上達|じょうたつ}}
+* {{ja-r|上等|じょうとう}}
+* {{ja-r|上品|じょうひん}}
+* {{ja-r|上部|じょうぶ}}
+* {{ja-r|上陸|じょうりく}}
+* {{ja-r|上流|じょうりゅう}}
+* {{ja-r|上官|じょうかん}}
+* {{ja-r|上戸|じょうご}}
+* {{ja-r|上船|じょうせん}}
+* {{ja-r|上奏|じょうそう}}
+* {{ja-r|上段|じょうだん}}
+* {{ja-r|上納|じょうのう}}
 {{der-bottom}}
 
 ====Suffix====
@@ -284,37 +366,35 @@ Uncommon
 #: {{ja-usex|理%論'''上'''はありえないこと|り%ろん-'''じょう''' は ありえない こと|something that is impossible '''according to''' theory}}
 #: {{ja-usex|法%律'''上'''の争%訟|ほう%りつ-'''じょう''' の そう%ちょう|legal dispute}}
 # aboard (a plane or ship)
-# above, in, on
+# [[above]], [[in]], [[on]]
 
-=====Compounds=====
-{{der-top|Compounds of {{ja-r|上|-じょう}}}}
-* {{ja-r|鞍%上|あん%じょう}}
-* {{ja-r|海%上|かい%じょう}}
-* {{ja-r|階%上|かい%じょう}}
-* {{ja-r|机%上|き%じょう}}
-* {{ja-r|機%上|き%じょう}}
-* {{ja-r|計%上|けい%じょう}}
-* {{ja-r|啓%上|けい%じょう}}
-* {{ja-r|最%上|さい%じょう}}
-* {{ja-r|參%上|さん%じょう}}
-* {{ja-r|至%上|し%じょう}}
-* {{ja-r|紙%上|し%じょう}}
-* {{ja-r|史%上|し%じょう}}
-* {{ja-r|誌%上|し%じょう}}
-{{der-mid}}
-* {{ja-r|主%上|しゅ%じょう}}
-* {{ja-r|水%上|すい%じょう}}
-* {{ja-r|線%上|せん%じょう}}
-* {{ja-r|船%上|せん%じょう}}
-* {{ja-r|壇%上|だん%じょう}}
-* {{ja-r|地%上|ち%じょう}}
-* {{ja-r|天%上|てん%じょう}}
-* {{ja-r|殿%上|てん%じょう}}
-* {{ja-r|殿%上%人|てん%じょう%びと}}
-* {{ja-r|馬%上|ば%じょう}}
-* {{ja-r|盤%上|ばん%じょう}}
-* {{ja-r|陸%上|りく%じょう}}
-* {{ja-r|平%上%去%入|ひょ%うじょう%きょ%にゅう}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鞍上|あんじょう}}
+* {{ja-r|海上|かいじょう}}
+* {{ja-r|階上|かいじょう}}
+* {{ja-r|机上|きじょう}}
+* {{ja-r|機上|きじょう}}
+* {{ja-r|計上|けいじょう}}
+* {{ja-r|啓上|けいじょう}}
+* {{ja-r|最上|さいじょう}}
+* {{ja-r|參上|さんじょう}}
+* {{ja-r|至上|しじょう}}
+* {{ja-r|紙上|しじょう}}
+* {{ja-r|史上|しじょう}}
+* {{ja-r|誌上|しじょう}}
+* {{ja-r|主上|しゅじょう}}
+* {{ja-r|水上|すいじょう}}
+* {{ja-r|線上|せんじょう}}
+* {{ja-r|船上|せんじょう}}
+* {{ja-r|壇上|だんじょう}}
+* {{ja-r|地上|ちじょう}}
+* {{ja-r|天上|てんじょう}}
+* {{ja-r|殿上|てんじょう}}
+* {{ja-r|殿上%人|てんじょう%びと}}
+* {{ja-r|馬上|ばじょう}}
+* {{ja-r|盤上|ばんじょう}}
+* {{ja-r|陸上|りくじょう}}
 {{der-bottom}}
 
 ===References===
