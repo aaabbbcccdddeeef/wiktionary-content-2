@@ -5,25 +5,51 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=14|sn=17|four=35117|canj=ELMT|ids=⿰氵盡}}
 
+====Related characters====
+* {{l|mul|[[浕]]}} ''({{w|Simplified Chinese}})''
+
 ====References====
-* {{Han ref|kx=0655.310|dkj=18492|dj=1066.050|hdz=31774.030|uh=6FDC|ud=28636|bh=ED53|bd=60755}}
+{{Han ref|kx=0655.310|dkj=18492|dj=1066.050|hdz=31774.030|uh=6FDC}}
 
 ----
 
 ==Chinese==
 {{zh-forms|s=浕}}
+{{zh-wp|zh:沙河 (漢水)}}
 
-===Pronunciation===
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
 {{zh-pron
 |m=jìn
 |c=zeon6
-|mc=y
-|oc=y
+|mc=2+3+4
+|oc=2+3+4
 |ma=
-|cat=pn
+|cat=pn,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# [[river]] in [[Hubei]] [[province]]
+# {{zh-div|水}} [[river]] in [[Hubei]] [[province]], a [[tributary]] of {{w|Han River (Hubei)|Han River}} also known as {{zh-l|沙河}}. <!-- Refer 《通用規范漢字字典》 -->
+# {{zh-div|水}} [[river]] in [[Shaanxi]] province, also known as Baima river ({{zh-l|白馬河}}) <!-- Refer 《通用規范漢字字典》 -->
+# {{lb|zh|archaic}} [[rapid]] flow of [[water]] {{zh-also|濜溳}}
+
+=====Compounds=====
+{{zh-der|泥濜|濜溳}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jīn
+|c=
+|mc=1
+|oc=1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[bodily#Noun|bodily]] [[fluid]]s {{zh-also|津液}}
