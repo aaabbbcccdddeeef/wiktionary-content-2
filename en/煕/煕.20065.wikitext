@@ -2,21 +2,24 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{Han compound|巸|火|c1=p|c2=s|t2=fire|ls=psc|alt2=灬}}
-
 ===Han character===
-{{Han char|rn=86|rad=火|as=09|sn=13|four=|canj=SUF|ids=⿱巸灬}}
-
-# [[bright]], [[splendid]], [[glorious]]
+{{Han char|rn=86|rad=火|as=09|sn=13|four=|canj=SUF|ids=⿱⿰𦣝巳灬}} <!-- Note: 巸 has two different forms -->
 
 ====References====
-* {{Han ref|kx=0676.170|dkj=19192|dj=1087.210|hdz=32220.131|uh=7155|ud=29013}}
+{{Han ref|kx=0676.170|dkj=19192|dj=1087.210|hdz=32220.131|uh=7155}}
+
+===Usage notes===
+This character is the original form of {{l|mul|熙}} which is found in the {{w|Kangxi dictionary}}.
 
 ----
 
 ==Chinese==
-{{zh-see|熙|v}}
+
+===Glyph origin===
+{{Han compound|巸|火|c1=p|c2=s|t2=fire|ls=psc|alt2=灬}}
+
+===Definitions===
+{{zh-see|熙|vt}}
 
 ----
 
@@ -25,7 +28,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=火09}}
 
-# {{l|en|shine}}
+# {{alt-form|lang=ja|熙}}
 
 ====Readings====
 * {{ja-readings|on=[[き]] (ki)|kun=[[ひかり]] (hikari), [[ひかる]] (hikaru)}}
