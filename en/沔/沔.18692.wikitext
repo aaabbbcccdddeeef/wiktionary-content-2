@@ -4,20 +4,22 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=04|sn=7|four=31127|canj=EMLS|ids=⿰氵丏}}
 
-# [[flood]]
-# [[overflowing]]
+====Derived characters====
+* {{l|mul|[[𢚽]], [[𫦇]]}}
 
 ====References====
-* {{Han ref|kx=0611.160|dkj=17207|dj=1004.060|hdz=31560.020|uh=6C94|ud=27796|bh=A85C|bd=43100}}
+{{Han ref|kx=0611.160|dkj=17207|dj=1004.060|hdz=31560.020|uh=6C94}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:漢江 (中國)|en:Han River (Hubei)}}
+{{zh-wp|zh:沔州}}
+
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|氵|丏|c1=s|c2=p|t1=water|ls=psc}}.
-
 
 ===Pronunciation===
 {{zh-pron
@@ -26,16 +28,19 @@
 |mn=bián
 |mc=y
 |oc=y
-|cat=n,a
+|cat=pn,a
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-div|水}} ancient name of {{w|Han River (Hubei)|Han river}}, a tributary of the {{w|Yangtze}} river
+# {{zh-div|州}} {{lb|zh|historical}} name of [[prefecture]] in [[Hubei]] province during {{w|Western Wei}}, {{w|Sui dynasty|Sui}} and {{w|Tang dynasty|Tang}} dynasties
+# {{zh-div|州}} {{lb|zh|historical}} name of [[prefecture]] in [[Shaanxi]] province during {{w|Song_dynasty#Southern_Song,_1127–1279|Southern Song}} period (1127-1279)
+# {{lb|zh|archaic}} [[inundation]] of [[water]]
 
 ====Compounds====
-{{zh-der|沔水}}
+{{zh-der|沔水|沔沔|流沔|渺沔|湛沔}}
 
 ----
 
@@ -63,6 +68,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水04|hanviet=miền}}
+{{vi-hantu|rs=水04|[[miền]], [[miện]], [[miên]]}}
 
 # {{defn|lang=vi|sort=水04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6C94 Nom Foundation]
