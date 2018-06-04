@@ -1,45 +1,83 @@
-{{also|體}}
+{{also|體|休|𠇾}}
 {{character info/new}}
 ==Translingual==
-{{ja-forms|[[体]]|[[体]]|[[體]]/[[体]]}}
+{{ja-forms|体|体|[[體]]/体}}
 
-===Glyph origin===
-{{Han etym}}
-In its traditional sense ("inferior") — {{Han compound|人|本|c1=s|c2=p|alt1=亻|t1=person|ls=psc}}.
-
-As a simplification of [[體]] ("body") — {{Han compound|人|本|alt1=亻|t1=person|t2=basis|ls=ic}}.
+===Alternative forms===
+In the historical Chinese dictionary {{w|Longkan Shoujian}} ({{w2|zh|龍龕手鑑}}), this character is written in the form of ⿰{{l|mul|[[亻]][[夲]]}}.
 
 ===Han character===
 {{Han char|rn=9|rad=人|as=05|sn=7|four=25230|canj=ODM|ids=⿰亻本}}
 
-====Usage notes====
-Readings as traditional 体 (inferior):
-* ''ban6'' (Cantonese), ''bèn'' (Mandarin), ''bun'' (Korean), or ''hon'' (Japanese).
-Readings as simplification of 體 (body, group):
-* Cantonese ''tai2'', Mandarin ''tǐ'', Korean ''che'', Japanese ''tei'' and ''tai'', and Vietnamese ''thể''.
+====Derived characters====
+* {{l|mul|[[𭈄]], [[𭰟]], [[𬌕]], [[𫌠]]/[[𧡊]], [[𥮋]]}}
 
-====See also====
-* {{l|mul|休}} <!-- Graphically similar -->
+====Related characters====
+* {{l|mul|[[體]]}} ''(Orthodox {{w|Traditional Chinese characters|traditional form}} of 体)''
 
 ====References====
-* {{Han ref|kx=0098.130|dkj=00509|dj=0208.030|hdz=10130.010|uh=4F53|ud=20307|bh=CA5E|bd=51806}}
+{{Han ref|kx=0098.130|dkj=00509|dj=0208.030|hdz=10130.010|uh=4F53}}
+
+===Usage notes===
+* Readings as traditional 体 ([[coarse]]; [[inferior]]): 
+*: ''ban6'' (Cantonese), ''bèn'' (Mandarin), ''bun'' (Korean), ''hon'' (Japanese).
+* Readings as simplification of 體 ([[body]]; [[group]]):
+*: ''tai2'' (Cantonese), ''tǐ'' (Mandarin), ''che'' (Korean), ''tei'' or ''tai'' (Japanese), ''thể'' (Vietnamese).
 
 ----
 
 ==Chinese==
 
 ===Etymology 1===
-{{zh-see|體}}
+{{Han compound|人|本|alt1=亻|t1=person|t2=basis|ls=ic}}.
+{{zh-see|體|svt}}
 
 ===Etymology 2===
-{{zh-see|笨|v}}
+{{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+{{Han compound|人|本|c1=s|c2=p|alt1=亻|t1=person|ls=psc}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bèn
+|c=ban6
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|笨}} ''{{gloss|[[coarse]] [[appearance]]; [[inferior]]}}'' <!-- 《廣韻·混韻》体，麤皃。又劣也。 -->
+# {{n-g|Used in {{zh-l|体夫}}}}. {{gloss|[[pallbearer]]}} <!-- 《康熙字典》 体，蒲本反。体夫，轝柩之夫。 -->
+
+=====Compounds=====
+{{zh-der|体夫}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=cuì
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-hg}} name of [[prison]] <!-- 《龍龕手鑑》 俗，千内反。獄名。 -->
 
 ----
 
 ==Japanese==
 {{ja-kanji forms|体|體}}
 
-===Kanji===
+===Kanji 1===
 {{ja-kanji|grade=2|rs=人05|kyu=體}}
 
 # [[body]]
@@ -51,7 +89,7 @@ Readings as simplification of 體 (body, group):
 |kun=からだ-
 }}
 
-===Kanji===
+===Kanji 2===
 <div style="margin-top:-.75em"><span class="Jpan" lang="ja" style="font-size: 250%">{{l-self|ja|体|sc=Jpan}}</span></div>
 <div style="margin-top:-0.25em">(''[[w:uncommon “Hyōgai” kanji|Uncommon “Hyōgai” kanji'']], [[co-opt|co-opted]]
 for common use, see above)</div>
@@ -237,9 +275,21 @@ From {{etyl|ltc|ja|sort=たい}} {{m|zh|體|tr=thej<sup>X</sup>||body}}.
 
 ==Vietnamese==
 
-===Han character===
-{{vi-hantu|thể|rs=人05}}
+===Etymology 1===
+
+====Han character====
+{{vi-hantu|rs=人05|[[thể]]}}
 
 # [[body]]
+
+===Etymology 2===
+
+====Han character====
+{{vi-hantu|rs=人05|[[thấy]]}}
+
+# {{alt-form|lang=vi|[[𫌠]]/[[𧡊]]}} {{gloss|to [[see]]}}
+
+=====References=====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4F53 Nom Foundation]
 
 [[Category:CJKV simplified characters which already existed as traditional characters]]
