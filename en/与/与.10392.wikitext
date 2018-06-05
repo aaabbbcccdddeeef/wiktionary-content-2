@@ -1,47 +1,40 @@
 {{also|與}}
 {{character info/new}}
 ==Translingual==
-{{stroke order|type=bw|strokes=3}}
-
+{{stroke order|strokes=3}}
 {{ja-forms|与|与|[[與]]}}
 
-===Glyph origin===
-{{Han etyl}}
+===Alternative forms===
+* In the historical {{w|Kangxi dictionary}}, this character is written with four strokes: {{l|mul|⿱[[⺊]]⿹[[𠃌]][[一]]}}
+* In modern Japanese, the character is written slightly differently, with the final {{l|mul|一}} stroke extending across {{l|mul|㇉}}.
 
 ===Han character===
-{{Han char|rn=1|rad=一|as=03|sn=4|four=21407|canj=YSM|ids=⿱⺊⿹𠃌一,⿺⿹㇉一一,⿺⿻㇉一一}}
+{{Han char|rn=1|rad=一|as=02|ask=03|sn=3|snk=4|four=21407,21127|canj=YSM|ids=⿺⿹㇉一一(GHTKV),⿺⿻㇉一一(J)}}
 
 ====Derived characters====
-* [[與]] [[写]]
+* {{l|mul|[[𠇐]], [[屿]], [[𫹮]], [[𭤰]], [[玙]], [[𪾟]], [[𨊮]], [[𮡤]], [[𫚈]], [[欤]], [[写]], [[㝍]], [[𥫣]], [[𡴃]], [[𢌱]], [[𢗓]], [[𢪓]], [[𢮠]]}}
+* {{l|mul|[[𠚻]]}} ''(Exception: Only for {{w|zh:中文標準交換碼|Taiwan character form}} which contains <small>{{l|mul|⿰[[与]][[刂]]}}</small>. Mainland China {{w|zh:國家標準代碼|character form}} contains {{l|mul|⿰⿱[[𠂉]][[刁]][[刂]]}} instead)''
+
+====Related characters====
+* {{l|mul|[[與]]}} ''(Orthodox {{w|Traditional Chinese characters|traditional form}})''
 
 ====Descendants====
-* [[よ]]
+* {{l|ja|よ}} ''({{w|Hiragana}} character derived from {{w|Man'yōgana}})''
 
-===References===
-* {{Han ref|kx=0077.010|dkj=00020|dj=0154.010|hdz=10005.030|uh=4E0E|ud=19982|bh=C94F|bd=51535}}
+====References====
+{{Han ref|kx=0077.010|dkj=00020|dj=0154.010|hdz=10005.030|uh=4E0E}}
 
 [[Category:Han characters from which hiragana were derived|よ]]
 
 ----
 
 ==Chinese==
-===Etymology 1===
-{{zh-forms}}
 
-====Pronunciation====
-{{zh-pron
-|m=yǔ
-|mc=y
-|oc=y
-}}
+===Glyph origin===
+{{Han etym}}
 
-====Definitions====
-{{zh-hanzi}}
-
-# {{zh-alt-form|*與|to [[give]]}}
-
-===Etymology 2===
-{{zh-see|與|s}}
+===Definitions===
+{{zh-see|與|sv|to [[give]]; to [[offer]]}}
 
 ----
 
@@ -112,5 +105,5 @@
 
 # {{defn|lang=vi|sort=一03}}
 
-===References===
+====References====
 * [http://nomfoundation.org/common/nom_details.php?codepoint=4e0e Nom Foundation]
