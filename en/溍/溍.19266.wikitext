@@ -2,7 +2,7 @@
 ==Translingual==
 
 ===Alternative forms===
-Due to {{w|Han unification}}, both {{w|Traditional Chinese|traditional}} and {{w|Simplified Chinese|simplified form}} (containing {{l|mul|晉}} and {{l|mul|晋}} respectively) are encoded under the same codepoint. Depending on the font installed, this character may appear to be either <font size=4.5, lang="zh-tw">溍</font> or <font size=4.5, lang="zh-sc">溍</font>.
+Due to {{w|Han unification}}, both {{w|Traditional Chinese|traditional}} and {{w|Simplified Chinese|simplified form}} (containing {{l|mul|晉}} and {{l|mul|晋}} respectively) are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang="zh-hant">溍</font> or <font size=4.5, lang="zh-hans">溍</font>.
 
 ===Han character===
 {{Han char|rn=85|rad=水|as=10|sn=13|four=31161|canj=EMCA,EMIA|ids=⿰氵晋(G),⿰氵晉(HTJK)}}
@@ -13,7 +13,10 @@ Due to {{w|Han unification}}, both {{w|Traditional Chinese|traditional}} and {{w
 ----
 
 ==Chinese==
-{{zh-forms|s=溍}} {{attention|zh|Need to implement <font lang="zh-tw"> and <font lang="zh-sc" to distinguish both forms}}
+{{zh-forms|s=溍|note=trad. and simp. forms under same code point}} {{attention|zh|Need to implement <font lang="zh-hant"> and <font lang="zh-hans" to distinguish both forms}}
+
+===Glyph origin===
+{{Han compound|水|晉|ls=psc|c1=s|c2=p|t1=water}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -31,7 +34,7 @@ Due to {{w|Han unification}}, both {{w|Traditional Chinese|traditional}} and {{w
 # {{zh-hg}} appearance of [[water]] <!-- 《字彙·水部》 -->
 # {{zh-hg}} [[name]] of a [[river]] <!-- 《玉篇·水部》 《廣韻·震韻》 -->
 
-====References====
+===References===
 * [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 142]
 
 ----
