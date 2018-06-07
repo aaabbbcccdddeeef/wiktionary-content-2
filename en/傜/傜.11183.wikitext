@@ -1,16 +1,22 @@
 {{character info/new}}
 ==Translingual==
 
+===Alternative forms===
+Due to {{w|Han unification}}, the {{w|Traditional Chinese|traditional form}} containing <font size=4.5, lang="zh-hant">[[䍃]]</font> and {{w|Simplified Chinese|simplified form}} containing <font size=4.5, lang="zh-hans">[[䍃]]</font> are encoded under the same [[code point]]. Depending on the font installed, this character may appear to be either <font size=4.5, lang="zh-hant">傜</font> or <font size=4.5, lang="zh-hans">傜</font>.
+
 ===Han character===
 {{Han char|rn=9|rad=人|as=10|sn=12|four=27272|canj=OBOU|ids=⿰亻䍃}}
 
 ====References====
-* {{Han ref|kx=0113.260|dkj=00971|dj=0241.150|hdz=10203.200|uh=509C|ud=20636|bh=D85C|bd=55388}}
+{{Han ref|kx=0113.260|dkj=00971|dj=0241.150|hdz=10203.200|uh=509C}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|s=傜|note=trad. and simp. forms have same code point}}
+
+===Glyph origin===
+{{Han etym}}
 
 ===Pronunciation===
 {{zh-pron
@@ -32,7 +38,7 @@
 # {{†}} of different sizes
 # {{surname|lang=zh}}
 
-===Compounds===
+====Compounds====
 {{zh-der|傜族|傜役|傜人|傜賦|傜語}}
 
 ----
@@ -61,9 +67,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=人10|hanviet=diêu}}
+{{vi-hantu|rs=人10|[[diêu]]}}
 
 # {{defn|lang=vi|sort=人10}}
 
 ====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=509c Nom Foundation]
+* [http://nomfoundation.org/common/nom_details.php?codepoint=509C Nom Foundation]
