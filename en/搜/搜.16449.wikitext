@@ -1,12 +1,22 @@
 {{also|捜}}
 {{character info/new}}
+{{character info/new|0xfa8e}}
 ==Translingual==
+{{ja-forms|[[捜]]|搜|搜}}
+
+===Alternative forms===
+* Note that the {{w|Traditional Chinese|traditional form}} contains {{l|mul|𦥑}} (7 strokes) while Japanese {{w|kyūjitai}}, Korean {{w|Hanja}}, Vietnamese {{w|History of writing in Vietnam|Nom}} and mainland China's standardized form ({{w2|zh|新字形#新旧字形对照表|新字形}}, {{w|Xin Zixing}}) contains {{l|mul|臼}} (6 strokes) instead. Both of these forms are encoded under the same [[code point]]. This character may appear to be either <font size=6, lang="zh-hant">搜 </font> or <font size=6, lang="zh-hans">搜</font> depending on the fonts available.
+* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exist at <code>U+FA8E</code> for the alternative Korean form which contains {{l|mul|𦥑}} (7 strokes).
 
 ===Han character===
-{{Han char|rn=64|rad=手|as=10|sn=13|four=57047|canj=QHXE|ids=⿰扌叟}}
+{{Han char|rn=64|rad=手|as=10|asc=9|sn=13|snc=12|four=57047|canj=QHXE|ids=⿰扌⿱⿻𦥑丨又(HT,<code>U+FA8E</code>),⿰扌⿱⿻臼丨又(GJKV)}}
+
+====Related characters====
+* {{l|mul|[[捜]]}} ''(Japanese {{w|shinjitai}})''
 
 ====References====
-* {{Han ref|kx=0447.070|dkj=12486|dj=0797.190|hdz=31919.070|uh=641C|ud=25628|bh=B76A|bd=46954}}
+{{Han ref|kx=0447.070|dkj=12486|dj=0797.190|hdz=31919.070|uh=641C}}
+{{Han ref|uh=FA8E}}
 
 ----
 
@@ -55,7 +65,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手10|shin=捜}}
 
-# {{defn|lang=ja|sort=手10}}
+# {{kyujitai|捜}}
 
 ====Readings====
 {{ja-readings
