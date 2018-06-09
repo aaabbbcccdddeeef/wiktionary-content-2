@@ -1,20 +1,28 @@
 {{also|叜}}
 {{character info/new}}
+{{character info/new|0x2f837}}
 ==Translingual==
 
+===Alternative forms===
+* In most regions, this character and its derived characters are written with {{l|mul|𦥑}} (7 strokes) as the upper component while in {{w|zh:新字形|mainland China}}, this character and its derivatives are written with {{l|mul|臼}} (6 strokes) as the upper component.
+* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+2F837</code>''(composition: <small>{{l|mul|⿱[[申]][[又]]}}</small>)'' and is encoded for a historical variant found in the Ming dynasty dictionary 《重訂直音篇》. <!-- Refer Page 35, Character no. 4 of https://archive.org/stream/02076767.cn#page/n34/mode/2up -->
+
 ===Han character===
-{{Han char|rn=29|rad=又|as=07|sn=9|four=77407|canj=HXLE|ids=⿱𦥔又}}
+* <code>U+53DF</code> {{Han char|rn=29|rad=又|as=08|asc=07|sn=10|snc=9|four=77407|canj=HXLE|ids=⿱⿻臼丨又(G),⿱⿻𦥑丨又(HTJK)}} <!-- 𦥔 has two different forms and is only used in G and T --> 
+* <code>U+2F837</code> {{Han char|rn=29|rad=又|as=05|sn=7|four=|canj=LLE|ids=⿱申又}}
 
 ====Derived characters====
-* [[嫂]], [[艘]]
+* {{l|mul|[[傁]], [[嗖]], [[𭎾]], [[嫂]], [[𡻁]], [[㥰]], [[搜]], [[溲]], [[遚]], [[膄]], [[㮴]], [[𣯜]], [[𭵕]], [[獀]], [[瞍]], [[𥕋]], [[𦃈]], [[䏂]], [[艘]], [[螋]], [[謏]]([[𫍲]]), [[𧳶]], [[𫌆]], [[𧽏]], [[醙]], [[鎪]]([[锼]]), [[𩌅]], [[颼]]([[飕]]), [[餿]]([[馊]]), [[騪]]([[𩨄]]), [[𩴍]], [[䱸]]([[𫠑]]), [[鄋]], [[㪢]], [[㲣]], [[𠭦]], [[㟬]], [[𤔣]], [[蓃]], [[𥰞]], [[𠪇]], [[廋]], [[瘦]]}} ''(Note: Different form used in mainland China)''
+* {{l|mul|[[捜]], [[痩]]}} ''(Japanese {{w|shinjitai}} containing  <code>U+2F837</code>(⿱<small>{{l|mul|[[申]][[又]]}}</small>))''
 
 ====References====
-* {{Han ref|kx=0166.210|dkj=03176|dj=0378.130|hdz=10399.010|uh=53DF|ud=21471|bh=ADEE|bd=44526}}
+{{Han ref|kx=0166.210|dkj=03176|dj=0378.130|hdz=10399.010|uh=53DF}}
+{{Han ref|uh=2F837}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=叜,𡨎,傁,𠋢}}
+{{zh-forms|alt=⿱[[申#Chinese|申]][[又#Chinese|又]]-historical variant,叜-ancient form,𡨎,傁,𠋢,}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -74,6 +82,6 @@ Since the clerical script, the top components {{zh-l|*宀}} and {{zh-l|*火}} ha
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|tẩu|rs=又07}}
+{{vi-hantu|rs=又07|[[tẩu]]}}
 
-# {{defn|lang=vi}}
+# {{defn|lang=vi|sort=又07}}
