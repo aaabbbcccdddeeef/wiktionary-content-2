@@ -4,18 +4,21 @@
 {{stroke order|strokes=13}}
 
 ===Han character===
-{{Han char|rn=86|rad=火|as=09|sn=13|four=67336|canj=ARF|ids=⿱昭灬(GHTJKV)}}
+{{Han char|rn=86|rad=火|as=09|sn=13|four=67336|canj=ARF|ids=⿱昭灬}}
 
 ====Derived characters====
 * {{l|mul|[[燳]], [[𬡰]], [[𬪸]], [[𥵕]]}}
 
+====Related characters====
+* {{l|mul|[[炤]]}} ''({{w|Variant Chinese characters|Variant form}})''
+
 ====References====
-* {{Han ref|kx=0677.360|dkj=19226|dj=1089.030|hdz=32221.010|uh=7167|ud=29031|bh=B7D3|bd=47059}}
+{{Han ref|kx=0677.360|dkj=19226|dj=1089.030|hdz=32221.010|uh=7167}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=曌,瞾}}
+{{zh-forms|alt=曌,瞾,炤*}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -67,12 +70,11 @@
 ----
 
 ==Japanese==
-{{attention|ja|Needs expansion.}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=火09}}
 
-# [[illumination]], [[shining]]
+# to [[illuminate]]; to [[shine]]
 
 ====Readings====
 {{ja-readings
@@ -82,11 +84,11 @@
 }}
 
 ====Compounds====
-* {{ja-l|照会}}
-* {{ja-l|照合}}
-* {{ja-l|照射}}
-* {{ja-l|照準}}
-* {{ja-l|照明}}
+* {{ja-r|照会|しょうかい}}: {{l|en|inquiry}}; {{l|en|reference}}
+* {{ja-r|照合|しょうごう}}: {{l|en|collation}}; {{l|en|comparison}}
+* {{ja-r|照射|しょうしゃ}}: {{l|en|irradiation}}; {{l|en|exposure}} to {{l|en|light}}
+* {{ja-r|照準|しょうじゅん}}: to {{l|en|set#Verb|set}} one's {{l|en|sight}}; to {{l|en|aim#Verb|aim}}
+* {{ja-r|照明|しょうめい}}: {{l|en|illumination}}; {{l|en|lighting}}
 
 ===Proper noun===
 {{ja-kanjitab|yomi=kun|てらし}}
@@ -108,6 +110,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[chiếu]]|rs=火09}}
+{{vi-hantu|rs=火09|[[chiếu]]}}
 
 # {{defn|lang=vi|sort=火09}}
