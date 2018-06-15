@@ -72,6 +72,7 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 {{ja-kanji|grade=2|rs=木04}}
 
 # {{l|en|east}}
+# {{l|en|spring}} {{gl|{{w|Wu Xing}}}}
 
 ====Readings====
 {{ja-readings
@@ -83,23 +84,25 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|東%方|とう%ほう}}: eastern direction
-* {{ja-r|東%南|とう%なん}}: southeast
-* {{ja-r|東%亜|^とう%あ}}: East Asia
-* {{ja-r|東%洋|とう%よう}}: Orient
-* {{ja-r|東%部|とう%ぶ}}: eastern part
-* {{ja-r|東%西%南%北|とう%ざい%なん%ぼく}}: east, west, south, and north
-* {{ja-r|関%東|^かん%とう}}: Kanto
-* {{ja-r|東%風|とう%ふう}}: a spring wind that blows from the east
-* {{ja-r|中%東|^ちゅう%とう}}: Middle East
-* {{ja-r|東%京|^とう%きょう}}: Tokyo
-* {{ja-r|東%上|とう%じょう}}: going to Tokyo
-* {{ja-r|東%名%高%速%道%路|とう%めい% こう%そく% どう%ろ}}: Tokyo-Nagoya Expressway
+* {{ja-r|東方|とうほう|eastern direction}}
+* {{ja-r|東南|とうなん|southeast}}
+* {{ja-r|東亜|^とうあ|East Asia}}
+* {{ja-r|東洋|とうよう|Orient}}
+* {{ja-r|東部|とうぶ|eastern part}}
+* {{ja-r|東西%南北|とうざい%なんぼく|east, west, south, and north}}
+* {{ja-r|関東|^かんとう}}
+* {{ja-r|東風|とうふう|spring wind blowing from the east}}
+* {{ja-r|中東|^ちゅうとう|Middle East}}
+* {{ja-r|東京|^とうきょう|Tokyo}}
+* {{ja-r|東上|とうじょう|going to Tokyo}}
+* {{ja-r|東名 高速 道路|^とう-^めい こうそく どうろ|Tokyo-Nagoya Expressway}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|とう}}
-From {{der|ja|ltc|sort=とう|-}} {{ltc-l|東||east}}. The {{m|ja|漢音|kan'on}} reading, so likely a later borrowing.
+From {{der|ja|ltc|sort=とう|-}} {{ltc-l|東||east}}. 
+
+The ''{{m|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=kan|とう}}
@@ -107,7 +110,7 @@ From {{der|ja|ltc|sort=とう|-}} {{ltc-l|東||east}}. The {{m|ja|漢音|kan'on}
 ====Proper noun====
 {{ja-pos|proper|とう}}
 
-# {{surname|lang=ja|sort=とう}}
+# {{surname|lang=ja|A=a|nodot=1|sort=とう}}
 # {{abbreviation of|lang=ja|sort=とう|nodot=1|関東|tr=Kantō}}: the {{w|Kantō region}} of Japan
 # {{abbreviation of|lang=ja|sort=とう|nodot=1|東国|tr=Tōgoku}}: a historical administrative division of Japan, corresponding to the modern {{w|Kantō region|Kantō}} and {{w|Tōkai region|Tōkai}} regions
 
@@ -140,7 +143,7 @@ Sound shift from earlier ''pimukasi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</re
 {{ja-noun|ひんがし}}
 
 # {{lb|ja|sort=ひむかし|obsolete}} {{l|en|east}}
-#* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 4, page 82)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
+#* '''10th century''', ''{{w|Ise Monogatari}}'' (chapter 4, page 82)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
 #*: むかし、'''東（ひんがし）'''の五条に大后の宮おはしましける、西の対に住む人有けり。
 
 ===Etymology 4===
@@ -157,19 +160,31 @@ Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.
 {{ja-noun|ひがし}}
 
 # {{l|en|east}}
+#: {{ant|ja|西|tr=nishi}}
+# {{l|en|wind}} {{l|en|blow|blowing}} from the east
+#: {{syn|ja|東風|tr=ayu, kochi, kochikaze, tōfū, higashikaze}}
+# {{lb|ja|sumo|sort=ひがし}} [[high]]er-[[rank]]ed [[wrestler]]s listed on the right of a ''[[banzuke]]''
+#: {{ant|ja|西|tr=nishi}}
+# {{lb|ja|historical|sort=ひがし}} an [[Eastern Bloc]] [[country]]
+#: {{syn|ja|東側|tr=higashigawa}}
+#: {{ant|ja|西|tr=nishi}}
+# [[Kamakura]] and historical [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]
+#: {{ant|ja|西|tr=nishi}}
+# {{lb|ja|theater}} {{rfdef|ja}}
 
 =====Derived terms=====
-{{der-top|Terms derived from ひがし}}
-* {{ja-r|東%側|ひがし%がわ}}: east side
-* {{ja-r|東%口|ひがし%ぐち}}: east entrance
-* {{ja-r|東%半%球|ひがし% はん%きゅう}}: Eastern Hemisphere
+{{der-top}}
+* {{ja-r|東%側|ひがし%がわ|east side}}
+* {{ja-r|東%口|ひがし%ぐち|east entrance}}
+* {{ja-r|東 半球|ひがし はんきゅう|Eastern Hemisphere}}
 {{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|ひがし|proper}}
 
-# {{surname|lang=ja|sort=ひがし}}
-# any of various places in Japan
+# {{lb|ja|historical|sort=ひがし}} a [[red-light district]] in [[Edo]], where it is today in Fukagawa, {{w|Kōtō}} Ward {{gl|as it was located ''east'' of {{w|Edo Castle}}}}
+# {{surname|lang=ja|A=a|nodot=1|sort=ひがし}}
+# ''a [[place name]]''
 
 ===Etymology 5===
 {{ja-kanjitab|yomi=k|あずま}}
@@ -181,25 +196,28 @@ From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 ====Pronunciation====
 {{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}
 
+====Alternative forms====
+* {{ja-l|吾妻}}, {{ja-l|吾嬬}}
+
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
 
 # {{lb|ja|archaic|sort=あずま}} {{l|en|east}}
 # {{lb|ja|archaic|by extension|sort=あずま}} eastern Japan
-# {{abbreviation of|lang=ja|東琴|nodot=1}} (''azumagoto''): a six-stringed Japanese {{l|en|zither}}
+# {{short for|lang=ja|東琴|nodot=1}} (''azumagoto''): a six-stringed Japanese {{l|en|zither}}
 # {{lb|ja|archaic|possibly|_|obsolete}} the {{l|en|Edo}} area {{qualifier|specifically used in the Kansai region, especially around Kyōto and Ōsaka}}
 
 ====Proper noun====
 {{ja-pos|あずま|proper|hhira=あづま}}
 
-# {{given name|female|lang=ja|sort=あずま}}
-# {{surname|lang=ja|sort=あずま}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=あずま}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あずま}}
 # any of various places in Japan
 
 {{ja-pos|proper|あづま}}
 
-# {{given name|lang=ja|sort=あづま|female}}
-# {{surname|lang=ja|sort=あづま}}
+# {{given name|lang=ja|A=a|nodot=1|sort=あづま|female}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あづま}}
 
 ===Etymology 6===
 {{ja-kanjitab|とん|yomi=irr|sort=とん}}
@@ -212,8 +230,10 @@ Borrowed from {{bor|ja|zh|sort=とん|東}}, borrowed specifically as {{l|en|mah
 ====Noun====
 {{ja-noun|トン}}
 
-# {{lb|ja|mahjong|sort=とん}} {{l|en|east wind}} ({{l|en|tile}})
-# {{lb|ja|mahjong|sort=とん}} a {{m|ja|役|tr=yaku||[[hand]]}} of a {{l|en|triplet}} or {{l|en|quad}} of east wind tiles, see {{ja-l|役牌}}
+# {{lb|ja|mahjong|sort=とん}} {{l|en|east wind}} ({{l|en|mahjong}} {{l|en|tile}})
+#: {{hyper|ja|風牌|tr=kazehai, fanpai}}
+# {{lb|ja|mahjong|sort=とん}}  a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of east wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}
+#: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}
 
 =====Derived terms=====
 * {{ja-r|東%風%戦|トン%ぷう%せん|east-round game}}
