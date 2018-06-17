@@ -17,40 +17,43 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|水|alt1=氵|女|ls=psc|c1=s|c2=p}}.
+{{Han compound|水|女|ls=psc|c1=s|c2=p|t1=river; water}}.
 
 ===Etymology===
+; river
+: Probably related to {{cog|qfa-kms-pro|*Ɂnjaᴬ||river}}, whence {{cog|kmc|nyal||river}}, {{cog|swi|qnyal}} ({{zh-ref|Schuessler, 2007}}).
 ; “you”
 : From {{inh|zh|sit-pro|*na-ŋ||you}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=rǔ
-|m-s=
+|m-s=ru3
 |c=jyu5
 |c-t=
 |g=
-|h=pfs=
+|h=pfs=nî;gd=ni1
 |j=
 |mb=nṳ̌
 |md=nṳ̄
-|mn=xm,zz,kh,tn,tc,yl,hc,ph,sg:lí/qz,ta,lk,sx,km,hc,sg:lír/tp,mg,sg,pn,md:lú/kh:jú/zz:jí/zz:ní
-|mn_note=lí/lír/lú - vernacular; lí/lír/lú/jú/jí/ní - literary
+|mn=xm,zz,kh,tn,tc,yl,hc,ph,sg:lí/qz,ta,lk,sx,km,hc,sg:lír/xm,tp,mg,sg,pn,md:lú/kh:jú/zz:jí/zz:ní
+|mn_note=Xiamen: lí - vernacular; lú - literary
+Zhangzhou: lí - vernacular; jí/ní - literary
+mainstream Taiwan: lí - vernacular; jú/lú - literary
 |mn-t=le2/lu2/re2/ru2
 |mn-t_note=le2/lu2 - vernacular; re2/ru2 - literary
 |w=3zr
-|x=
+|x=y3
 |mc=y
 |oc=y
 |cat=pn,pron
 }}
-{{attention|zh|Min Nan needs checking}}
 
 ===Definitions===
 {{zh-hanzi}}
 
 # {{zh-div|水|河}} {{w|zh:汝水|Ru River}}, a [[northern]] [[tributary]] of the [[Huai River]] in modern-day [[southern]] [[Henan]] [[province]]. The name also refers to the {{w|Hong River (Huai River Tributary)|Hong River}} in its lower reaches, which now shares a common course with the Ru, as well as a southern tributary of the Hong.
-# {{lb|zh|literary|or|Min}} [[you]] {{gloss|second-person pronoun}}
+# {{lb|zh|literary|or|coastal|_|Min}} [[you]] {{gloss|second-person pronoun}}
 #: {{zh-x|^@子 ^@貢 問 曰：「^@賜 也 何如？」^子.曰：「'''女{rǔ}''' 器 也。」|Zi-Gong asked, "As for Ci [Zi-Gong's given name], what is [he] like?" The Master said, "'''You''' are a utensil."|ref=Analects}}
 # {{surname|lang=zh}}
 
