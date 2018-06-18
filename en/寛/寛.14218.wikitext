@@ -1,20 +1,35 @@
-{{also|宽|寬}}
+{{also|寬|宽}}
 {{character info/new}}
 ==Translingual==
 {{Han simplified forms|寬|寛|宽}}
 
-===Han character===
-{{Han char|rn=40|rad=宀|as=10|sn=13|four=|canj=JTBU|ids=⿳宀艹見}}
+===Alternative forms===
+* <big>⿳{{l|mul|[[宀]][[𦫳#Translingual|⻀]][[見]]}}</big> - Contains <big>[[𦫳#Translingual|⻀]]</big> ''(ram's horn)'' instead of {{l|mul|艹}} ''(grass radical)''. See derived characters below.
 
-# [[broad]]
+===Han character===
+{{Han char|rn=40|rad=宀|as=10|sn=13|four=30212|canj=JTBU|ids=⿳宀艹見}}
+
+====Derived characters====
+* <big>{{l|mul|[[𭳈]]}}</big>  ''(Contains {{l|mul|⿳[[宀]][[艹]][[見]]}}, grass radical)'' <!-- Note: 𫣷 contains 寬 (with dot) not 寛 -->
+* <big>{{l|mul|[[𡬘]]}}</big> ''(Contains <big>{{l|mul|⿳[[宀]][[𦫳#Chinese|⻀]][[見]]}}</big>, ram's horn. Exception: Only for its {{w|CJK Compatibility Ideographs|compatibility form}}'' (<code>U+2F871</code>))
+* <big>{{l|mul|[[𡣚]], [[𬞸]]}}</big> ''(Contains <big>{{l|mul|⿳[[宀]][[𦫳#Chinese|⻀]][[見]]}}</big>, ram's horn)''
+
+====Related characters====
+* <big>{{l|mul|[[寬]]}}</big> ''(Orthodox {{w|Traditional Chinese characters|traditional form}})''
+* <big>{{l|mul|[[宽]]}}</big> ''({{w|Simplified Chinese}})''
 
 ====References====
-* {{Han ref|kx=0290.121|dkj=07276|hdz=20945.080|uh=5BDB|ud=23515}}
+{{Han ref|kx=0290.121|dkj=07276|hdz=20945.080|uh=5BDB}}
 
 ----
 
 ==Chinese==
-{{zh-see|寬|v}}
+
+===Glyph origin===
+Unorthodox form {{Han simp|寬|f=萈|t=莧|nocap=y}}. Elimination of {{l|zh|丶}} and {{l|zh|𦫳|⻀}} → {{l|zh|艹}}. Originally found in the historical {{w|Longkan Shoujian}} ({{w2|zh|龍龕手鑑}}) dictionary.
+
+===Definitions===
+{{zh-see|寬|v}} <!-- Refer 《龍龕手鑑．宀部》 and http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAxMDUyLTAwMQ#22 -->
 
 ----
 
@@ -24,7 +39,7 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=宀10|kyu=寬}}
 
-# tolerant
+# [[tolerant]]; [[lenient]]; [[generous]]
 
 ====Readings====
 {{ja-readings
@@ -58,3 +73,5 @@
 {{ko-hanja|hangeul=관|rv=gwan|mr=kwan}}
 
 # {{defn|lang=ko|sort=宀10}}
+
+----
