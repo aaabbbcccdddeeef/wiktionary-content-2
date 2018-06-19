@@ -45,7 +45,10 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|流徙}}
 
 ----
 
@@ -57,14 +60,17 @@
 # {{defn|lang=ja|sort=彳08}}
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[うつる]] (utsuru)}}
+{{ja-readings
+|goon=し
+|kanon=し
+|kun=うつ-す, うつ-る}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+{{ko-hanja|hangeul=사|eumhun=}}
 
 # {{defn|lang=ko|sort=彳08}}
 
@@ -73,7 +79,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=彳08|hanviet=[[si]], [[tỉ]]}}
+{{vi-hantu|rs=彳08|[[si]], [[tỉ]]}}
 
 # {{defn|lang=vi|sort=彳08}}
 
