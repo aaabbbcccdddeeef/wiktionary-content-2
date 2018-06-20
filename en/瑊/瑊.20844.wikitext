@@ -5,15 +5,16 @@
 {{Han char|rn=96|rad=玉|as=09|sn=13|four=13150|canj=MGIHR|ids=⿰𤣩咸}}
 
 ====References====
-* {{Han ref|kx=0737.030|dkj=21105|dj=1148.060|hdz=21125.140|uh=744A|ud=29770|bh=DEB2|bd=57010}}
+{{Han ref|kx=0737.030|dkj=21105|dj=1148.060|hdz=21125.140|uh=744A}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
 
-===Glyph Origin===
+===Glyph origin===
 {{Han etym}}
+{{Han compound|玉|咸|ls=psc|c1=s|c2=p|t1=[[jade]]}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -22,10 +23,13 @@
 |mc=y
 |oc=y
 |ma=
-|cat=
+|cat=pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{defn|lang=zh}}
+# {{zh-only|瑊玏|[[jadelike]] [[stone]]}}
+
+====Compounds====
+{{zh-der|瑊玏|瑊石}}
