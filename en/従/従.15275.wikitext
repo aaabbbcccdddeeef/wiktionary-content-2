@@ -1,34 +1,45 @@
-{{also|從}}
+{{also|從|征}}
 {{character info/new}}
 ==Translingual==
 {{Han simplified forms|從|従|从}}
 
-===Glyph origin===
-{{Han simp|從|f=从|t=䒑}}. The modern Japanese usage is of reform (shinjitai) nature.
-
 ===Han character===
-{{Han char|rn=60|rad=彳|as=07|sn=10|four=|canj=HOTYO|ids=⿰彳⿱䒑龰}}
+{{Han char|rn=60|rad=彳|as=07|sn=10|four=28281|canj=HOTYO|ids=⿰彳⿱䒑龰}}
 
-====See also====
-* {{l|mul|征}} <!-- visually similar -->
+====Derived characters====
+* {{l|mul|[[𫞋]], [[縦]], [[𧱷]], [[𮜀]], [[𭞁]], [[𮋹]]}}
+
+====Related characters====
+* {{l|mul|從}} ''(Orthodox {{w|Traditional Chinese|traditional form}})''
 
 ====References====
-* {{Han ref|kx=0367.271|dkj=10133|dj=0691.130|hdz=20826.040|uh=5F93|ud=24467}}
+{{Han ref|kx=0367.271|dkj=10133|dj=0691.130|hdz=20826.040|uh=5F93}}
 
 ----
 
 ==Chinese==
-{{zh-see|從|v}}
+
+===Glyph origin===
+Unorthodox variant {{Han simp|從|f=从|t=䒑|nocap=y}} found in the Tang dynasty orthographic dictionary {{w|Ganlu Zishu}} ({{w2|zh|干祿字書}}).
+
+===Definitions===
+{{zh-see|從}}
+
+===References===
+{{R:twedu|A01293-003#18}}
 
 ----
 
 ==Japanese==
 {{ja-kanji forms|従|從}}
 
+===Glyph origin===
+{{Han simp|從|f=从|t=䒑}}. Based on the character found in the Chinese orthographic dictionary {{w|Ganlu Zishu}} ({{w2|ja|干祿字書}})<!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAxMjkzLTAwMw#18 --> and adopted as a {{w|shinjitai}} form in the 1946 {{w|Tōyō kanji}} list. 
+
 ===Kanji===
 {{ja-kanji|grade=6|rs=彳07|kyu=從}}
 
-# obey
+# to [[accompany]]; to [[obey]]; to [[comply]]
 
 ====Readings====
 {{ja-readings
@@ -39,18 +50,22 @@
 }}
 
 ====Compounds====
-{{top2}}
-* [[従者]]
-* [[従順]]
-* [[従前]]
-* [[従属]]
-* [[従来]]
-* [[従兄弟]]
-* [[従姉妹]]
-{{mid2}}
-* [[主従]]
-* [[臣従]]
-* [[追従]]
-* [[盲従]]
-* [[隷従]]
-{{bottom}}
+{{der2|lang=ja
+|{{ja-r|従兄弟|いとこ}}: {{l|en|male}} {{l|en|cousin}}
+|{{ja-r|従姉妹|いとこ}}: {{l|en|female}} {{l|en|cousin}}
+|{{ja-r|臣従|しんじゅう}}: {{l|en|vassalage}}
+|{{ja-r|従業|じゅうぎょう}}: {{l|en|employment}}
+|{{ja-r|従軍|じゅうぐん}}: {{l|en|war}} {{l|en|campaign}}; {{l|en|military}} {{l|en|service}}
+|{{ja-r|従者|じゅうしゃ}}: {{l|en|attendant}}; {{l|en|servant}}; {{l|en|follower}}
+|{{ja-r|従事|じゅうじ}}: {{l|en|engagement}}
+|{{ja-r|主従|しゅうじゅう}}: {{l|en|master}} and {{l|en|servant}}; {{l|en|employer}} and {{l|en|employee}}
+|{{ja-r|従順|じゅうじゅん}}: {{l|en|obedient}}; {{l|en|submissive}}; {{l|en|docile}}
+|{{ja-r|従前|じゅうぜん}}; {{l|en|previous}}; {{l|en|former}}
+|{{ja-r|従属|じゅうぞく}}; {{l|en|subordination}}; {{l|en|dependency}}
+|{{ja-r|従僕|じゅうぼく}}: {{l|en|male}} {{l|en|attendant}} {{l|en|servant}}
+|{{ja-r|従来|じゅうらい}}: {{l|en|until}} {{l|en|now}}; {{l|en|conventional}}; {{l|en|existing}}
+|{{ja-r|追従|ついしょう}}: {{l|en|flattery}}
+|{{ja-r|服従|ふくじゅう}}: {{l|en|obedience}}; {{l|en|submission}}
+|{{ja-r|盲従|もうじゅう}}: {{l|en|blind}} {{l|en|obedience}}
+|{{ja-r|隷従|れいじゅう}}: {{l|en|slavery}}
+}}
