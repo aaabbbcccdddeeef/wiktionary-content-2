@@ -3,22 +3,27 @@
 ==Translingual==
 {{Han simplified forms|歸|帰|归}}
 
-===Etymology===
-{{Han simp|歸}}. Current form graphically roughly {{Han compound|刂|帚}}.
-
 ===Han character===
-{{Han char|rn=50|rad=巾|as=07|sn=10|four=|canj=LLSMB,IHSMB|ids=⿰刂帚}}
+{{Han char|rn=50|rad=巾|as=07|sn=10|four=27027|canj=LLSMB,IHSMB|ids=⿲丨丿帚}}
 
-# [[return]] (home)
-# return to, [[revert]] to
+====Related characters====
+* {{l|mul|[[歸]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}})''
 
 ====References====
-* {{Han ref|kx=0332.121|dkj=08930|dj=0638.110|hdz=10739.160|uh=5E30|ud=24112}}
+{{Han ref|kx=0332.121|dkj=08930|dj=0638.110|hdz=10739.160|uh=5E30}}
 
 ----
 
 ==Chinese==
-{{zh-see|歸|v}}
+
+===Glyph origin===
+Unorthodox variant {{Han simp|歸|nocap=y}} (⿱{{l|zh|[[𠂤]][[止]]}} → ⿰{{l|zh|[[丨]][[丿]]}}) originally found in the {{w|Yuan dynasty}} orthographic dictionary <big>《字鑑》</big>.
+
+===Definitions===
+{{zh-see|歸}}
+
+===References===
+{{R:twedu|A02075-005#31}}
 
 ----
 
@@ -28,9 +33,26 @@
 ===Kanji===
 {{ja-kanji|grade=2|rs=巾07|kyu=歸}}
 
+# to [[return]]; to [[come back]] to
+
 ====Readings====
 {{ja-readings
 |goon=き
 |kanon=き
 |kun=かえ-る, かえ-す, とつ-ぐ, おく-る
+}}
+
+====Compounds====
+{{der2|lang=ja
+|{{ja-r|帰依|きえ}}: {{lb|ja|Buddhism}} {{l|en|refuge}}
+|{{ja-r|帰化|きか}}: {{l|en|naturalization}}
+|{{ja-r|帰還|きかん}}: {{l|en|repatriation}}
+|{{ja-r|帰京|ききょう}}: to {{l|en|return}} to the {{l|en|capital}} ({{l|en|Tokyo}})
+|{{ja-r|帰国|きこく}}: to {{l|en|return}} to one's {{l|en|country}}
+|{{ja-r|帰順|きじゅん}}: {{l|en|submission}} to a {{l|en|government}} or {{l|en|ruler}}
+|{{ja-r|帰省|きせい}}: {{l|en|homecoming}}; to {{l|en|return}} {{l|en|home}}
+|{{ja-r|帰属|きぞく}}: {{lb|ja|psychology}} {{l|en|attribution}}
+|{{ja-r|帰宅|きたく}}: to {{l|en|return}} {{l|en|home}}
+|{{ja-r|帰納|きのう}}: {{l|en|inductive reasoning}}
+|{{ja-r|帰阪|きはん}}: to {{l|en|return}} to {{l|en|Osaka}}
 }}
