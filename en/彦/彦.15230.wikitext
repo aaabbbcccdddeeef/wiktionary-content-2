@@ -28,19 +28,27 @@
 ===Kanji===
 {{ja-kanji|grade=n|rs=彡06}}
 
+# [[accomplish]]ed [[young]] [[man]]
+
 ====Readings====
 {{ja-readings
 |goon=げん
 |kanon=げん
 |kun=ひこ-
+|nanori=お, さと, ひろ, やす, よし 
 }}
+
+====Compounds====
+* {{ja-r|俊彦|しゅんげん}}
+* {{ja-r|諸彦|しょげん}}
 
 ===Etymology===
 {{ja-kanjitab|ひこ|yomi=k}}
+{{IPAfont|⟨pi<sub>1</sub> ko<sub>1</sub>⟩}} → *{{IPAchar|/pʲikʷo/}} → {{IPAchar|/fiko/}} → {{IPAchar|/hiko/}}
 
-{{IPAchar|/pi<sub>1</sub>ko<sub>1</sub>/}}: *{{IPAchar|[piko]}} → {{IPAchar|[ɸiko]}} → {{IPAchar|[hiko]}}
+From {{inh|ja|ojp|sort=ひこ|-}}. 
 
-From {{etyl|ojp|ja|sort=ひこ}}. Compound of {{compound|lang=ja|sort=ひこ|日|tr1=hi|t1=sun|pos1=a prefix or appellation used in reference to the imperial family|子|tr2=ko|t2=child}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+Originally a compound of {{compound|lang=ja|sort=ひこ|日|tr1=hi|t1=[[sun]]|pos1=prefix or appellation used in reference to the imperial family|子|tr2=ko|t2=[[child]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijisen}}</ref><ref name="DJR"/>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|ひこ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
@@ -48,19 +56,29 @@ From {{etyl|ojp|ja|sort=ひこ}}. Compound of {{compound|lang=ja|sort=ひこ|日
 ===Noun===
 {{ja-noun|ひこ}}
 
-# a male child, a boy
-# a prince
-# chieftain; in ancient Japan, the ruler of a regional land
+# {{lb|ja|euphemistic|poetic|sort=ひこ}} a [[boy]], [[young]] [[man]]; especially:
+## a [[prince]]
+## {{lb|ja|historical|sort=ひこ}} a [[chieftain]] in ancient Japan
+#: {{ant|ja|姫|tr=hime}}
 
-====Synonyms====
-* {{ja-r|王子|おうこ}}
-* {{ja-r|王|おう}}
+====Usage notes====
+Usually found as a suffix in male given names.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|彦帯|ひこ.おび}}
+* {{ja-r|天彦|あまびこ}}
+* {{ja-r|雨彦|あまびこ}}
+* {{ja-r|苺|イチゴ}}
+* {{ja-r|喉彦|のどひこ}}, {{ja-r|喉彦|のどびこ}}
+{{der-bottom}}
+
+====See also====
+* {{ja-r|王子|おうじ|[[prince]]}}
+* {{ja-r|王|おう|[[king]]}}
+* {{ja-r|息子|むすこ|[[son]]}}
+* {{ja-r|男|おとこ|[[man]]}}
 * {{ja-r|若君|わかぎみ}}
-
-===See also===
-* {{ja-r|姫|ひめ}}: a {{l|en|princess}}
-* {{ja-r|息子|むすこ}}: a {{l|en|son}}
-* {{ja-r|男|おとこ}}: a {{l|en|man}}
 
 ===References===
 <references/>
