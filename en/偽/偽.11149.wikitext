@@ -55,51 +55,58 @@
 {{ja-kanji|grade=c|rs=人09|kyu=僞}}
 
 # [[falsehood]], [[lie]]
-# [[deceive]]
-# [[pretend]]
-# [[counterfeit]],  [[forgery]] 
+# [[fake]], [[forgery]]
 
 ====Readings====
 {{ja-readings
 |goon=が<ぐわ, ぎ<ぎ<ぐゐ
 |kanon=が<ぐわ, ぎ<ぎ<ぐゐ
 |kanyoon=か<くわ
-|kun=いつわ-る<いつは-る, にせ-
+|kun=いつわ-り<いつは-り, いつわ-る<いつは-る, にせ-
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|偽%装|ぎ%そう|[[camouflage]]; [[pretense]]}}
-* {{ja-r|偽%造|ぎ%ぞう|[[counterfeit]]ing}}
-* {{ja-r|偽%善|ぎ%ぜん|[[hypocrisy]]}}
-* {{ja-r|偽%薬|ぎ%やく|[[placebo]]}}
-* {{ja-r|虚%偽|きょ%ぎ}}, {{ja-r|虚偽|こぎ|[[falsehood]]; [[fallacy]]}}
-* {{ja-r|詐偽|さぎ|[[lie]]}}
-* {{ja-r|真%偽|しん%ぎ|[[authenticity]], [[veracity]]}}
+* {{ja-r|疑似|ぎじ}}
+* {{ja-r|偽装|ぎそう}}
+* {{ja-r|偽造|ぎぞう}}
+* {{ja-r|偽善|ぎぜん}}
+* {{ja-r|偽名|ぎめい}}
+* {{ja-r|偽%薬|ぎ%やく}}
+* {{ja-r|虚偽|きょぎ}}, {{ja-r|虚偽|こぎ}}
+* {{ja-r|詐偽|さぎ}}
+* {{ja-r|真偽|しんぎ}}
 {{der-bottom}}
-
-====See also====
-* {{ja-r|偽り|いつわり}}
 
 ===Etymology 1===
 {{ja-kanjitab|ぎ|yomi=o}}
-{{IPAchar|/ɡwi/}} → {{IPAchar|/ɡi/}}
+{{IPAchar|/ŋui/}} → {{IPAchar|/ɡwi/}} → {{IPAchar|/ɡi/}}
 
 From {{der|ja|ltc|sort=ぎ|-}} {{ltc-l|僞}}.
 
 ====Pronunciation====
 {{ja-pron|y=o|ぎ|acc=1|acc_ref=DJR}}
 
-====Adjectival noun====
+====Noun====
 {{ja-noun|kyu=僞|ぎ}}
-# {{lb|ja|logic|sort=き}} [[false]]
+
+# a [[falsehood]], [[lie]]
+#: {{syn|ja|偽り|tr=itsuwari}}
+# {{lb|ja|logic|sort=き}} a [[false]] [[statement]] {{gl|usually [[base]]d without [[fact]]s}}
+#: {{ant|ja|真|tr=shin|真理|tr2=shinri}}
 
 =====Derived terms=====
-* {{ja-r|偽%名|ぎ%めい|false [[name]]}}
+{{der-top}}
+* {{ja-r|偽印|ぎ.いん}}
+* {{ja-r|偽%札|ぎ%さつ}}
+* {{ja-r|偽%陰性|ぎ%いんせい}}
+* {{ja-r|偽%陽性|ぎ%ようせい}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|にせ|yomi=k}}
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|似せる|tr=niseru||[[copy]], [[imitate]], [[forge]]}}. {{rfv-etymology|ja}}
+
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|似せる|tr=niseru||[[copy]], [[imitate]], [[forge]]}}.<ref>{{R:Daijisen}}</ref>
 
 ====Alternative forms====
 * {{ja-l|贋}}
@@ -109,21 +116,37 @@ The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|似せ
 
 ====Adjectival noun====
 {{ja-noun|kyu=僞|にせ|ニセ}}
-# [[imitation]], [[fake]]
-# [[counterfeit]], [[forgery]]
 
-====Prefix====
-{{ja-pos|prefix|kyu=僞|にせ|ニセ}}
-# [[pseudo-]]
+# a [[counterfeit]], [[forgery]]
+# an [[imitation]], [[replica]]
+# ''[[prefix]]ed to [[noun]]s'':
+## counterfeit, [[forge]]d
+##: {{ja-usex|[[偽札|'''偽'''札]]|'''にせ'''さつ|'''counterfeit''' [[paper money]]|sort=にせ}}
+## [[fake]], [[false]]
+##: {{ja-usex|'''偽'''[[学生]]|'''にせ'''-がくせい|[[student]] with a '''false identity'''}}
 
 =====Usage notes=====
 * {{U:ja:informal|ニセ}}
 
 =====Derived terms=====
+{{der-top}}
+* {{ja-r|偽アカウント|にせ-アカウント}}, {{ja-r|偽アカ|にせアカ}}
+* {{ja-r|偽印|にせいん}}
+* {{ja-r|偽書|にせがき|rom=-}}, {{ja-r|偽%書き|にせ%がき}}
+* {{ja-r|偽金|にせがね}}
+* {{ja-r|偽首|にせくび}}
+* {{ja-r|偽札|にせさつ}}
+* {{ja-r|偽%証文|にせ%-じょうもん}}
+* {{ja-r|偽 電話 詐欺|にせ でんわ さぎ}}
+* {{ja-r|偽判|にせ-はん}}
+* {{ja-r|偽者|にせもの}}
 * {{ja-r|偽物|にせもの}}
+{{der-bottom}}
 
 ===References===
 <references/>
+
+[[Category:Japanese prefixes|にせ]]
 
 ----
 
