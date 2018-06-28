@@ -32,10 +32,21 @@
 
 ====Readings====
 {{ja-readings
-|on=ぞく, しょく, しゅ
+|goon=そく,ぞく
+|kanon=しょく
+|on=しゅ
 |kun=やから-, つ-く, さかん
 }}
 
-{{attention|ja|has Taxonomy category but no corresponding Noun entry}}
+===Etymology===
+From {{der|ja|ltc|屬|tr=dzyowk}}
 
-[[Category:ja:Taxonomy]]
+===Pronunciation===
+{{ja-kanjitab|ぞく|yomi=o}}
+{{ja-pron|acc=1|ぞく|y=go}}
+{{swp|lang=ja}}
+
+===Noun===
+{{ja-noun|ぞく|kyu=屬}}
+
+# {{lb|ja|taxonomy|sort=そく'}} a {{l|en|family}}
