@@ -5,8 +5,11 @@
 ===Han character===
 {{Han char|rn=93|rad=牛|as=02|sn=6|four=21510|canj=HQP|ids=⿰牛匕}}
 
+====Derived characters====
+* {{l|mul|[[𪊯]], [[𪀻]]([[𬸋]])}}
+
 ====References====
-* {{Han ref|kx=0697.020|dkj=19925|dj=1109.010|hdz=31800.040|uh=725D|ud=29277|bh=A6C9|bd=42697}}
+{{Han ref|kx=0697.020|dkj=19925|dj=1109.010|hdz=31800.040|uh=725D}}
 
 ----
 
@@ -23,17 +26,20 @@
 |c=pan5,fan5
 |mc=y
 |oc=y
-|cat=
+|cat=a,n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# [[female]] [[animal]]
+# {{lb|zh|of an [[animal]]}} [[female]] 
+#: {{zh-syn|雌}} ''(modern Mandarin)''
+#: {{zh-ant|牡|[[male]]}}
+# {{lb|zh|obsolete}} [[female]] [[genital]]
+# type of [[keyhole]] in [[ancient]] times
 # [[gorge]]
-# {{lb|zh|ancient}} [[keyhole]]
 
-===Compounds===
+====Compounds====
 {{zh-der|牝牡|牝雞晨鳴|父子同牝|牝雞無晨|牝雞牡鳴|牝雞司晨|牝朝|牝戶|牝瘧|牝牡驪黃|虛牝|騋牝}}
 
 ===References===
@@ -70,8 +76,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=牛02|hanviet=tẫn}}
+{{vi-hantu|rs=牛02|[[tẫn]]}}
 
 # {{defn|vi|sort=牛02}}
-
-{{cln|vi|Han tu}}
