@@ -5,13 +5,11 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=11|sn=14|four=31116|canj=ESRR|ids=⿰氵區}}
 
-# [[soak]], [[steep]], [[ret]]
-# [[sodden]], [[soaked]]
-# [[rotten]]
-# [[foam]], [[froth]]
+====Related characters====
+* {{l|mul|[[沤]]}} ''({{w|Simplified Chinese}})''
 
 ====References====
-* {{Han ref|kx=0646.030|dkj=18139|dj=1055.060|hdz=31719.030|uh=6F1A|ud=28442|bh=E278|bd=57976}}
+{{Han ref|kx=0646.030|dkj=18139|dj=1055.060|hdz=31719.030|uh=6F1A}}
 
 ----
 
@@ -21,23 +19,53 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=òu,ōu
-|c=au3,au1
+|m=òu
+|c=au3,ngau3
 |h=pfs=
 |md=
 |mn=au
 |w=
-|mc=y
-|oc=y
-|cat=v,a,n
+|mc=2
+|oc=2
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# to [[soak]] for a [[prolonged]] [[period]] of [[time]]
+# {{lb|zh|dialectal}} to [[suppress]] one's [[feeling]]s for a [[long]] [[time]]
+
+=====Compounds=====
+{{zh-der|漚肥|漚鬱|漚麻|蒸漚歷瀾}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=ōu
+|c=au1,ngau1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=1
+|oc=1
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[foam]]; [[froth]]
+# {{zh-alt-form|鷗}}
+# {{zh-div|江}} name of [[river]]
+
+=====Compounds=====
+{{zh-der|水上漚|浮漚|漚子|漚籃|浮漚|如海一漚}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -46,10 +74,8 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水11}}
 
-# [[soak]]
-# [[steep]]
-# [[sodden]]
-# [[soaked]]
+# to [[soak]]; to [[steep#Verb|steep]]
+# [[sodden]]; [[soaked]]
 
 ====Readings====
 {{ja-readings
@@ -64,7 +90,7 @@
 ===Hanja===
 {{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
 
-# [[soak]]
+# to [[soak]]
 # [[fragrance]]
 # [[foam]], [[bubble]]
 
@@ -73,7 +99,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = âu}}
+{{vi-hantu|rs=水11|[[âu]]}}
 
 # {{defn|lang=vi|sort=水11}}
 
