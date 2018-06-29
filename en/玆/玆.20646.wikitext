@@ -1,12 +1,23 @@
-{{also|兹|茲}}
+{{also|茲|兹}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=95|rad=玄|as=05|sn=10|four=|canj=YIYVI|ids=⿰玄玄}}
+{{Han char|rn=95|rad=玄|as=05|sn=10|four=00732|canj=YIYVI|ids=⿰玄玄}}
+
+====Derived characters====
+* {{l|mul|[[嬨]]}} ''(Exception: Only for its {{w|CJK Compatibility Ideographs|compatibility ideograph}} <code>U+FA81</code>)''
+* {{l|mul|[[滋]]}} ''(Exception: Only for its {{w|CJK Compatibility Ideographs|compatibility ideograph}} <code>U+FA99</code>)''
+* {{l|mul|[[甆]]}} ''(Exception: Only for its {{w|CJK Compatibility Ideographs|compatibility ideograph}} <code>U+FAA2</code>)''
+* {{l|mul|[[鶿]]}} ''(Exception: Only for its {{w|Hanja|Korean}} form. Contains {{l|mul|兹}} in other regions)''
+* {{l|mul|[[螆]]}} ''(Exception: Only for its {{w|Japanese}} form. Contains {{l|mul|茲}} in Taiwan/Hong Kong and {{l|mul|兹}} in mainland China)''
+
+====Related characters====
+* <big>{{l|mul|[[茲]]}}</big> ''(Orthodox form when ''<big>玆</big>'' is used as a {{w|Variant Chinese character|variant form}} - Refer [[玆#Etymology 2|Etymology 2]])''
+* <big>{{l|mul|[[兹]]}}</big> ''({{w|Variant Chinese character|Variant form}} of {{l|mul|茲}}, also the preferred form used in mainland China)''
 
 ====References====
-* {{Han ref|kx=0725.030|dkj=20816|dj=1135.020|hdz=10288.010|uh=7386}}
+{{Han ref|kx=0725.030|dkj=20816|dj=1135.020|hdz=10288.010|uh=7386}}
 
 ----
 
@@ -14,7 +25,10 @@
 {{zh-forms}}
 
 ===Etymology 1===
-{{rfe|lang=zh}}
+
+====Glyph origin====
+{{Han etym}}
+{{zh-etym-double|玄|[[deep]]; [[profound]]}}
 
 ====Pronunciation====
 {{zh-pron
@@ -23,14 +37,21 @@
 |mc=y
 |oc=y
 |ma=
-|cat=a
+|cat=a,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # [[black]]
-# [[muddy]]
+# [[muddy]]; [[dirty]]
+#: {{zh-syn|濁}}
+#: {{zh-alt-inline|滋}}
+#: {{zh-x|拘 鄫 人 之 漚 菅 者，曰：何 故 使 吾 水 玆{zī}。|A man from the state of {{l|zh|鄫}} <small>(Zēng)</small> who was soaking {{l|zh|菅}} <small>(Themeda villosa grass)</small> was reprimanded and asked: "For what reason did you make our water dirty?"|ref={{w|Zuo Zhuan|Commentary on the Spring and Autumn Annals}} 《{{w2|zh|左傳|春秋左氏傳}}·[[:s:zh:春秋左氏傳/哀公|哀公·八年]]》}}
+# {{surname|lang=zh}} <!-- Refer Dictionary of Chinese Character Variants -->
+
+=====Compounds=====
+{{zh-der|玆白|玆夷}}
 
 ===Etymology 2===
 {{zh-see|茲|v}}
