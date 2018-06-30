@@ -1,13 +1,19 @@
 {{character info/new}}
+{{character info/new|0x2f87f}}
 ==Translingual==
 
-===Han character===
-{{Han char|rn=46|rad=山|as=10|sn=13|four=28732|canj=UTVI|ids=⿰山兹}}
+===Alternative forms===
+* In Chinese, the right component is <big>{{l|mul|兹}}</big>, which is the orthodox form found in the {{w|Kangxi dictionary}}.
+* In Korean {{w|hanja}}, the right component is <big>{{l|mul|茲}}</big>, which contains the grass radical.
+* A {{w|CJK Compatibility Ideographs|CJK compatibility ideograph}} exists at <code>U+2F87F</code> for the alternative form used in Taiwan which is similar to its Korean form.
+* In historical Chinese dictionaries such as {{w|Longkan Shoujian}} 《{{w2|zh|龍龕手鑑}}》 (997 AD) and {{w|Jiyun}} 《{{w2|zh|集韻}}》(1037 AD), the right component is written <big>{{l|mul|玆}}</big> (duplication of {{l|mul|玄}}).
 
-# a [[hill]] in [[Shandong]] [[province]]
+===Han character===
+{{Han char|rn=46|rad=山|as=09|ask=10|sn=12|snk=13|four=28732|canj=UTVI|ids=⿰山兹(GHT),⿰山茲(K,<code>U+2F87F</code>)}}
 
 ====References====
-* {{Han ref|kx=0317.340|dkj=08354|dj=0618.040|hdz=10789.030|uh=5D6B|ud=23915|bh=D8DB|bd=55515}}
+{{Han ref|kx=0317.340|dkj=08354|dj=0618.040|hdz=10789.030|uh=5D6B}}
+{{Han ref|uh=2F87F}}
 
 ----
 
@@ -23,10 +29,17 @@
 |c=zi1
 |mc=y
 |oc=y
-|cat=
+|cat=a,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-used in|嵫釐|{{lb|zh|of a [[mountain]]}} [[arduous]]; [[lofty]]}}
+# {{zh-used in|崦嵫|name of [[mountain]] in [[Gansu]] province}}
+
+====Compounds====
+{{zh-der|崦嵫|嵫景|嵫釐}}
+
+===References===
+* {{R:twedu|B00842}}
