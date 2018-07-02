@@ -7,10 +7,14 @@
 {{CJKV-forms|殺|杀|殺|殺}}
 
 ===Alternative forms===
-* In {{w|traditional Chinese}}, the bottom left component is {{l|mul|朮}} ({{l|mul|𣎳}} with additional dot) based on the {{w|Big5|encoding standards}} of Taiwan/Hong Kong. However, in the {{w|GB 18030|encoding standard}} of mainland China, the bottom left component is {{l|mul|朩}} instead which is one stroke less.
-* In Japanese {{w|kanji}} and Vietnamese {{w|History of writing in Vietnam|Nôm}}, the bottom left component is {{l|mul|木}}.
-* In Korean {{w|hanja}}, the component is {{l|mul|术}}, which is also the historical form found in the {{w|Kangxi dictionary}}.
-* Three {{w|CJK Compatibility Ideographs}} exist for this character. <code>U+F970</code> corresponds to the historical Kangxi form containing {{l|mul|术}} while <code>U+FA96</code> corresponds to the Japanese form containing {{l|mul|木}}. <code>U+2F8F5</code> is similar to the traditional form in Taiwan but has {{l|mul|𣎳}} instead of {{l|mul|朮}} as its bottom left component.
+* In {{w|traditional Chinese}} (based on the modern character forms used in {{w|zh:國字標準字體|Taiwan}} and {{w|zh:常用字字形表|Hong Kong}}), the bottom left component is {{l|mul|朮}} ({{l|mul|𣎳}} with an additional dot at its top right corner).
+* In mainland China (based on the {{w|Xin Zixing}} ({{w2|zh|新字形}}) standardized character forms), the bottom left component is {{l|mul|朩}} instead which is one stroke less.
+* In Korean {{w|hanja}}, the bottom left component is {{l|mul|术}}, which is also the historical form found in the {{w|Kangxi dictionary}}.
+* In Japanese {{w|shinjitai}} and Vietnamese [[Nôm]], the bottom left component is {{l|mul|木}} which is one stroke less.
+* Three {{w|CJK Compatibility Ideographs}} exist for this character:
+** <code>U+F970</code> corresponds to the Japanese {{w|kyūjitai}} form containing {{l|mul|术}} which is similar to the historical Kangxi form.
+** <code>U+FA96</code> corresponds to the alternative Korean form which is similar to the Japanese {{w|shinjitai}} form containing {{l|mul|木}}.
+** <code>U+2F8F5</code> is similar to the traditional form in Taiwan but has {{l|mul|𣎳}} (without dot at top right corner) instead of {{l|mul|朮}} as its bottom left component.
 
 ===Han character===
 {{Han char|rn=79|rad=殳|as=07|asmj+=06|sn=11|snmj+=10|four=47947|canj=KCHNE,KDHNE|ids=⿰⿱㐅朩殳(G),⿰⿱㐅朮殳(HT),⿰⿱㐅木殳(JV,<code>U+FA96</code>),⿰⿱㐅术殳(K,<code>U+F970</code>).⿰⿱㐅𣎳殳(<code>U+2F8F5</code>)}}
