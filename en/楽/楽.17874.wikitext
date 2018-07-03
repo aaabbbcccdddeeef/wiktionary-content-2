@@ -3,21 +3,30 @@
 ==Translingual==
 {{Han simplified forms|樂|楽|乐}}
 
-===Glyph origin===
-Variant of {{l|mul|樂}}. {{Han simp|樂|f=𢆶|t=}}.
-
-The modern Japanese usage is of reform ([[shinjitai]]) nature.
-
 ===Han character===
-{{Han char|rn=75|rad=木|as=09|sn=13|four=|canj=IOD,XIOD}}
+{{Han char|rn=75|rad=木|as=09|sn=13|four=32904|canj=IOD,XIOD|ids=}}
+
+====Derived characters====
+* {{l|mul|[[𭢫]], [[檪]], [[𭶒]], [[䃯]], [[𮝩]], [[𮣏]], [[𪴞]], [[𣛙]], [[薬]]}}
+
+====Related characters====
+* {{l|mul|[[樂]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}}, also a Japanese {{w|kyūjitai}})''
 
 ====References====
-* {{Han ref|kx=0542.191|dkj=15213|dj=0930.200|hdz=80020.140|uh=697D|ud=27005}}
+{{Han ref|kx=0542.191|dkj=15213|dj=0930.200|hdz=80020.140|uh=697D}}
 
 ----
 
 ==Chinese==
-{{zh-see|樂|v}}
+
+===Glyph origin===
+Unorthodox variant {{Han simp|樂|nocap=y}} ({{l|zh|𢆶}} → ⿱{{l|zh|[[丷]][[八]]}}) found in the Ming dynasty orthographic dictionary <big>《字學三正》</big>.<!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAyMDE2LTAwMw#33 --> Also found in 《{{w2|zh|宋元以來俗字譜}}》, a {{w|Variant Chinese character|variant forms}} dictionary compiled in 1930 that records unorthodox forms ({{l|zh|俗字}}) that have existed since the {{w|Song dynasty}}.
+
+===Definitions===
+{{zh-see|樂}}
+
+===References===
+* {{R:twedu|A02016-003#33}}
 
 ----
 
@@ -27,7 +36,7 @@ The modern Japanese usage is of reform ([[shinjitai]]) nature.
 ===Kanji===
 {{ja-kanji|grade=2|rs=木09|kyu=樂}}
 
-# comfort, ease
+# [[comfort]]; [[ease]]
 # [[music]]
 
 ====Readings====
@@ -38,17 +47,17 @@ The modern Japanese usage is of reform ([[shinjitai]]) nature.
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|音楽|おんがく}}: [[music]]
-* {{ja-r|神楽|かぐら}}: [[kagura]]
-* {{ja-r|室内楽|しつないがく}}: [[chamber music]]
-* {{ja-r|楽しい|たのし.い}}: fun, [[delightful]]
-* {{ja-r|舞楽|ぶがく}}: music for traditional court dances
-* {{ja-r|楽天|らくてん}}: [[optimism]]
-* {{ja-r|楽天家|らくてんか}}: [[optimist]]
-* {{ja-r|楽天主義|らくてんしゅぎ}}: [[optimism]]
-* {{ja-r|楽天主義者|らくてんしゅぎしゃ}}: [[optimist]]
-{{der-bottom}}
+{{der3|lang=ja
+|{{ja-r|音楽|おんがく}}: [[music]]
+|{{ja-r|神楽|かぐら}}: [[kagura]]
+|{{ja-r|室内楽|しつないがく}}: [[chamber music]]
+|{{ja-r|楽しい|たのし.い}}: fun, [[delightful]]
+|{{ja-r|舞楽|ぶがく}}: [[music]] for [[traditional]] [[court]] [[dances]]
+|{{ja-r|楽天|らくてん}}: [[optimism]]
+|{{ja-r|楽天家|らくてんか}}: [[optimist]]
+|{{ja-r|楽天主義|らくてんしゅぎ}}: [[optimism]]
+|{{ja-r|楽天主義者|らくてんしゅぎしゃ}}: [[optimist]]
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|らく|yomi=o}}
@@ -68,7 +77,7 @@ The modern Japanese usage is of reform ([[shinjitai]]) nature.
 ====Noun====
 {{ja-noun|kyu=樂|らく}}
 
-# [[comfort]], [[ease]]
+# [[comfort]]; [[ease]]
 
 ===Etymology 2===
 {{ja-kanjitab|らく|yomi=o}}
