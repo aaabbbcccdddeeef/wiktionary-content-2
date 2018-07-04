@@ -318,7 +318,9 @@ The letter '''''H'''''/'''''h''''' (like '''''F'''''/'''''f''''', and '''''O''''
 # {{Latn-def|mt|letter|10}}
 
 ====Usage notes====
-* In contemporary Maltese, ''h'' remains a true consonant {{IPAchar|[ħ]}} in word-final position ({{m|mt|ikrah}} {{IPAchar|[ɪkraħ]}}) and in the clusters ''-għh-, -ħh-'', which become {{IPAchar|[ħː]}}. Otherwise it is silent but lengthens preceding or following ''a, e, o'': {{m|mt|hemm}} {{IPAchar|[ɛːmː]}}, {{m|mt|fehmet}} {{IPAchar|[fɛːmɛt]}}. Other vowels are not affected.
+* In contemporary Maltese, ''h'' remains a true consonant {{IPAchar|[ħ]}} only in word-final position ({{m|mt|ikrah}} {{IPAchar|[ɪkraħ]}}) and in the clusters ''-għh-, -ħh-'', which become {{IPAchar|[ħː]}}. Otherwise it is silent or leaves at most a vocalic trace:
+** Following and preceding ''a, e, o'' are lengthened: {{m|mt|hemm}} {{IPAchar|[ɛːmː]}}, {{m|mt|fehmet}} {{IPAchar|[fɛːmɛt]}}. Other vowels are not affected.
+** In intervocalic position it is a glide, {{IPAchar|[j]}} after ''i, ie'', and {{IPAchar|[w]}} after ''u'': {{m|mt||jibniha}} {{IPAchar|[jɪbniːja]}}, {{m|mt||inħobbuhom}} {{IPAchar|[ɪnħɔbbuːwɔm]}}.
 
 ===See also===
 * {{list:Latin script letters/mt}}
