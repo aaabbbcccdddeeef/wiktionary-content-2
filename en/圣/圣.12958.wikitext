@@ -1,34 +1,44 @@
 {{also|聖|巠}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=5}}
 
 ===Han character===
 {{Han char|rn=32|rad=土|as=02|sn=5|four=17104|canj=EG|ids=⿱又土}}
 
 ====Derived characters====
-* {{l|mul|[[怪]], [[𡌪]]}} as phonetic
-* {{l|mul|[[蛏]], [[柽]]}} as {{w|Simplified Chinese|simplification}} in Chinese
-* {{l|mul|[[経]], [[軽]], [[径]], [[茎]]}}, as {{w|Shinjitai|simplification}} in Japanese
+* {{l|mul|[[怪]], [[𡌪]]}} ''(Used as phonetic component)''
+* {{l|mul|[[柽]], [[蛏]]}} ''({{w|Simplified Chinese}} characters with {{l|mul|聖}} component simplified to ''<big>圣</big>)
+* <font size=4, lang=ja>[[径#Translingual|径]], [[経#Translingual|経]], [[軽#Translingual|軽]], [[茎#Translingual|茎]]</font> ''(Japanese {{w|shinjitai}} characters with {{l|mul|巠}} component simplified to ''<big>圣</big>)
+* {{l|mul|[[𠱅]], [[𢫞]], [[𣲾]], [[㹩]], [[𫔽]], [[𦙾]], [[䇈]], [[𫒔]], [[𭭬]], [[壡]], [[𠡍]], [[頚]], [[𫞬]]}}
 
-===Usage notes===
-{{Han simp|巠}} as component in Japanese shinjitai (eg. in {{l|mul|經}} → {{l|mul|経}}).
+====Related characters====
+* {{l|mul|[[聖]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of'' <big>圣</big>)
 
 ====References====
-* {{Han ref|kx=0223.060|dkj=04873|dj=0455.050|hdz=10417.150|uh=5723|ud=22307|bh=C96F|bd=51567}}
+{{Han ref|kx=0223.060|dkj=04873|dj=0455.050|hdz=10417.150|uh=5723}}
 
 ----
 
 ==Chinese==
 
-===Glyph origin===
-{{Han etym}}
-{{Han compound|又|土|ls=ic}}.
-
 ===Etymology 1===
+
+====Glyph origin====
+Unorthodox variant of {{l|mul|聖}} found in the Ming dynasty orthographic dictionaries <big>《俗書刊誤》</big> and <big>《字學三正》</big>.
+
+====Definitions====
 {{zh-see|聖|sv}}
+
+====References====
+* {{R:twedu|C01605#34}}
 
 ===Etymology 2===
 {{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+{{w|Shuowen Jiezi}}: {{Han compound|又|土|ls=ic}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -44,6 +54,9 @@
 
 # {{†}} to [[dig]]
 
+====References====
+* {{R:twedu|C01605}}
+
 ----
 
 ==Japanese==
@@ -57,4 +70,16 @@
 {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō)}}
 
 ====Usage notes====
-This character does not appear to be used in modern Japanese.
+* This character does not appear to be used in modern Japanese. However, it may be found as a simplified component of {{l|ja|巠}} in Japanese shinjitai (eg. in {{l|ja|經}} → {{l|ja|経}}).
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=土02|[[thánh]]}}
+
+# {{defn|lang=vi|sort=土02}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5723 Nom Foundation]
