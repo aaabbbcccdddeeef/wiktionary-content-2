@@ -1,25 +1,27 @@
 {{also|無}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=4}}
 {{stroke order|type=animate}}
 
 ===Han character===
-{{Han char|rn=71|rad=无|as=00|sn=4|four=|canj=MKU}}
+{{Han char|rn=71|rad=无|as=00|sn=4|four=10412|canj=MKU|ids=⿱一尢}}
 
 # {{mul-kangxi radical-def}}
 
-====Derived characters====
-* {{l|mul|[[呒]], [[妩]], [[𣲘]], [[怃]], [[抚]], [[庑]], [[芜]]}} ''(Simplified from {{l|mul|無}} in {{w|traditional Chinese}})''
-* {{l|mul|[[䥻]], [[𩇳]], [[𡯊]], [[𮬫]]}}
-
-====Related characters====
-* {{l|mul|[[無]]}} ''({{w|Traditional Chinese|Traditional form}} of 无)''
-
-====Descendants====
-* {{l|ja|ん}} ''({{w|Man'yōgana}} derivative)''
-
 ====Usage notes====
 * All characters sorted under this radical are actually derived from {{l|mul|旡}}.
+
+====Derived characters====
+<!-- [[Index:Chinese radical/无]] --> <!-- Note: Most characters found in the radical index contain 旡 instead of 无. -->
+* {{l|mul|[[呒]], [[𪢸]], [[妩]], [[𭘓]], [[怃]], [[抚]], [[𣲘]], [[𬂠]], [[𭴊]], [[䥻]]<!-- Note: traditional form ⿰釒無 or ⿰釒无 does not exist in Unicode -->, [[庑]], [[芜]]}} ''(Contains {{w|Simplified Chinese|simplified}} component of {{l|mul|無}})''
+* {{l|mul|[[𩇳]], [[𡯊]], [[𮬫]], [[𡆶]]}}
+
+====Related characters====
+* {{l|mul|[[無]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>无</big>)
+
+====Descendants====
+* {{l|ja|ん}} ''({{w|Hiragana}} character derived from {{w|Man'yōgana}})''
 
 ====References====
 {{Han ref|kx=0485.230|dkj=13716|dj=0847.260|hdz=21147.120|uh=65E0}}
