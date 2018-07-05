@@ -22,23 +22,83 @@
 
 ====Readings====
 {{ja-readings
-|on=がん
+|goon=げん<げん<げむ
+|kanon=がん<がん<がむ
 |kun=けわ-し.い, いわお-, いわ-
+|nanori=よし
 }}
 
-===Etymology===
-Japanese shinjitai. Simplified from {{ja-l|巖}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|いわお}}
 
-A compound of [[岩|iha]] "stone" and [[秀|ho]] "surface".
+{{IPAchar|/ipa po/}} → {{IPAchar|/ifafo/}} → {{IPAchar|/iwawo/}} → {{IPAchar|/iwao/}}
 
-Historically /ipapo/. /p/ underwent a number of phonological changes. In intervocalic environments, such as this, *p → ɸ → w. Hence, *ipapo → iɸaɸo → iwawo. The distinction between /o/ and /wo/ was lost early resulting in /o/. Hence, [iwao].
+From {{inh|ja|ojp|sort=いわお|-}}.  Found in the ''{{w|Man'yōshū}}'' finished some time after 759 CE.<ref>{{RQ:Manyoshu|19|4231}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man19Yo.html#4231 here]</ref>
+
+Originally a compound of {{compound|lang=ja|sort=いわお|岩|tr1=ipa → iwa|t1=boulder; crag|秀|tr2=po → ho|t2=something tall and prominent|pos2=cognate with {{m|ja|穂||tr=ho|ear of grain}}, from the sense of ''something prominent sticking upwards''}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+The character is Japanese [[shinjitai]], simplified from {{ja-l|巖}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いわお|acc=0|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
-{{ja-noun|いわ|hhira=いは}}
+{{ja-noun|いわお|hhira=いはほ|kyu=巖}}
 
-# [[rock]]
+# a tall and large [[rock]], [[crag]], or [[boulder]]
 
 ====Proper noun====
-{{ja-pos|いわお|proper|hhira=いはほ}}
+{{ja-pos|proper|いわお|hhira=いはほ|kyu=巖}}
 
-# {{given name|male|lang=ja|sort=いわお}}
+# {{given name|lang=ja|sort=いわお|male}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|いわ}}
+
+{{IPAchar|/ipa/}} → {{IPAchar|/ifa/}} → {{IPAchar|/iwa/}}
+
+From {{inh|ja|ojp|sort=いわ|-}}.  Found in the ''{{w|Man'yōshū}}'' finished some time after 759 CE.<ref>{{RQ:Manyoshu|15|3590}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3590 here]</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|いわ|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+====Alternative forms====
+* {{ja-l|岩}}, {{ja-l|磐}}
+
+====Noun====
+{{ja-noun|いわ|hhira=いは|kyu=巖}}
+
+# {{alternative spelling of|lang=ja|sort=いわ|岩}} a [[rock]], [[crag]], or [[boulder]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|がん}}
+
+From {{bor|ja|ltc|sort=かん'|-}} {{ltc-l|巖}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|がん}}
+
+====Affix====
+{{ja-pos|affix|がん|kyu=巖}}
+
+# {{lb|ja|sort=かん'|only found in compounds}} a [[rock]], [[crag]], or [[boulder]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|巌%下|がん%か}}: the [[underneath]] of a large [[rock]], [[crag]], or [[boulder]]
+* {{ja-r|巌%巌|がん%がん}}: [[rocky]], [[craggy]]; [[sophisticated]], [[lofty]], [[high-minded]], [[noble]]
+* {{ja-r|巌%窟|がん%くつ}}: a [[cave]] in a [[crag]]
+* {{ja-r|巌%桂|がん%けい}}: alternative name for {{m|ja|木犀||tr=mokusei|[[sweet]] [[osmanthus]], a kind of flowering bush}}
+* {{ja-r|巌%穴|がん%けつ}} a [[hollow]] or small [[cave]] in a [[crag]]
+* {{ja-r|巌%松|がん%しょう}}: a [[pine]] [[tree]] growing out of a [[crag]] or [[boulder]]
+* {{ja-r|巌%石|がん%せき}}: a [[cluster]] of [[crag]]s or [[boulder]]s
+* {{ja-r|巌%泉|がん%せん}}: a [[spring]] ([[water]] [[source]]) in or between [[crag]]s or [[boulder]]s
+* {{ja-r|巌%阻|がん%そ}}: a [[steep]] [[road]] in the [[mountain]]s or [[crag]]s
+* {{ja-r|巌%頭|がん%とう}}: the [[top]] of a [[crag]] or [[boulder]]
+* {{ja-r|巌%洞|がん%どう}}: a [[cave]] in a [[crag]]
+* {{ja-r|巌%扉|がん%ぴ}}: the [[door]] or [[opening]] to a [[craggy]] [[area]]; the [[door]] or [[opening]] to a [[cave]] in a [[crag]]
+* {{ja-r|巌%廊|がん%ろう}}: literally “lofty halls”, the [[room]]s to either side in a [[palace]]; by extension, the [[imperial]] [[court]]
+{{der-bottom}}
+
+===References===
+<references/>
