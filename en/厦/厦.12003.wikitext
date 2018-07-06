@@ -9,7 +9,7 @@
 * {{l|mul|[[𡐯]], [[𨬜]]}}
 
 ====Related characters====
-* {{l|mul|[[廈]]}} ''(Orthodox form of <big>厦</big>)''
+* {{l|mul|[[廈]]}} ''(Orthodox form of ''<big>厦</big>)
 
 ====References====
 {{Han ref|kx=0162.280|dkj=02993|dj=0370.090|hdz=10075.250|uh=53A6}}
@@ -17,7 +17,12 @@
 ----
 
 ==Chinese==
-{{zh-see|廈}}
+
+===Definitions===
+{{zh-see|廈|sv}}
+
+===References===
+* {{R:twedu|A01223-003#42}}
 
 ----
 
@@ -26,10 +31,13 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=厂10}}
 
-# {{alternative form of|廈|lang=ja}}
+# {{alt-form|廈|lang=ja}}.
 
 ====Readings====
-* {{ja-readings|on=[[か]] (ka)|kun=[[いえ]] (ie)}}
+* {{ja-readings
+|on=か
+|kun=いえ
+}}
 
 ----
 
@@ -39,3 +47,15 @@
 {{ko-hanja|hangeul=하|rv=ha|mr=ha}}
 
 # {{defn|lang=ko|sort=厂10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=厂10|[[hạ]], [[hè]]}}
+
+# {{defn|lang=vi|sort=厂10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=53A6 Nom Foundation]
