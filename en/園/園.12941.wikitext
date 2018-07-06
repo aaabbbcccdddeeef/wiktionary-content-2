@@ -61,6 +61,10 @@
 ===Kanji===
 {{ja-kanji|grade=2|rs=囗10}}
 
+# [[field]], [[plantation]]
+# [[garden]], [[park]]
+# [[preschool]] {{gl|[[nursery]], [[kindergarten]]}}
+
 ====Readings====
 {{ja-readings
 |goon=おん<をん
@@ -70,40 +74,81 @@
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|公園|こうえん}}: park
-* {{ja-r|茶園|ちゃえん}}: [[tea]] [[plantation]]
-* {{ja-r|動物園|どうぶつえん}}: zoo
-* {{ja-r|薔薇園|ばらえん}}: rose garden
-* {{ja-r|葡萄園|ぶどうえん}}: [[vineyard]]
-* {{ja-r|名園|めいえん}} [[excellent]] [[garden]], [[well-known]] [[garden]]
-* {{ja-r|茗園|めいえん}} [[tea]] [[plantation]]
+* {{ja-r|公園|こうえん}}
+* {{ja-r|茶園|ちゃえん}}
+* {{ja-r|名園|めいえん}}
+* {{ja-r|茗園|めいえん}}
+* {{ja-r|祇園|^ぎおん}}
 {{der-bottom}}
 
+===Etymology 1===
 {{ja-kanjitab|えん|yomi=o}}
+{{IPAchar|/wen/}} → {{IPAchar|/eɴ/}}
 
-===Pronunciation===
-{{ja-pron|yomi=kanon|えん|acc=1|acc_ref=DJR}}
+From {{der|ja|ltc|sort=えん|-}} {{ltc-l|園}}.
 
-===Noun===
+====Pronunciation====
+{{ja-pron|yomi=ko|えん|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|えん|hhira=ゑん}}
 
-# [[garden]]
+# [[preschool]]
+## {{short for|lang=ja|幼稚園|tr=yōchien|nodot=1|sort=えん}} [[kindergarten]]
+## {{short for|lang=ja|保育園|tr=hoikuen|nodot=1|sort=えん}} [[nursery school]]
 
-{{ja-noun|その}}
-
-# garden
-# [[park]]
-# [[plantation]]
-
-===Proper noun===
-{{ja-pos|その|proper}}
-
-# {{surname|lang=ja|sort=その}}
-
-===Suffix===
+====Suffix====
 {{ja-pos|suffix|えん|hhira=ゑん}}
 
 # [[garden]], [[park]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|偕楽園|^かいらくえん}}
+* {{ja-r|動物園|どうぶつえん}}
+* {{ja-r|薔薇園|ばらえん}}
+* {{ja-r|葡萄園|ぶどうえん}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|えん|hhira=ゑん}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 2===
+{{ja-kanjitab|その|yomi=k}}
+
+{{IPAfont|⟨so<sub>2</sub>no<sub>2</sub>⟩}} → *{{IPAchar|/sənə/}} → {{IPAchar|/sono/}}
+
+From {{inh|ja|ojp|-}}.
+
+{{rfe|ja}}
+
+====Alternative forms====
+* {{ja-l|苑}}
+
+====Pronunciation====
+{{ja-pron|y=k|その|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|その}}
+
+# an [[orchard]], [[plantation]]
+# a [[garden]], [[park]] {{gl|especially one with [[tree]]s}}
+#: {{syn|ja|園生|tr=sonou|庭園|tr2=teien|庭|tr3=niwa}}
+# a [[place]], [[location]]
+#: {{syn|ja|場所|tr=basho}}
+
+=====Derived terms=====
+* {{ja-r|園%生|その%う}}
+* {{ja-r|花園|はなぞの}}
+
+====Proper noun====
+{{ja-pos|proper|その}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=その}}
+# {{surname|lang=ja|A=a|nodot=1|sort=その}}
 
 ===References===
 <references/>
