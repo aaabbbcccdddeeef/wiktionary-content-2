@@ -6,11 +6,11 @@
 {{zh-pron
 |m=Rìběnyǔ
 |c=jat6 bun2 jyu5
-|cat=pn
+|cat=n
 }}
 
-===Proper noun===
-{{zh-proper noun}}
+===Noun===
+{{zh-noun}}
 
 # the [[Japanese]] language
 
@@ -37,8 +37,8 @@ From {{suf|ja|日本|tr1=Nihon, Nippon|t1=[[Japan]]|語|tr2=-go|t2=[[language]]|
 {{ja-pron|y=i|acc=0|acc_ref=DJR,SMK5,NHK|にほんご|a=Ja-nihongo.ogg}}
 {{ja-pron|y=go|acc=0|acc_ref=NHK|にっぽんご}}
 
-===Proper noun===
-{{ja-pos|proper|にほんご|にっぽんご}}
+===Noun===
+{{ja-noun|にほんご|にっぽんご}}
 
 # the [[Japanese]] [[language]]
 #*{{quote-book|||{{w2|ja|ヒカルの碁}}
@@ -57,7 +57,8 @@ From {{suf|ja|日本|tr1=Nihon, Nippon|t1=[[Japan]]|語|tr2=-go|t2=[[language]]|
 |publisher=Shueisha
 |date=Mar 9 2002
 |volume=16
-|isbn=4-08-873232-4}}
+|isbn=4-08-873232-4
+|lang=ja}}
 
 ===References===
 <references/>
@@ -70,7 +71,7 @@ From {{suf|ja|日本|tr1=Nihon, Nippon|t1=[[Japan]]|語|tr2=-go|t2=[[language]]|
 ==Korean==
 {{ko-hanjatab}}
 
-===Proper noun===
-{{ko-propn|hangeul=일본어|mr=Ilbonŏ|y=Ilpon.e}}
+===Noun===
+{{ko-noun|hj|hangeul=일본어}}
 
 # {{hanja form of|일본어|[[Japanese]] [[language]]}}
