@@ -19,11 +19,19 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|気|氣}}
-{{wikipedia|lang=ja}}
 
 ===Kanji===
+{{ja-kanji forms|気|氣}}
 {{ja-kanji|grade=1|rs=气02|kyu=氣}}
+
+# [[breath]]
+# [[gas]]
+# [[atmosphere]]
+# [[spirit]]
+# [[feeling]], [[mood]]
+# [[condition]], [[sign]], [[state]]
+# [[24]]-[[week]]-[[period]] in a [[year]]
+# [[disease]]
 
 ====Readings====
 {{ja-readings
@@ -46,7 +54,6 @@
 * {{ja-r|火気|かき}}
 * {{ja-r|風気|かざけ}}
 * {{ja-r|気化|きか}}
-{{der-mid3}}
 * {{ja-r|鬼気|きき}}
 * {{ja-r|気味|きみ}}, {{ja-r|気味|-ぎみ}}
 * {{ja-r|気力|きりょく}}
@@ -59,7 +66,6 @@
 * {{ja-r|冷気|れいき}}
 * {{ja-r|霊気|れいき}}
 * {{ja-r|殺気|さっき}}
-{{der-mid3}}
 * {{ja-r|生気|せいき}}
 * {{ja-r|心気|しんき}}
 * {{ja-r|神気|しんき}}
@@ -73,11 +79,13 @@
 * {{ja-r|勇気|ゆうき}}
 {{der-bottom}}
 
-====Synonyms====
-* {{sense|gas}} {{l|ja|氛}}
-
 ===Etymology 1===
+{{wp|lang=ja}}
 {{ja-kanjitab|き|yomi=o}}
+
+From {{der|ja|ltc|sort=き|-}} {{ltc-l|氣|id=1}}. 
+
+The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing. Compare modern {{cog|cmn|氣|tr=qi}}, {{cog|mnp|氣|tr=ki̿}}, {{cog|nan|氣|tr=khì}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|き|acc=0|acc_ref=DJR,NHK}}
@@ -85,28 +93,37 @@
 ====Noun====
 {{ja-noun|kyu=氣|き}}
 
-# [[spirit]]; [[mood]]
+# [[spirit]], [[mood]]
 #: {{ja-usex|遊ぶ'''気'''満々|あそぶ '''き''' まんまん|brimming with '''desire''' to go and play}}
-# [[inclination]]; [[will]]; [[mood]]; [[urge]]
+# [[inclination]], [[will]], [[mood]], [[urge]]
 #: {{ja-usex|'''気'''が向いたら連絡してね。|'''き''' が むいたら れんらく して ね。|Feel free to contact me if you feel like it (''lit.'' if your '''mood''' faces towards it).}}
 #: {{ja-usex|なんとなくやる'''気'''が出ない。|なん-と-なく やる '''き''' が でない。|I just somehow don't feel like doing it. (''lit.'' My '''urge''' to do it just isn't coming out.)}}
-# [[feeling]]; [[sense]]
+# [[feeling]], [[sense]]
 #: {{ja-usex|なんか変な'''気'''がするんだよね。|なんか へん な '''き''' が する ん だ よ ね。|Something feels kind of off, doesn't it?}}
 # [[air]], [[gas]]
-# [[air]]; [[nature]]; [[disposition]]; [[sense]]
+# [[air]], [[nature]], [[disposition]], [[sense]]
 #: {{ja-usex|大人気ない人|おとなげ ない ひと|childish person (''lit.'' person without an adult '''air''')}}
+# {{rfdef|ja}}
 
-=====Derived terms=====
+=====Idioms=====
+{{der-top|Idioms}}
 * {{ja-r|気がする|き が する}}
 * {{ja-r|気を付けて|き を つけて}}
-* {{ja-r|気に食わない|き に くわない}}, {{ja-r|気にくわない|き に くわない}}
+* {{ja-r|気に食わない|き に くわない|rom=-}}, {{ja-r|気にくわない|き に くわない}}
 * {{ja-r|気がある|き が ある}}
 * {{ja-r|気になる|き に なる}}
 * {{ja-r|気に入る|き に いる}}
 * {{ja-r|気が向く|き が むく}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|け|yomi=o}}
+
+From {{der|ja|ltc|sort=き|-}} {{ltc-l|氣|id=1}}. 
+
+The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing. Compare {{cog|cdo|氣|tr=ké}}.
+
+In {{w|Old Japanese}}, this kanji is used to transcribe the {{m|ja|借音|tr=shakuon}} kana of {{IPAfont|⟨ke<sub>2</sub>⟩}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|け|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
@@ -114,7 +131,18 @@
 ====Noun====
 {{ja-noun|kyu=氣|け}}
 
-# [[sign]]
+# a [[sign]]
+# {{rfdef|ja|sort=け}}
+
+====Prefix====
+{{ja-pos|prefix|kyu=氣|け}}
+
+# {{rfdef|ja|sort=け}}
+
+====Suffix====
+{{ja-pos|suffix|kyu=氣|け}}
+
+# {{rfdef|ja|sort=け}}
 
 ===References===
 <references/>
