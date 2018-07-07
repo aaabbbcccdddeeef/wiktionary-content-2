@@ -4,22 +4,22 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=05|sn=8|four=63060|canj=RIR|ids=⿰口台}}
 
-# [[laugh]]
-# [[sound]] of [[laughter]]
-# [[happy]]
-
 ====References====
-* {{Han ref|kx=0185.050|dkj=03492|dj=0404.050|hdz=10610.070|uh=548D|ud=21645|bh=CBE8|bd=52200}}
+{{Han ref|kx=0185.050|dkj=03492|dj=0404.050|hdz=10610.070|uh=548D}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|台|ls=psc|c1=s|c2=p|t1=mouth; speech}}
+
 ===Pronunciation===
 {{zh-pron
 |m=hāi
-|c=hoi1
+|c=hoi1,haai1
 |mc=y
 |oc=y
 |ma=
@@ -29,7 +29,16 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# [[sound]] of [[laughter]]
+# [[happy]]; [[joyful]]
+# {{zh-alt-lb|嗨|咳}} sound of [[lament]]
+
+====Compounds====
+{{zh-der|咍咍|咍樂|咍臺}}
+
+===References===
+* {{R:twedu|B00308}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -61,6 +70,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=口05| hanviet = hay}}
+{{vi-hantu|rs=口05|[[hay]], [[thay]]}}
 
 # {{defn|lang=vi|sort=口05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=548D Nom Foundation]
