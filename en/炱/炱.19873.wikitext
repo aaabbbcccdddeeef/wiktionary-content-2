@@ -5,32 +5,42 @@
 ===Han character===
 {{Han char|rn=86|rad=火|as=05|sn=9|four=23809|canj=IRF|ids=⿱台火}}
 
-# [[soot]]
+====Derived characters====
+* {{l|mul|[[𫿥]], [[𫨐]], [[㬃]]}}
 
 ====References====
-* {{Han ref|kx=0668.280|dkj=18957|dj=1078.040|hdz=32198.040|uh=70B1|ud=28849|bh=CFB1|bd=53169}}
+{{Han ref|kx=0668.280|dkj=18957|dj=1078.040|hdz=32198.040|uh=70B1}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=炲}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|台|火|ls=psc|c1=p|c2=s|t2=fire}}
 
 ===Pronunciation===
 {{zh-pron
-|m=tái,zhá
+|m=tái
 |c=toi4
 |mc=y
 |oc=y
-|cat=
+|cat=n,a
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[soot]]
+# [[black]]
+
+====Compounds====
+{{zh-der|炱朽|炱煤|煙炱|煤炱|松炱}}
+
+===References===
+* {{R:twedu|B02379}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -42,4 +52,19 @@
 # {{defn|lang=ja|sort=火05}}
 
 ====Readings====
-* {{ja-readings|on=[[たい]] (tai), [[だい]] (dai)|kun=[[すす]] (susu)}}
+* {{ja-readings
+|on=たい, だい
+|kun=すす
+}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=火05|[[đải]], [[thai]]}}
+
+# {{defn|lang=vi|sort=火05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=70B1 Nom Foundation]
