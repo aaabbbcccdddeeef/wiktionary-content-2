@@ -3,29 +3,36 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=32|rad=土|as=10|sn=13|four=|canj=GPBC|ids=⿰土眞}}
+{{Han char|rn=32|rad=土|as=10|sn=13|four=42181|canj=GPBC|ids=⿰土眞}}
 
-# [[fill in]], [[fill up]]
-# [[make good]]
+====Related characters====
+* {{l|mul|[[填]]}} ''(Preferred form used in modern Chinese and Vietnamese [[Nôm]])''
 
 ====References====
-* {{Han ref|kx=0236.150|dkj=05355|dj=0474.070|hdz=10473.111|uh=5861|ud=22625}}
+{{Han ref|kx=0236.150|dkj=05355|dj=0474.070|hdz=10473.111|uh=5861}}
 
 ----
 
 ==Chinese==
+
+===Definitions===
 {{zh-see|填}}
+
+===Usage notes===
+This character is the original form of {{l|zh|填}} found in the historical {{w|Kangxi dictionary}}.
+
+===References===
+* {{R:twedu|A00799-001}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=土10|shin=填}}
+{{ja-kanji|grade=|rs=土10}} <!-- Note: Not a kyūjitai form of 填 -->
 
-# fill in
-# fill up
-# make good
+# to [[fill in]]
+# to [[fill up]]
 
 ====Readings====
 {{ja-readings
@@ -34,10 +41,11 @@
 }}
 
 ====Compounds====
-* {{ja-r|装塡|そうてん}}: [[reload]]
+* {{ja-r|装塡|そうてん}}: to [[reload]]
 
 ====Usage notes====
-This character was added in the 2010 jōyō reform instead of [[填]], despite 填 having been standard in Japanese character sets.
+This character was added to the 2010 {{w|Jōyō kanji}} reform instead of {{l|ja|填}}, despite {{l|ja|填}} being part of the {{w|JIS X 0208}} standard character set at that time.
+
 ----
 
 ==Korean==
@@ -45,4 +53,4 @@ This character was added in the 2010 jōyō reform instead of [[填]], despite �
 ===Hanja===
 {{ko-hanja|hangeul=[[전]], [[진]]|rv=jeon, jin|mr=chŏn, chin}}
 
-# [[fill up]]
+# to [[fill up]]
