@@ -5,20 +5,23 @@
 ===Han character===
 {{Han char|rn=72|rad=日|as=10|sn=14|four=21106|canj=AUAM|ids=⿱既旦}}
 
-# [[and]]
-# [[attain]], [[reach]]
-# [[confines]]
+====Derived characters====
+* {{l|mul|[[櫭]], [[𩽙]]}} <!-- Contains 暨 not 曁 -->
+
+====Related characters====
+* {{l|mul|[[曁]]}} ''(Orthodox form in {{w|Kangxi dictionary}})''
 
 ====References====
-* {{Han ref|kx=0499.061|dj=0870.030|hdz=21531.070|uh=66A8|ud=26280|bh=BA5B|bd=47707}}
+{{Han ref|kx=0499.061|dj=0870.030|hdz=21531.070|uh=66A8}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=曁}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|既|旦|c1=p|c2=s|t2=sunrise|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -26,21 +29,26 @@
 |c=kei3,gei6
 |mc=y
 |oc=y
-|cat=
+|cat=v,adv,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
+# {{zh-hg}} initial [[appearance]] of [[sunrise]]
 # [[and]]
-# to [[attain]], to [[reach]]
-# the [[confines]], the [[utmost]]
+#: {{zh-syn|及|與}}
+# to [[attain]]; to [[reach]]
+#: {{zh-syn|至|到}}
+# [[confines]]; [[utmost]] [[limit]]
 #*: {{zh-x|東 漸 於 海，西 被 於 流沙，朔、南 暨： 聲 教 訖 於 四海|On the east reaching to the sea, on the west extending to the rolling sands, to '''the utmost limits''' of the north and south, [Emperor Yǔ’s] fame and influence spread everywhere within the four seas.|ref=史記, 夏本紀}}
+# {{surname|lang=zh}}
 
 ====Compounds====
 {{zh-der|暨南|暨暨|暨今|暨大}}
 
 ===References===
+* {{R:twedu|A01818}}
 * {{R:yue:mfccd}}
 
 ----
@@ -50,7 +58,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=日10}}
 
-# {{defn|lang=ja|sort=日10}}
+# {{alt-form|lang=ja|曁}}.
 
 ====Readings====
 {{ja-readings
@@ -72,7 +80,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=日10|hanviet=kị}}
+{{vi-hantu|rs=日10|[[kị]]}}
 
 # {{defn|lang=vi|sort=日10}}
 
