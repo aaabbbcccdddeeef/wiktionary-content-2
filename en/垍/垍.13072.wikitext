@@ -2,10 +2,10 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=32|rad=土|as=06|sn=9|four=|canj=GHBU|ids=⿰土自}}
+{{Han char|rn=32|rad=土|as=06|sn=9|four=46102|canj=GHBU|ids=⿰土自}}
 
 ====References====
-* {{Han ref|kx=0227.310|dkj=05032|dj=0463.200|hdz=10439.170|uh=578D|ud=22413}}
+{{Han ref|kx=0227.310|dkj=05032|dj=0463.200|hdz=10439.170|uh=578D}}
 
 ----
 
@@ -14,20 +14,35 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|自|c1=s|c2=p|t1=earth; soil|ls=psc}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=jì,jī
+|m=jì
 |c=gei3,gei6
+|c_note=gei3 - colloquial; gei6 - variant
 |mc=y
 |oc=y
-|cat=
+|cat=n,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[hard]] [[soil]] <!-- 《說文·土部》垍，堅土也。 -->
 
-====References====
+===Pronunciation 2===
+{{zh-pron
+|m=jī
+|c
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[pottery]] <!-- 《六書故·地理一》垍，今人以名陶器。 -->
+
+===References===
+* {{R:twedu|C01650}}
 * [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 86]
