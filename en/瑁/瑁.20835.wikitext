@@ -5,13 +5,18 @@
 {{Han char|rn=96|rad=玉|as=09|sn=13|four=16160|canj=MGABU|ids=⿰𤣩冒}}
 
 ====References====
-* {{Han ref|kx=0736.150|dkj=21096|dj=1147.180|hdz=21126.050|uh=7441|ud=29761|bh=B7E8|bd=47080}}
+{{Han ref|kx=0736.150|dkj=21096|dj=1147.180|hdz=21126.050|uh=7441}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|玉|冒|alt1=𤣩|c1=s|c2=p|t1=jade|ls=psc}}.
+
 ===Etymology 1===
-{{zh-forms|alt=㺺,𤣽,冒}}
+{{zh-forms|alt=㺺,𤣽,珼,⿰[[𤣩]][[囟]]}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A02589 -->
 
 ====Pronunciation====
 {{zh-pron
@@ -25,10 +30,10 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# the jade used by [[Son of Heaven]] to be pieced together with feudal lords' ceremonical jade ''gui'' ({{zh-l|圭|tr=-}})
+# [[jade]] used by [[Son of Heaven]] to be pieced together with [[feudal]] [[lord]]s' ceremonical jade ''gui'' ({{zh-l|圭|tr=-}})
 
 ===Etymology 2===
-{{zh-forms|alt=蝐,𤲰,冒}}
+{{zh-forms|alt=𤲰,蝐}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A02589 -->
 
 ====Pronunciation====
 {{zh-pron
@@ -46,6 +51,10 @@
 ====Compounds====
 {{zh-der|*玳瑁|*玳瑁梁|*玳瑁筵}}
 
+===References===
+* {{R:twedu|A02589}}
+* {{R:yue:Hanzi}}
+
 ----
 
 ==Japanese==
@@ -53,7 +62,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=玉09}}
 
-# {{defn|lang=ja|sort=玉09}}
+# [[jade]] used by [[emperor]] of [[China]]
 
 ====Readings====
 * {{ja-readings
@@ -75,14 +84,12 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|mạo, mội|rs=玉09}}
+{{vi-hantu|rs=玉09|[[mồi]], [[mao]], [[mạo]], [[mùi]]}}
 
 # {{defn|lang=vi|sort=玉09}}
-
-====Readings====
-* Nôm: mạo, mao, mồi, mội
 
 ====References====
 * Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
 * Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
 * Vũ Văn Kính: Đại Tự Điển Chữ Nôm, NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7441 Nom Foundation]
