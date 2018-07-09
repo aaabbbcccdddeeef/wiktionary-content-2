@@ -3,15 +3,30 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=72|rad=日|as=12|sn=16|four=|canj=HUAM|ids=⿱旣旦}}
+{{Han char|rn=72|rad=日|as=12|sn=16|four=21106|canj=HUAM|ids=⿱旣旦}}
+
+====Derived characters====
+* {{l|mul|[[𡃢]]}} <!-- Note: 櫭, 𩽙 are derived from 暨 not 曁 in Unicode -->
+
+====Related characters====
+* {{l|mul|[[暨]]}} ''(Preferred form in modern Chinese)''
 
 ====References====
-* {{Han ref|kx=0500.020|dkj=14165|hdz=21531.070|uh=66C1|ud=26305}}
+{{Han ref|kx=0500.020|dkj=14165|hdz=21531.070|uh=66C1}}
 
 ----
 
 ==Chinese==
-{{zh-see|暨|v}}
+
+===Definitions===
+{{zh-see|暨}}
+
+===Usage notes===
+This character is the original form of {{l|zh|曁}} that is found in the historical {{w|Kangxi dictionary}}.
+
+===References===
+* {{R:twedu|A01818-001}}
+
 ----
 
 ==Japanese==
@@ -21,8 +36,8 @@
 
 # [[and]]
 # [[along with]]
-# [[reach]]
-# extend to
+# to [[reach]]
+# to [[extend]] to
 
 ====Readings====
 {{ja-readings
@@ -44,7 +59,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=日12|hanviet=hí}}
+{{vi-hantu|rs=日12|[[hí]]}}
 
 # {{defn|lang=vi|sort=日12}}
 
