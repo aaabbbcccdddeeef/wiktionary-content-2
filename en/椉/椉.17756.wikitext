@@ -2,20 +2,32 @@
 {{character info/new}}
 ==Translingual==
 
-===Glyph origin===
-{{Han etym}}
-{{Han compound|亠|舛|t2=feet|木|t3=tree|ls=p}} – climbing a tree.
-
 ===Han character===
-{{Han char|rn=75|rad=木|as=08|sn=12|four=|canj=YNQD|ids=⿱亠桀}}
+{{Han char|rn=75|rad=木|as=08|sn=12|four=00904|canj=YNQD|ids=⿱亠桀}}
+
+====Derived characters====
+* {{l|mul|[[𣽘]], [[𩦆]], [[𠟇]]}}
+
+====Related characters====
+* {{l|mul|[[乘]]}} ''(Orthodox form in modern Chinese)''
+* {{l|mul|[[乗]]}} ''(Japanese {{w|shinjitai}} of {{l|mul|乘}})
 
 ====References====
-* {{Han ref|kx=0536.030|dkj=15016|dj=0923.180|hdz=21237.020|uh=6909}}
+{{Han ref|kx=0536.030|dkj=15016|dj=0923.180|hdz=21237.020|uh=6909}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亠|舛|t2=feet|木|t3=tree|ls=p}} – climbing a tree.
+
+===Definitions===
 {{zh-see|乘|v}}
+
+===References===
+* {{R:twedu|A00037-006#26}}
 
 ----
 
@@ -24,10 +36,13 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木08}}
 
-# {{alternative form of|乘|lang=ja}}
+# {{alt-form|乘|lang=ja}}.
 
 ====Readings====
-* {{ja-readings|on=[[じょう]] (jō)|kun=[[のおる]] (nooru), [[のおせる]] (nooseru)}}
+* {{ja-readings
+|on=じょう
+|kun=のおる, のおせる
+}}
 
 ===References===
 * {{R:Koseki Moji|169360}}
