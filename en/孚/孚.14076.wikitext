@@ -2,14 +2,8 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-A bird [[claw]]/[[talon]] ([[爪]], represented as [[爫]]) holding its [[offspring]] ([[子]]), implying [[confidence]]
-
 ===Han character===
 {{Han char|rn=39|rad=子|as=04|sn=7|four=20407|canj=BND|ids=⿱爫子}}
-
-# [[brood]] over [[egg]]s
-# have [[confidence]]
 
 ====Derived characters====
 {{lang|mul|[[乳]] [[俘]] [[浮]] [[郛]] [[桴]] [[稃]] [[殍]] [[蜉]] [[艀]] [[孵]]}}
@@ -24,10 +18,18 @@ A bird [[claw]]/[[talon]] ([[爪]], represented as [[爫]]) holding its [[offspr
 
 ===Glyph origin===
 {{Han etym}}
+
+{{Han compound|爪|子}}.
+
+<!--|c=fu1-->
+{{attention|zh}}
+
 ===Etymology 1===
 ====Pronunciation 1====
 {{zh-pron
 |m=fū
+|mc=y
+|oc=y
 |cat=v,n
 }}
 
@@ -36,12 +38,10 @@ A bird [[claw]]/[[talon]] ([[爪]], represented as [[爫]]) holding its [[offspr
 
 # Original character of {{zh-l|孵}}
 # {{zh-alt-form|稃}}
+
 ====Pronunciation 2====
 {{zh-pron
 |m=fú
-|c=fu1
-|mc=y
-|oc=y
 |cat=
 }}
 
@@ -50,7 +50,7 @@ A bird [[claw]]/[[talon]] ([[爪]], represented as [[爫]]) holding its [[offspr
 
 # to [[believe]]
 # [[trust]]
-# {{zh-alt-form|俘}}
+# {{lb|zh|used in oracle bone}} {{zh-alt-form|俘}}
 # {{zh-alt-form|浮}}
 # {{zh-alt-form|莩}}
 # {{zh-alt-form|付}}
