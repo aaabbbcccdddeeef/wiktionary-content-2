@@ -1,6 +1,6 @@
 ==Japanese==
 
-====Alternative forms====
+===Alternative forms===
 * {{qualifier|informal}} {{ja-r|っす}}
 
 ===Etymology===
@@ -12,8 +12,9 @@ The copula {{m|ja|です|tr=desu}} is thought to be a contracted version of {{m|
 ===Verb===
 {{ja-verb}}
 
-# To [[be]].
-# {{non-gloss definition|Used to express politeness toward the listener.}} {{attention|ja|this does not seem like the definition for a verb; is this a part of the above definition?}}
+# {{lb|ja|jodōshi|after a nominal|sort=てす'}} To [[be]].
+#: {{ja-usex|これは私のパソコン'''です'''。|これ は わたし の パソコン '''です'''。|This '''is''' my PC.}}
+# {{lb|ja|jodōshi|after the plain past or nonpast form of ''-i'' adjectives or in some cases verbs|sort=てす'}} {{non-gloss definition|Used to express politeness toward the listener.}} {{attention|ja|this does not seem like the definition for a verb; is this a part of the above definition?}}
 
 ====Usage notes====
 Perfective form is {{m|ja|でした|tr=deshita}}, volitional {{m|ja|でしょう|tr=deshou}}, conjunctive {{m|ja|でして|tr=deshite}}. Other forms are not used.
@@ -24,5 +25,3 @@ Replaces {{m|ja|だ|tr=da}} in cases of nouns and adjectives which it is used wi
 
 ====See also====
 * {{ja-l|ます||masu}}
-
-[[Category:Japanese auxiliary verbs|てす']]
