@@ -1,12 +1,16 @@
-{{also|怼}}
+{{also|怼|㨃}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=61|rad=心|as=14|sn=18|four=34330|canj=TIP|ids=⿱對心}}
 
+====Related characters====
+* {{l|mul|[[怼]]}} ''({{w|Simplified Chinese}})''
+* {{l|mul|[[㨃]]}} ''(Orthodox form used in dialectal Mandarin)''
+
 ====References====
-* {{Han ref|kx=0406.370|dkj=11376|dj=0747.300|hdz=42363.100|uh=61DF|ud=25055|bh=EFC8|bd=61384}}
+{{Han ref|kx=0406.370|dkj=11376|dj=0747.300|hdz=42363.100|uh=61DF}}
 
 ----
 
@@ -14,14 +18,16 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|對|心|c1=p|c2=s|t2=heart|ls=psc}}.
 
 ===Etymology 1===
-{{zh-forms|s=怼}}
+{{zh-forms|s=怼|alt=譵,𢥓}}
 
 ====Pronunciation====
 {{zh-pron
 |m=duì
 |c=deoi6,zeoi6
+|c_note=deoi6 - colloquial; zeoi6 - variant
 |mc=y
 |oc=y
 |cat=v
@@ -30,17 +36,18 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[hate]]
+# to [[resent]]; to [[hate]]
 # [[vicious]]
 
 ====Compounds====
 {{zh-der|怨懟|慍懟}}
 
 ====References====
+* {{R:twedu|B01217}}
 * {{R:yue:Hanzi}}
 
 ===Etymology 2===
-Non-orthodox variant character popularized in 2010s.
+Non-orthodox variant character popularized in the 2010s.
 
 ====Definitions====
 {{zh-see|㨃|v}}
@@ -55,7 +62,10 @@ Non-orthodox variant character popularized in 2010s.
 # {{defn|lang=ja|sort=心14}}
 
 ====Readings====
-* {{ja-readings|on=[[つい]] (tsui), [[ずい]] (zui), [[たい]] (tai)|kun=[[うらむ]] (uramu)}}
+* {{ja-readings
+|on=つい, ずい, たい
+|kun=うらむ
+}}
 
 ----
 
@@ -71,7 +81,7 @@ Non-orthodox variant character popularized in 2010s.
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心14|hanviet=tủi}}
+{{vi-hantu|rs=心14|[[tủi]]}}
 
 # {{defn|lang=vi|sort=心14}}
 
