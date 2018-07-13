@@ -3,17 +3,18 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=75|rad=木|as=13|sn=17|four=70904|canj=SJD|ids=⿱辟木}}
+{{Han char|rn=75|rad=木|as=13|sn=17|four=70904|canj=SJD|ids=⿱辟木(GJK),⿱辟𣎳(HT)}}
 
-# Amur [[cork]] [[tree]] {{gloss|{{taxlink|Phellodendron amurense|species|noshow=1}}}}
+====Derived characters====
+* {{l|mul|[[𢹐]], [[蘗]]}}
 
 ====References====
-* {{Han ref|kx=0557.040|dkj=15669|dj=0946.130|hdz=21306.020|uh=6A97|ud=27287|bh=C0D0|bd=49360}}
+{{Han ref|kx=0557.040|dkj=15669|dj=0946.130|hdz=21306.020|uh=6A97}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=柏}}
+{{zh-forms|alt=檘}} <!-- Note: 蘗,柏 are alternative forms used in 黃檗 but not considered a variant form of this character by Taiwan or mainland China -->
 
 ===Glyph origin===
 {{Han etym}}
@@ -23,6 +24,7 @@
 {{zh-pron
 |m=bò
 |c=baak3,paak3
+|c_note=baak3 - colloquial; paak3 - variant
 |mc=y
 |oc=y
 |ma=
@@ -32,7 +34,13 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{zh-synonym|黃檗}}
+# {{zh-alt-lb|蘗|柏}} {{zh-used in|黃檗}}
+# {{zh-hg}} [[wooden]] [[tray]] <!-- 《集韻·入聲·錫韻》： 檗，槃也。 -->
+#: {{zh-syn|槃}}
+
+===References===
+* {{R:twedu|B01863}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -41,10 +49,16 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木13}}
 
-# Amur Maple
+# {{defn|lang=ja|sort=木13}}
 
 ====Readings====
-* {{ja-readings|on=[[はく]] (haku), [[びゃく]] (byaku)|kun=[[きわだ]] (kiwada)}}
+* {{ja-readings
+|on=はく, びゃく
+|kun=きはだ, きわだ
+}}
+
+====Compounds====
+* {{ja-r|黄檗|キハダ}}: Amur [[cork]] [[tree]] {{gloss|{{taxlink|Phellodendron amurense|species|noshow=1}}}}
 
 ----
 
@@ -60,9 +74,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木13|hanviet=bá}}
+{{vi-hantu|rs=木13|[[bá]]}}
 
 # {{defn|lang=vi|sort=木13}}
 
 ====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=6a97 Nom Foundation]
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6A97 Nom Foundation]
