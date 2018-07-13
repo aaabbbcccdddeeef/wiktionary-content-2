@@ -2,28 +2,33 @@
 {{character info/new}}
 ==Translingual==
 
-===Han character===
-{{Han char|rn=75|rad=木|as=16|sn=20|four=44904|canj=UJD|ids=⿱辥木}}
+===Alternative forms===
+* In mainland China, Japanese {{w|kanji}} and Korean {{w|hanja}}, the upper left component is written <font size=4, lang=ja>[[屮#Translingual|屮]]</font> while the bottom component is written {{l|mul|木}} which is the orthodox form found in the {{w|Kangxi dictionary}}.
+* In Taiwan and Hong Kong, the upper left component is written {{l|mul|山}} while the bottom component is written {{l|mul|𣎳}}.
 
-# [[stump]], [[sprout]]
-# [[yeast]]
-# [[leaven]] for [[making]] [[liquor]]s
+===Han character===
+{{Han char|rn=75|rad=木|as=16|sn=20|four=44904|canj=UJD|ids=⿱辥木(GJK),⿱⿰𡶫辛𣎳(HT)}}
+
+====Related characters====
+* {{l|mul|[[蘖]]}} ''(Preferred form in mainland China)''
 
 ====References====
-* {{Han ref|kx=0561.330|dkj=15863|dj=0950.210|hdz=21318.110|uh=6AF1|ud=27377|bh=F458|bd=62552}}
+{{Han ref|kx=0561.330|dkj=15863|dj=0950.210|hdz=21318.110|uh=6AF1}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=蘖|t2=蘖|alt=𢮡,𣎴,枿,𣔏,㮆,𣖂,𣕀,𣠌,𣡌}}
+{{zh-forms|s=蘖|t2=蘖|alt=𣎴-ancient form,枿,㮆,𣖂,𢮡,𣔏,𣕀,𣠌,𣡌}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=B01897 -->
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|辥|木|c1=p|c2=s|t2=wood; tree|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=niè
-|c=jit6
+|c=jit6,jip6
+|c_note=jit6 - colloquial; jip6 - variant
 |mc=y
 |oc=y
 |ma=
@@ -33,7 +38,17 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{zh-alt-lb|蘖}} [[sprout]] [[grow]]ing from a [[tree]] [[stump]]
+# {{zh-alt-form|蠥}} <!-- Refer 《漢語大字典》 -->
+# {{zh-alt-form|孽}}
+# {{surname|lang=zh}} <!-- 《廣韻·入聲·薛韻》 -->
+
+====Compounds====
+{{zh-der|櫱枝|分櫱|牙櫱|由櫱|冰櫱|萌櫱|酒醴麴櫱}}
+
+===References===
+* {{R:yue:Hanzi}}
+* {{R:twedu|B01897}}
 
 ----
 
@@ -45,4 +60,7 @@
 # {{defn|lang=ja|sort=木16}}
 
 ====Readings====
-* {{ja-readings|on=[[げつ]] (getsu), [[げち]] (gechi), [[がつ]] (gatsu), [[がち]] (gachi)|kun=[[ひこばえ]] (hikobae)}}
+* {{ja-readings
+|on=げつ, げち, がつ, がち
+|kun=ひこばえ
+}}
