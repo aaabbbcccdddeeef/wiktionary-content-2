@@ -1,21 +1,79 @@
+{{also|札|剳|箚}}
 {{character info/new}}
 ==Translingual==
 
-===Han character===
-{{Han char|rn=18|rad=刀|as=12|sn=14|four=88623|canj=HRLN,XHRLN|ids=⿰答刂}}
+===Alternative forms===
+* In mainland China (based on {{w|GB 18030}} encoding standard), Japanese {{w|kanji}} and Vietnamese [[Nôm]], the left component is {{l|mul|答}}.
+* In Taiwan, Hong Kong and Macau (based on {{w|Big5}} encoding standard), the bottom component is {{l|mul|㓣}}, which is the orthodox form found in the {{w|Kangxi dictionary}}. Note that this form is identical with that of {{l|mul|箚}} (<code>U+7B9A</code>).
+* Due to {{w|Han unification}}, this character will appear differently depending on the font used.
 
-# [[brief]] [[note]]
-# [[official]] [[communiqué]]
-# prick run or stick
-# be stationed
+===Han character===
+* {{Han char|rn=18|rad=刀|as=12|sn=14|four=82600|canj=HRLN,XHRLN|ids=⿰答刂(GJV)}}
+* {{Han char|rn=118|rad=竹|as=08|sn=14|four=88623,88602|canj=HORN|ids=⿱𥫗㓣(HT)}}
+
+====Related characters====
+* {{l|mul|[[札]]}} ''(Orthodox form of ''{{l|mul|剳}}, <font size=4, lang=zh-Hans>劄</font>'' in mainland China)''
+* {{l|mul|[[剳]]}} ''({{w|Variant Chinese character|Variant form}} of {{l|mul|札}} in mainland China. Variant form of ''<font size=4, lang=zh-Hant>劄</font>'' in Taiwan)'' <!-- Refer https://www.moedict.tw/剳 -->
+* {{l|mul|[[箚]]}} ''(Orthodox form based on {{w|Kangxi dictionary}}. Also a duplicate of the form of this character used in Taiwan, Hong Kong and Macau)''
 
 ====References====
-* {{Han ref|kx=0144.261|dj=0325.080|hdz=10356.030|uh=5284|ud=21124}}
+{{Han ref|kx=0144.261|dj=0325.080|hdz=10356.030|uh=5284}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{Han-glyphref|⿰答刂|}}
+
+====Definition 1====
 {{zh-see|札|v}}
+
+====Definition 2====
+{{zh-hanzi}}
+
+# {{n-g|Used in technical terms, eg. {{l|zh|目劄}}.}} <!-- Refer character 3532, https://zh.wikisource.org/wiki/通用規范漢字表 -->
+
+====Usage notes====
+* The definitions above only apply to its usage in mainland China. <!-- Refer character 3532, https://zh.wikisource.org/wiki/通用規范漢字表 -->
+* In Taiwan, this glyph form is considered as a variant form ({{l|zh|異體字}}) of {{l|zh|⿱[[𥫗]][[㓣]]}}.
+
+====References====
+* {{R:twedu|B03225-003#24}} <!-- Note: This reference belongs to Etymology 1 -->
+
+===Etymology 2===
+{{Han-glyphref|⿱𥫗㓣|}}
+{{zh-forms|alt=[[剳#Etymology 1|剳]],劄}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAzMjI1 -->
+
+====Pronunciation====
+{{zh-pron
+|m=zhá
+|c=zaap3,zaat3
+|c_note=zaap3 - colloquial; zaat3 - variant
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-lb|札}} [[letter]]
+# {{zh-alt-lb|札}} [[official]] [[communiqué]]
+#: {{zh-syn|公文}}
+# [[brief]] [[note]]
+#: {{zh-syn|筆記}}
+
+=====Compounds=====
+{{zh-der|劄付|劄子|劄記|告劄|撩東劄西|紙劄|駐劄|駐劄國|點劄}}
+
+====References====
+* {{R:twedu|B03225}} <!-- Note: This reference belongs to Etymology 2 -->
+* {{R:yue:Hanzi}}
+
 ----
 
 ==Japanese==
@@ -26,7 +84,10 @@
 # {{defn|lang=ja|sort=刀12}}
 
 ====Readings====
-* {{ja-readings|on=[[さつ]] (satsu), [[とう]] (tō)|kun=[[さす]] (sasu), [[かぎ]] (kagi), [[かま]] (kama)}}
+{{ja-readings
+|on=さつ, とう
+|kun=さす, かぎ, かま
+}}
 
 ----
 
@@ -36,3 +97,15 @@
 {{ko-hanja|hangeul=차|rv=cha|mr=ch'a}}
 
 # {{defn|lang=ko|sort=刀12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=刀12|[[chép]], [[tráp]], [[trát]]}}
+
+# {{defn|lang=vi|sort=刀12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5284 Nom Foundation]
