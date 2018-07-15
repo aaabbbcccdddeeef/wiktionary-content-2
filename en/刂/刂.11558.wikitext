@@ -5,15 +5,24 @@
 {{stroke order|type=animate}}
 
 ===Han character===
-{{Han char|rn=18|rad=刀|as=00|sn=2|var=2|four=|canj=LN,XLN|ids=⿰丨亅}}
+{{Han char|rn=18|rad=刀|as=00|sn=2|var=2|four=22000|canj=LN,XLN|ids=⿰丨亅}}
+
+====Derived characters====
+* [[Index:Chinese radical/刀]]
+
+====Related characters====
+* {{l|mul|[[刀]]}} ''(Original form)''
 
 ====References====
-* {{Han ref|kx=0136.010|dkj=01847|dj=0304.060|hdz=10320.010|uh=5202|ud=20994}}
+{{Han ref|kx=0136.010|dkj=01847|dj=0304.060|hdz=10320.010|uh=5202}}
+
+[[Category:CJKV radicals]]
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:刀部|en:Radical 18}}
 
 ===Pronunciation===
 {{zh-pron
@@ -29,7 +38,7 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# Radical form of [[刀]]
+# radical form of {{zh-l|刀}}.
 
 ----
 
@@ -61,10 +70,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=刀00| hanviet = [[đao]], [[đứng]]}}
+{{vi-hantu|rs=刀00|[[đao]], [[đao đứng]]}}
 
 # {{defn|vi|sort=刀00}}
 
-[[Category:CJKV radicals]]
-
-{{cln|vi|Han tu}}
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5202 Nom Foundation]
