@@ -73,39 +73,67 @@
 }}
 
 ===Etymology 1===
-{{rfe|ja}}
+{{ja-kanjitab|yomi=k|つえ}}
+
+{{IPAfont|⟨tuwe⟩}} → {{IPAchar|/tuwe/}} → {{IPAchar|/t͡suwe/}} → {{IPAchar|/t͡suje/}} → {{IPAchar|/t͡sue/}}
+
+From {{inh|ja|ojp|sort=つえ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|5|804}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#804 here]</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つえ|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
-* {{ja-l|枴}}
-* {{ja-l|梃}}
-* {{ja-l|棒}}
-* {{ja-l|欑}}
+* {{ja-l|筇}}, {{ja-l|丈}}
 
 ====Noun====
 {{ja-noun|つえ|hhira=つゑ}}
 
 # [[staff]], [[stick]], [[walking stick]], [[cane]], [[stave]], [[strove]], [[rod]], [[wand]]
 #*{{quote-book|||BOOSTER 7
-|||{{ja-usex|数%多くの'''杖'''を持ち、それぞれを使い分け多%彩な攻%撃をする。|かず%おおく の '''つえ''' を もち、それぞれ を つかいわけ た%さい な こう%げき を する。|He wields an array of wands, each of which is used for a distinctive attack.}}
+|||{{ja-usex|数%多くの'''杖'''を持ち、それぞれを使い分け多%彩な攻%撃をする。|かず%おおく の '''つえ''' を もち、それぞれ を つかいわけ た%さい な こう%げき を する。|He wields an array of '''wands''', each of which is used for a distinctive attack.}}
 |date=Mar 1 2000
 |publisher={{w|Konami}}
 |language=Japanese
 |chapter={{lj|[古](こ)[代](だい)[魔](ま)[導](どう)[士](し)}}
 |trans-chapter=Ancient Mage}}
+# something one [[lean]]s on, a [[support]]
+# a [[cane]] used for [[corporal punishment]]
+# a particularly shaped [[stirring]] [[stick]] used to make [[New Year's]] [[porridge]]
+#: {{syn|ja|粥杖|tr1=kayuzue}}
+# the [[stem]] of a [[pear]]
+# {{lb|ja|sort=つえ|historical}} a [[traditional]] [[unit]] of [[length]]
+## {{lb|ja|sort=つえ|historical}} approximately 3 [[meter]]s
+## {{lb|ja|sort=つえ|historical}} seven {{m|ja|尺||tr=shaku|pos=traditional Japanese [[foot]]}} and five {{m|ja|寸||tr=sun|pos=traditional Japanese [[inch]]}}, or approximately 2.3 [[meter]]s
+# {{lb|ja|sort=つえ|historical}} a [[traditional]] [[unit]] of [[area]]
+## {{lb|ja|sort=つえ|historical}} one-fifth of a {{m|ja|段||tr=tan|pos=traditional Japanese [[paddy]] size, roughly half of an English [[acre]]}}, or around 237m²
+
+=====Usage notes=====
+The Japanese term ''tsue'' can refer generally to a [[stick]] or [[staff]] of various lengths, as expressed by the range of English meanings apparent in the senses above.
 
 ===Etymology 2===
-{{rfe|ja|from Middle Chinese}}
+{{ja-kanjitab|yomi=o|じょう}}
+
+From {{bor|ja|ltc|sort=しょう'|-}} {{ltc-l|杖}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|じょう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|じょう|hhira=ぢやう}}
 
-# [[jo]], a fighting staff, a little over 4 {{m|ja|尺||[[shaku]], about 30 cm or a foot|tr=shaku}} long, shorter than a {{l|en|bo}} ([[quarterstaff]]).
+# a [[jo]]: a fighting staff, a little over 4 {{m|ja|尺||tr=shaku|a traditional unit of measure, about 30 cm or a [[foot]]}} long, shorter than a {{m|ja|棒||tr=bō|[[quarterstaff]]}}
+# {{lb|ja|sort=しょう'|historical}} under the ancient {{w|Ritsuryō}} system, [[caning]] as a [[form]] of [[corporal]] [[punishment]]
+# {{lb|ja|sort=しょう'|historical}} a [[traditional]] [[unit]] of [[area]]: one-fifth of a {{m|ja|段||tr=tan|pos=traditional Japanese [[paddy]] size, roughly half of an English [[acre]]}}, or around 237m²
 
 ====Compounds====
-* {{ja-r|錫%杖|しゃく%じょう}}: A khakkhara; Buddhist monk's "sounding staff".
+* {{ja-r|錫%杖|しゃく%じょう}}: a khakkhara, a Buddhist monk's "sounding staff"
 
-====Synonyms====
-* {{ja-r|棒|ぼう}}: {{l|en|bo}}
+====Coordinate terms====
+* {{ja-r|棒|ぼう}}: a [[bo]] [[staff]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
 
 ----
 
