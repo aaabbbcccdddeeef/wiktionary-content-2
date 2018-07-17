@@ -32,67 +32,96 @@
 
 ==Japanese==
 
-===Pronunciation===
-* {{ja-pron|とうきょう|y=o|acc=0}}
-* {{audio|Ja-Tokyo.ogg|Audio|lang=ja}}
-
 ===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Tokyo}}
+</div>
 {{ja-kanjitab|とう|きょう|yomi=o}}
+{{IPAchar|/təu kʲau/}} → {{IPAchar|/toːukjɔː/}} → {{IPAchar|/toːukjoː/}}
+
+Derived from {{der|ja|ltc|sort=とうきよう|-}} elements {{ja-compound|東|とう|京|きょう|t1=[[east]], [[eastern]]|t2=[[capital]]|sort=とうきよう}}.
+
+The city of Tokyo was renamed from {{m|ja|江戸|tr=Edo}} in 1868 after {{w|Emperor Meiji}} moved the capital from [[Kyoto]].
+
+====Pronunciation====
+{{ja-pron|y=o|とうきょう|acc=0|audio=Ja-Tokyo.ogg}}
 
 ====Noun====
-{{wikipedia|lang=ja}}
 {{ja-noun|とうきょう|hhira=とうきやう}}
 
-# an eastern capital
+# an [[eastern]] [[capital]]
 #* {{RQ:Nippo Jisho|663}}
-#*: '''Tôqiǒ'''. トゥキャゥ (東京) Figaxino miyaco. (東の都) 東の地方の都 (Miaco).
-
-===Etymology 2===
-From an earlier pronunciation {{IPAchar|/toukyau/}}, which became {{IPAchar|/toːkyoː/}}.
+#*: '''Tôqiǒ'''. {{lang|ja|トゥキャゥ}} {{lang|ja|(東京)}} Figaxino miyaco. {{lang|ja|(東の都)}} {{lang|ja|東の地方の都}} (Miaco).
 
 ====Proper noun====
 {{ja-pos|とうきょう|proper|hhira=とうきやう}}
 
-# [[Tokyo]], the capital of Japan, former city of Tokyo and now composed of 23 special [[ward]]s
+# {{short for|lang=ja|東京都|tr=Tōkyō-to|nodot=1|sort=とうきよう}}: [[Tokyo]] {{gl|[[capital]] of [[Japan]]}}
 #: {{ja-usex|昨日、'''東京'''は曇りでしたか。|^きのう、'''^とうきょう''' は くもり でした か。|Was it cloudy in '''Tokyo''' yesterday?}}
-# [[Tokyo]] [[prefecture|Prefecture]]
-# Tokyo Station
+# {{short for|lang=ja|東京駅|tr=Tōkyō-eki|nodot=1}}: {{w|Tokyo Station}}
+# {{lb|ja|historical|sort=とうきよう}} {{short for|lang=ja|東京府|tr=Tōkyō-fu|nodot=1}}: {{w|Tokyo Prefecture}}
 
-=====Synonyms=====
-* {{ja-r|江戸|えど}} ''(historical name of the former city of Tokyo)''
-* {{lang|ja|23区}} ''(former city of Tokyo)''
-* {{lang|ja|東京23区}} ''(former city of Tokyo)''
-* {{lang|ja|東京都}} ''(Tokyo Prefecture)''
-* {{ja-r|都|と}} ''(Tokyo Prefecture)''
-* {{lang|ja|東京駅}} ''(Tokyo Station)''
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|東京駅|^とうきょう%-えき}}
+* {{ja-r|東京%語|^とうきょう%-ご}}
+* {{ja-r|東京%港|^とうきょう%-こう}}
+* {{ja-r|東京%式アクセント|^とうきょう%-しき アクセント}}
+* {{ja-r|東京タワー|^とうきょう ^タワー}}
+* {{ja-r|東京都|^とうきょう%-と}}
+* {{ja-r|東京府|^とうきょう%-ふ}}
+* {{ja-r|東京%湾|^とうきょう%-わん}}
+{{der-bottom}}
 
-{{topics|ja|Tokyo|Prefectures of Japan|Capital cities|Cities in Japan|sort=とうきょう}}
+=====See also=====
+* {{ja-r|江戸|^えど}}
 
-===Etymology 3===
+===Etymology 2===
 {{ja-kanjitab|とう|けい|yomi=o}}
-From an earlier pronunciation /toukei/, which became /toːkei/.
+
+From {{bor|ja|ltc|sort=とうけい|-}} {{ltc-l|東京}}.
+
+The alternate pronunciation for Tokyo appears to be prevalent in the early- to mid-{{w|Meiji period}}.
 
 ====Pronunciation====
-* {{ja-pron|とうけい|y=o|acc=0}}
+{{ja-pron|y=ko|とうけい|acc=0}}
 
 ====Proper noun====
 {{ja-pos|とうけい|proper}}
 
-# {{non-gloss definition|a historical (primarily early to mid [[w:Meiji period|Meiji period]]) reading of the name of the city of [[Tōkyō]]}}
+# {{lb|ja|historical|sort=とうけい}} the [[capital]] of {{m|ja|東漢|tr=Tōkan||{{w|Eastern Han}}}} or {{m|ja|後漢|tr=Gokan||{{w|Later Han}}}}, corresponds to modern [[Luoyang]]
+# {{lb|ja|historical}} the capital of {{m|ja|北宋|tr=Hokusō||{{w|Northern Song}}}}, corresponds to modern [[Kaifeng]]
+# {{lb|ja|historical}} the eastern capital of the {{w|Jin dynasty (1115–1234)|Jurchen Jin dynasty}}, corresponds to modern {{w|Liaoyang}}
+# {{lb|ja|historical}} the capital of {{w|List of provinces of Balhae|Yongwon province}} in {{w|Balhae}} during the {{w|Tang dynasty}}
+# {{dated spelling of|lang=ja||東京|tr=Tōkyō|nodot=1|sort=とうけい}}'', see above''
 
-===Etymology 4===
-{{ja-kanjitab|yomi=irr|sort=とんきん|とん|きん}}
+=====See also=====
+* {{pedialite|Dongjing}}
+
+===Etymology 3===
+<div style="float:right;">
+{{wp|lang=ja|トンキン}}
+{{wp|Tonkin}}
+</div>
+{{ja-kanjitab|yomi=irr|とん|きん}}
+
+Borrowing from {{bor|ja|vi|sort=とんきん|Đông Kinh}}, a historical name for [[Hanoi]]. {{rfv-etymology|ja}}
+
+The kanji spelling is an example of {{ateji|sort=とんきん}}.
 
 ====Pronunciation====
-* {{ja-pron|トンキン|y=o|acc=1}}
+{{ja-pron|トンキン|y=i|acc=1}}
 
 ====Proper noun====
 {{ja-pos|トンキン|proper}}
 
-# the northernmost part of Vietnam; [[w:Tonkin|Tonkin]]
+# {{lb|ja|historical}} [[Tonkin]] {{gl|[[northern]] [[region]] of [[Vietnam]]}}
 
 ===References===
 * {{R:Nippo Jisho}}
+
+{{top|ja|Tokyo|Prefectures of Japan|Capital cities|Cities in Japan|sort=とうきよう}}
 
 ----
 
