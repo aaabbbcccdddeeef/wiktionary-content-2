@@ -1,7 +1,7 @@
 {{also|嘘}}
 {{character info/new}}
 ==Translingual==
-{{ja-forms|嘘|嘘|噓}}
+{{ja-forms|[[嘘]]|[[嘘]]|噓}}
 ===Han character===
 {{Han char|rn=30|rad=口|as=12|sn=15|four=61017|canj=RYPM|ids=⿰口虛}}
 
@@ -17,33 +17,47 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=嘘}}
+{{zh-forms|s=嘘|alt=嘘,𭊌}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|口|t1=mouth|虛|ls=psc|c1=s|c2=p}} – to exhale, blow out from the mouth. Note that 虛 means empty, void, hence connotations of “empty via the mouth”.
+{{Han compound|口|t1=mouth|虛|ls=psc|c1=s|c2=p}} – to exhale, blow out from the mouth. Note that {{l|zh|虛}} means empty, void, hence connotations of “empty via the mouth”.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=xū,shī
+|m=xū
 |c=heoi1
 |mc=y
-|oc=
+|oc=y
 |ma=
-|cat=v,intj
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to slowly [[exhale]]
 # to [[sigh]]; to [[lament]]
 # to [[praise]]; to [[flatter]]
 # to [[heat]] by [[steam]] or [[fire]]
-# {{lb|zh|Mandarin}} [[hush]]! [[shh]]!
+
+=====Compounds=====
+{{zh-der|吹噓|噓吸|呼噓|大肆吹噓|噓聲|噓枯吹生|吁噓|喘噓噓|不勝唏噓|冷噓噓|噓唏|唏噓|噓寒問暖|自我吹噓}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shī
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Mandarin|interjection}} [[hush]]! [[shh]]!
 
 ===References===
-* {{R:twedu|a00861}}
+* {{R:twedu|A00681}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -74,6 +88,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[hờ]]|rs=口11}}
+{{vi-hantu|rs=口11|[[hờ]], [[hư]]}}
 
 # {{defn|lang=vi|sort=口11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5653 Nom Foundation]
