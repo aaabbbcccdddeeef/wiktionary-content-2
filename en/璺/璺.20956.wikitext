@@ -1,26 +1,55 @@
 {{character info/new}}
 ==Translingual==
 
+===Alternative forms===
+* In mainland China, Hong Kong and Korean {{w|hanja}}, the middle top component is written {{l|mul|同}}.
+* In Taiwan (based on its {{w|zh:國字標準字體|standardized form of characters}}), the middle top component is written {{l|mul|⿵[[冂]][[〒]]}}.
+* In Japanese {{w|kanji}}, the middle top component is written {{l|mul|⿵[[冂]]⿱[[一]][[コ]]}}, which is the historical form found in the {{w|Kangxi dictionary}}.
+
 ===Han character===
-{{Han char|rn=96|rad=玉|as=14|sn=19|four=77103|canj=HBMGI|ids=⿳⿴𦥑同冖玉 <small>(GHK)</small>}}
+{{Han char|rn=96|rad=玉|as=14|asm=15|sn=19|snm=20|four=77103|canj=HBMGI|ids=⿳⿴𦥑同冖玉(GHK),⿳⿴𦥑⿵冂〒冖玉(T),⿳⿴𦥑⿵冂⿱一コ冖玉(J)}}
 
 ====References====
-* {{Han ref|kx=0744.110|dkj=21305|dj=1152.230|hdz=21144.080|uh=74BA|ud=29882|bh=F46F|bd=62575}}
+{{Han ref|kx=0744.110|dkj=21305|dj=1152.230|hdz=21144.080|uh=74BA}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𤪭}}
+
+===Glyph origin===
+{{Han etym}}
 
 ===Pronunciation===
 {{zh-pron
 |m=wèn
-|c=man6
+|c=man6,man4
+|c_note=man6 - colloquial; man4 - variant
 |mc=y
 |oc=y
+|cat=n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
 # [[crack]]
+
+====Compounds====
+{{zh-der|裂璺|打破沙鍋璺到底}}
+
+===References===
+* {{R:twedu|B02680}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=玉14|[[vấn]]}}
+
+# {{defn|lang=vi|sort=玉15}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=74BA Nom Foundation]
