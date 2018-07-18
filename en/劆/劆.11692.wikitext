@@ -1,14 +1,55 @@
-{{also|鐮}}
+{{also|鐮|镰}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=18|rad=刀|as=13|sn=15|four=|canj=ICLN|ids=⿰廉刂}}
+{{Han char|rn=18|rad=刀|as=13|sn=15|four=02200|canj=ICLN|ids=⿰廉刂}}
 
-# [[sickle]]
+====Related characters====
+* {{l|mul|[[鐮]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} based on {{w|Zhengzitong}} dictionary)''
+* {{l|mul|[[镰]]}} ''({{w|Simplified Chinese|Simplified form}} of {{l|mul|鐮}} in mainland China)''
 
 ====References====
-* {{Han ref|kx=0144.310|dkj=02215|hdz=10360.010|uh=5286|ud=21126}}
+{{Han ref|kx=0144.310|dkj=02215|hdz=10360.010|uh=5286}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Glyph origin====
+Found in the historical {{w|Jiyun}} 《{{w2|zh|集韻}}》 dictionary published during the {{w|Song dynasty}} (1037 AD).
+
+{{Han compound|廉|刀|alt2=刂|c1=p|c2=s|t2=knife; blade|ls=psc}}.
+
+====Pronunciation====
+{{zh-pron
+|m=lián
+|c=
+|mc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[stab]] [[lightly]]
+
+====References====
+* {{R:twedu|C00672}}
+
+===Etymology 2===
+
+====Glyph origin====
+Found in the historical {{w|Zhengzitong}} 《{{w2|zh|正字通}}》 dictionary published during the {{w|Qing dynasty}} (1671 AD).
+
+====Definitions====
+{{zh-see|鐮}}
+
+====References====
+* {{R:twedu|A04352-003#37}}
 
 ----
 
@@ -20,13 +61,7 @@
 # {{defn|lang=ja|sort=刀13}}
 
 ====Readings====
-* {{ja-readings|on=[[れん]] (ren)|kun=[[かま]] (kama)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[lián]] ([[lian2]])|wg=lien<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=刀13}}
+{{ja-readings
+|on=れん
+|kun=かま
+}}
