@@ -1,17 +1,31 @@
-{{also|舉|挙|举}}
+{{also|𭢅|𦦙|舉|挙|举}}
 {{character info/new}}
 ==Translingual==
 {{CJKV-forms|舉|举|挙|擧}}
 
-===Han character===
-{{Han char|rn=64|rad=手|as=14|sn=18|four=|canj=HCQ,XHCQ|ids=⿱與手}}
+===Alternative forms===
+* {{l|mul|[[𦦙]]}} (<code>U+26999</code>) - The bottom component is written {{l|mul|丰}} instead of {{l|mul|手}}.
+* {{l|mul|[[舉]]}} (<code>U+8209</code>) - The bottom component is written as ⿻一十.
 
-====Alternative forms====
-* [[舉]] (U+8209); The bottom part displays as ⿻一十.
-* [[𦦙]] (U+26999); The bottom part displays as [[丰]].
+===Han character===
+{{Han char|rn=64|rad=手|as=14|asmj+=13|sn=18|snmj+=17|four=77502|canj=HCQ,XHCQ|ids=⿱與手}}
+
+====Usage notes====
+This character is used in Korean {{w|hanja}} and Japanese {{w|kyūjitai}}.
+
+====Derived characters====
+* {{l|mul|[[㩮]], [[欅]], [[𪼰]], [[𮂥]], [[𮒾]], [[㐦]]}}
+* {{l|mul|[[襷]]}} ''(Exception: Only for mainland China and Japanese character form. Taiwan character contains {{l|mul|舉}} while Hong Kong character contains {{l|mul|𦦙}})''
+
+====Related characters====
+* {{l|mul|[[𭢅]]}} ''(Calligraphic {{w|Variant Chinese character|variant}} of ''<big>擧</big>)
+* {{l|mul|[[𦦙]]}} ''(Historical {{w|Variant Chinese character|variant}} of ''<big>擧</big>)
+* {{l|mul|[[舉]]}} ''(Preferred form used for {{w|Traditional Chinese|traditional Chinese}} in modern Taiwan, Hong Kong and Macau)''
+* {{l|mul|[[挙]]}} ''(Japanese {{w|shinjitai}} form of ''<big>擧</big>)
+* {{l|mul|[[举]]}} ''({{w|Simplified Chinese|Simplified}} form of {{l|mul|舉}} in mainland China)''
 
 ====References====
-* {{Han ref|kx=0460.100|dkj=12863|dj=0808.300|hdz=31966.010|uh=64E7|ud=25831}}
+{{Han ref|kx=0460.100|dkj=12863|dj=0808.300|hdz=31966.010|uh=64E7}}
 
 ----
 
@@ -19,11 +33,16 @@
 
 ===Glyph origin===
 {{Han etym}}
-
 {{Han compound|與|手|c1=p|c2=s|t2=hand|ls=psc}}.
 
 ===Definitions===
-{{zh-see|舉|v}}
+{{zh-see|舉|vt}}
+
+===Usage notes===
+This character is the orthodox form found in the historical {{w|Kangxi dictionary}}.
+
+===References===
+* {{R:twedu|A03400-003#24}}
 
 ----
 
@@ -33,14 +52,14 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手14|shin=挙}}
 
-# [[raise]]
-# [[plan]]
-# [[project]]
-# [[behavior]]
-# [[actions]]
+# {{kyujitai|挙}}
 
 ====Readings====
-* {{ja-readings|on=[[きょ]] (kyo)|kun=[[あげる]] (ageru)}}
+{{ja-readings
+|goon=こ
+|kanon=きょ
+|kun=あ-げる, あ-がる, こぞ-る
+}}
 
 ----
 
@@ -49,17 +68,17 @@
 ===Hanja===
 {{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
 
-# [[raise]], [[lift up]]
-# [[recommend]]
+# to [[raise]]; to [[lift up]]
+# to [[recommend]]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手14|hanviet=[[cử]], [[cửa]]}}
+{{vi-hantu|rs=手14|[[cử]], [[cửa]]}}
 
 # {{defn|lang=vi|sort=手14}}
 
 ====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=64e7 Nom Foundation]
+* [http://nomfoundation.org/common/nom_details.php?codepoint=64E7 Nom Foundation]
