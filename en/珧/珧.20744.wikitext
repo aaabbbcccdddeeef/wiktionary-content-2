@@ -4,18 +4,20 @@
 ===Han character===
 {{Han char|rn=96|rad=玉|as=06|sn=10|four=12113|canj=MGLMO|ids=⿰𤣩兆}}
 
-# [[mother-of-pearl]]
+====Derived characters====
+* {{l|mul|[[𫚅]]}}
 
 ====References====
-* {{Han ref|kx=0731.120|dkj=20968|dj=1142.230|hdz=21112.030|uh=73E7|ud=29671|bh=D2B0|bd=53936}}
+{{Han ref|kx=0731.120|dkj=20968|dj=1142.230|hdz=21112.030|uh=73E7}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=䖴,𧎼}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|玉|兆|c1=s|c2=p|t1=jade|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -23,16 +25,21 @@
 |c=jiu4
 |mc=y
 |oc=y
-|cat=
+|cat=n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# [[shell]] from {{zh-l|蜃|tr=-|{{w|Shen (clam-monster)|''Shen''}}}} that can be used for [[jewellery]]
+# {{zh-used in|江珧}}
 
 ====Compounds====
-{{zh-der|江珧柱|江珧}}
+{{zh-der|江珧柱|江珧|弓珧|玉珧|蜃珧}}
+
+===References===
+* {{R:twedu|B02614}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -44,4 +51,7 @@
 # {{defn|lang=ja|sort=玉06}}
 
 ====Readings====
-* {{ja-readings|on=[[よう]] (yō)|kun=[[たいらぎ]] (tairagi)}}
+{{ja-readings
+|on=よう
+|kun=たいらぎ
+}}
