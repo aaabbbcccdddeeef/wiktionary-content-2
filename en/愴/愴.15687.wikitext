@@ -2,13 +2,8 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-[[形声]]。from [[心]], and [[倉]] is sound. The original meaning is [[悲傷]] (sad, miserable)
-
 ===Han character===
 {{Han char|rn=61|rad=心|as=10|sn=13|four=98067|canj=POIR|ids=⿰忄倉}}
-
-# [[sad]], [[broken-hearted]], [[disconsolate]]
 
 ====References====
 * {{Han ref|kx=0396.320|dkj=11008|dj=0735.200|hdz=42338.050|uh=6134|ud=24884|bh=B75B|bd=46939}}
@@ -21,23 +16,37 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=chuàng
-|c=cong3,cong2
-|c_note=cong2 - only used in {{l|zh|愴怳}}
-|mc=y
-|oc=y
-|cat=
+|c=cong3
+|mc=2
+|oc=2
+|cat=a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|literary}} [[sad]]; [[sorrowful]]
+# {{†}} {{zh-alt-form|滄|[[cold]]}}
 
 ====Compounds====
 {{zh-der|愴惻|悄愴|慘愴|愴然垂首|愴然|愴慌|愴愴|愴惶|愴悢|愴恍|愴天呼地|愴地呼天|感愴|愀愴|惻愴|惋愴|悽愴|悲愴|酸愴}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=chuǎng
+|c=cong2
+|mc=1
+|oc=1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|愴怳}}
 
 ===References===
 * {{R:yue:mfccd}}
