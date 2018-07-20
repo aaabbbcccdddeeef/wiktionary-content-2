@@ -11,21 +11,32 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=爷}}
+{{zh-forms|s=爷|alt=耶,𤕓,𨈺}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|父|耶|t1=fathers|c1=s|c2=p|ls=psc}}.
+{{Han compound|父|耶|t1=father|c1=s|c2=p|ls=psc}}.
+
+===Etymology===
+{{rfe|zh}}
 
 ===Pronunciation===
 {{zh-pron
 |m=yé
+|m-s=ye2
 |c=je4
+|c-t=yie3
+|g=ia4
 |h=pfs=yà
-|md=
+|j=ie1
+|mb=iě
+|md=iè
 |mn=iâ
-|w=
-|mc=y
+|mn-t=ia5
+|w=3hhia
+|x=ia2/ie2
+|x_note=ia2 - vernacular (“father”); ie2 - literary (“grandfather”)
+|mc=
 |oc=y
 |cat=n
 }}
@@ -33,11 +44,16 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# [[father]]
+# {{lb|zh|literary|or|dialectal}} [[father]]
 # [[grandfather]]
 # {{lb|zh|polite}} [[grandpa]] {{gloss|term of address for an elderly man}}
 # {{lb|zh|historical|honorific}} [[sir]]
 # {{lb|zh|honorific}} {{n-g|term of address for [[god]]s and the [[Buddha]]}}
+
+====Synonyms====
+{{zh-dial|爸爸}}
+{{zh-dial|爸爸-2}}
+{{zh-dial|祖父}}
 
 ====Coordinate terms====
 * {{zh-l|婆}}
