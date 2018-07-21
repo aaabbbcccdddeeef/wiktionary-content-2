@@ -1,13 +1,13 @@
-{{also|撲|支}}
+{{also|支|攵}}
 {{character info/new}}
 ==Translingual==
 {{stroke order|type=animate}}
 
 ===Alternative forms===
-* {{l|mul|攵}} (sometimes when used as a right Chinese Radical)
+* {{l|mul|攵}} (sometimes used as a right Chinese radical)
 
 ===Han character===
-{{Han char|rn=66|rad=攴|as=00|sn=4|four=|canj=YE}}
+{{Han char|rn=66|rad=攴|as=00|sn=4|four=21407|canj=YE|ids=⿱⺊又}}
 
 # {{mul-kangxi radical-def}}
 
@@ -15,34 +15,41 @@
 * [[Index:Chinese radical/攴]]
 
 ====References====
-* {{Han ref|kx=0468.040|dkj=13108|dj=0815.330|hdz=21447.080|uh=6534|ud=25908}}
+{{Han ref|kx=0468.040|dkj=13108|dj=0815.330|hdz=21447.080|uh=6534}}
+
+[[Category:CJKV radicals]]
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=攵}}
+{{zh-forms|alt=攵,䇚,𢪊}}
+{{zh-wp|zh:攴部|en:Radical 66}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han compound|卜|又|c1=p|c2=s|t2=hand|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=pū
-|c=bok1
+|c=bok1,pok3
 |h=pfs=phuk/phok
 |mn=phok
 |w=
 |mc=y
 |oc=y
-|ma=|ma2=
-|cat=
+|ma=
+|cat=v
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# [[hit]] [[lightly]]
+# to [[hit]] [[lightly]]; to [[tap#Verb|tap]]
+
+===References===
+* {{R:twedu|C04551}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -51,11 +58,14 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=攴00}}
 
-# [[strike]], [[hit]]
+# to [[strike]]; to [[hit]]
 # [[folding]] [[chair]]
 
 ====Readings====
-* {{ja-readings|on=[[ほく]] (hoku), [[はく]] (haku)|kun=[[うつ]] (utsu)}}
+{{ja-readings
+|on=ほく, はく
+|kun=うつ
+}}
 
 ----
 
@@ -78,4 +88,5 @@
 
 # {{defn|lang=vi|sort=攴00}}
 
-[[Category:CJKV radicals]]
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6534 Nom Foundation]
