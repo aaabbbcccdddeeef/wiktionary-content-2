@@ -10,13 +10,13 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin=== 
 {{Han etym}}
 {{Han compound|口|厄|c1=s|c2=p|t1=mouth|ls=psc}}.
 
 ===Etymology 1===
+{{zh-forms|alt=呝}}
 
 ====Pronunciation====
 {{zh-pron
@@ -24,10 +24,10 @@
 |c=ak1
 |h=pfs=
 |md=
-|mn=eh
+|mn=xm,tp,kh,tn,tc,yl:eh/qz,lk:e̍rh/zz:e̍h/sx,km:èr/sx,hc:erh/mg:è
 |w=
-|mc=y
-|oc=y
+|mc=
+|oc=2
 |cat=v,intj
 }}
 
@@ -42,10 +42,11 @@
 {{zh-der|呃逆|打呃|呃喔}}
 
 ===Etymology 2===
+{{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
-|c=aak1,ngaak1
+|c=aak1
 |cat=v
 }}
 
@@ -59,14 +60,14 @@
 * {{sense|to deceive}} {{qualifier|Mandarin}} {{zh-l|騙}}
 
 =====Compounds=====
-{{zh-der|呃秤}}
+{{zh-der|呃秤|呃蝦條|呃呃氹氹|呃人|呃鬼食豆腐|呃like|呃錢|呃呃騙騙|偷呃拐騙|呃神騙鬼}}
 
 ===Etymology 3===
+{{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
 |m=e
-|c=aak3
 |cat=part
 }}
 
@@ -76,14 +77,22 @@
 # {{n-g|Used to indicate approval or shock.}}
 
 ===Etymology 4===
+{{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
 |m=ài
+|c=aai3
+|mc=y
+|oc=1
 |cat=
 }}
 
-# 
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
 ----
 
 ==Japanese==
