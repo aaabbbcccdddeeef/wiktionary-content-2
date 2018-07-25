@@ -1,8 +1,12 @@
+{{also|㧦}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=64|rad=手|as=09|sn=12|four=57020|canj=QPYR|ids=⿰扌訇}}
+
+====Related characters====
+* {{l|mul|[[㧦]]}} ''(Orthodox form of ''<big>揈</big>'' when pronounced "[[xuàn]]" in Mandarin)''
 
 ====References====
 {{Han ref|kx=0441.070|dkj=12329|dj=0792.030|hdz=31922.060|uh=63C8}}
@@ -11,10 +15,14 @@
 
 ==Chinese==
 
-===Etymology===
+===Etymology 1===
+
+====Glyph origin====
+{{Han etym}}
+{{Han compound|手|訇|alt1=扌|c1=s|c2=p|t1=hand|ls=psc}}.
 {{rfe|zh|all related? Hakka 拂 (fin) seems to be cognate with Cantonese fing6}}
 
-===Pronunciation 1===
+====Pronunciation 1====
 {{zh-forms|alt=轟-“to drive away”,封-Min Nan}}
 {{zh-pron
 |m=hōng
@@ -25,43 +33,62 @@
 |cat=v
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
-# {{†}} {{lb|zh|onomatopoeia}} {{n-g|The sound of a strike.}}
+# {{†}} {{lb|zh|onomatopoeia}} {{n-g|the sound of a [[strike]].}}
 # to [[drive away]]; to [[expel]]
 # to [[sell]]
 # {{lb|zh|Min Nan}} to [[slap]] (someone on their [[face]])
 
-===Pronunciation 2===
-{{zh-forms}}
+====Pronunciation 2====
+{{zh-forms|alt=㧦<!-- Refer 《集韻》 and 《類篇》 -->}}
 {{zh-pron
 |m=hóng
 |c=fang4,fang6
 |cat=v
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
 # {{lb|zh|literary}} to [[strike]]; to [[beat]]
 # {{lb|zh|Cantonese}} to [[hit]] someone [[hard]] (with a [[fist]], a [[stick]], etc.)
 
-===Pronunciation 3===
-{{zh-forms|alt=捹,𢫕,fing}}
+====Pronunciation 3====
+{{zh-forms|alt=捹,𢫕}}
 {{zh-pron
 |c=fing6,fang6
 |cat=v
 }}
-{{attn|zh|fing1?}}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
 # {{lb|zh|Cantonese}} to [[sway]]; to [[swing]]
 # {{lb|zh|Cantonese}} to [[shake]]
 # {{lb|zh|Cantonese|figurative}} to [[spend]] ([[money]]) [[lavishly]]
 #: {{zh-x|將 啲 錢 亂咁 揈{fing6}|to waste money; to spend money recklessly|C}}
+
+====References====
+* {{R:twedu|C04322}}
+* {{R:yue:Hanzi}}
+
+===Etymology 2===
+
+====Definitions====
+{{zh-see|掬|v}}
+
+====References====
+* {{R:twedu|A01607-006#62}}
+
+===Etymology 3===
+
+====Definitions====
+{{zh-see|㧦|v}}
+
+====References====
+* {{R:twedu|C04194-001#26}}
 
 ----
 
@@ -73,4 +100,7 @@
 # {{defn|lang=ja|sort=手09}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō), [[けん]] (ken), [[きく]] (kiku)|kun=[[うつ]] (utsu)}}
+{{ja-readings
+|on=こう, けん, きく
+|kun=うつ
+}}
