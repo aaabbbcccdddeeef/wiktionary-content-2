@@ -4,11 +4,8 @@
 ===Han character===
 {{Han char|rn=86|rad=火|as=06|sn=10|four=97864|canj=FHER|ids=⿰火各}}
 
-# [[brand]], [[burn]]
-# branding iron
-
 ====References====
-* {{Han ref|kx=0670.180|dkj=19014|dj=1079.100|hdz=32200.160|uh=70D9|ud=28889|bh=AF4F|bd=44879}}
+{{Han ref|kx=0670.180|dkj=19014|dj=1079.100|hdz=32200.160|uh=70D9}}
 
 ----
 
@@ -17,28 +14,53 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|火|各|c1=s|c2=p|t1=fire|ls=psc}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=lào
 |c=lok3,lok6
+|c_note=lok3 - colloquial; lok6 - variant
 |mn=ml:lo̍k/qz,xm,zz:lo̍h/tw,xm,zz:lō
 |mn_note=lo̍k - literary; lo̍h/lō - vernacular
 |mc=y
 |oc=y
-|cat=
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# to [[brand#Verb|brand]]; to [[mark]] on [[livestock]] with [[hot]] [[metallic]] [[object]]
+# to [[iron]]
+#: {{zh-syn|熨|燙}}
+# to [[pan-fry]]
+#: {{zh-x|烙餅|type of [[flatbread]]}}
 
-====Compounds====
-{{zh-der|烙印|烙燒餅|烙餅|烙花|烙鐵|炮烙之刑|炮烙|烙鐵印兒}}
+=====Compounds=====
+{{zh-der|烙印|烙燒餅|烙餅|烙花|烙鐵|烙鐵印兒}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=luò
+|c=
+|mc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[burn]]; to [[cauterize]]
+#: {{zh-syn|灼}}
+# {{zh-used in|炮烙|type of [[torture]] in ancient times}}
+
+=====Compounds=====
+{{zh-der|炮烙}}
 
 ===References===
-* {{R:yue:mfccd}}
+* {{R:twedu|A02405}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -50,7 +72,10 @@
 # {{defn|lang=ja|sort=火06}}
 
 ====Readings====
-* {{ja-readings|on=[[らく]] (raku), [[かく]] (kaku)|kun=[[やく]] (yaku)}}
+{{ja-readings
+|on=らく, かく
+|kun=やく
+}}
 
 ----
 
@@ -60,7 +85,7 @@
 {{ko-hanja|hangeul=[[락]]>[[낙]]|eumhun=|rv=rak>nak|mr=rak>nak|y=lak>nak}}
 
 # to [[burn]]
-# to [[brand]]
+# to [[brand#Verb|brand]]
 
 ====Synonyms====
 * {{l|ko|燒}} (소, ''so'')
@@ -68,4 +93,15 @@
 * {{l|ko|灼}} (작, ''jag'')
 
 ====Compounds====
-* [[烙印]] ([[낙인]], ''nag-in'') [[brand]], [[branding iron]]
+* {{l|ko|烙印}} ([[낙인]], ''nag-in''): [[branding]]
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=火06|[[lạc]]}}
+
+# {{defn|lang=vi|sort=火06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=70D9 Nom Foundation]
