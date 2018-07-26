@@ -5,15 +5,45 @@
 {{ja-forms|壮|壮|[[壯]]}}
 
 ===Han character===
-{{Han char|rn=33|rad=士|as=03|sn=6|four=|canj=LMG|ids=⿰丬士}}
+{{Han char|rn=33|rad=士|as=03|sn=6|four=34110|canj=LMG,ILG|ids=⿰丬士(<code>U+58EE</code>),⿰丬土(<code>U+2F851</code>)}}
+
+====Derived characters====
+* {{l|mul|[[荘]], [[装]]}}
+
+====Related characters====
+* {{l|mul|[[壯]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>壮</big>)
 
 ====References====
-* {{Han ref|kx=0243.011|dkj=05642|dj=0483.020|hdz=10420.060|uh=58EE|ud=22766}}
+{{Han ref|kx=0243.011|dkj=05642|dj=0483.020|hdz=10420.060|uh=58EE}}
+{{Han ref|uh=2F851}}
 
 ----
 
 ==Chinese==
+
+===Glyph 1===
+{{Han-glyphref|⿰丬士|}}
+
+====Definitions====
 {{zh-see|壯|sv}}
+
+====References====
+* {{R:twedu|A00833-003#37}}
+
+===Glyph 2===
+{{Han-glyphref|⿰丬土|}}
+
+====Etymology 1====
+{{zh-see|壯|v}}
+
+=====References=====
+* {{R:twedu|A00833-001#18}}
+
+====Etymology 2====
+{{zh-see|牡|v}}
+
+=====References=====
+* {{R:twedu|A02490-004#17}}
 
 ----
 
@@ -34,7 +64,7 @@
 ===Adjective===
 {{ja-adj|さかん|decl=na}}
 
-# {{alternative spelling of|lang=ja|sort=さかん|盛ん}}
+# {{alt-form|lang=ja|sort=さかん|盛ん}}
 
 ===Proper noun===
 {{ja-pos|proper|そう|hhira=さう}}
@@ -45,3 +75,15 @@
 {{ja-pos|proper|つよし}}
 
 # {{given name|lang=ja|sort=つよし|male}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=士03|[[tráng]]}}
+
+# {{defn|lang=vi|sort=士03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=58EE Nom Foundation]
