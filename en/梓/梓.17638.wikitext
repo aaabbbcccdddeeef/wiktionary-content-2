@@ -50,39 +50,94 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木07}}
 
+# {{vern|yellow catalpa}} ({{taxlink|Catalpa ovata|species|ver=180726}})
+# [[block]] used for [[print]]ing
+# [[printing]]
+
 ====Readings====
 {{ja-readings
-|goon=し<し
-|kanon=し<し
+|goon=し
+|kanon=し
 |kun=あずさ-<あづさ-
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|梓宮|しきゅう}}
+* {{ja-r|梓行|しこう}}
+* {{ja-r|梓人|しじん}}
+* {{ja-r|桑梓|そうし}}
+{{der-bottom}}
+
 ===Etymology 1===
-{{wikipedia|lang=ja}}
+<div>
+{{wp|lang=ja}}
+</div>
 {{ja-kanjitab|あずさ|yomi=k}}
+{{IPAchar|/adusa/}} → {{IPAchar|/ad͡zusa/}} → {{IPAchar|/azusa/}}
+
+From {{inh|ja|ojp|sort=あずさ|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+
 {{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|y=k|あずさ|acc=1|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|あずさ|アズサ|hhira=あづさ|hkata=アヅサ}}
 
-# {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|noshow=1|ver=170110}}
-# printing [[block]]
+# {{synonym of|lang=ja|夜糞峰榛|tr=yogusominebari|nodot=1|sort=あずさ}}: the {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|ver=180726}}
+# {{synonym of|lang=ja|[[木豇豆]], [[楸]]|tr=kisasage|nodot=1}}: the {{vern|yellow catalpa}} or {{vern|Chinese catalpa}}, {{taxlink|Catalpa ovata|species|ver=180726}}
+# {{synonym of|lang=ja|赤芽柏|tr=akamegashiwa|nodot=1}}: the {{vern|Japanese mallotus}}, {{taxlink|Mallotus japonicus|species|ver=180726}}
+# a [[block]] used for [[print]]ing {{gl|as it was originally made from the [[wood]] of the Chinese catalpa}}
+#: {{syn|ja|版木|tr=hangi}}
+# {{short for|lang=ja|梓弓|tr=azusa-yumi|nodot=1|sort=あずさ}}: a [[bow]] made from the ''azusa'' tree
+# {{short for|lang=ja|梓巫女|tr=azusa-miko|nodot=1}}: a ''{{ll|ja|巫女|miko}}'' {{gl|[[unmarried]] [[female]] [[medium]]}} who summons [[spirits]] by [[sound]]ing the [[string]] of an ''azusa-yumi''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|梓%川|^あずさ%-がわ}}
+* {{ja-r|梓%巫女|あずさ%-みこ}}
+* {{ja-r|梓%山|^あずさ%-やま}}
+* {{ja-r|梓%弓|あずさ%-ゆみ}}
+* {{ja-r|玉梓|たまずさ|rom=-}}, {{ja-r|玉章|たまずさ}}
+* {{ja-r|根張り梓|ねはり あずさ}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|梓に刻む|あずさ に きざむ}}
+* {{ja-r|梓に鏤める|あずさ に ちりばめる}}
+* {{ja-r|梓に上す|あずさ に のぼす}}
+
+=====Proverbs=====
+* {{ja-r|腰に梓の弓を張る|こし に あずさ の ゆみ を はる}}
 
 ====Proper noun====
-{{ja-pos|proper noun|あずさ}}
+{{ja-pos|proper noun|あずさ|hhira=あづさ}}
 
-# {{given name|female|lang=ja}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=あずさ}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あずさ}}
 
 ===Etymology 2===
-{{wikipedia|lang=ja}}
 {{ja-kanjitab|し|yomi=o}}
-{{rfe|ja}}
+{{IPAchar|/t͡si/}} → {{IPAchar|/si/}} → {{IPAchar|/ɕi/}}
+
+From {{bor|ja|ltc|sort=し|-}} {{ltc-l|梓}}.
+
+====Pronunciation====
+{{ja-pron|y=k|し|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|し}}
 
-# {{vern|yellow catalpa}} or {{vern|Chinese catalpa}} ({{taxlink|Catalpa ovata|species|noshow=1|ver=170110}})
-#: {{synonyms|ja|木王}}
+# a [[block]] used for [[print]]ing {{gl|as it was originally made from the [[wood]] of the {{vern|Chinese catalpa}}}}
+#: {{syn|ja|版木|tr=hangi}}
+
+=====Idioms=====
+* {{ja-r|梓に上す|し に のぼす}}
+
+===References===
+<references/>
 
 ----
 
