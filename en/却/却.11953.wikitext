@@ -1,33 +1,42 @@
-{{also|卻}}
+{{also|卻|㕁}}
 {{character info/new}}
 ==Translingual==
 
-===Glyph origin===
-{{Han etym}}
-Variant of {{l|mul|卻}}. The modern China Mainland usage is of reform nature.
-
 ===Han character===
-{{Han char|rn=26|rad=卩|as=05|sn=7|four=|canj=GISL|ids=⿰去卩}}
+{{Han char|rn=26|rad=卩|as=05|sn=7|four=47720|canj=GISL|ids=⿰去卩}}
 
 ====Derived characters====
-* [[脚]]
+* {{l|mul|[[㑢]], [[𠳞]], [[𪫸]], [[𢭙]], [[𭰚]], [[脚]], [[𣒗]], [[𭴦]], [[𭹌]], [[𦛶]], [[䖼]], [[𮘏]], [[踋]], [[𨌞]], [[㾡]]}}
+
+====Related characters====
+* {{l|mul|[[卻]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}}. Considered a {{w|Variant Chinese character|variant form}} of {{lang|mul|却}} in mainland China)''
+* {{l|mul|[[㕁]]}} ''({{w|Variant Chinese character|Variant form}} of {{lang|mul|却}} in mainland China)''
 
 ====References====
-* {{Han ref|kx=0159.190|dkj=02856|dj=0364.080|hdz=10313.020|uh=5374|ud=21364}}
+{{Han ref|kx=0159.190|dkj=02856|dj=0364.080|hdz=10313.020|uh=5374}}
 
 ----
 
 ==Chinese==
-{{zh-see|卻|sv}}
+
+===Glyph origin===
+{{Han etym}}
+Variant of {{zh-l|卻*}}. The modern mainland China usage is of reform nature.
+
+===Definitions===
+{{zh-see|卻}}
+
+===References===
+* {{R:twedu|A00457-001}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=卩05}}
+{{ja-kanji|grade=c|rs=卩05}} <!-- Note: 卻 is not listed as its kyūjitai form in 2010 Jōyō Kanji -->
 
-# {{defn|lang=ja|sort=卩05}}
+# [[instead]]; on the [[contrary]]
 
 ====Readings====
 {{ja-readings
@@ -35,6 +44,12 @@ Variant of {{l|mul|卻}}. The modern China Mainland usage is of reform nature.
 |kanon=きゃく
 |kun=しりぞ-く, しりぞ-ける, かえ-って
 }}
+
+====Compounds====
+* {{ja-r|却下|きゃっか}}: [[rejection]]; [[dismissal]]
+
+===Alternative forms===
+* {{ja-l|卻}}
 
 ----
 
@@ -44,3 +59,15 @@ Variant of {{l|mul|卻}}. The modern China Mainland usage is of reform nature.
 {{ko-hanja|hangeul=각|rv=gak|mr=kak}}
 
 # {{defn|lang=ko|sort=卩05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=卩05|[[khước]]}}
+
+# {{defn|lang=vi|sort=卩05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5374 Nom Foundation]
