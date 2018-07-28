@@ -12,11 +12,15 @@
 
 ==Chinese==
 
-===Etymology 1===
-{{zh-forms}}
+===Glyph origin===
+; Etymology 1
+: {{Han compound|人|alt1=亻|却|ls=psc|c1=s|c2=p|t1=man; person|no_och2=1}}.
+; Etymology 2
+: Variant of {{zh-l|*𠊬}} by analogy ({{zh-l|*卻}} → {{zh-l|*却}}).
 
-====Glyph origin====
-{{rfe|zh|See discussion at [[Talk:𠊬]]}}
+===Etymology 1===
+{{zh-forms|alt=却,𠳞,屐}}
+From {{zh-l|*佢|he; she; it}}, with -''k'' (plural marker) and tone change ({{zh-ref|Gan, 1997}}). Compare {{zh-l|*偌|you (plural)}}, from {{zh-l|*你|you (singular)}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -25,10 +29,10 @@
 }}
 
 ====Definitions====
-{{zh-hanzi|}}
+{{zh-hanzi}}
 
-# {{lb|zh|dialectal Cantonese|mainly|{{w|Siyi Yue}}|including|Taishanese}} [[they]]; [[them]] <!-- Note: 廣東陽江[kiɛk²¹]，新會會城[k'iak²¹]，江門白沙[k'iok²¹]，恩平牛江[k'iɔk²¹]，斗門斗門鎮[k'iak²¹] -->
-#: {{zh-x|㑢{kiɛk²¹}個{kɔ⁵⁴}|[[their]]}} <!-- Note: 廣東陽江 [kiɛk²¹kɔ⁵⁴] -->
+# {{lb|zh|dialectal Cantonese|including|Siyi|Yangjiang}} [[they]]; [[them]]
+#: {{zh-x|㑢個|[[their]]|C-T|tr=kiak4 goi1}}
 
 =====Synonyms=====
 {{zh-dial|他們}}
@@ -37,7 +41,7 @@
 {{zh-der|㑢個}}
 
 ====References====
-* {{lang|zh|《漢語方言大詞典》 (中華書局}}, 1999), Page 4243 <!-- Note: Not the same as 《現代漢語方言大詞典》 (江蘇教育出版社, 2002) -->
+* {{lang|zh|《漢語方言大詞典》}} ({{lang|zh|中華書局}}, 1999), Page 4243 <!-- Note: Not the same as 《現代漢語方言大詞典》 (江蘇教育出版社, 2002) -->
 
 ===Etymology 2===
 {{zh-see|𠊬|v}} <!-- Note: Not the simplified form of 𠊬 - 㑢/𠊬 not found in https://zh.wikisource.org/wiki/通用規范漢字表 -->
