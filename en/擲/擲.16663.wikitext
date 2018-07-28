@@ -46,10 +46,35 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手15}}
 
-# {{defn|lang=ja|sort=手15}}
+# [[abandon]], [[throw away]]
+# [[hit]], [[strike]]
 
 ====Readings====
-* {{ja-readings|on=[[てき]] (teki), [[じゃく]] (jaku)|kun=[[なげうつ]] (nageutsu), [[なぐる]] (naguru)}}
+{{ja-readings
+|goon=じゃく<ぢやく
+|kanon=てき
+|kun=なぐ-る, なげう-つ
+|nanori=たたき
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|擲弾|てきだん}}
+* {{ja-r|一擲|いってき}}
+* {{ja-r|打擲|ちょうちゃく}}
+* {{ja-r|投擲|とうてき}}
+* {{ja-r|放擲|ほうてき|rom=-}}, {{ja-r|抛擲|ほうてき}}
+* {{ja-r|擲石|いしなご}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|たたき|yomi=k}}
+From {{m|ja|叩き|tr=tataki||[[hit]]ting, [[strike|striking]]}}.
+
+===Proper noun===
+{{ja-pos|proper|たたき}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=たたき}}
 
 ----
 
