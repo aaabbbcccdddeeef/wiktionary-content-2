@@ -110,52 +110,99 @@ The graphic representation using monkey or elephant probably stems a homophonic 
 ===Kanji===
 {{ja-kanji|grade=c|rs=火05|kyu=爲}}
 
-# {{defn|lang=ja|sort=火05}}
+# [[do]], [[perform]], [[carry out]]
 
 ====Readings====
 {{ja-readings
 |goon=い<ゐ
 |kanon=い<ゐ
-|kun=ため-, な-る, な-す, す-る, たり, つく-る, なり
-|nanori=びい
+|kun=す-る, ため-, たり-, つく-る, な-す, なり-, な-る
+|nanori=さだ, しげ, す, すけ, た, ち, なり, び.い, ゆき, よし, より
 }}
 
-===Noun===
-{{ja-noun|ため}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|為政|いせい}}
+* {{ja-r|有為|うい}}
+* {{ja-r|営為|えい.い}}
+* {{ja-r|行為|こうい}}
+* {{ja-r|作為|さくい}}
+* {{ja-r|所為|しょい}}
+* {{ja-r|人為|じんい}}
+* {{ja-r|所為|そい}}
+* {{ja-r|天為|てんい}}
+* {{ja-r|無為|ぶい}}
+* {{ja-r|無為|むい}}
+* {{ja-r|有為|ゆうい}}
+* {{ja-r|以為らく|おもえらく}}
+* {{ja-r|為替|かわせ}}
+* {{ja-r|所為|せい}}
+* {{ja-r|為体|ていたらく}}
+* {{ja-r|為人|ひととなり}}
+{{der-bottom}}
 
-# [[benefit]]
-# [[sake]]; [[reason]]
-#: {{ja-usex|君の'''ため'''に|きみ の '''ため''' に|for you; because of you; for your sake}}
-#: {{ja-usex|「ピアノの'''ため'''に」|「ピアノ の '''ため''' に」|"for the piano" {{q|i.e. in European classical music}}}} <!--is this a calque? it seems weird-->
+===Etymology 1===
+{{ja-kanjitab|ため|yomi=k}}
+{{IPAfont|⟨tame<sub>2</sub>⟩}} → *{{IPAfont|/taməj/}} → {{IPAfont|/tame/}}
 
-====See also====
+From {{inh|ja|ojp|sort=ため|-}}, attested alongside with ''ta'' (see below).
+
+====Pronunciation====
+{{ja-pron|y=k|ため|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=爲|ため}}
+
+# [[advantage]], [[benefit]]
+# ''after a particle'' {{ja-r|が}} ''or'' {{ja-r|の}}:
+## [[cause]], [[reason]]
+##: {{syn|ja|故|tr=yue}}
+## [[objective]], [[sake]]
+##: {{ja-usex|君の'''ため'''に|きみ の '''ため''' に|for you; because of you; for your '''sake'''}}
+##: {{ja-usex|「ピアノの'''ため'''に」|「ピアノ の '''ため''' に」|"for the piano" {{q|i.e. in European classical music}}}}
+# [[affecting]], [[concerning]], [[regarding]]
+
+=====Derived terms=====
+* {{ja-r|為銀|ためぎん}}
+* {{ja-r|外為|がいため}}
+
+=====See also=====
 * {{ja-r|訳|わけ}}
 
-===Verb===
-{{ja-verb|す|type=3}}
+====Proper noun====
+{{ja-pos|proper|kyu=爲|ため}}
 
-# to [[do]]
+# {{surname|lang=ja|A=a|nodot=1|sort=ため}}
 
-====Derived terms====
-* {{ja-r|為る|する}}
+===Etymology 2===
+{{ja-kanjitab|た|yomi=k}}
+From {{inh|ja|ojp|-}}.
 
-====Compounds====
-{{der-top}}
-{{top2}}
-* [[為政]] (''isei''): governing, administering
-* [[為政家]] (''iseika''): politician
-* [[為政者]] (''iseisha''): statesman
-* [[行為]] (''kōi''): act, deed
-* [[無為]] (''mui''): inactivity
-{{mid2}}
-* [[作為]] (''sakui''): artificiality, commission
-* [[為銀]] (''tamegin''): exchange bank
-* [[外為]] (''gaitame''): foreign exchange
-* [[為替]] (''kawase''): money order
-* [[為る]] (''naru''): become
-* [[為る]] (''suru''): do
-{{bottom}}
-{{der-bottom}}
+Takes the particle {{ja-l|に||ni}} or {{ja-l|の||no}}.
+
+====Noun====
+{{ja-noun|kyu=爲|た}}
+
+# ''Same as'' {{ja-l||ため|tame}} ''above''
+
+===Etymology 3===
+{{ja-kanjitab|す|yomi=k}}
+From {{inh|ja|ojp|sort=す|-}}.
+
+Used as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨su⟩}}.
+
+====Verb====
+{{ja-verb|kyu=爲|す|type=3}}
+
+# {{lb|ja|archaic|sort=す}} to [[do]]
+# {{lb|ja|archaic|sort=す}} to [[cause]], [[become]]
+
+=====Derived terms=====
+* {{ja-r|する|suru}}
+* {{ja-r|為為|すす}}
+
+===References===
+<references/>
 
 ----
 
