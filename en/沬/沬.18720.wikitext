@@ -10,34 +10,61 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
-{{zh-pron
-|m=mèi,huì
+<!--
+
 |c=mui6
 |md=mê
 |mn=bī
-|mc=y
-|oc=y
-|cat=n,pn,v
-}}
-{{zh-attn-split}}
 
-===Definitions===
-{{zh-hanzi}}
-
-# {{zh-obsolete}} {{zh-used in|沬邑||沬鄉}}
-# {{zh-obsolete}} the [[light]] of [[twilight]]
-# {{zh-obsolete}} to [[wash]] the [[face]]
 # {{lb|zh|Min Nan|Min Dong}} to [[sink]]
 # {{lb|zh|Min Nan|Min Dong}} to [[lose]] oneself in, to become [[engrossed]] in, to become [[addicted]] to
 # {{lb|zh|Min Dong}} to [[bow]] one's head
 
-====Compounds====
+-->{{attention|zh}}
+
+===Pronunciation 1===
+{{zh-forms|alt=頮,湏,靧}}
+{{zh-pron
+|m=huì
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|classical}} to [[wash]] the [[face]]
+
+===Pronunciation 2===
+{{zh-forms}}
+{{zh-pron
+|m=Mèi
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 3===
+{{zh-forms}}
+{{zh-pron
+|m=mèi
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} the [[light]] of [[twilight]]
+
+===Compounds===
 {{zh-der|沬血|洿沬|沬水|沬頭溜}}
 
 ===References===
