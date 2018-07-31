@@ -69,40 +69,59 @@
 ===Kanji===
 {{ja-kanji|grade=5|rs=巾08}}
 
+# [[eternal]], [[unchanging]]
+# [[ordinary]], [[usual]]
+# [[continuation]]
+# {{w|Hitachi Province}}
+
 ====Readings====
 {{ja-readings
 |goon=じょう<じやう
 |kanon=しょう<しやう
 |kun=きだ-, つね-, とこ-, とことわ-, とわ-
-|nanori=のぶ, ひ, ひた, とき
+|nanori=つら, とき, ときわ<ときは, のぶ, ひ, ひさ, ひさし, ひた
 }}
 
 =====Compounds=====
 {{der-top|Compounds}}
-* [[常温]]
-* [[常時]]
-* [[常識]]
-* [[常習]]
-* [[常人]]
-* [[常体]]
-* [[常態]]
-* [[常任]]
-* [[常務]]
-* [[常務取締役]]
-* [[常夏]]
-* [[異常]]
-* [[尋常]]
-* [[通常]]
+* {{ja-r|常温|じょうおん}}
+* {{ja-r|常時|じょうじ}}
+* {{ja-r|常識|じょうしき}}
+* {{ja-r|常州|^じょうしゅう}}
+* {{ja-r|常習|じょうしゅう}}
+* {{ja-r|常人|じょうじん}}, {{ja-r|常人|じょうにん}}
+* {{ja-r|常体|じょうたい}}
+* {{ja-r|常態|じょうたい}}
+* {{ja-r|常任|じょうにん}}
+* {{ja-r|常磐|^じょうばん}}
+* {{ja-r|常備|じょうび}}
+* {{ja-r|常務|じょうむ}}
+* {{ja-r|常夜|じょうや}}
+* {{ja-r|常用|じょうよう}}
+* {{ja-r|常緑|じょうりょく}}
+* {{ja-r|異常|いじょう}}
+* {{ja-r|経常|けいじょう}}
+* {{ja-r|恒常|こうじょう}}
+* {{ja-r|綱常|こうじょう}}
+* {{ja-r|五常|ごじょう}}
+* {{ja-r|尋常|じんじょう}}
+* {{ja-r|正常|せいじょう}}
+* {{ja-r|通常|つうじょう}}
+* {{ja-r|日常|にちじょう}}
+* {{ja-r|非常|ひじょう}}
+* {{ja-r|平常|へいじょう}}
+* {{ja-r|無常|むじょう}}
+* {{ja-r|常陸|^ひたち}}
 {{der-bottom}}
 
 ===Etymology 1===
 <div style="float:right;">
-{{wikipedia|lang=ja}}
+{{wp|lang=ja}}
 </div>
 {{ja-kanjitab|yomi=o|じょう}}
 {{IPAchar|/d͡ʑau/}} → {{IPAchar|/d͡ʑɔː/}} → {{IPAchar|/d͡ʑoː/}}
 
-From {{etyl|ltc|ja|sort=しょう'}} {{m|zh|常|tr=dzyang||constant}}.
+From {{bor|ja|ltc|sort=しょう'|-}} {{ltc-l|常}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|じょう|acc=1}}
@@ -119,6 +138,10 @@ From {{etyl|ltc|ja|sort=しょう'}} {{m|zh|常|tr=dzyang||constant}}.
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|きだ}}
+{{IPAfont|*⟨ki<sub>1</sub>da⟩}} → *{{IPAchar|/kʲida/}} → {{IPAchar|/kida/}}
+
+First attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+
 Cognate with root ''kiza'' in {{m|ja|刻む|tr=kizamu||to mince; to slice; to cut a thing into pieces; to groove, to nick, to notch}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 Also sometimes read as ''kita''.
@@ -132,8 +155,9 @@ Also sometimes read as ''kita''.
 ====Noun====
 {{ja-noun|きだ|きた}}
 
-# {{lb|ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the length of cut cloth}}
-# {{lb|ja|sort=きだ|obsolete}} {{n-g|a traditional Japanese unit of measure for the area of an agricultural field or paddy}}
+# {{lb|ja|sort=きだ|obsolete}} ''a traditional Japanese unit of measure for the length of cut cloth'', equal to one {{m|ja|丈|tr=jō|pos=roughly three [[meter]]s}} and three {{m|ja|尺|tr=shaku|pos=roughly one [[foot]] or thirty [[centimeter]]s}}
+# {{lb|ja|sort=きだ|obsolete}} ''a traditional Japanese unit of measure for the area of an agricultural field or paddy'', equal to either 360 {{m|ja|歩|tr=bu|pos=around 1190 [[square meter]]s}}, later reduced to 300 {{m|ja|歩|tr=bu}}/{{m|ja|坪|tr=tsubo|pos=almost 992 square meters}}
+#: {{syn|ja|段|tr=tan}}
 
 ====Counter====
 {{ja-pos|counter|きだ}}
@@ -142,7 +166,9 @@ Also sometimes read as ''kita''.
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|つね}}
-From {{etyl|ojp|ja|sort=つね}}. Appears in the ''{{w|Man'yōshū}}'', compiled around 759 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> May be [[cognate]] with {{m|ja|綱|tr=tsuna||thick rope; binding}}, with underlying ideas of {{m|en|connection}}, {{m|en|continuance}}.
+{{IPAchar|/tune/}} → {{IPAchar|/t͡sune/}}
+
+From {{inh|ja|ojp|sort=つね|-}}. Appears in the ''{{w|Man'yōshū}}'', compiled around 759 {{CE}}.<ref name="KDJ"/> May be [[cognate]] with {{m|ja|綱|tr=tsuna||[[thick]] [[rope]]; [[bind]]ing}}, with underlying ideas of "[[connection]], [[continuance]]".
 
 ====Pronunciation====
 {{ja-pron|yomi=k|つね|acc=1|acc_ref=DJR,NHK}}
@@ -155,6 +181,7 @@ From {{etyl|ojp|ja|sort=つね}}. Appears in the ''{{w|Man'yōshū}}'', compiled
 
 # {{lb|ja|sort=つね|obsolete}} [[eternal]], [[permanent]], [[consistent]]
 # {{lb|ja|sort=つね|obsolete}} [[normal]], [[everyday]], [[regular]], [[usual]], [[ordinary]]
+#: {{syn|ja|普段|tr=fudan|普通|tr2=futsū|平素|tr3=heiso}}
 
 =====Usage notes=====
 This appears as an adjective in older texts with the classical [[attributive]] form ''tsune naru''. When used attributively in modern Japanese, this term is used with the particle {{m|ja|の|tr=no}} instead:
@@ -163,11 +190,9 @@ Modern Japanese does still use this term as an [[adverb]], with particle {{m|ja|
 * {{ja-usex|このカメラは'''常に'''オンになっている。|^この カメラ は '''つね に''' オン に なって いる。|This camera is '''always''' on.}}
 * {{ja-usex|あの会社はサービスが'''常に'''悪い。|^あの かいしゃ は サービス が '''つね に''' わるい。|That company has '''consistently''' bad service.}}
 
-=====Synonyms=====
-{{sense|normal, usual}}
-* {{ja-r|普段|ふだん}}
-* {{ja-r|普通|ふつう}}
-* {{ja-r|平素|へいそ}}
+====Derived terms====
+* {{ja-r|常体|つねたい}}
+* {{ja-r|経常|けいつね}}
 
 ====Noun====
 {{ja-noun|つね}}
@@ -177,7 +202,9 @@ Modern Japanese does still use this term as an [[adverb]], with particle {{m|ja|
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=k|とこ}}
-From {{etyl|ojp|ja|sort=とこ}}. Possibly [[cognate]] with {{m|ja|時|tr=toki||time}}.
+{{IPAfont|⟨to<sub>2</sub>ko<sub>2</sub>⟩}} → *{{IPAchar|/təkə/}} → {{IPAchar|/toko/}}
+
+From {{inh|ja|ojp|sort=とこ|-}}. Possibly [[cognate]] with {{m|ja|時|tr=toki||time}}.
 
 The way the term is used in the historical record suggests that this was originally a noun. By the time of written Japanese, however, this term only appears in compounds, never on its own, and its usage is more as an adjective to modify other nouns.
 
@@ -191,32 +218,34 @@ The way the term is used in the historical record suggests that this was origina
 
 =====Usage notes=====
 Only used in compounds. Attaches to [[noun]]s and other [[nominal]]s, often (but not always) with the now-obsolete possessive particle {{m|ja|つ|tr=tsu}}.
-* {{ja-usex|'''常'''つ御門、'''常'''夏、'''常'''とわ|'''とこ''' つ みかど、 '''とこ'''なつ、 '''とこ'''とわ|the '''eternal''' palace, '''eternal''' summer, '''eternal''' permanence [→ eternity]}}
+* {{ja-usex|'''常'''つ[[御門]]、[[常夏|'''常'''夏]]、'''常'''とわ|'''とこ''' つ みかど、 '''とこ'''なつ、 '''とこ'''とわ|the '''eternal''' palace, '''eternal''' summer, '''eternal''' permanence [→ eternity]}}
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|常春|とこはる}}
-* {{ja-r|常夏|とこなつ}}
-* {{ja-r|常秋|とこあき}}
-* {{ja-r|常冬|とこふゆ}}
-* {{ja-r|常乙女|とこ おとめ}}
 * {{ja-r|常し|とこし}}
 * {{ja-r|常しえ|とこしえ}}
+* {{ja-r|常秋|とこあき}}
+* {{ja-r|常 乙%女|とこ おと%め}}
 * {{ja-r|常つ国|とこ つ くに}}
+* {{ja-r|常夏|とこなつ}}
+* {{ja-r|常春|とこはる}}
+* {{ja-r|常冬|とこふゆ}}
 * {{ja-r|常闇|とこやみ}}
-* {{ja-r|常世|とこよ}}
-* {{ja-r|常葉|とこわ}}
+* {{ja-r|常%世|とこ%よ}}
+* {{ja-r|常%夜|とこ%よ}}
+* {{ja-r|常磐|ときわ|rom=-}}, {{ja-r|常盤|ときわ}}
+* {{ja-r|常%葉|とこ%わ}}, {{ja-r|常葉|ときわ}}
 {{der-bottom}}
 
 ===Etymology 5===
 {{ja-kanjitab|yomi=k|とことわ}}
 {{IPAchar|/tokotoba/}} → {{IPAchar|/tokotowa/}}
 
-From {{etyl|ojp|ja|sort=とことわ}}. Read as ''tokotoba'' until the {{w|Heian period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+From {{inh|ja|ojp|-}}. Read as ''tokotoba'' until the {{w|Heian period}}.<ref name="KDJ"/><ref name="DJR"/>
 
 Appears to be originally a compound of {{compound|lang=ja|常|tr1=toko|t1=eternal|pos1=see above|とわ|tr2=towa|t2=permanence, unchangingness|pos2=from earlier {{m|ja|とば}} ''toba''}}.
 
-This latter element is of unclear derivation. Some sources<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> indicate that ''towa'' as an independent term arose as a contraction of earlier ''tokotoba'', suggesting the possibility that ''toba'' was initially a compound of particles {{m|ja|と|tr=to|pos=adverbial particle}} + {{m|ja|は|tr=wa|pos=formerly ''ba'', even earlier ''pa''; topic particle}}. However, other sources<ref name="SMK5">{{R:Shinmeikai5}}</ref> describe ''tokotowa'' as an [[intensified]] or [[emphatic]] form of ''towa''.
+This latter element is of unclear derivation. Some sources<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> indicate that ''towa'' as an independent term arose as a contraction of earlier ''tokotoba'', suggesting the possibility that ''toba'' was initially a compound of particles {{m|ja|と|tr=to|pos=adverbial particle}} + {{m|ja|は|tr=wa|pos=formerly ''ba'', even earlier ''pa''; topic particle}}. However, other sources<ref name="SMK5"/> describe ''tokotowa'' as an [[intensified]] or [[emphatic]] form of ''towa''.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|とことわ|acc=0|acc_ref=SMK5|acc2=3|acc2_ref=SMK5}}
@@ -228,30 +257,26 @@ This latter element is of unclear derivation. Some sources<ref name="KDJ">{{R:Ko
 {{ja-adj|infl=na|とことわ|hhira=とことは}}
 
 # {{lb|ja|sort=とことわ|archaic|rare}} [[permanent]], [[eternal]]
+#: {{syn|ja|常しえ|tr=tokoshie}}
 # {{lb|ja|sort=とことわ|archaic|rare}} [[usual]], [[ordinary]]
+#: {{syn|ja|常|tr=tsune}}
 
 =====Usage notes=====
-Listed in dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> as a {{m|ja|形容動詞|tr=keiyō dōshi||''-na'' adjective}}. However, actual usage suggests that this was only used with particle {{m|ja|に|tr=ni}} as an [[adverb]], and never with particle {{m|ja|な|tr=na}} or classical {{m|ja|なる|tr=naru}} as an [[adjective]]. When this appears [[attributively]], it is followed by particle {{m|ja|の|tr=no}},<ref name="SMK5">{{R:Shinmeikai5}}</ref> the usual construction when using a noun to modify another noun.
-
-=====Synonyms=====
-* {{sense|permanent, eternal}} {{ja-r|常しえ|とこしえ}}
-* {{sense|usual, ordinary}} {{lang|ja|常}} ''tsune'' {{qualifier|see above}}
+Listed in dictionaries<ref name="KDJ"/><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref> as a {{m|ja|形容動詞|tr=keiyō dōshi||''-na'' adjective}}. However, actual usage suggests that this was only used with particle {{m|ja|に|tr=ni}} as an [[adverb]], and never with particle {{m|ja|な|tr=na}} or classical {{m|ja|なる|tr=naru}} as an [[adjective]]. When this appears [[attributively]], it is followed by particle {{m|ja|の|tr=no}},<ref name="SMK5"/> the usual construction when using a noun to modify another noun.
 
 ====Noun====
 {{ja-noun|とことわ|hhira=とことは}}
 
 # {{lb|ja|sort=とことわ|archaic|rare}} [[permanence]], [[eternity]]
-
-=====Synonyms=====
-* {{ja-r|常しえ|とこしえ}}
+#: {{syn|ja|常しえ|tr=tokoshie}}
 
 ===Etymology 6===
 {{ja-kanjitab|yomi=k|とわ}}
 {{IPAchar|/toba/}} → {{IPAchar|/towa/}}
 
-From {{etyl|ojp|ja|sort=とわ}}. Appears in the ''{{w|Tales of Ise}}'', likely dating to the early 900s CE. Pronounced as ''toba'' until the later {{w|Heian period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+From {{inh|ja|ojp|-}}. Appears in the ''{{w|Tales of Ise}}'', likely dating to the early 900s CE. Pronounced as ''toba'' until the later {{w|Heian period}}.<ref name="KDJ"/>
 
-Ultimate derivation {{unk|lang=ja|sort=とわ|nocap=1}}. May be a contraction of earlier ''tokotoba'' (see above),<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> or may have been an independent term used to form ''tokotoba'' as a compound.<ref name="SMK5">{{R:Shinmeikai5}}</ref>
+Ultimate derivation {{unk|lang=ja|sort=とわ|nocap=1}}. May be a contraction of earlier ''tokotoba'' (see above),<ref name="KDJ"/> or may have been an independent term used to form ''tokotoba'' as a compound.<ref name="SMK5"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|とわ|acc=1|acc_ref=DJR,NHK,SMK5}}
@@ -263,20 +288,16 @@ Ultimate derivation {{unk|lang=ja|sort=とわ|nocap=1}}. May be a contraction of
 {{ja-adj|infl=na|とわ|hhira=とは}}
 
 # [[constant]], [[permanent]], [[everlasting]]
+#: {{syn|ja|常しえ|tr=tokoshie}}
 
 =====Usage notes=====
-Listed in some dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> as a {{m|ja|形容動詞|tr=keiyō dōshi||''-na'' adjective}}; other sources<ref name="SMK5">{{R:Shinmeikai5}}</ref> only list this as a {{m|ja|副詞|tr=fukushi||adverb}}. Historical usage suggests that this was only used with particle {{m|ja|に|tr=ni}} as an [[adverb]], and not with particle {{m|ja|な|tr=na}} or classical {{m|ja|なる|tr=naru}} as an [[adjective]]. When this appears [[attributively]], it is followed by particle {{m|ja|の|tr=no}},<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref> the usual construction when using a noun to modify another noun.
-
-=====Synonyms=====
-* {{ja-r|常しえ|とこしえ}}
+Listed in some dictionaries<ref name="KDJ"/><ref name="DJR"/><ref name="DJS"/> as a {{m|ja|形容動詞|tr=keiyō dōshi||''-na'' adjective}}; other sources<ref name="SMK5"/> only list this as a {{m|ja|副詞|tr=fukushi||adverb}}. Historical usage suggests that this was only used with particle {{m|ja|に|tr=ni}} as an [[adverb]], and not with particle {{m|ja|な|tr=na}} or classical {{m|ja|なる|tr=naru}} as an [[adjective]]. When this appears [[attributively]], it is followed by particle {{m|ja|の|tr=no}},<ref name="DJR"/><ref name="DJS"/><ref name="SMK5"/> the usual construction when using a noun to modify another noun.
 
 ====Noun====
 {{ja-noun|とわ|hhira=とは}}
 
 # [[constancy]], [[permanence]], [[everlastingness]]
-
-=====Synonyms=====
-* {{ja-r|常しえ|とこしえ}}
+#: {{syn|ja|常しえ|tr=tokoshie}}
 
 ===References===
 <references/>
