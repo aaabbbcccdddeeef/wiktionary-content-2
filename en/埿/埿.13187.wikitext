@@ -28,7 +28,46 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=土08}}
 
-# {{defn|lang=ja|sort=土08}}
+# [[mud]]
 
 ====Readings====
-* {{ja-readings|on=[[でい]] (dei), [[ない]] (nai), [[はん]] (han), [[ばん]] (ban)|kun=[[ぬる]] (nuru), [[こて]] (kote), [[ぬからみ]] (nukarami)}}
+{{rfv-pronunciation|ja}}
+
+As a variant/ancient form of {{ja-l|泥}}:
+{{ja-readings
+|goon=ない
+|kanon=でい
+}}
+
+As a variant form of {{ja-l|湴}}:
+{{ja-readings
+|goon=ばん<ばん<ばむ
+|kanon=はん<はん<はむ
+}}
+
+Readings shared by both forms:
+{{ja-readings
+|kun=うき-, ひじ-<ひぢ-<!--, こて-, ぬ-からみ, ぬ-る-->
+}}
+
+====Usage notes====
+Used in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨de⟩}} in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).
+
+===Etymology 1===
+{{ja-kanjitab|ひじ|yomi=k}}
+
+====Noun====
+{{ja-noun|ひじ|hhira=ひぢ}}
+
+# {{altspell|lang=ja|泥|tr=hiji}}: [[mud]]
+
+=====Derived terms=====
+* {{ja-r|埿土|ういじ}}
+
+===Etymology 2===
+{{ja-kanjitab|うき|yomi=k}}
+
+====Noun====
+{{ja-noun|うき}}
+
+# {{altspell|lang=ja|泥|tr=uki}}: a [[marshland]], [[swamp]]
