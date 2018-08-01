@@ -4,8 +4,11 @@
 ===Han character===
 {{Han char|rn=93|rad=牛|as=02|sn=6|four=23500|canj=IHQ|ids=⿱厶牛}}
 
+====Derived characters====
+* {{l|mul|[[侔]], [[哞]], [[㛌]], [[恈]], [[洠]], [[䏬]], [[桙]], [[毪]], [[眸]], [[蛑]], [[鉾]]([[𫓴]]), [[𩶢]], [[麰]]([[𮮇]]), [[劺]], [[𬼪]], [[𭷢]], [[𭷪]], [[𭷬]], [[𭷲]], [[鴾]], [[𡧷]], [[𦭷]], [[𥭏]], [[𨴍]]}}
+
 ====Descendants====
-* [[ム]]
+* {{l|ja|ム}} ''({{w|Katakana}} character derived from {{w|Man'yōgana}})''
 
 ====References====
 {{Han ref|kx=0697.060|dkj=19928|dj=1109.040|hdz=31800.070|uh=725F}}
@@ -15,12 +18,11 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𠫚,⿱厶干,⿱屾⿰巾巾}} <!-- Refer http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A02487 -->
 
 ===Glyph origin===
 {{Han etym}}
-
-{{liushu|i}}: An ox ({{zh-l|*牛}}) with a symbol (now {{zh-l|*厶}}) representing its lowing.
+{{liushu|i}}: An ox ({{zh-l|*牛}}) with a symbol (now {{zh-l|*厶}}) to represent its [[low#Verb_3|low]]ing.
 
 ===Etymology===
 ; “moo”
@@ -90,12 +92,13 @@
 {{zh-hanzi}}
 
 # {{zh-used2|p}}
-# {{surname|lang=zh}}
 
 ====Compounds====
 {{zh-der|牟平|中牟}}
 
 ===References===
+* {{R:twedu|A02487}}
+* {{R:yue:Hanzi}}
 * {{q|Min Nan}} {{thcwd|41051}}
 
 ----
@@ -106,7 +109,7 @@
 {{ja-kanji|grade=|rs=牛02}}
 
 # [[pupil]] {{gl|[[hole]] in [[middle]] of an [[iris]]}}
-# [[moo]] {{gl|[[low]]ing [[sound]] of a [[cow]]}}
+# [[moo]] {{gl|[[low#Verb_3|low]]ing [[sound]] of a [[cow]]}}
 
 ====Readings====
 {{ja-readings
@@ -116,18 +119,21 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|牟牟|ぼうぼう}}
-* {{ja-r|牟尼|むに}}
-* {{ja-r|牟礼|^むれ}}
-* {{ja-r|牟婁|^むろ}}
-* {{ja-r|大%穴%牟%遅%神|^おお%あな%む%ち の% ^かみ}}
-* {{ja-r|大%牟田|^おお%むた}}
-* {{ja-r|莫%牟|まく%も}}
-{{der-bottom}}
+{{der2|lang=ja
+|{{ja-r|牟牟|ぼうぼう}}
+|{{ja-r|牟尼|むに}}
+|{{ja-r|牟礼|^むれ}}
+|{{ja-r|牟婁|^むろ}}
+|{{ja-r|大%穴%牟%遅%神|^おお%あな%む%ち の% ^かみ}}
+|{{ja-r|大%牟田|^おお%むた}}
+|{{ja-r|莫%牟|まく%も}}
+}}
 
 ====Usage notes====
 * Used in {{w|Old Japanese}} as a {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨mu⟩}}.
+
+===References===
+* {{R:Koseki Moji|224330}}
 
 ----
 
@@ -143,9 +149,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=牛02| hanviet = [[màu]], [[mâu]], [[mầu]], [[mào]], [[mưu]], [[rậm]]}}
+{{vi-hantu|rs=牛02|[[màu]], [[mâu]], [[mầu]], [[mào]], [[mưu]]}}
 
 # {{defn|lang=vi|sort=牛02}}
 
 ====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=725f Nom Foundation]
+* [http://nomfoundation.org/common/nom_details.php?codepoint=725F Nom Foundation]
