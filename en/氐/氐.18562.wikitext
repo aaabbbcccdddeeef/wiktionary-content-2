@@ -79,13 +79,56 @@ As a component of complex characters, may have sense of “down, low” from the
 ===Kanji===
 {{ja-kanji|grade=|rs=氏01}}
 
-# name of an ancient tribe
+# {{w|Di (Five Barbarians)|Di}} {{gl|[[ancient]] [[ethnic group]] in [[west]]ern China}}
 
 ====Readings====
-* {{ja-readings
-|goon=[[ぢ]] (di), [[だい]] (dai)
-|kanon=[[てい]] (tei), [[たい]] (tai), [[し]] (shi), [[ち]] (chi)
-|kun=[[ふもと]] (fumoto)}}
+{{rfv-pronunciation|ja}}
+
+From {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1|Di; {{w|Root (Chinese constellation)|Root}} [[mansion]]}}:
+{{ja-readings
+|goon=だい
+|kanon=たい, てい
+}}
+
+From {{bor|ja|ltc|-}} {{ltc-l|氐|tr=*ʈiɪ|[[basis]], [[fundamental]]}}:
+{{ja-readings
+|goon=じ<ぢ
+|kanon=ち
+|kun=ふもと-
+}}
+
+====Compounds====
+* {{ja-r|氐宿|^ともぼし}}
+
+===Etymology===
+<div style="float:right;">
+{{wp|lang=ja|テイ宿}}
+{{wp|Root (Chinese constellation)}}
+{{wp|lang=ja|テイ (民族)}}
+{{wp|Di (Five Barbarians)}}
+</div>
+{{ja-kanjitab|てい|yomi=o}}
+
+From {{bor|ja|ltc|sort=てい|-}} {{ltc-l|氐|id=1}}, compare modern {{cog|cmn|氐|tr=dī}}.
+
+Used in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨te⟩}}.
+
+===Pronunciation===
+{{ja-pron|y=ko|てい|acc=1|acc_ref=DJR}}
+
+===Proper noun===
+{{ja-pos|proper|てい}}
+
+# {{lb|ja|Chinese astronomy}} Root, one of the {{w|Twenty-Eight Mansions}}
+#: {{syn|ja|氐宿|tr=Teishū, Tei-shuku|とも星|tr2=Tomoboshi}}
+# {{lb|ja|historical}} Di: an [[ancient]] [[ethnic group]] in [[west]]ern China
+#: {{hyper|ja|五胡|tr=Goko}}
+
+====See also====
+* {{ja-r|てんびん座|^てんびん-ざ|[[Libra]]}}
+
+===References===
+<references/>
 
 ----
 
