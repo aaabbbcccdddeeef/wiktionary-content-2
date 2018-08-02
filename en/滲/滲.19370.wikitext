@@ -22,12 +22,19 @@
 ===Pronunciation===
 {{zh-pron
 |m=shèn
+|m-s=
 |c=sam3
+|c-t=
+|g=
 |h=pfs=
+|j=
+|mb=
 |md=
 |mn=siàm/sìm
 |mn_note=siàm - vernacular; sìm - literary
+|mn-t=
 |w=
+|x=
 |mc=y
 |oc=y
 |cat=v
@@ -36,7 +43,10 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|滲透}}
 
 ----
 
@@ -49,7 +59,8 @@
 
 ====Readings====
 {{ja-readings
-|on=しん
+|goon=しん<しむ
+|kanon=しん<しむ
 |kun=にじ-む, し-みる
 }}
 
@@ -58,7 +69,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+{{ko-hanja|hangeul=참|eumhun=}}
 
 # {{defn|lang=ko|sort=水11}}
 
@@ -67,6 +78,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = rướm}}
+{{vi-hantu|rs=水11|rướm}}
 
 # {{defn|lang=vi|sort=水11}}
