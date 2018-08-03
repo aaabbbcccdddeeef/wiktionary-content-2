@@ -47,10 +47,28 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水06}}
 
-# {{defn|lang=ja|sort=水06}}
+# [[until]], [[till]], [['til]]
+# [[soup]]
+# [[soak]]
 
 ====Readings====
-* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[そそぐ]] (sosogu)}}
+{{rfv-pronunciation|ja}}
+{{ja-readings
+|on=き, ぎ
+|kun=そそ-ぐ
+}}
+
+====Compounds====
+* {{ja-r|洎夫%藍|サフ%ラン}}: {{vern|saffron crocus}} (''[[Crocus sativus]]'')
+
+====Usage notes====
+Used in the ''{{w|Nihon Shoki}}'' as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨si⟩}}, most likely from the ''{{ll|ja|漢音|kan'on}}'' reading of {{ja-l|自}}.
+* '''720''', ''Nihon Shoki'' (poem 99/96)
+*: {{ja-usex
+|m=[...]　麼左棄逗囉 多多企阿藏播梨 矢'''洎'''矩矢慮 于魔伊禰矢度儞 儞播都等唎 柯稽播儺倶儺梨　[...]
+|m_kana=[...]　まさきづら たたきあざはり し'''し'''くしろ うまいねしとに にはつとり かけはなくなり　[...]
+|[...]　真栄%葛 たたき 糾はり 肉串ろ 熟睡 寝し 間 に [[庭つ鳥]] 鶏 は 鳴く なり　[...]
+|[...]　まさ%きづら たたき あざはり ししくしろ うまい ねし と に にはつとり かけ は なく なり　[...]|rom=...masakizura tataki azawari shi'''shi'''kushiro umai neshi to ni niwa tsu tori kake wa naku nari...}}
 
 ----
 
