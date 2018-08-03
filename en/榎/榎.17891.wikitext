@@ -59,10 +59,20 @@
 * {{ja-r|椋榎|むくえのき}}
 {{der-bottom}}
 
-{{wikipedia|lang=ja}}
-
 ===Etymology 1===
-{{ja-kanjitab|え|yomi=k}}
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Celtis sinensis}}
+[[File:Celtis_sinensis%3DChinese_Hackberry.jpg|thumb|250px|{{m|ja|榎|tr=e, enoki}}: the '''[[Chinese hackberry]] [[tree]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|え}}
+
+From {{inh|ja|ojp|sort=え|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|16|3872}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3872 here]</ref>
+
+There are various theories regarding the ultimate derivation of this ''e''.  Some of these include:
+* From {{m|ja|枝||tr=e, eda|branch}}, from the many [[branch]]es
+* From {{m|ja|餌||tr=e, esa|food for animals}}, from the multitude of berries eaten by birds
+* From {{m|ja|柄||tr=e|handle}}, from the way the wood was used for [[tool]] [[handle]]s
 
 ====Pronunciation====
 {{ja-pron|yomi=k|え}}
@@ -70,10 +80,18 @@
 ====Noun====
 {{ja-noun|え}}
 
-# [[Chinese hackberry]]
+# {{taxlink|Celtis sinensis|species}}, the [[Chinese hackberry]] [[tree]]
+#: {{synonyms|ja|榎|tr=enoki|q=see below}}
+# {{lb|ja|sort=え|rare}} the [[Chinese hackberry]] [[fruit]]
+#: {{synonyms|ja|榎の実|tr=e no mi, enoki no mi}}
+
+=====Usage notes=====
+This reading is generally not used in isolation in modern Japanese.
 
 ===Etymology 2===
-{{ja-kanjitab|えのき|yomi=k}}
+{{ja-kanjitab|yomi=k|えのき}}
+
+Compound of {{compound|lang=ja|sort=えのき|榎|tr1=e|t1=[[Chinese hackberry]]|の|tr2=no|pos2=possessive particle|木|tr3=ki|t3=[[tree]]}}.  Compare the similar formation of various other tree names, such as {{m|ja|楠||tr=kusu|camphor; camphor tree}} and {{m|ja|楠||tr=kusunoki|camphor tree}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|えのき|acc=0|acc_ref=DJR,NHK}}
@@ -84,10 +102,16 @@
 ====Noun====
 {{ja-noun|えのき|エノキ}}
 
-# [[Chinese hackberry]]
+# {{taxlink|Celtis sinensis|species}}, the [[Chinese hackberry]] [[tree]]
+
+=====Usage notes=====
+{{U:ja:biology|エノキ}}
 
 ===References===
 <references/>
+
+===Further reading===
+[http://www.nihonjiten.com/data/46198.html Etymology at Nihonjiten] (in Japanese)
 
 [[Category:ja:Trees|えのき]]
 
