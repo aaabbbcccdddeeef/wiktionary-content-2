@@ -4,21 +4,22 @@
 ===Han character===
 {{Han char|rn=64|rad=手|as=12|sn=15|four=52014|canj=QHUU|ids=⿰扌毳}}
 
-# [[lift]], [[raise]]
-# [[pry]] [[open]]
-
 ====References====
-* {{Han ref|kx=0456.140|dkj=12746|dj=0805.100|hdz=31959.020|uh=64AC|ud=25772|bh=BCC0|bd=48320}}
+{{Han ref|kx=0456.140|dkj=12746|dj=0805.100|hdz=31959.020|uh=64AC}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{rfe|zh}}
+
 ===Pronunciation===
 {{zh-pron
-|m=qiào,qiāo,1nb=standard in Mainland and Taiwan,2nb=variant
+|m=撬
 |c=giu6,hiu3
+|c_note=giu6 - colloquial; hiu3 - variant
 |h=pfs=
 |md=
 |mn=kiāu/xm,zz:khiau
@@ -31,7 +32,15 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# to [[pry]] [[open]]
+# {{zh-alt-lb|翹}} to [[lift]]; to [[raise]]
+
+====Compounds====
+{{zh-der|撬槓|撬門|撬開}}
+
+===References===
+* {{R:twedu|A01675}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -43,16 +52,19 @@
 # {{defn|lang=ja|sort=手12}}
 
 ====Readings====
-* {{ja-readings|on=[[きょう]] (kyō)|kun=[[あげる]] (ageru)}}
+{{ja-readings
+|on=きょう
+|kun=あげる
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手12|hanviet=khiêu}}
+{{vi-hantu|rs=手12|[[khiêu]]}}
 
 # {{defn|lang=vi|sort=手12}}
 
 ====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=64ac Nom Foundation]
+* [http://nomfoundation.org/common/nom_details.php?codepoint=64AC Nom Foundation]
