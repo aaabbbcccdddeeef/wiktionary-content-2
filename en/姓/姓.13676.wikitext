@@ -70,24 +70,74 @@ Specialised form of {{zh-l|性}}: “human nature; what is inborn” > “surnam
 |kun=かばね-
 }}
 
-===Etymology===
-{{ja-kanjitab|かばね|yomi=k}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|かばね}}
 
-{{rfe|ja}}
+From {{inh|ja|ojp|sort=かばね|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Ultimate derivation unclear.  Some theories derive this as a Japanese compound of {{m|ja|株||tr=kabu|stock, root}} + {{m|ja|根||tr=ne|root, origin}} or {{m|ja|名||tr=na|name}}.  However, the required {{IPAchar|/u/}} → {{IPAchar|/a/}} sound shift would be unusual.
+
+Another thought is that this might be a borrowing from, or somehow otherwise related to, {{cog|ko|골품}}, a Sino-Korean term also spelled {{m|ko|骨品|lit=bones + goods}}, the name for a kind of kinship hierarchy that was prevalent in the {{w|Silla}} kingdom.  This latter theory and its related {{m|en|bone}} sense might also account for the [[homophony]] with {{m|ja|屍||tr=kabane|corpse, dead body}}.
 
 ===Pronunciation===
-{{ja-pron|かばね|acc=0|acc_ref=DJR|yomi=k}}
+{{ja-pron|yomi=k|かばね|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|かばね}}
 
-# {{rfdef|ja}}
+# [[clan]]
+#: {{synonyms|ja|氏|tr=uji}}
 
-====See also====
-* {{ja-r|氏|うじ}}
+===Etymology 2===
+{{ja-kanjitab|yomi=o|せい}}
+
+From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|姓}}.  The [[漢音#Japanese|kan'on]], so likely a later borrowing.  Compare modern {{cog|nan|-}} reading ''sèⁿ''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せい}}
+
+# [[surname]], [[family name]]
+# [[clan]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|しょう}}
+
+{{IPAchar|/siau/}} → {{IPAchar|/ɕjɔː/}} → {{IPAchar|/ɕoː/}}
+
+From {{bor|ja|ltc|sort=しょう|-}} {{ltc-l|姓}}.  The [[呉音#Japanese|goon]], so likely the initial borrowing.  Compare modern {{cog|hak|-}} reading ''siang''.
+
+This reading is less common than ''sei'' above.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しょう|hhira=しやう}}
+
+# {{lb|ja|sort=しょう|uncommon}} [[surname]], [[family name]]
+# {{lb|ja|sort=しょう|uncommon}} [[clan]]
+
+===Etymology 4===
+{{ja-kanjitab|yomi=irr|しょう|k1=そう}}
+
+A shift from ''shō'' above to use the {{m|ja|直音||tr=chokuon|"[[straight]]" [[pronunciation]]|pos=dropping out any {{IPAchar|/j/}} or {{IPAchar|/w/}} glides}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+This reading is not used in modern Japanese, and is only found in historical texts, such as the ''{{w|Utsubo Monogatari}}'' from the late 900s.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|そう}}
+
+# {{lb|ja|sort=そう|historical|obsolete}} [[surname]], [[family name]]
+# {{lb|ja|sort=そう|historical|obsolete}} [[clan]]
 
 ===References===
 <references />
+
+===Further reading===
+* [http://gogen-allguide.com/ka/kabane.html Etymology at Gogen-Allguide] (in Japanese)
 
 ----
 
