@@ -12,21 +12,59 @@
 
 ==Chinese==
 {{rfc|zh}}
-{{zh-forms|alt=喞}}
 
-===Pronunciation===
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|即|ls=psc|c1=s|c2=p|t1=mouth}}.
+
+===Etymology 1===
+{{zh-forms|t2=喞}}
+{{rfe|zh|onomatopoeic?}}
+
+====Pronunciation====
 {{zh-pron
-|m=jī
+|m=唧
 |m-s=
-|c=zik1,zek1
+|c=zik1,zit1
 |c-t=
 |g=
 |h=pfs=
 |j=
 |md=
-|mn=qz:chiak/xm:chek/qz,xm,zz:chit
-|mn_note=chiak/chek - literary; chit - vernacular
-|mn-t=
+|mn=ml:chit/xm:chek/qz:chiak
+|mn_note=Xiamen, Quanzhou: chit - vernacular; chek/chiak - literary
+|mn-t=ziag4/ziêg4
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[spurt]]; to [[squirt]]; to [[pump]]
+
+====Compounds====
+{{zh-der|唧筒}}
+
+===Etymology 2===
+{{zh-forms|t2=喞}}
+
+====Pronunciation====
+{{zh-pron
+|m=唧
+|m-s=
+|c=zik1,zek1
+|c-t=
+|g=
+|h=pfs=chi̍t
+|j=
+|md=
+|mn=ml:chit/xm:chek/qz:chiak
+|mn_note=Xiamen, Quanzhou: chit - vernacular; chek/chiak - literary
+|mn-t=ziag4/ziêg4
 |w=
 |x=
 |mc=y
@@ -34,14 +72,35 @@
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# to [[spurt]]; to [[squirt]]
-# {{lb|zh|Cantonese}} final [[particle]]
+# {{lb|zh|onomatopoeia}} {{rfdef|zh}}
 
 ====Compounds====
-{{zh-der|哼唧|唧唧|唧噥|唧筒}}
+{{zh-der|哼唧|唧唧|唧噥|不唧𠺕|唧嘖|哼哼唧唧|唧溜|唧唧呱呱|啾啾唧唧|唧唧喳喳|唧唧啾啾|唧唧嘟嘟|唧咕|吧唧|咕咕唧唧|啾唧|唧嗾|唧唧噥噥|咕唧|唧唧咕咕|消火唧筒|鬼鬼唧唧|蔫不唧}}
+
+===Etymology 3===
+{{zh-forms|t2=喞|alt=啫}}
+
+====Pronunciation====
+{{zh-pron
+|c=zek1
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|Sentence-final [[particle]]:}}
+## {{n-g|Used to persuade someone.}}
+##: {{zh-x|唔好 理 佢 唧。|Just ignore him.|C}}
+## {{n-g|Used to ask or question someone, often in an impatient tone.}}
+##: {{zh-x|你 想 去 邊度 玩 唧？|So where do you want to hang out?|C}}
+## {{n-g|Used in a tender tone to indicate endearment.}}
+##: {{zh-x|隻 啤啤熊 好 得意 㗎 唧！|The teddy bear is so cute!|C}}
+## {{n-g|Used to indicate gratefulness, usually used with {{zh-l|*好彩}}.}}
+##: {{zh-x|好彩 褲袋{doi6-2} 仲 有 廿 蚊 唧。|Fortunately, there's still twenty dollars in my pocket.|C}}
 
 ----
 
