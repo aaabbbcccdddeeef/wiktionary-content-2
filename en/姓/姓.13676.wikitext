@@ -61,6 +61,7 @@ Specialised form of {{zh-l|性}}: “human nature; what is inborn” > “surnam
 ===Kanji===
 {{ja-kanji|grade=c|rs=女05}}
 
+# [[clan]]
 # [[surname]]
 
 ====Readings====
@@ -70,14 +71,51 @@ Specialised form of {{zh-l|性}}: “human nature; what is inborn” > “surnam
 |kun=かばね-
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|姓氏|しょうじ}}
+* {{ja-r|姓氏|せいし}}
+* {{ja-r|姓階%制度|せいかい%せいど}}
+* {{ja-r|姓族|せいぞく}}
+* {{ja-r|姓名|せいめい}}
+* {{ja-r|五姓|ごしょう}}
+* {{ja-r|四姓|ししょう}}
+* {{ja-r|素姓|すじょう|rom=-}}, {{ja-r|種姓|すじょう}}
+* {{ja-r|俗姓|ぞくしょう}}
+* {{ja-r|百姓|ひゃくしょう}}
+* {{ja-r|異姓|いせい}}
+* {{ja-r|易姓|えきせい}}
+* {{ja-r|改姓|かいせい}}
+* {{ja-r|外姓|がいせい}}
+* {{ja-r|下姓|かせい}}
+* {{ja-r|旧姓|きゅうせい}}
+* {{ja-r|現姓|げんせい}}
+* {{ja-r|国姓|こくせい}}
+* {{ja-r|三姓|さんせい}}
+* {{ja-r|四種姓|ししゅせい}}
+* {{ja-r|四姓|しせい}}
+* {{ja-r|氏姓|しせい}}
+* {{ja-r|賜姓|しせい}}
+* {{ja-r|俗姓|ぞくせい}}
+* {{ja-r|他姓|たせい}}
+* {{ja-r|同姓|どうせい}}
+* {{ja-r|万姓|ばんせい}}
+* {{ja-r|百姓|ひゃくせい}}
+* {{ja-r|複姓|ふくせい}}
+* {{ja-r|別姓|べっせい}}
+* {{ja-r|本姓|ほんせい}}
+* {{ja-r|五姓田|^ごせだ}}
+* {{ja-r|百姓|おおみたから}}
+{{der-bottom}}
+
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|かばね}}
 
-From {{inh|ja|ojp|sort=かばね|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+From {{inh|ja|ojp|sort=かばね|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
-Ultimate derivation unclear.  Some theories derive this as a Japanese compound of {{m|ja|株||tr=kabu|stock, root}} + {{m|ja|根||tr=ne|root, origin}} or {{m|ja|名||tr=na|name}}.  However, the required {{IPAchar|/u/}} → {{IPAchar|/a/}} sound shift would be unusual.
+Ultimate derivation unclear.  Some theories derive this as a Japanese compound of {{m|ja|株||tr=kabu|[[stock]], [[root]]}} + {{m|ja|根||tr=ne|[[root]], [[origin]]}} or {{m|ja|名||tr=na|[[name]]}}.  However, the required {{IPAchar|/u/}} → {{IPAchar|/a/}} sound shift would be unusual.
 
-Another thought is that this might be a borrowing from, or somehow otherwise related to, {{cog|ko|골품}}, a Sino-Korean term also spelled {{m|ko|骨品|lit=bones + goods}}, the name for a kind of kinship hierarchy that was prevalent in the {{w|Silla}} kingdom.  This latter theory and its related {{m|en|bone}} sense might also account for the [[homophony]] with {{m|ja|屍||tr=kabane|corpse, dead body}}.
+Another thought is that this might be a borrowing from, or somehow otherwise related to, {{cog|ko|골품}}, a Sino-Korean term also spelled {{m|ko|骨品|lit=[[bone]]s + [[good]]s}}, the name for a kind of kinship hierarchy that was prevalent in the {{w|Silla}} kingdom.  This latter theory and its related "bone" sense might also account for the [[homophony]] with {{m|ja|屍||tr=kabane|[[corpse]], [[dead]] [[body]]}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|かばね|acc=0|acc_ref=DJR}}
@@ -85,17 +123,19 @@ Another thought is that this might be a borrowing from, or somehow otherwise rel
 ====Noun====
 {{ja-noun|かばね}}
 
-# [[clan]]
+# a [[clan]]
 #: {{synonyms|ja|氏|tr=uji}}
+# {{lb|ja|historical}} one of eight [[hereditary]] [[titles]] endorsed to clans in ancient Japan, see {{m|ja|八色の姓|tr=Yakusa no Kabane}}
 
 =====Derived terms=====
 * {{ja-r|姓%書|かばね%-がき}}: {{qualifier|historical}} someone's [[full name]], written out with the status of their [[clan]] [[append]]ed
-* {{ja-r|姓%名|かばね% な}}: [[clan]] [[name]]
+* {{ja-r|姓%名|かばね% な|[[clan]] [[name]]}}
+* {{ja-r|八色の姓|^やくさ の ^かばね}}, {{ja-r|八色の姓|^はっしき の ^かばね}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=o|せい}}
 
-From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|姓}}.  The [[漢音#Japanese|kan'on]], so likely a later borrowing.  Compare modern {{cog|nan|-}} reading ''sèⁿ''.
+From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|姓}}.  The ''{{ll|ja|漢音|kan'on}}'', so likely a later borrowing.  Compare modern {{cog|nan|-}} reading ''sèⁿ''.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
@@ -106,12 +146,18 @@ From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|姓}}.  The [[漢音#Japanese|kan'on]]
 # [[surname]], [[family name]]
 # [[clan]]
 
+=====Derived teerms=====
+* {{ja-r|八姓|はっせい}}
+
+=====Idioms=====
+* {{ja-r|姓を冒す|せい を おかす}}
+
 ===Etymology 3===
 {{ja-kanjitab|yomi=o|しょう}}
 
 {{IPAchar|/siau/}} → {{IPAchar|/ɕjɔː/}} → {{IPAchar|/ɕoː/}}
 
-From {{bor|ja|ltc|sort=しょう|-}} {{ltc-l|姓}}.  The [[呉音#Japanese|goon]], so likely the initial borrowing.  Compare modern {{cog|hak|-}} reading ''siang''.
+From {{bor|ja|ltc|sort=しょう|-}} {{ltc-l|姓}}.  The ''{{ll|ja|呉音|goon}}'', so likely the initial borrowing.  Compare modern {{cog|hak|-}} reading ''siang''.
 
 This reading is less common than ''sei'' above.
 
@@ -124,10 +170,15 @@ This reading is less common than ''sei'' above.
 # {{lb|ja|sort=しょう|uncommon}} [[surname]], [[family name]]
 # {{lb|ja|sort=しょう|uncommon}} [[clan]]
 
+=====Derived terms=====
+* {{ja-r|上姓|じょうしょう}}
+* {{ja-r|下姓|げしょう}}
+* {{ja-r|小姓|こしょう}}
+
 ===Etymology 4===
 {{ja-kanjitab|yomi=irr|しょう|k1=そう}}
 
-A shift from ''shō'' above to use the {{m|ja|直音||tr=chokuon|"[[straight]]" [[pronunciation]]|pos=dropping out any {{IPAchar|/j/}} or {{IPAchar|/w/}} glides}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+A shift from ''shō'' above to use the {{m|ja|直音||tr=chokuon|"[[straight]]" [[pronunciation]]|pos=dropping out any {{IPAchar|/j/}} or {{IPAchar|/w/}} glides}}.<ref name="KDJ"/>
 
 This reading is not used in modern Japanese, and is only found in historical texts, such as the ''{{w|Utsubo Monogatari}}'' from the late 900s.
 
