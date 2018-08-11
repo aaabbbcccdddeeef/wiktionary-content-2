@@ -30,46 +30,53 @@
 ===Kanji===
 {{ja-kanji|grade=4|rs=厶06|kyu=參}}
 
-# [[nonplus]]sed
-# [[three]] (in documents)
-# [[go]]ing, [[come|coming]]
-# [[visiting]], [[visit]]
-# be [[defeat]]ed
-# [[die]]
-# be [[mad]]ly in [[love]]
-# [[participate]], [[take part]] in
+# [[jagged]], [[uneven]]
+# [[carrot]], [[ginseng]]
+# [[add]], [[increase]], [[join]] {{gl|a [[group]], etc.}}
+# [[go]] {{gl|for a [[specific]] [[purpose]], for example}}
+# {{altspell|lang=ja|三|tr=san|nodot=1}}: [[3]], [[three]]
+# {{short for|lang=ja|参議院|tr=Sangi-in|nodot=1}}: the {{w|House of Councillors (Japan)|House of Councillors}} ([[upper house]] of the [[Diet]])
+# {{w|Mikawa Province}}
 
 ====Readings====
 {{rfv-pronunciation|ja}}<br/>
-From {{w|Middle Chinese}} {{ltc-l|參|id=1}}
+From {{w|Middle Chinese}} {{ltc-l|參|id=1|{{w|Three Stars (Chinese constellation)|Three Stars}} [[mansion]]; [[carrot]], [[ginseng]]}} and {{ltc-l|參|id=2|[[jagged]], [[uneven]]}}:
 {{ja-readings
 |goon=しん<しん<しむ
 |kanon=しん<しん<しむ
+|kun=まい-る<まゐ-る, まい-らす<まゐ-らす
 }}
-<!-- From {{w|Middle Chinese}} {{ltc-l|糝}}:
+From {{w|Middle Chinese}} {{ltc-l|參|id=3|[[add]], [[influence]], [[join]]}}:
 {{ja-readings
 |goon=そん<そん<そむ
 |kanon=さん<さん<さむ
-}}-->
-From {{w|Middle Chinese}} {{ltc-l|參|id=3}}:
-{{ja-readings
-|goon=そん<そん<そむ
-|kanon=さん<さん<さむ
+|kun=まじ-える<まじ-へる, まじ-わる<まじ-はる
+|nanori=はかる
 }}
-From {{w|Middle Chinese}} {{ltc-l|參|id=4}}:
+From {{w|Middle Chinese}} {{ltc-l|參|id=4|[[3]], [[three]]}}:
 {{ja-readings
 |goon=さん<さん<さむ
 |kanon=さん<さん<さむ
-}}
-Applied readings from {{w|Old Japanese}}:
-{{ja-readings
-|kun=まい-る<まゐ-る, まじ-わる<まじ-はる, まじ-える<まじ-へる, み-つ
+|kun=み-つ, みっ-つ
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
+* {{ja-r|参議|さんぎ}}
 * {{ja-r|参篭|さんろう}}
 * {{ja-r|参差|しんし}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
+* {{ja-r||}}
 * {{ja-r|人参|にんじん}}
 {{der-bottom}}
 
@@ -79,6 +86,7 @@ Applied readings from {{w|Old Japanese}}:
 {{wp|Three Stars (Chinese constellation)}}
 </div>
 {{ja-kanjitab|しん|yomi=o}}
+{{IPAchar|/ɕʲim/}} → {{IPAchar|/ɕimʉ/}} → {{IPAchar|/ɕiɴ/}}
 
 From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|參|id=1}}.
 
@@ -88,11 +96,12 @@ From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|參|id=1}}.
 ====Proper noun====
 {{ja-pos|proper|kyu=參|しん}}
 
-# {{lb|ja|astronomy|sort=しん}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
+# {{lb|ja|Chinese astronomy|sort=しん}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
 #: {{synonyms|ja|參宿|tr=Shin-shuku|唐鋤星|tr2=Karasuki-boshi}}
 
 ===Etymology 2===
 {{ja-kanjitab|さん|yomi=o}}
+{{IPAchar|/t͡ɕam/}} → {{IPAchar|/t͡samʉ/}} → {{IPAchar|/saɴ/}}
 
 From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|參|id=3}}.
 
@@ -104,10 +113,16 @@ From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|參|id=3}}.
 
 # {{lb|ja|Zen|_|Buddhism|sort=さん}} a [[gathering]] of [[Zen]] members in [[meditation]], [[preach]]ing, and [[invocation]] 
 
+====Verb====
+{{ja-verb-suru|kyu=參|さん}}
+
+# {{rfdef|ja}}
+#: {{syn|ja|拘る|tr=kakawaru}}
+
 ====Proper noun====
 {{ja-pos|proper|kyu=參|さん}}
 
-# {{lb|ja|astronomy}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
+# {{lb|ja|Chinese astronomy}} the {{w|Three Stars (Chinese constellation)|Three Stars}} [[constellation]], one of the {{w|Twenty-Eight Mansions}}
 #: {{synonyms|ja|參宿|tr=San-shuku|唐鋤星|tr2=Karasuki-boshi}}
 # {{surname|lang=ja|nodot=1|A=a|sort=さん}}
 
@@ -120,7 +135,7 @@ From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|參|id=3}}.
 ====Numeral====
 {{ja-pos|numeral|さん|kyu=參}}
 
-# {{lb|ja|legal|sort=さん}} ''Financial form of'' {{m|ja|三|tr=san}}: [[three]], [[3]]
+# {{lb|ja|legal|sort=さん}} ''Financial form of'' {{m|ja|三|tr=san}}: [[3]], [[three]]
 
 =====Usage notes=====
 This form of [[3]] is only used in legal documents.
