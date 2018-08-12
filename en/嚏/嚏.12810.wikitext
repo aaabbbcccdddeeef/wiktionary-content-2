@@ -40,21 +40,44 @@
 ----
 
 ==Japanese==
-{{ja-see-also|嚏る}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=口14}}
 
-====Readings====
-* {{ja-readings|on=[[てい]] (tei)|kun=[[くさめ]] (kusame), [[くしゃみ]] (kushami)}}
-
-===Noun===
-{{ja-noun|くしゃみ}}
-
 # [[sneeze]]
 
-====Usage notes====
+====Readings====
+{{ja-readings
+|goon=たい
+|kanon=てい
+|kun=くさめ-, くしゃみ-, はな-ひる, ひ-る
+}}
+
+====Compounds====
+* {{ja-r|嚏の木|はなひり の き}}
+
+===Etymology 1===
+{{ja-kanjitab|くさめ|yomi=k}}
+{{ja-kanjitab|くしゃみ|yomi=k}}
+
+====Noun====
+{{ja-noun|くしゃみ|くさめ|くっさめ}}
+
+# {{altspell|lang=ja|嚔|tr=kushami, kusame, kussame}}: a [[sneeze]]; a [[response]] to [[someone]] sneezing
+
+=====Usage notes=====
 {{ja-uk}}
+
+===Etymology 2===
+{{ja-kanjitab|ふ|yomi=k}}
+
+====Verb====
+{{ja-verb|tr=intrans|type=kami ni|ふ}}
+
+# {{lb|ja|obsolete|sort=ふ}} {{altspell|lang=ja|嚔|tr=fu}}: to [[sneeze]]
+
+=====Derived terms=====
+* {{ja-r|嚏る|ひる}}
 
 ----
 
