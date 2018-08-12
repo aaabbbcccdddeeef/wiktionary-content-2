@@ -71,17 +71,140 @@ Borrowed for abstract meanings. Another character {{och-l|盤}} was created to r
 ===Kanji===
 {{ja-kanji|grade=c|rs=几01}}
 
-===Definitions===
-{{zh-hanzi}}
-
+# [[in general]], [[by and large]]
 # [[ordinary]], [[common]], [[mediocre]]
+# [[outline]], [[gist]]
 
 ====Readings====
 {{ja-readings
-|goon=ぼん
-|kanon=はん
-|kun=おお-, おおよそ-, およそ-, おおよ-そ, およ-そ, すべ-て, なみ-
+|goon=ぼん<ぼん<ぼむ
+|kanon=はん<はん<はむ
+|kun=おお-<おほ-, おおし-<おほし-, おおよそ-<おほよそ-, およ-そ, すべ-て
+|nanori=おおち<おほち, おし, ただし, ちか, つね, なみ, ひろし
 }}
+
+====Compounds====
+{{der-top3}}
+* {{ja-r|凡凡|ぼんぼん}}
+* {{ja-r|凡界|ぼんかい}}
+* {{ja-r|凡眼|ぼんがん}}
+* {{ja-r|凡器|ぼんき}}
+* {{ja-r|凡境|ぼんきょう}}, {{ja-r|凡境|ぼんけい}}
+* {{ja-r|凡近|ぼんきん}}
+* {{ja-r|凡愚|ぼんぐ}}
+* {{ja-r|凡下|ぼんげ}}
+* {{ja-r|凡骨|ぼんこつ}}
+* {{ja-r|凡才|ぼんさい}}
+* {{ja-r|凡作|ぼんさく}}
+* {{ja-r|凡策|ぼんさく}}
+* {{ja-r|凡失|ぼんしつ}}
+* {{ja-r|凡主|ぼんしゅ}}
+* {{ja-r|凡手|ぼんしゅ}}
+* {{ja-r|凡庶|ぼんしょ}}
+* {{ja-r|凡書|ぼんしょ}}
+* {{ja-r|凡小|ぼんしょう}}
+* {{ja-r|凡常|ぼんじょう}}
+* {{ja-r|凡情|ぼんじょう}}
+* {{ja-r|凡将|ぼんしょう}}
+* {{ja-r|凡聖|ぼんしょう}}
+* {{ja-r|凡人|ぼんじん}}
+* {{ja-r|凡身|ぼんしん}}
+* {{ja-r|凡戦|ぼんせん}}
+* {{ja-r|凡僧|ぼんそう}}, {{ja-r|凡僧|ぼんぞう}}
+* {{ja-r|凡走|ぼんそう}}
+* {{ja-r|凡俗|ぼんぞく}}
+* {{ja-r|凡打|ぼんだ}}
+* {{ja-r|凡退|ぼんたい}}
+* {{ja-r|凡知|ぼんち|rom=-}}, {{ja-r|凡智|ぼんち}}
+* {{ja-r|凡人|ぼんにん}}
+* {{ja-r|凡百|ぼんぴゃく}}
+* {{ja-r|凡夫|ぼんぷ}}, {{ja-r|凡夫|ぼんぶ}}
+* {{ja-r|凡庸|ぼんよう}}
+* {{ja-r|凡流|ぼんりゅう}}
+* {{ja-r|凡慮|ぼんりょ}}
+* {{ja-r|凡百|はんぴゃく}}
+* {{ja-r|凡例|はんれい}}
+* {{ja-r|退凡%下乗|だいぼん%げじょう}}
+* {{ja-r|常凡|じょうぼん}}
+* {{ja-r|超凡|ちょうぼん}}
+* {{ja-r|非凡|ひぼん}}
+* {{ja-r|平凡|へいぼん}}
+* {{ja-r|大凡|おおよそ}}
+{{der-bottom}}
+
+===Alternative forms===
+{{ja-kanjitab|ぼん|yomi=o}}
+* {{q|rare}} {{ja-l|凢}}
+
+===Etymology 1===
+{{IPAfont|*/bɨəm/}} → {{IPAchar|/bomʉ/}} → {{IPAchar|/boɴ/}}
+
+From {{bor|ja|ltc|sort=ほん'|-}} {{ltc-l|凡}}.
+
+====Pronunciation====
+{{ja-pron|y=go|ぼん|acc=1|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|infl=na|ぼん}}
+
+# [[mediocre]], [[ordinary]]
+#: {{ant|ja|非凡|tr=hibon}}
+
+=====Inflection=====
+{{ja-na|ぼん}}
+
+=====Derived terms=====
+* {{ja-r|凡ミス|ぼん ミス}}
+
+====Noun====
+{{ja-noun|ぼん}}
+
+# [[mediocrity]]
+#: {{ant|ja|非凡|tr=hibon}}
+
+===Etymology 2===
+{{ja-kanjitab|おお|yomi=k}}
+{{ja-kanjitab|おぼ|yomi=k}}
+From {{inh|ja|ojp|sort=おお|-}}.
+
+Possibly cognate with {{m|ja|大|tr=ō||[[great]], [[large]]}},<ref name="DJR"/>
+
+Sometimes spelled as ''obo''.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>
+
+====Adjective====
+{{ja-adj|infl=nari|おお|hhira=おほ}}<br/>{{ja-altread|hira=おぼ}}
+
+# {{lb|ja|archaic|sort=おお}} [[dim]], [[faint]]
+#* {{RQ:Manyoshu|2|219}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man2Yos.html#219 here]
+#*: {{ja-usex|m=天%數 凡津%子之 相%日 於保尓%見%敷%者 今%叙%悔|m_kana=そら%かぞふ おほつの%こが あひし%ひに おほに%み%しか%ば いま%ぞ%くやしき|[[空数う|空数ふ]]大%津の子が逢ひし日に'''おぼ'''に見しかば今ぞ悔しき|そらかぞふ おほ%つ の こが  あひし ひ に '''おぼ'''に みしかば いま ぞ くやしき|rom=sora kazou Ōtsu no ko ga aishi hi ni '''obo'''ni mishikaba ima zo kuyashiki|sort=おお}}
+#: {{syn|ja|仄か|tr=honoka}}
+# {{lb|ja|archaic|sort=おお}} [[moderate]]
+#* {{RQ:Manyoshu|14|3535}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3535 here]
+#*: {{ja-usex|m=於能我乎遠 '''於保'''尓奈於毛比曽 尓波尓多知 恵麻須我可良尓 古麻尓安布毛能乎|m_kana=おのがをを '''おほ'''になおもひそ にはにたち ゑますがからに こまにあふものを|己が命を'''おほ'''にな思ひそ庭に立ち笑ますがからに駒に逢ふものを|おのが を を '''おほ'''に な おもひ そ には に たち ゑます が から に こま に あふ もの を|rom=onoga o o '''ō'''ni na omoi so niwa ni tachi emasu ga kara ni koma ni au mono o}}
+#: {{syn|ja|いい加減|tr=iikagen}}
+# {{lb|ja|archaic|sort=おお}} [[mediocre]], [[ordinary]]
+#* {{RQ:Manyoshu|6|965}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man6Yos.html#965 here]
+#*: {{ja-usex|m='''凡'''有%者 左毛右毛将為乎 恐%跡 振痛袖%乎 忍%而%有%香聞|m_kana='''おほ'''なら%ば かもかもせむを かしこみ%と ふりたきそで%を しのび%て%ある%かも|'''おほ'''ならば[[かもかも]]せむを畏みと振りたき袖を忍びてあるかも|'''おほ'''ならば か も か も せむ を かしこみ と ふりたき そで を しのびて ある か も|rom='''ō'''naraba ka mo ka mo semu o kashikomi to furitaki sode o shinobite aru ka mo}}
+#: {{syn|ja|普通|tr=futsū|平凡|tr2=heibon}}
+
+=====Derived terms=====
+* {{ja-r|朧|おぼろ|[[hazy]]}}
+
+===Etymology 3===
+{{ja-kanjitab|おおし|yomi=k}}
+{{rfe|ja|{{ja-l|凡}} + conjunctive particle {{ja-l|し}}?}}
+
+====Adverb====
+{{ja-pos|adverb|おおし|hhira=おほし}}
+
+# [[about]], [[generally]], [[in general]]
+#: {{syn|ja|凡そ|tr=oyoso|大体|tr2=daitai}}
+
+=====Derived terms=====
+* {{ja-r|凡%河内|^おおし%こうち}}
+
+===References===
+<references/>
 
 ----
 
