@@ -19,10 +19,84 @@
 ===Kanji===
 {{ja-kanji|grade=9|rs=口15}}
 
-# {{alternative form of|嚏|lang=ja}}
+# [[sneeze]]
 
 ====Readings====
-{{ja-readings|kanon=てい|kun=くしゃみ-}}
+{{ja-readings
+|goon=たい
+|kanon=てい
+|kun=くさめ-, くしゃみ-, はな-ひる, ひ-る
+}}
+
+====Compounds====
+* {{ja-r|嚔の木|はなひり の き}}
+
+===Alternative forms===
+{{ja-kanjitab|くしゃみ|yomi=k}}
+* {{ja-l|嚏}}
+
+===Etymology 1===
+Alteration from ''kusame'' (see below).<ref name="DJS>{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=k|くしゃみ|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|くしゃみ}}
+
+# a [[sneeze]]
+
+=====Derived terms=====
+* {{ja-r|嚔ガス|くしゃみ ガス}}
+
+=====Idioms=====
+* {{ja-r|狆が嚔をしたよう|ちん が くしゃみ を した よう}}, {{ja-r|狆くしゃ|ちんくしゃ}}
+
+===Etymology 2===
+{{ja-kanjitab|くさめ|yomi=k}}
+
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|くさめ}}
+
+# a [[sneeze]]
+
+=====Derived terms=====
+* {{ja-r|くさめくさめ|kusame kusame}}: [[expression]] used after [[someone]] [[sneeze]]s, said to [[break]] [[curse]]s
+
+===Etymology 3===
+{{ja-kanjitab|くっさめ|yomi=irr}}
+
+[[gemination|Gemination]] of ''kusame'' (see above).<ref name="DJS"/><ref name="DJR"/>
+
+====Noun====
+{{ja-noun|くっさめ}}
+
+# a [[sneeze]]
+# an [[achoo]]
+
+===Etymology 4===
+{{ja-kanjitab|ふ|yomi=k}}
+
+From {{inh|ja|ojp|sort=ふ|-}}.
+
+====Verb====
+{{ja-verb|tr=intrans|type=kami ni|ふ}}
+
+# {{lb|ja|obsolete|sort=ふ}} to [[sneeze]]
+#* {{RQ:Manyoshu|11|2808}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man11Yo.html#2808 here]
+#*: {{ja-usex
+|m=眉%根%掻 鼻'''火'''紐%解 待%八方 何時%毛%将見%跡 戀来吾%乎
+|m_kana=まよ%ね%かき はな'''ひ'''ひも%とけ まてり%やも いつか%も%みむ%と こひこしわれ%を
+|眉%根%掻き鼻'''ひ'''紐%解け待てりやもいつかも見むと恋ひ来し我れを
+|まよ%ね% かき はな'''ひ''' ひも% とけ まてり や も いつ か も みむ と こひ-こし われ を|rom=mayone kaki hana'''hi''' himo toke materi ya mo itsu ka mo mimu to koi-koshi ware o|sort=ふ}}
+
+=====Derived terms=====
+* {{ja-r|嚔る|ひる|pos=Classical Japanese form}}
+
+===References===
+<references/>
 
 ----
 
