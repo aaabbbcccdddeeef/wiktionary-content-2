@@ -133,18 +133,19 @@ Borrowed for abstract meanings. Another character {{och-l|盤}} was created to r
 {{der-bottom}}
 
 ===Alternative forms===
-{{ja-kanjitab|ぼん|yomi=o}}
 * {{q|rare}} {{ja-l|凢}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=o|ぼん}}
+
 {{IPAfont|*/bɨəm/}} → {{IPAchar|/bomʉ/}} → {{IPAchar|/boɴ/}}
 
 From {{bor|ja|ltc|sort=ほん'|-}} {{ltc-l|凡}}.
 
 ====Pronunciation====
-{{ja-pron|y=go|ぼん|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=goon|ぼん|acc=1|acc_ref=DJR}}
 
-====Adjectival noun====
+====Adjective====
 {{ja-adj|infl=na|ぼん}}
 
 # [[mediocre]], [[ordinary]]
@@ -163,16 +164,18 @@ From {{bor|ja|ltc|sort=ほん'|-}} {{ltc-l|凡}}.
 #: {{ant|ja|非凡|tr=hibon}}
 
 ===Etymology 2===
-{{ja-kanjitab|おお|yomi=k}}
-{{ja-kanjitab|おぼ|yomi=k}}
+{{ja-kanjitab|yomi=k|おお}}
+
+{{IPAchar|/opo/}} → {{IPAchar|/ofo/}} → {{IPAchar|/oho/}} → {{IPAchar|/oː/}}
+
 From {{inh|ja|ojp|sort=おお|-}}.
 
-Possibly cognate with {{m|ja|大|tr=ō||[[great]], [[large]]}},<ref name="DJR"/>
+Cognate with {{m|ja|大|tr=ō||[[great]], [[large]]}}, and the ''oho-'' element in {{ja-r|おほほし||unclear, indistinct; depressed, gloomy; stupid, imbecilic}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
-Sometimes spelled as ''obo''.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>
+Historically also realized as ''obo'' in old texts, and cognate with the ''obo-'' element in {{m|ja|朧||tr=oboro|hazy, vague, dim, indistinct}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 ====Adjective====
-{{ja-adj|infl=nari|おお|hhira=おほ}}<br/>{{ja-altread|hira=おぼ}}
+{{ja-adj|infl=nari|おお|hhira=おほ}}
 
 # {{lb|ja|archaic|sort=おお}} [[dim]], [[faint]]
 #* {{RQ:Manyoshu|2|219}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man2Yos.html#219 here]
@@ -186,13 +189,19 @@ Sometimes spelled as ''obo''.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>
 #* {{RQ:Manyoshu|6|965}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man6Yos.html#965 here]
 #*: {{ja-usex|m='''凡'''有%者 左毛右毛将為乎 恐%跡 振痛袖%乎 忍%而%有%香聞|m_kana='''おほ'''なら%ば かもかもせむを かしこみ%と ふりたきそで%を しのび%て%ある%かも|'''おほ'''ならば[[かもかも]]せむを畏みと振りたき袖を忍びてあるかも|'''おほ'''ならば か も か も せむ を かしこみ と ふりたき そで を しのびて ある か も|rom='''ō'''naraba ka mo ka mo semu o kashikomi to furitaki sode o shinobite aru ka mo}}
 #: {{syn|ja|普通|tr=futsū|平凡|tr2=heibon}}
+# {{lb|ja|archaic|sort=おお}} {{ja-def|大}} [[large]], [[big]]; [[roomy]], [[loose]]
 
 =====Derived terms=====
 * {{ja-r|朧|おぼろ|[[hazy]]}}
 
 ===Etymology 3===
-{{ja-kanjitab|おおし|yomi=k}}
-{{rfe|ja|{{ja-l|凡}} + conjunctive particle {{ja-l|し}}?}}
+{{ja-kanjitab|yomi=k|おおし}}
+
+From {{inh|ja|ojp|sort=おおし|-}}.
+
+Appears to be a lexicalized adverbial use of the {{m|ja|終止形||tr=shūshikei|terminal form}} of classical adjective {{m|ja|多し||tr=ōshi|many|pos=modern {{m|ja|多い|tr=ōi}}, same ''opo'' → ''ofo'' → ''oho'' → ''ō'' root}}.
+
+Alternatively, might be adjective stem ''ō'' + conjunctive particle {{ja-r|し}}.
 
 ====Adverb====
 {{ja-pos|adverb|おおし|hhira=おほし}}
@@ -201,7 +210,7 @@ Sometimes spelled as ''obo''.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>
 #: {{syn|ja|凡そ|tr=oyoso|大体|tr2=daitai}}
 
 =====Derived terms=====
-* {{ja-r|凡%河内|^おおし%こうち}}
+* {{ja-r|凡%河内|^おおし%こうち|pos=a surname}}
 
 ===References===
 <references/>
