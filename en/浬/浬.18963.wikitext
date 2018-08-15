@@ -58,7 +58,8 @@
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|り}}
-Probably from {{etyl|ltc|ja|sort=り}} {{m|zh|浬}}. The {{m|zh|浬}} character does not appear in ancient texts.
+
+Probably from {{bor|ja|ltc|sort=り|-}} {{ltc-l|浬}}; however, the {{m|zh|浬}} character does not appear in ancient texts.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|り}}
@@ -70,10 +71,14 @@ Probably from {{etyl|ltc|ja|sort=り}} {{m|zh|浬}}. The {{m|zh|浬}} character 
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=irr|かいり}}
-From {{etyl|ltc|ja|sort=かいり}} compound {{m|zh|海里|tr=xoj<sup>X</sup> li<sup>X</sup>|lit=sea, ocean + unit of distance}}. The single-kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+
+From {{bor|ja|ltc|sort=かいり|-}} compound {{ltc-l|海里|lit=sea, ocean + unit of distance}}. The single-kanji spelling is an example of {{ja-jukujikun|sort=かいり}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|かいり|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|海里}}
 
 ====Noun====
 {{ja-noun|かいり}}
@@ -82,7 +87,8 @@ From {{etyl|ltc|ja|sort=かいり}} compound {{m|zh|海里|tr=xoj<sup>X</sup> li
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=irr|のっと}}
-From {{etyl|en|ja|sort=のっと}} {{m|en|knot|pos=unit of speed}}. The kanji spelling {{lang|ja|浬}} is an example of [[熟字訓#Japanese|jukujikun]].
+
+[[Appendix:Glossary#loanword|Borrowed]] from {{bor|ja|en|sort=のっと|knot|pos=unit of speed}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The kanji spelling is an example of {{ja-jukujikun|sort=のっと}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|ノット|acc=1|acc_ref=DJR}}
@@ -96,7 +102,7 @@ From {{etyl|en|ja|sort=のっと}} {{m|en|knot|pos=unit of speed}}. The kanji sp
 # a [[knot]]: a [[nautical]] [[unit]] of [[speed]], one [[nautical mile]] [[per]] [[hour]]
 
 =====Usage notes=====
-The katakana spelling {{l|ja|ノット}} is more common in modern Japanese than either kanji spelling of {{lang|ja|浬}} or {{l|ja|節}}.
+The katakana spelling {{l|ja|ノット}} is more common in modern Japanese than either kanji spelling of {{m|ja|浬}} or {{m|ja|節}}.
 
 ===References===
 <references/>
