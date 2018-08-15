@@ -16,12 +16,15 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=𠁼}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|alt=𠁼}}
+From {{inh|zh|sit-pro|*(h)i ~ *(h)aj||this; here}}.
+
+====Pronunciation====
 {{zh-pron
 |m=yī
 |c=ji1
@@ -29,24 +32,49 @@
 |md=ĭ
 |mn=ml,tp,kh,tn,lk,sx,yl,mg,hc,tc,jj,ph:i/km:ī
 |mn-t=i1
-|w=3hhi
+|w=1i
 |mc=y
 |oc=y
 |cat=pron,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|chiefly|Classical Chinese|Min|Wu}} [[he]], [[him]]; [[she]], [[her]]; [[it]]; [[this]]
-#: {{zh-x|儂 來 尋 我 兒子，伊 正好 勿 辣海，對勿起。|I am sorry that you come to see my son, but '''he''' is not present now|SH}}
+# {{lb|zh|literary}} [[this]]; [[that]]
+# {{lb|zh|literary|or|coastal|_|Min}} [[he]], [[him]]; [[she]], [[her]]; [[it]]
 #: {{zh-x|我 無 共 伊 講。|I didn't tell '''him'''.|MN}}
-#: {{zh-x|伊 伏 在 地上；車夫 便 也 立 住 腳。|'''She''' laid prostrate on the ground; the coachman also had halted.|ref={{w2|zh|魯迅}} (Lu Xun){{w2|zh|pref=《|一件小事|suf=》}}}}
+#* {{zh-x|伊 伏 在 地上；車夫 便 也 立 住 腳。|'''She''' laid prostrate on the ground; the coachman also had halted.|ref={{w2|zh|魯迅}} (Lu Xun){{w2|zh|pref=《|一件小事|suf=》}}}}
+# {{lb|zh|literary}} [[you]] (singular)
 # {{surname|lang=zh}}
 # {{zh-short|伊拉克|Iraq}}
 # {{zh-short|伊朗|Iran}}
 
-====Synonyms====
+=====Synonyms=====
+{{zh-dial|他}}
+
+===Etymology 2===
+{{zh-forms|alt=佢,渠,夷-Wu}}
+From {{ltc-l|渠|he; she; it}}.
+
+In Southern Sixian Hakka: {{IPAchar|/ki/}} → {{IPAchar|/i/}}.
+
+In Wu ({{zh-ref|You, 1995}}): {{IPAchar|/ɡ-/}} → {{IPAchar|/dʑ-/}} → {{IPAchar|/ɦ-/}} ( → {{IPAchar|/ʔ-/}}).
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=s:yì
+|w=3hhi
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Southern Sixian|_|Hakka|Wu}} [[he]], [[him]]; [[she]], [[her]]; [[it]]
+#: {{zh-x|儂 來 尋 我 兒子，伊 正好 勿 辣海，對勿起。|I am sorry that you come to see my son, but '''he''' is not present now|SH}}
+
+=====Synonyms=====
 {{zh-dial|他}}
 
 ===Compounds===
