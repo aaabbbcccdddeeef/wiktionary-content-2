@@ -52,20 +52,124 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=幺02}}
 
-# {{defn|lang=ja|sort=幺02}}
+# [[childish]], [[immature]], [[young]]
+# [[infant]], young [[child]]
 
 ====Readings====
 {{ja-readings
-|goon=ゆう
-|kanon=ゆう
-|kanyoon=よう
-|kun=おさな-い
+|goon=ゆう<いう
+|kanon=ゆう<いう
+|kanyoon=よう<えう
+|kun=おさな-い<をさな-い, いと-けない, おさな-びる
+|nanori=わか
 }}
 
 ====Compounds====
-* {{ja-r|幼%稚|よう%ち|[[childish]]; [[infantile]]}}
-* {{ja-r|幼%女|よう%じょ}}
-* {{ja-r|幼%虫|よう%ちゅう}}
+{{der-top|Compounds}}
+* {{ja-r|幼芽|ようが}}
+* {{ja-r|幼孩|ようがい}}
+* {{ja-r|幼学|ようがく}}
+* {{ja-r|幼魚|ようぎょ}}
+* {{ja-r|幼君|ようくん}}
+* {{ja-r|幼形|ようけい}}
+* {{ja-r|幼孤|ようこ}}
+* {{ja-r|幼根|ようこん}}
+* {{ja-r|幼児|ようじ}}
+* {{ja-r|幼時|ようじ}}
+* {{ja-r|幼歯|ようし}}
+* {{ja-r|幼者|ようしゃ}}
+* {{ja-r|幼弱|ようじゃく}}
+* {{ja-r|幼若|ようじゃく}}
+* {{ja-r|幼主|ようしゅ}}
+* {{ja-r|幼獣|ようじゅう}}
+* {{ja-r|幼女|ようじょ}}
+* {{ja-r|幼少|ようしょう}}
+* {{ja-r|幼生|ようせい}}
+* {{ja-r|幼稚|ようち|[[childish]]; [[infantile]]}}
+* {{ja-r|幼冲|ようちゅう|rom=-}}, {{ja-r|幼沖|ようちゅう}}
+* {{ja-r|幼虫|ようちゅう|[[larva]]}}
+* {{ja-r|幼鳥|ようちょう}}
+* {{ja-r|幼帝|ようてい}}
+* {{ja-r|幼童|ようどう}}
+* {{ja-r|幼年|ようねん}}
+* {{ja-r|幼保|ようほ}}
+* {{ja-r|幼木|ようぼく}}
+* {{ja-r|幼齢林|ようれいりん}}
+* {{ja-r|幼名|ようみょう}}, {{ja-r|幼名|ようめい}}
+* {{ja-r|長幼|ちょうよう}}
+* {{ja-r|童幼|どうよう}}
+* {{ja-r|老幼|ろうよう}}
+* {{ja-r|幼気|いたいけ}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|よう|yomi=o}}
+
+{{IPAfont|*/jiɪu/}} → {{IPAchar|/jieu/}} → {{IPAchar|/jeu/}} → {{IPAchar|/joː/}}
+
+From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|幼}}.
+
+====Pronunciation====
+{{ja-pron|y=kanyo|よう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|よう|hhira=えう}}
+
+# [[childhood]], [[infancy]]
+# a [[young]] [[child]]
+
+===Etymology 2===
+{{ja-kanjitab|おさな|yomi=k}}
+
+{{IPAchar|/wosana/}} → {{IPAchar|/osana/}}
+
+Stem of classical verb {{m|ja|幼し|tr=osanashi}},<ref name="DJR"/><ref>{{R:Daijisen}}</ref> modern {{m|ja|幼い|tr=osanai||[[childish]], [[infantile]]}}.
+
+====Noun====
+{{ja-noun|おさな|hhira=をさな}}
+
+# {{synonym of|lang=ja|幼子|tr=osanago|nodot=1|sort=おさな}}: an [[infant]], [[young]] [[child]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|幼びる|おさなびる}}
+* {{ja-r|幼らしい|おさならし.い}}
+* {{ja-r|幼 生い|おさな おい}}
+* {{ja-r|幼%顔|おさな%がお}}
+* {{ja-r|幼%子|おさな%ご|rom=-}}, {{ja-r|幼%児|おさな%ご}}
+* {{ja-r|幼%心地|おさな%-ごこち}}
+* {{ja-r|幼%心|おさな%-ごころ}}
+* {{ja-r|幼%立ち|おさな%だち}}
+* {{ja-r|幼%妻|おさな%づま}}
+* {{ja-r|幼 友達|おさな ともだち}}
+* {{ja-r|幼%名|おさな%な}}
+* {{ja-r|幼 物%語|おさな もの%がたり}}
+* {{ja-r|幼%等|おさな%ら}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|いと|yomi=k}}
+{{rfe|ja|sort=いと|from {{m|ja|糸|tr=ito||[[thread]]}}?}}
+
+====Noun====
+{{ja-noun|いと}}
+
+# {{lb|ja|archaic|sort=いと}} a [[young]] [[child]], [[infant]], [[toddler]]
+#: {{syn|ja|幼児|tr=yōji}}
+
+=====Derived terms=====
+* {{ja-r|幼様|いとさま}}, {{ja-r|幼様|いとさん}}
+
+====Prefix====
+{{ja-noun|いと}}
+
+# ''prefixed to a [[noun]]'': [[childish]], [[immature]], [[infantile]]
+
+=====Derived terms=====
+* {{ja-r|幼宮|いとみや}}
+
+===References===
+<references/>
 
 ----
 
