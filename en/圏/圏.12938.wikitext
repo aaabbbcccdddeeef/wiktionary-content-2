@@ -42,6 +42,7 @@ Unorthodox variant of {{l|zh|圈}} with bottom component of {{l|zh|卷}} written
 }}
 
 ===Etymology===
+{{wikipedia|lang=ja}}
 {{ja-kanjitab|yomi=o|けん}}
 {{IPAchar|/kwen/}} → {{IPAchar|/ken/}}
 
@@ -57,6 +58,10 @@ From {{etyl|ltc|ja|sort=けん}} {{m|zh|圏|tr=kyuen?||to circle something; a co
 #: {{ja-usex|首都'''圏'''|しゅと'''けん'''|the capital '''area''' → the Tokyo metropolitan '''region'''}}
 #: {{ja-usex|英語'''圏'''|えいご'''けん'''|the English [language] '''area''' → the Anglophone '''world''', the Anglo'''sphere'''}}
 #: {{ja-usex|この'''圏'''の構成は…|^この '''けん''' の こうせい は …|The composition of this '''region'''… {{qualifier|mathematics}}}}
+# {{lb|ja|mathematics}} [[category]]
+
+====Derived terms====
+* {{ja-r|圏論|けんろん}}: {{q|mathematics}} [[category theory]]
 
 ===References===
 <references/>
