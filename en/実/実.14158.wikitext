@@ -360,6 +360,8 @@ Japanese shinjitai of {{l|ja|實}}.
 # [[content]]; ingredients
 # good result
 
+[[Category:Japanese basic words|み]]
+
 ===Etymology 2===
 {{ja-kanjitab|じつ|yomi=o}}
 
@@ -372,6 +374,10 @@ Japanese shinjitai of {{l|ja|實}}.
 # [[substance]]; [[essence]]
 # {{lb|ja|mathematics}} [[dividend]]
 
+====Proper noun====
+{{ja-pos|proper|じつ}}
+# {{given name|lang=ja|sort=じつ}} <!---This given name is listed as either "gender not specified" or "unclassified given name" in dictionaries--->
+
 ===Etymology 3===
 {{ja-kanjitab|さね|yomi=k}}
 
@@ -380,6 +386,11 @@ Japanese shinjitai of {{l|ja|實}}.
 
 # a [[seed]]; a [[stone]]; a [[pit]]
 # a [[tongue]] used in a handiwork of wood
+
+====Proper noun====
+{{ja-pos|proper|さね}}
+
+# {{surname|lang=ja|sort=さね}}
 
 ===Etymology 4===
 {{ja-kanjitab|まこと|yomi=k}}
@@ -392,21 +403,20 @@ Japanese shinjitai of {{l|ja|實}}.
 # [[devotion]]
 # [[trust]]; [[reliance]]
 
+====Proper noun====
+{{ja-pos|proper|まこと}}
+# {{given name|female|lang=ja|sort=まこと}}
+
 ===Etymology 5===
 
 ====Proper noun====
 {{ja-pos|proper|みのる}}
 
 # {{given name|male|lang=ja|sort=みのる}}
+# {{lb|ja|rare|sort=みのる}} {{given name|female|lang=ja|sort=みのる}}
 
-{{ja-pos|proper|さね|じつさき}}
-# {{surname|lang=ja|sort=さね}}
+{{ja-pos|proper|じつさき}}
+# {{surname|lang=ja|sort=じつさき}}
 
-{{ja-pos|proper|じつ}}
-# Jitsu, a Japanese given name
-
-{{ja-pos|proper|ちか|まこと|みのり}}
+{{ja-pos|proper|ちか|みのり}}
 # {{given name|female|lang=ja|sort=ちか}}
-
-[[Category:Japanese basic words|み]]
-[[Category:Japanese given names|じつ]]
