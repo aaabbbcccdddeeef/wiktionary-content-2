@@ -61,37 +61,117 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=丶03}}
 
+# [[cinnabar]]
+# [[red]]
+# [[elixir]] [[make|made]] with cinnabar {{gl|e.g. [[Chinese]] [[elixir of life]]}}
+# [[improvise]]d [[medicine]]
+# [[devotion]]
+# {{short for|lang=ja|丹波国|tr=Tanba-koku||{{w|Tanba Province}}|nodot=1|sort=たん}}
+
 ====Readings====
 {{ja-readings
 |goon=たん
 |kanon=たん
-|kun=あか-, に-
+|kun=あか-, あか-い, に-
+|nanori=あかし, あきら, まこと
 }}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-r|丹桂|たんけい}}: {{vern|golden osmanthus}} (''[[Osmanthus fragrans]]'')
-|{{ja-r|丹花|たんか}}
-|{{ja-r|丹砂|たんしゃ}}
-|{{ja-r|丹朱|たんしゅ}}
-|{{ja-r|丹色|に.いろ}}
-|{{ja-r|丹精|たんせい}}, {{ja-r|丹誠|たんせい}}
-|{{ja-r|丹青|たんせい}}
-|{{ja-r|丹前|たんぜん}}
-|{{ja-r|丹頂|たんちょう}}
-|{{ja-r|丹田|たんでん}}
-|{{ja-r|丹毒|たんどく}}
-|{{ja-r|丹念|たんねん}}
-|{{ja-r|丹碧|たんぺき}}
-}}
+{{der-top|Compounds}}
+* {{ja-r|丹桂|たんけい}}: {{vern|golden osmanthus}} (''[[Osmanthus fragrans]]'')
+* {{ja-r|丹花|たんか}}
+* {{ja-r|丹後|^たんご}}
+* {{ja-r|丹砂|たんさ}}, {{ja-r|丹砂|たんしゃ}}
+* {{ja-r|丹朱|たんしゅ}}
+* {{ja-r|丹州|^たんしゅう}}
+* {{ja-r|丹精|たんせい|rom=-}}, {{ja-r|丹誠|たんせい}}
+* {{ja-r|丹青|たんせい}}
+* {{ja-r|丹前|たんぜん}}
+* {{ja-r|丹%頂|タン%チョウ}}
+* {{ja-r|丹田|たんでん}}
+* {{ja-r|丹毒|たんどく}}
+* {{ja-r|丹念|たんねん}}
+* {{ja-r|丹波|^たんば}}
+* {{ja-r|丹碧|たんぺき}}
+* {{ja-r|丹薬|たんやく}}
+* {{ja-r|黄丹|おうたん}}, {{ja-r|黄丹|おうだん}}
+* {{ja-r|仙丹|せんたん}}
+* {{ja-r|曽丹%集|^そたん%-しゅう}}
+* {{ja-r|反魂丹|はんごんたん}}
+* {{ja-r|牡%丹|ボ%タン}}
+* {{ja-r|万金丹|まんきんたん}}
+* {{ja-r|練丹|れんたん|rom=-}}, {{ja-r|煉丹|れんたん}}
+* {{ja-r|雲丹|うに}}
+* {{ja-r|甲比%丹|カピ%タン|rom=-}}, {{ja-r|甲必%丹|カピ%タン}}
+* {{ja-r|吉利支%丹|^キリシ%タン|rom=-}}, {{ja-r|切%支%丹|^キリ%シ%タン}}
+* {{ja-r|牡丹%餅|ぼた%もち}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|に|yomi=k}}
+From {{inh|ja|ojp|sort=に|-}}, also used as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ni⟩}}.
+
+Cognate with {{m|ja|土|tr=ni||[[earth]], [[ground]]}}.<ref>{{R:Daijisen}}</ref><ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|y=k|に|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|に}}
 
-# [[red]]
-# red [[earth]]
+# the [[color]] [[red]]
+#: {{syn|ja|赤色|tr=akairo|丹色|tr2=niiro}}
+# [[red earth]]
 
-====Related terms====
-* {{ja-r|丹塗り|にぬり}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|丹%石|に%いし}}
+* {{ja-r|丹%色|に%いろ}}
+* {{ja-r|丹生|にう}}, {{ja-r|丹生|にゅう}}
+* {{ja-r|錦|にしき}}
+* {{ja-r|丹摺り|にずり}}
+* {{ja-r|丹%躑躅|に%-つつじ}}
+* {{ja-r|丹つらう|につらう}}
+* {{ja-r|丹%塗|に%ぬり|rom=-}}, {{ja-r|丹塗り|にぬり}}
+* {{ja-r|丹の穂|に の ほ}}
+* {{ja-r|丹羽|^にわ}}
+* {{ja-r|青%丹|あお%に}}
+* {{ja-r|赤%丹|あか%に}}
+* {{ja-r|黄丹|おうに}}
+* {{ja-r|さ丹|さに}}
+* {{ja-r|紅|べに}}
+* {{ja-r|八百丹|やお に}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|たん|yomi=o}}
+From {{bor|ja|ltc|sort=たん|-}} {{ltc-l|丹}}.
+
+Used in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ta⟩}}.
+
+====Pronunciation====
+{{ja-pron|y=o|たん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たん|yomi=k}}
+
+# [[cinnabar]]
+#: {{syn|ja|辰砂|tr=shinsha}}
+# a [[yellow]]ish-[[red]] [[pigment]] made from [[lead oxide]], used, for example, in ''[[nihonga]]''
+# [[medicine]], especially one for inducing [[immortality]]
+#: {{syn|ja|薬|tr=yaku}}
+# a yellow-red [[color]], as of cinnabar
+
+=====Derived terms=====
+* {{ja-r|丹緑本|^たんろくぼん}}, {{ja-r|丹緑本|^たんりょくぼん}}
+
+====Proper noun====
+{{ja-pos|proper|たん}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=たん}}
+
+===References===
+<references/>
 
 ----
 
