@@ -57,103 +57,213 @@
 ===Kanji===
 {{ja-kanji|grade=2|rs=儿03}}
 
-# [[elder]] [[brother]]
+# [[elder]]/[[older]] [[brother]]
+# {{n-g|honorific referencing an [[older]] [[brother]] [[figure]]}}
 
 ====Readings====
 {{ja-readings
 |goon=きょう<きやう<くゐやう
 |kanon=けい<けい<くゑい
-|kun=あに-, にい-, にい-さん, え-, せ-
-|nanori=よし
+|toon=ひん
+|kun=あに-, に.い-, に.い-さん, え-<え-<𛀁-, せ-
+|nanori=えだ<えだ<𛀁だ, これ, さき, しげ, ただ, ね, よし
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|兄%弟|きょう%だい}}
-* {{l|ja|阿兄}}
-* {{l|ja|従兄}}
-* {{l|ja|家兄}}
-* {{l|ja|雅兄}}
-* {{l|ja|学兄}}
-* {{l|ja|貴兄}}
-* {{ja-r|義%兄|ぎ%けい}}
-* {{l|ja|愚兄}}
-* {{l|ja|賢兄}}
-* {{l|ja|舎兄}}
-* {{l|ja|諸兄}}
-* {{l|ja|慈兄}}
-* {{l|ja|次兄}}
-* {{ja-r|実兄|じっけい}}
-* {{l|ja|仁兄}}
-{{der-mid}}
-* {{l|ja|尊兄}}
-* {{l|ja|大兄}}
-* {{l|ja|仲兄}}
-* {{l|ja|長兄}}
-* {{l|ja|伯兄}}
-* {{ja-r|父%兄|ふ%けい}}
-* {{l|ja|亡兄}}
-* {{l|ja|令兄}}
-* {{l|ja|兄嫁}}
-* {{ja-r|兄%貴|あに%き}}
-* {{l|ja|兄後}}
-* {{l|ja|兄姉}}
-* {{l|ja|兄事}}
-* {{l|ja|兄上}}
+* {{ja-r|兄姉|けいし}}
+* {{ja-r|兄事|けいじ}}
+* {{ja-r|兄弟|けいてい}}
 * {{ja-r|兄妹|けいまい}}
+* {{ja-r|阿兄|あけい}}
+* {{ja-r|家兄|かけい}}
+* {{ja-r|花兄|かけい}}
+* {{ja-r|雅兄|がけい}}
+* {{ja-r|学兄|がっけい}}, {{ja-r|学兄|がくけい}}
+* {{ja-r|貴兄|きけい}}
+* {{ja-r|義%兄|ぎ%けい}}
+* {{ja-r|愚兄|ぐけい}}
+* {{ja-r|賢兄|けんけい}}
+* {{ja-r|孔方兄|こうほうひん}}
+* {{ja-r|吾兄|ごけい}}
+* {{ja-r|次兄|じけい}}
+* {{ja-r|詞兄|しけい}}
+* {{ja-r|実兄|じっけい}}
+* {{ja-r|舎兄|しゃけい}}, {{ja-r|舎兄|しゃきょう}}
+* {{ja-r|従兄|じゅうけい}}
+* {{ja-r|諸兄|しょけい}}
+* {{ja-r|新兄|しんきょう}}
+* {{ja-r|仁兄|じんけい}}
+* {{ja-r|尊兄|そんけい}}
+* {{ja-r|大兄|たいけい}}
+* {{ja-r|仲兄|ちゅうけい}}
+* {{ja-r|長兄|ちょうけい}}
+* {{ja-r|伯兄|はっけい}}
+* {{ja-r|父%兄|ふ%けい}}
+* {{ja-r|亡兄|ぼうけい}}
+* {{ja-r|盟兄|めいけい}}
+* {{ja-r|令兄|れいけい}}
+* {{ja-r|老兄|ろうけい}}
+* {{ja-r|師兄|すひん}}
+* {{ja-r|兄鷂|このり}}
+* {{ja-r|兄鷹|しょう}}
+* {{ja-r|兄矢|はや}}
+* {{ja-r|御%兄|お%に.い}}
+* {{ja-r|従兄弟|いとこ}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{rfe|lang=ja}}
+{{ja-kanjitab|けい|yomi=kanon}}
+{{IPAfont|*/kˠwæi/}} → {{IPAchar|/kʷæi/}} → {{IPAchar|/keː/}}
+
+From {{bor|ja|ltc|sort=けい|-}} {{ltc-l|兄}}.
 
 ====Pronunciation====
-* {{ja-pron|あに|y=k|acc=1|acc_ref=NHK}}
+{{ja-pron|けい|y=ko|acc=1|acc_ref=DJR}}
+* Pitch accent for suffix unknown.
+
+====Noun====
+{{ja-noun|けい}}
+
+# an [[elder]] [[brother]]
+#: {{syn|ja|弟|tr=tei}}
+
+=====Idioms=====
+* {{ja-r|兄たり難く弟たり難し|けい たりがたく てい たりがたし}}
+
+====Pronoun====
+{{ja-pos|pronoun|けい}}
+
+# ''pronoun referencing an [[older]] [[brother]] [[figure]]'': [[you]], [[he]]
+
+====Suffix====
+{{ja-pos|suffix|けい}}
+
+# ''attaches to a name referencing an [[older]] [[brother]] [[figure]]'': [[Mister]], [[Mr.]]
+
+===Etymology 2===
+{{ja-kanjitab|あに|yomi=k}}
+From {{inh|ja|ojp|sort=あに|-}} of unclear derivation:
+* Probably originally a compound of {{compound|ja|吾|tr1=a|pos1=Eastern Old Japanese first-person pronoun|の|tr2=no|pos2=possessive particle|兄|tr3=ye → e|t3=[[eldest]] [[sibling]]|pos3=see below}}:
+*: {{IPAfont|⟨a no<sub>2</sub> ye⟩}} → *{{IPAchar|/anʉʲɨe/}} → {{IPAchar|/ani/}}
+* Alternatively, an [[apophony|apophonic]] form of {{m|ja|姉|tr=ane||[[elder]] [[sister]]}}, itself from the same derivation above, possibly by fusion with empathic particle {{ja-r|い}}.
+
+{{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|あに|y=k|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|あに}}
 
-# one's own elder brother
+# one's [[own]] [[elder]] [[brother]]
+#: {{ant|ja|弟|tr=otōto}}
+# one's [[own]] [[elder]] [[sister]]'s [[husband]]
+#: {{syn|ja|義兄|tr=gikei}}
+# {{short for|lang=ja|花の兄|tr=hana no ani|nodot=1}}: alternative name for the {{m|ja|梅|tr=[[ume]]}}, the {{vern|Japanese plum}} (''[[Prunus mume]]'')
 
-=====Synonyms=====
-* {{l|ja|兄さん}}
-* {{l|ja|お兄さん|tr=おにいさん, oniisan}}
-* {{l|ja|兄ちゃん}}
-* {{l|ja|お兄ちゃん}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|兄い|あに.い}}
+* {{ja-r|兄さん|あに-さん}}
+** {{ja-r|兄様|に.い-さま}} → {{ja-r|兄さん|に.い-さん}}
+* {{ja-r|兄上|あにうえ}}
+* {{ja-r|兄%貴|あに%き}}
+* {{ja-r|兄君|あにぎみ}}
+* {{ja-r|兄%御|あに%ご}}, {{ja-r|兄%御前|あに%ごぜ}}
+* {{ja-r|兄%者%人|あに% じゃ% ひと}},{{ja-r|兄者|あにじゃ}}
+* {{ja-r|兄%弟子|あに%でし}}
+* {{ja-r|兄分|あにぶん}}
+* {{ja-r|兄嫁|あによめ|rom=-}}, {{ja-r|嫂|あによね}}
+* {{ja-r|花の兄|はな の あに}}
+* {{ja-r|継兄|まま.あに|rom=-}}, {{ja-r|庶兄|まま.あに}}
+{{der-bottom}}
 
-=====Idioms=====
-* [[兄たり難く弟たり難し]]
+===Etymology 3===
+{{ja-kanjitab|え|yomi=k}}
+{{IPAchar|/je/}} → {{IPAchar|/e/}}
 
-===Etymology 2===
-{{rfe|lang=ja}}
+From {{inh|ja|ojp|sort=|-}}.
 
 ====Noun====
 {{ja-noun|え}}
 
-# an elder sibling
+# {{lb|ja|archaic|sort=え}} the [[eldest]] [[sibling]]
+#* {{RQ:Kojiki|poem 16}}, text [http://rcjll.orient.ox.ac.uk/texts/KK.16.html here]
+#*: {{ja-usex|m=加都賀都母 伊夜佐岐陀弖流 '''延'''袁斯麻加牟|m_kana=かつがつも いやさきだてる '''𛀁'''をしまかむ|[[且つ且つ|かつがつ]]もいや先立てる'''兄'''をし枕かむ|かつがつ も いや さきだてる '''え''' を し まかむ|If I have to choose, the one standing there in front―the '''eldest one''' I'll wed.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|series=Volume 1 of A Waka Anthology|edition=illustrated, reprint|publisher=|Stanford University Press|isbn=0-8047-3157-8|page=17}}</ref>}}
+#: {{ant|ja|弟|tr=oto}}
 
-===Etymology 3===
-{{rfe|lang=ja}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|兄%猾|^え%うかし}}
+* {{ja-r|兄磯城|^えしき}}
+* {{ja-r|枝|えだ|[[branch]]}}
+* {{ja-r|兄%鼓|え%つづみ}}
+* {{ja-r|兄%姫|え%ひめ}}
+* {{ja-r|兄%方|え%ほう}}
+* {{ja-r|姉|あね|[[elder]] [[sister]]}}
+* {{ja-r|大%兄|おお%え}}
+* {{ja-r|弟%兄|おとと%い}}, {{ja-r|弟%兄|おとと%え}}
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|せ|yomi=k}}
+
+From {{inh|ja|ojp|sort=|-}}.
+
+====Alternative forms====
+* {{ja-l|夫}}, {{ja-l|背}}
 
 ====Noun====
 {{ja-noun|せ}}
 
-# a woman's brother
-# a woman's lover or husband
+# {{lb|ja|archaic|sort=え}} a [[woman]]'s [[brother]] {{gl|regardless of age difference}}
+# {{lb|ja|archaic|sort=え}} a [[woman]]'s [[lover]] or [[husband]]
+# {{lb|ja|archaic|sort=え}} a [[familiar]] [[man]]
+
+=====Antonyms=====
+* {{ja-r|妹|いも}}
 
 =====Derived terms=====
-* {{l|ja|いろせ|tr=irose}}
-* {{l|ja|汝兄|tr=nase}}
-* {{l|ja|兄子|tr=seko}}
-* {{l|ja|兄な|tr=sena}}
-* {{l|ja|兄ろ|tr=sero}}
+{{der-top}}
+* {{ja-r|兄子|せこ}}
+* {{ja-r|兄な|せな}}, {{ja-r|兄なあ|せなあ}}
+* {{ja-r|兄の君|せ の きみ}}
+* {{ja-r|兄%山|せ%やま}}
+* {{ja-r|兄人|しょうと}}, {{ja-r|兄人|せうと}}
+* {{ja-r|兄ろ|せろ}}
+* {{ja-r|吾兄|あせ}}
+* {{ja-r|妹%兄|いも%せ}}
+* {{ja-r|いろせ|irose}}
+* {{ja-r|汝兄|なせ}}
+* {{ja-r|継%兄|まま%せ}}
+{{der-bottom}}
 
-===Etymology 4===
-Compound of {{m|ja|子|tr=ko||child}} + {{m|ja|の|tr=no||genitive case marker}} + {{m|ja|上|tr=kami||upper}}.
+===Etymology 5===
+{{ja-kanjitab|このかみ|yomi=k}}
+From {{inh|ja|ojp|sort=|-}}.
+
+Originally a compound of {{compound|ja|子|tr1=ko|t1=[[child]]|の|tr2=no|pos2=possessive particle|上|tr3=kami|t3=[[upper]]}}.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>
+
+====Alternative forms====
+* {{ja-l|首}}, {{ja-l|氏上}}
 
 ====Noun====
 {{ja-noun|このかみ}}
 
-# an [[elder]] sibling
+# [[eldest]] [[son]]
+#: {{syn|ja|長兄|tr=chōkei|長男|tr2=chōnan}}
+# a [[senior]]
+#: {{syn|ja|年長者|tr=nenchōsha}}
+# {{lb|ja|by extension}} an [[elder]] [[sibling]]
+# the [[head]] of a [[clan]]
+# a [[skilled]] [[craftsman]]
+#: {{syn|ja|頭|tr=kashira}}
+
+=====Derived terms=====
+* {{ja-r|兄%心|このかみ%-ごころ}}
+* {{ja-r|兄%部|このこう%べ}}
 
 ===References===
 <references/>
