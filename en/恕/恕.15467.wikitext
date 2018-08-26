@@ -4,18 +4,20 @@
 ===Han character===
 {{Han char|rn=61|rad=心|as=06|sn=10|four=46330|canj=VRP|ids=⿱如心}}
 
-# [[forgive]], [[excuse]], [[show]] [[mercy]]
+====Derived characters====
+* {{l|mul|[[𫉅]]}}
 
 ====References====
-* {{Han ref|kx=0384.170|dkj=10560|dj=0715.010|hdz=42293.090|uh=6055|ud=24661|bh=AEA4|bd=44708}}
+{{Han ref|kx=0384.170|dkj=10560|dj=0715.010|hdz=42293.090|uh=6055}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㣽}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|如|心|c1=p|c2=s|t2=heart|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -24,18 +26,19 @@
 |mn=qz:sìr/tw,xm:sù/zz:sì
 |mc=y
 |oc=y
-|cat=
+|cat=v
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# to [[forgive]]; to [[pardon]]; to [[show]] [[mercy]]
 
 ====Compounds====
 {{zh-der|仁恕|宥恕|容恕|寬恕|忠恕|恕宥|恕己及人|恕己及物|恕罪|恕道|情恕理遣|明恕|郭忠恕|饒恕|乞恕|恕道}}
 
 ===References===
+* {{R:twedu|A01349}}
 * {{R:yue:Hanzi}}
 * {{R:nan:thcwdq}}
 
@@ -49,7 +52,13 @@
 # {{defn|lang=ja|sort=心06}}
 
 ====Readings====
-* {{ja-readings|on=[[じょ]] (jo), [[しょ]] (sho)|kun=[[ゆるす]] (yurusu)}}
+{{ja-readings
+|on=じょ, しょ
+|kun=ゆるす
+}}
+
+====Derived terms====
+* {{ja-r|恕する|じょする}}: to [[forgive]]; to [[pardon]]; to [[excuse]]
 
 ----
 
@@ -65,6 +74,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thứ]]|rs=心06}}
+{{vi-hantu|rs=心06|[[thứ]]}}
 
 # {{defn|lang=vi|sort=心06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6055 Nom Foundation]
