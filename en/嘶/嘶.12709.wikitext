@@ -4,12 +4,8 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=12|sn=15|four=62021|canj=RTCL|ids=⿰口斯}}
 
-# [[neigh]]ing of a [[horse]]
-# [[gravelly]] [[voice]]d, [[husky]] voiced
-# {{lb|mul|Cantonese}} to [[hiccough]]
-
 ====References====
-* {{Han ref|kx=0207.140|dkj=04260|dj=0430.120|hdz=10681.060|uh=5636|ud=22070|bh=BC52|bd=48210}}
+{{Han ref|kx=0207.140|dkj=04260|dj=0430.120|hdz=10681.060|uh=5636}}
 
 ----
 
@@ -18,26 +14,44 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|斯|c1=s|c2=p|t1=mouth|ls=psc}}.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=sī
 |c=sai1,si1
+|c_note=si1 - variant
 |h=pfs=sê
 |md=
 |mn=qz:sir/xm,zz:su
 |w=
 |mc=y
 |oc=y
-|cat=
+|cat=v,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# neighing of a [[horse]]; [[gravel]] voiced
-# husky throated
-# to [[hiccough]]
+# [[neigh]]ing of a [[horse]]
+# [[husky]] [[throat]]ed; [[gravel]] [[voice]]d
+#: {{zh-x|嘶啞|[[hoarse]]; [[husky]]}}
+# {{lb|zh|of [[bird]]s; [[insect]]s}} [[mournful]] [[murmur]]; [[whimper]]ing
+#: {{zh-x|天 霜 河 白 夜 星 稀，一 雁 聲 嘶 何處 歸。|ref={{w|Emperor Jianwen of Liang}} {{w2|zh|梁簡文帝}}, 《夜望單飛雁》}}
+# {{lb|zh||onomatopoeia|of various [[sound]]s}} ''eg.'' sound of [[paper]] being [[shred]]ded; [[sob]]bing
+#: {{zh-x|老翁 夜 行 無 子 攜，眼 昏 失 腳 非 有 擠；明日 尋 者 爾 瘦 妻，手 提 幼女 哭 嘶嘶。|ref={{w|Mei Yaochen}} {{w2|zh|梅堯臣}}, 《淘渠》}}
+
+====Compounds====
+{{zh-der|人喊馬嘶|人語馬嘶|力竭聲嘶|嘶叫|嘶吼|嘶啞|嘶喊|嘶喝|嘶噪|嘶聲|嘶鳴|老馬嘶風|聲嘶|聲嘶力竭|蟬嘶|酸嘶|馬嘶|嘶嘶}}
+
+===Etymology 2===
+{{zh-see|𤺊|v|{{lb|zh|Cantonese}} to [[hiccup]]}} <!-- Refer https://zh-yue.wikipedia.org/wiki/打𤺊嗌 -->
+
+===References===
+* {{R:twedu|A00685}}
+* {{R:yue:Hanzi}}
  
 ----
 
@@ -46,7 +60,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=口12}}
 
-# [[neigh]], [[whinny]]
+# to [[neigh]], to [[whinny#Verb|whinny]]
 
 ====Readings====
 {{ja-readings
@@ -76,3 +90,6 @@
 {{vi-hantu|[[tê]]|rs=口12}}
 
 # {{defn|lang=vi|sort=口12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5636 Nom Foundation]
