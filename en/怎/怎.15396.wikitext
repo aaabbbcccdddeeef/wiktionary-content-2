@@ -1,11 +1,15 @@
+{{also|咋}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=61|rad=心|as=05|sn=9|four=80331|canj=HSP|ids=⿱乍心}}
 
+====Derived characters====
+* {{l|mul|[[𠷿]]}}
+
 ====References====
-* {{Han ref|kx=0379.170|dkj=10431|dj=0708.010|hdz=42280.100|uh=600E|ud=24590|bh=ABE7|bd=44007}}
+{{Han ref|kx=0379.170|dkj=10431|dj=0708.010|hdz=42280.100|uh=600E}}
 
 ----
 
@@ -20,8 +24,8 @@ Fusion of {{ltc-l|作|id=3}} + some variant of {{ltc-l|物|thing; what}}, litera
 ===Pronunciation===
 {{zh-pron
 |m=zěn
-|c=zam2,zaam2
-|c_note=dim2 - vernacular, more commonly written as {{zh-l|*點}}
+|c=zam2,zaam2, dim2
+|c_note=zam2 - colloquial; zaam2 - variant; dim2 - vernacular, more commonly written as {{zh-l|*點}}
 |h=pfs=
 |md=cīng
 |mn=xm,zz,tw:chóaⁿ/qz:chài/xm,twv:cháiⁿ/twv:chá/twv:chóa/twv:chái/xm,zz,tw:chím/qz:chérm
@@ -41,8 +45,12 @@ Fusion of {{ltc-l|作|id=3}} + some variant of {{ltc-l|物|thing; what}}, litera
 ====Synonyms====
 {{zh-dial|怎麼}}
 
-===Compounds===
+====Compounds====
 {{zh-der|怎地|怎的|怎敢|怎好|怎麼|怎麼得了|怎麼樣|怎麼著/怎麼着/怎么着|怎奈|怎生|怎樣|怎不|怎麼辦|怎麼會|怎知|不知怎的|不怎麼樣|怎麼搞的|不毬的怎|多怎|怎價|怎向|怎奈向|怎得|怎樣着|怎生向|怎當|怎當得|怎見得|怎許|怎說|按怎}}
+
+===References===
+* {{R:twedu|A01333}}
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -54,13 +62,19 @@ Fusion of {{ltc-l|作|id=3}} + some variant of {{ltc-l|物|thing; what}}, litera
 # {{defn|lang=ja|sort=心05}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin), [[そ]] (so)|kun=[[いかで]] (ikade)}}
+{{ja-readings
+|on=しん, そ, そう
+|kun=いかで
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[chẩm]], [[chẩn]], [[tẩn]], [[trẫm]]|rs=心05}}
+{{vi-hantu|rs=心05|[[chẩm]], [[chẩn]], [[tẩn]], [[trẫm]]}}
 
 # {{defn|lang=vi|sort=心05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=600E Nom Foundation]
