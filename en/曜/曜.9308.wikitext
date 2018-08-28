@@ -49,32 +49,57 @@
 ===Kanji===
 {{ja-kanji|rs=日18|grade=2}}
 
+# [[shine]]
 # [[weekday]]
+# [[day]] {{gl|of the [[week]]}}
 
 ====Readings====
 {{ja-readings
-|on=よう<えう
-|kun=ひかり, かがや-く
+|goon=よう<えう<𛀁う
+|kanon=よう<えう<𛀁う
+|kun=ひか-る, かがや-く
+|nanori=あき, あきら, かぐや, てらす, てる, ひかり
 }}
 
-====Alternative forms====
-* {{m|ja|𫞂}} [U+2B782] (ryakuji)
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|曜日|ようび|[[day]] of the [[week]]}}
+* {{ja-r|曜変%天目|ようへん%-てんもく}}, {{ja-r|曜変|ようへん}}
+* {{ja-r|月曜|げつよう}}, {{ja-r|月曜日|げつようび|[[Monday]]}}
+* {{ja-r|火曜|かよう}}, {{ja-r|火曜日|かようび|[[Tuesday]]}}
+* {{ja-r|吉曜|きちよう|[[lucky]] day}}
+* {{ja-r|金曜|きんよう}}, {{ja-r|金曜日|きんようび|[[Friday]]}}
+* {{ja-r|九曜|くよう}}, {{ja-r|九曜星|くようせい}}
+* {{ja-r|光曜|こうよう}}
+* {{ja-r|黒曜石|こくようせき|[[obsidian]]}}
+* {{ja-r|七曜|しちよう|[[seven]] days of the week}}
+* {{ja-r|水曜|すいよう}}, {{ja-r|水曜日|すいようび|[[Wednesday]]}}
+* {{ja-r|宿曜|^すくよう}}, {{ja-r|宿曜|^しゅくよう}}
+* {{ja-r|土曜|どよう}}, {{ja-r|土曜日|どようび|[[Saturday]]}}<!--
+-* {{ja-r|何曜|なんよう|[[which]] day}}-->
+* {{ja-r|日曜|にちよう}}, {{ja-r|日曜日|にちようび|[[Sunday]]}}
+* {{ja-r|八曜|はちよう}}
+* {{ja-r|木曜|もくよう}}, {{ja-r|木曜日|もくようび|[[Thursday]]}}
+* {{ja-r|両曜|りょうよう}}
+* {{ja-r|六曜|ろくよう|[[six]] [[calendar]] [[label]]s}}
+{{der-bottom}}
 
 ====Usage notes====
-Used for the days of the week, for example [[日]]曜 (nichiyō) or 日曜日 (nichiyōbi) = Sunday.
+Used for the days of the week, for example {{m|ja|日曜|tr=nichiyō}} or {{m|ja|日曜日|tr=nichiyōbi||[[Sunday]]}}.
 
-====Compounds====
-* [[曜威]]
-* [[曜霊]]
-* [[曜日]]
-* [[日曜]], [[日曜日]]
-* [[月曜]], [[月曜日]]
-* [[火曜]], [[火曜日]]
-* [[水曜]], [[水曜日]]
-* [[木曜]], [[木曜日]]
-* [[金曜]], [[金曜日]]
-* [[土曜]], [[土曜日]]
-* [[何曜]], [[何曜日]]
+===Alternative forms===
+* (''ryakuji'') {{ja-l|𫞂}} [U+2B782]
+
+===Etymology===
+{{ja-kanjitab|よう|yomi=o}}
+{{IPAchar|/jieu/}} → {{IPAchar|/jeu/}} → {{IPAchar|/jəː/}} → {{IPAchar|/joː/}}
+
+From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|曜}}.
+
+===Proper noun===
+{{ja-pos|proper|よう|hhira=えう}}
+
+# {{given name|female|A=a|nodot=1|sort=よう}}
 
 ----
 
@@ -84,18 +109,18 @@ Used for the days of the week, for example [[日]]曜 (nichiyō) or 日曜日 (n
 {{ko-hanja|hangeul=요}}
 
 # [[shiny]]
-# [[weekday]] (In this case, usually used with [[日]])
+# [[weekday]] {{gl|in this case, usually used with {{l|ko|日}}}}
 
-====compounds====
-* {{l|ko|요일}}(曜日) [[weekday]]
-* {{l|ko|월요일}}(月曜日) [[Monday]]
-* {{l|ko|화요일}}(火曜日) [[Tuesday]]
-* {{l|ko|수요일}}(水曜日) [[Wednesday]]
-* {{l|ko|목요일}}(木曜日) [[Thursday]]
-* {{l|ko|금요일}}(金曜日) [[Friday]]
-* {{l|ko|토요일}}(土曜日) [[Saturday]]
-* {{l|ko|일요일}}(日曜日) [[Sunday]]
-* {{l|ko|흑요석}}(黑曜石) [[obsidian]]
+====Compounds====
+* {{ko-l|요일|[[weekday]]|曜日}}
+* {{ko-l|월요일|[[Monday]]|月曜日}}
+* {{ko-l|화요일|[[Tuesday]]|火曜日}}
+* {{ko-l|수요일|[[Wednesday]]|水曜日}}
+* {{ko-l|목요일|[[Thursday]]|木曜日}}
+* {{ko-l|금요일|[[Friday]]|金曜日}}
+* {{ko-l|토요일|[[Saturday]]|土曜日}}
+* {{ko-l|일요일|[[Sunday]]|日曜日}}
+* {{ko-l|흑요석|[[obsidian]]|黑曜石}}
 
 ----
 
