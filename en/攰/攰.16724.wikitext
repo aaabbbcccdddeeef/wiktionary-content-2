@@ -1,44 +1,50 @@
+{{also|㩻}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=65|rad=支|as=02|sn=6|four=|canj=JEKS|ids=⿺支力}}
-
-# [[totally]] [[exhausted]]
+{{Han char|rn=65|rad=支|as=02|sn=6|four=44402|canj=JEKS|ids=⿺支力}}
 
 ====References====
-* {{Han ref|kx=0467.050|dkj=02308|hdz=10367.030|uh=6530|ud=25904}}
+{{Han ref|kx=0467.050|dkj=02308|hdz=10367.030|uh=6530}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=癐-tired,㩻}}
-{{zh-wp|yue}}
+{{rfc|zh|</br>* Unattested glyph origin quoted from https://zh-yue.wikipedia.org/wiki/攰</br>* Cantonese pronunciation ''[[gui6]]'' obtained from Unihan database differs from expected fanqie reading of ''[[gwai3]]''</br>* Additional sources needed besides https://yue.forvo.com/word/攰/#yue to verify its pronunciation.</br>* Pronunciation ''[[gwai3]]'', ''[[ci3]]'' obtained from 《粵語同音字典》 may need to be merged with etymology 2 of {{l|zh|㩻#Etymology 2|㩻|gloss='''[[guì]]''' in Mandarin}}}}
 
 ===Glyph origin===
-{{Han compound|支|t1=limb|力|t2=strength|ls=ic}} – [[limbs]] using a lot of strength, which results in [[tiredness]].
+First attested in ''{{w|Jiyun}}'' {{w2|zh|pref=《|集韵|suf=》}} (1037 AD) and ''{{w|Leipian}}'' {{w2|zh|pref=《|类篇|suf=》}} (1066 AD) from the {{w|Song dynasty}}.
 
-===Etymology===
+{{Han compound|支|t1=limb|力|t2=strength|ls=ic}} – [[limbs]] using a lot of [[strength]], which results in [[tiredness]].
+
+===Etymology 1===
+{{zh-forms|alt=癐-tired,㩻}}
+{{zh-wp|yue}}
 {{rfe|zh}}
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
-|m=guì
-|c=gui6
+|c=gui6,gwai3,ci3
+|c_note=gwai3 - based on Middle Chinese
+|mc=
 |cat=a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{lb|zh|Cantonese}} [[tired]]; [[exhausted]]
-# {{†}} {{zh-alt-form|㩻|tr=guì|[[thin]] and [[weak]]}}
+# {{lb|zh|Cantonese}} [[tired]]; [[exhausted]]; [[fatigued]]
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|累}}
 
+===Etymology 2===
+{{zh-see|㩻|v|{{lb|zh|Mandarin}} [[thin]] and [[weak]]; [[fatigue]]; [[total]] [[exhaustion]]}}
+
 ===References===
-* {{R:twedu|C04544}}
+* {{R:twedu|C04544-002#28}}
+* {{qualifier|Cantonese}} {{lang|zh|《粵音資料集叢》}}, Accessed Aug 28 2018 [https://jyut.net/query;q=攰]
 
 ----
 
@@ -50,4 +56,7 @@
 # {{defn|lang=ja|sort=支02}}
 
 ====Readings====
-* {{ja-readings|on=[[き]] (ki)|kun=[[つかれきる]] (tsukarekiru)}}
+{{ja-readings
+|on=き
+|kun=つかれきる
+}}
