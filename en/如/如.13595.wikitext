@@ -1,20 +1,21 @@
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=6}}
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=38|rad=女|as=03|sn=6|four=46400|canj=VR|ids=⿰女口}}
 
 ====Derived characters====
-* [[茹]]
+* {{l|mul|[[侞]], [[𢘾]], [[𫼰]], [[洳]], [[𬍣]], [[𥆃]], [[𥞚]], [[𦀌]], [[袽]], [[銣]]([[铷]]), [[𨚴]], [[𬷑]], [[茹]], [[㾒]], [[筎]], [[𩂰]], [[𬼤]], [[𭄥]], [[帤]], [[𭚯]], [[恕]], [[挐]], [[桇]], [[𤈟]], [[𤥏]], [[𤯥]], [[𥙦]], [[㖲]], [[𥹡]], [[絮]], [[𧊟]], [[䘫]], [[𧧏]], [[𨦔]], [[𨾵]], [[𩶯]], [[鴽]]([[𫛪]]), [[𩴿]]}}
 
 ====References====
-* {{Han ref|kx=0255.210|dkj=06060|hdz=21025.090|uh=5982|ud=22914|bh=A670|bd=42608}}
+{{Han ref|kx=0255.210|dkj=06060|hdz=21025.090|uh=5982}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=⿰女⿶凵人-clerical script}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -43,6 +44,7 @@
 
 ===Definitions===
 {{zh-hanzi}}
+{{rfquote|zh}}
 
 # [[if]]; [[supposing]]
 #* {{zh-x|作者 水平 有限，如 有 錯漏，望 大家 指正。|The author's ability has its limits; feedback regarding errors and omissions is welcome.}}
@@ -50,10 +52,14 @@
 # [[like]]; [[as]]
 # [[such as]]; [[for example]]
 # {{lb|zh|usually with {{zh-l|*不}}}} as [[good]] as
-# {{lb|zh|classical|dialectal}} go to
+# {{lb|zh|classical|dialectal}} to [[go to]]
 
 ===Compounds===
 {{zh-der|如果|如意|如一|如兄|如常|如廁|如雷|如許|如初|一如|如柴|命如紙|不如意|例如|十如是|如何|如寄|如弟|不如|如故|假如|九如鄉|不弱如|如今|恰如|恍如|如舊|儼如|如同|如是|如來藏|如泥|匹如|如椽筆|如律令|宛如|如字|如願|如雲|如雨|如約|如次|如期|如晤|如斯|如數|如擬|如兄弟|如來|不如歸|如夫人|六如|九如|何如帖|且如|如此|何如|匹如閒|匹如閑|勃如|倒不如|明如翦|洒如|把如|白如玉|猶如|有如|皦如|癢如如|真如|柳如是|無如|煞強如|焚如|比如|晏如|紛如煙|蔑如|艾如張|賁如|醉如泥|遠不如|譬如閒|馬相如|門如市|紞如|顏如玉|鬢如漆|自如|邠如|闕如|莫如|過如|藹如|純如|裕如|觖如|翕如|譬如|謐如|至如|索強如}}
+
+===References===
+* {{R:twedu|A00885}}
+* {{R:yue:Hanzi}}
 
 {{zh-cat|Elementary|Elementary}}
 
@@ -64,13 +70,44 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=女03}}
 
-# to seem
+# [[likeness]]; [[such as]]; to [[seem]]; [[as if]]
 
 ====Readings====
 {{ja-readings
 |goon=にょ
 |kanon=じょ
 |kun=ごと-く, し-く, ゆく
+}}
+
+====Compounds====
+* {{ja-r|如何|どう}} / {{ja-r|如何|いかが}}: in [[what]] [[manner]]; [[how]]
+
+===Etymology 1===
+{{ja-kanjitab|にょ|yomi=goon}}
+From {{der|ja|ltc|sort=にょ|-}} {{ltc-l|如}}.
+
+====Pronunciation====
+{{ja-pron|y=go|にょ}}
+
+====Derived terms====
+{{der2|lang=ja
+|{{ja-r|如実|にょじつ}}: {{lb|ja|Buddhism}} [[ultimate]] [[reality]]; [[absolute]] [[truth]]
+|{{ja-r|如来|にょらい}}: {{lb|ja|Buddhism}} {{w|Tathāgata}}
+|{{ja-r|真如|しんにょ}}: {{lb|ja|Buddhism}} [[suchness]]
+|{{ja-r|不如意|ふにょい}}: [[thing]]s [[gone]] [[awry]]; [[shortage]] of [[money]]; [[financial]] [[difficulty]]
+}}
+
+===Etymology 2===
+{{ja-kanjitab|じょ|yomi=kanon}}
+
+====Pronunciation====
+{{ja-pron|y=kan|じょ}}
+
+====Derived terms====
+{{der2|lang=ja
+|{{ja-r|欠如|けつじょ}}: [[shortage]]; [[deficiency]]
+|{{ja-r|突如|とつじょ}}: [[suddenly]]; [[all]] of a [[sudden]]
+|{{ja-r|躍如|やくじょ}}: [[vivid]]; [[lifelike]]
 }}
 
 ----
@@ -87,6 +124,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[như]], [[nhơ]], [[dừ]], [[nhừ]], [[rừ]], [[nhượng]]|rs=女03}}
+{{vi-hantu|rs=女03|[[như]], [[nhơ]], [[dừ]], [[nhừ]], [[rừ]]}}
 
 # {{defn|lang=vi|sort=女03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5982 Nom Foundation]
