@@ -1,19 +1,22 @@
 {{also|せ|ㄝ}}
 {{character info/new}}
 ==Translingual==
-{{stroke order|stroke=3}}
+{{stroke order|strokes=3}}
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=5|rad=乙|as=02|sn=3|four=44712|canj=PD|ids=⿻乜丨}}
 
+====Derived characters====
+* {{l|mul|[[他]], [[吔]], [[地]], [[她]], [[弛]], [[彵]], [[忚]], [[扡]], [[池]], [[阤]], [[肔]], [[杝]], [[灺]], [[牠]], [[迆]], [[祂]], [[䄬]], [[毑]], [[䊶]], [[虵]], [[衪]], [[訑]], [[𫍙]], [[貤]], [[酏]], [[釶]], [[䪧]], [[馳]], [[驰]], [[䶔]], [[乸]], [[㐌]], [[㦾]], [[竾]], [[髢]], [[匜]]}}
+
 ====Descendants====
-* [[ㄝ]]
-* [[や]]
-* [[ヤ]]
+* {{ja-l|ㄝ}} ''([[bopomofo|Zhuyin alphabet]])''
+* {{ja-l|や}} ''([[Hiragana]] character derived from {{w|Man'yōgana}})''
+* {{ja-l|ヤ}} ''([[Katakana]] character derived from {{w|Man'yōgana}})''
 
 ====References====
-* {{Han ref|kx=0084.040|dkj=00171|dj=0170.040|hdz=10050.050|uh=4E5F|ud=20063|bh=A45D|bd=42077}}
+{{Han ref|kx=0084.040|dkj=00171|dj=0170.040|hdz=10050.050|uh=4E5F}}
 
 [[Category:Han characters from which hiragana were derived|や]]
 [[Category:Han characters from which katakana were derived|ヤ]]
@@ -24,7 +27,7 @@
 {{zh-forms|alt=𠃟,𦫴,𦬀,𠔄,𠃒}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 Uncertain. There are various possible explanations:
 # The traditional glyph origin given in ''{{w|Shuowen}}'' explains the character to be a {{liushu|p|nocap=1}} of female genitalia.
 # It is possibly a {{liushu|p|nocap=1}} of an ancient funnel or wash basin. It may be an early form of {{zh-l|*匜}}.
@@ -114,10 +117,18 @@ As an alternative form of {{m|ja|迆}}:
 {{ja-kanjitab|なり|yomi=k}}
 From classical Japanese {{m|ja|なり|tr=nari}}, a contraction of {{m|ja|に|tr=ni}} and {{m|ja|あり|tr=ari}}.
 
+===Pronunciation===
+{{ja-pron|なり|y=k}}
+
 ===Verb===
 {{ja-verb|なり}}
 
-# {{non-gloss definition|The classical Japanese copula “to be”, equivalent to modern Japanese {{m|ja|である|tr=de aru}} or {{m|ja|だ|tr=da}}.}}
+# {{n-g|The classical Japanese copula “[[to be]]”, equivalent to modern Japanese {{m|ja|である|tr=de aru}} or {{m|ja|だ|tr=da}}.}}
+
+====Derived terms====
+{{der2|lang=ja|title=Terms derived from {{ja-r|也|なり}}:
+|{{ja-r|可也|かなり}}: [[considerably]]; [[quite]]
+}}
 
 ====Usage notes====
 The kanji form is usually used to denote a sum of money, e.g. {{m|ja|[[二]][[千]][[円]][[也]]|tr=nisen en nari}}. <!-- also in the Nyaruko OP "Koi wa KAOSU no Shimobe nari" -->
@@ -139,9 +150,13 @@ The kanji form is usually used to denote a sum of money, e.g. {{m|ja|[[二]][[�
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[dã]], [[dạ]], [[giã]]|rs=乙02}}
+{{vi-readings|rs=乙02
+|hanviet=giã, dã
+|nom=dạ, dã, giã, rã
+}}
 
 # {{defn|lang=vi|sort=乙02}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=4e5f Nom Foundation]
+===References===
+* Hồ Lê (1976). ''Bảng Tra Chữ Nôm''. Hanoi: ''Viện Ngôn Ngữ Học''.
+* Nguyễn, Quang Hồng (2014). ''Tự Điển Chữ Nôm Dẫn Giải'' (Nôm Characters with Quotations and Annotations). Hanoi: ''Nhà xuất bản Khoa học Xã hội'' (Social Sciences Publishing House).
