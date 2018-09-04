@@ -6,16 +6,24 @@
 ===Han character===
 {{Han char|rn=10|rad=儿|as=06|sn=8|four=77217|canj=HXHU|ids=⿱臼儿}}
 
+====Derived characters====
+* {{l|mul|[[倪]], [[唲]], [[堄]], [[婗]], [[掜]], [[淣]], [[猊]], [[𨺙]], [[晲]], [[腉]], [[棿]], [[睨]], [[䍲]], [[䋩]], [[聣]], [[蜺]], [[䘽]], [[觬]], [[誽]], [[貎]], [[輗]]([[𫐐]]), [[䮘]], [[鯢]]([[鲵]]), [[鶃]], [[齯]]([[𫠜]]), [[郳]], [[㪒]], [[鶂]]([[𬷼]]), [[萖]], [[𮅙]], [[䦧]]([[阋]]), [[霓]], [[鬩]], [[麑]]}}
+
+====Related characters====
+* {{l|mul|[[児]]}} ''(Japanese [[shinjitai]], also a {{w|Variant Chinese character|variant form}})''
+* {{l|mul|[[儿]]}} ''([[Simplified Chinese]])''
+
 ====References====
-* {{Han ref|kx=0125.030|dkj=01365|dj=0265.060|hdz=10272.050|uh=5152|ud=20818|bh=A8E0|bd=43232}}
+{{wikidata|Q56458227}}
+{{Han ref|kx=0125.030|dkj=01365|dj=0265.060|hdz=10272.050|uh=5152}}
 
 ----
 
 ==Chinese==
 
 ===Glyph origin===
-{{Han etyl}}
-{{liushu|p}}: an infant with an imperfect cranium (i.e. [[w:fontanelle|fontanelles]]).
+{{Han etym}}
+{{liushu|p}}: an infant with an imperfect cranium (i.e. [[fontanelle]]).
 
 ===Etymology 1===
 {{zh-forms|s=儿|alt=児}}
@@ -38,9 +46,9 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} [[child]]
+# {{zh-no-solo}} [[child]]
 #* {{zh-x|兒童|child}}
-# {{†}} [[son]]
+# {{zh-no-solo}} [[son]]
 #* {{zh-x|兒子|son}}
 # {{n-g|Non-syllabic noun diminutive suffix in Mandarin. See [[erhua]].}}
 
@@ -76,25 +84,15 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=儿06|shin=児}}
 
-# [[child]]
-# [[young]] of [[animals]]
+# {{kyujitai|児||[[child]]; [[young#Noun|young]] of [[animal]]s}}
+# {{n-g|Used in personal names}}.
 
 ====Readings====
-* {{ja-readings|kanon=[[じ]] (ji), [[げい]] (gei)|goon=[[に]] (ni), [[げ]] (ge)|kun=[[こ]] (ko)|nanori=[[ちご]]}} (chigo)
-
-====References====
-{{ja-kref
-|jis=513B
-|ku=4927
-|shift=995A
-|euc=D1BB
-|freq=''not ranked''
-|nelson=3850
-|newnelson=357
-|halpern=2625
-|kld=''not listed''
-|heisig=''not listed''
-|tuttle=4c3.3
+{{ja-readings
+|kanon=じ, げい
+|goon=に, げ
+|kun=こ
+|nanori=ちご
 }}
 
 ----
@@ -114,6 +112,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[nhi]], [[nghê]], [[nhẻ]]|rs=儿06}}
+{{vi-readings|rs=儿06
+|hanviet=nhi
+|nom=nhi, nghê, nhẻ
+}}
 
 # {{defn|lang=vi|sort=儿06}}
