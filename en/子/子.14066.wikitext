@@ -141,33 +141,69 @@ Cognate with {{och-l|字|character; letter}}, {{och-l|慈|loving; kind}}, {{och-
 ===Kanji===
 {{ja-kanji|grade=1|rs=子00}}
 
+# [[child]]
+# {{n-g|[[honorific]] for an [[adult]] [[man]]}}
+# {{n-g|[[honorific]] for a [[learned]] man}}, [[master]]
+# [[man]] ''in general''
+# {{n-g|[[fourth]] [[rank]] of [[nobility]] in {{w|Meiji period|Meiji}}-[[postwar]] Japan}}, [[viscount]]
+# [[egg]], [[fruit]], [[seed]]
+# [[small]] [[object]]
+# [[interest]]
+# {{n-g|[[diminutive]] [[suffix]]}}
+# [[Rat]] {{gl|{{w|Earthly Branches|earthly branch}}}}
+
 ====Readings====
 {{ja-readings
 |goon=し
 |kanon=し
 |toon=す
+|soon=つ
 |kun=こ-, ね-, み-
 |nanori=さね, しげ, しげる, たか, ただ, たね, ちか, つぐ, とし, みる, やす
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|硝子|ガラス}}: [[glass]]
+* {{ja-r|老子|^ろうし}}
+* {{ja-r|柚餅子|ゆべし}}
+* {{ja-r|浮子|うき|rom=-}}, {{ja-r|泛子|うき}}
+* {{ja-r|浮塵子|ウンカ}}
+* {{ja-r|御虎子|おまる}}
+* {{ja-r|帷子|かたびら}}
+* {{ja-r|硝子|ガラス|[[glass]]}}
+* {{ja-r|鱲子|からすみ}}
+* {{ja-r|餃%子|ギョー%ザ}}
+* {{ja-r|胡頽子|グミ}}
+* {{ja-r|賽子|さいころ|rom=-}}., {{ja-r|骰子|さいころ}}
+* {{ja-r|餃%子|チャオ%ズ}}
+* {{ja-r|刷子|はけ}}
+* {{ja-r|黒子|ははくそ}}, {{ja-r|黒子|ははくろ}}
+* {{ja-r|黒子|ほくろ}}
+* {{ja-r|子規|ほととぎす}}
+* {{ja-r|角子|みずら}}
+* {{ja-r|郁子|ムベ}}, {{ja-r|郁子|ウベ}}
+* {{ja-r|刷子|ブラシ}}
+* {{ja-r|没%法%子|メー%ファー%ズ}}
+* {{ja-r|面%子|メン%ツ}}
 {{der-bottom}}
 
 ====Usage notes====
-子 is also an obsolete variant form of the katakana {{m|ja|ネ|tr=ne}}.
+{{ja-l||子}} is also an obsolete variant form of the katakana {{m|ja|ネ|tr=ne}}.
 
 ===Etymology 1===
 {{ja-kanjitab|こ|yomi=k}}
-From {{inh|ja|ojp|-|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen in the [[w:Kojiki|''Kojiki'']] and the [[w:Man'yōshū|''Man'yōshū'']], two of the oldest examples of written Japanese. Cognate with {{m|ja|蚕|tr=ko||silkworm}}. Also possibly cognate with {{m|ja|小|tr=ko||little|pos=diminutive prefix}}.
+{{IPAfont|⟨ko<sub>1</sub>⟩}} → *{{IPAchar|/kʷo/}} → {{IPAchar|/ko/}}
+
+From {{inh|ja|ojp|-|sort=こ}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> attested in the ''{{w|Kojiki}}'' (712 {{CE}}) and the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}), two of the oldest examples of written Japanese.
+
+Cognate with {{m|ja|蚕|tr=ko||[[silkworm]]}} and possibly {{m|ja|小|tr=ko||[[little]]|pos=diminutive prefix}}.
 
 ====Pronunciation====
 {{ja-pron|y=k|こ|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
-* {{s|child}} {{ja-l|児}} {{qualifier|less commonly used}}
-* {{s|girl}} {{ja-l|娘}}
+* {{s|[[child]]}} {{ja-l|児}} {{qualifier|less commonly used}}
+* {{s|[[girl]]}} {{ja-l|娘}}
 
 ====Noun====
 {{ja-noun|こ|count=人}}
@@ -192,15 +228,13 @@ From {{inh|ja|ojp|-|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen
 |publisher=Shueisha
 |date=Oct 20 2007
 |isbn=978-4-08-109486-8
-|translation=He later had 8 children with Serdia of Ragna
+|translation=He later had 8 '''children''' with Serdia of Ragna
 |transliteration=''Nochi ni Raguna no Serudia to musubare hachi-nin no '''ko''' o mōketa''}}
 # {{lb|ja|sort=こ|figuratively}} a [[girl]], especially a [[dear]] or [[desire]]d one {{qualifier|compare use of English {{m|en|baby}}, {{m|en|babe}}}}
-#* {{RQ:Manyoshu|7|1266}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1266 text here]
-#*: 大舟乎 荒海尓榜出 八船多氣 吾見之'''兒'''等之 目見者知之母
-#*:: 大船を 荒海に漕ぎ出で や船たけ 我が見し'''子'''らが まみはしるしも
-#*:: おほぶねを あるみにこぎで やふねたけ わがみし'''こ'''らが まみはしるしも
-#*:: ''Ōbune o / arumi ni kogi de / ya fune take / waga mishi '''ko'''ra ga / mami wa shirushi mo''
-#*:: Rowing the big boat into the rough seas, putting our backs into it, the looks of those '''girl'''s I saw are clear [in my mind]
+#* {{RQ:Manyoshu|7|1266}}, text [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1266 here]
+#*: {{ja-usex|m=大舟%乎 荒海%尓%榜%出 八%船多%氣 吾%見之'''兒'''等之 目見者%知%之母|m_kana=おほぶね%を あるみ%に%こぎ%で や%ふね%たけ わが%みし'''こ'''らが まみは%しるし%も
+|大船を荒海に漕ぎ出や船たけ我が見し'''子'''らがまみはしるしも
+|おほぶね を あるみ に こぎ で や ふね たけ わが みし '''こ'''ら が まみ は しるし も|rom=ōbune o arumi ni kogi de ya fune take waga mishi '''ko'''ra ga mami wa shirushi mo|Rowing the big boat into the rough seas, putting our backs into it, the looks of those '''girl'''s I saw are clear [in my mind]|sort=こ}}
 # a [[smaller]] or [[younger]] [[version]] of a bigger object
 #: {{lang|ja|きの'''こ'''}} — ''kino'''ko''''' — a "tree's '''child / little one'''": a mushroom
 #: {{lang|ja|竹の'''子'''}} — {{lang|ja|たけの'''こ'''}} — ''takeno'''ko''''' — a "bamboo's '''child / little one'''": a bamboo '''shoot'''
@@ -208,16 +242,16 @@ From {{inh|ja|ojp|-|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|お子さん|おこさん}}: [[child]] {{qualifier|when addressing or referring to someone else's}}
-* {{ja-r|子供|こども}}: a [[child]], [[children]]
-* {{ja-r|子守|こもり}}: a [[babysitter]], a [[nurse]]; [[babysitting]]
-* {{ja-r|子守歌|こもり うた}}: a [[lullaby]], a [[nursery]] [[song]]
-* {{ja-r|間の子|あい の こ}}, {{ja-r|合いの子|あい の こ}}: a child of racially different parents; a [[hybrid]] [[organism]]; something with the [[qualities]] of two other things, a combination
-* {{ja-r|豕|いのこ}}, {{ja-r|猪子|いのこ}}, {{ja-r|猪の子|いのこ}}: a [[wild]] [[pig]]; a [[wild]] [[piglet]]
-* {{ja-r|芋の子|いも の こ}}: a smaller [[tuber]] branching from another [[potato]]
-* {{ja-r|茸|きのこ}}: a [[mushroom]]
-* {{ja-r|筍|たけのこ}}: a [[bamboo]] [[shoot]]
-* {{ja-r|彦|ひこ}}
+* {{ja-r|子%供|こ%ども|[[child]], [[children]]}}
+* {{ja-r|子%守|こ%もり|[[babysitter]], [[nurse]]; [[babysitting]]}}
+* {{ja-r|子守歌|こもり うた|[[lullaby]], a [[nursery]] [[song]]}}
+* {{ja-r|間の子|あい の こ|rom=-}}, {{ja-r|合いの子|あい の こ|child of [[racial]]ly different [[parent]]s; [[hybrid]] [[organism]]; something with the [[qualities]] of two other things, [[combination]]}}
+* {{ja-r|豕|いのこ|rom=-}}, {{ja-r|猪子|いのこ|rom=-}}, {{ja-r|猪の子|いのこ|[[wild]] [[pig]] or [[piglet]]}}
+* {{ja-r|芋の子|いも の こ|a smaller [[tuber]] branching from another [[potato]]}}
 * {{ja-r|男|おとこ}}
+* {{ja-r|茸|きのこ|[[mushroom]]}}
+* {{ja-r|筍|たけのこ|[[bamboo]] [[shoot]]}}
+* {{ja-r|彦|ひこ}}
 * {{ja-r|息%子|むす%こ}}
 {{der-bottom}}
 
@@ -225,19 +259,19 @@ From {{inh|ja|ojp|-|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen
 {{ja-pos|prefix|こ}}
 
 # an [[object]] which has a [[subservient]] or [[derivative]] role relative to another object
-#: {{lang|ja|'''子'''会社}} {{lang|ja|'''こ'''がいしゃ}} — '''''ko'''''gaisha — a subsidiary
-#: {{lang|ja|'''子'''犬}} — {{lang|ja|'''こ'''いぬ}} — '''''ko'''inu'' — a puppy
+#: {{ja-l|子会社|'''子'''会社}} — {{lang|ja|'''こ'''がいしゃ}} — '''''ko'''''gaisha — a [[subsidiary]]
+#: {{ja-l|子犬|'''子'''犬}} — {{lang|ja|'''こ'''いぬ}} — '''''ko'''inu'' — a [[puppy]]
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|子犬|こいぬ}}: a [[puppy]]
-* {{ja-r|子会社|こがいしゃ}}: a [[subsidiary]]
+* {{ja-r|子犬|こいぬ|[[puppy]]}}
+* {{ja-r|子会社|こがいしゃ|[[subsidiary]]}}
 {{der-bottom}}
 
 ====Suffix====
 {{ja-pos|suffix|こ}}
 
-# suffix used in female given names, such as {{ja-l|智子|ともこ|Tomoko}}, {{ja-l|英子|えいこ|Eiko}}, {{ja-l|秀子|ひでこ|Hideko}}, {{ja-l|美奈子|みなこ|Minako}}
+# suffix used in female given names, such as {{ja-l|智子||Tomoko}}, {{ja-l|英子||Eiko}}, {{ja-l|秀子||Hideko}}, {{ja-l|美奈子||Minako}}
 # {{lb|ja|sort=こ|rare}} suffix used in male given names
 # an [[object]] having a particular [[state]] or [[property]] {{qualifier|sometimes [[diminutive]]}}
 #: {{lang|ja|振'''子'''}} — {{lang|ja|ふり'''こ'''}} — ''furi'''ko''''' — an object that swings: a pendulum
@@ -247,18 +281,18 @@ From {{inh|ja|ojp|-|sort=こ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Seen
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|穴子|あなご}}: [[conger eel]]
-* {{ja-r|団子|だんご}}: a [[dango]], a kind of [[dumpling]]
-* {{ja-r|糠子|ぬかご}}: [[biting midge]]
-* {{ja-r|愛子|まなご}}: [[beloved]] [[child]]
+* {{ja-r|穴%子|アナ%ゴ|[[conger eel]]}}
+* {{ja-r|団子|だんご|[[dango]]|pos=a kind of [[dumpling]]}}
+* {{ja-r|糠%子|ぬか%ご|[[biting midge]]}}
+* {{ja-r|愛%子|まな%ご|[[beloved]] [[child]]}}
 {{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|す|yomi=o}}
 {{ja-kanjitab|し|yomi=o}}
-From {{etyl|ltc|ja|sort=し}} {{m|zh|子|tr=tsiX}}. Compare modern {{etyl|cmn|-}} {{m|zh|子|tr=zǐ}}.
+From {{bor|ja|ltc|sort=し|-}} {{ltc-l|子}}. Compare modern {{cog|cmn|子|tr=zǐ}}.
 
-The {{l|ja|呉音|sc=Latn|''goon''}} reading of ''shi'' is likely the original borrowing. The {{l|ja|唐音|sc=Latn|''tōon''}} reading ''su'' appears later, and only shows up in certain set terms borrowed from Chinese, where it seems to serve as a kind of nominalizing suffix.
+The ''{{ll|ja|呉音|goon}}'' reading of ''shi'' is likely the original borrowing. The ''{{ll|ja|唐音|tōon}}'' reading ''su'' appears later, and only shows up in certain set terms borrowed from {{bor|ja|zh|sort=す|-}}, where it seems to serve as a kind of nominalizing suffix.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|し|acc=1|acc_ref=DJR}}
@@ -280,72 +314,74 @@ The {{l|ja|呉音|sc=Latn|''goon''}} reading of ''shi'' is likely the original b
 * In some compounds, the ''shi'' or ''su'' reading becomes voiced as ''ji'' or ''zu'' due to [[Appendix:Japanese_glossary#rendaku|rendaku]].
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|音子|おんし}}: [[phonon]]
-* {{ja-r|光子|こうし}}: [[photon]]
-* {{ja-r|子院|し.いん}}: a [[branch]] [[temple]]
-* {{ja-r|子音|しおん}}: a [[consonant]]
-* {{ja-r|子器|しき}}: the [[reproductive organ]] of [[fungi]] in [[phylum]] [[Ascomycota]]: the [[ascocarp]]
-* {{ja-r|子宮|しきゅう}}: the [[uterus]], the [[womb]]
-* {{ja-r|子午|しご}}: running [[north]] and [[south]]
-* {{ja-r|子細|しさい}}: a [[detail]], a [[particular]]; a [[circumstance]]
-* {{ja-r|子史|しし}}:
-* {{ja-r|子実層|しじつそう}}: the [[hymenium]] of certain [[fungi]]
-* {{ja-r|子実体|しじつたい}}: the [[sporocarp]] or [[fruiting body]] of certain [[fungi]]
-* {{ja-r|子爵|ししゃく}}: a [[viscount]]
-* {{ja-r|子女|しじょ}}: [[children]]; a [[girl]], a [[daughter]]
-* {{ja-r|子銭|しせん}}: [[interest]] earned on a [[loan]]
-* {{ja-r|子息|しそく}}: a [[boy]], a [[son]]
-* {{ja-r|子孫|しそん}}: a [[descendant]]
-* {{ja-r|子弟|してい}}: [[children]], [[young]] [[people]]
-* {{ja-r|子道|しどう}}: one's [[duty]] to one's children
-* {{ja-r|子嚢|しのう}}: the [[ascus]] or [[pericarp]] of certain [[fungi]]
-* {{ja-r|子婦|しふ}}: a [[daughter-in-law]]
-* {{ja-r|子母銭|しぼせん}}: [[money]], [[principal]] and [[interest]]
-* {{ja-r|子母沢|^しもわざ}}: a [[surname]]
-* {{ja-r|子法|しほう}}: a [[law]] based on a law in another country
-* {{ja-r|子房|しぼう}}: an [[ovary]]
-* {{ja-r|子本|しほん}}: [[principal]] and [[interest]]
-* {{ja-r|子夜|しや}}: [[midnight]]
-* {{ja-r|子葉|しよう}}: the [[cotyledon]] or [[seed leaf]], the first [[leaf]] of a sprouting plant
-* {{ja-r|晶子|しょうし}}: [[crystallite]]
-* {{ja-r|松子|しょうし}}: [[pinecone]]
-* {{ja-r|硝子|しょうし}}: [[glass]]
-* {{ja-r|喞子|しょくし}}: [[piston]]
-* {{ja-r|子来|しらい}}: the [[love]] of the [[populace]] for a [[just]] [[ruler]]
-* {{ja-r|子癇|しかん}}: [[eclampsia]]
-{{der-mid}}
-* {{ja-r|烏帽子|えぼし}}: the formal black [[peaked]] [[cap]] worn by [[nobility]]
-* {{ja-r|菓子|かし}}: [[candy]]
-* {{ja-r|精子|せいし}}: [[spermatozoon]]
-* {{ja-r|卓子|たくし}}: {{qualifier|rare}} a [[table]]
-* {{ja-r|中性子|ちゅうせいし}}: a [[neutron]]
-* {{ja-r|電子|でんし}}: an [[electron]]
-* {{ja-r|螺子|ねじ}}, {{ja-r|捻子|ねじ}}, {{ja-r|捩子|ねじ}}: a [[screw]]
-* {{ja-r|胞子|ほうし}}: a [[spore]]
-* {{ja-r|烽子|ほうし}}: a [[courier]] or [[messenger]] in ancient Japan
-* {{ja-r|亡子|ぼうし}}: a [[dead]] [[child]]
-* {{ja-r|帽子|ぼうし}}: a [[hat]], a [[cap]]
-* {{ja-r|眸子|ぼうし}}: the [[pupil]] of the [[eye]] {{qualifier|rare}}
-* {{ja-r|鋩子|ぼうし}}: the [[tip]] of a [[sword]] or [[knife]]
-* {{ja-r|拍子|ひょうし}}: [[rhythm]]
-* {{ja-r|椅子|いす}}: a [[chair]]
-* {{ja-r|茄子|なす}}: [[eggplant]]
-* {{ja-r|様子|ようす}}: [[appearances]], the [[situation]], [[circumstances]]
-* {{ja-r|卵子|らんし}}: [[ovum]]
-* {{ja-r|利子|りし}}: [[interest]]
-* {{ja-r|量子|りょうし}}: [[quantum]]
+{{der-top3}}
+* {{ja-r|子院|し.いん|a [[branch]] [[temple]]}}
+* {{ja-r|子音|しおん|a [[consonant]]}}
+* {{ja-r|子器|しき|[[ascocarp]]}}
+* {{ja-r|子宮|しきゅう|the [[uterus]], the [[womb]]}}
+* {{ja-r|子午|しご|[[run]]ning [[north]] and [[south]]}}
+* {{ja-r|子細|しさい|a [[detail]], a [[particular]]; a [[circumstance]]}}
+* {{ja-r|子史|しし}}
+* {{ja-r|子実層|しじつそう|the [[hymenium]] of certain [[fungi]]}}
+* {{ja-r|子実体|しじつたい|the [[sporocarp]] or [[fruiting body]] of certain [[fungi]]}}
+* {{ja-r|子爵|ししゃく|[[viscount]]}}
+* {{ja-r|子女|しじょ|[[children]]; a [[girl]], a [[daughter]]}}
+* {{ja-r|子銭|しせん|[[interest]] earned on a [[loan]]}}
+* {{ja-r|子息|しそく|[[boy]], [[son]]}}
+* {{ja-r|子孫|しそん|[[descendant]]}}
+* {{ja-r|子弟|してい|[[children]], [[young]] [[people]]}}
+* {{ja-r|子道|しどう|one's [[duty]] to one's children}}
+* {{ja-r|子嚢|しのう|[[ascus]] or [[pericarp]] of certain [[fungi]]}}
+* {{ja-r|子婦|しふ|[[daughter-in-law]]}}
+* {{ja-r|子母銭|しぼせん|[[money]], [[principal]] and [[interest]]}}
+* {{ja-r|子母沢|^しもわざ|pos=a [[surname]]}}
+* {{ja-r|子法|しほう|[[law]] based on a law in another country}}
+* {{ja-r|子房|しぼう|[[ovary]]}}
+* {{ja-r|子本|しほん|[[principal]] and [[interest]]}}
+* {{ja-r|子夜|しや|[[midnight]]}}
+* {{ja-r|子葉|しよう|[[cotyledon]] or [[seed leaf]], the first [[leaf]] of a sprouting plant}}
+* {{ja-r|子来|しらい|[[love]] of the [[populace]] for a [[just]] [[ruler]]}}
+* {{ja-r|子癇|しかん|[[eclampsia]]}}
+* {{ja-r|音子|おんし|[[phonon]]}}
+* {{ja-r|光子|こうし|[[photon]]}}
+* {{ja-r|晶子|しょうし|[[crystallite]]}}
+* {{ja-r|松子|しょうし|[[pinecone]]}}
+* {{ja-r|硝子|しょうし|[[glass]]}}
+* {{ja-r|喞子|しょくし|[[piston]]}}
+* {{ja-r|椅子|いす|rom=-}}, {{ja-r|倚%子‎|い%す|[[chair]]}}
+* {{ja-r|烏帽子|えぼし|formal black [[peaked]] [[cap]] worn by [[nobility]]}}
+* {{ja-r|菓子|かし|[[candy]]}}
+* {{ja-r|精子|せいし|[[spermatozoon]]}}
+* {{ja-r|卓%子|たく%し|[[table]]}}
+* {{ja-r|中性子|ちゅうせいし|[[neutron]]}}
+* {{ja-r|電子|でんし|[[electron]]}}
+* {{ja-r|螺子|ねじ|rom=-}}, {{ja-r|捻子|ねじ|rom=-}}, {{ja-r|捩子|ねじ|[[screw]]}}
+* {{ja-r|胞子|ほうし|[[spore]]}}
+* {{ja-r|烽子|ほうし|[[courier]] or [[messenger]] in ancient Japan}}
+* {{ja-r|亡子|ぼうし|[[dead]] [[child]]}}
+* {{ja-r|帽子|ぼうし|[[hat]], a [[cap]]}}
+* {{ja-r|眸子|ぼうし|[[pupil]] of the [[eye]]}}
+* {{ja-r|鋩子|ぼうし|[[tip]] of a [[sword]] or [[knife]]}}
+* {{ja-r|拍子|ひょうし|[[rhythm]]}}
+* {{ja-r|茄子|なす|[[eggplant]]}}
+* {{ja-r|様子|ようす|[[appearances]]; [[situation]], [[circumstances]]}}
+* {{ja-r|卵子|らんし|[[ovum]]}}
+* {{ja-r|利子|りし|[[interest]]}}
+* {{ja-r|量子|りょうし|[[quantum]]}}
 {{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|proper|し}}
 
-# the {{w|Rat (zodiac)|Rat}}, the first of the twelve {{w|Earthly Branches}}
+# the [[Rat]], the first of the twelve {{w|Earthly Branches}}
 
 ===Etymology 3===
-{{ja-kanjitab|ね|yomi=k}}
+<div style="float:right;">
 {{wp|lang=ja|子 (十二支)}}
-Contracted from {{m|ja|鼠|tr=nezumi||[[rat]]; [[mouse]]}}
+{{wp|Rat (zodiac)}}
+</div>
+{{ja-kanjitab|ね|yomi=k}}
+Contracted from {{m|ja|鼠|tr=nezumi||[[rat]], [[mouse]]}}
 
 ====Pronunciation====
 {{ja-pron|acc=0|y=k|ね}}
@@ -353,7 +389,7 @@ Contracted from {{m|ja|鼠|tr=nezumi||[[rat]]; [[mouse]]}}
 ====Proper noun====
 {{ja-pos|proper|ね}}
 
-# the {{w|Rat (zodiac)|Rat}}, the first of the twelve {{w|Earthly Branches}}
+# the [[Rat]], the first of the twelve {{w|Earthly Branches}}
 
 ===References===
 <references/>
