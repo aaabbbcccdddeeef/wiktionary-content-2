@@ -78,8 +78,8 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 ===Kanji===
 {{ja-kanji|grade=2|rs=木04}}
 
-# {{l|en|east}}
-# {{l|en|spring}} {{gl|{{w|Wu Xing}}}}
+# [[east]]
+# [[spring]] {{gl|{{w|Wu Xing}}}}
 
 ====Readings====
 {{ja-readings
@@ -126,7 +126,7 @@ The ''{{m|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 &#42;{{IPAchar|/pimukasi/}} → {{IPAchar|/fimukasi/}} → {{IPAchar|/himukaɕi/}}
 
-From {{inh|ja|ojp|-|sort=ひむかし}}.  Found in the ''{{w|Man'yōshū}}'' dated 759 CE, but consistently spelled with the single kanji rather than in {{w|man'yōgana}}, thus leaving the reading unspecified.<ref name="MYS">{{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]</ref>  Compound of {{compound|lang=ja|sort=ひむかし|日|tr1=hi|t1={{l|en|sun}}|向か|tr2=muka|t2={{l|en|facing}}, {{l|en|direction}}|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku||to face a direction}}|風|tr3=shi|t3={{l|en|wind}}, direction}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+From {{inh|ja|ojp|-|sort=ひむかし}}.  Found in the ''{{w|Man'yōshū}}'' dated 759 CE, but consistently spelled with the single kanji rather than in {{w|man'yōgana}}, thus leaving the reading unspecified.<ref name="MYS">{{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]</ref>  Compound of {{compound|lang=ja|sort=ひむかし|日|tr1=hi|t1=[[sun]]|向か|tr2=muka|t2=[[facing]], [[direction]]|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku||to face a direction}}|風|tr3=shi|t3=[[wind]], direction}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ひむかし}}
@@ -134,7 +134,7 @@ From {{inh|ja|ojp|-|sort=ひむかし}}.  Found in the ''{{w|Man'yōshū}}'' dat
 ====Noun====
 {{ja-noun|ひむかし}}
 
-# {{lb|ja|sort=ひむかし|obsolete}} {{l|en|east}}
+# {{lb|ja|sort=ひむかし|obsolete}} [[east]]
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|ひんがし}}
@@ -149,7 +149,7 @@ Sound shift from earlier ''pimukasi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</re
 ====Noun====
 {{ja-noun|ひんがし}}
 
-# {{lb|ja|sort=ひむかし|obsolete}} {{l|en|east}}
+# {{lb|ja|sort=ひむかし|obsolete}} [[east]]
 #* '''10th century''', ''{{w|Ise Monogatari}}'' (chapter 4, page 82)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
 #*: むかし、'''東（ひんがし）'''の五条に大后の宮おはしましける、西の対に住む人有けり。
 
@@ -166,9 +166,9 @@ Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.
 ====Noun====
 {{ja-noun|ひがし}}
 
-# {{l|en|east}}
+# [[east]]
 #: {{ant|ja|西|tr=nishi}}
-# {{l|en|wind}} {{l|en|blow|blowing}} from the east
+# [[wind]] [[blow|blowing]] from the east
 #: {{syn|ja|東風|tr=ayu, kochi, kochikaze, tōfū, higashikaze}}
 # {{lb|ja|sumo|sort=ひがし}} [[high]]er-[[rank]]ed [[wrestler]]s listed on the right of a ''[[banzuke]]''
 #: {{ant|ja|西|tr=nishi}}
@@ -198,7 +198,7 @@ Sound shift from earlier ''hingashi''.  Now the standard word for {{m|en|east}}.
 
 {{IPAchar|/aduma/}} → {{IPAchar|/ad͡zuma/}} → {{IPAchar|/azuma/}}
 
-From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|天|tr=ama||{{l|en|sky}}, {{l|en|heavens}}}} + {{m|ja|端|tr=tsuma||{{l|en|edge}}, {{l|en|beginning}}}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
+From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Ultimate derivation unknown.  A speculative origin might be a compound of {{m|ja|天|tr=ama||[[sky]], [[heavens]]}} + {{m|ja|端|tr=tsuma||[[edge]], [[beginning]]}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}
@@ -209,10 +209,10 @@ From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
 
-# {{lb|ja|archaic|sort=あずま}} {{l|en|east}}
+# {{lb|ja|archaic|sort=あずま}} [[east]]
 # {{lb|ja|archaic|by extension|sort=あずま}} eastern Japan
-# {{short for|lang=ja|東琴|nodot=1}} (''azumagoto''): a six-stringed Japanese {{l|en|zither}}
-# {{lb|ja|archaic|possibly|_|obsolete}} the {{l|en|Edo}} area {{qualifier|specifically used in the Kansai region, especially around Kyōto and Ōsaka}}
+# {{short for|lang=ja|東琴|nodot=1}} (''azumagoto''): a six-stringed Japanese [[zither]]
+# {{lb|ja|archaic|possibly|_|obsolete}} the [[Edo]] area {{qualifier|specifically used in the Kansai region, especially around Kyōto and Ōsaka}}
 
 ====Proper noun====
 {{ja-pos|あずま|proper|hhira=あづま}}
@@ -229,7 +229,7 @@ From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 ===Etymology 6===
 {{ja-kanjitab|とん|yomi=irr|sort=とん}}
 
-Borrowed from {{bor|ja|zh|sort=とん|東}}, borrowed specifically as {{l|en|mahjong}} terminology.  Compare {{cog|wuu|東|tr=ton}}, {{cog|hak|東|tr=tûng}}, {{cog|nan|東|tr=tong}}.
+Borrowed from {{bor|ja|zh|sort=とん|東}}, borrowed specifically as [[mahjong]] terminology.  Compare {{cog|wuu|東|tr=ton}}, {{cog|hak|東|tr=tûng}}, {{cog|nan|東|tr=tong}}.
 
 ====Pronunciation====
 {{ja-pron|y=irr|トン|acc=1}}
@@ -237,7 +237,7 @@ Borrowed from {{bor|ja|zh|sort=とん|東}}, borrowed specifically as {{l|en|mah
 ====Noun====
 {{ja-noun|トン}}
 
-# {{lb|ja|mahjong|sort=とん}} {{l|en|east wind}} ({{l|en|mahjong}} {{l|en|tile}})
+# {{lb|ja|mahjong|sort=とん}} [[east wind]] ([[mahjong]] [[tile]])
 #: {{hyper|ja|風牌|tr=kazehai, fanpai}}
 # {{lb|ja|mahjong|sort=とん}}  a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of east wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}
 #: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}
@@ -246,7 +246,7 @@ Borrowed from {{bor|ja|zh|sort=とん|東}}, borrowed specifically as {{l|en|mah
 * {{ja-r|東%風%戦|トン%ぷう%せん|east-round game}}
 
 =====See also=====
-* {{ja-r|風%牌|かぜ%ハイ|{{l|en|wind}} {{l|en|tile}}s}}: {{ja-r|東|トン|east wind}}, {{ja-r|南|ナン|{{l|en|south wind}}}}, {{ja-r|西|シャー|{{l|en|west wind}}}}, {{ja-r|北|ペー|{{l|en|north wind}}}}
+* {{ja-r|風%牌|かぜ%ハイ|[[wind]] [[tile]]s}}: {{ja-r|東|トン|east wind}}, {{ja-r|南|ナン|[[south wind]]}}, {{ja-r|西|シャー|[[west wind]]}}, {{ja-r|北|ペー|[[north wind]]}}
 
 ====Proper noun====
 {{ja-pos|proper|とん}}
