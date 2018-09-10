@@ -63,6 +63,8 @@
 {{ja-kanji|grade=1|rs=木08}}
 
 # [[forest]], [[woods]]
+# [[object]]s [[line up|lined up]]
+# [[silent]]
 
 ====Readings====
 {{ja-readings
@@ -74,9 +76,9 @@
 
 ====Compounds====
 {{der-top|Compounds}}
+* {{ja-r|森森|しんしん|rom=-}}, {{ja-r|森々|しんしん}}
 * {{ja-r|森閑|しんかん}}
 * {{ja-r|森厳|しんぜん}}
-* {{ja-r|森森|しんしん|rom=-}}, {{ja-r|森々|しんしん}}
 * {{ja-r|森邃|しんすい}}
 * {{ja-r|森然|しんぜん}}
 * {{ja-r|森羅|しんら}}
@@ -90,13 +92,13 @@
 {{ja-kanjitab|yomi=k|もり}}
 From {{inh|ja|ojp|sort=もり|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{w|CE}}).<ref>{{RQ:Manyoshu|10|1850}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man10Yo.html#1850 here]</ref>
 
-Probably cognate with {{m|ja|盛り||tr=mori|pile, heap}}, the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of verb {{m|ja|盛る||tr=moru|to heap up, to build up into a significant amount}}, from the way a forest can look like a heap or mound from a distance.<ref name="SMK5">{{R:Shinmeikai5}}</ref>
+Probably cognate with {{m|ja|盛り||tr=mori|[[heap]], [[pile]]}}, the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of verb {{m|ja|盛る||tr=moru|to [[heap up]], to [[build up]] into a significant amount}}, from the way a forest can look like a heap or [[mound]] from a distance.<ref name="SMK5"/>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|もり|acc=0|acc_ref=DJR,NHK,SMK5|a=Ja-もり.wav}}
 
 ===Alternative forms===
-* {{ja-l|杜}} {{qualifier|less common; specific to the ''shrine grove'' sense}}
+* {{ja-l|杜}} {{qualifier|less common; specific to the ''[[shrine]] [[grove]]'' sense}}
 
 ===Noun===
 {{ja-noun|もり}}
@@ -114,29 +116,54 @@ Probably cognate with {{m|ja|盛り||tr=mori|pile, heap}}, the {{m|ja|連用形|
 
 ====Derived terms====
 {{der-top}}
+* {{ja-r|森 青%蛙|モリ アオ%ガエル}}
 * {{ja-r|森%薊|モリ%-アザミ}}
 * {{ja-r|森ガール|もり-ガール}}
 * {{ja-r|森陰|もりかげ}}
 * {{ja-r|森神|もりがみ}}
+* {{ja-r|森川|^もりかわ}}
+* {{ja-r|森下|^もりした}}
+* {{ja-r|森島|^もりしま}}
+* {{ja-r|森嶋|^もりしま}}
+* {{ja-r|森%田|^もり%た}}
 * {{ja-r|森%派|^もり%-は}}
 * {{ja-r|森番|もりばん}}
-* {{ja-r|森嫁|もり よめ}}: a forest [[nymph]] 
+* {{ja-r|森本|^もりもと}}
+* {{ja-r|森嫁|もり よめ|forest [[nymph]]}}
 * {{ja-r|青森|^あおもり|{{w|Aomori Prefecture}}|pos=literally "[[green]] forest"}}
-* {{ja-r|生%田の森|^いく%た-の-もり}}
-* {{ja-r|池%子の森|^いけ%ご-の-もり}}
-* {{ja-r|岩瀬の森|^いわせ-の-もり}}
-* {{ja-r|磐%手の森|^いわ%で-の-もり}}
-* {{ja-r|浮%田の森|^うき%た-の-もり}}
-* {{ja-r|老%蘇%森|^おい%そ-の%-もり|rom=-}}, {{ja-r|老%曽%森|^おい%そ-の%-もり|pos=pillow word}}
-* {{ja-r|気%色の森|^け%しき-の-もり}}
+* {{ja-r|雨%森|^あめの%もり}}
+* {{ja-r|生%田の森|^いく%た の ^もり}}
+* {{ja-r|池%子の森|^いけ%ご の ^もり}}
+* {{ja-r|稲森%草|イナモリ%ソウ}}
+* {{ja-r|岩%瀬の森|^いわ%せ の ^もり}}
+* {{ja-r|磐%手の森|^いわ%で の ^もり}}
+* {{ja-r|浮%田の森|^うき%た の ^もり}}
+* {{ja-r|老%蘇%森|^おい%そ-の%-もり|rom=-}}, {{ja-r|老%曽%森|^おい%そ の% ^もり}}
+* {{ja-r|大森|^おおもり}}
+* {{ja-r|笠森|^かさもり}}
+* {{ja-r|金森|^かなもり}}
+* {{ja-r|気%色の森|^け%しき の もり}}
+* {{ja-r|小%森|^こ%もり}}
+* {{ja-r|笹森|^ささもり}}
 * {{ja-r|重森|^しげもり}}
-* {{ja-r|信太%の森|^しのだ%-の-もり}}
-* {{ja-r|糺の森|^ただす-の-もり|rom=-}}, {{ja-r|糺ノ森|^ただす-ノ-もり|rom=-}}, {{ja-r|糾ノ森|^ただす-ノ-もり}}
-* {{ja-r|鎮守の森|^ちんじゅ-の-もり}}
-* {{ja-r|成らずの森|ならず の もり}}
-* {{ja-r|羽%束%師の森|^は%つか%し-の-もり}}
-* {{ja-r|万木の森|^ゆるぎ-の-もり}}
+* {{ja-r|信太%の森|^しのだ% の もり}}
+* {{ja-r|杉森|^すぎもり}}
+* {{ja-r|鈴ヶ森|^すずヶもり}}
+* {{ja-r|高森|^たかもり}}
+* {{ja-r|糺の森|^ただす の ^もり|rom=-}}, {{ja-r|糺ノ森|^ただす ノ ^もり|rom=-}}, {{ja-r|糾ノ森|^ただす ノ ^もり}}
+* {{ja-r|鎮守の森|ちんじゅ の ^もり}}
+* {{ja-r|成らずの森|ならず の ^もり}}
+* {{ja-r|羽%束%師の森|^は%つか%し の ^もり}}
+* {{ja-r|花森|^はなもり}}
+* {{ja-r|柞の森|ははそ の もり}}
+* {{ja-r|藤森|^ふじもり}}
+* {{ja-r|丸森|^まるもり}}
+* {{ja-r|明治の森|^めいじ の ^もり}}
+* {{ja-r|万木の森|^ゆるぎ の ^もり}}
 {{der-bottom}}
+
+====Proverbs====
+* {{ja-r|木を見て森を見ず|き を みて もり を みず|[[see]] not the forest for the [[tree]]s → not looking at the big picture from the details}}
 
 ====See also====
 * {{ja-r|林|はやし|[[woods]]|pos=generally smaller than a ''mori''}}
