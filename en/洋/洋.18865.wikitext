@@ -102,13 +102,16 @@ From {{w|Middle Chinese}} {{ltc-l|洋|id=1|[[ocean]], [[West]]}}:
 {{ja-readings
 |goon=よう<やう
 |kanon=よう<やう
-|kun=なだ-
-|nanori=あきら, うみ, おおみ<おほみ, きよ, なみ, はるか, ひろ, ひろし, ひろみ, ひろむ, ふかし, み, ゆたか, わたる 
 }}
 From {{w|Middle Chinese}} {{ltc-l|洋|id=2|{{w|lang=zh|弥河|Mi River}}}}:
 {{ja-readings
 |goon=ぞう<ざう
 |kanon=しょう<しやう
+}}
+Native {{cog|ja|-}} readings:
+{{ja-readings
+|kun=なだ-
+|nanori=あきら, うみ, おおみ<おほみ, きよ, なみ, はるか, ひろ, ひろし, ひろみ, ひろむ, ふかし, み, ゆたか, わたる 
 }}
 
 ====Compounds====
@@ -134,18 +137,20 @@ From {{w|Middle Chinese}} {{ltc-l|洋|id=2|{{w|lang=zh|弥河|Mi River}}}}:
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|よう|yomi=o}}
+{{ja-kanjitab|yomi=o|よう}}
+
 {{IPAchar|/jɨau/}} → {{IPAchar|/jɔː/}} → {{IPAchar|/joː/}}
 
 From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|洋|id=1}}. Compare modern {{cog|cmn|洋|tr=yáng}}.
 
 ====Pronunciation====
-{{ja-pron|y=o|よう|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=o|よう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|よう|hhira=やう}}
 
-# the [[East]] {{gl|[[Orient]]}} and ''especially'' the [[West]] {{gl|[[Occident]]}}
+# an [[ocean]]
+# {{qualifier|by extension, from the sense of [[across]] the ocean}} the [[East]] {{gl|[[Orient]]}} or ''especially'' the [[West]] {{gl|[[Occident]]}}
 
 =====Derived terms=====
 {{der-top}}
@@ -172,7 +177,7 @@ From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|洋|id=1}}. Compare modern {{cog|cmn|�
 {{der-bottom}}
 
 =====Idioms=====
-* {{ja-r|洋の東西を問わず|よう の とうざい を とわず}}
+* {{ja-r|洋の東%西を問わず|よう の とう%ざい を とわず}}: “regardless of east or west of the [[ocean]]” → in either the East or the West → anywhere in the [[world]], all over the world
 
 ====Proper noun====
 {{ja-pos|proper|よう|hhira=やう}}
@@ -181,10 +186,15 @@ From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|洋|id=1}}. Compare modern {{cog|cmn|�
 # {{given name|male|or=female|lang=ja|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|なだ|yomi=k}}
+{{ja-kanjitab|yomi=k|なだ}}
+
+From {{inh|ja|ojp|sort=なだ|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 {{CE}}.<ref>{{RQ:Manyoshu|17|3893}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man17Yo.html#3893 here]</ref>
 
 ====Pronunciation====
-{{ja-pron|y=k|なだ|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|なだ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|灘}}
 
 ====Noun====
 {{ja-noun|なだ}}
@@ -194,22 +204,24 @@ From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|洋|id=1}}. Compare modern {{cog|cmn|�
 ====Proper noun====
 {{ja-pos|proper|なだ}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1|sort=なだ}}
 
 ===Etymology 3===
-{{ja-kanjitab|ひろし|yomi=irr}}
-Nominalization of classical adjective {{m|ja|広し|tr=hiroshi}}, modern {{m|ja|広い|tr=hiroi||[[vast]], [[wide]]}}.
+{{ja-kanjitab|yomi=irr|ひろし}}
 
-===Proper noun===
+[[nominalization|Nominalization]] of the {{m|ja|終止形||tr=shūshikei|terminal form}} of classical [[adjective]] {{m|ja|広し|tr=hiroshi}}, modern {{m|ja|広い|tr=hiroi||[[vast]], [[wide]]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ひろし}}
+
+====Proper noun====
 {{ja-pos|proper|ひろし}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1|sort=ひろし}}
 # {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=ひろし}}
 
 ===References===
 <references/>
-
-[[Category:Japanese male given names|ひろし]]
 
 ----
 
