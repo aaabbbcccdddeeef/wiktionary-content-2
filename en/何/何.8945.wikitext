@@ -139,38 +139,56 @@
 {{ja-pos|interjection|なに}}
 
 # What?, Huh?
-
+<br clear="both" />
 ===Pronoun===
-{{ja-kanjitab|なん|yomi=k}}
+{{ja-kanjitab|なに|yomi=k}}
 {{ja-pos|pronoun|なに}} {{ja-altread|hira=なん}}
 
 # [[what]]
 #* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|92}}
 #*: 汝何所爲 '''奈尓'''世牟止曽
 # that thing (used in place of words you can't remember at the moment.)
-# (used with も) many
-#: {{ja-usex|この広%告を'''何'''%回も見た|この こう%こく を '''なん'''%かい も みた|I've seen this ad '''many''' times}}
 
 ====Usage notes====
-* {{m|ja|何}} is usually read as {{l|ja|なに}}, but before {{l|ja|だ}}, {{l|ja|で}}, {{l|ja|の}}, {{l|ja|なり}} or counters, it is read as {{l|ja|なん}}. When followed by {{l|ja|で}}, both readings are possible, albeit with different meanings.
+* {{m|ja|何}} is usually read as {{l|ja|なに}}, but before {{l|ja|だ}}, {{l|ja|で}}, {{l|ja|の}}, it is read as {{l|ja|なん}}. When followed by {{l|ja|で}}, both readings are possible, albeit with different meanings.
 
 ====Derived terms====
 {{der-top}}
-* {{l|ja|何か}}
-* {{l|ja|何かしら}}
-* {{l|ja|何しろ}}
+* {{ja-r|何か|なにか}}
+* {{ja-r|何かしら|なにかしら}}
+* {{ja-r|何しろ|なにしろ}}
+* {{ja-r|何人|なにじん}}
+* {{ja-r|何も|なにも}}
 {{der-mid}}
-* {{l|ja|何せ}}
-* {{l|ja|何たる}}
-* {{l|ja|何も}}
+* {{ja-r|何せ|なんせ}}
+* {{ja-r|何だか|なんだか}}
+* {{ja-r|何たる|なんたる}}
+* {{ja-r|何で|なんで}}
+* {{ja-r|何なり|なんなり}}
+* {{ja-r|何人|なんぴと}}
 {{der-bottom}}
 
-===See also===
+====Related terms====
 * {{ja-r|何れ|どれ}} which one?
 * {{ja-r|何の|どの}} (of) what?
 * {{ja-r|何処|どこ}} where?
 * {{ja-r|何方|どちら}} which way?
 * {{ja-r|如何|どう}} in what manner?
+
+===Prefix===
+{{ja-kanjitab|なん|yomi=k}}
+{{ja-pos|prefix|なん}}
+# what number, [[how many]] (used with a [[counter]])
+# (used with も) many (used with a [[counter]])
+#: {{ja-usex|この広%告を'''何'''%回も見た|この こう%こく を '''なん'''%かい も みた|I've seen this ad '''many''' times}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|何月|なんがつ}}
+* {{ja-r|何日|なんにち}}
+{{der-mid}}
+* {{ja-r|何曜日|なんようび}}
+{{der-bottom}}
 
 ===References===
 * {{Shin'yaku Kegonkyō Ongi Shiki}}
