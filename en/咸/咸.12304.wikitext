@@ -14,23 +14,25 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=冚-[[all]] ([[Cantonese]])}}
+{{zh-forms|alt=冚-Cantonese “all; entire”}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|戌|口|t1=axe|t2=mouth (person) or clay pot|ls=ic}}. To cut off one's head with an ax, depriving them of all they have; alternatively, to break a pot with an ax.
 
-{{Han simp|鹹|f1=鹵|t1=(none)}} as well.
+For etymology 2, {{Han simp|鹹|f=鹵|t=&nbsp;|nocap=1}}.
 
 ===Etymology 1===
-{{rfe|lang=zh}}
+Compare {{cog|km|ព្រម||to agree; to go along with; together}} ({{zh-ref|Schuessler, 2007}}).
 
-====Pronunciation====
+{{etystub|zh}}
+
+====Pronunciation 1====
 {{zh-pron
 |m=xián
 |m-s=
 |c=haam4
-|c-t=
+|c-t=ham3
 |g=
 |h=pfs=hàm
 |j=
@@ -43,20 +45,34 @@
 |mc=y
 |oc=y
 |ma=
-|cat=adv,n
+|cat=adv,a,v,n
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
-# [[together]]
 # [[all]]; [[completely]]
-# [[united]]
+# {{†}} [[together]]
+# {{†}} [[united]]; in [[harmony]]
+# {{†}} [[common]]; [[popular]]; [[widespread]]
+# {{†}} to [[finish]]; to [[terminate]]
 # 31st [[hexagram]] of the [[I Ching]]
 # {{surname|lang=zh}}
 
-====Compounds====
+=====Compounds=====
 {{zh-der|老少咸宜|咸五登三|咸和|咸宜|咸池|咸豐|咸豐草|咸陽|咸陽宮|咸陽火|大咸|季咸|巫咸|彭咸|悲犬咸陽|老幼咸宜|阮咸|阿咸|咸寧}}
+
+====Pronunciation 2====
+{{zh-pron
+|c=ham6
+|c-t=ham5
+|cat=a
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[all]]; [[entire]]
 
 ===Etymology 2===
 {{zh-see|鹹}}
