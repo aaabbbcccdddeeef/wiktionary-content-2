@@ -5,15 +5,18 @@
 {{Han char|rn=75|rad=木|as=10|sn=14|four=41911|canj=DSLY|ids=⿰木匪}}
 
 ====References====
-* {{Han ref|kx=0544.020|dkj=15258|dj=0931.210|hdz=21260.010|uh=69A7|ud=27047|bh=E249|bd=57929}}
+{{Han ref|kx=0544.020|dkj=15258|dj=0931.210|hdz=21260.010|uh=69A7}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp}}
+{{zh-wp|zh:榧樹|en:Torreya grandis}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|木|匪|c1=s|c2=p|t1=wood; tree|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -28,22 +31,47 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{vern|Japanese nutmeg-yew}} {{gloss|''[[Torreya nucifera]]''}}
+# Chinese [[nutmeg yew]] {{gloss|''[[Torreya grandis]]''}}
+#: {{zh-syn|中國榧|香榧|野杉}}
+
+===Compounds===
+{{zh-der|榧子|榧實|粗榧|油榧|香榧|玉榧|中國榧|榧樹屬}}
 
 ----
 
 ==Japanese==
+{{wp|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=木10}}
 
 ====Readings====
-* {{ja-readings|on=[[ひ]] (hi)|kun=[[かや]] (kaya)}}
+{{ja-readings
+|on=ひ
+|kun=かや
+}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|ひ|yomi=o}}
+From {{der|ja|ltc|sort=ひ|-}} {{ltc-l|榧|[[nutmeg yew]]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ひ}}
+
+===Etymology 2===
+{{wp|カヤ|lang=ja}}
+{{ja-kanjitab|かや|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かや}}
+
+====Noun====
 {{ja-noun|かや}}
 
-# ''[[Torreya nucifera]]'', Japanese nutmeg-yew, a tree
+# Japanese [[nutmeg yew]] {{gloss|''[[Torreya nucifera]]''}}
+
+=====Related terms=====
+* {{ja-l|カヤ}}
 
 ----
 
