@@ -20,9 +20,13 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=心09}}
+{{ja-kanji|grade=|rs=心09|kyu=憚}}
 
 # {{defn|lang=ja|sort=心09}}
 
 ====Readings====
-* {{ja-readings|on=[[たん]] (tan), [[た]] (ta), [[だん]] (dan)|kun=[[はばかる]] (habakaru), [[はばかり]] (habakari)}}
+{{ja-readings
+|goon=だん
+|kanon=たん
+|on=た
+|kun=はばか-る, はばか-り}}
