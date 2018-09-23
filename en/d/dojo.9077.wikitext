@@ -1,42 +1,64 @@
 {{also|dōjō}}
 ==English==
+{{was wotd|2019|February|11}}
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ˈdəʊdʒəʊ/|[ˈdəʊ̯d͡ʒəʊ̯]|lang=en}}
+* {{a|GA}} {{IPA|/ˈdoʊˌdʒoʊ/|[ˈdoʊ̯ˌd͡ʒoʊ̯]|lang=en}}
+* {{rhymes|əʊdʒəʊ|lang=en}}
+* {{hyphenation|do|jo|lang=en}}
 
 ===Etymology 1===
-{{wikipedia}}
-From {{bor|en|ja|道場|tr=dōjō}}.
+{{multiple images
+|direction = vertical
+|image1 = JJS Dojo.jpg
+|caption1 = Children practising [[karate]] in the dojo ''(sense 1)'' of the {{w|Jack and Jill School}} in {{w|Bacolod City}}, [[Philippines]]
+|image2 = Hacker Dojo - Lab.JPG
+|caption2 = The [[electronics]] [[laboratory]] at Hacker Dojo, a dojo ''(sense 2)'' or [[hackerspace]] in [[Mountain View]], [[California]], USA
+}}
 
-====Alternative forms====
-* {{l|en|dōjō}}
-
-====Pronunciation====
-* {{a|UK}} {{IPA|/ˈdəʊdʒəʊ/|[ˈdəʊ̯d͡ʒəʊ̯]|lang=en}}
-* {{a|US}} {{IPA|/ˈdoʊˌdʒoʊ/|[ˈdoʊ̯ˌd͡ʒoʊ̯]|lang=en}}
-* {{rhymes|əʊdʒəʊ|lang=en}}
+Borrowed from {{bor|en|ja|道場|tr=[[どうじょう]], [[dōjō]]|lit=place of the ways}}: {{m|ja|道|tr=[[どう]], [[dō]]||road; way}} + {{m|ja|場|tr=[[じょう]], [[jō]]||place; place where events are held; flattened area for ceremonies or festivals}}.
 
 ====Noun====
 {{en-noun|s|dojo}}
 
-# {{lb|en|martial arts}} A training facility, usually led by one or more [[sensei]].
+# {{lb|en|martial arts}} A [[training#Noun|training]] [[facility]], usually led by one or more [[sensei]]; a [[hall]] or [[room]] used for such training.
+# {{lb|en|by extension}} A room or other facility used for other [[activity|activities]], such as [[software]] [[development]] or [[meditation]].
+
+=====Alternative forms=====
+* {{l|en|dōjō}}
 
 =====Translations=====
-{{trans-top|martial arts training facility}}
+{{trans-top|(''martial arts'') training facility}}
 * Chinese:
 *: Mandarin: {{t|cmn|武術館}}, {{t|cmn|武术馆|tr=wǔshùguǎn}}, {{t|cmn|武館}}, {{t|cmn|武馆|tr=wǔguǎn}}
 * Indonesian: {{t|id|dojo}}
 * Irish: {{t|ga|seomra oiliúna|m}}, {{t|ga|dojo|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|道場|tr=''dōjō'' どうじょう}}
+* Japanese: {{t|ja|道場|tr=[[どうじょう]], [[dōjō]]}}
 * Korean: {{t+|ko|도장}}
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{bor|en|ja|泥鰌|tr=dojō||[[loach]]}}.
+[[File:Dojo loach4.JPG|thumb|A dojo, also known as a {{vern|dojo loach}}, {{vern|Japanese weather loach}}, or {{vern|pond loach}} (''[[Misgurnus anguillicaudatus]]'')]]
+
+Borrowed from {{bor|en|ja|泥鰌|tr=どじょう, [[dojō]]||pond loach}}: {{m|ja|泥|tr=[[どろ]], [[doro]]||mud}} + {{m|ja|鰌|tr=[[どじょう]], [[dojō]]||pond loach}}.
 
 ====Noun====
 {{en-noun|?}}
 
-# ''[[Misgurnus anguillicaudatus]]'' ({{vern|dojo loach}})
+# The {{vern|dojo loach}}, {{vern|Japanese weather loach}}, or {{vern|pond loach}} (''[[Misgurnus anguillicaudatus]]''), a [[freshwater]] [[fish#Noun|fish]] [[native#Adjective|native]] to [[East Asia]].
+
+=====Translations=====
+{{trans-top|pond loach (''Misgurnus anguillicaudatus'')}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
+* {{pedia|dojo (disambiguation)}}
+* {{pedia|pond loach}}
 
 [[Category:en:Loaches]]
 
