@@ -1,20 +1,24 @@
-{{also|攝}}
+{{also|攝|熶}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=64|rad=手|as=12|sn=15|four=56047|canj=QASE|ids=⿰扌最}}
 
+====Derived characters====
+* {{l|mul|[[𪢚]], [[𢤎]]}}
+
 ====References====
-* {{Han ref|kx=0456.180|dkj=12748|dj=0805.120|hdz=31957.020|uh=64AE|ud=25774|bh=BCBC|bd=48316}}
+{{Han ref|kx=0456.180|dkj=12748|dj=0805.120|hdz=31957.020|uh=64AE}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=熶,𢲻,𤑧}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|手|最|alt1=扌|c1=s|c2=p|ls=psc}}.
 
 ===Pronunciation 1===
 {{zh-pron
@@ -63,7 +67,8 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=手12}}
 
-# snapshot
+# [[snapshot]]
+# to [[take]] a [[photo]]; to [[record]] a [[video]]
 
 ====Readings====
 {{ja-readings
@@ -71,6 +76,19 @@
 |kanon=さつ
 |on=さい
 |kun=と-る, つま-む, つまみ
+}}
+
+===Etymology===
+{{ja-kanjitab|さつ|yomi=kanon}}
+From {{der|ja|ltc|sort=さつ|-}} {{ltc-l|撮|id=2|to [[grab]] with [[three]] [[finger]]s}}.
+
+===Pronunciation===
+{{ja-pron|y=ko|さつ}}
+
+====Derived terms====
+{{der2|lang=ja|title=Terms derived from {{ja-r|撮|さつ}}:
+|{{ja-r|撮影|さつえい}}: [[filming]]; [[photography]]
+|{{ja-r|撮像|さつぞう}}: to [[take]] an [[image]]; [[imaging]]
 }}
 
 ----
@@ -87,6 +105,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|rs=手12|toát}}
+{{vi-readings|rs=手12
+|hanviet=toát
+|nom=toát, tòi, duỗi
+}}
 
 # {{defn|lang=vi|sort=手12}}
