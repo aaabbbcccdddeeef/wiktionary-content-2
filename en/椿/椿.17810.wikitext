@@ -53,36 +53,110 @@
 ----
 
 ==Japanese==
-{{wikipedia|Tsubaki}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=木09}}
 
+# [[Chinese]] [[mahogany]] ({{taxlink|Toona sinesis|species|ver=180924}})
+# [[unexpected]]
+# [[camellia]]
+
 ====Readings====
 {{ja-readings
-|goon=ちゅん<ちゆん
-|kanon=ちゅん<ちゆん
+|goon=<!--しゅん<しゆん, -->ちゅん<ちゆん
+|kanon=<!--しゅん<しゆん, -->ちゅん<ちゆん
 |kanyoon=ちん
-|on=しゅん<しゆん
 |kun=つばき-
 }}
 
-{{attention|ja|what kind of on-reading is "shun"?}}
+====Compounds====
+{{der-top|Compouds}}
+* {{ja-r|椿事|ちんじ}}
+* {{ja-r|椿寿|ちんじゅ}}
+* {{ja-r|椿説|ちんせつ}}
+* {{ja-r|椿庭|ちんてい}}
+* {{ja-r|椿堂|ちんどう}}
+* {{ja-r|椿葉|ちんよう}}
+* {{ja-r|椿嶺|ちんれい}}
+* {{ja-r|大椿|^だいちん}}
+* {{ja-r|椿象|カメムシ}}
+* {{ja-r|香%椿|チャン%チン}}
+* {{ja-r|菜椿象|ナガメ}}
+{{der-bottom}}
+
+===Alternative forms===
+<div style="float:right;">
+{{wp|lang=ja|ツバキ}}
+{{wp|Camellia japonica}}
+</div>
+{{ja-kanjitab|つばき|yomi=k}}
+* {{ja-l|山茶}}, {{ja-l|海石榴}}
+
+===Etymology===
+{{IPAfont|⟨tubaki<sub>1</sub>⟩}} → *{{IPAchar|/tubakʲi/}} → {{IPAchar|/t͡subaki/}}
+
+From {{inh|ja|ojp|sort=つはき|-}}.
+
+{{rfe|ja|sort=つはき}}
+
+===Pronunciation===
+{{ja-pron|y=k|つばき|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|つばき|ツバキ}}
 
-# {{ja-def|ツバキ}} [[camellia]]
+# a [[camellia]], ''especially'' the {{vern|Japanese camellia}}, ''[[Camellia japonica]]''
+#* {{RQ:Manyoshu|1|73}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#73 here]
+#*: {{ja-usex
+|m=吾妹%子乎 早%見%濱風 倭%有 吾%松'''椿''' 不吹有%勿%勤
+|m_kana=わぎも%こを はや%み%はまかぜ やまと%なる ＊%まつ'''つばき''' ふかざる%な%ゆめ
+|我妹%子を早%見%浜風%大和なる我を松'''椿'''吹かざるなゆめ
+|わぎも%こ を はや%み% はまかぜ% ^やまと なる あ を まつ '''つばき''' ふかざる な ゆめ|sort=つはき}}
+#: {{syn|ja|山茶|tr=sancha}}
+#: {{hypo|ja|藪椿|tr=yabu Tsubaki|雪椿|tr2=yuki tsubaki}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|椿 油|つばき あぶら}}
+* {{ja-r|椿市|^つばいち}}
+* {{ja-r|椿%灰|つばき-%ばい}}
+* {{ja-r|椿%姫|^つばき%-ひめ}}
+* {{ja-r|椿 餅|つばき もち}}, {{ja-r|椿 餅|つばい もち.い}}
+* {{ja-r|椿%桃|つばき%もも}}, {{ja-r|椿%桃|つばい%もも}}
+* {{ja-r|落ち椿|おちつばき}}
+* {{ja-r|乙%女 椿|オト%メ ツバキ}}
+* {{ja-r|唐%椿|から%-つばき}}
+* {{ja-r|寒%椿|カン%ツバキ}}
+* {{ja-r|玉 椿|たま つばき}}
+* {{ja-r|列列 椿|つらつら つばき}}
+* {{ja-r|唐%椿|トウ%-ツバキ}}
+* {{ja-r|夏 椿|ナツ ツバキ}}
+* {{ja-r|花 椿|はな つばき}}
+* {{ja-r|浜 椿|はま つばき}}
+* {{ja-r|姫%椿|ひめ%-つばき}}
+* {{ja-r|冬 椿|ふゆ つばき}}
+* {{ja-r|藪 椿|ヤブ ツバキ}}
+* {{ja-r|山 椿|やま つばき}}
+* {{ja-r|雪 椿|ユキ ツバキ}}
+* {{ja-r|斎つ真%椿|ゆ つ ま%-つばき}}
+{{der-bottom}}
+
+====See also====
+* {{ja-r|山茶花|サザンカ}}
+* {{ja-r|茶|チャ}}, {{ja-r|茶の木|ちゃ の き}}
 
 ===Proper noun===
+{{wp|Tsubaki}}
 {{ja-noun|つばき}}
 
-# {{given name|female|lang=ja|sort=つばき}}.
+# ''a [[place name]]''
+# {{surname|lang=ja|A=a|nodot=1|sort=つはき}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=つはき}}
 
-====Alternative forms====
-* {{l|ja|海石榴}}
-* {{l|ja|山茶}}
+===References===
+<references/>
 
+{{top|ja|Shrubs|Trees|sort=つはき}}
 [[Category:ja:Shrubs|sort=つばき]]
 [[Category:ja:Trees|sort=つばき]]
 
