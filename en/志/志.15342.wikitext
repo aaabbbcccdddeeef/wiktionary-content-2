@@ -65,7 +65,7 @@ From {{och-l|之|to go; to proceed}} + [[endopassive]] suffix ''*-s'', literally
 |goon=し
 |kanon=し
 |kun=こころざし-, こころざ-す, しる-す
-|nanori=ゆき
+|nanori=ここ, こころ, しい, しさき, しむら, のぞみ, のぞむ, ゆき
 }}
 
 ====Compounds====
@@ -86,23 +86,66 @@ From {{och-l|之|to go; to proceed}} + [[endopassive]] suffix ''*-s'', literally
 * {{ja-r|具志堅|^ぐしけん}}
 {{bottom}}
 
-====Usage notes====
-This is one of only three everyday kanji with a 5 morae reading, and one of only two nouns, namely {{ja-r|志|こころざし}} (nominalization of form of verb {{ja-r|志す|こころざす}}, which has a four-mora reading). The only other kanji with five-mora readings are {{lang|ja|承}}, in the verb {{ja-r|承る|うけたまわる}}, and {{ja-r|詔|みことのり}}. No kanji in common use has a six- or more mora reading.
+===Etymology 1===
+{{ja-kanjitab|yomi=k|こころざし}}
 
-The unusually long reading is due to two factors: {{ja-r|志|こころざし}} is a nominalization of the verb {{ja-r|志す|こころざす}}, which has a long reading (4 morae, ''kokoroza-su''), which itself is a noun-verb compound, {{ja-r|心指す|こころざす}}. The nominalization removing the okurigana, hence increasing the reading by one morae, yielding 4+1=5, or more finely 3+(1+1)=5 (compare common {{ja-r|話|はなし}} 2+1=3, from {{ja-r|話す|はなす}}).
+The {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of verb {{m|ja|志す||tr=kokorozasu|to intend to do something, to aspire to do something}}.
 
-===Proper noun===
-{{ja-pos|proper|ゆき|ここ|こころ|のぞみ|し.い}}
+====Pronunciation====
+{{ja-pron|yomi=k|こころざし|acc=0|acc_ref=DJR}}
 
-# {{given name|female|lang=ja|sort=ゆき}}
+====Noun====
+{{ja-noun|こころざし}}
+
+# [[intention]], [[aspiration]], [[aim]], [[ambition]], [[will]]
+
+=====Usage notes=====
+This is one of only three everyday kanji with a five-[[mora]] reading, and one of only two nouns. The only other kanji with five-mora readings are {{lang|ja|承}}, in the verb {{ja-r|承る|うけたまわる}}, and {{ja-r|詔|みことのり}}. No kanji in common use has a six- or more mora reading.
+
+The unusually long reading is due to two factors: {{ja-r|志|こころざし}} is a nominalization of the verb {{ja-r|志す|こころざす}}, which has a long reading (four [[morae]], ''kokoroza-su''), which itself is a noun-verb compound, {{ja-r|心%指す|こころ%ざす}}. The nominalization absorbs the [[okurigana]], hence increasing the reading by one mora, yielding 4+1=5, or more finely 3+(1+1)=5 (compare common {{ja-r|話|はなし}} 2+1=3, from {{ja-r|話す|はなす}}).
+
+===Etymology 2===
+Various name readings.
+
+====Proper noun====
+{{ja-pos|proper|ゆき}}
+
+# {{given name|lang=ja|sort=ゆき|A=a|female}}
+
+{{ja-pos|proper|ここ}}
+
+# {{given name|lang=ja|sort=ここ|A=a|female}}
+
+{{ja-pos|proper|こころ}}
+
+# {{given name|lang=ja|sort=こころ|A=a|female}}
+
+{{ja-pos|proper|のぞみ}}
+
+# {{given name|lang=ja|sort=のぞみ|A=a|female}}
+
+{{ja-pos|proper|し.い}}
+
+# {{given name|lang=ja|sort=しい|A=a|female}}
 
 {{ja-pos|proper|のぞむ}}
 
-# {{given name|male|lang=ja|sort=のぞむ}}
+# {{given name|lang=ja|sort=のぞむ|A=a|male}}
 
-{{ja-pos|proper|こころざし|し|しさき}}
+{{ja-pos|proper|こころざし}}
 
-# {{surname|lang=ja|sort=こころざし}}
+# {{surname|lang=ja|sort=こころざし|A=a|nodot=1}}
+
+{{ja-pos|proper|し}}
+
+# {{surname|lang=ja|sort=し|A=a|nodot=1}}
+
+{{ja-pos|proper|しさき}}
+
+# {{surname|lang=ja|sort=しさき|A=a|nodot=1}}
+
+===References===
+<references/>
 
 ----
 
