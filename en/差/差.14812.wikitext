@@ -173,10 +173,16 @@ Note that the character in simplified Chinese has 9 strokes. {{Han simp|f=𦍌�
 ===Noun===
 {{ja-noun|さ}}
 
-# [[difference]] (in mathematics, etc.)
+# {{sense|generally}} [[difference]]
+#: {{ja-usex|資金力で'''差'''を付ける|しきん りょく で '''さ''' を つける|to make a '''difference''' in the financial power}}
+# {{lb|ja|arithmetic|sort=さ}} [[difference]]
+#: {{ja-usex|九十と七十八の'''差'''は十二である。|きゅうじゅう と ななじゅうはち の '''さ''' は じゅうに で ある。|The '''difference''' of ninety and seventy-eight is twelve.}}
 
 ====Synonyms====
 * {{ja-r|差異|さい}}, {{ja-r|違い|ちがい}}
+
+====Antonyms====
+* {{sense|arithmetic}} {{ja-r|和|わ|gloss=[[sum]]}}
 
 ====See also====
 * {{ja-r|被減数|ひげんすう}}; {{ja-r|減数|げんすう}}
