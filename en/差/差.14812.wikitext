@@ -153,6 +153,7 @@ Note that the character in simplified Chinese has 9 strokes. {{Han simp|f=𦍌�
 }}
 
 ====Compounds====
+{{der-top|Compounds}}
 * [[差異]]
 * [[差違]]
 * [[差益]]
@@ -165,27 +166,31 @@ Note that the character in simplified Chinese has 9 strokes. {{Han simp|f=𦍌�
 * [[差配人]]
 * [[差別]]
 * [[脇差]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=o|さ}}
+
+From {{bor|ja|ltc|sort=さ|-}} {{ltc-l|差}}.
 
 ===Pronunciation===
-{{ja-kanjitab|さ|yomi=o}}
-{{ja-pron|acc=h|さ|y=ko}}
+{{ja-pron|yomi=kanon|さ|acc=0|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|さ}}
 
-# {{sense|generally}} [[difference]]
+# {{lb|ja|sort=さ|generally}} [[difference]]
 #: {{ja-usex|資金力で'''差'''を付ける|しきん りょく で '''さ''' を つける|to make a '''difference''' in the financial power}}
-# {{lb|ja|arithmetic|sort=さ}} [[difference]]
+#: {{synonyms|ja|差異|tr1=sai|違い|tr2=chigai}}
+# {{lb|ja|sort=さ|arithmetic}} [[difference]]
 #: {{ja-usex|九十と七十八の'''差'''は十二である。|きゅうじゅう と ななじゅうはち の '''さ''' は じゅうに で ある。|The '''difference''' of ninety and seventy-eight is twelve.}}
-
-====Synonyms====
-* {{ja-r|差異|さい}}, {{ja-r|違い|ちがい}}
-
-====Antonyms====
-* {{sense|arithmetic}} {{ja-r|和|わ|gloss=[[sum]]}}
+#: {{antonyms|ja|和|tr=wa|q=[[sum]]}}
 
 ====See also====
 * {{ja-r|被減数|ひげんすう}}; {{ja-r|減数|げんすう}}
+
+===References===
+<references/>
 
 ----
 
