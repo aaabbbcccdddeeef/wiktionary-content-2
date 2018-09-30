@@ -29,7 +29,7 @@
 
 ====Pronunciation 1====
 {{zh-pron
-|m=sháo,er=y
+|m=sháo,zhuò,er=y
 |h=pfs=
 |md=
 |w=5zoq
@@ -43,6 +43,8 @@
 
 # [[spoon]]; [[ladle]]
 # [[ladle]]-like [[object]]
+# {{lb|zh|historical}} {{n-g|A unit of measurement: one tenth of a {{zh-l|合|gě}}, now 1 {{zh-l|市勺}} equals 1 [[centilitre]]. In Japan, about 0.018 litre.}}
+# {{†}} [[little]]; [[small]] [[amount]]
 
 =====Compounds=====
 {{zh-der|勺子|公勺|水勺|漏勺|炒勺|掌勺兒的|龍勺|舞勺|腦勺|耳挖勺兒|飯勺|馬勺}}
@@ -52,14 +54,25 @@
 |m=zhuó
 |mc=1
 |oc=2,1
-|cat=v
+|cat=v,n
 }}
 
 =====Definitions=====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
-#: {{zh-alt-inline|酌}}
+# {{†}} {{zh-alt-form|酌|to [[scoop]]; to [[dip]]}}
+# {{lb|zh|historical}} {{n-g|An ancient kind of music and dance.}}
+
+====Pronunciation 3====
+{{zh-pron
+|m=dì
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|的|[[mark]]; [[target]]}}
 
 ===Glyph origin 2===
 {{zh-see|杓|ss}}
