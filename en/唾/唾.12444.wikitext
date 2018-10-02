@@ -51,18 +51,53 @@
 
 ====Readings====
 {{ja-readings
-|on=だ
-|kun=つば-
+|goon=た
+|kanon=た
+|kanyoon=だ
+|kun=つばき-, つば-, つ-
 }}
 
-===Etymology===
-{{ja-kanjitab|つば|yomi=k}}
-{{rfe|ja}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|つばき}}
 
-===Noun===
+Derived as the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of now-[[Appendix:Glossary#obsolete|obsolete]] verb {{m|ja|唾吐く||tr=tsubaku|to [[spit]], to [[expectorate]]}}, itself from {{m|ja|唾||tr=tsu|[[saliva]]}} + {{m|ja|吐く||tr=haku|to [[expel]] from the [[mouth]]: to [[spit]], to [[vomit]], to [[exhale]]}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つばき|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|つばき}}
+
+# [[spit]], [[saliva]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|つば}}
+
+Appears to be a shortening of ''tsubaki'' above.  Alternatively, may be a fusion of ''tsu'' below with particle {{m|ja|は||tr=wa|pos=originally ''pa'' in Old Japanese, combining in some cases as ''ba''}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つば|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|つば}}
 
-# [[spit]]
+# [[spit]], [[saliva]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|つ}}
+
+Appears to be the oldest form.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Possibly [[onomatopoeia]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|つ}}
+
+====Noun====
+{{ja-noun|つ}}
+
+# {{lb|ja|sort=つ|archaic|possibly|_|obsolete}} [[spit]], [[saliva]]
+
+===References===
+<references/>
 
 ----
 
