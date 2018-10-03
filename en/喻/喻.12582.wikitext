@@ -5,10 +5,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=09|sn=12|four=68021|canj=ROMN|ids=⿰口俞}}
 
-# [[metaphor]], [[analogy]]
-# [[example]]
-# [[like]]
-
 ====References====
 * {{Han ref|kx=0201.121|dj=0421.200|hdz=10657.080|uh=55BB|ud=21947}}
 
@@ -17,7 +13,11 @@
 ==Chinese==
 {{zh-forms|alt=喩}}
 
-===Pronunciation===
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|俞|ls=psc|c1=s|c2=p|t1=mouth}}.
+
+===Pronunciation 1===
 {{zh-pron
 |m=yù
 |c=jyu6
@@ -28,16 +28,33 @@
 |w=
 |mc=y
 |oc=y
-|cat=
+|cat=v,n,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
+# to [[inform]]; to [[notify]]
+# to understand
+# [[metaphor]]; [[analogy]]; [[example]]; [[like]]
 # {{surname|lang=zh}}
 
 ====Compounds====
 {{zh-der|家喻戶曉|呴喻|喻體|不可理喻|告喻|引喻失義|不言而喻|妙喻|妙喻取譬|不可言喻|借喻|多歧援喻|嘔喻|喻詞|喻依|喻世明言|不知所喻|直喻|明喻|理喻|暗喻|百喻經|略喻|比喻|比喻義|詭喻|豆萁之喻|難以言喻|罕譬而喻|辭喻橫生|舟水之喻|譬喻|隱喻|酒喻聖賢|遠引曲喻|自喻|喻咀}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yú
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Same as}} {{zh-l|愉}}.
+
+====Compounds====
+{{zh-der|新喻|喻家山}}
 
 ----
 
