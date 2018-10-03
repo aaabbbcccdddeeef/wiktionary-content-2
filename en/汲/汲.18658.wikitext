@@ -2,21 +2,23 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=04|sn=7|four=37147|canj=ENHE|ids=⿰氵及}}
+{{Han char|rn=85|rad=水|as=04|asm++=03|sn=7|snm++=6|four=37147|canj=ENHE|ids=⿰氵及}}
 
-# [[draw]] [[water]] from a [[well]]
-# [[imbibe]]
+====Derived characters====
+* {{l|mul|[[𮡾]], [[𨦮]]}}
 
 ====References====
-* {{Han ref|kx=0608.030|dkj=17163|dj=1001.070|hdz=31554.010|uh=6C72|ud=27762|bh=A856|bd=43094}}
+{{Han ref|kx=0608.030|dkj=17163|dj=1001.070|hdz=31554.010|uh=6C72}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh:汲姓|en:Ji (surname 汲)<!-- Correct wiki link as of Oct 2018 -->}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|水|及|alt1=氵|c1=s|c2=p|t1=water|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -25,15 +27,27 @@
 |mn=khip
 |mc=y
 |oc=y
-|cat=v
+|cat=v,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# to [[draw#Verb|draw]] [[water]] from a [[well#Noun|well]]
+#: {{zh-x|綆 短 汲 深|{{lb|zh|literal}} the rope is too short to fetch water from a well that is too deep}}
+#* {{zh-x|短 綆 不可以 汲 深 井 之 泉，知 不 幾 者 不可 與 及 聖人 之 言。|ref=Xunzi}}
+#* {{zh-x|夫 山 居 而 谷 汲 者，膢 臘 而 相 遺 以 水；澤 居 苦 水 者，買 庸 而 決 竇。|ref=Hanfeizi}}
+# to [[imbibe]]; to [[take in]]; to [[absorb]]
+#: {{zh-x|汲取}}
+# {{†}} to [[guide]]; to [[assist]]
+#* {{zh-x|汲 鄭 伯，逃 歸 陳 侯。致 柤 之 會，存 中 國 也。|ref={{w2|zh|pref=《|穀梁傳|suf=·}}{{w2|zh|s:春秋穀梁傳/襄公#襄公十年|襄公十年|suf=》}} (''{{w|Guliang Zhuan}}'')}}
+#* {{zh-x|無 相 非 色，空 不 可 極，而 立 言 垂 訓，以 汲 引 為 方。|ref={{w2|zh|沈約}} (''{{w|Shen Yue}}'') {{w2|zh|pref=《|s:廣弘明集/19#△齊竟陵王發講疏（並頌）──沈約|竟陵王發講疏並頌|suf=》}}}}
+# {{†}} to [[nominate]]; to [[recommend]] a [[person]]
+#* {{zh-x|禹、稷 與 皋陶 傳 相 汲 引，不 為 比 周。何 則？忠 於 為 國，無 邪心 也。|ref=Hanshu}}
+# {{zh-used|汲汲}}
+# {{surname|lang=zh}}
 
-====Compounds====
+===Compounds===
 {{zh-der|提甕出汲|汲井|汲冢古文|汲取|汲古|汲古閣|汲引|汲水|汲水機|汲汲|汲汲營營|汲汲皇皇|汲深綆短|汲直|汲綆|汲道|汲酒|汲黯|短綆汲深|綆短汲深}}
 
 ----
@@ -43,16 +57,28 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水04}}
 
-# [[draw]] (water)
-# [[ladle]]
-# [[scoop]]
-# [[pump]]
+# {{lb|ja|of [[water]]}} to [[draw#Verb|draw]]; to [[scoop]]; to [[ladle#Verb|ladle]]; to [[pump]]
+# {{lb|ja|of [[feeling]]s}} to [[understand]]; to [[consider]]
 
 ====Readings====
 {{ja-readings
 |goon=こう
 |kanon=きゅう
 |kun=く-む
+}}
+
+====Compounds====
+{{der2|lang=ja
+|{{ja-r|汲み上げる|くみあげる}}
+|{{ja-r|汲み入れる|くみ.いれる}}
+|{{ja-r|汲み置き|くみおき}}
+|{{ja-r|汲み込む|くみこむ}}
+|{{ja-r|汲み立て|くみたて}}
+|{{ja-r|汲み出す|くみだす}}
+|{{ja-r|汲み取る|くみとる}}
+|{{ja-r|汲み干す|くみほす}}
+|{{ja-r|汲み分ける|くみわける}}
+|{{ja-r|汲々|きゅうきゅう}}; {{ja-r|汲汲|きゅうきゅう}}
 }}
 
 ----
@@ -62,19 +88,22 @@
 ===Hanja===
 {{ko-hanja|hangeul=급|eumhun=|rv=geup|mr=kŭp|y=kup}}
 
-# draw water from well
-# [[imbibe]]
+# to [[draw#Verb|draw]] [[water]] from a [[well#Noun|well]]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[ngập]], [[cấp]], [[gặp]]|rs=水04}}
+{{vi-readings|rs=水04
+|hanviet=cấp
+|nom=ngập, gặp, bập
+}}
 
 # {{defn|lang=vi|sort=水04}}
 
-====References====
-* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
-* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
-* Vũ Văn Kính: Đại Tự Điển Chữ Nôm, NXB Văn Nghệ, Ho Chi Minh Ville
+===References===
+* {{vi-ref|Nguyễn (2014)}}.
+* {{vi-ref|Thiều (1942)}}.
+* {{vi-ref|Trần (1999)}}.
+* {{vi-ref|Vũ (1998)}}.
