@@ -1,21 +1,26 @@
+{{also|汏|汰}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=85|rad=水|as=04|sn=7|four=33134|canj=EIK|ids=⿰氵犬}}
 
+====Derived characters====
+* {{l|mul|𧚚}}
+
 ====References====
-* {{Han ref|kx=0608.010|dkj=17161|dj=1001.060|hdz=31561.010|uh=6C71|ud=27761|bh=CB51|bd=52049}}
+{{Han ref|kx=0608.010|dkj=17161|dj=1001.060|hdz=31561.010|uh=6C71}}
 
 ----
 
 ==Chinese==
 
 ===Etymology 1===
-{{zh-forms}}
+{{zh-forms|alt=𣴒}}
 
 ====Glyph origin====
 {{Han etym}}
+{{Han compound|水|犬|alt1=氵|c1=s|c2=p|t1=water|ls=psc}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -23,16 +28,25 @@
 |c=gyun2
 |mc=y
 |oc=y
-|cat=
+|cat=v,a,n,pn
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-hg}} to [[fall]]; to [[drop]] <!-- 《爾雅·釋詁》 汱，墜也。 -->
+#: {{zh-syn|墜}}
+# {{zh-hg}} [[appearance]] of [[cascading]] [[water]] <!-- 《集韻·銑韻》 水落皃。 -->
+<!-- Note: Citation from 沈約 《夢溪筆談·卷十三·權智》： 「漉水中淤泥實蘧蒢中，候幹，則以水車'''汱'''去兩墻之間舊水。」 contains a different character for 汱 depending on the source: [1] 汲古閣原本: 汱 [2] 四部叢刊續編: 畎 [3] 欽定四庫全書: 車 (The correct character is likely to be 畎) -->
+# {{zh-hg}} [[groundwater]] <!-- 《廣韻·銑韻》 -->
+#: {{zh-syn|伏水}}
+# {{zh-hg}} [[name]] of [[river]] <!-- 《佩觿集》 《玉篇·水部》》 -->
 
 ===Etymology 2===
-{{zh-see|汰|v}}
+{{zh-see|汰}} <!-- 《教育部異體字字典》 A02147-003 -->
 
-===References===
-* {{R:twedu|B02033}}
+===Etymology 3===
+{{zh-see|洑|v}} <!-- 《漢語大字典》 -->
+
+===Etymology 4===
+{{zh-see|泫|v}} <!-- 《康熙字典》 -->
