@@ -5,8 +5,6 @@
 ===Han character===
 {{Han char|rn=96|rad=玉|as=09|sn=13|four=17156|canj=MGBJJ|ids=⿰𤣩軍}}
 
-# [[bright]], [[glorious]], [[splendid]]
-
 ====References====
 * {{Han ref|kx=0736.110|dkj=21093|dj=1147.150|hdz=21128.110|uh=743F|ud=29759|bh=B7E9|bd=47081}}
 
@@ -17,23 +15,40 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|玉|軍|ls=psc|c1=s|c2=p|t1=jade}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=huī
 |c=wan4,fai1
 |mc=y
 |oc=y
-|cat=
+|cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{n-g|Used in}} {{zh-l|璦琿}}.
+# {{lb|zh|literary}} [[beautiful]] [[jade]]
 
 ====Compounds====
-{{zh-der|璦琿條約|琿春河|琿春}}
+{{zh-der|璦琿條約|璦琿}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=hún
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in}} {{zh-l|琿春}}.
+# {{lb|zh|literary}} [[beautiful]] [[jade]]
+
+====Compounds====
+{{zh-der|琿春河|琿春}}
 
 ===References===
 * {{R:yue:mfccd}}
