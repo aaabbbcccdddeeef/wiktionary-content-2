@@ -1,16 +1,20 @@
-{{also|晉|普|㬜}}
+{{also|晉|㬜|普}}
 {{character info/new}}
 ==Translingual==
 {{ja-forms|晋|晋|[[晉]]}}
 
 ===Han character===
-{{Han char|rn=72|rad=日|as=06|sn=10|four=|canj=MCA|ids=⿱亚日}}
+{{Han char|rn=72|rad=日|as=06|sn=10|four=10601|canj=MCA|ids=⿱亚日}}
+
+====Derived characters====
+* {{l|mul|[[𭉟]], [[𡠂]], [[缙]], [[𮥔]], [[𪹓]], [[𤨁]], [[𬓎]], [[𧪽]], [[戬]], [[𭭒]], [[𭚣]], [[𫨤]], [[𢨙]]}}
+* {{l|mul|sc=Hans|[[𡦌]], [[𡺽]], [[搢]], [[溍]], [[㬐]], [[榗]], [[瑨]], [[縉]], [[𨫌]], [[鄑]], [[𥰸]]}} ''(Exception: Only for mainland China. Other regions contain {{l|mul|晉}} instead)''
+
+====Related characters====
+* {{l|mul|[[晉]]}} ''(Orthodox [[Traditional Chinese|traditional form]])''
 
 ====References====
-* {{Han ref|kx=0495.020|dkj=13899|dj=0860.080|hdz=21506.030|uh=664B|ud=26187}}
-
-===Usage notes===
-This character is listed in the {{w|Kangxi dictionary}} ({{w|Zhengzitong|正字通}}) as an [[unorthodox]] form ([[俗字]]) of [[㬜]], which is a variant character of [[晉]].
+{{Han ref|kx=0495.020|dkj=13899|dj=0860.080|hdz=21506.030|uh=664B}}
 
 ----
 
@@ -18,17 +22,21 @@ This character is listed in the {{w|Kangxi dictionary}} ({{w|Zhengzitong|正字�
 {{zh-see|晉|sv}}
 
 ===Usage notes===
-Found also in {{w|Chinese calligraphy|calligraphic}} works of {{w|Yan Zhenqing|颜真卿}} ({{w|Tang dynasty}}).
+According to the {{w|Kangxi Dictionary}} (which cites the ''{{w|Zhengzitong}}'' {{w2|zh|pref=《|正字通|suf=》}}), this character is an [[unorthodox]] form ({{zh-l|俗字*}}) of {{zh-l|㬜}}, which is stated as the original form ({{zh-l|本字*}}) of {{zh-l|晉*}}.
 
 ----
 
 ==Japanese==
 
-===Kanji===
-{{ja-kanji|grade=8|rs=日06}} <!-- Not a shinjitai character. Both 晉 and 晋 are present in the Kangxi dictionary -->
+===Alternative forms===
+* {{l|ja|晉}} {{q|historical}} <!-- JIS第２水準. Not listed as a kyūjitai form of 晋 in Jinmeiyō kanji (2015) or Jōyō Kanji (2010). -->
+* {{l|ja|㬜}} {{q|archaic}} <!-- JIS第４水準 -->
 
-# [[proceed]]
-# [[Jin]]
+===Kanji===
+{{ja-kanji|grade=8|rs=日06}} <!-- Not listed as a shinjitai form of 晉 in Jinmeiyō kanji (2015) or Jōyō Kanji (2010). -->
+
+# to [[proceed]]
+# {{lb|ja|of|China}} [[Jin]]
 
 ====Readings====
 {{ja-readings
@@ -37,19 +45,6 @@ Found also in {{w|Chinese calligraphy|calligraphic}} works of {{w|Yan Zhenqing|�
 |kun=すす-む, すすむしん-
 |nanori=くに, すすみ, のぶ, ゆき
 }}
-
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|晋翁%忌|^しんおう%き}}
-* {{ja-r|晋山|しんざん}}
-* {{ja-r|晋子%忌|^しんし%き}}
-* {{ja-r|晋書|^しんじょ}}
-* {{ja-r|晋朝|しん-ちょう}}
-* {{ja-r|後晋|^こうしん}}, {{ja-r|後晋|^ごしん}}
-* {{ja-r|三晋|^さんしん}}
-* {{ja-r|西晋|^せいしん}}
-* {{ja-r|東晋|^とうしん}}
-{{der-bottom}}
 
 ===Etymology 1===
 {{wp|lang=ja}}
@@ -71,18 +66,31 @@ From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|晉}}.
 # {{surname|lang=ja|A=a|nodot=1|sort=しん}}
 # {{given name|unisex|lang=ja|A=a|nodot=1|sort=しん}}
 
+====Derived terms====
+{{der3|lang=ja
+|{{ja-r|晋翁%忌|^しんおう%き}}
+|{{ja-r|晋山|しんざん}}
+|{{ja-r|晋子%忌|^しんし%き}}
+|{{ja-r|晋書|^しんじょ}}
+|{{ja-r|晋朝|しん-ちょう}}
+|{{ja-r|後晋|^こうしん}}, {{ja-r|後晋|^ごしん}}
+|{{ja-r|三晋|^さんしん}}
+|{{ja-r|西晋|^せいしん}}
+|{{ja-r|東晋|^とうしん}}
+}}
+
 ===Etymology 2===
 {{ja-kanjitab|すすむしん|yomi=k}}
 
 Compound of {{m|ja|進む|tr=susumu||to [[proceed]]}} + {{m|ja|晋|tr=Shin||[[Jin]]}}.
 
-The {{ja-l||晋}} kanji itself has a ''{{ll|ja|訓読み|kun'yomi}}'' of ''susumu''.
+The {{m|ja|晋}} kanji itself has a {{m|ja|訓読み|tr=kun'yomi}} reading of "{{m|ja|susumu}}".
 
 ====Pronunciation====
 {{ja-pron|y=k|すすむしん|acc=0|acc_ref=DJR}}
 
 ====Usage notes====
-This reading is used to distinguish from the ''{{l|ja|漢音|kan'on}}''-reading of {{m|ja|秦|tr=Shin||{{w|Qin dynasty}}}}, itself called {{m|ja|秦|tr=Hata-shin}}. The senses are the same for Etymology 1 above.
+This reading is used to distinguish from the {{m|ja|漢音|tr=kan'on}} reading of {{m|ja|秦|tr=Shin||{{w|Qin dynasty}}}}, itself called {{m|ja|秦|tr=Hata-shin}}. The senses are the same for Etymology 1 above.
 
 ===Etymology 3===
 {{ja-kanjitab|すすみ|yomi=k}}
@@ -106,3 +114,30 @@ Nominalization of {{m|ja|進む|tr=susumu||to [[proceed]]}}.
 
 ===References===
 <references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{alt-form|lang=ko|晉|tr=진}}.
+
+====References====
+* Supreme Court of the Republic of Korea (2015). {{lang|ko|인명용한자표}} (''Table of Hanja for Personal Names'').
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日06
+|hanviet=tấn
+|nom=tấn <!-- Note: Nôm readings of tấn, tắn, tớn are listed under 晉 in Giúp đọc Nôm và Hán Việt. -->
+}}
+
+# {{defn|lang=vi|sort=日06}}
+
+===References===
+* {{vi-ref|Nguyễn (2014)}}.
