@@ -99,8 +99,10 @@
 {{ja-kanji|grade=3|rs=一01}}
 
 # [[leaf]], [[block]], [[cake]]
-# 4th in rank, fourth sign of the Chinese calendar
+# something [[D]]
+## [[fourth]] in [[rank]]
 # [[street]]
+# [[even]]
 
 ====Readings====
 {{ja-readings
@@ -119,7 +121,7 @@ As in the onomatopoeia {{l|ja|丁丁}}:
 
 ====Compounds====
 * {{ja-r|一丁|いっちょう}}
-* {{ja-r|丁度|ちょうど}}
+* {{ja-r|丁度|ちょうど|gloss=[[just]]}}
 * {{ja-r|丁重|ていちょう}}
 * {{ja-r|丁寧|ていねい}}
 * {{ja-r|符丁|ふちょう}}
@@ -136,12 +138,30 @@ From {{der|ja|ltc|丁|tr=teng|sort=てい}}
 
 ====Proper noun====
 {{ja-pos|proper|てい}}
+{{topics|ja|Heavenly Stems|sort=てい}}
 
-# the fourth of the ten {{w|Celestial stem|Heavenly Stems}}
+# something [[D]]
+## [[fourth]] in rank
 
 {{topics|ja|Heavenly Stems|sort=てい}}
 
 ===Etymology 2===
+{{ja-kanjitab|ちょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|acc=1|y=ko|ちょう}}
+
+====Noun====
+{{ja-noun|ちょう}}
+
+# [[street]], [[district]]
+#: {{ja-usex|北 八番 '''丁'''|きた はちばん '''ちょう'''|northern eighth '''district'''}}
+#: {{ja-usex|ぶらくり '''丁'''|ぶらくり '''ちょう'''|Burakuri '''street'''}}
+# [[even]] (especially of [[dice]])
+#: {{ja-usex|'''丁''' か 半 か|'''ちょう''' か はん か|'''even''' or odd}}
+#* Antonyms : {{ja-r|半|はん|gloss=[[odd]]}}
+
+===Etymology 3===
 {{ja-kanjitab|ひのと|yomi=k}}
 {{com|ja|火|の|弟|tr1=Hi|t1={{w|Fire (Wu Xing)|Fire}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=oto|t3=[[younger brother]]|sort=ひのと}}
 
