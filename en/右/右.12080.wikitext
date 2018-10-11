@@ -78,34 +78,109 @@ From {{inh|zh|sit-pro|*g-(j/r)a||right (hand)}}.
 ===Kanji===
 {{ja-kanji|grade=1|rs=口02}}
 
+# [[right]]
+# [[conservative]]
+# [[right-wing]], [[right fielder]]
+# [[respect]] for
+# [[aid]], [[assist]], [[counsel]]
+
 ====Readings====
 {{ja-readings
 |goon=う
-|kanon=ゆう
+|kanon=ゆう<いう
 |kun=みぎ-
+|nanori=あき, あきら, これ, すけ, たか, たすく
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|右往左往|うおうさおう}}
+* {{ja-r|右傾|うけい}}
+* {{ja-r|右近|^うこん}}
+* {{ja-r|右%折|う%せつ}}
+* {{ja-r|右%大臣|^う%だいじん}}
+* {{ja-r|右端|うたん}}
+* {{ja-r|右%中間|う%ちゅうかん}}
+* {{ja-r|右派|うは}}
+* {{ja-r|右飛|うひ}}
+* {{ja-r|右辺|うへん}}
+* {{ja-r|右%翼|う%よく}}
+* {{ja-r|右腕|うわん}}
+* {{ja-r|右筆|ゆうひつ}}
+* {{ja-r|右文|ゆうぶん}}
+* {{ja-r|机右|きゆう}}
+* {{ja-r|極%右|きょく%う}}
+* {{ja-r|左右|そう}}, {{ja-r|左右|さう}}
+* {{ja-r|左右|さゆう}}
+* {{ja-r|座右|ざゆう}}, {{ja-r|座右|ざう}}
+* {{ja-r|左右|とかく}}
+* {{ja-r|右手|めて}}
+* {{ja-r|左右|もとこ}}
+{{der-bottom}}
+
+===Etymology 1===
 {{ja-kanjitab|みぎ|yomi=k}}
 
-===Noun===
+{{rfe|ja|sort=みき}}
+
+====Pronunciation====
+{{ja-pron|y=k|みぎ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
 {{ja-noun|みぎ}}
 
-# {{lb|ja|direction}} the [[right]]
+# [[right]] {{gl|[[direction]]}}
 #* {{quote-book||date=Jul 22 1999||Vol.4|chapter={{ruby|{{lang|ja|[封](ふう)[印](いん)されし[者](もの)の[右](みぎ)[足](あし)}}}}|trans-chapter=Right Leg of the Sealed One|language=Japanese|publisher={{w|Konami}}|||{{ja-usex|封%印された'''右'''%足。封%印を解くと、無%限の力を得られる。|^ふう%いんされた '''みぎ'''%あし。^ふう%いん を とく と、む%げん の ちから を えられる。|A sealed '''right''' leg. Whosoever breaks the seal shall earn infinite power.}}}}
-# [[above]] statement; [[foregoing]]
-# {{lb|ja|politics|sort=みぎ}} the [[right wing]]; a [[rightist]]
+# the [[above]] [[statement]], [[foregoing]]
+# {{lb|ja|politics|sort=みき}} the [[right wing]], a [[rightist]]
+# {{lb|ja|historical|sort=みき}} a [[superior]] during in the Chinese {{w|Warring States period}}
+#: {{syn|ja|上位|tr=jōi}}
 
-====Antonyms====
-* {{s|right}} {{ja-r|左|ひだり|[[left]]}}
+=====Antonyms=====
+* {{s|right, rightist}} {{ja-r|左|ひだり}}
 
-====Derived terms====
-* {{ja-r|右%側|みぎ%がわ}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|右する|みぎ する}}
+* {{ja-r|右上り|みぎあがり|rom=-}}, {{ja-r|右%上がり|みぎ%あがり}}
+* {{ja-r|右上|みぎうえ}}
+* {{ja-r|右腕|みぎうで}}
+* {{ja-r|右側|みぎがわ}}
 * {{ja-r|右%利き|みぎ%きき}}
+* {{ja-r|右下|みぎした}}
 * {{ja-r|右%手|みぎ%て}}
-* {{ja-r|右%左|みぎ%ひだり}}
-* {{ja-r|右%上|みぎ%うえ}}
-* {{ja-r|右%下|みぎ%した}}
+* {{ja-r|右と言えば左|みぎ と いえば ひだり}}
 * {{ja-r|右に同じ|みぎ に おなじ|[[ditto]]}}
+* {{ja-r|右に出る|みぎ に でる}}
+* {{ja-r|右% 大臣|^みぎ の% ^おおいもうちぎみ}}
+* {{ja-r|右% 大臣|^みぎ の% ^おとど}}
+* {{ja-r|右%左|みぎ%ひだり}}
+* {{ja-r|右巻|みぎまき|rom=-}}, {{ja-r|右%巻き|みぎ%まき}}
+* {{ja-r|右も左も分からない|みぎ も ひだり も わからない}}
+* {{ja-r|右様|みぎよう}}
+* {{ja-r|右%四つ|みぎ%よつ}}
+* {{ja-r|回れ右|まわれみぎ}}
+{{der-bottom}}
+
+=====Proverbs=====
+{{der-top|Proverbs}}
+* {{ja-r|右の耳から左の耳|みぎ の みみ から ひだり の みみ}}
+* {{ja-r|右を見ても左を見ても|みぎ を みて も ひだり を みて も}}
+* {{ja-r|左%平%目に右%鰈|ひだり% ひら%め に みぎ% かれい}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|みぎり|yomi=irr}}
+
+The final {{ja-r|り}} is likely by analogy with its antonym {{m|ja|左|tr=hidari||[[left]]}}.<ref>{{R:Daijisen}}</ref>
+
+====Noun====
+{{ja-noun|みぎり}}
+
+# {{lb|ja|archaic|sort=みきり}} ''Same as'' {{m|ja||みぎ|tr=migi}} ''above''
+
+===References===
+<references/>
 
 {{cln|ja|basic words|sort=みぎ}}
 
