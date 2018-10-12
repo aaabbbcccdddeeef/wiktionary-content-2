@@ -1,21 +1,28 @@
+{{also|㦸}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=62|rad=戈|as=08|sn=12|four=43450|canj=JJI|ids=⿰𠦝戈}}
 
-# [[halberd]] [[w:ji (polearm)|with crescent blade]]
+====Derived characters====
+* {{l|mul|[[𠽤]], [[撠]], [[橶]], [[𧾂]], [[𦻝]], [[𩯋]]}}
+
+====Related characters====
+* {{l|mul|[[㦸]]}} ''({{w|Variant Chinese character|Variant form}})''
 
 ====References====
-* {{Han ref|kx=0413.090|dkj=11606|dj=0755.360|hdz=21407.070|uh=621F|ud=25119|bh=B475|bd=46197}}
+{{Han ref|kx=0413.090|dkj=11606|dj=0755.360|hdz=21407.070|uh=621F}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=屰<!--《六書正譌》、《字彙》：古戟字。-->,㦸,𢧢,⿰䈇戈,⿰⿱亠早戈,⿰𠦝⿱𠂉戈}}
+{{zh-wp|zh:戟|en:Ji (polearm)}}
 
 ===Glyph origin===
 {{Han etym}}
+Reduced form of {{zh-l|𢧢}}: {{Han compound|倝|戈|t1=[[branch]], reduction of {{zh-l|榦*}}|t2=weapon on pole|ls=ic}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -31,7 +38,10 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# [[halberd]] [[w:ji (polearm)|with crescent blade]]
+# [[halberd]] with [[crescent]] [[blade]] used in {{w|ancient China}}
+
+===Compounds===
+{{zh-der|亡戟得矛|刀鎗劍戟|劍戟森森|句戟|執戟|巴戟天|戟手|戟指|戟指怒目|戟門|戲戟|折戟沉沙|持戟|提牌執戟|方天戟|方天畫戟|星旗電戟|杖戟|棨戟|畫戟|短戟|葦戟桃杖|貫頤奮戟|轅門射戟|鉤戟|門戟|雙戟|驢生戟角|鬚髯如戟}}
 
 {{zh-cat|Weapons}}
 
@@ -42,7 +52,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=戈08}}
 
-# {{defn|lang=ja|sort=戈08}}
+# type of [[weapon]] ([[halberd]] or [[spear]])
 
 ====Readings====
 {{ja-readings
@@ -52,26 +62,42 @@
 |kun=ほこ-
 }}
 
-===Noun===
+===Etymology 1===
+{{wp|lang=ja}}
+{{ja-kanjitab|げき|yomi=kanyo}}
+From {{der|ja|ltc|sort=げき|-}} {{ltc-l|戟}}.
+
+====Noun====
+{{ja-noun|げき}}
+
+# {{w|Ji (polearm)|''Ji''}} {{gloss|[[halberd]] used in {{w|ancient China}}}}
+
+===Etymology 2===
 {{ja-kanjitab|ほこ|yomi=k}}
+
+====Noun====
 {{ja-noun|ほこ}}
 
-# {{alternative spelling of|矛|lang=ja}}
+# {{alternative spelling of|矛|lang=ja|gloss=[[spear]]}}
 
 ----
 
 ==Korean==
+{{wp|lang=ko|극 (무기)}}
 
 ===Hanja===
 {{ko-hanja|hangeul=극|eumhun=|rv=geuk|mr=kŭk|y=kuk}}
 
-# {{defn|lang=ko|sort=戈08}}
+# {{hanja form of|극|{{w|Ji (polearm)|''Ji''}}, [[halberd]] used in {{w|ancient China}}}}
 
 ----
 
 ==Vietnamese==
+{{wp|lang=vi|Kích (vũ khí)}}
 
 ===Han character===
-{{vi-hantu|[[kích]]|rs=戈08}}
+{{vi-readings|rs=戈08
+|hanviet=kích
+}}
 
-# {{defn|lang=vi|sort=戈08}}
+# {{han tu form of|kích|{{w|Ji (polearm)|''Ji''}}, [[halberd]] used in {{w|ancient China}}}}
