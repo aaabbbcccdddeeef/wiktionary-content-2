@@ -35,41 +35,57 @@ Right component is approximately 羊 + 水, but this is misleading. The composit
 ===Kanji===
 {{ja-kanji|grade=3|rs=木10|kyu=樣}}
 
-# [[sir]], [[madam]] (more respectful than [[Mr.]], [[Ms]], [[Mrs.]], [[Miss]])
+# [[certain]] [[form]] or [[way]]
+# [[condition]], [[state]]
+# [[design]], [[pattern]]
+# {{n-g|indicates [[humble]]ness or [[polite]]ness}}
 
 ====Readings====
 {{ja-readings
 |goon=よう<やう
 |kanon=よう<やう
-|kanyoon=しょう<しやう
 |kun=さま-
 }}
+As variant ''kanji'' of {{ja-l|橡}}:
+{{ja-readings
+|goon=ぞう<ざう
+|kanon=しょう<しやう
+|kun=くぬぎ-, とち-
+}}
+
+====Usage notes====
+When written in {{m|ja|草体|tr=sōtai||highly-[[cursive]]}} style, this ''kanji'' form is called {{m|ja|平様|tr=hira-zama|lit=[[common]] [[form]]}} to distinguish from the ''kyūjitai'' form {{m|ja|永様|tr=ei-sama|lit={{ja-l|永}}-form}}, and its variant froms {{m|ja|次様|tr=tsugi-zama|pos=for {{ja-l|檨}}|lit={{ja-l|次}}-form}} and {{m|ja|美様|tr=bi-zama|pos=for {{ja-l|𣖙}}|lit={{ja-l|美}}-form}}.
 
 ===Etymology 1===
-<div style="float:right;">
-{{wikipedia|lang=ja}}
-{{wikipedia|Japanese honorifics}}
-</div>
 {{ja-kanjitab|yomi=o|よう}}
 
-{{IPAchar|/jau/}} → {{IPAchar|/jɔː/}} → {{IPAchar|/joː/}}
+{{IPAchar|/jɨau/}} → {{IPAchar|/jɔː/}} → {{IPAchar|/joː/}}
 
-From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}.
+From {{bor|ja|ltc|sort=よう|-}} {{ltc-l|樣|tr=*jɨɐŋ<sup>H</sup>}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|よう|acc=1|acc_ref=DJR}}
+{{ja-pron|y=o|よう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|よう|hhira=やう|kyu=樣}}
 
 # [[way]], [[style]], [[appearance]]
 
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|様式|ようしき}}
+* {{ja-r|様子|ようす}}
+* {{ja-r|様相|ようそう}}
+* {{ja-r|様態|ようたい}}
+* {{ja-r|模様|もよう}}
+{{der-bottom}}
+
 ====Adjective====
 {{ja-adj|よう|infl=na|hhira=やう|kyu=樣}}
 
 # be [[like]], look like, seem like, [[as if]], having the likeness of
 #: {{ja-usex|まるで夢を見ている'''様'''だ。|^まる で ゆめ を みて いる '''よう''' だ。|It felt '''as if''' I were dreaming.}}
-# {{lb|ja|as {{ja-r|様に|よう に}}}} I [[hope]]; I [[pray]]; [[may]]
+# {{lb|ja|as {{m|ja|様に|tr=yō ni}}}} I [[hope]]; I [[pray]]; [[may]]
 #: {{ja-usex|成%功します'''ように'''。|せい%こう します '''よう に'''。|'''I wish''' [myself/you] success.}}
 
 =====Inflection=====
@@ -77,12 +93,43 @@ From {{etyl|ltc|ja|sort=よう}} {{m|zh|樣|tr=iɑ̀ng?||shape, style, pattern}}
 
 =====Usage notes=====
 * In contemporary Japanese, this term is often written in hiragana.
-* Traditional Japanese grammar analyzes this term as a {{l|ja|助動詞|tr=jodōshi|t=auxiliary verb}}, {{m|ja|ようだ|tr=yō da}}, from the noun {{m|ja|様|tr=yō}} and the auxiliary verb {{m|ja|だ}}.
+* Traditional Japanese grammar analyzes this term as a {{m|ja|助動詞|tr=jodōshi||auxiliary verb}}, {{m|ja|ようだ|tr=yō da}}, from the noun {{m|ja|様|tr=yō}} and the auxiliary verb {{m|ja|だ}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|様々|ようよう|rom=-}}, {{ja-r|様様|ようよう}}
+* {{ja-r|ようだ|yō da}}
+* {{ja-r|異様|いよう}}
+* {{ja-r|如何様|いかよう}}
+* {{ja-r|一様|いちよう}}
+* {{ja-r|今様|いまよう}}
+* {{ja-r|大様|おおよう}}
+* {{ja-r|各様|かくよう}}
+* {{ja-r|唐様|からよう}}
+* {{ja-r|異様|ことよう}}
+* {{ja-r|左様|さよう|rom=-}}, {{ja-r|然様|さよう}}
+* {{ja-r|多様|たよう}}
+* {{ja-r|体様|たいよう|rom=-}}, {{ja-r|態様|たいよう}}
+* {{ja-r|同様|どうよう}}
+* {{ja-r|何様|なによう}}
+* {{ja-r|一様|ひとよう}}
+* {{ja-r|文様|もんよう}}
+* {{ja-r|和様|わよう}}
+{{der-bottom}}
+
+====Proper nonun====
+{{ja-pos|proper|よう|hhira=やう|kyu=樣}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=よう}}
 
 ===Etymology 2===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Japanese honorifics}}
+</div>
 {{ja-kanjitab|yomi=k|さま}}
 
-From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+From {{bor|ja|ojp|sort=さま|-}}. Originally a compound of {{compound|lang=ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|さま|acc=2|acc_ref=DJR}}
@@ -95,7 +142,7 @@ From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|so
 ====Noun====
 {{ja-noun|さま|kyu=樣}}
 
-# a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}
+# a [[person]]'s [[appearance]] {{qualifier|as of [[body]], or [[style]], or [[face]], etc.}}
 # the [[state]] or [[situation]] of a thing
 #: {{ja-usex|鋭敏。感覚が鋭いこと。また、その'''さま'''。|えいびん。かんかく が するどい こと。また、その '''さま'''。|''Eibin.'' For the senses to be sharp. Or, '''the state''' of being such.|ref=[https://ja.wiktionary.org/wiki/%E9%8B%AD%E6%95%8F]}}
 # the general [[trend]], [[tenor]], or [[feel]] of a thing
@@ -103,46 +150,84 @@ From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|so
 # the [[way]] or [[means]] of doing something, [[how]] one does something
 # the [[reason]] or [[circumstances]] for something
 
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|様々|さまざま|rom=-}}, {{ja-r|様様|さまざま}}
+* {{ja-r|有様|ありさま|rom=-}}, {{ja-r|有り様|ありさま}}
+* {{ja-r|如何%様|いか%さま}}
+* {{ja-r|永様|えい-さま}}
+* {{ja-r|お互い様|おたがいさま}}, {{ja-r|御%互い様|お%たがいさま}}
+* {{ja-r|御%馳走%様|ご%-ちそう%さま}}
+* {{ja-r|異様|ことざま}}
+* {{ja-r|逆様|さかさま|rom=-}}, {{ja-r|倒|さかさま}}
+* {{ja-r|次様|つぎ-ざま}}
+* {{ja-r|続け様|つづけざま}}
+* {{ja-r|外%様|と%ざま}}
+* {{ja-r|何様|なにさま}}
+* {{ja-r|美%様|び%-ざま}}
+* {{ja-r|平様|ひら-ざま}}
+* {{ja-r|外様|ほかざま}}, {{ja-r|外様|ほかさま}}
+* {{ja-r|皆様|みなさま}}
+* {{ja-r|横様|よこさま}}
+{{der-bottom}}
+
 ====Pronoun====
 {{ja-pos|pronoun|さま|kyu=樣}}
 
-# {{lb|ja|sort=さま|archaic|honorific}} {{n-g|second-person pronoun:}} [[you]], [[you all]]
-# {{lb|ja|sort=さま|archaic|honorific}} {{n-g|third-person distal pronoun:}} [[he]], [[she]], [[they]] {{qualifier|distant from both speaker and listener}}
+# {{lb|ja|sort=さま|archaic|honorific}} {{n-g|[[second-person]] pronoun}}: [[you]], [[you all]]
+# {{lb|ja|archaic|honorific}} {{n-g|[[third-person]] [[distal]] pronoun}}: [[he]], [[she]], [[they]] {{qualifier|distant from both speaker and listener}}
 
 =====Usage notes=====
-Used primarily by women of the [[red-light district]]s of the {{w|Edo period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Used primarily by women of the [[red-light district]]s of the {{w|Edo period}}.<ref name="KDJ"/>
 
 The pronoun senses have largely fallen into disuse. These originated as [[abbreviation]]s of longer forms {{m|ja|君様|tr=kimisama|lit=lord + that way}}, {{m|ja|方様|tr=katasama|lit=that side + that way}}, or {{m|ja|貴様|tr=kisama|lit=noble + that way}}, with the ''-sama'' suffix (see below) developing into an independent use.
 
 ====Suffix====
 {{ja-pos|さま|suffix|ざま|kyu=樣}}
 
-# {{lb|ja|sort=さま|honorific}} {{n-g|polite personal suffix:}} [[honorable]], [[Mr.]], [[Ms.]]
-#: {{ja-usex|吉田'''様'''が来られました。|^よしだ-'''さま''' が こられました。|'''Mr.''' ['''honorable''']　Yoshida has come here.}}
-# {{lb|ja|sort=さま|honorific}} {{n-g|attaching to nouns or other nominals: a [[politeness]] marker that often has no direct translation, replacing [[copula]] {{m|ja|です}} ''desu''}}
+# {{lb|ja|honorific}} {{n-g|polite personal suffix}}: [[honorable]], [[Mr.]], [[Ms.]]
+#: {{ja-usex|吉田'''様'''が来られました。|^よしだ-'''さま''' が こられました。|'''Mr.''' ['''honorable'''] Yoshida has come here.}}
+# {{lb|ja|honorific}} {{n-g|attaching to nouns or other nominals}}: ''a [[politeness]] marker that often has no direct translation, replacing [[copula]]'' {{ja-l||です|desu}}
 #: {{ja-usex|ご苦労'''様'''。|ごくろう'''さま'''。|You have done well  ['''honorable'''].}}
-# {{n-g|attaching to specific nouns or other nominals:}} [[that]] [[way]], that [[direction]]
+# {{n-g|attaching to specific nouns or other nominals}}: [[that]] [[way]], that [[direction]]
 #: {{ja-usex|逆'''様'''、横'''様'''|さか'''さま'''、 よこ'''さま'''|back'''wards''', side'''ways'''}}
-# {{lb|ja|sort=さま|archaic}} {{n-g|attaching to verbs:}} [[just]] [[as]] {{qualifier|indicating the specific time when the verb is happening}}
-# {{n-g|attaching to verbs:}} the [[way]] of doing something, [[how]] one does something {{qualifier|often undergoes [[rendaku]], changing ''-sama'' to ''-zama''}}
+# {{lb|ja|archaic}} {{n-g|attaching to verbs}}: [[just]] [[as]] {{qualifier|indicating the specific time when the verb is happening}}
+# {{n-g|attaching to verbs}}: the [[way]] of doing something, [[how]] one does something {{qualifier|often undergoes [[rendaku]], changing ''-sama'' to ''-zama''}}
 #: {{ja-usex|座り'''様'''|すわり'''さま'''|'''how''' one sits}}
 
 =====Usage notes=====
-The honorific senses developed out of [[euphemistic]] use of the noun sense of ''sama'', “that way”, as an [[oblique]] form of reference, starting from around the {{w|Muromachi period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+The honorific senses developed out of [[euphemistic]] use of the noun sense of ''sama'', “that way”, as an [[oblique]] form of reference, starting from around the {{w|Muromachi period}}.<ref name="KDJ"/>
 
-The ''-sama'' suffix after personal names is more respectful than the everyday {{ja-r|さん}}, and is generally only used when being very [[polite]]. Gender-neutral. This is sometimes glossed as {{m|en|honorable}}, but {{m|en|honorable}} is also used as a [[title]], such as for [[judge]]s or [[governor]]s or certain ranks of [[nobility]], whereas ''-sama'' is purely about politeness and relative social closeness.
+The ''-sama'' suffix after personal names is more respectful than the everyday {{ja-r|-さん}}, and is generally only used when being very [[polite]]. Gender-neutral. This is sometimes glossed as {{m|en|honorable}}, but {{m|en|honorable}} is also used as a [[title]], such as for [[judge]]s or [[governor]]s or certain ranks of [[nobility]], whereas ''-sama'' is purely about politeness and relative social closeness.
 
-====See also====
-{{der-top|See also: personal honorifics}}
-* {{ja-r|さん}}
-* {{ja-r|君|くん}}
-* {{ja-r|ちゃん}}
-* {{ja-r|殿|どの}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|さん|-san}}
+* {{ja-r|様々|さまさま|rom=-}}, {{ja-r|様様|さまさま}}
+* {{ja-r|王様|おう-さま}}
+* {{ja-r|お蔭様|おかげさま|rom=-}}, {{ja-r|御%蔭%様|お%かげ%さま}}
+* {{ja-r|お客%様|おきゃく%-さま|rom=-}}, {{ja-r|御%客%様|お%きゃく%-さま}}
+* {{ja-r|奥様|おくさま}}
+* {{ja-r|お日%様|おひ%さま|rom=-}}, {{ja-r|御日%様|おひ%さま}}
+* {{ja-r|お姫%様|おひめ%-さま|rom=-}}, {{ja-r|御%姫%様|お%ひめ%-さま}}
+* {{ja-r|神様|かみさま}}
+* {{ja-r|貴%様|き%さま}}
+* {{ja-r|殿様|との-さま}}
+* {{ja-r|姫様|ひ.いさま}}
+* {{ja-r|皆様|みな-さま}}
+{{der-bottom}}
+
+=====See also=====
+{{der-top|Personal honorifics}}
+* {{ja-r|君|-くん}}
+* {{ja-r|ちゃん|-chan}}
+* {{ja-r|殿|-どの}}
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=k|ちゃま}}
-Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare the formation of {{ja-r|ちゃん}} from {{ja-r|さん}}.
+{{ja-kanjitab|ちゃま|yomi=irr}}
+
+Childish version of ''sama'' above.<ref name="DJR"/> Compare the formation of {{ja-r|-ちゃん}} from {{ja-r|-さん}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ちゃま|acc=2}}
@@ -150,7 +235,7 @@ Childish version of ''sama'' above.<ref name="DJR">{{R:Daijirin}}</ref> Compare 
 ====Suffix====
 {{ja-pos|ちゃま|suffix|kyu=樣}}
 
-# {{lb|ja|sort=ちゃま|childish}} honorific suffix
+# {{lb|ja|sort=ちゃま|childish}} {{n-g|honorific suffix}}: ''Same as'' {{ja-l||さま|sama}} ''above''
 
 ===References===
 <references/>
