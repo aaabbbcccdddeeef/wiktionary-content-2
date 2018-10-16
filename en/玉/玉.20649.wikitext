@@ -78,19 +78,37 @@ It is also interpreted as three pieces of jade strung together on a string.
 ===Kanji===
 {{ja-kanji|grade=1|rs=玉00}}
 
+# [[gem]], [[jewel]]
+# [[beauty]], [[elegance]]
+# {{n-g|[[euphemistic]] term related to an [[emperor|Emperor]] of Japan}}
+# {{n-g|[[euphemistic]] term related to a [[partner]]}}
+# [[geisha]]
+
 ====Readings====
 {{ja-readings
 |goon=ごく
 |kanon=ぎょく
 |kun=たま-
+|nanori=おく, きよ, ひかる
 }}
 
-====Synonyms====
-* {{sense|[[precious]] [[treasure]]}} {{l|ja|宝}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|玉%音|ぎょく%いん}}
+* {{ja-r|玉%条|ぎょく%じょう}}
+* {{ja-r|玉%楼|ぎょく%ろう}}
+* {{ja-r|玉蜀黍|トウモロコシ}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|たま|yomi=k}}
-[[kun'yomi]]
+
+From {{inh|ja|ojp|sort=たま|-}}.
+
+====Alternative forms====
+* {{ja-l|球}}, {{ja-l|珠}}
+* {{s|bullet}} {{ja-l|弾}}
+* {{s|gem}} {{ja-l|璧}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}
@@ -98,18 +116,64 @@ It is also interpreted as three pieces of jade strung together on a string.
 ====Noun====
 {{ja-noun|たま}}
 
-# [[ball]]
-# (a Japanese) [[coin]]
-#: {{ja-usex|一円玉|いち えん だま|one-yen coin}}
+# ''any [[spherical]] or similarly-[[round]]ed [[object]]'':
+## a [[ball]]
+## a [[orb]]
+## a [[sphere]]
+## a [[bead]] of an [[abacus]]
+## [[lens]]
+##: {{syn|ja|レンズ|tr=renzu}}
+## a [[bullet]]
+## an [[egg]], ''especially'' of a [[chicken]]
+##: {{syn|ja|鶏卵|tr=keiran|[[卵]], [[玉子]]|tr2=tamago}}
+# a [[gem]], [[jewel]]
+# an [[object]] of [[value]]
+# a [[female]] [[entertainer]] {{gl|''[[geisha]]'', [[prostitute]], etc.}}
+# {{lb|ja|colloquial|sort=たま}} {{short for|lang=ja|金玉|tr=kintama|nodot=1|sort=たま}}: [[testicles]]
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|藻玉|もだま}}: [[St. Thomas bean]]
+* {{ja-r|霊|たま|rom=-}},　{{ja-r|魂|たま|[[soul]], [[spirit]]}}
+* {{ja-r|玉章|たまずさ}}
+* {{ja-r|玉の緒|たま の お}}
+* {{ja-r|一円%玉|いちえん%-だま}}
+* {{ja-r|掻き玉|かきたま}}
+* {{ja-r|金玉|きんたま}}
+* {{ja-r|薬玉|くすだま}}
+* {{ja-r|五円%玉|ごえん%-だま}}
+* {{ja-r|五十円%玉|ごじゅうえん%-だま}}
+* {{ja-r|五%百%円%玉|ご%ひゃく%えん%-だま}}
+* {{ja-r|十円%玉|じゅうえん%-だま}}
+* {{ja-r|射干%玉|ぬば%たま}}
+* {{ja-r|百%円%玉|ひゃく%えん%-だま}}
+* {{ja-r|曲玉|まがたま|rom=-}}, {{ja-r|勾玉|まがたま}}
+* {{ja-r|藻%玉|モ%ダマ|[[St. Thomas bean]]}}
 {{der-bottom}}
 
+====Prefix====
+{{ja-pos|prefix|たま}}
+
+# {{rfdef|ja}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|玉垣|たまがき}}
+* {{ja-r|玉%櫛%笥|たま%くし%げ|rom=-}},　{{ja-r|玉%匣|たま%くしげ}}
+* {{ja-r|玉%砂利|たま%じゃり}}
+* {{ja-r|玉%襷|たま%だすき}}
+* {{ja-r|玉%藻|たま%も}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|たま}}
+
+# ''a [[place name]]''
+# {{given name|female|lang=ja|A=a|nodot=1|sort=たま}}
+
 ===Etymology 2===
-{{ja-kanjitab|ぎょく|yomi=o}}
-[[on'yomi]]
+{{ja-kanjitab|ぎょく|yomi=ko}}
+
+From {{bor|ja|ltc|sort=きよく'|-}} {{ltc-l|玉}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|ぎょく|acc=0|acc_ref=DJR,NHK|acc_note=​|acc2=1|acc2_ref=DJR,NHK|acc2_note={{qualifier|a stock being traded}}}}
@@ -117,14 +181,30 @@ It is also interpreted as three pieces of jade strung together on a string.
 ====Noun====
 {{ja-noun|ぎょく}}
 
-# precious stone
-# a chicken’s egg (to be eaten)
-# a stock being traded
-# [[geisha]]
+# a [[gem]], [[jewel]]
+# [[generic name]] for [[jadeite]] or [[nephrite]]
+# [[chicken]] [[egg]]s used as [[food]], ''especially'' as a [[topping]] for [[sushi]]
+#: {{syn|ja|鶏卵|tr=keiran}}
+# a [[stock]] being [[trade]]d
+# {{short for|lang=ja|建て玉|tr=tategyoku|nodot=1|sort=きよく'}}: {{rfdef|ja}}
+# a [[geisha]]
+#: {{syn|ja|芸者|tr=geisha}}
+# {{short for|lang=ja|玉代|tr=gyokudai|nodot=1}}: {{rfdef|ja}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|玉%音|ぎょく%おん}}
+* {{ja-r|玉%将|ぎょく%しょう}}
+* {{ja-r|玉%代|ぎょく%だい}}
+* {{ja-r|玉%露|ぎょく%ろ}}
+* {{ja-r|半玉|はんぎょく}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|玉を吞む|ぎょく を のむ}}
 
 ===Etymology 3===
-{{ja-kanjitab|ぎょく|yomi=o}}
-Abbreviation of {{l|ja|玉将}}
+{{ja-kanjitab|ぎょく|yomi=ko}}
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|ぎょく|acc=1|acc_ref=DJR}}
@@ -132,7 +212,11 @@ Abbreviation of {{l|ja|玉将}}
 ====Noun====
 {{ja-noun|ぎょく}}
 
-# [[king]] in [[shogi]]
+# {{lb|ja|shogi|sort=きよく'}} {{short for|lang=ja|玉将|tr=gyokushō|sort=きよく'}}: the "[[jeweled]] [[king]]" that indicates the first player to move at the beginning
+#: {{ant|ja|王|tr=ō}}
+
+=====Derived terms=====
+* {{ja-r|入%玉|にゅう%ぎょく}}
 
 ===References===
 <references/>
