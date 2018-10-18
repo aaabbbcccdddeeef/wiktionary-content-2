@@ -11,15 +11,13 @@
 ----
 
 ==Chinese==
+{{zh-forms|s=泄|alt=泄}}
 
-===Etymology 1===
-{{zh-forms|s=泄}}
-
-====Glyph origin====
+===Glyph origin===
 {{Han etym}}
 {{Han compound|水|曳|alt1=氵|c1=s|c2=p|t1=water|ls=psc}}.
 
-====Pronunciation 1====
+===Pronunciation 1===
 {{zh-pron
 |m=yì
 |c=jai6
@@ -28,13 +26,13 @@
 |cat=a,pn
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # {{zh-used in|洩洩}}
 # {{zh-alt-form|泄|tr=-|name of a river in Anhui Province}}
 
-====Pronunciation 2====
+===Pronunciation 2===
 {{zh-pron
 |m=xiè
 |c=sit3
@@ -43,7 +41,7 @@
 |cat=v,n
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|of [[water]] or [[gas]]}} to [[leak]]
@@ -51,27 +49,8 @@
 # to [[reveal]]; to [[divulge]] (''eg.'' [[secret]]s)
 # {{lb|zh|archaic}} [[waterfall]] <!-- Refer 《水經註》 -->
 
-=====Compounds=====
+===Compounds===
 {{zh-der|傾洩|共洩|外洩|宣洩|排洩|水洩不通|洩勁|洩壓|洩密|洩底|洩恨|洩憤|洩氣|洩洩|洩洪|洩漏|洩漏天機|洩漏風聲|洩露|溶溶洩洩|漏洩|漏洩春光|發洩|洩湖}}
-
-====References====
-* {{R:twedu|B02083}}
-* {{R:yue:Hanzi}}
-
-===Etymology 2===
-
-====Glyph origin====
-{{w|Variant Chinese character|Variant}} form of {{l|zh|𣳘}} (modern form: {{l|zh|泄}}) found in the historical {{w|Guangyun}} 《{{w2|zh|廣韻}}》 {{w|rime dictionary}} from the {{w|Song dynasty}} (1008 AD).
-
-A similar character,  ⿰氵⿺曳丶 is listed as a variant form of {{l|zh|𣳘}} in a copy of the historical {{w|Yupian}} 《{{w2|zh|玉篇}}》 dictionary published during the {{w|Yuan dynasty}}. <!-- Note: 玉篇 is published during the Liang dynasty (543 AD) but this glyph form is observed in 玉篇 (元刊本) -->
-
-Also listed as a {{w|Variant Chinese character|variant form}} of {{l|zh|泄}} in the 1956 first round revision table of variant Chinese characters ({{w2|zh|第一批异体字整理表}}) by the People's Republic of China <!-- Refer https://zh.wikisource.org/wiki/第一批异体字整理表/1955年 -->
-
-====Definitions====
-{{zh-see|泄|v}}
-
-====References====
-* {{R:twedu|A02171-002#25}}
 
 ----
 
@@ -88,6 +67,13 @@ Also listed as a {{w|Variant Chinese character|variant form}} of {{l|zh|泄}} in
 |kun=の-びる, も-れる
 }}
 
+====Compounds====
+{{der3|lang=ja
+|{{ja-r|漏洩|ろうえい}}
+|{{ja-r|洩らす|もらす|{{alt-form|lang=ja|{{ja-r|漏らす|もらす|rom=-}}}}}}
+|{{ja-r|洩れる|もれる|{{alt-form|lang=ja|{{ja-r|漏れる|もれる|rom=-}}}}}}
+}}
+
 ----
 
 ==Korean==
@@ -102,9 +88,14 @@ Also listed as a {{w|Variant Chinese character|variant form}} of {{l|zh|泄}} in
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|rs=水06|[[dáy]], [[tiết]], [[dịa]], [[duệ]]}}
+{{vi-readings|rs=水06
+|hanviet=tiết, duệ
+|nom=tiết, dãi, dáy, dịa
+}}
 
 # {{defn|lang=vi|sort=水06}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=6D29 Nom Foundation]
+===References===
+* {{vi-ref|Hồ (1976)}}.
+* {{vi-ref|Nguyễn (2014)}}.
+* {{vi-ref|Trần (2004)}}.
