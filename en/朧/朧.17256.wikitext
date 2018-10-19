@@ -42,30 +42,83 @@ Unlike other characters with a {{m|zh|月}}-like component on the left, this cha
 ===Kanji===
 {{ja-kanji|grade=|rs=月16}}
 
-# [[hazy]]
-# [[cloudy]]
+# [[hazy]], [[cloudy]]
 
 ====Readings====
-{{ja-kanjitab|おぼろ|yomi=k}}
 {{ja-readings
 |goon=る
 |kanon=ろう
 |kun=おぼろ-
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|朧朧|ろうろう|rom=-}}, {{ja-r|朧々|ろうろう}}
+* {{ja-r|朧銀|ろうぎん}}
+* {{ja-r|朧月|ろうげつ}}
+* {{ja-r|朧夜|ろうや}}
+* {{ja-r|朦朧|もうろう}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|おぼろ|yomi=k}}
+Cognate with {{m|ja|凡|tr=opo → ō||[[dim]], [[faint]]}}.
+
+===Pronunciation===
+{{ja-pron|y=k|おぼろ|acc=0|acc_ref=DJR}}
+
 ===Adjectival noun===
 {{ja-adj|infl=na|おぼろ}}
 
 # [[hazy]], [[cloudy]]
+# [[uncertain]], [[unreliable]]
 
 ====Inflection====
 {{ja-na|おぼろ}}
 
+====Derived terms====
+{{der-top}}
+* {{ja-r|朧%朧|おぼろ%-おぼろ|rom=-}}, {{ja-r|朧%々|おぼろ%-おぼろ}}
+* {{ja-r|朧%影|おぼろ%かげ}}
+* {{ja-r|朧絣|おぼろがすり}}
+* {{ja-r|朧%銀|おぼろ%ぎん}}
+* {{ja-r|朧%雲|おぼろ%ぐも}}
+* {{ja-r|朧%九曜|おぼろ%-くよう}}
+* {{ja-r|朧げ|おぼろげ|rom=-}}, {{ja-r|朧%気|おぼろ%げ}}
+* {{ja-r|朧%昆布|おぼろ%-こんぶ}}
+* {{ja-r|朧%染|おぼろ%ぞめ|rom=-}}, {{ja-r|朧%染め|おぼろ%ぞめ}}
+* {{ja-r|朧%月|おぼろ%づき}}
+* {{ja-r|朧%月%夜|おぼろ%づき%よ}}, {{ja-r|朧%月%夜|おぼろ%づく%よ}}
+* {{ja-r|朧%蔦|おぼろ%づた}}
+* {{ja-r|朧%豆腐|おぼろ%-どうふ}}
+* {{ja-r|朧の清水|^おぼろ の ^しみず}}
+* {{ja-r|朧%花色|おぼろ%-はないろ}}
+* {{ja-r|朧%富士|おぼろ%ふじ}}
+* {{ja-r|朧%船|おぼろ%ぶね}}
+* {{ja-r|朧%饅頭|おぼろ%-まんじゅう}}
+* {{ja-r|朧%木綿|おぼろ%-もめん}}
+* {{ja-r|朧%闇|おぼろ%やみ}}
+* {{ja-r|朧%夜|おぼろ%よ}}
+* {{ja-r|朧%輪|おぼろ%わ}}
+* {{ja-r|月も朧に白魚の篝もかすむ春の空|つき も おぼろ に しらうお の かがり も かすむ はる の そら}}
+{{der-bottom}}
+
 ===Noun===
 {{ja-noun|おぼろ}}
 
-# [[mince]]d meat
-# minced fish meat
+# [[mince]]d [[meat]] or [[seafood]]
+# {{short for|lang=ja|朧昆布|tr=oboro-konbu|nodot=1|sort=おほろ}}: [[shred]]ded [[kelp]]
+# {{short for|lang=ja|朧豆腐|tr=oboro-dōfu|nodot=1}}: {{rfdef|ja|sort=おほろ}}
+# {{short for|lang=ja|朧饅頭|tr=oboro-manjū|nodot=1}}: [[steam]]ed [[bun]] with the outer covering removed after steaming
+
+===Proper noun===
+{{ja-pos|proper|おぼろ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=おほろ}} 
+# {{surname|lang=ja|A=a|nodot=1|sort=おほろ}} 
+
+===References===
+<references/>
 
 ----
 
