@@ -27,23 +27,68 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=犬06|kyu=貉}}
 
-# {{defn|lang=ja|sort=犬06}}
+# [[badger]]
+# [[raccoon dog]]
 
 ====Readings====
 {{ja-readings
+|goon=がく
 |kanon=かく
 |kun=むじな-
 }}
 
-===Noun===
-{{ja-noun|むじな|ムジナ}}
-[[File:Wakan Sansai Zue - Mujina.jpg|thumb|"Mujina" from the [[w:Wakan Sansai Zue|Wakan Sansai Zue]]]]
+===Etymology 1===
+<div style="float:right;">
+{{wp|ムジナ}}
+{{wp|Mujina}}
+[[File:Wakan Sansai Zue - Mujina.jpg|thumb|A '''{{m|ja||狢|tr=mujina}}''' from the ''{{m|ja||和漢三才図会|tr={{w|Wakan Sansai Zue}}}}'']]
+</div>
+{{ja-kanjitab|むじな|yomi=k}}
 
-# A [[badger]]; an old Japanese term primarily referring to the badger. In some regions the term refers instead to the Japanese [[raccoon dog]].
-# {{lb|ja|mythology|sort=むじな}} In Japanese folklore, like the fox and the tanuki, they are frequently depicted as a yōkai that shapeshifts and deceives humans.
+From {{inh|ja|ojp|sort=むしな|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
 
-====Coordinate terms====
-* {{ja-r|狸|たぬき}}
+====Pronunciation====
+{{ja-pron|y=k|むじな|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=貉|むじな|ムジナ}}
+
+# {{synonym of|lang=ja|穴熊|tr=anaguma|nodot=1|sort=むしな}}: a [[badger]]
+# {{lb|ja|regional|sort=むしな}} {{synonym of|lang=ja|狸|tr=tanuki|nodot=1}}: a [[raccoon dog]]
+#: from the similarity of its [[fur]] [[color]] compared to a ''badger''
+# {{lb|ja|mythology|sort=むしな}} a ''{{ll|ja|妖怪|yōkai}}'' that [[shapeshift]]s and deceives humans
+
+=====Derived terms=====
+* {{ja-r|狢%藻|ムジナ%モ|[[waterwheel plant]]|pos={{taxlink|Aldrovanda vesiculosa|species|ver=181022}}}}
+
+=====Proverbs=====
+* {{ja-r|一つ穴の狢|ひとつ あな の むじな}}
+* {{ja-r|同じ穴の狢|おなじ あな の むじな}}
+
+===Etymology 2===
+{{ja-kanjitab|もじな|yomi=irr}}
+
+Shift from ''mujina'' above.<ref>{{R:Daijisen}}</ref>
+
+====Noun====
+{{ja-noun|kyu=貉|もじな}}
+
+# {{lb|ja|regional|sort=もしな}} ''Same as'' {{m|ja||むじな|tr=mujina}} ''above''
+
+===Etymology 3===
+{{ja-kanjitab|うじな|yomi=irr}}
+
+From {{inh|ja|ojp|-}}, first attested in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).<ref name="DJR"/>
+
+Possibly a shift from ''mujina'' above.
+
+====Noun====
+{{ja-noun|kyu=貉|うじな}}
+
+# {{lb|ja|obsolete|sort=うしな}} ''Same as'' {{m|ja||むじな|tr=mujina}} ''above''
+
+===References===
+<references/>
 
 ----
 
