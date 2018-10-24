@@ -1,23 +1,28 @@
 {{character info/new}}
 {{character info/new|0x2f839}}
 ==Translingual==
-{{stroke order}}
+{{stroke order|strokes=5}}
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=30|rad=口|as=02|asj=03|sn=5|snj=6|four=64000|canj=RVL|ids=⿰口丩}}
 
+====Derived characters====
+* {{l|mul|[[𢫃]], [[𣐲]], [[𣌺]], [[𨦀]], [[䆗]]}}
+
 ====References====
-* {{Han ref|kx=0172.060|dkj=03240|dj=0383.020|hdz=10573.020|uh=53EB|ud=21483|bh=A573|bd=42355}}
+{{Han ref|kx=0172.060|dkj=03240|dj=0383.020|hdz=10573.020|uh=53EB}}
+{{Han ref|uh=2F839}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=呌,嘂}}
+{{zh-forms|alt=呌,哯,嘂,嘄,噭,䚯,訆,𠮧,𠮪,𠶼,𠸵,[[叽#Glyph 2|⿰口儿]]}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|口|丩|ls=psc|c1=s|c2=p|t1=mouth}} To call out with ones mouth.
+{{Han compound|口|丩|ls=psc|c1=s|c2=p|t1=mouth}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=jiào
@@ -38,7 +43,7 @@
 {{zh-hanzi}}
 
 # to [[be called]]
-#: {{zh-x|你 叫 什麼 名字？|What is your name?}}
+#* {{zh-x|你 叫 什麼 名字？|What is your name?}}
 #* {{zh-x|這 叫 什麼？|How do you '''call''' this? / What '''is it called'''?}}
 #* {{zh-x|雖然 個 名 叫 @[&hellip;]|although it is called {{...}}|C}}
 # to [[call]]; to [[name]]
@@ -48,7 +53,7 @@
 #: {{zh-x|叫 警察|to call the police}}
 #* {{zh-x|要是 需要 什麼，我 就 叫 你。|I' ll '''call''' you if anything is needed.}}
 # to [[cry]]; to [[shout]]
-#: {{zh-x|狗叫|bark}}
+#: {{zh-x|狗叫|dog bark}}
 #* {{zh-x|她 高興 地 叫 起來，投入 了 她 母親 的 懷抱。|With a '''cry''' of joy, she fell into her mother's arms.}}
 # to [[hail]]; to [[greet]]
 # to [[ask]]; to [[order]]
@@ -76,9 +81,9 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=口02}}
+{{ja-kanji|grade=c|rs=口03}}
 
-# to [[shout]], to [[scream]]
+# to [[shout]]; to [[scream]]
 # to [[clamor]] for or against something, to make an [[appeal]] for or against something
 
 ====Readings====
@@ -89,11 +94,27 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|哀叫|あいきょう}}
-* {{ja-r|阿鼻叫喚|あびきょうかん}}
-* {{ja-r|熱叫|ねっきょう}}
-{{der-bottom}}
+{{der3|lang=ja
+|{{ja-r|叫び|さけび}}
+|{{ja-r|叫び声|さけびごえ}}
+|{{ja-r|叫び出す|さけびだす}}
+}}
+
+===Etymology===
+{{ja-kanjitab|きょう|yomi=o}}
+From {{der|ja|ltc|sort=きょう|-}} {{ltc-l|叫}}, compare modern {{cog|nan|-}} {{m|nan|kiò}}.
+
+===Pronunciation===
+{{ja-pron|きょう|yomi=o}}
+
+=====Derived terms=====
+{{der3|lang=ja|title=Terms derived from {{ja-r|叫|きょう}}:
+|{{ja-r|哀叫|あいきょう}}
+|{{ja-r|阿鼻叫喚|あびきょうかん}}
+|{{ja-r|叫喚|きょうかん}}
+|{{ja-r|絶叫|ぜっきょう}}
+|{{ja-r|熱叫|ねっきょう}}
+}}
 
 ----
 
@@ -109,6 +130,13 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[khiếu]], [[kêu]], [[kíu]]|rs=口02}}
+{{vi-readings|rs=口02
+|hanviet=khiếu
+|nom=khiếu, kêu, kíu
+}}
 
 # {{defn|lang=vi|sort=口02}}
+
+===References===
+* {{vi-ref|Hồ (1976)}}.
+* {{vi-ref|Nguyễn (2014)}}.
