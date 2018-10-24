@@ -3,33 +3,40 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=30|rad=口|as=07|sn=10|four=|canj=RBUU|ids=⿰口見}}
+{{Han char|rn=30|rad=口|as=07|sn=10|four=66012|canj=RBUU|ids=⿰口見}}
 
-# to [[retch]]
+====Related characters====
+* {{l|mul|[[𠯟]]}} ''([[Simplified Chinese]])''
 
 ====References====
-* {{Han ref|kx=0190.280|dkj=03661|dj=0410.090|hdz=10629.010|uh=54EF}}
+{{Han ref|kx=0190.280|dkj=03661|dj=0410.090|hdz=10629.010|uh=54EF}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=𠯟}}
+{{zh-forms|s=𠯟|alt=咞,唺}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|見|c1=s|c2=p|t1=mouth|ls=psc}}.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=xiàn
 |mc=y
 |oc=y
-|cat=
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{†}} to [[retch]]; to [[vomit]]
+
+===Etymology 2===
+{{zh-see|叫}}
 
 ----
 
@@ -41,12 +48,16 @@
 # {{defn|lang=ja|sort=口07}}
 
 ====Readings====
-{{ja-readings|goon=[[げん]] (gen)|kanon=[[けん]] (ken)|kun=[[はく]] (haku)}}
+{{ja-readings
+|goon=げん
+|kanon=けん
+|kun=はく
+}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|哯吐|つだみ}}: (of an infant, etc) [[spitting]] out [[milk]] after taking a drink
-{{der-bottom}}
+{{der2|lang=ja
+|{{ja-r|哯吐|つだみ}}: (of an infant, etc) [[spitting]] out [[milk]] after taking a drink
+}}
 
 ----
 
@@ -56,3 +67,17 @@
 {{ko-hanja|hangeul=현|rv=hyeon|mr=hyŏn}}
 
 # {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=口07
+|nom=kén, nghiến
+}}
+
+# {{defn|lang=vi|sort=口07}}
+
+===References===
+* {{vi-ref|Nguyễn (2014)}}.
