@@ -78,47 +78,207 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=己00}}
 
-# [[I]] ([[male]])
+# [[itself]], [[oneself]]
 
 ====Readings====
 {{ja-readings
-|goon=き
-|kanon=こ
-|kun=おのれ-, つちのと-, おら-
-|nanori=み
+|goon=こ
+|kanon=き
+|kun=おのれ-, おの-, おら-, おれ-, つちのと-
+|nanori=おと, な, み
 }}
 
-====Derived terms====
-* {{ja-r|己に克つ|おのれ に かつ}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|己心|こしん}}
+* {{ja-r|己身|こしん}}
+* {{ja-r|已己巳己|いこみき}}
+* {{ja-r|一己|いっこ}}
+* {{ja-r|克己|こっき}}
+* {{ja-r|自己|じこ}}
+* {{ja-r|妲己|^だっき}}
+* {{ja-r|知己|ちき}}, {{ja-r|知己|ちこ}}
+* {{ja-r|利己|りこ}}
+* {{ja-r|及己|フタリシズカ}}
+* {{ja-r|単己|するすみ}}
+{{der-bottom}}
+
+====Usage notes====
+Used in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨i⟩}}, {{IPAfont|⟨ko<sub>2</sub>⟩}}, and {{IPAfont|⟨go<sub>2</sub>⟩}}.
 
 ===Etymology 1===
-{{ja-kanjitab|き|yomi=o}}
 {{wp|lang=ja}}
-From {{der|ja|ltc|己|tr=ki<sup>X</sup>|sort=き}}
+{{ja-kanjitab|き|yomi=kanon}}
+
+From {{der|ja|ltc|sort=き|-}} {{ltc-l|己}}.
 
 ====Pronunciation====
-{{ja-pron|acc=1|y=go|き}}
-* {{hmp|lang=ja|sort=き|木|樹|生|杵|柝|黄|危|忌|奇|季|癸|紀|鬼|基|揆|期|簋}}
+{{ja-pron|y=ko|き|acc=1|acc_ref=DJR}}
 
 ====Proper noun====
 {{ja-pos|proper|き}}
 
 # the sixth of the ten {{w|Celestial stem|Heavenly Stems}}
+#: {{hyper|ja|十干|tr=Jikkan}}
 
-{{topics|ja|Heavenly Stems|sort=き}}
+=====Derived terms=====
+* {{ja-r|己巳|^きし}}
 
 ===Etymology 2===
 {{ja-kanjitab|つちのと|yomi=k}}
-{{com|ja|土|の|弟|tr1=Tsuchi|t1={{w|Earth (Wu Xing)|Earth}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=oto|t3=[[younger brother]]|sort=つちのと}}
+
+Originally a compound of {{com|ja|sort=つちのと|土|の|弟|tr1=tsuchi|t1=[[earth]]|pos1=one of the {{w|Wu Xing|Chinese five elements}}|tr2=no|pos2=possessive particle|tr3=oto|t3=[[younger brother]]}}.
 
 ====Pronunciation====
-{{ja-pron|acc=3|dev=1|y=k|つちのと}}
+{{ja-pron|y=k|つちのと|acc=3|dev=1|acc_ref=DJR}}
 
 ====Proper noun====
 {{ja-pos|proper|つちのと}}
 
 # the sixth of the ten {{w|Celestial stem|Heavenly Stems}}
+#: {{hyper|ja|十干|tr=Jikkan}}
 
+===Etymology 3===
+{{ja-kanjitab|おのれ|yomi=k}}
+
+From {{compound|lang=ja|己|tr1=ono|pos1=[[reflexive pronoun|reflexive]] or [[first-person]] pronoun, see below|れ|tr2=re|t2=[[thing]]|pos2=demonstrative nominalizer ending}}.
+
+====Pronunciation====
+{{ja-pron|y=k|おのれ|acc=0|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|おのれ}}
+
+# {{n-g|[[reflexive pronoun]]}}: [[oneself]]
+# {{n-g|[[first-person]] pronoun}}: [[I]], [[me]]
+# {{n-g|[[second-person]] pronoun}}: [[you]] {{rfv-sense|ja}}
+#: {{syn|ja|お前|tr=omae|貴様|tr2=kisama}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|己と|おのれ と}}
+* {{ja-r|己やれ|おのれ やれ}}
+* {{ja-r|己%顔|おのれ%がお}}
+* {{ja-r|己%奴|おのれ%め}}
+* {{ja-r|己%等|おのれ%ら}}
+* {{ja-r|己を枉ぐ|おのれ を まぐ}}
+* {{ja-r|勝つは己に克つより大なるはなし|かつ は おのれ に かつ より だい なる は なし}}
+{{der-bottom}}
+
+====Adverb====
+{{ja-pos|adverb|おのれ}}
+
+# {{rfdef|ja}}
+#: {{syn|ja|自然に|tr=shizen ni|独りでに|tr2=hitori de ni}}
+
+====Pronoun====
+{{ja-pos|interjection|おのれ}}
+
+# {{rfdef|ja}}
+
+===Etymology 4===
+{{ja-kanjitab|おの|yomi=k}}
+
+{{rfe|ja|sort=おの}}
+
+====Pronoun====
+{{ja-pos|pronoun|おの}}
+
+# {{n-g|[[reflexive pronoun]]}}: [[oneself]]
+# {{n-g|[[first-person]] pronoun}}: [[I]], [[me]]
+#: {{syn|ja|私|tr=watakushi|我|tr2=ware}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|己が|おのが}}
+* {{ja-r|己様|おのさま}}
+* {{ja-r|自ずから|おのずから}}
+* {{ja-r|己妻|おのづま|rom=-}}, {{ja-r|己夫|おのづま}}
+* {{ja-r|己%等|おの%ら}}
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|おれ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|y=k|おれ|acc=0|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|おれ}}
+
+# {{altspell|lang=ja|俺|tr=ore|nodot=1}}: {{n-g|[[first-person]] pronoun}}: [[I]], [[me]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|己様|おれさま}}
+* {{ja-r|己共|おんども}}
+* {{ja-r|己%奴|おれ%め}}
+* {{ja-r|己%等|おれ%ら}}
+* {{ja-r|如己%男|もころ%お}}
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|おら|yomi=k}}
+
+{{rfe|ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|おら}}
+
+# {{n-g|[[first-person]] pronoun}}: [[I]], [[me]]
+
+===Etymology 7===
+{{ja-kanjitab|うぬ|yomi=irr}}
+
+Sound shift from ''ono'' (see above).<ref name="DJR"/>
+
+====Alternative forms====
+* {{ja-l|汝}}
+
+====Pronunciation====
+{{ja-pron|y=i|うぬ|acc=0|acc2=1}}
+* Pronunciation for pronoun senses unknown.
+
+====Pronoun====
+{{ja-pos|pronoun|うぬ}}
+
+#{{n-g|[[second-person]] pronoun}}: [[you]]
+# {{n-g|[[reflexive pronoun]]}}: [[oneself]]
+#: {{syn|ja|自分自身|tr=jibun-jishin}} 
+
+=====Derived terms=====
+* {{ja-r|己%等|うぬ%ら}}
+
+====Interjection====
+{{ja-pos|interjection|うぬ}}
+
+# {{rfdef|ja}}
+
+===Etymology 8===
+{{ja-kanjitab|うら|yomi=irr}}
+
+{{rfe|ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|うら}}
+
+# {{n-g|[[first-person]] pronoun}}: [[I]], [[me]]
+
+===Etymology 9===
+{{ja-kanjitab|おどれ|yomi=irr}}
+
+Sound shift from ''onore'' (see above).<ref name="DJR"/>
+
+====Pronoun====
+{{ja-pos|pronoun|おどれ}}
+
+# {{n-g|[[second-person]] pronoun}}: [[you]]
+#: {{syn|ja|己|tr=unu|貴様|tr2=kisama}}
+
+===References===
+<references/>
+
+{{top|ja|Heavenly Stems|sort=き}}
 {{cln|ja|words with multiple readings}}
 
 ----
