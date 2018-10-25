@@ -9,12 +9,26 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[bok3]], [[bok6]]|y=bok3, bok6}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|薄|ls=psc|c1=s|c2=p|t1=tree}}
 
-# {{defn|lang=yue|sort=木17}}
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bok3,bok6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ----
 
@@ -26,7 +40,7 @@
 # {{defn|lang=ja|sort=木17}}
 
 ====Readings====
-* {{ja-readings|on=[[はく]] (haku), [[ばく]] (baku), [[へき]] (heki), [[びゃく]] (byaku)|kun=[[はしら]] (hashira)}}
+{{ja-readings|on=[[はく]] (haku), [[ばく]] (baku), [[へき]] (heki), [[びゃく]] (byaku)|kun=[[はしら]] (hashira)}}
 
 ----
 
@@ -36,15 +50,3 @@
 {{ko-hanja|hangeul=박|eumhun=|rv=bak|mr=pak|y=pak}}
 
 # {{defn|lang=ko|sort=木17}}
-
-----
-
-==Mandarin==
-
-===Glyph origin===
-{{Han compound|木|薄|ls=psc|c1=s|c2=p|t1=tree}}
-
-===Hanzi===
-{{cmn-hanzi|pin=[[bó]] ([[bo2]])|wg=po<sup>2</sup>}}
-
-# {{defn|lang=cmn|sort=木17}}
