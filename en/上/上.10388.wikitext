@@ -331,13 +331,22 @@ Distinct from {{m|ja|神|tr={{IPAfont|⟨kami<sub>2</sub>⟩}} → [[kami]]||[[S
 {{der-bottom}}
 
 ===Etymology 5===
-{{ja-kanjitab|かん|yomi=k}}
+{{ja-kanjitab|yomi=k|かん}}
+
 {{IPAfont|/kami/}} → {{IPAchar|/kaɴ/}}
 
-Contraction of {{inh|ja|ojp|-}} ''kami<sub>1</sub>'' ([https://kotobank.jp/word/%E4%B8%8A-33718 上] at [[Template:R:Kokugo Dai Jiten|''Kokugo Dai Jiten'']]).
+Contraction of {{inh|ja|ojp|-}} {{IPAfont|⟨kami<sub>1</sub>⟩}}.  Spelled in ancient works as {{ja-r|かむ}} prior to the development of the {{ja-r|ん}} kana.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かん}}
+
+====Noun====
+{{ja-noun|かん}}
+
+# {{lb|ja|sort=かん|obsolete}} ''see'' kami ''above''
 
 =====Usage notes=====
-The senses are the same with ''kami''.
+Generally only found when followed by the [[genitive]] / [[possessive]] particles {{ja-r|の}} or {{ja-r|つ}}.
 
 ===Etymology 6===
 {{ja-kanjitab|じょう|yomi=k}}
