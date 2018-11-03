@@ -4,6 +4,9 @@
 ===Han character===
 {{Han char|rn=61|rad=心|as=15|sn=18|four=90086|canj=PITC|ids=⿰忄廣}}
 
+====Releated characters====
+* {{l|mul|[[𭜡]]}} ''(Japanese {{w|shinjitai}})''
+
 ====References====
 * {{Han ref|kx=0407.280|dkj=11409|dj=0748.170|hdz=42365.040|uh=61ED|ud=25069|bh=EFC9|bd=61385}}
 
@@ -50,11 +53,15 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|𭜡|懭}}
 
 ===Kanji===
-{{ja-kanji|grade=|rs=心15}}
+{{ja-kanji|grade=|rs=心15|shin=𭜡}}
 
 # {{defn|lang=ja|sort=心15}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[うらむ]] (uramu)}}
+{{ja-readings
+|goon=こう<くわう
+|kanon=こう<くわう
+|kun=うら-む}}
