@@ -38,13 +38,37 @@ This letter creates several irregular ligatures.
 ===Alternative forms===
 {{pi-alt|Latn=ka}}
 
-===Etymology===
-From Vedic {{etyl|sa|pi}} {{m|sa|कः}}.
-
 ===Pronoun===
 {{head|pi|pronoun|cat2=interrogative pronouns}}
 
-# {{lb|pi|interrogative}} [[who]]
+# {{pi-sc|Deva|ka}}
+
+====Declension====
+{{pi-decl-noun|g=m|novoc=yes
+|dats_mod=replace|dats=कस्स|dats2=किस्स
+|abls_mod=replace|abls=कस्मा|abls2=किस्मा
+|gens=किस्स
+|locs_mod=replace|locs=कस्मिं|locs2=कम्हि|locs3=किस्मिं|locs4=किम्हि
+|nomp_mod=replace|nomp=के
+|datp_mod=replace|datp=केसं|datp2=केसानं
+|genp_mod=replace|genp=केसं|genp2=केसानं
+}}
+{{pi-decl-noun|का|g=f|novoc=yes
+|dats=कस्सा
+|gens=कस्सा
+|datp_mod=replace|datp=कासं|datp2=कासानं
+|genp_mod=replace|genp=कासं|genp2=कासानं
+}}
+{{pi-decl-noun|g=n|novoc=yes
+|noms_mod=replace|noms=किं
+|accs_mod=replace|accs=किं
+|dats_mod=replace|dats=कस्स|dats2=किस्स
+|abls_mod=replace|abls=कस्मा|abls2=किस्मा
+|gens=किस्स
+|locs_mod=replace|locs=कस्मिं|locs2=कम्हि|locs3=किस्मिं|locs4=किम्हि
+|datp_mod=replace|datp=केसं|datp2=केसानं
+|genp_mod=replace|genp=केसं|genp2=केसानं
+}}
 
 ----
 
