@@ -40,3 +40,57 @@ Ligatures:
 {{ne-pos|particle}}
 
 # Particle with slight adversative or contrasting force: [[then]], [[now]]
+
+----
+==Pali==
+
+===Alternative forms===
+{{pi-alt|Latn=ta}}
+{{pi-alt|Latn=sa}}
+
+===Adjective===
+{{pi-adj}}
+
+# {{lb|pi|demonstrative}} {{pi-sc|Deva|ta}} ("that")
+
+====Declension====
+{{pi-decl-noun|g=m
+|novoc=true
+|noms_mod=replace|noms=सो|noms2=स
+|dats_mod=replace|dats=तस्स
+|abls_mod=replace|abls=तस्मा|abls2=तम्हा|abls3=ततो
+|locs_mod=replace|locs=तस्मिं|locs2=तम्हि
+|nomp_mod=replace|nomp=ते
+|datp_mod=replace|datp=तेसं|datp2=तेसानं
+|genp_mod=replace|genp=तेसं|genp2=तेसानं}}
+{{pi-decl-noun|ता|g=f
+|novoc=true
+|noms_mod=replace|noms=सा
+|dats1=तस्सा|dats2=तिस्सा|dats3=तिस्साय
+|gens1=तस्सा|gens2=तिस्सा|gens3=तिस्साय
+|locs=तिस्सं
+|nomp_mod=replace|nomp=ता
+|accp_mod=replace|accp=ता
+|datp_mod=replace|datp=तासं|datp2=तासानं
+|genp_mod=replace|genp=तासं|genp2=तासानं
+}}
+{{pi-decl-noun|g=n
+|novoc=true
+|noms=तद्|accs=तद्
+|dats_mod=replace|dats=तस्स
+|abls_mod=replace|abls=तस्मा|abls2=तम्हा|abls3=ततो
+|locs_mod=replace|locs=तस्मिं|locs2=तम्हि
+|datp_mod=replace|datp=तेसं|datp2=तेसानं
+|genp_mod=replace|genp=तेसं|genp2=तेसानं
+}}
+
+====Usage notes====
+The case form {{l|pi|तद्}} is only used before vowels and as the prefixed combining form.  Before vowels, the halant and independent vowel coalesce to the corresponding dependent vowel.
+
+===Pronoun===
+{{pi-adj}}
+
+# {{pi-sc|Deva|ta}} ("he, she, it")
+
+====Declension====
+As for the adjective.
