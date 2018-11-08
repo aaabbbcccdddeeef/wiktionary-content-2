@@ -73,21 +73,18 @@ Alternatively, the root may be {{der|zh|aav|-}}; compare {{cog|mkh-pro|*swaaʔ||
 {{der-bottom}}
 
 ===Etymology 1===
-<div style="float:right;">
-{{swp|lang=ja|サル}}
-{{swp|Monkey}}
-[[File:JapaneseMacaqueM2218.jpg|thumb|250px|{{lang|ja|猿}} (''saru'', ''mashi'', ''mashira''): a '''[[monkey]]''', specifically a Japanese macaque.]]
-</div>
 {{ja-kanjitab|yomi=k|さる}}
+{{swp|lang=ja|サル}}
+[[File:JapaneseMacaqueM2218.jpg|thumb|250px|{{m|ja||猿|tr=saru, mashi, mashira|Japanese macaque}}]]
 
 From {{inh|ja|ojp|sort=さる|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.
 
-Ultimate derivation possibly borrowed from {{bor|sort=さる|ja|ain|サロ|tr=saro||monkey|pos=from {{m|ain|サㇻ|tr=sar||a tail}} + {{m|ain|オ|tr=o||to bear, to wear, to carry}}}}.<ref name="BAT">{{R:ain:B}}</ref>
+Ultimate derivation possibly borrowed from {{der|sort=さる|ja|ain|サロ|tr=saro||monkey|pos=from {{m|ain|サㇻ|tr=sar||a tail}} + {{m|ain|オ|tr=o||to bear, to wear, to carry}}}}.<ref name="BAT">{{R:ain:B}}</ref>
 
-The kanji is from {{der|ja|zh|猿||[[ape]]|sort=さる}}. Compare {{cog|ja|猪|tr=inoshishi||[[boar]]}} from {{cog|zh|猪||[[pig]]}} and {{cog|ja|豚|tr=buta||[[pig]]}} from {{cog|zh|豚||[[suckling]] [[pig]]}}.
+The kanji is from {{der|ja|zh|猿||[[ape]]|sort=さる}}. Compare {{ncog|ja|猪|tr=inoshishi||[[boar]]}} from {{ncog|zh|猪||[[pig]]}} and {{ncog|ja|豚|tr=buta||[[pig]]}} from {{ncog|zh|豚||[[suckling]] [[pig]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|さる|acc=1|acc_ref=DJR,SMK5}}
+{{ja-pron|y=k|さる|acc=1|acc_ref=DJR,SMK5}}
 
 ====Noun====
 {{ja-noun|さる|サル}}
@@ -97,10 +94,28 @@ The kanji is from {{der|ja|zh|猿||[[ape]]|sort=さる}}. Compare {{cog|ja|猪|t
 #*: 猕猴 二字合訓'''佐流'''
 # {{short for|lang=ja|日本猿|tr=Nihonzaru||[[Japanese macaque]]|sort=さる}}
 # {{lb|ja|loosely}} an [[ape]] {{gl|animal}}
-#:{{ja-usex|'''猿'''の惑%星|'''^さる''' の ^わく%せい|{{w|Planet of the Apes|Planet of the '''Apes'''}}}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shogakukan
+|genre=fiction
+||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
+|series={{wj|藤子・F・不二雄のSF短編|藤子不二雄少年SF短編集}}
+|{{wj|ポストの中の明日}}
+|trans-title=Post-Mid-Tomorrow
+|date=Jul 30 1988
+|edition=10th
+|origdate=Jul 25 1984
+|isbn=4-09-140702-1
+|volume=2
+|seriesvolume=2
+||117
+|chapter={{lj|[世](せ)[界](かい)[名](めい)[作](さく)[童](どう)[話](わ)[第](だい)３[巻](かん) うらしま[太](た)[郎](ろう)}}
+|trans-chapter=World’s Renowned Fairy Tales Book 3: {{w|Urashima Tarō}}
+|{{ja-usex|地%球は、'''サル'''のわく星になっていましたとさ。|ち%きゅうは、'''サル'''のわく星になっていましたとさ。|Meanwhile, Earth became the planet of the apes.|rom=Chikyū wa, '''saru''' no wakusei ni natte imashita to sa.}}}}
 
 =====Usage notes=====
-{{U:ja:biology|サル}}
+*{{U:ja:biology|サル}}
 
 =====Descendants=====
 * → Yami: {{l|tao|sazo}}
