@@ -53,6 +53,12 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=火04}}
 
+# [[flame]]
+# [[blaze]], [[burning]]
+# [[passion]]
+# [[firehot]], [[red-hot]]
+# [[inflammation]]
+
 ====Readings====
 {{ja-readings
 |goon=えん<えん<えむ
@@ -62,51 +68,85 @@
 
 ====Compounds====
 {{der-top|Compounds}}
+* {{ja-r|炎炎|えんえん|rom=-}}, {{ja-r|炎々|えんえん}}
+* {{ja-r|煙炎|えんえん}}
 * {{ja-r|炎暑|えんしょ}}
-* {{ja-r|炎症|えんしょう}}: [[inflammation]]
+* {{ja-r|炎症|えんしょう|[[inflammation]]}}
 * {{ja-r|炎上|えんじょう}}
-* {{ja-r|炎色|えんしょく}}: [[flame]] [[colour]]
+* {{ja-r|炎色|えんしょく|[[flame]] [[colour]]}}
 * {{ja-r|炎帝|えんてい}}
 * {{ja-r|炎天|えんてん}}
 * {{ja-r|炎涼|えんりょう}}
 * {{ja-r|火炎|かえん}}
+* {{ja-r|外炎|がいえん}}
 * {{ja-r|気炎|きえん}}
-* {{ja-r|舌炎|ぜつえん}}: [[glossitis]]
-* {{ja-r|虫垂炎|ちゅうすいえん}}
-* {{ja-r|葡萄膜炎|ぶどうまくえん}}: [[uveitis]]
-* {{ja-r|膀胱炎|ぼうこうえん}}: [[cystitis]]
-* {{ja-r|口内炎|こうないえん}}: [[aphthous ulcer]]
-* {{ja-r|爆炎|ばくえん}}:
+* {{ja-r|光炎|こうえん}}
+* {{ja-r|酸化%炎|さんか%えん}}
+* {{ja-r|内炎|ないえん}}
+* {{ja-r|爆炎|ばくえん}}
+* {{ja-r|防炎|ぼうえん}}
+* {{ja-r|陽炎|かげろう}}
 {{der-bottom}}
 
-===Etymology 1===
-{{wikipedia|lang=ja}}
+===Alternative forms===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Flame}}
+</div>
 {{ja-kanjitab|ほのお|yomi=k}}
+* {{ja-l|焰}}, {{ja-l|焔}}
 
-{{IPAchar|/ponopo/}} → {{IPAchar|/ɸonoɸo/}} → {{IPAchar|/ɸonowo/}} → {{IPAchar|/honowo/}} → {{IPAchar|/honoː/}}
+===Etymology 1===
+{{IPAchar|/po no po/}} → {{IPAchar|/fonofo/}} → {{IPAchar|/fonowo/}} → {{IPAchar|/honowo/}} → {{IPAchar|/honoː/}}
 
-Compound of {{compound|lang=ja|sort=ほのお|火|tr1=ho|t1=fire|の|tr2=no|pos2=possessive particle|穂|tr3=ho|t3=ear, head}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+First attested in ''{{w|Utsubo Monogatari}}'', written around the late 10th century.
+
+Compound of {{com|ja|sort=ほのお|火|tr1=ho|t1=[[fire]]|pos1=combining form|の|tr2=no|pos2=possessive particle|穂|tr3=ho|t3=[[ear]], [[head]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ほのお|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}
-
-====Alternative forms====
-* {{ja-l|焰}}, {{ja-l|焔}}
+{{ja-pron|y=k|ほのお|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}
 
 ====Noun====
 {{ja-noun|ほのお|hhira=ほのほ}}
 
-# [[flame]]
-#: {{ja-usex|ハリー・ポッターと'''炎'''のゴブレット|^ハリー・^ポッター と '''^ほのお''' の ^ゴブレット|{{w|Harry Potter and the Goblet of Fire|Harry Potter and the Goblet of '''Fire'''}}}}
-#: {{ja-usex|燃え広がる'''炎'''|^もえひろがる '''^ほのお'''|{{w|Catching Fire|Catching '''Fire'''}}}}
-#* {{RQ:Konkōmyō Saishōōkyō Ongi|5 (front)}}
-#*: 燄 '''保乃保'''
+# a [[flame]]
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|5 (front)}}<ref>{{R:Konkōmyō Saishōōkyō Ongi}}</ref>
+#*: {{lang|ja|燄 '''保乃保'''}}
 #* {{quote-book||date=Dec 22 2001||Premium Pack 5|chapter={{ruby|{{lang|ja|[真紅眼の黒竜](レッドアイズ・ブラックドラゴン)}}}}|trans-chapter=Red-Eyes Black Dragon|language=Japanese|publisher={{w|Konami}}|||{{ja-usex|真%紅の眼を持つ黒%竜。怒りの黒き'''炎'''はその眼に映る者%全てを焼き尽くす。|^しん%く の め を もつ こく%りゅう。^いかり の くろき '''ほのお''' は その め に うつる もの% すべて を やきつくす。|A black dragon with crimson eyes. Its black '''flames''' of fury burn away anything that’s reflected in those eyes.}}}}
+#: {{ja-usex|ハリー・ポッターと'''炎'''のゴブレット|^ハリー・^ポッター と '''^ほのお''' の ^ゴブレット|''{{w|Harry Potter and the Goblet of Fire|Harry Potter and the Goblet of '''Fire'''}}''}}
+#: {{ja-usex|燃え広がる'''炎'''|^もえひろがる '''^ほのお'''|''{{w|Catching Fire|Catching '''Fire'''}}''}}
+# [[intense]] [[emotion]], [[passion]]
+
+=====Derived terms=====
+* {{ja-r|炎 細胞|ほのお さいぼう}}
+* {{ja-r|炎スペクトル|ほのお スペクトル}}
+* {{ja-r|瞋恚の炎|しんい の ほのお}}
+
+=====See also=====
+* {{ja-r|火|ひ|[[fire]]}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=o|えん}}
+{{ja-kanjitab|ほむら|yomi=k}}
 
-From {{der|ja|ltc|sort=えん|炎||flame; blaze|tr=ɦˠiᴇm}}.
+Compound of {{com|ja|火|tr1=ho|t1=[[fire]]|pos1=combining form|群|tr2=mura|t2=[[gathering]], [[group]]}}.<ref name="DJS"/><ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|y=k|ほのお|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|ほむら}}
+
+# a [[flame]]
+# [[intense]] [[emotion]], [[passion]]
+
+=====Derived terms=====
+* {{ja-r|瞋恚の炎|しんい の ほむら}}
+
+===Etymology 3===
+{{ja-kanjitab|えん|yomi=o}}
+{{IPAchar|/jiem/}} → {{IPAchar|/jemʉ/}} → {{IPAchar|/emʉ/}} → {{IPAchar|/eɴ/}}
+
+From {{bor|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 
 ====Pronunciation====
 {{ja-pron|y=o|えん}}
@@ -114,19 +154,25 @@ From {{der|ja|ltc|sort=えん|炎||flame; blaze|tr=ɦˠiᴇm}}.
 ====Suffix====
 {{ja-pos|えん|suffix}}
 
-# {{lb|ja|disease|sort=えん}} [[inflammation]], [[-itis]]
+# {{lb|ja|disease|sort=えん}} [[-itis]], [[inflammation]] of...
 
-===Etymology 3===
-{{ja-kanjitab|yomi=k|ほむら}}
-
-====Noun====
-{{ja-noun|ほむら}}
-
-# {{altspell|lang=ja|焔}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|肝炎|かんえん}}
+* {{ja-r|強%膜%炎|きょう%まく%えん}}
+* {{ja-r|筋炎|きんえん}}
+* {{ja-r|口内%炎|こうない%えん|[[aphthous ulcer]]}}
+* {{ja-r|舌炎|ぜつえん|[[glossitis]]}}
+* {{ja-r|胆嚢%炎|たんのう%えん}}
+* {{ja-r|膣炎|ちつえん}}
+* {{ja-r|虫垂%炎|ちゅうすい%えん}}
+* {{ja-r|葡萄%膜%炎|ぶどう%まく%-えん|[[uveitis]]}}
+* {{ja-r|膀胱炎|ぼうこうえん|[[cystitis]]}}
+* {{ja-r|盲腸%炎|もうちょう%えん}}
+{{der-bottom}}
 
 ===References===
 <references/>
-:* {{R:Konkōmyō Saishōōkyō Ongi}}
 
 {{cln|ja|words with multiple readings}}
 {{C|ja|Fire|sort=ほのお}}
