@@ -1,8 +1,20 @@
+==Afrikaans===
+
+===Etymology===
+From {{inh|af|dum|vliegtuig}}. Equivalent to {{compound|af|vlieg|tuig}}.
+
+===Noun===
+{{af-noun|e|vliegtuigie}}
+
+# {{l|en|aeroplane}}, {{l|en|aircraft}}
+
+----
+
 ==Dutch==
 {{wikipedia|lang=nl}}
 
 ===Etymology===
-From {{compound|vliegen|tuig|t1=to fly|t2=rig, device|lang=nl}}
+From {{compound|vliegen|tuig|t1=to fly|t2=rig, device|lang=nl}}.
 
 ===Pronunciation===
 * {{IPA|/ˈvlix.tœy̯x/|lang=nl}}
@@ -12,7 +24,8 @@ From {{compound|vliegen|tuig|t1=to fly|t2=rig, device|lang=nl}}
 ===Noun===
 {{nl-noun|n|-en|vliegtuigje}}
 
-# [[aeroplane]], [[aircraft]]
+# [[aeroplane]], winged [[aircraft]] {{defdate|from early 20th c.}}
+# {{lb|nl|archaic}} Any [[aircraft]], including [[aerostat]]s {{defdate|17th-early 20th c.}}
 
 ====Derived terms====
 * {{l|nl|chartervliegtuig}}
@@ -25,5 +38,8 @@ From {{compound|vliegen|tuig|t1=to fly|t2=rig, device|lang=nl}}
 * {{l|nl|vliegtuigongeluk}}
 * {{l|nl|vrachtvliegtuig}}
 * {{l|nl|zweefvliegtuig}}
+
+====Descendants====
+* {{desc|af|vliegtuig}}
 
 [[Category:nl:Aircraft]]
