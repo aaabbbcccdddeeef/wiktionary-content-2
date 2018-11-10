@@ -26,70 +26,147 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=犬08}}
+{{ja-kanji|grade=|rs=犬08<!--|kyu=U+FA16-->}}
+
+# [[wild boar]]
 
 ====Readings====
 {{ja-readings
 |goon=ちょ
 |kanon=ちょ
-|kun=いのしし-<ゐのしし-, い-
+|kun=い-<ゐ-, いのしし-<ゐのしし-
+|nanori=しし
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|猪首|いくび}}
-* {{ja-r|猪武者|いのししむしゃ}}
-* {{ja-r|猪豚|いのぶた}}: [[wild boar]]-[[pig]] [[hybrid]]
-* {{ja-r|鹿猪|しかいのしし}}: [[babirusa]]
-* {{ja-r|猪口|ちょこ}}
+* {{ja-r|猪牙%舟|ちょき%ぶね}}, {{ja-r|猪牙|ちょき}}
+* {{ja-r|猪口|ちょく}}, {{ja-r|猪口|ちょこ}}
 * {{ja-r|猪突|ちょとつ}}
-* {{ja-r|臍猪|へそいのしし}}: [[peccary]]
+* {{ja-r|猪 八戒|^ちょ ^はっかい}}
+* {{ja-r|猪勇|ちょゆう}}
+* {{ja-r|猪苓|ちょれい}}
+* {{ja-r|家猪|かちょ}}
+* {{ja-r|玄猪|げんちょ}}
 * {{ja-r|野猪|やちょ}}
+* {{ja-r|豪猪|ヤマ.アラシ}}
 {{der-bottom}}
 
-{{wikipedia|lang=ja}}
-
 ===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja|イノシシ}}
+{{wp|Wild boar}}
+</div>
 {{ja-kanjitab|いのしし|yomi=k}}
 
-{{compound|ja|猪|tr1=i|t1=pig|の|tr2=no|獣|tr3=shishi|t3=beast (archaic)}}
+Compound of {{com|ja|sort=いのしし|猪|tr1=i|t1=[[pig]], [[boar]]|pos1=see below|の|tr2=no|pos2=possessive particle|獣|tr3=shishi|t3=[[beast]]|pos3=archaic}}.<ref>{{R:Daijisen}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|いのしし|acc=3|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|いのしし|イノシシ|hhira=ゐのしし}}
+{{ja-noun<!--|kyu=U+FA16-->|いのしし|イノシシ|hhira=ゐのしし|hkata=ヰノシシ}}
 
-# [[wild boar]]
+# a [[wild boar]], ''[[Sus scrofa]]''
+#: {{syn|ja|野荒らし|tr=noarashi|野猪|tr2=noshishi}}
 
 =====Usage notes=====
 {{U:ja:biology|イノシシ}}
 
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|猪%鹿%蝶|いの%-しか%-ちょう}}
+* {{ja-r|猪熊 通り|^いのくま ^どおり}}
+* {{ja-r|猪%豚|いの%ぶた|[[wild boar]]-[[pig]] [[hybrid]]}}
+* {{ja-r|猪 武者|いのしし むしゃ}}
+* {{ja-r|疣 猪|イボ イノシシ}}
+* {{ja-r|鹿 猪|シカ イノシシ|[[babirusa]]}}
+* {{ja-r|萩に猪|はぎ に いのしし}}
+* {{ja-r|臍 猪|へそ いのしし|[[peccary]]}}
+* {{ja-r|琉球 猪|^りゅうきゅう いのしし}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper<!--|kyu=U+FA16-->|いのしし|hhira=ゐのしし}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=いのしし}}
+
 ===Etymology 2===
 {{ja-kanjitab|い|yomi=k}}
+{{IPAchar|/wi/}} → {{IPAchar|/i/}}
+
+From {{inh|ja|ojp|sort=い|-}}, also used in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨wi⟩}}.
+
+{{onomatopoeic}} of the sound of a wild boar.
+
+====Alternative forms====
+* {{ja-l|豬}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|い}}
 
 ====Noun====
-{{ja-noun|い|hhira=ゐ}}
+{{ja-noun<!--|kyu=U+FA16-->|い|hhira=ゐ}}
 
-# [[pig]], [[boar]]
+# a [[pig]] or [[wild boar]]
 
-====Derived terms====
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|亥|い}}
+* {{ja-r|猪%養|い%かい|rom=-}}, {{ja-r|猪%飼|い%かい|rom=-}}, {{ja-r|猪%甘|い%かい}}
+* {{ja-r|猪%口|い%ぐち}}
+* {{ja-r|猪%首|い%くび|rom=-}}, {{ja-r|猪%頸|い%くび}}
+* {{ja-r|猪名%川|^いな%がわ}}
+* {{ja-r|猪名野|^いなの}}
+* {{ja-r|猪%苗%代|^い%なわ%しろ}}
+* {{ja-r|豕|いのこ|rom=-}}, {{ja-r|猪の子|いのこ}}
+* {{ja-r|猪尻草|いのしりぐさ}}
+* {{ja-r|猪の手|いので}}
+* {{ja-r|猪俣|^いのまた}}
+* {{ja-r|猪の目|いのめ}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|しし|yomi=irr}}
-From {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+From {{m|ja|肉|tr=shishi||[[meat]], [[flesh]]}}.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Alternative forms====
+* {{ja-l|獣}}
+* {{s|[[deer]] [[meat]]}} {{ja-l|鹿}} 
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|しし}}
+{{ja-noun<!--|kyu=U+FA16-->|しし}}
 
-# {{alternative spelling of|獣|lang=ja}}
+# collective term for [[beast]]s used as [[food]]
+# {{lb|ja|by extension}} a [[wild boar]], ''[[Sus scrofa]]''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|猪%独活|シシ%ウド}}
+* {{ja-r|猪垣|ししがき}}
+* {{ja-r|猪狩|ししがり|rom=-}}, {{ja-r|猪%狩り|しし%がり}}
+* {{ja-r|猪じもの|ししじもの}}
+* {{ja-r|猪%田|しし%だ}}
+* {{ja-r|猪茸|シシタケ}}
+* {{ja-r|猪鍋|ししなべ}}
+* {{ja-r|猪 防ぎ|しし ふせぎ}}
+* {{ja-r|猪道|ししみち}}
+* {{ja-r|猪%矢来|しし%やらい}}
+* {{ja-r|猪論|ししろん}}
+* {{ja-r|野%猪|の%じし}}
+* {{ja-r|病み猪|やみしし}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper<!--|kyu=U+FA16-->|しし}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===See also===
+* {{ja-r|豚|ブタ|[[pig]]}}
 
 ===References===
 <references/>
