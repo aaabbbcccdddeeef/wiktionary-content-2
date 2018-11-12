@@ -1,18 +1,29 @@
 {{character info/new}}
 ==Translingual==
 {{CJKV-forms|情|情|情|情}}
-{{stroke order|type=animate}}
+{{Han stroke|Mainland China<br/>[[File:情-bw.png|360px]]}}
+<!-- {{stroke order|type=animate}} Note: Stroke order is nonstandard. See talk page. -->
+
+===Alternative forms===
+* In mainland China, Hong Kong (based on its educational standard), Japanese [[kanji]] and Vietnamese [[Nôm]], the bottom right component is written {{l|mul|⺝}} with a vertical {{l|mul|丨}} left stroke.
+* In Taiwan, the bottom right component is written {{l|mul|月}} with a curved {{l|mul|丿}} left stroke.
+* In Korean [[hanja]], the bottom right component is written {{l|mul|円}} which is the historical form found in the {{w|Kangxi Dictionary}}.
 
 ===Han character===
-{{Han char|rn=61|rad=心|as=08|sn=11|four=95027|canj=PQMB|ids=⿰忄青 or 忄靑}}
+{{Han char|rn=61|rad=心|as=08|sn=11|four=95027|canj=PQMB|ids=⿰忄青(GHTJV),⿰忄靑(K)}}
+
+====Derived characters====
+* {{l|mul|[[𫠽]]}}
 
 ====References====
-* {{Han ref|kx=0389.310|dkj=10756|dj=0723.170|hdz=42312.130|uh=60C5|ud=24773|bh=B1A1|bd=45473}}
+{{Han ref|kx=0389.310|dkj=10756|dj=0723.170|hdz=42312.130|uh=60C5}}
+
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=啨,𢚏,[[情#Chinese|⿰忄靑]],⿰十青}}
+{{zh-wp}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -65,7 +76,7 @@
 ===Kanji===
 {{ja-kanji|grade=5|rs=心08}}
 
-# Emotion, feeling.
+# [[emotion]]; [[feeling]]
 
 ====Readings====
 {{ja-readings
@@ -75,28 +86,40 @@
 }}
 
 ====Compounds====
-{{der-top}}
-* {{ja-r|愛情|あいじょう}}: love
-* {{ja-r|詩情|しじょう}}: poetic sentiment
-* {{ja-r|事情|じじょう}}: state of affairs
-* {{ja-r|実情|じつじょう}}: the real situation
-* {{ja-r|情感|じょうかん}}: emotion
-* {{ja-r|情事|じょうじ}}: love affair
-* {{ja-r|情勢|じょうせい}}: situation
-* {{ja-r|情報|じょうほう}}: information
-* {{ja-r|情熱|じょうねつ}}: enthusiasm
-* {{ja-r|表情|ひょうじょう}}: facial expression
-* {{ja-r|風情|ふぜい}}: elegance; appearance
-* {{ja-r|熱情|ねつじょう}}: passion
-* {{ja-r|友情|ゆうじょう}}: friendship
-* {{ja-r|旅情|りょじょう}}: travel-weariness
-* {{ja-r|非情|ひじょう}}: heartlessness
-{{der-bottom}}
+{{der2|lang=ja|title=Terms derived from {{ja-r|情|せい}}:
+|{{ja-r|風情|ふぜい}}: [[taste#Noun|taste]]; [[elegance]]; [[appearance]]
+}}
+
+===Etymology===
+{{ja-kanjitab|じょう|yomi=o}}
+From {{der|ja|ltc|sort=じょう|-}} {{ltc-l|情}}.
+
+===Pronunciation===
+{{ja-pron|じょう|yomi=o}}
 
 ===Noun===
 {{ja-noun|じょう}}
 
-# [[feelings]]; [[emotion]]
+# [[emotion]]; [[feeling]]
+
+====Derived terms====
+{{der2|lang=ja|title=Terms derived from {{ja-r|情|じょう}}:
+|{{ja-r|愛情|あいじょう}}: [[love]]
+|{{ja-r|詩情|しじょう}}: [[poetic]] [[sentiment]]
+|{{ja-r|事情|じじょう}}: [[state of affairs]]
+|{{ja-r|実情|じつじょう}}: [[real]] [[condition]]; [[actual]] [[circumstance]]s
+|{{ja-r|情感|じょうかん}}: [[emotion]]
+|{{ja-r|情事|じょうじ}}: [[love affair]]
+|{{ja-r|情勢|じょうせい}}: [[situation]]
+|{{ja-r|情報|じょうほう}}: [[information]]
+|{{ja-r|情熱|じょうねつ}}: [[enthusiasm]]
+|{{ja-r|非情|ひじょう}}: [[heartlessness]]
+|{{ja-r|表情|ひょうじょう}}: [[facial expression]]
+|{{ja-r|風情|ふうじょう}}: [[appearance]]; [[outward]] [[attitude]]
+|{{ja-r|熱情|ねつじょう}}: [[passion]]
+|{{ja-r|友情|ゆうじょう}}: [[friendship]]
+|{{ja-r|旅情|りょじょう}}: [[travel]] [[weariness]]
+}}
 
 ----
 
@@ -109,15 +132,15 @@
 
 ====Compounds====
 {{der-top}}
-* [[감정]] (感情) emotion
-* [[무정]] (無情) emotionless
-* [[민정]] (民情) the state of the common people's lives
-* [[실정]] (實情) the real situation
-* [[애정]] (愛情) love
-* [[정경]] (情景) a sad scene
-* [[정보]] (情報) information
-* [[정취]] (情趣) artistic mood, touch
-* [[풍정]] (風情) elegance
+* {{ko-l|감정}} ({{l|ko|感情}}): [[emotion]]
+* {{ko-l|무정}} ({{l|ko|無情}}): [[emotionless]]
+* {{ko-l|민정}} ({{l|ko|民情}}): the [[state]] of the [[common]] [[people]]'s [[lives]]
+* {{ko-l|실정}} ({{l|ko|實情}}): the [[real]] [[situation]]
+* {{ko-l|애정}} ({{l|ko|愛情}}): [[love]]
+* {{ko-l|정경}} ({{l|ko|情景}}): a [[sad]] [[scene]]
+* {{ko-l|정보}} ({{l|ko|情報}}): [[information]]
+* {{ko-l|정취}} ({{l|ko|情趣}}): [[artistic]] [[mood]]; [[touch]]
+* {{ko-l|풍정}} ({{l|ko|風情}}): [[elegance]]
 {{der-bottom}}
 
 ----
@@ -125,6 +148,13 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tình]], [[dềnh]], [[tành]], [[rình]], [[tạnh]]|rs=心08}}
+{{vi-readings|rs=心08
+|hanviet=tình
+|nom=dềnh, rình, thanh, tành, tình, xênh, tạnh
+}}
 
 # {{defn|lang=vi|sort=心08}}
+
+===References===
+* {{vi-ref|Nguyễn (2014)}}.
+* {{vi-ref|Trần (2004)}}.
