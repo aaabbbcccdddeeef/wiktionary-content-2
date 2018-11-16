@@ -46,24 +46,23 @@
 {{ja-readings
 |goon=りょう<りやう
 |kanon=れい
+|toon=りん
 |kun=みお-<みを-
-|nanori=みほ, みよ
+|nanori=み, みほ, みよ, り, れ
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
 * {{ja-r|澪%標|れい%ひょう|[[channel]]-[[mark]]}}
 * {{ja-r|作澪|さくれい}}
-{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|みお}}
 
-{{IPAfont|⟨mi<sub>1</sub> wo⟩}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
+{{IPAfont|⟨mi<sub>1</sub> wo⟩}} → *{{IPAchar|/mʲiwo/}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
 
-From {{inh|ja|ojp|-|sort=みお}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE, spelled either phonetically in ''{{w|man'yōgana}}'' or as {{m|ja|水尾}}.<ref name="MYS">{{RQ:Manyoshu|7|1108}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1108 here]</ref>
+From {{inh|ja|ojp|-|sort=みお}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).<ref>{{RQ:Manyoshu|7|1108}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1108 here]</ref>
 
-Derived as a compound of {{compound|lang=ja|sort=みお|水|tr1=mi|t1=[[water]]|pos1=ancient combining form|緒|tr2=wo|t2=[[cord]]; something [[long]] and [[continue|continuing]]|pos2=modern reading ''o'', likely cognate with {{m|ja|尾|tr=o||[[tail]]}} from the sense of “something long and continuing from the end of the main body”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Derived as a compound of {{com|lang=ja|sort=みお|水|tr1=mi|t1=[[water]]|pos1=ancient combining form|緒|tr2=wo → o|t2=[[cord]]; something [[long]] and [[continue|continuing]]|pos2=likely cognate with {{m|ja|尾|tr=o||[[tail]]}} from the sense of “something long and continuing from the [[end]] of the [[main]] [[body]]”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=kun|みお|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
@@ -74,17 +73,21 @@ Derived as a compound of {{compound|lang=ja|sort=みお|水|tr1=mi|t1=[[water]]|
 ====Noun====
 {{ja-noun|みお|hhira=みを}}
 
-# a [[waterway]]
-# {{qualifier|more specifically}} a [[navigable]] [[channel]]
+# a [[waterway]], ''more specifically'', a [[navigable]] [[channel]]
+#* {{RQ:Manyoshu|12|3014}}, [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#3014 here]
+#*: {{ja-usex|sort=みお|m=神山%之 山下%響 逝水%之 '''水%尾'''不絶%者 後%毛%吾妻|m_kana=みわやま%の やました%とよみ ゆくみづ%の '''み%をし'''たえず%は のち%も%わがつま|三輪%山の山下%響み行く水の'''水脈'''し絶えずは後も我が妻|^みわ%やま の やました% とよみ ゆく みづ の '''みを''' し たえず は のち も わが つま}}
+#* '''905''', ''{{w|Kokin Wakashū}}'' (book 17, poem 882)
+#*: {{ja-usex|天の河%雲の'''みを'''にてはやければ光とどめず月ぞ流るる|あま の かは% くも の '''みを''' に て はやければ ひかり とどめず つき ぞ ながるる|rom=ama no kawa kumo no '''mio''' ni te hayakereba hikari todomezu tsuki zo nagaruru}}
 # a [[wake]] {{gloss|[[path]] left behind by a [[pass|passing]] [[ship]] on the [[water]]'s [[surface]]}}
-#: {{synonyms|ja|航跡|tr=kōseki}}
+#: {{syn|ja|航跡|tr=kōseki}}
 
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|澪%木|みお%ぎ}}
 * {{ja-r|澪杙|みおぐい|rom=-}}, {{ja-r|澪杭|みおぐい}}
-* {{ja-r|澪標|みおつくし}}, {{ja-r|澪%標|みお%じるし}}
+* {{ja-r|澪%標|みお%じるし}}
 * {{ja-r|澪筋|みおすじ}}
+* {{ja-r|澪標|みおつくし}}
 * {{ja-r|澪%引く|みお%びく}}
 {{der-bottom}}
 
@@ -95,7 +98,7 @@ Derived as a compound of {{compound|lang=ja|sort=みお|水|tr1=mi|t1=[[water]]|
 # {{given name|female|lang=ja|A=a|sort=みお}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=o|れい}}
+{{ja-kanjitab|yomi=kanon|れい}}
 
 From {{bor|ja|ltc|-}} {{ltc-l|澪}}.
 
