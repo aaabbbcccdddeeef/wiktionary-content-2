@@ -19,42 +19,64 @@
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=日08|kyu=曉}}
-# [[daybreak]], [[dawn]]
-# [[in the event]]
+
+# [[dawn]], [[daybreak]]
+# [[clear]], [[explicit]]
 
 ====Readings====
 {{ja-readings
 |goon=きょう<けう
 |kanon=きょう<けう
 |kanyoon=ぎょう<げう
-|kun=あかつき-, さと-る
-|nanori=あきら, あけ, あつき, さとる, てる, ゆたか
+|kun=あかつき-<あかつき-<あかとき-, さと-す, さと-る
+|nanori=あき, あきら, あけ, あつき, さとし, さとる, てる, とき, とし, ゆたか
 }}
 
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|暁鴉|ぎょうあ}}
+* {{ja-r|暁闇|ぎょうあん}}
+* {{ja-r|暁雨|ぎょうう}}
+* {{ja-r|暁雲|ぎょううん}}
+* {{ja-r|暁%角|ぎょう%かく}}
+* {{ja-r|暁起|ぎょうき}}
+* {{ja-r|暁鶏|ぎょうけい}}
+* {{ja-r|暁%月|ぎょう%げつ}}
+* {{ja-r|暁鼓|ぎょうこ}}
+* {{ja-r|暁光|ぎょうこう}}
+* {{ja-r|暁更|ぎょうこう}}
+* {{ja-r|暁紅|ぎょうこう}}
+* {{ja-r|暁%日|ぎょう%じつ}}
+* {{ja-r|暁鐘|ぎょうしょう}}
+* {{ja-r|暁新世|ぎょうしんせい}}
+* {{ja-r|暁星|ぎょうせい}}
+* {{ja-r|暁%達|ぎょう%たつ}}
+* {{ja-r|暁旦|ぎょうたん}}
+* {{ja-r|暁知|ぎょうち|rom=-}}, {{ja-r|暁智|ぎょうち}}
+* {{ja-r|暁通|ぎょうつう}}
+* {{ja-r|暁天|ぎょうてん}}
+* {{ja-r|暁風|ぎょうふう}}
+* {{ja-r|暁霧|ぎょうむ}}
+* {{ja-r|暁諭|ぎょうゆ|rom=-}}, {{ja-r|暁喩|ぎょうゆ}}
+* {{ja-r|暁露|ぎょうろ}}
+* {{ja-r|諫暁|かんぎょう}}
+* {{ja-r|今暁|こんぎょう}}
+* {{ja-r|昨%暁|さく%ぎょう}}
+* {{ja-r|秋暁|しゅうぎょう}}
+* {{ja-r|春暁|しゅんぎょう}}
+* {{ja-r|早暁|そうぎょう}}
+* {{ja-r|知暁|ちぎょう}}
+* {{ja-r|通暁|つうぎょう}}
+* {{ja-r|払暁|ふつぎょう}}
+* {{ja-r|分暁|ぶんぎょう}}
+* {{ja-r|翌%暁|よく%ぎょう}}
+{{der-bottom}}
+
 ===Etymology 1===
-{{ja-kanjitab|あかとき|yomi=k}}
-{{IPAchar|/aka to<sub>2</sub>ki<sub>1</sub>/}} → {{IPAchar|/akatoki/}}
-
-From {{inh|ja|ojp|sort=あかとき|-}}. Compound of {{m|ja|明|tr=aka||[[bright]]}} + {{m|ja|時|tr=toki||[[time]]}}.<ref name=DJR>{{R:Daijirin}}</ref>
-
-====Pronunciation====
-{{ja-pron|y=k|あかとき}}
-
-====Noun====
-{{ja-noun|kyu=曉|あかとき}}
-
-# {{lb|ja|archaic|possibly|_|obsolete|sort=あかとき}} [[dawn]], [[daybreak]]
-#: {{RQ:Manyoshu|18|4084}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo#4084.html here]
-#:: {{ja-usex|m='''安可登吉'''尓 名能里奈久奈流 保登等藝須 伊夜米豆良之久 於毛保由流香母|m_kana='''あかとき'''に なのりなくなる ほととぎす いやめづらしく おもほゆるかも|'''暁'''に名告り鳴くなる[[ほととぎす|霍公鳥]]いやめづらしく思ほゆるかも|'''あかとき''' に な-のり なくなる ほととぎす いや めづらしく おもほゆるかも|rom='''akatoki''' ni nanori nakunaru hototogisu iya mezurashiku omōyuru kamo}}
-
-=====Derived terms=====
-* {{ja-r|暁%闇|あかとき%-やみ|[[moonless]] dawn}}
-
-===Etymology 2===
 {{ja-kanjitab|あかつき|yomi=k}}
-{{IPAchar|/akatoki/}} → {{IPAchar|/akatuki/}} → {{IPAchar|/akat͡suki/}}
+{{IPAfont|⟨aka to<sub>2</sub>ki<sub>1</sub>⟩}} → *{{IPAchar|/akatəkʲi/}} → {{IPAchar|/akatuki/}} → {{IPAchar|/akat͡suki/}}
 
-Sound change from ''akatoki'' above.<ref name=DJR>{{R:Daijirin}}</ref>
+Shift from {{w|Old Japanese}} ''akatoki'' below.<ref name="DJS">{{R:Daijisen}}</ref><ref name=DJR/>
 
 ====Pronunciation====
 {{ja-pron|y=k|あかつき|dev=3|acc=0|acc_ref=DJR}}
@@ -63,20 +85,26 @@ Sound change from ''akatoki'' above.<ref name=DJR>{{R:Daijirin}}</ref>
 {{ja-noun|kyu=曉|あかつき}}
 
 # [[dawn]], [[daybreak]]
+#* '''905''', ''{{w|Kokin Wakashū}}'' (book 13, poem 625; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 30)
+#*: {{ja-usex|[[有明]]のつれなく見えし別れより'''暁'''ばかり[[浮き物|憂きもの]]はなし|ありあけ の つれなく みえし わかれ より '''あかつき''' ばかり うきもの は なし|Since that parting when I saw that distant look in the late moon's glare, nothing seems more cruel to me than the hours before '''dawn'''.<ref>{{cite-book|1997|{{w|Shōtetsu}}|editor=Steven D. Carter|Unforgotten Dreams: Poems by the Zen Monk Shōtetsu|series=Translations from the Asian classics |edition=illustrated|publisher=Columbia University Press|isbn=0-2311-0576-2|page=38}}</ref>}}
 #* {{RQ:Konkōmyō Saishōōkyō Ongi|8 (back)}}<ref>{{R:Konkōmyō Saishōōkyō Ongi}}</ref>
 #*: {{lang|ja|天暁 '''アカツキ'''}}
-#: '''905''', ''{{w|Kokin Wakashū}}'' (book 13, poem 625; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 30)
-#:: {{ja-usex|[[有明]]のつれなく見えし別れより'''暁'''ばかり[[浮き物|憂きもの]]はなし|ありあけ の つれなく みえし わかれ より '''あかつき''' ばかり うきもの は なし|rom=ariake no tsurenaku mieshi wakare yori '''akatsuki''' bakari ukimono wa nashi|Since that parting when I saw that distant look in the late moon's glare, nothing seems more cruel to me than the hours before '''dawn'''.<ref>{{cite-book|1997|{{w|Shōtetsu}}|editor=Steven D. Carter|Unforgotten Dreams: Poems by the Zen Monk Shōtetsu|series=Translations from the Asian classics |edition=illustrated|publisher=Columbia University Press|isbn=0-2311-0576-2|page=38}}</ref>}}
-# [[event]], [[occasion]], [[occurrence]]
+# an [[event]], [[occasion]], [[occurrence]]
 
 =====Synonyms=====
 * {{sense|dawn}} See [[Thesaurus:明け方]]
 
 =====Derived terms=====
+{{der-top}}
 * {{ja-r|暁%起き|あかつき%-おき|waking up just before daybreak}}
+* {{ja-r|暁%方|あかつき%がた}}
+* {{ja-r|暁%月%夜|あかつき%-づく%よ}}
 * {{ja-r|暁の空|あかつき の そら|dawning [[sky]]}}
-* {{ja-r|暁%闇|あかつき%-やみ|[[moonless]] dawn}}
+* {{ja-r|暁の茶事|あかつき の ちゃじ}}
+* {{ja-r|暁の別れ|あかつき の わかれ}}
+* {{ja-r|暁 闇|あかつき やみ|[[moonless]] dawn}}
 * {{ja-r|成功の暁には|せいこう の あかつき に は|when one has [[succeed]]ed}}
+{{der-bottom}}
 
 =====Proverbs=====
 * {{ja-r|春眠 暁 を 覚えず|しゅんみん あかつき を おぼえず}}
@@ -84,45 +112,64 @@ Sound change from ''akatoki'' above.<ref name=DJR>{{R:Daijirin}}</ref>
 ====Proper noun====
 {{ja-pos|proper|あかつき}}
 
-# {{given name|female|lang=ja|sort=あかつき}}
-# {{surname|lang=ja|sort=あかつき}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=あかつき}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あかつき}}
+
+===Etymology 2===
+{{ja-kanjitab|あかとき|yomi=k}}
+
+From {{inh|ja|ojp|sort=あかとき|-}}.
+
+Originally a compound of {{com|ja|sort=あかとき|明|tr1=aka|t1=[[bright]]|時|tr2=toki|t2=[[time]]}}.<ref name="DJS"/><ref name=DJR/>
+
+====Noun====
+{{ja-noun|kyu=曉|あかとき}}
+
+# {{lb|ja|archaic|obsolete|sort=あかとき}} [[dawn]], [[daybreak]]
+#* {{RQ:Manyoshu|18|4084}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo#4084.html here]
+#*: {{ja-usex|m='''安可登吉'''尓 名能里奈久奈流 保登等藝須 伊夜米豆良之久 於毛保由流香母|m_kana='''あかとき'''に なのりなくなる ほととぎす いやめづらしく おもほゆるかも|'''暁'''に名告り鳴くなる[[ほととぎす|霍公鳥]]いやめづらしく思ほゆるかも|'''あかとき''' に な-のり なくなる ほととぎす いや めづらしく おもほゆるかも|rom='''akatoki''' ni nanori nakunaru hototogisu iya mezurashiku omōyuru ka mo}}
+
+=====Derived terms=====
+* {{ja-r|暁 降ち|あかとき くたち}}
+* {{ja-r|暁%月%夜|あかとき%-づく%よ}}
+* {{ja-r|暁 闇|あかとき やみ|[[moonless]] dawn}}
 
 ===Etymology 3===
-Various nanori readings.
+Various ''nanori'' readings.
 
 ====Proper noun====
-{{ja-pos|proper|あかな}}
+{{ja-pos|proper|kyu=曉|あかな}}
 
-# {{given name|female|lang=ja|sort=あかな}}
+# {{given name|female|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|あき}}
+{{ja-pos|proper|kyu=曉|あき}}
 
-# {{given name|female|lang=ja|sort=あき}}
-# {{surname|lang=ja|sort=あき}}
+# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|あきら}}
+{{ja-pos|proper|kyu=曉|あきら}}
 
-# {{given name|female|lang=ja|sort=あきら}}
+# {{given name|female|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|きょう|hhira=けう}}
+{{ja-pos|proper|kyu=曉|きょう|hhira=けう}}
 
-# {{given name|unisex|lang=ja|sort=きよう}}
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|ぎょう|hhira=げう}}
+{{ja-pos|proper|kyu=曉|ぎょう|hhira=げう}}
 
-# {{given name|female|lang=ja|sort=きよう'}}
+# {{given name|female|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|さとし}}
+{{ja-pos|proper|kyu=曉|さとし}}
 
-# {{given name|male|lang=ja|sort=さとし}}
+# {{given name|male|lang=ja|A=a|nodot=1|sort=さとし}}
 
-{{ja-pos|proper|さとる}}
+{{ja-pos|proper|kyu=曉|さとる}}
 
-# {{given name|unisex|lang=ja|sort=さとる}}
+# {{given name|unisex|lang=ja|A=a|nodot=1}}
 
-{{ja-pos|proper|とおる}}
+{{ja-pos|proper|kyu=曉|とおる|hhira=とほる}}
 
-# {{given name|unisex|lang=ja|sort=とおる}}
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
 
 ===References===
 <references/>
