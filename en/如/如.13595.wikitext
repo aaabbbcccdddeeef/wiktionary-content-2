@@ -21,37 +21,74 @@
 {{Han etym}}
 {{Han compound|女|口|ls=psc|c1=p|c2=s|t1=woman|t2=mouth}}. Also interpreted as {{liushu|ic|nocap=1}}: a woman obeying an order.
 
-===Pronunciation===
+===Etymology 1===
+{{der|zh|sit}}; compare {{cog|mro|tr=na|t=to be so}}, {{cog|lus|na nâ nâ||it being so; since}} ({{zh-ref|Schuessler, 2007}}). Also compare {{cog|omx|tr=ñaṅ|t=resembling; like}} ([[ibid.]]).
+
+====Pronunciation====
 {{zh-pron
 |m=rú
-|m-s=
+|m-s=ru2
 |c=jyu4
-|c-t=
-|g=
-|h=pfs=yì
-|j=
+|c-t=ngui3
+|g=eo4
+|h=pfs=yì;gd=yi2
+|j=ru1
 |mb=ṳ̌/lǔ
+|mb_note=ṳ̌ - colloquial; lǔ - literary
 |md=ṳ̀
-|mn=qz:lîr/tp,qz,xm:lû/kh,zz:jû/zz:jî
+|mn=xm,qz,tp:lû/qz:lîr/zz:jî/zz,kh:jû
 |mn-t=ru5
 |w=3zr
-|x=
+|x=y2
 |mc=y
-|oc=y
+|oc=2,y
 |ma=y
-|cat=con
+|cat=v,prep,con
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 {{rfquote|zh}}
 
+# to be [[like]]; [[as]]; [[as if]]; [[as though]]
+#* {{zh-x|神 啊，我 的 心 切慕 你，如 鹿 切慕 溪水。|'''As''' the hart panteth after the water brooks, so panteth my soul after thee, O God.|ref={{w2|zh|和合本|新標點和合本}} ([[w:Chinese Union Version|Chinese Union Version with New Punctuation]]), {{lang|zh|詩篇}} (Psalm) 42:1}}
+# to [[comply]] with; to [[agree]] with; to [[fit]]
+# [[such as]]; [[for example]]; [[for instance]]
+# {{lb|zh|usually in the negative}} to be as [[good]] as; to be [[comparable]] to
+# [[more]] ... [[than]]
 # [[if]]; [[supposing]]
 #: {{zh-x|作者 水平 有限，如 有 錯漏，望 大家 指正。|The author's ability has its limits; feedback regarding errors and omissions is welcome.}}
-# [[as if]]; [[as though]]
-# [[like]]; [[as]]
-# [[such as]]; [[for example]]
-# {{lb|zh|usually with {{zh-l|*不}}}} as [[good]] as
+
+=====Synonyms=====
+{{zh-dial|如果}}
+
+===Etymology 2===
+May be related to {{och-l|向|to face; to turn towards}}.
+
+====Pronunciation====
+{{zh-pron
+|m=rú
+|m-s=ru2
+|c=jyu4
+|c-t=ngui3
+|g=eo4
+|h=pfs=yì;gd=yi2
+|j=ru1
+|mb=
+|md=ṳ̀
+|mn=xm,qz,tp:lû/qz:lîr/zz:jî/zz,kh:jû
+|mn-t=ru5
+|w=3zr
+|x=y2
+|mc=1
+|oc=1
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
 # {{†}} to [[go to]]
 #: {{zh-x|如廁|to '''go to''' the toilet}}
 
