@@ -4,16 +4,23 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=10|sn=13|four=30127|canj=EYRB|ids=⿰氵高}}
 
+====Derived characters====
+* {{l|mul|薃}}
 
 ====References====
-* {{Han ref|kx=0642.090|dkj=18015|dj=1049.150|hdz=31704.040|uh=6EC8|ud=28360|bh=DE45|bd=56901}}
+{{Han ref|kx=0642.090|dkj=18015|dj=1049.150|hdz=31704.040|uh=6EC8}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=瀥,𤀰}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|高|alt1=氵|c1=s|c2=p|ls=psc}}.
 
 ===Etymology 1===
+
 ====Pronunciation====
 {{zh-pron
 |m=hào
@@ -27,11 +34,15 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# [[rainy]]
+# {{†}} [[prolonged]] [[rain]]
 # {{zh-used in|滈滈|[[white water]]}}
 # {{zh-alt-form|鎬|{{w|Haojing}} (in [[modern-day]] [[Shaanxi]] [[province]]), [[capital]] of [[western|Western]] [[Zhou]] from c. 1050 [[BC]]}}
 
+====Compounds====
+{{zh-der|滈汗|滈滈}}
+
 ===Etymology 2===
+
 ====Pronunciation====
 {{zh-pron
 |m=xuè
@@ -55,7 +66,10 @@
 # {{defn|lang=ja|sort=水10}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō), [[かく]] (kaku), [[こく]] (koku)|kun=[[ながあめ]] (nagaame)}}
+{{ja-readings
+|on=こう, ごう, かく, こく
+|kun=ながあめ
+}}
 
 ----
 
@@ -71,6 +85,12 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水10| hanviet = hao}}
+{{vi-readings|rs=水10
+|hanviet = hao
+|nom = hao, khao, xao}}
 
 # {{defn|lang=vi|sort=水10}}
+
+===References===
+* {{vi-ref|Hồ (1976)}}.
+* {{vi-ref|Nguyễn (2014)}}.
