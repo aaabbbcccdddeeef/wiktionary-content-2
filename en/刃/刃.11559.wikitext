@@ -51,46 +51,114 @@ Note the compositional differences between traditional, simplified, and Japanese
 ----
 
 ==Japanese==
-{{wikipedia|lang=ja}}
-{{wikipedia|Blade}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀01}}
+
+# [[blade]], [[edge]]
+# [[bladed]] [[object]] {{gl|[[knife]], [[sword]], etc.}}
+# [[kill]] with a bladed object, [[put to the sword]]
 
 ====Readings====
 {{ja-readings
 |goon=にん
 |kanon=じん
-|kun=き-る, は-, な-, やいば-
+|kun=は-, やいば-, な-, き-る
 |nanori=ち, と
 }}
 
 ====Compounds====
-{{rel-top|Compound words that contain 刃}}
-* {{ja-r|刃%傷|にん%じょう}}
-* {{ja-r|刃%傷%沙%汰|にん%じょう%ざ%た}}
-* {{ja-r|刃%向かう|は%むかう}}
-* {{ja-r|刃%渡り|は%わたり}}
-* {{ja-r|片%刃|かた%ば}}, {{ja-r|片%刃|かた%は}}
-* {{ja-r|直%刃|すぐ%は}}
-* {{ja-r|白刃|はくじん}}, {{ja-r|白%刃|しら%は}}
-* {{ja-r|諸%刃|もろ%は}}, {{ja-r|双%刃|もろ%は}}
-* {{ja-r|両%刃|りょう%ば}}, {{ja-r|両%刃|もろ%は}}
-* {{ja-r|自%刃|じ%じん}}
+{{der-top|Compounds}}
+* {{ja-r|刃傷|にんじょう}}
+* {{ja-r|凶刃|きょうじん|rom=-}}, {{ja-r|兇刃|きょうじん}}
+* {{ja-r|自刃|じじん}}
 * {{ja-r|刀刃|とうじん}}
 * {{ja-r|毒刃|どくじん}}
-* {{ja-r|白刃|はくじん}}, {{ja-r|白%刃|しら%は}}
-* {{ja-r|氷%刃|ひょう%じん}}
+* {{ja-r|白刃|はくじん}}
+* {{ja-r|氷刃|ひょうじん}}
 * {{ja-r|兵刃|へいじん}}
 * {{ja-r|防刃|ぼうじん}}
-* {{ja-r|利%刃|り%じん}}
-* {{ja-r|凶%刃|きょう%じん}}, {{ja-r|兇%刃|きょう%じん}}
-* {{ja-r|白%刃%一%閃|はく%じん%いっ%せん}}
+* {{ja-r|利刃|りじん}}
 {{rel-bottom}}
 
+===Alternative forms===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Blade}}
+</div>
+{{ja-kanjitab|yomi=k|は}}
+
+* {{ja-l|刄}}
+
 ===Etymology 1===
+{{IPAchar|/pa/}} → {{IPAchar|/fa/}} → {{IPAchar|/ha/}}
+
+From {{inh|ja|ojp|sort=は|-}}.
+
+Cognate with {{m|ja|歯|tr=ha||tooth}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/> Possibly also related to {{m|ja|葉|tr=ha||leaf}}. Compare {{cog|en|blade}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|は}}
+
+# an [[edge]], [[blade]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|刃%毀れ|は%こぼれ}}
+* {{ja-r|刃向かう|はむかう}}
+* {{ja-r|刃%物|は%もの}}
+* {{ja-r|刃%渡り|は%わたり}}
+* {{ja-r|替%刃|かえ%ば|rom=-}}, {{ja-r|替え刃|かえば}}
+* {{ja-r|片%刃|かた%ば}}, {{ja-r|片%刃|かた%は}}
+* {{ja-r|白%刃|しら%は}}
+* {{ja-r|直%刃|すぐ%は}}
+* {{ja-r|円%刃|まる%ば|rom=-}}, {{ja-r|丸%刃|まる%ば}}
+* {{ja-r|乱れ刃|みだれば}}
+* {{ja-r|両%刃|もろ%は}}
+* {{ja-r|諸%刃|もろ%は|rom=-}}, {{ja-r|双%刃|もろ%は}}
+* {{ja-r|焼%刃|やき%ば|rom=-}}, {{ja-r|焼き刃|やきば}}
+** {{ja-r|刃|やいば|[[sword]], [[blade]]|pos=see above}}
+* {{ja-r|両%刃|りょう%ば}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|やいば}}
+{{IPAchar|/jaki pa/}} → {{IPAchar|/jakiba/}} → {{IPAchar|/jaĩba/}} → {{IPAchar|/jaiba/}}
+
+Shift from {{m|ja|焼き刃|tr=yakiba}}, a compound of {{com|lang=ja|sort=やいば|焼き|tr1=yaki|t1=[[burn]]ed, [[fire]]d|刃|tr2=ha|t2=[[edge]], [[blade]]|pos2=see below}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/> {{rendaku2|sort=やいば|ha|ba}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|やいば|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|やいば}}
+
+# a [[forged]] [[blade]], such as a [[sword]]
+# the [[wavy]] [[pattern]] formed in the [[metal]] on the [[surface]] of a forged blade
+# a [[sword]] or similar edged [[weapon]]
+# something [[sharp]] like a [[sword]]
+# someone or something [[powerful]]
+
+=====Derived terms=====
+{{top2}}
+* {{ja-r|氷の刃|こおり の やいば}}
+* {{ja-r|心の刃|こころ の やいば}}
+* {{ja-r|邪見の刃|じゃけん の やいば}}
+* {{ja-r|情けに刃向かう刃なし|なさけ に はむかう やいば なし}}
+{{bottom}}
+
+=====Idioms=====
+* {{ja-r|刃に掛かる|やいば に かかる}}
+* {{ja-r|刃に伏す|やいば に ふす}}
+* {{ja-r|刃は切れるが重宝|やいば は きれる が ちょうほう}}: “for a blade, cutting [sharpness] is precious” → the highest value of a tool is its ability to do what it is designed for
+
+===Etymology 3===
 {{ja-kanjitab|yomi=k|な}}
-From {{etyl|ojp|ja|sort=な}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Possibly [[cognate]] with {{cog|ko|날||blade}}.
+
+From {{inh|ja|ojp|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Possibly [[cognate]] with {{cog|ko|날||[[blade]]}}.
 
 Obsolete in modern Japanese. Only found as an element in compounds.
 
@@ -100,56 +168,17 @@ Obsolete in modern Japanese. Only found as an element in compounds.
 ====Noun====
 {{ja-noun|な}}
 
-# {{lb|ja|sort=な|obsolete}} a [[blade]], an [[edge]]
-#* {{RQ:Man'yōshū|4|616}}
-#*: {{lang|ja|劔大刀 '''名'''惜雲 吾者無 君尓不相而 年之経去礼者}}
-#*:: {{ja-usex|剣太刀'''名'''の惜しけくも我れはなし君に逢はずて年の経ぬれば|つるぎたち '''な''' の をしけく も われ は なし きみ に あはずて とし の へぬれば|I do not even miss precious '''you''', given the years that have passed without meeting with you.}}
-#*::: [Note: ''tsurugi tachi'' (“sword”) is a [[w:Makurakotoba|pillow word]] establishing a poetic association with the following ''na'', literally meaning {{m|en|blade}} or {{m|en|edge}} and alluding to sharpness and importance. This ''na'' could also elliptically mean {{m|en|name}} ({{ja-l|名}} ''na'') or even {{m|en|you}} ({{ja-l|汝}} ''na''), depending on context, based on the homophonic readings.]
+# {{lb|ja|sort=な|obsolete}} a [[blade]], [[edge]]
+#* {{RQ:Man'yōshū|4|616}},<ref>{{R:Man'yōshū 1}}</ref> text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#616 here]
+#*: {{ja-usex|m=劔%大刀 '''名'''惜雲 吾%者%無 君%尓%不相%而 年%之経去礼者|m_kana=つるぎ%たち '''なの'''をしけく も われ%は%なし きみ%に%あはず%て とし%のへぬれば|[[剣%太刀]]'''名'''の惜しけくも我れはなし君に逢はずて年の経ぬれば|つるぎ%たち '''な''' の をしけく も われ は なし きみ に あはずて とし の へぬれば|rom=tsurugitachi '''na''' no oshikeku mo ware wa nashi kimi ni awazute toshi no henureba|I do not even miss precious '''you''', given the years that have passed without meeting with you.}}
+#*:: [Note: ''tsurugi tachi'' (“[[sword]]”) is a [[w:Makurakotoba|pillow word]] establishing a poetic association with the following ''na'', literally meaning {{m|en|blade}} or {{m|en|edge}} and alluding to sharpness and importance. This ''na'' could also elliptically mean {{m|en|name}} ({{ja-l|名}} ''na'') or even {{m|en|you}} ({{ja-l|汝}} ''na''), depending on context, based on the homophonic readings.]
 
 =====Derived terms=====
 * {{ja-r|刀|かたな}}
 
-===Etymology 2===
-{{ja-kanjitab|yomi=k|は}}
-From {{etyl|ojp|ja|sort=は}}, cognate with {{m|ja|歯|tr=ha||tooth}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Possibly also related to {{m|ja|葉|tr=ha||leaf}}. Compare {{cog|en|blade}}.
-
-====Pronunciation====
-{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR}}
-
-====Noun====
-{{ja-noun|は}}
-
-# an [[edge]], a [[blade]]
-
-=====Derived terms=====
-* {{lang|ja|刃}} (''yaiba''): a [[sword]], a [[blade]], particularly one that has been [[forged]]: see below
-
-===Etymology 3===
-{{ja-kanjitab|yomi=k|やいば}}
-Originally a compound of {{compound|lang=ja|sort=やいば|焼き|tr1=yaki|t1=burned, fired|刃|tr2=ha|t2=edge, blade}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=やいば|ha|ba}}
-
-{{IPAchar|/jaki/}} + {{IPAchar|/ha/}} → {{IPAchar|/jakiba/}} → {{IPAchar|/jaiba/}}
-
-====Pronunciation====
-{{ja-pron|yomi=k|やいば|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
-
-====Noun====
-{{ja-noun|やいば}}
-
-# a [[forged]] [[blade]], such as a [[sword]]
-# the [[wavy]] pattern formed in the [[metal]] on the surface of a forged blade
-# a [[sword]] or similar edged [[weapon]]
-# something [[sharp]] like a [[sword]]
-# someone or something [[powerful]]
-
-=====Idioms=====
-{{der-top|Idioms}}
-* {{ja-r|刃は切れるが重宝|やいば は きれる が ちょうほう}}: “for a blade, cutting [sharpness] is precious” → the highest value of a tool is its ability to do what it is designed for
-{{der-bottom}}
-
 ===Etymology 4===
-{{ja-kanjitab|yomi=o|じん}}
-From {{etyl|ltc|ja|sort=じん}} {{m|zh|刃|tr=nyin<sup>H</sup>||edge of a blade}}.
+{{ja-kanjitab|yomi=kanon|じん}}
+From {{bor|ja|ltc|sort=じん|-}} {{ltc-l|刃}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|じん|acc=1|acc_ref=DJR}}
@@ -160,13 +189,11 @@ From {{etyl|ltc|ja|sort=じん}} {{m|zh|刃|tr=nyin<sup>H</sup>||edge of a blade
 # a [[blade]], a [[sword]]
 
 =====Idioms=====
-{{der-top|Idioms}}
-* {{ja-r|刃を迎えて解く|じん を むかえて とく}}: “to fall before the blade” → a metaphor for extreme strength or power
-{{der-bottom}}
+* {{ja-r|刃に伏す|じん に ふす}}
+* {{ja-r|刃を迎えて解く|じん を むかえて とく}}: “to fall before the blade” → a [[metaphor]] for [[extreme]] [[strength]] or [[power]]
 
 ===References===
 <references/>
-:* {{R:Man'yōshū 1}}
 
 ----
 
