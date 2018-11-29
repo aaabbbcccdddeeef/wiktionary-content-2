@@ -17,6 +17,13 @@
 * {{list:Hiragana/ja}}
 
 ===Etymology 2===
+{{IPAfont|⟨mo<sub>2</sub>⟩}} → *{{IPAchar|/mə/}} → {{IPAchar|/mo/}}
+
+From {{inh|ja|ojp|-}}. Appears in common use in the ''{{w|Kojiki}}'' (712 {{CE}}), with the only attested distinction between {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}}. Compare {{cog|ltc|-}} {{ltc-l|母}}.
+
+Distinct from {{IPAfont|⟨mo<sub>1</sub>⟩}} terms such as {{m|ja|雲|tr={{IPAfont|⟨kumo<sub>1</sub>⟩}} → kumo||[[cloud]]}} and {{m|ja|下|tr={{IPAfont|⟨simo<sub>1</sub>⟩}} → shimo||[[lower]], [[end]]}}; pronounced closely to {{cog|ltc|-}} {{ltc-l|毛}}. 
+
+This distinction was lost in a later ancient Japanese chronicle, the ''{{w|Nihon Shoki}}'' (720 {{CE}}), and {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}} were merged to form one syllable ''mo''. See the {{w|Man'yōgana}} and {{w|Jōdai Tokushu Kanazukai}} articles for more detail on ancient spellings.
 
 ====Particle====
 {{ja-pos|particle}}
@@ -26,23 +33,60 @@
 #: {{ja-usex|本日'''も'''ご来店くださいまして、ありがとうございます。|ほんじつ '''も''' ご-らいてん くださいまして、ありがとう ございます。|Thank you for [[visit|visiting]] our store today as well as other days.}}
 #: {{ja-usex|私に'''も'''呉れた。|わたし に '''も''' くれた。|She gave some to me, '''too'''.}}
 #: {{ja-usex|カクレンジャー'''も'''ハリケンジャー'''も'''ニンニンジャー'''も'''スーパー戦隊だ。|カクレンジャー '''も''' ハリケンジャー '''も''' ニンニンジャー '''も''' スーパー せんたい だ。|The Kakurangers, the Hurricanegers and the Ninningers are '''also''' Super Sentai.}}
-# not even
-#: {{ja-usex|箱の中には何'''も'''なかった。|はこ の なか に は なに '''も''' なかった。|The box was empty.|lit=Inside the box was '''not even''' anything.}}
+# [[not even]]
 #* '''1904''' or '''1905''', {{w2|ja|小林清親}}, [[:File:Forces_returning_2.jpg|{{lang|ja|百撰百笑}}]]
-#*: {{ja-usex|露國の海陸軍は、日本軍に一度'''も'''勝つ事なく、…|^ろこく の かいりくぐん は、 ^にほんぐん に いちど '''も''' かつ こと なく、…|Russia's navy and army is, without winning against the Japanese army '''even''' once, {{...}}}}
+#*: {{ja-usex|露%國の海陸軍は、日本軍に一%度'''も'''勝つ事なく、…|^ろ%こく の かいりくぐん は、^にほんぐん に いち%ど '''も''' かつ こと なく、…|Russia's navy and army is, without winning against the Japanese army '''even''' once, {{...}}}}
+#: {{ja-usex|箱の中には何'''も'''なかった。|はこ の なか に は なに '''も''' なかった。|The box was empty.|lit=Inside the box was '''not even''' anything.}}
 # {{n-g|Inserted between {{m|ja|て|tr=te}} and a negative suffix for emphasis.}}
 #: {{ja-usex|まさか[[事故]]に[[遭う]]とは[[思う|思って]]'''も'''いませんでした。|まさか じこ に あう と は おもって '''も''' いません でした。|Never in my wildest dreams would I have imagined that I would be in an accident.}}
 
 =====Usage notes=====
 * {{m|ja||も|tr=mo}} always replaces {{ja-r|は|rom=wa}}, {{ja-r|を}} and {{ja-r|が}}, but may follow other particles.
 
-=====See also=====
-* {{ja-r|で も}}
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|もが|mo ga}}
+* {{ja-r|もや|mo ya}}
+* {{ja-r|もよ|mo yo}}
+* {{ja-r|いつも|itsu mo}}
+* {{ja-r|いつまでも|itsu made mo}}
+* {{ja-r|かも|ka mo}}
+* {{ja-r|しも|shi mo}}
+* {{ja-r|だにも|dani mo}}
+* {{ja-r|でも|de mo}}
+* {{ja-r|とも|to mo}}
+* {{ja-r|ども|do mo}}
+* {{ja-r|にも|ni mo}}
+* {{ja-r|もがも|mo ga mo}}
+* {{ja-r|やも|ya mo}}
+* {{ja-r|をも|o mo}}
+{{der-bottom}}
+
+===Etymology 3===
+The Eastern {{inh|ja|ojp|-}} variant of {{m|ja|む|tr=-mu}},<ref>{{R:Daijirin}}</ref> attested in poems of the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).
+
+====Suffix====
+{{ja-pos|suffix}}
+
+# {{lb|ja|regional|jodōshi|obsolete}} {{n-g|Used to form the conjectural form of verbs, equivalent to modern {{ja-r|-う}} / {{ja-r|-よう}}.}}
+#* {{RQ:Manyoshu|14|3418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3418 here]
+#*: {{ja-usex|m=可美都氣努 佐野田能奈倍能 武良奈倍尓 許登波佐太米都 伊麻波伊可尓世'''母'''|m_kana=かみつけの さのだのなへの むらなへに ことはさだめつ いまはいかにせ'''も'''|[[上%毛野]]%佐野%田の苗の[[群苗]]に事は定めつ今はいかにせ'''も'''|^かみつ%けの% ^さの%だ-の-なへ の むらなへ に こと は さだめつ いま は いか に せ'''も'''|rom=Kamitsukeno Sanoda-no-nae no muranae ni koto ni sadametsu ima wa ika ni se'''mo'''}}
+#* {{RQ:Manyoshu|20|4418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4418 here]
+#*: {{ja-usex|m=和我可度乃 可多夜麻都婆伎 麻己等奈礼 和我弖布礼奈々 都知尓於知'''母'''加毛|m_kana=わがかどの かたやまつばき まことなれ わがてふれなな つちにおち'''も'''かも|我が門の片山%椿まこと汝れ我が手触れ[[なな]]土に落ち'''も'''かも|わが かど の かたやま% つばき まこと なれ わが て ふれなな つち に おち'''も''' か も}}
+
+===Etymology 4===
+Readings of various ''kanji''.
 
 ====Noun====
 {{ja-noun}}
 
-# {{ja-def|藻}} [[algae]]
+# {{ja-def|最}} {{rfdef|ja}}
 # {{ja-def|喪}} [[mourning]]
+# {{ja-def|裳}} {{rfdef|ja}}
+# {{ja-def|藻}} [[algae]]
+# {{ja-def|面}} {{rfdef|ja}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words]]
