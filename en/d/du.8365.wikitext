@@ -610,8 +610,8 @@ Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|31
 ==Old High German==
 [[File:Bulach Inschrift.jpg|right|thumb|one drawing of the inscription on the Bülach fibula]]
 
-====Alternative forms====
-* {{l|goh|thu}}
+===Alternative forms===
+* {{alter|goh|thu}}
 
 ===Etymology===
 From {{inh|goh|gem-pro|*þū}}, whence also {{cog|ang|þu}}, {{cog|non|þú}}, and ultimately from {{inh|goh|ine-pro|*túh₂}}. Perhaps the earliest attestation of the pronoun is the inscription on the [[w:Bülach fibula|Bülach fibula]], which may show {{m|goh|sc=Runr|ᛞᚢ|tr=du}} already differentiated from other Germanic languages’ ''þu''.
@@ -632,7 +632,18 @@ From {{inh|goh|gem-pro|*þū}}, whence also {{cog|ang|þu}}, {{cog|non|þú}}, a
 {{Old high German personal pronouns}}
 
 ====Descendants====
-* German: {{l|de|du}}
+* {{desc|gmh|du}}
+** {{desc|gsw|du}}
+**: {{desc|swg|dau}}, {{l|swg|d}}
+** {{desc|gmw-cfr|du}}, {{l|gmw-cfr|dou}}
+**: {{desc|hrx|du}}
+**: {{desc|ksh|do}}
+** {{desc|de|du}}
+** {{desc|lb|du}}
+** {{desc|gmw-rfr|-}}
+**: {{desc|pfl|du}}
+**: {{desc|pdc|du}}
+** {{desc|yi|דו}}
 
 ===See also===
 * {{l|goh|fridil||a pet name for a male lover}}
