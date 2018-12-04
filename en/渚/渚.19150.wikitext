@@ -53,13 +53,25 @@
 |nanori=すか, なぎ
 }}
 
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|渚滑%川|^しょこつ%-がわ}}
+* {{ja-r|海%渚|かい%そ}}
+* {{ja-r|州渚|しゅうしょ|rom=-}}. {{ja-r|洲渚|しゅうしょ}}
+* {{ja-r|汀渚|ていしょ}}
+* {{ja-r|渚%鳥|す%どり}}
+{{der-bottom}}
+
+====Usage notes====
+Used in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨su⟩}}.
+
 ===Etymology 1===
 {{ja-kanjitab|なぎさ|yomi=k}}
-{{IPAchar|/naɡi<sub>1</sub>sa/}} → {{IPAchar|/naɡisa/}}
+{{IPAfont|⟨naɡi<sub>1</sub>sa⟩}} → *{{IPAchar|/naɡʲisa/}} → {{IPAchar|/naɡisa/}}
 
-From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name="MYS">{{RQ:Manyoshu|15|3706}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3706 here]</ref>
+From {{inh|ja|ojp|sort=なぎさ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-Possibly a compound of {{compound|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=calming, dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to calm down, to die down|pos=as of waves or wind}}, cognate with {{m|ja|和やか|tr=nagoyaka||calm, quiet}}|磯|tr2=sa|t2=rocky shore, pebble beach}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||rock, stone}}.
+Possibly a compound of {{com|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=[[calming]], dying down|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|凪ぐ|tr=nagu||to [[calm down]], to [[die down]]|pos=as of [[wave]]s or [[wind]]}}, cognate with {{m|ja|和やか|tr=nagoyaka||[[calm]], [[quiet]]}}|磯|tr2=sa|t2=[[rocky]] [[shore]], [[pebble]] [[beach]]}}, where ''sa'' is an ancient alternative for ''so'', the abbreviated combining reading of modern {{m|ja|磯|tr=iso}}, cognate with {{m|ja|石|tr=ishi||[[rock]], [[stone]]}}.
 
 ====Pronunciation====
 * {{ja-pron|y=k|なぎさ|acc=0|acc_ref=DJR}}
@@ -70,30 +82,42 @@ Possibly a compound of {{compound|lang=ja|sort=なぎさ|凪ぎ|tr1=nagi|t1=calm
 ====Noun====
 {{ja-noun|なぎさ}}
 
-# the water's edge:
-#* {{RQ:Manyoshu|3|378}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#378 here]
-#*: {{ja-usex|m=昔者%之 舊堤%者 年%深 池%之'''瀲'''尓 水%草%生%家里|m_kana=いにしへ%の ふるきつつみ%は とし%ふかみ いけ%の'''なぎさ'''に み%くさ%おひに%けり|[[古|いにしへ]] の [[古く|古き]] [[堤]] は [[年]] [[深む|深み]] [[池]] の '''渚''' に [[水%草]] [[生う|生ひ]] に [[けり]]|いにしへ の ふるき つつみ は とし ふかみ いけ の '''なぎさ''' に み%くさ おひ に けり|rom=inishie no furuki tsutsumi wa toshi fukami ike no '''nagisa''' ni mikusa oi ni keri|The old embankment, relic of a vanished past: the deepening years along the '''margin''' of the pond lie buried in the tangled reeds.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0804731578|page=306}}</ref>|sort=なきさ}}
+# the [[water]]'s [[edge]]:
 ## [[beach]]
+##* {{RQ:Manyoshu|12|3203}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#3203 here]
+##*: {{ja-usex|m=都乃久尓乃 宇美能'''奈伎佐'''尓 布奈餘曽比 多志埿毛等伎尓 阿母我米母我母|m_kana=つのくにの うみの'''なぎさ'''に ふなよそひ たしでもときに あもがめもがも|津の国の海の渚に[[船装い|船装ひ]]立し出も時に母が目もがも|^つ-の-くに の うみ の '''なぎさ''' に ふなよそひ たしで も とき に あも が め も が も|rom=Tsu-no-kuni no umi no '''nagisa''' ni funayosoi tashide mo toki ni amo ga me mo ga mo}}
 ## [[shore]]
+##* {{RQ:Manyoshu|7|1171}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1171 here]
+##*: {{ja-usex|m=大%御%舟 竟%而%佐%守布 高嶋%之 三%尾%勝%野之 '''奈伎左'''思%所念
+|m_kana=おほ%み%ふね はて%て%さ%もらふ たかしま%の み%をの%か＊%のの '''なぎさ'''し%おもほゆ
+|[[大%御%船]]%泊ててさもらふ高島の[[澪|三尾]]の勝%野の'''渚'''し思ほゆ
+|おほ%み%ふね% はてて さもらふ ^たかしま-の-みを の ^かち%の の '''なぎさ''' し おもほゆ
+|rom=ōmifune hatete samorau Takashima-no-mio no Kachino-no-'''nagisa''' shi omōyu}}
 ##* '''1235''', ''{{w|Shinchokusen Wakashū}}'' (book 8, poem 525; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 93)
-##*: {{ja-usex|[[世の中]]は[[常|つね]]に[[もがも]]な'''渚'''[[漕ぐ|こぐ]][[海人|あま]]の[[小%舟]]の[[綱%手]][[悲しい|かなし]]も|よ-の-なか は つね に もがも な '''なぎさ''' こぐ あま の を%ぶね の つな%で かなし も|rom=Yo-no-naka wa tsune ni mogamo na '''nagisa''' kogu ama no obune no tsunade kanashi mo|May the world be ever like this: a fisherman's skiff rowed along the '''shore''', pulled with a rope, is truly sad.<ref>{{cite-book|2013|Matsuo Bashō|author2=Hiroaki Sato|Bashō's Narrow Road: Spring and Autumn Passages|series=Rock Spring Collection of Japanese Literature|publisher=Stone Bridge Press, Inc.|isbn=1-6117-2527-5}}</ref>|sort=なきさ}}
+##*: {{ja-usex|[[世の中]]は[[常|つね]]に[[もがも]]な'''渚'''[[漕ぐ|こぐ]][[海人|あま]]の[[小%舟]]の[[綱%手]]かなしも|よ-の-なか は つね に もがも な '''なぎさ''' こぐ あま の を%ぶね の つな%で かなし も|rom=yo-no-naka wa tsune ni mo ga mo na '''nagisa''' kogu ama no obune no tsunade kanashi mo|May the world be ever like this: a fisherman's skiff rowed along the '''shore''', pulled with a rope, is truly sad.<ref>{{cite-book|2013|Matsuo Bashō|author2=Hiroaki Sato|Bashō's Narrow Road: Spring and Autumn Passages|series=Rock Spring Collection of Japanese Literature|publisher=Stone Bridge Press, Inc.|isbn=1-6117-2527-5}}</ref>|sort=なきさ}}
 ## [[bank]] {{qualifier|as of a river or stream}}
+##* {{RQ:Manyoshu|3|378}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#378 here]
+##*: {{ja-usex|m=昔者%之 舊堤%者 年%深 池%之'''瀲'''尓 水%草%生%家里|m_kana=いにしへ%の ふるきつつみ%は とし%ふかみ いけ%の'''なぎさ'''に み%くさ%おひに%けり|[[古|いにしへ]]の古き[[堤]]は年%深み池の'''渚'''に[[水%草]]%[[生う|生ひ]]にけり|いにしへ の ふるき つつみ は とし% ふかみ いけ の '''なぎさ''' に み%くさ% おひ-に-けり|rom=inishie no furuki tsutsumi wa toshi fukami ike no '''nagisa''' ni mikusa oi-ni-keri|The old embankment, relic of a vanished past: the deepening years along the '''margin''' of the pond lie buried in the tangled reeds.<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0804731578|page=306}}</ref>|sort=なきさ}}
 
 =====Synonyms=====
+* {{ja-r|汀渚|ていしょ}}
 * {{ja-r|浜%辺|はま%べ}}
+
+=====Derived terms=====
+* {{ja-r|日子%波限%建 鵜%草葺%不合%尊|^ひこ%なぎさ%たけ ^う%がやふき%あえず の% ^みこと}}
 
 ====Proper noun====
 {{ja-pos|proper|なぎさ}}
 
 # ''a [[place name]]''
-# {{surname|lang=ja|A=a|sort=なぎさ}}
-# {{given name|unisex|lang=ja|A=a|sort=なぎさ}}
+# {{surname|lang=ja|A=a|nodot=1|sort=なぎさ}}
+# {{given name|male|or=female|lang=ja|A=a|sort=なぎさ}}
 
 ===Etymology 2===
 {{ja-kanjitab|みぎわ|yomi=kun}}
-{{IPAchar|/mi<sub>1</sub> ki<sub>1</sub>pa/}} → {{IPAchar|/miɡipa/}} → {{IPAchar|/miɡifa/}} → {{IPAchar|/miɡiwa/}}
+{{IPAfont|⟨mi<sub>1</sub> ki<sub>1</sub>pa⟩}} → *{{IPAchar|/mʲiɡʲipa/}} → {{IPAchar|/miɡifa/}} → {{IPAchar|/miɡiwa/}}
 
-Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=water|pos1=combining form|際|tr2=kiwa|t2=edge, boundary}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> {{rendaku2|sort=みぎわ|kiwa|giwa}}
+Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=[[water]]|pos1=combining form|際|tr2=kiwa|t2=[[edge]], [[boundary]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> {{rendaku2|sort=みぎわ|kiwa|giwa}}
 
 ====Pronunciation====
 {{ja-pron|y=k|みぎわ|acc=0|acc_ref=DJR}}
@@ -104,10 +128,13 @@ Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=water|pos1=combining
 ====Noun====
 {{ja-noun|みぎわ|hhira=みぎは}}
 
-# {{alternative form of|lang=ja|汀}}, {{m|ja|水際}}: the water's edge:
+# the [[water]]'s [[edge]]:
 ## [[beach]]
 ## [[shore]]
-## [[bank]] {{qualifier|as of a river or stream}}
+## [[bank]] {{qualifier|as of a [[river]] or [[stream]]}}
+
+=====Derived terms=====
+* {{ja-r|渚%蠅|ミギワ%バエ}}
 
 ====Proper noun====
 {{ja-pos|proper|みぎわ|hhira=みぎは}}
@@ -115,7 +142,6 @@ Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=water|pos1=combining
 # {{given name|female|lang=ja|A=a|sort=みぎわ}}
 
 ===References===
-<references/>
 {{ja-kref
 |ku=2977
 |shift=8f8d
@@ -129,6 +155,7 @@ Compound of {{compound|lang=ja|sort=みぎわ|水|tr1=mi|t1=water|pos1=combining
 |heisig=1263
 |tuttle=3a9.1
 }}
+<references/>
 
 ----
 
