@@ -28,120 +28,138 @@ Used since {{w|Northern and Southern dynasties}}. To avoid using the character {
 {{ja-kanji|grade=5|rs=人02|kyu=佛}}
 
 # [[Buddha]]
-# [[France]] (from {{ja-l|仏蘭西}})
+# [[Buddhism]]
+# [[Buddhist]] [[image]]
+# {{short for|lang=ja|仏蘭西|tr=Furansu|nodot=1|sort=ふつ}}: [[France]]
 
 ====Readings====
 {{ja-readings
-|goon=ぶつ
+|goon=ぶつ, ぶち
 |kanon=ふつ
 |kun=ほとけ-
+|nanori=さとる
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|仏教|ぶっきょう}}: Buddhism
-* {{ja-r|仏像|ぶつぞう}}: Buddhist image
-* {{ja-r|仏壇|ぶつだん}}: household Buddhist altar
-* {{ja-r|仏陀|ぶっだ}}: Buddha
-* {{ja-r|仏様|ほとけさま}}: Buddha, deceased person
-* {{ja-r|仏語|ふつご}}: French language
-* {{ja-r|仏文|ふつぶん}}: French literature
-* {{ja-r|仏印|ふついん}}: French Indochina
-* {{ja-r|仏文学|ふつぶんがく}}: French literature
-{{der-mid}}
-* {{ja-r|仏英辞典|ふつえい じてん}}: French-English dictionary
-* {{ja-r|石仏|せきぶつ}}: stone Buddhist image
-* {{ja-r|大仏|だいぶつ}}: large statue of Buddha
-* {{ja-r|念仏|ねんぶつ}}: Buddhist prayer
-* {{ja-r|神仏|しんぶつ}}: [[Shinto]] gods and Buddha
-* {{ja-r|日仏|にちふつ}}: Japan and France
-* {{ja-r|仏典|ぶってん}}: Buddhist scriptures, sutras
-* {{ja-r|廃仏毀釈|はいぶつ きしゃく}}: anti-Buddhist movement at the beginning of the Meiji era
+* {{ja-r|仏教|^ぶっきょう|[[Buddhism]]}}
+* {{ja-r|仏心|ぶっしん}}
+* {{ja-r|仏像|ぶつぞう|Buddhist [[image]]}}
+* {{ja-r|仏%陀|^ぶつ%だ}}, {{ja-r|仏%陀|^ブッ%ダ|[[Buddha]]}}
+* {{ja-r|仏典|ぶってん|[[Buddhist]] [[scriptures]], [[sutra]]s}}
+* {{ja-r|仏法|ぶっぽう}}
+* {{ja-r|活仏|かつぶつ}}
+* {{ja-r|成%仏|じょう%ぶつ}}
+* {{ja-r|石仏|せきぶつ|[[stone]] Buddhist image}}
+* {{ja-r|大仏|だいぶつ|[[large]] [[statue]] of Buddha}}
+* {{ja-r|念仏|ねんぶつ|Buddhist [[prayer]]}}
+* {{ja-r|廃仏 毀%釈|^はいぶつ ^き%しゃく|rom=-}}, {{ja-r|排仏 棄%釈|^はいぶつ ^き%しゃく|anti-Buddhist movement at the beginning of the Meiji era}}
+* {{ja-r|秘%仏|ひ%ぶつ}}
+* {{ja-r|仏掌%薯|ツクネ%イモ}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=o|ふつ}}
-Abbreviation of [[ateji]] term {{m|ja|仏蘭西|tr=Furansu||France}}.
+{{ja-kanjitab|yomi=k|ほとけ}}
+{{IPAfont|*⟨poto<sub>2</sub>ke<sub>2</sub>⟩}} → *{{IPAchar|/pətəkəɨ/}} → {{IPAchar|/fotoke/}} → {{IPAchar|/hotoke/}}
+
+From {{inh|ja|ojp|sort=ほとけ|-}} of unclear origin. Theories include:
+* The ''hoto'' element might be from a Chinese dialect variation on {{bor|ja|ltc|-}} {{ltc-l|佛陀}},<ref name="DJR">{{R:Daijirin}}</ref> or possibly just the {{ltc-l|佛}} portion,<ref name="DJS">{{R:Daijisen}}</ref> ultimately deriving from {{der|ja|sa|बुद्ध}}. The ''ke'' element might be the suffix {{m|ja|気|tr=ke||[[spirit]]}}.<ref name="DJR"/>
+* Possibly an ancient borrowing from Korean {{m|oko|부텨|tr=pwuthye}}, the source of modern {{cog|ko|^부처}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|ぶつ|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|ほとけ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
 
-====Proper noun====
-{{ja-pos|proper|ふつ|kyu=佛}}
+====Noun====
+{{ja-noun|kyu=佛|ほとけ}}
 
-# {{abbreviation of|lang=ja|sort=ふつ|仏蘭西|nodot=1}}: [[France]]
-#: {{ja-usex|札幌日'''仏'''協会|^さっぽろ ^にち '''^ふつ''' ^きょうかい|The Sapporo Japan-'''France''' Society}}
+# {{lb|ja|sort=ほとけ|Buddhism}} a [[buddha]] {{gl|[[enlightened]] or [[awakened]] [[sentient]] being}}
+# {{lb|ja|Buddhism}} a [[statue]] or [[image]] of any buddha
+#* {{RQ:Manyoshu|16|3841}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3841 here]
+#*: {{ja-usex|sort=ほとけ|m='''佛'''造 真%朱%不足%者 水%渟 池%田乃阿曽我 鼻%上%乎穿礼|m_kana='''ほとけ'''つくる ま%そほ%たらず%は みづ%たまる いけ%だのあそが はなの%うへ%をほれ|'''仏'''造る[[真赭|ま朱]]%足らずは[[水溜まる|水%溜まる]]池%田の[[朝臣]]が鼻の上を掘れ|'''ほとけ''' つくる ま-そほ% たらずは みづ% たまる いけ%だ の あそ が はな の うへ を ほれ|rom='''hotoke''' tsukuru ma-sō tarazu wa mizu tamaru Ikeda no Aso ga hana no ue o hore}}
+# a [[departed]] [[soul]], [[deceased]]
+# {{lb|ja|sort=ほとけ|colloquial}} a term that a parent calls a child expressing parental affection, equivalent to "my [[dear]]"
+#* ''c.'' '''890''', ''{{w|Taketori Monogatari}}'' (page 7)<ref name="TTM">{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title={{w|Taketori Monogatari}}, {{w|Ise Monogatari}}|publisher={{w|Iwanami Shoten Publishing|Iwanami Shoten}}|year=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
+#*: {{ja-usex
+|我%子の'''佛'''、變化の人%と申しながら、こゝら大さまで養ひ奉る志%疎かならず。
+|^わが% こ の '''ほとけ'''、へんげ の ひと% と まうしながら、こゝら おほき さま で やしなひたてまつる こころざし% をろか ならず。|rom=Waga ko no '''hotoke''', henge no hito to mōshinagara, kokora ōkisama de yashinai-tatematsuru kokorozashi oroka narazu.|My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.}}
+#* ''c.'' '''890''', ''Taketori Monogatari'' (page 61)<ref name="TTM"/> 
+#*: {{ja-usex|あが'''仏'''、何事%思ひたまふぞ。|あ が '''ほとけ'''、なにごと% おもひたまふ ぞ。|rom=A ga '''hotoke''', nanigoto omoitamau zo.|My '''dear''', what on earth are you thinking about?}}
+# {{lb|ja|religion}} [[Buddhism]]
+#: {{syn|ja|仏法|tr=Buppō}}
+# {{lb|ja|Buddhism}} [[perform]]ing a [[Buddhist]] [[memorial]] [[service]]
 
-=====Synonyms=====
+=====Derived terms=====
 {{der-top}}
-* {{ja-r|フランス}}
-* {{ja-r|仏蘭西|フランス}}
+* {{ja-r|仏%様|ほとけ%-さま|buddha, deceased person}}
+* {{ja-r|仏%心|ほとけ%-ごころ}}
+* {{ja-r|石%仏|いし%ぼとけ}}
+* {{ja-r|喉%仏|のど%ぼとけ}}
 {{der-bottom}}
 
+====Proper noun====
+{{ja-pos|proper|kyu=佛|ほとけ}}
+
+# {{lb|ja|Buddhism}} the [[Sakyamuni]] [[Buddha]], Nepalese spiritual and philosophical teacher and founder of [[Buddhism]]: [[Siddhartha]] [[Gautama]]
+#: {{syn|ja|釈迦如来|tr=Shaka-nyorai|釈迦牟尼|tr2=Shakamuni}}
+# {{lb|ja|Buddhism}} any of the other [[buddha]]s named in [[Buddhist]] [[scripture]]s
+
 ===Etymology 2===
-{{ja-kanjitab|yomi=o|ぶつ}}
-From {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ||Buddha}}, itself from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}.
+{{ja-kanjitab|yomi=goon|ぶつ}}
+
+From {{bor|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}}, itself a [[transliteration]] of {{der|ja|sa|sort=ふつ'|बुद्ध}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|ぶつ|acc=1}}
 
 ====Noun====
-{{ja-noun|ぶつ|kyu=佛}}
+{{ja-noun|kyu=佛|ぶつ}}
 
-# [[Buddhism]]
+# {{lb|ja|sort=ふつ'|religion}} [[Buddhism]]
+#: {{ja-usex|sort=ふつ'|[[儒]]、'''仏'''、[[道]]|^じゅ、'''^ぶつ'''、^どう|[[Confucianism]], '''Buddhism''', [[Taoism]]}}
 
-=====Synonyms=====
+=====Derived terms=====
 {{der-top}}
-* {{ja-r|仏教|ぶっきょう}}
+* {{ja-r|仏式|ぶっしき}}
+* {{ja-r|仏書|ぶっしょ}}
+* {{ja-r|仏壇|ぶつだん|[[household]] Buddhist [[altar]]}}
+* {{ja-r|仏殿|ぶつでん}}
+* {{ja-r|儒%仏|^じゅ%ぶつ}}
+* {{ja-r|神仏|^しんぶつ}}
+* {{ja-r|廃仏|はいぶつ}}
 {{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|proper|ぶつ|kyu=佛}}
+{{ja-pos|proper|kyu=佛|ぶつ}}
 
-# {{abbreviation of|lang=ja|sort=ふつ|仏陀|nodot=1}}: [[Buddha]].
+# {{short for|lang=ja|sort=ふつ'|仏陀|tr=Butsuda, Budda|nodot=1}}: [[Buddha]]
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=k|ほとけ}}
-Unclear. Theories of possible originː
+{{ja-kanjitab|yomi=kanon|ふつ}}
 
-# The ''hoto'' element might be from a Chinese dialect variation on {{etyl|ltc|ja|sort=ぶつ}} {{m|zh|佛陀|tr=bjut dhɑ}},<ref name="DJR">{{R:Daijirin}}</ref> or possibly just the {{m|zh|佛|tr=bjut}} portion,<ref name="DJS">{{R:Daijisen}}</ref> ultimately deriving from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}. The ''ke'' element might be the suffix {{m|ja|気|tr=ke||spirit}}.<ref name="DJR">{{R:Daijirin}}</ref>
-
-# An ancient borrowing from Korean 부텨 (pwuthye), the source of Modern Korean {{m|ko|^부처}}.
 ====Pronunciation====
-{{ja-pron|yomi=k|ほとけ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
-
-====Noun====
-{{ja-noun|ほとけ|kyu=佛}}
-
-# A [[Buddha]]: an [[enlightened]] or [[awakened]] [[sentient]] being.
-# A [[statue]] or [[image]] of any Buddha.
-# The [[deceased]], a [[departed]] [[soul]].
-# A term that a parent calls a child expressing parental affection: "my dear".
-#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]]<ref name="Taketori">{{cite-book
-|last=Horiuchi
-|first=Hideaki
-|coauthors=Ken Akiyama
-|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]
-|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-|year=1997
-|location=Tōkyō
-|isbn=4-00-240017-4
-}}</ref> (page 7)
-#*: {{lang|ja|我子の'''佛'''、變化の人と申しながら、こゝら大さまで養ひ奉る志疎かならず。}}
-#*:: {{lang|ja|わ が こ の '''ほとけ'''、 へんげ の ひと と まうしながら、 ここら おほき さま で やしなひ たてまつる こころざし をろか ならず。}}
-#*:: ''Wa ga ko no '''hotoke''', henge no hito to maushinagara, kokora ohoki sama de yashinahi tatematsuru kokorozashi woroka narazu.''
-#*::: My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.
-#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]]<ref name="Taketori"/> (page 61)
-#*: {{lang|ja|あが'''仏'''、何事思ひたまふぞ。}}
-#*:: {{lang|ja|あ が '''ほとけ'''、 なにごと おもひたまふ ぞ。}}
-#*:: ''A ga '''hotoke''', nanigoto omohitamafu zo.''
-#*::: My '''dear''', what on earth are you thinking about?
+{{ja-pron|yomi=kanon|ぶつ|acc=1|acc_ref=DJR}}
 
 ====Proper noun====
-{{ja-pos|proper|ほとけ|kyu=佛}}
+{{ja-pos|proper|kyu=佛|ふつ}}
 
-# [[Sakyamuni]] [[Buddha]], Nepalese spiritual and philosophical teacher and founder of [[Buddhism]]: Siddhartha Gautama.
-# Any of the other Buddhas named in [[Buddhist]] [[scripture]]s.
+# {{abbreviation of|lang=ja|sort=ふつ|仏蘭西|tr=Furansu|nodot=1}}: [[France]]
+#: {{ja-usex|札幌%日'''仏'''協会|^さっぽろ% ^にち-'''^ふつ''' ^きょうかい|The Sapporo Japan-'''France''' Society}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|仏印|ふついん|French Indochina}}
+* {{ja-r|仏語|ふつご|French language}}
+* {{ja-r|仏書|ふっしょ}}
+* {{ja-r|仏文|ふつぶん|French literature}}
+* {{ja-r|仏法|ふつほう}}
+* {{ja-r|仏%領|ふつ%りょう}}
+* {{ja-r|仏%和|^ふつ%-^わ}}
+* {{ja-r|仏文|ふつぶん}}
+* {{ja-r|仏文|ふつぶん}}
+* {{ja-r|英%仏|^えい%-^ふつ}}
+* {{ja-r|渡%仏|と%ふつ}}
+* {{ja-r|日%仏|^にち%-^ふつ|Japan and France}}
+{{der-bottom}}
 
 ===References===
 <references/>
