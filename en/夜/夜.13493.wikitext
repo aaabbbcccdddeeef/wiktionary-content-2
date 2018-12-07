@@ -70,7 +70,7 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 ===Kanji===
 {{ja-kanji|grade=2|rs=夕05}}
 
-# The night.
+# [[night]], [[nighttime]]
 
 ====Readings====
 {{ja-readings
@@ -84,8 +84,13 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 * {{ja-r|十六夜|いざよい}}: the [[sixteenth]] [[night]] of every [[month]]
 
 ===Etymology 1===
-{{ja-kanjitab|よる|yomi=k}}
-{{rfe|ja}}
+{{ja-kanjitab|yomi=k|よる}}
+
+From {{inh|ja|ojp|sort=よる|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 {{CE}}.<ref>{{RQ:Manyoshu|5|807}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#807 here]</ref>
+
+Derived from ''yo'' below, suffixed with an element ''ru'' of unclear meaning.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare {{m|ja|日||tr=hi|[[day]]}} → {{m|ja|昼||tr=hiru|[[daytime]]}}, which seems to use this same ''ru'' element.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Used as a standalone noun but not in compounds in {{cog|ojp|-}}.  Now the most common term for {{m|en|night}} in modern {{cog|ja|-}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|よる|acc=1|acc_ref=DJR,NHK}}
@@ -93,14 +98,18 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 ====Noun====
 {{ja-noun|よる}}
 
-# [[night]]; the [[evening]]
+# [[night]], [[evening]]
 #: {{ja-usex|[[東京]]の'''夜'''|^とうきょう の '''よる'''|Tokyo '''nights'''}}
 #: {{ja-usex|[[不安]]な'''夜'''を[[過ごす]]|ふあん な '''よる''' を すごす|to endure a '''night''' of anxiety|lit=to pass an '''uneasy''' night}}
 #: {{ja-usex|'''夜'''の[[星空]]を[[見上げる]]|'''よる''' の ほしぞら を みあげる|to look up at the '''night'''<nowiki/>'s starry sky}}
 #: {{ja-usex|『[[w:ja:夜のヒットスタジオ|'''夜'''のヒットスタジオ]]』|『^'''よる''' の ^ヒット ^スタジオ』|"Hit Studio of the '''Night'''" {{gloss|prominent Japanese music show}}}}
 
 ===Etymology 2===
-{{ja-kanjitab|よ|yomi=k}}
+{{ja-kanjitab|yomi=k|よ|acc=1|acc_ref=DJR,NHK}}
+
+From {{inh|ja|ojp|-}}.  Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Used as both a standalone noun and in compounds in {{cog|ojp|-}}.  In the modern language, this term has taken on a more [[literary]] sense.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|よ}}
@@ -108,7 +117,7 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 ====Noun====
 {{ja-noun|よ}}
 
-# {{lb|ja|literary}} [[night]]; the [[evening]]
+# {{lb|ja|literary}} [[night]], [[evening]]
 #: {{ja-usex|『[[w:ja:真夏の夜の夢|真夏の'''夜'''の夢]]』|『^まなつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night''''s Dream]]''}}
 
 ===References===
