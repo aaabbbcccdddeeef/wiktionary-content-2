@@ -77,18 +77,50 @@ From {{inh|zh|sit-pro|*s-r(j)ak}}.
 |goon=や
 |kanon=や
 |kun=よ-, よる-
+|nanori=やす
 }}
 
 ====Compounds====
-* {{ja-r|夜食|やしょく}}: night [[meal]], [[midnight]] [[snack]]
-* {{ja-r|十六夜|いざよい}}: the [[sixteenth]] [[night]] of every [[month]]
+{{der-top|Compounds}}
+* {{ja-r|夜夜|やや|rom=-}}, {{ja-r|夜々|やや}}
+* {{ja-r|夜陰|やいん}}
+* {{ja-r|夜間|やかん}}
+* {{ja-r|夜行|やぎょう}}
+* {{ja-r|夜勤|やきん}}
+* {{ja-r|夜%景|や%けい}}
+* {{ja-r|夜行|やこう}}
+* {{ja-r|夜座|やざ|rom=-}}, {{ja-r|夜坐|やざ}}
+* {{ja-r|夜%食|や%しょく|night [[meal]], [[midnight]] [[snack]]}}
+* {{ja-r|夜中|やちゅう}}
+* {{ja-r|夜半|やはん}}
+* {{ja-r|暗夜|あんや|rom=-}}, {{ja-r|闇夜|あんや}}
+* {{ja-r|一%夜|いち%や}}
+* {{ja-r|月%夜|げつ%や}}
+* {{ja-r|五夜|ごや}}
+* {{ja-r|今夜|こんや}}
+* {{ja-r|昨%夜|さく%や}}
+* {{ja-r|終夜|しゅうや}}
+* {{ja-r|初夜|しょや}}
+* {{ja-r|除夜|じょや}}
+* {{ja-r|深夜|しんや}}
+* {{ja-r|初夜|そや}}
+* {{ja-r|昼夜|ちゅうや}}
+* {{ja-r|通夜|つや}}, {{ja-r|通夜|つうや}}
+* {{ja-r|徹%夜|てつ%や}}
+* {{ja-r|日%夜|にち%や}}
+* {{ja-r|暮夜|ぼや}}
+* {{ja-r|連夜|れんや}}
+* {{ja-r|十六夜|いざよい|[[sixteenth]] [[night]] of every [[month]]}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|よる}}
 
+{{IPAfont|⟨yo<sub>1</sub>ru⟩}} → *{{IPAchar|/jʷoru/}} → {{IPAchar|/joru/}}
+
 From {{inh|ja|ojp|sort=よる|-}}.  Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 {{CE}}.<ref>{{RQ:Manyoshu|5|807}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#807 here]</ref>
 
-Derived from ''yo'' below, suffixed with an element ''ru'' of unclear meaning.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare {{m|ja|日||tr=hi|[[day]]}} → {{m|ja|昼||tr=hiru|[[daytime]]}}, which seems to use this same ''ru'' element.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Derived from ''yo'' below, suffixed with an element ''ru'' of unclear meaning.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Compare {{m|ja|日||tr=hi|[[day]]}} → {{m|ja|昼||tr=hiru|[[daytime]]}}, which seems to use this same ''ru'' element.<ref name="KDJ"/>
 
 Used as a standalone noun but not in compounds in {{cog|ojp|-}}.  Now the most common term for {{m|en|night}} in modern {{cog|ja|-}}.
 
@@ -99,26 +131,108 @@ Used as a standalone noun but not in compounds in {{cog|ojp|-}}.  Now the most c
 {{ja-noun|よる}}
 
 # [[night]], [[evening]]
-#: {{ja-usex|[[東京]]の'''夜'''|^とうきょう の '''よる'''|Tokyo '''nights'''}}
+#: {{ja-usex|sort=よる|[[東京]]の'''夜'''|^とうきょう の '''よる'''|Tokyo '''nights'''}}
 #: {{ja-usex|[[不安]]な'''夜'''を[[過ごす]]|ふあん な '''よる''' を すごす|to endure a '''night''' of anxiety|lit=to pass an '''uneasy''' night}}
 #: {{ja-usex|'''夜'''の[[星空]]を[[見上げる]]|'''よる''' の ほしぞら を みあげる|to look up at the '''night'''<nowiki/>'s starry sky}}
 #: {{ja-usex|『[[w:ja:夜のヒットスタジオ|'''夜'''のヒットスタジオ]]』|『^'''よる''' の ^ヒット ^スタジオ』|"Hit Studio of the '''Night'''" {{gloss|prominent Japanese music show}}}}
+#: {{syn|ja|夜間|tr=yakan}}
+#: {{ant|ja|昼|tr=hiru}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|夜夜|よるよる|rom=-}}, {{ja-r|夜々|よるよる}}
+* {{ja-r|お夜|お-よる|rom=-}}, {{ja-r|御%夜|お%-よる}}
+* {{ja-r|夜 鶯|よる うぐいす}}
+* {{ja-r|夜顔|ヨルガオ}}
+* {{ja-r|夜席|よるせき}}
+* {{ja-r|夜の御殿|よる の おとど}}
+* {{ja-r|夜の御座|よる の おまし}}
+* {{ja-r|夜の底|よる の そこ}}
+* {{ja-r|夜の殿|よる の との}}
+* {{ja-r|夜の帳が下りる|よる の とばり が おりる}}
+* {{ja-r|夜の錦|よる の にしき}}
+* {{ja-r|夜昼|よるひる}}
+* {{ja-r|夜 夜%中|よる よ%なか}}
+* {{ja-r|夜を昼になす|よる を ひる に なす}}
+* {{ja-r|小%夜|こ%よる}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|夜の衣を返す|よる の ころも を かえす}}
+
+====Proper noun====
+{{ja-pos|proper|よる}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=よる}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|よ}}
 
-From {{inh|ja|ojp|-}}.  Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+{{IPAfont|⟨yo<sub>1</sub>⟩}} → {{IPAchar|/jʷo/}} → {{IPAchar|/jo/}}
 
-Used as both a standalone noun and in compounds in {{cog|ojp|-}}.  In the modern language, this term has taken on a more [[literary]] sense.
+From {{inh|ja|ojp|-}}, appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
+
+Used as both a standalone noun and in compounds in {{cog|ojp|-}}. In the modern language, this term has taken on a more [[literary]] sense.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|よ|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|y=k|よ|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|よ}}
 
 # {{lb|ja|literary}} [[night]], [[evening]]
 #: {{ja-usex|『[[w:ja:真夏の夜の夢|真夏の'''夜'''の夢]]』|『^まなつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night''''s Dream]]''}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|夜夜|よよ|rom=-}}, {{ja-r|夜々|よよ}}
+* {{ja-r|夜上がり|よあがり}}
+* {{ja-r|夜明け|よあけ}}
+* {{ja-r|夜%風|よ%かぜ}}
+* {{ja-r|夜着|よぎ}}
+* {{ja-r|夜籠もる|よごもる}}
+* {{ja-r|夜さり|よさり}}, {{ja-r|夜さり|ようさり}}
+* {{ja-r|終夜|よすがら}}
+* {{ja-r|夜%釣|よ%づり|rom=-}}, {{ja-r|夜釣り|よづり}}
+* {{ja-r|夜な夜な|よなよな}}
+* {{ja-r|夜%中|よ%なか}}
+* {{ja-r|夜%長|よ%なが}}
+* {{ja-r|夜の目|よ の め}}
+* {{ja-r|夜 一%夜|よ ひと%よ}}
+* {{ja-r|夜更け|よふけ|rom=-}}, {{ja-r|夜深け|よふけ}}
+* {{ja-r|昨夜|よべ}}, {{ja-r|昨夜|ようべ}}
+* {{ja-r|夜間|よま}}
+* {{ja-r|終夜|よもすがら}}
+* {{ja-r|夜も日も明けない|よ も ひ も あけない}}
+* {{ja-r|夜を明かす|よ を あかす}}
+* {{ja-r|夜を掛く|よ を かく}}
+* {{ja-r|夜を籠む|よ を こむ}}
+* {{ja-r|夜半|よわ}}
+* {{ja-r|夜を徹する|よ を てっする}}
+* {{ja-r|夜を日に継ぐ|よ を ひ に つぐ}}
+* {{ja-r|小夜|さよ}}
+* {{ja-r|月%夜|つき%よ}}, {{ja-r|月%夜|つく%よ}}
+* {{ja-r|一%夜|ひと%よ}}
+* {{ja-r|闇%夜|やみ%よ}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=i}}
+
+From {{inh|ja|ojp|-}}, attested in the ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (''c.'' 739 {{CE}}) and in the ''{{w|Man'yōshū}}'' (759 {{CE}}).
+
+Analyzed as the Eastern Old Japanese variation of ''yo'' above.
+
+====Noun====
+{{ja-noun|ゆ}}
+
+# {{lb|ja|sort=ゆ|regional|obsolete}} [[night]], [[evening]]
+#* ''c.'' '''732'''-'''739''', ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (poem 1)
+#*: {{ja-usex|m=志努波羅能 意登比賣能古袁 佐比登'''由'''母 為禰弖牟志太夜 伊幣爾久太佐牟|m_kana=しのはらの おとひめのこを さひと'''ゆ'''も ゐねてむしだや いへにくださむ|[[篠原]]%の[[弟姫]]の子をさ[[一夜|一'''夜''']]も[[率寝]]てむ[[時]]や家にくださむ|しのはら% の おとひめ の こを  さ-ひと'''ゆ''' も ゐねてむ しだ や いへ に くださむ|rom=shinohara no otohime no ko o sa-hito'''yu''' mo inetemu shida ya ie ni kudasamu}}
+#*:: [Note: Some later manuscripts erroneously replace the ''[[man'yōgana]]'' {{m|ja|袁|tr=wo}} with {{m|ja|素|tr={{IPAfont|⟨so<sub>1</sub>⟩}} → so}}.]
+
+===See also===
+* {{ja-r|夕|ゆう}}, {{ja-r|夕べ|ゆうべ}}
 
 ===References===
 <references/>
