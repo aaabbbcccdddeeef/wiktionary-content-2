@@ -1,9 +1,9 @@
 {{also|タ|ヌ|ㄆ|ㄡ|又|夂|夊|夕|支|攴|攵|文|歹|歺|𡚦|𠨰}}
 {{character info/new}}
-<!--
 {{character info/new|0xf981}}
--->
+
 ==Translingual==
+{{stroke order|strokes=3}}
 {{stroke order|type=animate}}
 
 ===Han character===
@@ -11,25 +11,28 @@
 
 # {{mul-kangxi radical-def}}
 
-====Derived glyphs====
+====Derived characters====
 * [[Index:Chinese radical/女]]
 
 ====Descendants====
-* [[め]]
-* [[メ]]
+* {{l|ja|め}} {{q|[[hiragana|Hiragana]] character derived from [[man'yōgana]]}}
+* {{l|ja|メ}} {{q|[[katakana|Katakana]] character derived from [[man'yōgana]]}}
 
-===References===
-* {{Han ref|kx=0254.220|dkj=06036|dj=0516.190|hdz=21023.230|uh=5973}}
+====References====
+{{wikidata|Q54322294}}
+{{Han ref|kx=0254.220|dkj=06036|dj=0516.190|hdz=21023.230|uh=5973}}
+{{Han ref|uh=F981}}
 
 [[Category:Han characters from which hiragana were derived|め]]
 [[Category:Han characters from which katakana were derived|メ]]
+[[Category:CJKV radicals]]
 
 ----
 
 ==Chinese==
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{liushu|p}}: a woman with breasts kneeling or standing. In modern form turned on left side: enclosed area is remnant of left breast (character's left, depicted woman's right), while right breast has disappeared. Graphically cognate to {{zh-l|母|mother}}, which has developed similarly, but also includes dots for nipples and has retained both breasts.
 
 ===Etymology 1===
@@ -179,7 +182,7 @@ Quanzhou: lír - more common; lú - colloquial variant
 
 ===Etymology 1===
 {{ja-kanjitab|おみな|yomi=k}}
-From {{etyl|ojp|ja|sort=おみな}}. {{IPAchar|/womi<sub>1</sub>na/}} → {{IPAchar|/womina/}} → {{IPAchar|/omina/}}. The initial {{IPAchar|/wo/}} expressed "small, youth" and contrasted with {{IPAchar|/o/}} "grown, old" (as in {{m|ja|嫗|tr=omina}} "old woman"). The medial {{IPAchar|/mi/}} is cognate with {{m|ja|女|tr=me||female, woman}}.
+From {{der|ja|ojp|sort=おみな}}. {{IPAchar|/womi<sub>1</sub>na/}} → {{IPAchar|/womina/}} → {{IPAchar|/omina/}}. The initial {{IPAchar|/wo/}} expressed "small, youth" and contrasted with {{IPAchar|/o/}} "grown, old" (as in {{m|ja|嫗|tr=omina}} "old woman"). The medial {{IPAchar|/mi/}} is cognate with {{m|ja|女|tr=me||female, woman}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|おみな|acc=0|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
@@ -210,14 +213,14 @@ From earlier {{IPAchar|/womina/}}: {{IPAchar|/womina/}} → {{IPAchar|/woɴna/}}
 |trans-chapter=The Beheading Beauty}}
 
 =====Usage notes=====
-This has superseded ''omina'', and is now one of the standard Japanese words for {{m|en|woman}}.
+This has superseded {{m|ja|おみな|tr=omina}}, and is now one of the standard Japanese words for {{m|en|woman}}.
 
 =====Antonyms=====
 * {{ja-r|男|おとこ}}: [[man]], [[male]]
 
 ===Etymology 3===
 {{ja-kanjitab|め|yomi=k}}
-From {{etyl|ojp|ja|sort=め}}. {{IPAchar|/me<sub>1</sub>/}} → {{IPAchar|/me/}}
+From {{der|ja|ojp|sort=め}}. {{IPAchar|/me<sub>1</sub>/}} → {{IPAchar|/me/}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|め|acc=1|acc_ref=DJR}}
@@ -323,5 +326,3 @@ Used more in compounds than on its own.
 * {{vi-ref|Hồ (1976)}}.
 * {{vi-ref|Nguyễn (2014)}}.
 * {{vi-ref|Trần (2014)}}.
-
-[[Category:CJKV radicals]]
