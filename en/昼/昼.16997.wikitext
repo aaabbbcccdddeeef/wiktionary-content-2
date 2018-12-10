@@ -27,6 +27,7 @@
 ===Kanji===
 {{ja-kanji|grade=2|rs=日05|kyu=晝}}
 
+# [[daytime]]
 # [[noon]]
 
 ====Readings====
@@ -34,33 +35,69 @@
 |goon=ちゅう<ちう
 |kanon=ちゅう<ちう
 |kun=ひる-
+|nanori=あき, あきら
 }}
 
 ====Compounds====
-* {{ja-r|昼御飯|ひるごはん}}: lunch
-* {{ja-r|昼間人口|ちゅうかん じんこう}}
-* {{ja-r|昼食|ちゅうしょく}}: lunch
+{{der-top}}
+* {{ja-r|昼間|ちゅうかん}}
+* {{ja-r|昼%食|ちゅう%しょく|[[lunch]]}}
 * {{ja-r|昼夜|ちゅうや}}
-* {{ja-r|昼餉|ひるげ}}
-* {{ja-r|昼下がり|ひるさがり}}
-* {{ja-r|昼顔|ひるがお}}
-* {{ja-r|白昼|はくちゅう}}
-* {{ja-r|真昼|まひる}}
+* {{ja-r|白%昼|はく%ちゅう}}
+{{der-bottom}}
+
+===Alternative forms===
+{{ja-kanjitab|ひる|yomi=kun}}
+
+* {{s|noon}} {{ja-l|午}}
 
 ===Etymology===
-{{ja-kanjitab|ひる|yomi=kun}}
-From {{ja-compound|日|ひ|る|t1=sun|pos2=suffix expressing state or change}}, as in the time when the sun is at its highest point in the sky {{rfv-etymology|ja}}. Compare {{ja-r|夜|よる|nighttime}}.
-{{attention|ja|Old Japanese?}}
+{{IPAfont|⟨pi<sub>1</sub>ru⟩}} → *{{IPAchar|/pʲiru/}} → {{IPAchar|/firu/}} → {{IPAchar|/hiru/}}
 
-====Pronunciation====
-{{ja-pron|yomi=k|ひる|acc=1|acc_ref=DJR,NHK}}
+From {{inh|ja|ojp|sort=ひる|-}}.
 
-====Noun====
-{{ja-noun|ひる}}
+Derived from {{m|ja|日|tr=hi||[[day]]}}, suffixed with an element ''ru'' of unclear meaning. Compare {{m|ja|夜||tr=yoru|[[night]], [[evening]]}}, which seems to use this same ''ru'' element.
 
-# [[noon]] (12:00; 12 p.m.)
+===Pronunciation===
+{{ja-pron|yomi=k|ひる|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=晝|ひる}}
+
 # [[daytime]]
-# a meal eaten around the noon; [[lunch]]
+#* {{RQ:Kojiki|poem 21}}
+#*: {{ja-usex|m=宇泥備夜麻 '''比流'''波久毛登韋 由布佐禮婆 加是布加牟登曾 許能波佐夜牙流|m_kana=うねびやま '''ひる'''はくもとゐ ゆふされば かぜふかむとぞ このはさやげる|[[畝%火%山]]'''昼'''は雲とゐ[[夕されば]]風%吹かむとぞ[[木の葉]]さやげる|うね%び%-やま '''ひる''' は くも と ゐ ゆふ されば かぜ% ふかむ と ぞ このは さやげる|rom=Unebi-yama '''hiru''' wa kumo to i yū sareba kaze fukamu to zo konoha sayageru}}
+#: {{syn|ja|昼間|tr=chūkan, hiruma}}
+#: {{ant|ja|[[明るい]][[間]]|tr=akarui ma|夜|tr2=yoru}}
+# [[noon]], [[midday]]
+#: {{syn|ja|正午|tr=shōgo}}
+# {{short for|lang=ja|昼飯|tr=hirumeshi|nodot=1|sort=ひる}}: [[lunch]]
+# the [[heyday]] of [[something]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|昼顔|ヒルガオ}}
+* {{ja-r|昼%餉|ひる%げ}}
+* {{ja-r|昼%御飯|ひる%ごはん|[[lunch]]}}
+* {{ja-r|昼頃|ひるごろ}}
+* {{ja-r|昼%下がり|ひる%さがり}}
+* {{ja-r|昼 時分|ひる じぶん}}
+* {{ja-r|昼%過ぎ|ひる%すぎ}}
+* {{ja-r|昼%立ち|ひる%だち}}
+* {{ja-r|昼つ方|ひる つ かた}}
+* {{ja-r|昼時|ひるどき}}
+* {{ja-r|御%昼%成る|お%ひる%なる}}, {{ja-r|御%昼成る|お%ひんなる}}
+* {{ja-r|昼%寝|ひる%ね}}
+* {{ja-r|昼%間|ひる%ま}}
+* {{ja-r|昼前|ひるまえ}}
+* {{ja-r|昼飯|ひるめし}}
+* {{ja-r|昼%養い|ひる%やしない}}
+* {{ja-r|真%昼|ま%ひる}}
+* {{ja-r|夜昼|よるひる}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|ひる]]
 [[Category:ja:Time|ひる]]
