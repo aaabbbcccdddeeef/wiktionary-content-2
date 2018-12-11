@@ -45,30 +45,101 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木13|shin=桧}}
 
-# [[hinoki]], {{vern|Japanese cypress}} (''[[Chamaecyparis obtusa]]'')
+# [[hinoki]], {{vern|Japanese cypress}}
 
 ====Readings====
 {{ja-readings
-|goon=け
-|kanon=かい
-|kun=ひのき-, ひ-
+|goon=け<け<くゑ
+|kanon=かい<くわい
+|kun=ひ-, ひのき-
 }}
 
-===Etymology===
-{{compound|lang=ja|ひ|t1=Japanese cypress|pos1=from {{etyl|ojp|ja|sort=ひのき}} {{IPAchar|/hi<sub>1</sub>/}} which is homophonous with {{IPAchar|/hi<sub>1</sub>/}} (“sun”)|の|pos2=genitive case marker|き|t3=tree}}
+====Compounds====
+* {{ja-r|老檜|ろうかい}}
+* {{ja-r|翌檜|アスナロ}}, {{ja-r|翌檜|アスナロウ}}
+
+===Etymology　1===
+<div style="float:right;">
+{{wp|lang=ja|ヒノキ}}
+{{wp|Chamaecyparis obtusa}}
+</div>
+{{ja-kanjitab|ひのき|yomi=k}}
+
+Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1={{vern|Japanese cypress}}|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.
+
+====Alternative forms====
+* {{ja-l|檜木}}
 
 ====Pronunciation====
-{{ja-pron|ひのき|acc=1|dev=3}}
+{{ja-pron|y=k|ひのき|acc=1|acc2=0|dev=3|acc_ref=DJR|acc2_ref=DJR}}
 * {{a|Osaka}} {{ja-accent-common|a|ひ|のき}}
 * {{a|{{w|Late Middle Japanese}}}} {{IPAchar|/ɸinoki/}}
 
 ====Noun====
-{{ja-noun|ひのき|ヒノキ|shin=檜}}
+{{ja-noun|shin=桧|ひのき|ヒノキ}}
 
-# [[hinoki]], {{vern|Japanese cypress}} (''[[Chamaecyparis obtusa]]'')
+# the {{vern|Japanese cypress}}, ''[[Chamaecyparis obtusa]]''
+
+=====Usage notes=====
+{{U:ja:biology|ヒノキ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|檜 翌檜|ヒノキ アスナロ}}
+* {{ja-r|檜%笠|ひのき%がさ}}
+* {{ja-r|檜%玉|ひのき%だま}}
+* {{ja-r|檜%綱|ひのき%づな}}
+* {{ja-r|檜 舞台|ひのき ぶたい}}
+* {{ja-r|明日は檜|あす は ひのき}}
+* {{ja-r|木曽 檜|^きそ ^ひのき}}
+* {{ja-r|台湾 檜|^タイワン ヒノキ}}
+{{der-bottom}}
 
 =====Descendants=====
-* English: {{l|en|hinoki}}
+* {{desc|en|hinoki}}
+
+====Proper noun====
+{{ja-pos|proper|shin=桧|ひのき}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=ひのき}}
+# {{surname|lang=ja|A=a|nodot=1|sort=ひのき}}
+
+===Etymology　2===
+{{ja-kanjitab|ひ|yomi=k}}
+{{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/fi/}} → {{IPAchar|/hi/}}
+
+From {{inh|ja|ojp|sort=ひ|-}}.
+
+====Noun====
+{{ja-noun|shin=桧|ひ}}
+
+# {{lb|ja|sort=ひ|obsolete}} the {{vern|Japanese cypress}}, ''[[Chamaecyparis obtusa]]''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|檜%扇|ひ%-おうぎ}}
+* {{ja-r|檜%垣|ひ%がき}}
+* {{ja-r|檜%笠|ひ%がさ}}
+* {{ja-r|檜%隈|^ひ%ぐま}}
+* {{ja-r|檜曾|ひそ|rom=-}}, {{ja-r|檜楚|ひそ}}
+** {{ja-r|白%檜曾|シラ%ビソ}}
+* {{ja-r|檜%枝%岐|^ひの%え%また}}
+* {{ja-r|檜隈|^ひのくま}}
+* {{ja-r|檜葉|ひば}}
+* {{ja-r|檜%原|ひ%ばら}}
+* {{ja-r|檜%物|ひ%もの}}
+* {{ja-r|檜%山|^ひ%やま}}
+* {{ja-r|檜皮|ひわだ}}
+* {{ja-r|檜破り子|ひわりご}}
+* {{ja-r|明日檜|あすひ}}
+* {{ja-r|黒%檜|くろ%び}}, {{ja-r|黒%檜|くろ%べ}}
+* {{ja-r|白%檜|しら%び}}, {{ja-r|白%檜|しら%べ}}
+* {{ja-r|唐%檜|トウ%ヒ}}
+* {{ja-r|紅%檜|ベニ%ヒ}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
