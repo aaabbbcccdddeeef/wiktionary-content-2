@@ -57,9 +57,9 @@
 {{wp|lang=ja|イノシシ}}
 {{wp|Wild boar}}
 </div>
-{{ja-kanjitab|いのしし|yomi=k}}
+{{ja-kanjitab|yomi=k|いのしし}}
 
-Compound of {{com|ja|sort=いのしし|猪|tr1=i|t1=[[pig]], [[boar]]|pos1=see below|の|tr2=no|pos2=possessive particle|獣|tr3=shishi|t3=[[beast]]|pos3=archaic}}.<ref>{{R:Daijisen}}</ref>
+Compound of {{compound|ja|sort=いのしし|猪|tr1=i|t1=[[pig]], [[boar]]|pos1=see below|の|tr2=no|pos2=possessive particle|獣|tr3=shishi|t3=[[beast]]|pos3=archaic}}.<ref>{{R:Daijisen}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|いのしし|acc=3|acc_ref=DJR,NHK}}
@@ -89,10 +89,11 @@ Compound of {{com|ja|sort=いのしし|猪|tr1=i|t1=[[pig]], [[boar]]|pos1=see b
 ====Proper noun====
 {{ja-pos|proper<!--|kyu=U+FA16-->|いのしし|hhira=ゐのしし}}
 
-# {{surname|lang=ja|A=a|nodot=1|sort=いのしし}}
+# {{surname|lang=ja|sort=いのしし|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|い|yomi=k}}
+{{ja-kanjitab|yomi=k|い}}
+
 {{IPAchar|/wi/}} → {{IPAchar|/i/}}
 
 From {{inh|ja|ojp|sort=い|-}}, also used in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨wi⟩}}.
@@ -127,7 +128,8 @@ From {{inh|ja|ojp|sort=い|-}}, also used in the ''{{w|Man'yōshū}}'' (759 {{CE
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|しし|yomi=irr}}
+{{ja-kanjitab|yomi=irr|しし}}
+
 From {{m|ja|肉|tr=shishi||[[meat]], [[flesh]]}}.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Alternative forms====
@@ -163,7 +165,7 @@ From {{m|ja|肉|tr=shishi||[[meat]], [[flesh]]}}.<ref name="DJR"/><ref name="KDJ
 ====Proper noun====
 {{ja-pos|proper<!--|kyu=U+FA16-->|しし}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|sort=しし|A=a|nodot=1}}
 
 ===See also===
 * {{ja-r|豚|ブタ|[[pig]]}}
