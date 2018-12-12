@@ -91,12 +91,12 @@
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|いけ|yomi=k}}
+{{ja-kanjitab|yomi=k|いけ}}
 
 First attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).
 
 ====Pronunciation====
-{{ja-pron|y=k|いけ|acc=2|acc_ref=DJR}}
+{{ja-pron|yomi=k|いけ|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|いけ}}
@@ -132,20 +132,24 @@ First attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}).
 ====Proper noun====
 {{ja-pos|proper|いけ}}
 
-# {{surname|lang=ja|A=a|nodot=1|sort=いけ}}
+# {{surname|lang=ja|sort=いけ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|ち|yomi=o}}
+{{ja-kanjitab|yomi=kanon|ち}}
+
 {{IPAchar|/tʲie/}} → {{IPAchar|/ti/}} → {{IPAchar|/t͡ɕi/}}
 
 From {{bor|ja|ltc|sort=ち|-}} {{ltc-l|池|id=1}}.
 
 Used in {{w|Old Japanese}} as {{m|ja|借音|tr=shakuon}} ''kana'' for {{IPAfont|⟨ti⟩}} in the ''{{w|Nihon Shoki}}'' (720 {{CE}}).
 
+====Pronunciation====
+{{ja-pron|yomi=kanon|ち}}
+
 ====Proper noun====
 {{ja-pos|proper|ち}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|sort=ち|A=a|nodot=1}}
 
 ===Refernecs===
 <references/>
