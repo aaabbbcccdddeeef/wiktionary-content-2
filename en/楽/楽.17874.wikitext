@@ -108,7 +108,7 @@ From native {{w|Japanese_language|Japanese}} roots:
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|らく|yomi=o}}
+{{ja-kanjitab|yomi=o|らく}}
 
 From {{bor|ja|ltc|sort=らく|-}} {{ltc-l|樂|id=3}}.
 
@@ -153,16 +153,16 @@ From {{bor|ja|ltc|sort=らく|-}} {{ltc-l|樂|id=3}}.
 =====Proper noun=====
 {{ja-pos|proper|kyu=樂|らく}}
 
-# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=らく}}
-# {{surname|lang=ja|A=a|nodot=1|sort=らく}}
+# {{given name|lang=ja|sort=らく|A=a|nodot=1|male|or=female}}
+# {{surname|lang=ja|sort=らく|A=a|nodot=1}}
 
 ======Derived terms======
 * {{ja-r|楽焼|^らく-やき|rom=-}}, {{ja-r|楽%焼き|^らく%-やき}}
 
 ===Etymology 2===
-{{ja-kanjitab|がく|yomi=o}}
+{{ja-kanjitab|yomi=o|がく}}
 
-From {{bor|ja|ltc|-}} {{ltc-l|樂|id=2}}.
+From {{bor|ja|ltc|sort=かく'|-}} {{ltc-l|樂|id=2}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|がく|acc=1|acc_ref=DJR,NHK,|acc2=0|acc2_ref=NHK}}
@@ -170,8 +170,8 @@ From {{bor|ja|ltc|-}} {{ltc-l|樂|id=2}}.
 ====Noun====
 {{ja-noun|kyu=樂|がく}}
 
-# {{short for|lang=ja|音楽|tr=ongaku|nodot=1}}: [[music]]
-# {{short for|lang=ja|雅楽|tr=[[gagaku]]|nodot=1}}: [[ancient]]-[[medieval]] Japanese [[court]] [[music]], [[import]]ed from the [[Chinese]] ''{{ll|zh|雅樂|yayue}}''
+# {{short for|lang=ja|nocap=1|音楽|tr=ongaku|nodot=1}}: [[music]]
+# {{short for|lang=ja|nocap=1|雅楽|tr=[[gagaku]]|nodot=1}}: [[ancient]]-[[medieval]] Japanese [[court]] [[music]], [[import]]ed from the [[Chinese]] ''{{ll|zh|雅樂|yayue}}''
 # {{lb|ja|sort=かく'|theater}} {{rfdef|ja}}
 
 =====Derived terms=====
@@ -192,7 +192,7 @@ From {{bor|ja|ltc|-}} {{ltc-l|樂|id=2}}.
 =====Proper noun=====
 {{ja-pos|proper|kyu=樂|がく}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|sort=かく'|A=a|nodot=1}}
 
 ===Etymology 3===
 {{ja-kanjitab|このみ|yomi=k}}
@@ -202,7 +202,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 =====Proper noun=====
 {{ja-pos|proper|kyu=樂|このみ}}
 
-# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=このみ|A=a|nodot=1|female}}
 
 ===References===
 <references/>
