@@ -58,15 +58,15 @@
 <div style="float:right;">
 {{wp|lang=ja|ヒイラギ}}
 {{wp|Osmanthus heterophyllus}}
-[[File:Osmanthus heterophyllus.jpg|thumb|alt=Osmanthus heterophyllus|{{m|ja||柊|tr=hiiragi}}: a [[holly osmanthus]]]]
+[[File:Osmanthus heterophyllus.jpg|thumb|alt=Osmanthus heterophyllus|{{m|ja||柊|tr=hīragi}}: a [[holly osmanthus]]]]
 </div>
-{{ja-kanjitab|ひいらぎ|yomi=k}}
+{{ja-kanjitab|yomi=k|ひいらぎ}}
 
 {{IPAfont|⟨pi<sub>1</sub>pi<sub>1</sub>ra ki<sub>2</sub>⟩}} → *{{IPAchar|/pʲipʲiraɡʷi/}} → {{IPAchar|/fifiraɡi/}} → {{IPAchar|/hiwiraɡi/}} → {{IPAchar|/hiːraɡi/}}
 
-From {{inh|ja|ojp|sort=ひいらき|-}}, first attested in the ''{{w|Kojiki}}'' (720 {{CE}}).
+From {{inh|ja|ojp|sort=ひいらぎ|-}}, first attested in the ''{{w|Kojiki}}'' (720 {{CE}}).
 
-Possibly originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=stem of obsolete verb {{m|ja|疼く|tr=hihiraku}}, “to [[feel]] [[tingle|tingling]] [[pain]]”}} + {{m|ja|木|tr=ki||[[tree]]}}, from the holly's [[sharp]] [[leaf|leaves]]. {{rfv-etymology|ja}} {{rendaku2|ki|gi|sort=ひいらき}} 
+Appears to derive as the {{m|ja|連用形||tr=ren'yōkei|continuative or stem form}} of now-[[obsolete]] verb {{m|ja|疼ぐ||tr=hīragu|to [[hurt]] with a [[stinging]] [[pain]]}}, in reference to the sharp [[thorn]]s on the [[leaf|leaves]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 {{rfe|ja|extend for "spotnape ponyfish" sense}}
 
@@ -75,14 +75,14 @@ Possibly originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=stem of obs
 * {{sense|spotnape ponyfish}} {{ja-l|鮗}}
 
 ====Pronunciation====
-{{ja-pron|y=k|ひいらぎ|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|ひいらぎ|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|ひ.いらぎ|ヒ.イラギ|hhira=ひひらぎ|hkata=ヒヒラギ}}
+{{ja-noun|ひいらぎ|ヒイラギ|hhira=ひひらぎ|hkata=ヒヒラギ}}
 
 # ''[[Osmanthus heterophyllus]]'', a species of [[flowering plant]]s known as the [[holly olive]], [[holly osmanthus]], or [[false holly]]
 #: {{hyper|ja|木犀|tr=mokusei}}
-# a style of {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with designs of ''hiiragi'' [[leaf|leaves]]
+# a style of {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with designs of ''hīragi'' [[leaf|leaves]]
 # {{taxlink|Nuchequula nuchalis|species|ver=181026}}, the {{vern|spotnape ponyfish}}
 #: {{hyper|ja|鱸|tr=suzuki}}
 
@@ -114,37 +114,39 @@ Possibly originally a compound of {{m|ja|疼|tr=hihira||[[ache]]|pos=stem of obs
 {{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|proper|ひ.いらぎ|hhira=ひひらぎ}}
+{{ja-pos|proper|ひいらぎ|hhira=ひひらぎ}}
 
-# {{given name|lang=ja|female|A=a|nodot=1|sort=ひいらき}}
-# {{surname|lang=ja|A=a|nodot=1|sort=ひいらき}}
+# {{given name|lang=ja|sort=ひいらぎ|A=a|nodot=1|female}}
+# {{surname|lang=ja|sort=ひいらぎ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|ひらぎ|yomi=i}}
+{{ja-kanjitab|yomi=irr|ひらぎ}}
+
 {{IPAchar|/hiːraɡi/}} → {{IPAchar|/hiraɡi/}}
 
-Shift from ''hiiragi'' above.<ref name="DJS">{{R:Daijisen}}</ref>
+Shift from ''hīragi'' above.<ref name="DJS">{{R:Daijisen}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Noun====
 {{ja-noun|ひらぎ|ヒラギ}}
 
-# ''Same as'' {{m|ja||ひいらぎ|tr=hiiragi}} ''above''
+# ''Same as'' {{m|ja||ひいらぎ|tr=hīragi}} ''above''
 
 ====Proper noun====
 {{ja-pos|proper|ひらぎ}}
 
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|sort=ひらぎ|A=a|nodot=1}}
 
 ===Etymology 3===
-{{ja-kanjitab|しゅう|yomi=kanon}}
+{{ja-kanjitab|yomi=kanon|しゅう}}
+
 {{IPAchar|/t͡ɕɨu/}} → {{IPAchar|/ɕʲuː/}} → {{IPAchar|/ɕuː/}}
 
-From {{bor|ja|ltc|sort=しゆう|-}} {{ltc-l|柊}}.
+From {{bor|ja|ltc|sort=しゅう|-}} {{ltc-l|柊}}.
 
 ====Proper noun====
 {{ja-pos|proper|しゅう}}
 
-# {{given name|female|lang=ja|A=a|nodot=1|sort=しゆう}}
+# {{given name|lang=ja|sort=しゅう|A=a|nodot=1|female}}
 
 ===References===
 <references/>
