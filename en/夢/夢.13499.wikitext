@@ -114,15 +114,16 @@ From {{inh|zh|sit-pro|*(s/r)-ma(ŋ/k)||dream}}.
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|ゆめ|yomi=k}}
+{{ja-kanjitab|yomi=k|ゆめ}}
+
 {{IPAfont|⟨ime<sub>2</sub>⟩}} → *{{IPAchar|/jiməj/}} → {{IPAchar|/jɨme/}} → {{IPAchar|/jume/}}
 
-Shift from {{inh|ja|ojp|sort=ゆめ|-}} ''ime'' (see below).<ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/>
+Shift from {{inh|ja|ojp|sort=ゆめ|-}} ''ime'' (see below).<ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|言う|tr=iu → yuu||to [[speak]]}} and {{m|ja|行く|tr=iku → yuku||to [[go]]}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|ゆめ|acc=2|acc_ref=DJR,ZAJ}}
+{{ja-pron|yomi=k|ゆめ|acc=2|acc_ref=DJR,ZAJ}}
 
 ====Noun====
 {{ja-noun|ゆめ}}
@@ -195,16 +196,17 @@ The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|�
 ====Proper noun====
 {{ja-pos|proper|ゆめ}}
 
-# {{given name|female|lang=ja|A=a|nodot=1|sort=}}
-# {{surname|lang=ja|A=a|nodot=1|sort=}}
+# {{given name|lang=ja|sort=ゆめ|A=a|nodot=1|female}}
+# {{surname|lang=ja|sort=ゆめ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|いめ|yomi=k}}
+{{ja-kanjitab|yomi=k|いめ}}
+
 {{IPAfont|⟨i me<sub>2</sub>⟩}} → *{{IPAchar|/jiməj/}} → {{IPAchar|/ime/}}
 
 From {{inh|ja|ojp|sort=いめ|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
 
-Originally a compound of {{m|ja|寝|tr=i||[[sleep]], [[sleep]]ing}} + {{m|ja|目|tr=me||[[eye]]}}.<ref name="DJR"/>
+Originally a compound of {{m|ja|寝|tr=i||[[sleep]], [[sleep]]ing}} + {{m|ja|目|tr=me||[[eye]]; [[sight]], [[vision]]}}.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Noun====
 {{ja-noun|いめ}}
