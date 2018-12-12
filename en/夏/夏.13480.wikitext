@@ -165,15 +165,16 @@ The current form is simplified from the seal script, with the removal of {{zh-l|
 {{wp|lang=ja}}
 {{wp|Summer}}
 </div>
-{{ja-kanjitab|なつ|yomi=k}}
+{{ja-kanjitab|yomi=k|なつ}}
+
 {{IPAchar|/natu/}} → {{IPAchar|/nat͡su/}}
 
 From {{inh|ja|ojp|sort=なつ|-}}.
 
-Possibly from {{der|ja|tut-pro|*ni̯ā́ŕà||[[young]]; [[spring]], [[summer]]}} (compare {{cog|ko|여름||summer}}, {{cog|trk-pro|*jāŕ||summer}} ({{cog|tr|yaz}})).<ref>{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2falt%2faltet&text_number=1476&root=config “*ni̯ā́ŕà”]</ref>.
+Possibly from {{der|ja|tut-pro|sort=なつ|*ni̯ā́ŕà||[[young]]; [[spring]], [[summer]]}} (compare {{cog|ko|여름||summer}}, {{cog|trk-pro|*jāŕ||summer}} ({{cog|tr|yaz}})).<ref>{{R:tut-pro:SDM}}: [http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2falt%2faltet&text_number=1476&root=config “*ni̯ā́ŕà”]</ref>.
 
 ====Pronunciation====
-{{ja-pron|y=k|なつ|acc=2|acc_ref=DJR,NHK}}
+{{ja-pron|yomi=k|なつ|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|なつ}}
@@ -217,17 +218,18 @@ Possibly from {{der|ja|tut-pro|*ni̯ā́ŕà||[[young]]; [[spring]], [[summer]]}
 ====Proper noun====
 {{ja-pos|proper|なつ}}
 
-# {{given name|female|lang=ja|A=a|nodot=1|sort=なつ}}
-# {{surname|lang=ja|A=a|nodot=1|sort=なつ}}
+# {{given name|lang=ja|sort=なつ|A=a|nodot=1|female}}
+# {{surname|lang=ja|sort=なつ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|げ|yomi=goon}}
+{{ja-kanjitab|yomi=goon|げ}}
+
 From {{bor|ja|ltc|sort=け'|-}} {{ltc-l|夏|id=2}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
 
 Also used in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨ge<sub>1</sub>⟩}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|げ|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|げ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|げ}}
@@ -246,7 +248,8 @@ Also used in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as {{m|ja|借音|tr=shakuon}
 {{wp|lang=ja|夏 (三代)}}
 {{wp|Xia dynasty}}
 </div>
-{{ja-kanjitab|か|yomi=kanon}}
+{{ja-kanjitab|yomi=kanon|か}}
+
 From {{bor|ja|ltc|sort=か|-}} {{ltc-l|夏|id=1}}.
 
 The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
@@ -255,10 +258,10 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 {{ja-pos|proper|か}}
 
 # the [[Xia]] [[dynasty]] {{gl|first dynasty of China}}
-# {{short for|lang=ja|大夏|tr=Daika|nodot=1|sort=か}}: {{w|Xia (Sixteen Kingdoms)|Xia}}, one of the {{w|Sixteen Kingdoms}}
-# {{short for|lang=ja|西夏|tr=Seika|nodot=1}}: {{w|Western Xia}}, an [[empire]] during the [[Song]] dynasty
-# {{surname|lang=ja|A=a|nodot=1}}
-# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=か}}
+# {{short for|lang=ja|sort=か|大夏|tr=Daika|nodot=1}}: {{w|Xia (Sixteen Kingdoms)|Xia}}, one of the {{w|Sixteen Kingdoms}}
+# {{short for|lang=ja|sort=か|西夏|tr=Seika|nodot=1}}: {{w|Western Xia}}, an [[empire]] during the [[Song]] dynasty
+# {{surname|lang=ja|sort=か|A=a|nodot=1}}
+# {{given name|lang=ja|sort=か|A=a|nodot=1|male|or=female}}
 
 ===References===
 <references/>
