@@ -73,13 +73,14 @@
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|あかつき|yomi=k}}
+{{ja-kanjitab|yomi=k|あかつき}}
+
 {{IPAfont|⟨aka to<sub>2</sub>ki<sub>1</sub>⟩}} → *{{IPAchar|/akatəkʲi/}} → {{IPAchar|/akatuki/}} → {{IPAchar|/akat͡suki/}}
 
-Shift from {{w|Old Japanese}} ''akatoki'' below.<ref name="DJS">{{R:Daijisen}}</ref><ref name=DJR/>
+Shift from {{der|ja|ojp|sort=あかつき|-}} ''akatoki'' below.<ref name="DJS">{{R:Daijisen}}</ref><ref name=DJR/>
 
 ====Pronunciation====
-{{ja-pron|y=k|あかつき|dev=3|acc=0|acc_ref=DJR}}
+{{ja-pron|yomi=k|あかつき|dev=3|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|kyu=曉|あかつき}}
@@ -112,20 +113,20 @@ Shift from {{w|Old Japanese}} ''akatoki'' below.<ref name="DJS">{{R:Daijisen}}</
 ====Proper noun====
 {{ja-pos|proper|あかつき}}
 
-# {{given name|female|lang=ja|A=a|nodot=1|sort=あかつき}}
-# {{surname|lang=ja|A=a|nodot=1|sort=あかつき}}
+# {{given name|lang=ja|sort=あかつき|A=a|nodot=1|female}}
+# {{surname|lang=ja|sort=あかつき|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|あかとき|yomi=k}}
+{{ja-kanjitab|yomi=k|あかとき}}
 
 From {{inh|ja|ojp|sort=あかとき|-}}.
 
-Originally a compound of {{com|ja|sort=あかとき|明|tr1=aka|t1=[[bright]]|時|tr2=toki|t2=[[time]]}}.<ref name="DJS"/><ref name=DJR/>
+Originally a compound of {{compound|ja|sort=あかとき|明|tr1=aka|t1=[[bright]]|時|tr2=toki|t2=[[time]]}}.<ref name="DJS"/><ref name=DJR/>
 
 ====Noun====
 {{ja-noun|kyu=曉|あかとき}}
 
-# {{lb|ja|archaic|obsolete|sort=あかとき}} [[dawn]], [[daybreak]]
+# {{lb|ja|sort=あかとき|archaic|obsolete}} [[dawn]], [[daybreak]]
 #* {{RQ:Manyoshu|18|4084}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo#4084.html here]
 #*: {{ja-usex|m='''安可登吉'''尓 名能里奈久奈流 保登等藝須 伊夜米豆良之久 於毛保由流香母|m_kana='''あかとき'''に なのりなくなる ほととぎす いやめづらしく おもほゆるかも|'''暁'''に名告り鳴くなる[[ほととぎす|霍公鳥]]いやめづらしく思ほゆるかも|'''あかとき''' に な-のり なくなる ほととぎす いや めづらしく おもほゆるかも|rom='''akatoki''' ni nanori nakunaru hototogisu iya mezurashiku omōyuru ka mo}}
 
@@ -140,36 +141,36 @@ Various ''nanori'' readings.
 ====Proper noun====
 {{ja-pos|proper|kyu=曉|あかな}}
 
-# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=あかな|A=a|nodot=1|female}}
 
 {{ja-pos|proper|kyu=曉|あき}}
 
-# {{given name|female|lang=ja|A=a|nodot=1}}
-# {{surname|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=あき|A=a|nodot=1|female}}
+# {{surname|lang=ja|sort=あき|A=a|nodot=1}}
 
 {{ja-pos|proper|kyu=曉|あきら}}
 
-# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=あきら|A=a|nodot=1|female}}
 
 {{ja-pos|proper|kyu=曉|きょう|hhira=けう}}
 
-# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=きょう|A=a|nodot=1|male|or=female}}
 
 {{ja-pos|proper|kyu=曉|ぎょう|hhira=げう}}
 
-# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=ぎょう|A=a|nodot=1|female}}
 
 {{ja-pos|proper|kyu=曉|さとし}}
 
-# {{given name|male|lang=ja|A=a|nodot=1|sort=さとし}}
+# {{given name|lang=ja|sort=さとし|A=a|nodot=1|male}}
 
 {{ja-pos|proper|kyu=曉|さとる}}
 
-# {{given name|unisex|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=さとる|A=a|nodot=1|unisex}}
 
 {{ja-pos|proper|kyu=曉|とおる|hhira=とほる}}
 
-# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+# {{given name|lang=ja|sort=とおる|A=a|nodot=1|male|or=female}}
 
 ===References===
 <references/>
