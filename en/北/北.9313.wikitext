@@ -86,71 +86,90 @@ Compare the graphical origin of {{och-l|南|south}} ({{zh-ref|Sagart, 1988}}).
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top3|Compounds}}
 * {{ja-r|北%緯|ほく%い}}
 * {{ja-r|北海|ほっかい}}, {{ja-r|北海|^ほっかい}}
 * {{ja-r|北%海道|^ほっ%かいどう}}
 * {{ja-r|北極|ほっきょく}}, {{ja-r|北極|^ほっきょく}}
 * {{ja-r|北国|ほっこく}}
-* {{ja-r|北上|ほくじょう}}
+* {{ja-r|北%州|^ほく%しゅう|rom=-}}, {{ja-r|北%洲|^ほく%しゅう}}
+* {{ja-r|北%上|ほく%じょう}}
+* {{ja-r|北条|^ほうじょう}}
 * {{ja-r|北進|ほくしん}}
 * {{ja-r|北西|ほくせい}}
+* {{ja-r|北%叟笑む|ほく%そえむ}}
 * {{ja-r|北端|ほくたん}}
 * {{ja-r|北天|ほくてん}}
 * {{ja-r|北%斗|ほく%と}}
 * {{ja-r|北%斗 七星|^ほく%と ^しちせい|[[Big Dipper]]}}
+* {{ja-r|北東|ほくとう}}
 * {{ja-r|北%部|ほく%ぶ}}
 * {{ja-r|北風|ほくふう}}
+* {{ja-r|北方|ほっぽう}}
+* {{ja-r|北%北西|ほく%-ほくせい}}
+* {{ja-r|北%北東|ほく%-ほくとう}}
+* {{ja-r|北溟|ほくめい|rom=-}}, {{ja-r|北冥|ほくめい}}
 * {{ja-r|北面|ほくめん}}
-* {{ja-r|北洋|ほくよう}}, {{ja-r|北洋|^ほくよう}}
+* {{ja-r|北洋|ほくよう}}
 * {{ja-r|北陸|^ほくりく}}
 * {{ja-r|北方|ほっぽう}}
 * {{ja-r|極北|きょくほく}}
 * {{ja-r|硯北|けんぼく}}
 * {{ja-r|朔北|さくほく}}
-* {{ja-r|東北|とうほく}}, {{ja-r|東北|^とうほく}}
+* {{ja-r|西北|せいほく}}
+* {{ja-r|東北|とうほく}}
 * {{ja-r|南北|なんぼく}}
 * {{ja-r|敗北|はいぼく|[[defeat]]}}
-* {{ja-r|北条|^ほうじょう}}
-* {{ja-r|台北|^タイペイ}}
 * {{ja-r|北%京|^ペ%キン}}
-* {{ja-r|北%叟笑む|ほく%そえむ}}
+* {{ja-r|台北|^タイペイ}}
 {{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|きた|yomi=k}}
 
-From {{inh|ja|ojp|sort=きた|-}}.
+Possibly from {{inh|ja|ojp|sort=きた|-}}.
 
-Ultimate derivation {{unk|nocap=1|sort=きた}}.
+Ultimate derivation {{unk|ja|nocap=1|sort=きた}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|きた|acc=0|dev=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
+{{ja-pron|y=k|きた|acc=0|dev=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
+{{rfv-pronunciation|ja|sort=きた}}
+{{ja-pron|y=k|きた|acc=1|acc_loc=[[w:Kansai dialect|Kyoto]]}}
+{{ja-pron|y=k|きた|acc=1|dev=2|acc_loc=[[w:Kagoshima dialect|Kagoshima]]}}
 
 ====Noun====
 {{ja-noun|きた}}
 
 # [[north]] {{gl|[[compass]] [[direction]]}}
+#* '''905''', ''{{w|Kokin Wakashū}}'' (book 9, poem 412)
+#*: {{ja-usex|'''北'''へ行く雁ぞ鳴くなるつれてこし数はたらでぞかへるべらなる|'''きた''' へ ゆく かり ぞ なくなる つれて こし かず は たらで ぞ かへるべらなる|rom='''kita''' e yuku kari zo nakunaru tsurete koshi kazu wa tarade zo kaeruberanaru}}
 #: {{antonyms|ja|南|tr=minami}}
 # the [[North]] {{gl|[[northern]] [[part]] of a [[region]]}}
 # the [[north wind]]
 #: {{synonyms|ja|北風|tr=kitakaze, hokufū}}
 # a [[developed country]]
+#: from the many [[country|countries]] in the [[Northern Hemisphere|''Northern'' Hemisphere]] are considered [[develop]]ed
 
 =====Derived terms=====
 {{der-top}}
+* {{ja-r|北す|きたす}}
 * {{ja-r|北%面|きた%-おもて}}
 * {{ja-r|北風|きたかぜ}}
+* {{ja-r|北方|^きたがた}}
 * {{ja-r|北国|きたぐに}}
 * {{ja-r|北 半球|^きた ^はんきゅう}}
+* {{ja-r|北窓|きたまど}}
+* {{ja-r|西北|にし-きた}}
 * {{ja-r|東%北|ひがし%-きた}}
 {{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|proper|きた|キタ}}
 
-# a ''[[place name]]''
+# ''a [[place name]]'', ''especially'' the name of a [[ward]] in various [[city|cities]] in Japan
+# {{lb|ja|sort=きた|historical}} {{rfdef|ja|sort=きた}}
 # {{surname|lang=ja|A=a|nodot=1|sort=きた}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=きた}}
 
 ===References===
 <references/>
