@@ -4,8 +4,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=17|sn=20|four=60032|canj=RYRV|ids=⿰口襄}}
 
-# [[shout]], [[brawl]], make [[uproar]], [[cry]]
-
 ====References====
 * {{Han ref|kx=0214.151|dkj=04600|dj=0437.060|hdz=10704.110|uh=56B7|ud=22199|bh=C457|bd=50263}}
 
@@ -16,10 +14,11 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|襄|c1=s|c2=p|t1=mouth|ls=psc}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=rǎng,rāng
+|m=rǎng
 |c=joeng6,joeng5
 |h=pfs=
 |md=
@@ -27,16 +26,32 @@
 |w=
 |mc=
 |oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[shout]]; to [[cry out]]
+# to make an [[uproar]], to [[[[brawl]]
+# {{lb|zh|dialectal}} to [[criticize]]
+
+====Compounds====
+{{zh-der|嚷叫|叫嚷|嚷鬧|嚷罵|大嚷大叫|咕嚷|嘈嚷|嚷刮|喧嚷|低嚷|吵嚷}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=rāng,rǎng,1nb=Mainland,1nc=Taiwan,2nb=Taiwan
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{n-g|Same as}} {{zh-l|嚷|rǎng}}. {{zh-only|嚷嚷}} 
 
 ====Compounds====
-{{zh-der|嚷叫|嚷嚷|叫嚷|嚷鬧|嚷罵|大嚷大叫|咕嚷|嘈嚷|嚷刮|喧嚷|低嚷|吵嚷|大聲嚷嚷|紛紛嚷嚷|賣嚷嚷兒|鬧嚷嚷}}
+{{zh-der|嚷嚷|大聲嚷嚷|紛紛嚷嚷|賣嚷嚷兒|鬧嚷嚷}}
 
 ===References===
 * {{R:twedu|A00712}}
