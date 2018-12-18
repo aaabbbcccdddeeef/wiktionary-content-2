@@ -59,25 +59,82 @@
 {{ja-kanji|grade=|rs=木06}}
 
 # [[chestnut]]
+# [[shake]], [[tremble]]
 
 ====Readings====
 {{ja-readings
 |goon=りち
 |kanon=りつ
 |kun=くり-
-|nanori=くり
 }}
 
 ====Compounds====
-* {{ja-r|栗鼠|りす|[[squirrel]]}}
+{{der-top|Compounds}}
+* {{ja-r|栗鼠|リス|[[squirrel]]}}
+* {{ja-r|栗東|^りっとう}}
+* {{ja-r|栗林 公園|^りつりん ^こうえん}}
+* {{ja-r|芋%栗|う%りつ}}
+* {{ja-r|股%栗|こ%りつ}}
+* {{ja-r|戦栗|せんりつ}}
+* {{ja-r|苗%栗|^びょう%りつ}}
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wp|lang=ja|クリ}}
+{{wp|lang=ja|クリ属}}
+{{wp|Castanea crenata}}
+</div>
+{{ja-kanjitab|くり|yomi=k}}
+
+From {{inh|ja|ojp|sort=くり|-}}.
+
+===Pronunciation===
+{{ja-pron|y=k|くり|acc=2|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|くり|クリ}}
-# a [[chestnut]], common [[horse chestnut]]
-# a [[chestnut]] tree
 
-====Compounds====
+# the {{vern|Japanese chestnut}}, {{taxlink|Castanea crenata|species}}
+#: {{syn|ja|マロン|tr=maron}}
+#: {{hyper|ja|橅|tr=buna}}
+# {{short for|lang=ja|栗色|tr=kuri-iro|nodot=1|sort=くり}}: [[chestnut]] [[brown]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|栗色|くり-いろ}}
 * {{ja-r|栗%毛|くり%げ}}
+* {{ja-r|栗材|くりざい}}
+* {{ja-r|栗%鼠|くり%ねずみ}}
+* {{ja-r|栗%林|^くり%ばやし}}
+* {{ja-r|栗原|^くりはら}}
+* {{ja-r|クリボー|Kuribō|{{w|Goomba}}}}
+* {{ja-r|栗飯|くりめし}}
+* {{ja-r|栗山|^くりやま}}
+* {{ja-r|甘栗|あまぐり}}
+* {{ja-r|毬栗|いがぐり}}
+* {{ja-r|搗ち栗|かちぐり|rom=-}}, {{ja-r|勝ち栗|かちぐり}}
+* {{ja-r|支那%栗|^シナ%-グリ}}
+* {{ja-r|丹波%栗|^たんば%-ぐり}}
+* {{ja-r|団栗|ドングリ}}
+* {{ja-r|生栗|なまぐり}}
+* {{ja-r|実無し栗|みなしぐり|rom=-}}, {{ja-r|虚%栗|みなし%ぐり}}
+{{der-bottom}}
+
+====Coordinate terms====
+* {{ja-r|五果|ごか|rom=-}}, {{ja-r|五菓|ごか|[[five]] [[fruit]]s}}: {{ja-r|桃|もも|[[peach]]}}, {{ja-r|李|すもも|{{vern|Prunus salicina|Japanese plum}}}}, {{ja-r|杏|あんず|[[apricot]]}}, {{ja-r|棗|なつめ|[[jujube]]}}, {{ja-r|栗|くり|'''Japanese chestnut'''}}
+
+====See also====
+* {{ja-r|橡|トチノキ|rom=-}}, {{ja-r|栃|トチノキ|{{vern|Japanese horse chestnut}}}}
+
+===Proper noun===
+{{ja-pos|proper|くり}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=くり}}
+# {{surname|lang=ja|A=a|nodot=1|sort=くり}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|くり]]
 
