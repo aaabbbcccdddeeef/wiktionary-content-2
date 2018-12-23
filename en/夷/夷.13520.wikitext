@@ -66,16 +66,93 @@ In contrast, Ferlus ([https://halshs.archives-ouvertes.fr/halshs-01182596/file/F
 ===Kanji===
 {{ja-kanji|grade=|rs=大03}}
 
-# {{defn|lang=ja|sort=大03}}
+# [[ancient]] [[tribe]]s in [[eastern]] [[China]]
+# [[level]] {{gl|[[flat]] and [[low]]}}
+# [[level]]led [[destruction]]
 
 ====Readings====
 {{ja-readings
-|on=い
-|kun=たい-らげる, ころ-す, えびす-, えみし-
+|goon=い
+|kanon=い
+|kun=えびす-, ころ-す, たい-らげる<たひ-らげる
+|nanori=ひな, ひら
 }}
 
 ====Compounds====
-* [[蝦夷]] ([[えみし]], [[emishi]]; [[えみす]], [[emisu]]; [[えびす]], [[ebisu]]; [[えぞ]], [[ezo]])
+{{der-top|Compounds}}
+* {{ja-r|以夷%攻夷|い.い%こうい}}
+* {{ja-r|夷%狄|い%てき}}
+* {{ja-r|華夷|^かい}}
+* {{ja-r|九夷|^きゅうい}}
+* {{ja-r|険夷|けんい|rom=-}}, {{ja-r|嶮夷|けんい}}
+* {{ja-r|攘夷|じょうい}}
+* {{ja-r|焼夷|しょうい}}
+* {{ja-r|東夷|^とうい}}
+* {{ja-r|平%夷|へい%い}}
+* {{ja-r|蛮夷|ばんい|rom=-}}, {{ja-r|蕃夷|ばんい}}
+* {{ja-r|蝦夷|^えぞ}}
+* {{ja-r|蝦夷|^えみし}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|えびす|yomi=k}}
+
+{{IPAfont|⟨emi<sub>1</sub>si⟩}} → *{{IPAchar|/emʲisɨ/}} → {{IPAchar|/emisə/}} → {{IPAchar|/ebisu/}}
+
+Shift from {{inh|ja|ojp|sort=えひす|蝦夷|tr={{w|Emishi}}}}, modern ''Ezo''.
+
+====Alternative forms====
+* {{ja-l|戎}}
+
+====Pronunciation====
+{{ja-pron|y=k|えびす|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|えびす}}
+
+# {{lb|ja|sort=えひす|historical}} {{synonym of|lang=ja|蝦夷|tr=Ezo|nodot=1|sort=えひす}}: an [[ancient]] [[ethnic group]] attested in the ''{{w|Nihon Shoki}}'' that once lived on what is now the {{w|Kantō region|Kantō}}, {{w|Hokuriku region|Hokuriku}} and {{w|Tōhoku region|Tōhoku regions}}, likely as far as {{w|Hokkaido}}, possibly related to the {{w|Ainu people}}; dubbed as "[[barbarian]]s" or "[[savage]]s" by the [[Yamato]]
+# a [[person]] [[live|living]] [[far away]] from the {{m|ja|都|tr=miyako||[[capital]]}}, loosely translated to "[[bumpkin]]" or "[[hick]]"
+#: {{syn|ja|田舎者|tr=inakamono}}
+# {{lb|ja|sort=えひす|regional|derogatory}} a [[barbarian]], [[savage]], ''especially'' referring to the {{m|ja|東夷|tr=azuma-ebisu||[[warrior]] from the [[east]]ern parts of Japan}}
+#* '''1204''', ''{{w|lang=ja|秋篠月清集|Akishino Gesseishū}}'' (book 1, poem 223)
+#*: {{ja-usex|sort=えひす|わがおもふ人だにすまばみちのくの'''えびす'''の里もうときものかは|わが おもふ ひと だに すまば ^みちのく の '''えびす''' の さと も うとき もの か は|rom=waga omou hito dani sumaba Michinoku no '''ebisu''' no sato utoki mono ka wa}}
+# {{lb|ja|sort=えひす|by extension|derogatory}} a [[foreigner]]
+
+=====Derived terms=====
+* {{ja-r|東%夷|あずま%-えびす}}
+
+====Proper noun====
+{{ja-pos|proper|えびす}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=えひす}}
+
+===Etymology 2===
+{{ja-kanjitab|い|yomi=o}}
+{{IPAchar|/ji/}} → {{IPAchar|/i/}}
+
+From {{bor|ja|ltc|sort=い|-}} {{ltc-l|夷}}, originally referred to one of the [[ancient]] [[tribe]]s [[east]] of [[China]].
+
+====Pronunciation====
+{{ja-pron|y=o|い|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|い}}
+
+# those [[people]] with [[differ]]ing [[language]]s and/or [[culture]]s
+#: {{syn|ja|異民族|tr=iminzoku}}
+# a [[barbarian]], [[savage]]
+#: {{syn|ja|野蛮人|tr=yabanjin}}
+# a [[neutral]] {{gl|[[position]]}}
+#: {{syn|ja|無色|tr=mushoku}}
+
+=====Derived terms=====
+* {{ja-r|征%夷|せい%い}}
+
+=====Idioms=====
+* {{ja-r|夷を以て夷を制す|い を もって い を せいす}}
+
+===References===
+<references/>
 
 ----
 
