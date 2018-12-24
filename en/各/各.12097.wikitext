@@ -1,25 +1,27 @@
 {{also|名}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=6}}
 
 ===Han character===
 {{Han char|rn=30|rad=口|as=03|sn=6|four=27604|canj=HER|ids=⿱夂口}}
 
 ====Derived characters====
-各 (Old Chinese *''klaag'', by Zhengzhang Shangfang) is frequently used to demonstrate the presence of consonant cluster initials in Old Chinese.
-* (k/g-) [[客]] ([[愘]], [[揢]]), [[閣]]/[[阁]] ([[擱]]/[[搁]]), [[格]], [[鉻]]/[[铬]], [[咯]], [[胳]], [[硌]], [[骼]], [[袼]], [[挌]], [[茖]], [[佫]], [[敋]], [[鮥]], [[臵]], [[餎]]/[[饹]], [[觡]], [[鵅]], [[蛒]], [[恪]]
-* (l-) [[洛]]|[[洜]] ([[落]]), [[絡]]/[[络]], [[酪]], [[烙]], [[珞]], [[路]], [[略]]/[[畧]], [[餎]]/[[饹]], [[駱]]/[[骆]], [[珞]], [[雒]], [[峈]], [[硌]], [[詻]], [[鮥]], [[笿]]
+{{och-l|各}} (by [[w:Zhengzhang Shangfang|Zhengzhang Shangfang]]) is frequently used to demonstrate the presence of consonant cluster initials in [[Old Chinese]]:
+* {{q|k/g-}}: {{l|mul|[[客]], [[愘]], [[揢]], [[閣]]([[阁]]), [[擱]]([[搁]]), [[格]], [[鉻]]([[铬]]), [[咯]], [[胳]], [[硌]], [[骼]], [[袼]], [[挌]], [[茖]], [[佫]], [[敋]], [[鮥]], [[臵]], [[餎]]([[饹]]), [[觡]], [[鵅]], [[蛒]], [[恪]]}}
+* {{q|l-}}: {{l|mul|[[洛]], [[洜]], [[落]], [[絡]]([[络]]), [[酪]], [[烙]], [[珞]], [[路]], [[略]]/[[畧]], [[餎]]([[饹]]), [[駱]]([[骆]]), [[珞]], [[雒]], [[峈]], [[硌]], [[詻]], [[鮥]], [[笿]]}}
 
 ====References====
-* {{Han ref|kx=0174.180|dkj=03281|dj=0387.110|hdz=10583.010|uh=5404|ud=21508|bh=A655|bd=42581}}
+{{wikidata|Q54879237}}
+{{Han ref|kx=0174.180|dkj=03281|dj=0387.110|hdz=10583.010|uh=5404}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𭶻,⿱夂厶}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han compound|夂|口|ls=ic|t1=sole of foot}} – to come, to enter; original form of {{och-l|𢓜}} and {{och-l|格}}.
 
 ===Pronunciation 1===
@@ -50,9 +52,9 @@
 # [[each]]; [[every]] {{gloss|determiner}}
 #: {{zh-syn|每}}
 #: {{zh-x|各種各樣|all sorts}}
-#: {{zh-x|各位|everyone present; you all; everybody}}
+#: {{zh-x|各位|'''every'''one present; you all; '''every'''body}}
 # [[each]] {{gloss|adverb}}
-#: {{zh-x|各-盡-其-責|each fulfils his/her responsibilities}}
+#: {{zh-x|各 盡 其 責|'''each''' fulfils his/her responsibilities}}
 
 ====Compounds====
 {{zh-der|人各有志|人持各見|分財各居|加爾各答|各不相犯|各不相謀|各不相讓|各不相關|各不相顧|各人|各位|各個|各個擊破|各別|各剌剌|各半|各司其事|各各|各國|各執一詞|各執己見|各執所見|各奔前程|各奔東西|各展其長|各式|各式各樣|各得其宜|各得其所|各從其志|各憑本事|各懷一心|各懷異心|各懷鬼胎|各抒己見|各抱一角|各持己見|各支支|各有千秋|各有各的|各有所長|各樣|各為其主|各琅琅|各界|各界人士|各異其趣|各白世人|各盡其用|各盡所能|各相|各省|各眾|各種|各自|各自東西|各自為戰|各自為政|各自獨立|各自進行|各色|各處|各行其志|各行其是|各行各業|各衣另飯|各說各話|各路|各門另戶|各闢蹊徑|各霸一方|各項|各類|各顯神通|同居各爨|同床各夢|天各一方|急并各邦|波多黎各|泰系各族|物各有主|骨肉各方|各方|大閆各莊}}
@@ -93,31 +95,41 @@
 |kun=おの.おの-
 }}
 
-====Compounds====
-* {{ja-r|各停|かくてい}}
-* {{ja-r|各駅停車|かくえき ていしゃ}}
-
 ===Etymology 1===
+{{ja-kanjitab|おのおの|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|おの.おの|yomi=k}}
 
 ====Noun====
 {{ja-noun|おの.おの}}
 
-# {{alternative form of|各々|lang=ja}}
+# {{alternative form of|各々|lang=ja|gloss=each; every}}
 
 ====Pronoun====
 {{ja-pos|pronoun|おの.おの}}
 
-# {{alternative form of|各々|lang=ja}}
+# {{alternative form of|各々|lang=ja|gloss=all of you}}
 
 ===Etymology 2===
+{{ja-kanjitab|かく|yomi=o}}
+From {{der|ja|ltc|sort=かく|-}} {{ltc-l|各}}.
 
 ====Pronunciation====
-{{ja-pron|かく|acc=1|acc_ref=SMK2,NHK}}
+{{ja-pron|かく|acc=1|acc_ref=SMK2,NHK|yomi=o}}
 
 ====Prefix====
 {{ja-pos|prefix|かく}}
 
 # [[each]]
+
+=====Derived terms=====
+{{der2|lang=ja
+|{{ja-r|各国|かっこく}}
+|{{ja-r|各種|かくしゅ}}
+|{{ja-r|各停|かくてい}}
+|{{ja-r|各駅停車|かくえきていしゃ}}
+}}
 
 ===References===
 <references/>
@@ -127,15 +139,22 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=각|rv=gak|mr=kak|eumhun=각각}}
+{{ko-hanja/new|각각|각}}
 
-# Each
+# {{hanja form of|각|[[each]]}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[các]], [[cắc]], [[gạc]], [[gật]], [[gác]]|rs=口03}}
+{{vi-readings|rs=口03
+|hanviet=các-tdcndg;tdcntd;gdhn, cách-tdcndg
+|phienthiet=
+|nom=các-tdcndg;tdcntd, gác-tdcndg;gdhn, cắc-tdcndg;btcn, gạc-tdcndg;btcn, gật-gdhn;btcn
+}}
 
 # {{defn|lang=vi|sort=口03}}
+
+===References===
+<references/>
