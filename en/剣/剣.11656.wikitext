@@ -21,84 +21,182 @@ Unorthodox variant of {{l|mul|劍}}.
 
 ==Japanese==
 {{ja-kanji forms|剣|劍}}
-{{wikipedia|lang=ja}}
-[[File:Jian (sword).jpg|thumb|250px|{{lang|ja|剣}}: A ''ken'' or ''tsurugi'' with {{m|ja|鞘|tr=saya||[[scabbard]]}}.]]
-{{wikipedia|Sword}}
-{{wikipedia|Tsurugi (sword)}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀08|kyu=劍}}
+
+# [[double-edged]] [[sword]]
+# [[swordsmanship]]
 
 ====Readings====
 {{ja-readings
 |goon=こん<こん<こむ
 |kanon=けん<けん<けむ
 |kun=つるぎ-<つるぎ-<つるき-
-|nanori=けんざき, まやか
+|nanori=あきら, つとむ, はや, まやか
 }}
 
-===Etymology 1===
+====Compounds====
+* {{ja-r|利剣|りけん}}
+* {{ja-r|剣橋|^ケンブリッジ}}
+
+===Alternative forms===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Sword}}
+{{wp|Tsurugi (sword)}}
+[[File:Jian (sword).jpg|thumb|250px|{{lang|ja|剣}}: A ''ken'' or ''tsurugi'' with {{m|ja|鞘|tr=saya||[[scabbard]]}}.]]
+</div>
 {{ja-kanjitab|けん|yomi=o}}
-From {{etyl|ltc|ja|sort=けん}} {{m|lzh|劍|tr=kjæmH||sword}}. Compare modern {{etyl|cmn|-}} {{zh-l|劍|sword, dagger, saber}}.
+
+* {{ja-l|劔}}, {{ja-l|劒}}
+
+===Etymology 1===
+{{IPAchar|/kem/}} → {{IPAchar|/kemʉ/}} → {{IPAchar|/keɴ/}}
+
+From {{bor|ja|ltc|sort=けん|-}} {{ltc-l|劍}}. 
+
+Compare modern {{cog|cmn|劍|tr=jiàn}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|けん|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|けん|hhira=けむ}}
+{{ja-noun|kyu=劍|けん}}
 
-# [[sword]]
+# a [[sword]], ''especially'' one with a [[double-edged]] [[blade]]
+# [[swordsmanship]]
+#: {{syn|ja|剣術|tr=kenjutsu}}
+# a [[bayonet]]
+#: {{syn|ja|銃剣|tr=jūken}}
+# {{lb|ja|sort=けん|entomology}} a [[stinger]]
+# {{lb|ja|entomology}} an [[ovipositor]]
+# a {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}}, with varying [[design]]s of double-edged blades
 
 =====Usage notes=====
-This term refers to swords in general.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+This term refers to swords [[in general]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-l|聖剣|せいけん|seiken}}: a [[holy]] or [[sanctified]] blade or sword
-* {{ja-l|剣士|けんし|kenshi}}: a [[swordsman]] or [[fencer]]
-* {{ja-l|剣術|けんじゅつ|kenjutsu}}: [[technique]]s of [[swordsmanship]]; [[kendo]], the Japanese [[martial art]] of the [[sword]]
-* {{ja-l|剣道|けんどう|kendō}}: [[kendo]], the Japanese [[martial art]] of the [[sword]]
-* {{ja-l|木剣|ぼっけん|bokken}}: a [[wooden]] [[sword]]
-* {{ja-l|剣客|けんかく|kenkaku}}: a [[swordsman]] or [[fencer]]
-* {{ja-l|剣豪|けんごう|kengō}}: a master [[fencer]] or great [[swordsman]]
+* {{ja-r|剣客|けんかく}}, {{ja-r|剣客|けんきゃく|[[swordsman]], [[fencer]]}}
+* {{ja-r|剣豪|けんごう|[[master]] fencer, [[great]] swordsman}}
+* {{ja-r|剣山|けんざん}}
+* {{ja-r|剣士|けんし|swordsman, fencer}}
+* {{ja-r|剣術|けんじゅつ|[[technique]]s of [[swordsmanship]]}}
+* {{ja-r|剣槍|けんそう|rom=-}}, {{ja-r|剣鎗|けんそう}}
+* {{ja-r|剣道|けんどう}}: [[kendo]], the Japanese [[martial art]] of the [[sword]]
+* {{ja-r|剣難|けんなん}}
+** {{ja-r|剣呑|けんのん}}
+* {{ja-r|剣舞|けんぶ}}
+* {{ja-r|懐剣|かいけん}}
+* {{ja-r|撃剣|げきけん}}, {{ja-r|撃剣|げっけん}}
+* {{ja-r|三%尺の剣|さん%じゃく の けん}}
+* {{ja-r|真剣|しんけん}}
+* {{ja-r|聖剣|せいけん|[[holy]] or [[sanctified]] [[blade]] or sword}}
+* {{ja-r|短剣|たんけん}}
+* {{ja-r|月の剣|つき の けん}}
+* {{ja-r|刀剣|とうけん}}
+* {{ja-r|十%束の剣|と%つか の けん}}
+* {{ja-r|木剣|ぼっけん|[[wooden]] sword}}
+* {{ja-r|名剣|めいけん}}
 {{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|剣を売り牛を買う|けん を うり うし を かう}}
+
+=====Proverbs=====
+* {{ja-r|剣は一人の敵%学ぶに足らず|けん は いちにん の てき% まなぶ に たらず}}
+* {{ja-r|剣を落として舟を刻む|けん を おとして ふね を きざむ}}
 
 ===Etymology 2===
 {{ja-kanjitab|つるぎ|yomi=k}}
-{{unk|ja}}. Also read as ''tsuruki'' in {{etyl|ojp|ja|sort=つるぎ}} contexts.<ref name="KDJ"/><ref name="DJR">{{R:Daijirin}}</ref>
+{{IPAfont|⟨turuki<sub>1</sub>⟩}} → *{{IPAchar|/turukʲi/}} → {{IPAchar|/t͡suruɡi/}}
 
-A surface analysis suggests that this might be a compound of ''tsuru'' (variously {{ja-l|釣る}} or {{ja-l|吊る}}, meaning “to hang, as at one's side”) + ''ki'', but there is no clear [[etymon]] for the ''ki'' portion. One possibility would be {{m|ja|牙||fang}}, read as ''kiba'' in modern {{etyl|ja|-}} but also appearing as ''ki'' in {{etyl|ojp|-}} contexts. Such usage might parallel the combined {{m|en|tooth}} and {{m|en|blade}} meanings of the term ''ha'', spelled more specifically as {{m|ja|歯||tooth}} and {{m|ja|刃||blade}}, with these two senses listed as [[cognate]]s in Japanese dictionaries.<ref name="KDJ"/><ref name="DJR"/>
+Shift from {{inh|ja|ojp|sort=つるぎ|-}} ''tsuruki'',<ref name="DJR"/><ref name="KDJ"/> itself of {{unk|ja|nocap=1}} derivation.
 
-More tentative suggestions have been connections to Austronesian, such as {{cog|tl|suligi||dart; short spear}}, but such possibilities seem only [[speculative]] at present.
+A surface analysis suggests that this might be a compound of {{m|ja|[[釣る]], [[吊る]]|tr=tsuru||to [[hang]], as at one's [[side]]}} + ''ki'', but there is no clear [[etymon]] for the ''ki'' portion. One possibility would be {{m|ja|牙||[[fang]]}}, read as ''kiba'' in modern {{etyl|ja|-}} but also appearing as ''ki'' in {{etyl|ojp|-}} contexts. Such usage might parallel the combined {{m|en|tooth}} and {{m|en|blade}} meanings of the term ''ha'', spelled more specifically as {{m|ja|歯||tooth}} and {{m|ja|刃||blade}}, with these two senses listed as [[cognate]]s in Japanese dictionaries.<ref name="DJR"/><ref name="KDJ"/>
+
+More tentative suggestions have been connections to Austronesian, such as {{cog|tl|suligi||[[dart]], short [[spear]]}}, but such possibilities seem only [[speculative]] at present.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|つるぎ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
 
 ====Noun====
-{{ja-noun|つるぎ}}
+{{ja-noun|kyu=劍|つるぎ}}
 
-# [[sword]]
+# a [[sword]]
 
 =====Usage notes=====
-This term usually refers more specifically to double-edged swords, as opposed to the single-edged {{m|ja|刀|tr=katana}}.<ref name="KDJ"/>
+This term usually refers more specifically to [[double-edged]] swords, as opposed to the single-edged {{m|ja|刀|tr=katana}}.<ref name="KDJ"/>
 
-=====Synonyms=====
-* {{ja-l|諸刃|もろは|moroha}}: a double-edged sword
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|剣%山|^つるぎ%さん}}
+* {{ja-r|剣%岳|^つるぎ%だけ}}
+* {{ja-r|剣%太刀|つるぎ%-たち}}, {{ja-r|剣の太刀|つるぎ の たち}}
+* {{ja-r|剣の枝|つるぎ の えだ}}
+* {{ja-r|剣の頭|つるぎ の たかみ}}
+* {{ja-r|剣の舞|つるぎ の まい}}
+* {{ja-r|剣の山|つるぎ の やま}}
+* {{ja-r|剣%羽|つるぎ%ば}}
+* {{ja-r|天%叢%雲%剣|^あめ の% ^むら%くも の% ^つるぎ}}
+* {{ja-r|草%薙%剣|^くさ%なぎ の% ^つるぎ}}
+* {{ja-r|氷の剣|こおり の つるぎ}}
+* {{ja-r|高麗%剣|^こま%-つるぎ}}, {{ja-r|狛%剣|こま%つるぎ}}
+* {{ja-r|三%尺の剣|さん%じゃく の つるぎ}}
+* {{ja-r|ダモクレスの剣|^ダモクレス の ^つるぎ}}
+* {{ja-r|月の剣|つき の つるぎ}}
+* {{ja-r|十%束の剣|と%つか の つるぎ}}
+* {{ja-r|八%剣|^や%つるぎ}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|剣の刃を渡る|つるぎ の は を わたる}}
+* {{ja-r|奥%歯に剣|おく%ば に つるぎ}}
+* {{ja-r|我慢の剣|がまん の つるぎ}}
+* {{ja-r|心に剣を含む|こころ に つるぎ を ふくむ}}
+* {{ja-r|霜の剣|しも の つるぎ}}
+* {{ja-r|諸%刃の剣|もろ%は の つるぎ|[[double-edged sword]]}}
+* {{ja-r|両刃の剣|りょうば の つるぎ|double-edged sword}}
+{{der-bottom}}
+
+=====Proverbs=====
+{{der-top|Proverbs}}
+* {{ja-r|剣の刃%渡り|つるぎ の は%わたり}}
+* {{ja-r|舌の剣は命を絶つ|した の つるぎ は いのち を たつ}}
+* {{ja-r|船に刻して剣を求む|ふね に こくして つるぎ を もとむ}}
+* {{ja-r|昔の剣%今の菜%刀|むかし の つるぎ% いま の な%がたな}}
+{{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|まやか}}
+{{ja-kanjitab|まやか|yomi=irr}}
+
 {{unk|ja|sort=まやか}}. Japanese names often apply readings from other words to [[allude]] to different meanings.
 
 ====Pronunciation====
-{{ja-pron|まやか}}
+{{ja-pron|y=i|まやか}}
 
 ====Proper noun====
-{{ja-pos|proper|まやか}}
+{{ja-pos|proper|kyu=劍|まやか}}
 
-# {{given name|lang=ja|female}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=まやか}}
+
+===Coordinate terms===
+{{der-top|Coordinate terms}}
+* {{ja-r|刀|かたな}}
+* {{ja-r|大刀|たち}}
+* {{ja-r|太刀|たち}}
+* {{ja-r|短刀|たんとう}}
+* {{ja-r|薙刀|なぎなた|rom=-}}, {{ja-r|長刀|なぎなた}}
+* {{ja-r|脇差|わきざし}}
+{{der-bottom}}
+
+===See also===
+* {{ja-r|諸%刃|もろ%は|double edge}}
 
 ===References===
 <references/>
 
 [[Category:Japanese words with multiple readings]]
-[[Category:ja:Swords]]
+{{top|ja|Swords|sort=けん}}
