@@ -5,22 +5,26 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=08|sn=11|four=45417|canj=GJKNI|ids=⿰幸丸}}
 
-====Derived glyphs====
-* {{l|mul|蓻}}, {{l|mul|𢄢}}, {{l|mul|摯}}, {{l|mul|𡠗}}, {{l|mul|蟄}}, {{l|mul|鷙}}, {{l|mul|騺}}, {{l|mul|墊}}, {{l|mul|慹}}, {{l|mul|𩅀}}, {{l|mul|䙝}}, {{l|mul|𡪐}}, {{l|mul|謺}}, {{l|mul|𣊓}}, {{l|mul|䠟}}, {{l|mul|𦎷}}
+====Derived characters====
+* {{l|mul|[[蓻]], [[𢄢]], [[摯]]([[挚]]), [[𡠗]], [[蟄]]([[蛰]]), [[鷙]]([[鸷]]), [[騺]], [[墊]]([[垫]]), [[慹]], [[𩅀]], [[䙝]], [[𡪐]], [[謺]], [[𣊓]], [[䠟]], [[𦎷]]}}
+
+====Related characters====
+* {{l|mul|执}} {{q|[[Simplified Chinese]]}}
 
 ====References====
-* {{Han ref|kx=0231.090|dkj=05193|dj=0467.150|hdz=10457.050|uh=57F7|ud=22519|bh=B0F5|bd=45301}}
+{{wikidata|Q55408274}}
+{{Han ref|kx=0231.090|dkj=05193|dj=0467.150|hdz=10457.050|uh=57F7}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=执}}
+{{zh-forms|s=执|alt=执,秇,𠌷,𡘺,𡙕,𡚺,𢦕,𦎃}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|幸|丮|c1=p|c2=s|ls=psc}}; in present form 丮 has been replaced by [[丸]].
+{{Han compound|幸|丮|c1=p|c2=s|ls=psc}}; in present form {{zh-l|丮}} has been replaced by {{zh-l|丸}}.
 
-also {{liushu|p}}: [[arrest]]
+Also {{liushu|p}}: to [[arrest]].
 
 ===Pronunciation===
 {{zh-pron
@@ -76,22 +80,24 @@ also {{liushu|p}}: [[arrest]]
 }}
 
 ====Compounds====
-* [[確執]] ([[かくしつ]], [[kakushitsu]])
-* [[我執]] ([[がしゅう]], [[gashū]])
-* [[固執]] ([[こしゅう]], [[koshū]])
-* [[執意]] ([[しつい]], [[shitsui]])
-* [[執権]] ([[しっけん]], [[shikken]])
-* [[執行]] ([[しっこう]], [[shikkō]])
-* [[執政]] ([[しっせい]], [[shissei]])
-* [[執事]] ([[しつじ]], [[shitsuji]])
-* [[執刀]] ([[しっとう]], [[shittō]])
-* [[執務]] ([[しつむ]], [[shitsumu]])
-* [[執拗]] ([[しつよう]], [[shitsuyō]])
-* [[執心]] ([[しゅうしん]], [[shūshin]])
-* [[執着]] ([[しゅうちゃく]], [[shūchaku]])
-* [[執念]] ([[しゅうねん]], [[shūnen]])
-* [[偏執]] ([[へんしつ]], [[henshitsu]])
-* [[妄執]] ([[もうしゅう]], [[mōshū]])
+{{der3|lang=ja
+|{{ja-r|確%執|かく%しつ}}
+|{{ja-r|偏%執|へん%しつ}}
+|{{ja-r|執%意|しつ%い}}
+|{{ja-r|執%権|しっ%けん}}
+|{{ja-r|執%行|しっ%こう}}
+|{{ja-r|執%政|しっ%せい}}
+|{{ja-r|執%事|しつ%じ}}
+|{{ja-r|執%刀|しっ%とう}}
+|{{ja-r|執%務|しつ%む}}
+|{{ja-r|執%拗|しつ%よう}}
+|{{ja-r|我%執|が%しゅう}}
+|{{ja-r|固%執|こ%しゅう}}
+|{{ja-r|妄%執|もう%しゅう}}
+|{{ja-r|執%心|しゅう%しん}}
+|{{ja-r|執%着|しゅう%ちゃく}}
+|{{ja-r|執%念|しゅう%ねん}}
+}}
 
 ===Proper noun===
 {{ja-pos|proper|まもる}}
@@ -105,7 +111,7 @@ also {{liushu|p}}: [[arrest]]
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=집|rv=jip|mr=chip}}
+{{ko-hanja/new|집}}
 
 # {{defn|lang=ko|sort=土08}}
 
@@ -121,6 +127,9 @@ also {{liushu|p}}: [[arrest]]
 }}
 
 # {{han tu form of|chấp}}
+
+====Compounds====
+* {{vi-l|執行|chấp hành}}
 
 ===References===
 <references/>
