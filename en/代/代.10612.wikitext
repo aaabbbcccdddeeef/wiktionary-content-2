@@ -72,53 +72,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-noun|しろ}}
-
-# {{lb|ja|archaic}} [[substitution]]
-# {{lb|ja|archaic}} [[price]], [[cost]], [[charge]]
-# {{lb|ja|historical}} [[shiro]], a unit of land
-
-{{ja-noun|だい}}
-
-# [[price]]
-# [[generation]] of a family
-# [[reign]] of a royal
-# [[decade]]
-# [[era]]
-
-{{ja-noun|よ}}
-
-# [[world]], [[society]]
-# {{lb|ja|archaic}} [[age]], [[generation]], [[era]] of [[rule]]
-
-====Alternative forms====
-* {{l|ja|台}} (alternative form for ''dai'' only)
-* {{l|ja|世}} (alternative form for ''yo'' only)
-
-===Counter===
-{{ja-pos|だい|counter}}
-
-# [[generation]] of a royal family
-# [[era]], [[age]], [[decade]]
-
-===Suffix===
-{{ja-pos|だい|suffix}}
-
-# [[charge]], [[fare]], [[rate]], [[fee]], [[price]], [[rent]]
-# (''indicating years spanning a specific period'') [[-ies]], -[[hundred]]s
-
-===Kanji===
-{{ja-kanji|grade=3|rs=人03}}
-
-====Readings====
-{{ja-readings
-|goon=だい
-|kanon=たい
-|kun=か-わる, かわ-る, かわ-り, か-わり, か-える, よ-, しろ-
-|nanori=す
-}}
-
 ====Compounds====
 {{rel-top3|compounds containing "代"}}
 * [[代わる]], [[代る]] (''kawaru''): succeed, relieve
@@ -267,7 +220,7 @@
 * [[累代]] (''ruidai''): successive generations
 * [[歴代]] (''rekidai''): successive generations
 * [[交代]] (''kōtai''): alternation, change
-* [[十代]], [[10代]] (''jūdai''): the teens
+* [[十代]] (''jūdai''): the teens
 * [[千代]] (''sendai'', ''chiyo''): thousand years
 * [[万代]] (''bandai'', ''mandai'', ''yorozuyo''): thousands of years
 * [[雪代]] (''yukishiro''): snow water
@@ -312,9 +265,56 @@
 * [[大正の代]] (''taishō no yo''): Taisho era
 * [[天神七代]] (''tenjin-shichidai''): seven generations of celestial deities
 * [[強直間代発作]] (''kyōchoku-kandai-hossa''): tonic-clonic seizure
-* [[千九百年代]] (''sen kyūhyaku-nen dai''): the 1900's
+* [[千九百年代]], [[１９００年代]] (''sen kyūhyaku-nen dai''): the 1900s
 * [[明治天皇の代に]] (''meiji tennō no yo ni''): under Emperor Meiji's rule
 {{rel-bottom}}
+
+===Noun===
+{{ja-noun|しろ}}
+
+# {{lb|ja|archaic}} [[substitution]]
+# {{lb|ja|archaic}} [[price]], [[cost]], [[charge]]
+# {{lb|ja|historical}} [[shiro]], a unit of land
+
+{{ja-noun|だい}}
+
+# [[price]]
+# [[generation]] of a family
+# [[reign]] of a royal
+# [[decade]]
+# [[era]]
+
+{{ja-noun|よ}}
+
+# [[world]], [[society]]
+# {{lb|ja|archaic}} [[age]], [[generation]], [[era]] of [[rule]]
+
+====Alternative forms====
+* {{l|ja|台}} (alternative form for ''dai'' only)
+* {{l|ja|世}} (alternative form for ''yo'' only)
+
+===Counter===
+{{ja-pos|だい|counter}}
+
+# [[generation]] of a royal family
+# [[era]], [[age]], [[decade]]
+
+===Suffix===
+{{ja-pos|だい|suffix}}
+
+# [[charge]], [[fare]], [[rate]], [[fee]], [[price]], [[rent]]
+# (''indicating years spanning a specific period'') [[-ies]], -[[hundred]]s
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人03}}
+
+====Readings====
+{{ja-readings
+|goon=だい
+|kanon=たい
+|kun=か-わる, かわ-る, かわ-り, か-わり, か-える, よ-, しろ-
+|nanori=す
+}}
 
 [[Category:ja:Units of measure|しろ]]
 
