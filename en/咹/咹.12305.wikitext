@@ -2,12 +2,10 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=30|rad=口|as=06|sn=9|four=|canj=RJV|ids=⿰口安}}
-
-# {{lb|mul|Cantonese}} [[sound]] of an [[automobile]] [[horn]]
+{{Han char|rn=30|rad=口|as=06|sn=9|four=63044|canj=RJV|ids=⿰口安}}
 
 ====References====
-* {{Han ref|kx=0187.200|dkj=03564|dj=0406.200|hdz=10623.030|uh=54B9|ud=21689}}
+{{Han ref|kx=0187.200|dkj=03564|dj=0406.200|hdz=10623.030|uh=54B9}}
 
 ----
 
@@ -16,18 +14,44 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|安|c1=s|c2=p|t1=mouth|ls=psc}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=è,àn
-|c=hon1
+|m=è
+|c=
 |mc=y
 |oc=y
 |ma=
-|cat=
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-hd}} to [[eat]]
+# {{zh-hd}} to [[talk]] [[silently]]
+# {{zh-hd}} to [[stop]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=àn
+|mc=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-hd}} [[stopping#Noun|stopping]] of [[sound]]
+
+===Pronunciation 3===
+{{zh-pron
+|c=hon1
+|cat=intj
+}}
+
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|Cantonese}} [[sound]] of an [[automobile]] [[horn]]
@@ -45,13 +69,21 @@
 # {{defn|lang=ja|sort=口06}}
 
 ====Readings====
-{{ja-readings|on=[[あつ]] (atsu), [[あち]] (achi), [[あん]] (an)|kun=[[どもる]] (domoru), [[ささやく]] (sasayaku), [[やむ]] (yamu)}}
+{{ja-readings
+|on=あつ, あち, あん
+|kun=どもる, ささやく, やむ
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[ăn]]|rs=口06}}
+{{vi-readings|rs=口06
+|nom=ăn-tdcndg;tdcntd;gdhn
+}}
 
-# to eat
+# {{Nom form of|ăn|to [[eat]]}}
+
+===References===
+<references/>
