@@ -84,95 +84,169 @@ From {{inh|zh|sit-pro|*s-ni-s||seven}}.
 ===Kanji===
 {{ja-kanji|grade=1|rs=一01}}
 
+# [[seven]]
+# [[seventh]]
+# seven [[time]]s
+
 ====Readings====
 {{ja-readings
 |goon=しち
 |kanon=しつ
 |kun=なな-, なな-つ, なの-
-|nanori=し, な, ひち
+|nanori=さとる, し, な, ひち
 }}
 
 ====Compounds====
-{{der-top|Compounds containing {{lang|ja|七}}}}
-* {{ja-r|七々%日|しちしち%にち}}, {{ja-r|七七%日|しちしち%にち}}, {{ja-r|七%七%日|なな%なの%か}}, {{ja-r|七%七%日|なな%なぬ%か}}:
-* {{ja-r|七%回%忌|しち%かい%き}}:
-* {{ja-r|七角形|しちかっけい|heptagon}}
-* {{ja-r|七月|しちがつ|[[July]]}}
-* {{ja-r|七賢|しちけん}}:
-* {{ja-r|七絃琴|しちげんきん}}:
-* {{ja-r|七%言%絶%句|しち%ごん%ぜっ%く}}:
-* {{ja-r|七%言%律%詩|しち%ごん%りっ%し}}:
-* {{ja-r|七%五%三|しち%ご%さん}}
-* {{ja-r|七%五%調|しち%ご%ちょう}}:
-* {{ja-r|七%光|なな%ひかり}}:
-* {{ja-r|七三|しちさん}}:
-* {{ja-r|七%重|なな%え}}:
-* {{ja-r|七%色|なな%いろ|seven prismatic colors}}
-* {{ja-r|七星|しちせい|Ursa Major, the Plough}}
-* {{ja-r|七%生|しち%しょう}}:
-* {{ja-r|七草|ななくさ}}:
-{{der-mid}}
-* {{ja-r|七%堂%伽%藍|しち%どう%が%らん}}:
-* {{ja-r|七道|しちどう}}:
-* {{ja-r|七難|しちなん}}:
-* {{ja-r|七 不%思%議|^なん ^ふ%し%ぎ}}:
-* {{ja-r|七福神|しちふくじん}}:
+{{der-top|Compounds}}
+* {{ja-r|七%回%忌|しち%かい%き}}
+* {{ja-r|七角形|しちかっけい|[[heptagon]]}}
+* {{ja-r|七賢|^しちけん}}
+** {{ja-r|竹林の七賢|^ちくりん の ^しちけん}}
+* {{ja-r|七弦琴|しちげんきん|rom=-}}, {{ja-r|七絃琴|しちげんきん}}
+* {{ja-r|七言|しちごん}} 
+** {{ja-r|七言 絶句|しちごん ぜっく}}
+** {{ja-r|七言 律詩|しちごん りっし}}
+* {{ja-r|七%生|しち%しょう}}
+* {{ja-r|七星|^しちせい|[[Ursa Major]], the [[Plough]]}}
+* {{ja-r|七夕|しちせき}}
+* {{ja-r|七難|しちなん}}
+* {{ja-r|七 福神|^しち ^ふくじん}}
 * {{ja-r|七宝|しっぽう|the [[seven]] [[treasures]] (in [[Buddhism]])}}
-* {{ja-r|七味|しちみ}}:
-* {{ja-r|七面体|しちめんたい}}:
-* {{ja-r|七面%鳥|しちめん%ちょう|turkey}}
-* {{ja-r|七%夜|なな%よ}}:
-* {{ja-r|七夕|たなばた}}, {{ja-r|七夕|しちせき}}:
-* {{ja-r|七曜|しちよう}}:
-* {{ja-r|七厘|しちりん}}, {{ja-r|七輪|しちりん}}:
-* {{ja-r|七%竈|なな%かまど}}:
-* {{ja-r|七つ子|しちつし}}: [[septuplets]]
+* {{ja-r|七面体|しちめんたい}}
+* {{ja-r|七曜|しちよう}}
+* {{ja-r|七輪|しちりん|rom=-}}, {{ja-r|七厘|しちりん}}
+* {{ja-r|七夕|^たなばた}}
+* {{ja-r|七月|ふづき}}, {{ja-r|七月|ふみづき}}
 {{der-bottom}}
 
-===Pronunciation 1===
-{{rfc-pron-n|Pronunciation 1|lang=ja}}
-{{ja-pron|yomi=k|なな|acc=1}}
-* {{audio|Ja-7-nana.ogg|Audio|lang=ja}}
+===Alternative forms===
+{{ja-kanjitab|しち|yomi=goon}}
+
+* {{q|financial form}} {{ja-l|漆}}
+
+===Etymology 1===
+From {{bor|ja|ltc|sort=しち|-}} {{ltc-l|七}}.
+
+====Pronunciation====
+{{ja-pron|y=go|しち|acc=o|dev=2|acc_ref=DJR|a=Ja-7-shichi.ogg}}
+
+====Numeral====
+{{ja-pos|numeral|しち}}
+
+# [[seven]], [[7]]
+
+=====Usage notes=====
+* {{m|ja||なな|tr=nana|pos=see below}} is used instead of {{m|ja||しち|tr=shichi}} in conversation because {{m|ja||しち|tr=shichi}} is considered unlucky. Compare {{m|ja|四|tr=yon, shi}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|七七|しちしち}}
+* {{ja-r|七月|しちがつ|[[July]]}}
+* {{ja-r|七%五%三|^しち%-^ご%-^さん}}
+* {{ja-r|七%五調|しち%ごちょう}}
+* {{ja-r|七三|しちさん}}
+* {{ja-r|七%子|しち%し}}
+* {{ja-r|七七日|しちしちにち}}
+* {{ja-r|七珍|しっちん}}
+** {{ja-r|七珍 万宝|しっちん まんぽう}}
+* {{ja-r|七転 八起|しちてん はっき|rom=-}}, {{ja-r|七顛 八起|しちてん はっき}}
+* {{ja-r|七転%八倒|しちてん%ばっとう|rom=-}}, {{ja-r|七顛八倒|しちてん%ばっとう}}
+* {{ja-r|七道|^しちどう}}
+** {{ja-r|五畿%七道|^ごき%しちどう}}
+* {{ja-r|七堂 伽藍|しちどう がらん}}
+* {{ja-r|七並べ|しちならべ|[[sevens]]}}
+* {{ja-r|七%味|しち%み}}
+* {{ja-r|七%面%鳥|シチ%メン%チョウ|[[turkey]]|lit=seven-[[face]]d [[bird]]}}
+* {{ja-r|七曜|しちよう}}
+* {{ja-r|五%七|ご%-しち|[[five]]-seven}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|なな|yomi=k}}
+
+From {{inh|ja|ojp|sort=なな|-}}.
+
+{{rfe|ja|sort=なな|Possibly from Goguryeo *''nanə-n''?}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|なな|acc=1|acc_ref=DJR|a=Ja-7-nana.ogg}}
+
+====Numeral====
+{{ja-pos|numeral|なな}}
+
+# [[seven]], [[7]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|七つ|ななつ}}
+* {{ja-r|七色|なないろ|seven prismatic colors}}
+* {{ja-r|七%重|なな%え}}
+* {{ja-r|七%日|なぬ%か}}, {{ja-r|七日|なの%か}}
+** {{ja-r|七%七%日|なな%なぬ%か}}, {{ja-r|七%七%日|なな%なの%か}}
+* {{ja-r|七%竈|ナナ%カマド}}
+* {{ja-r|七草|ななくさ}}
+* {{ja-r|七%子|なな%こ}}
+* {{ja-r|七%転び八%起き|なな% ころび や% おき}}
+* {{ja-r|七%光|なな%ひかり}}
+* {{ja-r|七%不思議|なな%ふしぎ}}
+* {{ja-r|七%夜|なな%よ}}
+{{der-bottom}}
 
 ====Noun====
 {{ja-noun|なな}}
 
-# [[seven]]
+# a [[seven]]
 # a [[gambler]]
 
-=====Related terms=====
-* ''See below (related terms for pronunciation 2)''
+=====Derived terms=====
+* {{ja-r|七%曲がり|なな%まがり}}
 
-===Pronunciation 2===
-{{ja-pron|yomi=o|しち|acc=o|dev=2}}
-* {{audio|Ja-7-shichi.ogg|Audio|lang=ja}}
+====Proper noun====
+{{ja-pos|proper|なな}}
 
-====Noun====
-{{ja-noun|しち}}
+# {{surname|lang=ja|A=a|nodot=1|sort=なな}}
 
-# [[seven]]
+===Etymology 3===
+{{ja-kanjitab|な|yomi=i}}
 
-=====Related terms=====
-* {{l|ja|七つ}}
-* {{l|ja|七曲がり}}
-* {{l|ja|七週の祭}}
-* {{l|ja|七珍万宝}}
-* {{l|ja|七顛八起}}, {{l|ja|七転八起}}
-* {{l|ja|七転八倒}}, {{l|ja|七顛八倒}}
-* {{l|ja|七並べ}}
+Shortening from ''nana'' above.
 
-===Number===
-{{ja-pos|numeral|しち|なな}}
+====Pronunication====
+{{ja-pron|y=i|な|acc=1|acc_ref=DJR}}
 
-# [[seven]]; [[7]]
+====Numeral====
+{{ja-pos|numeral|な}}
 
-====Usage notes====
-* {{m|ja||なな|tr=nana}} is used instead of {{m|ja||しち|tr=shichi}} in conversation because {{m|ja||しち|tr=shichi}} is considered unlucky.
+# {{lb|ja|sort=な|colloquial}} [[seven]], [[7]]
 
-====Coordinate terms====
+===Etymology 4===
+{{ja-kanjitab|yomi=i|sort=ちー}}
+
+Borrowed from {{bor|ja|cmn|sort=ちー|七|tr=qī}}
+
+====Pronunication====
+{{ja-pron|y=i|チー|acc=1|acc_ref=DJR}}
+
+====Numeral====
+{{ja-pos|numeral|チー}}
+
+# [[seven]], [[7]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|七索|チーソウ|seven bamboo|pos=mahjong tile}}
+* {{ja-r|七%対%子|チー%トイ%ツ|seven [[pair]]s}}
+* {{ja-r|七筒|チーピン|seven circle|pos=mahjong tile}}
+* {{ja-r|七萬|チーワン|seven ''wan''|pos=mahjong tile}}
+{{der-bottom}}
+
+===Coordinate terms===
 {{japanese number}}
 
-{{topics|ja|Seven}}
+===References===
+<references/>
+
+{{top|ja|Seven}}
 [[Category:Japanese basic words|なな]]
 [[Category:Japanese numeral symbols|7]]
 
@@ -190,15 +264,23 @@ From {{inh|zh|sit-pro|*s-ni-s||seven}}.
 ----
 
 ==Old Japanese==
+{{cardinalbox|ojp|6|7|8|六|八|ord=七つ}}
+
+===Etymology===
+Unbound [[apophony|apophonic]] form of {{m|ojp||なの|tr={{IPAfont|⟨nano<sub>2</sub>⟩}} → nano}}.
 
 ===Numeral===
-{{cardinalbox|ojp|6|7|8|六|八|ord=七}}
 {{head|ojp|numeral|tr=nana}}
 
-# [[seven]]
+# [[seven]], [[7]]
+#* {{RQ:Kojiki|poem 15}}
+#*: {{ja-usex|sort=なな|m=夜麻登能 多加佐士怒袁 '''那那'''由久 袁登賣杼母 多禮袁志摩加牟|m_kana=やまとの たかさじのを '''なな'''ゆく をとめども たれをしまかむ|大和の高%佐士野を'''なな'''行くをとめども誰をし枕かむ|^やまと の ^たか%さじの を '''なな''' ゆく をとめ-ども たれ を し まかむ}}
+
+====Derived terms====
+* {{m|ojp|七の賢しき人|tr=nana no sakasiki pito}}
 
 ====Descendants====
-* Japanese: {{l|ja|七|tr=nana}}
+* {{desc|ja|七|tr=nana}}
 
 ===References===
 * [http://vsarpj.orinst.ox.ac.uk/corpus/ojcorpus.html#Kojiki 古事記歌謡] (Kojiki kayō)
