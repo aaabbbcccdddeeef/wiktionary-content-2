@@ -334,8 +334,22 @@ From the {{inh|ja|ojp|sort=ささ|-}} stem {{m|ja|ささ|tr=sasa-}}, found in te
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tiểu]]|rs=小00}}
+{{vi-readings|rs=小00
+|hanviet=tiểu-tdcndg;tdcntd;gdhn
+|phienthiet=
+|nom=tiểu-tdcndg;tdcntd;gdhn;taberd, tẻo-tdcndg;gdhn, tĩu-gdhn
+}}
 
-# {{lb|vi|only before noun}} [[small]]
+# {{lb|vi|only before noun}} {{han tu form of|tiểu|[[small]]}}
+
+====Compounds====
+{{der3|lang=vi
+|{{vi-l|小人|tiểu nhân}}
+|{{vi-l|小說|tiểu thuyết}}
+|{{vi-l|小便|tiểu tiện}}
+}}
+
+===References===
+<references/>
 
 [[Category:CJKV radicals]]
