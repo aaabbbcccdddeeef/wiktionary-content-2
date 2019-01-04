@@ -1,16 +1,20 @@
+{{also|𢪏|拍}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=64|rad=手|as=04|sn=7|four=56000|canj=QA|ids=⿰扌日}}
 
+====Derived characters====
+* {{l|mul|𫽑}}
+
 ====References====
-* {{Han ref|kx=0420.160|dkj=11870|dj=0767.180|hdz=31837.020|uh=6287|ud=25223|bh=CAEC|bd=51948}}
+{{Han ref|kx=0420.160|dkj=11870|dj=0767.180|hdz=31837.020|uh=6287}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𢪏}}
 
 ===Pronunciation 1===
 {{zh-pron
@@ -25,8 +29,8 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[excavate]], to [[unearth]]
-# [[split]], [[crack]], [[break]] [[open]]
+# to [[excavate]]; to [[unearth]]
+# to [[split]]; to [[crack]]; to [[break]] [[open]]
 # to [[affect]]
 
 ===Pronunciation 2===
@@ -40,13 +44,21 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[disrupt]], to [[throw]] into [[disorder]]
+# to [[disrupt]]; to [[throw]] into [[disorder]]
 
 ----
 
 ==Vietnamese==
 
-===Han character===
-{{vi-readings|rs=手04|hanviet=nhặt}}
+===Glyph origin===
+{{Han compound|扌#Vietnamese|日#Vietnamese|c1=s|c2=p|t1=hand|tr2={{vi-l|nhật}}|ls=psc}}.
 
-# {{defn|lang=vi|sort=手04}}
+===Han character===
+{{vi-readings|rs=手04
+|nom=nhặt-tdcndg;tdcntd;gdhn, nhắc-tdcntd, lặt-gdhn, vớt-gdhn
+}}
+
+# {{Nom form of|nhặt|to [[pick up]]}}
+
+===References===
+<references/>
