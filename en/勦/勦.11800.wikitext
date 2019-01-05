@@ -2,9 +2,6 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{Han etym}}
-
 ===Han character===
 {{Han char|rn=19|rad=力|as=11|sn=13|four=24927|canj=VDKS|ids=⿰巢力}}
 
@@ -14,6 +11,11 @@
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Definitions===
 {{zh-see|剿|v}}
 
 ----
@@ -26,7 +28,10 @@
 # {{defn|lang=ja|sort=力11}}
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō)|kun=[[つかれる]] (tsukareru), [[つくす]] (tsukusu)}}
+{{ja-readings
+|goon=しょう<せう
+|kanon=しょう<せう, そう<さう
+|kun=つか-れる, つく-す}}
 
 ----
 
