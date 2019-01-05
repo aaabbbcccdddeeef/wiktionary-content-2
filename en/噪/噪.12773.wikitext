@@ -23,7 +23,7 @@
 {{zh-pron
 |m=zào
 |c=cou3
-|mn=qz:chhò͘/tw,xm,zz:chhò/qz,xm,zz:chàu/tw:sò
+|mn=qz:chhò͘/tw,xm,zz:chhò/ml:chàu/tw:sò
 |mn_note=chhò͘/chhò - literary, chàu - vernacular
 |mc=y
 |oc=y
@@ -48,7 +48,10 @@
 # {{defn|lang=ja|sort=口13}}
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō)|kun=[[さわぐ]] (sawagu)}}
+{{ja-readings
+|goon=そう<さう
+|kanon=そう<さう
+|kun=さわ-ぐ}}
 
 ----
 
@@ -64,6 +67,6 @@
 ==Vietnamese==
 
 ===Han character===
-'''噪''' ([[táo]], [[tháo]])
+{{vi-hantu|[[táo]], [[tháo]]|rs=口13}}
 
 # {{defn|lang=vi}}
