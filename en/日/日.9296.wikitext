@@ -485,11 +485,21 @@ Only used in plural contexts, never used to indicate a single day.
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[nhật]], [[nhất]], [[nhắt]], [[nhứt]]|rs=日00}}
+{{vi-readings|rs=日00
+|hanviet=nhật-tdcndg;tdcntd;gdhn, nhựt-gdhn
+|phienthiet=人質 nhân chất
+|nom=nhặt-tdcndg;tdcntd;gdhn;btcn;taberd, nhật-tdcndg;tdcntd;taberd, nhạt-tdcntd;gdhn, nhựt-tdcntd;taberd, nhờn-tdcndg
+}}
 
-# {{defn|lang=vi|sort=日00}}
+# {{han tu form of|nhật|[[sun]]; [[day]]}}
 
 ====Compounds====
-* [[日本]] ([[Nhật Bản]])
+{{der3|lang=vi
+|{{vi-l|日本|Nhật Bản}}
+|{{vi-l|日記|nhật kí}}
+}}
+
+===References===
+<references/>
 
 [[Category:CJKV radicals]]
