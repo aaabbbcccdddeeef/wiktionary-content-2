@@ -168,8 +168,21 @@ Compare also {{zh-l|*止|foot}}, derived from a footprint, originally composed o
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thủ]], [[tây]], [[trì]]<!--This reading only appears in vi:Wiktionary-->|rs=手00}}
+{{vi-readings|rs=手00
+|hanviet=thủ-tdcntd;gdhn;bonet
+|phienthiet=書九 thư cửu
+|nom=thủ-tdcntd;bonet;genibrel;taberd
+}}
 
-# [[hand]]
+# {{han tu form of|thủ|[[hand]]}}
+
+====Compounds====
+{{der3|lang=vi
+|{{vi-l|高手|cao thủ}}
+|{{vi-l|手下|thủ hạ}}
+}}
+
+===References===
+<references/>
 
 [[Category:CJKV radicals]]
