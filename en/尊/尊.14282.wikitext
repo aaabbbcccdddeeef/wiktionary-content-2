@@ -61,38 +61,190 @@
 ----
 
 ==Japanese==
-{{attn|ja|readings need to be checked in DKJ}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=寸09}}
 
-# [[noble#Adjective|noble]]; [[precious]]
-# an exalted deity who happens to be an Amatsukami and an ancestral deity (sōjin) of the Imperial House; it is then read "Mikoto".
+# [[noble#Adjective|noble]], [[precious]]
+# [[exalt]], [[revere]]
+# {{n-g|indicates [[respect]] and [[reverence]], such as to a [[buddha]] or [[noblemen]]}}
 
 ====Readings====
 {{ja-readings
 |goon=そん
 |kanon=そん
-|kun=とうと-ぶ, たっと-ぶ, とうと-い, たっと-い, みこと-, たけ, うやまう
+|kun=とうと-ぶ, たっと-ぶ, とうと-い<たふと-い, たっと-い, みこと-<!--, うやま-う<うやま-ふ-->
+|nanori=たか, たかし, たけ
 }}
 
 ====Compounds====
-{{der3|lang=ja
-|{{ja-r|尊%敬|そん%けい|[[respect]]}}
-|{{ja-r|尊%厳|そん%げん|[[dignity]]}}
-|{{ja-r|尊%称|そん%しょう|[[honorific]] [[title]]}}
-|{{ja-r|尊%崇|そん%すう|[[reverence]]; [[veneration]]}}
-|{{ja-r|尊%重|そん%ちょう|[[respect]]}}
-}}
+{{der-top3|Compounds}}
+* {{ja-r|尊翰|そんかん}}
+* {{ja-r|尊顔|そんがん}}
+* {{ja-r|尊敬|そんきょう}}
+* {{ja-r|尊兄|そんけい}}
+* {{ja-r|尊敬|そんけい|[[respect]]}}
+** {{ja-r|尊敬%語|そんけい%ご}}
+* {{ja-r|尊厳|そんげん|[[dignity]]}}
+* {{ja-r|尊称|そんしょう|[[honorific]] [[title]]}}
+* {{ja-r|尊心|そんしん}}
+* {{ja-r|尊崇|そんすう}}, {{ja-r|尊崇|そんそう|[[reverence]], [[veneration]]}}
+* {{ja-r|尊属|そんぞく}}
+* {{ja-r|尊体|そんたい}}
+* {{ja-r|尊大|そんだい}}
+* {{ja-r|尊重|そんちょう|[[respect]]}}
+* {{ja-r|尊卑|そんぴ}}
+* {{ja-r|尊父|そんぷ}}
+* {{ja-r|尊慮|そんりょ}}
+* {{ja-r|三尊|さんそん}}
+* {{ja-r|三尊|^さんぞん}}
+* {{ja-r|至尊|しそん}}
+* {{ja-r|自尊|じそん}}
+** {{ja-r|自尊心|じそんしん}}
+* {{ja-r|釈%尊|^しゃく%そん}}
+* {{ja-r|世尊|^せそん}}
+* {{ja-r|追尊|ついそん}}
+* {{ja-r|独尊|どくそん}}
+** {{ja-r|天上 天下 唯%我 独尊|てんじょう てんげ ゆい%が どくそん}}
+* {{ja-r|本尊|ほんぞん}}, {{ja-r|本尊|ほぞん}}
+{{der-bottom}}
 
-===Proper noun===
+===Etymology 1===
+{{wp|lang=ja}}
+{{ja-kanjitab|みこと|yomi=k}}
+
+From {{inh|ja|ojp|sort=みこと|-}}.
+
+Derived from {{prefix|ja|sort=みこと|御|tr1=mi-|pos1=honorific prefix|事|tr2=koto|t2=[[thing]], [[matter]]}}.
+
+====Alternative forms====
+* {{ja-l|命}}
+
+====Pronunciation====
+{{ja-pron|y=k|みこと|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|みこと}}
+
+# {{lb|ja|sort=みこと|Shinto}} ''indicates [[respect]] and [[reverence]]'' ''such as to the'' {{m|ja|神|tr=[[kami]]||Shinto [[deity]]}} ''or the'' {{m|ja|天皇|tr=tennō||[[emperor|Emperor]] of Japan}}
+# {{lb|ja|by extension}} ''indicates respect to a [[superior]] or other [[high]]-[[rank]]ing [[person]]''
+# ''indicates deep [[affection]]''
+#* {{RQ:Kojiki|poem 4}}
+#*: {{ja-usex|sort=みこと|m=...和加久佐能 都麻能'''美許登''' 許登能 加多理碁登母 許遠婆|m_kana=...わかくさの つまの'''みこと''' ことの かたりごとも こをば|...若草の妻の'''みこと'''事の語り言もこをば|...わかくさ の つま の '''みこと''' こと の かたりごと も こ を ば}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|天つ尊|^あまつみこと}}
+* {{ja-r|天%忍%穂%耳%尊|^あめの%おし%ほ%みみ の% ^みこと}}
+* {{ja-r|天%常%立%尊|^あまの%とこ%たち の% ^みこと}}
+* {{ja-r|天%命 開%別%尊|^あめ%みこと ^ひらかす%わけ の% ^みこと}}
+* {{ja-r|伊弉%諾%尊|^いざ%なぎ の% ^みこと}}
+* {{ja-r|伊弉%冉%尊|^いざ%なみ の% ^みこと}}
+* {{ja-r|鸕鷀%草葺%不合%尊|^う%がやふき%あえず の% ^みこと}}
+* {{ja-r|小%碓%尊|^お%うす の% ^みこと}}
+* {{ja-r|置瀬%尊|^おきせ の% ^みこと}}
+* {{ja-r|草%分%尊|^くさ%わけ の% ^みこと}}
+* {{ja-r|国%常%立%尊|^くにの%とこ%たち% の ^みこと}}, {{ja-r|国%底%立%尊|^くにの%そこ%たち の% ^みこと}}
+* {{ja-r|素%戔%嗚%尊|^す%さの%お の% ^みこと}}
+* {{ja-r|天皇|すめらみこと|rom=-}}, {{ja-r|皇尊|すめらみこと}}
+* {{ja-r|高皇産霊%尊|^たかみむすひ の% ^みこと}}
+* {{ja-r|月%読%尊|^つき%よみ の% ^みこと|rom=-}}, {{ja-r|月%夜%見%尊|^つき%よ%み の% ^みこと}}
+* {{ja-r|豊斟%渟%尊|^とよくむ%ね の% ^みこと}}
+* {{ja-r|瓊瓊%杵%尊|^にに%ぎ の% ^みこと}}
+* {{ja-r|彦%火火出%見%尊|^ひこ%ほほで%み の% ^みこと}}
+* {{ja-r|皇子%尊|みこ の% みこと}}
+* {{ja-r|御孫%尊|みま の% みこと}}
+* {{ja-r|日本 武%尊|^やまと% ^たける の% ^みこと}}
+{{der-bottom}}
+
+====Pronoun====
+{{ja-pos|pronoun|みこと}}
+
+# {{lb|ja|sort=|archaic|derogatory}} ''[[second person]] pronoun'': [[you]]
+#: {{syn|ja|あんた|tr1=anta|お前様|tr2=omae-sama|貴様|tr3=kisama}}
+# {{lb|ja|sort=|archaic}} ''[[third person]] pronoun''
+#: {{syn|ja|お方|tr=o-kata|人|tr2=hito}}
+
+=====Derived terms=====
+* {{ja-r|我%尊|わ%みこと|rom=-}}, {{ja-r|和%尊|わ%みこと}}
+
+====Proper noun====
+{{ja-pos|proper|みこと}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=みこと}}
+
+===Etymology 2===
+{{ja-kanjitab|とうと|yomi=k}}
+{{IPAfont|⟨taputo<sub>1</sub>⟩}} → *{{IPAchar|/taputʷo/}} → {{IPAchar|/tafuto/}} → {{IPAchar|/tauto/}} → {{IPAchar|/tɔːto/}} → {{IPAchar|/toːto/}}
+
+From {{inh|ja|ojp|-}}.
+
+Stem of classical adjective {{m|ja|尊し|tr=tafutoshi → tōtoshi}}, modern {{m|ja|尊い|tr=tōtoi||[[precious]], [[sacred]]}}.
+
+====Alternative forms====
+* {{ja-l|貴}}
+
+====Noun====
+{{ja-noun|とうと|hhira=たふと}}
+
+# [[respect]], [[reverence]]
+#* '''1702''', ''{{w|Oku no Hosomichi}}''
+#*: {{ja-usex|あら'''たうと'''　青%葉%若%葉の　日の光|あら '''たうと'''　あを%ば% わか%ば の　ひ の ひかり|rom=ara-'''tōto''', aoba wakaba no, hi no hikari}}
+
+=====Derived terms=====
+* {{ja-r|尊がる|とうとがる}}
+* {{ja-r|尊ぶ|とうとぶ}}
+* {{ja-r|尊む|とうとむ}}
+
+===Etymology 3===
+{{ja-kanjitab|そん|yomi=o}}
+
+From {{bor|ja|ltc|sort=そん|-}} {{ltc-l|尊}}.
+
+Compare modern {{cog|cmn|尊|tr=zūn}}.
+
+====Pronunciation====
+{{ja-pron|y=o|そん|acc=1|acc_ref=DJR}}
+* Pronunciation for suffix sense unknown.
+
+====Noun====
+{{ja-noun|そん}}
+
+# a [[superior]]
+# {{lb|ja|sort=そん|historical}} ''{{w|zun}}'': an [[ancient]] [[wine]] [[vessel]] ''usually'' made of [[bronze]]
+
+====Counter====
+{{ja-pos|counter|そん}}
+
+# {{lb|ja|sort=そん|Buddhism}} ''counter for [[buddha]]s''
+
+====Proper noun====
+{{ja-pos|proper|そん}}
+
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=i}}
+
+Nominalization of classical adjective {{m|ja|高し|tr=takashi}}, modern {{m|ja|高い|tr=takai||[[high]]}}.
+
+====Proper noun====
 {{ja-pos|proper|たかし}}
 
-# {{given name|male|lang=ja}}
+# {{given name|male|lang=ja|A=a|nodot=1|sort=たかし}}
 
+===Etymology 5===
+{{ja-kanjitab|yomi=i}}
+
+Various theories exist, possibly a nominalization of verb {{m|ja|長ける|tr=takeru||to [[excel]] at}}.
+
+====Proper noun====
 {{ja-pos|proper|たける}}
 
-# {{given name|male|lang=ja}}
+# {{given name|male|lang=ja|A=a|nodot=1}}
+
+===References===
+<references/>
 
 [[Category:Japanese male given names|たかし]]
 
