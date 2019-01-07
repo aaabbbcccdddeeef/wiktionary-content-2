@@ -22,12 +22,6 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=二05|kyu=亞}}
 
-# {{abbreviation of|lang=ja|亜細亜|tr=Asia|sort=あしあ}}
-# rank next
-# come after
-# {{lb|ja|chemistry|sort=あ}} as a prefix, equivalent to the [[-ous]] suffix
-# [[sub-]] prefix
-
 ====Readings====
 {{ja-readings
 |goon=え
@@ -106,6 +100,21 @@
 ====Usage notes====
 * [[新字体]] ([[shinjitai]]) new form character
 * Also used phonetically for あ (a)
-* 亜 is put '''before''' a word in the sense of the [[-ous]] suffix.
+
+===Affix===
+{{ja-pos|affix|あ}}
+
+# [[rank]] [[next]]; [[come]] [[after]]
+# {{n-g|Used in transliterations of names.}}
+# {{short for|lang=ja|亜細亜|tr=Asia|sort=あしあ}}
+
+===Prefix===
+{{ja-pos|prefix|あ}}
+
+# [[sub-]]
+# {{lb|ja|chemistry|sort=あ}} [[-ous]] {{gloss|indicates a lower oxidation number}}
+
+====Usage notes====
+* {{m|ja|亜}} is put '''before''' a word in the sense of the [[-ous]] suffix.
 
 [[Category:ja:Taxonomy]]
