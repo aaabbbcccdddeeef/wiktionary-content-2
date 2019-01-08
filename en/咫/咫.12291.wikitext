@@ -2,17 +2,15 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=30|rad=口|as=06|sn=9|four=76808|canj=SORC|ids=⿸尺只}}
-
-# [[foot]] [[measure]] during the [[w:Zhou dynasty|Zhou dynasty]]
+{{Han char|rn=30|rad=口|as=06|sn=9|four=76808|canj=SORC|ids=⿺尺只}}
 
 ====References====
-* {{Han ref|kx=0186.150|dkj=03542|dj=0405.360|hdz=10624.010|uh=54AB|ud=21675|bh=ABA4|bd=43940}}
+{{Han ref|kx=0186.150|dkj=03542|dj=0405.360|hdz=10624.010|uh=54AB}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𣥉,𦐖,⿰羽尺}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -25,20 +23,29 @@
 |mn=qz,tw,xm,zz:chí
 |mc=y
 |oc=y
-|cat=
+|cat=n,a
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[unit of measurement]] during the [[w:Zhou dynasty|Zhou dynasty]], equal to eight [[cun#Etymology 3|cun]]/[[tsun]] ({{zh-l|寸*}})
+#* {{zh-x|楛{Hù} 矢 貫 之，石 砮 其 長 尺 有 咫。|ref=Guoyu}}
+#* {{zh-x|對 曰：「天威 不 違 顏 咫尺，小白<!-- Translation: 小白 = 齊桓公 -->，余 敢 貪 天子 之 命 無 下拜？|ref=Zuozhuan}}
+# {{†}} [[few]]; [[little]]
+#: {{zh-syn|少}}
+#* {{zh-x|王 曰：「是 知 天 咫，安 知 民 則？是 言 誕 也。」|ref=Guoyu}}
+# {{†}} [[short]]
+#: {{zh-syn|短}}
+#* {{zh-x|北 首 燕 路，而 後 遣 辯 士 奉 咫尺 之 書，暴 其 所 長 於 燕，燕 必 不敢 不 聽從。|ref=Shiji}}
 
-====Compounds====
+===Compounds===
 {{zh-der|咫尺萬里|天涯咫尺|咫尺山河|咫尺天涯|咫聞|咫尺|咫角驂駒|咫尺之地|咫尺千里|相去咫尺|近在咫尺}}
 
 ----
 
 ==Japanese==
+{{wp|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=口06}}
@@ -49,14 +56,18 @@
 {{ja-readings
 |goon=し
 |kanon=し
-|kun=た-}}
+|kun=た-
+}}
+
+====Compounds====
+* {{ja-r|咫%尺|し%せき}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=지|rv=ji|mr=chi}}
+{{ko-hanja/new|지}}
 
 # {{defn|lang=ko|sort=口06}}
 
@@ -65,6 +76,13 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[chỉ]]|rs=口06}}
+{{vi-readings|rs=口06
+|hanviet=chỉ-gdhn
+|phienthiet=
+|nom=chỉ-gdhn
+}}
 
 # {{defn|lang=vi|sort=口06}}
+
+===References===
+<references/>
