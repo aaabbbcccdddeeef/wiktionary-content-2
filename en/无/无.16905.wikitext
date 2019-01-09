@@ -14,18 +14,19 @@
 
 ====Derived characters====
 <!-- [[Index:Chinese radical/无]] --> <!-- Note: Most characters found in the radical index contain 旡 instead of 无. -->
-* {{l|mul|[[呒]], [[𪢸]], [[妩]], [[𭘓]], [[怃]], [[抚]], [[𣲘]], [[𬂠]], [[𭴊]], [[䥻]]<!-- Note: traditional form ⿰釒無 or ⿰釒无 does not exist in Unicode -->, [[庑]], [[芜]]}} ''(Contains {{w|Simplified Chinese|simplified}} component of {{l|mul|無}})''
+* {{l|mul|[[呒]], [[𪢸]], [[妩]], [[𭘓]], [[怃]], [[抚]], [[𣲘]], [[𬂠]], [[𭴊]], [[䥻]]<!-- Note: traditional form ⿰釒無 or ⿰釒无 does not exist in Unicode -->, [[庑]], [[芜]]}} {{q|Contains [[Simplified Chinese|simplified]] component of {{l|mul|無}}}}
 * {{l|mul|[[𩇳]], [[𡯊]], [[𮬫]], [[𡆶]]}}
 
 ====Related characters====
-* {{l|mul|[[無]]}} ''(Orthodox {{w|Traditional Chinese|traditional form}} of ''<big>无</big>)
+* {{l|mul|[[無]]}} {{q|Orthodox [[Traditional Chinese|traditional form]] of {{lang|mul|无}}}}
 
 ====Descendants====
-* {{l|ja|ん}} ''({{w|Hiragana}} character derived from {{w|Man'yōgana}})''
+* {{l|ja|ん}} {{q|[[hiragana|Hiragana]] character derived from [[man'yōgana]]}}
 
 ====References====
 {{Han ref|kx=0485.230|dkj=13716|dj=0847.260|hdz=21147.120|uh=65E0}}
 
+[[Category:CJKV radicals]]
 [[Category:Han characters from which hiragana were derived|ん]]
 
 ----
@@ -50,20 +51,20 @@ The origin of this character is unknown. Probably an ancient variant form of eit
 ===Kanji===
 {{ja-kanji|grade=|rs=无00}}
 
-# [[nothing]]
-# not exist
-# crooked heaven radical (no.71)
-# {{alternative form of|無|lang=ja}}
+# {{alternative form of|無|lang=ja||[[nothing]]; [[nothingness]]}}
 
 ====Readings====
-* {{ja-readings|on=[[ぶ]] (bu), [[む]] (mu)|kun=[[ない]] (nai)}}
+{{ja-readings
+|on=ぶ, む
+|kun=ない
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=무|eumhun=|rv=mu|mr=mu|y=mu}}
+{{ko-hanja/new|무}}
 
 # {{defn|lang=ko|sort=无00}}
 
@@ -72,8 +73,13 @@ The origin of this character is unknown. Probably an ancient variant form of eit
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[vô]]|rs=无00}}
+{{vi-readings|rs=无00
+|hanviet=vô-tdcntd;gdhn
+|phienthiet=
+|nom=vô-tdcntd
+}}
 
 # {{defn|lang=vi|sort=无00}}
 
-[[Category:CJKV radicals]]
+===References===
+<references/>
