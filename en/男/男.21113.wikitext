@@ -73,106 +73,175 @@
 ===Kanji===
 {{ja-kanji|grade=1|rs=田02}}
 
+# [[man]]
+# [[son]]
+# [[baron]]
+
 ====Readings====
 {{ja-readings
-|goon=なん
-|kanon=だん
-|kun=お-<を-, おとこ-<をとこ-
+|goon=なん<なん<なむ
+|kanon=だん<だん<だむ
+|kun=おとこ-<をとこ-, お-<を-
+|nanori=いさみ, いさむ, おと<をと
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|男%親|おとこ.%おや}}: [[male]] [[parent]]
-* {{ja-r|男%神|おとこ%がみ}}: [[masculine]] [[god]]
-* {{ja-r|男%側|おとこ%がわ}}: [[man's side]]
-* {{ja-r|男%気|おとこ%ぎ}}: [[chivalrous]] [[spirit]]
-* {{ja-r|男%心|おとこ%ごころ}}: [[male]] [[mind]]
-* {{ja-r|男%言%葉|おとこ%こ%とば}}: [[male]] [[language]]
-* {{ja-r|男%坂|おとこ%ざか}}: [[steep]] [[slope]]
-* {{ja-r|男%手|おとこ%で}}: [[male]] [[worker]]
-* {{ja-r|男%友達|おとこ%ともだち}}: [[boyfriend]], [[male]] [[friend]]
-* {{ja-r|男の子|おとこ の こ}}: [[boy]]
-* {{ja-r|男の人|おとこ の ひと}}: [[adult]] [[man]]
-* {{ja-r|男%役|おとこ%やく}}: [[role of man]]
-* {{ja-r|男%山|おとこ%やま}}: [[steep]] [[mountain]]
-* {{ja-r|男%湯|おとこ%ゆ}}: [[men]]'s [[bath]]
-{{der-mid}}
-* {{ja-r|息%男|そく%なん}}: {{q|honorific}} [[son]]
-* {{ja-r|男%系|だん%けい}}: [[male-succession]]
-* {{ja-r|男%根|だん%こん}}, {{ja-r|男%根|なん%こん}}: [[penis]]
-* {{ja-r|男%子|だん%し}}: [[boy]]
-* {{ja-r|男%児|だん%じ}}: [[infant]] [[boy]]
-* {{ja-r|男%娼|だん%しょう}}: [[male]] [[prostitute]]
-* {{ja-r|男%爵|だん%しゃく}}: [[baron]]
-* {{ja-r|男%女|だん%じょ}}: man and woman
-* {{ja-r|男%色|だん%しょく}}: [[homosexual]]
-* {{ja-r|男%性|だん%せい}}: [[man]]
-* {{ja-r|男%声|だん%せい}}: [[male]] [[voice]]
-* {{ja-r|男%装|だん%そう}}: [[male]] [[costume]]
-* {{ja-r|男%尊%女%卑|だん%そん%-じょ%ひ}}: [[male-dominant]]
-* {{ja-r|男%優|だん%ゆう}}: [[actor]]
+* {{ja-r|男系|だんけい|[[male]] [[succession]]}}
+* {{ja-r|男根|だんこん|[[penis]]}}
+* {{ja-r|男子|だんし|[[boy]]}}
+* {{ja-r|男児|だんじ|[[infant]] [[boy]]}}
+* {{ja-r|男娼|だんしょう|male [[prostitute]]}}
+* {{ja-r|男%爵|だん%しゃく|[[baron]]}}
+* {{ja-r|男女|だんじょ|man and woman}}
+* {{ja-r|男%色|だん%しょく|[[homosexual]]}}
+* {{ja-r|男性|だんせい|[[man]]}}
+* {{ja-r|男声|だんせい|male [[voice]]}}
+* {{ja-r|男装|だんそう|male [[costume]]}}
+* {{ja-r|男尊女卑|だんそんじょひ|[[male chauvinism]]}}
+* {{ja-r|男優|だんゆう|[[actor]]}}
+* {{ja-r|男根|なんこん}}
+* {{ja-r|男%色|なん%しょく}}
+* {{ja-r|下男|げなん}}
+* {{ja-r|次男|じなん|rom=-}}, {{ja-r|二男|じなん}}
+* {{ja-r|善男|ぜんなん}}
+** {{ja-r|善男 善女|ぜんなん ぜんにょ}}
+* {{ja-r|息男|そくなん|[[son]]|pos=honorific}}
+* {{ja-r|嫡%男|ちゃく%なん}}
+* {{ja-r|長男|ちょうなん}}
+* {{ja-r|美男|びなん}}, {{ja-r|美男|びだん}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|おとこ|yomi=k}}
-/woto<small>2</small>ko<small>1</small>/: [wotəkʷo] → [wotoko] → [otoko]. Cognate with the verb [[おつ|wot-]] "to become young" with [[子|ko]] as a male suffix. See also {{m|ja|乙女|tr=otome}}, {{m|ja|息子|tr=musuko}}, {{m|ja|彦|tr=hiko}}.
+{{IPAfont|⟨woto<sub>2</sub>ko<sub>1</sub>⟩}} → *{{IPAchar|/wotəkʷo/}} → {{IPAchar|/wotoko/}} → {{IPAchar|/otoko/}}
+
+From {{inh|ja|ojp|sort=おとこ|-}}.
+
+Derived from {{com|ja|sort=おとこ||alt1=おと|tr1=oto|pos1=cognate with Old Japanese {{m|ja|復つ|tr=wotu → otsu}}, “to [[become]] [[young]]”|子|tr2=ko|t2=[[child]]}}. 
+
+Compare {{m|ja|少女|tr=otome||[[young]] [[woman]]}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|おとこ|acc=3|acc_ref=DJR,NHK}}
 
+====Alternative forms====
+* {{s|[[civilized]] man, manga slang}} {{ja-l|漢}}
+
 ====Noun====
 {{ja-noun|おとこ|hhira=をとこ}}
 
-# [[man]]; [[male]] person.
+# a [[man]]
+#: {{ant|ja|女|tr=onna}}
+# a [[male]]
+#: {{syn|ja|雄|tr=osu}}
+# a male [[lover]]
+#: {{syn|ja|愛人|tr=aijin|情人|tr2=jōjin, jōnin|情夫|tr3=jōfu}}
+# a [[manservant]]
+#: {{syn|ja|下男|tr=genan}}
+# a [[husband]]
+#: {{syn|ja|夫|tr=otto}}
+# {{lb|ja|sort=おとこ|obsolete}} an [[unmarried]] [[young]] man
+# {{lb|ja|sort=おとこ|colloquial}} [[homosexuality]]
+#: {{syn|ja|男色|tr=nanshoku|若道|tr2=nyakudō}}
 
-====Antonyms====
-* {{ja-r|女|おんな}}: [[woman]], [[female]]
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|男し|おとこし}}
+* {{ja-r|男郎花|オトコエシ}}, {{ja-r|男郎花|おとこめし}}
+* {{ja-r|男%親|おとこ%おや|[[male]] [[parent]]}}
+* {{ja-r|男%神|おとこ%がみ|[[masculine]] [[god]]}}
+* {{ja-r|男%側|おとこ%がわ|[[man's side]]}}
+* {{ja-r|男%気|おとこ%ぎ|[[chivalrous]] [[spirit]]}}
+* {{ja-r|男%心|おとこ%-ごころ|male [[mind]]}}
+* {{ja-r|男 言%葉|おとこ こ%とば|male [[language]]}}
+* {{ja-r|男%坂|おとこ%ざか|[[steep]] [[slope]]}}
+* {{ja-r|男%手|おとこ%で|male [[worker]]}}
+* {{ja-r|男 友達|おとこ ともだち|[[boyfriend]], male [[friend]]}}
+* {{ja-r|男の子|おとこ の こ|[[boy]]}}
+* {{ja-r|男の人|おとこ の ひと|[[adult]] [[man]]}}
+* {{ja-r|男%前|おとこ%まえ}}
+* {{ja-r|男%役|おとこ%やく|[[role of man]]}}
+* {{ja-r|男%山|おとこ%やま|[[steep]] [[mountain]]}}
+* {{ja-r|男 鰥|おとこ やもめ}}
+* {{ja-r|男%湯|おとこ%ゆ|[[men]]'s [[bath]]}}
+* {{ja-r|男を上げる|おとこ を あげる}}
+* {{ja-r|男を売る|おとこ を うる}}
+* {{ja-r|男を下げる|おとこ を さげる}}
+* {{ja-r|男を知る|おとこ を しる}}
+* {{ja-r|男を磨く|おとこ を みがく}}
+* {{ja-r|色%男|いろ%おとこ}}
+* {{ja-r|作%男|さく%おとこ}}
+* {{ja-r|下%男|しも%おとこ}}
+* {{ja-r|間%男|ま%おとこ}}
+* {{ja-r|むくつけ男|むくつけ おとこ}}
+* {{ja-r|雪 男|ゆき おとこ}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|男が廃る|おとこ が すたる}}
+* {{ja-r|男が立つ|おとこ が たつ}}
+* {{ja-r|男になる|おとこ に なる}}
+* {{ja-r|男は気で持て|おとこ は き で もて}}
+* {{ja-r|男は閾を跨げば七人の敵あり|おとこ は しき.い を またげば しちにん の てき あり}}
+* {{ja-r|男は辞%儀に余れ|おとこ はじ% ぎ に あまれ}}
+* {{ja-r|男は松%女子は藤|おとこ は まつ% おなご は ふじ}}
+{{der-bottom}}
+
+=====Proverbs=====
+* {{ja-r|男の目には糸を引け女の目には鈴を張れ|おとこ の め に は いと を ひけ おんな の め に は すず を はれ}}
+* {{ja-r|男は度胸%女は愛嬌|おとこ は どきょう% おんな は あいきょう}}
+* {{ja-r|男は裸%百貫|おとこ は はだか%-ひゃっかん}}
+
+====Proper noun====
+{{ja-pos|proper|おとこ|hhira=をとこ}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=おとこ}}
 
 ===Etymology 2===
 {{ja-kanjitab|お|yomi=k}}
-/wo/: [wo] → [o]. The male equivalent to [[女|me]] "female, woman".
+{{IPAchar|/wo/}} → {{IPAchar|/o/}} 
+
+From {{inh|ja|ojp|-}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|お|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
-* {{ja-l|雄}}, {{ja-l|牡}}, {{ja-l|夫}}
+* {{ja-l|夫}}
+* {{s|male}} {{ja-l|雄}}, {{ja-l|牡}}
 
 ====Noun====
 {{ja-noun|お|hhira=を}}
 
-# male
-# a man
-# a husband
+# a [[man]]
+#* {{RQ:Kojiki|poem 5}}
+#*: {{ja-usex|m=...那許曾波 '''遠'''迩伊麻世婆...|m_kana=...なこそは '''を'''にいませば...|...汝こそは'''を'''にいませば...|...な こそ は '''を''' に いませば...}}
+#: {{ant|ja|女|tr=me}}
+# a [[husband]]
+#: {{syn|ja|夫|tr=otto}}
+#: {{ant|ja|女|tr=me}}
+# a [[male]]
+#: {{ant|ja|[[女]], [[牝]], [[雌]]|tr=me}}
+# something [[large]], [[powerful]], or otherwise [[masculine]]
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|雄%花|お%ばな}}
-* {{ja-r|雄%鹿|お%じか}}, {{ja-r|牡%鹿|お%じか}}
-* {{ja-r|雄%牛|お%.うし}}, {{ja-r|牡%牛|お.%うし}}
-* {{ja-r|雄%羊|お%ひつじ}}
-* {{ja-r|雄%叫び|お%たけび}}
-* {{ja-r|雄%叫び|お%さけび}}
-* {{ja-r|雄%鳥|お%んどり}}
-* {{ja-r|雄%蕊|お%しべ}}
+* {{ja-r|男男しい|お.おし.い|rom=-}}, {{ja-r|男々しい|お.おし.い}}
 * {{ja-r|男%滝|お%だき}}
-* {{ja-r|男%男しい|お%.おし.い}}, {{ja-r|男%々しい|お%.おし.い}}
-* {{ja-r|雄%犬|おす%いぬ}}
-* {{ja-r|男%猫|お%ねこ}}, {{ja-r|雄%猫|お%ねこ}}, {{ja-r|牡%猫|お%ねこ}}
-* {{ja-r|雄%松|お%まつ}}
-* {{ja-r|雄%蜂|お%ばち}}
-* {{ja-r|牡%馬|おす%.うま}}
-* {{ja-r|雄%螺旋|お%ねじ}}
+* {{ja-r|男%猫|お%ねこ}}
 * {{ja-r|男%雛|お%びな}}
-* {{ja-r|雄%猿|おす%ざれ}}
-* {{ja-r|雄%蛭%木|お%ひる%ぎ}}
-* {{ja-r|寡%男|やも.%お}}
 * {{ja-r|桂%男|かつら%お}}
+* {{ja-r|須佐之男|^すさの.お}}
+* {{ja-r|益荒%男|ますら%お|rom=-}}, {{ja-r|大夫|ますらお|rom=-}}, {{ja-r|丈夫|ますらお}}
+* {{ja-r|寡%男|やも%お}}
 {{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|おのこ|yomi=irr}}
-/wo<small>2</small>ko<small>1</small>/: [wonəkʷo] → [wonoko] → onoko. From [[男|wo]] "male" + [[の|no<small>2</small>]] (genitive) + [[子|ko<small>1</small>]] "man, child".
+
+Compound of {{com|ja|sort=おのこ|男|tr1=o|t1=[[male]]|pos1=see above|の|tr2=no|pos2=possessive particle|子|tr3=ko|t3=[[child]]}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|おのこ|acc=1|acc_ref=DJR}}
@@ -183,11 +252,26 @@
 ====Noun====
 {{ja-noun|おのこ|hhira=をのこ}}
 
-# a boy
+# a [[boy]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|男%手|おのこ%で}}
+* {{ja-r|男 同胞|おのこ はらから}}
+* {{ja-r|東%男|あずま%-おとこ}}
+* {{ja-r|上の男|うえ の おのこ}}
+* {{ja-r|下種 男|げす おのこ}}
+* {{ja-r|才の男|ざえ の おのこ}}
+* {{ja-r|むくつけ男|むくつけ おのこ}}
+{{der-bottom}}
 
 ===Etymology 4===
-{{ja-kanjitab|なん|yomi=o}}
-From {{etyl|ltc|ja|sort=なん}} {{m|zh|男|tr=nom}}.
+{{ja-kanjitab|なん|yomi=goon}}
+{{IPAchar|/nam/}} → {{IPAchar|/namʉ/}} → {{IPAchar|/naɴ/}} 
+
+From {{bor|ja|ltc|sort=なん|-}} {{ltc-l|男}}.
+
+The ''{{ll|ja|呉音|goon}}'' reading, so likely initial borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|なん}}
@@ -195,11 +279,39 @@ From {{etyl|ltc|ja|sort=なん}} {{m|zh|男|tr=nom}}.
 ====Noun====
 {{ja-noun|なん}}
 
-# [[man]]
-# [[son]]
+# a [[man]]
+#: {{syn|ja|男性|tr=dansei}}
+# a [[son]]
+#: {{syn|ja|倅|tr=segare|息子|tr2=musuko}}
+
+=====Derived terms=====
+* {{ja-r|一男|いちなん}}
+
+===Etymology 4===
+{{ja-kanjitab|だん|yomi=kanon}}
+{{IPAchar|/dam/}} → {{IPAchar|/damʉ/}} → {{IPAchar|/daɴ/}} 
+
+From {{bor|ja|ltc|-}} {{ltc-l|男}}.
+
+The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Noun====
+{{ja-noun|だん}}
+
+# a [[man]]
+# a [[son]]
+# a [[young]] man, ''especially'' one who reached [[adulthood]]
+#: {{syn|ja|壮丁|tr=sōtei|若者|tr2=wakamono}}
+# {{lb|ja|sort=たん'|historical}} a [[baron]]
+#: {{syn|ja|男爵|tr=danshaku}}
+
+====Proper noun====
+{{ja-pos|proper|だん}}
+
+# {{given name|male|lang=ja|A=a|nodot=1|sort=たん'}}
 
 ===References===
-<references />
+<references/>
 
 [[Category:Japanese basic words|おとこ]]
 
