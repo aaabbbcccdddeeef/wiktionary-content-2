@@ -80,35 +80,36 @@ See {{zh-l|琴日}}.
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|琴線|きんせん|[[koto]] [[string]]; [[heartstrings]]}}
-* {{ja-r|琴曲|きんきょく|koto [[music]]}}
-* {{ja-r|一弦琴|いちげん-きん|rom=-}}, {{ja-r|一絃琴|いちげん-きん}}
-* {{ja-r|口琴|こうきん|[[Jew's harp]]|pos=literally "[[mouth harp]]"}}
-* {{ja-r|自鳴琴|じめいきん|[[music box]]}}
-* {{ja-r|弾琴|だんきん|koto [[play]]ing}}
-* {{ja-r|鉄琴|てっきん|[[metallophone]]}}
-* {{ja-r|手風琴|てふうきん|[[accordion]]}}
-* {{ja-r|二弦琴|にげん-きん}}
-* {{ja-r|馬頭琴|ばとうきん}}
+* {{ja-r|琴%線|きん%せん|[[koto]] [[string]]; [[heartstrings]]}}
+* {{ja-r|琴%曲|きん%きょく|koto [[music]]}}
+* {{ja-r|一%弦%琴|いち%げん%-きん|rom=-}}, {{ja-r|一絃琴|いちげん-きん}}
+* {{ja-r|口%琴|こう%きん|[[Jew's harp]]|pos=literally "[[mouth harp]]"}}
+* {{ja-r|自%鳴%琴|じ%めい%きん|[[music box]]}}
+* {{ja-r|弾%琴|だん%きん|koto [[play]]ing}}
+* {{ja-r|鉄%琴|てっ%きん|[[metallophone]]}}
+* {{ja-r|手%風%琴|て%ふう%きん|[[accordion]]}}
+* {{ja-r|二%弦%琴|に%げん%-きん}}
+* {{ja-r|馬%頭%琴|ば%とう%きん}}
 * {{ja-r|口琴|びやぼん|Edo-period [[mouth harp]]}}
-* {{ja-r|木琴|もっきん|[[xylophone]]}}
-* {{ja-r|和琴|わごん}}
+* {{ja-r|木%琴|もっ%きん|[[xylophone]]}}
+* {{ja-r|和%琴|わ%ごん}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{wp|Koto (musical instrument)}}
-{{ja-kanjitab|こと|yomi=k}}
-{{IPAchar|/ko<sub>2</sub> oto<sub>2</sub>/}} → *{{IPAchar|/kooto/}} → {{IPAchar|/koto/}}
+{{ja-kanjitab|yomi=k|こと}}
 
-Likely from {{inh|ja|ojp|sort=こと|-}}. Originally a compound of {{ja-compound|木|こ|音|おと|t1=[[tree]], [[wood]]|t2=[[sound]]|nocat=1}}, {{rfv-etymology|ja}} with the initial ''o'' dropped by [[haplology]].
+{{IPAfont|⟨ko<sub>2</sub>to<sub>2</sub>⟩}} → {{IPAchar|/koto/}}
 
-Compare {{m|ja|事|tr=koto}}.
+From {{inh|ja|ojp|sort=こと|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 {{CE}}.<ref>{{RQ:Manyoshu|18|1435}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4135 here]</ref>
+
+Possibly derived from a compound of elements {{compound|lang=ja|木|tr1=ko<sub>2</sub>|t1=[[tree]], [[wood]]|音|tr2=oto<sub>2</sub>|t2=[[sound]]|nocat=1}}, with the additional medial ''o'' dropped by [[haplology]].
 
 ====Alternative forms====
 * {{ja-l|箏}}
 
 ====Pronunciation====
-{{ja-pron|y=k|こと|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|こと|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|こと}}
@@ -127,12 +128,12 @@ Compare {{m|ja|事|tr=koto}}.
 * {{ja-r|こと座|^こと-ざ|[[Lyra]]}}
 * {{ja-r|琴%柱|こと%じ|[[bridge]] of a koto}}
 * {{ja-r|琴%爪|こと%づめ|koto [[plectrum]]}}
-* {{ja-r|琴%鳥|コト%ドリ|[[superb lyrebird]]}}
+* {{ja-r|琴%鳥|こと%どり|[[superb lyrebird]]}}
 * {{ja-r|東%琴|あずま%ごと}}
-* {{ja-r|須磨%琴|すま%-ごと}}
+* {{ja-r|須%磨%琴|す%ま%-ごと}}
 * {{ja-r|小%琴|お%ごと|koto|pos=usually small}}
 * {{ja-r|百済%琴|くだら%-ごと}}
-* {{ja-r|大正%琴|^たいしょう%-ごと}}
+* {{ja-r|大%正%琴|^たい%しょう%-ごと}}
 * {{ja-r|竪%琴|たて%ごと}}
 * {{ja-r|大和%琴|^やまと%-ごと}}
 {{der-bottom}}
@@ -140,18 +141,17 @@ Compare {{m|ja|事|tr=koto}}.
 ====Proper noun====
 {{ja-pos|proper|こと}}
 
-# {{given name|lang=ja|female|A=a|sort=こと}}
+# {{given name|lang=ja|A=a|sort=こと|female}}
 # {{surname|lang=ja|A=a|sort=こと}}
 
 ===Etymology 2===
 {{wp|lang=ja|琴}}
-{{ja-kanjitab|きん|yomi=o}}
-From {{der|ja|ltc|sort=きん|-}} {{ltc-l|琴}}. {{rfv-etymology|ja}}
+{{ja-kanjitab|yomi=kanon|きん}}
 
-The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
+From {{der|ja|ltc|sort=きん|-}} {{ltc-l|琴}}.  The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
 
 ====Pronunciation====
-{{ja-pron|y=kan|きん|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=kanon|きん|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|きん}}
@@ -160,22 +160,22 @@ The ''{{ll|ja|漢音|kan'on}}'' pronunciation, so likely a later borrowing.
 # {{short for|lang=ja|古琴|tr=kokin||[[guqin]]}}
 
 =====Synonyms=====
-* {{ja-r|七弦琴|しちげん-きん}}
+* {{ja-r|七%弦%琴|しち%げん%-きん}}
 
 =====Derived terms=====
-* {{ja-r|琴瑟|きんしつ|[[qin]] and [[se]]|pos=figuratively, "[[marital]] [[harmony]]"}}
+* {{ja-r|琴%瑟|きん%しつ|[[qin]] and [[se]]|pos=figuratively, "[[marital]] [[harmony]]"}}
 
 =====See also=====
-* {{ja-r|奚琴|けいきん|[[xiqin]]}}
-* {{ja-r|月琴|げっきん|[[yueqin]]}}
+* {{ja-r|奚%琴|けい%きん|[[xiqin]]}}
+* {{ja-r|月%琴|げっ%きん|[[yueqin]]}}
 * {{ja-r|瑟|しつ|[[se]]}}
-* {{ja-r|提琴|ていきん|{{w|tiqin}}}}
-* {{ja-r|洋琴|ようきん|[[yangqin]]}}
+* {{ja-r|提%琴|てい%きん|{{w|tiqin}}}}
+* {{ja-r|洋%琴|よう%きん|[[yangqin]]}}
 
 ====Proper noun====
 {{ja-pos|proper|きん}}
 
-# {{given name|lang=ja|female|A=a|sort=きん}}
+# {{given name|lang=ja|A=a|sort=きん|female}}
 # {{surname|lang=ja|A=a|sort=きん}}
 
 ===Etymology 3===
@@ -192,7 +192,7 @@ Various nanori readings.
 
 {{ja-pos|proper|ことえ}}
 
-# {{given name|lang=ja|female|A=a|sort=ことえ}}
+# {{given name|lang=ja|A=a|sort=ことえ|female}}
 
 {{ja-pos|proper|ことざき}}
 
@@ -200,7 +200,7 @@ Various nanori readings.
 
 {{ja-pos|proper|ことみ}}
 
-# {{given name|lang=ja|female|A=a|sort=ことみ}}
+# {{given name|lang=ja|A=a|sort=ことみ|female}}
 
 ===References===
 <references/>
