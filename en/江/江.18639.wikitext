@@ -97,11 +97,12 @@ The original Chinese word for “river” was {{zh-l|水}}, literally “water�
 * {{ja-r|江湖|こうこ}}, {{ja-r|江%湖|ごう%こ}}
 * {{ja-r|江村|こうそん}}
 * {{ja-r|江都|^こうと}}
-* {{ja-r|江%鮭|アメ ノ %ウオ}}
+* {{ja-r|江%鮭|あめ の %うお}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|え|yomi=k}}
+{{ja-kanjitab|yomi=k|え}}
+
 {{IPAchar|/je/}} → {{IPAchar|/e/}}
 
 From {{inh|ja|ojp|sort=え|-}}. The ''ye'' pronunciation gradually dropped out in {{w|Early Middle Japanese}}, persisting in some dialects and specific terms.  For instance, see {{pedialite|Yebisu}}
@@ -109,7 +110,7 @@ From {{inh|ja|ojp|sort=え|-}}. The ''ye'' pronunciation gradually dropped out i
 This term was so representative of the ''ye'' reading that it lent its shape to the {{w|hentaigana}} {{m|ja|𛀁|tr=ye}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|え|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|え|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|え}}
@@ -136,10 +137,11 @@ Although {{lang|ja|江}} (''e'') was sometimes used generically for a large body
 ====Proper noun====
 {{ja-pos|proper|え}}
 
-# {{surname|lang=ja|sort=え}}
+# {{surname|lang=ja|sort=え|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|こう|yomi=o}}
+{{ja-kanjitab|yomi=kanon|こう}}
+
 {{IPAchar|/kau/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}
 
 From {{der|ja|ltc|sort=こう|-}} {{ltc-l|江}}.
@@ -147,7 +149,7 @@ From {{der|ja|ltc|sort=こう|-}} {{ltc-l|江}}.
 The {{m|ja|漢音|kan'on}} reading, so likely a later borrowing.
 
 ====Pronunciation====
-{{ja-pron|y=kan|こう}}
+{{ja-pron|yomi=kanon|こう}}
 
 ====Noun====
 {{ja-noun|こう|hhira=かう}}
@@ -160,7 +162,7 @@ The {{m|ja|漢音|kan'on}} reading, so likely a later borrowing.
 # {{short for|nocap=1|nodot=1|lang=ja|長江|tr=Chōkō}}: the [[Yangtze]] [[river|River]]
 # old name for {{m|ja|琵琶湖|tr=Biwa-ko}}: [[Lake Biwa]]
 # {{surname|A=a|nodot=1|lang=ja|sort=こう}}
-# {{given name|A=a|nodot=1|lang=ja|unisex|sort=こう}}
+# {{given name|A=a|nodot=1|lang=ja|sort=こう|unisex}}
 
 =====Derived terms=====
 {{der-top}}
@@ -177,7 +179,7 @@ Various nanori readings.
 {{ja-pos|proper|ごう}}
 
 # {{surname|A=a|nodot=1|lang=ja|sort=こう'}}
-# {{given name|A=a|nodot=1|lang=ja|unisex|sort=こう'}}
+# {{given name|A=a|nodot=1|lang=ja|sort=こう'|unisex}}
 
 ===References===
 <references/>
