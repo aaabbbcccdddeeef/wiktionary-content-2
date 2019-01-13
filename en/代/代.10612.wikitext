@@ -7,20 +7,24 @@
 {{Han char|rn=9|rad=人|as=03|sn=5|four=23240|canj=OIP|ids=⿰亻弋}}
 
 ====Derived characters====
-* [[袋]] [[貸]]
+* {{l|mul|[[㭖]], [[玳]], [[蚮]], [[鮘]]([[𬶌]]), [[鴏]], [[䒫]], [[笩]], [[垈]], [[岱]], [[帒]], [[柋]], [[牮]], [[袋]], [[貸]]([[贷]]), [[黛]]}}
 
 ====References====
-* {{Han ref|kx=0093.110|dkj=00386|dj=0197.070|hdz=10113.050|uh=4EE3|ud=20195|bh=A54E|bd=42318}}
+{{wikidata|Q54874922}}
+{{Han ref|kx=0093.110|dkj=00386|dj=0197.070|hdz=10113.050|uh=4EE3}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|人|弋|alt1=亻|c1=s|c2=p|t1=person|ls=psc}}.
+{{Han compound|人|弋|alt1=亻|c1=s|c2=p|t1=person|ls=psc}}
+
 ===Etymology 1===
+
 ====Pronunciation====
 {{zh-pron
 |m=dài
@@ -71,9 +75,21 @@
 ----
 
 ==Japanese==
+{{wikipedia|lang=ja}}
 
-===Compounds===
-{{rel-top3|compounds containing "代"}}
+===Kanji===
+{{ja-kanji|grade=3|rs=人03}}
+
+====Readings====
+{{ja-readings
+|goon=だい
+|kanon=たい
+|kun=か-わる, かわ-る, かわ-り, か-わり, か-える, よ-, しろ-
+|nanori=す
+}}
+
+====Compounds====
+{{der-top3}}
 * {{ja-r|代わる|かわる|rom=-}}, {{ja-r|代る|かわる|succeed, relieve}}
 * {{ja-r|代わり|かわり|rom=-}}, {{ja-r|代り|かわり|substitute, replacement}}
 * {{ja-r|代わり|-がわり|rom=-}}, {{ja-r|代り|-がわり|substitute for}}
@@ -139,7 +155,7 @@
 * {{ja-r|代%執%行|だい%しっ%こう|carrying out by proxy}}
 * {{ja-r|代%神楽|だい%か%ぐら|grand kagura performance}}
 * {{ja-r|代%諾%者|だい%だく%しゃ|legal representative}}
-{{rel-mid3}}
+{{der-mid3}}
 * {{ja-r|代%当%主|だい%とう%しゅ|''n''th-generation head of a family}}
 * {{ja-r|代%動%詞|だい%どう%し|pro-verb}}
 * {{ja-r|代%燃%車|だい%ねん%しゃ|car running on substitute fuel}}
@@ -205,7 +221,7 @@
 * {{ja-r|糊%代|のり%しろ|overlap width}}
 * {{ja-r|花%代|はん%だい|price of flowers}}
 * {{ja-r|場%代|ば%だい|rent, cover charge}}
-{{rel-mid3}}
+{{der-mid3}}
 * {{ja-r|番%代|ばん%だい|taking turns}}
 * {{ja-r|本%代|ほん%だい|money for books}}
 * {{ja-r|間%代|ま%だい|room rent}}
@@ -267,15 +283,44 @@
 * {{ja-r|強%直%間%代%発%作|きょう%ちょく%-かん%だい-%ほっ%さ|tonic-clonic seizure}}
 * {{ja-r|千%九%百%年%代|せん%きゅう%ひゃく%-ねん %だい|rom=-}}, {{ja-r|１９００%年%代|せんきゅうひゃく-%ねん %だい|the 1900s}}
 * {{ja-r|明%治%天%皇の代に|^めい%じ %てん%のう の よ に|under Emperor Meiji's rule}}
-{{rel-bottom}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|しろ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|しろ|yomi=k}}
+
+====Noun====
 {{ja-noun|しろ}}
 
 # {{lb|ja|archaic}} [[substitution]]
 # {{lb|ja|archaic}} [[price]], [[cost]], [[charge]]
 # {{lb|ja|historical}} [[shiro]], a unit of land
 
+===Etymology 2===
+{{ja-kanjitab|よ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|よ|yomi=k}}
+
+====Noun====
+{{ja-noun|よ}}
+
+# [[world]], [[society]]
+# {{lb|ja|archaic}} [[age]], [[generation]], [[era]] of [[rule]]
+
+=====Alternative forms=====
+* {{l|ja|世}}
+
+===Etymology 3===
+{{ja-kanjitab|だい|yomi=o}}
+From {{der|ja|ltc|sort=だい|-}} {{ltc-l|代}}.
+
+====Pronunciation====
+{{ja-pron|だい|yomi=o}}
+
+====Noun====
 {{ja-noun|だい}}
 
 # [[price]]
@@ -284,37 +329,20 @@
 # [[decade]]
 # [[era]]
 
-{{ja-noun|よ}}
-
-# [[world]], [[society]]
-# {{lb|ja|archaic}} [[age]], [[generation]], [[era]] of [[rule]]
-
-====Alternative forms====
-* {{l|ja|台}} (alternative form for ''dai'' only)
-* {{l|ja|世}} (alternative form for ''yo'' only)
-
-===Counter===
+====Counter====
 {{ja-pos|だい|counter}}
 
-# [[generation]] of a royal family
+# [[generation]] of a [[royal family]]
 # [[era]], [[age]], [[decade]]
 
-===Suffix===
+====Suffix====
 {{ja-pos|だい|suffix}}
 
 # [[charge]], [[fare]], [[rate]], [[fee]], [[price]], [[rent]]
-# (''indicating years spanning a specific period'') [[-ies]], -[[hundred]]s
+# {{lb|ja|indicating years spanning a specific period}} [[-ies]], -[[hundred]]s
 
-===Kanji===
-{{ja-kanji|grade=3|rs=人03}}
-
-====Readings====
-{{ja-readings
-|goon=だい
-|kanon=たい
-|kun=か-わる, かわ-る, かわ-り, か-わり, か-える, よ-, しろ-
-|nanori=す
-}}
+=====Alternative forms=====
+* {{sense|period of time}} {{l|ja|台}}
 
 [[Category:ja:Units of measure|しろ]]
 
@@ -323,7 +351,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=대|rv=dae|mr=tae}}
+{{ko-hanja/new|대}}
 
 # {{defn|lang=ko|sort=人03}}
 
