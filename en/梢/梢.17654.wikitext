@@ -55,7 +55,7 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top3|Compounds}}
 * {{ja-r|梢頭|しょうとう}}
 * {{ja-r|花梢|かしょう}}
 * {{ja-r|枯梢|こしょう}}
@@ -68,25 +68,28 @@
 * {{ja-r|梢%付き 塔婆|うれ%つき とうば}}
 {{der-bottom}}
 
-===Alternative forms===
+===Etymology 1===
 {{ja-kanjitab|yomi=k|こずえ}}
 
-* {{ja-l|杪}}
-
-===Etymology===
 Originally a compound of {{com|ja|sort=こすえ|木|tr1=ko|t1=[[tree]]|pos1=combining form|末|tr2=sue|t2=[[tip]], [[end]]}}.
 
-===Pronunciation===
+{{rendaku2|sort=こすえ|sue|zue}}
+
+====Alternative forms====
+* {{ja-l|杪}}
+
+====Pronunciation====
 {{ja-pron|y=k|こずえ|acc=0|acc_ref=DJR}}
 
-===Noun===
+====Noun====
 {{ja-noun|こずえ|hhira=こずゑ}}
 
 # a [[treetop]]
 #: {{syn|ja|木末|tr=konure}}
 
-====Derived terms====
-{{der-top}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|梢%子|^こずえ%こ}}
 * {{ja-r|梢の秋|こずえ の あき}}
 * {{ja-r|梢の嵐|こずえ の あらし}}
 * {{ja-r|梢の雲|こずえ の くも}}
@@ -98,14 +101,25 @@ Originally a compound of {{com|ja|sort=こすえ|木|tr1=ko|t1=[[tree]]|pos1=com
 * {{ja-r|雲の梢|くも の こずえ}}
 {{der-bottom}}
 
-====Proverbs====
+=====Proverbs=====
 * {{ja-r|花は折りたし梢は高し|はな は おりたし こずえ は たかし}}
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|こずえ|hhira=こずゑ}}
 
 # {{given name|female|lang=ja|A=a|nodot=1|sort=こすえ}}
 # {{surname|lang=ja|A=a|nodot=1|sort=こすえ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=goon|しょう}}
+{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕoː/}}
+
+From {{bor|ja|ltc|sort=しよう|-}} {{ltc-l|梢}}.
+
+====Proper noun====
+{{ja-pos|proper|しょう|hhira=せう}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
 
 ===References===
 <references/>
