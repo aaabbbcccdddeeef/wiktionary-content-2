@@ -86,7 +86,8 @@ Derivatives are {{och-l|肱|(upper) arm}} and {{och-l|穹|arched, vault, sky}}.
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ゆ}}
-From {{etyl|ojp|ja|sort=ゆ}}. In modern {{etyl|ja|-}}, only found as a prefix in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+From {{inh|ja|ojp|sort=ゆ|-}}. In modern {{cog|ja|-}}, only found as a prefix in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ゆ}}
@@ -115,7 +116,8 @@ From {{etyl|ojp|ja|sort=ゆ}}. In modern {{etyl|ja|-}}, only found as a prefix i
 [[File:Yumi-p1000624.jpg|thumb|250px|{{lang|ja|弓}} (''yu'', ''yumi'', ''tarashi'', ''kyū''): Japanese '''bows''', arrows, and arrow-stand.]]
 </div>
 {{ja-kanjitab|yomi=k|ゆみ}}
-Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', itself of uncertain derivation.
+
+From {{inh|ja|ohp|sort=ゆみ|-}}.  Appears in the ''{{w|Man'yōshū}}'' (c. 759 {{CE}}).  A surface analysis suggests a combination of {{cog|ojp|-}} ''yu'' (see above) + suffixing element ''mi'', itself of uncertain derivation.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ゆみ|acc=2|acc_ref=NHK,DJR}}
@@ -128,7 +130,7 @@ Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', its
 ## {{lb|ja|musical instrument|sort=ゆみ}} a bow for playing a [[stringed instrument]] such as a [[violin]] or [[cello]]
 # [[archery]]
 # {{lb|ja|Shinto|sort=ゆみ}} a type of [[kagura]] (sacred Shinto song and dance) intended to drive away [[evil]]
-# short for {{ja-r|破魔 弓|はま ゆみ}}: a ceremonial archery bow with the power to dispel evil
+# short for {{ja-r|破%魔 弓|は%ま ゆみ}}: a ceremonial archery bow with the power to dispel evil
 # a bow [[shape]], a [[curve]]
 # a bow-shaped [[tool]] used to [[beat]] [[ginned]] [[cotton]] into a softer and finer [[textile]]
 
@@ -139,7 +141,7 @@ Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', its
 {{der-top}}
 * {{ja-r|弓%矢|ゆみ%や|[[bow and arrow]]}}
 * {{ja-r|梓 弓|あずさ ゆみ|a [[catalpa]] [[wood]] [[bow]]}}
-* {{ja-r|破魔 弓|はま ゆみ|a [[traditional]] [[Shintō]] [[ceremonial]] [[bow]] for [[dispel]]ling [[evil]]}}
+* {{ja-r|破%魔 弓|は%ま ゆみ|a [[traditional]] [[Shintō]] [[ceremonial]] [[bow]] for [[dispel]]ling [[evil]]}}
 * {{ja-r|重籐 弓|しげどう ゆみ}}, {{ja-r|滋籐 弓|しげどう ゆみ}}, {{ja-r|繁籐 弓|しげどう ゆみ|a [[rattan]] wood bow}}
 {{der-bottom}}
 
@@ -154,6 +156,7 @@ Appears to be {{etyl|ojp|ja|sort=ゆみ}} ''yu'' + suffixing element ''mi'', its
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|たらし}}
+
 Alteration from ''torashi'', {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb ''torasu'', from ''tora'' as the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|取る|tr=toru||to take}} + {{m|ja|す|tr=su|pos=honorific suffix in {{etyl|ojp|-}}}}. Original meaning was “something kept [[to hand]]”.<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
@@ -171,8 +174,9 @@ Alteration from ''torashi'', {{m|ja|連用形|tr=ren'yōkei||stem or continuativ
 * {{ja-l|御%執|み%たらし|rom=-}}, {{ja-r|御%弓|み%たらし}}
 
 ===Etymology 4===
-{{ja-kanjitab|yomi=o|きゅう}}
-From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|弓|tr=*giung}}.<ref name="KDJ"/><ref name="DJR"/> Compare modern {{etyl|cmn|-}} {{m|zh|弓|tr=gōng}}.
+{{ja-kanjitab|yomi=kanon|きゅう}}
+
+From {{bor|ja|ltc|sort=きゅう|-}} {{ltc-l|弓}}.<ref name="KDJ"/><ref name="DJR"/> Compare modern {{etyl|cmn|-}} {{m|zh|弓|tr=gōng}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kan|きゅう|acc=1|acc_ref=DJR}}
