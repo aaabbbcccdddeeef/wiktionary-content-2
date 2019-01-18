@@ -9,6 +9,10 @@
 ====Derived characters====
 * {{l|mul|[[𡔆]], [[𮧁]]}}
 
+====Related characters====
+* {{l|mul|滝}} {{q|Japanese [[shinjitai]]}}
+* {{l|mul|泷}} {{q|[[Simplified Chinese]]}}
+
 ====References====
 {{Han ref|kx=0660.190|dkj=18671|dj=1070.120|hdz=31784.170|uh=7027}}
 
@@ -19,8 +23,10 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|氵|龍|alt1=水|c1=s|c2=p|t1=water|ls=psc}}
 
 ===Etymology 1===
+{{zh-wp|zh:瀧江}} <!-- Different from 瀧水 in Etymology 3 -->
 
 ====Pronunciation====
 {{zh-pron
@@ -38,9 +44,11 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# [[raining]]
-# [[wet]]
-# [[soaked]]
+# [[appearance]] of [[raining]]
+# [[wet]]; [[soaked]]
+
+====Compounds====
+{{zh-der|瀧夫|瀧漉|瀧瀧|瀧船}}
 
 ===Etymology 2===
 
@@ -56,7 +64,9 @@
 {{zh-hanzi}}
 
 # {{lb|zh|of flow of water}} [[rapid]]
+
 ===Etymology 3===
+{{zh-wp|zh:瀧州}}
 
 ====Pronunciation====
 {{zh-pron
@@ -71,7 +81,11 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# a [[river]] in [[Guangdong]] [[province]]
+# {{zh-div|水}} a [[river]] in [[Guangdong]] [[province]]
+#: {{zh-syn|羅定江}}
+
+====Compounds====
+{{zh-der|瀧水|瀧州|瀧岡}}
 
 ----
 
@@ -81,8 +95,8 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水16|shin=滝}}
 
-# [[waterfall]]
-# [[rapids]]
+# {{kyujitai|滝||[[waterfall]]; [[rapid#Noun|rapid]]s}}
+# {{n-g|Used in personal names}}.
 
 ====Readings====
 {{ja-readings
@@ -96,7 +110,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[룡]]>[[용]]|eumhun=|rv=ryong>yong|mr=ryong>yong|y=lyong>yong}}
+{{ko-hanja/new|룡||용}}
 
 # {{defn|lang=ko|sort=水16}}
 
