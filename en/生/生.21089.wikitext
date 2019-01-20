@@ -291,11 +291,30 @@ Likely a contraction from {{m|ja|生き|tr=iki||life, living; freshness}}.<ref n
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[sinh]], [[sanh]], [[siêng]], [[xênh]], [[xinh]]|rs=生00}}
+{{vi-readings|rs=生00
+|hanviet=sinh-tdcndg;tdcntd;gdhn;bonet, sanh-gdhn;bonet
+|phienthiet=
+|nom=sinh-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, sanh-tdcndg;tdcntd;btcn;bonet;genibrel;taberd, siêng-tdcndg;gdhn;btcn;bonet;genibrel;taberd, xinh-tdcndg;tdcntd;gdhn;btcn, xênh-tdcndg;gdhn;btcn, sống-tdcndg, xanh-tdcndg
+}}
 
-# {{defn|lang=vi|sort=生00}}
+# {{han tu form of|sinh|to [[produce#Verb|produce]]; to [[yield#Verb|yield]]; to [[give birth]] to}}
+# {{han tu form of|sanh|to be [[born]]}}
 
 ====Compounds====
-* {{l|vi|生素|tr=[[sinh tố]]}}
+{{der3|lang=vi
+|{{vi-l|生動|sinh động}}
+|{{vi-l|生活|sinh hoạt}}
+|{{vi-l|生理|sinh lí}}
+|{{vi-l|生日|sinh nhật}}
+|{{vi-l|生素|sinh tố}}
+|{{vi-l|生物|sinh vật}}
+|{{vi-l|生員|sinh viên}}
+|{{vi-l|稟生|bẩm sinh}}
+|{{vi-l|學生|học sinh}}
+|{{vi-l|人生|nhân sinh}}
+|{{vi-l|先生|tiên sinh}}
+|{{vi-l|私生|tư sinh}}
+|{{vi-l|衛生|vệ sinh}}
+}}
 
 [[Category:CJKV radicals]]
