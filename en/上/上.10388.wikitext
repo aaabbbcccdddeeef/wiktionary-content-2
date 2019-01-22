@@ -237,15 +237,16 @@
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|うえ|yomi=k}}
+{{ja-kanjitab|yomi=k|うえ}}
+
 {{IPAfont|⟨upe<sub>2</sub>⟩}} → {{IPAchar|/upe/}} → {{IPAchar|/ufe/}} → {{IPAchar|/uwe/}} → {{IPAchar|/ue/}}
 
 From {{inh|ja|ojp|sort=うえ|-}}, from {{inh|ja|jpx-pro|*upay}}.
 
-Bound [[apophony|apophonic]] form of ''uwa'', ancient ''upa'' (see below), possibly by fusion with an empathic particle {{m|ja|い|tr=i}}.
+Bound [[apophony|apophonic]] form of ''uwa'', ancient ''upa'' (see below), possibly by fusion with an [[emphatic]] [[nominal]] particle {{m|ja|い|tr=i}}.
 
 ====Pronunciation====
-{{ja-pron|y=k|うえ|acc=0|acc_ref=DJR,SMK2,NHK|audio=Ja-ue.ogg}}
+{{ja-pron|yomi=k|うえ|acc=0|acc_ref=DJR,SMK2,NHK|audio=Ja-ue.ogg}}
 
 ====Noun====
 {{ja-noun|うえ|hhira=うへ}}
@@ -294,10 +295,13 @@ Bound [[apophony|apophonic]] form of ''uwa'', ancient ''upa'' (see below), possi
 # {{surname|lang=ja|sort=うえ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|うわ|yomi=k}}
+{{ja-kanjitab|yomi=k|うわ}}
 {{IPAchar|/upa/}} → {{IPAchar|/ufa/}} → {{IPAchar|/uwa/}}
 
 From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*upa}}. The combining form of ''ue'', ancient ''upe'' (see above).<ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うわ}}
 
 ====Noun====
 {{ja-noun|うわ|hhira=うは}}
@@ -339,11 +343,16 @@ From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*upa}}. The combining form of ''ue'
 # ''a [[place name]]''
 
 ===Etymology 3===
-{{ja-kanjitab|へ|yomi=k}}
-{{ja-kanjitab|え|yomi=irr}}
-{{IPAfont|⟨upe<sub>1</sub>⟩}} → *{{IPAchar|/ipe/}} → {{IPAfont|⟨pe<sub>1</sub>⟩}} → *{{IPAchar|/pʷe/}} → {{IPAchar|/fe/}} → {{IPAchar|/he/}}
+{{ja-kanjitab|yomi=k|へ}}
+{{ja-kanjitab|yomi=irr|え}}
+
+{{IPAfont|⟨upe<sub>2</sub>⟩}} → {{IPAfont|⟨pe<sub>2</sub>⟩}} → *{{IPAchar|/pe/}} → {{IPAchar|/fe/}} → {{IPAchar|/he/}}
 
 Short-form of or shift from ''ue'', ancient ''upe'' (see above). Realized as ''-e'' in some compounds.
+
+====Pronunciation====
+{{ja-pron|yomi=k|へ}}
+{{ja-pron|yomi=irr|え}}
 
 =====Usage notes=====
 The senses are the same with ''ue''.
@@ -445,13 +454,14 @@ Generally only found when followed by the [[genitive]] / [[possessive]] particle
 # ''a [[place name]]''
 
 ===Etymology 6===
-{{ja-kanjitab|じょう|yomi=k}}
+{{ja-kanjitab|yomi=goon|じょう}}
+
 {{IPAchar|/d͡ʑɨau/}} → {{IPAchar|/d͡ʑɔː/}} → {{IPAchar|/d͡ʑoː/}}
 
 From {{der|ja|ltc|sort=しよう'|-}} {{ltc-l|上}}.
 
 ====Pronunciation====
-{{ja-pron|y=go|じょう|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=go|じょう|acc=1|acc_ref=DJR}}
 * Pitch accent for suffix unknown.
 
 ====Noun====
