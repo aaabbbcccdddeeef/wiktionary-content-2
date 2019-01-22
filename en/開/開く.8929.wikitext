@@ -3,8 +3,11 @@
 ===Etymology 1===
 {{ja-kanjitab|あ|sort=あく|yomi=kun}}
 
+{{l-self|ja|開く|{{#invoke:ja|show_ruby|無能|むのう}}}}
+
 ====Verb====
 {{ja-verb|type=1|tr=intrans|あく}}
+{{ja-vp|開ける|開く|あける|あく}}
 
 # to [[open]]
 #: {{ja-usex|彼女のシャツに小さな穴が'''開いています'''。|かのじょ の シャツ に ちいさな あな が '''あいています'''。|There is a small hole on her shirt.|lit=A small hole is '''opening''' on her shirt.}}
@@ -15,12 +18,14 @@
 * The passive, causative, and volitional forms are never used.
 
 {{ja-go-ku|あ}}
+{{ja-conj-bungo|あ|4-k}}
 
 ===Etymology 2===
 {{ja-kanjitab|ひら|sort=ひらく|yomi=kun}}
 
 ====Verb====
 {{ja-verb|type=1|tr=both|ひらく}}
+{{ja-vp|開く|開ける|ひらく|ひらける}}
 
 # to [[open]], [[lift]], [[uncover]], [[unpack]]
 #: 何'''が'''開く。
@@ -36,6 +41,7 @@
 
 =====Conjugation=====
 {{ja-go-ku|ひら}}
+{{ja-conj-bungo|ひら|4-k}}
 
 =====Synonyms=====
 * {{ja-r|開ける|あける}}: to [[open]]
