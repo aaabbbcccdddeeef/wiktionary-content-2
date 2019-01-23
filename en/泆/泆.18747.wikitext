@@ -4,33 +4,52 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=05|sn=8|four=35130|canj=EHQO|ids=⿰氵失}}
 
-# [[licentious]], [[libertine]], [[dissipated]]
-
 ====References====
-* {{Han ref|kx=0615.090|dkj=17271|dj=1009.070|hdz=31587.070|uh=6CC6|ud=27846|bh=CCFC|bd=52476}}
+{{Han ref|kx=0615.090|dkj=17271|dj=1009.070|hdz=31587.070|uh=6CC6}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=浂}}
 
-===Pronunciation===
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|失|alt1=氵|c1=s|c2=p|t1=water|ls=psc}}
+
+===Pronunciation 1===
 {{zh-pron
-|m=yì,dié
+|m=yì
 |c=jat6
-|mn=e̍k/tia̍t
-|mc=y
+|mn=e̍k
+|mc=1
 |oc=y
 |ma=
-|cat=a
+|cat=v,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{lb|zh|of water}} to [[gush]] [[suddenly]] and [[overflow#Verb|overflow]]
+# [[licentious]]; [[libertine]]
+#: {{zh-syn|放蕩}}
 
-{{zh-attn-split}}
+====Compounds====
+{{zh-der|驕奢淫泆}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=dié
+|c=
+|mn=tia̍t
+|mc=2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|泆蕩}}
 
 ----
 
@@ -39,31 +58,38 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水05}}
 
-# [[licentious]], [[libertine]]
-# [[dissipate]]
+# [[licentious]]; [[libertine]]
+# to [[dissipate]]
 
 ====Readings====
 {{ja-readings
 |goon=いち
 |kanon=いつ
-|kun=あふ-れる}}
+|kun=あふ-れる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=일|eumhun=|rv=il|mr=il|y=il}}
+{{ko-hanja/new|일}}
 
-# [[licentious]]
-# [[libertine]]
-# [[dissipate]]
+# {{defn|lang=ko|sort=水05}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水05|hanviet=dật}}
+{{vi-readings|rs=水05
+|hanviet=dật-gdhn;bonet
+|phienthiet=弋質 dặc chất
+|nom=giạt-tdcndg;bonet;genibrel;taberd, dật-gdhn;bonet;genibrel, giặt-gdhn;genibrel;taberd, thét-tdcntd
+}}
 
-# {{defn|lang=vi|sort=水05}}
+# {{Nom form of|giạt}}
+# {{Nom form of|giặt|to [[wash]] [[clothes]] or [[fabric]]}}
+
+===References===
+<references/>
