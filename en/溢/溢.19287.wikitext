@@ -5,16 +5,16 @@
 {{Han char|rn=85|rad=水|as=10|sn=13|four=38117|canj=ETCT|ids=⿰氵益}}
 
 ====References====
-* {{Han ref|kx=0640.060|dkj=17951|dj=1047.040|hdz=31707.050|uh=6EA2|ud=28322|bh=B7B8|bd=47032}}
+{{Han ref|kx=0640.060|dkj=17951|dj=1047.040|hdz=31707.050|uh=6EA2}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㳑,洫,𭂚}}
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|水|alt1=氵|t1=water|益|ls=psc|c1=s|c2=p}} – an overflowing liquid, water. 益 also has sense of “increase”, hence connotation of “increase to point of overflowing”.
+{{Han compound|水|alt1=氵|t1=water|益|ls=psc|c1=s|c2=p}} – an overflowing liquid, water. {{zh-l|益}} also has sense of “to increase”, hence connotation of “increase to point of overflowing”.
 
 ===Pronunciation===
 {{zh-pron
@@ -30,8 +30,8 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# to [[overflow]]; to [[brim over]]
-# {{†}} to [[flood]]
+# to [[overflow#Verb|overflow]]; to [[brim over]]
+# {{†}} to [[flood#Verb|flood]]
 # {{†}} to be [[full]] of; to be [[brimming]] with
 # [[excessive]]; [[excessive]]ly
 # {{†}} to [[exceed]]
@@ -49,7 +49,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水10}}
 
-# [[overflow]]
+# to [[overflow#Verb|overflow]]
 
 ====Readings====
 {{ja-readings
@@ -57,23 +57,39 @@
 |kun=あふ-れる, み-ちる
 }}
 
+====Compounds====
+{{top3|Compounds}}
+* {{ja-r|溢%血|いっ%けつ|[[hemorrhage]]}}
+* {{ja-r|充%溢|じゅう%いつ}}
+* {{ja-r|咲き溢れる|さきこぼれる}}
+{{bottom}}
+
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[일]]|eumhun=|rv=il|mr=il|y=il}}
+{{ko-hanja/new|일}}
 
 # {{defn|lang=ko|sort=水10}}
 
 ====Compounds====
-* [[海溢]] ([[해일]])
+{{top3|Compounds}}
+* {{ko-l|해일|海溢}}
+{{bottom}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[dật]], [[ải]]|rs=水10}}
+{{vi-readings|rs=水10
+|hanviet=dật-gdhn;bonet
+|phienthiet=弋質 dặc chất
+|nom=dật-gdhn;bonet;genibrel, ải-gdhn
+}}
 
 # {{defn|lang=vi|sort=水10}}
+
+===References===
+<references/>
