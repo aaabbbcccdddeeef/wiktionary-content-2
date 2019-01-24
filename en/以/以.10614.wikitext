@@ -120,9 +120,9 @@ From {{der|ja|ltc|-|sort=い}} {{ltc-l|以}}
 {{ja-pos|prefix|い}}
 
 # from (this reference point) and (more)
-#:{{ja-usex|'''以'''後|'''い'''ご|from now on}}
-#:{{ja-usex|その '''以'''後|その '''い'''ご|from then on; since then}}
-#:{{ja-usex|この日'''以'''後|この ひ '''い'''ご|from this day on; ever since this day}}
+#:{{ja-usex-inline|'''以'''後|'''い'''ご|from now on}}
+#:{{ja-usex-inline|その '''以'''後|その '''い'''ご|from then on; since then}}
+#:{{ja-usex-inline|この日'''以'''後|この ひ '''い'''ご|from this day on; ever since this day}}
 #*{{quote-book|||{{lj|[ＳＴＡＲＴＥＲ](スターター) [ＤＥＣＫ](デッキ)}}|||{{ja-usex|「ジャンク・シンクロン」＋チューナー'''以'''外のモンスター１%体'''以'''上|「ジャンク・シンクロン」＋チューナー'''い'''がいのモンスター１%たい'''い'''じょう|“Junk Synchron” + 1 or more non-Tuner monsters|rom=“Janku Shinkuron” + Chūnā '''i'''gai no monsutā ittai '''i'''jō}}|chapter={{lang|ja|ジャンク・ウォリアー}}|trans-chapter=Junk Warrior|date=Mar 15 2008|publisher={{w|Konami}}}}
 #*{{quote-book||
 |{{lj|[ＳＴＡＲＴＥＲ](スターター) [ＤＥＣＫ](デッキ)}}
@@ -131,6 +131,8 @@ From {{der|ja|ltc|-|sort=い}} {{ltc-l|以}}
 |trans-chapter=Link Spider
 |publisher={{w|Konami}}
 |date=Mar 25 2017}}
+# [[by]], [[with]], by [[means]] of
+#: {{syn|ja|…を[[もって]]|tr1=… o motte}}
 
 ====Usage notes====
 * An expression prefixed with {{lang|ja|以}} means "from this reference point, and more". It can only be translated upon contexts. The reference point can be understood as "now", "here", "this", or aforementioned.
