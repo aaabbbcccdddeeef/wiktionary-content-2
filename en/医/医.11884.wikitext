@@ -54,9 +54,6 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=匸05|kyu=醫}}
 
-# [[doctor]]
-# [[medicine]], the healing arts
-
 ====Readings====
 {{ja-readings
 |goon=い
@@ -64,7 +61,26 @@
 |kun=い-やす, くすし-
 }}
 
-====Compounds====
+===Etymology===
+{{ja-kanjitab|い|yomi=o}}
+From {{der|ja|ltc|sort=い|-}} {{ltc-l|醫}}.
+
+===Pronunciation===
+{{ja-pron|い|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|い}}
+
+# [[doctor]]; [[physician]]; [[medicine]]
+
+===Affix===
+{{ja-pos|affix|い}}
+
+# [[doctor]]
+# [[medicine]], the healing arts
+
+====Derived terms====
+{{der-top|medicine, the healing arts}}
 * {{ja-r|医%院|い%いん}}
 * {{ja-r|医%学|い%がく}}
 * {{ja-r|医%師|い%し}}
@@ -72,16 +88,21 @@
 * {{ja-r|医%術|い%じゅつ}}
 * {{ja-r|医%薬|い%やく}}
 * {{ja-r|医%療|い%りょう}}
+{{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|い|yomi=o}}
+{{der-top|doctor}}
+* {{ja-r|軍%医|ぐん%い}}
+* {{ja-r|校%医|こう%い}}
+* {{ja-r|侍%医|じ%い}}
+* {{ja-r|獣%医|じゅう%い}}
+* {{ja-r|女%医|じょ%い}}
+* {{ja-r|典%医|てん%い}}
+* {{ja-r|名%医|めい%い}}
+* {{ja-r|歯%科%医|し%か%い}}
+{{der-bottom}}
 
-From {{etyl|zhx|ja}}.
-
-====Noun====
-{{ja-noun|い}}
-
-# medicine (vocation), healing, doctor, cure {{attention|ja|what???? --07:14, 29 May 2016 (UTC)}}
+===References===
+<references/>
 
 ----
 
