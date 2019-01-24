@@ -68,8 +68,6 @@ This character is not to be confused with visually similar but unrelated {{l|mul
 ===Kanji===
 {{ja-kanji|grade=8|rs=己00}}
 
-# {{defn|lang=ja|sort=己00}}
-
 ====Readings====
 {{ja-readings
 |goon=い
@@ -78,7 +76,17 @@ This character is not to be confused with visually similar but unrelated {{l|mul
 |nanori=み
 }}
 
-====Compounds====
+===Etymology===
+{{ja-kanjitab|い|yomi=o}}
+From {{der|ja|ltc|sort=あ|-}} {{ltc-l|已}}.
+
+===Affix===
+{{ja-pos|affix|い}}
+
+# [[already]]
+# {{alternative form of|以|lang=ja|tr=i}}
+
+====Derived terms====
 May be replaced with 以 in some compounds, eg. 已降→以降.
 
 {{der-top|Compounds}}
