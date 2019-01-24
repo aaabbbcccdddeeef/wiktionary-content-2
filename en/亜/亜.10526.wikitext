@@ -98,25 +98,30 @@
 }}
 
 ====Usage notes====
-* [[新字体]] ([[shinjitai]]) new form character
 * Also used phonetically for あ (a)
 
+===Etymology===
 {{ja-kanjitab|あ|yomi=kanon}}
+From {{der|ja|ltc|sort=あん|-}} {{ltc-l|亞}}.
 
-===Affix===
-{{ja-pos|affix|あ}}
-
-# [[rank]] [[next]]; [[come]] [[after]]
-# {{n-g|Used in transliterations of names.}}
-# {{short for|lang=ja|亜細亜|tr=Asia|sort=あしあ}}
+The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ===Prefix===
 {{ja-pos|prefix|あ}}
 
-# [[sub-]]
 # {{lb|ja|chemistry|sort=あ}} [[-ous]] {{gloss|indicates a lower oxidation number}}
+#: {{ja-usex-inline|'''亜'''硫%酸|'''あ'''りゅう%さん|sulfur'''ous''' acid}}
 
-====Usage notes====
-* {{m|ja|亜}} is put '''before''' a word in the sense of the [[-ous]] suffix.
+====See also====
+* {{ja-r|次%亜|じ%あ-}}
+
+===Affix===
+{{ja-pos|affix|あ}}
+
+# [[rank]]ing [[next]]; [[come|coming]] [[after]]; [[sub-]]
+#: {{ja-usex-inline|'''亜'''種|'''あ'''しゅ|'''sub'''species}}
+#: {{ja-usex-inline|'''亜'''熱%帯|'''あ'''ねっ%たい|'''sub'''tropics}}
+# {{n-g|Used as a phonetic element in transliterations.}}
+# {{short for|lang=ja|亜細亜||[[Asia]]|tr=Asia|sort=あしあ}}
 
 [[Category:ja:Taxonomy]]
