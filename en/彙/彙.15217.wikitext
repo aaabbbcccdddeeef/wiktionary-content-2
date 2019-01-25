@@ -49,8 +49,6 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=彐10}}
 
-# to [[sort]] and [[collect]]; [[collection]], [[compilation]], [[group]]
-
 ====Readings====
 {{ja-readings
 |goon=い<ゐ
@@ -58,11 +56,30 @@
 |kun=はりねずみ-, あつ-める, たぐい-
 }}
 
-====Compounds====
+===Etymology 1===
+{{ja-kanjitab|い|yomi=on}}
+{{IPAchar|/wi/}} → {{IPAchar|/i/}}
+
+From {{der|ja|ltc|sort=い|-}} {{ltc-l|彙}}.
+
+====Pronunciation====
+{{ja-pron|い|y=on}}
+
+====Affix====
+{{ja-pos|affix|い|hhira=ゐ}}
+
+# to [[sort]] and [[collect]]; [[collection]], [[compilation]], [[group]]
+
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|語彙|ごい}}
 * {{ja-r|彙報|いほう}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 2===
+{{ja-kanjitab|はりねずみ}}
+
+====Noun====
 {{ja-noun|はりねずみ|ハリネズミ}}
 
 # {{altspell|針鼠|lang=ja||[[hedgehog]]}}
