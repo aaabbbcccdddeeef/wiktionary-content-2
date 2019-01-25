@@ -69,15 +69,51 @@ In Japanese {{w|kanji}}, the bottom component of {{l|mul|韋}} is written <font 
 
 ====Readings====
 {{ja-readings
-|on=い<ゐ
+|goon=い<ゐ
+|kanon=い<ゐ
 |kun=えら-い, ひいでる, すぐ-れる
 }}
 
-====Compounds====
+===Etymology 1===
+{{ja-kanjitab|い|yomi=on}}
+{{IPAchar|/wi/}} → {{IPAchar|/i/}}
+
+From {{der|ja|ltc|sort=|-}} {{ltc-l|偉}}.
+
+====Pronunciation====
+{{ja-pron|い|acc=1|acc_ref=DJR|y=on}}
+
+====Noun====
+{{ja-noun|い|hhira=ゐ}}
+
+# {{lb|ja|literary}} [[greatness]]
+
+====Adjective====
+{{ja-adj|い|hhira=ゐ|infl=na}}
+
+# {{lb|ja|literary}} [[great]]
+
+=====Inflection=====
+{{ja-na|い}}
+
+====Affix====
+{{ja-pos|affix|い|hhira=ゐ}}
+
+# [[great]], [[excellent]], [[magnificent]], [[extraordinary]]
+
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|偉%業|い%ぎょう}}
 * {{ja-r|偉%才|い%さい}}
 * {{ja-r|偉%人|い%じん}}
 * {{ja-r|偉%大|い%だい}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|えら|yomi=k}}
+{{ja-see|えら}}
+===References===
+<references/>
 
 ----
 
