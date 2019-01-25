@@ -13,7 +13,7 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=帇,𤴗}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -39,13 +39,10 @@
 |cat=pn
 }}
 
-====Proper noun====
-{{zh-proper noun}}
+====Definitions====
+{{zh-hanzi}}
 
 # {{surname|lang=zh}}
-
-===References===
-* [http://www.chinese-tools.com/tools/sinograms.html?q=%E7%96%8C 疌] at [http://www.chinese-tools.com Chinese Tools]
 
 ----
 
@@ -54,16 +51,18 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=疋03}}
 
-# ''same as'' [[捷]]
+# {{alt-form|lang=ja|捷}}
 
 ====Readings====
-* {{ja-readings|on=[[しょう]] (shō), [[そう]] (sō)}}
+{{ja-readings
+|on=しょう, そう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=섭|eumhun=|rv=seop|mr=sŏp|y=sep}}
+{{ko-hanja/new|섭}}
 
-# ''same as'' [[捷]]
+# {{hanja form of|섭|{{alt-form|lang=ko|捷}}}}
