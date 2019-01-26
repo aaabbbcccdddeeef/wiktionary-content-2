@@ -25,25 +25,198 @@ Unorthodox variant of {{l|mul|齋}}.
 ===Kanji===
 {{ja-kanji|grade=c|rs=文07|kyu=齋}}
 
+# [[cleansing]], [[purification]]
+# [[Buddhist]] [[service]]
+# [[room]]
+
 ====Readings====
 {{ja-readings
-|on=さい
-|kun=ものいみ-, つつし-む, いつ-く, とき-
+|goon=せい
+|kanon=さい
+|kun=いつき-, いつ-く, いみ-, いもい-<いもひ-, いわい-<いはひ-, つつし-む, とき-, ものいみ-
+|nanori=いつ, きよ, ただ, ひとし, よし
 }}
 
-===Noun===
-{{ja-noun|とき}}
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|斎%王|さい%おう}}
+* {{ja-r|斎%戒|さい%かい}}
+* {{ja-r|斎%宮|さい%ぐう}}
+* {{ja-r|斎%食|さい%じき}}
+* {{ja-r|斎%主|さい%しゅ}}
+* {{ja-r|斎%女|さい%じょ}}
+* {{ja-r|斎%場|さい%じょう|[[funeral]] [[hall]]}}
+* {{ja-r|潔%斎|けっ%さい}}
+* {{ja-r|山%斎|さん%さい}}
+* {{ja-r|書%斎|しょ%さい|[[reading]] [[room]], [[study]] [[room]]}}
+* {{ja-r|斎場|さにわ}}
+{{der-bottom}}
 
-# [[meal]]s exchanged between [[priest]]s and [[parishioner]]s
+===Etymology 1===
+{{ja-kanjitab|yomi=kanon|さい}}
 
-{{ja-noun|いみ}}
+From {{bor|ja|ltc|sort=さい|-}} {{ltc-l|齋}}.
 
-# {{alternative form of|忌み|lang=ja}}
+====Pronunciation====
+{{ja-pron|y=ko|さい|acc=1|acc_ref=DJR}}
 
-{{ja-noun|いわい}}
+====Noun====
+{{ja-noun|kyu=齋|さい}}
 
-# {{alternative form of|祝い|lang=ja}}
+# {{lb|ja|Buddhism}} {{rfdef|ja}}
 
-===Compounds===
-* {{ja-r|書斎|しょさい}}: [[reading]] [[room]], [[study]] [[room]]
-* {{ja-r|斎場|さいじょう}}: [[funeral]] hall
+====Suffix====
+{{ja-pos|suffix|kyu=齋|さい}}
+
+# {{rfdef|ja}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=齋|さい}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|とき}}
+Extension of {{m|ja|時|tr=toki||[[hour]], [[time]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|とき|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=齋|とき}}
+
+# {{lb|ja|sort=とき|Buddhism}} [[meal]]s [[exchange]]d between [[priest]]s and [[parishioner]]s
+# {{lb|ja|Buddhism}} {{rfdef|ja|sort=とき}}
+
+=====Derived terms=====
+* {{ja-r|お斎|おとき|rom=-}}, {{ja-r|御%斎|お%とき}}
+* {{ja-r|斎%日|とき%び}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=齋|とき}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=とき}}
+# {{surname|lang=ja|A=a|nodot=1|sort=とき}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|いつき}}
+
+From {{inh|ja|ojp|sort=い|-}}.
+
+[[nominalization|Nominalization]] of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|斎く|tr=itsuku||to [[worship]]}}.
+
+====Alternative forms====
+* {{ja-l|傅}}, {{ja-l|寵}}
+
+====Noun====
+{{ja-noun|kyu=齋|いつき}}
+
+# {{lb|ja|Shinto|sort=いつき}} [[sacred]] [[ground]]
+#* {{RQ:Nihongi|poem 60}}
+#*: {{ja-usex|m=破夜歩佐波 阿梅珥能朋利 等弭箇既梨 '''伊莵岐'''餓宇倍能 娑奘岐等羅佐泥|m_kana=はやぶさは あめにのぼり とびかけり '''いつき'''がうへの さざきとらさね
+|隼は天にのぼり飛びかけり'''いつき'''が上の鷦鷯とらさね
+|はやぶさ は あめ に のぼり とびかけり '''いつき''' が うへ の さざき とらさね|rom=hayabusa wa ame ni nobori tobikakeri '''itsuki''' ga ue no sazaki torasane}}
+# {{lb|ja|Shinto}} {{short for|lang=ja|斎皇女|tr=itsuki no miko|nodot=1|sort=いつき}}: {{rfdef|ja}}
+
+=====Derived terms=====
+* {{ja-r|斎%子|いつき%こ}}
+* {{ja-r|斎%皇女|いつき の% みこ|rom=-}}, {{ja-r|斎%王|いつき の% みこ}}
+* {{ja-r|斎%宮|いつき の% みや}}
+* {{ja-r|斎%女|いつき%め}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=齋|いつき}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|い}}
+
+From {{inh|ja|ojp|-}}.
+
+====Prefix====
+{{ja-pos|prefix|い}}
+
+# {{lb|ja|Shinto}} [[holy]], [[pure]], [[sacred]]
+
+=====Derived terms=====
+* {{ja-r|斎%垣|い%がき}}
+* {{ja-r|斎う|いも.う}}
+* {{ja-r|斎おる|いも.おる}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|いみ}}
+
+====Noun====
+{{ja-noun|kyu=齋|いみ}}
+
+# {{altspell|lang=ja|忌み|tr=imi}}: {{rfdef|ja}}
+
+=====Derived terms=====
+* {{ja-r|斎%斧|いみ%おの}}
+* {{ja-r|斎%子|いみ%こ}}
+* {{ja-r|斎%宮|いみ%みや}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|いむ}}
+
+Shift from ''imi'' above.<ref name="DJR"/>
+
+====Noun====
+{{ja-noun|kyu=齋|いむ}}
+
+# ''Same as'' {{m|ja||いみ|tr=imi}} ''above''
+
+=====Derived terms=====
+* {{ja-r|斎%斧|いむ%おの}}
+* {{ja-r|斎%子|いむ%こ}}, {{ja-r|斎子|いんこ}}
+
+===Etymology 7===
+{{ja-kanjitab|yomi=k|いわい}}
+
+====Noun====
+{{ja-noun|kyu=齋|いわい|hhira=いはひ}}
+
+# {{altspell|lang=ja|祝い}}: {{rfdef|ja}}
+
+=====Derived terms=====
+* {{ja-r|斎%斧|いわい%おの}}
+* {{ja-r|斎%宮|いわい の% みや}}
+* {{ja-r|斎%主|いわい%ぬし}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=齋|いわい|hhira=いはひ}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 8===
+{{ja-kanjitab|yomi=irr}}
+
+From {{inh|ja|ojp|-}}.
+
+====Noun====
+{{ja-noun|kyu=齋|ゆ}}
+
+# {{lb|ja|Shinto}} [[holy]], [[pure]], [[sacred]]
+
+=====Derived terms=====
+* {{ja-r|齋つ|ゆつ}}
+* {{ja-r|斎%庭|ゆ%にわ}}
+* {{ja-r|齋う|ゆまう}}
+* {{ja-r|齋わる|ゆまわる}}
+
+===Etymology 9===
+{{ja-kanjitab|ひとし|yomi=n}}
+
+[[nominalization|Nominalization]] of classical adjective {{m|ja|等し|tr=hitoshi}}, modern {{m|ja|等しい|tr=hitoshii||[[equal]], [[same]]}}.
+
+====Proper noun====
+{{ja-pos|proper|kyu=齋|ひとし}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+# {{given name|male|lang=ja|A=a|nodot=1|sort=ひとし}}
+
+===References===
+<references/>
