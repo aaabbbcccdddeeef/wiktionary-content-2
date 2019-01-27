@@ -4,16 +4,20 @@
 ===Han character===
 {{Han char|rn=96|rad=玉|as=04|sn=8|four=18140|canj=MGOK,XMGOK|ids=⿰𤣩攵}}
 
+====Derived characters====
+* {{l|mul|[[𡝺]], [[𭗓]], [[𡻶]]}}
+
 ====References====
-* {{Han ref|kx=0728.170|dkj=20874|dj=1140.160|hdz=21104.080|uh=73AB|ud=29611|bh=AAB4|bd=43700}}
+{{Han ref|kx=0728.170|dkj=20874|dj=1140.160|hdz=21104.080|uh=73AB}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=玟,㺳,𭸷,珻}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|玉|文|alt1=𤣩|t1=jade|c1=s|c2=p|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -27,16 +31,18 @@
 |w=3me
 |mc=y
 |oc=y
-|cat=
+|cat=n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# a kind of fine stone
+# type of [[gemstone]]
 #: {{zh-x|歷 玫階 而 升隩，訪 金壺 之 盈闕。|ref=南朝·宋·鮑照《觀漏賦》}}
+# {{zh-used|玫瑰|[[rose]]}}
+
 ===Compounds===
-{{zh-der|白玫瑰|紅玫瑰|玫瑰餅|玫瑰花|玫瑰露酒|玫瑰露|玫瑰色|玫瑰樹|玫瑰罋|玫瑰紫|玫瑰柱|玫瑰糠疹|玫瑰紅|迷你玫瑰|玫瑰戰爭|玫瑰油|玫瑰精|風玫瑰圖|玫瑰灣}}
+{{zh-der|玫瑰|白玫瑰|紅玫瑰|玫瑰餅|玫瑰花|玫瑰露酒|玫瑰露|玫瑰色|玫瑰樹|玫瑰罋|玫瑰紫|玫瑰柱|玫瑰糠疹|玫瑰紅|迷你玫瑰|玫瑰戰爭|玫瑰油|玫瑰精|風玫瑰圖|玫瑰灣}}
 
 ----
 
@@ -48,17 +54,18 @@
 # {{defn|lang=ja|sort=玉04}}
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=まい
 |kanon=ばい
-|kun=}}
+|kun=
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+{{ko-hanja/new|매}}
 
 # {{defn|lang=ko|sort=玉04}}
 
@@ -67,6 +74,13 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[mân]], [[mai]]|rs=玉04}}
+{{vi-readings|rs=玉04
+|hanviet=mai-gdhn;bonet, mân-gdhn, môi-genibrel
+|phienthiet= , ,莫桮 mạc bôi
+|nom=môi-bonet
+}}
 
 # {{defn|lang=vi|sort=玉04}}
+
+===References===
+<references/>
