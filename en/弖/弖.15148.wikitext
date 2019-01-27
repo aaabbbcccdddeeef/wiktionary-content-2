@@ -5,7 +5,7 @@
 ===Han character===
 {{Han char|rn=57|rad=弓|as=01|sn=4|four=|canj=NM,XNM|ids=⿱弓一}}
 
-# {{qualifier|Japanese}} [[phonetic]] for 'te'
+# {{qualifier|Japanese}} [[phonetic]] for {{ja-r|て}}
 
 ====References====
 * {{Han ref|kx=0356.121|dkj=09703|hdz=20988.030|uh=5F16|ud=24342}}
@@ -13,23 +13,26 @@
 ----
 
 ==Japanese==
+
 ===Glyph origin===
+{{ja-etym-kokuji}} which been hypothesized to have been invented in {{w|Goguryeo}}. Earliest usage example appeared as {{m|ko||幹弖利城}}, a name of the fortress in the {{w|Gwanggaeto Stele}}, erected in 414.
 
+As the first example in Japan, appeared as {{m|ja||弖已加利獲居|tr={{IPAfont|⟨teyo<sub>2</sub>kariwake<sub>2</sub>⟩}} → Teyokariwake}} and {{m|ja||半弖比|tr={{IPAfont|⟨patepi<sub>1</sub>⟩}} → Hatehi}}, names of ancestors of the local ruler in the {{w|Inariyama Sword|Inariyama burial-mound sword}}, 471.
 
-{{ja-etym-kokuji}} which been hypothesized to have been invented in Goguryeo. Earliest usage example appeared as "幹弖利城", a name of the fortress in the ''{{w|Gwanggaeto Stele}}'', erected in 414.
-As the first example in Japan, appeared as "弖已加利獲居 (''Teyokariwake'' < ''Teyo<sub>2</sub>kariwake<sub>2</sub>'')" and "半弖比 (''Hatehi'' < ''Patepi<sub>1</sub>'')", names of ancestors of the local ruler in the ''{{w|Inariyama Sword|Inariyama burial-mound sword}}'', 471.
-
-According to one theory, this is a variant form of [[氐]].
+According to one theory, this is a variant form of {{ja-l|氐}}, also used as a {{m|ja|借音|tr=shakuon}} ''[[kana]]'' for {{IPAfont|⟨te⟩}}.
 
 ===Kanji===
 {{ja-kanji|grade=|rs=弓01}}
 
-# Used phonetically for "te"
+# {{n-g|{{m|ja|借音|tr=shakuon}} [[kana]] for {{IPAfont|⟨te⟩}}}}
 
 ====Readings====
-* {{ja-readings|on=|kun=[[て]] (te)}}
+{{ja-readings
+|kun=て-
+}}
 
 ====Compounds====
+* {{ja-r|弖爾波|てには}}
 * {{ja-r|弖爾乎波|てにをは}}
 
 ----
