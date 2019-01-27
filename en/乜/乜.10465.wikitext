@@ -5,6 +5,9 @@
 ===Han character===
 {{Han char|rn=5|rad=乙|as=01|sn=2|four=47712|canj=PN,PS,XPN|ids=⿻乛乚,⿻𠃌乚}}
 
+====Derived characters====
+* {{l|mul|[[𭑫]], [[𦘮]], [[𭴂]], [[𤘗]], [[𮓲]], [[𠬫]]}}
+
 ====References====
 {{Han ref|kx=0083.180|dkj=00166|dj=0168.010|hdz=10049.090|uh=4E5C}}
 
@@ -12,6 +15,9 @@
 
 ==Chinese==
 {{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
 
 ===Pronunciation 1===
 {{zh-pron
@@ -53,12 +59,13 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# to narrow one's eyes and squint
+# to [[narrow#Verb|narrow]] one's [[eyes]] and [[squint]]
 
-=====Compounds=====
+====Compounds====
 {{zh-der|乜乜屑屑|乜乜斜斜|乜乜踅踅|乜斜|乜斜眼|乜斜纏帳}}
 
 ===Pronunciation 3===
+{{zh-wp|zh:乜姓}}
 {{zh-pron
 |m=Niè
 |c=ne6
@@ -69,7 +76,7 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{surname|lang=zh|dot=,}} listed 126th in the ''{{w|Baijiaxing}}''.
+# {{surname|lang=zh|dot=,}} listed 126th in the ''[[w:Baijiaxing|Baijiaxing]]''.
 
 ----
 
@@ -78,7 +85,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=乙01}}
 
-# [[squint]]
+# to [[squint]]
 
 ====Readings====
 {{ja-readings
@@ -92,7 +99,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=먀|rv=mya|mr=mya}}
+{{ko-hanja/new|먀}}
 
 # {{defn|lang=ko|sort=乙01}}
 
@@ -101,12 +108,11 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=乙01|hanviet=mã, niết, niệt, khiết, mễ|nom=khiết, mã}}
+{{vi-readings|rs=乙01
+|hanviet=khiết-gdhn
+}}
 
 # {{defn|lang=vi|sort=乙01}}
 
 ===References===
-* {{R:WinVNKey:Lê Sơn Thanh}}
-* [http://nomfoundation.org/common/nom_details.php?codepoint=4e5c Nom Foundation]
-
-{{cln|vi|Han tu}}
+<references/>
