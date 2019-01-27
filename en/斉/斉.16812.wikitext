@@ -30,17 +30,44 @@ Unrelated to {{m|mul|文}}, but currently classified under that radical.
 ===Kanji===
 {{ja-kanji|grade=c|rs=文04|kyu=齊}}
 
-# To match
-# To equalize
-# Equal
+# [[equal]], [[match]]
+# {{w|Qi (state)|Qi}}
 
 ====Readings====
 {{ja-readings
 |goon=ざい, し
 |kanon=せい, し
 |kanyoon=さい
-|kun=そろ-う, そろ-える, ととの-う, ひと-し.い
-|nanori=まさ
+|kun=そろ-う<そろ-ふ, そろ-える<そろ-へる, ととの-う<ととの-ふ, ととの-える<ととの-へる, ひと-し.い
+|nanori=きよ, ただ, ただし, とき, とし, なお<なほ, なり, ひさし, まさ, むね, よし 
 }}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|斉%一|せい%いつ}}
+* {{ja-r|斉%家|せい%か}}
+** {{ja-r|修身 斉%家|しゅうしん せい%か}}
+* {{ja-r|斉%唱|せい%しょう}}
+* {{ja-r|斉%整|せい%せい}}
+* {{ja-r|斉%東野人|せい%とうやじん}}
+* {{ja-r|一%斉|いっ%せい}}
+* {{ja-r|姜%斉|^きょう%せい}}
+* {{ja-r|均%斉|きん%せい}}
+* {{ja-r|整%斉|せい%せい}} 
+* {{ja-r|田%斉|^でん%せい}}
+* {{ja-r|南%斉|^なん%せい}}
+* {{ja-r|北%斉|^ほく%せい}}
+* {{ja-r|烏魯木斉|^ウルムチ}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=kanon|せい}}
+
+From {{bor|ja|ltc|sort=|-}} {{ltc-l|齊|id=1}}.
+
+====Proper noun====
+{{ja-pos|proper|kyu=齊|せい}}
+
+# {{lb|ja|sort=せい|historical}} a [[state]] in [[ancient]] China during the {{w|Zhou dynasty}}
 
 [[Category:CJKV radicals]]
