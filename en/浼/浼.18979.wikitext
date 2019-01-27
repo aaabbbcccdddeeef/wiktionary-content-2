@@ -4,17 +4,24 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=07|sn=10|four=37116|canj=ENAU|ids=⿰氵免}}
 
-# to [[request]]
-# to [[ask]] a [[favour]] of
-# to [[pollute]], [[contaminate]]
+# to [[request#Verb|request]]
+# to [[ask]] a [[favor]] of
+# to [[pollute]]; to [[contaminate]]
+
+====Derived characters====
+* {{l|mul|𩄬}}
 
 ====References====
-* {{Han ref|kx=0625.210|dkj=17510|dj=1027.070|hdz=31631.020|uh=6D7C|ud=28028|bh=D25A|bd=53850}}
+{{Han ref|kx=0625.210|dkj=17510|dj=1027.070|hdz=31631.020|uh=6D7C}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=凂}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|免|alt1=氵|t1=water|c1=s|c2=p|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -31,6 +38,9 @@
 
 # {{rfdef|lang=zh}}
 
+===Compounds===
+{{zh-der|央浼|央浼營幹|浼人親行|浼浼}}
+
 ----
 
 ==Japanese==
@@ -38,30 +48,34 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水07}}
 
-# to request
-# to ask a favour of
+# to [[request#Verb|request]]
+# to [[ask]] a [[favor]] of
 
 ====Readings====
-* {{ja-readings|on=[[ばい]] (bai), [[まい]] (mai), [[ばん]] (ban), [[まん]] (man)|kun=[[けがす]] (kegasu)}}
+{{ja-readings
+|on=ばい, まい, ばん, まん
+|kun=けがす
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+{{ko-hanja/new|매}}
 
-# [[besmirch]]
-# [[request]]
+# {{hanja form of|매|to [[besmirch]]; to [[request#Verb|request]]}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水07|hanviet=mỗi}}
+{{vi-readings|rs=水07
+|hanviet=mỗi-gdhn
+}}
 
 # {{defn|lang=vi|sort=水07}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=6d7c Nom Foundation]
+===References===
+<references/>
