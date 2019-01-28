@@ -60,8 +60,6 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=宀03}}
 
-# eaves
-
 ====Readings====
 {{ja-readings
 |goon=う
@@ -69,10 +67,32 @@
 |kun=のき-, いえ-
 }}
 
-====Compounds====
-* {{ja-r|屋%宇|おく%う}}: [[house]]
+===Etymology 1===
+{{ja-kanjitab|う|yomi=on}}
+From {{der|ja|ltc|sort=う|-}} {{ltc-l|宇}}.
 
-===Proper noun===
+====Pronunciation====
+{{ja-pron|う|y=on}}
+
+====Counter====
+{{ja-pos|counter|う}}
+
+# {{n-g|Counter for [[building]]s, [[roof]]s, etc.}}
+
+====Affix====
+{{ja-pos|affix|う}}
+
+# [[eaves]]; [[roof]]; [[house]]; [[building]]
+# the [[whole]] [[world]]; [[universe]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|宇%宙|う%ちゅう}}: [[universe]]; [[cosmos]]
+* {{ja-r|屋%宇|おく%う}}: [[house]]
+{{der-bottom}}
+
+===Etymology 2===
+====Proper noun====
 {{ja-pos|proper|さかい}}
 
 # {{given name|female|lang=ja|sort=さかい}}
