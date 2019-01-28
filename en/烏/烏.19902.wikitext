@@ -95,19 +95,9 @@
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|烏賊|いか}}: [[squid]], [[cuttlefish]]
-* {{ja-r|屋烏|おく.う}}: [[crow]] perching on a [[roof]]
-* {{ja-r|烏喙骨|うかいこつ}}: [[coracoid]] {{gloss|bone}}
-* {{ja-r|烏合|うごう}}
-* {{ja-r|烏口骨|うこうこつ}}: [[coracoid]] {{gloss|bone}}
-* {{ja-r|烏合の衆|うごう の しゅう}}: a [[rabble]], a [[mob]], a [[disorderly]] [[crowd]]
-* {{ja-r|烏骨鶏|うこっけい}}: [[silky]], [[silkie]] {{gloss|breed of chicken}}
-* {{ja-r|烏啄骨|うたくこつ}}: [[coracoid]] {{gloss|bone}}
 {{der-bottom}}
 
-===Alternative forms===
-* {{l|ja|鴉}} {{qualifier|less common}}
-
-===Etymology===
+===Etymology 1===
 <div style="float:right;">
 {{wikipedia|lang=ja}}
 {{wikipedia|Crow}}
@@ -117,23 +107,26 @@
 
 Compound of {{com|ja|sort=からす|から|tr1=kara|t1=caw|pos1=onomatopoeia, imitative of a crow's [[caw]]|す|tr2=su|t2=bird|pos2=ancient suffix appearing in certain bird names, possibly cognate with {{cog|ko|새||bird}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare the {{m|ja|す|tr=su}} in {{m|ja|鶯|tr=uguisu}}, {{m|ja|杜鵑|tr=hototogisu}}, {{m|ja|モズ|tr=mozu}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|からす|acc=1|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|からす|カラス}}
 
 # a [[crow]] or a [[raven]]
 
-====Usage notes====
+=====Alternative forms=====
+* {{l|ja|鴉}} {{qualifier|less common}}
+
+=====Usage notes=====
 This is the most common reading for this character when used in isolation in modern Japanese.
 
 {{U:ja:biology|カラス}}
 
-====Synonyms====
+=====Synonyms=====
 * {{ja-r|慈鳥|じちょう}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
 * {{ja-r|烏が鵜の真似|からす が う の まね}}
 * {{ja-r|烏座|^からすざ}}: the [[Corvus]] [[constellation]]
@@ -143,11 +136,41 @@ This is the most common reading for this character when used in isolation in mod
 * {{ja-r|渡烏|わたりがらす}}: [[common raven]]
 {{der-bottom}}
 
-===References===
-<references/>
-
 [[Category:Japanese basic words|からす]]
 [[Category:ja:Corvids|からす]]
+
+===Etymology 2===
+{{ja-kanjitab|う|yomi=goon}}
+From {{der|ja|ltc|sort=う|-}} {{ltc-l|烏}}.
+
+The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|う|y=goon}}
+
+====Affix====
+{{ja-pos|affix|う}}
+
+# [[crow]]; [[raven]]
+# [[black]]; [[dark]]
+# {{lb|ja|figuratively}} [[sun]]
+# {{n-g|A Chinese interrogative for [[rhetorical question]]s.}}
+#: {{ja-usex-inline|'''烏'''有|'''う'''ゆう|(literally “not-have”) nonexistence; nothing}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|屋%烏|おく%う}}: [[crow]] perching on a [[roof]]
+* {{ja-r|烏喙骨|うかいこつ}}: [[coracoid]] {{gloss|bone}}
+* {{ja-r|烏合|うごう}}
+* {{ja-r|烏口骨|うこうこつ}}: [[coracoid]] {{gloss|bone}}
+* {{ja-r|烏合の衆|うごう の しゅう}}: a [[rabble]], a [[mob]], a [[disorderly]] [[crowd]]
+* {{ja-r|烏骨鶏|うこっけい}}: [[silky]], [[silkie]] {{gloss|breed of chicken}}
+* {{ja-r|烏啄骨|うたくこつ}}: [[coracoid]] {{gloss|bone}}
+* {{ja-r|烏有|うゆう}}: [[nonexistence]], [[nothing]]
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
