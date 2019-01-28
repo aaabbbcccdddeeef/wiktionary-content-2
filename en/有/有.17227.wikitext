@@ -128,7 +128,7 @@ Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
 ====Readings====
 {{ja-readings
 |goon=う
-|kanon=ゆう
+|kanon=ゆう<いう
 |kun=あ-る, も-つ, たも-つ
 |nanori=あり, すみ, たもつ, とお, とも, なお, なり, みち, もち, り
 }}
@@ -181,12 +181,60 @@ Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
 ====Derived terms====
 * {{ja-r|有る|ある}}
 
-===Proper noun===
+===Etymology 1===
+{{ja-kanjitab|ゆう|yomi=kanon}}
+From {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|有}}.
+
+The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|ゆう|acc=1|acc_ref=DJR|y=kanon}}
+
+====Affix====
+{{ja-pos|affix|ゆう|hhira=いう}}
+
+# [[exist]]
+# [[have]]; [[possess]]; [[own]]
+# (between numbers) [[and]]; with a [[remainder]] of
+
+====Noun====
+{{ja-noun|ゆう|hhira=いう}}
+
+# [[existence]]
+# [[possession]]
+# {{lb|ja|Buddhism}} {{synonym of|有|lang=ja|tr=u}}
+# {{short for|有限会社||[[limited company]]|lang=ja|tr=yūgengaisha}}
+
+===Etymology 2===
+{{ja-kanjitab|う|yomi=goon}}
+From {{der|ja|ltc|sort=う|-}} {{ltc-l|有}}.
+
+The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|う|acc=1|acc_ref=DJR|y=goon}}
+
+====Affix====
+{{ja-pos|affix|う}}
+
+# [[exist]]
+# {{lb|ja|Buddhism}} {{rfdef|ja}}
+
+====Noun====
+{{ja-noun|う}}
+
+# {{lb|ja|Buddhism}} {{rfdef|ja}}
+
+===Etymology 3===
+====Proper noun====
 {{ja-pos|proper|なお}}
 
 # {{given name|female|lang=ja}}
 
 [[Category:Japanese female given names|なお]]
+
+===References===
+<references/>
 
 ----
 
