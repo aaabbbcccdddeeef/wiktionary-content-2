@@ -135,25 +135,42 @@ Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
 
 ====Compounds====
 {{top3}}
-* {{ja-r|有%余|ゆう%よ}}
 * {{ja-r|有%明|あり%あけ}}
+{{bottom}}
+
+====Derived terms====
+* {{ja-r|有る|ある}}
+
+===Etymology 1===
+{{ja-kanjitab|ゆう|yomi=kanon}}
+From {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|有}}. The sense “(between numbers) and, with a remainder of” is from {{der|ja|ltc|sort=ゆう|-}} {{zh-l|*有}} / {{ltc-l|又}}.
+
+The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|ゆう|acc=1|acc_ref=DJR|y=kanon}}
+
+====Affix====
+{{ja-pos|affix|ゆう|hhira=いう}}
+
+# [[exist]]
+# [[have]]; [[possess]]; [[own]]
+# (between numbers) [[and]]; with a [[remainder]] of
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|有%余|ゆう%よ}}
 * {{ja-r|有%意|ゆう%い}}
 * {{ja-r|有%為|ゆう%い}}
-* {{ja-r|有%卦|う%け}}
 * {{ja-r|有%職|ゆう%しょく}}
 * {{ja-r|有%識|ゆう%しき}}
-* {{ja-r|有%象%無%象|う%ぞう%む%ぞう}}
 * {{ja-r|有%益|ゆう%えき}}
 * {{ja-r|有%縁|ゆう%えん}}
 * {{ja-r|有%休|ゆう%きゅう}}
 * {{ja-r|有%窮|ゆう%きゅう}}
 * {{ja-r|有%功|ゆう%こう}}
-{{mid3}}
-* {{ja-r|有%頂%天|う%ちょう%てん}}
 * {{ja-r|有%徳|ゆう%とく}}
 * {{ja-r|有%名%無%実|ゆう%めい%む%じつ}}
-* {{ja-r|有%無|う%む}}
-* {{ja-r|有%耶%無%耶|う%や%む%や}}
 * {{ja-r|有%事|ゆう%じ}}
 * {{ja-r|有%能|ゆう%のう}}
 * {{ja-r|有%機|ゆう%き}}
@@ -162,7 +179,6 @@ Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
 * {{ja-r|有%情|ゆう%じょう}}
 * {{ja-r|有%色|ゆう%しょく}}
 * {{ja-r|有%身|ゆう%しん}}
-{{mid3}}
 * {{ja-r|有%限|ゆう%げん}}
 * {{ja-r|有%恒|ゆう%こう}}
 * {{ja-r|有%効|ゆう%こう}}
@@ -176,26 +192,7 @@ Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
 * {{ja-r|有%利|ゆう%り}}
 * {{ja-r|有%理|ゆう%り}}
 * {{ja-r|有%理%数|ゆう%り%すう}}
-{{bottom}}
-
-====Derived terms====
-* {{ja-r|有る|ある}}
-
-===Etymology 1===
-{{ja-kanjitab|ゆう|yomi=kanon}}
-From {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|有}}.
-
-The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
-
-====Pronunciation====
-{{ja-pron|ゆう|acc=1|acc_ref=DJR|y=kanon}}
-
-====Affix====
-{{ja-pos|affix|ゆう|hhira=いう}}
-
-# [[exist]]
-# [[have]]; [[possess]]; [[own]]
-# (between numbers) [[and]]; with a [[remainder]] of
+{{der-bottom}}
 
 ====Noun====
 {{ja-noun|ゆう|hhira=いう}}
@@ -219,6 +216,15 @@ The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
 
 # [[exist]]
 # {{lb|ja|Buddhism}} {{rfdef|ja}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|有%卦|う%け}}
+* {{ja-r|有%象%無%象|う%ぞう%む%ぞう}}
+* {{ja-r|有%頂%天|う%ちょう%てん}}
+* {{ja-r|有%無|う%む}}
+* {{ja-r|有%耶%無%耶|う%や%む%や}}
+{{der-bottom}}
 
 ====Noun====
 {{ja-noun|う}}
