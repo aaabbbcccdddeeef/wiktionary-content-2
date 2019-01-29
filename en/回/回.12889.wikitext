@@ -97,7 +97,47 @@
 ====See also====
 * {{l|ja|廻}} (this is the older spelling of at least some senses or homonyms)
 
-====Compounds====
+===Etymology 1===
+{{ja-kanjitab|まわ|o1=り|yomi=k}}
+
+====Counter====
+{{ja-pos|まわり|counter}}
+
+# a [[turn]], times around something
+
+===Etymology 2===
+{{ja-kanjitab|かい|yomi=kanon}}
+From {{der|ja|ltc|sort=かい|-}} {{ltc-l|回}}.
+
+The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|かい|y=kanon}}
+
+====Counter====
+{{ja-pos|counter|かい|hhira=くわい}}
+
+# [[occurrence]]s
+#: {{ja-usex|一%週%間に二%'''回'''|いっ%しゅう%かん に に%'''かい'''|twice a week}}
+# [[innings]] in baseball, [[games]], [[rounds]]
+
+====Noun====
+{{ja-noun|かい|hhira=くわい}}
+
+# [[time]], [[occasion]]
+# [[turn]], [[round]]
+# {{lb|ja|baseball|softball|sort=かい}} [[inning]]
+
+====Affix====
+{{ja-pos|affix|かい|hhira=くわい}}
+
+# [[turn]]; [[revolve]]
+# [[return]]; [[go back]]
+# [[time]]; [[occasion]]
+# [[Hui]]; [[Islam]]
+# {{alternative form of|蛔|lang=ja|tr=kai|t=[[roundworm]]; [[intestinal]] [[worm]]}}
+
+=====Derived terms=====
 {{der-top}}
 * {{ja-r|今回|こんかい}}
 * {{ja-r|回送|かいそう}}
@@ -111,30 +151,19 @@
 * {{ja-r|先回|せんかい}}
 {{der-bottom}}
 
-===Etymology 1===
+===Etymology 3===
+{{ja-kanjitab|え|yomi=goon}}
+From {{der|ja|ltc|sort=え|-}} {{ltc-l|回}}.
 
-====Counter====
-{{ja-kanjitab|まわ|o1=り|yomi=k}}
-{{ja-pos|まわり|counter}}
+The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
 
-# a [[turn]], times around something
+====Pronunciation====
+{{ja-pron|え|y=goon}}
 
-===Etymology 2===
+====Affix====
+{{ja-pos|affix|え|hhira=ゑ}}
 
-====Counter====
-{{ja-pos|かい|counter}}
-
-# [[occurrence]]s
-#: {{ja-usex|一%週%間に二%'''回'''|いっ%しゅう%かん に に%'''かい'''|twice a week}}
-# [[innings]] in baseball, [[games]], [[rounds]]
-
-====Noun====
-{{ja-kanjitab|かい|yomi=o}}
-{{ja-noun|かい}}
-
-# [[time]], [[occasion]]
-# [[turn]], [[round]]
-# {{lb|ja|baseball|softball|sort=かい}} [[inning]]
+# [[turn]]; [[turn]] [[around]]
 
 ----
 
