@@ -87,12 +87,18 @@ The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
 ====Pronunciation====
 {{ja-pron|y=go|え|acc=1|acc_ref=DJR}}
 
+====Affix====
+{{ja-pos|affix|kyu=惠|え|hhira=ゑ}}
+
+# {{ja-def|恵}} [[blessing]]; [[grace]]; [[favor]]
+# {{ja-def|恵|慧}} [[clever]]; [[smart]]; [[wise]]
+
 ====Noun====
 {{ja-noun|kyu=惠|え|hhira=ゑ}}
 
-# [[enlightenment]]
+# {{ja-def|恵|慧}} [[enlightenment]]
 #: {{synonyms|ja|悟り|tr=satori}}
-# {{lb|ja|especially in|_|Buddhism|sort=え}} [[wisdom]] {{gloss|especially ''[[prajna]]'', one of the {{w|Threefold Training|three divisions}} of the {{w|Noble Eightfold Path}}}}
+# {{ja-def|恵|慧}} {{lb|ja|especially in|_|Buddhism|sort=え}} [[wisdom]] {{gloss|especially ''[[prajna]]'', one of the {{w|Threefold Training|three divisions}} of the {{w|Noble Eightfold Path}}}}
 #: {{synonyms|ja|[[知恵]], [[智慧]]|tr=chie|般若|tr2=hannya}}
 #: {{hypernyms|ja|三学|tr=sangaku}}
 
