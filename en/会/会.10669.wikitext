@@ -101,14 +101,16 @@ Unorthodox variant of {{l|mul|會}}. From {{w|cursive script (East Asia)|cursive
 * {{ja-r|茶%会|ちゃ%かい}}: [[tea party]]
 {{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|かい|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|かい|yomi=kanon}}
 From {{der|ja|ltc|-}} {{ltc-l|會|id=1}}.
 
-===Pronunciation===
+The ''[[漢音#Japanese|kan'on]]'', so likely a latter borrowing.
+
+====Pronunciation====
 {{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|kyu=會|かい|hhira=くわい}}
 
 # [[meeting]], [[gathering]]
@@ -120,11 +122,28 @@ From {{der|ja|ltc|-}} {{ltc-l|會|id=1}}.
 #: {{ja-usex|'''会'''を[[脱退]]する|'''かい''' を だったい する|leave a '''club'''}}
 #: {{ja-usex|'''会'''を[[抜ける]]|'''かい''' を ぬける|quit a '''club'''}}
 
-===Suffix===
+====Suffix====
 {{ja-pos|suffix|kyu=會|かい|hhira=くわい}}
 
 # [[meeting]]
 # [[party]]
+
+===Etymology 2===
+{{ja-kanjitab|え|yomi=goon}}
+From {{der|ja|ltc|sort=え|-}} {{ltc-l|會|id=1}}.
+
+The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|え|y=goon}}
+
+====Affix====
+{{ja-pos|affix|え|kyu=會|hhira=ゑ}}
+
+# [[gathering]]; [[meeting]]
+# [[perceive]]; [[understand]]; [[comprehend]]
+# {{alternative form of|絵|lang=ja|tr=e|t=[[picture]]; [[drawing]]; [[painting]]}}
+#: {{ja-usex-inline|図'''会'''|ず'''え'''|collection of pictures}}
 
 ===References===
 <references/>
