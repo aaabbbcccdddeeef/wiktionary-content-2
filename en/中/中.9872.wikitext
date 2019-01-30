@@ -9,9 +9,11 @@
 {{Han char|rn=2|rad=丨|as=03|sn=4|four=50006|canj=L|ids=⿻口丨}}
 
 ====Derived characters====
-* {{l|mul|[[𤆪]], [[忠]], [[钟]], [[盅]], [[衷]], [[舯]], [[冲]], [[仲]], [[妕]], [[沖]], [[种]], [[忡]], [[蚛]], [[浺]], [[祌]], [[翀]], [[肿]]}}
+* {{l|mul|[[仲]], [[冲]], [[𫩘]], [[𡉥]], [[妕]], [[㞲]], [[忡]], [[𢪠]], [[沖]], [[狆]], [[䦿]], [[𭤫]], [[肿]], [[𣐄]], [[𠁪]], [[𫡇]], [[迚]], [[𥄡]], [[种]], [[祌]], [[𫃞]], [[翀]], [[𦕏]], [[舯]], [[蚛]], [[衶]], [[𫡉]], [[𡨌]], [[訲]], [[鈡]], [[𬈅]], [[𫙄]], [[𩵵]], [[𬈴]], [[串]], [[忠]], [[𤆪]], [[盅]], [[㲴]], [[䆔]], [[馽]], [[𨌼]], [[𨵓]]}}
+* {{l|mul|钟}} {{q|[[Simplified Chinese|Simplified form]] of {{l|mul|鍾}} and {{l|mul|鐘}}}}
 
 ====References====
+{{wikidata|Q3594923}}
 {{Han ref|kx=0079.030|dkj=00073|dj=0158.060|hdz=10028.100|uh=4E2D}}
 
 ----
@@ -21,11 +23,11 @@
 {{zh-wp}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 
 {{liushu|p}} – a flagpole. Based on archaeological evidence, the middle box has been interpreted as a drum ({{zh-l|*建鼓}}). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of {{och-l|中}} is reminiscent of the beating of a drum.
 
-''{{w|Shuowen}}'' interprets the character as a vertical stroke {{zh-l|*丨}} passing through the center of {{zh-l|*口}}, indicating the center.
+''[[w:Shuowen|Shuowen]]'' interprets the character as a vertical stroke {{zh-l|*丨}} passing through the center of {{zh-l|*口}}, indicating the center.
 
 It has also been interpreted as an arrow in the center of a target.
 
@@ -128,6 +130,7 @@ Related to:
 ----
 
 ==Japanese==
+{{wikipedia|lang=ja}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=丨03}}
@@ -141,8 +144,8 @@ Related to:
 }}
 
 ====Compounds====
-{{der-top3|Compound words that contain 中}}
-Common
+{{der-top3|Compounds}}
+Common:
 * {{ja-r|中%央|ちゅう%おう}}
 * {{ja-r|中%華|ちゅう%か}}
 * {{ja-r|中%核|ちゅう%かく}}
@@ -226,7 +229,7 @@ Common
 * {{ja-r|世の中|よのなか}}
 * {{ja-r|お話し中|おはなし-ちゅう}}
 
-Uncommon
+Uncommon:
 * {{ja-r|中%韓|ちゅう%かん}}
 * {{ja-r|中%巻|ちゅう%かん}}
 * {{ja-r|中%空|ちゅう%くう}}, {{ja-r|中%空|なか%ぞら}}
@@ -267,13 +270,14 @@ Uncommon
 
 ===Etymology 2===
 {{ja-kanjitab|ちゅう|yomi=o}}
-From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中}}.
+From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中|id=1}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|ちゅう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ちゅう}}
+
 # [[middle]], [[medium]]
 #: {{ja-usex|[[大]]'''中'''[[小]]|だい '''ちゅう''' しょう|large, '''medium''' and small}}
 # [[average]]; neither [[good]] nor [[poor]]
@@ -283,12 +287,14 @@ From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中}}.
 
 ====Proper noun====
 {{ja-pos|ちゅう|proper}}
-# short form for [[China]] or [[Chinese]], [[Sino-]] (prefix)
+
+# short form for [[China]] or [[Chinese]]; [[Sino-]] {{gloss|prefix}}
 #: {{ja-usex|[[日%中]] [[関%係]]|^にっ%ちゅう かん%けい|Sino-Japanese relations}}
 
 ====Suffix====
 {{ja-pos|suffix|ちゅう|}}
-# being in the process of doing
+
+# being in the [[process]] of [[doing]]
 #: {{ja-usex|[[ダウンロード]]'''中'''|ダウンロード-'''ちゅう'''|download'''ing'''; download '''in progress'''}}
 #: {{ja-usex|[[メンテ]]'''中'''|メンテ-'''ちゅう'''|'''currently in''' maintenance}}
 #: {{ja-usex|[[インストール]]'''中'''|インストール-'''ちゅう'''|install'''ing'''}}
@@ -306,7 +312,7 @@ From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中}}.
 # [[during]], in the course of, [[throughout]]
 #: {{ja-usex|[[世%界]]'''中'''|せ%かい'''じゅう'''|'''throughout''' the world}}
 #: {{ja-usex|[[体]]'''中'''|からだ'''じゅう'''|'''throughout''' the body}}
-# [[all over]], everywhere
+# [[all over]], [[everywhere]]
 
 ====Usage notes====
 The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}} can be somewhat confusing: {{m|ja|じゅう|tr=jū}} means ''throughout,'' in ''all'' places, as in {{m|ja|一日中||all day long|tr=ichinichijū}} or {{m|ja|体中||throughout the body|tr=karadajū}}, while {{m|ja|ちゅう|tr=chū}} means ''within,'' but not ''everywhere,'' as in {{m|ja|授業中||in class, during class|tr=jugyōchū}}. Contrast “I worked on this ''all day long''” with “I worked on this ''in class'' (but not necessarily for the entire time)”.
@@ -319,10 +325,11 @@ The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}}
 {{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
-* {{ja-l|内}}, {{ja-l|裡}}
+* {{ja-r|内|うち}}, {{ja-r|裡|うち}}
 
 ====Noun====
 {{ja-noun|うち}}
+
 # [[inside]]
 
 ====Usage notes====
@@ -333,9 +340,11 @@ Various nanori readings.
 
 ====Proper noun====
 {{ja-pos|あたり|proper}}
+
 # {{surname|lang=ja|sort=あたり}}
 
 {{ja-pos|あたる|proper}}
+
 # {{given name|female|lang=ja|sort=あたる}}
 
 ===Etymology 6===
@@ -347,7 +356,8 @@ Various nanori readings.
 
 ====Noun====
 {{ja-noun|チュン}}
-# {{lb|ja|mahjong|sort=ちゆん}} [[red dragon]] (tile)
+
+# {{lb|ja|mahjong|sort=ちゆん}} [[red dragon]] {{gloss|tile}}
 
 ====See also====
 * {{ja-r|三%元%牌|さん%げん%パイ|[[dragon]] [[tile]]s}}: {{ja-r|白|ハク|[[white dragon]]}}, {{ja-r|發|ハツ|[[green dragon]]}}, {{ja-r|中|チュン|red dragon}}
@@ -362,44 +372,41 @@ Various nanori readings.
 ===Hanja===
 {{ko-hanja/new|가운데|중}}
 
-# the [[middle]], the [[center]], the [[heart]], the [[midst]]
+# {{hanja form of|중|[[middle]]; [[center]]; [[amongst]]}}
 
 ====Compounds====
-{{top3}}
-* [[中央]] ([[중앙]], jung-ang)
-* [[中心]] ([[중심]], jungsim)
-* [[中繼]] ([[중계]], junggye)
-* [[中旬]] ([[중순]], jungsun)
-* [[中道]] ([[중도]], jungdo)
-* [[中立]] ([[중립]], jungnip)
-* [[海中]] ([[해중]], haejung)
-* [[空中]] ([[공중]], gongjung)
-* [[病中]]
-{{mid3}}
-* [[市中]]
-* [[暑中]]
-* [[集中]]
-* [[熱中]]
-* [[命中]]
-* [[百發百中]]
-* [[中毒]]
-* [[卒中]]
-* [[中卷]]
-{{mid3}}
-* [[中位]]
-* [[中國]]
-* [[中國人]] ([[중국인]], jung-gug-in)
-* [[中學校]]
-* [[節中]]
-* [[的中]]
-* [[中華民國]] ([[중화민국]], junghwa minguk)
-* [[中澣]] ([[중한]], junghan)
-{{bottom}}
-
-===Noun===
-{{ko-noun|hangeul=중}}
-
-# {{hanja form of|중|the middle, medium, during}}
+{{der-top3|Compounds}}
+* {{ko-l|백발백중|百發百中}}
+* {{ko-l|병중|病中}}
+* {{ko-l|도중|途中}}
+* {{ko-l|공중|空中}}
+* {{ko-l|해중|海中}}
+* {{ko-l|적중|的中}}
+* {{ko-l|지중해|地中海}}
+* {{ko-l|집중|集中}}
+* {{ko-l|중앙|中央}}
+* {{ko-l|중도|中道}}
+* {{ko-l|중독|中毒}}
+* {{ko-l|중간|中間}}
+* {{ko-l|중고|中古}}
+* {{ko-l|중국|中國}}
+* {{ko-l|중계|中繼}}
+* {{ko-l|중견|中堅}}
+* {{ko-l|중학교|中學校}}
+* {{ko-l|중흥|中興}}
+* {{ko-l|중지|中止}}
+* {{ko-l|중립|中立}}
+* {{ko-l|중년|中年}}
+* {{ko-l|중상|中傷}}
+* {{ko-l|중성|中性}}
+* {{ko-l|중심|中心}}
+* {{ko-l|중순|中旬}}
+* {{ko-l|중위|中位}}
+* {{ko-l|중용|中庸}}
+* {{ko-l|명중|命中}}
+* {{ko-l|시중|市中}}
+* {{ko-l|열중|熱中}}
+{{der-bottom}}
 
 ----
 
@@ -420,6 +427,7 @@ Various nanori readings.
 {{der-top3|Compounds}}
 * {{vi-l|地中海|Địa Trung Hải}}
 * {{vi-l|中隊|trung đội}}
+* {{vi-l|中庸|Trung Dung}}
 * {{vi-l|中華|Trung Hoa}}
 * {{vi-l|中圻|Trung Kì}}
 * {{vi-l|中國|Trung Quốc}}
