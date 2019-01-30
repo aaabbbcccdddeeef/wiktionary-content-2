@@ -59,20 +59,49 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水06}}
 
-# {{defn|lang=ja|sort=水06}}
-
 ====Readings====
 {{ja-readings
 |on=えい, せつ
 |kun=の-びる, も-れる
 }}
 
-====Compounds====
-{{der3|lang=ja
-|{{ja-r|漏洩|ろうえい}}
-|{{ja-r|洩らす|もらす|{{alt-form|lang=ja|{{ja-r|漏らす|もらす|rom=-}}}}}}
-|{{ja-r|洩れる|もれる|{{alt-form|lang=ja|{{ja-r|漏れる|もれる|rom=-}}}}}}
-}}
+====Derived terms====
+* {{ja-r|洩らす|もらす|{{alt-form|lang=ja|{{ja-r|漏らす|もらす|rom=-}}}}}}
+* {{ja-r|洩れる|もれる|{{alt-form|lang=ja|{{ja-r|漏れる|もれる|rom=-}}}}}}
+
+===Etymology 1===
+{{ja-kanjitab|えい|yomi=on}}
+From {{der|ja|ltc|sort=えい|-}} {{ltc-l|洩}}.
+
+====Pronunciation====
+{{ja-pron|えい|y=on}}
+
+====Affix====
+{{ja-pos|affix|えい}}
+
+# [[leak]]; [[escape]]
+
+=====Derived terms=====
+{{der-top}}
+{{ja-r|漏洩|ろうえい}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|せつ|yomi=on}}
+From {{der|ja|ltc|sort=せつ|-}} {{ltc-l|洩}}.
+
+====Pronunciation====
+{{ja-pron|せつ|y=on}}
+
+====Affix====
+{{ja-pos|affix|せつ}}
+
+# [[leak]]; [[escape]]
+
+=====Derived terms=====
+{{der-top}}
+{{ja-r|漏洩|ろうせつ}}
+{{der-bottom}}
 
 ----
 
