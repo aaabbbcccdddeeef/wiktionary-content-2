@@ -69,19 +69,6 @@
 |kun=かげ-
 }}
 
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|暗影|あんえい}}: [[shadow]], [[gloom]]
-* {{ja-r|影%法師|かげ%ぼうし}}: [[silhouette]], [[shadow]]
-* {{ja-r|黒影|こくえい}}: [[silhouette]], [[dark]] shadow
-* {{ja-r|人影|じんえい}}: [[figure]]/[[shadow]] of a [[person]]
-* {{ja-r|月影|つきかげ}}
-* {{ja-r|空影|そらかげ}}
-* {{ja-r|山影|やまかげ}}
-* {{ja-r|闇影|やみかげ}}
-* {{ja-r|日%影|ひ%かげ}}
-{{der-bottom}}
-
 ===Etymology 1===
 Unbound apophonic form of {{m|ja|影|tr=kaga}}.
 
@@ -111,6 +98,53 @@ Unbound apophonic form of {{m|ja|影|tr=kaga}}.
 # [[presence]]
 #: {{ja-usex|この町は'''影'''が薄い。|この まち は '''かげ''' が うすい。|This town's '''presence''' is little.}}
 # [[negative]] [[aspect]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|影%法師|かげ%ぼうし}}: [[silhouette]], [[shadow]]
+* {{ja-r|月影|つきかげ}}
+* {{ja-r|空影|そらかげ}}
+* {{ja-r|山影|やまかげ}}
+* {{ja-r|闇影|やみかげ}}
+* {{ja-r|日%影|ひ%かげ}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|えい|yomi=kanon}}
+From {{der|ja|ltc|sort=えい|-}} {{ltc-l|影}}.
+
+The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|えい|y=kanon}}
+
+====Affix====
+{{ja-pos|affix|えい}}
+
+# [[shadow]]
+# [[light]]
+# a [[shape]] or [[form]] [[reflect]]ed in [[light]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|暗影|あんえい}}: [[shadow]], [[gloom]]
+* {{ja-r|黒影|こくえい}}: [[silhouette]], [[dark]] shadow
+* {{ja-r|人影|じんえい}}: [[figure]]/[[shadow]] of a [[person]]
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|よう|yomi=goon}}
+From {{der|ja|ltc|sort=よう|-}} {{ltc-l|影}}.
+
+The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|よう|y=goon}}
+
+====Affix====
+{{ja-pos|affix|よう}}
+
+# {{lb|ja|rare}} {{alternative form of|影|lang=ja|tr=ei}}
 
 ===See also===
 * {{ja-r|陰|かげ}}
