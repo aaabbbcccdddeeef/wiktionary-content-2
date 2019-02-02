@@ -2,31 +2,41 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=94|rad=犬|as=04|sn=7|four=|canj=KHNDU|ids=⿰犭孔}}
-
-# a fierce Mongolian wolf dragon's head on roofs
+{{Han char|rn=94|rad=犬|as=04|sn=7|four=42210|canj=KHNDU|ids=⿰犭孔}}
 
 ====References====
-* {{Han ref|kx=0707.050|dkj=20271|dj=1119.220|hdz=21338.020|uh=72BC|ud=29372}}
+{{Han ref|kx=0707.050|dkj=20271|dj=1119.220|hdz=21338.020|uh=72BC}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
+{{zh-wp|zh|lzh|en:Denglong}}
+[[File:Wangtianhou.jpg|thumb|Bronze {{lang|zh|犼}}]]
+
+===Glyph origin===
+{{Han compound|犬|孔|alt1=犭|t1=canine|c1=s|c2=p|ls=psc}}
+
+===Etymology===
+{{rfe|zh|Compare {{zh-m|吼}}}}
 
 ===Pronunciation===
 {{zh-pron
 |m=hǒu
-|c=
+|c=hau3, hau2
 |j=
-|mc=y
-|oc=y
-|cat=
+|mc=
+|oc=
+|cat=n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{lb|zh|Chinese mythology}} a {{w|Denglong}} beast
+# {{lb|zh|Chinese mythology}} a ''[[w:Denglong|Denglong]]'' [[beast]]
+#: {{zh-syn|蹬龍|望天吼|朝天吼}}
+
+===References===
+* {{R:yue:Jyutjam}}
 
 {{zh-cat|Mythological creatures}}
