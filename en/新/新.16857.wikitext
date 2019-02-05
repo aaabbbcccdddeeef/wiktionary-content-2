@@ -91,60 +91,230 @@ This word may belong to the Sino-Tibetan stem {{inh|zh|sit-pro|*s-riŋ ~ s-r(j)a
 {{ja-kanji|grade=2|rs=斤09}}
 
 # [[new]]
+# [[change]], [[reform]]
 
 ====Readings====
 {{ja-readings
 |goon=しん
 |kanon=しん
-|kun=あたら-し.い, あら-た, にい-<にひ-
+|kun=あたら-し.い, あら-た, に.い-<にひ-, さら-
+|nanori=あきら, すすむ, ちか, はじめ, よし, わか
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|新幹線|しんかんせん}}
+{{der-top3|Compounds}}
+* {{ja-r|新案|しんあん}}
+* {{ja-r|新%鋭|しん%えい}}
+* {{ja-r|新刊|しんかん}}
 * {{ja-r|新規|しんき}}
+* {{ja-r|新旧|しんきゅう}}
 * {{ja-r|新教|しんきょう}}
-* {{ja-r|新月|しんげつ}}
+* {{ja-r|新%月|しん%げつ}}
 * {{ja-r|新語|しんご}}
 * {{ja-r|新興|しんこう}}
+* {{ja-r|新参|しんざん}}
 * {{ja-r|新種|しんしゅ}}
 * {{ja-r|新酒|しんしゅ}}
-* {{ja-r|新生|しんせい}}
-* {{ja-r|新茶|しんちゃ}}: [[new]] [[tea]] of the [[year]]
-* {{ja-r|新着|しんちゃく}}: [[new]] [[arrival]]
+* {{ja-r|新%生|しん%せい}}
+* {{ja-r|新%星|しん%せい}}
+* {{ja-r|新%設|しん%せつ}}
+* {{ja-r|新%雪|しん%せつ}}
+* {{ja-r|新%鮮|しん%せん}}
+* {{ja-r|新%築|しん%ちく}}
+* {{ja-r|新茶|しんちゃ|[[new]] [[tea]] of the [[year]]}}
+* {{ja-r|新%着|しん%ちゃく|[[new]] [[arrival]]}}
+* {{ja-r|新任|しんにん}}
 * {{ja-r|新品|しんぴん}}
-* {{ja-r|新聞|しんぶん}}
-* {{ja-r|新茗|しんめい}}: newly-sprouted leaves of tea, tea made from newly-sprouted leaves of tea
-{{der-mid}}
-* {{ja-r|新薬|しんやく}}
-* {{ja-r|新約聖書|^しんやくせいしょ}}: [[New Testament]]
-* {{ja-r|新暦|しんれき}}
-* {{ja-r|新入り|しんいり}}
-* {{ja-r|新型|しんがた}}
-* {{ja-r|新手|あらて}}
+* {{ja-r|新%茗|しん%めい|newly-[[sprout]]ed tea [[leaf|leaves]]; tea made from such leaves}}
+* {{ja-r|新%薬|しん%やく}}
+* {{ja-r|新%約|しん%やく}}
+* {{ja-r|新%暦|しん%れき}}
 * {{ja-r|新人|しんじん}}
 * {{ja-r|新風|しんぷう}}
-* {{ja-r|新星|しんせい}}
 * {{ja-r|一新|いっしん}}
-* {{ja-r|新宿|^しんじゅく}}
+* {{ja-r|改%新|かい%しん}}
+* {{ja-r|革%新|かく%しん}}
+* {{ja-r|更新|こうしん}}
+* {{ja-r|最%新|さい%しん}}
+* {{ja-r|刷新|さっしん}}
+* {{ja-r|斬新|ざんしん}}
+* {{ja-r|生%新|せい%しん}}
+* {{ja-r|清%新|せい%しん}}
+* {{ja-r|新羅|^しらぎ}}
+* {{ja-r|新嘉坡|^シンガポール}}
+* {{ja-r|新西蘭|^ニュー ^ジーランド}}
+* {{ja-r|新嘗|にわない}}
 {{der-bottom}}
 
-===Prefix===
+===Etymology 1===
 {{ja-kanjitab|しん|yomi=o}}
+{{IPAchar|/sin/}} → {{IPAchar|/ɕin/}}
+
+From {{bor|ja|ltc|sort=しん|-}} {{ltc-l|新}}.
+
+Compare modern {{cog|cmn|新|tr=xīn}}, {{cog|hak|新|tr=sîn}}, {{cog|nan|新|tr=sin}}, and {{cog|wuu|新|tr=xin}}.
+
+====Pronunciation====
+{{ja-pron|y=o|しん|acc=1|acc_ref=DJR|acc_note=as a noun}}
+
+====Noun====
+{{ja-noun|しん}}
+
+# a [[novelty]]
+#: {{ant|ja|旧|tr=kyū}}
+# {{short for|lang=ja|新暦|tr=shinreki|nodot=1|sort=しん}}: the [[Gregorian calendar]]
+# {{short for|lang=ja|新株|tr=shinkabu|nodot=1}} {{rfdef|ja|sort=しん}}
+# {{short for|lang=ja|新銀|tr=shingin|nodot=1}} {{rfdef|ja|sort=しん}}
+# {{short for|lang=ja|新造|tr=shinzō|nodot=1}} {{rfdef|ja|sort=しん}}
+
+====Prefix====
 {{ja-pos|prefix|しん}}
 
 # [[neo-]]
-#:{{ant|ja|旧|tr=kyū-}}
-#:{{ja-usex|'''新'''世%界|'''^しん'''せ%かい|the New World}}
-#:{{ja-usex|'''新'''約%聖%書|'''しん'''やく%せい%しょ|the New Testament|rom='''Shin''''yaku Seisho}}
-#* {{quote-book|genre=fiction|||first=Tsugumi
-|last=Ohba
-|authorlink=Tsugumi Ohba
-|coauthors={{w|Takeshi Obata|Obata, Takeshi}}|{{wj|DEATH NOTE|[DEATH NOTE](デスノート)}}|trans-title={{w|Death Note|DEATH NOTE}}|location=Tokyo|publisher=Shueisha|date=Apr 7 2004|isbn=4-08-873621-4|volume=1|||pages=48–49|chapter={{lj|ｐａｇｅ．１　[退](たい)[屈](くつ)}}|trans-chapter=page.1 Boredom|{{ja-usex|そして　僕は'''新'''世%界の神となる|^そして　ぼく は '''しん'''せ%かい の かみ と なる|And then I will become the god of this new world}}}}
+#:　{{ja-usex|'''新'''世%界|'''^しん'''せ%かい|the '''New''' World}}
+#:　{{ja-usex|'''新'''約 聖%書|'''しん'''やく せい%しょ|the '''New''' Testament}}
 # ''attached to the title of a fiction work to mean ''“[[new]] [[storyline]]”'', to distinguish it from older works''
-#:{{ja-usex|'''新'''鉄%拳チンミ|'''^しん''' ^てっ%けん ^チンミ|{{w|lang=ja|鉄拳チンミ#新鉄拳チンミ|New Ironfist Chinmi}}}}
+#:{{ja-usex|'''新'''鉄%拳チンミ|'''^しん''' ^てっ%けん ^チンミ|{{w|lang=ja|鉄拳チンミ#新鉄拳チンミ|'''New''' Ironfist Chinmi}}}}
 # ''attached to the title of a fiction adaptation to mean ''“[[remake]]”'', to distinguish it from older adaptations''
-#:{{ja-usex|Lois　&　Clark　'''新'''スーパーマン|Lois　&　Clark　'''^しん''' ^スーパーマン|{{w|Lois & Clark: The New Adventures of Superman|Lois & Clark: New Superman}}}}
+#:{{ja-usex|Lois　&　Clark　'''新'''スーパーマン|Lois　&　Clark　'''^しん''' ^スーパーマン|{{w|Lois & Clark: The New Adventures of Superman|Lois & Clark: '''New''' Superman}}}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|新%入り|しん%いり}}
+* {{ja-r|新%型|しん%がた}}
+* {{ja-r|新幹線|しんかんせん}}
+* {{ja-r|新古今和歌集|^しん ^こきん ^わかしゅう}}
+* {{ja-r|新%宿|^しん%じゅく}}
+* {{ja-r|新%世%界|^しん%せ%かい}}
+* {{ja-r|新聞|しんぶん}}
+* {{ja-r|新発意|しんぼち}}
+* {{ja-r|新%麦|しん%むぎ}}
+* {{ja-r|新芽|しんめ}}
+* {{ja-r|新%約 聖%書|^しん%やく ^せい%しょ|[[New Testament]]}}
+* {{ja-r|新湯|しんゆ}}
+{{der-bottom}}
+
+====Proper noun====
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Xin dynasty}}
+</div>
+{{ja-pos|proper|しん}}
+
+# {{lb|ja|sort=しん|historical}} the [[Xin]] [[dynasty]] {{gl|8-23 {{CE}}}}
+# ''a [[placename]]''
+# {{surname|lang=ja|A=a|nodot=1}}
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+
+===Etymology 2===
+{{ja-kanjitab|にい|yomi=k}}
+{{IPAfont|⟨nipi<sub>1</sub>⟩}} → {{IPAchar|/nipʲi/}} → {{IPAchar|/nifi/}} → {{IPAchar|/niwi/}} → {{IPAchar|/niː/}}
+
+From {{inh|ja|ojp|sort=にい|-}}, ultimately from {{inh|ja|jpx-pro|*nipi}}.
+
+====Prefix====
+{{ja-pos|prefix|に.い}}
+
+# [[new]], [[novel]]
+# [[fresh]]
+# [[original]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|新%饗|に.い%あえ}}
+* {{ja-r|新%尼|に.い%あま}}
+* {{ja-r|新%潟|^に.い%がた}}
+* {{ja-r|新%桑|に.い%ぐわ}}
+* {{ja-r|新%防人|に.い%-さきもり}}
+* {{ja-r|新%搾|に.い%しぼり}}
+* {{ja-r|新%島|^に.い%じま}}
+* {{ja-r|新%島%守|に.い%-しま%もり}}
+* {{ja-r|新%霊|に.い%たま}}
+* {{ja-r|新%手%枕|に.い%-た%まくら}}
+* {{ja-r|新%妻|に.い%づま}}
+* {{ja-r|新%嘗|に.い%なえ}}
+* {{ja-r|新%仏|に.い%ぼとけ}}
+* {{ja-r|新%盆|に.い%ぼん}}
+* {{ja-r|新%参り|に.い%まいり}}
+* {{ja-r|新%学|に.い%まなび}}
+* {{ja-r|新%麦|に.い%むぎ}}
+* {{ja-r|新%室|に.い%むろ}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|あら|yomi=k}}
+
+From {{inh|ja|ojp|-}}.
+
+Extension of {{m|ja|[[粗]], [[荒]]|tr=ara||[[crude]], [[raw]]}}.
+
+====Prefix====
+{{ja-pos|prefix|あら}}
+
+# [[new]]
+# [[unused]]
+# [[natural]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|新た|あらた}}
+** {{ja-r|新しい|あたらし.い}}
+* {{ja-r|新%井|あら%い}}
+* {{ja-r|新%精霊|あら%しょうりょう}}
+* {{ja-r|新%所%帯|あら%じょ%たい}}
+* {{ja-r|新%世%帯|あら%ぜ%たい}}
+* {{ja-r|新%谷|^あら%たに}}
+* {{ja-r|新%手|あら%て}}
+* {{ja-r|新%仏|あら%ぼとけ}}
+* {{ja-r|新%霊|あら%みたま}}
+* {{ja-r|新%湯|あら%ゆ}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|あら}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+
+===Etymology 4===
+{{ja-kanjitab|さら|yomi=k}}
+
+{{rfe|ja|sort=さら|''-s-'' infix form or from prefix {{m|ja|さ|tr=sa-}}?}}
+
+====Alternative forms====
+* {{ja-l|更}}
+
+====Noun====
+{{ja-noun|さら}}
+
+# something [[unused]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|新%井|さら%い}}
+* {{ja-r|新%世%帯|さら%せ%たい}}
+* {{ja-r|新%地|さら%ち}}
+* {{ja-r|新%湯|さら%ゆ}}
+* {{ja-r|真っ新|まっさら}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|さら}}
+
+# {{given name|female|lang=ja|A=a|nodot=1}}
+
+===Etymology 5===
+{{ja-kanjitab|あら|o1=た|yomi=k}}
+
+Nominalization of adjective {{m|ja|新た|tr=arata||[[new]]}}.
+
+====Proper noun====
+{{ja-pos|proper|あらた}}
+
+# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=あらた}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あらた}}
+
+===References===
+<references/>
 
 ----
 
