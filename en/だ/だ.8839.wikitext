@@ -40,10 +40,17 @@
 ##: {{ja-usex|彼はきっと成功する'''だろう'''/彼はきっと成功するの'''だろう'''。|かれ は きっと せいこう する '''だろう'''/かれ は きっと せいこう する の '''だろう'''。|'''I believe''' he will succeed.}}
 
 =====Usage notes=====
+* {{lang|ja|だ}} is the only commonly used modern Japanese verb with the terminal form ({{ja-l|終止形}}) distinct from the attributive form ({{ja-l|連体形}}). As relative clauses in Japanese are syntactically equivalent to attributives, relative clauses must end in the attributive form. Thus {{lang|ja|だ}}, as a terminal form, can not appear at the end of a relative clause. The following forms are used instead of {{lang|ja|だ}} in such places:
+:* Use {{lang|ja|の}} after nouns, adverbs or prepositional phrases. But use {{lang|ja|な}} before the nominalizer {{ja-l|の}}.
+:: {{ja-x|[[学生]]'''の'''アリス|がくせい '''の''' アリス|Alice, who '''is''' a student}}
+:: {{ja-x|ここ[[まで]]'''の'''あらすじ|ここまで '''の''' あらすじ|the plot summary until now}}
+:: {{ja-x|後味も[[すっきり]]'''な'''のが特徴です。|あとあじ も すっきり '''な''' の が とくちょう です。|The refreshing aftertaste is its distinguishing feature.}}
+:: {{ja-x|今日は[[休み]]'''な'''ので早起きしてなかった。|きょう は やすみ '''な''' の で はやおき して なかった。|I didn't get up early because it '''is''' a holiday today.}}
+:* Use {{lang|ja|な}} after na-adjective.
+:: {{ja-x|実家が[[裕福]]'''な'''友人|じっか が ゆうふく '''な''' ゆうじん|a friend whose family '''is''' rich}}
+:* Alternatively, {{lang|ja|である}} can be used when following nouns and denoting the meaning "to be".
+:: {{ja-x|[[学生]]'''である'''アリス|がくせい '''である''' アリス|Alice, who '''is''' a student}}
 * This word is phonologically an [[enclitic]], similar to [[particle]]s. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
-* This verb only applies to nouns and ''na''-adjectives. An ''i''-adjective or verb alone suffices to end a sentence or clause. For example, {{m|ja|美しい|tr=utsukushii}} could mean "it's beautiful" as a complete grammatical sentence, analogous to {{m|ja|[[綺麗]]'''だ'''|tr=kirei da|t=It's pretty}}.
-** The polite form {{m|ja|です|tr=desu}} can be applied to ''i''-adjectives, while {{m|ja|だろう|tr=darō}} / {{m|ja|でしょう|tr=deshō}} and {{m|ja|なら|tr=nara}} can be applied to both ''i''-adjectives and verbs.
-* だ cannot be used to introduce a relative clause ending in a ''na''-adjective or noun – {{m|ja|[[学生]]'''だ'''[[アリス]]}} doesn't work, nor does {{m|ja|です}} here.  However, some of the conjugations of だ can: {{m|ja|[[学生]][[である]][[アリス]]}} (Alice who is a student), {{m|ja|[[学生]][[だった]]/[[であった]][[アリス]]}} (Alice who was a student), {{m|ja|[[学生]][[ではない]]/[[じゃない]][[アリス]]}} (Alice who is not a student), {{m|ja|[[学生]][[ではなかった]]/[[じゃなかった]][[アリス]]}} (Alice who was not a student).
 
 =====Conjugation=====
 {{ja-verbconj|だ||だろ<br>では|daro<br>de wa||だっ<br>で|da<br>de||だ|da||である<br>な|de aru<br>na||であれ<br>なら|de are<br>nara||-|-||-|-||-|-||-|-||だろう|darō||ではない<br>じゃない&sup1;|de wa nai<br>ja nai&sup1;||ではなくて<br>じゃなくて&sup1;|de wa nakute<br>ja nakute&sup1;||[[です]]|desu||だった|datta||で|de||ならば<br>であれば|naraba<br>de areba|<small>&sup1; Colloquial contraction</small>}}
