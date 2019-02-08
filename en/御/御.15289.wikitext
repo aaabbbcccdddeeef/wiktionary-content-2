@@ -63,76 +63,175 @@
 {{ja-readings
 |goon=ご
 |kanon=ぎょ
-|kun=お-, おおむ-, おおん-, おん-, み-
+|kun=おん-, お-, おおむ-<おほむ-, おおん-<おほん-, み-
 }}
 
 ====Compounds====
-* {{ja-r|御者|ぎょしゃ}}
+* {{ja-r|御者|ぎょしゃ|[[coachman]]}}
 * {{ja-r|制御|せいぎょ}}
 * {{ja-r|防御|ぼうぎょ}}
 
-====See also====
-* {{l|ja|馭}}
-
 ===Etymology 1===
-/opomi<sub>1</sub>/: [opomʲi ～ əpəmʲi] > [o̞ɸo̞mi] > [o̞ɸo̞ɴ] > [õːɴ] > [õ̞ɴ] > [o̞]
+{{ja-kanjitab|yomi=k|お}}
+{{IPAchar|/oɴ/}} → {{IPAchar|/o/}}
 
-From Late Middle Japanese {{ja-r|御|おん}}, from Early Middle Japanese {{ja-r|御|おほん|rom=ōn}} ～ {{ja-r|大御|おほん|rom=ōn}} (also spelled {{ja-r|おほむ|rom=ōmu}}), from {{inh|ja|ojp|大御|tr=<opomi<sub>1</sub>>→ōmi|t=''prefix of maximum honorific''}}, compound of {{l|ojp|大|tr=<opo>→ō|t=big, large}} and {{l|ojp|御|tr=<mi<sub>1</sub>>→mi|t=''honorific prefix''}}.
+Shift from ''on-'' below.<ref name="DJS">{{R:Daijisen}}</ref><ref>{{R:Daijirin}}</ref>
+
+Already apparent since the 14th century.
 
 ====Prefix====
 {{ja-pos|prefix|お}}
 
-# Prefix indicating that the word is honorific. Often used to indicate that the word belongs or is related to the listener (as opposed to the speaker).
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+
+=====Derived terms=====
+* {{ja-r|御田|おでん}}
+* {{ja-r|御%伽話|お%とぎばなし|rom=-}}, {{ja-r|御%伽噺|お%とぎばなし}}
 
 ===Etymology 2===
-From {{etyl|ltc|ja|sort=ご}} {{zh-l|御|tr=ŋɨʌ<sup>H</sup>}}. 
+{{ja-kanjitab|yomi=k|おん}}
+{{IPAchar|/ofomʉ/}} → {{IPAchar|/owomʉ/}} → {{IPAchar|/oːmʉ/}} → {{IPAchar|/omʉ/}} → {{IPAchar|/oɴ/}}
+
+{{w|Early Middle Japanese|Early}}-{{w|Late Middle Japanese}} shift from ''ōn-'' below.<ref name="DJS"/>
+
+====Prefix====
+{{ja-pos|prefix|おん}}
+
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+
+=====Derived terms=====
+* {{ja-r|御校|おんこう}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|おおん}}
+{{ja-kanjitab|yomi=k|おおむ}}
+
+{{IPAfont|⟨opomi<sub>1</sub>⟩}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">*{{IPAchar|/opomʲɨ/}}</span><span style="float:left;clear:both;">*{{IPAchar|/əpəmʲɨ/}}</span></span> → {{IPAchar|/ofomʉ/}} → {{IPAchar|/owon/}} → {{IPAchar|/oːɴ/}}
+
+Appears in the mid-late {{w|Heian period}}.
+
+Shift from {{inh|ja|ojp|大御|tr={{IPAfont|⟨opomi<sub>1</sub>⟩}} → ōmi-|pos=[[prefix]] of [[maximum]] [[honorific]]}}.
+
+Both ''ōmu-'' and ''ōn-'' readings likely existed in free variation until the development of the {{ja-r|ん}} morpheme.
+
+====Prefix====
+{{ja-pos|prefix|おおん|hhira=おほん}}<br/>
+{{ja-altread|hira=おおむ|rom=ōmu-|hhira=おほむ}}
+
+# {{lb|ja|sort=おおん|obsolete}} ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|み}}
+{{IPAfont|⟨mi<sub>1</sub>⟩}} → *{{IPAchar|/mʲi/}} → {{IPAchar|/mi/}}
+
+From {{inh|ja|ojp|sort=み|-}}.
+
+Cognate with {{m|ja|[[霊]], [[神]]|tr=mi||[[spirit]], [[god]]}}, as this prefix was originally used to refer to gods and other spiritually important things.
+
+====Alternative forms====
+* {{s|honorific emphasizing beauty}} {{ja-l|美}}, {{ja-l|深}}
+
+====Prefix====
+{{ja-pos|prefix|み}}
+
+# {{lb|ja|honorific}} ''added to [[god]]s and other [[spiritual]]ly [[important]] things''
+# {{lb|ja|honorific}} ''added added to [[nouns]] to indicate [[godlike]] [[respect]]''
+# {{lb|ja|honorific}} ''added added to [[placename]]s to emphasize [[beauty]]''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|御%明|み%あかし|oil lamp lit for Shinto or Buddhist purposes}}
+* {{ja-r|御食|みけ|offering of food to a god or spirit}}
+* {{ja-r|御子|みこ|shrine maiden}}
+* {{ja-r|御%輿|み%こし|rom=-}}, {{ja-r|神%輿|み%こし|portable shrine}}
+* {{ja-r|尊|みこと|rom=-}}, {{ja-r|命|みこと|pos=title used for gods and emperors, and other exalted personages}}
+* {{ja-r|御%手洗|み%たらし}}
+* {{ja-r|道|みち|rom=-}}, {{ja-r|路|みち}}
+* {{ja-r|峰|みね}}
+* {{ja-r|御%許|み%もと|pos=location of a god, Buddha, emperor, or other object of reverence}}
+* {{ja-r|御%座|み%まし|pos=presence of a god, Buddha, emperor, or other object of reverence}}
+* {{ja-r|宮|みや}}
+* {{ja-r|御%吉%野|み%-^よし%の}}
+* {{ja-r|大%御|おお%み-}}
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=goon|ご}}
+
+From {{bor|ja|ltc|sort=こ'|-}} {{ltc-l|御}}. 
+
+The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
 
 ====Prefix====
 {{ja-pos|prefix|ご}}
 
-# Prefix indicating that the word is honorific. Often used to indicate that the word belongs or is related to the listener (as opposed to the speaker).
-
-===Etymology 3===
-From {{etyl|ojp|ja|sort=み}}. Cognate with {{l|ja|霊}} / {{m|ja|神|tr=mi||spirit, god}}, as this prefix was originally used to refer to gods and other spiritually important things.
-
-====Prefix====
-{{ja-pos|prefix|み|rom=mi}}
-
-# Honorific prefix added to gods and other spiritually important things. Also added to other nouns to indicate godlike respect.
-# Added to place names to emphasize beauty. (This usage is more often written in hiragana)
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the listener (as opposed to the speaker)
 
 =====Derived terms=====
-* {{ja-r|御%明|み%あかし}}: an oil lamp lit for Shinto or Buddhist purposes
-* {{ja-r|御食|みけ}}: an offering of food to a god or spirit
-* {{ja-r|御子|みこ}}: a shrine maiden
-* {{ja-r|御%輿|み%こし}}, {{ja-r|神%輿|み%こし}}: a portable shrine
-* {{ja-r|尊|みこと}}, {{ja-r|命|みこと}}: a title used for gods and emperors, and other exalted personages
-* {{ja-r|御%許|み%もと}}: the location of a god, Buddha, emperor, or other object of reverence
-* {{ja-r|御%座|み%まし}}: the presence of a god, Buddha, emperor, or other object of reverence
-* {{ja-r|宮|みや}}: a shrine
+* {{ja-r|ご飯|ごはん}}
 
-=====Alternative forms=====
-* {{l|ja|み}}
-* {{sense|beautiful place}} {{l|ja|美}}
-* {{sense|beautiful place}} {{l|ja|深}}
+====Suffix====
+{{ja-pos|prefix|ご}}
+
+# {{rfdef|ja}}
+
+====Affix====
+{{ja-pos|affix|ご}}
+
+# {{rfdef|ja}}
+
+====Noun====
+{{ja-noun|ご}}
+
+# {{lb|ja|honorific}} a [[lady]]
+#: likely a short form of {{m|ja|御前|tr=gozen}}
+# {{lb|ja|honorific|archaic}} ''form of address to a woman or a court lady'': my [[Lady]]
+
+===Etymology 6===
+{{ja-kanjitab|yomi=kanon|ぎょ}}
+
+From {{bor|ja|ltc|-}} {{ltc-l|御}}. 
+
+The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+
+====Alternative forms====
+* {{s|riding a horse or horse-drawn vehicle}} {{ja-l|馭}}
+
+====Prefix====
+{{ja-pos|prefix|ぎょ}}
+
+# {{rfdef|ja}}
+
+====Suffix====
+{{ja-pos|suffix|ぎょ}}
+
+# {{rfdef|ja}}
+
+====Affix====
+{{ja-pos|affix|ぎょ}}
+
+# {{altspell|lang=ja|禦|tr=gyo|nodot=1}}: [[defend]], [[protect]]
+# {{rfdef|ja}}
 
 ===Usage notes===
 The prefixes ''mi-'' and ''o-'' frequently written in hiragana, both because it is complicated and common, and because its reading may be ambiguous if the term is unfamiliar. When the prefix is read as ''o-'' (as opposed to ''go-''), it is almost exclusively written in hiragana.
 
-While in general this prefix is optional, in many cases it is so commonly used that the base word can no longer be used in isolation, as in [[御飯]] (ごはん, gohan, rice) – the form ×飯 *''han'' is not used alone, though it can be used as parts of compounds (such as [[炊飯]], ''suihan''), and the character can be read in isolation as ''meshi''.
+While in general this prefix is optional, in many cases it is so commonly used that the base word can no longer be used in isolation, as in {{m|ja|御飯|tr=gohan|| rice}} – the form ×{{m|ja||飯|tr=*han}} is not used alone, though it can be used as parts of compounds (such as {{ja-l|炊飯}}, ''suihan'', “[[rice]] [[cook]]ing”), and the character can be read in isolation as ''meshi''.
 
 Usage varies between speakers, situations, and gender – more polite speech, especially by women, features more use of this prefix, while blunt speech, especially by men, uses it less or not at all (words where the prefix has become mandatory are replaced by blunter terms that do not have the prefix). In rare cases a prefixed term has become impolite, as in {{m|ja|御前|tr=omae||you (familiar or derogatory)}}.
 
-This character is generally read as お (o-) when it is prefixed to words considered to be of Japanese origin, as in [[御水]] (おみず, ''omizu'', ''water''), and ご (go-) when it is prefixed to words considered to be of Chinese origin, as in [[御主人]] (ごしゅじん, ''goshujin'', ''husband''). There are numerous exceptions, however, such as [[お電話]]. For (non-Chinese) foreign loan words ([[外来語]], [[gairaigo]]), this prefix is seldom used, and both お- and ご- may be used, but お- is somewhat preferred, as in [[おビール]] (''o-bīru'') for beer.
+This character is generally read as {{m|ja|お|tr=o-}} when it is prefixed to words considered to be of Japanese origin, as in {{m|ja|御水|tr=omizu||[[water]]}}, and {{m|ja|ご|tr=go-}} when it is prefixed to words considered to be of Chinese origin, as in {{m|ja|御主人|tr=goshujin||[[husband]]}}. There are numerous exceptions, however, such as {{m|ja|お電話|tr=o-denwa}}. For {{m|ja|外来語|tr=gairaigo||(non-Chinese) foreign loan words}}, this prefix is seldom used, and both {{ja-l||お}} and {{ja-l||ご}} may be used, but {{ja-l||お}} is somewhat preferred, as in {{m|ja|おビール|tr=o-bīru||[[beer]]}}.
 
-In some rare cases, it is pronounced み (''mi-''), primarily for religious words, pertaining to gods or the emperor, as in [[御輿]] (''mikoshi,'' a type of shrine). However, in this context it is often replaced by [[神]] ("god", also pronounced ''mi-''), and then a further 御 (pronounced お, ''o-'') may be added, as in [[御神輿]] (''o-mi-koshi''). The ''mi-'' prefix also became merged into other kanji, as in [[宮]] (''miya,'' imperial palace).
+In some rare cases, it is pronounced {{m|ja|み|tr=mi-}}, primarily for religious words, pertaining to gods or the emperor, as in {{m|ja|御輿|tr=mikoshi||[[portable]] [[shrine]]}}. However, in this context it is often replaced by {{ja-l|神}} ("god", also pronounced ''mi-''), and then a further {{ja-l||御|o-}} may be added, as in {{m|ja|御神輿|tr=o-mikoshi}}. The ''mi-'' prefix also became merged into other kanji, as in {{m|ja|宮|tr=miya||[[imperial]] [[palace]]}}.
 
-In rare cases, this is used as a suffix instead, notably in [[甥御]] ''oigo'' and [[姪御]] ''meigo'' (your nephew, your niece).
+In rare cases, this is used as a suffix instead, notably in {{m|ja|甥御|tr=oigo||your [[nephew]]}} and {{m|ja|姪御|tr=meigo||your [[niece]]}}.
 
-御 (お, ''o-'') should not be confused with [[大]] (おお, ''ō-,'' great), which is a less-commonly used prefix.
+{{m|ja||御|tr=o-}} should not be confused with {{m|ja|大|tr=ō-||[[great]]}}, which is a less-commonly used prefix.
 
 See [[w:Honorific speech in Japanese#Honorific prefixes|Honorific prefixes in Japanese]] for further discussion.
 
+===References===
+<references/>
 
 ----
 
