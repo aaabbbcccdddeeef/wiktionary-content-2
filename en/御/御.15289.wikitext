@@ -63,13 +63,29 @@
 {{ja-readings
 |goon=ご
 |kanon=ぎょ
-|kun=おん-, お-, おおむ-<おほむ-, おおん-<おほん-, み-
+|kun=おん-, お-, おおん-<おほん-<おほむ-, み-
+}}
+As variant ''kanji'' of {{ja-l|禦}}:
+{{ja-readings
+|goon=ご
+|kanon=ぎょ
+|kun=ふせ-ぐ
 }}
 
 ====Compounds====
-* {{ja-r|御者|ぎょしゃ|[[coachman]]}}
+{{der-top3|Compounds}}
+* {{ja-r|御衣|ぎょい}}
+* {{ja-r|御宇|ぎょ.う}}
+* {{ja-r|御者|ぎょしゃ}}
+* {{ja-r|御%物|ぎょ%ぶつ}}
+* {{ja-r|御簾|ぎょれん}}
+* {{ja-r|御酒|ごしゅ}}
+* {{ja-r|御前|ごぜん}}
+* {{ja-r|侍御|じぎょ}}
 * {{ja-r|制御|せいぎょ}}
+* {{ja-r|統御|とうぎょ}}
 * {{ja-r|防御|ぼうぎょ}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|お}}
@@ -82,11 +98,33 @@ Already apparent since the 14th century.
 ====Prefix====
 {{ja-pos|prefix|お}}
 
-# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] {{gl|as opposed to the [[speaker]]}}
 
 =====Derived terms=====
+{{der-top3}}
+* {{ja-r|御%家|お%いえ}}
+* {{ja-r|御%蔭|お%かげ|rom=-}}, {{ja-r|御%陰|お%かげ}}
+* {{ja-r|お侠|おきゃん}}
+* {{ja-r|御御|おご}}, {{ja-r|御御|おごう}}
+* {{ja-r|御籠もり|おこもり}}
+* {{ja-r|お酒|おさけ}}
+* {{ja-r|御師|おし}}
+* {{ja-r|白粉|おしろい}}
+* {{ja-r|御%節|お%せち}}
+* {{ja-r|御膳立て|おぜんだて}}
+* {{ja-r|御達し|おたっし}}
 * {{ja-r|御田|おでん}}
+* {{ja-r|お転婆|おてんば}}
 * {{ja-r|御%伽話|お%とぎばなし|rom=-}}, {{ja-r|御%伽噺|お%とぎばなし}}
+* {{ja-r|御披露目|おひろめ}}
+* {{ja-r|お前|おまえ}}
+* {{ja-r|御虎子|おまる}}
+* {{ja-r|御襁褓|おむつ}}
+* {{ja-r|お御|おみ-}}
+* {{ja-r|お休みなさい|おやすみなさい}}
+* {{ja-r|お礼|おれい|rom=-}}, {{ja-r|御%礼|お%れい}}
+* {{ja-r|御座す|おわす}}
+{{der-bottom}}
 
 =====Usage notes=====
 {{also|w:Honorific speech in Japanese#Honorific prefixes}}
@@ -107,10 +145,24 @@ Usage varies between speakers, situations, and gender – more polite speech, es
 ====Prefix====
 {{ja-pos|prefix|おん}}
 
-# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] {{gl|as opposed to the [[speaker]]}}
 
 =====Derived terms=====
+{{der-top3}}
+* {{ja-r|御%一%字|おん%-いち%じ}}
 * {{ja-r|御校|おんこう}}
+* {{ja-r|御師|おんし}}
+* {{ja-r|御衣|おんぞ}}
+* {{ja-r|御族|おんぞう}}
+* {{ja-r|御曹司|おんぞうし|rom=-}}, {{ja-r|御曹子|おんぞうし}}
+* {{ja-r|御%大|おん%たい}}
+* {{ja-r|御中|おんちゅう}}
+* {{ja-r|御%柱 祭|^おん%ばしら ^まつり}}
+* {{ja-r|御%服|おん%ぶく}}
+* {{ja-r|御%祭|^おん%まつり}}
+* {{ja-r|御身|おんみ}}
+* {{ja-r|御申し|おんもうし}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|おおん}}
@@ -118,17 +170,24 @@ Usage varies between speakers, situations, and gender – more polite speech, es
 
 {{IPAfont|⟨opomi<sub>1</sub>⟩}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">*{{IPAchar|/opomʲɨ/}}</span><span style="float:left;clear:both;">*{{IPAchar|/əpəmʲɨ/}}</span></span> → {{IPAchar|/oɸomʉ/}} → {{IPAchar|/owoɴ/}} → {{IPAchar|/oːɴ/}}
 
-Appears in the mid-late {{w|Heian period}}. First attested in the ''{{w|Wamyō Ruijushō}}'' (倭名類聚抄), 938, as man'yōgana form {{m|ja||於保无|<opomu> → ōmu-}} within {{m|ja||於保无太加良|<opomutakara> → ōmutakara|t=people, ''as a kun reading of'' [[人民]]}}.
+First attested in the ''{{w|Wamyō Ruijushō}}'' (938 {{CE}}), as ''man'yōgana'' form {{m|ja||於保无|tr=opomu- → ōmu-}} within {{m|ja|大御宝|於保无太加良|tr=opomutakara → ōmutakara|[[people]]|pos=as a ''kun'' reading of {{ja-l|人民}}}}.
 
 Shift from {{inh|ja|ojp|大御|tr={{IPAfont|⟨opomi<sub>1</sub>⟩}} → ōmi-|pos=[[prefix]] of [[maximum]] [[honorific]]}}.
 
 Both ''ōmu-'' and ''ōn-'' readings likely existed in free variation until the development of the {{ja-r|ん}} morpheme.
 
+====Alternative forms====
+* {{ja-l|大御}}
+
 ====Prefix====
 {{ja-pos|prefix|おおん|hhira=おほん}}<br/>
 {{ja-altread|hira=おおむ|rom=ōmu-|hhira=おほむ}}
 
-# {{lb|ja|sort=おおん|obsolete}} ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] (as opposed to the [[speaker]])
+# {{lb|ja|sort=おおん|obsolete}} ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] {{gl|as opposed to the [[speaker]]}}
+
+=====Derived terms=====
+* {{ja-r|御%時|おおん%とき}}
+* {{ja-r|御%身|おおん%み}}
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=k|み}}
@@ -149,21 +208,27 @@ Cognate with {{m|ja|[[霊]], [[神]]|tr=mi||[[spirit]], [[god]]}}, as this prefi
 # {{lb|ja|honorific|archaic}} ''added to [[placename]]s to emphasize [[beauty]]''
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|御%明|み%あかし|oil lamp lit for Shinto or Buddhist purposes}}
+* {{ja-r|御%厳|み%-いつ|rom=-}}, {{ja-r|御稜威|み-いつ}}
 * {{ja-r|御食|みけ|offering of food to a god or spirit}}
 * {{ja-r|御子|みこ|shrine maiden}}
 * {{ja-r|御%輿|み%こし|rom=-}}, {{ja-r|神%輿|み%こし|portable shrine}}
 * {{ja-r|尊|みこと|rom=-}}, {{ja-r|命|みこと|pos=title used for gods and emperors, and other exalted personages}}
+* {{ja-r|御%坂|み%さか}}
+* {{ja-r|御簾|みす}}
+* {{ja-r|御族|みぞう}}
+* {{ja-r|御%台%盤%所|み%-だい%ばん%どころ}}
 * {{ja-r|御%手洗|み%たらし}}
-* {{ja-r|道|みち|rom=-}}, {{ja-r|路|みち}}
+* {{ja-r|道|みち|rom=-}}, {{ja-r|路|みち|rom=-}}, {{ja-r|途|みち|rom=-}}, {{ja-r|径|みち}}
 * {{ja-r|峰|みね}}
 * {{ja-r|御%仏|み%ほとけ}}
 * {{ja-r|御%許|み%もと|pos=location of a god, Buddha, emperor, or other object of reverence}}
 * {{ja-r|御%座|み%まし|pos=presence of a god, Buddha, emperor, or other object of reverence}}
 * {{ja-r|宮|みや}}
+* {{ja-r|御息%所|みやす%どころ}}
 * {{ja-r|御%吉%野|み%-^よし%の}}
-* {{ja-r|大%御|おお%み-}}
+* {{ja-r|お御|おみ-}}
 {{der-bottom}}
 
 ====Usage notes====
@@ -180,10 +245,22 @@ The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
 ====Prefix====
 {{ja-pos|prefix|ご}}
 
-# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the listener (as opposed to the speaker)
+# ''indicates that the [word] is [[honorific]]''; often used to indicate that the [word] belongs or is related to the [[listener]] {{gl|as opposed to the [[speaker]]}}
 
 =====Derived terms=====
-* {{ja-r|ご飯|ごはん}}
+{{der-top3}}
+* {{ja-r|御主人|ごしゅじん}}
+* {{ja-r|御所|ごしょ}}
+* {{ja-r|御諚|ごじょう}}
+* {{ja-r|御所|^ごぜ}}
+* {{ja-r|御膳|ごぜん}}
+* {{ja-r|御殿|ごてん}}
+* {{ja-r|御飯|ごはん}}
+* {{ja-r|御返事|ごへんじ}}
+* {{ja-r|御本尊|ご-ほんぞん}}
+* {{ja-r|御用|ごよう}}
+* {{ja-r|御覧|ごらん}}
+{{der-bottom}}
 
 =====Usage notes=====
 {{also|w:Honorific speech in Japanese#Honorific prefixes}}
@@ -192,29 +269,36 @@ Prefixed to the Sino-Japanese words, as in {{m|ja|御主人|tr=goshujin||[[husba
 While in general this prefix is optional, in many cases it is so commonly used that the base word can no longer be used in isolation, as in {{m|ja|御飯|tr=gohan|| rice}} – the form ×{{m|ja||飯|tr=*han}} is not used alone, though it can be used as parts of compounds (such as {{ja-l|炊飯}}, ''suihan'', “[[rice]] [[cook]]ing”), and the character can be read in isolation as ''meshi''.
 
 ===Etymology 6===
-Short form of {{m|ja|御前|tr=gozen|t=noble person}}.
+{{ja-kanjitab|yomi=goon|ご}}
+
+Short form of {{m|ja|御前|tr=gozen||[[noble]] [[person]]}}.
 
 ====Suffix====
 {{ja-pos|suffix|ご}}
-#{{lb|ja|honorific}} ''indicates that the [word] is familiar to the speaker and slight [[honorific]]'' 
+
+# {{lb|ja|honorific}} ''indicates that the [word] is familiar to the speaker and slight [[honorific]]'' 
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|親%御|おや%ご|your [[parents]]}}
+* {{ja-r|御御|おご}}, {{ja-r|御御|おごう}}
+* {{ja-r|姉%御|あね%ご|[[big sister]], [[boss]]'s [[wife]]}}
 * {{ja-r|甥%御|おい%ご|your [[nephew]]}}
+* {{ja-r|親%御|おや%ご|your [[parent]]s}}
 * {{ja-r|姪%御|めい%ご|your [[niece]]}}
-* {{ja-r|姉%御|あね%ご|big sister, boss's wife}}
-* {{ja-r|女%御|にょう%ご|high-ranking court lady of the inner palace court}}
+* {{ja-r|女御|にょうご|high-ranking court lady of the inner palace court}}
 {{der-bottom}}
 
 ====Noun====
 {{ja-noun|ご}}
 
 # {{lb|ja|obsolete|archaic|honorific}} a [[lady]]
-#:Suffixed to the given name, via genitive particle {{ja-r|の}}.
-#:e.g. {{ja-r|伊勢の御|いせ の ご|rom=Ise no Go|linkto=}}
-# {{lb|ja|obsolete|archaic|honorific}} ''form of address to a woman or a court lady'': my [[Lady]]
-#:Used in the plural form {{ja-r|御%達|ご%たち}}.
+#: suffixed to the given name, via genitive particle {{ja-r|の}}:
+#: {{ja-usex-inline|[[伊勢]]の'''御'''|^いせ の '''^ご'''|{{w|Lady Ise|'''Lady''' Ise}}}}
+# {{lb|ja|obsolete|archaic|honorific}} ''form of address to a [[woman]] or a [[court]] lady'': my [[Lady]]
+#: used in the plural form {{m|ja|御達|tr=gotachi}}
+
+=====Derived terms=====
+* {{ja-r|御%達|ご%たち}}
 
 ===Etymology 7===
 {{ja-kanjitab|yomi=kanon|ぎょ}}
@@ -224,7 +308,17 @@ From {{bor|ja|ltc|-}} {{ltc-l|御}}.
 The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ====Alternative forms====
-* {{s|riding a horse or horse-drawn vehicle}} {{ja-l|馭}}
+* {{s|horseriding, coachman}} {{ja-l|馭}}
+
+====Noun====
+{{ja-noun|ぎょ}}
+
+# [[equestrianism]], [[horseriding]]
+# a [[coachman]]
+# {{lb|ja|by extension}} [[serve|serving]] [[nearby]] {{gl|to an [[aristocrat]], etc.}}
+
+=====Derived terms=====
+* {{ja-r|御する|ぎょする}}
 
 ====Prefix====
 {{ja-pos|prefix|ぎょ}}
@@ -232,11 +326,9 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 # ''prefixed to make a [[honorific]] kanji compound, especialy used to indicate that the [word] belongs or is related to the emperor and/or the equivalents''
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|御%意|ぎょ%い}}
+* {{ja-r|御意|ぎょい}}
 * {{ja-r|御%慶|ぎょ%けい}}
 * {{ja-r|御%製|ぎょ%せい}}
-{{der-bottom}}
 
 ====Suffix====
 {{ja-pos|suffix|ぎょ}}
@@ -244,15 +336,16 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 # ''suffixed to make a [[honorific]] kanji compound which means the action belongs or is related to the emperor and/or the equivalents''
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|還%御|かん%ぎょ}}
-* {{ja-r|渡%御|と%ぎょ}}
-* {{ja-r|崩%御|ほう%ぎょ}}
-{{der-bottom}}
+* {{ja-r|還御|かんぎょ}}
+* {{ja-r|渡御|とぎょ}}
+* {{ja-r|崩御|ほうぎょ}}
 
 ====Affix====
 {{ja-pos|affix|ぎょ}}
 
+# [[control]] {{gl|a [[machine]], etc.}}
+# [[govern]], [[rule#Verb|rule]]
+# [[servant]]
 # {{altspell|lang=ja|禦|tr=gyo|nodot=1}}: [[defend]], [[protect]]
 
 ===References===
@@ -266,6 +359,38 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 {{ko-hanja|hangeul=[[어]], [[아]]|eumhun=|rv=eo, a|mr=ŏ, a|y=e, a}}
 
 # {{defn|lang=ko|sort=彳08}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+Cognate with {{m|ojp|[[霊]], [[神]]|tr=mi<sub>1</sub>||[[spirit]], [[god]]}}, as this prefix was originally used to refer to gods and other spiritually important things.
+
+===Prefix===
+{{head|ojp|prefix|tr=mi<sub>1</sub>-|kana|み}}
+
+# {{lb|ojp|sort=み|honorific}}  ''added to [[god]]s and other [[spiritual]]ly [[important]] things''
+# {{lb|ojp|honorific}} ''added to [[nouns]] to indicate [[godlike]] [[respect]]''
+# {{lb|ojp|honorific}} ''added to [[placename]]s to emphasize [[beauty]]''
+
+====Derived terms====
+{{der-top3}}
+* {{m|ojp|御衣|tr=mi<sub>1</sub>ke<sub>1</sub>si}}
+* {{m|ojp|御籠|tr=mi<sub>1</sub>-ko<sub>1</sub>}}
+* {{m|ojp|尊}}, {{m|ojp|命|tr=mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
+* {{m|ojp|御坂|tr=mi<sub>1</sub>saka}}
+* {{m|ojp|御統|tr=mi<sub>1</sub>-sumaru}}
+* {{m|ojp|御谷|tr=mi<sub>1</sub>-tani}}
+* {{m|ojp|道}}, {{m|ojp|路|tr=mi<sub>1</sub>ti}}
+* {{m|ojp|御吉野|tr=mi<sub>1</sub>-Ye<sub>(2)</sub>sino<sub>1</sub>}}
+* {{m|ojp|宮|tr=mi<sub>1</sub>ya}}
+* {{m|ojp|御酒|tr=mi<sub>1</sub>wa}}
+* {{m|ojp|大御|tr=opomi<sub>1</sub>-|pos=maximum honorific prefix}}
+{{der-bottom}}
+
+====Descendants====
+* {{desc|ja|[[御]], [[美]], [[深]]|tr=mi-}}
 
 ----
 
