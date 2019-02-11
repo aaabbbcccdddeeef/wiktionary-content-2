@@ -3,18 +3,75 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=76|rad=欠|as=11|sn=15|four=47582|canj=TONO|ids=⿰𦰩欠}}
+{{Han char|rn=76|rad=欠|as=11|sn=15|four=47582|canj=TONO|ids=⿰⿱廿⿻口夫欠}}
 
-# to [[sigh]]
-# [[admire]]
+====Derived characters====
+* {{l|mul|[[擹]], [[𤁤]], [[𣋸]], [[𣞔]], [[𪇽]]}}
+
+====Related characters====
+* {{l|mul|叹}} {{q|[[Simplified Chinese]]}}
+* {{l|mul|嘆}} {{q|[[w:Variant Chinese character|Variant form]] of {{lang|mul|歎}} in Hong Kong}}
 
 ====References====
-* {{Han ref|kx=0571.240|dkj=16182|dj=0959.180|hdz=32149.080|uh=6B4E|ud=27470|bh=BCDB|bd=48347}}
+{{Han ref|kx=0571.240|dkj=16182|dj=0959.180|hdz=32149.080|uh=6B4E}}
 
 ----
 
 ==Chinese==
-{{zh-see|嘆|v}}
+{{zh-forms|s=叹|t2=嘆|alt=歏,𪇽,𣥁|note={{zh-l|嘆*}} - Traditional variant in Hong Kong}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tàn
+|c=taan3
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-form|嘆*|to [[sigh#Verb|sigh]]; to [[chant#Verb|chant]]; to [[praise#Verb|praise]]}}
+# one of 24 [[w:literary genre|literary genre]]s from the [[w:Zhou dynasty|Zhou dynasty]]
+# {{surname|lang=zh}} <!-- 《萬姓統譜·翰韻》 -->
+
+====Hypernyms====
+* {{sense|literary genre}} {{zh-l|文體}}
+
+====Coordinate terms====
+{{der-top5|literary genre}}
+* {{zh-l|賦}}
+* {{zh-l|頌}}
+* {{zh-l|銘}}
+* {{zh-l|贊}}
+* {{zh-l|文}}
+* {{zh-l|誄}}
+* {{zh-l|箴}}
+* {{zh-l|詩}}
+* {{zh-l|行}}
+* {{zh-l|咏}}
+* {{zh-l|吟}}
+* {{zh-l|題}}
+* {{zh-l|怨}}
+<!-- 歎 -->
+* {{zh-l|章}}
+* {{zh-l|篇}}
+* {{zh-l|操}}
+* {{zh-l|引}}
+* {{zh-l|謠}}
+* {{zh-l|謳}}
+* {{zh-l|歌}}
+* {{zh-l|曲}}
+* {{zh-l|詞}}
+* {{zh-l|調}}
+{{der-bottom}}
+
+===Compounds===
+{{zh-der|一倡三歎|一唱三歎|三歎|九歎|仰天長歎|仰屋竊歎|北門之歎|可歎|咳聲歎氣|哀歎|唉聲歎氣|嗐聲歎氣|廢書而歎|怨歎|悔毒之歎|悲歎|慨歎|拍膝嗟歎|擊節歎賞|望洋興歎|歎傷|歎吁|歎喟|歎嗟|歎恨|歎息|歎惋|歎惜|歎服|歎氣|歎為觀止|歎皇陵|歎美|歎羨|歎老嗟卑|歎賞|浩歎|牛山歎|白頭之歎|自怨自歎|詠歎|讚歎|蹙眉長歎|金聖歎|驚歎}}
 
 ----
 
@@ -26,22 +83,43 @@
 # {{defn|lang=ja|sort=欠11}}
 
 ====Readings====
-* {{ja-readings|on=[[たん]] (tan)|kun=[[なげく]] (nageku)}}
+{{ja-readings
+|on=たん
+|kun=なげく
+}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|悲%歎|ひ%たん}}
+{{der-bottom}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=탄|eumhun=|rv=tan|mr=t'an|y=than}}
+{{ko-hanja/new|탄}}
 
 # {{defn|lang=ko|sort=欠11}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|탄식|歎息}}
+* {{ko-l|탄원|歎願}}
+{{der-bottom}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thán]], [[thăn]], [[than]]|rs=欠11}}
+{{vi-readings|rs=欠11
+|hanviet=thán-gdhn;bonet;genibrel
+|phienthiet=他案 tha án
+|nom=than-btcn;genibrel, thăn-btcn;genibrel
+}}
 
 # {{defn|lang=vi|sort=欠11}}
+
+===References===
+<references/>
