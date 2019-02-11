@@ -61,47 +61,77 @@
 ====Readings====
 {{ja-readings
 |goon=ごん
-|kanon=げん
-|kanyoon=がん
+|kanon=げん<げん<ぐゑん
+|kanyoon=がん<ぐわん
 |kun=みなもと-
+|nanori=はじめ, もと, よし 
 }}
 
 ====Compounds====
-{{der5|lang=ja|{{ja-r|源%委|げん%い|}}
-|{{ja-r|源%泉|げん%せん|}}
-|{{ja-r|源%流|げん%りゅう|}}
-|{{ja-r|語%源|ご%げん|}}
-|{{ja-r|根%源|こん%げん|}}
-|{{ja-r|同%源|どう%げん|}}
-}}
+{{der-top3}}
+* {{ja-r|源委|げんい}}
+* {{ja-r|源泉|げんせん}}
+* {{ja-r|源流|げんりゅう}}
+* {{ja-r|淵源|えんげん}}
+* {{ja-r|起源|きげん}}
+* {{ja-r|語源|ごげん}}
+* {{ja-r|根源|こんげん}}
+* {{ja-r|光源|こうげん}}
+* {{ja-r|財%源|ざい%げん}}
+* {{ja-r|資源|しげん}}
+* {{ja-r|字源|じげん}}
+* {{ja-r|震源|しんげん}}
+* {{ja-r|塞%源|そく%げん}}
+* {{ja-r|電源|でんげん}}
+* {{ja-r|同源|どうげん}}
+* {{ja-r|病源|びょうげん}}
+* {{ja-r|本源|ほんげん}}
+{{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|みなもと|yomi=kun}}
-From {{attention|ja|Old or Middle Japanese?}} {{ja-compound|水|み|な|な|元|もと|t1=[[water]]|pos2=possessive particle|t3=origin, source|nocat=1}}
+{{ja-kanjitab|yomi=k|みなもと}}
+
+Derived from {{com|ja|sort=みなもと|水|tr1=mi|t1=[[water]]|pos1=combining form|な|tr2=na|pos2={{inh|ja|ojp|sort=みなもと|-}} possessive particle|[[元]], [[本]]|tr3=moto|t3=[[origin]], [[source]]}}.<ref>{{R:Daijisen}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
-{{ja-pron|みなもと|y=k}}
+{{ja-pron|y=k|みなもと|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|みなもと}}
-# [[source]], [[origin]]
+
+# a [[fountainhead]] {{gl|[[source]] of a [[river]]}}
+#: {{syn|ja|水源|tr=suigen}}
+# a source, [[origin]]
+#: {{syn|ja|起源|tr1=kigen|根源|tr2=kongen|本源|tr3=hongen}}
 
 ====Proper noun====
 {{ja-pos|みなもと|proper}}
-# {{surname|lang=ja|sort=みなもと}}
 
-====See also====
-* {{ja-r|源%氏|^みなもと%-し}}, {{ja-r|源%氏|^げん%じ}}
+# {{surname|lang=ja|A=a|nodot=1|sort=みなもと}}, ''especially'' those who are [[descendant]]s of {{w|Emperor Saga}}
 
 ===Etymology 2===
-From {{etyl|ltc|ja|sort=げん}} {{m|ltc|源|tr=nguan|pos=reconstructed by some linguists as {{IPAchar|/ŋʉɐn/}}}}
+{{ja-kanjitab|yomi=kanon|げん}}
 
-====Pronunciation====
-{{ja-pron|げん|y=kanon}}
+From {{bor|ja|ltc|sort=けん'|-}} {{ltc-l|源}}.
 
-====Suffix====
-{{ja-pos|suffix|げん}}
-# [[source]]
+====Noun====
+{{ja-noun|げん}}
+
+# [[source]], [[origin]]
+
+====Affix====
+{{ja-pos|affix|げん}}
+
+# [[fountainhead]]
+# [[source]], [[origin]]
+# {{short for|lang=ja|源氏|tr=Genji|nodot=1|sort=けん'}}: the {{w|Minamoto clan}}
+
+=====Derived terms=====
+* {{ja-r|源氏|^げんじ}}
+* {{ja-r|源%平%藤%橘|^げん%ぺい%とう%きつ|[[Minamoto]], [[Taira]], [[Fujiwara]], and [[Tachibana]]|pos=four powerful families in medieval Japan}}
+
+===References===
+<references/>
 
 ----
 
