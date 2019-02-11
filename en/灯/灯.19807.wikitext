@@ -25,34 +25,39 @@
 {{ja-kanji|grade=4|kyu=燈|rs=火02}}
 
 ====Readings====
-As shinjitai/variant kanji of {{ja-l|燈}}:
+As shinjitai/variant ''kanji'' of {{ja-l|燈}}:
 {{ja-readings
 |goon=とう
 |kanon=とう
-|kanyoon=とん
+|toon=とん
 }}
-As unsimplified kanji {{ja-l||灯}}:
+As unsimplified ''kanji'' {{ja-l||灯}}:
 {{ja-readings
 |goon=ちょう<ちやう
 |kanon=てい
 |toon=ちん
 }}
-Readings shared by both kanji:
+Readings shared by both ''kanji'':
 {{ja-readings
-|kun=あかし-, あか-り, とぼ-し, とぼ-す, とぼ-る, とも-し, ともしび-, とも-す, とも-る, ひ-, ほ-
+|kun=ひ-, あかし-, あか-り, とぼ-し, とぼ-す, とぼ-る, とも-し, ともしび-, とも-す, とも-る, ほ-
 |nanori=
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
+* {{ja-r|灯火|とうか}}
+* {{ja-r|灯油|とうゆ}}
 * {{ja-r|灯%籠|とう%ろう}}
-* {{ja-r|幻%灯|げん%とう}}
-* {{ja-r|提%灯|ちょう%ちん}}
+* {{ja-r|幻灯|げんとう}}
+* {{ja-r|夜灯|やとう}}
+* {{ja-r|提灯|ちょうちん}}
+* {{ja-r|行灯|あんどん}}
+* {{ja-r|鬼灯|ホオズキ}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|とう|yomi=o}}
-From {{der|ja|ltc|sort=|-}} {{ltc-l|燈}}.
+From {{bor|ja|ltc|sort=|-}} {{ltc-l|燈}}.
 
 ====Pronunciation====
 {{ja-pron|y=o|とう|acc=1|acc_ref=DJR}}
@@ -60,21 +65,46 @@ From {{der|ja|ltc|sort=|-}} {{ltc-l|燈}}.
 ====Noun====
 {{ja-noun|kyu=燈|とう}}
 
-# [[light]]
+# a [[light]], [[lamp]]
+#: {{syn|ja|明かり|tr=akari}}
+
+=====Derived terms=====
+* {{ja-r|灯%心|とう%しみ|rom=-}}, {{ja-r|灯%芯|とう%しみ|[[wick]]}}
+* {{ja-r|終夜灯|しゅうやとう}}
+* {{ja-r|電灯|でんとう}}
+* {{ja-r|電気灯|でんきとう}}
+
+=====Proverbs=====
+* {{ja-r|灯滅せんとして光を増す|とう めっせん と して ひかり を ます}}
 
 ====Counter====
 {{ja-pos|counter|kyu=燈|とう}}
 
-# [[electric]] [[light]]s
+# ''counter for {{m|ja|電灯|tr=dentō||[[electric]] [[light]]s}}''
+
+=====Derived terms=====
+* {{ja-r|一灯|いっとう}}
 
 ====Suffix====
 {{ja-pos|suffix|kyu=燈|とう}}
 
 # [[electric]] [[light]]
 
+=====Derived terms=====
+* {{ja-r|アーク灯|アーク-とう}}
+
+====Affix====
+{{ja-pos|affix|kyu=燈|とう}}
+
+# [[light]], [[lamp]]
+# [[Buddhist]] [[teaching]]
+
 ===Etymology 2===
 {{ja-kanjitab|ともし|yomi=k}}
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tomosu||to [[light]]}}.
+
+First attested around the 10th century.
+
+From {{m|ja|点し|tr=tomoshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|点す|tr=tomosu||to [[light]]}}.
 
 ====Pronunciation====
 {{ja-pron|y=k|ともし|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
@@ -83,11 +113,18 @@ The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す
 {{ja-noun|kyu=燈|ともし}}
 
 # a [[light]]
-# {{altspelling|lang=ja|照射||a [[torch]] used to [[bait]] [[deer]]}}
+# {{altspell|lang=ja|照射|tr=tomoshi|nodot=1|sort=ともし}}: a [[torch]] used to [[bait]] [[deer]] when [[night]] [[hunting]]
+
+=====Derived terms=====
+* {{ja-r|灯%油|ともし%あぶら}}
+* {{ja-r|灯|ともし%び|rom=-}}, {{ja-r|灯%火|ともし%び|rom=-}}, {{ja-r|燭|ともし%び}}
 
 ===Etymology 3===
 {{ja-kanjitab|ともしび|yomi=k}}
-Compound of {{m|ja|点し|tr=tomoshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tomosu||to [[light]]}} + {{m|ja|火|tr=hi||[[fire]]}}. The ''hi'' changes to ''bi'' as an instance of {{rendaku|sort=ともしひ}}.
+
+Compound of {{com|ja|sort=ともしひ|点し|tr1=tomoshi|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|点す|tr=tomosu}}, “to [[light]]”‎|火|tr2=hi|t2=[[fire]]}}.
+
+{{rendaku2|sort=ともしひ|hi|bi}}
 
 ====Alternative forms====
 * {{ja-l|灯火}}, {{ja-l|燭}}
@@ -99,9 +136,10 @@ Compound of {{m|ja|点し|tr=tomoshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem
 {{ja-noun|kyu=燈|ともしび}}
 
 # a [[light]]
-#* {{quote-song|year=1986|lyricist={{w2|ja|宮崎駿}}|composer=|title={{w2|ja|君をのせて (井上あずみの曲)|君をのせて}}|album=|url=|artist={{w2|ja|井上あずみ}}}}
-#*: {{ja-usex|[[輝く]][[瞳]]　[[煌めく|きらめく]] '''灯'''|かがやく ひとみ　きらめく '''ともしび'''|shining pupils, and glittering '''lights'''|sort=ともしひ}}
-# a [[lit]] [[flame]] such as a [[candle]] or [[torch]]
+#* {{quote-song|year=1986|lyricist={{w|Hayao Miyazaki}}|composer={{w|Joe Hisaishi}}|title={{w2|ja|君をのせて (井上あずみの曲)|君をのせて}}|trans-title=Reaching You|album=|url=|artist={{w|Azumi Inoue}}|lang=ja}}
+#*: {{ja-usex|sort=ともしひ|地球はまわる君をかくして　輝く瞳きらめく'''灯'''...|^ちきゅう は まわる きみ を かくして　かがやく ひとみ きらめく '''ともしび'''...|The Earth spins, hiding your shining pupils and glittering '''lights'''.}}
+#: {{syn|ja|明かり|tr=akari|灯火|tr2=tōka}}
+# a [[lit]] [[flame]] {{gl|such as of a [[candle]] or [[torch]]}}
 # {{lb|ja|sort=ともしび|historical|obsolete}} under the {{w|Ritsuryō}} system in the {{w|Heian period}}, a kind of [[scholarship]] granted to [[university]] [[student]]s
 
 =====Derived terms=====
@@ -109,11 +147,13 @@ Compound of {{m|ja|点し|tr=tomoshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem
 
 ===Etymology 4===
 {{ja-kanjitab|とぼし|yomi=k}}
-{{IPAchar|/tomosi/}} → {{IPAchar|/tobosi/}} → {{IPAchar|/toboɕi/}}
 
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|点す|tr=tobosu||to [[light]]|pos=archaic}}.
+From {{m|ja|点し|tr=toboshi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|点す|tr=tobosu||to [[light]]|pos=archaic}}.
 
-Appears to be a shift from ''tomoshi'' above, nasal /m/ becomes plosive /b/.
+Equivalent to a shift from ''tomoshi'' above, the nasal {{IPAchar|/-m-/}} becomes plosive {{IPAchar|/-b-/}}.
+
+====Alternative forms====
+* {{ja-l|点火}}
 
 ====Pronunciation====
 {{ja-pron|y=k|とぼし|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
@@ -121,16 +161,37 @@ Appears to be a shift from ''tomoshi'' above, nasal /m/ becomes plosive /b/.
 ====Noun====
 {{ja-noun|kyu=燈|とぼし}}
 
-# {{lb|ja|archaic|sort=とほし}} a [[light]]; a [[lamp]]
+# {{lb|ja|archaic|sort=とほし}} an [[indoor]] [[torch]]
+# {{lb|ja|archaic}} ''Same as {{m|ja||ともし|tr=tomoshi}} above''
+
+=====Derived terms=====
+* {{ja-r|灯%油|とぼし%あぶら}}
+* {{ja-r|灯|とぼし%び|rom=-}}, {{ja-r|灯%火|とぼし%び|rom=-}}, {{ja-r|燭|とぼし%び}}
 
 ====Proper noun====
-{{ja-pos|proper|とぼし}}
+{{ja-pos|proper|kyu=燈|とぼし}}
 
-# ''a [[place name]]''
+# ''a [[placename]]''
 
 ===Etymology 5===
+{{ja-kanjitab|とぼしび|yomi=irr}}
+
+Compound of {{com|ja|点し|tr1=toboshi|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|点す|tr=tobosu}}, “to [[light]]”‎, archaic|火|tr2=hi|t2=[[fire]]}}. {{rendaku2|hi|bi}}
+
+Equivalent to a shift from ''tomoshibi'' above, the nasal {{IPAchar|/-m-/}} becomes plosive {{IPAchar|/-b-/}}.
+
+====Alternative forms====
+* {{ja-l|灯火}}, {{ja-l|燭}}
+
+====Noun====
+{{ja-noun|kyu=燈|とぼしび}}
+
+# {{lb|ja|archaic}} ''Same as {{m|ja||ともしび|tr=tomoshibi}} above''
+
+===Etymology 6===
 {{ja-kanjitab|あかし|yomi=k}}
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|明かす|tr=akasu||to [[pass]]}}.
+
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|明かす|tr=akasu||to go through the whole night}}.<ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Alternative forms====
 * {{ja-l|明かし}}
@@ -140,16 +201,20 @@ The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|明か
 
 ====Noun====
 {{ja-noun|kyu=燈|あかし}}
-# a [[light]] or [[lamp]], especially in the context of [[Shinto]] and [[Buddhism]].
-#* {{quote-song|year=1987|lyricist={{w2|ja|たかたかし}}|composer=|title={{w2|ja|あばれ太鼓}}|album=|url=|artist={{w2|ja|坂本冬美}}}}
-#*: {{ja-usex|[[櫓%太%鼓]]の'''灯'''が[[揺れる|ゆれて]][[揃う|揃い]][[浴衣]]の[[夏]]が[[行く|ゆく]]|やぐら%-だい%こ の '''あかし''' が ゆれて そろい ゆかた の なつ が ゆく|sort=あかし}}
+
+# a [[light]], [[lamp]]
+#* {{quote-song|year=1987|lyricist={{w|lang=ja|たかたかし|Takashi Taka}}|composer={{w|lang=ja|猪俣公章|Kōshō Inomata}}|title={{w2|ja|あばれ太鼓}}|trans-title=Raging Drums|album=|url=|artist={{w|Fuyumi Sakamoto}}|lang=ja}}
+#*: {{ja-usex|[[櫓%太%鼓]]の'''灯'''がゆれて　揃い[[浴衣]]の夏がゆく|やぐら%-だい%こ の '''あかし''' が ゆれて　そろい ゆかた の なつ が ゆく|The festival-commencing '''lamp''' sways, all in summer ''[[yukata]]'' have come.}}
+# {{lb|ja|sort=あかし|Shinto|Buddhism}} a light {{gl|or [[lighted]] [[lamp]]}} offered to a ''[[kami]]'' or [[buddha]]
+#: {{syn|ja|[[御灯]], [[御明かし]], [[御灯明]]|tr=miakashi}}
 
 =====Derived terms=====
-* {{ja-r|御%灯|み%あかし|[[lighted]] [[lamp]] used as a [[religious]] [[offering]]}}
+* {{ja-r|御%灯|み%あかし}}
 
-===Etymology 6===
+===Etymology 7===
 {{ja-kanjitab|ひ|yomi=k}}
-Cognate with {{m|ja|火|tr=hi||[[fire]]}}.
+
+Cognate with and extension of {{m|ja|火|tr=hi||[[fire]]}}.<ref name="DJS"/>
 
 ====Pronunciation====
 {{ja-pron|y=k|ひ|acc=1|acc_ref=DJR}}
@@ -157,9 +222,10 @@ Cognate with {{m|ja|火|tr=hi||[[fire]]}}.
 ====Noun====
 {{ja-noun|kyu=燈|ひ}}
 
-# a [[light]] that [[illuminates]] objects
-#* {{quote-song|year=1986|lyricist={{w2|ja|宮崎駿}}|composer=|title={{w2|ja|君をのせて (井上あずみの曲)|君をのせて}}|album=|url=|artist={{w2|ja|井上あずみ}}}}
-#*: {{ja-usex|[[たくさん]]の'''灯'''が　[[なつかしい]]のは　[[あの]][[どれか]][[ひとつ]]に　[[君]]が[[いる]]から|たくさん の '''ひ''' が　なつかし.い の は　あの どれか ひとつ に　きみ が いる から||sort=ひ}}
+# a [[light]], [[lamp]]
+#* {{quote-song|year=1986|lyricist={{w|Hayao Miyazaki}}|composer={{w|Joe Hisaishi}}|title={{w2|ja|君をのせて (井上あずみの曲)|君をのせて}}|trans-title=Reaching You|album=|url=|artist={{w|Azumi Inoue}}|lang=ja}}
+#*: {{ja-usex|...[[たくさん]]の'''灯'''が[[懐かしい]]のは　あのどれかひとつに君がいるから|...たくさん の '''ひ''' が なつかし.い の は　あの どれか ひとつ に きみ が いる から}}
+#: {{syn|ja|明かり|tr=akari}}
 
 =====Derived terms=====
 * {{ja-r|灯%涼し|ひ%すずし|[[coolness]] of [[twinkle|twinkling]] lights}}
