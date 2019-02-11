@@ -2,35 +2,49 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{Han simp|嘆|f=𦰩|t=又}}; {{Han simp|歎|nocap=1}}.
-
 ===Han character===
-{{Han char|rn=30|rad=口|as=02|sn=5|four=|canj=RE|ids=⿰口又}}
+{{Han char|rn=30|rad=口|as=02|sn=5|four=67040|canj=RE|ids=⿰口又}}
+
+====Derived characters====
+* {{l|mul|[[𡊙]], [[𠭵]], [[𠼡]]}}
+
+====Related characters====
+* {{l|mul|嘆}} {{q|[[Traditional Chinese]]}}
+* {{l|mul|歎}} {{q|[[w:Variant Chinese character|Variant]] [[Traditional Chinese|traditional form]] of {{l|mul|嘆}} in Mainland China}}
 
 ====References====
-* {{Han ref|kx=0174.091|dkj=03265|dj=0386.050|hdz=10575.040|uh=53F9|ud=21497}}
+{{Han ref|kx=0174.091|dkj=03265|dj=0386.050|hdz=10575.040|uh=53F9}}
 
 ----
 
 ==Chinese==
 
+===Glyph origin===
+; Etymology 1 and 2: {{Han simp|嘆|f=𦰩|t=又}}. Also {{Han simp|歎|nocap=1}}.
+
 ===Etymology 1===
 {{zh-see|嘆}}
 
 ===Etymology 2===
-{{zh-see|又|v}}
+{{zh-see|歎}}
 
 ===Etymology 3===
+{{zh-see|又|hv}}
+
+===Etymology 4===
+{{zh-forms}}
+
 ====Pronunciation====
 {{zh-pron
 |m=yǐ
+|cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{uncertain|zh|nohypothesis=1}}
+# {{zh-hd}} {{uncertain|zh|nohypothesis=1}}
+
 ----
 
 ==Japanese==
@@ -41,4 +55,7 @@
 # {{defn|lang=ja|sort=口02}}
 
 ====Readings====
-* {{ja-readings|on=[[ゆう]] (yū)|kun=[[いう]] (iu)}}
+{{ja-readings
+|on=ゆう
+|kun=いう
+}}
