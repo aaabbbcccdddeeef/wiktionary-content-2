@@ -6,21 +6,31 @@
 {{ja-forms|嘆|[[叹]]|嘆}}
 
 ===Alternative forms===
-Note that in traditional Chinese, the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] for this character is written with [[廿]] on top while in Japanese [[wikipedia:Shinjitai|shinjitai]], the component [[File:U26c29.svg|25px|text-bottom|𦰩|link=𦰩]] is written with [[艹]] on top and has one stroke less. In simplified Chinese, the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] is simplified to [[又]] instead.
+* In [[Traditional Chinese]], Japanese [[kyūjitai]], Korean [[hanja]] and Vietnamese [[Hán Nôm ]], the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] for this character is written with {{l|mul|廿}} on top. Note that the bottom portion is written {{l|mul|口}} overlapped by {{l|mul|夫}} and not {{l|mul|中}} on top of {{l|mul|天}}.
+* In Japanese [[shinjitai]], the component [[File:U26c29.svg|25px|text-bottom|𦰩|link=𦰩]] is written with <big>{{l|mul|sc=Jpan|艹}}</big> on top and has one stroke less. Due to [[w:Han unification|Han unification]], both traditional Chinese and Japanese shinjitai forms are encoded under the same [[code point]]. The appearance of this character will differ depending on the font used.
+* In [[Simplified Chinese]], the component [[File:U26c29-ue0102.svg|25px|text-bottom|𦰩󠄂|link=𦰩]] is simplified to {{l|mul|又}} instead, giving the character {{l|mul|叹}} (<code>U+53F9</code>).
+* Two [[w:CJK Compatibility Ideographs|compatibility ideographs]] exist for this character. <code>U+FA37</code> corresponds to the [[kyūjitai]] form of this character while <code>U+2F84C</code> is an alternative form used in Taiwan and North Korea which is similar to Japanese shinjitai but the top right component is written <big>{{lang|mul|sc=Hant|艹}}</big> (4 strokes) instead of <big>{{lang|mul|sc=Jpan|艹}}</big> (3 strokes).
 
 ===Han character===
-{{Han char|rn=30|rad=口|as=11|asj=10|sn=14|snj=13|four=64034|canj=RTLO|ids=⿰口𦰩(GHTKV),⿰口⿱艹⿻口夫(J)}}
+{{Han char|rn=30|rad=口|as=11|asj=10|sn=14|snj=13|four=64034|canj=RTLO,RTAO|ids=⿰口⿱廿⿻口夫(GHTKV,<code>U+FA37</code>),⿰口𦰩(J,<code>U+2F84C</code>)}}
+
+====Derived characters====
+* {{l|mul|𫛗}}
+
+====Related characters====
+* {{l|mul|叹}} {{q|[[Simplified Chinese]]}}
+* {{l|mul|歎}} {{q|Orthodox form in Hong Kong; [[w:Variant Chinese character|Variant]] [[Traditional Chinese|traditional form]] of {{l|mul|嘆}} in Mainland China}}
 
 ====References====
-* {{Han ref|kx=0205.010|dkj=04138|dj=0427.210|hdz=10673.080|uh=5606|ud=22022|bh=B9C4|bd=47556}}
-
-===Usage notes===
-In [[wikipedia:Classical Chinese|classical Chinese]], this character is used [[interchangeably]] with [[歎]] to express a [[sigh]] or [[lament]].
+{{wikidata|Q55408224}}
+{{Han ref|kx=0205.010|dkj=04138|dj=0427.210|hdz=10673.080|uh=5606}}
+{{Han ref|uh=FA37}}
+{{Han ref|uh=2F84C}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=叹|t2=歎}}
+{{zh-forms|s=叹|t2=歎|alt=𡂥}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -43,11 +53,14 @@ In [[wikipedia:Classical Chinese|classical Chinese]], this character is used [[i
 ===Definitions===
 {{zh-hanzi}}
 
-# to [[sigh]]
 # {{lb|zh|grammar}} {{zh-abbrev|嘆詞|[[interjection]]}}
-# to [[chant]]
-# to [[praise]]
+# to [[sigh#Verb|sigh]]
+# to [[chant#Verb|chant]]
+# to [[praise#Verb|praise]]
 # {{lb|zh|Cantonese}} to [[enjoy]]
+
+====Usage notes====
+{{lang|zh|sc=Hant|嘆}} is considered a [[w:Variant Chinese character|variant form]] of {{zh-l|歎*}} in Hong Kong.
 
 ===Compounds===
 {{zh-der|對天長嘆|嘆詞|嘆息|怨嘆|可嘆|悲嘆|付之一嘆|感嘆詞|嘆氣|廢然長嘆|慨嘆|感嘆句|嘆美|嘖嘖讚嘆|廣武嘆|嘆為觀止|仰屋興嘆|咳聲嘆息|嘆服|嗟嘆|感嘆|惋嘆|唉聲嘆氣|喟然而嘆|喟嘆|望洋驚嘆|拍桌驚嘆|搖頭嘆息|短嘆長吁|芝焚蕙嘆|自嘆不如|詠嘆|長嘆|驚嘆號|興嘆|長吁短嘆|自嗟自嘆|驚嘆|讚嘆|詠嘆調}}
@@ -59,10 +72,10 @@ In [[wikipedia:Classical Chinese|classical Chinese]], this character is used [[i
 ===Kanji===
 {{ja-kanji|grade=c|rs=口11|kyu=嘆}} <!-- Kyūjitai form is encoded as U+FA37 (Compatibility Ideograph) -->
 
-# [[sigh]]
-# [[lament]]
-# [[moan]]
-# [[grieve]]
+# to [[sigh#Verb|sigh]]
+# to [[lament]]
+# to [[moan]]
+# to [[grieve]]
 
 ====Readings====
 {{ja-readings
@@ -76,25 +89,42 @@ In [[wikipedia:Classical Chinese|classical Chinese]], this character is used [[i
 
 From {{der|ja|ltc|-}} {{ltc-l|嘆}}.
 
+===Pronunciation===
+{{ja-pron|たん|yomi=o}}
+
 ===Noun===
 {{ja-noun|たん}}
 
-# [[sigh]]
+# [[sigh#Noun|sigh]]
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=탄|rv=tan|mr=t'an}}
+{{ko-hanja/new|탄}}
 
 # {{defn|lang=ko|sort=口11}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|애탄|哀嘆}}
+* {{ko-l|감탄|感嘆}}
+* {{ko-l|탄식|嘆息}}
+{{der-bottom}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thán]], [[han]], [[thăn]], [[than]], [[hen]], [[thơn]]|rs=口11}}
+{{vi-readings|rs=口11
+|hanviet=thán-tdcndg;tdcntd;gdhn;bonet, than-bonet
+|phienthiet=他案 tha án
+|nom=than-tdcndg;tdcntd;gdhn;btcn;bonet;taberd, han-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, thán-tdcntd;btcn;taberd, thăn-btcn;taberd, hớn-tdcndg, hen-gdhn, thơn-gdhn
+}}
 
-# {{defn|lang=vi|sort=口11}}
+# {{Nom form of|than|to [[complain]]}}
+
+===References===
+<references/>
