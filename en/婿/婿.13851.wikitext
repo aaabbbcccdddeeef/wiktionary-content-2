@@ -61,9 +61,16 @@
 |kun=むこ-
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|むこ|yomi=k}}
-{{rfe|ja}}
+&#42;moko → *<muko<sub>1</sub>> → /muko/
+
+Not comfirmed in the {{ncog|ojp|-}} documents, although presence of the cognate words suggests {{inh|ja|jpx-pro|*mòkô}} (cognate with {{cog|ryu|むーく|tr=muːku}}, {{cog|xug|むふ|tr=muhu}}, {{cog|mvi|むく|tr=muku}} and the ''moko'' below). This is a result of the phonological change, that non-final ''*o'' in the nouns of Proto-Japonic became &#60;u&#62; in Old Central Japanese.
+
+In regard to the derivation, there are some theories proposed, however many of them are associated with the verbs {{ja-r|向かふ|むかふ|rom=mukafu}} > {{ja-r|向かう|むかう|to go towards}} and {{ja-r|迎ふ|むかふ|rom=mukafu}} > {{ja-r|迎える|むかえる|to receive}}, from the same root with {{ja-r|向く|むく|to turn toward}}, from {{cog|jpx-pro|*múk-}}. Theory to explain this inconsistency in the proto-forms has not been published yet.
+
+===Alternative forms===
+* {{l|ja|聟}}
 
 ===Noun===
 {{ja-noun|むこ}}
@@ -72,6 +79,25 @@
 
 ====Derived terms====
 * {{ja-r|花婿|はなむこ}}
+
+===Etymology 2===
+{{ja-kanjitab|もこ|yomi=irr}}
+&#42;moko → <mo<sub>1</sub>ko<sub>1</sub>> → /moko/
+
+From the {{inh|ja|ojp|-}} dialects other than Central, conserved ''*o'' as <o<sub>1</sub>>, from {{inh|ja|jpx-pro|*mòkô}}.
+
+As document records, appered as {{m|ojp|毛胡}}, {{m|ojp|毛古|tr=<mo<sub>1</sub>ko<sub>1</sub>> → moko|pos=interpreted as {{m|ja|仲間|t=fellow}} or {{m|ja|対手|t=opponent}} in the later times}} in the ''{{w|Kojiki}}'' and ''{{w|Nihon Shoki}}''.
+
+===Alternative forms===
+* {{l|ja|聟}}
+
+====Noun====
+{{ja-noun|もこ}}
+
+# {{lb|ja|dialectal|Tōhoku|Northern Kantō|Niigata|Nagano|Chūgoku|etc.}} [[groom]], a man who is marrying
+# {{lb|ja|etymology|archaic|obsolete}} someone who confront against someone else; [[comrade]], [[foe]]
+#*{{RQ:Shinsen Jikyō}}
+#*: {{usex|ja|聟 '''毛古'''、又{{m|ja|敵|加太支}}|聟 (groom): '''''moko''''' also ''kataki'' (enemy)}}
 
 ----
 
