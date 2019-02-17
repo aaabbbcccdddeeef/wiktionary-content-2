@@ -1,16 +1,14 @@
 {{character info/new}}
 ==Translingual==
 
-===Etymology===
-{{liushu|ic}} - [[水]] ("water") + [[田]] ("field"); hence the definition "rice field". The sound is from similar [[沓]].
-
 ===Han character===
 {{Han char|rn=102|rad=田|as=04|sn=9|four=12603|canj=EW,XEW|ids=⿱水田}}
 
-# [[rice]] [[field]]
+====Derived characters====
+* {{l|mul|[[𭏉]], [[𬈔]], [[䄕]], [[𮍾]], [[𮔭]]}}
 
 ====References====
-* {{Han ref|kx=0760.341|dkj=|dj=1170.170|hdz=42533.061|uh=7553|ud=30035|bh=|bd=}}
+{{Han ref|kx=0760.341|dj=1170.170|hdz=42533.061|uh=7553}}
 
 ----
 
@@ -19,33 +17,24 @@
 
 ===Pronunciation===
 {{zh-pron
-|m=duō
-|m-s=
-|dg=
-|c=
-|c-t=
-|g=
-|h=pfs=
-|j=
-|mb=
-|md=
-|mn=
-|mn-t=
-|w=
-|x=
-|mc=y
-|oc=y
-|cat=n
+|m=quán
+|cat=pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{lb|zh|Taiwan}} {{zh-used2|n}}
+
+===References===
+* {{R:zh:CNS|f|2c4a}}
 
 ----
 
 ==Korean==
+
+===Glyph origin===
+Korean [[w:Hanja#Gukja|''gukja'']]. {{Han compound|水#Korean|田#Korean|t1=water|t2=field|ls=ic}}. The sound is obtained from similar {{ko-l|답|沓}}.
 
 ===Hanja===
 {{ko-hanja/new|논|답}}
@@ -101,5 +90,4 @@
 {{der-bottom}}
 
 [[Category:Hanja readings|답]]
-
 [[Category:Korean-only CJKV Characters|田+04]]
