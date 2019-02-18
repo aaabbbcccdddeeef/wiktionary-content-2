@@ -1,14 +1,16 @@
 {{character info/new}}
 ==Translingual==
 {{CJKV-forms|情|情|情|情}}
+<div style="float:right;">
 {{stroke order|type=gbw|strokes=11}}
 {{stroke order|type=tbw|strokes=11}}
+</div>
 {{stroke order|type=ganimate}}
 
 ===Alternative forms===
-* In mainland China, Hong Kong (based on its educational standard), Japanese [[kanji]] and Vietnamese [[Nôm]], the bottom right component is written {{l|mul|⺝}} with a vertical {{l|mul|丨}} left stroke.
+* In mainland China, Hong Kong (based on its educational standard), Japanese [[kanji]] and Vietnamese [[Hán Nôm]], the bottom right component is written {{l|mul|⺝}} with a vertical {{l|mul|丨}} left stroke.
 * In Taiwan, the bottom right component is written {{l|mul|月}} with a curved {{l|mul|丿}} left stroke.
-* In Korean [[hanja]], the bottom right component is written {{l|mul|円}} which is the historical form found in the {{w|Kangxi Dictionary}}.
+* In Korean [[hanja]], the bottom right component is written {{l|mul|円}} which is the historical form found in the [[w:Kangxi Dictionary|Kangxi Dictionary]].
 
 ===Han character===
 {{Han char|rn=61|rad=心|as=08|sn=11|four=95027|canj=PQMB|ids=⿰忄青(GHTJV),⿰忄靑(K)}}
@@ -17,6 +19,7 @@
 * {{l|mul|𫠽}}
 
 ====References====
+{{wikidata|Q54901455}}
 {{Han ref|kx=0389.310|dkj=10756|dj=0723.170|hdz=42312.130|uh=60C5}}
 
 ----
@@ -55,7 +58,7 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# [[feeling]]; [[sentiment]]; [[emotion]]
+# [[feeling#Noun|feeling]]; [[sentiment]]; [[emotion]]
 #: {{zh-x|感情|feeling}}
 #: {{zh-x|愛情|love}}
 # [[love]]; [[affection]] {{zh-mw|段|份}}
@@ -76,7 +79,7 @@
 ===Kanji===
 {{ja-kanji|grade=5|rs=心08}}
 
-# [[emotion]]; [[feeling]]
+# [[emotion]]; [[feeling#Noun|feeling]]
 
 ====Readings====
 {{ja-readings
@@ -86,9 +89,9 @@
 }}
 
 ====Compounds====
-{{der2|lang=ja|title=Terms derived from {{ja-r|情|せい}}:
-|{{ja-r|風情|ふぜい}}: [[taste#Noun|taste]]; [[elegance]]; [[appearance]]
-}}
+{{der-top3|Compounds}}
+* {{ja-r|風%情|ふ%ぜい|[[taste#Noun|taste]]; [[elegance]]; [[appearance]]}}
+{{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|じょう|yomi=o}}
@@ -100,26 +103,26 @@ From {{der|ja|ltc|sort=じょう|-}} {{ltc-l|情}}.
 ===Noun===
 {{ja-noun|じょう}}
 
-# [[emotion]]; [[feeling]]
+# [[emotion]]; [[feeling#Noun|feeling]]
 
 ====Derived terms====
-{{der2|lang=ja|title=Terms derived from {{ja-r|情|じょう}}:
-|{{ja-r|愛情|あいじょう}}: [[love]]
-|{{ja-r|詩情|しじょう}}: [[poetic]] [[sentiment]]
-|{{ja-r|事情|じじょう}}: [[state of affairs]]
-|{{ja-r|実情|じつじょう}}: [[real]] [[condition]]; [[actual]] [[circumstance]]s
-|{{ja-r|情感|じょうかん}}: [[emotion]]
-|{{ja-r|情事|じょうじ}}: [[love affair]]
-|{{ja-r|情勢|じょうせい}}: [[situation]]
-|{{ja-r|情報|じょうほう}}: [[information]]
-|{{ja-r|情熱|じょうねつ}}: [[enthusiasm]]
-|{{ja-r|非情|ひじょう}}: [[heartlessness]]
-|{{ja-r|表情|ひょうじょう}}: [[facial expression]]
-|{{ja-r|風情|ふうじょう}}: [[appearance]]; [[outward]] [[attitude]]
-|{{ja-r|熱情|ねつじょう}}: [[passion]]
-|{{ja-r|友情|ゆうじょう}}: [[friendship]]
-|{{ja-r|旅情|りょじょう}}: [[travel]] [[weariness]]
-}}
+{{der-top3}}
+* {{ja-r|情%感|じょう%かん}}: [[emotion]]
+* {{ja-r|情%事|じょう%じ}}: [[love affair]]
+* {{ja-r|情%勢|じょう%せい}}: [[situation]]
+* {{ja-r|情%報|じょう%ほう}}: [[information]]
+* {{ja-r|情%熱|じょう%ねつ}}: [[enthusiasm]]
+* {{ja-r|愛%情|あい%じょう}}: [[love]]
+* {{ja-r|詩%情|し%じょう}}: [[poetic]] [[sentiment]]
+* {{ja-r|事%情|じ%じょう}}: [[state of affairs]]
+* {{ja-r|実%情|じつ%じょう}}: [[real]] [[condition]]; [[actual]] [[circumstance]]s
+* {{ja-r|非%情|ひ%じょう}}: [[heartlessness]]
+* {{ja-r|表%情|ひょう%じょう}}: [[facial expression]]
+* {{ja-r|風%情|ふう%じょう}}: [[appearance]]; [[outward]] [[attitude]]
+* {{ja-r|熱%情|ねつ%じょう}}: [[passion]]
+* {{ja-r|友%情|ゆう%じょう}}: [[friendship]]
+* {{ja-r|旅%情|りょ%じょう}}: [[travel]] [[weariness]]
+{{der-bottom}}
 
 ----
 
@@ -128,19 +131,28 @@ From {{der|ja|ltc|sort=じょう|-}} {{ltc-l|情}}.
 ===Hanja===
 {{ko-hanja/new|뜻|정}}
 
-# {{defn|lang=ko|sort=心08}}
+# {{hanja form of|정|[[feeling#Noun|feeling]]; [[sentiment]]; [[emotion]]}}
 
 ====Compounds====
-{{der-top}}
-* {{ko-l|감정}} ({{l|ko|感情}}): [[emotion]]
-* {{ko-l|무정}} ({{l|ko|無情}}): [[emotionless]]
-* {{ko-l|민정}} ({{l|ko|民情}}): the [[state]] of the [[common]] [[people]]'s [[lives]]
-* {{ko-l|실정}} ({{l|ko|實情}}): the [[real]] [[situation]]
-* {{ko-l|애정}} ({{l|ko|愛情}}): [[love]]
-* {{ko-l|정경}} ({{l|ko|情景}}): a [[sad]] [[scene]]
-* {{ko-l|정보}} ({{l|ko|情報}}): [[information]]
-* {{ko-l|정취}} ({{l|ko|情趣}}): [[artistic]] [[mood]]; [[touch]]
-* {{ko-l|풍정}} ({{l|ko|風情}}): [[elegance]]
+{{der-top3|Compounds}}
+* {{ko-l|정보|情報|[[information]]}}
+* {{ko-l|정취|情趣|[[artistic]] [[mood]]; [[touch]]}}
+* {{ko-l|정가|情歌|[[love song]]}}
+* {{ko-l|정경|情景|a [[sad]] [[scene]]}}
+* {{ko-l|정황|情況|[[circumstance]]s; [[condition]]s}}
+* {{ko-l|정색|情色|[[erotica]]}}
+* {{ko-l|애정|愛情|[[love]]}}
+* {{ko-l|발정|發情|[[oestus]]; [[rut]]}}
+* {{ko-l|동정|同情|[[sympathy]]}}
+* {{ko-l|감정|感情|[[emotion]]}}
+* {{ko-l|격정|激情|[[passion]]}}
+* {{ko-l|민정|民情|the [[state]] of the [[common]] [[people]]'s [[lives]]}}
+* {{ko-l|무정|無情|[[emotionless]]}}
+* {{ko-l|풍정|風情|[[elegance]]}}
+* {{ko-l|색정|色情|[[sexual]] [[urge]]; sexual [[desire]]; [[lust]]}}
+* {{ko-l|서정|抒情|[[lyricism]]}}
+* {{ko-l|실정|實情|the [[real]] [[situation]]}}
+* {{ko-l|심정|心情|[[feeling#Noun|feeling]]}}
 {{der-bottom}}
 
 ----
@@ -149,12 +161,26 @@ From {{der|ja|ltc|sort=じょう|-}} {{ltc-l|情}}.
 
 ===Han character===
 {{vi-readings|rs=心08
-|hanviet=tình-tdcndg;tdcntd;gdhn
+|hanviet=tình-tdcndg;tdcntd;gdhn;bonet;genibrel
 |phienthiet=
-|nom=tành-tdcndg;tdcntd;gdhn;btcn, dềnh-tdcndg;gdhn;btcn, tình-tdcndg;tdcntd, rình-tdcndg;gdhn, thanh-tdcndg, xênh-tdcndg, tạnh-gdhn
+|nom=tành-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, tình-tdcndg;tdcntd;bonet;taberd, dềnh-tdcndg;gdhn;btcn, rình-tdcndg;gdhn, thanh-tdcndg, xênh-tdcndg, tạnh-gdhn
 }}
 
 # {{han tu form of|tình|[[ability]] to [[feel]] [[affection]] or [[compassion]]}}
+# {{Nom form of|tành|{{rfdef|vi}}}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{vi-l|情歌|tình ca}}
+* {{vi-l|情況|tình huống}}
+* {{vi-l|情願|tình nguyện}}
+* {{vi-l|情狀|tình trạng}}
+* {{vi-l|愛情|ái tình}}
+* {{vi-l|風情|phong tình}}
+* {{vi-l|抒情|trữ tình}}
+* {{vi-l|色情|sắc tình}}
+* {{vi-l|情報|tình báo}}
+{{der-bottom}}
 
 ===References===
 <references/>
