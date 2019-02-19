@@ -1,18 +1,19 @@
 {{also|伍|𢀑}}
 {{character info/new}}
-
 {{commonscat}}
 ==Translingual==
+{{stroke order|strokes=4}}
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=7|rad=二|as=02|sn=4|four=10107|canj=MDM|ids=⿱一𫝀,⿻丅ユ,⿻工𠃍}}
 
 ====Derived characters====
-* [[㐏]], [[伍]], [[吾]], [[𠄲]], [[𠄶]], [[𠄻]], [[𠄼]]
+* {{l|mul|[[伍]], [[㕶]], [[𫰌]], [[鿉]], [[𭜐]], [[𦙗]], [[𬂡]], [[𥄬]], [[𥐳]], [[𭈔]], [[𮤴]], [[𮡨]], [[𬃂]], [[𠄼]], [[𫡲]], [[𫡵]], [[𫇩]], [[𠄶]], [[𬂽]], [[㐏]], [[吾]], [[忢]], [[𠄲]], [[𠄻]]}}
 
 ====References====
-* {{Han ref|kx=0086.110|dkj=00257|dj=0178.040|hdz=10011.030|uh=4E94|ud=20116|bh=A4AD|bd=42157}}
+{{wikidata|Q656031}}
+{{Han ref|kx=0086.110|dkj=00257|dj=0178.040|hdz=10011.030|uh=4E94}}
 
 ----
 
@@ -78,11 +79,12 @@ From {{inh|zh|sit-pro|*l/b-ŋa||five}}.
 ----
 
 ==Japanese==
+{{cardinalbox|ja|4|5|6|四|六}}
 
 ===Kanji===
 {{ja-kanji|grade=1|rs=二02}}
 
-# [[five]], [[5]]
+# [[five]]
 
 ====Readings====
 {{ja-readings
@@ -93,7 +95,7 @@ From {{inh|zh|sit-pro|*l/b-ŋa||five}}.
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top3|Compounds}}
 * {{ja-r|五節句|ごせっく|the five seasonal festivals of the Japanese calendar}}
 * {{ja-r|五%悪|^ご%あく|(Buddhism) the Five Evils}}
 * {{ja-r|五%位%鷺|ご%い%さぎ}}, {{ja-r|五%位%鷺|ゴ%イ%サギ|night heron}}
@@ -148,42 +150,36 @@ From {{inh|zh|sit-pro|*l/b-ŋa||five}}.
 * {{ja-r|弦%楽 五重奏|げん%がく ごじゅうそう|[[string]] [[quintet]]}}
 {{der-bottom}}
 
-====References====
-{{ja-kref
-|jis=385E
-|ku=2462
-|shift=8CDC
-|euc=B8DE
-|freq=31
-|nelson=15
-|newnelson=77
-|halpern=3436
-|kld=2142
-|heisig=5
-|tuttle=0a4.27
-}}
+===Etymology 1===
+{{ja-kanjitab|いつ|yomi=k}}
+From {{inh|ja|ojp|-}}.
 
-===Pronunciation===
+====Pronunciation====
+{{ja-pron|いつ|yomi=k}}
+
+====Noun====
+{{ja-noun|いつ}}
+
+# [[five]]
+
+=====Derived terms=====
+* {{ja-r|五つ|いつつ}}
+
+===Etymology 2===
+{{ja-kanjitab|ご|yomi=o}}
+From {{der|ja|ltc|sort=ご|-}} {{ltc-l|五}}.
+
+====Pronunciation====
+{{ja-pron|ご|yomi=o}}
 * {{audio|Ja-5-go.ogg|Audio|lang=ja}}
 
-===Number===
-{{cardinalbox|ja|4|5|6|四|六}}
-'''五''' ([[ご]], go)
-
-# [[five]], [[5]]
-
-===Noun===
+====Noun====
 {{ja-noun|ご}}
 
 # [[five]]
 # a name of a hole of a [[wind instrument]]
 
-===Noun===
-{{ja-noun|いつ}}
-
-# [[five]]
-
-====Coordinate terms====
+=====Coordinate terms=====
 {{japanese number}}
 
 [[Category:Grade 1 kanji|二02五]]
@@ -197,9 +193,19 @@ From {{inh|zh|sit-pro|*l/b-ŋa||five}}.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=오|eumhun=다섯}}
+{{ko-hanja/new|다섯|오}}
 
-# {{defn|lang=ko|sort=二02}}
+# {{hanja form of|오|[[five]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|오곡|五穀}}
+* {{ko-l|오행|五行}}
+* {{ko-l|오온|五蘊}}
+* {{ko-l|오십|五十}}
+* {{ko-l|오월|五月}}
+* {{ko-l|십오|十五}}
+{{der-bottom}}
 
 [[Category:Korean numeral symbols|5]]
 
@@ -218,11 +224,17 @@ From {{inh|zh|sit-pro|*l/b-ŋa||five}}.
 
 ===Han character===
 {{vi-readings|rs=二02
-|hanviet=ngũ-tdcntd;gdhn
-|nom=ngũ-tdcntd, ngủ-tdcntd, ngỗ-tdcntd
+|hanviet=ngũ-tdcntd;gdhn;bonet;genibrel
+|nom=ngũ-tdcntd;bonet;taberd, ngủ-tdcntd, ngỗ-tdcntd
 }}
 
 # {{han tu form of|ngũ|[[five]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{vi-l|五穀|ngũ cốc}}
+* {{vi-l|五蘊|ngũ uẩn}}
+{{der-bottom}}
 
 ===References===
 <references/>
