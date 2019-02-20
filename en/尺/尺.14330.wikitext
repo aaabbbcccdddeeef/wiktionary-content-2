@@ -1,16 +1,19 @@
 {{also|呎|R}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=4}}
 
 ===Han character===
-{{Han char|rn=44|rad=尸|as=01|sn=4|four=77807|canj=SO}}
+{{Han char|rn=44|rad=尸|as=01|sn=4|four=77807|canj=SO|ids=}}
 
 ====Derived characters====
-* [[迟]] [[呎]]
-* [[沢]] [[訳]] [[択]] [[駅]] [[鈬]] [[釈]] ({{Han simp|睪}})
+* {{l|mul|[[伬]], [[呎]], [[㘮]], [[𡛄]], [[鿈]], [[𢗜]], [[𣏧]], [[𬓤]], [[粎]], [[蚇]], [[咫]], [[𪧆]], [[𦬨]], [[𫁶]], [[庹]]}}
+* {{l|mul|[[迟]], [[尽]], [[昼]]}} {{q|[[Simplified Chinese|Simplified form]] of {{l|mul|[[遲]], [[盡]], [[晝]]}} in mainland China}}
+* {{l|mul|[[𡵸]], [[択]], [[沢]], [[𥐮]], [[䋇]], [[訳]], [[釈]], [[鈬]], [[駅]]}} {{q|Japanese [[shinjitai]] of {{l|mul|[[嶧]], [[擇]], [[澤]], [[礋]], [[繹]], [[譯]], [[釋]], [[鐸]], [[驛]]}}}} <!-- Based on inclusion in JIX X 0208, JIS X 0213 -->
 
 ====References====
-* {{Han ref|kx=0299.320|dkj=07632|dj=0595.100|hdz=20964.020|uh=5C3A|ud=23610|bh=A4D8|bd=42200}}
+{{wikidata|Q54911889}}
+{{Han ref|kx=0299.320|dkj=07632|dj=0595.100|hdz=20964.020|uh=5C3A}}
 
 ----
 
@@ -73,7 +76,7 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|music}} {{n-g|{{w|Gongche notation}} of [[re]] (2).}}
+# {{lb|zh|music}} {{n-g|[[w:Gongche notation]] of [[re]] (2).}}
 
 ====Compounds====
 {{zh-der|fold=1|工尺|工尺字兒|工尺譜|合尺}}
@@ -97,16 +100,18 @@
 }}
 
 ====Compounds====
+{{der-top3}}
 * {{ja-r|尺%一|しゃく%いち}}: one [[shaku]] and one [[sun]]
 * {{ja-r|尺%八|しゃく%はち}}: one [[shaku]] and one [[sun]]; [[shakuhachi]]
 * {{ja-r|尺%一|せき%いつ}}: in [[ancient]] [[China]], the [[paperboard]] on which the [[imperial]] [[decree]] was written, or the [[imperial]] [[decree]]
-
-{{wikipedia|Shaku (unit)|lang=en}}
-{{wikipedia|lang=ja}}
+{{der-bottom}}
 
 ===Etymology 1===
+{{wikipedia|Shaku (unit)|lang=en}}
+{{wikipedia|lang=ja}}
 {{ja-kanjitab|しゃく|yomi=o}}
-From {{etyl|ltc|ja|sort=しゃく}} {{m|zh|尺|tr=tsyhek||foot (measure)}}.
+
+From {{der|ja|ltc|sort=しゃく|-}} {{ltc-l|尺||foot (measure)}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|しゃく|acc=2|acc_ref=DJR,NHK}}
@@ -114,28 +119,29 @@ From {{etyl|ltc|ja|sort=しゃく}} {{m|zh|尺|tr=tsyhek||foot (measure)}}.
 ====Noun====
 {{ja-noun|しゃく|せき}}
 
-# The [[shaku]], "[[metal]] [[shaku]]", or [[Japanese foot]]: a [[traditional]] [[Japanese]] [[unit]] of [[length]] [[equal]] to 10 [[sun]] ([[寸]]) or <sup>1</sup>/<sub>10</sub> [[jō]] ([[丈]]), [[standardize]]d as <sup>10</sup>/<sub>33</sub> of a [[meter]]
+# the [[shaku]], "[[metal]] [[shaku]]", or [[Japanese foot]]: a [[traditional]] [[Japanese]] [[unit]] of [[length]] [[equal]] to 10 [[sun]] ([[寸]]) or <sup>1</sup>/<sub>10</sub> [[jō]] ([[丈]]), [[standardize]]d as <sup>10</sup>/<sub>33</sub> of a [[meter]]
 #* {{RQ:Wamyō Ruijushō|6|46}}
-#*: '''尺''' [...] 廣本無上字、説文、尺十寸也、人手却十分動脈爲寸口、十寸爲尺、尺所以指尺規榘事也从尸从乙、乙所識也、今俗呼佐之或呼毛乃佐之 [...]
+#*: {{ux|ja|'''尺''' [...] 廣本無上字、説文、尺十寸也、人手却十分動脈爲寸口、十寸爲尺、尺所以指尺規榘事也从尸从乙、乙所識也、今俗呼佐之或呼毛乃佐之 [...]}}
 #* c. 1177-1188: [[w:Iroha Jiruishō|Iroha Jiruishō]] (volume 9, page 55)
-#*: 尺 '''シャク'''　十寸為尺
+#*: {{ux|ja|尺 '''シャク'''　十寸為尺}}
 #* {{RQ:Nippo Jisho|741}}
-#*: '''Xacu'''. シャク (尺) 1 palmoよりも少し長い, ある尺度. 例, Ix'''xacu''', ni'''xacu'''. (一尺, 二尺) '''Xacu'''uo toru. l, xacudoru. (尺を取る. または, 尺取る) 上述のようなpalmoを単位として寸法を計る.
-# The "[[whale]] [[shaku]]", a [[variant]] of the [[shaku]] [[used]] in [[measuring]] [[cloth]] [[equal]] to <sup>125</sup>/<sub>330</sub> of a [[meter]]
+#*: {{ux|ja| '''Xacu'''. シャク (尺) 1 palmoよりも少し長い, ある尺度. 例, Ix'''xacu''', ni'''xacu'''. (一尺, 二尺) '''Xacu'''uo toru. l, xacudoru. (尺を取る. または, 尺取る) 上述のようなpalmoを単位として寸法を計る.}}
+# the "[[whale]] [[shaku]]", a [[variant]] of the [[shaku]] [[used]] in [[measuring]] [[cloth]] [[equal]] to <sup>125</sup>/<sub>330</sub> of a [[meter]]
 # [[length]]
 # {{lb|ja|zoology}} The [[geometer moth]] ({{taxlink|Geometra papilionaria|species|ver=180130}})
 #* {{RQ:Nippo Jisho|741}}
-#*: '''Xacu'''. l, xacumuxi. シャク. または, しゃくむし (尺. または, 尺虫) 歩くときに身を縮めたりしながら進む一種の小虫. '''Xacu'''de taiuo tçuru. (尺で鯛を釣る) 諺. この小虫で鯛を釣って取る人のように, 小さなもので大きなものを手に入れる.
-# {{lb|ja|zoology}} The [[inchworm]]
+#*: {{ux|ja|'''Xacu'''. l, xacumuxi. シャク. または, しゃくむし (尺. または, 尺虫) 歩くときに身を縮めたりしながら進む一種の小虫. '''Xacu'''de taiuo tçuru. (尺で鯛を釣る) 諺. この小虫で鯛を釣って取る人のように, 小さなもので大きなものを手に入れる.}}
+# {{lb|ja|zoology}} the [[inchworm]]
 
 =====Idioms=====
 * {{ja-r|尺で鯛を釣る|しゃく で たい を つる}}
 
 ===Etymology 2===
+{{ja-kanjitab|たかばかり|yomi=k}}
 Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja|sort=たかばかり}}, voiced due to [[w:Rendaku|compounding]].
 
 ====Pronunciation====
-* {{IPA|/takabakari/|lang=ja}}
+{{ja-pron|たかばかり|yomi=k}}
 
 ====Alternative forms====
 * {{l|ja|竹量}}
@@ -144,9 +150,9 @@ Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja|so
 ====Noun====
 {{ja-noun|たかばかり}}
 
-# a bamboo measure
+# a [[bamboo]] [[measure#Noun|measure]]
 #* {{RQ:Wamyō Ruijushō|6|46}}
-#*: '''尺''' 魏武上雜物䟽云、象牙尺、齒亦反、辨色立成云、尺竹量也、'''太加波可利'''
+#*: {{ux|ja|'''尺''' 魏武上雜物䟽云、象牙尺、齒亦反、辨色立成云、尺竹量也、'''太加波可利'''}}
 
 ===References===
 <references/>
@@ -170,27 +176,31 @@ Compound of bound {{compound|竹|tr1=taka|t1=bamboo|測り|tr2=hakari|lang=ja|so
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=척|rv=[[cheok]]|mr=ch'ŏk|y=chek}}
+{{ko-hanja/new|척}}
 
-# ([[자]]) [[Korean foot]] (30.3cm)
-# ([[자]]) [[measure]]
-# ([[길이]]) [[length]]
+# {{hanja form of|자|[[Korean foot]] (30.3cm)}}
+# {{hanja form of|자|[[ruler]]; [[straightedge]]}}
 
 ====Compounds====
-{{top2}}
-* [[尺蠖]] ([[척확]], ''cheoghwag'') [[measuring worm]], [[inchworm]], [[spanworm]], [[looper]]
-{{mid2}}
-* [[曲尺]] ([[곡척]], ''gogcheog'') [[steel square]], [[carpenter's square]]
-{{bottom}}
+{{der-top3|Compounds}}
+* {{ko-l|척도|尺度|[[linear]] [[measure#Noun|measure]]}}
+* {{ko-l|척확|尺蠖|[[measuring worm]]; [[inchworm]]; [[spanworm]]; [[looper]]}}
+* {{ko-l|계산척|計算尺|[[slide rule]]; [[slipstick]]}}
+* {{ko-l|곡척|曲尺|[[steel square]]; [[carpenter's square]]}}
+{{der-bottom}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[xích]], [[xách]], [[xế]], [[xệch]], [[xịch]], [[sệch]], [[xạch]]|rs=尸01}}
+{{vi-readings|rs=尸01
+|hanviet=xích-tdcndg;gdhn;bonet;genibrel
+|phienthiet=
+|nom=xệch-gdhn;btcn;genibrel, xách-tdcndg;btcn, xế-gdhn;btcn, xích-bonet;taberd, sệch-gdhn, xạch-gdhn, xịch-btcn
+}}
 
 # {{defn|lang=vi|sort=尸01}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=5c3a&img=1 Nom Foundation]
+===References===
+<references/>
