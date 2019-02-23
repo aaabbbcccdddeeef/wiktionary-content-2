@@ -141,9 +141,9 @@ From {{inh|da|gmq-oda|thu}}, from {{inh|da|non|þú}}, from {{inh|da|gem-pro|*þ
 * {{IPA|/du/|[d̥u]|lang=da}}
 
 ====Pronoun====
-{{head|da|pronoun|objective|dig}}
+{{head|da|pronoun|objective|dig|cat2=personal pronouns}}
 
-# {{lb|da|personal}} [[thou]], [[you]] (2nd person singular subject pronoun, informal)
+#  [[thou]], [[you]] {{q|2nd person singular subject pronoun, informal}}
 
 =====See also=====
 {{Danish personal pronouns}}
@@ -209,7 +209,7 @@ From {{der|eo|la|duo}}, from {{der|eo|ine-pro|*dwóh₁}}.
 ===Numeral===
 {{eo-card}}
 
-# {{lb|eo|cardinal}} [[two]] ([[2]])
+# [[two]] ([[2]])
 
 {{eo BRO|1}}
 {{eo GCSE|0}}
@@ -219,6 +219,7 @@ From {{der|eo|la|duo}}, from {{der|eo|ine-pro|*dwóh₁}}.
 * {{l|eo|duo}}
 * {{l|eo|dupunkto||colon}}
 
+{{cln|eo|cardinal numbers}}
 ----
 
 ==French==
@@ -333,9 +334,9 @@ From {{inh|hrx|goh|du}} (akin to {{cog|osx|thu}} and {{cog|en|thou}}), itself fr
 From {{der|io|eo|du}}, from {{der|io|fr|deux}}, {{der|io|es|dos}}, {{der|io|it|due}}, ultimately from {{der|io|ine-pro|*dwóh₁}}.
 
 ===Numeral===
-{{head|io|numeral}}
+{{head|io|numeral|cat2=cardinal numbers}}
 
-# {{lb|io|cardinal}} [[two]] (2)
+# [[two]] (2)
 
 ----
 
@@ -354,21 +355,21 @@ From {{der|io|eo|du}}, from {{der|io|fr|deux}}, {{der|io|es|dos}}, {{der|io|it|d
 From {{der|kls|sa|द्व}}, from {{inh|kls|ine-pro|*dwóh₁}}. Compare {{cog|hi|दो}}, {{cog|bho|दू}}, {{cog|kok|दोन|tr=don}}.
 
 ===Numeral===
-{{head|kls|numeral}}
+{{head|kls|numeral|cat2=cardinal numbers}}
 
-# {{lb|hi|cardinal}} [[two]]; 2
+# [[two]]; 2
 
 ----
 
 ==Kurdish==
 
 ===Etymology===
-From {{inh|ku|ira-pro|*duu̯a}} (compare {{cog|fa|دو|tr=do}}, {{cog|ps|دوه|tr=dwa}}, {{cog|ae|𐬛𐬎𐬎𐬀}}), from {{der|ku|iir-pro|-}} (compare {{cog|sa|द्व|tr=dvá}}, {{cog|mr|दोन|tr=don}}, {{cog|hi|दो}}/{{cog|ur|دو|tr=do}}, {{cog|pa|ਦੋ|tr=dō}}), from {{inh|ku|ine-pro|*dwóh₁}} (compare {{cog|ru|два}}, {{cog|lt|du}}, {{cog|el|δύο}}, {{cog|es|dos}}, {{cog|en|two}}).
+From {{inh|ku|ira-pro|*duu̯a}} (compare {{cog|fa|دو|tr=do}}, {{cog|ps|دوه|tr=dwa}}, {{cog|ae|𐬛𐬎𐬎𐬀}}), from {{der|ku|iir-pro|-}} (compare {{cog|sa|द्व|tr=dvá}}, {{cog|mr|दोन}}, {{cog|hi|दो}}/{{cog|ur|دو|tr=do}}, {{cog|pa|ਦੋ}}), from {{inh|ku|ine-pro|*dwóh₁}} (compare {{cog|ru|два}}, {{cog|lt|du}}, {{cog|el|δύο}}, {{cog|es|dos}}, {{cog|en|two}}).
 
 ===Numeral===
-{{head|ku|numeral}}
+{{head|ku|numeral|cat2=cardinal numbers}}
 
-# {{lb|ku|cardinal}} [[two]] (2)
+# [[two]] (2)
 
 ----
 
@@ -379,9 +380,9 @@ From {{inh|lt|bat-pro|*duwō}}, from {{inh|lt|ine-pro|*dwóh₁}}. Compare {{cog
 
 ===Numeral===
 {{cardinalbox|lt|1|2|3|vienas|trys|ord=antras}}
-{{head|lt|numeral|g=m|feminine|dvi}}
+{{head|lt|numeral|g=m|feminine|dvi|cat2=cardinal numbers}}
 
-# {{lb|lt|cardinal}} [[two]] (2)
+# [[two]] (2)
 
 ====Declension====
 {{lt-decl-numeral|du|dvi|dviejų|dviejų|dviem|dviem|du|dvi|dviem|dviem|dviejuose|dviejose}}
@@ -607,11 +608,9 @@ From {{inh|nn|non|þú}}, from {{inh|nn|gem-pro|*þū}}, from {{inh|nn|ine-pro|*
 {{cardinalbox|nov|1|2|3|un|tri|ord=duesmi}}
 
 ===Numeral===
-{{head|nov|numeral}}
+{{head|nov|numeral|cat2=cardinal numbers}}
 
-# {{lb|nov|cardinal}} [[two]]
-
-{{-}}
+# [[two]]
 
 ----
 
@@ -743,10 +742,10 @@ From {{inh|sv|gmq-osw|þu|þū}}, from {{inh|sv|non|þú}}, from {{inh|sv|gem-pr
 * {{rhymes|ʉː|lang=sv}}
 
 ===Pronoun===
-{{head|sv|pronoun}}
+{{head|sv|pronoun|cat2=personal pronouns}}
 
-# {{lb|sv|personal}} [[you]] (''familiar sg.'').
-# {{lb|sv|personal}} [[thou]].
+# [[you]] {{q|familiar sg.}}
+# [[thou]]
 
 ====Usage notes====
 While {{m|sv|du}} is the traditionally familiar mode of address, it is since the early '70s the standard in almost all circumstances, possibly capitalized in formal communications. This was the result of the so-called ''{{w|Du-reformen|du-reformen}}''.
@@ -821,7 +820,7 @@ From {{inh|cy|cel-bry-pro|*duβ}}, from {{inh|cy|cel-pro|*dubus}}, from {{der|cy
 ----
 
 ==White Hmong==
-{{attention|mww}}
+
 ===Adjective===
 {{head|mww|adjective}}
 
