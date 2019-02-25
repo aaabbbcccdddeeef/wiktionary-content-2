@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=07|sn=9|four=26214|canj=OWG|ids=⿰亻里}}
 
-# [[rustic]], [[vulgar]], [[unpolished]]
-# [[mean]]
-
 ====References====
 * {{Han ref|kx=0105.140|dkj=00699|dj=0222.030|hdz=10160.010|uh=4FDA|ud=20442|bh=AB5A|bd=43866}}
 
@@ -18,6 +15,12 @@
 ===Glyph origin===
 {{Han etym}}
 
+===Etymology===
+; folk, popular
+{{rfe|zh|Related to {{zh-l|里}} (village)?}}
+
+; ethnic groups living in southern China
+See {{zh-l|黎}} for more.
 ===Pronunciation===
 {{zh-pron
 |m=lǐ
@@ -25,13 +28,22 @@
 |mc=y
 |oc=y
 |ma=
-|cat=a
+|cat=a,v,pn,pron
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# {{zh-obsolete}} to rely on
+# [[rustic]], [[vulgar]], [[unpolished]]
+# [[folk]], [[popular]]
+# {{lb|zh|Suzhou Wu}} [[he]]; [[she]]
+# general name for ethnic groups living in southern China
+
+{{zh-wp|zh:俚人}}
+
+====Synonyms====
+{{zh-dial|他}}
 
 ====Compounds====
 {{zh-der|俚諺|俚歌|俚俗|俚語|俚儒|俗諺俚語|俚人|俚言|俚曲|鄙俚|質而不俚|蕪俚|鄙言俚語}}
