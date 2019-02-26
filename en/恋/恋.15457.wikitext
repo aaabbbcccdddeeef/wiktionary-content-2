@@ -36,6 +36,9 @@ In the {{w|Kangxi dictionary}} ({{w|Zhengzitong|正字通}}), this character is 
 ===Kanji===
 {{ja-kanji|rs=心06|kyu=戀}}
 
+# [[attach]]
+# [[love]]
+
 ====Readings====
 {{ja-readings
 |goon=れん
@@ -44,26 +47,28 @@ In the {{w|Kangxi dictionary}} ({{w|Zhengzitong|正字通}}), this character is 
 }}
 
 ====Compounds====
-{{der-top}}
-* {{ja-r|恋愛|れんあい}}
-* {{ja-r|恋%慕|れん%ぼ}}
+{{der-top3}}
+* {{ja-r|恋恋|れんれん|rom=-}}, {{ja-r|恋々|れんれん}}
+* {{ja-r|恋%愛|れん%あい}}
+* {{ja-r|恋歌|れんか}}
+* {{ja-r|恋情|れんじょう}}
+* {{ja-r|恋%着|れん%ちゃく}}
+* {{ja-r|恋慕|れんぼ}}
+* {{ja-r|愛%恋|あい%れん}}
 * {{ja-r|遠恋|えんれん}}
-* {{ja-r|失恋|しつれん}}
+* {{ja-r|失%恋|しつ%れん}}
 * {{ja-r|邪恋|じゃれん}}
 * {{ja-r|悲恋|ひれん}}
-* {{ja-r|秘恋|ひれん}}, {{ja-r|秘恋|ひめごい}}
+* {{ja-r|秘恋|ひれん}}
 {{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|こい|yomi=k}}
-{{IPAchar|/ko<sub>1</sub>pi<sub>2</sub>/}} → {{IPAchar|/kopi/}} → {{IPAchar|/kofi/}} → *{{IPAchar|/kowi/}} → {{IPAchar|/koi/}}
+{{IPAfont|⟨ko<sub>1</sub>pi<sub>2</sub>⟩}} → {{IPAchar|/kʷopʷɨ/}} → {{IPAchar|/kofi/}} → {{IPAchar|/kowi/}} → {{IPAchar|/koi/}}
 
 From {{inh|ja|ojp|sort=こい|-}}.
 
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|恋う|tr=kou||to [[love]]}}.
-
-===Alternative forms===
-* {{ja-l|恋い}}
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|恋う|tr=kou||to [[love]], [[yearn]]}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=k|こい|acc=1|acc_ref=DJR,NHK}}
@@ -71,50 +76,60 @@ The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{m|ja|恋う
 ===Noun===
 {{ja-noun|kyu=戀|こい|hhira=こひ}}
 
-# [[love]], [[romantic]] love
-#* {{RQ:Manyoshu|4|596}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#596 here]
-#*: {{ja-usex|m=八百日%徃 濱%之%沙%毛 吾'''戀'''二 豈不益歟 奥%嶋守|m_kana=やほか%ゆく はま%の%まなご%も あが'''こひ'''に ＊＊＊＊ おきつ%しまもり|八百日%行く浜の[[真%砂]]も我が'''恋'''にあにまさらじか沖つ[[島守]]|やほか% ゆく はま の ま%なご も あ が '''こひ''' に あに まさらじ か おき つ しまもり|rom=yaoka yuku hama no manago no a ga '''koi''' ni ani masaraji oki tsu shimamori|On so vast a shore[―]that one could walk eight hundred days[―]would the grains of sand number greater than my '''love''', o guardian of the outer isles?<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-3157-8|page=570}}</ref>|sort=こい}}
-#* '''1086''', ''{{w|Goshūi Wakashū}}'' (book 14, poem 815; also ''{{w|Hyakunin Isshu}}'', poem 65)
-#*: {{ja-usex|[[恨み]][[侘び|わび]][[干す|ほさぬ]][[袖]][[だに]]あるものを'''恋'''に[[朽ちる|くちなむ]]名こそ[[惜しい|惜しけれ]]|うらみ わび ほさぬ そで だに ある もの を '''こひ''' に くちなむ な こそ をしけれ|rom=urami wabi hosanu sode dani aru mono o '''koi''' ni kuchinan na koso oshikere|Anger and sorrow have made my never-dry sleeves a complete ruin―but still more hateful to me is '''love's''' ruin of my good name.<ref>{{cite-book|1991|Steven D. Carter|Traditional Japanese Poetry: An Anthology|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-2212-9|page=227}}</ref>|sort=こい}}
-#: {{synonyms|ja|愛|tr=ai}}
+# [[love]], ''especially'' [[romantic]] love
+#* {{RQ:Goshuishu|14|815; also ''{{w|Hyakunin Isshu}}'', poem 65}}
+#*: {{ja-usex|恨みわびほさぬ袖だにあるものを'''恋'''に朽ちなむ名こそ惜しけれ|うらみ わび ほさぬ そで だに ある もの を '''こひ''' に くちなむ な こそ をしけれ|rom=urami wabi hosanu sode dani aru mono o '''koi''' ni kuchinan na koso oshikere|Anger and sorrow have made my never-dry sleeves a complete ruin―but still more hateful to me is '''love's''' ruin of my good name.<ref>{{cite-book|1991|Steven D. Carter|Traditional Japanese Poetry: An Anthology|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-2212-9|page=227}}</ref>|sort=こい}}
 # [[longing]], [[yearning]]
-#* {{RQ:Manyoshu|3|325}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#325 here]
-#*: {{ja-usex|m=明日香%河 川%余藤%不去 立霧%乃 念%應過 '''孤悲'''尓%不有%國|m_kana=あすか%かは かは%よど%さらず たつきり%の おもひ%すぐべき '''こひ'''に%あらな%くに|明日香%河 [[川淀]] [[さらず]] 立つ[[霧]] の 思ひ [[過ぎる|過ぐ]] [[べき]] '''恋''' に [[あらなくに]]|あすか%-がは かは-よど さらず たつきり の おもひ すぐ べき '''こひ''' に あらなくに|rom=Asuka-gawa kawa-yodo sarazu tatsu-kiri no omoi sugu beki '''koi''' ni aranaku ni|sort=こい}}
-#* ''c.'' '''1005''', ''{{w|Shūi Wakashū}}'' (book 11, poem 622; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 40)
-#*: {{ja-usex|[[忍ぶ|しのぶ]]れど[[色]]に[[出づ|出で]]に[[けり]]わが'''恋'''は[[物]]や[[思う|思ふ]]と人の[[問う|問ふ]]まで|しのぶれど いろ に いで に けり わが '''こひ''' は もの や おもふ と ひと の とふ まで|rom=shinoburedo iro ni ide ni keri waga '''koi''' wa mono ya omou to hito no tou made|Even though I hide it, it shows all over my face, such is my '''longing''' so that people ask me "What ''are'' you thinking about?"<ref>{{cite-book|1996|Joshua S. Mostow |Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2|page=260}}</ref>|sort=こい}}
+#* {{RQ:Shuishu|11|622; also ''{{w|Ogura Hyakunin Isshu|Hyakunin Isshu}}'', poem 40}}
+#*: {{ja-usex|しのぶれど色に出でにけりわが'''恋'''は物や思ふと人の問ふまで|しのぶれど いろ に いでにけり わが '''こひ''' は もの や おもふ と ひと の とふ まで|rom=shinoburedo iro ni idenikeri waga '''koi''' wa mono ya omou to hito no tou made|Even though I hide it, it shows all over my face, such is my '''longing''' so that people ask me "What ''are'' you thinking about?"<ref>{{cite-book|1996|Joshua S. Mostow |Pictures of the Heart: The Hyakunin Isshu in Word and Image|edition=illustrated|publisher=University of Hawaii Press|isbn=0-8248-1705-2|page=260}}</ref>|sort=こい}}
 
 ====Derived terms====
-{{der-top}}
-* {{ja-r|恋しがる|こしがる}}
+{{der-top4}}
+* {{ja-r|恋しい|こいし.い}}
 * {{ja-r|恋する|こいする}}
-* {{ja-r|恋歌|こいうた}}
+* {{ja-r|恋%歌|こい%うた}}
 * {{ja-r|恋%占い|こい%-うらない}}
-* {{ja-r|恋風|こいかぜ}}
-* {{ja-r|恋活|こいかつ}}
-* {{ja-r|恋心|こい%こころ}}, {{ja-r|恋心|こい%ごころ}}
-* {{ja-r|恋%焦がれる|こい%こがれる}}
+* {{ja-r|恋%歌|こい%か}}
+* {{ja-r|恋%風|こい%かぜ}}
+* {{ja-r|恋%活|こい%かつ}}
+* {{ja-r|恋%心|こい%ごころ}}
 * {{ja-r|恋%路|こい%じ}}
-* {{ja-r|恋し鳥|こいしどり}}
-* {{ja-r|恋塚|こいづか}}
-* {{ja-r|恋疲れ|こいづかれ}}
-* {{ja-r|恋妻|こいづま}}
-* {{ja-r|恋仲|こいなか}}
-* {{ja-r|恋猫|こいねこ}}
-* {{ja-r|恋人|こいびと}}
-* {{ja-r|恋文|こいぶみ}}
-* {{ja-r|恋水|こいみず}}
-* {{ja-r|恋%物語|こい%-ものがたり}}
+* {{ja-r|恋%塚|こい%づか}}
+* {{ja-r|恋%疲れ|こい%づかれ}}
+* {{ja-r|恋%妻|こい%づま}}
+* {{ja-r|恋%仲|こい%なか}}
+* {{ja-r|恋%猫|こい%ねこ}}
+* {{ja-r|恋の悩み|こい の なやみ}}
+* {{ja-r|恋の闇|こい の やみ}}
+* {{ja-r|恋%人|こい%びと}}
+* {{ja-r|恋%文|こい%ぶみ}}
+* {{ja-r|恋%水|こい%みず}}
+* {{ja-r|恋 物%語|こい もの%がたり}}
 * {{ja-r|恋%敵|こい%がたき}}
 * {{ja-r|恋%病|こい%やまい}}
 * {{ja-r|恋%煩い|こい%わずらい|rom=-}}, {{ja-r|恋%患い|こい%わずらい}}
-* {{ja-r|恋の悩み|こい の なやみ}}
-* {{ja-r|恋の闇|こい の やみ}}
-* {{ja-r|色恋|いろこい}}
-* {{ja-r|初恋|はつこい}}
+* {{ja-r|色%恋|いろ%こい}}
+* {{ja-r|片%恋|かた%こい}}
+* {{ja-r|妻%恋|つま%ごい}}
+* {{ja-r|初%恋|はつ%こい}}
+* {{ja-r|秘恋|ひめごい}}
+* {{ja-r|諸%恋|もろ%ごい}}
 {{der-bottom}}
 
-====Idioms====
+====Proverbs====
+* {{ja-r|恋に上下の隔てなし|こい に じょうげ の へだて なし}}
+* {{ja-r|恋は曲者|こい は くせもの}}
 * {{ja-r|恋は思案の外|こい は しあん の ほか}}
+* {{ja-r|恋は盲%目|こい は もう%もく|[[love is blind]]}}
+* {{ja-r|恋は闇|こい は やみ|love is dark → love is blind}}
+
+====See also====
+* {{ja-r|愛|あい}}
+
+===Proper noun===
+{{ja-pos|proper|kyu=戀|こい|hhira=こひ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=こい}}
 
 ===References===
 <references/>
