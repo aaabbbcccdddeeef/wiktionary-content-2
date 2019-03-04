@@ -1,29 +1,27 @@
 {{also|壽|夀}}
 {{character info/new}}
-{{character info/new|codepoint=0x2f872}}
+{{character info/new|0x2f872}}
 ==Translingual==
 {{ja-forms|寿|寿|[[壽]]}}
 
-===Glyph origin===
-From {{w|cursive script (East Asia)|cursive script}} of {{l|mul|壽}}.
-
 ===Han character===
-{{Han char|rn=41|rad=寸|as=04|sn=7|four=|canj=QKDI|ids=⿸⿻三丿寸 <small>(GTV)</small>,⿻⿻三丿寸 <small>(HJK)</small>}}
+{{Han char|rn=41|rad=寸|as=04|sn=7|four=50340|canj=QKDI|ids=⿸⿻三丿寸(GTV,<code>U+2F872</code>),⿻⿻三丿寸(HJK)}}
+
+====Derived characters====
+* {{l|mul|[[俦]], [[诪]], [[𭎜]], [[𫝩]], [[𫝵]], [[帱]], [[㤽]], [[𢭏]], [[涛]], [[陦]], [[𭠸]], [[梼]], [[𬊍]], [[𪺣]], [[𩙧]], [[畴]], [[𤽯]], [[𪿞]], [[祷]], [[铸]], [[𥺅]], [[𦀳]], [[𮎍]], [[𬢪]], [[踌]], [[𮜶]], [[鋳]], [[𩾂]], [[𩗡]], [[𫾳]], [[𬸍]], [[䓓]], [[筹]], [[𪫷]], [[焘]], [[𡀤]]}}
+
+====Related characters====
+* {{l|mul|壽}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
 
 ====References====
-* {{Han ref|kx=0294.021|dkj=07419|dj=0581.130|hdz=10504.040|uh=5BFF|ud=23551}}
+{{wikidata|Q55408011}}
+{{Han ref|kx=0294.021|dkj=07419|dj=0581.130|hdz=10504.040|uh=5BFF}}
+{{Han ref|uh=2F872}}
 
 ----
 
 ==Chinese==
-
-===Glyph 1===
-{{Han-glyphref|⿸⿻三丿寸|}}
-{{zh-see|壽|s}}
-
-===Glyph 2===
-{{Han-glyphref|⿻⿻三丿寸|}}
-{{zh-see|壽|v}}
+{{zh-see|壽|sv}}
 
 ----
 
@@ -33,7 +31,7 @@ From {{w|cursive script (East Asia)|cursive script}} of {{l|mul|壽}}.
 ===Kanji===
 {{ja-kanji|grade=c|rs=寸04|kyu=壽}}
 
-# [[longevity]], [[long]] [[life]]
+# [[longevity]]; [[long]] [[life]]
 # [[congratulations]]
 
 ====Readings====
@@ -123,6 +121,6 @@ Used as [[ateji]] for various names.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[수]]|rv=su|mr=su|y=swu}}
+{{ko-hanja/new|수}}
 
-# {{defn|lang=ko|sort=寸04}}
+# {{alt-form|lang=ko|壽}}
