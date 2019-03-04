@@ -12,20 +12,22 @@
 * [[Index:Chinese radical/囗]]
 
 ====Usage notes====
-This character (囗) is used for ''enclosures''; if a square is used ''within'' a character, then the character is instead [[口]].
+This character ({{lang|mul|囗}}) is used for ''enclosures''. If a square is used ''within'' a character, then the character is {{l|mul|口|gloss=mouth}} instead.
 
 ====References====
-* {{Han ref|kx=0216.140|dkj=04675|dj=0439.150|hdz=10710.080|uh=56D7|ud=22231|bh=C949|bd=51529}}
+{{wikidata|Q56433578}}
+{{Han ref|kx=0216.140|dkj=04675|dj=0439.150|hdz=10710.080|uh=56D7}}
+[[Category:CJKV radicals]]
 
 ----
 
 ==Chinese==
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 
 ===Etymology 1===
-{{zh-see|圍|v}}
+{{zh-see|圍|ha}}
 
 ===Etymology 2===
 {{zh-see|國|v}}
@@ -60,8 +62,17 @@ As a variant kanji for {{m|ja|囲|t=to surround/encircle}}:
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=[[국]], [[위]]|rv=guk, wi|mr=kuk, wi|y=kwuk, wi}}
+===Etymology 1===
+
+====Hanja====
+{{ko-hanja/new|국}}
+
+# {{defn|lang=ko|sort=囗00}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja/new|위}}
 
 # {{defn|lang=ko|sort=囗00}}
 
@@ -70,13 +81,12 @@ As a variant kanji for {{m|ja|囲|t=to surround/encircle}}:
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[vi]]|rs=囗00}}
+{{vi-readings|rs=囗00
+|hanviet=vi-gdhn
+|phienthiet=
+}}
 
-# [[erect]], [[proud]]
-# [[upright]]
-# [[bald]]
+# {{defn|lang=vi|sort=囗00}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=56d7 Nom Foundation]
-
-[[Category:CJKV radicals]]
+===References===
+<references/>
