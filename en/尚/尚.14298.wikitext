@@ -74,45 +74,72 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=小05}}
 
-# esteem
-
 ====Readings====
 {{ja-readings
 |goon=じょう<じやう
 |kanon=しょう<しやう
-|kun=くわえる, たか-い, たか-める, たっとぶ, とうと-ぶ, とうと-い, なお-, ねがう
-|nanori=なお, ひさ
+|kun=くわえる<くは-へる, たか-い, たか-める, たっと-ぶ, とうと-ぶ<たふと-ぶ, とうと-い<たふと-い, なお-<なほ, ねが-う<ねが-ふ
+|nanori=さね, たか, たかし, なか, なり, ひさ, ひさし, まさ, まし, ます, よし, より
 }}
 
 ====Compounds====
-* {{ja-r|尚%書|^しょう%しょ}}
-* {{ja-r|尚武|しょう%ぶ}}
-* {{ja-r|高尚|こう%しょう}}
-* {{ja-r|和%尚|お%しょう}}, {{ja-r|和%尚|か%しょう}}, {{ja-r|和%尚|わ%じょう}}
+{{der-top3|Compounds}}
+* {{ja-r|尚古|しょうこ}}
+* {{ja-r|尚歯|しょうし}}
+* {{ja-r|尚書|^しょうしょ}}
+* {{ja-r|尚早|しょうそう}}
+* {{ja-r|尚武|しょうぶ}}
+* {{ja-r|好尚|こうしょう}}
+* {{ja-r|高尚|こうしょう}}
+* {{ja-r|和尚|おしょう}}, {{ja-r|和尚|かしょう}}, {{ja-r|和尚|わじょう}}
+{{der-bottom}}
 
-===Adverb===
-{{ja-pos|adverb|なお}}
+===Etymology 1===
+{{ja-kanjitab|yomi=kanon|しょう}}
 
-# furthermore, in addition
-# [[still]], as always
-# even more
+From {{bor|ja|ltc|sort=しよう|-}} {{ltc-l|尚|id=2}}.
 
-{{rfquote|ja}}
+====Affix====
+{{ja-pos|affix|しょう|hhira=しやう}}
 
-====Synonyms====
-* {{ja-r|相%変わらず|あい%かわらず}}
-* {{ja-r|ますます}}
+# [[esteem]], [[respect]]
+# [[high]] [[status]]
+# [[long]] [[time]]
+# [[furthermore]], [[still]], [[yet]]
 
-====Derived terms====
-* {{ja-r|尚%且つ|なお%かつ}}
-* {{ja-r|尚%更|なお%さら}}
+====Proper noun====
+{{ja-pos|proper|しょう|hhira=しやう}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=しよう}}
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|なお}}
+{{ja-see|なお}}
+
+====Proper noun====
+{{ja-pos|proper|なお|hhira=なほ}}
+
+# {{given name|male|or=female|lang=ja|A=a|nodot=1}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=n|たかし}}
+Nominalization of classical adjective {{m|ja|高し|tr=takashi}}, modern {{m|ja|高い|tr=takai||[[high]]}}.
 
 ===Proper noun===
+{{ja-pos|proper|たかし}}
+
+# {{surname|lang=ja|A=a|nodot=1}}
+# {{given name|male|lang=ja|A=a|nodot=1}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=n|ひさし}}
+Nominalization of classical adjective {{m|ja|久し|tr=hisashi}}, modern {{m|ja|久しい|tr=hisashii||[[long]] [[time]]}}.
+
+====Proper noun====
 {{ja-pos|proper|ひさし}}
 
-# {{given name|male|lang=ja}}
-
-[[Category:Japanese male given names|ひさし]]
+# {{given name|male|or=female|lang=ja|A=a|nodot=1|sort=ひさし}}
 
 ----
 
