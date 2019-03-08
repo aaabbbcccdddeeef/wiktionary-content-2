@@ -4,11 +4,8 @@
 ===Han character===
 {{Han char|rn=31|rad=囗|as=04|sn=7|four=60211|canj=WOP,XXWOP|ids=⿴囗化}}
 
-# [[inveigle]], [[decoy]]
-# [[cheat]]
-
 ====References====
-* {{Han ref|kx=0217.180|dkj=04715|dj=0445.010|hdz=10715.050|uh=56EE|ud=22254|bh=CAA7|bd=51879}}
+{{Han ref|kx=0217.180|dkj=04715|dj=0445.010|hdz=10715.050|uh=56EE}}
 
 ----
 
@@ -17,6 +14,7 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|囗|化|t1=to surround; to encircle|c1=s|c2=p|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -24,16 +22,17 @@
 |c=ngo4,jau4
 |mc=y
 |oc=y
-|cat=
+|cat=n,v
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[bird]] used as [[decoy]] to [[attract]] other birds
+# to [[cheat#Verb|cheat]]; to [[deceive]]
 
-===References===
-* {{R:yue:mfccd}}
+===Compounds===
+{{zh-der|囮子|紮囮}}
 
 ----
 
@@ -48,20 +47,30 @@
 |kun=おとり-
 }}
 
+===Etymology===
+{{ja-kanjitab|おとり|yomi=k}}
+{{rfelite|ja}}
+
+===Pronunciation===
+{{ja-pron|おとり|yomi=k}}
+
 ===Noun===
 {{ja-noun|おとり}}
 
 # [[decoy]]
 
+====Synonyms====
+* {{ja-l|デコイ}}
+
 ====Derived terms====
-* {{ja-r|囮捜査|おとりそうさ|gloss=sting}}
+* {{ja-r|囮%捜%査|おとり%そう%さ|gloss=sting}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=와|rv=wa|mr=wa}}
+{{ko-hanja/new|와}}
 
 # {{defn|lang=ko|sort=囗04}}
 
@@ -70,6 +79,12 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[ngoa]]|rs=囗04}}
+{{vi-readings|rs=囗04
+|hanviet=ngoa-gdhn;genibrel
+|phienthiet=吾禾 ngô hoà
+}}
 
 # {{defn|lang=vi|sort=囗04}}
+
+===References===
+<references/>
