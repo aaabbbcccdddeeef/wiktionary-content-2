@@ -15,69 +15,146 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{liushu|ic}}: {{zh-l|*口|mouth}} + airflow, an interjection.
+{{liushu|p}}: airflow coming out of a mouth ({{zh-l|*口}}) – a modal particle.
 
 ===Etymology 1===
-{{zh-forms|t2=祇|alt=衹}}
-{{rfe|zh|Schuessler: Prob. ST: TB *kya(-) 'one'}}
-; this
-: See {{zh-l|這}}.
-====Pronunciation 1====
+{{zh-forms|t2=衹|t3=祇|alt=秖}}
+{{zh-ref|Schuessler (2007)}} suggests that it is possibly {{der|zh|sit}}, relating it to Kamarupan {{m|und||ke}}, {{m|und||kʰe|one}}, which are perhaps related to {{cog|sit-pro|*r-kjaŋ||single}}, whence {{cog|bo|རྐྱང||single}}, {{cog|my|tr=khyàŋ|t=single}}.
+
+====Pronunciation====
 {{zh-pron
 |m=zhǐ
-|ma=y
-|m-s=
+|m-s=zi3
 |c=zi2
-|c-t=
-|g=
+|c-t=zi2
+|g=ziit6
 |h=pfs=chṳ́/chṳt;gd=zed5
-|j=
+|j=zi2
 |mb=cǐ
 |md=cī
-|mda=Cdo this ci.ogg
 |mn=chí
 |mn-t=zi2
 |w=2tsr,4tseq
-|x=
+|x=zhr3
 |mc=1
 |oc=1
-|cat=adv,part,pron,pn
+|ma=y
+|cat=adv
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
-# [[only]]; [[just]]; [[simply]]
+# [[only]]; [[just]]; [[simply]]; [[merely]]
 #: {{zh-x|我 只 去 過 一 次。|I've '''only''' been there once.}}
 #: {{zh-x|湯 裡 只 放 了 一點兒{r} 胡椒粉。|There was '''just''' a hint of pepper in the soup.}}
-# a particle, similar to {{zh-l|啊}} or {{zh-l|耳}}
-# {{lb|zh|literary|or|Min}} [[this]]
-# {{surname|lang=zh}}
+# {{†}} [[originally]]; [[at first]]
 
 =====Synonyms=====
-* {{zh-l|單}}
-{{zh-dial|這}}
-=====Compounds=====
+* {{zh-l|僅僅}}
+
+====Compounds====
 {{zh-der|fold=1|只知其一，不知其二|只爭旦夕|只許州官放火，不許百姓點燈|弱水三千，只取一瓢飲|只道|只可|只有|只須|好漢只怕病來磨|只顧|只知有己，不知有人|只消|只合|只當|只教|只有出的氣，沒有進的氣|只要功夫深，鐵杵磨成針|只甚|只在|不怕官，只怕管|只此一家，別無分店|不管講雞講鴨，我只講鵝|天下無難事，只怕有心人|世上無難事，只怕有心人|只管|只認錢不認人|只索|只欠東風|不怕縣官，只怕現管|只是|只能|不圖打點，只圖混水|不只|只怕|只待|只重衣衫不重人|不管生癬生瘡，我只生癩|只可意會，不可言傳|只好|僅只|只會|只見樹木，不見森林|只見|只要|只今|只得|萬事俱備，只欠東風|破蒸籠，只會撒氣|是非只為多開口|敢只是|逢人只說三分話|肐膊只折在袖子裡|英雄只怕病來磨|賊沒種，只怕哄|豈只|蚊子遭扇打，只為嘴傷人}}
-====Pronunciation 2====
+
+===Etymology 2===
+{{zh-forms}}
+{{rfe|zh|Related to {{zh-l|這}}?}}
+
+====Pronunciation====
 {{zh-pron
 |m=zhǐ
-|mc=1
-|oc=1
-|cat=v,adv,part
+|c=zi2
+|md=cī
+|mn=qz:chí
+|mn-t=zi2
+|mc=2
+|ma=y
+|mda=Cdo this ci.ogg
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|Min}} [[this]]
+
+=====Synonyms=====
+{{zh-dial|這}}
+
+===Etymology 3===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|mc=2
+|oc=2
+|ma=y
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{n-g|A modal particle.}}
+
+===Etymology 4===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|cat=v
 }}
 
 =====Definitions=====
 {{zh-hanzi}}
-# to [[do]]
-# [[just]]
-# [[at first]]
-# a particle, similar to {{zh-l|著}}
 
-===Etymology 2===
+# {{†}} to [[do]]
+
+===Etymology 5===
+{{zh-forms}}
+{{rfe|zh|Related to {{zh-l|著/着|tr=zhe}}?}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhǐ,tl=y
+|c=zi2
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{n-g|Progressive particle, akin to {{zh-l|著/着|tr=zhe}}.}} {{defdate|Yuan–Ming}}
+
+===Etymology 6===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=Zhǐ
+|c=zi2
+|mc=2
+|oc=2
+|ma=y
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===Etymology 7===
 {{zh-see|隻}}
 
-===Etymology 3===
+===Etymology 8===
 {{zh-see|咫|v}}
 
 {{zh-cat|Beginning}}
