@@ -44,8 +44,8 @@ This character is also the preferred form used in modern Hong Kong, where tradit
 
 ====Readings====
 {{ja-readings
-|goon=おん
-|kanon=おん
+|goon=おん<をん
+|kanon=おん<をん
 |toon=うん
 |kun=あたた-か, あたた-める, あたた-かい, あたた-まる, ぬる-い, ぬく-もり
 }}
@@ -61,9 +61,20 @@ This character is also the preferred form used in modern Hong Kong, where tradit
 * {{ja-r|温もり|ぬくもり}}: [[warmth]]
 {{bottom}}
 
+===Etymology===
+{{ja-kanjitab|おん|yomi=on}}
+From {{der|ja|ltc|sort=おん|-}} {{ltc-l|溫}}.
+
+===Pronunciation===
+{{ja-pron|おん|y=on}}
+
+===Affix===
+{{ja-pos|affix|おん|kyu=溫|hhira=をん}}
+
+# [[warm]]
+
 ===Proper noun===
-{{ja-kanjitab|おん|yomi=o}}
-{{ja-pos|proper|おん}}
+{{ja-pos|proper|おん|kyu=溫|hhira=をん}}
 
 # {{given name|male|lang=ja|sort=おん}}
 
