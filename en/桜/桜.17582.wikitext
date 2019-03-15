@@ -52,7 +52,7 @@
 * {{ja-r|山桜桃|ユスラ}}, {{ja-r|山桜%桃|ユスラ%-ウメ|{{taxlink|Prunus tomentosa|species|ver=180319}}}}
 {{der-bottom}}
 
-===Etymology===
+===Etymology 1===
 <div style="float:right;">
 {| style="float:right;padding:0px;margin-right:-5px;"
 | [[File:Cerisier_du_Japon_Prunus_serrulata.jpg|thumb|none|119px|{{lang|ja|桜（[[桜木#Japanese|桜木]]）}}<br/>[[cherry tree]]]]
@@ -76,10 +76,10 @@ From {{inh|ja|ojp|sort=さくら|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 
 Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}} + {{m|ja|等|tr=-ra|pos=nominalizing and pluralizing suffix}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|さくら|acc=0|acc_ref=DJR}}
 
-===Noun===
+====Noun====
 {{ja-noun|さくら|サクラ|kyu=櫻}}
 
 # a [[cherry]] tree, more specifically the Japanese cherry ({{taxlink|Prunus serrulata|species|ver=171202}})
@@ -111,10 +111,10 @@ Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}
 # {{lb|ja|sort=さくら|slang}} an [[ear]]
 # {{short for|lang=ja|桜炭|nodot=1}}, {{m|ja|佐倉炭|tr=Sakura-zumi}}: a high-quality {{m|ja|炭|tr=sumi||[[charcoal]]}} made in {{m|ja|佐倉|tr={{w|Sakura, Chiba|Sakura}}|pos={{w|Chiba Prefecture}}}}, using {{lang|ja|桜}} as [[ateji]] for {{l|ja|佐倉}}
 
-====Usage notes====
+=====Usage notes=====
 * {{U:ja:biology|サクラ}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
 * {{ja-r|桜%麻|さくら%-あさ}}, {{ja-r|桜%麻|さくら%お}}
 * {{ja-r|桜%井|^さくら%い}}
@@ -250,12 +250,12 @@ Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}
 * {{ja-r|若%桜|わか%-ざくら}}
 {{der-bottom}}
 
-====Idioms====
+=====Idioms=====
 {{der-top|Idioms}}
 * {{ja-r|梅 と 桜|うめ と さくら}}
 {{der-bottom}}
 
-====Proverbs====
+=====Proverbs=====
 {{der-top|Proverbs}}
 * {{ja-r|桜 伐る 馬鹿 梅 伐らぬ 馬鹿|さくら きる ばか うめ きらぬ ばか|rom=-}}, {{ja-r|桜 切る 馬鹿 梅 切らぬ 馬鹿|さくら きる ばか うめ きらぬ ばか}}
 * {{ja-r|明日 あり と 思う 心 の 仇%桜|あす あり と おもう こころ の あだ%-ざくら}}
@@ -263,16 +263,16 @@ Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}
 * {{ja-r|三%日 見ぬ 間 の 桜|みっ%か みぬ ま の さくら}}
 {{der-bottom}}
 
-====Descendants====
+=====Descendants=====
 * {{desc|en|sakura}}
 * {{desc|ckv|sakula}}
 
-====See also====
+=====See also=====
 * {{ja-r|木材|もくざい|[[wood]], [[timber]], [[lumber]]}}
 * {{ja-r|花札|はなふだ|[[flower]] [[card]]s|pos=a type of Japanese card deck and game}}
 * {{ja-r|背%鰭|せ%びれ|[[dorsal]] [[fin]]}}
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|さくら}}
 
 # {{given name|lang=ja|sort=さくら|A=a|female}}
@@ -282,8 +282,22 @@ Originally derived from {{m|ja|咲く|tr=saku||to [[bloom]], [[burst]] [[open]]}
 #: {{ja-usex|桜　桜　[[弥生]]の[[空]]は　[[見%渡す]][[限り]]　[...]|さくら　さくら　^やよい の そら は　み%わたす かぎり　[...]|rom=sakura sakura yayoi no sora wa miwatasu kagiri...|sort=さくら}}
 # a piece of music played at the start of {{m|ja|平曲|tr=Heikyoku|pos=[[retelling]] of ''[[w:The Tale of the Heike|The Tale of the Heike]]'' with {{m|ja|琵琶|tr=biwa}} [[lute]] [[accompaniment]]}}
 
-====See also====
+=====See also=====
 * {{audio|lang=ja|Sakura Sakura.song.ogg|''Sakura'' song}}
+
+===Etymology 2===
+{{ja-kanjitab|おう|yomi=kanon}}
+From {{der|ja|ltc|sort=おう|-}} {{ltc-l|櫻}}.
+
+The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|おう|y=kanon}}
+
+====Affix====
+{{ja-pos|affix|おう|kyu=櫻|hhira=あう}}
+
+# [[cherry]] [[tree]]; [[cherry]] [[blossom]]
 
 ===References===
 <references/>
