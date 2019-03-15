@@ -51,8 +51,6 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=大02}}
 
-# [[centre]], [[middle]]
-
 ====Readings====
 {{ja-readings
 |goon=おう, よう
@@ -60,9 +58,23 @@
 |kun=なか-ば
 }}
 
-====Compounds====
-* [[震央]]
-* [[中央]]
+===Etymology===
+{{ja-kanjitab|おう|yomi=on}}
+From {{der|ja|ltc|sort=おう|-}} {{ltc-l|央}}.
+
+===Pronunciation===
+{{ja-pron|おう|y=on}}
+
+===Affix===
+{{ja-pos|affix|おう|hhira=あう}}
+
+# [[centre]], [[middle]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|震央|しんおう}}
+* {{ja-r|中央|ちゅうおう}}
+{{der-bottom}}
 
 ----
 
