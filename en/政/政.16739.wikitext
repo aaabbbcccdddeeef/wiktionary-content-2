@@ -65,31 +65,115 @@ Specialization of {{och-l|正|straight, upright; right, correct; proper}}.
 ===Kanji===
 {{ja-kanji|grade=5|rs=攴04}}
 
-# {{l|en|rule}}; {{l|en|government}}; {{l|en|politics}}
-
 ====Readings====
 {{ja-readings
-|goon=しょう
+|goon=しょう<しやう
 |kanon=せい
 |kun=まつりごと-
-|nanori=ただ, まさ
+|nanori=おさ<をさ, かず, きよ, こと, すなお<!--<すなを-->, ただ, ただし, ただす, なり, のぶ, のり, まさ, まさし, ゆき
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|摂%政|せっ%しょう}}: a {{l|en|regent}}
-* {{ja-r|政%界|せい%かい}}: the {{l|en|political}} {{l|en|sphere}}, the political {{l|en|world}}
-* {{ja-r|政権|せいけん}}: {{l|en|administration}} {{gloss|the term of an elected government}}
-* {{ja-r|政%策|せい%さく}}: {{l|en|policy}}
-* {{ja-r|政%治|せい%じ}}: {{l|en|politics}}
-* {{ja-r|政%治%家|せい%じ%か}}: {{l|en|politician}}
-* {{ja-r|政%争|せい%そう}}: {{l|en|political}} {{l|en|strife}}, political {{l|en|conflict}}
-* {{ja-r|政%体|せい%たい}}: a {{l|en|governing}} {{l|en|body}}
-* {{ja-r|政%党|せい%とう}}: a {{l|en|political}} {{l|en|party}}
-* {{ja-r|政%府|せい%ふ}}: {{l|en|government}}
-* {{ja-r|政%略|せい%りゃく}}: a {{l|en|political}} {{l|en|strategy}} or {{l|en|tactic}}
-* {{ja-r|政%令|せい%れい}}: a {{l|en|cabinet}} {{l|en|order}}
+{{der-top4|Compounds}}
+* {{ja-r|政%界|せい%かい|[[political]] [[sphere]], political [[world]]}}
+* {{ja-r|政%権|せい%けん|[[term]] of an [[elect]]ed [[government]]}}
+* {{ja-r|政%策|せい%さく|[[policy]]}}
+* {{ja-r|政%治|せい%じ|[[politics]]}}
+* {{ja-r|政%争|せい%そう|political [[strife]], political [[conflict]]}}
+* {{ja-r|政%体|せい%たい|[[govern]]ing [[body]]}}
+* {{ja-r|政%庁|せい%ちょう}}
+* {{ja-r|政%党|せい%とう|[[political party]]}}
+* {{ja-r|政%府|せい%ふ|[[government]]}}
+* {{ja-r|政%略|せい%りゃく|political [[strategy]] or [[tactic]]}}
+* {{ja-r|政%令|せい%れい|[[cabinet]] [[order]]}}
+* {{ja-r|悪%政|あく%せい}}
+* {{ja-r|為%政|い%せい}}
+* {{ja-r|王%政|おう%せい}}
+* {{ja-r|家%政|か%せい}}
+* {{ja-r|外%政|がい%せい}}
+* {{ja-r|行%政|ぎょう%せい}}
+* {{ja-r|憲%政|けん%せい}}
+* {{ja-r|国%政|こく%せい}}
+* {{ja-r|財%政|ざい%せい}}
+* {{ja-r|参%政|さん%せい}}
+* {{ja-r|市%政|し%せい}}
+* {{ja-r|施%政|し%せい}}
+* {{ja-r|失%政|しっ%せい}}
+* {{ja-r|善%政|ぜん%せい}}
+* {{ja-r|朝%政|ちょう%せい}}
+* {{ja-r|内%政|ない%せい}}
+* {{ja-r|農%政|のう%せい}}
+* {{ja-r|暴%政|ぼう%せい}}
+* {{ja-r|理%政|り%せい}}
+* {{ja-r|摂政|せっしょう|[[regent]]}}
+* {{ja-r|太%政官|^だい%じょう-かん}}, {{ja-r|太政官|^だじょう-かん}}
 {{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|まつりごと}}
+
+Possibly from {{inh|ja|ojp|sort=まつりこと|-}}.
+
+Originally a compound of {{com|ja|sort=まつりこと|祭り|tr1=matsuri|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|祭る|tr=matsuru}}, “to [[enshrine]], [[worship]]”|事|tr2=koto|t2=[[matter]], [[thing]]}}.<ref>{{R:Daijisen}}</ref><ref name="DJR"/> {{rendaku2|sort=まつりこと|koto|goto}}.
+
+====Pronunciation====
+{{ja-pron|y=k|まつりごと|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|まつりごと}}
+
+# {{lb|ja|sort=まつりこと|politics}} a [[government]], [[rule]]
+#: {{syn|ja|政治|tr1=seiji|政道|tr2=seidō}}
+# {{lb|ja|sort=まつりこと|especially in|_|Shinto}} a [[festival]], [[ritual]]
+#: {{syn|ja|祭祀|tr=saishi}}  
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|政つ|まつりごつ}}
+* {{ja-r|政所|まんどころ}}
+* {{ja-r|政%殿|まつりごと%どの}}
+* {{ja-r|政 始|まつりごと はじめ}}
+* {{ja-r|政%人|まつりごと%びと|rom=-}}, {{ja-r|判官|まつりごとびと}}
+* {{ja-r|朝%政|あさ%まつりごと}}
+* {{ja-r|太政%官|^おおいまつりごと の% ^つかさ}}
+* {{ja-r|太政|おおまつりごと}}
+* {{ja-r|外記の政|げき の まつりごと}}
+* {{ja-r|後%方の政|しり%え の まつりごと}}
+* {{ja-r|垂%簾の政|すい%れん の まつりごと}}
+{{der-bottom}}
+
+=====Proverbs=====
+* {{ja-r|政を為すは猶%沐するが如し|まつりごと を なす は なお% もく する が ごとし}}
+
+====Proper noun====
+{{ja-pos|proper|まつりごと}}
+
+# {{surname|lang=ja|A=a|nodot=1|sort=まつりこと}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=kanon|せい}}
+
+From {{bor|ja|ltc|sort=せい|-}} {{ltc-l|政}}.
+
+====Noun====
+{{ja-noun|せい}}
+
+# a [[law]], [[rule]]
+# a [[doctrine]], [[precept]], [[way]]
+
+====Affix====
+{{ja-pos|affix|せい}}
+
+# [[government]], [[politics]], [[rule]]
+# [[administration]] {{rfv-sense|ja|sort=せい}}
+
+====Proper noun====
+{{ja-pos|proper|せい}}
+
+# {{given name|male|or=female|lang=ja|A=a|sort=せい}}
+
+===References===
+<references/>
 
 ----
 
