@@ -5,7 +5,7 @@
 {{Han char|rn=38|rad=女|as=10|sn=13|four=46430|canj=VHUP|ids=⿰女息}}
 
 ====References====
-* {{Han ref|kx=0268.050|dkj=06573|dj=0535.280|hdz=21072.030|uh=5AB3|ud=23219|bh=B740|bd=46912}}
+{{Han ref|kx=0268.050|dkj=06573|dj=0535.280|hdz=21072.030|uh=5AB3}}
 
 ----
 
@@ -44,14 +44,17 @@
 # {{defn|lang=ja|sort=女10}}
 
 ====Readings====
-* {{ja-readings|on=[[せき]] (seki), [[しゃく]] (shaku)|kun=[[よめ]] (yome)}}
+{{ja-readings
+|on=せき, しゃく
+|kun=よめ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=식|rv=sik|mr=sik}}
+{{ko-hanja|식}}
 
 # {{defn|lang=ko|sort=女10}}
 
@@ -60,7 +63,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=女10|hanviet=tức}}
+{{vi-readings|rs=女10|reading=tức}}
 
 # {{defn|lang=vi|sort=女10}}
 
