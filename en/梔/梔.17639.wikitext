@@ -6,7 +6,7 @@
 {{Han char|rn=75|rad=木|as=07|sn=11|four=42917|canj=DHMU|ids=⿰木巵}}
 
 ====References====
-* {{Han ref|kx=0529.010|dkj=14846|dj=0917.160|hdz=21216.060|uh=6894|ud=26772|bh=B1F7|bd=45559}}
+{{Han ref|kx=0529.010|dkj=14846|dj=0917.160|hdz=21216.060|uh=6894}}
 
 ----
 
@@ -45,14 +45,17 @@
 # {{defn|lang=ja|sort=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[くちなし]] (kuchinashi)}}
+{{ja-readings
+|on=し
+|kun=くちなし
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+{{ko-hanja|치}}
 
 # {{defn|lang=ko|sort=木07}}
 
@@ -61,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=chi}}
+{{vi-readings|rs=木07|reading=chi}}
 
 # {{defn|lang=vi|sort=木07}}
 
