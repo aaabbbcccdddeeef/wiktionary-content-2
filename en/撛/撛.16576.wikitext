@@ -5,7 +5,7 @@
 {{Han char|rn=64|rad=手|as=12|sn=15|four=|canj=QFDQ|ids=⿰扌粦}}
 
 ====References====
-* {{Han ref|kx=0454.240|dkj=12714|dj=0804.040|hdz=31962.060|uh=649B|ud=25755}}
+{{Han ref|kx=0454.240|dkj=12714|dj=0804.040|hdz=31962.060|uh=649B}}
 
 ----
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=手12}}
 
 ====Readings====
-* {{ja-readings|on=[[りん]] (rin)|kun=[[たすける]] (tasukeru), [[ぬく]] (nuku)}}
+{{ja-readings
+|on=りん
+|kun=たすける, ぬく
+}}
 
 ----
 
@@ -45,7 +48,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手12|hanviet=lăn}}
+{{vi-readings|rs=手12|reading=lăn}}
 
 # {{defn|lang=vi|sort=手12}}
 
