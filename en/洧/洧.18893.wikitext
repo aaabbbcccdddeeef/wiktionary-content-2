@@ -7,7 +7,7 @@
 # [[name]] of a [[river]] in [[w:Weishi County|Weishi County]], [[Henan]] [[province]], [[China]]
 
 ====References====
-* {{Han ref|kx=0621.170|dkj=17398|dj=1017.090|hdz=31604.020|uh=6D27|ud=27943|bh=ACA8|bd=44200}}
+{{Han ref|kx=0621.170|dkj=17398|dj=1017.090|hdz=31604.020|uh=6D27}}
 
 ----
 
@@ -39,14 +39,16 @@
 # {{defn|lang=ja|sort=水06}}
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i)|kun=}}
+{{ja-readings
+|on=い
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+{{ko-hanja|유}}
 
 # {{defn|lang=ko|sort=水06}}
 
@@ -55,7 +57,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水06|hanviet=vị}}
+{{vi-readings|rs=水06|reading=vị}}
 
 # {{defn|lang=vi|sort=水06}}
 
