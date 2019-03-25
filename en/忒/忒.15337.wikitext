@@ -5,7 +5,7 @@
 {{Han char|rn=61|rad=心|as=03|sn=7|four=43300|canj=IPP,XXIPP|ids=⿹弋心}}
 
 ====References====
-* {{Han ref|kx=0376.100|dkj=10319|dj=0702.190|hdz=42269.070|uh=5FD2|ud=24530|bh=CAD6|bd=51926}}
+{{Han ref|kx=0376.100|dkj=10319|dj=0702.190|hdz=42269.070|uh=5FD2}}
 
 ----
 
@@ -71,14 +71,17 @@ Cognate with {{och-l|代|to substitute}} ({{zh-ref|Schuessler, 2007}}).
 # {{defn|lang=ja|sort=心03}}
 
 ====Readings====
-* {{ja-readings|on=[[とく]] (toku)|kun=[[かわる]] (kawaru)}}
+{{ja-readings
+|on=とく
+|kun=かわる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=특|eumhun=|rv=teuk|mr=t'ŭk|y=thuk}}
+{{ko-hanja|특}}
 
 # {{defn|lang=ko|sort=心03}}
 
@@ -87,6 +90,6 @@ Cognate with {{och-l|代|to substitute}} ({{zh-ref|Schuessler, 2007}}).
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心03|hanviet=thắc}}
+{{vi-readings|rs=心03|reading=thắc}}
 
 # {{defn|lang=vi|sort=心03}}
