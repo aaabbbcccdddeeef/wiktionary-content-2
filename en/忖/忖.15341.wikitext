@@ -7,7 +7,7 @@
 # [[guess]], [[suppose]], [[conjecture]]
 
 ====References====
-* {{Han ref|kx=0376.160|dkj=10326|dj=0703.020|hdz=42272.040|uh=5FD6|ud=24534|bh=A6A4|bd=42660}}
+{{Han ref|kx=0376.160|dkj=10326|dj=0703.020|hdz=42272.040|uh=5FD6}}
 
 ----
 
@@ -44,7 +44,11 @@
 # {{defn|lang=ja|sort=心03}}
 
 ====Readings====
-* {{ja-readings|goon=[[そん]] (son)|kanon=[[そん]] (son)|kun=[[はかる]] (hakaru)}}
+{{ja-readings
+|goon=そん
+|kanon=そん
+|kun=はかる
+}}
 
 ----
 
@@ -60,6 +64,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心03|hanviet=thổn}}
+{{vi-readings|rs=心03|reading=thổn}}
 
 # {{defn|lang=vi|sort=心03}}
