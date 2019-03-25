@@ -10,7 +10,7 @@
 # [[destroy]], [[break]], [[injure]]
 
 ====References====
-* {{Han ref|kx=0648.030|dkj=18183|dj=1058.010|hdz=31724.030|uh=6F3C|ud=28476|bh=E2A8|bd=58024}}
+{{Han ref|kx=0648.030|dkj=18183|dj=1058.010|hdz=31724.030|uh=6F3C}}
 
 ----
 
@@ -61,7 +61,10 @@
 # {{defn|lang=ja|sort=水11}}
 
 ====Readings====
-* {{ja-readings|on=[[さい]] (sai), [[すい]] (sui), [[ずい]] (zui)|kun=[[ふかい]] (fukai)}}
+{{ja-readings
+|on=さい, すい, ずい
+|kun=ふかい
+}}
 
 ----
 
@@ -77,7 +80,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = dồi, nhôi}}
+{{vi-readings|rs=水11|reading=dồi, nhôi}}
 
 # {{defn|lang=vi|sort=水11}}
 
