@@ -6,7 +6,7 @@
 {{Han char|rn=85|rad=水|as=17|sn=20|four=31127|canj=ENMB|ids=⿰氵彌}}
 
 ====References====
-* {{Han ref|kx=0660.310|dkj=18690|dj=1070.220|hdz=31791.030|uh=7030|ud=28720|bh=C46A|bd=50282}}
+{{Han ref|kx=0660.310|dkj=18690|dj=1070.220|hdz=31791.030|uh=7030}}
 
 ----
 ==Chinese==
@@ -59,14 +59,17 @@
 # {{defn|lang=ja|sort=水17}}
 
 ====Readings====
-* {{ja-readings|on=[[び]] (bi), [[み]] (mi)|kun=[[ながれる]] (nagareru), [[ながれ]] (nagare)}}
+{{ja-readings
+|on=び, み
+|kun=ながれる, ながれ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+{{ko-hanja|미}}
 
 # {{defn|lang=ko|sort=水17}}
 
@@ -75,6 +78,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水17| hanviet = di}}
+{{vi-readings|rs=水17|reading=di}}
 
 # [[full]]
