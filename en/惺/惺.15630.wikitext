@@ -7,7 +7,7 @@
 # [[intelligent]], [[clever]], [[astute]]
 
 ====References====
-* {{Han ref|kx=0393.040|dkj=10868|dj=0729.020|hdz=42328.020|uh=60FA|ud=24826|bh=B469|bd=46185}}
+{{Han ref|kx=0393.040|dkj=10868|dj=0729.020|hdz=42328.020|uh=60FA}}
 
 ----
 
@@ -47,7 +47,10 @@
 # {{defn|lang=ja|sort=心09}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei)|kun=[[さとる]] (satoru)}}
+{{ja-readings
+|on=せい
+|kun=さとる
+}}
 
 ----
 
@@ -63,7 +66,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心09|hanviet=[[tênh]], [[tinh]]}}
+{{vi-readings|rs=心09|reading=[[tênh]], [[tinh]]}}
 
 # {{defn|lang=vi|sort=心09}}
 
