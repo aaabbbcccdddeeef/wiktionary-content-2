@@ -7,7 +7,7 @@
 # [[cap]] [[worn]] during the [[w:Shang dynasty|Shang]] [[dynasty]]
 
 ====References====
-* {{Han ref|kx=0129.270|dkj=01542|dj=0291.180|hdz=21508.010|uh=5194|ud=20884|bh=D0DF|bd=53471}}
+{{Han ref|kx=0129.270|dkj=01542|dj=0291.180|hdz=21508.010|uh=5194}}
 
 ----
 
@@ -41,14 +41,16 @@
 # {{defn|lang=ja|sort=冂08}}
 
 ====Readings====
-{{ja-readings|on=[[く]] (ku)|kun=}}
+{{ja-readings
+|on=く
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=후}}
+{{ko-hanja|후}}
 
 # {{defn|lang=ko|sort=冂08}}
 
@@ -57,6 +59,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=冂08| hanviet = hu}}
+{{vi-readings|rs=冂08|reading=hu}}
 
 # {{defn|lang=vi|sort=冂08}}
