@@ -9,7 +9,7 @@
 * {{l|mul|構}}, {{l|mul|篝}}, {{l|mul|溝}}, {{l|mul|媾}}, {{l|mul|遘}}, {{l|mul|講}}, {{l|mul|購}}, {{l|mul|覯}}, {{l|mul|斠}}, {{l|mul|鞲}}, {{l|mul|遘}}, {{l|mul|韝}}
 
 ====References====
-* {{Han ref|kx=0129.250|dkj=01540|dj=0291.160|hdz=10100.170|uh=5193|ud=20883|bh=D0E0|bd=53472}}
+{{Han ref|kx=0129.250|dkj=01540|dj=0291.160|hdz=10100.170|uh=5193}}
 
 ----
 
@@ -43,6 +43,7 @@
 |m=gōu
 |mc=1
 |oc=n,1
+|cat=
 }}
 
 ====Definitions====
@@ -60,14 +61,17 @@
 # {{defn|lang=ja|sort=冂08}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[かまえる]] (kamaeru)}}
+{{ja-readings
+|on=こう
+|kun=かまえる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=구|rv=gu|mr=ku}}
+{{ko-hanja|구}}
 
 # {{defn|lang=ko|sort=冂08}}
 
@@ -76,7 +80,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=冂08| hanviet = cấu}}
+{{vi-readings|rs=冂08|reading=cấu}}
 
 # {{defn|lang=vi|sort=冂08}}
 
