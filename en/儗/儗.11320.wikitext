@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=14|sn=16|four=27281|canj=OPKO|ids=⿰亻疑}}
 
 ====References====
-* {{Han ref|kx=0120.050|dkj=01233|dj=0253.200|hdz=10231.090|uh=5117|ud=20759|bh=E8F6|bd=59638}}
+{{Han ref|kx=0120.050|dkj=01233|dj=0253.200|hdz=10231.090|uh=5117}}
 
 ----
 ==Chinese==
@@ -88,14 +88,17 @@
 # {{defn|lang=ja|sort=人14}}
 
 ====Readings====
-* {{ja-readings|on=[[ぎ]] (gi), [[かい]] (kai)|kun=[[なぞらえる]] (nazoraeru), [[くらべる]] (kuraberu)}}
+{{ja-readings
+|on=ぎ, かい
+|kun=なぞらえる, くらべる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=의|rv=ui|mr=ŭi}}
+{{ko-hanja|의}}
 
 # {{defn|lang=ko|sort=人14}}
 
@@ -104,6 +107,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=人14| hanviet = nghì, nghỉ, nghĩ}}
+{{vi-readings|rs=人14|reading=nghì, nghỉ, nghĩ}}
 
 # {{defn|lang=vi|sort=人14}}
