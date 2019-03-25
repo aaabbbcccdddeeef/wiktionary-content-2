@@ -6,7 +6,7 @@
 {{Han char|rn=85|rad=水|as=10|sn=13|four=30127|canj=EYUB|ids=⿰氵离}}
 
 ====References====
-* {{Han ref|kx=0645.200|dkj=18127|dj=1054.110|hdz=31705.030|uh=6F13|ud=28435|bh=BA76|bd=47734}}
+{{Han ref|kx=0645.200|dkj=18127|dj=1054.110|hdz=31705.030|uh=6F13}}
 
 ----
 
@@ -53,7 +53,10 @@
 # {{defn|lang=ja|sort=水10}}
 
 ====Readings====
-* {{ja-readings|on=[[り]] (ri)|kun=[[うすい]] (usui)}}
+{{ja-readings
+|on=り
+|kun=うすい
+}}
 
 ----
 
@@ -69,6 +72,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水10| hanviet = lầy}}
+{{vi-readings|rs=水10|reading=lầy}}
 
 # {{defn|lang=vi|sort=水10}}
