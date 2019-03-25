@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=10|sn=13|four=30163|canj=EYVW|ids=⿰氵畜}}
 
 ====References====
-* {{Han ref|kx=0641.210|dkj=17999|dj=1049.020|hdz=31706.060|uh=6EC0|ud=28352|bh=DE47|bd=56903}}
+{{Han ref|kx=0641.210|dkj=17999|dj=1049.020|hdz=31706.060|uh=6EC0}}
 
 ----
 
@@ -55,13 +55,16 @@
 # {{defn|lang=ja|sort=水10}}
 
 ====Readings====
-* {{ja-readings|on=[[ちく]] (chiku)|kun=[[あつまる]] (atsumaru)}}
+{{ja-readings
+|on=ちく
+|kun=あつまる
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水10| hanviet = sốc}}
+{{vi-readings|rs=水10|reading=sốc}}
 
 # {{defn|lang=vi|sort=水10}}
