@@ -5,7 +5,7 @@
 {{Han char|rn=27|rad=厂|as=08|sn=10|four=71261|canj=MTA|ids=⿸厂昔}}
 
 ====References====
-* {{Han ref|kx=0161.370|dkj=02961|dj=0368.140|hdz=10073.090|uh=539D|ud=21405|bh=ADED|bd=44525}}
+{{Han ref|kx=0161.370|dkj=02961|dj=0368.140|hdz=10073.090|uh=539D}}
 
 ----
 
@@ -130,14 +130,17 @@ Traditionally thought to be derived from etymology 3. {{zh-ref|Norman (1984)}} p
 # [[gravest]]
 
 ====Readings====
-* {{ja-readings|on=[[さく]] (saku), [[そ]] (so), [[せき]] (seki), [[じゃく]] (jaku)|kun=[[と]] (to), [[まじる]] (majiru), [[おく]] (oku)}}
+{{ja-readings
+|on=さく, そ, せき, じゃく
+|kun=と, まじる, おく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=조|rv=jo|mr=cho}}
+{{ko-hanja|조}}
 
 # to cut or engrave
 # a grave or tombstone
@@ -147,6 +150,6 @@ Traditionally thought to be derived from etymology 3. {{zh-ref|Norman (1984)}} p
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=厂08|hanviet=xó}}
+{{vi-readings|rs=厂08|reading=xó}}
 
 # {{defn|lang=vi|sort=厂08}}
