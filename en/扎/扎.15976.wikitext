@@ -6,7 +6,7 @@
 {{Han char|rn=64|rad=手|as=01|sn=4|four=52010|canj=QU,XQU|ids=⿰扌乚}}
 
 ====References====
-* {{Han ref|kx=0417.010|dkj=11771|dj=0763.030|hdz=31825.030|uh=624E|ud=25166|bh=A4E3|bd=42211}}
+{{Han ref|kx=0417.010|dkj=11771|dj=0763.030|hdz=31825.030|uh=624E}}
 
 ----
 
@@ -22,7 +22,8 @@
 ====Pronunciation====
 {{zh-pron
 |m=zhā,zā,zhá
-|m_note=zhā - “to stab, to prick, to puncture”; zā (Mainland), zhá (Taiwan) - “to fasten, to tie, to bind”; zhā (Mainland), zhá (Taiwan) - “to be stationed”; zhá - used in {{zh-l|*掙扎}} and {{zh-l|*扎掙}}
+|m_note=zhā - “to stab, to prick, to puncture”; zā (Mainland), zhá (Taiwan) - “to fasten, to tie, to bind”; zhā (Mainland), zhá (Taiwan) - “to be stationed”; zhá - used in {{zh-l|*掙扎|cat=
+}} and {{zh-l|*扎掙}}
 |c=zaat3,zaap3
 |h=pfs=
 |md=
@@ -64,14 +65,17 @@
 # {{defn|lang=ja|sort=手01}}
 
 ====Readings====
-* {{ja-readings|on=[[さつ]] (satsu), [[あつ]] (atsu)|kun=[[ぬく]] (nuku), [[かまえる]] (kamaeru)}}
+{{ja-readings
+|on=さつ, あつ
+|kun=ぬく, かまえる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=찰|eumhun=|rv=chal|mr=ch'al|y=chal}}
+{{ko-hanja|찰}}
 
 # {{defn|lang=ko|sort=手01}}
 
@@ -80,6 +84,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手01|hanviet=trát}}
+{{vi-readings|rs=手01|reading=trát}}
 
 # {{defn|lang=vi|sort=手01}}
