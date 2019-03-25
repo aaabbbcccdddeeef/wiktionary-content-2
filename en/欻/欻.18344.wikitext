@@ -5,7 +5,7 @@
 {{Han char|rn=76|rad=欠|as=08|sn=12|four=97882|canj=FFNO|ids=⿰炎欠}}
 
 ====References====
-* {{Han ref|kx=0568.160|dkj=16099|dj=0957.020|hdz=32144.040|uh=6B3B|ud=27451|bh=D9DB|bd=55771}}
+{{Han ref|kx=0568.160|dkj=16099|dj=0957.020|hdz=32144.040|uh=6B3B}}
 
 ----
 
@@ -37,6 +37,7 @@
 ====Pronunciation====
 {{zh-pron
 |m=chuā
+|cat=
 }}
 
 ====Definitions====
@@ -54,14 +55,16 @@
 # {{defn|lang=ja|sort=欠08}}
 
 ====Readings====
-* {{ja-readings|on=[[くつ]] (kutsu), [[くち]] (kuchi)|kun=}}
+{{ja-readings
+|on=くつ, くち
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=훌|eumhun=|rv=hul|mr=hul|y=hwul}}
+{{ko-hanja|훌}}
 
 # {{defn|lang=ko|sort=欠08}}
 
@@ -70,7 +73,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=欠08|hanviet=hư}}
+{{vi-readings|rs=欠08|reading=hư}}
 
 # {{defn|lang=vi|sort=欠08}}
 
