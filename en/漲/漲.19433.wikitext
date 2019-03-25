@@ -6,7 +6,7 @@
 {{Han char|rn=85|rad=水|as=11|sn=14|four=31132|canj=ENSV|ids=⿰氵張}}
 
 ====References====
-* {{Han ref|kx=0647.080|dkj=18173|dj=1057.070|hdz=31733.020|uh=6F32|ud=28466|bh=BAA6|bd=47782}}
+{{Han ref|kx=0647.080|dkj=18173|dj=1057.070|hdz=31733.020|uh=6F32}}
 
 ----
 
@@ -90,14 +90,17 @@
 # {{defn|lang=ja|sort=水11}}
 
 ====Readings====
-* {{ja-readings|on=[[ちょう]] (chō)|kun=[[みなぎる]] (minagiru)}}
+{{ja-readings
+|on=ちょう
+|kun=みなぎる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+{{ko-hanja|창}}
 
 # {{defn|lang=ko|sort=水11}}
 
@@ -106,7 +109,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = [[trướng]], [[nhướng]]}}
+{{vi-readings|rs=水11|reading=[[trướng]], [[nhướng]]}}
 
 # {{defn|lang=vi|sort=水11}}
 
