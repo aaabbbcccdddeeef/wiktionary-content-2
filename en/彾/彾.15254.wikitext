@@ -5,7 +5,7 @@
 {{Han char|rn=60|rad=彳|as=05|sn=8|four=28227|canj=HOOII|ids=⿰彳令}}
 
 ====References====
-* {{Han ref|kx=0365.290|dkj=10070|dj=0685.200|hdz=20817.010|uh=5F7E|ud=24446|bh=CC76|bd=52342}}
+{{Han ref|kx=0365.290|dkj=10070|dj=0685.200|hdz=20817.010|uh=5F7E}}
 
 ----
 
@@ -29,7 +29,9 @@
 # {{defn|lang=ja|sort=彳05}}
 
 ====Readings====
-* {{ja-readings|on=[[れい]] (rei), [[りょう]] (ryō)|kun=}}
+{{ja-readings
+|on=れい, りょう
+}}
 
 ----
 
@@ -45,6 +47,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=彳05|hanviet=lĩnh}}
+{{vi-readings|rs=彳05|reading=lĩnh}}
 
 # {{defn|lang=vi|sort=彳05}}
