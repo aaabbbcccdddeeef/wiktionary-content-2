@@ -10,7 +10,7 @@
 # [[high]] and [[steep]]
 
 ====References====
-* {{Han ref|kx=0320.070|dkj=08487|dj=0620.110|hdz=10798.150|uh=5D9F|ud=23967|bh=E564|bd=58724}}
+{{Han ref|kx=0320.070|dkj=08487|dj=0620.110|hdz=10798.150|uh=5D9F}}
 
 ----
 
@@ -34,7 +34,10 @@
 # {{defn|lang=ja|sort=山12}}
 
 ====Readings====
-* {{ja-readings|on=[[そん]] (son), [[しゅん]] (shun)|kun=[[そばだつ]] (sobadatsu)}}
+{{ja-readings
+|on=そん, しゅん
+|kun=そばだつ
+}}
 
 ----
 
@@ -50,7 +53,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山12|hanviet=chon}}
+{{vi-readings|rs=山12|reading=chon}}
 
 # {{defn|lang=vi|sort=山12}}
 
