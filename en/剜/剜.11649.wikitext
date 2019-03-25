@@ -5,7 +5,7 @@
 {{Han char|rn=18|rad=刀|as=08|sn=10|four=32200|canj=JULN|ids=⿰宛刂}}
 
 ====References====
-* {{Han ref|kx=0141.160|dkj=02044|dj=0321.020|hdz=10346.020|uh=525C|ud=21084|bh=ADE6|bd=44518}}
+{{Han ref|kx=0141.160|dkj=02044|dj=0321.020|hdz=10346.020|uh=525C}}
 
 ----
 
@@ -54,14 +54,17 @@
 # {{defn|lang=ja|sort=刀08}}
 
 ====Readings====
-{{ja-readings|on=[[わん]] (wan)|kun=[[けずる]] (kezuru), [[えぐる]] (eguru)}}
+{{ja-readings
+|on=わん
+|kun=けずる, えぐる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=완|rv=wan|mr=wan}}
+{{ko-hanja|완}}
 
 # {{defn|lang=ko|sort=刀08}}
 
@@ -70,7 +73,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=刀08| hanviet = uyển}}
+{{vi-readings|rs=刀08|reading=uyển}}
 
 # {{defn|lang=vi|sort=刀08}}
 
