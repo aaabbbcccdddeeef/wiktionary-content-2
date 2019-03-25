@@ -8,7 +8,7 @@
 # still (as of water), [[placid]], [[tranquil]]
 
 ====References====
-* {{Han ref|kx=0653.310|dkj=18416|dj=1063.240|hdz=31763.030|uh=6FB6|ud=28598|bh=BF47|bd=48967}}
+{{Han ref|kx=0653.310|dkj=18416|dj=1063.240|hdz=31763.030|uh=6FB6}}
 
 ----
 
@@ -43,14 +43,16 @@
 # {{defn|lang=ja|sort=水13}}
 
 ====Readings====
-* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen), [[てん]] (ten), [[でん]] (den)|kun=}}
+{{ja-readings
+|on=せん, ぜん, てん, でん
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+{{ko-hanja|전}}
 
 # {{defn|lang=ko|sort=水13}}
 
@@ -59,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水13| hanviet = thiền, đạn}}
+{{vi-readings|rs=水13|reading=thiền, đạn}}
 
 # {{defn|lang=vi|sort=水13}}
