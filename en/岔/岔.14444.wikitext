@@ -5,7 +5,7 @@
 {{Han char|rn=46|rad=山|as=04|sn=7|four=80772|canj=CSHU|ids=⿱分山}}
 
 ====References====
-* {{Han ref|kx=0308.330|dkj=07944|dj=0608.130|hdz=10764.020|uh=5C94|ud=23700|bh=A7C3|bd=42947}}
+{{Han ref|kx=0308.330|dkj=07944|dj=0608.130|hdz=10764.020|uh=5C94}}
 
 ----
 
@@ -45,14 +45,17 @@
 # {{defn|lang=ja|sort=山04}}
 
 ====Readings====
-* {{ja-readings|on=[[さ]] (sa), [[た]] (ta), [[ふん]] (fun)|kun=[[まちがう]] (machigau), [[くいちがう]] (kuichigau)}}
+{{ja-readings
+|on=さ, た, ふん
+|kun=まちがう, くいちがう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=차|rv=cha|mr=ch'a}}
+{{ko-hanja|차}}
 
 # {{defn|lang=ko|sort=山04}}
 
@@ -61,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山04|hanviet=xá}}
+{{vi-readings|rs=山04|reading=xá}}
 
 # {{defn|lang=vi|sort=山04}}
 
