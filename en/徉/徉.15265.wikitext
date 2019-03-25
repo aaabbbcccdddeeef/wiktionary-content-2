@@ -5,7 +5,7 @@
 {{Han char|rn=60|rad=彳|as=06|sn=9|four=28251|canj=HOTQ|ids=⿰彳羊}}
 
 ====References====
-* {{Han ref|kx=0366.140|dkj=10094|dj=0687.080|hdz=20820.020|uh=5F89|ud=24457|bh=ABE2|bd=44002}}
+{{Han ref|kx=0366.140|dkj=10094|dj=0687.080|hdz=20820.020|uh=5F89}}
 
 ----
 
@@ -44,14 +44,17 @@
 # {{defn|lang=ja|sort=彳06}}
 
 ====Readings====
-* {{ja-readings|on=[[よう]] (yō)|kun=[[さまよう]] (samayou)}}
+{{ja-readings
+|on=よう
+|kun=さまよう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
+{{ko-hanja|양}}
 
 # {{defn|lang=ko|sort=彳06}}
 
@@ -60,7 +63,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=彳06|hanviet=dương}}
+{{vi-readings|rs=彳06|reading=dương}}
 
 # {{defn|lang=vi|sort=彳06}}
 
