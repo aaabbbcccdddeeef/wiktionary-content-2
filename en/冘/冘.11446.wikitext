@@ -9,7 +9,7 @@
 * [[沈]] [[枕]] [[耽]] [[鴆]]
 
 ====References====
-* {{Han ref|kx=0130.140|dkj=01567|dj=0292.140|hdz=10302.170|uh=5198|ud=20888|bh=C955|bd=51541}}
+{{Han ref|kx=0130.140|dkj=01567|dj=0292.140|hdz=10302.170|uh=5198}}
 
 ----
 
@@ -48,6 +48,7 @@
 |mn=iû
 |mc=1
 |oc=1
+|cat=
 }}
 
 ====Definitions====
@@ -72,14 +73,17 @@
 # {{defn|lang=ja|sort=冖02}}
 
 ====Readings====
-* {{ja-readings|on=[[いん]] (in), [[いう]] (iu), [[ゆ]] (yu)|kun=[[おこたる]] (okotaru), [[ためらふ]] (tamerafu), [[うたがふ]] (utagafu)}}
+{{ja-readings
+|on=いん, いう, ゆ
+|kun=おこたる, ためらふ, うたがふ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=유|rv=yu|mr=yu}}
+{{ko-hanja|유}}
 
 # {{defn|lang=ko|sort=冖02}}
 
@@ -88,7 +92,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=冖02|hanviet=[[đem]], [[dâm]], [[nhũng]]}}
+{{vi-readings|rs=冖02|reading=[[đem]], [[dâm]], [[nhũng]]}}
 
 # {{defn|lang=vi|sort=冖02}}
 
