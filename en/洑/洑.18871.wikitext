@@ -9,7 +9,7 @@
 # to [[swim]] as [[fish]]
 
 ====References====
-* {{Han ref|kx=0620.040|dkj=17373|dj=1015.080|hdz=31609.040|uh=6D11|ud=27921|bh=CF7B|bd=53115}}
+{{Han ref|kx=0620.040|dkj=17373|dj=1015.080|hdz=31609.040|uh=6D11}}
 
 ----
 
@@ -50,14 +50,16 @@
 # {{defn|lang=ja|sort=水06}}
 
 ====Readings====
-* {{ja-readings|on=[[ふく]] (fuku), [[ぶく]] (buku)|kun=}}
+{{ja-readings
+|on=ふく, ぶく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=보|eumhun=|rv=bo|mr=po|y=po}}
+{{ko-hanja|보}}
 
 # small dam or reservoir
 
@@ -66,7 +68,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水06|hanviet=phục}}
+{{vi-readings|rs=水06|reading=phục}}
 
 # {{defn|lang=vi|sort=水06}}
 
