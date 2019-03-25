@@ -7,7 +7,7 @@
 # [[beech]] [[tree]]
 
 ====References====
-* {{Han ref|kx=0552.170|dkj=15513|dj=0941.060|hdz=21292.040|uh=6A45|ud=27205}}
+{{Han ref|kx=0552.170|dkj=15513|dj=0941.060|hdz=21292.040|uh=6A45}}
 
 ----
 
@@ -42,7 +42,10 @@
 # beech tree
 
 ====Readings====
-* {{ja-readings|on=[[ぼ]] (bo), [[も]] (mo)|kun=[[かた]] (kata), [[ぶな]] (buna)}}
+{{ja-readings
+|on=ぼ, も
+|kun=かた, ぶな
+}}
 
 {{ja-kanjitab|ぶな|yomi=k}}
 
@@ -59,6 +62,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木12|hanviet=vồ}}
+{{vi-readings|rs=木12|reading=vồ}}
 
 # {{defn|lang=vi|sort=木12}}
