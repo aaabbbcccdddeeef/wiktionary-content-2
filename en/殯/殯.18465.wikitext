@@ -6,7 +6,7 @@
 {{Han char|rn=78|rad=歹|as=14|sn=18|four=13286|canj=MNJMC|ids=⿰歹賓}}
 
 ====References====
-* {{Han ref|kx=0583.440|dkj=16596|dj=0976.290|hdz=21395.170|uh=6BAF|ud=27567|bh=C26C|bd=49772}}
+{{Han ref|kx=0583.440|dkj=16596|dj=0976.290|hdz=21395.170|uh=6BAF}}
 
 ----
 
@@ -49,14 +49,17 @@
 # {{defn|lang=ja|sort=歹14}}
 
 ====Readings====
-* {{ja-readings|on=[[ひん]] (hin)|kun=[[かりもがり]] (karimogari)}}
+{{ja-readings
+|on=ひん
+|kun=かりもがり
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+{{ko-hanja|빈}}
 
 # {{defn|lang=ko|sort=歹14}}
 
@@ -65,6 +68,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=歹14|hanviet=tấn}}
+{{vi-readings|rs=歹14|reading=tấn}}
 
 # {{defn|lang=vi|sort=歹14}}
