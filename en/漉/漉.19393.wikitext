@@ -8,7 +8,7 @@
 # [[wet]], [[dripping]]
 
 ====References====
-* {{Han ref|kx=0645.040|dkj=18112|dj=1053.090|hdz=31728.010|uh=6F09|ud=28425|bh=E275|bd=57973}}
+{{Han ref|kx=0645.040|dkj=18112|dj=1053.090|hdz=31728.010|uh=6F09}}
 
 ----
 
@@ -46,7 +46,10 @@
 # {{defn|lang=ja|sort=水11}}
 
 ====Readings====
-* {{ja-readings|on=[[ろく]] (roku)|kun=[[こす]] (kosu), [[すく]] (suku), [[こし]] (koshi)}}
+{{ja-readings
+|on=ろく
+|kun=こす, すく, こし
+}}
 
 ----
 
@@ -62,6 +65,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = lộc}}
+{{vi-readings|rs=水11|reading=lộc}}
 
 # {{defn|lang=vi|sort=水11}}
