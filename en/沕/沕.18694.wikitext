@@ -7,7 +7,7 @@
 # [[deep]]
 
 ====References====
-* {{Han ref|kx=0611.170|dkj=17208|dj=1004.070|hdz=31570.020|uh=6C95|ud=27797|bh=CB57|bd=52055}}
+{{Han ref|kx=0611.170|dkj=17208|dj=1004.070|hdz=31570.020|uh=6C95}}
 
 ----
 
@@ -64,14 +64,17 @@
 # {{defn|lang=ja|sort=水04}}
 
 ====Readings====
-* {{ja-readings|on=[[ぶつ]] (butsu), [[もち]] (mochi), [[こつ]] (kotsu), [[こち]] (kochi)|kun=[[かすか]] (kasuka)}}
+{{ja-readings
+|on=ぶつ, もち, こつ, こち
+|kun=かすか
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=물|eumhun=|rv=mul|mr=mul|y=mul}}
+{{ko-hanja|물}}
 
 # {{defn|lang=ko|sort=水04}}
 
@@ -80,6 +83,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水04|hanviet=vắt}}
+{{vi-readings|rs=水04|reading=vắt}}
 
 # {{defn|lang=vi|sort=水04}}
