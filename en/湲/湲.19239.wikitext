@@ -7,7 +7,7 @@
 # [[water]] [[flow]]
 
 ====References====
-* {{Han ref|kx=0638.190|dkj=17877|dj=1045.100|hdz=31682.040|uh=6E72|ud=28274|bh=B545|bd=46405}}
+{{Han ref|kx=0638.190|dkj=17877|dj=1045.100|hdz=31682.040|uh=6E72}}
 
 ----
 
@@ -39,7 +39,10 @@
 # {{defn|lang=ja|sort=水09}}
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan), [[えん]] (en)|kun=[[きょい]] (kyoi)}}
+{{ja-readings
+|on=かん, えん
+|kun=きょい
+}}
 
 ----
 
@@ -55,6 +58,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水09| hanviet = bợn}}
+{{vi-readings|rs=水09|reading=bợn}}
 
 # {{defn|lang=vi|sort=水09}}
