@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=05|sn=9|four=46980|canj=DRC|ids=⿰木只}}
 
 ====References====
-* {{Han ref|kx=0517.070|dkj=14583|dj=0905.040|hdz=21183.050|uh=67B3|ud=26547|bh=CF4C|bd=53068}}
+{{Han ref|kx=0517.070|dkj=14583|dj=0905.040|hdz=21183.050|uh=67B3}}
 
 ----
 
@@ -41,7 +41,10 @@
 # {{defn|lang=ja|sort=木05}}
 
 ====Readings====
-* {{ja-readings|on=[[き]] (ki), [[し]] (shi)|kun=[[からたち]] (karatachi)}}
+{{ja-readings
+|on=き, し
+|kun=からたち
+}}
 
 ----
 
@@ -61,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木05|hanviet=chỉ}}
+{{vi-readings|rs=木05|reading=chỉ}}
 
 # {{defn|lang=vi|sort=木05}}
 
