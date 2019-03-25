@@ -5,7 +5,7 @@
 {{Han char|rn=68|rad=斗|as=09|sn=13|four=44700|canj=TVYJ|ids=⿰甚斗}}
 
 ====References====
-* {{Han ref|kx=0478.190|dkj=13517|dj=0837.070|hdz=32255.020|uh=659F|ud=26015|bh=B772|bd=46962}}
+{{Han ref|kx=0478.190|dkj=13517|dj=0837.070|hdz=32255.020|uh=659F}}
 
 ----
 
@@ -48,14 +48,17 @@ From {{inh|zh|sit-pro|*l-(t/d)jam||to fill, flat}}.
 # {{defn|lang=ja|sort=斗09}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=[[くむ]] (kumu), [[くみかわす]] (kumikawasu)}}
+{{ja-readings
+|on=しん
+|kun=くむ, くみかわす
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=짐|eumhun=|rv=jim|mr=chim|y=cim}}
+{{ko-hanja|짐}}
 
 # {{defn|lang=ko|sort=斗09}}
 
@@ -64,6 +67,6 @@ From {{inh|zh|sit-pro|*l-(t/d)jam||to fill, flat}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=斗09|hanviet=châm}}
+{{vi-readings|rs=斗09|reading=châm}}
 
 # {{defn|lang=vi|sort=斗09}}
