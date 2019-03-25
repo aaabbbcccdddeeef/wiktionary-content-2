@@ -6,7 +6,7 @@
 {{Han char|rn=60|rad=彳|as=09|sn=12|four=26214|canj=HOHAG|ids=⿰彳皇}}
 
 ====References====
-* {{Han ref|kx=0369.170|dkj=10178|dj=0695.090|hdz=20835.030|uh=5FA8|ud=24488|bh=B461|bd=46177}}
+{{Han ref|kx=0369.170|dkj=10178|dj=0695.090|hdz=20835.030|uh=5FA8}}
 
 ----
 
@@ -44,7 +44,11 @@
 # [[wander]]
 
 ====Readings====
-* {{ja-readings|goon=おう<わう|kanon=こう<くわう|kun=さまよ-う<さまよ-ふ}}
+{{ja-readings
+|goon=おう<わう
+|kanon=こう<くわう
+|kun=さまよ-う<さまよ-ふ
+}}
 
 ====Derived terms====
 * {{ja-r|彷徨う|さまよ.う}}: wander
@@ -54,7 +58,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}
+{{ko-hanja|황}}
 
 # {{defn|lang=ko|sort=彳09}}
 
@@ -63,7 +67,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=彳09|hanviet=hoàng}}
+{{vi-readings|rs=彳09|reading=hoàng}}
 
 # {{defn|lang=vi|sort=彳09}}
 
