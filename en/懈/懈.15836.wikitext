@@ -5,7 +5,7 @@
 {{Han char|rn=61|rad=心|as=13|sn=16|four=97052|canj=PNBQ|ids=⿰忄解}}
 
 ====References====
-* {{Han ref|kx=0405.190|dkj=11328|dj=0745.300|hdz=42362.070|uh=61C8|ud=25032|bh=BED3|bd=48851}}
+{{Han ref|kx=0405.190|dkj=11328|dj=0745.300|hdz=42362.070|uh=61C8}}
 
 ----
 
@@ -46,7 +46,12 @@
 # [[laziness]]
 
 ====Readings====
-* {{ja-readings|goon=[[け]] (ke)|kanon=[[かい]] (kai)|kanyoon=[[げ]] (ge)|kun=[[おこたる]] (okotaru)}}
+{{ja-readings
+|goon=け
+|kanon=かい
+|kanyoon=げ
+|kun=おこたる
+}}
 
 ====Compounds====
 * [[懈怠]]
@@ -56,7 +61,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+{{ko-hanja|해}}
 
 # {{defn|lang=ko|sort=心13}}
 
@@ -65,7 +70,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心13|hanviet=giải}}
+{{vi-readings|rs=心13|reading=giải}}
 
 # {{defn|lang=vi|sort=心13}}
 
