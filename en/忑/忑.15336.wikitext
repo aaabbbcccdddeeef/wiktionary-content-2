@@ -5,7 +5,7 @@
 {{Han char|rn=61|rad=心|as=03|sn=7|four=10333|canj=MYP|ids=⿱下心}}
 
 ====References====
-* {{Han ref|kx=0376.090|dkj=10317|dj=0702.180|hdz=42269.050|uh=5FD1|ud=24529|bh=CAD7|bd=51927}}
+{{Han ref|kx=0376.090|dkj=10317|dj=0702.180|hdz=42269.050|uh=5FD1}}
 
 ----
 
@@ -19,6 +19,7 @@
 |mn=qz:thiak/tw,xm,zz:thek
 |mc=
 |oc=y
+|cat=
 }}
 
 ====Definitions====
@@ -32,6 +33,7 @@
 ===Pronunciation 2===
 {{zh-pron
 |m=dǎo
+|cat=
 }}
 
 ====Definitions====
@@ -48,13 +50,16 @@
 # {{defn|lang=ja|sort=心03}}
 
 ====Readings====
-* {{ja-readings|on=[[とく]] (toku), [[とう]] (tō)|kun=[[むなしい]] (munashii)}}
+{{ja-readings
+|on=とく, とう
+|kun=むなしい
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心03|hanviet=thắc}}
+{{vi-readings|rs=心03|reading=thắc}}
 
 # {{defn|lang=vi|sort=心03}}
