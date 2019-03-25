@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=05|sn=8|four=34170|canj=ETM|ids=⿰氵甘}}
 
 ====References====
-* {{Han ref|kx=0616.100|dkj=17289|dj=1010.010|hdz=31580.010|uh=6CD4|ud=27860|bh=CCF4|bd=52468}}
+{{Han ref|kx=0616.100|dkj=17289|dj=1010.010|hdz=31580.010|uh=6CD4}}
 
 ----
 
@@ -91,14 +91,16 @@
 # {{defn|lang=ja|sort=水05}}
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan), [[ごん]] (gon)|kun=}}
+{{ja-readings
+|on=かん, ごん
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=검|eumhun=|rv=geom|mr=kŏm|y=kem}}
+{{ko-hanja|검}}
 
 # {{defn|lang=ko|sort=水05}}
 
@@ -107,7 +109,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水05|hanviet=cam}}
+{{vi-readings|rs=水05|reading=cam}}
 
 # {{defn|lang=vi|sort=水05}}
 
