@@ -8,7 +8,7 @@
 # [[citron]] {{gloss|''[[Citrus medica]]''}}
 
 ====References====
-* {{Han ref|kx=0560.290|dkj=15822|dj=0949.260|hdz=21315.150|uh=6ADE|ud=27358|bh=F258|bd=62040}}
+{{Han ref|kx=0560.290|dkj=15822|dj=0949.260|hdz=21315.150|uh=6ADE}}
 
 ----
 
@@ -48,14 +48,16 @@
 # {{defn|lang=ja|sort=木15}}
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (en)|kun=}}
+{{ja-readings
+|on=えん
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+{{ko-hanja|연}}
 
 # {{defn|lang=ko|sort=木15}}
 
@@ -64,7 +66,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木15|hanviet=duyên}}
+{{vi-readings|rs=木15|reading=duyên}}
 
 # {{defn|lang=vi|sort=木15}}
 
