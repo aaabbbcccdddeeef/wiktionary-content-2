@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=07|sn=11|four=47927|canj=DSSR|ids=⿰木局}}
 
 ====References====
-* {{Han ref|kx=0530.180|dkj=14879|dj=0919.020|hdz=21222.010|uh=68AE|ud=26798|bh=D5B6|bd=54710}}
+{{Han ref|kx=0530.180|dkj=14879|dj=0919.020|hdz=21222.010|uh=68AE}}
 
 ----
 
@@ -40,13 +40,16 @@
 # {{defn|lang=ja|sort=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[きく]] (kiku), [[こく]] (koku), [[きょく]] (kyoku)|kun=[[ぜん]] (zen)}}
+{{ja-readings
+|on=きく, こく, きょく
+|kun=ぜん
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=cọc}}
+{{vi-readings|rs=木07|reading=cọc}}
 
 # {{defn|lang=vi|sort=木07}}
