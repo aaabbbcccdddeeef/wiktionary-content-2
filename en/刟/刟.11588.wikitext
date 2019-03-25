@@ -5,7 +5,7 @@
 {{Han char|rn=18|rad=刀|as=05|sn=7|four=|canj=SRLN,XSRLN|ids=⿰召刂}}
 
 ====References====
-* {{Han ref|kx=0138.030|dkj=01916|dj=0311.050|hdz=10332.010|uh=521F|ud=21023}}
+{{Han ref|kx=0138.030|dkj=01916|dj=0311.050|hdz=10332.010|uh=521F}}
 
 ----
 
@@ -37,13 +37,16 @@
 # {{defn|lang=ja|sort=刀05}}
 
 ====Readings====
-* {{ja-readings|on=[[ちょう]] (chō)|kun=[[たつ]] (tatsu)}}
+{{ja-readings
+|on=ちょう
+|kun=たつ
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=刀05| hanviet = xẻo}}
+{{vi-readings|rs=刀05|reading=xẻo}}
 
 # {{defn|lang=vi|sort=刀05}}
