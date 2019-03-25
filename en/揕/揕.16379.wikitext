@@ -9,7 +9,7 @@
 # [[strike]], [[stab]]
 
 ====References====
-* {{Han ref|kx=0442.030|dkj=12350|dj=0793.050|hdz=31911.080|uh=63D5|ud=25557|bh=D95F|bd=55647}}
+{{Han ref|kx=0442.030|dkj=12350|dj=0793.050|hdz=31911.080|uh=63D5}}
 
 ----
 
@@ -31,7 +31,10 @@
 # to [[stab]]
 
 ====Readings====
-* {{ja-readings|on=[[ちん]] (chin)|kun=[[うつ]] (utsu), [[さす]] (sasu)}}
+{{ja-readings
+|on=ちん
+|kun=うつ, さす
+}}
 
 ----
 
@@ -57,6 +60,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手09|hanviet=chạm}}
+{{vi-readings|rs=手09|reading=chạm}}
 
 # {{defn|lang=vi|sort=手09}}
