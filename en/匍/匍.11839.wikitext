@@ -5,7 +5,7 @@
 {{Han char|rn=20|rad=勹|as=07|sn=9|four=27220|canj=PIJB|ids=⿹勹甫}}
 
 ====References====
-* {{Han ref|kx=0151.170|dkj=02527|dj=0340.230|hdz=10259.040|uh=530D|ud=21261|bh=AB6D|bd=43885}}
+{{Han ref|kx=0151.170|dkj=02527|dj=0340.230|hdz=10259.040|uh=530D}}
 
 ----
 
@@ -46,14 +46,17 @@
 # {{defn|lang=ja|sort=勹07}}
 
 ====Readings====
-* {{ja-readings|on=[[ほ]] (ho)|kun=[[はう]] (hau)}}
+{{ja-readings
+|on=ほ
+|kun=はう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=포|rv=po|mr=p'o}}
+{{ko-hanja|포}}
 
 # {{defn|lang=ko|sort=勹07}}
 
@@ -62,6 +65,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=勹07|hanviet=bò}}
+{{vi-readings|rs=勹07|reading=bò}}
 
 # {{defn|lang=vi|sort=勹07}}
