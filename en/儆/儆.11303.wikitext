@@ -9,7 +9,7 @@
 * {{zh-l|*警}}
 
 ====References====
-* {{Han ref|kx=0119.090|dkj=01187|dj=0252.080|hdz=10217.130|uh=5106|ud=20742|bh=E4EA|bd=58602}}
+{{Han ref|kx=0119.090|dkj=01187|dj=0252.080|hdz=10217.130|uh=5106}}
 
 ----
 
@@ -51,14 +51,17 @@
 # [[warning]]
 
 ====Readings====
-* {{ja-readings|on=[[けい]] (kei), [[しょう]] (shō)|kun=[[いましめる]] (imashimeru)}}
+{{ja-readings
+|on=けい, しょう
+|kun=いましめる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng}}
+{{ko-hanja|경}}
 
 # to [[guard]]
 # to [[warn]]
@@ -69,6 +72,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=人13| hanviet = cảnh}}
+{{vi-readings|rs=人13|reading=cảnh}}
 
 # {{defn|lang=vi|sort=人13}}
