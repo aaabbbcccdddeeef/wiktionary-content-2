@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=09|sn=13|four=40927|canj=DYBB|ids=⿰木帝}}
 
 ====References====
-* {{Han ref|kx=0541.160|dkj=15179|dj=0929.060|hdz=21254.190|uh=6974|ud=26996|bh=DDE8|bd=56808}}
+{{Han ref|kx=0541.160|dkj=15179|dj=0929.060|hdz=21254.190|uh=6974}}
 
 ----
 
@@ -43,14 +43,19 @@
 # {{defn|lang=ja|sort=木09}}
 
 ====Readings====
-* {{ja-readings|goon=たい|kanon=てい|on=[[ち]] (chi), [[し]] (shi)|kun=[[かんざし]] (kanzashi), [[ね]] (ne)}}
+{{ja-readings
+|goon=たい
+|kanon=てい
+|on=ち, し
+|kun=かんざし, ね
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=체|rv=che|mr=ch'e}}
+{{ko-hanja|체}}
 
 # {{defn|lang=ko|sort=木09}}
 
@@ -59,6 +64,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木09|hanviet=ghế}}
+{{vi-readings|rs=木09|reading=ghế}}
 
 # {{defn|lang=vi|sort=木09}}
