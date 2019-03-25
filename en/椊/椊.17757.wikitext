@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=08|sn=12|four=40948|canj=DYOJ|ids=⿰木卒}}
 
 ====References====
-* {{Han ref|kx=0536.060|dkj=15019|dj=0923.190|hdz=21237.010|uh=690A|ud=26890|bh=D9CB|bd=55755}}
+{{Han ref|kx=0536.060|dkj=15019|dj=0923.190|hdz=21237.010|uh=690A}}
 
 ----
 
@@ -41,13 +41,16 @@
 # {{defn|lang=ja|sort=木08}}
 
 ====Readings====
-* {{ja-readings|on=[[そつ]] (sotsu), [[さつ]] (satsu), [[すい]] (sui)|kun=[[ほぞ]] (hozo)}}
+{{ja-readings
+|on=そつ, さつ, すい
+|kun=ほぞ
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木08|hanviet=chốt}}
+{{vi-readings|rs=木08|reading=chốt}}
 
 # {{defn|lang=vi|sort=木08}}
