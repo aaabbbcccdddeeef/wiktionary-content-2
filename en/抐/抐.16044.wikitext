@@ -5,7 +5,7 @@
 {{Han char|rn=64|rad=手|as=04|sn=7|four=|canj=QOB|ids=⿰扌內}}
 
 ====References====
-* {{Han ref|kx=0421.080|dkj=11882|hdz=31837.050|uh=6290|ud=25232}}
+{{Han ref|kx=0421.080|dkj=11882|hdz=31837.050|uh=6290}}
 
 ----
 
@@ -26,7 +26,10 @@
 # {{defn|lang=ja|sort=手04}}
 
 ====Readings====
-* {{ja-readings|on=[[どつ]] (dotsu), [[なち]] (nachi), [[どん]] (don), [[そん]] (son), [[どう]] (dō)|kun=[[そめる]] (someru), [[うつ]] (utsu), [[いれる]] (ireru), [[つかむ]] (tsukamu)}}
+{{ja-readings
+|on=どつ, なち, どん, そん, どう
+|kun=そめる, うつ, いれる, つかむ
+}}
 
 ----
 
@@ -42,7 +45,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手04|hanviet=nhồi}}
+{{vi-readings|rs=手04|reading=nhồi}}
 
 # {{defn|lang=vi|sort=手04}}
 
