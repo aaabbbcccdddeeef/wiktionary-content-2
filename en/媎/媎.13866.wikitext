@@ -5,7 +5,7 @@
 {{Han char|rn=38|rad=女|as=09|sn=12|four=44460|canj=VJKA|ids=⿰女者}}
 
 ====References====
-* {{Han ref|kx=0266.300|dkj=06491|hdz=21063.110|uh=5A8E|ud=23182|bh=D4E3|bd=54499}}
+{{Han ref|kx=0266.300|dkj=06491|hdz=21063.110|uh=5A8E}}
 
 ----
 
@@ -29,7 +29,9 @@
 # {{defn|lang=ja|sort=女09}}
 
 ====Readings====
-* {{ja-readings|on=[[そ]] (so)|kun=}}
+{{ja-readings
+|on=そ
+}}
 
 ----
 
@@ -45,6 +47,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=女09|hanviet=chửa}}
+{{vi-readings|rs=女09|reading=chửa}}
 
 # {{defn|lang=vi|sort=女09}}
