@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=11|sn=15|four=|canj=DUOG|ids=⿰木崔}}
 
 ====References====
-* {{Han ref|kx=0547.140|dkj=15371|dj=0935.120|hdz=21280.040|uh=69EF|ud=27119}}
+{{Han ref|kx=0547.140|dkj=15371|dj=0935.120|hdz=21280.040|uh=69EF}}
 
 ----
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=木11}}
 
 ====Readings====
-* {{ja-readings|on=[[さい]] (sai), [[せ]] (se)|kun=[[つむ]] (tsumu)}}
+{{ja-readings
+|on=さい, せ
+|kun=つむ
+}}
 
 ----
 
@@ -45,6 +48,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木11|hanviet=chuôi}}
+{{vi-readings|rs=木11|reading=chuôi}}
 
 # {{defn|lang=vi|sort=木11}}
