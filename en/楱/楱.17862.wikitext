@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=09|sn=13|four=45934|canj=DQKK|ids=⿰木奏}}
 
 ====References====
-* {{Han ref|kx=0541.120|dkj=15175|dj=0929.020|hdz=21243.010|uh=6971|ud=26993|bh=DDCE|bd=56782}}
+{{Han ref|kx=0541.120|dkj=15175|dj=0929.020|hdz=21243.010|uh=6971}}
 
 ----
 
@@ -26,7 +26,9 @@
 # {{defn|lang=ja|sort=木09}}
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō), [[す]] (su)|kun=}}
+{{ja-readings
+|on=そう, す
+}}
 
 ----
 
@@ -42,6 +44,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木09|hanviet=táu}}
+{{vi-readings|rs=木09|reading=táu}}
 
 # {{defn|lang=vi|sort=木09}}
