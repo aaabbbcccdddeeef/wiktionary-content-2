@@ -6,7 +6,7 @@
 {{Han char|rn=19|rad=力|as=09|sn=11|four=64627|canj=AUKS|ids=⿰冒力}}
 
 ====References====
-* {{Han ref|kx=0148.170|dkj=02391|dj=0334.010|hdz=10375.040|uh=52D6|ud=21206|bh=D46D|bd=54381}}
+{{Han ref|kx=0148.170|dkj=02391|dj=0334.010|hdz=10375.040|uh=52D6}}
 
 ----
 
@@ -39,14 +39,17 @@
 # {{defn|lang=ja|sort=力09}}
 
 ====Readings====
-* {{ja-readings|on=[[きゃく]] (kyaku), [[こく]] (koku), [[ぼう]] (bō)|kun=[[つとめる]] (tsutomeru)}}
+{{ja-readings
+|on=きゃく, こく, ぼう
+|kun=つとめる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=욱|rv=uk|mr=uk|y=wuk}}
+{{ko-hanja|욱}}
 
 # to exert oneself
 
@@ -55,6 +58,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=力09|hanviet=húc}}
+{{vi-readings|rs=力09|reading=húc}}
 
 # {{defn|lang=vi|sort=力09}}
