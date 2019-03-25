@@ -6,7 +6,7 @@
 {{Han char|rn=64|rad=手|as=05|sn=8|four=51049|canj=QMFJ|ids=⿰扌平}}
 
 ====References====
-* {{Han ref|kx=0422.150|dkj=11905|dj=0770.130|hdz=31850.040|uh=62A8|ud=25256|bh=A9E1|bd=43489}}
+{{Han ref|kx=0422.150|dkj=11905|dj=0770.130|hdz=31850.040|uh=62A8}}
 
 ----
 
@@ -61,14 +61,17 @@
 # [[censure]], [[impeach]]
 
 ====Readings====
-* {{ja-readings|on=[[ほう]] (hō), [[ひょう]] (hyō), [[びょう]] (byō)|kun=[[はじく]] (hajiku)}}
+{{ja-readings
+|on=ほう, ひょう, びょう
+|kun=はじく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=평|eumhun=|rv=pyeong|mr=p'yŏng|y=phyeng}}
+{{ko-hanja|평}}
 
 # {{defn|lang=ko|sort=手05}}
 
@@ -77,6 +80,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手05|hanviet=banh}}
+{{vi-readings|rs=手05|reading=banh}}
 
 # {{defn|lang=vi|sort=手05}}
