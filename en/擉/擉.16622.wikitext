@@ -8,7 +8,7 @@
 # to [[break through]]
 
 ====References====
-* {{Han ref|kx=0458.080|dkj=12799|dj=0806.240|hdz=31970.030|uh=64C9|ud=25801|bh=E9A8|bd=59816}}
+{{Han ref|kx=0458.080|dkj=12799|dj=0806.240|hdz=31970.030|uh=64C9}}
 
 ----
 
@@ -42,14 +42,17 @@
 # {{defn|lang=ja|sort=手13}}
 
 ====Readings====
-{{ja-readings|on=[[さく]] (saku), [[たく]] (taku), [[しょく]] (shoku), [[ぞく]] (zoku)|kun=[[さす]] (sasu)}}
+{{ja-readings
+|on=さく, たく, しょく, ぞく
+|kun=さす
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=착|eumhun=|rv=chak|mr=ch'ak|y=chak}}
+{{ko-hanja|착}}
 
 # {{defn|lang=ko|sort=手13}}
 
@@ -58,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手13|hanviet=thọc}}
+{{vi-readings|rs=手13|reading=thọc}}
 
 # {{defn|lang=vi|sort=手13}}
