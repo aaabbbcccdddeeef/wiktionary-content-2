@@ -10,7 +10,7 @@
 # [[document]]
 
 ====References====
-* {{Han ref|kx=0329.140|dkj=08809|dj=0634.250|hdz=10732.060|uh=5E0B|ud=24075}}
+{{Han ref|kx=0329.140|dkj=08809|dj=0634.250|hdz=10732.060|uh=5E0B}}
 
 ----
 
@@ -27,7 +27,10 @@
 # [[paper]]
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=[[かみ]] (kami)}}
+{{ja-readings
+|on=し
+|kun=かみ
+}}
 
 ====References====
 {{ja-kref
@@ -52,7 +55,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+{{ko-hanja|지}}
 
 # {{defn|lang=ko|sort=巾04}}
 
@@ -61,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=巾04|hanviet=chỉ}}
+{{vi-readings|rs=巾04|reading=chỉ}}
 
 # {{defn|lang=vi|sort=巾04}}
 
