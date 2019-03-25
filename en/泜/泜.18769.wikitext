@@ -7,7 +7,7 @@
 # a [[river]] in [[Hebei]] [[province]]
 
 ====References====
-* {{Han ref|kx=0616.220|dkj=17299|dj=1012.010|hdz=31590.010|uh=6CDC|ud=27868|bh=AA7C|bd=43644}}
+{{Han ref|kx=0616.220|dkj=17299|dj=1012.010|hdz=31590.010|uh=6CDC}}
 
 ----
 
@@ -39,14 +39,16 @@
 # {{defn|lang=ja|sort=水05}}
 
 ====Readings====
-* {{ja-readings|on=[[てい]] (tei), [[たい]] (tai), [[し]] (shi)|kun=}}
+{{ja-readings
+|on=てい, たい, し
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+{{ko-hanja|지}}
 
 # {{defn|lang=ko|sort=水05}}
 
@@ -55,6 +57,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水05|hanviet=dề}}
+{{vi-readings|rs=水05|reading=dề}}
 
 # {{defn|lang=vi|sort=水05}}
