@@ -8,7 +8,7 @@
 # {{surname|lang=zh}}
 
 ====References====
-* {{Han ref|kx=0638.200|dkj=17878|dj=1045.110|hdz=31670.010|uh=6E73|ud=28275|bh=D9F5|bd=55797}}
+{{Han ref|kx=0638.200|dkj=17878|dj=1045.110|hdz=31670.010|uh=6E73}}
 
 ----
 
@@ -46,14 +46,16 @@
 # {{defn|lang=ja|sort=水09}}
 
 ====Readings====
-* {{ja-readings|on=[[だん]] (dan), [[なん]] (nan)|kun=}}
+{{ja-readings
+|on=だん, なん
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=남|eumhun=|rv=nam|mr=nam|y=nam}}
+{{ko-hanja|남}}
 
 # {{defn|lang=ko|sort=水09}}
 
@@ -62,6 +64,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水09| hanviet = nươm}}
+{{vi-readings|rs=水09|reading=nươm}}
 
 # {{defn|lang=vi|sort=水09}}
