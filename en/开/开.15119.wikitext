@@ -14,7 +14,7 @@
 * {{l|mul|元}} [[発]] {{qualifier|graphically similar}}
 
 ====References====
-* {{Han ref|kx=0353.101|hdz=10514.030|uh=5F00|ud=24320}}
+{{Han ref|kx=0353.101|hdz=10514.030|uh=5F00}}
 
 [[Category:CJKV simplified characters which already existed as traditional characters]]
 
@@ -49,7 +49,12 @@ Also {{Han simp|開|f=門|t=&nbsp;}}.
 # {{alternative form of|開|lang=ja}}
 
 ====Readings====
-* {{ja-readings|goon=[[かい]] (kai), [[け]] (ke)|kanon=[[かい]] (kai)|kun=[[ひら]] (hira), [[あ]] (a)|nanori=[[さく]] (saku), [[はる]] (haru), [[はるき]] (haruki), [[ひら]] (hira), [[ひらかす]] (hirakasu), [[ひらき]] (hiraki), [[ひらく]] (hiraku)}}
+{{ja-readings
+|goon=かい, け
+|kanon=かい
+|kun=ひら, あ
+|nanori=さく, はる, はるき, ひら, ひらかす, ひらき, ひらく
+}}
 
 ===Kanji 2===
 {{ja-kanji forms|开|幵}}
@@ -59,14 +64,17 @@ Also {{Han simp|開|f=門|t=&nbsp;}}.
 # to [[raise]] in [[both]] [[hand]]s
 
 ====Readings====
-* {{ja-readings|on=[[けん]] (ken)|kun=[[たいらか]] (tairaka)}}
+{{ja-readings
+|on=けん
+|kun=たいらか
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=廾01|hanviet=khai}}
+{{vi-readings|rs=廾01|reading=khai}}
 
 # {{defn|lang=vi|sort=廾01}}
 
