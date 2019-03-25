@@ -6,7 +6,7 @@
 {{Han char|rn=61|rad=心|as=07|sn=10|four=98016|canj=PCRU|ids=⿰忄兌}}
 
 ====References====
-* {{Han ref|kx=0386.260|dkj=10629|dj=0718.260|hdz=42306.151|uh=6085|ud=24709|bh=AEAE|bd=44718}}
+{{Han ref|kx=0386.260|dkj=10629|dj=0718.260|hdz=42306.151|uh=6085}}
 
 ----
 
@@ -50,7 +50,10 @@
 # {{defn|lang=ja|sort=心07}}
 
 ====Readings====
-* {{ja-readings|on=[[えつ]] (etsu)|kun=[[よろこぶ]] (yorokobu)}}
+{{ja-readings
+|on=えつ
+|kun=よろこぶ
+}}
 
 ===Usage notes===
 This character lacks JIS support and is not used in Japan. [[悦]] (U+60A6) is used instead.
@@ -60,7 +63,7 @@ This character lacks JIS support and is not used in Japan. [[悦]] (U+60A6) is u
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=열|eumhun=|rv=yeol|mr=yŏl|y=yel}}
+{{ko-hanja|열}}
 
 # {{defn|lang=ko|sort=心07}}
 
@@ -69,6 +72,6 @@ This character lacks JIS support and is not used in Japan. [[悦]] (U+60A6) is u
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心07|hanviet=dột}}
+{{vi-readings|rs=心07|reading=dột}}
 
 # {{defn|lang=vi|sort=心07}}
