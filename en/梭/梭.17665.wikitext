@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=07|sn=11|four=43947|canj=DICE|ids=⿰木夋}}
 
 ====References====
-* {{Han ref|kx=0530.170|dkj=14878|dj=0918.140|hdz=21222.070|uh=68AD|ud=26797|bh=B1F4|bd=45556}}
+{{Han ref|kx=0530.170|dkj=14878|dj=0918.140|hdz=21222.070|uh=68AD}}
 
 ----
 
@@ -56,7 +56,10 @@
 # {{defn|lang=ja|sort=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[さ]] (sa)|kun=[[ひ]] (hi)}}
+{{ja-readings
+|on=さ
+|kun=ひ
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|ひ|yomi=k}}
@@ -87,7 +90,7 @@ On'yomi.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+{{ko-hanja|사}}
 
 # {{defn|lang=ko|sort=木07}}
 
@@ -96,6 +99,6 @@ On'yomi.
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=thoi}}
+{{vi-readings|rs=木07|reading=thoi}}
 
 # {{defn|lang=vi|sort=木07}}
