@@ -6,7 +6,7 @@
 {{Han char|rn=18|rad=刀|as=07|sn=9|four=52900|canj=DLLN|ids=⿰束刂}}
 
 ====References====
-* {{Han ref|kx=0140.140|dkj=02010|dj=0318.050|hdz=10339.060|uh=524C|ud=21068|bh=AB66|bd=43878}}
+{{Han ref|kx=0140.140|dkj=02010|dj=0318.050|hdz=10339.060|uh=524C}}
 
 ----
 
@@ -14,7 +14,7 @@
 {{zh-forms}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 
 ===Pronunciation 1===
 {{zh-pron
@@ -55,7 +55,11 @@
 # [[biased]]
 
 ====Readings====
-* {{ja-readings|goon=[[らち]] (rachi)|kanon=[[らつ]] (ratsu)|kun=[[もとる]] (motoru)}}
+{{ja-readings
+|goon=らち
+|kanon=らつ
+|kun=もとる
+}}
 
 ====Compounds====
 * {{ja-r|溌剌|はつらつ}}
@@ -74,7 +78,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=刀07|hanviet=[[lạp]], [[lạt]]}}
+{{vi-readings|rs=刀07|reading=[[lạp]], [[lạt]]}}
 
 # {{defn|lang=vi|sort=刀07}}
 
