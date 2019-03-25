@@ -8,7 +8,7 @@
 # [[swirling]]
 
 ====References====
-* {{Han ref|kx=0646.300|dkj=18164|dj=1056.090|hdz=31727.020|uh=6F2A|ud=28458|bh=BAAC|bd=47788}}
+{{Han ref|kx=0646.300|dkj=18164|dj=1056.090|hdz=31727.020|uh=6F2A}}
 
 ----
 
@@ -51,7 +51,11 @@ See {{zh-l|漣漪}}.
 # [[ripple]]
 
 ====Readings====
-{{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)|kun=[[なみ]] (nami)}}
+{{ja-readings
+|goon=い
+|kanon=い
+|kun=なみ
+}}
 
 ====Compounds====
 * {{ja-r|漣漪|れんい|[[ripple]]}}
@@ -61,7 +65,7 @@ See {{zh-l|漣漪}}.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+{{ko-hanja|의}}
 
 # {{defn|lang=ko|sort=水11}}
 
@@ -70,7 +74,7 @@ See {{zh-l|漣漪}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水11| hanviet = y}}
+{{vi-readings|rs=水11|reading=y}}
 
 # {{defn|lang=vi|sort=水11}}
 
