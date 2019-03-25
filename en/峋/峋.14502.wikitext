@@ -5,7 +5,7 @@
 {{Han char|rn=46|rad=山|as=06|sn=9|four=27720|canj=UPA|ids=⿰山旬}}
 
 ====References====
-* {{Han ref|kx=0310.170|dkj=08028|dj=0610.120|hdz=10771.100|uh=5CCB|ud=23755|bh=CE7D|bd=52861}}
+{{Han ref|kx=0310.170|dkj=08028|dj=0610.120|hdz=10771.100|uh=5CCB}}
 
 ----
 ==Chinese==
@@ -44,7 +44,9 @@
 # {{defn|lang=ja|sort=山06}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅん]] (shun)|kun=}}
+{{ja-readings
+|on=しゅん
+}}
 
 ----
 
@@ -60,7 +62,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山06|hanviet=tuân}}
+{{vi-readings|rs=山06|reading=tuân}}
 
 # {{defn|lang=vi|sort=山06}}
 
