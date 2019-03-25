@@ -5,7 +5,7 @@
 {{Han char|rn=64|rad=手|as=05|sn=8|four=|canj=QMFM|ids=⿰扌丕}}
 
 ====References====
-* {{Han ref|kx=0424.010|dkj=11923|dj=0771.140|hdz=31849.050|uh=62B7|ud=25271}}
+{{Han ref|kx=0424.010|dkj=11923|dj=0771.140|hdz=31849.050|uh=62B7}}
 
 ----
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=手05}}
 
 ====Readings====
-* {{ja-readings|on=[[ひ]] (hi), [[び]] (bi)|kun=[[ひらく]] (hiraku)}}
+{{ja-readings
+|on=ひ, び
+|kun=ひらく
+}}
 
 ----
 
@@ -45,6 +48,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手05|hanviet=phơ}}
+{{vi-readings|rs=手05|reading=phơ}}
 
 # {{defn|lang=vi|sort=手05}}
