@@ -9,7 +9,7 @@
 * [[袴]] [[誇]]
 
 ====References====
-* {{Han ref|kx=0250.020|dkj=05854|dj=0509.090|hdz=10526.050|uh=5938|ud=22840|bh=A66A|bd=42602}}
+{{Han ref|kx=0250.020|dkj=05854|dj=0509.090|hdz=10526.050|uh=5938}}
 
 ----
 
@@ -57,7 +57,10 @@
 # [[boast]]
 
 ====Readings====
-* {{ja-readings|on=[[こ]] (ko), [[か]] (ka)|kun=[[おごる]] (ogoru)}}
+{{ja-readings
+|on=こ, か
+|kun=おごる
+}}
 
 ====Compounds====
 * [[夸克]]
@@ -67,7 +70,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=과}}
+{{ko-hanja|과}}
 
 # {{defn|lang=ko|sort=大03}}
 
@@ -76,6 +79,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=大03| hanviet = khoa}}
+{{vi-readings|rs=大03|reading=khoa}}
 
 # {{defn|lang=vi|sort=大03}}
