@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=09|sn=12|four=37114|canj=ESMG,XXESM|ids=⿰氵屋}}
 
 ====References====
-* {{Han ref|kx=0634.060|dkj=17770|dj=1041.030|hdz=31689.060|uh=6E25|ud=28197|bh=B4EC|bd=46316}}
+{{Han ref|kx=0634.060|dkj=17770|dj=1041.030|hdz=31689.060|uh=6E25}}
 
 ----
 
@@ -50,14 +50,17 @@
 # [[glossy]]
 
 ====Readings====
-* {{ja-readings|on=あく|kun=あつ-い}}
+{{ja-readings
+|on=あく
+|kun=あつ-い
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=악|eumhun=|rv=ak|mr=ak|y=ak}}
+{{ko-hanja|악}}
 
 # {{defn|lang=ko|sort=水09}}
 
@@ -66,6 +69,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水09|hanviet=ốc}}
+{{vi-readings|rs=水09|reading=ốc}}
 
 # {{defn|lang=vi|sort=水09}}
