@@ -7,7 +7,7 @@
 # [[first]] [[birthday]] of a [[child]]
 
 ====References====
-* {{Han ref|kx=0496.240|dkj=13977|dj=0862.090|hdz=21520.050|uh=666C|ud=26220|bh=D9A2|bd=55714}}
+{{Han ref|kx=0496.240|dkj=13977|dj=0862.090|hdz=21520.050|uh=666C}}
 
 ----
 
@@ -45,7 +45,10 @@
 # {{defn|lang=ja|sort=日08}}
 
 ====Readings====
-* {{ja-readings|on=[[さい]] (sai), [[すい]] (sui)|kun=[[ひとまわり]] (hitomawari)}}
+{{ja-readings
+|on=さい, すい
+|kun=ひとまわり
+}}
 
 ----
 
@@ -61,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=日08|hanviet=[[tôi]], [[tối]]}}
+{{vi-readings|rs=日08|reading=[[tôi]], [[tối]]}}
 
 # {{defn|lang=vi|sort=日08}}
 
