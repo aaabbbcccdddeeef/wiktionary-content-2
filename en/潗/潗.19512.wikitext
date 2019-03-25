@@ -8,7 +8,7 @@
 # [[harmonious]]
 
 ====References====
-* {{Han ref|kx=0649.040|dkj=18235|dj=1058.250|hdz=31743.110|uh=6F57|ud=28503|bh=E64F|bd=58959}}
+{{Han ref|kx=0649.040|dkj=18235|dj=1058.250|hdz=31743.110|uh=6F57}}
 
 ----
 
@@ -42,7 +42,10 @@
 # {{defn|lang=ja|sort=水12}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅう]] (shū)|kun=[[わく]] (waku)}}
+{{ja-readings
+|on=しゅう
+|kun=わく
+}}
 
 ----
 
@@ -58,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水12| hanviet = bập}}
+{{vi-readings|rs=水12|reading=bập}}
 
 # {{defn|lang=vi|sort=水12}}
