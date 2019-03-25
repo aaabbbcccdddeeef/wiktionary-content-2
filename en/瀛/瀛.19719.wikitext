@@ -8,7 +8,7 @@
 # [[sea]], [[ocean]]
 
 ====References====
-* {{Han ref|kx=0660.040|dkj=18656|dj=1069.240|hdz=31785.010|uh=701B|ud=28699|bh=C373|bd=50035}}
+{{Han ref|kx=0660.040|dkj=18656|dj=1069.240|hdz=31785.010|uh=701B}}
 
 ----
 
@@ -49,14 +49,17 @@
 # {{defn|lang=ja|sort=水16}}
 
 ====Readings====
-* {{ja-readings|on=[[えい]] (ei)|kun=[[うみ]] (umi)}}
+{{ja-readings
+|on=えい
+|kun=うみ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+{{ko-hanja|영}}
 
 # [[sea]]
 
@@ -65,6 +68,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水16| hanviet = doanh}}
+{{vi-readings|rs=水16|reading=doanh}}
 
 # {{defn|lang=vi|sort=水16}}
