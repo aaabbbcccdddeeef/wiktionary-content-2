@@ -10,7 +10,7 @@
 # [[cover]] with [[liquid]], [[steep]]
 
 ====References====
-* {{Han ref|kx=0632.170|dkj=17696|dj=1038.020|hdz=31644.010|uh=6DF9|ud=28153|bh=B254|bd=45652}}
+{{Han ref|kx=0632.170|dkj=17696|dj=1038.020|hdz=31644.010|uh=6DF9}}
 
 ----
 
@@ -60,7 +60,10 @@
 # [[linger]]
 
 ====Readings====
-* {{ja-readings|on=[[えん]] (en), [[よう]] (yō)|kun=[[ひたす]] (hitasu), [[ひさしい]] (hisashii), [[とどまる]] (todomaru)}}
+{{ja-readings
+|on=えん, よう
+|kun=ひたす, ひさしい, とどまる
+}}
 
 ----
 
@@ -76,6 +79,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08|hanviet=[[yêm]], [[êm]], [[im]], [[ươm]]}}
+{{vi-readings|rs=水08|reading=[[yêm]], [[êm]], [[im]], [[ươm]]}}
 
 # {{defn|lang=vi|sort=水08}}
