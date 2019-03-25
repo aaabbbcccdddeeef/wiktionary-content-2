@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=08|sn=11|four=30127|canj=EYIB|ids=⿰氵育}}
 
 ====References====
-* {{Han ref|kx=0631.150|dkj=17683|dj=1034.040|hdz=31660.030|uh=6DEF|ud=28143|bh=D252|bd=53842}}
+{{Han ref|kx=0631.150|dkj=17683|dj=1034.040|hdz=31660.030|uh=6DEF}}
 
 ----
 
@@ -46,13 +46,15 @@
 # {{defn|lang=ja|sort=水08}}
 
 ====Readings====
-* {{ja-readings|on=[[いく]] (iku)|kun=}}
+{{ja-readings
+|on=いく
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08| hanviet = rộc}}
+{{vi-readings|rs=水08|reading=rộc}}
 
 # {{defn|lang=vi|sort=水08}}
