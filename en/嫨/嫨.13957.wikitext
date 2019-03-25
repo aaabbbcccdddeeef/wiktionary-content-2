@@ -5,7 +5,7 @@
 {{Han char|rn=38|rad=女|as=11|sn=14|four=44434|canj=VTLO|ids=⿰女𦰩}}
 
 ====References====
-* {{Han ref|kx=0270.100|dkj=06665|dj=0538.060|hdz=21075.090|uh=5AE8|ud=23272|bh=E17B|bd=57723}}
+{{Han ref|kx=0270.100|dkj=06665|dj=0538.060|hdz=21075.090|uh=5AE8}}
 
 ----
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=女11}}
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan), [[ぜん]] (zen), [[ねん]] (nen)|kun=[[いかる]] (ikaru), [[つつしむ]] (tsutsushimu)}}
+{{ja-readings
+|on=かん, ぜん, ねん
+|kun=いかる, つつしむ
+}}
 
 ----
 
@@ -45,7 +48,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=女11|hanviet=nần}}
+{{vi-readings|rs=女11|reading=nần}}
 
 # {{defn|lang=vi|sort=女11}}
 
