@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=12|sn=15|four=32121|canj=ETCL|ids=⿰氵斯}}
 
 ====References====
-* {{Han ref|kx=0651.380|dkj=18328|dj=1062.050|hdz=31736.100|uh=6F8C|ud=28556|bh=E642|bd=58946}}
+{{Han ref|kx=0651.380|dkj=18328|dj=1062.050|hdz=31736.100|uh=6F8C}}
 
 ----
 
@@ -46,14 +46,17 @@
 # {{defn|lang=ja|sort=水12}}
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi), [[せい]] (sei), [[さい]] (sai)|kun=[[つきる]] (tsukiru)}}
+{{ja-readings
+|on=し, せい, さい
+|kun=つきる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+{{ko-hanja|시}}
 
 # {{defn|lang=ko|sort=水12}}
 
@@ -62,7 +65,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水12| hanviet = ti}}
+{{vi-readings|rs=水12|reading=ti}}
 
 # {{defn|lang=vi|sort=水12}}
 
