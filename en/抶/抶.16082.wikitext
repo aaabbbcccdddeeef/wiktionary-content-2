@@ -7,7 +7,7 @@
 # to [[beat]], [[flog]]
 
 ====References====
-* {{Han ref|kx=0423.140|dkj=11922|dj=0771.130|hdz=31853.050|uh=62B6|ud=25270|bh=CCB8|bd=52408}}
+{{Han ref|kx=0423.140|dkj=11922|dj=0771.130|hdz=31853.050|uh=62B6}}
 
 ----
 
@@ -28,7 +28,10 @@
 # {{defn|lang=ja|sort=手05}}
 
 ====Readings====
-* {{ja-readings|on=[[ちつ]] (chitsu), [[ちち]] (chichi)|kun=[[むちうつ]] (muchiutsu)}}
+{{ja-readings
+|on=ちつ, ちち
+|kun=むちうつ
+}}
 
 ----
 
@@ -44,6 +47,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手05|hanviet=thắt}}
+{{vi-readings|rs=手05|reading=thắt}}
 
 # {{defn|lang=vi|sort=手05}}
