@@ -7,7 +7,7 @@
 # a well-wooded hill
 
 ====References====
-* {{Han ref|kx=0309.330|dkj=08003|dj=0610.020|hdz=10765.170|uh=5CB5|ud=23733|bh=CC5E|bd=52318}}
+{{Han ref|kx=0309.330|dkj=08003|dj=0610.020|hdz=10765.170|uh=5CB5}}
 
 ----
 
@@ -51,7 +51,10 @@
 # [[hill]]
 
 ====Readings====
-* {{ja-readings|on=[[こ]] (ko), [[ご]] (go)|kun=[[やま]] (yama)}}
+{{ja-readings
+|on=こ, ご
+|kun=やま
+}}
 
 ----
 
@@ -68,6 +71,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山05|hanviet=hô}}
+{{vi-readings|rs=山05|reading=hô}}
 
 # {{defn|lang=vi|sort=山05}}
