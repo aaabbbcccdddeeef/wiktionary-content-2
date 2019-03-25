@@ -6,7 +6,7 @@
 {{Han char|rn=46|rad=山|as=14|sn=17|four=29794|canj=UFFD|ids=⿰山榮}}
 
 ====References====
-* {{Han ref|kx=0321.120|dkj=08548|dj=0621.210|hdz=10803.100|uh=5DB8|ud=23992|bh=C0AF|bd=49327}}
+{{Han ref|kx=0321.120|dkj=08548|dj=0621.210|hdz=10803.100|uh=5DB8}}
 
 ----
 
@@ -22,6 +22,7 @@
 |c=wing4,wang4,jing4
 |mc=y
 |oc=y
+|cat=
 }}
 
 ===Definitions===
@@ -45,14 +46,17 @@
 # {{defn|lang=ja|sort=山14}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō), [[おう]] (ō), [[えい]] (ei), [[よう]] (yō)|kun=[[けわしい]] (kewashii)}}
+{{ja-readings
+|on=こう, おう, えい, よう
+|kun=けわしい
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=영|rv=yeong|mr=yŏng}}
+{{ko-hanja|영}}
 
 # {{defn|lang=ko|sort=山14}}
 
@@ -61,7 +65,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=山14|hanviet=vanh}}
+{{vi-readings|rs=山14|reading=vanh}}
 
 # {{defn|lang=vi|sort=山14}}
 
