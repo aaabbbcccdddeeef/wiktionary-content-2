@@ -11,7 +11,7 @@
 # [[water]] that is [[clear]] but [[deep]]
 
 ====References====
-* {{Han ref|kx=0660.080|dkj=18660|dj=1070.020|hdz=31782.020|uh=701F|ud=28703|bh=C374|bd=50036}}
+{{Han ref|kx=0660.080|dkj=18660|dj=1070.020|hdz=31782.020|uh=701F}}
 
 ----
 
@@ -51,7 +51,12 @@
 # {{defn|lang=ja|sort=水16}}
 
 ====Readings====
-* {{ja-readings|on=[[しょう]] (shō)|kanon=[[しつ]] (shitsu)|goon=[[しち]] (shichi)|kun=[[きよし]] (kiyoshi)}}
+{{ja-readings
+|goon=しち
+|kanon=しつ
+|on=しょう
+|kun=きよし
+}}
 
 ====Compounds====
 {{der-top|Compounds with 瀟}}
@@ -69,7 +74,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+{{ko-hanja|소}}
 
 # {{defn|lang=ko|sort=水16}}
 
@@ -78,7 +83,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水16| hanviet = tiêu}}
+{{vi-readings|rs=水16|reading=tiêu}}
 
 # {{defn|lang=vi|sort=水16}}
 
