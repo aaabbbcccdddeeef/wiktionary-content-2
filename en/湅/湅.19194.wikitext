@@ -7,7 +7,7 @@
 # [[boil]] [[silk]]
 
 ====References====
-* {{Han ref|kx=0636.100|dkj=17810|dj=1043.150|hdz=31671.050|uh=6E45|ud=28229|bh=D9EF|bd=55791}}
+{{Han ref|kx=0636.100|dkj=17810|dj=1043.150|hdz=31671.050|uh=6E45}}
 
 ----
 
@@ -40,7 +40,10 @@
 # {{defn|lang=ja|sort=水09}}
 
 ====Readings====
-* {{ja-readings|on=[[れん]] (ren), [[らん]] (ran)|kun=[[ねる]] (neru)}}
+{{ja-readings
+|on=れん, らん
+|kun=ねる
+}}
 
 ----
 
@@ -56,6 +59,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水09|hanviet=rịn}}
+{{vi-readings|rs=水09|reading=rịn}}
 
 # {{defn|lang=vi|sort=水09}}
