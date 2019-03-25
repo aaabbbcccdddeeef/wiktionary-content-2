@@ -5,7 +5,7 @@
 {{Han char|rn=61|rad=心|as=12|sn=16|four=18334|canj=MKP,NKP,XMKP,XNKP|ids=⿱敢心}}
 
 ====References====
-* {{Han ref|kx=0403.240|dkj=11244|dj=0743.260|hdz=42343.140|uh=61A8|ud=25000|bh=E977|bd=59767}}
+{{Han ref|kx=0403.240|dkj=11244|dj=0743.260|hdz=42343.140|uh=61A8}}
 
 ----
 
@@ -49,14 +49,17 @@
 # [[coquettish]]
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=[[おろか]] (oroka)}}
+{{ja-readings
+|on=かん, がん
+|kun=おろか
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+{{ko-hanja|감}}
 
 # [[stupid]]
 # [[silly]]
@@ -66,6 +69,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心12|hanviet=hám}}
+{{vi-readings|rs=心12|reading=hám}}
 
 # {{defn|lang=vi|sort=心12}}
