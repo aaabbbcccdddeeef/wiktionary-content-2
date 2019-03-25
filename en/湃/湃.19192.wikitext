@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=09|sn=12|four=31150|canj=EHQJ|ids=⿰氵拜}}
 
 ====References====
-* {{Han ref|kx=0636.080|dkj=17808|dj=1043.130|hdz=31679.020|uh=6E43|ud=28227|bh=B4FB|bd=46331}}
+{{Han ref|kx=0636.080|dkj=17808|dj=1043.130|hdz=31679.020|uh=6E43}}
 
 ----
 
@@ -22,6 +22,7 @@
 |mn=ml:phài/tw:pài
 |mc=y
 |oc=y
+|cat=
 }}
 
 ====Definitions====
@@ -58,14 +59,17 @@
 # sound of waves
 
 ====Readings====
-* {{ja-readings|on=[[はい]] (hai), [[へ]] (he)|kun=[[しみわたる]] (shimiwataru)}}
+{{ja-readings
+|on=はい, へ
+|kun=しみわたる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=배|eumhun=|rv=bae|mr=pae|y=pay}}
+{{ko-hanja|배}}
 
 # sound of waves
 # [[turbulent]]
@@ -75,7 +79,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水09|hanviet=phái}}
+{{vi-readings|rs=水09|reading=phái}}
 
 # {{defn|lang=vi|sort=水09}}
 
