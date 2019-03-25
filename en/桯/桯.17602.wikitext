@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=07|sn=11|four=46914|canj=DRHG|ids=⿰木呈}}
 
 ====References====
-* {{Han ref|kx=0526.260|dkj=14801|dj=0915.190|hdz=21214.070|uh=686F|ud=26735|bh=D5B9|bd=54713}}
+{{Han ref|kx=0526.260|dkj=14801|dj=0915.190|hdz=21214.070|uh=686F}}
 
 ----
 
@@ -40,7 +40,10 @@
 # {{defn|lang=ja|sort=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō), [[けい]] (kei), [[ぎょう]] (gyō)|kun=[[つくえ]] (tsukue)}}
+{{ja-readings
+|on=てい, ちょう, けい, ぎょう
+|kun=つくえ
+}}
 
 ----
 
@@ -56,7 +59,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=tinh}}
+{{vi-readings|rs=木07|reading=tinh}}
 
 # {{defn|lang=vi|sort=木07}}
 
