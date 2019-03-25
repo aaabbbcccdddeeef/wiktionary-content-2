@@ -5,7 +5,7 @@
 {{Han char|rn=30|rad=口|as=06|sn=9|four=60401|canj=RSJ|ids=⿱口耳}}
 
 ====References====
-* {{Han ref|kx=0185.240|dkj=03527|dj=0405.220|hdz=10612.050|uh=54A0|ud=21664|bh=CE48|bd=52808}}
+{{Han ref|kx=0185.240|dkj=03527|dj=0405.220|hdz=10612.050|uh=54A0}}
 
 ----
 
@@ -42,14 +42,17 @@
 # {{defn|lang=ja|sort=口06}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅう]] (shū), [[ゆう]] (yū)|kun=[[ささやく]] (sasayaku), [[そしる]] (soshiru)}}
+{{ja-readings
+|on=しゅう, ゆう
+|kun=ささやく, そしる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=집|rv=jip|mr=chip}}
+{{ko-hanja|집}}
 
 # {{defn|lang=ko|sort=口06}}
 
@@ -58,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=口06|hanviet=nghiện}}
+{{vi-readings|rs=口06|reading=nghiện}}
 
 # {{defn|lang=vi|sort=口06}}
