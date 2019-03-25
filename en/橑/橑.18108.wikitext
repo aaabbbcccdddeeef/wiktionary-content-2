@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=12|sn=16|four=43996|canj=DKCF|ids=⿰木尞}}
 
 ====References====
-* {{Han ref|kx=0553.100|dkj=15534|dj=0941.220|hdz=21290.040|uh=6A51|ud=27217|bh=E9C9|bd=59849}}
+{{Han ref|kx=0553.100|dkj=15534|dj=0941.220|hdz=21290.040|uh=6A51}}
 
 ----
 
@@ -26,7 +26,10 @@
 # {{defn|lang=ja|sort=木12}}
 
 ====Readings====
-* {{ja-readings|on=[[ろう]] (rō)|kun=[[たるき]] (taruki)}}
+{{ja-readings
+|on=ろう
+|kun=たるき
+}}
 
 ----
 
@@ -42,7 +45,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木12|hanviet=[[lèo]], [[lạo]], [[rều]]}}
+{{vi-readings|rs=木12|reading=[[lèo]], [[lạo]], [[rều]]}}
 
 # {{defn|lang=vi|sort=木12}}
 
