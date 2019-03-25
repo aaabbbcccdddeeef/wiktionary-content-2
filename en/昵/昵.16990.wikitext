@@ -3,7 +3,7 @@
 ==Translingual==
 
 ===Etymology===
-{{Han etyl}}
+{{Han etym}}
 
 ===Han character===
 {{Han char|rn=72|rad=日|as=05|sn=9|four=67011|canj=ASP|ids=⿰日尼}}
@@ -12,7 +12,7 @@
 # [[approach]]
 
 ====References====
-* {{Han ref|kx=0494.070|dkj=13866|dj=0858.130|hdz=21504.020|uh=6635|ud=26165|bh=CEEE|bd=52974}}
+{{Han ref|kx=0494.070|dkj=13866|dj=0858.130|hdz=21504.020|uh=6635}}
 
 ----
 
@@ -55,7 +55,10 @@
 # {{defn|lang=ja|sort=日05}}
 
 ====Readings====
-* {{ja-readings|on=[[じつ]] (jitsu), [[しょく]] (shoku)|kun=[[ちかずく]] (chikazuku)}}
+{{ja-readings
+|on=じつ, しょく
+|kun=ちかずく
+}}
 
 ----
 
@@ -71,7 +74,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=日05|hanviet=nặc}}
+{{vi-readings|rs=日05|reading=nặc}}
 
 # {{defn|lang=vi|sort=日05}}
 
