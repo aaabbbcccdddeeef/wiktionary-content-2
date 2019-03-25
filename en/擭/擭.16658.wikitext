@@ -8,7 +8,7 @@
 # [[seize]]
 
 ====References====
-* {{Han ref|kx=0460.230|dkj=12876|dj=0809.110|hdz=31966.130|uh=64ED|ud=25837|bh=C0C3|bd=49347}}
+{{Han ref|kx=0460.230|dkj=12876|dj=0809.110|hdz=31966.130|uh=64ED}}
 
 ----
 
@@ -19,6 +19,7 @@
 {{zh-pron
 |m=hù,huò,wò
 |c=faa6,wok6
+|cat=
 }}
 
 ===Definitions===
@@ -37,14 +38,16 @@
 # [[seize]]
 
 ====Readings====
-* {{ja-readings|on=わく, こ, かく, か, こく}}
+{{ja-readings
+|on=わく, こ, かく, か, こく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=화|eumhun=|rv=hwa|mr=hwa|y=hwa}}
+{{ko-hanja|화}}
 
 # {{defn|lang=ko|sort=手14}}
 
@@ -53,7 +56,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手14|hanviet=[[quặc]], [[hoạch]]}}
+{{vi-readings|rs=手14|reading=[[quặc]], [[hoạch]]}}
 
 # {{defn|lang=vi|sort=手14}}
 
