@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=06|sn=10|four=44947|canj=DKLD|ids=⿰[[木]][[存]]}}
 
 ====References====
-* {{Han ref|kx=0523.120|dkj=14724|dj=0911.100|hdz=21196.060|uh=682B|ud=26667|bh=D1E5|bd=53733}}
+{{Han ref|kx=0523.120|dkj=14724|dj=0911.100|hdz=21196.060|uh=682B}}
 
 ----
 
@@ -40,7 +40,10 @@
 # {{defn|lang=ja|sort=木06}}
 
 ====Readings====
-* {{ja-readings|on=[[そん]] (son), [[せん]] (sen)|kun=[[ふしずけ]] (fushizuke), [[かこみ]] (kakomi), [[まがき]] (magaki)}}
+{{ja-readings
+|on=そん, せん
+|kun=ふしずけ, かこみ, まがき
+}}
 
 ===Proper noun===
 {{ja-pos|かこい|proper}}
@@ -52,7 +55,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木06|hanviet=chuồng}}
+{{vi-readings|rs=木06|reading=chuồng}}
 
 # {{defn|lang=vi|sort=木06}}
 
