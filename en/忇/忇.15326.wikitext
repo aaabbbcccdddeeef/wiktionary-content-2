@@ -8,7 +8,7 @@
 # to think.
 
 ====References====
-* {{Han ref|kx=0375.040|dkj=10301|dj=0702.010|hdz=42269.010|uh=5FC7|ud=24519}}
+{{Han ref|kx=0375.040|dkj=10301|dj=0702.010|hdz=42269.010|uh=5FC7}}
 
 ----
 
@@ -32,7 +32,10 @@
 # {{defn|lang=ja|sort=心02}}
 
 ====Readings====
-* {{ja-readings|on=[[ろく]] (roku)|kun=[[こうろうがおおきい]] (kourougaookii), [[おもう]] (omou)}}
+{{ja-readings
+|on=ろく
+|kun=こうろうがおおきい, おもう
+}}
 
 ----
 
@@ -48,6 +51,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心02|hanviet=sực}}
+{{vi-readings|rs=心02|reading=sực}}
 
 # {{defn|lang=vi|sort=心02}}
