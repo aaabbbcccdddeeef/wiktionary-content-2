@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=08|sn=11|four=32160|canj=EVVW|ids=⿰氵甾}}
 
 ====References====
-* {{Han ref|kx=0629.040|dkj=17616|dj=1030.210|hdz=31665.080|uh=6DC4|ud=28100|bh=B264|bd=45668}}
+{{Han ref|kx=0629.040|dkj=17616|dj=1030.210|hdz=31665.080|uh=6DC4}}
 
 ----
 
@@ -41,14 +41,16 @@
 # {{defn|lang=ja|sort=水08}}
 
 ====Readings====
-* {{ja-readings|on=[[し]] (shi)|kun=}}
+{{ja-readings
+|on=し
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+{{ko-hanja|치}}
 
 # {{defn|lang=ko|sort=水08}}
 
@@ -57,7 +59,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08|hanviet=chuy, truy}}
+{{vi-readings|rs=水08|reading=chuy, truy}}
 
 # {{defn|lang=vi|sort=水08}}
 
