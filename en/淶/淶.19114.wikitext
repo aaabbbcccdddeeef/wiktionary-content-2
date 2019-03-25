@@ -9,7 +9,7 @@
 # [[creek]]
 
 ====References====
-* {{Han ref|kx=0632.130|dkj=17693|dj=1036.010|hdz=31644.020|uh=6DF6|ud=28150|bh=D5E9|bd=54761}}
+{{Han ref|kx=0632.130|dkj=17693|dj=1036.010|hdz=31644.020|uh=6DF6}}
 
 ----
 
@@ -43,7 +43,9 @@
 # {{defn|lang=ja|sort=水08}}
 
 ====Readings====
-* {{ja-readings|on=[[らい]] (rai)|kun=}}
+{{ja-readings
+|on=らい
+}}
 
 ----
 
@@ -59,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08| hanviet = lai}}
+{{vi-readings|rs=水08|reading=lai}}
 
 # {{defn|lang=vi|sort=水08}}
