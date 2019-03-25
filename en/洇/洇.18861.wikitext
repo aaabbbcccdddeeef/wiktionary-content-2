@@ -5,7 +5,7 @@
 {{Han char|rn=85|rad=水|as=06|sn=9|four=36100|canj=EWK|ids=⿰氵因}}
 
 ====References====
-* {{Han ref|kx=0619.230|dkj=17358|dj=1014.150|hdz=31607.050|uh=6D07|ud=27911|bh=CFA7|bd=53159}}
+{{Han ref|kx=0619.230|dkj=17358|dj=1014.150|hdz=31607.050|uh=6D07}}
 
 ----
 
@@ -37,14 +37,17 @@
 # {{defn|lang=ja|sort=水06}}
 
 ====Readings====
-* {{ja-readings|on=[[いん]] (in), [[えつ]] (etsu), [[えち]] (echi)|kun=[[しずむ]] (shizumu)}}
+{{ja-readings
+|on=いん, えつ, えち
+|kun=しずむ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=인|eumhun=|rv=in|mr=in|y=in}}
+{{ko-hanja|인}}
 
 # {{defn|lang=ko|sort=水06}}
 
@@ -53,7 +56,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水06|hanviet=nhân}}
+{{vi-readings|rs=水06|reading=nhân}}
 
 # {{defn|lang=vi|sort=水06}}
 
