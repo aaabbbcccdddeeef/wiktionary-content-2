@@ -5,7 +5,7 @@
 {{Han char|rn=61|rad=心|as=06|sn=10|four=80331|canj=TGP|ids=⿱𦍌心}}
 
 ====References====
-* {{Han ref|kx=0384.230|dkj=10565|dj=0715.060|hdz=42292.100|uh=6059|ud=24665|bh=AE7E|bd=44670}}
+{{Han ref|kx=0384.230|dkj=10565|dj=0715.060|hdz=42292.100|uh=6059}}
 
 ----
 
@@ -47,14 +47,17 @@
 # {{defn|lang=ja|sort=心06}}
 
 ====Readings====
-* {{ja-readings|on=[[よう]] (yō)|kun=[[つつが]] (tsutsuga)}}
+{{ja-readings
+|on=よう
+|kun=つつが
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
+{{ko-hanja|양}}
 
 # {{defn|lang=ko|sort=心06}}
 
@@ -63,7 +66,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心06|hanviet=dạng}}
+{{vi-readings|rs=心06|reading=dạng}}
 
 # {{defn|lang=vi|sort=心06}}
 
