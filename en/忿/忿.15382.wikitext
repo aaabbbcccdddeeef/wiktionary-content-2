@@ -6,7 +6,7 @@
 {{Han char|rn=61|rad=心|as=04|sn=8|four=80332|canj=CSHP|ids=⿱分心}}
 
 ====References====
-* {{Han ref|kx=0379.020|dkj=10408|dj=0707.080|hdz=42274.060|uh=5FFF|ud=24575|bh=A9C1|bd=43457}}
+{{Han ref|kx=0379.020|dkj=10408|dj=0707.080|hdz=42274.060|uh=5FFF}}
 
 ----
 
@@ -54,14 +54,17 @@
 # be angry
 
 ====Readings====
-* {{ja-readings|on=[[ふん]] (fun)|kun=[[いかる]] (ikaru)}}
+{{ja-readings
+|on=ふん
+|kun=いかる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+{{ko-hanja|분}}
 
 # get angry
 # [[fury]]
@@ -72,6 +75,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心04|hanviet=phẫn}}
+{{vi-readings|rs=心04|reading=phẫn}}
 
 # {{defn|lang=vi|sort=心04}}
