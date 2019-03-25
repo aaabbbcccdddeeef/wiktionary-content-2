@@ -8,7 +8,7 @@
 {{Han char|rn=85|rad=水|as=12|sn=15|four=34100|canj=EGTI|ids=⿰氵尌}}
 
 ====References====
-* {{Han ref|kx=0652.010|dkj=18329|dj=1062.060|hdz=31735.040|uh=6F8D|ud=28557|bh=E640|bd=58944}}
+{{Han ref|kx=0652.010|dkj=18329|dj=1062.060|hdz=31735.040|uh=6F8D}}
 
 ----
 
@@ -44,14 +44,17 @@
 # {{defn|lang=ja|sort=水12}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅ]] (shu), [[じゅ]] (ju)|kun=[[うるおう]] (uruou)}}
+{{ja-readings
+|on=しゅ, じゅ
+|kun=うるおう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+{{ko-hanja|주}}
 
 # {{defn|lang=ko|sort=水12}}
 
@@ -60,7 +63,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水12| hanviet = chú}}
+{{vi-readings|rs=水12|reading=chú}}
 
 # {{defn|lang=vi|sort=水12}}
 
