@@ -6,7 +6,7 @@
 {{Han char|rn=61|rad=心|as=08|sn=11|four=95047|canj=PJLV|ids=⿰忄妻}}
 
 ====References====
-* {{Han ref|kx=0389.190|dkj=10744|dj=0723.060|hdz=42314.100|uh=60BD|ud=24765|bh=B17E|bd=45438}}
+{{Han ref|kx=0389.190|dkj=10744|dj=0723.060|hdz=42314.100|uh=60BD}}
 
 ----
 
@@ -27,14 +27,17 @@
 # {{defn|lang=ja|sort=心08}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei)|kun=[[いたむ]] (itamu)}}
+{{ja-readings
+|on=せい
+|kun=いたむ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=처|eumhun=|rv=cheo|mr=ch'ŏ|y=che}}
+{{ko-hanja|처}}
 
 # {{defn|lang=ko|sort=心08}}
 
@@ -43,7 +46,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心08|hanviet=thê}}
+{{vi-readings|rs=心08|reading=thê}}
 
 # {{defn|lang=vi|sort=心08}}
 
