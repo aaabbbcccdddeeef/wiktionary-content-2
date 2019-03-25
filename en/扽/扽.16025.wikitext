@@ -5,7 +5,7 @@
 {{Han char|rn=64|rad=手|as=04|sn=7|four=50017|canj=QPU|ids=⿰扌屯}}
 
 ====References====
-* {{Han ref|kx=0419.170|dkj=11850|dj=0766.090|hdz=31835.030|uh=627D|ud=25213|bh=CAF4|bd=51956}}
+{{Han ref|kx=0419.170|dkj=11850|dj=0766.090|hdz=31835.030|uh=627D}}
 
 ----
 
@@ -19,6 +19,7 @@
 |c=dan3,dan6
 |mc=y
 |oc=y
+|cat=
 }}
 
 {{attn|zhx-teo|Fielde (1883): 摧 tùn "to jerk; to pull at violently"?}}
@@ -38,13 +39,16 @@
 # {{defn|lang=ja|sort=手04}}
 
 ====Readings====
-* {{ja-readings|on=[[とん]] (ton)|kun=[[ひく]] (hiku)}}
+{{ja-readings
+|on=とん
+|kun=ひく
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手04|hanviet=đùn}}
+{{vi-readings|rs=手04|reading=đùn}}
 
 # {{defn|lang=vi|sort=手04}}
