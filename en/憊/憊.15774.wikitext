@@ -8,7 +8,7 @@
 # [[tired]], [[weary]], [[fatigued]]
 
 ====References====
-* {{Han ref|kx=0402.020|dkj=11195|dj=0742.040|hdz=42350.120|uh=618A|ud=24970|bh=BECE|bd=48846}}
+{{Han ref|kx=0402.020|dkj=11195|dj=0742.040|hdz=42350.120|uh=618A}}
 
 ----
 
@@ -49,7 +49,10 @@
 # {{defn|lang=ja|sort=心12}}
 
 ====Readings====
-* {{ja-readings|on=[[はい]] (hai), [[へい]] (hei)|kun=[[つかれる]] (tsukareru)}}
+{{ja-readings
+|on=はい, へい
+|kun=つかれる
+}}
 
 ====Compounds====
 * [[困憊]] (こんぱい)
@@ -59,7 +62,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+{{ko-hanja|비}}
 
 # {{defn|lang=ko|sort=心12}}
 
@@ -68,7 +71,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心12|hanviet=bị}}
+{{vi-readings|rs=心12|reading=bị}}
 
 # {{defn|lang=vi|sort=心12}}
 
