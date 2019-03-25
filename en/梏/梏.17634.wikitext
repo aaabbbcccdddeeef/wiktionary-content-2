@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=07|sn=11|four=44961|canj=DHGR|ids=⿰木告}}
 
 ====References====
-* {{Han ref|kx=0528.210|dkj=14841|dj=0917.090|hdz=21215.080|uh=688F|ud=26767|bh=D5C0|bd=54720}}
+{{Han ref|kx=0528.210|dkj=14841|dj=0917.090|hdz=21215.080|uh=688F}}
 
 ----
 
@@ -38,7 +38,10 @@
 {{ja-kanji|grade=uc|rs=木07}}
 
 ====Readings====
-* {{ja-readings|on=[[こく]] (koku), [[かく]] (kaku)|kun=[[てかせ]] (tekase)}}
+{{ja-readings
+|on=こく, かく
+|kun=てかせ
+}}
 
 ====Compounds====
 * {{ja-r|梏桎|こくしつ}}: [[manacles]] and [[shackles]]
@@ -62,7 +65,7 @@ This kanji is seldom used to spell the word てかせ. More common spellings inc
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=곡|eumhun=|rv=gok|mr=kok|y=kok}}
+{{ko-hanja|곡}}
 
 # {{defn|lang=ko|sort=木07}}
 
@@ -71,6 +74,6 @@ This kanji is seldom used to spell the word てかせ. More common spellings inc
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木07|hanviet=gáo}}
+{{vi-readings|rs=木07|reading=gáo}}
 
 # {{defn|lang=vi|sort=木07}}
