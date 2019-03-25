@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=06|sn=10|four=25904|canj=NQD|ids=⿱舛木}}
 
 ====References====
-* {{Han ref|kx=0524.150|dkj=14753|dj=0913.030|hdz=21203.050|uh=6840|ud=26688|bh=AEE5|bd=44773}}
+{{Han ref|kx=0524.150|dkj=14753|dj=0913.030|hdz=21203.050|uh=6840}}
 
 ----
 
@@ -42,14 +42,17 @@
 # {{defn|lang=ja|sort=木06}}
 
 ====Readings====
-* {{ja-readings|on=[[けつ]] (ketsu)|kun=[[はりつけ]] (haritsuke)}}
+{{ja-readings
+|on=けつ
+|kun=はりつけ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=걸|eumhun=|rv=geol|mr=kŏl|y=kel}}
+{{ko-hanja|걸}}
 
 # {{defn|lang=ko|sort=木06}}
 
@@ -58,6 +61,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木06|hanviet=kiệt}}
+{{vi-readings|rs=木06|reading=kiệt}}
 
 # {{defn|lang=vi|sort=木06}}
