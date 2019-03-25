@@ -5,7 +5,7 @@
 {{Han char|rn=40|rad=宀|as=09|sn=12|four=30801|canj=JAMO|ids=⿱宀是}}
 
 ====References====
-* {{Han ref|kx=0289.160|dkj=07244|dj=0573.050|hdz=20943.010|uh=5BD4|ud=23508|bh=D8D3|bd=55507}}
+{{Han ref|kx=0289.160|dkj=07244|dj=0573.050|hdz=20943.010|uh=5BD4}}
 
 ----
 
@@ -46,14 +46,17 @@
 # {{defn|lang=ja|sort=宀09}}
 
 ====Readings====
-* {{ja-readings|on=[[しょく]] (shoku)|kun=[[まことに]] (makotoni)}}
+{{ja-readings
+|on=しょく
+|kun=まことに
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=식|rv=sik|mr=sik}}
+{{ko-hanja|식}}
 
 # {{defn|lang=ko|sort=宀09}}
 
@@ -62,6 +65,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=宀09|hanviet=[[thực]], [[thật]], [[thiệt]]}}
+{{vi-readings|rs=宀09|reading=[[thực]], [[thật]], [[thiệt]]}}
 
 # {{defn|lang=vi|sort=宀09}}
