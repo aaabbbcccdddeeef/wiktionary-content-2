@@ -9,7 +9,7 @@
 # [[vault]]
 
 ====References====
-* {{Han ref|kx=0547.050|dkj=15362|dj=0935.020|hdz=21268.010|uh=69E8|ud=27112|bh=BCCD|bd=48333}}
+{{Han ref|kx=0547.050|dkj=15362|dj=0935.020|hdz=21268.010|uh=69E8}}
 
 ----
 
@@ -46,14 +46,17 @@
 # {{defn|lang=ja|sort=木11}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku)|kun=[[そとひつぎ]] (sotohitsugi)}}
+{{ja-readings
+|on=かく
+|kun=そとひつぎ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=곽|eumhun=|rv=gwak|mr=kwak|y=kwak}}
+{{ko-hanja|곽}}
 
 # {{defn|lang=ko|sort=木11}}
 
@@ -62,6 +65,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木11|hanviet=quạch}}
+{{vi-readings|rs=木11|reading=quạch}}
 
 # {{defn|lang=vi|sort=木11}}
