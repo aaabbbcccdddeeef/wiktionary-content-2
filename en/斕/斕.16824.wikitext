@@ -6,7 +6,7 @@
 {{Han char|rn=67|rad=文|as=17|sn=21|four=07420|canj=YKANW|ids=⿰文闌}}
 
 ====References====
-* {{Han ref|kx=0477.220|dkj=13486|dj=0835.250|hdz=32171.090|uh=6595|ud=26005|bh=C4E3|bd=50403}}
+{{Han ref|kx=0477.220|dkj=13486|dj=0835.250|hdz=32171.090|uh=6595}}
 
 ----
 
@@ -44,14 +44,17 @@
 # {{defn|lang=ja|sort=文17}}
 
 ====Readings====
-* {{ja-readings|on=[[らん]] (ran), [[れん]] (ren)|kun=[[あや]] (aya)}}
+{{ja-readings
+|on=らん, れん
+|kun=あや
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=文17|hanviet=lan}}
+{{vi-readings|rs=文17|reading=lan}}
 
 # {{defn|lang=vi|sort=文17}}
 
