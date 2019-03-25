@@ -9,7 +9,7 @@
 # [[strain]] [[liquid]]s
 
 ====References====
-* {{Han ref|kx=0630.240|dkj=17666|dj=1033.040|hdz=31664.030|uh=6DE5|ud=28133|bh=D5F1|bd=54769}}
+{{Han ref|kx=0630.240|dkj=17666|dj=1033.040|hdz=31664.030|uh=6DE5}}
 
 ----
 
@@ -49,6 +49,7 @@ Probably a {{der|yue|qfa-tak}} substrate word. Compare {{cog|th|ลวก||to sc
 |c=luk6
 |c-t=luuk5
 |h=gd=lug6
+|cat=
 }}
 
 ====Definitions====
@@ -66,7 +67,10 @@ Probably a {{der|yue|qfa-tak}} substrate word. Compare {{cog|th|ลวก||to sc
 # {{defn|lang=ja|sort=水08}}
 
 ====Readings====
-* {{ja-readings|on=[[ろく]] (roku), [[りょく]] (ryoku)|kun=[[こす]] (kosu)}}
+{{ja-readings
+|on=ろく, りょく
+|kun=こす
+}}
 
 ----
 
@@ -82,6 +86,6 @@ Probably a {{der|yue|qfa-tak}} substrate word. Compare {{cog|th|ลวก||to sc
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08|hanviet=lóc}}
+{{vi-readings|rs=水08|reading=lóc}}
 
 # {{defn|lang=vi|sort=水08}}
