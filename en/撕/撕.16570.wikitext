@@ -5,7 +5,7 @@
 {{Han char|rn=64|rad=手|as=12|sn=15|four=52021|canj=QTCL|ids=⿰扌斯}}
 
 ====References====
-* {{Han ref|kx=0454.150|dkj=12705|dj=0803.290|hdz=31953.060|uh=6495|ud=25749|bh=BCB9|bd=48313}}
+{{Han ref|kx=0454.150|dkj=12705|dj=0803.290|hdz=31953.060|uh=6495}}
 
 ----
 
@@ -54,14 +54,17 @@
 # {{defn|lang=ja|sort=手12}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei), [[さい]] (sai), [[し]] (shi)|kun=[[さく]] (saku)}}
+{{ja-readings
+|on=せい, さい, し
+|kun=さく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+{{ko-hanja|서}}
 
 # {{defn|lang=ko|sort=手12}}
 
@@ -70,7 +73,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手12|hanviet=[[tê]], [[ti]]}}
+{{vi-readings|rs=手12|reading=[[tê]], [[ti]]}}
 
 # {{defn|lang=vi|sort=手12}}
 
