@@ -8,7 +8,7 @@
 # [[mud]]
 
 ====References====
-* {{Han ref|kx=0629.270|dkj=17639|dj=1031.170|hdz=31647.070|uh=6DD6|ud=28118|bh=D5EF|bd=54767}}
+{{Han ref|kx=0629.270|dkj=17639|dj=1031.170|hdz=31647.070|uh=6DD6}}
 
 ----
 
@@ -49,7 +49,10 @@
 # {{defn|lang=ja|sort=水08}}
 
 ====Readings====
-* {{ja-readings|on=[[どう]] (dō), [[にょう]] (nyō)|kun=[[どる]] (doru)}}
+{{ja-readings
+|on=どう, にょう
+|kun=どる
+}}
 
 ----
 
@@ -65,7 +68,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水08|hanviet=giạt, náo, trát, xước}}
+{{vi-readings|rs=水08|reading=giạt, náo, trát, xước}}
 
 # {{defn|lang=vi|sort=水08}}
 
