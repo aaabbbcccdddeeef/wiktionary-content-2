@@ -5,7 +5,7 @@
 {{Han char|rn=50|rad=巾|as=05|sn=8|four=46200|canj=LBHA|ids=⿰巾白}}
 
 ====References====
-* {{Han ref|kx=0329.440|dkj=08848|dj=0635.190|hdz=10734.070|uh=5E15|ud=24085|bh=A9AC|bd=43436}}
+{{Han ref|kx=0329.440|dkj=08848|dj=0635.190|hdz=10734.070|uh=5E15}}
 
 ----
 
@@ -57,7 +57,10 @@
 # {{defn|lang=ja|sort=巾05}}
 
 ====Readings====
-* {{ja-readings|on=[[ばつ]] (batsu), [[めち]] (mechi), [[は]] (ha), [[へ]] (he), [[はく]] (haku), [[みゃく]] (myaku)|kun=[[つつむ]] (tsutsumu)}}
+{{ja-readings
+|on=ばつ, めち, は, へ, はく, みゃく
+|kun=つつむ
+}}
 
 ----
 
@@ -73,7 +76,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=巾05|hanviet=phạ}}
+{{vi-readings|rs=巾05|reading=phạ}}
 
 # {{defn|lang=vi|sort=巾05}}
 
