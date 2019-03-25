@@ -6,7 +6,7 @@
 {{Han char|rn=16|rad=几|as=12|sn=14|four=12217|canj=NTHN|ids=⿱登几}}
 
 ====References====
-* {{Han ref|kx=0134.360|dkj=01797|dj=0300.210|hdz=10278.200|uh=51F3|ud=20979|bh=B9B9|bd=47545}}
+{{Han ref|kx=0134.360|dkj=01797|dj=0300.210|hdz=10278.200|uh=51F3}}
 
 ----
 
@@ -60,14 +60,17 @@
 # {{defn|lang=ja|sort=几12}}
 
 ====Readings====
-* {{ja-readings|on=[[とう]] (tō)|kun=[[ひざかけ]]のたぐい (hizakake-no tagui)}}
+{{ja-readings
+|on=とう
+|kun=ひざかけ, のたぐい, -
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=등}}
+{{ko-hanja|등}}
 
 # {{defn|lang=ko|sort=几12}}
 
@@ -76,7 +79,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=几12|hanviet=đắng}}
+{{vi-readings|rs=几12|reading=đắng}}
 
 # {{defn|lang=vi|sort=几12}}
 
