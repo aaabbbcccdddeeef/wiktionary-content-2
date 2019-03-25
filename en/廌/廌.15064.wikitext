@@ -5,7 +5,7 @@
 {{Han char|rn=53|rad=广|as=10|sn=13|four=00227|canj=IXF|ids=⿸⿸广⿻コ⿰丨丨⿹⿺㇉一灬}}
 
 ====References====
-* {{Han ref|kx=0349.201|dkj=09433|hdz=20896.020|uh=5ECC|ud=24268|bh=DD5E|bd=56670}}
+{{Han ref|kx=0349.201|dkj=09433|hdz=20896.020|uh=5ECC}}
 
 ----
 
@@ -18,6 +18,7 @@
 |c=zaai6,zi6
 |mc=y
 |oc=y
+|cat=
 }}
 
 ===Definitions===
@@ -38,7 +39,9 @@
 # {{defn|lang=ja|sort=广10}}
 
 ====Readings====
-* {{ja-readings|on=[[ち]] (chi)|kun=}}
+{{ja-readings
+|on=ち
+}}
 
 ----
 
@@ -54,7 +57,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=广10|hanviet=trãi}}
+{{vi-readings|rs=广10|reading=trãi}}
 
 # {{defn|lang=vi|sort=广10}}
 
