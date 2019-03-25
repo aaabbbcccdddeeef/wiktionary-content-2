@@ -9,7 +9,7 @@
 # [[usher]]
 
 ====References====
-* {{Han ref|kx=0460.270|dkj=12880|dj=0810.040|hdz=31977.020|uh=64EF|ud=25839|bh=ECE8|bd=60648}}
+{{Han ref|kx=0460.270|dkj=12880|dj=0810.040|hdz=31977.020|uh=64EF}}
 
 ----
 
@@ -43,14 +43,17 @@
 # {{defn|lang=ja|sort=手14}}
 
 ====Readings====
-* {{ja-readings|on=[[ひん]] (hin)|kun=[[しりぞける]] (shirizokeru)}}
+{{ja-readings
+|on=ひん
+|kun=しりぞける
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+{{ko-hanja|빈}}
 
 # {{defn|lang=ko|sort=手14}}
 
@@ -59,7 +62,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手14|hanviet=tấn}}
+{{vi-readings|rs=手14|reading=tấn}}
 
 # {{defn|lang=vi|sort=手14}}
 
