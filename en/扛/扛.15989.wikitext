@@ -6,7 +6,7 @@
 {{Han char|rn=64|rad=手|as=03|sn=6|four=51010|canj=QM|ids=⿰扌工}}
 
 ====References====
-* {{Han ref|kx=0417.230|dkj=11798|dj=0764.150|hdz=31829.030|uh=625B|ud=25179|bh=A6AA|bd=42666}}
+{{Han ref|kx=0417.230|dkj=11798|dj=0764.150|hdz=31829.030|uh=625B}}
 
 ----
 
@@ -62,14 +62,17 @@
 # {{defn|lang=ja|sort=手03}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō)|kun=[[あげる]] (ageru), [[かつぐ]] (katsugu)}}
+{{ja-readings
+|on=こう
+|kun=あげる, かつぐ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=강|eumhun=|rv=gang|mr=kang|y=kang}}
+{{ko-hanja|강}}
 
 # {{defn|lang=ko|sort=手03}}
 
@@ -78,7 +81,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手03|hanviet=[[giăng]], [[giang]], [[căng]], [[dăng]], [[giằng]], [[dàng]], [[giương]], [[gồng]], [[khiêng]]}}
+{{vi-readings|rs=手03|reading=[[giăng]], [[giang]], [[căng]], [[dăng]], [[giằng]], [[dàng]], [[giương]], [[gồng]], [[khiêng]]}}
 
 # {{defn|lang=vi|sort=手03}}
 
