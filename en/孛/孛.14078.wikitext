@@ -5,7 +5,7 @@
 {{Han char|rn=39|rad=子|as=04|sn=7|four=40407|canj=JBND|ids=⿱⿱十冖子}}
 
 ====References====
-* {{Han ref|kx=0278.080|dkj=06949|dj=0546.010|hdz=21011.050|uh=5B5B|ud=23387|bh=A7B8|bd=42936}}
+{{Han ref|kx=0278.080|dkj=06949|dj=0546.010|hdz=21011.050|uh=5B5B}}
 
 ----
 
@@ -72,7 +72,11 @@
 # {{defn|lang=ja|sort=子04}}
 
 ====Readings====
-* {{ja-readings|goon=[[ぼつ]] (botsu), [[ばい]] (bai)|kanon=[[ほつ]] (hotsu), [[はい]] (hai)|kanyoon=[[ぼつ]] (botsu)}}
+{{ja-readings
+|goon=ぼつ, ばい
+|kanon=ほつ, はい
+|kanyoon=ぼつ
+}}
 
 ----
 
@@ -88,6 +92,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=子04|hanviet=bụt}}
+{{vi-readings|rs=子04|reading=bụt}}
 
 # {{defn|lang=vi|sort=子04}}
