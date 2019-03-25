@@ -6,7 +6,7 @@
 {{Han char|rn=64|rad=手|as=15|sn=18|four=56011|canj=QWLP|ids=⿰扌罷}}
 
 ====References====
-* {{Han ref|kx=0461.190|dkj=12910|dj=0810.190|hdz=31980.090|uh=64FA|ud=25850|bh=C25C|bd=49756}}
+{{Han ref|kx=0461.190|dkj=12910|dj=0810.190|hdz=31980.090|uh=64FA}}
 
 ----
 
@@ -90,14 +90,17 @@
 # {{defn|lang=ja|sort=手15}}
 
 ====Readings====
-* {{ja-readings|on=はい|kun=ひらく}}
+{{ja-readings
+|on=はい
+|kun=ひらく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=파|eumhun=|mr=p'a|y=pha}}
+{{ko-hanja|파}}
 
 # {{defn|lang=ko|sort=手15}}
 
@@ -106,6 +109,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手15|hanviet=[[bẫy]], [[bài]], [[bãi]]}}
+{{vi-readings|rs=手15|reading=[[bẫy]], [[bài]], [[bãi]]}}
 
 # {{defn|lang=vi|sort=手15}}
