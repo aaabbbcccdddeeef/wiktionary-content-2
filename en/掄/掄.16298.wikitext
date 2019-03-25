@@ -6,7 +6,7 @@
 {{Han char|rn=64|rad=手|as=08|sn=11|four=58027|canj=QOMB|ids=⿰扌侖}}
 
 ====References====
-* {{Han ref|kx=0436.150|dkj=12238|dj=0786.010|hdz=31900.070|uh=6384|ud=25476|bh=B1C1|bd=45505}}
+{{Han ref|kx=0436.150|dkj=12238|dj=0786.010|hdz=31900.070|uh=6384}}
 
 ----
 
@@ -48,7 +48,10 @@
 # {{defn|lang=ja|sort=手08}}
 
 ====Readings====
-* {{ja-readings|on=[[ろん]] (ron), [[りん]] (rin)|kun=[[えらぶ]] (erabu)}}
+{{ja-readings
+|on=ろん, りん
+|kun=えらぶ
+}}
 
 ----
 
@@ -64,7 +67,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=手08|hanviet=[[dọn]], [[luân]], [[luồn]]}}
+{{vi-readings|rs=手08|reading=[[dọn]], [[luân]], [[luồn]]}}
 
 # {{defn|lang=vi|sort=手08}}
 
