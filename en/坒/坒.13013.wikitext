@@ -5,7 +5,7 @@
 {{Han char|rn=32|rad=土|as=04|sn=7|four=21104|canj=PPG|ids=⿱比土}}
 
 ====References====
-* {{Han ref|kx=0226.020|dkj=04933|dj=0461.010|hdz=10422.080|uh=5752|ud=22354|bh=CAAF|bd=51887}}
+{{Han ref|kx=0226.020|dkj=04933|dj=0461.010|hdz=10422.080|uh=5752}}
 
 ----
 
@@ -49,14 +49,17 @@
 # {{defn|lang=ja|sort=土04}}
 
 ====Readings====
-* {{ja-readings|on=[[ひ]] (hi), [[び]] (bi)|kun=[[きじはし]] (kijihashi)}}
+{{ja-readings
+|on=ひ, び
+|kun=きじはし
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=비|rv=bi|mr=pi}}
+{{ko-hanja|비}}
 
 # {{defn|lang=ko|sort=土04}}
 
@@ -65,6 +68,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=土04| hanviet = bệ}}
+{{vi-readings|rs=土04|reading=bệ}}
 
 # {{defn|lang=vi|sort=土04}}
