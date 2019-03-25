@@ -6,7 +6,7 @@
 {{Han char|rn=80|rad=毋|as=00|sn=4|four=77750|canj=WJ|ids=⿻⿻𠃋𠃍十(G),⿻⿻𠃋㇇十(HTJK)}}
 
 ====References====
-* {{Han ref|kx=0588.240|dkj=16722|dj=0980.300|hdz=42380.020|uh=6BCC|ud=27596|bh=C960|bd=51552}}
+{{Han ref|kx=0588.240|dkj=16722|dj=0980.300|hdz=42380.020|uh=6BCC}}
 
 ----
 
@@ -42,14 +42,17 @@
 # {{defn|lang=ja|sort=毋00}}
 
 ====Readings====
-* {{ja-readings|on=[[かん]] (kan)|kun=[[つらぬく]] (tsuranuku)}}
+{{ja-readings
+|on=かん
+|kun=つらぬく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+{{ko-hanja|관}}
 
 # [[꿰뚫을]]: [[pierce]]
 
@@ -58,7 +61,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=毋00| hanviet = vô}}
+{{vi-readings|rs=毋00|reading=vô}}
 
 # {{defn|lang=vi|sort=毋00}}
 
