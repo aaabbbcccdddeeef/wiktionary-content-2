@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=06|sn=10|four=|canj=DLWP|ids=⿰[[木]][[曳]]}}
 
 ====References====
-* {{Han ref|kx=0523.060|dkj=14719|dj=0911.050|hdz=21198.060|uh=6827|ud=26663}}
+{{Han ref|kx=0523.060|dkj=14719|dj=0911.050|hdz=21198.060|uh=6827}}
 
 ----
 
@@ -29,7 +29,10 @@
 # {{defn|lang=ja|sort=木06}}
 
 ====Readings====
-* {{ja-readings|on=[[えい]] (ei), [[せつ]] (setsu), [[せち]] (sechi)|kun=[[かい]] (kai)}}
+{{ja-readings
+|on=えい, せつ, せち
+|kun=かい
+}}
 
 ----
 
@@ -45,7 +48,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木06|hanviet=dại}}
+{{vi-readings|rs=木06|reading=dại}}
 
 # {{defn|lang=vi|sort=木06}}
 
