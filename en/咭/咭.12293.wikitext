@@ -9,7 +9,7 @@
 # {{lb|yue|Cantonese}} [[young]] and [[pretty]] (from English '[[kid]]')
 
 ====References====
-* {{Han ref|kx=0186.170|dkj=03544|dj=0406.020|hdz=10611.060|uh=54AD|ud=21677|bh=CDFC|bd=52732}}
+{{Han ref|kx=0186.170|dkj=03544|dj=0406.020|hdz=10611.060|uh=54AD}}
 
 ----
 
@@ -65,7 +65,10 @@ Borrowed from {{bor|zh|en|card}}.
 # {{defn|lang=ja|sort=口06}}
 
 ====Readings====
-* {{ja-readings|on=[[きつ]] (kitsu), [[ぎち]] (gichi), [[かつ]] (katsu), [[けち]] (kechi)|kun=[[こえのさま]] (koenosama)}}
+{{ja-readings
+|on=きつ, ぎち, かつ, けち
+|kun=こえのさま
+}}
 
 ----
 
@@ -81,6 +84,6 @@ Borrowed from {{bor|zh|en|card}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=口06| hanviet = gắt}}
+{{vi-readings|rs=口06|reading=gắt}}
 
 # {{defn|lang=vi|sort=口06}}
