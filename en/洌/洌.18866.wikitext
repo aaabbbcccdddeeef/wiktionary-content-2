@@ -10,7 +10,7 @@
 # to [[cleanse]]
 
 ====References====
-* {{Han ref|kx=0619.290|dkj=17364|dj=1015.010|hdz=31605.050|uh=6D0C|ud=27916|bh=AC7B|bd=44155}}
+{{Han ref|kx=0619.290|dkj=17364|dj=1015.010|hdz=31605.050|uh=6D0C}}
 
 ----
 
@@ -45,7 +45,10 @@
 # {{defn|lang=ja|sort=水06}}
 
 ====Readings====
-* {{ja-readings|on=[[れつ]] (retsu)|kun=[[きょい]] (kyoi)}}
+{{ja-readings
+|on=れつ
+|kun=きょい
+}}
 
 ----
 
@@ -61,6 +64,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水06| hanviet = rét}}
+{{vi-readings|rs=水06|reading=rét}}
 
 # {{defn|lang=vi|sort=水06}}
