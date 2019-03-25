@@ -6,7 +6,7 @@
 {{Han char|rn=38|rad=女|as=15|sn=18|four=43469|canj=VJHW|ids=⿰女審}}
 
 ====References====
-* {{Han ref|kx=0273.190|dkj=06851|hdz=21089.040|uh=5B38|ud=23352|bh=C254|bd=49748}}
+{{Han ref|kx=0273.190|dkj=06851|hdz=21089.040|uh=5B38}}
 
 ----
 
@@ -50,13 +50,15 @@ Monosyllabic fusion of {{ltc-l|叔母|father's younger brother + wife}}.
 # {{defn|lang=ja|sort=女15}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=}}
+{{ja-readings
+|on=しん
+}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=女15|hanviet=thím}}
+{{vi-readings|rs=女15|reading=thím}}
 
 # {{defn|lang=vi|sort=女15}}
