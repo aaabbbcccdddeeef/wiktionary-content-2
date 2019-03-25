@@ -5,7 +5,7 @@
 {{Han char|rn=75|rad=木|as=09|sn=13|four=47947|canj=DHJE|ids=⿰木段}}
 
 ====References====
-* {{Han ref|kx=0537.230|dkj=15075|hdz=21251.080|uh=6934|ud=26932|bh=DDE0|bd=56800}}
+{{Han ref|kx=0537.230|dkj=15075|hdz=21251.080|uh=6934}}
 
 ----
 
@@ -40,14 +40,17 @@
 # {{defn|lang=ja|sort=木09}}
 
 ====Readings====
-* {{ja-readings|on=[[たん]] (tan), [[だん]] (dan)|kun=[[むくげ]] (mukuge), [[くい]] (kui), [[とどまつ]] (todomatsu)}}
+{{ja-readings
+|on=たん, だん
+|kun=むくげ, くい, とどまつ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+{{ko-hanja|단}}
 
 # {{defn|lang=ko|sort=木09}}
 
@@ -56,7 +59,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木09|hanviet=đoàn}}
+{{vi-readings|rs=木09|reading=đoàn}}
 
 # {{defn|lang=vi|sort=木09}}
 
