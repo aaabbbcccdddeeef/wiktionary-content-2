@@ -6,7 +6,7 @@
 {{Han char|rn=75|rad=木|as=16|sn=20|four=41911|canj=DMHM|ids=⿰木歷}}
 
 ====References====
-* {{Han ref|kx=0561.160|dkj=15846|dj=0950.070|hdz=21316.110|uh=6AEA|ud=27370|bh=F455|bd=62549}}
+{{Han ref|kx=0561.160|dkj=15846|dj=0950.070|hdz=21316.110|uh=6AEA}}
 
 ----
 
@@ -40,7 +40,10 @@
 # [[oak]]
 
 ====Readings====
-* {{ja-readings|on=[[れき]] (reki)|kun=[[かいばおけ]] (kaibaoke), [[くぬぎ]] (kunugi)}}
+{{ja-readings
+|on=れき
+|kun=かいばおけ, くぬぎ
+}}
 
 ----
 
@@ -56,7 +59,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木16|hanviet=lịch}}
+{{vi-readings|rs=木16|reading=lịch}}
 
 # {{defn|lang=vi|sort=木16}}
 
