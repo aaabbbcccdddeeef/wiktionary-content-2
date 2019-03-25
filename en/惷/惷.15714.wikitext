@@ -11,7 +11,7 @@
 # [[fat]]
 
 ====References====
-* {{Han ref|kx=0392.330|dkj=10864|dj=0728.160|hdz=42320.040|uh=60F7|ud=24823|bh=DD65|bd=56677}}
+{{Han ref|kx=0392.330|dkj=10864|dj=0728.160|hdz=42320.040|uh=60F7}}
 
 ----
 
@@ -47,14 +47,17 @@
 # {{defn|lang=ja|sort=心09}}
 
 ====Readings====
-* {{ja-readings|on=[[しゅん]] (shun)|kun=[[みだれる]] (midareru)}}
+{{ja-readings
+|on=しゅん
+|kun=みだれる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=준|eumhun=|rv=jun|mr=chun|y=cwun}}
+{{ko-hanja|준}}
 
 # {{defn|lang=ko|sort=心09}}
 
@@ -63,6 +66,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心09|hanviet=xuẩn}}
+{{vi-readings|rs=心09|reading=xuẩn}}
 
 # {{defn|lang=vi|sort=心09}}
