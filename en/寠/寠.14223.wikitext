@@ -8,7 +8,7 @@
 # [[poor]], [[impoverished]]
 
 ====References====
-* {{Han ref|kx=0290.180|dkj=07285|dj=0574.250|hdz=20948.020|uh=5BE0|ud=23520|bh=E17E|bd=57726}}
+{{Han ref|kx=0290.180|dkj=07285|dj=0574.250|hdz=20948.020|uh=5BE0}}
 
 ----
 
@@ -29,7 +29,11 @@
 # {{defn|lang=ja|sort=宀11}}
 
 ====Readings====
-{{ja-readings|goon=[[く]] (ku), [[る]] (ru)|kanon=[[く]] (ku), [[ろう]] (rō)|kun=[[まずしい]] (mazushii), [[やつれる]] (yatsureru), [[ちひさい]] (chihisai)}}
+{{ja-readings
+|goon=く, る
+|kanon=く, ろう
+|kun=まずしい, やつれる, ちひさい
+}}
 
 ----
 
@@ -45,6 +49,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=宀11|hanviet=lũ}}
+{{vi-readings|rs=宀11|reading=lũ}}
 
 # {{defn|lang=vi|sort=宀11}}
