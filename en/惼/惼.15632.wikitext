@@ -7,7 +7,7 @@
 # [[narrow-minded]]
 
 ====References====
-* {{Han ref|kx=0393.080|dkj=10872|dj=0729.060|hdz=42331.110|uh=60FC|ud=24828|bh=D947|bd=55623}}
+{{Han ref|kx=0393.080|dkj=10872|dj=0729.060|hdz=42331.110|uh=60FC}}
 
 ----
 
@@ -44,14 +44,16 @@
 # [[narrow-minded]]
 
 ====Readings====
-* {{ja-readings|on=[[へん]] (hen)|kun=}}
+{{ja-readings
+|on=へん
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=편|eumhun=|rv=pyeon|mr=p'yŏn|y=phyen}}
+{{ko-hanja|편}}
 
 # [[narrow-minded]]
 
@@ -60,6 +62,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心09|hanviet=bẽn}}
+{{vi-readings|rs=心09|reading=bẽn}}
 
 # {{defn|lang=vi|sort=心09}}
