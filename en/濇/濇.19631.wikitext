@@ -6,7 +6,7 @@
 {{Han char|rn=85|rad=水|as=13|sn=16|four=34161|canj=EGOW|ids=⿰氵嗇}}
 
 ====References====
-* {{Han ref|kx=0654.270|dkj=18448|dj=1065.050|hdz=31754.020|uh=6FC7|ud=28615|bh=E9EC|bd=59884}}
+{{Han ref|kx=0654.270|dkj=18448|dj=1065.050|hdz=31754.020|uh=6FC7}}
 
 ----
 
@@ -50,14 +50,17 @@
 # {{defn|lang=ja|sort=水13}}
 
 ====Readings====
-* {{ja-readings|on=[[しょく]] (shoku), [[しき]] (shiki), [[しゅう]] (shū)|kun=[[とどこおる]] (todokooru)}}
+{{ja-readings
+|on=しょく, しき, しゅう
+|kun=とどこおる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=색|eumhun=|rv=saek|mr=saek|y=sayk}}
+{{ko-hanja|색}}
 
 # {{defn|lang=ko|sort=水13}}
 
@@ -66,6 +69,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=水13| hanviet = sắc}}
+{{vi-readings|rs=水13|reading=sắc}}
 
 # {{defn|lang=vi|sort=水13}}
