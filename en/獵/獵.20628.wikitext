@@ -7,7 +7,7 @@
 {{Han char|rn=94|rad=犬|as=15|sn=18|four=42216|canj=KHVVV|ids=⿰犭巤}}
 
 ====References====
-* {{Han ref|kx=0720.270|dkj=20768|dj=1132.130|hdz=21376.070|uh=7375|ud=29557|bh=C279|bd=49785}}
+{{Han ref|kx=0720.270|dkj=20768|dj=1132.130|hdz=21376.070|uh=7375}}
 
 ----
 
@@ -54,7 +54,11 @@
 {{ja-kanji|grade=uc|rs=犬15|shin=猟}}
 
 ====Readings====
-{{ja-readings|goon=りょう<れふ|kanon=りょう<れふ|kun=かり-, か-る}}
+{{ja-readings
+|goon=りょう<れふ
+|kanon=りょう<れふ
+|kun=かり-, か-る
+}}
 
 {{ja-kanjitab|りょう|yomi=o}}
 
@@ -77,6 +81,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=犬15| hanviet = liệp}}
+{{vi-readings|rs=犬15|reading=liệp}}
 
 # {{defn|lang=vi|sort=犬15}}
