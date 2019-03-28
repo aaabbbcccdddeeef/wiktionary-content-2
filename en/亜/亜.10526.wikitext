@@ -17,19 +17,108 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|亜|亞}}
 
 ===Kanji===
+{{ja-kanji forms|亜|亞}}
 {{ja-kanji|grade=c|rs=二05|kyu=亞}}
 
 ====Readings====
+{{rfv-pronunciation|ja}}
 {{ja-readings
-|goon=え
-|kanon=あ, あつ, おう
-|kun=つ-ぎ, つ-ぐ
+|goon=え<!-- , あく, よう<えふ-->
+|kanon=あ<!-- , あく, おう<あふ-->
+|kun=つ-ぐ
+|nanori=つぎ,<!-- つぐる,--> みつる
 }}
 
-====References====
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|亜%槐|あ%かい}}
+* {{ja-r|亜細亜|^アジア|[[Asia]]}}
+* {{ja-r|亜相|あしょう}}
+* {{ja-r|亜字欄|あじらん}}
+* {{ja-r|亜父|あふ}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|あ|yomi=kanon}}
+From {{bor|ja|ltc|sort=あ|-}} {{ltc-l|亞}}.
+
+===Pronunciation===
+{{ja-pron|y=ko|あ}}
+
+===Prefix===
+{{ja-pos|prefix|kyu=亞|あ}}
+
+# {{lb|ja|chemistry|sort=あ}} ''[[indicate]]s a [[low]]er [[oxidation]] [[number]]'': [[-ous]] 
+#: {{ja-usex-inline|'''亜'''硫酸|'''あ'''りゅうさん|sulfur'''ous''' acid}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|亜砒酸|あひさん|[[arsenious]] [[acid]]}}
+* {{ja-r|亜燐酸|ありんさん|[[phosphorous acid]]}}
+* {{ja-r|亜硫酸|ありゅうさん|[[sulfurous acid]]}}
+* {{ja-r|亜硝酸|あしょうさん|[[nitrous acid]]}}
+* {{ja-r|亜酸化 窒素|あさんか ちっそ|[[nitrous oxide]]}}
+* {{ja-r|次亜|じあ|[[hypo-]] [[-ous]]}}
+{{der-bottom}}
+
+===Affix===
+{{ja-pos|affix|kyu=亞|あ}}
+
+# [[rank]]ing [[next]], [[come|coming]] [[after]], [[sub-]]
+#: {{ja-usex-inline|'''亜'''種|'''あ'''しゅ|'''sub'''species}}
+#: {{ja-usex-inline|'''亜'''熱帯|'''あ'''ねったい|'''sub'''tropics}}
+# {{n-g|Used as a [[phonetic]] element in [[transliteration]]s, especially}}:
+## {{short for|lang=ja|亜細亜|tr=Ajia|dot=:|sort=あ}} [[Asia]]
+## {{lb|ja|sort=あ|obsolete}} {{short for|lang=ja|亜米利加|tr=Amerika|dot=:}} [[America]], the [[United States]]
+##: replaced with {{m|ja|米|tr=bei}} in modern times
+# {{altspell|ja|堊|tr=a|sort=あ}}: [[white]] [[earth]]
+
+====Derived terms====
+{{der-top3}}
+* {{ja-r|亜鉛|あえん|[[zinc]]}}
+* {{ja-r|亜音%速|あおん%そく|[[subsonic]] [[speed]]}}
+* {{ja-r|亜温%帯|あおん%たい|[[subtemperate]] [[zone]]}}
+* {{ja-r|亜科|あか|[[suborder]], [[subfamily]] {{q|taxonomy}}}}
+* {{ja-r|亜寒%帯|あかん%たい|[[subarctic]] [[zone]]}}
+* {{ja-r|亜急%性|あきゅう%せい|[[subacute]]}}
+* {{ja-r|亜群|あぐん|[[subgroup]]}}
+* {{ja-r|亜綱|あこう|[[subclass]]}}
+* {{ja-r|亜高山%帯|あこうざん%たい|[[subalpine]] [[zone]]}}
+* {{ja-r|亜種|あしゅ|[[subspecies]]}}
+* {{ja-r|亜%聖|あ%せい|[[sage]] of the second order}}
+* {{ja-r|亜%成%層圏|あ%せい%そうけん|[[sub-]][[stratosphere]]}}
+* {{ja-r|亜%属|あ%ぞく|[[subgroup]], [[subgenus]]}}
+* {{ja-r|亜%族|あ%ぞく|[[subgroup]]}}
+* {{ja-r|亜%大%陸|あ%たい%りく|[[subcontinent]]}}
+* {{ja-r|亜脱臼|あだっきゅう|[[subluxation]]}}
+* {{ja-r|亜炭|あたん|[[brown coal]], [[lignite]]}}
+* {{ja-r|亜土壌|あどじょう|[[subsoil]]}}
+* {{ja-r|亜熱%帯|あねっ%たい|[[subtropics]]}}
+* {{ja-r|亜麻|あま|[[flax]]}}
+* {{ja-r|亜米利加|^アメリカ|[[America]], [[United States]]}}
+* {{ja-r|亜%目|あ%もく|[[suborder]]}}
+* {{ja-r|亜門|あもん|[[subphylum]]}}
+* {{ja-r|亜剌比亜|^アラビア|[[Arabia]]}}
+* {{ja-r|亜流|ありゅう}}
+* {{ja-r|亜爾加里|アルカリ|rom=-}}, {{ja-r|亜児加里|アルカリ|[[alkali]]}}
+* {{ja-r|亜爾然丁|^アルゼンチン|[[Argentina]]}}
+* {{ja-r|亜%鈴|あ%れい|[[dumbbell]]}}
+* {{ja-r|欧亜|^おうあ|[[Eurasia]]}}
+* {{ja-r|亜欧|^あおう|Eurasia}}
+* {{ja-r|興亜|こう-^あ|[[Asian]] [[development]]}}
+* {{ja-r|東南亜|^とうなんあ|[[Southeast Asia]]}}
+* {{ja-r|東亜|^とうあ|[[East Asia]]}}
+* {{ja-r|白%亜|はく%あ|[[chalk]]}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|kyu=亞|あ}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=あ}}
+
+===References===
 {{ja-kref
 |jis=3021
 |ku=1601
@@ -43,89 +132,5 @@
 |heisig=1809
 |tuttle=0a7.14
 }}
-
-====Usage notes====
-* Also used phonetically for あ (a)
-
-===Etymology===
-{{ja-kanjitab|あ|yomi=kanon}}
-From {{der|ja|ltc|sort=あ|-}} {{ltc-l|亞}}.
-
-The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
-
-===Pronunciation===
-{{ja-pron|あ}}
-
-===Prefix===
-{{ja-pos|prefix|あ}}
-
-# {{lb|ja|chemistry|sort=あ}} [[-ous]] {{gloss|indicates a lower oxidation number}}
-#: {{ja-usex-inline|'''亜'''硫%酸|'''あ'''りゅう%さん|sulfur'''ous''' acid}}
-
-====Derived terms====
-{{der-top|-ous {{q|chemistry}}}}
-* {{ja-r|次%亜|じ%あ|[[hypo-]] [[-ous]] {{q|chemistry}}}}
-* {{ja-r|亜%砒%酸|あ%ひ%さん|[[arsenious]] [[acid]]}}
-* {{ja-r|亜%燐%酸|あ%りん%さん|[[phosphorous acid]]}}
-* {{ja-r|亜%硫%酸|あ%りゅう%さん|[[sulfurous acid]]}}
-* {{ja-r|亜%硝%酸|あ%しょう%さん|[[nitrous acid]]}}
-* {{ja-r|亜%酸%化 窒%素|あ%さん%か ちっ%そ|[[nitrous oxide]]}}
-{{der-bottom}}
-
-====See also====
-* {{ja-r|次%亜|じ%あ-}}
-
-===Affix===
-{{ja-pos|affix|あ}}
-
-# [[rank]]ing [[next]]; [[come|coming]] [[after]]; [[sub-]]
-#: {{ja-usex-inline|'''亜'''種|'''あ'''しゅ|'''sub'''species}}
-#: {{ja-usex-inline|'''亜'''熱%帯|'''あ'''ねっ%たい|'''sub'''tropics}}
-# {{n-g|Used as a phonetic element in transliterations.}}
-# {{short for|lang=ja|亜細亜||[[Asia]]|tr=Asia|sort=あしあ}}
-
-====Derived terms====
-{{der-top|second rank, sub-}}
-* {{ja-r|亜%鉛|あ%えん|[[zinc]]}}
-* {{ja-r|亜%鉛%鉄|あ%えん%てつ|[[galvanized]] [[iron]]}}
-* {{ja-r|亜%音%速|あ%おん%そく|[[subsonic]] [[speed]]}}
-* {{ja-r|亜%温%帯|あ%おん%たい|[[subtemperate]] [[zone]]}}
-* {{ja-r|亜%寒%帯|あ%かん%たい|[[subarctic]] [[zone]]}}
-* {{ja-r|亜%熱%帯|あ%ねっ%たい|[[subtropics]]}}
-* {{ja-r|亜%大%陸|あ%たい%りく|[[subcontinent]]}}
-* {{ja-r|亜%脱%臼|あ%だっ%きゅう|[[subluxation]]}}
-* {{ja-r|亜%急%性|あ%きゅう%せい|[[subacute]]}}
-* {{ja-r|亜%成%層%圏|あ%せい%そう%けん|[[substratosphere]]}}
-* {{ja-r|亜%高%山%帯|あ%こう%ざん%たい|[[subalpine]] [[zone]]}}
-{{der-mid}}
-* {{ja-r|亜%群|あ%ぐん|[[subgroup]]}}
-* {{ja-r|亜%綱|あ%こう|[[subclass]]}}
-* {{ja-r|亜%科|あ%か|[[suborder]], [[subfamily]] {{q|taxonomy}}}}
-* {{ja-r|亜%種|あ%しゅ|[[subspecies]]}}
-* {{ja-r|亜%属|あ%ぞく|[[subgroup]], [[subgenus]]}}
-* {{ja-r|亜%族|あ%ぞく|[[subgroup]]}}
-* {{ja-r|亜%目|あ%もく|[[suborder]]}}
-* {{ja-r|亜%門|あ%もん|[[subphylum]]}}
-* {{ja-r|亜%流|あ%りゅう}}
-* {{ja-r|亜%聖|あ%せい|sage of the second order}}
-{{der-bottom}}
-
-{{der-top|abbreviation for Asia}}
-* {{ja-r|欧%亜|^おう%あ|[[Eurasia]]}}
-* {{ja-r|亜%欧|^あ%おう|[[Eurasia]]}}
-* {{ja-r|興%亜|こう%-^あ|[[Asian]] [[development]]}}
-* {{ja-r|東%南%亜|^とう%なん%あ|[[Southeast Asia]]}}
-* {{ja-r|東%亜|^とう%あ|[[East Asia]]}}
-{{der-bottom}}
-
-{{der-top|(others)}}
-* {{ja-r|白%亜|はく%あ|[[chalk]]}}
-* {{ja-r|白%亜%紀|^はく%あ%き|[[Cretaceous]] {{q|paleontology}}}}
-* {{ja-r|白%亜%質|はく%あ%しつ|[[chalky]]}}
-{{der-mid}}
-* {{ja-r|亜%炭|あ%たん|[[brown coal]], [[lignite]]}}
-* {{ja-r|亜%麻|あ%ま|[[flax]]}}
-* {{ja-r|亜%鈴|あ%れい|[[dumbbell]]}}
-{{der-bottom}}
 
 [[Category:ja:Taxonomy]]
