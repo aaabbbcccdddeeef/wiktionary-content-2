@@ -79,11 +79,12 @@
 
 ===Etymology 1===
 {{wikipedia|lang=ja}}
-{{ja-kanjitab|つめ|yomi=k}}
-Ultimately from {{inh|ja|jpx-pro|*tumay}}.
+{{ja-kanjitab|yomi=k|つめ}}
+
+From {{inh|ja|ojp|sort=つめ|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> in turn from {{inh|ja|jpx-pro|sort=つめ|*tumay}}.  The standalone form of ''tsuma'' below.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Likely derived as a fusion of ''tsuma'' + emphatic nominalizing particle {{ja-r|い}}, similar to the phonetic development of {{m|ja|目|tr=me|pos=from ''ma'' + ''i''}} or {{m|ja|神|tr=kami|pos=from ''kamu'' + ''i''}}.  
 
 ====Pronunciation====
-{{ja-pron|つめ|acc=0|acc_ref=DJR}}
+{{ja-pron|yomi=k|つめ|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|つめ}}
@@ -96,8 +97,9 @@ Ultimately from {{inh|ja|jpx-pro|*tumay}}.
 }}
 
 ===Etymology 2===
-{{ja-kanjitab|つま|yomi=k}}
-Ultimately from {{inh|ja|jpx-pro|*tumay}}.
+{{ja-kanjitab|yomi=k|つま}}
+
+From {{inh|ja|ojp|sort=つま|-}}, presumably in turn from {{inh|ja|jpx-pro|sort=つま|*tuma}}.  The root form of ''tsume'' above, generally only used in compounds.  Cognate with {{m|ja|端|tr=tsuma||[[edge]], [[side]] of something}} and {{m|ja|妻|tr=tsuma||[[wife]]|pos=original sense of “[[spouse]]”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Affix====
 {{ja-pos|affix|つま}}
@@ -105,14 +107,16 @@ Ultimately from {{inh|ja|jpx-pro|*tumay}}.
 # {{lb|ja|only in compounds}} [[nail]]; [[claw]]
 
 =====Derived terms=====
-{{der3|lang=ja
-| {{ja-r|爪先|つまさき}}
-}}
-
-=====Related terms=====
-{{der3|lang=ja
-| {{ja-r|摘まむ|つまむ}}, {{ja-r|摘む|つむ}}
-}}
+{{der-top}}
+* {{ja-r|爪音|つまおと|the sound of a [[stringed instrument]] when [[pluck]]ed with a [[pick]] or [[plectrum]]; the [[sound]] of a [[horse]]'s [[hoofbeat]]}}
+* {{ja-r|爪折る|つまおる|to [[pick]] or [[break]] something off with one's [[fingernail]]s}}
+* {{ja-r|爪%隠|つま%かくし|rom=-}}, {{ja-r|爪%隠し|つま%かくし|[[hiding]] one's [[claw]]s; a kind of ''[[zōri]]'' [[grass]] [[sandal]], where the front end extends and folds over the tops of the [[toe]]s}}
+* {{ja-r|爪先|つまさき|tiptoe}}
+* {{ja-r|摘まむ|つまむ|to [[pinch]]; to [[pick at]]; to [[pick up|pick]] something [[pick up|up]] with the [[tip]]s of one's [[finger]]s}}
+* {{ja-r|摘む|つむ|to [[pick up|pick]] something [[pick up|up]] with the [[tip]]s of one's [[finger]]s; to [[snip]] the [[tip]] off of something}}
+* {{ja-r|躓く|つまずく|to [[stumble]]}}
+* {{ja-r|爪楊枝|つま ようじ|a small [[toothpick]]}}
+{{der-bottom}}
 
 ===References===
 <references />
