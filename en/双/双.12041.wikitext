@@ -4,39 +4,46 @@
 {{stroke order}}
 {{ja-forms|双|双|[[雙]]}}
 
-===Etymology===
-
-{{Han simp|䨇|f=雔|t=&nbsp;}} also [[䨇]] is the variant form of [[雙]].
-
 ===Han character===
 {{Han char|rn=29|rad=又|as=02|sn=4|four=77440|canj=EE,XEE|ids=⿰又又}}
 
-# set of [[two]], [[pair]], [[couple]], [[double]]
-# [[both]]
-# [[twins]]
+====Derived characters====
+* {{l|mul|[[𪥫]], [[𫹷]], [[㧐]], [[𨑱]], [[𧉐]], [[叒]], [[𣏪]], [[叕]], [[𫁷]], [[聂]], [[𠓰]], [[𨥖]], [[𨋌]], [[轰]], [[𫡱]], [[𡛒]], [[𭩞]], [[𤘩]], [[𠬺]], [[𫨹]], [[𠭎]], [[𫌵]], [[𫩅]], [[𩐂]], [[𩢂]], [[𩿏]], [[𠮆]], [[𦉳]], [[𡇄]], [[𨳦]], [[𨨭]], [[𭃲]]}}
+
+====Related characters====
+* {{l|mul|雙}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
 
 ====References====
-* {{Han ref|kx=0165.170|dkj=03125|dj=0375.020|hdz=10393.090|uh=53CC|ud=21452}}
+{{wikidata|Q55408123}}
+{{Han ref|kx=0165.170|dkj=03125|dj=0375.020|hdz=10393.090|uh=53CC}}
 
 ----
 
 ==Chinese==
 
 ===Glyph origin===
-{{zh-etym-double|又|}}
+{{Han simp|䨇|f=雔|t=&nbsp;}}, which is also a [[w:Variant Chinese character|variant form]] of {{zh-l|雙*}}.
+
+The earliest known record can be found in [[w:Ming dynasty|Ming dynasty]] {{w2|zh|pref=《|s:俗書刋誤_(四庫全書本)/卷01#嘗|俗書刊誤|suf=》}}.
 
 ===Definitions===
-{{zh-see|雙}}
+{{zh-see|雙|sv}}
+
+===References===
+* {{R:twedu|A04463-004}}
+
+{{zh-cat|Duplicated}}
 
 ----
 
 ==Japanese==
 {{ja-kanji forms|双|雙}}
 
+===Glyph origin===
+Listed in the 1946 [[w:tōyō kanji|tōyō kanji]] as a [[shinjitai]] of {{ja-l|雙}}. Based on an unorthodox variant of {{zh-l|雙*}} that can be traced back to the [[w:Ming dynasty|Ming dynasty]] in China.
+
 ===Kanji===
 {{ja-kanji|grade=c|rs=又02|kyu=雙}}
-
-# pair
 
 ====Readings====
 {{ja-readings
@@ -47,27 +54,78 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|一%双|いっ%そう}}: pair
-* {{ja-r|双%子|ふた%ご}}: twins, a twin
-* {{ja-r|双%葉|ふた%ば}}: bud, sprout
-* {{ja-r|双%六|すご%ろく}}: a child's dice game
-* {{ja-r|双%眼|そう%がん}}: binocular
-* {{ja-r|双%肩|そう%けん}}: shoulders
-* {{ja-r|双%子%葉 植%物|そう%し%よう しょく%ぶつ}}: dicotyledon
-* {{ja-r|双%生|そう%せい}}: twinning
-* {{ja-r|双%清|そう%せい}}: [[painting]]s of [[daffodil]]s and [[ume]] flowers
-* {{ja-r|双%頭|そう%とう}}: double-headed
-* {{ja-r|双%璧|そう%へき}}: pair of bright jewels
-* {{ja-r|双%方|そう%ほう}}: two way, both parties
-{{der-bottom}}
+* {{ja-r|双%六|すご%ろく|a child's dice game}}
 
+===Etymology 1===
 {{ja-kanjitab|ふた|yomi=k}}
+{{rfelite|ja}}
 
-===Noun===
+====Pronunciation====
+{{ja-pron|ふた|yomi=k}}
+
+====Noun====
 {{ja-noun|ふた|kyu=雙}}
 
 # [[set]] of [[two]], [[pair]]
+
+=====Derived terms=====
+* {{ja-r|双%子|ふた%ご|twins, a twin}}
+* {{ja-r|双%葉|ふた%ば|bud, sprout}}
+
+===Etymology 2===
+{{ja-kanjitab|そう|yomi=o}}
+Compare {{cog|ltc|-}} {{ltc-l|雙}}.
+
+====Pronunciation====
+{{ja-pron|そう|yomi=o}}
+
+====Adjective====
+{{ja-adj|そう|kyu=雙}}
+
+# [[pair]]; [[double]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|双%眼|そう%がん|binocular}}
+* {{ja-r|双%肩|そう%けん|shoulders}}
+* {{ja-r|双%子%葉 植%物|そう%し%よう しょく%ぶつ|dicotyledon}}
+* {{ja-r|双%生|そう%せい|twinning}}
+* {{ja-r|双%清|そう%せい|[[painting]]s of [[daffodil]]s and [[ume]] flowers}}
+* {{ja-r|双%頭|そう%とう|double-headed}}
+* {{ja-r|双%璧|そう%へき|pair of bright jewels}}
+* {{ja-r|双%方|そう%ほう|two way, both parties}}
+* {{ja-r|一%双|いっ%そう|pair}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|쌍}}
+
+# {{alt form|lang=ko|雙}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo}}
+
+{{categorize|ko|Hanja variant forms}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|sort=又02
+|hanviet=song-tdcndg;tdcntd;gdhn
+|phienthiet=
+|nom=song-tdcndg;tdcntd;gdhn, xong-tdcndg;tdcntd, rông-gdhn, rong-gdhn
+}}
+
+# {{alt form|lang=vi|雙}}
+
+===References===
+<references/>
 
 ----
 
