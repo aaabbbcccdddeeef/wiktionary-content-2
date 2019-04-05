@@ -1,16 +1,22 @@
 {{also|萬|方|ㄪ}}
 {{character info/new}}
-
 {{commonscat}}
 ==Translingual==
-{{stroke order|type=animate}}
 {{stroke order|strokes=3}}
+{{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=1|rad=一|as=02|sn=3|four=10227|canj=MS|ids=⿸丆𠃌}}
 
+====Derived characters====
+* {{l|mul|[[𭜌]], [[𬇕]], [[杤]], [[迈]], [[𥸯]], [[劢]], [[𭔩]], [[𫔬]], [[虿]], [[趸]], [[厉]], [[𡧊]], [[疠]], [[𬮙]], [[𡆭]], [[栃]], [[䥿]]}}
+
+====Related characters====
+* {{l|mul|萬}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
+
 ====References====
-* {{Han ref|kx=0076.030|dkj=00010|dj=0137.070|hdz=10009.030|uh=4E07|ud=19975|bh=C945|bd=51525}}
+{{wikidata|Q3594918}}
+{{Han ref|kx=0076.030|dkj=00010|dj=0137.070|hdz=10009.030|uh=4E07}}
 
 ----
 
@@ -52,6 +58,9 @@ Also used in a trisyllabic surname.
 
 # {{zh-only used in|万俟}}
 
+===References===
+* {{R:twedu|B00001}}
+
 ----
 
 ==Japanese==
@@ -59,9 +68,6 @@ Also used in a trisyllabic surname.
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=一02|kyu=萬}}
-
-# [[myriad]], ten thousand
-# very many
 
 ====Readings====
 As a simplification and variant of {{l|ja|萬}}:
@@ -79,43 +85,10 @@ As part of the surname {{l|ja|万俟}}:
 |kanon=ぼく
 }}
 
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|万一|まんいち|[[perhaps]]}}
-* {{ja-r|万引|まんびき|[[shoplifting]]}}
-* {{ja-r|万%屋|よろず%や|general [[merchant]]}}
-* {{ja-r|万華%鏡|まんげ%きょう|[[kaleidoscope]]}}
-* {{ja-r|万感|ばんかん|flood of [[emotion|emotions]]}}
-* {{ja-r|万機|まんき|state affairs}}
-* {{ja-r|万芸|ばんげい|[[versatility]]}}
-* {{ja-r|万古|ばんこ|[[old time]], all this [[time]], [[eternity]]}}
-* {{ja-r|万劫|ばんごう|an extremely long period of time}}
-* {{ja-r|万才|まんさい|[[ten thousand]] years old}}
-* {{ja-r|万作|まんさく|[[witch hazel]]}}
-* {{ja-r|万死|ばんし|critical state of the life}}
-* {{ja-r|万寿|ばんじゅ}}, {{ja-r|万寿|まんじゅ|[[longevity]]}}
-* {{ja-r|万丈|ばんじょう|[[hurrah]]}}
-* {{ja-r|万乗|ばんじょう|[[sovereignty]]}}
-* {{ja-r|万状|ばんじょう|[[diversification]]}}
-* {{ja-r|万善|まんぜん|[[ten thousand]] [[virtue|virtues]]}}
-* {{ja-r|万全|まんぜん|[[perfect]]}}
-* {{ja-r|万灯|まんどう|[[ten thousand]] lights}}
-* {{ja-r|万博|ばんぱく|[[international]] [[exposition]]}}
-* {{ja-r|万歩計|まんぽけい|[[pedometer]]}}
-* {{ja-r|万万|ばんばん|[[very much]]}}
-* {{ja-r|万民|ばんみん|[[all]] the [[people]], the [[entire]] [[nation]]}}
-* {{ja-r|万有|ばんゆう}}
-* {{ja-r|万葉%仮名|まんよう%がな}}
-* {{ja-r|万葉%集|まんよう%しゅう}}
-* {{ja-r|万力|まんりき}}
-* {{ja-r|万斛|ばんこく}}
-* {{ja-r|万軍|ばんぐん}}
-{{der-bottom}}
-
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|まん}}
 
-From {{bor|ja|ltc|sort=まん|-}} {{ltc-l|万}}.
+From {{der|ja|ltc|sort=まん|-}} {{ltc-l|万|id=1}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanyo|まん|acc=1|acc_ref=DJR,NHK,SMK5}}
@@ -133,12 +106,27 @@ From {{bor|ja|ltc|sort=まん|-}} {{ltc-l|万}}.
 #*: {{ja-usex|３'''万'''年も生きつづけている巨%大カメ。守%備%力が高い。|３'''まん'''-ねんもいきつづけているきょ%だいカメ。しゅ%び%りょくがたかい。|rom=San'''man'''-nen mo ikitsuzukete iru kyodai kame. Shubiryoku ga takai.|A giant turtle that has lived for over 3'''0,000''' years. It has high defense strength.}}
 
 =====Derived terms=====
+{{der-top3}}
+* {{ja-r|万%一|まん%いち|[[perhaps]]}}
 * {{ja-r|万が一|まんがいち}}
+* {{ja-r|万%機|まん%き|state affairs}}
+* {{ja-r|万%華%鏡|まん%げ%きょう|[[kaleidoscope]]}}
+* {{ja-r|万%才|まん%さい|[[ten thousand]] years old}}
+* {{ja-r|万%作|まん%さく|[[witch hazel]]}}
+* {{ja-r|万%善|まん%ぜん|[[ten thousand]] [[virtue|virtues]]}}
+* {{ja-r|万%全|まん%ぜん|[[perfect]]}}
+* {{ja-r|万%灯|まん%どう|[[ten thousand]] lights}}
+* {{ja-r|万%引|まん%びき|[[shoplifting]]}}
+* {{ja-r|万%歩%計|まん%ぽ%けい|[[pedometer]]}}
+* {{ja-r|万%葉%仮%名|まん%よう%が%な}}
+* {{ja-r|万%葉%集|まん%よう%しゅう}}
+* {{ja-r|万%力|まん%りき}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=o|ばん}}
 
-From {{bor|ja|ltc|sort=はん'|-}} {{ltc-l|万}}.
+From {{der|ja|ltc|sort=はん'|-}} {{ltc-l|万|id=1}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kan|ばん|acc=1|acc_ref=DJR,NHK,SMK5}}
@@ -154,6 +142,25 @@ From {{bor|ja|ltc|sort=はん'|-}} {{ltc-l|万}}.
 
 # [[many]]
 # [[all]]
+
+====Derived terms====
+{{der-top3}}
+* {{ja-r|万%感|ばん%かん|flood of [[emotion|emotions]]}}
+* {{ja-r|万%軍|ばん%ぐん}}
+* {{ja-r|万%芸|ばん%げい|[[versatility]]}}
+* {{ja-r|万%古|ばん%こ|[[old time]], all this [[time]], [[eternity]]}}
+* {{ja-r|万%斛|ばん%こく}}
+* {{ja-r|万%劫|ばん%ごう|an extremely long period of time}}
+* {{ja-r|万%死|ばん%し|critical state of the life}}
+* {{ja-r|万%寿|ばん%じゅ}}, {{ja-r|万%寿|まん%じゅ|[[longevity]]}}
+* {{ja-r|万%丈|ばん%じょう|[[hurrah]]}}
+* {{ja-r|万%乗|ばん%じょう|[[sovereignty]]}}
+* {{ja-r|万%状|ばん%じょう|[[diversification]]}}
+* {{ja-r|万%博|ばん%ぱく|[[international]] [[exposition]]}}
+* {{ja-r|万%万|ばん%ばん|[[very much]]}}
+* {{ja-r|万%民|ばん%みん|[[all]] the [[people]], the [[entire]] [[nation]]}}
+* {{ja-r|万%有|ばん%ゆう}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|よろず}}
@@ -171,11 +178,44 @@ Appears to be a compound or inflection, but the derivation is unclear.
 {{ja-noun|kyu=萬|よろず|hhira=よろづ}}
 
 # [[ten thousand]]
-# a large number
+# a [[large]] [[number]]
 # [[all]], [[everything]]
+
+=====Derived terms=====
+* {{ja-r|万%屋|よろず%や|general [[merchant]]}}
 
 ===References===
 <references/>
 
 [[Category:Japanese basic words|まん]]
 [[Category:Japanese numeral symbols|10000]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|만}}
+
+# {{alt form|lang=ko|萬}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo}}
+
+{{categorize|ko|Hanja variant forms}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|sort=一02
+|hanviet=vạn-tdcntd;gdhn
+|phienthiet=
+|nom=vàn-gdhn;btcn, vạn-tdcntd, muôn-gdhn
+}}
+
+# {{alt form|lang=vi|萬}}
+
+===References===
+<references/>
