@@ -10,16 +10,21 @@
 # Shuōwén Jiězì radical №65
 
 ====Derived characters====
-* [[冀]] [[翼]] [[戴]] [[糞]] [[㔴]] [[潩]] [[廙]] [[趩]] [[䔬]]
+* {{l|mul|[[𭊈]], [[潩]], [[熼]], [[禩]], [[穓]], [[𧑌]], [[趩]], [[𨅜]], [[龭]]([[𩨎]]), [[𬵫]], [[𭅂]], [[兾]], [[䔬]], [[冀]], [[糞]], [[翼]], [[霬]], [[㔴]], [[𠪙]], [[𭍭]], [[廙]], [[𤺆]], [[戴]]}}
+
+====Related characters====
+* {{l|mul|异}} {{q|[[Simplified Chinese]]}}
 
 ====References====
-* {{Han ref|kx=0763.180|dkj=21866|dj=1173.050|hdz=42540.050|uh=7570|ud=30064|bh=B2A7|bd=45735}}
-* {{Han ref|uh=F962}}
+{{wikidata|Q54911372}}
+{{Han ref|kx=0763.180|dkj=21866|dj=1173.050|hdz=42540.050|uh=7570}}
+{{Han ref|uh=F962}}
+{{Han ref|uh=2F938}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=异}}
+{{zh-forms|s=异|alt=𠔱,𢄖}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -109,40 +114,41 @@ From {{der|ja|ltc|sort=|-}} {{ltc-l|異}}.  Compare modern {{cog|cmn|異|tr=yì|
 # [[other]]; [[another]]
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|異義|いぎ}}
-* {{ja-r|異議|いぎ}}
-* {{ja-r|異教|いきょう}}
-* {{ja-r|異郷|いきょう}}
-* {{ja-r|異境|いきょう}}
+{{der-top3}}
+* {{ja-r|異%義|い%ぎ}}
+* {{ja-r|異%議|い%ぎ}}
+* {{ja-r|異%教|い%きょう}}
+* {{ja-r|異%郷|い%きょう}}
+* {{ja-r|異%境|い%きょう}}
 * {{ja-r|異%才|い%さい}}
 * {{ja-r|異%彩|い%さい}}
-* {{ja-r|異種|いしゅ}}
-* {{ja-r|異趣|いしゅ}}
-* {{ja-r|異状|いじょう}}
-* {{ja-r|異常|いじょう}}
+* {{ja-r|異%種|い%しゅ}}
+* {{ja-r|異%趣|い%しゅ}}
+* {{ja-r|異%状|い%じょう}}
+* {{ja-r|異%常|い%じょう}}
 * {{ja-r|異%色|い%しょく}}
-* {{ja-r|異人|いじん}}: [[foreigner]], [[stranger]]
+* {{ja-r|異%人|い%じん}}: [[foreigner]], [[stranger]]
 * {{ja-r|異%国%人|い%こく%じん}}: [[foreigner]], [[stranger]]
-* {{ja-r|異相|いそう}}
+* {{ja-r|異%相|い%そう}}
 * {{ja-r|異%俗|い%ぞく}}
-* {{ja-r|異存|いぞん}}
-* {{ja-r|異端|いたん}}
-* {{ja-r|異途|いと}}
-* {{ja-r|異同|いどう}}
-* {{ja-r|異動|いどう}}
+* {{ja-r|異%存|い%ぞん}}
+* {{ja-r|異%端|い%たん}}
+* {{ja-r|異%途|い%と}}
+* {{ja-r|異%同|い%どう}}
+* {{ja-r|異%動|い%どう}}
 * {{ja-r|異%物|い%ぶつ}}
-* {{ja-r|異母|いぼ}}
-* {{ja-r|異邦|いほう}}: [[foreign country]]
+* {{ja-r|異%母|い%ぼ}}
+* {{ja-r|異%邦|い%ほう}}: [[foreign country]]
 * {{ja-r|異%邦%人|い%ほう%じん}}: [[foreigner]], [[stranger]]
-* {{ja-r|異様|いよう}}
-* {{ja-r|異例|いれい}}
-* {{ja-r|変異|へんい}}
+* {{ja-r|異%様|い%よう}}
+* {{ja-r|異%例|い%れい}}
+* {{ja-r|変%異|へん%い}}
 {{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|こと|yomi=k}}
 {{ja-see|こと}}
+
 ===References===
 <references/>
 
@@ -150,25 +156,55 @@ From {{der|ja|ltc|sort=|-}} {{ltc-l|異}}.  Compare modern {{cog|cmn|異|tr=yì|
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja/new|다를|이}}<br>
-{{ko-hanja/new|다를|리}}
+===Etymology 1===
 
-# {{defn|lang=ko|sort=田07}}
+====Hanja====
+{{ko-hanja|[[다르다|다를]]|이}}
 
-====Usage notes====
-In Korea, {{m|ko|異}} is sometimes pronounced {{ko-l|리}}, as in {{ko-l|^지리산|智異山}}, although the original sound of {{m|ko|異}} is only {{ko-l|이}}.<ref>{{cite-web|lang=ko|title={{lang|ko|지리산}}|work={{lang|ko|위키백과}}|url=https://ko.wikipedia.org/wiki/지리산|passage={{lang|ko|동일한 한자어가 어떤 경우에는 본음으로 나고 어떤 경우에는 속음으로 날 때, 속음으로 나는 것은 속음으로 적는다. ‘異’의 본음은 ‘이’이나 ‘智異山’에서 속음으로 소리 나므로 ‘지리산’으로 적는다.}}}}</ref> This is because of {{ko-l|활음조 현상|滑音調 現像|euphony}}.
+# {{hanja form of|이|[[different]]; [[unusual]]}}
 
-This concept (ease of pronunciation) is closely related to South Korea's establishment of initial sound law {{ko-l|두음 법칙|頭音法則}}.
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|이단|異端}}
+* {{ko-l|이교|異敎}}
+* {{ko-l|이상|異常}}
+* {{ko-l|이성|異性}}
+* {{ko-l|기이|奇異}}
+* {{ko-l|차이|差異}}
+* {{ko-l|이체자|異體字}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja|리}}
+
+# {{n-g|Only used in certain placenames}}.
+
+=====Usage notes=====
+The reading {{ko-l|리}} in certain placenames such as {{ko-l|^지리산|智異山}} is caused by {{ko-l|[[활음조]] [[현상]]|[[滑音調]] [[現像]]|euphony}} which altered the original sound from {{ko-l|이}} to {{ko-l|리}}.<ref>{{cite-web|lang=ko|title={{lang|ko|지리산}}|work={{lang|ko|위키백과}}|accessdate=7 April 2019|url=https://ko.wikipedia.org/wiki/지리산|passage={{lang|ko|동일한 한자어가 어떤 경우에는 본음으로 나고 어떤 경우에는 속음으로 날 때, 속음으로 나는 것은 속음으로 적는다. ‘異’의 본음은 ‘이’이나 ‘智異山’에서 속음으로 소리 나므로 ‘지리산’으로 적는다.}}}}</ref> This concept (ease of pronunciation) is closely related to the initial sound law {{ko-l|두음 법칙|頭音法則}} in South Korea.
+
+=====Compounds=====
+* {{ko-l|^지리산|智異山}}
 
 ===References===
-<references />
+<references/>
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[dị]]|rs=田07}}
+{{vi-readings|rs=田07
+|hanviet=dị-tdcntd;gdhn;bonet;genibrel, di-genibrel
+|phienthiet=以智 dĩ trí
+|nom=dị-tdcntd;gdhn;bonet;taberd
+}}
 
-# {{defn|lang=vi|sort=田07}}
+# {{han tu form of|dị|[[dissimilar]]; [[bizarre]]; [[unusual]]}}
+
+====Compounds====
+* {{vi-l|異端|dị đoan}}
+
+===References===
+<references/>
