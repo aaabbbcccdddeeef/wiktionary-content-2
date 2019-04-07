@@ -13,23 +13,50 @@ As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|K
 {{ja-pron|する|acc=h|y=kun|acc_ref=NHK}}
 
 ====Verb====
-{{ja-verb|type=3|tr=trans}}
+{{ja-verb|type=3|tr=both}}
 
-# to [[do]]
-#: {{ja-usex|何を'''して'''いますか。|なに を '''して''' います か。|What are you '''doing'''?}}
-# to wear (accessories)
-#: {{ja-usex|ネクタイを'''する'''。|ネクタイ を '''する'''。|I '''wear''' a necktie.}}
-# ({{l|ja|[[に]]～}}) to [[make]] into a [[certain]] [[state]]; to [[cause]] to [[become]]
-#: {{ja-usex|一人にしないで|ひとり に しないで|please don't leave me to be alone by myself}}
-#: {{ja-usex|部屋を綺麗にする|へや を きれい に する|to clean up one's room}}
-# ({{l|ja|[[を]]～}}) to [[have]]; to [[make]]
-#: {{ja-usex|怖い目つきをする|こわい めつき を する|to have an intimidating glare}}
-#  {{lb|ja|humble}} {{n-g|In the form of " {{ja-r|linkto=御|rom=-|御/御|お/ご}} + verbal noun + {{lang|ja|する}} ", a humble form of the verb.}}
-#: {{ant|ja|成る}}
-#: {{syn|ja|致す}}
-#: {{ja-r|届ける|とどける|to deliver}} - {{ja-r|linkto=|お届けする|お とどけ する|to deliver|pos=humble}}
-#: {{ja-r|伴|とも|company}} - {{ja-r|linkto=|お伴します|お とも します|to accompany|pos=humble}}
-#: {{ja-r|案内する|あんない する|to guide}} - {{ja-r|linkto=|ご案内します|ご あんない します|to guide|pos=humble}}
+# {{lb|ja|intransitive}}
+## {{q|of inanimate objects}} to [[exist]]; to [[come up]]
+##: {{ja-x|稲%光がする|いな%びかり が する|A lightning occured.}}
+##: {{ja-x|におい が する|There is a smell.}}
+## {{q|of a specified state; of a specified quality}} to [[exist]] {{q|in someone or something}} 
+##: {{ja-x|がっしりした骨%組み|がっしり した ほね%ぐみ|a rigid structure}}
+## to be [[worth]]; to have the [[value]] of
+##: {{ja-x|五%億円もする絵|ご%おく えん も する え|a painting worth 500 million yen}}
+## {{q|of time}} to [[pass]]; to [[elapse]]
+##: {{ja-x|一年もすれば忘れるだろう|いちねん も すれば わすれる だろう|It will be forgotten in one year.}}
+# {{lb|ja|transitive}}
+## to [[do]]; to [[perform]] an [[action]]
+##: {{ja-usex|何を'''して'''いますか。|なに を '''して''' います か。|What are you '''doing'''?}}
+## to [[act]] as; to play a [[role]] of
+##: {{ja-x|私が司会をする|私 が しかい を する|I am the anchorman.}}
+## to [[render]]; to [[make]] [[become]]
+##: {{n-g|Usually "A {{ja-l|を}} B {{ja-l|に}} / {{ja-l|と}} + {{lang|ja|する}} ", to make A become B.}}
+##: {{ja-usex|息子を先生にする|むすこ を せんせい に する|He is training his son to become a doctor.}}
+##: {{ja-usex|一人にしないで|ひとり に しないで|please don't leave me to be alone by myself}}
+##: {{ja-usex|部屋を綺麗にする|へや を きれい に する|to clean up one's room}}
+## {{q|to be in a specified state; to have a specified quality}} to [[be]]
+##: {{ja-usex|怖い目つきをする|こわい めつき を する|to have an intimidating glare}}
+## to wear (accessories)
+##: {{ja-usex|ネクタイを'''する'''。|ネクタイ を '''する'''。|I '''wear''' a necktie.}}
+## to [[decide]]; to [[choose]] or to make a [[judgment]]
+##: {{ja-x|まあ、これでよしとしよう|Alright, let's go with that.}}
+##: {{ja-x|出場を取りやめにする|しゅつじょう を とりやめ に する|I decided to quit the competition.}}
+# {{lb|ja|auxiliary}}
+## {{n-g|"Verbal noun + emphatic particle (e.g. {{ja-l|は}}, {{ja-l|も}}, {{ja-l|こそ}}, {{ja-l|さえ}}) + {{lang|ja|する}} ", emphasizing the verb.}}
+##: {{ja-x|雪は降りはしたが積もらなかった|ゆき は ふり は した が つもらなかった|It did snow, but the snow did not pile up.}}
+## {{n-g|"Volitional form of verb + {{ja-l|と}} + {{lang|ja|する}} ":}} to be [[about to]]; to [[incline]] to
+##: {{ja-x|日が沈もうとしている|ひ が しずもう と している|The sun is sinking.}}
+## {{n-g|" {{ja-l|に}} / {{ja-l|と}} + {{lang|ja|する}} ", to give a condition or standpoint, either real or hypothetical:}} [[if]] / [[since]]; [[assume|assuming]] that / [[now that]]
+##: {{ja-x|習%作とすれば上々の出来だ|しゅう%さく と すれば じょうじょう の でき だ|It is of a considerably good quality as for a practice writing.}}
+##: {{ja-x|親としては心配するのは当然だ|おや と して は しんぱい する の は とうぜん だ|It's inevitable to worry about that if you were the parent.}}
+##: {{ja-x|どんなに急いだにしても間に合わなかっただろう|どんな に いそいだ に して も ま に あわなかった だろう|It would never have been done in time no matter how hard we had worked.}}
+## {{lb|ja|humble}} {{n-g|" {{ja-r|linkto=御|rom=-|御/御|お/ご}} + verbal noun + {{lang|ja|する}} ", a humble form of the verb.}}
+##: {{ant|ja|成る}}
+##: {{syn|ja|致す}}
+##: {{ja-r|届ける|とどける|to deliver}} - {{ja-r|linkto=|お届けする|お とどけ する|to deliver|pos=humble}}
+##: {{ja-r|伴|とも|company}} - {{ja-r|linkto=|お伴します|お とも します|to accompany|pos=humble}}
+##: {{ja-r|案内する|あんない する|to guide}} - {{ja-r|linkto=|ご案内します|ご あんない します|to guide|pos=humble}}
 
 =====Usage notes=====
 The verb {{lang|ja|する}} (“to do”) is seldom written in kanji ({{ja-l|為る}}).
