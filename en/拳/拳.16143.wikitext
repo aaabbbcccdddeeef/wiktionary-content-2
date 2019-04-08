@@ -104,7 +104,8 @@ From {{der|ja|ltc|-}} {{ltc-l|拳}}.
 ====Suffix====
 {{ja-pos|suffix|けん}}
 
-# ''used in the names of martial art moves or styles''
+# {{lb|ja|martial arts|sort=けん}} ''used in the names of styles, or moves that involve punching''
+#:{{ant|ja|脚|tr=-kyaku}}
 #:{{ja-usex|蟷%螂'''拳'''|^とう%ろう'''けん'''|Mantis Style}}
 #:{{ja-usex|太%極'''拳'''|^たい%きょく'''けん'''|tai chi}}
 #:{{ja-usex|波%動'''拳'''|^は%どう'''けん'''|Surge Fist}}
@@ -124,6 +125,22 @@ From {{der|ja|ltc|-}} {{ltc-l|拳}}.
 |volume=1
 |isbn=4-08-617650-5}}
 #*: {{ja-usex|ペガサス流%星'''拳'''‼|^ペガサス ^りゅう%せい'''けん'''‼|Pegasus Meteor Fists‼}}
+#* {{quote-book
+|lang=ja
+|location=Tokyo
+|publisher=Shueisha
+|authorlink=Nobuhiro Watsuki
+|first=Nobuhiro
+|last=Watsuki
+|||{{wj|武装錬金|[武](ブ)[装](ソウ)[錬](レン)[金](キン)}}
+|trans-title={{w|Buso Renkin|Armed Alchemy}}
+|date=Sep 8 2004
+|isbn=4-08-873651-6
+|volume=4
+|chapter={{lj|[第](だい)36[話](わ)　カーニバル［[祭](まつり)］}}
+|trans-chapter=Chapter 32: Carnival
+||124}}
+#*: {{ja-usex|直%撃！ブラボー拳‼|^ちょく%げき！^ブラボー'''-けん'''‼|Direct! Bravo Punch‼}}
 
 ===References===
 <references />
