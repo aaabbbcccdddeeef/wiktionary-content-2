@@ -1,12 +1,16 @@
-{{also|畫}}
+{{also|畫|画}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=102|rad=田|as=08|sn=13|four=|canj=LGUW|ids=⿳𦘒一⿶凵田}}
+{{Han char|rn=102|rad=田|as=08|sn=13|four=50772|canj=LGUW|ids=⿳𦘒一⿶凵田}}
+
+====Related characters====
+* {{l|mul|畫}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
+* {{l|mul|画}} {{q|[[Simplified Chinese]] and [[shinjitai]] form of {{l|mul|畫}}}}
 
 ====References====
-* {{Han ref|kx=0764.060|dkj=21877|hdz=42549.020|uh=7575|ud=30069}}
+{{Han ref|kx=0764.060|dkj=21877|hdz=42549.020|uh=7575}}
 
 ----
 
@@ -20,35 +24,65 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=田08}}
 
-# {{defn|lang=ja|sort=田08}}
+# {{alt form|lang=ja|画}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku), [[が]] (ga), [[かい]] (kai)|kun=[[かぎる]] (kagiru), [[はかる]] (hakaru), [[はかりごと]] (hakarigoto), [[かく]] (kaku)}}
+{{ja-readings
+|on=かく, が, かい
+|kun=かぎる, はかる, はかりごと, かく
+}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=화 (획)|eumhun=그림 화|rv=hwa (hoek)|mr=hwa (hoek)|y=hwa (hoyk)}}
+===Etymology 1===
 
-# [[Picture]]
-# Brush stroke
+====Hanja====
+{{ko-hanja|그림|화}}
 
-====Words====
-# 畵數 (획수)
-# 畵面 (화면)
-# 畵家 (화가)
-# 映畵 (영화)
-# 漫畵 (만화)
-# 壁畵 (벽화)
-# 畵龍點睛 (화룡점정)
+# {{alt form|lang=ko|畫||{{hanja form of|화|[[picture]]; [[drawing]]; [[painting]]}}}}
+
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|화면|畵面}}
+* {{ko-l|화가|畵家}}
+* {{ko-l|영화|映畵}}
+* {{ko-l|만화|漫畵}}
+* {{ko-l|벽화|壁畵}}
+* {{ko-l|화룡점정|畵龍點睛}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja|긋다|그을|획}}
+
+# {{alt form|lang=ko|畫||{{hanja form of|획|to [[draw]] a [[line]]; to [[mark#Verb|mark]]}}}}
+
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|획수|畵數}}
+* {{ko-l|획출|畫出}}
+{{der-bottom}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo}}
+
+{{categorize|ko|Hanja variant forms|sort=화}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[vạch]]|rs=田08}}
+{{vi-readings|rs=田08
+|hanviet=hoạ-gdhn
+|phienthiet=
+|nom=vạch-gdhn
+}}
 
-# {{defn|lang=vi|sort=田08}}
+# {{alt form|lang=vi|畫||{{han tu form of|hoạ|to [[draw]]}}}}
+
+===References===
+<references/>
