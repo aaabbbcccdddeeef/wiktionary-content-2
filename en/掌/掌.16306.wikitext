@@ -67,7 +67,8 @@
 
 ====Readings====
 {{ja-readings
-|on=しょう
+|goon=しょう<しやう
+|kanon=しょう<しやう
 |kun=てのひら-, たなごころ-, たなそこ-, つかさど-る
 }}
 
@@ -79,14 +80,51 @@
 * {{ja-l|掌中}}
 * {{ja-l|掌典}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|てのひら|yomi=k}}
+From {{af|ja|手|の|平|tr1=te|t1=[[hand]]|tr2=no|pos2=possessive particle|tr3=hira|t3=[[flat]]|sort=てのひら}}
+
+====Alternative forms====
+* {{ja-l|手の平}}
+* {{ja-l|手のひら}}
+
+====Pronunciation====
+{{ja-pron|acc=2|acc2=1|y=k|てのひら}}
+
+====Noun====
 {{ja-noun|てのひら}}
 
-# the [[palm]] (''[[flat]] of the [[hand]]'')
+# {{lb|ja|anatomy|sort=てのひら}} a [[palm]]
 
-[[Category:Japanese basic words|てのひら]]
-[[Category:ja:Anatomy|てのひら]]
+{{cln|ja|basic words|sort=てのひら}}
 
+===Etymology 2===
+{{ja-kanjitab|たなうら|yomi=k|sort=てのひら}}
+From {{af|ja|手|な|裏|tr1=ta|tr2=na|tr3=ura|t1=[[hand]]|t3=[[back]] [[side]]; [[bottom]] side; [[face-down]] side; [[palmar]]/[[plantar]] side|sort=てのひら|pos2=archaic possessive particle}}
+
+====Noun====
+{{ja-noun|たなうら}}
+
+# {{lb|ja|anatomy|sort=てのひら}} a [[palm]]
+
+===Etymology 3===
+{{ja-kanjitab|たなごころ|yomi=k|sort=てのひら|r=y}}
+From {{af|ja|手|な|心|tr1=ta|tr2=na|tr3=kokoro|t1=[[hand]]|t3=[[heart]]; [[inside]]|sort=てのひら|pos2=archaic possessive particle}}
+
+====Noun====
+{{ja-noun|たなうら}}
+
+# {{lb|ja|anatomy|sort=てのひら}} a [[palm]]
+
+===Etymology 4===
+{{ja-kanjitab|しょう|yomi=o}}
+
+====Suffix====
+{{ja-pos|suffix|しょう|hhira=しやう}}
+
+# {{lb|ja|martial arts|sort=しょう}} ''used in the names of moves that involve hitting and pushing hard with the palm''
+
+{{cln|ja|words with multiple readings}}
 ----
 
 ==Korean==
