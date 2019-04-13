@@ -1,20 +1,25 @@
 {{also|则}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=9}}
 
 ===Han character===
 {{Han char|rn=18|rad=刀|as=07|sn=9|four=62800|canj=BCLN|ids=⿰貝刂}}
 
 ====Derived characters====
-{{lang|mul|[[側]] [[厠]] [[測]] [[廁]] [[惻]]}}
+* {{l|mul|[[側]], [[𠗧]], [[𠷌]], [[𡍫]], [[𡺢]], [[惻]], [[𢯩]], [[測]], [[𣉇]], [[𣖡]], [[𥠉]], [[𧍡]], [[鍘]], [[鰂]], [[䶡]], [[厠]], [[崱]], [[廁]], [[萴]], [[䈟]], [[𢝔]]}}
 
-===References===
-* {{Han ref|kx=0139.310|dkj=01994|dj=0317.080|hdz=10340.060|uh=5247|ud=21063|bh=AB68|bd=43880}}
+====Related characters====
+* {{l|mul|则}} {{q|[[Simplified Chinese]]}}
+
+====References====
+{{wikidata|Q54901577}}
+{{Han ref|kx=0139.310|dkj=01994|dj=0317.080|hdz=10340.060|uh=5247}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=则}}
+{{zh-forms|s=则|alt=𠞋,𠟔,𠟻,𠟭}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -80,13 +85,9 @@
 |kun=のり-, のっと-る, すなわ-ち
 }}
 
-====Compounds====
-* {{ja-r|獄則|ごくそく}}: [[prison]] [[rules]]
-* {{ja-r|反則|はんそく}}, {{ja-r|犯則|はんそく}}: [[violation]] of the [[rules]]
-
 ===Etymology 1===
 {{ja-kanjitab|そく|yomi=o}}
-From {{etyl|ltc|ja|sort=そく}} {{m|zh|則|tr=tsok||rule}}.
+From {{der|ja|ltc|sort=そく|-}} {{ltc-l|則|rule}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|そく|acc=1|acc_ref=DJR}}
@@ -94,12 +95,20 @@ From {{etyl|ltc|ja|sort=そく}} {{m|zh|則|tr=tsok||rule}}.
 ====Counter====
 {{ja-pos|counter|そく}}
 
-# counter for [[rules]]
+# [[counter]] for [[rule]]s
 
 ====Noun====
 {{ja-noun|そく}}
 
 # [[rule]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|獄%則|ごく%そく|[[prison]] [[rule]]s}}
+* {{ja-r|鉄%則|てっ%そく|[[ironclad]] [[regulation]]}}
+* {{ja-r|反%則|はん%そく}}, {{ja-r|犯%則|はん%そく|[[violation]] of the [[rule]]s}}
+* {{ja-r|変%則|へん%そく|[[irregularity]]; [[anomaly]]}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|のり|yomi=k}}
@@ -122,16 +131,47 @@ From {{etyl|ltc|ja|sort=そく}} {{m|zh|則|tr=tsok||rule}}.
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=[[칙]], [[측]]|rv=chik, cheuk|mr=ch'ik, ch'ŭk}}
+===Etymology 1===
 
-# {{defn|lang=ko|sort=刀07}}
+====Hanja====
+{{ko-hanja|법칙|칙}}
+
+# {{hanja form of|칙|[[rule]]; [[law]]; [[regulation]]}}
+
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|규칙|規則}}
+* {{ko-l|법칙|法則}}
+* {{ko-l|변칙|變則}}
+* {{ko-l|원칙|原則}}
+* {{ko-l|총칙|總則}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja|곧|즉}}
+
+# {{hanja form of|즉|{{lb|ko|grammar}} {{n-g|particle in literary Chinese texts}}}}
+#* {{quote-book|year=1818|author=[[w:Jeong Yakyong|Jeong Yakyong]], {{w2|ko|정약용|정약용(丁若鏞)|tr=-}}|title={{w2|ko|목민심서|목민심서(牧民心書)}}|chapter={{w2|ko|s:목민심서/율기#簡其騶率。溫其顏色。以詢以訪。則民無不悅矣。|율기(律己)}}|text=[[簡]][[其]][[騶]][[率]]。[[溫]][[其]][[顏]][[色]]。[[以]][[詢]][[以]][[訪]]。'''[[則]]'''[[民]][[無]][[不]][[悅]][[矣]]。|tr={{ko-l|[[간]][[기]][[추]][[률]]. [[온]][[기]][[안]][[색]]. [[이]][[순]][[이]][[방]]. '''[[즉]]'''[[민]][[무]][[불]][[열]][[의]].}}|lang=ko}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tắc]]|rs=刀07}}
+{{vi-readings|rs=刀07
+|hanviet=tắc-tdcndg;tdcntd;gdhn;bonet;genibrel, trắc-tdcndg
+|phienthiet=
+|nom=tắc-tdcndg;tdcntd;gdhn;bonet;taberd, tấc-tdcndg;tdcntd, trắc-tdcndg
+}}
 
-# {{defn|lang=vi|sort=刀07}}
+# {{han tu form of|tắc|[[law]]; [[regulation]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{vi-l|法則|phép tắc}}
+{{der-bottom}}
+
+===References===
+<references/>
