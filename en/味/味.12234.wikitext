@@ -77,7 +77,7 @@ Schuessler (2007) compared this word with Proto-Monic *''[ʔ]məp'' ("good tasti
 {{zh-der|風味|海味|味道|味精|味蕾|五味子|意味|鮮味|一味|一味禪|三月不知肉味|不夠味|不彀味|不是味|不是滋味|世味|串味|乏味|五味|人味兒|人情味|低級趣味|個中滋味|入味|六味|其味無窮|兼味|冰冷無味|別有風味|北杜味納河|南味|厚味|厚味臘毒|原味|口味|吃味|吃味兒|合口味|吟味|含味|味兒|味勝易牙|味同嚼蠟|味噌|味噌湯|味外味|味如雞肋|味素|味覺|味覺器|和味|品味|回味|回味無窮|土味|夠味|女人味|家鄉味|尋味|對味|山珍海味|情味|意味深長|找沒味兒|披味|掛味兒|易牙之味|是味兒|有味|有味兒|有味電影|有滋有味兒|枯燥無味|正味|殊滋異味|氣味|氣味相合|氣味相投|沒人味|沒味|沒味兒|沒味道|況味|津津有味|淡然無味|淡而無味|淡薄無味|滋味|滋味兒|滷味|烈味|無味|熟讀玩味|玩味|珍味|珍羞美味|珍饈百味|甘味|甜味|異味|禪味|索然無味|美味|美味可口|耐人尋味|聞韶忘味|脾味|腥味|腥臊味|膏粱厚味|膩味|臊味|臘味|臭味|臭味相投|興味|興味盎然|興味索然|舊時風味|色香味俱全|芝蘭氣味|苜蓿風味|藥味|衠一味|言語無味|語言無味|誦味|調味|調味乳|調味品|調味料|諷味|走味|走味兒|趣味|趣味橫生|蹇味兒|辣味|辨味|道學味|鄉味|野味|銅臭味|霉味|韻味|食不二味|食不兼味|食不甘味|食不知味|食不累味|食不終味|食不遑味|食不重味|食之無味，棄之不甘|食之無味，棄之可惜|食味方丈|食髓知味|餘味|餘味無窮|香味|體味}}
 
 ===Descendants===
-{{CJKV||み|j2=び|미|vị}}
+{{CJKV||み|미|vị}}
 ''Others:''
 * {{desc|bor=1|hmx-pro|*hmeiᴴ||taste; to try}}
 * {{desc|bor=1|vi|mùi||smell}}
@@ -96,40 +96,38 @@ Schuessler (2007) compared this word with Proto-Monic *''[ʔ]məp'' ("good tasti
 |goon=み
 |kanon=び
 |kun=あじ-<あぢ-, あじ-わう<あぢ-はふ
+|nanori=うまし, ちか
 }}
 
 ====Compounds====
-{{top3}}
-* {{ja-r|味%方|み%かた}}
+{{der-top3|Compounds}}
 * {{ja-r|味%噌|み%そ}}
-* {{ja-r|味%噌%汁|み%そ%しる}}
+* {{ja-r|意味|いみ}}
+* {{ja-r|気味|きみ}}, {{ja-r|気味|きび}}
+* {{ja-r|興味|きょうみ}}
+* {{ja-r|地味|じみ}}
 * {{ja-r|三%味%線|しゃ%み%せん}}, {{ja-r|三%味%線|さ%み%せん}}
-* {{ja-r|興%味|きょう%み}}
-* {{ja-r|意%味|い%み}}
-* {{ja-r|無%意%味|む%い%み}}
-{{mid3}}
-* {{ja-r|甘%味|あま%み}}
-* {{ja-r|地%味|じ%み}}
-* {{ja-r|気%味|き%み}}
-* {{ja-r|不%気%味|ぶ%き%み}}
-* {{ja-r|趣%味|しゅ%み}}
-* {{ja-r|赤%味|あか%み}}
-* {{ja-r|黒%味|くろ%み}}
-{{mid3}}
-* {{ja-r|厚%味|あつ%み}}
+* {{ja-r|趣味|しゅみ}}
+* {{ja-r|賞味|しょうみ}}
+* {{ja-r|美味|びみ}}
+* {{ja-r|薬%味|やく%み}}
 * {{ja-r|不味い|まずい}}
 * {{ja-r|美味しい|おいし.い}}
-* {{ja-r|旨%味|うま%み}}
-* {{ja-r|賞%味|しょう%み}}
-* {{ja-r|薬%味|やく%み}}
-{{bottom}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|あじ|yomi=k}}
+{{IPAchar|/adi/}} → {{IPAchar|/ad͡ʑi/}} → {{IPAchar|/aʑi/}}
+
+From {{inh|ja|ojp|sort=あし|-}}.
+
+====Pronunciation====
+{{ja-pron|y=k|あじ|acc=0|acc_ref=DJR}}
+
 ====Noun====
 {{ja-noun|あじ|hhira=あぢ}}
 
-# [[flavour]] (UK); [[flavor]] (US)
+# a [[flavour]] (UK)/[[flavor]] (US), [[taste]]
 #* {{quote-book
 |lang=ja
 |location=Tokyo
@@ -145,21 +143,80 @@ Schuessler (2007) compared this word with Proto-Monic *''[ʔ]məp'' ("good tasti
 |chapter={{lj|[武](ブ)[装](ソウ)[錬](レン)[金](キン)ピリオド}}
 |trans-chapter=Armed Alchemy: The End}}
 #*: {{ja-usex|食べる？ママの'''味'''　正%確にはママの出%来%損ないの成れの果ての'''味'''|^たべる？^ママ の '''あじ'''　^せい%かく に は ママ の で%き%そこない の なれ の はて の '''あじ'''|You want some? It has my mom’s taste. Well, actually it has the taste of my failed attempts at cloning her taste.}}
+#: {{syn|ja|味覚|tr=mikaku}}
+# [[feeling]], [[sensation]]
+#: {{syn|ja|感触|tr=kanshoku}}
+# [[experience]], taste
+#: {{syn|ja|味わい|tr=ajiwai}}
+# {{lb|ja|sort=あし|go}} {{rfdef|ja|sort=あし}}
+
+=====Derived terms=====
+* {{ja-r|味わう|あじわう}}
+* {{ja-r|味%気無い|あじ%きない}}, {{ja-r|味%気無い|あじ%けない}}
+* {{ja-r|紫陽花|アジサイ}}
+* {{ja-r|味の素|^あじのもと}}
+
+====Adjectival noun====
+{{ja-adj|infl=na|あじ|hhira=あぢ}}
+
+# [[clever]], [[smart]], [[witty]]
+# [[mysterious]], [[strange]]
+
+=====Inflection=====
+{{ja-na|あじ}}
+{{ja-conj-bungo|あぢ|adj-nar}}
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=goon|み}}
 
-====Affix====
-{{ja-pos|み|affix}}
+From {{bor|ja|ltc|sort=み|-}} {{ltc-l|味}}.
 
-# [[flavor]]; [[taste]]
+Also used in {{cog|ojp|-}} as {{m|ja|借音|tr=shakuon}} ''{{ll|ja|仮名|kana}}'' for {{IPAfont|⟨mi<sub>2</sub>⟩}}.
+
+====Noun====
+{{ja-noun|み}}
+
+# a [[flavour]] (UK)/[[flavor]] (US), [[taste]]
+#: {{syn|ja|味覚|tr=mikaku}}
+
+=====Derived terms=====
+* {{ja-r|味%方|み%かた}}
 
 ====Suffix====
 {{ja-pos|み|suffix}}
 
-# [[counter]] for kinds of [[food]]; [[drink]]; [[medicine]]; etc.
-# {{n-g|Ateji spelling of {{ja-r|-み}}:}} (after an [[形容詞|i-adjective]] stem) [[-ness]]; any degree of being
+# ''[[counter]] for kinds of [[food]], [[drink]],  [[medicine]], etc.''
+# {{lb|ja|after an [[形容詞|''i''-adjective]] stem}} {{alt sp|ja|み|tr=mi}}: [[-ness]]
 
-{{top|ja|Taste|sort=あじ}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|青%味%泥|アオ%ミ%ドロ}}
+* {{ja-r|赤%味|あか%み}}
+* {{ja-r|厚%味|あつ%み}}
+* {{ja-r|甘%味|あま%み}}
+* {{ja-r|旨%味|うま%み}}
+* {{ja-r|黒%味|くろ%み}}
+* {{ja-r|鞘%味%泥|サヤ%ミ%ドロ}}
+* {{ja-r|皹%味%泥|ヒビ%ミ%ドロ}}
+* {{ja-r|星%味%泥|ホ%シミ%ドロ}}
+{{der-bottom}}
+
+====Affix====
+{{ja-pos|み|affix}}
+
+# [[flavor]], [[taste]]
+# [[taste#Verb|tasting]], [[savor]]ing
+# taste, [[savor]]
+# {{alt sp|lang=ja|身|tr=mi}}: [[body part]]
+
+=====Derived terms=====
+* {{ja-r|味醂|みりん}}
+
+===References===
+<references/>
+
+{{top|ja|Taste|Go|sort=あし}}
+[[Category:Japanese counters|あし]]
 
 ----
 
@@ -169,6 +226,39 @@ Schuessler (2007) compared this word with Proto-Monic *''[ʔ]məp'' ("good tasti
 {{ko-hanja|hangeul=미|rv=mi|mr=mi}}
 
 # {{defn|lang=ko|sort=口05}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+{{rfe|ojp}}
+
+====Noun====
+{{head|ojp|noun|tr=adi|kana|あぢ}}
+
+# [[flavor]], [[flavour]]
+
+=====Derived terms=====
+* {{m|ojp|紫陽花|tr=adisawi}}
+* {{m|ojp|味群|tr=adimura}}
+
+=====Descendants=====
+* {{desc|ja|味|tr=aji}}
+
+=====See also=====
+* {{m|ojp|あぢさはふ|tr=adisapapu|pos=[[pillow word]] that contains this ''kanji''}}
+
+===Etymology 2===
+
+====Suffix====
+{{head|ojp|suffx|tr=uma-|kana|うま}}
+
+# {{alt sp|ojp|甘|tr=uma-}}: {{rfdef|ojp|sort=うま}}
+
+=====Derived terms=====
+* {{m|ojp|味飯|tr=umaipi<sub>1</sub>}}
+* {{m|ojp|味酒|tr=umasake<sub>2</sub>}}
 
 ----
 
