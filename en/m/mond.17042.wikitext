@@ -40,10 +40,12 @@ From {{inh|nl|dum|mont}}, from {{inh|nl|odt|munt}}, from {{inh|nl|gem-pro|*munþ
 # {{topics|nl|Body parts}} [[mouth]]
 
 =====Derived terms=====
-* {{l|nl|monddood}}
-* {{l|nl|mondharmonica}}
-* {{l|nl|volksmond}}
-* {{l|nl|volmondig}}
+{{der4|nl
+|monddood
+|mondharmonica
+|volksmond
+|volmondig
+}}
 
 =====Descendants=====
 * {{desc|af|mond}}
@@ -64,7 +66,7 @@ From {{inh|nl|odt|*munda}}, from {{inh|nl|gem-pro|*mundō}}.
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|mundus}}.
+From {{inh|fur|la|mundus}}.
 
 ===Noun===
 {{fur-noun|m}}
@@ -137,7 +139,7 @@ From {{inh|hu|urj-pro|*mënɜ-}} + {{af|hu|-d|pos1=frequentative suffix|pos=verb
 ==Occitan==
 
 ===Alternative forms===
-* {{l|oc|mound}} {{qualifier|Mistralian}}
+* {{alter|oc|mound||Mistralian}}
 
 ===Etymology===
 From {{inh|oc|pro|}}, from {{inh|oc|la|mundus}}.
@@ -158,11 +160,11 @@ From {{inh|oc|pro|}}, from {{inh|oc|la|mundus}}.
 ==Romansch==
 
 ===Alternative forms===
-* {{qualifier|Rumantsch Grischun|Sursilvan|Sutsilvan}} {{l|rm|mund}}
-* {{qualifier|Puter|Vallader}} {{l|rm|muond}}
+* {{alter|rm|mund||Rumantsch Grischun|Sursilvan|Sutsilvan}}
+* {{alter|rm|muond||Puter|Vallader}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{m|la|mundus}}.
+From {{inh|rm|la|mundus}}.
 
 ===Noun===
 {{rm-noun|m}}
