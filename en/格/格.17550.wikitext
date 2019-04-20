@@ -75,18 +75,8 @@
 ----
 
 ==Japanese==
-
-===Noun===
-{{ja-noun|かく}}
-
-# [[status]], [[rank]]
-# {{lb|ja|grammar|sort=かく}} [[case]] ([[of]] [[a]] [[word]])
-# [[capacity]]
-# [[character]]
-# [[case]] ([[law]])
-
 ===Kanji===
-{{ja-kanji|rs=木06|grade=5}}
+{{ja-kanji|rs=木06}}
 
 ====Readings====
 {{ja-readings
@@ -121,6 +111,15 @@
 * {{ja-r|与%格|よ%かく}}: dative
 * {{ja-r|連%体%格|れん%たい%かく}}: adnominal
 * {{ja-r|格%助%詞|かく%じょ%し}}
+===Noun===
+{{ja-kanjitab|かく|yomi=kanon}}
+{{ja-noun|かく}}
+
+# [[status]], [[rank]]
+# {{lb|ja|grammar|sort=かく}} [[case]] ([[of]] [[a]] [[word]])
+# [[capacity]]
+# [[character]]
+# [[case]] ([[law]])
 
 ===Proper noun===
 {{ja-pos|proper|いたる}}
