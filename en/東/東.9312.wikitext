@@ -79,10 +79,6 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 ===Kanji===
 {{ja-kanji|grade=2|rs=木04}}
 
-# [[east]]
-# {{short for|lang=ja|東京|tr=Tōkyō|nodot=1}}: [[Tokyo]]
-# [[spring]] {{gl|{{w|Wu Xing}}}}
-
 ====Readings====
 {{ja-readings
 |goon=つう
@@ -94,12 +90,9 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ja-r|東亜|^とうあ|East Asia}}
 * {{ja-r|東漢|^とうかん}}
-* {{ja-r|東京|^とうきょう|[[Tokyo]]}}
 * {{ja-r|東国|とうごく}}
 * {{ja-r|東西|とうざい|east and [[west]]}}
-* {{ja-r|東上|とうじょう|[[go]]ing to Tokyo}}
 * {{ja-r|東南|とうなん|[[southeast]]}}
 * {{ja-r|東南東|とう-なんとう}}
 * {{ja-r|東坡%肉|とうば%にく}}
@@ -110,11 +103,9 @@ Phonetic borrowing – originally represented a bag tied at both ends (like a ce
 * {{ja-r|東名|^とう-^めい}}
 * {{ja-r|東面|とうめん}}
 * {{ja-r|東洋|とうよう|[[Orient]]}}
-* {{ja-r|関東|^かんとう}}
 * {{ja-r|江東|^こうとう}}
 * {{ja-r|中東|^ちゅうとう|[[Middle East]]}}
 * {{ja-r|屏東|^へいとう}}
-* {{ja-r|東風|あゆ}}
 * {{ja-r|東風|こち}}, {{ja-r|東風|こちかぜ}}
 * {{ja-r|東雲|しののめ}}
 * {{ja-r|東坡肉|トンポーロー}}
@@ -136,23 +127,37 @@ From {{bor|ja|ltc|sort=とう|-}} {{ltc-l|東}}.
 ====Proper noun====
 {{ja-pos|proper|とう}}
 
-# {{abbreviation of|lang=ja|sort=とう|nodot=1|関東|tr=Kantō}}: the {{w|Kantō region}} of Japan
-# {{abbreviation of|lang=ja|sort=とう|nodot=1|東国|tr=Tōgoku}}: a historical administrative division of Japan, corresponding to the modern {{w|Kantō region|Kantō}} and {{w|Tōkai region|Tōkai}} regions
+# {{short for|ja|nodot=1|関東|tr=Kantō|sort=とう}}: the {{w|Kantō region}} of Japan
+# {{short for|ja|nodot=1|東国|tr=Tōgoku}}: a historical administrative division of Japan, corresponding to the modern {{w|Kantō region|Kantō}} and {{w|Tōkai region|Tōkai}} regions
+# {{short for|ja|東京|tr=Tōkyō|nodot=1}}: [[Tokyo]]
 # {{surname|lang=ja|A=a|nodot=1|sort=とう}}
+
+=====Derived terms=====
+* {{ja-r|東亜|^とうあ|East Asia}}
+* {{ja-r|東上|とうじょう|[[go]]ing to Tokyo}}
 
 ====Noun====
 {{ja-noun|とう}}
 
 # {{lb|ja|sort=とう|music}} {{rfdef|ja}}
 
+====Affix====
+{{ja-pos|affix|とう}}
+
+# [[east]]
+
+====Derived terms====
+* {{ja-r|東京|^とうきょう|[[Tokyo]]}}
+* {{ja-r|関東|^かんとう}}
+
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|ひがし}}
 
 {{IPAchar|/finɡaɕi/}} → {{IPAchar|/fiɡaɕi/}} → {{IPAchar|/hiɡaɕi/}}
 
-Sound shift from earlier ''hingashi'' (see below).
+Sound shift from ''hingashi'' (see below).
 
-Now the standard word for ''{{m|en|east}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
+Now the standard word for ''[[east]]''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ひがし|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}
@@ -166,24 +171,24 @@ Now the standard word for ''{{m|en|east}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten
 #: {{syn|ja|東洋|tr=tōyō}}
 # an [[easterly]] {{gl|[[wind]] [[blow|blowing]] from the east}}
 #: {{syn|ja|東風|tr=ayu, kochi, kochikaze, tōfū, higashikaze}}
-# {{lb|ja|sort=ひがし|sumo}} [[high]]er-[[rank]]ed [[wrestler]]s listed on the right of a ''[[banzuke]]''
+# {{lb|ja|sort=ひかし|sumo}} [[high]]er-[[rank]]ed [[wrestler]]s listed on the right of a ''[[banzuke]]''
 #: {{ant|ja|西|tr=nishi}}
 # an [[Eastern Bloc]] [[country]]
 #: {{syn|ja|東側|tr=higashigawa}}
 #: {{ant|ja|西|tr=nishi}}
-# {{lb|ja|sort=ひがし|regional|historical}} [[Kamakura]] and/or [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]
+# {{lb|ja|sort=ひかし|regional|historical}} [[Kamakura]] and/or [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]
 #: {{ant|ja|西|tr=nishi}}
-# {{lb|ja|sort=ひがし|theater}} {{rfdef|ja}}
+# {{lb|ja|sort=ひかし|theater}} {{rfdef|ja}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|お東|お-^ひがし}}, {{ja-r|御%東|お%-^ひがし}}
 * {{ja-r|東 面|ひがし おもて}}
 * {{ja-r|東%風|ひがし%かぜ}}
 * {{ja-r|東%方|ひがし%かた}}
-* {{ja-r|東%側|ひがし%がわ|east side}}
+* {{ja-r|東%側|ひがし%がわ|east [[side]]}}
 * {{ja-r|東%北|ひがし%-きた}}
-* {{ja-r|東%口|ひがし%ぐち|east entrance}}
+* {{ja-r|東%口|ひがし%ぐち|east [[entrance]]}}
 * {{ja-r|東%久邇|^ひがし%くに}}
 * {{ja-r|東 日本|^ひがし ^にほん}}
 * {{ja-r|東の衆|^ひがし の ^しゅう}}
@@ -202,10 +207,10 @@ Now the standard word for ''{{m|en|east}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten
 
 # {{lb|ja|historical}} a [[red-light district]] in [[Edo]], where it is today in Fukagawa, {{w|Kōtō}} Ward
 #: as it was located ''east'' of {{w|Edo Castle}}
-# {{lb|ja|sort=ひがし|Buddhism}} {{short for|lang=ja|東本願寺|tr={{w|Higashi Hongan-ji}}|nodot=1}}: {{rfdef|ja}}
+# {{lb|ja|sort=ひかし|Buddhism}} {{short for|lang=ja|東本願寺|tr={{w|Higashi Hongan-ji}}|nodot=1}}: {{rfdef|ja}}
 #: {{syn|ja|お東|tr=o-Higashi}}
-# ''a [[place name]]'', ''especially'' the name of a [[ward]] in various cities throughout Japan
-# {{surname|lang=ja|A=a|nodot=1|sort=ひがし}}
+# ''a [[placename]]'', ''especially'' the name of a [[ward]] in various cities throughout Japan
+# {{surname|lang=ja|A=a|nodot=1|sort=ひかし}}
 
 ====Verb====
 {{ja-verb-suru|ひがし}}
@@ -214,15 +219,16 @@ Now the standard word for ''{{m|en|east}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten
 
 =====Conjugation=====
 {{ja-suru|ひがし}}
+{{ja-conj-bungo|ひがし|irreg-s}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|ひんがし}}
 
-{{IPAfont|*/pʲimukasi/}} → {{IPAchar|/pimʉɡasi/}} → {{IPAchar|/fimʉɡaɕi/}} → {{IPAchar|/finɡaɕi/}} → {{IPAchar|/hinɡaɕi/}}
+{{IPAfont|*⟨pi<sub>1</sub> muka si⟩}} → *{{IPAfont|/pʲimukasi/}} → {{IPAchar|/pimʉɡasi/}} → {{IPAchar|/fimʉɡaɕi/}} → {{IPAchar|/finɡaɕi/}} → {{IPAchar|/hinɡaɕi/}}
 
 Attested in ''{{w|The Tale of Genji}}'' (''c.'' 1021).
 
-Sound shift from earlier ''pimukasi'' (see below).<ref name="KDJ"/><ref name="DJR"/>
+Shift from {{inh|ja|ojp|東|tr=*pi<sub>1</sub>mukasi}}.<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ひんがし}}
@@ -230,9 +236,9 @@ Sound shift from earlier ''pimukasi'' (see below).<ref name="KDJ"/><ref name="DJ
 ====Noun====
 {{ja-noun|ひんがし}}
 
-# {{lb|ja|sort=ひむかし|obsolete}} [[east]]
+# {{lb|ja|sort=ひんかし|archaic|obsolete}} [[east]]
 #* '''10th century''', ''{{w|Ise Monogatari}}'' (chapter 4, page 82)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
-#*: {{ja-usex|むかし、'''東'''の五%条に大%后の宮おはしましける、西の対に住む人有けり。|むかし、'''ひんがし'''の ご%でう に おほ%きさき の みや おはしましける、にし の たい に すむ ひと ありけり。|rom=Mukashi, '''hingashi''' no gojō ni ōmisaki no miya owashimashikeru, nishi no tai ni sumu hito arikeri.}}
+#*: {{ja-usex|むかし、'''東'''の五%条に大%后の宮おはしましける、西の対に住む人有けり。|むかし、'''ひむがし'''の ご%でう に おほ%きさい の みや おはしましける、にし の たい に すむ ひと ありけり。|rom=Mukashi, '''himʉgashi''' no gojō ni ōkisai no miya owashimashikeru, nishi no tai ni sumu hito arikeri.}}
 
 =====Derived terms=====
 {{der-top}}
@@ -244,52 +250,31 @@ Sound shift from earlier ''pimukasi'' (see below).<ref name="KDJ"/><ref name="DJ
 {{der-bottom}}
 
 ===Etymology 4===
-{{ja-kanjitab|yomi=k|ひむかし}}
-
-{{IPAfont|*⟨pi<sub>1</sub> muka si⟩}} → *{{IPAchar|/pʲimukasi/}} → {{IPAchar|/fimukaɕi/}} → {{IPAchar|/himukaɕi/}}
-
-From {{inh|ja|ojp|-|sort=ひむかし}}.  Found in the ''{{w|Man'yōshū}}'' dated 759 {{CE}}, but consistently spelled with this single ''kanji'' rather than in ''[[man'yōgana]]'', thus leaving the reading unspecified.<ref name="MYS">{{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]</ref>
-
-Originally a compound of {{com|ja|sort=ひむかし|日|tr1=hi|t1=[[sun]]||alt2=向か|tr2=muka|t2=[[facing]], [[direction]]|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|向く|tr=muku}}, “to [[face]] a direction”}}.<ref name="KDJ"/><ref name="DJR"/> The final ''-shi'' is possibly either {{m|ja|風|tr=shi|t=[[wind]], direction|pos=obsolete}} or the suffix {{m|ja|し|tr=-shi}}, the [[adnominal]] form of {{m|ja|き|tr=-ki|pos=classical past tense indicator}}.
-
-====Pronunciation====
-{{ja-pron|yomi=k|ひむかし}}
-
-====Noun====
-{{ja-noun|ひむかし}}
-
-# {{lb|ja|sort=ひむかし|obsolete}} [[east]]
-
-===Etymology 5===
-{{ja-spellings|あずま|h=あづま|吾妻}}
+{{ja-spellings|あずま|h=あづま|吾妻|吾嬬}}
 {{anchor|ja-吾妻}}
 {{ja-kanjitab|yomi=k|あずま}}
 
 {{IPAchar|/aduma/}} → {{IPAchar|/ad͡zuma/}} → {{IPAchar|/azuma/}}
 
-From {{inh|ja|ojp|sort=あずま|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
-
-Ultimate derivation {{unk|ja|nocap=1|sort=あずま}}. A speculative origin might be a compound of {{m|ja|天|tr=ama||[[sky]], [[heavens]]}} + {{m|ja|端|tr=tsuma||[[edge]], [[beginning]]}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
+From {{inh|ja|ojp|sort=あずま|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> itself of {{unk|ja|nocap=1|sort=あすま}} derivation.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|あずま|acc=1|acc_ref=DJR,NHK}}
 
-====Alternative forms====
-* {{ja-l|吾妻}}, {{ja-l|吾嬬}}
-
 ====Noun====
 {{ja-noun|あずま|hhira=あづま}}
 
-# {{lb|ja|archaic|sort=あずま}} [[east]]
-#* {{RQ:Kojiki|poem 100}}
-#*: {{ja-usex|m=...本都延波 阿米袁淤弊理 那加都延波 '''阿豆麻'''袁淤弊理 志豆延波 比那袁淤弊理...|m_kana=...ほつ𛀁は あめをおへり なかつ𛀁は '''あづま'''をおへり しづ𛀁は ひなをおへり...|...上つ枝は天を覆へり中つ枝は'''あづま'''を覆へり下づ枝は鄙を覆へり...|...ほつえ は あめ を おへり なかつえ は '''あづま''' を おへり しづえ は ひな を おへり...|rom=...hotsue wa ame o oeri nakatsue wa '''azuma''' o oeri shizue wa hina o oeri...}}
-# {{lb|ja|archaic|by extension|sort=あずま}} the [[land]]s east of the {{m|ja|都|tr=miyako||[[capital]]}}
-# {{lb|ja|sort=ひがし|regional|historical}} [[Kamakura]] and/or [[Edo]], as opposed to [[Kyoto]] and [[Osaka]]
-# {{short for|lang=ja|東琴|tr=azumagoto|nodot=1}}: a six-[[string]]ed Japanese [[zither]]
-# {{short for|lang=ja|東下駄|tr=azumageta|nodot=1}}: {{rfdef|ja}}
+# {{lb|ja|archaic|sort=あすま}} [[east]]
+# {{lb|ja|archaic}} the [[land]]s east of the {{m|ja|都|tr=miyako||[[capital]]}}
+# {{lb|ja|sort=あすま|regional|historical}} during the {{w|Kamakura period|Kamakura}} and {{w|Muromachi period|Muromachi periods}}, the [[Kamakura]] [[region]] or its [[titular]] {{m|ja|幕府|tr=[[bakufu]]||[[shogunate]]}}, as [[oppose]]d to the [[imperial]] [[capital]] of [[Kyoto]]
+# {{lb|ja|regional|historical}} during the {{w|Edo period}}, the region around [[Edo]]
+# {{short for|ja|東つ|tr=azumatsu|dot=:}} {{rfdef|ja}}
+# {{short for|ja|東琴|tr=azumagoto|dot=:}} a six-[[string]]ed Japanese [[zither]]
+# {{short for|ja|東下駄|tr=azumageta|dot=:}} {{rfdef|ja}}
 
 =====Derived terms=====
 {{der-top3}}
+* {{ja-r|東つ|あずまつ}}
 * {{ja-r|東 遊び|あずま あそび}}
 * {{ja-r|東 歌|あずま うた}}
 * {{ja-r|東人|あずまうど}}
@@ -316,6 +301,7 @@ Ultimate derivation {{unk|ja|nocap=1|sort=あずま}}. A speculative origin migh
 * {{ja-r|東 訛り|あずま なまり}}
 * {{ja-r|東 錦|あずま にしき}}
 * {{ja-r|東 根%笹|アズマ ネ%ザサ}}
+* {{ja-r|東の主|あずま の あるじ}}
 * {{ja-r|東 彼%岸|アズマ ヒ%ガン}}
 * {{ja-r|東%人|あずま%びと}}
 * {{ja-r|東 百官|あずま ひゃっかん}}
@@ -329,11 +315,11 @@ Ultimate derivation {{unk|ja|nocap=1|sort=あずま}}. A speculative origin migh
 ====Proper noun====
 {{ja-pos|あずま|proper|hhira=あづま}}
 
-# ''a [[place name]]''
-# {{given name|female|lang=ja|A=a|nodot=1|sort=あずま}}
-# {{surname|lang=ja|A=a|nodot=1|sort=あずま}}
+# ''a [[placename]]''
+# {{given name|female|lang=ja|A=a|nodot=1|sort=あすま}}
+# {{surname|lang=ja|A=a|nodot=1|sort=あすま}}
 
-===Etymology 6===
+===Etymology 5===
 {{ja-kanjitab|とん|yomi=irr|sort=とん}}
 
 Borrowed from {{bor|ja|cmn|sort=とん|東|tr=dōng}}.
@@ -348,7 +334,7 @@ Compare {{cog|wuu|東|tr=ton}}, {{cog|hak|東|tr=tûng}}, {{cog|nan|東|tr=tong}
 
 # {{lb|ja|mahjong|sort=とん}} [[east wind]] ([[mahjong]] [[tile]])
 #: {{hyper|ja|風牌|tr=kazehai, fanpai}}
-# {{lb|ja|mahjong|sort=とん}}  a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of east wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}
+# {{lb|ja|mahjong}}  a {{m|ja|役|tr=yaku||[[win]]ning [[hand]]}} with a [[triplet]] or [[quad]] of east wind tiles; depending on wind round and player's seat wind, it is worth either 1 or 2 {{m|ja|翻|tr=han||[[double]]s}}
 #: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}
 
 =====Derived terms=====
@@ -362,8 +348,8 @@ Compare {{cog|wuu|東|tr=ton}}, {{cog|hak|東|tr=tûng}}, {{cog|nan|東|tr=tong}
 
 # {{surname|lang=ja|A=a|nodot=1|sort=とん}}
 
-===Etymology 7===
-{{ja-kanjitab|yomi=i}}
+===Etymology 6===
+{{ja-kanjitab|yomi=n}}
 
 Nominalization of the stem of adjective {{m|ja|明らか|tr=akiraka||[[clear]]}}.
 
@@ -373,8 +359,8 @@ Nominalization of the stem of adjective {{m|ja|明らか|tr=akiraka||[[clear]]}}
 # {{surname|lang=ja|A=a|nodot=1|sort=あきら}}
 # {{given name|male|lang=ja|A=a|nodot=1|sort=あきら}}
 
-===Etymology 8===
-{{ja-kanjitab|yomi=i}}
+===Etymology 7===
+{{ja-kanjitab|yomi=n}}
 
 Nominalization of verb {{m|ja|[[上る]], [[登る]]|tr=noboru||to [[ascend]], [[rise]]}}.
 
@@ -383,22 +369,22 @@ Nominalization of verb {{m|ja|[[上る]], [[登る]]|tr=noboru||to [[ascend]], [
 
 # {{given name|male|lang=ja|A=a|nodot=1|sort=のぼる}}
 
-===Etymology 9===
-{{ja-kanjitab|yomi=i}}
+===Etymology 8===
+{{ja-kanjitab|yomi=n}}
 
 Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|始める|tr=hajimeru||to [[begin]], [[start]]}}.
 
 ====Proper noun====
 {{ja-pos|proper|はじめ}}
 
-# {{surname|lang=ja|A=a|nodot=1|sort=はじめ}}
-# {{given name|male|lang=ja|A=a|nodot=1|sort=はじめ}}
+# {{surname|lang=ja|A=a|nodot=1|sort=はしめ}}
+# {{given name|male|lang=ja|A=a|nodot=1|sort=はしめ}}
 
 ===References===
 <references/>
 
-[[Category:Japanese basic words|ひがし]]
-[[Category:ja:Compass points]]
+[[Category:Japanese basic words|ひかし]]
+{{top|ja|Compass points|sort=ひかし}}
 
 ----
 
@@ -428,13 +414,13 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 * Nonnative: とー (tō), とぅ (tu)
 
 ====Compounds====
-* [[東風]] (くち, kuchi): east wind, easterly wind, eastern wind
-* [[東風]] (くちかじ, kuchikaji): east wind, easterly wind, eastern wind
-* [[東京]] (とーちょー, tōchō): Tokyo
-* [[広東瓜]] (くゎんとぅうい, kwantuui): watermelon
+* {{m|ryu|東風|tr=kuchi||[[east wind]], [[easterly]] [[wind]], [[eastern]] wind}}
+* {{m|ryu|東風|tr=kuchikaji||east wind, easterly wind, eastern wind}}
+* {{m|ryu|東京|tr=Tōchō||[[Tokyo]]}}
+* {{m|ryu|広東瓜|tr=kwantuui||[[watermelon]]}}
 
 ===Etymology===
-From {{m|ryu|上り|tr=agari|gloss=ascent, rise}} in reference to the direction where the sun rises, ascends.
+From {{m|ryu|上り|tr=agari|gloss=[[ascent]], [[rise]]}} in reference to the direction where the [[sun]] rises, or ''ascends''.
 
 ===Pronunciation===
 * {{IPA|/ʔaɡaɾi/|lang=ryu}}
@@ -445,6 +431,53 @@ From {{m|ryu|上り|tr=agari|gloss=ascent, rise}} in reference to the direction 
 # [[east]]
 
 [[Category:ryu:Compass points]]
+
+----
+
+==Old Japanese==
+
+===Compounds===
+* {{m|ojp|東風|tr=ayu}}
+* {{m|ojp|東風|tr=*koti}}, {{m|ojp|東風|tr=*kotikaze}}
+
+===Etymology 1===
+Ultimate derivation {{unk|ojp|nocap=1|sort=あつま}}.
+
+A speculative origin might be a compound of {{com|ojp|sort=あつま|天|tr1=ama|t1=[[sky]], [[heavens]]|pos1=combining form|端|tr2=tuma|t2=[[edge]], [[beginning]]}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
+
+====Alternative forms====
+* {{l|ojp|吾妻}}
+
+====Noun====
+{{head|ojp|noun|tr=aduma|kana|あづま}}
+
+# [[east]]
+#* {{RQ:Kojiki|poem 100}}
+#*: {{ux|ojp|...本都延波阿米袁淤弊理那加都延波'''阿豆麻'''袁淤弊理志豆延波比那袁淤弊理...|tr=...potuye pa ame<sub>2</sub> wo ope<sub>1</sub>ri nakatuye pa '''aduma''' wo ope<sub>1</sub>ri siduye pa pi<sub>1</sub>na wo ope<sub>1</sub>ri...}}
+# the [[land]]s east of the {{m|ojp|都|tr=mi<sub>1</sub>yako<sub>1</sub>||[[capital]]}}
+#* {{RQ:Manyoshu|18|4097}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4097 here]
+#*: {{ux|ojp|須賣呂伎能御代佐可延牟等'''阿頭麻'''奈流美知乃久夜麻爾金花佐久|tr=sume<sub>1</sub>ro<sub>2</sub>ki<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>yo<sub>2</sub> sakayemu to<sub>2</sub> '''aduma''' naru Mi<sub>1</sub>tino<sub>2</sub>ku-yama ni kugane pana saku}}
+
+=====Descendants=====
+* {{desc|ja|東|tr=azuma}}
+
+===Etymology 2===
+Found in one poem of the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}), but consistently spelled with this single ''kanji'' rather than in ''[[man'yōgana]]'', thus leaving the reading unspecified.
+
+Originally a compound of {{com|ojp|sort=ひむかし|日|tr1=pi<sub>1</sub>|t1=[[sun]]||alt2=向か|tr2=muka|t2=[[facing]], [[direction]]|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ojp|向く|tr=muku}}, “to [[face]] a direction”}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijirin}}</ref> The final ''-si'' is possibly either {{m|ojp|風|tr=si|t=[[wind]], direction|pos=obsolete}} or the suffix {{m|ojp|し|tr=-si}}, the [[adnominal]] form of {{m|ja|き|tr=-ki<sub>1</sub>|pos=classical past tense indicator}}.
+
+====Noun====
+{{head|ojp|noun|tr=*pi<sub>1</sub>mukasi|kana|ひむかし}}
+
+# [[east]]
+#* {{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]
+#*: {{ux|ojp|'''東'''野炎立所見而反見為者月西渡|tr='''*pi<sub>1</sub>mukasi''' no<sub>2</sub> no<sub>1</sub> ni kagi<sub>1</sub>ro<sub>1</sub>pi<sub>2</sub> no<sub>2</sub> tatu mi<sub>1</sub>yete kape<sub>1</sub>rimi<sub>1</sub> sureba tuki<sub>2</sub> katabuki<sub>1</sub>nu}}
+
+=====Descendants=====
+* {{desc|ja|東|tr=hingashi → higashi}}
+
+===References===
+<references/>
 
 ----
 
@@ -466,7 +499,7 @@ From {{m|ryu|上り|tr=agari|gloss=ascent, rise}} in reference to the direction 
 * Native: あがり (agari)
 
 ===Etymology===
-From {{m|yox|上り|tr=agari|gloss=ascent, rise|sc=Jpan}} in reference to the direction where the sun rises, ascends.
+From {{m|yox|上り|tr=agari|gloss=[[ascent]], [[rise]]|sc=Jpan}} in reference to the direction where the [[sun]] rises, or ''ascends''.
 
 ===Pronunciation===
 * {{IPA|/ʔaɡaɾi/|lang=yox}}
