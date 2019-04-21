@@ -73,12 +73,12 @@ Zhangzhou: māi - vernacular; moāi - literary
 {{ja-readings
 |goon=まい, め
 |kanon=ばい
-|kun=いも-, いもうと-, いもと-
+|kun=いもうと-, いも-
 |nanori=せ
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top3|Compounds}}
 * {{ja-r|貴%妹|き%まい}}
 * {{ja-r|愚%妹|ぐ%まい}}
 * {{ja-r|兄%妹|けい%まい}}
@@ -88,16 +88,16 @@ Zhangzhou: māi - vernacular; moāi - literary
 * {{ja-r|叔%妹|しゅく%まい}}
 * {{ja-r|小%妹|しょう%まい|rom=-}}, {{ja-r|少%妹|しょう%まい}}
 * {{ja-r|弟%妹|てい%まい}}
-* {{ja-r|亡%妹|ぼう%まい}}
+* {{ja-r|亡妹|ぼうまい}}
 * {{ja-r|末%妹|まつ%まい}}
-* {{ja-r|令%妹|れい%まい}}
+* {{ja-r|令妹|れいまい}}
 * {{ja-r|十%姉妹|ジュウ%シマツ}}
 * {{ja-r|妹%尾|^せの%お}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|いも|yomi=k}}
-{{IPAfont|⟨imo<sub>1</sub>⟩}} → {{IPAchar|/imo/}}
+{{IPAfont|⟨imo<sub>1</sub>⟩}} → *{{IPAchar|/imʷo/}} → {{IPAchar|/imo/}}
 
 From {{inh|ja|ojp|sort=いも|-}}.
 
@@ -109,11 +109,12 @@ The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of
 ====Noun====
 {{ja-noun|いも}}
 
-# {{lb|ja|archaic|usually from a male's viewpoint|sort=いも}} a [[close]] [[female]] [[companion]]
-## one's [[sister]]
-## one's [[lover]]
-## one's [[wife]]
-# {{lb|ja|archaic|usually from a female's viewpoint|sort=いも}} a [[woman]]
+# {{lb|ja|archaic|said from a male speaker|sort=いも}} a [[close]] [[female]] [[companion]]
+## one's [[sister]] regardless of [[age]] [[difference]]
+## one's [[lover]] or [[sweetheart]] who is the subject of [[marriage]] or is already [[marry|married]]
+##* {{RQ:Kokinshu|11|485}}
+##*: {{ja-usex|[[刈り菰の|かりごもの]]思ひ乱れて我%恋ふと'''いも'''知るらめや人し告げずは|かりごも の おもひみだれて われ% こふ と '''いも''' しるらめ や ひと し つげず は|rom=karigomo no omoimidarete ware kou to '''imo''' shirurame ya hito shi tsugezu wa}}
+# {{lb|ja|archaic|said from a female speaker|sort=いも}} a close female companion
 
 =====Antonyms=====
 * {{ja-r|兄|せ|close [[male]] companion, [[man]]}}
@@ -121,29 +122,16 @@ The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|妹|いもうと|one's younger sister}}
-* {{ja-r|妹ら|いもら}}
-* {{ja-r|妹 が 家 に|いも が いえ に|pos=pillow word}}
-* {{ja-r|妹 が 績む|いも が うむ|pos=pillow word}}
-* {{ja-r|妹 が 髪|いも が かみ|pos=pillow word}}
-* {{ja-r|妹 が 着る|いも が きる|pos=pillow word}}
-* {{ja-r|妹 が 袖|いも が そで|pos=pillow word}}
-* {{ja-r|妹 が 手 を|いも が て を|pos=pillow word}}
-* {{ja-r|妹 が 紐|いも が ひも|pos=pillow word}}
-* {{ja-r|妹 が 目 を|いも が め を|pos=pillow word}}
-* {{ja-r|妹%許|いも%がり}}
+* {{ja-r|妹が績む|いも が うむ|pos=[[pillow word]]}}
 * {{ja-r|妹%姑|いも%-しゅうとめ}}
 * {{ja-r|妹%兄|いも%せ|rom=-}}, {{ja-r|妹%背|いも%せ}}
-* {{ja-r|妹 に 恋ひ|いも に こひ|rom=imo ni koi|pos=pillow word}}
 * {{ja-r|妹山|いもやま}}
-* {{ja-r|汝%妹|な%にも}}
-* {{ja-r|継%妹|まま%いも}}
-* {{ja-r|吾%妹|わ%ぎも}}
 {{der-bottom}}
 
 ===Etymology 2===
-{{IPAfont|⟨imo<sub>(1)</sub> pi<sub>1</sub>to<sub>2</sub>⟩}} → *{{IPAchar|/imopitə/}} → {{IPAchar|/imofito/}} → {{IPAchar|/imowito/}} → *{{IPAchar|/imowuto/}} {{IPAchar|/imoːto/}}
+{{IPAchar|/imo ɸito/}} → {{IPAchar|/imowito/}} → *{{IPAchar|/imowuto/}} → {{IPAchar|/imoːto/}}
 
-Originally a compound of {{m|ja||妹|tr=imo|pos=close female companion}} + {{m|ja|人|tr=hito||[[person]]}}.<ref>{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>
+Originally a compound of {{com|ja|sort=いもうと||alt1=妹|tr1=imo|t1=[[sister]], [[close]] [[female]] [[companion]]|人|tr2=hito|t2=[[person]]}}.<ref>{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>
 
 The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of {{m|ja|:w:ja:ウ音便|ウ音便|tr=u onbin|''u'' sound shift}}, found in terms with bilabial consonants ({{IPAchar|/m/}}, {{IPAchar|/b/}}, {{IPAchar|/w/}}) followed by ''i''; commonly seen in terms such as {{m|ja|玄人|tr=kurōto||[[professional]]}}, {{m|ja|素人|tr=shirōto||[[amateur]]}}, or possibly, {{m|ja|相撲|tr=sumō||[[sumo]]}}.
 
@@ -154,7 +142,6 @@ The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of
 {{ja-noun|いもうと}}
 
 # one's own [[younger]] [[sister]]
-#: {{antonyms|ja|姉|tr=ane}}
 #* {{quote-book
 |ja
 ||{{w|lang=ja|井沢ひろし|Izawa, Hiroshi}}
@@ -170,10 +157,13 @@ The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of
 |publisher=Shueisha
 |date=Jan 10 2005
 |isbn=4-08-873763-6}}
-#*:{{ja-usex|'''妹'''の仇だ！何%万%人だろうが地%獄へ送ってやる‼|'''いもうと''' の かたき だ！なん%まん%にん だろう が じ%ごく へ おくって やる‼|This is for my sister! Keep coming, all of you! I’ll send you all straight to hell‼}}
+#*:{{ja-usex|sort=いもうと|'''妹'''の仇だ！何%万%人だろうが地%獄へ送ってやる‼|'''いもうと''' の かたき だ！なん%まん%にん だろう が じ%ごく へ おくって やる‼|This is for '''my sister'''! Keep coming, all of you! I’ll send you all straight to hell‼}}
+#: {{ant|ja|姉|tr=ane}}
 # the [[wife]] of one's younger [[brother]]; one's [[sister-in-law]]
-#: {{synonyms|ja|義妹|tr=gimai}}
+#: {{syn|ja|義妹|tr=gimai}}
 # a younger [[female]]
+# {{lb|ja|archaic|said from a male speaker}} one's [[sister]] regardless of [[age]] [[difference]]
+#: {{ant|ja|兄人|tr=shōto}}
 
 =====Derived terms=====
 {{der-top}}
@@ -181,13 +171,14 @@ The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of
 * {{ja-r|妹 女郎|いもうと じょろう}}
 * {{ja-r|妹%分|いもうと%ぶん}}
 * {{ja-r|妹%婿|いもうと%-むこ|rom=-}}, {{ja-r|妹%聟|いもうと%-むこ}}
+* {{ja-r|弟%妹|おと%-いもうと|rom=-}}, {{ja-r|小妹|おと%-いもうと}}
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|いもと|yomi=k}}
-{{IPAchar|/imopitə/}} → *{{IPAchar|/imoputə/}} → *{{IPAchar|/imobutə/}} → *{{IPAchar|/imomutə/}} → *{{IPAchar|/imontə/}} → {{IPAchar|/imoto/}}
+{{ja-kanjitab|いもと|yomi=i}}
+Appears in ''{{w|The Tale of  Heiji}}'', written around the mid-12th century.
 
-Likely a variant shift from derived compound {{m|ja||妹|tr=imo|pos=close female companion}} + {{m|ja|人|tr=hito||[[person]]}}, appears in ''{{w|The Tale of  Heiji}}'', written around the mid-12th century.
+Likely a variant shift from compound {{com|ja||alt1=妹|tr1=imo|t1=[[sister]], [[close]] [[female]] [[companion]]|人|tr2=hito|t2=[[person]]}} or a further shift from ''imōto'' above. {{rfv-etymology|ja|sort=いもと}}
 
 ====Noun====
 {{ja-noun|いもと}}
@@ -201,11 +192,16 @@ Likely a variant shift from derived compound {{m|ja||妹|tr=imo|pos=close female
 ====Proper noun====
 {{ja-pos|proper|いもと}}
 
-# ''a [[place name]]''
+# ''a [[placename]]''
 
 ===Etymology 4===
-{{ja-kanjitab|まい|yomi=o}}
+{{ja-kanjitab|まい|yomi=goon}}
 From {{der|ja|ltc|sort=まい|-}} {{ltc-l|妹}}.
+
+====Affix====
+{{ja-pos|affix|まい}}
+
+# {{n-g|Same as {{l|ja||いもうと|tr=imōto}} above}}
 
 ====Proper noun====
 {{ja-pos|proper|まい}}
@@ -216,7 +212,7 @@ From {{der|ja|ltc|sort=まい|-}} {{ltc-l|妹}}.
 <references/>
 
 [[Category:Japanese basic words|いもうと]]
-[[Category:ja:Family|いもうと]]
+{{top|ja|Family|sort=いもうと}}
 
 ----
 
@@ -226,6 +222,74 @@ From {{der|ja|ltc|sort=まい|-}} {{ltc-l|妹}}.
 {{ko-hanja|hangeul=매}}
 
 # {{defn|lang=ko|sort=女05}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of related terms such as {{m|ja|女|tr=me<sub>1</sub>, womi<sub>1</sub>na||[[woman]]}}, {{m|ja|嫗|tr=omi<sub>1</sub>na||[[elderly]] woman}}, and {{m|ja|母|tr=omo<sub>1</sub>||[[mother]]}}.
+
+====Noun====
+{{head|ojp|noun|tr=imo<sub>1</sub> → imo|kana|いも}}
+
+# ''said from a male speaker'':
+## one's [[sister]] regardless of [[age]] [[difference]]
+##* {{RQ:Manyoshu|6|1007}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man6Yos.html#1007 here]
+##*: {{ux|ojp|言不問木尚'''妹'''與兄有云乎直獨子尓有之苦者|tr=ko<sub>2</sub>to<sub>2</sub> to<sub>1</sub>panu ki<sub>2</sub> sura '''imo''' to<sub>2</sub> se ari to<sub>2</sub> ipu wo tada pi<sub>1</sub>to<sub>2</sub>riko<sub>1</sub> ni aru ga kurusisa}}
+## one's [[lover]] or [[sweetheart]] who is the subject of [[marriage]] or is already [[marry|married]]
+##* {{RQ:Manyoshu|3|464}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#464 here]
+##*: {{ux|ojp|秋去者見乍思跡'''妹'''之殖之屋前乃{{ja-l|石竹}}開家流香聞|tr=aki<sub>1</sub> saraba mi<sub>1</sub>tutu sino<sub>1</sub>pe<sub>1</sub> to<sub>2</sub> '''imo''' ga uwesi nipa no<sub>2</sub> nadesiko<sub>1</sub> saki<sub>1</sub>nike<sub>1</sub>ru ka mo}}
+# ''said from a female speaker'':
+## a [[close]] [[female]] [[companion]]
+##* {{RQ:Manyoshu|4|782}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#782 here]
+##*: {{ux|ojp|風高邊者雖吹為'''妹'''袖左倍所沾而苅流玉藻焉|tr=kaze takaku pe<sub>1</sub> ni pa pukedo<sub>2</sub>mo '''imo''' ga tame<sub>2</sub> so<sub>1</sub>de sape<sub>2</sub> nurete kareru tamamo so<sub>2</sub>}}
+## one's sister regardless of age difference
+# a [[daughter]]
+#* {{RQ:Kojiki|poem 51}}
+#*: {{ux|ojp|...母登弊波岐美袁淤母比傅須恵幣波'''伊毛'''袁淤母比傅...|tr=...mo<sub>2</sub>to<sub>2</sub>pe<sub>1</sub> pa ki<sub>1</sub>mi<sub>1</sub> wo omo<sub>2</sub>pi<sub>1</sub>de suwepe<sub>1</sub> pa '''imo<sub>1</sub>''' wo omo<sub>2</sub>pi<sub>1</sub>de...}}
+
+=====Antonyms=====
+* {{m|ojp|兄|tr=se}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{m|ojp|妹ら|tr=imora}}
+* {{m|ojp|妹が家に|tr=imo ga ipe<sub>1</sub> ni|pos=[[pillow word]]}}
+* {{m|ojp|妹が髪|tr=imo ga *kami|pos=pillow word}}
+* {{m|ojp|妹が着る|tr=imo ga ki<sub>1</sub>ru|pos=pillow word}}
+* {{m|ojp|妹が袖|tr=imo ga so<sub>1</sub>de|pos=pillow word}}
+* {{m|ojp|妹が手を|tr=imo ga te wo|pos=pillow word}}
+* {{m|ojp|妹が紐|tr=imo ga pi<sub>1</sub>mo|pos=pillow word}}
+* {{m|ojp|妹が目を|tr=imo ga me<sub>2</sub> wo|pos=pillow word}}
+* {{m|ojp|妹許|tr=imogari}}
+* {{m|ojp|妹に恋ひ|tr=imo ni ko<sub>1</sub>pi<sub>2</sub>|pos=pillow word}}
+* {{m|ojp|汝妹|tr=nanimo<sub>1</sub>}}
+* {{m|ojp|継妹|tr=mamaimo<sub>1</sub>}}
+* {{m|ojp|吾妹|tr=wagi<sub>1</sub>mo<sub>1</sub>}}
+{{der-bottom}}
+
+=====Descendants=====
+* {{desc|ja|妹|tr=imo}}
+
+===Etymology 2===
+Shift from ''imo'' above, due to either for poetic reasons, [[haplology]], or reduction of vowel clusters; the latter which seen in {{m|ojp|吾妹|tr=wagi<sub>1</sub>mo<sub>1</sub>}}.
+
+====Noun====
+{{head|ojp|noun|tr=mo<sub>1</sub>|kana|いも}}
+
+# {{n-g|Same as {{l|ojp||いも|tr=imo<sub>1</sub>}} above}}
+#* {{RQ:Manyoshu|20|4388}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4388 here]
+#*: {{ux|ojp|多妣等弊等麻多妣爾奈理奴以弊乃'''母'''加枳世之己呂母爾阿加都枳爾迦理|tr=tabi<sub>1</sub> to<sub>2</sub> pe<sub>1</sub>do<sub>2</sub> ma-tabi<sub>1</sub> ni narinu ipe<sub>1</sub> no<sub>2</sub> '''mo''' ga ki<sub>1</sub>sesi ko<sub>2</sub>ro<sub>2</sub>mo ni aka tuki<sub>1</sub>nikari}}
+
+===Etymology 3===
+
+====Noun====
+{{head|ojp|noun|tr=imu|kana|いむ}}
+
+# {{lb|ojp|regional|Eastern Old Japanese}} {{n-g|Same as {{l|ojp||いも|tr=imo<sub>1</sub>}} above}}
+#* {{RQ:Manyoshu|20|4321}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4321 here]
+#*: {{ux|ojp|可之古伎夜美許等加我布理阿須由利也加曳我牟多祢牟'''伊牟'''奈之爾志弖|tr=kasiko<sub>1</sub>ki<sub>1</sub> ya mi<sub>1</sub>-ko<sub>2</sub>to<sub>2</sub> kagapuri asu yuri ya kaye ga muta nemu '''imu''' nasi ni site}}
 
 ----
 
