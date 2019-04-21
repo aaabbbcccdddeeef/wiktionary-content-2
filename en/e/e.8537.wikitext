@@ -297,11 +297,38 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 {{rfelite|zh}}
 
 ===Pronunciation===
+<!-- source code (uses too much Lua memory):
 {{zh-pron
 |m=yī,yì
 |c=ji1
 |cat=pref
 }}
+-->
+<div class="toccolours mw-collapsible mw-collapsed zhpron" style="width:500px; font-size:100%; overflow: hidden">
+* [[w:Mandarin Chinese|Mandarin]]
+*:<small>(''[[w:Pinyin|Pinyin]]'')</small>: <span class="form-of pinyin-ts-form-of" lang="cmn" style="font-family: Consolas, monospace;">[[yī]], [[yì]]</span>
+*:<small>(''[[w:Zhuyin|Zhuyin]]'')</small>: <span lang="zh-Bopo" class="Bopo">ㄧ, ㄧˋ</span>
+* [[w:Cantonese|Cantonese]] <small>(<i>[[w:Jyutping|Jyutping]]</i>)</small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+<div class="mw-collapsible-content zhpron">
+----
+* [[w:Mandarin Chinese|Mandarin]]
+** <small>(''[[w:Standard Chinese|Standard Chinese]]'')</small><sup><small><abbr title="Add Mandarin homophones (click on this if and only if you know what you are doing!)"><span class="plainlinks">[//en.wiktionary.org/w/index.php?title=Module%3Azh%2Fdata%2Fcmn-hom&action=edit +]</span></abbr></small></sup>
+*** <small>''[[w:Pinyin|Pinyin]]''</small>: <span class="form-of pinyin-ts-form-of" lang="cmn" style="font-family: Consolas, monospace;">[[yī]]</span>
+*** <small>''[[w:Zhuyin|Zhuyin]]''</small>: <span lang="zh-Bopo" class="Bopo">ㄧ</span>
+*** <small>''[[w:Gwoyeu Romatzyh|Gwoyeu Romatzyh]]''</small>: <tt>i</tt>
+*** <small>[[Wiktionary:International Phonetic Alphabet|IPA]] <sup>([[Appendix:Mandarin pronunciation|key]])</sup></small>: <span class="IPA">/i⁵⁵/</span><br>
+** <small>(''[[w:Standard Chinese|Standard Chinese]]'')</small><sup><small><abbr title="Add Mandarin homophones (click on this if and only if you know what you are doing!)"><span class="plainlinks">[//en.wiktionary.org/w/index.php?title=Module%3Azh%2Fdata%2Fcmn-hom&action=edit +]</span></abbr></small></sup>
+*** <small>''[[w:Pinyin|Pinyin]]''</small>: <span class="form-of pinyin-ts-form-of" lang="cmn" style="font-family: Consolas, monospace;">[[yì]]</span>
+*** <small>''[[w:Zhuyin|Zhuyin]]''</small>: <span lang="zh-Bopo" class="Bopo">ㄧˋ</span>
+*** <small>''[[w:Gwoyeu Romatzyh|Gwoyeu Romatzyh]]''</small>: <tt>yih</tt>
+*** <small>[[Wiktionary:International Phonetic Alphabet|IPA]] <sup>([[Appendix:Mandarin pronunciation|key]])</sup></small>: <span class="IPA">/i⁵¹/</span>
+* [[w:Cantonese|Cantonese]]
+** <small>(<i>[[w:Standard Cantonese|Standard Cantonese]], [[w:Guangzhou Cantonese|Guangzhou]]</i>)</small><sup><small><abbr title="Add Cantonese homophones (click on this if and only if you know what you are doing!)"><span class="plainlinks">[//en.wiktionary.org/w/index.php?title=Module%3Ayue-pron%2Fhom&action=edit +]</span></abbr></small></sup>
+*** <small><i>[[w:Jyutping|Jyutping]]</i></small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+*** <small><i>[[w:Yale romanization of Cantonese|Yale]]</i></small>: <span style="font-family: Consolas, monospace;">y<span style="cursor:help" title="or ì">ī</span></span>
+*** <small><i>[[w:Cantonese Pinyin|Cantonese Pinyin]]</i></small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+*** <small><i>[[w:Guangdong Romanization|Guangdong Romanization]]</i></small>: <span style="font-family: Consolas, monospace;">yi<sup>1</sup></span>
+*** <small>[[Wiktionary:International Phonetic Alphabet|IPA]] <sup>([[w:Cantonese phonology|key]])</sup></small>: <span class="IPA">/jiː<span style="cursor:help" title="or 53">⁵⁵</span>/</span></div></div>
 
 ===Prefix===
 {{zh-pref}}
