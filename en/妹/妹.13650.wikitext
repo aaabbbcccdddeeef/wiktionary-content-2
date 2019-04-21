@@ -133,7 +133,7 @@ The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of
 
 Originally a compound of {{com|ja|sort=いもうと||alt1=妹|tr1=imo|t1=[[sister]], [[close]] [[female]] [[companion]]|人|tr2=hito|t2=[[person]]}}.<ref>{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>
 
-The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of {{m|ja|:w:ja:ウ音便|ウ音便|tr=u onbin|''u'' sound shift}}, found in terms with bilabial consonants ({{IPAchar|/m/}}, {{IPAchar|/b/}}, {{IPAchar|/w/}}) followed by ''i''; commonly seen in terms such as {{m|ja|玄人|tr=kurōto||[[professional]]}}, {{m|ja|素人|tr=shirōto||[[amateur]]}}, or possibly, {{m|ja|相撲|tr=sumō||[[sumo]]}}.
+This is an instance of {{m|ja|:w:ja:ウ音便|ウ音便|tr=u onbin|''u'' sound shift}}, found in terms with bilabial consonants ({{IPAchar|/m/}}, {{IPAchar|/b/}}, {{IPAchar|/w/}}) followed by ''i''; commonly seen in terms such as {{m|ja|玄人|tr=kurōto||[[professional]]}}, {{m|ja|素人|tr=shirōto||[[amateur]]}}, or possibly, {{m|ja|相撲|tr=sumō||[[sumo]]}}.
 
 ====Pronunciation====
 {{ja-pron|y=k|いもうと|acc=4|acc_ref=SMK2,DJR,NHK}}
@@ -176,18 +176,14 @@ The shift from {{IPAchar|/imofito/}} → {{IPAchar|/imoːto/}} is an instance of
 
 ===Etymology 3===
 {{ja-kanjitab|いもと|yomi=i}}
-Appears in ''{{w|The Tale of  Heiji}}'', written around the mid-12th century.
+Appears in ''{{w|The Tale of Heiji}}'', written around the mid-12th century.
 
 Likely a variant shift from compound {{com|ja||alt1=妹|tr1=imo|t1=[[sister]], [[close]] [[female]] [[companion]]|人|tr2=hito|t2=[[person]]}} or a further shift from ''imōto'' above. {{rfv-etymology|ja|sort=いもと}}
 
 ====Noun====
 {{ja-noun|いもと}}
 
-# one's own [[younger]] [[sister]]
-#: {{antonyms|ja|姉|tr=ane}}
-# the [[wife]] of one's younger [[brother]]; one's [[sister-in-law]]
-#: {{synonyms|ja|義妹|tr=gimai}}
-# a younger [[female]]
+# {{lb|ja|sort=いもと|rare}} {{n-g|Same as {{l|ja||いもうと|tr=imōto}} above}}
 
 ====Proper noun====
 {{ja-pos|proper|いもと}}
@@ -273,7 +269,7 @@ The medial {{IPAchar|/-m-/}} means "[[woman]], [[female]]", found in a number of
 * {{desc|ja|妹|tr=imo}}
 
 ===Etymology 2===
-Shift from ''imo'' above, due to either for poetic reasons, [[haplology]], or reduction of vowel clusters; the latter which seen in {{m|ojp|吾妹|tr=wagi<sub>1</sub>mo<sub>1</sub>}}.
+Shift from ''imo<sub>1</sub>'' above, due to either for poetic reasons, [[haplology]], or reduction of vowel clusters; the latter which seen in {{m|ojp|吾妹|tr=wagi<sub>1</sub>mo<sub>1</sub>}}.
 
 ====Noun====
 {{head|ojp|noun|tr=mo<sub>1</sub> → mo|kana|も}}
