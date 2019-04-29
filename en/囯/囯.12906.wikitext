@@ -2,52 +2,63 @@
 {{character info/new}}
 ==Translingual==
 
-===Glyph origin===
-A {{w|variant Chinese character|variant form}} of {{m|mul|國}}.
-
-It is also used by the {{w|Taiping Heavenly Kingdom}} during the {{w|Qing Dynasty}}.
-
 ===Han character===
-{{Han char|rn=31|rad=囗|as=04|sn=7|four=|canj=WMG|ids=⿴囗王}}
+{{Han char|rn=31|rad=囗|as=04|sn=7|four=60104|canj=WMG|ids=⿴囗王}}
+
+====Derived characters====
+* {{l|mul|[[𦛢]], [[𨉽]], [[𤠪]]}}
+* {{l|mul|腘}} {{q|Exception: Only for Taiwan character. Contains {{l|mul|国}} for mainland China character}}
+
+====Related characters====
+* {{l|mul|國}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
 
 ====References====
-* {{Han ref|kx=0217.190|dkj=04716|dj=0445.020|hdz=10713.100|uh=56EF}}
+{{Han ref|kx=0217.190|dkj=04716|dj=0445.020|hdz=10713.100|uh=56EF}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han compound|囗|王|t1=to surround|t2=king|ls=ic}}. Earliest attested form in [[regular script]] found in {{lang|zh|sc=Hant|《宋敬業造象記》}} (507 AD).
+
+===Definitions===
 {{zh-see|國|sgsv}}
 
-----
-
-==Japanese==
-
-===Kanji===
-{{ja-kanji|grade=uc|rs=囗04}}
-
-# {{lb|ja|uncommon}} {{alternative form of|国|lang=ja}}
-
-====Readings====
-{{ja-readings
-|goon=こく
-|kanon=こく
-|kun=くに-
-}}
+===References===
+* {{R:twedu|A00734-001}}
 
 ----
 
 ==Khitan==
 
+===Glyph origin===
+Found on the Memorial for Lord Dorlipun {{lang|zh|《多羅里本郎君墓誌碑》}}, an epitaph written in [[w:Khitan large script|Khitan large script]] around 1081 AD.
+
+===Etymology===
+{{obor|zkt|ltc|-}} {{zh-l|囯*}}, a variant of {{ltc-l|國}}.
+
 ===Noun===
 {{head|zkt|noun}}
 
-# country, kingdom
+# [[country]]; [[kingdom]]
+#: {{quote-book|zkt|year=1081|author=|title={{lang|zh|《多羅里本郎君墓誌碑》}}|trans-title=Memorial for Lord Dorlipun|text={{lang|zh|皇帝[<small>⿱火日</small>][<small>⿰𤣩⿱⿻𠃊丨又</small>]弃[<small>⿻一⿵冂仌</small>]'''囯'''[<small>⿱火日</small>][<small>⿱干艹</small>][<small>⿻⿻二丨从</small>]}}|tr={{lang|zh|皇帝之時於丹'''國'''之宰相}}}}
+
+===References===
+* Cong, Yanshuang; Liu, Fengzhu; Chi, Jianxue ({{lang|zh|sc=Hant|叢艷雙，劉鳳翥，池建學}}) (2005). {{lang|zh|sc=Hant|契丹大字《多羅里本郎君墓志銘》考釋}} (A Textual Research and Explanation on the Inscription for Duoluoliben in Big Qidan Script). {{lang|zh|sc=Hant|《民族語文》}} (''Minority Languages of China''), issue 4, page 54.
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[quốc]]|rs=囗04}}
+{{vi-readings|rs=囗04
+|hanviet=quốc-tdcntd
+|phienthiet=
+|nom=quốc-tdcntd
+}}
 
-# {{defn|lang=vi|sort=囗04}}
+# {{alt form|lang=vi|國||{{han tu form of|quốc|[[nation]]; [[state]]; [[country]]}}}}
+
+===References===
+<references/>
