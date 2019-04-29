@@ -10,42 +10,71 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=甲-Min Nan “and; with”,合-Min Nan “and; with”}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|人|合|ls=psc|c1=s|c2=p|t1=person}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{zh-forms|alt=合-“and; with”,甲-“and; with”,及-“and; with”}}
+Related to {{och-l|合}}.
+
+{{etystub|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m=gé
-|c=daap6,gap3
+|c=gap3,gaap3,daap6
 |h=pfs=
 |md=
-|mn=kap/kah/ha̍h/khah
-|mn-t=gah4/kah4
-|mn-t_note=gah4 - "and", "accompanying"; kah4 - "too" (also written as 𠹛)
+|mn=kap/kah
+|mn_note=kap - literary; kah - vernacular
+|mn-t=gah4
 |w=
 |mc=1+2
 |oc=1+2
-|cat=conj,adv,v
+|cat=v,mn:conj,mn-t:conj,mn:prep,mn-t:prep
+}}
+{{attn|nan|ha̍h?}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[gather]]; to [[come]] [[together]]
+# {{lb|zh|Min Nan}} [[and]]
+# {{lb|zh|Min Nan}} [[with]]; [[accompanying]]
+
+=====Synonyms=====
+{{zh-dial|和}}
+
+====Compounds====
+{{zh-der|佮意:kah-ì|佮喙:kah-chhùi|佮股:kap-kó͘|相佮:saⁿ-kap}}
+
+===Etymology 2===
+{{zh-forms|alt=𠹛}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|mn-t=kah4
+|cat=adv
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[gather]]
-# {{lb|zh|Min Nan}} [[and]]; [[with]]; [[accompanying]]
 # {{lb|zh|Teochew}} [[too]]; [[excessively]]
 #: {{zh-x|佮 濟|'''too''' much|tr='''kah4''' zoi7|MN-T}}
-{{attention|zh|needs nondialectal definitions}}
 
 =====Synonyms=====
-{{zh-dial|和}}
 {{zh-dial|太}}
 
-===Pronunciation 2===
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
-|m=é
+|m=è
 |mc=3
 |oc=3
 |cat=pn
@@ -55,9 +84,6 @@
 {{zh-hanzi}}
 
 # {{surname|lang=zh}}
-
-===Compounds===
-{{zh-der|佮意:kah-ì}}
 
 ----
 
