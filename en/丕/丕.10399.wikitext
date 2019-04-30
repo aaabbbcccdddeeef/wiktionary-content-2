@@ -4,13 +4,16 @@
 ===Han character===
 {{Han char|rn=1|rad=一|as=04|sn=5|four=10109|canj=MFM|ids=⿱不一}}
 
+====Derived characters====
+* {{l|mul|[[伾]], [[呸]], [[坯]], [[㚰]], [[岯]], [[𢓖]], [[怌]], [[抷]], [[𣳎]], [[狉]], [[𨸹]], [[𣆏]], [[胚]], [[柸]], [[𤇨]], [[𤘹]], [[㺽]], [[𥅊]], [[𥑜]], [[𥘻]], [[秠]], [[𥹂]], [[䋔]]([[𫄞]]), [[蚽]], [[𣌹]], [[𠃂]], [[𫌶]], [[豾]], [[𨠙]], [[鉟]], [[𨸿]], [[𩎜]], [[𩚼]], [[駓]]([[𬳵]]), [[魾]], [[𪀇]], [[噽]], [[邳]], [[𣬾]], [[𣓺]], [[䪹]], [[䲹]], [[苤]], [[𤵛]], [[𨴈]], [[𩈓]], [[髬]], [[𪢩]], [[𨲐]], [[𩓭]], [[𩔌]]}}
+
 ====References====
 {{Han ref|kx=0077.100|dkj=00030|dj=0155.010|hdz=10015.010|uh=4E15}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㔻,㶨,𠦓,⿱不于}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -29,6 +32,7 @@
 {{zh-hanzi}}
 
 # [[large]]; [[grand]]
+#* {{zh-x|天下 之 壯觀，王者 之 丕 業。|ref=Shiji}}
 # {{surname|lang=zh}}
 
 ===Compounds===
@@ -42,7 +46,7 @@
 ===Kanji===
 {{ja-kanji|grade=uc|rs=一04}}
 
-# [[large]], [[grand]]
+# [[large]]; [[grand]]
 
 ====Readings====
 {{ja-readings
@@ -56,18 +60,29 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=비|rv=bi|mr=pi|eumhun=클|ehrv=keul|ehmr=k'ǔl|ehy=}}
+{{ko-hanja|크다|클|비}}
 
-# {{defn|lang=ko|sort=一04}}
+# {{hanja form of|비|[[large]]; [[grand]]}}
 
-====References====
-* {{Hanja ref|nav=9645}}
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|비자|丕子}}
+{{der-bottom}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=一04|reading=vậy}}
+{{vi-readings|rs=一04
+|hanviet=phi-tdcndg;tdcntd;gdhn;bonet;genibrel
+|phienthiet=鋪悲 phô bi
+|nom=vầy-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, vậy-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, phỉ-tdcndg;tdcntd;gdhn;btcn, bậy-gdhn;btcn;genibrel, phơi-tdcndg, chăng-gdhn, chẳng-gdhn, phi-btcn
+}}
 
-# {{defn|lang=vi|sort=一04}}
+# {{han tu form of|phi|[[large]]; [[grand]]}}
+# {{Nom form of|vầy|[[such]]; [[like]] [[this]]}}
+# {{Nom form of|vậy|[[so]]; [[thus]]}}
+
+===References===
+<references/>
