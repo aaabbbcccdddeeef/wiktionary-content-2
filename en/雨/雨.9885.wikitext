@@ -101,14 +101,14 @@ From {{inh|zh|sit-pro|*k/r/s-wa}}.
 ====Compounds====
 {{zh-der|fold=1|雨淚|雨人}}
 
-{{zh-cat|Beginning}}
+{{zh-cat|Beginning|Atmospheric phenomena}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=1|rs=雨00}}
+{{ja-Han characters|grade=1|rs=雨00}}
 
 ====Readings====
 {{ja-readings
@@ -258,7 +258,7 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 * {{R:Wamyō Ruijushō}}
 
 [[Category:Japanese basic words|あめ]]
-[[Category:ja:Weather|あめ]]
+{{C|ja|Atmospheric phenomena|sort=あめ}}
 
 ----
 
@@ -267,11 +267,11 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 ===Hanja===
 {{ko-hanja/new|비|우}}
 
-# {{defn|lang=ko|sort=雨00}}
+# {{hanja form of|우|[[rain]]}}
 
 ===Compounds===
-* [[雨傘]] (우산, usan)
-* [[雨雹]] (우박, ubak)
+* {{l|ko|雨傘|tr=우산, usan}}
+* {{l|ko|雨雹|tr=우박, ubak}}
 
 ----
 
@@ -279,32 +279,34 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 {{attention|mvi}}
 
 ===Kanji===
-{{head|mvi|kanji|hiragana|あみ|romaji|ami}}
+{{head|mvi|Han characters|hiragana|あみ|romaji|ami}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|あみ|romaji|ami}}
+{{head|mvi|noun|hiragana|あみ|romaji|ami|sort=あみ}}
 
 # [[rain]]
 
+{{C|mvi|Atmospheric phenomena|sort=あみ}}
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji|hiragana|あみ|romaji|ami}}
+{{head|ryu|Han characters|hiragana|あみ|romaji|ami}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|あみ|romaji|ami}}
+{{head|ryu|noun|hiragana|あみ|romaji|ami|sort=あみ}}
 
 # [[rain]]
 
 ====Compounds====
 {{top2}}
-* [[雨小]] ([[あみぐぁー]], ''[[amigwā]]''): [[light]] [[rain]], [[drizzle]], [[mizzle]], [[sprinkle]]
-* [[雨降い]] ([[あみふい]], ''[[amifui]]''): [[raining]], [[rainy]], [[rainfall]]
-* [[一雨]] ([[ちゅあみ]], ''[[chuami]]''): [[rainfall]], [[shower]]
+* {{l|ryu|雨小|tr=あみぐぁー, amigwā|t=light rain, drizzle, mizzle, sprinkle}}
+* {{l|ryu|雨降い|tr=あみふい, amifui|t=raining, rainy, rainfall}}
+* {{l|ryu一雨|tr=ちゅあみ, chuami|t=rainfall, shower}}
 {{bottom}}
 
+{{C|ryu|Atmospheric phenomena|sort=あみ}}
 ----
 
 ==Vietnamese==
@@ -327,29 +329,31 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 {{attention|yoi}}
 
 ===Kanji===
-{{head|yoi|kanji|hiragana|あみ|romaji|ami}}
+{{head|yoi|Han characters|hiragana|あみ|romaji|ami}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|あみ|romaji|ami}}
+{{head|yoi|noun|hiragana|あみ|romaji|ami|sort=あみ}}
 
 # [[rain]]
 
+{{C|yoi|Atmospheric phenomena|sort=あみ}}
 ----
 
 ==Yoron==
 {{attention|yox}}
 
 ===Kanji===
-{{head|yox|kanji|hiragana|あみ|romaji|ami}}
+{{head|yox|Han characters|hiragana|あみ|romaji|ami}}
 
 ===Noun===
-{{head|yox|noun|hiragana|あみ|romaji|ami}}
+{{head|yox|noun|hiragana|あみ|romaji|ami|sort=あみ}}
 
 # [[rain]]
 
-====Compounds====
+====Derived terms====
 {{top2}}
-* [[長雨]] ([[ながみ]], ''[[nagami]]''): [[rainy season]] (also [[霖]])
+* {{l|yox|長雨|tr=ながみ, nagami|t=rainy season}}
 {{bottom}}
 
+{{C|yox|Atmospheric phenomena|sort=あみ}}
 [[Category:CJKV radicals]]
