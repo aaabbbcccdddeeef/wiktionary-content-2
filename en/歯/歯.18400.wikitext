@@ -126,32 +126,32 @@ yopapi > yoɸaɸi > yowawi > yowai.
 :* {{R:Nippo Jisho}}
 
 [[Category:Japanese basic words|は]]
-[[Category:ja:Teeth|は]]
+{{C|ja|Teeth|sort=は}}
 
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji}}
+{{head|ryu|Han character}}
 
 * {{ja-readings|kun=[[はー]] (hā)}}
 
-===Etymology===
-Derived from {{inh|ryu|jpx-pro|*pa}}. Cognate with {{etyl|xug|-}} phaá, Middle Japanese ɸa, and modern {{etyl|ja|-}} ha.
-
-===Noun===
-{{head|ryu|noun|hiragana|はー|romaji|hā}}
-
-# [[tooth]]
-
 ====Compounds====
 {{top2}}
-* [[歯病ん]] ([[はーやん]], ''[[hāyan]]''): [[toothache]]
-* [[歯病み]] ([[はーやみ]] ''[[hāyami]]''): [[toothache]]
+* {{l|ryu|歯病ん|tr=はーやん, hāyan|t=toothache}}
+* {{l|ryu|歯病み|tr=はーやみ, hāyami|t=toothache}}
 {{bottom}}
+
+===Etymology===
+Inherited from {{inh|ryu|jpx-pro|*pa}}. Cognate with {{cog|xug|歯}} and {{cog|ja|歯}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|はー|romaji|hā|sort=はあ}}
+
+# [[tooth]]
 
 ===References===
 * {{R:Nippo Jisho}}
 
-[[Category:ryu:Teeth|はあ]]
+{{C|ryu|Teeth|sort=はあ}}
