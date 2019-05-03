@@ -72,28 +72,30 @@
 |kun=ひとや-, かた-い
 }}
 
-===Etymology===
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|牢屋|ろうや}}
+{{der-bottom}}
+
+===Etymology 1===
 {{ja-kanjitab|ろう|yomi=o}}
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=o|ろう|acc=1|acc_ref=DJR,NHK}}
 
-===Alternative forms===
+====Alternative forms====
 * {{ja-l|籠}}
 
-===Noun===
+====Noun====
 {{ja-noun|ろう|hhira=らう}}
 
 # [[prison]]
-
-====Synonyms====
-* {{ja-r|監獄|かんごく}}, {{ja-r|牢屋|ろうや}}
+#: {{syn|ja|監獄|牢屋|tr1=かんごく|tr2=ろうや}}
 
 ===References===
 <references/>
 
-[[Category:ja:Buildings|ろう]]
-[[Category:ja:Prison|ろう]]
+{{C|ja|Buildings|Prison|sort=ろう}}
 
 ----
 
@@ -109,24 +111,21 @@
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji|hiragana|るー|romaji|rū}}
+{{head|ryu|Han character|hiragana|るー|romaji|rū}}
+
+====Compounds====
+* {{l|ryu|牢屋|tr=るーや, rūya|t=prison}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|るー|romaji|rū}}
+{{head|ryu|noun|hiragana|るー|romaji|rū|sort=るう}}
 
 # [[prison]]
-
-====Synonyms====
-* {{l|ryu|監獄|tr=[[かんぐく]], ''[[kanguku]]''}}, {{l|ryu|牢屋|tr=[[るーや]], ''[[rūya]]''}}
-
-====Derived terms====
-* {{l|ryu|牢屋|tr=[[るーや]], ''[[rūya]]''||[[prison]]}}
+#: {{syn|ryu|監獄|牢屋|tr1=かんぐく, kanguku|tr2=るーや, rūya}}
 
 ===References===
 * {{R:Okinawago Jiten}}
 
-[[Category:ryu:Buildings|るう]]
-[[Category:ryu:Prison|るーや]]
+{{C|ryu|Buildings|Prison|sort=るう}}
 
 ----
 
