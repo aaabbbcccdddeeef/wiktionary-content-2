@@ -108,6 +108,9 @@
 
 Compound of {{com|ja|sort=からす|から|tr1=kara|t1=caw|pos1=onomatopoeia, imitative of a crow's [[caw]]|す|tr2=su|t2=bird|pos2=ancient suffix appearing in certain bird names, possibly cognate with {{cog|ko|새||bird}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare the {{m|ja|す|tr=su}} in {{m|ja|鶯|tr=uguisu}}, {{m|ja|杜鵑|tr=hototogisu}}, {{m|ja|モズ|tr=mozu}}.
 
+====Alternative forms====
+* {{l|ja|鴉}} {{qualifier|less common}}
+
 ====Pronunciation====
 {{ja-pron|yomi=k|からす|acc=1|acc_ref=DJR,NHK}}
 
@@ -115,17 +118,12 @@ Compound of {{com|ja|sort=からす|から|tr1=kara|t1=caw|pos1=onomatopoeia, im
 {{ja-noun|からす|カラス}}
 
 # a [[crow]] or a [[raven]]
-
-=====Alternative forms=====
-* {{l|ja|鴉}} {{qualifier|less common}}
+#: {{syn|ja|慈鳥|tr=じちょう, jichō}}
 
 =====Usage notes=====
 This is the most common reading for this character when used in isolation in modern Japanese.
 
 {{U:ja:biology|カラス}}
-
-=====Synonyms=====
-* {{ja-r|慈鳥|じちょう}}
 
 =====Derived terms=====
 {{der-top}}
@@ -171,27 +169,27 @@ The ''[[呉音#Japanese|goon]]'' pronunciation, so likely the initial borrowing.
 <references/>
 
 [[Category:Japanese basic words|からす]]
-[[Category:ja:Corvids|からす]]
+{{C|ja|Corvids|sort=からす}}
 
 ----
 
 ==Kikai==
 
-===Alternative forms===
-* {{l|kzg|鴉}}
+===Kanji===
+{{head|kzg|Han character|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā}}
 
 ===Etymology===
-Cognate with mainland {{cog|ja|烏|tr=karasu}}.
+Cognate with {{cog|ja|烏|tr=karasu}}.
 
-===Kanji===
-{{head|kzg|kanji|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā}}
+===Alternative forms===
+* {{alter|kzg|鴉}}
 
 ===Noun===
-{{head|kzg|noun|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā}}
+{{head|kzg|noun|hiragana|がらさー|romaji|garasā|hiragana|がるさー|romaji|garusā|sort=からさあ'}}
 
 # [[crow]], [[raven]]
 
-[[Category:kzg:Corvids|からさあ']]
+{{C|kzg|Corvids|sort=からさあ'}}
 
 ----
 
@@ -206,61 +204,61 @@ Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
 ==Northern Amami-Oshima==
 
-===Alternative forms===
-* {{l|ryn|鴉}}
+===Kanji===
+{{head|ryn|Han character|hiragana|からすぃ|romaji|karasi}}
 
 ===Etymology===
 Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
-===Kanji===
-{{head|ryn|kanji|hiragana|からすぃ|romaji|karasi}}
+===Alternative forms===
+* {{alter|ryn|鴉}}
 
 ===Noun===
-{{head|ryn|noun|hiragana|からすぃ|romaji|karasi}}
+{{head|ryn|noun|hiragana|からすぃ|romaji|karasi|sort=からすぃ}}
 
 # [[crow]], [[raven]]
 
-[[Category:ryn:Corvids|からすぃ]]
+{{C|ryn|Corvids|sort=からすぃ}}
 
 ----
 
 ==Oki-No-Erabu==
 
-===Alternative forms===
-* {{l|okn|鴉}}
+===Kanji===
+{{head|okn|Han character|hiragana|がらし|romaji|garashi}}
 
 ===Etymology===
 Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
-===Kanji===
-{{head|okn|kanji|hiragana|がらし|romaji|garashi}}
+===Alternative forms===
+* {{alter|okn|鴉}}
 
 ===Noun===
-{{head|okn|noun|hiragana|がらし|romaji|garashi}}
+{{head|okn|noun|hiragana|がらし|romaji|garashi|sort=からし'}}
 
 # [[crow]], [[raven]]
 
-[[Category:okn:Corvids|からし']]
+{{C|okn|Corvids|sort=からし'}}
 
 ----
 
 ==Okinawan==
 
-===Alternative forms===
-* {{l|ryu|鴉}}
+===Kanji===
+{{head|ryu|Han character|hiragana|がらし|romaji|garashi}}
 
 ===Etymology===
 Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
-===Kanji===
-{{head|ryu|kanji|hiragana|がらし|romaji|garashi}}
+===Alternative forms===
+* {{alter|ryu|鴉}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|がらし|romaji|garashi}}
+{{head|ryu|noun|hiragana|がらし|romaji|garashi|sort=からし'}}
 
 # [[crow]], [[raven]]
 
-[[Category:ryu:Corvids|からし']]
+{{C|ryu|Corvids|sort=からし'}}
 
 ----
 
@@ -275,18 +273,18 @@ Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
 ==Yonaguni==
 
-===Alternative forms===
-* {{l|yoi|鴉}}
+===Kanji===
+{{head|yoi|Han character|hiragana|がらち|romaji|garachi}}
 
 ===Etymology===
 Cognate with mainland {{cog|ja|烏|tr=karasu}}.
 
-===Kanji===
-{{head|yoi|kanji|hiragana|がらち|romaji|garachi}}
+===Alternative forms===
+* {{alter|yoi|鴉}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|がらち|romaji|garachi}}
+{{head|yoi|noun|hiragana|がらち|romaji|garachi|sort=からち'}}
 
 # [[crow]], [[raven]]
 
-[[Category:yoi:Corvids|からち']]
+{{C|yoi|Corvids|sort=からち'}}
