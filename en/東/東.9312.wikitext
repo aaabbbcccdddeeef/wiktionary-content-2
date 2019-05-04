@@ -29,27 +29,7 @@
 Phonetic borrowing – originally represented a bag tied at both ends (like a cellophane-wrapped candy with the ends twisted), and was later borrowed phonetically to mean “east”. This borrowing may have been influenced by reinterpreting the character as the sun ({{zh-l|*日}}) rising behind a tree ({{zh-l|*木}}), which is the traditional (though incorrect) etymology, as given in ''{{w|Shuowen}}''.
 
 ===Pronunciation===
-{{zh-pron
-|m=dōng
-|ma=y
-|m-s=
-|dg=дун1
-|c=dung1
-|c-t=
-|g=
-|h=pfs=tûng
-|j=
-|md=dĕ̤ng
-|mn=tang/tong
-|mn_note=tang - colloquial; tong - literary
-|mn-t=dang1/dong1
-|mn-t_note=dang1 - colloquial; dong1 - literary
-|w=1ton
-|x=
-|mc=y
-|oc=y
-|cat=n,a
-}}
+{{zh-pron|m=dōng|ma=y|m-s=|dg=дун1|c=dung1|c-t=|g=|h=pfs=tûng|j=|md=dĕ̤ng|mn=tang/tong|mn_note=tang - colloquial; tong - literary|mn-t=dang1/dong1|mn-t_note=dang1 - colloquial; dong1 - literary|w=1ton|x=|mc=y|oc=y|cat=n,a}}
 
 ===Definitions===
 {{zh-hanzi}}
@@ -384,7 +364,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 <references/>
 
 [[Category:Japanese basic words|ひかし]]
-{{top|ja|Compass points|sort=ひかし}}
+{{c|ja|Compass points|sort=ひかし}}
 
 ----
 
@@ -407,9 +387,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji}}
-
-====Readings====
+{{head|ryu|Han character}}
 * Native: く (ku), くち (kuchi), あがり (agari)
 * Nonnative: とー (tō), とぅ (tu)
 
@@ -423,14 +401,14 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 From {{m|ryu|上り|tr=agari|gloss=[[ascent]], [[rise]]}} in reference to the direction where the [[sun]] rises, or ''ascends''.
 
 ===Pronunciation===
-* {{IPA|/ʔaɡaɾi/|lang=ryu}}
+* {{IPA|/ʔaɡaɾi/|lang=ryu|sort=あがり}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|あがり|romaji|agari}}
+{{head|ryu|noun|hiragana|あがり|romaji|agari|sort=あがり}}
 
 # [[east]]
 
-[[Category:ryu:Compass points]]
+{{C|ryu|Compass points|sort=あがり}}
 
 ----
 
@@ -479,6 +457,7 @@ Originally a compound of {{com|ojp|sort=ひむかし|日|tr1=pi<sub>1</sub>|t1=[
 ===References===
 <references/>
 
+{{c|ojp|Compass points|sort=あづま}}
 ----
 
 ==Vietnamese==
@@ -493,20 +472,18 @@ Originally a compound of {{com|ojp|sort=ひむかし|日|tr1=pi<sub>1</sub>|t1=[
 ==Yoron==
 
 ===Kanji===
-{{head|yox|kanji}}
-
-====Readings====
+{{head|yox|Han character}}
 * Native: あがり (agari)
 
 ===Etymology===
 From {{m|yox|上り|tr=agari|gloss=[[ascent]], [[rise]]|sc=Jpan}} in reference to the direction where the [[sun]] rises, or ''ascends''.
 
 ===Pronunciation===
-* {{IPA|/ʔaɡaɾi/|lang=yox}}
+* {{IPA|/ʔaɡaɾi/|lang=yox|sort=あがり}}
 
 ===Noun===
-{{head|yox|noun|hiragana|あがり|romaji|agari}}
+{{head|yox|noun|hiragana|あがり|romaji|agari|sort=あがり}}
 
 # [[east]]
 
-[[Category:yox:Compass points]]
+{{C|yox|Compass points|sort=あがり}}
