@@ -63,7 +63,7 @@
 ===Further reading===
 * {{thcwd|4211}}
 
-{{zh-cat|Intermediate}}
+{{zh-cat|Intermediate|Trees}}
 
 ----
 
@@ -76,19 +76,14 @@
 # [[branch]], [[limbs]]
 
 ====Readings====
-{{ja-readings
-|goon=し, ぎ
-|kanon=し, き
-|kun=えだ-
-|nanori=え, えだ, き, しげ, しな
-}}
+{{ja-readings|goon=し, ぎ|kanon=し, き|kun=えだ-|nanori=え, えだ, き, しげ, しな}}
 
 ====References====
 * [[Wikipedia:Shift_JIS|Shift_JIS]]: 8E7D
 * [[Wikipedia:JIS encoding|JIS]]: 3B5E
 
 ===Etymology===
-From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Cognate with {{cog|xug|枝|tr=ゆだー, yudaa}}, {{cog|mvi|枝|tr=ゆだ, yuda}}, {{cog|ryu|枝|tr=いぃだ, yida}}, {{m|ryu|枝|tr=ゆだ, yuda}}, {{cog|rys|枝|tr=ゆだ, yuda}}, {{cog|yoi|枝|tr=どぅだ, duda}}.
+From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Cognate with {{cog|xug|枝|tr=ゆだー, yudā}}, {{cog|mvi|枝|tr=ゆだ, yuda}}, {{cog|ryu|枝|tr=いぃだ, yida}}, {{m|ryu|枝|tr=ゆだ, yuda}}, {{cog|rys|枝|tr=ゆだ, yuda}}, {{cog|yoi|枝|tr=どぅだ, duda}}.
 
 ===Noun===
 {{ja-noun|えだ}}
@@ -99,6 +94,7 @@ From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Co
 ====Coordinate terms====
 * {{ja-r|葉|gloss=leaf|は}}
 
+{{c|ja|Trees|sort=えだ}}
 ----
 
 ==Korean==
@@ -113,60 +109,56 @@ From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Co
 ==Kunigami==
 
 ===Kanji===
-{{head|xug|kanji}}
+{{head|xug|Han character}}
 
-* {{ja-readings|kun=[[ゆだー]] (yudaa)}}
+* {{ja-readings|kun=[[ゆだー]] (yudā)}}
 
 ===Pronunciation===
-* {{IPA|/judaː/|lang=xug}}
+* {{IPA|/judaː/|lang=xug|sort=ゆだあ}}
 
 ===Noun===
-{{head|xug|noun|hiragana|ゆだー|romaji|yudaa}}
+{{head|xug|noun|hiragana|ゆだー|romaji|yudā|sort=ゆだあ}}
 
 # [[branch]]
 
+{{c|xug|Trees|sort=ゆだあ}}
 ----
 
 ==Miyako==
 
 ===Kanji===
-{{head|mvi|kanji}}
+{{head|mvi|Han character}}
 
 * {{ja-readings|kun=[[ゆだ]] (yuda)}}
 
 ===Pronunciation===
-* {{IPA|/juda/|lang=mvi}}
+* {{IPA|/juda/|lang=mvi|sort=ゆだ}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|ゆだ|romaji|yuda}}
+{{head|mvi|noun|hiragana|ゆだ|romaji|yuda|sort=ゆだ}}
 
 # [[branch]]
 
+{{c|mvi|Trees|sort=ゆだ}}
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji}}
+{{head|ryu|Han character}}
 
 * {{ja-readings|kun=[[いぃだ]] (yida), [[ゆだ]] (yuda)}}
 
 ===Pronunciation===
-* {{IPA|/jida/|lang=ryu}}
-
-===Noun===
-{{head|ryu|noun|hiragana|いぃだ|romaji|yida}}
-
-# [[branch]]
-
-===Pronunciation===
+* {{IPA|/jida/|lang=ryu|sort=いぃだ}}
 * {{IPA|/juda/|lang=ryu}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|ゆだ|romaji|yuda}}
+{{head|ryu|noun|hiragana|いぃだ|romaji|yida|hiragana|ゆだ|romaji|yuda|sort=いぃだ}}
 
 # [[branch]]
 
+{{c|ryu|Trees|sort=いぃだ}}
 ----
 
 ==Vietnamese==
@@ -181,31 +173,34 @@ From earlier ''yeda'', from {{inh|ja|jpx-pro|*yənta}}, {{m|jpx-pro|*yenta}}. Co
 ==Yaeyama==
 
 ===Kanji===
-{{head|rys|kanji}}
+{{head|rys|Han character}}
 
 * {{ja-readings|kun=[[ゆだ]] (yuda)}}
 
 ===Pronunciation===
-* {{IPA|/juda/|lang=rys}}
+* {{IPA|/juda/|lang=rys|sort=ゆだ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|ゆだ|romaji|yuda}}
+{{head|rys|noun|hiragana|ゆだ|romaji|yuda|sort=ゆだ}}
 
 # [[branch]]
 
+{{c|rys|Trees|sort=ゆだ}}
 ----
 
 ==Yonaguni==
 
 ===Kanji===
-{{head|yoi|kanji}}
+{{head|yoi|Han character}}
 
 * {{ja-readings|kun=[[どぅだ]] (duda)}}
 
 ===Pronunciation===
-* {{IPA|/duda/|lang=yoi}}
+* {{IPA|/duda/|lang=yoi|とぅだ'}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|どぅだ|romaji|duda}}
+{{head|yoi|noun|hiragana|どぅだ|romaji|duda|sort=とぅだ'}}
 
 # [[branch]]
+
+{{c|yoi|Trees|sort=とぅだ'}}
