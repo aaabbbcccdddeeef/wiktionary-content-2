@@ -77,7 +77,7 @@
 # {{†}} {{zh-alt-form|釉|to glaze}}
 # {{zh-used in|浩油}}
 
-{{zh-cat|Elementary}}
+{{zh-cat|Elementary|Fats and oils|Liquids}}
 
 ----
 
@@ -87,11 +87,7 @@
 {{ja-kanji|grade=3|rs=水05}}
 
 ====Readings====
-{{ja-readings
-|goon=ゆ
-|kanon=ゆう<いう
-|kun=あぶら-
-}}
+{{ja-readings|goon=ゆ|kanon=ゆう<いう|kun=あぶら-}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -124,56 +120,74 @@
 
 ----
 
-==Miyako==
-
-===Etymology===
-Cognate with mainland {{cog|ja|油|tr=abura}}.
+==Kunigami==
 
 ===Kanji===
-{{head|mvi|kanji}}
+{{head|xug|Han character}}
 
-* {{ja-readings|kun=[[あっゔぁ]] (avva)}}
+* {{ja-readings|kun=[[あんだー]] (andā)}}
+
+===Etymology===
+Cognate with {{cog|ja|油|tr=abura}}.
 
 ===Noun===
-{{head|mvi|noun|hiragana|あっゔぁ|romaji|avva}}
+{{head|xug|noun|hiragana|あんだー|romaji|andā|sort=あんだあ}}
 
 # [[oil]]
 
-[[Category:mvi:Liquids|あっゔぁ]]
+{{C|xug|Fats and oils|Liquids|sort=あんだあ}}
+
+----
+
+==Miyako==
+
+===Kanji===
+{{head|mvi|Han character}}
+
+* {{ja-readings|kun=[[あっゔぁ]] (avva)}}
+
+===Etymology===
+Cognate with {{cog|ja|油|tr=abura}}.
+
+===Pronunciation===
+* {{IPA|/avva/|/aʋva/|/aʋʋa/|lang=mvi|sort=あっゔぁ}}
+
+===Noun===
+{{head|mvi|noun|hiragana|あっゔぁ|romaji|avva|sort=あっゔぁ}}
+
+# [[oil]]
+
+{{C|mvi|Fats and oils|Liquids|sort=あっゔぁ}}
 
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji}}
+{{head|ryu|Han character}}
 
 * {{ja-readings|kun=[[あんだ]] (anda)}}
 
-====Compounds====
-{{der-top|Compounds}}
-* [[油口]] ([[あんだぐち]], ''[[andaguchi]]''): [[praise]]; [[fawning]]; [[obsequiousness]]; [[unremittant]] [[speech]]
-* [[油人]] ([[あんだちゅー]], ''[[andachū]]''): [[green grass lizard]] (''Takydromus smaragdinus'')
-* [[油虫]] ([[あんだむさー]], ''[[andamusā]]''): [[slug]]
-{{der-bottom}}
-
 ===Etymology===
-Cognate with mainland {{cog|ja|油|tr=abura}}.
+Cognate with {{cog|ja|油|tr=abura}}.
+
+===Pronunciation===
+* {{IPA|/an̩da/|lang=ryu|sort=あんだ}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|あんだ|romaji|anda}}
+{{head|ryu|noun|hiragana|あんだ|romaji|anda|sort=あんだ}}
 
 # [[oil]]
 
 ====Derived terms====
 {{der-top}}
-* {{l|ryu|油口|tr=[[あんだぐち]], ''[[andaguchi]]''||[[praise]]; [[fawning]]; [[unremittant]] [[speech]]}}
-* {{l|ryu|油虫|tr=[[あんだむさー]], ''[[andamusā]]''||[[slug]]}}
-* {{l|ryu|油人|tr=[[あんだちゅー]], ''[[andachū]]''||[[green grass lizard]] (''Takydromus smaragdinus'')}}
-* {{l|ryu|あんだぎー|tr=''[[andagī]]''||[[andagi]]}}
+* {{l|ryu|油口|tr=あんだぐち, andaguchi|t=praise; fawning; unremittant speech}}
+* {{l|ryu|油虫|tr=あんだむさー, andamusā|t=slug}}
+* {{l|ryu|油人|tr=あんだちゅー, andachū|t=green grass lizard (''Takydromus smaragdinus'')}}
+* {{l|ryu|あんだぎー|tr=andagī|t=andagi}}
 {{der-bottom}}
 
-[[Category:ryu:Liquids|あんだ]]
+{{C|ryu|Fats and oils|Liquids|sort=あんだ}}
 
 ----
 
