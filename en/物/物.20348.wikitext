@@ -21,7 +21,26 @@
 {{Han compound|牛|勿|ls=psc|c1=s|c2=p}}.
 
 ===Pronunciation===
-{{zh-pron|m=wù|m-s=|c=mat6|c-t=|g=|h=pfs=vu̍t;gd=vud6|j=|mb=ŭ/ŏ|md=ŭk|mn=xm,zz,kh,tn,tc:mi̍h/qz,lk,sx,km,mg,hc:mn̍gh/tp:mn̄g/yl:mī/qz,kh,tn,km,mg:mih/bu̍t|mn_note=mi̍h/mn̍gh - vernacular (“thing”); mih - vernacular (limited, used in {{zh-l|*物仔}}, {{zh-l|*物代}}, {{zh-l|*啥物}}, etc.); bu̍t - literary|mn-t=muêh8|w=5veq|x=|mc=y|oc=y|ma=|cat=n,v}}
+{{zh-pron
+|m=wù
+|m-s=
+|c=mat6
+|c-t=
+|g=
+|h=pfs=vu̍t;gd=vud6
+|j=
+|mb=ŭ/ŏ
+|md=ŭk
+|mn=xm,zz,kh,tn,tc:mi̍h/qz,lk,sx,km,mg,hc:mn̍gh/tp:mn̄g/yl:mī/qz,kh,tn,km,mg:mih/bu̍t
+|mn_note=mi̍h/mn̍gh - vernacular (“thing”); mih - vernacular (limited, used in {{zh-l|*物仔}}, {{zh-l|*物代}}, {{zh-l|*啥物}}, etc.); bu̍t - literary
+|mn-t=muêh8
+|w=5veq
+|x=
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
 
 ===Definitions===
 {{zh-hanzi}}
@@ -51,7 +70,11 @@
 {{ja-kanji|grade=3|rs=牛04}}
 
 ====Readings====
-{{ja-readings|goon=もつ, もち|kanon=ぶつ|kun=もの-, もん-}}
+{{ja-readings
+|goon=もつ, もち
+|kanon=ぶつ
+|kun=もの-, もん-
+}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -125,15 +148,15 @@ Shift from ''mono'' above.
 ==Kunigami==
 
 ===Kanji===
-{{head|xug|Han character}}
+{{head|xug|kanji}}
 
-* {{ja-readings|kun=[[むぬー]] (munū)}}
+* {{ja-readings|kun=[[むぬー]] (munuu)}}
 
 ===Pronunciation===
-* {{IPA|/munuː/|lang=xug|sort=むぬう}}
+* {{IPA|/munuː/|lang=xug}}
 
 ===Noun===
-{{head|xug|noun|hiragana|むぬー|romaji|munū|sort=むぬう}}
+{{head|xug|noun|hiragana|むぬー|romaji|munuu}}
 
 # [[thing]]
 
@@ -142,15 +165,15 @@ Shift from ''mono'' above.
 ==Miyako==
 
 ===Kanji===
-{{head|mvi|Han character}}
+{{head|mvi|kanji}}
 
 * {{ja-readings|kun=[[むぬ]] (munu)}}
 
 ===Pronunciation===
-* {{IPA|/munu/|lang=mvi|sort=むぬ}}
+* {{IPA|/munu/|lang=mvi}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|むぬ|romaji|munu|sort=むぬ}}
+{{head|mvi|noun|hiragana|むぬ|romaji|munu}}
 
 # [[thing]]
 
@@ -159,18 +182,26 @@ Shift from ''mono'' above.
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han character}}
+{{head|ryu|kanji}}
 
 * {{ja-readings|kun=[[むぬ]] (munu), [[むん]] (mun)}}
 
 ===Pronunciation===
-* {{IPA|/munu/|lang=ryu|sort=むぬ}}
+* {{IPA|/munu/|lang=ryu}}
+
+===Noun===
+{{head|ryu|noun|hiragana|むぬ|romaji|munu}}
+
+# [[thing]]
+
+===Pronunciation===
 * {{IPA|/muŋ/|lang=ryu}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|むぬ|romaji|munu|hiragana|むん|romaji|mun|sort=むぬ}}
+{{head|ryu|noun|hiragana|むん|romaji|mun}}
 
 # [[thing]]
+
 ----
 
 ==Vietnamese==
@@ -185,15 +216,15 @@ Shift from ''mono'' above.
 ==Yaeyama==
 
 ===Kanji===
-{{head|rys|Han character}}
+{{head|rys|kanji}}
 
 * {{ja-readings|kun=[[むぬ]] (munu)}}
 
 ===Pronunciation===
-* {{IPA|/munu/|lang=rys|sort=むぬ}}
+* {{IPA|/munu/|lang=rys}}
 
 ===Noun===
-{{head|rys|noun|hiragana|むぬ|romaji|munu|sort=むぬ}}
+{{head|rys|noun|hiragana|むぬ|romaji|munu}}
 
 # [[thing]]
 
@@ -202,14 +233,14 @@ Shift from ''mono'' above.
 ==Yonaguni==
 
 ===Kanji===
-{{head|yoi|Han character}}
+{{head|yoi|kanji}}
 
 * {{ja-readings|kun=[[むぬ]] (munu)}}
 
 ===Pronunciation===
-* {{IPA|/munu/|lang=yoi|sort=むぬ}}
+* {{IPA|/munu/|lang=yoi}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|むぬ|romaji|munu|sort=むぬ}}
+{{head|yoi|noun|hiragana|むぬ|romaji|munu}}
 
 # [[thing]]
