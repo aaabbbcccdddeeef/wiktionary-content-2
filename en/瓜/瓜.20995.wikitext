@@ -73,17 +73,15 @@
 
 ====Readings====
 {{ja-readings
-|goon=け<くゑ
+|goon=け<け<くゑ
 |kanon=か<くわ
 |kun=うり-
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|胡瓜|きゅうり}}: cucumber
-* {{ja-r|西瓜|すいか}}: watermelon
-* {{ja-r|南瓜|かぼちゃ}}: a Japanese pumpkin
-{{der-bottom}}
+* {{ja-r|西%瓜|すい%か|[[watermelon]]}}
+* {{ja-r|南瓜|なんか}}
+* {{ja-r|南瓜|カボチャ|[[squash]]}}
 
 ===Etymology===
 <div style="float:right;">
@@ -94,11 +92,11 @@
 </div>
 {{ja-kanjitab|yomi=k|うり}}
 
-From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*ori}}. Found in the ''{{w|Man'yōshū}}'', compiled some time after 759 CE.
+From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*ori}}. Found in the ''{{w|Man'yōshū}}'', compiled some time after 759 {{CE}}.
 
-Possibly derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|熟る|tr=uru||to ripen}}, modern form {{m|ja|熟れる|tr=ureru}}.
+Possibly derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of classical verb {{m|ja|熟る|tr=uru}}, modern form {{m|ja|熟れる|tr=ureru||to [[ripen]]}}.
 
-Possibly cognate with {{cog|ko|오이||cucumber}}; compare other terms in the Japonic family, such as {{cog|kzg|瓜|tr=ui}} and {{cog|yox|瓜|tr=ui}}.
+Possibly cognate with {{cog|ko|오이||[[cucumber]]}}; compare other terms in the Japonic family, such as {{cog|kzg|瓜|tr=ui}} and {{cog|yox|瓜|tr=ui}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=k|うり|acc=1|acc_ref=DJR}}
@@ -110,6 +108,9 @@ Possibly cognate with {{cog|ko|오이||cucumber}}; compare other terms in the Ja
 
 ====Usage notes====
 {{U:ja:biology|ウリ}}
+
+====Derived terms====
+* {{ja-r|胡瓜|きゅうり|rom=-}}, {{ja-r|黄瓜|きゅうり|[[cucumber]]}}
 
 ====Idioms====
 {{der-top|Idioms}}
