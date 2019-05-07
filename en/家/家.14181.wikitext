@@ -142,27 +142,27 @@
 {{ja-readings
 |goon=け, く
 |kanon=か, こ
-|kun=いえ-<いへ-, や-<や-, うち-<うち-
+|kun=いえ-<いへ-, や-, うち-
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|家%屋|か%おく}}
-* {{ja-r|家%具|か%ぐ}}
+* {{ja-r|家具|かぐ}}
 * {{ja-r|家%族|か%ぞく}}
 * {{ja-r|家%庭|か%てい}}
-{{der-mid}}
-* {{ja-r|家%禽|か%きん}}: [[domestic]] [[fowl]], [[poultry]]
-* {{ja-r|家%守|や%もり}}: [[gecko]]
-* {{ja-r|家%守|や%もり}}: [[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period
+* {{ja-r|家禽|かきん}}: [[domestic]] [[fowl]], [[poultry]]
+* {{ja-r|家守|やもり}}: [[gecko]]
+* {{ja-r|家守|やもり}}: [[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|いえ|yomi=k}}
+{{IPAfont|⟨ipe<sub>1</sub>⟩}} → *{{IPAchar|/ipʲe/}} → {{IPAchar|/iɸe/}} → {{IPAchar|/iwe/}} → {{IPAchar|/ie/}}
 
-/ihe<small>1</small>/: [ie] ← [iwe] ← [iɸe] ← [ipe].
+From {{inh|ja|ojp|sort=いえ|-}}.
 
-Possibly related to {{m|ja|廬|tr=io||temporary hut}}.
+Possibly related to {{m|ja|廬|tr=iho → io||[[temporary]] [[hut]]}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|いえ|acc=2|acc_ref=DJR,NHK}}
@@ -172,7 +172,7 @@ Possibly related to {{m|ja|廬|tr=io||temporary hut}}.
 
 # a [[house]]
 # one's own [[home]]
-# a [[home]]; a [[household]]
+# a [[home]], [[household]]
 #* {{quote-book||
 |{{ruby|{{w2|ja|魔法使いの嫁|[魔法使いの嫁](The Ancient Magus Bride)|sc=Jpan}}}}
 ||17
@@ -190,43 +190,13 @@ Possibly related to {{m|ja|廬|tr=io||temporary hut}}.
 #*: {{ja-usex|ここが僕の'''家'''　そして今日から君が暮らす'''家'''でもある|^ここ が ぼく の '''いえ'''　^そして きょう から きみ が くらす '''いえ''' で も ある|This is my home. From now on, you will live here, too.}}
 # a [[family]]
 
-====Suffix====
-{{ja-pos|か|suffix}}
-
-# (as suffix) an [[expert]], [[professional]], [[performer]]
-
 ===Etymology 2===
-{{ja-kanjitab|うち|yomi=k}}
-Cognate with {{m|ja|内|tr=uchi}}.
-
-====Pronunciation====
-{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
-
-====Noun====
-{{ja-noun|うち}}
-
-# a house
-# one's house
-
-=====Descendants=====
-* English: {{l|en|hooch}}
-
-====Suffix====
-{{ja-pos|け|suffix}}
-
-# a suffix representing relationship to a family
-#: {{ja-usex|平'''家'''|たいら-'''け'''|the Taira family}}
-
-===Etymology 3===
-A contraction of [[家|uchi]] → chi. Often following the genitive case marker [[の|no]] which contracts to ''n''.
-
-====Noun====
-{{ja-noun|ち}}
-
-# house
-#: {{ja-usex|俺ん'''家'''に来ない？|おれ ん '''ち''' に こない？|Wanna come to my place?}}
-
 {{ja-kanjitab|や|yomi=k}}
+
+{{rfe|ja|sort=や}}
+
+====Alternative forms====
+* {{ja-l|屋}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|や|acc=1|acc_ref=DJR,NHK}}
@@ -234,7 +204,7 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 ====Noun====
 {{ja-noun|や}}
 
-# house
+# a [[house]]
 
 ====Suffix====
 {{ja-pos|や|suffix}}
@@ -245,6 +215,61 @@ A contraction of [[家|uchi]] → chi. Often following the genitive case marker 
 =====See also=====
 * {{ja-r|者|-しゃ}}
 * {{ja-r|手|-しゅ}}
+
+===Etymology 3===
+{{ja-kanjitab|うち|yomi=k}}
+Cognate with {{m|ja|内|tr=uchi||[[middle]]}}.<ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|うち}}
+
+# a [[house]]
+# one's house
+
+=====Descendants=====
+* English: {{l|en|hooch}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=i|sort=ち}}
+
+Contraction of ''uchi'' above.
+
+Often following the genitive case marker {{ja-r|の}} which contracts to ''-n''.
+
+====Noun====
+{{ja-noun|ち}}
+
+# a [[house]]
+#: {{ja-usex-inline|俺ん'''家'''に来ない？|^おれん'''ち''' に こない？|Wanna come to my '''place'''?}}
+
+===Etymology 5===
+{{ja-kanjitab|か|yomi=kanon}}
+
+From {{bor|ja|ltc|sort=か|-}} {{ltc-l|家}}.
+
+The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}}, so likely a latter borrowing from {{cog|ltc|-}}.
+
+====Suffix====
+{{ja-pos|か|suffix}}
+
+# an [[expert]], [[professional]], [[performer]]
+
+=====Derived terms=====
+* {{ja-r|漫画家|まんがか}}
+
+===Etymology 6===
+{{ja-kanjitab|け|yomi=goon}}
+
+The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}}, so likely the initial borrowing from {{cog|ltc|-}}.
+
+====Suffix====
+{{ja-pos|け|suffix}}
+
+# {{n-g|representing [[relationship]] to a [[family]]}}
+#: {{ja-usex-inline|[[平]]'''家'''|^たいら-'''け'''|the Taira family}}
 
 ===References===
 <references/>
