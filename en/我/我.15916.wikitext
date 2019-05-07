@@ -23,9 +23,9 @@
 ===Glyph origin===
 {{Han etyl}}
 
-A {{liushu|p|nocap=y}} of a rake-like tool or weapon (note oracle bone script form); {{w|Guo Moruo}} considers it to be the original character for {{och-l|錡|id=1|a kind of axe or chisel}}. It was already borrowed for sound to mean "I" since the oracle bone script.
+A {{liushu|p|nocap=y}} of a [[rake]]-like tool or weapon (note the oracle bone script form); {{w|Guo Moruo}} considers it to be the original character for {{och-l|錡|id=1|a kind of [[axe]] or [[chisel]]}}. It was already borrowed for sound to mean "I" since the oracle bone script.
 
-Folk etymology considers it to be an ideograph of a hand {{zh-l|*手}} holding a weapon {{zh-l|*戈}} to protect oneself.
+Folk etymology considers it to be an ideograph of a [[hand]] ({{zh-l|*手}}) holding a [[weapon]] ({{zh-l|*戈}}) to protect [[oneself]].
 
 Some have suggested a contrast with {{zh-l|*爾}}, interpreting the latter as a weapon with tip pointing outward. {{rfv-etymology|zh}}
 
@@ -78,6 +78,9 @@ From {{inh|zh|sit-pro|*ŋa-j ~ ka}}. Cognate with {{och-l|吾|id=2}}, {{cog|hak|
 {{zh-dial}}
 {{zh-dial|我們}}
 
+====Descendants====
+{{CJKV||が|아|ngã}}
+
 ===Compounds===
 {{zh-der|人我是非|人棄我取|你三我四|你丟我撿|你來我往|你儂我儂|你我|你推我擠|你推我讓|你東我西|你死我活|你爭我奪|你知我見|你誇我逞|你謙我讓|你長我短|依然故我|做我不著|分我杯羹|助我張目|匡我不逮|卿卿我我|唯我|唯我獨尊|唯我論|大我|如是我聞|宰我|小我|彼眾我寡|彼竭我盈|彼長我消|忘我|惠子知我|我倆|我們|我國|我執|我家|我將|我方|我曹|我武維揚|我每|我的天|我行其野|我行我素|我見猶憐|我軍|我輩|我醉欲眠|我黼子佩|捨我其誰|操之在我|故我|敵眾我寡|是非人我|時不我待|時不我與|有你沒我|有我無人|正合我意|歲不我與|渾然忘我|為我|無奈我何|無我|爾虞我詐|爾詐我虞|物我無間|生我劬勞|盡其在我|給我記住|自我|自我中心|自我介紹|自我作古|自我作故|自我反省|自我吹噓|自我實現|自我批評|自我期許|自我肯定|自我表現|自我解嘲|自我陶醉|舍我其誰|舍我復誰|超我|還我河山|非我|頗我|額我略曆}}
 
@@ -107,16 +110,18 @@ From {{inh|zh|sit-pro|*ŋa-j ~ ka}}. Cognate with {{och-l|吾|id=2}}, {{cog|hak|
 {{der-top|Compounds}}
 * {{ja-r|我慢|がまん}}
 * {{ja-r|我利我利|がりがり}}
+* {{ja-r|我流|がりゅう}}
 * {{ja-r|怪我|けが|[[injury]], [[hurt]]}}
 * {{ja-r|他我|たが|[[w:other minds|other minds]]}}
+* {{ja-r|我%楽%多|が%らく%た}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-spellings|われ|h=われ|我|吾}}
 {{ja-kanjitab|yomi=k|われ}}
-From {{inh|ja|ojp|-}}.<ref name="KDJ"/>
+From {{inh|ja|ojp|-}}, <ref name="KDJ"/>as the long form of {{m|ja|我|tr=wa}} below.
 
-The long form of {{m|ja|我|tr=wa}}. Compound of {{suffix|ja|sort=われ||alt1=我|tr1=wa|pos1=see below|れ|tr2=-re|pos=nominalizing suffix}}.
+Compound of {{suffix|ja|sort=われ||alt1=我|tr1=wa|pos1=see below|れ|tr2=-re|pos2=nominalizing suffix}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|われ|acc=1|acc_ref=DJR,NHK}}
@@ -125,26 +130,27 @@ The long form of {{m|ja|我|tr=wa}}. Compound of {{suffix|ja|sort=われ||alt1=�
 {{ja-pos|pronoun|われ}}
 
 # ''[[first person]] [[personal pronoun]]'': [[I]], [[me]], [[oneself]]
-#* {{RQ:Man'yōshū|14|3384}}
-#*: {{ux|ojp|可都思加能 麻末能手兒奈乎 麻許登可聞 '''和礼'''尓余須等布 麻末乃弖胡奈乎}}
-#* {{RQ:Taketori}}
-#*: {{ux|ja|この人々、あるときは竹取を呼び出て「娘を'''吾'''にたべ」と、ふし拝み、手をすりのたまへど...}}
-#* {{RQ:Taketori}}
-#*: {{ux|ja|「...わが丈たち竝ぶまで養ひたてまつりたる我子を、なに人が迎へきこえん。まさに許さんや」と言ひて、「'''われ'''こそ死なめ」とて...}}
-#* {{RQ:Genji|3}}
-#*: {{ux|ja|紀の守のいもうとも、こなたにあるか。'''われ'''に、垣間見せさせよ}}
-#* {{RQ:Nippo Jisho}}
+#* {{RQ:Taketori}}<ref name="TTM">{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Akiyama Ken|title=Shin Nihon Koten Bungaku Taikei 17: [[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=[[w:Tōkyō|Tōkyō]]|lang=ja|isbn=4-0024-0017-4}}</ref>
+#*: {{ja-usex|sort=われ|「...わが丈たち竝ぶまで養ひたてまつりたる我%子を、なに人が迎へきこえん。まさに許さんや」と言ひて、「'''われ'''こそ死なめ」とて...|「...わが たけたち ならぶ まで やしなひ-たてまつりたる わが%こ を、なに ひと が むかへ-きこえん。まさ に ゆるさん や」と いひて、「'''われ''' こそ しなめ」とて...|rom=“...waga taketachi narabu made yashinai-tatematsuritaru wagako o, nani hito ga mukae-kikoen. Masa ni yurusan ya” to iite, “ware koso shiname” tote...}} 
+#* {{RQ:Genji|3}}<ref name="GJM">{{cite-book|last=Yamagishi|first=Tokuhei|title=Koten Bungaku Taikei 14: [[w:Genji Monogatari|Genji Monogatari]] 1|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1958|origyear=c. 1001-1014|location=Tōkyō|lang=ja|isbn=4-0006-0014-1}}</ref>
+#*: {{ja-usex|紀の守のいもうとも、こなたにあるか。'''われ'''に、垣%間見せさせよ...|^き の かみ の いもうと も、こなた に ある か。'''われ''' に、かき%ま みせさせ よ...}}
+#* {{RQ:Nippo Jisho}}<ref name="NPJ">{{R:Nippo Jisho}}</ref>
 #*: '''Vare'''. {{lang|ja|ワレ (我) 私. また, おまえ. 本来の正しい言い方ではないが、下賎な者と話したり, 人を軽しめたりする時に用いる.}}
-# ''second person personal pronoun'': [[you]]
-#* {{RQ:Nippo Jisho|679}}
+# ''[[second person]] personal pronoun'': [[you]]
+#* {{RQ:Nippo Jisho|679}}<ref name="NPJ"/>
 #*: '''Vare'''. {{lang|ja|ワレ (我) 私. また, おまえ. 本来の正しい言い方ではないが、下賎な者と話したり, 人を軽しめたりする時に用いる.}}
 
 =====Usage notes=====
-In modern Japanese, most often encountered in the plural forms {{m|ja|我等|tr=warera}} and {{m|ja|我我|tr=wareware||we, us}}.
+In modern Japanese, most often encountered in the plural forms {{m|ja|我等|tr=warera}} and {{m|ja|我我|tr=wareware||[[we]], [[us]]}}.
 
 =====Derived terms=====
-* {{ja-r|我我|われわれ|[[we]], [[us]]}}
+{{der-top}}
+* {{ja-r|我我|われわれ|rom=-}}, {{ja-r|我々|われわれ|[[we]], [[us]]}}
+* {{ja-r|我 不知|われ しらず}}
+* {{ja-r|我ながら|われながら}}
+* {{ja-r|我にもあらず|われ に も あらず}}
 * {{ja-r|我等|われら|rom=-}}, {{ja-r|我ら|われら|[[we]], [[us]]}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-spellings|わ|h=わ|我|吾|notes=和 - rare}}
@@ -158,15 +164,15 @@ From {{inh|ja|ojp|sort=わ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 {{ja-pos|pronoun|わ}}
 
 # ''[[first-person]] [[personal pronoun]]'': [[I]], [[me]]
-#* {{RQ:Taketori}}
-#*: {{ux|ja|「...'''わ'''が丈たち竝ぶまで養ひたてまつりたる我子を、なに人が迎へきこえん。まさに許さんや」と言ひて...}}
-#* {{RQ:Genji|1}}
-#*: {{ux|ja|かしこき御蔭をば、たのみきこえながら、貶めきずを求め給ふ人はおほく、'''わ'''がみはかよわく、物はかなきありさまにて、中々なる物思ひをぞし給ふ。}}
-#* {{RQ:Genji|3}}
-#*: {{ux|ja|女どち、のどやかなる夕闇の、道たどたどしげなるまぎれに、'''わ'''が車にてゐてたてまつる。}}
+#* {{RQ:Taketori}}<ref name="TTM"/>
+#*: {{ja-usex|sort=われ|「...'''わ'''が丈たち竝ぶまで養ひたてまつりたる我%子を、なに人が迎へきこえん。まさに許さんや」と言ひて...|「...'''わ'''が たけたち ならぶ まで やしなひ-たてまつりたる わが%こ を、なに ひと が むかへ-きこえん。まさ に ゆるさん や」と いひて...|rom=“...'''wa'''ga taketachi narabu made yashinai-tatematsuritaru wagako o, nani hito ga mukae-kikoen. Masa ni yurusan ya” to iite...}} 
+#* {{RQ:Genji|1}}<ref name="GJM"/>
+#*: {{ja-usex|かしこき御蔭をば、たのみきこえながら、貶めきずを求め給ふ人はおほく、'''わ'''がみはかよわく、物はかなきありさまにて、中々なる物思ひをぞし給ふ。|かしこきおかげをば、たのみきこえながら、おとしめきずをもとめたまふひとはおほく、'''わ'''がみはかよわく、ものはかなきありさまにて、なかなかなるものおもひをぞしたまふ。|rom=kashikoki o-kage o ba, tanomi-kikoenagara, otoshimekizu o motometamau hito wa ōku,''' wa'''ga mi wa kayowaku, mono wa kanaki ari sama nite, nakanaka naru monoomoi o zo shi tamau.}}
+#* {{RQ:Genji|3}}<ref name="GJM"/>
+#*: {{ja-usex|女どち、のどやかなる夕闇の、道たどたどしげなるまぎれに、'''わ'''が車にてゐてたてまつる。|をんなどち、のどやかなるゆふやみの、みちたどたどしげなるまぎれに、'''わ'''がくるまにてゐてたてまつる。|rom=onna-dochi, nodo ya kanaru yūyami no, michi tadotadoshi-genaru magire ni, '''wa'''ga kuruma nite ite tatematsuru.}}
 
 =====Usage notes=====
-In modern Japanese, most often encountered in fossilized phrases in combination with the {{etyl|ojp|-}} possessive particle {{ja-r|が}}, such as {{m|ja|我が儘|tr=wagamama|lit=just as I like||selfish; selfishness}} or {{m|ja|我が国|tr=wagakuni||my country, my homeland; {{qualifier|by extension}} Japan}}.
+In modern Japanese, most often encountered in fossilized phrases in combination with the {{etyl|ojp|-}} possessive particle {{ja-r|が}}, such as {{m|ja|我が儘|tr=wagamama|lit=just as I like||[[selfish]]; [[selfishness]]}} or {{m|ja|我が国|tr=wagakuni||my [[country]], my [[homeland]] → [[Japan]]}}.
 
 =====Derived terms=====
 * {{ja-r|我が|わが}}
@@ -196,7 +202,10 @@ From {{bor|ja|ltc|sort=か'|-}} {{ltc-l|我}}.
 
 # the [[ego]], [[self]]
 # [[self-righteous]]ness
-# an [[atman]]
+# {{lb|ja|sort=か'|Buddhism}} [[obstinacy]]
+#: {{ant|ja|無我|tr=muga}}
+# {{lb|ja|sort=か'|Hinduism}} [[atman]]
+#: {{syn|ja|アートマン|tr=ātoman}}
 
 =====Derived terms=====
 {{der-top}}
@@ -213,34 +222,10 @@ From {{bor|ja|ltc|sort=か'|-}} {{ltc-l|我}}.
 
 # [[self]], [[oneself]], [[myself]]
 # [[egotism]], [[selfishness]]
-# [[atman]]
+# {{lb|ja|Buddhism}} [[atman]]
 
 ===References===
 <references/>
-* {{R:Nippo Jisho}}
-* {{cite-book
-|last=Horiuchi
-|first=Hideaki
-|coauthors=Akiyama Ken
-|title=Shin Nihon Koten Bungaku Taikei 17: [[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]
-|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-|date=1997
-|location=[[w:Tōkyō|Tōkyō]]
-|lang=ja
-|isbn=4-0024-0017-4
-}}
-* {{R:Man'yōshū 4}}
-* {{cite-book
-|last=Yamagishi
-|first=Tokuhei
-|title=Koten Bungaku Taikei 14: [[w:Genji Monogatari|Genji Monogatari]] 1
-|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-|date=1958
-|origyear=c. 1001-1014
-|location=Tōkyō
-|lang=ja
-|isbn=4-0006-0014-1
-}}
 
 ----
 
@@ -281,8 +266,8 @@ From {{suffix|ojp|sort=われ||alt1=我|tr1=wa|pos1=see above|れ|tr2=-re|t2=[[t
 # ''[[first-person]] [[personal pronoun]]'': [[I]], [[me]], [[oneself]]
 #* {{RQ:Kojiki|poem 49}}
 #*: {{ux|ojp|須須許理賀迦美斯美岐邇和禮恵比邇祁理許登那具志恵具志爾'''和禮'''恵比邇祁理|tr=susuko<sub>2</sub>ri ga kami<sub>1</sub>si mi<sub>1</sub>ki<sub>1</sub> ni '''ware''' wepi<sub>1</sub>nike<sub>1</sub>ri ko<sub>2</sub>to<sub>2</sub>nagusi wegusi ni '''ware''' wepi<sub>1</sub>nike<sub>1</sub>ri}}
-#* {{RQ:Man'yōshū|14|3384}}
-#*: {{ux|ojp|可都思加能麻末能手兒奈乎麻許登可聞'''和礼'''爾余須等布麻末乃弖胡奈乎|tr=Kadusika no<sub>2</sub> mama no<sub>2</sub> tego<sub>1</sub>na wo mako<sub>2</sub>to<sub>2</sub> ka mo '''ware''' ni yo<sub>2</sub>su to<sub>2</sub> pu mama no<sub>2</sub> tego<sub>1</sub>ma wo}}
+#* {{RQ:Man'yōshū|14|3384}}<ref name="MYS3">{{R:Man'yōshū 3}}</ref>
+#*: {{ux|ojp|可都思加能麻末能手兒奈乎麻許登可聞'''和礼'''尓余須等布麻末乃弖胡奈乎|tr=Kadusika no<sub>2</sub> mama no<sub>2</sub> tego<sub>1</sub>na wo mako<sub>2</sub>to<sub>2</sub> ka mo '''ware''' ni yo<sub>2</sub>su to<sub>2</sub> pu mama no<sub>2</sub> tego<sub>1</sub>ma wo}}
 
 =====Descendants=====
 * {{desc|ja|我|tr=ware}}
@@ -294,7 +279,7 @@ Likely a compound of {{suffix|ojp||alt1=我|tr1=wa|pos1=see above|ろ|tr2=-ro|po
 {{head|ojp|pronoun|tr=waro<sub>2</sub>|kana|わろ}}
 
 # {{lb|ojp|sort=わろ|regional|Southern Eastern {{cog|ojp|-}}}}  ''[[first person]] [[personal pronoun]]'': [[I]], [[me]], [[oneself]]
-#* {{RQ:Man'yōshū|20|4343}}
+#* {{RQ:Man'yōshū|20|4343}}<ref name="MYS4">{{R:Man'yōshū 4}}</ref>
 #*: {{ux|ojp|'''和呂'''多比波多比等於米保等已比爾志弖古米知夜須良牟和加美可奈志母|tr='''waro<sub>2</sub>''' tabi<sub>1</sub> pa tabi<sub>1</sub> to<sub>2</sub> ome<sub>2</sub>podo<sub>2</sub> ipi<sub>1</sub> nisite ko<sub>1</sub> me<sub>2</sub>ti-yasuramu waga mi<sub>1</sub> kanasi mo}}
 
 ===Etymology 4===
@@ -304,10 +289,10 @@ Cognate with {{m|ojp||我|tr=ware}} above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}
 {{head|ojp|pronoun|tr=wanu|kana|わぬ}}
 
 # {{lb|ojp|regional|Northern Eastern {{cog|ojp|-}}}} ''[[first person]] [[personal pronoun]]'': [[I]], [[me]], [[oneself]]
-#* {{RQ:Man'yōshū|14|3476}}
+#* {{RQ:Man'yōshū|14|3476}}<ref name="MYS3"/>
 #*: {{ux|ojp|宇倍兒奈波'''和奴'''爾故布奈毛多刀都久能努賀奈敝由家婆故布思可流奈母|tr=ube ko<sub>1</sub>na pa '''wanu''' ni ko<sub>1</sub>pu na mo tato<sub>1</sub> tuku no<sub>2</sub> nuganape<sub>1</sub>-yuke<sub>1</sub>ba ko<sub>1</sub>pusikaru na mo|Oh, yes, how (my) dear one loves '''me'''!  While the rising moon (or the new month) goes flowing by, (s)he must be missing me so much.}}
 #*:: ['''Note:''' According to some other text, the {{m|ja|下の句|tr=shimo no ku}} says {{m|ojp||[[ぬがなふ|奴我奈敞]][[行く|由家杼]]'''和奴'''由賀乃敞波|tr=nuganape<sub>1</sub>-yuke<sub>1</sub>do<sub>2</sub> '''wanu''' yukano<sub>2</sub>pe<sub>1</sub>ba|though it goes flowing by, while '''I''' have not gone (to see him/her)}}]
-#* {{RQ:Man'yōshū|20|4358}}
+#* {{RQ:Man'yōshū|20|4358}}<ref name="MYS4"/>
 #*: {{ux|ojp|於保伎美乃美許等加志古美伊弖久禮婆'''和努'''等里都伎弖伊比之古奈波毛|tr=opoki<sub>1</sub>mi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>-ko<sub>2</sub>to<sub>2</sub> kasiko<sub>1</sub>mi itekureba '''wanu''' to<sub>2</sub>rituki<sub>1</sub>te ipi<sub>1</sub>si ko<sub>1</sub>napamo|Oh, [how is] the dear one [to whom] '''I''' clung and spoke [when I] came out [here] respectfully obeying the words of the {{w|Emperor of Japan|Great Lord}}?}}
 
 ===Etymology 5===
@@ -317,8 +302,11 @@ Cognate with {{m|ojp||我|tr=ware}} above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}
 {{head|ojp|pronoun|tr=a|kana|あ}}
 
 # ''[[first-person]] [[personal pronoun]]'': [[I]], [[me]]
-#* {{RQ:Man'yōshū|14|3456}}
-#*: {{ux|ojp|宇都世美能夜蘇許登乃敝波思氣久等母安良蘇比可禰弖'''安'''乎許登奈須那|tr=utusemi<sub>1</sub> no<sub>2</sub> yaso<sub>1</sub>ko<sub>2</sub>to<sub>2</sub> no<sub>2</sub> pe<sub>1</sub> pa sike<sub>2</sub>ku to<sub>2</sub> mo araso1pi<sub>1</sub>kanete '''a''' wo ko<sub>2</sub>to<sub>2</sub>nasu na}}
+#* {{RQ:Man'yōshū|14|3456}}<ref name="MYS3"/>
+#*: {{ux|ojp|宇都世美能夜蘇許登乃敝波思氣久等母安良蘇比可禰弖'''安'''乎許登奈須那|tr=utusemi<sub>1</sub> no<sub>2</sub> yaso<sub>1</sub>ko<sub>2</sub>to<sub>2</sub> no<sub>2</sub> pe<sub>1</sub> pa sike<sub>2</sub>ku to<sub>2</sub> mo araso<sub>1</sub>pi<sub>1</sub>kanete '''a''' wo ko<sub>2</sub>to<sub>2</sub>nasu na}}
+
+=====Derived terms=====
+* {{m|ojp|我が|tr=aga}}
 
 =====Descendants=====
 * {{desc|ja|あ|tr=a}}
@@ -330,15 +318,15 @@ From {{suffix|ojp||alt1=我|tr1=a|pos1=see above|れ|tr2=-re|t2=[[thing]]|pos2=n
 {{head|ojp|pronoun|tr=are|kana|あれ}}
 
 # ''[[first-person]] [[personal pronoun]]'': [[I]], [[me]]
-#* {{RQ:Man'yōshū|5|808}}
+#* {{RQ:Man'yōshū|5|808}}<ref>{{R:Man'yōshū 1}}</ref>
 #*: {{ux|ojp|多都乃麻乎'''阿礼'''波毛等米牟[[青丹よし|阿遠爾与志]]奈良乃美夜古邇許牟比等乃多仁|tr=tatu no<sub>2</sub> ma wo '''are''' pa moto<sub>2</sub>memu awoni yo<sub>2</sub>si Nara no<sub>2</sub> miyako<sub>1</sub> ni ko<sub>2</sub>mu pi<sub>1</sub>to<sub>2</sub> no<sub>2</sub> ta ni}}
-#* {{RQ:Man'yōshū|14|3361}}
-#*: {{ux|ojp|安思我良能[[彼面此面|乎弖毛許乃母]]爾佐須和奈乃[[かなるましずみ|可奈流麻之豆美]]許呂'''安礼'''比毛等久|tr=asigara no<sub>2</sub> wotemo-ko<sub>2</sub>no<sub>2</sub>mo ni sasu wana no<sub>2</sub> *kanaru ma-sidumi<sub>1</sub> ko<sub>2</sub>ro<sub>2</sub> '''are''' pi<sub>1</sub>mo to<sub>2</sub>ku}}
-#* {{RQ:Man'yōshū|20|4298}}
-#*: {{ux|ojp|霜上爾安良礼多婆之里伊夜麻之爾'''安礼'''波麻為許牟年緒奈我久|tr=simo no<sub>2</sub> upe<sub>2</sub> ni arare tabasiri iya masi ni '''are''' pa mawiko<sub>2</sub>mu to<sub>2</sub>si no<sub>2</sub> wo nagaku}}
+#* {{RQ:Man'yōshū|14|3361}}<ref name="MYS3"/>
+#*: {{ux|ojp|安思我良能[[彼面此面|乎弖毛許乃母]]尓佐須和奈乃[[かなるましずみ|可奈流麻之豆美]]許呂'''安礼'''比毛等久|tr=asigara no<sub>2</sub> wotemo-ko<sub>2</sub>no<sub>2</sub>mo ni sasu wana no<sub>2</sub> *kanaru ma-sidumi<sub>1</sub> ko<sub>2</sub>ro<sub>2</sub> '''are''' pi<sub>1</sub>mo to<sub>2</sub>ku}}
+#* {{RQ:Man'yōshū|20|4298}}<ref name="MYS4"/>
+#*: {{ux|ojp|霜上尓安良礼多婆之里伊夜麻之尓'''安礼'''波麻為許牟年緒奈我久|tr=simo no<sub>2</sub> upe<sub>2</sub> ni arare tabasiri iya masi ni '''are''' pa mawiko<sub>2</sub>mu to<sub>2</sub>si no<sub>2</sub> wo nagaku}}
 
 =====Descendants=====
-* {{desc|ja|我|tr=are}}
+* {{desc|ja|あれ|tr=are}}
 
 ===References===
 <references/>
