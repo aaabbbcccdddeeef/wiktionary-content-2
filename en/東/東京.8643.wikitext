@@ -42,30 +42,23 @@
 {{wp|Tokyo}}
 </div>
 {{ja-kanjitab|とう|きょう|yomi=kanon,goon}}
-{{IPAchar|/təu kʲau/}} → {{IPAchar|/toːkjɔː/}} → {{IPAchar|/toːkjoː/}}
+{{IPAchar|/tou kjau/}} → {{IPAchar|/toːkjɔː/}} → {{IPAchar|/toːkjoː/}}
 
 Derived from {{der|ja|ltc|sort=とうきよう|-}} elements {{ja-compound|東|とう|京|きょう|t1=[[east]], [[eastern]]|t2=[[capital]]|sort=とうきよう}}.
 
-The city of Tokyo was renamed from {{m|ja|江戸|tr=Edo}} in 1868 after {{w|Emperor Meiji}} moved the capital from [[Kyoto]].
+The city of Tokyo was renamed from {{m|ja|江戸|tr=[[Edo]]}} in 1868 after {{w|Emperor Meiji}} moved the capital from [[Kyoto]].
 
 ====Pronunciation====
 {{ja-pron|y=o|とうきょう|acc=0|audio=Ja-Tokyo.ogg}}
 
-====Noun====
-{{ja-noun|とうきょう|hhira=とうきやう}}
-
-# an [[eastern]] [[capital]]
-#* {{RQ:Nippo Jisho|663}}
-#*: '''Tôqiǒ'''. {{lang|ja|トゥキャゥ}} {{lang|ja|(東京)}} Figaxino miyaco. {{lang|ja|(東の都)}} {{lang|ja|東の地方の都}} (Miaco).
-
 ====Proper noun====
 {{ja-pos|とうきょう|proper|hhira=とうきやう}}
 
-# [[Tokyo]] {{gl|[[capital]] of [[Japan]]}}, the 23 special wards of Tokyo
+# [[Tokyo]] {{gl|[[capital city]] of [[Japan]]}}, ''including'' its 23 [[special ward]]s
 #: {{ja-usex|昨日、'''東京'''は曇りでしたか。|^きのう、'''^とうきょう''' は くもり でした か。|Was it cloudy in '''Tokyo''' yesterday?}}
-# {{short for|lang=ja|東京都|tr=Tōkyō-to|nodot=1|sort=とうきよう}}
+# {{short for|lang=ja|東京都|tr=Tōkyō-to|nodot=1|sort=とうきよう}} the [[capital]] [[prefecture]] of Japan
 # {{short for|lang=ja|東京駅|tr=Tōkyō-eki|nodot=1}}: {{w|Tokyo Station}}
-# {{lb|ja|historical|sort=とうきよう}} {{short for|lang=ja|東京府|tr=Tōkyō-fu|nodot=1}}: {{w|Tokyo Prefecture}}
+# {{lb|ja|historical|sort=とうきよう}} {{short for|lang=ja|東京府|tr=Tōkyō-fu|nodot=1}}: the historical {{w|Tokyo Prefecture}} from 1868–1943
 
 =====Derived terms=====
 {{der-top}}
@@ -81,9 +74,21 @@ The city of Tokyo was renamed from {{m|ja|江戸|tr=Edo}} in 1868 after {{w|Empe
 
 =====See also=====
 * {{ja-r|江戸|^えど}}
-* {{ja-r|^トンキン}}
-* {{ja-r|北%京|^ペ%キン}}
-* {{ja-r|南%京|^なん%きん}}
+* {{ja-r|トンキン|Tonkin}}
+* {{ja-r|北%京|^ペ%キン|[[Beijing]]}}
+* {{ja-r|南京|^なんきん|[[Nanjing]]}}
+
+====Noun====
+{{ja-noun|とうきょう|hhira=とうきやう}}
+
+# an [[eastern]] [[capital]]
+#* {{RQ:Nippo Jisho|663}}<ref>{{R:Nippo Jisho}}</ref>
+#*: '''Tôqiǒ'''. {{lang|ja|トゥキャゥ (東京)}} {{ll|ja|東|Figaxi}}no miyaco. {{lang|ja|(東の都) 東の地方の都}} ({{ll|ja|都|Miaco}}).
+
+=====Coordinate terms=====
+* {{ja-r|西%京|さい%きょう|[[western]] [[capital]]}}
+* {{ja-r|南京|なんきょう|[[southern]] capital}}
+* {{ja-r|北京|ほっきょう|[[northern]] capital}}
 
 ===Etymology 2===
 {{ja-kanjitab|とう|けい|yomi=o}}
@@ -102,7 +107,7 @@ The alternate pronunciation for Tokyo appears to be prevalent in the early- to m
 # {{lb|ja|historical}} the capital of {{m|ja|北宋|tr=Hokusō||{{w|Northern Song}}}}, corresponds to modern [[Kaifeng]]
 # {{lb|ja|historical}} the eastern capital of the {{w|Jin dynasty (1115–1234)|Jurchen Jin dynasty}}, corresponds to modern {{w|Liaoyang}}
 # {{lb|ja|historical}} the capital of {{w|List of provinces of Balhae|Yongwon province}} in {{w|Balhae}} during the {{w|Tang dynasty}}
-# {{dated spelling of|lang=ja||東京|tr=Tōkyō|nodot=1|sort=とうけい}}'', see above''
+# {{lb|ja|historical}} {{n-g|{{dated spelling of|lang=ja||とうきょう|tr=Tōkyō|nodot=1|sort=とうけい}} above}}
 
 =====See also=====
 * {{pedialite|Dongjing}}
@@ -127,7 +132,7 @@ The kanji spelling is an example of {{ateji|sort=とんきん}}.
 # {{lb|ja|historical}} [[Tonkin]] {{gl|[[northern]] [[region]] of [[Vietnam]]}}
 
 ===References===
-* {{R:Nippo Jisho}}
+<references/>
 
 {{c|ja|Capital cities|Cities in Japan|Prefectures of Japan|Tokyo|sort=とうきよう}}
 
