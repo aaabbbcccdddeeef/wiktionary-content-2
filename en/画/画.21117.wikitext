@@ -82,11 +82,38 @@ Seemingly from {{l|mul|畵}} with {{l|mul|𦘒}} ommited.
 * {{ja-r|動画|どうが}}
 {{bottom}}
 
-===Noun===
-{{ja-kanjitab|かく|yomi=o}}
-{{ja-noun|かく|kyu=畫}}
+===Etymology 1===
+{{ja-kanjitab|が|yomi=goon}}
+From {{der|ja|ltc|sort=が|-}} {{ltc-l|畫|id=1}}.
+
+====Pronunciation====
+{{ja-pron|が|acc=1|acc_ref=DJR|y=goon}}
+
+====Noun====
+{{ja-noun|が|kyu=畫|hhira=ぐわ}}
+
+# [[picture]], [[drawing]], [[painting]]
+
+===Etymology 2===
+{{ja-kanjitab|かく|yomi=kanon}}
+From {{der|ja|ltc|sort=かく|-}} {{ltc-l|畫|id=2}}.
+
+====Pronunciation====
+{{ja-pron|かく|acc=0|acc_ref=DJR|acc_note=“stroke”|acc2=2|acc2_ref=DJR|acc2_note=“stroke”|y=kanon}}
+
+====Noun====
+{{ja-noun|かく|kyu=畫|hhira=くわく}}
 
 # [[stroke]] (of a pen, in a character)
+# a [[line]] in the [[divinatory]] [[trigram]]s of the ''{{w|I Ching}}'': "—" ({{l|ja|陽}}) and "- -" ({{l|ja|陰}})
+
+====Counter====
+{{ja-pos|counter|かく|kyu=畫|hhira=くわく}}
+
+# [[stroke]] (of a pen, in a character)
+
+===References===
+<references/>
 
 ----
 
