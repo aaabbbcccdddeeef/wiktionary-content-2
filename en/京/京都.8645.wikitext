@@ -1,12 +1,17 @@
 ==Chinese==
 {{zh-forms}}
 
+===Etymology===
+; “Kyoto”
+: {{obor|zh|ja|京都|tr=Kyōto}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=jīngdū
 |c=ging1 dou1
 |mn=kiaⁿ-to͘
 |cat=n
+|mc=y
 }}
 
 ===Noun===
@@ -20,6 +25,9 @@ When translating the English term ''capital city'', use {{zh-l|首都}} when ref
 ====Synonyms====
 {{zh-syn-saurus|首都}}
 
+====Descendants====
+{{CJKV||^きょうと}}
+
 ====See also====
 * {{zh-l|省會}}
 * {{zh-l|首府}}
@@ -27,16 +35,18 @@ When translating the English term ''capital city'', use {{zh-l|首都}} when ref
 ===Proper noun===
 {{zh-proper noun}}
 
-# {{zh-div|市}} {{place|zh|t=Kyōto|city|prefecture/Kyōto|c/Japan}}
-# {{zh-div|府}} {{place|zh|t=Kyōto|prefecture|c/Japan}}
+# {{zh-div|市}} {{place|zh|t=Kyoto|city|prefecture/Kyoto|c/Japan}}
+# {{zh-div|府}} {{place|zh|t=Kyoto|prefecture|c/Japan}}
 
 ----
 
 ==Japanese==
-{{ja-kanjitab|きょう|と|yomi=on}}
+{{ja-kanjitab|きょう|と|yomi=goon,kanon}}
 
 ===Etymology===
-kyauto > kyoːto.
+{{IPAchar|/kjauto/}} → {{IPAchar|/kjɔːto/}} → {{IPAchar|/kjoːto/}}
+
+From {{bor|ja|ltc|sort=きようと|-}} {{ltc-l|京都|lit=[[capital city]]}}.
 
 ===Pronunciation===
 {{ja-pron|きょうと|acc=a|a=Ja-Kyoto.ogg}}
@@ -44,25 +54,41 @@ kyauto > kyoːto.
 ===Proper noun===
 {{ja-pos|きょうと|proper|hhira=きやうと}}
 
-# [[Kyōto]]
-
-====Synonyms====
-* {{ja-r|京|^きょう}}
-* {{ja-r|京の都|^きょう の みやこ}}
-* {{ja-r|平安京|^へいあんきょう}}
-* {{ja-r|京師|^けいし}}
-* {{ja-r|洛陽|^らくよう}}
-* {{ja-r|上方|^かみがた}}
+# ''a [[placename]]'', ''especially'':
+## {{short for|ja|京都府|tr=Kyōto-fu|dot=:|sort=きようと}} {{w|Kyoto Prefecture}}
+## {{short for|ja|京都市|tr=Kyōto-shi|dot=:}} [[Kyoto]], the [[prefecture|prefectural]] [[capital]] of Kyoto Prefecture
+##: {{syn|ja|京|tr1=Kyō|京の都|tr2=Kyō no miyako}}
+# {{surname|lang=ja|A=a|nodot=1|sort=きようと}}
+# {{given name|female|lang=ja|A=a|sort=きようと}}
 
 ====Derived terms====
-* {{ja-r|京阪|gloss=[[Kyōto]] and [[Ōsaka]]|けいはん}}
-* {{ja-r|京阪奈|gloss=[[Kyōto]], [[Ōsaka]], and [[Nara]]|けいはんな}}
-* {{ja-r|京阪神|gloss=[[Kyōto]], [[Ōsaka]], and [[Kōbe]]|けいはんしん}}
+{{der-top3}}
+* {{ja-r|京都五山|^きょうと ^ござん}}
+* {{ja-r|京都御所|^きょうと ^ごしょ}}
+* {{ja-r|京都所司%代|^きょうと ^しょし%だい}}
+* {{ja-r|京都代官|^きょうと ^だいかん}}
+* {{ja-r|京都弁|^きょうと-べん}}
+* {{ja-r|京都盆地|^きょうと ^ぼんち}}
+* {{ja-r|京都守護|^きょうと ^しゅご}}
+* {{ja-r|小京都|しょう%-^きょうと}}
+{{der-bottom}}
 
 ====Descendants====
 * {{desc|en|Kyoto|bor=1}}
-* {{desc|ko|교토|bor=1}}
+* {{desc|ko|^교토|bor=1}}
+* {{desc|pt|Kyoto|bor=1}}
 * {{desc|ru|Кио́то|g=m|bor=1}}
+* {{desc|vi|Kinh Đô|bor=1}}
+
+====See also====
+{{top3}}
+* {{ja-r|上方|^かみがた}}
+* {{ja-r|京師|^けいし}}
+* {{ja-r|京阪|^けいはん|[[Kyoto]] and [[Osaka]]}}
+* {{ja-r|京|みやこ|rom=-}}, {{ja-r|都|みやこ}}
+* {{ja-r|平安%京|^へいあん%-きょう}}
+* {{ja-r|洛陽|^らくよう}}
+{{bottom}}
 
 {{topics|ja|Cities in Japan}}
 
