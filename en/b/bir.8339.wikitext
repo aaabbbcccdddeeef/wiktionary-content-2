@@ -230,22 +230,12 @@ From {{inh|sga|cel-pro|*beru}}
 #*: {{l|sga||'''beura'''}} glosses {{m|la|sudes||stake}}
 
 =====Declension=====
-{{sga-decl-noun
-|class=u-n
-|nom_sg=bir+N|nom_sg2=biur+N
-|voc_sg=bir+N|voc_sg2=biur+N
-|acc_sg=bir+N|acc_sg2=biur+N
-|gen_sg=bero+H|gen_sg2=bera+H
-|dat_sg=biur+L
-|nom_du=bir+N|nom_du2=biur+N
-|voc_du=bir+N|voc_du2=biur+N
-|acc_du=bir+N|acc_du2=biur+N
-|gen_du=bero+N|gen_du2=bera+N
-|dat_du=beraib
+{{sga-decl-u|g=n
+|nom_sg2=biur
+|gen_sg=bero|gen_sg2=bera
+|dat_sg=biur
 |nom_pl=beura
-|voc_pl=beura
-|acc_pl=beura
-|gen_pl=berae+N
+|gen_pl=berae
 |dat_pl=beraib
 }}
 
