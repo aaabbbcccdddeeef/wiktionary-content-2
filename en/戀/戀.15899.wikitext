@@ -86,35 +86,40 @@
 ==Old Japanese==
 
 ===Etymology 1===
-The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|戀ふ|tr=ko<sub>1</sub>pu||to [[love]], [[yearn]]}}.
+The {{m|ja|未然形|tr=mizenkei||irrealis form}} and {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|戀ふ|tr=ko<sub>1</sub>pu||to [[love]], [[yearn]]}}.
 
 ====Noun====
 {{head|ojp|noun|tr=ko<sub>1</sub>pi<sub>2</sub>|kana|こひ}}
 
 # [[love]], ''especially'' [[romantic]] love
 #* {{RQ:Manyoshu|4|596}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#596 here]
-#*: {{ux|ojp|八百日徃濱之沙毛吾'''戀'''二豈不益歟奥嶋守|tr=yapoka yuku hama no<sub>2</sub> manago<sub>1</sub> no<sub>2</sub> aga '''ko<sub>1</sub>pi<sub>2</sub>''' ni ani masarazi oki<sub>1</sub> tu simamori|On so vast a shore―that one could walk eight hundred days―would the grains of sand number greater than my '''love''', o guardian of the outer isles?<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-3157-8|page=570}}</ref>}}
+#*: {{ux|ojp|八百日徃濱之沙毛吾'''戀'''二豈不益歟[[沖つ島守|奥嶋守]]|tr=yapoka yuku hama no<sub>2</sub> manago<sub>1</sub> no<sub>2</sub> aga '''ko<sub>1</sub>pi<sub>2</sub>''' ni ani masarazi oki<sub>1</sub> tu simamori|On so vast a shore―that one could walk eight hundred days―would the grains of sand number greater than my '''love''', o guardian of the outer isles?<ref>{{cite-book|1998|Edwin A. Cranston|The Gem-Glistening Cup|edition=illustrated|publisher=Stanford University Press|isbn=0-8047-3157-8|page=570}}</ref>}}
 # [[longing]], [[yearning]]
 #* {{RQ:Manyoshu|3|325}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#325 here]
-#*: {{ux|ojp|明日香河川余藤不去立霧乃念應過'''孤悲'''爾不有國|tr=Asuka-gapa kapayo<sub>2</sub>do<sub>2</sub> sarazu tatu ki<sub>1</sub>ri no<sub>2</sub> omopi<sub>1</sub> sugu beki '''ko<sub>1</sub>pi<sub>2</sub>''' ni aranaku ni}}
+#*: {{ux|ojp|明日香河川余藤不去立霧乃念應過'''孤悲'''尓不有國|tr=Asuka-gapa kapayo<sub>2</sub>do<sub>2</sub> sarazu tatu ki<sub>1</sub>ri no<sub>2</sub> omopi<sub>1</sub> sugu beki '''ko<sub>1</sub>pi<sub>2</sub>''' ni aranaku ni}}
 
 =====Derived terms=====
 * {{m|ojp|戀し|tr=ko<sub>1</sub>pi<sub>2</sub>si}}
 * {{m|ojp|戀す|tr=ko<sub>1</sub>pi<sub>2</sub>su}}
-* {{m|ojp|恋の奴|tr=ko<sub>1</sub>pi<sub>2</sub> no yatuko<sub>1</sub>}}
+* {{m|ojp|戀の奴|tr=ko<sub>1</sub>pi<sub>2</sub> no yatuko<sub>1</sub>}}
 
 ====Descendants====
 * {{desc|ja|恋|tr=koi}}
 
 ===Etymology 2===
-{{rfe|ja}}
+Appears in {{m|ja|東歌|tr=Azuma uta|lit=[[eastern]] [[song]]s}} in the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}).
+
+The distinction of {{IPAfont|⟨-i<sub>1</sub>⟩}} and {{IPAfont|⟨-i<sub>2</sub>⟩}} in some Eastern dialects has been lost. {{rfv-etymology|ojp|sort=こひ}}
 
 ====Noun====
 {{head|ojp|noun|tr=ko<sub>1</sub>pi<sub>1</sub>|kana|こひ}}
 
-# {{lb|ojp|regional|Central Eastern Old Japanese}} {{n-g|Same as {{l|ojp||こ<sub>甲</sub>ひ<sub>乙</sub>|tr=ko<sub>1</sub>pi<sub>2</sub>}} above}}
+# {{lb|ojp|regional|Central Eastern {{cog|ojp|-}}}} {{n-g|Same as {{l|ojp||コ<sup>甲</sup>ヒ<sup>乙</sup>|tr=ko<sub>1</sub>pi<sub>2</sub>}} above}}
 #* {{RQ:Manyoshu|20|4366}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4366 here]
-#*: {{ux|ojp|比多知散思由可牟加里母我阿我'''古比'''乎志留志弖都祁弖伊母爾志良世牟|tr=Pi<sub>1</sub>tati sasi yukamu kari moga aga '''ko<sub>1</sub>pi<sub>1</sub>''' wo sirusite tuge<sub>1</sub>te imo ni sirasemu}}
+#*: {{ux|ojp|比多知散思由可牟加里母我阿我'''古比'''乎志留志弖都祁弖伊母尓志良世牟|tr=Pi<sub>1</sub>tati sasi yukamu kari moga aga '''ko<sub>1</sub>pi<sub>1</sub>''' wo sirusite tuge<sub>1</sub>te imo ni sirasemu}}
+
+=====Derived terms=====
+* {{m|ojp|戀し|tr=ko<sub>1</sub>pi<sub>1</sub>si}}
 
 ===References===
 <references/>
