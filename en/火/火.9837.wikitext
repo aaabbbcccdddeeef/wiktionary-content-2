@@ -136,7 +136,7 @@ Possibly from {{inh|zh|sit-pro|*mej}}. {{rfv|zh}}
 [[File:Fire.JPG|thumb|250px|{{ja-l|火}} (''hi'', ''ho'', ''fu'', ''ka''): '''[[fire]]'''.]]
 </div>
 {{ja-kanjitab|yomi=k|ひ}}
-{{IPAfont|⟨hi<sub>2</sub>⟩}} → *{{IPAchar|/pʷɨ/}} → {{IPAchar|/ɸi/}} → {{IPAchar|/hi/}}
+{{IPAfont|⟨pi<sub>2</sub>⟩}} → *{{IPAchar|/pʷɨ/}} → {{IPAchar|/ɸi/}} → {{IPAchar|/hi/}}
 
 From {{inh|ja|ojp|sort=ひ|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> from {{inh|ja|jpx-pro|*poy}}.
 
@@ -217,7 +217,7 @@ Combining form of ''hi'' above. Probably the oldest form, possibly cognate with 
 * {{ja-r|火照る|ほてる|to [[feel]] [[hot]] or [[flushed]]}}
 * {{ja-r|火%中|ほ%なか}}
 * {{ja-r|炎|ほのお|[[flame]]}}
-* {{ja-r|炎|ほむら|rom=-}}, {{ja-r|焔|ほむら}}: [[flames]]; [[metaphorical]] flames, [[connote|connoting]] strong emotions such as [[anger]] or [[jealousy]], or such as [[ambition]] or [[passion]]
+* {{ja-r|炎|ほむら|rom=-}}, {{ja-r|焔|ほむら|[[flames]], [[metaphorical]] flames|pos=[[connote|connoting]] strong emotions such as [[anger]] or [[jealousy]], or such as [[ambition]] or [[passion]]}}
 {{der-bottom}}
 
 ===Etymology 3===
@@ -238,9 +238,12 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 
 # a [[fire]]
 # one of the [[five]] [[classical]] [[elements]] in traditional Chinese [[philosophy]] and [[medicine]]: see {{pedialite|Wu Xing}}
-# under the old {{m|ja|律令|tr={{w|Ritsuryō}}}} system of ancient Japan, a [[military]] [[grouping]], consisting of 10 soldiers: a [[squad]]
+# {{lb|ja|sort=か|historical}} under the old {{m|ja|律令|tr={{w|Ritsuryō}}}} system of ancient Japan, a [[military]] [[grouping]], consisting of 10 soldiers: a [[squad]]
 #: {{synonyms|ja|分隊|tr=buntai}}
 # {{short for|ja|火曜日|tr=kayōbi|dot=:}} [[Tuesday]]
+
+=====Derived terms=====
+* {{ja-r|風林火山|ふうりんかざん}}
 
 ====Affix====
 {{ja-pos|affix|か|hhira=くわ}}
@@ -302,7 +305,6 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 * {{ko-l|출화|出火}}
 * {{ko-l|화산암|火山巖}}
 * {{ko-l|화성암|火成巖}}
-* {{ko-l|방화전|防火栓}}
 * {{ko-l|소화전|消火栓}}
 * {{ko-l|방화|放火}}
 * {{ko-l|성화|星火}}
@@ -313,7 +315,6 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 * {{ko-l|화로|火爐}}
 * {{ko-l|화요일|火曜日}}
 * {{ko-l|화통간|火筒間}}
-* {{ko-l|방화벽|防火壁}}
 * {{ko-l|화등잔|火燈盞}}
 * {{ko-l|병화|兵火}}
 * {{ko-l|면화약|綿火藥}}
@@ -361,7 +362,6 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 * {{ko-l|화차|火車}}
 * {{ko-l|화청|火淸}}
 * {{ko-l|화성암체|火成巖體}}
-* {{ko-l|방화구조|防火構造}}
 * {{ko-l|도화선|導火線}}
 * {{ko-l|발화점|發火點}}
 * {{ko-l|화륜선|火輪船}}
@@ -408,7 +408,6 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 * {{ko-l|내화도|耐火度}}
 * {{ko-l|내화재|耐火材}}
 * {{ko-l|내화지|耐火紙}}
-* {{ko-l|방화범|放火犯}}
 * {{ko-l|점화법|點火法}}
 * {{ko-l|중화기|重火器}}
 * {{ko-l|착화점|着火點}}
@@ -441,14 +440,6 @@ From {{bor|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 * {{ko-l|발화석|發火石}}
 * {{ko-l|발화성|發火性}}
 * {{ko-l|발화합금|發火合金}}
-* {{ko-l|방화가공|防火加工}}
-* {{ko-l|방화림|防火林}}
-* {{ko-l|방화선|防火線}}
-* {{ko-l|방화수|防火水}}
-* {{ko-l|방화용|防火用}}
-* {{ko-l|방화자|放火者}}
-* {{ko-l|방화죄|放火罪}}
-* {{ko-l|방화포|防火布}}
 * {{ko-l|분화|分火}}
 * {{ko-l|사화|死火}}
 * {{ko-l|산화|山火}}
@@ -474,7 +465,11 @@ Compare the development of {{m|ojp|木|tr=ko<sub>2</sub> → ki<sub>2</sub>||[[t
 * {{m|ojp|火の神|tr=pi<sub>2</sub>no<sub>2</sub>kami<sub>2</sub>}}
 * {{m|ojp|葦火|tr=asipi<sub>2</sub>||fire using dried [[reed]]s as [[kindling]] or [[fuel]]}}
 
+====Descendants====
+* {{desc|ja|火|tr=hi}}
+
 ===Etymology 2===
+Combining form of ''pi<sub>2</sub>'' above, probably the older form.
 
 ====Noun====
 {{head|ojp|noun|tr=po|kana|ほ}}
@@ -484,12 +479,18 @@ Compare the development of {{m|ojp|木|tr=ko<sub>2</sub> → ki<sub>2</sub>||[[t
 =====Derived terms=====
 * {{m|ojp|火の神|tr=pono<sub>2</sub>kami<sub>2</sub>}}
 
+====Descendants====
+* {{desc|ja|火|tr=ho}}
+
 ===Etymology 3===
+Appears in only one poem in the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}) as a compound, see derived term {{m|ojp|葦火|tr=asipu}}.
+
+{{rfe|ojp|Eastern OJP variant of hypothetical *{{IPAfont|⟨po<sub>2</sub>⟩}}?}}
 
 ====Noun====
 {{head|ojp|noun|tr=pu|kana|ふ}}
 
-# {{lb|ojp|sort=ふ|regional|Eastern {{cog|ojp|-}}}} a [[fire]]
+# {{lb|ojp|sort=ふ|regional|Central Eastern {{cog|ojp|-}}}} a [[fire]]
 
 =====Derived terms=====
 * {{m|ojp|富士|tr=Puzi}}
