@@ -79,11 +79,6 @@
 ===Kanji===
 {{ja-kanji|grade=1|rs=山00}}
 
-# [[mountain]]
-# [[mine]]
-# [[temple]], temple [[ground]]
-# {{short for|lang=ja|比叡山|tr=Hieizan|nodot=1|sort=さん}}: {{w|Mount Hiei}}
-
 ====Readings====
 {{ja-readings
 |goon=せん
@@ -93,7 +88,7 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top3|Compounds}}
 * {{ja-r|山鶯|さんおう}}
 * {{ja-r|山河|さんか}}, {{ja-r|山河|さんが}}
 * {{ja-r|山岳|さんがく|[[mountains]]}}
@@ -277,7 +272,7 @@ From {{inh|ja|ojp|sort=やま|-}}.
 {{der-bottom}}
 
 =====Idioms=====
-{{der-top|Idioms}}
+{{der-top3|Idioms}}
 * {{ja-r|山が当たる|やま が あたる}}
 * {{ja-r|山が見える|やま が みえる}}
 * {{ja-r|山%高く水%長し|やま% たかく みず% ながし}}
@@ -310,7 +305,7 @@ From {{inh|ja|ojp|sort=やま|-}}.
 # ''prefix for [[species]] that are [[wild]] or [[reside|residing]] in [[mountain]]s''
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|山犬|やまいぬ|mountain [[dog]]}}
 * {{ja-r|山 鶯|やま うぐいす}}
 * {{ja-r|山 兎|やま うさぎ}}
@@ -364,19 +359,25 @@ Sometimes spelled with {{rendaku|sort=さん}}, as ''-zan''.
 * {{ja-r|筑%波%山|^つく%ば%さん}}
 {{der-bottom}}
 
+====Affix====
+# [[mountain]]
+# [[mine]]
+# [[temple]], temple [[ground]]
+# {{short for|lang=ja|比叡山|tr=Hieizan|nodot=1|sort=さん}}: {{w|Mount Hiei}}
+
 ===Etymology 3===
 {{ja-kanjitab|むれ|yomi=i}}
+Phonetic spelling first attested in the {{w|Edo period}}.
 
-From {{inh|ja|ojp|-}}.
+From {{inh|ja|ojp|-}}, itself a borrowing from {{bor|ja|oko|sort=むれ|牟禮|tr=morye}}, <ref name="DJR"/><ref>{{R:Daijisen}}</ref> compare {{cog|okm|뫼|tr=mwoy}}.
 
-Borrowed from {{bor|ja|oko|sort=むれ|牟禮|tr=morye}}.<ref name="DJR"/><ref>{{R:Daijisen}}</ref>(Compare {{cog|okm|뫼|tr=mwoy}})
 ====Alternative forms====
 * {{ja-l|牟礼}}
 
 ====Noun====
 {{ja-noun|むれ}}
 
-# {{lb|ja|archaic|obsolete|sort=むれ}} a [[hill]] or [[mountain]]
+# {{lb|ja|sort=むれ|rare|obsolete}} a [[hill]] or [[mountain]]
 
 ===References===
 <references/>
@@ -393,7 +394,51 @@ Borrowed from {{bor|ja|oko|sort=むれ|牟禮|tr=morye}}.<ref name="DJR"/><ref>{
 # [[mountain]]
 
 ====Compounds====
-* [[山獺]] ([[산달]], [[raccoon dog]])
+* {{ko-l|산달|[[raccoon dog]]|山獺}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+From {{inh|ojp|jpx-pro|*yama}}.
+
+====Noun====
+{{head|ojp|noun|tr=yama|kana|やま}}
+
+# a [[mountain]]
+#* {{RQ:Kojiki|poem 31}}
+#*: {{ux|ojp|伊能知能麻多祁牟比登波[[疊薦|多多美許母]]弊具理能'''夜麻'''能久麻加志賀波袁宇受爾佐勢曾能古|tr=ino<sub>2</sub>ti no<sub>2</sub> matake<sub>1</sub>mu pi<sub>1</sub>to<sub>2</sub> pa tatami<sub>1</sub>ko<sub>2</sub>mo<sub>2</sub> Pe<sub>1</sub>guri-no<sub>2</sub>-'''yama''' no<sub>2</sub> kumakasi no<sub>2</sub> pa wo uzu ni sase so<sub>2</sub>no<sub>2</sub> ko<sub>1</sub>}}
+# a [[forested]] [[area]] of a mountain for [[harvest]]ing, [[hunt]]ing, etc.
+#* {{RQ:Manyoshu|4|779}}
+#*: {{ux|ojp|板盖之黑木乃屋根&#xfa5b;'''山'''近之明日取而持將參來|tr=itapuki<sub>1</sub> no<sub>2</sub> kuro<sub>1</sub>ki<sub>2</sub> no<sub>2</sub> yane pa '''yama''' tikasi asu no<sub>2</sub> pi<sub>1</sub> to<sub>2</sub>rite motimawiriko<sub>2</sub>mu|Since the '''mountains''' are close by, tomorrow I will cut down and bring you rough logs for your wooden roof.<ref>{{cite-book|1982|Paula Doe｜author2={{w|Ōtomo no Yakamochi|Yakamochi Ōtomo}}|A Warbler's Song in the Dusk: The Life and Work of Ōtomo Yakamochi (718-785)|edition=illustrated|publisher=University of California Press|ISBN=0520043464|page=106}}</ref>}}
+
+=====Descendants=====
+* {{desc|ja|山|tr=yama}}
+
+===Etymology 2===
+Borrowed from {{bor|ojp|oko|sort=むれ|牟禮|tr=morye}}.<ref>{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref>
+
+Compare {{cog|okm|뫼|tr=mwoy}}.
+
+====Alternative forms====
+* {{m|ojp|牟禮}}
+
+====Noun====
+{{head|ojp|noun|tr=mure|kana|むれ}}
+
+# a [[hill]] or [[mountain]]
+#* {{RQ:Nihon Shoki|{{w|Empress Jingū}}, entry 19: 49th year of the second month, spring}}
+#*: {{ux|ojp|唯千熊長彥與百濟王、至于百濟國、登辟支'''山'''盟之、復登古沙'''山'''、共居磐石上。}}
+
+=====Usage notes=====
+No known Early Middle Japanese dictionaries attest the ''mure'' spelling phonetically, the earliest being found in the ''Mito-bon Hei Nihongi Shiki'' (1678).
+
+=====Descendants=====
+* {{desc|ja|[[山]], [[牟礼]]|tr=mure}}
+
+===References===
+<references/>
 
 ----
 
