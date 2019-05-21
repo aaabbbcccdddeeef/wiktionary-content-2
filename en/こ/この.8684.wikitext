@@ -1,10 +1,10 @@
 ==Japanese==
 
 ===Etymology 1===
-Originally a compound of {{etyl|ojp|ja}} elements {{compound|ja|こ|tr1=ko|t1=(''pronoun'') this|の|tr2=no|t2=possessive, modifies following noun}}. {{l|ja|こ}} as a pronoun is no longer used individually in modern Japanese.
+Originally a compound of {{etyl|ojp|ja}} elements {{compound|ja|こ|tr1=ko|t1=this|pos1=pronoun|の|tr2=no|pos2=possessive, modifies following noun}}. {{m|ja|こ}} as a pronoun is no longer used individually in modern Japanese.
 
 ====Pronunciation====
-{{ja-pron|acc=h|acc_ref=DJR}}
+{{ja-pron|acc=0|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{l|ja|此の}}, {{l|ja|斯の}}
@@ -18,39 +18,7 @@ Originally a compound of {{etyl|ojp|ja}} elements {{compound|ja|こ|tr1=ko|t1=('
 # ''prefixes words for insults, used for emphasis; compare'' {{ncog|vi|này||[[this]]}}
 #: {{ja-usex|この馬%鹿ね！|この ば%か ね！|You idiot!|lit=This idiot!}}
 #:{{ja-x|この ボケ！|You halfwit!}}
-# ''prefixes one's own name, used arrogantly to refer to oneself''
-#* {{quote-book|ja
-|||{{wj|六三四の剣|[六](ム)[三](サ)[四](シ)の[剣](けん)}}
-||18
-|last=Murakami
-|first=Motoka
-|authorlink=Motoka Murakami
-|chapter={{lj|[鹿](カ)[児](ゴ)[島](ンマ)の[猛](も)[者](さ)たちの[巻](まき)}}
-|trans-chapter=The He-Men of Kagoshima
-|trans-title={{w|Musashi no Ken|Musashi’s Sword}}
-|genre=fiction
-|location=Tokyo
-|publisher=Shogakukan
-|date=Nov 15 1984
-|volume=17
-|isbn=4-09-121037-6}}
-#*:{{ja-usex|よし！　さっそくおめたちと稽%古さしたい！それがオレからの返%礼だ！'''この'''夏%木%六%三%四殺せるもんなら殺してみろ！|^よし！　^さっそく おめ-たち と けい%こ さ したい！^それ が オレ から の へん%れい だ！'''^この''' ^なつ%き% ^ム%サ%シ ころせる もん なら ころして みろ！|Alright! I’ll practice with all of you at once! Consider that my thank-you for welcomin’ me! If any of you think you can destroy me, Natsuki Musashi, do give it a go!|lit=Alright! I would like to practice with y’all at once! That will be the returned favor from me! If you could kill this Natsuki Musashi, do kill!}}
-#* {{quote-book|ja
-|||{{wj|犬夜叉|[犬](いぬ)[夜](や)[叉](しゃ)}}
-||116
-|last=Takahashi
-|first=Rumiko
-|authorlink=Rumiko Takahashi
-|chapter={{lj|[第](だい)６[話](わ)　[無](む)[女](おんな)}}
-|trans-chapter=Chapter 6: Void Woman
-|trans-title={{w|Inuyasha}}
-|genre=fiction
-|location=Tokyo
-|publisher=Shogakukan
-|date=Jul 15 1997
-|volume=2
-|isbn=4-09-125202-8}}
-#*:{{ja-x|まさかこんな所にあろうとは…'''この'''殺%生%丸も見ぬけなんだわ。|^まさか こんな ところ に あろう と は… '''この''' ^せっ%しょう%まる も みぬけ なん だ わ。|To think it’s been in an odd place like this the whole time… even I<!--don't mention his name here, he talks like this not just once but all the time, making it too literal would sound awful--> couldn’t have guessed.|lit=As for the fact that it’s unexpectedly been in such a place<!--Inuyasha's eye-->… even this Sesshōmaru couldn’t have seen that coming.}}
+# [[I]], [[me]]: ''prefixes one's own name, used arrogantly to refer to oneself''
 #* {{quote-book|ja
 |||{{wj|東京アンダーグラウンド|[東](とう)[京](きょう)アンダーグラウンド}}
 |pages=30–31
@@ -65,7 +33,7 @@ Originally a compound of {{etyl|ojp|ja}} elements {{compound|ja|こ|tr1=ko|t1=('
 |date=Sep 22 2003
 |isbn=4-7575-1007-1
 |volume=11}}
-#*: {{ja-usex|これが'''この'''赤を師%兵の頂%点たらしめる炎だッ!!!我%龍%双%煉%掌|^これ が '''この''' ^セキ を ^スー%ペイ の ちょう%てん たらしめる ほのお だッ!!! ^が%りゅう% ^そう%れん%しょう|This is the flame that helped put me, Seki, at the top of the Supei!!! Garyū Sōrenshō|lit=This is the flame that made this Seki the top brass of the Supei!!! Garyū Sōrenshō}}
+#*: {{ja-usex|これが'''この'''赤を師%兵の頂%点たらしめる炎だッ!!!我%龍%双%煉%掌|^これ が '''この''' ^セキ を ^スー%ペイ の ちょう%てん たらしめる ほのお だッ!!!|This is the flame that helped put '''me''', Seki, at the top of the Supei!!!}}
 
 =====Usage notes=====
 * This term can only be used when followed by a noun or noun phrase. It cannot be used as a standalone pronoun. Examples:
@@ -94,7 +62,7 @@ Originally a compound of {{etyl|ojp|ja}} elements {{compound|ja|こ|tr1=ko|t1=('
 ===Etymology 2===
 {{IPAchar|/kokono/}} → {{IPAchar|/kono/}}
 
-Abbreviation of {{etyl|ojp|ja}} ''kokono'' (“nine”).
+Abbreviation of {{der|ja|ojp|-}} ''kokono'' (“nine”).
 
 ====Pronunciation====
 {{ja-pron|acc=1|acc_ref=DJR}}
