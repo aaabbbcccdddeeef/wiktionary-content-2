@@ -65,7 +65,23 @@ From {{inh|ne|sa|षष्}}, cognate with {{cog|hi|छह}}.
 
 ==Pali==
 
+===Alternative forms===
+{{pi-alt|Latn=cha}}
+
 ===Numeral===
 {{head|pi|numeral}}
 
-# {{cln|pi|cardinal numbers}} {{pi-sc|d|cha}}
+# {{pi-sc|Deva|cha}} (“six”)
+
+====Declension====
+<!-- {{pi-alt|Latn=chachahichannaṃchasu}} transliteration aid -->
+{{pi-decl-noun|g=no|number=p
+|novoc=true
+|nomp_mod=replace|nomp=छ
+|accp_mod=replace|accp=छ
+|insp_mod=replace|insp=छहि
+|ablp_mod=replace|ablp=छहि
+|datp_mod=replace|datp=छन्नं
+|genp_mod=replace|genp=छन्नं
+|locp_mod=replace|locp=छसु
+}}
