@@ -17,13 +17,13 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=吗}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|口|馬|ls=psc|c1=s|c2=p|t1=mouth; colloquial|no_och2=1}}.
 
 ===Etymology 1===
+{{zh-forms|s=吗|alt=麼}}
 From {{och-l|無|not}} ({{zh-ref|Schuessler, 2007}}).
 
 ====Pronunciation====
@@ -52,6 +52,7 @@ The particle {{lang|zh|嗎}} allows turning an affirmative sentence into an inte
 * Question particle: {{zh-l|呢}} (reciprocal questions).
 
 ===Etymology 2===
+{{zh-forms|s=吗}}
 
 ====Pronunciation====
 {{zh-pron
@@ -72,22 +73,28 @@ The particle {{lang|zh|嗎}} allows turning an affirmative sentence into an inte
 
 =====Compounds=====
 {{zh-der|嗎啉|嗎啡中毒|嗎啡|嗎啡針|嗎呼|嗎兒|嗎呢|百嗎兒}}
+
 ===Etymology 3===
+{{zh-forms|s=吗|alt=嘛}}
 
 ====Pronunciation====
 {{zh-pron
-|m=má
+|m=má,er=y
 |cat=pron
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[what]]
+# {{lb|zh|Mandarin|colloquial}} [[what]]
+
+=====Synonyms=====
+{{zh-dial|什麼}}
+
 ===Etymology 4===
 {{zh-see|罵|hv}}
-{{zh-cat|Beginning}}
 
+{{zh-cat|Beginning}}
 {{cln|zh|interrogative particles}}
 
 ----
