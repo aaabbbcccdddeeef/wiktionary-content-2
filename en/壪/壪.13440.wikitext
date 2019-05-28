@@ -5,8 +5,6 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=22|sn=25|four=|canj=GVFN|ids=⿰土彎}}
 
-# (same as [[塆]]) [[level]] [[ground]] in a [[mountain]] [[valley]], often used as [[place]] [[name]]s
-
 ====References====
 * {{Han ref|kx=0242.361|hdz=80012.050|uh=58EA|ud=22762}}
 
@@ -15,14 +13,21 @@
 ==Chinese==
 {{zh-forms|s=塆}}
 
+===Glyph origin===
+{{Han compound|土|彎|t1=dirt|ls=psc|c1=s|c2=p|tr2=wān}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=wān
 |c=waan1
-|cat=
+|cat=n
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# [[level]] [[ground]] in a [[mountain]] [[valley]] {{n-g|(often used as [[place]] [[name]]s)}}
+#: {{zh-syn|山坳}}
+
+===Compounds===
+{{zh-der|沙壪河/沙塆河|羌家壪/羌家塆}}
