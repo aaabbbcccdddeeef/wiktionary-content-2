@@ -109,10 +109,6 @@ Sino-Tibetan. Cognate with {{och-l|扞|to shield; to protect}}, {{och-l|閈|gate
 ===Kanji===
 {{ja-kanji|grade=6|rs=干00}}
 
-# [[shield]]
-# [[interfere]], [[invade]]
-# [[dry]]
-
 ====Readings====
 {{ja-readings
 |goon=かん
@@ -121,10 +117,26 @@ Sino-Tibetan. Cognate with {{och-l|扞|to shield; to protect}}, {{och-l|閈|gate
 }}
 
 ====Compounds====
+* {{ja-r|干%城|たて%き}}
+
+===Etymology 1===
+{{ja-kanjitab|かん|yomi=on}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|干}}.
+
+====Pronunciation====
+{{ja-pron|かん|y=on}}
+
+====Affix====
+{{ja-pos|affix|かん}}
+
+# [[shield]]
+# [[interfere]], [[invade]]
+# [[dry]]
+
+=====Derived terms=====
 {{top3}}
 ; shield
 * {{ja-r|干%戈|かん%か}}
-* {{ja-r|干%城|たて%き}}
 {{mid3}}
 ; interfere, invade
 * {{ja-r|干%渉|かん%しょう}}
@@ -134,8 +146,27 @@ Sino-Tibetan. Cognate with {{och-l|扞|to shield; to protect}}, {{och-l|閈|gate
 * {{ja-r|干%害|かん%がい}}
 * {{ja-r|干%天|かん%てん}}
 * {{ja-r|干%魃|かん%ばつ}}
-* {{ja-r|干%物|ひ%もの}}
 {{bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|ひ|yomi=on}}
+From {{der|ja|ltc|sort=ひ|-}} {{ltc-l|干}}.
+
+====Pronunciation====
+{{ja-pron|ひ|acc=1|acc_ref=DJR|y=on}}
+
+====Noun====
+{{ja-noun|ひ}}
+
+# {{lb|ja|prefixed to nouns}} [[dry]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|干%物|ひ%もの}}
+{{der-bottom}}
+
+===References===
+<references/>
 
 ----
 
