@@ -267,31 +267,30 @@ From {{inh|fro|la|fīlum}}.
 ==Old Irish==
 
 ===Alternative forms===
-* {{l|sga|fail}}
-* {{l|sga|feil}}
-* {{l|sga|fel}}
-* {{l|sga|fele}} {{qualifier|relative}}
-* {{l|sga|file}} {{qualifier|relative}}
+* {{alter|sga|fail|feil|fel}}
+* {{alter|sga|fele|file||relative}}
 
 ===Etymology===
-From {{inh|sga|cel-pro|*wele||see!}}, the imperative of {{der|sga|cel-pro|*wel-||see}}, from {{der|sga|ine-pro|*wel-|t=see}}, compare {{cog|cy|gweled||to see}}. Semantic development from "see!" to "there is" is parallel to that of French {{m|fr|voici}}, from ''vois ci'' "see here" and {{m|fr|voilà}}, from ''vois là'' "see there".
+From {{inh|sga|cel-pro|*wele||see!}}, the imperative of {{der|sga|cel-pro|*wel-||see}}, from {{der|sga|ine-pro|*wel-|t=see}}, compare {{cog|cy|gweled||to see}}. Semantic development from "see!" to "there is" is parallel to that of {{noncog|fr|voici}}, from {{m|fr||vois ci|t=see here}} and {{m|fr|voilà}}, from {{m|fr||vois là|t=see there}}.
 
 ===Pronunciation===
-* {{IPA|/fʲilʲ/|lang=sga}}
+* {{IPA|sga|/fʲilʲ/}}
 
 ===Verb===
-{{head|sga|verb form|head=·fil}} {{qualifier|conjunct}}, {{l|sga||'''fil'''}} {{qualifier|relative}}
+{{head|sga|verb form|head=·fil}}
 
-# {{inflection of|sga|attá|at·tá|pres|progressive|conjunct}}
-# {{inflection of|sga|attá|at·tá|3|s|pres|progressive|relative}}
+# {{infl of|sga|at·tá||pres|progressive|conjunct}}
+
+{{head|sga|verb form}}
+# {{infl of|sga|at·tá||3|s|pres|progressive|relative}}
 
 ====Usage notes====
 In the conjunct form, the logical subject appears in the accusative (or as an infixed object pronoun) in the oldest language. Examples: {{m|sga|[[nícon·ḟil]] [[nach]] [[rainn]]||there is no part}}, {{m|sga|nín·fil||we are not}}, {{m|sga|condib·feil||so that you {{g|p}} are}}.
 
 ====Descendants====
-* Irish: {{l|ga|bhfuil}}, {{l|ga|níl}}
-* Manx: {{l|gv|vel}}, {{l|gv|nel}}
-* Scottish Gaelic: {{l|gd|bheil}}, {{l|gd|eil}}
+* {{desc|ga|bhfuil}}, {{l|ga|níl}}
+* {{desc|gv|vel}}, {{l|gv|nel}}
+* {{desc|gd|bheil}}, {{l|gd|eil}}
 
 ===Mutation===
 {{sga-mutation|f|il}}
