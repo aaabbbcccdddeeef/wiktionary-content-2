@@ -106,17 +106,36 @@ From {{inh|zh|sit-pro|*s-(k/ŋ)rul||sweat}}. Compare {{cog|bo|རྔུལ||swea
 |kun=あせ-
 }}
 
-===Noun===
-{{ja-noun|あせ}}
-
-# [[sweat]]
+===Etymology 1===
 
 ====Pronunciation====
 {{ja-pron|yomi=k|あせ|acc=1|acc_ref=SMK2}}
 ** (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|せ}} [àséꜜ]<ref>{{R:Keihankei}}</ref>
 
+====Noun====
+{{ja-noun|あせ}}
+
+# [[sweat]]
+
 ====Derived terms====
 * {{ja-r|汗をかく|あせ を かく}}
+
+===Etymology 2===
+{{ja-kanjitab|かん|yomi=on}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|汗}}.
+
+====Pronunciation====
+{{ja-pron|かん|acc=1|acc_ref=DJR|y=on}}
+
+====Noun====
+{{ja-noun|かん}}
+
+# ''Synonym of ''{{ja-r|ハン}}: [[khan]]
+
+====Affix====
+{{ja-pos|affix|かん}}
+
+# [[sweat]]
 
 ===References===
 <references/>
