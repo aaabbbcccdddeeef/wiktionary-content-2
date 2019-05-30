@@ -5,9 +5,6 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=13|sn=16|four=62047|canj=RBBE|ids=⿰口愛}}
 
-# [[interjection]]
-# [[exclamation]]
-
 ====References====
 * {{Han ref|kx=0210.220|dkj=04394|dj=0433.100|hdz=10693.040|uh=566F|ud=22127|bh=BEBC|bd=48828}}
 
@@ -21,16 +18,17 @@
 ====Pronunciation====
 {{zh-pron
 |m=ǎi
-|c=aai1,ngoi3,ngoi2,oi2,oi3
+|c=ngoi3,ngoi2,oi2,oi3
 |h=pfs=ôi
-|cat=
+|cat=interj,v
 }}
 {{zh-attn-split}}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{n-g|An interjection expressing [[disagreement]] or [[negation]].}}
+# {{†}} {{zh-synonym|噯氣|to [[belch]]; to [[burp]]}}
 
 =====Compounds=====
 {{zh-der|噴雲噯霧|噯呀|噯唷|噯喲|噯氣|噯喲喲}}
@@ -40,12 +38,13 @@
 ====Pronunciation====
 {{zh-pron
 |m=ài
+|cat=interj
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|interjection}} expressing [[annoyance]] or [[regret]]
+# {{n-g|An interjection expressing [[annoyance]] or [[regret]].}}
 
 ===Etymology 3===
 {{zh-see|哎|v}}
