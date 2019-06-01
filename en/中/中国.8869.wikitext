@@ -1,22 +1,22 @@
+{{also|中國}}
 ==Chinese==
 {{zh-see|中國}}
 
 ----
 
 ==Japanese==
-{{swp|lang=ja}}
 
 ===Etymology 1===
-{{ja-kanjitab|ちゅう|こく|k2=ごく|yomi=o|r=y}}
-From {{der|ja|zh|中國|lit=Central Country}}
+{{wp|lang=ja}}
+{{ja-kanjitab|yomi=o|ちゅう|こく|k2=ごく}}
+From {{bor|ja|ltc|-}} {{ltc-l|中國|id=1|lit=[[central]] [[country]]}}. Compare modern {{cog|yue|中國|tr=zung<sup>1</sup> gwok<sup>3</sup>}}.
 
-====Pronunciation====
-{{ja-pron|ちゅうごく|acc=1|acc2=0|acc_ref=SMK5|acc2_ref=DJR|y=o|a=Ja-Chugoku.ogg}}
+{{rfe|ja|Where the "China" sense first attested in a Japanese document?}}
 
 ====Proper noun====
 {{ja-pos|ちゅうごく|proper|kyu=中國}}
 
-# [[China]] {{gl|country in east Asia}}
+# [[China]], ''especially'' {{short for|ja|中華人民共和国|tr=Chūka Jinmin Kyōwakoku|nocap=1|dot=,}} the [[People's Republic of China]]
 #* {{quote-book
 |genre=fiction
 ||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
@@ -33,57 +33,54 @@ From {{der|ja|zh|中國|lit=Central Country}}
 |lang=ja
 |series={{w2|ja|大長編ドラえもん}}
 |seriesvolume=10}}
-#*: {{ja-usex|ねえねえ、今の地%図みた⁉|^ねえ ねえ、いま の ち%ず みた⁉|Hey look, isn’t that a map⁉}}{{ja-usex|みた！いったいここはなんという国だろう。|みた！いったい ここ は なん と いう くに だろう。|It is! And what country is this anyway?}}{{ja-usex|クニ？クニ って なあに。|Country? What’s a country?}}{{ja-usex|アメリカとか'''中%国'''とかいろいろあるじゃない。|^アメリカ とか '''^ちゅう%ごく''' とか いろいろ ある じゃ ない。|There are countries like America and China, aren’t there?}}{{ja-usex|ぼくらは日%本からきたんだけど…。|^ぼくら は ^にっ%ぽん から きたん だけど…。|We’re from Japan, by the way….}}{{ja-usex|ニッポン？きいたことない。|ニッポン？き.いた こと ない。|Japan? I’ve never heard of that before.}}
-# {{w|Chūgoku region}} {{gloss|region of Japan}}
-
-=====Synonyms=====
-* {{ja-r|中%華%人%民%共%和%国|^ちゅう%か% ^じん%みん% ^きょう%わ%こく|[[People's Republic of China]]}}
-* {{ja-r|中%国%地%方|^ちゅう%ごく% ち%ほう|Chugoku area}}
+#*: {{ja-usex|ねえねえ、今の地%図みた⁉|^ねえ ねえ、いま の ち%ず みた⁉|Hey look, isn’t that a map⁉}}{{ja-usex|みた！いったいここはなんという国だろう。|みた！いったい ここ は なん と いう くに だろう。|It is! And what country is this anyway?}}{{ja-usex|クニ？クニ って なあに。|Country? What’s a country?}}{{ja-usex|アメリカとか'''中%国'''とかいろいろあるじゃない。|^アメリカ とか '''^ちゅう%ごく''' とか いろいろ ある じゃ ない。|There are countries like America and '''China''', aren’t there?}}{{ja-usex|ぼくらは日%本からきたんだけど…。|^ぼくら は ^にっ%ぽん から きたん だけど…。|We’re from Japan, by the way….}}{{ja-usex|ニッポン？きいたことない。|ニッポン？き.いた こと ない。|Japan? I’ve never heard of that before.}}
 
 =====Derived terms=====
-* {{ja-r|中%国%語|^ちゅう%ごく%ご|[[Chinese]] [[language]]}}
-* {{ja-r|中%国%人|^ちゅう%ごく%じん|Chinese [[person]]/[[people]]}}
-* {{ja-r|中%国%料%理|^ちゅう%ごく% りょう%り|Chinese [[cuisine]]}}
+* {{ja-r|中%国%語|^ちゅう%ごく%-ご|[[Chinese]] [[language]]}}
+* {{ja-r|中%国%人|^ちゅう%ごく%-じん|Chinese [[person]]/[[people]]}}
+* {{ja-r|中%国 料理|^ちゅう%ごく りょうり|Chinese [[cuisine]]}}
 
 =====Related terms=====
-* {{ja-r|中%華|^ちゅう%か}}
+* {{ja-r|中華|^ちゅうか}}
 
 ===Etymology 2===
-{{ja-kanjitab|なか|くに}}
+{{ja-kanjitab|yomi=o|ちゅう|こく|k2=ごく}}
+From {{bor|ja|ltc|-}} {{ltc-l|中國|id=1}}. {{rfv-etymology|ja|sort=ちゆうこく}}
+
+Analyzable as a compound of {{com|ja|sort=ちゆうこく|中|tr1=chū|t1=[[center]], [[middle]]|国|tr2=koku|t2=[[country]]}}. {{rendaku2|sort=ちゆうこく|koku|goku}}
 
 ====Pronunciation====
-{{ja-pron|なかつくに}}
-
-====Proper noun====
-{{ja-pos|なかつくに|proper|kyu=中國}}
-
-# {{short for|葦原中国|lang=ja}}
-
-=====Alternative forms=====
-* {{ja-r|中つ国|^なかつくに}}
-
-===Etymology 3===
-{{ja-kanjitab|ちゅう|こく}}
-
-====Pronunciation====
-{{ja-pron|ちゅうこく}}
+{{ja-pron|ちゅうごく|acc=1|acc2=0|acc_ref=SMK5|acc2_ref=DJR|y=o|a=Ja-Chugoku.ogg}}
 
 ====Noun====
-{{ja-noun|ちゅうこく|kyu=中國}}
+{{ja-noun|kyu=中國|ちゅうごく}}
 
-# [[middle]] [[power]]
-# {{short for|中期国債|lang=ja}}
+# the [[central]] [[part]] of a [[country]], historically, commonly known as the [[capital city]] or the [[main]] [[region]], where an [[emperor]] or other [[ruler]] [[reside]]s
+# something [[within]] a country
+# {{lb|ja|sort=ちゆうこく|historical}} under the {{m|ja|律令|tr={{w|Ritsuryō}}}} system, a [[province]] of the [[third]] [[rank]] according to a four-rank system based on [[population]] and [[area]]
+# {{lb|ja|historical}} under the {{m|ja|律令|tr={{w|Ritsuryō}}}} system, a [[province]] of the [[second]] rank according to the [[distance]] from the [[capital city]]
+# [[collective]] [[term]] for the {{m|ja|山陽道|tr={{w|San'yōdō}}}} and {{m|ja|山陰道|tr={{w|San'indō}}}} [[regions]] of [[Japan]]
 
-===Etymology 4===
-{{ja-kanjitab|なか|くに}}
+=====Derived terms=====
+* {{ja-r|中%国 地方|^ちゅう%ごく% ちほう}}
 
-====Pronunciation====
-{{ja-pron|なかくに}}
+====Proper noun====
+{{ja-pos|kyu=中國|ちゅうごく|proper}}
+
+# {{short for|ja|中国地方|tr=Chūgoku chihō|dot=:}} the {{w|Chūgoku region}} of [[Japan]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|なか|くに}}
+
+From {{com|ja|中|tr1=naka|t1=[[center]], [[middle]]|国|tr2=kuni|t2=[[country]]}}.
 
 ====Proper noun====
 {{ja-pos|なかくに|proper|kyu=中國}}
 
-# {{surname|lang=ja|sort=なかくに}}
+# {{surname|lang=ja|A=a|nodot=1|sort=なかくに}}
+
+===See also===
+* {{ja-r|中つ国|なか つ くに}}
 
 ===References===
 <references/>
