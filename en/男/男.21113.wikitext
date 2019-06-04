@@ -336,8 +336,19 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 ===Kanji===
 {{head|xug|Han characters|hiragana|いけが|romaji|ikega|hiragana|うんが|romaji|unga}}
 
-===Noun===
-{{head|xug|noun|hiragana|いけが|romaji|ikega|hiragana|うんが|romaji|unga|sort=いけが}}
+===Etymology 1===
+From {{inh|xug|jpx-ryu-pro|*weke|sort=いけが}}.
+
+====Noun====
+{{head|xug|noun|hiragana|いけが|romaji|ikega|sort=いけが}}
+
+# [[man]]
+
+===Etymology 2===
+From {{inh|xug|jpx-ryu-pro|*wenga|sort=うんが}}.
+
+====Noun====
+{{head|xug|noun|hiragana|うんが|romaji|unga|sort=うんが}}
 
 # [[man]]
 
@@ -349,6 +360,9 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ===Kanji===
 {{head|okn|Han characters|hiragana|いぃんが|romaji|yinga}}
+
+===Etymology===
+From {{inh|okn|jpx-ryu-pro|*wenga|sort=いぃんが}}.
 
 ===Noun===
 {{head|okn|noun|hiragana|いぃんが|romaji|yinga|sort=いぃんが}}
@@ -363,6 +377,9 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ===Kanji===
 {{head|ryu|Han characters|hiragana|ゐきが|romaji|wikiga|hiragana|ゆきが|romaji|yukiga}}
+
+===Etymology===
+From {{inh|ryu|jpx-ryu-pro|*weke|sort=ゐきが}}.
 
 ===Noun===
 {{head|ryu|noun|hiragana|ゐきが|romaji|wikiga|hiragana|ゆきが|romaji|yukiga|sort=ゐきが}}
@@ -392,10 +409,33 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 ----
 
+==Yonaguni==
+
+===Kanji===
+{{head|yoi|Han characters|hiragana|びんが|romaji|binga}}
+
+===Etymology===
+From {{inh|yoi|jpx-ryu-pro|*wenga|sort=びんが}}.
+
+===Pronunciation===
+* {{IPA|/biŋɡa/|lang=yoi|sort=ひんが'}}
+
+===Noun===
+{{head|yoi|noun|hiragana|びんが|romaji|binga|sort=ひんが'}}
+
+# [[man]]
+
+{{c|yoi|Male|People|sort=ひんが'}}
+
+----
+
 ==Yoron==
 
 ===Kanji===
 {{head|yox|Han characters|hiragana|をぅいが|romaji|wuiga}}
+
+===Etymology===
+From {{inh|yox|jpx-ryu-pro|*weke|sort=をぅいが}}.
 
 ===Noun===
 {{head|yox|noun|hiragana|をぅいが|romaji|wuiga|sort=をぅいが}}
