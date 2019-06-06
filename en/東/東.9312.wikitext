@@ -436,19 +436,18 @@ From {{m|ryu|上り|tr=agari|gloss=[[ascent]], [[rise]]}} in reference to the di
 ==Old Japanese==
 
 ===Compounds===
-* {{m|ojp|東風|tr=ayu}}
-* {{m|ojp|東風|tr=*koti}}, {{m|ojp|東風|tr=*kotikaze}}
+* {{m|ojp|東風|tr=ayu, *koti, *kotikaze}}
 
 ===Etymology 1===
 Ultimate derivation {{unk|ojp|nocap=1|sort=あつま}}.
 
-A speculative origin might be a compound of {{com|ojp|sort=あつま|天|tr1=ama|t1=[[sky]], [[heavens]]|pos1=combining form|端|tr2=tuma|t2=[[edge]], [[beginning]]}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
+A speculative origin might be a compound of {{com|ojp|sort=あつま|天|tr1=ama|t1=sky, heavens|pos1=combining form|端|tr2=tuma|t2=edge, beginning}}, but the [[elision]] of the ''ma'' in ''ama'' does not follow normal patterns.
 
 ====Alternative forms====
-* {{l|ojp|吾妻}}
+* {{alter|ojp|吾妻}}
 
 ====Noun====
-{{head|ojp|noun|tr=aduma|kana|あづま}}
+{{head|ojp|noun|tr=aduma|kana|あづま|sort=あつま}}
 
 # [[east]]
 #* {{RQ:Kojiki|poem 100}}
@@ -458,22 +457,22 @@ A speculative origin might be a compound of {{com|ojp|sort=あつま|天|tr1=ama
 #*: {{ux|ojp|須賣呂伎能御代佐可延牟等'''阿頭麻'''奈流美知乃久夜麻爾金花佐久|tr=sume<sub>1</sub>ro<sub>2</sub>ki<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>yo<sub>2</sub> sakayemu to<sub>2</sub> '''aduma''' naru Mi<sub>1</sub>tino<sub>2</sub>ku-yama ni kugane pana saku}}
 
 =====Descendants=====
-* {{desc|ja|東|tr=azuma}}
+* {{desc|ja|東|tr=あずま, azuma}}
 
 ===Etymology 2===
 Found in one poem of the ''{{w|Man'yōshū}}'' ({{circa2|759 {{CE}}|short=1}}), but consistently spelled with this single ''kanji'' rather than in ''[[man'yōgana]]'', thus leaving the reading unspecified.
 
-Originally a compound of {{com|ojp|sort=ひむかし|日|tr1=pi<sub>1</sub>|t1=[[sun]]||alt2=向か|tr2=muka|t2=[[facing]], [[direction]]|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ojp|向く|tr=muku}}, “to [[face]] a direction”}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijirin}}</ref> The final ''-si'' is possibly either {{m|ojp|風|tr=si|t=[[wind]], direction|pos=obsolete}} or the suffix {{m|ojp|し|tr=-si}}, the [[adnominal]] form of {{m|ja|き|tr=-ki<sub>1</sub>|pos=classical past tense indicator}}.
+Originally a compound of {{com|ojp|sort=ひむかし|日|tr1=pi<sub>1</sub>|t1=sun||alt2=向か|tr2=muka|t2=facing, direction|pos2=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ojp|向く|tr=muku}}, “to face a direction”}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijirin}}</ref> The final ''-si'' is possibly either {{m|ojp|風|tr=si|t=wind, direction|pos=obsolete}} or the suffix {{m|ojp|し|tr=-si}}, the [[adnominal]] form of {{m|ja|き|tr=-ki<sub>1</sub>|pos=classical past tense indicator}}.
 
 ====Noun====
-{{head|ojp|noun|tr=*pi<sub>1</sub>mukasi|kana|ひむかし}}
+{{head|ojp|noun|tr=*pi<sub>1</sub>mukasi|kana|ひむかし|sort=ひむかし}}
 
 # [[east]]
 #* {{RQ:Manyoshu|1|48}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man1Yos.html#48 here]
 #*: {{ux|ojp|'''東'''野炎立所見而反見為者月西渡|tr='''*pi<sub>1</sub>mukasi''' no<sub>2</sub> no<sub>1</sub> ni kagi<sub>1</sub>ro<sub>1</sub>pi<sub>2</sub> no<sub>2</sub> tatu mi<sub>1</sub>yete kape<sub>1</sub>rimi<sub>1</sub> sureba tuki<sub>2</sub> katabuki<sub>1</sub>nu}}
 
 =====Descendants=====
-* {{desc|ja|東|tr=hingashi → higashi}}
+* {{desc|ja|東|tr=ひがし, higashi}}
 
 ===References===
 <references/>
