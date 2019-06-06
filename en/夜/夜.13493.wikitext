@@ -305,7 +305,7 @@ From {{inh|ojp|jpx-pro|*yoru|sort=よる}}. Derived from ''yo<sub>1</sub>'' belo
 Used as a standalone noun but not in compounds.
 
 ====Noun====
-{{head|ojp|noun|tr=yo<sub>1</sub>ru|kana|よる}}
+{{head|ojp|noun|tr=yo<sub>1</sub>ru|kana|よる|sort=よる}}
 
 # [[night]], [[evening]]
 #* {{RQ:Manyoshu|5|807}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#807 here]
@@ -316,7 +316,7 @@ Used as a standalone noun but not in compounds.
 * {{m|ojp|夜昼|tr=yo<sub>1</sub>rupi<sub>1</sub>ru}}
 
 =====Descendants=====
-* {{desc|ja|夜|tr=yoru}}
+* {{desc|ja|夜|tr=よる, yoru}}
 
 ===Etymology 2===
 From {{inh|ojp|jpx-pro|*yo|sort=よ}}. First attested in the ''{{w|Kojiki}}'' (712 {{CE}}).<ref name="KDJ"/>
@@ -324,7 +324,7 @@ From {{inh|ojp|jpx-pro|*yo|sort=よ}}. First attested in the ''{{w|Kojiki}}'' (7
 Used as both a standalone noun and in compounds.
 
 ====Noun====
-{{head|ojp|noun|tr=yo<sub>1</sub>|kana|よ}}
+{{head|ojp|noun|tr=yo<sub>1</sub>|kana|よ|sort=よ}}
 
 # [[night]], [[evening]]
 #* {{RQ:Kojiki|poem 3}}
@@ -352,13 +352,13 @@ Used as both a standalone noun and in compounds.
 {{der-bottom}}
 
 =====Descendants=====
-* {{desc|ja|夜|tr=yo}}
+* {{desc|ja|夜|tr=よ, yo}}
 
 ===Etymology 3===
 Attested in the ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (''c.'' 739 {{CE}}) and in the ''{{w|Man'yōshū}}'' (759 {{CE}}) as the Eastern Old Japanese variation of ''yo'' above.
 
 ====Noun====
-{{head|ojp|noun|tr=yu|kana|ゆ}}
+{{head|ojp|noun|tr=yu|kana|ゆ|sort=ゆ}}
 
 # {{lb|ojp|sort=ゆ|regional|Eastern Old Japanese}} [[night]], [[evening]]
 #* ''c.'' '''732'''-'''739''', ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (poem 1)
