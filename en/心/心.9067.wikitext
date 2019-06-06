@@ -377,10 +377,10 @@ The Buddhist sense is a translation of {{der|ja|pi|sort=しん|-}} and {{der|ja|
 ==Old Japanese==
 
 ===Etymology 1===
-From {{inh|ojp|jpx-pro|*kəkərə}}.
+From {{inh|ojp|jpx-pro|*kəkərə|sort=こころ}}.
 
 ====Noun====
-{{head|ojp|noun|tr=ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>|kana|こころ}}
+{{head|ojp|noun|tr=ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>|kana|こころ|sort=こころ}}
 
 # [[heart]], [[mind]], [[spirit]]
 # [[emotion]], [[feeling]]
@@ -392,25 +392,25 @@ From {{inh|ojp|jpx-pro|*kəkərə}}.
 * {{m|ojp|吾が心|tr=aga ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>}}
 
 =====Descendants=====
-* {{desc|ja|心|tr=kokoro}}
+* {{desc|ja|心|tr=こころ, kokoro}}
 
 ===Etymology 2===
 {{rfe|ojp|sort=ここり}}
 
 ====Noun====
-{{head|ojp|noun|tr=ko<sub>2</sub>ko<sub>2</sub>ri|kana|ここり}}
+{{head|ojp|noun|tr=ko<sub>2</sub>ko<sub>2</sub>ri|kana|ここり|sort=ここり}}
 
 # {{lb|ojp|sort=ここり|regional|Eastern Old Japanese}} [[heart]], [[mind]], [[spirit]]
-# {{lb|ojp|regional|Eastern Old Japanese}} [[emotion]], [[feeling]]
+# {{lb|ojp|sort=ここり|regional|Eastern Old Japanese}} [[emotion]], [[feeling]]
 
 =====Derived terms=====
 * {{m|ojp|田心姫|tr=Tago<sub>2</sub>ri-pi<sub>1</sub>me<sub>1</sub>}}
 
 ===Etymology 3===
-Cognate with {{m|ojp|裏|tr=ura||[[inside]]}} and {{m|ojp|浦|tr=ura||[[inlet]]}}.
+Cognate with {{m|ojp|裏|tr=ura|t=inside}} and {{m|ojp|浦|tr=ura|t=inlet}}.
 
 ====Noun====
-{{head|ojp|noun|tr=ura|kana|うら}}
+{{head|ojp|noun|tr=ura|kana|うら|sort=うら}}
 
 # [[heart]], [[inner]] [[feeling]]s
 
@@ -419,10 +419,10 @@ Cognate with {{m|ojp|裏|tr=ura||[[inside]]}} and {{m|ojp|浦|tr=ura||[[inlet]]}
 * {{m|ojp|心もなし|tr=ura mo nasi}}
 
 =====Descendants=====
-* {{desc|ja|心|tr=ura}}
+* {{desc|ja|心|tr=うら, ura}}
 
 ====Prefix====
-{{head|ojp|prefix|tr=ura-|kana|うら}}
+{{head|ojp|prefix|tr=ura-|kana|うら|sort=うら}}
 
 # ''[[prefix]]ed to terms to express a [[heartfelt]] [[feeling]]''
 
