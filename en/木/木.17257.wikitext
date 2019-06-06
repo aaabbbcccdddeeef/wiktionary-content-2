@@ -235,21 +235,21 @@ From {{inh|ojp|jpx-pro|sort=き|*kəy}}. Compare {{cog|ltc|-}} {{ltc-l|紀}}.
 Likely developed from fusion of older form {{m|ojp||木|tr=ko<sub>2</sub>|pos=see below}} + {{m|ojp|い|tr=i<sub>(2)</sub>|pos=emphatic nominative particle}}, similar to the sound changes at work in {{m|ojp|神|tr=[[kami|kamu → kami<sub>2</sub>]]||[[Shinto]] [[deity]]}}.<ref name="Perard 2012">{{cite-web|first=Thomas|last=Pellard|title=日琉祖語の分岐年代|work=琉球諸語と古代日本語に関する比較言語学的研究」ワークショップ|year=2012|url=http://kikigengo.jp/nishihara/lib/exe/fetch.php?media=library:references:rkoj-pellard.pdf|page=6}}</ref>
 
 ====Noun====
-{{head|ojp|noun|tr=ki<sub>2</sub>|kana|き}}
+{{head|ojp|noun|tr=ki<sub>2</sub>|kana|き|sort=き}}
 
 # a [[tree]] or [[shrub]]
 # [[wood]], [[timber]], [[lumber]]
 
 =====Descendants=====
-* {{desc|ja|木|tr=ki}}
+* {{desc|ja|木|tr=き, ki}}
 
 ===Etymology 2===
-From {{inh|ja|jpx-pro|*kə}}. Compare {{cog|ltc|-}} {{ltc-l|許|id=1}}.
+From {{inh|ja|jpx-pro|*kə|sort=こ}}. Compare {{cog|ltc|-}} {{ltc-l|許|id=1}}.
 
 Likely the original form of {{IPAfont|⟨ki<sub>2</sub>⟩}} above. Never found in isolation.<ref name="Perard 2012"/>
 
 ====Noun====
-{{head|ojp|noun|tr=ko<sub>2</sub>|kana|こ}}
+{{head|ojp|noun|tr=ko<sub>2</sub>|kana|こ|sort=こ}}
 
 # {{n-g|Combining form of {{m|ojp||キ<sup>乙</sup>|tr=ki<sub>2</sub>}} above}}
 
@@ -258,13 +258,13 @@ Likely the original form of {{IPAfont|⟨ki<sub>2</sub>⟩}} above. Never found 
 * {{m|ojp|木の花|tr=ko<sub>2</sub>no<sub>2</sub>pana}}
 
 =====Descendants=====
-* {{desc|ja|木|tr=ko}}
+* {{desc|ja|木|tr=こ, ko}}
 
 ===Etymology 3===
 Analysis in the ''{{w|Nihon Shoki}}'' (720 {{CE}}) shows that this variation of {{IPAfont|⟨ki<sub>2</sub>⟩}} is not limited to Eastern dialects.
 
 ====Noun====
-{{head|ojp|noun|tr=ke<sub>2</sub>|kana|け}}
+{{head|ojp|noun|tr=ke<sub>2</sub>|kana|け|sort=け}}
 
 # {{lb|ojp|sort=け|regional|Northern Eastern {{cog|ojp|-}}|Southern Eastern Old Japanese}} {{n-g|Same as {{m|ojp||キ<sup>乙</sup>|tr=ki<sub>2</sub>}} above}}
 #* {{RQ:Manyoshu|20|4375}}, [http://etext.virginia.edu/japanese/manyoshu/Man20Yo.html#4375 text here]
