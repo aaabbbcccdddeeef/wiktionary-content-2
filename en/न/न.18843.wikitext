@@ -85,17 +85,39 @@ While the second pronunciation is the expected one for the particle, the first, 
 ==Sanskrit==
 
 ===Etymology===
-From {{inh|sa|ine-pro|*ne}}. Cognate with {{cog|la|ne}}, {{cog|en|no}}.
+From {{inh|sa|inc-pro|*ná}}, from {{inh|sa|iir-pro|*ná}}, from {{inh|sa|ine-pro|*ne|*né}}. Cognate with {{cog|la|ne}}, {{cog|en|no}}.
+
+===Pronunciation===
+{{sa-IPA|a=1}}
 
 ===Prefix===
-{{head|sa|prefix}}
+{{head|sa|prefix|tr=ná}}
 
-# [[not]]
+# [[no]], [[not]]
 
 ===Particle===
-{{head|sa|particle}}
+{{head|sa|particle|tr=ná}}
 
-# (when used with an [[interrogative]]) [[no]], [[none]], [[no one]], [[nothing]], [[never]], etc.
+# (when used with an [[interrogative]]) [[no]], [[not]], [[none]], [[no one]], [[nothing]], [[never]], etc.
 #: {{ux|sa|[[अस्मद्|अहं]] [[तद्|तं]] '''न''' [[बोधति|बोधामि]]। [[तद्|स]] [[मांस|मांसं]] नकदापि [[खादति]]॥|I do not know that he '''never''' eats meat.}}
+
+====Descendants====
+* {{desc|inc-dar-pro|*ná}}
+** {{desc|gwt||tr=na}}
+** {{desc|khw||tr=na}}, {{l|khw||tr=no}}
+** {{desc|aee||tr=na}}
+** {{desc|glh||tr=na}}
+** {{desc|psi||tr=na}}
+** {{desc|psh||tr=na}}
+** {{desc|tra||tr=nā}}
+** {{desc|wsv||tr=na}}
+* {{desc|inc-mgd|𑀡}}, {{l|inc-mgd|𑀡𑀸}}
+* {{desc|pmh|𑀡}}, {{l|pmh|𑀡𑀸}}
+* {{desc|pi|na}}
+* {{desc|psu|𑀡}}, {{l|psu|𑀡𑀸}}
+** {{desc|rom|na}}
+
+===References===
+* {{R:CDIAL|ná|6906}}
 
 [[Category:Sanskrit one-letter words]]
