@@ -16,9 +16,9 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|寝|寢}}
 
 ===Kanji===
+{{ja-kanji forms|寝|寢}}
 {{ja-kanji|grade=c|rs=宀10|kyu=寢}}
 
 ====Readings====
@@ -28,104 +28,127 @@
 |kun=ね-る, ね-かす, みたまや-, や-める
 }}
 
-====Compounds====
-{{top3}}
-* {{ja-r|寝室|しんしつ}}
-* {{ja-r|寝台|しんだい}}
-* {{ja-r|寝殿|しんでん}}
-* {{ja-r|不寝番|ねずばん}}, {{ja-r|不寝番|ふしんばん}}
-{{mid3}}
-* {{ja-r|寝覚め|ねざめ}}
-* {{ja-r|寝ずの番|ねず の ばん}}
-* {{ja-r|寝相|ねぞう}}
-* {{ja-r|寝%床|ね%どこ}}
-* {{ja-r|寝坊|ねぼう}}
-{{mid3}}
-* {{ja-r|朝%寝|あさ%ね}}
-* {{ja-r|昼%寝|ひる%ね}}
-{{bottom}}
-
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|ね}}
+From {{inh|ja|ojp|sort=ね|-}}.
+
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of classical verb {{m|ja|寝|tr=nu|pos=see below}}, modern {{m|ja|寝る|tr=neru||to [[sleep]]}}.
 
 ====Pronunciation====
-* {{IPA|/i/|lang=ja}}
+{{ja-pron|y=k|ね|acc=0|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|い}}
+{{ja-noun|kyu=寢|ね}}
 
-# sleep
-#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]] (page 5)
-#*: そのあたりの垣にも、家の門にも、をる人だにたはやすく見るまじき物を、夜るはやすき'''寝（い）'''も寝（ね）ず、闇の夜に出て、穴をくじり、かひ間見、まとひあへり。
+# [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
+#: {{syn|ja|睡眠|tr1=suimin|眠り|tr2=nemuri}}
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|夜寝|よい}}
-* {{ja-r|夢|いめ}}
-* {{ja-r|安%寝|やさ%い}}
-* {{ja-r|寝ぬ|いぬ}}
-{{der-mid}}
-* {{ja-r|朝%寝|あさ%い}}
-* {{ja-r|熟%寝|うま%い}}
-* {{ja-r|長%寝|なが%い|rom=-}}, {{ja-r|長%眠|なが%い}}
+{{der-top4}}
+* {{ja-r|寝かす|ねかす}}, {{ja-r|寝かせる|ねかせる}}
+* {{ja-r|寝さす|ねさす}}
+* {{ja-r|寝す|ねす}}, {{ja-r|寝せる|ねせる}}
+* {{ja-r|塒|ねぐら|[[roost]]}}
+* {{ja-r|寝相|ねぞう}}
+* {{ja-r|寝%床|ね%どこ}}
+* {{ja-r|寝%所|ね%どこ}}
+* {{ja-r|寝%所|ね%どころ}}
+* {{ja-r|寝坊|ねぼう}}
+* {{ja-r|寝%技|ね%わざ|rom=-}}, {{ja-r|寝%業|ね%わざ}}
+* {{ja-r|朝%寝|あさ%ね}}
+* {{ja-r|転%寝|うたた%ね}}
+* {{ja-r|転%寝|ごろ%ね}}
+* {{ja-r|空%寝|そら%ね}}
+* {{ja-r|早%寝|はや%ね}}
+* {{ja-r|昼%寝|ひる%ね}}
 {{der-bottom}}
 
-====See also====
-* {{ja-r|眠る|ねむる}}
-* {{ja-r|寝る|ねる}}
-* {{ja-r|寝|ぬ}}
-
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|ぬ}}
 
-====Pronunciation====
-* {{IPA|/nu/|lang=ja}}
+From {{inh|ja|ojp|-}}.
+
+====Alternative forms====
+* {{ja-l|寐}}
 
 ====Verb====
-{{ja-verb|tr=intrans|type=ni|ぬ}}
+{{ja-verb|tr=intrans|type=shimo ni|kyu=寢|ぬ}}
 
-# to [[sleep]]
+# {{lb|ja|sort=ぬ|archaic}} to [[sleep]]
+
+=====Conjugation=====
+{{ja-conj-bungo||2d-n|sik=寝}}
 
 =====Derived terms=====
+{{top2}}
+* {{ja-r|寝る|ねる}}, modern form
+* {{ja-r|寝覚め|ねざめ}}
+* {{ja-r|不寝の番|ねず の ばん}}, {{ja-r|不寝番|ねずばん}}
 * {{ja-r|寝ぬ|いぬ}}
-* {{ja-r|寝る|ねる}}
+{{der-bottom}}
 
 ===Etymology 3===
+{{ja-kanjitab|yomi=i|い}}
+{{IPAfont|⟨i<sub>1</sub>⟩}} → *{{IPAchar|/ji/}} → {{IPAchar|/i/}}
+
+From {{inh|ja|ojp|-}}.
+
+====Noun====
+{{ja-noun|kyu=寢|い}}
+
+# {{lb|ja|obsolete}} [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
+#* {{RQ:Taketori}} (page 5)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
+#*: {{ja-usex|そのあたりの垣にも、家の門にも、をる人だにたはやすく見るまじき物を、夜るはやすき'''寝'''も寝ず、闇の夜に出て、穴をくじり、[[垣間見る|かひ間見]]、まどひあへり。|その あたり の かき に も、いへ の もん に も、をる ひと だに たはやすく みる まじき もの を、よる はやすき '''い''' も ねず、やみ の よ に いでて、あな を くじり、かひまみ、まどひあへり。|rom=Sono atari no kaki ni mo, ie no mon ni mo, oru hito dani tawayasuku miru majiki mono o, yoru{{sic}} hayasuki '''i''' mo nezu, yami no yo ni idete{{sic}}, ana o kujiri, kai{{sic}}mami, madoiaeri.}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|寝%穢い|い%ぎたない}}
+* {{ja-r|寝ぬ|いぬ}}
+* {{ja-r|夢|ゆめ}}
+* {{ja-r|安%寝|やさ%い}}
+* {{ja-r|朝%寝|あさ%い}}
+* {{ja-r|長%寝|なが%い|rom=-}}, {{ja-r|長%眠|なが%い}}
+* {{ja-r|夜寝|よい}}
+{{der-bottom}}
+
+===Etymology 4===
 {{ja-kanjitab|しん|yomi=o}}
-From {{etyl|ltc|ja|sort=しん}} {{m|zh|寢|tr=tshim<sup>X</sup>||sleep}}.
+{{IPAchar|/sim/}} → {{IPAchar|/simʉ/}} → {{IPAchar|/ɕimʉ/}} → {{IPAchar|/ɕiɴ/}}
+
+From {{bor|ja|ltc|sort=しん}|-}} {{ltc-l|寢}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|しん|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|しん}}
+{{ja-noun|kyu=寢|しん}}
 
-# sleep
-
-===Etymology 4===
-{{ja-kanjitab|ね|yomi=k}}
-
-====Pronunciation====
-{{ja-pron|yomi=k|ね|acc=0|acc_ref=DJR,NHK}}
-
-====Noun====
-{{ja-noun|ね}}
-
-# sleep
+# [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
 
 =====Derived terms=====
-* {{ja-r|塒|ねぐら|[[roost]]}}
+* {{ja-r|不寝番|ふしんばん}}
+
+====Affix====
+{{ja-pos|affix|kyu=寢|しん}}
+
+# [[sleep]], [[sleeping]]
+# [[inner]] [[parlor]]/[[parlour]], [[living room]]
+
+====Derived terms====
+{{der-top3}}
+* {{ja-r|寝具|しんぐ}}
+* {{ja-r|寝%室|しん%しつ}}
+* {{ja-r|寝所|しんじょ}}
+* {{ja-r|寝%食|しん%しょく}}
+* {{ja-r|寝%台|しん%だい}}
+* {{ja-r|寝殿|しんでん}}
+* {{ja-r|就寝|しゅうしん}}
+* {{ja-r|正%寝|せい%しん}}
+* {{ja-r|昼寝|ちゅうしん}}
+{{der-bottom}}
 
 ===References===
 <references/>
-:* {{cite-book
-|last=Horiuchi
-|first=Hideaki
-|coauthors=Ken Akiyama
-|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]
-|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
-|date=1997
-|location=Tōkyō
-|isbn=4-00-240017-4
-}}
 
 ----
 
