@@ -46,6 +46,9 @@
 # a [[pointed]] [[structure]] which is able to [[pierce]] something ([[spike]], [[spine]], [[thorn]], etc.)
 # {{lb|zh|archaic}} [[visiting card]]
 
+=====Descendants=====
+{{CJKV||し}}
+
 ===Pronunciation 2===
 {{zh-pron
 |m=cì
@@ -76,7 +79,7 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# sound of rubbing
+# [[sound]] of [[rub]]bing
 
 ===Pronunciation 4===
 {{zh-pron
@@ -105,38 +108,124 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀06}}
 
-# [[thorn]]
-
 ====Readings====
+From {{bor|ja|ltc|-}} {{ltc-l|刺|id=1|[[spike]], [[thorn]]; [[calling card]]}}:
 {{ja-readings
-|goon=し, しゃく
-|kanon=し, せき
-|kun=さ-す, そ-しる, と-げ, さ-さる
+|goon=し
+|kanon=し
+|kun=とげ-
+}}
+From {{bor|ja|ltc|-}} {{ltc-l|刺|id=2|[[prick]], [[stab]]; [[criticize]] with [[pointed]] [[word]]s}}:
+{{ja-readings
+|goon=しゃく
+|kanon=せき
+|kun=さ-す, さ-さる, そし-る
 }}
 
 ====Compounds====
-* {{ja-r|刺%身|さし%み}}
+* {{ja-r|刺%客|せっ%かく}}
 * {{ja-r|刺青|いれずみ}}
-* {{ja-r|名刺|めいし}}
+* {{ja-r|肉刺|まめ}}
 
-{{ja-kanjitab|し|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|とげ}}
+&#42;{{IPAfont|⟨to<sub>2</sub>ɡe<sub>2</sub>⟩}} → *{{IPAchar|/təɡəɨ/}} → {{IPAchar|/toɡe/}}
 
-===Pronunciation===
-{{ja-pron|yomi=o|し|acc=1|acc_ref=DJR,NHK}}
+From {{inh|ja|jpx-pro|sort=とげ|*tənkay}}.
 
-===Noun===
-{{ja-noun|し}}
+====Alternative forms====
+* {{ja-l|棘}}
 
-# [[calling card]]
+====Pronunciation====
+{{ja-pron|yomi=k|とげ|acc=2|acc_ref=DJR}}
 
-===Etymology===
-From {{inh|ja|ojp|sort=とげ|-}}, from {{inh|ja|jpx-pro|sort=とげ|*tənkay}}.
-
-===Noun===
+====Noun====
 {{ja-noun|とげ}}
 
-# [[thorn]]
-# [[biting]] words
+# a [[thorn]], [[prickle]]
+# a [[splinter]]
+# a [[biting]] [[word]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|さ|o1=し}}
+
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|刺す|tr=sasu||to [[pierce]]; to [[prick]], [[sting]]}}.
+
+====Alternative forms====
+* {{ja-l|刺し}}
+* {{s|[[paper]] [[string]] for [[coin]]s}} {{ja-l|緡}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|さし|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|さし}}
+
+# {{short for|ja|米刺|tr=komesashi|dot=:}} {{rfdef|ja|sort=さし}}
+# {{lb|ja|historical|sort=さし}} in the {{w|Edo period}}, a [[paper]] [[string]] used to [[store#Verb|store]] {{m|ja|ぜに|tr=zeni||[[round]] [[coin]]s with a  [[square]] [[hole]] in the [[center]]}}
+# {{short for|ja|刺身|tr=sashimi|dot=:}} [[slice]]d [[piece]]s of [[fish]] or other [[meat]]
+
+====Derived terms====
+* {{ja-r|刺%身|さし%み}}
+* {{ja-r|肉%刺|にく%さし}}
+* {{ja-r|絽%刺|ろ%ざし}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=i|いら}}
+{{rfe|ja|sort=いら}}
+
+====Alternative forms====
+* {{ja-l|苛}}, {{ja-l|莿}}
+
+====Noun====
+{{ja-noun|いら}}
+
+# a [[thorn]], [[prickle]]
+# the [[spine]] {{gl|[[needle]][[-like]] [[structure]]}} of a [[fish]]'s [[dorsal fin]]
+# {{short for|ja|刺草|tr=irakusa|dot=:|sort=いら}} [[nettle]]
+# {{short for|ja|刺虫|tr=iramushi|dot=:}} the [[larva]] of the {{m|ja|刺蛾|tr=iraga||{{taxlink|Monema flavescens|species|ver=190613}}}}, a [[species]] of [[moth]]
+# the [[horn]]-like [[projection]]s of {{m|ja|金平糖|tr=konpeitō||[[sugar]] [[candy]] of [[vary]]ing [[color]]s and [[flavor]]s}}
+# {{synonym of|ja|水母|tr=kurage|sort=いら}}: a [[jellyfish]]
+
+=====Derived terms=====
+* {{ja-r|刺%草|イラ%クサ}}, {{ja-r|蕁麻|イラクサ}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|し}}
+
+{{IPAchar|/si/}} → {{IPAchar|/ɕi/}}
+
+From {{bor|ja|ltc|sort=し|-}} {{ltc-l|刺|id=1}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|し|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|し}}
+
+# a [[thorn]], [[prickle]], [[needle]]
+# a [[calling card]], [[name card]]
+#: {{syn|ja|名札|tr1=nafuda|名刺|tr2=meishi}}
+
+====Affix====
+{{ja-pos|affix|し}}
+
+# [[stab#Verb|stab]], [[prick#Verb|prick]]
+# [[criticize]] with [[pointed]] [[word]]s
+# [[spike]], [[thorn]]
+# [[name card]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|刺%客|し%かく}}
+* {{ja-r|刺%客|し%きゃく}}
+* {{ja-r|刺%激|し%げき}}
+* {{ja-r|刺%殺|し%さつ}}
+* {{ja-r|刺繍|ししゅう}}
+* {{ja-r|風刺|ふうし|rom=-}}, {{ja-r|諷刺|ふうし}}
+* {{ja-r|名刺|めいし}}
+* {{ja-r|有刺|ゆうし}}
+{{der-bottom}}
 
 ===References===
 <references/>
