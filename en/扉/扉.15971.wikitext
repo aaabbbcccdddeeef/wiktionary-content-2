@@ -55,18 +55,32 @@
 |kun=とびら-
 }}
 
-===Noun===
-{{ja-noun|とびら}}
+===Etymology===
+{{ja-kanjitab|yomi=k|とびら}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Door}}
+[[File:Elaborated carved wood door (17292182002).jpg|thumb|250px|{{m|ja|扉|tr=tobira}}: a carved wooden '''[[door]]'''.]]
 
-# [[door]]
-#: {{ja-usex|その'''扉'''は永久に閉ざされた。|その '''とびら''' は えいきゅう に とざされた。|The '''door''' was closed for good.}}
-# [[title page]]
+{{IPAfont|⟨to<sub>1</sub>pi<sub>1</sub>ra⟩}} → {{IPAchar|/topira/}} → {{IPAchar|/tobira/}}
+
+From {{inh|ja|ojp|sort=とびら|扉|tr=to<sub>1</sub>pi<sub>1</sub>ra}}.  Found in the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.  Originally derived as a compound of {{m|ojp|戸|tr=to<sub>1</sub>||door}} + {{m|ojp|片|tr=pi<sub>1</sub>ra||broad flat thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|とびら|acc=0|acc_ref=DJR}}
 
 ===Alternative forms===
 * {{l|ja|闔}}
 
-====Synonyms====
-* {{ja-r|標題紙|ひょうだいし|gloss=title page}}
+===Noun===
+{{ja-noun|とびら}}
+
+# a [[door]] {{gloss|the moving part of a [[hinged]] door that swings out or in, as opposed to a [[sliding door]] or the [[doorway]] as a whole}}
+#: {{ja-usex|その'''扉'''は永久に閉ざされた。|その '''とびら''' は えいきゅう に とざされた。|The '''door''' was closed for good.}}
+# {{lb|ja|by extension}} a [[title page]]
+#: {{synonyms|ja|標題紙|tr1=hyōdaishi}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|とびら]]
 
