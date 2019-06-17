@@ -2,16 +2,8 @@
 {{character info/new}}
 ==Translingual==
 {{Han simplified forms|氣|気|气}}
-{{stroke order|type=bw}}
+{{stroke order|strokes=4}}
 {{stroke order|type=animate}}
-
-===Glyph origin===
-{{Han etym}}
-{{liushu|p|rs=气00}}
-
-{{och-l|气}} is a picture of clouds flowing through the sky, and in the oracle bone script, it was simply represented by drawing three horizontal strokes, expressing the "feeling" of the sky. However, in order to avoid confusion with the number {{och-l|三}}, the current {{och-l|气}} was changed to draw a small stroke from top to bottom. The glyph of 气 and [[乞]] comes from the same ancient form.
-
-It also has simplified Chinese usage.
 
 ===Han character===
 {{Han char|rn=84|rad=气|as=00|sn=4|four=80017|canj=OMN,XOMN|ids=⿳𠂉一⺄}}
@@ -21,7 +13,10 @@ It also has simplified Chinese usage.
 
 ====Derived characters====
 * [[Index:Chinese radical/气]]
-* [[汽]]
+* {{l|mul|[[㐹]], [[𠯏]], [[𡉛]], [[忾]], [[㧉]], [[汽]], [[𨸛]], [[𣅠]], [[䏗]], [[𣏙]], [[𪸕]], [[𤽍]], [[𥐬]], [[𥝬]], [[𥸽]], [[𥾨]], [[𫊨]], [[𧥷]], [[𧺞]], [[𨥊]], [[靔]], [[𩚤]]([[饩]]), [[𩡹]], [[𪌇]], [[㡮]], [[𪗟]], [[芞]], [[𥤶]], [[𤴸]]}} <!-- Characters not found in [[Index:Chinese radical/气]] -->
+
+====Related characters====
+* {{l|mul|氣}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
 
 ====References====
 {{Han ref|kx=0599.030|dkj=17043|dj=0990.140|hdz=32010.010|uh=6C14}}
@@ -30,6 +25,11 @@ It also has simplified Chinese usage.
 
 ==Chinese==
 
+===Glyph origin===
+{{Han etym}}
+
+{{och-l|气}} is a {{liushu|p|rs=气00|nocap=y}} of clouds flowing through the sky. In the oracle bone script, it was represented by three horizontal strokes, expressing the "feeling" of the sky. However, in order to avoid confusion with the number {{och-l|三}}, the current {{och-l|气}} was changed to draw a small stroke from top to bottom. The glyph of {{och-l|氣}} and {{och-l|乞}} comes from the same ancient form.
+
 ===Etymology 1===
 {{zh-see|氣|sv}}
 
@@ -37,7 +37,12 @@ It also has simplified Chinese usage.
 {{zh-see|乞|v}}
 
 ===Etymology 3===
-{{zh-see|餼|v}}
+{{zh-see|餼|av}}
+
+===References===
+* {{R:twedu|B01998}}
+* {{R:twedu|A02115-005#26}}
+* {{R:twedu|A00041-002#26}}
 
 ----
 
@@ -46,9 +51,7 @@ It also has simplified Chinese usage.
 ===Kanji===
 {{ja-kanji|grade=|rs=气00}}
 
-# spirit
-# air
-# steam radical (きがまえ,kigamae)
+# steam radical ({{m|ja|きがまえ|tr=kigamae}})
 
 ====Readings====
 {{ja-readings
@@ -58,16 +61,18 @@ It also has simplified Chinese usage.
 }}
 
 ====Usage notes====
-* This character exists only as a [[Index:Chinese radical/气|radical]] in Japanese. The corresponding character is {{m|ja|気}}.
+* This character exists only as a [[Index:Chinese radical/气|radical]] in Japanese. The corresponding character is {{m|ja|気|gloss=air; atmosphere; spirit}}.
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=气00|reading=khí}}
+{{vi-readings|rs=气00
+|hanviet=khí-gdhn;bonet
+}}
 
-# {{defn|lang=vi|sort=气00}}
+# {{han tu form of|khí|steam radical}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=6c14 Nom Foundation]
+===References===
+<references/>
