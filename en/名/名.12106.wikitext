@@ -1,16 +1,18 @@
 {{also|各}}
 {{character info/new}}
-
 ==Translingual==
+{{stroke order|strokes=6}}
 {{stroke order|type=animate}}
 
 ===Han character===
 {{Han char|rn=30|rad=口|as=03|sn=6|four=27600|canj=NIR|ids=⿱夕口}}
 
 ====Derived characters====
+* {{l|mul|[[佲]], [[𠱷]], [[姳]], [[𭚮]], [[𢙛]], [[𭠬]], [[洺]], [[㫥]], [[𣭨]], [[𭩹]], [[𤥁]], [[眳]], [[𥏍]], [[𥒊]], [[䊅]], [[𥿨]], [[𠸜]], [[𮕿]], [[詺]]([[𬣮]]), [[𫏉]], [[酩]], [[銘]]([[铭]]), [[𩳊]], [[𭜇]], [[𪗸]], [[𭃞]], [[𪟚]], [[𬼨]], [[𨚷]], [[𢻇]], [[𭭊]], [[𠸛]], [[㗮]], [[𨿅]], [[𬱃]], [[𡖺]], [[𮬶]], [[𡅖]], [[㚚]], [[𡷂]], [[茗]], [[𬔽]], [[𣜞]], [[𡖚]], [[𡒒]]}}
 
-====References====
-* {{Han ref|kx=0175.090|dkj=03297|dj=0391.020|hdz=10582.060|uh=540D|ud=21517|bh=A657|bd=42583}}
+===Further reading===
+{{wikidata|Q3594952}}
+{{Han ref|kx=0175.090|dkj=03297|dj=0391.020|hdz=10582.060|uh=540D}}
 
 ----
 
@@ -18,7 +20,7 @@
 {{zh-forms}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han compound|夕|t1=crescent moon|口|t2=mouth|ls=ic}} — to say one's own name to identify oneself in the dark.
 
 ===Etymology===
@@ -93,7 +95,7 @@ From {{inh|zh|sit-pro|*r-miŋ||name}}.
 }}
 
 ====Compounds====
-{{der-top4}}
+{{der-top3|Compounds}}
 * {{ja-r|名%前|な%まえ|[[name]]}}
 * {{ja-r|名%媛|めい%えん|[[famous]] [[woman]]}}
 * {{ja-r|名%園|めい%えん|[[excellent]] [[garden]], [[well-known]] [[garden]]}}
@@ -151,7 +153,7 @@ From {{inh|zh|sit-pro|*r-miŋ||name}}.
 * {{ja-r|悪%名|あく%みょう}}, {{ja-r|悪%名|あく%めい}}
 * {{ja-r|裏%名|うら%な}}
 * {{ja-r|仮%名|か%な}}
-{{bottom}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|な|yomi=k}}
@@ -181,6 +183,7 @@ From {{inh|ja|ojp|sort=な|-}}, from {{inh|ja|jpx-pro|sort=な|*na}} (compare {{
 #:* '''Usage note:''' 名を上げる differs from 名が上がる in that the subject purposefully did something to make themselves famous.
 
 =====Derived terms=====
+{{der-top3}}
 * {{ja-r|千%名|ち%な|various [[rumour]]s}}
 * {{ja-r|名%付ける|な%づける}}
 * {{ja-r|名%乗る|な%のる}}, {{ja-r|名%告る|な%のる}}
@@ -191,10 +194,11 @@ From {{inh|ja|ojp|sort=な|-}}, from {{inh|ja|jpx-pro|sort=な|*na}} (compare {{
 * {{ja-r|名%取|な%とり}}
 * {{ja-r|名%折れ|な%おれ}}
 * {{ja-r|仮%名|か%な}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|めい|yomi=o}}
-From {{etyl|ltc|ja|sort=めい}} {{m|zh|名|tr=mjieng||name}}.
+From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR}}
@@ -224,11 +228,54 @@ From {{etyl|ltc|ja|sort=めい}} {{m|zh|名|tr=mjieng||name}}.
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=[[명]]|eumhun=이름|mr=myŏng|y=myeng}}
+{{ko-hanja|이름|명}}
 
-# {{defn|lang=ko|sort=口03}}
+# {{hanja form of|명|[[name]]}}
 
-[[Category:Grade 1 kanji|口03名]]
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|명가|名家}}
+* {{ko-l|명곡|名曲}}
+* {{ko-l|명공|名工}}
+* {{ko-l|명단|名單}}
+* {{ko-l|명목|名目}}
+* {{ko-l|명부|名簿}}
+* {{ko-l|명사|名士}}
+* {{ko-l|명사|名詞}}
+* {{ko-l|명사|名辭}}
+* {{ko-l|명성|名聲}}
+* {{ko-l|명승|名勝}}
+* {{ko-l|명언|名言}}
+* {{ko-l|명예|名譽}}
+* {{ko-l|명의|名義}}
+* {{ko-l|명인|名人}}
+* {{ko-l|명자|名字}}
+* {{ko-l|명작|名作}}
+* {{ko-l|명절|名節}}
+* {{ko-l|명칭|名稱}}
+* {{ko-l|명함|名銜}}
+* {{ko-l|가명|假名}}
+* {{ko-l|개명|改名}}
+* {{ko-l|고명|高名}}
+* {{ko-l|명명|命名}}
+* {{ko-l|무명|無名}}
+* {{ko-l|방명|芳名}}
+* {{ko-l|별명|別名}}
+* {{ko-l|서명|署名}}
+* {{ko-l|성명|姓名}}
+* {{ko-l|속명|俗名}}
+* {{ko-l|오명|汚名}}
+* {{ko-l|유명|有名}}
+* {{ko-l|익명|匿名}}
+* {{ko-l|인명|人名}}
+* {{ko-l|제명|除名}}
+* {{ko-l|지명|地名}}
+* {{ko-l|지명|指名}}
+* {{ko-l|직명|職名}}
+* {{ko-l|필명|筆名}}
+* {{ko-l|대명사|代名詞}}
+* {{ko-l|동명사|動名詞}}}}
+{{der-bottom}}
 
 ----
 
@@ -293,21 +340,26 @@ From {{etyl|ltc|ja|sort=めい}} {{m|zh|名|tr=mjieng||name}}.
 
 ===Han character===
 {{vi-readings|rs=口03
-|hanviet=danh-tdcndg;tdcntd;gdhn
+|hanviet=danh-tdcndg;tdcntd;gdhn;bonet;genibrel
 |phienthiet=
-|nom=ranh-tdcndg;tdcntd;gdhn;btcn, danh-tdcndg;tdcntd;taberd, rành-tdcndg, quanh-tdcntd, dinh-tdcntd, gianh-tdcntd
+|nom=ranh-tdcndg;tdcntd;gdhn;btcn, danh-tdcndg;tdcntd;bonet;taberd, rành-tdcndg, quanh-tdcntd, dinh-tdcntd, gianh-tdcntd
 }}
 
 # {{han tu form of|danh|[[famous]]; [[well-known]]}}
 
 ====Compounds====
-{{der3|vi
-|{{vi-l|名簿|danh bạ}}
-|{{vi-l|名譽|danh dự}}
-|{{vi-l|名義|danh nghĩa}}
-|{{vi-l|名帖|danh thiếp}}
-|{{vi-l|名詞|danh từ}}
-}}
+{{der-top3|Compounds}}
+* {{vi-l|名簿|danh bạ}}
+* {{vi-l|名譽|danh dự}}
+* {{vi-l|名家|danh gia}}
+* {{vi-l|名目|danh mục}}
+* {{vi-l|名義|danh nghĩa}}
+* {{vi-l|名帖|danh thiếp}}
+* {{vi-l|名詞|danh từ}}
+* {{vi-l|筆名|bút danh}}
+* {{vi-l|別名|biệt danh}}
+* {{vi-l|地名|địa danh}}
+{{der-bottom}}
 
 ===References===
 <references/>
