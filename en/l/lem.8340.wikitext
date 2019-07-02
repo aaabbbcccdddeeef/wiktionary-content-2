@@ -132,7 +132,7 @@ From {{inh|nn|non|hlemmr}}.
 ==Old Irish==
 
 ===Pronunciation===
-* {{IPA|/l͈ʲeṽ/|lang=sga}}
+* {{IPA|sga|/l͈ʲeṽ/}}
 
 ===Etymology 1===
 From {{inh|sga|cel-pro|*lēmos}}, {{m|cel-pro|*limos}} (compare {{cog|cy|llwyf}}), from {{inh|sga|ine-pro|*h₁élem|t=mountain elm}}; compare {{cog|la|ulmus}}.
@@ -143,7 +143,7 @@ From {{inh|sga|cel-pro|*lēmos}}, {{m|cel-pro|*limos}} (compare {{cog|cy|llwyf}}
 # [[elm]] tree
 
 =====Inflection=====
-{{rfinfl|sga|noun}}
+{{sga-decl-o-masc|lim}}
 
 =====Synonyms=====
 * {{l|sga|lemán}}
@@ -160,15 +160,15 @@ From {{inh|sga|cel-pro|*lēmos}}, {{m|cel-pro|*limos}} (compare {{cog|cy|llwyf}}
 # [[foolish]], [[worthless]]
 
 =====Inflection=====
-{{rfinfl|sga|adjective}}
+{{sga-decl-adj-o-a|gsm=lim}}
 
 ====Descendants====
-* Irish: {{l|ga|leamh}}
+* {{desc|ga|leamh}}
 
 ===Mutation===
 {{sga-mutation|l|em}}
 
-===References===
+===Further reading===
 * {{R:DIL|29870|head=1 lem (‘elm tree’)}}
 * {{R:DIL|29871|head=2 lem (‘soft’)}}
 
