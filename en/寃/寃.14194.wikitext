@@ -1,21 +1,29 @@
-{{also|冤}}
+{{also|冤|𡨚}}
 {{character info/new}}
 {{character info|0x2F86D}}
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=40|rad=宀|as=08|sn=11|four=30413|canj=JNAI|ids=⿱宀兔}}
+{{Han char|rn=40|rad=宀|as=08|sn=11|four=30413|canj=JNAI|ids=⿱宀兔(<code>U+5BC3</code>),⿳宀刀⿸⿻囗丿⿺乚丶(<code>U+2F86D</code>)}}
 
 ====Derived characters====
 * {{l|mul|[[䥉]], [[𮐵]]}}
 
-====References====
+====Related characters====
+* {{l|mul|冤}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
+
+===Further reading===
 {{Han ref|kx=0288.030|dkj=07202|dj=0569.070|hdz=20940.030|uh=5BC3}}
+{{Han ref|uh=2F86D}}
 
 ----
 
 ==Chinese==
-{{zh-see|冤|v}}
+{{zh-see|冤}}
+
+===References===
+* {{R:twedu|A00305-004#30}}
+* {{R:twedu|A00305-003#36}}
 
 ----
 
@@ -24,7 +32,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=宀08}}
 
-# {{defn|lang=ja|sort=宀08}}
+# {{alt form|ja|冤||[[false]] [[charge#Noun|charge]]; false [[accusation]]}}
 
 ====Readings====
 {{ja-readings
@@ -39,16 +47,31 @@
 ===Hanja===
 {{ko-hanja|원}}
 
-# {{defn|lang=ko|sort=宀08}}
+# {{alt form|ko|冤||[[grievance]]; [[injustice]]}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo|32}}
+
+{{categorize|ko|Hanja variant forms|sort=원}}
 
 ----
 
 ==Vietnamese==
 
+===Alternative forms===
+* {{vi-l|冤|oan}}<ref name=bonet>{{vi-ref|Bonet (1899).}}</ref>
+
 ===Han character===
-{{vi-readings|rs=宀08|reading=oan}}
+{{vi-readings|rs=宀08
+|hanviet=oan-tdcndg;gdhn;bonet;genibrel
+|phienthiet=
+|nom=oan-tdcndg;bonet;taberd
+}}
 
-# {{defn|lang=vi|sort=宀08}}
+# {{han tu form of|oan|to [[falsely]] [[accuse]]; to [[treat#Verb|treat]] [[unjustly]]}}
 
-====References====
-* [http://nomfoundation.org/common/nom_details.php?codepoint=5bc3 Nom Foundation]
+====Compounds====
+* {{vi-l|寃枉|oan uổng}}
+
+===References===
+<references/>
