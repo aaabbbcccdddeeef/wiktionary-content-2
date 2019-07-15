@@ -150,15 +150,6 @@ Compare also {{zh-l|*止|foot}}, derived from a footprint, originally composed o
 
 ----
 
-==Korean==
-
-===Hanja===
-{{ko-hanja|hangeul=수|eumhun=|rv=chim|mr=ch'im|y=chim}}
-
-# ([[손]] 수): [[hand]]
-
-----
-
 ==Kunigami==
 
 ===Kanji===
@@ -197,17 +188,6 @@ Compare also {{zh-l|*止|foot}}, derived from a footprint, originally composed o
 
 ----
 
-==Mulam==
-
-===Noun===
-{{head|mlm|noun|tr=nja2}}
-
-# [[hand]]
-
-{{C|mlm|Anatomy}}
-
-----
-
 ==Okinawan==
 
 ===Kanji===
@@ -224,28 +204,6 @@ Compare also {{zh-l|*止|foot}}, derived from a footprint, originally composed o
 # [[hand]]
 
 {{C|ryu|Anatomy|sort=てぃい}}
-
-----
-
-==Vietnamese==
-
-===Han character===
-{{vi-readings|rs=手00
-|hanviet=thủ-tdcntd;gdhn;bonet
-|phienthiet=書九 thư cửu
-|nom=thủ-tdcntd;bonet;genibrel;taberd
-}}
-
-# {{han tu form of|thủ|[[hand]]}}
-
-====Compounds====
-{{der3|vi
-|{{vi-l|高手|cao thủ}}
-|{{vi-l|手下|thủ hạ}}
-}}
-
-===References===
-<references/>
 
 ----
 
@@ -282,6 +240,45 @@ Compare also {{zh-l|*止|foot}}, derived from a footprint, originally composed o
 {{head|yoi|noun|hiragana|てぃー|romaji|tī|sort=てぃい}}
 
 # [[hand]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|손|수}}
+
+# {{hanja form of|수|[[hand]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手00
+|hanviet=thủ-tdcntd;gdhn;bonet
+|phienthiet=書九 thư cửu
+|nom=thủ-tdcntd;bonet;genibrel;taberd
+}}
+
+# {{han tu form of|thủ|[[hand]]}}
+
+====Compounds====
+{{der3|vi
+|{{vi-l|高手|cao thủ}}
+|{{vi-l|手下|thủ hạ}}
+}}
+
+----
+
+==Mulam==
+
+===Noun===
+{{head|mlm|noun|tr=nja2}}
+
+# [[hand]]
+
+{{C|mlm|Anatomy}}
 
 {{C|yoi|Anatomy|sort=てぃい}}
 [[Category:CJKV radicals]]
