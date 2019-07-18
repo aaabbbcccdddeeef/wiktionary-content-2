@@ -82,8 +82,6 @@ From {{inh|zh|sit-pro|*(s/r)-ma(ŋ/k)||dream}}.
 ===Kanji===
 {{ja-kanji|grade=5|rs=夕11}}
 
-# [[dream]], [[illusion]], [[vision]]
-
 ====Readings====
 {{ja-readings
 |goon=む
@@ -92,7 +90,7 @@ From {{inh|zh|sit-pro|*(s/r)-ma(ŋ/k)||dream}}.
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
+{{der-top4|Compounds}}
 * {{ja-r|夢境|むきょう}}
 * {{ja-r|夢幻|むげん}}
 * {{ja-r|夢魂|むこん}}
@@ -116,24 +114,21 @@ From {{inh|zh|sit-pro|*(s/r)-ma(ŋ/k)||dream}}.
 * {{ja-r|春夢|しゅんむ}}
 * {{ja-r|瑞%夢|ずい%む}}
 * {{ja-r|酔%夢|すい%む}}
-* {{ja-r|正夢|せいむ}}
 * {{ja-r|性夢|せいむ}}
 * {{ja-r|占夢|せんむ}}
 * {{ja-r|痴夢|ちむ}}
 * {{ja-r|昼%夢|ちゅう%む}}
-* {{ja-r|白%昼%夢|はく%ちゅう%む}}
 * {{ja-r|迷夢|めいむ}}
-* {{ja-r|霊夢|れいむ}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ゆめ}}
 
-{{IPAfont|⟨ime<sub>2</sub>⟩}} → *{{IPAchar|/jiməj/}} → {{IPAchar|/jɨme/}} → {{IPAchar|/jume/}}
+{{IPAfont|⟨i<sub>(1)</sub> me<sub>2</sub>⟩}} → *{{IPAchar|/jiməɨ/}} → {{IPAchar|/jɨme/}} → {{IPAchar|/jume/}}
 
-Shift from {{inh|ja|ojp|sort=ゆめ|-}} ''ime'' (see below).<ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears in texts from the 900s.<ref name="KDJ"/>
+Appears in texts from the 900s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|言う|tr=iu → yuu||to [[speak]]}} and {{m|ja|行く|tr=iku → yuku||to [[go]]}}.
+Shift from {{inh|ja|ojp|sort=ゆめ|夢|tr=ime<sub>2</sub>}}, itself a compound of {{com|ja|寝|sort=ゆめ|tr1=i|t1=[[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]|pos1=obsolete|目|tr2=me|t2=[[eye]]; [[sight]], [[vision]]}}.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ゆめ|acc=2|acc_ref=DJR,ZAJ}}
@@ -172,8 +167,10 @@ The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|�
 # something [[fragile]] {{rfv-sense|ja}}
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|夢夢し|ゆめ-ゆめし}}
+{{der-top4}}
+* {{ja-r|夢夢し|ゆめゆめし}}
+* {{ja-r|夢む|ゆめむ}}
+* {{ja-r|夢%合わせ|ゆめ%あわせ}}
 * {{ja-r|夢%現|ゆめ%-うつつ}}
 * {{ja-r|夢か現か|ゆめ か うつつ か}}
 * {{ja-r|夢語り|ゆめがたり}}
@@ -200,7 +197,7 @@ The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|�
 {{der-bottom}}
 
 =====Idioms=====
-{{der-top|Idioms}}
+{{der-top3|Idioms}}
 * {{ja-r|夢を合わす|ゆめ を あわす}}
 * {{ja-r|夢を描く|ゆめ を えがく}}
 * {{ja-r|夢を託する|ゆめ を たく する}}
@@ -211,7 +208,7 @@ The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|�
 {{der-bottom}}
 
 =====Proverbs=====
-{{der-top|Proverbs}}
+{{der-top3|Proverbs}}
 * {{ja-r|夢 に 夢%見る|ゆめ に ゆめ%みる}}
 * {{ja-r|夢の跡|ゆめ の あと}}
 * {{ja-r|夢は五臓のわずらい|ゆめ は ごぞう の わずらい}}
@@ -235,18 +232,22 @@ The ''i'' → ''yu'' shift is common in {{w|Middle Japanese}}, seen in {{m|ja|�
 # {{surname|lang=ja|sort=ゆめ|A=a|nodot=1}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|いめ}}
+{{ja-kanjitab|yomi=goon|む}}
 
-{{IPAfont|⟨i me<sub>2</sub>⟩}} → *{{IPAchar|/jiməj/}} → {{IPAchar|/ime/}}
+From {{bor|ja|ltc|sort=|-}} {{ltc-l|夢|id=2}}.
 
-From {{inh|ja|ojp|sort=いめ|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+====Affix====
+{{ja-pos|affix|む}}
 
-Originally a compound of {{m|ja|寝|tr=i||[[sleep]], [[sleep]]ing}} + {{m|ja|目|tr=me||[[eye]]; [[sight]], [[vision]]}}.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+# [[dream]]
+# [[illusion]]
+# [[vision]]
+# [[fantasy]]
 
-====Noun====
-{{ja-noun|いめ}}
-
-# {{lb|ja|archaic|sort=いめ}} a [[dream]]
+=====Derived terms=====
+* {{ja-r|正%夢|せい%む}}
+* {{ja-r|白%昼%夢|はく%ちゅう%む}}
+* {{ja-r|霊%夢|れい%む}}
 
 ===References===
 <references/>
@@ -267,6 +268,29 @@ Originally a compound of {{m|ja|寝|tr=i||[[sleep]], [[sleep]]ing}} + {{m|ja|目
 
 ----
 
+==Old Japanese==
+
+===Etymology===
+Compound of {{com|ojp|sort=いめ|寢|tr1=i<sub>(1)</sub>|t1=[[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]|目|tr2=me|t2=[[eye]]; [[sight]], [[vision]]}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijisen}}</ref><ref>{{R:Daijirin}}</ref>
+
+====Noun====
+{{head|ojp|noun|tr=ime<sub>2</sub>|kana|いめ|sort=いめ}}
+
+# a [[dream]]
+#* {{RQ:Manyoshu|4|490}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#490 here]
+#*: {{ux|ojp|真野之浦乃与騰乃継橋情由毛思哉妹之'''伊目'''尓之所見|tr=Mano<sub>1</sub>-no<sub>2</sub>-ura no<sub>2</sub> yo<sub>2</sub>do<sub>2</sub> no<sub>2</sub> tugi<sub>1</sub>pasi ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub> yu mo omope<sub>2</sub> ya imo ga '''ime<sub>2</sub>''' ni si mi<sub>1</sub>yuru}}
+
+====Derived terms====
+* {{m|ojp|夢合はせ|tr=ime<sub>2</sub>apase}}
+* {{m|ojp|夢の逢ひ|tr=ime<sub>2</sub> no<sub>2</sub> api<sub>1</sub>}}
+
+====Descendants====
+* {{desc|ja|夢|tr=yume}}
+
+===References===
+<references/>
+
+----
 ==Vietnamese==
 
 ===Han character===
