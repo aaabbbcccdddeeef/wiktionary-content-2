@@ -211,29 +211,51 @@ Generally only used when counting out loud, as in the example above. In writing,
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja/new|아홉|구}}
+===Etymology 1===
+From {{der|ko|ltc|-}} {{ltc-l|九}}. Attested in {{w2|ko|s:훈몽자회/雜語#하34A|훈몽자회／訓蒙字會|tr=-}} as [[Middle Korean]] {{m|okm|구|tr=kwu}}.
+
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|아홉|구}}
 
 # {{hanja form of|구|[[nine]]}}
 
-====Compounds====
-{{attention|ko|Needs Hangul}}
-{{der3|ko
-|正九品
-|從九品
-|重九
-|九重
-|{{l|ko|九月}}/{{ko-l|구월}}
-|九輪
-|九冬
-|九九
-|九泉
-|九官鳥
-|九天
-|九界
-|九經
-|九族
-}}
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|구경|九卿}}
+* {{ko-l|구경|九經}}
+* {{ko-l|구계|九界}}
+* {{ko-l|구곡|九穀}}
+* {{ko-l|구덕|九德}}
+* {{ko-l|구동|九冬}}
+* {{ko-l|구륜|九輪}}
+* {{ko-l|구사|九思}}
+* {{ko-l|구십|九十}}
+* {{ko-l|구월|九月}}
+* {{ko-l|구족|九族}}
+* {{ko-l|구중|九重}}
+* {{ko-l|구천|九天}}
+* {{ko-l|구천|九泉}}
+* {{ko-l|십구|十九}}
+* {{ko-l|중구|重九}}
+* {{ko-l|구관조|九官鳥}}
+* {{ko-l|구미호|九尾狐}}
+* {{ko-l|정구품|正九品}}
+* {{ko-l|종구품|從九品}}
+* {{ko-l|일세구천|一歲九遷}}
+* {{ko-l|일월구천|一月九遷}}
+* {{ko-l|일일구천|一日九遷}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja|모으다|모을|구}}
+
+# {{lb|ko|archaic}} {{hanja form of|규|to [[gather]]; to [[collect]]}}
+
+===References===
+* {{R:hanjadoc|56}}
 
 [[Category:Korean numeral symbols|9]]
 
