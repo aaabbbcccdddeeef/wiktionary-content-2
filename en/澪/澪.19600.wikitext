@@ -40,8 +40,6 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水13}}
 
-# [[waterway]], [[channel]]
-
 ====Readings====
 {{ja-readings
 |goon=りょう<りやう
@@ -51,18 +49,14 @@
 |nanori=み, みほ, みよ, り, れ
 }}
 
-====Compounds====
-* {{ja-r|澪%標|れい%ひょう|[[channel]]-[[mark]]}}
-* {{ja-r|作澪|さくれい}}
-
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|みお}}
 
 {{IPAfont|⟨mi<sub>1</sub> wo⟩}} → *{{IPAchar|/mʲiwo/}} → {{IPAchar|/miwo/}} → {{IPAchar|/mio/}}
 
-From {{inh|ja|ojp|-|sort=みお}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).<ref>{{RQ:Manyoshu|7|1108}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1108 here]</ref>
+From {{inh|ja|ojp|-|sort=みお}}.
 
-Derived as a compound of {{com|ja|sort=みお|水|tr1=mi|t1=[[water]]|pos1=ancient combining form|緒|tr2=wo → o|t2=[[cord]]; something [[long]] and [[continue|continuing]]|pos2=likely cognate with {{m|ja|尾|tr=o||[[tail]]}} from the sense of “something long and continuing from the [[end]] of the [[main]] [[body]]”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Derived as a compound of {{com|ja|sort=みお|水|tr1=mi|pos1=ancient combining form of {{m|ja||水|tr=mizu}}, “[[water]]”|緒|tr2=wo → o|t2=[[cord]]; something [[long]] and [[continue|continuing]]|pos2=likely cognate with {{m|ja|尾|tr=o||[[tail]]}} from the sense of “something long and continuing from the [[end]] of the [[main]] [[body]]”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=kun|みお|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
@@ -74,21 +68,20 @@ Derived as a compound of {{com|ja|sort=みお|水|tr1=mi|t1=[[water]]|pos1=ancie
 {{ja-noun|みお|hhira=みを}}
 
 # a [[waterway]], ''more specifically'', a [[navigable]] [[channel]]
-#* {{RQ:Manyoshu|12|3014}}, [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#3014 here]
-#*: {{ja-usex|sort=みお|m=神山%之 山下%響 逝水%之 '''水%尾'''不絶%者 後%毛%吾妻|m_kana=みわやま%の やました%とよみ ゆくみづ%の '''み%をし'''たえず%は のち%も%わがつま|三輪%山の山下%響み行く水の'''水脈'''し絶えずは後も我が妻|^みわ%やま の やました% とよみ ゆく みづ の '''みを''' し たえず は のち も わが つま}}
 #* '''905''', ''{{w|Kokin Wakashū}}'' (book 17, poem 882)
 #*: {{ja-usex|天の河%雲の'''みを'''にてはやければ光とどめず月ぞ流るる|あま の かは% くも の '''みを''' に て はやければ ひかり とどめず つき ぞ ながるる|rom=ama no kawa kumo no '''mio''' ni te hayakereba hikari todomezu tsuki zo nagaruru}}
 # a [[wake]] {{gloss|[[path]] left behind by a [[pass|passing]] [[ship]] on the [[water]]'s [[surface]]}}
 #: {{syn|ja|航跡|tr=kōseki}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|澪%木|みお%ぎ}}
 * {{ja-r|澪杙|みおぐい|rom=-}}, {{ja-r|澪杭|みおぐい}}
 * {{ja-r|澪%標|みお%じるし}}
 * {{ja-r|澪筋|みおすじ}}
 * {{ja-r|澪標|みおつくし}}
 * {{ja-r|澪%引く|みお%びく}}
+* {{ja-r|雲の澪|くも の みお}}
 {{der-bottom}}
 
 ====Proper noun====
@@ -100,15 +93,50 @@ Derived as a compound of {{com|ja|sort=みお|水|tr1=mi|t1=[[water]]|pos1=ancie
 ===Etymology 2===
 {{ja-kanjitab|yomi=kanon|れい}}
 
-From {{bor|ja|ltc|-}} {{ltc-l|澪}}.
+From {{bor|ja|ltc|sort=れい|-}} {{ltc-l|澪}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|れい}}
+
+====Affix====
+{{ja-pos|affix|れい}}
+
+# [[waterway]], [[channel]]
+
+=====Derived terms=====
+* {{ja-r|澪%標|れい%ひょう|[[channel]]-[[mark]]}}
+* {{ja-r|作澪|さくれい}}
 
 ====Proper noun====
 {{ja-pos|proper noun|れい}}
 
 # {{given name|female|lang=ja|A=a|sort=れい}}
+
+===References===
+<references/>
+
+----
+
+==Old Japanese==
+
+===Alternative forms===
+* {{l|ojp|水尾}}
+
+===Etymology===
+Originally a compound of {{com|ojp|sort=みを|水|tr1=mi<sub>1</sub>|pos1=ancient combining form of {{m|ojp||水|tr=mi<sub>1</sub>du}}, “[[water]]”|緒|tr2=wo|t2=[[cord]]; something [[long]] and [[continue|continuing]]|pos2=likely cognate with {{m|ojp|尾|tr=wo||[[tail]]}} from the sense of “something long and continuing from the [[end]] of the [[main]] [[body]]”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Noun===
+{{head|ojp|noun|tr=mi<sub>1</sub>wo|kana|みを|sort=みを}}
+
+# a [[waterway]], ''more specifically'', a [[navigable]] [[channel]]
+#* {{RQ:Manyoshu|12|3014}}, [http://jti.lib.virginia.edu/japanese/manyoshu/Man12Yo.html#3014 here]
+#*: {{ux|ojp|神山之山下響逝水之'''水尾'''不絶者後毛吾妻|tr=Miwa-yama no<sub>2</sub> yamasita to<sub>2</sub>yo<sub>2</sub>mi<sub>1</sub> yuku <span style="display:inline-block; vertical-align: middle;><span style="float:left;">kapa</span><span style="float:left;clear:both;">mi<sub>1</sub>du</span></span> no<sub>2</sub> '''mi<sub>1</sub>wo''' tayezu pa no<sub>2</sub>ti mo waga tuma}}
+
+====Derived terms====
+* {{m|ojp|澪標|tr=mi<sub>1</sub>wotukusi}}
+
+====Descendants====
+* {{desc|ja|[[澪]], [[水尾]], [[水脈]]|tr=mio}}
 
 ===References===
 <references/>
