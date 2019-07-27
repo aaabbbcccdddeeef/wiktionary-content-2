@@ -46,6 +46,9 @@
 #: {{zh-x|法律|law}}
 # to [[control]]; to [[keep]] under [[control]]
 
+====Descendatns====
+{{CJKV||りつ|율|luật}}
+
 ===Compounds===
 {{zh-der|反律|律動|律己|律例|律令|律師|律詩|律條|旋律|卒律律|律賦|千篇一律|大清律|他律|律藏|嚴於律己|慣性定律|十二律|底特律|律尺|三一律|勃律|倍比定律|必律律|不律頭|心律不整|德律風|律科|律法|律曆志|律宗|律動教學|律動感|律切|律儀|平均律|庫侖定律|四分律|律度|光出律|如律令|定律|刑律|九章律|律呂正義|倍律|律律|不律|協律|因果律|律魁|七律|主旋律|心律|六律|乞留曲律|一律|五律|律呂|漫無紀律|法律漏洞|法律審|法律|戒律|排律|法律學|槓桿定律|本律|曲律|瀛奎律髓|概然律|查理定律|樂律|抱令守律|方頭不律|格律|矛盾律|析律貳端|玉律金科|挾書律|摩西律法|清規戒律|法律行為|析律舞文|時律|新律|排中律|歐姆定律|荊棘律|詞律|運動定律|詩律|黃金律|金科玉律|聲律|韻律操|結合律|竽律|菲律賓|鬱律|餘弦定律|耶律|虎克定律|韻律體操|音律|韻律|赤留出律|週期律|軍律|足律律|醫門法律|自律|紀律|讀律|節律|規律性|規律|赫柏定律}}
 
@@ -56,34 +59,130 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=彳06}}
 
-# law
-
 ====Readings====
 {{ja-readings
 |goon=りち
 |kanon=りつ
 |kun=のり-
+|nanori=おと, ただし, ただす
 }}
 
 ====Compounds====
-* {{ja-l|律儀}} - faithful, honest
-* {{ja-l|律詩}} - Chinese poetry of eight lines, Lüshi
-* {{ja-l|律動}} - rhythmic movement
-* {{ja-l|律法}} - the laws of Judaism, Torah
-* {{ja-l|律令}} - historical legal code based on Confucianism
-* {{ja-l|因果律}} - law of causality
-* {{ja-l|音律}} - musical tuning system
-* {{ja-l|戒律}} - religious commandment
-* {{ja-l|可換律}} - commutative law (in mathematics)
-* {{ja-l|法律}} - law, statute
+{{der-top3|Compounds}}
+* {{ja-r|律管|りっかん}}
+* {{ja-r|律詩|りっし}}
+* {{ja-r|律呂|りつりょ}}
+* {{ja-r|律令|りつりょう|historical [[legal code]] based on [[Confucianism]]}}
+* {{ja-r|五%律|ご%りつ}}
+* {{ja-r|排律|はいりつ}}
+* {{ja-r|呂%律|ろ%れつ}}
+{{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|りつ|yomi=o}}
+===Etymology 1===
+{{ja-kanjitab|りつ|yomi=kanon}}
+
+From {{bor|ja|ltc|sort=りつ|-}} {{ltc-l|律}}. The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
+
+The [[Buddhist]] senses are a translation of {{der|ja|sa|विनय|t=[[discipline]], [[guidance]], [[humility]]}}.
+
+====Pronunciation====
+{{ja-pron|y=ko|りつ|acc=1|acc_ref=DJR|a=ja-ritsu.ogg}}
+
+====Noun====
+{{ja-noun|りつ}}
+
+# a [[law]], [[code]]
+# {{lb|ja|sort=りつ|law|historical}} a [[criminal code]] [[develop]]ed in [[ancient]] [[China]] that was, alongside the {{m|ja|令|tr=ryō}}, [[spread]] [[throughout]] [[East Asia]] ''especially'' [[Japan]] where it was further [[revise]]d into the {{m|ja|律令|tr=Ritsuryō}} system
+# {{lb|ja|sort=りつ|Buddhism}} a [[set]] of [[rule]]s for a [[monastic]] [[community]]
+# {{lb|ja|Buddhism}} {{short for|ja|律蔵|tr=Ritsuzō|dot=:}} the {{w|Vinaya Piṭaka}}, one of the [[Tripitaka]]
+# {{lb|ja|Buddhism}} {{short for|ja|[[律儀]], [[律義]]|tr=ritsugi|dot=:|sort=りつ}} [[translation]] of {{cog|sa|संवर}}, {{rfdef|ja|sort=りつ}}
+# {{lb|ja|sort=りつ|music}} a [[rhythm]]
+# {{lb|ja|music}} the [[six]] [[yang]] {{gl|[[odd]]-[[number#Verb|numbered]]}} [[note]]s in the {{m|ja|十二律|tr={{w|shí-èr-lǜ|jūniritsu}}}} [[chromatic scale]]
+#: {{ant|ja|呂|tr=ryo}}
+# {{lb|ja|music}} {{short for|ja|律旋|tr=rissen|dot=:}} a [[seven]]-[[tone]] [[scale]] in [[gagaku]], [[similar]] to the [[Dorian mode]] in the [[West]]
+# {{short for|ja|律管|tr=rikkan|dot=:}} an [[ancient]] [[pitch pipe]] that [[correspond]]s to the {{m|ja||十二律|tr=jūniritsu}} chromatic scale
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|律す|りっす}}, {{ja-r|律する|りっする}}
+* {{ja-r|律旋|りっせん}}
+* {{ja-r|因果%律|いんが%りつ|[[law]] of [[causality]]}}
+* {{ja-r|黄金%律|おうごん%りつ|[[golden rule]]}}
+* {{ja-r|可換%律|かかん%りつ|[[commutative]] law}}
+* {{ja-r|交換%律|こうかん%りつ}}
+* {{ja-r|自%然%律|し%ぜん%りつ}}
+* {{ja-r|成文%律|せいぶん%りつ}}
+* {{ja-r|道徳%律|どうとく%りつ}}
+* {{ja-r|不文%律|ふぶん%りつ}}
+* {{ja-r|平均%律|へいきん%りつ}}
+* {{ja-r|矛盾%律|むじゅん%りつ|law of [[contradiction]]}}
+{{der-bottom}}
+
+====Affix====
+{{ja-pos|affix|りつ}}
+
+# [[rule]], [[regulation]]
+# [[law]], [[code]]
+# {{lb|ja|Buddhism}} [[rule]]s of [[discipline]] for a [[monastic]] [[community]]
+# {{lb|ja|music}} [[rhythm]], [[meter]]
+# {{lb|ja|music}} [[yang]] [[pitch]]
+# a [[form]] of [[Chinese]] [[poetry]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|律%儀|りつ%ぎ|rom=-}}, {{ja-r|律%義|りつ%ぎ|[[faithful]], [[honest]]}}
+* {{ja-r|律師|りっし}}
+* {{ja-r|律動|りつどう|[[rhythm]]ic [[movement]]}}
+* {{ja-r|律法|りっぽう|[[Law]] (of [[Judaism]]), [[Torah]]}}
+* {{ja-r|一律|いちりつ}}
+* {{ja-r|韻律|いんりつ}}
+* {{ja-r|音律|おんりつ|[[musical]] [[tuning]] [[system]]}}
+* {{ja-r|戒%律|かい%りつ|[[religious]] [[commandment]]}}
+* {{ja-r|格律|かくりつ|[[maxim]]}}
+* {{ja-r|楽律|がくりつ}}
+* {{ja-r|規%律|き%りつ|rom=-}}, {{ja-r|紀%律|き%りつ}}
+* {{ja-r|軍律|ぐんりつ}}
+* {{ja-r|自%律|じ%りつ}}
+* {{ja-r|旋律|せんりつ|[[melody]]}}
+* {{ja-r|他%律|た%りつ}}
+* {{ja-r|調律|ちょうりつ|[[tuning]]}}
+* {{ja-r|法律|ほうりつ}}
+* {{ja-r|呂律|りょりつ}}
+{{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|proper noun|りつ}}
+{{ja-pos|proper|りつ}}
 
-# {{given name|female|lang=ja}}
+# {{lb|ja|Buddhism}} {{short for|ja|律宗|tr=Risshū|dot=:}} the Risshū [[school]] of Buddhism
+# {{given name|female|lang=ja|A=a|nodot=1|sort=りつ}}
+
+===Etymology 2===
+{{ja-kanjitab|りち|yomi=goon}}
+
+From {{bor|ja|ltc|-}} {{ltc-l|律}}.
+
+The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial borrowing from {{cog|ltc|-}}.
+
+====Pronunciation====
+{{ja-pron|y=go|りち|acc=1|a=ja-richi.ogg}}
+
+====Noun====
+{{ja-noun|りち}}
+
+# {{lb|ja|music}} a [[rhythm]]
+# {{lb|ja|music}} the [[six]] [[yang]] {{gl|[[odd]]-[[number#Verb|numbered]]}} [[note]]s in the {{m|ja|十二律|tr={{w|shí-èr-lǜ|jūniritsu}}}} [[chromatic scale]]
+# {{lb|ja|music}} {{short for|ja|律旋|tr=rissen|dot=:}} a [[seven]]-[[tone]] [[scale]] in [[gagaku]], [[similar]] to the [[Dorian mode]] in the [[West]]
+
+====Affix====
+{{ja-pos|affix|りち}}
+
+# [[law]], [[code]]
+
+=====Derived terms=====
+* {{ja-r|律%儀|りち%ぎ|rom=-}}, {{ja-r|律%義|りち%ぎ}}
+
+===References===
+<references/>
 
 ----
 
