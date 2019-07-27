@@ -37,6 +37,9 @@
 #: {{zh-usex|付梓|to send a manuscript to the press}}
 # {{surname|lang=zh}}
 
+====Descendants====
+{{CJKV||し}}
+
 ===Compounds===
 {{zh-der|上梓|付梓|吳敬梓|喬梓|杞梓|桑梓|桑梓之邦|梓人|梓匠|梓匠輪輿|梓器|梓宮|梓材|梓鄉|梓里|橋梓|荊南杞梓|賢喬梓|鄉梓|梓楠堤|木梓|洋梓|楠梓}}
 
@@ -50,10 +53,6 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木07}}
 
-# {{vern|yellow catalpa}} ({{taxlink|Catalpa ovata|species|ver=180726}})
-# [[block]] used for [[print]]ing
-# [[printing]]
-
 ====Readings====
 {{ja-readings
 |goon=し
@@ -66,6 +65,7 @@
 * {{ja-r|梓宮|しきゅう}}
 * {{ja-r|梓行|しこう}}
 * {{ja-r|梓人|しじん}}
+* {{ja-r|上梓|じょうし}}
 * {{ja-r|桑梓|そうし}}
 {{der-bottom}}
 
@@ -76,9 +76,7 @@
 {{ja-kanjitab|あずさ|yomi=k}}
 {{IPAchar|/adusa/}} → {{IPAchar|/ad͡zusa/}} → {{IPAchar|/azusa/}}
 
-From {{inh|ja|ojp|sort=あずさ|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
-
-{{rfe|ja}}
+From {{inh|ja|ojp|sort=あずさ|-}}.
 
 ====Pronunciation====
 {{ja-pron|y=k|あずさ|acc=1|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
@@ -86,22 +84,22 @@ From {{inh|ja|ojp|sort=あずさ|-}}, first attested in the ''{{w|Kojiki}}'' (71
 ====Noun====
 {{ja-noun|あずさ|アズサ|hhira=あづさ|hkata=アヅサ}}
 
-# {{synonym of|lang=ja|夜糞峰榛|tr=yogusominebari|nodot=1|sort=あずさ}}: the {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|ver=180726}}
-# {{synonym of|lang=ja|[[木豇豆]], [[楸]]|tr=kisasage|nodot=1}}: the {{vern|yellow catalpa}} or {{vern|Chinese catalpa}}, {{taxlink|Catalpa ovata|species|ver=180726}}
-# {{synonym of|lang=ja|赤芽柏|tr=akamegashiwa|nodot=1}}: the {{vern|Japanese mallotus}}, {{taxlink|Mallotus japonicus|species|ver=180726}}
-# a [[block]] used for [[print]]ing {{gl|as it was originally made from the [[wood]] of the Chinese catalpa}}
+# {{synonym of|lang=ja|夜糞峰榛|tr=yoguso minebari|nodot=1|sort=あずさ}}: the {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|ver=190727}}
+# {{synonym of|lang=ja|[[木豇豆]], [[楸]]|tr=kisasage|nodot=1}}: the {{vern|yellow catalpa|yellow}} or {{vern|Chinese catalpa}}, {{taxlink|Catalpa ovata|species|ver=190727}}
+# {{synonym of|lang=ja|赤芽柏|tr=akame-gashiwa|nodot=1}}: the {{vern|Japanese mallotus}}, {{taxlink|Mallotus japonicus|species|ver=190727}}
+# a [[block]] [[use]]d for [[print]]ing {{gl|as it was originally [[make|made]] from the [[wood]] of the Chinese catalpa}}
 #: {{syn|ja|版木|tr=hangi}}
-# {{short for|lang=ja|梓弓|tr=azusa-yumi|nodot=1|sort=あずさ}}: a [[bow]] made from the ''azusa'' tree, specifically the {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|ver=180726}}
-# {{short for|lang=ja|梓巫女|tr=azusa-miko|nodot=1}}: a ''{{ll|ja|巫女|miko}}'' {{gl|[[unmarried]] [[female]] [[medium]]}} who summons [[spirits]] by [[sound]]ing the [[string]] of an ''azusa-yumi''
+# {{short for|lang=ja|梓弓|tr=azusa yumi|dot=:|sort=あずさ}} a [[bow]] made from the wood of the Japanese cherry birch; a [[small]] [[musical bow]] used to [[summon]] [[spirit]]s
+# {{short for|lang=ja|梓巫女|tr=azusa miko|dot=:}} a {{m|ja|巫女|tr=miko||[[unmarried]] [[female]] [[medium]]}} who summons spirits by [[sound]]ing the [[string]] of an ''azusa yumi'' {{gl|[[short]] [[musical bow]]}}
+# {{lb|ja|sort=あずさ|theater}} in [[noh]], {{rfdef|ja|sort=あずさ}}
 
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|梓%川|^あずさ%-がわ}}
-* {{ja-r|梓%巫女|あずさ%-みこ}}
+* {{ja-r|梓 巫女|あずさ みこ}}
 * {{ja-r|梓%山|^あずさ%-やま}}
-* {{ja-r|梓%弓|あずさ%-ゆみ}}
+* {{ja-r|梓 弓|あずさ ゆみ}}
 * {{ja-r|玉梓|たまずさ|rom=-}}, {{ja-r|玉章|たまずさ}}
-* {{ja-r|根張り梓|ねはり あずさ}}
 {{der-bottom}}
 
 =====Idioms=====
@@ -120,7 +118,7 @@ From {{inh|ja|ojp|sort=あずさ|-}}, first attested in the ''{{w|Kojiki}}'' (71
 
 ===Etymology 2===
 {{ja-kanjitab|し|yomi=o}}
-{{IPAchar|/t͡si/}} → {{IPAchar|/si/}} → {{IPAchar|/ɕi/}}
+{{IPAchar|/si/}} → {{IPAchar|/ɕi/}}
 
 From {{bor|ja|ltc|sort=し|-}} {{ltc-l|梓}}.
 
@@ -130,11 +128,21 @@ From {{bor|ja|ltc|sort=し|-}} {{ltc-l|梓}}.
 ====Noun====
 {{ja-noun|し}}
 
-# a [[block]] used for [[print]]ing {{gl|as it was originally made from the [[wood]] of the {{vern|Chinese catalpa}}}}
+# a [[block]] [[use]]d for [[print]]ing {{gl|as it was originally [[make|made]] from the [[wood]] of the {{vern|Chinese catalpa}}}}
 #: {{syn|ja|版木|tr=hangi}}
+
+=====Derived terms=====
+* {{ja-r|梓氏|しし}}
 
 =====Idioms=====
 * {{ja-r|梓に上す|し に のぼす}}
+
+====Affix====
+{{ja-pos|affix|し}}
+
+# [[catalpa]]
+# [[print]]ing [[block]]
+# [[printing]]
 
 ===References===
 <references/>
@@ -147,6 +155,29 @@ From {{bor|ja|ltc|sort=し|-}} {{ltc-l|梓}}.
 {{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
 
 # {{defn|lang=ko|sort=木07}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+{{rfe|ja|sort=あつさ}}
+
+===Noun===
+{{head|ojp|noun|tr=adusa|kana|あづさ|sort=あつさ}}
+
+# the {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|ver=190727}}
+#* {{RQ:Manyoshu|14|3567}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3567 here]
+#*: {{ux|ojp|於伎弖伊可婆伊毛婆麻可奈之母知弖由久'''安都佐'''能由美乃由都可爾母我毛|tr=oki<sub>1</sub>te ikaba imo ba ma-kanasi motite yuku '''adusa''' no<sub>2</sub> yumi<sub>1</sub> no<sub>2</sub> yuduka ni mo ga mo}}
+# {{short for|ojp|梓弓|tr=adusa yumi<sub>1</sub>|dot=:|sort=あつさ}} a [[bow]] [[make|made]] from the [[wood]] of the Japanese cherry birch
+
+====Derived terms====
+* {{m|ojp|梓弓|tr=adusa yumi<sub>1</sub>}}
+* {{m|ojp|玉梓}}, {{m|ojp|玉章|tr=tamadusa}}
+* {{m|ojp|根張り梓|tr=nepari adusa}}
+
+====Descendants====
+* {{desc|ja|梓|tr=azusa}}
 
 ----
 
