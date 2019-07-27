@@ -63,6 +63,9 @@
 ====Compounds====
 {{zh-der|fold=1|唯唯諾諾|唯諾|唯唯否否|唯唯}}
 
+====Descendants====
+{{CJKV||い}}
+
 ===References===
 * {{R:yue:Hanzi}}
 
@@ -75,14 +78,11 @@
 
 ====Readings====
 {{ja-readings
-|goon=ゆい<ゆ.ゐ
+|goon=ゆい<ゆい<ゆ.ゐ
 |kanon=い<ゐ
-|on=すい<す.ゐ
-|kun=ただ-<!--, これ-->
+<!--|on=すい<すい<す.ゐ
+-->|kun=ただ-<!--, これ-->
 }}
-
-====Notes====
-As in historical readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja-r|る.ゐ|hist=1}}, most dictionaries do not have {{ja-r|ゆ.ゐ|hist=1}} as a historical reading for {{m-self|ja|唯}}. According to Heian-period data, the on-reading of {{m-self|ja|唯}} is {{ja-r|ゆい|hist=1}}. However, the Dai Kanwa Jiten, has the {{ja-r|ゆ.ゐ|hist=1}} and related -wi historical on-readings. {{attention|ja|please confirm this, this is translated from the Japanese Wikipedia}}
 
 ===Etymology 1===
 {{ja-kanjitab|ただ|yomi=k}}
@@ -102,30 +102,50 @@ As in historical readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja
 
 ===Etymology 5===
 {{ja-kanjitab|ゆい|yomi=goon}}
-From {{der|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.
+{{IPAchar|/juwi/}} → {{IPAchar|/jui/}}
 
-====Proper noun====
-{{ja-pos|ゆい|proper}}
-
-# {{given name|female|lang=ja|sort=ゆい}}
+From {{bor|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.
 
 ====Affix====
 {{ja-pos|affix|ゆい}}
 
-# [[only]]; [[solely]]
+# [[only]], [[solely]]
+
+=====Usage notes=====
+* Most dictionaries [[proscribe]] historical ''-uwi'' readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|ず.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja-r|ゆ.ゐ|hist=1}}{{,}} and {{ja-r|る.ゐ|hist=1}} as attested in many historical documents.
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|唯%一|ゆい%いち}}
+* {{ja-r|唯%一|ゆい%いつ}}
+* {{ja-r|唯%我%論|ゆい%が%ろん}}
+* {{ja-r|唯%我%独%尊|ゆい%が%どく%そん}}
+* {{ja-r|唯%識|ゆい%しき}}
+* {{ja-r|唯心|ゆいしん}}
+* {{ja-r|唯%美|ゆい%び}}
+* {{ja-r|唯物|ゆいぶつ}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|ゆい|proper}}
+
+# {{given name|female|lang=ja|A=a|sort=ゆい}}
 
 ===Etymology 6===
 {{ja-kanjitab|い|yomi=kanon}}
-From {{der|ja|ltc|sort=い|-}} {{ltc-l|唯|id=2}}.
+{{IPAchar|/wi/}} → {{IPAchar|/i/}}
+
+From {{bor|ja|ltc|sort=い|-}} {{ltc-l|唯|id=2}}.
 
 ====Affix====
 {{ja-pos|affix|い|hhira=ゐ}}
 
-# {{only used in|唯々|lang=ja}}
+# {{n-g|[[polite]] [[particle]] used to [[respond]] to [[elder]]s:}} [[yes]]
 
 =====Derived terms=====
-* {{ja-r|唯%々|い%い}}
-* {{ja-r|唯%々%諾%々|い%い%だく%だく}}
+* {{ja-r|唯唯|い.い}}, {{ja-r|唯々|い.い}}
+** {{ja-r|唯唯%諾諾|い.い%だくだく}}, {{ja-r|唯々%諾々|い.い%だくだく}}
+* {{ja-r|諾%唯|だく%い}}
 
 ----
 
