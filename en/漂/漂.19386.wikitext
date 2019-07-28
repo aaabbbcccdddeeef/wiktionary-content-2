@@ -5,16 +5,20 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=11|sn=14|four=31191|canj=EMWF|ids=⿰氵票}}
 
-====References====
-* {{Han ref|kx=0644.220|dkj=18102|dj=1053.010|hdz=31720.010|uh=6F02|ud=28418|bh=BA7D|bd=47741}}
+====Derived characters====
+* {{l|mul|[[𡁼]], [[𨆺]], [[𨮶]], [[㵱]], [[薸]]}}
+
+===Further reading===
+{{Han ref|kx=0644.220|dkj=18102|dj=1053.010|hdz=31720.010|uh=6F02}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𣻔,𣿖,𤄚,𠷻}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|水|票|alt1=氵|t1=water|ls=psc}}
 
 ===Pronunciation 1===
 {{zh-pron
@@ -95,6 +99,7 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=水11}}
 
+# to [[float]]; to [[drift]]
 # {{defn|lang=ja|sort=水11}}
 
 ====Readings====
@@ -104,26 +109,65 @@
 }}
 
 ====Compounds====
-* {{ja-r|漂着|ひょうちゃく}}
-* {{ja-r|漂白|ひょうはく}}
-* {{ja-r|漂白剤|ひょうはくざい}}
-* {{ja-r|漂泊|ひょうはく}}
-* {{ja-r|漂流|ひょうりゅう}}
+{{der-top3|Compounds}}
+* {{ja-r|漂%砂|ひょう%さ}}
+* {{ja-r|漂%失|ひょう%しつ}}
+* {{ja-r|漂%然|ひょう%ぜん}}
+* {{ja-r|漂%着|ひょう%ちゃく}}
+* {{ja-r|漂%動|ひょう%どう}}
+* {{ja-r|漂%白|ひょう%はく}}
+* {{ja-r|漂%泊|ひょう%はく}}
+* {{ja-r|漂%々|ひょう%ひょう}}, {{ja-r|漂%漂|ひょう%ひょう}}
+* {{ja-r|漂%浪|ひょう%ろう}}
+* {{ja-r|漂%流|ひょう%りゅう}}
+* {{ja-r|浮%漂|ふ%ひょう}}
+* {{ja-r|漂%白%剤|ひょう%はく%ざい}}
+* {{ja-r|漂%流%者|ひょう%りゅう%しゃ}}
+{{der-bottom}}
 
 ----
 
 ==Korean==
 
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|漂}}
+
 ===Hanja===
+{{ko-hanja-search}}
 {{ko-hanja|떠다니다|떠다닐|표}}
 
-# {{hanja form of|표|to [[float]], [[drift]]}}
+# {{hanja form of|표|to [[float]]; to [[drift]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|표류|漂流}}
+* {{ko-l|표박|漂泊}}
+* {{ko-l|표백|漂白}}
+* {{ko-l|표표|漂漂}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|6318}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[phều]], [[phiêu]], [[veo]], [[xẻo]], [[xiêu]], [[pheo]], [[phiếu]], [[phịu]]|rs=水11}}
+{{vi-readings|rs=水11
+|hanviet=phiêu-tdcndg;tdcntd;gdhn;bonet;genibrel, phiếu-gdhn;genibrel
+|phienthiet=紕招 phi chiêu
+|nom=xiêu-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, veo-tdcndg;gdhn;btcn;bonet;genibrel, phiêu-tdcndg;tdcntd;btcn;bonet, phều-gdhn;genibrel;bonet, phiếu-tdcntd;taberd, pheo-gdhn;bonet, phếu-genibrel;taberd, phao-tdcndg, xẻo-btcn, phịu-gdhn, phêu-bonet
+}}
 
-# {{defn|lang=vi|sort=水11}}
+# {{lb|vi|only used in compounds}} {{han tu form of|phiêu|to [[float]]; to [[bleach]]}}
+# {{Nom form of|xiêu|to [[slant]]; to [[sag]]; to [[slope#Verb|slope]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{vi-l|漂洋|phiêu dương}}
+* {{vi-l|漂流|phiêu lưu}}
+{{der-bottom}}
+
+===References===
+<references/>
