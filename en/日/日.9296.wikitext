@@ -128,7 +128,7 @@
 # [[daytime]]
 # [[day]]
 # [[Japan]], [[Japanese]], [[Nippo-]]
-# {{w|Hyūga Province}}
+# [[w:Hyūga Province|Hyūga Province]]
 
 ====Readings====
 {{ja-readings
@@ -141,76 +141,16 @@
 ====Compounds====
 {{der-top3|Compounds}}
 {{ja-r/multi|data=
-* {{ja-r/args|日日|にちにち|rom=-}}, {{ja-r/args|日々|にちにち}}
-* {{ja-r/args|日課|にっか}}
-* {{ja-r/args|日月|にちがつ}}
-* {{ja-r/args|日記|にっき}}, {{ja-r/args|日記|にき}}
-* {{ja-r/args|日脚|にっきゃく}}
-* {{ja-r/args|日給|にっきゅう}}
-* {{ja-r/args|日銀|^にちぎん}}
-* {{ja-r/args|日月|にちげつ}}
-* {{ja-r/args|日限|にちげん}}
-* {{ja-r/args|日光|にっこう}}
-* {{ja-r/args|日%時|にち%じ}}
-* {{ja-r/args|日州|^にっしゅう}}
-* {{ja-r/args|日照|にっしょう}}
-* {{ja-r/args|日進|にっしん}}
-* {{ja-r/args|日進月歩|にっしんげっぽ}}
-* {{ja-r/args|日常|にちじょう}}
-* {{ja-r/args|日食|にっしょく}}
-* {{ja-r/args|日中|にっちゅう}}
-* {{ja-r/args|日程|にってい}}
-* {{ja-r/args|日南|^にちなん}}
-* {{ja-r/args|日%暮|にち%ぼ}}
-* {{ja-r/args|日豊|^にっぽう}}
-* {{ja-r/args|日没|にちぼつ}}
-* {{ja-r/args|日本|^にほん}}, {{ja-r/args|日本|^にっぽん}}
-* {{ja-r/args|日没|にちもつ}}
-* {{ja-r/args|日%夜|にち%や}}
-* {{ja-r/args|日用|にちよう}}
-* {{ja-r/args|日曜|にちよう}}
-* {{ja-r/args|日輪|にちりん}}
-* {{ja-r/args|日蓮|^にちれん}}
-* {{ja-r/args|日月|じつげつ}}
-* {{ja-r/args|日%時|じつ%じ}}
-* {{ja-r/args|日%暮|じつ%ぼ}}
-* {{ja-r/args|一日|いちじつ}}
-* {{ja-r/args|縁日|えんにち}}
-* {{ja-r/args|隔日|かくじつ}}, {{ja-r/args|隔日|かくにち}}
-* {{ja-r/args|元日|がんにち}}, {{ja-r/args|元日|がんじつ}}
-* {{ja-r/args|期%日|き%じつ}}, {{ja-r/args|期%日|き%にち}}
-* {{ja-r/args|吉日|きちじつ}}, {{ja-r/args|吉日|きちにち}}, {{ja-r/args|吉日|きつじつ}}
-* {{ja-r/args|休日|きゅうじつ}}
-* {{ja-r/args|旭日|きょくじつ}}
-* {{ja-r/args|好日|こうじつ}}
-* {{ja-r/args|期%日|ご%じつ}}
-* {{ja-r/args|今日|こんにち}}, {{ja-r/args|今日|こんじつ}}
-* {{ja-r/args|昨日|さくじつ}}
-* {{ja-r/args|終日|しゅうじつ}}
-* {{ja-r/args|春日|しゅんじつ}}
-* {{ja-r/args|人日|じんじつ}}
-* {{ja-r/args|尽日|じんじつ}}
-* {{ja-r/args|数日|すうじつ}}, {{ja-r/args|数日|すじつ}}
-* {{ja-r/args|昔日|せきじつ}}
-* {{ja-r/args|先日|せんじつ}}
-* {{ja-r/args|他日|たじつ}}
-* {{ja-r/args|中日|ちゅうにち}}
-* {{ja-r/args|朝日|ちょうじつ}}
-* {{ja-r/args|天日|てんじつ}}
-* {{ja-r/args|半日|はんにち}}, {{ja-r/args|半日|はんじつ}}
-* {{ja-r/args|毎日|まいにち}}, {{ja-r/args|毎日|まいじつ}}
-* {{ja-r/args|明後%日|みょうご%にち}}
-* {{ja-r/args|明日|みょうにち}}
-* {{ja-r/args|命日|めいにち}}
-* {{ja-r/args|落日|らくじつ}}
-* {{ja-r/args|連日|れんじつ}}
-* {{ja-r/args|明後日|あさって}}, {{ja-r/args|明後日|あさて}}
 * {{ja-r/args|明日|あした}}, {{ja-r/args|明日|あす}}
 * {{ja-r/args|春日|^かすが}}
 * {{ja-r/args|昨日|きそ}}
-* {{ja-r/args|一昨昨日|さき%-おとつい}}, {{ja-r/args|一昨昨日|さき%-おととい}}
-* {{ja-r/args|明明後日|しあさって}}
+* {{ja-r/args|昨日|きのう}}
+* {{ja-r/args|今日|きょう}}
 * {{ja-r/args|一日|ついたち|rom=-}}, {{ja-r/args|朔日|ついたち}}
+* {{ja-r/args|明後日|あさって}}
+* {{ja-r/args|一昨日|おとつい}}, {{ja-r/args|一昨日|おととい}}
+* {{ja-r/args|一昨昨日|さき%-おとつい}}, {{ja-r/args|一昨昨日|さき%-おととい}}
+* {{ja-r/args|明明後日|し%-あさって}}
 }}
 {{der-bottom}}
 
@@ -218,7 +158,7 @@
 {{ja-kanjitab|にち|yomi=o}}
 {{IPAfont|/nʲiti/}} → {{IPAfont|/nit͡ɕi/}}
 
-From {{bor|ja|ltc|sort=にち|-}} {{ltc-l|日}}.
+From {{der|ja|ltc|sort=にち|-}} {{ltc-l|日}}.
 
 ====Pronunciation====
 {{ja-pron|y=go|にち|acc=1|acc_ref=DJR}}
@@ -241,7 +181,60 @@ From {{bor|ja|ltc|sort=にち|-}} {{ltc-l|日}}.
 Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 
 =====Derived terms=====
-* {{ja-r|幾日|いくにち}}
+{{der-top3}}
+{{ja-r/multi|data=
+* {{ja-r/args|日%月|にち%がつ}}
+* {{ja-r/args|日%銀|^にち%ぎん}}
+* {{ja-r/args|日%月|にち%げつ}}
+* {{ja-r/args|日%限|にち%げん}}
+* {{ja-r/args|日%時|にち%じ}}
+* {{ja-r/args|日%常|にち%じょう}}
+* {{ja-r/args|日%南|^にち%なん}}
+* {{ja-r/args|日%日|にち%にち|rom=-}}, {{ja-r/args|日%々|にち%にち}}
+* {{ja-r/args|日%暮|にち%ぼ}}
+* {{ja-r/args|日%没|にち%ぼつ}}
+* {{ja-r/args|日%没|にち%もつ}}
+* {{ja-r/args|日%夜|にち%や}}
+* {{ja-r/args|日%用|にち%よう}}
+* {{ja-r/args|日%曜|にち%よう}}
+* {{ja-r/args|日%輪|にち%りん}}
+* {{ja-r/args|日%蓮|^にち%れん}}
+* {{ja-r/args|日%課|にっ%か}}
+* {{ja-r/args|日%記|にっ%き}}
+* {{ja-r/args|日%脚|にっ%きゃく}}
+* {{ja-r/args|日%給|にっ%きゅう}}
+* {{ja-r/args|日%光|にっ%こう}}
+* {{ja-r/args|日%誌|にっ%し}}
+* {{ja-r/args|日%射|にっ%しゃ}}
+* {{ja-r/args|日%州|^にっ%しゅう}}
+* {{ja-r/args|日%照|にっ%しょう}}
+* {{ja-r/args|日%食|にっ%しょく}}
+* {{ja-r/args|日%進|にっ%しん}}
+* {{ja-r/args|日%中|にっ%ちゅう}}
+* {{ja-r/args|日%程|にっ%てい}}
+* {{ja-r/args|日%豊|^にっ%ぽう}}
+* {{ja-r/args|日%本|^にっ%ぽん}}
+* {{ja-r/args|日%記|に%き}}
+* {{ja-r/args|日%本|^に%ほん}}
+* {{ja-r/args|幾%日|いく%にち}}
+* {{ja-r/args|縁%日|えん%にち}}
+* {{ja-r/args|隔%日|かく%にち}}
+* {{ja-r/args|元%日|がん%にち}}
+* {{ja-r/args|期%日|き%にち}}
+* {{ja-r/args|吉%日|きち%にち}}
+* {{ja-r/args|今%日|こん%にち}}
+* {{ja-r/args|中%日|ちゅう%にち}}
+* {{ja-r/args|半%日|はん%にち}}
+* {{ja-r/args|日%日|ひ%にち}}
+* {{ja-r/args|毎%日|まい%にち}}
+* {{ja-r/args|明%日|みょう%にち}}
+* {{ja-r/args|命%日|めい%にち}}
+* {{ja-r/args|明%後%日|みょう%ご%にち}}
+* {{ja-r/args|日%進%月%歩|にっ%しん%げっ%ぽ}}
+}}
+{{der-bottom}}
+
+=====See also=====
 {{ja-number-counter:日}}
 
 ====Proper noun====
@@ -252,23 +245,23 @@ Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 #: {{syn|ja|和|tr=Wa}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 {{ja-r/multi|data=
-* {{ja-r/args|日英|^にち-^えい}}
-* {{ja-r/args|日系|^にっけい}}
-* {{ja-r/args|日%章旗|^にっ%しょうき}}
-* {{ja-r/args|日中|^にっちゅう}}
-* {{ja-r/args|日米|^にち-^べい}}
-* {{ja-r/args|日葡|^にっぽ}}
+* {{ja-r/args|日%英|^にち-%^えい}}
+* {{ja-r/args|日%米|^にち-%^べい}}
+* {{ja-r/args|日%ロ|^にち-%^ロ}}
 * {{ja-r/args|日%露|^にち-%^ろ}}
-* {{ja-r/args|日ロ|^にち-^ロ}}
-* {{ja-r/args|抗日|こうにち}}
-* {{ja-r/args|在日|ざいにち}}
-* {{ja-r/args|親日|しんにち}}
-* {{ja-r/args|中%日|^ちゅう-%^にち}}
+* {{ja-r/args|日%系|^にっ%けい}}
+* {{ja-r/args|日%中|^にっ%ちゅう}}
+* {{ja-r/args|日%葡|^にっ%ぽ}}
+* {{ja-r/args|抗%日|こう%にち}}
+* {{ja-r/args|在%日|ざい%にち}}
+* {{ja-r/args|親%日|しん%にち}}
+* {{ja-r/args|中%日|^ちゅう%^にち}}
 * {{ja-r/args|駐%日|ちゅう%にち}}
-* {{ja-r/args|反日|はんにち}}
-* {{ja-r/args|来日|らいにち}}
+* {{ja-r/args|反%日|はん%にち}}
+* {{ja-r/args|来%日|らい%にち}}
+* {{ja-r/args|日%章%旗|^にっ%しょう%き}}
 }}
 {{der-bottom}}
 
@@ -278,7 +271,7 @@ Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 
 From {{inh|ja|ojp|sort=ひ|-}}.
 
-Appears to be distinct from {{m|ja|火|tr={{IPAfont|/pi<sub>2</sub>/}} → hi||[[fire]]}}. See {{w|Jōdai Tokushu Kanazukai}} for details on {{etyl|ojp|-}} readings.
+Appears to be distinct from {{m|ja|火|tr={{IPAfont|/pi<sub>2</sub>/}} → hi||[[fire]]}}. See {{w|Jōdai Tokushu Kanazukai}} for details on {{noncog|ojp|-}} readings.
 
 ====Alternative forms====
 * {{sense|sun, daytime, sunlight}} {{ja-l|陽}}
@@ -316,58 +309,64 @@ Appears to be distinct from {{m|ja|火|tr={{IPAfont|/pi<sub>2</sub>/}} → hi||[
 =====Derived terms=====
 {{der-top3}}
 {{ja-r/multi|data=
-* {{ja-r/args|日日|ひび|rom=-}}, {{ja-r/args|日々|ひび}}
-* {{ja-r/args|日%日|ひ%にち}}
-* {{ja-r/args|日%脚|ひ%あし|rom=-}}, {{ja-r/args|日足|ひ%あし}}
-* {{ja-r/args|日%帰り|ひ%がえり}}
+* {{ja-r/args|日%脚|ひ%あし|rom=-}}, {{ja-r/args|日%足|ひ%あし}}
 * {{ja-r/args|日%陰|ひ%かげ}}
 * {{ja-r/args|日%影|ひ%かげ}}
 * {{ja-r/args|日%傘|ひ%がさ}}
-* {{ja-r/args|東|ひがし}}
 * {{ja-r/args|日%柄|ひ%がら}}
-* {{ja-r/args|光る|ひかる}}
-* {{ja-r/args|日暮れ|ひぐれ}}
-* {{ja-r/args|彦|ひこ}}
-* {{ja-r/args|日%頃|ひ%ごろ}}
-* {{ja-r/args|終日|ひすがら}}
+* {{ja-r/args|日%頃|ひ%ごろ}}}
 * {{ja-r/args|日%月|ひ%つき}}
 * {{ja-r/args|日%付|ひ%づけ|rom=-}}, {{ja-r/args|日%附|ひ%づけ}}
-* {{ja-r/args|日%時計|ひ%どけい}}
 * {{ja-r/args|日%中|ひ%なか}}
-* {{ja-r/args|日%向|ひ%なた}}
-* {{ja-r/args|日%並ぶ|ひ%ならぶ}}
-* {{ja-r/args|終日|ひねもす}}
-* {{ja-r/args|日の御%門|ひ の み%かど}}
-* {{ja-r/args|日の御子|ひ の みこ}}
-* {{ja-r/args|向日葵|ヒマワリ}}
-* {{ja-r/args|日%向|^ひ%むか}}, {{ja-r/args|日向|^ひゅうが}}
-* {{ja-r/args|姫|ひめ}}
-* {{ja-r/args|日読み|ひよみ}}
-* {{ja-r/args|日和|ひより}}
-* {{ja-r/args|昼|ひる}}
+* {{ja-r/args|日%永|ひ%なが|rom=-}}, {{ja-r/args|日%長|ひ%なが}}
+* {{ja-r/args|日%向|ひ%なた|rom=-}}, {{ja-r/args|日なた|ひなた}}
+* {{ja-r/args|日%日|ひ%にち}}
+* {{ja-r/args|日%日|ひ%び|rom=-}}, {{ja-r/args|日%々|ひ%び}}
+* {{ja-r/args|日%歩|ひ%ぶ}}
+* {{ja-r/args|日%向|^ひ%むか}}, {{ja-r/args|日%向|^ひ%ゅうが}}
+* {{ja-r/args|日%和|ひ%より}}
 * {{ja-r/args|朝%日|あさ%ひ}}
 * {{ja-r/args|一%日|いっ%ぴ}}
-* {{ja-r/args|一昨日|おとつい}}, {{ja-r/args|一昨日|おととい}}
 * {{ja-r/args|月%日|がっ%ぴ}}
-* {{ja-r/args|火曜%日|かよう%び}}
-* {{ja-r/args|金曜%日|きんよう%び}}
-* {{ja-r/args|月曜%日|げつよう%び}}
-* {{ja-r/args|五十%日|ごとう%び}}
-* {{ja-r/args|水曜%日|すいよう%び}}
-* {{ja-r/args|誕生%日|たんじょう%び}}
 * {{ja-r/args|丁%日|ちょう%び}}
 * {{ja-r/args|月%日|つき%ひ}}
 * {{ja-r/args|天%日|てん%ぴ}}
-* {{ja-r/args|土曜%日|どよう%び}}
 * {{ja-r/args|中%日|なか%び}}
 * {{ja-r/args|西%日|にし%び}}
-* {{ja-r/args|日曜%日|にちよう%び}}
 * {{ja-r/args|春%日|はる%ひ}}, {{ja-r/args|春%日|はる%び}}
 * {{ja-r/args|半%日|はん%び}}
 * {{ja-r/args|一%日|ひと%ひ}}
-* {{ja-r/args|木曜%日|もくよう%び}}
 * {{ja-r/args|厄%日|やく%び}}
+* {{ja-r/args|夕%日|ゆう%ひ}}
 * {{ja-r/args|曜%日|よう%び}}
+* {{ja-r/args|終日|ひ-%すがら}}
+* {{ja-r/args|終日|ひ-%ねもす}}
+* {{ja-r/args|終日|ひ-%ひもすがら}}
+* {{ja-r/args|日%帰り|ひ%がえり}}
+* {{ja-r/args|日%暮れ|ひ%ぐれ}}
+* {{ja-r/args|日%差し|ひ%ざし|rom=-}}, {{ja-r/args|日%差|ひ%ざし}}
+* {{ja-r/args|日%照り|ひ%でり}}
+* {{ja-r/args|日%並ぶ|ひ%ならぶ}}
+* {{ja-r/args|日%雇い|ひ%やとい}}
+* {{ja-r/args|日%読み|ひ%よみ}}
+* {{ja-r/args|日%時%計|ひ%ど%けい}}
+* {{ja-r/args|向日葵|ヒ-%マワリ}}
+* {{ja-r/args|月%曜%日|げつ%よう%び}}
+* {{ja-r/args|火%曜%日|か%よう%び}}
+* {{ja-r/args|水%曜%日|すい%よう%び}}
+* {{ja-r/args|木%曜%日|もく%よう%び}}
+* {{ja-r/args|金%曜%日|きん%よう%び}}
+* {{ja-r/args|土%曜%日|ど%よう%び}}
+* {{ja-r/args|日%曜%日|にち%よう%び}}
+* {{ja-r/args|五%十%日|ご%とう%び}}
+* {{ja-r/args|誕%生%日|たん%じょう%び}}
+* {{ja-r/args|日の御%門|ひ の み%かど}}
+* {{ja-r/args|日の御%子|ひ の み%こ}}
+* {{ja-r/args|東|ひがし}}
+* {{ja-r/args|光る|ひかる}}
+* {{ja-r/args|彦|ひこ}}
+* {{ja-r/args|姫|ひめ}}
+* {{ja-r/args|昼|ひる}}
 }}
 {{der-bottom}}
 
@@ -385,9 +384,11 @@ From {{inh|ja|ojp|-}}.
 # {{lb|ja|sort=ふ|obsolete}} a [[day]]
 
 =====Derived terms=====
+{{der-top3}}
 * {{ja-r|昨日|きのう}}
 * {{ja-r|今日|きょう}}
 * {{ja-r|夕|ゆう}}
+{{der-bottom}}
 
 ===Etymology 4===
 {{ja-kanjitab|か|yomi=k}}
@@ -400,7 +401,7 @@ From {{inh|ja|ojp|-}}.
 # [[number]] of [[day]]s
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 {{ja-r/multi|data=
 * {{ja-r/args|二%日|ふつ%か}}
 * {{ja-r/args|三%日|みっ%か}}
@@ -437,12 +438,62 @@ From {{inh|ja|ojp|-}}.
 Only used in plural contexts, never used to indicate a single day.
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 {{ja-r/multi|data=
 * {{ja-r/args|日%長し|け%ながし}}
 * {{ja-r/args|日%並ぶ|け%ならぶ}}
 * {{ja-r/args|日のころごろ|け の ころごろ|[[these days]]}}
 * {{ja-r/args|朝な日に|あさ な け に}}, {{ja-r/args|朝に日に|あさ に け に|in the [[morning]]s and during the [[day]]s → [[morning, noon and night]] → [[always]]}}
+}}
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|じつ|yomi=o}}
+From {{der|ja|ltc|sort=じつ|-}} {{ltc-l|日}}. Compare {{cog|nan|-}} reading {{zh-l|日|tr=[[ji̍t]]}}.
+
+====Pronunciation====
+{{ja-pron|じつ|yomi=ko}}
+
+====Noun====
+{{ja-noun|じつ}}
+
+# [[day]]
+
+=====Derived terms=====
+{{der-top3|Compounds}}
+{{ja-r/multi|data=
+* {{ja-r/args|日%月|じつ%げつ}}
+* {{ja-r/args|日%時|じつ%じ}}
+* {{ja-r/args|日%暮|じつ%ぼ}}
+* {{ja-r/args|一%日|いち%じつ}}
+* {{ja-r/args|隔%日|かく%じつ}}
+* {{ja-r/args|元%日|がん%じつ}}
+* {{ja-r/args|期%日|き%じつ}}
+* {{ja-r/args|吉%日|きち%じつ}}, {{ja-r/args|吉%日|きつ%じつ}}
+* {{ja-r/args|休%日|きゅう%じつ}}
+* {{ja-r/args|旭%日|きょく%じつ}}
+* {{ja-r/args|期%日|ご%じつ}}
+* {{ja-r/args|好%日|こう%じつ}}
+* {{ja-r/args|今%日|こん%じつ}}
+* {{ja-r/args|昨%日|さく%じつ}}
+* {{ja-r/args|終%日|しゅう%じつ}}
+* {{ja-r/args|祝%日|しゅく%じつ}}
+* {{ja-r/args|春%日|しゅん%じつ}}
+* {{ja-r/args|人%日|じん%じつ}}
+* {{ja-r/args|尽%日|じん%じつ}}
+* {{ja-r/args|数%日|すう%じつ}}, {{ja-r/args|数%日|す%じつ}}
+* {{ja-r/args|昔%日|せき%じつ}}
+* {{ja-r/args|先%日|せん%じつ}}
+* {{ja-r/args|他%日|た%じつ}}
+* {{ja-r/args|朝%日|ちょう%じつ}}
+* {{ja-r/args|天%日|てん%じつ}}
+* {{ja-r/args|半%日|はん%じつ}}
+* {{ja-r/args|平%日|へい%じつ}}
+* {{ja-r/args|毎%日|まい%じつ}}
+* {{ja-r/args|落%日|らく%じつ}}
+* {{ja-r/args|連%日|れん%じつ}}
+* {{ja-r/args|翌%々%日|よく%よく%じつ}}, {{ja-r/args|翌%翌%日|よく%よく%じつ}}
+* {{ja-r/args|一%昨%昨%日|いっ%さく%さく%じつ}}
 }}
 {{der-bottom}}
 
