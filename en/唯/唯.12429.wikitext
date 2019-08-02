@@ -85,23 +85,7 @@
 }}
 
 ===Etymology 1===
-{{ja-kanjitab|ただ|yomi=k}}
-{{ja-see|ただ}}
-
-===Etymology 2===
-{{ja-kanjitab|たった|yomi=k}}
-{{ja-see|たった}}
-
-===Etymology 3===
-{{ja-kanjitab|たんだ|yomi=k}}
-{{ja-see|たんだ}}
-
-===Etymology 4===
-{{ja-kanjitab|ない|yomi=k}}
-{{ja-see|ない}}
-
-===Etymology 5===
-{{ja-kanjitab|ゆい|yomi=goon}}
+{{ja-kanjitab|yomi=goon|ゆい}}
 {{IPAchar|/juwi/}} → {{IPAchar|/jui/}}
 
 From {{bor|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.
@@ -112,7 +96,7 @@ From {{bor|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.
 # [[only]], [[solely]]
 
 =====Usage notes=====
-* Most dictionaries [[proscribe]] historical ''-uwi'' readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|ず.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja-r|ゆ.ゐ|hist=1}}{{,}} and {{ja-r|る.ゐ|hist=1}} as attested in many historical documents.
+* Most dictionaries [[proscribe]] historical ''-uwi'' readings {{ja-r|す.ゐ|hist=1}}, {{ja-r|ず.ゐ|hist=1}}, {{ja-r|つ.ゐ|hist=1}}, {{ja-r|ゆ.ゐ|hist=1}}{{,}} and {{ja-r|る.ゐ|hist=1}}.
 
 =====Derived terms=====
 {{der-top3}}
@@ -130,12 +114,23 @@ From {{bor|ja|ltc|sort=ゆい|-}} {{ltc-l|唯|id=1}}.
 {{ja-pos|ゆい|proper}}
 
 # {{given name|female|lang=ja|A=a|sort=ゆい}}
+# {{surname|lang=ja|A=a|nodot=1|sort=ゆい}}
 
-===Etymology 6===
-{{ja-kanjitab|い|yomi=kanon}}
+===Etymology 2===
+{{ja-kanjitab|yomi=kanon|い}}
 {{IPAchar|/wi/}} → {{IPAchar|/i/}}
 
 From {{bor|ja|ltc|sort=い|-}} {{ltc-l|唯|id=2}}.
+
+====Interjection====
+{{ja-pos|interjection|い|hhira=ゐ}}
+
+# {{n-g|[[polite]] [[particle]] used to [[respond]] to [[elder]]s:}} [[yes]]
+#: {{syn|ja|はい|tr=hai}}
+
+=====Derived terms=====
+* {{ja-r|唯唯|い.い|rom=-}}, {{ja-r|唯々|い.い}}
+** {{ja-r|唯唯%諾諾|い.い%だくだく|rom=-}}, {{ja-r|唯々%諾々|い.い%だくだく}}
 
 ====Affix====
 {{ja-pos|affix|い|hhira=ゐ}}
@@ -143,9 +138,26 @@ From {{bor|ja|ltc|sort=い|-}} {{ltc-l|唯|id=2}}.
 # {{n-g|[[polite]] [[particle]] used to [[respond]] to [[elder]]s:}} [[yes]]
 
 =====Derived terms=====
-* {{ja-r|唯唯|い.い|rom=-}}, {{ja-r|唯々|い.い}}
-** {{ja-r|唯唯%諾諾|い.い%だくだく|rom=-}}, {{ja-r|唯々%諾々|い.い%だくだく}}
 * {{ja-r|諾%唯|だく%い}}
+
+===Etymology 3===
+{{ja-kanjitab|ただ|yomi=k}}
+{{ja-see|ただ}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=i|たった}}
+{{ja-see|たった}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=i|たんだ}}
+{{ja-see|たんだ}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=i|ない}}
+{{ja-see|ない}}
+
+----
+
 
 ----
 
