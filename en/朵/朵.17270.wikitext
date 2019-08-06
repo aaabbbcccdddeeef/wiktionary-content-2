@@ -20,13 +20,28 @@
 {{Han etym}}
 
 ===Etymology 1===
-May be related to {{och-l|橢|oblong; oval}} ({{zh-ref|Schuessler, 2007}}). Also compare {{cog|mkh-pro|*kt₂uur||ear}} ([[ibid.]]).
+“Hanging from a tree” > “flower” > classifier for flowers.
+
+Probably from {{inh|zh|sit-pro|*(d/n)waj||to hang from; to cling to; creeper}}, whence {{cog|my|တွယ်||to cling}}. May be related to {{och-l|垂|to hang down}}, {{och-l|橢|oblong; oval}} ({{zh-ref|Schuessler, 2007}}; STEDT).
+
+Also compare {{cog|mkh-pro|*kt₂uur||ear}} ({{zh-ref|Schuessler, 2007}}).
 
 ====Pronunciation====
 {{zh-pron
-|m=duǒ,er=y
+|m=duǒ,tuǒ,er=y,2na=Beijing dialect,2nb=colloquial
+|m-s=do3
 |c=do2,doe2
+|c_note=doe2 - colloquial
+|c-t=o2,u2
+|g=do3
+|h=pfs=tó;gd=do3
+|j=due2
+|mb=dǒ̤
+|md=diō
 |mn=ml:tó/qz:tó͘
+|mn-t=do2/do5
+|w=2tu
+|x=do3
 |mc=y
 |oc=y
 |ma=
@@ -39,6 +54,7 @@ May be related to {{och-l|橢|oblong; oval}} ({{zh-ref|Schuessler, 2007}}). Also
 # {{†}} {{lb|zh|of branches, leaves, flowers, fruits}} [[hang]]ing from a [[tree]]
 # [[flower]] or [[calyx]] of a plant
 # {{zh-classifier|flowers, clouds, etc}}
+#: {{zh-x|一百 朵 玫瑰{gui}|a hundred roses}}
 # {{†}} [[ear]]
 # {{†}} to [[move]]
 # {{surname|lang=zh}}
