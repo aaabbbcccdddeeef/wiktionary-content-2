@@ -81,12 +81,27 @@
 }}
 
 ===Etymology===
+<div style="float:right;">
 {{wp|lang=ja}}
-{{ja-kanjitab|かぶと|yomi=k}}
-{{rfe|ja}}
+{{wp|Kabuto|Kabuto (traditional Japanese helmet)}}
+{{wp|Helmet|Helmet (in general)}}
+[[File:Antique_Japanese_(samurai)_hari_bachi_kabuto.jpg|thumb|250px|{{m|ja|兜|tr=kabuto}}: a traditional Japanese '''[[helmet]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|かぶと}}
+
+From {{inh|ja|ojp|sort=かぶと|-}}.  Found in the ''{{w|Nihon Shoki}}'' of 720 {{CE}} with the reading ''kaputo''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Derivation currently {{unk|ja|sort=かぶと|nocap=1}}.
+
+* A surface analysis might suggest a derivation from {{m|ja|被る|tr=kaburu||to wear something on the head}}.  However, that reading derives from older form ''kagafuru'' and doesn't appear until 850,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> some time after the first appearance of ''kabuto''.
+
+* An alternative analysis might suggest a compound of {{compound|ja|sort=かぶと|頭|tr1=kabu|t1=head|pos1=''[[kun'yomi]]'' and native Japanese term|兜|tr2=to|t2=helmet|''[[on'yomi]]'' and borrowing from Chinese}}.  However, the “[[head]]” sense with the ''kabu'' reading doesn't appear until near the end of the {{w|Muromachi period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|かぶと|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|冑}}, {{ja-l|甲}}
 
 ===Noun===
 {{ja-noun|かぶと}}
