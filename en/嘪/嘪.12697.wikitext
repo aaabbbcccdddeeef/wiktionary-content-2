@@ -1,28 +1,41 @@
+{{also|𪡃}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=30|rad=口|as=12|sn=15|four=66086|canj=RWLC|ids=⿰口買}}
 
-====References====
-* {{Han ref|kx=0206.220|dkj=04236|hdz=10683.130|uh=562A|ud=22058|bh=E547|bd=58695}}
+====Related characters====
+* {{l|mul|𪡃}} {{q|nonstandard [[Simplified Chinese|simplified form]]}}
+
+===Further reading===
+{{Han ref|kx=0206.220|dkj=04236|hdz=10683.130|uh=562A}}
 
 ----
 
 ==Chinese==
-
-
-{{Han etym}}
 {{zh-forms|s=𪡃}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|買|c1=s|c2=p|t1=mouth|ls=psc}}
+
+===Pronunciation===
 {{zh-pron
-|m=mǎi,chuài
+|m=mǎi
 |c=maai5
+|mc=y
+|oc=y
+|cat=n
 }}
 
-# {{defn|lang=yue|sort=口12}}
+===Definitions===
+{{zh-hanzi}}
 
-====References====
-* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 83]
+# [[sound]] of [[goat]] [[bleat]]ing
+
+===References===
+* {{R:twedu|C01426}}
 
 ----
 
@@ -34,6 +47,25 @@
 # {{defn|lang=ja|sort=口12}}
 
 ====Readings====
-* {{ja-readings|on=[[ばい]] (bai), [[め]] (me)|kun=}}
+{{ja-readings
+|on=ばい, め
+|kun=
+}}
+
+===References===
+* {{R:Koseki Moji|048630}}
 
 ----
+
+==Korean==
+
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|嘪}}.
+
+===Hanja===
+{{ko-hanja|[[양]][[의]] [[소리]]|매}}
+
+# {{lb|ko|literary}} {{hanja form of|매|[[sound]] made by a [[goat]]}}
+
+===References===
+* {{R:hanjadoc|1526}}
