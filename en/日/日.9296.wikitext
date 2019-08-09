@@ -129,7 +129,7 @@
 |goon=にち
 |kanon=じつ
 |kun=ひ-, か-
-|nanori=あ, あき, いる, く, くさ, こう, す, たち, てる, とき, に, につ, はる, ひる, へ
+|nanori=あき, てる, とき, はる, ひる
 }}
 
 ====Compounds====
@@ -143,6 +143,7 @@
 * {{ja-r/args|昨日|きそ}}
 * {{ja-r/args|一日|ついたち|rom=-}}, {{ja-r/args|朔日|ついたち}}
 * {{ja-r/args|明後日|あさって}}
+* {{ja-r/args|百日紅|サルスベリ}}
 }}
 {{der-bottom}}
 
@@ -174,6 +175,7 @@ The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial 
 Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 
 =====Derived terms=====
+* {{ja-r|一日|いちにち}}
 * {{ja-r|幾日|いくにち}}
 
 =====See also=====
@@ -183,7 +185,7 @@ Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 {{ja-pos|affix|にち}}
 
 # [[sun]]
-# [[daytime]]
+# [[daytime]], [[daylight]]
 # [[day]]
 # {{short for|ja|日本|tr=Nihon, Nippon|dot=:|sort=にち}} [[Japan]], [[Japanese]], [[Nippo-]]
 # {{short for|ja|[[日向]][[国]]|tr=Hyūga-no-kuni|dot=:}} [[w:Hyūga Province|Hyūga Province]]
@@ -251,6 +253,8 @@ Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 
 ===Etymology 2===
 {{ja-kanjitab|じつ|yomi=o}}
+{{IPAchar|/d͡ʑitʉ/}} → {{IPAchar|/d͡ʑit͡su/}} → {{IPAchar|/ʑit͡su/}}
+
 From {{der|ja|ltc|sort=じつ|-}} {{ltc-l|日}}. The {{m|ja|漢音|tr=kan'on|lit=[[Han]]  [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
 
 Compare modern {{cog|nan|日|tr=ji̍t}}.
@@ -298,7 +302,7 @@ Compare modern {{cog|nan|日|tr=ji̍t}}.
 * {{ja-r/args|毎日|まいじつ}}
 * {{ja-r/args|落日|らくじつ}}
 * {{ja-r/args|連日|れんじつ}}
-* {{ja-r/args|翌翌日|よくよくじつ}}, {{ja-r/args|翌翌々日|よくよくじつ}}
+* {{ja-r/args|翌翌日|よくよくじつ}}, {{ja-r/args|翌々日|よくよくじつ}}
 * {{ja-r/args|一昨昨日|いっさくさくじつ}}
 }}
 {{der-bottom}}
@@ -320,13 +324,13 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 
 # the [[sun]]
 #: {{syn|ja|日輪|tr=nichirin|御日様|tr2=ohisama|太陽|tr3=taiyō}}
-# [[daytime]]
-#: {{syn|ja|昼間|tr=hiruma}}
 # [[sunlight]], [[sunshine]]
 #: {{syn|ja|日光|tr=nikkō|[[日差し]], [[射し]]|tr2=hizashi}}
-# a {{gl|24-[[hour]]}} [[day]]
+# [[daytime]]
+#: {{syn|ja|昼間|tr=hiruma}}
+# a [[day]]
 #: {{syn|ja|一昼夜|tr=itchūya}}
-# [[number]] of days
+# a [[number]] of days
 #: {{syn|ja|日数|tr=nissu, hikazu|日日|tr2=hinichi}}
 # an [[appointed]] or [[fixed]] [[date]]
 #: {{syn|ja|日限|tr=nichigen|日時|tr2=nichiji}}
@@ -340,7 +344,7 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 # an [[auspicious]] or [[inauspicious]] [[aspect]] of a given day
 #: {{syn|ja|日柄|tr=higara}}
 # a type of {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with a [[design]] of the sun
-# ''[[appellation]] of [[reverence]] to the imperial family'', thought to be descendants of the sun goddess {{w|Amaterasu}}
+# a [[reference]] to the [[imperial]] [[family]] or [[lineage]], thought to be [[descend]]ed from the sun [[goddess]] [[Amaterasu]]
 
 =====Derived terms=====
 {{der-top3}}
@@ -364,7 +368,7 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 * {{ja-r/args|日向|^ひゅうが}}
 * {{ja-r/args|日和|ひより}}
 * {{ja-r/args|朝%日|あさ%ひ}}
-* {{ja-r/args|一%日|いっ%ぴ}}
+* {{ja-r/args|一日|いっぴ}}
 * {{ja-r/args|月日|がっぴ}}
 * {{ja-r/args|昨日|きのう|[[yesterday]]}}
 * {{ja-r/args|きょう|[[today]]}}
@@ -376,11 +380,13 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 * {{ja-r/args|春%日|はる%ひ}}, {{ja-r/args|春%日|はる%び}}
 * {{ja-r/args|半%日|はん%び}}
 * {{ja-r/args|一%日|ひと%ひ}}
+* {{ja-r/args|物%日|もの%び}}
 * {{ja-r/args|厄%日|やく%び}}
 * {{ja-r/args|夕%日|ゆう%ひ}}
-* {{ja-r/args|終日|ひ-%すがら}}
-* {{ja-r/args|終日|ひ-%ねもす}}
-* {{ja-r/args|終日|ひ-%ひもすがら}}
+* {{ja-r/args|曜%日|よう%び}}
+* {{ja-r/args|終日|ひすがら}}
+* {{ja-r/args|終日|ひねもす}}
+* {{ja-r/args|終日|ひもすがら}}
 * {{ja-r/args|日%帰り|ひ%がえり}}
 * {{ja-r/args|日%暮れ|ひ%ぐれ}}
 * {{ja-r/args|日%差し|ひ%ざし|rom=-}}, {{ja-r/args|日%差|ひ%ざし}}
@@ -391,6 +397,15 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 * {{ja-r/args|日%雇い|ひ%やとい}}
 * {{ja-r/args|日%読み|ひ%よみ}}
 * {{ja-r/args|日%時%計|ひ%ど%けい}}
+* {{ja-r/args|火%曜%日|か%よう%び}}
+* {{ja-r/args|金曜%日|きんよう%び}}
+* {{ja-r/args|月曜%日|げつよう%び}}
+* {{ja-r/args|五%十%日|ご%とう%び}}
+* {{ja-r/args|水曜%日|すいよう%び}}
+* {{ja-r/args|誕生%日|たんじょう%び}}
+* {{ja-r/args|土%曜%日|ど%よう%び}}
+* {{ja-r/args|日曜%日|にちよう%び}}
+* {{ja-r/args|木曜%日|もくよう%び}}
 * {{ja-r/args|向日葵|ヒマワリ}}
 * {{ja-r/args|一昨日|おとつい}}, {{ja-r/args|一昨日|おととい}}
 * {{ja-r/args|東|ひがし}}
@@ -399,30 +414,6 @@ From {{inh|ja|ojp|sort=ひ|-}}.
 * {{ja-r/args|姫|ひめ}}
 * {{ja-r/args|昼|ひる}}
 * {{ja-r/args|夕|ゆう}}
-}}
-{{der-bottom}}
-
-====Suffix====
-{{ja-pos|suffix|び}}
-
-# [[day]] of [''suffixed term'']
-#: {{ja-usex-inline|木曜'''日'''|もくよう'''び'''|Thurs'''day''' (literally “'''day''' of the wood planet”, i.e. Jupiter)}}
-#: {{ja-usex-inline|五%十'''日'''|ご%とお'''び'''|five-ten '''day''' (literally “'''day''' [of a month] that is a [multiple of] five or ten”)}}
-
-=====Derived terms=====
-{{der-top}}
-{{ja-r/multi|data=
-* {{ja-r/args|月%曜%日|げつ%よう%び}}
-* {{ja-r/args|火%曜%日|か%よう%び}}
-* {{ja-r/args|水%曜%日|すい%よう%び}}
-* {{ja-r/args|木%曜%日|もく%よう%び}}
-* {{ja-r/args|金%曜%日|きん%よう%び}}
-* {{ja-r/args|土%曜%日|ど%よう%び}}
-* {{ja-r/args|日%曜%日|にち%よう%び}}
-* {{ja-r/args|五%十%日|ご%とう%び}}
-* {{ja-r/args|誕%生%日|たん%じょう%び}}
-* {{ja-r/args|物%日|もの%び}}
-* {{ja-r/args|曜%日|よう%び}}
 }}
 {{der-bottom}}
 
@@ -452,6 +443,7 @@ From {{inh|ja|ojp|-}}.
 * {{ja-r/args|二十%日|はつ%か}}
 * {{ja-r/args|三十%日|みそ%か|rom=-}}, {{ja-r/args|晦%日|みそ%か}}
 * {{ja-r/args|幾%日|いく%か}}, {{ja-r/args|幾%日|いっ%か}}
+* {{ja-r/args|朝な日に|あさ な け に}}
 }}
 {{der-bottom}}
 
@@ -534,6 +526,7 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 # [[sunlight]], [[sunshine]]
 # [[daytime]]
 # a [[day]]
+# a [[reference]] to the [[imperial]] [[family]] or [[lineage]], thought to be [[descend]]ed from the sun [[goddess]] [[Amaterasu]]
 
 =====Derived terms=====
 {{der-top3}}
@@ -541,32 +534,49 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 * {{m|ojp|彦|tr=pi<sub>1</sub>ko<sub>1</sub>}}
 * {{m|ojp|常陸|tr=Pi<sub>1</sub>tati}}
 * {{m|ojp|日月|tr=pi<sub>1</sub>duki<sub>2</sub>}}
+* {{m|ojp|日に異に|tr=pi<sub>1</sub> ni ke<sub>1</sub> ni}}
 * {{m|ojp|日の御門|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>kado<sub>1</sub>}}
 * {{m|ojp|日の御子|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>1</sub>}}
 * {{m|ojp|日の本の|tr=pi<sub>1</sub> no<sub>2</sub> moto<sub>2</sub> no<sub>2</sub>|pos=[[pillow word]]}}
 * {{m|ojp|日向|tr=Pi<sub>1</sub>muka}}
-* {{m|東|tr=*pi<sub>1</sub>mukasi}}
+* {{m|ojp|東|tr=*pi<sub>1</sub>mukasi}}
 * {{m|ojp|姬|tr=pi<sub>1</sub>me<sub>1</sub>}}
 * {{m|ojp|晝|tr=pi<sub>1</sub>ru}}
+* {{m|ojp|彌日異に|tr=iya pi<sub>1</sub> ke<sub>1</sub> ni}}
 * {{m|ojp|昨日|tr=ki<sub>1</sub>no<sub>2</sub>pu}}
 * {{m|ojp|けふ|tr=ke<sub>1</sub>pu, ke<sub>2</sub>pu}}
 * {{m|ojp|月日|tr=tuki<sub>2</sub>pi<sub>1</sub>}}
+* {{m|ojp|春の日|tr=paru no pi<sub>1</sub>}}
 * {{m|ojp|春日|tr=parupi<sub>1</sub>}}
 * {{m|ojp|夕|tr=yupu}}
 * {{m|ojp|をとつひ|tr=woto<sub>2</sub>tupi<sub>1</sub>}}
 {{der-bottom}}
 
 =====Descendants=====
-* {{desc|ja|日|tr=hi}}
+* {{desc|ja|[[日]], [[陽]]|tr=hi}}
+
+=====See also=====
+* {{m|ojp|茜さす|tr=akane sasu}}
+* {{m|ojp|天傳ふ|tr=amadutapu}}
+* {{m|ojp|高照らす|tr=takaterasu}}
+* {{m|ojp|高光る|tr=takapikaru}}
 
 ===Etymology 2===
 {{rfe|ojp}}
 
 ====Suffix====
-{{head|ojp|suffix|tr=ka|kana|か|sort=か}}
+{{head|ojp|suffix|tr=-ka|kana|か|sort=か}}
 
 # [[daytime]]s
 # [[number]] of [[day]]s
+
+=====Derived terms=====
+{{der-top}}
+* {{m|ojp|二日|tr=putuka}}
+* {{m|ojp|七日|tr=nanuka}}
+* {{m|ojp|八日|tr=yaka}}
+* {{m|ojp|十日|tr=to<sub>2</sub>woka}}
+{{der-bottom}}
 
 =====Descendants=====
 * {{desc|ja|日|tr=-ka}}
@@ -582,10 +592,13 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 #*: {{ux|ojp|一日社人母待吉長'''氣'''乎如此耳待者有不得勝|tr=pi<sub>1</sub>to<sub>1</sub>pi<sub>1</sub> ko<sub>2</sub>so<sub>2</sub> pi<sub>1</sub>to<sub>2</sub> mo mati yo<sub>2</sub>ki<sub>1</sub> nagaki<sub>1</sub> '''ke<sub>2</sub>''' wo kaku nomi<sub>2</sub> mateba arikatu}}
 
 =====Derived terms=====
+{{der-top}}
 * {{m|ojp|日長し|tr=ke<sub>2</sub>nagasi}}
 * {{m|ojp|日竝ぶ|tr=ke<sub>2</sub>narabu}}
-* {{m|ojp|日のころごろ|tr=ke<sub>2</sub> no<sub>2</sub> ko<sub>2</sub>ro<sub>2</sub>go<sub>2</sub>ro<sub>2</sub>||[[these days]]}}
-* {{m|ojp|朝に日に|tr=asa ni ke<sub>2</sub> ni||in the [[morning]]s and during the [[day]]s → [[morning, noon and night]] → [[always]]}}
+* {{m|ojp|日のころごろ|tr=ke<sub>2</sub> no<sub>2</sub> ko<sub>2</sub>ro<sub>2</sub>go<sub>2</sub>ro<sub>2</sub>}}
+* {{m|ojp|朝に日に|tr=asa ni ke<sub>2</sub> ni}}
+* {{m|ojp|旅の日|tr=tabi<sub>1</sub> no<sub>2</sub> ke<sub>2</sub>}}
+{{der-bottom}}
 
 ----
 
