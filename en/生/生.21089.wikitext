@@ -1,9 +1,9 @@
 {{also|主|玍}}
 {{character info/subpage}}
 ==Translingual==
-{{stroke order|strokes=5}}
-{{stroke order|type=animate}}
-{{stroke order|type=janimate}}
+{{stroke order|strokes=5|type=cbw}}
+{{stroke order|type=canimate}}
+<div style="float:right;">{{stroke order|type=janimate}}</div>
 
 ===Han character===
 {{Han char|rn=100|rad=生|as=0|sn=5|four=25100|canj=HQM|ids=⿻𠂉土}}
@@ -15,6 +15,7 @@
 * {{l|mul|[[𠇷]], [[𠰮]], [[𡊳]], [[夝]], [[姓]], [[𭒿]], [[𭚕]], [[徃]], [[性]], [[泩]], [[狌]], [[𭤯]], [[胜]], [[栍]], [[殅]], [[𤇣]], [[牲]], [[珄]], [[𤬸]], [[𥑥]], [[𮁢]], [[𮄫]], [[旌]], [[貹]], [[𧻊]], [[𨠠]], [[𡲥]], [[鉎]], [[𫕹]], [[𬈤]], [[𦎡]], [[𩲵]], [[𪊟]], [[𪌜]], [[嬎]], [[鮏]], [[嬔]], [[鼪]], [[𫦽]]}} <!-- Characters not found in [[Index:Chinese radical/生]] -->
 
 ===Further reading===
+{{kangxi-ws|生部/生部}}
 {{Han ref|kx=0754.260|dkj=21670|dj=1162.040|hdz=42575.010|uh=751F}}
 
 [[Category:CJKV radicals]]
@@ -116,6 +117,8 @@ Derivatives: {{och-l|性|nature; character; personality; quality}}, {{och-l|姓|
 # to [[manufacture]]; to [[produce]]
 # to [[happen]]; to [[occur]]; to [[take place]]
 # to [[catch]] (a [[disease]])
+#: {{zh-x|我 '''生''' 了 什麼 病？|What disease have I '''got'''?}} 
+#: {{zh-x|生蛇|tr='''seⁿ'''-chôa|to have herpes zoster|MN}}
 # {{lb|zh|transitive}} to be [[infest]]ed by a [[parasite]]
 #: {{zh-x|生 跳蚤|to be '''infested''' with fleas}}
 #: {{zh-x|生 蝨乸|to be '''infested''' with lice|C}}
@@ -396,6 +399,7 @@ From {{der|ko|ltc|-}} {{ltc-l|生}}. Attested in {{w2|ko|s:훈몽자회/天文#�
 {{ko-hanja-search}}
 {{ko-hanja|나다|날|생}}
 
+# {{hanja form of|생|[[raw]]; [[uncooked]]}}
 # {{hanja form of|생|of [[life]]; to be [[born]]}}
 # {{hanja form of|생|to [[produce]]}}
 
