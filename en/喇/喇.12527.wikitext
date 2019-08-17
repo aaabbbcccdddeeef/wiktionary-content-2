@@ -12,30 +12,69 @@
 ==Chinese==
 {{zh-forms}}
 
-{{attention|nan|needs to be assigned to pronunciations}}<!--
-|mn=ml:la̍t/qz,xm,zz:la̍h/qz,xm,zz:la/tw:lá
-|mn_note=la̍t - literary; la̍h - vernacular; la - vernacular (俗)
--->
+===Etymology 1===
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=lǎ
-|c=laa3,laa1
+|c=laa3,laa5
+|h=pfs=la̍p
+|mn=ml:la/tw:lá/ml:la̍t
+|mn_note=la̍t - literary
+|mn-t=la1
 |cat=syllable
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-used in|喇嘛|[[lama]]}}
-# {{zh-used in|喇叭|[[trumpet]]; [[bugle]]}}
+# {{zh-only|喇叭|[[trumpet]]; [[bugle]]}}
 
 ====Compounds====
-{{zh-der|八怪七喇|喇嘛|唐古喇山|小喇叭|喇叭花|喇嘴|喇叭手|大喇叭|喇嘛教|喇叭褲|喇叭蟲|喇叭筒|喇叭口兒|喇叭|吹喇叭|環繞喇叭|琉璃喇叭|班禪喇嘛|燒喇嘛|背哈喇子|達賴喇嘛}}
+{{zh-der|小喇叭|喇叭花|喇叭手|大喇叭|喇叭褲|喇叭蟲|喇叭筒|喇叭口兒|喇叭|吹喇叭|環繞喇叭|琉璃喇叭}}
 
-===Pronunciation 2===
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=lǎ
+|c=laa1
+|mn=ml:la̍h/ml:la̍t
+|mn_note=la̍h - vernacular; la̍t - literary
+|mn-t=la1
+|cat=syllable
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|喇嘛|[[lama]]}}
+
+====Compounds====
+{{zh-der|喇嘛|喇嘛教|班禪喇嘛|燒喇嘛|達賴喇嘛}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=lǎ
+|cat=syllable
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|八怪七喇|喇嘴|唐古喇山|背哈喇子}}
+
+===Etymology 4===
+
+====Pronunciation====
 {{zh-pron
 |m=lā
+|c=laa1
 |cat=n
 }}
 
@@ -47,7 +86,9 @@
 ====Compounds====
 {{zh-der|勃喇喇|咿哩呱喇|刮喇|佧喇|喇喇叭叭|嘩喇喇|喇喇哩哩|滑喇|活喇喇}}
 
-===Pronunciation 3===
+===Etymology 5===
+
+====Pronunciation====
 {{zh-pron
 |m=lá
 |cat=syllable
@@ -56,11 +97,14 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{zh-only|哈喇子|[[saliva]]}}
+# {{zh-only|哈喇子|[[saliva]]|半喇子兒|a [[half]]}}
 
-===Pronunciation 4===
+===Etymology 6===
+{{zh-forms|alt=啦,嚹,嘑}}
+{{rfe|zh|related to 了?}}
+
+====Pronunciation====
 {{zh-pron
-|m=la
 |c=laa3
 |cat=part
 }}
