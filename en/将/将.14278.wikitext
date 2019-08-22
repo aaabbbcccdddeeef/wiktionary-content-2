@@ -1,7 +1,6 @@
 {{also|將}}
 {{character info/new}}
-{{character info|0x2F873}
-
+{{character info|0x2F873}}
 ==Translingual==
 {{stroke order|strokes=9}}
 {{Han simplified forms|將|将|将}}
@@ -46,33 +45,34 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|主将|しゅしょう}}: (team) [[captain]]; (national forces) [[commander in chief]]
+{{der-top3|Compounds}}
+* {{ja-r|主将|しゅしょう|([[team]]) [[captain]]; [[commander in chief]] ([[national]] [[force]]s}}
 * {{ja-r|将家|しょうか}}
-* {{ja-r|将棋|しょうぎ}}: [[shogi]], Japanese chess
-* {{ja-r|将軍|しょうぐん}}: [[shogun]], Japanese military ruler
-* {{ja-r|将校|しょうこう}}: a commissioned [[officer]]
-* {{ja-r|将帥|しょうすい}}: [[commander]]
-* {{ja-r|将星|しょうせい}}: [[commander]]
-* {{ja-r|将卒|しょうそつ}}: [[officers]] and [[soldiers]]
+* {{ja-r|将棋|しょうぎ|[[shogi]]}}
+* {{ja-r|将軍|しょうぐん|[[shogun]]}}
+* {{ja-r|将校|しょうこう|commissioned [[officer]]}}
+* {{ja-r|将帥|しょうすい|[[commander]]}}
+* {{ja-r|将星|しょうせい|commander}}
+* {{ja-r|将卒|しょうそつ|[[officers]] and [[soldiers]]}}
 * {{ja-r|将門|しょうもん}}
-* {{ja-r|大将|たいしょう}}: (military) [[general]]
+* {{ja-r|大将|たいしょう|[[general]]}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|しょう|yomi=o}}
-From {{bor|ja|ltc|-|sort=しょう}} {{m|zh|將|tr=tsjang<sup>H</sup>||leader}}.
+{{ja-kanjitab|しょう|yomi=kanon}}
+
+From {{der|ja|ltc|-|sort=しょう}} {{ltc-l|將}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|yomi=ko|しょう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|しょう|hhira=しやう}}
 
-# [[general]]; [[commander]]
+# a [[general]], [[commander]]
 
 ====Proper noun====
-{{ja-pos|proper|しょう}}
+{{ja-pos|proper|しょう|hhira=しやう}}
 
 # {{given name|male|lang=ja|sort=しょう}}
 
