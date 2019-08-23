@@ -66,7 +66,9 @@
 </div>
 {{ja-kanjitab|ひのき|yomi=k}}
 
-Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1={{l|en|Japanese cypress}}|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.
+Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1={{l|en|Japanese cypress}}|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Appears in texts starting from the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
+
+The wood and bark was commonly used as [[tinder]], and the term was previously thought to be from {{m|ja|火|tr=hi||fire}} + {{m|ja|の|tr=no|pos=attributive particle}} + {{m|ja|木|tr=ki||tree}}.  However, later research into {{w|Jōdai Tokushu Kanazukai|ancient kana usage}} in {{cog|ojp|-}} revealed that {{m|ja|檜}} had a reading of {{IPAfont|⟨hi<sub>1</sub>⟩}}, while {{m|ja|火}} was read as {{IPAfont|⟨hi<sub>2</sub>⟩}}, ruling out this derivation.<ref name="KDJ"/>
 
 ====Alternative forms====
 * {{ja-l|檜木}}
@@ -79,7 +81,7 @@ Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1={{l|en|Japanese cypress}}|pos1
 ====Noun====
 {{ja-noun|shin=桧|ひのき|ヒノキ}}
 
-# the {{l|en|Japanese cypress}}, ''{{ll|mul|Chamaecyparis obtusa}}''
+# the [[Japanese cypress]], ''{{ll|mul|Chamaecyparis obtusa}}''
 
 =====Usage notes=====
 {{U:ja:biology|ヒノキ}}
