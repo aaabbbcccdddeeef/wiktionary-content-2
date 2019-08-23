@@ -5,12 +5,15 @@
 ===Han character===
 {{Han char|rn=90|rad=爿|as=04|sn=8|four=24290|canj=VMD|ids=⿰爿木}}
 
-# [[bed]], [[couch]]
-# [[bench]]
-# [[chassis]]
+====Derived characters====
+* {{l|mul|[[𦝆]], [[𤷲]], [[𩃕]], [[𡞓]], [[𦝍]]}}
 
-====References====
-* {{Han ref|kx=0691.150|dkj=19763|dj=1104.110|hdz=42374.040|uh=7240|ud=29248}}
+====Related characters====
+* {{l|mul|床}} {{q|Modern form in Chinese and Japanese}}
+
+===Further reading===
+{{kangxi-ws|爿部/四畫}}
+{{Han ref|kx=0691.150|dkj=19763|dj=1104.110|hdz=42374.040|uh=7240}}
 
 ----
 
@@ -22,6 +25,9 @@
 
 ===Definitions===
 {{zh-see|床|vt}}
+
+===References===
+* {{R:twedu|A01203-001}}
 
 ----
 
@@ -39,18 +45,62 @@
 }}
 
 ====Compounds====
-* {{ja-r|牀几|しょうぎ}}
+{{der-top3|Compounds}}
+* {{ja-r|牀%几|しょう%ぎ}}
+* {{ja-r|牀%榻|しょう%とう}}
+{{der-bottom}}
 
 ===Counter===
 {{ja-pos|しょう|counter}}
 
-# {{alternative form of|床|lang=ja}}
+# {{alternative form of|ja|床}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+===Alternative forms===
+* {{alter|ko|床|tr={{m|ko|상}}}}
 
-# {{defn|lang=ko|sort=爿04}}
+===Etymology===
+From {{der|ko|ltc|sort=상|-}} {{ltc-l|牀}}. {{hanja-hunmong|사ᇰ|sang|器皿#중10A}}
+
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|[[평상]]([[平牀]])|상}}
+
+# {{hanja form of|상|[[bed]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|상궤|牀几}}
+* {{ko-l|상슬|牀蝨}}
+* {{ko-l|상탑|牀榻}}
+* {{ko-l|병상|病牀}}
+* {{ko-l|석상|石牀}}
+* {{ko-l|침상|寢牀}}
+* {{ko-l|평상|平牀}}
+* {{ko-l|삼계상|三界牀}}
+* {{ko-l|[[용평상]]/[[룡평상]]|龍平牀}}
+* {{ko-l|접침상|摺寢牀}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|6995}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=爿04
+|hanviet=sàng-tdcndg;tdcntd;gdhn;bonet;genibrel, giường-bonet, giầng-bonet
+|phienthiet=仕莊 sĩ trang
+|nom=giường-tdcndg;tdcntd;gdhn;bonet;genibrel, sàng-tdcntd;bonet;genibrel;taberd, giàng-tdcntd, giầng-genibrel
+}}
+
+# {{han tu form of|sàng|[[bed]]}}
+# {{Nom form of|giường|[[bed]]}}
+
+===References===
+<references/>
