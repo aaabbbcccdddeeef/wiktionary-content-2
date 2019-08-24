@@ -110,7 +110,7 @@ Regular development from Middle Chinese would lead to the labiodental ''fù'' in
 |goon=ぶ, ふ
 |kanon=ふ
 |kanyoon=ほ
-|kun=ちち-, とう, とと
+|kun=ちち-, ち-, しし-, とう-, とと-, てて-, ちゃん-, かぞ-
 }}
 
 ====Compounds====
@@ -121,87 +121,143 @@ Regular development from Middle Chinese would lead to the labiodental ''fù'' in
 * {{ja-r|代父|だいふ}}: a [[godfather]]
 {{der-bottom}}
 
-====Derived terms====
-{{der-top}}
-* {{ja-r|父上|ちちうえ}}: {{qualifier|term of utmost respect}} [[honourable]] [[father]]
-* {{ja-r|父ちゃん|とうちゃん}}: {{qualifier|term of endearment}} [[pop]], [[dad]]
-{{der-mid}}
-* {{ja-r|お父さん|おとうさん}}: [[father]]
-{{der-bottom}}
-
 ====Antonyms====
 * {{l|ja|母}}
 
 ===Etymology 1===
-{{ja-kanjitab|ちち|yomi=k}}
+{{ja-kanjitab|yomi=k|ちち}}
+
+From {{der|ja|ojp|sort=ちち|-}}.  [[reduplication|Reduplication]] of older ''chi'' (see below).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.<ref name="KDJ"/><ref>{{RQ:Manyoshu|13|3312}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3312 here]</ref> Still in modern usage.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ちち|acc=2|dev=1|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+{{ja-pron|yomi=k|ちち|acc=2|dev=1,1|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ちち}}
 
-# [[father]]
-#* {{RQ:Man'yōshū|20|4402}}
+# a [[father]]: a [[male]] [[parent]]
+#* {{RQ:Man'yōshū|20|4402}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4402 here]
 #*: 知波夜布留 賀美乃美佐賀尓 奴佐麻都里 伊波布伊能知波 意毛'''知々'''我多米
 #* {{RQ:Wamyō Ruijushō|1|115}}
 #*: 父爲考、和名'''知々'''、日本紀私記云加曾
+# {{lb|ja|sort=ちち|Christianity}} [[God]], the [[Holy Father]]
+# {{lb|ja|sort=ちち|figurative}} a [[father]] of something: the [[male]] [[initiator]] or [[founder]] of something
+#: {{ja-usex|近%代%医%学の'''父'''|きん%だい% い%がく の '''ちち'''|the '''father''' of modern medicine}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|父親|ちちおや}}: [[father]] {{q|specifically as someone's [[parent]]}}
+* {{ja-r|父上|ちちうえ}}: {{qualifier|term of respect, primarily used in writing}} [[honourable]] [[father]]
+{{der-bottom}}
+
+=====Usage notes=====
+When describing a family member, only used to reference one's own father. Not used as a standalone noun to refer to someone else's father.
 
 ===Etymology 2===
-From [[父|chichi]]. Eastern dialect.
+{{ja-kanjitab|yomi=k|しし}}
+
+From the eastern dialect of {{inh|ja|ojp|sort=しし|-}}.  Appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.<ref name="KDJ"/><ref name="DJR"/><ref>{{RQ:Manyoshu|20|4376}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4376 here]</ref> Usage is restricted to ancient texts.{{attention|ja|Should be moved to an OJP section of this page, when that is finally created.}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|しし}}
 
 ====Noun====
 {{ja-noun|しし}}
 
 # father
-#* {{RQ:Man'yōshū|20|4376}}
+#* {{RQ:Man'yōshū|20|4376}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4376 here]
 #*: 多妣由岐尓 由久等之良受弖 阿母'''志々'''尓 己等麻乎佐受弖 伊麻叙久夜之気
-#* {{RQ:Man'yōshū|20|4378}}
+#* {{RQ:Man'yōshū|20|4378}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4378 here]
 #*: 都久比夜波 須具波由気等毛 阿母'''志々'''可 多麻乃須我多波 和須例西奈布母
 
+=====Usage notes=====
+Often found in combination with the term {{m|ja|母|tr=amo||mother}}.
+
 ===Etymology 3===
-From [[父|chichi]].
+{{ja-kanjitab|yomi=k|てて}}
+
+Shift from ''chichi''.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>  Appears in the ''{{w|Utsubo Monogatari}}'' of roughly 970 {{CE}}.<ref name="KDJ"/> Usage continued until at least the early 1700s.<ref name="KDJ"/>
+
+====Pronunciation====
+{{ja-pron|yomi=k|てて}}
 
 ====Noun====
 {{ja-noun|てて}}
 
 # father
-#* {{RQ:Nippo Jisho|649}}
-#*: '''Tete'''. l, chichi. テテ. まはは, チチ (てて. または, 父) 父親.
+#* {{RQ:Nippo Jisho}}, text [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP513#v=onepage&q=Tete here]
+#*: '''Tete'''. {{m|pt|igualmente|I}}, chichi. {{m|pt|pay|Pay}}.
 
 ===Etymology 4===
-From [[父|chichi]].
+Originally a shift from ''chichi'' or ''tete'' in [[baby talk]], used by children to refer to their own father.  Appears in the ''{{w|Nippo Jisho}}'' of 1603.<ref name="KDJ"/> Still in modern usage.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とと|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|とと}}
 
-# a childish term for one's father; [[daddy]]
-#* {{RQ:Nippo Jisho|670}}
-#*: '''Toto'''. トト (とと) 父. これは子どもの使う語である.
+# a childish term for one's father: [[daddy]]
+#* {{RQ:Nippo Jisho}}, text [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP530#v=onepage&q&f=false here], second from bottom on the right
+#*: '''Toto'''. {{m|pt|[[pay|Pay]]. [[he|He]] [[palavra|palaura]] [[de]] [[que|q̃]] [[usado|uſao]] [[os]] [[mininos]]}}.
+# {{q|by later extension}} [[husband]], [[master]] of the [[house]]
 
-===Etymology 5===
-/kaso<small>2</small>/: *[kasə] > [kaso].
+=====Usage notes=====
+This ''toto'' form became the basis of the modern term {{m|ja|お父さん|tr=otōsan}}.
+
+====Etymology 5===
+{{ja-kanjitab|yomi=k|ちゃん}}
+
+Likely a [[contraction]] of {{m|ja|父さん|tr=toto-san}}: {{IPAchar|/totosan/}} → {{IPAchar|/totːɕan/}} → {{IPAchar|/t͡ɕan/}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ちゃん|acc=1|acc_ref=DJR,SMK5}}
 
 ====Noun====
-{{ja-noun|かそ}}
+{{ja-noun|ちゃん}}
 
-# father
-#* {{RQ:Wamyō Ruijushō|1|115}}
-#*: 父爲考、和名知々、日本紀私記云'''加曾'''
+# {{lb|ja|sort=ちゃん|informal|possibly|_|dialect}} [[father]]
 
 ===Etymology 6===
-From [[父|kaso]]. Medial -s- voices to /kazo/.
+{{ja-kanjitab|yomi=k|ち}}
+
+From {{inh|ja|ojp|sort=ち|-}}. Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS"/>  Not found in isolation outside of ancient texts.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ち}}
+
+====Noun====
+{{ja-noun|ち}}
+
+# {{n-g|term of [[respect]] for [[male]]s}}
+
+=====Usage notes=====
+Appears as a component of various compounds referring to male family members, often with [[rendaku]], such as {{m|ja|叔父|tr=oji||uncle}}, {{m|ja|親父|tr=oyaji||father; old man, pops}}.
+
+===Etymology 7===
+{{ja-kanjitab|yomi=k|かそ}}
+
+{{IPAfont|⟨kaso<small>2</small>⟩}}: *{{IPAchar|/kasə/}} → {{IPAchar|/kaso/}} → {{IPAchar|/kazo/}}
+
+From {{inh|ja|ojp|sort=かぞ|-}}.  Appears in the ''{{w|Nihon Shoki}}'' of 720 {{CE}} as unvoiced ''kaso'',<ref name="KDJ"/><ref name="DJR"/> Further derivation unknown.<ref name="KDJ"/>
+
+Often found together with {{m|ja|母|tr=iroha||mother}} in the phrase ''kazo iroha''.<ref name="KDJ"/>
+
+May have fallen out of use by 1603, when neither ''kaso'' nor ''kazo'' are found in the ''{{w|Nippo Jisho}}''.  ''Kaso'' would be [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP94#v=onepage&q&f=false here] as the sixth entry from the bottom on the left, and ''kazo'' would be [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP102#v=onepage&q&f=false here] as the eighth from the bottom on the right.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かぞ}}
 
 ====Noun====
 {{ja-noun|かぞ}}
 
-# father
+# [[father]]
+#* {{RQ:Wamyō Ruijushō|1|115}}
+#*: 父爲考、和名知々、日本紀私記云'''加曾'''
 
 ===References===
 <references/>
-:* {{R:Nippo Jisho}}
 :* {{R:Wamyō Ruijushō}}
-:* {{R:Man'yōshū 4}}
 
 [[Category:Japanese basic words|ちち]]
 [[Category:ja:Family|ちち]]
