@@ -24,10 +24,10 @@
 
 ===Glyph origin===
 {{Han etyl}}
-{{liushu|p}} – A hand holding a stone, referring to a man working with a stone axe.
+{{liushu|p}} – A [[hand]] holding a [[stone]], referring to a [[man]] working with a stone [[axe]].
 
 ===Etymology===
-From {{inh|zh|sit-pro|*p/ba||male; father}}.
+From {{inh|zh|sit-pro|*p/ba||[[male]]; [[father]]}}.
 
 Regular development from Middle Chinese would lead to the labiodental ''fù'' in Mandarin, but the colloquial word resisted the sound changes and is now written as {{zh-l|爸}}, with the {{zh-l|巴}} phonetic component added to it to indicate the unchanged bilabial initial.
 
@@ -103,31 +103,25 @@ Regular development from Middle Chinese would lead to the labiodental ''fù'' in
 ===Kanji===
 {{ja-kanji|grade=2|rs=父00}}
 
-# [[father]]
-
 ====Readings====
 {{ja-readings
 |goon=ぶ, ふ
 |kanon=ふ
 |kanyoon=ほ
-|kun=ちち-, ち-, しし-, とう-, とと-, てて-, ちゃん-, かぞ-
+|kun=ちち-
+|nanori=のり
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|父母|ふぼ}}: both [[parents]]; one’s [[father]] and [[mother]]
-* {{ja-r|教父|きょうふ}}: a [[godfather]]
-{{der-mid}}
-* {{ja-r|代父|だいふ}}: a [[godfather]]
-{{der-bottom}}
-
-====Antonyms====
-* {{l|ja|母}}
+* {{ja-r|祖父|じじ}}, {{ja-r|祖父|じい}}
+* {{ja-r|秩父|^ちちぶ}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ちち}}
 
-From {{der|ja|ojp|sort=ちち|-}}.  [[reduplication|Reduplication]] of older ''chi'' (see below).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.<ref name="KDJ"/><ref>{{RQ:Manyoshu|13|3312}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3312 here]</ref> Still in modern usage.
+From {{inh|ja|ojp|sort=ちち|父|tr=titi}}.
+
+Still in modern usage.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ちち|acc=2|dev=1,1|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
@@ -135,48 +129,39 @@ From {{der|ja|ojp|sort=ちち|-}}.  [[reduplication|Reduplication]] of older ''c
 ====Noun====
 {{ja-noun|ちち}}
 
-# a [[father]]: a [[male]] [[parent]]
-#* {{RQ:Man'yōshū|20|4402}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4402 here]
-#*: 知波夜布留 賀美乃美佐賀尓 奴佐麻都里 伊波布伊能知波 意毛'''知々'''我多米
-#* {{RQ:Wamyō Ruijushō|1|115}}
-#*: 父爲考、和名'''知々'''、日本紀私記云加曾
-# {{lb|ja|sort=ちち|Christianity}} [[God]], the [[Holy Father]]
-# {{lb|ja|sort=ちち|figurative}} a [[father]] of something: the [[male]] [[initiator]] or [[founder]] of something
+# [[one#Pronoun|one]]'s [[own]] [[father]] {{gl|[[male]] [[parent]]}}
+#* {{RQ:Wamyō Ruijushō|1|115}}<ref name="WMS">{{R:Wamyō Ruijushō}}</ref>
+#*: {{ux|ja|父　爲考、和名'''知々'''、日本紀私記云加曾|Father: considered in Japanese as '''''chichi'''''; in the ''{{w|Nihon Shoki Shiki}}'' it is pronounced ''kaso''}}
+# {{lb|ja|sort=ちち|by extension|figurative}} a [[father figure]] {{gl|[[male]] [[initiator]] or [[founder]] of something}}
 #: {{ja-usex|近%代%医%学の'''父'''|きん%だい% い%がく の '''ちち'''|the '''father''' of modern medicine}}
+# {{lb|ja|sort=ちち|Christianity}} [[God]], the [[Holy Father]]
+
+=====Usage notes=====
+When describing a family member, only used to reference one's own father; not used as a standalone noun to refer to someone else's father.
 
 ====Derived terms====
-{{der-top}}
-* {{ja-r|父親|ちちおや}}: [[father]] {{q|specifically as someone's [[parent]]}}
-* {{ja-r|父上|ちちうえ}}: {{qualifier|term of respect, primarily used in writing}} [[honourable]] [[father]]
+{{der-top3}}
+* {{ja-r|父上|ちちうえ|[[honourable]] [[father]]|pos=term in respect primarily used in writing}}
+* {{ja-r|父親|ちちおや|father|pos=specifically as someone's [[parent]]}}
+* {{ja-r|父君|ちちぎみ}}
+* {{ja-r|父%御|ちち%ご}}
+* {{ja-r|父者 人|ちちじゃ ひと}}
+* {{ja-r|父%無し子|ちち%なしご|[[fatherless]] [[child]]}}
+* {{ja-r|父母|ちちはは|father and [[mother]], [[both]] [[parent]]s}}
+* {{ja-r|小父|おじ}}
+* {{ja-r|伯父|おじ}}
+* {{ja-r|叔父|おじ}}
+* {{ja-r|親父|おやじ}}
 {{der-bottom}}
 
-=====Usage notes=====
-When describing a family member, only used to reference one's own father. Not used as a standalone noun to refer to someone else's father.
-
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|しし}}
+{{ja-kanjitab|yomi=i|ちち|k1=てて}}
 
-From the eastern dialect of {{inh|ja|ojp|sort=しし|-}}.  Appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.<ref name="KDJ"/><ref name="DJR"/><ref>{{RQ:Manyoshu|20|4376}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4376 here]</ref> Usage is restricted to ancient texts.{{attention|ja|Should be moved to an OJP section of this page, when that is finally created.}}
+Appears in the ''{{w|Utsubo Monogatari}}'' of roughly 970 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-====Pronunciation====
-{{ja-pron|yomi=k|しし}}
+Shift from ''chichi''.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>
 
-====Noun====
-{{ja-noun|しし}}
-
-# father
-#* {{RQ:Man'yōshū|20|4376}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4376 here]
-#*: 多妣由岐尓 由久等之良受弖 阿母'''志々'''尓 己等麻乎佐受弖 伊麻叙久夜之気
-#* {{RQ:Man'yōshū|20|4378}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4378 here]
-#*: 都久比夜波 須具波由気等毛 阿母'''志々'''可 多麻乃須我多波 和須例西奈布母
-
-=====Usage notes=====
-Often found in combination with the term {{m|ja|母|tr=amo||mother}}.
-
-===Etymology 3===
-{{ja-kanjitab|yomi=k|てて}}
-
-Shift from ''chichi''.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>  Appears in the ''{{w|Utsubo Monogatari}}'' of roughly 970 {{CE}}.<ref name="KDJ"/> Usage continued until at least the early 1700s.<ref name="KDJ"/>
+Usage continued until at least the early 1700s.<ref name="KDJ"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|てて}}
@@ -184,12 +169,29 @@ Shift from ''chichi''.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>  App
 ====Noun====
 {{ja-noun|てて}}
 
-# father
+# {{lb|ja|sort=てて|archaic}} [[one#Pronoun|one]]'s [[own]] [[father]]
 #* {{RQ:Nippo Jisho}}, text [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP513#v=onepage&q=Tete here]
 #*: '''Tete'''. {{m|pt|igualmente|I}}, chichi. {{m|pt|pay|Pay}}.
 
-===Etymology 4===
-Originally a shift from ''chichi'' or ''tete'' in [[baby talk]], used by children to refer to their own father.  Appears in the ''{{w|Nippo Jisho}}'' of 1603.<ref name="KDJ"/> Still in modern usage.
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|ててうちぐり}}
+* {{ja-r|父%打ち母%打ち|てて%うち はは%うち}}
+* {{ja-r|父君|ててぎみ}}
+* {{ja-r|父%御|てて%ご}}
+* {{ja-r|父者 人|ててじゃ ひと}}
+* {{ja-r|父%無し金|てて%なしがね}}
+* {{ja-r|父%無し子|てて%なしご}}
+* {{ja-r|大父|おおてて}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=i|とと}}
+Appears in the ''{{w|Nippo Jisho}}'' of 1603.<ref name="KDJ"/>
+
+Originally a shift from ''chichi'' or ''tete'' in [[baby talk]], used by children to refer to their own father.
+
+Still in modern usage.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|とと|acc=1|acc_ref=DJR}}
@@ -197,18 +199,24 @@ Originally a shift from ''chichi'' or ''tete'' in [[baby talk]], used by childre
 ====Noun====
 {{ja-noun|とと}}
 
-# a childish term for one's father: [[daddy]]
+# {{lb|ja|sort=とと|childish}} [[one#Pronoun|one]]'s [[own]] [[father]]: [[daddy]]
 #* {{RQ:Nippo Jisho}}, text [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP530#v=onepage&q&f=false here], second from bottom on the right
 #*: '''Toto'''. {{m|pt|[[pay|Pay]]. [[he|He]] [[palavra|palaura]] [[de]] [[que|q̃]] [[usado|uſao]] [[os]] [[mininos]]}}.
-# {{q|by later extension}} [[husband]], [[master]] of the [[house]]
+#: {{ant|ja|母|tr=kaka}}
+# {{lb|ja|by later extension}} a [[husband]], [[master]] of the [[house]]
 
-=====Usage notes=====
-This ''toto'' form became the basis of the modern term {{m|ja|お父さん|tr=otōsan}}.
+=====Derived terms=====
+* {{ja-r|父さん|とうさん}}
+** {{ja-r|お父さん|おとうさん}}
 
-===Etymology 5===
-{{ja-kanjitab|yomi=k|ちゃん}}
+===Etymology 4===
+{{ja-kanjitab|yomi=i|ちゃん}}
+{{IPAchar|/totosan/}} → {{IPAchar|/totːɕan/}} → {{IPAchar|/t͡ɕan/}}
 
-Likely a [[contraction]] of {{m|ja|父さん|tr=toto-san}}: {{IPAchar|/totosan/}} → {{IPAchar|/totːɕan/}} → {{IPAchar|/t͡ɕan/}}
+Likely a [[contraction]] of {{m|ja|父さん|tr=toto-san}}.
+
+====Alternative forms====
+* {{ja-l|爺}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ちゃん|acc=1|acc_ref=DJR,SMK5}}
@@ -216,48 +224,85 @@ Likely a [[contraction]] of {{m|ja|父さん|tr=toto-san}}: {{IPAchar|/totosan/}
 ====Noun====
 {{ja-noun|ちゃん}}
 
-# {{lb|ja|sort=ちゃん|informal|possibly|_|dialect}} [[father]]
+# {{lb|ja|sort=ちやん|informal|possibly|_|dialect}} [[one#Pronoun|one]]'s [[own]] [[father]] {{defdate|from {{w|Edo perod|Edo}} to early-{{w|Meiji period}}}}
+# {{lb|ja|by later extension}} the [[head]] or [[master]] of an [[establishment]] such as a [[teahouse]], [[boathouse]], etc.
+
+===Etymology 5===
+{{ja-kanjitab|yomi=goon|ふ}}
+
+The “[[father]]” and “[[uncle]]” affixes is from {{der|ja|ltc|sort=ふ|-}} {{ltc-l|父|id=1}}.
+
+The “[[old]] [[man]]” affix is from {{der|ja|ltc|sort=ふ|-}} {{ltc-l|父|id=2}}.
+
+====Affix====
+{{ja-pos|affix|ふ}}
+
+# [[father]]
+# [[father figure]]
+# [[uncle]]
+# [[old]] [[man]], [[elderly]] man
+
+====Derived terms====
+{{der-top5}}
+* {{ja-r|父君|ふくん|[[honourable]] [[father]]}}
+* {{ja-r|父%系|ふ%けい}}
+* {{ja-r|父子|ふし}}
+* {{ja-r|父母|ふぼ}}
+* {{ja-r|父老|ふろう}}
+* {{ja-r|亜父|あふ}}
+* {{ja-r|岳%父|がく%ふ}}
+* {{ja-r|義父|ぎふ}}
+* {{ja-r|教父|きょうふ}}
+* {{ja-r|漁父|ぎょふ}}
+* {{ja-r|君父|くんぷ}}
+* {{ja-r|厳父|げんぷ}}
+* {{ja-r|国%父|こく%ふ}}
+* {{ja-r|慈父|じふ}}
+* {{ja-r|叔%父|しゅく%ふ}}
+* {{ja-r|諸父|しょふ}}
+* {{ja-r|神父|しんぷ}}
+* {{ja-r|実父|じっぷ}}
+* {{ja-r|祖父|そふ}}
+* {{ja-r|尊父|そんぷ}}
+* {{ja-r|代%父|だい%ふ}}
+* {{ja-r|伯%父|はく%ふ}}
+* {{ja-r|亡父|ぼうふ}}
+{{der-bottom}}
 
 ===Etymology 6===
-{{ja-kanjitab|yomi=k|ち}}
+{{ja-kanjitab|yomi=kanyo|ほ}}
 
-From {{inh|ja|ojp|sort=ち|-}}. Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS"/>  Not found in isolation outside of ancient texts.
+From a [[corruption]] of {{der|ja|ltc|sort=ふ|-}} {{ltc-l|父|id=2}}.
 
-====Pronunciation====
-{{ja-pron|yomi=k|ち}}
+====Affix====
+{{ja-pos|affix|ほ}}
 
-====Noun====
-{{ja-noun|ち}}
+# {{lb|ja|sort=ほ|honorific}} [[old]] [[man]]
 
-# {{n-g|term of [[respect]] for [[male]]s}}
-
-=====Usage notes=====
-Appears as a component of various compounds referring to male family members, often with [[rendaku]], such as {{m|ja|叔父|tr=oji||uncle}}, {{m|ja|親父|tr=oyaji||father; old man, pops}}.
+=====Derived terms=====
+* {{ja-r|尼父|^じほ}}
 
 ===Etymology 7===
-{{ja-kanjitab|yomi=k|かそ}}
+{{ja-kanjitab|yomi=i|かそ}}
 
-{{IPAfont|⟨kaso<small>2</small>⟩}}: *{{IPAchar|/kasə/}} → {{IPAchar|/kaso/}} → {{IPAchar|/kazo/}}
+{{IPAfont|⟨kaso<sub>2</sub>⟩}} → {{IPAchar|/kasə/}} → {{IPAchar|/kaso/}} → {{IPAchar|/kazo/}}
 
-From {{inh|ja|ojp|sort=かぞ|-}}.  Appears in the ''{{w|Nihon Shoki}}'' of 720 {{CE}} as unvoiced ''kaso'',<ref name="KDJ"/><ref name="DJR"/> Further derivation unknown.<ref name="KDJ"/>
-
-Often found together with {{m|ja|母|tr=iroha||mother}} in the phrase ''kazo iroha''.<ref name="KDJ"/>
+From {{inh|ja|ojp|sort=かぞ|-}}. Appears in the ''{{w|Nihon Shoki}}'' of 720 {{CE}} as unvoiced ''kaso'',<ref name="DJR"/><ref name="KDJ"/> Further derivation unknown.<ref name="KDJ"/>
 
 May have fallen out of use by 1603, when neither ''kaso'' nor ''kazo'' are found in the ''{{w|Nippo Jisho}}''.  ''Kaso'' would be [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP94#v=onepage&q&f=false here] as the sixth entry from the bottom on the left, and ''kazo'' would be [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP102#v=onepage&q&f=false here] as the eighth from the bottom on the right.
-
-====Pronunciation====
-{{ja-pron|yomi=k|かぞ}}
 
 ====Noun====
 {{ja-noun|かぞ}}
 
-# [[father]]
-#* {{RQ:Wamyō Ruijushō|1|115}}
-#*: 父爲考、和名知々、日本紀私記云'''加曾'''
+# {{lb|ja|sort=かそ|obsolete}} [[one#Pronoun|one]]'s [[own]] [[father]]
+#* {{RQ:Wamyō Ruijushō|1|115}}<ref name="WMS"/>
+#*: {{ux|ja|父　爲考、和名知々、日本紀私記云'''加曾'''|Father: considered in Japanese as ''chichi''; in the ''{{w|Nihon Shoki Shiki}}'' it is pronounced '''''kaso'''''}}
+
+=====Derived terms=====
+* {{ja-r|父 母|かぞ いろは}}
 
 ===References===
 <references/>
-:* {{R:Wamyō Ruijushō}}
 
 [[Category:Japanese basic words|ちち]]
 [[Category:ja:Family|ちち]]
@@ -270,6 +315,78 @@ May have fallen out of use by 1603, when neither ''kaso'' nor ''kazo'' are found
 {{ko-hanja|hangeul=[[부]], [[보]]|rv=bu, bo|mr=pu, po|y=pu, po|eumhun=[[아비]], [[자]]|ehrv=abi, ja|ehmr=abi, cha|ehy=api, ca}}
 
 # {{defn|lang=ko|sort=父00}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+[[reduplication|Reduplication]] of ''ti'' below.<ref>{{R:Daijirin}}</ref>
+
+====Noun====
+{{head|ojp|noun|tr=titi|kana|ちち|sort=ちち}}
+
+# [[one#Pronoun|one]]'s [[own]] [[father]]
+#* {{RQ:Manyoshu|13|3312}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3312 here]
+#*: {{ux|ojp|...奥床仁母者睡有外床丹'''父'''者寐有...|tr=...okuto<sub>2</sub>ko<sub>2</sub> ni papa pa inetari to<sub>1</sub>do<sub>2</sub>ko<sub>2</sub> ni '''titi''' pa inetari...}}
+#: {{ant|ojp|母|tr=omo, papa}}
+
+=====Derived terms=====
+* {{m|ojp|父母|tr=titipapa}}
+* {{m|ojp|母父|tr=omotiti}}
+
+=====Descendants=====
+* {{desc|ja|父|tr=chichi, tete, toto}}
+
+===Etymology 2===
+Eastern dialect of ''titi'' above.
+
+====Noun====
+{{head|ojp|noun|tr=sisi|kana|しし}}
+
+# {{lb|ojp|sort=しし|regional|Northern Eastern {{cog|ojp|-}}}} [[one#Pronoun|one]]'s [[own]] [[father]] 
+#: {{ant|ojp|母|tr=amo}}
+
+=====Derived terms=====
+* {{m|ojp|母父|tr=amosisi||[[mother]] and father}}
+
+===Etymology 3===
+From {{inh|ojp|jpx-pro|*ti}}.
+
+====Noun====
+{{head|ojp|noun|tr=ti|kana|ち}}
+
+# {{lb|ojp|sort=ち|honorific}} {{n-g|a term of [[respect]] for [[male]]s}}
+#* {{RQ:Kojiki|poem 48}}
+#*: {{ux|ojp|加志能布邇余久須袁都久理余久須邇迦美斯意富美岐宇麻良爾岐許志母知袁勢麻呂賀'''知'''|tr=kasi no<sub>2</sub> pu ni yo<sub>2</sub>kusu wo tukuri yo<sub>2</sub>kusu ni kami<sub>1</sub>si opomi<sub>1</sub>ki<sub>1</sub> umara ni ki<sub>1</sub>ko<sub>2</sub>simo<sub>2</sub>tiwose maro<sub>2</sub> ga '''ti'''}}
+#*: '''Note:''' Poem 39 of the ''{{w|Nihon Shoki}}'' is the same but replaces {{m|ojp||迦美斯|tr=kami<sub>1</sub>si}} with {{m|ojp|醸む|伽綿蘆|tr=kame<sub>1</sub>ru}}
+
+=====Derived terms=====
+{{der-top}}
+* {{m|ojp||父|tr=titi|[[father]]|pos=see above}}
+* {{m|ojp|祖父|tr=opodi|[[grandfather]]}}
+* {{m|ojp|小父|tr=wodi}}
+** {{m|ojp|伯父|tr=wodi||[[older]] [[uncle]]}}
+** {{m|ojp|叔父|tr=wodi||[[younger]] uncle}}
+** {{m|ojp|爺|tr=wodi||[[old]] [[man]]}}
+{{der-bottom}}
+
+===Etymology 4===
+Unknown.<ref>{{R:Kokugo Dai Jiten}}</ref>
+
+====Noun====
+{{head|ojp|noun|tr=kaso<sub>2</sub>|kana|かそ}}
+
+# [[one#Pronoun|one]]'s [[own]] [[father]]
+#* {{RQ:Nihon Shoki|{{w|Emperor Ninken}}, entry 11: sixth year, ninth month in autumn}}
+#*: {{ux|ojp|菱城邑人鹿父〈鹿父、人名也。俗、呼父為'''柯曾'''〉聞而向前曰「何哭之哀甚、若此乎」。|A man of {{smallcaps|Pisikï}} village, {{smallcaps|Kakasö}} (his name is {{smallcaps|Kakasö}}; it was customary to call '''one's father''' '''''kasö''''') heard [the woman's] cries, turned to her{{,}} and asked, “Why these cries of grief, young one?”}}
+#: {{ant|ojp|母|tr=iro<sub>2</sub>pa}}
+
+====Descendants====
+* {{desc|ja|父|tr=kazo}}
+
+===References===
+<references/>
 
 ----
 
