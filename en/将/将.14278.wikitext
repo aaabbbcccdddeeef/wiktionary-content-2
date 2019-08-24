@@ -64,100 +64,152 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=寸07|kyu=將}}
 
-# [[commander]], [[leader]], [[general]]
-
 ====Readings====
+From {{ltc-l|將|id=1|[[just]] [[now]]; [[also]], [[half]]... half..., [[or]]; [[take]], [[hold]]; etc.}}:
 {{ja-readings
 |goon=そう<さう
 |kanon=しょう<しやう
-|kun=ひき-いる, もっ-て, はた-, まさ-に
+|kun=はた-, まさ-に, もっ-て
+}}
+From {{ltc-l|將|id=2|[[command]], [[lead]]; [[commander]], [[general]]; [[high]]-[[rank#Verb|ranking]] [[military]] [[officer]]}}:
+{{ja-readings
+|goon=そう<さう
+|kanon=しょう<しやう
+|kun=ひき-いる<ひき-ゐる
+}}
+''{{ll|ja|名乗り|Nanori}}'' readings:
+{{ja-readings
+|nanori=すけ, すすむ, たすく, ただし, たもつ, のぶ, ひとし, まさ, もち, ゆき
 }}
 
 ====Compounds====
-{{der-top3|Compounds}}
 * {{ja-r|女将|おかみ}}
 * {{ja-r|将又|はたまた}}
-{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|しょう|yomi=kanon}}
+{{IPAchar|/sɨau/}} → {{IPAchar|/sʲɔː/}} → {{IPAchar|/sʲoː/}}
 
-From {{der|ja|ltc|-|sort=しょう}} {{ltc-l|將}}.
+The “[[commander]]”, and “[[general]], other [[high]]-[[rank#Verb|ranking]] [[officer]]”‎ senses are from {{der|ja|ltc|-|sort=しよう}} {{ltc-l|將|id=2}}.
+
+The “[[take]], [[hold]]” and “[[from now on]]” affixes are from {{der|ja|ltc|-|sort=しょう}} {{ltc-l|將|id=1}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=ko|しょう|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|y=ko|しょう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|しょう|hhira=しやう|kyu=將}}
+{{ja-noun|kyu=將|しょう|hhira=しやう}}
 
-# a [[general]], [[commander]]
+# a [[commander]]
+#: {{syn|ja|将帥|tr=shōsui}}
+# a [[general]], [[admiral]]{{,}} or other [[high]]-[[rank#Verb|ranking]] [[officer]]
+# {{lb|ja|sort=しよう|historical}} a [[rank]] in the {{m|ja|近衛府|tr=Konoe-fu||[[office]] of the [[imperial]] [[guard]] during the [[Nara]] [[period]]}}
+
+=====Derived terms=====
+* {{ja-r|大将|たいしょう}}, {{ja-r|大将|だいしょう}}
+* {{ja-r|中将|ちゅうじょう}}
+* {{ja-r|少将|しょうしょう}}
+
+====Affix====
+{{ja-pos|affix|kyu=將|しょう|hhira=しやう}}
+
+# [[commander]], [[general]], [[leader]]
+# [[military]] [[rank]]
+# [[take]], [[hold]]
+# [[from now on]], [[in the future]]
+
+=====Usage notes=====
+The “[[take]], [[hold]]” and “[[from now on]]” senses are both used in the term {{m|ja|将来|tr=shōrai||[[future]]; [[from now on]]}}.
 
 =====Derived terms=====
 {{der-top4}}
-* {{ja-r|将%家|しょう%か}}
-* {{ja-r|将%官|しょう%かん}}
-* {{ja-r|将%棋|しょう%ぎ|[[shogi]]}}
-* {{ja-r|将%軍|しょう%ぐん|[[shogun]]}}
-* {{ja-r|将%校|しょう%こう|commissioned [[officer]]}}
-* {{ja-r|将%帥|しょう%すい|[[commander]]}}
-* {{ja-r|将%星|しょう%せい|commander}}
-* {{ja-r|将%卒|しょう%そつ|[[officers]] and [[soldiers]]}}
-* {{ja-r|将%兵|しょう%へい}}
-* {{ja-r|将%門|しょう%もん}}
-* {{ja-r|将%来|しょう%らい}}
-* {{ja-r|一%将|いっ%しょう}}
-* {{ja-r|王%将|おう%しょう}}
-* {{ja-r|海%将|かい%しょう}}
-* {{ja-r|強%将|きょう%しょう}}
-* {{ja-r|玉%将|ぎょく%しょう}}
-* {{ja-r|空%将|くう%しょう}}
-* {{ja-r|宿%将|しゅく%しょう}}
-* {{ja-r|主%将|しゅ%しょう|([[team]]) [[captain]]; [[commander in chief]] ([[national]] [[force]]s}}
-* {{ja-r|准%将|じゅん%しょう}}
-* {{ja-r|女%将|じょ%しょう}}, {{ja-r|女%将|にょ%しょう}}
-* {{ja-r|少%将|しょう%しょう}}
-* {{ja-r|城%将|じょう%しょう}}
-* {{ja-r|神%将|じん%しょう}}, {{ja-r|神%将|しん%しょう}}
-* {{ja-r|大%将|たい%しょう|[[general]]}}
-* {{ja-r|代%将|だい%しょう}}
-* {{ja-r|知%将|ち%しょう|rom=-}}, {{ja-r|智%将|ち%しょう}}
-* {{ja-r|中%将|ちゅう%じょう}}
-* {{ja-r|敵%将|てき%しょう}}
-* {{ja-r|敗%将|はい%しょう}}
-* {{ja-r|叛%将|はん%しょう}}
-* {{ja-r|部%将|ぶ%しょう}}
-* {{ja-r|武%将|ぶ%しょう}}
-* {{ja-r|副%将|ふく%しょう}}
-* {{ja-r|謀%将|ぼう%しょう}}
-* {{ja-r|名%将|めい%しょう}}
-* {{ja-r|猛%将|もう%しょう}}
-* {{ja-r|勇%将|ゆう%しょう}}
-* {{ja-r|良%将|りょう%しょう}}
+* {{ja-r|将家|しょうか}}
+* {{ja-r|将官|しょうかん}}
+* {{ja-r|将棋|しょうぎ|[[shogi]]}}
+* {{ja-r|将軍|しょうぐん|[[shogun]]}}
+* {{ja-r|将校|しょうこう}}
+* {{ja-r|将帥|しょうすい|[[commander]]}}
+* {{ja-r|将星|しょうせい}}
+* {{ja-r|将卒|しょうそつ|[[officers]] and [[soldiers]]}}
+* {{ja-r|将兵|しょうへい}}
+* {{ja-r|将門|しょうもん}}
+* {{ja-r|将来|しょうらい}}
+* {{ja-r|一将|いっしょう}}
+* {{ja-r|王将|おうしょう}}
+* {{ja-r|海将|かいしょう}}
+* {{ja-r|強将|きょうしょう}}
+* {{ja-r|玉将|ぎょくしょう}}
+* {{ja-r|空将|くうしょう}}
+* {{ja-r|宿将|しゅくしょう}}
+* {{ja-r|主将|しゅしょう}}
+* {{ja-r|准将|じゅんしょう}}
+* {{ja-r|女将|じょしょう}}
+* {{ja-r|城将|じょうしょう}}
+* {{ja-r|神将|しんしょう}}
+* {{ja-r|神将|じんしょう}}
+* {{ja-r|代将|だいしょう}}
+* {{ja-r|知将|ちしょう|rom=-}}, {{ja-r|智将|ちしょう}}
+* {{ja-r|敵将|てきしょう}}
+* {{ja-r|女将|にょしょう}}
+* {{ja-r|敗将|はいしょう}}
+* {{ja-r|叛将|はんしょう}}
+* {{ja-r|部将|ぶしょう}}
+* {{ja-r|武将|ぶしょう}}
+* {{ja-r|副将|ふくしょう}}
+* {{ja-r|謀将|ぼうしょう}}
+* {{ja-r|名将|めいしょう}}
+* {{ja-r|猛将|もうしょう}}
+* {{ja-r|勇将|ゆうしょう}}
+* {{ja-r|良将|りょうしょう}}
 {{der-bottom}}
 
 ====Proper noun====
-{{ja-pos|proper|しょう|hhira=しやう|kyu=將}}
+{{ja-pos|proper|kyu=將|しょう|hhira=しやう}}
 
-# {{given name|male|lang=ja|sort=しょう}}
+# {{given name|female|lang=ja|A=a|sort=しよう}}
 
 ===Etymology 2===
-{{ja-kanjitab|まさ|o1=る|yomi=k}}
-
-====Proper noun====
-{{ja-pos|proper|まさる|kyu=將}}
-
-# {{given name|male|lang=ja|sort=まさる}}
+{{ja-kanjitab|はた|yomi=k}}
+{{ja-see|はた}}
 
 ===Etymology 3===
-{{ja-kanjitab|はた|yomi=k}}
+{{ja-kanjitab|yomi=n}}
+
+Nominalization of verb {{m|ja|進む|tr=susumu||to [[advance]], [[go]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|はた|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|y=i|すすむ|acc=0}}
 
-====Adverb====
-{{ja-pos|adverb|はた|kyu=將}}
+====Proper noun====
+{{ja-pos|proper|kyu=將|すすむ}}
 
-# [[also]]
+# {{given name|male|lang=ja|A=a}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=n}}
+
+Nominalization of verb {{m|ja|勝る|tr=masaru||to [[excel]], [[rival#Verb|rival]], [[surpass]]}}.
+
+====Pronunciation====
+{{ja-pron|y=i|まさる|acc=2|acc2=0}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=將|まさる}}
+
+# {{given name|male|lang=ja|A=a|sort=まさる}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=n}}
+
+Nominalization of classical adjective {{m|ja|等し|tr=hitoshi}}, modern {{m|ja|等しい|tr=hitoshii||[[equal]]}}.
+
+====Pronunciation====
+{{ja-pron|y=i|ひとし|acc=3}}
+
+====Proper noun====
+{{ja-pos|proper|kyu=將|ひとし}}
+
+# {{given name|male|lang=ja|A=a}}
 
 ===References===
 <references/>
