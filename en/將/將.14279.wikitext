@@ -147,6 +147,9 @@ A conflation of two roots: “to take; to hold” and “will; be going to; near
 ====Compounds====
 {{zh-der|fold=1|將伯|將伯之助|將將}}
 
+===Descendants===
+{{CJKV||しょう|장|tướng}}
+
 {{zh-cat|Elementary}}
 
 ----
@@ -157,21 +160,38 @@ A conflation of two roots: “to take; to hold” and “will; be going to; near
 ===Kanji===
 {{ja-kanji|grade=|rs=寸08|shin=将}}
 
-# [[commander]]
-# [[general]], [[admiral]]
+# {{ja-kyujitai spelling of|将}}
 
 ====Readings====
+From {{ltc-l|將|id=1|[[just]] [[now]]; [[also]], [[half]]... half..., [[or]]; [[take]], [[hold]]; etc.}}:
 {{ja-readings
 |goon=そう<さう
 |kanon=しょう<しやう
-|kun=ひきい-る<ひきゐ-る, もっ-て, はた-, まさ-に
-|nanori=すすむ, まさし, まさる
+|kun=はた-, まさ-に, もっ-て
+}}
+From {{ltc-l|將|id=2|[[command]], [[lead]]; [[commander]], [[general]]; [[high]]-[[rank#Verb|ranking]] [[military]] [[officer]]}}:
+{{ja-readings
+|goon=そう<さう
+|kanon=しょう<しやう
+|kun=ひき-いる<ひき-ゐる
+}}
+''{{ll|ja|名乗り|Nanori}}'' readings:
+{{ja-readings
+|nanori=すけ, すすむ, たすく, ただし, たもつ, のぶ, ひとし, まさ, もち, ゆき
 }}
 
-===Proper noun===
-{{ja-pos|proper|まさる|shin=将}}
+===Etymology===
+{{ja-kanjitab|yomi=n}}
 
-# {{given name|male|lang=ja|sort=まさる}}
+Nominalization of verb {{m|ja|勝る|tr=masaru||to [[excel]], [[rival#Verb|rival]], [[surpass]]}}.
+
+===Pronunciation===
+{{ja-pron|y=i|まさる|acc=2|acc2=0}}
+
+===Proper noun===
+{{ja-pos|proper|kyu=將|まさる}}
+
+# {{given name|male|lang=ja|A=a|sort=まさる}}
 
 ----
 
@@ -182,27 +202,52 @@ A conflation of two roots: “to take; to hold” and “will; be going to; near
 
 # {{defn|lang=ko|sort=寸08}}
 
-* [[將校]]/[[장교]]
-* [[將軍]]/[[장군]]
-* [[將棋]]/[[장기]]
-* [[將來]]/[[장래]]
-* [[將兵]]/[[장병]]
-* [[禁府羅將]]/[[금부나장]]
-* [[老將]]/[[노장]]
-* [[突擊將]]/[[돌격장]]
-* [[名將]]/[[명장]]
-* [[武將之卒]]/[[무장지졸]]
-* [[裨將]]/[[비장]]
-* [[少將]]/[[소장]]
-* [[守門將]]/[[수문장]]
-* [[倭將]]/[[왜장]]
-* [[王侯將相]]/[[왕후장상]]
-* [[日就月將]]/[[일취월장]]
-* [[敵將]]/[[적장]]
-* [[主將]]/[[주장]]
-* [[鎭營將]]/[[진영장]]
-* [[牌將]]/[[패장]]
-* [[敗軍之將]]/[[패군지장]]
+====Compounds====
+{{der-top4|Compounds}}
+* {{ko-l|장교|將校}}
+* {{ko-l|장군|將軍}}
+* {{ko-l|장기|將棋}}
+* {{ko-l|장래|將來}}
+* {{ko-l|장병|將兵}}
+* {{ko-l|노장|老將}}
+* {{ko-l|명장|名將}}
+* {{ko-l|비장|裨將}}
+* {{ko-l|소장|少將}}
+* {{ko-l|왜장|倭將}}
+* {{ko-l|적장|敵將}}
+* {{ko-l|주장|主將}}
+* {{ko-l|패장|牌將}}
+* {{ko-l|수문장|守門將}}
+* {{ko-l|돌격장|突擊將}}
+* {{ko-l|진영장|鎭營將}}
+* {{ko-l|무장지졸|武將之卒}}
+* {{ko-l|왕후장상|王侯將相}}
+* {{ko-l|일취월장|日就月將}}
+* {{ko-l|패군지장|敗軍之將}}
+* {{ko-l|금부나장|禁府羅將}}
+{{der-bottom}}
+
+----
+
+==Old Japanese==
+
+===Alternative forms===
+* {{l|ojp|當}}
+
+===Etymology===
+From {{inh|ojp|jpx-pro|*pata}}.
+
+===Adverb===
+{{head|ojp|adverb|tr=pata|kana|はた|sort=はた}}
+
+# [[by chance]]
+# [[also]]
+
+====Derived terms====
+* {{m|ojp|將や|tr=pata ya}}
+
+====Descendants====
+* {{desc|ja|はた|tr=hata}}
 
 ----
 
@@ -211,4 +256,4 @@ A conflation of two roots: “to take; to hold” and “will; be going to; near
 ===Han character===
 {{vi-hantu|[[tướng]], [[tương]]|rs=寸08}}
 
-# (xiangqi) a piece labeled with the character 將 (black)
+# {{lb|vi|Chinese chess}} a [[piece]] [[label]]ed with the [[character]] {{m|zh|將}} in [[black]]
