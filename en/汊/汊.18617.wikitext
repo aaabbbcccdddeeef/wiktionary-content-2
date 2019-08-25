@@ -4,13 +4,13 @@
 ===Han character===
 {{Han char|rn=85|rad=水|as=03|sn=6|four=37140|canj=EEI|ids=⿰氵叉}}
 
-====References====
-* {{Han ref|kx=0604.100|dkj=17115|dj=0998.050|hdz=31556.040|uh=6C4A|ud=27722|bh=C9FC|bd=51708}}
+===Further reading===
+{{Han ref|kx=0604.100|dkj=17115|dj=0998.050|hdz=31556.040|uh=6C4A}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=叉-second round simplified}}
+{{zh-forms|alt=叉-second round simplified,㲼,⿰氵义}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -29,7 +29,7 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# a [[branch]]ing [[stream]]
+# a [[branch#Verb|branch]]ing [[stream]]
 
 ===Compounds===
 {{zh-der|水汊|汊子|河汊子|港汊|汊流|汊港|汈汊|汊河}}
@@ -44,16 +44,25 @@
 # {{defn|lang=ja|sort=水03}}
 
 ====Readings====
-* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=}}
+{{ja-readings
+|on=さ, しゃ
+|kun=
+}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|차}}
+===Etymology===
+From {{der|ko|ltc|sort=차|-}} {{ltc-l|汊}}. {{hanja-hunmong|차|cha|地理#상05A}}
 
-# {{defn|lang=ko|sort=水03}}
+===Hanja===
+{{ko-hanja|[[물]] [[갈래]][[짓다|지을]]|차}}
+
+# {{hanja form of|차|[[branch#Verb|branch]]ing of [[water]]}}
+
+===References===
+* {{R:hanjadoc|5804}}
 
 ----
 
@@ -61,7 +70,13 @@
 
 ===Han character===
 {{vi-readings|rs=水03
-|hanviet=xoà, xá
+|hanviet=xá-gdhn
+|phienthiet=楚嫁 sở giá
+|nom=xoà-gdhn;genibrel
 }}
 
-# {{defn|lang=vi|sort=水03}}
+# {{han tu form of|xá|a [[branch#Verb|branch]]ing [[stream]]}}
+# {{Nom form of|[[xòa]]/[[xoà]]|to [[spread out]]}}
+
+===References===
+<references/>
