@@ -4,16 +4,20 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=05|sn=8|four=46110|canj=GAM|ids=⿰土旦}}
 
-====References====
-* {{Han ref|kx=0226.180|dkj=04971|dj=0461.300|hdz=10431.030|uh=5766|ud=22374|bh=A95A|bd=43354}}
+====Derived characters====
+* {{l|mul|[[𢯟]], [[𥂯]]}}
+
+===Further reading===
+{{Han ref|kx=0226.180|dkj=04971|dj=0461.300|hdz=10431.030|uh=5766}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=憻}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|旦|c1=s|c2=p|t1=earth|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -32,11 +36,21 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# [[flat]], [[smooth]]
-#: {{zh-l|平坦|level}}
-# [[self-possessed]]
-#: {{zh-l|坦然|calm}}
-# [[honest]], [[frank]]
+# [[flat]]; [[level#Adjective|level]]; [[wide]]
+#: {{zh-x|平坦|level}}
+# {{zh-no-solo}} [[calm]]; [[open-hearted]]; [[at ease]]
+#: {{zh-x|坦然|calm}}
+#* {{zh-x|子 曰：「君子 坦 蕩蕩，小人 長 戚戚。」|ref=Analects}}
+# [[honest]]; [[frank#Adjective|frank]]
+#: {{zh-x|坦白|honest; candid}}
+#: {{zh-syn|直率}}
+# {{†}} to [[reveal]]; to [[expose]]
+#* {{zh-x|坦 腹 江 亭 暖，長 吟 野 望 時。||CL|ref={{w2|zh|杜甫}} ([[w:Du Fu|''Du Fu'']]) {{w2|zh|pref=《|s:江亭 (杜甫)|江亭|suf=》}}}}
+# {{n-g|Used in the transliteration of foreign words.}}
+#: {{zh-x|坦克|tank (armored fighting vehicle)}}
+#: {{zh-x|^坦尚尼亞|Tanzania}}
+#: {{zh-x|^巴基斯坦|Pakistan}}
+# {{surname|zh}}
 
 ===Compounds===
 {{zh-der|不舒坦|令坦|伊斯坦堡|伯恩斯坦|佩斯坦|反坦克炮|坦克|坦克兵|坦克車|坦坦|坦坦蕩蕩|坦塗|坦夷|坦尚尼亞|坦平|坦懷|坦承|坦易|坦然|坦率|坦白|坦直|坦緩|坦腹|坦腹東床|坦蕩|坦蕩蕩|坦言|坦誠|坦迤|坦途|坦露|巴力斯坦|巴勒斯坦|巴基斯坦|平坦|平坦大路|平坦寬闊|愛因斯坦|斯坦因|斯坦貝克|曼哈坦島|東坦蕭然|東床坦腹|波茨坦|泰坦族|興都斯坦|舒坦|襟懷坦白|小坦山}}
@@ -48,49 +62,97 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=土05}}
 
-# {{defn|lang=ja|sort=土05}}
+# [[flat]]; [[level#Adjective|level]]; [[even#Adjective|even]]
 
 ====Readings====
 {{ja-readings
 |goon=たん
 |kanon=たん
-|kun=たい-ら}}
+|kun=たい-ら
+}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|坦懐|たんかい}}
+* {{ja-r|坦坦|たんたん|rom=-}}, {{ja-r|坦々|たんたん}}
+{{der-bottom}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=탄}}
+===Etymology===
+From {{der|ko|ltc|sort=탄|-}} {{ltc-l|坦}}.
 
-# {{defn|lang=ko|sort=土05}}
+===Hanja===
+{{ko-hanja|평평하다|평평할|탄}}
+
+# {{hanja form of|탄|[[flat]]; [[level#Adjective|level]]; [[even#Adjective|even]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|탄도|坦道}}
+* {{ko-l|탄회|坦懷}}
+* {{ko-l|순탄|順坦}}
+* {{ko-l|평탄|平坦}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|1746}}
 
 ----
 
 ==Vietnamese==
 
-===Alternative forms===
-* {{l|vi|[[𡐙]],[[待]]}}
-
 ===Han character===
 {{vi-readings|rs=坦00
-|hanviet=thản-Thiều Chửu (1942); gdhn; Trần Văn Chánh (1999)
-|phienthiet=
-|nom=đất-tdcndg; tdcntd
+|hanviet=thản-tdcndg;tdcntd;gdhn;bonet;genibrel, thán-genibrel
+|phienthiet=儻旱 thảng hạn
+|nom=đứt-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, đất-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, đắt-tdcntd;gdhn;btcn;bonet;genibrel;taberd, thản-tdcntd;btcn;bonet, đác-tdcndg, đởn-tdcndg, thán-tdcndg, đắn-tdcntd, đật-gdhn, ngẩn-gdhn, thưỡn-gdhn
 }}
 
-====Sino-Vietnamese compounds====
-* {{l|vi|坦然|tr=[[thản nhiên]]}}
-* {{l|vi|平坦|tr=[[bình thản]]}}
+===Etymology 1===
+From {{der|vi|ltc|-}} {{ltc-l|坦}}.
 
-====Nôm compounds====
-* {{l|vi|動坦|tr=[[động đất]]}}
-* {{l|vi|𣛤坦|tr=[[Trái Đất]]}}
-* {{l|vi|坦墆|tr=[[đất đai]]}}
+====Affix====
+{{vi-pos|affix|sc=Hani|thản|rs=坦00}}
 
-====Usage notes====
-# {{han tu form of|thản|[[flat]], [[smooth]], [[self-possessed]]}}
-# Chữ Nôm. The modern Vietnamese equivalent is [[đất]].
+# {{han tu form of|thản|[[flat]]; [[level#Adjective|level]]; [[wide]]}}
+# {{han tu form of|thản|[[calm]]; [[pleasant]]}}
 
-====References====
-* [http://www.chunom.org/pages/坦 www.chunom.org]
+=====Derived terms=====
+{{der-top3}}
+* {{vi-l|坦然|thản nhiên}}
+* {{vi-l|平坦|bình thản}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Glyph origin====
+{{Han compound|土#Vietnamese|旦#Vietnamese|c1=s|c2=p|t1=earth|tr2={{vi-l|đán}}|ls=psc|no_och=1}}
+
+====Noun====
+{{vi-noun|sc=Hani|đất|rs=坦00}}
+
+# {{Nom form of|đất|[[earth]]; [[soil]]; [[dirt]]}}
+# {{Nom form of|đất|[[land]]}}
+
+=====Alternative forms=====
+* {{alter|vi|{{vi-l|𡐙|đất}}}}<ref name=gdhn>{{vi-ref|Trần (2004).}}</ref>, {{alter|vi|{{vi-l|待|đất}}}}<ref name=gdhn/>
+
+=====Derived terms=====
+{{der-top3}}
+* {{vi-l|坦墆|đất đai}}
+* {{vi-l|動坦|động đất}}
+* {{vi-l|𣛤坦|Trái Đất}}
+{{der-bottom}}
+
+===Etymology 3===
+
+====Verb====
+{{vi-verb|sc=Hani|đứt|rs=坦00}}
+
+# {{Nom form of|đứt|to [[break off]]; to be [[cut off]]}}
+
+===References===
+<references/>
