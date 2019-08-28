@@ -2,22 +2,27 @@
 {{character info/new}}
 ==Translingual==
 
-===Glyph origin===
-{{Han etym}}
-{{Han compound|陏|土|c1=p|c2=s|ls=psc}}.
-
-{{Han simp|墮|f=工|t=&nbsp;}}
-
 ===Han character===
-{{Han char|rn=32|rad=土|as=09|sn=12|four=|canj=NBG,XXNBG|ids=⿱陏土}}
+{{Han char|rn=32|rad=土|as=09|sn=12|four=74104|canj=NBG,XXNBG|ids=⿱陏土}}
 
-====References====
-* {{Han ref|kx=0234.271|hdz=10459.030|uh=5815|ud=22549}}
+====Related characters====
+* {{l|mul|墮}} {{q|[[Traditional Chinese]] and [[kyūjitai]]}}
+
+===Further reading===
+{{Han ref|kx=0234.271|hdz=10459.030|uh=5815}}
 
 ----
 
 ==Chinese==
-{{zh-see|墮}}
+
+===Glyph origin===
+{{Han simp|墮|f=工|t=&nbsp;}}.
+
+===Definitions===
+{{zh-see|墮|sv}}
+
+===References===
+* {{R:twedu|A00816-002}}
 
 ----
 
@@ -27,9 +32,9 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=土08|kyu=墮}}
 
-# [[degenerate]]
-# [[descend]] [[to]]
-# [[lapse]] [[into]]
+# to [[degenerate]]
+# to [[descend]] to
+# to [[lapse#Verb|lapse]] into
 
 ====Readings====
 {{ja-readings
@@ -37,3 +42,13 @@
 |kanon=た
 |kun=お-ちる, くずす, くずれる
 }}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|堕獄|だごく}}
+* {{ja-r|堕罪|だざい}}
+* {{ja-r|堕胎|だたい}}
+* {{ja-r|堕落|だらく}}
+* {{ja-r|落堕|らくだ}}
+* {{ja-r|堕天使|だてんし}}
+{{der-bottom}}
