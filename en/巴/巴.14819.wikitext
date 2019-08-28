@@ -121,18 +121,29 @@ Borrowed from {{bor|zh|en|bar}}.
 {{ja-readings
 |goon=へ
 |kanon=は
-|kun=ともえ-<ともゑ-, うずまき-<うづまき-
+|kun=ともえ-<ともゑ-
 }}
 
 ====Compounds====
-* {{ja-r|巴%鴨|ともえ%がも|[[Baikal teal]]}}
-* {{ja-r|巴%戦|ともえ%せん|[[dogfight]]}}
+{{der-top3|Compounds}}
+* {{ja-r|巴布|パップ}}
+* {{ja-r|巴奈馬|^パナマ}}
+* {{ja-r|巴比倫|^バビロン}}
+* {{ja-r|巴里|^パリ}}
+* {{ja-r|巴爾幹|^バルカン}}
+{{der-bottom}}
 
 ===Etymology 1===
-{{wikipedia|lang=ja}}
-{{ja-kanjitab|ともえ|yomi=k}}
-[[File:Tomoe 2 left.png|120px|thumb|{{lang|ja|巴}} (''[[tomoe]]''): a circular design of swirling water, commonly used in Japanese family crests and corporate logos]]
-Compound of {{ja-r|鞆%絵|とも%え}}: {{ja-compound|鞆|とも|絵|え|t1=[[archer]]'s [[left]]-[[wrist]] [[protector]]|t2=[[picture]], [[drawing]]|nocat=1}}. {{rfv-etymology|ja}}
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Tomoe}}
+[[File:Tomoe 2 left.png|120px|thumb|{{m|ja||巴|tr=[[tomoe]]}}: a ''{{ll|ja|二つ巴|futatsudomoe}}'', one of many '''tomoe''' designs]]
+</div>
+{{ja-kanjitab|ともえ|yomi=k|alt=鞆絵}}
+
+First attested around the 12th century.
+
+Originally a compound of {{com|ja|sort=ともえ|鞆|tr1=tomo|t1=[[archer]]'s [[left]]-[[wrist]] [[protector]]|絵|tr2=e|t2=[[picture]], [[drawing]]|nocat=1}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ともえ|acc=0|acc_ref=DJR}}
@@ -140,26 +151,55 @@ Compound of {{ja-r|鞆%絵|とも%え}}: {{ja-compound|鞆|とも|絵|え|t1=[[a
 ====Noun====
 {{ja-noun|ともえ|hhira=ともゑ}}
 
-# [[tomoe]] (comma design)
+# a [[circular]] [[design]] [[resemble|resembling]] [[swirl]]ing [[water]], a [[comma]]{{,}} or an [[archer]]'s [[bow]]
+# {{lb|ja|sort=ともえ|architecture}} a [[piece]] of [[wood]], ''usually'' a [[floorboard]] or an [[eave]], with a ''tomoe'' [[pattern]]
+# an [[oxcart]] with the [[wickerwork]] in a ''tomoe'' pattern
+# a {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with various ''tomoe'' designs
+# {{short for|ja|巴瓦|tr=tomoegawara|dot=:|sort=ともえ}} a [[tile]] with a ''tomoe'' design
+# [[turning]] {{rfv-sense|ja}}
+# {{rfdef|ja}}
+
+====Derived terms====
+{{der-top4}}
+* {{ja-r|巴%鴨|トモエ%ガモ}}
+* {{ja-r|巴%瓦|ともえ%がわら}}
+* {{ja-r|巴%投げ|ともえ%なげ}}
+* {{ja-r|巴%戦|ともえ%せん}}
+* {{ja-r|左%巴|ひだり%どもえ}}
+* {{ja-r|二つ巴|ふたつどもえ}}
+* {{ja-r|卍 巴|まんじ ともえ}}, {{ja-r|卍%巴|まんじ%どもえ}}
+* {{ja-r|右%巴|みぎ%どもえ}}
+* {{ja-r|三つ巴|みつどもえ}}
+{{der-bottom}}
+
+=====Descendants=====
+* {{desc|en|tomoe}}
+
+=====See also=====
+* {{ja-r|渦%巻き|うず%まき}}
 
 ====Proper noun====
 {{ja-pos|ともえ|proper}}
 
+# {{short for|ja|巴御前|tr={{w|Tomoe Gozen}}|dot=:}} 12th-century [[female]] [[samurai]]
+# a {{m|ja|謡曲|tr=dōkyoku||[[noh]] [[song]]}} based on a story from ''{{w|The Tale of the Heike}}''
 # {{surname|lang=ja|sort=ともえ}}
 
-====Derived terms====
-* {{ja-r|巴%瓦|ともえ%がわら|comma-[[pattern]] [[tile]]}}
-* {{ja-r|巴%投げ|ともえ%なげ|[[overhead]] [[throw]]}}
-* {{ja-r|卍%巴|まんじ%ともえ|[[fall]]ing in [[swirl]]s​}}
-* {{ja-r|三つ巴|みつどもえ|[[three]]-[[way]] [[struggle]]}}
-
 ===Etymology 2===
-{{ja-kanjitab|うずまき|yomi=k}}
+{{ja-kanjitab|は|yomi=kanon}}
 
-====Noun====
-{{ja-noun|うずまき|hhira=うづまき}}
+From {{der|ja|ltc|sort=は|-}} {{ltc-l|巴}}
 
-# {{alternative spelling of|lang=ja|渦巻き||[[whirlpool]] (pattern)}}
+====Proper noun====
+{{ja-pos|proper|^.は}}
+
+# {{lb|ja|sort=は|historical}} [[Ba]] {{gl|[[ancient]] [[state]] in [[east]]ern [[Sichuan]]}}
+
+=====Derived terms=====
+* {{ja-r|巴蜀|^はしょく}}
+
+=====See also=====
+* {{ja-r|蜀|^しょく|[[Shu]]}}
 
 ===References===
 <references/>
