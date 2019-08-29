@@ -2,20 +2,22 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=46|rad=山|as=05|sn=8|four=|canj=UYR|ids=⿰山占}}
+{{Han char|rn=46|rad=山|as=05|sn=8|four=21760|canj=UYR|ids=⿰山占}}
 
-# [[mountain]] [[pass]] (Korean)
-
-====References====
-* {{Han ref|kx=0310.071|dj=0610.130|hdz=10766.101|uh=5CBE|ud=23742}}
+===Further reading===
+{{Han ref|kx=0310.071|dj=0610.130|hdz=10766.101|uh=5CBE}}
 
 ----
 
 ==Japanese==
 
+===Glyph origin===
+{{ja-etym-kokuji}}.
+
 ===Kanji===
 {{ja-kanji|grade=|rs=山05}}
 
+# {{n-g|used in [[placename]]s}}
 {{attention|ja|reference #2 provides a decent amount of material to work with}}
 
 ====Readings====
@@ -32,26 +34,35 @@
 * {{R:Koseki Moji|090890}}
 * {{R:Wasei Kanji 2014|528}}
 
+[[Category:Ghost kanji]]
+
 ----
 
 ==Korean==
 
-===Hanja===
-岾(''jeom, jae'')
+===Glyph origin===
+{{ko-etym-gukja}}
 
-====Eumhun 1====
-* '''Sound''': {{ko-l|점}}
-* '''Meaning''': {{ko-l|땅 이름}}, {{ko-l|절 이름}}
-*# Used in Placename, and the name of the temple. (河岾面(하점면, ''Hajeom-myeon'') in Ganghwa-gun; 楡岾寺(유점사, [[w:Yujomsa|''Yujŏm-sa'']] in Mount Kumkang)
+; Etymology 1
+: {{Han compound|山#Korean|占#Korean|c1=s|c2=p|t1=mountain|tr2={{ko-l|점}}|ls=psc}}.
 
-====Eumhun 2====
-* '''Sound''': {{ko-l|재}}
-** '''Sound origin''': From native Korean word.
-* '''Meaning''': {{ko-l|고개}}
-*# A mountain pass.
+===Etymology 1===
 
-====Synonyms====
-* [[峙]] ({{ko-l|치}})
-* [[嶺]] ({{ko-l|령}})
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|[[땅]] [[이름]]|점}}
 
-[[Category:Ghost kanji]]
+# {{hanja form of|점|{{n-g|used in [[placename]]s}}}}
+#: {{uxi|ko|河'''岾'''面 (하'''점'''면)|tr=[[w:ko:하점면|Ha'''jeom'''myeon]]|an administrative division of [[w:Ganghwa-gun|Ganghwa-gun]], South Korea}}
+#: {{uxi|ko|楡'''岾'''寺 (유'''점'''사)|tr=[[w:Yujomsa|Yu'''jeom'''sa]]|a temple in [[w:Mount Kumgang|Mount Kumgang]], North Korea}}
+
+===Etymology 2===
+{{ko-etym-native}}
+
+====Hanja====
+{{ko-hanja|고개|재}}
+
+# {{hanja form of|재|a [[mountain pass]]}}
+
+===References===
+* {{R:hanjadoc|2727}}
