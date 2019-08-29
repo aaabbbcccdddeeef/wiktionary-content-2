@@ -202,16 +202,23 @@ From {{etyl|ltc|ja|sort=きゅう'}} {{m|zh|牛|tr=ngjuw||cow}}.
 
 * {{ja-readings|kun=[[うし]] (ushi)}}
 
+===Pronunciation===
+* {{IPA|ryu|/ʔuɕi/}}
+
 ===Noun===
 {{head|ryu|noun|hiragana|うし|romaji|ushi|sort=うし}}
 
 # [[cow]], [[cattle]]
 
 ====Derived terms====
-{{top2}}
-* {{l|ryu|牛ぬ乳|tr=うしぬちー, ushi nu chī|t=cow's milk}}
-* {{l|ryu|水牛|tr=みじうし, mijiushi|t=water buffalo}}
-{{bottom}}
+{{der2|ryu
+|牛ぬ乳
+|水牛
+}}
+
+===References===
+* {{R:JLect|2=2223|3=ushi}}
+* {{R:Shuri-Naha Dialect Dictionary|ウシ|SN03219}}
 
 {{c|ryu|Cattle|Female animals|sort=うし}}
 
@@ -237,6 +244,9 @@ From {{etyl|ltc|ja|sort=きゅう'}} {{m|zh|牛|tr=ngjuw||cow}}.
 
 # [[cow]], [[cattle]]
 
-[[Category:CJKV radicals]]
+===References===
+* {{R:JLect|2=1974|3=uchi}}
 
 {{c|yoi|Cattle|Female animals|sort=うち}}
+
+[[Category:CJKV radicals]]
