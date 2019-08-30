@@ -4,7 +4,7 @@
 ===Han character===
 {{Han char|rn=75|rad=木|as=08|sn=12|four=45932|canj=DLE|ids=⿰木隶}}
 
-====References====
+===Further reading===
 {{Han ref|kx=0533.180|dkj=14957|dj=0921.160|hdz=21240.030|uh=68E3}}
 
 ----
@@ -14,8 +14,9 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|木|隶|c1=s|c2=p|t1=wood; tree|ls=psc}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=dì
 |c=dai6
@@ -25,14 +26,49 @@
 |cat=pn,n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{taxlink|Kerria japonica|species|ver=180130}} [[plant]]
-# [[cherry]]
+# {{lb|zh|botany}} {{taxlink|Kerria japonica|species|ver=180130}}
+# [[cherry]] [[tree]]
+#* {{zh-x|常棣 之 華，鄂 不 韡{wěi}韡{wěi}。凡 今 之 人，莫 如 兄弟。|The flowers of the '''cherry''' tree—<br>Are they not gorgeously displayed?<br>Of all the men in the world<br>There are non equal to brothers.|ref=Shijing}}
+# {{†}} [[younger]] [[brother]]
+#: {{zh-alt-inline|弟}}
+# {{surname|zh}}
 
-===Compounds===
-{{zh-der|棠棣|棣花|無棣}}
+====Compounds====
+{{zh-der|棠棣|棣花|無棣|唐棣|常棣|棠棣|棣華|棣鄂}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=tì
+|mc=
+|oc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[attain]]; to [[reach]]
+#* {{zh-x|正月，《乾[乾]》之 九 三，萬物 棣{tì}通。|ref=Hanshu}}
+
+====Compounds====
+{{zh-der|棣通|棣達}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=dài
+|mc=
+|oc=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|棣棣}}
+#* {{zh-x|我 心 匪 席，不可 卷 也。威 儀 棣{dài}棣{dài}，不可 選 也。|My mind is not a mat;<br>It cannot be rolled up.<br>My deportment has been '''dignified and good''',<br>With nothing wrong which can be pointed out.|ref=Shijing}}
 
 ----
 
@@ -41,7 +77,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木08}}
 
-# {{defn|lang=ja|sort=木08}}
+# {{lb|ja|botany}} {{taxlink|Kerria japonica|species|ver=180130}}
 
 ====Readings====
 {{ja-readings
@@ -51,20 +87,57 @@
 |kun=にわざくら, いくり, にわうめ
 }}
 
+====Compounds====
+* {{ja-r|棣棠|ヤマブキ}}
+
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|체}}
+===Etymology 1===
+From {{der|ko|ltc|sort=태|-}} {{ltc-l|棣}}. {{hanja-hunmong|톄〯|thyey|菓實#상11B}}
 
-# {{defn|lang=ko|sort=木08}}
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|산앵두나무|체}}
+
+# {{hanja form of|체|{{taxlink|Vaccinium koreanum|species|ver=190830}}}}
+# {{lb|ko|literary}} {{hanja form of|체|to [[attain]]; to [[reach]]}}
+
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|체당|棣棠}}
+* {{ko-l|체통|棣通}}
+* {{ko-l|체화|棣華}}
+* {{ko-l|체당화|棣棠花}}
+* {{ko-l|체악지정|棣鄂之情}}
+{{der-bottom}}
+
+===Etymology 2===
+
+====Hanja====
+{{ko-hanja|익숙하다|익숙할|태}}
+
+# {{lb|ko|literary}} {{hanja form of|태|[[courteous]] [[appearance]]}}
+
+=====Compounds=====
+* {{ko-l|태태|棣棣}}
+
+===References===
+* {{R:hanjadoc|5132}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木08|reading=[[đệ]], [[lệ]]}}
+{{vi-readings|rs=木08
+|hanviet=đệ-gdhn, lệ-gdhn
+|phienthiet=大計 đại kế
+}}
 
-# {{defn|lang=vi|sort=木08}}
+# {{han tu form of|đệ|[[brother]]; [[sibling]]}}
+# {{han tu form of|lệ|{{taxlink|Kerria japonica|species|ver=180130}}}}
+
+===References===
+<references/>
