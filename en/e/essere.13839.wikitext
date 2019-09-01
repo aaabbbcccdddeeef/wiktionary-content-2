@@ -2,8 +2,9 @@
 ==Italian==
 
 ===Etymology===
-{{PIE root|it|h₁es}}
-From {{der|it|la|sum}} (infinitive {{m|la|esse}}), from {{inh|it|itc-pro|*ezom}}, from {{inh|it|ine-pro|*h₁ésti||I am, I exist}}, from {{m|ine-pro|*h₁es-}}.
+{{PIE root|it|h₁es|bʰuH}}
+From {{bor|it|VL.|*essĕre}}<ref name="essere1">{{cite-web|author=|last=|first=|authorlink=|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|editor=Treccani|editors=|title=èssere¹|trans-title=to be|titleurl=|entry=|trans-entry=|entryurl=|work=treccani.it|trans-work=|url=http://www.treccani.it/vocabolario/essere1/|archiveurl=|archivedate=|edition=|format=|location=|publisher=|date=|month=|year=|year_published=|accessdate=|volume=|page=|pages=|pageurl=|section=|sectionurl=|column=|columns=|columnurl=|text=|passage=|text_block=|passage_block=|t=|translation=|lang=it}}</ref>, from {{der|it|la|esse}} (infinitive of {{m|la|sum}}), from {{inh|it|itc-pro|*ezom}}, from {{inh|it|ine-pro|*h₁ésti||I am, I exist}}, from {{m|ine-pro|*h₁es-||to be}}.
+Past historic indicative and imperfect subjunctive forms ultimately from {{m|ine-pro|*bʰuH-||to become}}<ref name="essere1"/>.
 
 ===Pronunciation===
 * {{IPA|/ˈɛs.se.re/|[ˈɛs̪s̪er̺e]|lang=it}}
@@ -14,7 +15,6 @@ From {{der|it|la|sum}} (infinitive {{m|la|esse}}), from {{inh|it|itc-pro|*ezom}}
 ===Verb===
 {{it-verb}}
 
-# {{lb|it|intransitive|indicating existence, identity, location, or state}} to [[be]], to [[stay]]
 # {{lb|it|auxiliary|the non-perfect forms followed by a past participle, used to form composite (perfect) tenses of many intransitive verbs}} to have (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian verbs taking essere as auxiliary|Category:Italian verbs taking essere as auxiliary]].''
 #*{{ux|it|(io) sono<br/>(io) '''sono''' stato|I am<br/>I ('''have''') been}}
 #*{{ux|it|(io) sto<br/>(io) '''sono''' stato|I stay<br/>I ('''have''') stayed}}
@@ -26,27 +26,133 @@ From {{der|it|la|sum}} (infinitive {{m|la|esse}}), from {{inh|it|itc-pro|*ezom}}
 # {{lb|it|auxiliary|both non-perfect and perfect forms followed by a past participle, used to form the passive forms of transitive verbs}} to be (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian transitive verbs|Category:Italian transitive verbs]].''
 #*{{ux|it|(io) avevo/possedevo<br/>(io) '''ero''' avuto/posseduto<br/>(io) '''ero stato''' avuto/posseduto|I owned<br/>I '''was''' possessed<br/>I '''was been''' possessed}}
 #*{{ux|it|(io) amavo<br/>(io) '''ero''' amato<br/>(io) '''ero stato''' amato|I loved<br/>I '''was''' loved<br/>I '''was been''' loved}}
+# {{lb|it|intransitive|absolutive|as predicative verb|affirms the existence, the essence in itself, the pure act, without further determination}} to [[be]], to [[exist]] {{q|regionally, chiefly in Tuscany, can be found in the singular also when referring to plural subjects}}
+#:{{syn|it|esistere}}
+#:{{uxi|it|Dio '''è'''|God '''exists'''}}
+#:{{uxi|it|ci '''sono''' varie specie di rose|there '''are''' various/many species of roses}}
+#:{{uxi|it|discutere se vi '''siano''' il paradiso e l’inferno|discuss if there '''exist'''/'''is''' the heaven and the hell}}
+#:{{uxi|it|Ci '''sono''' molti laureati in legge.|There '''are''' many law graduates.}}
+#*{{quote-book|it|indent=|author=|last=|first=|authorlink=|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=1|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title={{w|it:Bibbia|Bibbia}}|trans-title={{w|Bible}}|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre={{w|religious text}}, {{w|creation myth}}|format=|worklang=he|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1850–1650 B.C.|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume={{w|it:Genesi|Genesi}} [''{{w|Book of Genesis|Genesis}}'']|volume_plain=|issue=|section=|sectionurl=|line=3|lines=|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=Dio disse: «la luce '''sia'''», e la luce '''fu'''|passage=|lang=|brackets=|t=God said: «the light '''exist'''», and the light '''existed'''|translation=|lit=God said: «the light '''be'''», and the light '''was'''|tr=|transliteration=|subst=}}
+#*{{quote-book|it|indent=|author=|last=Alighieri|first=Dante|authorlink=Dante Alighieri|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:Divina Commedia/Inferno/Canto III|III]]|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=Divina Commedia|trans-title=Divine Commedy|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre=allegorical-didactic {{w|poem}}, {{w|lyric poetry}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1314 (volume), 1321 (full book)|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=[[s:it:Divina Commedia/Inferno|Inferno]] [''hell'']|volume_plain=|issue=|section=|sectionurl=|line=|lines=7–8|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=Dinanzi a me non '''fuor''' cose create / se non etterne, [...]|passage=|lang=|brackets=|t=Before me '''existed''' not created things / if not eternal, [...]|translation=|lit=Before me [there] '''were'''n’t created things / if not eternal, [...]|tr=|transliteration=|subst=}}
+#*{{quote-book|it|indent=|author=|last=Alighieri|first=Dante|authorlink=Dante Alighieri|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:Divina Commedia/Purgatorio/Canto XVI|XVI]]|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=Divina Commedia|trans-title=Divine Commedy|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre=allegorical-didactic {{w|poem}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1316 (volume), 1321 (full book)|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=[[s:it:Divina Commedia/Purgatorio|Purgatorio]] [''Purgatory'']|volume_plain=|issue=|section=|sectionurl=|line=97|lines=|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=Le leggi [ci] '''son''', ma chi pon mano ad esse?|passage=|lang=|brackets=|t=The laws '''exist''', but who put its hand on them?|translation=|lit=The laws '''are''' [there], but who put its hand on them?|tr=|transliteration=|subst=}}
+#*{{quote-book|it|indent=|author=|last=Manzoni|first=Alessandro|authorlink=Alessandro Manzoni|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:I promessi sposi (1840)/Capitolo II|II]]|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=I Promessi Sposi|trans-title=The bethroted spouses|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=3rd: ''la Quarantana'' [''the Forty'']|genre={{w|novel}}, {{w|historical fiction}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1840|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=|sectionurl=|line=|lines=|page=[[s:it:Pagina:I promessi sposi (1840).djvu/40|34]]|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...] “E poi c’'''è''' degli imbrogli” / “Degl’imbrogli? Che imbrogli ci può '''essere'''?” [...]|passage=|lang=|brackets=|t=[...] “And then there '''are''' some entanglements” / “Some entanglements? What entanglements may '''exist'''?” [...]|translation=|lit=[...] “And then there '''is''' some cheats” / “Some cheats? What cheats may there '''be'''?” [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive|also followed by [[presente]]}} to [[be]] ([[present]])
+#:{{uxi|it|(L’)iddio '''è''' (presente) dappertutto.|(The) god '''is''' (present) everywhere.}}
+#:{{uxi|it|Non c’'''erano''' persone lungo la strada.|There '''were''' not (present) people along the road.}}
+#:{{uxi|it|'''Siete''' già qui?|'''Are''' you already here?}}
+#:{{uxi|it|'''Sono''' io in carne ed ossa|It'''’s''' me in person|lit=It'''’s''' me in meat and bones.}}
+#:{{uxi|it|'''Sono''' presente in carne ed ossa|I '''am''' present in person|lit=I '''am''' present in meat and bones.}}
+#*{{quote-book|it|indent=|author=|last=Manzoni|first=Alessandro|authorlink=Alessandro Manzoni|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:I promessi sposi (1840)/Capitolo XII|XII]]|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=I Promessi Sposi|trans-title=The bethroted spouses|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=3rd: ''la Quarantana'' [''the Forty'']|genre={{w|novel}}, {{w|historical fiction}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1840|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=|sectionurl=|line=|lines=|page=[[s:it:Pagina:I promessi sposi (1840).djvu/257|251]]|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...] Spesso, in simili circostanze, l’annunzio d’una cosa la fa '''essere [presente]'''. [...]|passage=|lang=|brackets=|t=[...] Often, in similar circumstances, the announcement of a thing makes it '''present'''. [...]|translation=|lit=[...] Often, in similar circumstances, the announcement of a thing makes it '''to be [present]'''. [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive|also followed by {{l|it|vero}}}} to [[be]] [[true]]
+#:{{uxi|it|'''è''' (proprio) così|it '''is''' (just/exactly) that way}}
+#:{{uxi|it|affermare ciò che (in realtà) non '''è (vero)'''|affirm what (in realty) '''is''' not '''(true)'''}}
+#:{{uxi|it|non può '''essere (vero)'''|it can not '''be (true)'''}}
+# {{lb|it|intransitive|used to replace action verbs}} to [[be]]
+#:{{uxi|it|'''ero stato''' io (a dare/fare qualcosa)|it '''was been''' me (who gave/did something)}} {{q|''which replace the clause ''l’avevo '''dato'''/'''fatto''' io}}
+#:{{uxi|it|l’avevo '''dato'''/'''fatto''' io|it was '''given/done''' by me}}
+# {{lb|it|intransitive|impersonal|used to indicate a situation}} to [[be]]
+#:{{uxi|it|oggi (c’)'''è''' bel tempo|today (the weather/it) '''is''' lovely}}
+#:{{uxi|it|oggi (il clima) '''è''' freddo/caldo|today (the climate/it) '''is''' cold/hot}}
+#:{{uxi|it|oggi (il cielo) '''è''' già buio|today (the sky/it) '''is''' already dark}}
+#{{lb|it|intransitive|impersonal|used to emphasize}} to [[be]]
+#:{{uxi|it|'''È''' a te che mi rivolgo.|It '''is''' to you who I address (my speech).}}
+#:{{uxi|it|'''È''' a te che rivolgo il mio discorso.|It '''is''' to you who I address my speech.}}
+#:{{uxi|it|'''È''' per questo che insisto.|It '''is''' for this reason that I insist.}}
+#:{{uxi|it|'''Quand’è''' che ci rivedremo?|'''When''' will we meet again?}}
+# {{lb|it|intransitive}} to [[exist]]
+#:{{syn|it|esistere|sussistere}}
+#*{{quote-book|it|indent=|author=|last=Alighieri|first=Dante|authorlink=Dante Alighieri|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee={{w|it:Publio Virgilio Marone|Virgilio}} [''{{w|Virgil}}'']|quoted_in=|chapter=[[s:it:Divina Commedia/Inferno/Canto III|III]]|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=Divina Commedia|trans-title=Divine Commedy|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre=allegorical-didactic {{w|poem}}, {{w|lyric poetry}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1314 (volume), 1321 (full book)|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=[[s:it:Divina_Commedia/Inferno|Inferno]] [''Hell'']|volume_plain=|issue=|section=|sectionurl=|line=|lines=49-51|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...] Fama di loro il mondo '''esser''' non lassa; / misericordia e giustizia li sdegna: / non ragioniam di lor, ma guarda e passa.” [...]|passage=|lang=|brackets=|t=[...] Fame of them the world does not let '''exist'''; / mercy and justice disdains them: / do not reason about them, but look and pass.” [...]|translation=|lit=[...] Fame of them the world does not allow '''to be'''; / mercy and justice disdains them: / do not reason about them, but look and pass.” [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive}} to [[be]], to [[consist]], to [[stay]], to [[lay]]
+#:{{syn|it|consistere|stare}}
+#:{{uxi|it|in questo '''è''' la difficoltà|the difficult '''is'''/'''lies'''/'''consists''' in this}}
+#:{{uxi|it|la vera felicità non '''è''' nel denaro|true happiness '''is''' not/'''does''' not '''consist''' in money}}
+#:{{uxi|it|tutta la sua gioia '''è''' nel lavoro|all his joy '''is''' in (the) work}}
+# {{lb|it|intransitive}} to [[live]]
+#:{{syn|it|vivere}}
+#:{{uxi|it|C’'''era''' una volta (ed ora non più) [...]|(It '''lived''') once upon a time (and now no longer) [...]|lit=It '''was''' once time (and now no longer) [...]}}
+#*{{quote-book|it|indent=|author=|last=Boccaccio|first=Giovanni|authorlink=Giovanni Boccaccio|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:Decameron/Giornata quinta|Giornata quinta]]|chapterurl=|trans-chapter=Fifth day|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title={{w|it:Decameron|Decameron}} or {{W|it:Decamerone|Decamerone}}|trans-title={{w|The Decameron}}|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre=collection of {{w|Novella}}s|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1350–1353|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=[[s:it:Decameron/Giornata quinta/Novella nona|Novella nona]] [Ninth novella]|sectionurl=|line=|lines=|page=[[s:it:Pagina:Boccaccio - Decameron I.djvu/399|395]]|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...] Dovete adunque sapere che Coppo di Borghese Domenichi, il quale '''fu''' nella nostra cittá, e forse '''è''' ancora, uomo di grande e di reverenda autoritá ne’ di nostri, [...]|passage=|lang=|brackets=|t=[...] You must therefore know that Coppo di Borghese Domenichi, who '''lived''' in our city, and maybe still '''lives''' there, '''was''', and maybe still '''is''', a man of great and reverend authority in our days [...]|translation=|lit=[...] You must therefore know that Coppo di Borghese Domenichi, who '''was''' in our city, and maybe still '''is''', a man of great and reverend authority in of our [...]|tr=|transliteration=|subst=}}
+#*{{quote-book|it|indent=|author=|last=Manzoni|first=Alessandro|authorlink=Alessandro Manzoni|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=|chapterurl=|trans-chapter=|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=[[s:it:Il cinque maggio|Il cinque maggio]]|trans-title=The Fifth of May|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre={{w|poetry}}, {{w|ode}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1821|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=|sectionurl=|line=1|lines=|page=[[s:it:Pagina:Opere varie (Manzoni).djvu/695|689]]|pages=|pageurl=|column=|columns=|columnurl=|others=|text=Ei '''fu'''. [...]|passage=|lang=|brackets=|t={{w|Napoleon|He}} '''lived'''. [...]|translation=|lit=He '''was'''. [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive}} to [[have]] [[life]], to [[have]] [[origin]]
+#:{{syn|it|[[avere]] [[vita]]|avere [[origine]]}}
+#:{{uxi|it|Di dove '''siete'''?|From where '''are''' you?}}
+#:{{uxi|it|Lui/Egli/Esso '''è''' di Milano/Napoli.|He '''was born'''/'''lives''' in Milan/Naples.}}
+#:{{uxi|it|Lei/Ella/Essa '''è''' di Milano/Napoli.|She '''was born'''/'''lives''' in Milan/Naples.}}
+#*{{quote-book|it|indent=|author=|last=Foscolo|first=Niccolò (Ugo)|authorlink=Ugo Foscolo|author2=|last2=Pindemonte|first2=Ippolito|authorlink2=Ippolito Pindemonte|author3=|last3=Torti|first3=Giovanni|authorlink3=it:Giovanni Torti|author4=|last4=Monti|first4=Vincenzo|authorlink4=Vincenzo Monti|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:Dei sepolcri (Bettoni 1808)/Dei Sepolcri|Carme di Ugo Foscolo]]|chapterurl=|trans-chapter=Solemn Song of Ugo Foscolo|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title={{w|it:Dei sepolcri|Dei Sepolcri}}|trans-title={{w|Dei sepolcri|Of the sepulchres}}|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre={{w|poetry}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1808|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=|sectionurl=|line=|lines=238–240|page=[[s:it:Pagina:Dei Sepolcri (Bettoni 1808).djvu/24|12]]|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...], ed a Giove diè Dárdano figlio / Onde '''fur''' Troja e Assáraco e i cinquanta / Talami e il regno della Giulia gente. [...]|passage=|lang=|brackets=|t=[...], and to Jove gave Dardanus his son / Where Troy and Assaracus '''were born''' and the fifty / Marriage beds and the kingdom of the Julia people. [...]|translation=|lit=[...], and to [[Jove]] gave [[Dardanus]] his son / Where [[Troy]] and [[Assaracus]] '''were''' and the fifty / Thalamuses and the kingdom of the Julia people. [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive}} to [[occur]], to [[happen]], to [[take]] [[place]]
+#:{{syn|it|avvenire|accadere}}
+#:{{uxi|it|Cos’'''è stato'''?|What '''(is) happened'''?}}
+#:{{uxi|it|Cosa '''sarà''' di noi?|What '''will happen'''/'''occur''' to us?}}
+#:{{uxi|it|Quel che '''è stato''' '''è stato'''.|The thing which '''(was) happened''' it '''(was) happened'''.|lit=What '''(was) happened''' it '''(was) happened'''.}}
+#*{{quote-book|it|indent=|author=|last=Ariosto|first=Ludovico|authorlink=Ludovico Ariosto|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=[[s:it:Orlando furioso/Canto 1|Canto primo]]|chapterurl=|trans-chapter=First song|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=Orlando furioso|trans-title=Furious Orlando|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre={{w|poetry}}, {{w|chivalric romance}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1516|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=1|sectionurl=|line=|lines=2–4|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...], l’audaci imprese io canto, / che '''furo''' al tempo che passaro i Mori / d’Africa il mare, [...]|passage=|lang=|brackets=|t=[...], I sing the audacious enterprises, / which '''happened''' at the time the Moors / of Africa passed the sea, [...]|translation=|lit=[...], the audacious enterpsrises I sing, / which were at the time the Moors / of Africa passed the sea, [...]|tr=|transliteration=|subst=}}
+#*{{quote-book|it|indent=|author=|last=Gozzano|first=Guido|authorlink=Guido Gozzano|author2=|last2=|first2=|authorlink2=|author3=|last3=|first3=|authorlink3=|author4=|last4=|first4=|authorlink4=|author5=|last5=|first5=|authorlink5=|coauthors=|quotee=|quoted_in=|chapter=Alle soglie|chapterurl=|trans-chapter=On the thresholds|entry=|entryurl=|trans-entry=|mainauthor=|translator=|translators=|editor=|editors=|title=[[s:it:I colloqui|I colloqui]]|trans-title=The interviews|series=|seriesvolume=|url=|archiveurl=|archivedate=|edition=|genre={{w|poetry}}|format=|worklang=|type=|original=|by=|origdate=|origmonth=|origyear=|location=|publisher=|month=|year=1911|year_published=|date=|nodate=|accessdate=|accessmonth=|accessyear=|doi=|isbn=|issn=|jstor=|lccn=|oclc=|ol=|id=|volume=|volume_plain=|issue=|section=[[s:it:I colloqui/Cocotte|Cocotte]]|sectionurl=|line=|lines=27–29|page=|pages=|pageurl=|column=|columns=|columnurl=|others=|text=[...] Non amo che le cose / che potevano '''essere''' e non '''sono''' / '''state'''…. [...]|passage=|lang=|brackets=|t=[...] I do not like the things that / could '''happen''' but which '''did''' not / '''happened'''…. [...]|translation=|lit=[...] I do not like that the things that / could '''be''' and '''did''' not / '''been'''…. [...]|tr=|transliteration=|subst=}}
+# {{lb|it|intransitive|followed by [[in]], [[su]] or [[a]], or a locative adverb or phrase|also|figurative}} to [[be]] [[in]]/[[at]] [[a]] [[place]]; to [[be]] in a particular [[place]]/[[position]] compared to [[someone]]/[[something]] [[else]]
+#:{{syn|it|stare}}
+#:{{uxi|it|'''essere''' in casa/nei campi/in ufficio|'''to be''' at home/in the fields/in the office}}
+#:{{uxi|it|'''essere''' a casa/a scuola/a letto|'''to be''' at home/at school/in the bed}}
+#:{{uxi|it|'''essere''' sulla strada di casa|'''to be''' on the way for/to home}}
+#:{{uxi|it|'''essere''' sul posto|'''to be''' on the spot}}
+#:{{uxi|it|'''essere''' davanti a qualcuno/qualcosa|'''to be''' in front of someone/something}}
+#:{{uxi|it|'''essere''' dietro a qualcuno/qualcosa|'''to be''' behind someone/something}}
+#:{{uxi|it|'''essere''' sopra a qualcuno/qualcosa|'''to be''' over someone/something}}
+#:{{uxi|it|'''essere''' sotto a qualcuno/qualcosa|'''to be''' under/below someone/something}}
+#:{{uxi|it|'''essere''' dentro a qualcosa|'''to be''' inside something}}
+#:{{uxi|it|'''essere''' fuori da qualcosa|'''to be''' out of something}}
+#:{{uxi|it|la porta '''è''' lì|the door '''is''' there}}
+#:{{uxi|it|l’ingresso sta da questa parte/da questo lato|the entrance '''is''' on this side}}
+#:{{uxi|it|la collina '''è''' a(d) ovest|the hill '''is''' to the west}}
+#:{{uxi|it|(loro/essi/esse) '''erano''' tutti lì ad aspettarlo|they '''were''' all there waiting for him}}
+#:{{uxi|it|quand’'''ero''' in collegio|when I '''was''' in college}}
+#:{{uxi|it|'''essere''' in compagnia di qualcuno|'''to be''' in someone’s company}}
+#:{{uxi|it|'''essere''' fra/tra amici|'''to be''' among friends}}
+#:{{uxi|it|'''Ero''' già '''stato''' in quella città.|I’'''ve''' (yet) '''been''' to that city before.}}
+#:{{uxi|it|Il nemico '''è''' alle porte.|The enemy '''is''' at the door(s).}}
+#:{{uxi|it|'''essere''' in guerra/pace|'''to be''' at war/peace}}
+#:{{uxi|it|'''essere''' al sicuro|'''to be''' safe}}
+#:{{uxi|it|'''essere''' in pericolo|'''to be''' in danger}}
+#:{{uxi|it|'''essere''' nei guai/pasticci|'''to be''' in trouble}}
+#:{{uxi|it|'''essere''' nel vero|'''to be''' (in) true}}
+#:{{uxi|it|'''essere''' in colpa|'''to be''' at fault}}
+#:{{uxi|it|'''essere''' in errore|'''to be''' in error}}
+#:{{uxi|it|'''essere''' all’oscuro di tutto|'''to be''' in the dark about everything}}
+#:{{uxi|it|'''essere''' agli ordini di qualcuno|'''to be''' under someone’s orders}}
+#:{{uxi|it|'''essere''' sotto il dominio di qualcuno|'''to be''' under someone’s domain}}
+#:{{uxi|it|'''essere''' sotto la protezione di qualcuno|'''to be''' under someone’s protection}}
+#:{{uxi|it|'''essere''' in agonia|'''to be''' in agony}}
+#:{{uxi|it|'''essere''' in lutto|'''to mourn'''}}
+#:{{uxi|it|'''essere''' in simpatia/odio a qualcuno|'''to be''' in sympathy/hate to someone}}
+#:{{uxi|it|'''essere''' in/nella grazia di dio/Dio|'''to be''' in the grace of god/God}}
+#:{{uxi|it|'''essere''' in collera per qualcosa|'''to be''' angry at something}}
+#:{{uxi|it|'''essere''' in pena/ansia per qualcosa|'''to be''' worried/anxious about something}}
+# {{lb|it|intransitive|followed by [[in]], [[su]] or [[a]], or a locative adverb or phrase}} to [[be]] [[in]]/[[at]] [[a]] [[place]], to [[come]] [[to]] a [[place]]; to [[be]] in/at a particular [[place]]/[[position]] compared to [[someone]]/[[something]] [[else]], to [[come]] to a particular [[place]]/[[position]] compared to [[someone]]/[[something]] [[else]]
+#:{{syn|it|giungere|venire}}
+#:{{uxi|it|quando '''saremo''' (arrivati) a casa|when we '''will be''' (arrived) at home}}
+#:{{uxi|it|aspetta che '''sia''' vicino|wait for it to be/come close}}<ref name="essere1"/>
+# {{lb|it|intransitive|indicating existence, identity, location, or state}} to [[be]], to [[stay]]
 # {{lb|it|impersonal|of a duration of time since an event}} to have [[pass]]ed
 
 ====Usage notes====
 * The present participle {{m|it|essente}} is very rare, and is usually replaced with {{m|it|stante}}, the present participle of {{m|it|stare}}. Similarly the past participle {{m|it|essuto}} has disappeared, with {{m|it|stato}}, the past participle of {{m|it|stare}}, being used instead.<ref>[http://dizionari.hoepli.it/Dizionario_Italiano/parola/essuto.aspx?idD=1&Query=essuto&lettera=E]</ref>
+* These verb (including all its forms) is the word that occurs most frequently in speech and the most necessary for the expression of thought. It differs from all other verbs because, in its absolute use, it does not ''determine'' the [[subject]], but only ''sets'' it as existing; used as a [[copula]] or as an [[auxiliary]], it only performs the function of introducing the [[nominal]] or [[verbal]] [[predicate]]; it is therefore never, strictly speaking, a true ''predicate''.<ref name="essere1"/>
 
 ====Conjugation====
 {{it-conj-ere||essere
 |inf=essere|
-|ger=essendo|presp=essente|pastp=stato
-|pres1s=sono|pres2s=sei|pres3s=è|pres1p=siamo|pres2p=siete|pres3p=sono
-|imperf1s=ero|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
-|prem1s=fui|prem2s=fosti|prem3s=fu|prem3s2=-|prem1p=fummo|prem2p=foste||prem3p=furono|prem3p2=-
-|fut1s=sarò|fut2s=sarai|fut3s=sarà|fut1p=saremo|fut2p=sarete|fut3p=saranno
-|cond1s=sarei|cond2s=saresti|cond3s=sarebbe|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
-|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=siano
-|impsub12s=fossi|impsub3s=fosse|impsub1p=fossimo|impsub2p=foste|impsub3p=fossero
-|imp2s=sii|imp2s2=non [[essere]]|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}
+|ger=essendo|ger2={{q|archaic}} [[sendo]]|presp={{q|rare, partially supplied}} [[essente]]|pastp=stato|pastp2={{q|archaic, supplied by ''{{l|it|stato}}''}} [[essuto]], {{q|archaic}} [[suto]]
+|pres1s=sono|pres2s=sei|pres3s=è|pres1p=siamo|pres1p2={{q|archaic or regional}} [[semo]]|pres2p=siete|pres2p2={{q|archaic}} [[sete]]|pres3p=sono|pres3p2={{q|archaic or regional}} [[enno]]
+|imperf1s=ero|imperf1s2={{q|archaic or litarary}} [[era]]|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
+|prem1s=fui|prem2s=fosti|prem2s2={{q|archaic}} [[fusti]]|prem3s=fu|prem3s2=-|prem1p=fummo|prem2p=foste|prem2p2={{q|archaic}} [[fuste]]|prem3p=furono|prem3p2={{q|archaic}} [[furo]], {{q|archaic}} [[foro]], {{q|archaic}} [[fuoro]]
+|fut1s=sarò|fut2s=sarai|fut3s=sarà|fut3s2={{q|archaic}} [[fia]], {{q|archaic}} [[fie]]|fut1p=saremo|fut2p=sarete|fut3p=saranno|fut3p2={{q|archaic}} [[fiano]], {{q|archaic}} [[fieno]]
+|cond1s=sarei|cond1s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond2s=saresti|cond3s=sarebbe|cond3s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
+|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=siano|sub3p2={{q|archaic}} [[sieno]]
+|impsub12s=fossi|impsub12s2={{q|archaic}} [[fussi]]|impsub3s=fosse|impsub3s2={{q|archaic}} [[fusse]]|impsub1p=fossimo|impsub1p2={{q|archaic}} [[fussimo]]|impsub2p=foste|impsub2p2={{q|archaic}} [[fuste]]|impsub3p=fossero|impsub3p2={{q|archaic}} [[fussero]]
+|imp2s=sii|imp2s2=non [[essere]]|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}<ref name="essere1"/>
 
 ====Synonyms====
 * {{sense|to stay}} {{l|it|stare}}, {{l|it|restare}}, {{l|it|rimanere}}
 * {{sense|to be}} {{l|it|stare}}
+
+====Related terms====
+* {{l|it|riessere|t=to be again}}
 
 ===Noun===
 {{it-noun|m}}
