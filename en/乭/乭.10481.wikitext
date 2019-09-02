@@ -4,11 +4,8 @@
 ===Han character===
 {{Han char|rn=5|rad=乙|as=05|sn=6|four=10717|canj=MRN|ids=⿱石乙}}
 
-# [[rock]]
-# used in [[Korean]] [[name]]s
-
-====References====
-* {{Han ref|kx=0084.141|dj=0171.180|hdz=10053.041|uh=4E6D|ud=20077}}
+===Further reading===
+{{Han ref|kx=0084.141|dj=0171.180|hdz=10053.041|uh=4E6D}}
 
 ----
 
@@ -19,7 +16,7 @@
 Borrowed from Korean.
 
 ===Etymology===
-From {{der|zh|ko|-}} {{ko-l|돌|乭}}. The character is usually read as {{zh-l|石}}.
+{{obor|zh|ko|-}} {{ko-l|돌|乭}}. The character is usually read as {{zh-l|石}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -38,25 +35,16 @@ From {{der|zh|ko|-}} {{ko-l|돌|乭}}. The character is usually read as {{zh-l|�
 
 ----
 
-==Japanese==
-===Kanji===
-{{ja-kanji|grade=|rs=乙05}}
-
-# [[rock]] ''(used in Korean names)''
-
-====Readings====
-{{ja-readings
-|kanyoon=せき
-}}
-
-----
-
 ==Korean==
 
 ===Glyph origin===
-[[石]] (stone; equal to Korean [[돌]](''dol'')) + [[乙]] (used as marker to represent the last consonant [[ㄹ]]). One of the ''[[음역자|eumyeokja]]'' ("character for transliteration") used in the {{w|Idu script}} for Korean 돌.
+{{ko-etym-gukja}} From {{Han compound|石#Korean|乙#Korean|t1=stone, semantic reading {{ko-l|돌}}|t2=used as marker to represent the last consonant {{ko-l|ㄹ}}|tr2={{ko-l|을}}}}.
 
 ===Hanja===
-{{ko-hanja|hangeul=돌|rv=dol|mr=tol|y=tol}}
+{{ko-hanja|음역자|돌}}
 
-# {{defn|lang=ko|sort=乙05}}
+# {{hanja form of|돌|{{n-g|[[hanja]] used for [[transliteration]], mainly used in [[personal name]]s}}}}
+#: {{uxi|ko|이세'''돌''' (李世'''乭''')|tr=I Se'''dol'''|[[w:Lee Sedol|Lee Sedol]], a professional Go player in South Korea}}
+
+===References===
+* {{R:hanjadoc|70}}
