@@ -15,17 +15,23 @@ Past historic indicative and imperfect subjunctive forms ultimately from {{m|ine
 ===Verb===
 {{it-verb}}
 
-# {{lb|it|auxiliary|the non-perfect forms followed by a past participle, used to form composite (perfect) tenses of many intransitive verbs}} to have (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian verbs taking essere as auxiliary|Category:Italian verbs taking essere as auxiliary]].''
-#*{{ux|it|(io) sono<br/>(io) '''sono''' stato|I am<br/>I ('''have''') been}}
-#*{{ux|it|(io) sto<br/>(io) '''sono''' stato|I stay<br/>I ('''have''') stayed}}
+# {{lb|it|auxiliary|the non-perfect forms followed by a past participle, used to form composite (perfect) tenses of many intransitive verbs and from their reflexive forms}} to have (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian verbs taking essere as auxiliary|Category:Italian verbs taking essere as auxiliary]].''
+#:{{ux|it|(io) sono<br/>(io) '''sono''' stato|I am<br/>I ('''have''') been}}
+#:{{ux|it|(io) sto<br/>(io) '''sono''' stato|I stay<br/>I ('''have''') stayed}}
+#*{{ux|it|(io) mi fermo<br/>(io) mi '''sono''' fermato|I stop me/myself<br/>I ('''have''') stopped myself}}
+#:{{ux|it|(tu) ti fermi<br/>(tu) ti '''sei''' fermato|you stop yourself<br/>you ('''have''') stopped yourself}}
+#*{{ux|it|(lui/lei/egli/ella/esso/essa) si ferma<br/>(lui/lei/egli/ella/esso/essa) si '''è''' fermato|he/she/it stops himself/herself/itself<br/>he/she/it ('''has''') stopped himself/herself/itself}}
+#*{{ux|it|(noi) ci fermiamo<br/>(noi) ci '''siamo''' fermati|we stop ourselves<br/>we ('''have''') stopped ourselves}}
+#*{{ux|it|(voi) vi fermate<br/>(voi) vi '''siete''' fermati|you stop yourselves<br/>you ('''have''') stopped yourselves}}
+#*{{ux|it|(loro/essi/esse) si fermano<br/>(loro/essi/esse) si '''sono''' fermati|they stops themselves<br/>they ('''have''') stopped themselves}}
 #*{{ux|it|accade<br/>'''è''' accaduto|it happens<br/>it ('''have''') happened}}
-#*{{ux|it|(io) vado<br/>(io) '''sono''' andato|I go<br/>I ('''have''') gone}}
+#:{{ux|it|(io) vado<br/>(io) '''sono''' andato|I go<br/>I ('''have''') gone}}
 # {{lb|it|auxiliary|the non-perfect forms followed by a past participle, used to form composite (perfect) tenses of reflexive forms of transitive verbs}} to have (done something to oneself/oneselves); to [[be]] in the state of having (done something to oneself/oneselves); ''See [[:Category:Italian reflexive verbs|Category:Italian reflexive verbs]].''
 #*{{ux|it|(io) mi ho<br/>(io) mi '''sono''' avuto|I have me/myself<br/>I ('''have''') had me/myself}}
-#*{{ux|it|(io) mi faccio [...]<br/>(io) mi '''sono''' fatto [...]|I make myself [...]<br/>I ('''have''') made myself [...]}}
+#:{{ux|it|(io) mi faccio [...]<br/>(io) mi '''sono''' fatto [...]|I make myself [...]<br/>I ('''have''') made myself [...]}}
 # {{lb|it|auxiliary|both non-perfect and perfect forms followed by a past participle, used to form the passive forms of transitive verbs}} to be (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian transitive verbs|Category:Italian transitive verbs]].''
-#*{{ux|it|(io) avevo/possedevo<br/>(io) '''ero''' avuto/posseduto<br/>(io) '''ero stato''' avuto/posseduto|I owned<br/>I '''was''' possessed<br/>I '''was been''' possessed}}
-#*{{ux|it|(io) amavo<br/>(io) '''ero''' amato<br/>(io) '''ero stato''' amato|I loved<br/>I '''was''' loved<br/>I '''was been''' loved}}
+#*{{ux|it|(io) avevo/possedevo<br/>(io) '''ero''' avuto/posseduto<br/>(io) '''ero stato''' avuto/posseduto|I owned/possessed<br/>I '''was''' owned/possessed<br/>I '''was been''' owned/possessed}}
+#:{{ux|it|(io) amavo<br/>(io) '''ero''' amato<br/>(io) '''ero stato''' amato|I loved<br/>I '''was''' loved<br/>I '''was been''' loved}}
 # {{lb|it|intransitive|absolutive|as predicative verb|affirms the existence, the essence in itself, the pure act, without further determination}} to [[be]], to [[exist]] {{q|regionally, chiefly in Tuscany, can be found in the singular also when referring to plural subjects}}
 #:{{syn|it|esistere}}
 #:{{uxi|it|Dio '''è'''|God '''exists'''}}
@@ -136,16 +142,16 @@ Past historic indicative and imperfect subjunctive forms ultimately from {{m|ine
 
 ====Conjugation====
 {{it-conj-ere||essere
-|inf=essere|
+|inf=[[essere]], {{q|truncated apocopic form}} [[esser]]|
 |ger=essendo|ger2={{q|archaic}} [[sendo]]|presp={{q|rare, partially supplied}} [[essente]]|pastp=stato|pastp2={{q|archaic, supplied by ''{{l|it|stato}}''}} [[essuto]], {{q|archaic}} [[suto]]
-|pres1s=sono|pres2s=sei|pres3s=è|pres1p=siamo|pres1p2={{q|archaic or regional}} [[semo]]|pres2p=siete|pres2p2={{q|archaic}} [[sete]]|pres3p=sono|pres3p2={{q|archaic or regional}} [[enno]]
-|imperf1s=ero|imperf1s2={{q|archaic or litarary}} [[era]]|imperf2s=eri|imperf3s=era|imperf1p=eravamo|imperf2p=eravate|imperf3p=erano
-|prem1s=fui|prem2s=fosti|prem2s2={{q|archaic}} [[fusti]]|prem3s=fu|prem3s2=-|prem1p=fummo|prem2p=foste|prem2p2={{q|archaic}} [[fuste]]|prem3p=furono|prem3p2={{q|archaic}} [[furo]], {{q|archaic}} [[foro]], {{q|archaic}} [[fuoro]]
-|fut1s=sarò|fut2s=sarai|fut3s=sarà|fut3s2={{q|archaic}} [[fia]], {{q|archaic}} [[fie]]|fut1p=saremo|fut2p=sarete|fut3p=saranno|fut3p2={{q|archaic}} [[fiano]], {{q|archaic}} [[fieno]]
+|pres1s=[[sono]], {{q|truncated apocopic form}} [[son]]|pres2s=sei|pres3s=è|pres1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|pres1p2={{q|archaic or regional}} [[semo]], {{q|archaic or regional, truncated apocopic form}} [[sem]]|pres2p=siete|pres2p2={{q|archaic}} [[sete]]|pres3p=[[sono]], {{q|truncated apocopic form}} [[son]]|pres3p2={{q|archaic or regional}} [[enno]], {{q|archaic or regional, truncated apocopic form}} [[en]]
+|imperf1s=ero|imperf1s2={{q|archaic or litarary}} [[era]]|imperf2s=eri|imperf3s=era|imperf1p=[[eravamo]], {{q|truncated apocopic form}} [[eravam]]|imperf2p=eravate|imperf3p=[[erano]], {{q|truncated apocopic form}} [[eran]]
+|prem1s=fui|prem2s=fosti|prem2s2={{q|archaic}} [[fusti]]|prem3s=fu|prem3s2=-|prem1p=[[fummo]], {{q|truncated apocopic form}} [[fum]]|prem2p=foste|prem2p2={{q|archaic}} [[fuste]]|prem3p=[[furono]], {{q|truncated apocopic form}} [[furon]]|prem3p2={{q|archaic}} [[furo]], {{q|archaic, truncated apocopic form}} [[fur]], {{q|archaic}} [[foro]], {{q|archaic, truncated apocopic form}} [[for]], {{q|archaic}} [[fuoro]], {{q|archaic, truncated apocopic form}} [[fuor]]
+|fut1s=sarò|fut2s=sarai|fut3s=sarà|fut3s2={{q|archaic}} [[fia]], {{q|archaic}} [[fie]]|fut1p=[[saremo]], {{q|truncated apocopic form}} [[sarem]]|fut2p=sarete|fut3p=[[saranno]], {{q|truncated apocopic form}} [[saran]]|fut3p2={{q|archaic}} [[fiano]], {{q|archaic, truncated apocopic form}} [[fian]], {{q|archaic}} [[fieno]], {{q|archaic, truncated apocopic form}} [[fien]]
 |cond1s=sarei|cond1s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond2s=saresti|cond3s=sarebbe|cond3s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
-|sub123s=sia|sub1p=siamo|sub2p=siate|sub3p=siano|sub3p2={{q|archaic}} [[sieno]]
-|impsub12s=fossi|impsub12s2={{q|archaic}} [[fussi]]|impsub3s=fosse|impsub3s2={{q|archaic}} [[fusse]]|impsub1p=fossimo|impsub1p2={{q|archaic}} [[fussimo]]|impsub2p=foste|impsub2p2={{q|archaic}} [[fuste]]|impsub3p=fossero|impsub3p2={{q|archaic}} [[fussero]]
-|imp2s=sii|imp2s2=non [[essere]]|imp3s=sia|imp1p=siamo|imp2p=siate|imp3p=siano}}<ref name="essere1"/>
+|sub123s=sia|sub1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|sub2p=siate|sub3p=[[siano]], {{q|truncated apocopic form}} [[sian]]|sub3p2={{q|archaic}} [[sieno]], {{q|archaic, truncated apocopic form}} [[sien]]
+|impsub12s=fossi|impsub12s2={{q|archaic}} [[fussi]]|impsub3s=fosse|impsub3s2={{q|archaic}} [[fusse]]|impsub1p=[[fossimo]], {{q|truncated apocopic form}} [[fossim]]|impsub1p2={{q|archaic}} [[fussimo]]|impsub2p=foste|impsub2p2={{q|archaic}} [[fuste]]|impsub3p=fossero|impsub3p2={{q|archaic}} [[fussero]]
+|imp2s=sii|imp2s2=non [[essere]]/[[esser]]|imp3s=sia|imp1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|imp2p=siate|imp3p=[[siano]], {{q|truncated apocopic form}} [[sian]]}}<ref name="essere1"/>
 
 ====Synonyms====
 * {{sense|to stay}} {{l|it|stare}}, {{l|it|restare}}, {{l|it|rimanere}}
@@ -153,6 +159,14 @@ Past historic indicative and imperfect subjunctive forms ultimately from {{m|ine
 
 ====Derivated terms====
 * {{l|it|riessere|t=to be again}}
+* {{l|it|[[essermi]]/[[essermelo]]|t=first-person singular reflexive/dative/accusative form}}
+* {{l|it|esserci|t=first-person plural reflexive/dative/accusative form, third-person/impersonal strumental/locative/lative form}}/{{l|it|essercelo|t=first-person plural reflexive/dative/accusative form}}
+* {{l|it|[[esserti]]/[[essertelo]]|t=second-person singular reflexive/dative/accusative form}}
+* {{l|it|esservi|t=second-person plural reflexive/dative/accusative form, third-person/impersonal lative form}}/{{l|it|esservelo|t=second-person plural reflexive/accusative/dative form}}
+* {{l|it|[[essersi]]/[[esserselo]]|t=impersonal/third-person reflexive form}}
+* {{l|it|essergli|t=third-person masculine singular dative form, third-person plural dative form}}/{{l|it|esserglielo|t=third-person masculine singular accusative form, third-person plural dative form}}
+* {{l|it|esserla|t=third-person feminine singular dative form}}/{{l|it|esserle|t=third-person plural feminine dative form, third-person singular feminine accusative form}}
+* {{l|it|esserli|t=third-person plural masculine accusative form}}/{{l|it|esserlo|t=third-person masculine singular accusative form}}
 
 ===Noun===
 {{it-noun|m}}
@@ -165,7 +179,6 @@ Past historic indicative and imperfect subjunctive forms ultimately from {{m|ine
 
 ===Related terms===
 * {{l|it|essenza|t=essence}}
-* {{l|it|esserci}}, {{l|it|essersi}}, {{l|it|esservi}}
 
 ===References===
 <references />
