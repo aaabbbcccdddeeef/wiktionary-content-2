@@ -85,7 +85,7 @@ Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} to [[get]] [[close]] to; to [[fawn]] on; to be [[obsequious]] to; to [[curry#Verb|curry]] [[favor]] with
+# {{†}} to [[get]] [[close]] to; to [[fawn]] on; to be [[obsequious]] to; to [[curry favor]] with
 # {{†}} [[people]] on [[intimate]] [[term]]s
 # {{†}} [[habit]]; [[custom]]
 #* {{zh-x|國法 禁 拾遺，惡 民 之 串{guàn} 以 無 分 得 也。|ref=Xunzi}}
@@ -118,17 +118,28 @@ Cognate with {{och-l|穿|to pierce through; to wear}}, {{och-l|貫|to penetrate}
 {{ja-kanji|grade=7|rs=丨06}}
 
 ====Readings====
+From {{ltc-l|串|tr=*t͡ɕʰiuᴇn<sup>H</sup>|[[skewer]]; [[traverse]]; [[visit]]; [[perform]]}}:
 {{ja-readings
-|goon=けん<けん<くゑん, せん
-|kanon=かん<くわん, せん
+|goon=せん
+|kanon=せん
 |kun=くし-, つらぬ-く
+}}
+From {{ltc-l|串|id=1|[[curry favor]]; [[custom]], [[habit]]}}:
+{{ja-readings
+|goon=けん<けん<くゑん
+|kanon=かん<くわん
+|kun=な-れる
 }}
 
 ===Etymology===
-{{wp|lang=ja}}
 {{ja-kanjitab|くし|yomi=k}}
+{{wp|lang=ja}}
+{{wp|Skewer}}
+{{IPAchar|/kusi/}} → {{IPAchar|/kuɕi/}}
 
-From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears in the ''{{w|Nihon Shoki}}'', finished CE 720.
+From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{m|ja|櫛|tr=kushi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|くし|acc=2|acc_ref=DJR}}
@@ -136,18 +147,18 @@ From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  
 ===Noun===
 {{ja-noun|くし}}
 
-# a [[skewer]], a [[spit]]
+# a [[skewer]], [[spit]]
+#: {{syn|ja|串刺し|tr1=kushizashi|焼き串|tr2=yakigushi}}
+# any [[slender]] [[object]] that can [[pierce]] other objects, ''especially'':
+## {{lb|ja|Shinto}} {{short for|ja|玉串|tr={{w|tamagushi}}|dot=:|sort=くし}} a [[branch]] of a {{m|ja|榊|tr=[[sakaki]]}} [[tree]] [[use]]d as a Shinto [[offering]]
+##* {{RQ:Konjaku Monogatarishū|book 24, story 51}}
+##*: {{ja-usex|sort=くし|其の御%幣の'''串'''に書付て奉りたりける|その ご%へい の '''くし''' に かきつけて たてまつりたりける|That '''branch''' of streamers, written and presented...}}
+## {{short for|ja|幕串|tr=makugushi|dot=:}} a [[post]] used to [[hang]] a [[curtain]]
 # a [[candle]]'s [[wick]]
-# {{lb|ja|Shinto}} a ''{{w|tamagushi}}'': a [[branch]] of a [[sakaki]] tree used as a [[Shintō]] [[offering]]
-#: '''12th century''', ''{{w|Konjaku Monogatarishū}}'' (book 24, story 51)
-#:: {{ja-usex|其の御幣の'''串'''に書付て...|その ごへい の '''くし''' に かきつけて...|sort=くし}}
+#: {{syn|ja|芯|tr=shin}}
 # {{lb|ja|slang|computing}} a [[proxy server]]
 #: {{ja-usex|中国'''串'''|^ちゅうごく '''くし'''|Chinese '''proxy'''}}
-
-====Synonyms====
-* {{sense|skewer}} {{ja-r|串刺|くしざし}}, {{ja-r|焼串|やきぐし|rom=-}}, {{ja-r|焼き串|やきぐし}}
-* {{sense|candle's wick}} {{ja-r|芯|しん}}
-* {{sense|proxy}} {{ja-r|プロクシ}}, {{ja-r|プロクシ サーバー}}, {{ja-r|串鯖|くしさば}}
+#: {{syn|ja|プロクシ|tr1=purokushi|プロクシサーバー|tr2=purokushi sābā|串鯖|tr3=kushisaba}}
 
 ====Derived terms====
 {{der-top3}}
@@ -163,6 +174,7 @@ From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  
 * {{ja-r|玉串|たまぐし}}
 * {{ja-r|祓%串|はらえ%ぐし}}
 * {{ja-r|幣串|へいぐし}}
+* {{ja-r|幕串|まくぐし}}
 * {{ja-r|澪%標|みお%つくし|[[dolphin]], channel-mark}}
 * {{ja-r|目%串|め%ぐし|[[suspicion]]s, [[guess]]es}}
 * {{ja-r|焼串|やきぐし|rom=-}}, {{ja-r|焼き串|やきぐし}}
@@ -172,7 +184,7 @@ From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  
 ===Proper noun===
 {{ja-pos|proper|くし}}
 
-# {{surname|ja|sort=くし}}
+# {{surname|ja|A=a|nodot=1|sort=くし}}
 
 ===References===
 <references/>
@@ -240,6 +252,30 @@ Misreading of {{der|ko|ltc|sort=찬|-}} {{ltc-l|丳}}.
 
 ===References===
 * {{R:hanjadoc|33}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+From {{inh|ojp|jpx-pro|sort=くし|*kusi}}.
+
+Cognate with {{m|ojp|櫛|tr=kusi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
+
+===Noun===
+{{head|ojp|noun|tr=kusi|kana|くし|sort=くし}}
+
+# any [[slender]] [[object]] that can [[pierce]] other objects
+
+====Derived terms====
+* {{m|ojp|串刺し|tr=kusizasi}}
+* {{m|ojp|澪標|tr=mi<sub>1</sub>wotukusi}}
+
+====Descendants====
+* {{desc|ja|串|tr=kushi}}
+
+===References===
+<references/>
 
 ----
 
