@@ -46,14 +46,15 @@
 
 ====Readings====
 {{ja-readings
-|on=しょう, じゅ, しゅう
-|kun=こい<こひ, おめあし
+|goon=じゅ
+|kanon=しょう<しよう
+|kun=おめあし, こい<こひ
 }}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|おめあし|alt=瘇}}
 
-Compound of {{compound|ja|おめ|tr1=ome|pos1=of unknown meaning|[[足]], [[脚]]|tr2=ashi|t2=[[foot]], [[leg]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Compound of {{com|ja|おめ|tr1=ome|pos1=of unknown meaning|[[足]], [[脚]]|tr2=ashi|t2=[[foot]], [[leg]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 First appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of roughly 934 {{CE}}, with the later sense appearing in 1793.<ref name="KDJ"/> 
 
@@ -63,16 +64,16 @@ First appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of rough
 ====Noun====
 {{ja-noun|おめあし}}
 
-# {{lb|ja|sort=こい|archaic|possibly|_|obsolete|934 {{CE}}}} a kind of [[beriberi]] ([[vitamin B]] [[deficiency]]) causing [[swelling]] of the [[lower]] [[leg]]
+# {{lb|ja|sort=こい|archaic|possibly|_|obsolete}} a kind of [[beriberi]] ([[vitamin B]] [[deficiency]]) causing [[swelling]] of the [[lower]] [[leg]] {{defdate|since 934}}
 #: {{synonyms|ja|尰|tr1=koi|尰足|tr2=koiashi|尰脛|tr3=koizune}}
-# {{lb|ja|sort=こい|archaic|possibly|_|obsolete|1793}} a [[predicament]]
+# {{lb|ja|sort=こい|archaic|possibly|_|obsolete}} a [[predicament]] {{defdate|since 1793}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|こい}}
 
 {{IPAchar|/kofi/}} → {{IPAchar|/kowi/}} → {{IPAchar|/koi/}}
 
-{{unk|ja|sort=こい}}.  A surface analysis suggests that this is the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of a verb *''kofu'' (“to swell”), but no such word seems to exist.
+{{unk|ja|sort=こい}}, a surface analysis suggests that this is the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of a verb *''kofu'' (“to swell”), but no such word seems to exist.
 
 Appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of roughly 934 {{CE}}.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>
 
@@ -83,6 +84,8 @@ Appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of roughly 934
 {{ja-noun|こい|hhira=こひ}}
 
 # {{lb|ja|sort=こい|archaic|possibly|_|obsolete}} a kind of [[beriberi]] ([[vitamin B]] [[deficiency]]) causing [[swelling]] of the [[lower]] [[leg]]
+#* {{RQ:Kagero Nikki}}
+#*: {{ja-usex|sort=こい|...木を製りたる男の片足に'''こゐ'''つきたるに...|...き を つくりたる をとこ の かた.あし に '''こゐ''' つきたる に...|tr=...ki o tsukuritaru otoko no kataashi ni '''koi''' tsukitaru ni...}}
 #: {{synonyms|ja|尰|tr1=omeashi|尰足|tr2=koiashi|尰脛|tr3=koizune}}
 
 ===See also===
