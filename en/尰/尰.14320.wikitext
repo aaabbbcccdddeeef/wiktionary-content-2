@@ -42,7 +42,51 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=尢09}}
 
-# {{defn|lang=ja|sort=尢09}}
+# [[swelling]]
 
 ====Readings====
-* {{ja-readings|on=[[しょう]] (shō), [[じゅ]] (ju)|kun=}}
+{{ja-readings
+|on=しょう, じゅ, しゅう
+|kun=こい<こひ, おめあし
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|おめあし|alt=瘇}}
+
+Compound of {{compound|ja|おめ|tr1=ome|pos1=of unknown meaning|[[足]], [[脚]]|tr2=ashi|t2=[[foot]], [[leg]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+First appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of roughly 934 {{CE}}, with the later sense appearing in 1793.<ref name="KDJ"/> 
+
+====Pronunciation====
+{{ja-pron|yomi=k|おめあし}}
+
+====Noun====
+{{ja-noun|おめあし}}
+
+# {{lb|ja|sort=こい|archaic|possibly|_|obsolete|934 {{CE}}}} a kind of [[beriberi]] ([[vitamin B]] [[deficiency]]) causing [[swelling]] of the [[lower]] [[leg]]
+#: {{synonyms|ja|尰|tr1=koi|尰足|tr2=koiashi|尰脛|tr3=koizune}}
+# {{lb|ja|sort=こい|archaic|possibly|_|obsolete|1793}} a [[predicament]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|こい}}
+
+{{IPAchar|/kofi/}} → {{IPAchar|/kowi/}} → {{IPAchar|/koi/}}
+
+{{unk|ja|sort=こい}}.  A surface analysis suggests that this is the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of a verb *''kofu'' (“to swell”), but no such word seems to exist.
+
+Appears in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}} of roughly 934 {{CE}}.<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|こい}}
+
+====Noun====
+{{ja-noun|こい|hhira=こひ}}
+
+# {{lb|ja|sort=こい|archaic|possibly|_|obsolete}} a kind of [[beriberi]] ([[vitamin B]] [[deficiency]]) causing [[swelling]] of the [[lower]] [[leg]]
+#: {{synonyms|ja|尰|tr1=omeashi|尰足|tr2=koiashi|尰脛|tr3=koizune}}
+
+===See also===
+* {{ja-r|脚気|かっけ|[[beriberi]]}}
+
+===References===
+<references/>
