@@ -1,49 +1,82 @@
 {{character info/new}}
 ==Translingual==
-[[File:Sakaki branch.jpg|thumb|right|150px|榊 (sakaki)]]
 
 ===Han character===
 {{Han char|rn=75|rad=木|as=10|sn=14|four=|canj=DIFL|ids=⿰木神}}
 
 ====References====
 * {{Han ref|kx=0546.251|hdz=21256.061|uh=698A|ud=27018}}
+
 ----
+
 ==Chinese==
-===Glyph origin===
-Borrowed from Japanese
 {{zh-forms}}
+
+===Etymology===
+{{obor|zh|ja|榊|tr=sakaki}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=shén
 |c=san4
 }}
+
 ===Definitions===
 {{zh-hanzi}}
+
 # {{taxlink|Cleyera japonica|species|noshow=1}}
+
 ----
 ==Japanese==
+
+===Glyph origin===
+{{ja-etym-kokuji|sort=さかき}}.
 
 ===Kanji===
 {{ja-kanji|grade=8|rs=木10}}
 
 ====Readings====
 {{ja-readings
-|on=
 |kun=さかき-
 }}
 
 ===Etymology===
-{{ja-kanjitab|さかき|yomi=kun}}
-{{wikipedia|サカキ|lang=ja}}
-{{rfe|lang=ja}}
+{{ja-kanjitab|yomi=kun|さかき|alt=賢木}}
+{{wp|lang=ja|サカキ}}
+{{wp|Cleyera japonica}}
+
+The initial ''saka'' is cognate with verb {{m|ja|栄える|tr=sakaeru||to [[prosper]], [[thrive]]}}, while the final ''ki'' is definitely {{com|ja|sort=さかき|木|tr1=ki|t1=[[tree]]}}.
 
 ====Pronunciation====
-{{ja-pron|さかき|yomi=k}}
+{{ja-pron|yomi=k|さかき|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|さかき|サカキ}}
 
 # {{taxlink|Cleyera japonica|species|noshow=1}}, a [[species]] of [[tree]] [[consider]]ed [[sacred]] in [[Shinto]]
+# any [[evergreen]] [[tree]] [[plant#Verb|planted]] [[within]] [[precinct]]s of a [[Shinto]] [[shrine]]
+
+====Derived terms====
+{{der-top3}}
+* {{ja-r|賢木|^さかき|pos=[[tenth]] [[chapter]] of ''{{w|The Tale of Genji}}''}}
+* {{ja-r|榊%入り|さかき%-いり}}
+* {{ja-r|榊%舁き|さかき%-かき}}
+* {{ja-r|榊%蔓|サカキ%カズラ}}
+* {{ja-r|榊%葉|さかき%ば}}
+* {{ja-r|榊%原|^さかき%ばら}}
+* {{ja-r|柃|ヒサカキ}}
+* {{ja-r|真%榊|ま%-さかき}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|さかき}}
+
+# {{n-g|a [[placename]]}}
+# {{given name|female|lang=ja|A=a|sort=さかき}}
+# {{surname|lang=ja|A=a|nodot=1|sort=さかき}}
+
+===References===
+<references/>
 
 [[Category:Japanese-only CJKV Characters|木+10]]
-{{C|ja|Lucky charms}}
+{{C|ja|Shinto|Lucky charms}}
