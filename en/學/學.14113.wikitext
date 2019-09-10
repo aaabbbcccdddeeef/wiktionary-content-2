@@ -20,10 +20,10 @@
 
 ===Glyph origin===
 {{Han etyl}}
-Ancient forms: {{zh-l|*斆}}, {{zh-l|*斅}}. The former is constructed from the skeleton of {{zh-l|敎/教|to teach}} with the addition of two extra components: 1) a {{zh-l|*𦥑}} component around the top-left {{zh-l|*爻}} part, in this case signifying mingling hands (''[[hands-on]] learning''); 2) a {{zh-l|*冖|cover}} over {{zh-l|*子|child}}, representing the cover of a building or school, i.e. the child learns in a roofed place. ''{{w|Shuowen}}'' regards {{zh-l|*𦥑}} as the phonetic component in the character, which may be true according to some Old Chinese reconstructions such as that of {{w|Pan Wuyun}}'s, though probably not others. See {{zh-l|*教}} for more. The earliest structure may suggest its relationship with {{zh-l|*六}}, with reconstruction *rug.
+Ancient forms: {{zh-l|*斆}}, {{zh-l|*斅}}. The former is constructed from the skeleton of {{zh-l|敎/教|to [[teach]]}} with the addition of two extra components: 1) a {{zh-l|*𦥑}} component around the top-left {{zh-l|*爻}} part, in this case signifying mingling hands (“[[hands-on]] [[learning]]”); 2) a {{zh-l|*冖|[[cover]]}} over {{zh-l|*子|[[child]]}}, representing the cover of a building or school, i.e. the child learns in a roofed place. ''{{w|Shuowen}}'' regards {{zh-l|*𦥑}} as the phonetic component in the character, which may be true according to some Old Chinese reconstructions such as that of {{w|Pan Wuyun}}'s, though probably not others. See {{zh-l|*教}} for more. The earliest structure may suggest its relationship with {{zh-l|*六}}, with reconstruction *rug.
 
 ===Etymology===
-May be an endopassive derivation of {{och-l|覺|to awake, get insight}}. Ultimately from {{inh|zh|sit-pro|*kruk||rouse; awaken; disturb}}.
+May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]] [[insight]]}}. Ultimately from {{inh|zh|sit-pro|*kruk||[[rouse]]; [[awaken]]; [[disturb]]}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -99,22 +99,14 @@ May be an endopassive derivation of {{och-l|覺|to awake, get insight}}. Ultimat
 ===Kanji===
 {{ja-kanji|grade=9|rs=子13|shin=学}}
 
-# Learning, student, study
-# School, education
-# Subject, field of study, science
-# Understanding, knowledge
+# {{ja-kyujitai spelling of|学}}
 
 ====Readings====
 {{ja-readings
 |goon=がく
-|kanon=がく
+|kanon=かく
 |kun=まな-ぶ
 }}
-
-====Compounds====
-* {{ja-r|蘭學|らんがく}}
-* {{ja-r|學校|がっこう}}
-* {{ja-r|學生|がくせい}}
 
 ----
 
@@ -123,45 +115,46 @@ May be an endopassive derivation of {{och-l|覺|to awake, get insight}}. Ultimat
 ===Hanja===
 {{ko-hanja/new|배우다|배울|학}}
 
-# [[learn]], take lessons, be taught, [[study]]
+# [[learn]], [[take]] [[lesson]]s, [[be]] [[teach|taught]], [[study]]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[học]]|rs=子13}}
+{{vi-readings|rs=子13
+|hanviet=học-genibrel;bonet;gdhn;tdcntd
+|nom=nhũ-gdhn
+}}
 
-# to [[learn]], to [[study]]
+# {{han tu form of|học|to [[learn]], to [[study]]}}
 
 ====Compounds====
-* {{l|vi|學習|tr=[[học tập]]}}
-* {{l|vi|哲學|tr=[[triết học]]}}
-* {{l|vi|神學|tr=[[thần học]]}}
-* {{l|vi|學生|tr=[[học sinh]]}}
-* {{l|vi|大學|tr=[[đại học]]}}
-* {{l|vi|科學|tr=[[khoa học]]}}
-* {{l|vi|小學|tr=[[tiểu học]]}}
-* {{l|vi|𠰺學|tr=[[dạy học]]}}
-* {{l|vi|中學|tr=[[trung học]]}}
-* {{l|vi|儒學|tr=[[Nho học]]}}
-* {{l|vi|化學|tr=[[hoá học]]}}
-* {{l|vi|場學|tr=[[trường học]]}}
-* {{l|vi|學院|tr=[[học viện]]}}
-* {{l|vi|生學|tr=[[sinh học]]}}
-* {{l|vi|藥學|tr=[[dược học]]}}
-* {{l|vi|人類學|tr=[[nhân loại học]]}}
-* {{l|vi|分類學|tr=[[phân loại học]]}}
-* {{l|vi|動物學|tr=[[động vật học]]}}
-* {{l|vi|場大學|tr=[[trường đại học]]}}
-* {{l|vi|場小學|tr=[[trường tiểu học]]}}
-* {{l|vi|地質學|tr=[[địa chất học]]}}
-* {{l|vi|考古學|tr=[[khảo cổ học]]}}
-* {{l|vi|古生物學|tr=[[cổ sinh vật học]]}}
-
-====Usage notes====
-* Chữ Nôm. The modern Vietnamese equivalent is [[học]].
-* This is the regular form of the character. The common form is [[学]].
+{{der-top5|Compounds}}
+* {{vi-l|學習|học tập}}
+* {{vi-l|學生|học sinh}}
+* {{vi-l|學院|học viện}}
+* {{vi-l|哲學|triết học}}
+* {{vi-l|神學|thần học}}
+* {{vi-l|大學|đại học}}
+* {{vi-l|科學|khoa học}}
+* {{vi-l|小學|tiểu học}}
+* {{vi-l|𠰺學|dạy học}}
+* {{vi-l|中學|trung học}}
+* {{vi-l|儒學|Nho học}}
+* {{vi-l|化學|hoá học}}
+* {{vi-l|場學|trường học}}
+* {{vi-l|生學|sinh học}}
+* {{vi-l|藥學|dược học}}
+* {{vi-l|人類學|nhân loại học}}
+* {{vi-l|分類學|phân loại học}}
+* {{vi-l|動物學|động vật học}}
+* {{vi-l|場大學|trường đại học}}
+* {{vi-l|場小學|trường tiểu học}}
+* {{vi-l|地質學|địa chất học}}
+* {{vi-l|考古學|khảo cổ học}}
+* {{vi-l|古生物學|cổ sinh vật học}}
+{{der-bottom}}
 
 ====References====
-* [http://www.chunom.org/pages/學 www.chunom.org]
+<references/>
