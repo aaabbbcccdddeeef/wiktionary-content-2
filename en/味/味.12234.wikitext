@@ -124,6 +124,16 @@ From {{inh|ja|ojp|sort=あし|-}}.
 ====Pronunciation====
 {{ja-pron|y=k|あじ|acc=0|acc_ref=DJR}}
 
+====Adjective====
+{{ja-adj|infl=na|あじ|hhira=あぢ}}
+
+# [[clever]], [[smart]], [[witty]]
+# [[mysterious]], [[strange]]
+
+=====Inflection=====
+{{ja-na|あじ}}
+{{ja-conj-bungo|あぢ|adj-nar}}
+
 ====Noun====
 {{ja-noun|あじ|hhira=あぢ}}
 
@@ -156,22 +166,23 @@ From {{inh|ja|ojp|sort=あし|-}}.
 * {{ja-r|紫陽花|アジサイ}}
 * {{ja-r|味の素|^あじのもと}}
 
-====Adjectival noun====
-{{ja-adj|infl=na|あじ|hhira=あぢ}}
-
-# [[clever]], [[smart]], [[witty]]
-# [[mysterious]], [[strange]]
-
-=====Inflection=====
-{{ja-na|あじ}}
-{{ja-conj-bungo|あぢ|adj-nar}}
-
 ===Etymology 2===
 {{ja-kanjitab|yomi=goon|み}}
 
 From {{der|ja|ltc|sort=み|-}} {{ltc-l|味}}.
 
 Also used in {{cog|ojp|-}} as {{m|ja|借音|tr=shakuon}} ''{{ll|ja|仮名|kana}}'' for {{IPAfont|⟨mi<sub>2</sub>⟩}}.
+
+====Affix====
+{{ja-pos|み|affix}}
+
+# [[flavor]], [[taste]]
+# [[taste#Verb|tasting]], [[savor]]ing
+# taste, [[savor]]
+# {{alt sp|lang=ja|身|tr=mi}}: [[body part]]
+
+=====Derived terms=====
+* {{ja-r|味%醂|み%りん}}
 
 ====Noun====
 {{ja-noun|み}}
@@ -200,17 +211,6 @@ Also used in {{cog|ojp|-}} as {{m|ja|借音|tr=shakuon}} ''{{ll|ja|仮名|kana}}
 * {{ja-r|皹%味%泥|ヒビ%ミ%ドロ}}
 * {{ja-r|星%味%泥|ホ%シミ%ドロ}}
 {{der-bottom}}
-
-====Affix====
-{{ja-pos|み|affix}}
-
-# [[flavor]], [[taste]]
-# [[taste#Verb|tasting]], [[savor]]ing
-# taste, [[savor]]
-# {{alt sp|lang=ja|身|tr=mi}}: [[body part]]
-
-=====Derived terms=====
-* {{ja-r|味%醂|み%りん}}
 
 ===References===
 <references/>
