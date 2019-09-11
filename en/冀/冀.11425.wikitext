@@ -33,7 +33,7 @@
 {{zh-hanzi}}
 
 # to [[look forward to]]; to [[hope]] [[for]]; to [[wish]]
-# {{zh-alt-name|河北|[[Hebei]] [[province]]}}
+# {{zh-alt-name|河北|[[Hebei]] [[province|Province]]}}
 
 ===Compounds===
 {{zh-der|冀望|冀求|可冀|冀北|冀州|希冀|冀圖|非冀}}
@@ -45,18 +45,46 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=八14}}
 
-# {{defn|lang=ja|sort=八14}}
-
 ====Readings====
-* {{ja-readings|on=[[き]] (ki)|kun=[[こいねがう]] (koinegau), [[こいねがわ]] (koinegawa)}}
+{{ja-readings
+|goon=き
+|kanon=き
+|kun=こいねが-う<こひねが-ふ, こいねが-わくは<こひねが-はくは
+}}
 
-====Compounds====
-{{der-top3|Compounds}}
+===Etymology===
+{{ja-kanjitab|yomi=o|き}}
+
+From {{der|ja|ltc|sort=き|-}} {{ltc-l|冀}}.
+
+===Affix===
+{{ja-pos|affix|き}}
+
+# [[hope]] [[for]], [[look forward to]], [[wish]]
+
+====Derived terms====
+{{der-top3}}
 * {{ja-r|冀%願|き%がん|[[wish]]}}
+* {{ja-r|冀%求|き%きゅう}}
 * {{ja-r|冀%幸|き%こう}}
-* {{ja-r|冀%馬|き%ば}}
+* {{ja-r|冀図|きと}}
 * {{ja-r|冀%望|き%ぼう}}
-* {{ja-r|冀%北|き%ほく}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|き}}
+
+# {{lb|ja|sort=き|historical}} {{short for|ja|冀州|tr=Kishū|dot=:}} {{w|Ji Province}}
+# {{synonym of|ja|河北|tr=Kahoku}}: [[Hebei]] [[province|Province]]
+
+====Derived terms====
+{{der-top3}}
+* {{ja-r|冀%察 政権|^き%さつ ^せいけん}}
+* {{ja-r|冀%察 政%務 委%員%会|^き%さつ ^せい%む ^い%いん%かい}}
+* {{ja-r|冀%州|^き%しゅう}}
+* {{ja-r|冀%北|^き%ほく}}
+* {{ja-r|冀%東 政権|^き%とう ^せいけん}}
+* {{ja-r|冀東 防%共 自治%政%府|^き%とう ^ぼう%きょう ^じち%せい%ふ}}
 {{der-bottom}}
 
 ----
