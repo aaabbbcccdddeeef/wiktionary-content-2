@@ -1,29 +1,33 @@
 {{also|学}}
-{{character info/new}}
+{{character info/subpage}}
 ==Translingual==
+{{ja-forms|[[学]]|[[学]]|學}}
 {{stroke order|type=animate}}
 {{stroke order|type=alternative}}<!-- Are these traditional/modern, in some order? Check at commons too. -->
 
 ===Han character===
 {{Han char|rn=39|rad=子|as=13|sn=16|four=77407|canj=HBND|ids=⿱𦥯子}}
 
-====Descendants====
-* [[学]]
+====Derived characters====
+* {{l|mul|[[𠐮]], [[𡄆]], [[㙾]], [[𡦰]], [[𢤾]], [[㩭]], [[㶅]], [[𤣌]], [[㰒]], [[𤒎]], [[𥗙]], [[𨯰]], [[𡦸]], [[𫦾]], [[𭭗]], [[斅]], [[斆]], [[𭯄]], [[𪈔]], [[𧅷]]}}
 
-===References===
-* {{Han ref|kx=0280.280|dkj=07033|dj=0549.270|hdz=21019.110|uh=5B78|ud=23416|bh=BEC7|bd=48839}}
+====Related characters====
+* {{l|mul|学}} {{q|Japanese [[shinjitai]] and [[Simplified Chinese]]}}
+
+===Further reading===
+{{Han ref|kx=0280.280|dkj=07033|dj=0549.270|hdz=21019.110|uh=5B78}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=学|alt=斆,斅,斈,⿳⿰⿰丨丨丰冖子}}
+{{zh-forms|s=学|alt=斆,斅,斈,𢻯,𡕕,𣁃,𫝯,𭓕,𭓘}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 Ancient forms: {{zh-l|*斆}}, {{zh-l|*斅}}. The former is constructed from the skeleton of {{zh-l|敎/教|to [[teach]]}} with the addition of two extra components: 1) a {{zh-l|*𦥑}} component around the top-left {{zh-l|*爻}} part, in this case signifying mingling hands (“[[hands-on]] [[learning]]”); 2) a {{zh-l|*冖|[[cover]]}} over {{zh-l|*子|[[child]]}}, representing the cover of a building or school, i.e. the child learns in a roofed place. ''{{w|Shuowen}}'' regards {{zh-l|*𦥑}} as the phonetic component in the character, which may be true according to some Old Chinese reconstructions such as that of {{w|Pan Wuyun}}'s, though probably not others. See {{zh-l|*教}} for more. The earliest structure may suggest its relationship with {{zh-l|*六}}, with reconstruction *rug.
 
 ===Etymology===
-May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]] [[insight]]}}. Ultimately from {{inh|zh|sit-pro|*kruk||[[rouse]]; [[awaken]]; [[disturb]]}}.
+May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]] [[insight]]}}. Ultimately from {{inh|zh|sit-pro|*kruk||to [[rouse]]; to [[awaken]]; to [[disturb]]}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -57,18 +61,20 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 
 # {{†}} to [[comprehend]]; to [[realise]]; to [[understand]]
 # {{lb|zh|transitive}} to [[learn]]; to [[study]]
+#* {{zh-x|學 而 時 習 之，不 亦 說{yuè} 乎？|ref=Analects|Is it not pleasant to '''learn''' with a constant perseverance and application?}}
 #: {{zh-x|學習|to study; to learn}}
 #: {{zh-x|我 打算 學 攝影。|I plan to '''learn''' photography.}}
-#* {{zh-x|我 父母親 希望 我 學 醫，但是 我 不 願意。|My parents hoped I would '''study''' medicine, but I didn't want to.}}
+#: {{zh-x|我 父母親 希望 我 學 醫，但是 我 不 願意。|My parents hoped I would '''study''' medicine, but I didn't want to.}}
 # {{lb|zh|transitive}} to [[learn]] to do something (to get into the habit)
-#* {{zh-x|老師 叫 極 佢 都 唔 肯 學 講 唔該。|He refuses to '''learn''' to say thank you, even if his teacher asked him many times.|C}}
-#* {{zh-x|佢 學 慣 咗 玩 呢{ni1} 種 遊戲。|He '''got used''' to play this game.|C}}
-#* {{zh-x|佢 學 咗 講 美國 口音，但係 去 到 英國 嘅 時候，佢 學 講 英國 口音，返去 美國 之後，佢 學 返 講 美國 口音。|He '''learned''' to speak with an American accent, but when he was in United Kingdom, he '''learned''' to speak with a British accent, and when he came back to United States, he re'''learned''' to speak with an American accent.|C}}
+#: {{zh-x|老師 叫 極 佢 都 唔 肯 學 講 唔該。|He refuses to '''learn''' to say thank you, even if his teacher asked him many times.|C}}
+#: {{zh-x|佢 學 慣 咗 玩 呢{ni1} 種 遊戲。|He '''got used''' to play this game.|C}}
+#: {{zh-x|佢 學 咗 講 美國 口音，但係 去 到 英國 嘅 時候，佢 學 講 英國 口音，返去 美國 之後，佢 學 返 講 美國 口音。|He '''learned''' to speak with an American accent, but when he was in United Kingdom, he '''learned''' to speak with a British accent, and when he came back to United States, he re'''learned''' to speak with an American accent.|C}}
 # to [[imitate]]; to [[copy]]; to [[mimic]]
 #: {{zh-x|鸚鵡 學 人 語。|Parrots '''imitate''' human speech.}}
-#* {{zh-x|我 妹妹 什麼 都 學 我。|My little sister likes to '''copy''' everything I do.}}
-#* {{zh-x|學 人哋 用 叉 食飯|'''imitate''' others and use a fork to eat|C}}
+#: {{zh-x|我 妹妹 什麼 都 學 我。|My little sister likes to '''copy''' everything I do.}}
+#: {{zh-x|學 人哋 用 叉 食飯|'''imitate''' others and use a fork to eat|C}}
 # [[school]]
+#: {{zh-x|學費|'''school''' fees}}
 # [[learning]]; [[knowledge]]
 # [[theory]]; [[doctrine]]
 # [[subject]]; [[branch]] of [[learning]]; [[science]]; [[-ology]]
@@ -81,7 +87,7 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 * {{zh-l|念書|(''colloquial'') to study}}
 
 ===Compounds===
-{{zh-der|學報|學步|學部|學潮|學而不厭|學閥|學費|學分|學風|學府|學富五車|學好|學壞|學會|學級|學籍|學界|學究|學科|學理|學力|學歷|學齡|學路|學名|學年|學派|學期|學前班|學前教育|學前期|學區|學舌|學生|學生會|學生腔|學識|學時|學士|學術|學說|學堂|學童|學徒|學徒工|學位|學問|學無常師|學習|學系|學校|學兄|學養|學業|學以致用|學藝|學友|學員|學院|學雜費|學子|學長|學者|學制|三學|三角學|上學|下學|中學|主日學|人相學|人類學|代數學|仿生學|休學|佛學|來學|俗文學|修學|修辭學|倫理學|假道學|做學問|停學|傳播學|儒學|優境學|優生學|光化學|光學|兒童學|入學|內學|公學|典學|分類學|刑事學|刑法學|初學|初學記|力學|助學|助學金|勤學|勸學|勸學篇|化學|化學家|化學式|化學戰|化學能|化學鍵|化石學|北學|升學|南北學|南學|博學|博學篇|博物學|印章學|厚黑學|古學|史學|右學|同學|同學會|同學錄|名學|向學|和聲學|品學|哲學|哲學家|哲學系|困學|國學|園藝學|土壤學|在學|地理學|地質學|夜學|大學|大學區|大學問|大學城|大學士|大學服|大學法|大學生|大學部|大學院|天文學|太學|太學生|失學|女學|女學士|好學|婦學|字學|字樣學|字相學|學乖|學人|學伴|學俸|學分費|學務|學塾|學士服|學官|學宮|學店|學廟|學徒制|學成|學政|學曆|學書紙|學案|學棍|學樣|學步車|學殖|學海|學生證|學田|學監|學租|學窮|學籍卡|學籍簿|學統|學臺|學舍|學號|學行|學規|學記|學課錢|學運|學道|學院派|學額|學館|宋學|宗學|宗教學|官學|宦學|宮學|家傳學|家學|宿學|實學|小學|小學生|就學|岩石學|州學|工學|工學院|工藝學|左學|帖學|幼學|幾何學|府學|廢學|建築學|形上學|形態學|後學|後學兒|復學|微分學|心學|心理學|志學|性理學|手相學|才學|拓撲學|捧心學|提學|提學道|放學|放年學|政治學|教學|教學法|教授學|教育學|數學|文字學|文學|文學史|文學家|新儒學|新學|新文學|新聞學|方言學|昆蟲學|易學|易漢學|晚學|晚學生|曲學|書學|會計學|未來學|末學|朱子學|村學|村學究|查學|校勘學|核化學|梵學|森林學|植物學|樸學|武學|歷史學|死亡學|民俗學|氣候學|氣象學|求學|沒學問|治學|法學|法律學|法理學|法醫學|洛學|流行學|海洋學|淫學|淺學|測量學|游學|湖學|漢學|為學|熱力學|熱化學|熱學|熱工學|營養學|版本學|物理學|獎學金|獸醫學|玄學|理則學|理學|理學家|生物學|生理學|甲骨學|留學|留學生|畜牧學|病理學|發生學|發音學|目錄學|省視學|督學|硬文學|硬科學|碑學|磁學|礦物學|社學|社會學|神學|視學|禪學|科學|科學家|積分學|竺學|等韻學|算學|篤學|簡牘學|簿記學|紅學|純文學|細胞學|細菌學|絕學|統計學|經學|經濟學|縣學|績學|繆學|繳學費|美學|義學|老人學|老同學|老學|老學究|考古學|考據學|耳學|聲學|聲韻學|胚胎學|自學|興學|舊學|蒙學|藥學|藥物學|行政學|行銷學|西學|規範學|解剖學|訓詁學|詞典學|詞學|詞彙學|詞義學|詩學|語意學|語文學|語源學|語言學|語音學|論理學|謎學|講學|譜學|警察學|譯學館|賴學|軟文學|軟科學|輟學|轉學|辦學|辭典學|農學|退學|逃學|通學|通學生|進學|進學解|遊學|道學|道學味|遺傳學|邏輯學|鄉學|醫學|金屬學|金文學|金相學|金石學|開學|閩學|附學|陰陽學|雙學位|雜學|電學|靈物學|音位學|音學|音韻學|音響學|章學誠|韻學|顯學|飽學|師範大學|敦品勵學|學海無涯|學海無涯，唯勤是岸|學無止境}}
+{{zh-der|hide_pron=1|學報|學步|學部|學潮|學而不厭|學閥|學費|學分|學風|學府|學富五車|學好|學壞|學會|學級|學籍|學界|學究|學科|學理|學力|學歷|學齡|學路|學名|學年|學派|學期|學前班|學前教育|學前期|學區|學舌|學生|學生會|學生腔|學識|學時|學士|學術|學說|學堂|學童|學徒|學徒工|學位|學問|學無常師|學習|學系|學校|學兄|學養|學業|學以致用|學藝|學友|學員|學院|學雜費|學子|學長|學者|學制|三學|三角學|上學|下學|中學|主日學|人相學|人類學|代數學|仿生學|休學|佛學|來學|俗文學|修學|修辭學|倫理學|假道學|做學問|停學|傳播學|儒學|優境學|優生學|光化學|光學|兒童學|入學|內學|公學|典學|分類學|刑事學|刑法學|初學|初學記|力學|助學|助學金|勤學|勸學|勸學篇|化學|化學家|化學式|化學戰|化學能|化學鍵|化石學|北學|升學|南北學|南學|博學|博學篇|博物學|印章學|厚黑學|古學|史學|右學|同學|同學會|同學錄|名學|向學|和聲學|品學|哲學|哲學家|哲學系|困學|國學|園藝學|土壤學|在學|地理學|地質學|夜學|大學|大學區|大學問|大學城|大學士|大學服|大學法|大學生|大學部|大學院|天文學|太學|太學生|失學|女學|女學士|好學|婦學|字學|字樣學|字相學|學乖|學人|學伴|學俸|學分費|學務|學塾|學士服|學官|學宮|學店|學廟|學徒制|學成|學政|學曆|學書紙|學案|學棍|學樣|學步車|學殖|學海|學生證|學田|學監|學租|學窮|學籍卡|學籍簿|學統|學臺|學舍|學號|學行|學規|學記|學課錢|學運|學道|學院派|學額|學館|宋學|宗學|宗教學|官學|宦學|宮學|家傳學|家學|宿學|實學|小學|小學生|就學|岩石學|州學|工學|工學院|工藝學|左學|帖學|幼學|幾何學|府學|廢學|建築學|形上學|形態學|後學|後學兒|復學|微分學|心學|心理學|志學|性理學|手相學|才學|拓撲學|捧心學|提學|提學道|放學|放年學|政治學|教學|教學法|教授學|教育學|數學|文字學|文學|文學史|文學家|新儒學|新學|新文學|新聞學|方言學|昆蟲學|易學|易漢學|晚學|晚學生|曲學|書學|會計學|未來學|末學|朱子學|村學|村學究|查學|校勘學|核化學|梵學|森林學|植物學|樸學|武學|歷史學|死亡學|民俗學|氣候學|氣象學|求學|沒學問|治學|法學|法律學|法理學|法醫學|洛學|流行學|海洋學|淫學|淺學|測量學|游學|湖學|漢學|為學|熱力學|熱化學|熱學|熱工學|營養學|版本學|物理學|獎學金|獸醫學|玄學|理則學|理學|理學家|生物學|生理學|甲骨學|留學|留學生|畜牧學|病理學|發生學|發音學|目錄學|省視學|督學|硬文學|硬科學|碑學|磁學|礦物學|社學|社會學|神學|視學|禪學|科學|科學家|積分學|竺學|等韻學|算學|篤學|簡牘學|簿記學|紅學|純文學|細胞學|細菌學|絕學|統計學|經學|經濟學|縣學|績學|繆學|繳學費|美學|義學|老人學|老同學|老學|老學究|考古學|考據學|耳學|聲學|聲韻學|胚胎學|自學|興學|舊學|蒙學|藥學|藥物學|行政學|行銷學|西學|規範學|解剖學|訓詁學|詞典學|詞學|詞彙學|詞義學|詩學|語意學|語文學|語源學|語言學|語音學|論理學|謎學|講學|譜學|警察學|譯學館|賴學|軟文學|軟科學|輟學|轉學|辦學|辭典學|農學|退學|逃學|通學|通學生|進學|進學解|遊學|道學|道學味|遺傳學|邏輯學|鄉學|醫學|金屬學|金文學|金相學|金石學|開學|閩學|附學|陰陽學|雙學位|雜學|電學|靈物學|音位學|音學|音韻學|音響學|章學誠|韻學|顯學|飽學|師範大學|敦品勵學|學海無涯|學海無涯，唯勤是岸|學無止境}}
 
 ===Descendants===
 {{CJKV||j=学|がく|학|học}}
@@ -112,10 +118,214 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja/new|배우다|배울|학}}
+===Etymology===
+From {{der|ko|ltc|sort=학|-}} {{ltc-l|學}}. {{hanja-hunmong|ᄒᆞᆨ|hok|雜語#하31A}}
 
-# [[learn]], [[take]] [[lesson]]s, [[be]] [[teach|taught]], [[study]]
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|배우다|배울|학}}
+
+# {{hanja form of|학|to [[learn]], to [[study]]; to be [[teach|taught]]}}
+# {{hanja form of|학|{{lb|ko|suffix}} [[subject]]; [[branch]] of [[learning]]; [[-ology]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|학계|學界}}
+* {{ko-l|학과|學科}}
+* {{ko-l|학과|學課}}
+* {{ko-l|학교|學校}}
+* {{ko-l|학구|學區}}
+* {{ko-l|학구|學究}}
+* {{ko-l|학급|學級}}
+* {{ko-l|학기|學期}}
+* {{ko-l|학년|學年}}
+* {{ko-l|학당|學堂}}
+* {{ko-l|학덕|學德}}
+* {{ko-l|학도|學徒}}
+* {{ko-l|학력|學力}}
+* {{ko-l|학력|學歷}}
+* {{ko-l|학령|學齡}}
+* {{ko-l|학명|學名}}
+* {{ko-l|학문|學問}}
+* {{ko-l|학번|學番}}
+* {{ko-l|학벌|學閥}}
+* {{ko-l|학비|學費}}
+* {{ko-l|학사|學士}}
+* {{ko-l|학생|學生}}
+* {{ko-l|학설|學說}}
+* {{ko-l|학술|學術}}
+* {{ko-l|학습|學習}}
+* {{ko-l|학식|學識}}
+* {{ko-l|학업|學業}}
+* {{ko-l|학예|學藝}}
+* {{ko-l|학우|學友}}
+* {{ko-l|학원|學園}}
+* {{ko-l|학원|學院}}
+* {{ko-l|학위|學位}}
+* {{ko-l|학자|學者}}
+* {{ko-l|학장|學長}}
+* {{ko-l|학적|學籍}}
+* {{ko-l|학점|學點}}
+* {{ko-l|학제|學制}}
+* {{ko-l|학제|學際}}
+* {{ko-l|학파|學派}}
+* {{ko-l|학행|學行}}
+* {{ko-l|학회|學會}}
+* {{ko-l|가학|家學}}
+* {{ko-l|강학|講學}}
+* {{ko-l|개학|開學}}
+* {{ko-l|견학|見學}}
+* {{ko-l|경학|經學}}
+* {{ko-l|고학|苦學}}
+* {{ko-l|곡학|曲學}}
+* {{ko-l|곤학|困學}}
+* {{ko-l|공학|共學}}
+* {{ko-l|공학|工學}}
+* {{ko-l|과학|科學}}
+* {{ko-l|광학|光學}}
+* {{ko-l|구학|舊學}}
+* {{ko-l|국학|國學}}
+* {{ko-l|근학|勤學}}
+* {{ko-l|농학|農學}}
+* {{ko-l|대학|大學}}
+* {{ko-l|도학|道學}}
+* {{ko-l|독학|獨學}}
+* {{ko-l|독학|篤學}}
+* {{ko-l|동학|同學}}
+* {{ko-l|면학|勉學}}
+* {{ko-l|몽학|蒙學}}
+* {{ko-l|무학|無學}}
+* {{ko-l|문학|文學}}
+* {{ko-l|미학|美學}}
+* {{ko-l|박학|博學}}
+* {{ko-l|박학|薄學}}
+* {{ko-l|방학|放學}}
+* {{ko-l|법학|法學}}
+* {{ko-l|보학|譜學}}
+* {{ko-l|부학|膚學}}
+* {{ko-l|사학|史學}}
+* {{ko-l|사학|斯學}}
+* {{ko-l|사학|私學}}
+* {{ko-l|사학|邪學}}
+* {{ko-l|산학|算學}}
+* {{ko-l|선학|禪學}}
+* {{ko-l|소학|小學}}
+* {{ko-l|수학|修學}}
+* {{ko-l|수학|受學}}
+* {{ko-l|수학|數學}}
+* {{ko-l|신학|神學}}
+* {{ko-l|실학|實學}}
+* {{ko-l|야학|夜學}}
+* {{ko-l|약학|藥學}}
+* {{ko-l|어학|語學}}
+* {{ko-l|[[역학]]/[[력학]]|力學}}
+* {{ko-l|[[예학]]/[[례학]]|禮學}}
+* {{ko-l|왕학|王學}}
+* {{ko-l|유학|儒學}}
+* {{ko-l|[[유학]]/[[류학]]|留學}}
+* {{ko-l|유학|遊學}}
+* {{ko-l|의학|醫學}}
+* {{ko-l|이학|理學}}
+* {{ko-l|입학|入學}}
+* {{ko-l|잡학|雜學}}
+* {{ko-l|장학|獎學}}
+* {{ko-l|재학|在學}}
+* {{ko-l|정학|停學}}
+* {{ko-l|중학|中學}}
+* {{ko-l|지학|志學}}
+* {{ko-l|진학|進學}}
+* {{ko-l|천학|淺學}}
+* {{ko-l|철학|哲學}}
+* {{ko-l|축학|竺學}}
+* {{ko-l|취학|就學}}
+* {{ko-l|통학|通學}}
+* {{ko-l|퇴학|退學}}
+* {{ko-l|폐학|廢學}}
+* {{ko-l|한학|漢學}}
+* {{ko-l|향학|鄕學}}
+* {{ko-l|현학|玄學}}
+* {{ko-l|현학|衒學}}
+* {{ko-l|호학|好學}}
+* {{ko-l|화학|化學}}
+* {{ko-l|후학|後學}}
+* {{ko-l|휴학|休學}}
+* {{ko-l|학구적|學究的}}
+* {{ko-l|학부모|學父母}}
+* {{ko-l|학생증|學生證}}
+* {{ko-l|학용품|學用品}}
+* {{ko-l|장학금|奬學金}}
+* {{ko-l|건축학|建築學}}
+* {{ko-l|경제학|經濟學}}
+* {{ko-l|고고학|考古學}}
+* {{ko-l|고증학|考證學}}
+* {{ko-l|곤충학|昆蟲學}}
+* {{ko-l|골상학|骨相學}}
+* {{ko-l|광화학|光化學}}
+* {{ko-l|금석학|金石學}}
+* {{ko-l|기상학|氣象學}}
+* {{ko-l|기하학|幾何學}}
+* {{ko-l|기후학|氣候學}}
+* {{ko-l|노인학|老人學}}
+* {{ko-l|논리학|論理學}}
+* {{ko-l|대수학|代數學}}
+* {{ko-l|동물학|動物學}}
+* {{ko-l|면역학|免疫學}}
+* {{ko-l|물리학|物理學}}
+* {{ko-l|미래학|未來學}}
+* {{ko-l|민속학|民俗學}}
+* {{ko-l|박물학|博物學}}
+* {{ko-l|발생학|發生學}}
+* {{ko-l|범죄학|犯罪學}}
+* {{ko-l|병리학|病理學}}
+* {{ko-l|분광학|分光學}}
+* {{ko-l|분류학|分類學}}
+* {{ko-l|사회학|社會學}}
+* {{ko-l|생리학|生理學}}
+* {{ko-l|생물학|生物學}}
+* {{ko-l|생태학|生態學}}
+* {{ko-l|생화학|生化學}}
+* {{ko-l|성리학|性理學}}
+* {{ko-l|수문학|水文學}}
+* {{ko-l|수사학|洙泗學}}
+* {{ko-l|순문학|純文學}}
+* {{ko-l|식물학|植物學}}
+* {{ko-l|심리학|心理學}}
+* {{ko-l|심미학|審美學}}
+* {{ko-l|약리학|藥理學}}
+* {{ko-l|어원학|語源學}}
+* {{ko-l|언어학|言語學}}
+* {{ko-l|[[역사학]]/[[력사학]]|歷史學}}
+* {{ko-l|열역학|熱力學}}
+* {{ko-l|우생학|優生學}}
+* {{ko-l|유전학|遺傳學}}
+* {{ko-l|윤리학|倫理學}}
+* {{ko-l|음성학|音聲學}}
+* {{ko-l|인류학|人類學}}
+* {{ko-l|정역학|靜力學}}
+* {{ko-l|정주학|程朱學}}
+* {{ko-l|정치학|政治學}}
+* {{ko-l|조직학|組織學}}
+* {{ko-l|중국학|中國學}}
+* {{ko-l|지리학|地理學}}
+* {{ko-l|지문학|地文學}}
+* {{ko-l|지정학|地政學}}
+* {{ko-l|지진학|地震學}}
+* {{ko-l|지질학|地質學}}
+* {{ko-l|천문학|天文學}}
+* {{ko-l|해부학|解剖學}}
+* {{ko-l|화본학|禾本學}}
+* {{ko-l|화산학|火山學}}
+* {{ko-l|효소학|酵素學}}
+* {{ko-l|고생물학|古生物學}}
+* {{ko-l|기생충학|寄生蟲學}}
+* {{ko-l|생물화학|生物化學}}
+* {{ko-l|양자역학|量子力學}}
+* {{ko-l|계량경제학|計量經濟學}}
+* {{ko-l|생물물리학|生物物理學}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|2506}}
 
 ----
 
@@ -123,38 +333,129 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 
 ===Han character===
 {{vi-readings|rs=子13
-|hanviet=học-genibrel;bonet;gdhn;tdcntd
-|nom=nhũ-gdhn
+|hanviet=học-tdcndg;tdcntd;gdhn;bonet;genibrel
+|phienthiet=
+|nom=học-tdcndg;tdcntd;gdhn;bonet;taberd, hục-gdhn
 }}
 
 # {{han tu form of|học|to [[learn]], to [[study]]}}
+# {{han tu form of|học|{{lb|vi|suffix}} [[subject]]; [[branch]] of [[learning]]; [[-ology]]}}
 
 ====Compounds====
-{{der-top5|Compounds}}
-* {{vi-l|學習|học tập}}
+{{der-top3|Compounds}}
+* {{vi-l|學區|học khu}}
+* {{vi-l|學期|học kỳ}}
+* {{vi-l|學費|học phí}}
 * {{vi-l|學生|học sinh}}
+* {{vi-l|学士|học sĩ}}
+* {{vi-l|學習|học tập}}
+* {{vi-l|學術|học thuật}}
+* {{vi-l|學說|học thuyết}}
+* {{vi-l|學問|học vấn}}
+* {{vi-l|學位|học vị}}
+* {{vi-l|學員|học viên}}
 * {{vi-l|學院|học viện}}
-* {{vi-l|哲學|triết học}}
-* {{vi-l|神學|thần học}}
-* {{vi-l|大學|đại học}}
-* {{vi-l|科學|khoa học}}
-* {{vi-l|小學|tiểu học}}
+* {{vi-l|博學|bác học}}
+* {{vi-l|高學|cao học}}
+* {{vi-l|機學|cơ học}}
 * {{vi-l|𠰺學|dạy học}}
-* {{vi-l|中學|trung học}}
-* {{vi-l|儒學|Nho học}}
-* {{vi-l|化學|hoá học}}
-* {{vi-l|場學|trường học}}
-* {{vi-l|生學|sinh học}}
 * {{vi-l|藥學|dược học}}
-* {{vi-l|人類學|nhân loại học}}
-* {{vi-l|分類學|phân loại học}}
+* {{vi-l|大學|[[đại học]]/[[Đại Học]]}}
+* {{vi-l|漢學|Hán học}}
+* {{vi-l|好學|hiếu học}}
+* {{vi-l|形學|hình học}}
+* {{vi-l|化學|hoá học}}
+* {{vi-l|學者|học giả}}
+* {{vi-l|學校|học hiệu}}
+* {{vi-l|科學|khoa học}}
+* {{vi-l|美學|[[mĩ học]]/[[mỹ học]]}}
+* {{vi-l|入學|nhập học}}
+* {{vi-l|儒學|Nho học}}
+* {{vi-l|光學|quang học}}
+* {{vi-l|生學|sinh học}}
+* {{vi-l|數學|số học}}
+* {{vi-l|神學|thần học}}
+* {{vi-l|小學|tiểu học}}
+* {{vi-l|算學|toán học}}
+* {{vi-l|哲學|triết học}}
+* {{vi-l|中學|trung học}}
+* {{vi-l|場學|trường học}}
+* {{vi-l|文學|văn học}}
+* {{vi-l|醫學|y học}}
+* {{vi-l|音樂學|âm nhạc học}}
+* {{vi-l|音位學|âm vị học}}
+* {{vi-l|病理學|[[bệnh lí học]]/[[bệnh lý học]]}}
+* {{vi-l|政治學|chính trị học}}
+* {{vi-l|轉動學|chuyển động học}}
+* {{vi-l|昆蟲學|côn trùng học}}
+* {{vi-l|句法學|cú pháp học}}
+* {{vi-l|民族學|dân tộc học}}
+* {{vi-l|遺傳學|di truyền học}}
+* {{vi-l|藥理學|[[dược lí học]]/[[dược lý học]]}}
+* {{vi-l|大學士|đại học sĩ}}
+* {{vi-l|代數學|đại số học}}
+* {{vi-l|道德學|đạo đức học}}
+* {{vi-l|地震學|địa chấn học}}
+* {{vi-l|地質學|địa chất học}}
+* {{vi-l|地名學|địa danh học}}
+* {{vi-l|地理學|[[địa lí học]]/[[địa lý học]]}}
+* {{vi-l|動力學|động lực học}}
 * {{vi-l|動物學|động vật học}}
+* {{vi-l|解剖學|giải phẫu học}}
+* {{vi-l|海洋學|hải dương học}}
+* {{vi-l|現象學|hiện tượng học}}
+* {{vi-l|形態學|hình thái học}}
+* {{vi-l|血清學|huyết thanh học}}
+* {{vi-l|考古學|khảo cổ học}}
+* {{vi-l|氣候學|khí hậu học}}
+* {{vi-l|氣象學|khí tượng học}}
+* {{vi-l|礦物學|khoáng vật học}}
+* {{vi-l|經濟學|kinh tế học}}
+* {{vi-l|理生學|[[lí sinh học]]/[[lý sinh học]]}}
+* {{vi-l|倫理學|[[luân lí học]]/[[luân lý học]]}}
+* {{vi-l|留學生|lưu học sinh}}
+* {{vi-l|免疫學|miễn dịch học}}
+* {{vi-l|言語學|ngôn ngữ học}}
+* {{vi-l|語音學|ngữ âm học}}
+* {{vi-l|語源學|ngữ nguyên học}}
+* {{vi-l|人口學|nhân khẩu học}}
+* {{vi-l|人類學|nhân loại học}}
+* {{vi-l|人文學|nhân văn học}}
+* {{vi-l|日本學|Nhật Bản học}}
+* {{vi-l|年代學|niên đại học}}
+* {{vi-l|分類學|phân loại học}}
+* {{vi-l|分心學|phân tâm học}}
+* {{vi-l|光譜學|quang phổ học}}
+* {{vi-l|生病學|sinh bệnh học}}
+* {{vi-l|生化學|sinh hoá học}}
+* {{vi-l|生理學|[[sinh lí học]]/[[sinh lý học]]}}
+* {{vi-l|生態學|sinh thái học}}
+* {{vi-l|生物學|sinh vật học}}
+* {{vi-l|心理學|[[tâm lí học]]/[[tâm lý học]]}}
+* {{vi-l|罪犯學|tội phạm học}}
+* {{vi-l|神經學|thần kinh học}}
+* {{vi-l|天文學|thiên văn học}}
+* {{vi-l|水文學|thuỷ văn học}}
+* {{vi-l|植物學|thực vật học}}
+* {{vi-l|中國學|Trung Quốc học}}
 * {{vi-l|場大學|trường đại học}}
 * {{vi-l|場小學|trường tiểu học}}
-* {{vi-l|地質學|địa chất học}}
-* {{vi-l|考古學|khảo cổ học}}
+* {{vi-l|修辭學|tu từ học}}
+* {{vi-l|[[辭源學]]/[[詞源學]]|từ nguyên học}}
+* {{vi-l|死亡學|tử vong học}}
+* {{vi-l|物理學|[[vật lí học]]/[[vật lý học]]}}
+* {{vi-l|微菌學|vi khuẩn học}}
+* {{vi-l|宇宙學|vũ trụ học}}
+* {{vi-l|社會學|xã hội học}}
+* {{vi-l|機學量子|cơ học lượng tử}}
+* {{vi-l|古氣候學|cổ khí hậu học}}
+* {{vi-l|古人類學|cổ nhân loại học}}
 * {{vi-l|古生物學|cổ sinh vật học}}
+* {{vi-l|古植物學|cổ thực vật học}}
+* {{vi-l|寄生蟲學|kí sinh trùng học}}
+* {{vi-l|水動力學|thuỷ động lực học}}
+* {{vi-l|微生物學|vi sinh vật học}}
 {{der-bottom}}
 
-====References====
+===References===
 <references/>
