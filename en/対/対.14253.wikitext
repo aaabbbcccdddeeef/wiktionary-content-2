@@ -4,10 +4,16 @@
 {{Han simplified forms|對|対|对}}
 
 ===Han character===
-{{Han char|rn=41|rad=寸|as=04|sn=7|four=|canj=YKDI|ids=⿰文寸}}
+{{Han char|rn=41|rad=寸|as=04|sn=7|four=04400|canj=YKDI|ids=⿰文寸}}
 
-====References====
-* {{Han ref|kx=0294.021|dkj=07419|dj=0581.140|hdz=10504.071|uh=5BFE|ud=23550}}
+====Derived characters====
+* {{l|mul|[[𠲝]], [[𢙪]], [[𢬭]], [[𪶊]], [[𨒻]], [[𬗔]], [[𧻐]], [[𩛜]], [[𣋇]], [[𫴬]], [[𬁏]], [[𬩛]], [[𢇉]], [[𬉪]], [[𪫼]]}}
+
+====Related characters====
+* {{l|mul|對}} {{q|[[kyūjitai|Kyūjitai]] form}}
+
+===Further reading===
+{{Han ref|kx=0294.021|dkj=07419|dj=0581.140|hdz=10504.071|uh=5BFE}}
 
 ----
 
@@ -15,13 +21,13 @@
 {{ja-kanji forms|対|對}}
 
 ===Glyph origin===
-{{Han simp|對|f=⿱业𦍌|t=文}}.
+{{Han simp|對#Japanese|f=⿱业𦍌#Japanese|t=文#Japanese}}.
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=寸04|kyu=對}}
 
 # [[facing]], [[opposed]]
-# [[duo]], [[dyad]]
+# [[pair]], [[duo]], [[dyad]]
 
 ====Readings====
 {{ja-readings
@@ -37,32 +43,113 @@
 {{attention|ja|please confirm this, this is translated from the Japanese Wikipedia}}
 
 ====Compounds====
-* {{ja-r|対%応|たい%おう}}
-* {{ja-r|対%外|たい%がい}}
-* {{ja-r|対%決|たい%けつ}}
-* {{ja-r|対%語|つい%ご}}, {{ja-r|対%語|たい%ご}}
-* {{ja-r|対%策|たい%さく}}
-* {{ja-r|対%称|たい%しょう}}
-* {{ja-r|対%称 代%名%詞|たい%しょう だい%めい%し}}
-* {{ja-r|対%象|たい%しょう}}
-* {{ja-r|対%照|たい%しょう}}
-* {{ja-r|対%局|たい%きょく}}
-* {{ja-r|敵%対|てき%たい}}
-* {{ja-r|対%馬|^つ%しま}}: Tsushima (Tsushima Island)
-* {{ja-r|反%対|はん%たい}}: the opposite; against
+* {{ja-r|対%句|つい%く}}
+* {{ja-r|対%語|つい%ご}}
+* {{ja-r|対%馬|^つ%しま|[[w:Tsushima Island|Tsushima Island]]}}
 
+===Etymology 1===
 {{ja-kanjitab|たい|yomi=o}}
 
-===Conjunction===
+From {{der|ja|ltc|sort=たい|-}} {{ltc-l|對}}.
+
+====Pronunciation====
+{{ja-pron|たい|yomi=go}}
+
+====Conjunction====
 {{ja-pos|たい|conjunction|kyu=對}}
 
 # [[versus]]
 #:{{syn|ja|バーサス|tr=bāsasu}}
 
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|対応|たいおう}}
+* {{ja-r|対外|たいがい}}
+* {{ja-r|対角|たいかく}}
+* {{ja-r|対格|たいかく}}
+* {{ja-r|対岸|たいがん}}
+* {{ja-r|対局|たいきょく}}
+* {{ja-r|対空|たいくう}}
+* {{ja-r|対決|たいけつ}}
+* {{ja-r|対%語|たい%ご}}
+* {{ja-r|対向|たいこう}}
+* {{ja-r|対抗|たいこう}}
+* {{ja-r|対策|たいさく}}
+* {{ja-r|対%峙|たい%じ}}
+* {{ja-r|対処|たいしょ}}
+* {{ja-r|対称|たいしょう}}
+* {{ja-r|対象|たいしょう}}
+* {{ja-r|対照|たいしょう}}
+* {{ja-r|対症|たいしょう}}
+* {{ja-r|対数|たいすう}}
+* {{ja-r|対戦|たいせん}}
+* {{ja-r|対談|たいだん}}
+* {{ja-r|対等|たいとう}}
+* {{ja-r|対%比|たい%ひ}}
+* {{ja-r|対辺|たいへん}}
+* {{ja-r|対面|たいめん}}, {{ja-r|対%面|たい%め}}
+* {{ja-r|対%話|たい%わ}}
+* {{ja-r|対立|たいりつ}}
+* {{ja-r|対流|たいりゅう}}
+* {{ja-r|相対|あいたい}}
+* {{ja-r|応対|おうたい}}
+* {{ja-r|国対|こくたい}}
+* {{ja-r|失対|しったい}}
+* {{ja-r|絶対|ぜったい}}
+* {{ja-r|相対|そうたい}}
+* {{ja-r|敵対|てきたい}}
+* {{ja-r|反対|はんたい}}
+* {{ja-r|対称 代名%詞|たいしょう だいめい%し}}
+{{der-bottom}}
+
+===Etymology 2===
 {{ja-kanjitab|つい|yomi=o}}
 
-===Counter===
+From {{der|ja|ltc|sort=つい|-}} {{ltc-l|對}}.
+
+====Pronunciation====
+{{ja-pron|つい|yomi=to}}
+
+====Counter====
 {{ja-pos|つい|counter|kyu=對}}
 
 # [[item]]s that come in [[pair]]s
-# [[set]]s of furniture etc.
+# [[set]]s of [[furniture]] etc.
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|一対|いっつい}}
+* {{ja-r|双対|そうつい}}
+* {{ja-r|塩%基%対|えん%き%つい}}
+* {{ja-r|熱電対|ねつでんつい}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|대답하다|대답할|대}}
+
+# {{hanja form of|대|{{alternative form of|ko|對}}}}
+
+===References===
+* {{R:zonmal|23550}}
+
+{{categorize|ko|Hanja variant forms|sort=대}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=寸04
+|hanviet=đối-tdcntd
+|phienthiet=
+|nom=đổi-tdcntd, đối-tdcntd, đói-tdcntd, đuổi-tdcntd
+}}
+
+# {{alternative form of|vi|對}}
+
+===References===
+<references/>
