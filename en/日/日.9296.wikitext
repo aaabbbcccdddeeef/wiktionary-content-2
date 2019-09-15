@@ -1,5 +1,5 @@
 {{also|曰|臼|白|冃|𐌇}}
-{{character info/new}}
+{{character info/subpage}}
 ==Translingual==
 {{stroke order|strokes=4}}
 {{stroke order|type=animate}}
@@ -8,6 +8,7 @@
 {{Han char|rn=72|rad=日|as=00|sn=4|four=60100|canj=A|ids=⿴囗一}}
 
 # {{mul-kangxi radical-def}}
+# {{mul-shuowen radical-def|231}}
 
 ====Usage notes====
 * Not to be confused with {{l|mul|曰}} (Kangxi radical #73), which is generally wider and shorter.
@@ -35,7 +36,7 @@ The Chu slip and silk script form similarly resemble the [[Cyrillic]] glyph [[Э
 ===Etymology===
 {{zh-forms|alt=囸,𡆠,𡇁,𡆸,𡇗,𡈎,㒲-“fuck”,入-“fuck”}}
 ; “Sun; day; etc.”
-: From {{inh|zh|sit-pro|*nəj}}. Cognate to {{etyl|bo}} {{l|bo|ཉི་མ|sc=Tibt|gloss=sun, day}}, {{etyl|my}} {{l|my|နေ့|gloss=day}},{{etyl|ksw}} {{l|ksw|နံၤ|sc=Mymr|tr=nĩ|gloss=day}}, and {{etyl|ii}} {{l|ii|ꑍ|sc=Yiii|tr=nyip|gloss=day, daytime}}.
+: From {{inh|zh|sit-pro|*nəj}}. Cognate to {{cog|bo|-}} {{m|bo|ཉི་མ|sc=Tibt|gloss=sun, day}}, {{cog|my|-}} {{m|my|နေ့|gloss=day}}, {{cog|ksw|-}} {{m|ksw|နံၤ|sc=Mymr|tr=nĩ|gloss=day}}, and {{cog|ii|-}} {{m|ii|ꑍ|sc=Yiii|tr=nyip|gloss=day, daytime}}.
 
 ; “to fuck”
 : Essentially a substitute character for {{ltc-l|入|to enter}}, that preserves the expected modern pronunciation of {{lang|zh|入}}; see the etymology there for more.
@@ -458,7 +459,7 @@ From {{inh|ja|ojp|-}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|日}}. Attested in {{w2|ko|s:훈몽자회/天文#상01A|훈몽자회／訓蒙字會|tr=-}} as [[Middle Korean]] {{m|okm|ᅀᅵᆯ〮}}.
+From {{der|ko|ltc|sort=일|-}} {{ltc-l|日}}. {{hanja-hunmong|ᅀᅵᆯ〮|zil|天文#상01A}}
 
 ===Hanja===
 {{ko-hanja-search}}
@@ -483,6 +484,11 @@ From {{der|ko|ltc|-}} {{ltc-l|日}}. Attested in {{w2|ko|s:훈몽자회/天文#�
 * {{ko-l|일정|日程}}
 * {{ko-l|일제|日帝}}
 * {{ko-l|일출|日出}}
+* {{ko-l|내일|来日}}
+* {{ko-l|매일|每日}}
+* {{ko-l|생일|生日}}
+* {{ko-l|연일|連日}}
+* {{ko-l|휴일|休日}}
 * {{ko-l|일요일|日曜日}}
 * {{ko-l|월요일|月曜日}}
 * {{ko-l|화요일|火曜日}}
@@ -490,11 +496,6 @@ From {{der|ko|ltc|-}} {{ltc-l|日}}. Attested in {{w2|ko|s:훈몽자회/天文#�
 * {{ko-l|목요일|木曜日}}
 * {{ko-l|금요일|金曜日}}
 * {{ko-l|토요일|土曜日}}
-* {{ko-l|내일|来日}}
-* {{ko-l|매일|每日}}
-* {{ko-l|생일|生日}}
-* {{ko-l|연일|連日}}
-* {{ko-l|휴일|休日}}
 {{der-bottom}}
 
 ===References===
@@ -508,10 +509,10 @@ From {{der|ko|ltc|-}} {{ltc-l|日}}. Attested in {{w2|ko|s:훈몽자회/天文#�
 
 ===Compounds===
 {{top2}}
-* {{m|ojp|明日|tr=asu}}
-* {{m|ojp|明日香|tr=Asuka}}
-* {{m|ojp|春日|tr=Kasuga}}
-* {{m|ojp|日本|tr=Yamato<sub>2</sub>}}
+* {{l|ojp|明日|tr=asu}}
+* {{l|ojp|明日香|tr=Asuka}}
+* {{l|ojp|春日|tr=Kasuga}}
+* {{l|ojp|日本|tr=Yamato<sub>2</sub>}}
 {{bottom}}
 
 ===Etymology 1===
@@ -530,40 +531,40 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 
 =====Derived terms=====
 {{der-top3}}
-* {{m|ojp|光る|tr=pi<sub>1</sub>karu}}
-* {{m|ojp|彦|tr=pi<sub>1</sub>ko<sub>1</sub>}}
-* {{m|ojp|常陸|tr=Pi<sub>1</sub>tati}}
-* {{m|ojp|日月|tr=pi<sub>1</sub>duki<sub>2</sub>}}
-* {{m|ojp|日に異に|tr=pi<sub>1</sub> ni ke<sub>1</sub> ni}}
-* {{m|ojp|日の神|tr=pi<sub>1</sub> no<sub>2</sub> kami<sub>2</sub>}}
-* {{m|ojp|日の御門|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>kado<sub>1</sub>}}
-* {{m|ojp|日の御子|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>1</sub>}}
-* {{m|ojp|日の本の|tr=pi<sub>1</sub> no<sub>2</sub> moto<sub>2</sub> no<sub>2</sub>|pos=[[pillow word]]}}
-* {{m|ojp|日向|tr=Pi<sub>1</sub>muka}}
-* {{m|ojp|東|tr=*pi<sub>1</sub>mukasi}}
-* {{m|ojp|姬|tr=pi<sub>1</sub>me<sub>1</sub>}}
-* {{m|ojp|晝|tr=pi<sub>1</sub>ru}}
-* {{m|ojp|天忍日命|tr=Ame<sub>2</sub>no<sub>2</sub>osipi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
-* {{m|ojp|天穂日命|tr=Ame<sub>2</sub>no<sub>2</sub>popi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
-* {{m|ojp|彌日異に|tr=iya pi<sub>1</sub> ke<sub>1</sub> ni}}
-* {{m|ojp|大直日神|tr=Oponapobi<sub>1</sub> no<sub>2</sub> kami<sub>2</sub>}}
-* {{m|ojp|昨日|tr=ki<sub>1</sub>no<sub>2</sub>pu}}
-* {{m|ojp|けふ|tr=ke<sub>1</sub>pu, ke<sub>2</sub>pu}}
-* {{m|ojp|月日|tr=tuki<sub>2</sub>pi<sub>1</sub>}}
-* {{m|ojp|春の日|tr=paru no pi<sub>1</sub>}}
-* {{m|ojp|春日|tr=parupi<sub>1</sub>}}
-* {{m|ojp|夕|tr=yupu}}
-* {{m|ojp|をとつひ|tr=woto<sub>2</sub>tupi<sub>1</sub>}}
+* {{l|ojp|光る|tr=pi<sub>1</sub>karu}}
+* {{l|ojp|彦|tr=pi<sub>1</sub>ko<sub>1</sub>}}
+* {{l|ojp|常陸|tr=Pi<sub>1</sub>tati}}
+* {{l|ojp|日月|tr=pi<sub>1</sub>duki<sub>2</sub>}}
+* {{l|ojp|日に異に|tr=pi<sub>1</sub> ni ke<sub>1</sub> ni}}
+* {{l|ojp|日の神|tr=pi<sub>1</sub> no<sub>2</sub> kami<sub>2</sub>}}
+* {{l|ojp|日の御門|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>kado<sub>1</sub>}}
+* {{l|ojp|日の御子|tr=pi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>1</sub>}}
+* {{l|ojp|日の本の|tr=pi<sub>1</sub> no<sub>2</sub> moto<sub>2</sub> no<sub>2</sub>|pos=[[pillow word]]}}
+* {{l|ojp|日向|tr=Pi<sub>1</sub>muka}}
+* {{l|ojp|東|tr=*pi<sub>1</sub>mukasi}}
+* {{l|ojp|姬|tr=pi<sub>1</sub>me<sub>1</sub>}}
+* {{l|ojp|晝|tr=pi<sub>1</sub>ru}}
+* {{l|ojp|天忍日命|tr=Ame<sub>2</sub>no<sub>2</sub>osipi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
+* {{l|ojp|天穂日命|tr=Ame<sub>2</sub>no<sub>2</sub>popi<sub>1</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
+* {{l|ojp|彌日異に|tr=iya pi<sub>1</sub> ke<sub>1</sub> ni}}
+* {{l|ojp|大直日神|tr=Oponapobi<sub>1</sub> no<sub>2</sub> kami<sub>2</sub>}}
+* {{l|ojp|昨日|tr=ki<sub>1</sub>no<sub>2</sub>pu}}
+* {{l|ojp|けふ|tr=ke<sub>1</sub>pu, ke<sub>2</sub>pu}}
+* {{l|ojp|月日|tr=tuki<sub>2</sub>pi<sub>1</sub>}}
+* {{l|ojp|春の日|tr=paru no pi<sub>1</sub>}}
+* {{l|ojp|春日|tr=parupi<sub>1</sub>}}
+* {{l|ojp|夕|tr=yupu}}
+* {{l|ojp|をとつひ|tr=woto<sub>2</sub>tupi<sub>1</sub>}}
 {{der-bottom}}
 
 =====Descendants=====
 * {{desc|ja|[[日]], [[陽]]|tr=hi}}
 
 =====See also=====
-* {{m|ojp|茜さす|tr=akane sasu}}
-* {{m|ojp|天傳ふ|tr=amadutapu}}
-* {{m|ojp|高照らす|tr=takaterasu}}
-* {{m|ojp|高光る|tr=takapi<sub>1</sub>karu}}
+* {{l|ojp|茜さす|tr=akane sasu}}
+* {{l|ojp|天傳ふ|tr=amadutapu}}
+* {{l|ojp|高照らす|tr=takaterasu}}
+* {{l|ojp|高光る|tr=takapi<sub>1</sub>karu}}
 
 ===Etymology 2===
 {{rfe|ojp}}
@@ -576,10 +577,10 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 
 =====Derived terms=====
 {{der-top}}
-* {{m|ojp|二日|tr=putuka}}
-* {{m|ojp|七日|tr=nanuka}}
-* {{m|ojp|八日|tr=yaka}}
-* {{m|ojp|十日|tr=to<sub>2</sub>woka}}
+* {{l|ojp|二日|tr=putuka}}
+* {{l|ojp|七日|tr=nanuka}}
+* {{l|ojp|八日|tr=yaka}}
+* {{l|ojp|十日|tr=to<sub>2</sub>woka}}
 {{der-bottom}}
 
 =====Descendants=====
@@ -597,11 +598,11 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 
 =====Derived terms=====
 {{der-top}}
-* {{m|ojp|日長し|tr=ke<sub>2</sub>nagasi}}
-* {{m|ojp|日竝ぶ|tr=ke<sub>2</sub>narabu}}
-* {{m|ojp|日のころごろ|tr=ke<sub>2</sub> no<sub>2</sub> ko<sub>2</sub>ro<sub>2</sub>go<sub>2</sub>ro<sub>2</sub>}}
-* {{m|ojp|朝に日に|tr=asa ni ke<sub>2</sub> ni}}
-* {{m|ojp|旅の日|tr=tabi<sub>1</sub> no<sub>2</sub> ke<sub>2</sub>}}
+* {{l|ojp|日長し|tr=ke<sub>2</sub>nagasi}}
+* {{l|ojp|日竝ぶ|tr=ke<sub>2</sub>narabu}}
+* {{l|ojp|日のころごろ|tr=ke<sub>2</sub> no<sub>2</sub> ko<sub>2</sub>ro<sub>2</sub>go<sub>2</sub>ro<sub>2</sub>}}
+* {{l|ojp|朝に日に|tr=asa ni ke<sub>2</sub> ni}}
+* {{l|ojp|旅の日|tr=tabi<sub>1</sub> no<sub>2</sub> ke<sub>2</sub>}}
 {{der-bottom}}
 
 ----
@@ -618,10 +619,18 @@ Distinct from {{m|ojp|火|tr=pi<sub>2</sub>||[[fire]]}}. See {{w|Jōdai Tokushu 
 # {{han tu form of|nhật|[[sun]]; [[day]]}}
 
 ====Compounds====
-{{der3|vi
-|{{vi-l|日本|Nhật Bản}}
-|{{vi-l|日記|nhật kí}}
-}}
+{{der-top3|Compounds}}
+* {{vi-l|日本|Nhật Bản}}
+* {{vi-l|日報|nhật báo}}
+* {{vi-l|日期|[[nhật kì]]/[[nhật kỳ]]}}
+* {{vi-l|日記|[[nhật kí]]/[[nhật kỳ]]}}
+* {{vi-l|日月|nhật nguyệt}}
+* {{vi-l|日食|nhật thực}}
+* {{vi-l|日程|nhật trình}}
+* {{vi-l|主日|chủ nhật}}
+* {{vi-l|生日|sinh nhật}}
+* {{vi-l|㗂日|tiếng Nhật}}
+{{der-bottom}}
 
 ===References===
 <references/>
