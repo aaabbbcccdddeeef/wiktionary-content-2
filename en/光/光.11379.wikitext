@@ -106,41 +106,28 @@ From {{inh|zh|sit-pro|*hwaŋ||shine; bright; yellow}}. Cognate with {{och-l|黃|
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|月光|げっこう}}: [[moonlight]]
-* {{ja-r|日光|にっこう}}: [[sunlight]]
-* {{ja-r|光 カード|ひかり カード}}: an [[optical]] [[card]]
-* {{ja-r|光 コンピュータ|ひかり コンピュータ}}: an [[optical]] [[computer]]
-* {{ja-r|光 ディスク|ひかり ディスク}}: an [[optical]] [[disc]]
-* {{ja-r|光%物|ひかり%もの}}, {{ja-r|光り物|ひかりもの}}: something that [[shine]]s: a [[star]], an [[apparition]], the [[moon]], a [[metal]], a [[mackerel]], etc.
-* {{ja-r|光 通信|ひかり つうしん}}: [[optical]] [[communication]]
-* {{ja-r|光 通信 ケーブル|ひかり つうしん ケーブル}}: [[optical]] [[communication]] [[cable]], [[fiberoptic]] [[cable]]
-* {{ja-r|光 ファイバー|ひかり ファイバー}}: [[optical]] [[fiber]]
-* {{ja-r|光 伝道度|ひかり でんどうど}}: [[photoconductivity]]
-* {{ja-r|光 分解|ひかり ぶんかい}}: [[optical]] [[degradation]], [[photodegradation]]
-{{der-bottom}}
+* {{ja-r|竹光|たけみつ}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ひかり}}
-
-{{IPAfont|⟨pi<sub>1</sub>kari⟩}} → {{IPAchar|/pikari/}} → {{IPAchar|/fikari/}} → {{IPAchar|/hikari/}}
+{{IPAfont|⟨pi<sub>1</sub>kari⟩}} → {{IPAchar|/pikari/}} → {{IPAchar|/ɸikari/}} → {{IPAchar|/hikari/}}
 
 From {{inh|ja|ojp|sort=ひかり|-}}.
 
-The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|光る|tr=hikaru||to [[shine]], to [[glitter]], to [[gleam]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|y=k|ひかり|acc=3|acc_ref=NHK,DJR|dev=1}}
 
-====Alternative forms====
-* {{ja-l|光り}} {{qualifier|less common}}
-
 ====Noun====
 {{ja-noun|ひかり}}
 
-# a [[physically]] [[perceived]] [[light]]: a [[light]], a [[gleam]], [[shining]], [[glittering]]
-#: {{ja-usex|ダイヤモンドの'''光'''|ダイヤモンド の '''ひかり'''|a diamond's '''glitter''' / '''shine''' / '''twinkling'''|sort=ひかり}}
-# a [[metaphorical]] light: [[glory]], a [[glimmer]], a [[gleam]]
+# {{n-g|a [[physically]] [[perceived]] [[light]]:}} 
+## a [[light]]
+## a [[gleam]]
+##[[shining]], [[glittering]]
+##: {{ja-usex|ダイヤモンドの'''光'''|ダイヤモンド の '''ひかり'''|a diamond's '''glitter''' / '''shine''' / '''twinkling'''|sort=ひかり}}
+# {{n-g|a [[metaphorical]] light:}} [[glory]], [[glimmer]], [[gleam]]
 #* {{quote-book
 |ja
 ||{{w|lang=ja|井沢ひろし|Izawa, Hiroshi}}
@@ -157,31 +144,45 @@ The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|�
 |publisher=Shueisha
 |date=Oct 20 2007
 |isbn=978-4-08-109486-8}}
-#*: {{ja-usex|タニアの'''光'''ティーナ|^タニア の '''^ひかり''' ^ティーナ|Tiena, Light of Tania}}
+#*: {{ja-usex|タニアの'''光'''ティーナ|^タニア の '''^ひかり''' ^ティーナ|Tiena, '''Light''' of Tania}}
 #: {{ja-usex|前途に'''光'''を失う|ぜんと に '''ひかり''' を うしなう|to lose '''light''' regarding the future → future prospects grow dim|sort=ひかり}}
 #: {{ja-usex|解決への道に'''光'''を投げかける|かいけつ へ の みち に '''ひかり''' を なげかける|to shed '''light''' on the way to a solution|sort=ひかり}}
-# {{qualifier|in compounds}} [[optics]]
+# {{n-g|relating to [[optics]]}}
 #: {{ja-usex|'''光'''ファイバー|'''ひかり''' ファイバー|'''optical''' fiber|sort=ひかり}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|ぴかぴか||[[glitteringly]], [[sparklingly]]}}
+* {{ja-r|ぴかり||[[glitteringly]], [[sparklingly]]}}
+* {{ja-r|光 カード|ひかり カード|[[optical]] [[card]]}}
+* {{ja-r|光 コンピュータ|ひかり コンピュータ|optical [[computer]]}}
+* {{ja-r|光 ディスク|ひかり ディスク|optical [[disc]]}}
+* {{ja-r|光 通信|ひかり つうしん|optical [[communication]]}}
+* {{ja-r|光 通信 ケーブル|ひかり つうしん ケーブル|optical [[communication]] [[cable]], [[fiberoptic]] cable}}
+* {{ja-r|光 ファイバー|ひかり ファイバー|optical [[fiber]]}}
+* {{ja-r|光 伝道度|ひかり でんどうど|[[photoconductivity]]}}
+* {{ja-r|光 分解|ひかり ぶんかい|optical [[degradation]], [[photodegradation]]}}
+* {{ja-r|稲%光|いな%びかり}}
+* {{ja-r|七%光|なな%ひかり}}
+{{der-bottom}}
+
+====Descendants====
+* {{desc|bor=1|ryu|ふぃかり|tr=fikari}}
 
 ====Proper noun====
 {{ja-pos|proper|ひかり}}
 
-# ''a place name'', such as that of Hikari City in [[Yamaguchi]] Prefecture
-# one of the [[bullet train]] services running on the Tōkaido/Sanyō [[shinkansen]]
-# {{surname|lang=ja|A=a|sort=ひかり}}
+# {{n-g|a [[placename]]}}, such as that of a [[city]] in [[Yamaguchi]] [[prefecture|Prefecture]]
+# one of the [[bullet train]] [[service]]s [[run]]ning on the {{m|ja|東海道|tr=Tōkaido}} or {{m|ja|山陽|tr=Sanyō}} [[shinkansen]]
+# {{surname|lang=ja|A=a|nodot=1|sort=ひかり}}
 # {{given name|female|lang=ja|A=a|sort=ひかり}}
 
-====Related terms====
-* {{ja-r|ぴかぴか}}: [[glitteringly]], [[sparklingly]]
-* {{ja-r|ぴかり}}: [[glitteringly]], [[sparklingly]]
-* {{ja-r|^ピカチュウ}}: [[Pikachu]]
-
 ===Etymology 2===
-{{ja-kanjitab|yomi=irr|ひかる}}
-[[nominalization|Nominalization]] of the verb {{m|ja|光る|tr=hikaru||to shine, to glitter, to gleam}}.
+{{ja-kanjitab|yomi=k|ひか|o2=る}}
+[[nominalization|Nominalization]] of the verb {{m|ja|光る|tr=hikaru||to [[shine]], to [[glitter]], to [[gleam]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=irr|ひかる}}
+{{ja-pron|yomi=irr|ひかる|acc=2}}
 
 ====Proper noun====
 {{ja-pos|proper|ひかる}}
@@ -192,15 +193,31 @@ The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|�
 {{ja-kanjitab|こう|yomi=o}}
 {{IPAchar|/kwau/}} → {{IPAchar|/kwɔː/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}
 
-From {{der|ja|ltc|-|sort=こう}} {{m|zh|光|tr=kwang||light, brightness}}. Compare modern {{cog|cmn|-}} ''guāng'' and {{cog|hak|-}} ''kông'', {{cog|nan|-}} ''kong''.
+From {{der|ja|ltc|-|sort=こう}} {{ltc-l|光}}. 
+
+Compare modern {{cog|cmn|光|tr=guāng}}, {{cog|hak|光|tr=kông}}, {{cog|nan|光|tr=kong}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|こう|acc=1}}
 
+====Affix====
+{{ja-pos|affix|こう|hhira=くわう}}
+
+# [[light]], [[gleam]], [[shine]]
+# [[gleaming]], [[shining]]
+# [[scenery]]
+# [[glory]], [[honor]]/[[honour]], [[pride]]
+# [[enlighten]]ing
+# [[exhaust]], [[run out]]
+
+=====Derived terms=====
+* {{ja-r|月光|げっこう|[[moonlight]]}}
+* {{ja-r|日光|にっこう|[[sunlight]]}}
+
 ====Proper noun====
 {{ja-pos|proper|こう|hhira=くわう}}
 
-# {{given name|male|lang=ja|sort=こう}}
+# {{given name|male|lang=ja|A=a|sort=こう}}
 
 ===References===
 <references/>
@@ -215,6 +232,22 @@ From {{der|ja|ltc|-|sort=こう}} {{m|zh|光|tr=kwang||light, brightness}}. Comp
 {{ko-hanja|빛|광}}
 
 # [[light]]
+
+----
+
+==Okinawan==
+
+===Etymology===
+Cognate with {{cog|ja|光|tr=hikari}}.
+
+===Noun===
+{{head|ryu|noun|kana|ふぃちゃい|romaji|fichai|sort=ふいちやい}}
+
+# a [[light]]
+#: {{syn|ryu|ふぃかり|tr=fikari}}
+
+====Derived terms====
+* {{m|ryu|青光|tr=ōpichai}}
 
 ----
 
