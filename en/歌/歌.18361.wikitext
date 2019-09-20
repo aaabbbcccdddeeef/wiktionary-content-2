@@ -93,29 +93,37 @@ Alternative explanation: {{Han compound|可|可|欠|t1=sound of singing|t2=sound
 |{{ja-r|賛美歌|さんびか}}
 }}
 
+===Etymology 1===
 {{wikipedia|lang=ja}}
-{{ja-kanjitab|うた|yomi=k}}
-
-===Pronunciation===
-{{ja-pron|yomi=k|うた|acc=2|acc_ref=DJR,NHK,SMK2}}
-
-===Alternative forms===
-* {{ja-l|唄}}, {{ja-l|詩}}, {{ja-l|謳}}
-
-===Etymology===
+{{ja-kanjitab|うた|yomi=k|alt=唄,詩,謳}}
 From {{inh|ja|ojp|-|sort=うた}}, from {{inh|ja|jpx-pro|*Uta|sort=うた}}.
 
-===Noun===
+====Pronunciation====
+{{ja-pron|yomi=k|うた|acc=2|acc_ref=DJR,NHK,SMK2}}
+
+====Noun====
 {{ja-noun|うた}}
 
 # {{lb|ja|music|sort=うた}} a [[song]]
 #: {{ja-usex|氷と炎の'''歌'''|^こおり と ^ほのお の '''^うた'''|{{w|A Song of Ice and Fire|A '''Song''' of Ice and Fire}}}}
 # {{lb|ja|poetry|sort=うた}} [[poetry]]
 
-===References===
-<references/>
+=====Usage notes=====
+* Despite {{ja-l|歌}}, {{ja-l|唄}}, and {{ja-l||詩}} having the same ''{{ll|ja|訓読み|kun-yomi}}'' reading of ''uta'': {{ja-l||詩}} refers to modern poetry, {{ja-l||歌}} to [[songs]] and classical Japanese poetry (such as ''{{ll|ja|短歌|tanka}}''), and {{ja-l||唄}} is primarily used in ''{{ll|ja|三味線|shamisen}}'' songs.
 
 {{c|ja|Artistic works|sort=うた}}
+
+===Etymology 2===
+{{ja-kanjitab|か|yomi=o}}
+
+====Affix====
+{{ja-pos|affix|か}}
+
+# a [[song]]; to [[sing]]
+# Japanese poetry; [[waka]]
+
+===References===
+<references/>
 
 ----
 
