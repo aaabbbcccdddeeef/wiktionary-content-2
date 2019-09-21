@@ -88,7 +88,7 @@
 * [[Wikipedia:JIS encoding|JIS]]: 3B5E
 
 ===Etymology===
-From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|sort=えだ|*yonta}}. Cognate with {{cog|xug|枝|tr=ゆだー, yudā}}, {{cog|mvi|枝|tr=ゆだ, yuda}}, {{cog|ryu|枝|tr=いぃだ, yida}}, {{m|ryu|枝|tr=ゆだ, yuda}}, {{cog|rys|枝|tr=ゆだ, yuda}}, {{cog|yoi|枝|tr=どぅだ, duda}}. The vowel change is irregular.
+Inherited from earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|sort=えだ|*yonta}}. Cognate with {{cog|xug|枝|tr=ゆだー, yudā}}, {{cog|mvi|枝|tr=ゆだ, yuda}}, {{cog|ryu|枝|tr=いぃだ, yida}}, {{m|ryu|枝|tr=ゆだ, yuda}}, {{cog|rys|枝|tr=ゆだ, yuda}}, {{cog|yoi|枝|tr=どぅだ, duda}}. The vowel change is irregular.
 
 ===Noun===
 {{ja-noun|えだ}}
@@ -118,13 +118,20 @@ From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|
 
 * {{ja-readings|kun=[[ゆだー]] (yudā)}}
 
+===Etymology===
+Inherited from {{inh|xug|jpx-ryu-pro|*yoda|sort=ゆだあ}}, from {{inh|xug|jpx-pro|*yonta|sort=ゆだあ}}.
+
 ===Pronunciation===
 * {{IPA|xug|/judaː/|sort=ゆだあ}}
 
 ===Noun===
 {{head|xug|noun|hiragana|ゆだー|romaji|yudā|sort=ゆだあ}}
 
-# [[branch]]
+# [[branch]] {{gloss|of a tree or plant}}; [[bough]]
+
+===References===
+* {{R:JLect|ゆだー【枝】|3328|yudaa}}
+* {{R:Nakijin Dialect Dictionary|ユダー|NK58918}}
 
 {{c|xug|Trees|sort=ゆだあ}}
 ----
@@ -136,13 +143,19 @@ From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|
 
 * {{ja-readings|kun=[[ゆだ]] (yuda)}}
 
+===Etymology===
+Inherited from {{inh|mvi|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|mvi|jpx-pro|*yonta|sort=ゆだ}}.
+
 ===Pronunciation===
 * {{IPA|mvi|/juda/|sort=ゆだ}}
 
 ===Noun===
 {{head|mvi|noun|hiragana|ゆだ|romaji|yuda|sort=ゆだ}}
 
-# [[branch]]
+# [[branch]] {{gloss|of a tree or plant}}; [[bough]]
+
+===References===
+* {{R:JLect|ゆだ【枝】|985|yuda}}
 
 {{c|mvi|Trees|sort=ゆだ}}
 ----
@@ -154,13 +167,22 @@ From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|
 
 * {{ja-readings|kun=[[いぃだ]] (yida), [[ゆだ]] (yuda)}}
 
+===Etymology===
+Inherited from {{inh|ryu|jpx-ryu-pro|*yoda|sort=いぃだ}}, from {{inh|ryu|jpx-pro|*yonta|sort=いぃだ}}.
+
 ===Pronunciation===
 * {{IPA|ryu|/jida/|/juda/|sort=いぃだ}}
 
 ===Noun===
 {{head|ryu|noun|hiragana|いぃだ|romaji|yida|hiragana|ゆだ|romaji|yuda|sort=いぃだ}}
 
-# [[branch]]
+# [[branch]] {{gloss|of a tree or plant}}; [[bough]]
+
+===References===
+* {{R:JLect|いだ・いぃだ・ゐだ・ゆぃだ【枝】|986|yida}}
+* {{R:JLect|ゆだ【枝】|985|yuda}}
+* {{R:Shuri-Naha Dialect Dictionary|ヰダ|SN02078}}
+* {{R:Shuri-Naha Dialect Dictionary|ユダ|SN41612}}
 
 {{c|ryu|Trees|sort=いぃだ}}
 ----
@@ -181,13 +203,19 @@ From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|
 
 * {{ja-readings|kun=[[ゆだ]] (yuda)}}
 
+===Etymology===
+Inherited from {{inh|rys|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|rys|jpx-pro|*yonta|sort=ゆだ}}.
+
 ===Pronunciation===
 * {{IPA|rys|/juda/|sort=ゆだ}}
 
 ===Noun===
 {{head|rys|noun|hiragana|ゆだ|romaji|yuda|sort=ゆだ}}
 
-# [[branch]]
+# [[branch]] {{gloss|of a tree or plant}}; [[bough]]
+
+===References===
+* {{R:JLect|ゆだ【枝】|985|yuda}}
 
 {{c|rys|Trees|sort=ゆだ}}
 ----
@@ -199,12 +227,18 @@ From earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|ja|jpx-pro|
 
 * {{ja-readings|kun=[[どぅだ]] (duda)}}
 
+===Etymology===
+Inherited from {{inh|yoi|jpx-ryu-pro|*yoda|sort=とぅだ'}}, from {{inh|yoi|jpx-pro|*yonta|sort=とぅだ'}}.
+
 ===Pronunciation===
 * {{IPA|yoi|/duda/|sort=とぅだ'}}
 
 ===Noun===
 {{head|yoi|noun|hiragana|どぅだ|romaji|duda|sort=とぅだ'}}
 
-# [[branch]]
+# [[branch]] {{gloss|of a tree or plant}}; [[bough]]
+
+===References===
+* {{R:JLect|どぅだ【枝】|3329|duda}}
 
 {{c|yoi|Trees|sort=とぅだ'}}
