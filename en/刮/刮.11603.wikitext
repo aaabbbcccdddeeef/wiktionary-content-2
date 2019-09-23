@@ -1,13 +1,17 @@
 {{also|颳}}
 {{character info/new}}
 ==Translingual==
-[[Category:CJKV simplified characters which already existed as traditional characters]]
 
 ===Han character===
 {{Han char|rn=18|rad=刀|as=06|sn=8|four=22600|canj=HRLN|ids=⿰舌刂}}
 
-====References====
-* {{Han ref|kx=0138.290|dkj=01943|dj=0314.070|hdz=10335.030|uh=522E|ud=21038|bh=A8ED|bd=43245}}
+====Derived characters====
+* {{l|mul|[[𠵯]], [[𢯔]], [[𣈛]], [[𠟥]], [[𮢏]]}}
+
+===Further reading===
+{{Han ref|kx=0138.290|dkj=01943|dj=0314.070|hdz=10335.030|uh=522E}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
 
 ----
 
@@ -18,7 +22,7 @@
 {{Han compound|𠯑|刀|c1=p|c2=s|t2=knife|ls=psc}}.
 
 ===Etymology 1===
-{{zh-forms}}
+{{zh-forms|alt=𠜜,劀}}
 
 ====Pronunciation====
 {{zh-pron
@@ -42,7 +46,8 @@
 {{zh-hanzi}}
 
 # to [[shave]]; to [[pare]] off; to [[scrape]]
-#: {{zh-x|唔 小心 畀 啲 嘢 刮 嚫|to accidentally scrape oneself on something|C}}
+#: {{zh-x|唔 小心 畀 啲 嘢 刮 嚫|to accidentally '''scrape''' oneself on something|C}}
+#* {{zh-x|走 到 廚下，把 魚 接 在 手 內，拿 刀 刮 了 三 四 刮，拎 著 尾巴，望 滾湯 鍋 裏 一 摜。|ref=Rulin Waishi}}
 # {{zh-alt-form|颳|to [[blow]]}}
 # to [[wipe]]; to wipe [[clean]]
 # to [[plunder]]; to [[extort]]
@@ -66,13 +71,56 @@
 # {{defn|lang=ja|sort=刀06}}
 
 ====Readings====
-* {{ja-readings|on=かつ,けち|kun=けずる,きさ-ぐ,きさげ,こそ-ぐ,こそ-げる}}
+{{ja-readings
+|on=かつ, けち
+|kun=けず-る, きさ-ぐ, きさげ, こそ-ぐ, こそ-げる
+}}
+
+====Compounds====
+* {{ja-r|刮眼|かつがん}}
+* {{ja-r|刮目|かつもく}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=괄}}
+===Etymology===
+From {{der|ko|ltc|sort=괄|-}} {{ltc-l|刮}}.
 
-# {{defn|lang=ko|sort=刀06}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|깎다|깎을|괄}}
+
+# {{hanja form of|괄|to [[cut]]; to [[shave]]; to [[peel]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|괄목|刮目}}
+* {{ko-l|괄삭|刮削}}
+* {{ko-l|괄구마광|刮垢摩光}}
+* {{ko-l|괄목상대|刮目相對}}
+* {{ko-l|귀배괄모|龜背刮毛}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|773}}
+
+----
+
+==Vietnamese==
+
+===Alternative forms===
+* {{alter|vi|{{vi-l|𠜵|quát}}}}<ref name=bonet>{{vi-ref|Bonet (1899).}}</ref>
+
+===Han character===
+{{vi-readings|rs=刀06
+|hanviet=quát-gdhn;bonet;genibrel
+|phienthiet=
+|nom=quát-bonet;genibrel;taberd
+}}
+
+# {{han tu form of|quát|to [[scrape]] off; to [[pare]]; to make [[thin]]}}
+# {{Nom form of|quát|to [[shout]]; to [[storm#Verb|storm]]; to [[yell]]}}
+
+===References===
+<references/>
