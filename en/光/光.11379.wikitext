@@ -157,6 +157,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}
 * {{ja-r|光 伝道度|ひかり でんどうど|[[photoconductivity]]}}
 * {{ja-r|光 分解|ひかり ぶんかい|optical [[degradation]], [[photodegradation]]}}
 * {{ja-r|稲%光|いな%びかり}}
+* {{ja-r|死に光|しにびかり}}
 * {{ja-r|七%光|なな%ひかり}}
 * {{ja-r|蛍の光|^ほたる の ^ひかり}}
 {{der-bottom}}
@@ -165,7 +166,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}
 * {{ja-r|蛍の光 窓の雪|ほたる の ひかり まど の ゆき|[[firefly]]'s [[dim]] [[light]], [[snow]] [[reflect]]ed on the [[window]] → [[diligent]] [[study]]}}
 
 ====Descendants====
-* {{desc|bor=1|ryu|ふぃかり|tr=fikari}}
+* {{desc|bor=1|ryu|光|tr=fikari}}
 
 ====Proper noun====
 {{ja-pos|proper|ひかり}}
@@ -221,6 +222,7 @@ Compare modern {{cog|cmn|光|tr=guāng}}, {{cog|hak|光|tr=kông}}{{,}} and {{co
 * {{ja-r|光明|こうめい}}
 * {{ja-r|光来|こうらい}}
 * {{ja-r|光臨|こうりん}}
+* {{ja-r|威%光|い%こう}}
 * {{ja-r|栄光|えいこう}}
 * {{ja-r|観光|かんこう}}
 * {{ja-r|眼光|がんこう}}
@@ -287,19 +289,26 @@ The stem form of verb {{m|ryu|光ゆん|tr=fichayun||to [[shine]], [[gleam]]}}.
 # [[lush]], [[polish]], [[sheen]]
 
 =====Derived terms=====
-{{col2|ryu|月ぬ光|日ぬ光}}
+* {{m|ryu|月ぬ光|tr=chichi nu fichai}}
+* {{m|ryu|日ぬ光|tr=fī nu fichai}}
 
 ===Etymology 2===
-Borrowed from {{bor|ryu|ja|光|tr=ひかり, hikari}}. {{doublet|ryu|光|tr1=ふぃちゃい, fichai}}.
+Borrowed from {{bor|ryu|ja|sort=ふいかり|光|tr=hikari}}.
+
+{{doublet|ryu|sort=ふいかり|光|tr1=fichai}} above.
+
+====Pronunciation====
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} ふぃ{{ja-accent/high|かり}} <tt>[fìcháí]</tt> ({{ll|ja|平板型|Heiban}} - [0])
+* {{IPA|ryu|[ɸikaɾi]}}
 
 ====Noun====
 {{head|ryu|noun|hiragana|ふぃかり|rōmaji|fikari}}
 
 # [[light]]
-# {{lb|ryu|rare|obsolete}} [[authority]], [[power]], [[influence]]; [[honor]]
+# {{lb|ryu|sort=ふいかり|rare|obsolete}} [[authority]], [[power]], [[influence]], [[honor]]
 
 ====Derived terms====
-{{col2|ryu|う光}}
+* {{m|ryu|う光|tr=ufikari}}
 
 ===References===
 * {{R:Shuri-Naha Dialect Dictionary|フィチャイ|SN30989}}
