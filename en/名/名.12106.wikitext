@@ -167,11 +167,11 @@ From {{inh|ja|ojp|sort=な|-}}, from {{inh|ja|jpx-pro|sort=な|*na}} (compare {{
 # [[name]]
 #: {{ja-usex|'''名'''を連ねる|'''な''' を つらねる|put one's '''name''' on (a list)}}
 #: {{ja-usex|'''名'''ばかりの|'''な''' ばかり の|in '''name''' only}}
-#* {{quote-book|||{{lj|ハーフデッキ　[闇](やみ)}}
+#* {{quote-book|ja
+|||{{lj|ハーフデッキ　[闇](やみ)}}
 |trans-title=Half-Deck: DARK
 |||date=Jul 20 2013
 |publisher={{w|Konami}}
-|lang=ja
 |chapter={{lj|[暗](あん)[黒](こく)[界](かい)の[騎](き)[士](し) ズール}}
 |trans-chapter=Zure, Knight of the Dark World}}
 #*: {{ja-usex|暗%黒%界でその'''名'''を知らぬ者はいない、誇り高き騎%士。決して弱き者に手を下す事はない。|あん%こく%かい で その '''な''' を しらぬ もの は いない、ほこりたかき き%し。けっして よわき もの に て を くだす こと は ない。|Everyone in the Dark World knows the name of this illustrious knight. He never oppresses the commoners.}}
@@ -286,7 +286,7 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 * {{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
-* {{IPA|/naː/|lang=xug|sort=なあ}}
+* {{IPA|xug|/naː/|sort=なあ}}
 
 ===Noun===
 {{head|xug|noun|hiragana|なー|romaji|nā|sort=なあ}}
@@ -305,7 +305,7 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 * {{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
-* {{IPA|/naː/|lang=mvi|sort=なあ}}
+* {{IPA|mvi|/naː/|sort=なあ}}
 
 ===Noun===
 {{head|mvi|noun|hiragana|なー|romaji|nā|sort=なあ}}
@@ -324,7 +324,7 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 * {{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
-* {{IPA|/naː/|lang=ryu|sort=なあ}}
+* {{IPA|ryu|/naː/|sort=なあ}}
 
 ===Noun===
 {{head|ryu|noun|hiragana|なー|romaji|nā|sort=なあ}}
@@ -373,7 +373,7 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 * {{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
-* {{IPA|/naː/|lang=rys|sort=なあ}}
+* {{IPA|rys|/naː/|sort=なあ}}
 
 ===Noun===
 {{head|rys|noun|hiragana|なー|romaji|nā|sort=なあ}}
@@ -392,7 +392,7 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 * {{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
-* {{IPA|/naː/|lang=yoi|sort=なあ}}
+* {{IPA|yoi|/naː/|sort=なあ}}
 
 ===Noun===
 {{head|yoi|noun|hiragana|なー|romaji|nā|sort=なあ}}
