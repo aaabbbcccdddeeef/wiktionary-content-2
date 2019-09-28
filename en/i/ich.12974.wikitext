@@ -11,8 +11,8 @@ From {{inh|en|enm|ich}}, from {{inh|en|ang|iċ}}, {{m|ang|iċċ|t=I|pos=pronoun}
 * {{l|en|ch-}}
 
 ====Pronunciation====
-* {{IPA|/itʃ/|/ɪtʃ/|lang=en}}
-* {{homophones|lang=en|each|itch}}
+* {{IPA|en|/itʃ/|/ɪtʃ/}}
+* {{homophones|en|each|itch}}
 
 ====Pronoun====
 {{head|en|pronoun}}
@@ -49,13 +49,13 @@ The Northern dialectal form, ''ik'' (which derives from the same Old English roo
 * {{l|en|ick}}
 
 ====Pronunciation====
-* {{IPA|/ɪk/|lang=en}}
+* {{IPA|en|/ɪk/}}
 
 ====Noun====
 {{en-noun|-}}
 
 # {{lb|en|ichthyology}} [[ichthyophthiriasis|Ichthyophthiriasis]], a parasitic infection of freshwater fish caused by the ciliate {{taxlink|Ichthyophthirius|genus|noshow=1}}.
-#* {{quote-book|lang=en|1996|Edward J. Noga|Fish Disease: Diagnosis and Treatment|publisher=Iowa State University Press (2000)|pageurl=http://books.google.com/books?id=SAdDtT7YRRoC&pg=PA95&dq=ich|isbn=0-8138-2558-X|page=95
+#* {{quote-book|en|1996|Edward J. Noga|Fish Disease: Diagnosis and Treatment|publisher=Iowa State University Press (2000)|pageurl=http://books.google.com/books?id=SAdDtT7YRRoC&pg=PA95&dq=ich|isbn=0-8138-2558-X|page=95
 |passage='''Ich''' is one of the most common diseases of freshwater fish.}}
 
 =====Derived terms=====
@@ -80,13 +80,13 @@ From {{inh|gsw|gmh|ich}}, from {{inh|gsw|goh|ih}}, from {{inh|gsw|gem-pro|*ek}},
 
 ===Pronunciation===
 
-* {{a|Lower Alemannic (Northern Alsace)}} {{IPA|/iʃ/|/eʃ/|/iː/|lang=gsw}} {{q|i -> unstressed pronoun, used after the verb -> Hiit hàw *i* dìs g'màcht (Today I have done this), BUT it is always "ìch" before the verb, never the plain "i"}}
+* {{a|Lower Alemannic (Northern Alsace)}} {{IPA|gsw|/iʃ/|/eʃ/|/iː/}} {{q|i -> unstressed pronoun, used after the verb -> Hiit hàw *i* dìs g'màcht (Today I have done this), BUT it is always "ìch" before the verb, never the plain "i"}}
 
 
-* {{a|Higher Alemannic (Southern Alsace)}} {{IPA|/ix/|/ex/|/iː/|lang=gsw}} {{q|unstressed}}
+* {{a|Higher Alemannic (Southern Alsace)}} {{IPA|gsw|/ix/|/ex/|/iː/}} {{q|unstressed}}
 
 
-* {{a|Zurich}} {{IPA|/ix/|/i/|lang=gsw}} {{q|unstressed}}, {{IPA|[ɪːx]|lang=gsw}} {{q|stressed}}
+* {{a|Zurich}} {{IPA|gsw|/ix/|/i/}} {{q|unstressed}}, {{IPA|gsw|[ɪːx]}} {{q|stressed}}
 
 ===Pronoun===
 {{head|gsw|pronoun}}
@@ -108,9 +108,9 @@ From {{inh|gsw|gmh|ich}}, from {{inh|gsw|goh|ih}}, from {{inh|gsw|gem-pro|*ek}},
 From {{inh|gmw-cfr|gmh|ich}}, from {{inh|gmw-cfr|goh|ih}}, from {{inh|gmw-cfr|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|gmw-cfr|ine-pro|*éǵh₂}}. The expected form is ''ech''; the variant ''ich'' is from a form {{m|goh|*īh}} with expressive lengthening (compare the corresponding diphthong in Moselle Franconian).
 
 ===Pronunciation===
-* {{IPA|/iɕ/|[iɕ]|lang=gmw-cfr}}
-** {{IPA|[eɕ]|lang=gmw-cfr}} → {{IPAchar|[əɕ]}} → {{IPAchar|[ɕ]}} {{a|unstressed; enclitic before a consonant}}
-** {{IPA|[ij]|lang=gmw-cfr}} {{a|enclitic before a vowel}}
+* {{IPA|gmw-cfr|/iɕ/|[iɕ]}}
+** {{IPA|gmw-cfr|[eɕ]}} → {{IPAchar|[əɕ]}} → {{IPAchar|[ɕ]}} {{a|unstressed; enclitic before a consonant}}
+** {{IPA|gmw-cfr|[ij]}} {{a|enclitic before a vowel}}
 * The enclitic pronunciation is used <u>after</u> verbs and conjunctions (unless the pronoun is stressed).
 
 ===Pronoun===
@@ -159,9 +159,9 @@ From {{inh|gme-cgo|gem-pro|*ik}}, from {{inh|gme-cgo|ine-pro|*éǵh₂}}.
 From {{inh|de|gmh|ich}}, from {{inh|de|goh|ih}}, from {{inh|de|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|de|ine-pro|*éǵh₂}}.
 
 ===Pronunciation===
-* {{IPA|/ɪç/|lang=de}}
-* {{audio|De-ich.ogg|lang=de}}
-* {{a|Austria}} {{audio|De-at-ich.ogg|lang=de}}
+* {{IPA|de|/ɪç/}}
+* {{audio|de|De-ich.ogg}}
+* {{a|Austria}} {{audio|de|De-at-ich.ogg}}
 
 ===Pronoun===
 {{head|de|pronoun|cat2=personal pronouns}}
@@ -193,7 +193,7 @@ In contemporary German, the genitive forms of personal pronouns are restricted t
 From {{der|hrx|gmh|ich}}, from {{inh|hrx|goh|ih}}, from {{inh|hrx|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|hrx|ine-pro|*éǵh₂}}.
 
 ===Pronunciation===
-* {{IPA|/iç/|lang=hrx}}
+* {{IPA|hrx|/iç/}}
 
 ===Pronoun===
 {{head|hrx|pronoun}}
@@ -234,8 +234,8 @@ From {{inh|jac|myn-pro|*iihk}}.
 From {{der|li|goh|ih}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
 
 ===Pronunciation===
-* {{a|most dialects}} {{IPA|[ɪx]|lang=li}}
-* {{a|Maastricht}} {{IPA|[ix]|lang=li}}
+* {{a|most dialects}} {{IPA|li|[ɪx]}}
+* {{a|Maastricht}} {{IPA|li|[ix]}}
 
 ===Pronoun===
 {{head|li|pronoun|personal}}
@@ -282,7 +282,7 @@ From {{der|li|goh|ih}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
 ==Luo==
 
 ===Pronunciation===
-* {{IPA|/ɪ̀c/|lang=luo}}
+* {{IPA|luo|/ɪ̀c/}}
 
 ===Noun===
 {{head|luo|noun}}
@@ -297,12 +297,12 @@ From {{der|li|goh|ih}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
 From {{inh|enm|ang|iċ||I|pos=pronoun}}, from {{inh|enm|gem-pro|*ek||I|pos=pronoun}}, from {{inh|enm|ine-pro|*egom||I}}, {{m|ine-pro|*éǵh₂}}.
 
 ===Pronunciation===
-* {{IPA|/itʃ/|lang=enm}}
+* {{IPA|enm|/itʃ/}}
 
 ===Pronoun===
 {{head|enm|pronoun}}
 
-# {{alternative form of|lang=enm|I}}
+# {{alternative form of|enm|I}}
 
 ====Usage notes====
 * {{m|enm|ich|Ich}} is the Southern and sometimes Midland form of {{m|enm|I}} in Middle English, which corresponds to {{m|enm|ik}} of the Northern dialect.
@@ -371,7 +371,7 @@ From {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog|nl|ik}}, {{cog|en|I}}, {{
 
 ===Pronunciation===
 * {{pl-IPA}}
-* {{audio|Pl-ich.ogg|Audio|lang=pl}}
+* {{audio|pl|Pl-ich.ogg|Audio}}
 
 ===Pronoun===
 {{head|pl|pronoun}}
@@ -381,9 +381,9 @@ From {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog|nl|ik}}, {{cog|en|I}}, {{
 ===Pronoun===
 {{head|pl|pronoun form}}
 
-# {{inflection of|oni||gen|lang=pl}}; [[them]]
-# {{inflection of|one||gen|lang=pl}}; [[them]]
-# {{inflection of|oni||pr|m|acc|lang=pl}}; [[them]]
+# {{inflection of|pl|oni||gen}}; [[them]]
+# {{inflection of|pl|one||gen}}; [[them]]
+# {{inflection of|pl|oni||pr|m|acc}}; [[them]]
 
 ===See also===
 * {{l|pl|nich}}
@@ -394,7 +394,7 @@ From {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog|nl|ik}}, {{cog|en|I}}, {{
 ==Slovak==
 
 ===Pronunciation===
-* {{IPA|/ˈix/|lang=sk}}
+* {{IPA|sk|/ˈix/}}
 
 ===Pronoun===
 {{head|sk|pronoun}}
