@@ -22,7 +22,7 @@ Modification of capital letter {{m|mul|R}} by not closing the bottom of the loop
 ===Etymology 2===
 
 ====Pronunciation====
-* {{audio|Alveolar trill.ogg|IPA|lang=mul}}
+* {{audio|mul|Alveolar trill.ogg|IPA}}
 
 ====Symbol====
 {{wikipedia|Alveolar trill}}
@@ -62,13 +62,13 @@ Image:Fraktur letter R.png|Uppercase and lowercase '''R''' in [[Fraktur]]
 
 ====Pronunciation====
 * {{sense|letter name}}
-*: {{a|RP}} {{IPA|/ɑː(ɹ)/|lang=en}}
-*: {{a|GA}} {{IPA|/ɑɹ/|lang=en}}
-*: {{a|Ireland}} {{IPA|/ɔɹ/|lang=en}}
-*: {{a|AAVE}} {{IPA|/ˈɑɹə/|lang=en}}
-* {{sense|phoneme}} {{a|non-rhotic}} {{IPA|/ɹ/|lang=en}} or a lengthening of the previous vowel, {{a|rhotic}} {{IPA|/ɹ/|lang=en}}
-*: {{audio|En-uk-r.ogg|Audio (UK)|lang=en}}
-*: {{audio|En-us-r.ogg|Audio (US)|lang=en}}
+*: {{a|RP}} {{IPA|en|/ɑː(ɹ)/}}
+*: {{a|GA}} {{IPA|en|/ɑɹ/}}
+*: {{a|Ireland}} {{IPA|en|/ɔɹ/}}
+*: {{a|AAVE}} {{IPA|en|/ˈɑɹə/}}
+* {{sense|phoneme}} {{a|non-rhotic}} {{IPA|en|/ɹ/}} or a lengthening of the previous vowel, {{a|rhotic}} {{IPA|en|/ɹ/}}
+*: {{audio|en|En-uk-r.ogg|Audio (UK)}}
+*: {{audio|en|En-us-r.ogg|Audio (US)}}
 
 ====Letter====
 {{en-letter|upper=R|lower=r}}
@@ -105,7 +105,7 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 ==Azerbaijani==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/r/|lang=az}}
+* {{qualifier|phoneme}} {{IPA|az|/r/}}
 
 ===Letter===
 {{az-letter|upper=R|lower=r}}
@@ -120,9 +120,9 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 ==Dutch==
 
 ===Pronunciation===
-* {{audio|Nl-r.ogg|Audio|lang=nl}}
-* {{rhymes|ɛr|lang=nl}}
-* {{sense|letter name}} {{IPA|/ɛr/|lang=nl}}
+* {{audio|nl|Nl-r.ogg|Audio}}
+* {{rhymes|nl|ɛr}}
+* {{sense|letter name}} {{IPA|nl|/ɛr/}}
 
 ===Letter===
 {{head|nl|letter|lower case||upper case|R}}
@@ -141,18 +141,18 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 ----
 
 ==Egyptian==
-{{was fwotd|2016|July|19|lang=egy}}
+{{was fwotd|egy|2016|July|19}}
 
 ===Etymology 1===
 The actual reading of this word is uncertain, as it is always written as an ideogram, but evidence from Coptic suggests the original was {{m|egy|rꜣ}}.
 
 ====Pronunciation====
 {{egy-IPA-R|o=ɾaʀ|m=ɾaʀ|l=ɾaʔ|ref=<ref>{{R:egy:Loprieno|58}}</ref>
-|onote=&#x20;{{q|singular}}; {{IPA|/ˈɾaːʀaw/|lang=egy}} {{q|plural}}
-|mnote=&#x20;{{q|singular}}; {{IPA|/ˈɾaːʀaw/|lang=egy}} {{q|plural}}
-|lnote=&#x20;{{q|singular}}; {{IPA|/ˈɾoːw/|lang=egy}} {{q|plural}}}}
+|onote=&#x20;{{q|singular}}; {{IPA|egy|/ˈɾaːʀaw/}} {{q|plural}}
+|mnote=&#x20;{{q|singular}}; {{IPA|egy|/ˈɾaːʀaw/}} {{q|plural}}
+|lnote=&#x20;{{q|singular}}; {{IPA|egy|/ˈɾoːw/}} {{q|plural}}}}
 {{egy-IPA-E}}
-* {{a|Egyptological|US}} {{IPA|/ɝ/|lang=egy}}
+* {{a|Egyptological|US}} {{IPA|egy|/ɝ/}}
 
 ====Noun====
 {{egy-noun|m|type=consonant stem|head=<hiero>r:Z1</hiero>}}
@@ -265,7 +265,7 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 ==Esperanto==
 
 ===Pronunciation===
-* {{audio|Eo-r.ogg|Audio|lang=eo}}
+* {{audio|eo|Eo-r.ogg|Audio}}
 
 ===Letter===
 {{eo-letter|upper=R|lower=r}}
@@ -280,7 +280,7 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 ==Faroese==
 
 ===Pronunciation===
-* {{IPA|/ɹ/|lang=fo}}
+* {{IPA|fo|/ɹ/}}
 
 ===Letter===
 {{head|fo|letter|upper case|R}}
@@ -295,7 +295,7 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 ==Finnish==
 
 ===Pronunciation===
-* {{audio|Fi-r.ogg|Audio|lang=fi}}
+* {{audio|fi|Fi-r.ogg|Audio}}
 
 ===Letter===
 {{fi-letter|upper=R|lower=r}}
@@ -310,7 +310,7 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 ==Fula==
 
 ===Pronunciation===
-* {{IPA|/ɾ/|lang=ff}}
+* {{IPA|ff|/ɾ/}}
 
 ===Letter===
 {{ff-letter|upper=R|lower=r}}
@@ -337,8 +337,8 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 ==Ido==
 
 ===Pronunciation===
-* {{a|context pronunciation}} {{IPA|/ɾ/|lang=io}}
-* {{a|letter name}} {{IPA|lang=io|/ɾe/}}
+* {{a|context pronunciation}} {{IPA|io|/ɾ/}}
+* {{a|letter name}} {{IPA|io|/ɾe/}}
 
 ===Letter===
 {{head|io|letter|upper case|R}}
@@ -367,7 +367,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 ===Pronunciation===
 * {{lv-IPA|ɾ}}
-{{rfap|lang=lv}}
+{{rfap|lv}}
 
 ===Letter===
 [[File:Latin alphabet Rr.svg|thumb|200px|R]]
@@ -424,9 +424,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Norwegian==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|/ærː/|/æɾː/|lang=no}}
-* {{sense|phoneme}} {{IPA|/r/|/ɾ/|/ʁ/|lang=no}}
-* {{audio|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-r.wav|Audio|lang=nb}}
+* {{sense|letter name}} {{IPA|no|/ærː/|/æɾː/}}
+* {{sense|phoneme}} {{IPA|no|/r/|/ɾ/|/ʁ/}}
+* {{audio|nb|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-r.wav|Audio}}
 
 ===Letter===
 {{head|no|letter}}
@@ -442,7 +442,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Portuguese==
 
 ===Pronunciation===
-* {{audio|Pt-br-r.ogg|Audio (BR)|lang=pt}}
+* {{audio|pt|Pt-br-r.ogg|Audio (BR)}}
 
 ===Letter===
 {{pt-letter|upper=R|lower=r}}
@@ -457,7 +457,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|/re/|/er/|lang=ro}}
+* {{IPA|ro|/re/|/er/}}
 
 ===Letter===
 {{head|ro|letter|lowercase||capital|R}}
@@ -472,7 +472,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * (''uppercase'') {{l|sh|R}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/r/|lang=sh}}
+* {{qualifier|phoneme}} {{IPA|sh|/r/}}
 
 ===Letter===
 {{sh-letter}}
@@ -484,7 +484,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Skolt Sami==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/r/|lang=sms}}
+* {{qualifier|phoneme}} {{IPA|sms|/r/}}
 
 ===Letter===
 {{head|sms|letter|upper case|R}}
@@ -499,9 +499,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Spanish==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/ɾ/|/r/|lang=es}}
-* {{qualifier|letter name}} {{IPA|/ˈere/|lang=es}}
-** {{audio|letter r es es.flac|Audio (Spain)|lang=es}}
+* {{qualifier|phoneme}} {{IPA|es|/ɾ/|/r/}}
+* {{qualifier|letter name}} {{IPA|es|/ˈere/}}
+** {{audio|es|letter r es es.flac|Audio (Spain)}}
 * {{es-IPA|ere}}
 
 ===Letter===
@@ -530,7 +530,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Turkmen==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|/r/|lang=tk}}
+* {{qualifier|phoneme}} {{IPA|tk|/r/}}
 
 ===Letter===
 {{head|tk|letter|upper case|R}}
