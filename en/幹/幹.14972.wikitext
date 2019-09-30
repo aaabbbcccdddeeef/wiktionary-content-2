@@ -118,29 +118,43 @@ The vulgar sense entered Mandarin from {{der|cmn|nan|-}} {{zh-m|姦|kàn}}, as {
 |kun=みき-, から-
 }}
 
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|幹細胞|かんさいぼう}}: [[stem cell]]
-* {{ja-r|新幹線|しんかんせん}}: [[bullet train]]
-* {{ja-r|脳幹|のうかん}}: [[brain stem]]
-{{der-bottom}}
-
-===Etymology===
+===Etymology 1===
 <div style="float:right;">
 [[Image:Yellow birch trunk.jpg|thumb|250px|{{lang|ja|幹}} (''miki''): a tree '''[[trunk]]'''.]]
 </div>
 {{ja-kanjitab|みき|yomi=k}}
 Originally a compound of {{compound|ja|sort=みき|身|tr1=mi|t1=body|木|tr2=ki|t2=tree}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|みき|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|みき}}
 
 # the [[trunk]] or [[core]] of something:
 ## a tree [[trunk]]
 ## a plant [[stalk]]
+
+===Etymology 2===
+{{ja-kanjitab|かん|yomi=on}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|幹}}.
+
+====Pronunciation====
+{{ja-pron|かん|y=on}}
+
+====Affix====
+{{ja-pos|affix|かん|hhira=くわん}}
+
+# [[tree]] [[trunk]]; [[stem]]
+# [[main]] [[part]]; [[core]]
+# [[talent]]; [[capability]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|幹細胞|かんさいぼう}}: [[stem cell]]
+* {{ja-r|新幹線|しんかんせん}}: [[bullet train]]
+* {{ja-r|脳幹|のうかん}}: [[brain stem]]
+{{der-bottom}}
 
 ===References===
 <references/>
