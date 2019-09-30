@@ -44,21 +44,27 @@ Note that in Chinese, the bottom is [[㔾]], while in Japanese, the bottom is [[
 * {{ja-r|渦%巻%線|うず%まき%せん|gloss=a [[spiral]]}}
 * {{ja-r|葉%巻|は%まき|gloss=a [[cigar]]}}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|かん|yomi=on}}
 From {{der|ja|ltc|sort=かん|-}} {{ltc-l|卷}}.
 
-===Pronunciation===
-{{ja-pron|かん|y=on}}
+====Pronunciation====
+{{ja-pron|かん|y=on|acc=1|acc_ref=DJR}}
 
-===Affix===
+====Noun====
+{{ja-noun|かん|kyu=卷|hhira=くわん}}
+
+# [[scroll]]
+# [[book]]
+
+====Affix====
 {{ja-pos|affix|かん|kyu=卷|hhira=くわん}}
 
 # [[reel]] of [[book]]s
 # [[book]]; [[scroll]]
 # [[volume]]; [[chapter]]
 
-===Counter===
+====Counter====
 {{ja-pos|counter|かん|kyu=卷|hhira=くわん}}
 
 # [[volume]] of a book
@@ -71,6 +77,9 @@ From {{der|ja|ltc|sort=かん|-}} {{ltc-l|卷}}.
 # a scroll or book
 # a volume or chapter in a larger book or series
 # winding: the continuative form of {{l|ja|巻く}}
+
+===References===
+<references/>
 
 ----
 
