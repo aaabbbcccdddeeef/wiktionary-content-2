@@ -50,21 +50,6 @@
 
 ==Japanese==
 
-===Etymology===
-/hi<sub>1</sub>deri/: *pideri > ɸideri > çideri. The nominalization of the verb {{m|ja|日照る|tr=hideru}}.
-
-===Alternative forms===
-* {{l|ja|日照り}}
-
-===Pronunciation===
-* {{IPA|[çideri]|lang=ja}}
-
-===Noun===
-{{ja-noun|ひでり}}
-
-# a sunny day
-# a lack of water due to continuous sunny weather; a [[drought]]
-
 ===Kanji===
 {{ja-kanji|grade=|rs=日03}}
 
@@ -78,6 +63,33 @@
 
 ====Compounds====
 * [[旱魃]]
+
+===Etymology 1===
+/hi<sub>1</sub>deri/: *pideri > ɸideri > çideri. The nominalization of the verb {{m|ja|日照る|tr=hideru}}.
+
+====Alternative forms====
+* {{l|ja|日照り}}
+
+====Pronunciation====
+* {{IPA|[çideri]|lang=ja}}
+
+====Noun====
+{{ja-noun|ひでり}}
+
+# a sunny day
+# a lack of water due to continuous sunny weather; a [[drought]]
+
+===Etymology 2===
+{{ja-kanjitab|かん|yomi=on}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|旱}}.
+
+====Pronunciation====
+{{ja-pron|かん|y=on}}
+
+====Affix====
+{{ja-pos|affix|かん}}
+
+# [[drought]]; [[dry]] [[weather]]
 
 ----
 
