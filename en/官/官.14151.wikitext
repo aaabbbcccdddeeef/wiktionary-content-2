@@ -74,16 +74,36 @@ Variant form of [[宮]], roughly {{Han compound|宀|呂|ls=ic}} – many rooms u
 }}
 
 ===Etymology 1===
-{{ja-kanjitab|つかさ|yomi=k|alt=司,首,長}}
+{{ja-kanjitab|つかさ|yomi=k}}
+{{ja-see|長}}
+
+===Etymology 2===
+{{ja-kanjitab|かん|yomi=on}}
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|官}}.
 
 ====Pronunciation====
-{{ja-pron|つかさ|y=k|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+{{ja-pron|かん|acc=1|acc_ref=DJR|y=on}}
+
+====Affix====
+{{ja-pos|affix|かん|hhira=くわん}}
+
+# [[government]] [[office]]
+# [[government]] [[official]]
+# [[official]] [[rank]]; [[official]] [[position]]
+# [[public]]; [[state]]-[[owned]] (use, facility, etc.)
+# [[sense organ]]
 
 ====Noun====
-{{ja-noun|つかさ}}
+{{ja-noun|かん|hhira=くわん}}
 
-# [[manager]], [[foreman]]
+# [[government]] [[office]]; [[authority]]
 # [[government]] [[official]]
+# [[official]] [[rank]]; [[official]] [[position]]
+# {{lb|ja|obsolete}} the [[state]]; [[government]]
+# {{lb|ja|obsolete}} short for {{ja-r|太政官|だいじょうかん}}.
+
+===References===
+<references/>
 
 ===References===
 <references/>
