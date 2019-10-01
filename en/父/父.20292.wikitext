@@ -116,8 +116,10 @@ Regular development from Middle Chinese would lead to the labiodental ''fù'' in
 }}
 
 ====Compounds====
-* {{ja-r|祖父|じじ}}, {{ja-r|祖父|じい}}
-* {{ja-r|秩父|^ちちぶ}}
+{{der2|ja
+|{{ja-r|祖父|じじ}}, {{ja-r|祖父|じい}}
+|{{ja-r|秩父|^ちちぶ}}
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ちち}}
@@ -143,19 +145,21 @@ Still in modern usage.
 When describing a family member, only used to reference one's own father; not used as a standalone noun to refer to someone else's father.
 
 =====Derived terms=====
-{{der-top3}}
-* {{ja-r|父上|ちちうえ|[[honourable]] [[father]]|pos=term in respect primarily used in writing}}
-* {{ja-r|父親|ちちおや|father|pos=specifically as someone's [[parent]]}}
-* {{ja-r|父君|ちちぎみ}}
-* {{ja-r|父%御|ちち%ご}}
-* {{ja-r|父者 人|ちちじゃ ひと}}
-* {{ja-r|父%無し子|ちち%なしご|[[fatherless]] [[child]]}}
-* {{ja-r|父母|ちちはは|father and [[mother]], [[both]] [[parent]]s}}
-* {{ja-r|小父|おじ}}
-* {{ja-r|伯父|おじ}}
-* {{ja-r|叔父|おじ}}
-* {{ja-r|親父|おやじ}}
-{{der-bottom}}
+{{der4|ja
+|{{ja-r|父君|ちちぎみ}}
+|{{ja-r|父%御|ちち%ご}}
+|{{ja-r|父者 人|ちちじゃ ひと}}
+|{{ja-r|小父|おじ}}
+|{{ja-r|伯父|おじ}}
+|{{ja-r|叔父|おじ}}
+|{{ja-r|親父|おやじ}}
+}}
+{{der2|ja
+|{{ja-r|父上|ちちうえ|[[honourable]] [[father]]|pos=term in respect primarily used in writing}}
+|{{ja-r|父親|ちちおや|father|pos=specifically as someone's [[parent]]}}
+|{{ja-r|父%無し子|ちち%なしご|[[fatherless]] [[child]]}}
+|{{ja-r|父母|ちちはは|father and [[mother]], [[both]] [[parent]]s}}
+}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=i|ちち|k1=てて}}
@@ -177,16 +181,16 @@ Usage continued until at least the early 1700s.<ref name="KDJ"/>
 #*: '''Tete'''. {{m|pt|igualmente|I}}, chichi. {{m|pt|pay|Pay}}.
 
 =====Derived terms=====
-{{der-top3}}
-* {{ja-r|ててうちぐり}}
-* {{ja-r|父%打ち母%打ち|てて%うち はは%うち}}
-* {{ja-r|父君|ててぎみ}}
-* {{ja-r|父%御|てて%ご}}
-* {{ja-r|父者 人|ててじゃ ひと}}
-* {{ja-r|父%無し金|てて%なしがね}}
-* {{ja-r|父%無し子|てて%なしご}}
-* {{ja-r|大父|おおてて}}
-{{der-bottom}}
+{{der4|ja
+|{{ja-r|ててうちぐり}}
+|{{ja-r|父%打ち母%打ち|てて%うち はは%うち}}
+|{{ja-r|父君|ててぎみ}}
+|{{ja-r|父%御|てて%ご}}
+|{{ja-r|父者 人|ててじゃ ひと}}
+|{{ja-r|父%無し金|てて%なしがね}}
+|{{ja-r|父%無し子|てて%なしご}}
+|{{ja-r|大父|おおてて}}
+}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=i|とと}}
@@ -249,31 +253,31 @@ The “[[old]] [[man]]” affix is from {{der|ja|ltc|sort=ふ|-}} {{ltc-l|父|id
 # [[old]] [[man]], [[elderly]] man
 
 =====Derived terms=====
-{{der-top5}}
-* {{ja-r|父%君|ふ%くん|[[honourable]] [[father]]}}
-* {{ja-r|父%系|ふ%けい}}
-* {{ja-r|父子|ふし}}
-* {{ja-r|父母|ふぼ}}
-* {{ja-r|父%老|ふ%ろう}}
-* {{ja-r|亜父|あふ}}
-* {{ja-r|岳%父|がく%ふ}}
-* {{ja-r|義父|ぎふ}}
-* {{ja-r|教%父|きょう%ふ}}
-* {{ja-r|漁父|ぎょふ}}
-* {{ja-r|君%父|くん%ぷ}}
-* {{ja-r|厳%父|げん%ぷ}}
-* {{ja-r|国%父|こく%ふ}}
-* {{ja-r|慈父|じふ}}
-* {{ja-r|叔%父|しゅく%ふ}}
-* {{ja-r|諸父|しょふ}}
-* {{ja-r|神%父|しん%ぷ}}
-* {{ja-r|実父|じっぷ}}
-* {{ja-r|祖父|そふ}}
-* {{ja-r|尊%父|そん%ぷ}}
-* {{ja-r|代%父|だい%ふ}}
-* {{ja-r|伯%父|はく%ふ}}
-* {{ja-r|亡%父|ぼう%ふ}}
-{{der-bottom}}
+{{der4|ja
+|{{ja-r|父%君|ふ%くん|[[honourable]] [[father]]}}
+|{{ja-r|父%系|ふ%けい}}
+|{{ja-r|父子|ふし}}
+|{{ja-r|父母|ふぼ}}
+|{{ja-r|父%老|ふ%ろう}}
+|{{ja-r|亜父|あふ}}
+|{{ja-r|岳%父|がく%ふ}}
+|{{ja-r|義父|ぎふ}}
+|{{ja-r|教%父|きょう%ふ}}
+|{{ja-r|漁父|ぎょふ}}
+|{{ja-r|君%父|くん%ぷ}}
+|{{ja-r|厳%父|げん%ぷ}}
+|{{ja-r|国%父|こく%ふ}}
+|{{ja-r|慈父|じふ}}
+|{{ja-r|叔%父|しゅく%ふ}}
+|{{ja-r|諸父|しょふ}}
+|{{ja-r|神%父|しん%ぷ}}
+|{{ja-r|実父|じっぷ}}
+|{{ja-r|祖父|そふ}}
+|{{ja-r|尊%父|そん%ぷ}}
+|{{ja-r|代%父|だい%ふ}}
+|{{ja-r|伯%父|はく%ふ}}
+|{{ja-r|亡%父|ぼう%ふ}}
+}}
 
 ===Etymology 6===
 {{ja-kanjitab|yomi=kanyo|ほ}}
@@ -334,56 +338,56 @@ From {{der|ko|ltc|sort=부|-}} {{ltc-l|父|father|id=2}}. {{hanja-hunmong|부〮
 # {{hanja form of|부|[[elderly]] [[male]] [[relative]]}}
 
 =====Compounds=====
-{{der-top3|Compounds}}
-* {{ko-l|부계|父系}}
-* {{ko-l|부권|父權}}
-* {{ko-l|부녀|父女}}
-* {{ko-l|부도|父道}}
-* {{ko-l|부로|父老}}
-* {{ko-l|부명|父命}}
-* {{ko-l|부모|父母}}
-* {{ko-l|부사|父師}}
-* {{ko-l|부자|父子}}
-* {{ko-l|부조|父祖}}
-* {{ko-l|부집|父執}}
-* {{ko-l|부친|父親}}
-* {{ko-l|부형|父兄}}
-* {{ko-l|가부|家父}}
-* {{ko-l|계부|繼父}}
-* {{ko-l|군부|君父}}
-* {{ko-l|내부|乃父}}
-* {{ko-l|[[노부]]/[[로부]]|老父}}
-* {{ko-l|대부|代父}}
-* {{ko-l|망부|亡父}}
-* {{ko-l|백부|伯父}}
-* {{ko-l|빙부|聘父}}
-* {{ko-l|사부|師父}}
-* {{ko-l|생부|生父}}
-* {{ko-l|성부|聖父}}
-* {{ko-l|숙부|叔父}}
-* {{ko-l|신부|神父}}
-* {{ko-l|악부|岳父}}
-* {{ko-l|양부|養父}}
-* {{ko-l|어부|漁父}}
-* {{ko-l|엄부|嚴父}}
-* {{ko-l|왕부|王父}}
-* {{ko-l|유부|猶父}}
-* {{ko-l|의부|義父}}
-* {{ko-l|이부|李父}}
-* {{ko-l|자부|慈父}}
-* {{ko-l|제부|諸父}}
-* {{ko-l|조부|祖父}}
-* {{ko-l|천부|天父}}
-* {{ko-l|친부|親父}}
-* {{ko-l|부사지|父事之}}
-* {{ko-l|부선망|父先亡}}
-* {{ko-l|부주전|父主前}}
-* {{ko-l|조부모|祖父母}}
-* {{ko-l|고조부|高祖父}}
-* {{ko-l|족대부|族大父}}
-* {{ko-l|족조부|族祖父}}
-* {{ko-l|증조부|曾祖父}}
-{{der-bottom}}
+{{der4|ko
+|{{ko-l|부계|父系}}
+|{{ko-l|부권|父權}}
+|{{ko-l|부녀|父女}}
+|{{ko-l|부도|父道}}
+|{{ko-l|부로|父老}}
+|{{ko-l|부명|父命}}
+|{{ko-l|부모|父母}}
+|{{ko-l|부사|父師}}
+|{{ko-l|부자|父子}}
+|{{ko-l|부조|父祖}}
+|{{ko-l|부집|父執}}
+|{{ko-l|부친|父親}}
+|{{ko-l|부형|父兄}}
+|{{ko-l|가부|家父}}
+|{{ko-l|계부|繼父}}
+|{{ko-l|군부|君父}}
+|{{ko-l|내부|乃父}}
+|{{ko-l|[[노부]]/[[로부]]|老父}}
+|{{ko-l|대부|代父}}
+|{{ko-l|망부|亡父}}
+|{{ko-l|백부|伯父}}
+|{{ko-l|빙부|聘父}}
+|{{ko-l|사부|師父}}
+|{{ko-l|생부|生父}}
+|{{ko-l|성부|聖父}}
+|{{ko-l|숙부|叔父}}
+|{{ko-l|신부|神父}}
+|{{ko-l|악부|岳父}}
+|{{ko-l|양부|養父}}
+|{{ko-l|어부|漁父}}
+|{{ko-l|엄부|嚴父}}
+|{{ko-l|왕부|王父}}
+|{{ko-l|유부|猶父}}
+|{{ko-l|의부|義父}}
+|{{ko-l|이부|李父}}
+|{{ko-l|자부|慈父}}
+|{{ko-l|제부|諸父}}
+|{{ko-l|조부|祖父}}
+|{{ko-l|천부|天父}}
+|{{ko-l|친부|親父}}
+|{{ko-l|부사지|父事之}}
+|{{ko-l|부선망|父先亡}}
+|{{ko-l|부주전|父主前}}
+|{{ko-l|조부모|祖父母}}
+|{{ko-l|고조부|高祖父}}
+|{{ko-l|족대부|族大父}}
+|{{ko-l|족조부|族祖父}}
+|{{ko-l|증조부|曾祖父}}
+}}
 
 ===Etymology 2===
 From {{der|ko|ltc|sort=보|-}} {{ltc-l|父|old man; elderly man|id=1}}.
@@ -395,11 +399,11 @@ From {{der|ko|ltc|sort=보|-}} {{ltc-l|父|old man; elderly man|id=1}}.
 #: {{syn|ko|甫|tr={{m|ko|보}}}}
 
 =====Compounds=====
-{{der-top3|Compounds}}
-* {{ko-l|공보|孔父}}
-* {{ko-l|선보|宣父}}
-* {{ko-l|[[이보]]/[[니보]]|尼父}}
-{{der-bottom}}
+{{der3|ko
+|{{ko-l|공보|孔父}}
+|{{ko-l|선보|宣父}}
+|{{ko-l|[[이보]]/[[니보]]|尼父}}
+}}
 
 ===References===
 * {{R:hanjadoc|6987}}
@@ -420,8 +424,10 @@ From {{der|ko|ltc|sort=보|-}} {{ltc-l|父|old man; elderly man|id=1}}.
 #: {{ant|ojp|母|tr=omo, papa}}
 
 =====Derived terms=====
-* {{m|ojp|父母|tr=titipapa}}
-* {{m|ojp|母父|tr=omotiti}}
+{{der2|ojp
+|{{l|ojp|父母|tr=titipapa}}
+|{{l|ojp|母父|tr=omotiti}}
+}}
 
 =====Descendants=====
 * {{desc|ja|父|tr=chichi, tete, toto}}
@@ -436,7 +442,7 @@ Eastern dialect of ''titi'' above.
 #: {{ant|ojp|母|tr=amo}}
 
 =====Derived terms=====
-* {{m|ojp|母父|tr=amosisi||[[mother]] and father}}
+* {{l|ojp|母父|tr=amosisi|t=[[mother]] and father}}
 
 ===Etymology 3===
 From {{inh|ojp|jpx-pro|*ti}}.
@@ -450,14 +456,14 @@ From {{inh|ojp|jpx-pro|*ti}}.
 #*: '''Note:''' Poem 39 of the ''{{w|Nihon Shoki}}'' is similar to this but replaces {{m|ojp|醸む|迦美斯|tr=kami<sub>1</sub>si}} with {{m|ojp||伽綿蘆|tr=kame<sub>1</sub>ru}}.
 
 =====Derived terms=====
-{{der-top}}
-* {{m|ojp|父|tr=titi||[[father]]|pos=see above}}
-* {{m|ojp|祖父|tr=opodi||[[grandfather]]}}
-* {{m|ojp|小父|tr=wodi}}
-** {{m|ojp|伯父|tr=wodi||[[older]] [[uncle]]}}
-** {{m|ojp|叔父|tr=wodi||[[younger]] uncle}}
-** {{m|ojp|爺|tr=wodi||[[old]] [[man]]}}
-{{der-bottom}}
+{{top2}}
+* {{l|ojp|父|tr=titi|t=[[father]]|pos=see above}}
+* {{l|ojp|祖父|tr=opodi|t=[[grandfather]]}}
+* {{l|ojp|小父|tr=wodi}}
+** {{l|ojp|伯父|tr=wodi|t=[[older]] [[uncle]]}}
+** {{l|ojp|叔父|tr=wodi|t=[[younger]] uncle}}
+** {{l|ojp|爺|tr=wodi|t=[[old]] [[man]]}}
+{{bottom}}
 
 ===Etymology 4===
 {{unk|ojp}}.<ref>{{R:Kokugo Dai Jiten}}</ref>
@@ -497,14 +503,14 @@ From {{der|vi|ltc|sort=phụ|-}} {{ltc-l|父|father|id=2}}.
 # {{han tu form of|phụ|[[elderly]] [[male]] [[relative]]}}
 
 ====Derived terms====
-{{der-top3}}
-* {{vi-l|父兄|phụ huynh}}
-* {{vi-l|父母|phụ mẫu}}
-* {{vi-l|父權|phụ quyền}}
-* {{vi-l|伯父|bá phụ}}
-* {{vi-l|師父|sư phụ}}
-* {{vi-l|叔父|thúc phụ}}
-{{der-bottom}}
+{{der3|vi
+|{{vi-l|父兄|phụ huynh}}
+|{{vi-l|父母|phụ mẫu}}
+|{{vi-l|父權|phụ quyền}}
+|{{vi-l|伯父|bá phụ}}
+|{{vi-l|師父|sư phụ}}
+|{{vi-l|叔父|thúc phụ}}
+}}
 
 ===References===
 <references/>
