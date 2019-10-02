@@ -3,12 +3,17 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=61|rad=心|as=07|sn=10|four=96027|canj=PRB|ids=⿰忄肙}}
+<code>U+6081</code> {{Han char|rn=61|rad=心|as=07|sn=10|four=96027|canj=PRB|ids=⿰忄肙}}<br>
+<code>U+2F8A0</code> {{Han char|rn=61|rad=心|as=06|sn=9|four=|canj=PIB|ids=⿰忄䏍}}
 
 # [[irritable]], [[nervous]], [[impatient]]
 
-====References====
+====Derived characters====
+* {{l|mul|[[𫻠]], [[𫡾]]}}
+
+===Further reading===
 {{Han ref|kx=0386.200|dkj=10623|dj=0718.200|hdz=42304.060|uh=6081}}
+{{Han ref|uh=2F8A0}}
 
 ----
 
@@ -17,7 +22,7 @@
 ===Hanzi===
 {{yue-hanzi|jyut=[[gyun1]], [[gyun3]]|y=gyun1, gyun3}}
 
-# {{rfdef|yue|sort=心07}}
+# {{rfdef|zh}}
 
 ----
 
@@ -26,7 +31,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=心07}}
 
-# {{rfdef|ja|sort=心07}}
+# {{rfdef|ja}}
 
 ====Readings====
 {{ja-readings
@@ -39,10 +44,17 @@
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|연}}
+===Etymology===
+From {{der|ko|ltc|sort=연|-}} {{ltc-l|悁}}.
 
-# {{rfdef|ko|sort=心07}}
+===Hanja===
+{{ko-hanja|성내다|성낼|연}}<br>
+{{ko-hanja|분하다|분할|연}}
+
+# {{rfdef|ko}}
+
+===References===
+* {{R:hanjadoc|3466}}
 
 ----
 
@@ -51,13 +63,20 @@
 ===Hanzi===
 {{cmn-hanzi|pin=[[yuān]] ([[yuan1]])|wg=yüan<sup>1</sup>}}
 
-# {{rfdef|cmn|sort=心07}}
+# {{rfdef|zh}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=心07|reading=quyên}}
+{{vi-readings|rs=心07
+|hanviet=quyên-tdcntd
+|phienthiet=縈圓 oanh viên
+|nom=quen-tdcndg;tdcntd;gdhn;btcn, quên-tdcndg;tdcntd;gdhn
+}}
 
-# {{rfdef|vi|sort=心07}}
+# {{rfdef|vi}}
+
+===References===
+<references/>
