@@ -2,24 +2,39 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=66|rad=攴|as=08|sn=12|four=|canj=AHYE|ids=⿰易攴}}
+{{Han char|rn=66|rad=攴|as=08|sn=12|four=61247|canj=AHYE|ids=⿰易攴}}
 
-# to [[rebuke]]
-
-====References====
-* {{Han ref|kx=0472.250|dkj=13259|dj=0825.120|hdz=21464.110|uh=6561|ud=25953}}
+===Further reading===
+{{Han ref|kx=0472.250|dkj=13259|dj=0825.120|hdz=21464.110|uh=6561}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|alt=𫾻}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[ji6]]|y=yi6}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|易|攴|c1=p|c2=s|ls=psc}}
 
-# {{rfdef|yue|sort=攴08}}
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=
+|mc=y
+|oc=y
+|cat=v
+}}
 
-====References====
-* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 120]
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[neglect]]; to give the [[cold-shoulder]]
+#: {{zh-syn|怠慢}}
+# {{†}} to [[change]]; to [[modify]]
+#: {{zh-syn|改易}}
+
+===References===
+* {{R:twedu|C04621}}
 
 ----
 
@@ -28,25 +43,29 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=攴08}}
 
-# {{rfdef|ja|sort=攴08}}
+# {{rfdef|ja}}
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i)|kun=[[あなどる]] (anadoru)}}
+{{ja-readings
+|on=い
+|kun=あなどる
+}}
+
+===References===
+* {{R:Koseki Moji|148510}}
 
 ----
 
 ==Korean==
 
+===Etymology===
+From {{der|ko|ltc|sort=이|-}} {{ltc-l|敡}}.
+
 ===Hanja===
-{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+{{ko-hanja-search}}
+{{ko-hanja|업신여기다|업신여길|이}}
 
-# {{rfdef|ko|sort=攴08}}
+# {{hanja form of|이|to [[look down on]]; to [[despise]]; to [[belittle]]; to [[disdain]]}}
 
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[yì]] ([[yi4]])|wg=i<sup>4</sup>}}
-
-# {{rfdef|cmn|sort=攴08}}
+===References===
+* {{R:hanjadoc|4435}}
