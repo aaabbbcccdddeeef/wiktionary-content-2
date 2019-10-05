@@ -1,4 +1,4 @@
-{{also|樱}}
+{{also|樱|桜}}
 {{character info/new}}
 ==Translingual==
 {{Han simplified forms|櫻|桜|樱}}
@@ -54,7 +54,7 @@
 ===Kanji===
 {{ja-kanji|grade=n|rs=木17|shin=桜}}
 
-# [[cherry]] [[tree]]
+# {{ja-kyujitai spelling of|桜}}
 
 ====Readings====
 {{ja-readings
@@ -63,14 +63,19 @@
 |kun=さくら-
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|さくら|yomi=k}}
-See {{m|ja|桜}}.
 
-===Noun===
-{{ja-noun|さくら|shin=桜}}
+See {{ja-l|桜}}.
 
-# {{ja-kyujitai spelling of|lang=ja|桜}}
+====Proper noun====
+{{ja-pos|proper|shin=桜|さくら}}
+
+# {{given name|female|lang=ja|A=a|sort=さくら}}
+# {{surname|lang=ja|A=a|nodot=1|sort=さくら}}
+
+===Etymology 2===
+{{ja-gv|桜}}
 
 ----
 
@@ -80,6 +85,41 @@ See {{m|ja|桜}}.
 {{ko-hanja|hangeul=앵|eumhun=|rv=aeng|mr=aeng|y=ayng}}
 
 # {{rfdef|ko|sort=木17}}
+
+----
+
+==Okinawan==
+
+===Noun===
+{{head|ryu|noun|[[kyūjitai]] kanji||[[shinjitai]] kanji|桜|hiragana|さくら|rōmaji|sakura|sort=さくら}}
+
+# {{ryu-kyujitai spelling of|桜|tr=sakura|t=[[cherry tree]]}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+From {{com|ojp|sort=さくら|咲く|tr1=saku|t1=to [[bloom]], [[burst]] [[open]]|等|tr2=-ra|pos2=nominalizing and pluralizing suffix}}.
+
+===Noun===
+{{head|ojp|noun|tr=sakura|kana|さくら|sort=さくら}}
+
+# a [[cherry tree]], ''especially'' the {{vern|Japanese cherry}}, {{taxlink|Prunus serrulata|species|ver=191004}}
+#* {{RQ:Nihon Shoki|poem 67}}
+#*: {{ux|ojp|[[花細し|波那具波辭]]'''佐區羅'''能[[愛で|&#xfa44;涅]]虛等&#xfa44;涅麼波椰區波&#xfa44;涅孺和我&#xfa44;豆留[[子等|古羅]]|tr=pana-gupasi '''sakura''' no<sub>2</sub> me<sub>2</sub>de ko<sub>2</sub>to<sub>2</sub> me<sub>2</sub>deba payaku pa me<sub>2</sub>dezu waga me<sub>2</sub>duru ko<sub>1</sub>ra}}
+
+====Derived terms====
+{{col3-u|ojp
+|{{m|ojp|櫻麻の|tr=sakurawo no<sub>2</sub>|pos=[[pillow word]]}}
+|{{m|ojp|櫻田|tr=Sakurada}}
+|{{m|ojp|櫻花|tr=sakurabana||[[cherry blossom]]}}
+|{{m|ojp|櫻井|tr=Sakurawi}}
+|{{m|ojp|山櫻|tr=yamazakura||[[mountain]] [[cherry]]}}
+}}
+
+====Descendants====
+* {{desc|ja|桜|tr=sakura}}
 
 ----
 
