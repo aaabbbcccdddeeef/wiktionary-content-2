@@ -1,4 +1,4 @@
-{{character info/new}}
+{{character info/subpage}}
 ==Translingual==
 {{stroke order|type=animate}}
 {{stroke order|type=janimate}}
@@ -6,8 +6,11 @@
 ===Han character===
 {{Han char|rn=60|rad=彳|as=05|sn=8|four=24247|canj=HODHE|ids=⿰彳皮}}
 
-====References====
-* {{Han ref|kx=0365.250|dkj=10066|dj=0685.180|hdz=20817.100|uh=5F7C|ud=24444|bh=A9BC|bd=43452}}
+====Derived characters====
+* {{l|mul|[[𠶎]], [[𢜢]], [[𢯏]], [[𣷭]], [[𣔓]], [[𥓳]], [[𩏃]], [[𡮌]], [[𫖽]], [[𦋕]], [[𩜔]], [[𠥌]], [[𠪍]], [[𣤳]], [[𥨑]], [[𩕂]]}}
+
+===Further reading===
+{{Han ref|kx=0365.250|dkj=10066|dj=0685.180|hdz=20817.100|uh=5F7C}}
 
 ----
 
@@ -18,7 +21,7 @@
 {{Han compound|彳|皮|ls=psc|c1=s|c2=p}}.
 
 ===Etymology 1===
-{{zh-forms}}
+{{zh-forms|alt=佊}}
 Related to {{och-l|夫|that}} ({{zh-ref|Schuessler, 2007}}).
 
 ====Pronunciation====
@@ -45,8 +48,11 @@ Related to {{och-l|夫|that}} ({{zh-ref|Schuessler, 2007}}).
 {{zh-dial|那}}
 {{zh-dial|他}}
 
+=====Descendants=====
+{{CJKV||ひ|피|bỉ}}
+
 ====Compounds====
-{{zh-der|彼此|顧此失彼|彼竭我盈|彼眾我寡|厚此薄彼|彼得大帝|厚彼薄此|彼長我消|彼蒼|彼唱此和|不分彼此|何彼襛矣|彼岸|彼倡此和|瞻彼洛矣|挹彼注茲|挹彼注此|此唱彼和|知彼知己|知己知彼|此起彼伏|此發彼應|此問彼難|此起彼落|此仆彼起|聖彼得堡|誓彼襟靈|彼得}}
+{{zh-der|彼此|顧此失彼|彼竭我盈|彼眾我寡|厚此薄彼|彼得大帝|厚彼薄此|彼長我消|彼蒼|彼唱此和|不分彼此|何彼襛矣|彼岸|彼倡此和|瞻彼洛矣|挹彼注茲|挹彼注此|此唱彼和|知彼知己|知己知彼|此起彼伏|此發彼應|此問彼難|此起彼落|此仆彼起|聖彼得堡|誓彼襟靈|彼得|hide_pron=1}}
 
 ===Etymology 2===
 Related to {{zh-l|許|hí, hír|that}}; see there for more.
@@ -98,17 +104,20 @@ Pronunciation 2 is a fusion word of {{zh-l|許|hí, hír|that}} + {{zh-l|一|it|
 }}
 
 =====Compounds=====
-{{der-top|Compounds}}
-* {{ja-r|彼処|あそこ|that place over there, that organization over there}}
-* {{ja-r|彼方|あちら, かなた|that way, that over there; far away}}
-* {{ja-r|彼女|かのじょ|she, girlfriend}}
-* {{ja-r|彼我|ひが|friend and foe}}
-* {{ja-r|彼岸|ひがん}}
+{{der-top3|Compounds}}
+{{ja-r/multi|data=
+* {{ja-r/args|彼処|あそこ|that place over there, that organization over there}}
+* {{ja-r/args|彼方|あちら, かなた|that way, that over there; far away}}
+* {{ja-r/args|彼女|かのじょ|she, girlfriend}}
+* {{ja-r/args|彼我|ひが|friend and foe}}
+* {{ja-r/args|彼%岸|ひ%がん}}
+}}
 {{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|か}}
-From {{etyl|ojp|ja|sort=か}}.
+
+From {{inh|ja|ojp|sort=か|-}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|か|acc=1|acc_ref=DJR}}
@@ -119,9 +128,11 @@ From {{etyl|ojp|ja|sort=か}}.
 # [[distal]] [[demonstrative]], something far off [[removed]] from both speaker and listener: [[that]], [[yon]]
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|彼|かの}}, {{ja-r|彼の|かの|his; that}}
-* {{ja-r|彼|かれ|he}}
+{{der-top3}}
+{{ja-r/multi|data=
+* {{ja-r/args|彼|かの}}, {{ja-r/args|彼の|かの|his; that}}
+* {{ja-r/args|彼|かれ|he}}
+}}
 {{der-bottom}}
 
 =====See also=====
@@ -151,7 +162,7 @@ The sense development seems to have proceeded from "that thing over there" to "t
 * {{sense|boyfriend}} {{ja-r|彼氏|かれし}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|彼氏|かれし|boyfriend}}
 {{der-bottom}}
 
@@ -179,16 +190,41 @@ The sense development seems to have proceeded from "that thing over there" to "t
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=피|eumhun=저, 그, 저쪽}}
+===Etymology===
+From {{der|ko|ltc|sort=피|-}} {{ltc-l|彼}}. {{hanja-hunmong|피〯|phi|雜語#하24A}}.
 
-# {{rfdef|ko|sort=彳05}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|저|피}}
+
+# {{hanja form of|피|[[that]]; [[those]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|피변|彼邊}}
+* {{ko-l|피아|彼我}}
+* {{ko-l|피안|彼岸}}
+* {{ko-l|피인|彼人}}
+* {{ko-l|피일|彼日}}
+* {{ko-l|피척|彼隻}}
+* {{ko-l|지피|持彼}}
+* {{ko-l|곡재피|曲在彼}}
+* {{ko-l|어차피|於此彼}}
+* {{ko-l|이차피|以此彼}}
+* {{ko-l|어차어피|於此於彼}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|3247}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[bỉ]], [[bể]], [[bở]]|rs=彳05}}
+{{vi-readings|reading=[[bỉ]], [[bể]], [[bở]]|rs=彳05}}
 
 # {{rfdef|vi|sort=彳05}}
+
+====Compounds====
+* {{vi-l|彼嗇斯豐|bỉ sắc tư phong}}
