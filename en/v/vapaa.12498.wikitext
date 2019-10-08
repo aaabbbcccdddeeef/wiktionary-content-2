@@ -1,7 +1,7 @@
 ==Finnish==
 
 ===Etymology 1===
-Presumably from earlier ''*vapada'', borrowed from {{bor|fi|orv|свободь|t=free|pos=adj.}}, from {{der|fi|sla-pro|*svoboda|t=freedom}}.
+Presumably from earlier ''*vapada'', borrowed from {{bor|fi|orv|свободь|t=free|pos=a}}, from {{der|fi|sla-pro|*svoboda|t=freedom}}.
 
 ====Pronunciation====
 * {{fi-IPA}}
@@ -12,28 +12,30 @@ Presumably from earlier ''*vapada'', borrowed from {{bor|fi|orv|свободь|t
 {{fi-adj|vapa|ampi|in}}
 
 # [[free]] {{gloss|not imprisoned or enslaved}}
-#: {{ux|fi|Olen '''vapaa''' mies.|I am a '''free''' man.}}
+#: {{uxi|fi|Olen '''vapaa''' mies.|I am a '''free''' man.}}
 # free {{gloss|unconstrained}}
-#: {{ux|fi|Hänelle annettiin '''vapaat''' kädet tehdä, mitä hän haluaa.|He was given '''free''' rein to do whatever he wanted.}}
+#: {{uxi|fi|Hänelle annettiin '''vapaat''' kädet tehdä, mitä hän haluaa.|He was given '''free''' rein to do whatever he wanted.}}
 # free {{gloss|released}}
-#: {{ux|fi|Päästimme kanin '''vapaaksi'''.|We set the rabbit '''free'''.}}
+#: {{uxi|fi|Päästimme kanin '''vapaaksi'''.|We set the rabbit '''free'''.}}
 # free, [[off]] {{gloss|without obligations}}
-#: {{ux|fi|Voit pitää loppupäivän '''vapaata'''.|You can take the rest of the day '''off'''.}}
+#: {{uxi|fi|Voit pitää loppupäivän '''vapaata'''.|You can take the rest of the day '''off'''.}}
 # [[spare]], free {{gloss|not filled with activity or work}}
-#: {{ux|fi|Minulla on paljon '''vapaa'''-aikaa.|I have a lot of '''free''' time.}}
+#: {{uxi|fi|Minulla on paljon '''vapaa'''-aikaa.|I have a lot of '''free''' time.}}
 # [[vacant]]
-#: {{ux|fi|Istuin on '''vapaa'''.|The seat is '''vacant'''.}}
+#: {{uxi|fi|Istuin on '''vapaa'''.|The seat is '''vacant'''.}}
 # [[unmarried]], [[single]]
 # [[free-range]] (of, pertaining to, or produced by animals that are allowed to roam freely, rather than being confined indoors)
-#: {{ux|fi|Ostan aina '''vapaan''' kanan munia.|I always buy '''free-range''' eggs.}}
+#: {{uxi|fi|Ostan aina '''vapaan''' kanan munia.|I always buy '''free-range''' eggs.}}
 # {{lb|fi|linear algebra}} [[linearly independent]] {{gloss|of a set of vectors}}
 
 =====Declension=====
 {{fi-decl-vapaa|pos=adj|vapa|a}}
 
 =====Derived terms=====
-* {{l|fi|vapaalla jalalla||at large|lit=on free foot}}
-* {{l|fi|vapaat kädet||free rein}}
+{{der2|fi
+|{{l|fi|vapaalla jalalla|t=at large|lit=on free foot}}
+|{{l|fi|vapaat kädet|t=free rein}}
+}}
 
 ====Noun====
 {{fi-noun}}
@@ -44,91 +46,89 @@ Presumably from earlier ''*vapada'', borrowed from {{bor|fi|orv|свободь|t
 {{fi-decl-vapaa|vapa|a}}
 
 ====Compounds====
-{{der-top4|compounds}}
-* {{l|fi|epävapaa}}
-* {{l|fi|hoitovapaa}}
-* {{l|fi|huoltovapaa}}
-* {{l|fi|iltavapaa}}
-* {{l|fi|julkaisuvapaa}}
-* {{l|fi|opintovapaa}}
-* {{l|fi|puuvapaa}}
-* {{l|fi|reseptivapaa}}
-* {{l|fi|ruostevapaa}}
-* {{l|fi|sapattivapaa}}
-* {{l|fi|säästövapaa}}
-* {{l|fi|trustivapaa}}
-* {{l|fi|tullivapaa}}
-* {{l|fi|vapaa-aika}}
-* {{l|fi|vapaa-ajanasunto}}
-* {{l|fi|vapaa-ajattelija}}
-* {{l|fi|vapaa-ajattelu}}
-* {{l|fi|vapaaehtoinen}}
-* {{l|fi|vapaaheitto}}
-* {{l|fi|vapaaheittoviiva}}
-{{der-mid4}}
-* {{l|fi|vapaaherra}}
-* {{l|fi|vapaaherratar}}
-* {{l|fi|vapaahetki}}
-* {{l|fi|vapaailta}}
-* {{l|fi|vapaakappale}}
-* {{l|fi|vapaakauppa}}
-* {{l|fi|vapaakauppa-alue}}
-* {{l|fi|vapaakauppasopimus}}
-* {{l|fi|vapaakaupunki}}
-* {{l|fi|vapaakiipeily}}
-* {{l|fi|vapaakirkko}}
-* {{l|fi|vapaakivääri}}
-* {{l|fi|vapaakivääriammunta}}
-* {{l|fi|vapaakunta}}
-* {{l|fi|vapaakytkin}}
-* {{l|fi|vapaakyyti}}
-* {{l|fi|vapaalippu}}
-* {{l|fi|vapaalippulainen}}
-* {{l|fi|vapaaluistelu}}
-* {{l|fi|vapaalyönti}}
-{{der-mid4}}
-* {{l|fi|vapaamatkustaja}}
-* {{l|fi|vapaamielinen}}
-* {{l|fi|vapaamittainen}}
-* {{l|fi|vapaamuotoinen}}
-* {{l|fi|vapaamuurari}}
-* {{l|fi|vapaamuurarijärjestö}}
-* {{l|fi|vapaamuurariloosi}}
-* {{l|fi|vapaamuurarius}}
-* {{l|fi|vapaaohjelma}}
-* {{l|fi|vapaaopisto}}
-* {{l|fi|vapaaoppilas}}
-* {{l|fi|vapaaosake}}
-* {{l|fi|vapaapaini}}
-* {{l|fi|vapaapalokunta}}
-* {{l|fi|vapaapalokuntalainen}}
-* {{l|fi|vapaapistooli}}
-* {{l|fi|vapaapistooliammunta}}
-* {{l|fi|vapaapotku}}
-* {{l|fi|vapaapäivä}}
-{{der-mid4}}
-* {{l|fi|vapaarahoitteinen}}
-* {{l|fi|vapaarytminen}}
-* {{l|fi|vapaarytmisyys}}
-* {{l|fi|vapaasatama}}
-* {{l|fi|vapaataival}}
-* {{l|fi|vapaatanssi}}
-* {{l|fi|vapaatunti}}
-* {{l|fi|vapaauinti}}
-* {{l|fi|vapaavalintainen}}
-* {{l|fi|vapaavarasto}}
-* {{l|fi|vapaavarsi}}
-* {{l|fi|vapaavarsikone}}
-* {{l|fi|vapaavuoro}}
-* {{l|fi|vapaavuosi}}
-* {{l|fi|verovapaa}}
-* {{l|fi|virkavapaa}}
-* {{l|fi|vuorotteluvapaa}}
-* {{l|fi|äitiysvapaa}}
-* {{l|fi|älyvapaa}}
-{{der-bottom}}
+{{der4|fi
+|epävapaa
+|hoitovapaa
+|huoltovapaa
+|iltavapaa
+|julkaisuvapaa
+|opintovapaa
+|puuvapaa
+|reseptivapaa
+|ruostevapaa
+|sapattivapaa
+|säästövapaa
+|trustivapaa
+|tullivapaa
+|vapaa-aika
+|vapaa-ajanasunto
+|vapaa-ajattelija
+|vapaa-ajattelu
+|vapaaehtoinen
+|vapaaheitto
+|vapaaheittoviiva
+|vapaaherra
+|vapaaherratar
+|vapaahetki
+|vapaailta
+|vapaakappale
+|vapaakauppa
+|vapaakauppa-alue
+|vapaakauppasopimus
+|vapaakaupunki
+|vapaakiipeily
+|vapaakirkko
+|vapaakivääri
+|vapaakivääriammunta
+|vapaakunta
+|vapaakytkin
+|vapaakyyti
+|vapaalippu
+|vapaalippulainen
+|vapaaluistelu
+|vapaalyönti
+|vapaamatkustaja
+|vapaamielinen
+|vapaamittainen
+|vapaamuotoinen
+|vapaamuurari
+|vapaamuurarijärjestö
+|vapaamuurariloosi
+|vapaamuurarius
+|vapaaohjelma
+|vapaaopisto
+|vapaaoppilas
+|vapaaosake
+|vapaapaini
+|vapaapalokunta
+|vapaapalokuntalainen
+|vapaapistooli
+|vapaapistooliammunta
+|vapaapotku
+|vapaapäivä
+|vapaarahoitteinen
+|vapaarytminen
+|vapaarytmisyys
+|vapaasatama
+|vapaataival
+|vapaatanssi
+|vapaatunti
+|vapaauinti
+|vapaavalintainen
+|vapaavarasto
+|vapaavarsi
+|vapaavarsikone
+|vapaavuoro
+|vapaavuosi
+|verovapaa
+|virkavapaa
+|vuorotteluvapaa
+|äitiysvapaa
+|älyvapaa
+}}
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Noun====
 {{head|fi|noun form}}
