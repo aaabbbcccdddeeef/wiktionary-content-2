@@ -62,7 +62,7 @@ Image:Fraktur letter S.png|Uppercase (''left'') and lowercase (''right'') '''S''
 # {{Latn-def|en|ordinal|19|ess}}
 
 ===Abbreviation===
-{{rfc-header|Abbreviation}}
+{{rfc-header|lang=en|Abbreviation}}
 {{head|en|abbreviation}}
 
 # {{lb|en|metrology}} abbreviation for the [[scruple]] {{qualifier|unit of mass in the apothecaries' system}}
@@ -571,7 +571,7 @@ From {{inh|sh|sla-pro|*sъ(n)}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*ḱom}}.
 * {{l|sh|s.}}
 
 ====Abbreviation====
-{{rfc-header|Abbreviation}}
+{{rfc-header|lang=sh|Abbreviation}}
 {{head|sh|abbreviation|Cyrillic spelling|с}}
 
 # {{lb|sh|grammar}} [[neuter]] [[gender]] ({{m|sh|srednji}} {{m|sh|rod}})
@@ -640,7 +640,7 @@ From {{inh|sh|sla-pro|*sъ(n)}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*ḱom}}.
 ==Swedish==
 
 ===Abbreviation===
-{{rfc-header|Abbreviation}}
+{{rfc-header|lang=sv|Abbreviation}}
 {{head|sv|abbreviation}}
 
 # [[page]]; {{abbreviation of|sv|sida}}
