@@ -6,9 +6,9 @@
 {{Han char|rn=38|rad=女|as=05|sn=8|four=43460|canj=VIR|ids=⿰女台}}
 
 ====Derived characters====
-* {{l|mul|[[𡤔]]/[[𪦲]], [[𦰯]], [[𠝔]], [[𤯯]], [[㗠]], [[𡤓]]}}
+* {{l|mul|[[𡤔]], [[𪦲]], [[𦰯]], [[𠝔]], [[𤯯]], [[㗠]], [[𡤓]]}}
 
-====References====
+===Further reading===
 {{Han ref|kx=0258.160|dkj=06166|dj=0523.220|hdz=21041.120|uh=59CB}}
 
 ----
@@ -18,7 +18,7 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|女|台|ls=psc|c1=s|c2=p}}.
+{{Han compound|女|台|t1=woman|ls=psc|c1=s|c2=p}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -49,6 +49,9 @@
 # [[initial]]; [[first]]
 # [[then]]; only then
 
+====Descendants====
+{{CJKV||し|시|thuỷ}}
+
 ===Compounds===
 {{zh-der|一元復始|七始|下車之始|下車伊始|乃始|伊始|倡始|元始|元始天尊|先從隗始|全始全終|初始|創始|原始|原始主義|原始人|原始佛教|原始反終|原始林|原始社會|原始程式|原始藝術|原始要終|原始見終|厲精更始|古始|周而復始|善始令終|善始善終|四始|報本反始|太始|始亂終棄|始作俑者|始創|始基|始料不及|始料未及|始末|始業式|始生魄|始祖|始祖鳥|始終|始終不易|始終不渝|始終如一|始終若一|始願|從始至終|慎始|慎始敬終|慎終如始|慎終若始|才始|旬始|曆始|更始|有始有卒|有始有終|有始無終|未始|本始|正始之音|正始文學|正始玄風|正始體|泰始|渝始|無始無終|無始無邊|甘始|福為禍始|秦始皇|秦始皇陵|終始|終始不渝|終始如一|終而復始|經始|肇始|自始至終|與民更始|託始|請自隗始|貫徹始終|起始|開始|齠始|建始}}
 
@@ -59,6 +62,8 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=女05}}
 
+# to [[begin]]; to [[start]]
+
 ====Readings====
 {{ja-readings
 |goon=し
@@ -67,29 +72,115 @@
 |nanori=とも, はじめ, はる, もと
 }}
 
+====Compounds====
+{{col3-u|ja
+|{{ja-r|始%値|はじめ%ね}}
+|{{ja-r|書%始|ふみ%はじめ}}
+|{{ja-r|講%書%始|こう%しょ%はじめ}}
+|{{ja-r|布%衣%始|ほう%い%はじめ}}
+}}
+
+===Etymology===
+{{ja-kanjitab|し|yomi=on}}
+
+From {{der|ja|ltc|sort=し|-}} {{ltc-l|始}}.
+
+===Affix===
+{{ja-pos|affix|し}}
+
+# [[beginning]]; [[start]]
+# [[initial]]; [[first]]
+
 ====Derived terms====
-* {{ja-r|始め|はじめ}}
-* {{ja-r|始める|はじめる}}
-* {{ja-r|始まる|はじまる}}
-* {{ja-r|始まり|はじまり}}
+{{col3-u|ja
+|{{ja-r|始期|しき}}
+|{{ja-r|始%業|し%ぎょう}}
+|{{ja-r|始%原|し%げん}}
+|{{ja-r|始%終|し%じゅう}}
+|{{ja-r|始祖|しそ}}
+|{{ja-r|始%端|し%たん}}
+|{{ja-r|始%点|し%てん}}
+|{{ja-r|始%電|し%でん}}
+|{{ja-r|始%動|し%どう}}
+|{{ja-r|始%発|し%はつ}}
+|{{ja-r|始%末|し%まつ}}
+|{{ja-r|開%始|かい%し}}
+|{{ja-r|起始|きし}}
+|{{ja-r|原%始|げん%し}}
+|{{ja-r|元%始|げん%し}}
+|{{ja-r|更%始|こう%し}}
+|{{ja-r|終%始|しゅう%し}}
+|{{ja-r|創%始|そう%し}}
+|{{ja-r|年%始|ねん%し}}
+|{{ja-r|無始|むし}}
+|{{ja-r|始%球式|し%きゅうしき}}
+|{{ja-r|始%新世|し%しんせい}}
+|{{ja-r|始%生代|し%せいだい}}
+|{{ja-r|始%端%部|し%たん%ぶ}}
+|{{ja-r|始%発駅|し%はつえき}}
+|{{ja-r|始%末書|し%まつしょ}}
+|{{ja-r|始%末%屋|し%まつ%や}}
+}}
 
 ====See also====
-* {{l|ja|初}}
+* {{ja-r|初|しょ}}
 
 ----
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja/new|시작하다|시작할|시}}
+===Etymology===
+From {{der|ko|ltc|sort=시|-}} {{ltc-l|始}}.
 
-# [[begin]], [[start]]
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|비롯하다|비롯할|시}}<br>
+{{ko-hanja|비로소|시}}
+
+# {{hanja form of|시|[[beginning]]; [[start]]}}
+# {{hanja form of|시|[[initial]]; [[first]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|시말|始末}}
+* {{ko-l|시작|始作}}
+* {{ko-l|시조|始祖}}
+* {{ko-l|시종|始終}}
+* {{ko-l|개시|開始}}
+* {{ko-l|본시|本始}}
+* {{ko-l|연시|年始}}
+* {{ko-l|원시|原始}}
+* {{ko-l|조시|肇始}}
+* {{ko-l|종시|終始}}
+* {{ko-l|창시|創始}}
+* {{ko-l|시조조|始祖鳥}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|2176}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thủy]], [[thuỷ]], [[thỉ]]|rs=女05}}
+{{vi-readings|rs=女05
+|hanviet=thuỷ-tdcntd;gdhn;genibrel, thỉ-gdhn;bonet;genibrel
+|phienthiet=,詩止 thi chỉ
+|nom=thỉ-bonet;taberd, thuỷ-tdcntd
+}}
 
-# {{rfdef|vi|sort=女05}}
+# {{han tu form of|[[thuỷ]]/[[thủy]]|[[beginning]]; [[start]]; [[initial]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{vi-l|始終|thuỷ chung}}
+* {{vi-l|始祖|thuỷ tổ}}
+* {{vi-l|終始|chung thuỷ}}
+* {{vi-l|開始|khai thuỷ}}
+* {{vi-l|起始|khởi thuỷ}}
+* {{vi-l|原始|nguyên thuỷ}}
+{{der-bottom}}
+
+===References===
+<references/>
