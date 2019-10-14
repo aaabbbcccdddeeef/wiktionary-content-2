@@ -70,18 +70,20 @@ Cognate with {{och-l|嚴|majestic; stern; grave}} and {{och-l|儼|dignified; maj
 * {{ja-r|松脂岩|しょうしがん}}: [[pitchstone]]
 {{der-bottom}}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|いわ|yomi=k}}
-ipa > iɸa > iwa.
+{{IPAchar|/ipa/}} → {{IPAchar|/ifa/}} → {{IPAchar|/iwa/}}
 
-===Pronunciation===
-{{ja-pron|yomi=k|いわ|acc=2|acc_ref=DJR,NHK}}
+From {{inh|ja|ojp|sort=いわ|-}}.  Found in the ''{{w|Man'yōshū}}'' finished some time after 759 CE.<ref>{{RQ:Manyoshu|15|3590}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man15Yo.html#3590 here]</ref>
 
-===Alternative forms===
+====Pronunciation====
+{{ja-pron|yomi=k|いわ|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+====Alternative forms====
 * {{l|ja|巌}}
 * {{l|ja|磐}}
 
-===Noun===
+====Noun====
 {{ja-noun|いわ|hhira=いは}}
 
 # [[rock]]
@@ -93,10 +95,22 @@ ipa > iɸa > iwa.
 |trans-chapter=Cave Jinn Ogre Rock}}
 #*: {{ja-usex|体が'''岩'''のため守%備は高い。太い腕のひと振りに注%意。|からだ が '''いわ''' の ため しゅ%び は たかい。ふとい うで の ひとふり に ちゅう%い。|Its defense is strong thanks to its rock body. Watch out for a swing of its massive arms.}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
 * {{ja-r|巌|いわお}}
 {{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|がん|yomi=on}}
+From {{der|ja|ltc|sort=かん'|-}} {{ltc-l|岩}}.
+
+====Pronunciation====
+{{ja-pron|がん|y=on}}
+
+====Affix====
+{{ja-pos|affix|がん}}
+
+# [[rock]]
 
 ===References===
 <references/>
