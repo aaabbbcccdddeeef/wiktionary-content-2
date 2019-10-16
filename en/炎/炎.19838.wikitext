@@ -89,7 +89,7 @@ Compound of {{com|ja|sort=ほのお|火|tr1=ho|pos1=combining form of ''hi'', �
 #*: {{ja-usex|真%紅の眼を持つ黒%竜。怒りの黒き'''炎'''はその眼に映る者%全てを焼き尽くす。|^しん%く の め を もつ こく%りゅう。^いかり の くろき '''ほのお''' は その め に うつる もの% すべて を やきつくす。|A black dragon with crimson eyes. Its black '''flames''' of fury burn away anything that’s reflected in those eyes.}}
 #: {{ja-usex|ハリー・ポッターと'''炎'''のゴブレット|^ハリー・^ポッター と '''^ほのお''' の ^ゴブレット|''{{w|Harry Potter and the Goblet of Fire|Harry Potter and the Goblet of '''Fire'''}}''}}
 #: {{ja-usex|燃え広がる'''炎'''|^もえひろがる '''^ほのお'''|''{{w|Catching Fire|Catching '''Fire'''}}''}}
-# {{lb|ja|sort=ほのお|figuratively}} [[intense]] [[emotion]], [[passion]]
+# {{lb|ja|sort=ほのお|figuratively}} an [[intense]] [[emotion]], [[passion]]
 
 =====Derived terms=====
 {{col3-u|ja
@@ -125,30 +125,36 @@ Compound of {{com|ja|sort=ほむら|火|tr1=ho|t1=[[fire]]|pos1=combining form|�
 
 From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 
-====Pronunciation====
-{{ja-pron|yomi=o|えん}}
-
 ====Suffix====
 {{ja-pos|suffix|えん}}
 
-# {{lb|ja|sort=えん|disease}} [[-itis]], [[inflammation]] of...
+# {{lb|ja|sort=えん|medicine}} [[-itis]], [[inflammation]] of...
 
 =====Derived terms=====
 {{col3-u|ja
 |{{ja-r|胃%炎|い%えん}}
 |{{ja-r|肝炎|かんえん}}
 |{{ja-r|強膜%炎|きょうまく%えん|[[scleritis]]}}
-|{{ja-r|筋炎|きんえん|[[myositis]], [[inflammation]] of the [[muscle]]s}}
+|{{ja-r|筋炎|きんえん|[[myositis]]}}
 |{{ja-r|結膜炎|けつまくえん}}
+|{{ja-r|虹彩炎|こうさいえん}}
 |{{ja-r|口内炎|こうないえん}}
+|{{ja-r|細%気%管%支%炎|さい%き%かん%し%えん|[[bronchiolitis]]}}
+|{{ja-r|腎盂炎|じんうえん|[[pyelitis]]}}
+|{{ja-r|神経炎|しんけいえん|[[neuritis]]}}
+|{{ja-r|膵臓炎|すいぞうえん|[[pancreatitis]]}}
+|{{ja-r|脊髄炎|せきずいえん|[[myelitis]]}}
 |{{ja-r|舌炎|ぜつえん}}
+|{{ja-r|大腸炎|だいちょうえん}}
 |{{ja-r|胆嚢炎|たんのうえん}}
 |{{ja-r|膣炎|ちつえん|[[vaginitis]]}}
 |{{ja-r|虫垂%炎|ちゅうすい%えん}}
+|{{ja-r|尿道%炎|にょうどう%えん}}
 |{{ja-r|肺炎|はいえん}}
 |{{ja-r|葡萄%膜炎|ぶどう%まくえん}}
 |{{ja-r|膀胱炎|ぼうこうえん}}
 |{{ja-r|盲腸炎|もうちょうえん}}
+|{{ja-r|網膜炎|もうまくえん|[[retinitis]]}}
 }}
 
 ====Affix====
@@ -163,6 +169,7 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 {{col4-u|ja
 |{{ja-r|炎炎|えんえん|rom=-}}, {{ja-r|炎々|えんえん}}
 |{{ja-r|煙炎|えんえん}}
+|{{ja-r|炎干|えんかん}}
 |{{ja-r|炎暑|えんしょ}}
 |{{ja-r|炎症|えんしょう}}
 |{{ja-r|炎上|えんじょう}}
@@ -187,7 +194,8 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 <references/>
 
 {{cln|ja|words with multiple readings}}
-{{topics|ja|Fire|sort=ほのお}}
+{{C|ja|Fire|sort=ほのお}}
+{{C|ja|Diseases|sort=えん}}
 
 ----
 
@@ -203,14 +211,14 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 ==Old Japanese==
 
 ===Etymology===
-Compound of {{com|ojp|sort=ほのお|火|tr1=po|pos1=combining form of ''pi<sub>2</sub>'', “[[fire]]”|の|tr2=no<sub>2</sub>|pos2=possessive particle|穂|tr3=po|t3=[[ear]], [[head]]}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijisen}}</ref><ref>{{R:Daijirin}}</ref>
+Compound of {{com|ojp|sort=ほのお|火|tr1=po|pos1=combining form of ''pi<sub>2</sub>'', “[[fire]]”|の|tr2=no<sub>2</sub>|pos2=possessive particle|穗|tr3=po|t3=[[ear]], [[head]]}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijisen}}</ref><ref>{{R:Daijirin}}</ref>
 
 ===Noun===
 {{head|ojp|noun|tr=pono<sub>2</sub>po|kana|ほのほ|sort=ほのほ}}
 
 # a [[flame]]
 #* {{RQ:Manyoshu|13|3344}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man13Yo.html#3344 here]
-#*: {{ux|ojp|...[[螢なす|螢成]]髣髴聞而大土乎'''火穂'''跡而...|tr=...potaru nasu pono<sub>2</sub>ka ni ki<sub>1</sub>ki<sub>1</sub>te opotuti wo '''pono<sub>2</sub>po''' to<sub>2</sub> pumi<sub>1</sub>te...}}
+#*: {{ux|ojp|...[[螢なす|螢成]]髣髴聞而大土乎'''火穗'''跡而...|tr=...potaru nasu pono<sub>2</sub>ka ni ki<sub>1</sub>ki<sub>1</sub>te opotuti wo '''pono<sub>2</sub>po''' to<sub>2</sub> pumi<sub>1</sub>te...}}
 
 ====Descendants====
 * {{desc|ja|炎|tr=honō}}
