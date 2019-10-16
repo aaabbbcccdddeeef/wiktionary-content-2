@@ -56,12 +56,6 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=火04}}
 
-# [[flame]]
-# [[blaze]], [[burning]]
-# [[passion]]
-# [[firehot]], [[red-hot]]
-# [[inflammation]]
-
 ====Readings====
 {{ja-readings
 |goon=えん<えん<えむ
@@ -70,36 +64,12 @@
 }}
 
 ====Compounds====
-{{der-top4|Compounds}}
-* {{ja-r|炎炎|えんえん|rom=-}}, {{ja-r|炎々|えんえん}}
-* {{ja-r|煙炎|えんえん}}
-* {{ja-r|炎暑|えんしょ}}
-* {{ja-r|炎症|えんしょう|[[inflammation]]}}
-* {{ja-r|炎上|えんじょう}}
-* {{ja-r|炎色|えんしょく|[[flame]] [[colour]]}}
-* {{ja-r|炎帝|えんてい}}
-* {{ja-r|炎天|えんてん}}
-* {{ja-r|炎涼|えんりょう}}
-* {{ja-r|火炎|かえん}}
-* {{ja-r|外炎|がいえん}}
-* {{ja-r|気炎|きえん}}
-* {{ja-r|光炎|こうえん}}
-* {{ja-r|酸化炎|さんかえん}}
-* {{ja-r|内炎|ないえん}}
-* {{ja-r|爆炎|ばくえん}}
-* {{ja-r|防炎|ぼうえん}}
-* {{ja-r|陽炎|かげろう}}
-{{der-bottom}}
-
-===Alternative forms===
-<div style="float:right;">
-{{wp|lang=ja}}
-{{wp|Flame}}
-</div>
-{{ja-kanjitab|yomi=k|ほのお}}
-* {{ja-l|焔}}, {{ja-l|焰}}
+* {{ja-r|陽炎|かぎろい}}, {{ja-r|陽炎|かげろう}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|ほのお|alt=焔}}
+{{wp|lang=ja}}
+{{wp|Flame}}
 {{IPAfont|⟨po no<sub>2</sub> po⟩}} → *{{IPAchar|/ponəpo/}} → {{IPAchar|/ɸonoɸo/}} → {{IPAchar|/ɸonowo/}} → {{IPAchar|/honowo/}} → {{IPAchar|/honoː/}}
 
 From {{inh|ja|ojp|炎|tr=pono<sub>2</sub>po}}.
@@ -122,15 +92,16 @@ Compound of {{com|ja|sort=ほのお|火|tr1=ho|pos1=combining form of ''hi'', �
 # {{lb|ja|sort=ほのお|figuratively}} [[intense]] [[emotion]], [[passion]]
 
 =====Derived terms=====
-* {{ja-r|炎 細胞|ほのお さいぼう}}
-* {{ja-r|炎スペクトル|ほのお スペクトル}}
-* {{ja-r|瞋恚の炎|しんい の ほのお}}
-
-=====See also=====
-* {{ja-r|火|ひ|[[fire]]}}
+{{col3-u|ja
+|{{ja-r|炎 細胞|ほのお さいぼう}}
+|{{ja-r|炎スペクトル|ほのお スペクトル}}
+|{{ja-r|踊り炎|おどり ほのお}}
+|{{ja-r|瞋%恚の炎|しん%い の ほのお}}
+|{{ja-r|胸の炎|むね の ほのお}}
+}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|ほむら}}
+{{ja-kanjitab|yomi=k|ほむら|alt=焔}}
 
 Compound of {{com|ja|sort=ほむら|火|tr1=ho|t1=[[fire]]|pos1=combining form|群|tr2=mura|t2=[[gathering]], [[group]]}}.<ref name="DJS"/><ref name="DJR"/>
 
@@ -144,39 +115,73 @@ Compound of {{com|ja|sort=ほむら|火|tr1=ho|t1=[[fire]]|pos1=combining form|�
 # {{lb|ja|sort=ほむら|figuratively}} an [[intense]] [[emotion]], [[passion]]
 
 =====Derived terms=====
-* {{ja-r|瞋恚の炎|しんい の ほむら}}
+* {{ja-r|瞋%恚の炎|しん%い の ほむら}}
+* {{ja-r|胸の炎|むね の ほむら}}
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=o|えん}}
+{{ja-kanjitab|yomi=o|えん|alt=焔}}
 
-{{IPAchar|/jem/}} → {{IPAchar|/jemʉ/}} → {{IPAchar|/emʉ/}} → {{IPAchar|/eɴ/}}
+{{IPAchar|/em/}} → {{IPAchar|/emʉ/}} → {{IPAchar|/eɴ/}}
 
 From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=o|えん}}
 
+====Suffix====
+{{ja-pos|suffix|えん}}
+
+# {{lb|ja|sort=えん|disease}} [[-itis]], [[inflammation]] of...
+
+=====Derived terms=====
+{{col3-u|ja
+|{{ja-r|胃%炎|い%えん}}
+|{{ja-r|肝炎|かんえん}}
+|{{ja-r|強膜%炎|きょうまく%えん|[[scleritis]]}}
+|{{ja-r|筋炎|きんえん|[[myositis]], [[inflammation]] of the [[muscle]]s}}
+|{{ja-r|結膜炎|けつまくえん}}
+|{{ja-r|口内炎|こうないえん}}
+|{{ja-r|舌炎|ぜつえん}}
+|{{ja-r|胆嚢炎|たんのうえん}}
+|{{ja-r|膣炎|ちつえん|[[vaginitis]]}}
+|{{ja-r|虫垂%炎|ちゅうすい%えん}}
+|{{ja-r|肺炎|はいえん}}
+|{{ja-r|葡萄%膜炎|ぶどう%まくえん}}
+|{{ja-r|膀胱炎|ぼうこうえん}}
+|{{ja-r|盲腸炎|もうちょうえん}}
+}}
+
 ====Affix====
 {{ja-pos|affix|えん}}
 
 # [[flame]], [[blaze]]
-# [[blazing]] [[hot]]
-# {{lb|ja|sort=えん|disease}} [[-itis]], [[inflammation]] of...
+# [[burning]]
+# [[firehot]], [[red-hot]]
+# [[passion]]
 
 =====Derived terms=====
-{{der-top3}}
-* {{ja-r|肝炎|かんえん|[[hepatitis]]}}
-* {{ja-r|強%膜%炎|きょう%まく%えん|[[scleritis]]}}
-* {{ja-r|筋炎|きんえん|[[myositis]], [[inflammation]] of the [[muscle]]s}}
-* {{ja-r|口%内%炎|こう%ない%えん|[[aphthous ulcer]], [[canker sore]]}}
-* {{ja-r|舌%炎|ぜつ%えん|[[glossitis]], [[inflammation]] of the [[tongue]]}}
-* {{ja-r|胆嚢炎|たんのうえん|[[cholecystitis]], [[inflammation]] of the [[gall bladder]]}}
-* {{ja-r|膣%炎|ちつ%えん|[[vaginitis]]}}
-* {{ja-r|虫%垂%炎|ちゅう%すい%えん|[[appendicitis]]}}
-* {{ja-r|葡萄%膜%炎|ぶどう%まく%えん|[[uveitis]]}}
-* {{ja-r|膀胱炎|ぼうこうえん|[[cystitis]]}}
-* {{ja-r|盲腸炎|もうちょうえん|[[caecitis]]; [[appendicitis]]}}
-{{der-bottom}}
+{{col4-u|ja
+|{{ja-r|炎炎|えんえん|rom=-}}, {{ja-r|炎々|えんえん}}
+|{{ja-r|煙炎|えんえん}}
+|{{ja-r|炎暑|えんしょ}}
+|{{ja-r|炎症|えんしょう}}
+|{{ja-r|炎上|えんじょう}}
+|{{ja-r|炎色|えんしょく}}
+|{{ja-r|炎帝|えんてい}}
+|{{ja-r|炎天|えんてん}}
+|{{ja-r|炎熱|えんねつ}}
+|{{ja-r|炎涼|えんりょう}}
+|{{ja-r|火%炎|か%えん}}
+|{{ja-r|外炎|がいえん}}
+|{{ja-r|気%炎|き%えん}}
+|{{ja-r|光炎|こうえん}}
+|{{ja-r|情炎|じょうえん}}
+|{{ja-r|酸化炎|さんかえん}}
+|{{ja-r|内炎|ないえん}}
+|{{ja-r|爆炎|ばくえん}}
+|{{ja-r|防炎|ぼうえん}}
+|{{ja-r|余%炎|よ%えん}}
+}}
 
 ===References===
 <references/>
