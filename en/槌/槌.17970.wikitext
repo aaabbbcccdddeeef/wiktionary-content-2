@@ -43,11 +43,12 @@
 ===Kanji===
 {{ja-kanji|grade=n|rs=木10}}
 
-# {{rfdef|ja|sort=木10}}
+# [[hammer]]
 
 ====Readings====
 {{ja-readings
-|on=つい
+|goon=ずい<づい
+|kanon=つい
 |kun=つち-
 }}
 
@@ -56,19 +57,31 @@
 * {{ja-r|相槌|あいづち}}
 * {{ja-r|金槌|かなづち}}
 
-
+===Etymology===
 {{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=k|つち|alt=鎚,椎}}
+
+From {{inh|ja|ojp|sort=つち|-}}.  Appears in the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|つち|acc=2|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|つち}}
 
-# [[hammer]]
+# a [[hammer]]
+# a {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} featuring a traditional Japanese [[hammer]] [[design]]
 
 ====Derived terms====
+* {{ja-r|槌音|つちおと|the [[sound]] of [[hammering]]}}
+* {{ja-r|槌鯨|つちくじら|{{w|four-toothed whale}}}}
 * {{ja-r|金槌|かなづち}}
 
 ====See also====
 * {{ja-r|ハンマー}}
+
+===References===
+<references/>
 
 [[Category:ja:Tools|つち]]
 
