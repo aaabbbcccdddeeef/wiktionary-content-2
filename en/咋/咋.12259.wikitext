@@ -119,10 +119,40 @@
 |cat=
 }}
 
-====Definitions====
+=====Definitions=====
 {{zh-hanzi}}
 
 # {{zh-only|咋呼}}
+
+===Etymology 7===
+{{zh-forms}}
+
+====Pronunciation 1====
+{{zh-pron
+|c=zaa3
+|cat=part
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{contraction of|zh|[[啫]][[呀]]|tr=ze1 aa3}}
+#: {{zh-x|仲有 三 個 咋。|'''Only''' have three left.|C}}
+
+====Pronunciation 2====
+{{zh-pron
+|c=zaa4
+|cat=part
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{n-g|Sentence-final particle expressing surprise and suspicion.}}
+#: {{zh-x|仲有 三 個 咋{zaa4}？|'''Only''' have three left?|C}}
+
+=====Usage notes=====
+The tone of the Cantonese sentence-final particles {{zh-l|呀|tr=aa3}}, {{zh-l|喇|tr=laa3}}, {{zh-l|㗎|tr=gaa3}} and {{zh-l|咋|tr=zaa3}} can be dropped to tone 4 to add disapproval, surprise and suspicion to the particle while also turning the statement into a question.
 
 ===References===
 * {{R:twedu|A00560}}
