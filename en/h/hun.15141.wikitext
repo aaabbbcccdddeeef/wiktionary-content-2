@@ -158,32 +158,45 @@ Likely a replacement of or based on dialectal Dutch {{m|nl|hullie|}} or a varian
 
 ==Hungarian==
 
-===Etymology===
-{{rfe|hu}}
-
 ===Pronunciation===
 * {{hu-IPA}}
 
-===Adjective===
+===Etymology 1===
+Borrowed from {{bor|hu|la|Hunni}}.<ref>{{R:Zaicz 2006}}</ref><ref>{{R:TotfalusiNagyEty 2001}}</ref>
+
+====Adjective====
 {{hu-adj|-}}
 
-# of or relating to [[Hun]]s
+# of or relating to the [[Hun]]s
 
-===Conjunction===
-{{head|hu|conjunction}}
+=====Declension=====
+{{hu-infl-nom|huno|o|-}}
 
-# {{lb|hu|regional}} [[where]] (''regional variant of'' [[hol]])
-
-====Derived terms====
-* {{l|hu|sehun}}
-
-===Noun===
+====Noun====
 {{hu-noun|ok}}
 
-# [[Hun]]
+# [[Hun]] {{gloss|a member of a nomadic tribe}}
 
-====Declension====
+=====Declension=====
 {{hu-infl-nom|huno|o|-}}{{hu-pos-otok|hun|j|jai}}
+
+===Etymology 2===
+From {{m|hu|hol}}.
+
+====Adverb====
+{{head|hu|adverb}}
+
+# {{lb|hu|dialectal}} {{alternative form of|hu|hol|gloss=where}}.
+
+=====Derived terms=====
+* {{l|hu|sehun}} {{q|dialectal}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{sense|noun and adjective}} {{R:BarcziOrszagh 1962|hun-1-31449}}
+* {{sense|adverb}} {{R:BarcziOrszagh 1962|hun-2-31451}}
 
 {{cln|hu|three-letter words}}
 
