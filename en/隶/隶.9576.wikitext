@@ -5,7 +5,7 @@
 {{Han simplified forms|隸|隷|隶}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han compound|又|尾|ls=p|abb2=y}}.
 
 ===Han character===
@@ -20,7 +20,7 @@
 * {{l|mul|康}} [[聿]]
 
 ====References====
-* {{Han ref|kx=1363.220|dkj=41923|dj=1867.100|hdz=74323.010|uh=96B6|ud=38582}}
+{{Han ref|kx=1363.220|dkj=41923|dj=1867.100|hdz=74323.010|uh=96B6}}
 
 ----
 
@@ -44,7 +44,11 @@
 # {{rfdef|ja|sort=隶00}}
 
 ====Readings====
-* {{ja-readings|kanon=[[い]] (i), [[たい]] (tai)|goon=[[い]] (i), [[だい]] (dai)|kun=[[およぶ]] (oyobu)}}
+{{ja-readings
+|goon=い, だい
+|kanon=い, たい
+|kun=およぶ
+}}
 
 ----
 
@@ -60,7 +64,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[đãi]], [[lệ]]|rs=隶00}}
+{{vi-readings|reading=[[đãi]], [[lệ]]|rs=隶00}}
 
 # {{rfdef|vi|sort=隶00}}
 
