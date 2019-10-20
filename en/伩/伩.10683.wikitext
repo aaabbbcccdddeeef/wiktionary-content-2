@@ -6,7 +6,7 @@
 {{Han char|rn=9|rad=人|as=04|sn=6|four=|canj=OYK|ids=⿰亻文}}
 
 ====References====
-* {{Han ref|kx=0096.121|hdz=10125.051|uh=4F29|ud=20265}}
+{{Han ref|kx=0096.121|hdz=10125.051|uh=4F29}}
 
 ----
 
@@ -23,14 +23,17 @@
 # {{rfdef|ja|sort=人04}}
 
 ====Readings====
-* {{ja-readings|on=[[しん]] (shin)|kun=[[まこと]] (makoto), [[たより]] (tayori), [[まかせる]] (makaseru)}}
+{{ja-readings
+|on=しん
+|kun=まこと, たより, まかせる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=신|rv=sin|mr=sin}}
+{{ko-hanja|신}}
 
 # {{rfdef|ko|sort=人04}}
 
@@ -39,6 +42,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[nho]]|rs=人04}}
+{{vi-readings|reading=[[nho]]|rs=人04}}
 
 # {{rfdef|vi|sort=人04}}
