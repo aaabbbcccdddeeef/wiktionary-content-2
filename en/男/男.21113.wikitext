@@ -384,15 +384,17 @@ From {{inh|okn|jpx-ryu-pro|*wenga|sort=いぃんが}}.
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han character}}
+{{ryu-kanji}}
 
-* {{ja-readings|kun=ゐきが, ゆきが, をぅとぅく}}
+====Readings====
+* {{ryu-readings|kun=ゐきが, ゆきが, をぅとぅく}}
 
 ===Etymology 1===
+{{ryu-kanjitab|ゐきが|yomi=k}}{{ryu-kanjitab|ゆきが|yomi=k}}
 From {{inh|ryu|jpx-ryu-pro|*weke|sort=ゐきが}}.
 
 ====Noun====
-{{head|ryu|noun|hiragana|ゐきが|rōmaji|wikiga|hiragana|ゆきが|rōmaji|yukiga|sort=ゐきが}}
+{{ryu-noun|ゐきが|ゆきが}}
 
 # [[man]]
 
@@ -400,10 +402,11 @@ From {{inh|ryu|jpx-ryu-pro|*weke|sort=ゐきが}}.
 * {{l|ryu|男しーじゃ|tr=ゐきがしーじゃ, wikiga shīja|t=older brother}}
 
 ===Etymology 2===
-Possibly from {{der|ryu|ja|男|tr=otoko|t=[[man]]}}.
+{{ryu-kanjitab|をぅとぅく|yomi=k}}
+Possibly from {{der|ryu|ja|男|tr=otoko|t=man}}.
 
 ====Noun====
-{{head|ryu|noun|hiragana|をぅとぅく|rōmaji|wutuku|sort=をぅとぅく}}
+{{ryu-noun|をぅとぅく}}
 
 # {{lb|ryu|literary}} [[man]]
 
