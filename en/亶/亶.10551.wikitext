@@ -8,7 +8,7 @@
 * {{l|mul|[[顫]]/[[颤]], [[擅]], [[壇]], [[膻]], [[檀]], [[嬗]], [[氊]], [[氈]], [[儃]], [[饘]]/[[𫗴]], [[鸇]]/[[鹯]], [[𧾍]], [[䁴]], [[驙]]/[[𫘰]], [[澶]], [[鱣]]/[[鳣]], [[蟺]], [[𨭖]]/[[𫔑]], [[繵]]/[[𬙉]], [[㣶]], [[䄠]], [[䆄]], [[䁴]], [[䃪]], [[譠]], [[旜]], [[勯]], [[皽]], [[㔊]]}}
 
 ====References====
-* {{Han ref|kx=0089.200|dkj=00328|hdz=10291.060|uh=4EB6|ud=20150|bh=DCB3|bd=56499}}
+{{Han ref|kx=0089.200|dkj=00328|hdz=10291.060|uh=4EB6}}
 
 ----
 
@@ -96,7 +96,11 @@
 # {{rfdef|ja|sort=亠11}}
 
 ====Readings====
-* {{ja-readings|kanon=[[たん]] (tan), [[せん]] (sen)|goon=[[たん]] (tan), [[ぜん]] (zen)|kun=[[あつい]] (atsui), [[まこと]] (makoto)}}
+{{ja-readings
+|goon=たん, ぜん
+|kanon=たん, せん
+|kun=あつい, まこと
+}}
 
 ----
 
@@ -113,7 +117,7 @@
 {{vi-hantutab}}
 
 ===Han character===
-{{vi-hantu|đàn|rs=亠11}}
+{{vi-readings|reading=đàn|rs=亠11}}
 
 ====References====
 * [http://nomfoundation.org/common/nom_details.php?codepoint=4eb6 Nom Foundation]
