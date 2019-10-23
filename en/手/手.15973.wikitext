@@ -1,5 +1,7 @@
-{{also|🈐|爪|寸}}
+{{also|爪|寸}}
 {{character info/new}}
+{{character info/new|🈐}}
+
 ==Translingual==
 {{stroke order|type=animate}}
 
@@ -113,25 +115,30 @@ Alternatively, {{zh-ref|Schuessler (2007)}} suggests a tone B [[endoactive]] der
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|手%紙|て%がみ}}: [[letter]]
-* {{ja-r|手%袋|て%ぶくろ}}: [[glove]], [[mitten]]
-* {{ja-r|相%手|あい%て}}: [[partner]], [[opponent]]
-{{der-mid}}
-* {{ja-r|切%手|きっ%て}}: [[postage stamp]]
-* {{ja-r|お手%許|おて%もと}}, {{ja-r|お手%元|おて%もと}}, {{ja-r|御手%許|おて%もと}}, {{ja-r|御手%元|おて%もと}}: [[chopsticks]]
-{{der-bottom}}
+* {{ja-r|上手|じょうず}}
+* {{ja-r|四手|しで}}
+* {{ja-r|下手|へた}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=k|て}}
+
+From {{inh|ja|ojp|sort=て|-}}.
+
+Possibly derived from a fusion of unbound [[apophony|apophonic]] form {{com|ja|sort=て||alt1=手|tr1=ta|い|tr2=i|pos2=emphatic nominal particle}}. Compare {{m|ja|目|tr=ma → me||[[eye]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|て|acc=1|acc_ref=DJR|acc_note=as a noun}}
+
+====Noun====
 {{ja-noun|て}}
 
-# [[hand]]
-# [[handle]]
-# [[paw]], [[foreleg]]
-# [[way]] of doing something, [[means]]
+# a [[hand]]
+# a [[handle]], [[grip]]
+# a [[paw]], [[foreleg]]
+# a [[way]] of [[do]]ing something, [[means]]
 #: {{ja-usex|その'''手'''が[[ある|あっ]]たか。|その '''て''' が あった か。|You could do it that '''way''' too?}}
-#: {{ja-usex|[[買う]]のも[[一つ]]の'''手'''である。|かう の も ひとつ の '''て''' で ある。|Another thing you could do is buy it.}}
-# {{lb|ja|sort=て|board games}} a [[move]]; a [[play]]
+#: {{ja-usex|[[買う]]のも[[一つ]]の'''手'''である。|かう の も ひとつ の '''て''' で ある。|Another '''thing''' you could do is buy it.}}
+# {{lb|ja|sort=て|board games}} a [[move#Noun|move]], [[play#Noun|play]]
 #* {{quote-book|ja
 |||{{w2|ja|ヒカルの碁}}
 ||54
@@ -148,21 +155,125 @@ Alternatively, {{zh-ref|Schuessler (2007)}} suggests a tone B [[endoactive]] der
 |date=Mar 9 2002
 |volume=16
 |isbn=4-08-873232-4}}
-#*: {{ja-usex|まだそんな'''手'''が残ってた——投%了は早すぎた|^まだ そんな '''て''' が のこってた—— ^とう%りょう は はやすぎた|There’s still that move — I gave up too soon}}
+#*: {{ja-usex|まだそんな'''手'''が残ってた——投%了は早すぎた|^まだ そんな '''て''' が のこってた—— ^とう%りょう は はやすぎた|There’s still that '''move''' — I gave up too soon}}
 
-===Suffix===
+=====Derived terms=====
+{{col5-u|ja
+|{{ja-r|手打ち|てうち}}
+|{{ja-r|手弱%女|たおや%め}}
+|{{ja-r|手%斧|て%おの}}, {{ja-r|手斧|ちょうな}}
+|{{ja-r|手折る|たおる}}
+|{{ja-r|手%紙|て%がみ}}
+|{{ja-r|手%柄|て%がら}}
+|{{ja-r|手%順|て%じゅん}}
+|{{ja-r|手%錠|て%じょう|rom=-}}, {{ja-r|手%鎖|て%じょう}}
+|{{ja-r|手%作り|て%づくり}}
+|{{ja-r|手%綱|た%づな}}
+|{{ja-r|掌|たなごころ}}
+|{{ja-r|手%配|て%はい}}
+|{{ja-r|手%袋|て%ぶくろ}}
+|{{ja-r|手%偏|て%へん}}
+|{{ja-r|手巻き|てまき}}
+|{{ja-r|手枕|たまくら}}
+|{{ja-r|手%水|て%みず}}, {{ja-r|手水|ちょうず}}
+|{{ja-r|袂|たもと}}
+|{{ja-r|手%元|て%もと|rom=-}}, {{ja-r|手%許|て%もと}}
+|{{ja-r|相%手|あい%て}}
+|{{ja-r|射手|いて}}
+|{{ja-r|上手|うわて}}
+|{{ja-r|柏%手|かしわ%で}}
+|{{ja-r|勝手|かって}}
+|{{ja-r|上%手|かみ%て}}
+|{{ja-r|空%手|から%て}}
+|{{ja-r|切手|きって}}
+|{{ja-r|後手|ごて}}
+|{{ja-r|仕手|して}}
+|{{ja-r|下%手|した%て}}
+|{{ja-r|下%手|しも%て}}
+|{{ja-r|素手|すで}}
+|{{ja-r|助%手|すけ%て}}
+|{{ja-r|取っ手|とって}}
+|{{ja-r|御手洗|みたらし}}
+|{{ja-r|筆|ふで}}
+|{{ja-r|馬手|めて}}
+|{{ja-r|山%手|やま%て}}
+|{{ja-r|弓手|ゆんで}}
+|{{ja-r|両%手|りょう%て}}
+|{{ja-r|若%手|わか%て}}
+}}
+
+====Suffix====
 {{ja-pos|suffix|て}}
 
-# one who does something; [[-ist]]; [[-er]]
+# {{n-g|one who [[do]]es something:}} [[-ist]], [[-er]]
 #: {{ja-usex|[[語り手|語り'''手''']]|かたり'''て'''|narrat'''or'''}}
 #: {{ja-usex|[[使い手|使い'''手''']]|つかい'''て'''|us'''er'''}}
+# {{lb|ja|board games}} {{n-g|[[counter]] for [[move#Noun|moves]] in [[shogi]], [[go#Etymology 2|go]], etc.}}
 
-====Synonyms====
-* {{ja-r|手|しゅ}}, {{ja-r|者|もの}}, {{ja-r|者|しゃ}}, {{ja-r|屋|や}}
+=====Derived terms=====
+* {{ja-r|搦め手|からめて}}
+
+=====See also=====
+* {{ja-r|者|-しゃ}}
+* {{ja-r|屋|-や}}
+
+====Prefix====
+{{ja-pos|suffix|て}}
+
+# {{n-g|[[strengthen]]s the prefixed [[adjective]] or [[adjectival]] [[noun]]}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=goon|しゅ}}
+
+From {{der|ja|ltc|sort=しゆ|-}} {{ltc-l|手}}
+
+====Affix====
+{{ja-pos|affix|しゅ}}
+
+# [[hand]]
+# [[handwork]]
+# [[handicraft]], [[skill]], [[talent]]
+# {{n-g|one who [[do]]es something:}} [[-ist]], [[-er]]
+
+=====Derived terms=====
+{{col5-u|ja
+|{{ja-r|手%記|しゅ%き}}
+|{{ja-r|手芸|しゅげい}}
+|{{ja-r|手交|しゅこう}}
+|{{ja-r|手写|しゅしゃ}}
+|{{ja-r|手術|しゅじゅつ}}
+|{{ja-r|手段|しゅだん}}
+|{{ja-r|手腕|しゅわん}}
+|{{ja-r|握手|あくしゅ}}
+|{{ja-r|歌%手|か%しゅ}}
+|{{ja-r|義%手|ぎ%しゅ}}
+|{{ja-r|挙手|きょしゅ}}
+|{{ja-r|国手|こくしゅ}}
+|{{ja-r|射手|しゃしゅ}}
+|{{ja-r|助手|じょしゅ}}
+|{{ja-r|触手|しょくしゅ}}
+|{{ja-r|繊手|せんしゅ}}
+|{{ja-r|選手|せんしゅ}}
+|{{ja-r|双手|そうしゅ}}
+|{{ja-r|敵手|てきしゅ}}
+|{{ja-r|徒%手|と%しゅ}}
+|{{ja-r|投手|とうしゅ}}
+|{{ja-r|入手|にゅうしゅ}}
+|{{ja-r|馬%手|ば%しゅ}}
+|{{ja-r|拍手|はくしゅ}}
+|{{ja-r|凡手|ぼんしゅ}}
+|{{ja-r|魔%手|ま%しゅ}}
+|{{ja-r|妙手|みょうしゅ}}
+|{{ja-r|名手|めいしゅ}}
+|{{ja-r|落手|らくしゅ}}
+}}
+
+===References===
+<references/>
 
 {{C|ja|Anatomy|sort=て}}
-
 [[Category:Japanese basic words|て]]
+[[Category:Japanese counters|て]]
 
 ----
 
@@ -285,7 +396,7 @@ From {{der|ko|ltc|-}} {{ltc-l|手}}. {{hanja-hunmong|슈〮|syu|身體#상26A}}
 ===Noun===
 {{head|xug|noun|hiragana|てぃー|romaji|thī|sort=てぃい}}
 
-# [[hand]]
+# a [[hand]]
 
 {{C|xug|Anatomy|sort=てぃい}}
 
@@ -304,7 +415,7 @@ From {{der|ko|ltc|-}} {{ltc-l|手}}. {{hanja-hunmong|슈〮|syu|身體#상26A}}
 ===Noun===
 {{head|mvi|noun|hiragana|てぃー|romaji|tī|sort=てぃい}}
 
-# [[hand]]
+# a [[hand]]
 
 {{C|mvi|Anatomy|sort=てぃい}}
 
@@ -331,13 +442,33 @@ From {{der|ko|ltc|-}} {{ltc-l|手}}. {{hanja-hunmong|슈〮|syu|身體#상26A}}
 |kun=てぃー-
 }}
 
+====Compounds====
+* {{ryu-r|下%手|ふぃ%た}}
+
+===Etymology===
+Cognate with {{cog|ja|手|tr=te}}.
+
 ===Pronunciation===
-* {{IPA|ryu|/tiː/|sort=てぃい}}
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} てぃ{{ja-accent/high|ー}} <tt>[tìí]</tt> ({{ll|ja|平板型|Heiban}} - [0])<ref>{{R:Shuri-Naha Dialect Dictionary|ティー|SN21664}}</ref>
+* {{IPA|ryu|[tiː]|sort=い}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|てぃー|romaji|tī|sort=てぃい}}
+{{ryu-noun|hiragana|てぃー|sort=てぃい}}
 
-# [[hand]]
+# a [[hand]]
+# a [[handle]], [[grip]]
+# a [[skill]], [[ability]], [[mean]]s; ''especially'' in [[martial art]]s
+
+====Derived terms====
+{{col3-u|ryu
+| {{ryu-r|相%手|いぇー%てぃ}}
+| {{ryu-r|勝手|かってぃ}}
+| {{ryu-r|手水|ちゅーじ}}
+| {{ryu-r|本手|ふんてぃ}}
+}}
+
+===References===
+<references/>
 
 {{C|ryu|Anatomy|sort=てぃい}}
 
@@ -378,7 +509,7 @@ From {{der|ko|ltc|-}} {{ltc-l|手}}. {{hanja-hunmong|슈〮|syu|身體#상26A}}
 ===Noun===
 {{head|rys|noun|hiragana|てぃー|romaji|tī|sort=てぃい}}
 
-# [[hand]]
+# a [[hand]]
 
 {{C|rys|Anatomy|sort=てぃい}}
 
@@ -397,7 +528,7 @@ From {{der|ko|ltc|-}} {{ltc-l|手}}. {{hanja-hunmong|슈〮|syu|身體#상26A}}
 ===Noun===
 {{head|yoi|noun|hiragana|てぃー|romaji|tī|sort=てぃい}}
 
-# [[hand]]
+# a [[hand]]
 
 {{C|yoi|Anatomy|sort=てぃい}}
 [[Category:CJKV radicals]]
