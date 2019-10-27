@@ -107,16 +107,22 @@
 ===Kanji===
 {{head|xug|Han characters}}
 
-* {{ja-readings|kun=[[すばー]] (subā), [[しばー]] (shibā)}}
+====Readings====
+{{ja-readings
+|kun=[[すばー]] (subā), [[しばー]] (shibā)
+}}
 
 ===Pronunciation===
 * {{IPA|xug|/subaː/|/ɕibaː/|sort=すばあ}}
 
 ===Noun===
-{{head|xug|noun|hiragana|すばー|romaji|subā|hiragana|しばー|romaji|shibā|sort=すばあ}}
+{{head|xug|noun|hiragana|すばー|rōmaji|subā|alternative reading|しばー|rōmaji|shibā|sort=すばあ}}
 
 # [[lip]]
 # [[tongue]]
+
+===References===
+* {{R:JLect|しばー|2126|shibaa}}
 
 {{c|xug|Anatomy|sort=すばあ}}
 
@@ -127,15 +133,21 @@
 ===Kanji===
 {{head|mvi|Han characters}}
 
-* {{ja-readings|kun=[[すば]] (suba)}}
+====Readings====
+{{ja-readings
+|kun=[[すば]] (suba)
+}}
 
 ===Pronunciation===
 * {{IPA|mvi|/ss̩ba/|sort=すば}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|すば|romaji|suba|sort=すば}}
+{{head|mvi|noun|hiragana|すば|rōmaji|suba|sort=すば}}
 
 # [[lip]]
+
+===References===
+* {{R:JLect|すば【唇】|1280|suba}}
 
 {{c|mvi|Anatomy|sort=すば}}
 
@@ -144,21 +156,28 @@
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=口07}}
 
 ====Readings====
 {{ryu-readings
 |kun=しば-
 }}
 
+===Etymology===
+{{ryu-kanjitab|しば|yomi=k}}
+
 ===Pronunciation===
 * {{IPA|ryu|/ɕiba/|sort=しば}}
 
-===Noun===
-{{head|ryu|noun|hiragana|しば|romaji|shiba|sort=しば}}
+===Suffix===
+{{ryu-pos|suffix|しば}}
 
-# [[lip]]
-# [[tongue]]
+# [[lip]]; pertaining to the lips
+#: {{ryu-usex|下%'''唇'''|しちゃ%'''しば'''|lower '''lip'''}}
+
+===References===
+* {{R:JLect|しば|39|shiba}}
+* {{R:Shuri-Naha Dialect Dictionary|シバ|17047}}
 
 {{c|ryu|Anatomy|sort=しば}}
 
@@ -169,13 +188,16 @@
 ===Kanji===
 {{head|tkn|Han characters}}
 
-* {{ja-readings|kun=[[すぃびゃ]] (sïbya)}}
+====Readings====
+{{ja-readings
+|kun=[[すぃびゃ]] (sïbya)
+}}
 
 ===Pronunciation===
 * {{IPA|tkn|/sɨbja/|sort=すぃびゃ}}
 
 ===Noun===
-{{head|tkn|noun|hiragana|すぃびゃ|romaji|sïbya|sort=すぃびゃ}}
+{{head|tkn|noun|hiragana|すぃびゃ|rōmaji|sïbya|sort=すぃびゃ}}
 
 # [[lip]]
 # [[tongue]]
@@ -198,13 +220,16 @@
 ===Kanji===
 {{head|rys|Han characters}}
 
-* {{ja-readings|kun=[[しぃば]] (sïba)}}
+====Readings====
+{{ja-readings
+|kun=[[しぃば]] (sïba)
+}}
 
 ===Pronunciation===
 * {{IPA|rys|/sɨba/|sort=しぃば}}
 
 ===Noun===
-{{head|rys|noun|hiragana|しぃば|romaji|sïba|sort=しぃば}}
+{{head|rys|noun|hiragana|しぃば|rōmaji|sïba|sort=しぃば}}
 
 # [[lip]]
 # [[tongue]]
