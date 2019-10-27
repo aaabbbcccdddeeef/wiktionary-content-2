@@ -283,13 +283,14 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ===Kanji===
 {{head|xug|Han characters}}
 
-* {{ja-readings|kun=[[なー]] (nā)}}
+====Readings====
+{{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
 * {{IPA|xug|/naː/|sort=なあ}}
 
 ===Noun===
-{{head|xug|noun|hiragana|なー|romaji|nā|sort=なあ}}
+{{head|xug|noun|hiragana|なー|rōmaji|nā|sort=なあ}}
 
 # [[name]]
 
@@ -302,13 +303,14 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ===Kanji===
 {{head|mvi|Han characters}}
 
-* {{ja-readings|kun=[[なー]] (nā)}}
+====Readings====
+{{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
 * {{IPA|mvi|/naː/|sort=なあ}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|なー|romaji|nā|sort=なあ}}
+{{head|mvi|noun|hiragana|なー|rōmaji|nā|sort=なあ}}
 
 # [[name]]
 
@@ -319,20 +321,31 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
-
+{{ryu-kanji|rs=口03}}
 ====Readings====
 {{ryu-readings
+|on=みょー,のー
 |kun=なー-
 }}
+
+====Compounds====
+* {{ryu-r|大%名|でー%みょー}}
+* {{ryu-r|大%名%方|でー%みょー%がた}}
+* {{ryu-r|名%字|みょー%じ}}, {{ryu-r|名%字|のー%じ}}
+
+===Etymology===
+{{ryu-kanjitab|なー|yomi=k}}
 
 ===Pronunciation===
 * {{IPA|ryu|/naː/|sort=なあ}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|なー|romaji|nā|sort=なあ}}
+{{ryu-noun|なー|sort=なあ}}
 
 # [[name]]
+
+===References===
+* {{R:Ajima|ナー（なー）|2248}}
 
 {{c|ryu|Onomastics|sort=なあ}}
 
@@ -373,13 +386,14 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ===Kanji===
 {{head|rys|Han characters}}
 
-* {{ja-readings|kun=[[なー]] (nā)}}
+====Readings====
+{{ja-readings|kun=[[なー]] (nā)}}
 
 ===Pronunciation===
 * {{IPA|rys|/naː/|sort=なあ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|なー|romaji|nā|sort=なあ}}
+{{head|rys|noun|hiragana|なー|rōmaji|nā|sort=なあ}}
 
 # [[name]]
 
@@ -392,15 +406,21 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ===Kanji===
 {{head|yoi|Han characters}}
 
-* {{ja-readings|kun=[[なー]] (nā)}}
+====Readings====
+{{ja-readings
+|kun=[[なー]] (nā)
+}}
 
 ===Pronunciation===
-* {{IPA|yoi|/naː/|sort=なあ}}
+* {{IPA|yoi|[naː]|sort=なあ}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|なー|romaji|nā|sort=なあ}}
+{{head|yoi|noun|hiragana|なー|rōmaji|nā|sort=なあ}}
 
 # [[name]]
+
+===References===
+* {{R:JLect|なー【名】|271|naa}}
 
 {{c|yoi|Onomastics|sort=なあ}}
 
