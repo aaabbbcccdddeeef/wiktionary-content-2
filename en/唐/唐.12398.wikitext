@@ -240,20 +240,33 @@ Originally a compound of {{m|ja|諸|tr=moro-|pos=prefix meaning "[[many]]"}} + {
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=口07}}
 
 ====Readings====
 {{ryu-readings
 |on=とー
 }}
 
+===Etymology===
+{{ryu-kanjitab|とー|yomi=o}}
+
 ===Pronunciation===
 * {{IPA|ryu|/toː/|sort=とお}}
 
-===Noun===
-{{head|ryu|noun|hiragana|とー|romaji|tō|sort=とお}}
+===Proper noun===
+{{ryu-pos|proper|とー|sort=とお}}
 
 # [[China]]
+
+====Derived terms====
+* {{ryu-r|唐%船|^とー%しん}}
+* {{ryu-r|唐%口|^とー%ぐち}}
+* {{ryu-r|唐ぬ口|^とーぬくち}}
+* {{ryu-r|唐ぬ人|^とーぬちゅ}}
+* {{ryu-r|唐ぬっ人%墓|^とーぬっちゅー%ばか}}
+
+===References===
+* {{R:JLect|とー【唐】|856|too}}
 
 {{c|ryu|China|Countries in Asia|Exonyms|sort=とお}}
 
