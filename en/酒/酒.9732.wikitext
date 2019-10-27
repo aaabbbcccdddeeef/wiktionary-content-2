@@ -347,7 +347,7 @@ From {{der|ja|ltc|sort=しゆ|-}} {{ltc-l|酒}}.
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=酉03}}
 
 ====Readings====
 {{ryu-readings
@@ -362,10 +362,10 @@ From {{der|ja|ltc|sort=しゆ|-}} {{ltc-l|酒}}.
 Cognate with mainland {{cog|ja|酒|tr=sake}}.
 
 ===Pronunciation===
-* {{IPA|ryu|[saki]|sort=さき}}<ref>{{R:JLect|さき【酒】|1114|saki}}</ref><ref>{{R:Shuri-Naha Dialect Dictionary|サキ|SN50697}}</ref>
+* {{IPA|ryu|[saki]|sort=さき}}<ref>{{R:JLect|さき【酒】|1114|saki}}</ref><ref>{{R:Shuri-Naha Dialect Dictionary|サキ|50697}}</ref>
 
 ===Noun===
-{{head|ryu|noun|hiragana|さき|romaji|saki|sort=さき}}
+{{ryu-noun|さき|sort=さき}}
 
 # any [[alcoholic]] [[beverage]] {{gl|[[wine]], [[whisky]], [[sake]], etc.}}
 
