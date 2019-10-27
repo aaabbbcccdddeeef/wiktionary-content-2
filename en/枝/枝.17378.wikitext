@@ -116,7 +116,10 @@ Inherited from earlier ''yeda'', from {{inh|ja|ojp|sort=えだ|-}}, from {{inh|j
 ===Kanji===
 {{head|xug|Han character}}
 
-* {{ja-readings|kun=[[ゆだー]] (yudā)}}
+====Readings====
+{{ja-readings
+|kun=[[ゆだー]] (yudā)
+}}
 
 ===Etymology===
 Inherited from {{inh|xug|jpx-ryu-pro|*yoda|sort=ゆだあ}}, from {{inh|xug|jpx-pro|*yonta|sort=ゆだあ}}.
@@ -141,7 +144,10 @@ Inherited from {{inh|xug|jpx-ryu-pro|*yoda|sort=ゆだあ}}, from {{inh|xug|jpx-
 ===Kanji===
 {{head|mvi|Han character}}
 
-* {{ja-readings|kun=[[ゆだ]] (yuda)}}
+====Readings====
+{{ja-readings
+|kun=[[ゆだ]] (yuda)
+}}
 
 ===Etymology===
 Inherited from {{inh|mvi|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|mvi|jpx-pro|*yonta|sort=ゆだ}}.
@@ -165,9 +171,12 @@ Inherited from {{inh|mvi|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|mvi|jpx-pro
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han character}}
+{{ryu-kanji|rs=木04}}
 
-* {{ja-readings|kun=[[いぃだ]] (yida), [[ゆだ]] (yuda)}}
+====Readings====
+{{ryu-readings
+|kun=いぃだ-, ゆだ-
+}}
 
 ===Etymology===
 Inherited from {{inh|ryu|jpx-ryu-pro|*yoda|sort=いぃだ}}, from {{inh|ryu|jpx-pro|*yonta|sort=いぃだ}}.
@@ -176,15 +185,15 @@ Inherited from {{inh|ryu|jpx-ryu-pro|*yoda|sort=いぃだ}}, from {{inh|ryu|jpx-
 * {{IPA|ryu|/jida/|/juda/|sort=いぃだ}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|いぃだ|romaji|yida|hiragana|ゆだ|romaji|yuda|sort=いぃだ}}
+{{ryu-noun|いぃだ|ゆだ}}
 
 # [[branch]] {{gloss|of a tree or plant}}; [[bough]]
 
 ===References===
 * {{R:JLect|いだ・いぃだ・ゐだ・ゆぃだ【枝】|986|yida}}
 * {{R:JLect|ゆだ【枝】|985|yuda}}
-* {{R:Shuri-Naha Dialect Dictionary|ヰダ|SN02078}}
-* {{R:Shuri-Naha Dialect Dictionary|ユダ|SN41612}}
+* {{R:Shuri-Naha Dialect Dictionary|ヰダ|02078}}
+* {{R:Shuri-Naha Dialect Dictionary|ユダ|41612}}
 
 {{c|ryu|Trees|sort=いぃだ}}
 ----
@@ -203,7 +212,10 @@ Inherited from {{inh|ryu|jpx-ryu-pro|*yoda|sort=いぃだ}}, from {{inh|ryu|jpx-
 ===Kanji===
 {{head|rys|Han character}}
 
-* {{ja-readings|kun=[[ゆだ]] (yuda)}}
+====Readings====
+{{ja-readings
+|kun=[[ゆだ]] (yuda)
+}}
 
 ===Etymology===
 Inherited from {{inh|rys|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|rys|jpx-pro|*yonta|sort=ゆだ}}.
@@ -212,7 +224,7 @@ Inherited from {{inh|rys|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|rys|jpx-pro
 * {{IPA|rys|/juda/|sort=ゆだ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|ゆだ|romaji|yuda|sort=ゆだ}}
+{{head|rys|noun|hiragana|ゆだ|rōmaji|yuda|sort=ゆだ}}
 
 # [[branch]] {{gloss|of a tree or plant}}; [[bough]]
 
@@ -227,7 +239,10 @@ Inherited from {{inh|rys|jpx-ryu-pro|*yoda|sort=ゆだ}}, from {{inh|rys|jpx-pro
 ===Kanji===
 {{head|yoi|Han character}}
 
-* {{ja-readings|kun=[[どぅだ]] (duda)}}
+====Readings====
+{{ja-readings
+|kun=[[どぅだ]] (duda)
+}}
 
 ===Etymology===
 Inherited from {{inh|yoi|jpx-ryu-pro|*yoda|sort=とぅだ'}}, from {{inh|yoi|jpx-pro|*yonta|sort=とぅだ'}}.
@@ -236,7 +251,7 @@ Inherited from {{inh|yoi|jpx-ryu-pro|*yoda|sort=とぅだ'}}, from {{inh|yoi|jpx
 * {{IPA|yoi|/duda/|sort=とぅだ'}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|どぅだ|romaji|duda|sort=とぅだ'}}
+{{head|yoi|noun|hiragana|どぅだ|rōmaji|duda|sort=とぅだ'}}
 
 # [[branch]] {{gloss|of a tree or plant}}; [[bough]]
 
