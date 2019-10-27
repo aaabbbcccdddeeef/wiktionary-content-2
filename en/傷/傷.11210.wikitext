@@ -81,11 +81,8 @@ Current form resembles {{Han compound|从|昜}}.
 {{ja-pron|y=k|きず|acc=0|acc_ref=SMK2}}
 
 ===Etymology===
-{{ja-kanjitab|きず|yomi=k}}
+{{ja-kanjitab|きず|yomi=k|alt=瑕,疵}}
 {{rfe|ja}}
-
-===Alternative forms===
-* {{ja-l|瑕}}; {{ja-l|疵}}
 
 ===Noun===
 {{ja-noun|きず|キズ}}
@@ -122,13 +119,16 @@ Current form resembles {{Han compound|从|昜}}.
 ===Kanji===
 {{head|xug|Han characters}}
 
-* {{ja-readings|kun=[[きじー]] (khijii)}}
+====Readings====
+{{ja-readings
+|kun=[[きじー]] (khijī)
+}}
 
 ===Pronunciation===
 * {{IPA|xug|/kʰid͡ʑiː/|sort=きじー}}
 
 ===Noun===
-{{head|xug|noun|hiragana|きじー|romaji|khijī|sort=きじー}}
+{{head|xug|noun|hiragana|きじー|rōmaji|khijī|sort=きじー}}
 
 # [[wound]]
 
@@ -139,35 +139,47 @@ Current form resembles {{Han compound|从|昜}}.
 ===Kanji===
 {{head|mvi|Han characters}}
 
-* {{ja-readings|kun=[[きず]] (kizu)}}
+====Readings====
+{{ja-readings
+|kun=[[きず]] (kizu)
+}}
 
 ===Pronunciation===
 * {{IPA|mvi|/kizz̩/|sort=きず}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|きず|romaji|kizu|sort=きず}}
+{{head|mvi|noun|hiragana|きず|rōmaji|kizu|sort=きず}}
 
 # [[wound]]
+
+===References===
+* {{R:Miyako Dialect Dictionary|キズ|11387}}
 
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=人11}}
 
 ====Readings====
 {{ryu-readings
 |kun=きじ-
 }}
 
+===Etymology===
+{{ryu-kanjitab|きじ|yomi=k}}
+
 ===Pronunciation===
 * {{IPA|ryu|/kid͡ʑi/|sort=きじ}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|きじ|romaji|kiji|sort=きじ}}
+{{ryu-noun|きじ}}
 
 # [[wound]]
+
+===References===
+* {{R:Shuri-Naha Dialect Dictionary|キジ|10898}}
 
 ----
 
@@ -185,12 +197,16 @@ Current form resembles {{Han compound|从|昜}}.
 ===Kanji===
 {{head|yoi|Han characters}}
 
-* {{ja-readings|kun=[[きでぃ]] (kidi)}}
+
+====Readings====
+{{ja-readings
+|kun=[[きでぃ]] (kidi)
+}}
 
 ===Pronunciation===
 * {{IPA|yoi|/kidi/|sort=きでぃ}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|きでぃ|romaji|kidi|sort=きでぃ}}
+{{head|yoi|noun|hiragana|きでぃ|rōmaji|kidi|sort=きでぃ}}
 
 # [[wound]]
