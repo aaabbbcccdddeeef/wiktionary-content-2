@@ -171,9 +171,7 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 {{ja-pos|しょう|counter}}
 
 # [[win]]s, [[victories]]
-
-====Antonyms====
-* {{l|ja|敗}}
+#: {{ant|ja|敗}}
 
 ===Proper noun===
 {{ja-pos|まさる|proper}}
@@ -196,7 +194,8 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 ===Kanji===
 {{head|xug|Han characters}}
 
-* {{ja-readings|kun=[[まさーるん]] ([[勝ーるん]], masārun)}}
+====Readings====
+{{ja-readings|kun=[[まさーるん]] ([[勝ーるん]], masārun)}}
 
 ----
 
@@ -205,14 +204,15 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 ===Kanji===
 {{head|mvi|Han characters}}
 
-* {{ja-readings|kun=[[まさーㇲ゙]] ([[勝ーㇲ゙]], masāz)}}
+====Readings====
+{{ja-readings|kun=[[まさーㇲ゙]] ([[勝ーㇲ゙]], masāz)}}
 
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=力10}}
 
 ====Readings====
 {{ryu-readings
@@ -236,4 +236,7 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 ===Kanji===
 {{head|rys|Han characters}}
 
-* {{ja-readings|kun=[[まさるん]] ([[勝るん]], masarun)}}
+====Readings====
+{{ja-readings
+|kun=[[まさるん]] ([[勝るん]], masarun)
+}}
