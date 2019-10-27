@@ -100,22 +100,30 @@ From {{bor|ja|sort=しょう|ltc|-}} {{ltc-l|聲}}.
 
 ==Okinawan==
 
-===Etymology===
-Cognate with {{cog|ja|声|tr=koe}}.
-
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=士04}}
 
 ====Readings====
 {{ryu-readings
 |kun=くぃー-
 }}
 
+===Etymology===
+{{ryu-kanjitab|くぃー|yomi=k}}
+Cognate with {{cog|ja|声|tr=koe}}.
+
+===Pronunciation===
+* {{IPA|ryu|[kʷiː]|sort=くぃい}}
+
 ===Noun===
-{{ryu-noun|くぃー}}
+{{ryu-noun|くぃー|sort=くぃい}}
 
 # [[voice]]
 # [[news]] (of someone); [[word]] (of someone); something said (of someone)
-#: {{ux|ryu|{{furigana|声%聞ちゅん|くぃー%ちちゅん|sort=くぃい}}|t=To hear (about somebody), to hear word (of someone), to catch wind (of someone)"|tr=kwī chichichun}}
+#: {{ryu-usex|声%聞ちゅん|くぃー%ちちゅん|To hear (about somebody), to hear word (of someone), to catch wind (of someone)"}}
+
+===References===
+* {{R:JLect|くぃー【声】|913|kwii}}
+* {{R:Shuri-Naha Dialect Dictionary|クィー|10955}}
 
 {{c|ryu|Sound|sort=くぃい}}
