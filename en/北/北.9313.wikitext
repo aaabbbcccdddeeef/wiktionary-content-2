@@ -240,21 +240,31 @@ From {{bor|ja|cmn|sort=へえ''|北|tr=běi}}.
 
 ==Okinawan==
 
+===Kanji===
+{{ryu-kanji|rs=匕03}}
+
+====Readings====
+{{ryu-readings
+|kun=にし-
+}}
+
 ===Etymology===
 Cognate with mainland {{cog|ja|西|tr=nishi||west}}.
 
-===Kanji===
-{{head|ryu|Han characters}}
-
-* {{ja-readings|kun=[[にし]] (nishi)}}
-
 ===Noun===
-{{head|ryu|noun|hiragana|にし|romaji|nishi|sort=にし}}
+{{ryu-noun|にし}}
 
-# [[north]]
+# [[north]]; [[northern]]; [[northwards]]
 
 ====Derived terms====
-* {{l|ryu|北風|tr=[[にしかじ]], ''[[nishikaji]]''||[[north]] [[wind]]}}
+* {{ryu-r|北%風|にし%かじ|north wind}}
+
+===References===
+* {{R:Haisai|ニシ|03456}}
+* {{R:JLect|にし【北】|767|nishi}}
+* {{R:Ajima|ニシ（にし）|1641}}
+* {{R:Koza|にし}}
+* {{R:Shuri-Naha Dialect Dictionary|ニシ|40575}}
 
 {{C|ryu|Compass points|sort=にし}}
 
@@ -262,20 +272,29 @@ Cognate with mainland {{cog|ja|西|tr=nishi||west}}.
 
 ==Southern Amami-Oshima==
 
-===Etymology===
-Cognate with mainland {{cog|ja|西|tr=nishi||west}}.
-
 ===Kanji===
 {{head|ams|Han characters}}
 
-* {{ja-readings|kun=[[にし]] (nishi)}}
+====Readings====
+{{ja-readings
+|kun=[[にし]] (nishi)
+}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|西|tr=nishi||west}}.
+
+===Pronunciation===
+* {{IPA|ams|[niɕi]|sort=にし}}
 
 ===Noun===
-{{head|ams|noun|hiragana|にし|romaji|nishi|sort=にし}}
+{{head|ams|noun|hiragana|にし|rōmaji|nishi|sort=にし}}
 
-# [[north]]
+# [[north]]; [[northern]]; [[northwards]]
 
-{{C|ams|Compass points|sort=にし}}
+===References====
+* {{R:JLect|にし【北】|1388|nishi}}
+
+{{c|ams|Compass points|sort=にし}}
 
 ----
 
