@@ -177,7 +177,7 @@ Compound of {{affix|sort=のみと|ja|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=pas
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=口09}}
 
 ====Readings====
 {{ryu-readings
@@ -185,15 +185,23 @@ Compound of {{affix|sort=のみと|ja|飲み|tr1=nomi|t1=drink|門|tr2=to|t2=pas
 }}
 
 ===Etymology===
+{{ryu-kanjitab|ぬーでぃー}}
 Cognate with {{cog|ja|喉|tr=nodo}}.
 
+===Pronunciation===
+* {{IPA|ryu|[nuːdiː]|sort=ぬうでぃい}}
+
 ===Noun===
-{{head|ryu|noun|hiragana|ぬーでぃー|romaji|nūdī|sort=ぬうでぃい}}
+{{ryu-noun|ぬーでぃー|sort=ぬうでぃい}}
 
 # [[throat]]
 
 ====Derived terms====
-* {{l|ryu|喉弦|tr=ぬーでぃーじる, nūdījiru|t=vocal cords}}
+* {{ryu-r|喉%弦|ぬーでぃー%じる|vocal cords}}
+
+===References===
+* {{R:JLect|ぬーでぃー【喉】|1809|nuudii}}
+* {{R:Shuri-Naha Dialect Dictionary|ヌーディー|40768}}
 
 {{C|ryu|Anatomy|sort=ぬうでぃい}}
 
