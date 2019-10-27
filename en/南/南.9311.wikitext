@@ -261,7 +261,7 @@ From {{bor|ja|cmn|sort=なん|南|tr=nán}}.
 <references/>
 
 [[Category:Japanese basic words|みなみ]]
-{{top|ja|Compass points|sort=みなみ}}
+{{c|ja|Compass points|sort=みなみ}}
 
 ----
 
@@ -277,9 +277,16 @@ From {{bor|ja|cmn|sort=なん|南|tr=nán}}.
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han character}}
+{{ryu-kanji|rs=十07}}
 
-* {{ja-readings|kun=[[ふぇー]] (fē)}}
+====Readings====
+{{ryu-readings
+|kun=ふぇー-
+}}
+
+====Compounds====
+* {{ryu-r|南風|ふぇー}}
+* {{ryu-r|南%風|ふぇー%かじ}}
 
 ===Etymology===
 Cognate to {{cog|yoi|南|t=south|tr=はい, hai}} and {{cog|ja|南風|t=southerly winds|tr=はえ, hae}}.
@@ -288,9 +295,13 @@ Cognate to {{cog|yoi|南|t=south|tr=はい, hai}} and {{cog|ja|南風|t=southerl
 * {{IPA|ryu|/ɸeː/|sort=ふぇえ}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|ふぇー|romaji|fē|sort=ふぇえ}}
+{{ryu-noun|ふぇー|sort=ふぇえ}}
 
 # [[south]]; [[southern]]; in the south; [[southward]]
+
+===References===
+* {{R:JLect|ふぇー【南・南風】|766|fee}}
+* {{R:Shuri-Naha Dialect Dictionary|フェー|31318}}
 
 {{c|ryu|Compass points|sort=ふぇえ}}
 
@@ -316,7 +327,10 @@ Cognate to {{cog|yoi|南|t=south|tr=はい, hai}} and {{cog|ja|南風|t=southerl
 ===Kanji===
 {{head|yoi|Han character}}
 
-* {{ja-readings|kun=[[はい]] (hai)}}
+====Readings====
+{{ja-readings
+|kun=[[はい]] (hai)
+}}
 
 ===Etymology===
 Cognate to {{cog|ryu|南|t=south|tr=ふぇー, fē}} and {{cog|ja|南風|t=southerly winds|tr=はえ, hae}}.
@@ -328,5 +342,8 @@ Cognate to {{cog|ryu|南|t=south|tr=ふぇー, fē}} and {{cog|ja|南風|t=south
 {{head|yoi|noun|hiragana|はい|romaji|hai|sort=はい}}
 
 # [[south]]; [[southern]]; in the south; [[southward]]
+
+===References===
+* {{R:JLect|はい【南・南風】|1058|hai}}
 
 {{c|yoi|Compass points|sort=はい}}
