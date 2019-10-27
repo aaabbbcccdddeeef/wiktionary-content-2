@@ -301,10 +301,10 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 # [[mouth]]
 
 ====Compounds====
-* [[人口]] (인구, ingu)
-* [[家口]] (가구, gagu)
-* [[口訣]] (구결, gugyeol)
-* [[口呼吸]] (구호흡, guhoheup)
+* {{ko-l|人口|인구}}
+* {{ko-l|家口|가구}}
+* {{ko-l|口訣|구결}}
+* {{ko-l|口呼吸|구호흡}}
 
 ====References====
 * {{Hanja ref|nav=8216}}
@@ -316,7 +316,10 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 ===Kanji===
 {{head|xug|Han characters}}
 
-* {{ja-readings|kun=[[くちー]] (khuchī)}}
+====Readings====
+{{ja-readings
+|kun=[[くちー]] (khuchī)
+}}
 
 ===Pronunciation===
 * {{IPA|xug|/kʰut͡ɕiː/|sort=くちい}}
@@ -338,11 +341,14 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 ===Kanji===
 {{head|mvi|Han characters}}
 
-* {{ja-readings|kun=[[ふつ]] (futsu), [[ふィちィ]] (fïchï)}}
+====Readings====
+{{ja-readings
+|kun=[[ふつ]] (futsu), [[ふィちィ]] (fïchï)
+}}
 
 ===Pronunciation===
-* {{lb|mvi|Tarama}}: {{IPA|mvi|[ɸɨtˢɨ]|[ɸs̩.tˢɨ]}}
-* {{lb|mvi|Ōgami}}: {{IPA|mvi|[ɸkɨ]|[ɸks̩ ~ ɸkɯ]|sort=ふィちィ}}
+* {{a|Tarama}}: {{IPA|mvi|[ɸɨtˢɨ]|[ɸs̩.tˢɨ]}}
+* {{a|Ōgami}}: {{IPA|mvi|[ɸkɨ]|[ɸks̩ ~ ɸkɯ]|sort=ふィちィ}}
 
 ===Noun===
 {{head|mvi|noun|hiragana|ふつ|rōmaji|futsu|alternative reading|ふィちィ|rōmaji|fïchï|sort=ふつ}}
@@ -364,7 +370,7 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|rs=口00}}
 
 ====Readings====
 {{ryu-readings
@@ -375,7 +381,7 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 * {{IPA|ryu|/kut͡ɕi/|sort=くち}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|くち|rōmaji|kuchi|sort=くち}}
+{{ryu-noun|くち}}
 
 # [[mouth]]
 # [[language]]
@@ -384,16 +390,16 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 
 ====Compounds====
 {{top2}}
-* [[油口]] ([[あんだぐち]], ''[[andaguchi]]''): [[compliment]]
-* [[沖縄口]] ([[うちなーぐち]], ''[[uchināguchi]]''): [[Okinawan]] [[language]]
-* [[ウランダ口]] ([[ウランダぐち]], ''[[urandaguchi]]''): [[European]] language, [[Western]] language
-* [[書ち口]] ([[かちぐち]], ''[[kachiguchi]]''): [[written]] language
-* [[口しば]] ([[くちしば]], ''[[kuchishiba]]''): [[lips]]
-* [[島口]] ([[しまぐち]], ''[[shimaguchi]]''): [[island]] [[language]], [[local]] language
-* [[唐口]] ([[とーぐち]], ''[[tōguchi]]''): [[Chinese]] language
-* [[那覇口]] ([[なーふぁぐち]], ''[[nāfaguchi]]''): [[Naha]] [[dialect]]
-* [[目口]] ([[みーくち]], ''[[mīkuchi]]''): [[facial expression]]
-* [[大和口]] ([[やまとぅぐち]], ''[[yamatuguchi]]''): standard [[Japanese]] language
+* {{ryu-r|油%口|あんだ%ぐち|compliment}}
+* {{ryu-r|沖%縄%口|うち%なー%ぐち|Okinawan language}}
+* {{ryu-r|ウランダ口|ウランダぐち|European language, Western language}}
+* {{ryu-r|書ち口|かちぐち|written language}}
+* {{ryu-r|口しば|くちしば|lips}}
+* {{ryu-r|島%口|しま%ぐち|island language, local language}}
+* {{ryu-r|唐%口|とー%ぐち|Chinese language}}
+* {{ryu-r|那%覇%口|なー%ふぁ%ぐち|Naha dialect}}
+* {{ryu-r|目%口|みー%くち|facial expression}}
+* {{ryu-r|大和%口|やまとぅ%ぐち|standard Japanese language}}
 {{bottom}}
 
 ===References===
@@ -427,7 +433,10 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 ===Kanji===
 {{head|rys|Han characters}}
 
-* {{ja-readings|kun=[[ふつぃ]] (futsï)}}
+====Readings====
+{{ja-readings
+|kun=[[ふつぃ]] (futsï)
+}}
 
 ===Pronunciation===
 * {{IPA|rys|/fu̻t͡sɨ/|sort=ふつぃ}}
@@ -449,7 +458,10 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 ===Kanji===
 {{head|yoi|Han characters}}
 
-* {{ja-readings|kun=[[ってぃ]] (tti)}}
+====Readings====
+{{ja-readings
+|kun=[[ってぃ]] (tti)
+}}
 
 ===Pronunciation===
 * {{IPA|yoi|/tˀi/|sort=ってぃ}}
