@@ -4,19 +4,21 @@
 {{Han simplified forms|瀧|滝|泷}}
 
 ===Han character===
-{{Han char|rn=85|rad=水|as=10|sn=13|four=|canj=EYTU|ids=⿰氵竜}}
+{{Han char|rn=85|rad=水|as=10|sn=13|four=30116|canj=EYTU|ids=⿰氵竜}}
 
-# [[onomatopoeic]] for the [[sound]] of [[fall]]ing [[rain]]
-# an [[ancient]] [[name]] for Wu Shui
-# a [[place]] in [[Guangdong]] [[province]]
+====Related characters====
+* {{l|mul|瀧}} {{q|[[Traditional Chinese]] and Japanese [[kyūjitai]]}}
 
-====References====
-* {{Han ref|kx=0643.241|dkj=18067|dj=1050.230|hdz=31706.020|uh=6EDD|ud=28381}}
+===Further reading===
+{{Han ref|kx=0643.241|dkj=18067|dj=1050.230|hdz=31706.020|uh=6EDD}}
 
 ----
 
 ==Chinese==
 {{zh-see|瀧|v}}
+
+===References===
+* {{R:twedu|B02335-001}}
 
 ----
 
@@ -38,13 +40,10 @@
 }}
 
 ===Etymology===
-{{ja-kanjitab|たき|yomi=k}}
+{{ja-kanjitab|たき|yomi=k|alt=瀑}}
 {{IPAfont|/taki<sub>1</sub>/}} → {{IPAchar|/taki/}}
 
 From {{inh|ja|ojp|sort=たき|-}}.
-
-===Alternative forms===
-* {{ja-l|瀑}}
 
 ===Pronunciation===
 {{ja-pron|y=k|たき|acc=0|acc_ref=DJR}}
@@ -80,8 +79,44 @@ From {{inh|ja|ojp|sort=たき|-}}.
 ===Proper noun===
 {{ja-pos|kyu=瀧|たき|proper}}
 
-# ''A place name''
+# {{n-g|A [[placename]].}}
 # {{surname|ja|sort=たき}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|젖다|젖을|롱||농}}
+
+# {{alternative form of|ko|瀧}}
+
+===References===
+* {{R:zonmal|28381}}
+
+{{categorize|ko|Hanja variant forms|sort=롱}}
+
+----
+
+==Vietnamese==
+
+===Alternative forms===
+* {{alter|vi|{{vi-l|瀧|sông}}}}<ref name=gdhn>{{vi-ref|Trần (2004).}}</ref><ref name=bonet>{{vi-ref|Bonet (1899).}}</ref>
+* {{alter|vi|{{vi-l|瀧|rồng}}}}<ref name=gdhn>{{vi-ref|Trần (2004).}}</ref>
+* {{alter|vi|{{vi-l|雙|suông}}}}<ref name=gdhn>{{vi-ref|Trần (2004).}}</ref>
+
+===Glyph origin===
+{{Han compound|水#Vietnamese|竜#Vietnamese|alt1=氵|t1=water|tr2={{vi-l|long}}|c1=s|c2=p|ls=psc}}
+
+===Han character===
+{{vi-readings|sort=水10
+|nom=sông-tdcndg;tdcntd;gdhn;bonet, lùng-tdcndg;tdcntd, sòng-tdcndg, suồng-tdcndg, trong-tdcndg, rông-gdhn, rồng-gdhn, suông-gdhn, long-btcn
+}}
+
+# {{Nom form of|sông|[[river]]}}
 
 ===References===
 <references/>
