@@ -5,7 +5,7 @@
 * {{alter|en|pomey}}
 
 ===Etymology===
-Borrowed from {{bor|en|fr|pomme}}, ultimately from [[:w:Latin language|Latin]] {{m|la|poma}}.
+Borrowed from {{bor|en|fr|pomme}}, ultimately from {{der|en|la|poma}}.
 
 ===Noun===
 {{en-noun|pomeis}}
@@ -35,20 +35,22 @@ From {{inh|fr|fro|pomme}}, {{m|fro|pome}}, {{m|fro|pume}}, from {{inh|fr|la|pōm
 # {{lb|fr|colloquial}} The [[head]].
 
 ====Derived terms====
-{{der-top}}
-* {{l|fr|croquer la pomme}}
-* {{l|fr|pomme d'Adam}}
-{{der-mid}}
-* {{l|fr|pomme de terre}}
-* {{l|fr|pommes frites}}
-{{der-bottom}}
+{{der4|fr
+|croquer la pomme
+|pomme d'Adam
+|pomme de terre
+|pommes frites
+}}
 
 ====Related terms====
-* {{l|fr|pommeau}}
-* {{l|fr|pommer}}
-* {{l|fr|pommier}}
+{{rel3|fr
+|pommeau
+|pommer
+|pommier
+}}
 
 ====Descendants====
+{{top4}}
 * {{desc|gcf|ponm}}
 * {{desc|ht|pòm}}
 * {{desc|lou|pòm}}
@@ -63,6 +65,7 @@ From {{inh|fr|fro|pomme}}, {{m|fro|pome}}, {{m|fro|pume}}, from {{inh|fr|la|pōm
 * {{desc|bor=1|rw|pome}}
 * {{desc|bor=1|vi|bôm}}
 * {{desc|bor=1|wo|pom}}
+{{bottom}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -75,13 +78,13 @@ From {{inh|fr|fro|pomme}}, {{m|fro|pome}}, {{m|fro|pume}}, from {{inh|fr|la|pōm
 {{wikipedia|poume|lang=nrm}}
 
 ===Alternative forms===
-* {{l|nrf|poumme}} {{qualifier|Jersey}}
-* {{l|nrf|paomme}} {{qualifier|Guernsey}}
-* {{l|nrf|pum}} {{qualifier|Sark}}
-* {{l|nrf|poume}} {{qualifier|continental Norman}}
+* {{alter|nrf|poumme||Jersey}}
+* {{alter|nrf|paomme||Guernsey}}
+* {{alter|nrf|pum||Sark}}
+* {{alter|nrf|poume||continental Norman}}
 
 ===Etymology===
-From {{inh|nrf|la|pomme}}, from {{inh|nrf|la|pōma}}, plural of {{m|la|pōmum||fruit}}.
+From {{inh|nrf|la|pomme}}, from {{inh|nrf|la|pōma}}, plural of {{m|la|pōmum|t=fruit}}.
 
 ===Pronunciation===
 * {{audio|nrf|Jer-pomme.ogg|Audio}}
@@ -92,7 +95,16 @@ From {{inh|nrf|la|pomme}}, from {{inh|nrf|la|pōma}}, plural of {{m|la|pōmum||f
 # {{lb|nrf|Jersey}} [[apple]]
 
 ====Derived terms====
-{{der3|nrf|pomme à cidre|pomme dé garde|pomme dé sapîn|pomme dé tabl'ye|pomme dé tchêne|pomme douoche|pomme suthe|pommyi}}
+{{col4|nrf
+|pomme à cidre
+|pomme dé garde
+|pomme dé sapîn
+|pomme dé tabl'ye
+|pomme dé tchêne
+|pomme douoche
+|pomme suthe
+|pommyi
+}}
 
 {{topics|nrf|Fruits}}
 
