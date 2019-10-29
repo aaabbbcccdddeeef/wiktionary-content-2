@@ -4,14 +4,14 @@
 {{stroke order|strokes=12}}
 {{ja-forms|[[強]]|强|[[強]]}}
 
-===Glyph origin===
-Variant of {{l|mul|強}}.
-
 ===Han character===
 {{Han char|rn=57|rad=弓|as=09|sn=12|four=16236|canj=NRLI|ids=⿰弓虽}}
 
 ====Derived characters====
-* {{l|mul|[[摾]], [[膙]], [[糨]], [[繦]]/[[𫄶]], [[漒]], [[蔃]], [[嵹]], [[襁]], [[鏹]]/[[镪]], [[䃨]], [[𠎦]], [[𠼢]], [[𡠤]], [[𣚦]], [[𫮬]], [[𩝽]]/[[𫗳]], [[勥]], [[犟]], [[謽]], [[𡠥]]}}
+* {{l|mul|sc=Hans|[[𠎦]], [[𫮬]], [[𫗳]], [[䃨]], [[镪]], [[繦]]([[𫄶]])}}
+* {{l|mul|sc=Hans|[[膙]], [[糨]], [[襁]], [[鏹]], [[嵹]], [[犟]], [[謽]]}} {{q|Exception: Contains {{lang|mul|强}} in mainland China and South Korea. Contains {{l|mul|強}} in other regions}}
+* {{l|mul|sc=Hans|[[𠼢]], [[𡠤]], [[摾]], [[漒]], [[𩝽]], [[蔃]], [[勥]], [[𡠥]]}} {{q|Exception: Contains {{lang|mul|强}} in mainland China. Contains {{l|mul|強}} in other regions}}
+* {{l|mul|sc=Hans|𣚦}} {{q|Exception: Contains {{lang|mul|强}} in mainland China and Taiwan. Contains {{l|mul|強}} in Hong Kong instead}}
 
 ====Related characters====
 * {{l|mul|強}} {{q|Orthodox form in [[Traditional Chinese]]}}
@@ -23,11 +23,14 @@ Variant of {{l|mul|強}}.
 
 ==Chinese==
 
+===Glyph origin===
+Variant form of {{zh-l|強*}}. Attested since [[w:Qin dynasty|Qin dynasty]].
+
 ===Definitions===
 {{zh-see|強|sv}}
 
-====Usage notes====
-This character can be found in {{w|zh:秦泰山刻石|stone inscriptions}} dating back to the {{w|Qin dynasty}} <!--《說文徐註》同强。秦刻石文从口。同強。-->
+===References===
+* {{R:twedu|A01258-001}}
 
 ----
 
@@ -36,39 +39,50 @@ This character can be found in {{w|zh:秦泰山刻石|stone inscriptions}} datin
 ===Kanji===
 {{ja-kanji|grade=|rs=弓09}}
 
-# {{alt form|ja|強}} {{gloss|[[strong]], [[powerful]], [[potent]]}}
+# {{alternative form of|ja|強||[[strong]]; [[powerful]]; [[potent]]}}
 
 ====Readings====
-* {{ja-readings|on=[[きょう]] (kyō), [[ごう]] (gō)|kun=[[つよい]] (tsuyoi), [[しいる]] (shiiru), [[つよまる]] (tsuyomaru)}}
+{{ja-readings
+|goon=ごう
+|kanon=きょう
+|kun=つよ-い, つよ-まる, つよ-める, こわ-い, し-いる, あなが-ち
+}}
 
-===Usage notes===
-This character lacks JIS support and is not used in Japan. The character [[強]] (U+5F37) is used instead.
+===References===
+* {{R:Koseki Moji|111030}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|강하다|강}}
+{{ko-hanja|강하다|강할|강}}
 
-# {{hanja form of|강|[[strong]]}}
+# {{alternative form of|ko|強||{{hanja form of|강|[[strong]]}}}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo|1}}
+
+{{categorize|ko|Hanja variant forms|sort=강}}
 
 ----
 
 ==Vietnamese==
 
+===Alternative forms===
+* {{alter|vi|{{vi-l|強|gượng}}}}<ref name=gdhn>{{vi-ref|Trần (2004).}}</ref><ref name=bonet>{{vi-ref|Bonet (1899).}}</ref>
+* {{alter|vi|{{vi-l|強|càng}}}}<ref name=gdhn/>
+* {{alter|vi|{{vi-l|[[彊]],[[強]]|cường}}}}<ref name=gdhn/>
+
 ===Han character===
-{{vi-hantu|[[càng]], [[cường]], [[cưỡng]], [[gượng]], [[ngượng]]|rs=弓09}}
+{{vi-readings|rs=弓09
+|hanviet=cường-tdcndg;tdcntd;gdhn, cưỡng-tdcndg;gdhn
+|phienthiet=渠良 cừ lương, 巨兩 cự lưỡng
+|nom=gượng-tdcndg;tdcntd;gdhn;bonet, càng-tdcndg;tdcntd;gdhn, cường-tdcndg;tdcntd;gdhn, cưỡng-tdcndg;tdcntd;gdhn, ngượng-tdcndg;gdhn
+}}
 
-* same as cường [[強]]
+# {{alternative form of|vi|強||{{han tu form of|cường|[[strong]]}}}}
+# {{Nom form of|gượng|[[strained]]; [[forced]]; [[unnatural]]}}
 
-====Compounds====
-* cường quốc [[强國]]
-* cưỡng bức [[强逼]]
-* {{rfdef|vi|sort=弓09}}
-
-====References====
-* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
-* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
-* Vũ Văn Kính: Đại Tự Điển Chữ Nôm, NXB Văn Nghệ, Ho Chi Minh Ville, 1999
-* [http://nomfoundation.org/common/nom_details.php?codepoint=5f3a Nom Foundation]
+===References===
+<references/>
