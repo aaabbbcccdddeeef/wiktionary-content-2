@@ -64,17 +64,14 @@
 {{wp|lang=ja|ヒノキ}}
 {{wp|Chamaecyparis obtusa}}
 </div>
-{{ja-kanjitab|ひのき|yomi=k}}
+{{ja-kanjitab|yomi=k|ひのき|alt=檜木}}
 
-Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1={{l|en|Japanese cypress}}|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Appears in texts starting from the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
+Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1=[[Japanese cypress]]|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Appears in texts starting from the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
 
 The wood and bark was commonly used as [[tinder]], and the term was previously thought to be from {{m|ja|火|tr=hi||fire}} + {{m|ja|の|tr=no|pos=attributive particle}} + {{m|ja|木|tr=ki||tree}}.  However, later research into {{w|Jōdai Tokushu Kanazukai|ancient kana usage}} in {{cog|ojp|-}} revealed that {{m|ja|檜}} had a reading of {{IPAfont|⟨hi<sub>1</sub>⟩}}, while {{m|ja|火}} was read as {{IPAfont|⟨hi<sub>2</sub>⟩}}, ruling out this derivation.<ref name="KDJ"/>
 
-====Alternative forms====
-* {{ja-l|檜木}}
-
 ====Pronunciation====
-{{ja-pron|y=k|ひのき|acc=1|acc2=0|dev=3|acc_ref=DJR|acc2_ref=DJR}}
+{{ja-pron|yomi=k|ひのき|acc=1|acc2=0|dev=3|acc_ref=DJR|acc2_ref=DJR}}
 * {{a|Osaka}} {{ja-accent-common|a|ひ|のき}}
 * {{a|{{w|Late Middle Japanese}}}} {{IPAchar|/ɸinoki/}}
 
@@ -88,14 +85,14 @@ The wood and bark was commonly used as [[tinder]], and the term was previously t
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|檜 翌檜|ヒノキ アスナロ}}
+* {{ja-r|檜 翌檜|ひのき あすなろ}}
 * {{ja-r|檜%笠|ひのき%がさ}}
 * {{ja-r|檜%玉|ひのき%だま}}
 * {{ja-r|檜%綱|ひのき%づな}}
 * {{ja-r|檜 舞台|ひのき ぶたい}}
 * {{ja-r|明日は檜|あす は ひのき}}
 * {{ja-r|木曽 檜|^きそ ^ひのき}}
-* {{ja-r|台湾 檜|^タイワン ヒノキ}}
+* {{ja-r|台湾 檜|^たいわん ひのき}}
 {{der-bottom}}
 
 =====Descendants=====
@@ -109,6 +106,7 @@ The wood and bark was commonly used as [[tinder]], and the term was previously t
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|ひ}}
+
 {{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/fi/}} → {{IPAchar|/hi/}}
 
 From {{inh|ja|ojp|sort=ひ|-}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>  Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
