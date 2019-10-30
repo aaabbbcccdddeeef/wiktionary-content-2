@@ -46,12 +46,10 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木13|shin=桧}}
 
-# [[hinoki]], {{l|en|Japanese cypress}}
-
 ====Readings====
 {{ja-readings
-|goon=け<け<くゑ
-|kanon=かい<くわい
+|goon=け<け<くゑ, かち<くわち
+|kanon=かい<くわい, かつ<くわつ
 |kun=ひ-, ひのき-
 }}
 
@@ -60,31 +58,28 @@
 * {{ja-r|翌檜|アスナロ}}, {{ja-r|翌檜|アスナロウ}}
 
 ===Etymology 1===
-<div style="float:right;">
+{{ja-kanjitab|yomi=k|ひのき|alt=檜木}}
 {{wp|lang=ja|ヒノキ}}
 {{wp|Chamaecyparis obtusa}}
-</div>
-{{ja-kanjitab|yomi=k|ひのき|alt=檜木,桧}}
+[[File:大智寺 (岐阜市)-樹齢約700年の大ヒノキdaichiji008.jpg|thumb|250px|{{m|ja||檜|tr=hinoki}}: a large '''Japanese cypress''' in Daichiji temple in Gifu City.]]
+Compound of {{com|ja|sort=ひのき||alt1=檜|tr1=hi|t1=[[Japanese cypress]]|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
-Compound of {{com|ja|sort=ひのき|檜|tr1=hi|t1=[[Japanese cypress]]|pos1=see below|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=[[tree]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Appears in texts starting from the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
-
-The wood and bark was commonly used as [[tinder]], and the term was previously thought to be from {{m|ja|火|tr=hi||fire}} + {{m|ja|の|tr=no|pos=attributive particle}} + {{m|ja|木|tr=ki||tree}}.  However, later research into {{w|Jōdai Tokushu Kanazukai|ancient kana usage}} in {{cog|ojp|-}} revealed that {{m|ja|檜}} had a reading of {{IPAfont|⟨hi<sub>1</sub>⟩}}, while {{m|ja|火}} was read as {{IPAfont|⟨hi<sub>2</sub>⟩}}, ruling out this derivation.<ref name="KDJ"/>
+The [[wood]] and [[bark]] was commonly used as [[tinder]], and the term was previously thought to be from {{com|ja|nocat=1|火|tr1=hi|t1=[[fire]]|の|tr2=no|pos2=attributive particle|木|tr3=ki|t3=tree}}. However, later research into {{w|Jōdai Tokushu Kanazukai|ancient kana usage}} in {{cog|ojp|-}} revealed that {{m|ja|檜}} had a reading of {{IPAfont|⟨pi<sub>1</sub>⟩}}, while {{m|ja|火}} was read as {{IPAfont|⟨pi<sub>2</sub>⟩}}, ruling out this derivation.<ref name="KDJ"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ひのき|acc=1|acc2=0|dev=3|acc_ref=DJR|acc2_ref=DJR}}
-* {{a|Osaka}} {{ja-accent-common|a|ひ|のき}}
-* {{a|{{w|Late Middle Japanese}}}} {{IPAchar|/ɸinoki/}}
+** {{a|[[w:Kansai dialect|Osaka]]}} {{ja-accent-common|a|ひ|のき|híꜜnòkì}}
 
 ====Noun====
 {{ja-noun|shin=桧|ひのき|ヒノキ}}
 
-# the [[Japanese cypress]], ''{{ll|mul|Chamaecyparis obtusa}}''
+# the [[Japanese cypress]], ''[[Chamaecyparis obtusa]]''
 
 =====Usage notes=====
 {{U:ja:biology|ヒノキ}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|檜 翌檜|ひのき あすなろ}}
 * {{ja-r|檜%笠|ひのき%がさ}}
 * {{ja-r|檜%玉|ひのき%だま}}
@@ -105,23 +100,22 @@ The wood and bark was commonly used as [[tinder]], and the term was previously t
 # {{surname|ja|A=a|nodot=1|sort=ひのき}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|ひ|alt=桧}}
+{{ja-kanjitab|yomi=k|ひ}}
 
-{{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/fi/}} → {{IPAchar|/hi/}}
+{{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/ɸi/}} → {{IPAchar|/hi/}}
 
-From {{inh|ja|ojp|sort=ひ|-}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>  Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
+From {{inh|ja|ojp|sort=ひ|-}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>
 
-====Pronunciation====
-{{ja-pron|yomi=k|ひ}}
+Appears in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
 
 ====Noun====
 {{ja-noun|shin=桧|ひ}}
 
-# {{lb|ja|sort=ひ|archaic|found primarily in compounds}} the [[Japanese cypress]], ''[[Chamaecyparis obtusa]]''
+# {{lb|ja|sort=ひ|archaic|or in [[compound]]s}} the [[Japanese cypress]], ''[[Chamaecyparis obtusa]]''
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|檜%扇|ひ%-おうぎ}}
+{{der-top4}}
+* {{ja-r|檜%扇|ひ%おうぎ}}
 * {{ja-r|檜%垣|ひ%がき}}
 * {{ja-r|檜%笠|ひ%がさ}}
 * {{ja-r|檜%隈|^ひ%ぐま}}
@@ -152,21 +146,37 @@ From {{inh|ja|ojp|sort=ひ|-}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS"
 ===Hanja===
 {{ko-hanja|hangeul=[[회]], [[괄]]|eumhun=|rv=hoe, gwal|mr=hoe, kwal|y=hoy, kwal}}
 
-# ([[노송]][[나무]]) {{l|en|Japanese cypress}} (''[[Chamaecyparis obtusa]]'')
+# {{rfdef|ko}}
 
 ====Compounds====
-* [[檜木]] ([[회목]], ''hoemog'') {{l|en|Japanese cypress}}
+* {{ko-l|회목|檜木|[[Japanese cypress]]}}
 
-===See also===
-{{top2}}
-* {{l|ko|柏}} ([[백]], ''baeg'') [[扁柏]] + [[側柏]]
-* {{l|ko|扁柏}} ([[편백]], ''pyeonbaeg'') {{l|en|Japanese cypress}}
-* {{l|ko|側柏}} ([[측백]], ''cheugbaeg'') {{vern|oriental thuja}}
-{{mid2}}
-* {{l|ko|栝}} ([[괄]], ''gwal'') [[juniper]]
-* {{l|ko|香木}} ([[향목]], ''hyangmog'') [[juniper]]
-* {{l|ko|老松}} ([[노송]], ''nosong'') {{l|en|Japanese cypress}}
-{{bottom}}
+====See also====
+{{rel-top|See also}}
+* {{ko-l|백|柏|[[cypress]]}}
+* {{ko-l|편백|扁柏|[[Japanese cypress]]}}
+* {{ko-l|측백|側柏|[[oriental thuja]]}}
+* {{ko-l|괄|栝|[[juniper]]}}
+* {{ko-l|향목|香木|juniper}}
+* {{ko-l|노송|老松|Japanese cypress}}
+{{rel-bottom}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+{{rfe|ojp|sort=ひ}}
+
+===Noun===
+{{head|ojp|noun|tr=pi<sub>1</sub>|kana|ひ|sort=ひ}}
+
+# the [[Japanese cypress]], ''[[Chamaecyparis obtusa]]''
+#* {{RQ:Kojiki|poem 100}}
+#*: {{ux|ojp|...[[眞木割く|麻紀佐久]]'''比'''能[[御門|美加度]]...|tr=...maki<sub>2</sub> saku '''pi<sub>1</sub>''' no mi<sub>1</sub>kado<sub>1</sub>...|...this wooded palace of flourishing '''cypresses'''...}}
+
+====Descendants====
+* {{desc|ja|檜|tr=hi, hinoki}}
 
 ----
 
