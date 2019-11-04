@@ -11,55 +11,78 @@
 
 ==Chinese==
 
-
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|口|叕|ls=psc|c1=s|c2=p|t1=mouth}}.
 
-<!--|c=cyut3,zyut3
-|h=pfs=cho̍t-->{{attention|zh|Please check and place these pronunciations}}
-
-===Pronunciation 1===
+===Etymology 1===
 {{zh-forms|alt=嚽,歠,𠼣,𩟫}}
+Possibly related to {{och-l|噆|(of a mosquito) to bite|id=2}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
 {{zh-pron
 |m=chuò
-|c=zyut3,zyut1,zyut2
-|h=pfs=chhot
-|md=chiók
+|c=zyut3,zyut1,zyut2,cyut3
+|c_note=cyut3 - rare, literary (“to drink”)
+|h=pfs=chhot;gd=cod5
+|mb=chṳĕ
+|md=chiók/cuók
+|md_note=chiók - vernacular; cuók - literary
+|mn=xm:chheh/qz:chherh/zz:chhoeh/ml:chhoat
+|mn_note=chheh/chherh/chhoeh - vernacular; chhoat - literary
+|mn-t=coih4/cuag4/cuêg4
+|mn-t_note=coih4 - vernacular; cuêg4/cuag4 - literary
 |mc=1+2+3+5
 |oc=y,1+2+4+5
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|dialectal}} to [[taste]]; to [[eat]]; to [[drink]]; to [[sip]]
+#: {{zh-x|杯 茶 斟 得 太 滿 喇，要 啜 一 啖 先 拎 得 起。|This cup of tea is too full. You have to take a sip before lifting it up.|C}}
+# {{lb|zh|Cantonese}} to [[suck]]
+#: {{zh-x|啜 奶|to '''suck''' milk|C}}
+#: {{zh-x|啜 手指|to '''suck''' on one's fingers|C}}
+# {{lb|zh|Cantonese}} to [[kiss]]
+#: {{zh-x|啜{zyut1} 佢 一 啖|to give him/her a kiss|C}}
+# {{lb|zh|Cantonese}} to [[stick]] to (a [[surface]]); to be [[stuck]] on {{attn|zh|needs improvement}}
+#: {{zh-x|條 褲 啜 住 大髀，好 唔 舒服。|My trousers are '''sticking''' to my thighs; it's so uncomfortable.|C}}
+#: {{zh-x|隻 戒指 太 細 喇，戴 嗰時 啜 實 手指。|The ring is too small. It gets stuck on my finger when I wear it.|C}}
+# {{lb|zh|literary}} [[thick]] [[soup]]
+# {{lb|zh|literary}} to [[sob]]; to [[weep]] <!-- 《詩經·中谷有蓷》:有女仳離、啜其泣矣。-->
+
+=====Synonyms=====
+{{zh-dial|喝}}
+
+====Compounds====
+{{zh-der|啜汁|啜飲|啜持|啜哄|啜賺|啜茶|啜泣|啜茗|啜菽飲水|餔糟啜醨|餔啜|飲水啜菽}}
+
+===Etymology 2===
+{{zh-forms|alt=諁}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhuó,chuò,1nb=Mainland,2nb=Taiwan
+|mc=4
+|oc=n,3
 |cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# to [[taste]]; to [[eat]]; to [[drink]] <!-- [1]《廣韻·去聲·祭·綴》啜：甞也。[2]《廣韻·去聲》啜：甞也。[3]《廣韻·入聲》啜：『《說文》曰：甞也。《爾雅》云：茹也，禮曰啜菽飲水。』[4]《禮記·檀弓下》: 孔子曰：「啜菽飲水盡其歡，斯之謂孝。」-->
-# to [[sob]]; to [[weep]] <!-- 《詩經·中谷有蓷》:有女仳離、啜其泣矣。-->
+# {{zh-hg}} to be [[talkative]]; to [[nag]]
 
-=====Synonyms=====
-{{zh-dial|喝}}
-
-=====Compounds=====
-{{zh-der|啜汁|啜飲|啜持|啜哄|啜賺|啜茶|啜泣|啜茗|啜菽飲水|餔糟啜醨|餔啜|飲水啜菽}}
-
-===Pronunciation 2===
-{{zh-forms|alt=諁}}
-{{zh-pron
-|m=zhuó
-|mc=4
-|oc=n,3
-|cat=
-}}
-
-====Definitions====
-{{zh-hanzi}}
-
-# {{rfdef|zh}}
-
-===Pronunciation 3===
+===Etymology 3===
 {{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
-|m=chuài
+|m=Chuài,Chuò,1nb=Mainland,2nb=Taiwan
+|c=ceoi3,zyut3
+|h=gd=cod5
 |cat=pn
 }}
 
