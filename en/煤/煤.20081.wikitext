@@ -57,7 +57,7 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=火09}}
+{{ja-kanji|rs=火09}}
 
 # [[soot]]
 # [[coal]]
@@ -145,7 +145,12 @@ From {{inh|ja|ojp|sort=|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}})
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han character|hiragana|しーし|romaji|shīshi}}
+{{ryu-kanji|rs=火09}}
+
+====Readings====
+{{ryu-readings
+|kun=しーし-
+}}
 
 ===Etymology===
 Cognate with {{cog|ja|煤|tr=susu}}.
@@ -154,7 +159,7 @@ Cognate with {{cog|ja|煤|tr=susu}}.
 * {{IPA|ryu|/ɕiːɕi/|sort=しいし}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|しーし|romaji|shīshi|sort=しいし}}
+{{ryu-noun|しーし}}
 
 # [[soot]]
 
