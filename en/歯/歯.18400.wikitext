@@ -84,7 +84,7 @@ From {{inh|ja|ojp|sort=は|-}}, from {{inh|ja|jpx-pro|*pa}}. Cognate with {{cog|
 {{ja-pron|yomi=k|は|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|kyu=齒|は}}
+{{ja-noun|は|kyu=齒}}
 
 # [[tooth]]
 #: {{ja-usex|'''歯'''が痛い。|'''は.''' が いたい。|My '''teeth''' hurt.}}
@@ -100,7 +100,7 @@ From {{etyl|ltc|ja|sort=し}} {{ltc-l|齒}}.
 {{ja-pron|yomi=o|し|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|kyu=齒|し}}
+{{ja-noun|し|kyu=齒}}
 
 # [[tooth]]
 # [[age]]
@@ -137,7 +137,7 @@ yopapi > yoɸaɸi > yowawi > yowai.
 {{ryu-kanji forms|歯|齒}}
 
 ===Kanji===
-{{ryu-kanji|kyu=齒}}
+{{ryu-kanji|rs=止08|kyu=齒}}
 
 ====Readings====
 {{ryu-readings
@@ -166,4 +166,4 @@ From {{inh|ryu|jpx-ryu-pro|*pa|sort=はあ}}, from {{inh|ryu|jpx-pro|*pa|sort=�
 * {{R:Shuri-Naha Dialect Dictionary|ハー|SN30002}}
 * {{R:Nippo Jisho}}
 
-{{C|ryu|Teeth|sort=はあ}}
+{{topic|ryu|Teeth|sort=はあ}}
