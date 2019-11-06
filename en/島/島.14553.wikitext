@@ -248,7 +248,7 @@ From {{inh|mvi|jpx-ryu-pro|sort=すま|*sima}}.
 ==Okinawan==
 
 ===Kanji===
-{{ryu-kanji}}
+{{ryu-kanji|grade=3|rs=山07}}
 
 ====Readings====
 {{ryu-readings
@@ -257,36 +257,48 @@ From {{inh|mvi|jpx-ryu-pro|sort=すま|*sima}}.
 }}
 
 ===Etymology===
-From {{inh|ryu|jpx-ryu-pro|sort=しま|*sima}}.
-
-Cognate with {{cog|ja|島|tr=shima}}.
+From {{inh|ryu|jpx-ryu-pro|*sima|sort=しま}}, from {{inh|ryu|jpx-pro|*sima|sort=しま}}. Cognate with {{cog|ja|島|tr=shima}}.
 
 ===Pronunciation===
 * {{IPA|ryu|/ɕima/|sort=しま}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|しま|romaji|shima|sort=しま}}
+{{ryu-noun|しま}}
 
 # a [[community]]
 # an [[island]]
 
 ====Derived terms====
 {{der-top3}}
-* {{m|ryu|島国|tr=shimaguni}}
-* {{m|ryu|島米|tr=shimagumi}}
-* {{m|ryu|島尻|tr=Shimaziri}}
-* {{m|ryu|大島|tr='Ūshima}}
-* {{m|ryu|大東島|tr='Ūagari-zima}}
-* {{m|ryu|鹿児島|tr=Kagushima}}
-* {{m|ryu|桜島|tr=Sakurazima}}
-* {{m|ryu|宝島|tr=Takarazima}}
-* {{m|ryu|徳之島|tr=Tukunushima}}
-* {{m|ryu|離り島|tr=hanarizima}}
-* {{m|ryu|道ぬ島|tr=Michinushima}}
-* {{m|ryu|硫黄ヶ島|tr='Yuōgashima}}
+* {{ryu-r|島%国|しま%くに}}
+* {{ryu-r|島%国|しま%ぐに}}
+* {{ryu-r|島%米|しま%ぐみ}}
+* {{ryu-r|島者|しまー}}
+* {{ryu-r|島%言葉|しま%くとぅば}}
+* {{ryu-r|島%口|しま%ぐち}}
+* {{ryu-r|南%ぬ%島者|ふぇー%ぬ%しまー}}
+* {{ryu-r|島%尻|^しま%じり}}
+* {{ryu-r|島%尻%方|^しま%じり%ほー}}
+* {{ryu-r|島%流し|しま%ながし}}
+* {{ryu-r|島%袋|^しま%ぶく}}
+* {{ryu-r|鳥%島|^とぅい%しま}}
+* {{ryu-r|先%島|^さち%しま}}
+* {{ryu-r|大%島|^うー%しま}}
+* {{ryu-r|大%東%島|^うー%あがり%-じま}}
+* {{ryu-r|鹿%児%島|^か%ぐ%しま}}
+* {{ryu-r|黒%島|^くる%しま}}
+* {{ryu-r|桜%島|^さくら%じま}}
+* {{ryu-r|宝%島|^たから%じま}}
+* {{ryu-r|徳%之%島|^とぅく%ぬ%しま}}
+* {{ryu-r|離り島|はなりじま}}
+* {{ryu-r|道ぬ島|^みちぬしま}}
+* {{ryu-r|硫黄ヶ島|^ゆおーヶしま}}
 {{der-bottom}}
 
-{{c|ryu|Landforms|sort=しま}}
+===References===
+* {{R:Shuri-Naha Dialect Dictionary|シマ|SN17110}}
+
+{{topic|ryu|Landforms|sort=しま}}
 
 ----
 
