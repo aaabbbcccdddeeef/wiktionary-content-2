@@ -9,12 +9,34 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[zit3]]|y=jit3}}
+===Pronunciation===
+{{zh-pron
+|m=zhé
+|m-s=
+|dg=
+|c=zit3
+|c-t=
+|g=
+|h=pfs=
+|j=
+|mb=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=n
+}}
 
-# {{rfdef|yue|sort=歹04}}
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ====References====
 * [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 135]
@@ -29,13 +51,4 @@
 # {{rfdef|ja|sort=歹04}}
 
 ====Readings====
-* {{ja-readings|on=[[せつ]] (setsu), [[せち]] (sechi)|kun=[[わかじに]] (wakajini)}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[zhé]] ([[zhe2]])|wg=che<sup>2</sup>}}
-
-# {{rfdef|cmn|sort=歹04}}
+* {{ja-readings|on=せつ,せち|kun=わかじに}}
