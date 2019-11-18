@@ -128,58 +128,59 @@
 
 ====Readings====
 {{ja-readings
-|goon=と
+|goon=つ
 |kanon=と
 |kanyoon=ど
 |kun=つち-
-|nanori=つ, つく, は, ひじ
+|nanori=ひじ
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|苦%土|く%ど|gloss=magnesia, magnesium oxide}}
-* {{ja-r|土%地|と%ち|gloss=ground; land}}
-* {{ja-r|陶%土|とう%ど|gloss=potter's clay}}
-* {{ja-r|土産|みやげ|gloss=souvenir, present}}
-* {{ja-r|土竜|もぐら|gloss=mole (animal)}}
-* {{ja-r|土%柱|ど%ちゅう|gloss=hoodoo (landform)}}
-* {{ja-r|土%曜%日|ど%よう%び|gloss=Saturday}}
+{{der-top3|Compounds}}
+* {{ja-r|土%柱|ど%ちゅう}}
+* {{ja-r|土曜日|どようび}}
+* {{ja-r|苦土|くど}}
+* {{ja-r|土地|とち}}
+* {{ja-r|陶%土|とう%ど}}
+* {{ja-r|土産|みやげ}}
+* {{ja-r|土竜|もぐら}}
 {{der-bottom}}
-{{ja-kanjitab|つち|yomi=k}}
+
 ===Etymology 1===
-From {{etyl|ojp|ja|sort=つち}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+{{ja-kanjitab|つち|yomi=k|alt=地}}
+From {{inh|ja|ojp|sort=つち|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|つち|acc=2|dev=1|acc_ref=DJR,NHK}}
 
-====Alternative forms====
-* {{ja-l|地}}
-
 ====Noun====
 {{ja-noun|つち}}
 
-# [[earth]]; [[soil]]; [[mud]]
+# [[earth]], [[soil]], [[mud]]
 # the [[ground]]
 
 =====Derived terms=====
-* {{ja-r|土%狼|つち%おおかみ|[[aardwolf]]}}
-* {{ja-r|土%豚|つち%ぶた|[[aardvark]]}}
-* {{ja-r|土を踏む|つち を ふむ|enter the foreign country}}
-* {{ja-r|真%土|ま%つち|good quality soil suitable for cultivation}}
+* {{ja-r|土%狼|つち%おおかみ}}
+* {{ja-r|土豚|つちぶた}}
+* {{ja-r|真%土|ま%つち}}
 
-====References====
-<references/>
+=====Idioms=====
+* {{ja-r|土を踏む|つち を ふむ|tread on the ground → enter a foreign country}}
 
 ===Etymology 2===
-Derived from {{m|ja|土耳古|tr=Toruko|t=Turkey}}
+{{ja-kanjitab|yomi=kanon|と}}
+
+{{rfe|ja|sort=と}}
 
 ====Proper noun====
-{{ja-kanjitab|と}}
 {{ja-pos|proper|と}}
 
-# {{lb|ja|abbreviation}} short notation of [[Turkey]]
+# {{short for|ja|土耳古|tr=Toruko|dot=:|sort=と}} [[Turkey]]
 
 ===Etymology 3===
+{{ja-kanjitab|yomi=kanyo|ど}}
+
+{{rfe|ja|sort=と'}}
 
 ====Pronunciation====
 {{ja-pron|yomi=ky|ど}}
@@ -188,6 +189,9 @@ Derived from {{m|ja|土耳古|tr=Toruko|t=Turkey}}
 {{ja-noun|ど}}
 
 # {{short for|ja|土曜日|tr=doyōbi|dot=:|sort=ど}} [[Saturday]]
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|つち]]
 
