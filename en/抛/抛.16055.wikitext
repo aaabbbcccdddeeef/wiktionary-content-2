@@ -5,10 +5,14 @@
 ===Han character===
 {{Han char|rn=64|rad=手|as=04|sn=7|four=54012|canj=QKNS|ids=⿰扌𠠵}}
 
-====Related characters====
-* {{l|mul|拋}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
+====Derived characters====
+* {{l|mul|[[𠴋]], [[𤽵]]}} {{q|Vietnamese [[Nôm]]}}
+* {{l|mul|𦰖}} {{q|Exception: Only for mainland China glyph. Taiwan glyph contains {{l|mul|⿱[[𥫗]][[拋]]}} instead}}
 
-====References====
+====Related characters====
+* {{l|mul|拋}} {{q|Orthodox form in [[Traditional Chinese]]}}
+
+===Further reading===
 {{Han ref|kx=0422.121|dkj=11901|hdz=31842.020|uh=629B}}
 
 ----
@@ -16,14 +20,15 @@
 ==Chinese==
 {{zh-see|拋|sv}}
 
+===References===
+* {{R:twedu|A01535-001}}
+
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=手04|kyu=拋}}
-
-# to [[hurl]] something
+{{ja-kanji|grade=|rs=手04}}
 
 ====Readings====
 {{ja-readings
@@ -32,30 +37,62 @@
 |kun=なげう-つ
 }}
 
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|抛棄|ほうき}}: [[abandonment]], [[giving up]]; [[renunciation]]
-{{der-bottom}}
+===Etymology===
+{{ja-kanjitab|ほう|yomi=kanon}}
+
+From {{der|ja|ltc|sort=ほう|-}} {{ltc-l|拋}}.
+
+===Pronunciation===
+{{ja-pron|ほう|yomi=kanon}}
+
+===Affix===
+{{ja-pos|affix|ほう|hhira=はう}}
+
+# to [[hurl]] something
 
 ====Usage notes====
-{{ja-toyo-depre|放}}  Particularly:
+{{ja-toyo-depre|放|ほう}}
 
-{{der-top|Terms with [[superseded]] spellings:}}
-* {{m|ja|抛る}} → {{m|ja|放る|tr=hōru||to [[throw]]}}
-* {{m|ja|抛棄}} → {{m|ja|放棄|tr=hōki||[[abandonment]], [[giving up]]; [[renunciation]]}}
-* {{m|ja|抛却}} → {{m|ja|放却|tr=hōkyaku||[[neglect]]}}
-* {{m|ja|抛物線}} → {{m|ja|放物線|tr=hōbutsusen||[[parabola]]}}
-* {{m|ja|抛物線面}} → {{m|ja|放物線面|tr=hōbutsusen-men||[[paraboloid]], a [[3D]] [[surface]] in the shape of a [[parabola]]}}
-* {{m|ja|抛物面}} → {{m|ja|放物面|tr=hōbutsumen||[[paraboloid]], a [[3D]] [[surface]] in the shape of a [[parabola]]}}
-* {{m|ja|抛物面鏡}} → {{m|ja|放物面鏡|tr=hōbutsumen-kyō||[[parabolic]] [[mirror]]}}
-* {{m|ja|抛擲}} → {{m|ja|放擲|tr=hōteki||[[throwing away]]; [[ignoring]], [[neglect]]}}
-{{der-bottom}}
+====Derived terms====
+{{col3-u|ja
+|{{ja-r|抛%棄|ほう%き|[[abandonment]], [[giving up]]; [[renunciation]]}}
+|{{ja-r|抛%却|ほう%きゃく|[[neglect]]}}
+|{{ja-r|抛擲|ほうてき|[[throwing away]]; [[ignoring]], [[neglect]]}}
+|{{ja-r|抛る|ほうる|to [[throw]]}}
+|{{ja-r|抛物線|ほうぶつせん|[[parabola]]}}
+|{{ja-r|抛物面|ほうぶつめん|[[paraboloid]], a [[3D]] [[surface]] in the shape of a [[parabola]]}}
+|{{ja-r|抛物線面|ほうぶつせん-めん|[[paraboloid]], a [[3D]] [[surface]] in the shape of a [[parabola]]}}
+|{{ja-r|抛物面鏡|ほうぶつめん-きょう|[[parabolic]] [[mirror]]}}
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+{{ko-hanja|던지다|던질|포}}
 
-# [[throw]] (away)
+# {{alternative form of|ko|拋||{{hanja form of|포|to [[throw]]}}}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo|47}}
+
+{{categorize|ko|Hanja variant forms|sort=포}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手04
+|hanviet=phao-tdcndg;tdcntd;gdhn;bonet;genibrel
+|phienthiet=披交 phi giao
+|nom=phau-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, phào-tdcndg;tdcntd;gdhn;btcn;bonet, phao-tdcndg;gdhn;bonet;genibrel;taberd
+}}
+
+# {{han tu form of|phao|to [[throw]]; to [[launch]]}}
+# {{Nom form of|phau|{{n-g|used as a [[complementary]] [[syllable]]}}}}
+# {{Nom form of|phào|{{n-g|used as a [[complementary]] [[syllable]]}}}}
+
+===References===
+<references/>
