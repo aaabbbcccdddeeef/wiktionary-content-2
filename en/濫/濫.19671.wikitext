@@ -65,17 +65,50 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=水14}}
 
-# [[overflow]]
-# [[excessive]]; [[superfluous]]
-
 ====Readings====
 {{ja-readings
 |on=らん
 |kun=みだ-れる, みだ-りに
 }}
 
+===Etymology===
+{{ja-kanjitab|らん|yomi=on}}
+
+From {{der|ja|ltc|sort=らん|-}} {{ltc-l|濫|id=2}}.
+
+===Pronunciation===
+{{ja-pron|らん|yomi=on}}
+
+===Affix===
+{{ja-pos|affix|らん}}
+
+# to [[overflow]]
+# [[excessive]]; [[superfluous]]
+
 ====Usage notes====
 {{ja-toyo-depre|乱|らん}}
+
+====Derived terms====
+{{sense|Replaced by {{l|ja|乱}} in modern orthography}}
+{{col3-u|ja
+|{{ja-r|濫獲|らんかく}}
+|{{ja-r|濫作|らんさく}}
+|{{ja-r|濫%訴|らん%そ}}
+|{{ja-r|濫造|らんぞう}}
+|{{ja-r|濫読|らんどく}}
+|{{ja-r|濫入|らんにゅう}}
+|{{ja-r|濫伐|らんばつ}}
+|{{ja-r|濫発|らんぱつ}}
+|{{ja-r|濫%費|らん%ぴ}}
+|{{ja-r|濫用|らんよう}}
+|{{ja-r|濫立|らんりつ}}
+}}
+
+{{sense|Not replaced by {{l|ja|乱}} in modern orthography}}
+{{col3-u|ja
+|{{ja-r|濫%觴|らん%しょう}}
+|{{ja-r|氾濫|はんらん|rom=-}}, {{ja-r|汎濫|はんらん|rom=-}}, {{ja-r|泛濫|はんらん}}
+}}
 
 ----
 
