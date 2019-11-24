@@ -66,23 +66,94 @@ The glyph finally turned back to {{l|zh|木}} + {{l|zh|卯}} in the current form
 {{ja-readings
 |goon=る
 |kanon=りゅう<りう
-|kun=やなぎ-, やい, やぎ, やない
-}}
+|kun=やなぎ-
+|nanori=なぎ, や, やい, やぎ, やな, やない}}
 
 ====Compounds====
-* {{ja-r|花柳|かりゅう}}
-* {{ja-r|川柳|せんりゅう}}, {{ja-r|川柳|かわやなぎ}}, {{ja-r|川柳|かわやぎ}}
-* {{ja-r|柳葉魚|ししゃも}}
+* {{ja-r|川柳|せんりゅう}}
+* {{ja-r|柳葉魚|シシャモ}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=k|やなぎ|alt=楊}}
+{{wp|lang=ja|ヤナギ}}
+{{wp|Willow}}
+
+From {{inh|ja|ojp|-}}.
+
+Appears to be derived from a compound, possibly {{com|ja|sort=やなき|矢|tr1=ya|t1=[[arrow]]|な|tr2=na|pos2=Old Japanese [[apophonic|apophonic]] form of possessive particle {{ja-r|の}}|木|tr3=ki|t3=[[tree]]}}. {{rendaku2|sort=やなき|ki|gi}}
+
+Alternatively the ''ya'' might be from the {{m|ja|字音|tr=jion||[[character]] [[reading]]}} of {{der|ja|ltc|-}} {{ltc-l|楊|[[willow]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|やなぎ|acc=0|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|やなぎ|ヤナギ}}
 
-# [[willow]] (tree)
+# a [[willow]]
+# a [[style]] of {{m|ja|襲の色目|tr=kasane no irome||[[color]] [[combination]] by [[layering]] of [[garment]]s}}, with [[white]] on the [[front]] and [[greenish]]-[[blue]] {{gl|or [[yellowish]]-[[green]]}} on the [[back]]
+# {{short for|ja|柳色|tr=yanagi-iro|dot=:|sort=やなき}} a [[dark]] [[yellow-green]] [[color]], as from a willow [[leaf]]
 
-===Proper noun===
+=====Usage notes=====
+* {{U:ja:biology|ヤナギ}}
+* In some compounds, ''yanagi'' becomes ''yagi''; possibly due to shortening, sound shift{{,}} or direct compound of {{com|ja|矢|tr1=ya|木|tr2=ki}} without the ''na'' element.
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|柳%腰|やなぎ%ごし}}
+* {{ja-r|青柳|あおやぎ}}
+* {{ja-r|糸%柳|いと%やなぎ}}
+* {{ja-r|枝垂れ柳|しだれやなぎ}}
+* {{ja-r|川%柳|カワ%ヤナギ}}, {{ja-r|川柳|かわやぎ}}
+* {{ja-r|猫%柳|ネコ%ヤナギ}}
+{{der-bottom}}
+
+=====Proverbs=====
+* {{ja-r|柳は緑%花は紅|やなぎ は みどり% はな は くれない|willows are green, flowers are red}}
+
+====Proper noun====
 {{ja-pos|proper|やなぎ}}
 
 # {{surname|ja|sort=やなぎ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|りゅう}}
+{{IPAchar|/riu/}} → {{IPAchar|/rjuː/}}
+
+From {{der|ja|ltc|sort=りゆう|-}} {{ltc-l|柳}}.
+
+====Affix====
+{{ja-pos|affix|りゅう|hhira=りう}}
+
+# [[willow]], ''especially'' [[weeping willow]]
+# [[thin]] as a willow [[leaf]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|柳絮|りゅうじょ}}
+* {{ja-r|柳色|りゅうしょく}}
+* {{ja-r|柳%眉|りゅう%び}}
+* {{ja-r|柳腰|りゅうよう}}
+* {{ja-r|柳%緑%花%紅|りゅう%りょく%か%こう}}
+* {{ja-r|花%柳|か%りゅう}}
+* {{ja-r|垂柳|すいりゅう}}
+* {{ja-r|翠柳|すいりゅう}}
+* {{ja-r|蒲%柳|ほ%りゅう}}
+* {{ja-r|楊柳|ようりゅう}}
+{{der-bottom}}
+
+====Proper noun====
+{{wp|lang=ja|柳宿}}
+{{wp|Willow (Chinese constellation)}}
+{{ja-pos|proper|りゅう|hhira=りう}}
+
+# {{lb|ja|sort=りゆう|Chinese astronomy}} the [[willow|Willow]] as one of the [[w:Twenty-Eight Mansions|twenty-eight mansions]]
+#: {{syn|ja|柳宿|tr=Ryūshuku}}
+# {{given name|ja|female}}
+# {{surname|ja|sort=りゆう}}
+
+===References===
+<references/>
 
 [[Category:ja:Trees|やなぎ]]
 
