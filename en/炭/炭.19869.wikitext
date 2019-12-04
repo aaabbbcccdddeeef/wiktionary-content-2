@@ -69,7 +69,7 @@ Derivative: {{zh-l|碳|carbon}}.
 ===Kanji===
 {{ja-kanji|grade=3|rs=火05}}
 
-# [[coal]]
+# a [[coal]] or [[cinder]] from a [[fire]]
 # [[charcoal]]
 
 ====Readings====
@@ -84,23 +84,68 @@ Derivative: {{zh-l|碳|carbon}}.
 * {{ja-r|炭安|たんあん}}: [[ammonium carbonate]]
 * {{ja-r|採炭|さいたん}}
 * {{ja-r|薪炭|しんたん}}
-* {{ja-r|炭化|たんか}}
+* {{ja-r|炭化|たんか}}: [[carbonization]]; [[carbonate]]
 * {{ja-r|炭鉱|たんこう}}
 * {{ja-r|炭酸|たんさん}}
 * {{ja-r|炭素|たんそ}}
 * {{ja-r|炭田|たんでん}}
-* {{ja-r|泥炭|すくも}}, {{ja-r|泥炭|でいたん}}
+* {{ja-r|泥炭|すくも}}, {{ja-r|泥炭|でいたん}}: [[peat]]
 * {{ja-r|木炭|もくたん}}
 {{der-bottom}}
 
-===Etymology===
-{{ja-kanjitab|すみ|yomi=k}}
-From {{inh|ja|ojp|sort=すみ|-}}, from {{inh|ja|jpx-pro|sort=すみ|*sumi}}. Cognate with {{cog|mvi|炭|tr=すむっ, sum}}, {{cog|ryu|炭|tr=しみ, shimi}}, {{cog|rys|炭|tr=しぃん, sïn}}.
+===Etymology 1===
+{{ja-kanjitab|yomi=k|すみ}}
 
-===Noun===
+From {{inh|ja|ojp|sort=すみ|-}}. First appears in 762 {{CE}}. Cognate with {{cog|ja|墨|tr=sumi||[[India ink]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+In turn, from {{inh|ja|jpx-pro|sort=すみ|*sumi}}. Cognate with {{cog|mvi|炭|tr=sum}}, {{cog|ryu|炭|tr=shimi}}, {{cog|rys|炭|tr=sïn}}.
+
+Possibly derived from the [[homophonous]] {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} {{m|ja|済み|tr=sumi}} of verb {{m|ja|済む|tr=sumu||to finish, to conclude}}, from the way that [[cinder]]s are left after a fire has finished burning.
+
+Possibly also related to {{m|ja|煤|tr=susu||[[soot]]}}.
+
+====Pronunciation====
+{{ja-pron|すみ|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
 {{ja-noun|すみ}}
 
+# a [[coal]] or [[cinder]] from a [[fire]]
+#: {{synonyms|ja|消し炭|tr1=keshizumi|q1=literally “extinguished coal/cinder”}}
 # [[charcoal]]
+#: {{synonyms|ja|木炭|tr1=mokutan|q1=literally “wood charcoal”|木炭|tr2=kizumi|q2=rare reading|炭|tr3=tan|q3=very rare as standalone noun; see below}}
+# {{lb|ja|sort=すみ|rare}} [[coal]] {{q|[[fossil fuel]]}}
+#: {{synonyms|ja|石炭|tr1=sekitan|q1=literally “stone charcoal”|石炭|tr2=ishizumi|q2=rare reading|炭|tr3=tan|q3=very rare as standalone noun; see below}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=|たん}}
+
+From {{der|ja|ltc|sort=たん|-}} {{ltc-l|炭}}.
+
+====Pronunciation====
+{{ja-pron|たん}}
+
+====Noun====
+{{ja-noun|たん}}
+
+# {{lb|ja|sort=たん|rare}} [[charcoal]]
+#: {{synonyms|ja|炭|tr1=sumi|q1=more common; see above|木炭|tr2=mokutan|q2=literally “wood charcoal”|木炭|tr3=kizumi|q3=rare reading}}
+# {{lb|ja|sort=たん|rare}} [[coal]] {{q|[[fossil fuel]]}}
+#: {{synonyms|ja|石炭|tr1=sekitan|q1=literally “stone charcoal”|石炭|tr2=ishizumi|q2=rare reading}}
+
+=====Usage notes=====
+This reading is only very rarely used as a standalone noun.  Much more commonly encountered in compounds.
+
+====Proper noun====
+{{ja-pos|proper|たん}}
+
+# {{surname|ja|sort=たん|A=a}}
+
+===References===
+<references/>
+
+===Further reading===
+* [http://gogen-allguide.com/su/sumi.html Entry in Gogen-Allguide] (in Japanese)
 
 ----
 
