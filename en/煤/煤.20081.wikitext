@@ -59,8 +59,6 @@
 ===Kanji===
 {{ja-kanji|rs=火09}}
 
-# [[soot]]
-
 ====Readings====
 {{ja-readings
 |goon=まい, め
@@ -69,38 +67,28 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|煤煙|ばいえん}}
-* {{ja-r|煤%気|ばい%き}}
-* {{ja-r|煤塵|ばいじん}}
-* {{ja-r|煤炭|ばいたん}}
-* {{ja-r|煙煤|えんばい}}
 * {{ja-r|漢冶萍 煤鉄 公%司|^かん-^や-^ひょう ^ばいてつ ^コン%ス}}
-* {{ja-r|麝煤|じゃばい}}
-{{der-bottom}}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|すす|yomi=k}}
 
-From {{inh|ja|ojp|sort=|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+From {{inh|ja|ojp|sort=|-}}.
 
 Possibly related to {{m|ja|炭|tr=sumi||[[cinder]]; [[charcoal]]}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|すす|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|すす|スス}}
 
-# [[soot]]
-# soot and [[dust]] [[accumulate]]d in [[ceiling]]s, etc.
-# {{short for|ja|煤色|tr=susuiro|nodot=1|sort=すす}}: the [[color]] of soot
+# [[soot]] {{gl|[[fine]] [[particle]]s of [[amorphous]] [[carbon]] and [[tar]]}}
+# [[sooted]] [[dirt]] or [[dust]] [[accumulate]]d in [[ceiling]]s, [[walls]], etc.
+# {{short for|ja|煤色|tr=susuiro|nodot=1|sort=すす}}: a [[shade]] of [[black]] as in the [[color]] of soot
 
-====Derived terms====
-{{der-top}}
-* {{ja-r|煤す|すす}}
-* {{ja-r|煤く|すすく}}
-** {{ja-r|煤ける|すすける}}
+=====Derived terms=====
+{{der-top4}}
+* {{ja-r|煤ける|すすける}}
 * {{ja-r|煤ぶ|すすぶ}}
 ** {{ja-r|煤ばむ|すすばむ}}
 ** {{ja-r|煤びる|すすびる}}
@@ -127,6 +115,26 @@ Possibly related to {{m|ja|炭|tr=sumi||[[cinder]]; [[charcoal]]}}.
 * {{ja-r|煤%谷|^すす%や}}
 * {{ja-r|煤%湯|すす%ゆ}}
 * {{ja-r|煮%煤|に%すす}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=kanon|ばい}}
+From {{der|ja|ltc|sort=はい'|-}} {{ltc-l|煤}}.
+
+====Affix====
+{{ja-pos|affix|ばい}}
+
+# [[soot]]
+# [[coal]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|煤煙|ばいえん}}
+* {{ja-r|煤%気|ばい%き}}
+* {{ja-r|煤塵|ばいじん}}
+* {{ja-r|煤炭|ばいたん}}
+* {{ja-r|煙煤|えんばい}}
+* {{ja-r|麝煤|じゃばい}}
 {{der-bottom}}
 
 ===References===
@@ -157,18 +165,45 @@ Possibly related to {{m|ja|炭|tr=sumi||[[cinder]]; [[charcoal]]}}.
 }}
 
 ===Etymology===
+{{ryu-kanjitab|yomi=k|しーし}}
 Cognate with {{cog|ja|煤|tr=susu}}.
 
 ===Pronunciation===
-* {{IPA|ryu|/ɕiːɕi/|sort=しいし}}
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} し{{ja-accent/high|ーし}} <tt>[shìíshí]</tt> ({{ll|ja|平板型|Heiban}} - [0])<ref>{{R:Shuri-Naha Dialect Dictionary|シーシ|SN16477}}</ref>
+* {{IPA|ryu|[ɕiːɕi]|sort=しいし}}
 
 ===Noun===
 {{ryu-noun|しーし}}
 
-# [[soot]]
+# [[soot]] {{gl|[[fine]] [[particle]]s of [[amorphous]] [[carbon]] and [[tar]]}}
+
+===References===
+<references/>
 
 ----
 
+==Old Japanese==
+
+===Etymology===
+{{rfe|ojp|sort=すす}}
+
+===Noun===
+{{head|ojp|noun|tr=susu|kana|すす|sort=すす}}
+
+# [[soot]] {{gl|[[fine]] [[particle]]s of [[amorphous]] [[carbon]] and [[tar]]}}
+#* {{RQ:Kojiki|''[[w:Kuni-yuzuri|Kuni-yuzuri]]''}}
+#*: {{ux|ojp|...登陀流天之新巢之'''凝烟'''<sub>訓凝姻云'''州須'''</sub>之八拳垂[[まで|摩弖]]燒擧<sub>麻弖二字以音</sub>|...in {{smallcaps|Takama-nö-para}} the '''soot''' ({{lang|ja|凝姻}} is read as '''''susu''''') hangs down eight hands long (the two characters {{lang|ja|摩弖}} are pronounced ''made'').<ref>{{cite-book|2015|Donald L. Philippi|Kojiki|series=Princeton Legacy Library|publisher=Princeton University Press|isbn=9781400878000|page=136}}</ref>}}
+
+====Derived terms====
+* {{m|ojp|煤す|tr=susu||to be [[stained]] with [[soot]]}}
+
+====Descendants====
+* {{desc|ja|煤|tr=susu}}
+
+===References===
+<references/>
+
+----
 ==Vietnamese==
 
 ===Han character===
@@ -187,9 +222,9 @@ Cognate with {{cog|ja|煤|tr=susu}}.
 Cognate with {{cog|ja|煤|tr=susu}}.
 
 ===Pronunciation===
-* {{IPA|yoi|/t͡ɕit͡ɕi/|sort=ちち}}
+* {{IPA|yoi|[t͡ɕit͡ɕi]|sort=ちち}}
 
 ===Noun===
 {{head|yoi|noun|hiragana|ちち|romaji|chichi|sort=ちち}}
 
-# [[soot]]
+# [[soot]] {{gl|[[fine]] [[particle]]s of [[amorphous]] [[carbon]] and [[tar]]}}
