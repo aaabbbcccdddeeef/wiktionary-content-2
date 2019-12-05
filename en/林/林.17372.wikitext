@@ -76,27 +76,44 @@ Or perhaps an area word ({{zh-ref|Schuessler, 2007}}), shared with {{cog|km|រ�
 ===Kanji===
 {{ja-kanji|grade=1|rs=木04}}
 
-# [[woods]]; [[grove]]; [[forest]]; [[copse]]
-
 ====Readings====
 {{ja-readings
 |goon=りん<りん<りむ
 |kanon=りん<りん<りむ
-|kun=はやし-, おお-い
+|kun=はやし-, おお-い<おほ-い
+|nanori=き, きみ, しげ, しげる, とき, ふさ, もと, もり, よし
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|林檎|りんご}}: [[apple]] (fruit, tree)
-{{der-bottom}}
+* {{ja-r|林%檎|りん%ご|[[apple]]}}
+* {{ja-r|少林|^しょうりん}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=k|はやし}}
+
+From {{inh|ja|ojp|sort=はやし|-}}.
+
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|生やす|tr=hayasu||to [[grow]]}}.
+
+====Pronunciation====
+{{ja-pron|y=k|はやし|acc=3|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
 {{ja-noun|はやし}}
 
-# [[woods]]
+# a [[grove]], [[woods]], [[copse]]
+# {{lb|ja|sort=はやし|figurative}} a [[forest]] of something
 
-====Synonyms====
-* {{ja-r|森|もり}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|梅%林|うめ%ばやし}}
+* {{ja-r|小%林|^こ%ばやし}}
+* {{ja-r|竹%林|たけ%ばやし}}
+* {{ja-r|松%林|まつ%ばやし}}
+{{der-bottom}}
+
+====See also====
+* {{ja-r|森|もり|[[forest]]|pos=generally larger than a ''hayashi''}}
 
 ===Proper noun===
 {{ja-pos|proper|はやし}}
@@ -104,15 +121,59 @@ Or perhaps an area word ({{zh-ref|Schuessler, 2007}}), shared with {{cog|km|រ�
 # {{surname|ja}}
 # {{given name|ja|female}}
 
-===Proper noun===
+===Etymology 2===
+{{ja-kanjitab|yomi=o|りん}}
+{{IPAchar|/rimʉ/}} → {{IPAchar|/riɴ/}}
+
+From {{der|ja|ltc|sort=りん|-}} {{ltc-l|林}}.
+
+====Affix====
+{{ja-pos|affix|りん}}
+
+# [[grove]], [[forest]], [[woods]], [[copse]]
+# [[gathering]]
+# [[line up|lined up]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|林間|りんかん}}
+* {{ja-r|林業|りんぎょう}}
+* {{ja-r|林道|りんどう}}
+* {{ja-r|林%野|りん%や}}
+* {{ja-r|林立|りんりつ}}
+* {{ja-r|学林|がくりん}}
+* {{ja-r|翰林|かんりん}}
+* {{ja-r|芸林|げいりん}}
+* {{ja-r|原生林|げんせいりん}}
+* {{ja-r|混交林|こんこうりん}}
+* {{ja-r|山林|さんりん}}
+* {{ja-r|辞%林|じ%りん}}
+* {{ja-r|樹林|じゅりん}}
+* {{ja-r|純林|じゅんりん}}
+* {{ja-r|書林|しょりん}}
+* {{ja-r|松林|しょうりん}}
+* {{ja-r|植林|しょくりん}}
+* {{ja-r|僧林|そうりん}}
+* {{ja-r|森林|しんりん}}
+* {{ja-r|疎%林|そ%りん}}
+* {{ja-r|造林|ぞうりん}}
+* {{ja-r|竹林|ちくりん}}
+* {{ja-r|梅林|ばいりん}}
+* {{ja-r|密林|みつりん}}
+{{der-bottom}}
+
+====Proper noun====
 {{ja-pos|proper|りん}}
 
 # {{surname|ja}}
 # {{lb|ja|rare}} {{given name|ja|female}}
 
-====Usage notes====
-As a surname, this reading is more often used by people of Chinese ancestry, since it is similar to the Mandarin Chinese reading of Lín.
+=====Usage notes=====
+As a surname, this reading is more often used by people of Chinese ancestry, since it is similar to the {{ncog|cmn|-}} {{ncog|zh|-}} reading of ''Lín''.
 
+===References===
+
+<references/>
 [[Category:Japanese female given names|はやし]]
 [[Category:Japanese male given names|はやし]]
 [[Category:Japanese surnames|はやし]]
