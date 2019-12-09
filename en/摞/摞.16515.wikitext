@@ -11,15 +11,16 @@
 
 ----
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=𢴱}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|手|累|ls=psc|c1=s|c2=p|t1=hand}}.
 
 ===Pronunciation===
 {{zh-pron
-|m=luò,luó
-|c=lo3,lo6
+|m=luò,luó,1nb=standard,2nb=variant
+|c=lo3,lo4
 |mc=y
 |oc=y
 |cat=v,n
@@ -28,9 +29,13 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# to [[stack]]; to [[pile]] [[up]]
-# {{zh-classifier|[[piles]] and [[stacks]]|t=[[stack]]}}
-# {{zh-div|管}} to [[masturbate]]
+# to [[stack]]; to [[pile up]]
+# {{zh-classifier|objects in a [[pile]] or [[stack]]|t=[[pile]]; [[stack]]}}
+#: {{zh-x|一 摞 碗|a '''stack''' of bowls}}
+
+===Compounds===
+{{zh-der|摞管}}
+
 ----
 
 ==Vietnamese==
