@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=08|sn=10|four=27220|canj=OBGR|ids=⿰亻周}}
 
 ====References====
-* {{Han ref|kx=0108.070|dkj=00778|dj=0230.030|hdz=10181.070|uh=501C|ud=20508|bh=D0D7|bd=53463}}
+{{Han ref|kx=0108.070|dkj=00778|dj=0230.030|hdz=10181.070|uh=501C}}
 
 ----
 
@@ -78,14 +78,17 @@
 # {{rfdef|ja|sort=人08}}
 
 ====Readings====
-* {{ja-readings|on=[[てき]] (teki), [[ちゃく]] (chaku), [[ちゅう]] (chū), [[ちゅ]] (chu)|kun=[[すぐれる]] (sugureru), [[おろか]] (oroka), [[そむく]] (somuku)}}
+{{ja-readings
+|on=てき, ちゃく, ちゅう, ちゅ
+|kun=すぐれる, おろか, そむく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=척|rv=cheok|mr=ch'ŏk}}
+{{ko-hanja|척}}
 
 # {{rfdef|ko|sort=人08}}
 
@@ -94,6 +97,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thích]]|rs=人08}}
+{{vi-readings|reading=[[thích]]|rs=人08}}
 
 # {{rfdef|vi|sort=人08}}
