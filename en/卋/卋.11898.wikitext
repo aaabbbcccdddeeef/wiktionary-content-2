@@ -5,7 +5,7 @@
 {{Han char|rn=24|rad=十|as=04|sn=6|four=|canj=JT,XJT|ids=⿱十廿}}
 
 ====References====
-* {{Han ref|kx=0156.120|dkj=02714|dj=0355.110|hdz=10060.090|uh=534B|ud=21323}}
+{{Han ref|kx=0156.120|dkj=02714|dj=0355.110|hdz=10060.090|uh=534B}}
 
 ----
 
@@ -22,14 +22,17 @@
 # {{rfdef|ja|sort=十04}}
 
 ====Readings====
-* {{ja-readings|on=[[せい]] (sei)|kun=[[よ]] (yo)}}
+{{ja-readings
+|on=せい
+|kun=よ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=세|rv=se|mr=se}}
+{{ko-hanja|세}}
 
 # {{rfdef|ko|sort=十04}}
 
@@ -38,6 +41,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thế]]|rs=十04}}
+{{vi-readings|reading=[[thế]]|rs=十04}}
 
 # {{rfdef|vi|sort=十04}}
