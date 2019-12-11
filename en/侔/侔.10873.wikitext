@@ -7,7 +7,7 @@
 # [[equal]]
 
 ====References====
-* {{Han ref|kx=0102.080|dkj=00597|dj=0216.070|hdz=10154.130|uh=4F94|ud=20372|bh=CBC6|bd=52166}}
+{{Han ref|kx=0102.080|dkj=00597|dj=0216.070|hdz=10154.130|uh=4F94}}
 
 ----
 
@@ -46,14 +46,17 @@
 # {{rfdef|ja|sort=人06}}
 
 ====Readings====
-* {{ja-readings|on=[[ぼう]] (bō), [[む]] (mu)|kun=[[ひとしい]] (hitoshii), [[そろう]] (sorou), [[したがう]] (shitagau), [[つとめる]] (tsutomeru), [[とる]] (toru), [[はかる]] (hakaru)}}
+{{ja-readings
+|on=ぼう, む
+|kun=ひとしい, そろう, したがう, つとめる, とる, はかる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=모|rv=mo|mr=mo}}
+{{ko-hanja|모}}
 
 # {{rfdef|ko|sort=人06}}
 
@@ -62,7 +65,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[mầu]], [[mâu]]|rs=人06}}
+{{vi-readings|reading=[[mầu]], [[mâu]]|rs=人06}}
 
 # {{rfdef|vi|sort=人06}}
 
