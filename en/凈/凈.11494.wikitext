@@ -45,7 +45,10 @@
 # {{alt form|ja|浄}} <ref name="gakken">{{cite-book|year=2002|author=Akiyasu Tōdō [''et al.'']|title=漢字源|ISBN=978-4053008893|passage=浄 凈淨}}</ref>
 
 ====Readings====
-* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō)|kun=[[ひややかなさま]] (hiyayakanasama)}}
+{{ja-readings
+|on=そう, しょう
+|kun=ひややかなさま
+}}
 
 ====References====
 <references/>
@@ -55,7 +58,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=정|rv=jeong|mr=chŏng}}
+{{ko-hanja|정}}
 
 # {{rfdef|ko|sort=冫08}}
 
@@ -64,7 +67,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tĩnh]], [[tịnh]]|rs=冫08}}
+{{vi-readings|reading=[[tĩnh]], [[tịnh]]|rs=冫08}}
 
 # {{rfdef|vi|sort=冫08}}
 
