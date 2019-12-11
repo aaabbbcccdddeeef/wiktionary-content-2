@@ -7,7 +7,7 @@
 {{Han char|rn=19|rad=力|as=17|sn=19|four=44227|canj=TGKS|ids=⿰雚力}}
 
 ====References====
-* {{Han ref|kx=0150.120|dkj=02486|dj=0338.200|hdz=10382.180|uh=52F8|ud=21240|bh=C455|bd=50261}}
+{{Han ref|kx=0150.120|dkj=02486|dj=0338.200|hdz=10382.180|uh=52F8}}
 
 ----
 
@@ -54,14 +54,19 @@
 # {{rfdef|ja|sort=力17}}
 
 ====Readings====
-* {{ja-readings|goon=[[こん]] (kon)|kanon=[[けん]] (ken)|kanyoon=[[かん]] (kan)|kun=[[すすめる]] (susumeru)}}
+{{ja-readings
+|goon=こん
+|kanon=けん
+|kanyoon=かん
+|kun=すすめる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=권|rv=gwon|mr=kwŏn}}
+{{ko-hanja|권}}
 
 # {{rfdef|ko|sort=力17}}
 
@@ -70,6 +75,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[khuyến]], [[khuyên]]|rs=力17}}
+{{vi-readings|reading=[[khuyến]], [[khuyên]]|rs=力17}}
 
 # {{rfdef|vi|sort=力17}}
