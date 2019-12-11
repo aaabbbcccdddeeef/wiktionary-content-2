@@ -9,7 +9,7 @@
 * {{lang|und|sc=Hani|[[拐]]}},<!-- Japanese form slightly simplified --> [[柺]]
 
 ====References====
-* {{Han ref|kx=0172.010|dkj=03235|dj=0382.030|hdz=10574.050|uh=53E6|ud=21478|bh=A574|bd=42356}}
+{{Han ref|kx=0172.010|dkj=03235|dj=0382.030|hdz=10574.050|uh=53E6}}
 
 ----
 
@@ -59,14 +59,17 @@ Thought to be a {{liushu|p}} or {{Han compound|口|t1=|力|ls=ic}}.
 # {{rfdef|ja|sort=口02}}
 
 ====Readings====
-* {{ja-readings|on=[[れい]] (rei), [[りゃう]] (ryau)|kun=[[わかれる]] (wakareru), [[さく]] (saku), [[べつの]] (betsuno), [[べつに]] (betsuni)}}
+{{ja-readings
+|on=れい, りゃう
+|kun=わかれる, さく, べつの, べつに
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=령|rv=ryeong|mr=ryŏng}}
+{{ko-hanja|령}}
 
 # {{rfdef|ko|sort=口02}}
 
@@ -75,7 +78,7 @@ Thought to be a {{liushu|p}} or {{Han compound|口|t1=|力|ls=ic}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[lánh]], [[lính]], [[liếng]], [[tránh]]|rs=口02}}
+{{vi-readings|reading=[[lánh]], [[lính]], [[liếng]], [[tránh]]|rs=口02}}
 
 # {{rfdef|vi|sort=口02}}
 
