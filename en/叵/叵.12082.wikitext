@@ -5,7 +5,7 @@
 {{Han char|rn=30|rad=口|as=02|sn=5|four=71716|canj=SR|ids=⿷匚口}}
 
 ====References====
-* {{Han ref|kx=0173.090|dkj=03254|dj=0385.050|hdz=10082.030|uh=53F5|ud=21493|bh=A572|bd=42354}}
+{{Han ref|kx=0173.090|dkj=03254|dj=0385.050|hdz=10082.030|uh=53F5}}
 
 ----
 
@@ -46,14 +46,17 @@ A mirror image of {{l|zh|可}}.
 # cannot, be unable to
 
 ====Readings====
-* {{ja-readings|on=[[は]] (ha)|kun=[[できない]] (dekinai), [[すこぶる]] (sukoburu), [[ついに]] (tsuini)}}
+{{ja-readings
+|on=は
+|kun=できない, すこぶる, ついに
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=파|rv=pa|mr=p'a}}
+{{ko-hanja|파}}
 
 # {{rfdef|ko|sort=口02}}
 
@@ -62,6 +65,6 @@ A mirror image of {{l|zh|可}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[phả]]|rs=口02}}
+{{vi-readings|reading=[[phả]]|rs=口02}}
 
 # {{rfdef|vi|sort=口02}}
