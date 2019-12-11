@@ -5,7 +5,7 @@
 {{Han char|rn=18|rad=刀|as=03|sn=5|four=42300|canj=DILN|ids=⿰寸刂}}
 
 ====References====
-* {{Han ref|kx=0136.210|dkj=01870|dj=0308.010|hdz=10324.020|uh=520C|ud=21004|bh=C96B|bd=51563}}
+{{Han ref|kx=0136.210|dkj=01870|dj=0308.010|hdz=10324.020|uh=520C}}
 
 ----
 
@@ -40,14 +40,17 @@
 # {{rfdef|ja|sort=刀03}}
 
 ====Readings====
-{{ja-readings|on=[[そん]] (son), [[せん]] (sen)|kun=[[きる]] (kiru), [[たつ]] (tatsu), [[さく]] (saku)}}
+{{ja-readings
+|on=そん, せん
+|kun=きる, たつ, さく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=촌|rv=chon|mr=ch'on}}
+{{ko-hanja|촌}}
 
 # {{rfdef|ko|sort=刀03}}
 
@@ -56,6 +59,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thổn]], [[thon]]|rs=刀03}}
+{{vi-readings|reading=[[thổn]], [[thon]]|rs=刀03}}
 
 # {{rfdef|vi}}
