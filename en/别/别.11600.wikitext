@@ -6,7 +6,7 @@
 {{Han char|rn=18|rad=刀|as=05|sn=7|four=|canj=RSLN,XRSLN|ids=⿰另刂}}
 
 ====References====
-* {{Han ref|kx=0138.281|dkj=01925|hdz=10328.130|uh=522B}}
+{{Han ref|kx=0138.281|dkj=01925|hdz=10328.130|uh=522B}}
 
 ----
 
@@ -33,7 +33,10 @@ Officially adopted as the simplified form of {{zh-l|*彆}} in the ''Chinese Char
 # {{alternative form of|ja|別}}
 
 ====Readings====
-* {{ja-readings|on=[[べつ]] (betsu), [[べち]] (bechi)|kun=[[わかれる]] (wakareru), [[わける]] (wakeru), [[わかれ]] (wakare)}}
+{{ja-readings
+|on=べつ, べち
+|kun=わかれる, わける, わかれ
+}}
 
 ===References===
 * {{R:Koseki Moji|022700}}
@@ -43,7 +46,7 @@ Officially adopted as the simplified form of {{zh-l|*彆}} in the ''Chinese Char
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=별|rv=byeol|mr=pyŏl}}
+{{ko-hanja|별}}
 
 # {{rfdef|ko|sort=刀05}}
 
@@ -52,6 +55,6 @@ Officially adopted as the simplified form of {{zh-l|*彆}} in the ''Chinese Char
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[biệt]]|rs=刀05}}
+{{vi-readings|reading=[[biệt]]|rs=刀05}}
 
 # {{rfdef|vi|sort=刀05}}
