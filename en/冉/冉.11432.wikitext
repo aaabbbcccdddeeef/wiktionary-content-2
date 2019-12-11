@@ -6,7 +6,7 @@
 {{Han char|rn=13|rad=冂|as=03|sn=5|four=50557|canj=GB|ids=⿻冂土}}
 
 ====References====
-* {{Han ref|kx=0128.360|dkj=01514|dj=0289.190|hdz=10099.030|uh=5189|ud=20873|bh=A554|bd=42324}}
+{{Han ref|kx=0128.360|dkj=01514|dj=0289.190|hdz=10099.030|uh=5189}}
 
 ----
 
@@ -59,7 +59,11 @@
 # {{rfdef|ja|sort=冂03}}
 
 ====Readings====
-* {{ja-readings|goon=[[ねん]] (nen)|kanon=[[ぜん]] (zen)|kun=[[よわい]] (yowai)}}
+{{ja-readings
+|goon=ねん
+|kanon=ぜん
+|kun=よわい
+}}
 
 ----
 
@@ -75,6 +79,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[nhiễm]]|rs=冂03}}
+{{vi-readings|reading=[[nhiễm]]|rs=冂03}}
 
 # {{rfdef|vi|sort=冂03}}
