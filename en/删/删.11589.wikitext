@@ -9,7 +9,7 @@
 # [[delete]]
 
 ====References====
-* {{Han ref|kx=0138.040|hdz=10330.070|uh=5220|ud=21024}}
+{{Han ref|kx=0138.040|hdz=10330.070|uh=5220}}
 
 ----
 
@@ -26,14 +26,17 @@
 # {{rfdef|ja|sort=刀05}}
 
 ====Readings====
-* {{ja-readings|on=[[さん]] (san)|kun=[[けずる]] (kezuru)}}
+{{ja-readings
+|on=さん
+|kun=けずる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=산|rv=san|mr=san}}
+{{ko-hanja|산}}
 
 # {{rfdef|ko|sort=刀05}}
 
@@ -42,6 +45,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[san]]|rs=刀05}}
+{{vi-readings|reading=[[san]]|rs=刀05}}
 
 # {{rfdef|vi|sort=刀05}}
