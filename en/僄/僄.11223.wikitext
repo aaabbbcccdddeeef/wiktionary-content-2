@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=11|sn=13|four=21291|canj=OMWF|ids=⿰亻票}}
 
 ====References====
-* {{Han ref|kx=0115.190|dkj=01047|dj=0246.070|hdz=10210.010|uh=50C4|ud=20676|bh=DCB8|bd=56504}}
+{{Han ref|kx=0115.190|dkj=01047|dj=0246.070|hdz=10210.010|uh=50C4}}
 
 ----
 
@@ -52,14 +52,17 @@
 # [[airy]]
 
 ====Readings====
-* {{ja-readings|on=[[ひょう]] (hyō)|kun=[[かるい]] (karui), [[かろんずる]] (karonzuru), [[すばやい]] (subayai)}}
+{{ja-readings
+|on=ひょう
+|kun=かるい, かろんずる, すばやい
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=표|rv=pyo|mr=p'yo}}
+{{ko-hanja|표}}
 
 # [[light]]
 # [[airy]]
@@ -69,6 +72,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[xỉu]]|rs=人11}}
+{{vi-readings|reading=[[xỉu]]|rs=人11}}
 
 # {{rfdef|vi|sort=人11}}
