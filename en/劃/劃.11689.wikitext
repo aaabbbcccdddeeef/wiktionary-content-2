@@ -6,7 +6,7 @@
 {{Han char|rn=18|rad=刀|as=12|sn=14|four=52100|canj=LMLN|ids=⿰畫刂}}
 
 ====References====
-* {{Han ref|kx=0144.100|dkj=02193|dj=0325.060|hdz=10356.080|uh=5283|ud=21123|bh=B9BA|bd=47546}}
+{{Han ref|kx=0144.100|dkj=02193|dj=0325.060|hdz=10356.080|uh=5283}}
 
 ----
 
@@ -55,7 +55,10 @@
 {{ja-kanji|grade=|rs=刀12}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku)|kun=[[わかつ]] (wakatsu)}}
+{{ja-readings
+|on=かく
+|kun=わかつ
+}}
 
 ====Compounds====
 * {{ja-r|劃然|かくぜん}}
@@ -73,7 +76,7 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=획|rv=hoek|mr=hoek|y=hoyk}}
+{{ko-hanja|획}}
 Eumheun: 그을 획
 [[Chungcheong Dialect]]: 혹(Hok)
 
@@ -93,6 +96,6 @@ Eumheun: 그을 획
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[vạch]], [[hoạch]], [[đạch]], [[gạch]], [[hoa]]|rs=刀12}}
+{{vi-readings|reading=[[vạch]], [[hoạch]], [[đạch]], [[gạch]], [[hoa]]|rs=刀12}}
 
 # {{rfdef|vi|sort=刀12}}
