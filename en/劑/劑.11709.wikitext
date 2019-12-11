@@ -10,7 +10,7 @@
 * [[剤]] [[剂]]
 
 ====References====
-* {{Han ref|kx=0145.060|dkj=02241|dj=0326.110|hdz=10361.050|uh=5291|ud=21137|bh=BEAF|bd=48815}}
+{{Han ref|kx=0145.060|dkj=02241|dj=0326.110|hdz=10361.050|uh=5291}}
 
 ----
 
@@ -72,14 +72,17 @@ From {{och-l|齊|orderly}}.
 # {{rfdef|ja|sort=刀14}}
 
 ====Readings====
-* {{ja-readings|on=[[ざい]] (zai), [[せい]] (sei), [[すい]] (sui)|kun=[[かる]] (karu), [[けずる]] (kezuru)}}
+{{ja-readings
+|on=ざい, せい, すい
+|kun=かる, けずる
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=제|rv=je|mr=che}}
+{{ko-hanja|제}}
 
 # {{rfdef|ko|sort=刀14}}
 
@@ -88,6 +91,6 @@ From {{och-l|齊|orderly}}.
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tễ]], [[xẻ]]|rs=刀14}}
+{{vi-readings|reading=[[tễ]], [[xẻ]]|rs=刀14}}
 
 # {{rfdef|vi|sort=刀14}}
