@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=09|sn=11|four=22214|canj=OHJG|ids=⿰亻重}}
 
 ====References====
-* {{Han ref|kx=0109.240|dkj=00832|dj=0233.130|hdz=10192.030|uh=5045|ud=20549|bh=D45C|bd=54364}}
+{{Han ref|kx=0109.240|dkj=00832|dj=0233.130|hdz=10192.030|uh=5045}}
 
 ----
 
@@ -53,14 +53,17 @@
 # {{rfdef|ja|sort=人09}}
 
 ====Readings====
-* {{ja-readings|on=[[しょう]] (shō), [[しゅ]] (shu), [[とう]] (tō)|kun=[[こども]] (kodomo)}}
+{{ja-readings
+|on=しょう, しゅ, とう
+|kun=こども
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=동|rv=dong|mr=tong}}
+{{ko-hanja|동}}
 
 # {{rfdef|ko|sort=人09}}
 
@@ -69,6 +72,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[chổng]]}}
+{{vi-readings|reading=[[chổng]]}}
 
 # {{rfdef|vi|sort=人09}}
