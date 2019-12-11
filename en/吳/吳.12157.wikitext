@@ -7,7 +7,7 @@
 {{Han char|rn=30|rad=口|as=04|sn=7|four=26801|canj=RVNK|ids=⿺⿱𠃑大口}}
 
 ====References====
-* {{Han ref|kx=0179.040|dkj=03365|dj=0396.150|hdz=10595.080|uh=5433|ud=21555|bh=A764|bd=42852}}
+{{Han ref|kx=0179.040|dkj=03365|dj=0396.150|hdz=10595.080|uh=5433}}
 
 ----
 
@@ -16,7 +16,7 @@
 {{zh-wp|zh|yue|lzh|nan:Ngô͘ (sèⁿ)|wuu:吴}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{Han compound|口|夨|ls=ic|t1=mouth|t2=man with tilted head}} – to speak loudly.
 
 ===Etymology 1===
@@ -92,7 +92,10 @@ Perhaps related to {{cog|bo|ངར་སྐད||roar; shout}}, {{cog|bo|ང་�
 # {{rfdef|ja|sort=口04}}
 
 ====Readings====
-* {{ja-readings|on=[[ご]] (go)|kun=[[くれ]] (kure), [[くれる]] (kureru)}}
+{{ja-readings
+|on=ご
+|kun=くれ, くれる
+}}
 
 1) Pronunciations of Kanji from before the 7th / 8th centuries. Possibly from the Korean peninsula or southern China. Often used in Buddhist texts.
 
@@ -113,6 +116,6 @@ This character lacks JIS support. The character [[呉]] (U+5449) is used instead
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[ngô]], [[ngo]]|rs=口04}}
+{{vi-readings|reading=[[ngô]], [[ngo]]|rs=口04}}
 
 # {{rfdef|vi|sort=口04}}
