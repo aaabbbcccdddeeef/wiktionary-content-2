@@ -7,7 +7,7 @@
 # used in [[old]] [[name]]s
 
 ====References====
-* {{Han ref|kx=0113.170|dkj=00963|dj=0241.070|hdz=10206.090|uh=5095|ud=20629|bh=D852|bd=55378}}
+{{Han ref|kx=0113.170|dkj=00963|dj=0241.070|hdz=10206.090|uh=5095}}
 
 ----
 
@@ -39,14 +39,16 @@
 # {{rfdef|ja|sort=人10}}
 
 ====Readings====
-* {{ja-readings|on=[[かく]] (kaku)|kun=}}
+{{ja-readings
+|on=かく
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=각|rv=gak|mr=kak}}
+{{ko-hanja|각}}
 
 # {{rfdef|ko|sort=人10}}
 
@@ -55,6 +57,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[thôi]], [[thòi]]|rs=人10}}
+{{vi-readings|reading=[[thôi]], [[thòi]]|rs=人10}}
 
 # {{rfdef|vi}}
