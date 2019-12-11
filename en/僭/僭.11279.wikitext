@@ -8,7 +8,7 @@
 # [[assume]], [[usurp]]
 
 ====References====
-* {{Han ref|kx=0117.260|dkj=01128|dj=0249.100|hdz=10218.050|uh=50ED|ud=20717|bh=B9B0|bd=47536}}
+{{Han ref|kx=0117.260|dkj=01128|dj=0249.100|hdz=10218.050|uh=50ED}}
 
 ----
 
@@ -48,7 +48,10 @@
 # {{rfdef|ja|sort=人12}}
 
 ====Readings====
-* {{ja-readings|on=[[せん]] (sen), [[しん]] (shin)|kun=[[おごる]] (ogoru)}}
+{{ja-readings
+|on=せん, しん
+|kun=おごる
+}}
 
 ----
 
@@ -64,6 +67,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tiếm]]|rs=人12}}
+{{vi-readings|reading=[[tiếm]]|rs=人12}}
 
 # {{rfdef|vi|sort=人12}}
