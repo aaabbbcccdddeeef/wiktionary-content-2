@@ -7,7 +7,7 @@
 # [[make]] into [[mince]]
 
 ====References====
-* {{Han ref|kx=0145.440|dkj=02281|dj=0327.260|hdz=10363.080|uh=5298|ud=21144|bh=F5C2|bd=62914}}
+{{Han ref|kx=0145.440|dkj=02281|dj=0327.260|hdz=10363.080|uh=5298}}
 
 ----
 
@@ -44,14 +44,17 @@
 # {{rfdef|ja|sort=刀19}}
 
 ====Readings====
-* {{ja-readings|on=ば,ま,び,み|kun=けずる,する,わける}}
+{{ja-readings
+|on=ば, ま, び, み
+|kun=けずる, する, わける
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=마|rv=ma|mr=ma}}
+{{ko-hanja|마}}
 
 # {{rfdef|ko|sort=刀19}}
 
@@ -60,6 +63,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|mi|rs=刀19}}
+{{vi-readings|reading=mi|rs=刀19}}
 
 # {{rfdef|vi|sort=刀19}}
