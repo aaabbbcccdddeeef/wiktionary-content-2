@@ -5,7 +5,7 @@
 {{Han char|rn=30|rad=口|as=04|sn=7|four=63010|canj=RIHU|ids=⿰口允}}
 
 ====References====
-* {{Han ref|kx=0178.200|dkj=03356|dj=0396.060|hdz=10597.040|uh=542E|ud=21550|bh=A76D|bd=42861}}
+{{Han ref|kx=0178.200|dkj=03356|dj=0396.060|hdz=10597.040|uh=542E}}
 
 ----
 
@@ -47,14 +47,17 @@
 # {{rfdef|ja|sort=口04}}
 
 ====Readings====
-* {{ja-readings|on=[[せん]] (sen), [[しゅん]] (shun)|kun=[[すう]] (suu)}}
+{{ja-readings
+|on=せん, しゅん
+|kun=すう
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}
+{{ko-hanja|전}}
 
 # {{rfdef|ko|sort=口04}}
 
@@ -63,6 +66,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[duyện]], [[giỏn]], [[duyên]]|rs=口04}}
+{{vi-readings|reading=[[duyện]], [[giỏn]], [[duyên]]|rs=口04}}
 
 # {{rfdef|vi|sort=口04}}
