@@ -8,7 +8,7 @@
 # [[clear]], [[distinct]]
 
 ====References====
-* {{Han ref|kx=0109.040|dkj=00794|dj=0232.020|hdz=10175.030|uh=502C|ud=20524|bh=D0D3|bd=53459}}
+{{Han ref|kx=0109.040|dkj=00794|dj=0232.020|hdz=10175.030|uh=502C}}
 
 ----
 
@@ -47,14 +47,17 @@
 # {{rfdef|ja|sort=人08}}
 
 ====Readings====
-* {{ja-readings|on=[[たく]] (taku), [[ちょく]] (choku)|kun=[[おおきい]] (ookii), [[あきらか]] (akiraka), [[たかい]] (takai)}}
+{{ja-readings
+|on=たく, ちょく
+|kun=おおきい, あきらか, たかい
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=탁|rv=tak|mr=t'ak}}
+{{ko-hanja|탁}}
 
 # {{rfdef|ko|sort=人08}}
 
@@ -63,6 +66,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[xấc]]|rs=人08}}
+{{vi-readings|reading=[[xấc]]|rs=人08}}
 
 # {{rfdef|vi|sort=人08}}
