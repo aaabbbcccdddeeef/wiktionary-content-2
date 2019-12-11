@@ -6,7 +6,7 @@
 {{Han char|rn=9|rad=人|as=13|sn=15|four=28266|canj=OOMA|ids=⿰亻會}}
 
 ====References====
-* {{Han ref|kx=0119.110|dkj=01189|dj=0252.100|hdz=10226.070|uh=5108|ud=20744|bh=BBFB|bd=48123}}
+{{Han ref|kx=0119.110|dkj=01189|dj=0252.100|hdz=10226.070|uh=5108}}
 
 ----
 
@@ -55,14 +55,17 @@
 # {{rfdef|ja|sort=人13}}
 
 ====Readings====
-* {{ja-readings|on=[[かい]] (kai), [[け]] (ke)|kun=[[なかがい]] (nakagai)}}
+{{ja-readings
+|on=かい, け
+|kun=なかがい
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=괴|rv=goe|mr=koe}}
+{{ko-hanja|괴}}
 
 # {{rfdef|ko|sort=人13}}
 
@@ -71,6 +74,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|cúi|rs=人13}}
+{{vi-readings|reading=cúi|rs=人13}}
 
 # {{rfdef|vi|sort=人13}}
