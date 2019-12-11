@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=08|sn=10|four=|canj=OSJL|ids=⿰亻耶}}
 
 ====References====
-* {{Han ref|kx=0112.071|hdz=10171.030|uh=503B|ud=20539}}
+{{Han ref|kx=0112.071|hdz=10171.030|uh=503B}}
 
 ----
 ==Chinese==
@@ -37,14 +37,17 @@
 # {{rfdef|ja|sort=人08}}
 
 ====Readings====
-* {{ja-readings|on=や|kun=や}}
+{{ja-readings
+|on=や
+|kun=や
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=야|rv=ya|mr=ya}}
+{{ko-hanja|야}}
 
 # {{rfdef|ko|sort=人08}}
 
@@ -53,7 +56,7 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[gia]]|rs=人08}}
+{{vi-readings|reading=[[gia]]|rs=人08}}
 
 # {{rfdef|vi|sort=人08}}
 
