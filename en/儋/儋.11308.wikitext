@@ -5,7 +5,7 @@
 {{Han char|rn=9|rad=人|as=13|sn=15|four=27261|canj=ONCR|ids=⿰亻詹}}
 
 ====References====
-* {{Han ref|kx=0119.180|dkj=01195|dj=0252.150|hdz=10227.010|uh=510B|ud=20747|bh=E4EE|bd=58606}}
+{{Han ref|kx=0119.180|dkj=01195|dj=0252.150|hdz=10227.010|uh=510B}}
 
 ----
 
@@ -49,14 +49,17 @@
 # load of two
 
 ====Readings====
-* {{ja-readings|on=[[たん]] (tan), [[せん]] (sen), [[ぜん]] (zen)|kun=[[になう]] (ninau), [[にたい]] (nitai), [[こがめ]] (kogame)}}
+{{ja-readings
+|on=たん, せん, ぜん
+|kun=になう, にたい, こがめ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=담|rv=dam|mr=tam}}
+{{ko-hanja|담}}
 
 # small jar
 
@@ -65,6 +68,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[đam]]|rs=人13}}
+{{vi-readings|reading=[[đam]]|rs=人13}}
 
 # {{rfdef|vi|sort=人13}}
