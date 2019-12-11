@@ -6,7 +6,7 @@
 {{Han char|rn=19|rad=力|as=15|sn=17|four=74227|canj=MBKS|ids=⿰厲力}}
 
 ====References====
-* {{Han ref|kx=0149.440|dkj=02472|dj=0338.100|hdz=10381.170|uh=52F5|ud=21237|bh=C079|bd=49273}}
+{{Han ref|kx=0149.440|dkj=02472|dj=0338.100|hdz=10381.170|uh=52F5}}
 
 ----
 
@@ -51,14 +51,17 @@
 # {{rfdef|ja|sort=力15}}
 
 ====Readings====
-* {{ja-readings|on=[[れい]] (rei)|kun=[[はげむ]] (hagemu)}}
+{{ja-readings
+|on=れい
+|kun=はげむ
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=려|rv=ryeo|mr=ryŏ}}
+{{ko-hanja|려}}
 
 # {{rfdef|ko|sort=力15}}
 
@@ -67,6 +70,6 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[lệ]], [[lẹ]]|rs=力15}}
+{{vi-readings|reading=[[lệ]], [[lẹ]]|rs=力15}}
 
 # {{rfdef|vi}}
