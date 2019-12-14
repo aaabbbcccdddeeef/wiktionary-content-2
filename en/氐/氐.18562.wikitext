@@ -34,15 +34,15 @@ As a component of complex characters, may have sense of “down, low” from the
 |mn-t=di1
 |mc=2
 |oc=1
-|cat=n
+|cat=n,v
 }}
-{{attention|zh|what is mc reading 1 (mandarin reflex "zhi")?}}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # {{w|Di (Five Barbarians)|Di}} {{gloss|[[ethnic group]]}}
 # {{lb|zh|astronomy}} {{w|Root (Chinese constellation)|Root}} {{gloss|Chinese [[constellation]]}}
+# {{†}} {{zh-original|低|[[low]]; to [[lower]]}}
 
 =====Compounds=====
 {{zh-der|氐宿|氐族|氐羌|氐士貉}}
@@ -57,16 +57,33 @@ As a component of complex characters, may have sense of “down, low” from the
 |mn-t=di2
 |mc=
 |oc=2
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} {{zh-original|柢|[[root]] of a [[tree]]}}
+# {{lb|zh|literary}} {{zh-original|柢|[[basis]]; [[fundamental]]}}
+# {{lb|zh|literary}} {{zh-original|抵|to [[reach]]; to [[arrive]]}}
+# {{lb|zh|literary}} {{zh-original|抵|to [[match]]; to be [[equal]] to}}
+
+=====Compounds=====
+{{zh-der|根氐}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=zhī
+|mc=1
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary}} [[basis]]; [[fundamental]]
-
-=====Compounds=====
-{{zh-der|根氐}}
+# {{zh-only|氐池|an ancient [[county]]}}
 
 ===References===
 * {{R:twedu|A02110}}
