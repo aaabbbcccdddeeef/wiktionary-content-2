@@ -52,7 +52,6 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 
 # [[Chinese plum]]
 # {{zh-alt-name|楠|{{taxlink|Machilus nanmu|species|ver=180112}}}}
-#: {{zh-x|^終南 何 有？有 條 有 梅。|ref=Shijing}}
 # {{zh-short|楊梅}}
 # {{zh-short|梅雨}}
 # {{zh-short|梅州}}
@@ -69,7 +68,7 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 ----
 
 ==Japanese==
-<!--{{ja-kanji forms|梅|pic2=}}-->
+{{ja-kanji forms|梅|k=y}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=木07|kyu=&#xfa44;}}
@@ -98,7 +97,7 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 
 {{IPAfont|⟨me<sub>2</sub>⟩}} → *{{IPAchar|/mːəɨ/}} → *{{IPAfont|⟨mume<sub>2</sub>⟩}} → {{IPAfont|⟨ume<sub>2</sub>⟩}} → *{{IPAchar|/uməɨ/}} → {{IPAchar|/ume/}}
 
-From {{inh|ja|ojp|sort=うめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref> Found already in the ''{{w|Man'yōshū}}'' with the ''ume'' reading, completed some time after 759 {{CE}}.<ref>{{RQ:Manyoshu|5|822}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#822 here]</ref>
+From {{inh|ja|ojp|sort=うめ|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>
 
 Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="DJR"/><ref name="DJS"/> with the borrowed ''me'' reading gaining a pronounced kind of initial ''m-'' sound, perhaps realized as *''mme''. The phonetic spelling was often rendered as {{m|ja||むめ|tr=*mme, mume}} from the {{w|Heian period}},<ref name="KDJ"/><ref name="DJS"/> with *''mme''/''mume'' and ''ume'' apparently existing in free variation. The reading eventually settled on {{m|ja||うめ|tr=ume}}. Compare the similar pattern of phonetic shift for {{m|ja|馬|tr=ma → *mma → muma → uma||[[horse]]}}, from {{cog|ltc|-}} {{ltc-l|馬}}.
 
@@ -208,16 +207,19 @@ Probably ultimately from {{der|ja|ltc|sort=うめ|-}} {{ltc-l|梅}},<ref name="D
 
 {{IPAfont|⟨me<sub>2</sub>⟩}} → *{{IPAchar|/mːəɨ/}} → *{{IPAfont|⟨mume<sub>2</sub>⟩}} → {{IPAchar|/mume/}}
 
-From {{inh|ja|ojp|sort=むめ|-}}.<ref name="KDJ"/><ref name="DJR"/><ref name="DJS"/>
+Possibly from {{inh|ja|ojp}}.
 
-This reading becomes common during the {{w|Heian period}},<ref name="KDJ"/><ref name="DJS">{{R:Daijisen}}</ref> later falling into disuse.
+This reading becomes common during the {{w|Heian period}},<ref name="KDJ"/><ref name="DJS"/> later falling into disuse.
 
 [[supersede|Superseded]] by the ''ume'' reading above.
 
 ====Noun====
 {{ja-noun|むめ}}
 
-# {{lb|ja|sort=むめ|archaic|obsolete}} the [[Japanese plum]] or {{vern|Japanese apricot}}, ''[[Prunus mume]]''
+# {{lb|ja|sort=むめ|archaic|obsolete}} the [[Japanese plum]] or {{vern|Japanese apricot|apricot}}, ''[[Prunus mume]]''
+
+=====Citations=====
+{{seeCites|ja}}
 
 =====Derived terms=====
 * {{ja-r|唐梅|からむめ}}
