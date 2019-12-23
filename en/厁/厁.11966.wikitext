@@ -1,27 +1,30 @@
 {{character info/new}}
 ==Translingual==
 
-===Alternative forms===
-* {{l|mul|⿱[[斜]][[㔾]]}} <!-- References: [1] http://zisea.com/zscontent.asp?uni=1A0109 [2] http://dict.variants.moe.edu.tw/variants/rbt/korea_chinese_character_tiles.rbt -->
-
 ===Han character===
-{{Han char|rn=26|rad=卩|as=11|sn=13|four=84227|canj=OJSL|ids=⿱[[斜]][[ㄗ]]}}
+{{Han char|rn=26|rad=卩|as=11|sn=13|four=84227|canj=OJSL|ids=⿱斜⿱𠃌丨}}
 
-====References====
+===Further reading===
 {{Han ref|kx=0478.211|dj=0366.190|hdz=10319.061|uh=5381}}
 
 ----
 
 ==Korean==
 
+===Alternative forms===
+* {{alter|ko|⿱斜㔾}}
+
 ===Glyph origin===
-Found in <big>《國朝搢紳案》</big> written by <big>李萬運</big> ({{w2|ko|이만운 (1723년)|이만운}}).
+{{ko-etym-gukja}} Found in {{lang|ko|《國朝搢紳案》}} authored by {{w2|ko|이만운 (1723년)|이만운 (李萬運)|tr=-}} in 1781.
+
+From {{Han compound|斜#Korean|⿱𠃌丨|tr1={{ko-l|사}}|t2=used as a marker in [[w:gugyeol|''gugyeol'']] to represent the final consonant {{ko-l|ㄴ}}}}.
 
 ===Hanja===
-{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}
+{{ko-hanja|[[땅]] [[이름]]|산}}
 
-# {{n-g|Used in <big>厁洞萬戶</big>}} {{gloss|name of place}}
+# {{hanja form of|산|[[placename]]}}
+#: {{uxi|ko|'''厁'''洞萬戶|placename in 18th century [[Joseon]]}}
 
-====References====
-* [https://web.archive.org/web/20160313200939/http://yoksa.aks.ac.kr/specialdata/hh50/hh50_list05.htm 《新字典·朝鮮俗字部》 해설자료]
-* [http://dict.variants.moe.edu.tw/variants/rbt/korea_chinese_character_tiles.rbt 《教育部異體字字典》 韓國特用漢字表]
+===References===
+* {{R:hanjadoc|1008}}
+* {{R:ko:Sinjajeon1915|gukja=1}}
