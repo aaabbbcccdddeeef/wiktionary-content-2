@@ -11,13 +11,13 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=侬|人-Min,𠆧-Min Dong}}
+{{zh-forms|s=侬|alt=人-Min,𠆧-Min Dong}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|人|alt1=亻|農|ls=psc|c1=s|c2=p}}.
 
-===Etymology===
+===Etymology 1===
 “Person; I; me > ''suffix for pronouns''” in southeastern dialects.
 
 Its senses of “person; human being” and “''pronoun suffix''” are well-attested in the classical literature, dating back to the {{w|Six Dynasties}}. At the present time, traces of this word are found in regions of [[Jiangsu]] (Northern Wu), [[Anhui]] (Hui), [[Shanghai]] (Northern Wu), [[Zhejiang]] (Southern Wu), [[Jiangxi]] (Gan), [[Fujian]] (Min), [[Guangdong]] (Southern Min, Cantonese), [[Guangxi]] (Cantonese) and [[Hainan]] (Min).
@@ -27,9 +27,6 @@ Its senses of “person; human being” and “''pronoun suffix''” are well-at
 
 ; “I”
 : {{lang|zh|儂}} was used to mean “I” in medieval poetry from the Wu region, before it was displaced by the common Chinese {{ltc-l|我|I}}. Also attested was ancient Wu {{ltc-l|阿儂|I}}, which was abbreviated to {{zh-l|*阿|I}} in certain dialects, such as {{w|Jinhua}}.
-
-; “Infant”
-: {{zh-l|*儂|tr=nɔŋ²¹}} (in the dark departing tone) in Leizhou Min refers to "infant". It may be related to {{cog|za|nongx||younger brother}} and {{cog|kmc|nongx||younger brother and sister}}. 
 
 ; “''Pronoun suffix''”
 : This is widely found in Wu and Min dialects. The structure ‹ ''singular pronoun'' (“I, you, he/she/it”) + {{lang|zh|儂}} › is common, with {{lang|zh|儂}} functioning either as a meaningless particle or a pluraliser. The resulting forms were thus used to mean singular or plural pronouns, and were rather prone to [[elision]] to become a single syllable. Compare the following plural pronouns in Min:
@@ -72,16 +69,18 @@ Its senses of “person; human being” and “''pronoun suffix''” are well-at
 | {{w|Shengze}} (Jiangsu) || {{IPAchar|/nə˧˩/}}
 |}
 
-With regard to the etymology of this word, {{zh-ref|Huang (1980)}}, {{zh-ref|Norman (1983)}} and {{zh-ref|Zhou (1986)}} hypothesised that this is the same as {{och-l|農|farmer; peasant}}. The use of this word as a pronoun may have originated as a form of personal deprecation and then come to be used as a full-fledged pronoun. {{zh-ref|Pan and Chen (1995)}} considered this theory implausible, and proposed that this was originally a {{w|Baiyue}} substrate word, possibly of [[Tai-Kadai]] origin. The initial meaning of ''nong'' was possibly a clan name, later developing to mean “person; I”. Compare {{cog|za|Nungz||''a surname''}} and name of the 11<sup>th</sup> century [[Zhuang]] leader {{w|Nong Zhigao}}, as well as the name of the {{w|Nùng}} people in Vietnam.
+With regard to the etymology of this word, {{zh-ref|Huang (1980)}}, {{zh-ref|Norman (1983)}} and {{zh-ref|Zhou (1986)}} hypothesised that this is the same as {{och-l|農|farmer; peasant}}. The use of this word as a pronoun may have originated as a form of personal deprecation and then come to be used as a full-fledged pronoun. {{zh-ref|Pan and Chen (1995)}} considered this theory implausible, and proposed that this was originally a {{w|Baiyue}} substrate word, possibly of {{der|zh|qfa-tak}} origin. The initial meaning of ''nong'' was possibly a clan name, later developing to mean “person; I”. Compare {{cog|za|Nungz||''a surname''}} and name of the 11<sup>th</sup> century [[Zhuang]] leader {{w|Nong Zhigao}}, as well as the name of the {{w|Nùng}} people in Vietnam.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=nóng
 |c=nung4
-|md=nè̤ng
+|md=nè̤ng/nùng
+|md_note=nè̤ng - vernacular; nùng - literary
 |mn=lâng/lông
 |mn_note=lâng - vernacular; lông - literary
-|mn-t=nang5
+|mn-t=nang5/long5
+|mn-t_note=nang5 - vernacular; long5 - literary
 |w=3non
 |mc=y
 |oc=y
@@ -89,7 +88,7 @@ With regard to the etymology of this word, {{zh-ref|Huang (1980)}}, {{zh-ref|Nor
 |cat=n,pron,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|coastal|_|Min|dialectal Wu}} [[person]]; [[human being]] {{zh-mw|md:隻|mn:個}}
@@ -97,33 +96,45 @@ With regard to the etymology of this word, {{zh-ref|Huang (1980)}}, {{zh-ref|Nor
 # {{lb|zh|coastal|_|Min}} [[physical]], [[psychological]] or [[moral]] [[quality]] or [[condition]]
 # {{lb|zh|coastal|_|Min}} [[other]] [[people]]
 # {{lb|zh|Wu|coastal|_|Min}} [[I]]; [[me]]
-#* {{zh-x|儂 是 海南 阿哥　老厝 佇\置 瓊海 丹嶺 村|'''I''' am Mr. Hainan, who came from Danling village in Qionghai country{{sic|county}}|MN-H|tr='''nong3''' di5 hhai3 nam2 a1 go1, lao5 su4 ddu5 heng2 hhai3 ddan1 lia3 sui1|ref='''2019''', {{w2|zh|黃明志}} ({{w|Namewee}}) ft. {{w2|zh|林俊逸}} ({{w|Sean Lin}}), [https://www.youtube.com/watch?v=7u8TJ6QaAmI {{lang|zh|不到海南島}}] (Lovely Hainan Island)}}
 # {{lb|zh|archaic|or|Wu}} [[you]] {{q|singular}}
 #: {{zh-x|哪能 儂 現在 上海閒話 講 了 介 好？|How come '''you''' speak Shanghainese so well?|SH|tr=3na nen+3non+3hhi ze+3zaan he+3hhe hho+2kaan+5leq+2jia+2hau}}
 # {{lb|zh|dialectal Wu}} [[he]], [[him]]; [[she]], [[her]]; [[it]]
-# {{lb|zh|Hainanese|affectionate}} {{n-g|A pronoun used by someone in the older generation to refer to someone in the younger generation.}}
-# {{lb|zh|Leizhou Min}} [[infant]]
-# {{lb|zh|dialectal Cantonese}} [[child]]
-# {{lb|zh|dialectal Cantonese}} [[son]]
 # {{lb|zh|Min|Wu}} {{n-g|Suffix for pronouns, functioning as a meaningless particle or a pluralising particle.}}
 # {{surname|zh}} [[Nong]]
 
-====Usage notes====
+=====Usage notes=====
 * {{sense|I}}
 ** Archaic in Wu.
 ** In coastal Min (Min Dong ''nè̤ng''; Hokkien ''lāng, lǎng, lâng''; Hainanese ''nang<sup>2</sup>''), it is often used affectionately like Mandarin {{zh-l|人家|rénjia}}.
-** In Hainanese, ''nong<sup>3</sup>'' used as a humble way for someone in the younger generation to refer to oneself.
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|人}}
 {{zh-dial|我}}
 {{zh-dial|你}}
-{{zh-dial|嬰兒}}
+
+====Compounds====
+{{zh-der|你儂|我儂|伊儂|汝儂|咱儂|儂家|偎儂|你儂我儂|儂人|吳儂|曼儂|渠儂}}
+
+===Etymology 2===
+Probably a {{der|zh|qfa-tak}} substrate word. Compare {{cog|tai-pro|*nwoːŋᶜ||younger sibling}}, {{cog|kmc|nongx||younger sibling}}.
+
+====Pronunciation====
+{{rfp|zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal Cantonese}} [[child]]
+# {{lb|zh|dialectal Cantonese}} [[son]]
+# {{lb|zh|Leizhou Min}} [[infant]]
+# {{lb|zh|Hainanese}} {{n-g|Used as a humble way for someone in the younger generation to refer to oneself.}}
+#* {{zh-x|儂 是 海南 阿哥　老厝 佇\置 瓊海 丹嶺 村|'''I''' am Mr. Hainan, who came from Danling village in Qionghai country{{sic|county}}|MN-H|tr='''nong3''' di5 hhai3 nam2 a1 go1, lao5 su4 ddu5 heng2 hhai3 ddan1 lia3 sui1|ref='''2019''', {{w2|zh|黃明志}} ({{w|Namewee}}) ft. {{w2|zh|林俊逸}} ({{w|Sean Lin}}), [https://www.youtube.com/watch?v=7u8TJ6QaAmI {{lang|zh|不到海南島}}] (Lovely Hainan Island)}}
+# {{lb|zh|Hainanese|affectionate}} {{n-g|A pronoun used by someone in the older generation to refer to someone in the younger generation.}}
+
+=====Synonyms=====
 {{zh-dial|小孩}}
 {{zh-dial|兒子}}
-
-===Compounds===
-{{zh-der|你儂|我儂|伊儂|汝儂|咱儂|儂家|偎儂|你儂我儂|儂人|吳儂|曼儂|渠儂}}
+{{zh-dial|嬰兒}}
 
 ----
 
