@@ -13,7 +13,7 @@
 {{zh-forms}}
 
 ===Glyph origin===
-Borrowed from {{bor|zh|ja|-}}.
+Created by Chinese library sciences expert Du Dingyou ({{l|ja||杜定友}}) in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.
 
 ===Etymology===
 Monosyllabic ''tuān'' reading by contraction of polysyllabic {{m|zh|圖書館|tr=túshūguǎn}}, taking initial and final sounds, with tone from middle syllable.
@@ -31,7 +31,7 @@ Monosyllabic ''tuān'' reading by contraction of polysyllabic {{m|zh|圖書館|t
 # {{lb|zh|uncommon}} [[library]]
 
 ====Usage notes====
-{{lang|zh|圕}} is one of the few standardized [[w:Chinese_characters#Polysyllabic_characters|polysyllabic Chinese characters]] used in Mandarin, but it never gained widespread acceptance within China, where it is thought of as a Japanese [[kokuji]]. The character was also much more common in Japan, where it appeared in the name of library science journal {{ja-r|圕%[[研%究]]|^としょかん% ^けん%きゅう}}.<ref>[http://hp.vector.co.jp/authors/VA000964/html/tosho.htm "''Toshokan to iu moji''"]</ref><ref>[http://ksbookshelf.com/nozomu-oohara/Nikkei.htm "''Kokuji no sekai, netto ni hiraku''"]</ref>
+{{lang|zh|圕}} is one of the few standardized [[w:Chinese_characters#Polysyllabic_characters|polysyllabic Chinese characters]] used in Mandarin, but it never gained widespread acceptance within China, where it is thought of as a Japanese [[kokuji]]. The character was also more common in Japan, where it appeared in the name of library science journal {{ja-r|圕%[[研%究]]|^としょかん% ^けん%きゅう}}.<ref>[http://hp.vector.co.jp/authors/VA000964/html/tosho.htm "''Toshokan to iu moji''"]</ref><ref>[http://ksbookshelf.com/nozomu-oohara/Nikkei.htm "''Kokuji no sekai, netto ni hiraku''"]</ref>
 
 ===References===
 <references/>
@@ -39,13 +39,11 @@ Monosyllabic ''tuān'' reading by contraction of polysyllabic {{m|zh|圖書館|t
 ===Further reading===
 * “[http://languagelog.ldc.upenn.edu/nll/?p=3330 Polysyllabic characters in Chinese writing]”, [https://web.archive.org/web/20130816205222/http://languagelog.ldc.upenn.edu/nll/?author=13 Victor Mair], ''[http://languagelog.ldc.upenn.edu/nll/ Language Log],'' August 2, 2011
 * [http://www.singtaonet.com/culture/splend/t20060421_196261.html {{l|zh||“圕”字怎么念？什么意思？谁造的？}}], 2006-04-21
+* [https://books.google.com/books?id=NfN0DwAAQBAJ&lpg=PA170&dq=%22Du%20Dingyou%22%20%22library%22%20%22japan%22&pg=PA170#v=onepage&q=%22Du%20Dingyou%22%20%22library%22%20%22japan%22&f=false “Early 21st-Century Power Struggles of Chinese Languages Teaching in US Higher Education”, page 170], 2018
 
 ----
 
 ==Japanese==
-
-===Glyph origin===
-Created by Chinese library sciences expert Du Dingyou ({{l|ja||杜定友}}) in Japan in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.
 
 ===Kanji===
 {{ja-kanji|grade=|rs=囗10}}
@@ -58,7 +56,15 @@ Created by Chinese library sciences expert Du Dingyou ({{l|ja||杜定友}}) in J
 |kun=としょかん-
 }}
 
+===Etymology===
+{{ja-kanjitab|yomi=k|としょかん}}
+
+The character was created by Chinese library sciences expert Du Dingyou ({{l|ja||杜定友}}) in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.  See the “Usage notes” section [[圕#Chinese|in the Chinese entry]] for more.
+
+===Pronunciation===
+{{ja-pron|としょかん|acc=2}}
+
 ===Noun===
-{{ja-noun|としょかん}}
+{{ja-noun|としょかん|hhira=としよくわん}}
 
 # {{lb|ja|obsolete}} {{abbreviation of|ja|図書館|nodot=y}}: [[library]]
