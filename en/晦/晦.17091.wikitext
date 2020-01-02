@@ -47,6 +47,9 @@ STEDT compares {{och-l|晦}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 # [[night]]
 # 67th [[tetragram]] of the [[Taixuanjing]]; "darkening" ([[𝍈]])
 
+====Descendants====
+{{CJKV||かい|회|hối}}
+
 ===Compounds===
 {{zh-der|悖晦|昏晦|晦冥|晦在|晦明|晦昧|晦暗|晦朔|晦氣|晦澀|晦盲|晦瞑|晦紋|晦蒙|晦跡|背晦|隱晦|養晦|嚮晦|月晦|晦暝|杜門晦跡|晦跡韜光|晦盲否塞|晦日|逃名晦跡|顯晦|肉眼愚晦|遵時養晦|風雨晦冥|風雨如晦|遵養時晦|老背晦|韜晦待時|韜晦|韜光養晦|韜光晦跡|青白晦氣|雺晦|陰晦|霾晦}}
 
@@ -57,17 +60,94 @@ STEDT compares {{och-l|晦}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 ===Kanji===
 {{ja-kanji|grade=|rs=日07}}
 
-# [[dark]]
-# moonless night
-# [[hide]]
-# [[invisible]]
-
 ====Readings====
 {{ja-readings
-|goon=け
-|kanon=かい
-|kun=つごもり-, みそか-, くら-い
+|goon=け<け<くゑ
+|kanon=かい<くわい
+|kun=つごもり-, くら-い, くら-ます
 }}
+
+====Compounds====
+* {{ja-r|晦日|みそか}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=kanon|かん}}
+{{IPAchar|/kʷan/}} → {{IPAchar|/kaɴ/}}
+
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|晦}}.
+
+====Affix====
+{{ja-noun|かん|hhira=くわん}}
+
+# [[end]] of the [[month]]
+# [[dark]], [[darkened]]
+# [[obscure]], [[unknown]]
+# [[conceal]], [[hide#Verb|hide]]
+
+=====Derived terms=====
+{{der-top4}}
+* {{ja-r|晦%朔|かい%さく}}
+* {{ja-r|晦%渋|かい%じゅう}}
+* {{ja-r|晦%晴|かい%せい}}
+* {{ja-r|晦%蔵|かい%ぞう}}
+* {{ja-r|晦%匿|かい%とく}}
+* {{ja-r|晦%冥|かい%めい}}
+* {{ja-r|暗%晦|あん%かい}}
+* {{ja-r|湮%晦|いん%かい|rom=-}}, {{ja-r|堙%晦|いん%かい}}
+* {{ja-r|陰%晦|いん%かい}}
+* {{ja-r|顕%晦|けん%かい}}
+* {{ja-r|昏%晦|こん%かい}}
+* {{ja-r|朔%晦|さっ%かい}}
+* {{ja-r|時%晦|じ%かい}}
+* {{ja-r|自%晦|じ%かい}}
+* {{ja-r|韜%晦|とう%かい}}
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|かん|hhira=くわん}}
+
+# a [[darkening]] of the [[sky]]
+# something [[unclear]] or [[obscure]]
+# the [[last]] [[day]] of a [[lunar month|(lunar)]] [[month]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|つごもり|alt=晦日}}
+
+Shift from {{m|ja|月隠り|tr=tsukikomori/tsukigomori|lit=[[moon]] [[hide|hiding]]}}.<ref name="DJR"/>
+
+====Pronuniciation====
+{{ja-pron|y=k|つごもり|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|つごもり}}
+
+# {{lb|ja|sort=つこもり|archaic}} the [[darkening]] of [[moonlight]]
+# {{lb|ja|by extension}} the [[last]] [[day]] of a [[lunar month|(lunar)]] [[month]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|晦%方|つごもり%がた}}
+* {{ja-r|晦%蕎%麦|つごもり%そ%ば}}
+* {{ja-r|大%晦|おお%つごもり}}
+* {{ja-r|小%晦日|こつ%ごもり}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=i|つもごり|alt=晦日}}
+
+Alteration of ''tsugomori'' above.
+
+====Noun====
+{{ja-noun|つもごり}}
+
+# {{lb|ja|rare|archaic}} the [[darkening]] of [[moonlight]]
+# {{lb|ja|sort=つもこり|rare|by extension}} the [[last]] [[day]] of a [[lunar month|(lunar)]] [[month]]
+
+=====Derived terms=====
+* {{ja-r|大%晦|おお%つもごり}}
+
+===References===
+<references/>
 
 ----
 
