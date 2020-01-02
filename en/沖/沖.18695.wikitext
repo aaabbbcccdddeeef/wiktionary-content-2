@@ -62,8 +62,6 @@
 ----
 
 ==Japanese==
-===Glyph origin===
-{{Han compound|水#Japanese|alt1=氵|中#Japanese|ls=ic|t1=water|t2=center}}.
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=水04}}
@@ -72,28 +70,33 @@
 {{ja-readings
 |goon=じゅう<ぢゆう
 |kanon=ちゅう<ちゆう
-|kun=おき-, おきつ-, わく-
+|kun=おき-, ひひ-る, ひい-る
 }}
 
 ===Etymology===
-{{ja-kanjitab|おき|yomi=kun}}
-{{rfe|ja}}
+{{ja-kanjitab|yomi=kun|おき|alt=澳}}
 
-====Alternative forms====
-* {{ja-l|澳}}
+{{IPAfont|⟨oki<sub>1</sub>⟩}} → {{IPAchar|/oki/}}
 
-====Pronunciation====
-{{ja-pron|おき|y=k}}
+From {{inh|ja|ojp|sort=おき|-}}.  Appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.  Cognate with {{m|ja|奥|tr=oku||inner, inside}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-====Noun====
+The kanji spelling {{m|ja|沖}} appears to be a reanalysis of the Chinese character based on its components of {{m|ja|氵||water}} and {{m|ja|中||center, in the middle of}}.
+
+===Pronunciation===
+{{ja-pron|おき|acc=0|acc_ref=DJR}}
+
+===Noun===
 {{ja-noun|おき}}
 
 # [[open sea]]
 
-====Proper noun====
+===Proper noun===
 {{ja-pos|おき|proper}}
 
-# {{surname|ja|sort=おき}}
+# {{surname|ja|sort=おき|A=a|nodot=1}}
+
+===References===
+<references/>
 
 ----
 
