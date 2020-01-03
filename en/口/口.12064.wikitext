@@ -1,22 +1,25 @@
-{{also|[[ロ]] (katakana)|[[ㅁ]] (hangul)|[[囗]] (wéi)}}
+{{also|囗|ロ|ㅁ|uni=auto}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=3}}
 {{stroke order|type=animate}}
 
-====Usage notes====
-This character (口) is used ''within'' characters; if a square is instead used as an enclosure (''around'') a character, then the character [[囗]] is used instead.
-
 ===Han character===
-{{Han char|rn=30|rad=口|as=00|sn=3|four=60000|canj=R|ids=⿰丨コ,⿱冂一}}
+{{Han char|rn=30|rad=口|as=00|sn=3|four=60000|canj=R|ids=⿰匚丨}}
 
 # {{mul-kangxi radical-def}}
-# Shuōwén Jiězì radical №22
+# {{mul-shuowen radical-def|22}}
+
+====Usage notes====
+This character ({{lang|mul|口}}) is used within characters. If a square is used as an enclosure around another character, then the character {{l|mul|囗}} (<code>U+56D7</code>) is used instead.
 
 ====Derived characters====
 * [[Index:Chinese radical/口]]
 
-====References====
-* {{Han ref|kx=0171.010|dkj=03227|dj=0379.170|hdz=10566.140|uh=53E3|ud=21475|bh=A466|bd=42086}}
+===Further reading===
+{{Han ref|kx=0171.010|dkj=03227|dj=0379.170|hdz=10566.140|uh=53E3}}
+
+[[Category:CJKV radicals]]
 
 ----
 
@@ -25,7 +28,7 @@ This character (口) is used ''within'' characters; if a square is instead used 
 {{zh-wp}}
 
 ===Glyph origin===
-{{Han etyl}}
+{{Han etym}}
 {{liushu|p}} – resembles an open mouth.
 
 ===Etymology===
@@ -61,7 +64,7 @@ From {{inh|zh|sit-pro|*ku(w)||mouth}}.
 
 # {{lb|zh|anatomy}} [[mouth]] {{zh-mw|c:把}}
 #: {{zh-x|漱 漱 你 的 口。|Rinse your '''mouth''' out.}}
-#* {{zh-x|這 話 出自 你 的 口，聽來 令人 奇怪。|This sounds strange in your '''mouth'''.}}
+#: {{zh-x|這 話 出自 你 的 口，聽來 令人 奇怪。|This sounds strange in your '''mouth'''.}}
 # [[entrance]]; [[opening]]; [[mouth]] (of an object)
 #: {{zh-x|入口|entrance}}
 #: {{zh-x|出口|exit}}
@@ -101,7 +104,8 @@ From {{inh|zh|sit-pro|*ku(w)||mouth}}.
 }}
 
 ====Compounds====
-{{col5|ja|{{ja-l|口演}}
+{{col5-u|ja
+|{{ja-l|口演}}
 |{{ja-l|口炎}}
 |{{ja-l|口下手}}
 |{{ja-l|口可笑}}
@@ -252,7 +256,7 @@ Shift from ''kutu'' above, probably by fusion with ancient nominal particle {{ja
 ===Etymology 3===
 {{ja-kanjitab|yomi=o|く}}
 
-From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|呉音|goon}}, so likely the initial borrowing.
+From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{m|ja|呉音|tr=goon}}, so likely the initial borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|く}}
@@ -275,7 +279,7 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|呉音|goon}}, so likely the ini
 ===Etymology 4===
 {{ja-kanjitab|yomi=o|こう}}
 
-From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a later borrowing.
+From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{m|ja|漢音|tr=kan'on}}, so likely a later borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|こう}}
@@ -288,7 +292,6 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 
 ===References===
 <references/>
-:* ''The Oxford Starter Japanese Dictionary.'' {{ISBN|0-19-860197-2}}
 
 [[Category:Japanese basic words|くち]]
 
@@ -390,7 +393,7 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 # [[speech]]
 
 ====Compounds====
-{{top2}}
+{{der-top3}}
 * {{ryu-r|油%口|あんだ%ぐち|compliment}}
 * {{ryu-r|沖%縄%口|うち%なー%ぐち|Okinawan language}}
 * {{ryu-r|ウランダ口|ウランダぐち|European language, Western language}}
@@ -401,7 +404,7 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 * {{ryu-r|那%覇%口|なー%ふぁ%ぐち|Naha dialect}}
 * {{ryu-r|目%口|みー%くち|facial expression}}
 * {{ryu-r|大和%口|やまとぅ%ぐち|standard Japanese language}}
-{{bottom}}
+{{der-bottom}}
 
 ===References===
 * {{R:JLect|ぐち【口】|1174|guchi}}
@@ -424,8 +427,6 @@ From {{der|ja|ltc|-}} {{ltc-l|口}}. The {{l|ja|漢音|kan'on}}, so likely a lat
 
 ===References===
 <references/>
-
-[[Category:CJKV radicals]]
 
 ----
 
