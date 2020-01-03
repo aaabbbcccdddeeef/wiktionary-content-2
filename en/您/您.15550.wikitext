@@ -11,35 +11,38 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=恁,𠑓}}
+{{zh-forms|alt=恁,儜-honorific}}<!-- 𠑓? -->
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|你|t1=you|心|t2=heart|ls=ic}}.
+{{Han compound|你|t1=you|心|t2=heart|ls=ic}}. {{ltc-l|心}} may also phonetically signify the original ''-m'' ending ({{zh-ref|Yuan et al., 1996}}).
 
 ===Etymology===
-This character was not listed in {{w|Sui dynasty|Sui}}/{{w|Tang dynasty|Tang}} rhyme books. First attested in {{w|Jin dynasty|Jin}}/{{w|Yuan dynasty|Yuan}}-era novels, when it was also written as {{ltc-l|恁}}, and occurred predominantly in attributive environments, forming complementary distribution with {{zh-l|你}} in other cases. Originally, {{lang|zh|您}} was a pronoun for both 2nd sg. and 2nd pl., and {{zh-l|你每}} (> {{zh-l|你們}}) was an equilibrating disyllabic version of 您, which retains the -m syllable coda of {{lang|zh|您}} disappearing in Mandarin. Later, in the Beijing dialect, -{{zh-l|們}} was restricted to purely a plural suffix, and {{lang|zh|您}} restricted to purely a 2nd sg. honorific pronoun, although the 2nd pl. hon. {{zh-l|您們}} is still considered ungrammatical by some speakers. The plural sense of {{lang|zh|您}} is retained in the Tianjin dialect:
-{{zh-x|您 了 先 聊，我 到 外頭 溜達{da} 溜達{da}。|Please continue your conversation. I'll just be having a walk outside.|M-TJ}}
-<ref>吕叔湘 (Lü Shuxiang)，《释您，俺，咱，喒，附论们字》，in 《吕叔湘全集》第二卷 汉语语法论文集。</ref><ref>张俊阁，《近代汉语第二人称代词“您（恁）”的来源》，聊城大学学报（社会科学版），2010年第1期。</ref>
+This character was not listed in {{w|Sui dynasty|Sui}}/{{w|Tang dynasty|Tang}} rhyme books. First attested in {{w|Jin dynasty|Jin}}/{{w|Yuan dynasty|Yuan}}-era literature, when it was also written as {{zh-l|*恁}} and probably pronounced as ''*nim'' at the time ({{zh-ref|Lü, 1940}}; {{zh-ref|Norman, 1988}}). The pronoun was used both in the singular and the plural.
+
+The pronoun used in Jin/Yuan-era literature is generally thought to be a fusion of {{zh-l|你們|you (plural)}} or {{zh-l|你每|you (plural)}} ({{zh-ref|Lü, 1940}}; {{zh-ref|Norman, 1988}}).
+
+The honorific usage may simply be a development of the plural usage ({{zh-ref|Norman, 1988}}); compare {{noncog|en|you}}, {{noncog|fr|vous}}. However, others have argued for a different etymology for the honorific pronoun. {{zh-ref|Wang (1984)}} and {{zh-ref|Lü (1985)}} have argued that it is a contraction of {{zh-l|*你老|you (honorific for seniors)}}: {{IPAchar|/ni lau/}} → {{IPAchar|/nil/}} → {{IPAchar|/nin/}}. Alternatively, {{zh-ref|Zhang (2001)}} suggests that it comes from {{ltc-l|仁}}, an honorific used in Buddhist texts from the Han dynasty.
 
 ===Pronunciation===
 {{zh-pron
 |m=nín
-|ma=zh-nín.ogg
 |c=nei5
-|h=pfs=
 |mn=lín
 |w=
-|mc=
-|oc=
+|ma=y
 |cat=pron
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{lb|zh|polite|honorific}} [[you]]
-# {{lb|zh|dialectal}} [[you]] {{qualifier|plural}}
+# {{lb|zh|polite|honorific}} [[you]] {{q|usually singular, may be plural}}
+# {{lb|zh|archaic|or|dialectal}} [[you]] {{q|plural}}
+# {{lb|zh|archaic}} [[thou]]; [[you]] {{q|singular}}
+
+====Usage notes====
+* {{sense|honorific you}} Some speakers consider {{zh-l|您們}} to be ungrammatical and use {{zh-l|您}} in both singular and plural contexts.
 
 ====Synonyms====
 {{zh-dial|你}}
@@ -50,9 +53,6 @@ This character was not listed in {{w|Sui dynasty|Sui}}/{{w|Tang dynasty|Tang}} r
 
 ===See also===
 {{cmn-personal pronouns}}
-
-===References===
-<references />
 
 {{zh-cat|Beginning}}
 
