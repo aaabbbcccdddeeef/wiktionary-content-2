@@ -16,39 +16,57 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Etymology===
+===Etymology 1===
 {{rfe|zh}}
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
-|m=xiē
+|m=xiē,xiě,1nb=standard in Mainland and Taiwan,2nb=variant
 |m-s=xi1
 |c=se1
+|c-t=lhie1
+|g=xiet6
 |h=gd=xia1
-|mn=ml:sia/xm,zz:se
+|j=xie1
+|mb=siě
+|md=siĕ
+|mn=sia/xm,zz:se
 |mn_note=sia - literary; se - vernacular
-|mn-t=sên1
+|mn-t=sê1/sên1
+|w=1xi
+|x=sia1/sie1
+|x_note=xia1 - vernacular; xie - literary
 |mc=1
 |oc=2
-|ma=zh-xiē.ogg
-|cat=a,adv
+|ma=y
+|cat=cls,adv
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# [[little]], [[few]]
-# [[rather]], [[somewhat]]
+# [[a little]]; [[a bit]] {{gl|a small amount}}
+#: {{zh-x|一 些 都 沒有|not even '''a bit'''}}
+# [[some]]; [[a few]] {{gl|an indefinite amount}}
+#: {{zh-x|吃 些 肉|to eat '''some''' meat}}
+# {{lb|zh|used after adjectives and certain verbs}} a bit; a bit [[more]]
+#: {{zh-x|走 快 些|to walk '''a little''' fast'''er'''}}
+# [[rather]]; [[somewhat]]
+# {{lb|zh|archaic}} {{non-gloss definition|A modal particle.}}
 
 ====Synonyms====
 {{zh-dial}}
 
 ====Compounds====
-{{zh-der|一些|些些|些個|些兒|些小|些微|些許|些須|好些|有些|某些|楚些|爭些|的些|這些|那些|險些}}
+{{zh-der|一些|些些|些個|些兒|些小|些微|些許|些須|好些|有些|某些|爭些|的些|這些|那些|險些|些娘大|半些兒|一些些|好些時|拉些兒|這麼些|這些時|這些兒}}
 
-===Pronunciation 2===
+===Etymology 2===
+{{rfe|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m=suò
+|c=so3,sai3,so1
 |dial=n
 |mc=3+2
 |oc=1+3
@@ -58,24 +76,30 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{non-gloss definition|An exclamatory particle.}}
-# [[can]]; be [[able to]]
-# [[what]]
-# [[this]]  <!-- 廣韻：些，可也。此也。辭也。何也。 Kō Kan-Wa Jiten translates 可 into べし. -->
-# {{w|fu (poetry)}}
-# {{zh-alt-form|呰}}
+# {{†}} {{non-gloss definition|A modal particle.}}
+# {{†}} {{lb|zh|figurative}} ''{{w|fu (poetry)|fu}}'' {{gl|poetry}}
+# {{zh-hg}} [[can]]; be [[able to]]
+# {{zh-hg}} [[what]]
+# {{zh-hg}} [[this]]
 
-===Pronunciation 3===
+====Compounds====
+{{zh-der|楚些}}
+
+===Etymology 3===
+{{rfe|zh|related to etymology 1?}}
+
+====Pronunciation====
 {{zh-pron
 |m=suō
 |dial=n
-|cat=n
+|cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# sound of a [[dirge]]<!-- 《集韵》桑何切，音娑。挽歌声。 -->
+# {{zh-hg}} to [[decrease]]
+<!-- sound of a dirge? 《集韵》桑何切，音娑。挽歌声。 -->
 
 ===References===
 * {{R:twedu|A00056}}
