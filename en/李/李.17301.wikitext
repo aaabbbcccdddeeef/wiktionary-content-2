@@ -68,8 +68,6 @@ In mainland China and among its expatriates, this surname is generally romanized
 ===Kanji===
 {{ja-kanji|grade=n|rs=木03}}
 
-# [[plum]]
-
 ====Readings====
 {{ja-readings
 |goon=り
@@ -78,26 +76,67 @@ In mainland China and among its expatriates, this surname is generally romanized
 |nanori=もも, い
 }}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=k|alt=酸桃}}
+
+Related to {{m|ja|桃|tr=momo|t=[[peach]]}}. {{etystub|ja}}
+
+====Pronunciation====
+* {{ja-pron|yomi=k|すもも|acc=0|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|すもも}}
 
 # [[plum]] ({{taxlink|Prunus salicina|species|noshow=1}})
 
-====Alternative forms====
-* {{ja-l|酸桃}}
+=====Derived terms=====
+{{col3-u|ja
+|{{ja-r|西洋%李|せいよう% すもも}}, {{ja-r|西洋%酸%桃|せいよう% す%もも}}
+|{{ja-r|紅%葉%李|べに%ば% すもも}}
+|{{ja-r|干し李|ほし すもも}}
+}}
 
-===Proper noun===
+===Etymology 2===
+From {{der|ja|ltc|sort=り|-}} {{ltc-l|李}}.
+
+====Pronunciation====
+* {{ja-pron|yomi=o|り}}
+
+====Affix====
+{{ja-pos|affix|り}}
+
+# [[plum]]
+
+=====Derived terms=====
+{{col3-u|ja
+|{{ja-r|李花|りか}}
+|{{ja-r|李下|りか}}
+|{{ja-r|回%李|かい%り|rom=-}}, {{ja-r|廻%李|かい%り}}
+|{{ja-r|行%李|こう%り}}
+|{{ja-r|桃%李|とう%り}}
+}}
+
+====Proper noun====
 {{ja-pos|リ|proper|り}}
 
-# Japanese reading of the Chinese or Korean [[surname]].
+# Japanese reading of the Chinese or Korean [[surname]]
 
 {{ja-pos|リー|proper|りい}}
 
-# Japanese reading of the Chinese [[surname]].
+# Japanese reading of the Chinese [[surname]]
 
 {{ja-pos|イ|proper|い}}
 
-# Japanese reading of the South Korean [[surname]].
+# Japanese reading of the South Korean [[surname]]
+
+=====Derived terms=====
+{{col3-u|ja
+|{{ja-r|李%朝|^り%ちょう}}
+|{{ja-r|李詩|りし}}
+}}
+
+===References===
+<references/>
 
 [[Category:ja:Foods|すもも]]
 [[Category:ja:Fruits|すもも]]
