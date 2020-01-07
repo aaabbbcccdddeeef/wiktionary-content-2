@@ -82,28 +82,31 @@ In mainland China and among its expatriates, this surname is generally romanized
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|alt=酸桃}}
 
-Related to {{m|ja|桃|tr=momo|t=[[peach]]}}. {{etystub|ja}}
+Compound of {{compound|ja|sort=すもも|酸|tr1=su|t1=[[vinegar]]; [[sour]]|桃|tr2=momo|t2=[[peach]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 ====Pronunciation====
-* {{ja-pron|yomi=k|すもも|acc=0|acc_ref=DJR}}
+{{ja-pron|すもも|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|すもも|スモモ}}
 
 # [[plum]] ({{taxlink|Prunus salicina|species|noshow=1}})
 
+=====Usage notes=====
+{{U:ja:biology|スモモ}}
+
 =====Derived terms=====
-{{col3-u|ja
-|{{ja-r|西洋%李|せいよう% すもも}}, {{ja-r|西洋%酸%桃|せいよう% す%もも}}
-|{{ja-r|紅%葉%李|べに%ば% すもも}}
-|{{ja-r|干し李|ほし すもも}}
-}}
+{{der-top}}
+{{ja-r|西洋%李|せいよう% すもも}}, {{ja-r|西洋%酸%桃|せいよう% す%もも}}
+{{ja-r|紅%葉%李|べに%ば% すもも}}
+{{ja-r|干し李|ほし すもも}}
+{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ja|ltc|sort=り|-}} {{ltc-l|李}}.
 
 ====Pronunciation====
-* {{ja-pron|yomi=o|り}}
+{{ja-pron|yomi=o|り}}
 
 ====Affix====
 {{ja-pos|affix|り}}
@@ -139,6 +142,10 @@ From {{der|ja|ltc|sort=り|-}} {{ltc-l|李}}.
 
 ===References===
 <references/>
+
+===Further reading===
+* [http://www.nihonjiten.com/data/46045.html Entry at Nihon Jiten] (in Japanese)
+* [http://gogen-allguide.com/su/sumomo.html Entry at Gogen Allguide] (in Japanese)
 
 [[Category:ja:Foods|すもも]]
 [[Category:ja:Fruits|すもも]]
