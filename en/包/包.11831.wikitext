@@ -1,20 +1,23 @@
 {{character info/new}}
 {{character info|0x2F829}}
 ==Translingual==
-{{stroke order|strokes=5}}
+{{stroke order|strokes=5|type=cbw}}
 {{ja-forms|包|包|包}}
 
 ===Alternative forms===
-Note different Japanese and Chinese forms (center open [[己]] in Japanese, a closed loop [[巳]] in Chinese). Note also that the bottom tail extends beyond the right side (in either form).
+* Note the different Japanese and Chinese forms (center open {{l|mul|己}} in Japanese, a closed loop {{l|mul|巳}} in Chinese). Note also that the bottom tail extends beyond the right side (in either form).
+* A [[w:CJK Compatibility Ideographs|CJK compatibility ideograph]] exists at <code>U+2F829</code> for a [[w:Variant Chinese character|variant form]] in Taiwan which is the same as the Japanese form.
 
 ===Han character===
-{{Han char|rn=20|rad=勹|as=03|sn=5|four=27712|canj=PRU|ids=⿻勹巳(GHTKV),⿻勹己(J)}}
+{{Han char|rn=20|rad=勹|as=03|sn=5|four=27712|canj=PRU,PSU|ids=⿻勹巳(GHTKV),⿻勹己(J,<code>U+2F829</code>)}}
 
 ====Derived characters====
-* [[咆]], [[庖]], [[抱]], [[枹]], [[泡]], [[炮]], [[皰]], [[砲]], [[胞]], [[匏]], [[飽]], [[鮑]], [[疱]], [[砲]], [[鞄]]
+* {{l|mul|[[咆]], [[胞]], [[枹]], [[炮]], [[皰]], [[匏]], [[鞄]], [[鮑]], [[庖]], [[疱]]}} {{q|Contains {{lang|zh|包}} in all regions}}
+* {{l|mul|sc=Jpan|[[抱]], [[泡]], [[砲]], [[飽]]}} {{q|Note: Contains {{lang|ja|包}} in Japanese and {{lang|zh|包}} in other regions}}
 
-====References====
+===Further reading===
 {{Han ref|kx=0150.270|dkj=02506|dj=0340.020|hdz=10257.060|uh=5305}}
+{{Han ref|uh=2F829}}
 
 ----
 
