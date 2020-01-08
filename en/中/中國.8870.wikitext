@@ -48,9 +48,6 @@ This word referred to various states and regions throughout history:
 #: {{zh-x|^中國 和平.崛起|'''China''''s peaceful rise}}
 #: {{zh-x|^中國 社會科學院|the '''Chinese''' Academy of Social Sciences}}
 #: {{zh-x|^中國 典籍 英譯|English translations of '''Chinese''' classics}}
-# {{zh-div|地方|地區}} the [[Chūgoku]] region of Japan
-#* '''2004''', {{l|zh||于沛}}, {{l|zh||中国社会科学院世界历史研究所学术论文集（1964-2004）：古代中世纪卷}}[https://books.google.com/books?id=A3NsAAAAIAAJ&q=%E4%B8%AD%E5%9C%8B%E5%9C%B0%E6%96%B9+%E4%B9%9D%E5%B7%9E+%E6%97%A5%E6%9C%AC&ved=0ahUKEwisqLmq0eHTAhVT62MKHWsqDAo4WhDoAQhWMAg]
-#*: {{zh-x|這裡 的 '''^中國''' 是 指 ^日本 的 '''^中國.^地方'''，即 指 ^本州 西部 的 ^岡山、^廣島、^山口、^島根、^鳥取 5 縣。|Here, {{l|zh||中國}} refers to the Chūgoku region of Japan, or the five prefectures of Okayama, Hiroshima, Yamaguchi, Shimane, and Tottori that lay in the western region of Honshū.}}
 
 =====Synonyms=====
 * {{sense|China}}
@@ -63,7 +60,9 @@ This word referred to various states and regions throughout history:
 {{zh-noun}}
 
 # {{lb|zh|archaic}} [[imperial]] [[court]]
-# {{lb|zh|archaic}} [[capital]] of a [[state]]
+# {{lb|zh|archaic}} # the [[central]] [[part]] of a [[country]], historically, commonly known as the [[capital city]] or the [[main]] [[region]], where an [[emperor]] or other [[ruler]] [[reside]]s
+#: {{zh-also|國中}}
+# something [[within]] a country
 # {{lb|zh|archaic}} [[region]] under direct rule of the [[emperor]]
 # {{lb|zh|archaic}} [[w:Zhongyuan|Central Plain]]
 
@@ -88,6 +87,16 @@ This word referred to various states and regions throughout history:
 * {{desc|bor=1|za|Cunghgoz}}, {{l|za|Cungguek}}
 
 ===Etymology 2===
+{{obor|zh|ja|-}} {{ja-r|中%国|^ちゅう%ごく}}, from {{der|zh|ltc|-}} {{ltc-l|中國|the central part of a country|id=1}}.
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{zh-div|地方|地區}} the [[Chūgoku]] region of Japan
+#* '''2004''', {{l|zh||于沛}}, {{l|zh||中国社会科学院世界历史研究所学术论文集（1964-2004）：古代中世纪卷}}[https://books.google.com/books?id=A3NsAAAAIAAJ&q=%E4%B8%AD%E5%9C%8B%E5%9C%B0%E6%96%B9+%E4%B9%9D%E5%B7%9E+%E6%97%A5%E6%9C%AC&ved=0ahUKEwisqLmq0eHTAhVT62MKHWsqDAo4WhDoAQhWMAg]
+#*: {{zh-x|這裡 的 '''^中國''' 是 指 ^日本 的 '''^中國.^地方'''，即 指 ^本州 西部 的 ^岡山、^廣島、^山口、^島根、^鳥取 5 縣。|Here, {{l|zh||中國}} refers to the Chūgoku region of Japan, or the five prefectures of Okayama, Hiroshima, Yamaguchi, Shimane, and Tottori that lay in the western region of Honshū.}}
+
+===Etymology 3===
 {{obor|zh|ja|-}} {{ja-r|中%国|^なか%くに}}.
 
 ====Proper noun====
