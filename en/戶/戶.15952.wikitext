@@ -5,18 +5,23 @@
 {{Han simplified forms|戶|戸|户}}
 
 ===Alternative forms===
-Beware to distinguish the regionally different forms of this character – {{lang|ja|戶}} (top stroke connects to left stroke) vs. {{lang|und|sc=Hani|戸}} (top stroke does not connect) and {{l|mul|户}}. Note the different stroke order: [[户]] and {{lang|und|sc=Hani|戸}} have 丿 as last (fourth) stroke, while 戶 (this page) has 丿 as second stroke.
+Note the regionally different forms of this character which are encoded separately in [[Unicode]]:
+* {{lang|mul|戶}} (top stroke connects to left stroke) - used in Taiwan and South Korea.
+* {{l|mul|戸}} (top stroke is a horizontal line that does not connect to other strokes, as found in the historical [[w:Kangxi dictionary|Kangxi dictionary]]) - used in Japan.
+* {{l|mul|户}} (top stroke is a slanting dot) - used in mainland China and Hong Kong.
+Note also the different stroke order: {{l|mul|户}} and {{l|mul|戸}} have the leftmost {{l|mul|丿}} as the final (fourth) stroke, while {{lang|mul|戶}} (this character) has {{l|mul|丿}} as the second stroke.
 
 ===Han character===
 {{Han char|rn=63|rad=戶|as=00|sn=4|four=30277|canj=HS|ids=⿸𠂆コ}} <!-- Note: ⿱丿尸 is incorrect. -->
 
 # {{mul-kangxi radical-def}}
+# {{mul-shuowen radical-def|437}}
 
 ====Derived characters====
-* {{l|mul|Index:Chinese radical/戶}}
+* [[Index:Chinese radical/戶]]
 
-====References====
-* {{Han ref|kx=0414.320|dkj=11696|dj=0759.030|hdz=32257.010|uh=6236|ud=25142|bh=A4E1|bd=42209}}
+===Further reading===
+{{Han ref|kx=0414.320|dkj=11696|dj=0759.030|hdz=32257.010|uh=6236}}
 
 [[Category:CJKV radicals]]
 
