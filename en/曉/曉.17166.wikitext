@@ -67,7 +67,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=日12|shin=暁}}
 
-# {{rfdef|ja|sort=日12}}
+# {{ja-kyujitai spelling of|暁}}
 
 ====Readings====
 {{ja-readings
@@ -75,7 +75,7 @@
 |kanon=きょう<けう
 |kanyoon=ぎょう<げう
 |kun=あかつき-, さと-る
-|nanori=あき
+|nanori=あき, あきら, あけ, さとし, とき, とし 
 }}
 
 ----
@@ -86,6 +86,32 @@
 {{ko-hanja|hangeul=효|eumhun=|rv=hyo|mr=hyo|y=hyo}}
 
 # {{rfdef|ko|sort=日12}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+From {{com|ojp|sort=あかとき||alt1=明か|tr1=aka|pos1=the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|明く|tr=aku}}, “to [[open]] → to [[grow]] [[bright]], [[dawn#Verb|dawn]]”|時|tr2=to<sub>2</sub>ki<sub>1</sub>|t2=[[time]], [[moment]], [[hour]]}}.<ref>{{R:Daijisen}}</ref><ref>{{R:Daijirin}}</ref>
+
+===Noun===
+{{head|ojp|noun|tr=akato<sub>2</sub>ki<sub>1</sub>|kana|あかとき|sort=あかとき}}
+
+# the [[dawn#Noun|dawn]], [[daybreak]]
+#* {{RQ:Manyoshu|18|4084}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo#4084.html here]
+#*: {{ux|ojp|'''安可登吉'''爾名能里奈久奈流保登等藝須伊夜米豆良之久於毛保由流香母|tr='''akato<sub>2</sub>ki<sub>1</sub>''' ni nano<sub>2</sub>ri nakunaru poto<sub>2</sub>to<sub>2</sub>gi<sub>1</sub>su iya medurasiku omopoyuru ka mo}}
+
+=====Derived terms=====
+* {{m|ojp|曉降ち|tr=akato<sub>2</sub>ki<sub>1</sub>-kudati}}
+* {{m|ojp|曉月夜|tr=akato<sub>2</sub>ki<sub>1</sub>-dukuyo<sub>1</sub>}}
+* {{m|ojp|曉露|tr=akato<sub>2</sub>ki<sub>1</sub>-tuyu}}
+* {{m|ojp|曉闇|tr=akato<sub>2</sub>ki<sub>1</sub>-*yami<sub>1</sub>}}
+
+====Descendants====
+* {{desc|ja|暁|tr=akatsuki}}
+
+===References===
+<references/>
 
 ----
 
