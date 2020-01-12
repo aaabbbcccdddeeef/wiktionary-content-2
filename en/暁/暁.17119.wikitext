@@ -135,6 +135,16 @@ From {{der|ja|ltc|sort=きよう'|-}} {{ltc-l|曉}}.
 ===Etymology 3===
 {{ja-kanjitab|yomi=n}}
 
+Nominalization of the stem of adjective {{m|ja|明らか|tr=akiraka||[[clear]], [[visible]]}}.
+
+====Proper noun====
+{{ja-pos|proper|kyu=曉|あきら}}
+
+# {{given name|ja|sort=あきら|A=a|female}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=n}}
+
 Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|悟る|tr=satoru||to [[perceive]], [[understand]]}}.
 
 ====Proper noun====
@@ -142,7 +152,7 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}
 
 # {{given name|ja|sort=さとし|A=a|male}}
 
-===Etymology 4===
+===Etymology 5===
 {{ja-kanjitab|yomi=n}}
 
 Nominalization of verb {{m|ja|悟る|tr=satoru||to [[perceive]], [[understand]]}}.
@@ -152,7 +162,7 @@ Nominalization of verb {{m|ja|悟る|tr=satoru||to [[perceive]], [[understand]]}
 
 # {{given name|ja|sort=さとる|A=a|male|or=female}}
 
-===Etymology 5===
+===Etymology 6===
 {{ja-kanjitab|yomi=n}}
 
 Nominalization of verb {{m|ja|通る|tr=tōru||to [[be]] [[wise]]}}.
@@ -162,7 +172,7 @@ Nominalization of verb {{m|ja|通る|tr=tōru||to [[be]] [[wise]]}}.
 
 # {{given name|ja|sort=とおる|A=a|male|or=female}}
 
-===Etymology 3===
+===Etymology 7===
 Other various ''nanori'' readings.
 
 ====Proper noun====
@@ -175,13 +185,34 @@ Other various ''nanori'' readings.
 # {{given name|ja|sort=あき|A=a|female}}
 # {{surname|ja|sort=あき|A=a|nodot=1}}
 
-{{ja-pos|proper|kyu=曉|あきら}}
-
-# {{given name|ja|sort=あきら|A=a|female}}
-
 {{ja-pos|proper|kyu=曉|きょう|hhira=けう}}
 
 # {{given name|ja|sort=きょう|A=a|male|or=female}}
 
 ===References===
 <references/>
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{ryu-kanji|grade=c|rs=日08|kyu=曉}}
+
+====Readings====
+{{ryu-readings
+|kun=あかちち-
+}}
+
+===Etymology===
+{{ryu-kanjitab|yomi=k|あかちち}}
+
+Cognate with {{cog|ja|暁|tr=akatsuki}}.
+
+===Pronunciation===
+* {{IPA|ryu|[akat͡ɕit͡ɕi]|sort=あかちち}}
+
+===Noun===
+{{ryu-noun|あかちち}}
+
+# the [[dawn]], [[daybreak]]
