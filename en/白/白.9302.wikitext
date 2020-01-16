@@ -23,41 +23,42 @@
 
 ===Glyph origin===
 {{Han etyl}}
-{{liushu|p}} – {{lang|zh|白}} is a pictogram that conveys its meaning through its pictorial resemblance to a physical object. There are several myths and theories explaining the origin of the object how its pictograph came to represent the meaning of white. One of the theories goes with an acorn which has a white flesh inside and the flesh was used as a white color pigment. Another one goes with a skull which was much more familiar objects before human bodies started to be buried in a grave in an ancient China. <ref> [http://hkpark.netholdings.co.kr/web/manual/default/manual_view.asp?menu_id=105599&id=1446] Retrieved 2019-04-03</ref> or the other one goes with a nail of thumb that has a crescent-shaped whitish area.<ref> [https://books.google.co.kr/books?id=e1gdDgAAQBAJ&pg=PT49&lpg=PT49&dq=%E7%99%BD+%EC%97%84%EC%A7%80&source=bl&ots=-LmZgWN6fv&sig=ACfU3U3ZDuE3-tLiA9vW6MrnvuK15QV52Q&hl=ko&sa=X&ved=2ahUKEwitmai2-7PhAhUJWLwKHfSiALIQ6AEwCHoECAMQAQ#v=onepage&q=%E7%99%BD%20%EC%97%84%EC%A7%80&f=false] Retrieved 2019-04-03</ref> {{lang|zh|白}} also indicates “clear” as white can be a color of “clear”. This came from the myths that {{lang|zh|白}} was a moving and folded tongue of a person who speaks very clearly, or {{lang|zh|白}} was a flame of the burning candle which clears up space with its lightness. However, no one is able to prove the truth of this ancient word {{lang|zh|白}}.  These 5 sculptures are depicting the shape of white which had lost its original meaning. <ref> [http://www.rumikohagiwara.com/english/archives/2947] Retrieved 2019-04-03</ref>
+Unclear; probably a {{liushu|p|nocap=1}}.
+
+{{zh-ref|Guo (1954)}} suggests that it represents a thumb and is original form of {{och-l|拇}} or {{och-l|擘}}.
+
+Alternatively, {{zh-ref|Unger (''apud'' Schuessler, 2007)}} suggests that it represents an acorn, noting its use in {{zh-l|*樂|oak}} (= {{zh-l|*櫟}}) and {{zh-l|*皂|acorn}}.
 
 ===Etymology===
-Either from 
-* {{inh|zh|sit-pro|*bawk||white}}; cognate with {{cog|mwq|bok}}, {{cog|dao|ɓɔ́ːk}}, {{cog|grt|bok-a}}, {{cog|lif|tr=phɔ}} (STEDT) (confer {{cog|mkh-pro|*kɓɔɔk||white, grey}}); still, Schuessler found *''bawk'''s and its descendants' lack of medial ''-r-'' difficult to reconcile with Sinitic; or from
-* {{inh|zh|sit-pro|*bʷar ~ *pʷar||burn, fire}} with ''-k'' extension, from immediate *''bar-k'' ({{zh-ref|Schuessler, 2007}}); cognate with {{och-l|[[皤]]}} "white", {{cog|lus|váar||white, bright}}, Proto-Karenic *''ʔ(b)wa'' "white".
+STEDT derives it from {{inh|zh|sit-pro|*bawk||white}}, whence also {{cog|tbq-bdg-pro|*bok||white}}, {{cog|lif|tr=phɔ|t=white}}; also compare {{cog|mkh-pro|*kɓɔɔk||white, grey}}.
 
-However, STEDT derives:
-* {{m|lus|váar}} from {{m|sit-pro|*hwa(ː)r ⪤ *yar}}
-* *''ʔ(b)wa'' from {{m|sit-pro|*b/s-wa}}
-* {{och-l|[[燔]]}} from {{m|sit-pro|*bʷar ~ *pʷar}}
-* {{och-l|[[皤]]}} from "pan-allofamic" root {{m|sit-pro|*(p/b/h)(w/y)a(ː)(r/l/n/t)}}, all three above being its variants.
+However, {{zh-ref|Schuessler (2007)}} finds it difficult to reconcile these forms with {{cog|ltc|-}} due to the lack of medial ''r''. Instead, he proposes a derivation from {{der|zh|sit-pro|*(p/b/h)(w/j)a(ː)(r/l/n/t)|*bar|white}} with ''-k'' extension, thus cognate with {{och-l|皤|white|id=2}} ({{zh-ref|Wang, 1982}}), {{cog|lus|vâr||(to be) white}}, {{cog|kar-pro|*ʔ(b)wa||white}}.
 
 ===Pronunciation===
 {{zh-pron
-|m=bái,bó
+|m=bái,bó,1nb=standard in Mainland and Taiwan,1nc=colloquial,2nb=literary variant
 |m_note=bó - extremely limited in usage, sometimes used in the name {{w|Li Bai}} ({{lang|zh|李白}})
 |m-s=be2
 |c=baak6
-|c-t=
-|g=
+|c-t=bak5
+|g=pah7/pet6
+|g_note=pah7 - vernacular; pet6 - literary (e.g. {{zh-l|*明白}})
 |h=pfs=pha̍k;gd=pag6
-|j=
-|mb=
-|md=băh
-|mn=qz,tw,xm:pe̍h/zz:pe̍eh/qz:pia̍k/tw,xm,zz:pe̍k
-|mn_note=pe̍h/pe̍eh - vernacular (by itself and in most compounds), pia̍k/pe̍k - literary (in a few compounds)
+|j=bai1/bieh5
+|mb=bā/bà/bà̤
+|mb_note=bā, bà - vernacular; bà̤ - literary
+|md=băh/bĕk
+|md_note=băh - vernacular; bĕk - literary
+|mn=xm,qz,tw:pe̍h/zz:pe̍eh/xm,zz,tw:pe̍k/qz:pia̍k
+|mn_note=pe̍h/pe̍eh - vernacular (standalone and in most compounds); pe̍k/pia̍k - literary (in a few compounds)
 |mn-t=bêh8
 |w=5baq
-|x=
+|x=be6
 |mc=y
 |oc=y
 |ma=y
 |ca=LL-Q9186-Justinrleung-白.wav
-|cat=a,adv,v,n
+|cat=a,adv,v,n,pn
 }}
 
 ===Definitions===
@@ -75,10 +76,10 @@ However, STEDT derives:
 #: {{zh-x|白水|plain water}}
 #: {{zh-x|白粥|plain congee}}
 # [[bright]]; [[well-lit]]
-#: {{zh-x|凡殤 與 無後 者，祭 於 宗子 之 家，當 室 之 白，尊 於 東 房，是 謂 陽厭。|In regard to all others who have died prematurely and have left no offspring, the sacrifice is offered to them in the house of the oldest son, where the apartment is the most '''light''', with the vases in the chamber on the east. This is what is called the bright satisfying offering.|CL|ref=Liji}}
-#: {{zh-x|相與 枕藉 乎 舟 中，不 知 東方 之 既 白。|The cups and plates leaned against one another in the boat, and we did not know the East has already turned '''bright white'''.|CL|ref='''1082''', {{w2|zh|蘇軾}} ({{w|Su Shi|Su Shi}}), {{lang|zh|《前赤壁賦》}}}}
+#* {{zh-x|凡殤 與 無後 者，祭 於 宗子 之 家，當 室 之 白，尊 於 東 房，是 謂 陽厭。|In regard to all others who have died prematurely and have left no offspring, the sacrifice is offered to them in the house of the oldest son, where the apartment is the most '''light''', with the vases in the chamber on the east. This is what is called the bright satisfying offering.|CL|ref=Liji}}
+#* {{zh-x|相與 枕藉 乎 舟 中，不 知 東方 之 既 白。|The cups and plates leaned against one another in the boat, and we did not know the East has already turned '''bright white'''.|CL|ref='''1082''', {{w2|zh|蘇軾}} ({{w|Su Shi|Su Shi}}), {{lang|zh|《前赤壁賦》}}}}
 # [[eminent]]; [[prominent]]
-#: {{zh-x|是故 窮 則 不 隱，通 則 大 明，身 死 而 名 彌 白。|Therefore, the superior man, when in poverty or distress, is not obscured, and when his life is smooth, he becomes more famous. After his death, his reputation becomes even more '''prominent'''.|CL|ref=Xunzi}}
+#* {{zh-x|是故 窮 則 不 隱，通 則 大 明，身 死 而 名 彌 白。|Therefore, the superior man, when in poverty or distress, is not obscured, and when his life is smooth, he becomes more famous. After his death, his reputation becomes even more '''prominent'''.|CL|ref=Xunzi}}
 # [[vernacular]]
 #: {{zh-x|白話|spoken language}}
 # [[dialect]]
@@ -113,7 +114,7 @@ However, STEDT derives:
 #: {{zh-x|道白|spoken parts of a Chinese opera}}
 #: {{zh-x|獨白|monologue}}
 #: {{zh-x|對白|dialogue}}
-#: {{zh-x|（白）^無言 獨 上 西樓，月 如 鉤……|''('''spoken:''')'' Without words, I ascend the western tower by myself; the moon is like a hook{{...}}<br>{{q|as may be displayed in the lyrics to {{w|Teresa Teng}}'s &ldquo;Du shang xilou&rdquo; ({{lang|zh|獨上西樓}})}}}}
+#* {{zh-x|（白）^無言 獨 上 西樓，月 如 鉤……|''('''spoken:''')'' Without words, I ascend the western tower by myself; the moon is like a hook{{...}}<br>{{q|as may be displayed in the lyrics to {{w|Teresa Teng}}'s &ldquo;Du shang xilou&rdquo; ({{lang|zh|獨上西樓}})}}}}
 # [[funeral]]
 #: {{zh-x|紅白喜事|weddings and funerals}}
 # {{surname|zh}} [[Bai]]
