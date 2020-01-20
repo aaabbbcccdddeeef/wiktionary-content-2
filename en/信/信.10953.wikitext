@@ -19,26 +19,27 @@
 {{Han compound|人|言|ls=ic|t1=person|t2=word}} – a person's (truthful) words.
 
 ===Etymology===
-Possibly derived from {{och-l|[[允]]}} (if minimally reconstructed as *''winʔ'') {{zh-ref|(Schuessler, 2007)}}
+{{zh-ref|Schuessler (2007)}} reconstructs the {{cog|och|-}} minimally as ''*sin'' and derives this from {{och-l|允|tr=*winʔ|to trust; to be true}}.
 
-Alternatively, {{zh-ref|Baxter & Sagart (2012)}} reconstruct *''s-niŋ-s'' and suggest a derivation, albeit uncertain, from {{och-l|仁|tr=niŋ}} with valency-increasing prefix ''s-''; as apparently "while 仁 rén means 'kindness' as a property of a single person, when 信 xìn is used, it refers to a quality directed to another person"
+Alternatively, {{zh-ref|Sagart and Baxter (2012)}} reconstruct ''*s-niŋ-s'' (''*s-ni[ŋ]-s'' in {{zh-ref|Baxter and Sagart, 2014}}) and suggest a derivation from {{och-l|仁|tr=*niŋ|kind}} with the prefix ''*s-'', probably used to increase its valency.
 
 ===Pronunciation===
 {{zh-pron
 |m=xìn
-|m-s=
+|m-s=xin4
 |dg=щин3
 |c=seon3
-|c-t=
+|c-t=lhin1,lhin1*
+|c-t_note=lhin1* - “letter”
 |g=xin4
-|h=pfs=sin
+|h=pfs=sin;gd=xin4
 |j=xing3
 |mb=se̿ng
 |md=séng
 |mn=sìn
 |mn-t=sing3
 |w=2xin
-|x=xin4
+|x=sin4
 |mc=y
 |oc=y
 |ma=y
@@ -61,7 +62,7 @@ Alternatively, {{zh-ref|Baxter & Sagart (2012)}} reconstruct *''s-niŋ-s'' and s
 #: {{zh-x|我 父親 信 佛教。|My father is a [[Buddhist]]. (''lit.'' My father '''believes in''' Buddhism.)}}
 # [[at will]]
 #: {{zh-x|信口.雌黃|to make irresponsible remarks (''lit.'' to correct someone with '''at will''')}}
-# [[letter]] {{gloss|written communication}} {{zh-mw|m,c:封}}
+# [[letter]] {{gloss|written communication}} {{zh-mw|m,c,mn:封}}
 # [[message]]; [[news]]; [[information]]
 #: {{zh-x|信息|news, message}}
 # [[evidence]]
