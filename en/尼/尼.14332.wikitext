@@ -158,8 +158,6 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=尸02}}
 
-# {{rfdef|ja|sort=尸02}}
-
 ====Readings====
 {{ja-readings
 |goon=に, ねい
@@ -168,15 +166,19 @@
 }}
 
 ====Compounds====
-* {{ja-l|尼君}}
-* {{ja-l|尼御前}}
-* {{ja-l|尼寺}}
-* {{ja-l|尼法師}}
-* {{ja-l|尼僧}}
+* {{ja-r|尼%君|あま%ぎみ|[[honorific]] term of [[address]] for a [[nun]] of high social [[standing]]}}
+* {{ja-r|尼%御%前|あま% ご%ぜん|[[honorific]] term of [[address]] for a [[nun]]}}
+* {{ja-r|尼%寺|あま%でら|a [[Buddhist]] [[temple]] at which [[nun]]s live; a [[Christian]] [[convent]] or [[nunnery]]}}
+* {{ja-r|尼%法%師|あま% ほう%し|an [[ordained]] [[Buddhist]] [[nun]]}}
+* {{ja-r|尼%僧|に%そう|a [[sister]]: a [[Buddhist]] or [[Christian]] [[nun]]}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|あま}}
+
+Probably ultimately from {{der|ja|pi|amma||[[mother]]; [[woman]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
+
 ====Pronunciation====
-{{ja-pron|あま}}
+{{ja-pron|あま|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|あま}}
@@ -184,6 +186,8 @@
 # [[nun]]
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|あま}}
+
 From {{clipping|ja|アマゾン|tr=Amazon|t=Amazon.com Inc}}.
 
 ====Pronunciation====
@@ -202,6 +206,9 @@ From {{clipping|ja|アマゾン|tr=Amazon|t=Amazon.com Inc}}.
 
 =====Synonyms=====
 * {{ja-r|密%林|みつ%りん}}
+
+===References===
+<references/>
 
 ----
 
