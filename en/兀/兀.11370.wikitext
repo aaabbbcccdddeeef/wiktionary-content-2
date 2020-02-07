@@ -12,18 +12,18 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㐳}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Etymology===
+===Etymology 1===
 ; “to cut off the feet”
 : Perhaps {{der|zh|aav}}; compare {{cog|mnw|ကုတ်|tr=kut||to cut off; to amputate}} ({{zh-ref|Schuessler, 2007}}).
 ; “that”
-: Borrowed from {{bor|zh|trk|-}}. Compare {{cog|otk|𐰆𐰞}}, {{cog|tr|o|t=he, she, it; that}}, {{cog|ug|ئۇ|t=he, she, it; that}} and {{cog|xqa|اُلْ|t=he, she, it; that|tr=ol}}. First attested in the {{w|South Song Dynasty}}.
+: Borrowed from {{bor|zh|trk|-}}, ultimately from {{der|zh|trk-pro|*ol}}. Compare {{cog|otk|𐰆𐰞}}, {{cog|tr|o|t=he, she, it; that}}, {{cog|ug|ئۇ|t=he, she, it; that}}, {{cog|cv|вӑл|t=he, she, it}} and {{cog|xqa|اُلْ|t=he, she, it; that|tr=ol}}. First attested in the {{w|South Song Dynasty}}.
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=wù
 |c=ngat6
@@ -40,21 +40,28 @@
 # {{lb|zh|literary}} [[towering]]
 #: {{zh-x|突兀|lofty}}
 # {{lb|zh|literary}} [[bald]]
+#* {{zh-x|^蜀 山 兀，^阿{Ē}房{páng} 出。||CL|ref='''825''', {{w|Du Mu}}, {{lang|zh|[[s:zh:阿房宮賦|阿房宮賦]]}}}}
 # {{lb|zh|literary}} [[still]]; [[yet]]
 # {{†}} to [[cut off]] the [[feet]]
-#: {{zh-x|兀者|person that has one of their feet cut}}
+#: {{zh-x|兀者|person that had has one of their feet cut}}
 # {{†}} [[unpeaceful]]
 # {{†}} {{rfv-sense|zh}} {{n-g|A meaningless participle.}}
 # {{lb|zh|dialectal Mandarin|Jin}} [[that]] <!-- see 汪化云. 方言远指代词“乜、兀”的词源[J]. 汉字文化, 2007(4):50-52.-->
+#: {{zh-ant|這}}
 # {{surname|zh}}
 
 =====Synonyms=====
 {{zh-dial|那}}
 
 ====Compounds====
-{{zh-der|保兀赤|兀傲|兀兀|兀兀禿禿|兀剌|兀剌赤|兀坐|兀子|兀是|兀朮|兀的|兀的不|兀立|兀者|兀自|兀臬|兀良|兀誰|兀那|兀鷲|兀鷹|可兀的|崒兀|捽兀|搖兀|旭烈兀|畏兀字|硉兀|突兀|軟兀剌|醉兀兀|陶兀|陶陶兀兀}}
+{{zh-der|保兀赤|兀傲|兀兀|兀兀禿禿|兀剌|兀剌赤|兀坐|兀子|兀是|兀朮|兀的|兀的不|兀立|兀者|兀自|兀臬|兀良|兀誰|兀那|兀鷲|兀鷹|可兀的|崒兀|捽兀|搖兀|旭烈兀|畏兀字|硉兀|突兀|軟兀剌|醉兀兀|陶兀|陶陶兀兀|畏兀兒}}
 
-===Pronunciation 2===
+====Descendants====
+{{CJKV||こつ|j2=ごつ|올}}
+
+===Etymology 2===
+
+====Pronunciation====
 {{zh-pron
 |m=wū
 |cat=syllable
@@ -65,8 +72,12 @@
 
 # {{zh-only|兀禿}}
 
+===Etymology 3===
+{{zh-see|尢}}
+
 ===References===
 * {{R:twedu|A00263}}
+* {{R:twedu|C02853-003}}
 
 ----
 
