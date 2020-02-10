@@ -1,7 +1,7 @@
 ==Japanese==
 
 ===Etymology===
-The copula {{m|ja|です|tr=desu}} is thought to be a contracted version of {{m|ja|である|であります|tr=dearimasu}}, from {{compound|ja|だ|alt1=で|tr1=de|ある|alt2=あります|tr2=arimasu|nocat=1}}; however, there are other possibilities, namely {{m|ja|でござる|でございます|tr=degozaimasu}}, from {{compound|ja|だ|alt1=で|tr1=de|ござる|alt2=ございます|tr2=gozaimasu|nocat=1}}; {{m|ja|でする|tr=desuru}}, from {{compound|ja|だ|alt1=で|tr1=de|する|tr2=suru|nocat=1}}; {{m|ja|でおわす|tr=deowasu}}, from {{compound|ja|だ|alt1=で|tr1=de|おわす|tr2=owasu|nocat=1}}; and {{m|ja|でそうろう|tr=desourou}}, from {{compound|ja|だ|alt1=で|tr1=de|そうろう|tr2=sourou|nocat=1}}.
+The copula {{m|ja|です|tr=desu}} is thought to be a contracted version of {{m|ja|である|であります|tr=de arimasu}}, from {{compound|ja|だ|alt1=で|tr1=de|ある|alt2=あります|tr2=arimasu|nocat=1}}; however, there are other possibilities, namely {{m|ja|でござる|でございます|tr=de gozaimasu}}, from {{compound|ja|だ|alt1=で|tr1=de|ござる|alt2=ございます|tr2=gozaimasu|nocat=1}}; {{m|ja|でする|tr=de suru}}, from {{compound|ja|だ|alt1=で|tr1=de|する|tr2=suru|nocat=1}}; {{m|ja|でおわす|tr=de owasu}}, from {{compound|ja|だ|alt1=で|tr1=de|おわす|tr2=owasu|nocat=1}}; and {{m|ja|でそうろう|tr=de sourou}}, from {{compound|ja|だ|alt1=で|tr1=de|そうろう|tr2=sourou|nocat=1}}.
 
 ===Pronunciation===
 {{ja-pron|acc=1|dev=2}}
@@ -9,26 +9,27 @@ The copula {{m|ja|です|tr=desu}} is thought to be a contracted version of {{m|
 ===Verb===
 {{head|ja|verb form}}
 
-# Formal of [[だ]].
-# {{lb|ja|after a nominal|sort=てす'}} To [[be]].
-#: {{ja-usex|これは私のパソコン'''です'''。|これ は わたし の パソコン '''です'''。|This '''is''' my PC.}}
-# {{lb|ja|after the plain past or nonpast form of ''-i'' adjectives or in some cases verbs|sort=てす'}} {{non-gloss definition|Used to express politeness toward the listener.}} {{attention|ja|this does not seem like the definition for a verb; is this a part of the above definition?}}
+# formal or polite form of {{ja-r|だ}}
+## {{lb|ja|after a nominal|sort=てす'}} to [[be]]
+##: {{ja-usex|これは私のパソコン'''です'''。|これ は わたし の パソコン '''です'''。|This '''is''' my PC.}}
+## {{lb|ja|after the plain past or nonpast form of ''-i'' adjectives or in some cases verbs|sort=てす'}} {{non-gloss definition|Used to express politeness toward the listener.}}
 
 ====Usage notes====
-Perfective form is {{m|ja|でした|tr=deshita}}, volitional {{m|ja|でしょう|tr=deshou}}, conjunctive {{m|ja|でして|tr=deshite}}. Other forms are not used.
+The perfective form is {{ja-r|でした}}, volitional {{ja-r|でしょう}}, conjunctive {{ja-r|でして}}. Other forms are not used.
 
-Replaces {{m|ja|だ|tr=da}} in cases of nouns and adjectives which it is used with, e.g. {{lang|ja|[[犬]]だ}} becomes {{lang|ja|犬です}} and {{lang|ja|[[綺麗]]だ}} becomes {{lang|ja|綺麗です}}. Similarly, {{m|ja|でしょう|tr=deshou}} replaces {{m|ja|だろう|tr=darou}} and {{m|ja|でして|tr=deshite}} replaces {{m|ja|で|tr=de}}.
+Replaces {{ja-r|だ}} in cases of nouns and adjectives which it is used with, e.g. {{m|ja|[[犬]]だ|tr=inu da||it's a dog|pos=plain}} becomes {{m|ja||犬です|tr=inu desu|pos=polite}} and {{m|ja|[[綺麗]]だ|tr=kirei da||it's pretty|pos=plain}} becomes {{m|ja||綺麗です|tr=kirei desu|pos=polite}}. Similarly, {{ja-r|でしょう}} replaces {{ja-r|だろう}} and {{ja-r|でして}} replaces {{ja-r|で}}.
 
-{{m|ja|です|tr=desu}} attaches as is to adjectives used without {{l|ja|だ|tr=da}}, e.g. {{lang|ja|[[美しい]]}} becomes {{lang|ja|美しいです}} and {{lang|ja|美しかった}} becomes {{lang|ja|美しかったです}}. Forms such as {{lang|ja|美しいでした}} and {{lang|ja|美しいでして}} are nonstandard. For the forms {{m|ja|ない|ないです|tr=nai desu}} and {{m|ja|ない|なかったです|tr=nakatta desu}}, there are synonyms {{m|ja|ありません|tr=arimasen}} and {{m|ja|ありません|ありませんでした|tr=arimasen deshita}}. It can also be used to ask questions; {{l|ja|[[本]][[です]][[か]]}} means "Is this a book?"
+{{ja-r|です}} attaches as-is to adjectives used without {{ja-r|だ}}, e.g. {{m|ja|美しい|tr=utsukushii||it is beautiful|pos=plain}} becomes {{m|ja||美しいです|tr=utsukushii desu|it is beautiful|pos=polite}} and {{m|ja|美しかった|tr=utsukushikatta||it was beautiful|pos=plain}} becomes {{m|ja||美しかったです|tr=utsukushikatta desu|it was beautiful|pos=polite}}. Forms such as {{m|ja||美しいでした}} and {{m|ja||美しいでして}} are nonstandard. For the forms {{ja-r|[[ない]] [[です]]}} and {{ja-r|[[なかった]] [[です]]}}, there are synonyms {{ja-r|ありません}} and {{ja-r|[[ありません]] [[でした]]}}. It can also be used to ask questions; {{m|ja|[[本]][[です]][[か]]|tr=hon desu ka}} means "Is this a book?"
 
 This word is phonologically an [[enclitic]], similar to [[particle]]s. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
 
 ====Derived terms====
-* {{qualifier|informal}} {{ja-l|っす}}
+* {{qualifier|informal}} {{ja-r|っす}}
 * {{ja-r|です体|です たい}}
 * {{ja-r|ですます体|です-ます たい}}
 * {{ja-r|ですます調|です-ます ちょう}}
 
 ====See also====
-* {{ja-l|ます||masu}}
+* {{ja-r|ます}}
+
 {{Japanese basic inflections}}
