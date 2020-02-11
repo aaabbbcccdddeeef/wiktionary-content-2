@@ -2,10 +2,10 @@
 {{ja-kanjitab|おぼ|sort=おぼえる|yomi=kun}}
 
 ===Etymology===
-/omo{{sub|2}}pu/ → {{IPAchar|/omwopoju/}} → {{IPAchar|/omwoɸoju/}} → {{IPAchar|/omoɸoju/}} → {{IPAchar|/oboɸoju/}} → {{IPAchar|/oboju/}} → {{IPAchar|/obojuru/}} → {{IPAchar|/obojeru/}} → {{IPAchar|/oboeru/}}
+{{IPAfont|/omo<sub>2</sub>pu/}} → {{IPAchar|/omwopoju/}} → {{IPAchar|/omwoɸoju/}} → {{IPAchar|/omoɸoju/}} → {{IPAchar|/oboɸoju/}} → {{IPAchar|/oboju/}} → {{IPAchar|/obojuru/}} → {{IPAchar|/obojeru/}} → {{IPAchar|/oboeru/}}
 
-Ultimately from {{inh|ja|ojp|-|sort=おぼえる}} verb {{m|ja|思ふ|tr=omopu|pos=modern {{m|ja|思う}} ''omou'', “to think (about or of something)”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The historical derivation is roughly as follows:
-* the {{m|ja|未然形|tr=mizenkei||irrealis form}} ''omopa'' of {{inh|ja|ojp|-|sort=おぼえる}} verb {{m|ja|思ふ|tr=omopu||think|pos=modern {{m|ja|思う}} ''omou''}} + {{m|ja|ゆ|tr=yu|pos={{cog|ojp|-}} verb suffix denoting intransitive or passive action}}:
+Ultimately from {{inh|ja|ojp|sort=おぼえる|-}} verb {{m|ja|思ふ|tr=omopu|pos=modern {{m|ja|思う}} ''omou'', “to think (about or of something)”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The historical derivation is roughly as follows:
+* the {{m|ja|未然形|tr=mizenkei||irrealis form}} ''omopa'' of {{inh|ja|ojp|-|sort=おぼえる}} verb {{m|ja|思ふ|tr=omopu||think|pos=modern {{m|ja|思う}} ''omou''}} + {{m|ja|ゆ|tr=yu|pos={{cog|ojp|-}} verb suffix denoting intransitive, spontaneous, or passive action}}:
 : ''omopayu'' → ''omopoyu''
 : The ''omopoyu'' form is found in the ''{{w|Nihon Shoki}}'' and the ''{{w|Man'yōshū}}''.
 * [[contraction]] and regular sound changes:
@@ -18,7 +18,7 @@ Ultimately from {{inh|ja|ojp|-|sort=おぼえる}} verb {{m|ja|思ふ|tr=omopu|p
 The verb was originally used in intransitive and passive contexts, in accordance with its derivation. It began to be used in more active and transitive contexts starting from roughly the mid-{{w|Heian period}}, with the {{m|en|learn}} and {{m|en|memorize}} senses appearing in the {{w|Kamakura period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ===Pronunciation===
-{{ja-pron|acc=3|おぼえる|y=k}}
+{{ja-pron|おぼえる|acc=3|acc_ref=DJR}}
 {{ja-ojad}}
 
 ===Verb===
