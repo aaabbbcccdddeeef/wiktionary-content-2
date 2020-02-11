@@ -115,18 +115,18 @@ Different branches of Christianity use different terms for God:
 {{wp|Kami}}
 {{wp|God}}
 
-{{IPAfont|⟨kami{{sub|2}}⟩}} → *{{IPAchar|/kamɨ/}} → {{IPAchar|/kami/}}
+{{IPAfont|⟨kami<sub>2</sub>⟩}} → *{{IPAchar|/kamɨ/}} → {{IPAchar|/kami/}}
 
-From {{inh|ja|ojp|sort=|-}}, ultimately from {{inh|ja|jpx-pro|*kamuy}}.
+From {{inh|ja|ojp|sort=かみ|-}}, ultimately from {{inh|ja|jpx-pro|*kamuy}}.
 
-Not related to {{m|ja|上|tr=kami{{sub|1}} → kami||[[top]], [[upper]]}} or {{m|ja|髪|tr=kami||[[hair]]}}. Possibly cognate with {{cog|ko|검||[[god]], [[spirit]]}}.
+Not related to {{m|ja|上|tr=kami<sub>1</sub> → kami||[[top]], [[upper]]}} or {{m|ja|髪|tr=kami||[[hair]]}}. Possibly cognate with {{cog|ko|검||[[god]], [[spirit]]}}.
 
 Often appears in compounds as ''kamu-'' or ''kan-'', indicating that ''kami'' is a bound or fused form deriving from *{{IPAchar|/kamu.i/}}. Note that this final ''i'' may be the {{cog|ojp|-}} emphatic nominative particle {{m|ja|い|tr=i}}, likely cognate with {{cog|ko|-}} nominative particle {{m|ko|이}}. Such fusion has occurred in other {{cog|ja|-}} terms, such as {{m|ja|目|tr=me||[[eye]]|pos=from ''ma'' + ''i''}} or {{m|ja|酒|tr=sake||[[sake]], [[liquor]]|pos=from ''saka'' + ''i''}}.
 
 Compare {{cog|ain|カムィ|tr=kamuy||god}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かみ|acc=1|acc_ref=NHK,DJR}}
+{{ja-pron|かみ|acc=1|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|かみ}}
@@ -190,12 +190,12 @@ Compare {{cog|ain|カムィ|tr=kamuy||god}}.
 ===Etymology 2===
 {{ja-kanjitab|yomi=kanon|しん}}
 
-From {{der|ja|ltc|sort=|-}} {{ltc-l|神}}. The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
+From {{der|ja|ltc|sort=しん|-}} {{ltc-l|神}}. The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
 
 Compare modern {{cog|cmn|神|tr=shén}}.
 
 ====Pronunciation====
-{{ja-pron|y=ko|しん|acc=1|acc_ref=DJR}}
+{{ja-pron|しん|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|しん}}
@@ -264,14 +264,17 @@ Compare modern {{cog|cmn|神|tr=shén}}.
 ===Etymology 3===
 {{ja-kanjitab|yomi=goon|じん}}
 
-From {{der|ja|ltc|sort=|-}} {{ltc-l|神}}.
+From {{der|ja|ltc|sort=しん'|-}} {{ltc-l|神}}.
 
 The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the earlier borrowing from {{cog|ltc|-}}.
+
+====Pronunciation====
+{{ja-pron|じん}}
 
 ====Noun====
 {{ja-noun|じん}}
 
-# {{n-g|Same as {{m|ja||しん|tr=shin}} above}}
+# {{lb|ja|sort=しん'|rare}} {{n-g|Same as {{m|ja||しん|tr=shin}} above}}
 
 ====Affix====
 {{ja-pos|affix|じん}}
@@ -298,7 +301,7 @@ The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the earlier 
 ===Etymology 4===
 {{ja-kanjitab|yomi=i|み|alt=霊}}
 
-{{IPAfont|⟨mi{{sub|1}}⟩}} → *{{IPAchar|/mʲi/}} → {{IPAchar|/mi/}}
+{{IPAfont|⟨mi<sub>1</sub>⟩}} → *{{IPAchar|/mʲi/}} → {{IPAchar|/mi/}}
 
 From {{inh|ja|ojp|sort=み|-}}.
 
