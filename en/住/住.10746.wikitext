@@ -68,12 +68,6 @@
 
 ==Japanese==
 
-===Noun===
-{{ja-kanjitab|じゅう|yomi=on}}
-{{ja-noun|じゅう}}
-
-# [[dwelling]]; [[living]]
-
 ===Kanji===
 {{ja-kanji|grade=3|rs=人05}}
 
@@ -83,12 +77,39 @@
 {{ja-readings
 |goon=じゅう<ぢゆう
 |kanon=ちゅう<ちゆう
-|kun=す-む, す-まう, ず-まい, すみ, し
+|kun=す-む, す-み, す-まう, す-まい
 }}
 
 ====Compounds====
-* {{ja-r|住む|すむ}}: to [[live]] in
 * {{ja-r|住%所|じゅう%しょ}}: [[address]]
+
+===Etymology 1===
+{{ja-kanjitab|yomi=goon|じゅう}}
+
+From {{der|ja|ltc|sort=しゅう'|-}} {{ltc-l|住}}.
+
+====Pronunciation====
+{{ja-pron|じゅう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じゅう|hhira=ぢゆう}}
+
+# the [[act]] of [[dwelling]], [[residing]], [[living]] in a place
+# [[abode]], [[residence]]
+#: {{synonyms|ja|住まい|tr1=sumai|住居|tr2=jūkyo}}
+
+====Suffix====
+{{ja-pos|suffix|じゅう|hhira=ぢゆう}}
+
+# {{n-g|added after a placename to indicate where someone lives}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|す|o2=まい|alt=住居,住い:uncommon}}
+{{ja-see|住まい}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
 
 ----
 
