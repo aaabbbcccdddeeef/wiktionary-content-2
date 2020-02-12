@@ -1456,19 +1456,26 @@ See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
 * {{qualifier|letter name}} {{IPA|ro|/e/}}
-* {{qualifier|phoneme|generally}} {{IPA|ro|/e/}}
+* {{qualifier|phoneme}} {{IPA|ro|/e/|/je/}}
 
 ====Letter====
-{{head|ro|letter|lower case||upper case|E}}
+{{ro-letter|lower=e|upper=E}}
 
-# The seventh letter of the [[Romanian alphabet]].
+# {{Latn-def|ro|letter|7|e}}
 
 =====Usage notes=====
-See {{m|ro|E}} for pronunciation notes and details.
+See {{m|ro|E}} for pronunciation notes.
 
 =====See also=====
-* Previous letter: [[d]]
-* Next letter: [[f]]
+* {{list:Latin script letters/ro}}
+
+====Noun====
+{{ro-noun|?|e-uri}}
+
+# {{Latn-def|ro|name|E|e}}
+
+=====Declension=====
+{{ro-noun-n|pl=e-uri|def=e-ul|vs=-|vp=-}}
 
 ===Etymology 2===
 {{rfe|ro}}
@@ -1476,41 +1483,34 @@ See {{m|ro|E}} for pronunciation notes and details.
 ====Interjection====
 {{head|ro|interjection}}
 
-# expression of [[annoyance]], [[irritation]]
-# expression of [[boredom]], [[indifference]]
-# ''(when prolonged''...'''eee''') [[surprise]], [[satisfaction]], [[admiration]]
+# {{ngd|expression of annoyance, irritation}}
+# {{ngd|expression of boredom, indifference}}
+# {{q|when prolonged…'''eee'''}} {{ngd|expression of surprise, satisfaction, admiration}}
 
 ===Etymology 3===
 {{rfe|ro}}
 
 ====Pronunciation====
 * {{IPA|ro|/je/}}
-* {{audio|ro|Ro-e.ogg|audio}}
+* {{audio|ro|Ro-e.ogg|Audio}}
 
 ====Verb====
 {{head|ro|verb form}}
 
-# {{lb|ro|informal}} {{verb form of|ro|fi||3s|pres|ind}}
-#: ''[[el|El]] '''e''' [[un]] [[copil]].''
-#:: "He is a child."
-
-=====Synonyms=====
-* {{l|ro|este}}
-* {{qualifier|regional}} {{l|ro|îi}}
-* {{qualifier|familiar}} {{l|ro|-i}}
+# {{lb|ro|informal}} {{infl of|ro|fi||3s|pres|ind}}
+#: {{ux|ro|El '''e''' un copil.|He '''is''' a child.}}
+#: {{syn|ro|este|îi|q2=regional|-i|q3=familiar}}
 
 ===Etymology 4===
 See {{m|ro|et}}.
 
 ====Conjunction====
-{{head|ro|conjunction}}
+{{ro-conjunction}}
 
-# {{lb|ro|obsolete}} [[and]]
-# {{lb|ro|obsolete}} [[but]]
-
-=====Synonyms=====
-* {{sense|and}} {{l|ro|și}}
-* {{sense|but}} {{l|ro|dar}}, {{l|ro|iar}}
+# {{lb|ro|obsolete}} {{l|en|and}}
+#: {{syn|ro|și}}
+# {{lb|ro|obsolete}} {{l|en|but}}
+#: {{syn|ro|dar|iar}}
 
 ----
 
