@@ -107,18 +107,21 @@ upi > uɸi > uwi > ui.
 # first
 
 ===Etymology 2===
-{{ja-kanjitab|はつ|yomi=k}}
-From {{inh|ja|ojp|sort=はつ|-}}, from {{inh|ja|jpx-pro|sort=はつ|*patu}}.
+{{ja-kanjitab|yomi=k|はつ}}
+From {{inh|ja|ojp|sort=はつ|-}}.  Appears in the ''{{w|Man'yōshū}}'' completed 759 {{CE}}.<ref>{{RQ:Manyoshu|20|4516}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4516 here]</ref> In turn, from {{inh|ja|jpx-pro|sort=はつ|*patu}}.
+
+Presumably related to {{m|ja|初め|tr=hajime||beginning}}, {{m|ja|端|tr=ha||edge of something}}.
+
+====Pronunciation====
+{{ja-pron|はつ|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|はつ}}
 
-# the [[first]]; a [[start]]; the [[beginning]]
+# the [[first]], a [[start]], the [[beginning]]
 #: {{ja-usex|今年'''初の'''コンサート|ことし '''はつ の''' コンサート|the '''first''' concert of this year}}
-# first sexual relations
-
-; Antonyms
-* {{ja-r|末|すえ|gloss=[[last]], [[end]]}}
+#: {{antonyms|ja|末|tr1=sue|q1=[[last]], [[end]]}}
+# first sexual relations, one's [[first time]]
 
 ====Prefix====
 {{ja-pos|prefix|はつ}}
