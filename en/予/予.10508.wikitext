@@ -24,15 +24,9 @@
 Two hands, each handing an object to another.
 
 ===Etymology 1===
-From {{inh|zh|sit-pro|*g-la}}.
+From {{inh|zh|sit-pro|*g-la||to pay; to give for}}.
 
-{{zh-ref|Zhao (1990)}} argued {{cog|nan|予|tr=hō͘||to give; to allow; by}} is a {{der|zh|qfa-tak}} substrate, associating it with {{cog|za|hawj||to give; to allow}} and {{cog|pcc|haec||to give; to allow}}. Note both were descended {{cog|tai-pro|*haɰᶜ||to give}} which originated from either {{der|th|ltc|-}} {{ltc-l|許|to allow}} or {{der|tai-pro|och|-}} {{och-l|與|id=2|to give}} ({{zh-ref|Zheng (2008)}}). 
-
-{{zh-ref|Zheng (2008)}} considered the ''h-'' initial of both {{cog|nan|予|tr=hō͘||to give; to allow; by}} and {{cog|za|hawj||}} to be descended from the Chu dialect ({{lang|zh|楚方言}}) of {{der|tai-pro|och|-}} {{och-l|與|id=2|to give}}, and noted instances where words beginning with the {{zh-l|*以|}} initial in Middle Chinese are pronounced with a ''h-'' initial in modern Min. The rimes of {{cog|nan|予|tr=hō͘}} and {{cog|za|hawj||}}, on the other hand, descended from the rimes of {{zh-l|*與}} during Qin/Han and in an authoritative southern dialect in the Southern dynasties respectively.
-
-Taiwan's Ministry of Education agrees that the original character representing {{cog|nan|予|tr=hō͘||to give; to allow; by}} is indeed {{lang|zh|予}} ({{zh-l|*與|to give}} and {{zh-l|*予|to give}} are from the same root), but considers the Xiamen, Zhangzhou and Taiwan pronunciation ''hō͘'' to be the result of sound change from Quanzhou pronunciation ''thō͘'' ([https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia327pdf.pdf Source]).
-
-====Pronunciation 1====
+====Pronunciation====
 {{zh-forms}}
 {{zh-pron
 |m=yǔ
@@ -47,24 +41,36 @@ Taiwan's Ministry of Education agrees that the original character representing {
 |cat=v
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # (= {{zh-l|*與}}) to [[give]]
 # to [[praise]]; to [[esteem]]
 
-=====Compounds=====
+====Compounds====
 {{zh-der|予假|予人口實|予以|准予|予告|不予置評|寄予|施予|授予|生殺予奪|閔予小子|贈予|賜予|給予|賦予|予市}}
 
-====Pronunciation 2====
-{{zh-forms|alt=互,乎,與,給,呼,後,候,𢗝,厚,被-“by”,讓-“to allow; to cause”,使-“to cause”,俾-“to cause”,度-Quanzhou}}
+===Etymology 2===
+{{zh-forms|alt=互,乎,與,護,付,給,呼,後,候,𢗝,厚,被-“by”,讓-“to allow; to cause”,使-“to cause”,俾-“to cause”,度-Quanzhou}}
+Most sources (e.g. {{zh-ref|Lin, 1999}}; {{zh-ref|Mei, 2007}}) consider {{och-l|與|id=2}}, or less often the cognate {{och-l|予|id=2}}, to be the original character, in which case this would be the same word as etymology 1.
+
+Alternatively, {{zh-ref|Zhao (1990)}} argues that this is a {{der|zh|qfa-tak}} substrate, suggesting a borrowing from {{cog|tai-pro|*haɰᶜ||to give}}, whence {{cog|za|hawj||to give; to allow}} and {{cog|pcc|haec||to give; to allow}}. Note that the {{cog|tai|-}} word has been connected to {{cog|ltc|-}} {{ltc-l|許|to allow}} ({{zh-ref|Manomaivibool, 1975}}).
+
+On the other hand, {{zh-ref|Zheng (2008)}} considers both the {{cog|nan-hok|-}} word and the {{cog|qfa-tak}} word to be derived from {{zh-l|*與}}.
+
+Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the development of the ''h-'' initial:
+* {{cog|och|-}} {{IPAfont|/*glagx/}} → {{IPAfont|/*gagx/}} → {{IPAfont|/*ɣɔ/}} → {{IPAfont|/hɔ⁶/}} ({{zh-ref|Mei, 2005, 2007}})
+* Fricativization of the {{IPAfont|/*l/}} initial in {{cog|och|-}}, possibly originating in the Chu dialect ({{zh-ref|Zheng, 2008}})
+* {{IPAchar|/tʰ/}} (Quanzhou) → {{IPAchar|/h/}} (other varieties) ({{zh-ref|Zhou, 2006}}; [https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia327pdf.pdf Taiwan's Ministry of Education])
+
+====Pronunciation====
 {{zh-pron
 |mn=xm,zz,tp,kh,tn,tc,hc,sx,yl,km,mg,sg:hō͘/qz:thō͘/lk:hǒ͘
 |mn_note=vernacular reading
 |cat=v,prep
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}} {{tlb|zh|Hokkien}}
 
 # to [[give]]
@@ -75,11 +81,11 @@ Taiwan's Ministry of Education agrees that the original character representing {
 # [[by]] (used in constructing the passive)
 #: {{zh-x|伊 予 人 拍。|He was beaten up ('''by''' someone).|MN}}
 
-======Synonyms======
+=====Synonyms=====
 {{zh-dial|給}}
 {{zh-dial|被}}
 
-===Etymology 2===
+===Etymology 3===
 {{zh-forms}}
 
 ====Pronunciation====
@@ -93,7 +99,7 @@ Taiwan's Ministry of Education agrees that the original character representing {
 |cat=pron,pn
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # {{†}} {{zh-alt-form|余|I, me}}
@@ -101,16 +107,16 @@ Taiwan's Ministry of Education agrees that the original character representing {
 #: {{zh-x|夫子 矢 之 曰：「予 所 否{pǐ} 者，天 厭 之！天 厭 之！」|On which the Master swore, saying, "Wherein '''I''' have done improperly, may Heaven reject me! May Heaven reject me!"|ref=Analects}}
 # {{surname|zh}}
 
-======Synonyms======
+=====Synonyms=====
 {{zh-dial|我}}
 
-=====Compounds=====
+====Compounds====
 {{zh-der|予小子|予取予求|予一人|人莫予毒|莫予毒也}}
 
-===Etymology 3===
+===Etymology 4===
 {{zh-see|豫|ssv}}
 
-===Etymology 4===
+===Etymology 5===
 {{zh-see|預|ss}}
 
 ===Further reading===
