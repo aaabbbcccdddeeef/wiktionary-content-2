@@ -126,13 +126,12 @@ From {{inh|zh|sit-pro|*d/s-kəw}}. Compare {{cog|bo|དགུ}}.
 {{der-bottom}}
 
 ===Etymology 1===
-From Early {{etyl|ltc|ja|sort=く}}. [[呉音#Japanese|Goon]], the initial reading when first borrowed into Japanese.
+{{ja-kanjitab|yomi=goon|く|alt=玖}}
+
+From Early {{der|ja|ltc|sort=く|-}} {{ltc-l|九}}. The [[呉音#Japanese|goon]], the initial reading when first borrowed into Japanese.
 
 ====Pronunciation====
-{{ja-pron|く|acc=1|y=go}}
-
-====Alternative forms====
-* {{ja-l|玖}}
+{{ja-pron|く|acc=1|acc_ref=DJR}}
 
 ====Number====
 {{ja-pos|く|numeral symbol}}
@@ -150,10 +149,12 @@ From Early {{etyl|ltc|ja|sort=く}}. [[呉音#Japanese|Goon]], the initial readi
 {{japanese number}}
 
 ===Etymology 2===
-From {{etyl|ltc|ja|sort=きゅう}}. [[漢音#Japanese|Kan'on]], a later reading. Borrowed after palatalisation occurred in Middle Chinese.
+{{ja-kanjitab|yomi=kanon|きゅう}}
+
+From {{der|ja|ltc|sort=きゅう|-}} {{ltc-l|九}}. The [[漢音#Japanese|kan'on]], a later reading. Borrowed after palatalisation occurred in Middle Chinese.
 
 ====Pronunciation====
-{{ja-pron|きゅう|acc=1|y=ko}}
+{{ja-pron|きゅう|acc=1|acc_ref=DJR}}
 * {{audio|ja|Ja-9-kyuu.ogg|Audio}}
 
 ====Number====
@@ -165,17 +166,16 @@ From {{etyl|ltc|ja|sort=きゅう}}. [[漢音#Japanese|Kan'on]], a later reading
 {{ja-noun|きゅう|hhira=きう}}
 
 # [[nine]]
-# an [[indeterminate]] [[large]] [[number]], a [[myriad]], a great many
+# {{ja-def|究}} an [[indeterminate]] [[large]] [[number]], a [[myriad]], a great many
 # {{lb|ja|sort=きゅう|divination}} the number of [[yang]], in opposition to {{m|ja|六|tr=roku||six}} as the number of [[yin]]
 
-=====Alternative forms=====
-* {{sense|large number}} {{ja-l|究}}
-
 ===Etymology 3===
-From {{inh|ja|ojp|sort=ここの}}, from {{inh|ja|jpx-pro|sort=ここの|*kəkənə}}.
+{{ja-kanjitab|yomi=k|ここの}}
+
+From {{inh|ja|ojp|sort=ここの|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> from {{inh|ja|jpx-pro|sort=ここの|*kəkənə}}.
 
 ====Pronunciation====
-{{ja-pron|ここの|y=kun}}
+{{ja-pron|ここの|acc=2|acc_ref=DJR}}
 
 ====Number====
 {{ja-pos|ここの|numeral symbol}}
@@ -183,12 +183,14 @@ From {{inh|ja|ojp|sort=ここの}}, from {{inh|ja|jpx-pro|sort=ここの|*kəkə
 # [[nine]]
 
 ===Etymology 4===
+{{ja-kanjitab|yomi=k|この}}
+
 {{IPAchar|/kokono/}} → {{IPAchar|/kono/}}
 
-Abbreviation of {{etyl|ojp|ja}} ''kokono'' (“nine”).
+Abbreviation of {{der|ja|ojp|sort=この|-}} ''kokono'' (“nine”).
 
 ====Pronunciation====
-{{ja-pron|この|y=kun}}
+{{ja-pron|この|acc=1|acc_ref=DJR}}
 
 ====Number====
 {{ja-pos|この|numeral symbol}}
@@ -203,7 +205,8 @@ Abbreviation of {{etyl|ojp|ja}} ''kokono'' (“nine”).
 Generally only used when counting out loud, as in the example above. In writing, usually found spelled out in hiragana as {{ja-l|この}} to make the reading unambiguous.
 
 ===References===
-* The Japan Times (March 17, 2010). ''[http://www.kanjiclinic.com/kc102final.htm You can count on the tales behind number-kanji].'' Accessed March 23, 2010.
+<references/>
+:* The Japan Times (March 17, 2010). ''[http://www.kanjiclinic.com/kc102final.htm You can count on the tales behind number-kanji].'' Accessed March 23, 2010.
 
 [[Category:Japanese basic words|きゅう]]
 [[Category:Japanese numeral symbols|9]]
