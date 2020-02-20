@@ -1,17 +1,129 @@
-== English ==
-=== Noun ===
-{{wikipedia}}
-'''semaphore'''
-#Any [[visual]] [[signaling]] [[system]] with [[flag]]s, [[light]]s, or [[mechanically]] [[moving]] [[arm]]s
-#A visual system for [[transmitting]] [[information]] by means of two flags that are held one in each [[hand]], using an [[alphabetic]] [[code]] based on the [[position]] of the [[signaler]]'s [[arm]]s
-#''([[:Category:Jargon:Computer|computing]])'': A [[bit]] used for restricting access to a [[resource]].  Specifically, a bit that indicates whether a particular resource is in use.
-====Translations====
-*Dutch: [[semafoor]]
-*Finnish: [[semafori]]
-===Verb===
-'''to semaphore''' [[transitive]] or [[intransitive]]
-#To [[signal]] using (or as if using) semaphore
-#* He '''semaphored''' his intention by wearing his best suit
+{{also|Semaphore|sémaphore}}
+==English==
+{{was wotd|2020|February|22}}
 
-[[Category:Jargon:Computer]]
-[[Category:Greek derivations]]
+===Etymology===
+{{multiple images
+|direction = vertical
+|image1 = Wsh signals.jpg
+|caption1 = Semaphore [[signal#Noun|signals]] ''(sense 1)'' at {{w|Worcester Shrub Hill railway station}}
+|image2 = Semaphore alphabet (Signalling, 1918).jpg
+|caption2 = The [[flag semaphore]] ''(sense 2)'' signalling alphabet
+}}
+
+{{PIE root|en|dʰyeh₂|bʰer}}
+The noun is borrowed from {{bor|en|fr|sémaphore}}, from {{der|en|grc|σῆμα|t=mark, sign, token}} (from {{der|en|ine-pro|*dʰyeh₂-|t=to notice}}) + {{der|en|fr|-phore}} (from {{der|en|grc|-φορος|pos=''suffix indicating a bearer or carrier''}}, from {{m|grc|φέρω|t=to bear, carry}}, ultimately from {{der|en|ine-pro|*bʰer-|t=to bear, carry}}).<ref>{{R:OED Online|pos=n|id=175547|date=March 2014|nodot=yes}}; {{R:Lexico|pos=n}}</ref>
+
+The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March 2014|nodot=yes}}; {{R:Lexico|pos=v}}</ref>
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈsɛməfɔː/}}
+* {{audio|en|En-uk-semaphore.oga|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˈsɛməˌfɔɹ/}}
+* {{hyphenation|en|se|ma|phore}}
+
+===Noun===
+{{en-noun|~}}
+
+# Any [[equipment]] [[use#Verb|used]] for [[visual#Adjective|visual]] [[signalling#Noun|signalling]] by means of [[flag#Noun|flags]], [[light#Noun|lights]], or [[mechanically]] [[moving#Adjective|moving]] [[arm#Noun|arms]] which are used to [[represent]] [[letter#Noun|letters]] of the [[alphabet]], or [[word#Noun|words]].
+#* {{quote-book|en|author=Albert J[ames] Myer|authorlink=Albert J. Myer|chapter=Semaphores|title=A Manual of Signals for the Use of Signal Officers in the Field,{{nb...|and for Military and Naval Students, Military Schools, etc.}}|location=Washington, D.C.|publisher=[[w:United States Government Publishing Office|Government Printing Office]]|year=1879|pages=193–194|pageurl=https://books.google.com/books?id=t11CAAAAYAAJ&pg=PA194|oclc=652297|passage=When, on long lines of stations, towers or other structures are used, it may be necessary, for greater speed, to sometimes employ '''semaphores''' for aerial telegraphy. [...] '''Semaphores''' consist of a post with arms. The arms starting with about three feet in length, to be increased one foot for every mile. These arms are made movable by ropes passing over wheels or pulleys, and moved by a crank below.}}
+#* {{RQ:Kipling Land & Sea Tales|chapter=An Unqualified Pilot|page=68|passage=And so they went down, Jim steering by his father, turn for turn, over the Mayapur Bar, with the '''semaphores''' on each bank duly signalling the depth of water, [...]}}
+#* {{quote-book|en|author=Sten Thore|chapter=Messages, Images, and Robots|title=The Diversity, Complexity, and Evolution of High Tech Capitalism|location=Boston, Mass.; Dordrecht|publisher=[[w:Springer Science+Business Media|Kluwer Academic Publishers]]|year=1995|page=27|pageurl=https://books.google.com/books?id=Ng7dig5-rYwC&pg=PA27|isbn=978-0-7923-9639-0|passage=Innovations in the communications industry often means that existing media become obsolete. There are no '''semaphores''' any longer. ('''Semaphores''' were used by the French revolutionary armies in the late 1790's to relay information to Paris about their victories in the Savoy.)}}
+#* {{quote-book|en|author=Terry Pratchett|authorlink=Terry Pratchett|title={{w|Going Postal}}|series=[[w:Discworld|A Discworld Novel]]|seriesvolume=33|location=London|publisher=[[w:Doubleday (publisher)|Doubleday]]|date=25 September 2004|isbn=978-0-385-60342-3|location2=London|publisher2=Corgi Books, {{w|Transworld Publishers}}|year2=2005 (2014 printing)|pages2=149–150|pageurl2=https://books.google.com/books?id=fEZ0Y-U5jC8C&pg=PA150|isbn2=978-0-552-16768-0|passage=He had got used to the clacks towers now. Sometimes it seemed as though every roof sprouted one. Most were the new shutter boxes installed by the Grand Trunk Company, but old-fashioned arm '''semaphores''' and even signal flags were still well in evidence.}}
+# {{lb|en|also|figuratively}} A visual [[system]] for [[transmit]]ting [[information]] using the above equipment; or {{lb|en|by extension}} by means of [[two]] flags held [[one]] in each [[hand#Noun|hand]], using an [[alphabetic]] and [[numeric]] [[code#Noun|code]] [[base#Verb|based]] on the [[position#Noun|position]] of the [[signaller]]'s arms; [[flag semaphore]].
+#* {{quote-journal|en|author=Charles Blackburn|title=XXXV. A Method of Determining the Number of Signals which Can be Made by the Modern Telegraphs.|editors={{w|David Brewster}}, [[w:Richard Taylor (editor)|Richard Taylor]], and [[w:Richard Phillips (chemist)|Richard Phillips]]|journal=[[w:Philosophical Magazine|The London and Edinburgh Philosophical Magazine and Journal of Science]]|location=London|publisher=Printed by Richard Taylor,{{nb...|Red Lion Court, Fleet Street}}, printer to the {{w|University of London}}; sold by [[w:Longmans|Longman, Rees, Orme, Brown, Green, and Longman]]; [''et al.'']|month=October|year=1834|volume=V (Third Series)|issue=28|page=241|pageurl=https://books.google.com/books?id=SpMOAAAAIAAJ&pg=PA241|oclc=230538090|passage=Its [the article's] object is to furnish a rule for determining the number of distinct signals which can be made by any '''semaphore''', whatever be the number of arms or indicators, of whatever be the number of positions of each arm. In the Cyclopædia of Rees, the number of signals which the '''semaphores''' of the line of communication between Paris and Landau were capable of making, is stated to be 823,543, which is no less than 1,274,608 fewer than the real number, an error not arising from the press, but from the principle of computation.}}
+#* {{quote-book|en|author=Katherine Vaz|authorlink=Katherine Vaz|chapter=Lisbon Story|title=Our Lady of the Artichokes: And Other Portuguese-American Stories|location=Lincoln, Neb.; London|publisher={{w|University of Nebraska Press}}|year=2008|page=115|pageurl=https://books.google.com/books?id=5yHn7AgJmo8C&pg=PA115|isbn=978-0-8032-1790-4|passage=As always in Lisbon, my heart throbbed '''semaphores''' to call Tónio. }}
+#* {{quote-book|en|author=Gene Weingarten|authorlink=Gene Weingarten|chapter=Remembering Harry|title=Old Dogs are the Best Dogs|location=New York, N.Y.|publisher={{w|Simon & Schuster}}|year=2008|page=4|pageurl=https://books.google.com/books?id=GOUMoGLf9tYC&pg=PA4|isbn=978-1-4165-6596-3|passage=Consider the wagging tail, the most basic '''semaphore''' in dog/human communication.}}
+#* {{quote-book|en|author=Bernard F. Dick|chapter=Worlds Elsewhere|title=The President’s Ladies: {{w|Jane Wyman}} and [[w:Nancy Reagan|Nancy Davis]]|location=Jackson, Miss.|publisher={{w|University Press of Mississippi}}|year=2014|page=215|pageurl=https://books.google.com/books?id=R_gaBwAAQBAJ&pg=PA215|isbn=978-1-61703-980-5|passage=For a half-hour episode, "The Long Shadow" was unusually complex, a web spun out of deception and equivocation that untangles when [[w:Ronald Reagan|[Ronald] Reagan]], transmitting his customized '''semaphores''' of concern (ridged brow, pursed lips, pained eyes), divulges the truth: [...]}}
+# {{lb|en|computing}} A [[bit#Noun|bit]], [[token]], [[fragment#Noun|fragment]] of code, or some other [[mechanism]] which is used to [[restrict]] [[access#Noun|access]] to a [[shared#Adjective|shared]] [[function#Noun|function]] or [[device]] to a [[single#Adjective|single]] [[process#Noun|process]] at a [[time#Noun|time]], or to [[synchronize]] and [[coordinate#Verb|coordinate]] [[event]]s in [[different]] processes.
+#: {{ux|en|The thread increments the '''semaphore''' to prevent other threads from entering the [[critical section]] at the same time.}}
+#* {{quote-book|en|author=P. Theodoropoulos|author2=G. Manis|author3=P. Tsanakas|author4=G. Papakonstantinou|chapter=Extending Synchronization PVM Mechanisms|editors=Arndt Bode, {{w|Jack Dongarra}}, Thomas Ludwig, and Vaidy Sunderam|title=Parallel Virtual Machine&nbsp;– EuroPVM ’96: Third European PVM Conference, Munich, Germany, October 7–9, 1996: Proceedings|series={{w|Lecture Notes in Computer Science}}|seriesvolume=1156|location=Berlin; Heidelberg|publisher=[[w:Springer Science+Business Media|Springer-Verlag]]|year=1996|page=315|pageurl=https://books.google.com/books?id=Zz42_Iw3nU4C&pg=PA315|isbn=978-3-540-61779-2|issn=0302-9743|passage=Several synchronization techniques have been proposed and many of them have been adopted by parallel and distributed operating systems or parallel programming platforms. [...] '''Semaphores''' represent another synchronization technique that is mainly used by traditional stand-alone operating systems.}}
+#* {{quote-book|en|author=Timothy Mangan|chapter=L1/L2/L3 Memory Cache|title=Windows System Performance through Caching: 15 Ways Caching Improves System Performance|series=Inside the OS Series|location=Canton, Mass.|publisher=TMurgent Technologies|year=2012|page=22|pageurl=https://books.google.com/books?id=IrnXAwAAQBAJ&pg=PA22|isbn=978-1-105-87251-8|passage=It is up to the programmer to ensure that if one thread updates multiple dependent memory locations (for example, writing a string, or updating a table) that another thread might read, some protection is put in place to ensure that the two threads don't update and read at the same time. [...] Several techniques are used by programmers to prevent this, including locks, '''semaphores''', and mutexes.}}
+
+====Derived terms====
+{{col3|en
+|flag semaphore
+|semaphore plant
+|semaphore signal
+|[[semaphoretic]] {{qualifier|obsolete}}
+|semaphoretical
+|semaphoric
+|semaphorin
+|semaphorist
+}}
+
+====Translations====
+{{trans-top|equipment used for visual signalling}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|visual system for transmitting information}}
+* Catalan: {{t+|ca|semàfor|m}}
+* Czech: {{t+|cs|semafor|m}}
+* Dutch: {{t+|nl|semafoor|m}}
+* Finnish: {{t|fi|opastin}}, {{t|fi|opastinjärjestelmä}}
+* Hebrew: {{t+|he|סמפור|m|tr=semafor}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szemafor}}
+* Italian: {{t+|it|semaforo}}
+* Russian: {{t+|ru|семафо́р|m}}
+* Serbo-Croatian: {{t|sh|се̏мафо̄р|m|sc=Cyrl}}, {{t+|sh|sȅmafōr|m}}
+* Spanish: {{t+|es|semáforo}}
+{{trans-bottom}}
+
+{{trans-top|visual system for transmitting information using flags}}
+* Dutch: {{t+|nl|semafoor|m}}
+* Finnish: {{t|fi|lippuviittoilu}}
+{{trans-mid}}
+* Hebrew: {{t+|he|סמפור|m|tr=semafor}}
+* Italian: {{t|it|semaforo marittimo|m}}
+{{trans-bottom}}
+
+{{trans-top|mechanism used to restrict access to a shared function or device to a single process at a time}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t+|cs|semafor|m}}
+* Dutch: {{t+|nl|semafoor|m}}
+* Finnish: {{t+|fi|semafori}}
+* French: {{t+|fr|sémaphore|m}}
+{{trans-mid}}
+* German: {{t|de|Semaphor|m}}
+* Hebrew: {{t+|he|סמפור|m|tr=semafor}}
+* Icelandic: {{t|is|veif|f}}
+* Russian: {{t-needed|ru}}
+* Swedish: {{t+|sv|semafor|c}}
+* Turkish: {{t+|tr|semafor}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|semaphor}}
+
+# {{lb|en|ambitransitive|also|figuratively}} To [[signal#Verb|signal]] [[use#Verb|using]], or as if using, a [[#Noun|semaphore]], with the [[implication]] that it is done [[nonverbally|non-verbally]].
+#* {{quote-book|en|author=United States Hydrographic Office|authorlink=United States Hydrographic Office|chapter=Distant Signals|title={{w|International Code of Signals}}|edition=American|location=Washington, D.C.|publisher=[[w:United States Government Publishing Office|Government Printing Office]]|year=1907|section=part III|page=539|pageurl=https://books.google.com/books?id=AfwsAAAAYAAJ&pg=PA539|oclc=1022830887|passage=The person intending to '''Semaphore''' will make the International Code Signal VOX (I am going to '''Semaphore''' to you), and set his Semaphore at the alphabetical sign [...] with the Indicator out, and wait until the person to whom the Semaphore signal is to be made hoists his answering pennant {{smallcaps|close up}}. [...] The British method of '''Semaphoring''' by flags held in the hand which is shown in plate VIII is exactly the same as the British Movable Semaphore system, which has just been explained, the positions of the apparatus which denote the letters, numbers, and special signs being, it will be seen, identical in each case, and the only difference being in the apparatus employed.}}
+#* {{RQ:London Hearts of Three|chapter=X|page=137|passage=These gunny-sack chaps are not animals or savages. Look, Henry! They are '''semaphoring'''! See that tree there, and that big one across the cañon. Watch the branches wave.}}
+#* {{quote-book|en|author=Peter Hopkirk|authorlink=Peter Hopkirk|chapter=The Climactic Years|title=[[w:The Great Game (Peter Hopkirk book)|The Great Game: On Secret Service in High Asia]]|location=London|publisher=[[w:John Murray (publisher)|John Murray]]|year=1990|isbn=978-0-7195-4727-0|location2=Oxford, Oxfordshire|publisher2={{w|Oxford University Press}}|year2=2001|page2=478|pageurl2=https://books.google.com/books?id=1_41VGoCYU8C&pg=PA478|isbn2=978-0-19-280232-3|passage=Minutes later, unseen by the defenders, he '''semaphored''' back across the valley that he was going to make a fresh attempt.}}
+#* {{quote-book|en|author=Elizabeth Elwood|chapter=Gilda Died for Love|title=A Black Tie Affair: And Other Mystery Stories|location=Lincoln, Neb.|publisher={{w|iUniverse}}|year=2008|page=113|pageurl=https://books.google.com/books?id=ymrSBAAAQBAJ&pg=PA113|isbn=978-0-595-71233-5|passage=Near the concession stand on the east side of the park, she saw two familiar figures sitting on a bench in the shade of a large oak. Her father hailed her, wildly '''semaphoring''' with his hot dog.}}
+#* {{quote-book|en|author=Heather Menzies Jones|chapter=25|title=NanoMan|location=[Morrisville, N.C.]|publisher={{w|Lulu.com}}|year=2011|page=133|pageurl=https://books.google.com/books?id=XaiJAwAAQBAJ&pg=PA133|isbn=978-1-105-38755-5|passage=He can't hear what they're saying, but Jake is making angry movements with his hands and his taut posture '''semaphores''', even to Daniel, his distinct displeasure.}}
+#* {{quote-journal|en|author=Ta-Nehisi Coates|authorlink=Ta-Nehisi Coates|title=Fear of a Black President|archiveurl=https://web.archive.org/web/20200103161728/https://www.theatlantic.com/magazine/archive/2012/09/fear-of-a-black-president/309064/|archivedate=3 January 2020|editor=[[w:James Bennet (journalist)|James Bennet]]|magazine={{w|The Atlantic}}|location=Washington, D.C.|publisher=The Atlantic Monthly Group|month=September|year=2012|issn=1072-7825|oclc=936540106|passage=[[w:Barack Obama|[Barack] Obama]] doesn't merely evince blackness; he uses his blackness to signal and court African Americans, '''semaphoring''' in a cultural dialect of our creation—crooning {{w|Al Green}} at the Apollo, name-checking [[w:Jeezy|Young Jeezy]], regularly appearing on the cover of black magazines, weighing the merits of {{w|Jay-Z}} versus {{w|Kanye West}}, being photo­graphed in the White House with a little black boy touching his hair.}}
+
+====Derived terms====
+* {{l|en|semaphoring|pos=adjective}}
+
+====Translations====
+{{trans-top|to signal using, or as if using, a semaphore}}
+* Dutch: {{t+|nl|signaleren}}, {{t+|nl|seinen}}
+{{trans-mid}}
+* Spanish: {{t+|es|semáforo|m}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia}}
+
+===Anagrams===
+* {{anagrams|en|a=aeehmoprs|mesohepar}}
+
+[[Category:English words suffixed with -phore]]
+[[Category:en:Rail transportation]]
