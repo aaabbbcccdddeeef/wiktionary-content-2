@@ -1,14 +1,193 @@
-== Adjective ==
-#behaving in a regular manner, as a [[habit]].
-#:''He's a habitual [[chainsmoker]]''.
-#recurring, or that is performed over and over again.
-#:''Her habitual lying was the reason for my mistrust''.
-#being regular or usual.
-#:''Professor Franklein took his habitual seat at the conference table''.
+==English==
+{{was wotd|2020|February|23}}
 
-=== Translations ===
-*German: [[gewohnt]] (1, 2), [[gewöhnlich]] (3)
-*Interlingua: habitual
-*Spanish: habitual
+===Etymology===
+{{PIE root|en|gʰeh₁bʰ}}
+The adjective is derived from Late {{inh|en|enm|habitual|t=of one's inherent disposition}},<ref>{{R:MED Online|entry=habituāl|pos=adj|id=MED19745}}</ref> from {{der|en|ML.|habituālis|t=customary; habitual}}, from {{der|en|la|habitus|t=character; disposition; habit; physical or emotional condition; attire, dress}} + {{m|la|-ālis|pos=''suffix forming {{glossary|adjective}}s of relationship''}};<ref>{{R:OED Online|pos=adj.'' and ''n|id=82996|date=1898|nodot=yes}}; {{R:Lexico|pos=adj}}</ref> analysable as {{suffix|en|habit|ual}}. ''Habitus'' is derived from {{m|la|habeō|t=to have; to hold; to own; to possess}} (possibly ultimately from {{der|en|ine-pro|*gʰeh₁bʰ-|t=to grab, take}}) + {{m|la|-tus|pos=''suffix forming action {{glossary|noun}}s from {{glossary|verb}}s''}}.
 
-[[pl:Habitual]]
+The noun is derived from the adjective.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/həˈbɪ.tʃʊ.əl/|/həˈbɪ.tʃwəl/|/-tjʊ-/}}
+* {{a|GA}} {{IPA|en|/həˈbɪ.tʃʊ.əl/|/həˈbɪ.tʃ(w)əl/}}
+* {{audio|en|En-us-habitual.ogg|Audio (GA)}}
+* {{hyphenation|en|ha|bit|u|al}}
+
+===Adjective===
+{{en-adj}}
+
+# Of or relating to a [[habit]]; [[establish]]ed as a habit; [[perform]]ed over and over again; [[recurrent]], [[recurring#Adjective|recurring]].
+#: {{ux|en|Her '''habitual''' lying was the reason for my mistrust.}}
+# [[regular|Regular]] or [[usual]].
+#: {{synonyms|en|accustomed|customary}}
+#: {{ux|en|Professor Franklein took his '''habitual''' seat at the conference table.}}
+# Of a [[person]] or [[thing]]: [[engage|engaging]] in some [[behaviour]] as a habit or [[regularly]].
+#: {{ux|en|He’s a '''habitual''' [[chain-smoker]].}}
+# {{lb|en|grammar}} [[pertain|Pertaining]] to an [[action]] [[perform]]ed [[customarily]], [[ordinarily]], or [[usually]].
+#: {{syn|en|consuetudinal}}
+
+====Alternative forms====
+* {{l|en|habituall}} {{qualifier|obsolete}}
+
+====Derived terms====
+{{col3|en|habitual aborter|habitual aspect|habituality|[[habitualize]], [[habitualise]]|habitually|habitualness}}
+
+====Related terms====
+{{col3|en|habit|habit-forming|habituate|[[habituating]] {{qualifier|adjective}}|habituation|habituative|habitude|habitus}}
+
+====Translations====
+{{trans-top-also|of or relating to a habit; performed over and over again|recurrent}}
+* Chinese:
+*: Mandarin: {{t+|cmn|慣常|alt=慣常的}}, {{t+|cmn|惯常|alt=惯常的|tr=guàncháng de}}
+* Finnish: {{t+|fi|tavanomainen}}
+* French: {{t+|fr|habituel}}
+* German: {{t+|de|gewohnt}}
+* Irish: {{t|ga|gréasach}}
+* Italian: {{t+|it|ricorrente}}, {{t+|it|ripetitivo}}, {{t+|it|solito}}
+{{trans-mid}}
+* Latin: {{t|la|solitus}}
+* Portuguese: {{t+|pt|habitual}}
+* Russian: {{t+|ru|обы́чный}}, {{t+|ru|привы́чный}}
+* Slovene: {{t|sl|običájen}}
+* Spanish: {{t+|es|habitual}}
+* Swedish: {{t+|sv|vanemässig}}
+{{trans-bottom}}
+
+{{trans-top|regular or usual}}
+* Armenian: {{t+|hy|սովորական}}
+* Bulgarian: {{t+|bg|обичаен}}
+* Finnish: {{t+|fi|tavallinen}}, {{t+|fi|tavanomainen}}
+* French: {{t+|fr|habituel}}
+* German: {{t+|de|gewöhnlich}}, {{t+|de|gewohnt}}
+* Ido: {{t+|io|kustumala}}
+* Irish: {{t|ga|rialta}}
+{{trans-mid}}
+* Italian: {{t+|it|persistente}}, {{t+|it|usuale}}
+* Portuguese: {{t+|pt|habitual}}
+* Russian: {{t+|ru|обы́чный}}
+* Slovene: {{t|sl|običájen}}
+* Spanish: {{t+|es|habitual}}
+* Swedish: {{t+|sv|vanlig}}
+{{trans-bottom}}
+
+{{trans-top|engaging in some behaviour as a habit}}
+* Bulgarian: {{t+|bg|обичаен}}, {{t+|bg|привичен}}, {{t+|bg|свойствен}}
+* Catalan: {{t+|ca|habitual}}
+* Chinese:
+*: Mandarin: {{t+|cmn|習慣|alt=習慣的}}, {{t+|cmn|习惯|alt=习惯的|tr=xíguàn de}}
+* Danish: {{t|da|vanemæssig}}
+* Esperanto: {{t|eo|kutima}}
+* Finnish: {{t+|fi|tapa|alt=tapa-}}, {{t+|fi|tavanomainen}}
+* Galician: {{t+|gl|habitual}}
+* German: {{t+|de|gewohnt}}
+* Irish: {{t|ga|rialta}}
+{{trans-mid}}
+* Italian: {{t+|it|abituale}}, {{t+|it|corrente}}, {{t+|it|solito}}
+* Latin: {{t|la|habitualis}}
+* Maori: {{t|mi|matatau}}
+* Portuguese: {{t+|pt|habitual}}
+* Romanian: {{t|ro|[[de]] [[obicei]]}}
+* Russian: {{t+|ru|пристрасти́вшийся}}, {{t+|ru|привы́чный}}, {{t+|ru|зая́длый}} {{qualifier|e.g., of a smoker}}, {{t+|ru|закорене́лый}}
+* Slovene: {{t|sl|običájen}}
+* Spanish: {{t+|es|habitual}}
+* Swedish: {{t+|sv|vanemässig}}
+{{trans-bottom}}
+
+{{trans-top|(''grammar'') pertaining to an action performed customarily}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Interlingua: {{t-check|ia|habitual}}
+{{trans-mid}}
+* Telugu: {{t+check|te|అలవాటుగా}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{lb|en|colloquial}} One who does something [[habitually]], such as a [[serial#Adjective|serial]] [[criminal#Adjective|criminal]] [[offender]].
+# {{lb|en|grammar}} A [[construction]] [[represent]]ing something done habitually.
+
+====Translations===
+{{trans-top|one who does something habitually}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|(''grammar'') construction representing something done habitually}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|habit}}
+
+----
+
+==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# [[#English|habitual]]; [[usual]]
+
+===Further reading===
+* {{R:IEC2}}
+
+----
+
+==Galician==
+
+===Adjective===
+{{gl-adj|f=habitual|pl=habituais}}
+
+# [[#English|habitual]]
+# [[common]]
+
+----
+
+==Portuguese==
+
+===Adjective===
+{{pt-adj|habitua|l}}
+
+# {{l|en|habitual}} {{gloss|behaving in a regular manner, as a habit}}
+# {{l|en|habitual}} {{gloss|recurring, or that is performed over and over again}}
+
+====Related terms====
+* {{l|pt|hábito}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{der|es|la|habituālis}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Adjective===
+{{es-adj|pl=habituales}}
+
+# [[#English|habitual]]
+
+===Noun===
+{{es-noun|m}}
+
+# {{lb|es|Louisiana}} [[beans]].
+#: {{ux|es|No quiero nada mas que '''habitual''', cafe, y pan.|I don't want anything more than beans, coffee, and bread.|inline=1}}
+
+====Derived terms====
+* {{l|es|habitualmente}}
+
+====Related terms====
+* {{l|es|hábito}}
+
+===Further reading===
+* {{R:DRAE 2001}}
