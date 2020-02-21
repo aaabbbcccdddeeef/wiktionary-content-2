@@ -9,17 +9,21 @@ The copula {{m|ja|です|tr=desu}} is thought to be a contracted version of {{m|
 ===Verb===
 {{head|ja|verb form}}
 
-# formal or polite form of {{ja-r|だ}}
-## {{lb|ja|after a nominal|sort=てす'}} to [[be]]
-##: {{ja-usex|これは私のパソコン'''です'''。|これ は わたし の パソコン '''です'''。|This '''is''' my PC.}}
-## {{lb|ja|after the plain past or nonpast form of ''-i'' adjectives or in some cases verbs|sort=てす'}} {{non-gloss definition|Used to express politeness toward the listener.}}
+# {{n-g|Polite form of {{ja-r|だ}}, after uniflecting parts of speech:}} to [[be]]
+#: {{ja-usex|これは私のパソコン'''です'''。|これ は わたし の パソコン '''です'''。|This '''is''' my PC.}}
+#: {{ja-usex|昨日はいい天気'''でした'''。|きのう は いい てんき '''でした'''。|It '''was''' good weather yesterday.}}
+#: {{ja-usex|このパスポートはあなたの'''です'''か。|この パスポート は あなた の '''です''' か。|'''Is''' this passport yours?}}
+# {{lb|ja|After the plain past or nonpast form of ''-i'' adjectives (or nonstandardly verbs), to form the polite ending.|sort=てす'}}
+#: {{ja-usex|とても美しい'''です'''。|とても うつくしい '''です'''。|It '''is''' very beautiful.}}
+#: {{ja-usex|とてもおいしかった'''です'''。|とても おいしかった '''です'''。|It '''was''' very delicious.}}
+#: {{ja-usex|私も行きたい'''です'''。|わたし も いきたい '''です'''。|I want to go too.}}
 
 ====Usage notes====
 The perfective form is {{ja-r|でした}}, volitional {{ja-r|でしょう}}, conjunctive {{ja-r|でして}}. Other forms are not used.
 
-Replaces {{ja-r|だ}} in cases of nouns and adjectives which it is used with, e.g. {{m|ja|[[犬]]だ|tr=inu da||it's a dog|pos=plain}} becomes {{m|ja||犬です|tr=inu desu|pos=polite}} and {{m|ja|[[綺麗]]だ|tr=kirei da||it's pretty|pos=plain}} becomes {{m|ja||綺麗です|tr=kirei desu|pos=polite}}. Similarly, {{ja-r|でしょう}} replaces {{ja-r|だろう}} and {{ja-r|でして}} replaces {{ja-r|で}}.
+Plain form of verb + {{ja-r|です}} / {{ja-r|でした}} is nonstandard. The standard form is verb ren'yōkei + {{ja-r|-ます}} / {{ja-r|-ました}}. However, both plain form of verb + {{ja-r|でしょう}} and verb ren'yōkei + {{ja-r|-ましょう}} are valid in Standard Japanese – the former mainly expresses conjecture and the latter mainly expresses volition.
 
-{{ja-r|です}} attaches as-is to adjectives used without {{ja-r|だ}}, e.g. {{m|ja|美しい|tr=utsukushii||it is beautiful|pos=plain}} becomes {{m|ja||美しいです|tr=utsukushii desu|it is beautiful|pos=polite}} and {{m|ja|美しかった|tr=utsukushikatta||it was beautiful|pos=plain}} becomes {{m|ja||美しかったです|tr=utsukushikatta desu|it was beautiful|pos=polite}}. Forms such as {{m|ja||美しいでした}} and {{m|ja||美しいでして}} are nonstandard. For the forms {{ja-r|[[ない]] [[です]]}} and {{ja-r|[[なかった]] [[です]]}}, there are synonyms {{ja-r|ありません}} and {{ja-r|[[ありません]] [[でした]]}}. It can also be used to ask questions; {{m|ja|[[本]][[です]][[か]]|tr=hon desu ka}} means "Is this a book?"
+''-i'' adjective + {{ja-r|でした}} is nonstandard. The standard forms is past form of ''-i'' adjective + {{ja-r|です}}. For the forms {{ja-r|[[ない]] [[です]]}} and {{ja-r|[[なかった]] [[です]]}}, there are synonyms {{ja-r|ありません}} and {{ja-r|[[ありません]] [[でした]]}}. 
 
 This word is phonologically an [[enclitic]], similar to [[particle]]s. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
 
