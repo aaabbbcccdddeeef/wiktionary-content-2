@@ -1,21 +1,27 @@
+{{also|𬀩}}
 {{character info/new}}
 ==Translingual==
 
 ===Han character===
 {{Han char|rn=72|rad=日|as=09|sn=13|four=64056|canj=ADMQ|ids=⿰日韋}}
 
-# the [[bright]] [[shining]] of the [[sun]]
+====Derived characters====
+* {{l|mul|𦾛}}
 
-====References====
-* {{Han ref|kx=0498.120|dkj=14049|dj=0866.090|hdz=21527.050|uh=6690|ud=26256|bh=DDC2|bd=56770}}
+====Related characters====
+* {{l|mul|𬀩}} {{q|[[Simplified Chinese]]}}
+
+===Further reading===
+{{Han ref|kx=0498.120|dkj=14049|dj=0866.090|hdz=21527.050|uh=6690}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=𬀩}}
+{{zh-forms|s=𬀩|alt=㬙}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|日|韋|t1=day; sun|c1=s|c2=p|ls=psc}}
 
 ===Pronunciation===
 {{zh-pron
@@ -24,13 +30,16 @@
 |mc=y
 |oc=y
 |ma=
-|cat=v
+|cat=a
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|literary}} [[abundant]] [[appearance]] of [[light]]
+
+===Compounds===
+{{zh-der|暐曄}}
 
 ----
 
@@ -39,29 +48,37 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=日09}}
 
-# {{rfdef|ja|sort=日09}}
+# [[sunlight]]; [[sunshine]]
 
 ====Readings====
-* {{ja-readings|on=[[い]] (i)|kun=[[ひざし]] (hizashi)}}
+{{ja-readings
+|on=い
+|kun=ひざし
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=위|eumhun=|rv=wi|mr=wi|y=wi}}
+{{ko-hanja|햇빛|위}}
 
-# {{rfdef|ko|sort=日09}}
+# {{hanja form of|위|[[sunlight]]; [[sunshine]]}}
+
+===References===
+* {{R:hanjadoc|4672}}
 
 ----
 
 ==Vietnamese==
-{{vi-hantutab}}
 
 ===Han character===
-{{vi-hantu|[[vĩ]]|rs=日09}}
+{{vi-readings|rs=日09
+|hanviet=vỉ-bonet
+|phienthiet=于鬼 vu quỷ
+}}
 
-# {{rfdef|vi|sort=日09}}
+# {{han tu form of|vỉ|[[bright]] [[sunlight]]}}
 
-====References====
-* [https://hvdic.thivien.net/whv/暐 Từ điển Hán Nôm]
+===References===
+<references/>
