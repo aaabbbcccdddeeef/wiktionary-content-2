@@ -8,7 +8,7 @@
 {{Han char|rn=51|rad=干|as=02|sn=5|four=10409|canj=MFJ|ids=⿻干丷(GHTJV),⿻干八(K)}}
 
 ====Derived characters====
-* [[怦]],	[[砰]],	[[抨]],	[[閛]],	[[伻]],	[[評]],	[[坪]],	[[苹]],	[[枰]],	[[泙]],	[[蚲]],	[[胓]],	[[匉]],	[[萍]]
+* [[怦]], [[砰]], [[抨]], [[閛]],	 [[伻]], [[評]], [[坪]], [[苹]], [[枰]], [[泙]], [[蚲]], [[胓]], [[匉]], [[萍]]
 
 ====References====
 * {{Han ref|kx=0339.030|dkj=09167|dj=0646.030|hdz=10407.010|uh=5E73|ud=24179|bh=A5AD|bd=42413}}
@@ -119,34 +119,32 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=干02}}
 
-# [[level]]; [[even]]; [[flat]]
-# [[calm]]; [[peaceful]]
-
 ====Readings====
 {{ja-readings
-|goon=びょう<びやう, べん
+|goon=びょう<びやう
 |kanon=へい
-|kanyoon=ひょう<ひやう, へん
-|kun=たい-ら<たひ-ら, ひら-, ひら-たい, な-らす, おだ-やか
-|nanori=なみ, つね
+|toon=ひん
+|kanyoon=ひょう<ひやう
+|kun=たい-ら<たひ-ら, ひら-
+|nanori=おさむ, さね, たか, つね, とし, なり, なる, はかる, ひとし, まさる, もち, よし
+}}
+
+As an alternative form for {{ja-l|弁}}:
+{{ja-readings
+|goon=べん
+|kanon=へん
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|平%均|へい%きん|[[average]], [[mean]]; [[balance]]}}
-* {{ja-r|平%日|へい%じつ|[[weekday]]}}
-* {{ja-r|平%凡|へい%ぼん|[[ordinary]]; [[commonplace]]}}
-* {{ja-r|平%野|へい%や|[[plain]], [[field]]}}
-
-* {{ja-r|平%和|へい%わ|[[peace]], [[harmony]]}}
 * {{ja-r|平%和|ピン%フ}}
-{{der-bottom}}
+* {{ja-r|難%平|なん%ぴん}}
+* {{ja-r|半平|はんぺん}}
 
 ===Etymology 1===
 {{ja-kanjitab|ひら|yomi=k}}
-{{IPAfont|/pi<sub>1</sub>ra/}} → {{IPAchar|/pira/}} → {{IPAchar|/fira/}} → {{IPAchar|/hira/}}
+{{IPAfont|⟨pi<sub>1</sub>ra⟩}} → {{IPAchar|/pʲira/}} → {{IPAchar|/ɸira/}} → {{IPAchar|/hira/}}
 
-Stem of {{m|ja|平たい|tr=hiratai}}. {{rfv-etym|ja}}
+Stem of adjective {{m|ja|平たい|tr=hiratai}}. {{rfv-etym|ja}}
 
 ====Pronunciation====
 {{ja-pron|y=k|ひら|acc=1|acc_ref=DJR}}
@@ -155,19 +153,23 @@ Stem of {{m|ja|平たい|tr=hiratai}}. {{rfv-etym|ja}}
 {{ja-noun|ひら}}
 
 # [[something]] [[flat]]; [[flatten]]ed
-# [[ordinary]]; [[common]]; [[mediocre]]
-# [[person]] of [[low]]-[[rank]]ing [[status]]
-## [[freshman]]
-## [[novice]]
-## [[private]]
+# something [[ordinary]], [[common]], [[mediocre]]
+# a [[person]] of [[low]]-[[rank]]ing [[status]]
+## a [[freshman]]
+## a [[novice]]
+## a [[private]]
 # the [[top]] [[ridge]] of a [[roof]] [[parallel]] to the [[side]] of a [[building]] {{rfv-sense|ja}}
 # {{short for|ja|平織|tr=hiraori||{{w|plain weave}}}}
 # in [[bookbinding]], the flat part of a [[cover]] {{rfv-sense|ja}}
 # {{short for|ja|平椀|tr=hirawan}}
 
 =====Derived terms=====
-* {{ja-r|平%泳ぎ|ひら%およぎ|[[breaststroke]]}}
+{{der-top3}}
+* {{ja-r|枚|ひら}}
+* {{ja-r|平%泳ぎ|ひら%およぎ}}
+* {{ja-r|平%仮名|ひら%がな}}
 * {{ja-r|平%日|ひら%び}}
+{{der-bottom}}
 
 ====Prefix====
 {{ja-pos|prefix|ひら}}
@@ -183,44 +185,38 @@ Stem of {{m|ja|平たい|tr=hiratai}}. {{rfv-etym|ja}}
 
 ===Etymology 2===
 {{ja-kanjitab|たいら|yomi=k}}
-{{IPAfont|/tapi<sub>1</sub>ra/}} → {{IPAchar|/tapira/}} → {{IPAchar|/tafira/}} → {{IPAchar|/taira/}}
+{{IPAfont|⟨tapi<sub>1</sub>ra⟩}} → {{IPAchar|/tapʲira/}} → {{IPAchar|/taɸira/}} → {{IPAchar|/tawira/}} → {{IPAchar|/taira/}}
 
-Nominalization of {{m|ja|平ら|tr=taira}}.
+Nominalization of adjective {{m|ja|平ら|tr=taira||[[flat]], [[level]]}}.
 
 ====Noun====
 {{ja-noun|たいら|hhira=たひら}}
 
-# a [[plain]]; a [[flat]] {{rfv-sense|ja}}
+# a [[plain#Noun|plain]], [[flat#Noun|flat]] {{rfv-sense|ja}}
 
 ====Proper noun====
 {{ja-pos|proper|たいら|hhira=たひら}}
 
-# ''a place name''
-# {{surname|ja|A=a|sort=たいら}}
+# {{surname|ja|A=a|dot=,|sort=たいら}} ''especially'' of those [[descend]]ed from [[imperial]] [[lineage]] [[ineligible]] for the [[Chrysanthemum Throne]]:
+## the {{m|ja|桓武[[平氏]]|tr=Kanmu Heishi}}, from {{w|Emperor Kanmu}}
+## the {{m|ja||仁明平氏|tr=Ninmyō Heishi}}, from {{w|Emperor Ninmyō}}
+## the {{m|ja||文徳平氏|tr=Montoku Heishi}}, from {{w|Emperor Montoku}}, and
+## the {{m|ja||光孝平氏|tr=Kōkō Heishi}}, from {{w|Emperor Kōkō}} 
+# {{n-g|a [[placename]]}}, ''especially'' in [[Iwaki]] [[city]], [[Fukushima]] [[prefecture|Prefecture]]
 # {{given name|ja|male|A=a|sort=たいら}}
 
+=====Derived terms=====
+* {{ja-r|松%平|^まつ%だいら}}
+
 ===Etymology 3===
-{{ja-kanjitab|ひょう|yomi=o}}
-{{IPAfont|*/bʲau/}} → {{IPAchar|/pʲau/}} → {{IPAchar|/ɸjɔː/}} → {{IPAchar|/hjoː/}}
+{{ja-kanjitab|へい|yomi=kanon}}
 
-Probably from the ''{{ll|ja|呉音|goon}}'' reading ''byō'', itself derived from {{der|ja|ltc|sort=ひよう|-}} {{ltc-l|平|id=2}}.
+From {{der|ja|ltc|sort=へい|-}} {{ltc-l|平|id=2}}.
 
-====Pronunciation====
-{{ja-pron|y=kanyo|ひょう|acc=1|acc_ref=DJR}}
-
-====Noun====
-{{ja-noun|ひょう|hhira=ひやう}}
-
-# {{synonym of|ja|平韻|tr=hyōin}}
-# {{abbreviation of|ja|平調|tr=hyōjō}}
-
-===Etymology 4===
-{{ja-kanjitab|へい|yomi=o}}
-
-From {{der|ja|ltc|sort=へい|-}} {{ltc-l|平|id=2}}. The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
+The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
 
 ====Pronunciation====
-{{ja-pron|y=kanyo|へい|acc=1|acc_ref=DJR}}
+{{ja-pron|へい|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|へい}}
@@ -228,33 +224,115 @@ From {{der|ja|ltc|sort=へい|-}} {{ltc-l|平|id=2}}. The ''{{ll|ja|漢音|kan'o
 # [[something]] neither [[high]] nor [[low]]
 # something [[calm]]
 
+====Affix====
+{{ja-pos|affix|へい}}
+
+# [[even#Adjective|even]], [[flat]], [[level#Adjective|level]]
+# [[flatten]], [[level#Verb|level]]
+# [[uniform#Adjective|uniform]]
+# [[calm]], [[gentle]], [[peaceful]]
+# [[common]], [[ordinary]], [[usual]]
+# {{short for|ja|平氏|tr=Heishi|nodot=1|sort=へい}} ''or'' {{m|ja|平家|'''平家'''|tr=Heike}}: [[Taira]] [[clan]]
+# {{lb|ja|sort=へい|mathematics}} [[square]], [[square root]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|平%均|へい%きん}}
+* {{ja-r|平%日|へい%じつ}}
+* {{ja-r|平%凡|へい%ぼん}}
+* {{ja-r|平%野|へい%や}}
+* {{ja-r|平%和|へい%わ}}
+* {{ja-r|源%平|^げん%ぺい}}
+{{der-bottom}}
+
 ====Proper noun====
 {{ja-pos|proper|へい}}
 
 # {{surname|ja|A=a|sort=へい}}
 
+===Etymology 4===
+{{ja-kanjitab|yomi=kanyo|ひょう}}
+{{IPAchar|/pʲau/}} → {{IPAchar|/ɸʲɔː/}} → {{IPAchar|/hʲoː/}}
+
+Possibly from {{der|ja|ltc|sort=ひよう|-}} {{ltc-l|平|id=2}}.
+
+The {{m|ja|慣用音|tr=kan'yōon|lit=[[common]]ly [[accept]]ed [[sound]]}} reading, a pronunciation in common usage based on a corruption of the {{cog|ltc|-}} borrowing.
+
+====Pronunciation====
+{{ja-pron|ひょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ひょう|hhira=ひやう}}
+
+# {{short for|ja|平韻|tr=hyōin|dot=:}} {{rfdef|ja}}
+# {{short for|ja|平調|tr=hyōjō|dot=:}} {{rfdef|ja}}
+
+====Affix====
+{{ja-pos|affix|ひょう|hhira=ひやう}}
+
+# {{short for|ja|平声|tr=hyōshō|dot=:}} the [[level]] [[tone]] in {{cog|ltc|-}}
+
 ===Etymology 5===
-Various nanori readings.
+{{ja-kanjitab|yomi=goon|びょう}}
+{{IPAchar|/bʲau/}} → {{IPAchar|/bʲɔː/}} → {{IPAchar|/bʲoː/}}
+
+From {{der|ja|ltc|-}} {{ltc-l|平|id=2}}.
+
+The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the earlier borrowing from {{cog|ltc|-}}.
+
+====Affix====
+{{ja-pos|affix|びょう|hhira=びやう}}
+
+# [[impartial]], [[unbiased]]
+
+===Etymology 6===
+{{ja-kanjitab|yomi=n}}
+
+Nominalization of classical verb {{m|ja|おさむ|tr=osamu}}, modern {{m|ja|おさめる|tr=osameru|pos=multiple definitions in kanji}}.
 
 ====Proper noun====
-{{ja-pos|proper|おさむ}}
+{{ja-pos|proper|おさむ|hhira=をさむ}}
 
 # {{surname|ja|A=a|sort=おさむ}}
 # {{given name|ja|male|A=a|sort=おさむ}} {{rfv-sense|ja}}
 
+===Etymology 7===
+{{ja-kanjitab|yomi=n}}
+
+[[nominalization|Nominalization]] of classical adjective {{m|ja|等し|tr=hitoshi}}, modern {{m|ja|等しい|tr=hitoshii||[[equal]], [[same]]}}.
+
+====Proper noun====
 {{ja-pos|proper|ひとし}}
 
 # {{surname|ja|A=a|sort=ひとし}}
 # {{given name|ja|male|A=a|sort=ひとし}}
 
+===Etymology 8===
+{{ja-kanjitab|yomi=n}}
+
+[[nominalization|Nominalization]] of classical adjective {{m|ja|広し|tr=hiroshi}}, modern {{m|ja|広い|tr=hiroi||[[vast]], [[wide]]}}.
+
+====Proper noun====
 {{ja-pos|proper|ひろし}}
 
-# {{given name|ja|male|A=a|sort=ひろし}} {{rfv-sense|ja}}
+# {{given name|ja|male|A=a|sort=ひろし}}
 
+===Etymology 9===
+{{ja-kanjitab|yomi=n}}
+
+[[nominalization|Nominalization]] of classical adjective {{m|ja|安し|tr=yasushi}}, modern {{m|ja|安い|tr=yasui||[[peaceful]], [[quiet]]}}.
+
+====Proper noun====
 {{ja-pos|proper|やすし}}
 
 # {{given name|ja|male|A=a|sort=やすし}} {{rfv-sense|ja}}
 
+===Etymology 10===
+{{ja-kanjitab|yomi=n}}
+
+[[nominalization|Nominalization]] of classical adjective {{m|ja|良し|tr=yoshi}}, modern {{m|ja|良い|tr=yoi||[[good]], [[fine#Adjective|fine]]}}.
+
+====Proper noun====
 {{ja-pos|proper|よし}}
 
 # {{surname|ja|A=a|sort=よし}}
@@ -272,12 +350,11 @@ Various nanori readings.
 # ([[평평하다]], ''pyeongpyeong-hada'') to be [[flat]], [[level]], [[plane]]
 
 ====Derived terms====
-{{der-top}}
-* {{l|ko|平凡}} ([[평범하다]], ''pyeong-beom-hada'') to be [[plain]], [[common]]
-* {{l|ko|平和}} ([[평화]], ''pyeong-hwa'') [[peace]]
-{{der-mid}}
-* {{l|ko|平壤}} ([[평양]], ''pyeong-yang'') the capital city of North Korea
-* {{l|ko|平野}} ([[평야]], ''pyeong-ya'') [[plain]]
+{{der-top3}}
+* {{ko-l|평범|平凡}}
+* {{ko-l|평화|平和}}
+* {{ko-l|^평양|平壤}}
+* {{ko-l|평야|平野}}
 {{der-bottom}}
 
 [[Category:Hanja readings|평]]
