@@ -4,9 +4,7 @@
 ===Proper noun===
 {{head|ba|proper noun}}
 
-# [[Israel]]
-
-[[Category:ba:Countries]]
+# {{place|ba|country|r/Western Asia|t1=Israel}}
 
 ----
 
@@ -19,10 +17,8 @@
 ===Proper noun===
 {{mn-proper noun|ᠢᠰᠷᠠᠶᠢᠯ}}
 
-# [[Israel]]
+# {{place|mn|country|r/Western Asia|t1=Israel}}
 #: {{syn|mn|Израйль}}
-
-{{C|mn|Countries}}
 
 ----
 
@@ -30,7 +26,7 @@
 {{wikipedia|lang=ru}}
 
 ===Etymology===
-Borrowed from {{bor|ru|grc|Ἰσρᾱήλ||Israel}}, from {{der|ru|he|יִשְׂרָאֵל||Israel|tr=yisra'él}}
+Borrowed from {{bor|ru|grc|Ἰσρᾱήλ||Israel}}, from {{der|ru|he|יִשְׂרָאֵל||Israel|tr=yisra'él}}.
 
 ===Pronunciation===
 * {{ru-IPA|Изра́иль}}
@@ -39,8 +35,8 @@ Borrowed from {{bor|ru|grc|Ἰσρᾱήλ||Israel}}, from {{der|ru|he|יִשְׂ
 ===Proper noun===
 {{ru-proper noun+|Изра́иль|m|a=ia}}
 
-# {{lb|ru|inanimate}} [[Israel]] {{gloss|country}}
-# {{lb|ru|animate}} {{given name|ru|male|from=Hebrew|eq=Israel}}
+# {{lb|ru|inanimate}} {{place|ru|country|r/Western Asia|t1=Israel}}
+# {{lb|ru|animate}} {{given name|ru|male|from=Hebrew|xlit=Izrail|eq=Israel}}
 
 ====Declension====
 {{ru-noun-table|Изра́иль|m|n=sg|a=ia}}
@@ -53,5 +49,3 @@ Borrowed from {{bor|ru|grc|Ἰσρᾱήλ||Israel}}, from {{der|ru|he|יִשְׂ
 ===See also===
 * {{l|ru|Израи́л|gloss=Israel, person's name}}
 * {{l|ru|Исраэ́ль|gloss=Israel, person's name}}
-
-[[Category:ru:Countries in Asia]]
