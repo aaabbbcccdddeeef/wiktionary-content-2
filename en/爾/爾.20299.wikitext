@@ -119,96 +119,95 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=爻10}}
 
-# [[you]]
-# [[like]] [[that]], that [[way]]
-
 ====Readings====
 {{ja-readings
 |goon=に
-|kanon=じ<ぢ
-|kun=おれ-, しか-, なんじ-<なんぢ-, しかり, そ-の, のみ-
-|nanori=あきら, ちか, み, みつる
+|kanon=じ
+|kun=なんじ-<なんぢ-, そ-れ, そ-の
+|nanori=あき, あきら, しか, ちか, ちかし, み, みつる
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|爾来|じらい}}: from that time on
-* {{ja-r|爾後|じご}}: from this time on
+{{der-top3|Compounds}}
+* {{ja-r|爾%雅|^じ%が}}
+* {{ja-r|爾%前|に%ぜん}}
+* {{ja-r|大%為%爾|^た%い%に}}
+* {{ja-r|弖%爾%波|て%に%は|rom=-}}, {{ja-r|手%爾%波|て%に%は}}
+* {{ja-r|弖%爾%乎%波|て%に%を%は|rom=-}}, {{ja-r|手%爾%遠%波|て%に%を%は|rom=-}}, {{ja-r|天%爾%遠%波|て%に%を%は}}
+* {{ja-r|法%爾|ほう%に}}
+* {{ja-r|亜爾然丁|^アルゼンチン}}
+* {{ja-r|喀什噶爾|^カシュガル}}
+* {{ja-r|撒爾沙|サルサ}}
+* {{ja-r|舎的爾|セーデル}}
+* {{ja-r|哈爾浜|^ハルビン}}
+* {{ja-r|伯剌西爾|^ブラジル}}
+* {{ja-r|莫臥爾|^モール}}
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=k|おれ}}
+{{ja-kanjitab|yomi=kanon|じ}}
 
-From {{inh|ja|ojp|sort=おれ|-}}.  Found in use mostly from ancient times until roughly the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> used to refer in the [[second person]] to social [[inferior]]s or to [[insult]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+From {{der|ja|ltc|sort=し'|-}} {{ltc-l|爾}}.
+
+====Affix====
+{{ja-pos|affix|じ}}
+
+# {{n-g|[[second person]] [[archaic]] [[pronoun]]:}} [[thou]], [[you]]
+# {{n-g|[[distal]] [[pronoun]] equivalent to modern {{ja-r|それ}} or {{ja-r|その}}:}} [[that]] 
+# {{n-g|[[auxiliary]] [[character]] in {{m|ja|漢文|tr=[[kanbun]]}} [[text]]s [[indicate|indicating]] [[state]] or [[condition]]}}
+
+====Derived terms====
+{{der-top4}}
+* {{ja-r|爾%後|じ%ご}}
+* {{ja-r|爾%今|じ%こん}}
+* {{ja-r|爾%時|じ%じ}}
+* {{ja-r|爾%汝|じ%じょ}}
+* {{ja-r|爾%曹|じ%そう}}
+* {{ja-r|爾%余|じ%よ}}
+* {{ja-r|爾%来|じ%らい}}
+* {{ja-r|云%爾|うん%じ}}
+* {{ja-r|莞%爾|かん%じ}}
+* {{ja-r|鏗%爾|こう%じ}}
+* {{ja-r|忽%爾|こつ%じ}}
+* {{ja-r|蕞%爾|さい%じ}}
+* {{ja-r|卒%爾|そつ%じ|rom=-}}, {{ja-r|率%爾|そつ%じ}}
+* {{ja-r|徒%爾|と%じ}}
+* {{ja-r|瞥%爾|べつ%じ}}
+* {{ja-r|勃%爾|ぼつ%じ}}
+* {{ja-r|聊%爾|りょう%じ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=i|おれ|alt=儞}}
+
+From {{inh|ja|ojp|sort=おれ|-}}, found in use mostly from ancient times until roughly the {{w|Heian period}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> used to refer in the [[second person]] to social [[inferior]]s or to [[insult]].<ref name="KDJ"/><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>
 
 The [[second person]] sense of {{m|en|you}} appears to be obsolete in modern Japanese.
 
-Not to be confused with the modern term {{m|ja|俺|tr=ore}} with the [[first person]] sense of {{m|en|I}}, {{m|en|me}}.  See {{m|ja|俺}} for that sense.
-
 ====Pronunciation====
-{{ja-pron|yomi=k|おれ|acc=0|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|儞}}
-* {{ja-l|你}}
+{{ja-pron|おれ|acc=0|acc_ref=DJR}}
 
 ====Pronoun====
 {{ja-pos|pronoun|おれ}}
 
-# {{lb|ja|archaic|vulgar|sort=おれ}} [[you]]
+# {{lb|ja|archaic|vulgar|sort=おれ}} {{n-g|[[second person]] [[pronoun]]:}} [[you]]
 
 =====Usage notes=====
-Often used to [[insult]].  Compare modern {{cog|ja|お前|tr=omae}}, {{cog|en|you}} {{m|en|son of a bitch}}.
-
-===Etymology 2===
-{{ja-kanjitab|yomi=k|なんじ}}
-
-{{IPAchar|/namuti/}} → *{{IPAchar|/nandi/}} → {{IPAchar|/nand͡ʑi/}}
-
-From {{inh|ja|ojp|sort=なんじ|-}}.  Originally derived as a compound of {{compound|ja|sort=なんじ|汝|tr1=na|t1=you|pos=ancient term|貴|tr2=muchi|pos2=honorific suffix}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
-
-Originally used to refer [[honorifically]] to the [[second person]].  From around the {{w|Nara period}}, the [[honorific]] sense lessened, and the term was used to refer to social [[equal]]s or occasionally social [[inferior]]s.  By the {{w|Muromachi period}}, this term was the most common [[second person]] [[pronoun]] for social [[inferior]]s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
-
-====Pronunciation====
-{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|汝}} {{qualifier|more common}}
-
-====Pronoun====
-{{ja-pos|pronoun|なんじ}}
-
-# {{lb|ja|archaic|sort=なんじ}} [[thou]], [[you]]
-
-=====Usage notes=====
-No longer in use in modern Japanese outside of contexts where the speaker is deliberately invoking archaic usage.  Compare use of {{cog|en|thou}}.
-
-===Etymology 3===
-{{ja-kanjitab|yomi=k|しか}}
-
-From {{inh|ja|ojp|sort=しか|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  Compound of {{compound|ja|sort=しか|し|tr1=shi|t1=that|pos1=demonstrative, likely related to {{m|ja|さ|tr=sa}}, modern {{m|ja|そう|tr=sō}}|か|tr2=ka|pos2=suffix indicating state}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
-
-The [[interjection]] sense appears to have developed from the [[adverb]] sense.
-
-====Pronunciation====
-{{ja-pron|yomi=k|しか}}
-
-====Alternative forms====
-* {{ja-l|然}} {{qualifier|more common}}
-
-====Adverb====
-{{ja-pos|adverb|しか}}
-
-# {{lb|ja|sort=しか|obsolete}} like that, as such
-# {{lb|ja|sort=しか|obsolete}} [[certainly]], [[definitely]]
+* Often used to [[insult]].  Compare modern {{cog|ja|お前|tr=omae}}, {{cog|en|you}} {{m|en|son of a bitch}}.
+* Not to be confused with the modern [[first person]] pronoun {{m|ja|俺|tr=ore}}.
 
 =====Derived terms=====
-* {{ja-r|然し|しかし|be that as it may, however}}
+* {{ja-r|うれ}}
+* {{ja-r|爾%奴|おれ%め}}
+* {{ja-r|爾%等|おれ%ら}}
 
-====Interjection====
-{{ja-pos|interjection|しか}}
+===Etymology 3===
+{{ja-kanjitab|yomi=k|なんじ}}
+{{ja-see|汝}}
 
-# {{lb|ja|sort=しか|obsolete|conversational}} [[yeah]], [[uh-huh]]
+===Etymology 4===
+{{ja-kanjitab|yomi=i|しか}}
+{{ja-see|然}}
 
 ===References===
 <references/>
@@ -221,6 +220,23 @@ The [[interjection]] sense appears to have developed from the [[adverb]] sense.
 {{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
 
 # {{rfdef|ko|sort=爻10}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+{{rfe|ojp|sort=おれ}}
+
+===Pronoun===
+{{head|ojp|pronoun|tr=ore|kana|おれ|sort=おれ}}
+
+# <!--{{lb|ojp|vulgar|sort=おれ}}--> {{n-g|[[second person]] [[pronoun]]:}} [[you]]
+#* {{RQ:Kojiki|Second scroll, {{w|Yamato Takeru no mikoto}}}}
+#*: {{ux|ojp|爾詔：「吾&#64091;坐纒向之日代宮所知大八嶋國。大帶日子淤斯呂和氣天皇之御子、名倭男具那王&#64091;也、'''意禮'''熊曾建二人不伏無禮聞看而、取殺'''意禮'''詔而遣。」}}
+
+====Descendants====
+* {{desc|ja|[[爾]], [[儞]]|tr=ore}}
 
 ----
 
