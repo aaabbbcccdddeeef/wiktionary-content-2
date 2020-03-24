@@ -2,6 +2,7 @@
 ==Chinese==
 {{zh-forms|s=东京}}
 {{zh-wp|zh:東京 (消歧義)|zh|yue:東京 (搞清楚)|yue|gan|lzh:東京都|hak:Tûng-kîn|cdo:Dŭng-gĭng|nan:Tang-kiaⁿ|wuu}}
+
 ===Pronunciation===
 {{zh-pron
 |m=Dōngjīng
@@ -19,7 +20,7 @@
 ===Proper noun===
 {{zh-proper noun}}
 
-# {{zh-div|都}} {{place|zh|t=Tokyo|metropolis|c/Japan}}
+# {{zh-div|都}} {{place|zh|prefecture/capital city|c/Japan|t1=Tokyo}}
 # {{zh-old-name|開封}}
 # {{zh-old-name|河內}}
 # {{lb|zh|history}} [[Tonkin]]
@@ -38,7 +39,7 @@
 ====Descendants====
 {{CJKV||とうきょう}}
 
-{{zh-cat|Capital cities|Cities in Japan|Exonyms|Prefectures of Japan|Tokyo}}
+{{zh-cat|Exonyms}}
 
 ----
 
@@ -62,7 +63,7 @@ The city of Tokyo was renamed from {{m|ja|江戸|tr=[[Edo]]}} in 1868 after {{w|
 ====Proper noun====
 {{ja-pos|とうきょう|proper|hhira=とうきやう}}
 
-# [[Tokyo]] {{gl|[[capital city]] of [[Japan]]}}, the 23 [[special ward]]s
+# {{place|ja|prefecture/capital city|c/Japan|consisting of 23 [[special ward]]s|t1=Tokyo|sort=とうきよう}}
 #: {{ja-usex|昨日、'''東%京'''は曇りでしたか。|^きのう、'''^とう%きょう''' は くもり でした か。|Was it cloudy in '''Tokyo''' yesterday?}}
 # {{short for|ja|東京都|tr=Tōkyō-to|nodot=1|sort=とうきよう}} the [[capital]] [[prefecture]] of Japan
 # {{short for|ja|東京駅|tr=Tōkyō-eki|nodot=1}}: {{w|Tokyo Station}}
@@ -166,15 +167,13 @@ Borrowing from {{bor|ja|vi|東京|sort=とんきん|tr={{l|vi|Đông Kinh}}|t=[[
 ====Proper noun====
 {{ja-pos|トンキン|proper}}
 
-# {{lb|ja|historical}} [[Tonkin]] {{gl|[[northern]] [[region]] of [[Vietnam]]}}
+# {{lb|ja|historical}} {{place|ja|northern <<region>> of <<c/Vietnam>>|t1=Tonkin}}
 
 =====Derived terms=====
 * {{ja-r|東%京 錦|^トン%キン にしき}}
 
 ===References===
 <references/>
-
-{{c|ja|Capital cities|Cities in Japan|Prefectures of Japan|Tokyo|sort=とうきよう}}
 
 ----
 
@@ -200,7 +199,7 @@ From {{bor|ryu|ja|東京|tr=Tōkyō|sort=とおちよお}}.
 ===Proper noun===
 {{ryu-pos|proper|とーちょー}}
 
-# [[Tokyo]] {{gl|[[capital city]] of [[Japan]]}}, the 23 [[special ward]]s
+# {{place|ryu|prefecture/capital city|c/Japan|consisting of 23 [[special ward]]s|t1=Tokyo|sort=とおちよお}}
 #: {{ryu-usex|'''東京'''んかい行ち欲さん。|'''とーちょー'''-んかい いちぶさん。|(I) want to go to '''Tokyo'''.}}
 
 ===References===
@@ -208,7 +207,7 @@ From {{bor|ryu|ja|東京|tr=Tōkyō|sort=とおちよお}}.
 * {{R:Shuri-Naha Dialect Dictionary|トーチョー|22565}}
 * {{R:Okinawago Jiten}}
 
-{{c|ryu|Capital cities|Cities in Japan|Exonyms|Prefectures of Japan|Tokyo|sort=とおちよお}}
+{{c|ryu|Exonyms|sort=とおちよお}}
 
 ----
 
