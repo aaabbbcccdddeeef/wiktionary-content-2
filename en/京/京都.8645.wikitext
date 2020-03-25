@@ -55,9 +55,9 @@ From {{bor|ja|ltc|sort=きようと|-}} {{ltc-l|京都|lit=[[capital city]]}}.
 {{ja-pos|きょうと|proper|hhira=きやうと}}
 
 # ''a [[placename]]'', ''especially'':
-## {{short for|ja|京都府|tr=Kyōto-fu|dot=:|sort=きようと}} {{w|Kyoto Prefecture}}
-## {{short for|ja|京都市|tr=Kyōto-shi|dot=:}} [[Kyoto]], the [[prefecture|prefectural]] [[capital]] of Kyoto Prefecture
-##: {{syn|ja|京|tr1=Kyō|京の都|tr2=Kyō no miyako}}
+## {{short for|ja|京都府|tr=Kyōto-fu|dot=:|sort=きようと}} {{place|ja|prefecture|c/Japan|t1=Kyoto|t2={{w|Kyoto Prefecture}}|sort=きようと}}
+## {{short for|ja|京都市|tr=Kyōto-shi|dot=:|sort=きようと}} {{place|ja|capital city|pref/Kyoto|c/Japan|t1=Kyoto|sort=きようと}}
+##: {{syn|ja|京|tr1=Kyō|京の都|tr2=Kyō no miyako|sort=きようと}}
 # {{surname|ja|A=a|nodot=1|sort=きようと}}
 # {{given name|ja|female|A=a|sort=きようと}}
 
@@ -90,8 +90,6 @@ From {{bor|ja|ltc|sort=きようと|-}} {{ltc-l|京都|lit=[[capital city]]}}.
 * {{ja-r|洛陽|^らくよう}}
 {{bottom}}
 
-{{topics|ja|Cities in Japan}}
-
 ----
 
 ==Okinawan==
@@ -105,13 +103,12 @@ From {{bor|ryu|ja|京都|tr=Kyōto|sort=ちょおとぅ}}.
 ===Proper noun===
 {{ryu-pos|proper|ちょーとぅ|sort=ちょおとぅ}}
 
-# [[Kyoto]]
+# {{place|ryu|prefecture|c/Japan|t1=Kyoto|sort=ちょおとぅ}}
+# {{place|ryu|capital city|pref/Kyoto|c/Japan|t1=Kyoto|sort=ちょおとぅ}}
 
 ===References===
 * {{R:Shuri-Naha Dialect Dictionary|チョートゥ|21432}}
 * {{R:Okinawago Jiten}}
-
-{{c|ryu|Cities in Japan|Prefectures of Japan|sort=ちよおとう}}
 
 ----
 
@@ -121,4 +118,5 @@ From {{bor|ryu|ja|京都|tr=Kyōto|sort=ちょおとぅ}}.
 ===Proper noun===
 {{vi-proper noun|sc=Hani}}
 
-# {{han tu form of|Kinh Đô|[[Kyoto]]}}
+# {{han tu form of|Kinh Đô|[[Kyoto]]}}, {{place|vi|a=a|prefecture|c/Japan}}
+# {{han tu form of|Kinh Đô|[[Kyoto]]}}, {{place|vi|a=the|capital city|pref/Kyoto|c/Japan}}
