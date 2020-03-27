@@ -60,7 +60,7 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=尸06}}
 
-# [[corpse]]; [[cadaver]]
+# [[corpse]], [[cadaver]]
 
 ====Readings====
 {{ja-readings
@@ -69,42 +69,35 @@
 |kun=かばね-, しかばね-
 }}
 
-===Alternative forms===
-* {{ja-l|尸}}
-
 ===Etymology 1===
-{{ja-kanjitab|かばね|yomi=k}}
+{{ja-kanjitab|yomi=k|かばね|alt=尸:mainly&#32;in&#32;compounds}}
 
-From {{inh|ja|ojp|sort=かばね|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|18|4094}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4094 here]</ref>
+From {{inh|ja|ojp|sort=かばね|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 {{CE}},<ref>{{RQ:Manyoshu|18|4094}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4094 here]</ref> and also cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
 
 Appears to be a compound.  Ultimate derivation {{unk|ja|sort=かばね|nocap=1}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かばね|acc=0|acc_ref=DJR,NHK}}
-
-====Alternative forms====
-* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸所|tr=kabane-dokoro}}}}
+{{ja-pron|かばね|acc=0|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|かばね}}
 
-# a [[corpse]], a [[cadaver]]
+# {{defdate|720}} a [[corpse]], a [[cadaver]]
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|しかばね}}
+{{ja-kanjitab|yomi=k|しかばね|alt=尸:mainly&#32;in&#32;compounds}}
 
-Compound of {{compound|ja|sort=しかばね|死|tr1=shi|t1=death; dead|屍|tr2=kabane|t2=corpse}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Not used in the ''{{w|Man'yōshū}}''; appears to be a later development.
+Compound of {{compound|ja|sort=しかばね|死|tr1=shi|t1=death; dead|屍|tr2=kabane|t2=corpse}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  
+
+First cited to the late 1100s.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しかばね|acc=0|dev=1|acc_ref=DJR,NHK}}
-
-====Alternative forms====
-* {{ja-l|尸}} {{qualifier|mainly used for compounds, like {{m|ja|尸冠|tr=shikabane kanmuri}}}}
+{{ja-pron|しかばね|acc=0|dev=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|しかばね}}
 
-# a [[corpse]], a [[cadaver]]
+# {{defdate|late 1100s}} a [[corpse]], a [[cadaver]]
 #* {{quote-book|ja||date=Jul 5 2014||{{laja|決闘王の記憶 －決闘都市編－}}|trans-title=Memories of the Duel King －Battle City Edition－|chapter={{jaru|オベリスクの[巨](きょ)[神](しん)[兵](へい)}}|trans-chapter=Obelisk the Giant God Soldier|publisher={{w|Konami}}||}}
 #*: {{ja-usex|その者、降%臨せしむれば、灼%熱の疾%風%大%地に吹き荒れ、生きとし生ける者すべて'''屍'''とならん。|^その もの、こう%りんせし むれば、しゃく%ねつ の しっ%ぷう% だい%ち に ふきあれ、いきとし.いける もの すべて '''しかばね''' とならん。|Once this being descends with burning winds sweeping over the land, all living things shall turn into corpses.}}
 
