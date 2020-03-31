@@ -132,48 +132,11 @@ From {{inh|zh|sit-pro|*s-ni-s||seven}}.
 * {{q|financial form}} {{ja-l|漆}}
 
 ===Etymology 1===
-From {{der|ja|ltc|sort=しち|-}} {{ltc-l|七}}.
-
-====Pronunciation====
-{{ja-pron|y=go|しち|acc=2|dev=1|acc_ref=DJR|a=Ja-7-shichi.ogg}}
-
-====Numeral====
-{{ja-pos|numeral|しち}}
-
-# [[seven]], [[7]]
-
-=====Usage notes=====
-* {{m|ja||なな|tr=nana|pos=see below}} is used instead of {{m|ja||しち|tr=shichi}} in conversation because {{m|ja||しち|tr=shichi}} is considered unlucky. Compare {{m|ja|四|tr=yon, shi}}.
-
-=====Derived terms=====
-{{der-top}}
-* {{ja-r|七%七|しち%しち}}
-* {{ja-r|七%月|しち%がつ|[[July]]}}
-* {{ja-r|七%五%三|^しち%-^ご%-^さん}}
-* {{ja-r|七%五調|しち%ごちょう}}
-* {{ja-r|七%三|しち%さん}}
-* {{ja-r|七%子|しち%し}}
-* {{ja-r|七%七%日|しち%しち%にち}}
-* {{ja-r|七%珍|しっ%ちん}}
-** {{ja-r|七%珍 万%宝|しっ%ちん まん%ぽう}}
-* {{ja-r|七%転 八%起|しち%てん はっ%き|rom=-}}, {{ja-r|七%顛 八%起|しち%てん はっ%き}}
-* {{ja-r|七%転%八%倒|しち%てん%ばっ%とう|rom=-}}, {{ja-r|七%顛%八%倒|しち%てん%ばっ%とう}}
-* {{ja-r|七%道|^しち%どう}}
-** {{ja-r|五%畿%七%道|^ご%き%しち%どう}}
-* {{ja-r|七%堂 伽%藍|しち%どう が%らん}}
-* {{ja-r|七%並べ|しち%ならべ|[[sevens]]}}
-* {{ja-r|七%味|しち%み}}
-* {{ja-r|七%面%鳥|シチ%メン%チョウ|[[turkey]]|lit=seven-[[face]]d [[bird]]}}
-* {{ja-r|七%曜|しち%よう}}
-* {{ja-r|五%七|ご%-しち|[[five]]-seven}}
-{{der-bottom}}
-
-===Etymology 2===
 {{ja-kanjitab|なな|yomi=k}}
 
-From {{inh|ja|ojp|sort=なな|-}}.
+From {{inh|ja|ojp|sort=なな|-}}. {{rfe|ja|sort=なな|Possibly from Goguryeo *''nanə-n''?}}
 
-{{rfe|ja|sort=なな|Possibly from Goguryeo *''nanə-n''?}}
+In modern Japanese, Japonic {{ja-r|なな}} is more common than Sinitic {{ja-r|しち|pos=see Etymology 2}} outside fixed compounds, which is similar to {{ja-r|四|よ}} but different from other numerals. The reason may be a superstitious connection to {{ja-r|死|し}}, or simply avoiding confusion with similar sounding {{ja-r|一|いち}} and {{ja-r|四|し}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|なな|acc=1|acc_ref=DJR|a=Ja-7-nana.ogg}}
@@ -212,6 +175,40 @@ From {{inh|ja|ojp|sort=なな|-}}.
 {{ja-pos|proper|なな}}
 
 # {{surname|ja|A=a|nodot=1|sort=なな}}
+
+===Etymology 2===
+From {{der|ja|ltc|sort=しち|-}} {{ltc-l|七}}.
+
+====Pronunciation====
+{{ja-pron|y=go|しち|acc=2|dev=1|acc_ref=DJR|a=Ja-7-shichi.ogg}}
+
+====Numeral====
+{{ja-pos|numeral|しち}}
+
+# [[seven]], [[7]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|七%七|しち%しち}}
+* {{ja-r|七%月|しち%がつ|[[July]]}}
+* {{ja-r|七%五%三|^しち%-^ご%-^さん}}
+* {{ja-r|七%五調|しち%ごちょう}}
+* {{ja-r|七%三|しち%さん}}
+* {{ja-r|七%子|しち%し}}
+* {{ja-r|七%七%日|しち%しち%にち}}
+* {{ja-r|七%珍|しっ%ちん}}
+** {{ja-r|七%珍 万%宝|しっ%ちん まん%ぽう}}
+* {{ja-r|七%転 八%起|しち%てん はっ%き|rom=-}}, {{ja-r|七%顛 八%起|しち%てん はっ%き}}
+* {{ja-r|七%転%八%倒|しち%てん%ばっ%とう|rom=-}}, {{ja-r|七%顛%八%倒|しち%てん%ばっ%とう}}
+* {{ja-r|七%道|^しち%どう}}
+** {{ja-r|五%畿%七%道|^ご%き%しち%どう}}
+* {{ja-r|七%堂 伽%藍|しち%どう が%らん}}
+* {{ja-r|七%並べ|しち%ならべ|[[sevens]]}}
+* {{ja-r|七%味|しち%み}}
+* {{ja-r|七%面%鳥|シチ%メン%チョウ|[[turkey]]|lit=seven-[[face]]d [[bird]]}}
+* {{ja-r|七%曜|しち%よう}}
+* {{ja-r|五%七|ご%-しち|[[five]]-seven}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|な|yomi=i}}
