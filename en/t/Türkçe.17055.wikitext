@@ -11,14 +11,17 @@ From {{affix|tr|Türk|-ce|alt2=-çe}}.
 {{tr-proper noun}}
 
 # [[Turkish]] language
-#: {{ux|tr|'''Türkçe''' bilmiyorum.|inline=1|I don't know {{qualifier|used instead of 'speak'}} Turkish.}}
-#: {{ux|tr|'''Türkçem''' iyi değil.|inline=1|My Turkish isn't good. (i.e., I don't speak Turkish well)}}
-#: {{ux|tr|'''Türkçeniz''' çok iyi.|inline=1|Your Turkish is very good.}}
-#: {{ux|tr|'''Türkçem''' akıcıdır.|inline=1|My Turkish is fluent. (i.e., I speak Turkish fluently)}}
-# [[Turkish]] language class
-#: {{ux|tr|'''Türkçelere''' geç kaldık!|inline=1|We are late for the Turkish classes!}}
+#: {{ux|tr|Milyonlarca insan '''Türkçe''' öğreniyor.|inline=1|Millions of people are learning Turkish.}}
 
 ====Declension====
-{{tr-infl-noun-v|e|poss=1}}
+{{tr-decl-noun-unc
+|Türkçe
+|Türkçeyi
+|Türkçeye
+|Türkçede
+|Türkçeden
+|Türkçenin
+}}
 
+[[Category:tr:Turks]]
 [[Category:tr:Languages]]
