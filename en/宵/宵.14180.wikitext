@@ -62,7 +62,7 @@
 
 From {{inh|ja|ojp|sort=よい|-}}.
 
-Appears to be derived from a compound, the initial ''yo'' is likely from a ''y-'' stem cognate with {{m|ja|夕|tr=yū||[[evening]]}}, while the final ''-i'' is likely from {{m|ja|日|tr=hi||[[day]]}}. {{rfv-etym|ja|sort=よい}}
+Appears to be derived from a compound, the initial ''yo'' is likely from a ''y-'' stem cognate with {{m|ja|夕|tr=yū||[[evening]]}}, while the final ''i'' is likely from {{m|ja|日|tr=hi||[[day]]}}. {{rfv-etym|ja|sort=よい}}
 
 ====Pronuciation====
 {{ja-pron|よい|acc=0|acc_ref=DJR}}
@@ -76,6 +76,7 @@ Appears to be derived from a compound, the initial ''yo'' is likely from a ''y-'
 
 =====Derived terms=====
 {{der-top4}}
+* {{ja-r|宵%宵|よい%よい}}
 * {{ja-r|宵%暁|よい%あかつき}}
 * {{ja-r|宵%居|よい%い}}
 * {{ja-r|宵%戎|よい%えびす}}
@@ -100,11 +101,9 @@ Appears to be derived from a compound, the initial ''yo'' is likely from a ''y-'
 * {{ja-r|宵%待ち|よい%まち}}
 * {{ja-r|宵%惑い|よい%まどい}}
 * {{ja-r|宵%闇|よい%やみ}}
-* {{ja-r|朝%宵|あさ%よい}} <!-- move to OJP with |tr=asayo<sub>2</sub>pi<sub>1</sub>}} -->
 * {{ja-r|宵の内|よい の うち}}
 * {{ja-r|宵の口|よい の くち}}
 * {{ja-r|今宵|こよい}}
-* {{ja-r|七日の宵|なぬか の よい}} <!-- move to OJP with |tr=nanuka no<sub>2</sub> yo<sub>2</sub>pi<sub>1</sub>}} -->
 * {{ja-r|待%宵|まつ%よい}}
 {{der-bottom}}
 
@@ -153,9 +152,39 @@ From {{der|ja|ltc|sort=しよう|-}} {{ltc-l|宵}}.
 
 ----
 
+==Old Japanese==
+
+===Etymology===
+Appears to be derived from a compound, the initial ''yo<sub>2</sub>'' is likely from a ''y-'' stem cognate with {{m|ojp|夕|tr=yupu||[[evening]]}}, while the final ''pi<sub>1</sub>'' is likely from {{m|ojp|日|tr=pi<sub>1</sub>||[[day]]}}. {{rfv-etym|ojp|sort=よひ}}
+
+===Noun===
+{{head|ojp|noun|tr=yo<sub>2</sub>pi<sub>1</sub>|kana|よひ|sort=よひ}}
+
+# the [[hour]]s [[after]] [[sunset]] until [[midnight]], [[collective]]ly: [[dusk]], [[evening]], and [[night]]
+
+====Citations====
+{{seeCites|ojp}}
+
+====Derived terms====
+* {{m|ojp|宵宵|tr=yo<sub>2</sub>pi<sub>1</sub>yo<sub>2</sub>pi<sub>1</sub>}}
+* {{m|ojp|朝宵|tr=asayo<sub>2</sub>pi<sub>1</sub>}}
+* {{m|ojp|七日の宵|tr=nanuka no<sub>2</sub> yo<sub>2</sub>pi<sub>1</sub>}}
+* {{m|ojp|今宵|tr=ko<sub>2</sub>yo<sub>2</sub>pi<sub>1</sub>}}
+
+====Coordinate terms====
+* {{m|ojp|夕へ|tr=yupupe<sub>1</sub>||[[twilight]]}}
+* {{m|ojp|夜中|tr=yo<sub>1</sub>naka||[[midnight]]}}
+* {{m|ojp|曉|tr=akato<sub>2</sub>ki<sub>1</sub>||[[dawn]]}}
+* {{m|ojp|朝#Etymology 2|朝|tr=asita|[[next]] [[morning]]}}
+
+====Descendants====
+* {{desc|ja|宵|tr=yoi}}
+
+----
+
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[tiêu]]|rs=宀07}}
+{{vi-hantu|tiêu|rs=宀07}}
 
 # {{rfdef|vi|sort=宀07}}
