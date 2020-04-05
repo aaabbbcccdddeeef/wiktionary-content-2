@@ -1,48 +1,558 @@
 ==English==
+{{wikipedia}}
+{{wikiquote}}
 
-=== Noun ===
+===Alternative forms===
+* {{alter|en|answeare|aunswer|aunswere||obsolete}}
 
-# something said or done in reaction to a statement or question
-#:''Her answer to his proposal was a slap in the face''.
-# solution to a problem.
-#:''The answer is...''
-# Answer to an email. ([[reply]])
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/ˈɑːn.sə/|/ˈan.sə/}}
+* {{a|GA}} {{IPA|en|/ˈæn.sɚ/}}
+* {{a|ae-tensing|rhotic}} {{IPA|en|[ˈeən.sɚ]}}
+* {{a|ae-tensing|non-rhotic}} {{IPA|en|[ˈeən.sə]}}
+* {{hyph|en|an|swer}}
+* {{audio|en|en-uk-answer.ogg|Audio (RP)}}
+* {{audio|en|en-us-answer.ogg|Audio (GA)}}
+* {{rhymes|en|ɑːnsə(ɹ)|ænsə(ɹ)}}
 
-===Translations===
-*[[Breton]]: [[respont]] ''m'' -où
-*[[Bulgarian]]: [[реакция]] ''f'' (1), [[отговор]] ''m'' (1), [[решение]] ''n'' (2), [[отговор]] (3)
-*[[Catalan]]: [[resposta]] ''f''
-*[[Czech]]: [[odpověď]] ''f''
-*[[Dutch]]: [[antwoord]] ''n'', [[repliek]] ''m''
-*[[Esperanto]]: [[respondo]]
-*[[Finnish]]: [[vastaus]] (1, 3), [[ratkaisu]] (2)
-*[[French]]: [[réponse]] ''f''
-*[[German]]: [[Antwort]] ''n''
-*[[Ido]]: [[respondo]] (reply), [[solvo]] (solution)
-*[[Indonesian]]: [[jawab]]an (1), [[balas]]an (2)
-*[[Japanese]]: [[答え]] (こたえ, kotae) (1), [[返事]] (へんじ, henji) (2)
-*[[Latin]]: [[]]
-*[[Polish]]: [[odpowiedź]] ''f''
-*[[Russian]]: [[ответ]] (1), [[решение]] (2)
-*[[Spanish]]: [[respuesta]] ''f''
+===Etymology 1===
+{{PIE root|en|h₂ent|swer}}
+From {{inh|en|enm|answere}}, {{m|enm|andsware}}, from {{inh|en|ang|andswaru||answer}}, from {{confix|ang|and|t1=against|swaru|t2=affirmation|nocat=1}}, (from {{der|en|ine-pro|*h₂ent-||front, forehead}} and {{der|en|ang|swerian||to swear}}, from {{der|en|ine-pro|*swer-}}), suggesting an original meaning of "a sworn statement rebutting a charge". The cognates suggest the existence of {{der|en|gem-pro|*andswara-||a reply to a question}}. Cognate with {{cog|ofs|ondser||answer}}, {{cog|osx|andswōr||answer}}, {{cog|da|-}} and {{cog|sv|ansvar||liability, responsibility, answer}}, {{cog|is|andsvar||answer, response}}. Compare also {{cog|ang|andwyrde||answer}} (cognate to {{cog|nl|antwoord}}, {{cog|de|Antwort}}), {{cog|ang|andcwiss||reply}}, {{cog|de|Schwur||oath, vow}}.
 
-=== Verb ===
-#to make a reply or response to
-#:''She answered the door''
-#to suit a need or purpose satisfactorily
-#:''It answers the need''.
+====Noun====
+{{en-noun}}
 
-===Translations===
-*[[Breton]]: [[respont]] da unan bennak (to somebody)
-*[[Bulgarian]]: [[отговарям]] (1), [[отвръщам]] (1), [[задоволявам]] (2)
-*[[Finnish]]: [[vastata]]
-*[[Hebrew]]: [[עונה]] (''m'' - Oné), (''f'' - Ona)
-*[[Ido]]: [[respondar]]
+# A [[response]] or [[reply]]; something [[say|said]] or [[do|done]] in [[reaction]] to a [[statement]] or [[question]].
+#: ''Her '''answer''' to his proposal was a slap in the face''.
+# A [[solution]] to a problem.
+#: ''There is no simple '''answer''' to corruption.''
+# {{lb|en|legal}} A [[document]] filed in response to a [[complaint]], responding to each point raised in the complaint and raising [[counterpoint]]s.
 
-[[Category:Communication]]
+=====Derived terms=====
+{{der3|en|title=Terms derived from ''answer'' (noun)
+|answerless
+|answer on a postcard
+|answerphone
+|answer print
+}}
 
-[[Category:1000 English basic words]]
+=====Translations=====
+{{trans-top|response}}
+* Afrikaans: {{t+|af|antwoord}}
+* Albanian: {{t+|sq|përgjigje}}
+* Amharic: {{t|am|መልስ|sc=Ethi}}
+* Arabic: {{t|ar|رَدّ|m}}, {{t|ar|جَوَاب|m}}, {{t|ar|إِجَابَة|f}}
+* Aragonese: {{t-needed|an}}
+* Armenian: {{t+|hy|պատասխան}}
+* Aromanian: {{t|rup|apocrisi}}, {{t|rup|apandisi}}, {{t|rup|giuvapi|f}}
+* Asturian: {{t|ast|respuesta|f}}
+* Azerbaijani: {{t+|az|cavab}}
+* Baluchi: {{t|bal|جواب|tr=jawáb}}
+* Bashkir: {{t|ba|яуап}}
+* Basque: {{t|eu|erantzun}}
+* Belarusian: {{t|be|адка́з|m}}
+* Bengali: {{t|bn|উত্তর|sc=Beng}}
+* Bikol Central: {{t+|bcl|simbag}}
+* Breton: {{t+|br|respont|m}}
+* Bulgarian: {{t+|bg|о́тговор|m}}
+* Burmese: {{t+|my|အဖြေ|sc=Mymr}}
+* Buryat: {{t|bua|харюу}}
+* Catalan: {{t+|ca|resposta|f}}
+* Chechen: {{t|ce|жоп|sc=Cyrl}}
+* Cherokee: {{t-needed|chr}}
+* Chichewa: {{t|ny|yankho}}
+* Chinese:
+*: Cantonese: {{t|yue|回答|tr=wui4 dap3}}, {{t|yue|對答}}, {{t|yue|对答|tr=deoi3 dap3}}
+*: Dungan: {{t|dng|хуэйда}}, {{t|dng|җәвабу}}
+*: Mandarin: {{t+|cmn|回答|tr=huídá}}, {{t+|cmn|對答}}, {{t+|cmn|对答|tr=duìdá}}
+* Chukchi: {{t|ckt|татԓыӈ|tr=tatḷyṇ}}
+* Cornish: {{t|kw|gorthyp}}
+* Corsican: {{t+|co|risposta|f}}
+* Crimean Tatar: {{t|crh|cevap}}
+* Czech: {{t+|cs|odpověď|f}}
+* Danish: {{t+|da|svar|n}}
+* Dutch: {{t+|nl|antwoord|n}}
+* Esperanto: {{t+|eo|respondo}}
+* Estonian: {{t|et|vastus}}
+* Faroese: {{t|fo|svar|n}}
+* Finnish: {{t+|fi|vastaus}}
+* French: {{t+|fr|réponse|f}}
+* Friulian: {{t-needed|fur}}
+* Gagauz: {{t|gag|cuvap}}
+* Galician: {{t+|gl|resposta|f}}
+* Georgian: {{t|ka|პასუხი|sc=Geor}}
+* German: {{t+|de|Antwort|f}}
+* Greek: {{t+|el|απάντηση|f|sc=Grek}}, {{t+|el|απόκριση|f|sc=Grek}}
+*: Ancient: {{t|grc|ἀπόκρισις|f}}, {{t|grc|ὑπόκρισις|f}}
+* Greenlandic: {{t|kl|akissut}}
+* Gujarati: {{t|gu|જવાબ|sc=Gujr}}, {{t+|gu|ઉત્તર|sc=Gujr}}
+* Hawaiian: {{t|haw|pane}}
+* Hebrew: {{t+|he|תְּשׁוּבָה|f|tr=t'shuvá}}
+* Hindi: {{t+|hi|जवाब|m}}, {{t+|hi|उत्तर|m}}
+* Hungarian: {{t+|hu|válasz}}, {{t+|hu|felelet}}
+* Icelandic: {{t+|is|svar|n}}, {{t|is|ans|n}}
+* Ido: {{t+|io|respondo}}
+* Indonesian: {{t+|id|jawaban}}
+* Interlingue: {{t|ie|response}}
+* Irish: {{t+|ga|freagra|m}}
+* Italian: {{t+|it|risposta|f}}
+* Japanese: {{t+|ja|答え|tr=こたえ, kotae|sc=Jpan}}, {{t+|ja|回答|tr=かいとう, kaitō|sc=Jpan}}, {{t+|ja|応答|tr=おうとう, ōtō|sc=Jpan}}
+* Kalmyk: {{t|xal|хәрү}}
+* Karachay-Balkar: {{t|krc|жауап|tr=jawap|sc=Cyrl}}
+* Kazakh: {{t+|kk|жауап}}
+* Khmer: {{t|km|ពាក្យឆ្លើយ}}
+* Korean: {{t+|ko|대답}}, {{t|ko|회답}}, {{t+|ko|답}}
+* Koryak: {{t|kpy|аӈъягыйӈын|tr=aŋyagəyŋən|sc=Cyrl}}
+* Kumyk: {{t|kum|жавап|tr=javap|sc=Cyrl}}
+{{trans-mid}}
+* Kurdish:
+*: Kurmanji: {{t+|ku|cewab}}
+*: Sorani: {{t+|ku|وەڵام}}
+* Kyrgyz: {{t+|ky|жооп}}
+* Lao: {{t|lo|ຄຳຕອບ}}
+* Latin: {{t|la|responsum|n}}
+* Latvian: {{t|lv|atbilde|f}}
+* Lithuanian: {{t+|lt|atsakymas|m}}
+* Low German: {{t+|nds|Antwoort|f}}
+* Luxembourgish: {{t+|lb|Äntwert|f}}
+* Macedonian: {{t|mk|одговор|m}}
+* Malay: {{t|ms|jawaban}}, {{t+|ms|jawapan}}
+* Maltese: {{t|mt|wieġeb|m}}
+* Maori: {{t-needed|mi}}
+* Mirandese: {{t|mwl|respuosta|f}}
+* Mongolian: {{t+|mn|хариу|sc=Cyrl}}
+* Nogai: {{t|nog|явап}}
+* Northern Sami: {{t|se|vástádus}}
+* Norwegian: {{t+|no|svar|n}}
+* Novial: {{t-needed|nov}}
+* Occitan: {{t+|oc|responsa|f}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|отъвѣтъ|m|sc=Cyrs}}
+* Old English: {{t|ang|andswaru|f}}, {{t|ang|andwyrde|n}}
+* Old Norse: {{t|non|svar|n}}
+* Pashto: {{t+|ps|جواب|m|tr=ǰawãb}}, {{t+|ps|ځواب|m|tr=jwāb}}
+* Persian: {{t+|fa|جواب|tr=javâb}}, {{t+|fa|پاسخ|tr=pâsox|sc=fa-Arab}}, {{t|fa|پیواژ|tr=peyvâž|sc=fa-Arab}} {{qualifier|archaic}}
+* Polish: {{t+|pl|odpowiedź|f}}
+* Portuguese: {{t+|pt|resposta|f}}
+* Romanian: {{t+|ro|răspuns|n}}
+* Russian: {{t+|ru|отве́т|m}}, {{t+|ru|о́тповедь|f}} {{qualifier|archaic or poetic}}
+* Scottish Gaelic: {{t|gd|freagairt|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|о̏дгово̄р|m|sc=Cyrl}}
+*: Roman: {{t+|sh|ȍdgovōr|m}}
+* Sicilian: {{t+|scn|risposta|f}}
+* Sinhalese: {{t-needed|si}}
+* Slovak: {{t|sk|odpoveď|f}}
+* Slovene: {{t+|sl|odgovor|m}}
+* Southern Altai: {{t|alt|каруу|sc=Cyrl}}, {{t|alt|јооп}}
+* Spanish: {{t+|es|respuesta|f}}
+* Swahili: {{t+|sw|jibu}}, {{t+|sw|jawabu}}
+* Swedish: {{t+|sv|svar|n}}
+* Tagalog: {{t|tl|sagot}}
+* Tajik: {{t|tg|жавоб|sc=Cyrl}}
+* Tamil: {{t+|ta|விடை|sc=Taml}}
+* Tatar: {{t+|tt|җавап|sc=Cyrl}}
+* Telugu: {{t+|te|జవాబు}}, {{t+|te|సమాధానం}}
+* Thai: {{t|th|คำตอบ}}
+* Turkish: {{t+|tr|yanıt}}, {{t+|tr|cevap}}
+* Turkmen: {{t+|tk|jogap}}
+* Tuvan: {{t|tyv|харыы|sc=Cyrl}}
+* Ukrainian: {{t+|uk|ві́дповідь|f|sc=Cyrl}}
+* Urdu: {{t|ur|جواب|m|tr=javāb|sc=ur-Arab}}, {{t+|ur|اتر|tr=uttar|sc=ur-Arab}}
+* Uyghur: {{t|ug|جاۋاب}}
+* Uzbek: {{t+|uz|javob}}
+* Vietnamese: {{t+|vi|trả lời}}, {{t|vi|câu trả lời}}
+* Volapük: {{t-needed|vo}}
+* Walloon: {{t-needed|wa}}
+* Waray-Waray: {{t|war|baton}}, {{t|war|tubag}}
+* Welsh: {{t+|cy|ateb}}
+* Yakut: {{t|sah|эппиэт|sc=Cyrl}}, {{t|sah|харда|sc=Cyrl}}, {{t|sah|хоруй|sc=Cyrl}}
+* Yiddish: {{t|yi|ענטפֿער|m}}
+* Zazaki: {{t|zza|ciwab}}
+{{trans-bottom}}
 
-[[gl:Answer]]
-[[it:answer]]
-[[fi:Answer]]
+{{trans-top|solution}}
+* Arabic:
+*: Gulf Arabic: {{t|afb|حَلّ|tr=ḥəl, ḥəll}}
+* Bulgarian: {{t+|bg|реше́ние|n}}
+* Chinese:
+*: Mandarin: {{t+|cmn|解答|tr=jiědá|sc=Hani}}, {{t+|cmn|答案|tr=dá'àn|sc=Hani}}
+* Danish: {{t+|da|løsning|c}}, {{t+|da|svar|n}}
+* Esperanto: {{t|eo|repliko}}
+* Finnish: {{t+|fi|ratkaisu}}, {{t+|fi|vastaus}}
+* French: {{t+|fr|solution}}, {{t+|fr|réponse}}
+* German: {{t+|de|Lösung|f}}
+* Greek: {{t+|el|λύση|f|sc=Grek}}
+* Hebrew: {{t|he|מענה|tr=ma'ane|m}}
+* Hungarian: {{t+|hu|megoldás}}
+* Icelandic: {{t+|is|svar|n}}
+* Ido: {{t+|io|repliko}}, {{t+|io|solvo}}
+* Indonesian: {{t+|id|solusi}}
+* Japanese: {{t+|ja|解答|tr=かいとう, kaitō}}
+* Luxembourgish: {{t|lb|Léisung|f}}
+* Macedonian: {{t|mk|решение|n}}
+{{trans-mid}}
+* Malay: {{t|ms|penyelesaian}}
+* Norwegian: {{t+|no|svar|n}}, {{t+|no|løsning|m}}
+* Polish: {{t+|pl|odpowiedź|f}}
+* Portuguese: {{t+|pt|resposta|f}}
+* Romanian: {{t+|ro|rezolvare|f}}, {{t+|ro|soluție|f}}
+* Russian: {{t+|ru|реше́ние|n}}, {{t+|ru|отве́т|m}}
+* Scottish Gaelic: {{t|gd|freagairt|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|рјеше́ње|n|sc=Cyrl}}, {{t|sh|реше́ње|n|sc=Cyrl}}
+*: Roman: {{t+|sh|rješénje|n}}, {{t+|sh|rešénje|n}}
+* Slovak: {{t|sk|riešenie|n}}, {{t|sk|odpoveď|f}}
+* Slovene: {{t+|sl|odgovor|m}}, {{t+|sl|rešitev|f}}
+* Spanish: {{t+|es|respuesta|f}}
+* Swahili: {{t+|sw|jibu}}
+* Swedish: {{t+|sv|svar|n}}
+* Tagalog: {{t|tl|solusyon}}
+* Telugu: {{t+|te|పరిష్కారం}}
+{{trans-bottom}}
+
+{{trans-top|reply to email}}
+* Arabic:
+*: Gulf Arabic: {{t|afb|رَدّ|tr=rəd, rədd}}
+* Bulgarian: {{t+|bg|о́тговор|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|回答|tr=huídá|sc=Hani}}, {{t+|cmn|回復|sc=Hani}}, {{t+|cmn|回复|tr=huífù|sc=Hani}}, {{t+|cmn|回信|tr=huíxìn|sc=Hani}}
+* Danish: {{t+|da|svar|n}}
+* Finnish: {{t+|fi|vastaus}}
+* French: {{t+|fr|réponse}}
+* Greek: {{t+|el|απάντηση|f|sc=Grek}}, {{t+|el|απόκριση|f|sc=Grek}}
+* Hebrew: {{t+|he|תשובה|f|tr=tshuva}}
+* Hindi: {{t|hi|जवाब देना}}, {{t|hi|उत्तर देना}}
+* Hungarian: {{t+|hu|válasz}}
+* Indonesian: {{t+|id|balas}}
+* Japanese: {{t+|ja|返事|tr=へんじ, henji}}, {{t+|ja|返答|tr=へんとう, hentō}}
+* Kurdish:
+*: Sorani: {{t+|ku|وەڵام}}
+* Macedonian: {{t|mk|о́дговор|m}}
+* Norwegian: {{t+|no|svar|n}}
+{{trans-mid}}
+* Polish: {{t+|pl|odpowiedź|f}}
+* Portuguese: {{t+|pt|resposta|f}}
+* Romanian: {{t+|ro|răspuns|n}}
+* Russian: {{t+|ru|отве́т|m}}
+* Scottish Gaelic: {{t|gd|freagairt|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|о̏дгово̄р|m|sc=Cyrl}}
+*: Roman: {{t+|sh|ȍdgovōr|m}}
+* Slovak: {{t|sk|odpoveď|f}}
+* Slovene: {{t+|sl|odgovor|m}}
+* Spanish: {{t+|es|contestación|f}}
+* Swahili: {{t+|sw|jibu}}
+* Swedish: {{t+|sv|svar|n}}
+* Tagalog: {{t|tl|sagot}}
+* Telugu: {{t+|te|జవాబు}}, {{t+|te|సమాధానం}}
+* Vietnamese: {{t-check|vi|[[tin]] [[trả lời]]}} {{attention|vi|2=was "[[tin#Vietnamese|tin]] [[trả lời]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+{{trans-bottom}}
+
+{{trans-top|document filed in response to a complaint}}
+* Finnish: {{t+|fi|vastine}}
+* Greek: {{t+|el|ανταπάντηση|f|sc=Grek}}, {{t+|el|απόκρουση|f|sc=Grek}}
+* Hungarian: {{t|hu|viszontválasz}}
+* Italian: {{t+|it|risposta|f}}
+* Polish: {{t+|pl|odpowiedź|f}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|réplica|f}}
+* Romanian: {{t+|ro|soluționare|f}}
+* Russian: {{t+|ru|отве́т|m}}
+* Slovak: {{t|sk|odpoveď|f}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|ask}}
+
+===Etymology 2===
+{{PIE root|en|h₂ent|swer}}
+From {{inh|en|enm|answeren}}, {{m|enm|andswaren}}, {{m|enm|answerien}}, from {{inh|en|ang|andswarian}}, {{m|ang|answarien||to answer, to respond, to deny an allegation under oath}}, from {{inh|en|gem-pro|*andaswarōną}}, {{m|gem-pro|*andaswarjaną||to answer, to give a response, to rebut}}, from {{prefix|gem-pro|*anda|t1=against|*swarjaną|nocat=1}}, {{m|gem-pro|*swarōną||to swear an oath, to answer, to respond}}, from {{der|en|ine-pro|*swer-||to swear}} and {{m|ine-pro|*h₂ent-||face, forehead}}, equivalent to {{prefix|en|and|t1=against, back|swear|nocat=1}}. Cognate with {{cog|ofs|ondswera||to answer}}, {{cog|da|ansvare||to answer, account for}}, {{cog|sv|ansvara||to answer, account for}}, {{cog|is|andsvara||to answer, reply}}.
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|ambitransitive}} To make a reply or response to.
+#* '''1593''', {{w|William Shakespeare}}, ''{{w|Venus and Adonis}}'',<sup>[http://www.opensourceshakespeare.org/views/poems/poem_view.php?WorkID=venusadonis]</sup>
+#*: She '''answers''' him as if she knew his mind:
+#* '''1611''', ''{{w|King James Version}} of the {{w|Bible}}'', {{w|Books of Kings|1 Kings}} 18:26,<sup>[https://www.biblegateway.com/passage/?search=1%20Kings+18&version=KJV]</sup>
+#*: {{...}} there was no voice, nor any that '''answered'''.
+#* {{quote-book|en|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
+|title={{w|The Celebrity}}|chapter=4
+|passage=“Well,” I '''answered''', at first with uncertainty, then with inspiration, “he would do splendidly to lead your cotillon, if you think of having one.” &para; “So you do not dance, Mr. Crocker?” &para; I was somewhat set back by her perspicuity.}}
+#: {{ux|en|He '''answered''' the question.}}
+# {{lb|en|transitive}} To speak in defence against; to reply to in defence.
+#: ''to '''answer''' a charge or accusation''
+# {{lb|en|ambitransitive}} To respond to a call by someone at a door or telephone, or other similar piece of equipment.
+#: {{ux|en|She '''answered''' the door.}}
+#: ''Nobody '''answered''' when I knocked on the door.''
+# {{lb|en|ambitransitive}} To suit a need or purpose satisfactorily.
+#* {{quote-book
+|en
+|year=1815
+|author={{w|Jane Austen}}
+|title={{w|Emma}}
+|volume=III
+|section=chapter 6
+|passage=Mr. Knightley had done all in his power for Mr. Woodhouse’s entertainment. Books of engravings, drawers of medals, cameos, corals, shells, and every other family collection within his cabinets, had been prepared for his old friend, to while away the morning; and the kindness had perfectly '''answered'''.}}
+#* '''1871''', {{w|Alexander John Ellis|Alexander J. Ellis}}, ''On Early English Pronunciation'', London: Trübner & Co., Part III, Chapter 7, section 1, p. 656, footnote 1,<sup>[https://archive.org/details/onearlyenglishpr03elliuoft]</sup>
+#*: Of course for publication in a newspaper, my palaeotype would not '''answer''', but my glossotype would enable the author to give his Pennsylvania German in an English form and much more intelligibly.
+#* {{quote-text|en|year=1903|author={{w|Samuel Butler (novelist)|Samuel Butler}}|title={{w|The Way of All Flesh}}|chapter=41|passage=Theobald spoke as if watches had half-a-dozen purposes besides time-keeping, but he could hardly open his mouth without using one or other of his tags, and "'''answering''' every purpose" was one of them.}}
+#: {{ux|en|It '''answers''' the need.}}
+# To be [[accountable]] or [[responsible]]; to make [[amends]].
+#: ''The man must '''answer''' to his employer for the money entrusted to his care.''
+#: ''He has a lot to '''answer''' for.''
+#* {{circa|1598}} {{w|William Shakespeare}}, ''{{w|Henry V (play)|Henry V}}'', Act IV, Scene 8,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry5&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: An please your majesty, let his neck '''answer''' for it, if there is any martial law in the world.
+# {{lb|en|legal}} To file a document in response to a [[complaint]].
+# To [[correspond]] to; to be in [[harmony]] with; to be in [[agreement]] with.
+#* '''1775''', {{w|Richard Brinsley Sheridan}}, ''{{w|The Duenna}}'', Dublin: G. Burnet ''et al.'', 1794, Act II, Scene 2, p. 25,<sup>[http://name.umdl.umich.edu/004835563.0001.000]</sup>
+#*: Egad, I wish she had '''answer’d''' her picture as well.
+#* '''1793''', {{w|Bryan Edwards (politician)|Bryan Edwards}}, ''The History, Civil and Commercial, of the British Colonies in the West Indies'', Dublin: Luke White, Volume II, Book V, Chapter 2, p. 231,<sup>[https://catalog.hathitrust.org/Record/100268998]</sup>
+#*: The use of [[dunder]] in the making of rum, '''answers''' the purpose of yeast in the fermentation of flour.
+# To be opposite, or to act in opposition.
+#* '''1786''', {{w|William Gilpin (priest)|William Gilpin}}, ''Observations, relative chiefly to picturesque beauty, made in the year 1772: on several parts of England; particularly the mountains, and lakes of Cumberland, and Westmoreland'', London: R. Blamire, Volume II, Section 19, p. 85,<sup>[http://name.umdl.umich.edu/004863362.0001.002]</sup>
+#*: The windows '''answering''' each other, we could just discern the glowing horizon through them {{...}}
+# To be or act in conformity, or by way of accommodation, correspondence, relation, or proportion; to conform; to correspond; to suit; usually with ''to''.
+#* {{circa|1604}} {{w|William Shakespeare}}, ''{{w|Measure for Measure}}'', Act III, Scene 1,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=measure&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: {{...}} that the time may have all shadow and silence in it; and the place '''answer''' to convenience.
+#* {{circa|1608}} {{w|William Shakespeare}}, ''{{w|Pericles, Prince of Tyre}}'', Act V, Scene 1,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=pericles&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: If this but '''answer''' to my just belief,
+#*: I’ll well remember you.
+#* '''1611''', ''{{w|King James Version}} of the {{w|Bible}}'', {{w|Book of Proverbs|Proverbs}} 27:19,<sup>[https://www.biblegateway.com/passage/?search=Proverbs+27&version=KJV]</sup>
+#*: As in water face '''answereth''' to face, so the heart of man to man.
+#* '''1727''', {{w|Jonathan Swift}}, ''{{w|Gulliver's Travels|Gulliver’s Travels}}'', London: B. Motte, Part I, A Voyage to Lilliput, Chapter 2, pp. 30-31,<sup>[https://catalog.hathitrust.org/Record/001423655]</sup>
+#*: {{...}} I might carry about me several Weapons, which must needs be dangerous things, if they '''answered''' the Bulk of so prodigious a Person.
+# To respond to satisfactorily; to meet successfully by way of explanation, argument, or justification; to refute.
+#* '''1611''', ''{{w|King James Version}} of the {{w|Bible}}'', {{w|Gospel of Matthew|Matthew}} 22:46,<sup>[https://www.biblegateway.com/passage/?search=Matthew+22&version=KJV]</sup>
+#*: {{...}} no man was able to '''answer''' him a word, neither durst any man from that day forth ask him any more questions.
+#* '''1671''', {{w|John Milton}}, ''{{w|Samson Agonistes}}'' in ''Paradise Regain’d, to which is added Samson Agonistes'', London: John Starkey, p. 73,<sup>[http://name.umdl.umich.edu/A50931.0001.001]</sup>
+#*: These shifts refuted, '''answer''' thy appellant
+#*: Though by his blindness maim’d for high attempts,
+#*: Who now defies thee thrice to single fight,
+#* '''1848''', {{w|Thomas Babington Macaulay}}, ''{{w|The History of England from the Accession of James the Second}}'', Philadelphia: Porter & Coates, 1849, Volume 3, Chapter 14, p. 354,<sup>[https://catalog.hathitrust.org/Record/008006648]</sup>
+#*: The reasoning was not and could not be '''answered'''.
+# To be or act in compliance with, in fulfillment or satisfaction of, as an order, obligation, or demand.
+#: ''He '''answered''' my claim upon him.''
+#: ''The servant '''answered''' the bell.''
+#* {{circa|1597}} {{w|William Shakespeare}}, ''{{w|Henry IV, Part 1}}'', Act I, Scene 3,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p1&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: {{...}} this proud king {{...}} studies day and night
+#*: To '''answer''' all the debts he owes unto you
+#* {{quote-book|en|year=1764|author=John Nourse|title=Navigation Or, the Art of Sailing Upon the Sea|page=65|passage=The faster a ship sails, the better she will answer her helm; if she sail very slow, she will scarce steer at all. If she heel much, she won't '''answer''' the helm so well.}}
+# {{lb|en|obsolete}} To render account to or for.
+#* {{circa|1597}} {{w|William Shakespeare}}, ''{{w|Henry IV, Part 1}}'', Act II, Scene 4,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry4p1&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: {{...}} I will, by to-morrow dinner-time,
+#*: Send him to '''answer''' thee, or any man,
+#*: For any thing he shall be charged withal:
+# {{lb|en|obsolete}} To atone for; to be punished for.
+#* {{circa|1599}} {{w|William Shakespeare}}, ''{{w|Julius Caesar (play)|Julius Caesar}}'', Act III, Scene 2,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Scope=entire&pleasewait=1&msg=pl]</sup>
+#*: {{...}} The noble Brutus
+#*: Hath told you Caesar was ambitious:
+#*: If it were so, it was a grievous fault,
+#*: And grievously hath Caesar '''answer’d''' it.
+# {{lb|en|obsolete}} To be or act as an equivalent to, or as adequate or sufficient for; to serve for; to repay.
+#* '''1611''', ''{{w|King James Version}} of the {{w|Bible}}'', {{w|Ecclesiastes}} 10:19,<sup>[https://www.biblegateway.com/passage/?search=Ecclesiastes+10&version=KJV]</sup>
+#*: A feast is made for laughter, and wine maketh merry: but money '''answereth''' all things.
+
+=====Derived terms=====
+{{der3|en|title=Terms derived from ''answer'' (verb)
+|answerable
+|answer at
+|answer back
+|answerer
+|answer for
+|answer the call of nature
+|answer the helm
+|answer to
+|foreanswer
+}}
+
+=====Translations=====
+{{trans-top|to make a reply or response to}}
+* Albanian: {{t+|sq|përgjigjem}}
+* Arabic: {{t|ar|أَجَابَ}}, {{t|ar|رَدَّ}}
+*: Egyptian Arabic: {{t|arz|رد|tr=radd}}
+* Armenian: {{t+|hy|պատասխանել}}
+* Aromanian: {{t|rup|apãndisescu}}, {{t|rup|apocrisescu}}
+* Asturian: {{t|ast|responder}}, {{t|ast|contestar}}
+* Azerbaijani: {{t+|az|cavab vermək}}
+* Basque: {{t|eu|erantzun}}
+* Belarusian: {{t|be|адка́зваць|impf}}, {{t|be|адказа́ць|pf}}
+* Bengali: {{t|bn|উত্তর দেত্তয়া}}
+* Bulgarian: {{t+|bg|отговарям}}, {{t+|bg|отвръщам}}
+* Burmese: {{t+|my|ပြန်ကြား}}, {{t+|my|ဖြေ}}
+* Catalan: {{t+|ca|respondre}}
+* Chichewa: {{t|ny|yankha|alt=-yankha}}
+* Chinese:
+*: Mandarin: {{t+|cmn|回答|tr=huídá}}, {{t+|cmn|答應}}, {{t+|cmn|答应|tr=dāying}}, {{t+|cmn|答覆|tr=dáfù}}
+* Cornish: {{t|kw|gorthebi}}
+* Czech: {{t+|cs|odpovědět|pf}}
+* Danish: {{t+|da|svare}}
+* Dutch: {{t+|nl|antwoorden}}
+* Esperanto: {{t+|eo|respondi}}
+* Estonian: {{t|et|vastama}}
+* Faroese: {{t|fo|svara}}
+* Finnish: {{t+|fi|vastata}}
+* French: {{t+|fr|répondre}}
+* Friulian: {{t|fur|rispuindi}}
+* Galician: {{t+|gl|responder}}, {{t+|gl|contestar}}
+* Georgian: {{t|ka|პასუხობს}}
+* German: {{t+|de|antworten}}
+* Gothic: {{t|got|𐌰𐌽𐌳𐍅𐌰𐌿𐍂𐌳𐌾𐌰𐌽}}
+* Greek: {{t+|el|απαντώ}}, {{t+|el|αποκρίνομαι}}
+*: Ancient: {{t|grc|ἀποκρίνομαι}}
+* Hawaiian: {{t|haw|pane}}
+* Hebrew: {{t+|he|עָנָה|tr=ana}}
+* Hindi: {{t|hi|जवाब देना}}, {{t|hi|उत्तर देना}}
+* Hungarian: {{t+|hu|válaszol}}
+* Icelandic: {{t+|is|svara}}, {{t+|is|ansa}}
+* Ido: {{t+|io|respondar}}
+* Indonesian: {{t+|id|menjawab}}
+* Interlingua: {{t|ia|responder}}
+* Interlingue: {{t|ie|responder}}
+* Irish: {{t|ga|freagair}}
+* Italian: {{t+|it|rispondere}}
+* Japanese: {{t+|ja|答える|tr=こたえる, kotaeru}}, {{t+|ja|返事|alt=返事する|tr=へんじする, henji suru}}
+* Kazakh: {{t+|kk|жауап беру|sc=Cyrl}}
+* Khmer: {{t+|km|ឆ្លើយ}}
+* Korean: {{t+|ko|대답하다}}, {{t+|ko|답하다}}
+* Kurdish:
+*: Sorani: {{t+|ku|وەڵام}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|жооп берүү|sc=Cyrl}}
+* Ladin: {{t|lld|respuender}}
+* Laboya: {{t|lmy|baleha}}
+* Lao: {{t|lo|ຕອບ}}
+* Latin: {{t|la|respondeō}}, {{t|la|resequor}}, {{t+|la|referō}}
+* Latvian: {{t|lv|atbildēt}}
+* Lithuanian: {{t+|lt|atsakyti}}
+* Luxembourgish: {{t|lb|äntweren}}
+* Macedonian: {{t|mk|одговара}}
+* Malay: {{t|ms|jawab}}
+* Mongolian: {{t+|mn|хариулах|sc=Cyrl}}
+* Nahuatl: {{t|nci|nanquilia}}
+* Neapolitan: {{t|nap|risponne}}
+* Norwegian: {{t+|no|svare}}, {{t+|no|svar|f}}
+* Occitan: {{t|oc|respónder}}, {{t+|oc|respondre}}
+* Old English: {{t|ang|andswarian}}, {{t|ang|andwyrdan}}, {{t|ang|æftercweþan}}
+* Old Norse: {{t|non|svara}}
+* Persian: {{t+|fa|پاسخ دادن|tr=pâsox dâdan}}, {{t+|fa|جواب دادن|tr=javâb dâdan}}
+* Polish: {{t+|pl|odpowiedzieć|pf}}
+* Portuguese: {{t+|pt|responder}}
+* Quechua: {{t|qu|kutichiy}}
+* Romanian: {{t+|ro|răspunde}}
+* Romansch: {{t|rm|respunder}}, {{t|rm|raspunder}}, {{t|rm|respuonder}}, {{t|rm|rispunder}}
+* Russian: {{t+|ru|отвеча́ть|impf}}, {{t+|ru|отве́тить|pf}}
+* Sardinian: {{t|sc|respúndiri}}, {{t|sc|arraspundi}}, {{t|sc|rispòndhere}}, {{t|sc|rispònnere}}
+* Scottish Gaelic: {{t|gd|freagair}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|одгово́рити|pf|sc=Cyrl}}
+*: Roman: {{t+|sh|odgovóriti|pf}}
+* Slovak: {{t|sk|odpovedať|impf}}, {{t|sk|reagovať}}
+* Slovene: {{t+|sl|odgovoriti|pf}}
+* Spanish: {{t+|es|responder}}, {{t+|es|contestar}}
+* Swahili: {{t+|sw|jibu|alt=-jibu}}
+* Swedish: {{t+|sv|svara}}
+* Tajik: {{t+|tg|ҷавоб додан}}
+* Thai: {{t+|th|ตอบ}}
+* Tok Pisin: {{t|tpi|bekim tok}}
+* Turkish: {{t+|tr|cevap vermek}}
+* Turkmen: {{t|tk|jogap bermek}}
+* Ukrainian: {{t|uk|відповіда́ти|impf}}, {{t+|uk|відповісти́|pf}}
+* Urdu: {{t|ur|جواب دینا|tr=javāb denā|sc=ur-Arab}}
+* Uyghur: {{t|ug|جاۋاب بەرمەك}}
+* Uzbek: {{t|uz|javob bermoq}}
+* Venetian: {{t|vec|responder}}, {{t|vec|risponder}}
+* Vietnamese: {{t+|vi|trả lời}}
+* Welsh: {{t+|cy|ateb}}
+* Yiddish: {{t|yi|ענטפֿערן}}
+{{trans-bottom}}
+
+{{trans-top|to respond to a call}}
+* Arabic:
+*: Gulf Arabic: {{t|afb|رَدّ|tr=rəd, rədd}}
+* Bulgarian: {{t+|bg|отговарям}}
+* Burmese: {{t+|my|ထူး}}
+* Dutch: {{t+|nl|beantwoorden}}
+* Finnish: {{t+|fi|vastata}}, {{t+|fi|avata}} {{qualifier|door}}
+* Greek: {{t+|el|απαντώ}}
+* Hungarian: {{t+|hu|reagál}}, {{sense|telephone}} {{t+|hu|felvesz}}, {{sense|door, ’open’}} {{t+|hu|kinyit}}
+* Icelandic: {{t+|is|svara}}
+* Ido: {{t+|io|respondar}}
+* Irish: {{t|ga|freagair}}
+* Italian: {{t+|it|rispondere}}
+* Macedonian: {{t|mk|одговара}}
+{{trans-mid}}
+* Maori: {{t|mi|whakaō}}
+* Ngazidja Comorian: {{t|zdj|viia|alt=uviia}} {{qualifier|a phone call}}
+* Polish: {{t+|pl|odpowiedzieć}}
+* Portuguese: {{t+|pt|atender}}
+* Romanian: {{t+|ro|răspunde}}
+* Scottish Gaelic: {{t|gd|freagair}}
+* Serbo-Croatian: {{t|sh|јавити|sc=Cyrl}}
+* Spanish: {{t+|es|contestar}}
+* Tok Pisin: {{t|tpi|bekim tok}}
+* Ukrainian: {{t|uk|відповіда́ти|impf}}, {{t+|uk|відповісти́|pf}}
+* Vietnamese: {{t|vi|đáp lời}}, {{t+|vi|trả lời}}
+{{trans-bottom}}
+
+{{trans-top|to suit a need or purpose satisfactorily}}
+* Bulgarian: {{t+|bg|подхождам}}
+* Dutch: {{t+|nl|beantwoorden}}
+* Finnish: {{t+|fi|vastata}}
+* Greek: {{t+|el|ανταποκρίνομαι}}
+* Hungarian: {{t+|hu|megfelel}}
+* Italian: {{t+|it|rispondere}}
+* Japanese: {{t+|ja|答える|tr=kotaeru}}
+* Kurdish:
+*: Sorani: {{t+|ku|جێ بەجێ}}
+{{trans-mid}}
+* Macedonian: {{t|mk|одговара}}, {{t|mk|соодветствува}}
+* Norwegian: {{t+|no|oppfylle}}, {{t+|no|tilfredsstille}}
+* Polish: {{t+|pl|odpowiadać}}
+* Portuguese: {{t+|pt|atender}}
+* Russian: {{t+|ru|отвеча́ть|impf}}, {{t+|ru|отве́тить|pf}}, {{t+|ru|соотве́тствовать|impf}}
+* Scottish Gaelic: {{t|gd|freagair}}
+* Slovak: {{t|sk|zodpovedať}}
+* Spanish: {{t+|es|servir}}
+{{trans-bottom}}
+
+{{trans-top|law: to file a response to a complaint}}
+* Finnish: {{t+|fi|vastata}}
+* Greek: {{t+|el|ανταπαντώ}}, {{t+|el|αποκρούω}}
+* Macedonian: {{t|mk|одговара}}
+* Polish: {{t+|pl|odpowiadać}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|replicar}}, {{t+|pt|redarguir}}
+* Romanian: {{t+|ro|soluționa}}
+* Russian: {{t+|ru|отвеча́ть|impf}}, {{t+|ru|отве́тить|pf}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Breton: {{qualifier|to somebody}} {{t+check|br|respont|alt=respont da unan bennak}}
+* French: {{qualifier|1, 2}} {{t+check|fr|répondre}}
+* Hebrew: {{t-check|he|לענות|tr=la'anot}} (1,2), {{t-check|he|להשיב|tr=le'hashyv}} (1,3)
+{{trans-mid}}
+* Latin: {{t-check|la|respondere}}
+* Old English: {{t-check|ang|oncweþan}}
+* Vietnamese: {{qualifier|1}} {{t+check|vi|trả lời}}, {{qualifier|2, actually an adjective}} {{t+check|vi|hợp}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|question}}
+
+===Anagrams===
+* {{anagrams|en|a=aenrsw|Warnes|awners|resawn}}
+
+[[Category:English basic words]]
+[[Category:English reporting verbs]]
+[[Category:en:Communication]]
+
+----
+
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{alt form|enm|answere}}
