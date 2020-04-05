@@ -1,377 +1,718 @@
-{{wikipedia}}
 {{also|Appendix:Variations of "as"}}
 ==Translingual==
-{{rft|fragment=as#Translingual}}
+{{wikipedia}}
 
 ===Symbol===
-{{infl|mul|symbol}}
+{{head|mul|symbol}}
 
 # {{SI-unit-abb|atto|second|[[time]]}}
-# {{ISO 639-1|Assamese}}
-
-====Synonyms====
-* {{sense|Assamese language}} [[asm#Translingual|asm]] (ISO 639-3)
+# {{lb|mul|metrology}} [[arcsecond]]
 
 ----
 
 ==English==
-{{rank|is|it|for|15|as|had|you|not}}
-
-===Pronunciation===
-* {{a|stressed}} {{IPA|/æz/}}, {{SAMPA|/{z/}}
-*: {{audio|en-us-as.ogg|Audio (US)}} <!--is this stress or unstressed? if the latter move to below the unstressed IPA-->
-*: {{rhymes|æz}}
-* {{a|unstressed}} {{IPA|/əz/}}, {{SAMPA|/@z/}}
 
 ===Etymology 1===
-From {{etyl|ang|en}} {{term|lang=ang|all-swa|all-swá|just so}}
+From {{inh|en|enm|as|as, als(a), alswa}}, from {{inh|en|ang|eallswā||just so; as}}, thus representing a reduced form of {{m|en|also}}. Compare {{cog|nds-de|as}}, {{cog|de|als}}, {{cog|nl|als}}.
+
+====Pronunciation====
+* {{a|stressed}} {{IPA|en|/æz/}}
+* {{audio|en|en-us-as.ogg|Audio (US)}}
+* {{rhymes|en|æz}}
+* {{a|unstressed}} {{IPA|en|/əz/}}
+<!-- 1 syllable words !-->
 
 ====Adverb====
 {{en-adv|-}}
 
-# To such an [[extent]] or [[degree]].
-#: ''You’re not '''as''' tall '''as''' I am.''
-#: ''She is proud '''as''' a peacock.''
-# [[consider|Considered]] in this way.
-#: ''Let's discuss this '''as''' a question of business.''
-# In the manner specified.
-#: ''The kidnappers released him '''as''' agreed.''
-# {{dated}} For [[example]].
-#* '''1913''', "Ameriginal", in ''Webster's Unabridged Dictionary'':
-#*: First; original; indigenous; primitive; native; '''as''', the Ameriginal tribes of America.
+# To such an [[extent]] or [[degree]]; to the same extent or degree.
+#: {{ux|en|You’re not '''as''' tall as I am.}}
+#: {{ux|en|It's not '''as''' well made, but it's twice '''as''' expensive.}}
+#* {{RQ:Frgsn Zlnstn|IV}}
+#*: “My Continental prominence is improving,” I commented dryly. ¶ Von Lindowe cut at a furze bush with his silver-mounted rattan. ¶ “Quite so,” he said '''as''' dryly, his hand at his mustache. “I may say if your intentions were known your life would not be worth a curse.”
+#* {{quote-book|en|year=1922|author={{w|Ben Travers}}|title={{w|A Cuckoo in the Nest}}
+|chapter=1|url=http://openlibrary.org/works/OL1521052W
+|passage=She was like a Beardsley ''Salome'', he had said. And indeed she had the narrow eyes and the high cheekbone of that creature, and '''as''' nearly the sinuosity as is compatible with human symmetry. His wooing had been brief but incisive.}}
+# In the [[manner]] or [[role]] ([[specified]]).
+#: {{ux|en|The kidnappers released him '''as''' agreed.}}
+#: {{ux|en|The parties were seen '''as''' agreeing on a range of issues.}}
+#: {{ux|en|He was never seen '''as''' the boss, but rather '''as''' a friend.}}
+#* {{quote-journal|en|year=2013|month=July-August|author=[http://www.americanscientist.org/authors/detail/catherine-clabby Catherine Clabby]
+|magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/4/focus-on-everything Focus on Everything]
+|passage=Not long ago, it was difficult to produce photographs of tiny creatures with every part in focus.{{...}}A photo processing technique called focus stacking has changed that. Developed '''as''' a tool to electronically combine the sharpest bits of multiple digital images, focus stacking is a boon to biologists seeking full focus on a micron scale.}}
+# [[consider|Considered]] to be, in [[relation]] to something else; in the [[relation]] (specified).
+#* '''1865''', ''The Act of Suicide '''as''' Distinct from the Crime of Self-Murder: A Sermon''
+#* '''1937''', Tobias Matthay, ''On Colouring '''as''' Distinct from Tone-inflection: A Lecture'' (London: Oxford University Press)
+# {{lb|en|dated}} [[for example|For example]]; [[for instance]]. {{qualifier|Compare {{m|en|such as}}.}}
+#* '''1913''', "Aboriginal", in ''Webster's Unabridged Dictionary'':
+#*: First; original; indigenous; primitive; native; '''as''', the aboriginal tribes of America.
+
+=====Derived terms=====
+* {{l|en|as I live and breathe}}
 
 =====Translations=====
 {{trans-top|to such an extent or degree}}
-* [[Catalan]]: [[tan]]
+* Albanian: {{t+|sq|aq}}
+* Arabic: {{t+|ar|كَـ}}, {{t+|ar|مِثْل}}
+*: Egyptian Arabic: {{t|arz|زي|tr=zai}}
+*: Moroccan Arabic: {{t|ary|بحال|tr=bḥal}}, {{t|ary|كِـ|tr=ki-}}
+* Belarusian: {{t+|be|як}}, {{t|be|так}}, {{t|be|насто́лькі}}
+* Catalan: {{t|ca|[[tan]] ... [[com]]}}
+* Chinese:
+*: Mandarin: {{t+|cmn|如此|tr=rúcǐ}}, {{t+|cmn|這麼}}, {{t+|cmn|这么|tr=zhème}}
 * Czech: {{t+|cs|tak}}
-* Danish: [[så]], [[lige så]]
-* Dutch: [[zo#Dutch|zo]]...[[als#Dutch|als]]
-* Esperanto: {{t-|eo|tiel|xs=Esperanto}}
+* Danish: {{t+|da|så}}, {{t|da|lige så}}
+* Dutch: {{t+|nl|zo}} ... {{l|nl|als}}
+* Esperanto: {{t+|eo|tiel}}
 * Finnish: {{t+|fi|yhtä}}
 * French: {{t+|fr|aussi}}
-* German: {{t+|de|so}} ... {{t+|de|wie}} (''Du bist <u>so</u> groß <u>wie</u> ich'' = ''You are <u>as</u> tall <u>as</u> I am'')
-* Greek: το ίδιο, [[τόσο]]...[[όσο]] = as...as (Είσαι <u>τόσο</u> ψηλός <u>όσο</u> και εγώ = You are <u>as</u> tall <u>as</u> I am)
-* Hebrew: [[כל כך]] [col cakh]
-* Hungarian: [[olyan]], [[annyira]]
-* [[Interlingua]]: [[tanto]]
+* Georgian: {{t|ka|როგორც}}
+* German: {{t|de|[[so]] ... [[wie]]}}
+* Greek: {{t|el|[[τόσο]] ... [[όσο]]}}
+* Hebrew: {{t|he|כל כך|tr=kol kakh}}
+* Hungarian: {{t+|hu|olyan}}, {{t+|hu|annyira}}
+* Interlingua: {{t|ia|tanto}}
+* Interlingue: {{t|ie|tam}}
+* Irish: {{t|ga|chomh}}
 * Italian: {{t+|it|tanto}}
+* Japanese: {{t|ja|の[[程|ほど]]に|tr=no hodo ni}}, {{t|ja|の[[程|ほど]]|tr=no hodo}}
+* Khmer: {{t+|km|ដូច}}
 {{trans-mid}}
+* Korean: {{t+|ko|만큼}}
 * Kurdish: {{t+|ku|hindî}}, {{t+|ku|bi qasî}}, {{t+|ku|temetî}}
+* Lao: {{t-needed|lo}}
 * Latin: {{t+|la|tam}}
-* [[Macedonian]]: {{t-|mk|како|tr=káko}},  {{t|mk|така|tr=táka}},  {{t|mk|толку|tr=tólku}}
-* Maltese: {{t-|mt|kif|xs=Maltese}}
+* Macedonian: {{t|mk|како}}, {{t|mk|така}}, {{t+|mk|толку}}
+* Malay: {{t|ms|se-}}
+* Maltese: {{t+|mt|kif}}
+* Mongolian: {{t-needed|mn}}
 * Norwegian: {{t+|no|like}}
-* [[Novial]]: [[tam]]
-* Old English: {{t-|ang|swa|alt=swā|xs=Old English}}
+* Novial: {{t|nov|tam}}
+* Old English: {{t|ang|swā}}
+* Persian: {{t+|fa|به|tr=be}}
 * Portuguese: {{t+|pt|tão}}, {{t+|pt|tanto}}
-* Russian: {{t+|ru|как}}, {{t+|ru|так}}, {{t+|ru|настолько}}
-* [[Scottish Gaelic]]: {{t-|gd|cho|xs=Scottish Gaelic}}
-* Slovak: {{t-|sk|tak}}
-* Spanish: {{t+|es|tan}}
-* Swedish: [[lika]] (''Du är <u>lika</u> lång som mig'' = ''You are <u>as</u> tall as I am'')
+* Romanian: {{t|ro|la fel de}}
+* Russian: {{t+|ru|как}}, {{t+|ru|так}}, {{t+|ru|насто́лько}}, {{t+|ru|столь}}
+* Scottish Gaelic: {{t|gd|cho}}
+* Slovak: {{t|sk|tak}}
+* Spanish: {{t|es|[[tan]] ... [[como]]}}
+* Swedish: {{t|sv|[[lika]] ... [[som]]}}
+* Thai: {{t-needed|th}}
+* Ukrainian: {{t+|uk|як}}, {{t+|uk|так}}, {{t|uk|насті́льки}}
+* Vietnamese: {{t-needed|vi}}
+* Walloon: {{t+|wa|ossu}}, {{t+|wa|si}}
 {{trans-bottom}}
 
-====Conjunction====
-{{en-conj}}
+{{trans-see|for example}}
 
-# In the same way that; according to what.
-#: '''''As''' you wish, my lord!''
-# At the same instant that; [[when]].
-#: '''''As''' I came in, she flew.''
-# At the same time that; [[while]].
-#: ''He sleeps '''as''' the rain falls.''
-# Varying through time to the same proportion that.
-#: '''''As''' the fear grew, my legs became heavier.''
-# Considering that, [[because]], [[since]].
-#: '''''As''' it’s too late, I quit.''
-# {{dialectal}} [[that]]
-#: ''I don't see '''as''' I can be of any help.''
+====Conjunction====
+{{en-con}}
+
+# In the (same) way or manner that; to the (same) degree that.
+#: {{ux|en|Do '''as''' I say!}}
+#: {{ux|en|She's sharp '''as''' a tack.}}
+#: {{ux|en|I'm under a lot of pressure, '''as''' you know.}}
+#: {{ux|en|'''As''' you wish, my lord!}}
+#* '''2001''', Jason Manning, ''Mountain Honor'', Signet Book ({{ISBN|9780451204806}}):
+#*: "But he's good '''as''' dead, and I ain't about to waste a bullet."
+## {{n-g|Used after {{m|en|so}} or with instance of {{m|en||as}} to introduce a [[comparison]].}}
+##: {{ux|en|She's as sharp '''as''' a tack.}}
+##: {{ux|en|She's twice as strong '''as''' I was two years ago.}}
+##: {{ux|en|It's not so complicated '''as''' I expected.}}
+## {{n-g|Used to introduce a result:}} with the result that it is.
+##* '''1868''', ''Proceedings and Debates of the [New York] Constitutional Convention Held in 1867 and 1868 in the City of Albany'', page 2853:
+##*: [...] that the Board of Regents had fallen into disrepute; that intelligent men inquired what the board was; he said that it was a quiet body, and kept out of the newspapers — and so quiet '''as''' to lead many to suppose tho board had ceased to exist.
+##* '''2006''', Eric Manasse, ''The Twenty-First Man'', iUniverse ({{ISBN|9780595391288}}), page 7:
+##*: It was a talent he had developed; he could actually be so quiet '''as''' to be practically invisible. In class, he was rarely called upon to answer any questions. In the crowded hallways, he could slip in and out without offending any of the local bullies&nbsp;...
+##* '''2011''', Herwig C. H. Hofmann, Gerard C. Rowe, Alexander H. Türk, ''Administrative Law and Policy of the European Union'', Oxford University Press ({{ISBN|9780199286485}}), page 507:
+##*: Under most circumstances, it will be possible to draw a distinction sufficiently clear '''as''' to allow an unambiguous allocation to one or other category.
+## {{n-g|Expressing concession:}} [[though]].
+##* '''1843''' (first published), {{w|Thomas Babington Macaulay}}, ''Essays''
+##*: We wish, however, to avail ourselves of the interest, transient '''as''' it may be, which this work has excited.
+##* '''2009''', Matthew Friedman, Laurie B. Slone, J Friedman, ''After the War Zone'' ({{ISBN|9780786731954}}):
+##*: If this happens, be patient and, difficult '''as''' it may be, try not to take these reactions personally.
+# At the [[time]] that; during the time when:
+## At the same [[instant]] or [[moment]] that: [[when]].
+##: {{ux|en|'''As''' I came in, she fled.}}
+## At the same [[time]] that, during the same time when: [[while]].
+##: {{ux|en|He sleeps '''as''' the rain falls.}}
+## Varying through time in the same proportion that.
+##: {{ux|en|'''As''' my fear grew, so did my legs become heavy.}}
+##: {{ux|en|'''As''' she grew older, she grew wiser.}}
+# Being that, considering that, [[because]], [[since]].
+#: {{ux|en|'''As''' it’s too late, I quit.}}
+# {{lb|en|dated}} {{non-gloss definition|Introducing a comparison with a hypothetical state (+ subjunctive, or with the verb elided):}} [[as though]], [[as if]]. {{defdate|to 19th century}}
+#* {{rfdatek|en|Dryden}}
+#*: I start '''as''' from some dreadful dream.
+#* '''1526''', {{w|William Tyndale}}, trans. ''Bible'', Acts 2:
+#*: And sodenly there cam a sounde from heven '''as''' it had bene the commynge off a myghty wynde {{...}}
+#* '''c. 1616''', {{w|William Shakespeare}}, ''King Henry VI part 2'', First Folio 1623, I.1:
+#*: Oft haue I seene the haughty Cardinall, / More like a Souldier then a man o'th' Church, / As stout and proud '''as''' he were Lord of all {{...}}
+#* {{quote-journal|en|year=1990|issue=Spring|title=The third count|author=Andrew Fetler|journal=Triquarterly|passage=I feel securely fixed on the careering chair, and with the momentum gained I steer myself '''as''' on skis to the guard and come to a stop with a happy little flourish.}}
+#* {{quote-journal|en|year=1992|Winter92/93|volume=18|issue=4|page=202|title=The Divorce Gang|author=Katherine Weissman|journal=Ploughshares|passage=They think they are romantic, tragic figures, exiled '''as''' on Elba. They picture themselves as enlightened barons bringing civilization, opportunity, and kindness to the brown-skinned.}}
+#* {{quote-journal|en|date=January 30, 2011|page=Travel 1|title=E-readers lighten a traveler's load But choosing the right unit means weighing features, cost, ease of use|author=Kyle Wagner|work=Denver Post|passage=Newspapers and magazines would load their graphics, and you could doodle '''as''' on the Sony Reader Daily Edition.}}
+# {{n-g|Functioning as a [[relative]] conjunction, and sometimes like a relative pronoun:}} [[that]], [[which]], [[who]]. {{q|See usage notes.}} {{defdate|from 14th c.}}
+#: {{ux|en|He had the same problem '''as''' she did getting the lock open.}}
+#* {{circa|1595}} William Shakespeare, ''Romeo and Juliet'':
+#*: Now will he sit under a medlar tree,
+#*: And wish his mistress were that kind of fruit,
+#*: '''As''' maids call medlars, when they laugh alone.
+#* {{RQ:Burton Melancholy|part=II|section=5|member=1|subsection=v|passage=the temper is to be altered and amended, with such things '''as''' fortify and strengthen the heart and brain {{...}} }}
+#* '''1854''' {{w|Charles Dickens}}, [[s:Hard Times/First Book/Chapter II|Hard Times, Book I, Chapter II]]:
+#*: ‘Sissy is not a name,’ said Mr. Gradgrind. ‘Don’t call yourself Sissy. Call yourself Cecilia.’<br>‘It’s father '''as''' calls me Sissy, sir,’ returned the young girl in a trembling voice, and with another curtsey.
+#* '''2016''', {{w|Alan Moore}}, ''Jerusalem'', Liveright 2016, page 99:
+#*: “If I had, if I could hold me head up with the better folk, perhaps I'd think again, but I don't reckon '''as''' that's very likely now.”
+# {{lb|en|rare|now|England|Midland US|and|Southern US|possibly|obsolete}} [[than|Than]].
+#* '''1655''', {{w|Thomas Fuller}}, ''The Church History of Britain''
+#*: The king was not more forward to bestow favours on them '''as''' they free to deal affronts to others their superiors.
+#* {{quote-book|en|year=1660|author=James Howell|title=Parly of Beasts|page=48|passage=Darkness itself is no more opposite to light '''as''' their actions were diametricall to their words.}}
+
+=====Usage notes=====
+* Use of ''as'' as a relative conjunction meaning "that" dates to late Middle English and was formerly common in standard English<!--see cites-->, but is now only standard in constructions like "the same issue as she had" or "the identical issue as the appellant raised before"; otherwise, it is informal,<ref>{{R:Dictionary.com}}</ref> found in the dialects of the Midland, Southern, Midwestern and Western US<!--TBD: other regions via DARE-->; and of Lancashire, Cheshire, Shropshire, Staffordshire, Derbyshire, Lincolnshire, Herefordshire, Worcestershire, Warwickshire, Northamptonshire, Huntingdonshire, East Anglia<!--incl. examples from Norfolk-->, Gloucestershire, Oxfordshire, Berkshire, Bedfordshire, Essex, Somerset, Dorset, Wiltshire, Surrey, and Cornwall; sometimes in Durham, Westmorland, Yorkshire and Somerset; only rarely in Northumberland and Scotland; and only in certain set phrases in Nottinghamshire, Leicestershire and Devon.<ref>{{R:Wright}}</ref><!--TBD: Austalian, New Zealand, Canada, India, Ireland.-->
+
+=====Synonyms=====
+* {{sense|expressing concession}} {{l|en|albeit}}, {{l|en|although}}; see also [[Thesaurus:even though]]
+* {{sense|at the same time that}} {{l|en|while}}, {{l|en|whilst}}; see also [[Thesaurus:while]]
+* {{sense|being that}} {{l|en|given that}}, {{l|en|seeing that}}; see also [[Thesaurus:because]]
+
+=====Alternative forms=====
+* {{l|en|-'s}} {{q|contracted form}}
 
 =====Translations=====
 {{trans-top|in the same way that}}
-* [[Catalan]]: [[com]]
-* Croatian: {{t+|hr|kao}}
+* Arabic: {{t+|ar|كَ}}, {{t|ar|كَمَا}}, {{t+|ar|مِثِل}}, {{t|ar|مِثْلَمَا}}
+*: Egyptian Arabic: {{t|arz|زي|tr=zay}}
+* Belarusian: {{t+|be|як}}
+* Catalan: {{t+|ca|com}}
 * Czech: {{t+|cs|jak}}
+* Dalmatian: {{t|dlm|cal}}
 * Danish: {{t+|da|som}}
 * Dutch: {{t+|nl|zoals}}
-* Esperanto: {{t-|eo|kiel|xs=Esperanto}}, {{t+|eo|laŭ|xs=Esperanto}}
+* Esperanto: {{t+|eo|kiel}}, {{t+|eo|laŭ}}
 * Finnish: {{t+|fi|kuten}}
-* French: {{t+|fr|comme}}
-* German: {{t+|de|wie}}
-* Greek: [[όπως]] (ópos)
-* Hebrew: [[כמו]] (kmo)
-* Hungarian: [[ahogy]], [[ahogyan]]
-* [[Interlingua]]: [[como]]
-{{trans-mid}}
+* French: {{t+|fr|comme}}, {{t+|fr|ainsi que}}, {{t+|fr|tout comme}}
+* German: {{t+|de|wie}}, {{t|de|so wie}}
+* Greek: {{t+|el|όπως}}
+*: Ancient: {{t|grc|ὡς}}, {{t|grc|ὅπως}}, {{t|grc|ᾗ}}, {{t|grc|ὅπῃ}}
+* Hebrew: {{t+|he|כמו|tr=kmo}}
+* Hungarian: {{t+|hu|ahogy}}, {{t+|hu|ahogyan}}
+* Icelandic: {{t+|is|eins og}}, {{t|is|svo sem}}, {{t+|is|sem}}
+* Interlingua: {{t+|ia|como}}
+* Interlingue: {{t|ie|quam}}
 * Italian: {{t+|it|come}}
-* [[Macedonian]]: {{t|mk|како што|tr=káko što}}
-* Maltese: {{t-|mt|kif|xs=Maltese}}
+* Latin: {{t+|la|ut}}, {{t+|la|qua}}
+* Macedonian: {{t|mk|како што}}
+* Maltese: {{t+|mt|kif}}
+{{trans-mid}}
+* Ngazidja Comorian: {{t|zdj|hama nɗe heli}}
 * Norwegian: {{t+|no|som}}
-* [[Novial]]: [[kom]]
-* Old English: {{t-|ang|swa|alt=swā|xs=Old English}}
+* Novial: {{t|nov|kom}}
+* Old English: {{t|ang|swā}}
+* Plautdietsch: {{t|pdt|soo aus}}
 * Polish: {{t+|pl|jak}}
 * Portuguese: {{t+|pt|como}}
-* Russian: {{t+|ru|как|tr=kak}}
-* Slovak: {{t-|sk|ako}}
-* Slovene: {{t+|sl|kot}}, {{t+|sl|kakor}}
+* Romanian: {{t+|ro|ca}}, {{t+|ro|cum}}, {{t|ro|așa cum}}, {{t+|ro|precum}}
+* Russian: {{t+|ru|как}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ка̏о}}
+*: Roman: {{t+|sh|kȁo}}
+* Slovak: {{t|sk|ako}}
+* Slovene: {{t+|sl|kot}}, {{t+|sl|kàkor}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|ako}}, {{t|dsb|kaž}}
 * Spanish: {{t+|es|como}}
+* Swahili: {{t+|sw|kama}}
 * Swedish: {{t+|sv|som}}
+* Tok Pisin: {{t|tpi|olsem}}
+* Ukrainian: {{t+|uk|як}}
+* Walloon: {{t+|wa|come}}
 {{trans-bottom}}
 
 {{trans-top|at the same instant that}}
-* Arabic: {{t-|ar|لما|tr=lammaa}},  {{t|ar|عندما|tr=`índamaa}}
+* Arabic: {{t|ar|لَمَّا}}, {{t|ar|عِنْدَمَا}}, {{t+|ar|حِينَ}}
 * Chinese:
-*: Mandarin: {{t-|cmn|當|sc=Hani}},  {{t-|cmn|当|tr=dāng|sc=Hani}}
-* Croatian: {{t+|hr|kao}}, {{t+|hr|koliko}}
+*: Mandarin: {{t+|cmn|當}}, {{t+|cmn|当|tr=dāng}}
 * Czech: {{t+|cs|jak}}
-* Danish: {{t-|da|da}}
+* Danish: {{t+|da|da}}
 * Dutch: {{t+|nl|toen}}
-* Esperanto: {{t-|eo|kiam|xs=Esperanto}}, {{t-|eo|dum|xs=Esperanto}}
+* Esperanto: {{t+|eo|kiam}}, {{t+|eo|dum}}
 * Finnish: {{t+|fi|kun}}
-* French: {{t+|fr|quand}}
+* French: {{t+|fr|quand}}, {{t+|fr|au moment où}}
 * German: {{t+|de|als}}
-* Greek: [[όπως]] (ópos)
-* Hebrew: [[באותו הרגע]] [behoto harega]
-* Hungarian: {{t-|hu|amint}}, {{t+|hu|ahogy}}
-{{trans-mid}}
-* [[Interlingua]]: [[quando]]
+* Greek: {{t+|el|όπως}}
+* Hebrew: {{t|he|באותו הרגע|tr=behoto harega}}
+* Hungarian: {{t+|hu|amint}}, {{t+|hu|ahogy}}
+* Icelandic: {{t+|is|er}}, {{t+|is|þá}}, {{t+|is|þegar}}
+* Interlingua: {{t+|ia|quando}}
+* Interlingue: {{t+|ie|quande}}
 * Italian: {{t+|it|quando}}
-* Japanese: ...{{t+|ja|と|tr=...to}}
-* [[Macedonian]]: {{t|mk|додека|tr=dódeka}},  {{t-|mk|кога|tr=kóga}}
-* Maltese: [[eżatt kif]]
-* Norwegian: {{t+|no|når}}, {{t+|no|da}}
-* [[Novial]]: [[kand]]
-* Portuguese: {{t+|pt|quando}}
-* Russian: {{t+|ru|когда}}, {{t-|ru|как только|tr=kak tól'ko}}
-* Slovak: [[keď]]
+* Japanese: {{t+|ja|と|alt=...と|tr=...to}}
+* Latin: {{t+|la|dum}}
+{{trans-mid}}
+* Macedonian: {{t|mk|додека}}, {{t|mk|кога}}
+* Maltese: {{t|mt|eżatt kif}}
+* Neapolitan: {{t|nap|quanno}}
+* Norwegian: {{t+|no|når}}, {{t+|no|da}}, {{t+|no|idet}}
+* Novial: {{t|nov|kand}}
+* Portuguese: {{t+|pt|quando}}, {{t|pt|assim que}}
+* Romanian: {{t+|ro|când}}, {{t|ro|pe când}}, {{t|ro|în timp ce}}
+* Russian: {{t+|ru|когда́}}, {{t+|ru|как то́лько}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ка̏о}}, {{t|sh|колѝко}}
+*: Roman: {{t+|sh|kȁo}}, {{t+|sh|kolìko}}
+* Slovak: {{t|sk|keď}}
 * Slovene: {{t+|sl|ko}}
 * Spanish: {{t+|es|cuando}}
 * Swedish: {{t+|sv|när}}, {{t+|sv|då}}
+* Ukrainian: {{t|uk|коли́}}, {{t|uk|як ті́льки}}
+* Walloon: {{t+|wa|come}}
+* Yiddish: {{t-check|yi|בעת|tr=beys}}
 {{trans-bottom}}
 
-{{trans-top|while}}
-* Croatian: {{t-|hr|dok}}, {{t-|hr|za vrijeme}}
+{{trans-top|at the same time that}}
+* Cornish: {{t|kw|ha}}, {{t|kw|hag}}
 * Czech: {{t+|cs|zatímco}}
-* Danish: [[mens]], [[imens]]
+* Danish: {{t+|da|mens}}, {{t|da|imens}}
 * Dutch: {{t+|nl|terwijl}}
-* Esperanto: {{t-|eo|dum|xs=Esperanto}}
-* Finnish: {{t+|fi|kun}}
-* French: {{t+|fr|lorsque}}, {{t+|fr|pendant que}}
+* Esperanto: {{t+|eo|dum}}
+* Finnish: {{t+|fi|kun}}, {{t|fi|[[sillä välin]], [[kun]]}}
+* French: {{t+|fr|lorsque}}, {{t+|fr|pendant que}}, {{t+|fr|alors que}}
 * German: {{t+|de|während}}
-* Greek: {{t+|el|καθώς|tr=kathós}}
-* Hebrew: [[בינתיים]] [bentaim]
+* Greek: {{t+|el|καθώς}}, {{t+|el|ενώ}}
+* Hebrew: {{t|he|בינתיים|tr=bentaim}}
 * Hungarian: {{t+|hu|amíg}}, {{t+|hu|miközben}}
-* [[Interlingua]]: [[durante que]]
-{{trans-mid}}
+* Interlingua: {{t|ia|durante que}}
+* Interlingue: {{t|ie|durant que}}
 * Italian: {{t+|it|mentre}}
-* [[Macedonian]]: {{t|mk|додека|tr=dódeka}},  {{t|mk|како што|tr=káko što}}
-* Maltese: {{t-|mt|meta|xs=Maltese}}
+* Latin: {{t+|la|dum}}
+* Macedonian: {{t|mk|додека}}, {{t|mk|како што}}
+* Maltese: {{t|mt|meta}}
+{{trans-mid}}
 * Norwegian: {{t+|no|mens}}
-* [[Novial]]: [[durant ke]]
+* Novial: {{t|nov|durant ke}}
 * Polish: {{t+|pl|podczas}}
 * Portuguese: {{t+|pt|enquanto}}
-* Russian: {{t+|ru|когда|tr=kogdá}}, {{t+|ru|пока}}, {{t+|ru|в то время как}}
-* Slovak: [[keď]]
-* Slovene: [[medtem ko]]
-* Spanish: {{t-|es|mientras}}
-* Swedish: [[medan]], [[under tiden]]
+* Romanian: {{t|ro|în timp ce}}
+* Russian: {{t+|ru|когда́}}, {{t+|ru|пока́}}, {{t+|ru|в то вре́мя как}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|док}}, {{t|sh|за вријеме}}
+*: Roman: {{t+|sh|dok}}, {{t|sh|za vrijeme}}
+* Slovak: {{t|sk|keď}}
+* Slovene: {{t|sl|medtém ko}}
+* Spanish: {{t+|es|mientras}}
+* Swedish: {{t+|sv|medan}}, {{t+|sv|under tiden}}
+* Ukrainian: {{t|uk|коли́}}, {{t|uk|по́ки}}, {{t|uk|у той ча́с як}}
+* Walloon: {{t+|wa|tins ki}}, {{t+|wa|sol tins ki}}, {{t+|wa|dismetant ki}}
+* Welsh: {{t|cy|tra}}, {{t|cy|wrth}}
+* Yiddish: {{t-check|yi|בעת|tr=beys}}
 {{trans-bottom}}
 
 {{trans-top|varying through time to the same proportion that}}
-* Croatian: {{t+|hr|kad}}, {{t-|hr|kada}}
+* Catalan: {{t|ca|a mesura que}}
 * Czech: {{t+|cs|jak}}
 * Danish: {{t+|da|som}}
-* Dutch: {{t-|nl|naarmate}}
-* Esperanto: {{t-|eo|kiom|xs=Esperanto}}
-* Finnish: {{t+|fi|aikana}}
-* French: [[au fur et à mesure que]]
+* Dutch: {{t+|nl|naarmate}}
+* Esperanto: {{t+|eo|kiom}}
+* Finnish: {{t+|fi|kun}}, {{t|fi|sitä mukaa kuin}}
+* French: {{t+|fr|au fur et à mesure que}}
 * German: {{t+|de|als}}
-* Greek: {{t+|el|καθώς|tr=kathós}}
-* Hebrew: [[כמה ש...]] [cama she...] how much that
-{{trans-mid}}
+* Greek: {{t+|el|καθώς}}
+* Hebrew: {{t|he|כמה ש...|tr=kama she...}}
 * Hungarian: {{t+|hu|ahogy}}
-* [[Interlingua]]: [[a mesura que]]
-* [[Macedonian]]: {{t|mk|како што|tr=káko što}}
-* [[Novial]]: [[durant ke]]
-* Old English: [[swa|swā]]...[[swa|swā]]...
-* Portuguese: {{t+|pt|conforme}}, [[à medida que]]
-* Russian: {{t+|ru|когда|tr=kogdá}}, {{t+|ru|как}}
-* Slovak: {{t-|sk|ako}}
-* Spanish: [[a medida que]]
+* Interlingua: {{t|ia|a mesura que}}
+* Italian: {{t|it|a mano a mano che}}, {{t|it|man mano che}}
+{{trans-mid}}
+* Macedonian: {{t|mk|како што}}
+* Novial: {{t|nov|durant ke}}
+* Old English: {{t|ang|[[swā]]...[[swā]]...}}
+* Portuguese: {{t+|pt|conforme}}, {{t+|pt|à medida que}}
+* Romanian: {{t|ro|pe măsură ce}}
+* Russian: {{t+|ru|когда́}}, {{t+|ru|как}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ка̏д}}, {{t|sh|ка̀да}}
+*: Roman: {{t+|sh|kȁd}}, {{t+|sh|kàda}}
+* Slovak: {{t|sk|ako}}
+* Spanish: {{t|es|a medida que}}, {{t+|es|conforme}}
+* Ukrainian: {{t|uk|коли́}}, {{t+|uk|як}}
+* Walloon: {{t|wa|a fwait ki}}, {{t|wa|fwait a mzeure ki}}
 {{trans-bottom}}
 
-{{trans-top|because}}
-* Croatian: {{t-|hr|jer}}, {{t-|hr|zato što}}, {{t-|hr|pošto}}
+{{trans-top|considering that, because}}
+* Catalan: {{t|ca|com que}}, {{t|ca|ja que}}
 * Czech: {{t+|cs|neboť}}, {{t+|cs|protože}}, {{t+|cs|jelikož}}, {{t+|cs|poněvadž}}, {{t+|cs|neb}}
-* Danish: [[siden]], [[eftersom]], [[idet]]
-* Dutch: {{t+|nl|omdat}}, {{t+|nl|want}}
-* Esperanto: {{t-|eo|ĉar|xs=Esperanto}}
+* Danish: {{t+|da|siden}}, {{t|da|eftersom}}, {{t+|da|idet}}
+* Dutch: {{t+|nl|omdat}}, {{t+|nl|want}}, {{t+|nl|aangezien}}
+* Esperanto: {{t+|eo|ĉar}}
 * Finnish: {{t+|fi|koska}}
-* French: {{t+|fr|puisque}}, {{t+|fr|car}}
+* French: {{t+|fr|puisque}}, {{t+|fr|car}}, {{t+|fr|comme}}
+* Georgian: {{t|ka|მაშინ როდესაც}}
 * German: {{t+|de|da}}, {{t+|de|weil}}
-* Greek: [[αφού]] (afoú)
-* Hebrew: [[כי]] [ki]
-* Hungarian: {{t+|hu|mivel}}, {{t-|hu|ugyanis}}
-{{trans-mid}}
-* [[Interlingua]]: [[viste que]]
+* Greek: {{t+|el|αφού}}
+* Hebrew: {{t+|he|כי|tr=ki}}
+* Hungarian: {{t+|hu|mivel}}, {{t+|hu|ugyanis}}
+* Interlingua: {{t|ia|viste que}}
+* Interlingue: {{t|ie|pro que}}
 * Italian: {{t+|it|siccome}}
-* Maltese: {{t-|mt|kif|xs=Maltese}}
-* Norwegian: {{t+|no|siden}}
-* [[Novial]]: [[pro ke]]
-* Old English: {{t-|ang|þæs|xs=Old English}}, {{t-|ang|swa|alt=swā|xs=Old English}}
-* Portuguese: [[visto que]]
-* Russian: [[поскольку]] (poskól’ku)
-* Slovak: {{t-|sk|keďže}}
-* Spanish: {{t+|es|como}}
-* Swedish: {{t+|sv|eftersom}}
-{{trans-bottom}}
-
-{{trans-top|in the manner of}}
-* Croatian: {{t+|hr|kao}}, {{t+|hr|kako}}
-* Czech: {{t+|cs|jak}}, {{t+|cs|jako}}
-* Danish: {{t+|da|som}}
-* Dutch: {{t+|nl|als}}
-* Esperanto: {{t-|eo|kiel|xs=Esperanto}}
-* French: {{t+|fr|que}}
-* German: {{t+|de|wie}}
-* Greek: [[σαν]] (san)
-* Hebrew: [[כמו]] [cmo]
-* Hungarian: [[mint]], [[-ként]] ([[essive-formal]])
+* Maltese: {{t+|mt|kif}}
 {{trans-mid}}
-* [[Interlingua]]: [[como]]
-* Italian: {{t+|it|come}}, {{t+|it|quanto}}
-*: X as Y - X come Y, tanto X comme Y
-* Japanese: [[ように]] (yō ni)
-* [[Macedonian]]: {{t-|mk|како|tr=káko}}
-* Norwegian: {{t+|no|som}}
-* [[Novial]]: [[kom]]
-* Portuguese: {{t+|pt|como}}
-* Russian: {{t+|ru|как}}
-* Spanish: {{t+|es|como}}
+* Maore Comorian: {{t|swb|ha iv̄o}}
+* Norwegian: {{t+|no|siden}}
+* Novial: {{t|nov|pro ke}}
+* Old English: {{t|ang|þæs}}, {{t|ang|swā}}
+* Polish: {{t+|pl|ponieważ}}, {{t+|pl|bo}}
+* Portuguese: {{t|pt|visto que}}, {{t+|pt|já que}}, {{t+|pt|porque}}
+* Romanian: {{t+|ro|deoarece}}, {{t|ro|pentru că}}, {{t+|ro|fiindcă}}
+* Russian: {{t+|ru|поско́льку}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|је̏р}}, {{t|sh|зато што}}, {{t+|sh|pošto}}
+*: Roman: {{t+|sh|jȅr}}, {{t+|sh|zato što}}, {{t+|sh|pošto}}
+* Slovak: {{t|sk|keďže}}
+* Spanish: {{t+|es|como}}, {{t+|es|ya que}}, {{t|es|debido a que}}, {{qualifier|only followed by infinitive form}} {{t+|es|por}}
+* Swedish: {{t+|sv|eftersom}}
+* Ukrainian: {{t|uk|оскі́льки}}
+* Walloon: {{t+|wa|puski}}, {{t+|wa|come}}
 {{trans-bottom}}
 
-{{trans-see|that|[[that]]}}
+{{trans-top|introducing a basis of comparison}}
+* Finnish: {{t+|fi|kuin}}
+* French: {{t+check|fr|que}}
+* Greek:
+*: Ancient: {{t|grc|ὅσον}}, {{t|grc|ἤ}}
+{{trans-mid}}
+* Russian: {{t+|ru|чем}}, {{t+|ru|как}}
+* Slovak: {{t|sk|ako}}
+{{trans-bottom}}
+
+{{trans-see|as if}}
+
+{{trans-see|relative conjunction|that}}
+
+{{trans-see|expressing concession|though}}
+
+{{trans-see|than}}
 
 {{checktrans-top}}
-* {{ttbc|Kurdish}}: [[wek]], [[mîna]], [[nola]], [[fena]]
-{{checktrans-mid}}
-* {{ttbc|Portuguese}}: [[porque]], [[já que]]
-{{checktrans-bottom}}
+* Czech: {{t+check|cs|jak}}, {{t+|cs|jako}} <!--was under: "in the manner of"-->
+* Danish: {{t+check|da|som}} <!--was under: "in the manner of"-->
+* Dutch: {{t+check|nl|als}} <!--was under: "in the manner of"-->
+*: The Hague dialect: {{t+|nl|as}} <!--was under: "in the manner of"-->
+* Esperanto: {{t+check|eo|kiel}} <!--was under: "in the manner of"-->
+* Georgian: {{t-check|ka|როგორც}}
+* German: {{t+check|de|wie}} <!--was under: "in the manner of"-->
+* Greek: {{t+check|el|σαν}} <!--was under: "in the manner of"-->
+* Hebrew: {{t+check|he|כמו|tr=kmo}} <!--was under: "in the manner of"-->
+* Hungarian: {{t+check|hu|mint}}, {{t|hu|-ként}} ([[essive-formal]]) <!--was under: "in the manner of"-->
+* Interlingua: {{t+check|ia|como}} <!--was under: "in the manner of"-->
+* Italian: {{t+check|it|come}}, {{t+|it|quanto}} <!--was under: "in the manner of"-->
+*: X as Y - X come Y, tanto X comme Y <!--was under: "in the manner of"-->
+{{trans-mid}}
+* Japanese: {{t-check|ja|ように|tr=yō ni}} <!--was under: "in the manner of"-->
+* Kurdish: {{t+check|ku|wek}}, {{t+check|ku|mîna}}, {{t+check|ku|nola}}, {{t+check|ku|fena}}
+* Macedonian: {{t-check|mk|како}} <!--was under: "in the manner of"-->
+* Norwegian: {{t+check|no|som}} <!--was under: "in the manner of"-->
+* Novial: {{t-check|nov|kom}}, {{t-check|nov|kam}} <!--were under: "in the manner of"-->
+* Romanian: {{t-check|ro|ca și}} <!--was under: "in the manner of"-->
+* Russian: {{t+check|ru|как}} <!--was under: "in the manner of"-->
+* Serbo-Croatian: <!--were under: "in the manner of"-->
+*: Cyrillic: {{t-check|sh|ка̏о}}, {{t-check|sh|ка̏ко}}, {{t-check|sh|ка̀ко}}
+*: Roman: {{t+check|sh|kȁo}}, {{t+check|sh|kȁko}}, {{t+check|sh|kàko}}
+* Spanish: {{t+check|es|como}}, {{t-check|es|igual de}}… {{t+check|es|que}} <!--were under: "in the manner of"-->, {{t|es|al tiempo que}}
+* Tok Pisin: {{t-check|tpi|olsem}} <!--was under: "in the manner of"-->
+* Ukrainian: {{t+check|uk|як}}, {{t-check|uk|на́че}} <!--were under: "in the manner of"-->
+{{trans-bottom}}
 
 ====Preposition====
 {{en-prep}}
 
-# To the same [[extent]] or [[degree]] that. <!-- this needs to be dealt with, should not be under *multiple* parts of speech-->
-#: ''You are not as tall '''as''' me.''<!-- note that "as I am" would be a different part of speech -->
+# {{non-gloss definition|Introducing a basis of comparison, with an object in the objective case.}}
+#: {{ux|en|You are not as tall '''as''' me.}}
+#: {{ux|en|They're big '''as''' houses.}}
+#* {{RQ:BLwnds TLdgr|I|0016}}
+#*: A great bargain also had been the excellent Axminster carpet which covered the floor; '''as''', again, the arm-chair in which Bunting now sat forward, staring into the dull, small fire.
+#* {{quote-book|en|year=1922|author={{w|Ben Travers}}|title={{w|A Cuckoo in the Nest}}
+|chapter=1|url=http://openlibrary.org/works/OL1521052W
+|passage=She was like a Beardsley ''Salome'', he had said. And indeed she had the narrow eyes and the high cheekbone of that creature, and '''as''' nearly the sinuosity as is compatible with human symmetry.}}
 # In the [[role]] of.
-#: ''What is your opinion '''as''' a parent?''
-#: ''The movie features Al Gore '''as''' a streetwise pimp.''
+#: {{ux|en|What is your opinion '''as''' a parent?}}
+#* '''2000''', Tom Pendergast, Sara Pendergast, ''St. James encyclopedia of popular culture'', volume 2, page 223:
+#*: Directed by Howard Hawks, ''Gentlemen Prefer Blondes'' starred Marilyn Monroe '''as''' Lorelei and Jane Russell '''as''' Dorothy.
+
+=====Usage notes=====
+* The object in older English may appear, and it may be prescribed as appearing, in the nominative case, similar to {{m|en|than}}, eg. ''You are not as tall as '''I'''''.
 
 =====Translations=====
-{{trans-top|to the same extent or degree that}}
-* [[Breton]]: [[ken]]...[[ha]] (You are as tall as I am - ''C'hwi 'zo [[ken]] bras [[ha]] me'')
+{{trans-top|Introducing a basis of comparison}}
+* Arabic: {{t+|ar|مِثْل}}
+* Belarusian: {{t+|be|як}}
+* Breton: {{t+check|br|ha}}
+* Catalan: {{t+|ca|com}}
 * Danish: {{t+|da|som}}
 * Dutch: {{t+|nl|als}}
-* [[Egyptian]]: {{tø|egy|mỉ|alt=m|sc=Egyp}}
-*: <hiero>mi-i</hiero>
-* Esperanto: {{t-|eo|kiel|xs=Esperanto}}
-* French: [[que]] (You are as tall as I am - ''Tu es aussi grand que moi'')
-* German: {{t+|de|wie}}
-* Hebrew: (You are not '''as''' tall '''as''' I am - אתה לא '''כזה/כל כך''' '''כמו'''ני)
-* Hungarian: [[mint]] (You are as tall as I am - ''Olyan magas vagy, mint én'')
-* Indonesian: [[sebagai]], [[seperti]]
-* [[Interlingua]]: [[como]], [[quanto]] (You are as tall as I am - ''Tu es tanto grande quanto me'', ''Tu es si grande como me'')
-* Italian: [[quanto]], [[come#Italian|come]] (You are as tall as I am - ''Sei tanto grande quanto me'', ''Sei grande come me'')
+*: The Hague dialect: {{t+|nl|as}}
+* Egyptian: {{t-egy|mj|h=mi-i}}
+* Esperanto: {{t+|eo|kiel}}
+* Finnish: {{t+|fi|kuin}}
+* French: {{t+|fr|que}}
+* German: {{t|de|[[so]] ... [[wie]]}}
+* Greek: {{t+|el|όσο}}
+* Hebrew: {{t+|he|כ־|tr=k'-}}, {{t+|he|כמו|tr=k'mó}}
+* Hungarian: {{t+|hu|mint}}
+* Ido: {{t+|io|kom}}
+* Indonesian: {{t+|id|sebagai}}, {{t+|id|seperti}}
+* Interlingua: {{t+|ia|como}}, {{t|ia|quanto}}
+* Interlingue: {{t|ie|quam}}
+* Italian: {{t+|it|quanto}}, {{t+|it|come}}
 {{trans-mid}}
-* Japanese: [[として]] (toshite)
-* Kurdish: [[hindî]], [[qasî]], [[bi qasî]], [[temetî]]
-* [[Macedonian]]: {{t+|mk|колку|tr=kólku}}
-* [[Novial]]: [[kam]]
-* Old English: {{t-|ang|swa|alt=swā|xs=Old English}}
-* Portuguese: (You're not '''as''' tall '''as''' I am = Você não é '''tão''' alto '''quanto''' eu)
+* Japanese: {{t|ja|として|tr=toshite|sc=Jpan}}
+* Khmer: {{t+|km|ដូច}}
+* Kurdish: {{t+|ku|hindî}}, {{t+|ku|qasî}}, {{t+|ku|bi qasî}}, {{t+|ku|temetî}}
+* Lao: {{t-needed|lo}}
+* Macedonian: {{t+|mk|колку}}
+* Mongolian: {{t-needed|mn}}
+* Novial: {{t|nov|kam}}
+* Old English: {{t|ang|swā}}
+* Portuguese: {{t+|pt|quanto}}
+* Romanian: {{t+|ro|ca}}, {{t|ro|ca și}}
 * Russian: {{t+|ru|как}}
-* Slovak: [[ako]] (''a conjunction even in this context, followed by a [[nominative]]'')
+* Slovak: {{t|sk|ako}} {{qualifier|conjunction}}
 * Slovene: {{t+|sl|kot}}
 * Spanish: {{t+|es|como}}
-* Swedish: [[som]] (You are as tall as me - ''Du är lika lång <u>som</u> mig'')
-* Welsh: {{t+|cy|cyn|xs=Welsh}}...{{t-|cy|â|xs=Welsh}} (You are as tall as I am - ''Dych chi [[cyn]] dal [[â]] fi
+* Swedish: {{t+|sv|som}}
+* Thai: {{t-needed|th}}
+* Ukrainian: {{t+|uk|як}}
+* Vietnamese: {{t-needed|vi}}
+* Welsh: {{t-check|cy|â}}
 {{trans-bottom}}
 
-===Etymology 2===
+{{trans-top|In the role of}}
+* Chinese:
+*: Mandarin: {{t+|cmn|为}}
+* Dutch: {{t+|nl|als}}, {{t|nl|in de rol van}}
+*: The Hague dialect: {{t+|nl|as}}, {{t|nl|in de rol van}}
+* Finnish: {{t+|fi|-na}} {{qualifier|essive case}}
+* French: {{t+|fr|en tant que}}
+* German: {{t+|de|als}}
+* Greek: {{t+|el|ως}}, {{t+|el|σαν}}
+* Hungarian: {{t|hu|-ként}}
+* Ido: {{t+|io|kom}}
+* Interlingue: {{t|ie|quam}}
+* Italian: {{t+|it|come}}, {{t+|it|da}}
+* Japanese: {{t|ja|として|tr=toshite}}
+* Latin: {{t+|la|qua}}
+{{trans-mid}}
+* Novial: {{t|nov|kom}}
+* Old English: {{t|ang|tō}}
+* Persian: {{t|fa|به عنوان}}
+* Polish: {{t+|pl|jako}}
+* Portuguese: {{t+|pt|como}}
+* Romanian: {{t|ro|în calitate de}}
+* Russian: {{t+|ru|как}}, {{t+|ru|в ка́честве}}
+* Slovak: {{t|sk|ako}}
+* Spanish: {{t+|es|como}}
+* Swedish: {{t+|sv|som}}
+* Turkish: {{t+|tr|olarak}}
+* Ukrainian: {{t|uk|у ро́лі}}
+{{trans-bottom}}
 
-From {{etyl|la}} {{term|lang=la|as}}
+===References===
+* {{R:OneLook}}
+* {{R:Century 1911}}
+
+===Etymology 2===
+Borrowed from {{bor|en|la|as}}. {{doublet|en|ace}}.
+
+====Pronunciation====
+* {{IPA|en|/ˈæs/}}
+* {{homophone|en|ass}}
 
 ====Noun====
-{{en-noun|asses}}
+{{en-noun|ases|asses}}
 
-# {{context|unit of weight}} A [[libra]].
+# {{lb|en|unit of weight}} A [[libra]].
 # Any of several coins of Rome, coined in [[bronze]] or later [[copper]]; or the equivalent value.
 
-=====See also=====
+=====Translations=====
+{{trans-top|Roman coin}}
+* Finnish: {{t+|fi|as}}, {{t+|fi|assi}}
+* French: {{t+|fr|as|m}}
+* German: {{t+|de|As|m}}
+* Latin: {{t+|la|as|m}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|asse|m}}
+* Russian: {{t+|ru|асс|m}}, {{t+|ru|ас|m}}
+* Spanish: {{t+|es|as|m}}
+{{trans-bottom}}
+
+=====Further reading=====
 * {{pedialite|As (coin)|As (Roman coin)}}
 
-===Anagrams===
-* {{alphagram|as}}
-* [[Sa#English|Sa]], [[SA#English|SA]], [[s.a.#English|s.a.]], [[S&A#English|S&A]], [[S.A.#English|S.A.]]
+===Etymology 3===
+{{suffix|en|a|s|nocat=1}}.
 
-[[Category:100 English basic words]]
-[[Category:Currency]]
+====Pronunciation====
+* {{IPA|en|/ˈeɪz/}}
+
+====Noun====
+{{head|en|noun form}}
+
+# {{plural of|en|a}}
+
+=====Usage notes=====
+{{U:en:plurals of letters}}
+
+===Etymology 4===
+Shortening of [[as hell]] or [[as fuck]].
+
+====Pronunciation====
+* {{IPA|en|/ˈæz/}} {{qualifier|never unstressed}}
+
+====Contraction====
+{{en-contraction}}
+
+# {{lb|en|slang}} [[as hell|As hell]] or [[as fuck]]; [[very]] much; [[extremely]].
+#: ''You killed him? That's metal '''as''', girl.''
+
+===References===
+<references/>
+
+[[Category:Midland US English]]
+[[Category:Southern US English]]
+<!--[[Category:Midwest US English]]?-->
+[[Category:Lancashire English]]
+[[Category:Shropshire English]]
+[[Category:Derbyshire English]]
+[[Category:Lincolnshire English]]
+[[Category:Herefordshire English]]
+[[Category:East Anglian English]]
+[[Category:Norfolk English]]
+[[Category:Gloucestershire English]]
+[[Category:Oxfordshire English]]
+[[Category:Berkshire English]]
+[[Category:Bedfordshire English]]
+[[Category:Essex English]]
+[[Category:Somerset English]]
+[[Category:Dorset English]]
+[[Category:Wiltshire English]]
+[[Category:Cornish English]]
+
+===Anagrams===
+* {{anagrams|en|a=as|S&A|S. A.|S.A.|SA|Sa|s.a.}}
+
+[[Category:English basic words]]
 [[Category:English degree adverbs]]
 [[Category:English two-letter words]]
+[[Category:en:Currency]]
 
 ----
 
-==[[Aragonese]]==
+==Achumawi==
+
+===Pronunciation===
+* {{IPA|acv|/(ʔ)ʌs/}}
+
+===Noun===
+{{head|acv|noun}}
+
+# [[water]]
+
+===References===
+* Bruce E. Nevin, ''[http://roa.rutgers.edu/files/316-0599/roa-316-nevin-4.pdf Aspects of Pit River phonology]'' (1998) (Ph.D. dissertation, University of Pennsylvania, Department of Linguistics)
+
+{{topics|acv|Water}}
+
+----
+
+==Afrikaans==
+
+===Pronunciation===
+* {{IPA|af|/as/}}
+
+===Etymology 1===
+From {{inh|af|nl|as}}, from {{inh|af|gem-pro|*askǭ}}.
+
+====Noun====
+{{af-noun|asse|assie}}
+
+# [[ash]]
+# [[ashes]]
+
+===Etymology 2===
+From {{inh|af|nl|as}}, from {{inh|af|gem-pro|*ahsō}}.
+
+====Noun====
+{{af-noun|asse|assie}}
+
+# [[axle]]
+# [[axis]]
+
+===Etymology 3===
+From {{inh|af|nl|als}}
+
+====Conjunction====
+{{head|af|conjunction}}
+
+# [[if]]
+# [[when]]
+
+====Preposition====
+{{head|af|preposition}}
+
+# [[like]]
+
+----
+
+==Aragonese==
 
 ===Etymology===
-From {{etyl|la|an}} ''[[illas]]''.
+From {{inh|an|la|illās}}.
 
 ===Article===
-{{infl|an|article|gender=f}} {{p}}
+{{head|an|article|g=p}}
 
 # [[the]]
-#: '''''As''' mesachas de Zaragoza'' = "The girls from Saragossa"
+#: {{ux|an|'''As''' mesachas de Zaragoza|inline=1|'''The''' girls from Saragossa}}
 
 ====Usage notes====
-The form [[las]], either pronounced as ''las'' or as ''ras'', can be found after words ending with an -a.
+The form {{m|an|las}}, either pronounced as ''las'' or as ''ras'', can be found after words ending with ''-a''.
 
 ----
 
 ==Catalan==
 
-===Etymology 1===
-From {{etyl|la|ca}} {{term|lang=la|as||basic Roman unit of money}}.
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|as}}
 
-====Pronunciation====
-* {{IPA|lang=ca|[ás]}}
+===Etymology 1===
+From {{der|ca|la|as||basic Roman unit of money}}.
 
 ====Noun====
-{{ca-noun|m|asos}}
+{{ca-noun|m}}
 
-# {{games|lang=ca}} An [[ace]]. {{gloss|the side of a die with a single pip}}
-# {{cards|lang=ca}} An [[ace]]. {{gloss|a card with a single pip, usually of highest rank in a suit}}
-# {{figurative|sports|lang=ca}} An [[ace]]. {{gloss|an expert}}
-# {{historical|metrology|lang=ca}} An [[#Etymology 2|as]] or a [[libra]]. {{gloss|Roman unit of weight}}
-# {{historical|humismatics|lang=ca}} An [[#Etymology 2|as]] {{gloss|Roman unit of money}}.
+# {{lb|ca|games}} An [[ace]]. {{gloss|the side of a die with a single pip}}
+# {{lb|ca|cards}} An [[ace]]. {{gloss|a card with a single pip, usually of highest rank in a suit}}
+# {{lb|ca|figuratively|sports}} An [[ace]]. {{gloss|an expert}}
+# {{lb|ca|historical|metrology}} An [[#Etymology 2|as]] or a [[libra]]. {{gloss|Roman unit of weight}}
+# {{lb|ca|historical|numismatics}} An [[#Etymology 2|as]] {{gloss|Roman unit of money}}.
 
 =====Derived terms=====
-* {{l|ca|as de guia}} {{gloss|bowline knot}}
-* {{l|ca|sempre un sis o un as}} {{gloss|a handicap or a problem}}
+* {{l|ca|as de guia||bowline knot}}
+* {{l|ca|sempre un sis o un as||a handicap or a problem}}
 
 ===Etymology 2===
-From {{etyl|gem|ca}} {{term||áss}}, singular of {{term||æsir||the Norse gods}}.
+From {{der|ca|non|áss}}, singular of {{m|non|æsir||the Norse gods}}.
 
 ====Noun====
-{{ca-noun|m|asos}}
+{{ca-noun|m}}
 
-# {{mythology|lang=ca}} One of the [[Æsir]].
+# {{lb|ca|mythology}} One of the [[Æsir]].
 
 ===Etymology 3===
 
 ====Contraction====
-{{infl|ca|contraction}}
+{{head|ca|contraction}}
 
-# {{dialect|lang=ca}} Contraction of the preposition {{term|a|lang=ca}} with the [[salty]] article {{term|es|lang=ca}}.
+# {{lb|ca|dialectal}} Contraction of the preposition {{m|ca|a}} with the [[salty]] article {{m|ca|es}}.
 
 =====Synonyms=====
 * {{l|ca|al|gloss=contraction of ''a'' and ''el''}}
@@ -379,17 +720,33 @@ From {{etyl|gem|ca}} {{term||áss}}, singular of {{term||æsir||the Norse gods}}
 ===Etymology 4===
 
 ====Noun====
-{{ca-noun-form|f|p}}
+{{head|ca|noun form}}
 
-# {{ca-plural of|a}}
+# {{inflection of|ca|a||p}}
+
+----
+
+==Cimbrian==
+
+===Etymology===
+Confer {{cog|de|als}}, {{cog|en|as}}.
+{{rfe|cim}}
+
+===Conjunction===
+{{head|cim|conjunction}}
+
+# {{lb|cim|7}} [[if]]
+#: {{ux|cim|'''As''' ze alle khödent azò misses zèinan baar.|'''If''' everyone says it it must be true.}}
+
+===References===
+* {{R:Martalar1974}}
 
 ----
 
 ==Danish==
 
 ===Etymology===
-
-From {{etyl|non|da}} {{term|Áss|áss|lang=non}} ({{p}} {{term|Æsir|æsir|lang=non}}).
+From {{inh|da|non|áss}} ({{g|p}} {{m|non|æsir}}).
 
 ===Noun===
 {{da-noun|en|er}}
@@ -408,9 +765,9 @@ From {{etyl|non|da}} {{term|Áss|áss|lang=non}} ({{p}} {{term|Æsir|æsir|lang=
 {{da-noun-infl|stem=ass|et|er||as'}}
 
 ===Verb===
-{{infl|da|verb form}}
+{{head|da|verb form}}
 
-# {{form of|imperative|ase|lang=Danish}}
+# {{inflection of|da|ase||imp}}
 
 [[Category:da:Music]]
 
@@ -419,286 +776,744 @@ From {{etyl|non|da}} {{term|Áss|áss|lang=non}} ({{p}} {{term|Æsir|æsir|lang=
 ==Dutch==
 
 ===Pronunciation===
-* {{audio|Nl-as.ogg|audio}}
+* {{IPA|nl|/ɑs/}}
+* {{audio|nl|Nl-as.ogg|audio}}
+* {{hyphenation|nl|as}}
+* {{rhymes|nl|ɑs}}
 
-===Noun===
-{{nl-noun|g=f|as}}
+===Etymology 1===
+From {{inh|nl|dum|asche}}, from {{inh|nl|odt|*aska}}, from {{inh|nl|gem-pro|*askǭ}}.
+
+Cognate with {{cog|nds|Asch}}, {{cog|de|Asche}}, {{cog|en|ash}}, {{cog|fy|jiske}}, {{cog|da|aske}}, {{cog|sv|aska}}.
+
+====Noun====
+{{nl-noun|f|-en|asje}}
 
 # [[ash]]
 # [[ashes]]
 
-====Synonyms====
-* [[asse]]
+=====Alternative forms=====
+* {{l|nl|asch}} {{qualifier|obsolete}}
+* {{l|nl|asse}}
 
-===Noun===
-{{nl-noun|g=m|assen}}
+=====Derived terms=====
+{{der4|nl|asbak|asbeer|asbezem|asbrood|asla|asvaalt|asvarken|Aswoensdag|aswolk|in zak en as zitten|kalkas|lijkas|potas}}
+
+===Etymology 2===
+From {{inh|nl|dum|asse}}, from {{inh|nl|odt|*assa}}, from {{inh|nl|gem-pro|*ahsō}}.
+
+====Noun====
+{{nl-noun|f|-en|asje}}
 
 # [[axis]]
 # [[axle]]
+
+====Descendants====
+* {{desc|id|bor=1|as}}
+
+===Etymology 3===
+
+====Conjunction====
+{{head|nl|conjunction}}
+
+# {{lb|nl|Hague|_|dialect}} {{alternative spelling of|nl|als}}
+
+====Preposition====
+{{head|nl|preposition}}
+
+# {{lb|nl|Hague|_|dialect}} {{alternative spelling of|nl|als}}
+# {{lb|nl|Hague|_|dialect}} ''eive ... as'': {{l|en|as}} ... {{l|en|as}}
+
+----
+
+==Fala==
+
+===Etymology===
+From {{der|fax|roa-opt|as}}, from {{inh|fax|la|illās}}.
+
+===Article===
+{{head|fax|article|g=f-p|singular|a|masculine|o|masculine plural|os}}
+
+# {{inflection of|fax|o||f|p}}
+#* {{quote-book|fax|year=2000|author=Domingo Frades Gaspar|title=Vamus a falal: Notas pâ coñocel y platical en nosa fala|publisher=Editora regional da Extremadura|section=Theme I, Chapter 2: Númerus?|passage='''As''' lenguas, idiomas, dialectus o falas tenin un-as funciós mui claras desde o principiu dos siglu i si hai contabilizaus en o mundu un-as 8.000 lenguas, ca un-a con sua importancia numérica relativa, a nossa fala é un tesoiru mais entre elas.|translation='''The''' tongues, languages or regional variants have some very clear functions since the beginning of the centuries and some 8,000 languages have been accounted for in the world, each with its relative numerical importance, our Fala is another treasure among them.}}
+
+----
+
+==Finnish==
+
+===Pronunciation===
+{{fi-pronunciation}}
+
+===Noun===
+{{fi-noun}}
+
+# {{lb|fi|music}} [[A-flat]]
+
+====Usage notes====
+{{U:fi:note capitalization}}
+
+====Declension====
+{{fi-decl-risti|as|||a|i=0}}
+
+====Compounds====
+* {{l|fi|as-aiolinen}}
+* {{l|fi|as-doorinen}}
+* {{l|fi|As-duuri}}
+* {{l|fi|as-fryyginen}}
+* {{l|fi|As-jooninen}}
+* {{l|fi|as-lokrinen}}
+* {{l|fi|As-lyydinen}}
+* {{l|fi|As-miksolyydinen}}
+* {{l|fi|as-molli}}
+
+===Anagrams===
+* {{anagrams|fi|a=as|sa}}
 
 ----
 
 ==French==
 
-===Pronunciation===
-* {{audio|Fr-as.ogg|Audio}}
-; Noun
-* {{IPA|/as/|lang=fr}}, {{SAMPA|/As/|lang=fr}}
+===Etymology 1===
+From {{der|fr|la|as}}.
 
-; Verb
-* {{IPA|/a/|lang=fr}}, {{SAMPA|/a, A/|lang=fr}}
+====Pronunciation====
+* {{fr-IPA|âsse}}
+* {{audio|fr|Fr-as.ogg|Audio}}
+* {{rhymes|fr|as}}
 
-===Noun===
-{{fr-noun|m|plural=as}}
+====Noun====
+{{fr-noun|m|as}}
 
-# [[ace]] (card of value 1).
-# {{context|tennis|lang=fr}} [[ace]]
+# [[ace]] {{gloss|card of value 1}}
+# [[ace]] {{gloss|expert or pilot}}
+# {{l|en|as}} {{gloss|Roman coin}}
 
-===Verb===
-{{fr-verb form}}
+=====Descendants=====
+* {{desc|de|As|bor=1}}, {{l|de|Ass}}
+** {{desc|hu|ász|bor=1}}
+* {{desc|vi|át|bor=1}}
 
-# {{conjugation of|avoir||2|s|pres|ind|lang=fr}}
-#: ''Tu '''as''' un chien.''
-#: ''You '''have''' a dog.''
+====See also====
+{{table:playing cards/fr}}
+
+===Etymology 2===
+From the verb {{m|fr|avoir}}.
+
+====Pronunciation====
+* {{fr-IPA}}
+
+====Verb====
+{{head|fr|verb form}}
+
+# {{inflection of|fr|avoir||2|s|pres|indc}}
+#: {{ux|fr|Tu '''as''' un chien.|You have a dog.}}
 
 ===Anagrams===
-* {{alphagram|as}}
-* [[sa#French|sa]]
+* {{l|fr|sa}}
+
+===Further reading===
+* {{R:TLFi}}
 
 [[Category:fr:Poker]]
 
 ----
 
-==Galician==
+==Friulian==
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|illas|illās}}, accusative feminine plural of {{term|ille||that|lang=la}}.
+From {{inh|fur|la|axis}}.
 
-===Article===
-{{infl|gl|article|g=f|g2=p|feminine singular|a|masculine singular|o|masculine plural|os}}
+===Noun===
+{{head|fur|noun|g=m}}
 
-# {{context|definite}} [[the]]
+# [[axis]]
+# [[board]]
 
-====Usage notes====
-The definite article ''o'' (in all its forms) regularly forms contractions when it follows the prepositions {{term|a||to|lang=gl}}, {{term|con||with|lang=gl}}, {{term|de||of, from|lang=gl}}, and {{term|en||in|lang=gl}}.  For example, ''con as'' ("with the") contracts to {{term|coas|lang=gl}}, and ''en as'' ("in the") contracts to {{term|nas|lang=gl}}.
+----
 
-====Derived terms====
-{{top2}}
-* {{l|gl|ás}}
-* {{l|gl|coas}}
-{{mid2}}
-* {{l|gl|das}}
-* {{l|gl|nas}}
-{{bottom}}
+==Galician==
 
-===Pronoun===
-{{gl-pron|form=acconly|g=f pl|nom=elas|obl=elas|dat=lles}}
+===Etymology 1===
+From {{inh|gl|roa-opt|as}}, from {{inh|gl|la|illās}}, accusative feminine plural of {{m|la|ille||that}}.
 
-# [[them]] (''feminine plural third-person personal pronoun'')
+====Article====
+{{head|gl|article|g=f-p|feminine singular|a|masculine singular|o|masculine plural|os}}
 
-====Usage notes====
-The third-person [[direct object]] pronouns {{term|o|lang=gl}}, {{term|os|lang=gl}}, {{term|a|lang=gl}}, and {{term|as|lang=gl}}, have variant forms prefixed with ''l-'' or ''n-''.  These alternative forms appear depending on the ending of the preceding word.  The ''l-'' forms (e.g. {{term|las|lang=gl}}) are used when the preceding word ends in ''-r'' or ''-s''. The ''n-'' forms (e.g. {{term|nas|lang=gl}}) are used when the preceding word ends in a ''-u'' or a diphthong.  These alternative forms are then suffixed to the preceding word.
+# {{lb|gl|definite}} [[the]]
 
-In all other situations, the standard forms of the pronouns are used ({{term|o|lang=gl}}, {{term|os|lang=gl}}, {{term|a|lang=gl}}, {{term|as|lang=gl}}) and are ''not'' suffixed to the preceding word.
+=====Usage notes=====
+The definite article ''o'' (in all its forms) regularly forms contractions when it follows the prepositions {{m|gl|a||to}}, {{m|gl|con||with}}, {{m|gl|de||of, from}}, and {{m|gl|en||in}}. For example, ''con as'' ("with the") contracts to {{m|gl|coas}}, and ''en as'' ("in the") contracts to {{m|gl|nas}}.
 
-These direct object pronouns also form contractions when they immediately follow an indirect object pronoun.  For example, ''Dou che as'' ("I gave you them.") contracts to ''Dou chas.''
+=====Derived terms=====
+{{der3|gl|ás
+|coas
+|das
+|nas
+}}
 
-====Derived terms====
-{{top2}}
-* {{l|gl|chas}}
-* {{l|gl|llelas}}
-* {{l|gl|llas}}
-{{mid2}}
-* {{l|gl|mas}}
-* {{l|gl|nolas}}
-* {{l|gl|volas}}
-{{bottom}}
+===Etymology 2===
+{{nonlemma}}
 
-====Related terms====
-* {{l|gl|a}}
-* {{l|gl|os}}
+====Pronoun====
+{{head|gl|pronoun form}}
 
-====See also====
-* [[Appendix:Galician pronouns]]
-* {{l|gl|se}}
-* {{l|gl|seu}}
+# {{inflection of|gl|elas||acc}}
+
+----
+
+==Icelandic==
+
+===Pronunciation===
+* {{IPA|is|/aːs/}}
+* {{rhymes|is|aːs}}
+
+===Noun===
+{{is-noun|n}}
+
+# {{lb|is|music}} [[A flat]]
+
+----
+==Indonesian==
+{{wikipedia||lang=id}}
+
+===Pronunciation===
+* {{IPA|id|[ˈas]}}
+* {{hyphenation|id|as}}
+
+===Etymology 1===
+From {{bor|id|nl|as|t=axis, axle}}, from {{der|id|dum|asse}}, from {{der|id|odt|*assa}}, from {{der|id|gem-pro|*ahsō}}.
+
+====Noun====
+{{id-noun|head=}}
+# {{l|en|axis}}, {{l|en|axle}}
+#: {{syn|id|sumbu}}
+
+===Etymology 2===
+From {{bor|id|nl|aas|t=ace}}, earlier {{m|nl|ase}}, from {{der|id|dum|aes}}, from {{der|id|fro|as}}, from {{der|id|la|as}}. {{semantic loan|id|en|ace}} for meaning other than card with a single spot.
+
+====Noun====
+{{id-noun|head=}}
+# {{l|en|ace}}, 
+## card with a single spot.
+## {{lb|id|tennis}} point scored without the opponent hitting the ball.
+## {{lb|id|golf}} a {{l|en|hole in one}}.
+
+===Further reading===
+* {{R:KBBI Daring}}
 
 ----
 
 ==Irish==
 
-===Pronunciation===
-* {{IPA|lang=ga|[asˠ]}}
-
 ===Etymology 1===
-From {{etyl|sga|ga}} {{term|ass|ass, a|lang=sga|out of}}.  Cognate of Latin {{term|ex-||lang=la}}.  Cf. Scottish Gaelic {{l|gd|à}}.
+From {{inh|ga|sga|a|ass, a|t=out of}} (compare {{cog|gd|à}}), ultimately from {{inh|ga|ine-pro|*h₁eǵʰs}} (compare {{cog|la|ex}}).
+
+====Pronunciation====
+* {{IPA|ga|/asˠ/}}
+* {{a|Munster}} {{IPA|ga|/ɑsˠ/}}
+* {{a|Aran}} {{IPA|ga|/æsˠ/}} {{qualifier|as if spelled {{m|ga||eas}}}}
 
 ====Preposition====
-{{ga-prep}}
+{{ga-prep|d|-}}
 
 # [[out of]]
-# [[from]]
+#: {{ux|ga|Tóg leabhar aníos '''as''' an mála.|Take a book out of the bag.}}
+#: {{ux|ga|Tá Cathal ag déanamh bríste '''as''' an éadach.|Cathal is making trousers out of the cloth.}}
+#: {{ux|ga|Bíonn Máire á dhéanamh '''as''' fearg.|Máire does it out of anger}}
+# [[from]] {{qualifier|a place}}
+#: {{ux|ga|Beidh Pádraig ag teacht '''as''' Meiriceá amárach.|Pádraig will be coming from America tomorrow.}}
+#: {{ux|ga|Is '''as''' an nGearmáin í.|She is from Germany.}}
+#: {{ux|ga|Bhí torann '''as''' an seomra leapa.|There was a noise from the bedroom.}}
+#: {{ux|ga|Bhí cor '''as''' na toim.|There was a movement from the bushes.}}
+# [[off]]
+#: {{ux|ga|Tá boladh '''as''' an madra sin.|That dog smells (lit. There is a smell off that dog).}}
 
 =====Inflection=====
-{{ga-prep-infl
- |1sg    = asam
- |2sg    = asat
- |3sgm   = as
- |3sgmem = as-san
- |3sgf   = aisti
- |1pl    = asainn
- |2pl    = asaibh
- |3pl    = astu
+{{ga-prep-infl|1sg=asam
+|2sg=asat
+|3sgm=as
+|3sgmem=as-san
+|3sgf=aisti
+|1pl=asainn
+|2pl=asaibh
+|3pl=astu
+}}
+
+=====Derived terms=====
+{{der4
+|ga|{{l|ga|as a chéile|t=in a row; apart}}
+|{{l|ga|as amharc|t=out of sight}}
+|{{l|ga|as cuma|t=out of shape}}
+|{{l|ga|as marc|t=off target, wrong}}
 }}
 
 ===Etymology 2===
-From {{term|as|lang=ga}} + ''-e''
+From {{inh|ga|sga|ass}}.
+
+====Pronunciation====
+* {{IPA|ga|/asˠ/}}
+* {{a|Munster}} {{IPA|ga|/ɑsˠ/}}
+* {{a|Aran}} {{IPA|ga|/æsˠ/}} {{qualifier|as if spelled {{m|ga||eas}}}}
 
 ====Pronoun====
-{{infl|ga|pronoun|prepositional}}
+{{ga-prpr|as-san}}
 
-# {{form of|third person masculine singular|[[as#Irish|as]]|lang=ga}}
-#: [[from]] [[him]]/[[it]], [[off]] [[him]]/[[it]], [[out of]] [[him]]/[[it]]
-#:: ''[[ní#Irish|Ní]] [[faigh#Irish|fhuair]] [[tú]] [[freagra]] '''as'''.'' -- You didn't get an answer from him.
+# {{inflection of|ga|as||3|m|s}} {{gloss|from, off, out of}}
+#: {{ux|ga|Ní fhuair tú freagra '''as'''.|You didn’t get an answer from him.}}
 
 =====Derived terms=====
-* {{l|ga|as-san}} {{context|emphatic}}
+* {{l|ga|as féin|t=alone}}
+
+====Adverb====
+{{ga-adv}}
+
+# [[off]] {{gloss|in or into a state of non-operation or non-existence: of a machine, light, etc.}}
+#: {{ux|ga|Cas '''as''' an raidió.|Turn off the radio.}}
+#: {{ux|ga|Chuir mé an solas '''as'''.|I switched the light off.}}
+# [[out]] {{gloss|in or into a state of non-operation or non-existence: of a fire, etc.}}
+#: {{ux|ga|Tá an tine '''as'''.|The fire is out.}}
+
+=====Derived terms=====
+{{der2
+|ga|{{l|ga|cas as|t=turn off}}
+|{{l|ga|cuir as|t=switch off}}
+}}
+
+===Etymology 3===
+{{rfe|ga}}
+
+====Noun====
+{{ga-noun|m|~a|~a}}
+
+# {{lb|ga|literary}} [[shoe]]
+
+=====Declension=====
+{{ga-decl-m-irreg|a|s|sa|sa|s}}
+
+===Etymology 4===
+{{rfe|ga}}
+
+====Noun====
+{{ga-noun|m|~a|-}}
+
+# {{lb|ga|literary}} [[milk]]
+
+=====Declension=====
+{{ga-decl-m3-nopl|a|s|sa}}
+
+===Mutation===
+{{ga-mut|msn}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|8|head=7 a (‘out of’)}}
+* {{R:DIL|4358|head=as (‘milk’)}}
+* {{R:DIL|4359|head=as (‘shoe’)}}
+* {{R:ga:Finck|I|195}}
+* {{R:ga:Sjoestedt Description|95}}
+* {{R:ga:NEID}}
+
+{{topics|ga|Dairy products}}
+{{topics|ga|Footwear}}
 
 ----
 
 ==Latin==
 
+===Alternative forms===
+* {{l|la|𐆚}} {{qualifier|symbol}}
+
+===Etymology===
+From {{inh|la|itc-ola|*ass}}, probably from {{der|la|ett|-}}. {{m|la|libra|Libra}} and {{m|la|nummus}} were also loanwords.
+
+===Pronunciation===
+* {{la-IPA|as}}
+
 ===Noun===
-{{la-noun|as|assis|assis|m|third}}
+{{la-noun|as/ass<3.I>|gen_pl=assium/assum|g=m}}
 
-# An [[as]]; a Roman coin originally made of bronze and weighing a pound, but later made of copper and weighing half an ounce.
+# An {{l|en|as}}; a Roman coin originally made of bronze and weighing a pound, but later made of copper and weighing half an ounce.
 
-====Inflection====
-{{ladecl3:b2c}}
-{{la-decl-3rd-B2C|as|as|ass|ass}}
+====Usage notes====
+It is especially significant as being the coin of least value in the Classical age; as such it was often used in poetry as representative of the idea of worthlessness - one example being in ''Vivamus atque amemus'', where Catullus mentions "valuing opinions of old men at a single as". 2 and a half asses equalled a single [[sesterce]].
 
-===See also===
-* [[ 𐆚 ]]
+====Declension====
+* The genitive plural is normally ''assium'', but ''assum'' is found in {{w|Varro}}.
+{{la-ndecl|as/ass<3.I>|gen_pl=assium/assum}}
+
+====Derived terms====
+* {{l|la|decussis}}
+* {{l|la|sēmis}}
+
+====Descendants====
+* {{desc|ca|as}}
+* {{desctree|fro|as}}
+* {{desc|pt|ás}}, {{l|pt|asse}}
+* {{desc|es|as}}
+* {{desc|en|as|bor=1}}
+* {{desc|pl|as|bor=1}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:M&A}}
+* {{R:Peck}}
+* {{R:Smith's Antiquities}}
 
 ----
 
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{term|ocus|lang=sga}} "and", originally "proximity" < {{proto|Celtic|onkus-tus|lang=gv}} < *''onkus'' "near"
+From {{inh|gv|sga|ocus||and", originally "proximity}}, from {{inh|gv|cel-pro|*onkus-tus}}, from {{m|cel-pro|*onkus||near}}.
 
 ===Conjunction===
-{{infl|gv|conjunction}}
+{{head|gv|conjunction}}
 
 # [[and]]
+
+===References===
+* {{R:DIL|33484|head=2 ocus}}
+
+----
+
+==Middle English==
+
+===Etymology 1===
+Reduction of {{m|enm|alswo}}, {{m|enm|alswa}}, {{m|enm|also}}, from {{der|enm|ang|eallswā}}. The reduced form is more common in this sense from c. 1200.
+
+====Conjunction====
+{{head|enm|conjunction}}
+
+# [[#English|as]]
+
+=====Alternative forms=====
+* {{alter|enm|ase|os}}
+
+=====Descendants=====
+* {{desc|en|as}}
+* {{desc|sco|as}}
+
+====References====
+* {{R:MED Online|as|conj|MED2398}}
+
+===Etymology 2===
+From {{bor|enm|fro|as||ace}}, from {{der|enm|la|as|as, assis|as {{gl|Roman coin}}}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{lb|enm|dice games}} [[ace]] {{gl|single spot on a die}}
+# {{lb|enm|dice games}} The lowest possible [[throw]] in [[dice]].
+# {{lb|enm|figuratively|by extension}} [[bad luck]]
+
+=====Descendants=====
+* {{desc|en|ace}} {{see desc}}
+* {{desc|sco|ace}}
+
+====References====
+* {{R:MED Online|ās|n|MED2396}}
+
+----
+
+==Movima==
+
+===Verb===
+{{head|mzp|verb}}
+
+# to [[sit]]
+
+====External links====
+* http://webdoc.ubn.ru.nl/mono/h/haude_k/gramofmo.pdf
+* http://www.ioling.org/booklets/iol-2007-indiv-prob.en.pdf
+
+----
+
+==Navajo==
+
+===Alternative forms===
+* {{l|nv|is|sc=Latn}}
+
+===Interjection===
+{{head|nv|interjection}}
+
+# [[oh]]: {{non-gloss definition|expressing surprise}}
+
+----
+
+==Norman==
+
+===Etymology 1===
+{{rfe|nrf}}
+
+====Noun====
+{{nrf-noun|m|pl=as}}
+
+# {{lb|nrf|Jersey|card games}} [[ace]]
+
+===Etymology 2===
+
+====Verb====
+{{nrf-verb-form}}
+
+# {{lb|nrf|Guernsey}} {{inflection of|nrf|aver||2|s|pres|ind}}
+
+----
+
+==Occitan==
+
+===Pronunciation===
+* {{IPA|oc|/as/}}
+
+===Verb===
+{{head|oc|verb form}}
+
+# {{inflection of|oc|aver||2|s|pres|ind}}
+
+----
+
+==Old French==
+
+===Etymology 1===
+{{rfe|fro}}
+
+====Noun====
+{{fro-noun|m}}
+
+# a score of [[one]] on a [[die]]
+
+=====Descendants=====
+* {{desc|frm|as}}
+** {{desc|fr|as}} {{see desc}}
+* {{desc|bor=1|dum|aes}}
+** {{desc|nl|aas}}
+*** {{desc|af|aas}}
+* {{desc|bor=1|enm|as}}
+** {{desc|en|ace}} {{see desc}}
+** {{desc|sco|ace}}
+
+===Etymology 2===
+<!--see the definition; same thing-->
+
+====Contraction====
+{{head|fro|contraction}}
+
+# {{alternative form of|fro|als|nodot=1}} ("to the")
+
+===Etymology 3===
+{{nonlemma}}
+
+====Verb====
+{{head|fro|verb form}}
+
+# {{inflection of|fro|avoir||2|s|pres|indc}}
+
+----
+
+==Old Irish==
+
+===Verb===
+{{head|sga|verb form|triggers lenition in a direct relative clause and eclipsis in an indirect relative clause}}
+
+# {{infl of|sga|is||3|s|pres|indc|relative}}
+
+===Pronoun===
+{{head|sga|prepositional pronoun}}
+
+# {{infl of|sga|a||3|s|m|t=out of}}
+
+====Alternative forms====
+* {{l|sga|ass}}
+* {{l|sga|es}}
 
 ----
 
 ==Old Prussian==
 
 ===Pronoun===
-{{infl|prg|pronoun}}
+{{head|prg|pronoun|plural|mes}}
 
-# [[I]], the first person singular pronoun
+# [[I]], the first-person singular pronoun
+
+----
+
+==Old Saxon==
+
+===Etymology===
+From {{inh|osx|gem-pro|*ansuz||god, deity}}.
+
+===Noun===
+{{osx-noun|g=m|head=ās}} (declension unknown)
+
+# [[god]]
+# the runic character '''{{lang|und|sc=Runr|[[ᚨ]]}}''' ({{IPAchar|/a/}} or {{IPAchar|/aː/}})
+
+----
+
+==Pennsylvania German==
+
+===Etymology===
+Compare {{cog|de|als}}, {{cog|nl|als}}, {{cog|en|as}}.
+
+===Conjunction===
+{{head|pdc|conjunction}}
+
+# [[as]]
+#: '''As''' ich des Poscht schreib...
+#:: As I write this post...
+# [[than]]
+# [[but]]
+
+===Pronoun===
+{{head|pdc|pronoun}}
+
+# {{lb|pdc|relative}} [[which]]
+# {{lb|pdc|relative}} [[who]]
+#: Leit '''as''' nix zu duh hen
+#:: People who have nothing to do
 
 ----
 
 ==Polish==
 
-===Noun===
-{{infl|pl|noun|g=m}}
+===Pronunciation===
+* {{pl-IPA}}
+* {{audio|pl|Pl-as.ogg|Audio}}
 
-# {{card games|lang=pl}} [[ace]]
+===Noun===
+{{pl-noun|m-an}}
+
+# {{lb|pl|card games}} [[ace]]
 
 ====Declension====
-{{pl-decl-noun
-|as|asy
-|asa|asów
-|asowi|asom
-|asa|asy
-|asem|asami
-|asie|asach
-|asie|asy
-}}
+{{pl-decl-noun-masc-inani|a|s|a}}
+
+===Noun===
+{{pl-noun|m-pr}}
+
+# [[ace]] (skilled [[pilot]])
+
+====Declension====
+{{pl-decl-noun-m-pr|a|s|asy}}
+
+===Further reading===
+* {{R:PWN}}
 
 ----
 
 ==Portuguese==
 
-===Pronunciation===
-* {{hyphenation|as}}
-
 ===Etymology===
-From {{etyl|la|pt}} ''[[illae]]''.
+From {{inh|pt|roa-opt|as}}, from {{inh|pt|la|illās}} (with an initial ''l'' having disappeared; compare {{cog|es|las}}).
+
+===Pronunciation===
+* {{a|PT}} {{IPA|pt|/ɐʃ/}}
+* {{a|Brazil}} {{IPA|pt|/as/}}
+** {{homophones|pt|ás|às|hás|az}}
+* {{hyphenation|pt|as}}
 
 ===Article===
 {{pt-article}}
 
-# {{pt-article form of|o|f|pl}}
-#: ''Lá vêm as nuvens'' = "There come the clouds."
+# {{senseid|pt|article}} {{inflection of|pt|o||f|p}}
+#* {{RQ:mul:Rowling Harry Potter|pt-BR|4|page=99|text=Todos olharam para trás ao alcançarem '''as''' árvores.|t=Everyone looked behind when they reached the trees.}}
+#* {{RQ:mul:Rowling Harry Potter|pt-BR|7|page=211|text=Mandaram lacrar todas '''as''' saídas e não deixar ninguém...|t=They ordered me to seal all the exits and not to let anyone...}}
+
+====Quotations====
+{{seeCites|pt|o}}
 
 ====See also====
 {{Portuguese articles}}
 
 ===Pronoun===
-{{infl|pt|pronoun|gender=f}} {{p}}
+{{head|pt|pronoun|g=f-p}}
 
-# {{context|third person personal}} [[them]] (''as a direct object''; ''the corresponding indirect object is [[lhes]]''; ''the form used after prepositions is [[elas]]'').
-#: ''Encontrei-as na rua.'' &mdash; I met them in the street.
+# {{senseid|pt|pronoun}} {{lb|pt|third person personal}} [[them]] (''as a direct object''; ''the corresponding indirect object is [[lhes]]''; ''the form used after prepositions is [[elas]]'').
+#: {{ux|pt|Encontrei-as na rua.|inline=1|I met them in the street.}}
 
 ====Usage notes====
 * [[As]] becomes -[[las]] after verb forms ending in ''-r, -s'', or ''-z'', the pronouns [[nos]] and [[vos]], and the adverb [[eis]]; the ending letter causing the change disappears.
-*: After [[ver]]: ''Posso vê-las?'' = "May I see them?"
-*: After [[por|pôs]]: ''Quero pô-las ali.'' = "I want to put them there."
-*: After [[fazer|fiz]]: ''Fi-las ficar contente.'' = "I made them become happy."
-*: After [[nos]]: ''Deu-no-las relutantemente.'' = "He gave them to us reluctantly."
-*: After [[eis]]: ''Ei-las!'' = "Behold them!"
+*: After [[ver]]: {{ux|pt|Posso vê-las?|inline=1|May I see them?}}
+*: After [[pôr]]: {{ux|pt|Quero pô-las ali.|inline=1|I want to put them there.}}
+*: After [[fazer|fiz]]: {{ux|pt|Fi-las ficar contente.|inline=1|I made them become happy.}}
+*: After [[nos]]: {{ux|pt|Deu-no-las relutantemente.|inline=1|He gave them to us reluctantly.}}
+*: After [[eis]]: {{ux|pt|Ei-las!|inline=1|Behold them!}}
 * Becomes -[[nas]] after a nasal diphthong: ''-ão, -am'' [ɐ̃w̃], ''-õe'' [õj̃], ''-em, -êm'' [ẽj̃].
-*: ''Detêm-nas como prisioneiros.'' = "They detain them as prisoners."
+*: {{ux|pt|Detêm-nas como prisioneiros.|inline=1|They detain them as prisoners.}}
 * In Brazil it is being abandoned in favor of the nominative form [[elas]].
-*: ''Eu as vi.'' → ''Eu vi elas.'' = "I saw them."
+*: ''Eu as vi.'' → ''Eu vi elas.'' = "I saw them.
+
+====Quotations====
+{{seeCites|pt}}
+
+====Synonyms====
+* {{l|pt|las}}, {{l|pt|nas}}
 
 ====See also====
 {{Portuguese personal pronouns}}
+
+===Noun===
+{{head|pt|noun form|g=m}}
+
+# {{inflection of|pt|a||p}}
+
+[[Category:Portuguese basic words]]
+
+----
+
+==Saterland Frisian==
+
+===Etymology===
+From {{inh|stq|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}}, {{m|ofs|alse}}, {{m|ofs|alsa}}, equivalent to {{affix|stq|al|so}}. More at {{l|en|as}}.
+
+===Adverb===
+{{head|stq|adverb}}
+
+# as
+
+===Conjunction===
+{{head|stq|conjunction}}
+
+# as
 
 ----
 
 ==Scottish Gaelic==
 
-===Preposition===
-{{infl|gla|preposition}}
+===Particle===
+{{head|gd|particle}}
 
-# [[out]], out of, [[from]]
-#* '''às''' a' mhachair, ''out of the field''
-#* tha an solus air dol '''às''', ''the light is gone out''
-#* cuir '''às''' da, ''kill him''
-#* chaidh e '''às''', ''he escaped''
-#* leig '''às''', ''let go''
-#* '''à''' taigh na daorsa, ''out of the house of bondage''
-#* dubh '''às''', ''blot out''
-#* '''às''' a chèile, ''loosened''
+# Creates the [[superlative]] when preceding the [[comparative]] form of an [[adjective]] or an [[adverb]].
+#: {{m|gd||glic|wise}} → {{m|gd||'''as''' glice|wisest}}
+#: {{m|gd||mòr|big}} → {{m|gd||'''as''' motha|biggest}}
 
 ====Usage notes====
-* '''à''' is used for '''às''' before consonants.
+* Only used in the [[present tense|present]] and [[future tense]]s. In the [[past tense]] and the [[conditional mood]], '''{{l|gd|a bu}}''' and '''{{l|gd|a b'}}''' are used.
+* [[lenite|Lenites]] initial '''f''' if followed by a [[vowel]]:
+*: ''fuar → '''as''' fhuaire''
+
+====Related terms====
+* {{l|gd|nas}}
 
 ----
 
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sh}} {{term|As|lang=de}}, from {{etyl|la|sh}} {{term|as||as, copper coin|lang=la}}.
+Borrowed from {{bor|sh|de|As}}, from {{der|sh|la|as||as, copper coin}}.
 
 ===Pronunciation===
-* {{IPA|/âs/|lang=sh}}
+* {{IPA|sh|/âs/}}
 
 ===Noun===
-{{sh-noun|g=m|head=ȁs|r|ас|а̏с}}
+{{sh-noun|g=m|head=ȁs}}
 
-# {{card games|sports|lang=sh}} [[ace]]
+# {{lb|sh|card games|sports}} [[ace]]
 
 ====Declension====
-{{sh-decl-noun
-|as|asovi
+{{sh-decl-noun|as|asovi
 |asa|asova
 |asu|asovima
 |as / asa|asove
@@ -707,77 +1522,116 @@ From {{etyl|de|sh}} {{term|As|lang=de}}, from {{etyl|la|sh}} {{term|as||as, copp
 |asom|asovima
 }}
 
+====See also====
+{{table:playing cards/sh|sc=Latn}}
+
 ----
 
 ==Slovene==
 
-===Noun===
-{{sl-noun|m|dual=asa|asi}}
+===Pronunciation===
+* {{sl-IPA|ȃs}}
 
-# {{card games|lang=sl}} An [[ace]]; in a game of cards.
+===Noun===
+{{sl-noun|ȃs|m-an}}
+
+# {{lb|sl|card games}} An [[ace]]; in a game of cards.
 # An [[ace]]; somebody very [[proficient]] at an activity.
+
+====Inflection====
+{{sl-decl-noun-m|ás|a=1}}
+
+====See also====
+{{table:playing cards/sl}}
 
 ----
 
 ==Spanish==
 
-===Noun===
-{{es-noun-m|plural=ases}}
+===Etymology===
+From {{der|es|la|as}}.
 
-# {{card games|lang=es}} An [[ace]]; in a game of cards.
-# An [[ace]]; somebody very [[proficient]] at an activity.
+===Pronunciation===
+* {{es-IPA}}
+* {{homophones|es|has|haz}} {{q|non-Castilian}}
+
+===Noun===
+{{es-noun|m|ases}}
+
+# {{lb|es|card games}} an [[ace]] {{gloss|in a game of cards}}
+# an [[ace]], a [[hotshot]] {{gloss|somebody very [[proficient]] at an activity}}
+# an {{l|en|as#Noun}} {{gloss|a Roman coin}}.
+
+====Derived terms====
+{{col3|es
+|as de guía
+}}
+
+===Further reading===
+* {{R:DRAE 2001}}
+
+{{topics|es|Currency}}
 
 ----
 
 ==Swedish==
 
 ===Etymology 1===
-Unknown
+From {{der|sv|gml|âs}}.
 
 ====Noun====
-{{infl|sv|noun|g=n}}
-{{sv-noun-irreg-n|3=as|5=as|7=as}}
+{{sv-noun|n}}
 
 # [[carrion|Carrion]], [[carcass]] (''of an [[animal]] killed by a [[predator]]'').
-# {{slang|lang=sv}} Derogatory and offensive term describing or addressing a person whose behaviour is considered as inconsiderate towards others.
-#: ''Dra åt helvete ditt jävla '''as'''!''
-#:: "Go to hell you bloody arsehole!"
+# {{lb|sv|slang}} Derogatory and offensive term describing or addressing a person whose behaviour is considered as inconsiderate towards others.
+#: {{ux|sv|Dra åt helvete ditt jävla '''as'''!|inline=1|Go to hell you bloody arse!}}
+
+=====Declension=====
+{{sv-noun-irreg-n|3=as|5=as|7=as}}
 
 =====Derived terms=====
-* [[asätare]]
+* {{l|sv|asätare}}
 
 ===Etymology 2===
-Unknown
+From {{der|sv|non|áss}}.
 
 ====Noun====
-{{sv-noun-irreg-c|3=asar|5=as}}
+{{sv-noun|c}}
 
 # One of the [[Æsir]], a Norse God.
 
+=====Declension=====
+{{sv-noun-irreg-c|3=asar|5=as}}
+
 =====Synonyms=====
-* [[asagud]]
+* {{l|sv|asagud}}
+
+===Anagrams===
+* {{anagrams|sv|a=as|sa}}
 
 ----
 
 ==Tok Pisin==
 
 ===Etymology===
-From {{etyl|en|tpi}} ''[[arse]]''.
+From {{der|tpi|en|arse}}.
 
 ===Noun===
-{{infl|tpi|noun}}
+{{head|tpi|noun}}
 
 # [[buttock]]s, [[backside]]
 # [[bottom]], [[base]]
 # [[reason]], [[meaning]], [[motivation]]
+# [[beginning]], [[source]]
 
 ====Derived terms====
-* [[asbin]]
-* [[asples]]
-* [[as bilong tok]]
-* [[as bilong trabel]]
-* [[as tingting]]
-* [[as tok]]
+{{der3|tpi|asbin
+|asples
+|as bilong trabel
+|as nating
+|astingting
+|astok
+}}
 
 [[Category:tpi:Anatomy]]
 
@@ -785,89 +1639,100 @@ From {{etyl|en|tpi}} ''[[arse]]''.
 
 ==Turkish==
 
-===Noun===
-{{infl|tr|noun}}
+===Etymology 1===
+From {{inh|tr|ota|آص|tr=as}}, from {{der|tr|trk-pro|*argun}}, {{m|trk-pro|*āŕ}}.
 
-# {{card games|lang=tr}} The ace in card games.
+====Noun====
+{{tr-noun|ı|lar}}
+
+# [[ermine]]
+#: {{syn|tr|kakım|ermin}}
+# {{lb|tr|dialectal}} [[weasel]]
+
+===Etymology 2===
+Borrowed from {{bor|tr|fr|as}}. Note that in {{cog|ota|-}} until its end – though it be that playing cards had been introduced in Turkey by Europeans and French in particular – the card was called {{m|ota|بك|tr=bey}}. Apparently this usage switch is a function of the Law on the Abolishment of Nicknames and Titles from the 26th of November 1934 ({{w|lang=tr|Lâkap ve Unvanların Kaldırılması Hakkındaki Kanun}}). 
+
+====Noun====
+{{tr-noun|ı|lar}}
+
+# {{lb|tr|card games}} [[ace]]
+
+=====Coordinate terms=====
+* {{table:playing cards/tr}}
+
+===Etymology 3===
+
+====Verb====
+{{tr-verb form}}
+
+# {{inflection of|tr|asmak||2|s|imp}}
 
 ----
 
-==[[Volapük]]==
+==Volapük==
 
 ===Preposition===
-{{infl|vo|preposition}} ''('''[[ays]]''', '''[[äs]]''')''
+{{head|vo|preposition}} ''('''[[ays]]''', '''[[äs]]''')''
 
-# [[#English|as]]
+# {{l|en|as}}
 
 ----
 
-==[[West Frisian]]==
+==Wagi==
 
-===Pronunciation===
+===Noun===
+{{head|fad|noun}}
 
-* {{IPA|/ɔs/|lang=fy}}
+# [[woman]]
 
-===Conjunction===
-{{infl|fy|conjunction}}
+===Further reading===
+* J. Spencer, S. van Cott, B. MacKenzie, G. Muñoz, ''A Sociolinguistic Survey of the Wagi [fad] Language''
+
+----
+
+==West Frisian==
+
+===Etymology 1===
+From {{inh|fy|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}}, {{m|ofs|alse}}, {{m|ofs|alsa}}, equivalent to {{affix|stq|al|so}}. More at {{l|en|as}}.
+
+====Pronunciation====
+* {{IPA|fy|/ɔs/|/as/}}
+
+====Conjunction====
+{{head|fy|conjunction}}
 
 # [[if]], [[provided that]]
-# as, [[like]]
+# [[#English|as]], [[like]] {{qualifier|used to form an equating phrase}}
+#: {{ux|fy|Grut '''as''' in hûs.|inline=1|Big '''as''' a house.}}
+# [[than]]
+#: {{ux|fy|Grutter '''as''' in hûs.|inline=1|Bigger '''than''' a house.}}
 
-===Noun===
-{{infl|fy|noun}}
+=====Further reading=====
+* {{R:WFT|2025|II}}
+
+===Etymology 2===
+From {{inh|fy|ofs|*ax}}, from {{inh|ofs|gem-pro|*ahsō}}.
+
+====Pronunciation====
+* {{IPA|fy|/ɔs/}}
+
+====Noun====
+{{fy-noun|c|assen|aske}}
 
 # [[axis]]
-# [[axle]]
+# [[axle]] {{gloss|of a car}}
 
-===Preposition===
-{{infl|fy|preposition}}
+=====Further reading=====
+* {{R:WFT|2024|I}}
 
-# [[as]] ''(used to form an equating phrase)''
-#: ''Grut '''as''' in hûs'' -- Big '''as''' a house
-# [[than]]
-#: ''Grutter '''as''' in hûs'' -- Bigger '''than''' a house
+----
 
-[[af:as]]
-[[ar:as]]
-[[da:as]]
-[[de:as]]
-[[et:as]]
-[[el:as]]
-[[es:as]]
-[[fr:as]]
-[[gl:as]]
-[[ko:as]]
-[[hy:as]]
-[[io:as]]
-[[id:as]]
-[[ie:as]]
-[[it:as]]
-[[kk:as]]
-[[ku:as]]
-[[la:as]]
-[[lt:as]]
-[[li:as]]
-[[hu:as]]
-[[ml:as]]
-[[nl:as]]
-[[ja:as]]
-[[no:as]]
-[[pl:as]]
-[[pt:as]]
-[[qu:as]]
-[[ru:as]]
-[[simple:as]]
-[[sl:as]]
-[[fi:as]]
-[[sv:as]]
-[[ta:as]]
-[[te:as]]
-[[th:as]]
-[[tr:as]]
-[[tk:as]]
-[[uk:as]]
-[[vi:as]]
-[[vo:as]]
-[[wa:as]]
-[[wo:as]]
-[[zh:as]]
+==Wolof==
+
+===Article===
+{{head|wo|article}}
+
+# [[a]] [[small]] {{gloss|singular diminutive indefinite article}}
+
+====Usage notes====
+Precedes the noun.
