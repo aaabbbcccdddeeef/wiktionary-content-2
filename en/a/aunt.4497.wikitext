@@ -4,22 +4,22 @@
 From {{inh|en|enm|aunte}}, borrowed from {{bor|en|xno|aunte}}, from {{der|en|fro|ante}}, from {{der|en|la|amita||father's sister}}. Displaced native {{cog|enm|modrie||aunt}} (from {{cog|ang|mōdriġe||maternal aunt}}; compare {{cog|ang||[[faþu#Old English|faþu]], [[faþe#Old English|faþe]]|paternal aunt}}).
 
 ===Pronunciation===
-* {{a|RP|Australia|New England|AAVE|some other US areas}} {{enPR|änt}}, {{IPA|/ɑ(ː)nt/|lang=en}}<ref name="dialect" />
-*: {{audio|en-us-aunt-2.ogg|Audio (US)|lang=en}}
-* {{audio|LL-Q1860 (eng)-Nattes à chat-aunt.wav|Audio|lang=en}}
-*: {{rhymes|ɑːnt|lang=en}}
-*: {{homophones|lang=en|aren't}} {{qualifier|in some [[non-rhotic]] accents}}
-* {{a|Northern England|Canada|GenAm}} {{enPR|ănt}}, {{IPA|/ænt/|lang=en}} {{qualifier|in the US, this is the most common pronunciation in all regions except New England and Virginia}}<ref name="dialect">[http://www4.uwm.edu/FLL/linguistics/dialect/staticmaps/q_1.html The Dialect Survey] of US pronunciations</ref>
-*: {{rhymes|ænt|lang=en}}
-*: {{homophones|lang=en|ant}}
-*: {{audio|en-us-aunt.ogg|Audio (US)|lang=en}}
-* {{a|Scotland}} {{IPA|/ant/|lang=en}}
-* {{a|Canada|Maritimes}} {{IPA|/ɒnt/|lang=en}}
-*: {{rhymes|ɒnt|lang=en}}
-* {{a|New England}} {{enPR|ônt}}, {{IPA|/ɔnt/|lang=en}}<ref name="dialect" />
-*: {{rhymes|ɔːnt|lang=en}}
-* {{a|Southern US|occasionally}} {{IPA|/eɪnt/|lang=en}}<ref name="dialect" />
-*: {{homophones|lang=en|ain't}}
+* {{a|RP|Australia|New England|AAVE|some other US areas}} {{enPR|änt}}, {{IPA|en|/ɑ(ː)nt/}}<ref name="dialect" />
+*: {{audio|en|en-us-aunt-2.ogg|Audio (US)}}
+* {{audio|en|LL-Q1860 (eng)-Nattes à chat-aunt.wav|Audio}}
+*: {{rhymes|en|ɑːnt}}
+*: {{homophones|en|aren't}} {{qualifier|in some [[non-rhotic]] accents}}
+* {{a|Northern England|Canada|GenAm}} {{enPR|ănt}}, {{IPA|en|/ænt/}} {{qualifier|in the US, this is the most common pronunciation in all regions except New England and Virginia}}<ref name="dialect">[http://www4.uwm.edu/FLL/linguistics/dialect/staticmaps/q_1.html The Dialect Survey] of US pronunciations</ref>
+*: {{rhymes|en|ænt}}
+*: {{homophones|en|ant}}
+*: {{audio|en|en-us-aunt.ogg|Audio (US)}}
+* {{a|Scotland}} {{IPA|en|/ant/}}
+* {{a|Canada|Maritimes}} {{IPA|en|/ɒnt/}}
+*: {{rhymes|en|ɒnt}}
+* {{a|New England}} {{enPR|ônt}}, {{IPA|en|/ɔnt/}}<ref name="dialect" />
+*: {{rhymes|en|ɔːnt}}
+* {{a|Southern US|occasionally}} {{IPA|en|/eɪnt/}}<ref name="dialect" />
+*: {{homophones|en|ain't}}
 
 ===Noun===
 {{en-noun}}
@@ -27,6 +27,7 @@ From {{inh|en|enm|aunte}}, borrowed from {{bor|en|xno|aunte}}, from {{der|en|fro
 # The [[sister]] or [[sister-in-law]] of one’s parent.
 #* '''1923''', [[w:P.G. Wodehouse|P.G. Wodehouse]], ''The Inimitable Jeeves'':
 #*: As a rule, you see, I'm not lugged into Family [[row|Rows]]. On the occasions when '''Aunt''' is calling to '''Aunt''' like [[mastodon]]s bellowing across primeval swamps and Uncle James's letter about Cousin Mabel's peculiar behaviour is being shot round the family circle... the clan has a tendency to ignore me.
+# {{lb|en|affectionate}} The female [[cousin]] of one’s parent.
 # {{lb|en|affectionate}} A woman of an older generation than oneself, especially a friend of one's parents, by means of [[fictive kin]].
 # {{lb|en|obsolete}} Any elderly woman.
 # {{lb|en|obsolete}} A [[procuress]] or [[bawd]].
@@ -61,7 +62,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Amharic: {{t|am|ኣከስት|sc=Ethi}}
 * Arabic: {{gloss|paternal}} {{t+|ar|عَمَّة|f}}, {{gloss|maternal}} {{t+|ar|خَالَة|f}}
 * Armenian: {{t+|hy|հորաքույր}} {{gloss|paternal}}, {{t+|hy|մորաքույր}} {{gloss|maternal}}, {{t+|hy|քեռակին}} {{gloss|in law}}
-* Assamese: {{l|as|পেহী}}, {{l|as|জেঠাই}}, {{t|as|মাহী}}, {{t|as|খুৰী}}, {{t|as|বৰমা|tr=borma}}
+* Assamese: {{l|as|পেহী}}, {{l|as|জেঠাই}}, {{t|as|মাহী}}, {{t|as|খুৰী}}, {{t|as|বৰমা}}
 * Asturian: {{t+|ast|tía|f}}
 * Azerbaijani: {{t+|az|xala}}, {{t+|az|bibi}}
 * Bakhtiari: {{gloss|paternal}} {{t|bqi|کچی|tr=keči|sc=fa-Arab}}
@@ -75,18 +76,19 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Central Dusun: {{t|dtp|inai}}
 * Chichewa: {{t|ny|bambo wamkazi}} {{qualifier|father's sister}}, {{t|ny|mayi}} {{qualifier|mother's sister}}, {{t|ny|mayi wamkulu}} {{qualifier|mother's older sister}}, {{t|ny|mayi wamng'ono}} {{qualifier|mother's younger sister}}
 * Chinese:
+*: Cantonese: {{t+|yue|姑媽}}, {{t|yue|姑妈|tr=gu1 maa1}} {{qualifier|father's elder sister}}, {{t+|yue|姑姐|tr=gu1 ze1}} {{qualifier|father's younger sister}}, {{t|yue|伯娘|tr=baak3 noeng4}} {{qualifier|father's elder brother's wife}}, {{t|yue|阿嬸}}, {{t|yue|阿婶|tr=aa3 sam2}} {{qualifier|father's younger brother's wife}}, {{t+|yue|姨媽}}, {{t|yue|姨妈|tr=ji4 maa1}} {{qualifier|mother's elder sister}}, {{t|yue|阿姨|tr=aa3 ji4-1}} {{qualifier|mother's younger sister}}, {{t+|yue|舅母|tr=kau5 mou5}} {{qualifier|mother's brother's wife}}
 *: Mandarin:
-*:: {{sense|father's sister}} {{t+|cmn|姑|tr=gū|sc=Hani}}, {{t+|cmn|姑媽|sc=Hani}}, {{t+|cmn|姑妈|tr=gūmā|sc=Hani}}, {{t+|cmn|姑姑|tr=gūgu|sc=Hani}}, {{t+|cmn|姑母|tr=gūmǔ|sc=Hani}}
-*:: {{sense|father’s elder brother’s wife}} {{t+|cmn|伯母|tr=bómǔ|sc=Hani}}
-*:: {{sense|father’s younger brother’s wife}} {{t+|cmn|叔母|tr=shúmǔ|sc=Hani}}, {{t+|cmn|嬸母|sc=Hani}}, {{t+|cmn|婶母|tr=shěnmǔ|sc=Hani}}, {{t+|cmn|嬸嬸|sc=Hani}}, {{t+|cmn|婶婶|tr=shěnshen|sc=Hani}}
-*:: {{sense|maternal}} {{t+|cmn|姨|tr=yí|sc=Hani}}, {{t+|cmn|姨媽|sc=Hani}}, {{t+|cmn|姨妈|tr=yímā|sc=Hani}}, {{t+|cmn|阿姨|tr=āyí|sc=Hani}}, {{t+|cmn|姨母|tr=yímǔ|sc=Hani}};
-*:: {{sense|in-law}} {{t+|cmn|舅母|tr=jiùmǔ|sc=Hani}}, {{t+|cmn|舅媽|sc=Hani}}, {{t+|cmn|舅妈|tr=jiùmā|sc=Hani}}, {{t|cmn|妗母|tr=jìnmǔ|sc=Hani}}, {{t+|cmn|妗|tr=jìn|sc=Hani}}
+*:: {{sense|father's sister}} {{t+|cmn|姑|tr=gū}}, {{t+|cmn|姑媽}}, {{t+|cmn|姑妈|tr=gūmā}}, {{t+|cmn|姑姑|tr=gūgu}}, {{t+|cmn|姑母|tr=gūmǔ}}
+*:: {{sense|father's elder brother's wife}} {{t+|cmn|伯母|tr=bómǔ}}, {{t+|cmn|大娘|tr=dàniáng}}
+*:: {{sense|father's younger brother's wife}} {{t+|cmn|叔母|tr=shúmǔ}}, {{t+|cmn|嬸母}}, {{t+|cmn|婶母|tr=shěnmǔ}}, {{t+|cmn|嬸嬸}}, {{t+|cmn|婶婶|tr=shěnshen}}
+*:: {{sense|mother's sister}} {{t+|cmn|姨|tr=yí}}, {{t+|cmn|姨媽}}, {{t+|cmn|姨妈|tr=yímā}}, {{t+|cmn|阿姨|tr=āyí}}, {{t+|cmn|姨母|tr=yímǔ}};
+*:: {{sense|mother's brother's wife}} {{t+|cmn|舅母|tr=jiùmǔ}}, {{t+|cmn|舅媽}}, {{t+|cmn|舅妈|tr=jiùmā}}, {{t+|cmn|妗母|tr=jìnmǔ}}, {{t+|cmn|妗子|tr=jìnzi}}
 * Chinook Jargon: {{t|chn|kwalh}}
 * Cornish: {{t|kw|modrep}}
 * Czech: {{t+|cs|teta|f}}
 * Danish: {{t+|da|tante}}, {{t+|da|faster}} {{qual|father's sister}}, {{t+|da|moster}} {{qual|mother's sister}}
 * Dutch: {{t+|nl|tante|f}}
-* Esperanto: {{t|eo|onklino}}
+* Esperanto: {{t+|eo|onklino}}
 * Estonian: {{t+|et|tädi}}
 * Ewe: {{gloss|paternal}} {{t|ee|tasi}}, {{t|ee|te}}, {{gloss|mother's elder sister}} {{t|ee|dagã}}, {{t|ee|nɔgã}}, {{gloss|mother's younger sister}} {{t|ee|daɖia}}, {{t|ee|nɔɖi}}
 * Faroese: {{t|fo|fastir|f}} {{qualifier|paternal}}, {{t|fo|mostir|f}} {{qualifier|maternal}}
@@ -121,7 +123,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Krisa: {{t|ksi|wini}} {{gloss|paternal}}, {{t|ksi|moni baʼ}} {{gloss|mother's elder sister}}, {{t|ksi|moni pung}} {{gloss|mother's younger sister}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|xaltî}}, {{t+|kmr|met}}
-*: Sorani: {{t+|ku|پوور|tr=pûr|sc=ku-Arab}}
+*: Sorani: {{t+|ku|پوور}}
 *: Southern Kurdish: {{t|sdh|میمِگ}}
 * Latgalian: {{t|ltg|cjoceite}}
 * Latin: {{t+|la|amita}} {{gloss|paternal}}, {{t+|la|mātertera}} {{gloss|maternal}}
@@ -165,6 +167,8 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Skolt Sami: {{t|sms|sieˊss}} {{qualifier|paternal}}
 * Slovak: {{t+|sk|teta|f}}
 * Slovene: {{t+|sl|teta|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb| śota|f}}
 * Spanish: {{t+|es|tía|f}}
 * Sudovian: {{t|xsv|mosa|f}}
 * Sundanese: {{t|su|ébé}}
@@ -172,6 +176,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Swedish: {{t+|sv|faster|c}} {{gloss|paternal}}, {{t+|sv|moster|c}} {{gloss|maternal}}, {{t+|sv|tant|c}} {{gloss|in-law}}
 * Tagalog: {{t+|tl|tita}}, {{t|tl|tiya}}, {{t|tl|tiyahin}}
 * Telugu: {{gloss|paternal}} {{t+|te|అత్త}}, {{gloss|maternal}} {{t+|te|పిన్ని}}, {{t+|te|పెదమ్మ}}, {{gloss|maternal, in-law}} {{t+|te|అత్త}}
+* Thai: {{t+|th|ป้า}} {{qualifier|both elder sister}}, {{t+|th|อา}} {{q|father's younger sister}}, {{t+|th|น้า}} {{q|mother's younger sister}}
 * Tibetan: {{t|bo|སྲུ་མོ}} {{qualifier|maternal}}, {{t|bo|ཨ་ནེ}} {{qualifier|paternal}}
 * Turkish: {{t+|tr|hala}}, {{t+|tr|bibi}}, {{t+|tr|eme}} {{gloss|paternal}}, {{t+|tr|teyze}} {{gloss|maternal}}, {{t+|tr|yenge}} {{gloss|in-law}}
 * Turkmen: {{t|tk|daýza}}
@@ -183,6 +188,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Welsh: {{t+|cy|modryb|f}}, {{t+|cy|modrybedd|f-p}}
 * West Frisian: {{t+|fy|muoike|c}}
 * Yiddish: {{t|yi|מומע|f}}
+* Yámana: {{t|yag|tanowa-kipa}}
 * Zazaki: {{t|zza|ām}}, {{t|zza|xale}}
 {{trans-bottom}}
 
@@ -208,7 +214,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 * Korean: {{t+|ko|아주머니}}, {{t+|ko|아줌마}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{t+|ku|خاتۆ|tr=xato|sc=ku-Arab}}, {{t+|ku|خان|tr=xan|sc=ku-Arab}}
+*: Sorani: {{t+|ku|خاتۆ|sc=ku-Arab}}, {{t+|ku|خان|sc=ku-Arab}}
 * Latvian: {{t|lv|tante}}
 * Malay: {{t|ms|makcik}}
 * Marathi: {{t|mr|काकू|f|sc=Deva}}, {{t|mr|माउशी|f|sc=Deva}}
@@ -220,6 +226,7 @@ Several languages distinguish between blood aunts (one’s parent’s sister) an
 *: Roman: {{t+|sh|teta|f}}
 * Slovene: {{t+|sl|teta|f}}
 * Swedish: {{t+|sv|tant|c}}
+* Thai: {{t+|th|ป้า}}
 * Turkish: {{t+|tr|teyze}}
 {{trans-bottom}}
 
