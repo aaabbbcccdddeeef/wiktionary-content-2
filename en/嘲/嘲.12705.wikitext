@@ -63,8 +63,6 @@
 ===Kanji===
 {{ja-kanji|grade=c|rs=口12}}
 
-# [[ridicule]], [[insult]]
-
 ====Readings====
 {{ja-readings
 |goon=ちょう<てう
@@ -73,41 +71,38 @@
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|嘲花|^ちょうか}}
-* {{ja-r|嘲戯|ちょうぎ}}
-* {{ja-r|嘲謔|ちょうぎゃく}}
-* {{ja-r|嘲%斎坊|ちょう%さいぼう}}
-* {{ja-r|嘲殺|ちょうさつ}}
-* {{ja-r|嘲笑|ちょうしょう}}
-* {{ja-r|嘲罵|ちょうば}}
-* {{ja-r|嘲風|^ちょうふう}}
-* {{ja-r|嘲弄|ちょうろう}}
-* {{ja-r|嘲風|^とうふう}}
-* {{ja-r|解嘲|かいとう}}, {{ja-r|解嘲|かいちょう}}
-* {{ja-r|自%嘲|じ%ちょう}}
-* {{ja-r|侮%嘲|ぶ%ちょう}}
-* {{ja-r|冷嘲|れいちょう}}
+* {{ja-r|嘲%風|^とう%ふう}}
+* {{ja-r|解%嘲|かい%とう}}
 * {{ja-r|嘲%笑う|あざ%わらう}}
-{{der-bottom}}
 
 ===Etymology===
 {{ja-kanjitab|ちょう|yomi=goon}}
-{{IPAfont|*/teu/}} → {{IPAchar|/t͡səu/}} → {{IPAchar|/t͡ɕɔː/}} → {{IPAchar|/t͡ɕoː/}}
-
-Appears in {{m|ja|洒落本|tr={{w|sharebon}}}} texts in the mid-late {{w|Edo period}}.
+{{IPAfont|/teu/}} → {{IPAchar|/t͡seu/}} → {{IPAchar|/t͡ɕoː/}}
 
 From {{der|ja|ltc|sort=ちよう|-}} {{ltc-l|嘲}}.
 
-===Verb===
-{{ja-verb|head=嘲[[す]]|ちょうす|hhira=てうす}}
+===Affix===
+{{ja-pos|affix|ちょう|hhira=てう}}
 
-# {{lb|ja|archaic|obsolete|sort=ちよう}} to [[ridicule]], [[scorn]]
-#: {{syn|ja|嘲る|tr=azakeru|[[嘲弄]]する|tr2=chōrō suru|馬鹿にする|tr3=baka ni suru}}
+# [[ridicule#Noun|ridicule]], [[insult#Noun|insult]], [[scorn#Noun|scorn]], [[sneer#Noun|sneer]]
 
-{{ja-verb|head=嘲[[す]]|type=yo|ちょうす|hhira=てうす}}
-
-# {{lb|ja|archaic|obsolete|sort=ちよう}} ''Same as above''
+====Derived terms====
+{{der-top3}}
+* {{ja-r|嘲す|ちょうす}}
+* {{ja-r|嘲%花|^ちょう%か}}
+* {{ja-r|嘲%戯|ちょう%ぎ}}
+* {{ja-r|嘲%謔|ちょう%ぎゃく}}
+* {{ja-r|嘲%斎%坊|ちょう%さい%ぼう}}
+* {{ja-r|嘲%殺|ちょう%さつ}}
+* {{ja-r|嘲%笑|ちょう%しょう}}
+* {{ja-r|嘲%罵|ちょう%ば}}
+* {{ja-r|嘲%風|^ちょう%ふう}}
+* {{ja-r|嘲%弄|ちょう%ろう}}
+* {{ja-r|解嘲|かい%ちょう}}
+* {{ja-r|自%嘲|じ%ちょう}}
+* {{ja-r|侮%嘲|ぶ%ちょう}}
+* {{ja-r|冷嘲|れい%ちょう}}
+{{der-bottom}}
 
 ----
 
@@ -128,9 +123,9 @@ From {{der|ja|ltc|sort=ちよう|-}} {{ltc-l|嘲}}.
 # Chữ Nôm writing system character for [[chào]] which means ''hello''.
 
 ===Compounds===
-* [[嘲𣇜𤏬]]
-* [[吀嘲]]
-* [[嘲𣇜𣋁]]
-* [[祝𥄬𤯆]]
-* [[嘲英]]
-* [[嘲姊]]
+* {{vi-l|嘲𣇜𤏬}}
+* {{vi-l|吀嘲}}
+* {{vi-l|嘲𣇜𣋁}}
+* {{vi-l|祝𥄬𤯆}}
+* {{vi-l|嘲英}}
+* {{vi-l|嘲姊}}
