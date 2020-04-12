@@ -23,6 +23,20 @@
 {{Han etym}}
 {{Han compound|步|戉|c1=s|c2=p|ls=psc}}.
 
+===Etymology===
+A derivative of {{och-l|越|to pass over|id=2}} ({{zh-ref|Mei, 1979, 1992}}). Ultimately probably from {{inh|zh|sit-pro|*grwat||to travel; to go through}}; compare {{cog|bo|སྐྱོད||to go}} ({{zh-ref|Mei, 1979, 1992}}; {{zh-ref|Gong, 2001}}; STEDT).
+
+The functions of the ''*s-'' prefix and the ''*-s'' suffix are not clear. Possible explanations include:
+* ''*s-'' as a [[directive]] prefix and ''*-s'' as a [[nominalizer]] ({{zh-ref|Mei, 1992}});
+* ''*s-'' is an [[iterative]] prefix, literally "to pass on again" ({{zh-ref|Schuessler, 2007}});
+* ''*s-'' (possibly with ''*-s'') as a [[nominalizer]] ({{zh-ref|Smith, 2012}}).
+
+Alternatively, it may be derived from a word like {{och-l|圓|round; circle}} (< {{inh|zh|sit-pro|*wal||round; circular}}), literally "to start the circle/cycle again" ({{zh-ref|Schuessler, 2007}}).
+
+Outside of Sino-Tibetan, this word has been compared to {{cog|th|ขวบ||year}}, which {{zh-ref|Bodman (1980)}} considers to be a loan from Chinese, as well as {{cog|map-pro|*kawaS||year; season; sky}} ({{zh-ref|Sagart, 2005}}).
+
+Also see {{zh-ref|Schuessler (2007)}} and {{zh-ref|Smith (2012)}} for a discussion on the semantic development of this word, especially the connection between "Jupiter" and "year".
+
 ===Pronunciation===
 {{zh-pron
 |m=suì
@@ -32,7 +46,7 @@
 |c-t=lhui1
 |g=sui4
 |h=pfs=se/soi/sui;gd=sê4/sui4
-|h_note=sê4 - vernacular; sui4 - literary
+|h_note=Meixian: sê4 - vernacular; sui4 - literary
 |j=sui3
 |mb=hṳe̿/sṳ̿
 |mb_note=hṳe̿ - vernacular; sṳ̿ - literary
@@ -53,17 +67,19 @@
 ===Definitions===
 {{zh-hanzi}}
 
-# {{lb|zh|classical}} [[Jupiter]] {{gloss|planet}}
-# a [[year]] of the [[duodecennial]] [[Jovian]] [[orbital]] [[cycle]] or of the {{w|Chinese sexagenary cycle|sexagenary cycle}} [[base]]d upon it, {{lb|zh|particularly}} [[use]]d in [[discussion]] of [[age]].
+# {{lb|zh|literary}} [[Jupiter]] {{gloss|planet}}
+# [[year]]
+#* {{zh-x|子.曰：「歲 寒，然 後 知 松柏 之 後 彫[凋]{diāo} 也。」|The Master said, "When the '''year''' becomes cold, then we know how the pine and the cypress are the last to lose their leaves."|ref=Analects|CL}}
+# {{w|Tai Sui}}, the [[god]] [[represent]]ing [[each]] of [[these]] [[year]]s
+# {{lb|zh|literary}} [[age]]
+# {{lb|zh|literary}} [[time]]; [[period]]
+# {{lb|zh|literary}} [[crop]] [[harvest]]s of the [[year]]
+#* {{zh-x|苟 無 歲，何 有 民？苟 無 民，何 有 君？|Whence the people, if not for '''the harvests'''? Whence the prince, if not for the people?|ref=Zhanguoce}}
+# {{zh-classifier|time|t=[[year]]}}
+# {{zh-classifier|age (of a person or animal)|t=[[year]] old}}
 #: {{zh-x|你 現在 幾 歲？|How old are you now?}}
 #: {{zh-x|我 十八 歲。|I am 18 '''years''' old.}}
 #: {{zh-x|一個 十 歲 的 女孩|a ten-'''year'''-old girl}}
-#: {{zh-x|子.曰：「歲 寒，然 後 知 松柏 之 後 彫[凋]{diāo} 也。」|The Master said, "When the '''year''' becomes cold, then we know how the pine and the cypress are the last to lose their leaves."|ref=Analects|CL}}
-# {{w|Tai Sui}}, the [[god]] [[represent]]ing [[each]] of [[these]] [[year]]s
-# [[age]]
-# [[time]]; [[period]]
-# [[crop]] [[harvest]]s of the [[year]]
-#: {{zh-x|苟 無 歲，何 有 民？苟 無 民，何 有 君？|Whence the people, if not for '''the harvests'''? Whence the prince, if not for the people?|ref=Zhanguoce}}
 
 ====Usage notes====
 Ages in {{lang|zh|歲}} are traditionally reckoned using the Chinese lunar calendar, considered as 1 year old at the moment of birth and increasing not during birthdays, but at the [[Chinese New Year]].
