@@ -36,6 +36,9 @@
 # {{lb|zh|mahjong}} [[kong]]
 # {{lb|zh|neologism}} {{zh-short|抬槓}}
 
+====Descendants====
+* {{desc|ja|槓|tr=kan}}
+
 ===Compounds===
 {{zh-der|槓桿|保險槓|大槓|倔槓頭|單槓|大抬其槓|暗槓|槓夫|攀槓子|穿心槓子|槓頭|槓桿定律|槓子|槓刀|插槓子|敲竹槓|盤槓子|槓房|搶槓|槓子頭|槓牌|槓龜|槓鈴|槓子火燒|槓刀布|槓上了|槓上開花|撬槓|抬槓|雙槓|高低槓|開槓|竹槓|起槓}}
 
@@ -56,38 +59,38 @@
 }}
 
 ====Compounds====
-* {{ja-r|槓桿|こうかん|[[lever]]}}
+* {{ja-r|槓%桿|こう%かん|[[lever]]}}
 
 ===Etymology===
-{{wp|lang=ja}}
-{{ja-kanjitab|かん|yomi=irr}}
-Borrowing from {{bor|ja|cmn|sort=かん|-}} {{zh-l|槓|tr=gàng}}.<ref name="DJS">{{R:Daijisen}}</ref>
+{{ja-kanjitab|yomi=i|カン}}
+
+From {{bor|ja|cmn|sort=かん|槓|tr=gàng}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
 ===Pronunciation===
-{{ja-pron|yomi=irr|カン}}
+{{ja-pron|カン}}
 
 ===Noun===
 {{ja-noun|カン}}
 
-# {{lb|ja|mahjong|sort=かん}} {{short for|ja|槓子|tr=kantsu|nodot=1|sort=かん}}: [[kong]] {{gloss|[[meld]] of [[four]] [[identical]] [[tile]]s}}
-## a {{m|ja|大明槓|tr=dai-minkan}}: [[open]] ''kan''
-## a {{m|ja|小明槓|tr=shō-minkan}} or {{m|ja|加槓|tr=kakan}}: [[add]]ed ''kan''
-## a {{m|ja|暗槓|tr=ankan}}: [[close]]d ''kan''
-# {{lb|ja|mahjong|sort=かん}} a [[call]] for such a meld
+# {{lb|ja|mahjong|sort=かん}} {{short for|ja|槓子|tr=kantsu|dot=:|sort=かん}} a [[four of a kind]]
+# {{lb|ja|mahjong}} a [[call]] for such a [[hand]] (compare {{ncog|en|kong}}):
+## for a {{m|ja|明槓|tr=minkan||[[open]] ''kan''}}, the player calling should have a {{m|ja|暗刻|tr=ankō||[[closed]] [[triplet]]}} in hand and the [[current]] [[discard]]ed [[tile]] is the [[fourth]] tile
+## for a {{m|ja|加槓|tr=kakan||[[add]]ed ''kan''}}, the player should have an {{m|ja|明刻|tr=minkō||[[open]] triplet}} beforehand and the fourth tile must be [[self-]][[draw]]n
+## for an {{m|ja|暗槓|tr=ankan||[[closed]] ''kan''}}, the player calling must simply have all four tiles in hand
 
 ====Derived terms====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|槓%子|カン%ツ}}
 * {{ja-r|槓ドラ|カンドラ}}
-* {{ja-r|暗槓|アンカン}}
+* {{ja-r|暗%槓|アン%カン}}
 * {{ja-r|加%槓|カ%カン}}
 * {{ja-r|搶%槓|チャン%カン}}
-* {{ja-r|明槓|ミンカン}}
+* {{ja-r|明%槓|ミン%カン}}
 {{der-bottom}}
 
 ====Coordinate terms====
-* {{ja-r|吃|チー|[[chow]]}}
-* {{ja-r|碰|ポン|[[pung]]}}
+* {{ja-r|吃|チー|[[call]] for a [[sequence]]|pos=compare {{ncog|en|chow}}}}
+* {{ja-r|碰|ポン|call for an [[open]] [[triplet]]|pos=compare {{ncog|en|pung}}}}
 
 ===References===
 <references/>
