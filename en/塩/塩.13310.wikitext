@@ -40,27 +40,35 @@ Japanese shinjitai {{Han simp|鹽|f=臣|t=土|f2=鹵|t2=口|nocap=y}}.
 {{der-bottom}}
 
 ===Etymology 1===
+[[Image:Sal (close).jpg|thumb|250px|{{m|ja|塩|tr=shio}}: a close-up picture of '''[[salt]]''' [[crystal]]s.]]
 {{ja-kanjitab|しお|yomi=k}}
-/siho/: [ɕipo] > [ɕiɸo] > [ɕiwo] > [ɕio].
+
+{{IPAchar|/sipo/}} → {{IPAchar|/ɕifo/}} → {{IPAchar|/ɕiwo/}} → {{IPAchar|/ɕio/}}
+
+From {{inh|ja|ojp|sort=しお|-}}.  Cognate with {{m|ja|潮|tr=shio||&#91;[[ocean]]&#93; [[tide]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
+
+Cited in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
+
+The medial consonant had already [[lenit]]ed to {{IPAchar|/w/}} by 1603, as recorded in the ''{{w|Nippo Jisho}}''.<ref>{{R:Nippo Jisho original}}, entry visible [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP615#v=onepage&q=%22xiun%22&f=false here] as the third entry below the yellow-highlighted term on the left</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しお|acc=2|acc_ref=DJR,NHK|a=Ja-shio-salt.ogg}}
+{{ja-pron|しお|acc=2|acc_ref=DJR,NHK|a=Ja-shio-salt.ogg}}
 
 ====Noun====
 {{ja-noun|kyu=鹽|しお|hhira=しほ}}
-[[Image:Sal (close).jpg|thumb]]
 
 # [[salt]]
 #: {{ja-usex|'''塩'''の結晶|'''しお''' の けっしょう|salt crystal}}
 
 ===Etymology 2===
 {{ja-kanjitab|えん|yomi=o}}
+
 From {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|鹽|[[salt]]|id=1}} and {{ltc-l|鹽|to [[salt]]; [[salting]]|id=2}}.
 
 For the “chlorine” sense, see {{m|ja|塩素|tr=enso}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|えん|acc=1|acc_ref=DJR}}
+{{ja-pron|えん|acc=1|acc_ref=DJR}}
 
 ====Affix====
 {{ja-pos|affix|kyu=鹽|えん}}
