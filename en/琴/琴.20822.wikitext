@@ -74,9 +74,6 @@ See {{zh-l|琴日}}.
 ===Kanji===
 {{ja-kanji|grade=c|rs=玉08}}
 
-# [[zither]]
-# any [[stringed instrument|stringed]] or [[keyboard instrument]]
-
 ====Readings====
 {{ja-readings
 |goon=ごん<ごん<ごむ
@@ -86,60 +83,37 @@ See {{zh-l|琴日}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ja-r|琴棋|きんき|rom=-}}, {{ja-r|琴碁|きんき}}
-** {{ja-r|琴棋書画|きんきしょが}}
-* {{ja-r|琴%曲|きん%きょく|koto [[music]]}}
-* {{ja-r|琴弦|きんげん|rom=-}}, {{ja-r|琴絃|きんげん}}
+* {{ja-r|琴%棋|きん%き|rom=-}}, {{ja-r|琴%碁|きん%き}}
+** {{ja-r|琴%棋%書%画|きん%き%しょ%が}}
 * {{ja-r|琴%瑟|きん%しつ|[[qin]] and [[se]] → "[[marital]] [[harmony]]"}}
-* {{ja-r|玉琴|ぎょっきん}}
+* {{ja-r|玉%琴|ぎょっ%きん}}
 * {{ja-r|奚%琴|けい%きん|[[xiqin]]}}
 * {{ja-r|携%琴|けい%きん}}
-* {{ja-r|月琴|げっきん|[[yueqin]]}}
-* {{ja-r|古琴|こきん|[[guqin]]}}
-* {{ja-r|口琴|こう%きん|[[Jew's harp]]|lit=[[mouth harp]]}}
-* {{ja-r|自%鳴%琴|じ%めい%きん|[[music box]]}}
-* {{ja-r|焦尾琴|しょうびきん}}
-* {{ja-r|弾琴|だんきん|koto [[play]]ing}}
+* {{ja-r|月%琴|げっ%きん}}
+* {{ja-r|古%琴|こ%きん}}
 * {{ja-r|提%琴|てい%きん|{{w|tiqin}}}}
-* {{ja-r|鉄琴|てっきん|[[metallophone]]}}
-* {{ja-r|手風琴|てふうきん|[[accordion]]}}
-* {{ja-r|二弦琴|にげん-きん}}
-* {{ja-r|馬頭琴|ばとうきん}}
+* {{ja-r|馬%頭%琴|ば%とう%きん}}
+* {{ja-r|洋%琴|よう%きん|[[yangqin]]}}
 * {{ja-r|口琴|びやぼん|Edo-period [[mouth harp]]}}
-* {{ja-r|風琴|ふうきん|[[organ]]}}
-* {{ja-r|木琴|もっきん|[[xylophone]]}}
-* {{ja-r|洋琴|ようきん|[[yangqin]]}}
-* {{ja-r|和琴|わごん}}
 {{der-bottom}}
 
 ===Etymology 1===
-<div style="float:right;">
-{{wp|lang=ja|箏}}
-{{wp|Koto (musical instrument)}}
-[[File:Japanese_Koto.jpg|thumb|250px|{{m|ja|琴|tr=koto}}: a Japanese ''koto'', a kind of [[zither]].]]
-</div>
 {{ja-kanjitab|yomi=k|こと|alt=箏:Japanese&nbsp;zither}}
 
 {{IPAfont|⟨ko<sub>2</sub>to<sub>2</sub>⟩}} → *{{IPAchar|/kətə/}} → {{IPAchar|/koto/}}
 
 From {{inh|ja|ojp|sort=こと|-}}, attested in the three major literature works of the {{w|Nara period}}: the ''{{w|Kojiki}}'' (712 {{CE}}), the ''{{w|Nihon Shoki}}'' (720 {{CE}}), and the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).<ref>{{RQ:Manyoshu|18|1435}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man18Yo.html#4135 here]</ref>
 
-Possibly derived from a compound of elements {{compound|ja|木|tr1=ko|t1=[[tree]], [[wood]]|pos1=combining form|音|tr2=oto|t2=[[sound]]|nocat=1}}, with the additional medial ''o'' dropped by [[haplology]].
+Possibly derived from a compound of elements {{compound|ja|sort=こと|木|tr1=ko|t1=[[tree]], [[wood]]|pos1=combining form|音|tr2=oto|t2=[[sound]]}}, with the additional medial ''o'' dropped by [[haplology]].
 
 ====Pronunciation====
-{{ja-pron|yomi=k|こと|acc=1|acc_ref=DJR}}
+{{ja-pron|こと|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|こと}}
 
-# a ''[[koto]]'' {{gl|Japanese [[zither]]}}
-#* {{RQ:Kojiki|poem 74}}
-#*: {{ja-usex|sort=こと|m=加良怒袁 志本爾夜岐 斯賀阿麻理 '''許登'''爾都久理 賀岐比久夜 由良能斗能 斗那賀能伊久理爾 布禮多都 那豆能紀能 佐夜佐夜
-|m_kana=からのを しほにやき しがあまり '''こと'''につくり かきひくや ゆらのとの となかのいくりに ふれたつ なづのきの さやさや
-|枯%野を塩に焼き其が余り'''琴'''に作り掻き弾くや由良の門の門%中のいくりに振れ立つなづの木のさやさや
-|から%の を しほ に やき し が あまり '''こと''' に つくり かきひく や ^ゆら-の-と の と%なか の いくり に ふれたつ なづ の き の さやさや
-|rom=Karano o shio ni yaki shi ga amari '''koto''' ni tsukuri kakihiku ya Yura-no-to no tonaka no ikuri ni furetatsu nazu no ki no sayasaya}}
-# {{lb|ja|sort=こと|colloquial}} a ''[[guzheng]]'', ''[[zheng]]'' {{gl|Chinese zither}}, where the ''koto'' was based on {{defdate|since after the {{w|Edo period}}}}
+# [[koto]]: a [[Japanese]] [[zither]] [[derive]]d from the [[Chinese]] [[guzheng]]
+# {{lb|ja|sort=こと|colloquial}} [[guzheng]]: a Chinese zither where the ''koto'' was based on {{defdate|since after the {{w|Edo period}}}}
 #: {{syn|ja|箏|tr=sō}}
 
 =====Derived terms=====
@@ -148,21 +122,21 @@ Possibly derived from a compound of elements {{compound|ja|木|tr1=ko|t1=[[tree]
 * {{ja-r|こと座|^こと-ざ|[[Lyra]]}}
 * {{ja-r|琴%柱|こと%じ|[[bridge]] of a koto}}
 * {{ja-r|琴%尾|こと%じり|rom=-}}, {{ja-r|琴後|こと%じり}}
-* {{ja-r|琴爪|ことづめ|koto [[plectrum]]}}
-* {{ja-r|琴鳥|ことどり|[[superb lyrebird]]}}
+* {{ja-r|琴%爪|こと%づめ|koto [[plectrum]]}}
+* {{ja-r|琴%鳥|こと%どり|[[superb lyrebird]]}}
 * {{ja-r|琴%弾き|こと%ひき}}
 * {{ja-r|東%琴|あずま%ごと}}
 * {{ja-r|出雲%琴|^いずも%-ごと}}
-* {{ja-r|須磨%琴|^すま%-ごと}}
+* {{ja-r|須%磨%琴|^す%ま%-ごと}}
 * {{ja-r|小%琴|お%ごと}}
 * {{ja-r|百済%琴|^くだら%-ごと}}
 * {{ja-r|新羅%琴|^しらぎ%-ごと}}
 * {{ja-r|箏の琴|そう の こと}}
-* {{ja-r|大正%琴|^たいしょう%-ごと}}
-* {{ja-r|竪琴|たてごと}}
+* {{ja-r|大%正%琴|^たい%しょう%-ごと}}
+* {{ja-r|竪%琴|たて%ごと}}
 * {{ja-r|玉%琴|たま%ごと}}
-* {{ja-r|琵琶%琴|^びわ%-ごと}}
-* {{ja-r|八雲%琴|やくも%-ごと}}
+* {{ja-r|琵%琶%琴|^び%わ%-ごと}}
+* {{ja-r|八%雲%琴|や%くも%-ごと}}
 * {{ja-r|大和%琴|^やまと%-ごと}}
 {{der-bottom}}
 
@@ -173,17 +147,16 @@ Possibly derived from a compound of elements {{compound|ja|木|tr1=ko|t1=[[tree]
 # {{surname|ja|A=a|nodot=1|sort=こと}}
 
 ===Etymology 2===
-<div style="float:right;">
+{{ja-kanjitab|yomi=kanon|きん}}
 {{wp|lang=ja|琴}}
 {{wp|Guqin}}
-</div>
-{{ja-kanjitab|yomi=kanon|きん}}
-{{IPAchar|/kim/}} → {{IPAchar|/kimʉ/}} → {{IPAchar|/kiɴ/}}
+
+{{IPAchar|/kimʉ/}} → {{IPAchar|/kiɴ/}}
 
 From {{der|ja|ltc|sort=きん|-}} {{ltc-l|琴}}. The [[漢音#Japanese|kan'on]] pronunciation, so likely a later borrowing.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|きん|acc=1|acc_ref=DJR}}
+{{ja-pron|きん|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|きん}}
@@ -192,12 +165,33 @@ From {{der|ja|ltc|sort=きん|-}} {{ltc-l|琴}}. The [[漢音#Japanese|kan'on]] 
 #: {{syn|ja|古琴|tr=kokin}}
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|琴線|きんせん|koto [[string]] → [[heartstrings]]}}
-* {{ja-r|一%弦琴|いち%げんきん|rom=-}}, {{ja-r|一%絃琴|いち%げんきん}}
-* {{ja-r|七%弦琴|しち%げんきん|rom=-}}, {{ja-r|七%絃琴|しち%げんきん}}
-* {{ja-r|二弦琴|にげんきん|rom=-}}, {{ja-r|二絃琴|にげんきん}}
-* {{ja-r|六%弦琴|ろく%げんきん|rom=-}}, {{ja-r|六%絃琴|ろく%げんきん}}
+{{der-top3}}
+* {{ja-r|琴%線|きん%せん}}
+* {{ja-r|一%弦%琴|いち%げん%きん|rom=-}}, {{ja-r|一%絃%琴|いち%げん%きん}}
+* {{ja-r|七%弦%琴|しち%げん%きん|rom=-}}, {{ja-r|七%絃%琴|しち%げん%きん}}
+* {{ja-r|二%弦%琴|に%げん%きん|rom=-}}, {{ja-r|二%絃%琴|に%げん%きん}}
+* {{ja-r|六%弦%琴|ろく%げん%きん|rom=-}}, {{ja-r|六%絃%琴|ろく%げん%きん}}
+{{der-bottom}}
+
+====Affix====
+{{ja-pos|affix|きん}}
+
+# [[guqin]] {{gl|[[ancient]] [[Chinese]] [[seven]]-[[stringed]] [[zither]]}} or other related [[instrument]]s
+# any [[stringed instrument|stringed]] or [[keyboard instrument]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|琴%曲|きん%きょく|koto [[music]]}}
+* {{ja-r|琴%弦|きん%げん|rom=-}}, {{ja-r|琴%絃|きん%げん}}
+* {{ja-r|口%琴|こう%きん}}
+* {{ja-r|自%鳴%琴|じ%めい%きん}}
+* {{ja-r|焦%尾%琴|しょう%び%きん}}
+* {{ja-r|弾%琴|だん%きん|koto [[play]]ing}}
+* {{ja-r|鉄%琴|てっ%きん}}
+* {{ja-r|手%風%琴|て%ふう%きん}}
+* {{ja-r|風%琴|ふう%きん}}
+* {{ja-r|木%琴|もっ%きん}}
+* {{ja-r|和%琴|わ%ごん}}
 {{der-bottom}}
 
 ====Proper noun====
