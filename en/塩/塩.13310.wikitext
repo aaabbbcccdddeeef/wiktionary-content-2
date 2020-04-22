@@ -33,21 +33,19 @@ Japanese shinjitai {{Han simp|鹽|f=臣|t=土|f2=鹵|t2=口|nocap=y}}.
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|塩安|えんあん}}: [[ammonium chloride]]
-* {{ja-r|塩酸|えんさん}}: [[hydrochloric acid]]
-* {{ja-r|胡麻%塩|ごま%しお}}: sesame and salt
-{{der-bottom}}
+* {{ja-r|塩梅|あんばい}}
 
 ===Etymology 1===
-[[Image:Sal (close).jpg|thumb|250px|{{m|ja|塩|tr=shio}}: a close-up picture of '''[[salt]]''' [[crystal]]s.]]
 {{ja-kanjitab|しお|yomi=k}}
+[[Image:Sal (close).jpg|thumb|250px|{{m|ja|塩|tr=shio}}: a close-up picture of '''[[salt]]''' [[crystal]]s.]]
+{{wp|lang=ja}}
+{{wp|Salt}}
 
-{{IPAchar|/sipo/}} → {{IPAchar|/ɕifo/}} → {{IPAchar|/ɕiwo/}} → {{IPAchar|/ɕio/}}
+{{IPAchar|⟨sipo⟩}} → {{IPAchar|/ɕiɸo/}} → {{IPAchar|/ɕiwo/}} → {{IPAchar|/ɕio/}}
 
-From {{inh|ja|ojp|sort=しお|-}}.  Cognate with {{m|ja|潮|tr=shio||&#91;[[ocean]]&#93; [[tide]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
+From {{inh|ja|ojp|sort=しお|-}}, cited in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
 
-Cited in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="KDJ"/>
+Cognate with {{m|ja|潮|tr=shio||&#91;[[ocean]]&#93; [[tide]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 The medial consonant had already [[lenit]]ed to {{IPAchar|/w/}} by 1603, as recorded in the ''{{w|Nippo Jisho}}''.<ref>{{R:Nippo Jisho original}}, entry visible [https://books.google.com/books?id=TFJAAQAAMAAJ&pg=PP615#v=onepage&q=%22xiun%22&f=false here] as the third entry below the yellow-highlighted term on the left</ref>
 
@@ -58,14 +56,30 @@ The medial consonant had already [[lenit]]ed to {{IPAchar|/w/}} by 1603, as reco
 {{ja-noun|kyu=鹽|しお|hhira=しほ}}
 
 # [[salt]]
-#: {{ja-usex|'''塩'''の結晶|'''しお''' の けっしょう|salt crystal}}
+#: {{ja-usex|'''塩'''の結%晶|'''しお''' の けっ%しょう|'''salt''' crystal}}
+# [[saltiness]]
+#: {{syn|ja|塩気|tr=shioke}}
+# {{lb|ja|sort=しお|by extension|colloquial}} [[hardship]], [[toil]], [[trouble]]
+# {{lb|ja|sort=しお|colloquial}} a [[hoarse]] [[voice]]
+# {{lb|ja|colloquial}} {{short for|ja|塩屋|tr=shioya|dot=:}} a [[salter]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|塩%辛|しお%から}}
+* {{ja-r|塩%辛い|しお%からい}}
+* {{ja-r|塩%気|しお%け}}
+* {{ja-r|塩%剥き|しお%むき}}
+* {{ja-r|塩%屋|しお%や}}
+* {{ja-r|岩%塩|いわ%しお}}
+* {{ja-r|胡%麻%塩|ご%ま%しお}}
+* {{ja-r|藻%塩|も%しお}}
+* {{ja-r|山%塩|やま%じお}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|えん|yomi=o}}
 
-From {{der|ja|ltc|sort=ゆう|-}} {{ltc-l|鹽|[[salt]]|id=1}} and {{ltc-l|鹽|to [[salt]]; [[salting]]|id=2}}.
-
-For the “chlorine” sense, see {{m|ja|塩素|tr=enso}}.
+From {{der|ja|ltc|sort=えん|-}} {{ltc-l|鹽|[[salt]]|id=1}} and {{ltc-l|鹽|to [[salt]]; [[salting]]|id=2}}.
 
 ====Pronunciation====
 {{ja-pron|えん|acc=1|acc_ref=DJR}}
@@ -73,15 +87,39 @@ For the “chlorine” sense, see {{m|ja|塩素|tr=enso}}.
 ====Affix====
 {{ja-pos|affix|kyu=鹽|えん}}
 
-# [[salt]]
-# to [[salt]]; [[salting]]
-# {{lb|ja|chemistry}} [[chlorine]]
-# {{lb|ja|chemistry}} [[salt]]
+# [[salt#Noun|salt]]
+# to [[salt#Verb|salt]]; [[salting]]
+# {{lb|ja|sort=えん|chemistry}} [[salt#Noun|salt]]
+# {{lb|ja|chemistry}} {{short for|ja|塩素|tr=enso|dot=:|sort=えん}} [[chlorine]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|塩%安|えん%あん}}
+* {{ja-r|塩%化|えん%か}}
+* {{ja-r|塩%害|えん%がい}}
+* {{ja-r|塩%基|えん%き}}
+* {{ja-r|塩%酸|えん%さん}}
+* {{ja-r|塩%蔵|えん%ぞう}}
+* {{ja-r|塩%梅|えん%ばい}}
+* {{ja-r|塩%分|えん%ぶん}}
+* {{ja-r|海%塩|かい%えん}}
+* {{ja-r|岩%塩|がん%えん}}
+* {{ja-r|山%塩|さん%えん}}
+* {{ja-r|食%塩|しょく%えん}}
+* {{ja-r|正%塩|せい%えん}}
+* {{ja-r|製%塩|せい%えん}}
+* {{ja-r|米%塩|べい%えん}}
+* {{ja-r|無%塩|ぶ%えん}}
+* {{ja-r|無%塩|む%えん}}
+{{der-bottom}}
 
 ====Noun====
 {{ja-noun|kyu=鹽|えん}}
 
-# {{lb|ja|chemistry|sort=えん}} [[salt]] {{gloss|substance that is mostly made in [[neutralize|neutralization]], such as [[sodium chloride]]}}
+# {{lb|ja|chemistry|sort=えん}} a [[salt]] {{gloss|[[substance]] mostly [[make|made]] in [[neutralize|neutralization]], such as [[sodium chloride]]}}
+
+=====Derived terms=====
+* {{ja-r|塩ポツ|えんポツ}}
 
 ===References===
 <references/>
