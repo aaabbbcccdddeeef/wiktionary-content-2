@@ -16,18 +16,18 @@
 {{Han etym}}
 {{Han compound|隹|火|ls=ic|t1=bird|t2=fire}}.
 
-===Etymology===
-{{rfe|zh}}
+===Etymology 1===
+From {{inh|zh|sit-pro|*tsjow||to boil; to burn; to cook; to bake}}. Cognate with {{cog|bo|འཚོད||to cook}}, {{cog|my|ဆူ||to boil}}.
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=jiāo
-|m-s=
+|m-s=jiao1
 |c=ziu1
-|c-t=
-|g=
-|h=pfs=chêu
-|j=
+|c-t=diau1
+|g=jieu1
+|h=pfs=chêu;gd=jiau1
+|j=jiau1
 |mb=ciáu
 |md=ciĕu
 |md_note=literary
@@ -36,10 +36,10 @@
 |mn-t=ziao1/ziou1
 |mn-t_note=literary; ziao1 - Shantou; ziou1 - Chaozhou
 |w=1jiau
-|x=
+|x=ziau1
 |mc=y
 |oc=y
-|cat=a,n,cl
+|cat=a,n,pn
 }}
 
 ====Definitions====
@@ -49,17 +49,33 @@
 # [[coke]] {{gloss|solid fuel}}
 # [[anxious]]; [[vexed]]
 # {{lb|zh|TCM}} [[burner]]
-# {{lb|zh|physics}} {{zh-short|焦耳|[[joule]] {{gloss|energy unit}}}}
 # {{surname|zh}}
 
 =====Synonyms=====
 * {{sense|burned}} {{q|Cantonese}} {{zh-l|*燶}}
 
 =====Compounds=====
-{{zh-der|三焦|上焦|下焦|中焦|分離焦慮|勞心焦思|勞身焦思|包焦尼|宵旰焦勞|對焦|心焦|心焦如火|心焦如焚|憋憋焦焦|木焦油|火焦火辣|無煙焦煤|焦三仙|焦仲卿|焦仲卿妻|焦勞|焦化|焦土|焦土政策|焦孟不離|焦尾|焦尾琴|焦循|焦心|焦心勞思|焦急|焦慮|焦憋|焦月|焦枯|焦桐|焦棱|焦沙爛石|焦油|焦渴|焦灼|焦炙|焦炭|焦煤|焦熬投石|焦穫|焦糖|焦耳|焦距|焦躁|焦金流石|焦釜|焦雷|焦霹靂|焦面大士|焦頭爛額|焦黃|焦黑|焦點|煉焦|煉焦爐|煤焦油|燒焦|爛額焦頭|皮焦肉爛|聚焦|脣焦舌敝|舌敝脣焦|苦心焦慮|調焦|變焦鏡頭|近焦攝影|迸兒焦|鐺底焦飯|面皮焦黃|鮑焦|焦家莊|焦眉|焦岱|焦山河}}
+{{zh-der|三焦|上焦|下焦|中焦|分離焦慮|勞心焦思|勞身焦思|包焦尼|宵旰焦勞|對焦|心焦|心焦如火|心焦如焚|憋憋焦焦|木焦油|火焦火辣|無煙焦煤|焦三仙|焦仲卿|焦仲卿妻|焦勞|焦化|焦土|焦土政策|焦孟不離|焦尾|焦尾琴|焦循|焦心|焦心勞思|焦急|焦慮|焦憋|焦月|焦枯|焦桐|焦棱|焦沙爛石|焦油|焦渴|焦灼|焦炙|焦炭|焦煤|焦熬投石|焦穫|焦糖|焦距|焦躁|焦金流石|焦釜|焦雷|焦霹靂|焦面大士|焦頭爛額|焦黃|焦黑|焦點|煉焦|煉焦爐|煤焦油|燒焦|爛額焦頭|皮焦肉爛|聚焦|脣焦舌敝|舌敝脣焦|苦心焦慮|調焦|變焦鏡頭|近焦攝影|迸兒焦|鐺底焦飯|面皮焦黃|鮑焦|焦家莊|焦眉|焦岱|焦山河}}
 
-===Pronunciation 2===
-{{zh-forms|alt=燋,乾,灱-Teochew}}
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jiāo
+|c=ziu1
+|cat=cl
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|physics}} {{zh-short|焦耳|[[joule]] {{gloss|energy unit}}}}
+
+===Etymology 3===
+Possibly the same as etymology 1. However, {{zh-ref|Bodman (1980)}} relates it to {{cog|mkh-vie-pro|*trawᴮ||dry}}.
+
+====Pronunciation====
+{{zh-forms|alt=乾,燋,凋,礁,灱-Teochew}}
 {{zh-pron
 |mb=diǎu
 |mb_note=vernacular
