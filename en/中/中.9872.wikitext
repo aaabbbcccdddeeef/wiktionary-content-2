@@ -280,15 +280,12 @@ Uncommon:
 
 # {{surname|ja|sort=なか}}
 
-===See also===
-* [[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/中央]]
-
 ===Etymology 2===
 {{ja-kanjitab|ちゅう|yomi=o}}
 From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中|id=1}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|ちゅう|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|ちゅう|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|ちゅう}}
@@ -320,7 +317,7 @@ From {{der|ja|ltc|sort=ちゆう|-}} {{ltc-l|中|id=1}}.
 {{rfe|ja|from a later Chinese reading, sound shift, or rendaku?}}
 
 ====Pronunciation====
-{{ja-pron|y=o|じゅう}}
+{{ja-pron|じゅう}}
 
 ====Suffix====
 {{ja-pos|suffix|じゅう|hhira=ぢゅう}}
@@ -337,7 +334,7 @@ The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}}
 {{rfe|ja}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|うち|acc=0|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
 * {{ja-r|内|うち}}, {{ja-r|裡|うち}}
@@ -348,7 +345,7 @@ The distinction between {{m|ja|じゅう|tr=jū}} and {{m|ja|ちゅう|tr=chū}}
 # [[inside]]
 
 ====Usage notes====
-{{ja-l|内}} is the most common [[kanji]] for this [[pronunciation]].
+{{m|ja|内}} is the most common [[kanji]] for this [[pronunciation]].
 
 ===Etymology 5===
 Various nanori readings.
@@ -356,22 +353,22 @@ Various nanori readings.
 ====Proper noun====
 {{ja-pos|あたり|proper}}
 
-# {{surname|ja|sort=あたり}}
-
-{{ja-pos|なかば|proper}}
-
-# {{surname|ja|sort=なかば}}
+# {{surname|ja|sort=あたり|A=a|nodot=1}}
 
 {{ja-pos|あたる|proper}}
 
-# {{given name|ja|female|sort=あたる}}
+# {{given name|ja|sort=あたる|female|A=a|nodot=1}}
+
+{{ja-pos|なかば|proper}}
+
+# {{surname|ja|sort=なかば|A=a|nodot=1}}
 
 ===Etymology 6===
 {{ja-kanjitab|ちゅん|yomi=irr|sort=ちゆん}}
 Borrowing from {{bor|ja|cmn|中|tr=zhōng}}
 
 ====Pronunciation====
-{{ja-pron|y=irr|チュン}}
+{{ja-pron|チュン}}
 
 ====Noun====
 {{ja-noun|チュン}}
