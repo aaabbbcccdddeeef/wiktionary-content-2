@@ -43,53 +43,6 @@ Kun'yomi:
 |kun=えが-く<ゑが-く, か-く
 }}
 
-====Compounds====
-{{top5}}
-* {{ja-r|画%家|が%か}}
-* {{ja-r|画%架|が%か}}
-* {{ja-r|画%角|が%かく}}
-* {{ja-r|画%工|が%こう}}
-* {{ja-r|画%材|が%ざい}}
-* {{ja-r|画%質|が%しつ}}
-* {{ja-r|画%商|が%しょう}}
-{{mid5}}
-* {{ja-r|画%図|が%と}}
-* {{ja-r|画%集|が%しゅう}}
-* {{ja-r|画%像|が%ぞう}}
-* {{ja-r|画%堂|が%どう}}
-* {{ja-r|画%帖|が%じょう}}
-* {{ja-r|画%伯|が%はく}}
-* {{ja-r|画%板|が%ばん}}
-{{mid5}}
-* {{ja-r|画%眉|が%び}}
-* {{ja-r|画%餅|が%べい}}
-* {{ja-r|画%舫|が%ぼう}}
-* {{ja-r|画%面|が%めん}}
-* {{ja-r|画%素|が%そ}}
-* {{ja-r|画%竜|が%りょう}}
-* {{ja-r|画%竜 点%睛|が%りょう てん%せい}}
-* {{ja-r|画%廊|が%ろう|gloss=[[gallery]]}}
-* {{ja-r|画%楼|が%ろう}}
-{{mid5}}
-* {{ja-r|画%一|かく%いつ}}
-* {{ja-r|画%策|かく%さく}}
-* {{ja-r|画%然|かく%ぜん}}
-* {{ja-r|画%定|かく%てい}}
-* {{ja-r|画%期|かっ%き}}
-* {{ja-r|画%期%的|かっ%き%てき}}
-* {{ja-r|映%画|えい%が}}
-* {{ja-r|絵%画|かい%が}}
-{{mid5}}
-* {{ja-r|企%画|き%かく}}
-* {{ja-r|計%画|けい%かく}}
-* {{ja-r|図%画|ず%が}}
-* {{ja-r|版%画|はん%が}}
-* {{ja-r|分%画|ぶん%かく}}
-* {{ja-r|区%画|く%かく}}
-* {{ja-r|筆%画|ひっ%かく}}
-* {{ja-r|動%画|どう%が}}
-{{bottom}}
-
 ===Etymology 1===
 {{ja-kanjitab|が|yomi=goon}}
 From {{der|ja|ltc|sort=が|-}} {{ltc-l|畫|id=1}}.
@@ -98,9 +51,20 @@ From {{der|ja|ltc|sort=が|-}} {{ltc-l|畫|id=1}}.
 {{ja-pron|が|acc=1|acc_ref=DJR|y=goon}}
 
 ====Noun====
-{{ja-noun|が|kyu=畫|hhira=ぐわ}}
+{{ja-noun|が|kyu=畫}}
 
 # [[picture]], [[drawing]], [[painting]]
+#: {{synonyms|ja|絵}}
+# [[movie]], [[film]], [[video]]
+
+====Suffix====
+{{ja-pos|suffix|hira=が|kyu=畫}}
+
+# genre or style of [[painting]]
+#: {{ux|ja|風景画|landscape|tr=fuukeiga|inline=1}}
+#: {{ux|ja|静物画|still life|tr=seibutsuga|inline=1}}
+#: {{ux|ja|西洋画|Western painting|tr=seiyouga|inline=1}}
+#: {{ux|ja|日本画|Japanese painting|tr=nihonga|inline=1}}
 
 ===Etymology 2===
 {{ja-kanjitab|かく|yomi=kanon}}
@@ -110,15 +74,65 @@ From {{der|ja|ltc|sort=かく|-}} {{ltc-l|畫|id=2}}.
 {{ja-pron|かく|acc=0|acc_ref=DJR|acc_note=“stroke”|acc2=2|acc2_ref=DJR|acc2_note=“stroke”|y=kanon}}
 
 ====Noun====
-{{ja-noun|かく|kyu=畫|hhira=くわく}}
+{{ja-noun|かく|kyu=畫}}
 
-# [[stroke]] (of a pen, in a character)
+# [[delimiter]], [[demarcation]], stopping point
+#: {{ux|ja|区画|division; (city) block; plot (of land)|tr=kukaku|inline=1}}
+# [[plan]], [[strategy]]
+#: {{ux|ja|計画|plan; project; schedule; program|tr=keikaku|inline=1}}
+#: {{ux|ja|画策|planning; scheming|tr=kakusaku|inline=1}}
+# [[stroke]] {{gl|the individual lines and dots that comprise a kanji character}}
 # a [[line]] in the [[divinatory]] [[trigram]]s of the ''{{w|I Ching}}'': "—" ({{l|ja|陽}}) and "- -" ({{l|ja|陰}})
 
 ====Counter====
-{{ja-pos|counter|かく|kyu=畫|hhira=くわく}}
+{{ja-pos|counter|かく|kyu=畫}}
 
-# [[stroke]] (of a pen, in a character)
+# number of [[stroke]]s in a kanji
+
+===Compounds===
+{{top5}}
+* {{ja-r|映%画|えい%が|movie}}
+* {{ja-r|絵%画|かい%が}}
+* {{ja-r|画%一|かく%いつ}}
+* {{ja-r|画%策|かく%さく}}
+* {{ja-r|画%然|かく%ぜん}}
+* {{ja-r|画%定|かく%てい|demarcation}}
+* {{ja-r|画%期|かっ%き|end of an era}}
+* {{ja-r|画%期%的|かっ%き%てき}}
+{{mid5}}
+* {{ja-r|画家|がか|painter; artist}}
+* {{ja-r|画架|がか|[[easel]]}}
+* {{ja-r|画%角|が%かく}}
+* {{ja-r|画%工|が%こう|painter; artist}}
+* {{ja-r|画%材|が%ざい|art supplies}}
+* {{ja-r|画%質|が%しつ}}
+* {{ja-r|画%集|が%しゅう|art book}}
+* {{ja-r|画%商|が%しょう|art dealer}}
+{{mid5}}
+* {{ja-r|画%帖|が%じょう|picture album}}
+* {{ja-r|画素|がそ|[[pixel]]}}
+* {{ja-r|画%像|が%ぞう|image}}
+* {{ja-r|画%伯|が%はく}}
+* {{ja-r|画%板|が%ばん}}
+* {{ja-r|画眉|がび}}
+* {{ja-r|画%餅|が%べい|something useless|lit=picture of rice cakes}}
+{{mid5}}
+* {{ja-r|画%舫|が%ぼう}}
+* {{ja-r|画%面|が%めん}}
+* {{ja-r|画%竜|が%りょう}}
+* {{ja-r|画%竜 点%睛|が%りょう てん%せい|finishing touches|lit=adding the eyes to a painting of a dragon}}
+* {{ja-r|画%廊|が%ろう|art gallery}}
+* {{ja-r|画%楼|が%ろう}}
+{{mid5}}
+* {{ja-r|企%画|き%かく}}
+* {{ja-r|区%画|く%かく}}
+* {{ja-r|計%画|けい%かく}}
+* {{ja-r|図画|ずが}}
+* {{ja-r|動%画|どう%が}}
+* {{ja-r|版%画|はん%が|art print}}
+* {{ja-r|筆%画|ひっ%かく|stroke}}
+* {{ja-r|分%画|ぶん%かく}}
+{{bottom}}
 
 ===References===
 <references/>
