@@ -14,36 +14,39 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms}}
+Probably cognate with {{och-l|父|id=1|father}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
 {{zh-pron
 |m=fǔ
-|c=fu2,pou2,pou3
-|h=pfs=phú
+|c=fu2,pou2
 |mn=hú
 |mn-t=pou2
 |w=
 |mc=y
-|oc=y
+|oc=n,y
 |ma=
-|cat=v,n,a,pn
+|cat=n,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# [[man]]'s [[courtesy]] [[name]]
-# {{lb|zh|literary}} [[just]]; [[just]] [[now]]
+# {{lb|zh|literary|honorific}} {{n-g|An term of address for a man, usually as a suffix placed after a man's [[courtesy name]].}}
+# {{lb|zh|honorific}} [[courtesy name]] of a [[man]]
+#: {{zh-x|臺甫|your courtesy name {{q|honorific}}}}
 # {{surname|zh}}
 
-===Compounds===
-{{zh-der|不甫能|不甫能勾|尊甫|查甫|甫田|神甫|皇甫|臺甫|章甫縫掖|章甫|章甫薦履|尹吉甫|甫嶺}}
+====Compounds====
+{{zh-der|臺甫|尊甫|查甫|神甫|皇甫|章甫縫掖|章甫|章甫薦履|尹吉甫|甫嶺|甫白}}
 
-===Descendants===
+====Descendants====
 * {{desc|pcc|bux|bor=1}}
 * {{desc|tai-swe-pro|*pʰuːᶜ||person|bor=1}}
 ** {{desc|aho|𑜇𑜥}}
@@ -52,6 +55,105 @@
 ** {{desc|shn|ၽူႈ}}
 ** {{desc|th|ผู้}}
 * {{desc|za|boux|bor=1}}
+
+===Etymology 2===
+{{zh-forms}}
+{{der|zh|sit}}. Cognate with {{och-l|方|id=1|just now}} ({{zh-ref|Pulleybank, 1962}}). Also compare {{cog|tbq|-}} words for “to begin”: {{cog|tbq-kuk-pro|*pran}}, {{cog|kac|hpang}}, {{cog|nph|baŋ⁵⁵}}, {{cog|bhj|preŋ}}.
+
+====Pronunciation====
+{{zh-pron
+|m=fǔ
+|c=fu2,pou2
+|h=pfs=phú
+|mn=hú
+|mn-t=pou2
+|w=
+|mc=y
+|oc=1,y
+|ma=
+|cat=v,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[begin]]
+# {{lb|zh|literary}} [[just]]; just [[now]]
+
+====Compounds====
+{{zh-der|甫能|不甫能|不甫能勾|甫當|甫爾|甫竁}}
+
+===Etymology 3===
+{{zh-forms}}
+{{der|zh|sit}}. [[endoactive|Endoactive]] of a root ''*PA(ʔ)'' ({{zh-ref|Schuessler, 2007}}). Cognate with {{och-l|佈|to spread; to display; to announce}}, {{och-l|博|wide}}, {{och-l|溥|vast; wide}}, {{och-l|敷|to lay out; to apply}}, {{och-l|鋪|id=3+1|to spread}} ({{zh-ref|Schuessler, 2007}}). Also compare {{cog|tbq-kuk-pro|*phaʔ||to spread; to stretch}}.
+
+====Pronunciation====
+{{zh-pron
+|m=fǔ
+|c=fu2,pou2
+|mc=y
+|oc=2,y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[great]]
+#* {{zh-x|倬 彼 甫 田，歲 取 十 千。|Bright are those '''extensive''' fields,<br>A tenth of whose produce is annually levied.|ref=Shijing}}
+
+====Compounds====
+{{zh-der|甫田|甫甫}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=pǔ,bǔ
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|圃}}
+
+====Compounds====
+{{zh-der|甫田}}
+
+===Etymology 5===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=fǔ
+|c=pou2
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-used2|p}}
+
+====Compounds====
+{{zh-der|甫里|甫里先生|十八甫}}
+
+===Etymology 6===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=pou3
+|cat=cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-alt-form|鋪|ten Chinese miles|tr=-}}
 
 ===References===
 * {{R:yue:Hanzi}}
