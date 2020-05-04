@@ -1,9 +1,6 @@
 {{character info}}
 ==Translingual==
 
-===Etymology===
-{{Han etym}}
-
 ===Han character===
 {{Han char|rn=15|rad=冫|as=10|sn=12|four=38167|canj=IMOIR|ids=⿰冫倉}}
 
@@ -14,12 +11,32 @@
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=chong1}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|仌|alt1=冫|倉|ls=psc|c1=s|t1=ice|c2=p}}.
 
-# {{rfdef|yue|sort=冫10}}
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=cāng
+|c=cong1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[cold]]
+#* {{zh-x|天地 之間 有 凔 熱。||CL|ref=Yizhoushu}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -41,12 +58,3 @@
 {{ko-hanja|hangeul=창|rv=chang|mr=ch'ang}}
 
 # {{rfdef|ko|sort=冫10}}
-
-----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[cāng]] ([[cang1]])|wg=ts'ang<sup>1</sup>}}
-
-# {{rfdef|cmn|sort=冫10}}
