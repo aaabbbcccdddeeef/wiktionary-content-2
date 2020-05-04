@@ -1,4 +1,51 @@
 ==Japanese==
+{{ja-kanjitab|たたか|yomi=kun|alt=闘う}}
 
-===Etymology 1===
-{{ja-see|戦う}}
+===Etymology===
+From the {{m|ja|未然形|tr=mizenkei||incomplete form}} ''tataka'' of verb {{m|ja|叩く|tr=tataku||to [[strike]]}} + auxiliary verb {{m|ja|ふ|tr=fu|pos=indicating repetitive or ongoing action}} → “to [[strike]] [[repeatedly]]” → “to [[fight]]”.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|たたかう|acc=0|acc_ref=DJR,NHK,SMK5|acc2=4|acc2_ref=SMK5}}
+{{ja-ojad}}
+
+===Verb===
+{{ja-verb|kyu=戰う|たたかう|hhira=たたかふ|type=1}}
+
+# to [[battle]], to [[fight]], to [[wage]] [[war]]
+#* '''1916''', {{w|Tetsuro Watsuji}}, ''Conversion'':
+#*: {{ja-usex|しかしこの敵と'''戦って'''いる間に、他の敵が背%後へ回っていた。|しかし この てき と '''たたかって''' いる あいだ に、ほか の てき が はい%ご へ まわって いた。|But while he was '''battling''' this enemy, another had come up behind him.}}
+#* '''1922''', {{w|Torahiko Terada}}, ''Clear Reminiscence'':
+#*: {{ja-usex|しかし自%分の弱さと'''戦う'''戦%士としては決して弱くなかった。|しかし じ%ぶん の よわさ と '''たたかう''' せん%し として は けっして よわくなかった。|Yet he was not a weak soldier as a soldier '''fighting''' his own weakness.}}
+#: {{synonyms|ja|[[戦争]]する|tr=sensō suru|q=wage war}}
+# to [[compete]] (in a [[match]], for example)
+#: {{synonyms|ja|[[競争]]する|tr=kyōsō suru|[[試合]]する|tr2=shiai suru|[[勝負]]する|tr3=shōbu suru|争う|tr4=arasou}}
+# to [[contend]] (for one's own [[interest]]s)
+#: {{synonyms|ja|争う|tr=arasou}}
+# {{lb|ja|figuratively}} to get through with one's [[suffering]]s or [[difficulty|difficulties]] {{rfv-sense|ja}}
+# {{lb|ja|literally}} to [[hit]] or [[strike]] [[repeatedly]]
+#: {{synonyms|ja|[[乱打]]する|tr=randa suru}}
+
+====Conjugation====
+{{ja-go-u|たたか}}
+{{ja-conj-bungo|たたか|4-p}}
+
+====Usage notes====
+The {{ja-l||戦う}} spelling is used in a broader sense than {{ja-l|闘う}}:
+: {{ja-usex-inline|[[敵%国]]と'''戦う'''|てっ%こく と '''たたかう'''|'''battle''' in an enemy country}}
+: {{ja-usex-inline|[[選%挙]]で'''戦う'''|せん%きょ で '''たたかう'''|'''compete''' in the elections}}
+<!--: {{ja-usex-inline|[[優%勝]]をかけて'''戦う'''|ゆう%しょう を かけて '''たたかう'''|'''compete''' for the championship}}-->
+: {{ja-usex-inline|[[暑さ]]と'''闘う'''|あつさ と '''たたかう'''|'''beat''' the heat}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|戦い|たたかい|a fight, a battle}}
+* {{ja-r|闘%構え|たたかい%がまえ|the [[鬥]] enclosing [[radical]], a component of certain [[kanji]] characters}}
+* {{ja-r|戦い取る|たたかいとる|to take through fighting or battle}}
+* {{ja-r|戦い抜く|たたかいぬく|to fight through to the end}}
+{{der-bottom}}
+
+====See also====
+* {{ja-r|linkto=格闘|格%闘する|かく%とう する|[[wrestle]]}}
+
+===References===
+<references/>
