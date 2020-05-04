@@ -10,16 +10,16 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=竵}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|不|正|ls=ic|t1=not|t2=straight; proper}}.
 
 ===Etymology 1===
+{{zh-forms|alt=竵}}
 {{rfe|zh}}
 
-====Pronunciation 1====
+====Pronunciation====
 {{zh-pron
 |m=wāi
 |ma=Zh-wai.ogg
@@ -28,13 +28,12 @@
 |c=waai1
 |c-t=vai2
 |g=
-|h=pfs=vâi
+|h=pfs=vâi;gd=vai1
 |j=
 |mb=
 |md=
 |mn=oai
-|mn-t=uai1/cua2
-|mn-t_note=cua2 - semantic (訓讀)
+|mn-t=uai1
 |w=
 |x=
 |mc=y
@@ -42,46 +41,71 @@
 |cat=a
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
-# [[slant]]; [[inclined]]
-# [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
+# [[slanted]]; [[inclined]]; [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
+# [[crooked]]; [[perverse]]; [[improper]]; [[evil]]
 # {{lb|zh|Central Plains Mandarin|Lan-Yin Mandarin|Sichuan}} [[fierce]]; [[malicious]]; [[overbearing]]
+# {{lb|zh|Hakka}} [[stingy]]; [[miserly]]
 
-=====Compounds=====
+=====Synonyms=====
+{{zh-dial|吝嗇}}
+
+====Compounds====
 {{zh-der|七扭八歪|喪聲歪氣|多歪多妒|側歪|一溜歪斜|七歪八扭|七歪八倒|口乖心歪|歪談亂道|歪廝纏|歪纏|病病歪歪|歪著|歪擺佈|歪打正著|歪斜|歪七扭八|皮賴歪派|歪歪扭扭|歪談亂講|禿歪剌|目瞪口歪|揣歪捏怪|東歪西倒|歪歪|歪門邪道|歪嘴喊人|歪主意|歪曲|歪話|歪風邪氣|歪風|歪詩|歪行貨|歪才|歪心邪意|歪剌骨|歪哥|東倒西歪|歪憋|歪派|晌午歪|迆邐歪斜|調歪|鼻塌嘴歪|邪門歪道|西歪東倒|上樑不正下樑歪|歪理}}
 
-====Pronunciation 2====
+===Etymology 2===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m-s=wai3
 |cat=a
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|Shanxi|Sichuan|dialectal Hakka}} [[inferior]]; [[bad]]; [[fake]]
 # {{lb|zh|Sichuan}} [[unreliable]]; [[deceiving]]
 
-=====Compounds=====
+====Compounds====
 {{zh-der|歪歪兒貨|歪號|歪名}}
 
-===Etymology 2===
-{{zh-ref|Mai (2017)}} considers {{ltc-l|佊}} to be a possible etymon, noting other (rare) instances in Cantonese where a historical {{ltc-l|幫}}-initial is pronounced as {{IPAchar|/m/}}, and where a {{ltc-l|支}}-final is pronounced as {{IPAchar|/ɛ/}}.
+===Etymology 3===
+{{zh-forms|alt=乜}}
+{{zh-ref|Mai (2017)}} considers {{ltc-l|佊|id=1}} to be a possible etymon, noting other (rare) instances in Cantonese where {{IPAchar|/m/}} is a reflex of the historical {{ltc-l|幫}} initial, and where {{IPAchar|/ɛ/}} is a reflex of the {{ltc-l|支}} final.
 
 ====Pronunciation====
 {{zh-pron
 |c=me2
+|c-t=mie2
 |dial=n
 |cat=a
 }}
 
-=====Definitions=====
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese}} [[slant]]; [[inclined]]
-# {{lb|zh|Cantonese}} [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
+# {{lb|zh|Cantonese}} [[slanted]]; [[inclined]]; [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
+
+===Etymology 4===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|mn-t=cua2
+|dial=n
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Teochew}} [[slanted]]; [[inclined]]; [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
 
 {{zh-cat|Elementary}}
 
