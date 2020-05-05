@@ -11,7 +11,6 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=俾-colloquial Cantonese,比-colloquial Cantonese,撥-colloquial Wu}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -19,54 +18,89 @@ In the oracle bone script, it was an arrow with a flat arrowhead (cf. {{zh-l|*�
 
 In the bronze script, a dot was added to the centre, which later became a short line. The bottom of the glyph eventually corrupted into {{zh-l|*廾}} or {{zh-l|*丌}}. On the basis of the latter shape, ''{{w|Shuowen}}'' erroneously interprets the character as a {{Han compound|甶|丌|ls=psc|c1=p|c2=s|t2=pedestal|nocap=1}}.
 
-===Etymology===
+===Etymology 1===
+{{zh-forms|alt=畁,𢌿,𢍁,𢍉,𢮅,𢮧,俾-colloquial Cantonese,比-colloquial Cantonese}}
 From {{inh|zh|sit-pro|*s-bəj-n/k||to give}}. Cognate with {{cog|bo|སྦྱིན||to give, to bestow}}, {{cog|my|ပေး||to give}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=bì
+|m-s=
 |c=bei3,bei2
 |c_note=bei3 - literary; bei2 - vernacular
 |c-t=ei2
+|g=
+|h=gd=bi4
+|j=
+|mb=
+|md=bé
 |mn=ml:pì
 |mn-t=bi3/bi2
-|w=2pi,4peq
-|w_note=2pi - literary; 4peq - vernacular
+|w=2pi
+|x=
 |mc=y
 |oc=y
-|ma=
-|cat=v,prep
+|ma=y
+|cat=v,c:prep
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary|or|Cantonese|Wu}} to [[give]]
+# {{lb|zh|literary|or|Cantonese}} to [[give]]
 #* {{zh-x|王 崩，周 人 將 畀 ^虢 ^公 政。|The king (of Zhou) has died. The people of Zhou will '''give''' power to the Duke of Guo.|ref=Zuozhuan}}
 #: {{zh-x|畀 三 張 紙 我。|'''Give''' me three sheets of paper.|C}}
 # {{lb|zh|Cantonese}} to [[pay]]
 #: {{zh-also|畀錢}}
 #: {{zh-x|畀 入場 費|to '''pay''' the entrance fee|C}}
-# {{lb|zh|Cantonese|Wu}} to [[allow]]; to [[let]]
+# {{lb|zh|Cantonese}} to [[allow]]; to [[let]]
 #: {{zh-x|老師 唔 畀 我哋 上{soeng5} 緊 堂 嗰時 飲水。|The teacher doesn't '''let''' us drink water during class.|C}}
-# {{lb|zh|Cantonese|Wu}} [[for]]
+# {{lb|zh|Cantonese}} [[for]]
 #: {{zh-x|原先 係 畀 你 食 嘅。|It was originally '''for''' you to eat.|C}}
-#: {{zh-x|原來 是 畀 儂 吃 个。|It was originally '''for''' you to eat.|W}}
-# {{lb|zh|Cantonese|Wu}} [[to]]
+# {{lb|zh|Cantonese}} [[to]]
 #: {{zh-x|講 畀 你 知|to tell you|C}}
-#: {{zh-x|講 畀 儂 聽|to tell you|W}}
-# {{lb|zh|Cantonese|Wu}} [[by]]
+#: {{zh-x|送 份 禮物 畀 老師|to give the teacher a present|C}}
+# {{lb|zh|Cantonese}} [[by]]
 #: {{zh-x|我 畀 蚊 咬 呀。|I got bitten '''by''' a mosquito.|C}}
 #: {{zh-x|我 隻 錶 畀 人 偷 咗。|My watch has been stolen ('''by''' someone).|C}}
 
-====Usage notes====
+=====Usage notes=====
 * In a [[passive-voice]] sentence in Cantonese, {{lang|zh|畀}} is always followed by an object and not a verb, unlike Mandarin {{zh-l|*被|}} which can be followed by an object or a verb.
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|給}}
 
-===Compounds===
-{{zh-der|付畀|投畀豺虎|賦畀|畀錢}}
+====Compounds====
+{{zh-der|付畀|投畀豺虎|賦畀|畀錢|倚畀|委畀|投畀|畀付|畀矜|秉畀炎火|簡畀|蒸畀|顧畀}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|w=4peq
+|cat=v,prep
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Wu}} {{zh-alt-form|撥|tr=-|to give; to allow; for; to; by}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=pí
+|cat=
+}}
+{{attn|zh|tone is actually 53}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Taiwanese Hakka}} {{contraction of|zh|[[分]][[佢]]}}
 
 ----
 
