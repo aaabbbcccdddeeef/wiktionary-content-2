@@ -25,42 +25,69 @@ Japanese {{w|shinjitai}} character. {{Han simp|應|f=倠|t=&nbsp;}}.
 ===Kanji===
 {{ja-kanji|grade=5|rs=心03|kyu=應}}
 
-# to [[respond]], [[reply]]
-# [[should]], [[ought]] to, [[must]]
-
 ====Readings====
 {{ja-readings
 |goon=おう<おう
 |kanon=よう<よう
-|kun=こた-える<こた-へる, いら-える<いら-へる, あた-る<あた-る, まさ-に<まさ-に
+|kun=こた-える<こた-へる, いら-える<いら-へる
+|nanori=かず, たか, のぶ, のり, まさ
 }}
 
+====Compounds====
+* {{ja-r|相応しい|ふさわし.い}}
+
 ===Etymology===
-{{ja-kanjitab|おう|yomi=on}}
+{{ja-kanjitab|おう|yomi=goon}}
+{{IPAchar|/ou/}} → {{IPAchar|/oː/}}
+
 From {{der|ja|ltc|sort=おう|-}} {{ltc-l|應|id=2}}.
 
 ===Pronunciation===
-{{ja-pron|おう|y=on}}
+{{ja-pron|おう|acc=1|acc_ref=DJR}}
 
 ===Affix===
-{{ja-pos|affix|おう|kyu=應}}
+{{ja-pos|affix|kyu=應|おう}}
 
-# [[respond]]; [[reply]]; [[answer]]
-# in [[accordance]]
+# [[respond]], [[reply#Verb|reply]], [[answer#Verb|answer]] {{gl|a [[question]], [[call#Noun|call]], etc.}}
+# [[accept]], [[admit]], [[agree]], [[consent#Verb|consent]]
+# [[in accordance with]]
+# [[adequate]], [[balanced]], [[fitting]], [[suitable]]
 
 ====Derived terms====
-{{der-top}}
-* {{ja-l|応援}}
-* {{ja-l|応急}}
-* {{ja-l|応酬}}
-* {{ja-l|応召}}
-* {{ja-l|応接}}
-* {{ja-l|応戦}}
-* {{ja-l|応対}}
-* {{ja-l|応諾}}
-* {{ja-l|応答}}
-* {{ja-l|応分}}
-* {{ja-l|応変}}
-* {{ja-l|応募}}
-* {{ja-l|応用}}
+{{der-top4}}
+* {{ja-r|応ずる|おうずる}}
+* {{ja-r|応%援|おう%えん}}
+* {{ja-r|応%急|おう%きゅう}}
+* {{ja-r|応%酬|おう%しゅう}}
+* {{ja-r|応%召|おう%しょう}}
+* {{ja-r|応%接|おう%せつ}}
+* {{ja-r|応%戦|おう%せん}}
+* {{ja-r|応%対|おう%たい}}
+* {{ja-r|応%諾|おう%だく}}
+* {{ja-r|応%答|おう%とう}}
+* {{ja-r|応%分|おう%ぶん}}
+* {{ja-r|応%変|おう%へん}}
+* {{ja-r|応%募|おう%ぼ}}
+* {{ja-r|応%用|おう%よう}}
+* {{ja-r|感%応|かん%のう}}
+* {{ja-r|呼%応|こ%おう}}
+* {{ja-r|順%応|じゅん%のう}}
+* {{ja-r|相%応|そう%おう}}
+* {{ja-r|即%応|そく%おう}}
+* {{ja-r|対%応|たい%おう}}
+* {{ja-r|内%応|ない%おう}}
+* {{ja-r|反%応|はん%のう}}
 {{der-bottom}}
+
+===Noun===
+{{ja-noun|kyu=應|おう}}
+
+# {{lb|ja|sort=おう|rare}} an [[acceptance]], [[admittance]], [[agreement]], [[consent#Noun|consent]]
+
+===Proper noun===
+{{ja-pos|proper|kyu=應|^おう}}
+
+# {{surname|ja|A=a|nodot=1|sort=おう}}
+
+===References===
+<references/>
