@@ -1150,30 +1150,37 @@ From {{inh|nap|la|et}}
 ==Norwegian==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|no|/eː/}}
-* {{sense|phoneme}} {{IPA|no|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+* {{s|letter name}} {{IPA|no|/eː/}}
+* {{s|phoneme}} {{IPA|no|/eː/|/e/|/ɛ/|/ə/|/æ/}}
 
-===Etymology 1===
+===Etymology===
 See [[#Translingual|Translingual section]].
 
-====Letter====
+===Letter===
 {{head|no|letter}}
 
 # The fifth letter of the Norwegian alphabet
 
-=====Inflection=====
+====Inflection====
 {{no-noun-infl|nb-class=m1|nn-class=m1|stem=e-}}
 
 ====Usage notes====
 * {{IPAchar|/ə/|lang=no}} only appears in unstressed syllables.
 
-===Etymology 2===
-From {{inh|no|non|er}}.
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{IPA|nn|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+
+===Etymology===
+From {{inh|nn|non|er}}.
 
 ====Verb====
-{{head|no|verb}}
+{{nn-verb-form}}
 
-# {{lb|no|dialectal}} Present tense of '''{{l|nb|være}}''' {{qualifier|Bokmål}}, '''{{l|nn|vera}}'''/'''{{l|nn|vere}}''' {{qualifier|Nynorsk}}; equivalent to standardized ''{{l|no|er}}''.
+# {{lb|no|dialectal|colloquial}} {{apocopic form of|nn|er}}, {{present tense of|nn|vera}}
 
 ----
 
