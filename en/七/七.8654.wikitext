@@ -127,16 +127,17 @@ From {{inh|zh|sit-pro|*s-ni-s||seven}}.
 {{der-bottom}}
 
 ===Alternative forms===
-{{ja-kanjitab|しち|yomi=goon}}
-
 * {{q|financial form}} {{ja-l|漆}}
 
 ===Etymology 1===
 {{ja-kanjitab|なな|yomi=k}}
 
-From {{inh|ja|ojp|sort=なな|-}}. {{rfe|ja|sort=なな|Possibly from Goguryeo *''nanə-n''?}}
+From {{inh|ja|ojp|sort=なな|-}}.
 
-In modern Japanese, Japonic {{ja-r|なな}} is more common than Sinitic {{ja-r|しち|pos=see Etymology 2}} outside fixed compounds, which is similar to {{ja-r|四|よ}} but different from other numerals. The reason may be a superstitious connection to {{ja-r|死|し}}, or simply avoiding confusion with similar sounding {{ja-r|一|いち}} and {{ja-r|四|し}}.
+{{rfe|ja|sort=なな|Possibly from Goguryeo *''nanə-n''?}}
+
+====Usage notes====
+In modern Japanese, Japonic {{m|ja|なな|tr=nana}} is more common than Sinitic {{m|ja|しち|tr=shichi}} (see Etymology 2) outside fixed compounds, which is similar to {{m|ja|四|tr=yo}} but different from other numerals. The reason may be a superstitious connection to {{m|ja|死|tr=shi|t=death}}, or simply avoiding confusion with the similar sounding {{m|ja|一|tr=ichi}} and {{m|ja|四|tr=shi}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|なな|acc=1|acc_ref=DJR|a=Ja-7-nana.ogg}}
@@ -148,15 +149,14 @@ In modern Japanese, Japonic {{ja-r|なな}} is more common than Sinitic {{ja-r|�
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|七つ|ななつ}}
 * {{ja-r|七色|なないろ|seven prismatic colors}}
 * {{ja-r|七%重|なな%え}}
-* {{ja-r|七%日|なぬ%か}}, {{ja-r|七日|なの%か}}
-** {{ja-r|七%七%日|なな%なぬ%か}}, {{ja-r|七%七%日|なな%なの%か}}
+* {{ja-r|七日|なの%か}}
+** {{ja-r|七%七%日|なな%なの%か}}
 * {{ja-r|七%竈|ナナ%カマド}}
-* {{ja-r|七草|ななくさ}}
+* {{ja-r|七%草|なな%くさ}}
 * {{ja-r|七%子|なな%こ}}
-* {{ja-r|七%転び八%起き|なな% ころび や% おき}}
+* {{ja-r|七転び八起き|なな ころび や おき}}
 * {{ja-r|七%光|なな%ひかり}}
 * {{ja-r|七%不思議|なな%ふしぎ}}
 * {{ja-r|七%夜|なな%よ}}
@@ -177,6 +177,8 @@ In modern Japanese, Japonic {{ja-r|なな}} is more common than Sinitic {{ja-r|�
 # {{surname|ja|A=a|nodot=1|sort=なな}}
 
 ===Etymology 2===
+{{ja-kanjitab|しち|yomi=goon}}
+
 From {{der|ja|ltc|sort=しち|-}} {{ltc-l|七}}.
 
 ====Pronunciation====
