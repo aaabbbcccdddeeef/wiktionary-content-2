@@ -16,10 +16,13 @@
 {{Han etym}}
 {{Han compound|不|好|t1=no, not|t2=good, well|ls=ic}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{rfe|zh|contraction of something with 好?}}
+
+====Pronunciation====
 {{zh-pron
 |m=nāo
-|c=naau6
+|c=naau1,naau6,bou2
 |mn-t=nao1
 |cat=a
 }}
@@ -27,36 +30,52 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|informal|regional}} [[not]] [[good]]
-# [[cowardly]], [[contemptible]]
+# {{lb|zh|regional|informal}} [[not]] [[good]]
+# {{lb|zh|regional|informal}} [[cowardly]], [[contemptible]]
 
-=====Compounds=====
+====Compounds====
 {{zh-der|孬種}}
 
-===Pronunciation 2===
+===Etymology 2===
+Contraction of {{zh-l|唔好|m6 ho2}}
+
+====Pronunciation====
 {{zh-pron
-|c=bou2
-|mn=oāi
 |mn-t=mo2
+|cat=a,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Teochew}} [[not]] [[good]]; [[bad]]; [[poor]]
+#: {{zh-x|好 抑是 孬|good or not|MN-T|tr=ho2 a1 si6 '''mo2'''}}
+# {{lb|zh|Teochew}} [[rude]]; [[unreasonable]]
+# {{lb|zh|Teochew}} [[cannot]]; [[may]] not
+# {{lb|zh|Teochew}} [[don't]]
+
+=====Synonyms=====
+{{zh-dial|壞}}
+{{zh-dial|別}}
+
+====Compounds====
+{{zh-der|孬意思}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m-s=pie4
 |cat=a
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|informal|regional}} [[not]] [[good]]
-#: {{zh-x|好 抑是 孬|good or not|MN-T|tr=ho2 a1 si6 '''mo2'''}}
+# {{lb|zh|Sichuan}} [[not]] [[good]]; [[bad]]; [[inferior]]
 
-=====Synonyms=====
-{{zh-dial|壞}}
-
-===Pronunciation 3===
-{{rfp|zh|pie}}
-====Definitions====
-{{zh-hanzi}}
-
-# {{lb|zh|Sichuan}} [[not]] [[good]]
-{{attention|zh|needs checking}}
+{{attn|nan|Hokkien oāi?}}
+{{attn|zh|needs checking}}
 
 ----
 
