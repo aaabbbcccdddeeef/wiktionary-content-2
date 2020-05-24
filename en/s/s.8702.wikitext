@@ -342,7 +342,7 @@ This preposition is followed by the [[instrumental case]].
 * {{hu-IPA}}
 * {{audio|hu|Hu-s.ogg|Audio (conjunction)}}
 * {{sense|conjunction}} {{hu-IPA}}
-* {{sense|letter name}} {{hu-IPA|ess}}
+* {{sense|letter name}} {{hu-IPA|es}}
 
 ===Conjunction===
 {{head|hu|conjunction}}
@@ -350,19 +350,29 @@ This preposition is followed by the [[instrumental case]].
 # {{l|en|and}} {{gloss|short variant of {{m|hu|és||and}}}}
 
 ====Derived terms====
-{{q|Compound words}}:
-* {{l|hu|egyszersmind}}
-* {{l|hu|nos}}
-{{q|Expressions}}:
-* {{l|hu|egyszer s mindenkorra}}
-* {{l|hu|fel s alá}}
-* {{l|hu|[[s]] [[a]] [[többi]]}}, {{l|hu|stb.}}, {{l|hu|satöbbi}}
-* {{l|hu|segíts magadon, s az Isten is megsegít}}
+{{der4|hu|title=Compound words
+|egyszersmind
+|nos
+}}
+{{der3|hu|title=Expressions
+|egyszer s mindenkorra
+|fel s alá
+|s a többi
+|stb.
+|satöbbi
+|segíts magadon, s az Isten is megsegít
+}}
 
 ===Letter===
 {{hu-letter}}
 
-# {{Latn-def|hu|letter|31}} Pronounced ''sh'' as in ''she''.
+# {{Latn-def|hu|letter|31|es}}
+
+====Declension====
+{{hu-infl-nom|s-e|e|v=s}}{{hu-pos-etek|s-||ei}}
+
+===See also===
+* {{list:Latin script letters/hu}}
 
 {{cln|hu|one-letter words}}
 
