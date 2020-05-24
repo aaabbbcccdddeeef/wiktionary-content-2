@@ -457,16 +457,36 @@ Contraction <!-- Abbreviation? -->of {{m|ht|mwen}}, from {{der|ht|fr|moi}}.
 
 ==Hungarian==
 
-===Pronunciation===
+===Etymology 1===
+{{abbreviation of|hu|méter}}
+
+====Pronunciation====
 * {{hu-IPA|méter}}
 
-===Noun===
+====Noun====
 {{hu-noun|-ek}}
 
-# {{abbreviation of|hu|méter|}}
+# {{l|en|m}} {{gloss|the unit of length in the International System of Units}}
 
-====Declension====
+=====Declension=====
 {{hu-infl-nom|m-e|e|-|v=r}}{{hu-pos-etek|m-||ei}}
+
+===Etymology 2===
+
+====Pronunciation====
+* {{sense|phoneme}} {{hu-IPA}}
+* {{sense|letter name}} {{hu-IPA|em}}
+
+====Letter====
+{{hu-letter|upper=M|lower=m}}
+
+# {{Latn-def|hu|letter|21|em}}
+
+=====Declension=====
+{{hu-infl-nom|m-e|e|v=m}}{{hu-pos-etek|m-||ei}}
+
+====See also====
+* {{list:Latin script letters/hu}}
 
 ----
 
