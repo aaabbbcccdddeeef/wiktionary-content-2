@@ -667,13 +667,15 @@ A rarer substitute of {{m|hu|ez}}, but unlike ''ez'', it does not take the case 
 See [[#Translingual|Translingual section]].
 
 ====Letter====
-{{head|hu|letter|lower case||upper case|E}}
+{{hu-letter|upper=E|lower=e}}
 
-# {{Latn-def|hu|letter|9}}
+# {{Latn-def|hu|letter|9|e}}
+
+=====Declension=====
+{{hu-infl-nom|e-|e}}{{hu-pos-tek|e-}}
 
 ====See also====
-* Previous letter: {{l|hu|dzs}}
-* Next letter: {{l|hu|é}}
+* {{list:Latin script letters/hu}}
 * {{l|hu|-e}} (suffix)
 
 ====References====
