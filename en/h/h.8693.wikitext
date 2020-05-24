@@ -253,18 +253,30 @@ Abbreviations
 
 ==Hungarian==
 
-===Pronunciation===
-* {{sense|letter name}} {{hu-IPA|há}}
+===Etymology 1===
+{{abbreviation of|hu|hogy|t=that}}
 
-===Conjunction===
+====Pronunciation====
+* {{hu-IPA|hogy}}
+
+====Conjunction====
 {{head|hu|conjunction}}
 
-# {{lb|hu|text messaging|informal}} {{abbreviation of|hu|hogy|t=that}}
+# {{lb|hu|text messaging|informal}} [[that]]
 
-===Letter===
+===Etymology 2===
+
+====Pronunciation====
+* {{sense|phoneme}} {{hu-IPA}}
+* {{sense|letter name}} {{hu-IPA|há}}
+
+====Letter====
 {{hu-letter|upper=H|lower=h}}
 
-# {{Latn-def|hu|letter|14}}
+# {{Latn-def|hu|letter|14|há}}
+
+=====Declension=====
+{{hu-infl-nom|h-|o}}{{hu-pos-tok|h-}}
 
 ====See also====
 * {{list:Latin script letters/hu}}
