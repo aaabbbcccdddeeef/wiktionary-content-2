@@ -101,6 +101,7 @@
 |goon=は
 |kanon=は
 |kun=なみ-
+|nanori=ぽ-
 }}
 
 ====Compounds====
@@ -116,28 +117,37 @@
 * {{ja-r|津%波|つ%なみ|[[tsunami]], [[tidal]] wave}}
 * {{ja-r|波蘭|^ポーランド|[[Poland]]}}
 {{der-bottom}}
-{{ja-kanjitab|なみ|yomi=k}}
 
-===Etymology===
+===Etymology 1===
+{{ja-kanjitab|yomi=k|なみ}}
+
 {{IPAfont|/nami<sub>1</sub>/}} → {{IPAchar|/nami/}}
 
 From {{inh|ja|ojp|なみ|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}.
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|なみ|acc=2|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|なみ}}
 
 # [[wave]]
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|なみ}}
 
 # {{given name|ja|sort=なみ|A=a|female}}
 
-===Proper noun===
-{{ja-noun|ぽ|rom=Po}}
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|ぽ}}
+
+Shortening of {{m|ja|波蘭|tr=Pōrando}}, with the spelling borrowed from {{der|ja|zh|sort=ほ''|-}} {{zh-l|波蘭}}.
+
+====Pronunciation====
+{{ja-pron|ぽ}}
+
+====Proper noun====
+{{ja-pos|proper|ぽ}}
 
 # {{lb|ja|abbreviation}} short notation of [[Poland]]
 
