@@ -18,47 +18,57 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=攼 -second round simplified -}}
+{{zh-forms|alt=攼-second round simplified}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|爭|甘|ls=psc|c1=s|c2=p|t1=to fight}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s/m-wam||to dare}} ({{zh-ref|Schuessler, 2007}}; STEDT).
 
 ===Pronunciation===
 {{zh-pron
 |m=gǎn
-|m-s=
+|m-s=gan3
 |c=gam2
-|c-t=
-|g=
-|h=pfs=kám;gd=gam3
-|j=
+|c-t=gam2
+|g=gon3
+|h=pfs=kám/s:kam;gd=gam3
+|h_note=Southern Sixian kam - variant used for the rhetorical/interrogative adverb
+|j=gan2
 |mb=gǒ̤ng
-|md=
-|mn=káⁿ/kám
-|mn_note=káⁿ - vernacular; kám - literary
+|md=gāng
+|mn=káⁿ/kám/xm:kiám/xm:kán
+|mn_note=káⁿ - vernacular (including the rhetorical adverb and "perhaps" in Xiamen, Quanzhou, Zhangzhou); kám - literary (including the rhetorical adverb and "perhaps" in Xiamen, as well as the rhetorical/interrogative adverb in Taiwan); kiám/kán - variants used for the rhetorical adverb 
 |mn-t=gan2
-|w=
-|x=
+|w=2koe
+|x=gan3
 |mc=y
 |oc=y
-|ma=zh-gǎn.ogg
-|cat=v,a
+|ma=y
+|cat=a,v,adv
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
+# [[bold]]; [[brave]]; [[daring]]
 # to [[dare]] (to); to [[venture]] (to)
 #: {{zh-x|我們 必須 敢 想，敢 說，敢 幹。|We must '''dare to''' think, speak up and act.}}
 #: {{zh-x|他 不 敢 正 眼看 她。|He didn't '''dare to''' look at her in the face.}}
 #: {{zh-x|在 那 個 風雨 交加 的 夜晚，很 少 有人 敢 出去。|Very few people '''ventured to''' go out on that stormy night.}}
 #: {{zh-x|你 敢 坐 飛機 飛行 嗎？|Will you '''venture''' a flight in an air plane?}}
-# to be sure; to be certain
+# to be [[sure]]; to be [[certain]]; to [[bet]]; to [[presume]]
 #: {{zh-x|敢 肯定|to be sure, to be certain}}
 #: {{zh-x|敢 說|to be sure, to be certain}}
-#: {{zh-x|我 敢 說，你 解決 不 了 這 個 難題。|I bet you can't do this puzzle.}}
-# [[bold]]; [[brave]]
-# {{lb|zh|Min Nan}} {{n-g|Final interrogative particle.}}
+#: {{zh-x|我 敢 說 你 解決 不 了 這 個 難題。|I bet you can't do this puzzle.}}
+# {{lb|zh|polite}} may I [[venture]]
+#: {{zh-x|敢 問|may I ask}}
+# {{lb|zh|literary|or|Hokkien|Taiwanese Hakka|rhetorical question}} [[can]] [[it]] be [[possible]] that; [[how]]
+# {{lb|zh|archaic|or|Xiamen|Quanzhou|Zhangzhou|_|Hokkien}} [[perhaps]]
+# {{lb|zh|Taiwanese Hokkien & Hakka}} {{n-g|Interrogative adverb, placed before the verb to create a yes-no question.}}
+#: {{zh-x|你 敢 有閒？|Are you free?|TW}}
 
 ====Synonyms====
 {{zh-dial|難道}}
