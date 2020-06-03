@@ -58,84 +58,174 @@ The various {{l|zh|𢀰}}-shaped glyphs are or are evolved from {{w|Zetian chara
 ===Kanji===
 {{ja-kanji|grade=4|rs=刀05}}
 
-# [[beginning]], [[start]], [[first]]
-
 ====Readings====
 {{ja-readings
 |goon=そ
 |kanon=しょ
-|kun=はじ-め, はじ-めて, はつ-, うい-, そ-める
-|nanori=はじめ, し, もと
+|kun=はじ-め, はじ-めて, はつ-, うい-<うひ-, そ-める, うぶ-
+|nanori=し, もと
 }}
 
 ====Compounds====
-* {{ja-r|初%雪|はつ%ゆき}}: the first snow
-* {{ja-r|初%心|しょ%しん}}: original intention
-* {{ja-r|初%心%者|しょ%しん%しゃ}}: beginner
-* {{ja-r|最%初|さい%しょ}}: first
-* {{ja-r|初%速%度|しょ%そく%ど}}: initial velocity
-* {{ja-r|初%夏|しょ%か}}: the beginning of summer
-* {{ja-r|初%春|しょ%しゅん}}: the beginning of spring
-* {{ja-r|初%秋|しょ%しゅう}}: the beginning of autumn
-* {{ja-r|初%冬|しょ%とう}}: the beginning of winter
-* {{ja-r|初%誕%生|はつ%たん%じょう}}: first birthday
-* {{ja-r|初%々しい|うい%ういし.い}}: innocent
-
-====Derived terms====
-* {{ja-r|初め|はじめ}}
-* {{ja-r|初めて|はじめて}}
-* {{ja-r|初め|-ぞめ}}
-* {{ja-r|書き初め|かきぞめ}}
-
-====See also====
-* {{ja-l|始}}
+* {{ja-r|最%初|さい%そ}}
+* {{ja-r|初瀬|^はせ}}
 
 ===Etymology 1===
-{{ja-kanjitab|うい|yomi=k}}
-From {{inh|ja|ojp|-|sort=うい}}.
-
-upi > uɸi > uwi > ui.
-
-====Noun====
-{{ja-noun|うい|hhira=うひ}}
-
-# the first; a start
-
-====Prefix====
-{{ja-pos|prefix|うい|hhira=うひ}}
-
-# first
-
-===Etymology 2===
 {{ja-kanjitab|yomi=k|はつ}}
-From {{inh|ja|ojp|sort=はつ|-}}.  Appears in the ''{{w|Man'yōshū}}'' completed 759 {{CE}}.<ref>{{RQ:Manyoshu|20|4516}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4516 here]</ref> In turn, from {{inh|ja|jpx-pro|sort=はつ|*patu}}.
+{{IPAfont|⟨patu⟩}} → {{IPAchar|/ɸat͡su/}} → {{IPAchar|/hat͡su/}}
 
-Presumably related to {{m|ja|初め|tr=hajime||beginning}}, {{m|ja|端|tr=ha||edge of something}}.
+From {{inh|ja|ojp|sort=はつ|-}}.
+
+Possible cognates include {{m|ja|始め|tr=hajime||[[beginning]]}} and {{m|ja|端|tr=ha||[[edge]] of something}}.
 
 ====Pronunciation====
 {{ja-pron|はつ|acc=2|acc_ref=DJR}}
 
-====Noun====
-{{ja-noun|はつ}}
-
-# the [[first]], a [[start]], the [[beginning]]
-#: {{ja-usex|今年'''初の'''コンサート|ことし '''はつ の''' コンサート|the '''first''' concert of this year}}
-#: {{antonyms|ja|末|tr1=sue|q1=[[last]], [[end]]}}
-# first sexual relations, one's [[first time]]
-
 ====Prefix====
 {{ja-pos|prefix|はつ}}
 
-# first
+# the [[first#Adjective|first]]..., [[initial]]..., [[new]]...
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|初%雁が音|はつ%-かりがね}}
+* {{ja-r|初%子|はつ%ご}}
+* {{ja-r|初%恋|はつ%こい}}
+* {{ja-r|初%声|はつ%こえ}}
+* {{ja-r|初%霜|はつ%しも}}
+* {{ja-r|初%誕%生|はつ%たん%じょう}}
+* {{ja-r|初%年|はつ%とし}}
+* {{ja-r|初%夏|はつ%なつ}}
+* {{ja-r|初%音|はつ%ね}}
+* {{ja-r|初%耳|はつ%みみ}}
+* {{ja-r|初%宮%参り|はつ%-みや%まいり}}
+* {{ja-r|初%紅葉|はつ%-もみじ}}
+* {{ja-r|初%雪|はつ%ゆき}}
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|はつ}}
+
+# a [[first#Noun|first]], [[start#Noun|start]], a [[beginning]]
+#: {{ja-usex-inline|今年'''初'''のコンサート|ことし '''はつ''' の コンサート|the '''first''' concert of this year}}
+#: {{ant|ja|末|tr1=sue}}
+# {{lb|ja|sort=はつ|slang}} first [[sexual relation]]s, one's [[first time]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|御%初|お%はつ}}
+* {{ja-r|泊瀬|^はつせ|rom=-}}, {{ja-r|初%瀬|^はつ%せ}}
+* {{ja-r|初%値|はつ%ね}}
+* {{ja-r|初 子の日|はつ ねのひ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|うい|yomi=k}}
+{{IPAchar|/uɸi/}} → {{IPAchar|/uwi/}} → {{IPAchar|/ui/}}
+
+{{rfe|ja|Unattested in Old Japanese; ultimately from {{inh|ja|jpx-pro|sort=うい|*Opi}}?}}
+
+Possibly cognate with {{m|ja|上|tr=ue||[[above]]}} or classical verb {{m|ja|生ふ|tr=ou||to [[grow]]}}.
+
+====Pronunciation====
+{{ja-pron|うい|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うい|hhira=うひ}}
+
+# a [[first#Noun|first]], [[start#Noun|start]]
+
+=====Derived terms=====
+* {{ja-r|初%々しい|うい%ういし.い}}
+
+====Prefix====
+{{ja-pos|prefix|うい|hhira=うひ}}
+
+# the [[first#Adjective|first]]...
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|初%子|うい%ご}}
+* {{ja-r|初%心|うい%ごころ}}
+* {{ja-r|初%陣|うい%じん}}
+* {{ja-r|初%学び|うい%まなび}}
+{{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|sort=はじめ|yomi=k}}
-From {{m|ja|始め|tr=hajime||beginning, first}}.
+{{ja-kanjitab|yomi=k|うぶ|alt=初心}}
+
+From stem ''up-'' cognate with ''ui'' (historical ''uhi'') above. Cause of the shift in voicing is uncertain. {{rfv-etym|ja}}
+
+====Pronunciation====
+{{ja-pron|うぶ|acc=1|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|infl=na|うぶ}}
+
+# [[innocent]]
+# [[inexperienced]], [[green]]
+
+=====Inflection=====
+{{ja-na|うぶ}}
+
+=====Derived terms=====
+* {{ja-r|初い|うぶい}}
+* {{ja-r|初%刀|うぶ%がたな}}
+* {{ja-r|初%声|うぶ%ごえ}}
+
+===Etymology 4===
+{{ja-kanjitab|しょ|yomi=kanon}}
+
+From {{der|ja|ltc|sort=しよ|-}} {{ltc-l|初}}.
+
+Compare {{cog|nan|-}} {{zh-l|初|tr=chho͘}}.
+
+====Affix====
+{{ja-noun|しょ}}
+
+# [[beginning]], [[start]]
+# [[first]], [[initial]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|初%夏|しょ%か}}
+* {{ja-r|初%学|しょ%がく}}
+* {{ja-r|初%期|しょ%き}}
+* {{ja-r|初%級|しょ%きゅう}}
+* {{ja-r|初%見|しょ%けん}}
+* {{ja-r|初%婚|しょ%こん}}
+* {{ja-r|初%春|しょ%しゅん}}
+* {{ja-r|初%秋|しょ%しゅう}}
+* {{ja-r|初%心|しょ%しん}}
+* {{ja-r|初%速%度|しょ%そく%ど}}
+* {{ja-r|初%代|しょ%だい}}
+* {{ja-r|初%対%面|しょ%たい%めん}}
+* {{ja-r|初%冬|しょ%とう}}
+* {{ja-r|初%頭|しょ%とう}}
+* {{ja-r|初%任|しょ%にん}}
+* {{ja-r|初%歩|しょ%ほ}}
+* {{ja-r|最%初|さい%しょ}}
+* {{ja-r|太%初|たい%しょ}}
+* {{ja-r|当%初|とう%しょ}}
+* {{ja-r|年%初|ねん%しょ}}
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|そ|k1=ぞ|o1=め}}
+{{ja-see|初め}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|はじ|o1=め}}
+
+Nominalization of {{m|ja|始め|tr=hajime||[[beginning]], [[first]]}}.
 
 ====Proper noun====
 {{ja-pos|proper|はじめ}}
 
-# {{given name|ja|male|sort=はじめ}}
+# {{given name|ja|male|A=a|sort=はじめ}}
+
+===References===
+<references/>
 
 ----
 
@@ -145,6 +235,41 @@ From {{m|ja|始め|tr=hajime||beginning, first}}.
 {{ko-hanja|hangeul=초|rv=cho|mr=ch'o}}
 
 # {{rfdef|ko|sort=刀05}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+From {{inh|ojp|jpx-pro|sort=はつ|*patu}}.
+
+Possible cognates include {{m|ojp|始め|tr=pazime||[[beginning]]}}, {{m|ojp|僅か|tr=patuka||[[faint]]}}, and {{m|ojp|端|tr=pa||[[edge]] of something}}.
+
+===Prefix===
+{{head|ojp|prefix|tr=patu-|kana|はつ|sort=はつ}}
+
+# the [[first#Adjective|first]]..., [[initial]]..., [[new]]...
+
+====Derived terms====
+{{der-top3}}
+* {{m|ojp|初秋風|tr=patuaki<sub>1</sub>kaze}}
+* {{m|ojp|初聲|tr=patukowe}}
+* {{m|ojp|泊瀨|tr=Patuse}}
+* {{m|ojp|初垂り|tr=patutari}}
+* {{m|ojp|初鷹狩り|tr=patu-to<sub>2</sub>gari}}
+* {{m|ojp|初土|tr=patuni}}
+* {{m|ojp|初子|tr=patune}}
+* {{m|ojp|初萩|tr=patupagi<sub>2</sub>}}
+* {{m|ojp|初花|tr=patupana}}
+* {{m|ojp|初春|tr=patuparu}}
+* {{m|ojp|初紅葉|tr=patu-momitiba}}
+* {{m|ojp|初雪|tr=patuyuki<sub>1</sub>}}
+* {{m|ojp|初麻|tr=patuwo}}
+* {{m|ojp|初尾花|tr=patuwobana}}
+{{der-bottom}}
+
+====Descendants====
+* {{desc|ja|初|tr=hatsu-}}
 
 ----
 
