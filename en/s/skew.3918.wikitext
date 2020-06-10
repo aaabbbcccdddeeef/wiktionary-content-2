@@ -1,13 +1,252 @@
-==[[Pronunciation]]==
-:(US) SAMPA:/skju/
+==English==
+{{was wotd|2020|June|11}}
 
-==[[Adjective]]==
-# (''Mathematics'') Neither [[perpendicular]] nor [[parallel]] (usually said of two [[line]]s).
+===Pronunciation===
+{{multiple images
+|direction = vertical
+|image1 = Skew Bridge at Monkhide (geograph 3391804).jpg
+|caption1 = A [[bridge#Noun|bridge]] with a [[skew arch]] ''(adjective sense 1)'' at Monkhide, [[Herefordshire]], [[England]], [[United Kingdom]]. The [[face#Noun|faces]] of the [[arch#Noun|arch]] are not [[perpendicular]] to its [[abutment]]s.
+|image2 = Rectangular parallelepiped.png
+|caption2 = In this [[rectangular]] [[parallelepiped]], the [[line#Noun|lines]] AD and B{{sub|1}}B are skew ''(adjective sense 2)''&nbsp;– although they are not [[parallel]] to each other, they do not [[intersect]] because they are in different [[plane#Noun|planes]].
+}} 
 
-===Translations===
-*[[French]]: [[gauche]]
+* {{a|RP}} {{IPA|en|/skjuː/}}
+* {{a|GA}} {{IPA|en|/skju/}}
+* {{audio|en|En-us-skew.ogg|Audio (GA)}}
+* {{rhymes|en|uː}}
+* {{homophones|en|SKU}}
 
-==[[Transitive verb]]==
+===Etymology 1===
+The {{glossary|verb}} is derived from {{inh|en|enm|skeuen}}, {{m|enm|skewe}}, {{m|enm|skewen|t=to run at an angle or obliquely; to escape}}, from {{der|en|ONF.|escuer}}{{nb...|eskieuer, eskiuer, eskiuwer, eskuer|otherforms=1}}, variants of {{der|en|fro|eschuer}}, {{m|fro|eschever}}, {{m|fro|eschiver|t=to escape, flee; to avoid}} (modern {{cog|fr|esquiver|t=to dodge (a blow), duck; to elude, evade; to slip away; to sidestep}}),<ref>{{R:MED Online|entry=skeuen|pos=''v.''(2)|noformat=yes|id=MED40664}}</ref><ref>{{R:OED Online|pos=''v.{{sup|2}}''|noformat=yes|id=180793|date=1911|nodot=1}}; {{R:Lexico|pos=v}}</ref> from {{der|en|frk|*skiuhan|t=to dread; to avoid, shun}}, from {{der|en|gem-pro|*skiuhijaną|t=to frighten}}. The English word is cognate with {{cog|da|skæv|t=crooked, slanting; skew, wry}}, {{cog|no|skjev|t=crooked, lopsided; oblique, slanting; distorted}}, {{cog|stq|skeeuw|t=aslant, slanting; oblique; awry}}, and is a {{doublet|en|eschew|nocap=1}}.
 
-# To change or alter in a particular direction.
-:Ex. <i>a disproportionate number of female subjects in the study group <b>skewed</b> the results</i>
+The {{glossary|adjective}} and {{glossary|adverb}} are probably derived from the verb and/or from {{m|en|askew}},<ref>{{R:OED Online|pos=adj.'' and ''adv|id=180791|date=1911|nodot=1}}; {{R:Lexico|pos=adj}}</ref> and the {{glossary|noun}} is derived from either the adjective or the verb.<ref>{{R:OED Online|pos=''n.{{sup|3}}''|noformat=yes|id=180785|date=1911|nodot=1}}; {{R:Lexico|pos=n}}</ref>
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|transitive}} To [[form#Verb|form]] or [[shape#Verb|shape]] in an [[oblique#Adjective|oblique]] [[way]]; to [[cause#Verb|cause]] to take an oblique [[position#Noun|position]].
+#: {{antonyms|en|unskew}}
+## {{lb|en|statistics}} To cause (a [[distribution]]) to be [[asymmetrical]].
+# {{lb|en|transitive}} To [[bias#Verb|bias]] or [[distort]] in a particular [[direction]].
+#: {{ux|en|A disproportionate number of female subjects in the study group '''skewed''' the results.}}
+# {{lb|en|transitive|Northumbria|Yorkshire}} To [[hurl#Verb|hurl]] or [[throw#Verb|throw]].
+#: {{synonyms|en|Thesaurus:throw}}
+# {{lb|en|intransitive}} To [[move#Verb|move]] [[obliquely]]; to move [[sideways]], to [[sidle#Verb|sidle]]; to [[lie#Verb|lie]] obliquely.
+#* L'Estrange
+#*: Child, you must walk straight, without '''skewing'''.
+#* {{quote-journal|en|author=William G. Peck|title=Equation of the Coursing Joint Curve|editor=[[w:John Daniel Runkle|J[ohn] D[aniel] Runkle]]|journal=[[w:American Mathematical Monthly|The Mathematical Monthly]]|location=Cambridge, Mass.|publisher=[[w:John Bartlett (publisher)|John Bartlett]]; London: [[w:Nicholas Trübner|Trübner & Co.]]|month=May|year=1859|volume=I|issue=VIII|page=281|pageurl=https://books.google.com/books?id=SVNLAAAAMAAJ&pg=PA281|oclc=1016169277|passage=The upper sign corresponds to the case represented in the figure in which the arch '''skews''' to the right, and the lower one to the case in which it '''skews''' to the left.}}
+# {{lb|en|intransitive}} To [[jump#Verb|jump]] back or sideways in [[fear#Noun|fear]] or [[surprise#Noun|surprise]]; to [[shy#Verb|shy]], as a [[horse#Noun|horse]].
+# {{lb|en|intransitive}} To [[look#Verb|look]] at obliquely; to [[squint#Verb|squint]]; hence, to look [[slightingly]] or [[suspiciously]].
+#: {{rfquotek|en|Beaumont and Fletcher}}
+
+=====Derived terms=====
+{{col3|en
+|{{l|en|nonskewed}}
+|{{l|en|skewed|pos=adjective}}
+|{{l|en|skewer|t=that which skews something}} {{qualifier|rare}}
+|{{l|en|skewing|pos=adjective, noun}}
+|{{l|en|unskew}}
+|{{l|en|unskewed}}
+}}
+
+=====Translations=====
+{{trans-top|to form or shape in an oblique way}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to cause (a distribution) to be asymmetrical}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to bias or distort in a particular direction}}
+* Czech: {{t|cs|zkreslit}}
+* Dutch: {{t+|nl|afleiden}}
+* Estonian: {{t|et|kallutama}}
+* French: {{t+|fr|biaiser}}
+* Hungarian: {{t+|hu|eltorzít}}, {{t+|hu|manipulál}}
+{{trans-mid}}
+* Italian: {{t+|it|distorcere}}
+* Portuguese: {{t+|pt|distorcer}}, {{t+|pt|enviesar}}
+* Russian: {{t+|ru|отклоня́ться}}
+* Slovak: {{t|sk|odchýliť}}, {{t|sk|odkloniť}}, {{t|sk|prikloniť}}, {{t|sk|skresliť}}
+* Swedish: {{t+|sv|förvränga}}
+{{trans-bottom}}
+
+{{trans-top|to move obliquely}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to jump back or sideways in fear or surprise}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to look at obliquely}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* French: {{t+|fr|fausser}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Adjective====
+{{en-adj|-|er|more}}
+
+# {{lb|en|not comparable}} Neither [[parallel]] nor at [[right angle]]s to a certain [[line#Noun|line]]; [[askew#Adjective|askew]].
+#: {{ux|en|a [[skew arch]]}}
+#* {{quote-book|en|author=Jo[hn] Keill|authorlink=John Keill|chapter=Of the Perpendicular Position of the Axis of the Earth to the Plane of the Ecliptick|title=An Examination of Dr. [[w:Thomas Burnet|Burnet]]’s Theory of the Earth.{{nb...|Together with Some Remarks on Mr. [William] Whiston’s New Theory of the Earth.}}|location=Oxford, Oxfordshire|publisher=Printed at the [[w:Sheldonian Theatre|Theater]]|year=1698|page=78|pageurl=https://books.google.com/books?id=Zwn1b7UPArMC&pg=PP90|oclc=1051491277|passage=[O]ur earth which makes one in that airy fleet when it eſcaped ſo narrowly being ſhipwrackt in the great Deluge, was however ſo broken and diſordered that it loſt its equal poiſe and thereupon the centre of its gravity changing, one Pole became more inclined towards the Sun and the other more removed from it, in which '''ſkew''' poſture it hath ſtood ever ſince.}}
+#* {{quote-book|en|author=J[ohn] T[heophilus] Desaguliers|authorlink=John Theophilus Desaguliers|chapter=Lecture III|title=A Course of Experimental Philosophy|edition=2nd|location=W[illiam] Innys, [[w:Thomas Longman|T[homas] Longman]] and T. Shewell, and C. Hitch,{{nb...|in Pater-noster Row}}; and M. Senex,{{nb...|in Fleetstreet.}}|year=1745|volume=I|section=paragraph 78|page=124|pageurl=https://books.google.com/books?id=OyChVj-3hNEC&pg=PA124|oclc=895076240|passage=And this is done by cauſing the Threads of the Screw C D to take hold of the oblique or '''ſkew''' Teeth of the Wheel as ''c'', and by continually turning the Wheel round to draw up a great Weight as W by means of the Rope which is wound on the Axis E F.}}
+#* {{RQ:Cervantes Motteux Don Quixote|volume=IV|chapter=Of the Most Singular and Strange Adventure that Befel Don Quixote in the Whole Course of This Famous History|page=284|passage=She pretended to faint, bow'd to the duke and ducheſs, and alſo to the two kings; but caſting a '''ſkew''' look upon Don Quixote, heaven forgive that hard-hearted lovely knight, ſaid ſhe, whoſe barbarity has made me an inhabitant of the other world for ought I know a thouſand years.}}
+#* {{quote-book|en|chapter=Description of the Line of Railroad from the Entrance Station, Westland-Row, to Kingstown|title=Thirteen Views of the Dublin and Kingstown Railway|location=Dublin|publisher=[[w:Philip Dixon Hardy|P[hilip] Dixon Hardy]],{{nb...|at the office of the Dublin Penny Journal, 3, Cecilia-Street.}}|year=1834|page=13|pageurl=https://books.google.com/books?id=crxVAAAAcAAJ&pg=PA13|oclc=18543068|passage=Over Barrow-street the arch is built with what is technically called ''knee'd'' or ''elbow quoins''; the stones being cut so as to form an oblique or '''skew''' bed on the face of the ring, and to return to a square bed within: [...]}}
+#* {{quote-book|en|author=Arthur Freeling|title=The London and Birmingham Railway Companion,{{nb...|Containing a Complete Description of Every Thing Worthy of Attention on the Line; of the Gentleman’s Seats, Villas, Towns, Villages, Rivers, Markets, and Fairs. An Account of the Churches, Endowments, Livings, and Patrons. List of Races; and an Account of the Hunting and Angling Stations near the Line; also, Fare and Time Tables. With a Map, Showing the Length of Every Excavation and Embankment—The Exact Distance from One Station to Another—The Gradients of the Rails—The Radius of the Curves—and a Section of the Ground Previous to the Commencement of the Railroad Operations. Dedicated, by Permission, to the Chairman and Directors of the Company.}}|location=London|publisher=Whittaker and Company|year=[1838]|page=178|pageurl=https://books.google.com/books?id=FaZbAAAAQAAJ&pg=RA1-PA178|oclc=22503337|passage=Here is another of those magnificent '''skew''' bridges, sprung from the sides of the excavation. Looking at it with the face towards the tunnel, when you are about 200 yards distant, the effect is very singular, as it appears to be a portion of the entrance thereto.}}
+#* {{quote-book|en|author=J[ames] E[dward] Quibell|authorlink=James Quibell|chapter=The Earliest Tombs|title=El Kab|series=Egyptian Research Account, 1897|location=London|publisher={{w|Bernard Quaritch}},{{nb...|15, Piccadilly, W.}}|year=1898|section=paragraph 4|page=3|pageurl=https://archive.org/details/publications03brituoft/page/3/mode/1up|column=1|oclc=56220607|passage=Their [the graves'] enclosure walls, within which several burials were found, were at right angles to the great wall of the town, and cut through the other graves (mastabas) which, though parallel to one another, were '''skew''' to the town walls.}}
+# {{lb|en|not comparable|geometry}} Of [[two]] lines in [[three-dimensional]] [[space#Noun|space]]: neither [[intersecting#Adjective|intersecting]] nor parallel.
+# {{lb|en|comparable|statistics}} Of a [[distribution]]: [[asymmetrical]] about its [[mean#Noun|mean]].
+#* {{quote-book|en|author=Alex Ely Kossovsky|chapter=Saville Regression Measure|title=Benford’s Law: Theory, the General Law of Relative Quantities, and Forensic Fraud Detection Applications|location=Singapore|publisher=[[w:World Scientific|World Scientific Publishing]]|year=2014|section=section 3 (Data Compliance Tests)|page=137|pageurl=https://books.google.com/books?id=AgO3CgAAQBAJ&pg=PA137|isbn=978-981-458-368-8|passage=A slope value over 1 indicates that digits are '''skewer''' than the Benford condition in favor of low ones. A slope value less than 1 indicates that digits are less skewed as compared with the Benford condition.}}
+#* {{quote-book|en|author=Bettina Hüttenrauch|chapter=Analysis of Data Augmentation KPIs|title=Targeting Using Augmented Data in Database Marketing: Decision Factors for Evaluating External Sources|location=Wiesbaden|publisher={{w|Springer Gabler}}|year=2016|section=section 6.4.3 (Model Lift (Uniform))|page=199|pageurl=https://books.google.com/books?id=2xJkDAAAQBAJ&pg=PA212|doi=10.1007/978-3-658-14577-4|isbn=978-3-658-14576-7|passage=The '''skewest''' possible distribution is that in which every but one target value has only one element and the other target value has all the other elements.}}
+
+=====Derived terms=====
+{{col3|en
+|skew arch
+|skew back
+|skew bridge
+|skew curve
+|skew field
+|[[skew gearing]], [[skew bevel gearing]]
+|skew-Hermitian
+|skew surface
+|skew-symmetric
+|skew symmetrical determinant
+|skew-symmetry
+}}
+
+=====Translations=====
+{{trans-top|neither parallel nor at right angles to a certain line}}
+* Czech: {{t+|cs|šikmý|m}}
+* Danish: {{t+|da|skæv}}
+* Dutch: {{t+|nl|scheef}}
+* Estonian: {{t|et|kald}}
+* Faroese: {{t|fo|skeivur}}
+* French: {{t+|fr|gauche}}, {{t+|fr|oblique}}
+{{trans-mid}}
+* German: {{t+|de|schief}}, {{t+|de|schräg}}, {{t+|de|windschief}}
+* Italian: {{t+|it|obliquo}}, {{t+|it|sghembo}}, {{t+|it|trasversale}}
+* Polish: {{t+|pl|skośny}}
+* Portuguese: {{t+|pt|assimétrico|m}}
+* Slovak: {{t|sk|kosý|m}}, {{t|sk|šikmý|m}}
+* Spanish: {{t+|es|asimétrico}}, {{t+|es|oblicuo}}
+{{trans-bottom}}
+
+{{trans-top|of two lines in three-dimensional space: neither intersecting nor parallel}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of a distribution: asymmetrical about its mean}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Adverb====
+{{en-adv}}
+
+# {{lb|en|rare}} [[askew#Adverb|Askew]], [[obliquely]]; [[awry]].
+#* {{quote-book|en|author=W[illiam] M[atthew] Flinders Petrie|authorlink=Flinders Petrie|chapter=The Outside of the Second Pyramid|title=The Pyramids and Temples of Gizeh|location=London|publisher=[[w:Leadenhall Press|Field & Tuer]],{{nb...|Ye Leadenhalle Presse}}; Simpkin, Marshall & Co.,{{nb...|Stationers Hall Court}}; Hamilton, Adams & Co.,{{nb...|Paternoster Row. New York: Scribner & Welford, 743, Broadway.}}|year=[1883]|section=paragraph 72|page=101|pageurl=https://archive.org/details/cu31924012038927/page/n139/mode/1up|oclc=504528222|passage=The walls are all united at one end into one head wall; which runs 14′ '''skew''' of the Pyramid on the W.; [...]}}
+
+====Noun====
+{{en-noun}}
+
+# Something that has an [[oblique#Adjective|oblique]] or [[slanted#Adjective|slanted]] [[position#Noun|position]].
+# An oblique or [[sideways]] [[movement]].
+# A [[bias#Noun|bias]] or [[distortion]] in a particular [[direction]].
+#* {{quote-book|en|author=James Scott Walker|chapter=The Broad-green Embankment|title=An Accurate Description of the Liverpool and Manchester Railway,{{nb...|and the Branch Railways to St. Helen’s, Warrington, Wigan, and Bolton; with an Account of the Opening of the Railway, and of the Melancholy Accident which Occurred to the Late Rt. Hon. W[illia]m Huskisson; a Short Memoir of that Gentleman, Particulars of His Funeral, &c. &c.}}|edition=3rd|location=Liverpool|publisher=J. F. Cannell, printer,{{nb...|Leather-Lane, Dale-Street. May be had of all the booksellers.}}|year=1832|page=29|pageurl=https://books.google.com/books?id=Iyk4AQAAMAAJ&pg=PA29|oclc=1014121424|passage=We now come to Whiston village and bridge, (7½ miles) and after passing under a wooden bridge, dash under one of 47 feet span, of stone and brick, with a remarkable '''skew'''.}}
+#* {{quote-book|en|author=F[rederick] J[ames] Furnivall|authorlink=Frederick James Furnivall|chapter=Forewords|editor=F. J. Furnivall|title=Queene Elizabethes Achademy (by Sir Humphrey Gilbert):{{nb...|A Booke of Precedence, the Ordering of a Funerall, &c.: Varying Versions of The Good Wife, The Wise Man, &c.: Maxims, Lydgate’s Order of Fools, a Poem on Heraldry, Occleve On Lord's Men, &c. [...] With Essays on Early Italian and German Books of Courtesy, by W[illiam] M[ichael] Rossetti, Esq., & E. Oswald, Esq.}}|series={{w|Early English Text Society}} Extra Series|seriesvolume=VIII|location=London|publisher=[[w:Nicholas Trübner|N[icholas] Trübner & Co.]],{{nb...|60, Paternoster Row.}}|year=1869|page=xvii|pageurl=https://books.google.com/books?id=mWymAAAAIAAJ&pg=PR17|oclc=9065674|passage=Thus one of the many '''skews''' in the Harleian Catalogue was set straight. (Don't let any one abuse the first Cataloguer of a Collection for '''skews'''. For all Catalogues (as for all Indexes) one ought to be grateful: for those without mistakes, most grateful.)}}
+#* {{quote-book|en|author=W[illiam] M[atthew] Flinders Petrie|authorlink=Flinders Petrie|chapter=Outside of Great Pyramid|title=The Pyramids and Temples of Gizeh|location=London|publisher=[[w:Leadenhall Press|Field & Tuer]],{{nb...|Ye Leadenhalle Presse}}; Simpkin, Marshall & Co.,{{nb...|Stationers Hall Court}}; Hamilton, Adams & Co.,{{nb...|Paternoster Row. New York: Scribner & Welford, 743, Broadway.}}|year=[1883]|section=paragraph 22|page=41|pageurl=https://archive.org/details/cu31924012038927/page/n78/mode/1up|oclc=504528222|passage=The mean '''skew''' of the core to the base is 1′ 33″, and its mean azimuth - 5′ 16″ to true North.}}
+# {{lb|en|electronics}} A [[phenomenon]] in [[synchronous]] [[digital]] [[circuit]] [[system]]s (such as [[computer]]s) in which the same [[sourced#Adjective|sourced]] [[clock#Noun|clock]] [[signal#Noun|signal]] [[arrive]]s at [[different]] [[component]]s at different [[time#Noun|times]].
+#* {{quote-book|en|editors=Ivan Andonovic and ‎Deepak Uttamchandani|title=Principles of Modern Optical Systems|location=Norwood, Mass.|publisher={{w|Artech House}}|year=1989|volume=1|page=501|isbn=978-0-89006-351-4|passage=One application for which an optical filter can play an important role is that of a wideband connection with low time '''skew'''. [...] One signal, the clock, needs to be distributed to all parts of a digital circuit to synchronize its action. The necessarily long path results in the danger of the clock signal arriving at the wrong time (''clock '''skew'''''), limiting the maximum frequency at which the circuit may be clocked.}}
+# {{lb|en|statistics}} A [[state#Noun|state]] of [[asymmetry]] in a [[distribution]]; [[skewness]].
+
+=====Derived terms=====
+* {{l|en|on the skew}}
+* {{l|en|skewness}}
+
+=====Translations=====
+{{trans-top|something that has an oblique or slanted position}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|oblique or sideways movement}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|bias or distortion in a particular direction}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|phenomenon in synchronous digital circuit systems in which the same sourced clock signal arrives at different components at different times}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|state of asymmetry in a distribution|skewness}}
+
+===Etymology 2===
+{{PIE root|en|skewH|skey}}
+From {{inh|en|enm|skeu}}, {{m|enm|skew|t=stone with a sloping surface forming the slope of a gable, offset of a buttress, etc.}}{{nb...|skewe, skieu, scheu, scue, scuwe, scwe, scyue, skyue|otherforms=1}}, from {{der|en|xno|eschu}}, {{m|fro|escuwe}}, {{m|fro|eskeu}}, or {{der|en|ONF.|eschieu}}, {{m|fro|eskieu}}, {{m|fro|eskiu}},<ref>{{R:MED Online|entry=skeu|pos=''n.''(2)|noformat=yes|id=MED40661}}</ref> from {{der|en|fro|escu}}, {{m|fro|escut}}, {{m|fro|eschif|t=a shield}} (modern {{cog|fr|écu}}), from {{der|en|la|scūtum|t=a shield}},<ref>{{R:OED Online|pos=''n.{{sup|2}}''|noformat=yes|id=180784|date=1911}}</ref> from {{der|en|ine-pro|*skewH-|t=to cover, protect}} or {{m|ine-pro|*skey-|t=to cut, split}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|architecture}} A [[stone#Noun|stone]] at the [[foot#Noun|foot]] of the [[slope#Noun|slope]] of a [[gable]], the [[offset#Noun|offset]] of a [[buttress]], etc., [[cut#Verb|cut]] with a [[sloping#Adjective|sloping]] [[surface#Noun|surface]] and with a [[check#Noun|check]] to [[receive]] the [[coping stone]]s and [[retain]] them in [[place#Noun|place]]; a [[skew-corbel]].
+#* {{quote-book|en|author=James Morrison|chapter=Appendix II. Duodecimals. Or Cross Multiplication.|title=A Concise System of Commercial Arithmetic, Adapted to Modern Practice:{{nb...|With an Appendix; Containing a Series of Queries on Bills and Merchants’ Accounts, and a Course of Letters on Business; also, Duodecimals, Timber-measuring, Artificers’ Computations, and the Square and Cube Root, with Their Application. Designed as a Text-book for Schools; and and Peculiarly Adapted for Preparing Youth for Commercial Employment.}}|edition=new|location=London|publisher=[[w:Longman|Longman, Orme, Brown, Green, and Longmans]],{{nb...|Paternoster-Row.}}|year=1838|page=210|pageurl=https://books.google.com/books?id=KTsIAAAAIAAJ&pg=RA1-PA210|oclc=39476494|passage=How many yards of roofing and serking, in a Roof 45 feet, 8 in. long, from '''skew''' to '''skew'''; and 21 feet, 8 in. deep, from ridge to easing, including 9 inches for wall plates or double eave?}}
+
+=====Translations=====
+{{trans-top|stone with a sloping surface at the foot of the slope of a gable, etc.}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|clock skew}}
+* {{pedia|skew lines}}
+* {{pedia|skew|skew (disambiguation)}}
+
+----
+
+==Middle English==
+
+===Pronunciation===
+* {{IPA|enm|/skiu̯/}}
+* {{rhymes|enm|iu̯}}
+
+===Etymology 1===
+From an earlier form of {{bor|enm|non|ský}}, from {{der|enm|gem-pro|*skiwją}}; {{doublet|enm|sky}}.
+
+====Alternative forms====
+* {{alter|enm|skiw|skue|skyw|skewe|skwe|skiu|scue|schew}}
+
+====Noun====
+{{enm-noun|skewes}} 
+
+# [[sky]], [[air]]
+# {{lb|enm|rare}} [[cloud]]
+
+=====References=====
+* {{R:MED Online|entry= skeu  |part of speech= n.(1) |id= MED37680 |accessdate=2019-07-23}}
+
+===Etymology 2===
+From {{bor|enm|fro|escu}}, from {{der|enm|la|scūtum}}.
+
+====Alternative forms====
+* {{alter|enm|scuwe|skyu|scheu|skyew|scu}}
+
+====Noun====
+{{enm-noun|skewes}} 
+
+# A [[segment]] of carved stone to cover a gable with.
+
+=====References=====
+* {{R:MED Online|entry= skeu  |part of speech= n.(2) |id= MED40661 |accessdate=2019-07-23}}
+
+[[Category:enm:Atmosphere]]
+[[Category:enm:Building materials]]
+[[Category:enm:Weather]]
