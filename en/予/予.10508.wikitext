@@ -52,16 +52,16 @@ From {{inh|zh|sit-pro|*g-la||to pay; to give for}}.
 
 ===Etymology 2===
 {{zh-forms|alt=互,乎,與,護,付,給,呼,後,候,𢗝,厚,被-“by”,讓-“to allow; to cause”,使-“to cause”,俾-“to cause”,度-Quanzhou}}
-Most sources (e.g. {{zh-ref|Lin, 1999}}; {{zh-ref|Mei, 2007}}) consider {{och-l|與|id=2}} to be the original character; [https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia327pdf.pdf Taiwan's Ministry of Education] considers the cognate {{och-l|予|id=2}} to be the original character. In either case, this would be the same word as etymology 1.
+{{och-l|與|id=2}} is often considered to be the original character ({{zh-ref|Lin, 1998, 1999}}; {{zh-ref|Mei, 2007}}); [https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia327pdf.pdf Taiwan's Ministry of Education] considers the cognate {{och-l|予|id=2}} to be the original character. In either case, this would be the same word as etymology 1.
 
-Alternatively, {{zh-ref|Zhao (1991)}} argues that this is a {{der|zh|qfa-tak}} substrate, suggesting a borrowing from {{cog|tai-pro|*haɰᶜ||to give}}, whence {{cog|za|hawj||to give; to allow}} and {{cog|pcc|haec||to give; to allow}}. Note that the {{cog|tai|-}} word has been connected to {{cog|ltc|-}} {{ltc-l|許|to allow}} ({{zh-ref|Manomaivibool, 1975}}).
-
-On the other hand, {{zh-ref|Zheng (2008)}} considers both the {{cog|nan-hok|-}} word and the {{cog|qfa-tak}} word to be derived from {{zh-l|*與}}.
+Alternatively, {{zh-ref|Zhao (1991)}} argues that this is a {{der|zh|qfa-tak}} substrate, suggesting a borrowing from {{cog|tai-pro|*haɰᶜ||to give}}, whence {{cog|za|hawj||to give; to allow}} and {{cog|pcc|haec||to give; to allow}}. Note that the {{cog|tai|-}} word has been connected to {{cog|ltc|-}} {{ltc-l|許|to allow}} ({{zh-ref|Manomaivibool, 1975}}). On the other hand, {{zh-ref|Zheng (2008)}} considers both the {{cog|nan-hok|-}} word and the {{cog|qfa-tak}} word to be derived from {{zh-l|*與}}.
 
 Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the development of the ''h-'' initial:
 * {{cog|och|-}} {{IPAfont|/*ɡl/}} → {{IPAfont|/*ɡ/}} → {{IPAfont|/*ɣ/}} → {{IPAfont|/h/}} ({{zh-ref|Mei, 2007}})
 * Fricativization of the {{IPAfont|/*l/}} initial in {{cog|och|-}}, possibly originating in the Chu dialect ({{zh-ref|Zheng, 2008}})
-* {{IPAchar|/tʰ/}} (Quanzhou) → {{IPAchar|/h/}} (other varieties) ({{zh-ref|Zhou, 2006}}; Taiwan's Ministry of Education)
+* {{IPAchar|/tʰ/}} (Quanzhou) → {{IPAchar|/h/}} (other varieties) ({{zh-ref|Lin, 1998}}; {{zh-ref|Zhou, 2006}}; Taiwan's Ministry of Education)
+
+{{zh-ref|Sagart (2017)}} considers {{zh-l|*與}} to be a problematic etymon but agrees with the third theory on the development of ''h-'' above. He suggests that a possible trigger for the change from {{IPAchar|/tʰ/}} to {{IPAchar|/h/}} is that {{IPAchar|/tʰɔ/}} is often used with {{zh-l|*乞}} {{IPAchar|/kʰit/}}, allowing {{IPAchar|/kʰit tʰɔ/}} to be reanalysed as {{IPAchar|/kʰit hɔ/}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -74,7 +74,7 @@ Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Hokkien}} to [[give]]
+# {{lb|zh|Hokkien|Teochew}} to [[give]]
 #: {{zh-x|伊 予 我 五 箍。|He '''gave''' me five dollars.|MN}}
 # {{lb|zh|Hokkien}} to [[allow]]
 #: {{zh-x|予 伊 去！|Let it go!|MN}}
