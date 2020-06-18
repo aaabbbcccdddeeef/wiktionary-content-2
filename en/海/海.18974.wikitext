@@ -155,22 +155,21 @@ STEDT compares {{och-l|海}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 {{der-bottom}}
 
 ===Etymology 1===
-<div style="float:right">
+{{ja-kanjitab|yomi=k|うみ}}
 {{wp|lang=ja}}
 {{wp|Sea}}
 {{wp|Ocean}}
-</div>
-{{ja-kanjitab|yomi=k|うみ}}
 {{IPAfont|⟨umi<sub>1</sub>⟩}} → *{{IPAchar|/umij/}} → {{IPAchar|/umi/}}
 
-From {{inh|ja|ojp|sort=うみ|-}}, from {{inh|ja|jpx-pro|*omi}}.
+From {{inh|ja|ojp|sort=うみ|-}}, theorized as descending from {{inh|ja|jpx-pro|*omi}}.
 
 Has been thought to have been derived from a compound. There are two leading theories regarding the ultimate derivation:
-* Shift from {{m|ja|大|tr=ō-||[[big]], [[great]]}} + {{m|ja|水|tr=mi||[[water]]|pos=combining form}}.<ref>{{R:Nipponica}}</ref> This is problematic phonetically because there is no known term having a related shift from {{IPAchar|/opo/}} → {{IPAchar|/oː/}} → {{IPAchar|/o/}} → {{IPAchar|/u/}}, and semantically as there already exists a compound {{m|ja|大水|tr=ōmizu||[[flood]]}}.
-* From {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|水|tr=mi||water|pos=combining form}}. The ''u-'' stem is evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}
+* Shift from {{m|ja|大|tr=ō-||[[big]], [[great]]}} + {{m|ja|水|tr=mi||[[water]]|pos=combining form}}.<ref>{{R:Nipponica}}</ref>
+: This is problematic phonetically because there is no known term having a related shift from {{IPAchar|/opo/}} → {{IPAchar|/oː/}} → {{IPAchar|/o/}} → {{IPAchar|/u/}}, and semantically as there already exists a compound {{m|ja|大水|tr=ōmizu||[[flood]]}}.
+* From {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|水|tr=mi||water|pos=combining form}}. The ''u-'' stem is evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}, and in the {{m|ja|海|tr=una}} element in various ancient terms (see below).
 
 ====Pronunciation====
-* {{ja-pron|yomi=k|うみ|acc=1|acc_ref=NHK,DJR}}
+{{ja-pron|うみ|acc=1|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|うみ}}
@@ -191,12 +190,6 @@ This is the most common general term in modern Japanese for ''{{m|en|sea}}'' or 
 
 =====Derived terms=====
 {{der-top}}
-<!--* {{ja-r|鰻|うなぎ|[[eel]]}}-->
-* {{ja-r|海上|うなかみ}}, {{ja-r|海上|うながみ}}
-* {{ja-r|海境|うなさか|rom=-}}, {{ja-r|海界|うなさか|rom=-}}, {{ja-r|海坂|うなさか}}
-* {{ja-r|海%路|うな%じ}}
-* {{ja-r|海底|うなぞこ}}
-* {{ja-r|海原|うなばら|[[wide]] [[ocean]]}}
 * {{ja-r|海牛|うみうし|[[sea slug]]}}
 * {{ja-r|海風|うみかぜ|sea [[breeze]]}}
 * {{ja-r|海亀|うみがめ|[[sea turtle]]}}
@@ -229,14 +222,42 @@ This is the most common general term in modern Japanese for ''{{m|en|sea}}'' or 
 
 # {{given name|ja|female|A=a|sort=うみ}}
 
+====Further reading====
+* [http://gogen-allguide.com/u/umi.html The ''umi'' entry in Gogen-Allguide] (in Japanese)
+
 ===Etymology 2===
+{{ja-kanjitab|yomi=k|うな}}
+
+From {{inh|ja|ojp|sort=うな|-}}.  Thought to be comprised of {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|な|tr=na|pos=ancient alternative form of possessive particle {{ja-r|の}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The ''u-'' stem is also evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}.
+
+First cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
+
+====Pronunciation====
+{{ja-pron|うな}}
+
+====Prefix====
+{{ja-pos|prefix|うな}}
+
+# of the [[sea]], of the [[ocean]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|海上|うなかみ}}, {{ja-r|海上|うながみ}}
+* {{ja-r|海境|うなさか|rom=-}}, {{ja-r|海界|うなさか|rom=-}}, {{ja-r|海坂|うなさか}}
+* {{ja-r|海%路|うな%じ}}
+* {{ja-r|海底|うなぞこ}}
+* {{ja-r|海原|うなばら|[[wide]] [[ocean]]}}
+{{der-bottom}}
+
+===Etymology 3===
 {{ja-kanjitab|yomi=k|わた}}
+
 From {{inh|ja|ojp|sort=わた|-}}, from {{inh|ja|jpx-pro|sort=わた|*wata}}.
 
 May be related to {{cog|zkg|波旦|tr=padan}}. Possibly related to {{cog|ko|바다||[[ocean]], [[sea]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|わた}}
+{{ja-pron|わた}}
 
 ====Noun====
 {{ja-noun|わた}}
@@ -253,12 +274,13 @@ May be related to {{cog|zkg|波旦|tr=padan}}. Possibly related to {{cog|ko|바�
 * {{ja-r|海の原|わた の はら}}
 {{der-bottom}}
 
-===Etymology 3===
+===Etymology 4===
 {{ja-kanjitab|yomi=k|み}}
+
 Either cognate with {{m|ja|水|tr=mi||[[water]]}}, or an abbreviation of ''umi'' above.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|み}}
+{{ja-pron|み}}
 
 ====Noun====
 {{ja-noun|み}}
@@ -268,12 +290,13 @@ Either cognate with {{m|ja|水|tr=mi||[[water]]}}, or an abbreviation of ''umi''
 =====Derived terms=====
 * {{ja-r|温%海|^あつ%み}}
 
-===Etymology 4===
+===Etymology 5===
 {{ja-kanjitab|かい|yomi=on}}
+
 From {{der|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
 
 ====Pronunciation====
-{{ja-pron|かい|y=on}}
+{{ja-pron|かい}}
 
 ====Affix====
 {{ja-pos|affix|かい}}
@@ -282,7 +305,6 @@ From {{der|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
 
 ===References===
 <references/>
-:* {{R:Kokugo Dai Jiten}}
 
 [[Category:Japanese basic words]]
 
