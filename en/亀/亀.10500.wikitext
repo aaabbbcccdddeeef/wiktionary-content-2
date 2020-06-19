@@ -27,72 +27,103 @@ Variant of {{l|mul|龜}}, {{Han simp|龜|nocap=1}}. The modern Japanese usage is
 ===Kanji===
 {{ja-kanji|grade=c|rs=乙10|kyu=龜}}
 
-# [[tortoise]], [[turtle]]
-
 ====Readings====
 {{ja-readings
-|goon=き, く, こん
-|kanon=き, きゅう<きう, きん
+|goon=き
+|kanon=き
 |kun=かめ-
-|nanori=ひさ, ひさし
+|nanori=あま, すすむ, ひさ, ひさし
 }}
+From {{cog|ltc|-}} {{ltc-l|龜|id=2}}, as in {{m|ja|亀茲|tr=Kyūji}}
+{{ja-readings
+|goon=く
+|kanon=きゅう<きう
+}}<!--
+{{ja-readings
+|goon=こん
+|kanon=きん
+}}-->
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|青%海%亀|あお%うみ%がめ}}
-* {{ja-r|赤%海%亀|あか%うみ%がめ}}
-* {{ja-r|石%亀|いし%がめ}}
-* {{ja-r|海%亀|うみ%がめ}}
+* {{ja-r|神%亀|^じん%き}}
+* {{ja-r|金亀子|コガネムシ}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|かめ}}
+[[File:Sea Turtle side - Churaumi Aquarium.jpg|thumb|250px|{{m|ja|亀|tr=kame}}: a '''turtle'''.]]
+
+{{IPAfont|⟨kame<sub>2</sub>⟩}} → *{{IPAchar|/kaməɨ/}} → {{IPAchar|/kame/}}
+
+From {{inh|ja|ojp|sort=かめ|-}}.
+
+====Pronunciation====
+{{ja-pron|かめ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=龜|かめ|カメ}}
+
+# a [[tortoise]] or [[turtle]] {{gl|[[land]] or [[marine]] [[reptile]] with a [[shell]]}}
+#* '''2007''', Kōsuke Hasumi, ''The Biology of Fairy Tales'' (page 28)
+#*: {{ja-usex|休んで負けてしまったウサギと休まず走って勝利した'''カメ'''。|やすんで まけて しまった ウサギ と やすまず はしって しょうり した '''カメ'''。|The '''tortoise''' that ran without resting and won, and the hare that rested and lost.}}
+# {{lb|ja|sort=かめ|by extension|figurative|as [[turtle]]s are thought to be [[good]] [[drinker]]s}} a [[drunkard]]
+# a {{m|ja|家紋|tr=kamon||[[family]] [[crest]]}} with various [[design]]s of tortoises
+# {{lb|ja|figurative}} [[sluggishness]]; also, such a [[person]]
+# a [[shrugger]]
+# {{lb|ja|sort=かめ|slang|as it [[resemble]]s a turtle's [[neck]]}} a [[penis]]
+
+=====Usage notes=====
+{{U:ja:biology|カメ}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|亀%卜|かめ%うら}}
+* {{ja-r|亀 鳴く|かめ なく}}
+* {{ja-r|亀の子|かめ の こ}}
+* {{ja-r|亀の甲|かめ の こう}}
+* {{ja-r|亀の手|かめ の て|rom=-}}, {{ja-r|石蜐|カメ ノ テ}}
+* {{ja-r|がめ}}
+* {{ja-r|石%亀|イシ%ガメ}}
+* {{ja-r|海%亀|ウミ%ガメ}}
 * {{ja-r|阿%亀|お%かめ}}
-* {{ja-r|亀%卜|かめ%うら}}, {{ja-r|亀%卜|き%ぼく}}
+* {{ja-r|神%亀|しん%かめ}}
+* {{ja-r|銭%亀|ゼニ%ガメ}}
+* {{ja-r|鶴%亀|つる%かめ}}
+* {{ja-r|出歯%亀|でば%かめ}}
+* {{ja-r|花%亀%虫|ハナ%ガメ%ムシ}}
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|亀の年を鶴が羨む|かめ の とし を つる が うらやむ}}
+
+=====Proverbs=====
+* {{ja-r|鶴は千%年%亀は万%年|つる は せん%ねん% かめ は まん%ねん}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|き}}
+
+From {{der|ja|ltc|sort=き|-}} {{ltc-l|龜|id=1}}.
+
+====Affix====
+{{ja-pos|affix|kyu=龜|き}}
+
+# [[tortoise]], [[turtle]]
+# [[tortoise shell]] [[use]]d in [[divination]]
+
+=====Derived terms=====
+{{der-top3}}
 * {{ja-r|亀%鑑|き%かん}}
 * {{ja-r|亀%甲|きっ%こう}}
-* {{ja-r|亀%甲%模%様|きっ%こう%も%よう}}
 * {{ja-r|亀%頭|き%とう}}
+* {{ja-r|亀%卜|き%ぼく}}
 * {{ja-r|亀%裂|き%れつ}}
-* {{ja-r|銭%亀|ぜに%がめ}}
-* {{ja-r|出歯%亀|でば%かめ}}
-* {{ja-r|金%亀%子|こ%がね%むし}}
-* {{ja-r|花%亀%虫|はな%かめ%むし}}
+* {{ja-r|神%亀|しん%き}}
 * {{ja-r|盲%亀|もう%き}}
 {{der-bottom}}
 
-===Pronunciation===
-{{ja-kanjitab|yomi=k|かめ}}
-[[File:Sea Turtle side - Churaumi Aquarium.jpg|thumb|250px|{{m|ja|亀|tr=kame}}: a '''[[turtle]]'''.]]
-{{ja-pron|かめ|acc=1|acc_ref=DJR,NHK}}
-
-===Noun===
-{{ja-noun|kyu=龜|かめ|カメ}}
-
-# a [[turtle]] {{gl|land or marine reptile with a shell}}
-#* '''2007''', 蓮実香佑 Hasumi Kōsuke, おとぎ話の生物学 ''The Biology of Fairy Tales'', page 28
-#*: {{ja-usex|休んで負けてしまったウサギと休まず走って勝利した'''カメ'''。|やすんで まけて しまった ウサギ と やすまず はしって しょうり した '''カメ'''。|The '''tortoise''' that ran without resting and won, and the hare that rested and lost.}}
-#* {{quote-book|ja
-|||{{lj|[Starter Box](スターターボックス)}}
-|||date=Mar 6 1999
-|publisher={{w|Konami}}
-|chapter={{lj|モンスタートル}}
-|trans-chapter=Monsturtle}}
-#*: {{ja-usex|トゲのついたこうらを身につけた'''カメ'''。とても凶%暴で人になつかない。|トゲ の ついた こうら を み に つけた '''カメ'''。とても きょう%ぼう で ひと に なつかない。|A turtle sheltered in a spiked shell. It is very hostile against humans.}}
-#* {{quote-book|ja
-|||{{lj|Magic Ruler －魔法の支配者－}}
-|||date=Apr 20 2000
-|publisher={{w|Konami}}
-|chapter={{lj|[炎](ほのお)を[食](く)らう[大](おお)[亀](ガメ)}}
-|trans-chapter=Giant Fire-Eating Turtle}}
-#*: {{ja-usex|真っ赤な甲%羅が特%徴の'''カメ'''。炎を食べると言われている。|まっか な こう%ら が とく%ちょう の '''カメ'''。ほのお を たべる と いわれている。|A turtle with a distinctively deep red shell. It is said to feed on fire.}}
-
-====Usage notes====
-{{U:ja:biology|カメ}}
-
-====Related terms====
-* {{l|ja|亀の甲}}
-* {{l|ja|亀の子}}
-* {{l|ja|亀の手}}
-
-===Phrase===
-* {{ja-r|盲%亀 浮%木 に 値う|もう%き ふ%ぼく に あう}}
+===See also===
+* {{ja-r|タートル}}
+* {{ja-r|トータス}}
+* {{ja-r|鼈|スッポン}}
 
 ===References===
 <references/>
