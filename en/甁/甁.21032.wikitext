@@ -21,10 +21,15 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=瓦08|shin=瓶}}
 
-# [[jug]]
+# {{ja-kyujitai spelling of|瓶}}
 
 ====Readings====
-* {{ja-readings|on=[[へい]] (hei), [[びん]] (bin)|kun=[[かめ]] (kame)|nanori=}}
+{{ja-readings
+|goon=びょう<びやう
+|kanon=へい
+|toon=びん
+|kun=かめ-
+}}
 
 ----
 
@@ -34,3 +39,25 @@
 {{ko-hanja/new|병|병}}
 
 # [[bottle]], [[jar]]
+
+----
+
+==Old Japanese==
+
+===Etymology===
+From {{inh|ojp|jpx-pro|sort=かめ|*kanpaCi}}.<ref>{{R:ja:Martin 1987}}</ref>
+
+Alternatively, cognate with modern {{cog|ja|釜|tr=kama||[[cauldron]], [[kettle]], [[pot]]}}. {{rfv-etym|ja|sort=かめ}}
+
+===Noun===
+{{head|ojp|noun|tr=kame<sub>1</sub>|kana|かめ|sort=かめ}}
+
+# a [[vessel]] [[make|made]] of [[earthenware]], [[ceramic]], or [[metal]], such as a [[bottle]] or [[jar]]
+#* {{circa2|'''715'''|short=1}}, ''[[w:ja:播磨国風土記|Harima-no-kuni Fudoki]]'' (''Inami'')
+#*: {{ux|ojp|...'''甁'''酒&#64095;<sub>二</sub>於馬尻<sub>一</sub>、求<sub>二</sub>行家地<sub>一</sub>、其'''甁'''落<sub>二</sub>於此村<sub>一</sub>。}}
+
+====Descendants====
+* {{desc|ja|[[瓶]], [[甕]]|tr=kame}}
+
+===References===
+<references/>
