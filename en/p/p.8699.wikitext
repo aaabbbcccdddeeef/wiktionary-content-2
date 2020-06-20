@@ -306,21 +306,35 @@ Abbreviations
 
 ==Hungarian==
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 * {{sense|phoneme}} {{hu-IPA}}
 * {{sense|letter name}} {{hu-IPA|pé}}
 
-===Letter===
+====Letter====
 {{hu-letter|upper=P|lower=p}}
 
 # {{Latn-def|hu|letter|28|pé}}
+
+=====Declension=====
+{{hu-infl-nom|p-|e}}{{hu-pos-tek|p-}}
+
+====See also====
+* {{list:Latin script letters/hu}}
+
+===Etymology 2===
+
+====Pronunciation====
+* {{hu-IPA|perc}}
+
+====Noun====
+{{hu-noun|-ek}}
+
 # {{abbreviation of|hu|perc|t=minute[s]}}
 
 ====Declension====
-{{hu-infl-nom|p-|e}}{{hu-pos-tek|p-}}
-
-===See also===
-* {{list:Latin script letters/hu}}
+{{hu-infl-nom|p-e|e|e|v=c}}{{hu-pos-etek|p-||ei}}
 
 ----
 
