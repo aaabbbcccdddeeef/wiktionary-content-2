@@ -126,6 +126,11 @@ Cognate with {{cog|th|บ่||(''literary, archaic, dialectal'') not}} ({{zh-ref
 * 不 is similar to a verb prefix that forms a '''stative verb''' with the verb to be negated. Therefore the predicates of the {{lang|zh|不}} sentences that contain the new compound verbs can not be modified by the perfective aspect marker {{zh-l|了}}, which modifies only '''dynamic verbs'''.
 *: {{zh-x|我 不 當兵 了。|I am '''no''' longer a soldier.}}
 ** When {{lang|zh|了}} appears in a {{lang|zh|不}} sentence, it usually functions as a marker of "currently relevant state" instead. See the sentence above and notice that it does not mean "I have not become a soldier".
+* {{lang|zh|不}} can not be used continuously. If the word to be negated already begins with a {{lang|zh|不}}, it can not be negated by a single {{lang|zh|不}}. Depending on the context, in such places other negative particles should be used instead, e.g., intensified {{zh-l|不是}}, {{zh-l|並非}}, past tense {{zh-l|沒有}}, future tense {{zh-l|不會}}.
+** Incorrect:
+**: {{lang|zh|*這個問題'''不'''不值一提。}}
+** Correct:
+**: {{lang|zh|這個問題'''不是'''不值一提。}} ("This problem is not unworth mentioning.")
 
 ===Pronunciation 2===
 {{zh-pron
