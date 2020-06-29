@@ -116,21 +116,26 @@ Cognate with {{cog|th|บ่||(''literary, archaic, dialectal'') not}} ({{zh-ref
 
 =====Usage notes=====
 * The tone changes from fourth to second tone when followed by a fourth-tone syllable.
-* When negating the verb {{zh-l|有}} (to have), {{zh-l|沒}} is used instead of {{lang|zh|不}} (i.e. {{zh-l|沒有}}, rather than *{{lang|zh|不有}}).
-* The word '''no''' does not have a translation in Chinese. To answer "no" to a yes/no question (either "affirmative-negative questions" ({{zh-l|正反問句}}) or a {{zh-l|嗎}} question), you have to use the verb of the question in negative form, i.e. preceded by '''{{lang|zh|不}}''' (or by {{zh-l|沒}} in the case of {{zh-l|有}}).
-*: {{zh-x|你 認識 他 嗎？不 認識。|Do you know him? '''No'''.}}
-*: {{zh-x|你 認 不 認識 他？不 認識。|Do you know ['''not''' know] him? '''No'''.}}
-** If there is no verb to negate in the context, {{zh-l|不是}} is used.
-** "No" can be translated by {{zh-l|否}} alone, but this is formal and not normally used in standard Chinese.
-** When a verb is two characters long, truncating it to the first character before {{lang|zh|不}} may sound more natural, as in the example above ({{l|zh|'''[[認]]'''不'''[[認識]]'''[[他]]／'''[[认]]'''不'''[[认识]]'''[[他]]}} as opposed to {{l|zh|'''[[認識]]'''不'''[[認識]]'''[[他]]／'''[[认识]]'''不'''[[认识]]'''[[他]]}})
-* 不 is similar to a verb prefix that forms a '''stative verb''' with the verb to be negated. Therefore the predicates of the {{lang|zh|不}} sentences that contain the new compound verbs can not be modified by the perfective aspect marker {{zh-l|了}}, which modifies only '''dynamic verbs'''.
-*: {{zh-x|我 不 當兵 了。|I am '''no''' longer a soldier.}}
-** When {{lang|zh|了}} appears in a {{lang|zh|不}} sentence, it usually functions as a marker of "currently relevant state" instead. See the sentence above and notice that it does not mean "I have not become a soldier".
-* {{lang|zh|不}} can not be used continuously. If the word to be negated already begins with a {{lang|zh|不}}, it can not be negated by a single {{lang|zh|不}}. Depending on the context, in such places other negative particles should be used instead, e.g., intensified {{zh-l|不是}}, {{zh-l|並非}}, past tense {{zh-l|沒有}}, future tense {{zh-l|不會}}.
-** Incorrect:
-**: {{lang|zh|*這個問題'''不'''不值一提。}}
-** Correct:
-**: {{lang|zh|這個問題'''不是'''不值一提。}} ("This problem is not unworth mentioning.")
+* {{lang|zh|不}} as a negative particle:
+** The past-perfect form of {{lang|zh|不}} is {{zh-l|沒}} or {{zh-l|未}}, not *{{lang|zh|不了}}
+**: {{zh-x|我 不 當兵。|I am '''not''' becoming a soldier.}}
+**: {{zh-x|我 '''沒''' 當兵。|I did '''not''' become a soldier.}}
+**: {{zh-x|我 '''未''' 當兵。|I did '''not''' become a soldier.}}
+**: {{zh-x|我 '''不''' 當兵 '''了'''。|I am '''no longer''' a soldier.}}
+**:: Note that the 4th sentence does not mean "I have not become a soldier". Syntactically, {{lang|zh|不}} is a verb prefix that forms a '''stative verb''' with the verb to be negated. Therefore it can not be modified by the perfective aspect marker {{zh-l|了}}, which modifies only '''dynamic verbs'''. When {{lang|zh|了}} appears in a {{lang|zh|不}} sentence, it usually functions as a marker of "currently relevant state" instead.
+** {{lang|zh|不}} can not be used before the verb {{zh-l|有|to have}}. Use {{zh-l|沒}} instead.
+**: Incorrect:
+**:: {{lang|zh|*我'''不有'''手機。}}
+**: Correct:
+**:: {{zh-x|我 '''沒有''' 手機。|I do '''not''' have a mobile phone.}}
+** {{lang|zh|不}} can not be used before compounds beginning with {{lang|zh|有}}, or another {{lang|zh|不}}. Depending on the context, other negative particles must be used instead, e.g., intensified {{zh-l|不是}}, {{zh-l|並非}}, past tense {{zh-l|沒有}}, future tense {{zh-l|不會}}.
+**: Incorrect:
+**:: {{lang|zh|*這個問題'''不'''不值一提。}}
+**: Correct:
+**:: {{zh-x|這 個 問題 '''不是''' 不值 一 提。|This problem is not unworth mentioning.}}
+* Although {{lang|zh|不}} can be used like English ''no'' to answer a yes/no question, it is more natural to answer it by changing the question to a negative statement.
+*: {{zh-x|你 認識 他 嗎？不。|Do you know him? '''No'''.}}
+*: {{zh-x|你 認識 他 嗎？我 不 認識。|Do you know him? '''No'''.}}
 
 ===Pronunciation 2===
 {{zh-pron
