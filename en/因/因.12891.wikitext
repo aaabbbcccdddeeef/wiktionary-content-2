@@ -89,14 +89,16 @@
 ===Kanji===
 {{ja-kanji|grade=5|rs=囗03}}
 
-# because; cause
-
 ====Readings====
 {{ja-readings
 |goon=いん
 |kanon=いん
-|kun=よ-る, ちな-む, よって
+|kun=よ-る, ちな-む
+|nanori=なみ, ゆかり, よし, より
 }}
+
+====Compounds====
+* {{ja-r|因幡|^いなば}}
 
 ===Etymology 1===
 {{ja-kanjitab|いん|yomi=on}}
@@ -109,8 +111,37 @@ From {{der|ja|ltc|sort=いん|-}} {{ltc-l|因}}.
 ====Affix====
 {{ja-pos|affix|いん}}
 
-# [[cause]]; [[reason]]
-# [[follow]]; be [[based]] on
+# [[cause]], [[reason]]
+# [[follow#Verb|follow]], [[be]] [[based]] on
+# {{short for|ja|[[因幡]][[因幡国|国]]|tr=Inaba no kuni|dot=:|sort=いん}} {{w|Inaba Province}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|因%果|いん%が}}
+* {{ja-r|因%業|いん%ごう}}
+* {{ja-r|因%子|いん%し}}
+* {{ja-r|因%州|^いん%しゅう}}
+* {{ja-r|因%習|いん%しゅう}}
+* {{ja-r|因%循|いん%じゅん}}
+* {{ja-r|因%縁|いん%ねん}}
+* {{ja-r|因%由|いん%ゆう}}
+* {{ja-r|一%因|いち%いん}}
+* {{ja-r|遠%因|えん%いん}}
+* {{ja-r|起%因|き%いん}}
+* {{ja-r|近%因|きん%いん}}
+* {{ja-r|偶%因|ぐい%いん}}
+* {{ja-r|原%因|げん%いん}}
+* {{ja-r|死%因|し%いん}}
+* {{ja-r|主%因|しゅ%いん}}
+* {{ja-r|勝%因|しょう%いん}}
+* {{ja-r|真%因|しん%いん}}
+* {{ja-r|成%因|せい%いん}}
+* {{ja-r|素%因|そ%いん}}
+* {{ja-r|敗%因|はい%いん}}
+* {{ja-r|病%因|びょう%いん}}
+* {{ja-r|誘%因|ゆう%いん}}
+* {{ja-r|要%因|よう%いん}}
+{{der-bottom}}
 
 ====Noun====
 {{ja-noun|いん}}
@@ -118,18 +149,26 @@ From {{der|ja|ltc|sort=いん|-}} {{ltc-l|因}}.
 # [[cause]]; [[reason]]; [[factor]]
 # {{lb|ja|Buddhism}} {{rfdef|ja}}
 # {{lb|ja|Indian logic}} {{rfdef|ja}}
+
+=====Derived terms=====
+* {{ja-r|因する|いんする}}
+* {{ja-r|因%数|いん%すう}}
+
+====Proper noun====
+{{ja-pos|proper|いん}}
+
 # {{surname|ja|sort=いん|A=a|nodot=1}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|ちな|o1=み}}
-{{ja-see|ちなみ}}
+{{ja-gv|ちなみ}}
 {{-}}
 ===Etymology 3===
-{{ja-kanjitab|yomi=k|よし}}
+{{ja-kanjitab|yomi=n|よし}}
 {{ja-see|よし}}
 
 ===Etymology 4===
-{{ja-kanjitab|yomi=k|よすが}}
+{{ja-kanjitab|yomi=n|よすが}}
 {{ja-see|よすが}}
 
 ===References===
