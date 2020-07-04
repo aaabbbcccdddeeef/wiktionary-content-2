@@ -79,6 +79,55 @@ While the second pronunciation is the expected one for the particle, the first, 
 
 # {{pi-sc|Deva|na}}
 
+===Adjective===
+{{pi-adj}}
+
+# {{pi-sc|Deva|na}} (“that”)
+
+====Declension====
+<!-- {{pi-alt|Latn=nesaṃ nassa naṃ nā}}  Declension aid -->
+{{pi-decl-noun|g=m
+|nonom=true|novoc=true|noins=true|noabl=true|noloc=true
+|genp_mod=replace|genp=नेसं
+|datp_mod=replace|datp=नेसं
+|dats_mod=replace|dats=नस्स
+}}
+{{pi-decl-noun|ना|g=f
+|nonom=true|novoc=true|noins=true|noabl=true|noloc=true
+|nogen=true|nodat=true
+|number=s
+}}
+{{pi-decl-noun|g=n
+|nonom=true|novoc=true|noins=true|noabl=true|noloc=true
+|dats_mod=replace|dats=नस्स
+|number=s
+}}
+
+===Pronoun===
+{{pi-pronoun|m}}
+
+# {{pi-sc|Deva|na}} (“him, it, that”)
+
+====Declension====
+{{pi-decl-noun|g=m
+|nonom=true|novoc=true|noins=true|noabl=true|noloc=true
+|genp_mod=replace|genp=नेसं
+|datp_mod=replace|datp=नेसं
+|dats_mod=replace|dats=नस्स
+}}
+
+===Pronoun===
+{{pi-pronoun|n}}
+
+# {{pi-sc|Deva|na}} (“it, that”)
+
+====Declension====
+{{pi-decl-noun|g=n
+|nonom=true|novoc=true|noins=true|noabl=true|noloc=true
+|dats_mod=replace|dats=नस्स
+|number=s
+}}
+
 ----
 
 ==Raute==
