@@ -94,12 +94,12 @@ mainstream Taiwan: lí - vernacular; jú/lú - literary
 
 {{IPAchar|/na mut͡ɕi/}} → {{IPAchar|/namʉd͡ʑi/}} → {{IPAchar|/nand͡ʑi/}}
 
-Originally a compound of {{inh|ja|ojp|-}} {{compound|ja|sort=なんじ|汝|tr1=na|pos1=[[second person]] [[singular]] [[pronoun]], see Etymology 3 below|貴|tr2=muchi|t2=[[noble]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
+Originally a compound of {{compound|ja|sort=なんじ|汝|tr1=na|pos1=[[second person]] [[singular]] [[pronoun]], see Etymology 3 below|貴|tr2=muchi|t2=[[noble]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
 Also written as {{ja-r|なむぢ}} in older texts, since the ''namuchi'', ''namuji'', and ''nanji'' readings likely existed in free variation until the development of the {{ja-r|ん}} [[grapheme]].
 
 ====Pronunciation====
-{{ja-pron|yomi=k|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+{{ja-pron|なんじ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
 ====Pronoun====
 {{ja-pos|pronoun|なんじ|hhira=なんぢ}}
@@ -163,7 +163,7 @@ Possibly cognate with second-person singular informal pronoun {{cog|ko|너}}.
 ===Etymology 4===
 {{ja-kanjitab|yomi=i|うぬ|alt=己}}
 
-Sound shift from [[reflexive pronoun]] {{m|ja|己|tr=ono}}.<ref name="DJR"/>
+Sound shift from [[reflexive pronoun]] {{m|ja|己|tr=ono}}, {{inh|ja|ojp|己|tr=ono<sub>2</sub>}}.<ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|うぬ|acc=0|acc2=1|acc_ref=DJR|acc2_ref=DJR}}
@@ -177,7 +177,7 @@ Sound shift from [[reflexive pronoun]] {{m|ja|己|tr=ono}}.<ref name="DJR"/>
 #: {{syn|ja|自分自身|tr=jibun-jishin}}
 
 =====Derived terms=====
-* {{ja-r|汝%等|う%ぬら}}
+* {{ja-r|汝%等|うぬ%ら}}
 * {{ja-r|うなうな}}
 
 ====Interjection====
@@ -198,7 +198,7 @@ Shift from {{inh|ja|ojp|汝|tr=si}} of the same meaning.
 # {{lb|ja|archaic|obsolete}} {{n-g|[[second-person singular]] [[pronoun]]:}} [[you]], [[thou]]
 
 ===Etymology 6===
-{{ja-kanjitab|yomi=i|いまし}}
+{{ja-kanjitab|yomi=k|いまし}}
 
 The [[nominalization]] of [[honorific]] verb {{m|ja|坐す|tr=imasu||to [[be]]|pos=honorific}}.<ref name="KDJ"/>
 
@@ -265,7 +265,7 @@ Alternatively, possibly a borrowing from {{bor|ojp|oko|sort=な|-}}; compare mod
 * {{desc|ja|汝|tr=na}}
 
 =====See also=====
-* {{m|ojp|劍太刀|tr=turugi<sub>2</sub>-tati|pos=[[pillow word]] that can allude to ''na''}}
+* {{m|ojp|劍太刀|tr=turugi<sub>1</sub>-tati|pos=[[pillow word]] that can allude to ''na''}}
 
 ===Etymology 2===
 From {{suffix|ojp|sort=なれ|汝|tr1=na|pos1=[[second person]] [[singular]] [[pronoun]], see Etymology 1 above|れ|tr2=re|pos2=nominalizing suffix}}.
@@ -282,7 +282,7 @@ From {{suffix|ojp|sort=なれ|汝|tr1=na|pos1=[[second person]] [[singular]] [[p
 * {{desc|ja|汝|tr=nare}}
 
 ===Etymology 3===
-Cognate with {{m|ojp|其|tr=si|pos=[[third-person]] [[pronoun]]}} and {{m|ojp|己|tr=si|pos=[[reflexive pronoun]]}}.
+Cognate with {{m|ojp|其|tr=si|pos=[[third-person]] [[pronoun]]}} and {{m|ojp|己|tr=si|pos=[[reflexive pronoun]]}}. {{rfv-etym|ojp}}
 
 ====Pronoun====
 {{head|ojp|pronoun|tr=si|kana|し}}
