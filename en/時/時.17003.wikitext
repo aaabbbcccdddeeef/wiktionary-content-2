@@ -103,19 +103,25 @@ From {{och-l|之|to go; to proceed}} + endopassive voicing + endoactive tone B (
 * {{ja-r|時化|しけ}}
 * {{ja-r|時雨|しぐれ}}
 * {{ja-r|時計|とけい}}
-* {{ja-r|時鳥|ホトトギス}}
+* {{ja-r|時鳥|ほととぎす}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|とき|alt=刻:rare}}
 
 {{IPAfont|⟨to<sub>2</sub>ki<sub>1</sub>⟩}} → *{{IPAchar|/təkʲi/}} → {{IPAchar|/toki/}}
 
-From {{inh|ja|ojp|sort=とき|-}}.
+From {{inh|ja|ojp|sort=とき|-}}.  First cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-Possibly a fusion of {{prefix|ja|sort=とき|常|tr1=toko|pos1=[[prefix]] for “[[always]], [[unchanging]]”|い|tr2=i|pos2=Old Japanese nominalizing suffix}}. {{rfv-etym|ja|sort=とき}}
+There are various theories regarding the ultimate derivation.
+
+* Possibly a fusion of {{prefix|ja|sort=とき|常|tr1=toko|pos1=[[prefix]] for “[[always]], [[unchanging]]”|い|tr2=i|pos2=Old Japanese nominalizing suffix}}.
+: However, the sense of “unchanging” does not fit well with the sense of “the passing of time”.  Separately, the phonetics of {{cog|ojp|-}} {{IPAfont|⟨ki<sub>1</sub>⟩}} → {{IPAchar|/kʲi/}} appear to [[contraindicate]] a fusion of {{IPAchar|/ko/}} + {{IPAchar|/i/}}, which resulted in {{IPAfont|⟨ki<sub>2</sub>⟩}} → {{IPAchar|/kʷi/}} as seen at {{m|ja|木}}.
+* Possibly derived from or otherwise related to {{m|ja|疾し|tr=toshi||sharp; happening quickly}}, cognate with {{m|ja|研ぐ|tr=togu||to sharpen}}.
+: The {{cog|ojp|-}} phonetics of {{IPAfont|⟨to<sub>2</sub>ki<sub>1</sub>⟩}} would match the [[attributive]] form of the adjective {{m|ja|疾し|tr=toshi}}.  However, the attributive form of adjectives was not generally used to derive nouns.
+* Possibly related to {{m|ja|年|tr=toshi||year}}, which may also be cognate with {{m|ja|疾し|tr=toshi||sharp; happening quickly}}.
 
 ====Pronunciation====
-{{ja-pron|とき|acc=2|acc_ref=SMK2,ZAJ}}
+{{ja-pron|とき|acc=2|acc_ref=DJR,SMK5,NHK,ZAJ}}
 
 ====Noun====
 {{ja-noun|とき}}
@@ -164,6 +170,9 @@ Possibly a fusion of {{prefix|ja|sort=とき|常|tr1=toko|pos1=[[prefix]] for �
 {{ja-pos|proper|とき}}
 
 # {{given name|ja|female|A=a|sort=とき}}
+
+====Further reading====
+[http://gogen-allguide.com/to/toki.html The ''toki'' entry at Gogen Allguide] (in Japanese)
 
 ===Etymology 2===
 {{ja-kanjitab|じ|yomi=goon}}
@@ -233,14 +242,20 @@ From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}.
 
 ===Etymology 3===
 {{ja-kanjitab|さだ|yomi=i}}
-{{IPAchar|⟨sida⟩}} → {{IPAchar|⟨sada⟩}} → *{{IPAchar|/saⁿda/}} → {{IPAchar|/sada/}}
 
-Sound shift from {{inh|ja|ojp|sort=さた|しだ|tr=sida → shida||[[time#Noun|time]], [[circumstance]]}}.<ref name=DJR>{{R:Daijirin}}</ref>
+Either a sound shift from,<ref name=DJR/> or cognate with,<ref name="KDJ"/> {{inh|ja|ojp|sort=さた|しだ|tr=sida → shida||[[time#Noun|time]], [[circumstance]]}}.
+
+* {{IPAchar|⟨sida⟩}} → {{IPAchar|⟨sada⟩}} → *{{IPAchar|/saⁿda/}} → {{IPAchar|/sada/}}
+: or:
+* {{IPAchar|⟨sada⟩}} → *{{IPAchar|/saⁿda/}} → {{IPAchar|/sada/}}
+
+====Pronunciation====
+{{ja-pron|さだ}}
 
 ====Noun====
 {{ja-noun|さだ}}
 
-# {{lb|ja|obsolete|sort=さた}} {{only used in|ja|時過ぐ|tr=sada sugu}}: to [[pass through]] the [[prime of life]], [[grow#Verb|grow]] [[old#Adjective|old]]
+# {{lb|ja|obsolete|sort=さだ}} {{only used in|ja|時過ぐ|tr=sada sugu}}: to [[pass through]] the [[prime of life]], [[grow#Verb|grow]] [[old#Adjective|old]]
 
 ===References===
 <references/>
