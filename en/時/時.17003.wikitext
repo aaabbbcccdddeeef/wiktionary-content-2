@@ -91,102 +91,74 @@ From {{och-l|之|to go; to proceed}} + endopassive voicing + endoactive tone B (
 ===Kanji===
 {{ja-kanji|grade=2|rs=日06}}
 
-# [[time]]
-
 ====Readings====
 {{ja-readings
 |goon=じ
 |kanon=し
-|kun=とき-, これ-
+|kun=とき-
+|nanori=これ, ちか, はる, もち, ゆき, よし, より
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|時%間|じ%かん}}
-* {{ja-r|時%期|じ%き}}
-* {{ja-r|時%機|じ%き}}
-* {{ja-r|時%季|じ%き}}
-* {{ja-r|時%勢|じ%せい}}
-* {{ja-r|時%世|じ%せい}}
-* {{ja-r|時%制|じ%せい}}
-* {{ja-r|時%節|じ%せつ}}
-* {{ja-r|時%速|じ%そく}}
-* {{ja-r|時%代|じ%だい}}
-* {{ja-r|時%短|じ%たん}}
-* {{ja-r|時%分|じ%ぶん}}
-* {{ja-r|時%文|じ%ぶん}}
+* {{ja-r|時化|しけ}}
 * {{ja-r|時雨|しぐれ}}
 * {{ja-r|時計|とけい}}
-{{der-bottom}}
+* {{ja-r|時鳥|ホトトギス}}
 
 ===Etymology 1===
-{{ja-kanjitab|とき|yomi=k}}
+{{ja-kanjitab|yomi=k|とき|alt=刻:rare}}
 
-{{IPAfont|/to<sub>2</sub>ki<sub>1</sub>/}} → {{IPAchar|/toki/}}
+{{IPAfont|⟨to<sub>2</sub>ki<sub>1</sub>⟩}} → *{{IPAchar|/təkʲi/}} → {{IPAchar|/toki/}}
 
-From {{inh|ja|ojp|sort=とき|-}}.  Found in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref>{{RQ:Manyoshu|3|467}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man3Yos.html#467 here]</ref>
+From {{inh|ja|ojp|sort=とき|-}}.
+
+Possibly a fusion of {{prefix|ja|sort=とき|常|tr1=toko|pos1=[[prefix]] for “[[always]], [[unchanging]]”|い|tr2=i|pos2=Old Japanese nominalizing suffix}}. {{rfv-etym|ja|sort=とき}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|とき|acc=2|acc_ref=SMK2,ZAJ}}
+{{ja-pron|とき|acc=2|acc_ref=SMK2,ZAJ}}
 
 ====Noun====
 {{ja-noun|とき}}
 
 # [[time]]
-#: {{ja-usex|'''時'''の流れ|'''とき''' の ながれ|the flow of '''time'''}}
-# an [[event]], [[case]], [[occasion]], [[moment]]; a specific period in [[time]]
-#: {{ja-usex|困った'''時'''は私に相談して下さい。|こまった '''とき''' は わたし に そうだん して ください。|Please consult with me '''when''' troubled (in '''times''' of trouble).}}
-#* {{quote-book|ja
-|||{{wj|金田一少年の事件簿|[金](きん)[田](だ)[一](いち)[少](しょう)[年](ねん)の[事](じ)[件](けん)[簿](ぼ)}}
-||186
-|last=Kanari
-|first=Yōzaburō
-|authorlink=Yōzaburō Kanari
-|coauthors={{w|Fumiya Satō|Satō, Fumiya}}
-|chapter={{lj|オペラ[座](ざ)[館](かん)[殺](さつ)[人](じん)[事](じ)[件](けん)④}}
-|trans-chapter=The Opera House Murder Case ④
-|trans-title={{w|The Kindaichi Case Files|Young Kindaichi Case Files}}
-|genre=fiction
-|edition=14th
-|location=Tokyo
-|publisher=Kodansha
-|date=Jun 1 1995
-|origdate=Feb 17 1993
-|volume=1
-|isbn=4-06-311874-6}}
+#* {{quote-book|ja|||{{wj|金田一少年の事件簿|[金](きん)[田](だ)[一](いち)[少](しょう)[年](ねん)の[事](じ)[件](けん)[簿](ぼ)}}||186
+|last=Kanari|first=Yōzaburō|authorlink=Yōzaburō Kanari|coauthors=[[w:Fumiya Satō|Satō, Fumiya]]|chapter={{lj|オペラ[座](ざ)[館](かん)[殺](さつ)[人](じん)[事](じ)[件](けん)④}}|trans-chapter=The Opera House Murder Case ④|trans-title=[[w:The Kindaichi Case Files|Young Kindaichi Case Files]]|genre=fiction|edition=14th|location=Tokyo|publisher=Kodansha|date=Jun 1 1995|origdate=Feb 17 1993|volume=1|isbn=4-06-311874-6}}
 #*: {{ja-usex|動くな‼じっとしてるんだ‼'''時%間'''が来るば犯%人は自%分から名のり出る‼|^うごく な‼ ^じっと してるん だ‼ '''^と%き''' が くる ば はん%にん は じ%ぶん から なのり でる‼|Nobody move‼ Keep still‼ It’s about time the culprit shows their true identity‼}}
-# [[time]] of something
+#: {{ja-usex-inline|'''時'''の流れ|'''とき''' の ながれ|the flow of '''time'''}}
+# an [[event]], [[case]], [[occasion]], [[moment]]; a specific period in [[time]]
+#: {{ja-usex|困った'''時'''は私に相%談してください。|こまった '''とき''' は わたし に そうf%だん して ください。|Please consult with me '''when''' troubled (in '''times''' of trouble).}}
+# a time of something
 # a [[season]]
 # a [[tense]]
 
-=====Descendants=====
-* {{desc|bor=y|tao|toki}}
-
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|時々|ときどき}}
+{{der-top4}}
+* {{ja-r|時%々|とき%どき}}
 * {{ja-r|暁|あかつき}}
 * {{ja-r|ある時|ある とき}}
-* {{ja-r|御%時|お-おん%とき}}
-* {{ja-r|片時|かたとき}}
-* {{ja-r|潮時|しおどき}}
-* {{ja-r|食事%時|しょくじ%-どき}}
-* {{ja-r|梅雨%時|つゆ%-どき}}
+* {{ja-r|御%時|おおん%とき}}
+* {{ja-r|片%時|かた%とき}}
+* {{ja-r|潮%時|しお%どき}}
+* {{ja-r|食%事%時|しょく%じ%どき}}
+* {{ja-r|梅雨%時|つゆ%どき}}
 * {{ja-r|出%時|で%どき}}
-* {{ja-r|花時|はなどき}}
-* {{ja-r|半時|はんとき}}
-* {{ja-r|一時|ひととき}}
+* {{ja-r|花%時|はな%どき}}
+* {{ja-r|半%時|はん%とき}}
+* {{ja-r|一%時|ひと%とき}}
 * {{ja-r|暇な時|ひま な とき}}
-* {{ja-r|昼時|ひるどき}}
-* {{ja-r|二時|ふたとき}}
+* {{ja-r|昼%時|ひる%どき}}
+* {{ja-r|二%時|ふた%とき}}
 * {{ja-r|法と時|ほう と とき}}
 * {{ja-r|まさかの時|まさか の とき}}
 {{der-bottom}}
 
+=====Descendants=====
+* {{desc|bor=y|tao|toki}}
+
 ====Suffix====
 {{ja-pos|suffix|どき}}
 
-# time of...; time for...
+# [[time]] of..., time for...
 
 ====Proper noun====
 {{ja-pos|proper|とき}}
@@ -194,12 +166,13 @@ From {{inh|ja|ojp|sort=とき|-}}.  Found in the ''{{w|Man'yōshū}}'', complete
 # {{given name|ja|female|A=a|sort=とき}}
 
 ===Etymology 2===
-{{ja-kanjitab|じ|yomi=o}}
+{{ja-kanjitab|じ|yomi=goon}}
+{{IPAchar|/ʑi/}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">{{IPAchar|/ʑi/}}</span><span style="float:left;clear:both;">{{IPAchar|/d͡ʑi/}}</span></span>
 
-From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' reading, so likely the initial borrowing.
+From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|じ}}
+{{ja-pron|じ}}
 * The pitch accent depends on the entire appended word.
 
 ====Counter====
@@ -229,26 +202,45 @@ From {{der|ja|ltc|sort=し'|-}} {{ltc-l|時}}. The ''{{ll|ja|呉音|goon}}'' rea
 =====Derived terms=====
 {{ja-number-counter:時}}
 
-=====Related terms=====
-* {{ja-r|時%間|じ%かん}}: [[hours]] (duration)
-
 ====Suffix====
 {{ja-pos|suffix|じ}}
 
-# at the time of
+# [[at the time]] of...
+
+====Affix====
+{{ja-pos|affix|じ}}
+
+# [[time#Noun|time]], [[moment]]
+# [[at that time]], [[chance]], [[occasion]]
+# [[hour]], [[hourly]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|時%間|じ%かん}}
+* {{ja-r|時%期|じ%き}}
+* {{ja-r|時%機|じ%き}}
+* {{ja-r|時%季|じ%き}}
+* {{ja-r|時%勢|じ%せい}}
+* {{ja-r|時%世|じ%せい}}
+* {{ja-r|時%制|じ%せい}}
+* {{ja-r|時%節|じ%せつ}}
+* {{ja-r|時%速|じ%そく}}
+* {{ja-r|時%代|じ%だい}}
+* {{ja-r|時%短|じ%たん}}
+* {{ja-r|時%分|じ%ぶん}}
+* {{ja-r|時%文|じ%ぶん}}
+{{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|さだ|yomi=irr}}
-{{IPAchar|/sida/}} → {{IPAchar|/sada/}}
+{{ja-kanjitab|さだ|yomi=i}}
+{{IPAchar|⟨sida⟩}} → {{IPAchar|⟨sada⟩}} → *{{IPAchar|/saⁿda/}} → {{IPAchar|/sada/}}
 
-Sound shift from {{inh|ja|ojp|しだ|tr=sida|t=doing time, opportunity|sort=さた}}.<ref name=DJR>{{R:Daijirin}}</ref>
+Sound shift from {{inh|ja|ojp|sort=さた|しだ|tr=sida → shida||[[time#Noun|time]], [[circumstance]]}}.<ref name=DJR>{{R:Daijirin}}</ref>
 
 ====Noun====
 {{ja-noun|さだ}}
 
-# {{lb|ja|obsolete|sort=さた}} [[chance]]; [[time]]; [[prime of life]] {{rfv-sense|ja}}
-#* {{RQ:Manyoshu|11|2732}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man11Yo.html#2732#2732 here]
-#*: {{ja-usex|m=奥%波 邊%浪%之来%縁 左太%能%浦%之 此'''左%太'''過%而 後%将戀%可聞|m_kana=おきつ%なみ へ%なみ%のき%よる さだ%の%うら%の この'''さ%だ'''すぎ%て のち%こひむ%かも|沖つ波%辺%波の来寄る佐太の浦のこの'''さだ'''過ぎて後%恋ひむかも|おき つ なみ% へ%-なみ の き-よる ^さだ-の-うら の この '''さだ''' すぎて のち% こひむ かも|rom=oki tsu nami he-nami no ki-yoru Sada-no-ura no kono '''sada''' sugite nochi koimu kamo|Sounding like the bay of ''Sada'', whence the waves of the offing and of the coatside approach, this '''chance''' has passed away; afterwards alas, I can but long for her! (from far)<ref>{{cite-book|1960|Jan Lodewijk Pierson, Jr.|The Manyôśû Translated and Annotated Book XV|location={{w|Leiden}}|publisher=Brill Archive (E.J. Brill)|page=335}}</ref>|sort=さた}}
+# {{lb|ja|obsolete|sort=さた}} {{only used in|ja|時過ぐ|tr=sada sugu}}: to [[pass through]] the [[prime of life]], [[grow#Verb|grow]] [[old#Adjective|old]]
 
 ===References===
 <references/>
@@ -268,6 +260,35 @@ Sound shift from {{inh|ja|ojp|しだ|tr=sida|t=doing time, opportunity|sort=さ�
 # [[era]]; [[age]]; [[period]]
 # [[opportunity]]; [[chance]]
 # [[correct]], [[right]], [[excellent]], [[great]], [[good]], [[nice]], [[beautiful]], [[fine]], [[well]]
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+Possibly a fusion of {{prefix|ojp|sort=とき|常|tr1=to<sub>2</sub>ko<sub>2</sub>|pos1=[[prefix]] for “[[always]], [[unchanging]]”|い|tr2=i<sub>(1)</sub>|pos2=nominalizing suffix}}. {{rfv-etym|ojp|sort=とき}}
+
+====Noun====
+{{head|ojp|noun|tr=to<sub>2</sub>ki<sub>1</sub>|kana|とき|sort=とき}}
+
+# a [[time#Noun|time]], [[moment]] (in time), [[occasion]]
+
+=====Descendants=====
+* {{desc|ja|時|tr=toki}}
+
+===Etymology 2===
+Sound shift from {{m|ojp|しだ|tr=sida||[[time#Noun|time]], [[circumstance]]}}.<ref name=DJR>{{R:Daijirin}}</ref>
+
+====Noun====
+{{head|ojp|noun|tr=sada|kana|さだ}}
+
+# {{only used in|ojp|時過ぐ|tr=sada sugu}}: to [[pass through]] the [[prime of life]], [[grow#Verb|grow]] [[old#Adjective|old]]
+
+=====Descendants=====
+* {{desc|ja|時|tr=sada}}
+
+===References===
+<references/>
 
 ----
 
