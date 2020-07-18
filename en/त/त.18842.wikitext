@@ -64,6 +64,7 @@ Ligatures:
 {{pi-adj}}
 
 # {{lb|pi|demonstrative}} {{pi-sc|Deva|ta}} ("that")
+#* {{RQ:pi:Kaccayano quote|4|tesam|1}}
 
 ====Declension====
 {{pi-decl-noun|g=m
@@ -100,9 +101,17 @@ Ligatures:
 The case form {{l|pi|तद्}} is only used before vowels and as the prefixed combining form.  Before vowels, the halant and independent vowel coalesce to the corresponding dependent vowel.
 
 ===Pronoun===
-{{pi-adj}}
+{{pi-pronoun|m}}
 
-# {{pi-sc|Deva|ta}} ("he, she, it")
+# {{pi-sc|Deva|ta}} ("he, it")
+
+====Declension====
+As for the adjective.
+
+===Pronoun===
+{{pi-pronoun|n}}
+
+# {{pi-sc|Deva|ta}} ("it")
 
 ====Declension====
 As for the adjective.
