@@ -13,34 +13,29 @@
 
 ==Chinese==
 {{zh-forms}}
-{{zh-der|味噌|味噌湯|噌吰|噌道|噌啉|叱噌}}
-|m=chēng,cēng,cěng
-|c=caang1,zang1,cang1
-|h=pfs=chhên
-|mc=y
-|oc=y
+{{attn|hak|chhên, which Ety?}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|口|t1=mouth|曾|ls=psc|c1=s|c2=p}} – to scold or shout at with one’s mouth.
 
-===Etymology 2===
+===Etymology 1===
 {{zh-forms}}
 
 ====Pronunciation====
 {{zh-pron
 |m=chēng
-|c=
+|c=cang1
 |h=pfs=
-|mc=
-|oc=
+|mc=y
+|oc=y
 |cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-only|噌吰}}
 
 ====Compounds====
 {{zh-der|噌吰}}
@@ -51,7 +46,7 @@
 ====Pronunciation====
 {{zh-pron
 |m=cēng
-|c=
+|c=zang1,caang1
 |h=pfs=
 |mc=
 |oc=
@@ -64,7 +59,7 @@
 # {{rfdef|zh}}
 
 ====Compounds====
-{{zh-der|味噌|噌道|味噌湯}}
+{{zh-der|味噌|噌道|味噌湯|噌啉|叱噌}}
 
 ===Etymology 3===
 {{zh-forms}}
@@ -83,9 +78,6 @@
 {{zh-hanzi}}
 
 # {{rfdef|zh}}
-
-====Compounds====
-{{su#bst:zh-der/new|p=cěng}}
 
 ===References===
 * {{R:twedu|B00425}}
