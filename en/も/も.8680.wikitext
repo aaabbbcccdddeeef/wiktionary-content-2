@@ -28,23 +28,30 @@ This distinction was lost in a later ancient Japanese chronicle, the ''{{w|Nihon
 ====Particle====
 {{ja-pos|particle}}
 
-# [[too]], [[also]], [[as well]]
-#: {{ja-usex|田%中さんは[[ビール]]を[[飲む|飲ん]]でいる。スミスさん'''も'''飲んでいる。|た%なか-さん は ビール を のんでいる。スミス-さん '''も''' のんでいる。|Tanaka is drinking beer. Smith is '''also''' drinking.}}
-#: {{ja-usex|[[本%日]]'''も'''ご[[来%店]]くださいまして、[[ありがとうございます]]。|ほん%じつ '''も''' ご-らい%てん くださいまして、ありがとう ございます。|Thank you for [[visit|visiting]] our store today '''as well''' [as other days].}}
-#: {{ja-usex|[[私]]に'''も'''[[くれる|くれ]]た。|わたし に '''も''' くれた。|[She] gave some to me, '''too'''.}}
-# [[even]]
-#: {{ja-usex|[[猿も木から落ちる|猿'''も'''木から落ちる]]|さる '''も''' き から おちる|'''Even''' experts occasionally make mistakes|lit='''Even''' monkeys fall from trees}}
-# [[not even]] {{q|with negative statements}}
-#: {{ja-usex|[[箱]]の[[中]]には[[何]]'''も'''[[ない|なか]]った。|はこ の なか に は なに '''も''' なかった。|The box was empty.|lit=Inside the box, '''even''' something was not there.}}
-# {{n-g|Inserted between {{m|ja|て|tr=te}} and a negative suffix for emphasis.}}
-#: {{ja-usex|[[まさか]][[事%故]]に[[遭う]]とは[[思う|思って]]'''も'''[[いる|い]]ませんでした。|まさか じ%こ に あう と は おもって '''も''' いません でした。|Never in my wildest dreams would I have imagined that I would be in an accident.}}
+# {{q|non-unique topic marker}}
+#: {{ant|ja|は}}
+## [[too]]; [[also]]; [[as well]]
+##: {{ja-usex|田%中さんは[[ビール]]を[[飲む|飲ん]]でいる。スミスさん'''も'''飲んでいる。|た%なか-さん は ビール を のんでいる。スミス-さん '''も''' のんでいる。|Tanaka is drinking beer. Smith is '''also''' drinking.}}
+##: {{ja-usex|[[本%日]]'''も'''ご[[来%店]]くださいまして、[[ありがとうございます]]。|ほん%じつ '''も''' ご-らい%てん くださいまして、ありがとう ございます。|Thank you for [[visit|visiting]] our store today '''as well''' [as other days].}}
+##: {{ja-usex|[[私]]に'''も'''[[くれる|くれ]]た。|わたし に '''も''' くれた。|[She] gave some to me, '''too'''.}}
+## [[even]]
+##: {{ja-usex|夢に'''も'''思いませんでした。|ゆめ に '''も''' おもいません でした。|I have never thought of this '''even''' in my dreams.}}
+##: {{ja-usex|500 円'''も'''あれば買える。|ごひゃく えん '''も''' あれば かえる。|I only need 500 yen to buy this.|lit=I can buy this '''even''' if I have only 500 yen.}}
+##: {{ja-usex|[[猿も木から落ちる|猿'''も'''木から落ちる]]|さる '''も''' き から おちる|'''Even''' experts occasionally make mistakes.|lit='''Even''' monkeys fall from trees}}
+## {{q|attaching to an [[indefinite]] [[pronoun]] or [[determiner]]}} [[all]]; [[every]]
+##: {{ja-usex|誰'''も'''知っていることだ。|だれ '''も''' しって いる こと だ。|'''Every'''one knows this.}}
+##: {{ja-usex|[[箱]]の[[中]]には[[何]]'''も'''[[ない|なか]]った。|はこ の なか に は なに '''も''' なかった。|The box was empty.|lit=Inside the box, '''all''' things do not exist.}}
 
 =====Usage notes=====
-* {{m|ja||も|tr=mo}} always replaces {{ja-r|は|rom=wa}}, {{ja-r|を}} and {{ja-r|が}}, but may follow other particles.
+* {{ja-r|も}} vs {{ja-r|は}}:
+*: {{lang|ja|も}} indicates the topic is "non-unique", i.e., the result or conclusion remains the same even if the current topic is changed.
+*:: {{ja-x|'''今日も'''いい天%気。|'''きょう も''' い.い てん%き。|Nice weather '''today'''. (implying something like "the weather is also nice yesterday/the weather is fine as usual".)}}
+*: {{lang|ja|は}} indicates the topic is "unique", i.e., the result or conclusion will be different if the current topic is changed.
+*:: {{ja-x|'''今日は'''いい天%気。|'''きょう は''' い.い てん%き。|Nice weather '''today'''. (implying something like "the weather is bad yesterday/the weather has been bad recently".)}}
+* {{m|ja||も|tr=mo}} always replaces, {{ja-r|を}} and {{ja-r|が}}, but may follow other particles.
 
-=====See also=====
-* {{ja-r|すら}}
-* {{ja-r|さえ}}
+=====Synonyms=====
+* {{sense|even}} {{ja-r|すら}}, {{ja-r|さえ}}
 
 =====Derived terms=====
 {{der-top}}
