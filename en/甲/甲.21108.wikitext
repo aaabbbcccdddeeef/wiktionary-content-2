@@ -260,10 +260,62 @@ From {{der|ja|ltc|tr=kæp|甲|sort=こう}}
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=갑|eumhun=|rv=gap|mr=kap|y=kap}}
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|甲|id=1}}. {{hanja-hunmong|갑〮|kap|軍装}}<br>
+Compare modern {{cog|yue|甲|tr=gaap<sup>3</sup>}} and {{cog|hak|甲|tr=gab<sup>5</sup>}}.
 
-# armor
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|갑옷|갑}}<br>
+{{ko-hanja|[[첫째]] [[천간]]([[天干]])|갑}}
+
+# {{hanja form of|갑|[[armor]]; [[shell]]}}
+#: {{syn|ko|鉀|tr={{m|ko|갑}}}}
+# {{hanja form of|갑|the [[first]] of the ten [[heavenly stem]]s; something [[A]]}}
+
+====Compounds====
+{{der-top|Armor; Shell}}
+* {{ko-l|갑옷|[[armor]]|甲옷}}
+* {{ko-l|갑각|[[shell]], [[crust]]|甲殼}}
+** {{ko-l|갑각류|[[crustacean]]|甲殼類}}
+* {{ko-l|갑상선|[[thyroid gland]]|甲狀腺}}
+* {{ko-l|갑충|[[beetle]]|甲蟲}}
+* {{ko-l|갑판|[[deck]]|甲板}}
+* {{ko-l|귀갑|[[turtleback]]|龜甲}}
+* {{ko-l|장갑|[[glove]]|掌甲}}
+* {{ko-l|철갑|[[ironclad]]|鐵甲}}
+** {{ko-l|철갑선|[[ironclad]] ([[ship]])|鐵甲船}}
+** {{ko-l|철갑상어|{{vern|Chinese sturgeon}}|鐵甲沙魚}}
+* {{ko-l|천산갑|[[pangolin]]|穿山甲}}
+* {{ko-l|둔갑|[[transformation]]|遁甲}}
+* {{ko-l|갑골문자|[[oracle bone script]]|甲骨文字}}
+{{der-bottom}}
+{{der-top|The first of the ten heavenly stems}}
+* {{ko-l|갑부|[[millionaire]]|甲富}}
+* {{ko-l|갑론을박|[[conjecture]] and [[refutation]]|甲論乙駁}}
+* {{ko-l|환갑|one's 60th [[birthday]]|還甲}}
+* {{ko-l|회갑|one's 60th [[birthday]]|回甲}}
+{{der-bottom}}
+
+===Noun===
+{{ko-hanjatab}}
+{{ko-noun|hangeul=갑}}
+
+# {{q|in headlines}} [[number one]] thus, the [[best]]
+#: {{ux|ko|"가성비'''甲'''" 획기적 [[상품]] 출시|tr="gaseongbi'''gap'''" hoekgijeok sangpum chulsi|This is the '''best''' bang for your buck — this innovative product has been released.}}
+# {{lb|ko|law}} something [[A]]; the first [[party]]
+#: {{ux|ko|상기 [[乙]]은 [[本|본]] [[문서]]에 명시된 [[업무]]와 [[관련하다|관련하여]] '''甲'''[[에게]] [[근로]]를 [[제공하다|제공한다]].|tr=sanggi eureun myeongsidoen eommuwa gwallyeonhayeo '''gab'''ege geulloreul jegonghanda.|The B (employee) indicated above will provide labour to '''A''' (employer) according to the tasks indicated in this document.}}
+
+====Usage notes====
+* For the sense of "number one thus, the best," this is a common convention employed, often for emphatic effect, in headlines (particularly in news headlines). This is almost always written solely in the ''[[Hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[Hanja]]''.
+* In legal settings, for the sense of "something A; the first party," this is commonly written in the ''[[Hanja]]'' form to reduce ambiguity.
+* Except for these two cases, for other senses and settings, the ''[[Hangul]]'' form "{{ko-l|갑}}" may be preferred in contemporary ''[[Hangul]]''-only  Korean text.
+
+====Antonyms====
+* {{sense|{{lb|ko|law}} something [[A]]; the first [[party]]}} {{l|ko|[[乙|<ruby>乙<rt>을</rt></ruby>]]||something [[B]]|tr=eul}}
+
+===References===
+* {{R:hanjadoc|7619}}
 
 ----
 
