@@ -236,7 +236,7 @@ From {{bor|ja|cmn|sort=へえ''|北|tr=běi}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|北|id=1}}.
+From {{der|ko|ltc|-}} {{ltc-l|北|id=1}}. {{hanja-hunmong|븍〮|puk|人類#중04A}}
 
 ====Hanja====
 {{ko-hanja|북녘|북}}
@@ -244,12 +244,12 @@ From {{der|ko|ltc|-}} {{ltc-l|北|id=1}}.
 # {{hanja form of|북|[[north]]}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * {{ko-l|^북한|{{q|South Korea}} [[North Korea]]|北韓}}
 * {{ko-l|^북조선|{{q|North Korea}} [[North Korea]]|北朝鮮}}
 * {{ko-l|^북괴|{{q|South Korea|derogatory}} [[North Korea]]|北傀}}
 * {{ko-l|^북극성|{{q|astronomy}} [[North Star]], [[Polaris]]|北極星}}
-{{bottom}}
+{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|-}} {{zh-l|*北}} / {{ltc-l|背|id=1+2}}. 
@@ -260,7 +260,10 @@ From {{der|ko|ltc|-}} {{zh-l|*北}} / {{ltc-l|背|id=1+2}}.
 # {{hanja form of|배|to [[escape]]; [[flee]]}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ko-l|패배|[[defeat]]|敗北}}
+* {{ko-l|패배자|[[loser]]|敗北者}}
+{{der-bottom}}
 
 ===References===
 * {{R:hanjadoc|937}}
