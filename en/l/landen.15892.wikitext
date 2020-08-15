@@ -69,9 +69,12 @@ From {{etyl|gml|de}} {{m|gml|landen}}, derived from the cognate form of German {
 ===Verb===
 {{de-verb-weak|landet|landete|gelandet|auxiliary=both}}
 
-# {{lb|de|intransitive|auxiliary verb: sein|aviation}} to [[land#English|land]]
-#: das Flugzeug landet auf der Landebahn - the plane lands on the runway
-# {{lb|de|transitive|auxiliary verb: haben|aviation}} to [[land#English|land]]
+# {{lb|de|intransitive|auxiliary verb: sein|aviation|nautical}} to [[land#English|land]]
+#: {{uxi|de|Das Flugzeug '''landet''' auf der Landebahn.|The plane '''lands''' on the runway.}}
+# {{lb|de|transitive|auxiliary verb: haben|aviation|nautical}} to [[land#English|land]]
+#: {{uxi|de|Wir '''landen''' das Boot an diesem Strand.|We're '''landing''' the boat on this beach.}}
+# {{lb|de|intransitive|auxiliary verb: sein|aviation}} to [[end up]] (somewhere)
+#: {{uxi|de|Nach vielen Missgeschicken bin ich hier '''gelandet'''.|After a lot of misadventures I ended up here.}}
 
 ====Conjugation====
 {{de-conj-weak|land|gelandet|hs|e}}
