@@ -386,13 +386,15 @@ Borrowing from {{bor|ja|cmn|中|tr=zhōng}}
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|中|id=1+2}}.
+From {{der|ko|ltc|-}} {{ltc-l|中|id=1+2}}. {{hanja-hunmong|듕|tyung|雜語}}
 
 ===Hanja===
+{{ko-hanja-search}}
 {{ko-hanja/new|가운데|중}}
 
 # {{hanja form of|중|[[middle]]; [[center]]; [[amongst]]}}
-# often refers to [[China]] in news media
+# {{hanja form of|중|[[China]] (in compounds, in news media)}}
+
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|백발백중|百發百中}}
@@ -426,6 +428,16 @@ From {{der|ko|ltc|-}} {{ltc-l|中|id=1+2}}.
 * {{ko-l|시중|市中}}
 * {{ko-l|열중|熱中}}
 {{der-bottom}}
+
+===Proper noun===
+{{ko-hanjatab}}
+{{ko-proper noun|hangeul=중}}
+
+# {{q|in headlines}} {{short for|ko|[[中國|<ruby>中國<rt>중국</rt></ruby>]]||[[China]]|tr=Jungguk}}
+#: {{ux|ko|[[韓]]·'''中''' [[관계]]|tr=Han·'''Jung''' gwangye|South Korea – '''China''' relations}}
+
+====Usage notes====
+A common convention in news headlines, this is almost always written solely in the ''[[Hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[Hanja]]''.
 
 ===References===
 * {{R:hanjadoc|29}}
