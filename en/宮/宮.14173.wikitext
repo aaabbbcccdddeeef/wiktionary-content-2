@@ -40,23 +40,25 @@ STEDT compares it with Proto-Sino-Tibetan {{m|sit-pro|*k-jim ~ k-jum|gloss=house
 |mc=y
 |oc=y
 |ma=
-|cat=n,v
+|cat=n,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
 # {{lb|zh|archaic}} [[house]]; [[mansion]]; [[dwelling]]
+#* {{zh-x|上古 穴居 而 野-處{chǔ}，後世 聖人 易 之 以 宮室。|In times of yore people dwelled in caves or lived in the open wilderness. Later, wise people devised '''houses''' to replace that way of life.|ref=Yijing}}
 # {{lb|zh|architecture}} [[palace]]
-# {{lb|zh|architecture|religion}} [[temple]]
-# {{lb|zh|anatomy}} abbreviation of [[子宮]] ([[womb]]; [[uterus]])
+# {{lb|zh|architecture|religion}} [[temple]]; [[shrine]]
+#* {{zh-x|秋，丹 ^桓 宮 之 楹。|In the autumn, the pillars in the '''temple''' of the late Duke Huan were painted red with vermilion.|ref=Zuozhuan}}
+# {{lb|zh|anatomy|in compounds}} {{zh-abbrev|子宮|[[womb]]; [[uterus]]|nocat=yes}}
 #: {{zh-x|宮頸|cervix}}
 # {{lb|zh|music}} the [[first]] [[note]] of the [[Chinese]] [[pentatonic]] [[scale]]
 # {{lb|zh|historical|_|law}} [[castration]] as a [[punishment]]
 # {{surname|zh}}
 
 ====Usage notes====
-In reference to temples, 宮 ("palace") is used for {{w|Chinese folk religion|traditional deities}} considered to rank highly in the celestial bureaucracy, such as {{w|Mazu}} who was honored by the {{w|Qing dynasty}} as the "Queen of Heaven" after their successful {{w|Qing conquest of Taiwan|invasion of Taiwan}}.
+In reference to temples, {{m-self|zh|宮}} is used for {{w|Chinese folk religion|traditional deities}} considered to rank highly in the celestial bureaucracy, such as {{w|Mazu}} who was honored by the {{w|Qing dynasty}} as the "Queen of Heaven" after their successful {{w|Qing conquest of Taiwan|invasion of Taiwan}}. In earlier history, it also referred to {{w|ancestor worship|ancestral}} shrines.
 
 ====Coordinate terms====
 * {{list:Chinese pentatonic scale/zh}}
@@ -65,7 +67,7 @@ In reference to temples, 宮 ("palace") is used for {{w|Chinese folk religion|tr
 * {{sense|historical punishment}} {{zh-l|五刑}}
 
 ====Synonyms====
-* {{sense|temple}} '''See''' {{zh-l|廟}}
+* {{sense|temple}} see {{zh-l|廟}}
 
 ====See also====
 * {{zh-l|闕}}, {{zh-l|殿}}, {{zh-l|宸}}
