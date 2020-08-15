@@ -1,37 +1,311 @@
-===Etymology 1===
-French ''ache'', Latin ''[[apium]]'' [[parsley]]
-====Noun====
-#Variant of [[ach]], parsley
-===Etymology 2===
-Old English ''ache'', Anglo Saxon ''[[æce]]'', ''[[ece]]'', from ''[[acan]]'' to ache. For the verb: Old English ''[[aken]]'', Aanglo Saxon ''acan'', both strong verbs, Anglo Saxon ''acan'', imperfect ''[[&#333;c]]'', past participle ''[[acen]]'', to ache; perhaps originally to drive, and akin to [[agent]]
-====Noun====
-#Continued pain, as distinguished from sudden [[twinges]], or [[spasmodic]] pain.
-#:'''Quotations'''
-#:*Fill all thy bones with '''aches''' - Shakespeare, ''Tempest, I-ii''
-#:'''Note:''' Often used in composition, as, a head'''ache''', an ear'''ache''', a tooth'''ache'''
-==== Translations ====
-* '''Dutch''': [[pijn]] ''m''
-* '''French''': [[douleur]] ''f''
-* '''German''': [[Schmerz]] ''m''
-* '''Indonesian''': [[sakit]], [[nyeri]]
-* '''Interlingua''': [[dolor]] 
-* '''Italian''': [[dolore]] 
-* '''Japanese''': [[痛み]] ([[いたみ]], itami)
-* '''Portuguese''': [[dor]] ''f''
-* '''Spanish''': [[dolor]] ''m''
-* '''Turkish''': [[ağrı]],[[acı]]
-===Intransitive verb===
-Imperfect and past participle: '''ached'''<br>
-Present participle: '''aching
-#To suffer pain; to have, or be in, pain, or in continued pain; to be distressed.
-#:'''Quotations'''
-#:*Fie, how my bones '''ache!''' - Shakespeare, ''Romeo and Juliet, II-v''
-#:*The sins that in your conscience '''ache'''. - [[Keble]]
-==== Translations ====
-* '''Portuguese''': [[doer]]
-* '''Turkish''': [[ağrımak]],[[acımak]]
+{{also|Ache}}
+==English==
 
-[[gl:Ache]]
-[[it:ache]]
-[[pt:Ache]]
-[[fi:Ache]]
+===Alternative forms===
+* {{alter|en|ake||rare}}
+
+===Etymology 1===
+From {{inh|en|enm|aken|pos=verb}}, and {{m|enm|ache|pos=noun}}, from {{inh|en|ang|acan|pos=verb}} (from {{inh|en|gem-pro|*akaną|t=to be bad, be evil}}) and {{m|ang|æċe|pos=noun}} (from {{der|en|gem-pro|*akiz}}), both from {{der|en|ine-pro|*h₂eg-|t=sin, crime}}. Cognate with {{cog|nds|aken|aken, achen}}, {{m|nds|äken|t=to hurt, to ache}}, {{cog|frr|akelig}}, {{m|frr|æklig|t=terrible, miserable, sharp, intense}}, {{cog|fy|aaklik|t=nasty, horrible, dismal, dreary}}, {{cog|nl|akelig|t=nasty, horrible}}.
+
+The verb was originally strong, conjugating for tense like ''[[take]]'' (e.g. ''I '''ake''''', ''I '''oke''''', ''I have '''aken'''''), but gradually became weak during Middle English; the noun was originally pronounced as {{IPAchar|/eɪt͡ʃ/}} as spelled (compare {{m|en|breach}}, from {{m|en|break}}). Historically the verb was spelled '''[[ake]]''', and the noun '''ache''' (even after the form {{IPAchar|/eɪk/}} started to become common for the noun; compare again {{m|en|break}} which is now also a noun). The verb came to be spelled like the noun when lexicographer [[:w:Samuel Johnson|Samuel Johnson]] mistakenly assumed that it derived from {{noncog|grc|ἄχος|t=pain}} due to the similarity in form and meaning of the two words.
+
+====Pronunciation====
+* {{enPR|āk}}, {{IPA|en|/eɪk/}}
+* {{audio|en|en-us-ache.ogg|Audio (US)}}
+* {{rhymes|en|eɪk}}
+
+====Verb====
+{{en-verb|aches|aching|ached|past2=oke|past2_qual=obsolete|ached|past_ptc2=aken|past_ptc2_qual=obsolete}}
+
+# {{lb|en|intransitive}} To suffer [[pain]]; to be the source of, or be in, pain, especially continued dull pain; to be distressed.
+#* {{circa|1593}} Shakespeare, ''Romeo and Juliet'', Act II, Scene V:
+#*: Fie, how my bones '''ache!'''
+#* {{quote-book|en|year=1918|author={{w|W. B. Maxwell}}|chapter=7
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=The turmoil went on&mdash;no rest, no peace. […] It was nearly eleven o'clock now, and he strolled out again. In the little fair created by the costers' barrows the evening only seemed beginning; and the naphtha flares made one's eyes '''ache''', the men's voices grated harshly, and the girls' faces saddened one.}}
+# {{lb|en|transitive|literary|rare}} To cause someone or something to suffer pain.
+
+=====Derived terms=====
+* {{l|en|ache for}}
+
+=====Translations=====
+{{trans-top|be in pain}}
+* Arabic: {{t+|ar|أَلِمَ}}, {{t+|ar|آلَمَ}}, {{t|ar|أَوْجَعَ}}
+* Armenian: {{t+|hy|ցավել}}
+* Assamese: {{t|as|বিষোৱা}}
+* Belarusian: {{t|be|бале́ць|impf}}; {{t|be|хварэ́ць|impf}}
+* Bulgarian: {{t+|bg|боли́|impf}}
+* Burmese: {{t+|my|ကိုက်}}
+* Chinese:
+*: Mandarin: {{t+|cmn|疼|tr=téng}} {{qualifier|adjective}}, {{t+|cmn|痛|tr=tòng}} {{qualifier|adjective}}
+* Czech: {{t+|cs|bolet|impf}}
+* Danish: {{t|da|gøre ondt}}
+* Esperanto: {{t+|eo|dolori}}
+* Finnish: {{t+|fi|särkeä}}, {{t|fi|jomottaa}}
+* French: {{t+|fr|faire mal}}, {{t+|fr|avoir mal}}
+* Friulian: {{t|fur|dulî}}
+* Galician: {{t+|gl|doer}}, {{t+|gl|sufrir}}, {{t+|gl|rabiar}}, {{t+|gl|adoecer}}
+* Georgian: {{t|ka|სტკივა}}
+* German: {{t+|de|weh tun}}, {{t+|de|schmerzen}}
+* Greek: {{t+|el|πονάω}}, {{t+|el|υποφέρω}}
+* Hindi: {{t|hi|दर्द करना}}
+* Interlingue: {{t+|ie|doler}}
+* Italian: {{t|it|penare}}, {{t+|it|patire}}, {{t+|it|tribolare}}, {{t+|it|soffrire}}
+* Japanese: {{t+|ja|痛む|tr=いたむ, itamu}}, {{t+|ja|痛い|tr=いたい, itai}} {{qualifier|adjective}}
+* Kabyle: {{t|kab|qreḥ}}
+* Khmer: {{t+|km|គ្រាំ|tr=kroam}}, {{t+|km|ចាប់|tr=cap}}, {{t+|km|ឈឺ}}
+* Korean: {{t+|ko|아프다}}
+{{trans-mid}}
+* Kurdish:
+*: Sorani: {{t+|ku|ئێش}}, {{t+|ku|یێش}}
+* Lao: {{t|lo|ເຈັບ}}
+* Macedonian: {{t|mk|боли|impf}}
+* Maori: {{t|mi|pākikini}}, {{t|mi|pākinikini}}, {{t|mi|raka}} {{qualifier|from weariness}}, {{t|mi|kōrangaranga}}, {{t|mi|māioio}}, {{t|mi|mamae}}, {{t|mi|ngāruru}} {{qualifier|with a headache}}, {{t|mi|hīwiniwini}}
+* Mongolian: {{t+|mn|өвдөх}}
+* Ngazidja Comorian: {{t|zdj|koza|alt=ukoza}}
+* Polish: {{t+|pl|boleć|impf}}
+* Portuguese: {{t+|pt|doer}}
+* Quechua: {{t|qu|nanay}}
+* Romanian: {{t+|ro|durea}}
+* Russian: {{t+|ru|боле́ть|impf}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бо̀лети|impf}}, {{t|sh|бо̀љети|impf}}
+*: Roman: {{t+|sh|bòleti|impf}}, {{t+|sh|bòljeti|impf}}
+* Slovak: {{t|sk|bolieť|impf}}
+* Slovene: {{t+|sl|boleti|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|bóleś}}
+* Spanish: {{t+|es|doler}}, {{t+|es|sufrir}}
+* Swedish: {{t+|sv|värka}} {{qualifier|cause pain}}, {{t+|sv|ha ont}} {{qualifier|be in pain}}
+* Thai: {{t+|th|เจ็บ}}
+* Turkish: {{t+|tr|ağrımak}}, {{t+|tr|acımak}}
+* Ukrainian: {{t+|uk|болі́ти|impf}}; {{t|uk|хворі́ти|impf}}, {{t|uk|захворі́ти|pf}}
+* Vietnamese: {{t+|vi|nhức}}
+{{trans-bottom}}
+
+====Noun====
+{{en-noun}}
+
+# Continued dull pain, as distinguished from sudden [[twinges]], or [[spasmodic]] pain.
+#* {{circa|1610}} Shakespeare, ''The Tempest'', Act I, Scene II:
+#*: Fill all thy bones with '''aches'''.
+
+=====Derived terms=====
+{{der4
+|en|aches and pains
+|achy
+|backache
+|bellyache
+|earache
+|headache
+|stomachache
+|toothache
+}}
+
+=====Translations=====
+{{trans-top|dull pain}}
+* Arabic: {{t+|ar|أَلَم|m}}, {{t|ar|وَجَع}}
+* Armenian: {{t+|hy|ցավ}}
+* Azerbaijani: {{t+|az|ağrı}}, {{t+|az|acı}}
+* Belarusian: {{t+|be|боль|m}}
+* Bulgarian: {{t+|bg|бо́лка|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|疼痛|tr=téngtòng}}, {{t+|cmn|痛|tr=tòng}}, {{t+|cmn|疼|tr=téng}}
+* Czech: {{t+|cs|bolest|f}}
+* Danish: {{t+|da|smerte|c}}
+* Dutch: {{t+|nl|pijn|m}}
+* Finnish: {{t+|fi|särky}}, {{t+|fi|kipu}}
+* French: {{t+|fr|douleur|f}}
+* Georgian: {{t|ka|ტკივილი}}
+* German: {{t+|de|Schmerz|m}}
+* Greek: {{t+|el|άλγος|n}}, {{t+|el|πόνος|m}}
+* Haitian Creole: {{t|ht|doulè}}
+* Hindi: {{t+|hi|दर्द|m}}
+* Hungarian: {{t+|hu|fájdalom}}
+* Indonesian: {{t+|id|sakit}}, {{t+|id|nyeri}}
+* Interlingua: {{t|ia|dolor}}
+* Interlingue: {{t+|ie|dolore}}
+* Irish: {{t+|ga|tinneas|m}}
+* Italian: {{t+|it|dolore}}, {{t+|it|malanno|m}}, {{t+|it|malessere|m}}
+* Japanese: {{t+|ja|痛み|tr=[[いたみ]], itami}}
+* Korean: {{t+|ko|아픔}}
+* Kurdish:
+*: Sorani: {{t+|ku|ئێش}}, {{t+|ku|یێش}}, {{t+|ku|ژان}}
+{{trans-mid}}
+* Macedonian: {{t|mk|болка|f}}
+* Malay: {{t|ms|sengal}}
+* Maori: {{t|mi|mamae}}, {{t|mi|kōrangaranga}}
+* Nogai: {{t|nog|авырув}}
+* Old English: {{t|ang|eċe|m}}
+* Persian: {{t+|fa|درد|tr=dard}}
+* Polish: {{t|pl|tępy ból|m}}
+* Portuguese: {{t+|pt|dor|f}}
+* Romanian: {{t+|ro|durere|f}}
+* Russian: {{t+|ru|боль|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бо̑л|m|f}}
+*: Roman: {{t+|sh|bȏl|m|f}}
+* Slovak: {{t|sk|bolesť|f}}
+* Slovene: {{t+|sl|bolečina|f}}
+* Spanish: {{t+|es|dolor|m}}
+* Swedish: {{t+|sv|värk|c}}
+* Thai: {{t+|th|ความเจ็บ|tr=kwaam jèp}}
+* Turkish: {{t+|tr|ağrı}}, {{t+|tr|acı}}
+* Ukrainian: {{t+|uk|біль|m}}
+* Urdu: {{t|ur|درد|m|tr=dard}}
+* Vietnamese: {{t+|vi|đau}}, {{t+|vi|đau đớn|alt=sự đau đớn}}
+* Welsh: {{t|cy|gwŷn|m}}, {{t|cy|cur|m}}, {{t|cy|curiau|m-p}}
+* Yucatec Maya: {{t|yua|k'iinam}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|hurt}}
+
+====References====
+* Shorter Oxford English Dictionary, 5th edition.
+
+===Etymology 2===
+From {{inh|en|enm|ache}}, from {{der|en|fro|ache}}, from {{der|en|la|apium|t=celery}}. Reinforced by modern {{cog|fr|ache}}.
+
+====Pronunciation====
+* {{enPR|āch}}, {{IPA|en|/eɪt͡ʃ/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-ache1.wav|Audio (UK)}}
+* {{rhymes|en|eɪtʃ}}
+
+====Noun====
+{{en-noun}}
+
+# {{senseid|en|parsley}} {{lb|en|obsolete}} [[parsley]]
+
+=====Derived terms=====
+* {{l|en|lovage}} (by [[folk etymology]])
+* {{l|en|smallage}}
+
+===Etymology 3===
+Representing the pronunciation of the letter ''[[H]]''.
+
+====Pronunciation====
+* {{enPR|āch}}, {{IPA|en|/eɪt͡ʃ/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-ache1.wav|Audio (UK)}}
+* {{rhymes|en|eɪtʃ}}
+
+====Noun====
+{{en-noun}}
+
+# {{rare spelling of|en|aitch}}
+
+===Anagrams===
+* {{anagrams|en|a=aceh|Aceh|Chae|Chea|HACE|each|hace}}
+
+[[Category:English heteronyms]]
+[[Category:English terms borrowed from French]]
+[[Category:English terms borrowed from Old French]]
+[[Category:en:Apieae tribe plants]]
+[[Category:en:Pain]]
+
+----
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{rhymes|fr|aʃ}}
+* {{homophones|fr|hache|haches}}
+
+===Etymology 1===
+From {{der|fr|la|apia}}, plural of {{m|la|apium|t=celery}}.
+
+====Noun====
+{{fr-noun|f}}
+
+# {{l|en|celery}} {{gloss|plant}}
+
+===Etymology 2===
+From {{inh|fr|frm|ache}}, from {{inh|fr|fro|ache}}, from {{inh|fr|VL.|*acca}}, probably an extension of earlier {{m|la|ha}}, from an unindentified source. Compare {{cog|it|acca}}.
+
+====Noun====
+{{fr-noun|m}}
+
+# {{l|en|aitch}}, {{Latn-def|fr|name|H|h}}
+
+====Descendants====
+* {{desc|fa|هاش|bor=1}}
+* {{desc|ro|haș|bor=1}}
+* {{desc|ru|аш|bor=1}}
+* → Vietnamese: {{vi-l|hát}}
+
+----
+
+==Middle English==
+
+===Etymology 1===
+From {{inh|enm|ang|eċe}}, {{m|ang|ace}}, {{m|ang|æċe}}, from {{inh|enm|gem-pro|*akiz}}. Some forms are remodelled on {{m|enm|aken}}.
+
+====Alternative forms====
+* {{alter|enm|ake|eche}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈaːk(ə)/|/ˈaːtʃ(ə)/|/ˈatʃ(ə)/|/ˈɛːtʃ(ə)/|/ˈɛtʃ(ə)/}}
+
+====Noun====
+{{enm-noun|aches}}
+
+# {{senseid|enm|ache}} [[aching|Aching]]; long-lasting hurting or injury.
+
+=====Related terms=====
+* {{l|enm|aken}}
+
+=====Descendants=====
+* {{desc|en|ache}}
+* {{desc|sco|ake}}
+
+=====References=====
+* {{R:MED Online|entry=āche (n.(1)) |id=MED348 |accessdate=2018-06-12}}
+
+===Etymology 2===
+From {{bor|enm|fro|ache}}, from {{der|enm|la|apium}}.
+
+====Pronunciation====
+* {{IPA|enm|/ˈatʃ(ə)/|/ˈaːtʃ(ə)/}}
+
+====Noun====
+{{enm-noun|aches}}
+
+# {{senseid|enm|celery}} A plant of the genus ''[[Apium]]'', especially celery.
+
+=====Descendants=====
+* {{desc|en|ache}}
+
+=====References=====
+* {{R:MED Online|entry=āche (n.(2)) |id=MED349 |accessdate=2018-06-12}}
+
+[[Category:enm:Pain]]
+[[Category:enm:Plants]]
+[[Category:enm:Vegetables]]
+
+----
+
+==Norman==
+
+===Etymology===
+{{rfe|nrf}}
+
+===Noun===
+{{nrf-noun|f|pl=-}}
+
+# {{lb|nrf|Jersey}} wild [[celery]]
+#: {{syn|nrf|céléri sauvage}}
+
+{{topics|nrf|Plants}}
+
+----
+
+==Portuguese==
+
+===Pronunciation===
+* {{hyphenation|pt|a|che}}
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|achar}}
