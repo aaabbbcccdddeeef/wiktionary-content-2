@@ -661,36 +661,39 @@ From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}
 * {{audio|hu|Hu-e.ogg|Audio}}
 * {{rhymes|hu|ɛ}}
 
-====Pronoun====
-{{hu-pron|demonstrative}}
-
-# {{lb|hu|archaic|except before postpositions}} [[this]] (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
-#: {{uxi|hu|'''E''' mellett a ház mellett vártam rá.|I waited for him/her next to '''this''' house.}}
-#* '''1836''', Vörösmarty Mihály, Szózat
-#*: {{quote|hu|A nagy világon '''e''' kivűl (''modern spelling: [[kívül]]'') / Nincsen számodra hely;|In the great world outside of '''this''' / There is no place for you;}}
-
 ====Determiner====
 {{head|hu|determiner|demonstrative}}
 
-# {{lb|hu|chiefly|archaic|except in fixed phrases beginning with a consonant, as a counterpart of [[ez]]}} [[this]]
-#: {{uxi|hu|'''E''' házban lakott Petőfi Sándor.|Sándor Petőfi lived in '''this''' house.}}
+# {{lb|hu|chiefly|archaic|except before consonant-initial words, as a counterpart of {{m|hu|ez}}}} [[this]]
+#: {{syn|hu|eme|ezen|q2=only determiners; both are archaic or formal}}
 #: {{uxi|hu|az '''e''' heti hírek|'''this''' week’s news}}
+#: {{uxi|hu|'''E''' házban lakott Petőfi Sándor.|Sándor Petőfi lived in '''this''' house.}}
+#: {{uxi|hu|'''E''' mellett a ház mellett vártam rá.|I waited for him/her next to '''this''' house.}}
+
+====Pronoun====
+{{hu-pron|demonstrative}}
+
+# {{lb|hu|archaic|except before most consonant-initial postpositions}} [[this]]
+#: {{uxi|hu|Itt a mozi, '''e''' mellett lakunk mi.|Here is the cinema; we live beside '''this'''.}}
+#* '''1836''', Mihály Vörösmarty, ''Szózat''<sup>[https://mek.oszk.hu/01100/01122/html/vers0302.htm#23]</sup> ''(Appeal)''<sup>[http://www.laszlokorossy.net/magyar/szozat.html]</sup>
+#*: A nagy világon '''e''' kivűl / Nincsen számodra hely;
+#*:: In the great world outside of '''here''' / There is no place for you
+#*::: ({{m|hu||“E kívül”}} would be {{m|hu||ezen kívül}} in present-day Hungarian, formed from {{m|hu|ez}}.)
+<!-- Watson Kirkconnell's version has "No other spot in all the world / can touch your heart as home ―", which is less suitable here -->
 
 =====Usage notes=====
-A rarer substitute of {{m|hu|ez}}, but unlike ''ez'', it does not take the case of the noun it is attached to, and no definite article is used:
+A rarer substitute of {{m|hu|ez}}, but unlike {{m|hu||ez}}, it does not take the case of the noun it is attached to, and no definite article is used:
 : {{uxi|hu|ez'''en a''' hely'''en''' ― e hely'''en'''|'''at''' this place|lit='''on''' this place}}
 : {{uxi|hu|eb'''ben a''' ház'''ban''' ― e ház'''ban'''|'''in''' this house}}
 
-=====Synonyms=====
-* {{l|hu|eme}}
-* {{l|hu|ezen}}
+Most consonant-initial postpositions can take {{m|hu||e}}, e.g. {{m|hu||e nélkül, e helyett}}, see ''[[Template:hu-comp-postp|Pronominal adverbs from postpositions]],'' in the column “that&nbsp;one, this&nbsp;one”. On the other hand, vowel-initial postpositions take {{m|hu||ez}} (e.g. {{m|hu||ez alatt, ez iránt}}).
 
 ====Interjection====
 {{head|hu|interjection}}
 
-# [[look]]!, [[hey]]! (expressing surprise or wanting to get attention)
-#: '''''E'''! [[hát|Hát]] Józsi meg hová tűnt?'' - Hey! Where is Joe?
-#: ''Itt van, '''e'''!'' - Here it is. (informal, not polite)
+# {{lb|hu|folksy}} [[look]]!, [[hey]]! {{gloss|expressing surprise or wanting to get attention}}
+#: {{uxi|hu|'''E'''! {{m|hu|hát|Hát}} Józsi meg hová tűnt?|'''Hey!''' Where is Joe?}}
+#: {{uxi|hu|Itt van, '''e'''!|'''Here''' it is.|q=informal}}
 
 ===Etymology 2===
 See [[#Translingual|Translingual section]].
