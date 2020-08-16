@@ -159,13 +159,25 @@ From {{bor|ja|ltc|-|sort=こ}} {{m|zh|孤|tr=ku}}.
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=고|rv=go|mr=ko}}
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|孤|id=1}}. {{hanja-hunmong|고|ko|雜語}}
 
-# {{rfdef|ko|sort=子05}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|외롭다|외로울|고}}
+
+# {{hanja form of|고|[[solitude]]; [[orphan]]}}
 
 ====Compounds====
-* {{l|ko|孤兒院|tr=[[고아원]], goawon||orphanage}}
+{{der-top|Compounds}}
+* {{ko-l|고립|[[isolation]]|孤立}}
+* {{ko-l|고독|[[loneliness]]|孤獨}}
+* {{ko-l|고아|[[orphan]]|孤兒}}
+* {{ko-l|고아원|[[orphanage]]|孤兒院}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|2493}}
 
 ----
 
