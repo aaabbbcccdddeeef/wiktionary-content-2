@@ -79,7 +79,6 @@ In the historical Chinese dictionary {{w|Longkan Shoujian}} ({{w2|zh|龍龕手�
 {{ja-kanji|grade=2|rs=人05|kyu=體}}
 
 # [[body]]
-#: {{synonyms|ja|身}}
 
 ====Readings====
 {{ja-readings
@@ -109,7 +108,7 @@ for common use, see above)</div>
 {{ja-kanjitab|からだ|yomi=k|alt=躯,身体,躰}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|からだ|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|からだ|acc=0|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|からだ}}
@@ -138,11 +137,12 @@ for common use, see above)</div>
 * {{ja-r|体付き|からだつき}}
 
 ===Etymology 2===
-{{ja-kanjitab|たい|yomi=o}}
+{{ja-kanjitab|たい|yomi=goon}}
+
 From {{der|ja|ltc|-|sort=たい}} {{m|zh|體|tr=thej<sup>X</sup>||body}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|たい|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|たい|acc=1|acc_ref=DJR,NHK}}
 
 ====Counter====
 {{ja-pos|counter|たい}}
@@ -218,10 +218,10 @@ From {{der|ja|ltc|-|sort=たい}} {{m|zh|體|tr=thej<sup>X</sup>||body}}.
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|てい|yomi=o}}
+{{ja-kanjitab|てい|yomi=kanon}}
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|てい|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|てい|acc=1|acc_ref=DJR,NHK}}
 
 ====Alternative forms====
 * {{ja-l|態}}
