@@ -1,11 +1,11 @@
 {{also|А|Appendix:Variations of "a"}}
 {{character info}}
 ==Translingual==
-[[Image:Cyrillic A.png|thumb|right|Cyrillic letter '''А а''' (''A a''), normal above, italics below.]]
+[[File:Cyrillic A.png|thumb|right|Cyrillic letter '''А а''' (''A a''), normal above, italics below.]]
 [[File:01-Russian alphabet-А а.svg|thumb|Handwritten forms]]
 
 ===Etymology===
-[[Image:Early-Cyrillic-letter-Azu.svg|40px|Early Cyrillic letter ''azǔ'', from Greek α (''a'', “alpha”)]]
+[[File:Early-Cyrillic-letter-Azu.svg|40px|Early Cyrillic letter ''azǔ'', from Greek α (''a'', “alpha”)]]
 From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in the tenth century from Greek [[α]] (''a'', “alpha”).
 
 ===Letter===
@@ -26,7 +26,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 ==Adyghe==
 
 ===Alternative forms===
-* {{l|ady|ӏа}}
+* {{alter|ady|ӏа}}
 
 ===Pronunciation===
 * {{IPA|ady|[ʔaː]}}
@@ -43,7 +43,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 ===Letter===
 {{head|ady|letter|lower case||upper case|А}}
 
-# The first letter of the [[Adyghe]] [[Cyrillic]] alphabet.
+# {{Cyrl-def|ady|letter|1}}
 
 ====See also====
 * {{list:Cyrillic script letters/ady}}
@@ -58,7 +58,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 ===Letter===
 {{head|ba|letter|sc=Cyrl|lower case||upper case|А}}
 
-# ''The first letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|1}}
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
@@ -75,7 +75,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''azǔ'', created in th
 ====Letter====
 {{head|bg|letter|lower case||upper case|А}}
 
-# The first letter of the Bulgarian [[Cyrillic]] alphabet. It is followed by the letter [[б]] (b).
+# {{Cyrl-def|bg|letter|1}}
 
 =====See also=====
 * {{list:Cyrillic script letters/bg}}
@@ -192,7 +192,7 @@ Compare {{cog|ce|а}}.
 ===Letter===
 {{head|kk|letter|sc=Cyrl|lower case||upper case|А}}
 
-# ''The first letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|1}}
 
 ===Interjection===
 {{head|kk|interjection}}
@@ -201,6 +201,29 @@ Compare {{cog|ce|а}}.
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
+
+----
+
+==Kyrgyz==
+
+===Pronunciation===
+* {{sense|phoneme}} {{IPA|ky|/ɑ/|/a/|qual2=dialectal, some loanwords}}
+
+===Letter===
+{{ky-letter|lower=а|upper=А}}
+
+# {{Cyrl-def|ky|letter|1|а}}
+
+====Usage notes====
+The pronunciation of the phoneme as {{IPAchar|/a/}} only occurs in Persian loanwords with a front vowel later in the word in some dialects. In most dialects, this is indistinct from {{IPAchar|/ɑ/}}.
+
+====See also====
+* {{list:Cyrillic script letters/ky}}
+
+===Noun===
+{{ky-noun}}
+
+# {{Cyrl-def|ky|name|а}}
 
 ----
 
@@ -244,7 +267,7 @@ From {{inh|mk|sla-pro|*a}}.
 ===Letter===
 {{head|niv|letter|upper case|А}}
 
-# The first letter of the [[Nivkh]] alphabet.
+# {{Cyrl-def|niv|letter|1}}
 
 ===See also===
 * {{list:Cyrillic script letters/niv}}
@@ -299,7 +322,7 @@ From {{inh|zle-ono|sla-pro|*a}}.
 ===Letter===
 {{head|os|letter|sc=Cyrl|upper case|А}}
 
-# The first letter of the [[Ossetian]] alphabet.
+# {{Cyrl-def|os|letter|1}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
@@ -318,8 +341,11 @@ See [[#Translingual|Translingual section]].
 ====Letter====
 {{head|ru|letter|lower case||upper case|А}}
 
-# The first letter of the Russian [[Cyrillic]] alphabet. It is followed by the letter {{m|ru|б}}.
+# {{Cyrl-def|ru|letter|1}}
 # The name of the Roman letter [[A]], [[a]] in Russian.
+
+====See also====
+* {{list:Cyrillic script letters/ru}}
 
 ===Etymology 2===
 From {{inh|ru|sla-pro|*a||and, but}}, from {{inh|ru|ine-bsl-pro|*ō}}, from {{inh|ru|ine-pro|*h₁ōd}} (presumed to be the ablative of {{m|ine-pro|*éy|*éy, h₁e}}). Cognate with {{cog|lt|õ||and, but}}.
@@ -353,7 +379,7 @@ Possible link with {{cog|lt|ar̃||question particle}}. Compare {{cog|ru|а||and,
 Compare {{cog|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, as well as {{cog|got|𐍉||ah!}}, {{cog|la|ā}}, {{m|la|āh||expression of pain, anger}}, {{cog|grc|ἆ||ah!}}
 
 ====Alternative forms====
-* {{m|ru|аа}}, {{m|ru|а́-а}}
+* {{alter|ru|аа|а́-а}}
 
 ====Pronunciation====
 * {{ru-IPA}}
@@ -414,7 +440,7 @@ See [[#Translingual|Translingual section]].
 ====Letter====
 {{sh-letter}}
 
-# The 1st letter of the Serbo-Croatian Latin alphabet ([[gajica]]), followed by {{l|sh|sc=Cyrl|б}}.
+# {{Cyrl-def|sh|letter|1}}
 
 ====See also====
 * {{list:Cyrillic script letters/sh}}
@@ -471,7 +497,7 @@ See [[#Translingual|Translingual section]].
 ===Letter===
 {{head|uk|letter|lower case||upper case|А}}
 
-# The first letter of the Ukrainian [[Cyrillic]] alphabet. It is followed by the letter [[б]] (''b'').
+# {{Cyrl-def|uk|letter|1}}
 
 ====See also====
 * {{list:Cyrillic script letters/uk}}
