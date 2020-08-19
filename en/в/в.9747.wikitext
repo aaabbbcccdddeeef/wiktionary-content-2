@@ -11,7 +11,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''vědě''.
 ===Letter===
 {{head|mul|letter|lower case||upper case|В}}
 
-# The 3rd letter of several [[Cyrillic]] alphabets.
+# A letter of several [[Cyrillic]] alphabets.
 
 ====Related terms====
 * {{l|mul|v}} (Latin alphabet)
@@ -22,12 +22,12 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''vědě''.
 [[File:Cyrillic_letter_Ve_-_uppercase_and_lowercase.svg|thumb]]
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|ba|/w/}}; {{qualifier|in Russian borrowings}} {{IPA|ba|/v/}}
+* {{sense|phoneme}} {{IPA|ba|/w/|/v/|qual2=in Russian borrowings}}
 
 ===Letter===
 {{head|ba|letter|lower case|в}}
 
-# ''The third letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|3}}
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
@@ -39,21 +39,20 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''vědě''.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{bg-IPA|въ}}
+* {{bg-IPA}}
 
 ====Letter====
 {{head|bg|letter|lower case||upper case|В}}
 
-# The third letter of the Bulgarian [[Cyrillic]] alphabet. Its name is '''въ''' {{IPAchar|/vɤ/}} and it has the sound of English '''v'''. It is preceded by [[б|Б]] and followed by [[г|Г]].
+# {{Cyrl-def|bg|letter|3|въ}}
 
 ===Etymology 2===
 
 ====Alternative forms====
-* {{l|bg|във}}
+* {{alter|bg|във}}
 
 ====Pronunciation====
-* {{qualifier|before vowels and voiceless consonants}} {{IPA|bg|/f/}}
-* {{qualifier|before voiced consonants}} {{IPA|bg|/v/}}
+* {{IPA|bg|/f/|/v/|qual1=before vowels and voiceless consonants|qual2=before voiced consonants}}
 
 ====Preposition====
 {{head|bg|preposition}}
@@ -132,19 +131,42 @@ In writing, '''във''' is used in front of words starting with ''в'' or ''ф'
 ===Letter===
 {{head|kk|letter|sc=Cyrl|lower case||upper case|В}}
 
-# ''The fourth letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|4}}
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
 
 ----
 
+==Kyrgyz==
+
+===Pronunciation===
+* {{IPA|ky|/v/}}
+
+===Letter===
+{{ky-letter|lower=в|upper=В}}
+
+# {{Cyrl-def|ky|letter|3|ве}}
+
+====Usage notes====
+Only used in words of foreign origin.
+
+====See also====
+* {{list:Cyrillic script letters/ky}}
+
+----
+
 ==Macedonian==
+
+===Pronunciation===
+* {{sense|phoneme}} {{IPA|mk|[v]|[f]|qual2=at the end of words or before unvoiced consonants}}
+* {{sense|letter name}} {{IPA|mk|[və]}}
 
 ===Letter===
 {{head|mk|letter|lowercase, uppercase|В|sc=Cyrl}} (''italics: В, в'')
 
-# The third letter of the Macedonian [[Cyrillic]] alphabet. Its name is '''в''' {{IPAchar|/və/}} and it has the sound of English '''v'''. It is preceded by [[б|Б]] and followed by [[г|Г]].
+# {{Cyrl-def|mk|letter|3|в}}
+# {{Cyrl-def|mk|name|в}}
 
 ===Preposition===
 {{head|mk|preposition}}
@@ -162,12 +184,12 @@ In writing, '''във''' is used in front of words starting with ''в'' or ''ф'
 ==Ossetian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|os|/v/}}
+* {{sense|phoneme}} {{IPA|os|/v/}}
 
 ===Letter===
 {{head|os|letter|sc=Cyrl|upper case|В}}
 
-# ''The fourth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|4}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
@@ -177,17 +199,18 @@ In writing, '''във''' is used in front of words starting with ''в'' or ''ф'
 ==Russian==
 
 ===Etymology 1===
+{{wp|Ve (Cyrillic)}}
 
 ====Pronunciation====
-* {{ru-IPA|phon=вэ}}
+* {{sense|phoneme}} {{IPA|ru|[v]|[vʲ]|[f]}}
 
 ====Letter====
-{{wikipedia|Ve (Cyrillic)}}
 {{head|ru|letter|lower case||upper case|В}} {{i|italics: В, в}}
 
-# The third letter of the Russian [[Cyrillic]] alphabet. Its name is '''вэ''' {{IPAchar|/vɛ/}} and it has the sound of English '''v'''. It is preceded by [[б|Б]] and followed by [[г|Г]].
+# {{Cyrl-def|ru|letter|3|вэ}}
 
 =====See also=====
+* {{list:Cyrillic script letters/ru}}
 * Search '''en.wiktionary.org''' for articles beginning with: '''[http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%92&namespace=0 В], [http://en.wiktionary.org/w/index.php?title=Special%3AAllpages&from=%D0%B2&namespace=0 в]'''
 
 ===Etymology 2===
@@ -195,7 +218,7 @@ From {{inh|ru|orv|въ}}, from {{inh|ru|sla-pro|*vъ(n)}}, from {{der|ru|ine-pro
 
 ====Alternative forms====
 * {{alter|ru|въ||ru-PRO}}
-* {{l|ru|во}} {{i|before certain consonant clusters}}
+* {{alter|ru|во||before certain consonant clusters}}
 
 ====Pronunciation====
 * {{ru-IPA|в/}} {{i|before vowels and voiced consonants}}
@@ -238,18 +261,15 @@ From {{inh|ru|orv|въ}}, from {{inh|ru|sla-pro|*vъ(n)}}, from {{der|ru|ine-pro
 {{attention|sh}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|sh|/ʋ/}}
+* {{sense|phoneme}} {{IPA|sh|/ʋ/}}
+* {{sense|letter name}} {{IPA|sh|/vɛ/}}
 
 ===Letter===
 {{head|sh|letter|lower case||upper case|В}}
 
-# The 3rd letter of the [[Serbo-Croatian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''в''' {{IPAchar|/vɛ/}} (old name: веди) and it has the sound of English '''v'''.
+# {{Cyrl-def|sh|letter|3|в}}
+# {{Cyrl-def|sh|name|в}}
+#: {{syn|sh|веди|q=obsolete}}
 
 ====See also====
-* Previous letter: {{l|sh|б}}
-* Next letter: {{l|sh|г}}
-
-[[Category:Ukrainian letters]]
+* {{list:Cyrillic script letters/sh}}
