@@ -23,6 +23,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 * [[w:Cyrillic alphabet|Wikipedia article on the Cyrillic alphabet]]
 
 ----
+
 ==Bashkir==
 
 ===Pronunciation===
@@ -31,7 +32,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ===Letter===
 {{head|ba|letter|upper case|Б}}
 
-# ''The second letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|2}}
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
@@ -47,10 +48,25 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ===Letter===
 {{head|kk|letter|sc=Cyrl|lower case||upper case|Б}}
 
-# ''The third letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|3}}
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
+
+----
+
+==Kyrgyz==
+
+===Pronunciation===
+* {{IPA|ky|/b/}}
+
+===Letter===
+{{ky-letter|lower=б|upper=Б}}
+
+# {{Cyrl-def|ky|letter|2|бе}}
+
+===See also===
+* {{list:Cyrillic script letters/ky}}
 
 ----
 
@@ -62,7 +78,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ===Letter===
 {{head|os|letter|sc=Cyrl|upper case|Б}}
 
-# ''The third letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|3}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
@@ -72,12 +88,16 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ==Russian==
 
 ===Pronunciation===
+* {{ru-IPA}}
 * {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Letter===
 {{head|ru|letter|lower case||upper case|Б}}
 
-# The second letter of the Russian [[Cyrillic]] alphabet. Its name is '''бэ''' {{IPAchar|/bɛ/}} and it has the sound of English '''b'''. It is preceded by [[а|А]] and followed by [[в|В]].
+# {{Cyrl-def|ru|letter|2|бэ}}
+
+====See also====
+* {{list:Cyrillic script letters/ru}}
 
 ===Particle===
 {{head|ru|particle|head=б}}
@@ -101,13 +121,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ===Letter===
 {{head|sh|letter|head=б|head2=<span lang="sr">б</span>|lower case||upper case|Б}}
 
-# The 2nd letter of the [[Serbo-Croatian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''б''' (бɛ) and its has the sound of English '''b'''.
+# {{Cyrl-def|sh|letter|2|бе}}
 
 ====See also====
-* Previous letter: {{l|sh|а}}
-* Next letter: {{l|sh|в}}
-
-[[Category:Ukrainian letters]]
+* {{list:Cyrillic script letters/sh}}
