@@ -58,12 +58,15 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] [[Ⰱ]], ''buky''.
 ==Kyrgyz==
 
 ===Pronunciation===
-* {{IPA|ky|/b/}}
+* {{sense|phoneme}} {{IPA|ky|/b/|/w/}}
 
 ===Letter===
 {{ky-letter|lower=б|upper=Б}}
 
 # {{Cyrl-def|ky|letter|2|бе}}
+
+====Usage notes====
+The phoneme {{IPAchar|/b/}} is lenited to {{IPAchar|/w/}} after {{IPAchar|/l, r, j/}} or between vowels.
 
 ===See also===
 * {{list:Cyrillic script letters/ky}}
