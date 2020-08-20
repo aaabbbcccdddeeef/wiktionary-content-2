@@ -1,18 +1,18 @@
 {{also|r|Г|г.|Ґ|ґ|Ғ|ғ|Appendix:Variations of "g"}}
 {{character info}}
 ==Translingual==
-{{wikipedia|Ge (Cyrillic)}}
-[[Image:Cyrillic G.png|thumb|right|Cyrillic letter '''Г г''' (''Г г''), normal above, italics below.]]
+{{wp|Ge (Cyrillic)}}
+[[File:Cyrillic G.png|thumb|right|Cyrillic letter '''Г г''' (''Г г''), normal above, italics below.]]
 [[File:04-Russian alphabet-Г г.svg|thumb|Handwritten forms]]
 
 ===Etymology===
-[[Image:Early Cyrillic letter Glagoli.png|Early Cyrillic letter ''glagoli'']]
+[[File:Early Cyrillic letter Glagoli.png|Early Cyrillic letter ''glagoli'']]
 From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 
 ===Letter===
 {{head|mul|letter|lower case||upper case|Г}}
 
-# The 4th letter of several [[Cyrillic]] alphabets.
+# A letter of several [[Cyrillic]] alphabets.
 
 ====Related terms====
 * {{l|mul|g}} (Latin alphabet)
@@ -27,12 +27,12 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 [[File:Cyrillic G.png|thumbnail]]
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|ba|/ɡ/}}
+* {{sense|phoneme}} {{IPA|ba|/ɡ/}}
 
 ===Letter===
 {{head|ba|letter|upper case|Г}}
 
-# ''The fourth letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|4}}
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
@@ -48,10 +48,28 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 ===Letter===
 {{head|kk|letter|sc=Cyrl|lower case||upper case|Г}}
 
-# ''The fifth letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|5}}
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
+
+----
+
+==Kyrgyz==
+
+===Pronunciation===
+* {{IPA|ky|/ɡ/|/ʁ/|/ɢ/}}
+
+===Letter===
+{{ky-letter|lower=г|upper=Г}}
+
+# {{Cyrl-def|ky|letter|4|ге}}
+
+====Usage notes====
+The phoneme {{IPAchar|/ɡ/}} becomes {{IPAchar|/ʁ/}} or {{IPAchar|/ɢ/}} when adjacent to back vowels ({{m|ky|а}}, {{m|ky|о}}, {{m|ky|у}}, and {{m|ky|ы}}) in non-loanwords. In loanwords, it is always {{IPAchar|/ɡ/}}.
+
+====See also====
+* {{list:Cyrillic script letters/ky}}
 
 ----
 
@@ -63,7 +81,7 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 ===Letter===
 {{head|os|letter|sc=Cyrl|upper case|Г}}
 
-# ''The fifth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|5}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
@@ -75,20 +93,16 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''glagoli''.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{ru-IPA|phon=гэ}}
+* {{IPA|ru|/ɡ/}}
 * {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ====Letter====
 {{head|ru|letter|lower case||upper case|Г}} {{i|italics: Г, г}}
 
-# The 4th letter of the Russian [[Cyrillic]] alphabet.
-
-=====Usage notes=====
-Its name is {{m|ru|гэ}} and it has the sound of /g/, a hard English '''g''' as in '''''g'''ood''.
+# {{Cyrl-def|ru|letter|4|гэ}}
 
 =====See also=====
-* Previous letter: {{l|ru|в}}
-* Next letter: {{l|ru|д}}
+* {{list:Cyrillic script letters/ru}}
 
 ===Etymology 2===
 
@@ -109,7 +123,7 @@ Its name is {{m|ru|гэ}} and it has the sound of /g/, a hard English '''g''' as
 # [[hecto-]] {{gloss|x 100}}
 
 ====References====
-<references />
+<references/>
 
 {{topics|ru|Units of measure}}
 
@@ -119,31 +133,29 @@ Its name is {{m|ru|гэ}} and it has the sound of /g/, a hard English '''g''' as
 {{attention|sh}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|sh|/ɡ/}}
+* {{sense|phoneme}} {{IPA|sh|/ɡ/}}
+* {{sense|letter name}} {{IPA|sh|/ɡɛ/}}
 
 ===Letter===
 {{head|sh|letter|lower case||upper case|Г}}
 
-# The 4th letter of the [[Serbo-Croatian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''г''' {{IPAchar|/ɡɛ/}} and it has the sound of {{IPAchar|/ɡ/}}, a hard English '''g''' as in '''''g'''ood''.
+# {{Cyrl-def|sh|letter|4|г}}
+# {{Cyrl-def|sh|name|Г}}
 
 ====See also====
-* Previous letter: {{l|sh|в}}
-* Next letter: {{l|sh|д}}
+* {{list:Cyrillic script letters/sh}}
 
 ----
 
 ==Ukrainian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{uk-IPA|г}}
+* {{sense|phoneme}} {{uk-IPA|г}}
 
 ===Letter===
 {{head|uk|letter|upper case|Г}} (''italics: Г, г'')
 
-# The fourth letter of the Ukrainian [[Cyrillic]] alphabet. Its name is '''ге''' {{IPAchar|/ɦɛ/}} and it has the sound of /ɦ/, a voiced glottal fricative. It is preceded by {{l|uk|в|В}} and followed by {{l|uk|ґ|Ґ}}.
+# {{Cyrl-def|uk|letter|4|ге}}
 
 ===See also===
 * {{list:Cyrillic script letters/uk}}
