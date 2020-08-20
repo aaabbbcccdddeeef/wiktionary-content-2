@@ -150,16 +150,23 @@ From {{der|ja|ltc|sort=えん|-}} {{zh-l|*咽}} / {{ltc-l|嚥}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|咽|id=1}}.
+From {{der|ko|ltc|-}} {{ltc-l|咽|id=1}}. {{hanja-hunmong|연|yen|身體#상26B}}
 
 ====Hanja====
+{{ko-hanja-search}}
 {{ko-hanja|목구멍|인}}
 
 # {{hanja form of|인|[[throat]], [[pharynx]]}}
 
 ====Compounds====
+{{der-top3|Compounds}}
 * {{ko-l|인후|[[throat]]|咽喉}}
 * {{ko-l|인두|[[pharynx]]|咽頭}}
+* {{ko-l|인후염|咽喉炎}}
+* {{ko-l|인후통|咽喉痛}}
+* {{ko-l|인두염|咽頭炎}}
+* {{ko-l|이비인후과|耳鼻咽喉科}}
+{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|-}} {{ltc-l|咽|id=3}}.
@@ -178,11 +185,10 @@ From {{der|ko|ltc|-}} {{zh-l|*咽}} / {{ltc-l|嚥|id=1}}.
 ====Hanja====
 {{ko-hanja|삼키다|삼킬|연}}
 
-# {{hanja form of|연|[[swallow]]}}
 # {{alt form|ko|嚥||{{hanja form of|연|[[swallow]]}}}}
 
 ====Compounds====
-* {{ko-l|연하|[[swallowing]]|[[咽下]]/[[嚥下]]}}
+* {{ko-l|연하|[[swallowing]]|[[嚥下]]/[[咽下]]}}
 
 ===References===
 * {{R:hanjadoc|1209}}
