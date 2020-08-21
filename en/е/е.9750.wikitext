@@ -13,20 +13,20 @@
 {{ady-adv}}
 
 # [[or]]
-#: {{ux|ady|кӏо '''е''' чъэ|go '''or''' run|inline=y}}
+#: {{uxi|ady|кӏо '''е''' чъэ|go '''or''' run}}
 
 ----
 
 ==Bashkir==
 
 ===Pronunciation===
-* {{qualifier|at start of word}} {{IPA|ba|/jɪ̞/}}, {{qualifier|elsewhere}} {{IPA|ba|/ɪ̞/}}; 
-* {{qualifier|in Russian borrowings: at start of word or after a vowel}} {{IPA|ba|/je/}}; {{qualifier|after a consonant}} {{IPA|ba|/ʲe/}} {{qualifier|palatalizes the preceding consonant}} 
+* {{IPA|ba|/ɪ̞/|/jɪ̞/|qual2=at start of word}}
+* {{sense|in Russian borrowings}} {{IPA|ba|/je/|qual1=at start of word or after a vowel|/ʲe/|qual2=after a consonant, palatalizes the preceding consonant}} 
 
 ===Letter===
-{{head|ba|letter|sc=Cyrl|upper case|Е}}
+{{head|ba|letter|lower case||upper case|Е}}
 
-# ''The eighth letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|8}}
 
 ===See also===
 * {{l|ba|э}}
@@ -42,7 +42,7 @@
 ===Letter===
 {{head|bg|letter|lower case||upper case|Е}}
 
-# The sixth letter of the Bulgarian [[Cyrillic]] alphabet. Its name is '''е''' {{IPAchar|/ɛ/}} and it has the sound of '''e''' in ''n'''e'''t''. It is preceded by [[д|Д]] and followed by [[ж|Ж]].
+# {{Cyrl-def|bg|letter|6|е}}
 
 ====See also====
 * {{l|bg|ѣ|Ѣ, ѣ}}
@@ -57,32 +57,32 @@
 ===Interjection===
 {{head|bg|interjection}}
 
-# {{non-gloss|used to express indignation, dissatisfaction, irritation, annoyance}}
+# {{ngd|used to express indignation, dissatisfaction, irritation, annoyance}}
 #: {{uxi|bg|'''Е''', прекаляваш!|You've crossed the line!}}
-#: {{uxi|bg|'''Е''', то бива, бива, ама...|Really, that's the limit...}}
-# {{non-gloss|used to express surprise}}, [[well#Interjection|well]], [[really#Interjection|really]]
+#: {{uxi|bg|'''Е''', то бива, бива, ама…|Really, that's the limit…}}
+# {{ngd|used to express surprise}}, [[well#Interjection|well]], [[really#Interjection|really]]
 #: {{uxi|bg|'''Е'''! Чухте ли я какво каза!|Did you hear what she said!}}
 
 ===Particle===
 {{head|bg|particle}}
 
-# {{non-gloss|used to ask for elaboration}}
+# {{ngd|used to ask for elaboration}}
 #: {{uxi|bg|'''Е''', и после?|And then?/So?}}
-#: {{uxi|bg|'''Е''', та какво?|Well, what of that?/So what?}}
-# {{non-gloss|used to emphasize a question word}}
+#: {{uxi|bg|'''Е''', та какво?|'''Well''', what of that?/So what?}}
+# {{ngd|used to emphasize a question word}}
 #: {{uxi|bg|'''Е''', как можа?|How could you?}}
 #: {{uxi|bg|'''Е''', какво ще правим сега?|And what are we going to do now?}}
-# {{non-gloss|used to agree to something, rather unwillingly}}, [[well#Interjection|well]]
+# {{ngd|used to agree to something, rather unwillingly}}, [[well#Interjection|well]]
 #: A: {{uxi|bg|Много е скъпа тая рокля.|This dress is very expensive.}}
-#: B: {{uxi|bg|'''Е''', скъпа е, но е много хубава.|Well, it is expensive, but it's very nice.}}
+#: B: {{uxi|bg|'''Е''', скъпа е, но е много хубава.|'''Well''', it is expensive, but it's very nice.}}
 #: A: {{uxi|bg|Много си сгрешила, като си постъпила така.|You've made a big mistake by acting like that.}}
-#: B: {{uxi|bg|'''Е''', да, сгреших...|Well, yes, I have...}}
-# {{non-gloss|used to express that one is waiting for somebody to say something}}, [[well#Interjection|well]]
-#: {{uxi|bg|'''Е''', чакам отговора ти.|Well, I'm waiting for your answer.}}
-# {{non-gloss|used to change the subject}}
+#: B: {{uxi|bg|'''Е''', да, сгреших…|'''Well''', yes, I have…}}
+# {{ngd|used to express that one is waiting for somebody to say something}}, [[well#Interjection|well]]
+#: {{uxi|bg|'''Е''', чакам отговора ти.|'''Well''', I'm waiting for your answer.}}
+# {{ngd|used to change the subject}}
 #: {{uxi|bg|'''Е''', нека оставим тази тема настрана.|Let's drop this subject.}}
-# {{non-gloss|used to mark the end of a conversation}}, [[well#Interjection|well]]
-#: {{uxi|bg|'''Е''', по-добре да тръгвам.|Well, I'd better be going now.}}
+# {{ngd|used to mark the end of a conversation}}, [[well#Interjection|well]]
+#: {{uxi|bg|'''Е''', по-добре да тръгвам.|'''Well''', I'd better be going now.}}
 
 ----
 
@@ -90,36 +90,71 @@
 {{kk-regional|е|ە}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|kk|/ʲe/|[ʲɛ]}}
+* {{sense|phoneme}} {{IPA|kk|/ʲe/|[ʲɛ]}}
 
 ===Letter===
-{{head|kk|letter|sc=Cyrl|lower case||upper case|Е}}
+{{head|kk|letter|lower case||upper case|Е}}
 
-# ''The eighth letter of the [[Kazakh]] [[Cyrillic]] alphabet''.
+# {{Cyrl-def|kk|letter|8}}
 
 ===Interjection===
 {{head|kk|interjection}}
 
-# [[hey]] {{gloss|an expression of surprise, curiosity, etc.}}
-# [[well]] {{gloss|an expression of positive attitude to the action}}
-# [[well]] {{gloss|an expression of the speaker's awareness of the completed action or fact}}
+# [[hey]] {{gl|an expression of surprise, curiosity, etc.}}
+# [[well]] {{gl|an expression of positive attitude to the action}}
+# [[well]] {{gl|an expression of the speaker's awareness of the completed action or fact}}
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
 
 ----
 
+==Kyrgyz==
+
+===Pronunciation===
+* {{sense|phoneme}} {{IPA|ky|/e/|/je/|qual2=at the beginning of words or after vowels}}
+* {{sense|letter name}} {{IPA|ky|/je/}}
+
+===Letter===
+{{ky-letter|lower=е|upper=Е}}
+
+# {{Cyrl-def|ky|letter|6|е}}
+
+====Usage notes====
+The pronunciation of '''е''' as {{IPAchar|/je/}} mostly occurs in Russian loanwords.
+
+====See also====
+* {{list:Cyrillic script letters/ky}}
+
+===Noun===
+{{ky-noun}}
+
+# {{Cyrl-def|ky|name|Е}}
+
+----
+
 ==Macedonian==
+
+===Pronunciation===
+* {{IPA|mk|/ɛ/}}
 
 ===Interjection===
 {{head|mk|interjection}}
 
-# [[and]]? (used when the speaker is following what the interlocutor is saying and is asking for further information)
+# [[and]]? {{gl|used when the speaker is following what the interlocutor is saying and is asking for further information}}
 
 ===Letter===
 {{head|mk|letter|lower case||upper case|Е}}
 
-# The seventh letter of the [[Macedonian]] [[Cyrillic]] alphabet. Its name is '''е''' {{IPAchar|/ɛ/}} and it has the sound of '''e''' in ''n'''e'''t''. It is preceded by [[ѓ|Ѓ]] and followed by [[ж|Ж]].
+# {{Cyrl-def|mk|letter|7|е}}
+
+====See also====
+* {{list:Cyrillic script letters/mk}}
+
+===Noun===
+{{head|mk|noun}}
+
+# {{Cyrl-def|mk|name|Е}}
 
 ===Verb===
 {{head|mk|verb form}}
@@ -141,12 +176,12 @@
 ==Ossetian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|os|/e/}}
+* {{sense|phoneme}} {{IPA|os|/e/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Е}}
+{{head|os|letter|lower case||upper case|Е}}
 
-# ''The tenth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|10}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
@@ -163,13 +198,13 @@
 ====Letter====
 {{head|ru|letter|lower case||upper case|Е}}
 
-# The sixth letter of the Russian [[Cyrillic]] alphabet. Its name is {{m|ru|е}} and it has the sound of '''ye''' in '''''ye'''s''. It is preceded by {{m|ru|д|Д}} and followed by {{m|ru|ё|Ё}}.
+# {{Cyrl-def|ru|letter|6|е}}
 # Roman letter [[E]], [[e]], usually pronounced [je]
 
 ====Noun====
 {{ru-noun||n-in|-}}
 
-# The Cyrillic letter {{m|ru|е|Е}}, {{m|ru|е}}.
+# {{Cyrl-def|ru|name|Е}}
 
 ===Etymology 2===
 
@@ -188,18 +223,19 @@
 ===Etymology 1===
 
 ====Alternative forms====
-* {{sense|uppercase}} {{l|sh|Е|sc=Cyrl}}
+* {{alter|sh|Е||upper case}}
+* {{alter|sh|E|e||Latin}}
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|sh|/e/}}
+* {{sense|phoneme}} {{IPA|sh|/e/}}
 
 ====Letter====
 {{sh-letter}}
 
-# The 7th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|ђ|sc=Cyrl}} and followed by {{l|sh|ж|sc=Cyrl}}.
+# {{Cyrl-def|sh|letter|7|е}}
 
-=====Usage notes=====
-Its name is '''е''' {{IPAchar|/e/}} and it has the sound of '''e''' in ''n'''e'''t''.
+=====See also=====
+* {{list:Cyrillic script letters/sh}}
 
 ===Etymology 2===
 Variant of {{m|sh|еј}} or {{m|sh|хеј}}
@@ -209,9 +245,9 @@ Variant of {{m|sh|еј}} or {{m|sh|хеј}}
 
 # {{lb|sh|rare}} [[well]], [[now]]
 # {{lb|sh|informal|at the beginning of the sentence}} [[hey]]
-# {{lb|sh|informal|at the beginning of the sentence}} {{non-gloss|Used to emphasize the sentence}}
-#: {{ux|sh|'''Е''', шта има?|'''Hey''', what's up?|inline=y}}
-# {{lb|sh|informal|at the beginning of the sentence}} {{non-gloss|Used to express surprise}}
-#: {{ux|sh|'''Е''', откуд ти?|'''Hey''', where did you come from?|inline=y}}
-# {{lb|sh|informal|at the beginning of the sentence}} {{non-gloss|Used to get attention or change the topic of conversation, especially if followed by {{m|sh|а||and; but}}}}
-#: {{ux|sh|'''Е''', а види ово.|'''And''' look at this.|inline=y}}
+# {{lb|sh|informal|at the beginning of the sentence}} {{ngd|Used to emphasize the sentence}}
+#: {{uxi|sh|'''Е''', шта има?|'''Hey''', what's up?}}
+# {{lb|sh|informal|at the beginning of the sentence}} {{ngd|Used to express surprise}}
+#: {{uxi|sh|'''Е''', откуд ти?|'''Hey''', where did you come from?}}
+# {{lb|sh|informal|at the beginning of the sentence}} {{ngd|Used to get attention or change the topic of conversation, especially if followed by {{m|sh|а||and; but}}}}
+#: {{uxi|sh|'''Е''', а види ово.|'''And''' look at this.}}
