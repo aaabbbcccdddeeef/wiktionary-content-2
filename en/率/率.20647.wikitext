@@ -95,19 +95,29 @@
 ==Korean==
 
 ===Etymology 1===
+From {{der|ko|ltc|-}} {{ltc-l|率|tr=*lwit}}.
 
 ====Hanja====
+{{ko-hanja-search}}
 {{ko-hanja|비율|률||율}}
 
-# {{hanja form of|률|[[rate]], [[ratio]]}}
+# {{hanja form of|[[률]]/[[율]]|[[rate]], [[ratio]]}}
 
 ====Usage notes====
-{{ko-l|율}} follows after a vowel or {{ko-l|ㄴ}} as in {{ko-l|환율|[[exchange rate]]|換率}} or {{ko-l|비율|[[ratio]]|比率}}. After anything else, it is followed by {{ko-l|률}}.
+{{ko-l|율}} follows after a vowel or {{ko-l|ㄴ}} as in {{ko-l|환율|換率}} and {{ko-l|비율|比率}}. After anything else, it is followed by {{ko-l|률}}.
 
 ====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|능률|能率}}
+* {{ko-l|효율|效率}}
+* {{ko-l|세율|稅率}}
+* {{ko-l|배율|倍率}}
+* {{ko-l|이율|利率}}
 * {{ko-l|확률|[[probability]]|確率}}
 * {{ko-l|환율|[[exchange rate]]|換率}}
 * {{ko-l|비율|[[ratio]]|比率}}
+* {{ko-l|원주율|圓周率}}
+{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|-}} {{ltc-l|率|id=2}}.
@@ -118,9 +128,14 @@ From {{der|ko|ltc|-}} {{ltc-l|率|id=2}}.
 # {{hanja form of|솔|[[lead]]}}
 
 ====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|경솔|輕率}}
+* {{ko-l|진솔|眞率}}
 * {{ko-l|통솔|[[command]]; [[lead]]|統率}}
 * {{ko-l|인솔|[[leading]]; [[guiding]]|引率}}
 * {{ko-l|솔직|[[directness]]; [[frankness]]|率直}}
+* {{ko-l|솔선|率先}}
+{{der-bottom}}
 
 ===Etymology 3===
 From {{der|ko|ltc|-}} {{ltc-l|率|id=1}}.
@@ -128,7 +143,6 @@ From {{der|ko|ltc|-}} {{ltc-l|率|id=1}}.
 ====Hanja====
 {{ko-hanja|우두머리|수}}
 
-# {{hanja form of|수|[[commander]]}}
 # {{alt form|ko|帥||{{hanja form of|수|[[commander]]}}}}
 
 ===References===
