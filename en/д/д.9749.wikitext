@@ -1,21 +1,21 @@
 {{also|Д|-д|д.|Appendix:Variations of "d"|Appendix:Variations of "de"}}
 {{character info}}
 ==Translingual==
-{{wikipedia|De (Cyrillic)}}
-[[Image:Cyrillic D.png|thumb|right|Cyrillic letter '''Д д''' (''Д д''), normal above, italics below.]]
+{{wp|De (Cyrillic)}}
+[[File:Cyrillic D.png|thumb|right|Cyrillic letter '''Д д''' (''Д д''), normal above, italics below.]]
 [[File:05-Russian alphabet-Д д.svg|thumb|Handwritten forms]]
 
 ===Etymology===
-[[Image:Early Cyrillic letter Dobro.png|Early Cyrillic letter ''dobro'', from Greek δ (“delta”)]]
+[[File:Early Cyrillic letter Dobro.png|Early Cyrillic letter ''dobro'', from Greek δ (“delta”)]]
 From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in the tenth century from Greek [[δ]] (“delta”).
 
 ===Letter===
-{{head|mul|letter|lower case||upper case|Д}}
+{{mul-letter|lower=д|upper=Д}}
 
-# The 5th letter of several [[Cyrillic]] alphabets.
+# A letter of several [[Cyrillic]] alphabets.
 
 ====Related terms====
-* {{l|mul|d}} (Latin alphabet)
+* {{l|mul|d}} {{q|Latin}}
 
 ====See also====
 * [[∂]], a mathematical operator which appears similar to the miniscule italicized form
@@ -25,14 +25,14 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in t
 ==Bashkir==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|ba|/d/}}
+* {{sense|phoneme}} {{IPA|ba|/d/}}
 
 ===Letter===
-{{head|ba|letter|upper case|Д}}
+{{head|ba|letter|lower case||upper case|Д}}
 
-# ''The sixth letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|6}}
 
-===See also===
+====See also====
 * {{list:Cyrillic script letters/ba}}
 
 ----
@@ -41,29 +41,44 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in t
 {{kk-regional|д|د}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|kk|/d/}}
+* {{sense|phoneme}} {{IPA|kk|/d/}}
 
 ===Letter===
-{{head|kk|letter|sc=Cyrl|lower case||upper case|Д}}
+{{head|kk|letter|lower case||upper case|Д}}
 
-# ''The seventh letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|7}}
 
-===See also===
+====See also====
 * {{list:Cyrillic script letters/kk}}
+
+----
+
+==Kyrgyz==
+
+===Pronunciation===
+* {{IPA|ky|/d/}}
+
+===Letter===
+{{ky-letter|lower=д|upper=Д}}
+
+# {{Cyrl-def|ky|letter|5|де}}
+
+====See also====
+* {{list:Cyrillic script letters/ky}}
 
 ----
 
 ==Ossetian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|os|/d/}}
+* {{sense|phoneme}} {{IPA|os|/d/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Д}}
+{{head|os|letter|lower case||upper case|Д}}
 
-# ''The seventh letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|7}}
 
-===See also===
+====See also====
 * {{list:Cyrillic script letters/os}}
 
 ----
@@ -73,14 +88,13 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in t
 ===Etymology 1===
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{ru-IPA-manual|[d]}}
-* {{qualifier|letter}} {{ru-IPA|phon=дэ}}
+* {{sense|phoneme}} {{ru-IPA-manual|[d]}}
 * {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ====Letter====
 {{head|ru|letter|lower case||upper case|Д}} (''italics: Д, д'')
 
-# The fifth letter of the Russian [[Cyrillic]] alphabet. Its name is {{m|ru|дэ}} and it has the sound of English '''d'''. It is preceded by [[г|Г]] and followed by [[е|Е]].
+# {{Cyrl-def|ru|letter|5|дэ}}
 
 =====See also=====
 * [[w:Cyrillic alphabet|Wikipedia article on the Cyrillic alphabet]]
@@ -97,9 +111,6 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in t
 
 # [[d]], [[deci-]] (0.1)
 
-=====References=====
-<references />
-
 {{topics|ru|Units of measure}}
 
 ----
@@ -108,16 +119,14 @@ From [[w:Early Cyrillic alphabet|early Cyrillic letter]] ''dobro'', created in t
 {{attention|sh}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|sh|/d/}}
+* {{sense|phoneme}} {{IPA|sh|/d/}}
+* {{sense|letter name}} {{IPA|sh|[dɛ]}}
 
 ===Letter===
 {{head|sh|letter|lower case||upper case|Д}}
 
-# The 5th letter of the [[Serbo-Croatian Cyrillic alphabet]].
-
-====Usage notes====
-Its name is '''[[де]]''' ({{IPAchar|[dɛ]}}) and it has the sound of English '''d'''.
+# {{Cyrl-def|sh|letter|5|д}}
+# {{Cyrl-def|sh|name|Д}}
 
 ====See also====
-* Previous letter: {{l|sh|г}}
-* Next letter: {{l|sh|ђ}}
+* {{list:Cyrillic script letters/sh}}
