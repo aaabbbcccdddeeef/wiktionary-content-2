@@ -242,10 +242,24 @@ STEDT, on the other hand, compares {{och-l|何|id=2}} to {{inh|zh|sit-pro|*ka||w
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=하}}
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|何|id=1}}.
 
-# {{rfdef|ko|sort=人05}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|어찌|하}}
+
+# {{hanja form of|하|[[how]]; [[what]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|하필|何必}}
+* {{ko-l|기하학|幾何學}}
+* {{ko-l|육하원칙|六何原則}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|221}}
 
 ----
 
