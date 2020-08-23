@@ -48,12 +48,23 @@ From {{inh|da|gmq-oda|lim}}, from {{inh|da|non|limr}}, from {{inh|da|gem-pro|*li
 ====Noun====
 {{da-noun|et|er|dc=1}}
 
-# {{l|en|limb}} {{q|arm or leg}}
+# {{l|en|limb}} {{q|arm or leg in a human or an animal}}
 # {{lb|da|formal}} {{l|en|penis}}
 # {{lb|da|dated}} {{l|en|inmate}} {{q|in an institution}}
 
 =====Inflection=====
 {{da-decl|et|er|dc=1}}
+
+=====Derived terms=====
+{{der4|da
+|baglem
+|fattiglem
+|forlem
+|langlemmet
+|lemmeløs
+|medlem
+|sværlemmet
+}}
 
 ====References====
 * {{R:DDO|lem,2}}
@@ -69,6 +80,13 @@ From {{inh|da|non|hlemmr}}, from {{inh|da|gem-pro|*hlammiz||noice; lid}}, cognat
 
 =====Inflection=====
 {{da-decl|en|e|dc=1}}
+
+=====Derived terms=====
+{{der4|da
+|faldlem
+|kattelem
+|loftslem
+}}
 
 ====References====
 * {{R:DDO|lem,1}}
