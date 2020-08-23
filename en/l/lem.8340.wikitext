@@ -39,25 +39,27 @@ From {{inh|cim|gmh|leben}}, from {{inh|cim|goh|lebēn}}, from {{inh|cim|gmw-pro|
 ==Danish==
 
 ===Pronunciation===
-* {{IPA|da|[ˈlɛmˀ]}}
+* {{IPA|da|/lɛmˀ/|[ˈlɛmˀ]}}
 * {{rhymes|da|ɛmˀ}}
-* {{rhymes|da|ɜm}}
 
 ===Etymology 1===
-From {{inh|da|gmq-oda|lim}}, from {{inh|da|non|limr}}, from {{inh|da|gem-pro|*limuz|t=branch, limb}} (compare {{cog|en|limb}}).
+From {{inh|da|gmq-oda|lim}}, from {{inh|da|non|limr}}, from {{inh|da|gem-pro|*limuz|t=branch, limb}}, cognate with {{cog|no|-}}, {{cog|sv|lem}}, {{cog|en|limb}}, {{cog|nl|leem}}.
 
 ====Noun====
 {{da-noun|et|er|dc=1}}
 
-# [[limb]]
-# [[penis]]
-# [[member]]
+# {{l|en|limb}} {{q|arm or leg}}
+# {{lb|da|formal}} {{l|en|penis}}
+# {{lb|da|dated}} {{l|en|inmate}} {{q|in an institution}}
 
-=====Declension=====
-{{da-noun-infl|et|er|dc=1}}
+=====Inflection=====
+{{da-decl|et|er|dc=1}}
+
+====References====
+* {{R:DDO|lem,2}}
 
 ===Etymology 2===
-From {{inh|da|non|hlemmr}}.
+From {{inh|da|non|hlemmr}}, from {{inh|da|gem-pro|*hlammiz||noice; lid}}, cognate with {{cog|no|lem}}, {{cog|sv|läm}}, {{cog|ang|hlemm}}, {{cog|got|𐌷𐌻𐌰𐌼𐌼𐌰}}.
 
 ====Noun====
 {{da-noun|en|e|dc=1}}
@@ -65,11 +67,11 @@ From {{inh|da|non|hlemmr}}.
 # [[hatch]]
 # [[trapdoor]]
 
-=====Declension=====
-{{da-noun-infl|en|e|dc=1}}
+=====Inflection=====
+{{da-decl|en|e|dc=1}}
 
-===References===
-* {{R:DDO}}
+====References====
+* {{R:DDO|lem,1}}
 
 ----
 
