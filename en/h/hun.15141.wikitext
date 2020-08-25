@@ -77,18 +77,10 @@ From {{inh|gsw|gmh|hunt}}, from {{inh|gsw|goh|hunt}}, from {{inh|gsw|gem-pro|*hu
 ==Danish==
 
 ===Etymology===
-From {{inh|da|non|hón||she}}, from {{inh|da|gmq-pro|*ᚺᚨᚾᚢ}}, the feminine form, with u-umlaut, of {{m|gmq-pro|*ᚺᚨᚾᚨᛉ}} (= {{cog|da|han||he}}, {{cog|non|hann}}.
+From {{inh|da|non|hón||she}}, from {{inh|da|gmq-pro|*ᚺᚨᚾᚢ}}, the feminine form, with u-umlaut, of {{m|gmq-pro|*ᚺᚨᚾᚨᛉ}} (= {{cog|da|han||he}}, {{cog|non|hann}}).
 
 ===Pronunciation===
-* {{IPA|da|[hun]}}
-
-===Noun===
-{{da-noun|stem=hunn|en|er}}
-
-# [[female]], [[she]]
-
-====Inflection====
-{{da-noun-infl|stem=hunn|en|er}}
+* {{IPA|da|[ˈhun]}}
 
 ===Pronoun===
 {{head|da|pronoun|objective case|hende|possessive|hendes}}
@@ -98,8 +90,19 @@ From {{inh|da|non|hón||she}}, from {{inh|da|gmq-pro|*ᚺᚨᚾᚢ}}, the femini
 ====See also====
 {{Danish personal pronouns}}
 
-===References===
-* {{R:Den Danske Ordbog}}
+====References====
+* {{R:DDO|hun,2}}
+
+===Noun===
+{{da-noun|stem=hunn|en|er}}
+
+# [[female]], [[she]]
+
+====Inflection====
+{{da-decl|dc=1||en|er}}
+
+====References====
+* {{R:DDO|hun,1}}
 
 [[Category:Danish personal pronouns]]
 
