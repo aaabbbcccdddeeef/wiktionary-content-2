@@ -162,7 +162,7 @@ From {{m|en|are}}, pronounced like the name of the letter {{m|en|r}}
 {{was fwotd|egy|2016|July|19}}
 
 ===Etymology 1===
-The actual reading of this word is uncertain, as it is always written as an ideogram, but evidence from Coptic suggests the original was {{m|egy|rꜣ}}.
+The actual reading of this word is uncertain, as it is always written as an ideogram, but evidence from Coptic suggests the original was {{m|egy|rꜣ}}. The extension in meaning to ‘part, piece, fraction’ might be either by way of a mouthful being used as a standard share in some distribution of food or goods,<ref>Palma, Helena Lopez (2015) “Egyptian Fractional Numerals: The grammar of Egyptian NPs and statements with fractional number expressions” in ''Lingua Aegyptia'', volume 23, page 199</ref> or else extended from its meaning of ‘opening’ > ‘division’.
 
 ====Pronunciation====
 {{egy-IPA-R|o=ɾaʀ|m=ɾaʀ|l=ɾaʔ|ref=<ref>{{R:egy:Loprieno|58}}</ref>
@@ -175,34 +175,49 @@ The actual reading of this word is uncertain, as it is always written as an ideo
 ====Noun====
 {{egy-noun|m|type=consonant stem|head=<hiero>r:Z1</hiero>}}
 
-# [[division]], [[opening]]
-# [[mouth]]
+# [[opening]], [[division]]
+# [[mouth]] (of humans or animals)
 #* ''Stela of Hekaib'', Rijksmuseum van Oudheden, [http://www.rmo.nl/collectie/zoeken?object=AP+78 AP 78]:
 #*: {{quote|egy|<hiero>nw:k n:D-s-A1 i-q:r D:d m r:Z1-f</hiero>
 |tr=jnk nḏs jqr ḏd m '''r(ꜣ)'''.f
-|I was an excellent individual; one who spoke with his own '''mouth'''.}}
-# [[entrance]]
+|I was an excellent individual, one who spoke with his own '''mouth'''.}}
+# {{lb|egy|figuratively|chiefly in titles}} [[speaker]], [[mouthpiece]]
 # [[utterance]], [[statement]]
-# [[part]], [[piece]]
-# {{ngd|used as a numerator of 1 in fractions, literally “piece of (the denominator)”.}}
+# {{lb|egy|rare}} [[language]], [[manner]] of [[speech]]
+# [[bodily]] [[orifice]], [[opening]] of the [[human]] [[body]] in general, including [[eye]]s, [[ear]]s, [[nostril]]s, the [[vulva]], and [[open]] [[wound]]s
+# [[entrance]] to a [[building]], [[doorway]]
+# [[entrance]] to a [[land]] or [[place]] in general
+# [[mouth]] of a [[river]]
+# {{topics|egy|Units of measure}} a [[measure]] of [[volume]] equivalent to {{frac|1|32}} of a {{m|egy|hnw}} or {{frac|1|320}} of a {{m|egy|ḥqꜣt}} ([[about]] 15 [[millilitre]]s); [[mouthful]]
+# [[part]], [[piece]], [[fraction]]
+# {{lb|egy|mathematics}} {{ngd|used as a numerator of 1 in fractions, literally “piece of (the denominator)”.}}
 #* '''12th Dynasty''', Siut Tomb I, 285, published in Griffith, Francis Llewellyn, ''The inscriptions of Siûṭ and Dêr Rîfeh'':
 #*: {{quote|egy|<hiero>r:V1*V1*V1-V20*V20*V20:V20*V20*V20</hiero>|tr='''r(ꜣ)''' ḫmtw-št sjsjw|{{frac|1|360}}}}
 
+=====Usage notes=====
+<div>Following Sethe,<ref>Sethe, Kurt (1916) ''Von Zahlen und Zahlworten bei den alten Ägyptern'', page 82–83</ref> it has often been suggested that {{m|egy||r}} should also be taken to mean ‘one third’ as a reading of the sign {{egy-glyph|D150|h=16}} (questionably attested in hieroglyphs proper), extrapolating backward from the dual form {{m|egy|rwj||two thirds}}; however, such a usage remains uncertain, and the reading of the form {{m|egy|ḫmt-rw||three fourths}} argues against the interpretation of {{m|egy||r}} in {{m|egy|rwj}} as specifically meaning a third.</div>
+
 =====Inflection=====
 {{egy-decl-noun|g=m|type=consonant-stem|r}}
+
+In the sense of ‘mouth’ the plural is rare, as the singular is usually used even in reference to the mouths of multiple people.
 
 =====Derived terms=====
 {{der2|egy
 |jꜥw-r
 |jmj-r
 |wpt r
+|m r wꜥ
 |nḏ r
 |r-jb
 |rwj
+|rwj wꜥ
 |rw nw prt m hrw
 |r-pr
 |r n kmt
-|ḫmt-rw}}
+|rḏj r
+|ḫmt-rw
+|tp-r}}
 
 =====Descendants=====
 * {{desc|egx-dem|rꜣ}}
@@ -273,8 +288,9 @@ This usage is distinguished from the preposition by the fact that it occurs as t
 |<hiero>i-r</hiero>|read1=jr}}
 
 ===References===
+* {{R:egy:Wb|2|386.6–388.10, 389.1–392.9}}
+* {{R:egy:Faulkner|145}}
 * {{R:egy:Allen}}
-* {{R:egy:Faulkner}}
 * {{R:egy:Gardiner|p=429}}
 * {{R:egy:Hoch|42}}
 <references/>
