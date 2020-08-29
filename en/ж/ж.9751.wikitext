@@ -21,12 +21,12 @@ Possibly from the [[Glagolitic]] letter [[Ⰶ]]/[[ⰶ]] ([[Image:GlagolitsaZhive
 ==Bashkir==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|ba|/ʐ/|/ʒ/}}
+* {{sense|phoneme}} {{IPA|ba|/ʐ/|/ʒ/}}
 
 ===Letter===
-{{head|ba|letter|sc=Cyrl|upper case|Ж}}
+{{head|ba|letter|lower case||upper case|Ж}}
 
-# ''The tenth letter of the [[Bashkir]] alphabet''
+# {{Cyrl-def|ba|letter|10}}
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
@@ -37,12 +37,12 @@ Possibly from the [[Glagolitic]] letter [[Ⰶ]]/[[ⰶ]] ([[Image:GlagolitsaZhive
 {{kk-regional|ж|ج}}
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|kk|/ʒ/|[dʒ]}}
+* {{sense|phoneme}} {{IPA|kk|/ʒ/|[dʒ]}}
 
 ===Letter===
-{{head|kk|letter|sc=Cyrl|lower case||upper case|Ж}}
+{{head|kk|letter|lower case||upper case|Ж}}
 
-# ''The tenth letter of the [[Kazakh]] [[Cyrillic]] alphabet''
+# {{Cyrl-def|kk|letter|10}}
 
 ===See also===
 * {{list:Cyrillic script letters/kk}}
@@ -60,7 +60,7 @@ Possibly from the [[Glagolitic]] letter [[Ⰶ]]/[[ⰶ]] ([[Image:GlagolitsaZhive
 # {{Cyrl-def|ky|letter|8|же}}
 
 ====Usage notes====
-The phoneme {{IPAchar|/ʒ/}} only appears in Russian loanwords. Most of times it's {{IPAchar|/d͡ʒ/}}.
+The letter '''Ж''' is only pronounced {{IPAchar|/ʒ/}} in Russian loanwords. It is usually pronounced {{IPAchar|/d͡ʒ/}}.
 
 ===See also===
 * {{list:Cyrillic script letters/ky}}
@@ -77,7 +77,7 @@ The phoneme {{IPAchar|/ʒ/}} only appears in Russian loanwords. Most of times it
 ====Letter====
 {{head|ru|letter|lower case||upper case|Ж}} (''italics: Ж, ж'')
 
-# The eighth letter of the Russian [[Cyrillic]] alphabet.
+# {{Cyrl-def|ru|letter|8}}
 
 =====Usage notes=====
 Its name is {{m|ru|же}} and it sounds like the '''s''' in ''plea'''s'''ure''.
@@ -98,9 +98,7 @@ It is preceded by {{m|ru|ё|Ё}} and followed by {{m|ru|з|З}}.
 {{ru-noun||m-in|-}}
 
 # {{lb|ru|grammar}} {{abbreviation of|ru|же́нский род||feminine gender}}
-
-=====Synonyms=====
-* {{l|ru|ж.}}
+#: {{syn|ru|ж.}}
 
 ===Etymology 4===
 
@@ -108,9 +106,7 @@ It is preceded by {{m|ru|ё|Ё}} and followed by {{m|ru|з|З}}.
 {{ru-noun||f-in|-}}
 
 # {{abbreviation of|ru|[[женский|же́нская]] [[убо́рная]]||[[ladies' room]], women's [[toilet]]}}
-
-=====Synonyms=====
-* {{l|ru|Ж}}
+#: {{syn|ru|Ж}}
 
 {{cln|ru|one-letter words}}
 
@@ -122,24 +118,20 @@ It is preceded by {{m|ru|ё|Ё}} and followed by {{m|ru|з|З}}.
 See [[#Translingual|Translingual]].
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|sh|/ʐ/}}
+* {{sense|phoneme}} {{IPA|sh|/ʐ/}}
 
 ====Letter====
 {{head|sh|letter|lower case||upper case|Ж}}
 
-# The 8th letter of the Serbo-Croatian Cyrillic alphabet.
+# {{Cyrl-def|sh|letter|8}}
 
 ====See also====
-* Previous letter: {{l|sh|е|sc=Cyrl}}
-* Next letter: {{l|sh|з|sc=Cyrl}}
+* {{list:Cyrillic script letters/sh}}
 
 ===Etymology 2===
-{{abbreviation of|sh|[[женски#Serbo-Croatian|женски]] [[род#Serbo-Croatian|род]]|sc=Cyrl}}
 
 ====Noun====
 {{head|sh|noun|g=m|Roman spelling|ž}}
 
-# {{lb|sh|grammar}} [[feminine]] [[gender]]
-
-=====Synonyms=====
-* {{l|sh|ж.|sc=Cyrl}}
+# {{lb|sh|grammar}} {{abbreviation of|sh|[[женски#Serbo-Croatian|женски]] [[род#Serbo-Croatian|род]]|t=[[feminine]] [[gender]]}}
+#: {{syn|sh|ж.}}
