@@ -169,17 +169,24 @@ From {{der|ja|ltc|sort=し|-}} {{ltc-l|氏|id=3}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|氏|id=3}}.
+From {{der|ko|ltc|-}} {{ltc-l|氏|id=3}}. {{hanja-hunmong|시〮|si|天倫#상32B}}
 
 ====Hanja====
-{{ko-hanja|각시|씨}}<br>
-{{ko-hanja|성씨|씨}}
+{{ko-hanja-search}}
+{{ko-hanja|[[성씨]]/[[각시]]|씨}}
 
-# {{hanja form of|씨|[[wife]]}}
 # {{hanja form of|씨|[[surname]]}}
+# {{hanja form of|씨|[[Mr.]]; [[Ms.]]}}
 
 ====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|섭씨|攝氏}}
+* {{ko-l|성씨|姓氏}}
+* {{ko-l|모씨|某氏}}
+* {{ko-l|화씨|華氏}}
+* {{ko-l|씨명|氏名}}
 * {{ko-l|씨족|[[clan]]|氏族}}
+{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|-}} {{ltc-l|氏|id=1}}.
@@ -187,10 +194,16 @@ From {{der|ko|ltc|-}} {{ltc-l|氏|id=1}}.
 ====Hanja====
 {{ko-hanja|[[나라]] [[이름]]|지}}
 
-# {{lb|ko|obsolete}} {{hanja form of|지|a [[country]] [[name]]}}
+# {{lb|ko|historical}} {{hanja form of|지|a [[country]] [[name]]}}
 
 ====Compounds====
+{{der-top|Compounds}}
 * {{ko-l|월지|月氏}}
+* {{ko-l|대월지|大月氏}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|5751}}
 
 ----
 
