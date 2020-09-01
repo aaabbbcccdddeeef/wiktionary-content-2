@@ -216,17 +216,21 @@ From {{der|ko|ltc|-}} {{ltc-l|化|id=1}}. {{hanja-hunmong|화〯|hwa|雜語#하0
 ==Vietnamese==
 
 ===Hán Tự===
-{{vi-readings|rs=人00|hanviet=hoá|nom=Huế}}
-===Noun===
-{{vi-noun|sc=Hani}} (''[[Huế]]'')
+{{vi-readings|hanviet=hoá|nom=Huế}}
 
-# Proper noun for the city of [[Huế]]
-#: {{uxi|vi|城庯'''化'''|tr=Thành Phố '''Huế'''|'''Hue''' City}}
+===Etymology 1===
+From {{der|vi|ltc|-}} {{ltc-l|化|id=1}}.
+
+====Pronunciation====
+{{vi-pron|hoá}}
+
+====Noun====
+{{vi-noun|sc=Hani}} (''[[hóa]]'')
+
 # ''short for'' [[化學]] (''hóa học'', chemistry)
 #: {{uxi|vi|門'''化'''|tr= môn '''hóa'''|chemistry (subject)}}
 
-
-===Verb===
+====Verb====
 {{vi-verb|sc=Hani}} (''[[hóa]]'')
 
 # to [[change]]; to [[transform]]
@@ -239,6 +243,17 @@ From {{der|ko|ltc|-}} {{ltc-l|化|id=1}}. {{hanja-hunmong|화〯|hwa|雜語#하0
 
 # [[-ization]], [[-ification]]
 #: {{uxi|vi|漢'''化'''|tr=Hán '''hóa'''|sinic'''ization'''}}
+
+===Etymology 2===
+Likely a {{vi-etym-sino|化||hv=n|hoá|nocap=1}}, as in the historical name {{vi-link|Thuận Hoá||順化}}.
+
+====Pronunciation====
+{{vi-pron|Huế}}
+
+====Noun====
+{{vi-noun|sc=Hani}} (''[[Huế]]'')
+# Proper noun for the city of [[Huế]]
+#: {{uxi|vi|城庯'''化'''|tr=Thành Phố '''Huế'''|'''Hue''' City}}
 
 ====References====
 * [http://nomfoundation.org/common/nom_details.php?codepoint=5316 Nom Foundation]
