@@ -215,10 +215,29 @@ From {{der|ko|ltc|-}} {{ltc-l|化|id=1}}. {{hanja-hunmong|화〯|hwa|雜語#하0
 
 ==Vietnamese==
 
-===Han character===
-{{vi-readings|rs=匕02|reading=[[hoá]], [[huế]], [[hoa]], [[Huế]]}}
+===Hán Tự===
+{{vi-readings|rs=人00|hanviet=hoá|nom=Huế}}
+===Noun===
+{{vi-noun|sc=Hani}} (''[[Huế]]'')
 
-# {{rfdef|vi|sort=匕02}}
+# Proper noun for the city of [[Huế]]
+#: {{uxi|vi|城庯'''化'''|tr=Thành Phố '''Huế'''|'''Hue''' City}}
+# ''short for'' [[化學]] (''hóa học'', chemistry)
+#: {{uxi|vi|門'''化'''|tr= môn '''hóa'''|chemistry (subject)}}
+
+
+===Verb===
+{{vi-verb|sc=Hani}} (''[[hóa]]'')
+
+# to [[change]]; to [[transform]]
+# to [[become]]; to [[turn into]]
+#: {{uxi|vi|'''化'''𥒥|tr= '''hóa''' đá|to become petrified}}
+
+===Suffix===
+{{vi-suffix|sc=Hani}} (''[[hóa]]'')
+
+# [[-ization]], [[-ification]]
+#: {{uxi|vi|漢'''化'''|tr=Hán '''hóa'''|sinic'''ization'''}}
 
 ====References====
 * [http://nomfoundation.org/common/nom_details.php?codepoint=5316 Nom Foundation]
