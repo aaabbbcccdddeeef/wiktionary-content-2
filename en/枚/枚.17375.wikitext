@@ -14,14 +14,18 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{Han compound|木|文|ls=psc|c1=s|c2=p|t1=wood}}. Right component etymologically unrelated to {{zh-l|*攵}}.
-{{rfe|zh|Was the original character 𣐀?}}
+Generally thought to be an {{Han compound|木|攴|ls=ic|t1=tree; wood|t2=hand holding a stick|nocap=1}}.
 
-===Pronunciation===
+However, {{zh-ref|Zhengzhang (2003)}} considers it to be a {{Han compound|木|文|ls=psc|c1=s|c2=p|t1=wood|nocap=1}}, where {{zh-l|*文}} was later corrupted to {{zh-l|*攴}}.
+
+===Etymology 1===
+From {{der|zh|aav}}; compare {{cog|mkh-okm|mek||branch; bough}} ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
 {{zh-pron
 |m=méi
 |c=mui4
-|h=pfs=
+|h=pfs=mòi
 |md=
 |mn=xm,qz,tw:mûi/zz:bôe
 |w=3me
@@ -30,7 +34,7 @@
 |cat=n,cls
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{lb|zh|archaic}} [[stalk]] of [[shrub]]; [[trunk]] of [[tree]]
@@ -39,19 +43,27 @@
 #* {{zh-x|又 如 赴-敵 之 兵，銜-枚 疾-走，不-聞 號令，但聞 人馬 之 行{xíng} 聲。|Or again, like the sound of soldiers going to battle, who march swiftly with their '''gags''' between their teeth, when the captain's voice cannot be heard, but only the tramp of horses and men moving. |CL|ref={{circa2|1059|short=yes}}, {{w|Ouyang Xiu}} ({{w2|zh|歐陽修}}), ''Autumn'' ({{lang|zh|《[[s:zh:秋聲賦|秋聲賦]]》}}). English [[s:More Translations from the Chinese/Autumn|translation]] by {{w|Arthur Waley}} (1919).}}
 # {{lb|zh|obsolete}} small wooden [[rod]]; [[counting rod]]<!--《春秋左傳正義·昭十二年》注疏-->
 #* {{zh-x|南 ^蒯 枚 筮 之，遇 ^坤 ䷁ 之 ^比 ䷇。|Nan Kuai used '''small rods''' in the place of yarrow stalks to divine in a casual manner. He first encountered the sign of ''Kun'' which then gave rise to ''Bi''.|ref=Zuozhuan}}
-# {{lb|zh|dated|or|Hainanese}} {{zh-classifier|generic [[countable]] objects}}<!--Historical usage: ibid., "今人數物云一枚兩枚"-->
-#* {{zh-x|kopi\Kopi 牛奶 飯珍 雞閹　這 枚 就是 海南 經典|Coffee with milk, rice balls and a capon, these are Hainan's classics.|MN-H|ref={{lang|zh|麦英}}, [https://www.youtube.com/watch?v=lfK_bAQQfPU&t=7s {{lang|zh|海南鸡饭}}]}}
+# {{lb|zh|dated}} {{zh-classifier|generic [[countable]] objects}}<!--Historical usage: ibid., "今人數物云一枚兩枚"-->
 ## [[one by one]]; [[each]]
 ##: {{zh-x|枚舉|to enumerate}}
 # {{zh-classifier|[[small]], [[flat]] [[object]]s, such as [[coin]]s, [[stamp]]s, [[badge]]s, [[pearl]]s, [[sporting]] [[medal]]s|cat=y}}
 # {{zh-classifier|[[rocket]]s, [[satellite]]s and certain [[weapon]]s (especially [[bomb]]s)}}
 # {{surname|zh}}
 
-====Synonyms====
-{{zh-dial|個}}
-
-===Compounds===
+====Compounds====
 {{zh-der|不可枚舉|不遑枚舉|不勝枚舉|猜枚|枚枚|枚舉|枚卜|馬工枚速|銜枚|鉗馬銜枚}}
+
+===Etymology 2===
+{{rfe|zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hainanese}} {{zh-classifier|generic [[countable]] objects}}<!--Historical usage: ibid., "今人數物云一枚兩枚"-->
+#* {{zh-x|kopi\Kopi 牛奶 飯珍 雞閹　這 枚 就是 海南 經典|Coffee with milk, rice balls and a capon, these are Hainan's classics.|MN-H|ref={{lang|zh|麦英}}, [https://www.youtube.com/watch?v=lfK_bAQQfPU&t=7s {{lang|zh|海南鸡饭}}]}}
+
+=====Synonyms=====
+{{zh-dial|個}}
 
 ----
 
