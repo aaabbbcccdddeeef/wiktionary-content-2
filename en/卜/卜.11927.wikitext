@@ -67,17 +67,26 @@ May be [[onomatopoeia|onomatopoeic]] in origin. {{rfv-etym|zh}}
 {{ja-kanji|grade=8|rs=卜00}}
 
 ====Readings====
-* {{ja-readings|goon=[[ほく]] (hoku)|kanon=[[ほく]] (hoku)|kanyoon=[[ぼく]] (boku)|kun=[[うらなう]] (uranau), [[うらない]] (uranai)}}
+* {{ja-readings|goon=ほく|kanon=ほく|kanyoon=ぼく|kun=うらな-う, うらない}}
 
-===Noun===
-{{ja-noun|うらない}}
+===Etymology 1===
+{{ja-kanjitab|うらない|yomi=k}}
+{{ja-see|占い}}
 
-# {{alternative form of|ja|占い}}
-
+===Etymology 2===
+{{ja-kanjitab|ぼく|yomi=kanyoon}}
+====Noun====
 {{ja-noun|ぼく}}
 
 # {{lb|ja|archaic|sort=ほく'}} [[fortune-telling]]
+# {{lb|ja|archaic|sort=ほく'}} [[choosing]]
 
+=====Derived terms=====
+* {{ja-r|卜する|ぼくする|tell fortunes}}
+
+===Etymology 3===
+{{ja-kanjitab|うら}}
+====Noun====
 {{ja-noun|うら}}
 
 # {{lb|ja|archaic|sort=うら}} [[fortune-telling]]
