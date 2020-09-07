@@ -446,6 +446,52 @@ A common convention in news headlines, this is almost always written solely in t
 
 ----
 
+==Old Korean==
+
+===Pronunciation===
+Conventionally reconstructed as *-kuy because very early ''[[w:Idu script|Idu]]'' manuals in Han'gul read this character as {{okm-inline|희|-huy}}, which is believed to reflect an ancient reading tradition. Middle Korean intervocalic /h/ is usually [[lenited]] from Old Korean */k/ based on internal and dialectal reconstruction.
+
+Assumed to be a [[logogram]] borrowed from Chinese, as no Chinese reading or native Korean equivalent of 中 whose phonology is even remotely similar to *kuy is known. The Chinese word often bears a locative meaning as well.
+
+===Alternative forms===
+
+* {{m|oko|希|tr=*-huy}} {{q|probably represents lenition of initial *k}}
+
+===Particle===
+{{head|oko|particle|tr=*-kuy, *-huy}}
+
+# [[in]]; [[at]]; [[amid]] {{q|locative case marker, attested in isolation only before the eleventh century}}
+#* {{quote-book|oko|year=c. 690|author={{l|ko|w:ko:득오|得烏|tr=Deugo}}|chapter={{l|ko|w:ko:모죽지랑가|慕竹旨郞歌|tr=Mojukjirang-ga}}|title={{l|ko|w:ko:三國遺事|三國遺事|tr=Samguk Yusa}}|trans-title={{w|Samguk Yusa|Memorabilia of the Three Kingdoms}}|text=蓬次叱巷'''中'''宿尸夜音|t=nights where you will sleep '''in''' a village of mugwort plants|tr=*TAPWOc-s KWULHENG-'''kuy''' CA-lq PAm}}
+#* {{quote-book|oko|year=c. 740|author={{l|ko|w:ko:충담사|忠談師|tr=Chungdamsa}}|chapter={{l|ko|w:ko:찬기파랑가|讚耆婆郞歌|tr=Changiparang-ga}}|title={{l|ko|w:ko:三國遺事|三國遺事|tr=Samguk Yusa}}|trans-title={{w|Samguk Yusa|Memorabilia of the Three Kingdoms}}|text=川理叱磧惡'''希'''|t='''by''' the side of the stream|tr=*NAli-s COPYek-'''huy'''}}
+#* {{quote-book|oko|year=c. 965|author={{l|ko|w:ko:균여|均如|tr=Gyunyeo}}|chapter={{l|ko|w:ko:상수불학가|常隨彿學歌|tr=Sangsubulhak-ga}}|title={{l|ko|w:ko:均如傳|均如傳|tr=Gyunyeo-jeon}}|trans-title={{w|Gyunyeo-jeon|Works of Gyunyeo}}|text=命乙施好尸歲史'''中'''置|t=even '''in''' the age that I cast my life away}}
+
+====Descendants====
+* {{desc|oko|良中|tr=*-akuy}} {{q|compounded with {{m|oko|良|tr=*-a}}}}
+** {{desc|okm|애|tr=-ay}} 
+*** {{desc|ko|에|tr=-e}}
+* {{desc|okm|희|tr=-huy}} {{q|very rare}} 
+
+===See also===
+* {{m|oko|良|tr=*-a}} {{q|locative case marker}}
+* {{m|oko|矣|tr=*-uy}} {{q|locative case marker}}
+* {{m|oko|良中|tr=*-akuy}} {{q|locative case marker predominant after the eleventh century}}
+
+===Notes===
+First-millennium Old Korean also featured the locative particle {{m|oko|良|tr=*-a}}. The two particles were compounded as {{m|oko|良中|tr=*-a-kuy}} as early as the seventh century. The compounded form becomes predominant in the corpus after the eleventh century, after which 中 *-kuy in isolation is rarely encountered (although a likely Middle Korean reflex is attested in Hangul form as late as the fifteenth century). The compounded form eventually fused into a single morpheme, becoming the Middle Korean locative particle {{okm-inline|애|-ay}}.
+
+At some point, perhaps even before widespread compounding, */k/ was [[lenited]] to */h/. Lenition may have begun as early as the eighth century, given the attestation of the 希 form in 讚耆婆郞歌 ''Changiparang-ga'', whose claimed date of composition is 740.
+
+Nam Pung-hyun suggests that {{m|oko|矣|tr=*-uy}}, another apparent locative particle attested in the Old Korean corpus, should be connected to 中 *-kuy. He classifies both as "''uy''-type locatives", in contrast to 良 as an "''a''-type locative", and speculates that the ''uy''-type locatives were reserved for animate beings while 良 could be used indiscriminately.
+
+===References===
+
+* {{cite-journal|author=배대은 (Bae Dae-eun)|title=Idu cheogyeok josa-ui tongsijeok gochal|script-title=ko:이두 처격조사의 통시적 고찰|trans-title=A diachronic study of locative case markers in ''Idu''|journal=Baedalmal|year=1996|volume=21|pages=139–156}}
+* {{cite-journal|author=이승재 (Lee Seung-jae)|title=Chaja pyogi jaryo-ui gyeokjosa yeon'gu|script-title=ko:차자표기 자료의 격조사 연구|trans-title=Study of case markers in the Chinese-based orthography [of Korean]|journal=Gugeo Gukmunhak|year=2000|volume=127|pages=107–132}}
+* Hwang Seon-yeop (2006). "Godae gugeo-ui cheogyeok josa" 고대국어의 처격조사] ["The locative case markers of Old Korean"]. Hanmal Yeon'gu Hakhoe Jeon'guk Haksul Daehoe (conference). Seongnam, South Korea. pp. 35–48.
+* {{cite book|author=Nam Pung-hyun|chapter=Old Korean|pages=41–72|editor-last=Tranter|editor-first=Nicolas|title=The Languages of Japan and Korea|year=2012|publisher=Routledge|isbn=978-0-415-46287-7}}
+
+----
+
 ==Vietnamese==
 
 ===Hán Tự===
