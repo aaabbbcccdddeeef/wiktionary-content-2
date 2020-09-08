@@ -173,31 +173,41 @@ From {{och-l|遭|to meet}} + nominal suffix ''*-t'' ({{zh-ref|Schuessler, 2007}}
 
 ==Korean==
 
-===Etymology===
-; “soldier”
-: From {{der|ko|ltc|-}} {{ltc-l|卒|id=3|soldier}}. {{hanja-hunmong|졸〮|cwol|人類#중02A}}
+===Etymology 1===
+From {{der|ko|ltc|-}} {{ltc-l|卒|id=3|soldier}}. {{hanja-hunmong|졸〮|cwol|人類#중02A}}
 
-; “finish”
-: From {{der|ko|ltc|-}} {{ltc-l|卒|id=1|finish}}.
-
-===Hanja===
+====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|군사|졸}}<br>
-{{ko-hanja|마치다|마칠|졸}}
+{{ko-hanja|군사|졸}}
 
 # {{hanja form of|졸|[[soldier]]}}
-# {{hanja form of|졸|[[finish]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|병졸|兵卒}}
+* {{ko-l|포졸|捕卒}}
+* {{ko-l|졸병|[[lowest]] [[ranking]] [[soldier]]|卒兵}}
+{{der-bottom}}
+
+===Etymology 2===
+From {{der|ko|ltc|-}} {{ltc-l|卒|id=1|finish}}.
+
+====Hanja====
+{{ko-hanja|마치다|마칠|졸}}
+
+# {{hanja form of|졸|[[finish]]}}
+# {{hanja form of|졸|[[pass away]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
 * {{ko-l|졸도|卒倒}}
 * {{ko-l|고졸|高卒}}
-* {{ko-l|포졸|捕卒}}
 * {{ko-l|대졸|大卒}}
 * {{ko-l|중졸|中卒}}
+* {{ko-l|졸년|卒年}}
+* {{ko-l|병졸|病卒}}
 * {{ko-l|졸업|[[graduation]]|卒業}}
-* {{ko-l|졸병|lowest ranking [[soldier]]|卒兵}}
+* {{ko-l|뇌졸중|腦卒中}}
 * {{ko-l|졸업식|卒業式}}
 {{der-bottom}}
 
