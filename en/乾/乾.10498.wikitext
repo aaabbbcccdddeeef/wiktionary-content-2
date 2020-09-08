@@ -175,17 +175,12 @@ From {{der|ja|ltc|sort=けん|-}} {{ltc-l|乾|id=2}}.
 
 ==Korean==
 
-===Etymology===
-; “sky; 1st of the Eight Trigrams; king”
-: From {{der|ko|ltc|-}} {{ltc-l|乾|id=2|sky}}. {{hanja-hunmong|건|ken|天文#상01A}}
+===Etymology 1===
+From {{der|ko|ltc|-}} {{ltc-l|乾|id=2|sky}}. {{hanja-hunmong|건|ken|天文#상01A}}
 
-; “dry; to be dry; superficially”
-: From a [[속음|corrupted or unorthodox reading]]. The [[본음|original reading]] is {{ko-l|간}} based on [[Middle Chinese]] {{ltc-l|乾|id=1|dry}}.
-
-===Hanja===
+====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|하늘|건}}<br>
-{{ko-hanja|마르다|마를|건}}
+{{ko-hanja|하늘|건}}
 
 # {{hanja form of|건|[[sky]]}}
 #: {{syn|ko|天|tr={{m|ko|천}}}}
@@ -193,14 +188,27 @@ From {{der|ja|ltc|sort=けん|-}} {{ltc-l|乾|id=2}}.
 # {{hanja form of|건|{{lang|und|sc=Latinx|☷}} or the [[first]] of the eight [[trigram]]s (''[[bagua]]'') ({{lang|und|sc=Latinx|☰☱☲☳☴☵☶☷}} or {{ko-l|팔괘|八卦|[[w:Bagua|Bagua]]}})}}
 #: {{ant|ko|坤|tr={{m|ko|곤}}}}
 # {{hanja form of|건|[[king]]}}
-# {{q|prefix}} {{hanja form of|건|[[dry]]}}
-#: {{ant|ko|濕|tr={{m|ko|습}}}}: [[wet]]
-# {{hanja form of|건|to be [[dry]]}}
-# {{hanja form of|건|[[in vain]]; for [[nothing]]; [[superficially]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|건곤|乾坤}}
+* {{ko-l|건괘|乾卦}}
+* {{ko-l|건도|乾道}}
+{{der-bottom}}
+
+===Etymology 2===
+From a [[속음|corrupted or unorthodox reading]]. The [[본음|original reading]] is {{ko-l|간}} based on [[Middle Chinese]] {{ltc-l|乾|id=1|dry}}.
+
+====Hanja====
+{{ko-hanja|마르다|마를|건}}
+
+# {{q|prefix}} {{hanja form of|건|[[dry]]}}
+#: {{ant|ko|濕|tr={{m|ko|습}}}}: [[wet]]
+# {{hanja form of|건|[[moistureless]]; [[waterless]]; [[arid]]}}
+# {{hanja form of|건|[[in vain]]; for [[nothing]]; [[superficially]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
 * {{ko-l|건조|乾燥}}
 * {{ko-l|건달|乾達}}
 * {{ko-l|건배|乾杯}}
@@ -212,12 +220,10 @@ From {{der|ja|ltc|sort=けん|-}} {{ltc-l|乾|id=2}}.
 * {{ko-l|건초|乾草}}
 * {{ko-l|건식|乾式}}
 * {{ko-l|건과|乾果}}
-* {{ko-l|건괘|乾卦}}
 * {{ko-l|건기|乾期}}
 * {{ko-l|건목|乾木}}
 * {{ko-l|온건|溫乾}}
 * {{ko-l|건고|乾固}}
-* {{ko-l|건도|乾道}}
 {{der-bottom}}
 
 ===See also===
