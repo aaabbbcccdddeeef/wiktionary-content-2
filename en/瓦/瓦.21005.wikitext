@@ -116,15 +116,15 @@ Possibly derived from {{och-l|化|to transform}} by eliminating causative devoic
 
 {{IPAchar|/kapara/}} → {{IPAchar|/kaɸara/}} → {{IPAchar|/kawara/}}
 
-Probably from {{der|ja|sa|sort=かわら|कपाल||cup, bowl, skull}},<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  possibly via {{ltc-l|迦波羅|id=2,1,1}}.  Along with Buddhism, roof tiles came to Japan in the {{w|Asuka period}}.
+Probably from {{der|ja|sa|sort=かわら|कपाल||cup, bowl, skull}},<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  possibly via {{der|ja|ltc|sort=かわら|-}} {{ltc-l|迦波羅|id=2,1,1}}.  Along with Buddhism, roof tiles came to Japan in the {{w|Asuka period}}.
 
 Cognate with {{m|ja|骨}}, {{m|ja|䯊|tr=kawara||a bone, particularly a covering bone such as a skull or kneecap}}.
 
 Folk etymologies include:
-* from {{m|ja|変わる|変わら|tr=kawara}}, the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|変わる|tr=kawaru||to change}}, from the idea that tiles were produced by changing the clay into pottery through [[firing]]
+* From {{m|ja|変わる|変わら|tr=kawara}}, the {{m|ja|未然形|tr=mizenkei||incomplete form}} of verb {{m|ja|変わる|tr=kawaru||to change}}, from the idea that tiles were produced by changing the clay into pottery through [[firing]]
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かわら|acc=0|acc_ref=DJR}}
+{{ja-pron|かわら|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|かわら|hhira=かはら}}
@@ -132,12 +132,14 @@ Folk etymologies include:
 # [[roof tile]]
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=irr|グラム}}
+
 Abbreviation of transliterated {{ja-ateji|sort=くらむ'}} spelling {{ja-r|瓦%蘭%姆|グ%ラ%ム}}, attested in the {{w|Meiji period}}.  The term {{ja-r|グラム}} itself was borrowed from either {{bor|ja|en|gram}} or {{bor|ja|fr|gramme}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 Once considered a {{m|ja|国字|tr=kokuji||national character|pos=a kanji coined in Japan}}, another example being {{ja-r|瓲|トン|[[ton]], [[tonne]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=irr|グラム|acc=1|acc_ref=DJR}}
+{{ja-pron|グラム|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|グラム}}
@@ -146,7 +148,7 @@ Once considered a {{m|ja|国字|tr=kokuji||national character|pos=a kanji coined
 
 ====Derived terms====
 {{der-top|Terms derived from グラム}}
-*{{ja-r|瓲|ミリグラム|[[milligram]], [[milligramme]]}}
+*{{ja-r|瓱|ミリグラム|[[milligram]], [[milligramme]]}}
 *{{ja-r|甅|センチグラム|[[centigram]], [[centigramme]]}}
 *{{ja-r|瓰|デシグラム|[[decigram]], [[decigramme]]}}
 *{{ja-r|瓧|デカグラム|[[decagram]], [[decagramme]]}}
@@ -156,10 +158,11 @@ Once considered a {{m|ja|国字|tr=kokuji||national character|pos=a kanji coined
 
 ===Etymology 3===
 {{ja-kanjitab|が|yomi=kanon}}
+
 From {{der|ja|ltc|sort=か'|-}} {{ltc-l|瓦}}.
 
 ====Pronunciation====
-{{ja-pron|が|y=kanon}}
+{{ja-pron|が}}
 
 ====Affix====
 {{ja-pos|affix|が|hhira=ぐわ}}
