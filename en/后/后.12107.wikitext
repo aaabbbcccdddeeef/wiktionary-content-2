@@ -63,51 +63,93 @@ From {{inh|zh|sit-pro|*m/s-gaw||head}}. Cognate with {{cog|bo|གོ||head; head
 ===Kanji===
 {{ja-kanji|grade=6|rs=口03}}
 
-# [[empress]], [[queen]]
-
 ====Readings====
 {{ja-readings
 |goon=ぐ
 |kanon=こう
 |kanyoon=ご, ごう
-|kun=きさき-, きさい-
+|kun=きさき-
 }}
 
+====Compounds====
+* {{ja-r|皇%后|こう%ぐう}}
+* {{ja-r|大后|コニオルク}}
+
 ===Etymology 1===
-{{ja-kanjitab|yomi=k|きさき}}
-{{unk|ja|sort=きさき}}. Possibly originally a contraction of {{m|ja|[[君]][[幸]]|tr=kimi saki|lit=lordly good fortune}}.
+{{ja-kanjitab|yomi=kanon|こう}}
+
+From {{der|ja|ltc|sort=こう|-}} {{ltc-l|后}}.
+
+====Affix====
+{{ja-pos|affix|こう}}
+
+# [[monarch]], [[ruler]], [[sovereign#Noun|sovereign]]
+# [[empress]], [[queen]], or other [[female]] monarch
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|后%稷|こう%しょく}}
+* {{ja-r|后%妃|こう%ひ}}
+* {{ja-r|王%后|おう%こう}}
+* {{ja-r|皇%后|こう%ごう}}
+* {{ja-r|皇%太%后|こう%たい%ごう}}
+* {{ja-r|三%后|さん%ごう}}
+* {{ja-r|准%后|じゅ%ごう}}
+* {{ja-r|太%后|たい%こう}}
+* {{ja-r|母%后|ぼ%こう}}
+* {{ja-r|立%后|りっ%こう}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|きさき|alt=妃}}
+Derivation {{unk|ja|nocap=1|sort=きさき}}.
+
+Possibly originally a contraction of {{m|ja|[[君]][[幸]]|tr=kimi saki|lit=[[lordly]] [[good]] [[fortune]]}}. {{rfv-etym|ja}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|きさき|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|妃}}, {{ja-l|後宮}}
+{{ja-pron|きさき|acc=2|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|きさき}}
 
-# [[queen]], [[empress]]
+# an [[empress]]
+#: {{syn|ja|皇后|tr=kōgō}}
+# any other [[wife]] of a [[male]] [[aristocrat]], such as a [[queen]]
 
-=====Synonyms=====
-* {{sense|queen}} {{ja-r|女王|じょ.おう}}, {{ja-r|王妃|おうひ}}
-* {{sense|empress}} {{ja-r|皇后|こうごう}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|后がね|きさきがね}}
+* {{ja-r|后の宮|きさき の みや}}
+* {{ja-r|后%腹|きさき%ばら}}
+* {{ja-r|大%后|おお%きさき}}
+* {{ja-r|母%后|はは%きさき}}
+{{der-bottom}}
 
-===Etymology 2===
-{{ja-kanjitab|yomi=k|きさい}}
-{{IPAchar|/kisaki/}} → {{IPAchar|/kisai/}}
+===Etymology 3===
+{{ja-kanjitab|yomi=i|きさい|alt=皇后}}
+{{IPAchar|/kisaki/}} → {{IPAchar|/kisaĩ/}} → {{IPAchar|/kisai/}}
 
-Sound shift from ''kisaki'' above. Appears to be less common in isolation than the ''kisaki'' reading above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+Sound shift from ''kisaki'' above.
 
-====Pronunciation====
-{{ja-pron|yomi=k|きさい}}
-
-====Alternative forms====
-* {{ja-l|皇后}}
+Appears to be less common in isolation than the ''kisaki'' reading above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Noun====
 {{ja-noun|きさい}}
 
-# [[queen]], [[empress]]
+# {{lb|ja|uncommon|archaic}} {{n-g|Same as {{m|ja||きさき|tr=kisaki}} above}}
+#* {{RQ:Genji|47}}
+#*: {{ja-usex
+|「もし、世の中%移りて、帝・'''后'''の、思しおきつるままにも、おはしまさば...」
+|「もし、よのなか% うつりて、みかど・'''きさい'''の、おぼし-おきつる まま にも、おはしまさば...」|rom=“Moshi, yononaka utsurite, mikado, '''kisai''' no, oboshi-okitsuru mama ni mo, owashimasaba...”}}
+
+=====Derived terms=====
+* {{ja-r|后の宮|きさい の みや}}
+* {{ja-r|后%腹|きさい%ばら}}
+* {{ja-r|大%后|おお%きさい}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=kanyo|ご}}
+{{ja-see-kango|後}}
 
 ===References===
 <references/>
