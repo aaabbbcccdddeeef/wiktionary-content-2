@@ -29,13 +29,23 @@ A placeholder for a missing Chinese character. Used to express a zero digit in a
 ===Alternative forms===
 * {{ja-l|零}}
 
-===Numeral===
-{{ja-pos|numeral|ゼロ|れい}}
+===Symbol===
+{{head|ja|symbol}}
 
-# [[zero]]
-#: {{ux|ja|二〇〇七年七月二三日|2007 July 23}}
+# {{non-gloss definition|Used to write [[zero]] in [[kanji]] [[positional notation]].}}
+#: {{ja-x|二〇〇%七%年%七%月%二三%日|にせん%しち% ねん% しち%がつ% にじゅうさん%にち|2007 July 23}}
+# {{non-gloss definition|Placeholder for a [[kanji]] or [[kana]].}}
+## {{non-gloss definition|Used to indicate a space to be filled in.}}
+##: {{ux|ja|〇〇が好き|tr=______ ga suki|to like ______}}
+## {{non-gloss definition|Used to [[censor#Verb|censor]] words.}}
+##: {{ux|ja|セッ〇ス|tr=sekkusu|s*x (sex)}}
+##: {{ux|ja|創〇〇会|tr=Sōka Gakkai|S*k* Gak*i ({{w|Soka Gakkai}})}}
 
 ====Usage notes====
-* Not formal, but used to write decimal numbers in positional notation.
+* As placeholders, sometimes read as {{ja-r|丸|まる}} or {{ja-r|何|なに}}.
+
+===Noun===
+{{ja-noun|まる}}
+{{ja-see|丸}}
 
 {{cln|ja|numeral symbols|sort=0}}
