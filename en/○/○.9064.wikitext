@@ -63,12 +63,17 @@ A generic [[circle]] shape.
 * {{l|ja|○×}}
 
 ===Symbol===
-{{ja-pos|symbol|まる}}
+{{ja-pos|symbol|まる|なに}}
 
-# {{non-gloss definition|a symbol used to censor or obscure part of a term}}
-#: {{ux|ja|Micr○soft|Micr*soft}}
-#: {{ja-usex|ち○ぽ|d**k|rom=chi*po}}
-#* {{quote-book
+# {{non-gloss definition|Placeholder for a [[kanji]] or [[kana]].}}
+## {{non-gloss definition|Used to indicate a space to be filled in.}}
+##: {{ux|ja|○○が好き|tr=______ ga suki|to like ______}}
+## {{non-gloss definition|Used to censor or obscure individual characters.}}
+##: {{ux|ja|セッ○ス|tr=sekkusu|s*x (sex)}}
+##: {{ux|ja|創○○会|tr=Sōka Gakkai|S*k* Gak*i ({{w|Soka Gakkai}})}}
+##: {{ux|ja|Micr○soft|Micr*soft}}
+##: {{ja-usex|ち○ぽ|d**k|rom=chi*po}}
+##* {{quote-book
 |ja
 |year=2004
 |author=榎本年弥
