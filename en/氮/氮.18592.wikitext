@@ -15,7 +15,7 @@
 {{zh-wp}}
 
 ===Glyph origin===
-{{Han compound|气|淡|ls=psc|ls2=ic|c1=s|c2=p|t1=gas|t2=dilute|abb2=y|no_och2=1}}.
+{{Han compound|气|淡|ls=psc|ls2=ic|c1=s|c2=p|t1=gas|t2=dilute|abb2=y|tr2=dàn}}.
 
 ===Etymology===
 From {{zh-l|淡|dilute}} in {{zh-l|淡氣}} {{defdate|19th c.}}, referring to nitrogen diluting oxygen in the air.
@@ -37,13 +37,15 @@ From {{zh-l|淡|dilute}} in {{zh-l|淡氣}} {{defdate|19th c.}}, referring to ni
 ===Definitions===
 {{zh-hanzi}}
 
-# [[nitrogen]]<!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->
+# {{lb|zh|chemical element}} [[nitrogen]]<!-- unicode.org, jisho.org, and weblio.jp are all wrong, this is nitrogen, *not* xenon. -->
+#: {{zh-syn|窒素|q=rare}}
+# [[nitrogen]] [[gas]]
 
-====Synonyms====
-* {{q|rare|chiefly Taiwanese Min Nan}} {{zh-l|窒素}}
-
-====Compounds====
+===Compounds===
 {{zh-der|氮肥|氮氣|液氮|固氮菌|固氮作用|氮循環|氮化法|氮化物|氮環|氮血症|氮平衡}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 {{zh-cat|Chemical elements}}
 
