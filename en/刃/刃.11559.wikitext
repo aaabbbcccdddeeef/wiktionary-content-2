@@ -58,38 +58,22 @@ Note the compositional differences between traditional, simplified, and Japanese
 ===Kanji===
 {{ja-kanji|grade=c|rs=刀01}}
 
-# [[blade]], [[edge]]
-# [[bladed]] [[object]] {{gl|[[knife]], [[sword]], etc.}}
-# [[kill]] with a bladed object, [[put to the sword]]
-
 ====Readings====
 {{ja-readings
 |goon=にん
 |kanon=じん
-|kun=は-, やいば-, な-, き-る
+|kun=は-, やいば-
 |nanori=ち, と
 }}
 
 ====Compounds====
-{{der-top3|Compounds}}
 * {{ja-r|刃%傷|にん%じょう}}
-* {{ja-r|凶%刃|きょう%じん|rom=-}}, {{ja-r|兇%刃|きょう%じん}}
-* {{ja-r|自%刃|じ%じん}}
-* {{ja-r|刀%刃|とう%じん}}
-* {{ja-r|毒%刃|どく%じん}}
-* {{ja-r|白%刃|はく%じん}}
-* {{ja-r|氷%刃|ひょう%じん}}
-* {{ja-r|兵%刃|へい%じん}}
-* {{ja-r|防%刃|ぼう%じん}}
-* {{ja-r|利%刃|り%じん}}
-{{der-bottom}}
 
 ===Alternative forms===
 {{ja-kanjitab|yomi=k|は}}
 {{wp|lang=ja}}
 {{wp|Blade}}
-
-* {{ja-l|刄}}
+* {{q|{{ll|ja|俗字|zokuji}}}} {{ja-l|刄}}
 
 ===Etymology 1===
 {{IPAchar|/pa/}} → {{IPAchar|/ɸa/}} → {{IPAchar|/ha/}}
@@ -99,42 +83,47 @@ From {{inh|ja|ojp|sort=は|-}}.
 Cognate with {{m|ja|歯|tr=ha||[[tooth]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/> Possibly also related to {{m|ja|葉|tr=ha||[[leaf]]}}. Compare {{cog|en|blade}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR}}
+{{ja-pron|は|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|は}}
 
-# an [[edge]], [[blade]]
+# {{n-g|any [[sharp]] and [[thin]] [[cutting#Adjective|cutting]] [[implement#Noun|implement]]:}} a [[blade]], [[edge]]
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
+* {{ja-r|鋼|はがね}}
 * {{ja-r|刃%毀れ|は%こぼれ}}
 * {{ja-r|刃向かう|はむかう}}
 * {{ja-r|刃%物|は%もの}}
+* {{ja-r|刃%文|は%もん}}
 * {{ja-r|刃%渡り|は%わたり}}
-* {{ja-r|替%刃|かえ%ば|rom=-}}, {{ja-r|替え刃|かえば}}
+* {{ja-r|替え刃|かえば}}
 * {{ja-r|片%刃|かた%ば}}, {{ja-r|片%刃|かた%は}}
+* {{ja-r|切刃|きっぱ}}
 * {{ja-r|白%刃|しら%は}}
 * {{ja-r|直%刃|すぐ%は}}
 * {{ja-r|円%刃|まる%ば|rom=-}}, {{ja-r|丸%刃|まる%ば}}
 * {{ja-r|乱れ刃|みだれば}}
 * {{ja-r|両%刃|もろ%は}}
 * {{ja-r|諸%刃|もろ%は|rom=-}}, {{ja-r|双%刃|もろ%は}}
-* {{ja-r|焼%刃|やき%ば|rom=-}}, {{ja-r|焼き刃|やきば}}
-** {{ja-r|刃|やいば|[[sword]], [[blade]]|pos=see above}}
+* {{ja-r|焼き刃|やきば}} → {{ja-r|刃|やいば}}
 * {{ja-r|両%刃|りょう%ば}}
 {{der-bottom}}
 
+=====Idioms=====
+* {{ja-r|剣の刃を渡る|つるぎ の は を わたる}}
+
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|やいば}}
-{{IPAchar|/jaki pa/}} → {{IPAchar|/jakiba/}} → {{IPAchar|/jaĩba/}} → {{IPAchar|/jaiba/}}
+{{IPAchar|/jaki ɸa/}} → {{IPAchar|/jakiba/}} → {{IPAchar|/jaĩba/}} → {{IPAchar|/jaiba/}}
 
 Shift from {{m|ja|焼き刃|tr=yakiba}}, a compound of {{com|ja|sort=やいば|焼き|tr1=yaki|t1=[[burn]]ed, [[fire]]d|刃|tr2=ha|t2=[[edge]], [[blade]]|pos2=see above}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/> {{rendaku2|sort=やいば|ha|ba}}
 
 First attested in the ''{{w|Taiheiki}}'' of the late 1300s.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|やいば|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+{{ja-pron|やいば|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|やいば}}
@@ -146,54 +135,59 @@ First attested in the ''{{w|Taiheiki}}'' of the late 1300s.<ref name="KDJ"/>
 # someone or something [[powerful]]
 
 =====Derived terms=====
-{{top2}}
+{{der-top3}}
+* {{ja-r|刃の験%者|やいば の げん%じゃ}}
 * {{ja-r|氷の刃|こおり の やいば}}
 * {{ja-r|心の刃|こころ の やいば}}
-* {{ja-r|邪見の刃|じゃけん の やいば}}
-* {{ja-r|情けに刃向かう刃なし|なさけ に はむかう やいば なし}}
-{{bottom}}
+* {{ja-r|邪%見の刃|じゃ%けん の やいば}}
+* {{ja-r|情けに刃%向かう刃なし|なさけ に は% むかう やいば なし}}
+{{der-bottom}}
 
 =====Idioms=====
+* {{ja-r|笑%中に刃を研ぐ|しょう%ちゅう に やいば を とぐ}}
 * {{ja-r|刃に掛かる|やいば に かかる}}
+* {{ja-r|刃に血%塗らず|やいば に ち% ぬらず}}
 * {{ja-r|刃に伏す|やいば に ふす}}
-* {{ja-r|刃は切れるが重宝|やいば は きれる が ちょうほう}}: “for a blade, cutting [sharpness] is precious” → the highest value of a tool is its ability to do what it is designed for
+
+=====Proverbs=====
+* {{ja-r|刃は切れるが重宝|やいば は きれる が ちょうほう|pos=“for a blade, cutting [sharpness] is precious” → the highest value of a tool is its ability to do what it is designed for}}
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=i|な}}
-
-From {{inh|ja|ojp|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Possibly [[cognate]] with {{cog|ko|날||[[blade]]}}.
-
-Obsolete in modern Japanese. Only found as an element in compounds.
-
-====Pronunciation====
-{{ja-pron|yomi=k|な}}
-
-====Noun====
-{{ja-noun|な}}
-
-# {{lb|ja|sort=な|obsolete}} a [[blade]], [[edge]]
-#* {{RQ:Man'yōshū|4|616}},<ref>{{R:Man'yōshū 1}}</ref> text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#616 here]
-#*: {{ja-usex|m=劔%大刀 '''名'''惜雲 吾%者%無 君%尓%不相%而 年%之経去礼者|m_kana=つるぎ%たち '''なの'''をしけく も われ%は%なし きみ%に%あはず%て とし%のへぬれば|[[剣%太刀]]'''名'''の惜しけくも我れはなし君に逢はずて年の経ぬれば|つるぎ%たち '''な''' の をしけく も われ は なし きみ に あはずて とし の へぬれば|rom=tsurugitachi '''na''' no oshikeku mo ware wa nashi kimi ni awazute toshi no henureba|I do not even miss precious '''you''', given the years that have passed without meeting with you.}}
-#*:: [Note: ''tsurugi tachi'' (“[[sword]]”) is a [[w:Makurakotoba|pillow word]] establishing a poetic association with the following ''na'', literally meaning {{m|en|blade}} or {{m|en|edge}} and alluding to sharpness and importance. This ''na'' could also elliptically mean {{m|en|name}} ({{ja-l|名}} ''na'') or even {{m|en|you}} ({{ja-l|汝}} ''na''), depending on context, based on the homophonic readings.]
-
-=====Derived terms=====
-* {{ja-r|刀|かたな}}
-
-===Etymology 4===
 {{ja-kanjitab|yomi=kanon|じん}}
 From {{der|ja|ltc|sort=じん|-}} {{ltc-l|刃}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|じん|acc=1|acc_ref=DJR}}
+{{ja-pron|じん|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|じん}}
 
-# a [[blade]], a [[sword]]
+# a [[blade]], [[edge]]
 
 =====Idioms=====
 * {{ja-r|刃に伏す|じん に ふす}}
-* {{ja-r|刃を迎えて解く|じん を むかえて とく}}: “to fall before the blade” → a [[metaphor]] for [[extreme]] [[strength]] or [[power]]
+* {{ja-r|刃を迎えて解く|じん を むかえて とく|pos=“to fall before the blade” → a [[metaphor]] for [[extreme]] [[strength]] or [[power]]}}
+
+====Affix====
+{{ja-pos|affix|じん}}
+
+# [[blade]], [[edge]]
+# [[bladed]] [[object]] {{gl|[[knife]], [[sword]], etc.}}
+# [[kill]] with a bladed object, [[put to the sword]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|刃%文|じん%もん}}
+* {{ja-r|凶%刃|きょう%じん|rom=-}}, {{ja-r|兇%刃|きょう%じん}}
+* {{ja-r|自%刃|じ%じん}}
+* {{ja-r|刀%刃|とう%じん}}
+* {{ja-r|毒%刃|どく%じん}}
+* {{ja-r|白%刃|はく%じん}}
+* {{ja-r|氷%刃|ひょう%じん}}
+* {{ja-r|兵%刃|へい%じん}}
+* {{ja-r|防%刃|ぼう%じん}}
+* {{ja-r|利%刃|り%じん}}
+{{der-bottom}}
 
 ===References===
 <references/>
@@ -206,6 +200,42 @@ From {{der|ja|ltc|sort=じん|-}} {{ltc-l|刃}}.
 {{ko-hanja|인}}
 
 # {{rfdef|ko|sort=刀01}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+Cognate with {{m|ojp|歯|tr=pa||[[tooth]]}}, and possibly {{m|ojp|葉|tr=pa||[[leaf]]}}.
+
+Compare {{cog|en|blade}}.
+
+====Noun====
+{{head|ojp|noun|tr=pa|kana|は|sort=は}}
+
+# {{n-g|any [[sharp]] and [[thin]] [[cutting#Adjective|cutting]] [[implement#Noun|implement]]:}} a [[blade]], [[edge]]
+
+=====Descendants=====
+* {{desc|ja|刃|tr=ha, yaiba}}
+
+===Etymology 2===
+{{rfv|ojp|Cannot find {{m|ojp|刃|tr=na}} entry in a dictionary. The only references are from the [[pillow word]] {{m|ja|劔太刀|tr=tsurugi-tachi}} and modern/derived {{m|ja|刀|tr=katana}}.}}
+
+Possibly [[cognate]] with modern {{cog|ko|날||[[blade]]}}.
+
+====Noun====
+{{head|ojp|noun|tr=na|kana|な}}
+
+# {{n-g|any [[sharp]] and [[thin]] [[cutting#Adjective|cutting]] [[implement#Noun|implement]]:}} a [[blade]], [[edge]]
+#* {{RQ:Man'yōshū|4|616}},<ref>{{R:Man'yōshū 1}}</ref> text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#616 here]
+#*: {{ux|ojp|[[劔太刀|劔大刀]]'''名'''惜雲吾&#64091;無君爾不相而年之經去禮&#64091;|tr=turugi<sub>1</sub>-tati '''na''' no<sub>2</sub> wosike<sub>1</sub>ku mo ware pa nasi ki<sub>1</sub>mi<sub>1</sub> ni apazute to<sub>2</sub>si no<sub>2</sub> pe<sub>2</sub>nureba|I do not even miss precious '''you''', given the years that have passed without meeting with you.}}
+#*:: ['''Note:''' ''turugi<sub>1</sub>-tati'' (literally “[[double-edged]] [[longsword]]”) is a [[pillow word]] establishing a poetic association with the following ''na'', literally meaning {{m|en|blade}} or {{m|en|edge}} and alluding to sharpness and importance. This ''na'' could also elliptically mean {{m|ojp|名|tr=na||[[name#Noun|name]]}}  or even {{m|ojp|汝|tr=na||[[you]]}} depending on context, based on the homophonic readings.]
+
+=====Descendants=====
+* {{desc|ja|刀|tr=katana}}
+
+===References===
+<references/>
 
 ----
 
