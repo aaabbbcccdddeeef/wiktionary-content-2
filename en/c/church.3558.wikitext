@@ -1,84 +1,574 @@
+{{also|Church}}
 ==English==
-===Etymology===
-Greek ''κυριακον (δομα)''
-===Noun===
-'''church''' (plural '''[[church]]es''')
 
-#A house of [[worship]]; a building where religious services take place.
-#A religious organization, local or general
-#: ''the Anglican Church'', the ''Roman Catholic Church''
-#: ''The church across the street has a service at 10 am.''
-#A time of public worship; a worship service
-#:''I'll be there after church''.
+===Alternative forms===
+* {{alter|en|churche|chirche}} {{qualifier|obsolete}}
+
+===Etymology===
+From {{inh|en|enm|chirche}}, from {{inh|en|ang|ċiriċe||church}}, from {{inh|en|gmw-pro|*kirikā}}, an early borrowing of {{der|en|grc|κυριακόν}}, neuter form of {{m|grc|κυριακός||belonging to the lord}}, from {{m|grc|κύριος||ruler, lord}}, from {{der|en|ine-pro|*ḱewH-||to swell, spread out, be strong, prevail}}.{{rel-top|additional etymological information}} For vowel evolution, see {{m|en|bury}}. {{m+|grc|κυριακόν}} was used of houses of Christian worship since circa 300 {{CE}}, especially in the East, though it was less common in this sense than {{m|grc|ἐκκλησία||congregation}} or {{m|grc|βασιλική||royal thing}}. An example of the direct Greek-to-Germanic progress of many Christian words, possibly via the {{w|Goths}}; it was probably used by West Germanic people in their pre-Christian period. Cognate with {{cog|sco|kirk||church}}, {{cog|fy|tsjerke||church}}, {{cog|stq|Säärke||church}}, {{cog|nl|kerk||church}}, {{cog|de|Kirche||church}}, {{cog|da|kirke||church}}, {{cog|sv|kyrka||church}}, {{cog|nb|kirke}}, {{cog|nn|kyrkje||church}}, and {{cog|is|kirkja||church}}. Also picked up by [[Slavic]], via {{cog|goh|chirihha}} (compare {{cog|cu|црькꙑ}}, {{cog|bg|църква}}, {{cog|ru|це́рковь}}). [[w:Romance languages|Romance]] and [[w:Celtic languages|Celtic]] languages use descendants of Latin {{m|la|ecclēsia}}.
+{{rel-bottom}}
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/t͡ʃɜːt͡ʃ/}}
+* {{audio|en|En-uk-church.ogg|Audio (UK)}}
+* {{a|GenAm}} {{IPA|en|/t͡ʃɝt͡ʃ/}}
+* {{audio|en|en-us-church.ogg|Audio (US)}}
+* {{rhymes|en|ɜː(ɹ)tʃ}}
+
+===Noun===
+[[Image:St Mary's Catherdral, Perth.JPG|thumb|right|A church, with many architectural features traditional to such a structure.]]
+{{en-noun|~|es}}
+
+# {{lb|en|countable}} A [[Christian]] [[house of worship]]; a building where Christian [[religious]] [[service]]s take place. {{defdate|from 9th c.}}
+#: ''There is a lovely little '''church''' in the valley.''
+#: ''This building used to be a '''church''' before being converted into a library.''
+#* {{quote-book|en|title=Bucky and Friends|page=117|author=John R. Dodd|year=2007|passage=He got the message and was in '''church''' the next Sunday. We need to stay in church with the fellowship of others in order to keep the fire of faith burning brightly.}}
+# [[Christian]]s collectively seen as a single spiritual [[community]]; [[Christianity]]. {{defdate|from 9th c.}}
+#: ''These worshippers make up the '''Church''' of Christ.''
+#* [[Acts]] 20:28, New International Version:
+#*: Be shepherds of the '''church''' of God, which he bought with his own blood.
+# {{lb|en|countable}} A local group of people who follow the same Christian religious beliefs, local or general. {{defdate|from 9th c.}}
+#* {{quote-book|en|title=The Ultimate Church Sound Operator's Handbook|page=78|author=Bill Gibson|year=2007|passage=Many young people find their only role models of family life in '''church'''.}}
+#* {{quote-book|en|title=Bucky and Friends|page=117|author=John R. Dodd|year=2007|passage=He got the message and was in church the next Sunday. We need to stay in '''church''' with the fellowship of others in order to keep the fire of faith burning brightly.}}
+#* {{quote-book|en|title=Enhancing understanding the church through preaching on ...|page=61|author=Yil Gyoung Kang|year=2008|passage=As they actively get involved in ministry, lay ministry becomes vigorous, and new believers will settle in '''church''' with more ease.}}
+#* {{quote-book|en|title=Souls in Transition|page=194|author=Christian Smith|coauthors=Patricia Snell|year=2009|passage=she had very many adults in '''church''' with whom she could talk about issues in life.}}
+# {{lb|en|countable}} A particular [[denomination]] of [[Christianity]]. {{defdate|from 9th c.}}
+#: ''The '''Church''' of England separated from the Roman Catholic '''Church''' in 1534.''
+# {{lb|en|uncountable|countable|as bare noun}} Christian [[worship]] held at a church; [[service]]. {{defdate|from 10th c.}}
+#* {{quote-book|en|title=Redeeming the South: Religious Cultures and Racial Identities ...|page=119|author=Paul Harvey|year=1997|passage=Pastors complained that they were not allowed enough authority in '''church''', with women exercising too much informal control.}}
+#* {{quote-book|en|title=Disturbing Questions...: Solid Answers|page=174|author=Lee Roberson|year=2000|passage=Some people are always saying, "Oh, you have too much '''church'''." You never get too much '''church'''. I go to '''church''' every day.}}
+#* {{quote-book|en|title=On a Journey with God: You Come Too|page=53|author=George Shillington|year=2003|passage=the learned women will be qualified to lead '''in church''' with equal grace and equal insight and equal gifts.}}
+# {{label|en|uncountable}} [[organized religion|Organized religion]] in general or a specific [[religion]] considered as a [[political]] [[institution]].
+#: {{usex|en|Many constitutions enshrine the separation of '''church''' and state.}}
+#* {{quote-book|en|year=1903|author={{w|Duncan Black MacDonald}}|title=Development of Muslim Theology, Jurisprudence and Constitutional Theory|page=4|text=But in Muslim countries, '''Church''' and State are one indissolubly, and until the very essence of Islam passes away, that unity cannot be relaxed. The law of the land, too, is, in theory, the law of the '''Church'''.}}
+#* {{quote-book|en|year=1991|author=Cyril E. Black et al.|title=The Modernization of Inner Asia|url=https://books.google.co.uk/books?id=FoIE4laY7JcC&lpg=PP1&pg=PA15#v=onepage&q=%22Because%20the%20pan-Buddhist%20movement%20was%20heavily%20supported%20by%20the%20Japanese%22&f=false|page=15|text=Because the pan-Buddhist movement was heavily supported by the Japanese in Inner Mongolia, the Buddhist '''church''', already under attack by Soviet-backed antireligion campaigns in Outer Mongolia, was further damaged {{...}}}}
+#* {{quote-book|en|year=2001|author=Ayelet Shachar|title=Multicultural Jurisdictions: Cultural Differences and Women's Rights|page=72|url=https://books.google.co.uk/books?id=E87C6qTgHscC&lpg=PA72&pg=PA72#v=onepage&q=%22The%20secular%20absolutist%20model%20is%20based%20on%20a%20strict%20separation%20between%22&f=false|text=The secular absolutist model is based on a strict separation between '''church''' and state.}}
+# {{label|en|informal}} Any religious group. {{defdate|from 16th c.}}
+#* {{quote-text|en|year=2007|author=Scott A. Merriman|title=Religion and the Law in America|page=313|url=http://books.google.co.uk/books?id=l_8VFygyaDYC&pg=PA312&dq=|passage=Among these, the '''church''' must investigate fundemental questions, {{...}}}}
+#: ''She goes to a Wiccan '''church''' down the road.''
+# {{label|en|obsolete}} [[assembly|Assembly]].
+
+====Usage notes====
+* Several senses of ''church'' are routinely used in prepositional phrases as a [[bare noun]], without a [[determiner]] or [[article]]. This is like {{m|en|home}} and unlike {{m|en|house}}.
+* {{sense|organized religion}} Often capitalized as "(the) Church" without referring to a specific formal institution with that title.
 
 ====Synonyms====
-*[[abbey]]
-*[[basilica]]
-*[[cathedral]]
-*[[chapel]]
-*[[mission]]
-*[[mosque]]
-*[[priory]]
-*[[synagogue]]
-*[[temple]]
+* {{sense|building}} {{l|en|chapel}} {{qualifier|small church}}, [[kirk]] {{qualifier|Scotland}}
+* {{sense|group of worshipers}} {{l|en|congregation}}
 
-====Related Terms====
-*[[Church of England]]
-*[[Church of Rome]]
-*[[churchmouse]]
-*[[churchy]]
-*[[church-going]]
+====Hypernyms====
+* {{sense|religious group}} {{l|en|religion}}
+* {{sense|house of worship}} {{l|en|building}}
 
+====Coordinate terms====
+* {{l|en|mosque}}, {{l|en|synagogue}}, {{l|en|temple}}, {{l|en|gurdwara}}, {{l|en|hof}}, {{l|en|fire temple}}, {{l|en|circle}}, {{l|en|mandir}}, {{l|en|jinja}}, {{l|en|House of Worship}}, {{l|en|monastery}}, {{l|en|heiau}}
+
+====Hyponyms====
+{{col4|en|title=Proper noun hyponyms of ''church''
+|Anglican Church
+|Byzantine Church
+|Catholic Church
+|Christian Church
+|Church of England
+|Church of Rome
+|Church of Scotland
+|Church of the East
+|Church Slavonic
+|Congregational church
+|Eastern Church
+|Eastern Orthodox Church
+|Greek Church
+|Greek Catholic Church
+|Greek Orthodox Church
+|High Church
+|Latin Church
+|LDS church
+|Low Church
+|Lutheran Church
+|Maronite Church
+|New Church
+|Orthodox Church
+|Orthodox Catholic Church
+|Oriental Church
+|Oriental Orthodox Church
+|Roman Catholic Church
+|Western Church
+}}
+{{col4|en|title=Other hyponyms of ''church''
+|autocephalous church
+|autonomous church
+|broad church
+|established church
+|free church
+|local church
+|parish church
+|particular church
+|simple church
+|state church
+|union church
+}}
+
+====Derived terms====
+{{der4|en
+|Church Father
+|Church Fenton
+|churchgoer
+|church-going
+|Churchianity
+|churchical
+|churching
+|churchish
+|churchless
+|churchlike
+|churchly
+|churchman
+|churchmouse
+|Church People
+|churchperson
+|churchplanter
+|church-ridden
+|churchtown
+|churchward
+|churchwarden
+|churchwoman
+|churchy
+|churchyard
+|mega-church
+|megachurch
+}}
+{{lookfrom|church}}
+
+====Related terms====
+{{rel4|en|church affiliation
+|church bell
+|church crawler
+|Church Latin
+|church hat
+|church hop
+|church key
+|church mode
+|church music
+|church planter
+|church roll
+|church school
+|church service
+|church spire
+|church state
+|Church Stretton
+|church tower
+|church triumphant
+|church year
+|collegiate church
+}}
+
+====Descendants====
+* {{desc|hi|चर्च|bor=1}}
+* {{desc|pis|sios}}
+* {{desc|tpi|sios}}
 
 ====Translations====
-*Arabic: [[كنيسة|كَنيسة]] (kanīsa), ''pl'' [[كنائس|كَنائِس]] (kanāʔis)
-*[[Aragonese]]: [[ilesia]] ''f'' 
-*[[Basque]]: [[eliza]]
-*[[Breton]]: [[iliz]] ''f'' -où ''pl'' (1), [[Iliz]] ''f'' (2)
-*[[Catalan]]: [[església]] ''f'' (1,2), [[missa]] ''f'' (3)
-*Chinese: [[教会]] (2)
-*Czech: [[kostel]] ''m'' (1), [[církev]] ''f'' (2), mše ''f'' (3)
-*{{da}}: [[kirke]]
-*{{nl}}: [[kerk]] ''f'' (1,2), [[kerkdienst]] ''m'' (3)
-*{{fi}}: [[kirkko]]
-*{{fr}}: [[église]] ''f''
-*{{de}}: [[Kirche]] ''f''
-*Hebrew: [[כנסיה]] ''f''
-*Hungarian: [[templom]] (1); egyház, Anyaszentegyház (Rom. Cath.) (2); mise (Mass), szertartás (services) (3)
-*Indonesian: [[gereja]]
-*Italian: [[chiesa]]
-*Japanese: [[教会]] ([[きょうかい]], kyōkai)
-*[[Kurdish]]: [[dêr]]
-*Latin:  [[ecclesia]] ''f'', [[basilica]]
-*[[Occitan]]: [[glèisa]]
-*[[Persian]]: [[كليسا|كِليسا]] (kelisā)
-*{{pl}}: [[kościół]] ''m''
-*Portuguese: [[igreja]]
-*[[Rhaeto-Romance]]: [[baseglia]]
-*{{ro}}: [[biserică]] ''f''
-*{{ru}}: [[церковь]] ''f'' (tsérkov') 
-*Slovak: [[kostol]] ''m'' (1), [[cirkev]] ''f'' (2), [[omša]] ''f'' (3)
-*Slovene: [[cerkev]] ''f'' (1), [[Cerkev]] ''f'' (2), [[maša]] ''f'' (3)
-*{{es}}: [[iglesia]] ''f'' (1,2), [[misa]] ''f'' (3)
-*{{sv}}: [[kyrka]]
-*Turkish: [[kilise]]
-*Welsh: [[eglwys]] ''f'', [[llan]] ''f''
-*[[Yiddish]]: [[קירך]] ''m'' (1,2), [[קלויסטער]] ''m'' (1), [[תּיפֿלה]] ''m'' (1,pejorative)
+{{trans-top|house of worship}}
+* Afrikaans: {{t+|af|kerk}}
+* Albanian: {{t+|sq|kishë|f}}
+* Amharic: {{t|am|ቤተ ክርስቲያን}} {{qualifier|Christian}}, {{t|am|ደብር}}
+* Apache:
+*: Western Apache: {{t|apw|kįh biyiʼ daʼchʼokąąhí}}
+* Arabic: {{t|ar|كَنِيسَة|f}}, {{t|ar|كَنَائِس|p}}
+*: Cypriot Arabic: {{t|acy|tr=knise}}
+*: Egyptian Arabic: {{t|arz|كنيسة|f|tr=kinīsa}}, {{t|ar|كنايس|p|tr=kanāyes}}
+* Armenian: {{t+|hy|եկեղեցի}}
+* Aromanian: {{t|rup|bãsearicã|f}}, {{t|rup|bisearicã|f}}
+* Asturian: {{t+|ast|ilesia|f}}
+* Azerbaijani: {{t+|az|kilsə}}
+* Bashkir: {{t|ba|сиркәү}}
+* Basque: {{t+|eu|eliza}}
+* Belarusian: {{t|be|царква́|f}}, {{t|be|касцёл|m}} {{qualifier|Catholic}}
+* Bengali: {{t|bn|গির্জা}}
+* Breton: {{t+|br|iliz|f}}
+* Bulgarian: {{t+|bg|цъ́рква|f}}, {{t+|bg|че́рква|f}}
+* Burmese: {{t|my|အသင်းတော်ကို|sc=Mymr}}
+* Catalan: {{t+|ca|església|f}}
+* Central Melanau: {{t|mel|gerija}}
+* Chechen: {{t|ce|килс}}
+* Chichewa: {{t|ny|tchalitchi}}
+* Chinese:
+*: Cantonese: {{t|yue|教會}}, {{t|yue|教会|tr=gaau3 wui6-2}} {{qualifier|Christian church}}, {{t|yue|教堂|tr=gaau3 tong4-2}} {{qualifier|any religion}}
+*: Dungan: {{t|dng|мё}}, {{t|dng|сы}} {{qualifier|mosque}}
+*: Hakka: {{t|hak|教會}}, {{t|hak|教会|tr=kau-fi}}
+*: Mandarin: {{t+|cmn|教會}}, {{t+|cmn|教会|tr=jiàohuì}} {{qualifier|Christian church}}, {{t+|cmn|教堂|tr=jiàotáng}} {{qualifier|any religion}}
+*: Min Bei: {{t|mnp|教會}}, {{t|mnp|教会|tr=ga̿u-hō}}
+*: Min Dong: {{t|cdo|教會}}, {{t|cdo|教会|tr=gáu-huôi}}
+*: Min Nan: {{t+|nan|教會}}, {{t|nan|教会|tr=kàu-hōe}} {{qualifier|Christian church}}, {{t+|nan|教堂|tr=kàu-tn̂g}} {{qualifier|any religion}}
+*: Wu: {{t|wuu|教會}}, {{t|wuu|教会|tr=jiau hhue}}
+* Chuvash: {{t|cv|чиркӳ}}
+* Classical Nahuatl: {{t|nci|teōpan}}, {{t|nci|teōpancalli}}
+* Cornish: {{t|kw|eglos|f}}
+* Corsican: {{t+|co|ghjesgia|f}}
+* Crimean Tatar: {{t|crh|kilse}}
+* Czech: {{t+|cs|kostel|m}}, {{t+|cs|chrám|m}}, {{t|cs|cerkev|f}} {{qualifier|small; orthodox}}
+* Dalmatian: {{t|dlm|basalca|f}}
+* Danish: {{t+|da|kirke|c}}
+* Dargwa: {{t|dar|киласа}}
+* Dutch: {{t+|nl|kerk|f}}
+* Esperanto: {{t|eo|kirko}}, {{t|eo|preĝejo}} {{qualifier|generic term}}
+* Estonian: {{t+|et|kirik}}
+* Faroese: {{t+|fo|kirkja|f}}
+* Finnish: {{t+|fi|kirkko}}
+* Franco-Provençal: {{t|frp|églésé|f}}
+* French: {{t+|fr|église|f}}
+* Friulian: {{t|fur|glesie|f}}
+* Galician: {{t+|gl|igrexa|f}}
+* Gallurese: {{t|sdn|ghjesgia|f}}
+* Georgian: {{t|ka|ეკლესია}}
+* German: {{t+|de|Kirche|f}}
+*: Alemannic German: {{t|gsw|Chilche|f}}, {{t|gsw|Chile|f}}, {{t|gsw|Kìrech}}
+* Greek: {{t+|el|εκκλησία|f}}, {{t+|el|ναός|m}}
+*: Ancient: {{t|grc|ἐκκλησία|f}}, {{t|grc|κυριακόν|n}}
+* Greenlandic: {{t|kl|oqaluffik}}
+* Gujarati: {{t|gu|ચર્ચ}}, {{t|gu|દેવળ|n}}
+* Haitian Creole: {{t|ht|legliz}}
+* Hausa: {{t|ha|coci}}
+* Hawaiian: {{t|haw|hale pule}}
+* Hebrew: {{t|he|כנסייה|f|tr=knesiyá|alt=כנסייה \ כְּנֵסִיָּה}}
+* Hindi: {{t+|hi|चर्च}}, {{t+|hi|गिरजा|m}}, {{t+|hi|गिर्जा|m}}, {{t+|hi|गिरजाघर|m}}, {{t+|hi|गिर्जाघर|m}}, {{t|hi|कलीसा}},  {{t|hi|कलीसिया|f}}
+* Hungarian: {{t+|hu|templom}}
+* Hunsrik: {{t|hrx|Kerrich|f}}
+* Icelandic: {{t+|is|kirkja|f}}
+* Ido: {{t+|io|kirko}}
+* Indonesian: {{t+|id|gereja}}
+* Interlingua: {{t+|ia|ecclesia}}
+* Irish: {{t|ga|eaglais|f}}, {{t|ga|teampall|m}}, {{t|ga|teach pobail|m}}
+*: Old Irish: {{t|sga|eclais|f}}, {{t|sga|tempul|m}}
+* Istriot: {{t|ist|cesa|f}}
+* Italian: {{t+|it|chiesa|f}}
+* Ivatan: {{t|ivv|timban}}
+* Japanese: {{t+|ja|教会|tr=きょうかい, kyōkai}}, {{t|ja|聖堂|tr=せいどう, seidō}}, {{t|ja|教会堂|tr=きょうかいどう, kyōkaidō}}
+* Jarai: {{t|jra|sang jơnum}}
+* Javanese: {{t+|jv|greja}}
+* Kalmyk: {{t|xal|чонҗ}}
+* Kannada: {{t+|kn|ಚರ್ಚು}}
+* Kapampangan: {{t|pam|pisamban}}
+* Karachay-Balkar: {{t|krc|килиса|tr=kilisa}}, {{t|krc|клиса|tr=klisa}}
+* Kashubian: {{t|csb|kòscół}}
+* Kazakh: {{t+|kk|шіркеу}}
+* Khmer: {{t+|km|វិហារ}}, {{t|km|[[វិហារ]][[គ្រិស្ត]]|tr=vihiə krɨh}}
+* Komi-Permyak: {{t-needed|koi}}
+* Konkani: {{t|kok|इगर्जे}}
+* Korean: {{t+|ko|성당}} ({{t|ko|聖堂}}), {{t+|ko|교회}} ({{t+|ko|敎會}}), {{t+|ko|예배당}} ({{t+|ko|禮拜堂}})
+* Kurdish:
+*: Kurmanji: {{t+|ku|dêr}}, {{t+|ku|kenîse}}, {{t+|ku|xaçxane}}
+*: Sorani: {{t+|ku|کەنیسە}}
+* Kyrgyz: {{t+|ky|чиркөө}}
+* Ladin: {{t|lld|dlieja|f}}
+* Lao: {{t+|lo|ໂບດ}}
+* Latin: {{t+|la|ecclesia|f}}
+* Latvian: {{t+|lv|baznīca|f}}
+* Lithuanian: {{t+|lt|bažnyčia|f}}
+* Low German: {{t|nds|kark}}
+* Luxembourgish: {{t+|lb|Kierch|f}}
+{{trans-mid}}
+* Macedonian: {{t+|mk|црква|f}}
+* Malagasy: {{t+|mg|fiangonana}}
+* Malay: {{t|ms|rumah sembahyang}}, {{t+|ms|gereja}}, {{t|ms|kelisa}}, {{t|ms|kanisah}}
+* Malayalam: {{t+|ml|പള്ളി}}
+* Maltese: {{t|mt|knisja}}, {{t|mt|tempju}}
+* Manx: {{t|gv|agglish|f}}
+* Maori: {{t|mi|whare karakia}}
+* Mari: {{t|chm|черке}}
+* Megleno-Romanian: {{t|ruq|bisearică|f}}
+* Middle English: {{t|enm|chirche}}
+* Mongolian: {{t+|mn|сүм}}
+* Mòcheno: {{t|mhn|kirch|f}}
+* Navajo: {{t|nv|ééʼneishoodii bikin|sc=Latn}}
+* Nepali: {{t+|ne|चर्च}}, {{t+|ne|गिर्जाघर}}
+* Norman: {{t|nrf|égllise|f}} {{qualifier|Guernsey}}, {{t|nrf|êglyise|f}} {{qualifier|Jersey}}, {{t|nrf|êglyîthe|f}} {{qualifier|Jersey}}, {{t|nrf|eglyiz|f}} {{qualifier|Sark}}
+* North Frisian: {{qualifier|Mooring}} {{t|frr|schörk|f}}, {{qualifier|Föhr-Amrum}} {{t|frr|sark|f}}, {{qualifier|Sylt}}, {{t|frr|Sērk|f}}
+* Northern Sami: {{t|se|girku}}, {{t|se|kirku}}
+* Norwegian:
+*: Bokmål: {{t+|nb|kirke|m|f}}
+*: Nynorsk: {{t|nn|kyrkje|f}}
+* Occitan: {{t|oc|gleisa}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|црькꙑ|f}}
+* Old East Slavic: {{t|orv|божьница}}
+* Old English: {{t|ang|ċiriċe|f}}
+* Old Norse: {{t|non|kirkja|f}}
+* Old Portuguese: {{t|roa-opt|ygreja|f}}
+* Ossetian: {{t|os|аргъуан}}
+* Pashto: {{t|ps|کنيسه|f|tr=kanisá}}, {{t|ps|کليسا|f|tr=kalisã}}
+* Persian: {{t+|fa|کِلیسا|tr=kelisâ}}
+* Pite Sami: {{t|sje|girrko}}
+* Plautdietsch: {{t|pdt|Kjoakj|f}}
+* Polabian: {{t|pox|carťai}}
+* Polish: {{t+|pl|kościół|m-in}} {{qualifier|generic}}, {{t+|pl|cerkiew|f}} {{qualifier|Orthodox or Greek Catholic}}, {{t+|pl|zbór|m-in}} {{qualifier|Evangelical}}
+* Portuguese: {{t+|pt|igreja|f}}, {{t+|pt|templo|m}}
+* Potawatomi: {{t|pot|nume´wgumuk}}
+* Punjabi: {{t|pa|ਗਿਰਜਾ}}
+* Quechua: {{t|qu|iñi wasi}}
+* Romani: {{t-needed|rom}}
+* Romanian: {{t+|ro|biserică|f}}
+* Romansch: {{t|rm|baselgia|f}}
+* Russian: {{t+|ru|це́рковь|f}}, {{t+|ru|костёл|m}} {{qualifier|Roman Catholic}}, {{t+|ru|це́рква|f|sc=Cyrl}}
+* Rusyn: {{t|rue|це́рьков|f}}, {{t|rue|косто́л|m}} {{qualifier|Catholic}}, {{t|rue|косте́л|m}} {{qualifier|Catholic}}
+* Samoan: {{t|sm|falesa}}
+* Sardinian: {{t|sc|cresia|f}}
+* Saterland Frisian: {{t|stq|Säärke|f}}
+* Scots: {{t|sco|kirk}}
+* Scottish Gaelic: {{t|gd|eaglais|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|црква|f}}
+*: Roman: {{t+|sh|crkva|f}}
+* Sicilian: {{t+|scn|cresia|f}}, {{t+|scn|chesia|f}}, {{t+|scn|chiesia|f}}
+* Silesian: {{t|szl|kośćůł|m}}
+* Sinhalese: {{t+|si|පල්ලිය}}
+* Skolt Sami: {{t|sms|ceerkav}}
+* Slovak: {{t+|sk|kostol|m}}, {{t+|sk|cirkev|f}}
+* Slovene: {{t+|sl|cerkev|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|cerkwja|f}}
+*: Upper Sorbian: {{t|hsb|cyrkej|f}}
+* Sotho: {{t|st|kereke}}
+* Spanish: {{t+|es|iglesia|f}}
+* Swahili: {{t+|sw|kanisa|cma}}
+* Swedish: {{t+|sv|kyrka|c}}
+* Tagalog: {{t+|tl|simbahan}}
+* Tajik: {{t+|tg|калисо}}
+* Tamil: {{t+|ta|தேவாலயம்}}
+* Taos: {{t|twf|mę̀sotu’úna}}
+* Tatar: {{t|tt|чиркәу}}
+* Telugu: {{t+|te|చర్చి}}
+* Tetum: {{t|tet|uma kreda}}
+* Thai: {{t+|th|โบสถ์}}, {{t|th|[[โบสถ์]][[คริสต์]]}}
+* Tigrinya: {{t|ti|ቤተ ክርስትያን}} {{qualifier|Christian}}, {{t|ti|ቅዳሴ}}
+* Tlingit: {{t|tli|xh'agáax' daakahídi}}
+* Tok Pisin: {{t|tpi|sios}}
+* Tongan: {{t|to|siasi}}
+* Turkish: {{t+|tr|kilise}}
+* Turkmen: {{t|tk|buthaana}}, {{t+|tk|buthana}}
+* Tuvan: {{t-needed|tyv}}
+* Udi: {{t|udi|ҝерҝецӏ}}
+* Udmurt: {{t|udm|черк}}
+* Ukrainian: {{t+|uk|це́рква|f}}, {{t+|uk|костьо́л|m}} {{qualifier|Catholic}}
+* Urdu: {{t|ur|کلیسا|tr=kalīsā}}, {{t|ur|کنیسہ|tr=kanīsā}}, {{t|ur|گرجا|m|tr=girjā}}
+* Uyghur: {{t+|ug|چېركاۋ}}, {{t|ug|ئىبادەتخانا}}
+* Uzbek: {{t+|uz|cherkov}}, {{t+|uz|butxona}}
+* Venetian: {{t+|vec|cexa|f}}, {{t|vec|céxa|f}}
+* Vietnamese: {{t+|vi|nhà thờ}}
+* Volapük: {{t+|vo|glüg}}
+* Walloon: {{t+|wa|eglijhe|f}}, {{t+|wa|gléjhe|f}} {{qualifier|old}}
+* Welsh: {{t+|cy|eglwys|f}}, {{t|cy|llan|f}}, {{t|cy|bangeibr}}
+* West Frisian: {{t|fy|tsjerke|c}}
+* Western Panjabi: {{t+|pnb|گرجا}}
+* Westrobothnian: {{t|gmq-bot|kjȯrk|f}}
+* Yakut: {{t-needed|sah}}
+* Yiddish: {{t|yi|קירך|f}}, {{t|yi|קלויסטער|m}}, {{t|yi|צערקווע}}, {{t|yi|תּיפֿלה|tr=tifle}} {{qualifier|pejorative}}, {{t|yi|טומאה|tr=tume}} {{qualifier|pejorative}}
+* Yup'ik: {{t|esu|agayuvik}}
+* Zazaki: {{t|zza|dêr}}
+* Zhuang: {{t|za|gyauvei}}
+{{trans-bottom}}
 
-===See Also===
-*[[abbe]]
-*[[ecclesiastical]]
-*[[eucharist]]
-*[[liturgy]]
-*[[mass]]
-*[[pastor]]
-*[[rector]]
-*[[religious]]
-*[[religion]]
-*[[sermon]]
-*[[vicar]]
-*[[worship service]]
+{{trans-top|a religious organization}}
+* Arabic: {{t|ar|كَنِيسَة|f}}, {{t|ar|كَنَائِس|p}}
+*: Egyptian Arabic: {{t|arz|كنيسة|f|tr=kinīsa}}, {{t|ar|كنايس|p|tr=kanāyes}}
+* Armenian: {{t+|hy|եկեղեցի}}
+* Basque: {{t+|eu|eliza}}
+* Bulgarian: {{t+|bg|църква|f}}
+* Burmese: {{t|my|အသင်းတော်}}
+* Catalan: {{t+|ca|església|f}}
+* Chinese:
+*: Cantonese: {{t|yue|教會|sc=Hani}}, {{t|yue|教会|tr=gaau3 wui6-2|sc=Hani}}
+*: Mandarin: {{qualifier|Christian church}} {{t+|cmn|教會|sc=Hani}}, {{t+|cmn|教会|tr=jiàohuì|sc=Hani}}
+*: Min Nan: {{t+|nan|教會|sc=Hani}}, {{t|nan|教会|tr=kàu-huē|sc=Hani}}
+* Cornish: {{t|kw|eglos|f}}
+* Czech: {{t+|cs|církev|f}}
+* Danish: {{t+|da|kirke|c}}
+* Dutch: {{t+|nl|kerk|f}}
+* Esperanto: {{t|eo|eklezio}}
+* Estonian: {{t+|et|kirik}}
+* Faroese: {{t+|fo|kirkja|f}}
+* Finnish: {{t+|fi|kirkko}}, {{t+|fi|seurakunta}}
+* French: {{t+|fr|église|f}}
+* Galician: {{t+|gl|igrexa|f}}
+* Georgian: {{t|ka|ეკლესია}}
+* German: {{t+|de|Kirche|f}}
+* Greek: {{t+|el|εκκλησία|f}}
+*: Ancient: {{t|grc|ἐκκλησία|f}}
+* Haitian Creole: {{t|ht|legliz}}
+* Hebrew: {{t|he|כנסייה|f|tr=knesiyá|alt=כנסייה \ כְּנֵסִיָּה}}
+* Hungarian: {{t+|hu|egyház}}
+* Icelandic: {{t+|is|kirkja|f}} {{qualifier|often used with definite article: {{upright|{{t|is|kirkjan}}}}}}
+* Ido: {{t+|io|eklezio}}
+* Indonesian: {{t+|id|gereja}}
+* Irish: {{t|ga|eaglais|f}}
+* Italian: {{t+|it|Chiesa|f}}
+* Japanese: {{t+|ja|教会|tr=きょうかい, kyōkai}}
+* Korean: {{t+|ko|교회}} ({{t+|ko|敎會}})
+{{trans-mid}}
+* Latvian: {{t+|lv|baznīca|f}}
+* Lithuanian: {{t+|lt|bažnyčia|f}}
+* Macedonian: {{t+|mk|црква|f}}
+* Maltese: {{t|mt|Knisja}}
+* Maori: {{t|mi|hāhi}}
+* Middle English: {{t|enm|chirche}}
+* Norwegian:
+*: Bokmål: {{t+|nb|kirke|m|f}}
+*: Nynorsk: {{t|nn|kyrkje|f}}
+* Old Church Slavonic: {{t|cu|црькꙑ}}
+* Polish: {{t+|pl|kościół|m-in}}
+* Portuguese: {{t+|pt|igreja|f}}
+* Romanian: {{t+|ro|biserică}}
+* Russian: {{t+|ru|це́рковь|f}}
+* Samoan: {{t|sm|ekalesia}}
+* Scots: {{t|sco|kirk}}
+* Scottish Gaelic: {{t|gd|eaglais|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|црква|f}}
+*: Roman: {{t+|sh|crkva|f}}
+* Slovak: {{t+|sk|cirkev|f}}
+* Slovene: {{t+|sl|Cerkev|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|cerkwja|f}}
+* Spanish: {{t+|es|iglesia|f}}
+* Swahili: {{t+|sw|kanisa|cma}}
+* Swedish: {{t+|sv|kyrka|c}}
+* Tagalog: {{t+|tl|simbahan}}
+* Thai: {{t+|th|คริสตจักร|tr=krít-jàt}}
+* Turkish: {{t+|tr|kilise}}
+* Udmurt: {{t|udm|черк}}
+* Ukrainian: {{t+|uk|це́рква|f}}
+* Vietnamese: {{t+|vi|giáo hội}}
+* Walloon: {{t+|wa|eglijhe|f}}
+{{trans-bottom}}
 
-[[it:church]]
-[[sv:church]]
-[[Category:1000 English basic words]]
+{{trans-top|a group of people who follow the same Christian religious beliefs}}
+* Catalan: {{t+|ca|església|f}}
+* Dutch: {{t+|nl|kerk|f}}
+* Esperanto: {{t|eo|eklezio}}
+* Hungarian: {{t+|hu|gyülekezet}}, {{t|hu|egyházközösség}}, {{t+|hu|egyház}}
+* Latvian: {{t+|lv|baznīca|f}}
+* Middle English: {{t|enm|chirche}}
+{{trans-mid}}
+* Polish: {{t+|pl|kościół|m-in}}, {{t+|pl|wspólnota|f}}
+* Russian: {{t+|ru|це́рковь|f}}
+* Swahili: {{t+|sw|kanisa|cma}}
+* Turkish: {{t+|tr|cemaat}}
+* Venetian: {{t+|vec|cexa|f}}, {{t|vec|céxa|f}}
+{{trans-bottom}}
+
+{{trans-top|worship service}}
+* Asturian: {{t|ast|messe|f}}
+* Basque: {{t|eu|elizkizun}}
+* Bulgarian: {{t|bg|църковна служба|f}}, {{t|bg|литургия|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|禮拜|sc=Hani}}, {{t+|cmn|礼拜|tr=lǐbài|sc=Hani}}
+* Czech: {{t+|cs|bohoslužba|f}}, {{t+|cs|mše|f}}
+* Dutch: {{t+|nl|kerkdienst|m}}
+* Estonian: {{t|et|jumalateenistus}}
+* Faroese: {{t|fo|gudstænasta|f}}, {{t|fo|kirkjugongd|f}}, {{t|fo|messa|f}}
+* Finnish: {{t+|fi|jumalanpalvelus}}, {{t+|fi|messu}}, {{t+|fi|kirkko}}
+* German: {{t+|de|Gottesdienst|m}}, {{t+|de|Messe|f}}, {{t+|de|Kirche|f}}
+* Greek: {{t+|el|λειτουργία|f}}
+* Hungarian: {{t+|hu|mise}}, {{t+|hu|istentisztelet}}, {{t+|hu|szertartás}}
+* Icelandic: {{t+|is|messa|f}}, {{t+|is|guðsþjónusta|f}}, {{t+|is|kirkja|f}}
+* Indonesian: {{t|id|Misa}}
+* Italian: {{t+|it|funzione|f}}, {{t+|it|messa|f}}
+* Japanese: {{t+|ja|教会|tr=きょうかい, kyōkai}}, {{t|ja|礼拝|tr=れいはい, reihai}}
+* Latvian: {{t|lv|dievkalpojums|m}}
+{{trans-mid}}
+* Macedonian: {{t|mk|богослужба|f}}, {{t|mk|литургија|f}}
+* Maltese: {{t|mt|funzjoni}}, {{t|mt|quddiesa}}
+* Norwegian:
+*: Bokmål: {{t|nb|gudstjeneste|m}}
+*: Nynorsk: {{t|nn|gudstenest|f}}, {{t|nn|gudsteneste|f}}
+* Polish: {{t+|pl|nabożeństwo|n}}, {{t+|pl|liturgia|f}}, {{t+|pl|msza|f}}
+* Portuguese: {{t+|pt|culto|m}}, {{t+|pt|missa|f}}
+* Romanian: {{t+|ro|serviciu religios|n}}, {{t|ro|[[slujbă]] ([[religioasă]])|f}}, {{t|ro|ceremonie religioasă|f}}
+* Russian: {{t+|ru|богослуже́ние|n}}, {{t+|ru|литурги́я|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|богослужење|n}}, {{t|sh|литургија|f}}, {{t|sh|миса|f}}
+*: Roman: {{t+|sh|bogosluženje|n}}, {{t+|sh|liturgija|f}}, {{t+|sh|misa|f}}
+* Slovak: {{t+|sk|omša|f}}, {{t+|sk|bohoslužba|f}}
+* Slovene: {{t+|sl|maša|f}}, {{t+|sl|liturgija|f}}
+* Spanish: {{t|es|servicio religioso|m}}
+* Tagalog: {{qualifier|Catholic mass}} {{t|tl|misa}}
+* Turkish: {{t+|tr|kilise}}
+* Venetian: {{t|vec|mesa|f}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Aragonese: {{t-check|an|ilesia|f}}
+* Breton: {{t+check|br|iliz|f}}, {{t+check|br|Iliz|f}}
+* Georgian: {{t-check|ka|ეკლესია}}
+* Hindi: {{t-check|hi|कलीसिया}}
+* Korean: {{t+check|ko|교회}} ({{t|ko|教會}}) (2)
+{{trans-mid}}
+* Kurdish: {{t+check|ku|dêr}}
+* Latin: {{t+check|la|ecclesia|f}}, {{t-check|la|basilica}}
+* Occitan: {{t+check|oc|glèisa}}
+* Romanian: {{t+check|ro|biserică|f}}
+* Yiddish: {{t-check|yi|קירך|f}} (2)
+{{trans-bottom}}
+
+===References===
+* {{pedia}}
+
+===Verb===
+{{en-verb|es}}
+
+# {{lb|en|transitive|now|_|historical}} To conduct a [[religious]] [[service]] for (a woman after [[childbirth]], or a newly married couple). {{defdate|from 15th c.}}
+#* {{RQ:Mlry MrtDrthr|13.3|2|XI|Tercium}}:
+#*: Thenne after this lady was delyuerd and '''chirched''' / there came a knyghte vnto her / his name was sire Bromel la pleche / the whiche was a grete lord and he hadde loued that lady longe / and he euermore desyred her to wedde her / and soo by no meane she coude putte hym of
+<!--Prior quote:Than, aftir the lady was delyverde and '''churched''', there cam a knyght unto her-->
+#* '''1971''', {{w|Keith Thomas (historian)|Keith Thomas}}, ''Religion and the Decline of Magic'', Folio Society 2012, page 36:
+#*: Nor did it [the Church] accept that the woman should stay indoors until she had been '''churched'''.
+# {{lb|en|transitive}} To [[educate]] someone religiously, as in in a church.
+
+====Derived terms====
+* {{l|en|churching of women}}
+
+====Translations====
+{{trans-top|conduct service after childbirth}}
+* Swedish: {{t|sv|kyrkta}}, {{t|sv|kyrktaga}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|Appendix:Ecclesiastical terms}}
+{{rel-top|selected ecclesiastical terms}}
+* {{l|en|abbe}}
+* {{l|en|abbey}}
+* {{l|en|basilica}}
+* {{l|en|cathedral}}
+* {{l|en|ecclesiastical}}
+* {{l|en|Eucharist}}
+* {{l|en|house of worship}}
+* {{l|en|Kingdom Hall}} {{qualifier|Jehovah's Witness}}
+* {{l|en|liturgy}}
+* {{l|en|mass}}
+* {{l|en|mission}}
+* {{l|en|mosque}} {{qualifier|Muslim}}
+{{rel-mid}}
+* {{l|en|pastor}}
+* {{l|en|priory}}
+* {{l|en|rector}}
+* {{l|en|religious}}
+* {{l|en|religion}}
+* {{l|en|sermon}}
+* {{l|en|synagogue}} {{qualifier|Jewish}}
+* {{l|en|temple}} {{qualifier|non-Christian}}
+* {{l|en|vicar}}
+* {{l|en|worship service}}
+{{rel-bottom}}
+
+[[Category:en:Buildings]]
+[[Category:en:Collectives]]
+[[Category:en:Places of worship]]
+
+----
+
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{alt form|enm|chirche}}
