@@ -10,7 +10,7 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=䋹}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -18,7 +18,8 @@
 
 ===Pronunciation 1===
 {{zh-pron
-|m=fú
+|m=fú,er=y
+|m_note=fúr: width of textiles; cloth margin
 |c=fuk1
 |mn=pak/hok
 |mn_note=pak - vernacular, hok - literary
@@ -34,7 +35,7 @@
 # [[width]] of [[textiles]]; {{lb|zh|by extension}} [[width]]
 #: {{zh-x|幅度|range; scope; extent}}
 #: {{zh-x|振幅|amplitude}}
-# {{zh-o}} {{lb|zh|of [[cloth]]}} [[[hem]]; [[margin]]
+# {{zh-o}} {{lb|zh|of [[cloth]]}} [[hem]]; [[margin]]
 #: {{zh-x|邊幅|cloth margin; (figurative) person's appearance}}
 # {{zh-classifier|[[textile]]s and [[picture]]s|cat=y}}
 #: {{zh-x|一 幅 畫|a picture}}
@@ -57,6 +58,7 @@
 
 ===References===
 * {{R:yue:Hanzi}}
+* {{R:twedu|A01179}}
 
 {{zh-cat|Elementary}}
 
