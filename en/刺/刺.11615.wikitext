@@ -2,9 +2,6 @@
 {{character info}}
 ==Translingual==
 
-===Alternative forms===
-* {{l|mul|刾}}
-
 ===Han character===
 {{Han char|rn=18|rad=刀|as=06|sn=8|four=52900|canj=DBLN|ids=⿰朿刂}}
 
@@ -14,10 +11,11 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㓨,𣐁}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|朿|刀|alt2=刂|ls=psc|c1=p|c2=s|t2=knift}}.
 
 <!--
 |h=pfs=chhiuk
@@ -92,6 +90,7 @@
 
 ===References===
 * {{R:yue:mfccd}}
+* {{T:twedu|A00347}}
 * {{R:yue:jyut.net}}
 
 {{zh-cat|Elementary}}
