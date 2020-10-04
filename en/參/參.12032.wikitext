@@ -212,23 +212,16 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 ==Korean==
 
 ===Etymology 1===
-; “join; participation; add”
-: From {{der|ko|ltc|-}} {{ltc-l|參|id=3|add; influence; join}}. {{hanja-sinjeung|참|cham}}
-
-; “jagged; uneven”
-: From {{der|ko|ltc|-}} {{ltc-l|參|id=2|jagged; uneven}}.
+From {{der|ko|ltc|-}} {{ltc-l|參|id=3|add; influence; join}}. {{hanja-sinjeung|참|cham}}
 
 ====Hanja====
 {{ko-hanja-search}}
 {{ko-hanja|[[참여하다|참여할]]|참}}
 
 # {{hanja form of|참|[[join]]; [[participation]]; [[add]]}}
-# {{lb|ko|literary}} {{hanja form of|참|[[jagged]]; [[uneven]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|참치|參差}}
-* {{ko-l|참착|參錯}}
 * {{ko-l|고참|古參}}
 * {{ko-l|동참|同參}}
 * {{ko-l|불참|不參}}
@@ -248,16 +241,25 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 {{der-bottom}}
 
 ===Etymology 2===
-; “three”
-: From {{der|ko|ltc|-}} {{ltc-l|參|id=4|three}}.
-
-; “Three Stars mansion”
-: From {{der|ko|ltc|-}} {{ltc-l|參|id=1|Three Stars mansion}}.
+From {{der|ko|ltc|-}} {{ltc-l|參|id=2|jagged; uneven}}. {{hanja-dongguk|ᄎᆞᆷ|chom}}
 
 ====Hanja====
-{{ko-hanja|석|삼}}
+{{ko-hanja|들쭉날쭉하다|들쭉날쭉할|참}}
 
-# {{lb|ko|financial}} {{alt form|ko|三||{{hanja form of|삼|[[three]]}}}}
+# {{lb|ko|literary}} {{hanja form of|참|[[jagged]]; [[uneven]]}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ko-l|참치|參差}}
+* {{ko-l|참착|參錯}}
+{{der-bottom}}
+
+===Etymology 3===
+From {{der|ko|ltc|-}} {{ltc-l|參|id=1|Three Stars mansion}}. {{hanja-dongguk|ᄉᆞᆷ|som}}
+
+====Hanja====
+{{ko-hanja|[[별]] [[이름]]|삼}}
+
 # {{hanja form of|삼|{{lb|ko|Chinese astronomy}} {{w|Three Stars (Chinese constellation)|Three Stars}} mansion {{gloss|one of the {{w|Twenty-Eight Mansions}}}}}}
 
 ====Compounds====
@@ -267,6 +269,14 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 * {{ko-l|삼성|參星}}
 * {{ko-l|^삼례|參禮|[[w:ko:삼례|Samnye]]}}
 {{der-bottom}}
+
+===Etymology 4===
+From {{der|ko|ltc|-}} {{ltc-l|參|id=4|three}}.
+
+====Hanja====
+{{ko-hanja|석|삼}}
+
+# {{lb|ko|financial}} {{alt form|ko|三||{{hanja form of|삼|[[three]]}}}}
 
 ===References===
 * {{R:hanjadoc|1058}}
