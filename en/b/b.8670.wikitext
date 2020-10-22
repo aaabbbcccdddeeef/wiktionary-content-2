@@ -436,18 +436,35 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 
 ----
 
-==Norwegian==
+==Norwegian Bokmål==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|no|/beː/}}
-* {{sense|phoneme}} {{IPA|no|/b/}}
+* {{sense|letter name}} {{IPA|nb|/beː/}}
+* {{sense|phoneme}} {{IPA|nb|/b/}}
 * {{audio|nb|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-b.wav|Audio}}
-* {{homophones|no|be}}
+* {{homophones|nb|be}}
 
 ===Letter===
-{{head|no|letter}}
+{{head|nn|letter|upper case|B|g=m|cat2=nouns|cat3=masculine nouns|definite singular|b-en|indefinite plural|b-er|definite plural|b-ene}}
 
 # {{Latn-def|no|letter|2}}
+# {{senseid|nb|B-flat}} {{lb|nb|music}} {{l|en|B-flat}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{sense|letter name}} {{IPA|nn|/beː/}}
+* {{sense|phoneme}} {{IPA|nn|/b/}}
+* {{audio|nb|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-b.wav|Audio}}
+* {{homophones|nn|be}}
+
+===Letter===
+{{head|nn|letter|upper case|B|g=m|cat2=nouns|cat3=masculine nouns|definite singular|b-en|indefinite plural|b-ar|definite plural|b-ane}}
+
+# {{Latn-def|no|letter|2}}
+# {{senseid|nn|B-flat}} {{lb|nn|music}} {{l|en|B-flat}}
 
 ----
 
