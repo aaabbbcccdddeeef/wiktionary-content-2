@@ -14,9 +14,7 @@
 ==Esperanto==
 
 ===Pronunciation===
-* {{IPA|eo|/laˈtino/}}
-* {{hyph|eo|la|ti|no}}
-* {{rhymes|eo|ino}}
+{{eo-IPA}}
 
 ===Proper noun===
 {{eo-proper noun}}
@@ -62,13 +60,14 @@ From {{inh|it|la|Latīnus}}.
 
 # [[Latin]] {{q|person}}
 
-{{it-noun|m|~}}
+===Proper noun===
+{{it-proper noun|m}}
 
 # [[Latin]] {{q|language}}
 
 ===Related terms===
-{{rel3
-|it|Latina
+{{col3|it
+|Latina
 |latineggiare
 |latinismo
 |latinista
@@ -77,7 +76,7 @@ From {{inh|it|la|Latīnus}}.
 }}
 
 ===Anagrams===
-* {{anagrams|it|tonali}}
+* {{anagrams|it|a=ailnot|tonali}}
 
 [[Category:it:Languages]]
 
@@ -86,6 +85,7 @@ From {{inh|it|la|Latīnus}}.
 ==Latin==
 
 ===Etymology 1===
+{{rfe|la}}
 
 ====Verb====
 {{la-verb|1+|latinō}}
@@ -105,14 +105,12 @@ From {{inh|it|la|Latīnus}}.
 * {{desc|es|latinar}}
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Adjective====
 {{la-adj-form|latīnō}}
 
-# {{inflection of|la|latīnus||dat|m|s}}
-# {{inflection of|la|latīnus||dat|n|s}}
-# {{inflection of|la|latīnus||abl|m|s}}
-# {{inflection of|la|latīnus||abl|n|s}}
+# {{inflection of|la|latīnus||dat//abl|m//n|s}}
 
 ===References===
 * {{R:du Cange}}
@@ -124,26 +122,27 @@ From {{inh|it|la|Latīnus}}.
 
 ==Portuguese==
 
-===Etymology===
-Borrowed from {{bor|pt|la|Latīnus||Latin}}. {{doublet|pt|ladinho|t1=unmixed|ladino|t2=sly}}
-
 ===Pronunciation===
 * {{a|Brazil}} {{IPA|pt|/laˈt͡ʃi.nu/}}
+* {{hyph|pt|la|ti|no}}
 
-===Adjective===
+===Etymology 1===
+Borrowed from {{bor|pt|la|Latīnus|t=Latin}}. {{doublet|pt|ladinho|t1=unmixed|ladino|t2=sly}}
+
+====Adjective====
 {{pt-adj|latin|o}}
 
 # {{lb|pt|linguistics}} {{l|en|Latin}} {{gloss|of or relating to the Latin language}}
 # {{lb|pt|linguistics}} {{l|en|Romance}} {{gloss|being one of the languages that descend from Latin}}
 #: {{syn|pt|romance|neolatino}}
-#: {{ux|pt|As línguas '''latinas'''|The '''Romance''' languages.}}
+#: {{uxi|pt|As línguas '''latinas'''|The '''Romance''' languages.}}
 # {{l|en|Latin}}; {{l|en|Romance}} {{gloss|relating to Romance-speaking countries and cultures}}
 # {{lb|pt|historical}} {{l|en|Latin}}; {{l|en|Latian}} {{gloss|of, from or relating to Latium}}
 #: {{syn|pt|lacial}}
 # {{l|en|Latino}} {{gloss|of, from or relating to Latin America}}
 #: {{syn|pt|latino-americano}}
 
-===Noun===
+====Noun====
 {{pt-noun|m|f=latina}}
 
 # {{l|en|Latino}}; {{l|en|Latin-American}} {{gloss|someone from Latin America}}
@@ -152,26 +151,37 @@ Borrowed from {{bor|pt|la|Latīnus||Latin}}. {{doublet|pt|ladinho|t1=unmixed|lad
 # {{lb|pt|rare}} {{synonym of|pt|latim}}
 # {{lb|pt|obsolete}} {{synonym of|pt|latinista}}
 
-====Usage notes====
+=====Usage notes=====
 Brazilians do not commonly refer to themselves as Latinos. This sense of ''latino'' most commonly refers to Latinos from the Spanish-speaking countries and the United States, or to Latin Americans as a whole.
 
-===Verb===
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|pt|verb form}}
 
 # {{pt-verb-form-of|latinar}}
+
+===Further reading===
+* {{R:Aulete}}
+* {{R:Dicionário informal}}
+* {{R:DAN}}
+* {{R:pt:Infopédia}}
+* {{R:Michaelis}}
+* {{R:Priberam}}
 
 ----
 
 ==Spanish==
 
-===Etymology===
-Borrowed from {{bor|es|la|latīnus}}. Compare {{doublet|es|ladino|notext=1}}.
-
 ===Pronunciation===
 * {{es-IPA}}
 * {{rhymes|es|ino}}
 
-===Adjective===
+===Etymology 1===
+Borrowed from {{bor|es|la|latīnus}}. Compare {{doublet|es|ladino|notext=1}}.
+
+====Adjective====
 {{es-adj|f=latina}}
 
 # of or related to [[Lazio]], Italy
@@ -180,37 +190,45 @@ Borrowed from {{bor|es|la|latīnus}}. Compare {{doublet|es|ladino|notext=1}}.
 # of or related to [[Latin]] people, speakers of Romance languages
 # [[Latino]], [[Latin American]]
 
-====Derived terms====
+=====Derived terms=====
 {{col3|es
 |alfabeto latino
 |bailar con los cinco latinos
 |comillas latinas
 |i latina
 |latinoamericano
-|vela latina}}
+|vela latina
+}}
 
-====Related terms====
-{{rel3
-|es|ladino
+=====Related terms=====
+{{col4|es
+|ladino
 |latín
 |latinx
 |Lacio
 }}
 
-====Descendants====
+=====Descendants=====
 * {{desc|en|Latino|bor=1}}
 
-===Noun===
+====Noun====
 {{es-noun|m|f=latina}}
 
 # a [[Latino]]
 # a [[Latin]] {{gloss|member of one of the Latin tribes in ancient Italy}}
-====Descendants====
+
+=====Descendants=====
 * {{desc|en|Latino|bor=1}}
 
-===Verb===
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|es|verb form}}
 
 # {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=1|number=singular|latinar}}
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:Spanish 3-syllable words]]
