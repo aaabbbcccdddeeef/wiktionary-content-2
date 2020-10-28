@@ -16,24 +16,32 @@
 {{Han etym}}
 {{Han compound|犬|alt1=犭|青|ls=psc|c1=s|c2=p}}.
 
-===Pronunciation===
+===Etymology 1===
+{{rfe|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m=cāi
-|ma=y
+|m-s=cai1
 |dg=цэ2
 |c=caai1
-|h=gd=cai1
+|c-t=cai1
+|g=cai1
+|h=pfs=chhâi;gd=cai1
 |j=cai1
+|mb=cǎi
 |md=chăi
 |mn=chhai
 |mn-t=cai1
-|w=1tshe,1tshoe
+|w=1tshoe,1tshe
+|x=cai1
 |mc=y
 |oc=y
+|ma=y
 |cat=v,n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[guess]]; to [[suppose]]; to [[conjecture]]
@@ -41,14 +49,26 @@
 # to [[suspect]]; to have a [[suspicion]]
 # [[suspicion]]; [[jealousy]]
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial}}
 
-====See also====
-* {{zh-l|估}}
-
-===Compounds===
+====Compounds====
 {{zh-der|猜不透|猜不著/猜得着|猜測|猜忖|猜得著|猜斷|猜度|猜忌|猜枚|猜謎兒|猜謎|猜摸|猜破|猜拳|猜思|猜題|猜透|猜嫌|猜詳|猜想|猜啞謎|猜疑|猜著/猜着|猜中|慮猜|兩小無猜|左猜|三智五猜|兩無猜疑|猜懼|混猜|猜燈|猜三划五|猜貳|猜調|猜悶兒|猜忍|疑猜|無猜|瞎猜|胡猜}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|mn=tw:ioh
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien}} {{zh-alt-form|臆|tr=ioh|to guess}}
+#* {{zh-x|你 的 情{chêng} 有{ū} 若{ná} 無　是 眞{chin} 是 假 乎{hō͘} 阮{gún} 猜{ioh}|Your love exists like it's not there, making me '''guess''' whether it's real or not|TW|ref='''1994''', {{w2|zh|詹雅雯}}, [https://www.youtube.com/watch?v=8BZJE-0mP7o {{lang|zh|淚酒}}]}}
+#* {{zh-x|猜{ioh} 袂{bōe} 透 你 的 心|I can't '''guess''' all of your heart through|TW|ref='''2020''', {{lang|zh|朱德寶}} (Vick Chu), [https://www.youtube.com/watch?v=DYkFtfRE97M {{lang|zh|情人啊情人}}]}}
 
 {{zh-cat|Elementary}}
 
