@@ -124,35 +124,6 @@ Alternatively, {{zh-ref|Benedict (1972)}} relates it to {{inh|zh|sit-pro|*bʷaŋ
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|けい|yomi=kanon}}
-{{IPAfont|*/kˠwæi/}} → {{IPAchar|/kʷæi/}} → {{IPAchar|/keː/}}
-
-From {{der|ja|ltc|sort=けい|-}} {{ltc-l|兄}}.
-
-====Pronunciation====
-{{ja-pron|けい|y=ko|acc=1|acc_ref=DJR}}
-* Pitch accent for suffix unknown.
-
-====Noun====
-{{ja-noun|けい}}
-
-# an [[elder]] [[brother]]
-#: {{syn|ja|弟|tr=tei}}
-
-=====Idioms=====
-* {{ja-r|兄たり難く弟たり難し|けい たりがたく てい たりがたし}}
-
-====Pronoun====
-{{ja-pos|pronoun|けい}}
-
-# ''pronoun referencing an [[older]] [[brother]] [[figure]]'': [[you]], [[he]]
-
-====Suffix====
-{{ja-pos|suffix|けい}}
-
-# ''attaches to a name referencing an [[older]] [[brother]] [[figure]]'': [[Mister]], [[Mr.]]
-
-===Etymology 2===
 {{ja-kanjitab|あに|yomi=k}}
 From {{inh|ja|ojp|sort=あに|-}} of unclear derivation:
 * Probably originally a compound of {{compound|ja|吾|tr1=a|pos1=Eastern Old Japanese first-person pronoun|の|tr2=no|pos2=possessive particle|兄|tr3=ye → e|t3=[[eldest]] [[sibling]]|pos3=see below}}:
@@ -167,11 +138,14 @@ From {{inh|ja|ojp|sort=あに|-}} of unclear derivation:
 ====Noun====
 {{ja-noun|あに}}
 
-# one's [[own]] [[elder]] [[brother]]
+# [[elder]] [[brother]]
 #: {{ant|ja|弟|tr=otōto}}
-# one's [[own]] [[elder]] [[sister]]'s [[husband]]
+# elder [[brother-in-law]]
 #: {{syn|ja|義兄|tr=gikei}}
 # {{short for|ja|花の兄|tr=hana no ani|nodot=1}}: alternative name for the {{m|ja|梅|tr=[[ume]]}}, the [[Japanese plum]] (''[[Prunus mume]]'')
+
+=====Usage notes=====
+* {{sense|elder brother}} This term conveys neither positive nor negative connotations and is often used in objective narrations. However, using it to describe someone the speaker knows personally is often considered lacking respect, where more polite forms like {{ja-r|お兄さん|おにいさん}} are preferred.
 
 =====Derived terms=====
 {{der-top}}
@@ -189,6 +163,35 @@ From {{inh|ja|ojp|sort=あに|-}} of unclear derivation:
 * {{ja-r|花の兄|はな の あに}}
 * {{ja-r|継%兄|まま%あに|rom=-}}, {{ja-r|庶%兄|まま%あに}}
 {{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|けい|yomi=kanon}}
+{{IPAfont|*/kˠwæi/}} → {{IPAchar|/kʷæi/}} → {{IPAchar|/keː/}}
+
+From {{der|ja|ltc|sort=けい|-}} {{ltc-l|兄}}.
+
+====Pronunciation====
+{{ja-pron|けい|y=ko|acc=1|acc_ref=DJR}}
+* Pitch accent for suffix unknown.
+
+====Noun====
+{{ja-noun|けい}}
+
+# {{lb|ja|rare}} an [[elder]] [[brother]]
+#: {{syn|ja|弟|tr=tei}}
+
+=====Idioms=====
+* {{ja-r|兄たり難く弟たり難し|けい たりがたく てい たりがたし}}
+
+====Pronoun====
+{{ja-pos|pronoun|けい}}
+
+# ''pronoun referencing an [[older]] [[brother]] [[figure]]'': [[you]], [[he]]
+
+====Suffix====
+{{ja-pos|suffix|けい}}
+
+# ''attaches to a name referencing an [[older]] [[brother]] [[figure]]'': [[Mister]], [[Mr.]]
 
 ===Etymology 3===
 {{ja-kanjitab|え|yomi=k}}
@@ -263,13 +266,13 @@ Originally a compound of {{compound|ja|子|tr1=ko|t1=[[child]]|の|tr2=no|pos2=p
 ====Noun====
 {{ja-noun|このかみ}}
 
-# [[eldest]] [[son]]
+# {{lb|ja|archaic}} [[eldest]] [[son]]
 #: {{syn|ja|長兄|tr=chōkei|長男|tr2=chōnan}}
-# a [[senior]]
+# {{lb|ja|archaic}} a [[senior]]
 #: {{syn|ja|年長者|tr=nenchōsha}}
-# {{lb|ja|by extension}} an [[elder]] [[sibling]]
+# {{lb|ja|archaic}} {{lb|ja|by extension}} an [[elder]] [[sibling]]
 # the [[head]] of a [[clan]]
-# a [[skilled]] [[craftsman]]
+# {{lb|ja|archaic}} a [[skilled]] [[craftsman]]
 #: {{syn|ja|頭|tr=kashira}}
 
 =====Derived terms=====
