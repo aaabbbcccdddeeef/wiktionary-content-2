@@ -75,7 +75,7 @@ Etymology unknown ({{zh-ref|Schuessler, 2007}}).
 ===Kanji===
 {{ja-kanji|grade=3|rs=宀09}}
 
-# cold
+# [[cold]]
 
 ====Readings====
 {{ja-readings
@@ -87,23 +87,48 @@ Etymology unknown ({{zh-ref|Schuessler, 2007}}).
 
 ===Etymology===
 {{ja-kanjitab|かん|yomi=kanon}}
+
 From {{der|ja|ltc|sort=かん|-}} {{ltc-l|寒}}.
 
+The basic {{m|en|cold}} sense as an affix is attested from some of the earliest texts in the 700s {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Use as an independent noun is first attested in a text from roughly 900 {{CE}}.<ref name="KDJ"/>
+
 ===Pronunciation===
-{{ja-pron|かん|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR|y=kanon}}
+{{ja-pron|かん|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
 
 ===Affix===
 {{ja-pos|affix|かん}}
 
-# [[cold]]; [[chilly]]
-# [[lonely]]; [[deserted]]
-# [[poor]]; [[poverty-stricken]]
-# [[midwinter]]; [[cold]] [[season]]
+# {{defdate|from 700s}} [[cold]], [[chilly]]
+# {{defdate|from early 1800s}} {{lb|ja|sort=かん|by extension}} [[poor]], [[poverty-stricken]]
+# {{defdate|from 900s}} [[midwinter]], [[cold]] [[season]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|寒気|かんき}}
+* {{ja-r|寒暑|かんしょ}}
+* {{ja-r|寒風|かんぷう}}
+* {{ja-r|寒冷|かんれい}}
+* {{ja-r|悪寒|おかん}}
+* {{ja-r|厳寒|げんかん}}
+* {{ja-r|向寒|こうかん}}
+* {{ja-r|春寒|しゅんかん}}
+* {{ja-r|避寒|ひかん}}
+* {{ja-r|防寒|ぼうかん}}
+* {{ja-r|寒村|かんそん}}
+* {{ja-r|貧寒|ひんかん}}
+* {{ja-r|寒心|かんしん}}
+* {{ja-r|寒中|かんちゅう}}
+* {{ja-r|小寒|しょうかん}}
+* {{ja-r|大寒|だいかん}}
+* {{ja-r|寒鴉|かんあ}}
+* {{ja-r|寒菊|かんぎく}}
+{{der-bottom}}
 
 ===Noun===
 {{ja-noun|かん}}
 
-# [[midwinter]]; [[cold]] [[season]]
+# {{defdate|from circa 900}} [[cold]], [[coldness]]
+# {{defdate|from 1275}} [[midwinter]], [[cold]] [[season]]
 #* a [[haiku]] by {{w|Matsuo Bashō}}:
 #*: {{ja-usex|干%鮭も　空%也の痩も　'''寒'''の内|かん%ざけ も　 ^くう%や の やせ も　 '''かん''' の うち|Salted salmon too, also {{w|Kūya}}'s thinning too, in the '''cold season'''}}
 
