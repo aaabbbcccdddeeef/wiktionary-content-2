@@ -115,7 +115,7 @@ From {{inh|ja|ojp|-|sort=まえ}} as a compound of {{compound|ja|sort=まえ|目
 {{IPAchar|/mape<sub>1</sub>/}} → {{IPAchar|/maɸe/}} → {{IPAchar|/mawe/}} → {{IPAchar|/maje/}} → {{IPAchar|/mae/}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|まえ|acc=1|acc_ref=DJR,NHK,SMK5}}
+{{ja-pron|まえ|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|まえ|hhira=まへ}}
@@ -140,20 +140,16 @@ From {{inh|ja|ojp|-|sort=まえ}} as a compound of {{compound|ja|sort=まえ|目
 
 ===Etymology 2===
 {{ja-kanjitab|さき|yomi=k}}
-See {{m|ja|先}}.
-
-====Noun====
-{{ja-noun|さき}}
-
-# {{alternative spelling of|ja|sort=さき|先}}
+{{ja-see|先}}
 {{-}}
 
 ===Etymology 3===
-{{ja-kanjitab|ぜん|yomi=o}}
-From {{bor|ja|ltc|-|sort=せん'}} {{m|zh|前|tr=dzen}}. Compare modern {{cog|cmn|-}} {{m|zh|前|tr=qián}}.
+{{ja-kanjitab|ぜん|yomi=goon}}
+
+From {{bor|ja|ltc|-|sort=せん'}} {{ltc-l|前}}. Compare modern {{cog|cmn|-}} {{m|zh|前|tr=qián}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|ぜん|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|ぜん|acc=1|acc_ref=DJR,NHK}}
 
 ====Counter====
 {{ja-pos|ぜん|counter}}
@@ -169,10 +165,11 @@ From {{bor|ja|ltc|-|sort=せん'}} {{m|zh|前|tr=dzen}}. Compare modern {{cog|cm
 
 ===Etymology 4===
 {{ja-kanjitab|ぜ|yomi=kanyoon}}
+
 Contraction of {{ja-r|御%前|ご%ぜ}}, itself a contraction of {{ja-r|御%前|ご%-ぜん}}, an [[honorific]] form of [[address]].<ref name="KDJ"/><ref name="DJR"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=kanyoon|ぜ}}
+{{ja-pron|ぜ}}
 
 ====Suffix====
 {{ja-pos|ぜ|suffix}}
