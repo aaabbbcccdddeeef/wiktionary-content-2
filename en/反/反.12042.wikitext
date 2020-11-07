@@ -185,9 +185,14 @@ Cognate with {{och-l|販|to trade}}, which is an exoactive of {{och-l|反|to ret
 ===Etymology 1===
 From {{der|ko|ltc|-}} {{ltc-l|反|id=2}}. 
 
-{{hanja-dongguk|번〯|pen}} 
+{{collapse|
+* {{hanja-dongguk|번〯|pěn}} 
+* {{hanja-sinjeung|반|pan}}
+|Historical readings
+|bg=#FFFFFF}}
 
-{{hanja-sinjeung|반|pan}}
+====Pronunciation====
+{{ko-hanja-pron|반|pa̠ːn|alt=y}}
 
 ====Hanja====
 {{ko-hanja-search}}
@@ -224,12 +229,20 @@ From {{der|ko|ltc|-}} {{ltc-l|反|id=2}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{zh-l|*反}}.
+From {{der|ko|ltc|-}} {{ltc-l|反|id=1}}.
+
+{{collapse|
+* {{hanja-dongguk|펀|phen}}
+|Historical readings
+|bg=#FFFFFF}}
+
+====Pronunciation====
+{{ko-hanja-pron|번|pʌ̹n}}
 
 ====Hanja====
 {{ko-hanja|뒤집다|뒤집을|번}}
 
-# {{lb|ko|literary}} {{hanja form of|번|[[flip over]]}}
+# {{lb|ko|literary}} {{hanja form of|번|to [[flip over]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -247,7 +260,7 @@ Related to {{cog|ltc|-}} {{ltc-l|販}}.
 ====Hanja====
 {{ko-hanja|팔다|팔|판}}
 
-# {{alt form|ko|販||{{hanja form of|판|[[sell]]}}}}
+# {{alt form|ko|販||{{hanja form of|판|to [[sell]]}}}}
 
 ===References===
 * {{R:hanjadoc|1043}}
