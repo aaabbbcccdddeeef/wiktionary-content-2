@@ -26,53 +26,22 @@
 {{ja-readings
 |goon=よう<やう
 |kanon=えい
-|kun=さか-える<さか-ゆ, は-え, は-える<は-ゆ
-|nanori=さかえ, しげ, てる, なが, ひで, よし, え
+|kun=さか-える, は-え<は-え<は-𛀁, は-える
+|nanori=さか, さかえ, しげ, しげる, たか, てる, とも, なが, はる, ひさ, ひさし, ひで, ひろ ,まさ, よし
 }}
 
+====Compounds====
+* {{ja-r|弥%栄|いや%さか}}, {{ja-r|弥栄|やさか}}
+* {{ja-r|栄螺|サザエ}}
+* {{ja-r|見栄|みえ}}
+
 ===Etymology 1===
-
-====Noun====
-{{ja-noun|はえ}}
-
-# {{alternative form of|ja|栄え}}
-
-====Proper noun====
-{{ja-pos|proper|さかえ}}
-
-# {{given name|ja|male}}
-# {{surname|ja|sort=さかえ}}
-
-===Etymology 2===
-{{ja-kanjitab|ろん|yomi=irr}}
-{{wp|lang=ja|和了}}
-Borrowed from {{bor|ja|cmn|榮|tr=róng|sort=ろん}}
-
-====Pronunciation====
-{{ja-pron|yomi=irr|ロン}}
-
-====Noun====
-{{ja-noun|kyu=榮|ロン}}
-
-# {{lb|ja|mahjong|sort=ろん}} {{short for|ja|栄和|tr=ronh&omacr;|t=a win by picking up a discarded tile}}
-# {{lb|ja|mahjong|sort=ろん}} a call for such a win
-
-====Coordinate terms====
-* {{ja-r|自摸|ツモ}}
-
-===Etymology 3===
 {{ja-kanjitab|えい|yomi=kanon}}
+
 From {{der|ja|ltc|sort=えい|-}} {{ltc-l|榮}}.
 
-The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
-
 ====Pronunciation====
-{{ja-pron|えい|acc=1|acc_ref=DJR|y=kanon}}
-
-====Noun====
-{{ja-noun|えい|kyu=榮}}
-
-# {{lb|ja|literary}} [[honor]]; [[glory]]
+{{ja-pron|えい|acc=1|acc_ref=DJR}}
 
 ====Affix====
 {{ja-pos|affix|えい|kyu=榮}}
@@ -82,11 +51,58 @@ The ''[[漢音#Japanese|kan'on]]'' pronunciation, so likely a later borrowing.
 # {{lb|ja|of vegetation}} [[lush]]; [[luxuriant]]
 
 =====Derived terms=====
-{{der-top}}
-{{ja-r|栄養|えいよう}}: [[nutrition]]
+{{der-top3}}
+* {{ja-r|栄%華|えい%が}}
+* {{ja-r|栄%枯|えい%こ}}
+* {{ja-r|栄%光|えい%こう}}
+* {{ja-r|栄%誉|えい%よ}}
+* {{ja-r|栄%養|えい%よう}}, {{ja-r|栄養|えよう}}
+* {{ja-r|虚%栄|きょ%えい}}
+* {{ja-r|共%栄|きょう%えい}}
+* {{ja-r|光%栄|こう%えい}}
+* {{ja-r|清%栄|せい%えい}}
+* {{ja-r|盛%栄|せい%えい}}
+* {{ja-r|繁%栄|はん%えい}}
 {{der-bottom}}
+
+====Noun====
+{{ja-noun|えい|kyu=榮}}
+
+# {{lb|ja|literary}} [[honor]], [[glory]]
+#: {{syn|ja|誉れ|tr=homare}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|は|o1=え}}
+{{ja-see|栄え}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|さか|o1=え}}
+
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||stem or continuative from}} of verb {{m|ja|栄える|tr=sakaeru||to [[thrive]]}}.
+
+====Proper noun====
+{{ja-pos|proper|さかえ}}
+
+# {{given name|ja|male|A=a|sort=さかえ}}
+# {{surname|ja|A=a|nodot=1|sort=さかえ}}
+
+===Etymology 4===
+{{ja-kanjitab|ろん|yomi=irr}}
+{{wp|lang=ja|和了}}
+
+From {{bor|ja|cmn|sort=ろん|-}} {{zh-l|*榮|tr=róng}}.
+
+====Pronunciation====
+{{ja-pron|ロン}}
+
+====Noun====
+{{ja-noun|kyu=榮|ロン}}
+
+# {{lb|ja|sort=ろん|mahjong}} {{short for|ja|栄和|tr=ronhō|dot=:|sort=ろん}} a [[win]] by an [[opponent]]'s [[discard]]ed [[tile]]
+# {{lb|ja|mahjong}} a [[call]] for such a win
+
+====Coordinate terms====
+* {{ja-r|自摸|ツモ}}
 
 ===References===
 <references/>
-
-[[Category:Japanese male given names|さかえ]]
