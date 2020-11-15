@@ -292,9 +292,38 @@ Niederlausitz:
 ===Pronoun===
 {{head|gmw-ecg|pronoun}}
 
-# {{lb|gmw-ecg|Wasungen}} [[I]]
+# {{lb|gmw-ecg|Nord-Thüringisch|Wasungen}} [[I]]
 
 ====Declension====
+Nord-Thüringisch:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|iche}}, {{l|gmw-ecg|ich}};  || {{l|gmw-ecg|duu}}; {{l|gmw-ecg|de}} || {{l|gmw-ecg|hee}}; {{l|gmw-ecg|he}} || {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}
+|-
+! Dative
+| {{l|gmw-ecg|mich}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|dich}};  || {{l|gmw-ecg|een}}; {{l|gmw-ecg|'n}} || {{l|gmw-ecg|eer}}; {{l|gmw-ecg|er}} ||  ; {{l|gmw-ecg|'n}}
+|-
+! Accusative
+| {{l|gmw-ecg|mich}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|dich}};  || {{l|gmw-ecg|een}}; {{l|gmw-ecg|'n}} || {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|mie}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|die}}; {{l|gmw-ecg|de}} || colspan="3" | {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}}
+|-
+! Dative
+| {{l|gmw-ecg|uns}};  || {{l|gmw-ecg|uch}};  || colspan="3" |  ; {{l|gmw-ecg|'n}}
+|-
+! Accusative
+| {{l|gmw-ecg|uns}};  || {{l|gmw-ecg|uch}};  || colspan="3" | {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}}
+|}
+:Separated by semicolon are: ''strong/normal form ; weak/enclitic form''
+
+Wasungen:
 {| class="prettytable"
 ! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
 |-
@@ -328,7 +357,11 @@ Niederlausitz:
 |}
 
 ====References====
+* ''Idioticon der nord-thüringischen Mundart. – Den Bürgern Nordhausens gewidmet von Dr. Martin Schultze. &nbsp; Nordhausen. Verlag von Ferd. Förstemann. 1874''
 * ''Schriften des Vereins für Sachsen-Meiningische Geschichte und Landeskunde. 71. Heft. Inhalt: Die Wasunger Mundart, 2. Teil. Von Kirchenrat Edinhard Reichardt in Meiningen. &nbsp; Hildburghausen. F. W. Gadow & Sohn, Herzogliche Hofbuchdruckerei. 1914''
+
+====See also====
+* {{l|gmw-ecg|sich}} {{q|Nord-Thüringisch; reflexive pronoun}}
 
 ===See also===
 * {{l|gmw-ecg|ech}}, {{l|gmw-ecg|-'ch}}, {{l|gmw-ecg|'ch}}; {{l|gmw-ecg|mir}}, {{l|gmw-ecg|mer}}; {{l|gmw-ecg|mich}} {{q|Rudolstadt}}
