@@ -119,15 +119,45 @@
 
 ==Old Korean==
 
-===Verb===
-{{head|oko|verb|tr=*ho}}
+===Etymology 1===
+From the Middle Chinese reading {{ltc-l|乎}}.
 
-# to [[do]]
+====Phonogram====
+{{head|oko|phonogram|tr1=*-wo|tr2=*-hwo}}
 
-====Descendants====
-* {{desc|okm|ᄒᆞ다|tr=hota}}
-** {{desc|ko|하다}}
-* {{desc|jje|ᄒᆞ다|tr=hoada}}
+# {{non-gloss definition|A syllabic [[phonogram]] denoting either final syllable *-wo or *-hwo}}
+
+===Etymology 2===
+
+====Suffix====
+{{head|oko|suffix|tr=*-wo}}
+
+# {{non-gloss definition|A very common verbal suffix, in English called the "modulator" or the "volitive", whose primary meaning is heavily disputed. In the declarative mood, it appears to mark a first-person subject. In clauses subordinate to a noun phrase, it appears to mark a relationship in which the noun phrase is a direct or indirect object of the subordinate clause. However, this is not consistently the case.}}
+
+=====Descendants=====
+* {{desc|okm|오|tr=-wo|pos=yang-vowel modulator suffix}}
+* {{desc|okm|우|tr=-wu|pos=yin-vowel modulator suffix}}
+
+===Etymology 3===
+
+====Suffix====
+{{head|oko|suffix|tr=*-wo}}
+
+# {{non-gloss definition|An adverb-deriving suffix.}}
+
+=====Descendants=====
+* {{desc|okm|오|tr=-wo|pos=yang-vowel adverb-deriving suffix}}
+* {{desc|okm|우|tr=-wu|pos=yin-vowel adverb-deriving suffix}}
+
+===Etymology 4===
+
+====Verb====
+{{head|oko|verb form|tr=*h-wo}}
+
+# {{inflection of|oko|爲|tr=*ho(y)-|t=to do|4=Form with modulator suffix}}
+
+===References===
+* {{cite-book|author={{lang|ko|황선엽}} (Hwang Seon-yeop), {{lang|ko|이전경}} (Yi Jeon-gyeong), {{lang|ko|하귀녀}} (Ha Gwi-nyeo), {{lang|ko|이용}} (Yi Yong), {{lang|ko|박진호}} (Park Jin-ho), {{lang|ko|김성주}} (Kim Seong-ju), {{lang|ko|장경준}} (Jang Gyeong-jun), {{lang|ko|서민욱}} (Seo Min-uk), {{lang|ko|이지영}} (Yi Ji-yeong), {{lang|ko|서형국}} (Seo Hyeong-guk).|title={{lang|ko|석독구결사전/釋讀口訣辭典}}|trans-title=Dictionary of interpretive ''gugyeol''|publisher=Bakmunsa|year=2009|isbn=978-89-94024-04-2|pages=393—396}}
 
 ----
 
