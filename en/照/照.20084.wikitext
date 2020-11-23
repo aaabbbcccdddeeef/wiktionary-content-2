@@ -83,24 +83,59 @@ Exoactive of {{och-l|昭|bright}} ({{zh-ref|Schuessler, 2007}}).
 ===Kanji===
 {{ja-kanji|grade=4|rs=火09}}
 
-# to [[illuminate]]; to [[shine]]
-
 ====Readings====
 {{ja-readings
 |goon=しょう<せう
 |kanon=しょう<せう
-|kun=て-る, て-り, て-らす, て-らし, て-れる, て-れ
-|nanori=あき, あきら, あり, てらし, てらす, てり, てる, とし, のぶ, みつ
+|kun=て-る, て-らす, て-れる
+|nanori=あき, あきら, あり, てり, とし, のぶ, みつ
 }}
 
 ====Compounds====
-* {{ja-r|照%会|しょう%かい}}: [[inquiry]]; [[reference]]
-* {{ja-r|照%合|しょう%ごう}}: [[collation]]; [[comparison]]
-* {{ja-r|照%射|しょう%しゃ}}: [[irradiation]]; [[exposure]] to [[light]]
-* {{ja-r|照%準|しょう%じゅん}}: to [[set#Verb|set]] one's [[sight]]; to [[aim#Verb|aim]]
-* {{ja-r|照%明|しょう%めい}}: [[illumination]]; [[lighting]]
+* {{ja-r|天%照|^あま%てらす}}
 
-===Proper noun===
+===Etymology 1===
+{{ja-kanjitab|しょう|yomi=o}}
+{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕʲoː/}}
+
+From {{der|ja|ltc|sort=しよう|-}} {{ltc-l|照}}.
+
+====Affix====
+{{ja-pos|affix|しょう|hhira=せう}}
+
+# [[illuminate]], [[shine#Verb|shine]]
+# [[sunlight]]
+# [[compare]]
+# [[photograph]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|照%影|しょう%えい}}
+* {{ja-r|照%応|しょう%おう}}
+* {{ja-r|照%会|しょう%かい}}
+* {{ja-r|照%合|しょう%ごう}}
+* {{ja-r|照%射|しょう%しゃ}}
+* {{ja-r|照%準|しょう%じゅん}}
+* {{ja-r|照%明|しょう%めい}}
+* {{ja-r|照%覧|しょう%らん}}
+* {{ja-r|観%照|かん%しょう}}
+* {{ja-r|参%照|さん%しょう}}
+* {{ja-r|残%照|ざん%しょう}}
+* {{ja-r|小%照|しょう%しょう}}
+* {{ja-r|前%照%灯|ぜん%しょう%とう}}
+* {{ja-r|対%照|たい%しょう}}
+* {{ja-r|探%照%灯|たん%しょう%とう}}
+* {{ja-r|晩%照|ばん%しょう}}
+* {{ja-r|返%照|へん%しょう}}
+* {{ja-r|遍%照|へん%じょう}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|て|o1=らし|yomi=k}}
+
+Nominalization of {{m|ja|照らし|tr=terashi}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|照らす|tr=terasu||to [[shine]]}}.
+
+====Proper noun====
 {{ja-pos|proper|てらし}}
 
 # {{given name|ja|sort=てらし|male}}
