@@ -56,20 +56,44 @@
 ===Kanji===
 {{ja-kanji|grade=3|rs=日05}}
 
-# [[shining]]
-
 ====Readings====
 {{ja-readings
 |goon=しょう<せう
 |kanon=しょう<せう
 |kun=あき-らか
-|nanori=あき, あきら, かず, かずみ, てる
+|nanori=あき, あきら, いか, かず, てる, はる
 }}
 
-===Proper noun===
-{{ja-pos|あきら|proper}}
+===Etymology 1===
+{{ja-kanjitab|しょう|yomi=o}}
+{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕʲoː/}}
 
-# {{given name|ja|male|sort=あきら}}
+From {{der|ja|ltc|sort=しよう|-}} {{ltc-l|昭}}.
+
+====Affix====
+{{ja-pos|affix|しょう|hhira=せう}}
+
+# [[bright]]
+# [[enlightened]], [[glorious]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|昭%昭|しょう%しょう}}
+* {{ja-r|昭%然|しょう%ぜん}}
+* {{ja-r|昭%代|しょう%だい}}
+* {{ja-r|昭%穆|しょう%ぼく}}
+* {{ja-r|昭%和|^しょう%わ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|あき|o1=ら}}
+
+Nominalization of the stem of adjective {{m|ja|明らか|tr=akiraka||[[clear]], [[visible]]}}.
+
+====Proper noun====
+{{ja-pos|proper|あきら}}
+
+# {{given name|ja|male|A=a|sort=あきら}}
 
 ----
 
