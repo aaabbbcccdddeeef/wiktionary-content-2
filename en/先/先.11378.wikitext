@@ -392,7 +392,13 @@ From {{der|ja|ltc|-|sort=せん}} {{ltc-l|先}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|先}}. {{hanja-sinjeung|션|syen}}
+From {{der|ko|ltc|sort=선|-}} {{ltc-l|先|id=1}}.
+
+{{collapse|
+* {{hanja-dongguk|션|syen}}
+* {{hanja-sinjeung|션|syen|hun=몬져 션}}
+|Historical readings
+|bg=#FFFFFF}}
 
 ====Pronunciation====
 {{ko-hanja-pron|선}}
@@ -448,7 +454,7 @@ From {{der|ko|ltc|-}} {{ltc-l|先}}. {{hanja-sinjeung|션|syen}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{zh-l|*先}} / {{ltc-l|洗|id=1}}.
+Related to {{cog|ltc|-}} {{ltc-l|洗|id=1}}.
 
 ====Hanja====
 {{ko-hanja|[[전구]]([[前驅]])|세}}
@@ -457,7 +463,7 @@ From {{der|ko|ltc|-}} {{zh-l|*先}} / {{ltc-l|洗|id=1}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|[[세마]]|[[先馬]]/[[洗馬]]}}
+* {{ko-l|[[세마]]|先馬/洗馬}}
 {{der-bottom}}
 
 ===References===
