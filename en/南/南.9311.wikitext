@@ -275,7 +275,15 @@ From {{bor|ja|cmn|sort=なん|南|tr=nán}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|南}}. {{hanja-hunmong|남|nam|人類#중04A}}
+From {{der|ko|ltc|sort=남|-}} {{ltc-l|南}}.
+
+{{collapse|
+* {{hanja-dongguk|남|nam}}
+* {{hanja-hunmong|남|nam|人類#중04A|hun=앏 남}}
+* {{hanja-gwangju|남|nam|hun=앏 남}}
+* {{hanja-sinjeung|남|nam|hun=남녁 남/앏 남}}
+|Historical readings
+|bg=#FFFFFF}}
 
 ====Pronunciation====
 {{ko-hanja-pron|남}}
@@ -288,15 +296,18 @@ From {{der|ko|ltc|-}} {{ltc-l|南}}. {{hanja-hunmong|남|nam|人類#중04A}}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ko-l|^남한|{{q|South Korea}} [[South Korea]]|南韓}}
-* {{ko-l|남극|[[South Pole]]|南極}}
-* {{ko-l|남부|[[southern]] part, southern [[area]]|南部}}
-* {{ko-l|^월남|[[Vietnam]]|越南}}
-* {{ko-l|^강남|[[Gangnam]]|江南}}
-* {{ko-l|^남반구|[[Southern Hemisphere]]|南半球}}
+* {{ko-l|^남한|南韓}}
+* {{ko-l|남극|南極}}
+* {{ko-l|남부|南部}}
+* {{ko-l|^월남|越南}}
+* {{ko-l|^강남|江南}}
+* {{ko-l|^남반구|南半球}}
 {{der-bottom}}
 
 ===Etymology 2===
+
+====Pronunciation====
+{{ko-hanja-pron|나}}
 
 ====Hanja====
 {{ko-hanja|나무|나}}
