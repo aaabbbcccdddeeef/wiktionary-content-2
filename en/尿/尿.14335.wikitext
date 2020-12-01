@@ -101,95 +101,143 @@ Related to {{cog|tai-pro|*niəwᴮ||urine}} ({{zh-ref|Schuessler, 2007}}).
 {{ja-readings
 |goon=にょう<ねう
 |kanon=じょう<でう
-|kun=ゆまり-, ゆばり-, いばり-, ばり-
+|kun=ゆまり-, ゆばり-, よばり, いばり-, ばり-, し, しし, しい, しと
 }}
 
 ===Etymology 1===
-Compound of {{m|ja|湯|tr=yu||warm water}} + the nominalization of the verb {{m|ja|放る|tr=maru||excrete}}.
+{{ja-kanjitab|yomi=k|ゆまり}}
+
+Compound of {{compound|ja|sort=ゆまり|湯|tr1=yu|t1=[[warm]] [[water]]|放り|tr2=mari|t2=[[excretion]]}}, the  {{ja-etym-renyokei|放る|まる|to excrete}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="DJR"/>
+
+First cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ゆまり}}
+{{ja-pron|ゆまり}}
 
 ====Noun====
 {{ja-noun|ゆまり}}
 
-# [[urine]]
+# {{defdate|720–???}} {{lb|ja|sort=ゆまり|archaic|possibly|_|obsolete}} [[urine]]
 
 ===Etymology 2===
-From {{m|ja|尿|tr=yumari}}. Bilabial nasal /m/ loses nasality becoming /b/.
+{{ja-kanjitab|yomi=k|ゆばり}}
+
+{{IPAchar|/jumari/}} → {{IPAchar|/jubari/}}
+
+From {{m|ja|尿|tr=yumari}}. Bilabial nasal {{IPAchar|/m/}} loses nasality, becoming {{IPAchar|/b/}}. Likely due to [[lexicalization]] of the term, and a loss of awareness of the origins of the ''mari'' portion.<ref name="KDJ"/>
+
+First cited to the ''{{w|Wamyō Ruijushō}} of roughly 934 {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ゆばり}}
+{{ja-pron|ゆばり|acc_ref=NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|ゆばり}}
 
-# [[urine]]
+# {{defdate|from 934}} [[urine]]
 
 ===Etymology 3===
-From {{m|ja|尿|tr=yubari}}. Initial /yu/ > */yi/ > /i/.
+{{ja-kanjitab|yomi=k|いばり}}
+
+{{IPAchar|/jumari/}} → {{IPAchar|/jubari/}} → *{{IPAchar|/jʉbari/}} → {{IPAchar|/ibari/}}
+
+Shift from {{m|ja|尿|tr=yubari}}.<ref name="KDJ"/><ref name="DJR"/>
+
+Appears in a text from roughly 950 {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|いばり}}
+{{ja-pron|いばり|acc=0|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|いばり}}
 
-# [[urine]]
+# {{defdate|from 950}} [[urine]]
 
 ===Etymology 4===
-From {{m|ja|尿|tr=yubari}}, with the initial /yu/ dropping off.
+{{ja-kanjitab|yomi=k|ばり}}
+
+Shortening of ''yubari''<ref name="KDJ"/><ref name="DJS"/><ref name="DJR"/> or ''ibari''.<ref name="KDJ"/><ref name="DJS"/><ref name="SMK5"/>
+
+First cited to the early 1300s.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ばり}}
+{{ja-pron|ばり|acc=1|acc_ref=SMK5}}
 
 ====Noun====
 {{ja-noun|ばり}}
 
-# [[urine]]
+# {{defdate|from early 1300s}} [[urine]]
 
 ===Etymology 5===
+{{ja-kanjitab|yomi=k|しと}}
+
+{{unk|ja|sort=しと}}.  Possibly [[onomatopoeia]].
+
+First cited to the ''{{w|Utsubo Monogatari}}'' of roughly 999 {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しと}}
+{{ja-pron|しと}}
 
 ====Noun====
 {{ja-noun|しと}}
 
-# [[urine]]
+# {{defdate|999–???}} {{lb|ja|sort=しと|archaic}} [[urine]]
 
 ===Etymology 6===
-Cognate with {{m|ja|尿|tr=shito}} and {{m|ja|尿|tr=shii}}.
+{{ja-kanjitab|yomi=k|しし}}
+
+From [[baby talk]], as a [[reduplication]] of the initial ''shi-'' in ''shito''.<ref name="KDJ"/><ref name="DJS"/><ref name="DJR"/>
+
+First cited to a text from the late {{w|Muromachi period}} (late 1500s).<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しし}}
+{{ja-pron|しし}}
 
 ====Noun====
 {{ja-noun|しし}}
 
-# [[urine]]
+# {{defdate|late 1500s–???}} {{lb|ja|sort=しし|archaic|childish}} [[urine]]
 
 ===Etymology 7===
-Cognate with {{m|ja|尿|tr=shito}} and {{m|ja|尿|tr=shishi}}.
+{{ja-kanjitab|yomi=k|しい}}
+
+{{IPAchar|/ɕito/}} → {{IPAchar|/ɕi/}} → {{IPAchar|/ɕiː/}}
+
+From [[baby talk]].<ref name="KDJ"/><ref name="DJS"/><ref name="DJR"/>  From ''shito'', formed by dropping the second syllable and lengthening the vowel.<ref name="KDJ"/><ref name="DJS"/>  
+
+{{IPAchar|/ɕiɕi/}} → {{IPAchar|/ɕiːɕiː/}} → {{IPAchar|/ɕiː/}}
+
+Alternatively, from ''shishi'', formed by lengthening the vowel and dropping the second syllable.<ref name="DJS"/>
+
+First cited to a text from the late 1700s.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しい}}
+{{ja-pron|しい}}
 
 ====Noun====
 {{ja-noun|しい}}
 
-# [[urine]]
+# {{defdate|late 1700s–???}} {{lb|ja|sort=しい|archaic|childish}} [[urine]]
 
 ===Etymology 8===
-/neu/ > [njoː].
+{{ja-kanjitab|yomi=goon|にょう|alt=溺}}
+
+{{IPAchar|/neu/}} → {{IPAchar|/njoː/}}
+
+Ultimately from {{der|ja|ltc|sort=にょう|-}} {{ltc-l|尿|urine}}.
+
+First cited to a text from 1275.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|にょう}}
+{{ja-pron|にょう|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|にょう|hhira=ねう}}
 
-# [[urine]]
+# {{defdate|from 1275}} [[urine]]
+
+===References===
+<references/>
 
 ----
 
