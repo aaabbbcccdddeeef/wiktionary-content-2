@@ -237,15 +237,14 @@ From {{inh|zh|sit-pro|*m-twa||handspan}}. Cognate with {{cog|bo|མཐོ||span;
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|度|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|똥〮|ttwó}}
-* {{hanja-hunmong|도〯|twǒ|雜語|hun=법〮돗〯 도〯}}
-* {{hanja-sinjeung|&nbsp;도|two|hun=댱ᄯᅢ 도}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=도|-}} {{ltc-l|度|id=1}}. 
+{{hanja-ety
+|dk={{hanja-dongguk|똥〮|ttwó|i=y}}
+|m={{hanja-hunmong|도〯|twǒ|雜語#하26B}}
+|mh=법〮돗〯 도〯
+|m2={{hanja-sinjeung|&nbsp;도|two}}
+|m2h=댱ᄯᅢ 도
+}}
 ====Pronunciation====
 {{ko-hanja-pron|도|l=y}}
 
@@ -301,14 +300,12 @@ From {{der|ko|ltc|-}} {{ltc-l|度|id=1}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|度|id=2}}. 
-
-{{collapse|
-* {{hanja-dongguk|딱〮|tták}}
-* {{hanja-sinjeung|탁|thak|hun=혜아릴 탁}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=탁|-}} {{ltc-l|度|id=2}}. 
+{{hanja-ety
+|dk={{hanja-dongguk|딱〮|tták}}
+|m={{hanja-sinjeung|탁|thak}}
+|mh=혜아릴 탁
+}}
 ====Pronunciation====
 {{ko-hanja-pron|탁}}
 
