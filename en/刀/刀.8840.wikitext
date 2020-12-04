@@ -130,34 +130,28 @@ From {{der|zh|en|dollar|'''do'''llar}}.
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|かたな}}
-Compound of {{compound|ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=edge|tr2=na}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Compound of {{compound|ja|sort=かたな|片|t1=one side|tr1=kata|な|t2=edge|tr2=na}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  This ''na'' element is spelled in monolingual Japanese sources as {{m|ja|刃||edge, blade}}, but there is no historical attestation for any ''na'' reading for this character.
+
+First cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|y=k|acc=3|acc2=2|かたな}}
+{{ja-pron|かたな|acc=3|acc_ref=DJR,NHK,SMK5|acc2=2|acc2_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|かたな}}
 
-# {{lb|ja|sort=かたな|weapons}} a single-[[edge]]d [[sword]], such as a [[katana]]
+# {{defdate|from 720}} {{lb|ja|sort=かたな|weapons}} a single-[[edge]]d [[sword]], such as a [[katana]]
 #* {{quote-book|ja
 |||Vol.5
 |||date=Sep 23 1999
 |publisher={{w|Konami}}
 |chapter={{lj|[鎧](よろい)[武](む)[者](しゃ)ゾンビ}}
 |trans-chapter=Armored Musha Zombie}}
-#*: {{ja-usex|怨%念により蘇った武%者。闇%雲にふりまわす'''カタナ'''に注%意。|おん%ねん に より よみがえった む%しゃ。やみ%くも に ふりまわす '''カタナ''' に ちゅう%い。|A musha reanimated by deep hatred. Watch out when he brandishes his katana.}}
-# a small single-edged [[blade]]
-
-=====Synonyms=====
-* {{sense|small blade}} {{ja-r|切れ物|きれもの}}
-
-=====Coordinate terms=====
-* {{ja-r|脇%差|わき%ざし}} traditional Japanese [[shortsword]] (30cm to 60cm)
-* {{ja-r|短%刀|たん%とう}} traditional Japanese [[knife]] or [[dagger]] (30cm and shorter)
-* {{ja-r|大%小|だい%しょう}}: “big and small”: the ''katana'' and ''wakizashi'' as a [[set]]
-
-=====Related terms=====
-* {{sense|sword, two-edged}} {{ja-r|剣|つるぎ}}
+#*: {{ja-usex|怨%念により蘇った武%者。闇%雲にふりまわす'''カタナ'''に注%意。|おん%ねん に より よみがえった む%しゃ。やみ%くも に ふりまわす '''カタナ''' に ちゅう%い。|A musha reanimated by deep hatred. Watch out when he brandishes his '''katana'''.}}
+#: {{coordinate terms|ja|剣|tr1=tsurugi|t=double-edged sword|脇差|tr2=wakizashi|t2=traditional Japanese [[shortsword]]|短刀|tr3=tantō|t3=traditional Japanese [[knife]] or [[dagger]]|大小|tr4=daishō|t4=“big and small”: the ''katana'' and ''wakizashi'' as a [[set]]}}
+# {{defdate|from 934}} a small single-edged [[blade]]
+#: {{synonyms|ja|切れ物|tr1=kiremono}}
 
 =====Derived terms=====
 {{der-top}}
@@ -176,23 +170,31 @@ Compound of {{compound|ja|sort=かたな|片|t1=one side|tr1=kata|刃|t2=edge|tr
 {{der-bottom}}
 
 ===Etymology 2===
-{{ja-kanjitab|とう|yomi=o}}
-From {{der|ja|ltc|-|sort=とう}} {{m|ltc|刀|tr=taw}}. Compare modern {{cog|cmn|刀|tr=dāo}}.
+{{ja-kanjitab|とう|yomi=kanon}}
+
+{{IPAchar|/tau/}} → {{IPAchar|/tɔː/}} → {{IPAchar|/toː/}}
+
+Ultimately from {{der|ja|ltc|sort=とう|-}} {{ltc-l|刀}}. Compare modern {{cog|cmn|刀|tr=dāo}}.
+
+First cited as an independent noun to a text from 1895.<ref name="KDJ"/>  Cited in compounds since at least the 800s {{CE}}.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|とう|acc=a|y=o}}
+{{ja-pron|とう|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Affix====
+{{ja-pos|affix|とう|hhira=たう}}
+
+# {{defdate|from 800s}} [[sword]], [[knife]], [[blade]]
 
 ====Noun====
 {{ja-noun|とう|hhira=たう}}
 
-# a [[sword]], a [[katana]]
-# a [[scalpel]], such as that used by a [[surgeon]]
-# a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]
-
-=====Synonyms=====
-* {{sense|sword in general}} {{ja-r|刀剣|とうけん}}
-* {{sense|scalpel}} {{ja-r|メス|}}
-* {{sense|Chinese money}} {{ja-r|刀銭|とうせん|rom=-}}, {{ja-r|刀泉|とうせん}}
+# {{defdate|from 1908}} a [[sword]], a [[katana]]
+#: {{synonyms|ja|刀|tr1=katana|刀剣|tr2=tōken}}
+# {{defdate|from 1895}} a [[scalpel]], such as that used by a [[surgeon]]
+#: {{synonyms|ja|メス|tr1=mesu}}
+# {{defdate|from 1913}} a kind of [[bronze]] or [[copper]] [[money]] in ancient China, shaped a bit like a [[sword]]
+#: {{synonyms|ja|刀銭|tr1=tōsen|刀泉|tr2=tōsen}}
 
 =====Derived terms=====
 {{der-top}}
