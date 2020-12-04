@@ -173,8 +173,15 @@ Unknown, probably a {{Han compound|丙|攴|ls=psc|c1=p|c2=s|nocap=yes}} accordin
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|更|id=2}}. {{hanja-sinjeung|ᄀᆡᆼ|koyng|hun=다시 ᄀᆡᆼ 去聲}}
-
+From {{der|ko|ltc|sort=갱|-}} {{ltc-l|更|id=2}}.
+{{hanja-ety
+|dk={{hanja-dongguk|ᄀᆡᇰ〮|kóyng}}
+|m={{hanja-sinjeung|ᄀᆡᆼ|koyng}}
+|mh=다시 ᄀᆡᆼ<ref>去聲</ref>
+|em={{hanja-juhae|ᄀᆡᆼ|koyng}}
+|emun=다시 ᄀᆡᆼ
+|ref=<references/>
+}}
 ====Pronunciation====
 {{ko-hanja-pron|갱|l=y}}
 
@@ -192,8 +199,14 @@ From {{der|ko|ltc|-}} {{ltc-l|更|id=2}}. {{hanja-sinjeung|ᄀᆡᆼ|koyng|hun=�
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|更|id=1}}. {{hanja-sinjeung|ᄀᆡᆼ|koyng|hun=고틸 ᄀᆡᆼ}}
-
+From {{der|ko|ltc|sort=경|-}} {{ltc-l|更|id=1}}.
+{{hanja-ety
+|dk={{hanja-dongguk|ᄀᆡᇰ|kòyng}}
+|m={{hanja-sinjeung|ᄀᆡᆼ|koyng}}
+|mh=고틸 ᄀᆡᆼ
+|em={{hanja-juhae|경|kyeng}}
+|emun=고칠 경
+}}
 ====Pronunciation====
 {{ko-hanja-pron|경}}
 
