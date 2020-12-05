@@ -238,14 +238,14 @@ Alternatively, this may be the original character for {{och-l|鞭|to whip}}, fro
 
 ===Etymology 1===
 From {{der|ko|ltc|sort=편|-}} {{ltc-l|便|id=1|comfortable}}.
-
-{{collapse|
-* {{hanja-dongguk|뼌|ppyen}}
-* {{hanja-hunmong|편|phyen|身體#상30B|hun=오좀〮 편}}
-* {{hanja-sinjeung|편|phyen|hun=편안 편 平聲}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{hanja-dongguk|뼌|ppyèn}}
+|m={{hanja-hunmong|편|phyen|身體#상30B}}
+|mh=오좀〮 편
+|m2={{hanja-sinjeung|편|phyen}}
+|m2h=편안 편<ref>平聲</ref>
+|ref=<references/>
+}}
 ====Pronunciation====
 * {{sense|convenience; etc.}} {{ko-hanja-pron|편}}
 * {{sense|in {{ko-l|편지|便紙}}}} {{ko-hanja-pron|편|l=y}}
@@ -285,13 +285,11 @@ From {{der|ko|ltc|sort=편|-}} {{ltc-l|便|id=1|comfortable}}.
 
 ===Etymology 2===
 From {{der|ko|ltc|sort=변|-}} {{ltc-l|便|id=2|human waste}}. 
-
-{{collapse|
-* {{hanja-dongguk|뼌〮|ppyén}}
-* {{hanja-sinjeung|변|pyen|hun=쟉 마ᄌᆞᆯ 변}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{hanja-dongguk|뼌〮|ppyén}}
+|m={{hanja-sinjeung|변|pyen}}
+|mh=쟉 마ᄌᆞᆯ 변
+}}
 ====Pronunciation====
 {{ko-hanja-pron|변}}
 
