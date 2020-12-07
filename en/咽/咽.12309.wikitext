@@ -150,15 +150,14 @@ From {{der|ja|ltc|sort=えん|-}} {{zh-l|*咽}} / {{ltc-l|嚥}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|咽|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅙᅧᆫ|qyen}}
-* {{hanja-hunmong|연|yen|身體#상26B|hun=목ᄭᅮ무 연}}
-* {{hanja-sinjeung|연|yen|hun=식구무 연}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=인|-}} {{ltc-l|咽|id=1}}. 
+{{hanja-ety
+|dk={{hanja-dongguk|ᅙᅧᆫ|qyèn}}
+|m={{hanja-hunmong|연|yèn|身體#상26B}}
+|mh=[[목구무|목ᄭᅮ무]] 연
+|m2={{hanja-sinjeung|연|yen}}
+|m2h=[[식구무]] 연
+}}
 ====Pronunciation====
 {{ko-hanja-pron|인}}
 
@@ -179,14 +178,12 @@ From {{der|ko|ltc|-}} {{ltc-l|咽|id=1}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|咽|id=3}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅙᅧᇙ〮|qyélq}}
-* {{hanja-sinjeung|열|yel|hun=목몔 열}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=열|-}} {{ltc-l|咽|id=3}}. 
+{{hanja-ety
+|dk={{hanja-dongguk|ᅙᅧᇙ〮|qyélq}}
+|m={{hanja-sinjeung|열|yel}}
+|mh=[[목몌다|목몔]] 열
+}}
 ====Pronunciation====
 {{ko-hanja-pron|열}}
 
@@ -210,7 +207,7 @@ Related to {{cog|ltc|-}} {{ltc-l|嚥}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|연하|[[swallowing]]|[[嚥下]]/[[咽下]]}}
+* {{ko-l|연하|[[swallowing]]|嚥下/咽下}}
 {{der-bottom}}
 
 ===References===
