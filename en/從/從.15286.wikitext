@@ -194,13 +194,13 @@ Pronunciation 2 is a derivation of pronunciation 1.
 
 ===Etymology 1===
 From {{der|ko|ltc|sort=종|-}} {{ltc-l|從|id=1}}.
-
-{{collapse|
-* {{hanja-dongguk|쬬ᇰ|ccyong}}
-* {{hanja-sinjeung|죵|cyong|hun=조ᄎᆞᆯ 죵}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{hanja-dongguk|쬬ᇰ|ccyòng}}
+|m={{hanja-sinjeung|죵|cyong}}
+|mh=[[좇다|조ᄎᆞᆯ]] 죵
+|em={{hanja-juhae|죵|cyong}}
+|emun=[[좇다|조ᄎᆞᆯ]] 죵
+}}
 ====Pronunciation====
 {{ko-hanja-pron|종}}
 
@@ -245,12 +245,11 @@ From {{der|ko|ltc|sort=종|-}} {{ltc-l|從|id=1}}.
 
 ===Etymology 2===
 From {{der|ko|ltc|sort=종|-}} {{ltc-l|從|id=3}}.
-
-{{collapse|
-* {{hanja-dongguk|쬬ᇰ〮|ccyóng}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{hanja-dongguk|쬬ᇰ〮|ccyóng}}
+|em={{hanja-juhae|죵|cyong}}
+|emun=결ᄂᆡ 죵
+}}
 ====Pronunciation====
 {{ko-hanja-pron|종|l=y}}
 
