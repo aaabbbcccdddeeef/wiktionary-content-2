@@ -137,12 +137,12 @@ From {{der|ja|ltc|sort=そく|-}} {{ltc-l|則|rule}}.
 
 ===Etymology 1===
 From a [[속음|corrupted or unorthodox reading]]. The [[본음|original reading]] is {{ko-l|즉}} based on [[Middle Chinese]] {{ltc-l|則}}. 
-
-{{collapse|
-* {{hanja-gwangju|즉|cuk|hun=법즉 즉}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|m={{hanja-gwangju|즉|cuk}}
+|mh=[[법즉]] 즉
+|em={{hanja-juhae|즉|cuk}}
+|emun=[[법]] 즉
+}}
 ====Pronunciation====
 {{ko-hanja-pron|칙}}
 
@@ -178,13 +178,12 @@ From a [[속음|corrupted or unorthodox reading]]. The [[본음|original reading
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|則}}.
-
-{{collapse|
-* {{hanja-dongguk|즉〮|cúk}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=즉|-}} {{ltc-l|則}}.
+{{hanja-ety
+|dk={{hanja-dongguk|즉〮|cúk}}
+|em={{hanja-juhae|즉|cuk}}
+|emun=[[곧|곳]] 즉
+}}
 ====Pronunciation====
 {{ko-hanja-pron|즉}}
 
