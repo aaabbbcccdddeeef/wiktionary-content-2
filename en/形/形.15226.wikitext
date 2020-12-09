@@ -100,8 +100,7 @@ It may also be interpreted as a {{Han compound|井|彡|ls=psc|c1=p|c2=s|nocap=y}
 Probably related to {{ja-l|堅い}} / {{ja-l|硬い}} / {{ja-l|固い||katai}}, {{m|en|hard}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|ja|/ka.ta/|[ka̠ta̠]}}
+* {{ja-pron|かた|acc=h|y=k}}
 
 ====Alternative forms====
 * {{ja-l|型}}
@@ -120,7 +119,7 @@ Derived from ''kata'' above. {{rendaku2|sort=かた'|kata|gata}} Only found in c
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|ja|/ɡa.ta/|[ɡa̠ta̠]|[ŋa̠ta̠]}}
+** {{IPA|ja|/ɡa.ta/|[ɡa̠ta̠]|[ŋa̠ta̠]}}
 
 ====Alternative forms====
 * {{ja-l|型}}
@@ -142,8 +141,7 @@ For a [[shape]], the spelling {{l|ja|形}} is more commonly used. For a [[type]]
 Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{m|en|stencil}}. {{rendaku2|sort=かたぎ|ki|gi}}
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|ja|/ka.ta.ɡi/|[ka̠ta̠ɡi]}}
+{{ja-pron|かたぎ|acc=2|y=k}}
 
 ====Alternative forms====
 * {{ja-l|気質}}
@@ -166,8 +164,7 @@ Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|ja|sort=�
 {{unk|ja|sort=かたち}}. Appears to be {{IPAchar|/kata/}} + {{IPAchar|/chi/}}, but the derivation of the {{IPAchar|/chi/}} element is unclear.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|ja|/ka.ta.t͡ɕi/|[ka̠ta̠t͡ɕi]}}
+{{ja-pron|かたち|acc=h|y=k}}
 
 ====Alternative forms====
 * {{ja-l|容}}
@@ -185,7 +182,7 @@ From {{etyl|ltc|ja|sort=けい}} {{m|ltc|形|tr=heng}}. Compare modern {{cog|cmn
 
 ====Pronunciation====
 * {{l|ja|sc=Latn|音読み|On'yomi}}: {{m|ja|漢音|sc=Latn|Kan'on}}
-* {{IPA|ja|/ke.e/|[ke̞ː]}}
+** {{IPA|ja|/ke.e/|[ke̞ː]}}
 
 ====Suffix====
 {{ja-pos|suffix|けい}}
@@ -202,8 +199,7 @@ From {{etyl|ltc|ja|sort=けい}} {{m|ltc|形|tr=heng}}. Compare modern {{cog|cmn
 From {{ja-l|成り||nari}}, the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] form}} of the verb {{m|ja|成る|tr=naru||to become}}.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-* {{IPA|ja|/na.ri/|[na̠ɽi]}}
+{{ja-pron|なり|acc=o|y=k}}
 
 ====Usage notes====
 The most common spelling for this use is {{ja-l|なり}}, for all parts of speech.
@@ -226,6 +222,13 @@ The most common spelling for this use is {{ja-l|なり}}, for all parts of speec
 #: {{ja-usex|自%分'''なり'''の判%断|じ%ぶん '''なり''' の はん%だん|my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
 # following a noun, indicates that [[shape]] or [[form]]: compare English {{m|en|like}}
 #: {{ja-usex|弓'''なり'''になる|ゆみ '''なり''' に なる|to become bow-'''shaped''' / to become '''like''' a bow}}
+
+===Etymology 7===
+Derived from ''nari'' above.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+** {{IPA|ja|/na.ɾi/|[na̠ɾi]}}
 
 ====Suffix====
 {{ja-pos|なり|suffix}}
