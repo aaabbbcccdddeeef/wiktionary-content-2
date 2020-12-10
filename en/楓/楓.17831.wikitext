@@ -81,14 +81,16 @@
 {{wikipedia|Maple}}
 [[File:Acer_palmatum_002.JPG|thumb|250px|{{lang|ja|楓}} (''kaede''): '''[[maple]]''' leaves and seeds.]]
 </div>
-{{ja-kanjitab|yomi=k|かえで}}
+{{ja-kanjitab|yomi=k|かえで|alt=槭,槭樹}}
+
+{{IPAchar|/kaperu te/}} → {{IPAchar|/kaperude/}} → {{IPAchar|/kaferude/}} → {{IPAchar|/kafede/}} → {{IPAchar|/kaede/}}
+
+From {{inh|ja|ojp|sort=かえで|かへるて}}, as this word first appears in the ''{{w|Man'yōshū}}'' of 759 {{CE}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref>{{RQ:Man'yōshū|8|1623}}, text online [http://jti.lib.virginia.edu/japanese/manyoshu/Man8Yos.html#1623 here]</ref>
+
 Originally a compound of {{compound|ja|sort=かえで|蛙|tr1=kaeru|t1=frog|手|tr2=te|t2=hand}}, with the ''te'' changing to ''de'' due to {{rendaku|かえで}}, and the ''ru'' dropping out over time. From the way the [[palmate]] leaves resemble a frog's foot.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かえで|acc=0|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|槭}}, {{l|ja|槭樹}}
+{{ja-pron|かえで|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|かえで|hhira=かへで}}
@@ -114,15 +116,18 @@ Originally a compound of {{compound|ja|sort=かえで|蛙|tr1=kaeru|t1=frog|手|
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|かいで}}
+
+{{IPAchar|/kaede/}} → {{IPAchar|/kaide/}}
+
 Shift in pronunciation of ''kaede''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かいで}}
+{{ja-pron|かいで}}
 
 ====Noun====
 {{ja-noun|かいで}}
 
-# {{lb|ja|sort=かいで|uncommon}} alternative for ''kaede'' above: the [[maple]] tree
+# {{lb|ja|sort=かいで|uncommon|possibly|_|obsolete}} alternative for ''kaede'' above: the [[maple]] tree
 
 ===Etymology 3===
 <div style="float:right;">
@@ -131,10 +136,11 @@ Shift in pronunciation of ''kaede''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 [[File:Cercidiphyllum_japonicum2.jpg|thumb|250px|{{lang|ja|楓}} (''katsura''): '''[[katsura]]''' leaves and seeds.]]
 </div>
 {{ja-kanjitab|yomi=k|かつら}}
+
 From {{inh|ja|ojp|-|sort=かつら}}. Less common spelling for {{m|ja|桂|tr=''katsura''}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|かつら|acc=0|acc_ref=DJR}}
+{{ja-pron|かつら|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|かつら}}
@@ -149,10 +155,11 @@ The ''katsura'' reading is rare for this kanji. When referring to the ''katsura'
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=k|おかつら}}
+
 From {{inh|ja|ojp|-|sort=おかつら}}. Alternate spelling for {{m|ja|男桂|tr=okatsura||male katsura}}, an archaic name for the katsura tree.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare {{m|ja|女桂|tr=mekatsura||female katsura: the cinnamon tree}}. Appears with this reading in the {{m|ja|和名類聚抄|tr={{w|Wamyō Ruijushō}}}}, a Japanese dictionary of Chinese characters completed in 938.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|おかつら}}
+{{ja-pron|おかつら}}
 
 ====Noun====
 {{ja-noun|おかつら|hhira=をかつら}} {{ja-altread|hira=おかづら|rom=okazura}}
@@ -165,11 +172,12 @@ From {{inh|ja|ojp|-|sort=おかつら}}. Alternate spelling for {{m|ja|男桂|tr
 {{wikipedia|Liquidambar formosana}}
 [[File:Liquidambar_formosana_02.jpg|thumb|250px|{{lang|ja|楓}} (''fū''): '''[[sweetgum]]''' leaves and seeds.]]
 </div>
-{{ja-kanjitab|yomi=o|ふう}}
+{{ja-kanjitab|yomi=goon|ふう}}
+
 From {{bor|ja|ltc|-|sort=ふう}} {{m|zh|楓|tr=biung}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|ふう|acc=1|acc_ref=DJR}}
+{{ja-pron|ふう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ふう}}
