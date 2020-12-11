@@ -4,9 +4,7 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=08|sn=11|four=47117|canj=GHXU|ids=⿰土兒}}
 
-# [[parapet]]
-
-====References====
+===Further reading===
 * {{Han ref|kx=0232.020|dkj=05209|dj=0469.040|hdz=10454.030|uh=5804|ud=22532|bh=D4CC|bd=54476}}
 
 ----
@@ -16,27 +14,27 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|兒|c1=s|c2=p|ls=psc|t1=earth}}.
 
 ===Pronunciation===
 {{zh-pron
 |m=nì
-|c=ngai6,ai6
+|c=ngai4,ai6
 |mn=xm:gí
 |mc=y
 |oc=y
-|cat=
+|cat=n,v
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# {{rfdef|zh|sort=土08}}
+# {{zh-used in|埤堄}}
 # {{lb|zh|Xiamen|_|Hokkien}} to [[pile up]]; to [[stack up]]
-
-====Synonyms====
-* {{s|to pile up}} {{zh-l|摞}}
+#: {{zh-syn|摞}}
 
 ===References===
+* {{R:yue:Hanzi}}
 * [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 87]
 
 ----
@@ -49,4 +47,4 @@
 # {{rfdef|ja|sort=土08}}
 
 ====Readings====
-* {{ja-readings|on=[[げん]] (gen)|kun=[[ひめがき]] (himegaki)}}
+* {{ja-readings|on=げん|kun=ひめがき}}
