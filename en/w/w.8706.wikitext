@@ -151,12 +151,28 @@ Image:Fraktur letter W.png|Uppercase and lowercase '''W''' in [[Fraktur]]
 {{egy-hieroforms
 |<hiero>w</hiero>|read1=w}}
 
+===Noun===
+{{egy-noun|m|head=<hiero>w-N23:Z1</hiero>}}
+
+# [[area]], [[district]]
+# [[administrative]] [[district]]
+# [[nome]] {{defdate|since the New Kingdom}}
+
+====Inflection====
+{{egy-decl-noun|g=m|w}}
+
+====Alternative forms====
+{{egy-hieroforms
+|<hiero>w-Z1:N23</hiero>|read1=w
+|<hiero>w</hiero>|read2=w|date2=Old Kingdom}}
+
 ===Pronoun===
 {{egy-pron|dep|s|1p|head=<hiero>w</hiero>}}
 
 # {{alt form|egy|wj||I, me}}
 
 ===References===
+* {{R:egy:Wb|1|243.1–243.8}}
 * {{R:egy:Allen|51, 198, 415}}
 
 ----
