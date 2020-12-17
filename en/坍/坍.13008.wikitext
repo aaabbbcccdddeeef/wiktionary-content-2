@@ -4,19 +4,17 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=04|sn=7|four=47140|canj=GBY|ids=⿰土丹}}
 
-# to [[collapse]], [[fall]] into [[ruin]]
-# [[landslide]]
-
-====References====
+===Further reading===
 * {{Han ref|kx=0225.100|dkj=04927|dj=0460.030|hdz=10425.050|uh=574D|ud=22349|bh=A77E|bd=42878}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=㘱‎}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|丹|c1=s|t1=earth|c2=p|ls=psc}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -24,16 +22,20 @@
 |c=taan1
 |mc=y
 |oc=y
-|cat=
+|cat=v,n
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# to [[collapse]], to [[topple]]
+# [[collapse]]
 
 ====Compounds====
 {{zh-der|坍臺|坍毀|坍落|崩坍|坍方|倒坍|坍壞|坍縮星|坍塌}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -45,14 +47,14 @@
 # {{rfdef|ja|sort=土04}}
 
 ====Readings====
-* {{ja-readings|on=たん,とん|kun=}}
+* {{ja-readings|on=たん,とん}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=담|rv=dam|mr=tam}}
+{{ko-hanja|담}}
 
 # {{rfdef|ko|sort=土04}}
 
@@ -61,9 +63,9 @@
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[đàn]], [[than]]|rs=土04}}
+{{vi-readings|nom=đàn,than|rs=土04}}
 
 # {{rfdef|vi|sort=土04}}
 
-====References====
+===References===
 * [http://nomfoundation.org/common/nom_details.php?codepoint=574d Nom Foundation]
