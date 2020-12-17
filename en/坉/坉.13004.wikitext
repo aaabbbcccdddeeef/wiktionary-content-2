@@ -4,16 +4,7 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=04|sn=7|four=45117|canj=GPU|ids=⿰土屯}}
 
-# [[bagged]] [[soil]] with [[grass]], used for [[walling]] in or [[stop]]ping [[water]].
-# [[ridge]]
-# [[stockade]]
-# {{archaic form of|mul|沌}} [[chaotic]], [[confused]]
-# [[turbid]], [[murky]]
-# (variant of [[塞]]) [[stop up]], [[block]], [[seal]], [[cork]]
-# [[pass]], [[frontier]]; [[border]]
-# [[fortress]]
-
-====References====
+===Further reading===
 * {{Han ref|kx=0225.060|dkj=04923|dj=0459.260|hdz=10422.050|uh=5749|ud=22345|bh=CAAD|bd=51885}}
 
 ----
@@ -23,21 +14,44 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|屯|c1=s|c2=p|ls=psc|t1=earth}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=tún
 |c=tyun4
 |h=pfs=thùn
-|mc=y
-|oc=y
-|cat=n,a,v
+|mc=1
+|oc=1
+|cat=n
 }}
 
-===Definitions===
-{{zh-hanzi}}
+====Definitions====
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# [[bag]]ged [[soil]] and [[grass]] used to [[hold back]] [[water]]
+# [[ridge]] between [[field]]s
+# [[cork]], [[stopper]]
+# {{lb|zh|in place names}} [[stockade]]d [[village]]
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=dùn
+|mc=2
+|cat=v
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# to [[stop]], to [[plug]]
+
+===Etymology 3===
+
+====Definitions====
+{{zh-see|沌|a}}
 
 ----
 
@@ -49,16 +63,16 @@
 # {{rfdef|ja|sort=土04}}
 
 ====Readings====
-* {{ja-readings|on=[[とん]] (ton), [[どん]] (don)|kun=[[ふさぐ]] (fusagu), [[きずく]] (kizuku), [[うね]] (une), [[ふさがる]] (fusagaru)}}
+* {{ja-readings|on=とん,どん|kun=ふさぐ,きずく,うね,ふさがる}}
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-hantu|[[chốn]], [[trốn]]|rs=土04}}
+{{vi-readings|nom=chốn,trốn|rs=土04}}
 
 # {{rfdef|vi|sort=土04}}
 
-====References====
+===References===
 * [http://nomfoundation.org/common/nom_details.php?codepoint=5749 Nom Foundation]
