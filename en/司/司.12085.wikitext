@@ -62,36 +62,37 @@ From {{inh|zh|sit-pro|*zə}}; cognate with Proto-Kukish {{IPAfont|*/ca/}}, {{cog
 ===Kanji===
 {{ja-kanji|grade=4|rs=口02}}
 
-# [[boss]]
+# manage, administer, take charge of
+# official, officer
+# director, manager, boss
 
 ====Readings====
 {{ja-readings
 |goon=し
 |kanon=し
 |toon=す
-|on=じ
-|kun=つかさ-, つかさど-る, みこともち-
+|kun=つかさ-, つかさど-る
 }}
-{{attn|ja|on reading じ?}}
 
 ====Compounds====
-{{col5|ja
-|{{ja-r|司%会|し%かい}}
-|{{ja-r|司%書|し%しょ}}
-|{{ja-r|司%法|し%ほう}}
-|{{ja-r|司%令|し%れい}}
-|{{ja-r|行%司|ぎょう%じ}}
-|{{ja-r|寿司|すし}}: sushi
-}}
+{{der-top|Compounds}}
+* {{ja-r|司%会|し%かい|leading a meeting; [[chairman]]}}
+* {{ja-r|司%書|し%しょ|[[librarian]]}}
+* {{ja-r|司%法|し%ほう|administration of justice}}
+* {{ja-r|司%令|し%れい|command, control; [[commander]]}}
+* {{ja-r|行%司|ぎょう%じ|{{lb|ja|sumo}} [[referee]]}}
+* {{ja-r|寿司|すし|[[sushi]]}}
+{{der-bottom}}
 
-===Proper noun===
-{{ja-kanjitab|つかさ|yomi=k}}
-{{ja-pos|proper|つかさ}}
+===Etymology 1===
+{{ja-kanjitab|つかさ|yomi=kun}}
+{{rfe|ja}}
+{{ja-see|つかさ|key=つかさ}}
 
-# {{given name|ja|male|sort=つかさ}}
-# {{surname|ja|sort=つかさ}}
+===Etymology 2===
+{{rfe|ja}}
 
-{{ja-kanjitab|まもる|yomi=}}
+====Proper noun====
 {{ja-pos|proper|まもる}}
 # {{given name|ja|male|sort=まもる}}
 
