@@ -203,42 +203,7 @@ From {{inh|cu|sla-pro|*jь}}.
 # [[him]] (* no nominative singular or plural; use [[тъ]] or [[онъ]] or [[оныи]] for the nominative)
 
 =====Declension=====
-{| style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
-!
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[singular|Singular]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[dual|Dual]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[plural|Plural]]
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[nominative case|nominative]]
-|align=left|{{l-self|cu|*и}}
-|align=left|{{l-self|cu|ꙗ}}
-|align=left|{{l-self|cu|*и}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[genitive case|genitive]]
-|align=left|{{l-self|cu|ѥго}}
-|align=left|{{l-self|cu|ѥю}}
-|align=left|{{l-self|cu|ихъ}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[dative case|dative]]
-|align=left|{{l-self|cu|ѥмоу}}
-|align=left|{{l-self|cu|има}}
-|align=left|{{l-self|cu|имъ}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[accusative case|accusative]]
-|align=left|{{l-self|cu|и}}
-|align=left|{{l-self|cu|ꙗ}}
-|align=left|{{l-self|cu|ѩ}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[instrumental case|instrumental]]
-|align=left|{{l-self|cu|имь}}
-|align=left|{{l-self|cu|има}}
-|align=left|{{l-self|cu|ими}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[locative case|locative]]
-|align=left|{{l-self|cu|ѥмь}}
-|align=left|{{l-self|cu|ѥю}}
-|align=left|{{l-self|cu|ихъ}}
-|}
+{{cu-decl-of-и}}
 
 =====Related terms=====
 * {{l|cu|ѥ}}
