@@ -37,7 +37,42 @@
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=즉|rv=jeuk|mr=chŭk}}
+===Alternative forms===
+* {{m|ko|即}}
 
-# {{rfdef|ko|sort=卩07}}
+===Etymology===
+From {{der|ko|ltc|sort=즉|-}} {{ltc-l|卽|id=1}}.
+{{hanja-ety
+|dk={{hanja-dongguk|즉〮|cúk}}
+|m={{hanja-gwangju|즉|cuk}}
+|mh=[[고]] 즉
+|m2={{hanja-sinjeung|즉|cuk}}
+|m2h=[[곧]] 즉
+|em={{hanja-juhae|즉|cuk}}
+|emun=[[나아가다|나아갈]] 즉
+}}
+===Pronunciation===
+{{ko-hanja-pron|즉}}
+
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|곧|즉}}
+
+# {{hanja form of|즉|[[immediate]]}}
+# {{hanja form of|즉|[[in other words]], [[i.e.]]}}
+# {{hanja form of|즉|to [[ascend]]}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ko-l|즉각|[[at once]]|卽刻}}
+* {{ko-l|즉결|[[summary]]|卽決}}
+* {{ko-l|즉석|[[on the spot]]|卽席}}
+* {{ko-l|즉시|[[immediate]]|卽時}}
+* {{ko-l|즉답|[[immediate]] [[reply]]|卽答}}
+* {{ko-l|즉위|[[ascension]] to [[kingship]]|卽位}}
+* {{ko-l|즉사|[[immediate]] [[death]]|卽死}}
+* {{ko-l|즉흥|[[impromptu]]|卽興}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|1002}}
