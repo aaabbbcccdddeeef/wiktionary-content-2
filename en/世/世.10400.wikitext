@@ -159,14 +159,21 @@ From {{der|ja|ltc|sort=せい|-}} {{ltc-l|世}}. The ''{{ll|ja|漢音|kan'on}}''
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=세|-}} {{ltc-l|世}}. {{hanja-hunmong|셰〯|syěy|人類#중01A}}
-
+From {{der|ko|ltc|sort=세|-}} {{ltc-l|世}}.
+{{hanja-ety
+|dk={{hanja-dongguk|솅〮|syéy|i=y}}
+|m={{hanja-hunmong|셰〯|syěy|人類#중01A}}
+|mh=[[누리|누리〮]] 셰〯
+|m2={{hanja-sinjeung|셰|syey}}
+|m2h=[[ᅀᅵᆫ간|인간]]<ref>{{lang|ko|人間}} [The (human) world]</ref> 셰
+|ref=<references/>
+}}
 ===Pronunciation===
-{{ko-hanja-pron|세|sʰe̞ː|alt=ː}}
+{{ko-hanja-pron|세|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja|인간|세}}
+{{ko-hanja|[[인간]]([[人間]])|세}}
 
 # {{hanja form of|세|[[world]]}}
 # {{hanja form of|세|[[lineage]]; [[generation]]}}
