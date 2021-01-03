@@ -877,12 +877,22 @@ Compare {{cog|de|du}}, {{cog|en|thou}}, {{cog|sv|du}}.
 ==Saterland Frisian==
 
 ===Etymology===
-From {{inh|stq|ofs|thū}}, from {{inh|stq|gem-pro|*þū}}, from {{inh|stq|ine-pro|*túh₂}}.
+{{dercat|stq|gem-pro|ine-pro|inh=2}}
+From {{inh|stq|ofs|thū}}, from {{inh|stq|gmw-pro|*þū}}.
+
+===Pronunciation===
+* {{IPA|stq|/dʊ/}}
 
 ===Pronoun===
-{{head|stq|pronoun|cat2=personal pronouns}}
+{{head|stq|pronoun|cat2=personal pronouns|oblique|die}}
 
-# [[thou]], [[you]] {{q|second person singular}}
+# [[thou]], [[you]]
+
+====Usage notes====
+* '''du''' is at times omitted when used with a verb.
+
+===References===
+* {{R:stq:SW}}
 
 ----
 
