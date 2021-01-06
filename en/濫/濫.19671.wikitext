@@ -122,21 +122,29 @@ From {{der|ja|ltc|sort=らん|-}} {{ltc-l|濫|id=2}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|濫|id=2}}. {{hanja-hunmong|람|lam|雜語#하35B}}
+From {{der|ko|ltc|sort=람|-}} {{ltc-l|濫|id=2}}.
+{{hanja-ety
+|dk={{hanja-dongguk|람〮|lám}}
+|m={{hanja-hunmong|람〮|lám|雜語#하35B}}
+|mh=[[넘ᄣᅵ다|넘〯ᄯᅵᆯ]] 람〮
+}}
+===Pronunciation===
+* {{q|initial position}} {{ko-hanja-pron|남|l=y}}
+* {{q|non-initial position}} {{ko-hanja-pron|람}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|넘치다|넘칠|람||남}}
 
-# {{hanja form of|[[람]]/[[남]]|[[overflow]]}}
+# {{hanja form of|[[람]]/[[남]]|to [[overflow]]}}
 # {{hanja form of|[[람]]/[[남]]|[[excessive]]; [[superfluous]]}}
 
 ====Compounds====
-{{top3}}
-* {{ko-l|남용|[[abuse]]; [[misuse]]|濫用}}
-* {{ko-l|남발|[[overissue]]; [[overuse]]|濫發}}
-* {{ko-l|범람|[[flood]], [[overflow]]|[[氾濫]]/[[汎濫]]}}
-{{bottom}}
+{{der-top3|Compounds}}
+* {{ko-l|남용|濫用}}
+* {{ko-l|남발|濫發}}
+* {{ko-l|범람|氾濫/汎濫}}
+{{der-bottom}}
 
 ===References===
 * {{R:hanjadoc|6514}}
