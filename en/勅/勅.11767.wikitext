@@ -57,7 +57,33 @@
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=[[칙]]|rv=chik|mr=ch'ik}}
+===Etymology===
+From {{der|ko|ltc|sort=칙|-}} {{ltc-l|勅}}.
+{{hanja-ety
+|dk={{hanja-dongguk|틱〮|thík}}
+|m={{hanja-hunmong|틱〮|thík|書式#상35A}}
+|mh=[[칙서|틱〮셔〮]] 틱〮
+}}
+===Pronunciation===
+{{ko-hanja-pron|칙}}
 
-# {{rfdef|ko|sort=力07}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|[[조서]]([[詔書]])|칙}}
+
+# {{hanja form of|칙|[[imperial]] [[edict]]}}
+
+====Compounds====
+{{der-top4|Compounds}}
+* {{ko-l|칙명|勅命}}
+* {{ko-l|칙지|勅旨}}
+* {{ko-l|칙령|勅令}}
+* {{ko-l|내칙|內勅}}
+* {{ko-l|칙서|勅書}}
+* {{ko-l|칙임|勅任}}
+* {{ko-l|칙권|勅勸}}
+* {{ko-l|하칙|下勅}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|875}}
