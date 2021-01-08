@@ -237,11 +237,12 @@ From {{bor|ja|cmn|sort=へえ''|北|tr=běi}}.
 ===Etymology 1===
 From {{der|ko|ltc|sort=북|-}} {{ltc-l|北|id=1}}.
 {{hanja-ety
-|dk={{hanja-dongguk|븍〮|púk}}
-|m={{hanja-hunmong|븍〮|púk|人類#중04A}}
-|mh=[[뒿|뒤〮]] 븍〮
-|m2={{hanja-sinjeung|&nbsp;븍|puk}}
-|m2h=븍[[녁]] 븍 / [[뒿|뒤]] 븍
+|dk={{okm-inline|븍〮|púk}}
+|m={{okm-inline|븍〮|púk}}
+|mh={{okm-inline|[[뒿|뒤〮]]|twúy}}
+|ml=人類#중04A
+|m3={{okm-inline|븍|puk}}
+|m3h={{okm-inline|븍[[녁]]|puknyek}}<br>{{okm-inline|[[뒿|뒤]]|twuy}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|북}}
@@ -267,7 +268,7 @@ From {{der|ko|ltc|sort=북|-}} {{ltc-l|北|id=1}}.
 ===Etymology 2===
 From {{der|ko|ltc|sort=배|-}} {{ltc-l|北|tr=buʌi<sup>H</sup>}}.
 {{hanja-ety
-|dk={{hanja-dongguk|ᄈᆡᆼ〮|ppóy|i=y}}
+|dk={{okm-inline|ᄈᆡᆼ〮|ppóy}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|배}}
@@ -287,7 +288,7 @@ From {{der|ko|ltc|sort=배|-}} {{ltc-l|北|tr=buʌi<sup>H</sup>}}.
 {{ko-hanjatab}}
 {{ko-proper noun|hangeul=북}}
 
-# {{q|in headlines}} {{short for|ko|{{ruby|[[[北韓]]]([[북한]])}}||{{lb|ko|South Korea}} [[North Korea]]|tr=Bukhan}}
+# {{q|in headlines}} {{short for|ko|[[北韓|{{ruby|[北](북)[韓](한)}}]]||{{lb|ko|South Korea}} [[North Korea]]|tr=Bukhan}}
 
 ====See also====
 * {{l|ko|{{ruby|[[[韓]]]([[한]])}}||{{q|South Korea}} [[South Korea]]|tr=Han}}
