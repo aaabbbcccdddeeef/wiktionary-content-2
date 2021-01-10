@@ -161,6 +161,8 @@ From {{inh|cim|gmh|ich}}, from {{inh|cim|goh|ih}}, from {{inh|cim|gmw-pro|*ik}},
 
 ===References===
 * {{R:Martalar1974}}
+* 2013, Umberto Patuzzi (ed.), ''Sette Comuni / Siben Komoinen: Le nostre parole – D’ögnar börtar – Unsere Wörter'', Comitato unitario delle linguistiche storiche germaniche in Italia / Einheitskomitee der historischen deutschen Sprachinseln in Italien
+* 2013, Umberto Patuzzi (ed.), ''Luserna / Lusérn: Le nostre parole – Ünsarne börtar – Unsere Wörter'', Comitato unitario delle linguistiche storiche germaniche in Italia / Einheitskomitee der historischen deutschen Sprachinseln in Italien
 
 ----
 
@@ -624,7 +626,7 @@ From {{der|li|goh|ih}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
 | {{l|li|ózzes}}
 | {{l|li|ózzes}}
 |-
-! [[dative]]<ref group=*>Dative is nowadays obsolete, use accusative instead.</ref>
+! [[dative]]<ref group=*>Dative is nowadays obsolete, accusative is used instead.</ref>
 | {{l|li|mir}}
 | {{l|li|ós}}
 | {{l|li|ós}}
@@ -688,7 +690,8 @@ From {{inh|gmh|goh|ih}}
 *: {{desc|swg|i}}
 *:: {{desc|gmw-stm|i}}
 * {{desc|bar|i}}
-*: {{desc|cim|i|alts=1}}
+*: {{desc|cim|[[ich]] {{q|Setti Comuni}}, [[i]] {{q|Luserna}}}}
+*: {{desc|gmw-gts|[[iχ]], [[ī]], [[i]] {{q|unstressed}}, [[iχχe]] {{q|emphatic}}}}
 *: {{desc|mhn|i}}
 * {{desc|gmw-cfr|ich}}, {{l|gmw-cfr|eich}}, {{l|gmw-cfr|ech}}
 *: Hunsrückisch: {{l|gmw-cfr|äijsch}}
@@ -706,7 +709,7 @@ From {{inh|gmh|goh|ih}}
 *: Hessian: {{l|gmw-rfr|aisch}}
 *: {{desc|pdc|ich}} {{IPAchar|[ɪç]}}<ref>Kelz, Heinrich P. (1971). ''Phonologische Analyse des Pennsylvaniadeutschen''. Hamburg: Buske.</ref>
 * {{desc|wym|ych}}
-* {{desc|yi|איך}}
+* {{desc|yi|איך}}, {{l|yi|ich}}
 
 ===References===
 <references/>
@@ -789,9 +792,9 @@ From {{inh|pdc|gmh|ich}}, from {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog
 * {{audio|pl|Pl-ich.ogg|Audio}}
 
 ===Pronoun===
-{{head|pl|pronoun}}
+{{head|pl|pronoun|indeclinable}}
 
-# [[possessive pronoun]] for ''[[oni#Polish|oni]]'' or ''[[one#Polish|one]]'', namely '''[[their]]''' or '''[[theirs]]'''; [[indeclinable]].
+# [[possessive pronoun]] for {{m|pl|oni}} or {{m|pl|one}}, namely ''[[their]]'' or ''[[theirs]]''
 
 ===Pronoun===
 {{head|pl|pronoun form}}
@@ -803,6 +806,21 @@ From {{inh|pdc|gmh|ich}}, from {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog
 ===See also===
 * {{l|pl|nich}}
 * [[Appendix:Polish pronouns]]
+
+----
+
+==Rhine Franconian==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-rfr|pronoun}}
+
+# {{lb|gmw-rfr|Kassel}} [[I]]
+
+====See also====
+* {{l|gmw-rfr|[[Du]]; [[De]]||you (singular)}}
 
 ----
 
@@ -821,6 +839,82 @@ From {{inh|pdc|gmh|ich}}, from {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog
 
 ===Further reading===
 * {{R:SDK}}
+
+----
+
+==Swabian==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|swg|pronoun}}
+
+# {{lb|swg|possible less common}} [[I]]
+#* '''1863''', Jakob Friedrich Schmidt, ''Gedichte in schwäbischer Mundart von J. F. Schmidt''
+#** p. 16:
+#**: Daß iar aber it moinet, i dä gar nix dett doba, so habe '''ich''' nothwendig Euch zu sagen, daß dau Arbet gnug geit, [...]
+#**: '''Ich''' habe zwar nicht nothwendig Euch zu sagen, warum i net mitturna dua, abr [...]
+#** P 30:
+#**: „Herr Fürst,“ haut do der Pfortner gsait,<br /> „'''Ich''' habs verstekt da nei,<br /> Denn da kommt ebn die ganze Zeit<br /> Kei eiz'ger Mensch nich rei!“
+#** P 46:
+#**: Darum will '''ich''' ihm iatz deuta,<br /> Daß mir ganz mit Heaz und Händ<br /> Alles Loid und alle Freuda<br /> Redlich mit ihm thoila wend.
+
+====Declension====
+* Nominative: {{l|swg|ich}} {{lb|swg|less common}}; {{l|swg|i}}
+* Dative: {{l|swg|mir}}
+* Accusative: {{l|swg|mi}}
+
+====Alternative forms====
+* {{l|swg|i'}}, {{l|swg|i}}
+
+====Descendants====
+* {{desc|gmw-stm|i}}
+
+====See also====
+* {{l|swg|[[Du]], dat. [[Dir]], acc. [[Di]]||you (singular)}}
+* {{l|swg|-s||it, enclitic}}
+
+===Pronoun===
+{{head|swg|pronoun form}}
+
+# {{n-g|dative and accusative of {{m|swg|ihr||you (plural)}}}}
+
+----
+
+==Transylvanian Saxon==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-tsx|pronoun}}
+
+# [[I]]
+
+----
+
+==Yiddish==
+{{rfd|yi}}
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|yi|pronoun}}
+
+# [[I]]
+
+====Synonyms====
+* {{l|yi|איך}}
+
+====See also====
+* {{l|yi|du||you (singular)}}
+* {{l|yi|mir||we}}, {{l|yi|uns||us}}
+
+===References===
+* 1931, Chaia Raismann, ''Nit in golus un nit in der heem'', Amsterdam: N.V. „De Arbeiderspers“
+* 1842, Joseph Ahrons as S. N. Orhaphesoi, ''Das Lied vun die Kuggel. Ein Scherz von S. N. Orhaphesoi'' Altona: Gedruckt bei Gebrüder Bonn
 
 ----
 
@@ -863,3 +957,15 @@ From {{inh|yua|myn-pro|*Haty}}.
 * {{R:Montgomery 2004|page=59}}
 
 {{c|yua|Body parts}}
+
+----
+
+==Zipser German==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-zps|pronoun}}
+
+# [[I]]
