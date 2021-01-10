@@ -238,13 +238,12 @@ From {{w|Middle Chinese}} {{ltc-l|樂|id=3|[[comfort]], [[ease]]}}:
 ===Etymology 1===
 From {{der|ko|ltc|sort=악|-}} {{ltc-l|樂|id=2}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|ᅌᅡᆨ〮|ngák}}
-|m={{hanja-hunmong|악〮|ák|雜語}}
-|mh=[[음악|음악〮]] 악〮
-|m2={{hanja-sinjeung|&nbsp;악|ak}}
-|m2h=[[음악]] 악
-|em={{hanja-juhae|악|ak}}
-|emun=[[풍류]] 악
+|dk={{okm-inline|ᅌᅡᆨ〮|ngák}}
+|m={{okm-inline|악〮|ák}}
+|mh={{okm-inline|음악〮|ùm-ák}}
+|ml=雜語#하15A
+|jh={{m|ko|악}}
+|jhh={{m|ko|풍류}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|악}}
@@ -257,7 +256,7 @@ From {{der|ko|ltc|sort=악|-}} {{ltc-l|樂|id=2}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|음악|音樂|[[music]]}}
+* {{ko-l|음악|音樂}}
 * {{ko-l|악본|樂本}}
 * {{ko-l|악리|樂理}}
 * {{ko-l|악기|樂器}}
@@ -301,13 +300,13 @@ From {{der|ko|ltc|sort=악|-}} {{ltc-l|樂|id=2}}.
 ===Etymology 2===
 From {{der|ko|ltc|sort=락|-}} {{ltc-l|樂|id=3}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|락〮|lák}}
-|m={{hanja-gwangju|락|lak}}
-|mh=낙[[ᄒᆞ다|ᄒᆞᆯ]] 락
-|m2={{hanja-sinjeung|락|lak}}
-|m2h=[[즐기다|즐길]] 락
-|em={{hanja-juhae|락|lak}}
-|emun=[[즐기다|즐길]] 락
+|dk={{okm-inline|락〮|lák}}
+|m2={{okm-inline|락|lak}}
+|m2h={{okm-inline|낙[[ᄒᆞ다|ᄒᆞᆯ]]|nak-hol}}
+|m3={{okm-inline|락|lak}}
+|m3h={{okm-inline|[[즐기다|즐길]]|culkil}}
+|jh={{m|ko|락}}
+|jhh={{m|ko|[[즐기다|즐길]]}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|락/낙}}
@@ -328,17 +327,17 @@ From {{der|ko|ltc|sort=락|-}} {{ltc-l|樂|id=3}}.
 * {{ko-l|법락|法樂}}
 * {{ko-l|삼락|三樂}}
 * {{ko-l|상락|常樂}}
-* {{ko-l|오락|[[entertainment]]|娛樂}}
-* {{ko-l|쾌락|[[pleasure]]|快樂}}
-* {{ko-l|낙원|[[paradise]]|樂園}}
+* {{ko-l|오락|娛樂}}
+* {{ko-l|쾌락|快樂}}
+* {{ko-l|낙원|樂園}}
 {{der-bottom}}
 
 ===Etymology 3===
 From {{der|ko|ltc|sort=요|-}} {{ltc-l|樂|id=1}}.
 {{hanja-ety
-|dk={{hanja-dongguk|ᅌᅭᇢ〮|ngyów}}
-|em={{hanja-juhae|요|yo}}
-|emun=[[둏다|됴히]] [[너기다|너길]] 요
+|dk={{okm-inline|ᅌᅭᇢ〮|ngyów}}
+|jh={{m|ko|요}}
+|jhh={{m|ko|[[둏다|됴히]] [[너기다|너길]]}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|요}}
@@ -346,7 +345,7 @@ From {{der|ko|ltc|sort=요|-}} {{ltc-l|樂|id=1}}.
 ====Hanja====
 {{ko-hanja|좋아하다|좋아할|요}}
 
-# {{lb|ko|literary}} {{hanja form of|요|to be [[fond]] of; [[like]]}}
+# {{lb|ko|literary|nocat=y}} {{hanja form of|요|to be [[fond]] of; to [[like]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
