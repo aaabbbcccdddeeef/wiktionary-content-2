@@ -39,9 +39,11 @@
 # {{lb|ja|auxiliary}} {{n-g|Some forms follow also inflectable words.}}
 ## {{lang|ja|です}} follow ''i''-adjectives, as the standard polite terminal form for ''i''-adjectives.
 ##: {{ja-usex|遅い'''です'''ね。|おそい '''です''' ね。|You are too slow.}}
-## {{lang|ja|だろう}} / {{lang|ja|でしょう}} / {{lang|ja|なら}} can follow any inflectable word, equivalent to inflectable words + {{lang|ja|の}} + {{lang|ja|だろう}} / {{lang|ja|でしょう}} / {{lang|ja|なら}}.
-##: {{ja-usex|飲む'''なら'''乗るな/飲むの'''なら'''乗るな！|のむ '''なら''' のる な/のむ の '''なら''' のる な！|'''If''' you '''are''' to drink, don't drive!}}
-##: {{ja-usex|彼はきっと成%功する'''だろう'''/彼はきっと成%功するの'''だろう'''。|かれ は きっと せい%こう する '''だろう'''/かれ は きっと せい%こう する の '''だろう'''。|'''I believe''' he will succeed.}}
+## {{lang|ja|だろう}} / {{lang|ja|でしょう}} / {{lang|ja|なら}} can follow any inflectable word, forming suppletive volitional/politte volitional/conditional forms.
+##: {{ja-usex|飲む'''なら'''乗るな！|のむ '''なら''' のる な！|'''If''' you '''are''' to drink, don't drive!}}
+##: {{ja-usex|彼はきっと成%功する'''だろう'''。|かれ は きっと せい%こう する '''だろう'''。|'''I believe''' he will succeed.}}
+# {{lb|ja|auxiliary}} {{n-g|Not following any words, but used before some conjunctives or in some inflected forms, to represent the aforementioned statement.}}
+#: {{ja-x|山をなめてはいけない。'''でないと'''死んじゃうよ。|やま を なめて は いけない。'''で ない と''' しんじゃうよ。|Don't underestimate the difficulty of mountaineering. '''If you do''', you could die.}}
 
 =====Usage notes=====
 * {{lang|ja|だ}} is the only commonly used modern Japanese verb with the terminal form ({{ja-l|終止形}}) distinct from the attributive form ({{ja-l|連体形}}). As relative clauses in Japanese are syntactically equivalent to attributives, relative clauses must end in the attributive form. Thus {{lang|ja|だ}}, as a terminal form, cannot appear at the end of a relative clause. The following forms are used instead of {{lang|ja|だ}} in such places:
