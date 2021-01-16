@@ -13,21 +13,28 @@ Borrowed from {{bor|bra|sa|कमल}}.
 ----
 
 ==Hindi==
+{{wikipedia|lang=hi}}
 
 ===Etymology===
-Borrowed from {{bor|hi|sa|कमल}}. {{doublet|hi|कंवल}}.
+Borrowed from {{bor|hi|sa|कमल}}. {{doublet|hi|कँवल}}.
 
 ===Pronunciation===
 * {{hi-IPA}}
 
 ===Noun===
-{{hi-noun|g=m|ur=کمل}}
+{{hi-noun|g=m|ur=کَمَل}}
 
 # [[lotus]]
 #: {{syn|hi|Thesaurus:कमल}}
 
 ====Declension====
 {{hi-ndecl|<M>}}
+
+====Descendants====
+* {{desc|en|Kamal|bor=1}}
+
+===References===
+* {{R:hi:McGregor}}
 
 {{topics|hi|Flowers}}
 
@@ -46,7 +53,14 @@ Borrowed from {{bor|inc-ogu|sa|कमल}}.
 ----
 
 ==Sanskrit==
+{{wikipedia|lang=sa|कमलम्}}
 {{wikipedia|Nelumbo nucifera}}
+
+===Alternative scripts===
+{{sa-alt}}
+
+===Pronunciation===
+{{sa-IPA}}
 
 ===Noun===
 {{sa-noun|g=mn}}
@@ -58,7 +72,50 @@ Borrowed from {{bor|inc-ogu|sa|कमल}}.
 # pale-red, rose-coloured
 # desirous, lustful
 
-===References===
-{{R:MW|0252}}
+====Descendants====
+* {{desc|elu-prk}}
+** {{desc|si|කමල}}
+* {{desc|pmh|𑀓𑀫𑀮}}
+** {{desc|omr||kavaḷa}}
+**: {{desc|omr|कवळ|tr=-|sclb=1}}
+**: {{desc|omr|𑘎𑘪𑘯|tr=-|sclb=1}}
+* {{desc|pi|kamala}}
+* {{desc|inc-psc|𑀓𑀫𑀴}}
+** {{desc|inc-tak|कमल}}
+*** {{desc|pa|-}}
+***: {{desc|pa|ਕੌਲ|sclb=1}}, {{m|pa|ਕੰਵਲ}}
+***: {{desc|pa|قَول|sclb=1}}, {{m|pa|کَن٘وَل}}
+** {{desc|inc-vra|कमल}}
+*** {{desc|sd|-}}
+***: {{desc|sd|ڪَنَولُ|sclb=1}}
+***: {{desc|sd|कंवलु|sclb=1}}
+* {{desc|psu|𑀓𑀫𑀮}}
+** {{desc|inc-gup|कमल}}
+*** {{desc|inc-ogu|कमल}}
+**** {{desc|gu|કમળ}}
+** {{desc|inc-sap|कमल}}
+*** {{desc|inc-ohi|कवल}}
+**** Hindustani:
+****: {{desc|hi|कँवल}}
+****: {{desc|ur|کنول|کَن٘وَل}}
 
-{{c|sa|Nymphaeales order plants}}
+====Borrowed terms====
+* {{desc|bra|कमल|bor=1}}
+* {{tooltip|borrowed|→}} Hindustani:
+*: {{desc|hi|कमल}}
+*: {{desc|ur|کَمَل|tr=kamal}}
+** {{desc|en|Kamal|bor=1}}
+* {{desc|omr||kamala|bor=1}}
+*: {{desc|omr|कमल|tr=-|sclb=1}}
+*: {{desc|omr|𑘎𑘦𑘩|tr=-|sclb=1}}
+** {{desc|mr|कमळ|bor=1}}
+* {{desc|oty|𑀓𑀫𑀮𑀫𑁆|bor=1}}
+** {{desc|ta|கமலம்|bor=1}}
+* {{desc|te|కమల|bor=1}}
+** {{desc|te|కమలము|der=1}}
+
+===References===
+* {{R:sa:MW|0252}}
+* {{R:CDIAL|kamala<sup>2</sup>|2764}}
+
+{{topics|sa|Nymphaeales order plants}}
