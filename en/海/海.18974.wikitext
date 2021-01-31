@@ -317,8 +317,13 @@ From {{der|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|海|id=1}}. {{hanja-hunmong|ᄒᆡ〯|hǒy|地理#상04B}}
-
+From {{der|ko|ltc|sort=해|-}} {{ltc-l|海}}.
+{{hanja-ety
+|dk={{okm-inline|ᄒᆡᆼ〯|hǒy}}
+|m={{okm-inline|ᄒᆡ〯|hǒy}}
+|mh={{okm-inline|바다〮|pàtá}}
+|ml=地理#상04B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|해|l=y}}
 
@@ -326,19 +331,19 @@ From {{der|ko|ltc|-}} {{ltc-l|海|id=1}}. {{hanja-hunmong|ᄒᆡ〯|hǒy|地理#
 {{ko-hanja-search}}
 {{ko-hanja|바다|해}}
 
-# {{hanja form of|해|[[sea]]; [[ocean]]}}
+# {{hanja form of|해|[[sea]]; [[ocean]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|해군|[[navy]]|海軍}}
-* {{ko-l|해녀|[[female]] [[diver]]|海女}}
-* {{ko-l|해도|(marine) [[chart]]|海圖}}
-* {{ko-l|해발|[[elevation]] [[above]] [[sea]]-[[level]]|海拔}}
-* {{ko-l|해일|[[tsunami]]|海溢}}
-* {{ko-l|해저|[[seabed]]|海底}}
-* {{ko-l|해외|[[oversea]]|海外}}
-* {{ko-l|해양|[[ocean]], [[sea]]|海洋}}
-* {{ko-l|항해|[[sailing]], [[voyage]]|航海}}
+* {{ko-l|해군|海軍}}
+* {{ko-l|해녀|海女}}
+* {{ko-l|해도|海圖}}
+* {{ko-l|해발|海拔}}
+* {{ko-l|해일|海溢}}
+* {{ko-l|해저|海底}}
+* {{ko-l|해외|海外}}
+* {{ko-l|해양|海洋}}
+* {{ko-l|항해|航海}}
 {{der-bottom}}
 
 ===References===
