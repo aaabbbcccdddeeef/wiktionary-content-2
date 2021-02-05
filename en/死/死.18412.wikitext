@@ -247,13 +247,43 @@ In kanji compounds, this would be considered as {{m|ja|音読み|tr=on'yomi||[[S
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|[[죽다|죽을]]|사}}
+===Etymology===
+From {{der|ko|ltc|sort=사|-}} {{ltc-l|死}}.
+{{hanja-ety
+|dk={{okm-l|ᄉᆞᆼ〯|sǒ}}
+|m={{okm-l|ᄉᆞ〯|sǒ}}
+|mh={{okm-l|[[죽다|주글〮]]|cwùkúl}}
+|ml=喪葬#중35A
+}}
+===Pronunciation===
+{{ko-hanja-pron|사|l=y}}
 
-# {{hanja form of|사|[[death]]; to [[die]]}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|죽다|죽을|사}}
+
+# {{hanja form of|사|[[death]]|noun, affix}}
 
 ====Compounds====
-* {{ko-l|사망|[[death]]|死亡}}
+{{der-top3|Compounds}}
+* {{ko-l|사거|死去}}
+* {{ko-l|사망|死亡}}
+* {{ko-l|사신|死神}}
+* {{ko-l|사인|死因}}
+* {{ko-l|^사해|死海}}
+* {{ko-l|사형|死刑}}
+* {{ko-l|독사|毒死}}
+* {{ko-l|불사|不死}}
+* {{ko-l|아사|餓死}}
+* {{ko-l|치사|致死}}
+* {{ko-l|필사|必死}}
+* {{ko-l|고독사|孤獨死}}
+* {{ko-l|과로사|過勞死}}
+* {{ko-l|안락사|安樂死}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|5639}}
 
 ----
 
