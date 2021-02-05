@@ -94,14 +94,12 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|恨}}.
-
-{{collapse|
-* {{hanja-dongguk|ᅘᅳᆫ〮|hhún}}
-* {{hanja-sinjeung|ᄒᆞᆫ|hon}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=한|-}} {{ltc-l|恨}}.
+{{hanja-ety
+|dk={{okm-inline|ᅘᅳᆫ〮|hhún}}
+|m3={{okm-inline|ᄒᆞᆫ|hon}}
+|m3h={{okm-inline|[[애ᄃᆞ다|애ᄃᆞᆯ]]|aytol}}
+}}
 ===Pronunciation===
 {{ko-hanja-pron|한|l=y}}
 
@@ -109,8 +107,8 @@ From {{der|ko|ltc|-}} {{ltc-l|恨}}.
 {{ko-hanja-search}}
 {{ko-hanja|한탄하다|한탄할|한}}
 
-# {{hanja form of|한|[[deep-seated]] [[resentment]]}}
-# {{hanja form of|한|to [[resent]]; to [[hate]]}}
+# {{hanja form of|한|[[deep-seated]] [[resentment]]|noun}}
+# {{hanja form of|한|to [[resent]]; to [[hate]]|affix}}
 
 ====Compounds====
 {{der-top|Compounds}}
