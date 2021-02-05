@@ -279,11 +279,9 @@ Shift from ''bun'' above, with influence on the meaning from the {{cog|ltc|-}} s
 ===Etymology 1===
 From {{der|ko|ltc|sort=분|-}} {{ltc-l|分|id=1}}.
 {{hanja-ety
-|dk={{hanja-dongguk|분|pwùn}}
-|m={{hanja-hunmong|분|pwùn}}
-|mh=[[ᄂᆞᆫ호다|ᄂᆞᆫ홀〮]] 분
-|em={{hanja-juhae|분|pwun}}
-|emun=[[나누다|ᄂᆞᆫ홀]] 분 / [[분촌]] 분
+|dk={{okm-l|분|pwùn}}
+|m={{okm-l|분|pwùn}}
+|mh={{okm-l|[[ᄂᆞᆫ호다|ᄂᆞᆫ홀〮]]|nònhwól}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|분}}
@@ -371,15 +369,15 @@ From {{der|ko|ltc|sort=분|-}} {{ltc-l|分|id=1}}.
 ===Etymology 2===
 From {{der|ko|ltc|sort=분|-}} {{ltc-l|分|id=2}}.
 {{hanja-ety
-|dk={{hanja-dongguk|뿐〮|ppwún}}
-|em={{hanja-juhae|분|pwun}}
-|emun=[[분수]] 분
+|dk={{okm-l|뿐〮|ppwún}}
+|jh={{m|ko|분}}
+|jhh={{m|ko|분수}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|분|l=y}}
 
 ====Hanja====
-{{ko-hanja|[[분수]]([[分數]])|분}}
+{{ko-hanja|분수(分數)|분}}
 
 # {{hanja form of|분|[[part]]; [[portion]]}}
 # {{hanja form of|분|[[component]]}}
