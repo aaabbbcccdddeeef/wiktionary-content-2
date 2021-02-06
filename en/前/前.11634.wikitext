@@ -187,14 +187,13 @@ Contraction of {{ja-r|御%前|ご%ぜ}}, itself a contraction of {{ja-r|御%前|
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|前}}. 
-
-{{collapse|
-* {{hanja-dongguk|쪈|ccyen}} 
-* {{hanja-hunmong|젼|cyen|雜語}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=전|-}} {{ltc-l|前}}. 
+{{hanja-ety
+|dk={{okm-l|쪈|ccyèn}}
+|m={{okm-l|젼|cyèn}}
+|mh={{okm-l|[[앒|앏]]|àlp}}
+|ml=雜語#하34B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|전}}
 
@@ -202,8 +201,8 @@ From {{der|ko|ltc|-}} {{ltc-l|前}}.
 {{ko-hanja-search}}
 {{ko-hanja|앞|전}}
 
-# {{hanja form of|전|[[front]] (direction)}}
-# {{hanja form of|전|[[before]]}}
+# {{hanja form of|전|[[front]]; [[before]]|noun}}
+# {{hanja form of|전|[[ex-]]; [[previous]]|prefix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
