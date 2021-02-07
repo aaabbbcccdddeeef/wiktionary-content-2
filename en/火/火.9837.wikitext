@@ -292,37 +292,28 @@ From {{der|ja|ltc|sort=か|-}} {{ltc-l|火}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 
 ===Etymology===
 From {{der|ko|ltc|sort=화|-}} {{ltc-l|火}}.
-
-{{collapse|
-* {{hanja-dongguk|황〯|hwǎ|i=y}}
-* {{hanja-hunmong|화〯|hwǎ|雜語#하35A|hun=블〮 화〯}}
-* {{hanja-gwangju|&nbsp;화|hwa|hun=블 화}}
-* {{hanja-sinjeung|&nbsp;화|hwa|hun=블 화}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{okm-l|황〯|hwǎ}}
+|m={{okm-l|화〯|hwǎ}}
+|mh={{okm-l|블〮|púl}}
+|ml=雜語#하35A
+}}
 ===Pronunciation===
-* {{sense|in {{ko-l|화요|火曜|[[Tuesday]]}}}} {{ko-hanja-pron|화}}
-* {{sense|fire; etc.}} {{ko-hanja-pron|화|l=y}}
+* {{sense|in {{ko-l|화요|火曜}}}} {{ko-hanja-pron|화}}
+* {{sense|fire; anger; etc.}} {{ko-hanja-pron|화|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|불|화}}
 
-# {{hanja form of|화|[[fire]]; [[heat]]; [[light]]}}
-# {{hanja form of|화|[[burn]]ing [[fire]]}}
-# {{hanja form of|화|[[conflagration]]; [[fire]]}}
-# {{hanja form of|화|[[yang]] {{gl|in contrast to [[yin]]}}; {{lb|ko|figurative}} [[sun]]}}
-# {{hanja form of|화|[[club]]; [[group]]; [[party]]}}
-# {{hanja form of|화|[[companion]]}}
-# {{hanja form of|화|an [[analogy]] of [[urgency]]}}
-# {{hanja form of|화|to [[burn]]; [[set]] [[something]] on [[fire]]}}
-# {{hanja form of|화|{{lb|ko|as an abbreviation}} [[Mars]]}}
-# {{hanja form of|화|{{lb|ko|as an abbreviation}} [[Tuesday]]}}
+# {{hanja form of|화|[[fire]]; [[heat]]|affix}}
+# {{hanja form of|화|[[anger]]|noun}}
+# {{hanja form of|화|{{lb|ko|as an abbreviation|nocat=y}} [[Mars]]}}
+# {{hanja form of|화|{{lb|ko|as an abbreviation|nocat=y}} [[Tuesday]]}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ko-l|화기|[[firearm]]|火器}}
+{{der-top3|Compounds}}
+* {{ko-l|화기|火器}}
 * {{ko-l|화재|火災}}
 * {{ko-l|화산|火山}}
 * {{ko-l|진화|鎭火}}
@@ -361,31 +352,18 @@ From {{der|ko|ltc|sort=화|-}} {{ltc-l|火}}.
 * {{ko-l|화상|火床}}
 * {{ko-l|요화|燎火}}
 * {{ko-l|화둔|火遁}}
-* {{ko-l|발화성|發火性}}
-* {{ko-l|분화구|噴火口}}
+* {{ko-l|착화|着火}}
 * {{ko-l|화직성|火直星}}
-* {{ko-l|점화법|點火法}}
-* {{ko-l|중화기|重火器}}
-* {{ko-l|착화점|着火點}}
-* {{ko-l|화산대|火山臺}}
-* {{ko-l|화두어|火頭魚}}
 * {{ko-l|도화선|導火線}}
-* {{ko-l|발화점|發火點}}
 * {{ko-l|화륜선|火輪船}}
-* {{ko-l|화산회|火山灰}}
 * {{ko-l|내화복|耐火服}}
 * {{ko-l|소화기|消火器}}
-* {{ko-l|사화산|死火山}}
-* {{ko-l|활화산|活火山}}
 * {{ko-l|화요일|火曜日}}
-* {{ko-l|휴화산|休火山}}
 * {{ko-l|소화전|消火栓}}
 * {{ko-l|화염병|火焰甁}}
 * {{ko-l|연화구기|煙火口氣}}
 * {{ko-l|연화신호|煙火信號}}
 * {{ko-l|곡제화주|穀製火酒}}
-* {{ko-l|항공등화|航空燈火}}
-* {{ko-l|견착식화기|[[shoulder]] [[weapon]]s|肩着式火器}}
 {{der-bottom}}
 
 ===References===
