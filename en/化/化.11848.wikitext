@@ -184,8 +184,13 @@ From {{der|ja|ltc|sort=か|-}} {{ltc-l|化}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|化}}. {{hanja-hunmong|화〯|hwǎ|雜語#하01A}}
-
+From {{der|ko|ltc|sort=화|-}} {{ltc-l|化}}.
+{{hanja-ety
+|dk={{okm-l|황〮|hwá}}
+|m={{okm-l|화〯|hwǎ}}
+|mh={{okm-l|[[ᄃᆞᄫᆡ다|도욀]]|twòwòyl}}
+|ml=雜語#하01A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|화|l=y}}
 
@@ -193,7 +198,8 @@ From {{der|ko|ltc|-}} {{ltc-l|化}}. {{hanja-hunmong|화〯|hwǎ|雜語#하01A}}
 {{ko-hanja-search}}
 {{ko-hanja|되다|될|화}}
 
-# {{hanja form of|화|to [[be]], [[become]]}}
+# {{hanja form of|화|to [[be]]; to [[become]]|affix}}
+# {{hanja form of|화|[[-ization]]; [[-ification]]|suffix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -207,7 +213,7 @@ From {{der|ko|ltc|-}} {{ltc-l|化}}. {{hanja-hunmong|화〯|hwǎ|雜語#하01A}}
 * {{ko-l|악화|惡化}}
 * {{ko-l|진화|進化}}
 * {{ko-l|퇴화|退化}}
-* {{ko-l|화석|[[fossil]]|化石}}
+* {{ko-l|화석|化石}}
 * {{ko-l|위화도회군|威化島回軍}}
 {{der-bottom}}
 
