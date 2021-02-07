@@ -214,11 +214,11 @@ Related to {{och-l|巉|[[craggy]]}} ({{zh-ref|Schuessler, 2007}}).
 ===Etymology 1===
 From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=3|add; influence; join}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|참|chàm}}
-|m={{hanja-sinjeung|참|cham}}
-|mh=참예 참
-|em={{hanja-samun|참|cham}}
-|emun=覃
+|dk={{okm-l|참|chàm}}
+|m3={{okm-l|참|cham}}
+|m3h={{okm-l|참예<!--參預?-->|chamyey}}
+|em={{m|ko|참}}
+|emun={{lang|zh|覃}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|참}}
@@ -227,7 +227,7 @@ From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=3|add; influence; join}}.
 {{ko-hanja-search}}
 {{ko-hanja|[[참여하다|참여할]]|참}}
 
-# {{hanja form of|참|[[join]]; [[participation]]; [[add]]}}
+# {{hanja form of|참|to [[join]]; to [[participate]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -252,9 +252,9 @@ From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=3|add; influence; join}}.
 ===Etymology 2===
 From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=2|jagged; uneven}}.
 {{hanja-ety
-|dk={{hanja-dongguk|ᄎᆞᆷ|chòm}}
-|em={{hanja-samun|ᄎᆞᆷ|chom}}
-|emun=侵
+|dk={{okm-l|ᄎᆞᆷ|chòm}}
+|em={{m|ko|ᄎᆞᆷ|tr=cham}}
+|emun={{lang|zh|侵}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|참}}
@@ -262,7 +262,7 @@ From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=2|jagged; uneven}}.
 ====Hanja====
 {{ko-hanja|들쭉날쭉하다|들쭉날쭉할|참}}
 
-# {{lb|ko|literary}} {{hanja form of|참|[[jagged]]; [[uneven]]}}
+# {{lb|ko|literary|nocat=y}} {{hanja form of|참|[[jagged]]; [[uneven]]}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -273,9 +273,9 @@ From {{der|ko|ltc|sort=참|-}} {{ltc-l|參|id=2|jagged; uneven}}.
 ===Etymology 3===
 From {{der|ko|ltc|sort=삼|-}} {{ltc-l|參|id=1|Three Stars mansion}}.
 {{hanja-ety
-|dk={{hanja-dongguk|ᄉᆞᆷ|sòm}}
-|em={{hanja-samun|ᄉᆞᆷ|som}}
-|emun=侵
+|dk={{okm-l|ᄉᆞᆷ|sòm}}
+|em={{m|ko|ᄉᆞᆷ|tr=sam}}
+|emun={{lang|zh|侵}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|삼}}
@@ -283,7 +283,7 @@ From {{der|ko|ltc|sort=삼|-}} {{ltc-l|參|id=1|Three Stars mansion}}.
 ====Hanja====
 {{ko-hanja|[[별]] [[이름]]|삼}}
 
-# {{hanja form of|삼|{{lb|ko|Chinese astronomy}} {{w|Three Stars (Chinese constellation)|Three Stars}} mansion {{gloss|one of the {{w|Twenty-Eight Mansions}}}}}}
+# {{hanja form of|삼|{{lb|ko|Chinese astronomy|nocat=y}} {{w|Three Stars (Chinese constellation)|Three Stars}} mansion {{gloss|one of the {{w|Twenty-Eight Mansions}}}}}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -299,7 +299,7 @@ From {{der|ko|ltc|sort=삼|-}} {{ltc-l|參|id=4|three}}.
 ====Hanja====
 {{ko-hanja|석|삼}}
 
-# {{lb|ko|financial}} {{alt form|ko|三||{{hanja form of|삼|[[three]]}}}}
+# {{lb|ko|financial|nocat=y}} {{alt form|ko|三||{{hanja form of|삼|[[three]]}}}}
 
 ===References===
 * {{R:hanjadoc|1058}}
