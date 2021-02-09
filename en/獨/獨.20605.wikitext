@@ -83,14 +83,13 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|獨}}.
-
-{{collapse|
-* {{hanja-dongguk|똑〮|ttwók}}
-* {{hanja-hunmong|독〮|twók|雜語}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=독|-}} {{ltc-l|獨}}.
+{{hanja-ety
+|dk={{okm-l|똑〮|ttwók}}
+|m={{okm-l|독〮|twók}}
+|mh={{okm-l|[[ᄒᆞ올|호을]]|hwòùl}}
+|ml=雜語#하33B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|독}}
 
@@ -98,11 +97,11 @@ From {{der|ko|ltc|-}} {{ltc-l|獨}}.
 {{ko-hanja-search}}
 {{ko-hanja|홀로|독}}
 
-# {{hanja form of|독|[[alone]]}}
+# {{hanja form of|독|[[alone]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|독립|[[independence]]|獨立}}
+* {{ko-l|독립|獨立}}
 * {{ko-l|고독|孤獨}}
 * {{ko-l|단독|單獨}}
 * {{ko-l|독거|獨居}}
@@ -120,7 +119,7 @@ From {{der|ko|ltc|-}} {{ltc-l|獨}}.
 {{ko-hanjatab}}
 {{ko-proper noun|hangeul=독}}
 
-# {{q|in headlines}} {{short for|ko|<ruby>[[獨逸]]<rt>[[독일]]</rt></ruby>||{{lb|ko|South Korea}} [[Germany]]|tr=Dogil}}
+# {{q|in headlines}} {{short for|ko|{{ruby|[[독일|[獨](독)[逸](일)]]}}||{{lb|ko|South Korea}} [[Germany]]|tr=Dogil}}
 
 ====Usage notes====
 A common convention in news headlines, this is almost always written solely in the ''[[Hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[Hanja]]''.
