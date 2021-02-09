@@ -98,10 +98,13 @@ Possibly from {{der|zh|mkh-pro|*muuj||cardinal number one}} ({{zh-ref|Schuessler
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|每|id=1}}. {{hanja-hunmong|ᄆᆡ|moy|雜語}}
-
-From {{der|ko|ltc|-}} {{ltc-l|每|id=2}}. {{hanja-hunmong|ᄆᆡ〯|mǒy|雜語}}
-
+From {{der|ko|ltc|sort=매|-}} {{ltc-l|每|id=1}}.
+{{hanja-ety
+|dk={{okm-l|ᄆᆡᆼ〯|mǒy}}
+|m={{okm-l|ᄆᆡ〯|mǒy}}
+|mh={{okm-l|[[닛다|니ᅀᅳᆯ〮]]|nìzúl}}
+|ml=雜語#하24B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|매|l=y}}
 
@@ -109,7 +112,7 @@ From {{der|ko|ltc|-}} {{ltc-l|每|id=2}}. {{hanja-hunmong|ᄆᆡ〯|mǒy|雜語}
 {{ko-hanja-search}}
 {{ko-hanja|매양|매}}
 
-# {{hanja form of|매|[[always]]; [[every]]}}
+# {{hanja form of|매|[[always]]; [[every]]|determiner}}
 
 ====Compounds====
 {{der-top3|Compounds}}
