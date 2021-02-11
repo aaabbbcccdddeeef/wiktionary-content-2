@@ -12,7 +12,7 @@
 ** '''Next:''' [[渺]]
 ** '''Last:''' [[塵]]
 
-====References====
+===Further reading===
 * {{Han ref|kx=0229.190|dkj=05107|dj=0465.090|hdz=10447.150|uh=57C3|ud=22467|bh=AE4A|bd=44618}}
 
 ----
@@ -48,7 +48,7 @@
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # [[fine]] [[dust]], [[dirt]]
 #: {{zh-x|塵埃|dust}}
@@ -76,14 +76,17 @@
 {{ja-readings
 |goon=あい
 |kanon=あい
-|kun=ちり-, ほこり-
+|kun=ちり-,ほこり-
 }}
 
 ===Noun===
+{{ja-kanjitab|y=on}}
 {{ja-noun|あい}}
 
 # one ten-[[billionth]]
 
+===Noun===
+{{ja-kanjitab|ほこり|y=k}}
 {{ja-noun|ほこり}}
 
 # [[dust]]
@@ -95,17 +98,23 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=애|mr=ae}}
+{{ko-hanja|티끌|애}}
 
-# fine dust, [[dirt]]
+# [[fine]] [[dust]], [[dirt]]
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=埃 Naver Hanja Dictionary: 埃]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|reading=ai}}
+{{vi-readings|hanviet=ai|nom=ai}}
 
 # {{rfdef|vi|sort=土07}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=57C3 Nom Foundation]
 
 [[Category:Kennybot testing category]]
