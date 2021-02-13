@@ -121,15 +121,12 @@
 
 ===Etymology===
 From {{der|ko|ltc|sort=촌|-}} {{ltc-l|寸}}.
-
-{{collapse|
-* {{hanja-dongguk|촌〮|chwón}}
-* {{hanja-hunmong|촌〯|chwǒn|雜語#하34A|hun=ᄆᆞᄃᆡ 촌〯}}
-* {{hanja-gwangju|&nbsp;촌|chwon|hun=ᄆᆞᄃᆡ 촌}}
-* {{hanja-sinjeung|&nbsp;촌|chwon|hun=ᄆᆞᄃᆡ 촌}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{okm-l|촌〮|chwón}}
+|m={{okm-l|촌〯|chwǒn}}
+|mh={{okm-l|ᄆᆞᄃᆡ|ᅟmòtòy}}
+|ml=雜語#하34A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|촌|l=y}}
 
@@ -137,14 +134,16 @@ From {{der|ko|ltc|sort=촌|-}} {{ltc-l|寸}}.
 {{ko-hanja-search}}
 {{ko-hanja|마디|촌}}
 
-# {{hanja form of|촌|[[joint]]}}
-# {{hanja form of|촌|[[degree]] of [[kinship]]}}
+# {{hanja form of|촌|[[degree]] of [[kinship]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|삼촌|[[uncle]]|三寸}}
-* {{ko-l|사촌|[[cousin]]|四寸}}
-* {{ko-l|촌지|small [[token]] of [[appreciation]]|寸志}}
+* {{ko-l|삼촌|三寸}}
+* {{ko-l|사촌|四寸}}
+* {{ko-l|오촌|五}}
+* {{ko-l|육촌|六寸}}
+* {{ko-l|촌지|寸志}}
+* {{ko-l|촌수|寸數|number of degrees of kinship}}
 {{der-bottom}}
 
 ===References===
