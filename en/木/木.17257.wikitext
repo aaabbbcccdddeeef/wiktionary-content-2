@@ -224,24 +224,21 @@ Compare literary {{cog|nan|木|tr=bo̍k}}.
 
 ===Etymology===
 From {{der|ko|ltc|sort=목|-}} {{ltc-l|木}}.
-
-{{collapse|
-* {{hanja-dongguk|목〮|mwók}}
-* {{hanja-hunmong|목〮|mwók|雜語#하03B|hun=나모 목〮}}
-* {{hanja-gwangju|&nbsp;목|mwok|hun=나모 목}}
-* {{hanja-sinjeung|&nbsp;목|mwok|hun=나모 목}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{okm-l|목〮|mwók}}
+|m={{okm-l|목〮|mwók}}
+|mh={{okm-l|나모|nàmwò}}
+|ml=雜語#하03B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|목}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja/new|나무|목}}
+{{ko-hanja|나무|목}}
 
-# {{hanja form of|목|[[tree]]}}
-# (as an abbreviation) [[Thursday]]
+# {{hanja form of|목|[[tree]]; [[wood]]; [[wooden]]|affix}}
+# {{hanja form of|목|{{short for|ko|목요일(木曜日)|t=[[Thursday]]|nocat=y}}}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -288,8 +285,6 @@ From {{der|ko|ltc|sort=목|-}} {{ltc-l|木}}.
 
 ===References===
 * {{R:hanjadoc|4793}}
-
-[[Category:Hanja readings|목]]
 
 [[Category:ko:Days of the week|목]]
 
