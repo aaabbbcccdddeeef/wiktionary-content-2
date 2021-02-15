@@ -57,9 +57,6 @@ Reminiscent of Proto-South-Bahnaric ''*saːj'' ("to marry; spouse") ({{zh-ref|Sc
 ===Kanji===
 {{ja-kanji|grade=c|rs=女09}}
 
-# [[groom]]
-# [[daughter]]'s [[husband]], [[son-in-law]]
-
 ====Readings====
 {{ja-readings
 |goon=さい
@@ -67,23 +64,16 @@ Reminiscent of Proto-South-Bahnaric ''*saːj'' ("to marry; spouse") ({{zh-ref|Sc
 |kun=むこ-
 }}
 
-====Compounds====
-* {{ja-r|女%婿|じょ%せい}}
-* {{ja-r|令%婿|れい%せい}}
-
-===Alternative forms===
-{{ja-kanjitab|むこ|yomi=k}}
-* {{ja-l|壻}}, {{ja-l|聟}}
-
 ===Etymology 1===
+{{ja-kanjitab|むこ|yomi=k|alt=壻,聟}}
 &#42;{{IPAfont|/moko/}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">*{{IPAfont|⟨muko<sub>1</sub>⟩}} → *{{IPAchar|/mukʷo/}}</span><span style="float:left;clear:both;">*{{IPAfont|⟨mo<sub>(1)</sub>ko<sub>1</sub>⟩}} → *{{IPAchar|/mʷokʷo/}}</span></span><ref>Frellesvig, B. & Whitman, J. (2008) "[http://conf.ling.cornell.edu/whitman/VowelsofProto-Japanese.Martfest.pdf The Vowels of Proto-Japanese]", ''Proto-Japanese: Issues and Prospects''. Amsterdam: John Benjamins Pub. Co.</ref> → {{IPAchar|/muko/}}
 
-Not confirmed in {{ncog|ojp|-}} documents, although presence of the cognate words suggests {{inh|ja|jpx-pro|*moko}} (cognate with {{cog|ryu|むーく|tr=muːku}}, {{cog|xug|むふ|tr=muhu}}, {{cog|mvi|むく|tr=muku}} and the ''moko'' below). This is a result of the phonological change, that non-final *{{IPAchar|/o/}} in the nouns of Proto-Japonic became {{IPAfont|⟨u⟩}} in Central Old Japanese.
+Not confirmed in {{ncog|ojp|-}} documents, although presence of the cognate words suggests {{inh|ja|jpx-pro|*moko}} (cognate with {{cog|ryu|むーく|tr=mūku}}, {{cog|xug|むふ|tr=muhu}}, {{cog|mvi|むく|tr=muku}} and the ''moko'' below). This is a result of the phonological change, that non-final *{{IPAchar|/o/}} in the nouns of Proto-Japonic became {{IPAfont|⟨u⟩}} in Central Old Japanese.
 
-In regard to the derivation, there are some theories proposed, however many of them are associated with the verbs {{m|ja|向かふ|tr=mukafu}} → {{m|ja|向かう|tr=mukau||to [[go]] [[towards]]}} and {{m|ja|迎ふ|tr=mukafu}} → {{m|ja|迎える|tr=mukaeru||to [[receive]]}}, both derived from {{m|ja|向く|tr=muku||to [[turn]] [[toward]]}}, from {{cog|jpx-pro|*muk-}}. Theories to explain this inconsistency in the proto-forms has not been published yet.
+In regard to the derivation, there are some theories proposed, however many of them are associated with the verbs {{m|ja|向かう|tr=mukau||to [[go]] [[towards]]}} and {{m|ja|迎える|tr=mukaeru||to [[receive]]}}, both derived from {{m|ja|向く|tr=muku||to [[turn]] [[toward]]}}, from {{cog|jpx-pro|*muk-}}. Theories to explain this inconsistency in the proto-forms has not been published yet.
 
 ====Pronunciation====
-{{ja-pron|y=k|むこ|acc=1|acc_ref=DJR}}
+{{ja-pron|むこ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|むこ}}
@@ -98,28 +88,42 @@ In regard to the derivation, there are some theories proposed, however many of t
 * {{s|all senses}} {{ja-r|嫁|よめ}}
 
 =====Derived terms=====
-* {{ja-r|婿 養子|むこ ようし}}
+{{der-top3}}
+* {{ja-r|婿 養%子|むこ よう%し}}
 * {{ja-r|入り婿|いりむこ}}
 * {{ja-r|花%婿|はな%むこ}}
 * {{ja-r|娘%婿|むすめ%むこ}}
+{{der-bottom}}
 
 ===Etymology 2===
-{{ja-kanjitab|もこ|yomi=irr}}
+{{ja-kanjitab|もこ|yomi=irr|alt=聟}}
 &#42;{{IPAfont|/moko/}} → {{IPAfont|⟨mo<sub>(1)</sub>ko<sub>1</sub>⟩}} → *{{IPAchar|/mʷokʷo/}} → {{IPAchar|/moko/}}
 
 From other {{inh|ja|ojp|-}} [[dialect]]s besides Central Old Japanese, with a conserved *{{IPAchar|/o/}} as {{IPAfont|⟨o<sub>1</sub>⟩}}, from {{inh|ja|jpx-pro|*mòkô}}.
 
-Attested as {{m|ojp||毛古}}, {{m|ojp||毛胡|tr={{IPAfont|⟨mo<sub>(1)</sub>ko<sub>1</sub>⟩}} → moko|pos=interpreted as {{m|ja|仲間|t=[[fellow]]}} or {{m|ja|対手|t=[[opponent]]}} in later times}} in the ''{{w|Kojiki}}'' (712 {{CE}}) and ''{{w|Nihon Shoki}}'' (720 {{CE}}), respectively.
+Attested as {{m|ojp||毛古}}, {{m|ojp||毛胡|tr=moko|pos=interpreted as {{m|ja|仲間|tr=nakama||[[fellow]]}} or {{m|ja|対手|tr=taishu||[[opponent]]}} in later times}} in the ''{{w|Kojiki}}'' (712 {{CE}}) and ''{{w|Nihon Shoki}}'' (720 {{CE}}), respectively.
 
 ====Noun====
 {{ja-noun|もこ}}
 
-# {{lb|ja|dialectal|Tōhoku|Northern Kantō|Niigata|Nagano|Chūgoku|etc.}} {{nonstandard form of|ja|婿|tr=muko|nodot=1}} ''above''.
+# {{lb|ja|dialectal|Tōhoku|Northern Kantō|Niigata|Nagano|Chūgoku|etc.}} {{nonstandard form of|ja||むこ|tr=muko|nodot=1}} ''above''
 #* {{RQ:Shinsen Jikyō}}
 #*: {{usex|ja|聟 '''毛古'''、又{{m|ja|敵|加太支}}|Groom: '''''moko''''', also ''kataki'' (“[[enemy]]”)}}
-# {{lb|ja|etymology|archaic|obsolete}} someone who [[confront]]s against someone else; a [[comrade]], [[foe]]
-#* {{RQ:Kojiki|poem 50}}
-#*: {{ja-usex|m=知波夜夫流 宇遲能和多理邇 佐袁斗理邇 波夜祁牟比登斯 和賀'''毛古'''邇許牟|m_kana=ちはやぶる うぢのわたりに さをとりに はやけむひとし わが'''もこ'''にこむ|[[ちはやぶる]]宇治の渡りに棹%取りに速けむ人しわが'''もこ'''に来む|ちはやぶる ^うぢ の わたり に さを%-とり に はやけむ ひと し わが '''もこ''' に こむ}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=kanon|せい|alt=壻}}
+
+From {{der|ja|ltc|sort=せい|-}} {{ltc-l|婿|tr=*sei<sup>H</sup>}}.
+
+====Affix====
+{{ja-pos|affix|せい}}
+
+# [[groom]]
+# [[son-in-law]]
+
+=====Derived terms=====
+* {{ja-r|女%婿|じょ%せい}}
+* {{ja-r|令%婿|れい%せい}}
 
 ===References===
 <references/>
