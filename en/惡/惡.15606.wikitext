@@ -179,15 +179,13 @@ Probably related to etymologies 1 and 2 ({{zh-ref|Xiang, 2019}}). Alternatively,
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|惡|id=3}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅙᅡᆨ〮|qák}}
-* {{hanja-hunmong|악〮|ák|雜語|hun=모〯딜 악〮}}
-* {{hanja-sinjeung|&nbsp;악|ak|hun=모딜 악}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=악|-}} {{ltc-l|惡|id=3}}.
+{{hanja-ety
+|dk={{okm-l|ᅙᅡᆨ〮|qák}}
+|m={{okm-l|악〮|ák}}
+|mh={{okm-l|[[모디다|모〯딜]]|mwǒtìl}}
+|ml=雜語#하31A
+}}
 ====Pronunciation====
 {{ko-hanja-pron|악}}
 
@@ -195,7 +193,7 @@ From {{der|ko|ltc|-}} {{ltc-l|惡|id=3}}.
 {{ko-hanja-search}}
 {{ko-hanja|악하다|악할|악}}
 
-# {{hanja form of|악|[[evil]]; [[wicked]]}}
+# {{hanja form of|악|[[evil]]; [[wickedness]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -243,25 +241,22 @@ From {{der|ko|ltc|-}} {{ltc-l|惡|id=3}}.
 * {{ko-l|참악|慘惡}}
 * {{ko-l|괴악|怪惡}}
 * {{ko-l|악령|惡靈}}
-* {{ko-l|악감정|惡感情}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|惡|id=2}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅙᅩᆼ〮|qwó}}
-* {{hanja-sinjeung|오|wo|hun=아쳐 오 去聲}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=오|-}} {{ltc-l|惡|id=2}}. 
+{{hanja-ety
+|dk={{okm-l|ᅙᅩᆼ〮|qwó}}
+|m3={{okm-l|오|wo}}<!--去聲-->
+|m3h={{okm-l|[[아쳐ᄒᆞ다|아쳐]]|achye}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|오}}
 
 ====Hanja====
 {{ko-hanja|미워하다|미워할|오}}
 
-# {{hanja form of|오|[[hatred]]}}
+# {{hanja form of|오|to [[hate]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
