@@ -132,7 +132,7 @@ Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the 
 ==Japanese==
 {{ja-kanji forms|予|豫}}
 
-===Kanji===
+===Kanji 1===
 {{ja-kanji|grade=3|rs=亅03|kyu=豫}}
 
 # beforehand, in advance
@@ -142,7 +142,7 @@ Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the 
 |goon=よ, しょ<しよ, じょ<ぢよ
 |kanon=よ, しょ<しよ, ちょ<ちよ
 |on=<!--しゃ-->
-|kun=あらかじ-め, あた-える<あた-へる, かね-て
+|kun=あらかじ-め, かね-て
 }}
 
 ====Compounds====
@@ -151,16 +151,30 @@ Assuming {{zh-l|*與}} to be the etymon, there are also various theories on the 
 * {{ja-r|予%定|よ%てい|[[schedule]]}}
 * {{ja-r|予%感|よ%かん}}
 
-===Etymology===
+===Kanji 2===
+{{ja-kanji|grade=3|rs=亅03}}
 
-====Alternative forms====
-* {{l|ja|余}}
+# I; me
+# to give
+
+====Readings====
+{{ja-readings
+|on=よ
+|kun=われ, あた-える<あた-へる
+}}
+
+====Compounds====
+* {{ja-r|予%輩|よ%はい}}
+
+===Etymology===
+{{ja-kanjitab|よ|yomi=o|alt=余|kyu=-}}
+From {{bor|ja|ltc|-}} {{ltc-l|予|id=1}}.
 
 ====Pronunciation====
 * {{IPA|ja|[jo]}}
 
 ====Pronoun====
-{{ja-pos|pronoun|よ|kyu=豫}}
+{{ja-pos|pronoun|よ}}
 
 # first-person personal pronoun; [[I]], [[me]]
 #* 1802-1814: [[w:Tōkaidōchū Hizakurige|Tōkaidōchū Hizakurige]] (volume 1)
