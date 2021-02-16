@@ -112,25 +112,22 @@ Minority views include that it is a graphic simplification of a different Chines
 
 # {{non-gloss definition|Genitive case marker, chiefly for inanimate nouns}}
 
-=====Descendants=====
-
-* {{desc|okm|ㅅ|tr=s|pos=genitive case marker for inanimate or honored animate nouns}}
-** {{desc|ko|ㅅ|pos=interfix}}
-
-====Usage notes====
-
+=====Usage notes=====
 In Middle Korean, the genitive case marker {{okm-inline|ㅅ|-s}} was used for both inanimate nouns and honored animate nouns, while the other genitive marker {{okm-inline|의|-uy}} was reserved for non-honored animate nouns.
 
 In the limited Old Korean corpus, 叱 appears to be used chiefly for inanimate nouns. Meanwhile, many texts use the genitive {{m|oko|尸}} *-lq, with no evident Middle Korean reflex, for honored nouns such as the [[Buddha]]. There is a strong argument that 尸 is an allomorphic variant of 叱, representing a phenomenon ancestral to the tensing of the subsequent obstruent that occurred in Middle Korean when ㅅ occurred between a sonorant and an obstruent. If true, there was no distinction between Old and Middle Korean in the use of the genitive -s.
 
 Unlike the other Old Korean genitive marker {{m|oko|衣|tr=*-uy}}, 叱 could follow other case markers.
 
+=====Descendants=====
+* {{desc|okm|ㅅ|tr=s|pos=genitive case marker for inanimate or honored animate nouns}}
+** {{desc|ko|ㅅ|pos=interfix}}
+
 ====Synonyms====
 * {{m|oko|衣|tr=*-uy}} {{q|genitive case marker, often for animate nouns}}
 * {{m|oko|尸|tr=*-lq}} {{q|genitive case marker, chiefly for honored animate nouns; possibly an allomorph of 叱}}
 
 ====References====
-
 * {{cite-journal|author=조은주 (Jo Eun-ju)|title=Seokdok gugyeol jaryo-e natanan sokgyeok josa-e daehayeo|script-title=ko:석독구결 자료에 나타난 속격조사에 대하여|trans-title=On the genitive case markers in interpretive ''gugyeol'' texts|journal=Gungmunhak Nonjip|year=2002|volume=18|pages=61–90}}
 * {{cite-journal|author=장윤희 (Jang Yun-hui)|title=Seokdok gugyeol 'si'-ui munje haegyeor-eul wihayeo|script-title=ko:석독구결의 속격 "-시(尸)"의 문제 해결을 위하여|trans-title=For a solution to the problem of genitive 尸 in interpretive ''gugyeol''|journal=Gugyeol Yeon'gu|year=2011|volume=27|pages=117–144}}
 * {{cite book|author=Nam Pung-hyun|chapter=Old Korean|pages=41–72|editor-last=Tranter|editor-first=Nicolas|title=The Languages of Japan and Korea|year=2012|publisher=Routledge|isbn=978-0-415-46287-7}}
