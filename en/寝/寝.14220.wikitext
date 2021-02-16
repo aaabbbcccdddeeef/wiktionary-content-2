@@ -38,7 +38,7 @@ The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of classical ver
 {{ja-pron|y=k|ね|acc=0|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|kyu=寢|ね}}
+{{ja-noun|ね}}
 
 # [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
 #: {{syn|ja|睡眠|tr1=suimin|眠り|tr2=nemuri}}
@@ -72,7 +72,7 @@ From {{inh|ja|ojp|-}}.
 * {{ja-l|寐}}
 
 ====Verb====
-{{ja-verb|tr=intrans|type=shimo ni|kyu=寢|ぬ}}
+{{ja-verb|tr=intrans|type=shimo ni|ぬ}}
 
 # {{lb|ja|sort=ぬ|archaic}} to [[sleep]]
 
@@ -94,7 +94,7 @@ From {{inh|ja|ojp|-}}.
 From {{inh|ja|ojp|sort=い|-}}, from {{inh|ja|jpx-pro|*uy}}, a reduced form of {{m|jpx-pro|*suy}}. The initial ''*s'' was deleted due to phonetic similarity with {{m|ja|死|tr=し, shi||death}}. Compare also {{m|ja|去ぬ|tr=いぬ, inu||to leave}} and {{m|ja|死ぬ|tr=しぬ, shinu||to die}}.
 
 ====Noun====
-{{ja-noun|kyu=寢|い}}
+{{ja-noun|い}}
 
 # {{lb|ja|obsolete}} [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
 #* {{RQ:Taketori}} (page 5)<ref>{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title=[[w:Taketori Monogatari|Taketori Monogatari]], [[w:Ise Monogatari|Ise Monogatari]]|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]|date=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
@@ -121,7 +121,7 @@ From {{der|ja|ltc|sort=しん}|-}} {{ltc-l|寢}}.
 {{ja-pron|yomi=o|しん|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
-{{ja-noun|kyu=寢|しん}}
+{{ja-noun|しん}}
 
 # [[sleep#Noun|sleep]], [[sleeping#Noun|sleeping]]
 
@@ -129,7 +129,7 @@ From {{der|ja|ltc|sort=しん}|-}} {{ltc-l|寢}}.
 * {{ja-r|不寝番|ふしんばん}}
 
 ====Affix====
-{{ja-pos|affix|kyu=寢|しん}}
+{{ja-pos|affix|しん}}
 
 # [[sleep]], [[sleeping]]
 # [[inner]] [[parlor]]/[[parlour]], [[living room]]
