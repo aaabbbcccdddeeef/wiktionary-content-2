@@ -143,12 +143,7 @@ The glyph composition is {{Han compound|卯|田|t2=field|c1=p|c2=s}} in bronze i
 
 ==Old Korean==
 
-===Pronunciation===
-
-Conventionally reconstructed as {{IPAfont|*-lwo}}, after the Middle Korean reflex, although the source Chinese readings suggest a different vowel. Many scholars suggest {{IPAfont|*-lwu}} instead.
-
 ===Alternative forms===
-
 * {{m|oko|以}} {{q|logographic variant used in Idu and Gugyeol texts}}
 
 ===Particle===
@@ -157,12 +152,15 @@ Conventionally reconstructed as {{IPAfont|*-lwo}}, after the Middle Korean refle
 # to; towards {{lb|ko|directional case marker}}
 # by; with; using {{lb|ko|instrumental case marker}}
 
-====Descendants====
-* {{desc|okm|로|tr=lwo}}
-** {{desc|ko|로}}
+====Reconstruction notes====
+Conventionally reconstructed as {{IPAfont|*-lwo}} after the Middle Korean reflex, although the source Chinese readings suggest a different vowel. Many scholars suggest {{IPAfont|*-lwu}} instead.
 
-===Usage notes===
+====Usage notes====
 留 takes the vowel-initial [[allomorph]] {{m|oko|乙留}} or {{m|oko|乙以}} after a consonant, corresponding exactly to the Middle and Modern Korean allomorph {{okm-inline|으로|ulo}} also appearing after a consonant.
+
+====Descendants====
+* {{desc|okm|로|tr=-lwo}}
+** {{desc|ko|로}}
 
 ===References===
 * {{cite-journal|author={{lang|ko|이승재}} (Lee Seung-jae)|title={{lang|ko|차자표기 자료의 격조사 연구}}|trans-title=Study of case markers in the Chinese-based orthography [of Korean]|journal=Gugeo gungmunhak|year=2000|volume=127|pages=107–132}}
