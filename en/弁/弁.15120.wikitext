@@ -80,51 +80,96 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|弁|辨}}
-{{ja-kanji forms|弁|瓣}}
-{{ja-kanji forms|弁|辯}}
 
-===Kanji===
-{{ja-kanji|grade=5|rs=廾02|kyu=辨,瓣,辯}}
+===Kanji 1===
+{{ja-kanji forms|弁|辨}}
+{{ja-kanji|grade=5|rs=廾02|kyu=辨}}
+
+# to distinguish
 
 ====Readings====
 {{ja-readings
 |goon=べん
 |kanon=はん, へん
-|kun=かんむり-, わきま-える, わ-ける
+|kun=わきま-える, わ-ける
+}}
+
+===Kanji 2===
+{{ja-kanji forms|弁|瓣}}
+{{ja-kanji|grade=5|rs=廾02|kyu=瓣}}
+
+# petal
+# valve
+
+====Readings====
+{{ja-readings
+|on=べん
+|kun=はなびら
 }}
 
 ====Compounds====
-* {{m|ja|関西弁||Kansai dialect|tr=kansaiben|sc=Jpan}}.
-* {{m|ja|花弁||petal|tr=kaben|sc=Jpan}}.
-<!-- WTF? Why do 花びら and　花弁 mean the same, look so similar and yet are spoken completely different?　-->
+* {{ja-r|花%弁|か%べん|petal}}
+
+===Kanji 3===
+{{ja-kanji forms|弁|辯}}
+{{ja-kanji|grade=5|rs=廾02|kyu=辯}}
+
+# speech
+
+====Readings====
+{{ja-readings
+|on=べん
+|kun=と-く, かた-る
+}}
+
+====Compounds====
+* {{ja-r|関西弁|^かんさい-べん|Kansai dialect}}
+
+===Kanji 4===
+{{ja-kanji|grade=5|rs=廾02}}
+
+# [[hat]]
+
+====Readings====
+{{ja-readings
+|on=べん
+|kun=かんむり-
+}}
 
 ====Usage notes====
 In Japan, this character is [[shinjitai]] of 3 characters, [[辨]], [[瓣]], [[辯]]. Furthermore, in modern usage, this character is used to replace [[辮]] and [[辦]].
 
-===Suffix===
-{{ja-pos|suffix|べん|kyu=辯}}
+===Etymology 1===
+{{ja-kanjitab|べん|yomi=o|kyu=辨}}
+From {{bor|ja|ltc|-}} {{ltc-l|辨}}.
+
+====Noun====
+{{ja-noun|べん}}
+
+# [[discrimination]]
+
+===Etymology 2===
+{{ja-kanjitab|べん|yomi=o|kyu=瓣}}
+From {{bor|ja|ltc|-}} {{ltc-l|瓣}}.
+
+====Noun====
+{{ja-noun|べん}}
+
+# [[petal]]
+# [[valve]]
+
+===Etymology 3===
+{{ja-kanjitab|べん|yomi=o|kyu=辯}}
+From {{bor|ja|ltc|-}} {{ltc-l|辯}}.
+
+====Suffix====
+{{ja-pos|suffix|べん}}
 
 # [[dialect]]
 
-====See also====
+=====See also=====
 * [[:Category:Regional Japanese]]
 * {{ja-r|方言|ほうげん|gloss=dialect}}
-
-===Noun===
-
-====Etymology 1====
-
-{{ja-noun|べん|rom=ben|kyu=辨}}
-
-# [[discrimination]]
-# [[valve]]
-
-====Etymology 2====
-
-{{ja-noun|べん|rom=ben|kyu=瓣}}
-
-# [[petal]]
 
 ----
 
