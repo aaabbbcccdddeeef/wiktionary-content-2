@@ -175,6 +175,39 @@ Meixian: cai4 - literary; coi1 - colloquial; hoi1/hoi4 - colloquial (preposition
 
 ----
 
+==Old Korean==
+
+===Alternative terms===
+* {{alter|oko|𠂇}} {{q|[[kwukyel]] abbreviation}}
+
+===Pronunciation===
+Conventionally read as {{IPAfont|*KYE-}} because Middle Korean {{w|Idu script}} manuals (which usually preserve Old Korean readings) read this character as {{okm-inline|견|kyen}}, which is clearly an inflected form with the realis gerund {{m|ko|ㄴ|tr=-n}}.
+
+Although Old Korean writing does not mark pitch, the Middle Korean reflexes show rising pitch, which [[Appendix:Koreanic reconstructions|are the result of a merger of a low-pitch and high-pitch syllable]]. This means that the Old Korean verb stem was not in fact monosyllabic {{IPAfont|*kye-}} but really consisted of two syllables. However, this original pronunciation cannot be reconstructed.
+
+===Verb===
+{{head|oko|verb|tr=*KYE-}}
+
+# to [[exist]], to [[be]] at
+#: {{syn|oko|有叱|tr=*Is-}}
+# {{n-g|A common auxiliary verb or (more probably) verbal suffix, usually thought to denote the [[completive]] aspect, i.e. describing an action which has been completed and remains in such a state. An alternative but minority hypothesis holds that it honored the subject of the verb to a moderate degree, whereas {{m|oko|賜|tr=*-si}} was more highly honorific.}}
+[[Category:Old Korean suffixes]]
+
+====Usage notes====
+In both senses, it appears to have been wholly supplanted by the Middle Korean stage by {{m|oko|有叱|tr=*Is-}} > {{ncog|okm|잇다〮|tr=ìstá}}, which is already common for the independent verbal sense in the early first millennium and is first attested as an auxiliary in 1262. The word is not found in Middle Korean outside the two derived terms given below.
+
+====Descendants====
+* {{desc|okm|겨〯시다〮|tr=kyěsìtá|t=to exist, to be at|der=1|pos=honorific}}
+** {{desc|ko|계시다}}
+* {{desc|okm|겨〯집|tr=kyěcìp|t=woman|lit=stay-at-home|der=1}}
+** {{desc|ko|계집}}
+
+===References===
+* {{cite-journal|title={{lang|ko|{{ruby|[古](고)[代](대) [吏](이)[讀](두)의 [尊](존)[敬](경)[法](법) '-[在](재)[겨]-'에 대하여}}}}|trans-title=On the deferential marker ''-kye-'' in Old Korean ''idu''|author={{lang|ko|이승재}}|pages=53—70|journal=Eomun yeon-gu|volume=29|issue=4|year=2001}}
+* {{cite-journal|title={{lang|ko|시상의 조동사 '在/𠂇/겨-'의 발달'}}|trans-title=The development of the aspectual auxiliary ''kye-''|author={{lang|ko|남풍현}}|pages=5—34|journal=Gugeo gukmunhak|volume=138|year=2004}}
+
+----
+
 ==Vietnamese==
 
 ===Han character===
