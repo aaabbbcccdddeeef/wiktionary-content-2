@@ -371,17 +371,25 @@ Borrowing from {{bor|ja|cmn|中|tr=zhōng}}
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|中}}. {{hanja-hunmong|듕|tyung|雜語}}
-
+From {{der|ko|ltc|sort=중|-}} {{ltc-l|中|id=1}}.
+{{hanja-ety
+|dk={{okm-l|듀ᇰ|tyùng}}
+|m={{okm-l|듀ᇰ|tyùng}}
+|mh={{okm-l|[[가ᄫᆞᆫᄃᆡ|가온ᄃᆡᆺ]]|kawontoy-s}}
+|ml=雜語#하34B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|중}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja/new|가운데|중}}
+{{ko-hanja|가운데|중}}
 
-# {{hanja form of|중|[[middle]]; [[center]]; [[amongst]]}}
-# {{hanja form of|중|[[China]] (in compounds, in news media)}}
+# {{hanja form of|중|[[average]] {{gl|grade or class}}}}
+# {{hanja form of|중|[[middle]]; [[medium]]}}
+# {{hanja form of|중|[[amongst]]}}
+# {{hanja form of|중|in the [[course]] of; [[during]]}}
+# {{hanja form of|중|[[China]] {{q|in compounds, in news media}}}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -421,7 +429,7 @@ From {{der|ko|ltc|-}} {{ltc-l|中}}. {{hanja-hunmong|듕|tyung|雜語}}
 {{ko-hanjatab}}
 {{ko-proper noun|hangeul=중}}
 
-# {{q|in headlines}} {{short for|ko|[[中國|<ruby>中國<rt>중국</rt></ruby>]]||[[China]]|tr=Jungguk}}
+# {{q|in news headlines}} {{short for|ko|{{ruby|[[중국|[中](중)[國](국)]]}}||[[China]]|tr=Jungguk}}
 #: {{ux|ko|[[韓]]·'''中''' [[관계]]|tr=Han·'''Jung''' gwangye|South Korea – '''China''' relations}}
 
 ====Usage notes====
