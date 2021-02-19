@@ -65,7 +65,15 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|侶|id=1}}. {{hanja-hunmong|려〮|lye|人類#중03A|alt=侣}}
+From {{der|ko|ltc|sort=려|-}} {{ltc-l|侶}}.
+{{hanja-ety
+|dk={{okm-l|령〯|lyě}}
+|m={{okm-l|려〮|lyé}}<!--侣-->
+|mh={{okm-l|벋〯|pět}}
+|ml=人類#중03A
+}}
+===Pronunciation===
+{{ko-hanja-pron|려|여}}
 
 ===Hanja===
 {{ko-hanja-search}}
@@ -75,8 +83,8 @@ From {{der|ko|ltc|-}} {{ltc-l|侶|id=1}}. {{hanja-hunmong|려〮|lye|人類#중0
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ko-l|승려|[[monk]]|僧侶}}
-* {{ko-l|반려|[[partner]]; [[companion]]|伴侶}}
+* {{ko-l|승려|僧侶}}
+* {{ko-l|반려|伴侶}}
 {{der-bottom}}
 
 ===References===
