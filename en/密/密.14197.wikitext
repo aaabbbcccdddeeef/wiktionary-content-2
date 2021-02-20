@@ -71,7 +71,7 @@
 {{ja-readings
 |goon=みつ, みち
 |kanon=びつ
-|kun=しげし, ひそ-か, ひそ-かに, みそ-か
+|kun=ひそ-か, ひそ-やか, みそ-か
 }}
 
 ====Compounds====
@@ -92,7 +92,14 @@
 {{der-bottom}}
 
 ===Etymology===
-{{ja-kanjitab|みつ}}
+{{ja-kanjitab|yomi=goon|みつ}}
+
+From {{der|ja|ltc|sort=みつ|-}} {{ltc-l|蜜}}.
+
+First cited to a text from 1092.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|みつ|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|みつ}}
@@ -112,6 +119,12 @@
 # {{lb|ja|of relations among people}} [[close]], [[familiar]], [[intimate]]
 #: {{synonyms|ja|深い|tr=fukai}}
 #: {{ja-usex|'''密な'''間%柄|'''みつ な''' あいだ%がら|'''familiar''' terms, '''intimate''' relations}}
+
+====Inflection====
+{{ja-na|みつ}}
+
+===References===
+<references/>
 
 ----
 
