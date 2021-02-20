@@ -33,15 +33,13 @@
 * {{alter|ko|教}}
 
 ===Etymology===
-From {{der|ko|ltc|sort=교|-}} {{ltc-l|敎|id=2|to teach; to instruct}}. 
-
-{{collapse|
-* {{hanja-dongguk|교ᇢ〮|kyów}}
-* {{hanja-hunmong|교〯|kyǒ|雜語#하28A|hun=ᄀᆞᄅᆞ칠〮 교〯}}
-* {{hanja-sinjeung|&nbsp;교|kyo|hun=ᄀᆞᄅᆞ칠 교}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=교|-}} {{ltc-l|敎|id=2}}. 
+{{hanja-ety
+|dk={{okm-l|교ᇢ〮|kyóv}}
+|m={{okm-l|교〯|kyǒ}}
+|mh={{okm-l|[[ᄀᆞᄅᆞ치다|ᄀᆞᄅᆞ칠〮]]|kòlòchíl}}
+|ml=雜語#하28A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|교|l=y}}
 
@@ -49,8 +47,8 @@ From {{der|ko|ltc|sort=교|-}} {{ltc-l|敎|id=2|to teach; to instruct}}.
 {{ko-hanja-search}}
 {{ko-hanja|가르치다|가르칠|교}}
 
-# {{hanja form of|교|to [[teach]]; [[class]]}}
-# {{hanja form of|교|[[religion]]; [[doctrine]]}}
+# {{hanja form of|교|[[teach]]ing|affix}}
+# {{hanja form of|교|[[religion]]; [[faith]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
