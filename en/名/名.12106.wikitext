@@ -236,14 +236,22 @@ From {{der|ja|ltc|sort=めい|-}} {{ltc-l|名|name}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|名}}. {{hanja-hunmong|며ᇰ|myeng|天倫#상32B}}
+From {{der|ko|ltc|sort=명|-}} {{ltc-l|名}}.
+{{hanja-ety
+|dk={{okm-l|며ᇰ|myèng}}
+|m={{okm-l|며ᇰ|myèng}}
+|mh={{okm-l|일홈〮|ìlhwóm}}
+|ml=天倫#상32B
+}}
+===Pronunciation===
+{{ko-hanja-pron|명}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|이름|명}}
 
-# {{hanja form of|명|[[name]]}}
-# {{hanja form of|명|[[famous]]; [[great]]}}
+# {{hanja form of|명|[[name]]|noun}}
+# {{hanja form of|명|[[famous]]; [[great]]; [[noted]]|prefix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
