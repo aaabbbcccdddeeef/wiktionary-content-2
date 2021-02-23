@@ -71,9 +71,10 @@
 ===Etymology===
 From {{der|ko|ltc|sort=함|-}} {{ltc-l|函}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|ᅘᅡᆷ|hhàm}}
-|m={{hanja-hunmong|함|hàm|器皿|alt=凾}}
-|mh=[[함|함〯]] 함
+|dk={{okm-l|ᅘᅡᆷ|hhàm}}
+|m={{okm-l|함|hàm}}
+|mh={{okm-l|함〯|hǎm}}
+|ml=器皿#중19B
 }}
 ===Pronunciation===
 {{ko-hanja-pron|함|l=y}}
@@ -82,13 +83,13 @@ From {{der|ko|ltc|sort=함|-}} {{ltc-l|函}}.
 {{ko-hanja-search}}
 {{ko-hanja|함|함}}
 
-# {{hanja form of|함|[[box]]}}
+# {{hanja form of|함|[[box]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|서함|書函}}
-* {{ko-l|함수|[[function]]|函數}}
-* {{ko-l|우편함|[[mailbox]]|郵便函}}
+* {{ko-l|함수|函數}}
+* {{ko-l|우편함|郵便函}}
 * {{ko-l|사물함|私物函}}
 * {{ko-l|수신함|受信函}}
 * {{ko-l|보관함|保管函}}
