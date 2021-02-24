@@ -88,14 +88,13 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|敗|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|뺑〮|ppáy}}
-* {{hanja-hunmong|패〯|phǎy|雜語}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=패|-}} {{ltc-l|敗}}. 
+{{hanja-ety
+|dk={{okm-l|뺑〮|ppáy}}
+|m={{okm-l|패〯|phǎy}}
+|mh={{okm-l|[[ᄒᆡ야디다|ᄒᆡ〮야〮딜]]|hóyyátìl}}
+|ml=雜語#하22B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|패|l=y}}
 
@@ -103,7 +102,7 @@ From {{der|ko|ltc|-}} {{ltc-l|敗|id=1}}.
 {{ko-hanja-search}}
 {{ko-hanja|지다|질|패}}
 
-# {{hanja form of|패|to [[lose]]}}
+# {{hanja form of|패|[[defeat]]; [[loss]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -121,7 +120,7 @@ From {{der|ko|ltc|-}} {{ltc-l|敗|id=1}}.
 * {{ko-l|패업|敗業}}
 * {{ko-l|패소|敗訴}}
 * {{ko-l|석패|惜敗}}
-* {{ko-l|패배|[[defeat]]|敗北}}
+* {{ko-l|패배|敗北}}
 {{der-bottom}}
 
 ===References===
