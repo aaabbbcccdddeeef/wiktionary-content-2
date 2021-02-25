@@ -294,15 +294,12 @@ Originally a compound of {{compound|ja|子|tr1=ko|t1=[[child]]|の|tr2=no|pos2=p
 
 ===Etymology===
 From {{der|ko|ltc|sort=형|-}} {{ltc-l|兄}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᄒᆑᇰ|hyuyeng}}
-* {{hanja-hunmong|혀ᇰ|hyeng|天倫#상32A|hun=몬 혀ᇰ}}
-* {{hanja-gwangju|형|hyeng|hun=ᄆᆞᆮ 형}}
-* {{hanja-sinjeung|형|hyeng|hun=ᄆᆞᆮ 형}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{okm-l|ᄒᆑᇰ|hyyèng}}
+|m={{okm-l|혀ᇰ|hyèng}}
+|mh={{okm-l|ᄆᆞᆮ|ᅟmòt}}
+|ml=天倫#상32A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|형}}
 
@@ -310,7 +307,7 @@ From {{der|ko|ltc|sort=형|-}} {{ltc-l|兄}}.
 {{ko-hanja-search}}
 {{ko-hanja|형|형}}
 
-# {{hanja form of|형|[[elder brother]]}}
+# {{hanja form of|형|[[older]] [[brother]] of a [[male]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
