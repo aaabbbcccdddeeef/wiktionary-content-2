@@ -182,22 +182,21 @@ From {{der|ja|ltc|sort=し|-}} {{ltc-l|氏|id=3}}.
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|氏|id=3}}.
-
-{{collapse|
-* {{hanja-dongguk|씽〯|ssǐ}}
-* {{hanja-hunmong|시〮|sí|天倫#상32B|hun=각시〮 시〮}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=씨|-}} {{ltc-l|氏|id=3}}.
+{{hanja-ety
+|dk={{okm-l|씽〯|ssǐ}}
+|m={{okm-l|시〮|sí}}
+|mh={{okm-l|각시〮|kàksí}}
+|ml=天倫#상32B
+}}
 ====Pronunciation====
 {{ko-hanja-pron|씨}}
 
 ====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|[[성씨]]/[[각시]]|씨}}
+{{ko-hanja|성씨(姓氏)|씨}}
 
-# {{hanja form of|씨|[[surname]]}}
+# {{hanja form of|씨|[[lineage]]; [[surname]]}}
 # {{hanja form of|씨|[[Mr.]]; [[Ms.]]}}
 
 ====Compounds====
@@ -207,24 +206,21 @@ From {{der|ko|ltc|-}} {{ltc-l|氏|id=3}}.
 * {{ko-l|모씨|某氏}}
 * {{ko-l|화씨|華氏}}
 * {{ko-l|씨명|氏名}}
-* {{ko-l|씨족|[[clan]]|氏族}}
+* {{ko-l|씨족|氏族}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|氏|id=1}}.
-
-{{collapse|
-* {{hanja-dongguk|징|ci}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=지|-}} {{ltc-l|氏|id=1}}.
+{{hanja-ety
+|dk={{okm-l|징|cì}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|지}}
 
 ====Hanja====
 {{ko-hanja|[[나라]] [[이름]]|지}}
 
-# {{lb|ko|historical}} {{hanja form of|지|a [[country]] [[name]]}}
+# {{lb|ko|historical|nocat=y}} {{hanja form of|지|{{n-g|Only used in}} {{ko-l|월지|月氏}}}}
 
 ====Compounds====
 {{der-top|Compounds}}
