@@ -94,46 +94,78 @@ When used as a radical, 尸 is usually derived from a variation of [[人]] or [[
 ==Old Korean==
 
 ===Etymology 1===
-
-The [[phonogram]] is thought to follow the Old Chinese pronunciation of the character, which began with a liquid, rather than the Middle Chinese pronunciation, which began with a sibilant.
+Most likely from the {{w|Old Chinese}} initial of {{och-l|尸}}. Other, but less likely, hypotheses include that it was a graphic abbreviation of some other character with initial {{IPAfont|*/l/}} (but no such character has been easily identified), or that it was invented in Korea (but there would appear to be no motivation for this, given the commonness of {{IPAfont|/l/}} in all stages of Chinese).
 
 ====Phonogram====
-{{head|oko|phonogram|tr=*-l}}
+{{head|oko|phonogram|tr1=*-l|tr2=*-lh}}
 
-# {{non-gloss definition|A consonantal [[phonogram]] denoting coda consonant *-l}}
+# {{non-gloss definition|A consonantal [[phonogram]] denoting coda consonant *-l or *-lh.}}
+#: {{suffixusex|oko|道|t1=road|pos1=[[logogram]]|尸|tr2=*-l|pos2=coda-marking [[phonogram]]|道尸|tr3=*KIl(h)|t3=road}}
+#: {{suffixusex|oko|二|t1=two|pos1=[[logogram]]|尸|tr2=*-l|pos2=coda-marking [[phonogram]]|二尸|tr3=*TWUPUl(h)|t3=two}}
 
-====See also====
-* {{l|oko|肹|tr=*-r}}
+=====Usage notes=====
+Note that Old Korean distinguished liquid {{m|oko|尸|tr=*-l}} and rhotic {{m|oko|乙|tr=*-r}}, though the two merged in Middle Korean.
+
+=====See also=====
+* {{l|oko|肹|tr=*-(hu)r}}
 * {{l|oko|乙|tr=*-r}}
 
 ===Etymology 2===
 
 ====Suffix====
-{{head|oko|suffix|tr=*-l, *-lq}}
+{{head|oko|suffix|tr=*-lq}}
 
-# {{non-gloss definition|An irrealis/prospective verbal gerund-marking suffix, used both to make verbal nouns and for adnominal functions.}}
+# {{non-gloss definition|The irrealis/prospective verbal [[gerund]]-marking suffix:}}
+## what will, one who will, what to, what is, one who is, etc.; {{n-g|used to nominalize a verb in the future or in a general sense.}}
+##* {{quote-book|oko|year=c. 1250|title=Interpretive ''{{w|gugyeol}}'' glosses to the ''{{w|Yogācārabhūmi-Śāstra}}''|text=[於]思惟<sup>[[乎]]尸</sup>所 <sup>[[良中]]</sup>疑<sup>是</sup>隨逐<sup>[[乎]]'''尸'''</sup>[[有叱|有]]<sup>[[有叱|叱]][[㢱]]</sup> |tr=*SO.YU-hoyo-l PA-akuy UY-i SYU.TYUK-hoyo-'''lq''' Is-umye|t=As there is the follow'''ing''' of doubt in that which one reflects|footer=(N.B. Gugyeol glyphs are given in non-abbreviated forms. Bracketed terms were ignored when read.)|page=11.117}}
+##* {{quote-book|oko|year=c. 1250|title=Interpretive ''{{w|gugyeol}}'' glosses to the {{w|Humane King Sutra}}|text=作樂<sup>[[乎]]'''尸'''[[刀]]</sup>亦<sup>[[乎]][[隱]]</sup>[[然叱|然]]<sup>[[然叱|叱]][[乎]][[示]][[下]]</sup>|footer=(N.B. Gugyeol glyphs are given in non-abbreviated forms.)|page=3.10—11|tr=CAK.AK-ho-'''lq'''-two STWO-ho-n [?]-s-ho-si-ha|t=The [honored] '''ones who''' make music [the honored music-mak'''er'''s] also did as such}}
+## which will, [something] to, which is, etc.; {{n-g|used as an [[adnominal]], but chiefly for dependent nouns and certain common constructions.}}
+##* {{quote-book|oko|year=765|author={{w2|ko|충담사|忠談師|tr=Chungdamsa}}|chapter={{w2|ko|안민가|安民歌|tr=Anmin-ga}}|title={{w2|ko|三國遺事|三國遺事|tr=Samguk Yusa}}|trans-title={{w|Samguk Yusa|Memorabilia of the Three Kingdoms}}|text=君隱父也臣隱愛賜'''尸'''母史也|tr=*NIMKUM-un AP-ye SIN-un TOSU-si-'''lq''' Esi-ye|t=The sovereign is a father; the ministers are lov'''ing''' mothers}}
+##* {{quote-book|oko|year=c. 1250|title=Interpretive ''{{w|gugyeol}}'' glosses to the ''{{w|Yogācārabhūmi-Śāstra}}''|text=[於]思惟<sup>[[乎]]'''尸'''</sup>所 <sup>[[良中]]</sup>疑<sup>是</sup>隨逐<sup>[[乎]]尸</sup>[[有叱|有]]<sup>[[有叱|叱]][[㢱]]</sup> |tr=*SO.YU-hoyo-'''lq''' PA-akuy UY-i SYU.TYUK-hoyo-l Is-umye|t=As there is the following of doubt in that '''which''' one reflects|footer=(N.B. Gugyeol glyphs are given in non-abbreviated forms. Bracketed terms were ignored when read.)|page=11.117}}
+## {{n-g|Used to introduce a statement being quoted.}}
 
 =====Descendants=====
-* {{desc|okm|ㅭ|tr=lq|pos=verbal irrealis particle, generally adnominal}}
-** {{desc|ko|ㄹ|pos=verbal irrealis adnominal suffix}}
+{{top2}}
+* {{desc|okm|으ᇙ〮|tr=-(ú)lq|pos=verbal irrealis particle, generally adnominal}}
+** {{desc|ko|을|tr=-(eu)l|pos=irrealis adnominal suffix}}
+* {{desc|okm|리〮|tr=-lí|der=1}}
+** {{desc|ko|리|tr=-ri}}
+* {{desc|okm|리〮|tr=-lí|der=1}}
+** {{desc|ko|리라|tr=-rira|der=1}}
+* {{desc|okm|려〮|tr=-lyé|der=1}}
+** {{desc|ko|랴|tr=-rya}}
+* {{desc|okm|료〮|tr=-lyó|der=1}}
+** {{desc|ko|료|tr=-ryo}}
+* {{desc|okm|으ᇙ〮가〮|tr=-(ú)lqká|der=1}}
+** {{desc|ko|을까|tr=-(eu)lkka}}
+* {{desc|okm|으ᇙ〮고〮|tr=-(ú)lqkwó|der=1}}
+** {{desc|ko|을꼬|tr=-(eu)lkko}}
+* {{desc|okm|으ᇙ〮다〮|tr=-(ú)lqtá|der=1}}
+* {{desc|okm|을〮뎬〮|tr=-(ú)ltyéyn|der=1}}
+* {{desc|okm|을〮ᄉᆞ록〮|tr=-(ú)lsòlwók|der=1}}
+** {{desc|ko|을수록}}
+{{bottom2}}
 
-====See also====
-* {{m|oko|隱|tr=*-n|pos=realis gerund}}
+=====See also=====
+* {{l|oko|隱|tr=*-n|pos=realis gerund}}
 
 ===Etymology 3===
 
 ====Particle====
-{{head|oko|particle|tr=*-lq, *-ls}}
+{{head|oko|particle|tr1=*-lq|tr2=*-q|tr3=*-s}}
 
-# {{non-gloss definition|Genitive case marker, chiefly for honored animate nouns}}
+# {{non-gloss definition|A genitive case marker chiefly attested after honored animate nouns.}}
 
-====Usage notes====
-There is a strong argument that 尸 represents an allomorphic variant of the well-known genitive particle {{m|oko|叱|tr=*-s}} rather than an independent genitive case marker.
+=====Usage notes=====
+There is a strong argument that {{m|oko||尸}} represents an allomorphic variant of the well-known genitive particle {{m|oko|叱|tr=*-s}} rather than an independent genitive case marker. {{cog|okm|ㅭ|tr=-lq}} and Modern {{cog|ko|ㄹ|tr=-l}} both have the effect of tensing a subsequent consonant. Tensing was also one of the major allomorphs of {{cog|okm|ㅅ|tr=-s}}, see [[ㅅ#Alternative forms]], and is virtually the sole effect of Modern {{cog|ko|ㅅ|tr=-s-}}. Therefore, Old Korean {{m|oko||尸}} was most likely used to denote the tensing effect of {{m|oko|叱|tr=*-s}}.
+
+This notion is further supported by the fact that {{cog|okm|ㅅ|tr=-s}} is the regular reflex of {{m|oko||尸}}. For instance, {{cog|oko|尸中|tr=*qkuy|pos=honorific dative marker}} > {{cog|okm|ᄭᅴ|tr=skuy|pos=id.}} > Modern {{cog|ko|께|pos=id.}}
 
 ===References===
-* {{cite-journal|author=장윤희 (Jang Yun-hui)|title=Seokdok gugyeol 'si'-ui munje haegyeor-eul wihayeo|script-title=ko:석독구결의 속격 "-시(尸)"의 문제 해결을 위하여|trans-title=For a solution to the problem of genitive 尸 in interpretive ''gugyeol''|journal=Gugyeol Yeon'gu|year=2011|volume=27|pages=117–144}}
+* {{cite-book|author={{lang|ko|황선엽}} (Hwang Seon-yeop) et al.|title={{lang|ko|석독구결사전/釋讀口訣辭典}}|trans-title=Dictionary of interpretive ''gugyeol''|publisher=Bakmunsa|year=2009|isbn=978-89-94024-04-2|pages=411—549}}
+* {{cite-journal|author={{lang|ko|장윤희}} (Jang Yun-hui)|title={{lang|ko|석독구결의 속격 "-시(尸)"의 문제 해결을 위하여}}|trans-title=For a solution to the problem of genitive 尸 in interpretive ''gugyeol''|journal=Gugyeol Yeon'gu|year=2011|volume=27|pages=117–144}}
 * {{cite book|author=Nam Pung-hyun|chapter=Old Korean|pages=41–72|editor-last=Tranter|editor-first=Nicolas|title=The Languages of Japan and Korea|year=2012|publisher=Routledge|isbn=978-0-415-46287-7}}
-* {{cite-journal|author=이병기 (Yi Byeong-gi)|title=Godae Gugeo dongmyeongsa eomi-ui munbeopjeok teukjing-gwa gwaje|script-title=ko:고대국어 동명사 어미의 문법적 특징과 과제|trans-title=The grammatical features of Old Korean verbal nominalizers and further tasks for research|doi=10.17001/kugyol.2019..43.003|journal=Gugyeol Yeon'gu|year=2019|volume=43|pages=89–125}}
+* {{cite-journal|author={{lang|ko|이병기}} (Yi Byeong-gi)|title={{lang|ko|고대국어 동명사 어미의 문법적 특징과 과제}}|trans-title=The grammatical features of Old Korean verbal nominalizers and further tasks for research|doi=10.17001/kugyol.2019..43.003|journal=Gugyeol Yeon'gu|year=2019|volume=43|pages=89–125}}
 
 ----
 
