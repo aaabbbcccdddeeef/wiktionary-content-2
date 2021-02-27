@@ -4,23 +4,28 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=11|sn=14|four=|canj=RHOI|ids=⿰口得}}
 
-====References====
+===Further reading===
 * {{Han ref|kx=0206.201|dkj=04229|hdz=10677.110|uh=561A|ud=22042}}
 
 ----
 
 ==Chinese==
-{{zh-forms|t=嘚}}
+{{zh-forms}}
+
+===Glyph origin===
+{{Han compound|口|得|c1=s|c2=p|ls=psc|t1=mouth}}.
 
 ===Pronunciation 1===
 {{zh-pron
 |m=dē
 |c=dak1
-|cat=
+|mc=y
+|oc=y
+|cat=v
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{lb|zh|onomatopoeia}} [[clip-clop]]
 #* {{zh-x|嘚嘚嘚|tr='''Dē dē dē'''|'''klopp klopp klopp'''}}
@@ -35,7 +40,7 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{n-g|Sound to urge a donkey or mule forward.}}
 
@@ -45,7 +50,7 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{zh-used in|嘚瑟}}
 
@@ -59,4 +64,16 @@
 # {{rfdef|ja|sort=口11}}
 
 ====Readings====
-* {{ja-readings|on=[[とく]] (toku)|kun=}}
+* {{ja-readings|on=とく}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|지껄이다|지껄일|득}}
+
+# {{rfdef|ko|sort=口11}}
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=嘚 Naver Hanja Dictionary: 嘚]
