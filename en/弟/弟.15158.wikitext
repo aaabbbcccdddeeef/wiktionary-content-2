@@ -60,17 +60,32 @@
 ===Kanji===
 {{ja-kanji|grade=2|rs=弓04}}
 
+# [[younger]] [[brother]]
+# [[disciple]]
+
 ====Readings====
 {{ja-readings
 |goon=だい
 |kanon=てい
 |kanyoon=で
-|kun=おと-, おとうと-
+|kun=おと-, おとうと
 }}
+
+====Compounds====
+; yonger brother
+* {{ja-r|弟妹|ていまい|[[younger]] [[sibling]]}}
+* {{ja-r|兄弟|きょうだい|[[brother]]}}
+* {{ja-r|子弟|してい|[[son]] and younger brother}}
+* {{ja-r|姉弟|してい|[[elder]] [[sister]] and yonger brother}}
+; disciple
+* {{ja-r|弟子|でし|disciple}}
+* {{ja-r|師弟|してい|[[master]] and disciple}}
+* {{ja-r|徒弟|とてい|[[trainee]]}}
+* {{ja-r|門弟|もんてい|disciple}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|おと}}
-Cognate with the verb {{m|ja|劣る|tr=otoru||to be lesser, inferior}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Cognate with the verb {{m|ja|劣る|tr=otoru||to be inferior}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=k|おと}}
@@ -102,7 +117,7 @@ Originally a compound of {{compound|ja|sort=おとうと|弟|t1=younger sibling|
 ====Noun====
 {{ja-noun|おとうと}}
 
-# one’s own [[younger]] [[brother]]
+# [[younger]] [[brother]]
 # a younger [[male]]
 
 {{ja-altread|hira=おとっ}}
@@ -111,6 +126,11 @@ Originally a compound of {{compound|ja|sort=おとうと|弟|t1=younger sibling|
 
 =====Usage notes=====
 Used when referring to one’s own younger brother. To refer to someone else’s younger brother, the suffixed form {{m|ja|弟}}{{m|ja|さん|tr=otōto-san}} is used instead. When ''addressing'' one’s own younger brother, the given name is used, often with a suffix, such as {{m|ja|太郎}}{{m|ja|君|tr=Tarō-kun}}. Contrast with addressing one’s own older brother, when one uses the honorific {{m|ja|お兄さん|tr=onīsan}}.
+
+=====Related terms=====
+* {{ja-r|妹|いもうと|younger [[sister]]}}
+* {{ja-r|兄|あに|[[elder]] brother}}
+* {{ja-r|姉|あね|elder sister}}
 
 ===References===
 <references/>
