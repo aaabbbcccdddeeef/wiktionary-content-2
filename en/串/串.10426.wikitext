@@ -198,8 +198,10 @@ Cognate with {{m|ja|櫛|tr=kushi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|sort=관|-}} {{ltc-l|串}}. {{hanja-dongguk|관〮|kwán}}
-
+From {{der|ko|ltc|sort=관|-}} {{ltc-l|串}}.
+{{hanja-ety
+|dk={{okm-l|관〮|kwán}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|관}}
 
@@ -241,7 +243,7 @@ Misreading of {{der|ko|ltc|sort=찬|-}} {{ltc-l|丳}}.
 #: {{syn|ko|丳|tr={{m|ko|찬}}}}
 
 ===Etymology 4===
-Related to {{cog|okm|-}} {{okm-inline|곶다〮|kwòctá}}.
+Related to {{cog|okm|-}} {{okm-l|곶다〮|kwòctá}}.
 
 ====Hanja====
 {{ko-hanja|[[땅]] [[이름]]|곶}}
