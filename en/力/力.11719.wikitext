@@ -220,14 +220,10 @@ Only found in compounds and idioms in modern Japanese.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|力}}. Perhaps more specifically from {{der|ko|ltc-lat|-}} {{ltc-lat-l|力}}.
-{{collapse|
-* {{hanja-dongguk|륵〮|lúk}}
-* {{hanja-sinjeung|녁|nyek}}
-* {{hanja-samun|력|lyek}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=력|-}} {{ltc-l|力}}. Perhaps more specifically from {{der|ko|ltc-lat|sort=력|-}} {{ltc-lat-l|力}}.
+{{hanja-ety
+|dk={{okm-l|륵〮|lúk}}
+}}
 ===Pronunciation===
 {{ko-hanja-pron|력|역}}
 
@@ -235,13 +231,13 @@ From {{der|ko|ltc|-}} {{ltc-l|力}}. Perhaps more specifically from {{der|ko|ltc
 {{ko-hanja-search}}
 {{ko-hanja|힘|력||역}}
 
-# {{hanja form of|[[력]]/[[역]]|[[strength]]; [[power]]}}
+# {{hanja form of|[[력]]/[[역]]|[[power]]; [[force]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|마력|魔力}}
 * {{ko-l|마력|馬力}}
-* {{ko-l|강력|強力/强力}}
+* {{ko-l|강력|強力}}
 * {{ko-l|권력|權力}}
 * {{ko-l|근력|筋力}}
 * {{ko-l|노력|努力}}
