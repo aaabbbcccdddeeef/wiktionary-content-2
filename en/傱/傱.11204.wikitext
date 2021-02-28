@@ -4,12 +4,16 @@
 ===Han character===
 {{Han char|rn=9|rad=人|as=11|sn=13|four=28281|canj=OHOO|ids=⿰亻從}}
 
-====References====
+===Further reading===
 {{Han ref|kx=0114.170|dkj=01013|dj=0242.250|hdz=10212.040|uh=50B1}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亻|從|c1=s|c2=p|ls=psc}}.
 
 ===Etymology 1===
 {{zh-forms}}
@@ -24,7 +28,7 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{zh-only|傱傱}}
 
@@ -38,7 +42,7 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{lb|zh|Hokkien}} to [[rush]] in a [[panic]]
 # {{lb|zh|Hokkien}} to rush about for something
@@ -57,15 +61,30 @@
 
 ====Readings====
 {{ja-readings
-|on=しょう, しゅ, そう
+|on=しょう,しゅ,そう
 |kun=はやいさま
 }}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|[[종종]] [[걸음칠]]|종}}
+
+# {{rfdef|ko|sort=人11}}
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=傱 Naver Hanja Dictionary: 傱]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|reading=[[tuồng]]|rs=人11}}
+{{vi-readings|nom=tuồng|rs=人11}}
 
 # {{rfdef|vi|sort=人11}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=50B1 Nom Foundation]
