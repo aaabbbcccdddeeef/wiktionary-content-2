@@ -71,8 +71,13 @@
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|炙|id=1}}. {{hanja-hunmong|쟈〯|cyǎ|雜語|hun=구울〮 쟈〯}}
-
+From {{der|ko|ltc|sort=자|-}} {{ltc-l|炙|id=1}}.
+{{hanja-ety
+|dk={{okm-l|쟝〮|cyá}}
+|m={{okm-l|쟈〯|cyǎ}}
+|mh={{okm-l|[[굽다|구을〮]]|kwùúl}}
+|ml=雜語#하13A
+}}
 ====Pronunciation====
 {{ko-hanja-pron|자}}
 
@@ -88,15 +93,20 @@ From {{der|ko|ltc|-}} {{ltc-l|炙|id=1}}. {{hanja-hunmong|쟈〯|cyǎ|雜語|hun
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|炙|id=2}}. {{hanja-hunmong|젹〮|cyék|食饌|hun=젹〮 젹〮}}
-
+From {{der|ko|ltc|sort=적|-}} {{ltc-l|炙|id=2}}.
+{{hanja-ety
+|dk={{okm-l|젹〮|cyék}}
+|m={{okm-l|젹〮|cyék}}
+|mh={{okm-l|[[적#jeok|젹〮]]|cyék}}
+|ml=食饌#중21A
+}}
 ====Pronunciation====
 {{ko-hanja-pron|적}}
 
 ====Hanja====
 {{ko-hanja|굽다|구울|적}}
 
-# {{hanja form of|적|{{w|Jeok}}}}
+# {{hanja form of|적|[[w:Jeok|jeok]] {{gl|a Korean meat dish}}}}
 
 ====Compounds====
 {{der-top3|Compounds}}
