@@ -120,17 +120,16 @@
 ==Korean==
 
 ===Alternative forms===
-* {{alter|ko|畵|tr={{m|ko|[[화]], [[획]]}}}}
+* {{alter|ko|畵}}
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|畫|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅘᅫᆼ〮|hhwáy}}
-* {{hanja-hunmong|화〯|hwǎ|人類#중02B|alt=𦘕|hun=그〮릴〮 화〯}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=화|-}} {{ltc-l|畫|id=1}}. 
+{{hanja-ety
+|dk={{okm-l|ᅘᅫᆼ〮|hhwáy}}
+|m={{okm-l|화〯|hwǎ}} <!--𦘕-->
+|mh={{okm-l|[[그리다|그〮릴〮]]|kúlíl}}
+|ml=人類#중02B
+}}
 ====Pronunciation====
 {{ko-hanja-pron|화|l=y}}
 
@@ -151,15 +150,12 @@ From {{der|ko|ltc|-}} {{ltc-l|畫|id=1}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|畫|id=2}}.
+From {{der|ko|ltc|sort=획|-}} {{ltc-l|畫|id=2}}.
 
 ====Hanja====
 {{ko-hanja|긋다|그을|획}}
 
-# {{hanja form of|획|to [[draw]] a [[line]]; to [[mark#Verb|mark]]}}
-
-====Usage notes====
-{{m|ko|劃|tr={{m|ko|[[획]]}}}} is the preferred form in ''Korean [[Hanja]]'' for this sense.
+# {{alt form|ko|劃||{{hanja form of|획|to [[draw]] a [[line]]; to [[mark#Verb|mark]]}}}}
 
 ====Compounds====
 {{der-top|Compounds}}
