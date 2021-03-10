@@ -168,8 +168,13 @@ Compound of {{prefix|ja|sort=みしるし|御|tr1=mi|pos1=honorific prefix|璽|t
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|璽}}. {{hanja-hunmong|ᄉᆞ〯|sǒ|書式#상35A}}
-
+From {{der|ko|ltc|sort=새|-}} {{ltc-l|璽}}.
+{{hanja-ety
+|dk={{okm-l|ᄉᆞᆼ〯|sǒ}}
+|m={{okm-l|ᄉᆞ〯|sǒ}}
+|mh={{okm-l|[[인#seal|인〮]]|ín}}
+|ml=書式#상35A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|새}}
 
@@ -180,9 +185,10 @@ From {{der|ko|ltc|-}} {{ltc-l|璽}}. {{hanja-hunmong|ᄉᆞ〯|sǒ|書式#상35A
 # {{hanja form of|새|[[royal]] [[seal]]}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ko-l|국새|the [[seal]] of [[state]]; the [[Great]] [[Seal]]|國璽}}
-* {{ko-l|옥새|[[imperial]] [[jade]] [[seal]]|玉璽}}
+{{der-top3|Compounds}}
+* {{ko-l|국새|國璽}}
+* {{ko-l|옥새|玉璽}}
+* {{ko-l|인새|印璽}}
 {{der-bottom}}
 
 ===References===
