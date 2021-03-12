@@ -180,14 +180,19 @@ In modern development, this term has taken on a more [[literary]] sense.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|夜}}. {{hanja-hunmong|야〯|yǎ|天文#상01B}}
-
+From {{der|ko|ltc|sort=야|-}} {{ltc-l|夜}}.
+{{hanja-ety
+|dk={{okm-l|양〮|yá|link=no}}
+|m={{okm-l|야〯|yǎ}}
+|mh={{okm-l|밤〮|pám}}
+|ml=天文#상01B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|야|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja/new|밤|야}}
+{{ko-hanja|밤|야}}
 
 # {{hanja form of|야|[[night]]}}
 
