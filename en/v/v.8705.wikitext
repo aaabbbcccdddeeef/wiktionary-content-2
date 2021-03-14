@@ -610,13 +610,13 @@ From {{inh|sl|sla-pro|*vъ(n)}}.
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|es|/b/}}
 * {{sense|letter name}}
-** {{qualifier|traditional}} {{es-IPA|ve}} (spelled {{m|es|ve}})
-** {{qualifier|common in most countries}} {{es-IPA|uve}} (spelled {{m|es|uve}}) {{audio|es|Letter v es es.flac|Audio (Spain)}}
+{{es-IPA|ve|pre={{qualifier|traditional}}}} (spelled {{m|es|ve|bullets=2}})
+{{es-IPA|uve|pre={{qualifier|common in most countries}}}} (spelled {{m|es|uve}}) {{audio|es|Letter v es es.flac|Audio (Spain)|bullets=2}}
 ** {{qualifier|common in some countries}}:
-*** {{es-IPA|ve corta}} ({{m|es|ve corta}});
-*** {{es-IPA|ve baja}} ({{m|es|ve baja}});
-*** {{es-IPA|ve pequeña}} ({{m|es|ve pequeña}}); or
-*** {{es-IPA|ve chica}} ({{m|es|ve chica}})
+{{es-IPA|ve corta|post=({{m|es|ve corta}});|bullets=3}}
+{{es-IPA|ve baja|post=({{m|es|ve baja}});|bullets=3}}
+{{es-IPA|ve pequeña|post=({{m|es|ve pequeña}}); or|bullets=3}}
+{{es-IPA|ve chica|post=({{m|es|ve chica}})|bullets=3}}
 
 ===Letter===
 {{head|es|letter|lower case||upper case|V}}
