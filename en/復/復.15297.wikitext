@@ -89,14 +89,12 @@ Walk [[back and forth]].
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|復|id=2}}. 
-
-{{collapse|
-* {{hanja-dongguk|뽁〮|ppwók}}
-* {{hanja-sinjeung|복|pwok|hun=도로 복}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=복|-}} {{ltc-l|復|id=2}}. 
+{{hanja-ety
+|dk={{okm-l|뽁〮|ppwók|link=no}}
+|m3={{okm-l|복|pwok}}
+|m3h={{okm-l|도로|twolwo}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|복}}
 
@@ -123,20 +121,18 @@ From {{der|ko|ltc|-}} {{ltc-l|復|id=2}}.
 * {{ko-l|복창|復唱}}
 * {{ko-l|복속|復屬}}
 * {{ko-l|복학|復學}}
-* {{ko-l|보복|[[retaliation]]|報復}}
-* {{ko-l|복귀|[[return]]|復歸}}
-* {{ko-l|복고|[[retro]]|復古}}
+* {{ko-l|보복|報復}}
+* {{ko-l|복귀|復歸}}
+* {{ko-l|복고|復古}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|復|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|뿌ᇢ〮|ppwúw}}
-* {{hanja-sinjeung|부|pwu|hun=다시 부}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=부|-}} {{ltc-l|復|id=1}}. 
+{{hanja-ety
+|dk={{okm-l|뿌ᇢ〮|ppwúw|link=no}}
+|m3={{okm-l|부|pwu}}
+|m3h={{okm-l|다시|tasi}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|부|l=y}}
 
@@ -147,9 +143,9 @@ From {{der|ko|ltc|-}} {{ltc-l|復|id=1}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|부흥|[[rejuvenation]]|復興}}
-* {{ko-l|부활|[[revival]]|復活}}
-* {{ko-l|부활절|[[Easter]]|復活節}}
+* {{ko-l|부흥|復興}}
+* {{ko-l|부활|復活}}
+* {{ko-l|^부활절|復活節}}
 {{der-bottom}}
 
 ===References===
