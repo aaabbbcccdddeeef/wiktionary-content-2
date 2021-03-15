@@ -180,11 +180,15 @@ From {{der|ja|ltc|-}} {{ltc-l|原|gloss=source; origin; beginning}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|原}}. 
-
-{{hanja-dongguk|ᅌᅯᆫ|ngwen}}
-
-{{hanja-hunmong|원|wen|地理#상03B}}
+From {{der|ko|ltc|sort=원|-}} {{ltc-l|原}}.
+{{hanja-ety
+|dk={{okm-l|ᅌᅯᆫ|ngwèn|link=no}}
+|m={{okm-l|원|wèn}}
+|mh={{okm-l|두던〮|twùtén}}
+|ml=地理#상03B
+}}
+===Pronunciation===
+{{ko-hanja-pron|원}}
 
 ===Hanja===
 {{ko-hanja-search}}
