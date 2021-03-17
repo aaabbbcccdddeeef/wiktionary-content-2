@@ -2,18 +2,22 @@
 
 ===Etymology 1===
 {{ja-kanjitab|く|yomi=kun}}
-From {{inh|ja|ojp|sort=くる|-}}, from {{inh|ja|jpx-pro|sort=くる|*kuru}} {{rfv-etym|ja}}. Cognate with {{cog|xug|来ん|tr=すん, sun}}, {{cog|mvi|来|tr=きぃ, ksï}}, {{cog|ryu|来ーん|tr=ちゅーん, chuun}}, {{cog|rys|来ん|tr=きぃん, kïn}}, {{cog|yoi|来ん|tr=くん, kun}}.
+From {{inh|ja|ojp|sort=くる|来|tr=ku}}.  Compare the development of modern {{ja-r|する}} from {{cog|ojp|す}}.
+
+First attested in the ''{{w|Kojiki}}'' of 712.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{cog|xug|来ん|tr=sun}}, {{cog|mvi|来|tr=ksï}}, {{cog|ryu|来ーん|tr=chuun}}, {{cog|rys|来ん|tr=kïn}}, {{cog|yoi|来ん|tr=g kun}}.
 
 ====Pronunciation====
-{{ja-pron|くる|acc=1|acc_ref=SMK2}}
+{{ja-pron|くる|acc=1|acc_ref=DJR,SMK5,NHK}}
 {{ja-ojad}}
 
 ====Verb====
 {{ja-verb|くる|type=kuru|tr=intrans}}
 
-# to [[come]] (toward the speaker/writer)
+# {{defdate|from 712}} to [[come]] (toward the speaker/writer)
 #: {{ja-usex|[[お客さん]]が[[あまり]]'''来ない'''[[お店]]|お-きゃく-さん が あまり '''こない''' お-みせ|a shop that does not see many visitors}}
-# {{lb|ja|specifically|of a sensation}} to [[come]] and [[stimulate]]
+# {{defdate|from 1908}} {{lb|ja|specifically|of a sensation}} to [[come]] and [[stimulate]]
 #: {{ja-usex|[[心]]に'''来る'''[[悲しい|悲し]]さ|こころ に '''くる''' かなしさ|sadness that '''strikes''' the heart}}
 #: {{ja-usex|[[喉]]に'''来る'''[[辛い|辛]]さ|のど に '''くる''' からさ|spiciness that '''assaults''' the throat}}
 
@@ -27,8 +31,8 @@ From {{inh|ja|ojp|sort=くる|-}}, from {{inh|ja|jpx-pro|sort=くる|*kuru}} {{r
 =====Derived terms=====
 * {{ja-r|-て くる}}: {{qualifier|[[suffix]]}} to be [[gradually]] [[approaching]] oneself
 * {{ja-r|迫り来る|せまりくる}}
-* {{ja-r|持って来る|もって くる}}: {{qualifier|[[verb]]}} [[bring]] {{qualifier|the object is a thing}}
-* {{ja-r|連れて来る|つれて くる}}: {{qualifier|[[verb]]}} [[bring]] {{qualifier|the object is a person}}
+* {{ja-r|持って来る|もって くる}}: {{qualifier|[[verb]]}} [[bring]] something
+* {{ja-r|連れて来る|つれて くる}}: {{qualifier|[[verb]]}} [[bring]] someone
 * {{ja-r|来る日|くるひ}}
 
 ===Etymology 2===
@@ -45,7 +49,7 @@ From {{ja-compound|来|き|pos1=continuative form of etymology 1|linkto1=来る|
 ====Verb====
 {{ja-verb|type=1|tr=intrans|きたる}}
 
-# To [[come]], to [[arrive]].
+# to [[come]], to [[arrive]]
 #* '''2011''', NHK, 天皇誕生日 皇居で一般参賀:
 #*: {{ja-usex|'''来る'''年が皆さん一人びとりにとり、よい年であるよう祈っています。|'''きたる''' とし が みな-さん ひとりびとり に とり、 よい とし で ある よう いのって います。|I pray that '''next''' year [the '''coming''' year] will be a good year for each of you.}}
 
