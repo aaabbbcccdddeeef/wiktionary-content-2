@@ -150,10 +150,18 @@ Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|ब�
 
 ==Korean==
 
-===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|佛|id=1}}. {{hanja-hunmong|불〮|pwul|人類#중02B}}
+===Etymology===
+From {{der|ko|ltc|sort=불|-}} {{ltc-l|佛|id=1}}.
+{{hanja-ety
+|dk={{okm-l|뿌ᇙ〮|ppwúlq|link=no}}
+|m={{okm-l|불〮|pwúl}}
+|mh={{okm-l|부텨|Pwùthyè}}
+|ml=人類#중02B
+}}
+===Pronunciation===
+{{ko-hanja-pron|불}}
 
-====Hanja====
+===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|부처|불}}
 
@@ -162,26 +170,17 @@ From {{der|ko|ltc|-}} {{ltc-l|佛|id=1}}. {{hanja-hunmong|불〮|pwul|人類#중
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ko-l|불교|佛敎|Buddhism}}
-* {{ko-l|불경|[[Buddhist]] [[scripture]]s|佛經}}
-* {{ko-l|성불|gaining enlightenment|成佛}}
-* {{ko-l|^불어|[[French]] (language)|佛語}}
+* {{ko-l|불교|佛敎}}
+* {{ko-l|불경|佛經}}
+* {{ko-l|성불|成佛}}
+* {{ko-l|^불어|佛語}}
 {{der-bottom}}
-
-===Etymology 2===
-Related to {{cog|ltc|-}} {{ltc-l|弼}}.
-
-====Hanja====
-{{ko-hanja|돕다|도울|필}}
-
-# {{lb|ko|literary Chinese}} {{alt form|ko|弼||{{hanja form of|필|to [[assist]]}}}}
 
 ===Proper noun===
 {{ko-hanjatab}}
 {{ko-proper noun|hangeul=불}}
 
-# {{q|in headlines}} {{short for|ko|[[佛蘭西|<ruby>佛蘭西<rt>불란서</rt></ruby>]]||[[France]]|tr=Bullanseo}}
-#: {{ux|ko|'''佛''',  2018[[년]] [[FIFA#Translingual|FIFA]] [[월드컵]] [[決勝|결승]][[戰|전]] [[우승]]|tr='''Bul''', icheonsippallyeon pipa woldeukeop gyeolseungjeon useung|'''France''' won the 2018 FIFA World Cup finals.}}
+# {{q|in news headlines}} {{short for|ko|{{ruby|[[불란서|[佛](불)[蘭](란)[西](서)]]}}|t=[[France]]|tr=Bullanseo}}
 
 ====Usage notes====
 A common convention in news headlines, this is almost always written solely in the ''[[Hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[Hanja]]''.
