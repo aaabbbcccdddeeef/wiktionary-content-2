@@ -182,13 +182,12 @@ From {{der|ja|ltc|sort=とう|-}} {{ltc-l|島}}.
 
 ===Etymology===
 From {{der|ko|ltc|sort=도|-}} {{ltc-l|島}}. 
-
-{{collapse|
-* {{hanja-dongguk|도ᇢ〯|twǒw}}
-* {{hanja-hunmong|도〯|twǒ|地理#상04A}}
-|Historical readings
-|bg=#FFFFFF}}
-
+{{hanja-ety
+|dk={{okm-l|도ᇢ〯|twǒw|link=no}}
+|m={{okm-l|도〯|twǒ}}
+|mh={{okm-l|셤〯|syěm}}
+|ml=地理#상04A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|도}}
 
@@ -209,7 +208,7 @@ From {{der|ko|ltc|sort=도|-}} {{ltc-l|島}}.
 * {{ko-l|군도|群島}}
 * {{ko-l|반도|半島}}
 * {{ko-l|^송도|松島}}
-* {{ko-l|[[열도]]/[[렬도]]|列島}}
+* {{ko-l|열도|列島}}
 * {{ko-l|주도|洲島}}
 * {{ko-l|^천도|千島}}
 * {{ko-l|다도해|多島海}}
