@@ -152,14 +152,13 @@ Further derivation is uncertain.  Possibilities include:
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|熊|id=1}}. 
-
-{{collapse|
-* {{hanja-dongguk|ᅘᅮᇰ|hhwung}}
-* {{hanja-hunmong|으ᇰ|ung|獸畜#상19A}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=웅|-}} {{ltc-l|熊}}.
+{{hanja-ety
+|dk={{okm-l|ᅘᅮᇰ|hhwùng|link=no}}
+|m={{okm-l|우ᇰ|wùng}}
+|mh={{okm-l|곰〯|kwǒm}}
+|ml=獸畜#상19A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|웅}}
 
@@ -172,7 +171,7 @@ From {{der|ko|ltc|-}} {{ltc-l|熊|id=1}}.
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|^웅녀|{{w|Ungnyeo|Ungnyeo}}|熊女}}
-* {{ko-l|웅담|{{w|Bile bear|bear gallbladder}}|熊膽}}
+* {{ko-l|웅담|熊膽}}
 * {{ko-l|^웅진|{{w|Ungjin}}|熊津}}
 {{der-bottom}}
 
