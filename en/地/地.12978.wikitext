@@ -269,14 +269,13 @@ From {{inh|ja|ojp|-|sort=つち}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><r
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=지|-}} {{ltc-l|地}}. 
-
-{{collapse|
-* {{hanja-dongguk|띵〮|ttí}}
-* {{hanja-hunmong|디〮|tí|天文#상01A}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=지|-}} {{ltc-l|地}}.
+{{hanja-ety
+|dk={{okm-l|띵〮|ttí|link=no}}
+|m={{okm-l|디〮|tí}}
+|mh={{okm-l|[[ᄯᅡᇂ|ᄯᅡ〮]]|stá}}
+|ml=天文#상01A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|지}}
 
@@ -284,7 +283,7 @@ From {{der|ko|ltc|sort=지|-}} {{ltc-l|地}}.
 {{ko-hanja-search}}
 {{ko-hanja|땅|지}}
 
-# {{hanja form of|지|[[earth]]; [[land]]; [[ground]]}}
+# {{hanja form of|지|[[earth]]; [[land]]; [[ground]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
