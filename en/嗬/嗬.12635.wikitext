@@ -5,24 +5,26 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=10|sn=13|four=|canj=RTOR,XRTOR|ids=⿰口荷}}
 
-# {{lb|mul|Cantonese}} [[interrogative]] [[particle]]
-
 ====References====
-* {{Han ref|kx=0206.201|hdz=10665.080|uh=55EC|ud=21996}}
+{{Han ref|kx=0206.201|hdz=10665.080|uh=55EC}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+{{zh-forms|alt=呵,可}}
+
+===Etymology===
+Possibly from the fusion of {{zh-l|係|hai6|to be, yes}} + {{zh-l|哦|o2|interjection/particle expressing doubt or uncertainty}} ({{zh-ref|Chor et al., 2016}}).
 
 ===Pronunciation===
 {{zh-pron
-|m=hē
 |c=ho2
-|cat=
+|cat=part
 }}
+{{attn|zh|hē?}}
 
 ===Definitions===
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|Cantonese}} {{n-g|Sentence-final particle used in an [[interrogative]] seeking confirmation.}}
+#: {{zh-x|你 今晚 會 出席 個 晚會{wui6-2} 㗎 嗬？|You're attending the party this evening, '''right'''?|C}}
