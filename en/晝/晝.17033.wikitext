@@ -95,14 +95,13 @@ From {{inh|zh|sit-pro|*g-duk||daytime; noon}} (STEDT). Cognate with {{cog|bo|ག
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|晝}}. 
-
-{{collapse|
-* {{hanja-dongguk|듀ᇢ〮|tyúw}}
-* {{hanja-hunmong|듀〯|tyǔ|天文#상01B}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=주|-}} {{ltc-l|晝}}. 
+{{hanja-ety
+|dk={{okm-l|듀ᇢ〮|tyúw|link=no}}
+|m={{okm-l|듀〯|tyǔ}}
+|mh={{okm-l|[[낮|낫〮]]|nás}}
+|ml=天文#상01B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|주}}
 
@@ -110,14 +109,14 @@ From {{der|ko|ltc|-}} {{ltc-l|晝}}.
 {{ko-hanja-search}}
 {{ko-hanja|낮|주}}
 
-# {{hanja form of|주|[[daytime]]}}
+# {{hanja form of|주|[[daytime]]|affix}}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ko-l|주간|[[daytime]]|晝間}}
-* {{ko-l|주야|[[day and night]]|晝夜}}
-* {{ko-l|백주|[[daytime]]|白晝}}
-* {{ko-l|불철주야|[[day and night]]; [[round the clock]]|不撤晝夜}}
+* {{ko-l|주간|晝間}}
+* {{ko-l|주야|晝夜}}
+* {{ko-l|백주|白晝}}
+* {{ko-l|불철주야|不撤晝夜}}
 {{der-bottom}}
 
 ===References===
