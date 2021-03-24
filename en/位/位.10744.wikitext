@@ -158,8 +158,13 @@ From {{inh|zh|sit-pro|*g-r(j)ap||to stand}}. Cognate with {{och-l|立}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|位}}. {{hanja-hunmong|위|wuy|雜語#하01A}}
-
+From {{der|ko|ltc|sort=위|-}} {{ltc-l|位}}.
+{{hanja-ety
+|dk={{okm-l|윙〮|wúy|link=no}}
+|m={{okm-l|위|wùy}}
+|mh={{okm-l|벼슬|pyèsùl}}
+|ml=雜語#하01A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|위}}
 
@@ -167,9 +172,8 @@ From {{der|ko|ltc|-}} {{ltc-l|位}}. {{hanja-hunmong|위|wuy|雜語#하01A}}
 {{ko-hanja-search}}
 {{ko-hanja|자리|위}}
 
-# {{hanja form of|위|[[position]]; [[location]]; [[place]]}}
-# {{hanja form of|위|[[rank]]; [[grade]]; [[status]]}}
-# {{hanja form of|위|[[standard]]; [[rule]]}}
+# {{hanja form of|위|[[status]], [[position]]|noun}}
+# {{hanja form of|위|[[rank]], [[place]]|counter}}
 
 ====Compounds====
 {{der-top4|Compounds}}
@@ -184,7 +188,7 @@ From {{der|ko|ltc|-}} {{ltc-l|位}}. {{hanja-hunmong|위|wuy|雜語#하01A}}
 * {{ko-l|품위|品位}}
 * {{ko-l|학위|學位}}
 * {{ko-l|수위|水位}}
-* {{ko-l|위치|[[location]]|位置}}
+* {{ko-l|위치|位置}}
 {{der-bottom}}
 
 ===References===
