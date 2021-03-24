@@ -254,14 +254,12 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|切|id=2}}.
-
-{{collapse|
-* {{hanja-dongguk|쳐ᇙ〮|chyélq}}
-* {{hanja-sinjeung|졀|cyel|hun=졀ᄒᆞᆯ 졀}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=절|-}} {{ltc-l|切|id=2}}.
+{{hanja-ety
+|dk={{okm-l|쳐ᇙ〮|chyélq|link=no}}
+|m3={{okm-l|졀|cyel}}
+|m3h={{okm-l|[[절하다|졀ᄒᆞᆯ]]|cyel-hol}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|절}}
 
@@ -269,7 +267,7 @@ From {{der|ko|ltc|-}} {{ltc-l|切|id=2}}.
 {{ko-hanja-search}}
 {{ko-hanja|끊다|끊을|절}}
 
-# {{hanja form of|절|[[cut]]}}
+# {{hanja form of|절|to [[cut]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -285,26 +283,23 @@ From {{der|ko|ltc|-}} {{ltc-l|切|id=2}}.
 * {{ko-l|절개|切開}}
 * {{ko-l|반절|反切}}
 * {{ko-l|절점|切點}}
-* {{ko-l|절단|[[cut off]]|切斷}}
-* {{ko-l|적절|[[appropriacy]]|適切}}
-* {{ko-l|간절|[[cordiality]]|懇切}}
+* {{ko-l|절단|切斷}}
+* {{ko-l|적절|適切}}
+* {{ko-l|간절|懇切}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|-}} {{ltc-l|切|id=1}}.
-
-{{collapse|
-* {{hanja-dongguk|촁〮|chyéy}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=체|-}} {{ltc-l|切|id=1}}.
+{{hanja-ety
+|dk={{okm-l|촁〮|chyéy|link=no}}
+}}
 ====Pronunciation====
 {{ko-hanja-pron|체}}
 
 ====Hanja====
 {{ko-hanja|온통|체}}
 
-# {{hanja form of|체|[[whole]]}}
+# {{hanja form of|체|{{n-g|Only used in}} {{ko-l|일체|一切|[[all]], [[everything]]}}; [[whole]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
