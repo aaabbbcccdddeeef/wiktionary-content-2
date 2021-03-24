@@ -111,8 +111,10 @@ From {{der|ja|ltc|午|tr=ngu<sup>X</sup>|sort=こ'}}
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|午}}. {{hanja-dongguk|ᅌᅩᆼ〯|ngwǒ}}
-
+From {{der|ko|ltc|sort=오|-}} {{ltc-l|午}}.
+{{hanja-ety
+|dk={{okm-l|ᅌᅩᆼ〯|ngwǒ|link=no}}
+}}
 ===Pronunciation===
 {{ko-hanja-pron|오|l=y}}
 
@@ -120,7 +122,7 @@ From {{der|ko|ltc|-}} {{ltc-l|午}}. {{hanja-dongguk|ᅌᅩᆼ〯|ngwǒ}}
 {{ko-hanja-search}}
 {{ko-hanja|낮|오}}
 
-# {{hanja form of|오|[[noon]]; [[daytime]]}}
+# {{hanja form of|오|[[noon]]; [[daytime]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
