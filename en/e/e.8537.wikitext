@@ -1700,31 +1700,19 @@ From {{inh|sc|la|et}}, ultimately from {{der|sc|ine-pro|*éti}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{inh|gd|sga|[[é]], [[hé]]}}, from {{inh|gd|ine-pro|*éy}}.
+{{dercat|gd|cel-pro|ine-pro|inh=2}}
+From {{inh|gd|sga|é}}. Cognates include {{cog|ga|é}} and {{cog|gv|eh}}.
 
 ===Pronunciation===
-* {{IPA|gd|[ɛ]}}
+* {{IPA|gd|/ˈɛ/}}
 
 ===Pronoun===
-{{head|gd|pronoun}}
+{{head|gd|pronoun|cat2=personal pronouns}}
 
-# [[he]]
-# [[him]]
-# {{qualifier|referring to a masculine noun}} [[it]]
-
-====Related terms====
-* {{l|gd|esan}} {{qualifier|emphatic}}
+# [[he]], [[him]], [[it]]
 
 ====See also====
-{{top2}}
-* {{l|gd|mi}}
-* {{l|gd|thu}}
-* {{l|gd|i}}
-{{mid2}}
-* {{l|gd|sinn}}
-* {{l|gd|sibh}}
-* {{l|gd|iad}}
-{{bottom}}
+{{gd-personal pronouns}}
 
 ===References===
 * {{R:Dwelly}}
