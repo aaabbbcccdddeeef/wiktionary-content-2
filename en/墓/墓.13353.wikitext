@@ -135,10 +135,52 @@ Seldom used in isolation. More commonly encountered in compounds.
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=묘|rv=myo|mr=myo}}
+===Etymology 1===
+Irregularly shifted from {{der|ko|ltc|sort=묘|-}} {{ltc-l|墓}}, perhaps due to confusion with the [[hanja]] {{m|ko|廟|tr=myo|t=temple}}.
+{{hanja-ety
+|dk={{okm-l|몽〮|mwó|link=no}}
+|m={{okm-l|묘〯|mywǒ}}
+|mh={{okm-l|무덤〮|mùtém}}
+|m3={{okm-l|묘|mywo}}
+|m3h={{okm-l|분묘|pwunmywo}}
+}}
+====Pronounciation====
+{{ko-hanja-pron|묘}}
 
-# {{rfdef|ko|sort=土11}}
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|무덤|묘}}
+
+# {{hanja form of|묘|[[grave]]; [[tomb]]|noun}}
+# {{hanja form of|묘|[[grave]]; [[tomb]]|affix}}
+
+=====Compounds=====
+{{der-top3|Compounds}}
+* {{ko-l|묘비|墓碑}}
+* {{ko-l|묘소|墓所}}
+* {{ko-l|묘역|墓域}}
+* {{ko-l|묘지|墓地}}
+* {{ko-l|분묘|墳墓}}
+* {{ko-l|성묘|省墓}}
+{{der-bottom}}
+
+===Etymology 2===
+Presumably the original form.
+
+====Pronounciation====
+* {{a|{{w|Yukjin dialect|Yukjin}}}} [[Wiktionary:International Phonetic Alphabet|IPA]]<sup>([[Appendix:Korean pronunciation|key]])</sup>: {{IPAfont|[mó]}}
+
+====Hanja====
+{{ko-hanja|무덤|모}}
+
+# {{lb|ko|Yukjin}} {{hanja form of|모|[[grave]]; [[tomb]]|noun}}
+
+=====Usage notes=====
+* Yukjin speakers still use the orthodox pronunciation in compounds, e.g. {{m|ko|묘디(墓地)}} for {{m|ko|묘지(墓地)}}.
+* This form appears to have historically been more common throughout the peninsula, as even southern dialects still sporadically have the derived term {{m|ko|못자리|t=gravesite}}.
+
+===References===
+* {{cite-journal|title={{lang|ko|{{ruby|[漢](한)[字](자)[語](어)([方](방)[言](언)) 속의 [特](특)[異](이) [漢](한)[字](자)[音](음)}}—동북방언을 중심으로—}}|trans-title=Unusual character readings in (dialectal) Sino-Korean vocabulary: focusing on the Northeastern dialect|author={{lang|ko|곽충구}} (Kwak Chung-gu)|year=2018|journal=Gugeohak|volume=88|pages=3—32}}
 
 ----
 
