@@ -202,15 +202,13 @@ From {{bor|ja|zh|六}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=륙|-}} {{ltc-l|六}}. 
-
-{{collapse|
-* {{hanja-dongguk|륙〮|lyúk}}
-* {{hanja-hunmong|륙〮|lyúk|雜語#하33B|hun=여슷〮 륙〮}}
-* {{hanja-sinjeung|&nbsp;뉵|nyuk|hun=여ᄉᆞᆺ 뉵}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=륙|-}} {{ltc-l|六}}.
+{{hanja-ety
+|dk={{okm-l|륙〮|lyúk|link=no}}
+|m={{okm-l|륙〮|lyúk}}
+|mh={{okm-l|여슷〮|yèsús}}
+|ml=雜語#하33B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|륙|육}}
 
@@ -222,9 +220,9 @@ From {{der|ko|ltc|sort=륙|-}} {{ltc-l|六}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|육감|[[sixth sense]]|六感}}
-* {{ko-l|육각형|[[hexagon]]|六角形}}
-* {{ko-l|육하원칙|[[5W1H]]|六何原則}}
+* {{ko-l|육각형|六角形}}
+* {{ko-l|육감|六感}}
+* {{ko-l|육하원칙|六何原則}}
 {{der-bottom}}
 
 ===References===
