@@ -11,7 +11,7 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=吓}}
+{{zh-forms|s=吓|alt=哧,𠵢}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -44,10 +44,13 @@
 {{zh-hanzi}}
 
 # to [[frighten]]; to [[scare]]
+#: {{zh-x|驚嚇|to frighten}}
 #: {{zh-x|嚇 死 寶寶{bao} 了！|(You) '''scared''' me! [Internet slang, usually by females]}}
-#* {{zh-x|我 被 這 情景 嚇 到 了。|I was '''frightened''' by the sight.}}
-#* {{zh-x|她 咳嗽 的 聲音 很 大，嚇 了 我 一 跳。|Her huge cough startled me.}}
+#: {{zh-x|我 被 這 情景 嚇 到 了。|I was '''frightened''' by the sight.}}
+#: {{zh-x|她 咳嗽 的 聲音 很 大，嚇 了 我 一 跳。|Her huge cough startled me.}}
 # to [[threaten]]; to [[intimidate]]
+#: {{zh-x|恫嚇{hè}|to intimidate}}
+#* {{zh-x|今 子 欲 以 子 之 ^梁 ^國 而 嚇{hè} 我 邪？|ref=Zhuangzi}}
 
 ====Compounds====
 {{zh-der|fold=1|哄嚇騙詐|嚇一跳|嚇住|嚇呆|嚇唬|嚇壞|嚇怕|嚇昏|嚇死|嚇眉唬眼|嚇詐|嚇跑|嚇阻|威嚇|恐嚇|恐嚇罪|恫嚇|瞞神嚇鬼|虎嚇|虛聲恫嚇|諕嚇|鎮嚇|震嚇|驚嚇|鴟嚇}}
@@ -58,6 +61,8 @@
 |c=haak1
 |mn=qz:hiak/xm,zz:hek/qz,xm,zz:hiahⁿ/xm,zz:heh
 |mn_note=hiak/hek - literary; hiahⁿ/heh - vernacular
+|mc=y
+|oc=y
 |cat=intj
 }}
 
@@ -65,11 +70,17 @@
 {{zh-hanzi}}
 
 # {{n-g|used to express disapproval or resentment.}} [[tut-tut]]; [[humph]]
+#* {{zh-x|於是 鴟 得 腐 鼠，鵷鶵 過 之，仰 而 視 之 曰：「嚇{hè}！」|ref=Zhuangzi}}
+#* {{zh-x|嚇{hè}，什麼 都 瞞 不 過 我。|ref='''1921''' January, {{w|Lu Xun}}, {{w2|zh|s:故鄉|故鄉|pref=《|suf=》}}}}
 # {{n-g|used to express astonishment}}
-#* {{zh-x|嚇{Hè}，這 是 怎麽 搞 的！|'''Damn'''! How has this happened?}}
+#: {{zh-x|嚇{Hè}，這 是 怎麽 搞 的！|'''Damn'''! How has this happened?}}
 
 ====Compounds====
 {{zh-der|fold=1|嚇嚇}}<!--is this correct?-->
+
+===References===
+* {{R:twedu|A00706}}
+* {{R:yue:Hanzi}}
 
 {{zh-cat|Elementary}}
 
