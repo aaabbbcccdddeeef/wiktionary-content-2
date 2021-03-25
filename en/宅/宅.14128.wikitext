@@ -89,8 +89,13 @@
 ==Korean==
 
 ===Etymology 1===
-From {{der|ko|ltc|-}} {{ltc-l|宅|id=1}}. {{hanja-hunmong|ᄐᆡᆨ〮|thóyk|宮宅}}
-
+From {{der|ko|ltc|sort=택|-}} {{ltc-l|宅}}.
+{{hanja-ety
+|dk={{okm-l|ᄄᆡᆨ〮|ttóyk|link=no}}
+|m={{okm-l|ᄐᆡᆨ〮|thóyk}}
+|mh={{okm-l|집|cìp}}
+|ml=宮宅#중04B
+}}
 ====Pronunciation====
 {{ko-hanja-pron|택}}
 
@@ -98,12 +103,12 @@ From {{der|ko|ltc|-}} {{ltc-l|宅|id=1}}. {{hanja-hunmong|ᄐᆡᆨ〮|thóyk|�
 {{ko-hanja-search}}
 {{ko-hanja|집|택}}
 
-# {{lb|ko|only in compounds}} {{hanja form of|택|[[house]]; [[home]]}}
+# {{lb|ko|only in compounds}} {{hanja form of|택|[[house]]; [[home]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|주택|[[house]]|住宅}}
-* {{ko-l|택배|[[home]] [[delivery]]|宅配}}
+* {{ko-l|주택|住宅}}
+* {{ko-l|택배|宅配}}
 * {{ko-l|가택|家宅}}
 * {{ko-l|고택|古宅}}
 * {{ko-l|구택|舊宅}}
@@ -114,7 +119,7 @@ From {{der|ko|ltc|-}} {{ltc-l|宅|id=1}}. {{hanja-hunmong|ᄐᆡᆨ〮|thóyk|�
 * {{ko-l|안택|安宅}}
 * {{ko-l|양택|陽宅}}
 * {{ko-l|자택|自宅}}
-* {{ko-l|저택|[[mansion]]|邸宅}}
+* {{ko-l|저택|邸宅}}
 * {{ko-l|택사|宅舍}}
 * {{ko-l|재택|在宅}}
 {{der-bottom}}
@@ -128,11 +133,11 @@ From a [[속음|corrupted or unorthodox reading]].
 ====Hanja====
 {{ko-hanja|집|댁}}
 
-# {{hanja form of|댁|{{lb|ko|honorific}} [[house]]; [[home]]}}
-#: {{ko-usex|'''댁(宅)'''[[이]] [[어디]][[시]]죠?|{{q|polite}} Where do you live?}}
+# {{hanja form of|댁|[[residence]]|noun}}
+# {{hanja form of|댁|{{n-g|a respectful term of address for someone of equal or lower status}}|pronoun}}
 
-====Usage notes====
-When used in isolation, this reading is used to address other people's households or houses honorifically.
+=====Usage notes=====
+When used in isolation, this reading is used to address others or people's houses in a polite manner.
 
 ====Compounds====
 {{der-top3|Compounds}}
