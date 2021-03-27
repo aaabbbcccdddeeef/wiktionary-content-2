@@ -119,14 +119,13 @@ From {{inh|ja|ojp|sort=にわ|-}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|庭}}. 
-
-{{collapse|
-* {{hanja-dongguk|뗘ᇰ|ttyeng}}
-* {{hanja-hunmong|뎌ᇰ|tyeng|宮宅}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=정|-}} {{ltc-l|庭}}. 
+{{hanja-ety
+|dk={{okm-l|뗘ᇰ|ttyèng|link=no}}
+|m={{okm-l|뎌ᇰ|tyèng}}
+|mh={{okm-l|[[ᄠᅳᆶ|ᄠᅳᆯ〮]]|ptúl}}
+|ml=宮宅#중06A
+}}
 ===Pronunciation===
 {{ko-hanja-pron|정}}
 
@@ -134,15 +133,15 @@ From {{der|ko|ltc|-}} {{ltc-l|庭}}.
 {{ko-hanja-search}}
 {{ko-hanja|뜰|정}}
 
-# {{hanja form of|정|[[courtyard]]; [[garden]]}}
+# {{hanja form of|정|[[courtyard]]; [[garden]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|정원|庭園}}
 * {{ko-l|가정|家庭}}
-* {{ko-l|법정|法庭}}
-* {{ko-l|궁정|宮庭}}
 * {{ko-l|교정|校庭}}
+* {{ko-l|궁정|宮庭}}
+* {{ko-l|법정|法庭}}
+* {{ko-l|정원|庭園}}
 * {{ko-l|친정|親庭}}
 {{der-bottom}}
 
