@@ -18,24 +18,27 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|泶|滎}}
+===Kanji 1===
 {{ja-kanji forms|泶|澩}}
-
-===Kanji===
-{{ja-kanji|grade=|rs=水05}}
+{{ja-kanji|grade=|rs=水05|kyu=澩}}
 
 # {{rfdef|ja|sort=水05}}
 
 ====Readings====
-As an {{w|extended shinjitai}} form of {{ja-l|滎}}:
+{{ja-readings
+|goon=がく
+|kanon=かく
+}}
+
+===Kanji 2===
+{{ja-kanji forms|泶|滎}}
+{{ja-kanji|grade=|rs=水05|kyu=滎}}
+
+# {{rfdef|ja|sort=水05}}
+
+====Readings====
 {{ja-readings
 |goon=ぎょう, きょう, よう
 |kanon=けい, えい
 |kun=ちょろちょろ-
-}}
-
-As an {{w|extended shinjitai}} form of {{ja-l|澩}}:
-{{ja-readings
-|goon=がく
-|kanon=かく
 }}
