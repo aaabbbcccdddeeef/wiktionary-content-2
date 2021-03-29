@@ -255,8 +255,13 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|雨}}. {{hanja-hunmong|우〯|wǔ|天文#상02B}}
-
+From {{der|ko|ltc|sort=우|-}} {{ltc-l|雨|id=1}}.
+{{hanja-ety
+|dk={{okm-l|ᅌᅮᆼ〯|ngwǔ|link=no}}
+|m={{okm-l|우〯|wǔ}}
+|mh={{okm-l|비〮|pí}}
+|ml=天文#상02B
+}}
 ===Pronunciation===
 {{ko-hanja-pron|우|l=y}}
 
@@ -264,7 +269,7 @@ From {{der|ko|ltc|-}} {{ltc-l|雨}}. {{hanja-hunmong|우〯|wǔ|天文#상02B}}
 {{ko-hanja-search}}
 {{ko-hanja|비|우}}
 
-# {{hanja form of|우|[[rain]]}}
+# {{hanja form of|우|[[rain]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -304,7 +309,6 @@ From {{der|ko|ltc|-}} {{ltc-l|雨}}. {{hanja-hunmong|우〯|wǔ|天文#상02B}}
 * {{ko-l|喜雨|희우}}
 * {{ko-l|零雨|영우}}
 * {{ko-l|雨裝|우장}}
-* {{ko-l|雨裝|우장}}
 * {{ko-l|法雨|법우}}
 * {{ko-l|絲雨|사우}}
 * {{ko-l|雨意|우의}}
@@ -338,26 +342,17 @@ From {{der|ko|ltc|-}} {{ltc-l|雨}}. {{hanja-hunmong|우〯|wǔ|天文#상02B}}
 * {{ko-l|雨毛|우모}}
 * {{ko-l|雨實|우실}}
 * {{ko-l|雨魚|우어}}
-* {{ko-l|甘雨旗|감우기}}
+* {{ko-l|雨量|우량}}
 * {{ko-l|黃梅雨|황매우}}
-* {{ko-l|年雨量|연우량}}
-* {{ko-l|雨量計|우량계}}
-* {{ko-l|晴雨計|청우계}}
-* {{ko-l|請雨法|청우법}}
-* {{ko-l|豊年雨|풍년우}}
 * {{ko-l|分龍雨|분룡우}}
 * {{ko-l|濯魚雨|탁어우}}
-* {{ko-l|祈雨壇|기우단}}
 * {{ko-l|擢枝雨|탁지우}}
 * {{ko-l|一鋤雨|일서우}}
 * {{ko-l|旗雨備|기우비}}
-* {{ko-l|雨傘匠|우산장}}
-* {{ko-l|祈雨壇|기우단}}
 * {{ko-l|擢枝雨|탁지우}}
 * {{ko-l|細雨斜風|세우사풍}}
 * {{ko-l|熱帶雨林|열대우림}}
 * {{ko-l|呼風喚雨|호풍환우}}
-* {{ko-l|雨傘差備|우산차비}}
 {{der-bottom}}
 
 ===References===
