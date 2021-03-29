@@ -168,6 +168,7 @@ See {{section link|正/derived terms#Chinese_pronunciation_2}}.
 See {{section link|正/derived terms#Japanese}}.
 
 ===Numeral===
+{{ja-kanjitab|せい|yomi=kanon}}
 {{ja-pos|numeral|せい}}
 
 # A number of ten-[[duodecillion]](10<sup>40</sup>) in modern Japanese since 17th century.
@@ -201,14 +202,24 @@ See {{section link|正/derived terms#Japanese}}.
 * {{ja-r|正%論|せい%ろん}}
 {{der-bottom}}
 
-===Proper noun===
-{{ja-pos|proper|ただし}}
+===Prefix===
+{{ja-kanjitab|しょう|yomi=goon}}
+{{ja-pos|prefix|しょう}}
 
+# {{lb|ja|history|sort=しょう}} "[[senior]]" [[ranking]] for {{m|ja|位|tr=-i||Japanese courtier rank}}
+#:{{ant|ja|従|tr=ju-}}
+#:{{ja-x|正%一%位|しょう%いち%い|senior rank 1}}
+#:{{ja-x|正%三%位|しょう%さん%み|senior rank 3}}
+#:{{ja-x|正%九%位|しょう%く%い|senior rank 9}}
+
+===Proper noun===
+{{ja-kanjitab|ただし|yomi=nanori}}
+{{ja-pos|proper|ただし}}
+{{ja-kanjitab|まさし|yomi=nanori}}
 {{ja-pos|proper|まさし}}
 
-# {{given name|ja|male}}
+# {{given name|ja|male|sort=ただし}}
 
-[[Category:Japanese male given names|ただし]]
 [[Category:Japanese numeral symbols|10^40]]
 
 ----
