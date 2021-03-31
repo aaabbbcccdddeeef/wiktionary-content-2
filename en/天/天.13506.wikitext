@@ -268,7 +268,15 @@ From {{der|ja|ltc|sort=てん|-}} {{ltc-l|天|sky; heavens}}. Compare modern {{c
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=천|-}} {{ltc-l|天}}. {{hanja-hunmong|텬|thyen|天文#상01A}}
+From {{der|ko|ltc|sort=천|-}} {{ltc-l|天}}.
+{{hanja-ety
+|dk={{okm-l|텬|thyèn|link=no}}
+|m={{okm-l|텬|thyèn}}
+|mh={{okm-l|[[하ᄂᆞᆶ|하ᄂᆞᆯ〮]]|hànól}}
+|ml=天文#상01A
+}}
+===Pronunciation===
+{{ko-hanja-pron|천}}
 
 ===Hanja===
 {{ko-hanja-search}}
@@ -276,14 +284,7 @@ From {{der|ko|ltc|sort=천|-}} {{ltc-l|天}}. {{hanja-hunmong|텬|thyen|天文#�
 
 # {{hanja form of|천|[[sky]]; [[heaven]]}}
 
-====Synonyms====
-* {{l|ko|乾|tr={{m|ko|건}}}}
-
-====Antonyms====
-* {{l|ko|地|tr={{m|ko|지}}}}
-* {{l|ko|坤|tr={{m|ko|곤}}}}
-
-===Compounds===
+====Compounds====
 See {{section link|天/derived terms#Korean}}.
 
 ===References===
