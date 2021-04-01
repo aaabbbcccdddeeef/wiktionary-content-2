@@ -347,35 +347,34 @@ From {{der|ja|ltc|sort=しゆ|-}} {{ltc-l|酒}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|酒}}. 
-
-{{collapse|
-* {{hanja-dongguk|쥬ᇢ〯|cyǔw}}
-* {{hanja-hunmong|쥬〮|cyú|饌食}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=주|-}} {{ltc-l|酒}}.
+{{hanja-ety
+|dk={{okm-l|쥬ᇢ〯|cyǔw|link=no}}
+|m={{okm-l|쥬〮|cyú}}
+|mh={{okm-l|[[수을|술]]|swùl}}
+|ml=饌食#중21B
+}}
 ===Pronunciation===
-* {{sense|alcoholic beverage}} {{ko-hanja-pron|주}}
+* {{sense|alcoholic beverage; etc.}} {{ko-hanja-pron|주}}
 * {{sense|in {{ko-l|주정|酒酊}}}} {{ko-hanja-pron|주|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|술|주}}
 
-# {{hanja form of|주|[[alcoholic]] [[beverage]]}}
+# {{hanja form of|주|[[alcoholic]] [[beverage]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|탁주|濁酒}}
-* {{ko-l|주가|酒家}}
-* {{ko-l|주포|酒舖}}
 * {{ko-l|맥주|麥酒}}
-* {{ko-l|양주|洋酒}}
-* {{ko-l|음주|飮酒}}
-* {{ko-l|주점|酒店}}
 * {{ko-l|소주|燒酒}}
 * {{ko-l|약주|藥酒}}
+* {{ko-l|양주|洋酒}}
+* {{ko-l|음주|飮酒}}
+* {{ko-l|주가|酒家}}
+* {{ko-l|주점|酒店}}
+* {{ko-l|주포|酒舖}}
+* {{ko-l|탁주|濁酒}}
 {{der-bottom}}
 
 ===References===
