@@ -94,7 +94,9 @@ Possibly an {{liushu|ic|nocap=1}}: a {{zh-l|*犬|dog}} guarding four {{zh-l|*口
 
 ==Japanese==
 {{ja-kanji forms|k=y}}
+<div style="float:right;">
 [[File:RYAKUJI ki.png|thumb|right|100px|{{w|Ryakuji}} for 器.]]
+</div>
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=口13|kyu=&#64056;}}
@@ -108,10 +110,11 @@ Possibly an {{liushu|ic|nocap=1}}: a {{zh-l|*犬|dog}} guarding four {{zh-l|*口
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|き}}
+
 From {{bor|ja|ltc|-|sort=き}} {{m|zh|器|tr=khij<sup>H</sup>||vessel; instrument}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|き}}
+{{ja-pron|き}}
 * When used as a suffix, the resulting term has a [[downstep]] either right before, or one [[mora]] before, the ''ki''.
 :* If the preceding syllable has only one mora (as in ''ga'' or ''tsu''), the downstep occurs just after that mora:
 ::: {{m|ja|瓦器||unglazed earthenware}}: {{ja-accent/down|が}}{{lang|ja|き}} <span class="Latn">{{monospace|[gáꜜkì]}}</span>
@@ -157,12 +160,13 @@ Can attach to various nouns that can be used as verbs, to indicate a device for 
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|うつわ}}
+
 {{IPAchar|/ut͡supa/}} → {{IPAchar|/ut͡suɸa/}} → {{IPAchar|/ut͡suwa/}}
 
 From {{inh|ja|ojp|-|sort=うつわ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Cognate with {{m|ja|空|tr=utsuo|pos=ancient ''utsupo'', ''utsubo''}}, signifying a {{m|en|hollowness}}. Appears to be a compound of {{m|ja|空}}, {{m|ja|内|tr=utsu||hollow|pos=combining form, standalone form ''uchi'', “inside”}} + {{m|ja|は|tr=ha}}. The derivation of this ''ha'' element is unclear.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|うつわ|acc=0|acc_ref=DJR}}
+{{ja-pron|うつわ|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|うつわ|hhira=うつは}}
