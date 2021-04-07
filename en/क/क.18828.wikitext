@@ -63,9 +63,11 @@ This letter creates several irregular ligatures.
 {{pi-alt|Latn=ka}}
 
 ===Pronoun===
-{{head|pi|pronoun|cat2=interrogative pronouns}}
+{{pi-pronoun|m
+<!--cat2=interrogative pronouns-->
+}}
 
-# {{pi-sc|Deva|ka}}
+# {{pi-sc||ka|t=who (m.)}}
 #* {{RQ:pi:Kaccayano quote|2|anena|4}}
 
 ====Declension====
@@ -78,12 +80,15 @@ This letter creates several irregular ligatures.
 |datp_mod=replace|datp=केसं|datp2=केसानं
 |genp_mod=replace|genp=केसं|genp2=केसानं
 }}
-{{pi-decl-noun|का|g=f|novoc=yes
-|dats=कस्सा
-|gens=कस्सा
-|datp_mod=replace|datp=कासं|datp2=कासानं
-|genp_mod=replace|genp=कासं|genp2=कासानं
+
+===Pronoun===
+{{pi-pronoun|n
+<!--cat2=interrogative pronouns-->
 }}
+
+# {{pi-sc||ka|t=what}}
+
+====Declension====
 {{pi-decl-noun|g=n|novoc=yes
 |noms_mod=replace|noms=किं
 |accs_mod=replace|accs=किं
