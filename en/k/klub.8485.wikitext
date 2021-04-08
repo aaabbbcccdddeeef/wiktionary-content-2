@@ -124,39 +124,42 @@ From {{bor|id|nl|club}}, from {{der|id|en|club}}, from {{der|id|enm|clubbe}}, fr
 
 ----
 ==Polish==
-{{wikipedia|lang=pl|dab=klub}}
+{{wp|lang=pl}}
 
 ===Pronunciation===
 * {{pl-IPA}}
-* {{audio|pl|Pl-klub.ogg|audio}}
+* {{audio|pl|Pl-klub.ogg|Audio}}
 
-===Noun===
-{{pl-noun|m-in}}
+===Etymology 1===
+From {{bor|pl|en|club}}, from {{der|pl|enm|clubbe}}, from {{der|pl|non|klubba}}, {{m|non|klumba}}, from {{der|pl|gem-pro|*klumpô}}, from {{der|pl|ine-pro|*glemb-}}, from {{m|ine-pro|*gel-}}.
+
+====Noun====
+{{pl-noun|m-in|dim=klubik}}
 
 # [[club]] (association of members)
-# [[club]], [[nightclub]]
+# {{l|en|[[club]], [[nightclub]]}}
 
-====Declension====
-{{pl-decl-noun
-|klub|kluby
-|klubu|klubów
-|klubowi|klubom
-|klub|kluby
-|klubem|klubami
-|klubie|klubach
-|klubie|kluby
-}}
+=====Declension=====
+{{pl-decl-noun-m-in}}
 
-====Derived terms====
-* {{l|pl|klubowy}}
+=====Derived terms=====
+* {{q|nouns}} {{l|pl|klubowicz}}, {{l|pl|klubowiczka}}
+* {{q|adjective}} {{l|pl|klubowy}}
 
-===Noun===
+===Etymology 2===
+{{nonlemma}}
+
+====Noun====
 {{head|pl|noun form}}
 
 # {{inflection of|pl|kluba||gen|p}}
 
 ===Further reading===
+* {{R:pl:WSJP}}
 * {{R:PWN}}
+
+[[Category:Polish terms with multiple etymologies]]
+{{c|pl|Recreation|Restaurants}}
 
 ----
 
