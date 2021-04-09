@@ -124,26 +124,23 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|決|id=2}}.
-
-{{collapse|
-* {{hanja-dongguk|ᄀᆑᇙ〮|kyuyelq}}
-* {{hanja-sinjeung|결|kyel}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=결|-}} {{ltc-l|決|id=2}}.
+{{hanja-ety
+|dk={{okm-l|ᄀᆑᇙ〮|kyyélq|link=no}}
+|m3={{okm-l|결|kyel}}
+|m3h={{okm-l|결[[ᄒᆞ다|ᄒᆞᆯ]]|kyel-hol}}
+}}
 ===Pronunciation===
 {{ko-hanja-pron|결}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja|[[결단하다|결단할]]|결}}
+{{ko-hanja|결단하다|결단할|결}}
 
-# {{hanja form of|결|[[decide]]; [[determine]]; [[judge]]}}
+# {{hanja form of|결|to [[decide]]; to [[determine]]; to [[judge]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|결정|[[decision]]|決定}}
 * {{ko-l|가결|可決}}
 * {{ko-l|기결|旣決}}
 * {{ko-l|결단|決斷}}
@@ -155,6 +152,7 @@ From {{der|ko|ltc|-}} {{ltc-l|決|id=2}}.
 * {{ko-l|결심|決心}}
 * {{ko-l|결의|決意}}
 * {{ko-l|결전|決戰}}
+* {{ko-l|결정|決定}}
 * {{ko-l|결제|決濟}}
 * {{ko-l|결판|決判}}
 * {{ko-l|대결|對決}}
