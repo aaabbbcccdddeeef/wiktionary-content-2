@@ -4,9 +4,7 @@
 ===Han character===
 {{Han char|rn=32|rad=土|as=10|sn=13|four=48127|canj=GCIM|ids=⿰土翁}}
 
-# a [[gust]] of [[wind]]
-
-====References====
+===Further reading===
 * {{Han ref|kx=0235.150|dkj=05333|dj=0473.080|hdz=10473.100|uh=5855|ud=22613|bh=DCE9|bd=56553}}
 
 ----
@@ -16,6 +14,7 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|土|翁|c1=s|c2=p|ls=psc|t1=earth}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -23,16 +22,19 @@
 |c=jung2
 |mc=y
 |oc=y
-|cat=
+|cat=n
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# [[dust]]
 
 ====Compounds====
 {{zh-der|塕埲|塕塵}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -44,4 +46,19 @@
 # {{rfdef|ja|sort=土10}}
 
 ====Readings====
-* {{ja-readings|on=おう, お|kun=ちり}}
+{{ja-readings
+|on=おう,お
+|kun=ちり
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|티끌|옹}}
+
+# {{rfdef|ko|sort=土10}}
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=塕 Naver Hanja Dictionary: 塕]
