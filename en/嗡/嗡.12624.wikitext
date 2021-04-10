@@ -4,7 +4,7 @@
 ===Han character===
 {{Han char|rn=30|rad=口|as=10|sn=13|four=68027|canj=RCIM|ids=⿰口翁}}
 
-====References====
+===Further reading===
 * {{Han ref|kx=0203.270|dkj=04106|dj=0426.070|hdz=10669.120|uh=55E1|ud=21985|bh=B6E4|bd=46820}}
 
 ----
@@ -14,8 +14,7 @@
 
 ===Glyph origin===
 {{Han etym}}
-
-{{Han compound|口|t1=mouth|翁|ls=psc|c1=s|c2=p}}
+{{Han compound|口|t1=mouth|翁|ls=psc|c1=s|c2=p}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -31,12 +30,15 @@
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# [[sound]] of [[fly]]ing [[bee]]s, [[airplane]]s <!--buzzing?-->
+# [[buzz]]ing; [[drone|droning]]; [[hum]]ming
 
 ====Compounds====
-{{zh-der|嗡嗡}}
+{{zh-der|嗡嗡|嗡嗡叫|嗡嗡聲|嗡嗡彈|嗡嗡祖拉|嗡字|大轟大嗡|嗡鳴}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 {{zh-cat|Intermediate}}
 
@@ -50,22 +52,30 @@
 # {{rfdef|ja|sort=口10}}
 
 ====Readings====
-* {{ja-readings|on=[[ろう]] (rō), [[ら]] (ra)|kun=}}
+{{ja-readings
+|on=ろう,ら
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=옹}}
+{{ko-hanja|[[소]] [[울음]]|옹}}
 
 # {{rfdef|ko|sort=口10}}
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=嗡 Naver Hanja Dictionary: 嗡]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|reading=ông, óng|rs=口10}}
+{{vi-readings|hanviet=ông|nom=óng,ông|rs=口10}}
 
 # {{rfdef|vi|sort=口10}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=55E1 Nom Foundation]
