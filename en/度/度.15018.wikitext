@@ -240,72 +240,70 @@ From {{inh|zh|sit-pro|*m-twa||handspan}}. Cognate with {{cog|bo|མཐོ||span;
 ===Etymology 1===
 From {{der|ko|ltc|sort=도|-}} {{ltc-l|度|id=1}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|똥〮|ttwó|i=y}}
-|m={{hanja-hunmong|도〯|twǒ|雜語#하26B}}
-|mh=[[법도|법〮돗〯]] 도〯
-|m2={{hanja-sinjeung|&nbsp;도|two}}
-|m2h=[[댱ᄯᅢ]] 도
+|dk={{okm-l|똥〮|ttwó|link=no}}
+|m={{okm-l|도〯|twǒ}}
+|mh={{okm-l|[[법도|법〮돗〯]]|péptwǒ-s}}
+|ml=雜語#하26B
 }}
 ====Pronunciation====
 {{ko-hanja-pron|도|l=y}}
 
 ====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|[[법도]]([[法度]])|도}}
+{{ko-hanja|법도(法度)|도}}
 
-# {{hanja form of|도|[[measure]]; [[size]]}}
-# {{hanja form of|도|[[law]]; [[rule]]; [[convention]]}}
-# {{hanja form of|도|[[degree]]; [[level]]}}
+# {{hanja form of|도|[[bound]], [[limit]], [[extent]]|noun}}
+# {{hanja form of|도|[[degree]]|dependent noun}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
+* {{ko-l|각도|角度}}
+* {{ko-l|감도|感度}}
 * {{ko-l|강도|強度}}
+* {{ko-l|경도|傾度}}
+* {{ko-l|경도|經度}}
+* {{ko-l|경도|輕度}}
 * {{ko-l|고도|高度}}
 * {{ko-l|과도|過度}}
 * {{ko-l|극도|極度}}
 * {{ko-l|농도|濃度}}
 * {{ko-l|도량|度量}}
+* {{ko-l|도수|度數}}
+* {{ko-l|명도|明度}}
+* {{ko-l|민도|民度}}
 * {{ko-l|밀도|密度}}
 * {{ko-l|법도|法度}}
+* {{ko-l|빈도|頻度}}
+* {{ko-l|선도|鮮度}}
 * {{ko-l|속도|速度}}
+* {{ko-l|순도|純度}}
 * {{ko-l|습도|濕度}}
+* {{ko-l|심도|深度}}
 * {{ko-l|연도|年度}}
+* {{ko-l|염도|鹽度}}
+* {{ko-l|예도|禮度}}
+* {{ko-l|온도|溫度}}
 * {{ko-l|용도|用度}}
+* {{ko-l|위도|緯度}}
+* {{ko-l|저도|低度}}
+* {{ko-l|적도|適度}}
+* {{ko-l|절도|節度}}
 * {{ko-l|정도|程度}}
 * {{ko-l|제도|制度}}
 * {{ko-l|진도|進度}}
+* {{ko-l|진도|震度}}
+* {{ko-l|채도|彩度}}
 * {{ko-l|척도|尺度}}
 * {{ko-l|태도|態度}}
 * {{ko-l|한도|限度}}
-* {{ko-l|빈도|頻度}}
-* {{ko-l|도수|度數}}
-* {{ko-l|심도|深度}}
-* {{ko-l|위도|緯度}}
-* {{ko-l|경도|經度}}
-* {{ko-l|염도|鹽度}}
-* {{ko-l|순도|純度}}
-* {{ko-l|절도|節度}}
-* {{ko-l|진도|震度}}
-* {{ko-l|경도|輕度}}
-* {{ko-l|채도|彩度}}
-* {{ko-l|감도|感度}}
-* {{ko-l|명도|明度}}
-* {{ko-l|선도|鮮度}}
-* {{ko-l|예도|禮度}}
-* {{ko-l|저도|低度}}
-* {{ko-l|경도|傾度}}
-* {{ko-l|민도|民度}}
-* {{ko-l|적도|適度}}
-* {{ko-l|각도|[[angle]]|角度}}
-* {{ko-l|온도|[[temperature]]|溫度}}
 {{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|sort=탁|-}} {{ltc-l|度|id=2}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|딱〮|tták}}
-|m={{hanja-sinjeung|탁|thak}}
-|mh=[[혜아리다|혜아릴]] 탁
+|dk={{okm-l|딱〮|tták|link=no}}
+|m3={{okm-l|탁|thak}}
+|m3h={{okm-l|[[혜아리다|혜아릴]]|hyeyalil}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|탁}}
@@ -313,14 +311,13 @@ From {{der|ko|ltc|sort=탁|-}} {{ltc-l|度|id=2}}.
 ====Hanja====
 {{ko-hanja|[[헤아리다|헤아릴]]|탁}}
 
-# {{hanja form of|탁|to [[speculate]]}}
-# {{hanja form of|탁|to [[measure]]}}
+# {{hanja form of|탁|to [[speculate]]; to [[measure]]|affix}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
 * {{ko-l|탁량|度量}}
-* {{ko-l|탁지|度地}}
 * {{ko-l|탁지|度支}}
+* {{ko-l|탁지|度地}}
 {{der-bottom}}
 
 ===References===
