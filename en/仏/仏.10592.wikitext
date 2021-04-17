@@ -29,11 +29,6 @@ Used since {{w|Northern and Southern dynasties}}. To avoid using the character {
 ===Kanji===
 {{ja-kanji|grade=5|rs=人02|kyu=佛}}
 
-# [[Buddha]]
-# [[Buddhism]]
-# [[Buddhist]] [[image]]
-# {{short for|ja|仏蘭西|tr=Furansu|nodot=1|sort=ふつ}}: [[France]]
-
 ====Readings====
 {{ja-readings
 |goon=ぶつ, ぶち
@@ -76,8 +71,6 @@ The more traditional explanation still given in Japanese dictionaries is that th
 
 # {{lb|ja|sort=ほとけ|Buddhism}} a [[buddha]] {{gl|[[enlightened]] or [[awakened]] [[sentient]] being}}
 # {{lb|ja|Buddhism}} a [[statue]] or [[image]] of any buddha
-#* {{RQ:Manyoshu|16|3841}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3841 here]
-#*: {{ja-usex|sort=ほとけ|m='''佛'''造 真%朱%不足%者 水%渟 池%田乃阿曽我 鼻%上%乎穿礼|m_kana='''ほとけ'''つくる ま%そほ%たらず%は みづ%たまる いけ%だのあそが はなの%うへ%をほれ|'''仏'''造る[[真赭|ま朱]]%足らずは[[水溜まる|水%溜まる]]池%田の[[朝臣]]が鼻の上を掘れ|'''ほとけ''' つくる ま-そほ% たらずは みづ% たまる いけ%だ の あそ が はな の うへ を ほれ|rom='''hotoke''' tsukuru ma-sō tarazu wa mizu tamaru Ikeda no Aso ga hana no ue o hore}}
 # a [[departed]] [[soul]], [[deceased]]
 # {{lb|ja|sort=ほとけ|colloquial}} a term that a parent calls a child expressing parental affection, equivalent to "my [[dear]]"
 #* ''c.'' '''890''', ''{{w|Taketori Monogatari}}'' (page 7)<ref name="TTM">{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title={{w|Taketori Monogatari}}, {{w|Ise Monogatari}}|publisher={{w|Iwanami Shoten Publishing|Iwanami Shoten}}|year=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
@@ -91,8 +84,8 @@ The more traditional explanation still given in Japanese dictionaries is that th
 # {{lb|ja|Buddhism}} [[perform]]ing a [[Buddhist]] [[memorial]] [[service]]
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|仏%様|ほとけ%-さま|buddha, deceased person}}
+{{der-top3}}
+* {{ja-r|仏%様|ほとけ%-さま}}
 * {{ja-r|仏%心|ほとけ%-ごころ}}
 * {{ja-r|石%仏|いし%ぼとけ}}
 * {{ja-r|喉%仏|のど%ぼとけ}}
@@ -120,20 +113,27 @@ From {{der|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}
 #: {{ja-usex|sort=ふつ'|[[儒]]、'''仏'''、[[道]]|^じゅ、'''^ぶつ'''、^どう|[[Confucianism]], '''Buddhism''', [[Taoism]]}}
 
 =====Derived terms=====
-{{der-top}}
-* {{ja-r|仏式|ぶっしき}}
-* {{ja-r|仏書|ぶっしょ}}
-* {{ja-r|仏壇|ぶつだん|[[household]] Buddhist [[altar]]}}
-* {{ja-r|仏殿|ぶつでん}}
+{{der-top3}}
+* {{ja-r|仏%式|ぶっ%しき}}
+* {{ja-r|仏%書|ぶっ%しょ}}
+* {{ja-r|仏%壇|ぶつ%だん}}
+* {{ja-r|仏%殿|ぶつ%でん}}
 * {{ja-r|儒%仏|^じゅ%ぶつ}}
-* {{ja-r|神仏|^しんぶつ}}
-* {{ja-r|廃仏|はいぶつ}}
+* {{ja-r|神%仏|^しん%ぶつ}}
+* {{ja-r|廃%仏|はい%ぶつ}}
 {{der-bottom}}
 
 ====Proper noun====
 {{ja-pos|proper|ぶつ}}
 
 # {{short for|ja|sort=ふつ'|仏陀|tr=Butsuda, Budda|nodot=1}}: [[Buddha]]
+
+====Affix====
+{{ja-pos|affix|ぶつ}}
+
+# [[Buddha]]
+# [[Buddhism]]
+# [[Buddhist]] [[image]]
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=kanon|ふつ}}
@@ -145,10 +145,10 @@ From {{der|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}
 {{ja-pos|proper|ふつ}}
 
 # {{abbreviation of|ja|sort=ふつ|仏蘭西|tr=Furansu|nodot=1}}: [[France]]
-#: {{ja-usex|札幌%日'''仏'''協会|^さっぽろ% ^にち-'''^ふつ''' ^きょうかい|The Sapporo Japan-'''France''' Society}}
+#: {{ja-usex|札幌%日'''仏'''協%会|^さっぽろ% ^にち-'''^ふつ''' ^きょう%かい|The Sapporo Japan-'''France''' Society}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top3}}
 * {{ja-r|仏%印|ふつ%いん|French Indochina}}
 * {{ja-r|仏%語|ふつ%ご|French language}}
 * {{ja-r|仏%書|ふっ%しょ}}
