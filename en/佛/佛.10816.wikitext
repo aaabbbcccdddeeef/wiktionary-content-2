@@ -23,7 +23,7 @@
 {{Han compound|亻|弗|ls=psc|c1=s|c2=p}}.
 
 ===Etymology 1===
-Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|बुद्ध||awakened; enlightened}}.
+Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|[[buddha]]}} or {{der|zh|sa|बुद्ध||[[awakened]], [[enlightened]]}}.
 
 ====Pronunciation====
 {{zh-pron
@@ -85,7 +85,7 @@ Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|ब�
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{zh-alt-form|拂|to go against; to be contrary to}}
+# {{†}} {{zh-alt-form|拂|to [[go against]]; to [[be]] [[contrary]] to}}
 
 ====Compounds====
 {{zh-der|fold=1|佛戾}}
@@ -103,7 +103,7 @@ Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|ब�
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{zh-alt-form|弼|to assist}}
+# {{†}} {{zh-alt-form|弼|to [[assist]]}}
 #* {{zh-x|佛{bì} 時 仔肩，示 我 顯 德行。|'''Assist''' me to bear the burden [of my position],<br>And show me how to display a virtuous conduct.|ref=Shijing}}
 # {{surname|zh}}
 #* {{zh-x|佛{bì} ^肸{xī} 以 ^中牟{mù} 畔。|'''Bi''' Xi is in rebellion, holding possession of Zhongmu.|ref=Analects}}
@@ -121,7 +121,7 @@ Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|ब�
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{zh-alt-form|勃|prosperous; thriving}}
+# {{†}} {{zh-alt-form|勃|[[prosperous]], [[thriving]]}}
 
 ===References===
 * {{R:yue:Hanzi}}
@@ -136,15 +136,18 @@ Abbreviation of {{ltc-l|佛陀}}, from {{der|zh|pi|buddha}} or {{der|zh|sa|ब�
 ===Kanji===
 {{ja-kanji|grade=n|rs=人05|shin=仏}}
 
-# [[Buddha]]
+# {{ja-kyujitai spelling of|仏}}
 
 ====Readings====
 {{ja-readings
 |goon=ぶつ
 |kanon=ふつ
 |kun=ほとけ-
-|nanori=さらぎ
+|nanori=さとる
 }}
+
+===Defenitions===
+{{ja-gv|仏}}
 
 ----
 
@@ -187,6 +190,23 @@ A common convention in news headlines, this is almost always written solely in t
 
 ===References===
 * {{R:hanjadoc|224}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+Most likely from {{der|ja|qfa-kor-pro|*Pwutukye||[[Buddha]]}}.
+
+===Noun===
+{{head|ojp|noun|tr=*poto<sub>2</sub>ke<sub>2</sub>|kana|ほとけ}}
+
+# {{lb|ojp|sort=ほとけ|Buddhism}} a [[carving]], [[image]], [[statue]], or other [[likeness]] of a [[buddha]]
+#* {{RQ:Manyoshu|16|3841}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man16Yo.html#3841 here]
+#*: {{ux|ojp|'''佛'''造眞朱不足&#64091;水渟池田乃[[朝臣|阿曾]]我鼻上乎穿禮|tr='''*poto<sub>2</sub>ke<sub>2</sub>''' tukuru ma-so<sub>2</sub>po tarazupa mi<sub>1</sub>du tamaru Ike<sub>2</sub>da no<sub>2</sub> aso<sub>2</sub> ga pana no<sub>2</sub> upe<sub>2</sub> wo pore}}
+
+====Descendants====
+* {{desc|ja|仏|tr=hotoke}}
 
 ----
 
