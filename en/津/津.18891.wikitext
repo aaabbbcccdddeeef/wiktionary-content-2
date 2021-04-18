@@ -88,44 +88,47 @@ From {{och-l|濟|to ferry|id=2}} + nominal suffix ''*-n'' ({{zh-ref|Schuessler, 
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|津}}.
-
-{{collapse|
-; “ferry crossing; ford”
-: {{hanja-hunmong|진|cin|地理#상05A|hun=ᄂᆞᄅᆞ 진}}
-
-; “bodily fluid”
-: {{hanja-hunmong|진〯|cǐn|地理#상05A|hun=진〯}}
-|Historical readings
-|bg=#FFFFFF}}
-
+From {{der|ko|ltc|sort=진|-}} {{ltc-l|津}}.
+; “ferry; ford”
+{{hanja-ety
+|dk={{okm-l|진|cìn|link=no}}
+|m={{okm-l|진|cìn}}
+|mh={{okm-l|ᄂᆞᄅᆞ|nòlò}}
+|ml=地理#상05A
+}}
+; “resin; sap”<!--a 15th century source also records this as R, and modern vowel length reflects it, not sure why.-->
+{{hanja-ety
+|m={{okm-l|진〯|cǐn}}
+|mh=N/A
+|ml=地理#상05A
+}}
 ===Pronunciation===
-{{ko-hanja-pron|진}}
+* {{sense|ferry; ford}} {{ko-hanja-pron|진}}
+* {{sense|resin; sap}} {{ko-hanja-pron|진|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja|나루|진}}<br>
-{{ko-hanja|[[진액]]([[津液]])|진}}
+{{ko-hanja|나루|진}}
 
-# {{hanja form of|진|[[ferry]] [[crossing]]; [[ford]]}}
-# {{hanja form of|진|[[bodily fluid]]}}
+# {{hanja form of|진|[[ferry]]; [[ford]]|affix}}
+# {{hanja form of|진|[[resin]]; [[sap]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|송진|松津}}
-* {{ko-l|진도|津渡}}
-* {{ko-l|도진|渡津}}
-* {{ko-l|진역|津驛}}
-* {{ko-l|진구|津口}}
-* {{ko-l|진하|津河}}
-* {{ko-l|하진|河津}}
-* {{ko-l|진액|津液}}
-* {{ko-l|진량|津梁}}
-* {{ko-l|진두|津頭}}
 * {{ko-l|^광진|廣津}}
+* {{ko-l|도진|渡津}}
+* {{ko-l|^섬진강|蟾津江}}
+* {{ko-l|송진|松津}}
 * {{ko-l|^옹진|甕津}}
 * {{ko-l|^정동진|正東津}}
-* {{ko-l|^섬진강|蟾津江}}
+* {{ko-l|진구|津口}}
+* {{ko-l|진도|津渡}}
+* {{ko-l|진두|津頭}}
+* {{ko-l|진량|津梁}}
+* {{ko-l|진액|津液}}
+* {{ko-l|진역|津驛}}
+* {{ko-l|진하|津河}}
+* {{ko-l|하진|河津}}
 * {{ko-l|흥미진진|興味津津}}
 {{der-bottom}}
 
