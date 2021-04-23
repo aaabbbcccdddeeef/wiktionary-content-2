@@ -222,19 +222,27 @@ Ultimate derivation {{unk|sort=きつね|nocap=1|ja}}. There are various theorie
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|狐}}. {{hanja-hunmong|호|hwo|獸畜#상19A}}
+From {{der|ko|ltc|sort=호|-}} {{ltc-l|狐}}.
+{{hanja-ety
+|dk={{okm-l|ᅘᅩᆼ|hhwò|link=no}}
+|m={{okm-l|호|hwò}}
+|mh={{okm-l|여ᅀᅳ|yèzù}}
+|ml=獸畜#상19A
+}}
+===Pronunciation===
+{{ko-hanja-pron|호}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|여우|호}}
 
-# {{hanja form of|호|[[fox]]}}
+# {{hanja form of|호|[[fox]]|affix}}
 
 ====Compounds====
 {{der-top3|Compounds}}
+* {{ko-l|구미호|九尾狐}}
 * {{ko-l|야호|野狐}}
 * {{ko-l|호구|狐裘}}
-* {{ko-l|구미호|九尾狐}}
 {{der-bottom}}
 
 ===References===
