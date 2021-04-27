@@ -19,11 +19,7 @@
 ===Etymology 2===
 {{IPAfont|⟨mo<sub>2</sub>⟩}} → *{{IPAchar|/mə/}} → {{IPAchar|/mo/}}
 
-From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*mə}}. Appears in common use in the ''{{w|Kojiki}}'' (712 {{CE}}), with the only attested distinction between {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}}. Compare {{cog|ltc|-}} {{ltc-l|母}}.
-
-Distinct from {{IPAfont|⟨mo<sub>1</sub>⟩}} terms such as {{m|ja|雲|tr={{IPAfont|⟨kumo<sub>1</sub>⟩}} → kumo||[[cloud]]}} and {{m|ja|下|tr={{IPAfont|⟨simo<sub>1</sub>⟩}} → shimo||[[lower]], [[end]]}}; pronounced closely to {{cog|ltc|-}} {{ltc-l|毛}}.
-
-This distinction was lost in a later ancient Japanese chronicle, the ''{{w|Nihon Shoki}}'' (720 {{CE}}), and {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}} were merged to form one syllable ''mo''. See the {{w|Man'yōgana}} and {{w|Jōdai Tokushu Kanazukai}} articles for more detail on ancient spellings.
+From {{inh|ja|ojp|-}}.
 
 ====Particle====
 {{ja-pos|particle}}
@@ -33,30 +29,30 @@ This distinction was lost in a later ancient Japanese chronicle, the ''{{w|Nihon
 ## [[too]]; [[also]]; [[as well]]
 ##: {{ja-usex|田%中さんは[[ビール]]を[[飲む|飲ん]]でいる。スミスさん'''も'''飲んでいる。|た%なか-さん は ビール を のんでいる。スミス-さん '''も''' のんでいる。|Tanaka is drinking beer. Smith is '''also''' drinking.}}
 ##: {{ja-usex|[[本%日]]'''も'''ご[[来%店]]くださいまして、[[ありがとうございます]]。|ほん%じつ '''も''' ご-らい%てん くださいまして、ありがとう ございます。|Thank you for [[visit|visiting]] our store today '''as well''' [as other days].}}
-##: {{ja-usex|[[私]]に'''も'''[[くれる|くれ]]た。|わたし に '''も''' くれた。|[She] gave some to me, '''too'''.}}
+##: {{ja-usex-inline|[[私]]に'''も'''[[くれる|くれ]]た。|^わたし に '''も''' くれた。|[She] gave some to me, '''too'''.}}
 ## [[even]]
 ##: {{ja-usex|夢に'''も'''思いませんでした。|ゆめ に '''も''' おもいません でした。|I have never thought of this '''even''' in my dreams.}}
 ##: {{ja-usex|500 円'''も'''あれば買える。|ごひゃく えん '''も''' あれば かえる。|I only need 500 yen to buy this.|lit=I can buy this '''even''' if I have only 500 yen.}}
 ##: {{ja-usex|[[猿も木から落ちる|猿'''も'''木から落ちる]]|さる '''も''' き から おちる|'''Even''' experts occasionally make mistakes.|lit='''Even''' monkeys fall from trees}}
 ## {{q|attaching to an [[indefinite]] [[pronoun]] or [[determiner]]}} [[all]]; [[every]]
-##: {{ja-usex|誰'''も'''知っていることだ。|だれ '''も''' しって いる こと だ。|'''Every'''one knows this.}}
+##: {{ja-usex-inline|誰'''も'''知っていることだ。|^だれ '''も''' しって いる こと だ。|'''Every'''one knows this.}}
 ##: {{ja-usex|[[箱]]の[[中]]には[[何]]'''も'''[[ない|なか]]った。|はこ の なか に は なに '''も''' なかった。|The box was empty.|lit=Inside the box, '''all''' things do not exist.}}
 ## {{n-g|Used to emphasize amounts.}}
-##: {{ja-usex|何万人'''も'''[[来る|来]]た。|なんまんにん '''も''' きた。|Myriads of people came.}}
+##: {{ja-usex-inline|何万人'''も'''[[来る|来]]た。|^なんまんにん '''も''' きた。|Myriads of people came.}}
 
 =====Usage notes=====
-* {{ja-r|も}} vs {{ja-r|は}}:
-*: {{lang|ja|も}} indicates the topic is "non-unique", i.e., the result or conclusion remains the same even if the current topic is changed.
-*:: {{ja-x|'''今日も'''いい天%気。|'''きょう も''' い.い てん%き。|Nice weather '''today'''. (implying something like "the weather is also nice yesterday/the weather is fine as usual".)}}
-*: {{lang|ja|は}} indicates the topic is "unique", i.e., the result or conclusion will be different if the current topic is changed.
-*:: {{ja-x|'''今日は'''いい天%気。|'''きょう は''' い.い てん%き。|Nice weather '''today'''. (implying something like "the weather is bad yesterday/the weather has been bad recently".)}}
+* {{ja-r|も}} vs {{ja-r|は|rom=wa}}:
+*: {{lang|ja|も}} indicates the topic is “non-unique”, i.e., the result or conclusion remains the same even if the current topic is changed.
+*:: {{ja-x|'''今日も'''いい天%気。|'''きょう も''' い.い てん%き。|Nice weather '''today'''. (implying something like “the weather is also nice yesterday/the weather is fine as usual”.)}}
+*: {{lang|ja|は}} indicates the topic is “unique”, i.e., the result or conclusion will be different if the current topic is changed.
+*:: {{ja-x|'''今日は'''いい天%気。|'''きょう は''' い.い てん%き。|Nice weather '''today'''. (implying something like “the weather is bad yesterday/the weather has been bad recently”.)}}
 * {{m|ja||も|tr=mo}} always replaces {{ja-r|を}} and {{ja-r|が}}, but may follow other particles.
 
 =====Synonyms=====
 * {{sense|even}} {{ja-r|すら}}, {{ja-r|さえ}}, {{ja-r|まで}}, {{ja-r|だって}}, {{ja-r|だに}}
 
 =====Derived terms=====
-{{der-top}}
+{{der-top4}}
 * {{ja-r|も が}}
 * {{ja-r|も や}}
 * {{ja-r|も よ}}
@@ -75,21 +71,6 @@ This distinction was lost in a later ancient Japanese chronicle, the ''{{w|Nihon
 {{der-bottom}}
 
 ===Etymology 3===
-The Eastern {{inh|ja|ojp|-}} variant of {{m|ja|む|tr=-mu}},<ref>{{R:Daijirin}}</ref> attested in poems of the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).
-
-====Suffix====
-{{ja-pos|suffix}}
-
-# {{lb|ja|regional|obsolete}} {{n-g|Used to form the conjectural form of verbs, equivalent to modern {{ja-r|-う}} / {{ja-r|-よう}}.}}
-#* {{RQ:Manyoshu|14|3418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3418 here]
-#*: {{ja-usex|m=可美都氣努 佐野田能奈倍能 武良奈倍尓 許登波佐太米都 伊麻波伊可尓世'''母'''|m_kana=かみつけの さのだのなへの むらなへに ことはさだめつ いまはいかにせ'''も'''|[[上%毛野]]%佐野%田の苗の[[群苗]]に事は定めつ今はいかにせ'''も'''|^かみつ%けの% ^さの%だ-の-なへ の むらなへ に こと は さだめつ いま は いか に せ'''も'''|rom=Kamitsukeno Sanoda-no-nae no muranae ni koto ni sadametsu ima wa ika ni se'''mo'''}}
-#* {{RQ:Manyoshu|20|4418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4418 here]
-#*: {{ja-usex|m=和我可度乃 可多夜麻都婆伎 麻己等奈礼 和我弖布礼奈々 都知尓於知'''母'''加毛|m_kana=わがかどの かたやまつばき まことなれ わがてふれなな つちにおち'''も'''かも|我が門の片山%椿まこと汝れ我が手触れ[[なな]]土に落ち'''も'''かも|わが かど の かたやま% つばき まこと なれ わが て ふれなな つち に おち'''も''' か も}}
-
-=====Usage notes=====
-This word is morphologically an [[inflectional]] [[suffix]]. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
-
-===Etymology 4===
 Readings of various ''kanji''.
 
 ====Noun====
@@ -100,6 +81,43 @@ Readings of various ''kanji''.
 # {{ja-def|裳}} {{rfdef|ja}}
 # {{ja-def|藻}} [[algae]]
 # {{ja-def|面}} {{rfdef|ja}}
+
+----
+
+==Old Japanese==
+
+===Etymology 1===
+From {{inh|ja|jpx-pro|*mə}}.
+
+Appears in common use in the ''{{w|Kojiki}}'' (712 {{CE}}), with the only attested distinction between {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}}. Compare {{cog|ltc|-}} {{ltc-l|母}}.
+
+Pronunciation was distinct from {{IPAfont|⟨mo<sub>1</sub>⟩}} terms such as {{m|ojp|雲|tr=kumo<sub>1</sub>||[[cloud]]}} and {{m|ojp|下|tr=simo<sub>1</sub>||[[lower]], [[end]]}}; pronounced closely to {{cog|ltc|-}} {{ltc-l|毛}}. This was lost in a later ancient Japanese chronicle, the ''{{w|Nihon Shoki}}'' (720 {{CE}}), and {{IPAfont|⟨mo<sub>1</sub>⟩}} and {{IPAfont|⟨mo<sub>2</sub>⟩}} were merged to form one syllable ''mo''. See the {{w|Man'yōgana}} and {{w|Jōdai Tokushu Kanazukai}} articles for more detail on ancient spellings.
+
+====Particle====
+{{head|ojp|particle|tr=mo<sub>2</sub> → mo}}
+
+# {{n-g|non-unique topic marker:}} [[also]], [[even]]
+
+=====Derived terms=====
+* {{m|ojp|かも|tr=ka mo}}
+
+=====Descendants=====
+* {{desc|ja|も|tr=mo}}
+
+===Etymology 2===
+The Eastern {{inh|ja|ojp|-}} variant of {{m|ojp|む|tr=-mu}}.<ref>{{R:Daijirin}}</ref>
+
+====Suffix====
+{{head|ojp|suffix|tr=-mo}}
+
+# {{lb|ojp|regional|Eastern Old Japanese}} {{n-g|Used to form the conjectural form of verbs, equivalent to modern {{ja-r|-う}}/{{ja-r|-よう}}}}
+#* {{RQ:Manyoshu|14|3418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3418 here]
+#*: {{ux|ojp|可美&#64038;氣努佐野田能奈倍能武良奈倍爾許登波佐太米&#64038;伊麻波伊可爾世'''母'''|tr=Kami<sub>1</sub>tuke<sub>2</sub>no<sub>1</sub> Sano<sub>2</sub>da-no<sub>2</sub>-nape<sub>2</sub> no<sub>2</sub> muranape<sub>2</sub> ni ko<sub>2</sub>to<sub>2</sub> ni sadame<sub>2</sub>tu ima pa ika ni se'''mo'''}}
+#* {{RQ:Manyoshu|20|4418}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4418 here]
+#*: {{ux|ojp|和我可度乃可多夜麻&#64038;婆伎麻己等奈禮和我弖布禮[[なな|奈奈]]&#64038;知爾於知'''母'''加毛|tr=waga kado<sub>1</sub> no<sub>2</sub> katayama tubaki mako<sub>2</sub>to<sub>2</sub> nare waga te purenana tuti ni oti'''mo''' ka mo}}
+
+=====Usage notes=====
+This is morphologically an [[inflectional]] [[suffix]]. It is classified as {{m|ja|助動詞|tr=jodōshi||auxiliary verb}} in traditional Japanese grammar.
 
 ===References===
 <references/>
