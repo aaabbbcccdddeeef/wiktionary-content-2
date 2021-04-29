@@ -97,32 +97,40 @@ It may also be interpreted as a {{Han compound|井|彡|ls=psc|c1=p|c2=s|nocap=y}
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|かた|alt=型}}
+
+From {{inh|ja|ojp|sort=かた|-}}.  First attested in the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
 Probably related to {{ja-l|堅い}} / {{ja-l|硬い}} / {{ja-l|固い||katai}}, {{m|en|hard}}.
 
 ====Pronunciation====
-* {{ja-pron|かた|acc=h|y=k}}
-
-====Alternative forms====
-* {{ja-l|型}}
+{{ja-pron|かた|acc=2|acc_ref=DJR,SMK5,NHK}}
 
 ====Noun====
 {{ja-noun|かた}}
 
-# a [[shape]]
-# a [[form]]
-# a [[pattern]], [[die]], or [[model]] from which [[copies]] are made
-# on a [[coin]], the side with writing on it: see antonym {{ja-l|縵面||name}}
-# [[collateral]] for [[borrow]]ed [[money]]
+# {{defdate|from 720}} a [[shape]]
+# {{defdate|from 720}} a [[form]]
+# {{defdate|from 1007}} a [[pattern]], [[die]], or [[model]] from which [[copies]] are made
+# {{defdate|from roughly 1300s}} [[collateral]] for [[borrow]]ed [[money]]
+# {{defdate|from 1775}} on a [[coin]], the side with writing on it
+#: {{antonyms|ja|縵面|tr1=name}}
 
 ===Etymology 2===
-Derived from ''kata'' above. {{rendaku2|sort=かた'|kata|gata}} Only found in compounds.
+{{ja-kanjitab|yomi=k|がた|alt=型}}
+
+Derived from ''kata'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=かた'|kata|gata}} Found most commonly as a suffixing element in compounds.
+
+The standalone noun sense was originally a shortening of {{m|ja|女形|tr=onnagata|lit=[[woman]] [[form]]}}, a female role played by a male actor in [[kabuki]] [[theater]].  This noun sense is only spelled with the {{m|ja|形}} kanji.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-** {{IPA|ja|/ɡa.ta/|[ɡa̠ta̠]|[ŋa̠ta̠]}}
+{{ja-pron|がた|acc=2|acc_ref=DJR}}
 
-====Alternative forms====
-* {{ja-l|型}}
+====Noun====
+{{ja-noun|がた|がだ}}
+
+# {{defdate|from 1820}} {{lb|ja|sort=かた'|kabuki|theater}} {{short for|ja|sort=かた'|女形|tr=onnagata}}, a female role played by a male actor in [[kabuki]] [[theater]]
+#: {{synonyms|ja|女形|tr1=onnagata|お山|tr2=oyama}}
 
 ====Suffix====
 {{ja-pos|suffix|がた}}
@@ -137,52 +145,33 @@ Derived from ''kata'' above. {{rendaku2|sort=かた'|kata|gata}} Only found in c
 =====Usage notes=====
 For a [[shape]], the spelling {{l|ja|形}} is more commonly used. For a [[type]], the spelling {{l|ja|型}} is more commonly used.
 
+=====Further reading=====
+* [https://gogen-yurai.jp/katai/ Entry for ''katai'' at Gogen-Allguide], mentioning the likely overlap with ''kata'' (in Japanese)
+
 ===Etymology 3===
-Derived from {{ja-l|形木||katagi}}, itself a compound of {{compound|ja|sort=かたぎ|形|tr1=kata|t1=shape|木|tr2=ki|t2=tree, wood}}, meaning {{m|en|stencil}}. {{rendaku2|sort=かたぎ|ki|gi}}
-
-====Pronunciation====
-{{ja-pron|かたぎ|acc=2|y=k}}
-
-====Alternative forms====
-* {{ja-l|気質}}
-* {{ja-l|容気}}
-
-====Noun====
-{{ja-noun|かたぎ}}
-
-# [[social]] [[customs]], [[mores]]
-# one's [[appearance]]; one's [[stance]] or [[body language]]
-# one's [[character]], [[disposition]], [[nature]]
-
-====Suffix====
-{{ja-pos|かたぎ|suffix}}
-
-# the [[character]], [[disposition]], or [[nature]] of the affixed noun
-
-===Etymology 4===
 {{ja-kanjitab|かたち|yomi=kun|alt=容,躰}}
-{{unk|ja|sort=かたち}}. Appears to be {{IPAchar|/kata/}} + {{IPAchar|/chi/}}, but the derivation of the {{IPAchar|/chi/}} element is unclear.
+
+From {{inh|ja|ojp|sort=かたち|-}}.  First attested in the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Compound of {{suffix|ja|sort=かたち|形|tr1=kata|t1=[[shape]], [[form]]|ち|tr2=chi}},<ref name="SMK5"/> but the derivation of the ''chi'' element is unclear.
 
 ====Pronunciation====
-{{ja-pron|かたち|acc=h|y=k}}
-
-====Alternative forms====
-* {{ja-l|容}}
+{{ja-pron|かたち|acc=0|acc_ref=DJR,SMK5,NHK}}
 
 ====Noun====
 {{ja-noun|かたち}}
 
-# [[shape]] or [[form]]
-# [[form]], as opposed to [[substance]]
-# [[shapeliness]]: see {{ja-l|形有り||katachiari}}
+# {{defdate|from 720}} [[shape]] or [[form]]
+# {{defdate|from late 900s}} [[shapeliness]]: see {{m|ja|形有り|tr=katachiari}}
+# {{defdate|from 1688}} [[form]], as opposed to [[substance]]
 
-===Etymology 5===
+===Etymology 4===
 {{ja-kanjitab|けい|yomi=kanon}}
-From {{der|ja|ltc|-|sort=けい}} {{m|ltc|形|tr=heng}}. Compare modern {{cog|cmn|形|tr=xíng}}. The {{m|ja|漢音|sc=Latn|''kan'on''}} reading, so likely a later borrowing.
+
+From {{der|ja|ltc|sort=けい|-}} {{ltc-l|形}}. Compare modern {{cog|cmn|形|tr=xíng}}. The {{m|ja|漢音|sc=Latn|''kan'on''}} reading, so likely a later borrowing.
 
 ====Pronunciation====
-* {{l|ja|sc=Latn|音読み|On'yomi}}: {{m|ja|漢音|sc=Latn|Kan'on}}
-** {{IPA|ja|/ke.e/|[ke̞ː]}}
+{{ja-pron|けい}}
 
 ====Suffix====
 {{ja-pos|suffix|けい}}
@@ -194,47 +183,49 @@ From {{der|ja|ltc|-|sort=けい}} {{m|ltc|形|tr=heng}}. Compare modern {{cog|cm
 #: {{ja-usex|連%用'''形'''|れん%よう'''けい'''|the [[continuative]] '''form'''}}
 #: {{ja-usex|命%令'''形'''|めい%れい'''けい'''|the [[imperative]] or [[command]] '''form'''}}
 
-===Etymology 6===
+===Etymology 5===
 {{ja-kanjitab|なり|yomi=kun|alt=態,なり}}
-From {{ja-l|成り||nari}}, the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] form}} of the verb {{m|ja|成る|tr=naru||to become}}.
+
+From {{inh|ja|ojp|sort=なり|-}}.  First attested in the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ"/>
+
+From {{m|ja|成り|tr=nari}}, the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] or stem form}} of the verb {{m|ja|成る|tr=naru||to become}}.<ref name="KDJ"/><ref name="DJR"/>
+
+First attested as a suffix on a noun in the {{m|ja||{{w2|ja|曾我物語}}|tr={{w|Soga Mongatari}}}},<ref name="KDJ"/> of uncertain dating but probably in the late 1300s.  As a suffix on a verb stem, first attested from 1927.<ref name="KDJ"/>
 
 ====Pronunciation====
-{{ja-pron|なり|acc=o|y=k}}
+{{ja-pron|なり|acc=2|acc_ref=DJR}}
 
 ====Usage notes====
-The most common spelling for this use is {{ja-l|なり}}, for all parts of speech.
+The most common spelling for this use is {{m|ja|なり}}, for all parts of speech.
 
 ====Noun====
 {{ja-noun|なり}}
 
-# one's [[clothing]] and [[appearance]]
-# one's body [[shape]] or [[form]]
-# one's [[circumstances]] or [[situation]]
-# one's [[reputation]]
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
+# {{defdate|from 720}} the [[shape]] or [[form]] of something
+# {{defdate|from late 900s}} one's [[clothing]] and [[appearance]]
+# {{defdate|from mid 1600s}} one's body [[shape]] or [[form]]
+# {{defdate|from 1477}} one's [[circumstances]] or [[situation]]
+# {{defdate|from 1773}} one's [[reputation]]
+# {{defdate|from 1763}} following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) or plain [[perfective]] form of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
 #: {{ja-usex|人%々の言う'''なり'''になった|ひと%びと の いう '''なり''' に なった|things turned out '''just as''' people were saying}}
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) of an adjective, indicates responding to the affixed adjective: compare English {{m|en|fitting}}
+# {{defdate|from 1915}} following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) of an adjective, indicates responding to the affixed adjective: compare English {{m|en|fitting}}
 #: {{ja-usex|寒ければ寒い'''なり'''の厚%着をする|さむければ さむい '''なり''' の あつ%ぎ を する|if it's cold, '''then''' put on warm clothing / if it's cold, then put on warm clothes '''for''' cold weather}}
-# following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) of a verb, indicates the moment of the action occurring: compare English {{m|en|as soon as}}
+# {{defdate|from 1928}} following the plain [[imperfective]] form ([[attributive]] form, {{ja-l|連体形||rentaikei}}) of a verb, indicates the moment of the action occurring: compare English {{m|en|as soon as}}
 #: {{ja-usex|断りを聞く'''なり'''泣き出した|ことわり を きく '''なり''' なきだした|she burst into tears '''as soon as''' she heard the rejection}}
-# following a noun, indicates a state [[fitting]] or [[becoming]] to the affixed noun
-#: {{ja-usex|子%供'''なり'''に想%像する|こ%ども '''なり''' に そう%ぞう する|imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
-#: {{ja-usex|自%分'''なり'''の判%断|じ%ぶん '''なり''' の はん%だん|my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
-# following a noun, indicates that [[shape]] or [[form]]: compare English {{m|en|like}}
-#: {{ja-usex|弓'''なり'''になる|ゆみ '''なり''' に なる|to become bow-'''shaped''' / to become '''like''' a bow}}
-
-===Etymology 7===
-Derived from ''nari'' above.
-
-====Pronunciation====
-* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
-** {{IPA|ja|/na.ɾi/|[na̠ɾi]}}
 
 ====Suffix====
 {{ja-pos|なり|suffix}}
 
-# following the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] form}} of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
+# following the {{m|ja|連用形|tr=ren'yōkei||[[continuative]] or stem form}} of a verb, indicates the state of the affixed verb or phrase: compare English {{m|en|just}} {{m|en|as}}
 #: {{ja-usex|人%々 が 言い'''なり''' に なった|ひと%びと が い.い'''なり''' に なった|things turned out '''just as''' people say}}
+# {{defdate|from 1951}} following a noun, indicates a state [[fitting]] or [[becoming]] to the affixed noun
+#: {{ja-usex|子%供'''なり'''に想%像する|こ%ども '''なり''' に そう%ぞう する|imagine '''in a way fitting for''' a child / imagine '''like''' a child (implies that the subject is a child)}}
+#: {{ja-usex|自%分'''なり'''の判%断|じ%ぶん '''なり''' の はん%だん|my own '''kind of''' decision / deciding '''in''' my own '''way'''}}
+# {{defdate|from late 1300s}} following a noun, indicates that [[shape]] or [[form]]: compare English {{m|en|like}}
+#: {{ja-usex|弓'''なり'''になる|ゆみ '''なり''' に なる|to become bow-'''shaped''' / to become '''like''' a bow}}
+
+===References===
+<references/>
 
 [[Category:ja:Grammar|けい]]
 
