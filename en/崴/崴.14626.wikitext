@@ -15,25 +15,39 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
-|m=wǎi,wēi
-|c=wai1,waai2,waai1
+|m=wēi
+|c=wai1
 |mc=y
 |oc=y
-|cat=v
+|cat=a
 }}
 {{zh-attn-split}}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{rfdef|zh}} <!--uneven?-->
-# to [[sprain]] one's ankle
+
+====Compounds====
+{{zh-der|崴嵬}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=wǎi,wēi,1nb=standard in Mainland,2nb=standard in Taiwan
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}} 
+# to [[sprain]] (one's ankle)
 #: {{zh-x|腳 崴{wǎi} 了 怎麼.辦？|What do I do when I sprain my ankle?}}
 
 ====Compounds====
-{{zh-der|崴拉骨|崴嵬|海參崴|崴子|太陽崴|崴泥}}
+{{zh-der|崴拉骨|海參崴|崴子|崴泥}}
 
 ===References===
 * {{R:yue:mfccd}}
