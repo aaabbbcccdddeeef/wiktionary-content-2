@@ -152,11 +152,12 @@ From {{der|ja|ltc|sort=えん|-}} {{zh-l|*咽}} / {{ltc-l|嚥}}.
 ===Etymology 1===
 From {{der|ko|ltc|sort=인|-}} {{ltc-l|咽|id=1}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|ᅙᅧᆫ|qyèn}}
-|m={{hanja-hunmong|연|yèn|身體#상26B}}
-|mh=[[목구무|목ᄭᅮ무]] 연
-|m2={{hanja-sinjeung|연|yen}}
-|m2h=[[식구무]] 연
+|dk={{okm-l|ᅙᅧᆫ|qyèn|link=no}}
+|m={{okm-l|연|yèn}}
+|mh={{okm-l|[[목구무|목ᄭᅮ무]]|mwòk-s-kwùmwù}}
+|ml=身體#상26B
+|m3={{okm-l|연|yen}}
+|m3h={{okm-l|식구무|sik-kwumwu}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|인}}
@@ -165,24 +166,21 @@ From {{der|ko|ltc|sort=인|-}} {{ltc-l|咽|id=1}}.
 {{ko-hanja-search}}
 {{ko-hanja|목구멍|인}}
 
-# {{hanja form of|인|[[throat]]; [[pharynx]]}}
+# {{hanja form of|인|[[throat]]; [[pharynx]]|affix}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
-* {{ko-l|인후|[[throat]]|咽喉}}
-* {{ko-l|인두|[[pharynx]]|咽頭}}
-* {{ko-l|인후염|咽喉炎}}
-* {{ko-l|인후통|咽喉痛}}
-* {{ko-l|인두염|咽頭炎}}
 * {{ko-l|이비인후과|耳鼻咽喉科}}
+* {{ko-l|인두|咽頭}}
+* {{ko-l|인후|咽喉}}
 {{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|sort=열|-}} {{ltc-l|咽|id=3}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|ᅙᅧᇙ〮|qyélq}}
-|m={{hanja-sinjeung|열|yel}}
-|mh=[[목몌다|목몔]] 열
+|dk={{okm-l|ᅙᅧᇙ〮|qyélq|link=no}}
+|m3={{okm-l|열|yel}}
+|m3h={{okm-l|[[목몌다|목몔]]|mwok-myeyl}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|열}}
@@ -190,24 +188,11 @@ From {{der|ko|ltc|sort=열|-}} {{ltc-l|咽|id=3}}.
 ====Hanja====
 {{ko-hanja|목메다|목멜|열}}
 
-# {{hanja form of|열|[[choked]]; [[smothered]]; making a [[hoarse]] sound}}
+# {{hanja form of|열|{{n-g|Used in {{m|ko|오열(嗚咽)|t=[[sobbing]]}}}}: [[choked]]; [[smothered]]}}<!--This is not the only word using this reading, but the rest are rare.-->
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
 * {{ko-l|오열|[[sobbing]]|嗚咽}}
-{{der-bottom}}
-
-===Etymology 3===
-Related to {{cog|ltc|-}} {{ltc-l|嚥}}.
-
-====Hanja====
-{{ko-hanja|삼키다|삼킬|연}}
-
-# {{alt form|ko|嚥||{{hanja form of|연|[[swallow]]}}}}
-
-====Compounds====
-{{der-top3|Compounds}}
-* {{ko-l|연하|[[swallowing]]|嚥下/咽下}}
 {{der-bottom}}
 
 ===References===
