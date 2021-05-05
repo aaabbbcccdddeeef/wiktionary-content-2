@@ -124,40 +124,130 @@
 * {{ja-r|本%末|ほん%まつ}}
 {{der-bottom}}
 
-====See also====
-* {{m|ja|終}}
+===Etymology 1===
+{{ja-kanjitab|yomi=k|すえ}}
 
-===Noun===
+From {{inh|ja|ojp|sort=すえ|-}}.  First attested in the ''{{w|Kojiki}}'' of 712.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|すえ|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
 {{ja-noun|すえ|hhira=すゑ}}
 
-# the [[last]]; the [[end]]
-#: {{ja-usex|[[今年]]'''末'''[[まで]][[に]]|ことし '''すえ''' まで に|until the '''end''' of this year}}
-# last [[child]], youngest child
-# [[triviality]]
-# [[offspring]], [[descendant]]
+# {{defdate|from 720}} the [[tip]] or [[top]] of a plant
+## a [[twig]] or [[shoot]]
+##: {{synonyms|ja|枝先|tr1=edasaki}}
+## a [[treetop]]
+##: {{synonyms|ja|梢|tr1=kozue}}
+# {{defdate|from 712}} the [[tip]] or [[end]] of something
+#: {{synonyms|ja|先|tr1=saki|先端|tr2=sentan}}
+# {{defdate|from 720}} the [[top]] or [[peak]] of a [[mountain]]
+#: {{synonyms|ja|頂|tr1=itadaki|山頂|tr2=sanchō}}
+# {{defdate|from 1205}} the [[edge]] or [[verge]] of a [[road]] or [[field]]
+#: {{synonyms|ja|外れ|tr1=hazure}}
+# {{defdate|from early 1000s}} a [[descendant]]
+#: {{synonyms|ja|足末|tr1=anasue|子孫|tr2=shison}}
+# {{defdate|from 720}} the [[future]], [[later]], [[after]]
+#: {{synonyms|ja|未来|tr1=mirai|q1=future|将来|tr2=shōrai|q2=future|後|tr3=nochi|q3=later}}
+# {{defdate|from early 800s}} the [[end]] of a [[period]] of [[time]]
+#: {{synonyms|ja|終わり|tr1=owari|末期|tr2=makki}}
+# {{defdate|from early 1000s}} {{q|by extension}} [[old age]], the [[end]] period of a [[lifetime]]
+#: {{synonyms|ja|晩年|tr1=bannen|lit1=evening years}}
+# {{defdate|from 1435}} {{q|by extension}} a [[degraded]] [[world]], a world with low [[moral]]s and [[corrupt]] [[politics]]
+#: {{synonyms|ja|末の世|tr1=sue no yo}}
+# {{defdate|from late 1500s}} the [[end]] of a [[month]], the latter [[third]] of a month
+#: {{synonyms|ja|下旬|tr1=gejun}}
+# {{defdate|from early 1000s}} some time considerably [[later]]
+# {{defdate|from early 1000s}} the [[result]], [[outcome]], or [[trace]], [[remains]] of something having been done
+#: {{synonyms|ja|結果|tr1=kekka|q1=result|名残|tr2=nagori|t2=trace, remains}}
+# {{defdate|from 1120}} the [[direction]] in which someone has gone or will go
+#: {{synonyms|ja|方向|tr1=hōkō}}
+# {{defdate|from early 1000s}} the [[youngest]] or [[last]] child
+#: {{synonyms|ja|末子|tr1=sueko}}
+# {{defdate|from early 1000s}} [[youth]], [[childhood]]
+#: {{synonyms|ja|幼少|tr1=yōshō}}
+# {{defdate|from early 1000s}} the [[lowest]] [[seat]], the seat at the [[foot]] of a table; the lowest [[rank]]
+#: {{synonyms|ja|末座|tr1=matsuza|末席|tr2=masseki|下座|tr3=shimoza}}
+# {{defdate|from early 900s}} the [[last]] two seven-[[mora]] [[stanza]]s or [[line]]s of a {{m|ja|短歌|tr=[[tanka]]}} [[poem]]
+#: {{synonyms|ja|下の句|tr1=shimo no ku|下句|tr2=shimoku}}
+# {{defdate|from early 1000s}} the [[end]] of a [[sentence]] or [[word]]
+#: {{synonyms|ja|文末|tr1=bunmatsu|q1=of a sentence|語尾|tr2=gobi|q2=of a word}}
+# {{defdate|from mid-1000s}} the [[latter]] [[portion]] of a [[book]] or [[serial]]
+#: {{synonyms|ja|後編|tr1=kōhen}}
+# {{defdate|from 1182}} the [[origin]], the [[starting]] [[point]]
+#: {{synonyms|ja|元|tr1=moto|q1=origin|起点|tr2=kiten|q2=starting point}}
+# {{defdate|from 1435}} {{lb|ja|sort=すえ|historical}} the [[interior]] [[room]]s of a [[palace]] or [[manor]] where [[maid]]s worked; a [[maid]] who worked in such a [[household]]
+#: {{synonyms|ja|御末|tr1=osue}}
+# {{defdate|from 1682}} a [[low]] [[class]] or [[grade]]; an [[item]] of low class or grade
+#: {{synonyms|ja|下級|tr1=kakyū|q1=low class or grade|下級品|tr2=kakyūhin|q2=item of low class or grade|下等|tr3=katō|q3=low class or grade|下等品|tr4=katōhin|q4=item of low class or grade}}
+# {{defdate|unknown}} something [[minor]], a [[trifle]]
+# {{defdate|from 1179}} [[downstream]]
+#: {{synonyms|ja|川下|tr1=kawashita|下流|tr2=karyū}}
+# {{defdate|from late 800s}} {{lb|ja|sort=すえ|kagura|music}} in a {{m|ja|神楽|tr=[[kagura]]}} [[performance]], the [[seat]]s on the [[right]] side facing the [[altar]] or [[shrine]]; the [[performer]]s playing in these seats
+#: {{synonyms|ja|末方|tr1=suekata}}
 
-; Antonyms
-* {{sense|last, end}} {{ja-r|初|はつ|gloss=[[first]], [[beginning]]}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|うら}}
 
-====See also====
-* [[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/苗裔]]
+From {{inh|ja|ojp|sort=うら|-}}.  First attested in the ''{{w|Man'yōshū}}'' completed in 759.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-===Noun===
-{{ja-noun|まつ}}
+====Pronunciation====
+{{ja-pron|うら}}
 
-# the [[end]]
-# [[powder]]
-
-===Noun===
+====Noun====
 {{ja-noun|うら}}
 
-# {{lb|ja|archaic|sort=うら}} [[tip]], top [[end]]
+# {{defdate|from 759}} {{lb|ja|sort=うら|archaic}} the [[tip]] or [[top]] of a plant
+## a [[twig]] or [[shoot]]
+##: {{synonyms|ja|枝先|tr1=edasaki}}
+## a [[treetop]]
+##: {{synonyms|ja|梢|tr1=kozue}}
+# {{defdate|from late 1500s}} {{lb|ja|sort=うら|archaic}} the [[tip]] or [[end]] of something
+#: {{synonyms|ja|末|tr1=sue|先|tr2=saki|先端|tr3=sentan}}
 
-===Noun===
+===Etymology 3===
+{{ja-kanjitab|yomi=k|うれ}}
+
+From {{inh|ja|ojp|sort=うれ|-}}.  First attested in the ''{{w|Man'yōshū}}'' completed in 759.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|うれ}}
+
+====Noun====
 {{ja-noun|うれ}}
 
-# {{lb|ja|archaic|sort=うれ}} the [[trunk]] or [[leaves]] of a tree
-# {{lb|ja|archaic|sort=うれ}} the [[tip]]s of the [[branch]]es of a tree
+# {{defdate|from 759}} {{lb|ja|sort=うれ|archaic}} the [[tip]] or [[top]] of a plant
+## a [[twig]] or [[shoot]]
+##: {{synonyms|ja|枝先|tr1=edasaki}}
+## a [[treetop]]
+##: {{synonyms|ja|梢|tr1=kozue}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=goon|まつ}}
+
+From {{der|ja|ltc|sort=まつ|-}} {{ltc-l|末}}.
+
+First attested in Japanese in 1120.<ref name="KDJ"/>
+
+====Noun====
+{{ja-noun|まつ}}
+
+# {{defdate|from 1120}} [[powder]]
+#: {{synonyms|ja|粉|tr1=kona|粉末|tr2=funmatsu}}
+# {{defdate|from 1804}} {{lb|ja|sort=まつ|China|theater}} in traditional Chinese theater, an [[extra]], a [[minor]] [[part]]
+#: {{synonyms|ja|端役|tr1=hayaku|q1=extra or minor part in any theatrical tradition}}
+
+====Suffix====
+{{ja-pos|suffix|まつ}}
+
+# {{defdate|from at least 1911}} the [[end]] of a [[period]] of [[time]]
+
+===See also===
+* [[Appendix:Gikun_Usage_in_Meiji_Version_of_Japanese_Bible/苗裔]]
+
+===References===
+<references/>
 
 ----
 
