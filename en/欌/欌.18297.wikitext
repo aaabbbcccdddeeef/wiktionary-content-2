@@ -12,22 +12,25 @@
 ==Korean==
 
 ===Etymology===
-{{ko-etym-gukja}} {{hanja-sinjeung|장|cang|alt=⿰[[木]][[蔵]]}}
-
+{{ko-etym-gukja}}
+{{hanja-ety
+|m3={{okm-l|장|cang}}<!--⿰木蔵-->
+|m3h={{okm-l|장|cang}}
+}}
 ===Pronunciation===
 {{ko-hanja-pron|장|l=y}}
 
 ===Hanja===
 {{ko-hanja-search}}
-{{ko-hanja|[[장롱]]([[欌籠]])|장}}
+{{ko-hanja|장롱(欌籠)|장}}
 
-# {{hanja form of|장|[[wardrobe]]; [[cabinet]]}}
+# {{hanja form of|장|[[wardrobe]]; [[cabinet]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
 * {{ko-l|옷장|옷欌}}
-* {{ko-l|책장|[[bookcase]]|冊欌}}
-* {{ko-l|장롱|[[wardrobe]]|欌籠}}
+* {{ko-l|책장|冊欌}}
+* {{ko-l|장롱|欌籠}}
 * {{ko-l|찬장|饌欌}}
 * {{ko-l|벽장|壁欌}}
 * {{ko-l|의장|衣欌}}
