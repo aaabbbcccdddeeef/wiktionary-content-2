@@ -135,7 +135,7 @@ From {{der|ja|ltc|sort=いん|-}} {{ltc-l|印}}.
 ===Etymology===
 From {{der|ko|ltc|sort=인|-}} {{ltc-l|印}}.
 {{hanja-ety
-|dk={{okm-l|ᅙᅵᆫ〮|qín}}
+|dk={{okm-l|ᅙᅵᆫ〮|qín|link=no}}
 |m={{okm-l|인〮|ín}}
 |mh={{okm-l|[[인#seal|인〮]]|ín}}
 |ml=書式#상35A
@@ -147,41 +147,41 @@ From {{der|ko|ltc|sort=인|-}} {{ltc-l|印}}.
 {{ko-hanja-search}}
 {{ko-hanja|도장(圖章)|인}}
 
-# {{hanja form of|[[인#seal|인]]|[[seal]]; [[stamp]]|noun}}
+# {{hanja form of|[[인#seal|인]]|[[seal]], [[stamp]]|noun}}
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|^인도|印度}}
-* {{ko-l|인쇄|印刷}}
-* {{ko-l|낙인|烙印}}
-* {{ko-l|^인니|印尼}}
-* {{ko-l|인상|印象}}
-* {{ko-l|인장|印章}}
-* {{ko-l|날인|捺印}}
 * {{ko-l|각인|刻印}}
-* {{ko-l|화인|火印}}
-* {{ko-l|봉인|封印}}
-* {{ko-l|인본|印本}}
-* {{ko-l|인화|印畫}}
-* {{ko-l|인세|印稅}}
-* {{ko-l|인신|印信}}
-* {{ko-l|인감|印鑑}}
 * {{ko-l|관인|官印}}
-* {{ko-l|인새|印璽}}
-* {{ko-l|인지|印紙}}
-* {{ko-l|영인|影印}}
-* {{ko-l|인상|印相}}
+* {{ko-l|낙인|烙印}}
+* {{ko-l|날인|捺印}}
 * {{ko-l|무인|無印}}
+* {{ko-l|봉인|封印}}
+* {{ko-l|영인|影印}}
+* {{ko-l|인감|印鑑}}
+* {{ko-l|^인니|印尼}}
+* {{ko-l|^인도|印度}}
+* {{ko-l|인본|印本}}
+* {{ko-l|인상|印相}}
+* {{ko-l|인상|印象}}
+* {{ko-l|인새|印璽}}
+* {{ko-l|인세|印稅}}
+* {{ko-l|인쇄|印刷}}
+* {{ko-l|인신|印信}}
+* {{ko-l|인장|印章}}
+* {{ko-l|인지|印紙}}
+* {{ko-l|인화|印畫}}
+* {{ko-l|화인|火印}}
 {{der-bottom}}
 
 ===Proper noun===
 {{ko-hanjatab}}
 {{ko-proper noun|hangeul=인}}
 
-# {{q|in news headlines}} {{short for|ko|{{ruby|[[인도|[印](인)[度](도)]]}}|t=[[India]]|tr=Indo}}
+# {{q|in news headlines}} {{short for|ko|{{ruby|[[인도#India|[印](인)[度](도)]]}}|t=[[India]]|tr=Indo}}
 
 ====Usage notes====
-A common convention in news headlines, this is almost always written solely in the ''[[Hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[Hanja]]''.
+In news headlines, this is usually written solely in the ''[[hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[hanja]]''.
 
 ===References===
 * {{R:hanjadoc|993}}
