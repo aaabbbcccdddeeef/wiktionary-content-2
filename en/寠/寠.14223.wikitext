@@ -5,19 +5,46 @@
 ===Han character===
 {{Han char|rn=40|rad=宀|as=11|sn=14|four=30404|canj=JLLV|ids=⿱宀婁}}
 
-# [[poor]], [[impoverished]]
-
-====References====
+===Further reading===
 {{Han ref|kx=0290.180|dkj=07285|dj=0574.250|hdz=20948.020|uh=5BE0}}
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|s=𪧘}}
 
-===Hanzi===
-{{yue-hanzi|sim=𪧘|jyut=[[geoi6]], [[lau4]], [[leoi6]]|y=geui6, lau4, leui6}}
+===Glyph origin===
+{{Han compound|宀|婁|c1=s|c2=p|ls=psc|t1=roof}}.
 
-# {{rfdef|yue|sort=宀11}}
+===Pronunciation 1===
+{{zh-pron
+|m=jù
+|c=geoi6
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# [[rudimentary]] {{gloss|of a room}}
+# [[poor]], [[impoverished]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=lóu
+|c=lau4
+|cat=n
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# [[narrow]] [[area]] of a [[plateau]]
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -30,25 +57,36 @@
 
 ====Readings====
 {{ja-readings
-|goon=く, る
-|kanon=く, ろう
-|kun=まずしい, やつれる, ちひさい
+|goon=く,る
+|kanon=く,ろう
+|kun=まず-しい,やつれる,ちひさ-い
 }}
 
 ----
 
-==Mandarin==
+==Korean==
 
-===Hanzi===
-{{cmn-hanzi|sim=𪧘|pin=[[jù]] ([[ju4]]), [[lóu]] ([[lou2]])|wg=chü<sup>4</sup>, lou<sup>2</sup>}}
+===Hanja===
+{{ko-hanja|가난하다|가난할|구}}
 
-# {{rfdef|cmn|sort=宀11}}
+# {{rfdef|ko|sort=宀11}}
+
+===Hanja===
+{{ko-hanja|[[좁다|좁고]] [[비탈진]] [[곳]]|루||누}}
+
+# {{rfdef|ko|sort=宀11}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/3637683762844867aad3dda1cacb7f06 Naver Hanja Dictionary: 寠]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=宀11|reading=lũ}}
+{{vi-readings|hanviet=cũ,lũ|nom=cũ,lũ,rủ|rs=宀11}}
 
 # {{rfdef|vi|sort=宀11}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5BE0 Nom Foundation]
