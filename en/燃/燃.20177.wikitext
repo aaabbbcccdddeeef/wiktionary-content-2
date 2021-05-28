@@ -12,22 +12,25 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=焚-Hokkien:hiâⁿ,煆-Teochew:hian5,炾-Teochew:hian5}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|火|然|ls=psc|c1=s|c2=p|t1=fire}} – burn with fire. Originally {{och-l|然}}, but because it was phonetically borrowed for abstract senses, {{m|zh|火}} was added for differentiation.
 
-===Pronunciation===
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation 1===
+{{zh-forms|alt=然}}
 {{zh-pron
 |m=rán
 |c=jin4
 |h=pfs=
 |md=
-|mn=xm,qz,tp:liân/zz,kh:jiân/hiâⁿ
-|mn_note=liân/jiân - literary; hiâⁿ - vernacular
-|mn-t=riang5/riêng5/hian5
-|mn-t_note=riang5/riêng5 - literary (riêng5 - Chaozhou); hian5 - vernacular
+|mn=xm,qz,tp:liân/zz,kh:jiân
+|mn_note=literary
+|mn-t=riang5/riêng5
+|mn-t_note=literary (riêng5 - Chaozhou)
 |w=
 |mc=y
 |oc=y
@@ -35,24 +38,41 @@
 |cat=v,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[burn]]; to be [[alight]]
 # to [[ignite]]; to [[light]]
 # to [[spark]] off (hopes); to [[start]] (debate); to [[raise]] (hopes)
-# {{lb|zh|Min Nan}} to [[heat up]]; to [[boil]] (a [[liquid]])
-#: {{zh-x|燃水|to '''heat up''' water; to '''boil''' water|MN}}
 # {{lb|zh|neologism|slang}} [[lit]]; [[awesome]]; [[cool]]; [[uplifting]]
 # {{lb|zh|neologism|slang}} [[pumped up]]; [[hyper]]; [[stoked]]
 
-====Synonyms====
+=====Synonyms=====
 * {{s|to burn}} {{zh-l|焚燒}}
 * {{s|to ignite}}
 {{zh-syn-saurus|點燃}}
 
-===Compounds===
+====Compounds====
 {{zh-der|燃點|燃放|燃料|燃眉之急|燃氣輪機|燃燒|燃燒彈|助燃|可燃性|完全燃燒|內燃機|引燃|外燃機|可燃物|燃膏繼晷|燃臍|燃藜|淨化燃煤|燃糠照薪|燃燈佛|煮豆燃萁|燃犀|燃料礦物|燃糠自照|核子燃料|燃犀溫嶠|燃萁煮豆|燃眉|燃料油|死灰復燃|核燃料|點燃|自燃}}
+
+===Pronunciation 2===
+{{zh-forms|alt=焚-Hokkien,煆-Teochew; Hainanese,炾-Teochew}}
+{{zh-pron
+|mn=hiâⁿ
+|mn_note=hiâⁿ - vernacular
+|mn-t=hian5
+|mn-t_note=vernacular
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien|Teochew|Hainanese}} to [[burn]] ([[wood]], [[coal]], etc.)
+# {{lb|zh|Hokkien|Teochew}} to [[heat up]]; to [[boil]] (a [[liquid]])
+#: {{zh-x|燃水|to '''heat up''' water; to '''boil''' water|MN}}
 
 {{zh-cat|Advanced|Fire}}
 
