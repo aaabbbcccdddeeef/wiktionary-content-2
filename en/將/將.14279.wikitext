@@ -209,23 +209,27 @@ Nominalization of verb {{m|ja|勝る|tr=masaru||to [[excel]], [[rival#Verb|rival
 ==Korean==
 
 ===Alternative forms===
-* {{alter|ko|将}}
+* {{alt|ko|将}}
 
 ===Etymology 1===
-From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|commander}}. {{hanja-hunmong|쟈ᇰ〯|cyǎng|人類#중01B|hun=자ᇰ〯슈〮 쟈ᇰ〯}} 
-
+From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|[[commander]]}}.
+{{hanja-ety
+|dk={{okm-l|쟈ᇰ〮|cyáng|link=no}}
+|m={{okm-l|쟈ᇰ〯|cyǎng}}
+|mh={{okm-l|자ᇰ〯슈〮|cyǎngsywú}}
+|ml=人類#중01B
+}}
 ====Pronunciation====
 * {{sense|in {{ko-l|장군|將軍}}}} {{ko-hanja-pron|장}}
 * {{sense|general; commander; etc.}} {{ko-hanja-pron|장|l=y}}
 
 ====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|[[장수]]([[將帥]])|장}}
+{{ko-hanja|장수(將帥)|장}}
 
-# {{hanja form of|장|[[general#Noun|general]]; [[commander]]}}
-# {{hanja form of|장|[[military]] [[officer]]}}
+# {{hanja form of|장|[[general#Noun|general]]; [[commander]]|noun}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
 * {{ko-l|장교|將校}}
 * {{ko-l|장군|將軍}}
@@ -244,7 +248,7 @@ From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|commander}}. {{hanja-hunmong|쟈
 * {{ko-l|비장|裨將}}
 * {{ko-l|소장|少將}}
 * {{ko-l|신장|神將}}
-* {{ko-l|[[양장]]/[[량장]]|良將}}
+* {{ko-l|양장|良將}}
 * {{ko-l|왜장|倭將}}
 * {{ko-l|적장|敵將}}
 * {{ko-l|제장|諸將}}
@@ -265,23 +269,26 @@ From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|commander}}. {{hanja-hunmong|쟈
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=1|to take; to hold}}. {{hanja-hunmong|쟈ᇰ|cyang|人類#중01B|hun=쟈ᇰᄎᆞ〮
- 쟈ᇰ}}
-
+From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=1|to [[take]]; to [[hold]]}}.
+{{hanja-ety
+|dk={{okm-l|쟈ᇰ|cyàng|link=no}}
+|m={{okm-l|쟈ᇰ|cyàng}}
+|mh={{okm-l|쟈ᇰᄎᆞ〮|cyàngchá}}
+|ml=人類#중01B
+}}
 ====Pronunciation====
 {{ko-hanja-pron|장}}
 
 ====Hanja====
-{{ko-hanja|[[장차]]([[將次]])|장}}
+{{ko-hanja|장차(將次)|장}}
 
-# {{hanja form of|장|[[from now on]]; an [[action]] to be [[done]] in [[future]]}}
-# {{hanja form of|장|[[take]]; [[hold]]}}
+# {{hanja form of|장|[[take]], [[hold]]; [[from now on]], [[in the future]]|affix}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
+* {{ko-l|일취월장|日就月將}}
 * {{ko-l|장래|將來}}
 * {{ko-l|장차|將次}}
-* {{ko-l|일취월장|日就月將}}
 {{der-bottom}}
 
 ===References===
