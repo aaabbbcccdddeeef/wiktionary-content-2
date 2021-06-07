@@ -42,7 +42,7 @@ In the seal script, the original compound was corrupted into {{zh-l|𣏂}} (some
 The modern-day character inherits this and can be thought of as a {{Han compound|𣏂|c1=p|殳|c2=s|t2=spear|ls=psc|nocap=yes}}.
 
 ===Etymology 1===
-From {{inh|zh|sit-pro|*g/b-sat}}.
+From {{inh|zh|sit-pro|*g/b-sat||to kill}}; compare {{cog|bo|བསད||to kill}}, {{cog|tbq-lob-pro|*C-sat||to kill}}, {{cog|sit-jap|sat||to kill}} (STEDT; {{zh-ref|Schuessler, 2007}}; {{zh-ref|Zhang, Jacques and Lai, 2019}}).
 
 ====Pronunciation====
 {{zh-pron
@@ -50,13 +50,13 @@ From {{inh|zh|sit-pro|*g/b-sat}}.
 |m-s=sa2
 |dg=са1
 |c=saat3
-|c-t=
+|c-t=sat1
 |g=sah6
 |h=pfs=sat;gd=sad5
 |j=sah4
 |mb=suŏi
 |md=sák
-|mn=sat/qz,xm,zz:soah
+|mn=sat/ml:soah
 |mn_note=sat - literary; soah - vernacular
 |mn-t=suah4
 |w=4saq
@@ -67,13 +67,17 @@ From {{inh|zh|sit-pro|*g/b-sat}}.
 }}
 
 ====Definitions====
-{{zh-hanzi}} {{tlb|zh|transitive}}
+{{zh-hanzi}}
 
-# to [[kill]]; to [[murder]]
-# to [[hurt]]
-# {{lb|zh|dialectal}} to [[cut]], to [[slice]] (fruit, food)
+# {{lb|zh|transitive}} to [[kill]]; to [[murder]]
+#: {{zh-x|我 殺 咗 隻 烏蠅{jing4-1}。|I '''killed''' a fly.|C}}
+# to [[hurt]] {{rfclarify|zh}}
+# to [[fight]]
+# {{lb|zh|dialectal|transitive}} to [[cut]]; to [[slice]] (fruit, food)
 #: {{zh-x|殺 西瓜|to [[cut]] a watermelon}}
-# to [[bargain]] (price)
+# {{lb|zh|transitive}} to [[abate]]; to [[reduce]]
+#: {{zh-x|殺價|to bargain}}
+# {{lb|zh|regional|colloquial}} to [[sting]]
 
 =====Usage notes=====
 * Normally, the subject of {{lang|zh|殺}} should be [[animate]]. The sentence "A tiger killed many people." can be validly translated as {{lang|zh|老虎殺死數人}}, while the sentence "This accident killed many people." is seldom translated as *{{lang|zh|這次事故殺死數人}}. For death caused by non-living things, split forms of {{zh-l|致死}} are often used instead:
