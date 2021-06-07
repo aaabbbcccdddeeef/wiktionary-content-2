@@ -140,15 +140,11 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 ===Etymology===
 From {{der|ko|ltc|sort=학|-}} {{ltc-l|學}}. 
 {{hanja-ety
-|dk={{hanja-dongguk|ᅘᅡᆨ〮|hhák}}
-|m={{hanja-hunmong|ᄒᆞᆨ|hok|雜語#하31A}}
-|mh=[[ᄇᆡ호다|ᄇᆡ올]] ᄒᆞᆨ
-|m2={{hanja-gwangju|ᄒᆡᆨ|hoyk}}
-|m2h=[[ᄇᆡ호다|ᄇᆡ흘]] ᄒᆡᆨ
-|m3={{hanja-sinjeung|ᄒᆞᆨ|hok}}
-|m3h=[[ᄇᆡ호다|ᄇᆡ홀]] ᄒᆞᆨ
+|dk={{okm-l|ᅘᅡᆨ〮|hhák}}
+|m={{okm-l|ᄒᆞᆨ|hok}}
+|mh={{okm-l|[[ᄇᆡ호다|ᄇᆡ홀]]|poyhwol}}
+|ml=雜語#하31A
 }}
-
 ===Pronunciation===
 {{ko-hanja-pron|학}}
 
@@ -156,8 +152,8 @@ From {{der|ko|ltc|sort=학|-}} {{ltc-l|學}}.
 {{ko-hanja-search}}
 {{ko-hanja|배우다|배울|학}}
 
-# {{hanja form of|학|to [[learn]], to [[study]]; to be [[teach|taught]]}}
-# {{hanja form of|학|{{lb|ko|suffix}} [[subject]]; [[branch]] of [[learning]]; [[-ology]]}}
+# {{hanja form of|학|to [[learn]], to [[study]]; to be [[teach|taught]]|affix}}
+# {{hanja form of|학|[[-logy]], [[-ics]], [[-graphy]], [[study]] of...|suffix}}
 
 ====Compounds====
 * {{see derivation subpage|Learn (Korean)}}
