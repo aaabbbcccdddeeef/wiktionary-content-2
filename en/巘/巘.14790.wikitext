@@ -4,18 +4,17 @@
 ===Han character===
 {{Han char|rn=46|rad=山|as=20|sn=23|four=23734|canj=UYBK|ids=⿰山獻}}
 
-# [[summit]], [[peak]]
-
-====References====
-* {{Han ref|kx=0323.090|dkj=08651|dj=0623.170|hdz=10809.020|uh=5DD8|ud=24024|bh=F7D6|bd=63446}}
+===Further reading===
+{{Han ref|kx=0323.090|dkj=08651|dj=0623.170|hdz=10809.020|uh=5DD8|bh=F7D6|bd=63446}}
 
 ----
 
 ==Chinese==
-{{zh-forms|s=𪩘}}
+{{zh-forms|s=𪩘|alt=巚}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|山|獻|c1=s|c2=p|ls=psc|t1=mountain}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -23,16 +22,19 @@
 |c=jin5
 |mc=y
 |oc=y
-|cat=
+|cat=n
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# [[low]]er [[peak]] of a [[mountain]]
 
 ===Compounds===
 {{zh-der|巘巘|疊巘}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -44,4 +46,16 @@
 # {{rfdef|ja|sort=山20}}
 
 ====Readings====
-* {{ja-readings|on=げん,ごん,けん|kun=みね}}
+{{ja-readings|on=げん,ごん,けん|kun=みね-}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|봉우리|헌}}
+
+# {{rfdef|ko|sort=山20}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/1fec788411a942dca4ae950271df3ce9 Naver Hanja Dictionary: 巘]
