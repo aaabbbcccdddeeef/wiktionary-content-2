@@ -5,8 +5,8 @@
 ===Han character===
 {{Han char|rn=46|rad=山|as=05|sn=8|four=28727|canj=UOII|ids=⿰山令}}
 
-====References====
-* {{Han ref|kx=0309.240|dkj=07993|dj=0609.200|hdz=10768.040|uh=5CAD|ud=23725|bh=CC64|bd=52324}}
+===Further reading===
+{{Han ref|kx=0309.240|dkj=07993|dj=0609.200|hdz=10768.040|uh=5CAD|bh=CC64|bd=52324}}
 
 ----
 
@@ -16,7 +16,7 @@
 {{zh-see|嶺}}
 
 ===Etymology 2===
-{{zh-forms}}
+{{zh-forms|alt=岺,𡿡}}
 
 ====Pronunciation====
 {{zh-pron
@@ -27,7 +27,7 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{zh-only|岭巆}}
 
@@ -43,7 +43,6 @@
 ====Readings====
 {{ja-readings
 |on=れい
-|kun=
 }}
 
 ----
@@ -51,15 +50,21 @@
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=령|rv=ryeong|mr=ryŏng}}
+{{ko-hanja|고개|령||영}}
 
 # {{rfdef|ko|sort=山05}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/8a9a7e2db5c64a249f14337ac23bcc76 Naver Hanja Dictionary: 岭]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|reading=lĩnh|rs=山05}}
+{{vi-readings|nom=lãnh|rs=山05}}
 
 # {{rfdef|vi|sort=山05}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5CAD Nom Foundation]
