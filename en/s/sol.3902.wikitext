@@ -3,14 +3,14 @@
 {{was wotd|2021|June|17}}
 
 ===Etymology 1===
-From {{inh|en|enm|sol||fifth degree or note of Guido of Arezzo’s hexachordal scales}},<ref>{{R:MED Online|pos=''n.''(2)|noformat=1|id=MED41379}}</ref> the first {{glossary|syllable}} of {{der|en|la|solve||to remove; to get rid of}}, the first word of the fifth line, third verse (“Solve polluti, labii reatum”, that is, “Clean the guilt from our stained lips”) of the famed medieval hymn ''[[w:Ut queant laxis|Ut queant laxis]]'', which [[solfège]] was based on because its lines started on each note of the scale successively.<ref>Compare {{R:OED Online|pos=''n.''{{sup|2}}|noformat=1|id=184023|date=December 2020|nodot=1}}; {{R:Lexico|alt=sol{{sup|1}}|pos=n}}</ref>
+From {{inh|en|enm|sol|t=fifth degree or note of Guido of Arezzo’s hexachordal scales}},<ref>{{R:MED Online|pos=''n.''(2)|noformat=1|id=MED41379}}</ref> the first {{glossary|syllable}} of {{der|en|la|solve|t=to remove; to get rid of}}, the first word of the fifth line (“Solve polluti, labii reatum”, that is, “Clean the guilt from our stained lips”) of the medieval hymn ''[[w:Ut queant laxis|Ut queant laxis]]'', which [[solfège]] was based on because its lines started on each note of the scale successively.<ref>Compare {{R:OED Online|pos=''n.''{{sup|2}}|noformat=1|id=184023|date=December 2020|nodot=1}}; {{R:Lexico|alt=sol{{sup|1}}|pos=n}}</ref>
 
 ====Pronunciation====
-* {{a|RP}} {{IPA-lite|en|/sɒl/|/səʊl/}}
+* {{a|RP}} {{IPA|en|/sɒl/|/səʊl/}}
 * {{audio|en|LL-Q1860 (eng)-I learned some phrases-sol.wav|Audio (Southern England)}}
-* {{a|GA}} {{enPR|sōl}}, {{IPA-lite|en|/sɔl/|/sɑl/|/soʊl/}}
-* {{homophones|en|soul|sole}} {{q|Canada|US}}
-* {{rhymes|en|ɒl|əʊl|s=1}}
+* {{a|GA}} {{enPR|sōl}}, {{IPA|en|/sɔl/|/sɑl/|/soʊl/}}
+* {{homophones|en|soul|sole}} {{qualifier|Canada|US}}
+* {{rhymes|en|ɒl|əʊl}}
 
 ====Noun====
 {{en-noun|-}}
@@ -27,10 +27,8 @@ From {{inh|en|enm|sol||fifth degree or note of Guido of Arezzo’s hexachordal s
 
 =====Translations=====
 {{trans-top|in a movable-do system: the fifth step in a scale}}
-{{multitrans|data=
 * Arabic: {{t|ar|سُول|m}}, {{t|ar|سُول|m|tr=sol}}
 * Basque: {{t+|eu|sol}}
-* Bulgarian: {{t+|bg|сол}}
 * Catalan: {{t+|ca|sol|m}}
 * Dutch: {{t+|nl|sol|m}}
 * Finnish: {{t+|fi|sol}}, {{t+|fi|so}}
@@ -46,7 +44,6 @@ From {{inh|en|enm|sol||fifth degree or note of Guido of Arezzo’s hexachordal s
 * Romanian: {{t+|ro|sol|m}}
 * Russian: {{t+|ru|соль|f}}
 * Spanish: {{t+|es|sol|m}}
-}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{trans-top|in a fixed-do system: the musical note G}}
@@ -55,25 +52,21 @@ From {{inh|en|enm|sol||fifth degree or note of Guido of Arezzo’s hexachordal s
 
 ===Etymology 2===
 {{root|en|ine-pro|*solh₂-}}
-From {{bor|en|fro|sol|t=French coin}} (modern {{cog|fr|sou}}), from {{der|en|la|solidum}}, the {{glossary|accusative}} {{glossary|singular}} of {{m|la|solidus||Roman gold coin; (''adjective'') solid}},<ref>{{R:OED Online|pos=''n.''{{sup|3}}|noformat=1|id=184024|date=December 2020}}</ref> ultimately from {{der|en|ine-pro|*solh₂-||whole}}. {{doublet|en|sold|soldo|solidum|sou}}.
+Borrowed from {{bor|en|fro|sol|t=French coin}} (modern {{cog|fr|sou}}), from {{der|en|la|solidum}}, the {{glossary|accusative}} {{glossary|singular}} of {{m|la|solidus|t=Roman gold coin; (''adjective'') solid}},<ref>{{R:OED Online|pos=''n.''{{sup|3}}|noformat=1|id=184024|date=December 2020}}</ref> ultimately from {{der|en|ine-pro|*solh₂-|t=whole}}.
 
 ====Pronunciation====
-* {{a|RP}} {{IPA-lite|en|/sɒl/}}
+* {{a|RP}} {{IPA|en|/sɒl/}}
 * {{audio|en|LL-Q1860 (eng)-I learned some phrases-sol.wav|Audio (Southern England)}}
-* {{a|GA}} {{IPA-lite|en|/sɔl/|/sɑl/}}
-* {{rhymes|en|ɒl|s=1}}
+* {{a|GA}} {{IPA|en|/sɔl/|/sɑl/}}
+* {{rhymes|en|ɒl}}
 
 ====Noun====
 {{en-noun}}
 
 # {{lb|en|historical}} An [[old]] [[coin#Noun|coin]] from [[France]] and some other [[country|countries]] [[worth#Adjective|worth]] 12 [[denier]]s.
 #* {{RQ:Jonson Volpone|act=IV|scene=v|pages=502–503|pageref=503|passage=This fellow, For ſix '''ſols''' more, would pleade againſt his Maker.}}
-#* {{RQ:Coryat Crudities|chapter=My Obseruations of the Most Glorious, Peerelesse, and Mayden Citie of Venice:{{nb...|I Call It Mayden because It was Neuer Conquered.}}|page=285|lines=18–24|passage=Moſt of their owne coines that I ſaw were theſe. In gold but one, which is their chiquiney: This piece doth much vary in the value. For ſometimes it is high, ſometimes low. When I was there, a chiquiney was worth eleuen liuers, and twelue '''ſols'''. Which counteruaileth eight ſhillings and eight pence halfe penny of our money.}}
+#* {{quote-book|en|author=Thomas Coryate [''i.e.'', {{w|Thomas Coryat}}]|chapter=My Obseruations of the Most Glorious, Peerelesse, and Mayden Citie of Venice:{{nb...|I Call It Mayden because It was Neuer Conquered.}}|title=[[w:Coryat's Crudities|Coryats Crudities Hastily Gobled Vp in Five Moneths Trauells{{nb...|in France, Sauoy, Italy, Rhetia Comonly Called the Grisons Country, Heluetia aliàs Switzerland, Some Parts of High Germany, and the Netherlands; Newly Digested in the Hungry Aire of Odcombe in the County of Somerset, & now Dispersed to the Nourishment of the Trauelling Members of this Kingdome}}]]|location=London|publisher={{...|Printed by}} [[w:William Stansby|W[illiam] S[tansby]] for the author]|year=1611|page=285|pageurl=https://archive.org/details/coryatscrudities00cory/page/285/mode/1up|lines=18–24|oclc=702319809|passage=Moſt of their owne coines that I ſaw were theſe. In gold but one, which is their chiquiney: This piece doth much vary in the value. For ſometimes it is high, ſometimes low. When I was there, a chiquiney was worth eleuen liuers, and twelue '''ſols'''. Which counteruaileth eight ſhillings and eight pence halfe penny of our money.}}
 #* {{RQ:Smollett Roderick Random|volume=II|chapter=XLIV|page=69|passage=It was the fate of the grenadier company, to which I now belonged, to lie at Rheims, where I found myſelf in the utmoſt want of every thing: My pay, which amounted to five '''ſols''' a day, far from ſupplying me with neceſſaries; being ſcarce ſufficient to procure a wretched ſubſiſtance, to keep ſoul and body together; {{...}}}}
-
-=====Related terms=====
-* {{l|en|solid}}
-* {{l|en|solidus}}
 
 =====Translations=====
 {{trans-top|old coin from France and other countries}}
@@ -82,23 +75,21 @@ From {{bor|en|fro|sol|t=French coin}} (modern {{cog|fr|sou}}), from {{der|en|la|
 
 ===Etymology 3===
 {{PIE word|en|sóh₂wl̥}}
-From {{bor|en|es|sol|t=sun}},<ref>{{R:OED Online|pos=''n.''{{sup|5}}|noformat=1|id=184026|date=June 2018|nodot=1}}; {{R:Lexico|alt=sol{{sup|3}}|pos=n}}</ref> from {{der|en|la|sōl||sun}}, ultimately from {{der|en|ine-pro|*sóh₂wl̥||sun}}. {{doublet|en|Sol|[[sol#Etymology 4|sol]]}}, directly from the Latin.
+Borrowed from {{bor|en|es|sol|t=sun}},<ref>{{R:OED Online|pos=''n.''{{sup|5}}|noformat=1|id=184026|date=June 2018|nodot=1}}; {{R:Lexico|alt=sol{{sup|3}}|pos=n}}</ref> from {{der|en|la|sōl|t=sun}}, ultimately from {{der|en|ine-pro|*sóh₂wl̥|t=sun}}.
 
 ====Pronunciation====
-* {{a|RP}} {{IPA-lite|en|/sɒl/}}
+* {{a|RP}} {{IPA|en|/sɒl/}}
 * {{audio|en|LL-Q1860 (eng)-I learned some phrases-sol.wav|Audio (Southern England)}}
-* {{a|GA}} {{IPA-lite|en|/sɔl/|/sɑl/}}
-* {{rhymes|en|ɒl|s=1}}
+* {{a|GA}} {{IPA|en|/sɔl/|/sɑl/}}
+* {{rhymes|en|ɒl}}
 
 ====Noun====
 {{en-noun}}
 
 # {{lb|en|historical}} A [[former]] [[Spanish America|Spanish-American]] [[silver#Adjective|silver]] [[coin#Noun|coin]].
-#* {{quote-book|en|author=[Antoine-Simon] Le Page du Pratz|authorlink=Antoine-Simon Le Page du Pratz|chapter=Of the Commerce that Is, and May Be, Carried Out in ''Louisiana''.{{nb...|Of the Commodities which that Province may Furnish in Return for Those of Europe. Of the Commerce of Louisiana with the Isles.}}|translator=[anonymous]|title=The History of Louisiana, or of the Western Parts of Virginia and Carolina:{{nb...|Containing a Description of Countries that Lye on Both Sides of the River Missisipi: With an Account of the Settlements, Inhabitants, Soil, Climate, and Products. Translated from the French, (Lately Published,) by M. Le Page Du Pratz; with Some Notes and Observations Relating to Our Colonies. In Two Volumes.}}|location=London|publisher={{...|Printed for}} T. Becket and P. A. De Hondt{{nb...|in the Strand.}}|year=1763|volume=I|page=336|pageurl=https://archive.org/details/cihm_18172/page/n415/mode/1up|oclc=85253444|passage=The ''Tobacco'' of this colony is ſo excellent, that if the commerce thereof was free, it would ſell for one hundred '''ſols''' and ſix livres the pound, ſo fine and delicate is its juice and flavour.}}
+#* '''1763''', M. Le Page Du Pratz, ''History of Louisiana'':
+#*: Three days after, the Great Sun, his brother, sent me another deer-skin of the same oil, to the quantity of forty pints. The most common sort sold this year at twenty '''sols''' a pint, and I was sure mine was not of the worst kind.
 # ''In full'' '''[[nuevo sol]]''' ''or'' '''new sol''': the [[main#Adjective|main]] [[currency]] [[unit]] of [[Peru]] which replaced the [[inti]] in 1991; also, a coin of this [[value#Noun|value]].
-
-=====Related terms=====
-* {{l|en|Sun}}, {{l|en|sun}}
 
 =====Translations=====
 {{trans-top|Spanish-American silver coin}}
@@ -110,20 +101,22 @@ From {{bor|en|es|sol|t=sun}},<ref>{{R:OED Online|pos=''n.''{{sup|5}}|noformat=1|
 {{trans-bottom}}
 
 ===Etymology 4===
-From {{bor|en|la|sōl||sun}};<ref>{{R:OED Online|pos=''n.''{{sup|7}}|noformat=1|id=184028|date=March 2018}}</ref> see further at [[#Etymology 3|etymology 3]]. {{doublet|en|[[sol#Etymology 3|sol]]}} from Spanish.
+Borrowed from {{bor|en|la|sōl|t=sun}};<ref>{{R:OED Online|pos=''n.''{{sup|7}}|noformat=1|id=184028|date=March 2018}}</ref> see further at [[#Etymology 3|etymology 3]].
 
 ====Pronunciation====
-* {{a|RP}} {{IPA-lite|en|/sɒl/}}
+* {{a|RP}} {{IPA|en|/sɒl/}}
 * {{audio|en|LL-Q1860 (eng)-I learned some phrases-sol.wav|Audio (Southern England)}}
-* {{a|GA}} {{IPA-lite|en|/sɔl/|/sɑl/}}
-* {{rhymes|en|ɒl|s=1}}
+* {{a|GA}} {{IPA|en|/sɔl/|/sɑl/}}
+* {{rhymes|en|ɒl}}
 
 ====Noun====
 {{en-noun}}
 
 # {{senseid|en|day}}{{lb|en|astronomy}} A [[solar day]] on the [[planet]] [[Mars]] ([[equivalent]] to 24 [[hour]]s, 39 [[minute#Noun|minutes]], 35 [[second#Noun|seconds]]).
-#* {{quote-book|en|author=Andy Weir|authorlink=Andy Weir|chapter=3|title=[[w:The Martian (Weir novel)|The Martian]]|location=New York, N.Y.|publisher={{w|Broadway Books}}|year=2011|year_published=2014|page=18|pageurl=https://archive.org/details/martiannovel0000weir/page/18/mode/1up|isbn=978-1-101-90358-2|passage=I need to create calories. And I need enough to last the 1387 '''sols''' until Ares 4 arrives. If I don't get rescued by Ares 4, I'm dead anyway. A '''sol''' is 39 minutes longer than a day, so it works out to be 1425 days. That's my target: 1425 days of food.}}
-#* {{quote-book|en|author=Gerard ’t Hooft|authorlink=Gerard 't Hooft|author2=Stefan Vandoren|chapter=10⁵ Seconds = 100,000 Seconds = 1.16 days = 27.78 Hours|translator=Saskia A. Eisberg-’t Hooft|title=Time in Powers of Ten: Natural Phenomena and Their Timescales|location=Singapore|publisher=[[w:World Scientific|World Scientific Publishing Co.]]|year=2014|section=part I|page=25|pageurl=https://books.google.com/books?id=PZu6CgAAQBAJ&pg=PA25|isbn=978-981-4489-80-5|passage=88,775 seconds = 24 hours, 39 minutes and 35 seconds / The duration of a synodic day on Mars, a ‘'''sol'''’}}
+#* '''2014''', [[w:Andy Weir|Andy Weir]], ''The Martian'', Crown Publishing Group, {{ISBN|9780804139038}}:
+#*: A '''sol''' is 39 minutes longer than a day, so it [the 1387 '''sols''' until Ares 4 arrives] works out to be 1425 days.
+#* '''2014''', [[w:Gerard 't Hooft|Gerard 't Hooft]], Stefan Vandoren, ''Time in Powers of Ten: Natural Phenomena and Their Timescales'', World Scientific Publishing Company, {{ISBN|9789814489805}}, pt. 1, c. 6, p. 25:
+#*: 88,775 seconds = 24 hours, 39 minutes and 35 seconds: The duration of a synodic day on Mars, a ''''sol''''
 
 =====Derived terms=====
 * {{l|en|tosol}}
@@ -131,16 +124,13 @@ From {{bor|en|la|sōl||sun}};<ref>{{R:OED Online|pos=''n.''{{sup|7}}|noformat=1|
 
 =====Related terms=====
 * {{l|en|Sol}}
-* {{l|en|Sun}}, {{l|en|sun}}
 
 =====Translations=====
 {{trans-top|solar day on the planet Mars}}
-{{multitrans|data=
 * Finnish: {{t|fi|[[Mars|Marsin]] [[päivä]]}}
 * Norwegian: {{t|no|marsdøgn|n|n-p}}
 {{trans-mid}}
 * Russian: {{t|ru|[[марсианский|марсиа́нские]] [[су́тки]]|f-p}}
-}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 ===Etymology 5===
@@ -149,28 +139,24 @@ Sense 1 (“type of colloid”) is derived from {{m|en|-sol}} (in words like {{m
 Sense 2 (“solution to an objection”) is derived directly from {{m|en|solution}}.<ref>{{R:OED Online|entry=† sol|pos=''n.''{{sup|4}}|noformat=1|id=184025|date=March 2021}}</ref>
 
 ====Pronunciation====
-* {{a|RP}} {{IPA-lite|en|/sɒl/}}
+* {{a|RP}} {{IPA|en|/sɒl/}}
 * {{audio|en|LL-Q1860 (eng)-I learned some phrases-sol.wav|Audio (Southern England)}}
-* {{a|GA}} {{IPA-lite|en|/sɔl/|/sɑl/}}
-* {{rhymes|en|ɒl|s=1}}
+* {{a|GA}} {{IPA|en|/sɔl/|/sɑl/}}
+* {{rhymes|en|ɒl}}
 
 ====Noun====
 {{en-noun}}
 
 # {{lb|en|physical chemistry}} A [[type#Noun|type]] of [[colloid#Noun|colloid]] in which a [[solid#Noun|solid]] is [[disperse]]d in a [[liquid#Noun|liquid]].
 # {{lb|en|obsolete}} A [[solution]] to an [[objection]] (or "[[ob]]"), for example, in [[controversial]] [[divinity]].
-#* {{RQ:Burton Melancholy|edition=2nd|chapter=Symptomes Generall, Loue to Their Owne Sect, Hate of All Other Religions,{{nb...|Obstinacie, Peevishnesse, Ready to Vndergoe any Danger or Crosse for It, Martyrs, Blind Zeale, Blinde Obedience, Fastings, Vowes, Beliefe of Incredibilities, Impossibilities: Particular of Gentiles, Mahometans, Iewes, Christians, and in Them Heretikes Old and New, Schismatickes, Schoolemen, Prophets, Enthusiasts, &c.}}|partition=3|section=4|member=1|subsection=3|page=524|url=https://archive.org/details/2319035R.nlm.nih.gov/page/n623/mode/1up|passage=[F]or that they had nothing elſe to doe, {{...}} haue coyned a thouſand idle queſtions, nice diſtinctions, Obs and '''Sols''', {{...}}}}
-#* {{RQ:Butler Hudibras|year=1678|part=3|canto=II|page=165|passage=Where ''Hinderſon, and th' other Maſſes'' / ''Were ſent to Cap Texts, and Put Caſes'': / To paſs for deep, and ''Learned Scholars'', / Although but Paltry, ''Ob-and-'''Sol'''lers'':{{nb...}}|brackets=on}}
+#* {{RQ:Burton Melancholy|chapter=Symptomes Generall, Loue to Their Owne Sect, Hate of All Other Religions,{{nb...|Obstinacie, Peevishnesse, Ready to Vndergoe any Danger or Crosse for It, Martyrs, Blind Zeale, Blinde Obedience, Fastings, Vowes, Beliefe of Incredibilities, Impossibilities: Particular of Gentiles, Mahometans, Iewes, Christians, and in Them Heretikes Old and New, Schismatickes, Schoolemen, Prophets, Enthusiasts, &c.}}|partition=3|section=4|member=1|subsection=3|page=524|url=https://archive.org/details/2319035R.nlm.nih.gov/page/n623/mode/1up|passage=[F]or that they had nothing elſe to doe, {{...}} haue coyned a thouſand idle queſtions, nice diſtinctions, Obs and '''Sols''', {{...}}}}
+#* {{RQ:Butler Hudibras|year=1678|part=3|canto=II|page=165|passage=Where ''Hinderſon, and th' other Maſſes'' / ''Were ſent to Cap Texts, and Put Caſes'': / To paſs for deep, and ''Learned Scholars'', / Although but Paltry, ''Ob-and-'''Sol'''lers'': {{...}}|brackets=on}}
 
 =====Derived terms=====
 * {{l|en|aerosol}}
-* {{l|en|solate}}
-* {{l|en|solation}}
 
 =====Translations=====
 {{trans-top|type of colloid in which a solid is dispersed in a liquid}}
-{{multitrans|data=
-* Bulgarian: {{t|bg|зол|m}}
 * Catalan: {{t+|ca|sol|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|溶膠}}, {{t+|cmn|溶胶|tr=róngjiāo}}
@@ -181,7 +167,6 @@ Sense 2 (“solution to an objection”) is derived directly from {{m|en|solutio
 * Hungarian: {{t|hu|szol}}
 {{trans-mid}}
 * Japanese: {{t|ja|ゾル|tr=zoru}}
-* Polish: {{t+|pl|zol|m}}
 * Portuguese: {{t+|pt|sol|m}}
 * Romanian: {{t+|ro|sol|n}}
 * Russian: {{t+|ru|золь|m}}
@@ -190,7 +175,6 @@ Sense 2 (“solution to an objection”) is derived directly from {{m|en|solutio
 *: Roman: {{t+|sh|sol}}
 * Spanish: {{t+|es|sol|m}}
 * Tagalog: {{t|tl|maladigkiting kaluswan}}
-}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 ===References===
@@ -200,10 +184,10 @@ Sense 2 (“solution to an objection”) is derived directly from {{m|en|solutio
 * {{anagrams|en|a=los|LOS|OLS|SLO|los'}}
 
 [[Category:English heteronyms]]
+[[Category:English terms with multiple etymologies]]
 [[Category:en:Coins]]
 [[Category:en:Currencies]]
 [[Category:en:Mars (planet)]]
-[[Category:en:Peru]]
 
 ----
 
@@ -226,50 +210,24 @@ From a contraction of the preposition {{m|ast|so||under}} + masculine singular a
 From {{inh|az|trk-pro|*sōl}}.
 
 ===Pronunciation===
-* {{IPA-lite|az|[soɫ]}}
-* {{audio|az|LL-Q9292 (aze)-Azerbaijani audiorecordings-sol.wav|Audio}}
+* {{IPA|az|[soɫ]}}
 
 ===Noun===
-{{az-head-noun|o|c}}
+{{az-noun|u|lar}}
 
-# [[left]]
+# [[left]] {{C|az|Directions}}
 #: {{uxi|az|küçənin '''sol '''tərəfi|'''left '''side of the street}}
 
 ====Declension====
-{{az-decl-noun|o|c}}
+{{az-latin-noun-decl|c|o}}
 
 ====Antonyms====
 * {{l|az|sağ}}
 
 ====Derived terms====
-* {{l|az|solaxay||[[left-hander]]}}
-* {{l|az|solçu||[[leftist]]}}
-** {{l|az|solçuluq||[[leftism]]}}
-
-{{C|az|Directions}}
-
-----
-
-==Bislama==
-
-===Etymology===
-From {{inh|bi|en|salt}}. Cognate with {{cog|tpi|sol}}.
-
-===Pronunciation===
-* {{IPA-lite|bi|/ˈsol/}}
-* {{hyph|bi|sol}}
-
-===Noun===
-{{head-lite|bi|nouns|langname=Bislama}}
-
-# [[salt]]
-
-====Derived terms====
-{{col4|bi
-|solwora}}
-
-===References===
-* {{R:bi:Crowley:2004|page=17}}
+* {{l|az|solaxay||left-hander}}
+* {{l|az|solçu||leftist}}
+** {{l|az|solçuluq||leftism}}
 
 ----
 
@@ -278,24 +236,24 @@ From {{inh|bi|en|salt}}. Cognate with {{cog|tpi|sol}}.
 ===Pronunciation===
 * {{ca-IPA|ò}}
 * {{homophones|ca|sòl}}
-* {{rhymes|ca|ɔl|s=1}}
+* {{rhymes|ca|ɔl}}
 
 ===Etymology 1===
-From {{inh|ca|roa-oca|sol}}, from {{inh|ca|la|sol|sōlem|t=sun}}, ultimately from {{inh|ca|ine-pro|*sóh₂wl̥}}.
+From {{inh|ca|pro|sol}}, from {{inh|ca|la|sōl||sun}}, ultimately from {{inh|ca|ine-pro|*sóh₂wl̥}}.
 
 ====Proper noun====
 {{ca-proper noun|m}}
 
-# {{lb|ca|astronomy}} The [[Sun]] (the center of our [[solar system]]).
+# {{lb|ca|astronomy}} the [[Sun]]
 
 ====Noun====
 {{ca-noun|m}}
 
-# {{lb|ca|astronomy}} [[sun]]
-# {{lb|ca|numismatics}} [[#English|sol]] (a unit of currency used in Peru)
+# {{lb|ca|astronomy}} a [[sun]]
+# {{lb|ca|money}} [[#English|sol]] {{gloss|unit of currency used by Peru}}
 
 =====Derived terms=====
-{{col4|ca
+{{der3|ca
 |posta de sol
 |sol coronat
 |sol ixent
@@ -310,15 +268,15 @@ From {{inh|ca|roa-oca|sol}}, from {{inh|ca|la|sol|sōlem|t=sun}}, ultimately fro
 ====Noun====
 {{ca-noun|m}}
 
-# {{lb|ca|music}} [[#English|sol]] (the fifth note of the [[diatonic scale]])
+# {{lb|ca|music}} [[#English|sol]] {{gloss|the fifth note of the diatonic scale}}
 
 ===Etymology 3===
-From {{bor|ca|en|sol}}.
+Borrowed from {{bor|ca|en|sol}}.
 
 ====Noun====
 {{ca-noun|m}}
 
-# {{lb|ca|chemistry}} [[#English|sol]] (a [[colloid]] suspension of a solid in a liquid)
+# {{lb|ca|chemistry}} [[#English|sol]] {{gloss|a [[colloid]] suspension of a solid in a liquid}}
 
 ===Etymology 4===
 From {{inh|ca|la|sōlus||solitary}}.
@@ -326,7 +284,7 @@ From {{inh|ca|la|sōlus||solitary}}.
 ====Adjective====
 {{ca-adj}}
 
-# [[alone]] ([[by oneself]], [[solitary]])
+# [[alone]] {{gloss|by oneself, solitary}}
 #* {{quote-journal|ca|journal=Time Out Barcelona|date=March 12 2020|volume=588|column=Fight!|author=María José Gómez|page=8
 |passage=M'encanta viure en parella, sortir en grup, treballar en equip. Però també m'agrada estar '''sola'''.
 |t=I love living as a couple, going out in a group, working on a team. But I also like being '''alone'''.
@@ -336,8 +294,6 @@ From {{inh|ca|la|sōlus||solitary}}.
 =====Derived terms=====
 {{col4|ca
 |a soles
-|sol com un mussol
-|sol i vern
 |solament
 |solet
 |tot sol
@@ -347,17 +303,15 @@ From {{inh|ca|la|sōlus||solitary}}.
 * {{l|ca|soledat}}
 
 ===Etymology 5===
-{{nonlemma}}
 
 ====Verb====
-{{head-lite|ca|verb forms|langname=Catalan}}
+{{head|ca|verb form}}
 
 # {{ca-verb form of|p=3|n=sg|t=pres|m=ind|soler}}
 # {{ca-verb form of|p=2|n=sg|m=impr|soler}}
 
-===References===
+===Further reading===
 * {{R:IEC2}}
-* {{R:DCVB}}
 
 {{topics|ca|Celestial bodies}}
 
@@ -369,7 +323,7 @@ From {{inh|ca|la|sōlus||solitary}}.
 From {{der|cbk|es|sol||sun}}.
 
 ===Noun===
-{{head-lite|cbk|nouns|langname=Chavacano}}
+{{head|cbk|noun}}
 
 # [[sun]]
 
@@ -386,7 +340,7 @@ From {{der|cbk|es|sol||sun}}.
 {{crh-latin-noun|nıñ|ğa|nı|da|dan}}
 
 ===Adjective===
-{{head-lite|crh|adjectives|langname=Crimean Tatar}}
+{{head|crh|adjective}}
 
 # [[left]]
 
@@ -401,21 +355,23 @@ From {{der|cbk|es|sol||sun}}.
 * {{cs-IPA}}
 
 ===Verb===
-{{head-lite|cs|verb forms|langname=Czech}}
+{{cs-verb-form}}
 
 # {{inflection of|cs|solit||2|s|impr}}
+
+[[Category:Czech imperatives]]
 
 ----
 
 ==Danish==
-{{wp|lang=da}}
+{{wikipedia|lang=da}}
 
 ===Etymology 1===
 From {{inh|da|non|sól||sun}}, from {{inh|da|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō||sun}}, from {{inh|da|ine-pro|*sóh₂wl̥}}.
 
 ====Pronunciation====
-* {{IPA-lite|da|/soːl/|[soːˀl]}}
-* {{rhymes|da|oːl|s=1}}
+* {{IPA|da|/soːl/|[soːˀl]}}
+* {{rhymes|da|oːl}}
 
 ====Noun====
 {{da-noun|en|e}}
@@ -426,7 +382,7 @@ From {{inh|da|non|sól||sun}}, from {{inh|da|gem-pro|*sōwulą}}, {{m|gem-pro|*s
 {{da-noun-infl|en|e}}
 
 ====Verb====
-{{head-lite|da|verb forms|langname=Danish}}
+{{head|da|verb form}}
 
 # {{imperative of|da|sole}}
 
@@ -434,7 +390,7 @@ From {{inh|da|non|sól||sun}}, from {{inh|da|gem-pro|*sōwulą}}, {{m|gem-pro|*s
 From {{der|da|la|solūtiō||solution}}.
 
 ====Pronunciation====
-* {{IPA-lite|da|/soːl/|[soːˀl]}}
+* {{IPA|da|/soːl/|[soːˀl]}}
 
 ====Noun====
 {{da-noun|en|er}}
@@ -445,10 +401,10 @@ From {{der|da|la|solūtiō||solution}}.
 {{da-noun-infl|en|er}}
 
 ===Etymology 3===
-From {{der|da|la|solve|sol(ve)}} in the hymn for [[John the Baptist|St. John the Baptist]].
+From {{der|da|la|solve|sol(ve)}} in the hymn for St. John the Baptist.
 
 ====Pronunciation====
-* {{IPA-lite|da|/sɔl/|[sʌl]}}
+* {{IPA|da|/sɔl/|[sʌl]}}
 
 ====Noun====
 {{da-noun|et|er|stem=soll}}
@@ -468,19 +424,16 @@ From {{der|da|la|solve|sol(ve)}} in the hymn for [[John the Baptist|St. John the
 ==Dutch==
 
 ===Etymology===
-From {{der|nl|la|solve|sol(ve)}} in the hymn for [[John the Baptist|St. John the Baptist]] all note names were taken from.
+From {{der|nl|la|solve|sol(ve)}} in the hymn for St. John the Baptist all note names were taken from.
 
 ===Pronunciation===
-* {{IPA-lite|nl|/sɔl/}}
+* {{IPA|nl|/sɔl/}}
 * {{audio|nl|Nl-sol.ogg|Audio}}
 
 ===Noun===
 {{nl-noun|f|-en|solletje}}
 
-# {{lb|nl|music|Belgium}} [[sol#English|sol]] (the fifth step in the [[solfège]] scale of C, preceded by [[fa]] and followed by [[la]])
-
-====Derived terms====
-* {{l|nl|solseutel}}
+# {{lb|nl|music|Belgium}} [[sol#English|sol]], the fifth step in the [[solfège]] scale of C, preceded by [[fa]] and followed by [[la]].
 
 ===Anagrams===
 * {{l|nl|los}}
@@ -489,13 +442,13 @@ From {{der|nl|la|solve|sol(ve)}} in the hymn for [[John the Baptist|St. John the
 
 ==French==
 
-===Etymology 1===
-From {{bor|fr|la|solum||soil, ground, floor}}.
-
-====Pronunciation====
+===Pronunciation===
 * {{fr-IPA}}
 * {{audio|fr|Fr-Paris--sol.ogg|Audio (Paris)}}
-* {{rhymes|fr|ɔl|s=1}}
+* {{rhymes|fr|ɔl}}
+
+===Etymology 1===
+Borrowed from {{bor|fr|la|solum||soil, ground, floor}}.
 
 ====Noun====
 {{fr-noun|m}}
@@ -507,50 +460,35 @@ From {{bor|fr|la|solum||soil, ground, floor}}.
 =====Derived terms=====
 {{col3|fr
 |clouer au sol
-|hors-sol
-|sous-sol
-}}
+|sous-sol}}
 
 ===Etymology 2===
-From {{der|fr|la|solve|sol(ve)}} in the [[hymn]] for [[John the Baptist|St. John the Baptist]] where all note names were taken from.
-
-====Pronunciation====
-* {{fr-IPA}}
-* {{audio|fr|Fr-Paris--sol.ogg|Audio (Paris)}}
-* {{rhymes|fr|ɔl|s=1}}
+From {{der|fr|la|solve|sol(ve)}} in the [[hymn]] for St. John the Baptist where all note names were taken from.
 
 ====Noun====
-{{fr-noun|m|#}}
+{{fr-noun|m|sol}}
 
-# {{lb|fr|music}} [[#English|sol]] (the fifth step (G) in the [[solfège]] scale of C, preceded by [[fa]] and followed by [[la]])
+# {{lb|fr|music}} [[#English|sol]], the fifth step (G) in the [[solfège]] scale of C, preceded by [[fa]] and followed by [[la]].
 
-=====Derived terms=====
+====Derived terms====
 * {{l|fr|clef de sol}}
 
 ===Etymology 3===
-From {{bor|fr|es|sol||sun}}, itself from {{der|fr|la|sol}}.
-
-====Pronunciation====
-* {{fr-IPA}}
-* {{audio|fr|Fr-Paris--sol.ogg|Audio (Paris)}}
-* {{rhymes|fr|ɔl|s=1}}
+Borrowed from {{bor|fr|es|sol||sun}}, itself from {{der|fr|la|sol}}.
 
 ====Noun====
 {{fr-noun|m}}
 
-# a Spanish-American gold or silver [[coin]], now the main currency unit of [[Peru]] ''(also '''new sol''')'', or a coin of this value
+# A Spanish-American gold or silver [[coin]], now the main currency unit of [[Peru]] ''(also '''new sol''')'', or a coin of this value.
 
 ===Etymology 4===
 {{root|fr|ine-pro|*solh₂-}}
 From {{der|fr|la|solidus}}, a Roman coin. This form kept the historical spelling based on the Old French and Latin. See the main entry at {{m|fr|sou}}.
 
-====Pronunciation====
-* {{fr-IPA|sou}}
-
 ====Noun====
 {{fr-noun|m}}
 
-# {{lb|fr|archaic}} [[sou]] (the feudal era coin)
+# {{lb|fr|archaic}} [[sou]], the feudal era coin.
 
 ===Further reading===
 * {{R:TLFi}}
@@ -560,27 +498,27 @@ From {{der|fr|la|solidus}}, a Roman coin. This form kept the historical spelling
 ==Galician==
 
 ===Etymology 1===
-From [[Old Galician]] and {{inh|gl|roa-opt|sol}}, from {{inh|gl|la|sōl||sun}}, ultimately from {{inh|gl|ine-pro|*sóh₂wl̥}}.
+From Old Galician and {{inh|gl|roa-opt|sol}}, from {{inh|gl|la|sōl||sun}}, ultimately from {{inh|gl|ine-pro|*sóh₂wl̥}}.
 
 ====Pronunciation====
-* {{IPA-lite|gl|[s̺ol]}}
+* {{IPA|gl|[s̺ol]}}
 
 ====Noun====
 {{gl-noun|m}}
 
 # [[sun]]
 # [[sunlight]]
-# [[sunny]] [[side]] (of a place)
+# [[sunny]] [[side]] {{qualifier|of a place}}
 #: {{ux|gl|quítate do '''sol'''|go away from sunny side|inline=1}}
-# [[daylight]] (the time between [[sunrise]] and [[sunset]])
+# [[daylight]] {{gloss|time between sunrise and sunset}}
 
 =====Antonyms=====
-* {{s|sunlight}} {{l|gl|sombra}}
-* {{s|sunny side}} {{l|gl|sombra}}
-* {{s|daylight}} {{l|gl|noite}}
+* {{sense|sunlight}} {{l|gl|sombra}}
+* {{sense|sunny side}} {{l|gl|sombra}}
+* {{sense|daylight}} {{l|gl|noite}}
 
 =====Derived terms=====
-{{col3|gl
+{{der3|gl
 |asollar
 |soán
 |solaina
@@ -595,31 +533,31 @@ From [[Old Galician]] and {{inh|gl|roa-opt|sol}}, from {{inh|gl|la|sōl||sun}}, 
 ===Etymology 2===
 
 ====Pronunciation====
-* {{IPA-lite|gl|[s̺ol]}}
+* {{IPA|gl|[s̺ol]}}
 
 ====Noun====
 {{gl-noun|m}}
 
-# {{lb|gl|music}} [[sol]] (a musical note)
-# {{lb|gl|music}} [[G]] (the musical note or key)
+# {{lb|gl|music}} [[sol]] {{qualifier|musical note}}
+# {{lb|gl|music}} [[G]] {{qualifier|the musical note or key}}
 
-====See also====
+=====See also=====
 * {{list:musical notes/gl}}
 
 ===Etymology 3===
-From {{bor|gl|en|sol}}.
+Borrowed from {{bor|gl|en|sol}}.
 
 ====Pronunciation====
-* {{IPA-lite|gl|[s̺ɔl]}}
+* {{IPA|gl|[s̺ɔl]}}
 
 ====Noun====
 {{gl-noun|m}}
 
-# {{lb|gl|chemistry}} [[#English|sol]] (a [[colloid]] suspension of a solid in a liquid)
+# {{lb|gl|chemistry}} [[#English|sol]] {{gloss|a [[colloid]] suspension of a solid in a liquid}}
 
 ===References===
-* {{R:gl:DDGM}}
-* {{R:gl:DDLG}}
+* {{R:DDGM}}
+* {{R:DDLG}}
 * {{R:TLPGP}}
 * {{R:RAG}}
 
@@ -633,55 +571,31 @@ From {{bor|gl|en|sol}}.
 From {{der|pov|pt|sol}}. Cognate with {{cog|kea|sol}}.
 
 ===Noun===
-{{head-lite|pov|nouns|langname=Guinea-Bissau Creole}}
+{{head|pov|noun}}
 
 # [[sun]]
 
 ----
 
-==Hausa==
-
-===Pronunciation===
-* {{ha-IPA|sOl}}
-
-===Ideophone===
-{{ha-pos|ideophone|sol}}
-
-# very [[white]]
-#:{{syn|ha|fat}}
-
-----
-
 ==Indonesian==
 
-===Pronunciation===
-* {{IPA-lite|id|[ˈsɔl]}}
-* {{hyphenation|id|sol}}
-
-===Etymology 1===
+===Etymology===
 From {{bor|id|nl|zool}}, from {{der|id|dum|sole}}, from {{der|id|VL.|sola}} ("bottom of the shoe", also "flatfish"), from {{der|id|la|solea||sandal, bottom of the shoe}}, from {{der|id|ine-pro|*swol-||sole}}. Compare to {{cog|af|sool}}.
 
-====Noun====
+===Pronunciation===
+* {{IPA|id|[ˈsɔl]}}
+* {{hyphenation|id|sol}}
+
+===Noun===
 {{id-noun}}
-# [[sole]] (the bottom of a shoe or boot)
+# [[sole]], the bottom of a shoe or boot.
 
-=====Derived terms=====
-{{col5|id
-|bersol
-|mengesol
-|mengesolkan
-|pengesol
-|pengesolan
-}}
-
-===Etymology 2===
-From {{bor|id|nl|sol}}, the first {{glossary|syllable}} of {{der|id|la|solve||to remove, get rid of}}, the first word of the fifth line, third verse (“Solve polluti, labii reatum”, that is, “Clean the guilt from our stained lips”) of the famed medieval hymn ''[[w:Ut queant laxis|Ut queant laxis]]'', which [[solfège]] was based on because its lines started on each note of the scale successively.
-
-====Noun====
-{{id-noun}}
-# {{lb|id|music}} {{l|en|sol}}:
-## in a movable-do or tonic sol-fa system: the fifth step in a scale, preceded by fa and followed by la.
-## in a fixed-do system: the musical note G.
+====Derived terms====
+{{der4|id|
+| bersol
+| mengesol
+| mengesolkan
+|}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
@@ -701,7 +615,7 @@ From {{bor|id|nl|sol}}, the first {{glossary|syllable}} of {{der|id|la|solve||to
 # [[alone]]
 
 ===Determiner===
-{{head-lite|ia|determiners|langname=Interlingua}}
+{{head|ia|determiner}}
 
 # {{lb|ia|quantifying}} [[only]]
 
@@ -711,72 +625,23 @@ From {{bor|id|nl|sol}}, the first {{glossary|syllable}} of {{der|id|la|solve||to
 ----
 
 ==Italian==
+{{wikipedia|Sol (nota)|lang=it}}
 
-===Etymology 1===
-{{wp|Sol (nota)|lang=it}}
-From the first syllable of {{der|it|la|solve}}, from the medieval hymn {{w|Ut queant laxis}}, from which the names of the notes were derived.
-
-====Pronunciation====
-{{it-pr|sòl}}
-
-====Noun====
+===Noun===
 {{it-noun|m|-}}
 
-# [[#English|sol]] (a musical note)
-# [[G]] (the musical note and key)
-
-===Etymology 2===
-From {{bor|it|en|sol}}.
-
-====Pronunciation====
-{{it-pr|sòl}}
-
-====Noun====
-{{it-noun|m|-}}
-
-# [[#English|sol]] (a type of colloid)
-
-===Etymology 3===
-From {{bor|it|es|sol}}.
-
-====Pronunciation====
-{{it-pr|sòl}}
-
-====Noun====
-{{it-noun|m|-}}
-
-# [[#English|sol]] (a currency of Peru)
-# {{lb|it|historical}} [[#English|sol]] (a former [[Spanish America|Spanish-American]] silver coin)
-
-===Etymology 4===
-
-====Pronunciation====
-{{it-pr|sól}}
-
-====Noun====
-{{it-noun|m|apoc=1}}
-
+# [[#English|sol]] {{qualifier|musical note, colloid}}
+# [[G]] {{qualifier|musical note and key}}
 # {{apocopic form of|it|sole}}
 
-===Etymology 5===
-
-====Pronunciation====
-{{it-pr|sól}}
-
-====Adjective====
-{{head|it|adjective form}}
+===Adjective===
+{{it-adv}}
 
 # {{apocopic form of|it|solo}}
 
-====Adverb====
-{{head|it|adverb form}}
-
-# {{apocopic form of|it|solo}}
-
-===References===
+===Further reading===
 * {{R:it:Treccani|sense=1}}
 * {{R:it:Treccani|sense=2}}
-* {{R:it:DiPI}}
 
 ----
 
@@ -786,7 +651,7 @@ From {{bor|it|es|sol}}.
 From {{der|kea|pt|sol}}.
 
 ===Verb===
-{{head-lite|kea|verbs|langname=Kabuverdianu}}
+{{head|kea|verb}}
 
 # [[sun]]
 
@@ -817,111 +682,93 @@ From {{inh|la|itc-pro|*swōl}}, from pre-Italic *''sh₂wōl'', ultimately from 
 
 # [[sun]]
 #* '''1st century BC''', [[w:Catullus|Catullus]], ''Carmina'' V; lines 4-6
-#*: '''Soles''' occidere et redire possunt<br/>Nobis cum semel occidit brevis lux<br/>Nox est perpetua una dormienda
-#*:: '''''Suns''' are able to set and rise again<br/>But with us, once this brief light ends<br/>There is endless night for us to sleep.''
-# Sol, the [[sun]] [[god]]
-#* {{Q|la|Ovid|Fasti|4|581-582|quote=‘crīmine nox vacua est; '''Sōlem''' dē virgine raptā<br/>cōnsule, quī lātē facta diurna videt.’|trans=''‘‘Night is without fault. About the maiden who’s been abducted: Consult the '''Sun''',<br/>who beholds far and wide that which is done by day.’’''<br/>({{w|Demeter}} or {{w|Ceres (mythology)}} searched everywhere for her missing daughter {{w|Persephone}} or {{w|Proserpina}}. Ceres queried the [[constellation]] {{w|Helice (mythology)}}, or {{w|Ursa Major}}, who advised Ceres to ask the sun god, {{w|Sol (Roman mythology)}}.)}}
+#*: '''''Soles''' occidere et redire possunt<br/>Nobis cum semel occidit brevis lux<br/>Nox est perpetua una dormienda''
+#*:: '''Suns''' are able to set and rise again<br/>But with us, once this brief light ends<br/>There is endless night for us to sleep
 
 ====Declension====
 {{la-ndecl|sōl<3>}}
 
 ====Derived terms====
-* {{l|la|sōlāris}}
-* {{l|VL.|*sōliculus}}
+{{der3|la|sōlāris}}
 
 ====Descendants====
-{{hcol|3}}
-* Balkan Romance:
-** {{desc|rup|soari}}
-** {{desc|ruo|sore}}
-** {{desc|ruq|soari}}
-** {{desc|ro|soare}}
-* Dalmatian:
-** {{l|dlm|saul}}
-* Italo-Romance:
-** {{desc|co|soli}}
-**: {{desc|sdn|soli}}
-**: {{desc|sdc|sori}}
-** {{desc|it|sole}}
-** {{desc|nap|sole}}
-**: {{desc|roa-tar|sole}}
-** {{desc|scn|suli}}
-* Insular Romance:
-** {{desc|sc|sole|sobi|soi|soli}}
-* North Italian:
-** Gallo-Italic:
-*** {{desc|egl|sôl|soul|saul}}
-*** {{desc|lij|sô}}
-*** {{desc|lmo|sol|so}}
-*** {{desc|pms|sol|so}}
-*** {{desc|rgn|sól}}
-** {{desc|ist|sul}}
-** {{desc|vec|sołe}}
-* Gallo-Romance:
-** Old {{desc|frp|sol}}
-** {{desc|fro|sol|soul}}
-* Occitano-Romance:
+{{top3}}
+* {{desc|an|sol}}
+* {{desc|rup|soari}}
+* {{desc|br|Sul}}
+* {{desc|kw|howl}}
+* {{desc|co|soli}}
+* {{desc|dlm|saul}}
+* {{desc|frp|soley}}
+* {{desc|fro|soleil}}
+** {{desc|frm|soleil}}
+*** {{desc|fr|soleil}}
+* {{desc|fur|soreli}}
+* {{desc|sdn|soli}}
+* {{desc|ist|sul}}
+* {{desc|ruo|sore}}
+* {{desc|it|sole}}
+* {{desc|lld|surëdl}}
+* {{desc|mxi|-}}
+*: {{desc|mxi|شُولى|tr=šoli|sclb=1}}
+*: {{desc|mxi|שׁוֹליִ|tr=šoli|sclb=1}}
+* {{desc|nrf|solé}} {{qualifier|Jersey}}, {{l|nrf|soleil}} {{qualifier|Guernsey}}
+* Old Leonese:
+** {{desc|ast|sol}}
+** {{desc|ext|sol}}
+** {{desc|roa-leo|sol}}
+** {{desc|mwl|sol}}
+* {{desc|nap|sole}}
+* {{desc|roa-opt|sol}}
+** {{desc|fax|sol}}
+** {{desc|gl|sol}}
+** {{desc|pt|sol}}
+*** {{desc|pov|sol}}
+*** {{desc|kea|sol}}
+*** {{desc|pap|solo}}
+* {{desc|pro|sol}}; {{l|pro|solelh}}
 ** {{desc|ca|sol}}
-** Old {{desc|oc-gas|só}}
-** {{desc|pro|sol}}
-*** {{desc|oc|sol|qq=Florac, Lastic, Creuse}}
-* Ibero-Romance:
-** {{desc|an|sol}}
-** {{desc|roa-ole||-}}
-*** {{desc|ast|sol}}
-*** {{desc|ext|sol}}
-*** {{desc|roa-leo|sol}}
-*** {{desc|mwl|sol}}
-** {{desctree|roa-opt|sol}}
-** {{desc|es|sol}}
-* Borrowings:
-** {{desc|cel-bry-pro||-}}
-*** {{desc|kw|Sul}}
-*** {{desc|br|Sul}}
-*** {{desc|cy|Sul}}
+** {{desc|oc|solelh}}
+* {{desc|pms|sol}}
+* {{desc|ro|soare}}
+* {{desc|rm|sulegl}}, {{l|rm|sulagl}}, {{l|rm|sulai}}
+* {{desc|sdc|sori}}
+* {{desc|sc|sole}}, {{l|sc|sobi}}, {{l|sc|soi}}, {{l|sc|soli}}
+* {{desc|scn|suli}}
+* {{desc|es|sol}}
+* {{desc|roa-tar|sole}}
+* {{desc|roa-tou|soulé}}
+* {{desc|vec|sołe}}
+* {{desc|wa|solea}}, {{l|wa|slo}}
+* {{desc|cy|Sul}}
 {{bottom}}
 
 ===References===
-* {{R:roa:AIS|si leva il sole|360}}
-* {{R:FEW|120|23|sōl}}
-
-===Further reading===
-* "[http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=sol sol]", in {{cite-book|author=Charlton T. Lewis and Charles Short|title=[[w:A Latin Dictionary|A Latin Dictionary]]|publisher=Clarendon Press|location=Oxford|year=1879}}
-* "[http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=sol sol]", in {{cite-book|author=Charlton T. Lewis|title=An Elementary Latin Dictionary|publisher=Harper & Brothers|location=New York|year=1891}}
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=sol sol] in {{cite-book|author=Charlton T. Lewis and Charles Short|title=[[w:A Latin Dictionary|A Latin Dictionary]]|publisher=Clarendon Press|location=Oxford|year=1879}}
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=sol sol] in {{cite-book|author=Charlton T. Lewis|title=An Elementary Latin Dictionary|publisher=Harper & Brothers|location=New York|year=1891}}
 * {{R:du Cange}}
 * {{R:Gaffiot}}
 <!--* {{R:M&A}}-->
-
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0062:entry=sol-harpers sol] in {{cite-book|editor=Harry Thurston Peck|title=Harper's Dictionary of Classical Antiquities|publisher=Harper & Brothers|location=New York|year=1898}}
+* [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=sol-bio-1 sol] in {{cite-book|editor=William Smith|title=A Dictionary of Greek Biography and Mythology|publisher=John Murray|location=London|year=1848}}
 {{topics|la|Astronomy|Celestial bodies|Nature|Stars|Light sources}}
 
 ----
 
-==Lombard==
-
-===Etymology===
-From {{inh|lmo|la|sōl}}.
-
-===Noun===
-{{head-lite|lmo|nouns|langname=Lombard}}
-
-# [[sun]]
-
-----
-
 ==Lower Sorbian==
-[[File:Jodsalz mit Fluor und Folsaeure.jpg|thumb|'''sol''']]
+[[File:Jodsalz mit Fluor und Folsaeure.jpg|thumb|{{l|dsb|'''sol'''}}]]
 
 ===Etymology===
 From {{inh|dsb|sla-pro|*solь}}, from {{inh|dsb|ine-pro|*séh₂ls}}.
 
 ===Pronunciation===
-* {{IPA-lite|dsb|/sɔl/}}
+* {{IPA|dsb|/sɔl/}}
 
 ===Noun===
 {{dsb-noun|f}}
 
-# [[salt]] {{gloss|sodium chloride}}
-# {{lb|dsb|chemistry}} [[salt]] {{gloss|a compound of an acid and a base}}
+# {{l|en|salt||sodium chloride}}
+# {{lb|dsb|chemistry}} {{l|en|salt||compound of an acid and a base}}
 
 ====Declension====
 {{dsb-decl-noun-7|so|l}}
@@ -935,19 +782,19 @@ From {{inh|dsb|sla-pro|*solь}}, from {{inh|dsb|ine-pro|*séh₂ls}}.
 ==Middle English==
 
 ===Etymology===
-From {{bor|enm|la|sōl||sun}}, or perhaps from {{inh|enm|ang|sōl||sun}}, both of which hail from {{inh|enm|ine-pro|*sóh₂wl̥}}.
+From {{bor|enm|la|sōl||the sun}}, or perhaps from {{inh|enm|ang|sōl||the sun}}, both of which hail from {{inh|enm|ine-pro|*sóh₂wl̥}}.
 
 ===Noun===
 {{enm-noun|-}}
 
-# The [[bright]]est and [[warm]]est [[celestial body]], considered to be a [[planet]] in the [[w:Ptolemy|Ptolemic system]]; the [[Sun]] (the center of our [[solar system]]).
+# The [[bright]]est and [[warm]]est [[celestial body]], considered to be a [[planet]] in the [[w:Ptolemy|Ptolemic system]]; the [[Sun]].
 # {{lb|enm|rare}} A heavy, yellow [[metal]]; [[gold]].
 #* '''c. 1395''' {{w|Geoffrey Chaucer}}, ''{{w|The Canterbury Tales}}''. Canon Yeoman's Prologue and Tale
 #*: Mercurie..and brymstoon..out of '''Sol''' and Luna were ydrawe.
 
 ====Synonyms====
-* {{s|planet, metal}} {{l|enm|sonne}}
-* {{s|planet}} {{l|enm|Phebus}}
+* {{sense|planet, metal}} {{l|enm|sonne}}
+* {{sense|planet}} {{l|enm|Phebus}}
 
 ====References====
 * {{R:MED Online|entry= sol |pos=n |id=MED33240|accessdate=17 June 2018}}
@@ -971,8 +818,8 @@ From {{bor|enm|la|sōl||sun}}, or perhaps from {{inh|enm|ang|sōl||sun}}, both o
 ==Norwegian Bokmål==
 
 ===Pronunciation===
-* {{IPA-lite|nb|/suːl/}}
-* {{a|Many eastern and northern dialects}} {{IPA-lite|nb|[suːɽ]}}
+* {{IPA|nb|/suːl/}}
+* {{a|Many eastern and northern dialects}} {{IPA|nb|[suːɽ]}}
 
 ===Etymology 1===
 From {{inh|nb|non|sól}}, from {{der|nb|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō||sun}}, from {{der|nb|ine-pro|*sóh₂wl̥}}.
@@ -984,7 +831,7 @@ From {{inh|nb|non|sól}}, from {{der|nb|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwul
 #: {{ux|nb|'''Solen''' skinner.|t='''The sun''' is shining.}}
 
 =====Derived terms=====
-{{col4-u|nb
+{{col3-u|nb|title=Terms derived from ''sol'' (sun)
 |kveldssol
 |midnattssol
 |solbrent
@@ -1021,10 +868,10 @@ From {{inh|nb|non|sól}}, from {{der|nb|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwul
 * {{l|nb|sole}} {{q|verb}}
 
 ===Etymology 2===
-Shortened form of {{der|nb|la|solūtiō}}
+Shortened form of {{der|nb|la|solutio}}
 
 ====Noun====
-{{head-lite|nb|nouns|g=m|langname=Norwegian Bokmål}}
+{{head|nb|noun|g=m}}
 
 # [[solution]]
 
@@ -1034,7 +881,7 @@ Shortened form of {{der|nb|la|solūtiō}}
 ===Etymology 3===
 
 ====Verb====
-{{head-lite|nb|verb forms|langname=Norwegian Bokmål}}
+{{head|nb|verb form}}
 
 # {{imperative of|nb|sole}}
 
@@ -1046,15 +893,15 @@ Shortened form of {{der|nb|la|solūtiō}}
 ----
 
 ==Norwegian Nynorsk==
-{{wp|lang=nn|Sola}}
+{{wikipedia|lang=nn|Sola}}
 
 ===Etymology 1===
 [[File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg|thumb|''sola'']]
 From {{inh|nn|non|sól}}, from {{inh|nn|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō||sun}}, from {{inh|nn|ine-pro|*sóh₂wl̥}}. Cognates include {{cog|is|sól}}, {{cog|got|𐍃𐌰𐌿𐌹𐌻}}, {{cog|grc|ἥλιος}}, {{cog|la|sol|sōl}}, {{cog|lt|saulė|sáulė}}, {{cog|ru|солнце}}{{,}} and {{cog|sa|स्वर्}}.
 
 ====Pronunciation====
-* {{IPA-lite|nn|/suːl/|[suːl]}} {{nn-pronu-note}}
-* {{a|Many eastern and northern dialects}} {{IPA-lite|nn|[suːɽ]}}
+* {{IPA|nn|/suːl/}} {{nn-pronu-note}}
+* {{a|Many eastern and northern dialects}} {{IPA|nn|[suːɽ]}}
 
 ====Noun====
 {{nn-noun-f1}}
@@ -1067,193 +914,57 @@ From {{inh|nn|non|sól}}, from {{inh|nn|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwul
 
 =====Derived terms=====
 * {{l|nn|sola}}, {{l|nn|sole}} {{q|verb}}
-{{der4|nn
-|bisol
-|det finst ingenting nytt under sola
-|gluggsol
-|ikkje la sola gå ned over vreiden sin
-|kveldssol
-|medsols
-|middelsol
-|midnattsol
-|morgonsol
-|motsols
-|plass i sola
-|rangsøles
-|rettsøles
-|skifte sol og vind
-|solauge
-|solbad
-|solbadar
-|solbakke
-|solbatteri
-|solblank
-|solblind
-|solblom
-|solbrend
-|solbrille
-|solbær
-|solcelle
-|soldis
-|soldogg
-|soldyrkar
-|soldyrking
-|soldøger
-|soldøgn
-|solefall
-|soleglad
-|soleie
-|soleklar
-|soleksem
-|solenergi
-|solfaktor
-|solfangar
-|solfaring
-|solfest
-|solfjerne
-|solflekk
-|solformørking
-|solgang
-|solgeisle
-|solglim
-|solglime
-|solgløtt
-|solhall
-|solhatt
-|solhjul
-|solhov
-|solhylle
-|solhøgd
-|solklar
-|solkomme
-|solkors
-|solkrem
-|solkross
-|solkverv
-|sollaus
-|solliv
-|sollys
-|solmei
-|solmerke
-|solmogen
-|solmørke
-|solmørking
-|solnedgang
-|soloppgang
-|solregn
-|solrenning
-|solrev
-|solrik
-|solsegl
-|solsetting
-|solside
-|solskin
-|solskive
-|solskjerm
-|solskugge
-|solsky
-|solslyng
-|solsmak
-|solsnu
-|solsprett
-|solspretting
-|solsteik
-|solstikk
-|solsting
-|solstorm
-|solstreif
-|solstråle
-|solsvidd
-|solsystem
-|soltak
-|soltid
-|soltilbedar
-|soltørk
-|soltørke
-|soltørking
-|solur
-|solvarm
-|solvarme
-|solveg
-|solvende
-|solvendel
-|solvending
-|solvind
-|solår
-|sommarsol
-|vêrsol
-|vintersol
-}}
+{{col4|nn|bisol|det finst ingenting nytt under sola|gluggsol|ikkje la sola gå ned over vreiden sin|kveldssol|medsols|middelsol|midnattsol|morgonsol|motsols|plass i sola|rangsøles|rettsøles|skifte sol og vind|solauge|solbad|solbadar|solbakke|solbatteri|solblank|solblind|solblom|solbrend|solbrille|solbær|solcelle|soldis|soldogg|soldyrkar|soldyrking|soldøger|soldøgn|solefall|soleglad|soleie|soleklar|soleksem|solenergi|solfaktor|solfangar|solfaring|solfest|solfjerne|solflekk|solformørking|solgang|solgeisle|solglim|solglime|solgløtt|solhall|solhatt|solhjul|solhov|solhylle|solhøgd|solklar|solkomme|solkors|solkrem|solkross|solkverv|sollaus|solliv|sollys|solmei|solmerke|solmogen|solmørke|solmørking|solnedgang|soloppgang|solregn|solrenning|solrev|solrik|solsegl|solsetting|solside|solskin|solskive|solskjerm|solskugge|solsky|solslyng|solsmak|solsnu|solsprett|solspretting|solsteik|solstikk|solsting|solstorm|solstreif|solstråle|solsvidd|solsystem|soltak|soltid|soltilbedar|soltørk|soltørke|soltørking|solur|solvarm|solvarme|solveg|solvende|solvendel|solvending|solvind|solår|sommarsol|vêrsol|vintersol}}
 
 =====Related terms=====
 * {{l|nn|helio-}}
 * {{l|nn|solar}}
-* {{l|nn|solarium}}
-* {{l|nn|solsikke}}
+* {{l|nn|solarium|g=n}}
+* {{l|nn|solsikke|g=f}}
 
 ===Etymology 2===
 From {{der|nn|la|solve}}, from the first word of the fifth line of ''[[w:Ut queant laxis|Ut queant laxis]]'', the medieval hymn on which [[solfège]] was based because its lines started on each note of the scale successively. Through {{bor|nn|it|-}}.
 
 ====Alternative forms====
-* {{l|nn|so|id=solfège}} (an open syllable variant)
+* {{l|nn|so|id=solfège}} {{q|open syllable variant}}
 
 ====Pronunciation====
-* {{IPA-lite|nn|/sɔːl/}} {{nn-pronu-note}}
+* {{IPA|nn|/sɔːl/}} {{nn-pronu-note}}
 * {{homophones|nn|sål}}
 
 ====Noun====
 {{nn-noun-m1|sol-}}
 
-# {{senseid|nn|solfège}} {{lb|nn|music}} {{l|en|sol|id=solfège}} (a syllable used in [[solfège]] to represent the fifth note of a [[major scale]])
+# {{senseid|nn|solfège}} {{lb|nn|music}} {{l|en|sol|id=solfège}}, a syllable used in [[solfège]] to represent the second note of a [[major scale]].
 
 =====Coordinate terms=====
-* {{s|scale of solfège}} ''{{l|nn|do|id=solfège}}, {{l|nn|re|id=solfège}}, {{l|nn|mi|id=solfège}}, {{l|nn|fa|id=solfège}}, sol, {{l|nn|la|id=solfège}}, {{l|nn|ti|id=solfège}}, {{l|nn|do|id=solfège}}''
+* {{sense|scale of solfège}} ''{{l|nn|do|id=solfège}}, {{l|nn|re|id=solfège}}, {{l|nn|mi|id=solfège}}, {{l|nn|fa|id=solfège}}, sol, {{l|nn|la|id=solfège}}, {{l|nn|ti|id=solfège}}, {{l|nn|do|id=solfège}}''
 
 ===Etymology 3===
-Shortened form of {{der|nn|la|solūtiō}}.
+Shortened form of {{der|nn|la|solutio}}.
 
 ====Noun====
-{{head-lite|nn|nouns|g=m|langname=Norwegian Nynorsk}}
+{{head|nn|noun|g=m}}
 
 # [[solution]]
 
 =====Derived terms=====
 * {{l|nn|aerosol}}
 
-===Etymology 4===
-From {{bor|nn|es|sol|t=sun}}, from {{der|nn|la|sol|sōl|sun}}, but also from {{der|nn|la|solidus}}. This makes it a {{doublet|nocap=1|nn|sold|sou|solid|solidus}}, as well as Norwegian {{l|nn|sol|g=f|id=sun|t=sun}} (Etymology 1).
-
-====Noun====
-{{nn-noun|m|solen|soles|solane}}
-
-# {{senseid|nn|Peruvian money}} {{l|en|sol}}; the main [[Peru]]vian [[currency]] since 1991
-#* {{quote-journal|nn|date=4 September 2009|newspaper={{w|Dag og Tid}}|page=11|passage=Det representerer investeringar på 4600 millionar '''soles''' [om lag 9 milliardar NOK], presiserer viseministeren.|translation=It represents investments of 4600 million '''sols''' [about 9 billion Norwegian kroner], says the vice minister.}}
-# {{senseid|nn|Peruvian money}} {{lb|nn|historical}} the Peruvian currency between 1863 and 1985
-#* {{quote-book|nn|year=1981|last=Condori Mamani|first=Gregorio|translator=Svanaug Steinnes|title=Indianarliv i Peru|location=Oslo|publisher=Samlaget|page=48|passage=Alt dette kosta åtte '''soles'''.|translation=It cost eight '''sols''' in total.}}
-
-===Etymology 5===
-
-====Noun====
-{{nn-noun-n1}}
-
-# {{alt sp|nocap=1|nn|sòl}}
-
 ===References===
-* {{R:ND}}
-* {{R:NO}}
-* {{R:AASEN}}
+* {{R:The Nynorsk Dictionary}}
 
 ===Anagrams===
 * {{anagrams|nn|a=los|los|lós|lòs|sol|sòl|sol-|Sol|slo}}
 
-{{c|nn|Celestial bodies|Sun|Currencies}}
+{{topics|nn|Celestial bodies|Sun}}
 
 ----
 
 ==Old English==
 
 ===Etymology 1===
-From {{inh|ang|gmw-pro|*sōwul}}, {{m|gmw-pro|*sōwulu}}, from {{inh|ang|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō||sun}}, from {{inh|ang|ine-pro|*sewol-}}, {{m|ine-pro|*sóh₂wl̥}}. Akin to {{cog|gem-pro|*sunnǭ||sun}}, from {{cog|ine-pro|*suwen-||sun}}. Akin to {{cog|non|sól}}, {{cog|got|𐍃𐌰𐌿𐌹𐌻||sun}}, {{cog|ang|sunne}}, {{cog|non|-}}, {{cog|osx|-}} and {{cog|goh|sunna||sun}}.
+From {{inh|ang|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō||sun}}, from {{inh|ang|ine-pro|*sewol-}}, {{m|ine-pro|*sóh₂wl̥}}. Akin to {{cog|gem-pro|*sunnǭ||sun}}, from {{cog|ine-pro|*suwen-||sun}}. Akin to {{cog|non|sól}}, {{cog|got|𐍃𐌰𐌿𐌹𐌻||sun}}, {{cog|ang|sunne}}, {{cog|non|-}}, {{cog|osx|-}} and {{cog|goh|sunna||sun}}.
 
 ====Pronunciation====
 * {{ang-IPA|sōl}}
@@ -1268,15 +979,10 @@ From {{inh|ang|gmw-pro|*sōwul}}, {{m|gmw-pro|*sōwulu}}, from {{inh|ang|gem-pro
 {{ang-decl-noun-a-n|sōl}}
 
 =====Synonyms=====
-{{col4|ang
-|Siġel
-|sunne
-|sweġel
-|sweġl
-}}
+* {{l|ang|siġel}}, {{l|ang|sweġl}}, {{l|ang|sunne}}
 
 ===Etymology 2===
-From {{inh|ang|gmw-pro|*sol}}, from {{inh|ang|gem-pro|*sulą||mud, spot}}, from {{der|ang|ine-pro|*sūl-||thick liquid}}. Cognate with {{cog|goh|sol}}, {{m|goh|gisol||pool of excrement}}, {{cog|dum|sol||puddle, dirt, filth}}. More at {{l|en|soil}}.
+From {{inh|ang|gem-pro|*sulą||mud, spot}}, from {{der|ang|ine-pro|*sūl-||thick liquid}}. Cognate with {{cog|goh|sol}}, {{m|goh|gisol||pool of excrement}}, {{cog|dum|sol||puddle, dirt, filth}}. More at {{l|en|soil}}.
 
 ====Pronunciation====
 * {{ang-IPA|sol}}
@@ -1285,23 +991,17 @@ From {{inh|ang|gmw-pro|*sol}}, from {{inh|ang|gem-pro|*sulą||mud, spot}}, from 
 {{ang-noun|n}}
 
 # [[mud]], wet [[sand]], [[mire]]
-# wallowing-place, [[slough]], miry-place
+# a wallowing-place, [[slough]], miry-place
 
 =====Declension=====
 {{ang-decl-noun-a-n|sol|short=1}}
 
 =====Related terms=====
-{{col5|ang
-|solian
-|solu
-|sylu
-|sylen
-|sylian
-}}
+* {{l|ang|solian}}, {{l|ang|sylian}}
+* {{l|ang|solu}}, {{l|ang|syle}}, {{l|ang|sylen}}
 
 =====Descendants=====
-* {{desc|enm|sol|sole}} {{gl|merged with descendant of {{m+|ang|solu}}}}
-** {{desc|en|soil|soal}}
+* {{desc|en|soil}}, {{l|en|soal}}
 
 ====Adjective====
 {{ang-adj}}
@@ -1311,9 +1011,6 @@ From {{inh|ang|gmw-pro|*sol}}, from {{inh|ang|gem-pro|*sulą||mud, spot}}, from 
 =====Declension=====
 {{ang-adecl|sol}}
 
-=====Descendants=====
-* {{desc|enm|sol|sole}}
-
 {{topics|ang|Celestial bodies}}
 
 ----
@@ -1321,7 +1018,7 @@ From {{inh|ang|gmw-pro|*sol}}, from {{inh|ang|gem-pro|*sulą||mud, spot}}, from 
 ==Old French==
 
 ===Etymology 1===
-From {{inh|fro|la|solus|sōlus, sōla}}.
+From {{inh|fro|la|solus|solus, sola}}.
 
 ====Alternative forms====
 * {{l|fro|seul}}
@@ -1334,7 +1031,7 @@ From {{inh|fro|la|solus|sōlus, sōla}}.
 # [[alone]]
 
 =====Derived terms=====
-* {{l|fro|solement}} {{q|adverb}}
+* {{l|fro|solement}} {{q|adv}}
 
 =====Descendants=====
 * {{desc|en|sole|bor=1}}
@@ -1347,7 +1044,7 @@ From {{der|fro|la|solidus}}.
 ====Noun====
 {{fro-noun|m}}
 
-# [[#English|sol]] (an Old French coin)
+# [[#English|sol]]; Old French coin
 
 =====Descendants=====
 * {{desc|en|sol|bor=1}}
@@ -1365,8 +1062,11 @@ From {{inh|pro|la|sōl}}.
 
 # [[Sun]] (celestial object)
 
-====Related terms====
+====Synonyms====
 * {{l|pro|solelh}}
+
+====Descendants====
+* {{desc|ca|sol}}
 
 ===References===
 * {{R:FEW|120|23|title=sōl}}
@@ -1376,27 +1076,25 @@ From {{inh|pro|la|sōl}}.
 ==Old Portuguese==
 
 ===Pronunciation===
-* {{IPA-lite|roa-opt|/ˈsɔl/}}
+* {{IPA|roa-opt|/ˈsɔl/}}
 
 ===Etymology 1===
 From {{inh|roa-opt|la|sōlus||alone}}.
 
 ====Adverb====
-{{head-lite|roa-opt|adverbs|langname=Old Portuguese}}
+{{head|roa-opt|adverb}}
 
 # [[only]]; [[just]]; no more than
 
 =====Derived terms=====
-{{col2|roa-opt
-|sol non
-|sol que
-}}
+{{der3|roa-opt|sol non
+|sol que}}
 
 =====Related terms=====
 * {{l|roa-opt|soo}}
 
 ===Etymology 2===
-From {{inh|roa-opt|la|sol|sōl, sōlem|sun}}, from {{inh|roa-opt|ine-pro|*sóh₂wl̥||sun}}.
+From {{inh|roa-opt|la|sol|sol, sōlem|sun}}, from {{inh|roa-opt|ine-pro|*sóh₂wl̥||sun}}.
 
 ====Noun====
 {{roa-opt-noun|m}}
@@ -1409,12 +1107,12 @@ From {{inh|roa-opt|la|sol|sōl, sōlem|sun}}, from {{inh|roa-opt|ine-pro|*sóh�
 =====Descendants=====
 * {{desc|fax|sol}}
 * {{desc|gl|sol}}
-* {{desc|pt|Sol}} {{see desc}}
+* {{desc|pt|sol}}
 
 ===Etymology 3===
 
 ====Verb====
-{{head-lite|roa-opt|verb forms|langname=Old Portuguese}}
+{{head|roa-opt|verb form}}
 
 # {{inflection of|roa-opt|soer||3|s|pres|indc}}
 
@@ -1428,7 +1126,7 @@ From {{inh|roa-opt|la|sol|sōl, sōlem|sun}}, from {{inh|roa-opt|ine-pro|*sóh�
 From {{inh|gmq-osw|non|sól}}, from {{inh|gmq-osw|gem-pro|*sōwulō}}.
 
 ===Noun===
-{{head-lite|gmq-osw|nouns|g=f|head=sōl|langname=Old Swedish}}
+{{head|gmq-osw|noun|g=f|head=sōl}}
 
 # [[sun]]
 
@@ -1440,88 +1138,62 @@ From {{inh|gmq-osw|non|sól}}, from {{inh|gmq-osw|gem-pro|*sōwulō}}.
 
 ----
 
-==Piedmontese==
-
-===Etymology===
-From {{inh|pms|la|sōl}}.
-
-===Pronunciation===
-* {{IPA-lite|pms|/sul/}}
-
-===Noun===
-{{head-lite|pms|nouns|g=m|langname=Piedmontese}}
-
-# [[sun]]
-
-----
-
 ==Portuguese==
-{{wp|lang=pt}}
+{{wikipedia|lang=pt}}
 
 ===Pronunciation===
-{{pt-IPA|sól}}
-* {{rhymes|pt|ɔw|ɔl|s=1}}
-* {{homophones|pt|Sol}}
+* {{a|Portugal}} {{IPA|pt|/ˈsɔɫ/}}
+* {{a|Brazil}} {{IPA|pt|/ˈsɔw/|[ˈs̻ɔʊ̯]}}
+** {{a|Caipira}} {{IPA|pt|/ˈsɔɹ/}}
 * {{hyphenation|pt|sol}}
+* {{rhymes|pt|ɔw}}
 
 ===Etymology 1===
-{{inh+|pt|roa-opt|sol}}, from {{inh|pt|la|sōl||sun}}, ultimately from {{inh|pt|ine-pro|*sóh₂wl̥}}.
+From {{inh|pt|roa-opt|sol}}, from {{inh|pt|la|sōl||sun}}, ultimately from {{inh|pt|ine-pro|*sóh₂wl̥}}.
 
 ====Noun====
-{{pt-noun|m}}
+{{pt-noun|m|sóis}}
 
-# [[sun]] (a star, especially when seen as the centre of any single solar system)
-# [[sunshine]] (a location on which the sun's rays fall)
-# {{senseid|pt|weather}} {{lb|pt|uncountable}} [[weather]] (the state of the atmosphere at a specific time and place)
+# [[sun]]
+# [[sunshine]] {{gloss|a location on which the sun's rays fall}}
+# {{senseid|pt|weather}} {{lb|pt|uncountable}} [[weather]] {{gloss|state of the atmosphere at a specific time and place}}
 #: {{ux|pt|O '''sol''' frio de inverno.|Winter's cold '''weather'''.}}
 
-=====Derived terms=====
-* {{l|pt|solzinho|pos=diminutive}}
-* {{l|pt|solinho|pos=diminutive}}
-* {{l|pt|solzão|pos=augmentative}}
-* {{l|pt|solão|pos=augmentative}} {{q|Brazil}}
-
-=====Descendants=====
-* {{desc|pov|sol}}
-* {{desc|kea|sol}}
-* {{desc|pap|sol}}
-
 ===Etymology 2===
-From {{der|pt|la|solve}} in the hymn for [[John the Baptist|St. John the Baptist]].
+From {{der|pt|la|solve}} in the hymn for St. John the Baptist.
 
 ====Noun====
 {{pt-noun|m}}
 
-# {{l|en|sol}} (a musical note)
+# [[#English|sol]] {{qualifier|musical note}}
 
 ===Etymology 3===
-From {{bor|pt|en|sol}}.
+Borrowed from {{bor|pt|en|sol}}.
 
 ====Noun====
 {{pt-noun|m}}
 
-# {{lb|pt|chemistry|physics}} {{l|en|sol}} (a [[colloid]] suspension of a solid in a liquid)
+# {{lb|pt|chemistry|physics}} [[#English|sol]] {{gloss|a [[colloid]] suspension of a solid in a liquid}}
 
 ===Further reading===
-* {{R:pt:DAN}}
+* {{R:DAN}}
+
+{{cln|pt|terms with multiple etymologies}}
 
 ----
 
 ==Romanian==
 
 ===Etymology 1===
-From {{bor|ro|la|solum||base, bottom; soil}}, {{bor|ro|fr|sol}}.
+Borrowed from {{bor|ro|la|solum||base, bottom; soil}}, {{bor|ro|fr|sol}}.
 
 ====Noun====
 {{ro-noun|n|soluri}}
 
 # The [[lowest]] part of something; [[bottom]], [[ground]], [[base]], [[foundation]], [[bed]].
 # The [[floor]] or [[pavement]] of a [[room]].
-# [[ground]], [[earth]], [[land]], [[soil]]
+# [[ground|Ground]], [[earth]], [[land]], [[soil]].
 # {{lb|ro|gymnastics}} An [[event]] performed on a floor-like carpeted surface.
-
-=====Declension=====
-{{ro-noun-n-uri}}
 
 ===Etymology 2===
 From {{der|ro|sla-pro|*sъlъ}}, compare {{cog|sl|sel}}.
@@ -1535,21 +1207,18 @@ From {{der|ro|sla-pro|*sъlъ}}, compare {{cog|sl|sel}}.
 =====Declension=====
 {{ro-noun-m}}
 
-===Further reading===
-* {{R:DEX}}
-
 ----
 
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{s|Bosnian, Serbian}} {{l|sh|sȏ}}
+* {{sense|Bosnian, Serbian}} {{l|sh|sȏ}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*solь}}, from {{der|sh|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare [[Solyanka]].
+From {{inh|sh|sla-pro|*solь}}, from {{der|sh|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Solyanka.
 
 ===Pronunciation===
-* {{IPA-lite|sh|/sôːl/}}
+* {{IPA|sh|/sôːl/}}
 
 ===Noun===
 {{sh-noun|g=f|head=sȏl}}
@@ -1570,7 +1239,7 @@ From {{inh|sh|sla-pro|*solь}}, from {{der|sh|ine-pro|*seh₂l-|*séh₂l-}}, {{
 ----
 
 ==Slovene==
-{{wp|lang=sl}}
+{{wikipedia|lang=sl}}
 
 ===Etymology===
 From {{inh|sl|sla-pro|*solь}}, from {{der|sl|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}.
@@ -1581,7 +1250,7 @@ From {{inh|sl|sla-pro|*solь}}, from {{der|sl|ine-pro|*seh₂l-|*séh₂l-}}, {{
 ===Noun===
 {{sl-noun|sọ̑ł|f}}
 
-# [[salt]] (a common substance)
+# [[salt]] (common substance)
 
 ====Inflection====
 {{sl-decl-noun-f-i-mobile|sól}}
@@ -1594,7 +1263,7 @@ From {{inh|sl|sla-pro|*solь}}, from {{der|sl|ine-pro|*seh₂l-|*séh₂l-}}, {{
 ==Spanish==
 
 ===Pronunciation===
-{{es-pr|+<audio:LL-Q1321 (spa)-Rodelar-sol.wav;Audio (Spain)><audio:LL-Q1321 (spa)-Guergana-sol.wav;Audio (Germany)>}}
+{{es-IPA}}
 
 ===Etymology 1===
 From {{inh|es|la|sōl||sun}}, ultimately from {{inh|es|ine-pro|*sóh₂wl̥}}. The Peruvian currency makes reference to the meaning "sun", but is a shortening from {{der|es|la|solidus}}.
@@ -1604,15 +1273,15 @@ From {{inh|es|la|sōl||sun}}, ultimately from {{inh|es|ine-pro|*sóh₂wl̥}}. T
 
 # [[sun]]
 # [[sunlight]]
-# [[sunny]] [[side]] (of a place)
-#: {{uxi|es|quítate del '''sol'''|translation=get out of the '''sun'''}}
+# [[sunny]] [[side]] {{qualifier|of a place}}
+#: {{ux|es|quítate del '''sol'''|translation=go away from sunny side}}
 #: {{ant|es|sombra}}
-# [[daylight]] (the time between [[sunrise]] and [[sunset]])
+# [[daylight]] {{gloss|time between sunrise and sunset}}
 #: {{ant|es|noche}}
-# [[#English|sol]] (a unit of currency, currently used in Peru)
+# [[#English|sol]] {{gloss|a unit of currency, currently used in Peru}}
 
 =====Derived terms=====
-{{col4|es
+{{der3|es
 |anteojos de sol
 |asolar
 |asolear
@@ -1622,18 +1291,15 @@ From {{inh|es|la|sōl||sun}}, ultimately from {{inh|es|ine-pro|*sóh₂wl̥}}. T
 |hacer brindis al sol
 |parasol
 |puesta de sol
+|rayo de sol
 |reloj de sol
-|rocío del sol
 |sacar los trapitos al sol
 |salga el sol por Antequera
 |salga el sol por donde quiera
-|ser un sol
 |solana
 |soleado
 |sol de justicia
 |sol y sombra
-|tendido de sol
-|tomar el sol
 }}
 
 =====Related terms=====
@@ -1641,29 +1307,26 @@ From {{inh|es|la|sōl||sun}}, ultimately from {{inh|es|ine-pro|*sóh₂wl̥}}. T
 * {{l|es|solárium}}
 
 ===Etymology 2===
-From {{der|es|la|solve}} in the hymn for [[John the Baptist|St. John the Baptist]].
+From {{der|es|la|solve}} in the hymn for St. John the Baptist.
 
 ====Noun====
 {{es-noun|m|-}}
 
-# [[#English|sol]] (a musical note)
+# [[#English|sol]] {{qualifier|musical note}}
 
 ===Etymology 3===
-From {{bor|es|en|sol}}.
+Borrowed from {{bor|es|en|sol}}.
 
 ====Noun====
 {{es-noun|m}}
 
-# {{lb|es|chemistry}} [[#English|sol]] (a [[colloid]] suspension of a solid in a liquid)
+# {{lb|es|chemistry}} [[#English|sol]] {{gloss|a [[colloid]] suspension of a solid in a liquid}}
 
 ===Further reading===
-* {{R:es:DRAE}}
+* {{R:DRAE}}
 
-===Anagrams===
-* {{anagrams|es|a=los|los}}
-
-{{C|es|Currency}}
 {{cln|es|three-letter words}}
+{{C|es|Currency}}
 
 ----
 
@@ -1673,34 +1336,31 @@ From {{bor|es|en|sol}}.
 From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pro|*sōwulō}}, from {{inh|sv|ine-pro|*sóh₂wl̥}}.
 
 ===Pronunciation===
-* {{IPA-lite|sv|/suːl/}}
+* {{IPA|sv|/suːl/}}
 * {{audio|sv|Sv-sol.ogg|audio}}
 
 ===Noun===
 {{sv-noun|c}}
 
 # [[sun]]
-# {{s|by extension}} A [[star]], especially when one considers things in its surroundings.
+# {{qualifier|by extension}} a [[star]], especially when one considers things in its surroundings.
 
 ====Declension====
 {{sv-infl-noun-c-ar}}
 
 ====Derived terms====
-{{col4-u|sv
-|aftonsol
-|bisol
+{{der3|sv|aftonsol
 |höstsol
 |kvällssol
 |middsagssol
-|midnattssol<t:midnight sun>
 |morgonsol
-|sola<t:to sunbathe>
+|{{l|sv|sola||to sunbathe}}
 |solarisk
-|solarium<t:solarium>
+|{{l|sv|solarium||solarium}}
 |solarplexus
 |solbad
 |solbada
-|solbadare<t:sunbather>
+|{{l|sv|solbadare||sunbather}}
 |solbadd
 |solbana
 |solbatteri
@@ -1714,8 +1374,8 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solbrillor
 |solbrynt
 |solbränd
-|solbränna<t:sunburn, suntan>
-|solcell<t:solar cell>
+|{{l|sv|solbränna||sunburn, suntan}}
+|{{l|sv|solcell||solar cell}}
 |solchans
 |solcykel
 |soldag
@@ -1730,16 +1390,16 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |soleksem
 |solenergi
 |solfattig
-|solfjäder<t:fan>
+|{{l|sv|solfjäder||fan}}
 |solflimmer
 |solfläck
 |solflöde
-|solfångare<t:solar thermal collector>
-|solförmörkelse<t:solar eclipse>
+|{{l|sv|solfångare||solar thermal collector}}
+|{{l|sv|solförmörkelse||solar eclipse}}
 |solgass
 |solgassig
 |solgata
-|solglasögon<t:sunglasses>
+|{{l|sv|solglasögon||sunglasses}}
 |solglimt
 |solglitter
 |solglänsande
@@ -1752,7 +1412,7 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solhjul
 |solhjälm
 |solhöjd
-|solig<t:sunny>
+|{{l|sv|solig||sunny}}
 |solinstrålning
 |solkanon
 |solkatt
@@ -1763,11 +1423,11 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solkult
 |solkurva
 |solliv
-|solljus<t:sunlight; sun>
+|{{l|sv|solljus||sunlight; sun}}
 |sollös
 |solmogen
 |solmättad
-|solnedgång<t:sunset>
+|{{l|sv|solnedgång||sunset}}
 |solning
 |sol och vår
 |solochvåra
@@ -1781,7 +1441,7 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solparasoll
 |solreflex
 |solregn
-|solros<t:sunflower>
+|{{l|sv|solros||sunflower}}
 |solrök
 |solsemester
 |solsida
@@ -1795,10 +1455,10 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solsting
 |solstol
 |solstrimma
-|solstråle<t:ray of sunlight>
+|{{l|sv|solstråle||ray of sunlight}}
 |solstrålning
 |solstånd
-|solsystem<t:solar system>
+|{{l|sv|solsystem||solar system}}
 |solsäng
 |soltak
 |soltempel
@@ -1809,13 +1469,13 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |soltorkning
 |soltält
 |soltörstande
-|soluppgång<t:sunrise>
+|{{l|sv|soluppgång||sunrise}}
 |solur
 |solvarg
 |solvarm
 |solvarv
 |solventil
-|solvind<t:solar wind>
+|{{l|sv|solvind||solar wind}}
 |solvisare
 |solvända
 |solvärmd
@@ -1824,8 +1484,7 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 |solöga
 |sommarsolstånd
 |vädersol
-|vintersolstånd
-}}
+|vintersolstånd}}
 
 ===References===
 * {{R:svenska.se|saol}}
@@ -1842,7 +1501,7 @@ From {{inh|sv|gmq-osw|sol|sōl}}, from {{inh|sv|non|sól}}, from {{inh|sv|gem-pr
 From {{der|tpi|en|shoulder}}.
 
 ====Noun====
-{{head-lite|tpi|nouns|langname=Tok Pisin}}
+{{head|tpi|noun}}
 
 # {{lb|tpi|anatomy}} [[shoulder]]
 
@@ -1850,26 +1509,22 @@ From {{der|tpi|en|shoulder}}.
 From {{der|tpi|en|salt}}.
 
 ====Noun====
-{{head-lite|tpi|nouns|langname=Tok Pisin}}
+{{head|tpi|noun}}
 
 # [[salt]]
 
 =====Derived terms=====
-{{col3|tpi
-|{{l|tpi|solwara||sea, ocean; saltwater, brine}}
-}}
+{{der3|tpi|{{l|tpi|solwara||sea, ocean; saltwater, brine}}}}
 
 ----
 
 ==Turkish==
 
 ===Etymology 1===
-From {{inh|tr|ota|صول|tr=sol|t=left}}, from {{inh|tr|trk-pro|*sōl}}.
+From {{der|tr|otk|sol}}, from {{inh|tr|trk-pro|*sōl}}.
 
-====Pronunciation====
-* {{IPA-lite|tr|[soɫ]}}
-* {{hyphenation|tr|sol}}
-* {{audio|tr|96-sol.wav|Audio}}
+===Pronunciation===
+* {{IPA|tr|[sɔɫ]}}
 
 ====Noun====
 {{tr-noun|u|sollar}}
@@ -1882,20 +1537,18 @@ From {{inh|tr|ota|صول|tr=sol|t=left}}, from {{inh|tr|trk-pro|*sōl}}.
 ===Etymology 2===
 
 ====Verb====
-{{head-lite|tr|verb forms|langname=Turkish}}
+{{head|tr|verb form}}
 
-# {{tr-verb form of|solmak}}
+# {{inflection of|tr|solmak||2|s|imp}}
 
 ===Etymology 3===
 From {{bor|tr|fr|sol}}.
 
-====Pronunciation====
-* {{IPA-lite|tr|[sol]}}
+===Pronunciation===
+* {{IPA|tr|[sɔlʲ]}}
 
-====Noun====
-{{tr-noun|ü|ler}}
-
-{{head-lite|tr|nouns|langname=Turkish}}
+===Noun===
+{{head|tr|noun}}
 
 # {{lb|tr|music}} [[#English|sol]]
 
@@ -1907,7 +1560,7 @@ From {{bor|tr|fr|sol}}.
 From {{inh|vep|fiu-fin-pro|*soola}}.
 
 ===Noun===
-{{head-lite|vep|nouns|langname=Veps}}
+{{head|vep|noun}}
 
 # [[salt]]
 
@@ -1933,15 +1586,15 @@ From {{inh|vep|fiu-fin-pro|*soola}}.
 From {{inh|gmq-bot|non|sól||sun,}} from {{inh|gmq-bot|gem-pro|*sōwulą}}, {{m|gem-pro|*sōwulō}}, from {{inh|gmq-bot|ine-pro|*sóh₂wl̥}}.
 
 ===Pronunciation===
-* {{IPA-lite|gmq-bot|/ˈs(o)uːɽ/}}
+* {{IPA|gmq-bot|/ˈs(o)uːɽ/}}
 *: {{rhymes|gmq-bot|úːɽ}}
-* {{a|definite}} {{IPA-lite|gmq-bot|/ˈs(o)uːɽɐ/}}
+* {{a|definite}} {{IPA|gmq-bot|/ˈs(o)uːɽɐ/}}
 *: {{rhymes|gmq-bot|úːɽɐ}}
-* {{a|dative}} {{IPA-lite|gmq-bot|/ˈs(o)uːɳ/}}
+* {{a|dative}} {{IPA|gmq-bot|/ˈs(o)uːɳ/}}
 *: {{rhymes|gmq-bot|úːɳ}}
 
 ===Noun===
-{{head-lite|gmq-bot|nouns|g=f|definite|sola|dative|soln|langname=Westrobothnian}}
+{{head|gmq-bot|noun|g=f|definite|sola|dative|soln}}
 
 # {{lb|gmq-bot|Sun}} The [[Sun]].
 
