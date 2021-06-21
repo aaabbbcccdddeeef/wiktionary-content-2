@@ -29,18 +29,60 @@
 {{ja-readings
 |goon=え<ゑ
 |kanon=かい<くわい
-|kun=ふつころ-, ふところ-, ほほ-, いだ-く, うだ-, むだ-く, なつ-く, なず-く, なつけ-, なつ-け, なつ-ける, なず-ける, なつ-かし.い, なつ-かしむ, なつ-こい, おも-う
+|kun=ふところ-, ほほ-, いだ-く, うだ-, むだ-く, なつ-く, なず-く, なつけ-, なつ-け, なつ-ける, なず-ける, なつ-かし.い, なつ-かしむ, なつ-こい, おも-う
 |nanori=かね
 }}
 
 ===Etymology 1===
-Derivation unknown. May be alteration of ''futokoro'', or ''futokoro'' may be alteration of ''futsukuro''.
+{{ja-kanjitab|yomi=k|ふところ}}
+
+From {{inh|ja|ojp|sort=ふところ|-}}.  First cited to the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+Ultimate derivation unknown. May be alteration of {{cog|ojp|-}} ''putukuro'' or ''putukuru''.<!-- Do we have ''man'yōgana'' spellings for these, and thus also the 甲・乙 vowels? -->
 
 ====Pronunciation====
-* {{ja-pron|ふつくろ}}
+{{ja-pron|ふところ|acc=0|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|ふつくろ}}
+{{ja-noun|ふところ}}
+
+# {{defdate|from 720}} a [[breast]] [[pocket]], particularly the [[pocket]]-like [[space]] within the front of a [[着物#Japanese|''kimono'']] above the [[帯#Japanese|''obi'']]
+#: {{synonyms|ja|懐中|tr1=kaichū|q1=also refers to the contents}}
+# {{defdate|from early 1000s}} a [[surrounded]] place, such as [[deep]] in the [[mountain]]s
+# {{defdate|from late 1600s}} {{lb|ja|sort=ふところ|metaphor}} the [[bosom]], the [[breast]]
+# {{defdate|from late 1600s}} one's [[mind]]
+# {{defdate|from late 1800s}} one's [[purse]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ほほ:archaic}}
+
+{{unk|ja|sort=ほほ}}.  Speculatively, might be cognate with {{m|ja|頬|tr=hoho||cheek(s)}}, from the idea of an expandable pouch-like area.
+
+First cited to a text from the 1620s.<ref name="KDJ2"/>
+
+====Pronunciation====
+{{ja-pron|ほほ}}
+
+====Noun====
+{{ja-noun|ほほ}}
+
+# {{defdate|1620s—???}} {{lb|ja|sort=ほほ|archaic|possibly|_|obsolete}} a [[breast]] [[pocket]], particularly the [[pocket]]-like [[space]] within the front of a [[着物#Japanese|''kimono'']] above the [[帯#Japanese|''obi'']]
+#: {{synonyms|ja|懐|tr1=futokoro|q1=modern term|懐中|tr2=kaichū|q2=also refers to the contents}}
+
+===References===
+<references/>
+
+----
+
+==Old Japanese==
+
+===Etymology===
+Derivation unknown. May be alteration of ''futokoro'', or ''futokoro'' may be an alteration of ''futsukoro''.
+
+Traditionally cited with this reading in the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+====Noun====
+{{head|ojp|noun|tr=*putukoro<sub>2</sub>|kana|ふつころ}}<!-- Unsure of the 甲・乙 value for ''ko'', haven't found that one in man'yōgana yet -->
 
 # the [[bosom]], the [[breast]]
 # a [[breast]] [[pocket]], particularly the [[pocket]]-like [[space]] within the front of a [[着物#Japanese|kimono]] above the [[帯#Japanese|obi]]
@@ -50,20 +92,6 @@ Derivation unknown. May be alteration of ''futokoro'', or ''futokoro'' may be al
 # one's [[purse]]
 # one's [[mind]]
 
-===Etymology 2===
-Derivation unknown. May be alteration of ''futsukuru'' (布都久留 in 日本書紀), ''futsukuro'' (布都久呂) or ''futokoro''.
-
-====Pronunciation====
-* {{ja-pron|ふところ}}
-
-====Noun====
-{{ja-noun|ふところ}}
-
-# the [[bosom]], the [[breast]]
-# a [[breast]] [[pocket]], particularly the [[pocket]]-like [[space]] within the front of a [[着物#Japanese|kimono]] above the [[帯#Japanese|obi]]
-# a [[surrounded]] place, such as [[deep]] in the [[mountain]]s
-# one's [[purse]]
-# one's [[mind]]
-
 ===References===
-* {{Shin'yaku Kegonkyō Ongi Shiki}}
+<references/>
+:* {{Shin'yaku Kegonkyō Ongi Shiki}}
