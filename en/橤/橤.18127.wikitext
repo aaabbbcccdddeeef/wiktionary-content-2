@@ -4,35 +4,36 @@
 ===Han character===
 {{Han char|rn=75|rad=木|as=12|sn=16|four=33904|canj=PPPD|ids=⿱惢木}}
 
-# [[stamen]]
-
-====References====
+===Further reading===
 {{Han ref|kx=0554.150|dkj=15569|dj=0943.060|hdz=21296.090|uh=6A64}}
 
 ----
 
 ==Chinese==
-{{zh-forms}}
+
+===Glyph origin===
+{{Han compound|惢|木|c1=p|c2=s|ls=psc|t2=tree}}.
 
 ===Etymology 1===
+{{zh-forms|alt=𣛚,𦁞}}
 
 ====Pronunciation====
 {{zh-pron
 |m=ruǐ
 |c=jeoi5
-|mc=
-|oc=
+|mc=y
+|oc=y
 |ma=
 |cat=v
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # to [[hang]] [[down]]; to [[droop]]
 
 ===Etymology 2===
-{{zh-see|蕊|v}}
+{{zh-see|蕊|a}}
 
 ----
 
@@ -45,15 +46,30 @@
 
 ====Readings====
 {{ja-readings
-|on=ずい, に
-|kun=たれる
+|on=ずい,に
+|kun=た-れる
 }}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|꽃술|예}}
+
+# {{rfdef|ko|sort=木12}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/87395ea621324653a1ebcc239aa45fbc Naver Hanja Dictionary: 橤]
 
 ----
 
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=木12|reading=[[nhuỵ]], [[nhị]]}}
+{{vi-readings|hanviet=nhuỵ,nhị|nom=nhuỵ,nhị|rs=木12}}
 
 # {{rfdef|vi|sort=木12}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6A64 Nom Foundation]
