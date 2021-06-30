@@ -5,10 +5,8 @@
 ===Han character===
 {{Han char|rn=46|rad=山|as=11|sn=14|four=25744|canj=ULLV|ids=⿰山婁}}
 
-# Goulou ([[岣嶁]]), a [[mountain]] [[peak]] in [[Hunan]] [[province]]
-
-====References====
-* {{Han ref|kx=0318.250|dkj=08408|dj=0618.370|hdz=10794.010|uh=5D81|ud=23937|bh=E1A8|bd=57768}}
+===Further reading===
+{{Han ref|kx=0318.250|dkj=08408|dj=0618.370|hdz=10794.010|uh=5D81|bh=E1A8|bd=57768}}
 
 ----
 
@@ -17,6 +15,7 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|山|婁|c1=s|c2=p|ls=psc|t1=mountain}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -24,13 +23,13 @@
 |c=lau5
 |mc=y
 |oc=y
-|cat=
+|cat=pn
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# {{zh-only|岣嶁}}
 
 ====Compounds====
 {{zh-der|岣嶁|岣嶁碑}}
@@ -48,13 +47,19 @@
 # {{rfdef|ja|sort=山11}}
 
 ====Readings====
-* {{ja-readings|on=る,ろう|kun=いただき}}
+{{ja-readings
+|on=る,ろう
+|kun=いただ-き
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=루|rv=ru|mr=ru}}
+{{ko-hanja|봉우리|루||누}}
 
 # {{rfdef|ko|sort=山11}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/18bac26ede5c44dfa8f56c57fb463a84 Naver Hanja Dictionary: 嶁]
