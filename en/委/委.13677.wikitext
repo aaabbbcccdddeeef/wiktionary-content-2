@@ -119,23 +119,60 @@ From {{der|ja|ltc|sort=い|-}} {{ltc-l|委}}.
 
 ==Korean==
 
+===Etymology===
+From {{der|ko|ltc|sort=위|-}} {{ltc-l|委|id=2}}.
+{{hanja-ety
+|dk={{okm-l|ᅙᅱᆼ〯|qwǔy|link=no}}
+|m2={{okm-l|위|wuy}}
+|m2h={{okm-l|[[ᄇᆞ리다|ᄇᆞ릴]]|polil}}
+|m3={{okm-l|위|wuy}}
+|m3h={{okm-l|[[맛디다|맛딜]]|mastil}}<br>{{okm-l|[[더디다|더뎌]][[두다|둘]]|tetye-twul}}
+|m4={{okm-l|위|wuy}}
+|m4h={{okm-l|[[ᄇᆞ리다|ᄇᆞ릴]]|polil}}
+}}
+===Pronunciation===
+{{ko-hanja-pron|위}}
+
 ===Hanja===
-{{ko-hanja|hangeul=[[위]]|rv=wi|mr=wi|y=wi}}
+{{ko-hanja-search}}
+{{ko-hanja|맡기다|맡길|위}}
 
-# put in charge of, commission
+# {{hanja form of|[[위#commission|위]]|to [[entrust]]; to [[commission]]|verbal root; affix}}
+# {{hanja form of|[[위#commission|위]]|short for {{m|ko|위원회(委員會)|t=committee}}|suffix}}
 
-====Compounds====
-{{top2}}
-*[[委官]]([[위관]], )
-*[[委員]]([[위원]], wiwon)
-*[[委任]]([[위임]], )
-*[[委囑]]([[위촉]], )
-{{mid2}}
-*[[委託]]([[위탁]],
-*[[對策委]]([[대책위]], )
-*[[全委]]([[전위]], )
-*[[特委]]([[특위]], )
-{{bottom}}
+====Usage notes====
+* {{sense|committee}} A common convention in news headlines, this is almost always written solely in the ''[[hanja]]'' form, even in contemporary Korean text otherwise devoid of any ''[[hanja]]''.
+
+===Compounds===
+{{der-top3|Compounds}}
+* {{ko-l|위관|委官}}
+* {{ko-l|위신|委身}}
+* {{ko-l|위양|委讓}}
+* {{ko-l|위원|委員}}
+* {{ko-l|위위|委委}}
+* {{ko-l|위임|委任}}
+* {{ko-l|위정|委政}}
+* {{ko-l|위촉|委囑}}
+* {{ko-l|위탁|委託}}
+* {{ko-l|공위|共委}}
+* {{ko-l|상위|常委}}
+* {{ko-l|신위|信委}}
+* {{ko-l|전위|全委}}
+* {{ko-l|지위|知委}}
+* {{ko-l|특위|特委}}
+* {{ko-l|위원장|委員長}}
+* {{ko-l|위원회|委員會}}
+* {{ko-l|위임인|委任人}}
+* {{ko-l|위임자|委任者}}
+* {{ko-l|위임장|委任狀}}
+* {{ko-l|공정위|公正委}}
+* {{ko-l|대책위|對策委}}
+* {{ko-l|방송위|放送委}}
+* {{ko-l|부방위|腐防委}}
+* {{ko-l|선관위|選管委}}
+* {{ko-l|위임통치|委任統治}}
+* {{ko-l|반민특위|反民特委}}
+{{der-bottom}}
 
 ----
 
