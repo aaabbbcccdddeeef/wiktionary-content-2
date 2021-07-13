@@ -84,31 +84,28 @@
 |goon=こ
 |kanon=き
 |kun=もと-, もとい-, もと-づく
-|nanori=のり, はじむ, はじめ, もと, もとい
+|nanori=のり, はじむ, はじめ
 }}
 
 ====Compounds====
-{{top4}}
-* {{ja-r|基%因|き%いん}}
-* {{ja-r|基%幹|き%かん}}
-* {{ja-r|基%金|き%きん}}
-* {{ja-r|基%準|き%じゅん}}
-{{mid4}}
-* {{ja-r|基%数|き%すう}}
-* {{ja-r|基%線|き%せん}}
-* {{ja-r|基%礎|き%そ}}
-* {{ja-r|基%地|き%ち}}
-{{mid4}}
-* {{ja-r|基%調|き%ちょう}}
-* {{ja-r|基%底|き%てい}}
-* {{ja-r|基%点|き%てん}}
-* {{ja-r|基%盤|き%ばん}}
-{{mid4}}
-* {{ja-r|基%本|き%ほん}}
-* {{ja-r|基%本%給|き%ほん%きゅう}}
-* {{ja-r|基%本 単%位|き%ほん たん%い}}
-* {{ja-r|基%本%的 人%権|き%ほん%てき じん%けん}}
-{{bottom}}
+{{col4|ja
+|{{ja-r|基%因|き%いん}}
+|{{ja-r|基%幹|き%かん}}
+|{{ja-r|基%金|き%きん}}
+|{{ja-r|基%準|き%じゅん}}
+|{{ja-r|基%数|き%すう}}
+|{{ja-r|基%線|き%せん}}
+|{{ja-r|基%礎|き%そ}}
+|{{ja-r|基%地|き%ち}}
+|{{ja-r|基%調|き%ちょう}}
+|{{ja-r|基%底|き%てい}}
+|{{ja-r|基%点|き%てん}}
+|{{ja-r|基%盤|き%ばん}}
+|{{ja-r|基%本|き%ほん}}
+|{{ja-r|基%本%給|き%ほん%きゅう}}
+|{{ja-r|基%本 単%位|き%ほん たん%い}}
+|{{ja-r|基%本%的 人%権|き%ほん%てき じん%けん}}
+|sort=0}}
 
 ====References====
 * {{S-JIS|8AEE}}
@@ -120,8 +117,10 @@
 ====Proper noun====
 {{ja-pos|proper|もとい}}
 
-# {{given name|ja|male}}
+# {{given name|ja|male|sort=もとい}}
 # {{surname|ja}}
+
+[[Category:Japanese surnames|もとい]]
 
 ===Etymology 2===
 
@@ -138,15 +137,14 @@
 {{ja-pos|affix|き}}
 
 # [[foundation]]; [[base]]; [[basis]]
+# {{lbl|ja|chemistry}} a [[group]]; a [[radical]]
+#: {{ux|ja|アミノ'''基'''|an amino '''group'''|tr=aminoki|inline=1}}
 
 ====Counter====
 {{ja-pos|counter|き}}
 
 # counter for grounded things (e.g. [[pyramid]]s, electric power plants, wells, [[toro]] (Japanese traditional lantern), [[tomb]]s)
-# counter for wooden grave tablet ({{ja-r|卒塔婆|そとば}})
-
-[[Category:Japanese male given names|もとい]]
-[[Category:Japanese surnames|もとい]]
+# counter for wooden grave tablets ({{m|ja|卒塔婆|tr=sotoba}})
 
 ----
 
