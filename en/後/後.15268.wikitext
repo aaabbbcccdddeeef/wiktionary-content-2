@@ -95,15 +95,15 @@ Meixian: hêu1 - vernacular; hêu4 - literary
 {{ja-readings
 |goon=ぐ
 |kanon=こう
-|kanyoon=ご
-|kun=あと-, うし-ろ, おく-れ, おく-れる, しり-, しり-え, のち-, ゆり-
+|toon=ご
+|kun=のち-, うし-ろ, あと-, おく-れる, しり-, しり-え, ゆり-
 |nanori=こし, し, しい
 }}
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|後戯|こうぎ}}: [[afterplay]]
-* {{ja-r|午後|ごご}} [[afternoon]]
+* {{ja-r|後戯|こうぎ|"[[afterplay]]"}}
+* {{ja-r|午後|ごご|"[[afternoon]]"}}
 {{der-bottom}}
 
 ===Etymology 1===
@@ -219,7 +219,7 @@ From {{inh|ja|ojp|sort=ゆり}}.  Ultimate derivation {{unk|ja|sort=ゆり|nocap
 # {{lb|ja|sort=ゆり|obsolete}} [[later]], [[afterwards]], some [[time]] [[after]] the [[present]]
 
 ===Etymology 8===
-{{ja-kanjitab|yomi=o|ご}}
+{{ja-kanjitab|yomi=toon|ご|alt=后}}
 
 From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX, ɦəuH||after}}.  Classified as the ''[[唐音#Japanese|tōon]]'' or "Tang sound", so likely borrowed from the dialects spoken during the {{w|Tang dynasty}}.
 
@@ -237,7 +237,7 @@ From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX, ɦəuH||after}}.  Classi
 # [[after]]
 
 ===Etymology 9===
-{{ja-kanjitab|yomi=o|こう}}
+{{ja-kanjitab|yomi=kanon|こう}}
 From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX||after}}.  Classified as the ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.  Compare modern {{cog|cmn|-}} reading ''hòu''.
 
 ====Pronunciation====
