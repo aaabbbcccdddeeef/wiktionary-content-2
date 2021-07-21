@@ -96,7 +96,7 @@ Meixian: hêu1 - vernacular; hêu4 - literary
 |goon=ぐ
 |kanon=こう
 |toon=ご
-|kun=のち-, うし-ろ, あと-, おく-れる, しり-, しり-え, ゆり-
+|kun=あと-, うし-ろ, おくれ-, おく-れ, おく-れる, しり-, しり-え, のち-, ゆり-
 |nanori=こし, し, しい
 }}
 
@@ -112,7 +112,7 @@ Meixian: hêu1 - vernacular; hêu4 - literary
 Originally an extension of {{m|ja|跡|tr=ato||footprint; leftover}}, itself a compound of {{compound|ja|sort=あと|足|tr1=a|t1=foot|所|tr2=to|t2=place}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|あと|acc=1|acc_ref=DJR,SMK5}}
+{{ja-pron|あと|acc=1|acc_ref=DJR,SMK5}}
 
 ====Noun====
 {{ja-noun|あと}}
@@ -128,7 +128,7 @@ Originally an extension of {{m|ja|跡|tr=ato||footprint; leftover}}, itself a co
 Probably from {{inh|ja|ojp|sort=うしろ}}.  Usage examples appear in texts from at least the 900s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Ultimate derivation {{unk|ja|sort=うしろ|nocap=1}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|うしろ|acc=0|acc_ref=DJR,SMK5}}
+{{ja-pron|うしろ|acc=0|acc_ref=DJR,SMK5}}
 
 ====Alternative forms====
 * {{ja-l|後ろ}} {{qualifier|more common}}
@@ -144,45 +144,25 @@ Probably from {{inh|ja|ojp|sort=うしろ}}.  Usage examples appear in texts fro
 
 The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|遅れる|tr=okureru||to be late; to be delayed; to come after something else}}.  Examples appear from at least the 1300s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
-====Pronunciation====
-{{ja-pron|yomi=k|おくれ|acc=0|acc_ref=DJR,SMK5}}
-
-====Alternative forms====
-* {{ja-l|後れ}}, {{ja-l|遅れ}} {{qualifier|more common}}
-
-====Noun====
-{{ja-noun|おくれ}}
-
-# something [[later]], [[after]], or [[behind]]
-# [[inferiority]]
-# [[uncertainty]], [[nervousness]], [[indecision]]
+More commonly spelled with the [[okurigana]].
+====Definitions====
+{{ja-see|遅れ}}
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=k|しり}}
 
-From {{inh|ja|ojp|sort=しり}}.  Ultimate derivation {{unk|ja|sort=しり|nocap=1}}.
+Uncommon alternative spelling.
 
-====Pronunciation====
-{{ja-pron|yomi=k|しり|acc=2|acc_ref=DJR,SMK5}}
-
-====Alternative forms====
-* {{ja-l|尻}} {{qualifier|much more common}}
-
-====Noun====
-{{ja-noun|しり}}
-
-# {{alternative spelling of|ja|sort=しり|尻}}: [[behind]], [[tail]], [[rump]], [[butt]], [[posterior]]
+====Definitions====
+{{ja-see|尻}}
 
 ===Etymology 5===
-{{ja-kanjitab|yomi=k|しりえ}}
+{{ja-kanjitab|yomi=k|しりえ|alt=後方}}
 
 From {{inh|ja|ojp|sort=しりえ}}.  Compound of {{compound|ja|sort=しりえ|尻|tr1=shiri|t1=butt, tail, rear|方|tr2=e|t2=side, facing, way, direction}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しりえ|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR,SMK5}}
-
-====Alternative forms====
-* {{ja-l|後方}}
+{{ja-pron|しりえ|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR,SMK5}}
 
 ====Noun====
 {{ja-noun|しりえ}}
@@ -211,7 +191,7 @@ From {{inh|ja|ojp|sort=のち}}.  Ultimate derivation {{unk|ja|sort=のち|nocap
 From {{inh|ja|ojp|sort=ゆり}}.  Ultimate derivation {{unk|ja|sort=ゆり|nocap=1}}.  May be cognate with {{m|ja|より|tr=yori||from; after}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ゆり}}
+{{ja-pron|ゆり}}
 
 ====Noun====
 {{ja-noun|ゆり}}
@@ -224,7 +204,7 @@ From {{inh|ja|ojp|sort=ゆり}}.  Ultimate derivation {{unk|ja|sort=ゆり|nocap
 From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX, ɦəuH||after}}.  Classified as the ''[[唐音#Japanese|tōon]]'' or "Tang sound", so likely borrowed from the dialects spoken during the {{w|Tang dynasty}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=toon|ご|acc=0|acc_ref=DJR,SMK5}}
+{{ja-pron|ご|acc=0|acc_ref=DJR,SMK5}}
 
 ====Noun====
 {{ja-noun|ご}}
@@ -238,10 +218,11 @@ From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX, ɦəuH||after}}.  Classi
 
 ===Etymology 9===
 {{ja-kanjitab|yomi=kanon|こう}}
-From {{der|ja|ltc|-|sort=こう}} {{m|zh|後|tr=ɦəuX||after}}.  Classified as the ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.  Compare modern {{cog|cmn|-}} reading ''hòu''.
+
+From {{der|ja|ltc|sort=こう|-}} {{ltc-l|後|tr=ɦəuX||after}}.  Classified as the ''[[漢音#Japanese|kan'on]]'', so likely a later borrowing.  Compare modern {{cog|cmn|-}} reading ''hòu''.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|こう}}
+{{ja-pron|こう}}
 
 ====Prefix====
 {{ja-pos|prefix|こう}}
