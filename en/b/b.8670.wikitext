@@ -453,18 +453,38 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ----
 
 ==Norwegian Bokmål==
+{{wp|lang=nb}}
+[[Image:Latin alphabet Bb.svg|250px|thumb|The uppercase and lowercase form of the letter B.]]
+
+===Alternative forms===
+* {{alter|nb|B}}
+
+===Etymology===
+Modification of the capital letter [[B]] by dropping its upper loop, from {{der|nb|la|B}}, from {{der|nb|ett|𐌁||be}}, from {{der|nb|grc|Β||beta}}, from the {{der|nb|phn|𐤁||[[bet]]}}, from Proto-Canaanite [[Image:Proto-Canaanite_-_bet.png|20px]], from Proto-Sinaitic [[Image:Proto-semiticB-01.svg|20px]], from {{der|nb|egy|𓉐}}, representing the plan of a house.
 
 ===Pronunciation===
 * {{sense|letter name}} {{IPA|nb|/beː/}}
 * {{sense|phoneme}} {{IPA|nb|/b/}}
-* {{audio|nb|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-b.wav|Audio}}
-* {{homophones|nb|be}}
+* {{audio|nb|Nb-be.ogg|Audio}}
+* {{rhymes|nb|beː}}
+* {{hyph|nb|B}}
+* {{homophones|nb|B|be}}
 
 ===Letter===
-{{head|nn|letter|upper case|B|g=m|cat2=nouns|cat3=masculine nouns|definite singular|b-en|indefinite plural|b-er|definite plural|b-ene}}
+{{head|nb|letter|upper case|B}}
 
-# {{Latn-def|no|letter|2}}
-# {{senseid|nb|B-flat}} {{lb|nb|music}} {{l|en|B-flat}}
+# {{Latn-def|nb|letter|2}}
+
+===Noun===
+{{nb-noun-m1|b-}}
+
+# the letter [[#English|b]], the second letter of the [[#English|Norwegian]] alphabet
+# {{lb|nb|music}} the tone h lowered by half a step
+#* {{quote-book|nb|year=1944|author=Børre Qvamme|title=Musikk|page=35–36|passage=enhver tone er mangetydig, fiss er også gess, diss er ess, b er aiss og så videre|t=every tone is ambiguous, fiss is also gess, diss is ace, b is aiss and so on}}
+#* {{quote-book|nb|year=2000|author=Bjørnar Pedersen og Egil Birkeland|title=Hillman Hunter|page=|passage=skotske sekkepiper stemmes i B|t=Scottish bagpipes are tuned in B}}
+# {{lb|nb|music}} a [[#English|B-flat]] {{q|sign indicating that the following note is to be lowered by half a step}}
+#* {{quote-book|nb|year=1974|author={{w|Jens Bjørneboe}}|title=Haiene|page=98|passage=ingen vil påstå at notebladet med nøkler, kryss og b’er er selve musikken|t=no one will claim that the sheet music with keys, crosses and bs is the music itself}}
+# {{lb|nb|physics}} symbol for {{l|nb|bar||bar}}
 
 ----
 
