@@ -1,3 +1,63 @@
+{{also|將}}
+{{character info}}
+{{character info|0x2F873}}
+==Translingual==
+{{stroke order|strokes=9|type=gbw}}
+{{Han simplified forms|將|将|将}}
+
+===Alternative forms===
+* Due to [[w:Han unification|Han unification]]. two different forms exist for this character (<code>U+5C06</code>).
+** In mainland China, the upper right component consists of {{l|mul|夕}}.
+** In Taiwan, Japan, South Korea, the upper right component consists of {{l|mul|爫}}.
+* A [[w:CJK Compatibility Ideographs|compatibility ideograph]] exists at <code>U+2F873</code> for another [[w:Variant Chinese character|variant form]] in Taiwan which consists of {{l|mul|⿴[[𠂊]][[冫]]}} as the upper right component.
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=06|asj=07|sn=9|snj=10|four=|canj=LMNII,YLBDI|ids=⿰丬𪧷(G),⿰丬寽(TJK),⿰丬⿱⿴𠂊冫寸(<code>U+2F873</code>)}}
+
+====Derived characters====
+* {{l|mul|[[𭵲]], [[𮔬]], [[𨪙]], [[奨]], [[醤]]}} {{q|Contains {{l|mul|爫}} as top right component}}
+* {{l|mul|[[𫽣]], [[锵]], [[𬧀]], [[鳉]], [[𡺃]], [[𫦋]], [[𬌒]], [[螀]]}} {{q|Contains {{l|mul|夕}} as top right component}}
+* {{l|mul|蒋}} {{q|Contains {{l|mul|夕}} as top right component in mainland China and {{l|mul|爫}} as top right component in Japan}}
+
+====Related characters====
+* {{l|mul|將}} {{q|[[Traditional Chinese]] and [[kyūjitai]] form}}
+
+===Further reading===
+{{Han ref|kx=0294.111|dkj=07437|hdz=42375.010|uh=5C06}}
+{{Han ref|uh=2F873}}
+
+----
+
+==Chinese==
+
+===Glyph 1===
+{{Han-glyphref|⿰丬𪧷|}}
+{{Han simp|將|f=爿|t=丬}} and removal of dot in top right component to become {{zh-l|夕*}}.
+
+====Definitions====
+{{zh-see|將|sv}}
+
+===Glyph 2===
+{{Han-glyphref|⿰丬寽|}}
+{{Han simp|將|f=爿|t=丬}} and alteration of top right component to become {{zh-l|爫*}}.
+
+====Definitions====
+{{zh-see|將|v}}
+
+===Glyph 3===
+{{Han-glyphref|⿰丬⿱⿴𠂊冫寸|}}
+{{Han simp|將|f=爿|t=丬}}.
+
+====Definitions====
+{{zh-see|將|v}}
+
+===References===
+* {{R:twedu|A01063-005}}
+* {{R:twedu|A01063-001}}
+* {{R:twedu|A01063-002}}
+
+----
+
 ==Japanese==
 {{ja-kanji forms|将|將}}
 
@@ -113,10 +173,7 @@ The “[[take]], [[hold]]” and “[[from now on]]” senses are both used in t
 
 ===Etymology 2===
 {{ja-kanjitab|はた|yomi=k}}
-{{rfe|ja}}
-
-{{rfdef|ja|Bad usage of ja-see: the はた page does not contain a definition associated with this character.}}
-<!-- {{ja-see|はた}} -->
+{{ja-see|はた}}
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=n|すすむ}}
@@ -163,3 +220,32 @@ Nominalization of classical adjective {{m|ja|等し|tr=hitoshi}}, modern {{m|ja|
 {{cln|ja|words with multiple readings}}
 
 ----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|장수|장}}
+
+# {{alternative form of|ko|將|tr={{m|ko|장}}}}
+
+===References===
+* {{R:ko:Inmyeongyonghanjapyo|35}}
+* {{R:zonmal|23558}}
+
+{{categorize|ko|Hanja variant forms|sort=장}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=寸06
+|hanviet=tướng-tdcndg;tdcntd;gdhn, tương-gdhn
+|phienthiet=
+|nom=tướng-tdcndg;tdcntd
+}}
+
+# {{han tu form of|tương|{{alternative form of|vi|將}}}}
+
+===References===
+<references/>
