@@ -10,17 +10,19 @@
 ----
 
 ==Chinese==
+
+===Etymology 1===
 {{zh-forms}}
 {{zh-wp|zh|yue}}
 
-===Glyph origin===
+====Glyph origin====
 {{Han etym}}
 {{Han compound|石|水|t1=stone|t2=water|ls=ic}}.
 
-===Etymology===
+====Etymology====
 Borrowed from {{bor|zh|en|pump}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=bèng
 |c=bam1,bung1
@@ -28,17 +30,35 @@ Borrowed from {{bor|zh|en|pump}}.
 |cat=n,v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[pump]]
 # to [[pump]]
 
-====Synonyms====
+=====Synonyms=====
 * {{s|pump}} {{zh-l|泵浦}}, {{zh-l|幫浦}}, {{zh-l|唧筒}}
 
-===Compounds===
+====Compounds====
 {{zh-der|噴射泵|泵浦|真空泵|油泵|水泵|水錘泵|熱泵|離心泵|奶泵|氣泵|泵把|泵機|泵車|泵房|泵柄|泵站|鈉鉀泵}}
+
+===Etymology 2===
+{{zh-forms|alt=bum}}
+
+====Glyph origin====
+Used phonetically.
+
+====Pronunciation====
+{{zh-pron
+|c=bam6
+|cat=interjection
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|Onomatopoeia for an explosion.}}
+#: {{zh-x|泵{bam6} 一聲 噉 爆炸|to explode with a boom|C}}<!--https://twitter.com/TragedyInChina/status/1421157953256652802-->
 
 ===References===
 * {{R:yue:Hanzi}}
