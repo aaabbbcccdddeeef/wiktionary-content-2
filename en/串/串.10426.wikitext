@@ -135,7 +135,7 @@ From {{ltc-l|串|id=1|[[curry favor]]; [[custom]], [[habit]]}}:
 |kun=な-れる
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|くし|yomi=k}}
 {{wp|lang=ja}}
 {{wp|Skewer}}
@@ -145,10 +145,10 @@ From {{inh|ja|ojp|sort=くし|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  
 
 Cognate with {{m|ja|櫛|tr=kushi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|くし|acc=2|acc_ref=DJR}}
 
-===Noun===
+====Noun====
 {{ja-noun|くし}}
 
 # a [[skewer]], [[spit]]
@@ -160,17 +160,13 @@ Cognate with {{m|ja|櫛|tr=kushi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
 ## {{short for|ja|幕串|tr=makugushi|dot=:}} a [[post]] used to [[hang]] a [[curtain]]
 # a [[candle]]'s [[wick]]
 #: {{syn|ja|芯|tr=shin}}
-# {{lb|ja|slang|computing}} a [[proxy server]]
-#: {{ja-usex|中%国'''串'''|^ちゅう%ごく '''くし'''|a Chinese '''proxy'''}}
-#: {{syn|ja|プロクシ|tr1=purokushi|プロクシサーバー|tr2=purokushi sābā|串鯖|tr3=kushisaba}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top3}}
 * {{ja-r|串%揚げ|くし%あげ}}
 * {{ja-r|串%柿|くし%がき|[[skewer]]ed [[dried]] [[persimmon]]s}}
 * {{ja-r|串カツ|くしカツ}}
 * {{ja-r|串%刺|くし%ざし|rom=-}}, {{ja-r|串%刺し|くし%ざし|[[impalement]]}}
-* {{ja-r|串%鯖|くし%さば}}
 * {{ja-r|串%焼|くし%やき|rom=-}}, {{ja-r|串%焼き|くし%やき}}
 * {{ja-r|金%串|かな%ぐし|[[metal]] spit or skewer}}
 * {{ja-r|牛%串|ぎゅう%くし|skewered [[beef]]}}
@@ -185,10 +181,24 @@ Cognate with {{m|ja|櫛|tr=kushi||[[comb]]}}.<ref>{{R:Daijisen}}</ref>
 * {{ja-r|横%串|よこ%くし}}
 {{der-bottom}}
 
-===Proper noun===
+====Proper noun====
 {{ja-pos|proper|くし}}
 
 # {{surname|ja|A=a|nodot=1|sort=くし}}
+
+===Etymology 2===
+{{ja-kanjitab|くし|yomi=k|ateji=y}}
+{{clipping|ja|プロクシ}}, from {{bor|ja|en|proxy}}. Kanji is an {{ja-ateji}}.
+
+====Noun====
+{{ja-noun|くし}}
+
+# {{lb|ja|slang|computing}} a [[proxy server]]
+#: {{ja-usex|中%国'''串'''|^ちゅう%ごく '''くし'''|a Chinese '''proxy'''}}
+#: {{syn|ja|プロキシ|tr1=purokishi|プロクシ|tr2=purokushi|プロクシサーバー|tr3=purokushi sābā|串鯖|tr4=kushisaba}}
+
+=====Derived terms=====
+* {{ja-r|串%鯖|くし%さば}}
 
 ===References===
 <references/>
