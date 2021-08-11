@@ -21,13 +21,14 @@
 
 ==Japanese==
 
-===Kanji 1===
+===Kanji===
 {{ja-kanji forms|両|兩}}
 {{ja-kanji|grade=3|rs=一05|kyu=兩}}
 
 # [[both]]
 # [[old]] [[Japanese]] [[coin]]
 # [[two]]
+# counter for [[carriage]]s
 
 ====Readings====
 {{ja-readings
@@ -38,24 +39,7 @@
 }}
 
 ====Compounds====
-{{der3|ja|一両|十両|千両|{{ja-l|両々}}, {{ja-l|両両}}|両院|両家|両蓋|両岸|両眼|両義|両脚|両極|両軍|両舷|両虎|両口|両国|両三|両氏|両耳|両社|両者|両手|両種|両親|両人|両刃|両性|両成敗|両棲|両生|両舌|両前|両全|両像|両側|両足|両袖|両損|両替|両端|両断|両天秤|両度|両党|両刀|両頭|両得|両凸|進退両難|両日|硬軟両派|{{ja-l|両肌}}, {{ja-l|両膚}}|両膝|両肘|両部神道|両分|両陛下|両便|両名|両面|両目|両雄|両様|両洋|両用|両翼|両立|両輪|両隣|両論|両脇|両腕|両方|両開き|両建て|両差し|両思い|両切り}}
-
-===Kanji 2===
-{{ja-kanji|grade=3|rs=一05}}
-
-# [[counter]] for [[carriages]], such as in a [[train]]
-
-====Readings====
-{{ja-readings
-|goon=ろう<らう
-|kanon=りょう<りやう
-}}
-
-====Usage notes====
-Usually replaces {{m|ja|輛}} and extended shinjitai form {{m|ja|輌}} in modern usage.
-
-====Compounds====
-* {{ja-r|車%両|しゃ%りょう}}: a [[carriage]] or [[car]] in a [[train]]; [[rolling stock]]
+{{der3|ja|一両|十両|千両|{{ja-l|両々}}, {{ja-l|両両}}|両院|両家|両蓋|両岸|両眼|両義|両脚|両極|両軍|両舷|両虎|両口|両国|両三|両氏|両耳|両社|両者|両手|両種|両親|両人|両刃|両性|両成敗|両棲|両生|両舌|両前|両全|両像|両側|両足|両袖|両損|両替|両端|両断|両天秤|両度|両党|両刀|両頭|両得|両凸|進退両難|両日|硬軟両派|{{ja-l|両肌}}, {{ja-l|両膚}}|両膝|両肘|両部神道|両分|両陛下|両便|両名|両面|両目|両雄|両様|両洋|両用|両翼|両立|両輪|両隣|両論|両脇|両腕|両方|両開き|両建て|両差し|両思い|両切り|車両}}
 
 ===Etymology 1===
 <div style="float:right;">
@@ -113,7 +97,7 @@ From {{inh|ja|ojp|sort=ころ|-}}. Possibly related to root ''koro'' in referenc
 The ''koro'' reading appears to be obsolete, [[supersede]]d by ''ryō'' above.
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=o|りょう}}
+{{ja-kanjitab|yomi=o|りょう|alt=輛,輌}}
 Probably from {{der|ja|ltc|sort=りょう|輛|tr=lɨɐŋ<sup>H</sup>?|pos=counter for vehicles}}.
 
 ====Pronunciation====
@@ -124,6 +108,14 @@ Probably from {{der|ja|ltc|sort=りょう|輛|tr=lɨɐŋ<sup>H</sup>?|pos=counte
 
 # a [[car]] of a [[train]]
 #: {{ja-usex|この電%車は六%'''両'''%編%成です。|この でん%しゃ は ろく%'''りょう'''% へん%せい です。|This train consists of six '''cars'''.}}
+
+=====Derived terms=====
+{{top3}}
+* {{ja-r|車%両|しゃ%りょう}}
+{{bottom}}
+
+=====Usage notes=====
+Usually replaces {{m|ja|輛}} and extended shinjitai form {{m|ja|輌}} in modern usage.
 
 ===References===
 <references/>
