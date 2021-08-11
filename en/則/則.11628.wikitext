@@ -136,53 +136,52 @@ From {{der|ja|ltc|sort=そく|-}} {{ltc-l|則|rule}}.
 ==Korean==
 
 ===Etymology 1===
-From a [[속음|corrupted or unorthodox reading]]. The [[본음|original reading]] is {{ko-l|즉}} based on [[Middle Chinese]] {{ltc-l|則}}. 
+From {{der|ko|ltc|sort=칙|-}}.
 {{hanja-ety
-|m={{hanja-gwangju|즉|cuk}}
-|mh=[[법즉]] 즉
-|em={{hanja-juhae|즉|cuk}}
-|emun=[[법]] 즉
+|m2={{okm-l|즉|cuk}}
+|m2h={{okm-l|법즉|pepcuk}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|칙}}
 
 ====Hanja====
 {{ko-hanja-search}}
-{{ko-hanja|법칙|칙}}
+{{ko-hanja|법칙(法則)|칙}}
 
-# {{hanja form of|칙|[[rule]]; [[law]]; [[regulation]]}}
+# {{hanja form of|칙|[[rule]]; [[law]]; [[regulation]]|affix}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
-* {{ko-l|규칙|規則}}
-* {{ko-l|법칙|法則}}
-* {{ko-l|변칙|變則}}
-* {{ko-l|원칙|原則}}
-* {{ko-l|총칙|總則}}
-* {{ko-l|반칙|反則}}
-* {{ko-l|준칙|準則}}
-* {{ko-l|철칙|鐵則}}
-* {{ko-l|헌칙|憲則}}
-* {{ko-l|수칙|守則}}
-* {{ko-l|부칙|附則}}
-* {{ko-l|본칙|本則}}
-* {{ko-l|교칙|校則}}
-* {{ko-l|학칙|學則}}
 * {{ko-l|각칙|各則}}
+* {{ko-l|교칙|校則}}
+* {{ko-l|교칙|敎則}}
+* {{ko-l|규ᄎퟄᆨ|規則}}
 * {{ko-l|내칙|內則}}
 * {{ko-l|대칙|大則}}
-* {{ko-l|사칙|四則}}
+* {{ko-l|반칙|反則}}
 * {{ko-l|벌칙|罰則}}
+* {{ko-l|변칙|變則}}
+* {{ko-l|본칙|本則}}
+* {{ko-l|부칙|附則}}
+* {{ko-l|사칙|四則}}
+* {{ko-l|사칙|舍則}}
+* {{ko-l|사칙|社則}}
+* {{ko-l|수칙|守則}}
+* {{ko-l|원칙|原則}}
+* {{ko-l|정칙|定則}}
 * {{ko-l|정칙|正則}}
+* {{ko-l|준칙|準則}}
 * {{ko-l|천칙|天則}}
+* {{ko-l|철칙|鐵則}}
+* {{ko-l|총칙|總則}}
+* {{ko-l|학칙|學則}}
+* {{ko-l|헌칙|憲則}}
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|sort=즉|-}} {{ltc-l|則}}.
+From {{der|ko|ltc|sort=즉|-}}.
 {{hanja-ety
-|dk={{hanja-dongguk|즉〮|cúk}}
-|em={{hanja-juhae|즉|cuk}}
-|emun=[[곧|곳]] 즉
+|dk={{okm-l|즉〮|cúk|link=no}}
 }}
 ====Pronunciation====
 {{ko-hanja-pron|즉}}
@@ -190,16 +189,16 @@ From {{der|ko|ltc|sort=즉|-}} {{ltc-l|則}}.
 ====Hanja====
 {{ko-hanja|곧|즉}}
 
-# {{lb|ko|literary Chinese}} {{hanja form of|즉|{{lb|ko|grammar}} {{n-g|particle in literary Chinese texts}}}}
+# {{lb|ko|literary Chinese}} {{hanja form of|즉|{{n-g|particle in literary Chinese texts}}}}
 
-====Compounds====
+=====Compounds=====
 {{der-top3|Compounds}}
-* {{ko-l|연즉|然則}}
 * {{ko-l|과즉|過則}}
-* {{ko-l|언즉시야|言則是也}}
-* {{ko-l|사즉동혈|死則同穴}}
 * {{ko-l|물구즉신|物久則神}}
+* {{ko-l|사즉동혈|死則同穴}}
 * {{ko-l|수즉다욕|壽則多辱}}
+* {{ko-l|언즉시야|言則是也}}
+* {{ko-l|연즉|然則}}
 {{der-bottom}}
 
 ===References===
