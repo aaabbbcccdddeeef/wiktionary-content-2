@@ -11,28 +11,29 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=挤|alt=㨈,𡬚}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|手|alt1=扌|齊|ls=psc|c1=s|t1=hand|c2=p}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|s=挤|alt=㨈,𡬚}}
+
+====Pronunciation====
 {{zh-pron
 |m=jǐ
 |ma=zh-jǐ.ogg
 |c=zai1
 |h=pfs=
 |md=
-|mn=ml:ché/qz:chiak/tw,xm:chek/zz:jek/qz,tw,xm:khoeh/zz:kheh
-|mn_note=ché - literary; chiak/chek/jek - 績 is used in the Mainland; khoeh/kheh - vernacular (俗), 𤲍 is used in Taiwan
+|mn=ml:ché
 |w=
 |mc=y
 |oc=y
 |cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[crowd]] together [[tightly]]; to [[squeeze]]
@@ -41,14 +42,45 @@
 # to squeeze something out; to [[wring]]; to use [[pressure]] to [[extract]]
 # {{lb|zh|Cantonese}} to [[place]]; to [[put]]
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial}}
 
 ====See also====
 * {{sense|to place}} {{zh-l|擺}}, {{zh-l|放}}
 
-===Compounds===
+====Compounds====
 {{zh-der|你推我擠|擠手捏腳|擠滿|擠眼弄眉|擁擠|擠兌|推擠|挨擠|擠抑|擠訛頭|擠壓|擠眉溜眼|擠眉弄眼|擠對|擠陷|排擠|擠乳機|擠撮|擠成一團|擠提|擠爆}}
+
+===Etymology 2===
+{{zh-forms|s=挤|alt=績}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,tw:chek/qz:chiak/zz:jek
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien}} to [[squeeze]] something [[out]]
+
+=====Synonyms=====
+{{zh-dial}}
+
+===Etymology 3===
+{{zh-forms|s=挤}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,qz,tp:khoeh/zz,kh:kheh
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien}} {{zh-alt-form|𤲍}}
 
 ===References===
 * {{R:yue:Hanzi}}
