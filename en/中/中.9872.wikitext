@@ -454,21 +454,17 @@ In news headlines, this is usually written solely in the ''[[hanja]]'' form, eve
 #* {{quote-book|oko|year=c. 965|author={{w2|ko|균여|均如|tr=Gyunyeo}}|chapter={{w2|ko|상수불학가|常隨彿學歌|tr=Sangsubulhak-ga}}|title={{w2|ko|均如傳|均如傳|tr=Gyunyeo-jeon}}|trans-title={{w|Gyunyeo-jeon|Works of Gyunyeo}}|text=命乙施好尸歲史'''中'''置|t=even '''in''' the age that I cast my life away}}
 
 ====Reconstruction notes====
-Conventionally reconstructed as *-kuy because very early ''[[w:Idu script|Idu]]'' manuals in Han'gul read this character as {{okm-inline|희|-huy}}, which is believed to reflect an ancient reading tradition. Middle Korean intervocalic /h/ is usually [[lenited]] from Old Korean */k/ based on internal and dialectal reconstruction.
-
-First-millennium Old Korean also featured the locative particle {{m|oko|良|tr=*-a}}. The two particles were compounded as {{m|oko|良中|tr=*-a-kuy}} as early as the seventh century. The compounded form becomes predominant in the corpus after the eleventh century, after which 中 *-kuy in isolation is rarely encountered (although a likely Middle Korean reflex is attested in Hangul form as late as the fifteenth century). The compounded form eventually fused into a single morpheme, becoming the Middle Korean locative particle {{okm-inline|애|-ay}}.
-
-At some point, perhaps even before widespread compounding, */k/ was [[lenited]] to */h/. Lenition may have begun as early as the eighth century, given the attestation of the 希 form in 讚耆婆郞歌 ''Changiparang-ga'', whose claimed date of composition is 740.
-
-Nam Pung-hyun suggests that {{m|oko|矣|tr=*-uy}}, another apparent locative particle attested in the Old Korean corpus, should be connected to 中 *-kuy. He classifies both as "''uy''-type locatives", in contrast to 良 as an "''a''-type locative", and speculates that the ''uy''-type locatives were reserved for animate beings while 良 could be used indiscriminately.
-
-Assumed to be a [[logogram]] borrowed from Chinese, as no Chinese reading or native Korean equivalent of 中 whose phonology is even remotely similar to *kuy is known. The Chinese word often bears a locative meaning as well, and there is a certain parallel in the Vietnamese Nôm use of the same character to write the native preposition {{m|vi|trong|t=in; inside}}.
+* Conventionally reconstructed as *-kuy because ''[[w:Idu script|Idu]]'' manuals in Han'gul read this character as {{m|okm|-희|tr=-huy}}, which is believed to reflect an ancient reading tradition. Middle Korean intervocalic /h/ is usually [[lenited]] from Old Korean */k/ based on internal and dialectal reconstruction. The non-lenited form also survives directly in pronouns: {{m|okm|이ᅌᅥ긔〮|tr=ìngèkúy|t=here}}, {{m|okm|뎌ᇰ어긔〮|tr=tyèngèkúy|t=there}}, etc.
+* Assumed to be a [[logogram]] borrowed from Chinese, as no Chinese reading or native Korean equivalent of {{m|oko|中}} whose phonology is even remotely similar to *kuy is known. The Chinese word often bears a locative meaning as well, and there is a certain parallel in the Vietnamese Nôm use of the same character to write the native preposition {{m|vi|trong|t=in; inside}}.
+* First-millennium Old Korean also featured the locative particle {{m|oko|良|tr=*-a}}. The two particles were compounded as {{m|oko|良中|tr=*-a-kuy}} as early as the seventh century. The compounded form becomes predominant in the corpus after the eleventh century, after which 中 *-kuy in isolation is rarely encountered (although a likely Middle Korean reflex is attested in Hangul form as late as the fifteenth century). The compounded form eventually fused into a single morpheme, becoming the Middle Korean locative particle {{m|okm|-에|-에〮/애〮|tr=-éy/áy}}.
+* At some point, perhaps even before widespread compounding, */k/ was [[lenited]] to */h/. Lenition may have begun as early as the eighth century, given the attestation of the {{m|oko|希}} form in the poem {{lang|ko|讚耆婆郞歌}} ''Changiparang-ga'', whose claimed date of composition is 740.
+* Nam Pung-hyun suggests that {{m|oko|矣|tr=*-uy}}, another apparent locative particle attested in the Old Korean corpus, should be connected to {{m-self|oko|中|tr=*-kuy.}} He classifies both as "''uy''-type locatives", in contrast to {{m|oko|良|tr=*-a }} as an "''a''-type locative", and speculates that the ''uy''-type locatives were reserved for animate beings while {{m|oko|良}} could be used indiscriminately.
 
 ====Descendants====
 * {{desc|oko|良中|tr=*-akuy}} {{q|compounded with {{m|oko|良|tr=*-a}}}}
-** {{desc|okm|애|tr=-ay}} 
-*** {{desc|ko|에|tr=-e}}
-* {{desc|okm|희|tr=-huy}} {{q|very rare}} 
+** {{desc|okm|-에〮|tr=-éy}} 
+*** {{desc|ko|-에|tr=-e}}
+* {{desc|okm|-희|tr=-huy}} {{q|rare}}
 
 ====See also====
 * {{m|oko|良|tr=*-a}} {{q|locative case marker}}
