@@ -135,18 +135,15 @@ Borrowed for abstract meanings. Another character {{och-l|盤}} was created to r
 * {{ja-r|大%凡|おお%よそ}}
 {{der-bottom}}
 
-===Alternative forms===
-* {{q|rare}} {{ja-l|凢}}
-
 ===Etymology 1===
-{{ja-kanjitab|yomi=o|ぼん}}
+{{ja-kanjitab|yomi=goon|ぼん|alt=凢:rare}}
 
 {{IPAfont|*/bɨəm/}} → {{IPAchar|/bomʉ/}} → {{IPAchar|/boɴ/}}
 
 From {{der|ja|ltc|sort=ほん'|-}} {{ltc-l|凡}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|ぼん|acc=1|acc_ref=DJR}}
+{{ja-pron|ぼん|acc=1|acc_ref=DJR}}
 
 ====Adjective====
 {{ja-adj|infl=na|ぼん}}
@@ -177,6 +174,9 @@ Cognate with {{m|ja|大|tr=ō||[[great]], [[large]]}}, and the ''oho-'' element 
 
 Historically also realized as ''obo'' in old texts, and cognate with the ''obo-'' element in {{m|ja|朧||tr=oboro|hazy, vague, dim, indistinct}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/>
 
+====Pronunciation====
+{{ja-pron|おお}}
+
 ====Adjective====
 {{ja-adj|infl=nari|おお|hhira=おほ}}
 
@@ -205,6 +205,9 @@ From {{inh|ja|ojp|sort=おおし|-}}.
 Appears to be a lexicalized adverbial use of the {{m|ja|終止形||tr=shūshikei|terminal form}} of classical adjective {{m|ja|多し||tr=ōshi|many|pos=modern {{m|ja|多い|tr=ōi}}, same ''opo'' → ''ofo'' → ''oho'' → ''ō'' root}}.
 
 Alternatively, might be adjective stem ''ō'' + conjunctive particle {{ja-r|し}}.
+
+====Pronunciation====
+{{ja-pron|おおし}}
 
 ====Adverb====
 {{ja-pos|adverb|おおし|hhira=おほし}}
