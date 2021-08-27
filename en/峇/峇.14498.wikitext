@@ -11,36 +11,31 @@
 
 ==Chinese==
 
-===Pronunciation 1===
+===Etymology 1===
 {{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
 |m=bā
 |c=baa1
-|mn=tw:bā/twv,pn,sg:bâ
-|mc=
-|oc=
-|ma=
-|cat=adj
+|mn=bâ
+|cat=
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Min Nan}} [[closed]] [[tightly]]
-#: {{zh-x|門 關 無 峇|The door isn't '''closed tightly'''.|MN}}
-# {{lb|zh|Min Nan}} to [[agree]] with; to [[tally]] with; to [[match]]; to [[fit]]
-#: {{zh-x|阮{Guán} 兩{nn̄g} 人 個{kò}性{sìng} 真 峇|We two have personalities that really '''match'''.|MN}}
-# {{lb|zh|Malaysia|&|Singapore|_|Hokkien}} [[lad]], [[young man]]
-=====Synonyms=====
-* {{q|Min Nan}} {{zh-l|密}}
+# {{zh-used2|t}}
 
 ====Compounds====
-{{zh-der|峇峇|中峇魯|峇厘|峇峇娘惹|峇搭人}}
+{{zh-der|峇厘|中峇魯|峇峇|峇峇娘惹|峇搭人}}
 
-===Pronunciation 2===
+===Etymology 2===
 {{zh-forms|alt=𡸡}}
+
+====Pronunciation====
 {{zh-pron
-|m=kè
+|m=kè,kē
 |c=hap6
 |mn=
 |mc=
@@ -56,6 +51,44 @@
 
 ====Compounds====
 {{zh-der|岌峇}}
+
+===Etymology 3===
+{{zh-forms|alt=密}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,zz,tw,sg:bā/qz:bà
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien}} [[closed]] [[tightly]]
+#: {{zh-x|門 關 無 峇。|The door isn't '''closed tightly'''.|TW}}
+# {{lb|zh|Hokkien}} [[close]]; [[agree]]ing; [[match]]ing; [[harmonious]]
+#: {{zh-x|阮 兩{nn̄g} 人 個性 真 峇。|We two have personalities that really '''match'''.|TW}}
+
+=====Synonyms=====
+* {{sense|closed tightly}} {{zh-l|密}}
+
+===Etymology 4===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|mn=pn,sg:bâ
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Malaysia|&|Singapore|_|Hokkien}} [[lad]]; [[young man]]
+
+====Compounds====
+{{zh-der|緣投峇|阿峇}}
 
 ===References===
 * {{R:yue:Hanzi}}
