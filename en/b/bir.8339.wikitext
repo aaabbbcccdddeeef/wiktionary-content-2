@@ -125,7 +125,9 @@ From {{inh|gag|trk-pro|*bīr||one}}
 ==Indonesian==
 
 ===Etymology===
-Borrowed from {{bor|id|nl|bier}}, from {{der|id|dum|bier}}, from {{der|id|odt|bier}}, from {{der|id|gmw-pro|*beuʀ}}, from {{der|id|gem-pro|*beuzą||beer}}, from {{der|id|ine-pro|*bʰews-||dross}}.
+{{dercat|id|dum|odt|gmw-pro|gem-pro|ine-pro|}}
+{{root|id|ine-pro|*bʰews-}}
+From {{bor|id|nl|bier}}.
 
 ===Pronunciation===
 * {{IPA|id|[ˈbɪr]}}
@@ -139,9 +141,6 @@ Borrowed from {{bor|id|nl|bier}}, from {{der|id|dum|bier}}, from {{der|id|odt|bi
 {{der4|id|
 | bir pletok
 |}}
-
-===See also===
-* {{l|id|perut gendut}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
