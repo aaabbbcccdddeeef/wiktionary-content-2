@@ -147,21 +147,24 @@ Quanzhou: lír - more common; lú - colloquial variant
 * {{see derivation subpage|Kanji}}
 
 ===Etymology 1===
+{{etymid|ja|onna}}
 {{ja-kanjitab|おんな|yomi=k}}
 
 {{IPAfont|⟨womi<sub>1</sub>na⟩}} → *{{IPAchar|/womʲina/}} → {{IPAchar|/womʉna/}} → {{IPAchar|/wonːa/}} → {{IPAchar|/onːa/}}
 
-Shift from {{inh|ja|ojp|-}} ''womina'' → ''omina'' (see below).
+Shift from {{inh|ja|ojp|-}} ''womina'' → ''omina''.  See the {{m|ja|女#Japanese:_omina|女|tr=omina}} entry for further details.
 
 Now one of the standard Japanese words for "a woman".
 
 ====Pronunciation====
-{{ja-pron|y=k|おんな|acc=3|acc_ref=DJR,NHK|a=Jp-on'na.ogg}}
+{{ja-pron|おんな|acc=3|acc_ref=DJR,NHK|a=Jp-on'na.ogg}}
 
 ====Noun====
 {{ja-noun|おんな|hhira=をんな}}
 
-# a [[woman]]
+# a [[female]] [[human]]
+#: {{ant|ja|男|tr=otoko}}
+# a [[woman]], an [[adult]] female human
 #* {{quote-book|ja
 |||BOOSTER 3
 |||date=Jul 5 1999
@@ -194,6 +197,7 @@ Now one of the standard Japanese words for "a woman".
 * {{see derivation subpage|Woman (Japanese)}}
 
 ===Etymology 2===
+{{etymid|ja|omina}}
 {{ja-kanjitab|おみな|yomi=k}}
 
 {{IPAfont|⟨womi<sub>1</sub>na⟩}} → *{{IPAchar|/womʲina/}} → {{IPAchar|/omina/}}
@@ -203,7 +207,7 @@ From {{inh|ja|ojp|sort=おみな|-}}.<ref>[http://npcmj.ninjal.ac.jp/interfaces/
 The initial {{IPAchar|/wo/}} expressed "[[small]], [[youth]]" and contrasted with {{IPAchar|/o/}} "[[grown]], [[old]]" (as in {{m|ja|嫗|tr=omina||[[old]] woman}}), while the medial {{IPAchar|/mi/}} is cognate with {{m|ja||女|tr=me|[[female]], [[woman]]|pos=see below}}. According to Frellesvig (2010), proto-Japonic {{IPAchar|/e/}} became Old Japanese {{IPAchar|[je]}} in final position and {{IPAchar|[i]}} elsewhere; analogous with PJ {{IPAchar|/o/}}, which became OJ {{IPAchar|[wo]}} in final position and {{IPAchar|[u]}} elsewhere (though PJ {{IPAchar|/i/}} and {{IPAchar|/u/}} also existed, confer {{w|Old Japanese}} {{ja-l|火}}'s two readings {{IPAchar|/po/}} & {{IPAchar|/pu/}} in Western & Eastern Old Japanese, respectively (Vovin, 2017)).
 
 ====Pronunciation====
-{{ja-pron|yomi=k|おみな|acc=0|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
+{{ja-pron|おみな|acc=0|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
 
 ====Noun====
 {{ja-noun|おみな|hhira=をみな}}
@@ -229,7 +233,7 @@ From {{der|ja|ojp|sort=め|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref>
 Appears to be distinct from {{m|ja|目|tr={{IPAfont|⟨me<sub>2</sub>⟩}} → me||[[eye]]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|め|acc=1|acc_ref=DJR}}
+{{ja-pron|め|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{s|wife}} {{ja-l|妻}}
@@ -255,13 +259,10 @@ Used more in compounds than on its own.
 * {{see derivation subpage|Woman (2) (Japanese)}}
 
 ===Etymology 4===
-{{ja-kanjitab|yomi=i}}
+{{ja-kanjitab|yomi=i|alt=嬢}}
 {{IPAfont|⟨womi<sub>1</sub>na⟩}} → *{{IPAchar|/womʲina/}} → {{IPAchar|/womʉna/}} → {{IPAchar|/woũna/}} → {{IPAchar|/woːna/}} → {{IPAchar|/oːna/}}
 
 Variant shift from {{inh|ja|ojp|-}} ''womina'' → ''omina'' (see above).
-
-====Alternative forms====
-* {{ja-l|嬢}}
 
 ====Noun====
 {{ja-noun|おうな|hhira=をうな}}
