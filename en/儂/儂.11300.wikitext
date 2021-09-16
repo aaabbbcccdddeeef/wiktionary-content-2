@@ -150,7 +150,6 @@ Probably a {{der|zh|qfa-tak}} substrate word. Compare {{cog|tai-pro|*nwoːŋᶜ|
 ----
 
 ==Japanese==
-{{ja-kanjitab|わし|yomi=kun}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=人13}}
@@ -167,11 +166,12 @@ Probably a {{der|zh|qfa-tak}} substrate word. Compare {{cog|tai-pro|*nwoːŋᶜ|
 This character is seldom used in modern Japanese.
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=k|わし}}
+{{ja-kanjitab|yomi=k|わし|alt=私}}
+
 Contraction of {{m|ja|私|tr=watashi||I, me}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|わし|acc=0|acc_ref=DJR}}
+{{ja-pron|わし|acc=0|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{ja-l|私}} {{qualifier|more common}}
@@ -188,24 +188,8 @@ More commonly spelled {{m|ja|私}}, or in [[kana#English|kana]] to make the read
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|かれ}}
-From {{inh|ja|ojp|-|sort=かれ}}. Compound of {{suffix|ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}. Found in the [[w:Man'yōshū|''Man'yōshū'']] compiled around 759.
-
-====Pronunciation====
-{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|彼}} {{qualifier|more common}}
-
-====Pronoun====
-{{ja-pos|pronoun|かれ}}
-
-# {{lb|ja|sort=かれ|rare}} {{n-g|third person pronoun}}: [[he]], [[she]]
-## {{lb|ja|especially}} {{n-g|male personal third person pronoun}}: [[he]], [[him]]
-## {{lb|ja|by extension}} [[boyfriend]]
-##: {{synonyms|ja|彼氏}}
-
-=====Usage notes=====
-Very rare spelling. See the more common spelling {{m|ja|彼}} for more details about the term.
+Very rare alternative spelling. See the more common spelling {{m|ja|彼}} for more details about the term.
+{{ja-see|彼}}
 
 ===References===
 <references/>
