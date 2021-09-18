@@ -86,46 +86,80 @@
 
 ====Readings====
 {{ja-readings
-|goon=とう
-|kanon=とう
+|goon=とう<とう
+|kanon=とう<とう
 |kun=ふゆ-
+|nanori=かず, とし
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|季冬|きとう}}: [[end]] of [[winter]]; [[twelfth]] [[month]] of [[lunar calendar]]
-* {{ja-r|初冬|しょとう}}
-* {{ja-r|冬季|とうき}}
-* {{ja-r|冬期|とうき}}
-* {{ja-r|冬至|とうじ}}
-* {{ja-r|冬眠|とうみん}}
-{{der-mid}}
-* {{ja-r|晩冬|ばんとう}}
-* {{ja-r|冬将軍|ふゆしょうぐん}}
-* {{ja-r|冬休み|ふゆやすみ}}
-* {{ja-r|冬山|ふゆやま}}
-* {{ja-r|冬月|^ふゆつき}}
-* {{ja-r|立冬|りっとう}}
-{{der-bottom}}
+* {{ja-r|冬瓜|かも.うり}}
+* {{ja-r|忍冬|スイカズラ}}
 
-===Pronunciation===
-{{wikipedia|lang=ja}}
+===Etymology 1===
 {{ja-kanjitab|ふゆ|yomi=k}}
-{{ja-pron|acc=o|ふゆ|y=k}}
+{{wp|lang=ja}}
+{{wp|Winter}}
 
-===Noun===
+{{IPAfont|⟨puyu⟩}} → {{IPAchar|/ɸuju/}}
+
+From {{inh|ja|ojp|sort=ふゆ|-}}.
+
+====Pronunciation====
+{{ja-pron|ふゆ|acc=2|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|ふゆ}}
 
-# [[winter]] {{gl|season}}
-#: {{ja-usex|'''冬'''の狂%風|'''^ふゆ''' の ^きょう%ふう|{{w|The Winds of Winter|The Winds of '''Winter'''}}}}
+# [[winter]] {{gl|[[season]]}}
+#: {{ja-usex-inline|'''冬'''の狂%風|'''^ふゆ''' の ^きょう%ふう|''{{w|The Winds of Winter|The Winds of '''Winter'''}}''}}
+#: {{syn|ja|冬季|tr1=tōki|冬期|tr2=tōki}}
 
-====Synonyms====
-* {{l|ja|冬季|tr=tōki}}
-* {{l|ja|冬期|tr=tōki}}
-* {{l|ja|ウィンター|tr=wintā}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|冬%将%軍|ふゆ%しょう%ぐん}}
+* {{ja-r|冬%休み|ふゆ%やすみ}}
+* {{ja-r|冬%山|ふゆ%やま}}
+* {{ja-r|冬%空|ふゆ%ぞら}}
+* {{ja-r|初%冬|はつ%ふゆ}}
+* {{ja-r|真%冬|ま%ふゆ}}
+{{der-bottom}}
+
+====Coordinate terms====
+{{table:seasons/ja}}
+
+===Etymology 2===
+{{ja-kanjitab|とう|yomi=o}}
+
+From {{der|ja|ltc|sort=とう|-}} {{ltc-l|冬}}.
+
+====Affix====
+{{ja-pos|affix|とう}}
+
+# [[winter]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|冬%瓜|トウ%ガン}}
+* {{ja-r|冬%季|とう%き}}
+* {{ja-r|冬%期|とう%き}}
+* {{ja-r|冬%月|とう%げつ}}
+* {{ja-r|冬%至|とう%じ}}
+* {{ja-r|冬%眠|とう%みん}}
+* {{ja-r|越%冬|えっ%とう}}
+* {{ja-r|季%冬|き%とう}}
+* {{ja-r|旧%冬|きゅう%とう}}
+* {{ja-r|厳%冬|げん%とう}}
+* {{ja-r|初%冬|しょ%とう}}
+* {{ja-r|晩%冬|ばん%とう}}
+* {{ja-r|立%冬|りっ%とう}}
+{{der-bottom}}
 
 ===See also===
-{{table:seasons/ja}}
+* {{ja-r|ウィンター}}
+
+===References===
+<references/>
 
 [[Category:ja:Calendar terms|ふゆ]]
 [[Category:ja:Seasons|ふゆ]]
