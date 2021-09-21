@@ -102,22 +102,25 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 # Shortening of ''[[and]]'', used in set phrases like ''[[rock-n-roll]]''.
 
 =====Translations=====
-{{trans-top-see|north|north}}
-* Hungarian: {{t+|hu|É}}
+{{trans-top-see|north|north}}{{multitrans|data=
+* Hungarian: {{tt+|hu|É}}
 {{trans-mid}}
-* Russian: {{t+|ru|С|m}}
+* Russian: {{tt+|ru|С|m}}
+}}
 {{trans-bottom}}
 
-{{trans-top-see|noun|noun}}
-* Hungarian: {{t|hu|fn.}}
+{{trans-top-see|noun|noun}}{{multitrans|data=
+* Hungarian: {{tt|hu|fn.}}
 {{trans-mid}}
-* Russian: {{t+|ru|сущ.|n}}
+* Russian: {{tt+|ru|сущ.|n}}
+}}
 {{trans-bottom}}
 
-{{trans-top-see|neuter|neuter}}
-* Hungarian: {{t|hu|sn.}}
+{{trans-top-see|neuter|neuter}}{{multitrans|data=
+* Hungarian: {{tt|hu|sn.}}
 {{trans-mid}}
-* Russian: {{t+|ru|ср.|m}}, {{t|ru|ср. род|m}}
+* Russian: {{tt+|ru|ср.|m}}, {{tt|ru|ср. род|m}}
+}}
 {{trans-bottom}}
 
 {{trans-top-see|neutral|neutral}}
