@@ -2,15 +2,15 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=96|rad=玉|as=07|sn=10|four=10113|canj=MGYIU|ids=⿰⺩㐬}}
+{{Han char|rn=96|rad=玉|as=07|sn=11|four=10113|canj=MGYIU|ids=⿰⺩㐬}}
 
-====References====
-* {{Han ref|kx=0733.080|dkj=20978|hdz=21118.090|uh=7409|ud=29705|bh=AF5B|bd=44891}}
+===Further reading===
+{{Han ref|kx=0733.080|dkj=20978|hdz=21118.090|uh=7409}}
 
 ----
 
 ==Chinese==
-{{zh-forms|alt=瑠,璢,𤩾}}
+{{zh-forms|alt=瑠,璢,𤥗,𤩾}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -30,7 +30,7 @@
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
 # {{zh-used in|琉璃}}
 
@@ -52,11 +52,9 @@
 # [[lapis lazuli]]
 
 ====Readings====
-* {{ja-readings
+{{ja-readings
 |goon=る
 |kanon=りゅう<りう
-|kun=
-|nanori=
 }}
 
 ====Compounds====
@@ -90,6 +88,9 @@ From {{der|ko|ltc|-}} {{ltc-l|琉}}. {{hanja-hunmong|류|lyu|金寳}}
 ==Vietnamese==
 
 ===Han character===
-{{vi-readings|rs=玉07|reading=lưu}}
+{{vi-readings|hanviet=lưu|nom=lưu|rs=玉07}}
 
 # {{rfdef|vi|sort=玉07}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7409 Nom Foundation]
