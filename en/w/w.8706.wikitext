@@ -601,20 +601,27 @@ Used chiefly in recent loanwords and foreign proper nouns.
 * {{IPA|cy|/uː/}}
 
 ====Letter====
-{{cy-noun|f|ŵau}}
+{{cy-letter|upper=W|lower=w}}
 
 # {{Latn-def|cy|letter|28|w}} ''It is preceded by {{l|cy|u}} and followed by {{l|cy|y}}.''
-# {{Latn-def|cy|name|W|w}}
 
-====Derived terms====
+=====Derived terms=====
 * Digraph sequences: {{l|cy|wy}}
 
-====Mutation====
+=====Mutation=====
 {{cy-mut}}
 
-====See also====
+=====See also=====
 * {{list:Latin script letters/cy}}
 * {{list:Latin script letter names/cy}}
+
+====Noun====
+{{cy-noun|f|ŵau}}
+
+# {{Latn-def|cy|name|W|w}}
+
+=====Mutation=====
+{{cy-mut|w}}
 
 ===Etymology 2===
 
@@ -639,6 +646,7 @@ This word is usually found in conjunction with the pronoun {{m|cy|i}} and so may
 * {{l|cy|ydw}} {{qualifier|interrogative}}
 
 ----
+
 ==Yoruba==
 ===Pronunciation===
 * {{sense|phoneme}} {{IPA|yo|/w/}}
