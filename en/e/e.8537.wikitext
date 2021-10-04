@@ -2166,13 +2166,24 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 * {{rhymes|cy|eː}}
 
 ====Letter====
-{{cy-noun|f|eau}}
+{{cy-letter|upper=E|lower=e}}
 
 # {{Latn-def|cy|letter|7|e}} ''It is preceded by {{l|cy|dd}} and followed by {{l|cy|f}}.''
-# {{Latn-def|cy|name|E|e}}
 
 ====Derived terms====
 * Digraph sequences: {{l|cy|ei}}, {{l|cy|eu}}, {{l|cy|ew}}, {{l|cy|ey}}
+
+=====Mutation=====
+* e cannot be mutated but, being a vowel, does take {{l|en|h-prothesis}}, for example with the word {{m|cy|eliffant||elephant}}:
+{{cy-mut|eliffant}}
+
+=====See also=====
+* [[Wiktionary:About Welsh#Alphabetization|see other Welsh letters and their names]]
+
+====Noun====
+{{cy-noun|f|eau}}
+
+# {{Latn-def|cy|name|E|e}}
 
 ====Mutation====
 {{cy-mut}}
