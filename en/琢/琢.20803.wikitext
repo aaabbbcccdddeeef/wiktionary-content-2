@@ -4,13 +4,10 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=96|rad=玉|as=08|sn=12|four=11132|canj=MGMSO|ids=⿰𤣩豖,⿰𤣩豕}}
+{{Han char|rn=96|rad=玉|as=08|asj+=07|sn=12|snj+=11|four=11132|canj=MGMSO|ids=⿰𤣩豖,⿰𤣩豕}}
 
-# [[polish]] [[jade]]
-# [[cut]] [[jade]]
-
-====References====
-* {{Han ref|kx=0734.190|dkj=21058|dj=1146.210|hdz=21120.120|uh=7422|ud=29730|bh=B55A|bd=46426}}
+===Further reading===
+{{Han ref|kx=0734.190|dkj=21058|dj=1146.210|hdz=21120.120|uh=7422}}
 
 ----
 
@@ -19,8 +16,9 @@
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|玉|豖|c1=s|c2=p|ls=psc|t1=jade|alt1=𤣩}}.
 
-===Pronunciation===
+===Pronunciation 1===
 {{zh-pron
 |m=zhuó
 |c=doek3
@@ -30,16 +28,27 @@
 |mn-t=doh4
 |mc=y
 |oc=y
-|cat=
+|cat=v
 }}
 
-===Definitions===
-{{zh-hanzi}}
+====Definitions====
+{{head|zh|Han character}}
 
-# {{rfdef|zh}}
+# {{†}} to [[carve]] [[jade]]
 
-====Compounds====
+=====Compounds=====
 {{zh-der|切磋琢磨|琢句|琢玉成器|琢磨|粉妝玉琢|粉裝玉琢|精雕細琢|雕琢|雕肝琢腎|雕肝琢膂}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=zuó
+|cat=v
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# {{zh-only used in|琢磨|tr=zuómo|to think over; to ponder}}
 
 ----
 
@@ -47,18 +56,36 @@
 {{ja-kanji forms|k=y}}
 
 ===Kanji===
-{{ja-kanji|grade=|rs=玉08}}
+{{ja-kanji|grade=|rs=玉07}}
 
-# {{rfdef|ja|sort=玉08}}
+# {{rfdef|ja|sort=玉07}}
 
 ====Readings====
-* {{ja-readings|on=[[たく]] (taku)|kun=[[みがく]] (migaku)}}
+{{ja-readings
+|on=たく
+|kun=あや,たか
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|hangeul=탁|eumhun=|rv=tak|mr=t'ak|y=thak}}
+{{ko-hanja|다듬다|다듬을|탁}}
 
 # {{rfdef|ko|sort=玉08}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/8b93e58c46684878918d2f56497e1522 Naver Hanja Dictionary: 琢]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|hanviet=chác,trác|nom=trác,trát|rs=玉08}}
+
+# {{rfdef|vi|sort=玉08}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7422 Nom Foundation]
