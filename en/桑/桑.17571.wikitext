@@ -93,7 +93,7 @@ Borrowed from {{bor|zh|ja|-}} {{m|ja|さん|tr=-san}}. Compare {{cog|nan|-}} {{z
 |nanori=こ
 }}
 
-===Etymology===
+===Etymology 1===
 {{ja-kanjitab|くわ|yomi=kun}}
 
 {{IPAchar|/kupa/}} → {{IPAchar|/kuɸa/}} → {{IPAchar|/kuwa/}}
@@ -108,20 +108,35 @@ Some theories suggest this might have originally been a compound.  Possible deri
 * A shift from {{m|ja|胡}}{{m|ja|葉|tr=kopa||non-Chinese people to the west of China + leaf}}, possibly referencing the origin of some mulberry species in central Asia
 * A contraction of {{m|ja|食う|食ふ}}{{m|ja|葉|tr=kupu pa||eat + leaf}}, where ''kupu'' is the ancient reading of modern {{m|ja|食う|tr=kuu}}
 
-===Pronunciation===
+====Pronunciation====
 {{ja-pron|yomi=k|くわ|acc=1|acc_ref=DJR,NHK}}
 
-===Noun===
+====Noun====
 {{ja-noun|くわ|クワ|hhira=くは|hkata=クハ}}
 
 # [[mulberry]]
 
-====Usage notes====
+=====Usage notes=====
 {{U:ja:biology|クワ}}
 
 This term can refer to the fruit or the tree.  For greater specificity, the following may be used:
 * {{ja-r|桑の木|くわ の き}}: [[mulberry]] [[tree]]
 * {{ja-r|桑の実|くわ の み}}: [[mulberry]] [[fruit]]
+
+===Etymology===
+{{ja-kanjitab|そう}}
+From {{der|ja|ltc|-}} {{ltc-l|桑}}.
+
+====Pronunciation====
+{{ja-pron|そう}}
+
+====Affix====
+{{ja-pos|affix|そう|hhira=さう}}
+
+# [[mulberry]]
+# {{lb|ja|US}} {{short for|ja|桑港|t={{place|ja|t=San Francisco|city|s/California|c/USA}}}}
+
+{{C|ja|San Francisco}}
 
 ===References===
 <References/>
