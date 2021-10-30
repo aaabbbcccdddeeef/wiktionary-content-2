@@ -203,8 +203,11 @@ Borrowed from {{bor|fr|en|penalty}}, itself a borrowing from {{der|fr|fr|pénali
 
 ==Romanian==
 
+===Alternative forms===
+* {{alt|ro|penalti}}
+
 ===Etymology===
-From {{bor|ro|fr|penalty}} or {{bor|ro|en|penalty}}.
+{{ubor|ro|fr|penalty}} or {{ubor|ro|en|penalty|notext=1}}.
 
 ===Noun===
 {{ro-noun|n|penalty-uri}}
@@ -212,4 +215,4 @@ From {{bor|ro|fr|penalty}} or {{bor|ro|en|penalty}}.
 # {{lb|ro|soccer|sports}} {{l|en|penalty}}
 
 ====Declension====
-{{ro-noun-n|pl=penalty-uri}}
+{{ro-noun-n-uri|hyphen=1}}
