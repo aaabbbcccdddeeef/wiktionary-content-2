@@ -180,11 +180,6 @@ Meixian: cai4 - literary; coi1 - colloquial; hoi1/hoi4 - colloquial (preposition
 ===Alternative forms===
 * {{alter|oko|𠂇}} {{q|[[kwukyel]] abbreviation}}
 
-===Pronunciation===
-Conventionally read as {{IPAfont|*KYE-}} because Middle Korean {{w|Idu script}} manuals (which usually preserve Old Korean readings) read this character as {{okm-inline|견|kyen}}, which is clearly an inflected form with the realis gerund {{m|ko|ㄴ|tr=-n}}.
-
-Although Old Korean writing does not mark pitch, the Middle Korean reflexes show rising pitch, which [[Appendix:Koreanic reconstructions|are the result of a merger of a low-pitch and high-pitch syllable]]. This means that the Old Korean verb stem was not in fact monosyllabic {{IPAfont|*kye-}} but really consisted of two syllables. However, this original pronunciation cannot be reconstructed.
-
 ===Verb===
 {{head|oko|verb|tr=*KYE-}}
 
@@ -193,7 +188,11 @@ Although Old Korean writing does not mark pitch, the Middle Korean reflexes show
 # {{n-g|A common auxiliary verb or (more probably) verbal suffix, usually thought to denote the [[completive]] aspect, i.e. describing an action which has been completed and remains in such a state. An alternative but minority hypothesis holds that it honored the subject of the verb to a moderate degree, whereas {{m|oko|賜|tr=*-si}} was more highly honorific.}}
 
 ====Usage notes====
-In both senses, it appears to have been wholly supplanted by the Middle Korean stage by {{m|oko|有叱|tr=*Is-}} > {{ncog|okm|잇다〮|tr=ìstá}}, which is already more common for the independent verbal sense in the early first millennium and is first attested as an auxiliary in 1262. The word is not found in Middle Korean outside the two derived terms given below.
+* In both senses, it appears to have been wholly supplanted by the Middle Korean stage by {{m|oko|有叱|tr=*Is-}} > {{ncog|okm|잇다〮|tr=ìstá}}, which is already more common for the independent verbal sense in the early first millennium and is first attested as an auxiliary in 1262. The word is not found in Middle Korean outside the two derived terms given below.
+
+====Reconstruction notes====
+* Conventionally read as {{IPAfont|*KYE-}} because Middle Korean {{w|Idu script}} manuals, which commonly preserve Old Korean readings, read this character as {{m|okm||견|tr=kyen}}, which is clearly an inflected form with the realis gerund {{m|okm|-ㄴ|tr=-n}}.
+* Although Old Korean writing does not mark pitch, the Middle Korean reflexes show rising pitch, which [[Appendix:Koreanic reconstructions|are the result of a merger of a low-pitch and high-pitch syllable]]. This means that the Old Korean verb stem was not in fact monosyllabic {{IPAfont|*kye-}} but really consisted of two syllables. However, this original pronunciation cannot be reconstructed.
 
 ====Descendants====
 * {{desc|okm|겨〯시다〮|tr=kyěsìtá|t=to exist, to be at|der=1|pos=honorific}}
