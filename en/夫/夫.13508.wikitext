@@ -158,26 +158,39 @@ In the sense "is it not?", probably a {{contr|zh|nocap=1}} of {{och-l|不}} and 
 
 ===Etymology 1===
 {{ja-kanjitab|おっと|yomi=k}}
-From {{inh|ja|jpx-pro|*wopitə}}.
+
+Shift from older unattested {{m|ja|男人|tr=wofito}}, as a compound of {{compound|ja|sort=おっと|男|tr1=wo → o|t1=[[male]], [[man]]|人|tr2=fito → hito|t2=[[person]]}}.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2|夫・良人・所天}}</ref><ref name="DDJS">{{R:Digital-Daijisen}}</ref><ref name="DJR"/>
+
+First attested in roughly 1220.<ref name="KDJ2"/>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|おっと|acc=0|acc_ref=SMK2,NHK,DJR}}
+{{ja-pron|おっと|acc=0|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|おっと|hhira=をつと}}
 
-# [[husband]]
+# {{defdate|from 1220}} [[husband]]
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|つま}}
+{{ja-kanjitab|yomi=k|つま|alt=妻}}
+
+From {{inh|ja|ojp|sort=つま|-}}.  First attested in the ''{{w|Kojiki}}'' of 712.<ref name="KDJ2-tsuma">{{R:Nihon Kokugo Daijiten 2|妻・夫}}</ref>
+
+Cognate with {{m|ja|端|tr=tsuma||edge, side of something}}, from the sense of "person by one's side".<ref name="KDJ2-tsuma"/><ref name="DDJS"/>
+
+Generally spelled {{m|ja|夫}} in reference to a {{m|en|husband}} and {{m|ja|妻}} in reference to a {{m|en|wife}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|つま|acc=1|acc_ref=DJR}}
+{{ja-pron|つま|acc=1|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|つま}}
 
-# [[spouse]], [[consort]]
+# {{defdate|from 712}} [[spouse]], [[consort]]
+#: {{cot|ja|妻|tr1=tsuma|t1=wife|夫|tr2=otto|t2=husband}}
+
+=====Usage notes=====
+In modern usage, the term ''tsuma'' is usually reserved for the sense {{m|en|wife}}, and is therefore spelled {{m|ja|妻}} in [[kanji]], while {{m|en|husband}} is usually expressed using the term {{m|ja|夫|tr=otto}}.<ref name="SMK5"/>
 
 ===References===
 <references/>
