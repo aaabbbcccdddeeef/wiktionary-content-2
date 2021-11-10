@@ -23,16 +23,15 @@
 |md=
 |mn=bián
 |w=
-|mc=
-|oc=y
-|cat=n
+|mc=2
+|oc=1+2
+|cat=v
 }}
-{{zh-attn-split}}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# give [[birth]] to a [[child]]
+# to give [[birth]] to a [[child]]
 
 ===Compounds===
 {{zh-der|娩息|娩出|分娩|無痛分娩}}
@@ -41,6 +40,8 @@
 {{zh-pron
 |m=wǎn,miǎn
 |c=waan5,min5
+|mc=1
+|oc=4
 |cat=a
 }}
 
@@ -57,6 +58,8 @@
 {{zh-pron
 |m=wàn
 |c=maan6
+|mc=4
+|oc=5
 |cat=n
 }}
 
@@ -69,6 +72,8 @@
 {{zh-pron
 |m=fàn
 |c=faan3
+|mc=5
+|oc=3
 |cat=v
 }}
 
@@ -76,6 +81,20 @@
 {{zh-hanzi}}
 
 # to [[reproduce]]
+
+===Pronunciation 5===
+{{zh-pron
+|m=wèn
+|c=
+|mc=3
+|oc=6
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 ===References===
 * {{R:yue:Hanzi}}
