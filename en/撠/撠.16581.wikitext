@@ -9,18 +9,50 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms|alt=棘-Cantonese, 𠽤-Cantonese}}
 
-===Hanzi===
-{{yue-hanzi|jyut=[[gik1]]|y=gik1}}
+===Glyph origin===
+{{Han etym}}
 
-# {{rfdef|yue|sort=手12}}
+=== Etymology ===
+; "to prick"
+Some dictionaries assign the reading ''kik<sup>1</sup>'' to this character (as in {{zh-l|撠手|tr=kik1 sau2}}) and the ''gik<sup>1</sup>'' reading to {{zh-l|棘|tr=-}} (as in {{zh-l|棘手|tr=gik1 sau2}}), others say that both readings belong to {{zh-l|棘|tr=-}}.
 
-----
+===Pronunciation===
+{{zh-pron
+|m=jǐ
+|m-s=
+|c=kik1,gik1
+|c_note=gik1 — original reading, in {{zh-l|撠掖}} and {{zh-l|搏撠}}
+|c-t=
+|g=
+|h=
+|j=
+|mb=
+|md=
+|mn=tw:giah/mg:kiah
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
 
-==Mandarin==
+===Definitions===
+{{zh-hanzi}}
 
-===Hanzi===
-{{cmn-hanzi|pin=[[jǐ]] ([[ji3]])|wg=chi<sup>3</sup>}}
+# {{†}} to [[catch]], to [[grasp]]
+# {{†}} to [[touch]]
+# {{lb|zh|Min Nan}} to [[pick]], to [[peck]]
+# {{lb|zh|Cantonese}} to [[stumble]]
+# {{lb|zh|Cantonese}} to get [[stuck]]
+# {{lb|zh|Cantonese}} to [[prick]], to [[pierce]], {{zh-alt form|棘|tr=kik1, gik1|nocap=+}}
 
-# {{rfdef|cmn|sort=手12}}
+====Compounds====
+{{zh-der|撠手|撠腳|撠手撠腳|撠掖|搏撠|撠刺|惡撠|撠嚫|鞋撠:ôe-kiah}}
+
+====See also====
+* {{lb|zh|Cantonese}} {{zh-l|揢|tr=kak1|to obstruct}}
