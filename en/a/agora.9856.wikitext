@@ -254,23 +254,41 @@ From {{inh|roa-opt|la|[[hāc]] [[hōrā]]}}.
 ----
 
 ==Polish==
-{{wikipedia|lang=pl}}
+{{wp|lang=pl}}
 
 ===Pronunciation===
 * {{pl-IPA}}
 * {{audio|pl|Pl-agora.ogg|Audio}}
+* {{hyph|pl|a|go|ra}}
+* {{rhymes|pl|ɔra}}
+
+===Etymology 1===
+From {{bor|pl|el|ἀγορά}}.
 
 ===Noun===
 {{pl-noun|f}}
 
-# [[#English|agora]] {{gloss|marketplace in Classical Greece}}
+# {{l|en|agora}} {{gloss|marketplace in Classical Greece}}
+#: {{hyper|pl|plac}}
+# {{l|en|agora}} {{gloss|a gathering of people in the an agora}}
+#: {{hyper|pl|zgromadzenie}}
+# {{lb|pl|formal}} {{l|en|[[summit]], [[assembly]], [[conference]]}} {{gloss|a meeting for discussing serious issues}}
+#: {{hyper|pl|spotkanie}}
+# {{lb|pl|formal}} {{l|en|summit}} {{gloss|a place for having a serious meeting}}
+
+===Etymology 2===
+From {{bor|pl|he|אֲגוֹרָה}}.
+
+# {{l|en|agora}} {{gloss|an Israeli currency}}
 
 ====Declension====
-{{pl-decl-noun-f|ago|r}}
+{{pl-decl-noun-f}}
 
 ===Further reading===
+* {{R:pl:WSJP}}
 * {{R:PWN}}
 
+{{c|pl|Currencies|Collectives}}
 ----
 
 ==Portuguese==
