@@ -132,12 +132,13 @@ Probably from ''*s-'' + {{och-l|二|gloss=two}}, from {{inh|zh|sit-pro|*g/s-ni-s
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|し}}
+
 From {{bor|ja|ltc|-|sort=し}} {{m|zh|次|tr=tshij<sup>H</sup>||in order; second}}.
 
 Less common reading in modern Japanese. [[supersede|Superseded]] in most cases by ''ji''; see below.
 
 ====Pronunciation====
-{{ja-pron|yomi=on|し}}
+{{ja-pron|し}}
 
 ====Affix====
 {{ja-pos|affix|し}}
@@ -156,12 +157,13 @@ Only found in compounds.
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=kanyoon|じ}}
+
 {{IPAchar|/si/}} → {{IPAchar|/ʑi/}} → {{IPAchar|/d͡ʑi/}}
 
 Sound shift from ''shi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=kanyo|じ}}
+{{ja-pron|じ}}
 
 ====Counter====
 {{ja-pos|counter|じ}}
@@ -189,10 +191,11 @@ Seldom found in isolation.
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|つぎ}}
+
 Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{der|ja|ojp|-|sort=つぎ}}-derived verb {{m|ja|次ぐ|tr=tsugu||to be in a sequence; to follow, to continue from something, to be next; to connect, to join}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|つぎ|acc=2|acc_ref=DJR}}
+{{ja-pron|つぎ|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|つぎ}}
@@ -203,16 +206,14 @@ Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}
 #*: {{ja-usex|では&#32;{{monospace|C-v}}&#32;（'''次'''の画面を見る）をタイプして'''次'''の画面に進んで下さい。（さあ、やってみましょう。コントロールキーを押しながら&#32;{{monospace|v}}&#32;です）|^で は&#32;{{monospace|C-v}}&#32;（'''つぎ''' の がめん を みる）を タイプ して '''つぎ''' の がめん に すすんで ください。（^さあ、やってみましょう。^コントロールキー を おしながら&#32;{{monospace|v}}&#32;です）|Now type {{monospace|C-v}} (View '''next''' screen) to move to the '''next''' screen. (go ahead, do it by depressing the control key and {{monospace|v}} together)}}
 
 ===Etymology 4===
-{{ja-kanjitab|yomi=k|すき}}
+{{ja-kanjitab|yomi=k|すき|alt=主基}}
+
 Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{der|ja|ojp|-|sort=すく}}-derived verb {{m|ja|次く|tr=suku||to follow, to continue from something, to be next;}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 The verb form was obsolete even in olden times. Existence of the verb, possibly related to [[次ぐ|''tsugu'']] mentioned above, is inferred from placenames found in the [[w:Man'yōshū|''Man'yōshū'']] and other ancient poetry.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|すき}}
-
-====Alternative forms====
-* {{ja-l|主基}}
+{{ja-pron|すき}}
 
 ====Noun====
 {{ja-noun|すき}}
@@ -220,16 +221,14 @@ The verb form was obsolete even in olden times. Existence of the verb, possibly 
 # {{lb|ja|sort=すき|Shinto}} at the {{m|ja|大嘗祭|tr=Daijōsai}} and other major Shintō ceremonies, refers to the group of regional representatives making [[offering]]s of [[sake]] and [[grain]], who do so after the initial offering
 
 ===Etymology 5===
-{{ja-kanjitab|yomi=k|ついで}}
+{{ja-kanjitab|yomi=k|ついで|alt=序,序で,第,次いで,尋いで,次第,嗣}}
+
 {{IPAchar|/tuɡite/}} → {{IPAchar|/tuide/}}
 
 Sound shift from {{m|ja|次第|tr=tsugite||order, sequence}}, itself originally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of now-obsolete {{der|ja|ojp|-|sort=ついで}}-derived verb {{m|ja|継ぎつ|tr=tsugitsu||to do things in sequence, to establish an order}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|ついで|acc=0|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|序}}, {{ja-l|序で}}, {{ja-l|第}}, {{ja-l|次いで}}, {{ja-l|尋いで}}, {{ja-l|次第}}, {{ja-l|嗣}}
+{{ja-pron|ついで|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ついで}}
