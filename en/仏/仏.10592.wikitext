@@ -62,10 +62,10 @@ The more traditional explanation still given in Japanese dictionaries is that th
 # {{lb|ja|sort=ほとけ|colloquial}} a term that a [[parent]] [[call]]s a [[child]] expressing [[parental]] [[affection]], equivalent to “my [[dear]]”
 #* ''c.'' '''890''', ''{{w|Taketori Monogatari}}'' (page 7)<ref name="TTM">{{cite-book|last=Horiuchi|first=Hideaki|coauthors=Ken Akiyama|title={{w|Taketori Monogatari}}, {{w|Ise Monogatari}}|publisher={{w|Iwanami Shoten Publishing|Iwanami Shoten}}|year=1997|location=Tōkyō|isbn=4-00-240017-4}}</ref>
 #*: {{ja-usex
-|我%子の'''佛'''、變化の人%と申しながら、こゝら大さまで養ひ奉る志%疎かならず。
-|^わが% こ の '''ほとけ'''、へんげ の ひと% と まうしながら、こゝら おほき さま で やしなひたてまつる こころざし% をろか ならず。|rom=Waga ko no '''hotoke''', henge no hito to mōshinagara, kokora ōkisama de yashinai-tatematsuru kokorozashi oroka narazu.|My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.}}
+|我%子の'''佛'''、變%化の人%と申しながら、こゝら大さまで養ひ奉る志%疎かならず。
+|^わが% こ の '''ほとけ'''、へん%げ の ひと% と まうしながら、こゝら おほき さま で やしなひたてまつる こころざし% をろか ならず。|rom=Waga ko no '''hotoke''', henge no hito to mōshinagara, kokora ōkisama de yashinai-tatematsuru kokorozashi oroka narazu.|My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.}}
 #* ''c.'' '''890''', ''Taketori Monogatari'' (page 61)<ref name="TTM"/>
-#*: {{ja-usex|あが'''仏'''、何事%思ひたまふぞ。|あ が '''ほとけ'''、なにごと% おもひたまふ ぞ。|rom=A ga '''hotoke''', nanigoto omoitamau zo.|My '''dear''', what on earth are you thinking about?}}
+#*: {{ja-usex|あが'''仏'''、何%事%思ひたまふぞ。|あ が '''ほとけ'''、なに%ごと% おもひたまふ ぞ。|rom=A ga '''hotoke''', nanigoto omoitamau zo.|My '''dear''', what on earth are you thinking about?}}
 # {{lb|ja|religion}} [[Buddhism]]
 #: {{syn|ja|仏法|tr=Buppō}}
 # {{lb|ja|Buddhism}} [[perform]]ing a [[Buddhist]] [[memorial]] [[service]]
@@ -75,6 +75,8 @@ The more traditional explanation still given in Japanese dictionaries is that th
 * {{ja-r|仏%様|ほとけ%-さま}}
 * {{ja-r|仏%心|ほとけ%-ごころ}}
 * {{ja-r|石%仏|いし%ぼとけ}}
+* {{ja-r|金%仏|かな%ぼとけ}}
+* {{ja-r|木%仏|き%ぼとけ}}
 * {{ja-r|喉%仏|のど%ぼとけ}}
 {{der-bottom}}
 
@@ -119,17 +121,20 @@ From {{der|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}
 {{ja-pos|affix|ぶつ}}
 
 # [[Buddha]]
-# [[Buddhism]]
-# [[Buddhist]] [[image]]
+# {{short for|ja|仏教|tr=Bukkyō}} [[Buddhism]]
+# {{short for|ja|仏像|tr=butsuzō}} [[Buddhist]] [[image]]
 
 =====Derived terms=====
 {{der-top3}}
 * {{ja-r|仏%教|^ぶっ%きょう}}
+* {{ja-r|仏%供|ぶっ%く}}
 * {{ja-r|仏%心|ぶっ%しん}}
 * {{ja-r|仏%像|ぶつ%ぞう}}
 * {{ja-r|仏%典|ぶっ%てん}}
 * {{ja-r|仏%法|ぶっ%ぽう}}
 * {{ja-r|活%仏|かつ%ぶつ}}
+* {{ja-r|金%仏|かな%ぶつ}}
+* {{ja-r|木%仏|き%ぶつ}}
 * {{ja-r|成%仏|じょう%ぶつ}}
 * {{ja-r|石%仏|せき%ぶつ}}
 * {{ja-r|大%仏|だい%ぶつ}}
@@ -141,13 +146,15 @@ From {{der|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}
 ===Etymology 3===
 {{ja-kanjitab|yomi=kanon|ふつ}}
 
+Short form of ateji spelling {{m|ja|仏蘭西|tr=Furansu}}.
+
 ====Pronunciation====
 {{ja-pron|ふつ|acc=1|acc_ref=DJR}}
 
 ====Affix====
 {{ja-pos|affix|ふつ}}
 
-# {{short for|ja|sort=ふつ|仏蘭西|t={{place|ja|t=France|country}}}}
+# {{short for|ja|sort=ふつ|フランス|tr=Furansu|dot=:}} [[France]]
 #: {{ja-usex-inline|札幌%日'''仏'''協%会|^さっぽろ% ^にち-'''^ふつ''' ^きょう%かい|The Sapporo Japan-'''France''' Society}}
 
 =====Derived terms=====
@@ -167,4 +174,61 @@ From {{der|ja|ltc|sort=ふつ'|-}} {{ltc-l|佛}}, shortened from {{ltc-l|佛陀}
 ===References===
 <references/>
 
-[[Category:ja:Buddhas]]
+{{C|ja|Buddhas}}
+
+----
+
+==Okinawan==
+{{ryu-kanji forms|仏|佛}}
+
+===Kanji===
+{{ryu-kanji|grade=5|rs=人02|kyu=佛}}
+
+====Readings====
+{{ryu-readings
+|on=ぶち
+|kun=ふとぅき
+}}
+
+===Etymology 1===
+{{ryu-kanjitab|yomi=k|ふとぅき}}
+{{rfe|ryu|sort=ふとうき}}
+
+Cognate with standard {{cog|ja|仏|tr=hotoke}}.
+
+====Pronunciation====
+* {{IPA|ryu|[ɸutuki]|sort=ふとうき}}
+
+====Noun====
+{{ryu-noun|ふとぅき}}
+
+# a [[buddha]]
+# a [[Buddhist]] [[image]] or [[statue]]
+# {{lb|ja|by extension}} a [[kindhearted]] [[person]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|石%仏|いし%ぶとぅき}}
+* {{ja-r|神%仏|かみ%ふとぅき}}
+* {{ja-r|金%仏|かに%ぶとぅき}}
+* {{ja-r|木%仏|き%ぶとぅき}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ryu-kanjitab|yomi=o|ぶち}}
+From {{der|ryu|ltc|sort=ふち'|-}} {{ltc-l|佛}}.
+
+Cognate with standard {{cog|ja|仏|tr=butsu}}.
+
+====Pronunciation====
+* {{IPA|ryu|[but͡ɕi]|sort=ふち'}}
+
+====Proper noun====
+{{ryu-pos|proper|ぶち}}
+
+# [[Buddha]]
+
+=====Derived terms=====
+* {{ryu-r|仏%壇|ぶち%だん}}
+* {{ryu-r|仏%法|ぶっ%ぽー}}
+* {{ja-r|念%仏|にん%ぶち}}, {{ja-r|念%仏|にん%ぶちゃ}}
