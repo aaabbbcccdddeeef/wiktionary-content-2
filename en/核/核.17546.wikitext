@@ -23,7 +23,16 @@
 {{Han compound|木|t1=tree|亥|ls=psc|c1=s|c2=p}} – a kind of tree. Modern meanings are borrowed.
 
 ===Etymology 1===
-Sino-Tibetan: "kernel" > "to investigate". Related to {{zh-l|骸}}; compare {{cog|bo|tr=rag}} and {{cog|mjw|rak}} ({{zh-ref|Schuessler, 2007}}).
+The definitions related to “to examine” come from the “kernel” sense, i.e. “to go to the core” ({{zh-ref|Schuessler, 2007}}).
+
+Generally thought to be of {{der|zh|sit}} origin. It has been compared to {{cog|bo|རག་ཙེ}}, {{cog|mjw|rak}} ({{zh-ref|Gong, 2002}}; {{zh-ref|Schuessler, 2007}}). However, {{zh-ref|Hill (2012)}} rejects the connection to the {{cog|bo|-}} word because most words ending with {{m|bo||ཙེ}} are loanwords from Chinese words ending with the {{zh-l|*子}} suffix.
+
+{{zh-ref|Smith (2011)}} groups this word with the following terms into a word family meaning “root, germ, generative core”:
+
+* {{och-l|荄|id=1|grassroot}} and its derivative {{och-l|根|root}},
+* {{och-l|骸|(human) bones}} (also noted by {{zh-ref|Schuessler, 2007}}), 
+* {{och-l|孩|child}},
+* {{och-l|亥|sprouting stage}}, i.e. "the moon’s first appearance" > "twelfth earthly branch".
 
 ====Pronunciation 1====
 {{zh-forms|alt=𣝗}}
@@ -54,7 +63,7 @@ Sino-Tibetan: "kernel" > "to investigate". Related to {{zh-l|骸}}; compare {{co
 #: {{zh-x|𦧲 返 啲 核{wat6} 出嚟|spit the '''seeds'''/'''pits''' back out|C|ref={{attention|zh|not ultimately from Kaifang Cidian? in the rime-jyutping dictionary as "漯翻啲核出嚟"}}}}
 # {{lb|zh|computing}} [[-core]]
 #: {{zh-also|核心}}
-#: {{zh-x|4核|[[quad-core]]}}
+#: {{zh-x|4--核|[[quad-core]]}}
 # {{lb|zh|physics|chemistry|biology}} [[nucleus]]
 # {{lb|zh|physics}} [[nuclear]]
 # {{lb|zh|math|algebra|linear algebra}} [[kernel]]
@@ -78,8 +87,8 @@ Sino-Tibetan: "kernel" > "to investigate". Related to {{zh-l|骸}}; compare {{co
 =====Definitions=====
 {{zh-hanzi}}
 
-# [[rigorous]]; [[detailed]]; [[reliable]]
 # to [[examine]]; to [[check]]; to [[verify]]
+# [[rigorous]]; [[detailed]]; [[reliable]]
 
 =====Usage notes=====
 * In mainland China, {{l|zh|覈}} is considered a {{w|Variant Chinese character|variant form}} ({{zh-l|異體字|tr=-}}) of <big>核</big> that is simplified to <big>核</big>.
