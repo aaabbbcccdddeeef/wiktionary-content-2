@@ -595,7 +595,7 @@ See [[#Translingual|Translingual section]].
 
 # {{non-gloss definition|A [[letter]] of the Fula [[alphabet]], written in the [[Appendix:Latin script|Latin script]].}}
 
-====Usage notes====
+=====Usage notes=====
 * {{U:ff:common}}
 
 ====See also====
@@ -610,7 +610,7 @@ See [[#Translingual|Translingual section]].
 # [[and]]
 # [[with]]
 
-====Usage notes====
+=====Usage notes=====
 * {{U:ff:common}}
 * In writing, some add an "h" before and even also after the "e": ''he'',''heh''. Not sure these would count as variants.
 
@@ -807,15 +807,15 @@ See [[#Translingual|Translingual section]].
 
 # {{Latn-def|ig|letter|5}}
 
-===Etymology 1===
+===Etymology===
 
 ====Alternative forms====
 * [[a#Igbo|a]] (''retracted tongue position'')
 
-====Pronunciation====
+===Pronunciation===
 * {{IPA|ig|/e/}}
 
-====Pronoun====
+===Pronoun===
 {{ig-pos|pronoun|e}}
 
 # {{lb|ig|indefinite}} [[somebody]], [[one]], [[they]], [[people]] (an unspecified individual).
@@ -1189,14 +1189,14 @@ From {{der|mfe|fr|et}}.
 
 ===Etymology 1===
 
-===Noun===
+====Noun====
 {{head|enm|noun}}
 
 # {{alt form|enm|æ}}
 
 ===Etymology 2===
 
-===Pronoun===
+====Pronoun====
 {{head|enm|pronoun}}
 
 # {{alt form|enm|I|t=I|id=I}}
@@ -1284,12 +1284,12 @@ From {{inh|nap|la|et}}
 
 ==Norwegian==
 
+===Etymology===
+See [[#Translingual|Translingual section]].
+
 ===Pronunciation===
 * {{s|letter name}} {{IPA|no|/eː/}}
 * {{s|phoneme}} {{IPA|no|/eː/|/e/|/ɛ/|/ə/|/æ/}}
-
-===Etymology===
-See [[#Translingual|Translingual section]].
 
 ===Letter===
 {{head|no|letter}}
@@ -1317,13 +1317,13 @@ See [[#Translingual|Translingual section]].
 
 ==Norwegian Nynorsk==
 
-===Pronunciation===
-* {{IPA|nn|/eː/|/e/|/ɛ/|/ə/|/æ/}}
-
 ===Etymology===
 From {{inh|nn|non|er}}.
 
-====Verb====
+===Pronunciation===
+* {{IPA|nn|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+
+===Verb===
 {{nn-verb-form}}
 
 # {{lb|no|dialectal|colloquial}} {{apocopic form of|nn|er}}, {{present tense of|nn|vera}}
@@ -1337,7 +1337,7 @@ From {{inh|nn|non|er}}.
 
 # {{n-g|Used to link a possessed noun to its possessor.}}
 
-===Usage notes===
+====Usage notes====
 This particle accompanies several tonal changes, as well as a simplification or elision of the coda of the possessed noun in some cases. Many nouns can be linked directly in possessive constructions without using this particle, chiefly those that denotes humans or animals when used in the singular, although it is impossible to predict exactly which nouns will follow which pattern based on semantics, ancestral noun class, or morphology.
 
 ===Further reading===
@@ -1463,7 +1463,7 @@ From {{inh|osp|la|et}}, from {{der|la|ine-pro|*éti}}.
 ===Etymology 1===
 From {{der|pap|pt|ele}} and {{der|pap|es|él}} and {{der|pap|kea|el}}.
 
-===Pronoun===
+====Pronoun====
 {{head|pap|pronoun}}
 
 # [[he]], [[she]], third person singular.
@@ -1959,7 +1959,7 @@ See [[#Translingual|Translingual section]].
 # {{lb|sv|colloquial|Internet slang|text messaging}} {{pronunciation spelling of|sv|är}}
 #* {{quote-song|sv|text=Går runt i t-shirt och '''e''' trött|date=17 jan. 2014|author=Veronica Maggio|title=Hela huset ft. Håkan Hellström|url=https://www.youtube.com/watch?v=nPUtRUoW_Qc|translation=Walking tired around in a t-shirt}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|sv|due}}
 
 ===Etymology 3===
@@ -2191,7 +2191,7 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 
 # {{Latn-def|cy|letter|7|e}} ''It is preceded by {{l|cy|dd}} and followed by {{l|cy|f}}.''
 
-====Derived terms====
+=====Derived terms=====
 * Digraph sequences: {{l|cy|ei}}, {{l|cy|eu}}, {{l|cy|ew}}, {{l|cy|ey}}
 
 =====Mutation=====
@@ -2225,7 +2225,7 @@ Reduction of literary {{m|cy|ef}}
 
 # [[he]], [[him]]
 
-====Usage notes====
+=====Usage notes=====
 ''E'' is used predominantly in the south of Wales, while {{m|cy|o}} is used in the north, with {{m|cy|fe}} and {{m|cy|fo}} as variants of {{m|cy||e}} and {{m|cy|o}} respectively. In formal Welsh, the equivalent pronoun is {{m|cy|ef}}.
 
 ----
