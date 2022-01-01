@@ -17,13 +17,15 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=捡|alt=揀,拣-second round simplified}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|手|僉|ls=psc|c1=s|c2=p|t1=hand}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|s=捡|alt=檢,揀,拣-second round simplified}}
+
+====Pronunciation====
 {{zh-pron
 |m=jiǎn
 |c=gim2
@@ -32,16 +34,16 @@
 |mn=kiám
 |mn-t=giam2
 |w=
-|mc=y
-|oc=y
+|mc=n
+|oc=2
 |cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{zh-o}} to [[restrain]]; to [[constrain]]
-# {{zh-o}} to [[investigate]]
+# {{zh-o}} {{zh-alt-lb|檢}} to [[restrain]]; to [[constrain]]
+# {{zh-o}} {{zh-alt-lb|檢}} to [[investigate]]
 # to [[pick up]]; to [[collect]]
 #: {{zh-x|撿 柴|to collect firewood}}
 #: {{zh-x|他 剛剛 在 路 上 撿 到 一百 塊 錢。|He picked up $100 off the ground just now.}}
@@ -51,8 +53,25 @@
 ====Synonyms====
 {{zh-dial|拿}}
 
-===Compounds===
+====Compounds====
 {{zh-der|撿場|撿了芝麻，丟了西瓜|撿洋落兒|你丟我撿|撿現成|撿便宜|撿字紙|撿骨|撿漏|挑撿|撿拾|撿金|撿起|撿破爛|撿柴}}
+
+===Etymology 2===
+{{zh-forms|s=捡}}
+
+====Pronunciation====
+{{zh-pron
+|m=liǎn
+|c=
+|mc=y
+|oc=1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
 
 {{zh-cat|Elementary}}
 
