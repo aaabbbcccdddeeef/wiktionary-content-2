@@ -10,46 +10,80 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=㳄,㵪,㳭,湺,𣵿,𠿢}}
 
 ===Glyph origin===
 {{Han etym}}
+{{Han compound|水|延|ls=psc|c1=s|c2=p|t1=water}}.
 
-===Pronunciation 1===
+===Etymology 1===
+{{zh-forms|alt=㳄,㵪,唌,㳭,湺,𣵿,𠿢}}
+Probably {{der|zh|sit}}; compare {{cog|cvg|har||phlegm}}, {{cog|lsh|hahal||phlegm}}, Rupa {{cog|sdp|nəkʰɔ̃ː||phlegm}}, {{cog|sit-jap|tɯɴɢar||sputum}} ({{zh-ref|Bodt, 2021}}). {{zh-ref|Schuessler (2007)}}, who reconstructs the {{cog|och|-}} minimally as {{m|und|*(s-)lan}}, compares it to {{cog|bo|tr=zlan|t=moisture}}.
+
+Alternatively, {{zh-ref|Schuessler (2007)}} relates it to {{cog|th|น้ำลาย}}, which is derived from {{cog|tai-pro|*laːjᴬ||saliva}}.
+
+Possibly related to {{och-l|羨|id=2|to envy}} ({{zh-ref|Wang, 1982}}; also cf. {{zh-ref|Baxter and Sagart, 2014}}).
+
+====Pronunciation====
 {{zh-pron
 |m=xián
 |m-s=xuan2
 |c=jin4
-|h=pfs=lân
+|c-t=
+|g=
+|h=
 |j=han1
+|mb=
+|md=
 |mn=siân/twv:iân
-|mn-t=ieng6/iang6
-|w=3xxi
-|mc=y
-|oc=y
+|mn-t=iêng6/iang6
+|w=3hhi
+|x=
+|mc=1
+|oc=y,1
 |cat=n
 }}
-
-{{attention|hak|please check - L initial?}}
 
 ====Definitions====
 {{zh-hanzi}}
 
 # [[saliva]]
 
-=====Compounds=====
+=====Synonyms=====
+{{zh-dial|口水}}
+
+====Compounds====
 {{zh-der|垂涎|刮涎|垂涎三尺|垂涎欲滴|涎涎鄧鄧|涎言涎語|涎皮賴臉|涎臉涎皮|涎尾|涎鄧鄧|涎臉|染指垂涎|流涎|涎水|涎瞪瞪|涎沫|流涎症|野狐涎|饞涎欲垂|饞涎欲滴|龍涎香|黏涎子|饞涎|頑涎|龍涎}}
 
-===Pronunciation 2===
+===Etymology 2===
+
+====Pronunciation====
 {{zh-pron
 |m=yàn
-|cat=adj
+|mc=2
+|oc=n,2
+|cat=
 }}
 
 ====Adjective====
-{{head|zh|adjective}}
+{{zh-hanzi}}
 
-# [[glossy]]; [[shiny]] (only in {{l|zh||涎涎}})
+# {{zh-only|湎涎}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=diàn,yàn
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|涎涎}}
+
+===Etymology 4===
+{{zh-see|瀾||[[saliva]]}}
 
 ----
 
