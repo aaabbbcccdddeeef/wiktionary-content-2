@@ -59,6 +59,7 @@
 
 ===Etymology 1===
 {{ja-kanjitab|ぬ|yomi=k}}
+
 From {{inh|ja|ojp|-|sort=ぬ}}. Root of the {{cog|ojp|-}} verb {{m|ja|ぬる|tr=nuru|t=to become loose; to become wet}} and modern {{cog|ja|濡れる|tr=nureru|t=to become wet}}, adverb {{m|ja|ぬるぬる|tr=nurunuru|t=loosely; lukewarmly; oozingly}}.
 
 May be cognate with {{cog|ko|늪|t=swamp, bog, marsh}}, Ainu {{m|ain|nup|t=flat land, plain; [[fen]]}}, {{cog|mn|нам|t=low-lying}}, {{m|mn|намаг|t=swamp, bog, marsh}}, {{m|mn|норох|t=to become wet}}.
@@ -66,7 +67,7 @@ May be cognate with {{cog|ko|늪|t=swamp, bog, marsh}}, Ainu {{m|ain|nup|t=flat 
 Generally only used in compounds in modern {{cog|ja|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|y=k|ぬ}}
+{{ja-pron|ぬ}}
 
 ====Noun====
 {{ja-noun|ぬ}}
@@ -84,26 +85,26 @@ Generally only used in compounds in modern {{cog|ja|-}}.<ref name="KDJ">{{R:Koku
 <div style="float:right;">
 {{wikipedia|lang=ja}}
 {{wikipedia|Marsh}}
-[[File:Beautiful_marsh_wetland_landscape.jpg|thumb|250px|{{lang|ja|沼}} (''numa''): a '''[[marsh]]''', a '''[[wetland]]'''.]]
+[[File:Beautiful_marsh_wetland_landscape.jpg|thumb|250px|{{m|ja|沼|tr=numa}}: a '''[[marsh]]''', a '''[[wetland]]'''.]]
 </div>
 {{ja-kanjitab|ぬま|yomi=k}}
+
 Appears to be a compound of {{compound|ja|sort=ぬま|沼|tr1=nu|t1=swamp|間|tr2=ma|t2=space, area}}.
 
-===Alternative forms===
-* {{sense|inescapable pit of addiction}} {{q|emphatic}} {{ja-r|深沼|ふかぬま}}
-
 ====Pronunciation====
-{{ja-pron|yomi=k|acc=o|acc_ref=NHK,DJR|ぬま}}
+{{ja-pron|ぬま|acc=2|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|ぬま}}
 
 # a [[swamp]], a [[bog]], a [[marsh]], a [[wetland]]
-# {{lb|ja|slang}} [[inescapable]] [[pit]] of [[addiction]] ({{ja-r|ハマり|rom=-}}) to [[game]]s, etc.
+# {{lb|ja|slang}} [[inescapable]] [[pit]] of [[addiction]] to [[game]]s, etc.
+#: {{synonyms|ja|深沼|tr1=fukanuma}}
 
 =====Derived terms=====
 {{der-top}}
 * {{ja-r|鹿%沼|^か%ぬま}}: [[w:Kanuma, Tochigi|Kanuma, Tochigi]]
+* {{ja-r|深沼|ふかぬま|inescapable pit of addiction|lit=deep bog}} 
 {{der-bottom}}
 
 =====See also=====
@@ -111,6 +112,7 @@ Appears to be a compound of {{compound|ja|sort=ぬま|沼|tr1=nu|t1=swamp|間|tr
 
 ===Etymology 3===
 {{ja-kanjitab|しょう|yomi=o}}
+
 {{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕʲoː/}}
 
 From {{der|ja|ltc|sort=しよう|沼|tr=tsyew<sup>X</sup>||swamp}}. Compare modern {{cog|cmn|沼|tr=zhǎo}}.
@@ -118,7 +120,7 @@ From {{der|ja|ltc|sort=しよう|沼|tr=tsyew<sup>X</sup>||swamp}}. Compare mode
 Only ever used in compounds.
 
 ====Pronunciation====
-{{ja-pron|yomi=o|しょう}}
+{{ja-pron|しょう}}
 
 ====Affix====
 {{ja-pos|affix|しょう|hhira=せう}}
