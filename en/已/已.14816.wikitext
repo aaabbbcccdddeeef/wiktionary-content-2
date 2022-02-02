@@ -25,9 +25,6 @@ This character is not to be confused with visually similar but unrelated {{l|mul
 ===Glyph origin===
 It represents either a snake or a fetus (it cannot be found in the Shuowen Jiezi). The character is almost identical to 巳 sì.
 
-===Etymology===
-Etymology not clear ({{zh-ref|Schuessler, 2007}}).
-
 ===Pronunciation===
 {{zh-pron
 |m=yǐ
@@ -44,19 +41,35 @@ Etymology not clear ({{zh-ref|Schuessler, 2007}}).
 |x=
 |mc=y
 |oc=y
-|cat=adv
+|cat=v,adv
 }}
 
-===Definitions===
+===Etymology 1===
+Etymology not clear ({{zh-ref|Schuessler, 2007}}).
+
+====Definitions====
 {{zh-hanzi}}
 
 # to [[stop]]; to [[finish]]
-#* {{zh-x|此 水 幾時 休，此 恨 何時 已。|When will the river cease to flow? When will this brooding '''end'''?||Ci|ref='''Song Dynasty''', {{w2|zh|李之儀}}, {{lang|zh|《卜算子·我住長江頭》}}}}
+#* {{zh-x|任 重 而 道 遠。仁 以為 己 任，不 亦 重 乎？死 而後 已，不 亦 遠 乎？|ref=Lunyu|[His] duty is heavy and [his] way is far. He takes benevolence to be his duty; is that not heavy indeed? [His duty] ''' is completed''' [only] when he dies; is that not far indeed?}}
+#* {{zh-x|此 水 幾時 休，此 恨 何時 已。|When will the river cease to flow? When will this brooding '''end'''?|CL|ref='''Song Dynasty''', {{w2|zh|李之儀}}, {{lang|zh|《卜算子·我住長江頭》}}}}
 # [[already]]; [[have]] [[done]] something
+#* {{zh-x|年 已 七十 矣。|He was '''already''' seventy years old.|ref=Mencius}}
+#* {{zh-x|若 已 食 則 退，若 未 食 則 佐 長者 視 具。| If they '''have''' eaten '''already''', they should retire; if they have not eaten, they will [remain to] assist their elder [brothers and sisters] and see what has been prepared.|ref=Liji}}
 #* {{zh-x|情義 已 失去，恩愛 都 失去|Friendship has '''already''' gone, and all of the love is gone|C-LIT|ref='''1983''', {{w2|zh|陳百強}}, {{w2|zh|pref=《|偏偏喜歡你 (專輯)|偏偏喜歡你|suf=》}}}}
 
 ====Synonyms====
 {{zh-dial|已經}}
+
+===Etymology 2===
+Possibly a fusion of {{och-l|也}} and {{och-l|矣}}, explaining why the latter is never found after the former ({{zh-ref|Pulleyblank, 1995}}).
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Classical}} {{n-g|Used after [[predicate]]s, especially noun predicates, to express a new realization by the speaker. Compare {{zh-l|矣}}, which is used similarly but only after verbs. Sometimes expanded to {{zh-l|也已}} or {{zh-l|也已矣}}, which are synonymous.}}
+#* {{zh-x|然則 王 之 所 大 欲 可 知 已。| Then, what your Majesty greatly desires may be known.|ref=Mencius}}
+#* {{zh-x|入 其 境，其 田疇 穢，都邑 露，是 貪 主 已 。|If, upon entering the borders, the fields are in poor condition and the towns are exposed, '''one can tell''' that this is the [realm of] a covetous ruler.|ref=Xunzi}}
 
 ===Compounds===
 {{zh-der|已故|已婚|已經|已然|已往|已知數|喋喋不已|不已|大勢已去|悶悶不已|已矣|已去|低徊不已|已還|不為已甚|已而|已定|大局已定|墓木已拱|已決|已而不登|不得已|大勢已定|勢不得已|一夔已足|必不得已|情非得已|壯心不已|已甚|不能自已|無已|斃而後已|生生不已|萬不得已|業已|為時已晚|日已銜山|病已成勢|方寸已亂|有加無已|死而後已|早已|木已成舟|而已|逼不得已|芳魂已杳|羽翼已成|羽翮已就|米已成炊|誅求無已|諾已|貪求無已|迫不得已|紛爭不已}}
