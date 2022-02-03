@@ -504,7 +504,7 @@ From {{inh|rhg|sa|चन्द्र}}; cognate with {{cog|bn|চাঁদ}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{m|gd|anns}} + {{m|gd|an}}, from {{inh|gd|sga|[[issin]][[issind|(d)]]}}, from {{inh|gd|cel-pro|*[[in]] [[sindū]]/[[sindai]]|t=in the {{g|m-s}}/{{g|f-s}} {{n-g|dative}}}} and {{m|cel-pro|*[[in]] [[sindom]]/[[sindam]]|t=into the {{g|m-s}}/{{g|f-s}} {{n-g|accusative}}}}.
+From {{inh|gd|mga|isind|(i)sind}}, {{m|mga|isin|(i)sin}}, from {{inh|gd|sga|isind|isin(d/t)|in the {{g|m|f|n-s}} {{n-g|dative}}}}, {{m|sga|isin|t=into the {{g|m|f-s}} {{n-g|accusative}}}}, {{m|sga|isa|t=into the {{g|n-s}} {{n-g|accusative}}}}.
 
 ===Preposition===
 {{head|gd|preposition}}
@@ -516,13 +516,20 @@ From {{m|gd|anns}} + {{m|gd|an}}, from {{inh|gd|sga|[[issin]][[issind|(d)]]}}, f
 #: {{uxi|gd|'''san''' [[achadh]] [[buan|bhuan]]|'''in the''' harvest field}}
 
 ====Usage notes====
-* This form is '''''not''''' used before nouns beginning with '''b''', '''c''', '''g''', '''m''' or '''p''', where [[sa#Scottish Gaelic|sa]] is used instead.
-* If followed by '''f''', the '''f''' is [[lenite]]d.
-*: ''facal'' - word
-*: '''''san''' fhacal'' - in the word
+* This form is '''''not''''' used before nouns beginning with '''b''', '''c''', '''g''', '''m''' or '''p''', where {{m|gd|sa}} is used instead.
+* If followed by '''f''', the '''f''' is [[lenite]]d:
+*: ''facal'' - word,
+*: '''''san''' fhacal'' - in the word.
+* Often understood to be a contraction of {{m|gd|[[anns]] [[an]]}}, but the forms ''san, sa'' were in common use by the 12th century and accepted in Classical Gaelic poetry while ''anns'' is a later innovation with the ''-n-'' reintroduced by analogy.
 
 ====Related terms====
 * {{l|gd|ann an}}
+* {{l|gd|anns}}
+
+===References===
+* {{R:ga:IGT i|17||67}}
+* {{R:ga:BST|113||Before pl. art. ''i n-'' gives ''is na'', ''’sna''; in such cases ''a h-'' gives ''as na''. (…) Before sg. art. ''i n-'' is ''isin, san'' (often ''sa'' before consonants).}}
+* {{R:DIL|26891|head=i}}
 
 ----
 
