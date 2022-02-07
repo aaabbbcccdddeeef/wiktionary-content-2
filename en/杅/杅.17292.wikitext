@@ -34,15 +34,13 @@
 
 ==Japanese==
 
-===Kanji===
-{{ja-kanji|grade=|rs=木03}}
+In mathematics, a '''limit''' is the value that a function (or sequence) approaches as the input (or index) approaches some value. Limits are essential to calculus and mathematical analysis, and are used to define continuity, derivatives, and integrals.
 
-# [[tub]]
+The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net, and is closely related to limit and direct limit in category theory.
 
-====Readings====
-* {{ja-readings|on=[[う]] (u)|kun=[[ゆのみ]] (yunomi)}}
+In formulas, a limit of a function is usually written as
 
-----
+\lim_{x \to c} f(x) = L,
 
 ==Korean==
 
