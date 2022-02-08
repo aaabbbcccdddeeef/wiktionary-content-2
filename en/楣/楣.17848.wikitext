@@ -43,7 +43,7 @@
 {{ja-readings
 |goon=み
 |kanon=び
-|kun=かもい, ひさし
+|kun=かもい, ひさし, まぐさ
 }}
 
 ====Compounds====
@@ -51,26 +51,26 @@
 * {{ja-r|楣%式 構造|び%しき こうぞう}}
 * {{ja-r|門楣|もんび}}
 
-===Alternative forms===
-{{ja-kanjitab|まぐさ|yomi=k}}
-* {{ja-l|目草}}
-
 ===Etymology===
-Compound of {{compound|ja|sort=まくさ|目|tr1=ma|pos1=combining form of ''me'', "[[eye]]"|草|tr2=kusa|t2=[[grass]]}}.
+{{ja-kanjitab|yomi=k|まぐさ|alt=目草}}
 
-{{rendaku2|kusa|gusa|sort=まくさ}}
+From {{inh|ja|ojp|sort=まぐさ|-}}.  First cited to a text from 762.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+Compound of {{compound|ja|sort=まくさ|目|tr1=ma|pos1=combining form of ''me'', “[[eye]]; [[opening]]”|種|tr2=kusa|t2=[[material]], [[piece]]|pos2=also spelled {{m|ja|草}} in various compounds}}.<ref name="KDJ2"/><ref name="DDJS">{{R:Digital-Daijisen|楣目草}}</ref><ref name="DJR"/>  {{rendaku2|kusa|gusa|sort=まくさ}}
 
 ===Pronunciation===
-{{ja-pron|y=k|まぐさ|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
+{{ja-pron|まぐさ|acc=0|acc2=3|acc_ref=DJR|acc2_ref=DJR}}
 
 ===Noun===
 {{ja-noun|まぐさ}}
 
-# {{lb|ja|architecture|sort=まくさ}} a [[lintel]] lacking [[groove]]s needed for a [[sliding door]]
+# {{defdate|from 762}} {{lb|ja|sort=まぐさ|architecture|construction|carpentry}} a [[lintel]]
+#: {{hyponyms|ja|鴨居|tr1=kamoi|t1=a lintel with grooves for a [[sliding window]] or [[sliding door|door]]|無目|tr2=mume|t2=a lintel lacking [[groove]]s for a [[sliding window]] or [[sliding door|door]]|蹴放|tr3=kehanashi|t3=[[lower]] [[door]] lintel|lit3=kick-off|窓台|tr4=madodai|t4=lower [[window]] lintel}}
+#: {{hypernyms|ja|横材|tr1=yokozai|t1=[[crossbeam]], [[crosspiece]]|横架材|tr2=ōkazai|t2=[[crossbeam]], [[crosspiece]]|水平材|tr3=suiheizai|t3=[[horizontal]] [[support]], [[crosspiece]]|横木|tr4=yokogi|t4=[[wooden]] [[crosspiece]]}}
 
 ====Derived terms====
-* {{ja-r|楣 石|まぐさ いし}}
-* {{ja-r|楣%式 構造|まぐさ%-しき こうぞう}}
+* {{ja-r|楣 石|まぐさ いし|a lintel [[stone]]}}
+* {{ja-r|楣%式 構造|まぐさ%-しき こうぞう|[[trabeated]] [[construction]]}}
 
 ===References===
 <references/>
