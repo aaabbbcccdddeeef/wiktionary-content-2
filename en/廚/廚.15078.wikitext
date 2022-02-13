@@ -20,43 +20,63 @@
 {{Han etym}}
 {{Han compound|广|尌|c1=s|c2=p|ls=psc}}.
 
-===Etymology===
-; Internet slang
-: {{wasei kango|厨|-ちゅう}}.
+===Etymology 1===
+{{rfe|zh}}
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=chú
+|m-s=cu2
 |c=cyu4,ceoi4,cyu4-2,ceoi4-2
 |c_note=cyu4-2, ceoi4-2 - “cook; chef”
-|h=pfs=chhù
+|c-t=cui3,cui3*
+|c-t_note=cui3* - “cook; chef”
+|g=qy2
+|h=pfs=chhù;gd=cu2
+|j=cu1
+|mb=dṳ̂
 |md=duò
 |mn=tô͘/tû
 |mn_note=tô͘ - vernacular; tû - literary
 |mn-t=dou5
+|w=3zr
+|x=jy2
 |mc=y
 |oc=y
 |cat=n,suffix
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[kitchen]]
 # {{lb|zh|Cantonese}} [[cook]]; [[chef]]
 #: {{zh-x|我 細佬 做 廚{cyu4-2} 㗎。|My younger brother is a '''cook'''.|C}}
 # {{zh-original|櫥|[[closet]]; [[cupboard]]}}
-# {{lb|zh|Internet slang|ACG}} someone who is zealously enthusiastic about something
-#: {{zh-x|@^nico 廚|{{w|Niconico}} '''addict'''}}
 
-====Synonyms====
+=====Synonyms=====
 {{zh-dial|廚師}}
 
-===Compounds===
+====Compounds====
 {{zh-der|入廚|廚房|廚具|廚娘|廚師|廚灶|廚子|八廚|天廚|中廚|大廚|廚夫|下廚|庖廚|廚餘|廚人|幫廚|廚下|女廚|御廚|名廚|書廚|監廚|當廚|墨廚|郇廚|紗廚|行廚|廚下兒|廚養臣|香積廚|碧紗廚|瓊廚金穴|廚頭灶腦|兵廚之擾|立地書廚|有腳書廚|仙廚|俊廚|俊廚顧及|僧廚|內廚|內廚房|公廚|兵廚|冰廚|堂廚|壁廚|外廚|宮廚|家廚|山廚|幕府書廚|廚俊|廚倉|廚傳|廚兵|廚司|廚吏|廚宰|廚帳|廚廩|廚役|廚戶|廚珍|廚監|廚箑|廚簏|廚膳|廚船|廚萐|廚車|廚食錢|廚饌|廚饎|掌廚|東廚|校尉廚|櫻筍廚|洗廚|湯廚|甘露廚|神廚|私廚|移廚|籤廚|胞廚|蚊廚|行書廚|設廚|試廚|豐廚|貧廚|造廚|郇公廚|郇國廚|開廚|馗廚|香廚|齋廚}}
 
-===Descendants===
+====Descendants====
 {{CJKV||s=厨|ちゅう}}
+
+===Etymology 2===
+{{wasei kango|厨|-ちゅう}}.
+
+====Pronunciation====
+{{zh-pron
+|m=chú
+|cat=suffix
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Internet slang|ACG}} someone who is zealously enthusiastic about something
+#: {{zh-x|@^nico 廚|{{w|Niconico}} '''addict'''}}
 
 ===References===
 * {{R:yue:Hanzi}}
