@@ -1,9 +1,16 @@
 ==Japanese==
 
 ===Etymology===
-Borrowed from {{bor|ja|en||main page}}. {{attention|ja|verify}}
+Borrowed from {{bor|ja|en||main page}}.
 
 ===Noun===
 {{ja-noun}}
 
-# [[main]] [[page]]
+# {{lb|ja|frequently|_|computing}} [[main]] [[page]]
+#: {{ja-usex|ウィクショナリーの'''メインページ'''|^ウィクショナリー の '''メインページ'''|Wiktionary '''Main Page'''}}
+#* {{quote-book|ja|2003||Web jōhō no ākitekucha||78|trans-title=Web information architecture|pageurl=https://books.google.com/books?id=wAT8RB3Jkd0C&pg=PA78}}
+#*: {{ja-usex|ユーザーとサイトの会%話は、普%通サイトの'''メインページ'''から始まります。その会%話がどれだけうまくいくかを察%知するには、サイトの'''メインページ'''を見て自%問してみてください。「このページで目%立っているラベルは自%分が見ても突%出した印%象を受けるのだろうか?、もしそうなら、それはなぜだろう?」|ユーザー と サイト の かい%わ は、 ふ%つう サイト の '''メインページ''' から はじまります。 その かい%わ が どれだけ うまく いく か を さっ%ち する に は、 サイト の '''メインページ''' を みて じ%もん して みて ください。 「この ページ で め%だっている ラベル は じ%ぶん が みて も とっ%しゅつ した いん%しょう を うける の だろう か?、もし そう なら、 それ は なぜ だろう?」|The conversation between user and site typically begins with the site’s '''main page'''. To see how well that conversation is going, try looking at the '''main page''' and asking yourself, “Do the labels that stand out on this page make an impression? If so, how?”}}
+#* {{quote-book|ja|2013|Shimizu Haruki|Android apuri kaihatsu||312|trans-title=Android app development|pageurl=https://books.google.com/books?id=PtMaOKkcV3MC&pg=PA312}}
+#*: {{ja-usex|図 1 実%験%用アプリ。左から'''メインページ'''、第 1 のページ、第 2 のページ。|ず 1 じっ%けん% よう アプリ。 ひだり から '''メインページ'''、 だい いち の ページ、だい に の ページ。|Fig. 1. Test app. From left: '''main page''', first page, second page.}}
+#* {{quote-book|ja|2016|Maeda Gō|Nyūmon Redmine||260|edition=5th|trans-title=Introduction to Redmine|pageurl=https://books.google.co.jp/books?id=Rj_hDQAAQBAJ&pg=PA260}}
+#*: {{ja-usex|'''メインページ'''は Wiki の起点となるページであり、プロジェクトメニューの Wiki をクリックすると最初に表示されるページです。|'''メインページ''' は Wiki の きてん と なる ページ であり、 プロジェクト メニュー の Wiki を クリック する と さいしょ に ひょうじ される ページ です。|The '''main page''' is the starting page for the Wiki, the first page shown when you click the Wiki project menu.}}
