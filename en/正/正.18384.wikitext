@@ -199,13 +199,6 @@ See {{section link|正/derived terms#Chinese_pronunciation_2}}.
 ====Compounds====
 See {{section link|正/derived terms#Japanese}}.
 
-===Numeral===
-{{ja-kanjitab|せい|yomi=kanon}}
-{{ja-pos|numeral|せい}}
-
-# A number of ten-[[duodecillion]](10<sup>40</sup>) in modern Japanese since 17th century.
-# 5, as tally marks. Similar to four vertical lines followed by a slanted horizontal line crossing through them, this character is used to count to 5 stroke by stroke. Thus this kanji written up to the third stroke represents 3. After the fifth and final stroke, when this character is completed, one starts writing this character again to count to higher numbers.
-
 ====Derived terms====
 {{der-top3}}
 * {{ja-r|正%史|せい%し}}
@@ -234,8 +227,28 @@ See {{section link|正/derived terms#Japanese}}.
 * {{ja-r|正%論|せい%ろん}}
 {{der-bottom}}
 
-===Prefix===
+===Etymology 1===
+{{ja-kanjitab|せい|yomi=kanon}}
+
+====Noun====
+{{ja-noun|せい}}
+
+# [[correctness]]
+
+====Pronoun====
+{{ja-pos|pronoun|せい}}
+
+# {{ja-def|生}} {{lb|ja|humble}} [[I]] or [[me]], the [[first person singular]] (used by males)
+
+====Numeral====
+{{ja-pos|numeral|せい}}
+
+# A number of ten-[[duodecillion]](10<sup>40</sup>) in modern Japanese since 17th century.
+# 5, as tally marks. Similar to four vertical lines followed by a slanted horizontal line crossing through them, this character is used to count to 5 stroke by stroke. Thus this kanji written up to the third stroke represents 3. After the fifth and final stroke, when this character is completed, one starts writing this character again to count to higher numbers.
+
+===Etymology 2===
 {{ja-kanjitab|しょう|yomi=goon}}
+====Prefix====
 {{ja-pos|prefix|しょう}}
 
 # {{lb|ja|history|sort=しょう}} "[[senior]]" [[ranking]] for {{m|ja|位|tr=-i||Japanese courtier rank}}
@@ -245,12 +258,19 @@ See {{section link|正/derived terms#Japanese}}.
 #:{{ja-x|[[w:ja:正九位|正%九%位]]|しょう%く%い|senior rank 9}}
 # {{ja-def|正}} [[exactly]] (of a number)
 
-===Adjective===
+====Adjective====
 {{ja-adj|しょう|infl=na}}
 
 # [[proper]]; [[straight]], [[direct]]; [[genuine]], [[true]]
 
-===Proper noun===
+====Numeral====
+{{ja-kanjitab|しょう|yomi=o}}
+{{ja-pos|numeral|しょう}}
+
+# ten-[[duodecillion]](10<sup>40</sup>)
+
+===Etymology 3===
+====Proper noun====
 {{ja-kanjitab|ただし|yomi=nanori}}
 {{ja-kanjitab|まさし|yomi=nanori}}
 {{ja-pos|proper|まさし|ただし}}
@@ -258,12 +278,6 @@ See {{section link|正/derived terms#Japanese}}.
 # {{given name|ja|male|sort=ただし}}
 
 [[Category:Japanese numeral symbols|10^40]]
-
-===Numeral===
-{{ja-kanjitab|しょう|yomi=o}}
-{{ja-pos|numeral|しょう}}
-
-# ten-[[duodecillion]](10<sup>40</sup>)
 
 ----
 
