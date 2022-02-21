@@ -152,17 +152,40 @@ From {{inh|zh|sit-pro|*kak||expensive; at its peak}} (STEDT). Cognate with {{och
 |{{ja-r|極%悪|ごく%あく}}
 }}
 
-===Number===
-{{ja-pos|numeral|ごく}}
+===Etymology 1===
+{{ja-kanjitab|ごく|yomi=goon}}
 
-# A number of 10<sup>48</sup> in modern Japanese since 17th century.
+====Pronunciation====
+{{ja-pron|ごく|acc=1}}
 
-===Adverb===
+====Adverb====
 {{ja-pos|adverb|ごく}}
 
 # [[very]], [[extremely]]
-#: {{ja-usex|'''ごく'''稀に|'''ごく'''-まれ に|very rarely; seldom}}
-#: {{ja-usex|'''ごく'''普通|'''ごく'''-ふつう|very ordinary}}
+#: {{ja-usex|'''ごく'''稀に|'''ごく''' まれ に|'''very''' rarely; seldom}}
+#: {{ja-usex|'''ごく'''普通|'''ごく''' ふつう|'''very''' ordinary}}
+#: {{ja-usex|'''ごく'''限られた人|'''ごく''' かぎられた ひと|a '''very''' limited group of people}}
+
+=====Usage notes=====
+This word is usually written in hiragana.
+
+====Number====
+{{ja-pos|numeral|ごく}}
+
+# {{defdate|from 1627}} 10<sup>48</sup>, [[quindecillion]]
+
+===Etymology 2===
+{{ja-kanjitab|きょく|yomi=kanon}}
+
+====Pronunciation====
+{{ja-pron|きょく|acc=1}}
+
+====Noun====
+{{ja-noun|きょく}}
+
+# [[extreme]], [[extremity]], [[height]], [[zenith]]
+#: {{ja-usex|疲労困憊の'''極'''に達する|ひろう こんぱい の '''きょく''' に たっする|to reach the highest level of fatigue; to become extremely exhausted}}
+# {{lb|ja|physics|astronomy|geometry}} [[pole]]
 
 [[Category:Japanese numeral symbols|10^48]]
 
