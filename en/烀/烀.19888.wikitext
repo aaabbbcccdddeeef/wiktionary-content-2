@@ -2,27 +2,56 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=86|rad=火|as=05|sn=9|four=|canj=FHFD|ids=⿰火乎}}
+{{Han char|rn=86|rad=火|as=05|sn=9|four=92849|canj=FHFD|ids=⿰火乎}}
 
-====References====
-* {{Han ref|kx=0669.101|hdz=32196.050|uh=70C0|ud=28864}}
+===Further reading===
+{{Han ref|kx=0669.101|hdz=32196.050|uh=70C0}}
 
 ----
 
 ==Chinese==
 {{zh-forms}}
 
+===Glyph origin===
+{{Han compound|火|乎|c1=s|c2=p|t1=fire|ls=psc}}.
+
 ===Pronunciation===
 {{zh-pron
 |m=hū
 |c=fu1
-|mc=
-|oc=
-|ma=
+|mc=y
+|oc=y
 |cat=v
 }}
 
 ===Definitions===
-{{zh-hanzi}}
+{{head|zh|Han character}}
 
-# [[simmer]]
+# to [[simmer]]
+
+===References===
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List, p. 147]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|삶다|삶을|호}}
+
+# {{rfdef|ko|sort=火05}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/a751eec18ebb4596b1bb2211a0b1f948 Naver Hanja Dictionary: 烀]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|nom=hồ|rs=火05}}
+
+# {{rfdef|vi|sort=火05}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=70C0 Nom Foundation]
