@@ -2,19 +2,40 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=46|rad=山|as=05|sn=8|four=21717|canj=USS|ids=⿰山巨}}
+{{Han char|rn=46|rad=山|as=05|asm++=04|sn=8|snm++=7|four=21717|canj=USS|ids=⿰山巨}}
 
-====References====
-* {{Han ref|kx=0308.380|dkj=07961|dj=0608.240|hdz=10762.170|uh=5CA0|ud=23712|bh=CC5D|bd=52317}}
+===Further reading===
+{{Han ref|kx=0308.380|dkj=07961|dj=0608.240|hdz=10762.170|uh=5CA0}}
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[geoi6]]|y=geui6}}
+===Glyph origin===
+{{Han compound|山|巨|c1=s|c2=p|t1=mountain|ls=psc}}.
 
-# {{rfdef|yue|sort=山05}}
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jù
+|c=geoi6,keoi5
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# [[large]] [[mountain]]
+
+===Etymology 2===
+{{zh-see|距|a}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -26,13 +47,18 @@
 # {{rfdef|ja|sort=山05}}
 
 ====Readings====
-* {{ja-readings|on=[[きょ]] (kyo), [[ご]] (go)|kun=}}
+{{ja-readings
+|on=きょ,ご
+}}
 
 ----
 
-==Mandarin==
+==Korean==
 
-===Hanzi===
-{{cmn-hanzi|pin=[[jù]] ([[ju4]])|wg=chü<sup>4</sup>}}
+===Hanja===
+{{ko-hanja|[[큰]] [[산]]|거}}
 
-# heap, mound, pile
+# {{rfdef|ko|sort=山05}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/7691961d8e0d42e68611e5ee2900f18f Naver Hanja Dictionary: 岠]
