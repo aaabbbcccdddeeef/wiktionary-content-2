@@ -2,22 +2,40 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=46|rad=山|as=04|sn=7|four=22734|canj=UHK|ids=⿰山夭}}
+{{Han char|rn=46|rad=山|as=04|sn=7|four=22734,22784|canj=UHK|ids=⿰山夭}}
 
-====References====
-* {{Han ref|kx=0308.060|dkj=07916|hdz=10763.130|uh=5C86|ud=23686|bh=CAC7|bd=51911}}
+===Further reading===
+{{Han ref|kx=0308.060|dkj=07916|hdz=10763.130|uh=5C86}}
 
 ----
 
-==Cantonese==
+==Chinese==
 
-===Hanzi===
-{{yue-hanzi|jyut=[[jiu2]]|y=yiu2}}
+===Glyph origin===
+{{Han compound|山|夭|c1=s|c2=p|t1=mountain|ls=psc}}.
 
-# {{rfdef|yue|sort=山04}}
+===Etymology 1===
+{{zh-forms}}
 
-====References====
-* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 98]
+====Pronunciation====
+{{zh-pron
+|m=yǎo
+|c=jiu2
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+====Definitions====
+{{head|zh|Han character}}
+
+# {{‡}} {{ngd|The [[name]] of a [[mountain]].}}
+
+===Etymology 2===
+{{zh-see|崾|v}}
+
+===References===
+* {{R:yue:Hanzi}}
 
 ----
 
@@ -29,13 +47,18 @@
 # {{rfdef|ja|sort=山04}}
 
 ====Readings====
-* {{ja-readings|on=えう|kun=}}
+{{ja-readings
+|on=えう
+}}
 
 ----
 
-==Mandarin==
+==Korean==
 
-===Hanzi===
-{{cmn-hanzi|pin=[[yǎo]] ([[yao3]])|wg=yao<sup>3</sup>}}
+===Hanja===
+{{ko-hanja|[[땅]] [[이름]]|요}}
 
-# {{rfdef|cmn|sort=山04}}
+# {{rfdef|ko|sort=山04}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/33aff97809c9486d91ca13390bcffc88 Naver Hanja Dictionary: 岆]
