@@ -2,10 +2,10 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=32|rad=土|as=04|sn=6|four=47147|canj=GNHE|ids=⿰土及}}
+{{Han char|rn=32|rad=土|as=04|asmj+=03|sn=7|snmj+=6|four=47147|canj=GNHE|ids=⿰土及}}
 
 ===Further reading===
-* {{Han ref|kx=0224.220|dkj=04906|dj=0459.100|hdz=10420.040|uh=573E|ud=22334|bh=A7A3|bd=42915}}
+{{Han ref|kx=0224.220|dkj=04906|dj=0459.100|hdz=10420.040|uh=573E}}
 
 ----
 
@@ -52,21 +52,29 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=土04}}
+{{ja-kanji|grade=|rs=土03}}
 
-# {{rfdef|ja|sort=土04}}
+# {{rfdef|ja|sort=土03}}
 
 ====Readings====
-{{ja-readings|goon=ごう|kanon=ぎゅう|kanyoon=きゅう|kun=あやうい}}
+{{ja-readings
+|goon=ごう
+|kanon=ぎゅう
+|kanyoon=きゅう
+|kun=あや-うい
+}}
 
 ----
 
 ==Korean==
 
 ===Hanja===
-{{ko-hanja|급}}
+{{ko-hanja|위태하다|위태할|급}}
 
 # {{rfdef|ko|sort=土04}}
+
+===References===
+* [https://hanja.dict.naver.com/#/entry/ccko/0d204552432a4ecc87cbb95975b15be0 Naver Hanja Dictionary: 圾]
 
 ----
 
@@ -75,4 +83,7 @@
 ===Han character===
 {{vi-readings|hanviet=ngập|nom=ngập|rs=土04}}
 
-# {{rfdef|vi}}
+# {{rfdef|vi|sort=土04}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=573E Nom Foundation]
