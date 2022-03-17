@@ -29,7 +29,7 @@
 * {{audio|mul|Alveolar nasal.ogg|IPA}}
 
 ===Symbol===
-{{head|mul|symbol}}
+{{head-lite|mul|symbols|langname=Translingual}}
 
 # {{lb|mul|IPA}} [[voiced]] [[alveolar]] [[nasal]].
 # {{lb|mul|statistics}} Sample size.
@@ -76,7 +76,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ====Letter====
 {{en-letter|upper=N|lower=n}}
 
-# {{Latn-def|en|letter|14|en}}
+# {{Latn-def-lite|en|letter|14|en|langname=English}}
 
 =====See also=====
 * {{list:Latin script letters/en}}
@@ -84,7 +84,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ====Number====
 {{en-number|upper=N|lower=n}}
 
-# {{Latn-def|en|ordinal|14|en}}
+# {{Latn-def-lite|en|ordinal|14|en|langname=English}}
 
 ===Etymology 2===
 
@@ -154,7 +154,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ===Letter===
 {{az-letter|upper=N|lower=n}}
 
-# {{Latn-def|az|letter|20}}
+# {{Latn-def-lite|az|letter|20|langname=Azerbaijani}}
 
 ====See also====
 * {{list:Latin script letters/az}}
@@ -178,7 +178,7 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 ===Letter===
 {{eu-letter|upper=N|lower=n}}
 
-# {{Latn-def|eu|letter|14|ene}}
+# {{Latn-def-lite|eu|letter|14|ene|langname=Basque}}
 
 ====See also====
 * {{list:Latin script letters/eu}}
@@ -211,9 +211,9 @@ Image:Fraktur letter N.png|Uppercase and lowercase '''N''' in [[Fraktur]]
 * {{sense|letter name}} {{IPA|nl|/ɛn/}}
 
 ===Letter===
-{{head|nl|letter|lower case||upper case|N}}
+{{head-lite|nl|letters|lower case||upper case|N|langname=Dutch}}
 
-# {{Latn-def|nl|letter|14}}
+# {{Latn-def-lite|nl|letter|14|langname=Dutch}}
 
 ===See also===
 * Previous letter: {{l|nl|m}}
@@ -321,7 +321,7 @@ This should not be confused with the negative particle, which is written identic
 ===Letter===
 {{eo-letter|upper=N|lower=n}}
 
-# {{Latn-def|eo|letter|18|no}}
+# {{Latn-def-lite|eo|letter|18|no|langname=Esperanto}}
 
 ====See also====
 * {{list:Latin script letters/eo}}
@@ -337,7 +337,7 @@ This should not be confused with the negative particle, which is written identic
 ===Letter===
 {{et-letter|upper=N|lower=n}}
 
-# {{Latn-def|et|letter|14|enn}}
+# {{Latn-def-lite|et|letter|14|enn|langname=Estonian}}
 
 ====See also====
 * {{list:Latin script letters/et}}
@@ -350,9 +350,9 @@ This should not be confused with the negative particle, which is written identic
 * {{IPA|fo|/n/}}
 
 ===Letter===
-{{head|fo|letter|upper case|N}}
+{{head-lite|fo|letters|upper case|N|langname=Faroese}}
 
-# {{Latn-def|fo|letter|16}}
+# {{Latn-def-lite|fo|letter|16|langname=Faroese}}
 
 ====See also====
 * {{list:Latin script letters/fo}}
@@ -367,7 +367,7 @@ This should not be confused with the negative particle, which is written identic
 ===Letter===
 {{fi-letter|upper=N|lower=n}}
 
-# {{Latn-def|fi|letter|14|än|en}}
+# {{Latn-def-lite|fi|letter|14|än|en|langname=Finnish}}
 
 ===Interjection===
 {{fi-int}}
@@ -390,7 +390,7 @@ This should not be confused with the negative particle, which is written identic
 ===Letter===
 {{fr-letter|upper=N|lower=n}}
 
-# {{Latn-def|fr|letter|14}}
+# {{Latn-def-lite|fr|letter|14|langname=French}}
 #* {{quote-book|fr|year=1837|author=Louis Viardot|title=L’Ingénieux Hidalgo Don Quichotte de la Manche|url=[s:fr: L’Ingénieux Hidalgo Don Quichotte de la Manche{{!}}fr.Wikisource]|original=El ingenioso hidalgo Don Quijote de la Mancha|by=Miguel de Cervantes Saavedra|section=Chapter I|passage=Avec ces propos et d’autres semblables, le pauvre ge'''n'''tilhomme perdait le jugement. Il passait les '''n'''uits et se do'''nn'''ait la torture pour les compre'''n'''dre, pour les approfo'''n'''dir, pour leur tirer le se'''n'''s des e'''n'''trailles, ce qu’Aristote lui-même '''n'''’aurait pu faire, s’il fût ressuscité tout exprès pour cela.|t=With these passages and other similar ones, the poor gentleman lost his judgement. He spent his nights and tortured himself to understand them, to consider them more deeply, to take from them their deepest meaning, which Aristotle himself would not have been able to do, had he been resurrected for that very purpose.}}
 
 ----
@@ -491,7 +491,7 @@ Contraction <!-- Abbreviation? -->of {{m|ht|nou}}, from {{der|ht|fr|nous}}.
 ===Letter===
 {{hu-letter|upper=N|lower=n}}
 
-# {{Latn-def|hu|letter|22|enn}}
+# {{Latn-def-lite|hu|letter|22|enn|langname=Hungarian}}
 # [[character]] as a unit of measurement {{gloss|one of the basic elements making up a text file or string}}
 #: {{syn|hu|karakter|leütés|betűhely}}
 
@@ -512,9 +512,9 @@ Contraction <!-- Abbreviation? -->of {{m|ht|nou}}, from {{der|ht|fr|nous}}.
 * {{a|letter name}} {{IPA|is|/ɛnː/}}
 
 ===Letter===
-{{head|is|letter|upper case|N}}
+{{head-lite|is|letters|upper case|N|langname=Icelandic}}
 
-# {{Latn-def|is|letter|17}}
+# {{Latn-def-lite|is|letter|17|langname=Icelandic}}
 
 ===See also===
 * {{list:Latin script letters/is}}
@@ -528,9 +528,9 @@ Contraction <!-- Abbreviation? -->of {{m|ht|nou}}, from {{der|ht|fr|nous}}.
 * {{a|letter name}} {{IPA|io|/ne/}}
 
 ===Letter===
-{{head|io|letter|upper case|N}}
+{{head-lite|io|letters|upper case|N|langname=Ido}}
 
-# {{Latn-def|io|letter|14}}
+# {{Latn-def-lite|io|letter|14|langname=Ido}}
 
 ====See also====
 * {{list:Latin script letters/io}}
@@ -546,9 +546,9 @@ Contraction <!-- Abbreviation? -->of {{m|ht|nou}}, from {{der|ht|fr|nous}}.
 * {{a|letter name}} {{IPA|id|/ɛn/}}
 
 ====Letter====
-{{head|id|letter|upper case|N}}
+{{head-lite|id|letters|upper case|N|langname=Indonesian}}
 
-# {{Latn-def|id|letter|14}}
+# {{Latn-def-lite|id|letter|14|langname=Indonesian}}
 
 ====See also====
 * {{list:Latin script letters/id}}
@@ -665,7 +665,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 [[File:Latin alphabet Nn.svg|thumb|250px|N]]
 {{lv-letter|upper=N|lower=n}}
 
-# {{Latn-def|lv|letter|21|en}}
+# {{Latn-def-lite|lv|letter|21|en|langname=Latvian}}
 
 ====See also====
 * ''Letters of the Latvian alphabet:''
@@ -679,9 +679,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{qualifier|phoneme}} {{liv-IPA|n}}
 
 ===Letter===
-{{head|liv|letter|upper case|N}}
+{{head-lite|liv|letters|upper case|N|langname=Livonian}}
 
-# {{Latn-def|liv|letter|20}}
+# {{Latn-def-lite|liv|letter|20|langname=Livonian}}
 
 ===See also===
 * {{list:Latin script letters/liv}}
@@ -693,7 +693,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{ms-letter|upper=N|lower=n}}
 
-# {{Latn-def|ms|letter|14}}
+# {{Latn-def-lite|ms|letter|14|langname=Malay}}
 
 ====See also====
 * {{list:Latin script letters/ms}}
@@ -708,9 +708,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|mt|/n/|[ŋ]}} {{q|by assimilation to a following velar}}
 
 ===Letter===
-{{head|mt|letter|upper case|N}}
+{{head-lite|mt|letters|upper case|N|langname=Maltese}}
 
-# {{Latn-def|mt|letter|18}}
+# {{Latn-def-lite|mt|letter|18|langname=Maltese}}
 
 ===See also===
 * {{list:Latin script letters/mt}}
@@ -739,9 +739,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{audio|nb|LL-Q9043 (nor)-Jon Harald Søby (WMNO)-n.wav|Audio}}
 
 ===Letter===
-{{head|no|letter}}
+{{head-lite|no|letters|langname=Norwegian}}
 
-# {{Latn-def|no|letter|14}}
+# {{Latn-def-lite|no|letter|14|langname=Norwegian}}
 
 ----
 
@@ -753,7 +753,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{nup-letter|upper=N|lower=n}}
 
-# {{Latn-def|nup|letter|17}}
+# {{Latn-def-lite|nup|letter|17|langname=Nupe}}
 
 ====See also====
 * {{list:Latin script letters/nup}}
@@ -768,7 +768,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head|pl|letter|upper case|N|lower case||}}
 
-# {{Latn-def|pl|letter|18|en}}
+# {{Latn-def-lite|pl|letter|18|en|langname=Polish}}
 
 ====See also====
 * {{list:Latin script letters/pl}}
@@ -789,7 +789,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ====Letter====
 {{pt-letter|upper=N|lower=n}}
 
-# {{Latn-def|pt|letter|14}}
+# {{Latn-def-lite|pt|letter|14|langname=Portuguese}}
 
 ====See also====
 * {{list:Latin script letters/pt}}
@@ -823,10 +823,10 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{IPA|rom|/n/}}
 
 ===Letter===
-{{head|rom|letter|lower case||upper case|N}}
+{{head-lite|rom|letters|lower case||upper case|N|langname=Romani}}
 
-# {{lb|rom|International Standard}} {{Latn-def|rom|letter|18}}
-# {{lb|rom|Pan-Vlax}} {{Latn-def|rom|letter|19}}
+# {{lb|rom|International Standard}} {{Latn-def-lite|rom|letter|18|langname=Romani}}
+# {{lb|rom|Pan-Vlax}} {{Latn-def-lite|rom|letter|19|langname=Romani}}
 
 ====See also====
 * {{list:Latin script letters/rom}}
@@ -841,7 +841,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{ro-letter|lower=n|upper=N}}
 
-# {{Latn-def|ro|letter|17|en|ne|nî}}
+# {{Latn-def-lite|ro|letter|17|en|ne|nî|langname=Romanian}}
 
 ====See also====
 * {{list:Latin script letters/ro}}
@@ -899,9 +899,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{qualifier|phoneme}} {{IPA|sms|/n/}}
 
 ===Letter===
-{{head|sms|letter|upper case|N}}
+{{head-lite|sms|letters|upper case|N|langname=Skolt Sami}}
 
-# {{Latn-def|sms|letter|22}}
+# {{Latn-def-lite|sms|letter|22|langname=Skolt Sami}}
 
 ===See also===
 * {{list:Latin script letters/sms}}
@@ -916,9 +916,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ** {{audio|es|letter n es es.flac|Audio (Spain)}}
 
 ===Letter===
-{{head|es|letter|lower case||upper case|N}}
+{{head-lite|es|letters|lower case||upper case|N|langname=Spanish}}
 
-# {{Latn-def|es|letter|14}}
+# {{Latn-def-lite|es|letter|14|langname=Spanish}}
 
 ----
 
@@ -927,7 +927,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{tr-letter|upper=N|lower=n}}
 
-# {{Latn-def|tr|letter|17|ne}}
+# {{Latn-def-lite|tr|letter|17|ne|langname=Turkish}}
 
 ====See also====
 * {{list:Latin script letters/tr}}
@@ -940,9 +940,9 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 * {{qualifier|phoneme}} {{IPA|tk|/n/}}
 
 ===Letter===
-{{head|tk|letter|upper case|N}}
+{{head-lite|tk|letters|upper case|N|langname=Turkmen}}
 
-# {{Latn-def|tk|letter|16|en}}
+# {{Latn-def-lite|tk|letter|16|en|langname=Turkmen}}
 
 ===See also===
 * {{list:Latin script letters/tk}}
@@ -952,7 +952,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Xhosa==
 '''n''' ''(lower case,upper case '''[[N]]''')''
 
-#{{Latn-def|xh|letter|14}}
+#{{Latn-def-lite|xh|letter|14|langname=Xhosa}}
 
 ----
 
@@ -967,7 +967,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ====Letter====
 {{yo-letter|upper=N|lower=n}}
 
-# {{Latn-def|yo|letter|15|ní}}
+# {{Latn-def-lite|yo|letter|15|ní|langname=Yoruba}}
 
 ====See also====
 * {{list:Latin script letters/yo}}
@@ -1010,7 +1010,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{zu-letter}}
 
-# {{Latn-def|zu|letter|14}}
+# {{Latn-def-lite|zu|letter|14|langname=Zulu}}
 
 ====See also====
 * {{list:Latin script letters/zu}}
