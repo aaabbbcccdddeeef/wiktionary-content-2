@@ -149,13 +149,13 @@ As in the onomatopoeia {{l|ja|丁丁}}:
 * {{ja-r|庖丁|ほうちょう}}, {{ja-r|包丁|ほうちょう}}
 
 ===Etymology 1===
-{{ja-kanjitab|てい|yomi=o}}
+{{ja-kanjitab|てい|yomi=kanon}}
 {{wp|lang=ja}}
-From {{der|ja|ltc|丁|tr=teng|sort=てい}}
+
+From {{der|ja|ltc|sort=てい|丁|tr=teng}}.
 
 ====Pronunciation====
-{{ja-pron|acc=1|y=ko|てい}}
-* {{hmp|ja|氐|体|態|弟|底|貞|艇|鼎|禘|sort=てい}}
+{{ja-pron|てい|acc=1}}
 
 ====Proper noun====
 {{ja-pos|proper|てい}}
@@ -164,10 +164,10 @@ From {{der|ja|ltc|丁|tr=teng|sort=てい}}
 ## [[fourth]] in rank
 
 ===Etymology 2===
-{{ja-kanjitab|ちょう|yomi=o}}
+{{ja-kanjitab|ちょう|yomi=kanon}}
 
 ====Pronunciation====
-{{ja-pron|acc=1|y=ko|ちょう}}
+{{ja-pron|ちょう|acc=1}}
 
 ====Noun====
 {{ja-noun|ちょう}}
@@ -182,6 +182,7 @@ From {{der|ja|ltc|丁|tr=teng|sort=てい}}
 
 ===Etymology 3===
 {{ja-kanjitab|ちょう|yomi=o|alt=挺,梃}}
+
 From {{bor|ja|ltc|-}} {{ltc-l|挺}}. {{ja-daiyouji|丁|挺}}.
 
 ====Pronunciation====
@@ -191,15 +192,16 @@ From {{bor|ja|ltc|-}} {{ltc-l|挺}}. {{ja-daiyouji|丁|挺}}.
 {{ja-pos|counter|ちょう}}
 
 # {{n-g|counter for long and thin things, e.g. guns, hoes, candles.}}
-#: {{ja-x|二%丁の拳%銃|に%ちょう の けん%じゅう|two pistols}}
+#: {{ja-usex|二%丁の拳%銃|に%ちょう の けん%じゅう|two pistols}}
 # {{n-g|counter for foods such as [[tofu]].}}
 
 ===Etymology 4===
 {{ja-kanjitab|ひのと|yomi=k}}
+
 {{com|ja|火|の|弟|tr1=hi|t1={{w|Fire (Wu Xing)|fire}}|pos1=one of the {{w|Wu Xing|Five Elements}}|tr2=no|pos2=attributive marker|tr3=oto|t3=[[younger brother]]|sort=ひのと}}
 
 ====Pronunciation====
-{{ja-pron|acc=2|acc2=0|y=k|ひのと}}
+{{ja-pron|ひのと|acc=2|acc2=0}}
 
 ====Proper noun====
 {{ja-pos|proper|ひのと}}
