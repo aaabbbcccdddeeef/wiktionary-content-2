@@ -3,12 +3,13 @@
 
 ===Etymology 1===
 {{ja-kanjitab|alt=為る}}
-From {{inh|ja|ojp|-}} root verb {{m|ja|す|tr=su||to do}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Cognate with {{cog|ryu|すん|tr=sun}}.
+
+From {{inh|ja|ojp|-}} root verb {{m|ja|す|tr=su||to do}}.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2|為}}</ref><ref name="DJR"/> Cognate with {{cog|ryu|すん|tr=sun}}.
 
 As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|Kamakura]] and [[w:Muromachi period|Muromachi]] periods, the {{m|ja|終止形|tr=shūshikei||terminal or sentence-ending form}} was gradually lost as the {{m|ja|連体形|tr=rentaikei||attributive form}} came to be used for both the attributive and terminal grammatical roles, realigning the conjugations.
 
 ====Pronunciation====
-{{ja-pron|する|acc=h|y=kun|acc_ref=NHK}}
+{{ja-pron|する|acc=0|acc_ref=DJR,NHK}}
 {{ja-ojad}}
 
 ====Verb====
@@ -16,19 +17,19 @@ As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|K
 
 # {{lb|ja|intransitive}}
 ## {{q|of inanimate objects}} to [[exist]]; to [[come up]]
-##: {{ja-x|稲%光が'''する'''|いな%びかり が '''する'''|Lightning '''occurred'''.}}
-##: {{ja-x|におい が '''する'''|'''There is''' a smell.}}
+##: {{ja-usex|稲%光が'''する'''|いな%びかり が '''する'''|Lightning '''occurred'''.}}
+##: {{ja-usex|におい が '''する'''|'''There is''' a smell.}}
 ## {{q|of a specified state; of a specified quality}} to [[exist]] {{q|in someone or something}}
-##: {{ja-x|がっしり'''した'''骨%組み|がっしり '''した''' ほね%ぐみ|a rigid structure}}
+##: {{ja-usex|がっしり'''した'''骨%組み|がっしり '''した''' ほね%ぐみ|a rigid structure}}
 ## to be [[worth]]; to have the [[value]] of
-##: {{ja-x|五%億%円も'''する'''絵|ご%おく% えん も '''する''' え|a painting '''worth''' 500 million yen}}
+##: {{ja-usex|五%億%円も'''する'''絵|ご%おく% えん も '''する''' え|a painting '''worth''' 500 million yen}}
 ## {{q|of time}} to [[pass]]; to [[elapse]]
-##: {{ja-x|一%年も'''すれば'''忘れるだろう|いち%ねん も '''すれば''' わすれる だろう|It will be forgotten '''after''' one year.}}
+##: {{ja-usex|一%年も'''すれば'''忘れるだろう|いち%ねん も '''すれば''' わすれる だろう|It will be forgotten '''after''' one year.}}
 # {{lb|ja|transitive}}
 ## to [[do]]; to [[perform]] an [[action]]
 ##: {{ja-usex|何を'''して'''いますか。|なに を '''して''' います か。|What are you '''doing'''?}}
 ## to [[act]] as; to play a [[role]] of
-##: {{ja-x|私が司%会を'''する'''|わたし が し%かい を '''する'''|I '''am''' the anchorman.}}
+##: {{ja-usex|私が司%会を'''する'''|わたし が し%かい を '''する'''|I '''am''' the anchorman.}}
 ## to [[render]]; to [[make]] [[become]] {{q|used as the suppletive causative form of {{ja-r|なる}}}}
 ##: {{n-g|Usually "A {{ja-l|を}} B {{ja-l|に}} / {{ja-l|と}} + {{lang|ja|する}} ", to make A become B.}}
 ##: {{ja-usex|息%子を先%生に'''する'''|むす%こ を せん%せい に '''する'''|He is training his son to '''become''' a teacher.}}
@@ -40,21 +41,21 @@ As with all verbs, during the Middle Japanese stage in the [[w:Kamakura period|K
 ## to wear (accessories)
 ##: {{ja-usex|ネクタイを'''する'''。|ネクタイ を '''する'''。|I '''wear''' a necktie.}}
 ## to [[decide]]; to [[choose]] or to make a [[judgment]]
-##: {{ja-x|まあ、これでよしと'''しよう'''|まあ、これ で よし と '''しよう'''|Alright, let's '''go with''' that.}}
-##: {{ja-x|出%場を取りやめに'''する'''|しゅつ%じょう を とりやめ に '''する'''|I '''decided''' to quit the competition.}}
+##: {{ja-usex|まあ、これでよしと'''しよう'''|まあ、これ で よし と '''しよう'''|Alright, let's '''go with''' that.}}
+##: {{ja-usex|出%場を取りやめに'''する'''|しゅつ%じょう を とりやめ に '''する'''|I '''decided''' to quit the competition.}}
 ## {{lb|ja|informal}} to [[do it]]; to [[have sex]]
 #: {{synonyms|ja|Thesaurus:性交する}}
 # {{lb|ja|auxiliary}}
 ## {{n-g|"Adverb + {{lang|ja|する}}", forming predicates or attributives from adverbs.}}
 ##: {{ja-r|いらいら||(''adverb'') irritated}} - {{ja-r|いらいら'''する'''[[気%持ち]]|いらいら '''する''' き%もち|feeling of irritation}}
 ## {{n-g|"Verbal noun + emphatic particle (e.g. {{ja-l|は}}, {{ja-l|も}}, {{ja-l|こそ}}, {{ja-l|さえ}}) + {{lang|ja|する}} ", emphasizing the verb.}}
-##: {{ja-x|雪は降りは'''した'''が積もらなかった|ゆき は ふり は '''した''' が つもらなかった|It did snow, but the snow did not pile up.}}
+##: {{ja-usex|雪は降りは'''した'''が積もらなかった|ゆき は ふり は '''した''' が つもらなかった|It did snow, but the snow did not pile up.}}
 ## {{n-g|"Volitional form of verb + {{ja-l|と}} + {{lang|ja|する}}":}} to be [[about to]]; to [[incline]] to
-##: {{ja-x|日が沈もうと'''して'''いる|ひ が しずもう と '''して''' いる|The sun is sinking.}}
+##: {{ja-usex|日が沈もうと'''して'''いる|ひ が しずもう と '''して''' いる|The sun is sinking.}}
 ## {{n-g|"{{ja-l|に}} / {{ja-l|と}} + {{lang|ja|する}}", to give a condition or standpoint, either real or hypothetical:}} [[if]] / [[since]]; [[assume|assuming]] that / [[now that]]
-##: {{ja-x|習%作と'''すれば'''上%々の出%来だ|しゅう%さく と '''すれば''' じょう%じょう の で%き だ|It is of a considerably good quality as for a practice writing.}}
-##: {{ja-x|親と'''して'''は心%配するのは当%然だ|おや と '''して''' は しん%ぱい する の は とう%ぜん だ|It's inevitable to worry about that '''if''' you were the parent.}}
-##: {{ja-x|どんなに急いだに'''して'''も間に合わなかっただろう|どんな に いそいだ に '''して''' も ま に あわなかった だろう|It would never have been done in time no matter how hard we had worked.}}
+##: {{ja-usex|習%作と'''すれば'''上%々の出%来だ|しゅう%さく と '''すれば''' じょう%じょう の で%き だ|It is of a considerably good quality as for a practice writing.}}
+##: {{ja-usex|親と'''して'''は心%配するのは当%然だ|おや と '''して''' は しん%ぱい する の は とう%ぜん だ|It's inevitable to worry about that '''if''' you were the parent.}}
+##: {{ja-usex|どんなに急いだに'''して'''も間に合わなかっただろう|どんな に いそいだ に '''して''' も ま に あわなかった だろう|It would never have been done in time no matter how hard we had worked.}}
 ## {{lb|ja|humble}} {{n-g|"{{ja-r|linkto=御|rom=-|御/御|お/ご}} + verbal noun + {{lang|ja|する}}", a humble form of the verb.}}
 ##: {{ant|ja|なる}}
 ##: {{syn|ja|致す}}
