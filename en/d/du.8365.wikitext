@@ -308,7 +308,7 @@ From {{der|eo|la|duo}}, from {{der|eo|ine-pro|*dwóh₁}}.
 ==French==
 
 ===Etymology===
-An irregular development from {{inh|fr|fro|del}}. The expected modern form would be ''*deau''.
+From {{inh|fr|fro|del}}. The expected modern form would be ''*deau'', but it underwent stronger contraction.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -317,13 +317,16 @@ An irregular development from {{inh|fr|fro|del}}. The expected modern form would
 * {{homophones|fr|dû|due|dues|dus}}
 
 ===Contraction===
-{{head|fr|contraction}}
+{{head|fr|contraction|feminine singular|[[de]] [[la]]|plural|des}}
 
-# {{contraction of|fr|[[de]] + [[le]]|nodot=1}} (''of the'')
-# {{contraction of|fr|[[de]] + [[le]]|nodot=1}}; {{n-g|forms the partitive article}}
+# {{contraction of|fr|[[de]] + [[le]]|nodot=1|t=of the}}
+# {{n-g|Forms the partitive article.}}
+#: {{uxi|fr|Il mange '''du''' pain.|He eats bread. / He eats '''some''' bread.}}
 
 ====Usage notes====
-* The partitive article signifies "[[some]]", but it often is not translated in English, Dutch, or German.
+* The partitive article is used with [[uncountable]] nouns instead of the indefinite article (which is only used with countable nouns). English and most other European languages do not use any article in such cases.
+* Like the indefinite article, the partitive article becomes simple {{m|fr|de}} with direct objects in negated sentences: {{m|fr||Il ne mange pas '''de''' pain.|He doesn’t eat bread.}}
+* After the actual preposition {{m|fr||de|t=of, from}}, the partitive article is deleted. So one can never say {{m|fr||*de du}} or {{m|fr||*de de la}}.
 
 ===Further reading===
 * {{R:TLFi}}
