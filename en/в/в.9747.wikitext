@@ -260,7 +260,7 @@ Only used in words of foreign origin.
 
 ====Alternative forms====
 * {{alter|ru|въ||ru-PRO}}
-* {{alter|ru|во||before certain consonant clusters}}
+* {{alter|ru|во||used before certain consonant clusters}}
 
 ====Pronunciation====
 * {{ru-IPA|в/}} {{i|before vowels and voiced consonants}}
@@ -270,15 +270,21 @@ Only used in words of foreign origin.
 ====Preposition====
 {{head|ru|preposition}}
 
-# ''(location)'' [[in]], [[at]], [[on]] {{+obj|ru|prep}}
-#: {{uxi|ru|[[он|Он]] '''в''' [[театр|теа́тре]]|He’s '''at''' (in) the theater.}}
-# ''(direction)'' [[to]], [[into]] {{+obj|ru|acc}}
-#: {{uxi|ru|[[он|Он]] [[идти|идёт]] '''в''' [[теа́тр]]|He’s going '''to''' (into) the theater.}}
-# ''(time)'' [[at]], [[in]], [[on]] {{+obj|ru|acc}}
-#: {{uxi|ru|'''в''' [[три]] [[час|часа́]]|'''at''' three o’clock}}
-#: {{uxi|ru|'''в''' [[пятница|пя́тницу]]|'''on''' Friday}}
-# [[per]] {{+obj|ru|acc}}
-#: {{uxi|ru|[[три]] [[раз|ра́за]] '''в''' [[день]]|three times '''per''' day}}
+# {{+obj|ru|prep}}
+## ''(location)'' [[in]], [[at]], [[on]] 
+##: {{uxi|ru|[[он|Он]] '''в''' [[театр|теа́тре]]|He’s '''at''' (in) the theater.}}
+
+# {{+obj|ru|acc}}
+## ''(direction)'' [[to]], [[into]] 
+##: {{uxi|ru|[[он|Он]] [[идти|идёт]] '''в''' [[теа́тр]]|He’s going '''to''' (into) the theater.}}
+## ''(time)'' [[at]], [[in]], [[on]]
+##: {{uxi|ru|'''в''' [[три]] [[час|часа́]]|'''at''' three o’clock}}
+##: {{uxi|ru|'''в''' [[пятница|пя́тницу]]|'''on''' Friday}}
+## [[per]]
+##: {{uxi|ru|[[три]] [[раз|ра́за]] '''в''' [[день]]|three times '''per''' day}}
+
+=====Usage notes=====
+* The alternative form {{l|ru|во}} is used before some awkward consonant clusters, such as {{lang|ru|во [[второй|второ́м]], во [[вторник|вто́рник]], во [[Флорида|Флори́де]]}}.
 
 =====Related terms=====
 * {{l|ru|в-}}, {{l|ru|во-}}
