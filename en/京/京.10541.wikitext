@@ -140,16 +140,31 @@ From {{bor|zh|vi|Kinh}}, via [[Cantonese]].
 }}
 
 ===Etymology 1===
-/kyau/ > /kyoː/.
+{{ja-kanjitab|きょう|yomi=o}}
+From {{der|ja|ltc|-}} {{ltc-l|京}}.
 
 ====Noun====
 {{ja-noun|きょう|hhira=きやう}}
 
-# [[capital]] (city)
-# {{short for|ja|東京||tr=[[Tokyo|Tōkyō]]}}
-# {{short for|ja|京都||tr=[[Kyoto|Kyōto]]}}
+# [[capital]] [[city]]
+# {{short for|ja|京都|tr=Kyōto|t={{place|ja|t=Kyōto|city|p/Kyōto|c/Japan}}}}
+#: {{ja-r|京言葉|きょうことば}}
+#: {{ja-usex|[[京の着倒れ、大阪の食い倒れ|'''京'''の着倒れ、大阪の食い倒れ]]|'''^きょう''' の きだおれ、^おおさか の くいだおれ}}
+
+====Affix====
+{{ja-pos|affix|きょう|hhira=きやう}}
+
+# [[capital]] [[city]]
+#: {{syn|ja|洛|tr=raku|q=literary}}
+# {{lb|ja|specifically}} {{place|ja|t=Kyōto|city|p/Kyōto|c/Japan}}
+#: {{syn|ja|洛|tr=raku|q=literary}}
+# {{lb|ja|especially}} {{place|ja|t=Tōkyō|province|c/Japan}}
+#: {{ja-r|上京|じょうきょう}}
+
+{{C|ja|Capital cities|Kyoto|Tokyo}}
 
 ===Etymology 2===
+{{ja-kanjitab|みやこ|yomi=k}}
 {{compound|ja|宮|tr1=miya|t1=imperial palace|処|tr2=ko|t2=place}}.
 
 ====Noun====
@@ -160,6 +175,7 @@ From {{bor|zh|vi|Kinh}}, via [[Cantonese]].
 # [[metropolis]]
 
 ===Etymology 3===
+{{ja-kanjitab|けい|yomi=o}}
 
 ====Number====
 {{ja-pos|numeral|けい}}
