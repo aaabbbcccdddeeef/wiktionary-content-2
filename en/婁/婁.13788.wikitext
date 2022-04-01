@@ -15,7 +15,7 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=娄|alt=𡞔}}
+{{zh-forms|s=娄|alt=𑞔}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -23,27 +23,67 @@ Originally {{Han compound|爪|角|女|c1=s|c2=p|c3=s|t1=hands|t2=|t3=woman|ls=ps
 
 Later {{Han compound|母|中|女|t1=mother|t3=daughter|ls=ic|nocap=y}}.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=lóu
 |c=lau4
 |md=lèu
 |mn=qz:liô/tw,xm,zz:lô͘
-|mc=y
-|oc=y
+|mc=2
+|oc=y,1
 |ma=
 |cat=pn,v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{surname|zh}}
 # {{lb|zh|Chinese astronomy}} the [[constellation]] [[w:Bond (Chinese constellation)|Lóu]] ("Bond"), one of the twenty-eight [[w:Twenty-eight mansions|lunar mansions]]
+# {{surname|zh}}
 # to [[wear]]
 
 ====Compounds====
-{{zh-der|卷婁|婁羅|孛婁|婁江|婁東派|婁子|婁妃|婁山|潑包婁|捅婁子|離婁之明|黑婁婁|離婁|邾婁|瞴婁}}
+{{zh-der|fold=y|卷婁|婁羅|孛婁|婁江|婁東派|婁子|婁妃|婁山|潑包婁|捅婁子|離婁之明|黑婁婁|離婁|邾婁|瞴婁|婁婁}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=lǘ
+|c=leoi4
+|mc=1
+|oc=y,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} to [[drag]]; to [[trail]]; to [[pull]]
+
+====Compounds====
+{{zh-der|fold=y|曳婁}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=lǚ
+|c=
+|mc=
+|oc=
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} to [[tether]] [[oxen]]
+
+===Etymology 4===
+{{zh-see|屢}}
 
 ===References===
 * {{R:yue:Hanzi}}
