@@ -132,7 +132,7 @@ Compound of {{com|ja|sort=ほむら|火|tr1=ho|t1=[[fire]]|pos1=combining form|�
 * {{ja-r|胸の炎|むね の ほむら}}
 
 ===Etymology 3===
-{{ja-kanjitab|yomi=o|えん|alt=焔,焰,燄:rare}}
+{{ja-kanjitab|yomi=o|えん}}
 {{IPAchar|/emʉ/}} → {{IPAchar|/eɴ/}}
 
 From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
@@ -143,10 +143,11 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 ====Suffix====
 {{ja-pos|suffix|えん}}
 
-# {{lb|ja|sort=えん|medicine}} [[-itis]], [[inflammation]] of... (written only as {{lang|ja|炎}})
+# {{lb|ja|sort=えん|medicine}} [[-itis]], [[inflammation]] of...
 
 =====Derived terms=====
 {{der-top3}}
+* {{ja-r|炎%症|えん%しょう}}
 * {{ja-r|胃%炎|い%えん}}
 * {{ja-r|肝%炎|かん%えん}}
 * {{ja-r|強%膜%炎|きょう%まく%えん|[[scleritis]]}}
@@ -178,20 +179,31 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|炎}}.
 # [[flame]], [[blaze]]
 # [[burning]]
 # [[firehot]], [[red-hot]]
-# [[passion]]
 
-=====Derived terms=====
 {{der-top3}}
 * {{ja-r|炎%炎|えん%えん|rom=-}}, {{ja-r|炎%々|えん%えん}}
 * {{ja-r|煙%炎|えん%えん}}
 * {{ja-r|炎%干|えん%かん}}
 * {{ja-r|炎%暑|えん%しょ}}
-* {{ja-r|炎%症|えん%しょう}}
 * {{ja-r|炎%上|えん%じょう}}
 * {{ja-r|炎%色|えん%しょく}}
 * {{ja-r|炎%帝|えん%てい}}
 * {{ja-r|炎%天|えん%てん}}
 * {{ja-r|炎%熱|えん%ねつ}}
+* {{ja-r|炎%涼|えん%りょう}}
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|えん|alt=焔,焰,燄:rare}}
+{{ja-daiyouji|炎|焰}}.
+
+====Affix====
+# [[flame]], [[blaze]]
+# {{lb|ja|sort=えん|figurative}} [[passion]], [[emotion]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|炎%色|えん%しょく}}
 * {{ja-r|炎%涼|えん%りょう}}
 * {{ja-r|火%炎|か%えん}}
 * {{ja-r|外%炎|がい%えん}}
