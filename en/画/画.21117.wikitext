@@ -74,39 +74,10 @@ From {{der|ja|ltc|sort=が|-}} {{ltc-l|畫|id=1}}.
 #: {{ux|ja|西洋画|Western painting|tr=seiyouga|inline=1}}
 #: {{ux|ja|日本画|Japanese painting|tr=nihonga|inline=1}}
 
-===Etymology 2===
-{{ja-kanjitab|かく|yomi=kanon}}
-From {{der|ja|ltc|sort=かく|-}} {{ltc-l|畫|id=2}}.
-
-====Pronunciation====
-{{ja-pron|かく|acc=0|acc_ref=DJR|acc_note=“stroke”|acc2=2|acc2_ref=DJR|acc2_note=“stroke”|y=kanon}}
-
-====Noun====
-{{ja-noun|かく|kyu=畫}}
-
-# [[delimiter]], [[demarcation]], stopping point
-#: {{ux|ja|区画|division; (city) block; plot (of land)|tr=kukaku|inline=1}}
-# [[plan]], [[strategy]]
-#: {{ux|ja|計画|plan; project; schedule; program|tr=keikaku|inline=1}}
-#: {{ux|ja|画策|planning; scheming|tr=kakusaku|inline=1}}
-# [[stroke]] {{gl|the individual lines and dots that comprise a kanji character}}
-# a [[line]] in the [[divinatory]] [[trigram]]s of the ''{{w|I Ching}}'': "—" ({{l|ja|陽}}) and "- -" ({{l|ja|陰}})
-
-====Counter====
-{{ja-pos|counter|かく|kyu=畫}}
-
-# number of [[stroke]]s in a kanji
-
-===Compounds===
-{{der-top|columns=4}}
+====Compounds====
+{{der-top|columns=3}}
 * {{ja-r|映%画|えい%が|movie}}
 * {{ja-r|絵%画|かい%が}}
-* {{ja-r|画%一|かく%いつ}}
-* {{ja-r|画%策|かく%さく}}
-* {{ja-r|画%然|かく%ぜん}}
-* {{ja-r|画%定|かく%てい|demarcation}}
-* {{ja-r|画%期|かっ%き|end of an era}}
-* {{ja-r|画%期%的|かっ%き%てき}}
 * {{ja-r|画家|がか|painter; artist}}
 * {{ja-r|画架|がか|[[easel]]}}
 * {{ja-r|画%角|が%かく}}
@@ -128,15 +99,59 @@ From {{der|ja|ltc|sort=かく|-}} {{ltc-l|畫|id=2}}.
 * {{ja-r|画%竜 点%睛|が%りょう てん%せい|finishing touches|lit=adding the eyes to a painting of a dragon}}
 * {{ja-r|画%廊|が%ろう|art gallery}}
 * {{ja-r|画%楼|が%ろう}}
-* {{ja-r|企%画|き%かく}}
-* {{ja-r|区%画|く%かく}}
-* {{ja-r|計%画|けい%かく}}
 * {{ja-r|図画|ずが}}
 * {{ja-r|動%画|どう%が}}
 * {{ja-r|版%画|はん%が|art print}}
-* {{ja-r|筆%画|ひっ%かく|stroke}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|かく|yomi=kanon|kyu=-|alt=劃:dated}}
+{{ja-daiyouji|画|劃}}.
+
+====Pronunciation====
+{{ja-pron|かく|acc=0|acc_ref=DJR|acc_note=“stroke”|acc2=2|acc2_ref=DJR|acc2_note=“stroke”|y=kanon}}
+
+====Noun====
+{{ja-noun|かく|kyu=劃}}
+
+# [[delimiter]], [[demarcation]], stopping point
+#: {{ux|ja|区画|division; (city) block; plot (of land)|tr=kukaku|inline=1}}
+# [[plan]], [[strategy]]
+#: {{ux|ja|計画|plan; project; schedule; program|tr=keikaku|inline=1}}
+#: {{ux|ja|画策|planning; scheming|tr=kakusaku|inline=1}}
+
+====Compounds====
+{{der-top|columns=3}}
+* {{ja-r|画%一|かく%いつ}}
+* {{ja-r|画%策|かく%さく}}
+* {{ja-r|画%然|かく%ぜん}}
+* {{ja-r|画%定|かく%てい|demarcation}}
+* {{ja-r|画%期|かっ%き|end of an era}}
+* {{ja-r|画%期%的|かっ%き%てき}}
+* {{ja-r|企%画|き%かく}}
+* {{ja-r|区%画|く%かく}}
+* {{ja-r|計%画|けい%かく}}
 * {{ja-r|分%画|ぶん%かく}}
 {{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|かく|yomi=kanon}}
+From {{der|ja|ltc|sort=かく|-}} {{ltc-l|畫|id=2}}.
+
+====Pronunciation====
+{{ja-pron|かく|acc=0|acc_ref=DJR|acc_note=“stroke”|acc2=2|acc2_ref=DJR|acc2_note=“stroke”|y=kanon}}
+
+====Noun====
+{{ja-noun|かく|kyu=畫}}
+
+# [[stroke]] {{gl|the individual lines and dots that comprise a kanji character}}
+#: {{ux|ja|[[筆画]]|tr=hikkaku|stroke|inline=1}}
+# a [[line]] in the [[divinatory]] [[trigram]]s of the ''{{w|I Ching}}'': "—" ({{l|ja|陽}}) and "- -" ({{l|ja|陰}})
+
+====Counter====
+{{ja-pos|counter|かく|kyu=畫}}
+
+# number of [[stroke]]s in a kanji
 
 ===References===
 <references/>
