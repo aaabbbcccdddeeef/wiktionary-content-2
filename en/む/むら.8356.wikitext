@@ -1,11 +1,13 @@
 ==Japanese==
 
 ===Etymology 1===
-{{ja-kanjitab|alt=群,叢:uncommon,簇:uncommon,村,𨛗:uncommon}}
+{{etymid|ja|群}}
+{{ja-kanjitab|alt=群,叢:uncommon,簇:uncommon}}
 {{wikipedia|lang=ja}}
 
-The sense of "village" is cognate with the sense of "gathering".<ref name="DJR" />
 {{rfe|ja}}
+
+The sense of "village" is cognate with the sense of "gathering".<ref name="DJR" />
 
 ====Pronunciation====
 {{ja-pron|acc=2|acc_ref=DJR,NHK}}
@@ -13,11 +15,26 @@ The sense of "village" is cognate with the sense of "gathering".<ref name="DJR" 
 ====Noun====
 {{ja-noun}}
 
-# {{ja-def|群|叢|簇}}
-## [[gathering]]
-# {{ja-def|村|𨛗}}
-## [[village]] {{gl|a rural habitation of size between a hamlet and a town}}
-##* {{quote-book|ja
+# [[gathering]]
+
+====Suffix====
+{{ja-pos|suffix}}
+
+# [[gathering]]
+
+===Etymology 2===
+{{etymid|ja|斑}}
+{{ja-kanjitab|alt=村,𨛗:uncommon}}
+
+{{rfe|ja}}
+
+The sense of "village" is cognate with the sense of "gathering".<ref name="DJR" />
+
+====Noun====
+{{ja-noun}}
+
+# [[village]] {{gl|a rural habitation of size between a hamlet and a town}}
+#* {{quote-book|ja
 |||EXTRA PACK 2015|chapter={{ruby|{{lang|ja|[竜](りゅう)[角](かく)の[狩](しゅ)[猟](りょう)[者](しゃ)}}}}
 |||publisher={{w|Konami}}
 |trans-chapter=Dragon Horn Hunter
@@ -28,15 +45,10 @@ The sense of "village" is cognate with the sense of "gathering".<ref name="DJR" 
 * {{ja-r|里|さと}}
 * [[Appendix:Gikun Usage in Meiji Version of Japanese Bible/群]]
 
-====Suffix====
-{{ja-pos|suffix}}
-
-# {{ja-def|群|叢|簇}}
-## [[gathering]]
-
 {{topics|ja|Villages|Administrative divisions|sort=むら}}
 
-===Etymology 2===
+===Etymology 3===
+{{etymid|ja|斑}}
 {{ja-kanjitab|alt=斑}}
 
 ====Pronunciation====
