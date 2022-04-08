@@ -83,37 +83,6 @@
 |kun=たと-える, たぐい-, ためし-
 }}
 
-===Noun===
-{{ja-noun|れい}}
-
-例 ([[ためし]], [[tameshi]]),
-例し (ためし, tameshi)
-
-The most common reading is れい (rei).
-
-# [[example]], [[instance]]
-#* 例を[[引く]] <nowiki>[</nowiki>[[挙げる]]<nowiki>]</nowiki>
-#*: れいをひく[あげる]
-#*: rei o hiku [ageru]
-#*: cite [give] an example
-# [[illustration]]
-# [[case]]
-# [[custom]], the [[usual]]
-#* 例によって
-#*: れいによって
-#*: rei ni yotte
-#*: as usual
-#* 例に無く
-#*: れいになく
-#*: rei ni naku
-#*: contrary to habit
-# [[precedent]]
-# [[that]]
-#* 例の[[男]]
-#*: れいのおとこ
-#*: rei no otoko
-#*: that man (who we were speaking about)
-
 =====Compounds=====
 {{der-top3}}
 * {{ja-r|例%外|れい%がい|[[exception]]}}
@@ -135,6 +104,39 @@ The most common reading is れい (rei).
 * [[例数]]
 * [[例日]]
 {{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|れい|yomi=kanon}}
+
+====Noun====
+{{ja-noun|れい}}
+
+# a [[custom]], [[usual]] practice, [[habit]]
+#: {{synonyms|ja|慣例|tr=kanrei}}
+#: {{ja-usex|'''例'''によって|'''れい''' に よって|as '''usual'''}}
+#: {{ja-usex|'''例'''に無く|'''れい''' に なく|contrary to '''habit'''}}
+#: {{ja-usex|メールで連%絡するのが'''例'''となっている。|メール で れん%らく する の が '''れい''' と なっている。|It has become '''customary practice''' to correspond by email.}}
+# a [[precedent]]
+#: {{ja-usex|'''例'''のない出%来%事|'''れい''' の ない で%き%ごと|an '''unprecedented''' incident}}
+# the [[aforementioned]]
+#: {{ja-usex|'''例'''の男|'''れい''' の おとこ|that man (who we were speaking about)}}
+# a [[case]], an [[instance]], an [[illustration]], an [[example]]
+#: {{synonyms|ja|一例|tr=ichirei}}
+#: {{ja-usex|'''例'''として|'''れい''' と して|for '''instance'''}}
+#: {{ja-usex|'''例'''を示す|'''れい''' を しめす|give an '''example'''}}
+
+===Etymology 2===
+{{ja-kanjitab|ためし|yomi=k|alt=例し}}
+
+====Noun====
+{{ja-noun|ためし}}
+
+# an [[instance]], an [[example]], a [[precedent]]
+#: {{synonyms|ja|実例|先例|tr1=jitsurei|tr2=senrei}}
+#: {{ja-usex|聞いた'''例'''がありません。|きいた '''ためし''' が ありません。|I have never heard of such a thing.}}
+
+====Usage notes====
+The most common reading is れい (rei).
 
 ----
 
