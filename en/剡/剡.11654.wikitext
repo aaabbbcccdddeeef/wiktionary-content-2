@@ -4,9 +4,6 @@
 ===Han character===
 {{Han char|rn=18|rad=刀|as=08|sn=10|four=92800|canj=FFLN|ids=⿰炎刂}}
 
-# [[sharp]], sharp-[[point]]ed
-# [[sharpen]]
-
 ====References====
 * {{Han ref|kx=0141.320|dkj=02059|dj=0321.110|hdz=10346.010|uh=5261|ud=21089|bh=D0E6|bd=53478}}
 
@@ -18,25 +15,48 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Etymology===
+===Etymology 1===
 From {{inh|zh|sit-pro|*s-rjam||sharp}} (STEDT, {{zh-ref|Schuessler, 2007}}). Initial *{{IPAfont|r-}} was re-interpreted as pre-initial and dropped; whereas doublets {{och-l|磏|tr=*r(i)am|whetstone}} and {{och-l|鐮|sickle}} retain *{{IPAfont|r-}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
-|m=shàn,yǎn
-|c=sim6,jim5
+|m=shàn
+|c=sim6
 |mc=y
 |oc=y
 |cat=
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{zh-used2|p}}
 
 ====Compounds====
 {{zh-der|剡溪|剡剡|剡牘}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=yǎn
+|c=jim5
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{gloss|Of the written word}} to be [[incisive]]; to get to the [[point]].
+#: {{syn|zh|削尖}}
+
+====Adjective====
+{{head|zh|adjective}}
+
+# {{gloss|Of the written word}} [[sharp]]; [[incisive]]; to the [[point]].
+#: {{syn|zh|銳利}}
 
 ----
 
