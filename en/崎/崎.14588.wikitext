@@ -11,20 +11,22 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=﨑,嵜,㟢}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|山|奇|ls=psc|c1=s|c2=p|t1=mountain}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|alt=﨑,嵜,㟢,嶇-Hakka}}
+
+====Pronunciation====
 {{zh-pron
 |m=崎
 |c=kei4,kei1
-|md=kĭ/gì/kié
-|md_note=kĭ/gì - literary; kié - vernacular
-|mn=qz,tw:khi/xm:kî/qz,xm:kiâ/xm,zz,tw:kiā/qz:kiǎ
-|mn_note=khi/kî - literary; kiâ/kiǎ - vernacular ("steep", "steps", "slope")
+|md=kĭ/gì
+|md_note=kĭ/gì - literary
+|mn=qz,tw:khi/xm:kî/qz,xm:kiâ
+|mn_note=khi/kî - literary
 |mn-t=ki1/gia6
 |mn-t_note=gia6 - steep
 |mc=y
@@ -32,19 +34,42 @@
 |cat=a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|literary|or|Min Nan}} [[steep]]; [[precipitous]]; [[rugged]]
-# {{lb|zh|Min Nan}} [[slope]]
-#: {{zh-x|落{lo̍h} 崎|to go down a slope|MN}}
+# {{lb|zh|literary}} [[steep]]; [[precipitous]]; [[rugged]]
 
-====Synonyms====
+=====Synonyms=====
 {{zh-syn-saurus|陡峭}}
 {{zh-dial|陡}}
 
-===Compounds===
+====Compounds====
 {{zh-der|崎崟|崎嶇|崎嶇不平|崎嶇鳥道|崛崎|嶔崎|嶔崎歷落|嶔崎磊落|嶢崎|川崎|川崎症|長崎|竹崎|龍崎|嶝崎}}
+
+====Etymology 2====
+
+====Pronunciation====
+{{zh-pron
+|mb=gṳè
+|md=kié
+|md_note=kié - vernacular
+|mn=xm,zz,tw:kiā/qz:kiǎ
+|mn_note=kiâ/kiǎ - vernacular ("steep", "steps", "slope")
+|mn-t=gia6
+|mn-t_note=gia6 - steep
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min}} [[steep]]
+# {{lb|zh|Min Nan}} [[slope]]
+#: {{zh-x|落{lo̍h} 崎|to go down a slope|MN}}
+
+=====Synonyms=====
+{{zh-syn-saurus|陡峭}}
+{{zh-dial|陡}}
 
 ===References===
 * {{R:yue:Hanzi}}
