@@ -328,26 +328,46 @@ From the early Cyrillic letter iže, from {{der|ru|el|Η||eta}}.
 
 # [[and]]
 #: {{syn|ru|а|да}}
-#: {{ux|ru|[[вот|Вот]] [[я́блоко]] '''и''' [[гру́ша]].|Here’s an apple and a pear.}}
-#: {{ux|ru|[[да|Да]] '''и''' [[даже|да́же]] [[уже|уже́]] не [[болеть|боли́т]]|'''And''' it doesn't even hurt anymore.}}
-#: {{ux|ru|[[да|Да]] [[даже|да́же]] [[уже|уже́]] '''и''' не [[болеть|боли́т]]|'''And''' it doesn't even hurt anymore.}}
+#: {{uxi|ru|[[вот|Вот]] [[я́блоко]] '''и''' [[гру́ша]].|Here’s an apple '''and''' a pear.}}
+#: {{uxi|ru|[[да|Да]] '''и''' [[даже|да́же]] [[уже|уже́]] [[не]] [[болеть|боли́т]].|'''And''' it doesn't even hurt anymore.}}
+#: {{uxi|ru|[[да|Да]] [[даже|да́же]] [[уже|уже́]] '''и''' [[не]] [[болеть|боли́т]].|'''And''' it doesn't even hurt anymore.}}
 # [[as well as]], [[both]] ... and ...
-#: {{ux|ru|Росси́и [[нужный|нужны́]] '''и''' [[а́рмия]], '''и''' [[фло́т]].|Russia needs an army '''as well as''' a navy.}}
+#: {{uxi|ru|[[Росси́и]] [[нужный|нужны́]] '''и''' [[а́рмия]], '''и''' [[фло́т]].|Russia needs an army '''as well as''' a navy.}}
 # [[as well]]
-#: {{ux|ru|Я '''и''' [[это|э́то]] [[знать|зна́ю]].|I know that '''as well'''.}}
+#: {{syn|ru|[[ещё]] '''и'''|[[та́кже]] '''и'''}}
+#: {{uxi|ru|[[я|Я]] '''и''' [[это|э́то]] [[знать|зна́ю]].|I know that '''as well'''.}}
 # [[even]]
-#: {{ux|ru|[[бояться|Бою́сь]] дана́йцев '''и''' [[дар|дары́]] [[приносящий|принося́щих]]|I fear the Danaans [Greeks], '''even''' those bearing gifts.}}
-#: {{ux|ru|[[да|Да]] он '''и''' её не [[найти|нашёл]] — [[словно|сло́вно]] нас [[успеть|успе́ли]] [[обокрасть|обокра́сть]].|And he didn't find '''even''' that, as if someone had managed to rob us.}}
-#: {{ux|ru|[[ой|Ой]], [[да]] я [[же|ж]] [[даже|да́же]] '''и''' не [[пытаться|пыта́лся]]!|Oh my! I didn't '''even''' try to put any effort! (It can be either sarcasm or not) (даже means "even" too)}}
+#: {{uxi|ru|[[бояться|Бою́сь]] дана́йцев '''и''' [[дар|дары́]] [[приносящий|принося́щих]].|I fear the Danaans [Greeks], '''even''' those bearing gifts.}}
+#: {{uxi|ru|[[да|Да]] [[он]] '''и''' [[её]] [[не]] [[найти|нашёл]] — [[словно|сло́вно]] [[нас]] [[успеть|успе́ли]] [[обокрасть|обокра́сть]].|And he didn't find '''even''' that, as if someone had managed to rob us.}}
+#: {{uxi|ru|[[ой|Ой]], [[да]] [[я]] [[же|ж]] [[даже|да́же]] '''и''' [[не]] [[пытаться|пыта́лся]]!|Oh my! I didn't '''even''' try to put any effort! (It can be either sarcasm or not) (даже means "even" too)}}
 
 ====Particle====
 {{head|ru|particle}}
 
-# {{lb|ru|preceding a verb}} {{non-gloss definition|Emphasizes the truth of the following verb. Note that "{{l|ru|есть}}" is also used, which is usually omitted.}}
-#: {{ux|ru|[[он|Он]] [[так]] '''и''' [[делать|де́лает]].|He '''does''' do it that way.}}
-#: {{ux|ru|[[она|Она́]] '''и''' пошла́ [[туда́]].|She '''did''' go there.}}
-#: {{ux|ru|[[оно|Оно́]] '''и''' есть [[такой|тако́е]].|It '''''is''''' like that.}}
-#: {{ux|ru|[[я|Я]] '''и''' есть [[тот]] [[челове́к]].|I '''''am''''' that person.}}
+# {{n-g|Used as an emphasiser, including in a few set phrases. (Note that "{{m|ru|есть}}" is also used, which is usually omitted.)}}
+## {{n-g|To emphasise the truth of a verb}}
+##: {{uxi|ru|[[он|Он]] [[так]] '''и''' [[делать|де́лает]].|He '''does''' do it that way.}}
+##: {{uxi|ru|[[она|Она́]] '''и''' [[пошла́]] [[туда́]].|She '''did''' go there.}}
+##: {{uxi|ru|[[оно|Оно́]] '''и''' [[есть]] [[такой|тако́е]].|It '''''is''''' like that.}}
+##: {{uxi|ru|[[я|Я]] '''и''' [[есть]] [[тот]] [[челове́к]].|I '''''am''''' that person.}}
+## {{n-g|To emphasise a contrast}}
+##: {{uxi|ru|[[а|А]] [[е́сли]] '''и''' [[есть]]...|And if there is... (after having stated that there isn't)}}
+##: {{uxi|ru|[[а|А]] [[может быть|мо́жет быть]] '''и''' [[нет]].|Or maybe not (after having stated that something may be).}}
+## {{n-g|To emphasise a parenthetical remark}}
+##: {{uxi|ru|[[как]] '''и''' [[всегда́]]|as always}}
+##: {{uxi|ru|[[он|Он]] [[челове́к]], [[как]] '''и''' [[ты]].|He's a person, like you.}}
+##: {{uxi|ru|[[я|Я]] [[осужда́л]] [[всех]], [[в том числе́]] '''и''' [[себя́]].|I blamed everyone, including myself.}}
+##: {{ux|ru|[[опасность|Опа́сность]] [[мирово́го]] [[конфли́кта]], [[хотя́]] '''и''' [[отдалённый|отдалённая]], [[по-пре́жнему]] [[сохраня́ется]].|The risk of world conflict, though remote, is still present.}}
+## {{n-g|As other emphasis or in set phrases}}
+##: {{uxi|ru|[[я|Я]] [[не]] [[зна́ю]], [[поэ́тому]] '''и''' [[спра́шиваю]].|I don't know. That's why I'm asking.}}
+##: {{uxi|ru|[[так]] '''и''' [[есть]]|so it is}}
+##: {{uxi|ru|[[мне|Мне]] [[э́то]] '''и''' [[впрямь]] [[ко́е-что]] [[напомина́ет]].|This really reminds me of something.}}
+##: {{uxi|ru|[[похоже|Похо́же]], [[ты]] '''и''' [[впра́вду]] [[меня́]] [[пло́хо]] [[зна́ешь]].|Looks like you really don't know me.}}
+##: {{uxi|ru|[[не|Не]] [[отта́лкивай]] [[челове́ка]], [[кото́рый]] '''и''' [[пра́вда]] [[беспоко́ится]] [[о]] [[тебе́]].|Don't push away the person who actually cares about you.}}
+##: {{uxi|ru|[[вот]] '''и''' [[всё]]|[[that's all]]}}
+##: {{uxi|ru|[[а|А]] [[вот]] '''и''' [[наш]] [[друг]].|Here comes our friend.}}
+##: {{uxi|ru|[[почему́]] [[бы]] '''и''' [[нет]]|[[why not]]}}
+##: {{uxi|ru|[[так и не]]|never (managed to, got round to)}}
 
 =====Descendants=====
 * {{desc|izh|i|bor=1}}
