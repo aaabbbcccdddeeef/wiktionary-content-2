@@ -27,6 +27,18 @@
 ===Etymology 1===
 {{zh-forms|alt=𠄗,𠕛,𠣘,淍}}
 
+;to encircle, to circle, to surround, everywhere, curve (in the road)
+:Unclear. Possibly connected with {{cog|bo|tr=gču-ba}} ~ {{m|bo|tr=lču-ba|t=screw}}, {{m|bo|tr=gčud-ba}} ~ {{m|bo|tr=lčub-ba|t=turn, twist, plait, braid}}, or {{cog|th|ดิ้ว||club, stick; strips of rattan or bamboo bent in a circle to which ribs of a cage are fastened}} or {{cog|km|ជួត||to wind; to wrap around; to wear a turban}} ({{zh-ref|Schuessler, 2007}})
+
+;to help
+:Unclear. Maybe same word as {{zh-l|周|to surround}} as words for "help, aid" often derive from the notion "next to, or around, a person" (for analogies, {{och-l|佐|to assist < to be on one's left-side}} from {{och-l|左|left|id=1}} and {{och-l|佑|to assist < to be on one's right-side}} from {{och-l|右||right|id=1}}). Alternatively, note {{cog|km|ជួយ||to help, assist; to support; to rescue, save}} (ibid.) (yet also note {{cog|th|ช่วย}}, which in turn is from {{w|Middle Chinese}} {{ltc-l|助}})
+
+;dynasty's name
+:Attested in the Huayuanzhang {{w|Oracle Bone}} Inscription HYZ 327.1 (transliterated and translated by Schartz (2019:303))
+::{{zh-x|^周 入 亖{sì}|Zhou contributes four|CL-PC|ref=}}
+
+:{{zh-ref|Hargett (2021)}} states that {{zh-l|^商}} and {{zh-l|^周}} derived from names of "places that the rulers and people of those eras regarded as their homeland or cultic centers"; the {{zh-l|周方|tr=Zhōufāng|Zhou region}} was among "areas or regions along the frontier borders of Shang, traditionally regarded as enemy territory".
+
 ====Pronunciation====
 {{zh-pron
 |m=zhōu
@@ -50,8 +62,17 @@
 ====Definitions====
 {{zh-hanzi}}
 
-# [[thorough]]; [[scrupulous]]; [[meticulous]]
-# to [[help]] [[financially]]
+# to circle, to encircle
+#* {{zh-x|齊-師 敗 績。逐 之，三 周 華-不-注。|The Qi troops were completely defeated. Jin forces pursued the Qi army, whose remnants thrice '''circled''' Mount Huabuzhu.|ref=Zuozhuan}}
+# circle, circumference, periphery
+#* {{zh-x|⼤-城 不可以 不完，郭周 不可以 外通，⾥-域 不可以 橫-通。閭閈 不可以 毋-闔。宮垣 關閉 不可以 不-修。||ref=Guanzi}}
+# everywhere
+#* {{zh-x|自 西 徂 東、周 爰 執事。|From the west to the east, '''everywhere''' he was at work.|ref=Shijing}}
+# curve (in a road)
+#* {{zh-x|有 杕 之 杜，生 于 道-周。|There's a solitary {{w|Pyrus betulifolia|birchleaf pear tree}}, that grows on the road's '''curve'''.|ref=Shijing}} 
+# [[complete]]; [[thorough]]; [[scrupulous]]; [[meticulous]]
+# to [[help]] (e.g. [[financially]])
+#* {{zh-x|靡 人 不 周、無 不能 止。|There is no one who has not [tried to] '''help''' [the people]; They have not refrained on the ground of being unable.|ref=Shijing}}
 # {{lb|zh|historical}} {{zh-div|朝}} [[Zhou]] [[dynasty|Dynasty]]
 # {{surname|zh}}
 #: {{zh-x|^周 ^恩-來|{{w|Zhou Enlai|'''Zhou''' Enlai / '''Chou''' En-Lai}} (the first Premier of the People's Republic of China)}}
