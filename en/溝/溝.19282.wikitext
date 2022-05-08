@@ -11,15 +11,15 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=沟}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|水|冓|c1=s|c2=p|alt1=氵|t1=water|ls=psc}}.
 
 ===Etymology 1===
-; "ditch; drain"
-: Possibly the k-prefix noun of {{och-l|漏|to leak}} ({{zh-ref|Schuessler, 2007}}).
+{{zh-forms|s=沟}}
+
+Possibly the k-prefix noun of {{och-l|漏|to leak}} ({{zh-ref|Schuessler, 2007}}).
 
 ====Pronunciation====
 {{zh-pron
@@ -29,12 +29,12 @@
 |c_note=gau1 - uncommon (due to homophony with {{zh-l|*㞗}})
 |h=pfs=kiêu
 |md=
-|mn=kau/qz:kio/tw,xm,zz:ko͘
-|mn_note=kau - vernacular; kio/ko͘ - literary
+|mn=kau/xm,zz,tw:ko͘/qz:kio
+|mn_note=kau - vernacular; ko͘/kio - literary
 |mn-t=gao1
 |mc=y
 |oc=y
-|cat=n,c:v
+|cat=n
 }}
 
 ====Definitions====
@@ -50,12 +50,6 @@
 #: {{zh-x|屁股 溝|gluteal cleft}}
 #: {{zh-x|開 溝 播種|to make furrows for sowing seeds}}
 # {{lb|zh|Singapore Hokkien}} [[hole]]
-# {{lb|zh|Cantonese}} to [[mix]]
-#: {{zh-x|溝{kau1} 埋|to mix together|C}}
-#: {{zh-x|溝{kau1}米|(uncooked) rice of different types mixed together|C}}
-#* {{quote-song|zh|year=1987|lyricist={{w2|zh|林敏聰}}|title={{w2|zh|無心睡眠}}|album=|url=|artist={{w2|zh|張國榮}}}}
-#*: {{zh-x|酒醉 與 心碎 心碎 溝{kau1} 起 污煙 一 片|drunkenness and heartbreak, heartbreak, forms a muddled smog|C-LIT}}
-# {{lb|zh|chiefly|Cantonese}} to [[pick up]] ([[girl]]s)
 # a [[numeral]] that [[refer]]s to 10<sup>32</sup> or others
 
 {{attention|zh|+ "short for 乳溝"?}}
@@ -70,6 +64,7 @@
 {{zh-numerals-10^4}}
 
 ===Etymology 2===
+{{zh-forms|s=沟}}
 
 ====Pronunciation====
 {{zh-pron
@@ -90,6 +85,40 @@
 # {{zh-only used in|溝瞀|[[ignorant]]}}
 
 ===Etymology 3===
+{{zh-forms|s=沟|alt=勼}}
+
+====Pronunciation====
+{{zh-pron
+|c=kau1
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[mix]]
+#: {{zh-x|溝{kau1} 埋|to mix together|C}}
+#: {{zh-x|溝{kau1}米|(uncooked) rice of different types mixed together|C}}
+#* {{quote-song|zh|year=1987|lyricist={{w2|zh|林敏聰}}|title={{w2|zh|無心睡眠}}|album=|url=|artist={{w2|zh|張國榮}}}}
+#*: {{zh-x|酒醉 與 心碎 心碎 溝{kau1} 起 污煙 一 片|drunkenness and heartbreak, heartbreak, forms a muddled smog|C-LIT}}
+
+===Etymology 4===
+{{zh-forms|s=沟|alt=媾}}
+
+====Pronunciation====
+{{zh-pron
+|c=kau1
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|chiefly|Cantonese}} to [[pick up]]; to [[hit on]]
+
+===Etymology 5===
 {{zh-see|港|v}}
 
 {{zh-cat|Intermediate|Water}}
