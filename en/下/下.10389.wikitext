@@ -202,7 +202,7 @@ From {{der|zh|sit-pro|*(k/g)la-k/j/t||to fall}} (STEDT):
 From {{inh|ja|ojp|sort=した|-}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|した|acc=0|dev=1|acc_ref=DJR,NHK}}
+{{ja-pron|した|acc=0|dev=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|した}}
@@ -210,7 +210,7 @@ From {{inh|ja|ojp|sort=した|-}}.
 # the [[underneath]]
 #: {{ant|ja|上|tr=ue}}
 #* {{RQ:ja:AB|000074/files/427_19793}}
-#*: {{ja-usex|桜の樹の'''下'''には屍体が埋まって いる！これは信じていいことなんだよ。|^さくら の き の '''した''' に は したい が うまって いる！ ^これ は しんじて い.い こと な んだ よ。|There are dead bodies buried '''under''' the cherry trees! This is something you should believe.}}
+#*: {{ja-usex|桜の樹の'''下'''には屍体が埋まって いる！これは信じていいことなんだよ。|^さくら の き の '''した''' に は したい が うまって いる！ ^これ は しんじて い.い こと な ん だ よ。|There are dead bodies buried '''under''' the cherry trees! This is something you should believe.}}
 
 =====Derived terms=====
 * {{ja-r|下%着|した%ぎ}}
@@ -224,18 +224,49 @@ From {{inh|ja|ojp|sort=した|-}}.
 From {{inh|ja|ojp|-}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|しも|acc=2|acc_ref=DJR,NHK}}
+{{ja-pron|しも|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|しも}}
 
 # the [[lower]] [[portion]], [[end]]
 #: {{ant|ja|上|tr=kami}}
-# [[low]] in [[degree]] or [[rank]]
+# [[low]]ness in [[degree]] or [[rank]]
+# the [[downstream]] portion of a river
+# the [[downriver]] area
+# the area farther from the [[capital]]
+# the [[last]] part of a month, year, etc.
+# the lower half of the body
+# {{lb|ja|euphemism}} [[privates]]
+# {{lb|ja|euphemism}} [[feces]] and [[urine]], [[excrement]]
 
 =====Derived terms=====
+{{der-top}}
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+* {{ja-r|下総|^しもうさ}}
+* {{ja-r|下掛かる|しもがかる}}
+* {{ja-r|下期|しもき}}
+* {{ja-r|下五|しもご}}
+* {{ja-r|下肥|しもごえ}}
+* {{ja-r|下座|しもざ}}
+* {{ja-r|下々|しもじも}}
+* {{ja-r|下女中|しもじょちゅう}}
+* {{ja-r|下野|しもつけ}}
+* {{ja-r|下手|しもて}}
+* {{ja-r|下二段活用|しも にだん かつよう}}
 * {{ja-r|下の句|しも の く}}
 * {{ja-r|下%関|^しもの%せき}}
+* {{ja-r|下ネタ|しもネタ}}
+* {{ja-r|下半期|しもはんき}}
+* {{ja-r|下半身|しもはんしん}}
+* {{ja-r|下膨れ|しもぶくれ}}
+* {{ja-r|僕|しもべ|rom=-}}, {{ja-r|下部|しもべ}}
+* {{ja-r|下屋敷|しもやしき}}
+* {{ja-r|風下|かざしも}}
+* {{ja-r|上下|かみしも|rom=-}}, {{ja-r|裃|かみしも}}
+* {{ja-r|川下|かわしも}}
+* {{ja-r|水下|みなしも}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|もと|yomi=k}}
@@ -245,7 +276,7 @@ Cognate with {{m|ja|本|tr=moto||[[origin]]}}.<ref>{{R:Daijirin}}</ref><ref>{{R:
 * {{ja-l|元}}, {{ja-l|許}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|もと|acc=2|acc_ref=DJR,NHK}}
+{{ja-pron|もと|acc=2|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|もと}}
@@ -262,7 +293,7 @@ From {{der|ja|ltc|sort=け|-}} {{ltc-l|下}}.
 The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial borrowing from {{cog|ltc|-}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|げ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+{{ja-pron|げ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|げ}}
@@ -275,6 +306,9 @@ The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial 
 From {{der|ja|ltc|sort=か|-}} {{ltc-l|下}}.
 
 The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog|ltc|-}}.
+
+====Pronunciation====
+{{ja-pron|か}}
 
 ====Affix====
 {{ja-pos|affix|か}}
