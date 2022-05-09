@@ -13,13 +13,15 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=㩅:ancient}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|手|由|alt1=扌|ls=psc|c1=s|c2=p}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|alt=㩅-ancient}}
+
+====Pronunciation====
 {{zh-pron
 |m=chōu
 |m-s=cou1
@@ -35,7 +37,7 @@
 |cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[draw]] out
@@ -52,24 +54,41 @@
 # to [[whip]]; to [[flog]]; to [[cane]]
 # {{lb|zh|slang}} to become [[abnormal]]
 #: {{zh-x|我 顯示器 抽 了。|My monitor '''went crazy'''.}}
-# {{lb|zh|Cantonese}} {{zh-classifier|[[strung]], [[bunch]]ed or [[cluster]]ed objects}}
-#: {{zh-co|一 抽 鎖匙|a '''bunch''' of keys|C}}
-#: {{zh-co|一 抽 提子|a '''bunch''' of grapes|C}}
 
-====Synonyms====
+=====Synonyms=====
 * {{s|to smoke}} {{zh-l|吸}}
 * {{s|to shrink}} {{zh-l|收縮}}, {{zh-l|縮}}
 * {{s|to grow}} {{zh-l|長出}}
 * {{s|to whip}}
 {{zh-syn-saurus|鞭打}}
-* {{s|classifier for bunched objects}}
-{{zh-dial|串}}
 
-===Compounds===
+====Compounds====
 {{zh-der|抽水|抽象|剔抽禿刷|剔抽禿揣|剝皮抽筋|十抽一|工作抽查|工作抽樣|底線抽球|打抽豐|抽丁|抽丁拔楔|抽付|抽公籤|抽冷子|抽分|抽剝|抽功夫|抽動|抽印|抽取|抽咽|抽噎|抽地|抽子|抽屜|抽後腿|抽心|抽打|抽抽噎噎|抽換|抽搐|抽搭|抽斗|抽暇|抽替|抽查|抽條|抽梯子|抽樣|抽樣調查|抽檢|抽氣機|抽油煙機|抽泣|抽獎|抽球|抽瘋|抽稅|抽穗|抽空|抽筋|抽筋剝皮|抽筋拔骨|抽簡祿馬|抽簪|抽籤|抽紗|抽絲|抽絲剝繭|抽緒|抽縐|抽考|抽胎換骨|抽腳|抽芽|抽菸|抽蓄發電|抽薪止沸|抽血|抽調|抽豐|抽象主義|抽象名詞|抽象派|抽象畫|抽身|抽釐|抽閒|抽青配白|抽鞭子|抽頭|抽風機|抽驗|抽黃對白|抽點|抽鼻兒|拉抽屜|擢髮抽腸|瀝膽抽腸|皮裡抽肉|線抽傀儡|辦抽|過橋抽板|過河抽板|釜底抽薪|開場抽頭|隨機抽樣|抽繹|透抽:thàu-thiu|抽氣扇}}
 
-===Descendants===
+====Descendants====
 * {{desc|mn|татах||to inhale|sml=y}}
+
+===Etymology 2===
+{{zh-forms|alt=揪,搊}}
+
+====Pronunciation====
+{{zh-pron
+|c=cau1
+|cat=cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-classifier|[[strung]], [[bunch]]ed or [[cluster]]ed objects}}
+#: {{zh-co|一 抽 鎖匙|a '''bunch''' of keys|C}}
+#: {{zh-co|一 抽 提子|a '''bunch''' of grapes|C}}
+
+=====Synonyms=====
+{{zh-dial|串}}
+
+====Compounds====
+{{zh-der|一抽二掕}}
 
 ===References===
 * {{R:yue:Hanzi}}
