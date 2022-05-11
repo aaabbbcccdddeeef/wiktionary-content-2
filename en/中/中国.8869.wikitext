@@ -9,15 +9,20 @@
 ===Etymology 1===
 {{wp|lang=ja}}
 {{ja-kanjitab|yomi=o|ちゅう|こく|k2=ごく}}
-From {{bor|ja|ltc|-}} {{ltc-l|中國|id=1|lit=[[central]] [[country]]}}. Compare modern {{cog|yue|中國|tr=zung<sup>1</sup> gwok<sup>3</sup>}}.
+From {{bor|ja|ltc|-}} {{ltc-l|中國|id=1|lit=[[central]] [[country]]}}. Compare modern {{cog|yue|中國|tr=zung<sup>1</sup> gwok<sup>3</sup>}}. Attested from at least the 12th century.<ref>{{R:Kokugo Dai Jiten}}</ref>
 
 {{rfe|ja|Where the "China" sense first attested in a Japanese document?}}
 
 ====Proper noun====
 {{ja-pos|ちゅうごく|proper}}
 
-# [[China]], ''especially'' {{short for|ja|中華人民共和国|tr=Chūka Jinmin Kyōwakoku|nocap=1|dot=,}} the [[People's Republic of China]]
-#* {{quote-book
+# [[China]]
+## {{lb|ja|historical|_|or contemporary}} any of several [[kingdom]]s, [[empire]]s, or [[state]]s of the [[Chinese]] people
+##: {{hyponyms|ja|殷|tr1=In|周|tr2=Shū|秦|tr3=Shin|漢|tr4=Kan|唐|tr5=Tō|中華民国|tr6=Chūka Minkoku}}
+##* {{quote-book|ja|c. 1120||Konjaku monogatari shū|trans-title=Tales of Times Now Past|section=scroll 6}}
+##*: {{ja-usex|造り奉れる体を見るに、'''中%國'''には不%似ず、面[めう]胡%国に似たり。|^つくり まつれる すがた を みる に、'''^ちゅう%ごく''' に は ふ-%にず、 めん[めう] こ%こく に にたり。|Judging from the appearance [of the statue], it is not unlike those in '''China''', though the face resembles the northern nations.}}
+## {{lb|ja|especially|in contemporary usage|sort=ちゅうごく}} {{short for|ja|中華人民共和国|tr=Chūka Jinmin Kyōwakoku|nocap=1|dot=,}} the [[People's Republic of China]]
+##* {{quote-book
 |ja
 |genre=fiction
 ||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
@@ -33,7 +38,7 @@ From {{bor|ja|ltc|-}} {{ltc-l|中國|id=1|lit=[[central]] [[country]]}}. Compare
 ||27
 |series={{w2|ja|大長編ドラえもん}}
 |seriesvolume=10}}
-#*: {{ja-usex|ねえねえ、今の地%図みた⁉|^ねえ ねえ、いま の ち%ず みた⁉|Hey, did you see that map!?}}{{ja-usex|みた！いったいここはなんという国だろう。|みた！いったい ここ は なん と いう くに だろう。|I did! I wonder what country this is.}}{{ja-usex|クニ？クニ って なあに。|Country? What’s a country?}}{{ja-usex|アメリカとか'''中%国'''とかいろいろあるじゃない。|^アメリカ とか '''^ちゅう%ごく''' とか いろいろ ある じゃ ない。|You know, countries. There are a bunch of them like America and '''China'''.}}{{ja-usex|ぼくらは日%本からきたんだけど…。|^ぼくら は ^にっ%ぽん から きた ん だ けど…。|We’re from Japan, by the way...}}{{ja-usex|ニッポン？きいたことない。|ニッポン？き.いた こと ない。|Japan? I’ve never heard of that before.}}
+##*: {{ja-usex|クニ？クニ って なあに。|Country? What’s a country?}}{{ja-usex|アメリカとか'''中%国'''とかいろいろあるじゃない。|^アメリカ とか '''^ちゅう%ごく''' とか いろいろ ある じゃ ない。|You know, countries. There are a bunch of them like America and '''China'''.}}
 
 =====Derived terms=====
 * {{ja-r|中%国%語|^ちゅう%ごく%-ご|[[Chinese]] [[language]]}}
