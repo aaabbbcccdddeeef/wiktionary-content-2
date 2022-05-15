@@ -1,6 +1,6 @@
 {{also|EI|El|曰|臼|白|冃|티|𐌇|𐩳}}
-{{character info/subpage}}
-{{character info/subpage|⽇}}
+{{character info}}
+{{character info|⽇}}
 {{commonscat}}
 
 ==Translingual==
@@ -218,8 +218,10 @@ The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial 
 Sometimes shortened to {{ja-l|んち||-nchi}} or {{ja-l|ち||-chi}}.
 
 =====Derived terms=====
-* {{ja-r|一%日|いち%にち}}
-* {{ja-r|幾%日|いく%にち}}
+{{ja-r/multi|data=
+* {{ja-r/args|一%日|いち%にち}}
+* {{ja-r/args|幾%日|いく%にち}}
+}}
 
 =====See also=====
 {{ja-number-counter:日}}
