@@ -1,6 +1,6 @@
-{{character info/subpage}}
-{{character info/subpage|0xfa45}}
-{{character info/subpage|0x2f901}}
+{{character info}}<!-- Do not change this. This combination gives the lowest Lua memory usage. -->
+{{character info|0xfa45}}<!-- Or this. -->
+{{character info/subpage|0x2f901}}<!-- Or this. -->
 ==Translingual==
 {{ja-forms|海|海|海}}
 {{stroke order|strokes=10}}
