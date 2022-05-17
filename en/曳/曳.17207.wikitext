@@ -11,21 +11,18 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Etymology===
+===Etymology 1===
+{{zh-forms}}
 {{rfe|zh}}
-; &ldquo;naughty&rdquo;
-: Compare {{cog|za|yaez}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=曳
-|c=jai6,jai5,jai1
-|c_note=jai5, jai1 - naughty, of poor quality
+|c=jai6
 |mn=è
 |mc=y
 |oc=y
@@ -33,7 +30,7 @@
 |cat=v,c:a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # {{†}} to [[drag]]; to [[pull]]
@@ -41,17 +38,35 @@
 #: {{syn|zh|拽|tr1=zhuài|拖|tr2=tuō|拉|tr3=lā}}
 # {{†}} to [[float]] in the [[wind]]; to [[sway]]
 # {{†}} [[tired]]; [[fatigued]]
-# {{lb|zh|Cantonese}} [[naughty]]; [[ill]]-[[behaved]]; [[unruly]]
-# {{lb|zh|Cantonese}} of [[poor]] [[quality]]
-
-====Synonyms====
-{{zh-dial|頑皮}}
-
-====Antonyms====
-* {{sense|naughty}} {{q|Cantonese}} {{zh-l|乖|gwaai1}}
 
 ====Compounds====
 {{zh-der|心旌搖曳|扯曳|拉曳|拖曳|拖曳傘|拖曳機|掣曳|搖曳|搖曳生姿|曳光彈|曳剌|曳尾塗中|曳尾泥塗|曳引機|曳引車|曳曳|曳步|曳白|曳落河|曳裾王門|曳踵|棄甲曳兵|臨風搖曳|衣不曳地|迎風搖曳|隨風搖曳|曳婁}}
+
+===Etymology 2===
+{{zh-forms|alt=呭,𠯋}}
+Compare {{cog|za|yaez}}.
+
+====Pronunciation====
+{{zh-pron
+|c=jai5,jai1,jai4
+|c_note=jai1 - “naughty”; jai4 - chiefly “of poor quality”
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[naughty]]; [[ill]]-[[behaved]]; [[unruly]]
+# {{lb|zh|Cantonese}} of [[poor]] [[quality]]
+
+=====Synonyms=====
+{{zh-dial|頑皮}}
+
+=====Antonyms=====
+* {{sense|naughty}} {{q|Cantonese}} {{zh-l|乖|gwaai1}}
+
+====Compounds====
+{{zh-der|曳曳}}
 
 ===References===
 * {{R:twedu|A01832}}
