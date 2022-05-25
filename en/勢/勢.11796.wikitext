@@ -106,11 +106,24 @@ Nominalisation of {{och-l|設|tr=*ŋ̊et|to set up}}, i.e. “that which is set 
 * {{ja-r|海%外%勢|かい%がい%ぜい}}
 {{bottom}}
 
-===Noun===
-{{ja-kanjitab|せい|yomi=kanon}}
-{{ja-noun|せい}}
+===Etymology===
+{{ja-kanjitab|せい|yomi=o}}
+{{der+|ja|ltc|-}} {{ltc-l|勢}}.
+
+====Pronunciation====
+{{ja-pron|せい|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せい|hhira=せい}}
 
 # [[force]]
+
+====Suffix====
+{{ja-pos|suffix|せい|hhira=せい}}
+
+# [[force]] {{gloss|group of people}}
+#: {{ja-usex|海外勢|かいがい-せい|overseas fanbase}}
+#: {{ja-usex|CD勢|シーディー-せい|the type of person who prefers to purchase CDs}}
 
 ----
 
