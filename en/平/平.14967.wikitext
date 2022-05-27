@@ -178,9 +178,11 @@ As an alternative form for {{ja-l|弁}}:
 }}
 
 ====Compounds====
-* {{ja-r|平%和|ピン%フ}}
-* {{ja-r|難%平|なん%ぴん}}
-* {{ja-r|半平|はんぺん}}
+{{ja-r/multi|data=
+* {{ja-r/args|平%和|ピン%フ}}
+* {{ja-r/args|難%平|なん%ぴん}}
+* {{ja-r/args|半平|はんぺん}}
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|ひら|yomi=k}}
@@ -207,10 +209,12 @@ Stem of adjective {{m|ja|平たい|tr=hiratai}}. {{rfv-etym|ja}}
 
 =====Derived terms=====
 {{der-top3}}
-* {{ja-r|枚|ひら}}
-* {{ja-r|平%泳ぎ|ひら%およぎ}}
-* {{ja-r|平%仮名|ひら%がな}}
-* {{ja-r|平%日|ひら%び}}
+{{ja-r/multi|data=
+* {{ja-r/args|枚|ひら}}
+* {{ja-r/args|平%泳ぎ|ひら%およぎ}}
+* {{ja-r/args|平%仮名|ひら%がな}}
+* {{ja-r/args|平%日|ひら%び}}
+}}
 {{der-bottom}}
 
 ====Prefix====
@@ -248,7 +252,9 @@ Nominalization of adjective {{m|ja|平ら|tr=taira||[[flat]], [[level]]}}.
 # {{given name|ja|male|A=a|sort=たいら}}
 
 =====Derived terms=====
-* {{ja-r|松%平|^まつ%だいら}}
+{{ja-r/multi|data=
+* {{ja-r/args|松%平|^まつ%だいら}}
+}}
 
 ===Etymology 3===
 {{ja-kanjitab|へい|yomi=kanon}}
@@ -279,12 +285,14 @@ The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later b
 
 =====Derived terms=====
 {{der-top3}}
-* {{ja-r|平%均|へい%きん}}
-* {{ja-r|平%日|へい%じつ}}
-* {{ja-r|平%凡|へい%ぼん}}
-* {{ja-r|平%野|へい%や}}
-* {{ja-r|平%和|へい%わ}}
-* {{ja-r|源%平|^げん%ぺい}}
+{{ja-r/multi|data=
+* {{ja-r/args|平%均|へい%きん}}
+* {{ja-r/args|平%日|へい%じつ}}
+* {{ja-r/args|平%凡|へい%ぼん}}
+* {{ja-r/args|平%野|へい%や}}
+* {{ja-r/args|平%和|へい%わ}}
+* {{ja-r/args|源%平|^げん%ぺい}}
+}}
 {{der-bottom}}
 
 ====Proper noun====
@@ -393,10 +401,12 @@ Nominalization of classical verb {{m|ja|おさむ|tr=osamu}}, modern {{m|ja|お�
 
 ====Derived terms====
 {{der-top3}}
-* {{ko-l|평범|平凡}}
-* {{ko-l|평화|平和}}
-* {{ko-l|평양|平壤}}
-* {{ko-l|평야|平野}}
+{{ko-l/multi|data=
+* {{ko-l/args|평범|平凡}}
+* {{ko-l/args|평화|平和}}
+* {{ko-l/args|평양|平壤}}
+* {{ko-l/args|평야|平野}}
+}}
 {{der-bottom}}
 
 [[Category:Hanja readings|평]]
