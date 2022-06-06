@@ -1613,12 +1613,16 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 {{head|uz|pronoun}}
 
 # [[he]], [[she]], [[it]]
-# [[that]]
-#: {{uxi|uz|'''U''' eshik.|'''That''' is a door.}}
-#: {{ant|uz|bu}}
 
 ====Declension====
 {{uz-personal pronouns}}
+
+===Pronoun===
+{{head|uz|pronoun|plural|ular}}
+
+# [[that]]
+#: {{uxi|uz|'''U''' eshik.|'''That''' is a door.}}
+#: {{ant|uz|bu}}
 
 ===Determiner===
 {{head|uz|determiner}}
