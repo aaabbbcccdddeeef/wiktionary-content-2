@@ -2372,18 +2372,18 @@ From {{inh|gmq-bot|non|æ||ay, ever, always}}, from {{inh|gmq-bot|gem-pro|*aiwi|
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|yo|/e/}}
-* {{sense|letter name}} {{IPA|yo|/é/}}
+* {{sense|phoneme}} {{IPA-lite|yo|/e/}}
+* {{sense|letter name}} {{IPA-lite|yo|/é/}}
 
 ====Letter====
 {{yo-letter|upper=E|lower=e}}
 
-# {{Latn-def|yo|letter|4|é}}
+# {{Latn-def-lite|yo|letter|4|é|langname=Yoruba}}
 
 ====Noun====
-{{yo-pos|noun|é}}
+{{head|yo|noun|head=é}}
 
-# {{Latn-def|yo|name|E|e}}
+# {{Latn-def-lite|yo|name|E|e|langname=Yoruba}}
 
 ====See also====
 * {{list:Latin script letters/yo}}
@@ -2392,18 +2392,18 @@ From {{inh|gmq-bot|non|æ||ay, ever, always}}, from {{inh|gmq-bot|gem-pro|*aiwi|
 ===Etymology 2===
 
 ====Pronunciation====
-* {{sense|mid-tone}} {{IPA|yo|/ē/}}
-* {{sense|high-tone}} {{IPA|yo|/é/}}
+* {{sense|mid-tone}} {{IPA-lite|yo|/ē/}}
+* {{sense|high-tone}} {{IPA-lite|yo|/é/}}
 
 ====Pronoun====
-{{yo-pos|pronoun|e}}
+{{head|yo|pronoun}}
 
-# [[him]], [[her]], [[it]] {{gl|third-person singular object pronoun following a [[monosyllabic]] verb with a high-tone /e/}}
+# [[him]], [[her]], [[it]] {{gloss-lite|third-person singular object pronoun following a [[monosyllabic]] verb with a high-tone /e/}}
 
 ====Pronoun====
-{{yo-pos|pronoun|é}}
+{{head|yo|pronoun|head=é}}
 
-# [[him]], [[her]], [[it]] {{gl|third-person singular object pronoun following a [[monosyllabic]] verb with a low- or mid-tone /e/}}
+# [[him]], [[her]], [[it]] {{gloss-lite|third-person singular object pronoun following a [[monosyllabic]] verb with a low- or mid-tone /e/}}
 
 ----
 
