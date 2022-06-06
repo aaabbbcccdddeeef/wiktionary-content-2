@@ -1,5 +1,4 @@
 ==Azerbaijani==
-{{az-variant|c=јардым|r=yardım|a=یاردیم}}
 
 ===Etymology===
 According to most scholars, a derivation of {{der|az|fa|یار|tr=yâr}}<ref>{{R:trk:ESTJa|vol=IV|pages=142-143}}</ref>.
@@ -10,21 +9,17 @@ Alternatively, from a barely attested stem {{m|und|*yar-|}}, in which case possi
 * {{hyphenation|az|yar|dım}}
 
 ===Noun===
-{{az-head-noun|ı|c}}
+{{az-variant|јардым|یاردیم}}
+{{az-noun}}
 
 # [[help]], [[assistance]]
-#: '''''Yardımınıza''' [[ehtiyac|ehtiyacım]] var(dır)''.
-#:: I need your {{lb|az|in the plural}} help.
-#: '''''Yardıma''' ehtiyacın var(dır)?''
-#:: Do you {{lb|az|in the singular}} need help?
-#: '''''Yardımın''' üçün təşəkkürlər.''
-#:: Thanks for your {{lb|az|in the singular}} help.
+#: {{syn|az|kömək}}
+#: {{uxi|az|'''Yardımınıza''' [[ehtiyac|ehtiyacım]] var(dır)|t=I need your help.}}
+#: {{uxi|az|'''Yardıma''' [[ehtiyac|ehtiyacın]] var(dır)?|t=Do you {{lb|az|in the singular}} need help?}}
+#: {{uxi|az|'''Yardımın''' üçün təşəkkürlər.|t=Thanks for your {{lb|az|in the singular}} help.}}
 
 ====Declension====
 {{az-decl-noun|ı|c}}
-
-====Synonyms====
-* {{l|az|kömək}}
 
 ====Descendants====
 * {{desc|fa|یاردم|bor=1|tr=yârdom, yârdum}}
