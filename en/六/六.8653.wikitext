@@ -166,39 +166,41 @@ From {{inh|zh|sit-pro|*d-k-ruk||six}}.
 
 ===Etymology 1===
 {{ja-kanjitab|む|yomi=k}}
+
 The ablaut form of {{l|ja|三|tr=mi|t=three}}, which it doubles. From {{inh|ja|ojp|六}}, from {{inh|ja|jpx-pro|*mu}}.
+
+====Pronunciation====
+{{ja-pron|む|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|む}}
 
-# six
+# [[six]]
 
 =====Derived terms=====
 * {{ja-r|六つ|むっつ}}
 
 ===Etymology 2===
-{{ja-kanjitab|ろく|yomi=goon}}
-From {{bor|ja|zh|六}}.
+{{ja-kanjitab|ろく|yomi=goon|alt=陸:"used in legal contexts"}}
 
-Compare modern {{cog|yue|-}} reading {{m|yue||luk6}}.
-
-====Alternative forms====
-* {{l|ja|陸}} ''(used in legal documents)''
+From {{bor|ja|ltc|-}} {{ltc-l|六}}.  Compare modern {{cog|yue|-}} reading {{m|yue||luk6}}.
 
 ====Pronunciation====
-{{ja-pron|ろく|accent=2|yomi=goon}}
+{{ja-pron|ろく|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|ろく}}
 
 # [[six]]
-# a name of a hole of a [[wind instrument]]
+# the [[sixth]] hole of a [[wind instrument]]
 
 ====Coordinate terms====
 {{japanese number}}
 
-[[Category:Grade 1 kanji|八02]]
+===References===
+<references/>
 
+[[Category:Grade 1 kanji|八02]]
 [[Category:Japanese numeral symbols|6]]
 [[Category:Japanese numerals]]
 {{topics|ja|Six}}
