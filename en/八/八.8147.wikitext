@@ -165,12 +165,11 @@ From {{inh|zh|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-
 }}
 
 ===Etymology 1===
+{{ja-kanjitab|はち|yomi=k}}
+{{wikipedia|lang=ja}}
 
 ====Pronunciation====
-{{ja-kanjitab|はち|yomi=k}}
-{{swp|lang=ja}}
-{{ja-pron|はち|y=k|acc=1}}
-* {{audio|ja|Ja-8-hachi.ogg|Audio}}
+{{ja-pron|はち|acc=1|acc_ref=DJR|a=Ja-8-hachi.ogg}}
 
 ====Numeral====
 {{ja-pos|numeral|はち}}
@@ -185,7 +184,12 @@ From {{inh|zh|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-
 # {{short for|ja|八兵衛}}
 
 ===Etymology 2===
-The ablaut form of {{m|ja|四||four|tr=yo}}, which it doubles. From {{inh|ja|ojp|八|tr=ya}}, from {{inh|ja|jpx-pro|*ya}}.
+{{ja-kanjitab|yomi=k|や}}
+
+The ablaut form of {{m|ja|四|tr=yo||four}}, which it doubles. From {{inh|ja|ojp|八|tr=ya}}, from {{inh|ja|jpx-pro|*ya}}.
+
+====Pronunciation====
+{{ja-pron|や|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|や}}
@@ -199,6 +203,9 @@ The ablaut form of {{m|ja|四||four|tr=yo}}, which it doubles. From {{inh|ja|ojp
 
 ====Coordinate terms====
 {{japanese number}}
+
+===References===
+<references/>
 
 [[Category:Japanese numeral symbols|8]]
 [[Category:ja:Eight|はち]]
