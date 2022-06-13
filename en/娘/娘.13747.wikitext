@@ -103,10 +103,13 @@ Alternatively, it may be a loan from {{cog|trk-pro|[[*ana]] ~ [[*eńe]]||mother}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|むすめ}}
-Compound of {{com|ja|sort=むすめ|生す|tr1=musu|t1=to beget|女|tr2=me|t2=female}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"></ref>
+
+From {{inh|ja|ojp|sort=むすめ|-}}.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref><ref name="DDJS">{{R:Digital-Daijisen}}</ref><ref name="DJR"/>  First cited to the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ2"/>
+
+Analyzed as a compound of {{compound|ja|sort=むすめ|生す|tr1=musu|t1=to beget|女|tr2=me|t2=female}}.<ref name="KDJ2"/><ref name="DDJS"/><ref name="DJR"/>
 
 ====Pronunciation====
-{{ja-pron|y=k|むすめ|acc=3|acc_ref=NHK,DJR}}
+{{ja-pron|むすめ|acc=3|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|むすめ|count=人}}
@@ -115,12 +118,10 @@ Compound of {{com|ja|sort=むすめ|生す|tr1=musu|t1=to beget|女|tr2=me|t2=fe
 #* {{quote-book
 |ja
 ||{{w|lang=ja|井沢ひろし|Izawa, Hiroshi}}
-|{{wj|ファイアーエムブレム 覇者の剣}}
+|{{ja-r|linkto=-|{{w|lang=ja|ファイアーエムブレム： 覇%者の剣}}|^ファイアー ^エムブレム： ^は%しゃ の ^つるぎ|Fire Emblem: Sword of Champions}}
 ||352
 |coauthors={{w|lang=ja|山田孝太郎|Yamada, Kotaro}}
-|chapter={{lj|[最](さい)[終](しゅう)[話](わ)　それぞれの[道](みち)へ}}
-|trans-chapter=Final Chapter: Epilog
-|trans-title=Fire Emblem: Sword of Champions
+|chapter={{ja-r|linkto=-|最%終%話：それぞれの道へ|^さい%しゅう%わ： ^それぞれ の ^みち へ|Final Chapter: Epilog}}
 |genre=fiction
 |edition=Jump Remix
 |volume=5
@@ -144,7 +145,8 @@ Compound of {{com|ja|sort=むすめ|生す|tr1=musu|t1=to beget|女|tr2=me|t2=fe
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|こ}}
-Alternative spelling.  See {{l|ja|子|tr=ko}}.
+
+Alternative spelling.  See {{m|ja|子|tr=ko}}.
 
 ====Noun====
 {{ja-noun|こ}}
@@ -152,14 +154,12 @@ Alternative spelling.  See {{l|ja|子|tr=ko}}.
 # {{alt sp|ja|子||[[girl]]}}
 #* {{quote-book
 |ja
-|||{{wj|ショートプログラム (漫画)|[SHORT](ショート) [PROGRAM](プログラム)}}
-|trans-title={{w|Short Program (manga)|Short Program}}
+|||{{ja-r|linkto=-|{{w|lang=ja|ショートプログラム (漫%画)}}|^ショート ^プログラム (まん%が)|{{w|Short Program (manga)}}}}
 ||107
 |last=Adachi
 |first=Mitsuru
 |authorlink=Mitsuru Adachi
-|chapter={{lj|テイク・オフ}}
-|trans-chapter=Take Off
+|chapter={{ja-r|linkto=-|^テイク・^オフ||Take Off}}
 |genre=fiction
 |edition=25th
 |location=Tokyo
@@ -169,25 +169,6 @@ Alternative spelling.  See {{l|ja|子|tr=ko}}.
 |volume=1
 |isbn=4-09-121881-4}}
 #*: {{ja-usex|自%分 で 自%分 の 行%動 に 条%件 を つけちゃうん だ よ、 この '''娘'''—— 例えば、 毎%年 初%雪 が 降る まで モチ は 食わない とか、 霊%柩%車 が 通る まで 道 を 渡らない とか、 ネコ が あくびする まで コタツ を 出ない とか。|^じ%ぶん で じ%ぶん の こう%どう に じょう%けん を つけちゃうん だ よ、 この '''こ'''—— ^たとえば、 まい%とし はつ%ゆき が ふる まで モチ は くわない とか、 れい%きゅう%しゃ が とおる まで みち を わたらない とか、 ネコ が あくびする まで コタツ を でない とか。|This '''girl''', I’m telling you, she sets terms for every of her own actions— Like, not eating mochi until the first snowfall of each year, not crossing the street until the hearse passes by, or not leaving the kotatsu until her cat yawns.}}
-#* {{quote-book
-|ja
-|||{{wj|ブラック・ジャック}}
-||62
-|last=Tezuka
-|first=Osamu
-|authorlink=Osamu Tezuka
-|chapter={{lj|第３話　スタ一誕生}}
-|trans-chapter=Chapter 3: Birth of a Star
-|trans-title={{w|Black Jack}}
-|genre=fiction
-|edition=8th
-|location=Tokyo
-|publisher=Hakusensha
-|date=Jan 20 2000
-|origdate=Nov 20 1982
-|volume=11
-|isbn=4-06-108761-4}}
-#*: {{ja-usex|その '''娘''' は もう <span style{{=}}"text-emphasis:open dot; -webkit-text-emphasis:open dot;">死んだ</span>。 魅%力%的 な 子 だった。|^その '''こ''' は もう <u>しんだ</u>。 ^み%りょく%てき な こ だった。|That '''girl''' is already <u>dead</u>. She was very attractive.}}
 
 =====Derived terms=====
 * {{ja-r|お転%婆%娘|お-てん%ば%こ|[[tomboy]]}}
