@@ -11,7 +11,7 @@ The current past participle '''''stato''''' is from {{m|it|stare}}, ultimately f
 {{it-pr|èssere<audio:It-essere.ogg>}}
 
 ===Verb===
-{{it-verb-old|e\è\sóno,fùi,stàto.imperf:èro.fut:sarò.sub:sìa.impsub:fóssi.imp:sìi}}
+{{it-verb|e\@}}
 
 # {{lb|it|auxiliary|the non-perfect forms followed by a past participle, used to form composite (perfect) tenses of passive intransitive verbs and of their reflexive forms}} to have (done something); to [[be]] in the state of having (done something); ''See [[:Category:Italian verbs taking essere as auxiliary|Category:Italian verbs taking essere as auxiliary]].''
 #: {{uxi|it|'''Essendo''' partito e non '''essendo'''si ancora fermato, lui è tutt’ora in movimento.|'''Being''' started and not '''having''' stopped yet, he is still moving.|lit='''Being''' started and not '''having''' stopped yet, he is all now in movement.}}
@@ -328,17 +328,62 @@ text=[…] E per ciò, acciò che noi per ischifiltá o per trascutaggine non ca
 * Unlike in English when stating an amount, for example amount of money to pay for a service, uses third plural {{m|it|sono}}, not third singular {{m|it|è}}. For example "It will be 200 €" translates to "Sono 200 €"
 
 ====Conjugation====
-{{it-conj-ere||essere
-|inf=[[essere]], {{q|truncated apocopic form}} [[esser]]|
-|ger=essendo|ger2={{q|archaic}} [[sendo]]|presp={{q|rare, partially supplanted}} [[essente]]|pastp=stato|pastp2={{q|archaic, supplanted by ''{{l|it|stato}}''}} [[essuto]], {{q|archaic}} [[suto]]
-|pres1s=[[sono]], {{q|truncated apocopic form}} [[son]]|pres2s=sei|pres3s=è|pres1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|pres1p2={{q|archaic or regional}} [[semo]], {{q|archaic or regional, truncated apocopic form}} [[sem]]|pres2p=siete|pres2p2={{q|archaic}} [[sete]]|pres3p=[[sono]], {{q|truncated apocopic form}} [[son]]|pres3p2={{q|archaic or regional}} [[enno]], {{q|archaic or regional, truncated apocopic form}} [[en]]
-|imperf1s=ero|imperf1s2={{q|archaic or literary}} [[era]]|imperf2s=eri|imperf3s=era|imperf1p=[[eravamo]], {{q|truncated apocopic form}} [[eravam]]|imperf2p=eravate|imperf3p=[[erano]], {{q|truncated apocopic form}} [[eran]]
-|prem1s=fui|prem2s=fosti|prem2s2={{q|archaic}} [[fusti]]|prem3s=fu|prem3s2=-|prem1p=[[fummo]], {{q|truncated apocopic form}} [[fum]]|prem2p=foste|prem2p2={{q|archaic}} [[fuste]]|prem3p=[[furono]], {{q|truncated apocopic form}} [[furon]]|prem3p2={{q|archaic}} [[furo]], {{q|archaic, truncated apocopic form}} [[fur]], {{q|archaic}} [[foro]], {{q|archaic, truncated apocopic form}} [[for]], {{q|archaic}} [[fuoro]], {{q|archaic, truncated apocopic form}} [[fuor]]
-|fut1s=sarò|fut2s=sarai|fut3s=sarà|fut3s2={{q|archaic}} [[fia]], {{q|archaic}} [[fie]]|fut1p=[[saremo]], {{q|truncated apocopic form}} [[sarem]]|fut2p=sarete|fut3p=[[saranno]], {{q|truncated apocopic form}} [[saran]]|fut3p2={{q|archaic}} [[fiano]], {{q|archaic, truncated apocopic form}} [[fian]], {{q|archaic}} [[fieno]], {{q|archaic, truncated apocopic form}} [[fien]]
-|cond1s=sarei|cond1s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond2s=saresti|cond3s=sarebbe|cond3s2={{q|archaic}} [[saria]], {{q|archaic}} [[fora]]|cond1p=saremmo|cond2p=sareste|cond3p=sarebbero
-|sub123s=sia|sub1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|sub2p=siate|sub3p=[[siano]], {{q|truncated apocopic form}} [[sian]]|sub3p2={{q|archaic}} [[sieno]], {{q|archaic, truncated apocopic form}} [[sien]]
-|impsub12s=fossi|impsub12s2={{q|archaic}} [[fussi]]|impsub3s=fosse|impsub3s2={{q|archaic}} [[fusse]]|impsub1p=[[fossimo]], {{q|truncated apocopic form}} [[fossim]]|impsub1p2={{q|archaic}} [[fussimo]]|impsub2p=foste|impsub2p2={{q|archaic}} [[fuste]]|impsub3p=fossero|impsub3p2={{q|archaic}} [[fussero]]
-|imp2s=sii|imp2s2=non [[essere]]/[[esser]]|imp3s=sia|imp1p=[[siamo]], {{q|truncated apocopic form}} [[siam]]|imp2p=siate|imp3p=[[siano]], {{q|truncated apocopic form}} [[sian]]}}<ref name="essere1"/>
+{{it-conj|e\@}}
+; Including archaic, literary and regional forms:
+{{it-conj|essere<e\è\-,-,stàto:essùto[archaic]:sùto[archaic].
+  presrow:sóno,sèi,è,siàmo:sémo[archaic or regional],siète:sète[archaic],sóno:ènno[archaic or regional]:èmmo[archaic].
+  imperfrow:èro:èra[archaic or literary],èri,èra,eravàmo:èramo[archaic],eravàte,èrano.
+  phisrow:fùi,fósti:fùsti[archaic],fù*,fùmmo,fóste:fùste[archaic],fùrono:fùro[archaic]:fóre[archaic]:fòro[archaic]:fuòro[archaic].
+  futrow:sarò,sarài,sarà:fìa[archaic]:fìe[archaic],sarémo,saréte,sarànno:fìano[archaic]:fìeno[archaic].
+  condrow:sarèi:sarìa[archaic]:fòra[archaic],sarésti,sarèbbe:sarìa[archaic]:fòra[archaic],sarémmo,saréste,sarèbbero:sarìano[archaic]:fòro[archaic].
+  subrow:sìa,siàmo,siàte,sìano:sìeno[literary].
+  impsub:fóssi:fùssi[archaic].
+  improw:sìi,siàte.
+  ger:essèndo:sèndo[archaic].
+  presp:essènte[rare]:ènte[archaic]
+>}}
+* Truncated apocopic forms exist of many of the above forms:
+{|class="wikitable"
+! Form !! Inflection || Apocopic equivalent
+|-
+| {{m|it|essere|èssere}} || infinitive || {{m|it|esser|èsser}}
+|-
+| {{m|it|sono|sóno}} || 1st singular present indicative; 3rd plural present indicative || {{m|it|son|són}}
+|-
+| {{m|it|siamo|siàmo}} || 1st plural present indicative/subjunctive/imperative || {{m|it|siam|siàm}}
+|-
+| {{m|it|semo|sémo}} || 1st plural present indicative || {{m|it|sem|sém}}
+|-
+| {{m|it|enno|ènno}} || archaic or regional 3rd plural present indicative || {{m|it|en|èn}}
+|-
+| {{m|it|eravamo|eravàmo}} || 1st plural imperfect indicative || {{m|it|eravam|eravàm}}
+|-
+| {{m|it|erano|èrano}} || 3rd plural imperfect indicative || {{m|it|eran|èran}}
+|-
+| {{m|it|fummo|fùmmo}} || 1st plural past historic || {{m|it|fum|fùm}}
+|-
+| {{m|it|furono|fùrono}} || 3rd plural past historic || {{m|it|furon|fùron}}
+|-
+| {{m|it|furo|fùro}} || archaic 3rd plural past historic || {{m|it|fur|fùr}}
+|-
+| {{m|it|foro|fòro}} || archaic 3rd plural past historic || {{m|it|for|fòr}}
+|-
+| {{m|it|fuoro|fuòro}} || archaic 3rd plural past historic || {{m|it|fuor|fuòr}}
+|-
+| {{m|it|saremo|sarémo}} || 1st plural future || {{m|it|sarem|sarém}}
+|-
+| {{m|it|saranno|sarànno}} || 3rd plural future || {{m|it|saran|saràn}}
+|-
+| {{m|it|fiano|fìano}} || archaic 3rd plural future || {{m|it|fian|fìan}}
+|-
+| {{m|it|fieno|fìeno}} || archaic 3rd plural future || {{m|it|fien|fìen}}
+|-
+| {{m|it|siano|sìano}} || 3rd plural present subjunctive/imperative || {{m|it|sian|sìan}}
+|-
+| {{m|it|sieno|sìeno}} || literary 3rd plural present subjunctive/imperative || {{m|it|sien|sìen}}
+|-
+| {{m|it|fossimo|fóssimo}} || 1st plural imperfect subjunctive || {{m|it|fossim|fóssim}}
+|}
 
 ====Derived terms====
 * {{l|it|riessere|t=to be again}}
