@@ -73,7 +73,7 @@ Before the 1700s, the pointed form {{m|en|v}} was written at the beginning of a 
 ===Letter===
 {{en-letter|upper=U|lower=u}}
 
-# {{Latn-def|en|letter|21|u}}
+# {{Latn-def-lite|en|letter|21|u|langname=English}}
 #: ''I prefer the '''u''' in Arial to the one in Times New Roman.''
 
 ====See also====
@@ -89,7 +89,7 @@ Before the 1700s, the pointed form {{m|en|v}} was written at the beginning of a 
 ===Noun===
 {{en-noun|ues}}<!--Us~U's is the plural of the ''letter'', not of the noun-->
 
-# {{Latn-def|en|name|U|u}}
+# {{Latn-def-lite|en|name|U|u|langname=English}}
 # A thing in the shape of the letter U
 
 ====See also====
@@ -306,7 +306,7 @@ From {{inh|an|la|aut}}.
 Probably from an early (proto-Romanian) root *''eaua'', from {{inh|rup|la|illam}}, accusative feminine singular of {{m|la|ille}}. Compare {{cog|ro|o}}.
 
 ===Pronoun===
-{{head|rup|pronoun|cat2=personal pronouns|g=f|short/unstressed accusative form of|ea}}
+{{head-lite|rup|pronouns|cat2=personal pronouns|g=f|short/unstressed accusative form of|ea|langname=Aromanian}}
 
 # {{lb|rup|direct object}} [[her]]
 
@@ -354,7 +354,7 @@ From {{inh|ast|la|ubi}}.
 ===Letter===
 {{az-letter|upper=U|lower=u}}
 
-# {{Latn-def|az|letter|28}}
+# {{Latn-def-lite|az|letter|28|langname=Azerbaijani}}
 
 ====See also====
 * {{list:Latin script letters/az/simple}}
@@ -364,7 +364,7 @@ From {{inh|ast|la|ubi}}.
 ==Bambara==
 
 ===Pronoun===
-{{head|bm|pronoun|tone|ù}}
+{{head-lite|bm|pronouns|tone|ù|langname=Bambara}}
 
 # [[they]]
 
@@ -381,15 +381,15 @@ From {{inh|ast|la|ubi}}.
 ===Letter===
 {{eu-letter|upper=U|lower=u}}
 
-# {{Latn-def|eu|letter|22|u}}
+# {{Latn-def-lite|eu|letter|22|u|langname=Basque}}
 
 ====See also====
 * {{list:Latin script letters/eu/simple}}
 
 ===Noun===
-{{head|eu|noun|[[Appendix:Glossary#indeclinable|indeclinable]]}}
+{{head-lite|eu|nouns|[[Appendix:Glossary#indeclinable|indeclinable]]|langname=Basque}}
 
-# {{Latn-def|eu|name|U|u}}
+# {{Latn-def-lite|eu|name|U|u|langname=Basque}}
 
 ====See also====
 * {{list:Latin script letter names/eu}}
@@ -479,7 +479,7 @@ From the earlier {{m|co|lu}}. Compare {{cog|pt|o}} and {{cog|an|o}}.
 From {{inh|duu|sit-pro|*d-bu-s}}.
 
 ===Noun===
-{{head|duu|noun}}
+{{head-lite|duu|nouns|langname=Drung}}
 
 # [[head]]
 
@@ -559,7 +559,7 @@ Cognate with {{cog|fy|jo}}, {{cog|nds|jo}}, {{m|nds|ju}}, {{cog|en|you}}, {{cog|
 ===Letter===
 {{eo-letter|upper=U|lower=u}}
 
-# {{Latn-def|eo|letter|25|u}}
+# {{Latn-def-lite|eo|letter|25|u|langname=Esperanto}}
 
 ====See also====
 * {{list:Latin script letters/eo/simple}}
@@ -567,7 +567,7 @@ Cognate with {{cog|fy|jo}}, {{cog|nds|jo}}, {{m|nds|ju}}, {{cog|en|you}}, {{cog|
 ===Noun===
 {{eo-head}}
 
-# {{Latn-def|eo|name|U|u}}
+# {{Latn-def-lite|eo|name|U|u|langname=Esperanto}}
 
 ====See also====
 * {{list:Latin script letter names/eo/simple}}
@@ -582,7 +582,7 @@ Cognate with {{cog|fy|jo}}, {{cog|nds|jo}}, {{m|nds|ju}}, {{cog|en|you}}, {{cog|
 ===Letter===
 {{head-lite|fo|letters|upper case|U|langname=Faroese}}
 
-# {{Latn-def|fo|letter|23}}
+# {{Latn-def-lite|fo|letter|23|langname=Faroese}}
 
 ====See also====
 * {{list:Latin script letters/fo}}
@@ -597,7 +597,7 @@ Cognate with {{cog|fy|jo}}, {{cog|nds|jo}}, {{m|nds|ju}}, {{cog|en|you}}, {{cog|
 ===Letter===
 {{fi-letter|upper=U|lower=u}}
 
-# {{Latn-def|fi|letter|21|uu}}
+# {{Latn-def-lite|fi|letter|21|uu|langname=Finnish}}
 
 ====See also====
 * {{list:Latin script letters/fi}}
@@ -614,7 +614,7 @@ Cognate with {{cog|fy|jo}}, {{cog|nds|jo}}, {{m|nds|ju}}, {{cog|en|you}}, {{cog|
 ===Noun===
 {{fr-noun|m|#}}
 
-# {{Latn-def|fr|name|U|u}}
+# {{Latn-def-lite|fr|name|U|u|langname=French}}
 
 ----
 
@@ -701,7 +701,7 @@ From {{der|pov|pt|tu}}.
 ===Letter===
 {{hu-letter|upper=U|lower=u}}
 
-# {{Latn-def|hu|letter|34|u}}
+# {{Latn-def-lite|hu|letter|34|u|langname=Hungarian}}
 
 ====Declension====
 {{hu-infl-nom|u-|o}}{{hu-pos-tok|u-}}
@@ -723,7 +723,7 @@ From {{der|pov|pt|tu}}.
 ===Letter===
 {{head-lite|io|letters|upper case|U|langname=Ido}}
 
-# {{Latn-def|io|letter|21}}
+# {{Latn-def-lite|io|letter|21|langname=Ido}}
 
 ====See also====
 * {{list:Latin script letters/io}}
@@ -741,7 +741,7 @@ From {{der|it|la|ū|pos={{n-g-lite|the name of the letter}} {{m|la|V}}}}.
 ===Noun===
 {{it-noun|f|#}}
 
-# {{Latn-def|it|name|U|u}}
+# {{Latn-def-lite|it|name|U|u|langname=Italian}}
 
 ====See also====
 * {{list:Latin script letter names/it}}
@@ -833,7 +833,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 [[File:Latin alphabet Uu.svg|thumb|200px|U]]
 {{lv-letter|upper=U|lower=u}}
 
-# {{Latn-def|lv|letter|29|u}}
+# {{Latn-def-lite|lv|letter|29|u|langname=Latvian}}
 
 ====See also====
 * ''Letters of the Latvian alphabet:''
@@ -861,7 +861,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head-lite|lt|letters|upper case|U|langname=Lithuanian}}
 
-# {{Latn-def|lt|letter|27|u trumpoji}}
+# {{Latn-def-lite|lt|letter|27|u trumpoji|langname=Lithuanian}}
 
 ===See also===
 * {{list:Latin script letters/lt}}
@@ -876,7 +876,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{head-lite|liv|letters|upper case|U|langname=Livonian}}
 
-# {{Latn-def|liv|letter|35}}
+# {{Latn-def-lite|liv|letter|35|langname=Livonian}}
 
 ===See also===
 * {{list:Latin script letters/liv}}
@@ -888,7 +888,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Letter===
 {{ms-letter|upper=U|lower=u}}
 
-# {{Latn-def|ms|letter|21}}
+# {{Latn-def-lite|ms|letter|21|langname=Malay}}
 
 ====See also====
 * {{list:Latin script letters/ms}}
@@ -908,7 +908,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ====Letter====
 {{head-lite|mt|letters|lower case||upper case|U|langname=Maltese}}
 
-# {{Latn-def|mt|letter|25}}
+# {{Latn-def-lite|mt|letter|25|langname=Maltese}}
 
 =====See also=====
 * {{list:Latin script letters/mt}}
@@ -1125,7 +1125,7 @@ From {{inh|nrf|fro|ueil}}, from {{inh|nrf|VL.|oclus}}, from {{inh|nrf|la|oculus}
 ===Letter===
 {{nup-letter|upper=U|lower=u}}
 
-# {{Latn-def|nup|letter|25}}
+# {{Latn-def-lite|nup|letter|25|langname=Nupe}}
 
 ====See also====
 * {{list:Latin script letters/nup}}
@@ -1204,7 +1204,7 @@ From {{inh|roa-opt|la|ubi}}.
 ====Letter====
 {{head-lite|pl|letters|upper case|U|lower case|||langname=Polish}}
 
-# {{Latn-def|pl|letter|27|u}}
+# {{Latn-def-lite|pl|letter|27|u|langname=Polish}}
 
 ====See also====
 * {{list:Latin script letters/pl}}
@@ -1234,7 +1234,7 @@ From {{inh|roa-opt|la|ubi}}.
 ====Letter====
 {{pt-letter|upper=U|lower=u}}
 
-# {{Latn-def|pt|letter|21}}
+# {{Latn-def-lite|pt|letter|21|langname=Portuguese}}
 
 ====Noun====
 {{pt-noun|m}}
@@ -1288,8 +1288,8 @@ From {{der|xpm|qfa-yen-pro|*ʔaw}} (/ *ʔu) ("thou").
 ===Letter===
 {{head-lite|rom|letters|lower case||upper case|U|langname=Romani}}
 
-# {{lb|rom|International Standard}} {{Latn-def|rom|letter|28}}
-# {{lb|rom|Pan-Vlax}} {{Latn-def|rom|letter|29}}
+# {{lb|rom|International Standard}} {{Latn-def-lite|rom|letter|28|langname=Romani}}
+# {{lb|rom|Pan-Vlax}} {{Latn-def-lite|rom|letter|29|langname=Romani}}
 
 ====See also====
 * {{list:Latin script letters/rom}}
@@ -1304,7 +1304,7 @@ From {{der|xpm|qfa-yen-pro|*ʔaw}} (/ *ʔu) ("thou").
 ===Letter===
 {{ro-letter|upper=U|lower=u}}
 
-# {{Latn-def|ro|letter|26|u}}
+# {{Latn-def-lite|ro|letter|26|u|langname=Romanian}}
 
 ====See also====
 * {{list:Latin script letters/ro}}
@@ -1411,7 +1411,7 @@ From {{inh|scn|VL.||*illu}}, from {{inh|scn|la|illum}}, from {{m|la|ille}}.
 ===Letter===
 {{head-lite|sms|letters|upper case|U|langname=Skolt Sami}}
 
-# {{Latn-def|sms|letter|31}}
+# {{Latn-def-lite|sms|letter|31|langname=Skolt Sami}}
 
 ===See also===
 * {{list:Latin script letters/sms}}
@@ -1512,7 +1512,7 @@ This term is archaic except in the common greeting {{m|sw|u hali gani}}. Along w
 ===Letter===
 {{sv-letter|upper=U|lower=u}}
 
-# {{Latn-def|sv|letter|21|u}}
+# {{Latn-def-lite|sv|letter|21|u|langname=Swedish}}
 
 ----
 
@@ -1560,7 +1560,7 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 ===Letter===
 {{tr-letter|upper=U|lower=u}}
 
-# {{Latn-def|tr|letter|25|u}}
+# {{Latn-def-lite|tr|letter|25|u|langname=Turkish}}
 
 ====See also====
 * {{list:Latin script letters/tr}}
@@ -1568,7 +1568,7 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 ===Noun===
 {{head-lite|tr|nouns|langname=Turkish}}
 
-# {{Latn-def|tr|name|U|u}}
+# {{Latn-def-lite|tr|name|U|u|langname=Turkish}}
 
 ====See also====
 * {{list:Latin script letter names/tr}}
@@ -1583,7 +1583,7 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 ===Letter===
 {{head-lite|tk|letters|upper case|U|langname=Turkmen}}
 
-# {{Latn-def|tk|letter|25|u}}
+# {{Latn-def-lite|tk|letter|25|u|langname=Turkmen}}
 
 ===See also===
 * {{list:Latin script letters/tk}}
@@ -1624,7 +1624,7 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 {{uz-variant|c=у}}
 
 ===Pronoun===
-{{head|uz|pronoun}}
+{{head-lite|uz|pronouns|langname=Uzbek}}
 
 # [[he]], [[she]], [[it]]
 
@@ -1632,14 +1632,14 @@ From {{inh|tsg|poz-pro|*qulu}}, compare {{cog|tl|ulo}}.
 {{uz-personal pronouns}}
 
 ===Pronoun===
-{{head|uz|pronoun|plural|ular}}
+{{head-lite|uz|pronouns|plural|ular|langname=Uzbek}}
 
 # [[that]]
 #: {{uxi|uz|'''U''' eshik.|'''That''' is a door.}}
 #: {{ant|uz|bu}}
 
 ===Determiner===
-{{head|uz|determiner}}
+{{head-lite|uz|determiners|langname=Uzbek}}
 
 # [[that]]
 #: {{uxi|uz|'''u''' eshik|'''that''' door}}
@@ -1691,7 +1691,7 @@ From {{der|vi|pt|u}}.
 ====Noun====
 {{vi-noun}}
 
-# {{Latn-def|vi|name|U|u}}
+# {{Latn-def-lite|vi|name|U|u|langname=Vietnamese}}
 
 [[Category:Vietnamese letters]]
 [[Category:vi:Female]]
@@ -1726,7 +1726,7 @@ From {{der|vi|pt|u}}.
 ===Letter===
 {{cy-letter|upper=U|lower=u}}
 
-# {{Latn-def|cy|letter|28|u}} ''It is preceded by {{l|cy|th}} and followed by {{l|cy|w}}.''
+# {{Latn-def-lite|cy|letter|28|u|langname=Welsh}} ''It is preceded by {{l|cy|th}} and followed by {{l|cy|w}}.''
 
 ====Derived terms====
 * Digraph sequences: {{l|cy|uw}}
@@ -1742,7 +1742,7 @@ From {{der|vi|pt|u}}.
 ===Noun===
 {{cy-noun|f|uau}}
 
-# {{Latn-def|cy|name|U|u}}
+# {{Latn-def-lite|cy|name|U|u|langname=Welsh}}
 
 ====Mutation====
 {{cy-mut|u}}
@@ -1760,12 +1760,12 @@ From {{der|vi|pt|u}}.
 ====Letter====
 {{yo-letter|upper=U|lower=u}}
 
-# {{Latn-def|yo|letter|23|ú}}
+# {{Latn-def-lite|yo|letter|23|ú|langname=Yoruba}}
 
 ====Noun====
 {{yo-pos|noun|ú}}
 
-# {{Latn-def|yo|name|U|u}}
+# {{Latn-def-lite|yo|name|U|u|langname=Yoruba}}
 
 ====See also====
 * {{list:Latin script letters/yo}}
@@ -1814,7 +1814,7 @@ From {{der|vi|pt|u}}.
 ===Letter===
 {{zu-letter}}
 
-# {{Latn-def|zu|letter|21}}
+# {{Latn-def-lite|zu|letter|21|langname=Zulu}}
 
 ====See also====
 * {{list:Latin script letters/zu}}
