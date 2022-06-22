@@ -106,8 +106,8 @@ The component on the left-hand side of the character can be referred to as {{zh-
 # [[row]]; [[line]] (of text)
 #{{lb|ja|typography|sort=たん'}} the equivalent to a column in Western layout, but that can be horizontal or vertical depending on the writing direction
 #:{{mero|ja|行|tr=gyō|t1=line}}
-#{{ja-r|段%数|だん%すう|a column count}}
-#{{ja-r|段%間|だん%かん|column spacing; gutter}}
+#:{{ja-x|段%数|だん%すう|a column count}}
+#:{{ja-x|段%間|だん%かん|column spacing; gutter}}
 
 ====Suffix====
 {{ja-pos|suffix|だん}}
