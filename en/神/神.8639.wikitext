@@ -284,7 +284,7 @@ Compare modern {{cog|cmn|神|tr=shén}}.
 
 From {{der|ja|ltc|sort=しん'|-}} {{ltc-l|神}}.
 
-The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the earlier borrowing from {{cog|ltc|-}}.
+The {{m-lite|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]|sc=Jpan}} reading, so likely the earlier borrowing from {{cog|ltc|-}}.
 
 ====Pronunciation====
 {{ja-pron|じん}}
@@ -323,7 +323,7 @@ The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the earlier 
 
 From {{inh|ja|ojp|sort=み|-}}.
 
-Cognate with {{m|ja|御|tr=mi-}}, an honorific prefix originally used to refer to gods and other high-status objects.
+Cognate with {{m-lite|ja|御|tr=mi-|sc=Jpan}}, an honorific prefix originally used to refer to gods and other high-status objects.
 
 ====Noun====
 {{ja-noun|み}}
@@ -336,8 +336,11 @@ Cognate with {{m|ja|御|tr=mi-}}, an honorific prefix originally used to refer t
 
 ===References===
 <references/>
-
-{{topics|ja|Christianity|Religion|Shinto|Gods|God|sort=かみ}}
+[[Category:ja:Christianity|かみ]]
+[[Category:ja:Religion|かみ]]
+[[Category:ja:Shinto|かみ]]
+[[Category:ja:Gods|かみ]]
+[[Category:ja:God|かみ]]
 
 ----
 
@@ -390,7 +393,7 @@ From {{inh|ryu|jpx-ryu-pro|sort=かみ|*kami}}.
 
 ===Pronunciation===
 * {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} か{{ja-accent/high|み}} {{monospace|[kàmí]}} ({{ll|ja|平板型|Heiban}} - [0])<ref>{{R:Shuri-Naha Dialect Dictionary|カミ|SN10591}}</ref>
-* {{IPA|ryu|[kamʲi]|sort=かみ}}
+* {{IPA-lite|ryu|[kamʲi]|sort=かみ}}
 
 ===Noun===
 {{ryu-noun|かみ}}
@@ -406,7 +409,7 @@ From {{inh|ryu|jpx-ryu-pro|sort=かみ|*kami}}.
 ==Old Japanese==
 
 ===Compounds===
-* {{m|ojp|神酒|tr=mi<sub>1</sub>ki<sub>1</sub>}}, {{m|ojp|神酒|tr=mi<sub>1</sub>wa}}
+* {{m-lite|ojp|神酒|tr=mi<sub>1</sub>ki<sub>1</sub>}}, {{m-lite|ojp|神酒|tr=mi<sub>1</sub>wa}}
 
 ===Etymology 1===
 From {{inh|ojp|jpx-pro|sort=かみ|*kamuy}}.
@@ -414,7 +417,7 @@ From {{inh|ojp|jpx-pro|sort=かみ|*kamuy}}.
 Can be parsed as a compound of unbound [[apophony|apophonic]] {{com|ojp|sort=かみ||alt1=&#64025;|tr1=kamu|い|tr2=i<sub>(2)</sub>|pos2=emphatic nominative particle}}.
 
 ====Noun====
-{{head|ojp|noun|head=&#64025;|tr=kami<sub>2</sub>|kana|かみ|sort=かみ}}
+{{head-lite|ojp|nouns|head=&#64025;|tr=kami<sub>2</sub>|kana|かみ|sort=かみ|sc=Jpan|langname=Old Japanese}}
 
 # a [[spirit]] or an [[essence]] [[present#Adjective|present]] in [[all]] [[thing]]s
 # a [[god]], [[deity]]
@@ -426,41 +429,41 @@ Can be parsed as a compound of unbound [[apophony|apophonic]] {{com|ojp|sort=か
 
 =====Derived terms=====
 {{der-top3}}
-* {{m|ojp|神さぶ|tr=kamusabu}}
-* {{m|ojp|神しむ|tr=kamusimu}}
-* {{m|ojp|神ぶ|tr=kamubu}}
-* {{m|ojp|神風|tr=kami<sub>2</sub>kaze, kamukaze}}
-* {{m|ojp|随神|tr=kamunagara}}
-* {{m|ojp|神無月|tr=kami<sub>2</sub>naduki<sub>2</sub>, kamunaduki<sub>2</sub>}}
-* {{m|ojp|神の命|tr=kami<sub>2</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>}}
-* {{m|ojp|神宮|tr=kamumi<sub>1</sub>ya}}
-* {{m|ojp|天つ神|tr=ama tu kami<sub>2</sub>}}
-* {{m|ojp|大神|tr=opokami<sub>2</sub>}}
-* {{m|ojp|大御神|tr=opomi<sub>1</sub>kami<sub>1</sub>}}
-* {{m|ojp|國つ神|tr=kuni tu kami<sub>2</sub>}}
-* {{m|ojp|皇神|tr=sume<sub>1</sub>kami<sub>2</sub>}}
-* {{m|ojp|鳴る神|tr=narukami<sub>2</sub>}}
-* {{m|ojp|火の神|tr=pi<sub>2</sub> no<sub>2</sub> kami<sub>2</sub>, pono<sub>2</sub>kami<sub>2</sub>}}
-* {{m|ojp|八百萬の神|tr=yapoyo<sub>2</sub>ro<sub>2</sub>du no<sub>2</sub> kami<sub>2</sub>}}
+* {{m-lite|ojp|神さぶ|tr=kamusabu|sc=Jpan}}
+* {{m-lite|ojp|神しむ|tr=kamusimu|sc=Jpan}}
+* {{m-lite|ojp|神ぶ|tr=kamubu|sc=Jpan}}
+* {{m-lite|ojp|神風|tr=kami<sub>2</sub>kaze, kamukaze|sc=Jpan}}
+* {{m-lite|ojp|随神|tr=kamunagara|sc=Jpan}}
+* {{m-lite|ojp|神無月|tr=kami<sub>2</sub>naduki<sub>2</sub>, kamunaduki<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|神の命|tr=kami<sub>2</sub> no<sub>2</sub> mi<sub>1</sub>ko<sub>2</sub>to<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|神宮|tr=kamumi<sub>1</sub>ya|sc=Jpan}}
+* {{m-lite|ojp|天つ神|tr=ama tu kami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|大神|tr=opokami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|大御神|tr=opomi<sub>1</sub>kami<sub>1</sub>|sc=Jpan}}
+* {{m-lite|ojp|國つ神|tr=kuni tu kami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|皇神|tr=sume<sub>1</sub>kami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|鳴る神|tr=narukami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|火の神|tr=pi<sub>2</sub> no<sub>2</sub> kami<sub>2</sub>, pono<sub>2</sub>kami<sub>2</sub>|sc=Jpan}}
+* {{m-lite|ojp|八百萬の神|tr=yapoyo<sub>2</sub>ro<sub>2</sub>du no<sub>2</sub> kami<sub>2</sub>|sc=Jpan}}
 {{der-bottom}}
 
 =====Descendants=====
 * {{desc|ja|神|tr=kami}}
 
 ===Etymology 2===
-Cognate with {{m|ojp|御|tr=mi<sub>1</sub>-}}, an honorific prefix originally used to refer to gods and other high-status objects.
+Cognate with {{m-lite|ojp|御|tr=mi<sub>1</sub>-|sc=Jpan}}, an honorific prefix originally used to refer to gods and other high-status objects.
 
 ====Alternative forms====
-* {{l|ojp|靈}}
+* {{l-lite|ojp|靈|sc=Jpan}}
 
 ====Noun====
-{{head|ojp|noun|head=&#64025;|tr=mi<sub>1</sub>|kana|み}}
+{{head-lite|ojp|nouns|head=&#64025;|tr=mi<sub>1</sub>|kana|み|sc=Jpan|langname=Old Japanese}}
 
 # {{lb|ojp|sort=み|rare}} a [[god]] or [[spirit]]
 
 =====Derived terms=====
-* {{m|ojp|山祇|tr=yamatumi<sub>1</sub>}}
-* {{m|ojp|海神|tr=watatumi<sub>1</sub>}}
+* {{m-lite|ojp|山祇|tr=yamatumi<sub>1</sub>|sc=Jpan}}
+* {{m-lite|ojp|海神|tr=watatumi<sub>1</sub>|sc=Jpan}}
 
 =====Descendants=====
 * {{desc|ja|[[神]], [[霊]]|tr=mi}}
