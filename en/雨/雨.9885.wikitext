@@ -132,9 +132,11 @@ From {{inh|zh|sit-pro|*k/r/s-wa}}.
 }}
 
 ====Compounds====
-* {{ja-r|五月雨|さみだれ}}
-* {{ja-r|時雨|しぐれ}}
-* {{ja-r|梅雨|つゆ}}
+{{ja-r/multi|data=
+* {{ja-r/args|五月雨|さみだれ}}
+* {{ja-r/args|時雨|しぐれ}}
+* {{ja-r/args|梅雨|つゆ}}
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|あめ|yomi=k}}
@@ -164,54 +166,56 @@ Cognate with {{m|ja|天|tr=ame|pos=bound [[apophony|apophonic]] of ''ama'', “[
 
 =====Derived terms=====
 {{der-top4}}
-* {{ja-r|雨間|あま.あい|break in the rain}}
-* {{ja-r|雨%上り|あめ%あがり}}
-* {{ja-r|雨脚|あまあし|rom=-}}, {{ja-r|雨%足|あめ%あし}}
-* {{ja-r|雨%霰|あめ%あられ}}
-* {{ja-r|雨%落ち|あま%おち}}, {{ja-r|雨%落ち|あめ%おち|raindrops fall from eaves}}
-* {{ja-r|雨%蛙|あま%がえる}}
-* {{ja-r|雨笠|あまがさ}}
-* {{ja-r|雨傘|あまがさ}}
-* {{ja-r|雨風|あまかぜ}}, {{ja-r|雨風|あめかぜ|rain and wind}}
-* {{ja-r|雨%合羽|あま%がっぱ|raincoat}}
-* {{ja-r|雨%着|あま%ぎ}}
-* {{ja-r|雨%具|あま%ぐ}}
-* {{ja-r|雨%靴|あま%ぐつ}}
-* {{ja-r|雨雲|あまぐも}}
-* {{ja-r|雨曇り|あまぐもり|overcast weather}}
-* {{ja-r|雨%気|あま%け|signs of rain}}
-* {{ja-r|雨%乞い|あま%ごい|praying for rain}}
-* {{ja-r|雨%曝し|あま%ざらし|weatherbeaten}}
-* {{ja-r|雨%支%度|あま%じ%たく|rom=-}}, {{ja-r|雨%仕%度|あま%じ%たく|preparation for rain}}
-* {{ja-r|雨%空|あま%ぞら|threatening sky}}
-* {{ja-r|雨%垂れ|あま%だれ}}
-* {{ja-r|雨%続き|あめ%つづき}}
-* {{ja-r|雨粒|あまつぶ}}, {{ja-r|雨粒|あめつぶ|raindrop}}
-* {{ja-r|雨露|あめつゆ}}
-* {{ja-r|雨%戸|あま%ど}}
-* {{ja-r|雨%樋|あま%どい}}
-* {{ja-r|雨%降り|あめ%ふり|in the rain}}
-* {{ja-r|雨%水|あま%みず}}
-* {{ja-r|雨%漏り|あま%もり|roof leak}}
-* {{ja-r|雨%宿り|あま%やどり}}
-* {{ja-r|雨%止み|あま%やみ|break in the rain}}
-* {{ja-r|雨%避け|あま%よけ|rom=-}}, {{ja-r|雨%除け|あま%よけ|shelter from rain}}
-* {{ja-r|秋雨|あきさめ}}
-* {{ja-r|糸雨|いとさめ}}
-* {{ja-r|大雨|おおあめ}}
-* {{ja-r|樹%雨|き%さめ}}
-* {{ja-r|霧雨|きりさめ}}
-* {{ja-r|小%雨|こ%さめ}}
-* {{ja-r|白雨|しらさめ}}
-* {{ja-r|長雨|なが.あめ}}, {{ja-r|長雨|ながさめ}}
-* {{ja-r|俄%雨|にわか%あめ}}
-* {{ja-r|速雨|はやさめ|rom=-}}, {{ja-r|暴雨|はやさめ}}
-* {{ja-r|春雨|はるさめ}}
-* {{ja-r|氷%雨|ひ%さめ}}
-* {{ja-r|村雨|むらさめ|rom=-}}, {{ja-r|群雨|むらさめ}}
-* {{ja-r|藪雨|やぶさめ}}
-* {{ja-r|夜%雨|よ%さめ}}
-* {{ja-r|横雨|よこさめ}}
+{{ja-r/multi|data=
+* {{ja-r/args|雨間|あま.あい|break in the rain}}
+* {{ja-r/args|雨%上り|あめ%あがり}}
+* {{ja-r/args|雨脚|あまあし|rom=-}}, {{ja-r/args|雨%足|あめ%あし}}
+* {{ja-r/args|雨%霰|あめ%あられ}}
+* {{ja-r/args|雨%落ち|あま%おち}}, {{ja-r/args|雨%落ち|あめ%おち|raindrops fall from eaves}}
+* {{ja-r/args|雨%蛙|あま%がえる}}
+* {{ja-r/args|雨笠|あまがさ}}
+* {{ja-r/args|雨傘|あまがさ}}
+* {{ja-r/args|雨風|あまかぜ}}, {{ja-r/args|雨風|あめかぜ|rain and wind}}
+* {{ja-r/args|雨%合羽|あま%がっぱ|raincoat}}
+* {{ja-r/args|雨%着|あま%ぎ}}
+* {{ja-r/args|雨%具|あま%ぐ}}
+* {{ja-r/args|雨%靴|あま%ぐつ}}
+* {{ja-r/args|雨雲|あまぐも}}
+* {{ja-r/args|雨曇り|あまぐもり|overcast weather}}
+* {{ja-r/args|雨%気|あま%け|signs of rain}}
+* {{ja-r/args|雨%乞い|あま%ごい|praying for rain}}
+* {{ja-r/args|雨%曝し|あま%ざらし|weatherbeaten}}
+* {{ja-r/args|雨%支%度|あま%じ%たく|rom=-}}, {{ja-r/args|雨%仕%度|あま%じ%たく|preparation for rain}}
+* {{ja-r/args|雨%空|あま%ぞら|threatening sky}}
+* {{ja-r/args|雨%垂れ|あま%だれ}}
+* {{ja-r/args|雨%続き|あめ%つづき}}
+* {{ja-r/args|雨粒|あまつぶ}}, {{ja-r/args|雨粒|あめつぶ|raindrop}}
+* {{ja-r/args|雨露|あめつゆ}}
+* {{ja-r/args|雨%戸|あま%ど}}
+* {{ja-r/args|雨%樋|あま%どい}}
+* {{ja-r/args|雨%降り|あめ%ふり|in the rain}}
+* {{ja-r/args|雨%水|あま%みず}}
+* {{ja-r/args|雨%漏り|あま%もり|roof leak}}
+* {{ja-r/args|雨%宿り|あま%やどり}}
+* {{ja-r/args|雨%止み|あま%やみ|break in the rain}}
+* {{ja-r/args|雨%避け|あま%よけ|rom=-}}, {{ja-r/args|雨%除け|あま%よけ|shelter from rain}}
+* {{ja-r/args|秋雨|あきさめ}}
+* {{ja-r/args|糸雨|いとさめ}}
+* {{ja-r/args|大雨|おおあめ}}
+* {{ja-r/args|樹%雨|き%さめ}}
+* {{ja-r/args|霧雨|きりさめ}}
+* {{ja-r/args|小%雨|こ%さめ}}
+* {{ja-r/args|白雨|しらさめ}}
+* {{ja-r/args|長雨|なが.あめ}}, {{ja-r/args|長雨|ながさめ}}
+* {{ja-r/args|俄%雨|にわか%あめ}}
+* {{ja-r/args|速雨|はやさめ|rom=-}}, {{ja-r/args|暴雨|はやさめ}}
+* {{ja-r/args|春雨|はるさめ}}
+* {{ja-r/args|氷%雨|ひ%さめ}}
+* {{ja-r/args|村雨|むらさめ|rom=-}}, {{ja-r/args|群雨|むらさめ}}
+* {{ja-r/args|藪雨|やぶさめ}}
+* {{ja-r/args|夜%雨|よ%さめ}}
+* {{ja-r/args|横雨|よこさめ}}
+}}
 {{der-bottom}}
 
 ===Etymology 2===
@@ -228,27 +232,31 @@ From {{der|ja|ltc|sort=う|-}} {{ltc-l|雨|id=1}}.
 
 =====Derived terms=====
 {{der-top4}}
-* {{ja-r|雨%域|う%いき|rainy area}}
-* {{ja-r|雨期|うき|rom=-}}, {{ja-r|雨季|うき}}
-* {{ja-r|雨気|うき|signs of rain}}
-* {{ja-r|雨後|うご|after rain}}
-* {{ja-r|雨%声|う%せい|sound of rain}}
-* {{ja-r|雨%中|う%ちゅう|in the rain}}
-* {{ja-r|雨%注|う%ちゅう|showering upon}}
-* {{ja-r|雨%滴|う%てき}}
-* {{ja-r|雨%天|う%てん}}
-* {{ja-r|雨%氷|う%ひょう|freezing rain}}
-* {{ja-r|雨%量|う%りょう}}
-* {{ja-r|雨%林|う%りん}}
-* {{ja-r|雨露|うろ}}
-* {{ja-r|降%雨|こう%う}}
-* {{ja-r|豪%雨|ごう%う}}
-* {{ja-r|梅%雨|ばい%う}}
-* {{ja-r|風%雨|ふう%う}}
+{{ja-r/multi|data=
+* {{ja-r/args|雨%域|う%いき|rainy area}}
+* {{ja-r/args|雨期|うき|rom=-}}, {{ja-r/args|雨季|うき}}
+* {{ja-r/args|雨気|うき|signs of rain}}
+* {{ja-r/args|雨後|うご|after rain}}
+* {{ja-r/args|雨%声|う%せい|sound of rain}}
+* {{ja-r/args|雨%中|う%ちゅう|in the rain}}
+* {{ja-r/args|雨%注|う%ちゅう|showering upon}}
+* {{ja-r/args|雨%滴|う%てき}}
+* {{ja-r/args|雨%天|う%てん}}
+* {{ja-r/args|雨%氷|う%ひょう|freezing rain}}
+* {{ja-r/args|雨%量|う%りょう}}
+* {{ja-r/args|雨%林|う%りん}}
+* {{ja-r/args|雨露|うろ}}
+* {{ja-r/args|降%雨|こう%う}}
+* {{ja-r/args|豪%雨|ごう%う}}
+* {{ja-r/args|梅%雨|ばい%う}}
+* {{ja-r/args|風%雨|ふう%う}}
+}}
 {{der-bottom}}
 
 ===See also===
-* {{ja-r|レイン}}, {{ja-r|レーン}}
+{{ja-r/multi|data=
+* {{ja-r/args|レイン}}, {{ja-r/args|レーン}}
+}}
 
 ===References===
 <references/>
@@ -279,86 +287,88 @@ From {{der|ko|ltc|sort=우|-}} {{ltc-l|雨|id=1}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|雨傘|우산}}
-* {{ko-l|雨雹|우박}}
-* {{ko-l|降雨|강우}}
-* {{ko-l|暴雨|폭우}}
-* {{ko-l|雨雪|우설}}
-* {{ko-l|風雨|풍우}}
-* {{ko-l|雷雨|뇌우}}
-* {{ko-l|白雨|백우}}
-* {{ko-l|多雨|다우}}
-* {{ko-l|山雨|산우}}
-* {{ko-l|豪雨|호우}}
-* {{ko-l|霪雨|음우}}
-* {{ko-l|雨季|우계}}
-* {{ko-l|雨期|우기}}
-* {{ko-l|雨露|우로}}
-* {{ko-l|長雨|장우}}
-* {{ko-l|強雨|강우}}
-* {{ko-l|甘雨|감우}}
-* {{ko-l|雨備|우비}}
-* {{ko-l|雨師|우사}}
-* {{ko-l|溪雨|계우}}
-* {{ko-l|慈雨|자우}}
-* {{ko-l|好雨|호우}}
-* {{ko-l|驟雨|취우}}
-* {{ko-l|冬雨|동우}}
-* {{ko-l|暮雨|모우}}
-* {{ko-l|星雨|성우}}
-* {{ko-l|細雨|세우}}
-* {{ko-l|凉雨|양우}}
-* {{ko-l|雨天|우천}}
-* {{ko-l|請雨|청우}}
-* {{ko-l|春雨|춘우}}
-* {{ko-l|黃雨|황우}}
-* {{ko-l|喜雨|희우}}
-* {{ko-l|零雨|영우}}
-* {{ko-l|雨裝|우장}}
-* {{ko-l|法雨|법우}}
-* {{ko-l|絲雨|사우}}
-* {{ko-l|雨意|우의}}
-* {{ko-l|適雨|적우}}
-* {{ko-l|朝雨|조우}}
-* {{ko-l|晴雨|청우}}
-* {{ko-l|快雨|쾌우}}
-* {{ko-l|土雨|토우}}
-* {{ko-l|下雨|하우}}
-* {{ko-l|夏雨|하우}}
-* {{ko-l|寒雨|한우}}
-* {{ko-l|化雨|화우}}
-* {{ko-l|怪雨|괴우}}
-* {{ko-l|祈雨|기우}}
-* {{ko-l|凍雨|동우}}
-* {{ko-l|猛雨|맹우}}
-* {{ko-l|霧雨|무우}}
-* {{ko-l|微雨|미우}}
-* {{ko-l|斜雨|사우}}
-* {{ko-l|雨態|우태}}
-* {{ko-l|殘雨|잔우}}
-* {{ko-l|積雨|적우}}
-* {{ko-l|彈雨|탄우}}
-* {{ko-l|澤雨|택우}}
-* {{ko-l|曉雨|효우}}
-* {{ko-l|紅雨|홍우}}
-* {{ko-l|灰雨|회우}}
-* {{ko-l|秧雨|앙우}}
-* {{ko-l|蒸雨|증우}}
-* {{ko-l|雨家|우가}}
-* {{ko-l|雨毛|우모}}
-* {{ko-l|雨實|우실}}
-* {{ko-l|雨魚|우어}}
-* {{ko-l|雨量|우량}}
-* {{ko-l|黃梅雨|황매우}}
-* {{ko-l|分龍雨|분룡우}}
-* {{ko-l|濯魚雨|탁어우}}
-* {{ko-l|擢枝雨|탁지우}}
-* {{ko-l|一鋤雨|일서우}}
-* {{ko-l|旗雨備|기우비}}
-* {{ko-l|擢枝雨|탁지우}}
-* {{ko-l|細雨斜風|세우사풍}}
-* {{ko-l|熱帶雨林|열대우림}}
-* {{ko-l|呼風喚雨|호풍환우}}
+{{ko-l/multi|data=
+* {{ko-l/args|雨傘|우산}}
+* {{ko-l/args|雨雹|우박}}
+* {{ko-l/args|降雨|강우}}
+* {{ko-l/args|暴雨|폭우}}
+* {{ko-l/args|雨雪|우설}}
+* {{ko-l/args|風雨|풍우}}
+* {{ko-l/args|雷雨|뇌우}}
+* {{ko-l/args|白雨|백우}}
+* {{ko-l/args|多雨|다우}}
+* {{ko-l/args|山雨|산우}}
+* {{ko-l/args|豪雨|호우}}
+* {{ko-l/args|霪雨|음우}}
+* {{ko-l/args|雨季|우계}}
+* {{ko-l/args|雨期|우기}}
+* {{ko-l/args|雨露|우로}}
+* {{ko-l/args|長雨|장우}}
+* {{ko-l/args|強雨|강우}}
+* {{ko-l/args|甘雨|감우}}
+* {{ko-l/args|雨備|우비}}
+* {{ko-l/args|雨師|우사}}
+* {{ko-l/args|溪雨|계우}}
+* {{ko-l/args|慈雨|자우}}
+* {{ko-l/args|好雨|호우}}
+* {{ko-l/args|驟雨|취우}}
+* {{ko-l/args|冬雨|동우}}
+* {{ko-l/args|暮雨|모우}}
+* {{ko-l/args|星雨|성우}}
+* {{ko-l/args|細雨|세우}}
+* {{ko-l/args|凉雨|양우}}
+* {{ko-l/args|雨天|우천}}
+* {{ko-l/args|請雨|청우}}
+* {{ko-l/args|春雨|춘우}}
+* {{ko-l/args|黃雨|황우}}
+* {{ko-l/args|喜雨|희우}}
+* {{ko-l/args|零雨|영우}}
+* {{ko-l/args|雨裝|우장}}
+* {{ko-l/args|法雨|법우}}
+* {{ko-l/args|絲雨|사우}}
+* {{ko-l/args|雨意|우의}}
+* {{ko-l/args|適雨|적우}}
+* {{ko-l/args|朝雨|조우}}
+* {{ko-l/args|晴雨|청우}}
+* {{ko-l/args|快雨|쾌우}}
+* {{ko-l/args|土雨|토우}}
+* {{ko-l/args|下雨|하우}}
+* {{ko-l/args|夏雨|하우}}
+* {{ko-l/args|寒雨|한우}}
+* {{ko-l/args|化雨|화우}}
+* {{ko-l/args|怪雨|괴우}}
+* {{ko-l/args|祈雨|기우}}
+* {{ko-l/args|凍雨|동우}}
+* {{ko-l/args|猛雨|맹우}}
+* {{ko-l/args|霧雨|무우}}
+* {{ko-l/args|微雨|미우}}
+* {{ko-l/args|斜雨|사우}}
+* {{ko-l/args|雨態|우태}}
+* {{ko-l/args|殘雨|잔우}}
+* {{ko-l/args|積雨|적우}}
+* {{ko-l/args|彈雨|탄우}}
+* {{ko-l/args|澤雨|택우}}
+* {{ko-l/args|曉雨|효우}}
+* {{ko-l/args|紅雨|홍우}}
+* {{ko-l/args|灰雨|회우}}
+* {{ko-l/args|秧雨|앙우}}
+* {{ko-l/args|蒸雨|증우}}
+* {{ko-l/args|雨家|우가}}
+* {{ko-l/args|雨毛|우모}}
+* {{ko-l/args|雨實|우실}}
+* {{ko-l/args|雨魚|우어}}
+* {{ko-l/args|雨量|우량}}
+* {{ko-l/args|黃梅雨|황매우}}
+* {{ko-l/args|分龍雨|분룡우}}
+* {{ko-l/args|濯魚雨|탁어우}}
+* {{ko-l/args|擢枝雨|탁지우}}
+* {{ko-l/args|一鋤雨|일서우}}
+* {{ko-l/args|旗雨備|기우비}}
+* {{ko-l/args|擢枝雨|탁지우}}
+* {{ko-l/args|細雨斜風|세우사풍}}
+* {{ko-l/args|熱帶雨林|열대우림}}
+* {{ko-l/args|呼風喚雨|호풍환우}}
+}}
 {{der-bottom}}
 
 ===References===
