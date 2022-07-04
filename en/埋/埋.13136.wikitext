@@ -11,32 +11,80 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
-|m=mái,mán
-|m_note=mán - only used in {{zh-l|*埋怨}}
-|ma=y
+|m=mái
+|m-s=mai2
 |c=maai4
+|c-t=mai3
 |h=pfs=mài
-|md=mài/muài
-|md_note=muài - vernacular, mài - literary
+|md=muài/mài
+|md_note=muài - vernacular; mài - literary
 |mn=bâi/twv:mâi/tâi
-|mn_note=tâi - vernacular (俗), 坮 is used in the Mainland
+|mn_note=tâi - vernacular (also written as {{zh-l|坮}})
+|mn-t=mai5/dai5
+|mn-t_note=dai5 - vernacular (usually written as {{zh-l|坮}})
 |w=3ma
+|ma=y
 |mc=y
 |oc=y
-|cat=v,adv
+|cat=v
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# to [[bury]]; to [[secrete]]; to [[conceal]]
+# to [[bury]]
+# to [[hide]]; to [[conceal]]
+
+====Compounds====
+{{zh-der|埋根|埋香骨|埋照|埋沒|埋杆豎柱|十面埋伏|埋藏|嵌埋法|不服燒埋|埋頭|不伏燒埋|埋冤|張綱埋輪|埋名|埋設|埋情|埋玉|埋釘子|埋香|埋輪|埋鍋造飯|土埋半截|埋憂|埋伏|埋首|埋骨|埋頭苦幹|埋銘|埋葬|埋天怨地|坑埋|埋殯|埋蠱|瘞埋|掩埋|活埋人|燒埋錢|掩骼埋胔|燒埋|狐埋狐搰|掩埋場|椎埋|瘞玉埋香|活埋|贓埋|隱姓埋名|霧鎖雲埋|隱跡埋名|衛生掩埋|變跡埋名|葬玉埋香}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=mán
+|m-s=mai2
+|c=maai4
+|c-t=mai3
+|h=pfs=mài
+|mn=bâi
+|mn-t=mai5
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|埋怨}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=maai4
+|c-t=moi3
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[approach]]
+#: {{zh-x|埋位{wai6-2}|to be seated|C}}
+#: {{zh-x|埋站|(''of a bus'') to '''approach''' a bus stop; (''of a train'') to '''enter''' a train station|C}}
+#: {{zh-x|快啲 埋 嚟 啦！|Hurry up and join us over here!|C}}
 # {{lb|zh|Cantonese}} [[together]]; [[along with]]; [[close to]]; [[close]] [[together]]
 #: {{zh-x|坐 埋 一齊|to sit together|C}}
 #: {{zh-x|坐 埋 佢 度|to sit '''next to''' them|C}}
@@ -50,13 +98,9 @@
 #: {{zh-x|掉 埋|to '''also''' throw away&hellip; (in addition to)|C}}
 #: {{zh-x|食 埋|to '''also''' eat&hellip;|C}}
 #: {{zh-x|帶 埋 個 手機|to bring '''along''' a cellphone|C}}
-# {{lb|zh|Cantonese}} to [[approach]]; to [[enter]]
-#: {{zh-x|埋位{wai6-2}|to be seated|C}}
-#: {{zh-x|埋站|(''of a bus'') to '''approach''' a bus stop; (''of a train'') to '''enter''' a train station|C}}
-#: {{zh-x|快啲 埋 嚟 啦！|Hurry up and join us over here!|C}}
 
-===Compounds===
-{{zh-der|埋根|埋香骨|埋照|埋沒|埋杆豎柱|十面埋伏|埋藏|嵌埋法|不服燒埋|埋頭|不伏燒埋|埋冤|張綱埋輪|埋名|埋設|埋情|埋玉|埋怨|埋釘子|埋香|埋輪|埋鍋造飯|土埋半截|埋憂|埋伏|埋首|埋骨|埋頭苦幹|埋銘|埋葬|埋天怨地|坑埋|埋殯|埋蠱|瘞埋|掩埋|活埋人|燒埋錢|掩骼埋胔|燒埋|狐埋狐搰|掩埋場|椎埋|瘞玉埋香|活埋|贓埋|隱姓埋名|霧鎖雲埋|隱跡埋名|衛生掩埋|變跡埋名|葬玉埋香|埋堆|埋嚟|匿埋}}
+====Compounds====
+{{zh-der|埋堆|匿埋|埋嚟|埋去}}
 
 ===Further reading===
 * {{cite-journal|date=2010|author=Winnie Chor|title=Inclusion of the outsider &mdash; grammaticalization of the verbal particle ''maai'' in Cantonese|journal=Taiwan Journal of Linguistics|url=https://ira.lib.polyu.edu.hk/bitstream/10397/6532/1/Chor_Inclusion_Outsider_Verbal.pdf|issue=|pageurl=|page=|doi=}}
