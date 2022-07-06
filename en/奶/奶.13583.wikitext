@@ -15,13 +15,13 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=*嬭,𬂌-Min Dong}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|女|乃|ls=psc|c1=s|c2=p}}.
 
 ===Etymology 1===
+{{zh-forms|alt=*嬭,𬂌-Min Dong}}
 {{unk|zh}}.
 
 Similar words in the area include {{cog|hmx-pro|*niaʔ²ᴰ|t=mother}}, {{cog|bo|ཨ་ནེ}}, {{m|bo|ནེ་ནེ||paternal aunt}}, {{cog|km|ញី||female}}. It may be comparable with {{cog|sit-pro|*s-nja-n|t=breast; milk; suck}}, whence {{cog|ii|ꑍ|t=liquid milk}}, {{m|ii|ꀉꆂ|t=breast; milk}}.
@@ -48,8 +48,8 @@ Meixian: nên4 - colloquial; nai1 - literary
 |mb_note=nâing - colloquial
 |md=nĕng/nèng/nā̤/nāi
 |md_note=nĕng - colloquial (“breast”); nèng - colloquial (“breastmilk”); nā̤ - colloquial; nāi - literary
-|mn=xm,tp,tn,mg,sg:ni/qz,lk,sx,km,hc:lin/zz,kh,yl,tc,pn:leng/zz:nee/tw,sg:ne/tw:nai/nái
-|mn_note=ni/lin/leng - colloquial (“breast; milk; milk-like beverage; rubber; handle”); nee/ne - colloquial (“breast; milk”); nai - colloquial (“to behave like a spoiled brat”); nái - literary
+|mn=xm,tp,tn,mg,sg:ni/qz,lk,sx,km,hc:lin/zz,kh,yl,tc,pn:leng/zz:nee/tw,sg:ne/nái
+|mn_note=ni/lin/leng - colloquial (“breast; milk; milk-like beverage; rubber; handle”); nee/ne - colloquial (“breast; milk”); nái - literary
 |mn-t=ni6/ni1/nai2
 |mn-t_note=ni6 - colloquial; ni1 - colloquial; nai2 - literary
 |w=3na
@@ -85,9 +85,28 @@ Meixian: nên4 - colloquial; nai1 - literary
 {{zh-syn-saurus|奶汁}}
 
 ====Compounds====
-{{zh-der|師奶|二奶|牛奶|奶奶|奶頭|酸奶|奶牛|奶罩|吃奶|產奶|奶茶|奶白|奶爸|奶粉|羊奶|豆奶|奶酪|奶酒|奶水|奶油|催奶|奶公|奶名|奶品|奶嘴|奶娘|奶媽|奶嬤嬤|奶子|奶子酒|奶捲|奶昔|奶毛|奶牙|奶瓶|奶皮|奶積|奶精|奶膀子|奶餅|姑奶奶|姨奶|姨奶奶|小奶奶|少奶奶|摘奶|斷奶|漾奶|牛奶糖|老奶奶|舅奶奶|花奶奶|親奶奶|酸牛奶|鮮奶|鮮奶油|全脂奶粉|嬰兒奶粉|脫脂奶粉|飼料奶粉|小奶狗|肨奶:hàng-leng|奶母:leng-bú|人奶|司奶:sai-nai;Min Nan}}
+{{zh-der|師奶|二奶|牛奶|奶奶|奶頭|酸奶|奶牛|奶罩|吃奶|產奶|奶茶|奶白|奶爸|奶粉|羊奶|豆奶|奶酪|奶酒|奶水|奶油|催奶|奶公|奶名|奶品|奶嘴|奶娘|奶媽|奶嬤嬤|奶子|奶子酒|奶捲|奶昔|奶毛|奶牙|奶瓶|奶皮|奶積|奶精|奶膀子|奶餅|姑奶奶|姨奶|姨奶奶|小奶奶|少奶奶|摘奶|斷奶|漾奶|牛奶糖|老奶奶|舅奶奶|花奶奶|親奶奶|酸牛奶|鮮奶|鮮奶油|全脂奶粉|嬰兒奶粉|脫脂奶粉|飼料奶粉|小奶狗|肨奶:hàng-leng|奶母:leng-bú|人奶}}
 
 ===Etymology 2===
+{{zh-forms|alt=乃,奈}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm:nái/tw:nai
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien}} to [[behave]] in a [[coy]], [[childish]] or [[coquettish]] [[manner]]; to [[coax]]; to [[weedle]]
+
+====Compounds====
+{{zh-der|司奶|使奶}}
+
+===Etymology 3===
 {{zh-see|𦧺}}
 
 ===References===
