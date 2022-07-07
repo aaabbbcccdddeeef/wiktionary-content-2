@@ -100,18 +100,21 @@ In the {{w|seal script}}, it developed into a {{Han compound|尸|九|ls=psc|t1=b
 {{ja-readings
 |goon=こう<かう
 |kanon=こう<かう
-|kun=しり-, がみ-
+|kun=しり-
 }}
 
 ====Compounds====
 * {{ja-r|尻%尾|しっ%ぽ}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|しり|alt=後:less&#x20;common}}
 
 From {{inh|ja|ojp|sort=しり|-}}, in turn from {{inh|ja|jpx-pro|*siri}}.  Ultimate derivation {{unk|ja|sort=しり|nocap=1}}.
 
+====Pronunciation====
+{{ja-pron|しり|acc=2|acc_ref=DJR,SMK5}}
+
 ====Noun====
-{{ja-kanjitab|yomi=k|しり|alt=後:less&#x20;common}}
 {{ja-noun|しり}}
 
 # behind; the end
@@ -126,26 +129,9 @@ From {{inh|ja|ojp|sort=しり|-}}, in turn from {{inh|ja|jpx-pro|*siri}}.  Ultim
 =====Usage notes=====
 Usually this is used with the polite prefix {{l|ja|御-|tr=o-}}, as {{l|ja|お尻}}.
 
-=====Pronunciation=====
-{{ja-pron|しり|acc=2|acc_ref=DJR,SMK5}}
-
 =====Derived terms=====
 * {{ja-r|退く|しりぞく}}
 * {{ja-r|後方|こうほう}}
-
-====Suffix====
-{{ja-kanjitab|しり|k1=じり|yomi=k|r=y}}
-{{ja-pos|suffix|じり}}
-
-# ''suffixes certain surnames''; The ''shiri'' (しり) changes to ''jiri'' (じり) due to {{rendaku|ひじり}}.
-#: {{uxi|ja|[[田尻]]|tr=Tajiri|t=-}}
-#: {{uxi|ja|[[沼尻]]|tr=Numajiri|t=-}}
-
-=====Pronunciation=====
-{{ja-pron|じり|y=k|acc=1|acc_ref=DJR,SMK5}}
-
-=====Derived terms=====
-* {{ja-r|目%尻|め%じり}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|しり}}
@@ -170,14 +156,6 @@ wisarapi > wisaraɸi > wisarawi > isarai.
 {{ja-noun|いさらい|hhira=ゐさらひ}}
 
 # [[ass]], [[butt]]
-
-===Etymology 4===
-{{ja-kanjitab|yomi=irr|けつ|alt=穴:rare}}
-From {{bor|ja|ltc|-}} {{ltc-l|穴}}.
-
-====Noun====
-
-{{ja-see-kango|けつ}}
 
 ===References===
 <references/>
