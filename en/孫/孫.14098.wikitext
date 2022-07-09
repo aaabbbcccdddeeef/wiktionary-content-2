@@ -50,7 +50,7 @@ From {{inh|zh|sit-pro|*sju(w)-n||grandchild}} (STEDT). Cognate with {{cog|brx|so
 # {{lb|zh|literary|or|dialectal}} [[grandson]] {{zh-mw|c:個|c:粒}}
 # {{lb|zh|chiefly|Min}} [[fraternal nephew]]
 # [[descendant]]
-# {{surname|zh|dot=,}} listed third in the ''{{w|Baijiaxing}}''
+# {{surname|zh|nodot=1}}, listed third in the ''{{w|Baijiaxing}}''
 #: {{zh-x|^孫 ^中山|{{w|Sun Yat-sen|'''Sun''' Yat-sen}} (provisionally served as the first president of the Republic of China)}}
 
 =====Synonyms=====
@@ -139,7 +139,7 @@ From {{der|ko|ltc|-}} {{ltc-l|孫}}. {{hanja-hunmong|손|swon|天倫#상32A}}
 {{ko-hanja|손자|손}}
 
 # {{hanja form of|손|[[grandchild]]}}
-# {{hanja form of|손|{{surname|ko}}}}
+# {{hanja form of|손|{{surname|ko|nodot=1}}.}}
 
 ====Compounds====
 {{der-top3|Compounds}}
