@@ -61,7 +61,7 @@ Or perhaps an area word ({{zh-ref|Schuessler, 2007}}), shared with {{cog|km|រ�
 # [[circle]]; [[community]]; [[group]] of similar [[people]] or [[thing]]s
 #: {{zh-x|武林|martial arts '''world'''}}
 # [[forestry]]
-# {{surname|zh|dot=,}} commonly romanized as [[Lin]], [[Lim]], and [[Lam]]
+# {{surname|zh|nodot=1}}, commonly romanized as [[Lin]], [[Lim]], and [[Lam]]
 #: {{zh-x|^林 ^默-娘|{{w|Mazu|'''Lin''' Moniang}} (a Chinese sea goddess also known by several other names and titles)}}
 #: {{zh-x|^林 ^則-徐|{{w|Lin Zexu|'''Lin''' Zexu}} (Qing dynasty Chinese official)}}
 #: {{zh-x|^林 ^彪|{{w|Lin Biao|'''Lin''' Biao}} (a Marshal of the People's Republic of China)}}
@@ -226,7 +226,7 @@ From {{der|ko|ltc|-}} {{ltc-l|林|id=1}}. {{hanja-hunmong|림|lim|地理#상07A}
 # forest
 # gathering
 # dense
-# {{surname|vi}}
+# {{surname|vi|nodot=1}}.
 
 ====References====
 * Hán Việt Tự Điển Thiều Chửu v. 3.0, http://vietnamtudien.org/thieuchuu, http://vietnamtudien.org/thieuchuu/&h75.htm#26519
