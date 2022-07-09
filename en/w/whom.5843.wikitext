@@ -1,23 +1,227 @@
+{{also|who'm}}
 ==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|whome}} {{qualifier|obsolete}}
+
+===Etymology===
+{{root|en|ine-pro|*kʷ-}}
+From {{inh|en|enm|whom}}, {{m|enm|wham}}, from {{inh|en|ang|hwām}}, {{m|ang|hwǣm}}, from {{inh|en|gem-pro|*hwammai}}, dative case of {{m|gem-pro|*hwaz|gloss=who, what}}. Cognate with {{cog|sco|wham|t=whom}}, {{cog|de|wem|t=whom, to whom}}, {{cog|da|hvem|t=who, whom}}, {{cog|sv|vem|t=who, whom}}.
+
+===Pronunciation===
+* {{IPA|en|/huːm/}}
+* {{audio|en|en-us-whom.ogg|Audio (US)}}
+* {{audio|en|LL-Q1860 (eng)-Back ache-Whom.wav|Audio (GB)}}
+* {{rhymes|en|uːm|s=1}}
+
 ===Pronoun===
-The objective case of [[who]]. 
+{{en-pron|the singular and plural [[objective case]] of|who}} {{tlb|en|formal}}
 
-'''Usage note''': In both written and spoken language, ''who'' is often used in place of ''whom'', even as an object, although some prescriptivists regard such usage as incorrect. The use of ''whom'' is characteristic of a formal style, and is often considered stilted in informal conversation.
+# {{lb|en|interrogative}} What person or people; which person or people.
+## {{n-g|As the object of a verb.}}
+##: {{ux|en|'''Whom''' did you ask?}}
+##* {{RQ:Wodehouse Jeeves in the Offing|chapter=XVIII|passage=“Oh?” she said. “So you have decided to revise my guest list for me? You have the nerve, the – the –” I saw she needed helping out. “Audacity,” I said, throwing her the line. “The audacity to dictate to me who I shall have in my house.” It should have been “'''whom'''”, but I let it go. “You have the –” “Crust.” “– the immortal rind,” she amended, and I had to admit it was stronger, “to tell me '''whom'''” – she got it right that time – “I may entertain at Brinkley Court and who” – wrong again – “I may not.”}}
+## {{n-g|As the object of a preposition.}}
+##: {{ux|en|To '''whom''' are you referring?}}
+##: {{ux|en|With '''whom''' were you talking?}}
+##* {{RQ:Churchill Celebrity|chapter=1|passage=The stories did not seem to me to touch life. They were plainly intended to have a bracing moral effect, and perhaps had this result for the people at '''whom''' they were aimed.}}
+##* {{quote-book|en|year=1922|author={{w|Ben Travers}}|title={{w|A Cuckoo in the Nest}}
+|chapter=1|url=http://openlibrary.org/works/OL1521052W
+|passage=He read the letter aloud. Sophia listened with the studied air of one for '''whom''', even in these days, a title possessed some surreptitious allurement.}}
+##* {{RQ:Wodehouse Jeeves in the Offing|chapter=I|passage=“A very hearty pip-pip to you, old ancestor,” I said, well pleased, for she is a woman with '''whom''' it is always a privilege to chew the fat. “And a rousing toodle-oo to you, you young blot on the landscape,” she replied cordially.}}
+# {{lb|en|relative}} {{n-g|Used to refer to a previously mentioned person or people.}}
+#: {{ux|en|That is the woman '''whom''' I spoke to earlier. ''(defining)''}}
+#: {{ux|en|Mr Smith, '''whom''' we all know well, will be giving the speech. ''(non-defining)''}} 
+#: {{ux|en|He's a person with '''whom''' I work. ''(defining)''}}
+#: {{ux|en|We have ten employees, half of '''whom''' are carpenters. ''(non-defining)''}} 
+#* {{quote-book|en|year=1935|author=[https://www.goodreads.com/author/show/288354.George_Goodchild George Goodchild]
+|title=Death on the Centre Court|chapter=1
+|passage=“Anthea hasn't a notion in her head but to vamp a lot of silly mugwumps. She's set her heart on that tennis bloke{{...}}'''whom''' the papers are making such a fuss about.”}}
+#* {{RQ:Wodehouse Jeeves in the Offing|chapter=I|passage=The eminent brain specialist to '''whom''' she alluded was a man I would not have cared to lunch with myself, our relations having been on the stiff side since the night at Lady Wickham's place in Hertfordshire when, acting on the advice of my hostess's daughter Roberta, I had punctured his hot-water bottle with a darning needle in the small hours of the morning. Quite unintentional, of course.}}
+# {{lb|en|fused relative|archaic outside set patterns}} The person(s) whom; [[whomever]].
+#: ''To '''whom''' it may concern, all business of John Smith Ltd. has now been transferred to Floggitt & Runne.''
 
-===Definitions===
-#what person or people; which person or people.
-##(as the object of a verb).
-##:''Whom did you ask?''
-##(as the object of a preposition).
-##:''To whom are you referring?''
-#her; him; them (used as a [[relative pronoun]] to refer to a previously mentioned person or people)
-#:''He's a person with whom I work.''
-#:''We have ten employees, of whom half are carpenters.''
+====Usage notes====
+{{U:en:who and whom}}
 
-===Translations===
-*[[Danish]]: [[hvem]]
-*[[Dutch]]: [[die]] (1), [[wie]] (1), [[waarmee]] (2), [[waarvan]] (2), [[waaronder]] (2)
-*[[Esperanto]]: [[kiu]]
-*[[French]]: [[qui]]
-*[[Indonesian]]: [[yang]], [[yang]] [[mana]]
-*[[Italian]] [[chi]] (1); [[cui]] (2)
+{{rel-top|Usage examples}}
+
+Subject (always ''who''):
+: '''''Who''' ate my sandwich?''
+: ''There is the thief '''who''' ate my sandwich.''
+:: i.e. '''''The thief''' ate my sandwich.''
+
+Direct object:
+: '''''Who(m)''' did you see?''
+: ''I saw an old friend '''who(m)''' I had not seen for years.''
+:: i.e. ''I saw '''an old friend'''.''
+
+Indirect object:
+: '''''Who(m)''' are you giving your apple to?''
+: ''She is the angel '''who(m)''' I'm giving my apple to.''
+:: or
+: ''To '''whom''' are you giving your apple?'' (fronted prepositional phrase, almost always ''whom'')
+: ''She is the angel to '''whom''' I'm giving my apple.''
+:: i.e. ''I'm giving my apple to '''her'''.''
+{{rel-bottom}}
+
+====Derived terms====
+{{rel-top}}
+* {{l|en|to whom it may concern}}
+* {{l|en|to whom this may concern}}
+{{rel-mid}}
+* {{l|en|whomever}}
+* {{l|en|whom're}}
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|what person; object of a verb (accusative)}}
+* Afrikaans: {{t+|af|wie}}
+* Arabic: {{t+|ar|مَنْ}}
+* Armenian: {{t+|hy|ում}}
+* Catalan: {{t+|ca|qui}}, {{t+|ca|quins}}
+* Czech: {{t+|cs|koho}}, {{t+|cs|kterého}}
+* Danish: {{t+|da|hvem}}
+* Esperanto: {{t+check|eo|kiu|alt=kiun}} <!-- was "[[kiu]]n" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|eo|kiu|alt=kiujn}} <!-- was "[[kiu]]jn" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Finnish: {{t+|fi|kenet}}, {{t+|fi|ketkä}}
+* French: {{t+|fr|que}}
+* German: {{t+|de|wen}}
+* Haitian Creole: {{t|ht|kimoun}}
+* Hindi: {{t+|hi|किस}}
+* Hungarian: {{t+|hu|kit}}, {{t|hu|kicsodát}}
+* Ido: {{t+|io|quan}}
+* Italian: {{t+|it|chi}}
+{{trans-mid}}
+* Latin: {{t+|la|quem|m}}, {{t+|la|quam|f}}
+* Latvian: {{t|lv|kam}}
+* Macedonian: {{t|mk|кого|sc=Cyrl}}
+* Mari: {{t|chm|кӧм}}
+* Middle English: {{t|enm|whom}}
+* Ngazidja Comorian: {{t|zdj|nɗo}}, {{t|zdj|nɗopvi}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hvem}}
+*: Nynorsk: {{t+|nn|kven}}
+* Occitan: {{t+|oc|que}}
+* Polish: {{t+|pl|kogo}}
+* Portuguese: {{t|pt|o que}}, {{qualifier|for nonhumans}} {{t+|pt|o quê}}, {{qualifier|for humans}} {{t+|pt|quem}}
+* Russian: {{t+|ru|кто|alt=кого́}}, {{t+|ru|кто|alt=кому́}}, {{t+|ru|кто|alt=кем}}, {{t+|ru|кто|alt=ком}}
+* Spanish: {{t+|es|quién}}, {{t+|es|quiénes}}
+* Swedish: {{t+|sv|vem|s}}, {{t+|sv|vilka|p}}
+* Turkish: {{t+|tr|kimi}}
+* Ukrainian: {{t|uk|кого́}}, {{t|uk|кому́}}
+* Volapük: {{t|vo|kimi}}
+* Welsh: {{t|cy|pwy}}
+{{trans-bottom}}
+
+{{trans-top|what person or people, object of a preposition (dative)}}
+* Afrikaans: {{t-check|af|[[met]] [[wie]]}} <!-- was "[[met]] [[wie]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-check|af|[[van]] [[wie]]}} <!-- was "[[van]] [[wie]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-check|af|etc.}}
+* Arabic: {{t+|ar|مَنْ}}
+* Armenian: {{t+|hy|ում}}
+* Czech: {{t+|cs|komu}}, {{t+|cs|kterému}}
+* Danish: {{t+|da|hvem}}
+* Esperanto: {{t+|eo|kiu}}, {{t+|eo|kiu|alt=kiuj}}, {{t+|eo|kiu|alt=kiun}}, {{t+|eo|kiu|alt=kiujn}}
+* Finnish: {{t+|fi|kenen}}, {{t+|fi|keiden}} {{q|inflected for some prepositions}}
+* French: {{t+|fr|qui}}
+* German: {{t+|de|wem}}
+* Haitian Creole: {{t|ht|kimoun}}
+* Italian: {{t+|it|chi}}
+{{trans-mid}}
+* Latin: {{t+|la|cui}}
+* Macedonian: {{t|mk|кому|sc=Cyrl}}
+* Middle English: {{t|enm|whom}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hvem}}
+*: Nynorsk: {{t+|nn|kven}}
+* Occitan: {{t|oc|a qui}}, {{t|oc|qui}}
+* Polish: {{t+|pl|komu}}
+* Portuguese: {{t|pt|o que}}, {{qualifier|for nonhumans}} {{t+|pt|o quê}}, {{qualifier|for humans}} {{t+|pt|quem}}
+* Russian: {{t+|ru|кто|alt=кого́}}, {{t+|ru|кто|alt=кому́}}, {{t+|ru|кто|alt=кем}}, {{t+|ru|кто|alt=ком}}
+* Spanish: {{t+|es|quién}}, {{t+|es|quiénes}}, {{t+|es|cuyo|m}}
+* Swedish: {{t+|sv|vem|s}}, {{t+|sv|vilka|p}}
+* Ukrainian: {{t|uk|кого́}}, {{t|uk|кому́}}, {{t|uk|ким}}
+* Volapük: {{t|vo|kime}}
+{{trans-bottom}}
+
+{{trans-top|relative pronoun (object)}}
+* Afrikaans: {{t+|af|waarmee}}, {{t+|af|waarvan}}, {{t|af|etc.}}
+* Arabic: {{t|ar|اَلَّذِي|m-s}}, {{t|ar|الَّتِي|f-s}}, {{t|ar|اَللَّذَيْنِ|m-d}}, {{t|ar|اَللَّتَيْنِ|f-d}}, {{t|ar|اَلَّذِينَ|m-p}}, {{t|ar|اَللَّاتِي|f-p}}, {{t|ar|اَللَّائِي|f-p}}, {{t|ar|اَللَّوَاتِي|f-p}}
+* Armenian: {{t+|hy|ում}}
+* Catalan: {{t+|ca|qui}}, {{t+|ca|quins}}, {{t+|ca|qual}}
+* Czech: {{t+|cs|jemuž}}, {{t+|cs|jehož}}, {{t+|cs|komu}}, {{t+|cs|koho}}, {{t+|cs|kterého}}
+* Danish: {{t+|da|hvem}}, {{t+|da|hvilken}}
+* Dutch: {{t+|nl|die}}
+* Esperanto: {{t+|eo|kiu}}, {{t+|eo|kiuj}}, {{t+|eo|kiun}}, {{t+|eo|kiujn}}
+* Finnish: {{t+|fi|joka}}, {{t+|fi|jotka}}
+* French: {{t+|fr|que}}
+* German: {{t+|de|dem|m}}, {{t+|de|der|f}}, {{t+|de|den|m}}, {{t+|de|die|f}}
+{{trans-mid}}
+* Hindi: {{t+|hi|जिस}}
+* Italian: {{t+|it|cui}}
+* Latin: {{t+|la|quam|f}}, {{t+|la|quem|m}}, {{t+|la|quod|n}}, {{t+|la|cui}} {{q|dative}}
+* Middle English: {{t|enm|whom}}
+* Ngazidja Comorian: {{t|zdj|ikao}}
+* Portuguese: {{qualifier|for human beings}} {{t+|pt|quem}}, {{t+|pt|que}}, {{t|pt|o qual|m}}, {{t|pt|a qual|f}}, {{t|pt|os quais|p}}, {{t|pt|as quais|f-p}}
+* Russian: {{t+|ru|который|alt=кото́рого}}, {{t+|ru|который|alt=кото́рому}}, {{t+|ru|который|alt=кото́рым}}, {{t+|ru|который|alt=кото́ром}}
+* Spanish: {{t+|es|quien}}, {{t+|es|quienes}}, {{t+|es|cual}}, {{t+|es|cuyo}}
+* Swedish: {{t+|sv|som}}, {{t+|sv|vilken|c}}, {{t+|sv|vilket|n}}, {{t+|sv|vilka|p}}
+
+* Ukrainian: {{t|uk|ко́трого}}
+* Welsh: {{t+|cy|y}}
+{{trans-bottom}}
+
+{{ttbc-top}}
+* Serbo-Croatian: {{qualifier|1}} {{t+check|sh|koga}}, {{t-check|sh|s kim|m}}, {{t-check|sh|s kojom|f}}, {{qualifier|1: with whom}} {{t-check|sh|s kojim|m}}, {{t+check|sh|kome|m}}, {{t+check|sh|kojem|m}}, {{t+check|sh|kojoj|f}}, {{qualifier|2: to whom, about whom}} {{t+check|sh|kojim|m}}
+* Dutch: {{qualifier|1}} {{t+check|nl|wie}}, {{qualifier|2}} {{t+check|nl|waarmee}}, {{qualifier|2}} {{t+check|nl|waarvan}}, {{qualifier|2}} {{t+check|nl|waaronder}}
+* Indonesian: {{t+check|id|yang}}, {{t-check|id|[[yang]] [[mana]]}} <!-- was "[[yang]] [[mana]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Interlingua: {{t+check|ia|qui}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-check|sh|кога|tr=1|sc=Cyrl}}, {{t-check|sh|с ким|m|sc=Cyrl}}, {{t-check|sh|с којом|f|sc=Cyrl}}, {{t-check|sh|с којим|m|tr=1: with whom|sc=Cyrl}}, {{t-check|sh|коме|m|sc=Cyrl}}, {{t-check|sh|којем|m|sc=Cyrl}}, {{t-check|sh|којој|f|sc=Cyrl}}, {{t-check|sh|којим|m|tr=2: to whom, about whom|sc=Cyrl}}
+*: Roman: {{qualifier|1}} {{t+check|sh|koga}}, {{t-check|sh|s kim|m}}, {{t-check|sh|s kojom|f}}, {{qualifier|1: with whom}} {{t-check|sh|s kojim|m}}, {{t+check|sh|kome|m}}, {{t+check|sh|kojem|m}}, {{t+check|sh|kojoj|f}}, {{qualifier|2: to whom, about whom}} {{t+check|sh|kojim|m}}
+{{ttbc-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=hmow|how'm}}
+
+[[Category:English interrogative pronouns]]
+[[Category:English relative pronouns]]
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|ȝwam|hom|home|huam|qwom|wam|wham|whem|whome|whoom|whoome}}
+* {{q|northern}} {{alter|enm|quam|quem|quuam|qwam|whaim|whame|whaym}} 
+* {{q|early}} {{alter|enm|hwam|hwem|whamm|whæm}} 
+
+===Etymology===
+{{etymid|enm|whom}}
+From {{inh|enm|ang|hwām}}, {{m|ang|hwǣm}} (dative of {{m|ang|hwā}}), from {{inh|enm|gmw-pro|*hwammē}} (dative of {{m|gmw-pro|*hwaʀ}}), from {{inh|enm|gem-pro|*hwammai}} (dative of {{m|gem-pro|*hwaz}}), from {{inh|enm|ine-pro|*kʷósmey}} (dative of {{m|ine-pro|*kʷós}}).
+
+Forms with short {{IPAchar|/a/}} are generalised unstressed forms.
+
+===Pronunciation===
+* {{IPA|enm|/ʍɔːm/|/ʍoːm/|/ʍam/}}
+* {{a|northern or early}} {{IPA|enm|/ʍɑːm/}}
+
+===Pronoun===
+{{head|enm|pronoun|singular or plural, accusative and dative case, nominative|who}}
+
+# {{lb|enm|interrogative}} ([[to]]) [[who]], {{l|en|whom}} {{gloss|accusative or dative}}
+# {{lb|enm|relative}} ([[to]]) [[who]], {{l|en|whom}} {{gloss|accusative or dative}}
+#* {{RQ:Wycliffe NT Lichfield|book=John|chapter=17|verse=3|leaf=62|side=v|column=1|passage=and þis is euerlaſtynge lijf .· þat þei knowen þee veri god aloone · ⁊ '''whom''' þou haſt ſent iheſu criſt|translation=Now this is eternal life, so they can know you, the true God alone, and Jesus Christ, '''who''' you have sent.}}
+# {{lb|enm|relative}} ([[to]]) [[whoever]], [[whomever]] {{gloss|accusative or dative}}
+# {{lb|enm|relative|uncommon|nocat=1}} [[that]] {{gloss|accusative, inanimate}}
+# {{lb|enm|indefinite|rare}} ([[to]]) [[anyone]], [[someone]] {{gloss|usually accusative or dative}}
+
+====Descendants====
+* {{desc|en|whom}}
+* {{desc|sco|wham}}
+
+====References====
+* {{R:MED Online|entry=whōm|pos=pron|id=MED52644}}
+
+[[Category:Middle English indefinite pronouns]]
+[[Category:Middle English interrogative pronouns]]
+[[Category:Middle English relative pronouns]]
