@@ -58,7 +58,7 @@ The glyph finally turned back to {{l|zh|木}} + {{l|zh|卯}} in the current form
 #: {{zh-x|牛柳|beef '''tenderloin'''}}
 #: {{zh-x|豬柳|pork '''fillet'''}}
 #: {{zh-x|蟹柳|crab '''stick'''}}
-# {{surname|zh}}
+# {{surname|zh|nodot=1}}.
 #: {{zh-x|^柳 ^宗-元|{{w|Liu Zongyuan|'''Liu''' Zongyuan}} (Tang dynasty writer)}}
 {{attention|zh|the Dictionary of Character Variants lists one more sense}}
 
@@ -129,7 +129,7 @@ Ultimately from {{der|ja|ltc|sort=りゆう|-}} {{ltc-l|柳}}.  While the affix 
 # {{defdate|from mid-1400s}} {{lb|ja|sort=りゆう|Chinese astronomy}} the [[willow|Willow]] as one of the [[w:Twenty-Eight Mansions|twenty-eight mansions]]
 #: {{syn|ja|柳宿|tr=Ryūshuku}}
 # {{given name|ja|female}}
-# {{surname|ja|sort=りゆう}}
+# {{surname|ja|sort=りゆう|nodot=1}}.
 
 ===References===
 <references/>
