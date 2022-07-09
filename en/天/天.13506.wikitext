@@ -189,14 +189,17 @@ From {{der|ja|ltc|sort=てん|-}} {{ltc-l|天|sky; heavens}}. Compare modern {{c
 
 # the [[sky]], the [[heavens]]
 # [[heaven]]
-#{{lb|ja|Buddhist god}} a [[deva]] or [[Devi|devi]]
+#{{lb|ja|Buddhist god|sort=てん}} a [[deva]] or [[Devi|devi]]
 #:{{hypo|ja|天女|tr=tennyo}}
-#:{{ja-x|天%道|てん%どう|the world of heavenly gods; the world of devas}}
-#:{{ja-x|天%部|てん%ぶ|devas; the class of heavenly gods}}
-#:{{ja-x|[[大黒天|大%黒%天]]|^だい%こく%てん|Mahakala|lit=the Great Black Deva}}
-#:{{ja-x|[[弁才天|弁%才%天]]|^べん%ざい%てん|Saraswati|lit=the Eloquent Devi}}
-# {{qualifier|metaphorically}} the [[gods]], [[providence]], [[fate]]
+#:{{ja-x|天%道|てん%どう|the world of heavenly gods; the world of devas|sort=てん}}
+#:{{ja-x|天%部|てん%ぶ|devas; the class of heavenly gods|sort=てん}}
+#:{{ja-x|[[大黒天|大%黒%天]]|^だい%こく%てん|Mahakala|lit=the Great Black Deva|sort=てん}}
+#:{{ja-x|[[弁才天|弁%才%天]]|^べん%ざい%てん|Saraswati|lit=the Eloquent Devi|sort=てん}}
+# {{lb|ja|figurative}} the [[gods]], [[providence]], [[fate]]
 #: {{ja-usex|'''天'''の与え|'''てん''' の あたえ|gift from the '''gods'''}}
+#{{lb|ja|printing|of a page|sort=てん}} the top margin
+#:{{hyper|ja|マージン}}
+#:{{ant|ja|地}}
 
 =====Idioms=====
 {{der-top|Idioms}}
