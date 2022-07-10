@@ -110,29 +110,31 @@ From {{inh|zh|sit-pro|*m-taːj||to retaliate; to grudge}}. Cognate with {{cog|ka
 ===Etymology 2===
 {{ja-kanjitab|yomi=kanon|てき|alt=的:rare}}
 
+From {{der|ja|ltc|sort=てき|-}} {{ltc-l|敵}}.  First cited in Japanese to the early 1200s.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2|敵・的}}</ref>
+
 ====Pronunciation====
-{{ja-IPA|てき|acc=0|acc_ref=DJR|y=o}}
+{{ja-IPA|てき|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|てき}}
 
-# an enemy
+# {{defdate|from early 1200s}} an [[enemy]]
 #* {{quote-book|ja
 |||BOOSTER 1
 |||date=Mar 1 1999
 |publisher={{w|Konami}}
-|chapter={{lj|とろける[赤](あか)き[影](かげ)}}
+|chapter={{ja-r|とろける赤き影|とろける あかき かげ|linkto=-}}
 |trans-chapter=Melting Red Shadow}}
 #*: {{ja-usex|体を溶かして足もとの影にもぐり、'''敵'''の真%下から攻%撃する。|からだ を とかして あしもと の かげ に もぐり、'''てき''' の ま%した から こう%げき する。|It strikes its '''enemies''' directly from below as its melting body dives in the shadows under their feet.}}
-# an [[opponent]]; a [[competitor]]
+# {{defdate|from early 1800s}} an [[opponent]], a [[competitor]]
 #: {{ja-usex|'''敵'''を倒す|'''てき''' を たおす|defeat an '''opponent'''}}
 #* {{quote-book|ja
-|||{{wj|東京アンダーグラウンド|[東](とう)[京](きょう)アンダーグラウンド}}
+|||{{m|ja||{{w|東京アンダーグラウンド}}|tr=Tōkyō Andāguraundo}}
 |||pages=24–25
 |last=Uraku
 |first=Akinobu
 |authorlink=Akinobu Uraku
-|chapter={{lj|[第](だい)[60](ろくじゅう)[話](わ)　[少](しょう)[女](じょ)の[決](けつ)[意](い)}}
+|chapter={{ja-r|第60話 - 少%女の決%意|だいろくじゅうわ - しょう%じょ の けつ%い|linkto=-}}
 |trans-chapter=Chapter 60: A Girl’s Resolve
 |trans-title={{w|Tokyo Underground}}
 |genre=fiction
@@ -141,9 +143,19 @@ From {{inh|zh|sit-pro|*m-taːj||to retaliate; to grudge}}. Cognate with {{cog|ka
 |date=Sep 22 2003
 |isbn=4-7575-1007-1}}
 #*: {{ja-usex|'''敵'''であるオマエを信じろと言うのか？|'''てき''' で ある オマエ を しんじろ と いう の か？|You’re my '''opponent'''. Why should I believe you?}}
+# {{defdate|1466–???}} {{lb|ja|sort=てき|historical}} the other party in a [[lawsuit]]
+# {{defdate|from 1678}} {{ja-def|的}} {{lb|ja|sort=てき|historical}} in the [[red-light district]], a term of reference used between prostitutes and customers
 
 =====Compounds=====
 * {{ja-r|敵対|てきたい}}
+
+====Pronoun====
+{{ja-pos|pronoun|てき}}
+
+# {{defdate|from 1811}} {{ja-def|的}} {{lb|ja|sort=てき|historical}} {{q|by extension from the red-light district usage}} {{n-g|term of third-person reference}}: that guy, that one
+#: {{synonyms|ja|やつ|tr1=yatsu}}
+# {{defdate|from 1809}} {{ja-def|的}} {{lb|ja|sort=てき|historical|mildly|_|derogatory}} {{q|by extension from the red-light district usage}} {{n-g|term of second-person reference}}: [[you]]
+#: {{synonyms|ja|お前|tr1=omae}}
 
 ===References===
 <references/>
