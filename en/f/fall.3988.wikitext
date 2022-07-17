@@ -1,175 +1,931 @@
+{{also|Fall|fäll}}
 ==English==
-=== Pronunciation ===
-*[[w:IPA|IPA]]: /fɔːl/
+{{wikipedia}}
 
-<!-- 
+===Etymology 1===
+Verb from {{inh|en|enm|fallen}}, from {{inh|en|ang|feallan||to fall, fail, decay, die, attack}}, from {{inh|en|gmw-pro|*fallan||to fall}}, from {{inh|en|gem-pro|*fallaną||to fall}}, from {{der|en|ine-pro|*peh₃lH-}}. 
+
+Cognate with {{cog|fy|falle||to fall}}, {{cog|nds|fallen||to fall}}, {{cog|nl|vallen||to fall}}, {{cog|de|fallen||to fall}}, {{cog|da|falde||to fall}}, {{cog|nb|falle||to fall}}, {{cog|nn|falla||to fall}}, {{cog|is|falla||to fall}}, {{cog|sq|fal||forgive, pray, salute, greet}}, {{cog|lt|pùlti||to attack, rush}}.
+
+Noun from {{inh|en|enm|fal}}, {{m|enm|fall}}, {{m|enm|falle}}, from {{inh|en|ang|feall}}, {{m|ang|ġefeall|t=a falling, fall}}, from {{inh|en|gem-pro|*fallą}}, {{m|gem-pro|*fallaz|t=a fall, trap}}, from {{der|en|ine-pro|*(s)pōl-}}. Cognate with {{cog|nl|val}}, {{cog|de|Fall}}, {{cog|da|fald}}, {{cog|sv|fall}}, {{cog|is|fall}}.
+
+Sense of "autumn" is attested by the 1660s in [[England]] as a shortening of {{der|en|enm|-}} ''[[fall of the leaf]]'' (1540s), from the falling of leaves during this season. Along with ''autumn'', it mostly replaced the older name ''[[harvest]]'' as that name began to be associated strictly with the act of harvesting. Compare ''[[spring]]'', which began as a shortening of “spring of the leaf”.
+
+====Pronunciation====
+* {{a|RP}} {{enPR|fôl}}, {{IPA|en|/fɔːl/}}
+* {{a|GA}} {{enPR|fôl}}, {{IPA|en|/fɔl/}}
+* {{a|cot-caught}} {{enPR|fäl}}, {{IPA|en|/fɑl/}}
+* {{audio|en|en-us-fall.ogg|Audio (US)}}
+* {{audio|en|en-au-fall.ogg|Audio (AU)}}
+* {{rhymes|en|ɔːl|s=1}}
+
+====Verb====
+{{en-verb|falls|falling|fell|fallen}}
+[[File:Falling rocks (Israel road sign).png|thumb|A sign warning about the danger of '''falling''' rocks.]]
+
+# {{lb|en|heading|intransitive}} ''To be moved downwards.''
+## To move to a lower position under the effect of [[gravity]].
+##: {{ux|en|Thrown from a cliff, the stone '''fell''' 100 feet before hitting the ground.}}
+##* {{RQ:Belloc Lowndes Lodger|II|0091}}
+##*: There was a neat hat-and-umbrella stand, and the stranger's weary feet '''fell''' soft on a good, serviceable dark-red drugget, which matched in colour the flock-paper on the walls.
+## To come down, to [[drop]] or [[descend]].
+##: {{ux|en|The rain '''fell''' at dawn.}}
+##* '''1920''', {{w|Herman Cyril McNeile}}, ''{{w|Bulldog Drummond}}'', Ch.1:
+##*: Her eyes '''fell''' on the table, and she advanced into the room wiping her hands on her apron.
+## To come as if by dropping down.
+##* '''1898''', William Le Queux, ''Whoso Findeth a Wife'', page 256:
+##*: Once or twice a noise '''fell''' upon his quick ear, and we halted, he standing revolver in hand in an attitude of defense. Each time, however, we ascertained that we had no occasion for alarm, the noise being made by some animal or bird &nbsp;...
+##* '''1904''', Bram Stoker, ''The Jewel of Seven Stars'', page 248:
+##*: And then a sudden calm '''fell''' on us like a cloud of fear. There! on the table, lay the Jewel of Seven Stars, shining and sparkling with lurid light, as though each of the seven points of each of the seven stars gleamed through blood!
+##* '''1971''', Henry Raup Wagner, ''Spanish Explorations in the Strait of Juan de Fuca''<!--quoting ... what?-->:
+##*: Shortly afterwards a breeze came up from the N {{...}} dark clouds closing in over everything. At 3 in the afternoon the breeze came up from the S with a thick drizzle. Thus night '''fell''', and thus we passed the rest of it.
+##* '''1981''', Dan Kirby, ''Schreiber's Choice'', Ace Books ({{ISBN|9780441761982}})
+##*: The horse wrangler, a tall, bronzed-face man, waved to the wagon driver. The driver laughed. {{...}} The canvas cover rolled up suddenly and a terrible noise '''fell''' over the desert.
+## To come to the ground [[deliberately]], to [[prostrate]] oneself.
+##: {{ux|en|He '''fell''' to the floor and begged for mercy.}}
+## To be brought to the ground.
+# {{lb|en|transitive}} ''To move downwards.''
+## {{lb|en|obsolete}} To let fall; to drop.
+##* {{RQ:Shakespeare Lucrece|passage=For every tear he '''falls''', a Trojan bleeds.}}
+## {{lb|en|obsolete}} To sink; to depress.
+##: {{ux|en|to '''fall''' the voice}}
+## {{lb|en|UK|US|dialect|archaic}} To [[fell]]; to cut down.
+##: {{ux|en|to '''fall''' a tree}}
+# {{lb|en|intransitive}} ''To change, often negatively.''
+## {{lb|en|copulative|in idiomatic expressions}} To [[become]].
+##: {{uxi|en|She has [[fall ill|'''fallen''' ill]].}}
+##: {{uxi|en|The children [[fall asleep|'''fell''' asleep]] in the back of the car.}}
+##: {{uxi|en|When did you first [[fall in love|'''fall''' in love]]?}}
+##: {{uxi|en|[[fall silent|'''fall''' silent]], [[fall sick|'''fall''' sick]], [[fall pregnant|'''fall''' pregnant]], [[fall victim|'''fall''' victim]] to something}}
+##* {{RQ:Dickens Little Dorrit|1|27}}
+##*: At length they stood at the corner from which they had begun, and it had '''fallen''' quite dark, and they were no wiser.
+##* '''1971''', Henry Raup Wagner, ''Spanish Explorations in the Strait of Juan de Fuca''<!--quoting ... what?-->:
+##*: Shortly afterwards a breeze came up from the N and then it '''fell''' calm, {{...}}
+## {{lb|en|intransitive}} To [[collapse]]; to be [[overthrown]] or [[defeated]].
+##: {{ux|en|Rome '''fell''' to the Goths in 410 AD.}}
+## {{lb|en|intransitive|formal|euphemistic}} To [[die]], especially in [[battle]] or by [[disease]].
+##: {{ux|en|This is a monument to all those who '''fell''' in the First World War.}}
+## {{lb|en|intransitive}} To become lower (in quantity, pitch, etc.).
+##: {{ux|en|The candidate's poll ratings '''fell''' abruptly after the banking scandal.}}
+##* '''1612''', {{w|John Davies (poet)|John Davies}}, ''Discoverie of the True Causes why Ireland was never entirely subdued''
+##*: The greatness of these Irish lords suddenly '''fell''' and vanished.
+##* '''1835''', Sir {{w|John Ross (Arctic explorer)|John Ross}}, Sir {{w|James Clark Ross}}, ''[http://books.google.com.au/books?id=SdQBAAAAYAAJ Narrative of a Second Voyage in Search of a North-west Passage &hellip;, Vol.1]'', pp.284-5:
+##*: Towards the following morning, the thermometer '''fell''' to 5°; and at daylight, there was not an atom of water to be seen in any direction.
+##* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845| magazine={{w|The Economist}}| title=[http://www.economist.com/news/science-and-technology/http://www.economist.com/news/science-and-technology/21581980-latest-research-suggests-humans-are-not-warriors-their-genes-after-all-old Old soldiers?]| passage=Whether modern, industrial man is less or more warlike than his hunter-gatherer ancestors is impossible to determine.{{...}}One thing that is true, though, is that murder rates have '''fallen''' over the centuries, as policing has spread and the routine carrying of weapons has diminished. Modern society may not have done anything about war. But peace is a lot more peaceful.}}
+# {{senseid|en|occur}} To [[occur]] (on a certain day of the week, date, or similar); to [[happen]].
+#: {{ux|en|Thanksgiving always '''falls''' on a Thursday.&emsp; {{nowrap|Last year, Commencement '''fell''' on June 3.}}}}
+#* '''1978''', Dwight David Eisenhower, Mamie Doud Eisenhower, ''Letters to Mamie'', Doubleday Books:
+#*: (Thus D-day '''fell''' on June 6 rather than the planned June 5.)
+# {{lb|en|intransitive}} To be [[allot]]ted to; to [[arrive]] through [[chance]], [[fate]], or [[inheritance]].
+#: {{ux|en|And so it '''falls''' to me to make this important decision.&emsp; {{nowrap|The estate '''fell''' to his brother; the kingdom '''fell''' into the hands of his rivals.}}}}
+#* {{RQ:Pope Rape of the Lock|year=1912|canto=II|passage=If to her share some female errors '''fall''', / Look on her face, and you'll forget them all.}}
+# {{lb|en|transitive|obsolete}} To diminish; to lessen or lower.
+#* {{RQ:Locke Value|passage=Upon lessening interest to four per cent, you '''fall''' the price of your native commodities.}}
+# {{lb|en|transitive|obsolete}} To bring forth.
+#: {{ux|en|to '''fall''' lambs}}
+#* {{RQ:Shakespeare Merchant of Venice|1|3|passage=The shepherd{{...}}did{{...}} '''fall''' part-colour'd lambs}}
+# {{lb|en|intransitive|obsolete}} To issue forth into life; to be brought forth; said of the young of certain animals.
+#* {{quote-book|en|year=1672| title=The Office of the Good House-wife|author=| page=27| passage=As for Calves newly '''fallen''', you must leave them with good Litter of fresh Straw until such qime as the Cows have licked and cleansed them,}}
+#* {{quote-book|en|year=1805 title=A general treatise on cattle, the ox, the sheep, and the swine, etc|author=John Lawrence| page=100| passage=My intended remarks are on the cords , and wiping dry the newly''' fallen''' calf }}
+#* {{quote-book|en|year=1869| title=Sheep: Their Breeds, Management, and Diseases |author=William Youatt | page=382| passage=another writer, adopting a similar opinion, affirms that it results from the lambs not being docked at a sufficiently early period; for "sometimes the ewe, in the ardour of her maternal affection, chews away the tail from her newly-'''fallen''' lamb, and none of these are afterwards affectd by the sturdy;}}
+#* {{quote-book|en|year=1892| title=Special Report on the History and Present Condition of the Sheep Industry of the United States |author=United States. Bureau of Animal Industry | page=422| passage=The newly '''fallen''' lambs are a peculiar sight , as they invariably come spotted or black ; but while the head and legs retain their inky black color, the wool grows out white as with the other Down breeds.}}
+# {{lb|en|intransitive}} To descend in character or reputation; to become degraded; to sink into vice, error, or sin.
+#* {{RQ:KJV|Hebrews|4|1|text=Let us labour therefore to enter into that rest, lest any man '''fall''' after the same example of unbelief.}}
+# {{lb|en|intransitive}} To become ensnared or entrapped; to be worse off than before.
+#: {{ux|en|to '''fall''' into error;&emsp; to '''fall''' into difficulties}}
+# {{lb|en|intransitive}} To assume a look of shame or disappointment; to become or appear dejected; said of the face.
+#* {{RQ:KJV|Genesis|4|5|text=Cain was very wroth, and his countenance '''fell'''.}}
+#* {{RQ:Addison Cato|1|4|text=I have observed of late thy looks are '''fallen'''.}}
+# {{lb|en|intransitive}} To happen; to come to pass; to chance or light (upon).
+#* {{RQ:KJV|Ruth|3|18|text=Sit still, my daughter, until thou know how the matter will '''fall'''.}}
+#* {{RQ:Shakespeare Merchant of Venice|I|2|text={{...}}An the worst '''fall''' that ever '''fell''', I hope I shall make shift to go without him.}}
+#* {{RQ:Swift Nobles and Commons|page=9|passage={{...}} ''{{w|Polybius}}'' tells us, the beſt Government is that which conſiſts of three Forms, ''Regno'', ''Optimatium'', & ''Populi imperio''. Which may be fairly Tranſlated, the ''Kings'', ''Lords'' and ''Commons''. {{...}} the ''Romans'' '''fell''' upon this Model purely by chance, (which I take to have been Nature and common Reaſon) but the ''Spartans'' by Thought and Deſign.}}
+#* '''1879''', {{w|Herbert Spenser}}, ''Principles of Sociology'' Volume II – Part IV: ''Ceremonial Institutions''
+#*: Primitive men{{...}}do not make laws, they '''fall''' into customs.
+# {{lb|en|intransitive}} To begin with haste, ardour, or vehemence; to rush or hurry.
+#: {{ux|en|After arguing, they '''fell''' to blows.}}
+#* '''1881''', {{w|Benjamin Jowett}} ({{w|Thucydides}})
+#*: They now no longer doubted, but '''fell''' to work heart and soul.
+# {{lb|en|intransitive}} To be dropped or uttered carelessly.
+#: {{ux|en|An unguarded expression '''fell''' from his lips.}}
+# {{lb|en|intransitive|of a fabric}} To [[hang]] down {{gloss|under the influence of gravity}}.
+#: {{ux|en|An Empire-style dress has a high waistline – directly under the bust – from which the dress '''falls''' all the way to a hem as low as the floor.}}
+
+=====Quotations=====
+* {{RQ:Shakespeare Richard 3|V|3|text=''Ghoaſt [of Clarence].'' {{...}} / To morrow in the battaile thinke on me, / And '''fall''' thy edgeleſſe ſword, diſpaire and die.}}
+
+=====Synonyms=====
+* {{sense|move to a lower position under the effect of gravity}} {{l|en|drop}}, {{l|en|plummet}}, {{l|en|plunge}}
+* {{sense|come down}} {{l|en|come down}}, {{l|en|descend}}, {{l|en|drop}}
+* {{sense|come to the ground deliberately}} {{l|en|drop}}, {{l|en|lower}} oneself, [[prostrate]] oneself
+* {{sense|be brought to the ground}}
+* {{qualifier|collapse; be overthrown or defeated}}: be [[beat]]en by, be [[defeat]]ed by, be [[overthrow]]n by, be [[smite|smitten]] by, be [[vanquish]]ed by,
+* {{sense|die}} {{l|en|die}}
+* {{sense|be allotted to}} be the [[responsibility]] of, be [[up to]]
+* {{qualifier|become lower (in quantity, pitch, etc)}}: [[dip]], [[drop]]
+* {{sense|become}} {{l|en|become}}, {{l|en|get}}
+* {{qualifier|cause (something) to descend to the ground}}: [[cut down]] {{qualifier|of a tree}}, [[fell]], [[knock down]], [[knock over]], [[strike down]]
+
+=====Antonyms=====
+* {{sense|come down}} {{l|en|ascend}}, {{l|en|go}} up, [[rise]]
+* {{sense|come to the ground deliberately}} {{l|en|get up}}, {{l|en|pick up|pick oneself up}}, {{l|en|stand up}}
+* {{qualifier|collapse; be overthrown or defeated}}: [[beat]], [[defeat]], [[overthrow]], [[smite]], [[vanquish]]
+* {{qualifier|become lower (in quantity, pitch, etc)}}: [[rise]]
+
+=====Coordinate terms=====
+* {{l|en|topple}}
+* {{l|en|tumble}}
+
+=====Derived terms=====
+{{col4|en
+|atfall
+|befall
+|downfall
+|[[fall-back]]<!--adjective-->
+|[[fallen]]<!--adjective-->
+|faller
+|fallstreaks
+|fallstreifen
+|[[fell]] {{qualifier|verb, as in “to fell a tree”, “to fell an opponent”}}
+|i-falle
+|i-fallen
+|may-fall
+|misfall
+|[[of-fall]]<!--from Old English-->
+|overfall
+|[[to-fall]]<!--from Old English-->
+|under-fall
+|[[y-falle]]<!--from Old English-->
+|[[yfalle]]<!--from Old English-->
+|[[yfallen]]<!--from Old English-->
+}}
+
+=====Related terms=====
+{{col4|en|title=Terms related to ''fall'' (verb)|the [[apple does not fall far from the tree]]|the [[bigger they are, the harder they fall]], the [[bigger they come, the harder they fall]]|the [[curtain falls]]<!--stage direction-->|fair fall|[[fallable]]<!--when used as "capable of falling" the word is obselete, although [[infallable]] is current-->|fall aboard|fall aboard of|fall about|fall about someone's ears|fall abreast of|fall abroad of|fall across|fall adown|fall afire|fall afoul|fall afoul of|fall after|fallage|fall all over someone or oneself|fall among|fall apart|fall asleep|fall aslope|fall astern|fall asunder|fall at|fall at the crest|[[fall at the first fence]], [[fall at the first hurdle]]|fall away|fall back|[[fall back, fall edge]]<!--a single phrase with a comma in it-->|[[fall back on]], [[fall back upon]]|[[fall behind]], [[fall behindhand]]|fall between the cracks|fall between two stools|fall by|fall by the wayside|fall calm|fall dead|fall down|fall down on|fall due|fall flat|fall flat on one's face|fall for|fall forth|fall foul|[[fall foul of]], [[fall foul with]]|fall from|[[fall from grace]]<!--verb-->|fall heir|fall home|fall ill|fall in|fall in age|fall in flesh|fall in for|[[falling]]<!--noun, adjective-->|fall in line|fall in love|[[fall in mold]], [[fall in mould]]|fall in one's road|fall in one's way|[[fall in somebody's heart]], [[fall in someone's heart]]|[[fall in somebody's mind]], [[fall in someone's mind]]|fall into one's hands|fall into one's lap|fall in two|fall in upon|fall in with|fall into|fall into line|fall into place|[[fall into somebody's heart]], [[fall into someone's heart]]|[[fall into somebody's mind]], [[fall into someone's mind]]|fall of|[[fall off]]<!--"fall off the back of a lorry/the wagon" are derived from "fall off"-->|fall off a cliff|fall off the turnip truck|fall on
+|fall on board|fall on deaf ears|fall one's crest|fall on one's face|fall on one's feet
+|fall on shore|fall on sleep|fall on one's knees|fall on one's sword|fall on someone's neck|fall on the crest|fall open|fall out|fall out in|fall out of|fall out upon|fall out with|fall over|fall over oneself|fall over one's feet|fall pregnant|fall prey to|fall short|fall short of|fall short to|fall sick|fall silent|fall through|fall through the cracks|fall through the floor|fall to|fall to be|fall together|fall to loggerheads|[[fall to mold]], [[fall to mould]]|fall to oneself|fall to one's knees|fall to one's lot|fall to one's share|fall to pieces|fall to powder|fall to the ground|fall under|fall unto|fall upon|fall victim to|[[fall what can fall|fall what can]]/[[fall what will fall|will fall]]|fall with|fall within|foul fall|let fall|let the chips fall where they may|may fall|[[misfall]]<!--verb-->|[[overfall]]<!--verb-->|the rain in Spain falls mainly in the plain|refall|tendency of the rate of profit to fall|united we stand, divided we fall}}
+
+=====Translations=====
+{{trans-top|move to a lower position under the effect of gravity}}
+* Afrikaans: {{t+|af|val}}
+* Albanian: {{t+|sq|bie}}
+* Alviri-Vidari: {{t|avd|بکتن|tr=beketen}}
+* Arabic: {{t|ar|وَقَعَ}}, {{t+|ar|سَقَطَ}}, {{t|ar|تَسَاقَطَ}}, {{t+|ar|هَوَى|m}}
+*: Egyptian Arabic: {{t|arz|وقع|tr=wiʾiʿ}}
+*: Gulf Arabic: {{t|afb|طاح|tr=ṭāḥ}}
+*: Hijazi Arabic: {{t|acw|طاح|tr=ṭāḥ}}
+* Aragonese: {{t+|an|cayer}}
+* Aramaic:
+*: Syriac: {{t|syc|ܢܦܠ|tr=npal|sc=Syrc}}
+* Armenian: {{t+|hy|ընկնել}}
+* Aromanian: {{t|rup|cad}}
+* Assamese: {{t|as|পৰা}}
+* Asturian: {{t|ast|cayer}}, {{t|ast|caer}}
+* Azerbaijani: {{t+|az|düşmək}}
+* Bakhtiari: {{t|bqi|وستن|tr=vasten|sc=fa-Arab}}
+* Bashkir: {{t|ba|төшөү}}
+* Basque: {{t|eu|erori}}
+* Belarusian: {{t|be|па́даць|impf}}, {{t|be|упа́сці|pf}}, {{t|be|ўпа́сці|pf|sc=Cyrl}}
+* Bengali: {{t+|bn|পড়া}}
+* Borôro: {{t|bor|wudu}}
+* Bulgarian: {{t+|bg|па́дам|impf}}
+* Burmese: {{t+|my|ကျ}}
+* Catalan: {{t+|ca|caure}}
+* Cebuano: {{t|ceb|hulog}}
+* Cherokee: {{q|animate creature}} {{t|chr|ᎦᎶᏍᎦ}}, {{q|something long}} {{t|chr|ᎠᏐᎣᏍᎦ}}, {{q|something flexible or liquid}} {{t|chr|ᎦᏙᎣᏍᎦ}}, {{q|something solid}} {{t|chr|ᎪᎰᏍᎦ}}
+* Chinese:
+*: Mandarin: {{t+|cmn|落|tr=luò|sc=Hani}}, {{t+|cmn|落下|tr=luòxià|sc=Hani}}, {{t+|cmn|掉|tr=diào|sc=Hani}}
+* Czech: {{t+|cs|padat|impf}}, {{t+|cs|padnout|pf}}
+* Dalmatian: {{t|dlm|cadar}}
+* Danish: {{t+|da|falde}}
+* Dutch: {{t+|nl|vallen}}
+* Esperanto: {{t+|eo|fali}}
+* Estonian: {{t|et|kukkuma}}, {{t|et|langema}}
+* Even: {{t|eve|тик-}}
+* Faroese: {{t+|fo|falla}}
+* Finnish: {{t+|fi|kaatua}}, {{t+|fi|pudota}}, {{t+|fi|sataa}} {{qualifier|rain}}
+* French: {{t+|fr|tomber}}, {{t+|fr|chuter}}, {{t+|fr|choir}}
+* Friulian: {{t|fur|cjadê}}, {{t|fur|čhadê}}
+* Galician: {{t+|gl|caer}}, {{t|gl|caerse}}
+* Georgian: {{t|ka|დაცემა}}, {{t|ka|დავარდნა}}, {{t|ka|წაქცევა}}
+* German: {{t+|de|fallen}}
+*: Alemannic German: {{t|gsw|gheie}}
+*: Old High German: {{t|goh|fallan}}
+* Gothic: {{t|got|𐌳𐍂𐌹𐌿𐍃𐌰𐌽}}
+* Greek: {{t+|el|πέφτω}}
+*: Ancient: {{t|grc|πίπτω}}
+* Guaraní: {{t|gn|'a}}, {{t|gn|kúi}}
+* Hebrew: {{t+|he|נָפַל|tr=nafál}}
+* Higaonon: {{t|mba|hahulog}}
+* Hindi: {{t+|hi|गिरना}}, {{t+|hi|पड़ना}}
+* Hungarian: {{t+|hu|esik}}, {{t+|hu|zuhan}}
+* Icelandic: {{t+|is|falla}}, {{t+|is|detta}}
+* Ido: {{t+|io|falar}}
+* Indonesian: {{t+|id|jatuh}}, {{t+|id|gugur}}, {{t+|id|runtuh}}, {{t+|id|tumbang}}
+* Interlingua: {{t|ia|cader}}
+* Irish: {{t|ga|tit}}
+*: Old Irish: {{t|sga|do·tuit}}
+* Istriot: {{t|ist|caì}}, {{t|ist|cascà}}
+* Italian: {{t+|it|cadere}}, {{t+|it|cascare}}
+* Japanese: {{t+|ja|落ちる|tr=おちる, ochiru}}, {{t+|ja|崩れる|tr=くずれる, kuzureru}}, {{t+|ja|落下|alt=落下する|tr=らっかする, rakka suru}}, {{t|ja|転ぶ|tr=ころぶ, korobu}}, {{t|ja|降下する|tr=こうかする, kōkasuru}}, {{t+|ja|降る|tr=ふる, furu}}
+* Javanese: {{t+|jv|tiba}}
+* Kashubian: {{t|csb|pôdac}}
+* Kazakh: {{t|kk|жығылу}}, {{t+|kk|құлау}}
+* Khmer: {{t+|km|ធ្លាក់}}, {{t+|km|រលំ}}
+* Korean: {{t+|ko|넘어지다}}, {{t+|ko|쓰러지다}}, {{t+|ko|떨어지다}}, {{t+|ko|하락하다}}, {{t+|ko|낙하하다}}
+* Kumyk: {{t|kum|йыгъылмакъ}}, {{t|kum|авмакъ}}, {{t|kum|тюшмек}}, {{t|kum|тёгюльмек}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەوتن}}
+*: Northern Kurdish: {{t+|kmr|ketin}}, {{t+|kmr|keftin}}
+* Kyrgyz: {{t|ky|түш-}}, {{t|ky|жыгыл-}}
+* Lao: {{t|lo|ຕົກ}}
+* Latgalian: {{t|ltg|krist}}
+{{trans-mid}}
+* Latin: {{t+|la|cado}}
+* Latvian: {{t+|lv|krist}}, {{t|lv|nokrist}}
+* Lithuanian: {{t+|lt|kristi}}, {{t|lt|nukristi}}
+* Low German: {{t+|nds|fallen}}
+* Lü: {{t|khb|ᦷᦎᧅ|sc=Talu}}
+* Macedonian: {{t|mk|па́да|impf}}
+* Malayalam: {{t+|ml|വീഴുക}}, {{t+|ml|അധഃപതിക്കുക}}
+* Manchu: {{t|mnc|ᡨᡠᡥᡝᠮᠪᡳ}}
+* Maranao: {{t|mrw|olog}}
+* Mizo: {{t|lus|tlà}}
+* Mongolian: {{t+|mn|унах}}
+* Neapolitan: {{t|nap|cadé}}
+* Nepali: {{t|ne|खस्नु}}
+* Ngazidja Comorian: {{t|zdj|ɗanguha|alt=uɗanguha}}
+* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|faal}}
+* Norwegian: {{t+|no|falle}}
+* Occitan: {{t+|oc|càser}}, {{t+|oc|càder}}, {{t+|oc|caire}}
+* Ojibwe: {{t|oj|bangishin}}
+* Old English: {{t|ang|drēosan}}, {{t|ang|feallan}}
+* Old Frisian: {{t|ofs|falla}}
+* Old Norse: {{t|non|falla}}
+* Old Saxon: {{t|osx|fallan}}, {{t|osx|driosan}}
+* Oriya: {{t|or|ପଡିବା}}
+* Ottoman Turkish: {{t|ota|دوشمك|tr=düşmek|sc=ota-Arab}}
+* Persian: {{t+|fa|افتادن|tr=oftâdan}}, {{t+|fa|فتادن|tr=fatâdan}} {{qualifier|poetic}}
+* Polish: {{t+|pl|spadać|impf}}, {{t+|pl|spaść|pf}}
+* Portuguese: {{t+|pt|cair}}
+* Quechua: {{t|qu|urmay}}, {{t|qu|ishkiy}}, {{t|qu|urmai}}, {{t|qu|işkii}}
+* Rapa Nui: {{t|rap|hinga}}
+* Romagnol: {{t|rgn|cadér}}
+* Romanian: {{t+|ro|cădea}}
+* Romansch: {{t|rm|crudar}}
+* Russian: {{t+|ru|па́дать|impf}}, {{t+|ru|упа́сть|pf}}
+* Sanskrit: {{t+|sa|पतति}}
+* Sardinian: {{t|sc|orrúe}}, {{t|sc|orrúere}}
+* Scottish Gaelic: {{t|gd|tuit}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|па̏дати|sc=Cyrl|impf}}, {{t|sh|у̀пасти|pf|sc=Cyrl}}
+*: Roman: {{t+|sh|pȁdati|impf}}, {{t+|sh|ùpasti|pf}}
+* Sicilian: {{t+|scn|càdiri}}
+* Slovak: {{t|sk|padať|impf}}, {{t|sk|padnúť|pf}}
+* Slovene: {{t+|sl|pasti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|padaś}}
+* Sotho: {{t+|st|wa}}
+* Spanish: {{t+|es|caer}}, {{t+|es|caerse}}
+* Sundanese: {{t+|su|labuh}}
+* Swahili: {{t+|sw|anguka|alt=-anguka}}
+* Swedish: {{t+|sv|falla}}, {{qualifier|esp. of something initially upright}} {{t+check|sv|trilla}}
+* Sylheti: {{t|syl|ꠙꠠꠣ}}
+* Tajik: {{t+|tg|афтодан}}
+* Tamil: {{t+|ta|விழு}}
+* Tatar: {{t+|tt|егылырга}}
+* Tausug: {{t|tsg|hulug}}
+* Telugu: {{t+|te|పడు}}
+* Tetum: {{t|tet|monu}}
+* Thai: {{t+|th|ตก}}
+* Tibetan: {{t-needed|bo}}
+* Tocharian B: {{t|txb|klāy-}}
+* Tupinambá: {{t|tpn|'ar}}, {{t|tpn|kuî}}
+* Turkish: {{t+|tr|düşmek}}
+* Turkmen: {{t|tk|çökmek}}, {{t|tk|gaçmak}}
+* Ugaritic: {{t|uga|𐎐𐎔𐎍}}
+* Ukrainian: {{t|uk|па́дати|impf}}, {{t|uk|упа́сти|pf}}, {{t|uk|впа́сти|pf}}
+* Urdu: {{t|ur|گرنا|tr=girnā}}, {{t|ur|پڑنا|tr=paṛnā|sc=ur-Arab}}
+* Uyghur: {{t-needed|ug}}
+* Uzbek: {{t+|uz|tushmoq}}
+* Venetian: {{t|vec|cadare}}, {{t|vec|cascar}}
+* Vietnamese: {{t+|vi|ngã}}, {{t+|vi|té}}, {{t+|vi|rớt}}, {{t+|vi|rơi}}
+* Welsh: {{t+|cy|syrthio}}, {{t+|cy|cwympo}}
+* West Frisian: {{t|fy|falle}}
+* White Hmong: {{t|mww|poob}}
+* Yakut: {{t|sah|оҕут}}
+* Yiddish: {{t|yi|פֿאַלן}}
+* Zealandic: {{t|zea|valle}}
+* Zhuang: {{t-needed|za}}
+{{trans-bottom}}
+
+{{trans-top|come down or descend}}
+* Afrikaans: {{t+|af|val}}
+* Armenian: {{t+|hy|ընկնել}}, {{t+|hy|գալ}}
+* Bashkir: {{t|ba|төшөү}}
+* Bulgarian: {{t+|bg|спадам|sc=Cyrl}}, {{t|bg|понижавам се|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|降|tr=jiàng|sc=Hani}}, {{t+|cmn|下降|tr=xiàjiàng|sc=Hani}}
+* Danish: {{t+|da|falde}}
+* Finnish: {{t+|fi|laskeutua}}
+* French: {{t+|fr|tomber}}, {{t+|fr|descendre}}
+* German: {{t+|de|fallen}}
+* Greek: {{t+|el|πέφτω}}
+* Irish: {{t|ga|tit}}
+*: Old Irish: {{t|sga|do·tuit}}
+* Italian: {{t+|it|scendere}}
+{{trans-mid}}
+* Japanese: {{t+|ja|降る|tr=ふる, furu}}, {{t+|ja|降下|tr=こうかする, kōka suru}}
+* Mizo: {{t|lus|tlà}}
+* Polish: {{t+|pl|padać}}
+* Portuguese: {{t+|pt|cair}}
+* Russian: {{t+|ru|па́дать|impf}}, {{t+|ru|упа́сть|pf}}, {{t+|ru|снижа́ться|impf}}, {{t+|ru|сни́зиться|pf}}
+* Sotho: {{t+|st|wa}}
+* Spanish: {{t+|es|descender}}
+* Swedish: {{t+|sv|falla}}
+* Ukrainian: {{t|uk|па́дати}}, {{t|uk|зни́жуватися|impf}}, {{t|uk|зни́зитися|pf}}
+* Vietnamese: {{t+|vi|xuống}}
+* Welsh: {{t+|cy|syrthio}}
+* Yiddish: {{t|yi|פֿאַלן}}
+{{trans-bottom}}
+
+{{trans-top|prostrate oneself}}
+* Armenian: {{t+|hy|ընկնել}}
+* Bulgarian: {{t+|bg|падам|sc=Cyrl}}
+* Danish: {{t|da|kaste sig}}
+* Finnish: {{t+|fi|heittäytyä}}
+* Italian: {{t+|it|prostrarsi}}
+* Japanese: {{t|ja|ひれふす|tr=hirefusu|sc=Jpan}}
+* Mizo: {{t|lus|tlù}}
+{{trans-mid}}
+* Norwegian: {{t|no|kaste seg}}
+* Polish: {{t+|pl|paść}}
+* Portuguese: {{t+|pt|cair}}
+* Russian: {{t+|ru|па́дать|impf}}, {{t+|ru|упа́сть|pf}}, {{t+|ru|пасть|pf}}
+* Swedish: {{t|sv|[[kasta]] sig}}
+* Ukrainian: {{t|uk|па́дати}}
+* Welsh: {{t+|cy|syrthio}}
+{{trans-bottom}}
+
+{{trans-top|be brought to earth or be overthrown}}
+* Armenian: {{t+|hy|ընկնել}}
+* Bashkir: {{t|ba|йығылыу}}
+* Danish: {{t+|da|falde}}
+* Finnish: {{t+|fi|kaatua}}
+* French: être {{t+|fr|renversé}}, {{t+|fr|tomber}}
+* Georgian: {{t|ka|ჩამოვარდნა}}
+* German: {{t+|de|fallen}}
+{{trans-mid}}
+* Greek: {{t+|el|πέφτω}}
+* Italian: {{t+|it|deporre}}, {{t+|it|rovesciare}}
+* Maori: {{t|mi|pāhoro}}
+* Old English: {{t|ang|crincgan}}
+* Portuguese: {{t+|pt|cair}}, {{t+|pt|tombar}}
+* Sanskrit: {{t+|sa|पतति}}
+* Slovene: {{t+|sl|pasti}}
+* Swedish: {{t+|sv|falla}}
+{{trans-bottom}}
+
+{{trans-top|collapse; be overthrown or defeated}}
+* Armenian: {{t+|hy|ընկնել}}
+* Bashkir: {{t|ba|ҡолау}}, {{t|ba|ауыу}}
+* Bulgarian: {{t+|bg|падам|sc=Cyrl}}
+* Finnish: {{t+|fi|kaatua}}, {{t+|fi|hävitä}}, {{t|fi|kukistua}}
+* Georgian: {{t|ka|დამხობა}}, {{t|ka|ჩამოგდება}}
+{{trans-mid}}
+* Greek: {{t+|el|πέφτω}}
+*: Ancient Greek: {{t|grc|καταλύω|alt=καταλύομαι}}
+* Italian: {{t+|it|cadere}}
+* Japanese: {{t+|ja|倒れる|tr=たおれる, taoreru}}, {{t+|ja|潰れる|tr=つぶれる, tsubureru}}, {{t+|ja|潰える|tr=ついえる, tsuieru}}
+* Portuguese: {{t+|pt|cair}}
+* Sanskrit: {{t+|sa|पतति}}
+{{trans-bottom}}
+
+{{trans-top|die}}
+* Arabic: {{t+|ar|سَقَطَ}}
+* Armenian: {{t+|hy|ընկնել}}
+* Bashkir: {{t|ba|һәләк булыу}}
+* Bulgarian: {{t+|bg|падам|sc=Cyrl}}
+* Danish: {{t+|da|falde}}
+* Faroese: {{t|fo|fella}}
+* Finnish: {{t+|fi|kaatua}}
+* French: {{t+|fr|mourir}}
+* German: {{t+|de|fallen}}
+* Greek: {{t+|el|πέφτω}}
+{{trans-mid}}
+* Hungarian: {{t|hu|elhullik}}, {{t+|hu|elesik}}
+* Italian: {{t+|it|cadere}}, {{t+|it|morire}}
+* Japanese: {{t+|ja|倒れる|tr=たおれる, taoreru}}, {{t+|ja|斃れる|tr=たおれる, taoreru}}
+* Latin: {{t+|la|cadō}}
+* Mizo: {{t|lus|boral}}
+* Polish: {{t|pl|polegnąć}}
+* Portuguese: {{t+|pt|tombar}}
+* Russian: {{t+|ru|пасть|pf}}, {{t+|ru|погиба́ть|impf}}, {{t+|ru|поги́бнуть|pf}}
+* Swedish: {{t+|sv|stupa}}
+{{trans-bottom}}
+
+{{trans-top|be allotted to}}
+* Armenian: {{t+|hy|ընկնել}}
+* Bulgarian: {{t|bg|падам се|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|成為|sc=Hani}}, {{t+|cmn|成为|tr=chéngwéi|sc=Hani}}
+* Finnish: {{t+|fi|jäädä}}
+* French: {{qualifier|à}} {{t+check|fr|revenir}}, {{qualifier|sur}} {{t+check|fr|retomber}}, {{qualifier|à}} {{t+check|fr|incomber}}
+{{trans-mid}}
+* German: {{t+|de|fallen}}, {{t+|de|zufallen}}
+* Hungarian: {{t+|hu|jut}}
+* Interlingua: {{t|ia|cader}}
+* Italian: {{t+|it|cadere}}, {{t+|it|arrivare}}
+* Maori: {{t|mi|taka}}
+* Portuguese: {{t+|pt|falhar}}
+* Swedish: {{t+|sv|falla}}
+{{trans-bottom}}
+
+{{trans-top|become or change into}}
+* Bulgarian: {{t+|bg|изпадам|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t+|cmn|成為|sc=Hani}}, {{t+|cmn|成为|tr=chéngwéi|sc=Hani}}
+* Danish: {{t+|da|blive}}
+* Dutch: {{t+|nl|worden}} {{qualifier|e.g. fall sick, fall in love, fall pregnant}}, {{t+|nl|vallen}} {{qualifier|e.g. fall asleep}}
+* Finnish: {{t+|fi|tulla}} {{q|+ transiative}}
+* French: {{t+|fr|devenir}}, {{t+|fr|tomber}}
+{{trans-mid}}
+* German: {{t+|de|fallen}}, {{t+|de|werden}}
+* Italian: {{t+|it|diventare}}, {{t+|it|divenire}}, {{t+|it|cadere}}
+* Persian: {{t+|fa|شدن|tr=šodan}}
+* Portuguese: {{t+|pt|ficar}}
+* Spanish: {{t+|es|caer}}
+* Swedish: {{t+|sv|bli}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Norman: {{t-check|nrf|tchaie}} {{qualifier|Jersey}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Noun====
+{{en-noun|~}}
+[[File:Autumn leaves, Talcott Mountain State Park.jpg|thumb|'''Fall''' (season) in the United States]]
+
+# The act of moving to a [[lower]] position under the effect of gravity.
+# A reduction in quantity, pitch, etc.
+#* {{RQ:Ferguson Zollenstein|I}}
+#*: “I'm through with all pawn-games,” I laughed. “Come, let us have a game of lansquenet. Either I will take a farewell '''fall''' out of you or you will have your sevenfold revenge”.
+# {{lb|en|chiefly|North America|archaic in Britain}} The time of the year when the [[leaves]] typically fall from the trees; [[autumn]]; the season of the year between the autumnal [[equinox]] and the winter [[solstice]]. {{defdate|from 16th c.}}
+#* {{quote-book|en|year=1816|author=John Pickering|title=A Vocabulary, or Collection of Words Which Have Been Supposed to Be Peculiar to the United States of America|passage=A friend has pointed out to me the following remark on this word: "In North America the season in which this [the fall of the leaf] takes place, derives its name from that circumstance, and instead of autumn is universally called the '''fall'''." [brackets in original]}}
+# A [[loss]] of [[greatness]] or [[status]].
+#: {{ux|en|the '''fall''' of Rome}}
+# That which falls or cascades.
+#* {{quote-book|en|year=2010|author=Winter Pennington|title=Witch Wolf|passage=A '''fall''' of hair tumbled down one side of her body like a veil.}}
+# {{lb|en|sport}} A crucial event or circumstance.
+## {{lb|en|cricket|of a [[wicket]]}} The action of a [[batsman]] being [[out]].
+## {{lb|en|curling}} A defect in the ice which causes [[stone]]s thrown into an area to [[drift]] in a given direction.
+## {{lb|en|wrestling}} An instance of a wrestler being [[pin]]ned to the [[mat]].
+# A [[hairpiece]] for women consisting of long strands of hair on a woven backing, intended primarily to cover hair loss.
+#* {{quote-book|en|title=Hair Care: An Illustrated Dermatologic Handbook|author=Zoe Diana Draelos|year=2004|page=202|ISBN=0203314247|passage=Female patients with localized hair loss on the top of scalp could select a '''fall''' or a demiwig to camouflage crown and anterior scalp loss.}}
+# {{lb|en|informal|US}} Blame or punishment for a failure or misdeed.
+#: {{ux|en|He set up his rival to take the '''fall'''.}}
+# The part of the rope of a [[tackle]] to which the [[power]] is applied in [[hoisting]] (usu. plural).
+#: {{ux|en|Have the goodness to secure the '''falls''' of the mizzen halyards.}}
+# An old [[Scots]] [[unit of measure]] equal to six [[ell]]s.
+# A short, flexible piece of [[leather]] forming part of a [[bullwhip]], placed between the [[thong]] and the [[cracker]].
+#* {{quote-book|1=en|year=1945|author=Tom Ronan|authorlink=Tom Ronan|title=Strangers on the Ophir|publisher=Angus and Robertson|location=Sydney|page=113|passage=Brooks fitted a new '''fall''' to his whip.}}
+# The [[lid]], on a [[piano]], that covers the [[keyboard]]
+
+=====Synonyms=====
+* {{sense|act of moving to a lower position}} {{l|en|descent}}, {{l|en|drop}}
+* {{sense|reduction}} {{l|en|decrease}}, {{l|en|dip}}, {{l|en|drop}}, {{l|en|lowering}}, {{l|en|reduction}}
+* {{sense|season}} {{l|en|autumn}}, {{qualifier|UK dialect}} [[harvest]], {{qualifier|UK dialect}} [[back end]]
+* {{sense|loss of greatness or status}} {{l|en|downfall}}
+* {{sense|blame; punishment}} {{l|en|rap}}
+
+=====Antonyms=====
+* {{sense|act of moving to a lower position under the effect of gravity}} {{l|en|ascent}}, {{l|en|rise}}
+* {{sense|reduction}} {{l|en|increase}}, {{l|en|rise}}
+* {{sense|loss of greatness or status}} {{l|en|ascent}}, {{l|en|rise}}
+
+=====Derived terms=====
+{{col2|en
+|bergfall<!--from German-->|brothfall<!--from Old Norse-->|deadfall|fussefall<!--from German-->
+|fall-back|lavafall|[[leaf-fall]], [[leaffall]]|waterfall}}
+
+=====Related terms=====
+{{col4|en|accidental fall|angle of fall|[[ash fall]], [[ashfall]]|backfall|best-of-three-falls match|block and fall|[[break a fall]]<!--Caribbean term-->|[[break-fall]], [[breakfall]]|break one's fall|byfall|catfall|[[center of falls]], [[centre of falls]]|chainfall|cliff fall
+|crossfall|darkfall|[[dead fall]], [[dead-fall]], [[deadfall]]|[[dew-fall]], [[dewfall]]|[[dog-fall]], [[dogfall]]|downfall|dustfall|earthfall|[[even-fall]], [[evenfall]]|fall-and-rise phenomenon|fall armyworm|fall and tackle|[[fall block]], [[fall-block]]|fall-blooming|[[fall-board]], [[fallboard]]|fall-breaker|fall-bridge|fall cankerworm|{{w|Fall Classic}}|fall-cloud|[[fall colors]]<!--US spelling only, because "fall" (the season) is US English-->|fall dandelion|fall-door|fall duck|fall equinox|fall factor|[[fall-fish]], [[fallfish]]|fall foliage|fall-forward|[[fall from grace]]<!--noun-->|fall front|fall-front desk|[[fall guy]], [[fall-guy]]|[[fall herring]]<!--"fall-in" comes from the verb "to fall in"-->|fall-iron door|fall-leaf|fall-less|[[fall line]], [[fall-line]]|fall money|The {{w|Fall of Baghdad}}|The {{w|Fall of Constantinople}}|[[fall of day]]<!--"fall-off"/"falloff" come from the verb "to fall off"-->|the {{w|the Fall of France|Fall of France}}|the [[Fall of Man]], the [[fall of man]]|The {{w|Fall of Saigon}}|fall of the leaf|fall of the perch|the {{w|the Fall of the Roman Empire|Fall of the Roman Empire}}, the {{w|Fall of Rome}}|[[fall of wicket]]<!--"fall-out" comes from the verb "to fall out"-->|fall overturn|fall-pipe|fall-pippin|fall rate|fall-rise|[[Fall River]] <!--could also be from the verb-->|fall-rope|fall-run fish|[[falls]]<!--waterfall-->|{{w|Falls-to-Falls Corridor}}|fall time|fall-trap|fall turnover|fall-way|fall webworm|[[fall wind]], [[fall-wind]]|fall-window|fall-wood|fally|fall zone|fish fall|flagfall
+|[[foot-fall]], [[footfall]]|free fall|give a fall|[[ice fall]], [[ice-fall]]|infall|[[jaw-fall]], [[jawfall]]|[[landfall]]<!--noun-->|law-fall|leaf-fall|[[litterfall]]<!--"loose fall" is derived from a different word-->|[[mid-fall]], [[midfall]]|[[misfall]]<!--noun-->|mouse-fall|near-fall|nightfall|[[offal]]<!--sic: from "off" and "fall" (noun)-->|onfall|outfall|[[overfall]]<!--noun-->|parachute landing fall|pinfall|pitfall|planetfall|[[prat-fall]], [[pratfall]], [[pratt-fall]]|[[pressure-fall center]], [[pressure-fall centre]]|[[pride comes before a fall]], [[pride goes before a fall]], [[pride goeth before a fall]]|proudfall|rainfall|ride for a fall|rises and falls|[[rock fall]], [[rockfall]]|roof fall|[[root-fall]]<!--noun-->|[[shake a fall]]<!--"shortfall" is derived from "to fall short"-->|shout-and-fall|slip and fall|smokefall|[[snow-fall]], [[snowfall]]|speck falls|stiff board fall|sunfall|Swedish fall|tackle fall|take the fall|technical fall|terminal fall velocity|threadfall|throughfall|toe drain and outfall|trad fall|[[trap-fall]], [[trapfall]]|try a fall|two-out-of-three-falls match|underfall|waterfall|whale fall|windfall|withfall|wrestle a fall|zipper fall}}
+
+=====Translations=====
+{{trans-top|act of moving in gas or vacuum under the effect of gravity from a point to a lower point}}
+* Albanian: {{t+|sq|bie}}
+* Arabic: {{t|ar|سُقُوط|m}}, {{t|ar|هُوِيّ|m}}, {{t|ar|وُقُوع|m}}
+*: Gulf Arabic: {{t|afb|طيحة|tr=ṭēḥa}}
+* Armenian: {{t+|hy|անկում}}
+* Bashkir: {{t|ba|төшөү}}
+* Belarusian: {{t-needed|be}}
+* Bulgarian: {{t+|bg|падане|n}}
+* Catalan: {{t+|ca|caiguda|f}}
+* Central Sierra Miwok: {{t|csm|walí·ŋ-}}
+* Chinese:
+*: Cantonese: {{t|yue|落下|tr=lok6 haa6|sc=Hani}}
+*: Literary Chinese: {{t|lzh|跕|tr=tiē|sc=Hani}}, {{t|lzh|蹎|tr=diān|sc=Hani}}
+*: Mandarin: {{t+|cmn|落下|tr=luòxià}}
+* Czech: {{t+|cs|pád|m}}
+* Danish: {{t|da|fald|n}}
+* Dutch: {{t+|nl|val|m}}
+* Esperanto: {{t+|eo|falo}}
+* Estonian: {{t|et|kukkumine}}
+* Faroese: {{t+|fo|fall|n}}
+* Finnish: {{t+|fi|putoaminen}}
+* French: {{t+|fr|chute|f}}
+* Friulian: {{t|fur|cjadude|f}}
+* Galician: {{t+|gl|caída|f}}
+* Gallurese: {{t|sdn|trapintàda}}
+* German: {{t+|de|Fall|m}}, {{t+|de|Absturz|m}}
+* Greek: {{t+|el|πτώση|f}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|zuhanás}}, {{t+|hu|esés}}
+* Interlingua: {{t|ia|cadita}}
+* Italian: {{t+|it|caduta|f}}
+* Japanese: {{t+|ja|落下|tr=rakka}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەوتن}}, {{t+|ckb|بەربوون}}
+*: Northern Kurdish: {{t+|kmr|ketin|f}}, {{t+|kmr|keftin|f}}
+* Latin: {{t+|la|casus|m}}, {{t|la|lapsus|m}}
+* Malay: {{t|ms|kejatuhan}}
+* Norwegian: {{t+|no|fall|n}}
+* Occitan: {{t+|oc|casuda|f}}
+* Old English: {{t|ang|hryre|m}}, {{t|ang|fiell}}
+* Polish: {{t+|pl|spadek|m-in}}, {{t+|pl|spadanie|n}}
+* Portuguese: {{t+|pt|queda|f}}
+* Romanian: {{t+|ro|cădere|f}}
+* Russian: {{t+|ru|паде́ние|n}}
+* Sardinian:
+*: Logudorese: {{t|sc|istrampàda}}
+* Sassarese: {{t|sdc|caggiùda}}, {{t|sdc|tamburàda}}, {{t|sdc|trabintàda}}
+* Slovene: {{t+|sl|padec|m}}
+* Spanish: {{t+|es|caída|f}}
+* Swahili: {{t|sw|anguko}}, {{t|sw|maanguko}}
+* Swedish: {{t+|sv|fall|n}}
+* Telugu: {{t+|te|పాటు}}
+* Ukrainian: {{t|uk|паді́ння|n}}
+* Welsh: {{t|cy|cwymp|m}}
+{{trans-bottom}}
+
+{{trans-top|a period of decline before the end}}
+* Danish: {{t|da|nedgang|c}}
+* Dutch: {{t+|nl|verval|n}}
+* Finnish: {{t|fi|alasmeno}}
+* French: {{t+|fr|déclin|m}}
+* German: {{t+|de|Niedergang|m}}
+{{trans-mid}}
+* Norwegian: {{t+|no|nedgang}}
+* Portuguese: {{t+|pt|decadência|f}}
+* Russian: {{t+|ru|спад|m}}
+* Spanish: {{t+|es|decadencia|f}}
+* Swedish: {{t+|sv|nedgång|c}}
+* Ukrainian: {{t|uk|спад|m}}
+{{trans-bottom}}
+
+{{trans-see|season|autumn}}
+
+{{trans-top|loss of greatness or status}}
+* Armenian: {{t+|hy|անկում}}
+* Bulgarian: {{t+|bg|падение|n}}
+* Chinese:
+*: Mandarin: {{t+|cmn|墮落}}, {{t+|cmn|堕落|tr=duòluò}}
+* Danish: {{t|da|fald|n}}
+* Dutch: {{t+|nl|val|m}}, {{t+|nl|ondergang|m}}
+* Esperanto: {{t|eo|malaltiĝo}}
+* Finnish: {{t+|fi|tuho}}
+* French: {{t+|fr|déclin|m}}, {{t+|fr|chute|f}}
+* German: {{t+|de|Fall|m}}, {{t+|de|Untergang|m}}
+* Hungarian: {{t+|hu|bukás}}
+{{trans-mid}}
+* Japanese: {{t+|ja|没落|tr=botsuraku}}
+* Latin: {{t|la|ruīna|f}}
+* Malay: {{t|ms|kejatuhan}}
+* Old English: {{t|ang|hryre|m}}
+* Polish: {{t+|pl|upadek|m-in}}
+* Portuguese: {{t+|pt|queda|f}}
+* Russian: {{t+|ru|паде́ние|n}}, {{t+|ru|упадок|m}}
+* Spanish: {{t+|es|caída|f}}
+* Swahili: {{t|sw|anguko}}
+* Swedish: {{t+|sv|fall|n}}
+* Ukrainian: {{t|uk|паді́ння}}, {{t|uk|спад|m}}
+* Welsh: {{t|cy|cwymp|m}}
+{{trans-bottom}}
+
+{{trans-top|cricket: the act of a batsman being out}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Guaraní: {{t-check|gn|'a}}, {{t-check|gn|kúi}}
+* Indonesian: {{t+check|id|musim gugur}}
+{{trans-mid}}
+* Maori: {{t-check|mi|ngahuru}}
+* Tupinambá: {{t-check|tpn|'ara}}, {{t-check|tpn|kuîa}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|falls}}<!--waterfall-->
+
+===Etymology 2===
+Perhaps from the north-eastern Scottish pronunciation of {{m|en|whale}}.
+
+====Interjection====
+{{en-intj}}
+
+# {{lb|en|nautical}} The cry given when a [[whale]] is [[sight]]ed, or [[harpoon]]ed.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|nautical}} The [[chase|chasing]] of a [[hunt]]ed [[whale]].
+
+=====Derived terms=====
+* {{l|en|loose fall}} <!--when the whale being hunted is lost-->
+
+[[Category:English class 7 strong verbs]]
+[[Category:English ergative verbs]]
+[[Category:English irregular verbs]]
+{{topics|en|Death|Seasons|Autumn}}
+
+----
+
+==Albanian==
+
 ===Etymology===
-particularly twisted and interesting.  I'm just documenting the link I found to http://hea-www.harvard.edu/ECT/Words/#fall
--->
+From {{bor|sq|tr|fal}}, from {{der|sq|ar|فَأْل|gloss=omen}}.<ref>{{R:sq:Topalli|page=464-465}}</ref>
+
+===Pronunciation===
+* {{IPA|sq|/faɫ/}}
 
 ===Noun===
-'''fall''' ([[falls]])
+{{sq-noun|m|falle|falli|fallet}}
 
-#The act of moving under the effect of [[gravity]] from a point to a lower point.
-#(''chiefly US''; ''obsolete in British''; ''from the falling of leaves during this season'') [[Autumn]]. <!--Note: Fall is not a proper noun.  It belongs here, as a common noun. -->
-#A loss of greatness or status
-#:''the fall of Rome''
-#:''He took the fall for breaking the window.''
+# [[fortune telling]]
 
-====Synonyms====
-*(''act of moving under the effect of gravity from a point to a lower point''): [[drop]]
-*(''season''): [[autumn]] (''especially British'')
+====Declension====
+{{sq-noun-m}}
 
-====Translations====
+====Derived terms====
+{{rel-top|Terms derived from the noun "fall"}}
+* {{l|sq|falltar}}
+* {{l|sq|fallxhi}}
+* {{l|sq|falxhor}}
+* {{l|sq|falltoj}}
+* {{l|sq|fallxheshë}}
+{{rel-bottom}}
 
-'''act of moving under the effect of gravity from a point to a lower point'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from A to M go here-->
-*Dutch: [[val]] ''m''
-*French: [[chute#French|chute]] ''f''
-*German:[[fall]] m.
-*[[Interlingua]]: [[cadita]]
-*Italian: [[caduta]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from N to Z go here-->
-*Norwegian: fall ''n''
-*Portuguese: [[queda]] ''f''
-*Romanian: [[cădere]] ''f''
-*Spanish: [[caída]] ''f''
-*Swedish: fall ''n''
-|}
-|}
+===References===
+<references/>
 
-'''season'''
-''See [[autumn]]''
+----
 
-=====Translations to be checked=====
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
+==Breton==
 
-The translations below need to be checked by native speakers and inserted into the appropriate table(s) above.  Move translations for "autumn" to [[autumn]].
+===Adjective===
+{{head|br|adjectives}}
 
-*Chinese: [[落下]] (luoxia), [[跌倒]] (diedao), [[秋季]] (qiuji)
-*Danish: [[efterår]] ''n''
-*Danish: [[fald]] ''n''
-*Finnish: [[putoaminen]]
-*Guarani: [['a]], [[kúi]]
-*Indonesian: [[musim]] [[gugur]]
-*Japanese: [[落下]] (らっか, rakka)
-*Maori: [[ngahuru]]
-*[[Tupinambá]]: [['ara]], [[kuîa]]
+# [[bad]]
 
-===Intransitive verb===
-'''to fall''' ([[falls]], [[falling]], [[fell]], [[fallen]])
+----
 
-#To go from a higher position to a lower one under the effect of [[gravity]].
-#{{cricket}} (of a [[wicket]]) The act of a [[batsman]] being [[out]].
+==Catalan==
 
-==== Synonyms ====
-*[[drop]]
+===Etymology===
+From {{m|ca|fallir}}.
 
-====Translations====
-{| border=0 width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from A to I go here-->
-*Croatian: [[pad]]
-*Danish: [[falde]]
-*Dutch: [[vallen]]
-*Esperanto: [[fali]]
-*Estonian: [[kukkuma]]
-*Finnish: [[kaatua]], [[pudota]]
-*French: [[tomber]]
-*German:[[fallen]]
-*Guarani: [['a]], [[kúi]]
-*[[Ido]]: [[falar]]
-*Indonesian: [[jatuh]], [[gugur]], [[runtuh]], [[tumbang]]
-*[[Interlingua]]: [[cader]]
-*Irish: [[tit#Irish|tit]]
-*Italian: [[cadere]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from J to Z go here-->
-*Japanese: [[落ちる]] ([[おちる]], ochiru), [[崩れる]] ([[くずれる]], kuzureru), [[落下]]する (らっかする, rakka-suru)
-*Korean: [[넘어지다]] (neom-eo-ji-da), [[쓰러지다]] (sseu-reo-ji-da), [[떨어지다]] (ddeol-eo-ji-da), [[Hanja]]: [[하락하다]] (harak-hada)
-*Latin: [[cadere]]
-*Norwegian: [[falle]]
-*Portuguese: [[cair]]
-*Romanian: [[cădea]]
-*Russian: [[падать]]
-*Spanish: [[caer]]
-*Swedish: [[falla]]
-*[[Tupinambá]]: [['ar]], [[kuî]]
-|}
-|}
+===Noun===
+{{ca-noun|m}}
 
-==== Related terms ====
-*[[fall down]]
-*[[fall for]]
-*[[fall off]]
-*[[fall over]]
-
-===Transitive verb===
-'''to fall''' ([[falls]], [[fell]], [[fallen]], [[falling]])
-
-#(''followed by an adjective'') To become, to change into the state described by the following adjective.
-#:''She has fallen ill.''
-
-====Usage note====
-*Now only used in certain set phrases and expressions (see "Related terms" below).
-
-====Translations====
-{| border=0 width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from A to I go here-->
-*Dutch: (ziek, verliefd, zwanger) [[worden]], (in slaap) [[vallen]]
-*French: [[devenir]], [[tomber]]
-*Italian: [[diventare]], [[divenire]], [[cadere]]
-*[[Spanish]]: [[caer]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from J to Z go here-->
-|}
-|}
+# [[cliff]]
 
 ====Related terms====
-*[[fall asleep]]
-*[[fall ill]]
-*[[fall in love]]
-*[[fall pregnant]]
+* {{l|ca|falla}}
+
+===Further reading===
+* {{R:IEC2}}
+
+{{c|ca|Landforms}}
+
+----
+
+==Faroese==
+
+===Etymology===
+From {{der|fo|non|fall}}, from {{m|non|falla||to fall}}. The grammatical sense is a calque of Latin {{m|la|casus}}.
+
+===Pronunciation===
+* {{IPA|fo|/fatl/}}
+
+===Noun===
+{{fo-noun|n|fals|føll}}
+
+# fall, [[drop]]
+# [[case]] {{qualifier|linguistics}}
+
+====Declension====
+{{fo-decl-noun-n10|f|l}}
+
+[[Category:fo:Grammar]]
+
+----
+
+==German==
+
+===Pronunciation===
+* {{IPA|de|/fal/}}
+* {{audio|de|De-fall.ogg|Audio}}
+* {{rhymes|de|al|s=1}}
+
+===Verb===
+{{head|de|verb form}}
+
+# {{verb form of|de|fallen||s|imp}}
+# {{lb|de|colloquial}} {{verb form of|de|fallen||1|s|pres}}
+
+----
+
+==Icelandic==
+{{wikipedia|lang=is}}
+
+===Etymology===
+From {{der|is|non|fall}}, from {{m|non|falla||to fall}}. The grammatical sense is a calque of Latin {{m|la|casus}}.
+
+===Pronunciation===
+* {{IPA|is|/fatl/}}
+* {{rhymes|is|atl|s=1}}
+
+===Noun===
+{{is-noun|n|falls|föll}}
+
+# [[#English|fall]], [[drop]]
+# {{lb|is|grammar}} [[case]]
+# {{lb|is|computing|programming}} [[function]]; {{gloss|subprogram, usually with formal parameters, returning a data value when called}}
+# {{inflection of|is|fall||indef|acc|s}}
+
+====Declension====
+{{is-decl-noun-n-s|f|a|ll}}
+
+====Synonyms====
+* {{sense|function}} {{l|is|fallstefja}}
+
+====Derived terms====
+{{der3|is|áhrifsfall|ávarpsfall|blóðfall|bylgjufall|deildarfall|eignarfall|fjarverufall|íferðarfall|íverufall|nefnifall|nærverufall|samvistarfall|staðarfall|sviftifall|tilgangsfall|tækisfall|úrferðarfall|verufall|þágufall|þolfall|tvinnfall}}
 
 ===See also===
-*[http://hea-www.harvard.edu/ECT/Words/#fall]
+* {{l|is|falla|pos=v}}
+
+----
+
+==Norwegian Bokmål==
+
+===Noun===
+{{nb-noun-n1}}
+
+# a {{l|en|fall}}
+# [[case]]
+#: ''i '''fall''' - in case''
+#: ''i alle '''fall''' - in any case''
+
+====Derived terms====
+{{col3-u|nb
+|dødsfall
+|fallgruve
+|fallskjerm
+|fossefall
+|innfall
+|nødsfall
+|snøfall
+|vannfall
+}}
+
+====Related terms====
+* {{l|nb|falle}} (''verb'')
+
+===Verb===
+{{nb-verb-form}}
+
+# {{imperative of|nb|falle}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{IPA|nn|/fɑlː/}}
+
+===Noun===
+{{nn-noun-n1}}
+
+# a {{l|en|fall}}
+# [[case]]
+
+====Derived terms====
+{{col3-u|nn
+|dødsfall
+|fallgruve
+|fallskjerm
+|fossefall
+|innfall
+|nødsfall
+|snøfall
+}}
+
+===Verb===
+{{head|nn|verb form}}
+
+# {{infl of|nn|falle||past|tense}}
+# {{infl of|nn|falle||imp}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
 
 ==Swedish==
+
+===Etymology===
+From {{der|sv|non|fall}}, from {{m|non|falla||to fall}}. The grammatical sense is a calque of Latin {{m|la|casus}}.
+
+===Pronunciation===
+* {{audio|sv|Sv-fall.ogg|Audio}}
+
 ===Noun===
-'''fall''' ''n'' (''pl'' fall, ''definite singular'' [[fallet]], ''definite plural'' [[fallen#Swedish|fallen]])
+{{sv-noun|n}}
 
-#fall (''the act of falling'') (From the verb ([[att]]) [[falla]], (to) fall.)
-#[[case]] (''in the legal sense'')<!--, something the [[police]], a [[court]] or a [[detective]] might be working on.-->
-<!-- does "fall" have a meaning of it own in this case?  # In the word [[vattenfall]], which means [[waterfall]]. -->
-==German==
-===Noun===
-'''Fall'''
-#[[case]]
+# a [[#English|fall]] {{qualifier|the act of falling}}
+# a fall, loss of greatness or wealth, a [[bankruptcy]]
+# a [[slope]], a [[waterfall]], the height of a slope or waterfall
+#: {{uxi|sv|'''fallet''' är omgivet av skog|the fall is surrounded by forest}}
+#: {{uxi|sv|'''fallet''' är sjutton meter|the water falls seventeen metres; the decline is seventeen metres}}
+# a (legal) [[case]]
+#: {{uxi|sv|i alla '''fall'''|anyhow (in all cases)}}
+#: {{uxi|sv|i annat '''fall'''|otherwise (in another case)}}
+#: {{uxi|sv|i så '''fall'''|if so (in such a case)}}
+#: {{uxi|sv|i vilket '''fall''' som helst|in any case}}
+#: {{uxi|sv|i vart '''fall'''|in any case}}
 
-[[Category:German nouns]]
+====Declension====
+{{sv-infl-noun-n-zero}}
 
-[[Category:1000 English basic words]]
+====Related terms====
+{{col4|sv
+|akutfall
+|anfall
+|avfall
+|brottsfall
+|falla
+|fallandesjuk
+|fallandesjuka
+|fallbesegra
+|fallbeskrivning
+|fallbila
+|fallen
+|fallenhet
+|fallfrukt
+|fallfärdig
+|fallgirig
+|fallgrop
+|fallhöjd
+|fallinje
+|fallrep
+|fallseger
+|fallskärm
+|fallstudie
+|fallucka
+|fallvind
+|framfall
+|fälla
+|förfall
+|infall
+|kriminalfall
+|kursfall
+|mordfall
+|nedfall
+|nödfall
+|olycksfall
+|prisfall
+|psykfall
+|rättsfall
+|snöfall
+|tillfälle
+|utfall
+|vattenfall
+|vårdfall
+|överfall
+}}
+<!-- Some should be placed under "Derived terms" instead -->
 
-[[de:Fall]]
-[[es:fall]]
-[[it:fall]]
-[[fi:Fall]]
+===Verb===
+{{head|sv|verb form}}
+
+# {{sv-verb-form-imp|falla}}
+
+===References===
+* {{R:svenska.se|saol}}
