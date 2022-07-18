@@ -38,10 +38,10 @@ Japanese shinjitai {{Han simp|疊|f=畾|t=田}}. In current form {{Han compound|
 From {{m|ja|畳む|pos=v|tr=tatamu||to [[fold]]}}
 
 ====Pronunciation====
-{{ja-pron|acc=1|y=k|たたみ}}
+{{ja-pron|たたみ|acc=0|acc_ref=NHK}}
 
 ====Noun====
-{{ja-noun|たたみ|kyu=疊}}
+{{ja-noun|たたみ}}
 
 # [[tatami]]; a [[tatami]] mat
 # [[tatami]]; a unit of area, approximately 1.65 square metres. 
@@ -53,7 +53,7 @@ From {{m|ja|畳む|pos=v|tr=tatamu||to [[fold]]}}
 From {{der|ja|ltc|疊|tr=dep||to [[fold]]|sort=しょう'}}
 
 ====Counter====
-{{ja-pos|じょう|counter|hhira=でふ|kyu=疊}}
+{{ja-pos|じょう|counter|hhira=でふ}}
 
 # tatami [[mat]]s
 # units of [[area]] as measured in tatami mats
@@ -65,15 +65,18 @@ The size of tatami traditionally differs between regions in Japan. See [[w:Tatam
 {{ja-kanjitab|たとう|yomi=irr|sort=たとう}}
 
 ====Pronunciation====
-{{ja-pron|acc=2|y=i|たとう}}
+{{ja-pron|acc=2|たとう}}
 
 ====Noun====
-{{ja-noun|たとう|hhira=たたう|kyu=疊}}
+{{ja-noun|たとう|hhira=たたう}}
 
 # {{clip of|ja|畳紙|tr=tatōgami|sort=たとう}}
 
 ===See also===
 * {{ja-r|和%室|gloss=Japanese-style room|わ%しつ}}
 * {{ja-r|布%団|gloss=[[futon]], sleeping mattress|ふ%とん}}
+
+===References===
+<references/>
 
 {{cln|ja|words with multiple readings}}
