@@ -90,17 +90,20 @@ See {{zh-l|*桔}}.
 {{der-bottom}}
 
 ===Etymology 1===
+{{ja-kanjitab|yomi=k|たちばな}}
 {{wp|lang=ja|タチバナ}}
 {{wp|Citrus tachibana}}
-{{ja-kanjitab|yomi=k|たちばな}}
-From {{inh|ja|ojp|sort=たちはな|-}}.
 
-Named after {{m|ja|田道間守|tr={{w|Tajimamori}}}}, a legendary figure mentioned in the ''{{w|Kojiki}}'' and the ''{{w|Nihon Shoki}}''; purportedly bringing back certain fruits, but not directly as ''tachibana'' by name.
+From {{inh|ja|ojp|sort=たちはな|-}}.  First cited in the ''{{w|Kojiki}}'' of 712.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+According to the ''{{w|Nihon Shoki}}'' in a section describing the 90th year of the reign of the legendary {{m|ja||{{w|lang=ja|垂仁天皇}}|tr=Suinin Tennō|{{w|Emperor Suinin}}|pos=traditionally regarded as living from 69 BCE – 70 CE and reigning from 29 BCE – 70 CE}}, a legendary figure named {{m|ja||{{w|lang=ja|田道間守}}|tr={{w|Tajimamori}}}} was tasked with bringing back from the heavens a {{m|ja||非時香菓|tr=tokijiku no kagu no konomi|pos=literally, “timeless fragrant tree-fruit”;  the same incident is also included in the ''{{w|Kojiki}}''}}.  This is often interpreted to be a reference to ''tachibana'', but the text itself is not specific.<ref name="KDJ2"/>
+
+A surface analysis suggests that this is a compound of {{compound|ja|sort=たちばな|立ち|tr1=tachi|t1=[[standing]]|pos1=from verb {{m|ja|立つ|tr=tatsu||to [[stand]]}}|花|tr2=hana|t2=[[flower]]}}.
 
 Shortened to ''tachi'' for some compounds.
 
 ====Pronunciation====
-{{ja-pron|y=k|たちばな|acc=2|acc_ref=DJR}}
+{{ja-pron|たちばな|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|たちばな|タチバナ}}
@@ -148,7 +151,7 @@ Shortened to ''tachi'' for some compounds.
 {{wp|Tachibana clan (kuge)}}
 {{ja-pos|proper|たちばな}}
 
-# {{short for|ja|橘氏|tr=Tachibana-uji|dot=:}} an [[ancient]] [[clan]] who often held high-ranking positions in the medieval Japanese court, [[descend]]ed from {{w|Agata no Inukai no Michiyo}} and later {{w|Tachibana no Moroe}}
+# {{short for|ja|橘氏|tr=Tachibana-uji|nocap=1|dot=:}} an [[ancient]] [[clan]] who often held high-ranking positions in the medieval Japanese court, [[descend]]ed from {{w|Agata no Inukai no Michiyo}} and later {{w|Tachibana no Moroe}}
 # {{lb|ja|sort=たちはな|historical}} a ''Sakura''-[[class]] [[destroyer]] of the {{w|Imperial Japanese Navy}} (see {{pedia|Japanese destroyer Tachibana (1912)}})
 #: {{hyper|ja|桜|tr=Sakura}}
 # {{lb|ja|historical}} a destroyer [[subclass]] of the Imperial Japanese Navy during {{w|World War II}}, modified from the ''{{ll|ja|松|Matsu}}''{{w|Matsu-class destroyer|-class destroyers}}
@@ -165,6 +168,9 @@ Shortened to ''tachi'' for some compounds.
 
 From {{der|ja|ltc|sort=きつ|-}} {{ltc-l|橘}}.
 
+====Pronounciation====
+{{ja-pron|きつ}}
+
 ====Affix====
 {{ja-pos|affix|きつ}}
 
@@ -179,7 +185,7 @@ From {{der|ja|ltc|sort=きつ|-}} {{ltc-l|橘}}.
 {{ja-pos|proper|きつ}}
 
 # {{given name|ja|female|A=a|sort=きつ}}
-# {{surname|ja|A=a|sort=きつ}}.
+# {{surname|ja|A=a|sort=きつ}}
 
 ===References===
 <references/>
