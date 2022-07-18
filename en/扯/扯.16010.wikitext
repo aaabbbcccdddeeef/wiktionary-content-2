@@ -11,41 +11,78 @@
 ----
 
 ==Chinese==
-{{zh-forms|alt=撦}}
 
 ===Glyph origin===
 {{Han etym}}
+Originally written as {{zh-l|*撦}}. {{Han compound|手|止|ls=psc|c1=s|c2=p|t1=hand}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms|alt=撦}}
+{{rfe|zh}}
+
+====Pronunciation====
 {{zh-pron
 |m=chě
 |ma=Zh-chě.oga
 |m-s=ce3
 |c=ce2
+|c-t=cie2
 |h=pfs=chhá
 |md=tiē/chiē
-|mn=chhé/qz,xm,zz:chhiá
+|mn=chhé/ml:chhiá
 |mn_note=chhé - vernacular; chhiá - literary
 |w=2tsha
 |x=che3
 |mc=y
 |oc=y
-|cat=
+|cat=v,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# to [[pull]] (usually that is flexible)
-# {{lb|zh|Cantonese}} to [[leave]]
+# to [[pull]]; to [[tug]] (usually something that is flexible)
+#: {{zh-x|唔好 扯 住 我 件 衫。|Stop '''pulling''' my shirt.|C}}
 # to [[tear]]
-# to talk [[nonsense]]
-# [[ridiculous]], [[crazy]]
+# to [[talk]] [[casually]]; to [[chat]]
+#: {{zh-co|胡扯|to '''chatter''' idly}}
+# [[ridiculous]]; [[crazy]]
+#: {{zh-x|今天 看病 要 等 六 個 小時，太 扯 了！|Today, people had to wait for six hours to see the doctor. It's absolutely '''ridiculous'''!}}
 # {{lb|zh|dialectal|of weather}} to fall; to have
-#: {{zh-x|扯霍閃|to have lightning|M-S|tr=ce3 ho2 san3}}
+#: {{zh-co|扯霍閃|to '''have''' lightning|M-S|tr='''ce3''' ho2 san3}}
+# {{lb|zh|dialectal}} to [[play]] (a [[stringed instrument]])
+# {{lb|zh|Cantonese}} to [[raise]] by [[pull]]ing; to [[hoist]]
+#: {{zh-x|扯旗|to '''hoist''' a flag|C}}
+# {{lb|zh|Cantonese}} to [[breathe]]; to [[puff]]; to [[suck in]]
+#: {{zh-co|扯鼻鼾|to snore|C}}
+#: {{zh-co|扯 飛 煙|to '''smoke''' a dart|C}}
 
-===Compounds===
+=====Synonyms=====
+{{zh-dial|拉}}
+{{zh-dial|拉-2}}
+
+====Compounds====
 {{zh-der|丟輪扯砲|弓兒扯滿|七拉八扯|丟連扯|嘮扯|扯謊撩白|扯談|扯白|扯三拉四|扯閑盤兒|拉扯|扯平|扯後腿|扳扯|扯不清|扯破|攀扯|扯呼|扯手扯腳|扯底線|扯縴|扯閑篇|推三扯四|扯筋|扯麵|扯勸|撏綿扯絮|扯尾巴|扯臊|扯篷拉縴|拖扯|扯淡|扯皮弄筋|扯皮|瞎扯|扯撮|扯篷|扯是搬非|扯落|牽扯|扯拉|扯扯拽拽|瞎扯臊|扯架子|扯扯連連|扯牛尾巴|扯直|扯簸箕|白扯|扯順風旗|東扯西拽|揪扯|扯手|拉拉扯扯|拉三扯四|扯倒|扯著脖子|扯頭|扯曳|東拉西扯|殺雞扯脖|扯謊|扯開嗓子|扯鈴|扯爛汙|扯票|扯住|扯平點|扯腿|扯閒白|撏扯|捽扯|扯空砑光|扯破臉皮|扯弓搭箭|鬼扯淡|胡拉混扯|胡扯|胡支扯葉|鬼扯腿|鬼扯|順風扯旗|鬼扯蛋|閒扯淡|閒扯|連扯跟頭}}
+
+===Etymology 2===
+{{zh-forms|alt=跙}}
+
+====Pronunciation====
+{{zh-pron
+|c=ce2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[leave]]
+#: {{zh-x|你 扯 啦，唔好 煩 住 我。|'''Leave''' and stop bothering me.|C}}
+# {{lb|zh|Cantonese}} [[away]]
+#: {{zh-co|拎 扯|to take '''away'''|C}}
+
+====Compounds====
+{{zh-der|返扯|扯記|扯人}}
 
 ===References===
 * {{R:yue:Hanzi}}
