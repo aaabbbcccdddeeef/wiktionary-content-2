@@ -1,74 +1,598 @@
+{{also|Kill|kíll}}
 ==English==
-===Pronunciation===
-*[[Pronunciation guide|IPA]]:/kɪl/
-=== Etymology 1 ===
-{{etystub}}
-====Transitive verb====
-[[Category:English transitive verbs]]
-{{en-infl-reg-consonant|kill||}}
+{{wikipedia}}
 
-#put to death
-#force (a company) out of business
-#render void
-#:''The editor decided to '''kill''' the story.''
-#while away, waste
-#:''I'm just doing this to '''kill''' time.''
-#amaze, exceed, stun 
-#:''That night, she was dressed to '''kill'''.''
+===Pronunciation===
+* {{IPA|en|/kɪl/}}
+* {{audio|en|en-us-kill.ogg|Audio (US)}}
+* {{rhymes|en|ɪl|s=1}}
+
+===Etymology 1===
+From {{inh|en|enm|killen}}, {{m|enm|kyllen}}, {{m|enm|cullen|cüllen|t=to strike, beat, cut}}, of obscure origin.
+* Perhaps from {{inh|en|ang|*cyllan}}, from {{inh|en|gmw-pro|*kwulljan}}, from {{inh|en|gem-pro|*kwuljaną}}, from {{der|en|ine-pro|*gʷelH-|t=to throw, hit, hurt by throwing}}.
+* Or, possibly a variant of {{inh|en|ang|cwellan|t=to kill, murder, execute}} (see {{l|en|quell}}).
+* Or, from {{der|en|non|kolla|t=to hit on the head, harm}}, related to {{cog|no|kylla|t=to poll}}, {{cog|dum|kollen|t=to knock down}}, {{cog|is|kollur|t=top, head}}; see also {{l|en|coll}}, {{l|en|cole}}).
+
+Compare also {{cog|dum|killen}}, {{m|dum|kellen|t=to kill}}, {{cog|gml|killen|t=to ache strongly, cause one great pain}}, {{cog|gmh|kellen|t=to torment; torture}}.
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|transitive}} To put to [[death]]; to [[extinguish]] the [[life]] of.
+#: {{ux|en|Smoking '''kills''' more people each year than alcohol and drugs combined.}}
+#* {{RQ:Shakespeare King Lear|act=IV|scene=vi|page=304|passage=A Troope of Horſe with Felt: Ile put't in proofe, / And when I haue ſtolne vpon theſe Son in Lawes, / Then '''kill''', '''kill''', '''kill''', '''kill''', '''kill''', '''kill'''.}}
+#* {{RQ:Shakespeare Tempest|III|ii|page=12|passage={{smallcaps|Stephano}}: {{w|Caliban|Monſter}}, I will '''kill''' this man : his daughter and I will be King and Queene, ſave our Graces : and ''Trinculo'' and thy ſelfe ſhall be Vice-royes : {{...}}}}
+# {{lb|en|transitive}} To render [[inoperative]].
+#: {{ux|en|He '''killed''' the engine and turned off the headlights, but remained in the car, waiting.}}
+#* '''1978''', {{w|John Farris}}, ''[[w:The Fury (1978 film)|The Fury]]''
+#*: ''Peter'': Ask Childers if it was worth his arm.
+#*: ''Policeman'': What did you do to his arm, Peter?
+#*: ''Peter'': I '''killed''' it, with a machine gun.
+# {{lb|en|transitive|figuratively}} To [[stop]], [[cease]]{{,}} or render [[void]]; to [[terminate]].
+#: {{ux|en|The editor decided to '''kill''' the story.}}
+#: {{ux|en|The news that a hurricane had destroyed our beach house '''killed''' our plans to sell it.}}
+#: {{ux|en|My computer wouldn't respond until I '''killed''' some of the running processes.}}
+# {{lb|en|transitive|figuratively|hyperbole}} To [[amaze]], [[exceed]], [[stun]]{{,}} or otherwise [[incapacitate]].
+#: {{ux|en|That night, she was dressed to '''kill'''.}}
+#: {{ux|en|That joke always '''kills''' me.}}
+# {{lb|en|transitive|figuratively|hyperbole}} To cause great [[pain]], [[discomfort]]{{,}} or [[distress]] to.
+#: {{ux|en|These tight shoes are '''killing''' my feet.}}
+#* {{quote-journal|en|year=2008|month=October|author=Davy Rothbart|title=How I caught up with dad|journal={{w|Men's Health}}|volume=23|issue=8|issn=1054-4836|page={{gbooks|VMgDAAAAMBAJ|110|killing}}|passage={{smallcaps|two laps into our first walk, my dad}} needed to sit down. His back and legs were '''killing''' him. "You'll be okay," I assured him. "You just need to shake off the rust."<br/>I gave him a couple ofAdvil and, after a few minutes, urged him back onto the track.}}
+# {{lb|en|transitive|figuratively}} To produce feelings of [[dissatisfaction]] or [[revulsion]] in.
+#: {{ux|en|It '''kills''' me to throw out three whole turkeys, but I can't get anyone to take them and they've already started to go bad.}}
+#: {{ux|en|It '''kills''' me to learn how many poor people are practically starving in this country while rich moguls spend such outrageous amounts on useless luxuries.}}
+# {{lb|en|transitive}} To [[use up]] or to [[waste]].
+#: {{ux|en|I'm just doing this to '''kill''' time.}}
+#* '''2001''', Jonathan Franzen, ''The Corrections''
+#*: Except for the shirt, which he’d worn, and the check, which he’d cashed, and the bottle of port, which he’d '''killed''' in bed on Christmas night, the gifts from his family were still on the floor of his bedroom.
+# {{lb|en|transitive|figuratively|informal}} To exert an [[overwhelm]]ing [[effect]] on.
+#: {{ux|en|Look at the amount of destruction to the enemy base. We pretty much '''killed''' their ability to retaliate anymore.}}
+# {{lb|en|transitive|figuratively|hyperbole}} To [[overpower]], [[overwhelm]]{{,}} or [[defeat]].
+#: {{ux|en|The team had absolutely '''killed''' their traditional rivals, and the local sports bars were raucous with celebrations.}}
+# {{lb|en|transitive}} To force a company out of [[business]].
+# {{lb|en|intransitive|informal|hyperbolic}} To produce intense [[pain]].
+#: {{ux|en|You don't ever want to get rabies. The doctor will have to give you multiple shots and they really '''kill'''.}}
+# {{lb|en|figuratively|informal|hyperbole|transitive}} To [[punish]] [[severely]].
+#: {{ux|en|My parents are going to '''kill''' me!}}
+#* {{quote-book|1=en|year=1926|author=Sir Arthur Conan Doyle|authorlink=Arthur Conan Doyle|title=The Land of Mist|url=http://gutenberg.net.au/ebooks06/0601351h.html|passage="Father will '''kill''' us for this."}}
+# {{lb|en|transitive|sports}} To strike (a ball, etc.) with such force and placement as to make a shot that is impossible to defend against, usually winning a point.
+#* {{quote-journal|en|date=February 4, 2011|author=Gareth Roberts| title=Wales 19-26 England| work=BBC| url=http://news.bbc.co.uk/sport2/hi/rugby_union/9386391.stm| passage=That close call encouraged Wales to launch another series of attacks that ended when lock Louis Deacon '''killed''' the ball illegally in the shadow of England's posts.}}
+# {{lb|en|transitive|sports}} To cause (a ball, etc.) to be [[out of play]], resulting in a stoppage of gameplay.
+#* {{quote-journal|en|last=Schmook|first=Nathan|url=https://www.saints.com.au/news/2015-05-10/when-jack-became-a-jet| title=Billings vs Bont| work=St Kilda Football Club| date=10 May 2015| passage=As the ball was delivered deep into St Kilda's forward line by Billings, Bontempelli had position on the goal line, with a pack forming in front of him. He decided to fly but didn't '''kill''' the ball, leaving it to spill where he had been positioned moments earlier. Jack Sinclair gratefully swooped and kicked a goal that cut the margin to five points.}}
+# To succeed with an audience, especially in comedy.
+#* {{quote-book|en|year=2012|author=Yael Kohen| title=We '''Killed''': The Rise of Women in American Comedy| url=https://books.google.com/books?id=aTtRzfNCf3UC&printsec=frontcover&dq=%22killed+it%22+comedy+%22stand-up%22&hl=en&sa=X&ved=0ahUKEwie8MftvtjLAhUE6WMKHbXOAhsQ6AEIKjAA#v=snippet&q=kill&f=false| passage=When comics fail, they "die"; when they succeed, they "'''kill'''."}}
+#* {{quote-journal|en|date=February 23, 2016|author=Tim Gray| title=Chris Rock Tests Jokes at Comedy Clubs Ahead of Oscars| work=Variety| url=http://variety.com/2016/film/news/chris-rock-oscar-monologue-comedy-clubs-1201713174/| passage=You really '''killed''' it at the Comedy Store last night.}}
+# {{lb|en|mathematics|transitive|informal}} To cause to assume the value zero.
+# {{lb|en|computing|Internet|[[IRC]]|transitive}} To [[disconnect]] (a user) involuntarily from the [[network]].
+# {{lb|en|metallurgy}} To [[deadmelt]].
+# {{lb|en|slang}} To [[sexually]] [[penetrate]] in a skillful way.
+#* {{quote-song|1=en|year=1992|author=Ice Cube|title=It Was A Good Day|album=The Predator|text=I felt on her big fat fanny/Pulled out the jammy and killed the punanni}}
+# {{lb|en|reflexive|informal}} To [[exert]] oneself to an excessive degree.
+#: ''Don't '''kill yourself''' raking the leaves now; we're due for a windstorm tonight.''
 
 =====Synonyms=====
-*[[assassinate]]
-*[[bump off]]
-*[[ice]]
-*[[knock off]]
-*[[murder]]
-*[[rub out]]
-*[[slaughter]]
-*[[slay]]
-*[[top]]
-*[[whack]]
+* {{sense|to put to death}} {{l|en|assassinate}}, {{l|en|bump off}}, {{l|en|dispatch}}, {{l|en|ice}}, {{l|en|knock off}}, {{l|en|liquidate}}, {{l|en|murder}}, {{l|en|rub out}}, {{l|en|slaughter}}, {{l|en|slay}}, {{l|en|top}}, {{l|en|whack}}
+* {{sense|to use up or waste}} {{l|en|fritter away}}, {{l|en|while away}}
+* {{sense|to render inoperative}} {{l|en|break}}, {{l|en|deactivate}}, {{l|en|disable}}, {{l|en|turn off}}
+* {{sense|to exert an overwhelming effect on}} {{l|en|annihilate}} {{qualifier|informal}}
+* {{sense|to exert oneself to an excessive degree}} {{l|en|bust one's ass}} {{qualifier|vulgar|slang}}
+* See also [[Thesaurus:kill]]
+
+=====Hyponyms=====
+* {{l|en|instakill}}
+* {{l|en|instant kill}}
+
+=====Derived terms=====
+{{der3|en|hit-to-kill|kill-time|killer|killing|killjoy}}
+
+=====Related terms=====
+{{rel3|en|kill it|kill off|kill one's darlings|kill oneself}}
 
 =====Translations=====
-{{checktrans}}
-'''put to death'''
-*[[Catalan]]: [[matar]]
-*CJKV Characters: [[斃]], [[毙]]
-*Chinese: [[杀]] (shā)
-*Dutch: [[doden]]
-*[[Esperanto]]: [[mortigi]]
-*Finnish: [[tappaa]], [[surmata]] (''poetic'')
-*French: [[tuer]]
-*[[Frisian]]: [[deadzje]]
-*German: [[töten]]
-*Hungarian: [[öl]]
-*Indonesian: [[bunuh]], [[bunuh|membunuh]], [[habis|menghabisi]]
-*Italian: [[uccidere]]
-*Japanese: [[殺す]] ([[ころす]], korosu), [[殺害]]する ([[さつがい]]する, satsugai-suru)
-*Korean: [[죽이다]] (juk-i-da)
-*Norwegian: [[drepe]]
-*Russian: [[убивать]] ''imperf'', [[убить]] ''perf''
-*Spanish: [[matar]]
-*Swedish: [[döda]]
+{{trans-top|to put to death}}
+* Afrikaans: {{t|af|vermoor}}
+* Ahom: {{t|aho|𑜁𑜠}}
+* Aklanon: {{t|akl|patay}}
+* Albanian: {{t+|sq|vras}}
+* Arabic: {{t+|ar|قَتَلَ}}
+*: Algerian Arabic: {{t|arq|قتل|tr=qtel}}
+*: Egyptian Arabic: {{t|arz|قتل|tr=ʾatal}}, {{t|arz|موت|tr=mawwit}}
+*: Hijazi Arabic: {{t|acw|قَتَل|tr=gatal}}, {{t|acw|مَوَّت|tr=mawwat}}, {{t|acw|ذبح|tr=dabaḥ}}
+*: Moroccan Arabic: {{t|ary|قتل|tr=qtal}}
+* Armenian: {{t+|hy|սպանել}}
+* Assamese: {{t|as|মাৰ}}, {{t|as|মাৰি পেলা}}, {{t|as|হত্যা কৰ}}
+* Asturian: {{t+|ast|matar}}
+* Avar: {{t|av|чӏвазе}}
+* Azerbaijani: {{t+|az|öldürmək}}
+* Bashkir: {{t|ba|үлтереү}}
+* Basque: {{t|eu|hil}}
+* Belarusian: {{t+|be|забіва́ць|impf}}, {{t+|be|забі́ць|pf}}
+* Bengali: {{t|bn|হত্যা করা}}, {{t|bn|বধ করা}}
+* Borôro: {{t|bor|bito}}
+* Bulgarian: {{t+|bg|уби́вам|impf}}, {{t+|bg|уби́я|pf}}
+* Burmese: {{t+|my|သတ်}}, {{t+|my|သတ်ဖြတ်}}
+* Buryat: {{t|bua|алаха}}
+* Catalan: {{t+|ca|matar}}, {{t+|ca|assassinar}}
+* Cebuano: {{t|ceb|patay}}
+* Chechen: {{t|ce|де}}, {{t|ce|ден}}
+* Chickasaw: {{t|cic|abi}}
+* Chinese:
+*: Cantonese: {{t+|yue|殺}}, {{t+|yue|杀|tr=saat3}}, {{t|yue|殺死}}, {{t|yue|杀死|tr=saat3 sei2}}
+*: Dungan: {{t|dng|са}}, {{t|dng|дасы}}
+*: Gan: {{t|gan|殺}}, {{t|gan|杀|tr=sah6}}
+*: Hakka: {{t|hak|殺}}, {{t|hak|杀|tr=sat}}
+*: Jin: {{t|cjy|殺}}, {{t|cjy|杀|tr=sah4}}
+*: Mandarin: {{t+|cmn|殺}}, {{t+|cmn|杀|tr=shā}}; {{t+|cmn|殺死}}, {{t+|cmn|杀死|tr=shāsǐ}}; {{t+|cmn|戕殺}}, {{t+|cmn|戕杀|tr=qiángshā}}; {{t+|cmn|宰|tr=zǎi}} {{q|colloquially}}; {{t+|cmn|弄死|tr=nòngsǐ, nèngsǐ}}; {{t|cmn|搞死|tr=gǎosǐ}} {{q|dialectically}}; {{t|cmn|整死|tr=zhěngsǐ}} {{q|dialectically}}; {{t+|cmn|打死|tr=dǎsǐ}} {{q|by beating or shooting}}
+*: Min Bei: {{t|mnp|殺}}, {{t|mnp|杀|tr=suŏi}}, {{t|mnp|刣|tr=tî}} {{qualifier|to slaughter an animal}}
+*: Min Dong: {{t|cdo|刣|tr=tài}}, {{t|cdo|刣死|tr=tài-sī}}
+*: Min Nan: {{t+|nan|刣|tr=thâi}}, {{t|nan|刣死|tr=thâi--sí}}
+*: Wu: {{t|wuu|殺}}, {{t|wuu|杀|tr=saq}}
+*: Xiang: {{t|hsn|殺}}, {{t|hsn|杀|tr=sa6}}
+* Chukchi: {{t|ckt|тэгинӈэтык|tr=tėginṇėtyk}}
+* Crimean Tatar: {{t|crh|gebertmek}}, {{t|crh|öldürmek}}
+* Czech: {{t+|cs|zabít}}
+* Danish: {{t+|da|dræbe}}, {{t+|da|ihjelslå}}, {{t|da|slå ihjel}}
+* Drung: {{t|duu|svt}}
+* Dutch: {{t+|nl|doden}}, {{t+|nl|vermoorden}}
+* Egyptian: {{t-egy|smꜣ|h=s-mA-A-T30}}
+* Elfdalian: {{t|ovd|ev ijel}}, {{t|ovd|ela}}
+* Esperanto: {{t|eo|mortigi}}
+* Estonian: {{t+|et|tapma}}
+* Even: {{t|eve|ма-}}
+* Evenki: {{t|evn|ва-}}
+* Faroese: {{t+|fo|drepa}}
+* Finnish: {{t+|fi|tappaa}}, {{t+|fi|surmata}} {{qualifier|poetic}}, {{t+|fi|nirhata}}
+* French: {{t+|fr|tuer}}
+*: Middle French: {{t|frm|occire}}
+*: Old French: {{t|fro|ocire}}
+* Friulian: {{t|fur|maçâ}}, {{t|fur|copâ}}
+* Galician: {{t+|gl|matar}}
+* Gallurese: {{t|sdn|iscatteddare}}
+* Georgian: {{t|ka|კვლა}}, {{t|ka|მოკვლა}}, {{t|ka|ბოლოს მოღება}}
+* German: {{t+|de|töten}}, {{t+|de|umbringen}}, {{t+|de|ermorden}}
+*: Alemannic German: {{t|gsw|tööde}}
+* Gothic: {{t|got|𐌳𐌰𐌿𐌸𐌾𐌰𐌽}}, {{t|got|𐌲𐌰𐌳𐌰𐌿𐌸𐌾𐌰𐌽}}
+* Greek: {{t+|el|σκοτώνω}}, {{t+|el|θανατώνω}}, {{t+|el|φονεύω}}
+*: Ancient: {{t|grc|ἀποκτείνω}}, {{t|grc|κτείνω}}, {{t|grc|ἐπέφνον}}, {{t|grc|καίνω}}, {{t|grc|κατακτείνω}}, {{t|grc|κατέπεφνον}}, {{t|grc|φονεύω}}, {{t|grc|ὄλλυμι}}, {{t|grc|ἀπόλλυμι}}, {{t|grc|καταχράομαι}}, {{t|grc|ἀποπνίγω}}, {{t|grc|ἀνύω}}, {{t|grc|ἀναλίσκω}}, {{t|grc|ἀναιρέω}}, {{t|grc|αἱρέω}}, {{t|grc|ἀείρω}}
+* Greenlandic: {{t|kl|toquppaa}}
+* Gujarati: {{t|gu|મારવું}}
+* Hawaiian: {{t|haw|hoʻomake}}
+* Hebrew: {{t+|he|הרג|m|tr=héreg}}, {{t+|he|הריגה|m|tr=harigá}}
+* Higaonon: {{t|mba|hunatayan}}, {{t|mba|minatay}}
+* Hindi: {{t|hi|मार डालना}}, {{t+|hi|मारना}}, {{t|hi|हत्या करना}}, {{t|hi|वध करना}}, {{t|hi|प्राण ले लेना}}, {{t|hi|कतल करना}}
+* Hungarian: {{t+|hu|öl}}, {{t+|hu|megöl}}, {{t+|hu|gyilkol}}, {{q|of an inanimate actor like a disaster}} {{t|hu|[[kiolt]]ja [[az]] [[élet|életét]]}}, {{t|hu|[[élet|életét]] [[követel]]i}}, {{t|hu|[[halál|halálát]] [[okoz]]za}}, {{t|hu|[[élet|életét]] [[veszt]]i [[miatta]]}}
+* Icelandic: {{t+|is|drepa}}, {{t+|is|deyða}}, {{t+|is|myrða}}, {{t+|is|lífláta}}
+* Ido: {{t+|io|mortigar}}
+* Indonesian: {{t+|id|membunuh}}
+* Ingush: {{t|inh|ве}}
+* Irish: {{t|ga|maraigh}}
+*: Old Irish: {{t|sga|marbaid}}
+* Italian: {{t+|it|uccidere}}, {{t+|it|ammazzare}}, {{t+|it|assassinare}}, {{t+|it|terminare}}, {{t+|it|eliminare}}
+* Japanese: {{t+|ja|殺す|tr=ころす, korosu}}
+* Javanese: {{t+|jv|matèni}}
+* Kabyle: {{t|kab|enɣ}}
+* Kalmyk: {{t|xal|алх}}
+* Kambera: {{t|xbr|pameti}}
+* Kannada: {{t+|kn|ಕೊಲ್ಲು}}
+* Karachay-Balkar: {{t|krc|ёлтюрюрге|tr=öltürürge}}
+* Kazakh: {{t+|kk|өлтiру}}
+* Khakas: {{t|kjh|ӧдірерге}}, {{t|kjh|[[ӧдірерге|ӧдір]] [[саларға]]}}
+* Khmer: {{t+|km|សម្លាប់}}, {{t+|km|ឃាត}}
+* Komi-Permyak: {{t|koi|вины}}
+* Korean: {{t+|ko|죽이다}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کوشتن}}
+*: Northern Kurdish: {{t+|kmr|kuştin}}, {{t+|kmr|-kuj-}}
+* Kyrgyz: {{t+|ky|өлтүрүү}}
+* Laboya: {{t|lmy|haʼmate}}
+* Lao: {{t+|lo|ຂ້າ}}
+* Latgalian: {{t|ltg|nūsist}}, {{t|ltg|nuoveit}}
+{{trans-mid}}
+* Latin: {{t+|la|occidō}}, {{t+|la|interficiō}}, {{t+|la|necō}}, {{t+|la|caedō}}, {{t|la|concidō}}, {{t|la|mortificō}}, {{t|la|exanimō}}, {{t|la|mactō}}, {{t+|la|letō}}, {{t+|la|consumō}}, {{t|la|deiciō}}
+* Latvian: {{t|lv|nāvēt}}, {{t+|lv|nogalināt}}
+* Lithuanian: {{t|lt|žudyti}}
+* Lombard: {{t+|lmo|mazzà}}, {{t|lmo|massà}}
+* Low German:
+*: German Low German: {{t|nds-de|doot maken}}
+* Lü: {{t|khb|ᦃᦱᧉ}}
+* Macedonian: {{t|mk|убива|impf}}, {{t|mk|убие|pf}}
+* Malay: {{t|ms|membunuh}}, {{t+|ms|bunuh}}
+* Malayalam: {{t+|ml|കൊല്ലുക}}
+* Maltese: {{t|mt|qatel}}
+* Manchu: {{t|mnc|ᠸᠠᠮᠪᡳ}}
+* Mansaka: {{t|msk|bono}}, {{t|msk|patay}}
+* Maore Comorian: {{t|swb|ula|alt=uula}}
+* Maori: {{t|mi|whakamate}}, {{t|mi|patu}}
+* Maranao: {{t|mrw|bono'}}
+* Marathi: {{t|mr|मारणे}}, {{t|mr|हत्या करणे}}
+* Mongolian: {{t+|mn|алах}}
+* Nanai: {{t|gld|ва-}}
+* Neapolitan: {{t|nap|accidere}}
+* Nepali: {{t|ne|मार्नु}}
+* Ngazidja Comorian: {{t|zdj|ra hitswa|alt=hura hitswa}}
+* Norman: {{t|nrf|tuer}}, {{t|nrf|occi}}
+* Northern Ohlone: {{t|cst|meme}}
+* Northern Sami: {{t|se|goddit}}, {{t|se|sorbmet}}, {{t|se|goddalit}}
+* Norwegian: {{t+|no|drepe}}
+* Occitan: {{t+|oc|tuar}}, {{t+|oc|matar}}, {{t+|oc|aucir}}
+* Old English: {{t|ang|ofslēan}}
+* Oriya: {{t+|or|ମରେଇବା}}
+* Ossetian: {{t|os|марын}}
+* Pali: {{t|pi|ghāteti}}
+* Pashto: {{t+|ps|قتلول|tr=qatlawᶕl}}, {{t|ps|مړه کول|tr=mṛǝ́kawǝ́l}}
+* Persian: {{t+|fa|کشتن|tr=koštan}}
+* Plautdietsch: {{t|pdt|aufschaufen}}, {{t|pdt|dootmoaken}}
+* Polish: {{t+|pl|zabijać|impf}}, {{t+|pl|zabić|pf}}, {{t+|pl|dobić|pf}} {{qualifier|(to give coup de grace)}}
+* Portuguese: {{t+|pt|matar}}
+* Punjabi: {{t|pa|[[ਮਾਰ]] [[ਸੁੱਟਣਾ]]}}
+* Quechua: {{t+|qu|wañuchiy}}
+* Romanian: {{t+|ro|omorî}}, {{t+|ro|ucide}}, {{t|ro|lua viața}}
+* Romansch: {{t|rm|mazzar}}, {{t|rm|mazar}}, {{t|rm|mazzer}}
+* Russian: {{t+|ru|убива́ть|impf}}, {{t+|ru|уби́ть|pf}}
+* Samoan: {{t-needed|sm}}
+* Sanskrit: {{t+|sa|हन्ति}}
+* Sardinian: {{t|sc|bochire}}, {{t|sc|bochíere}}, {{t|sc|buchíere}}, {{t|sc|ochídere}}
+*: Campidanese: {{t|sc|bocciri}}
+*: Logudorese: {{t|sc|bocchire}}, {{t|sc|occhíere}}
+* Sassarese: {{t|sdc|bocchire}}
+* Scottish Gaelic: {{t|gd|marbh}}, {{t|gd|cuir gu bàs}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|уби́јати|impf}}, {{t|sh|у̀бити|pf}}, {{t|sh|у̀смртити|pf}}, {{t|sh|поби́јати|impf}}, {{t|sh|по̀бити|pf}}, {{t|sh|ликвиди́рати|impf|pf}}
+*: Roman: {{t+|sh|ubíjati|impf}}, {{t+|sh|ùbiti|pf}}, {{t+|sh|ùsmrtiti|pf}}, {{t+|sh|pobíjati|impf}}, {{t+|sh|pòbiti|pf}}, {{t+|sh|likvidírati|impf|pf}}
+* Shan: {{t+|shn|ၶႃႈ}}
+* Sherpa: {{t|xsr|བསད|tr=se(t)}}
+* Sinhalese: {{t|si|මරනවා}}
+* Slovak: {{t|sk|zabíjať|impf}}, {{t|sk|zabiť|pf}}
+* Slovene: {{t|sl|ubijati|impf}}, {{t+|sl|ubíti|pf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wusmjerśiś|pf}}, {{t|dsb|wusmjerśowaś|impf}}, {{t|dsb|skóńcowaś|pf}}, {{t|dsb|kóńcowaś|impf}}
+*: Upper Sorbian: {{t+|hsb|kóncować|impf}}, {{t+|hsb|skóncować|pf}}
+* Sotho: {{t+|st|bolaya}}
+* Spanish: {{t+|es|matar}}, {{t|es|dar matarile}} {{qualifier|colloquial}}
+* Sumerian: {{t|sux|𒄮|tr=SÙR}}, {{t|sux|𒄤|tr=GAZ}}
+* Sundanese: {{t|su|telas}}
+* Swahili: {{t|sw|kuua}}
+* Swedish: {{t+|sv|döda}}, {{t+|sv|dräpa}}, {{t+|sv|avliva}}, {{t+|sv|mörda}}
+* Sylheti: {{t|syl|ꠝꠣꠞ}}, {{t|syl|ꠎꠛꠧ ꠇꠞ}}
+* Tagalog: {{t+|tl|patay}}, {{t|tl|patayin}}
+* Tai Dam: {{t|blt|ꪄ꫁ꪱ}}
+* Tajik: {{t+|tg|куштан}}
+* Tamil: {{t+|ta|கொல்}}
+* Tatar: {{t+|tt|үтерергә}}
+* Tausug: {{t|tsg|bunu}}
+* Telugu: {{t+|te|చంపు}}
+* Tetum: {{t|tet|oho}}
+* Thai: {{t+|th|ฆ่า}}
+* Tibetan: {{t|bo|གསོད}}
+* Tocharian B: {{t|txb|kau-}}
+* Tok Pisin: {{t|tpi|kilim}}
+* Turkish: {{t+|tr|öldürmek}}
+* Turkmen: {{t|tk|öldürmek}}
+* Tuvan: {{t|tyv|өлүрер}}
+* Udmurt: {{t|udm|виыны}}
+* Ugaritic: {{t|uga|𐎅𐎗𐎂}}
+* Ukrainian: {{t+|uk|вбива́ти|impf}}, {{t+|uk|убива́ти|impf}}, {{t|uk|вби́ти|pf}}, {{t|uk|уби́ти|pf}}
+* Urdu: {{t|ur|مارنا|tr=mārnā}}
+* Uyghur: {{t|ug|ئۆلتۈرمەك}}
+* Uzbek: {{t+|uz|oʻldirmoq}}
+* Venetian: {{t+|vec|copar}}, {{t|vec|maẑar}}, {{t|vec|masar}}
+* Vietnamese: {{t+|vi|giết}}
+* Volapük: {{t+|vo|deidön}}
+* Walloon: {{t+|wa|touwer}}
+* Welsh: {{t+|cy|lladd}}
+* West Frisian: {{t|fy|deadzje}}
+* Westrobothnian: {{t|gmq-bot|drepa}}
+* White Hmong: {{t|mww|tua}}
+* Yakut: {{t|sah|өлөр}}
+* Yiddish: {{t|yi|טייטן}}, {{t|yi|אומברענגען}}, {{t|yi|אַוועקהרגענען|pf|tr=avekhargenen}}, {{t|yi|אַוועקלייגן‎|pf}} {{qualifier|colloquial}}
+* Zazaki: {{t|zza|kışten}}
+* Zealandic: {{t|zea|doôddoeë}}
+* Zhuang: {{t|za|gaj}}
+{{trans-bottom}}
+
+{{trans-top|to render inoperative}}
+* Bulgarian: {{t+|bg|спирам}}
+* Finnish: {{t+|fi|sammuttaa}}
+* French: {{t+|fr|éteindre}}, {{t+|fr|arrêter}}, {{t+|fr|stopper}}
+* German: {{t+|de|abtöten}}
+* Greek: {{t+|el|σβήνω}}
+* Italian: {{t+|it|distruggere}}, {{t+|it|annullare}}, {{t+|it|sopprimere}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|drepe}}
+* Romanian: {{t+|ro|opri}}, {{t+|ro|stopa}}, {{t+|ro|anula}}
+* Russian: {{t+|ru|заглуша́ть|impf}}, {{t+|ru|заглуши́ть|pf}}, {{t+|ru|остана́вливать|impf}}, {{t+|ru|останови́ть|pf}}
+* Slovak: {{t|sk|zastaviť}}, {{t|sk|odstaviť}}
+{{trans-bottom}}
+
+{{trans-top|to render void}}
+* Bulgarian: {{t+|bg|спирам}}
+* Danish: {{t+|da|tilintetgøre}}
+* Finnish: {{t+|fi|tuhota}}, {{t+|fi|tappaa}}, {{t+|fi|raakata}}
+* French: {{t+|fr|mettre fin}}
+* German: {{t+|de|zunichte machen}} {{qualifier|plans}}, {{t+|de|streichen}} {{qualifier|newspaper article}}
+* Greek: {{t+|el|σκοτώνω}}
+* Italian: {{t+|it|sopprimere}}, {{t+|it|annullare}}
+* Lao: {{t+|lo|ຂ້າ}}
+* Norwegian:
+*: Bokmål: {{t+|nb|tilintetgjøre}}
+{{trans-mid}}
+* Portuguese: {{t|pt|[[acabar]] [[com]]}}
+* Russian: {{t+|ru|ликвиди́ровать|pf|impf}}, {{t+|ru|отменя́ть|impf}}, {{t+|ru|отмени́ть|pf}}, {{t+|ru|прекраща́ть|impf}}, {{t+|ru|прекрати́ть|pf}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ùbiti}}
+* Slovak: {{t|sk|zabiť}}, {{t|sk|zastaviť}}
+* Thai: {{t+|th|ฆ่า}}
+{{trans-bottom}}
+
+{{trans-top|to waste}}
+* Catalan: {{t+|ca|matar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|浪费|tr=làngfèi}}
+* Danish: {{t|da|eliminere}}
+* Finnish: {{t+|fi|tappaa}}, {{t+|fi|lopettaa}}
+* Georgian: {{t|ka|ხარჯვა}}, {{t|ka|დახარჯვა}}
+* German: {{t+|de|totschlagen}} {{qualifier|time}}, {{t+|de|killen}} {{qualifier|informal: alcohol}}
+* Hindi: {{t|hi|व्यर्थ खोना}}
+{{trans-mid}}
+* Marathi: {{t|mr|वाया जाने}}
+* Norwegian:
+*: Bokmål: {{t|nb|eliminere}}
+* Russian: {{t+|ru|тра́тить|impf}}, {{t+|ru|потра́тить|pf}}, {{t+|ru|растра́чивать|pf}}, {{t+|ru|растра́тить|pf}}, {{t+check|ru|убива́ть|impf}} {{qualifier|time}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ùbiti}}
+* Slovak: {{t|sk|zabiť}}, {{t|sk|zabíjať}}, {{t|sk|zlikvidovať}}, {{t|sk|likvidovať}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Indonesian: {{t+check|id|bunuh}}, {{t+check|id|bunuh|alt=membunuh}} <!-- was "[[bunuh|membunuh]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|habis|alt=menghabisi}} <!-- was "[[habis|menghabisi]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Interlingua: {{t-check|ia|occider}}
+{{trans-mid}}
+* Japanese: {{t+check|ja|殺す|tr=[[ころす]], korosu}}, {{t+check|ja|殺害|tr=[[さつがい]]する, satsugai-suru|alt=殺害する}} <!-- was "[[殺害]]する" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+{{trans-bottom}}
 
 ====Noun====
-[[Category:English nouns]]
-'''kill''' (''plural'' [[kills]])
-# act of [[killing]]
-# result of [[killing]]
+{{en-noun}}
 
-====Related words====
-*[[killer]]
-*[[killing]]
-*[[killjoy]]
-*[[killfile]]
+# The act of [[killing]].
+#: {{ux|en|The assassin liked to make a clean '''kill''', and thus favored small arms over explosives.}}
+# Specifically, the [[death]] [[blow]].
+#: {{ux|en|The hunter delivered the '''kill''' with a pistol shot to the head.}}
+# The result of [[killing]]; that which has been killed.
+#: {{ux|en|The fox dragged its '''kill''' back to its den.}}
+#* {{RQ:Kipling Second Jungle Book}}
+#*: If ye plunder his ''kill''' from a weaker, devour not all in thy pride.
+# {{lb|en|volleyball}} The [[ground]]ing of the [[ball]] on the opponent's [[court]], winning the [[rally]].
+#* '''2011''', the ''34th Catawba College Sports Hall of Fame'', in [[w:Catawba College|Catawba College]]'s ''Campus Magazine'', Spring/Summer 2011, page 21:
+#*: As a senior in 1993, Turner had a '''kill''' percentage of 40.8, which was a school record at the time and the best in the SAC. Turner concluded her volleyball career with 1,349 '''kills''', ranking fifth all-time at Catawba.
 
-=== Etymology 2 ===
-From Middle Dutch [[kille]] via {{D.}} [[kil]]
-==== Noun ====
-[[Category:English nouns]]
-'''kill'''
-# [[creek]]; body of water
+=====Hyponyms=====
+* {{l|en|catastrophic kill}}
+* {{l|en|firepower kill}}
+* {{l|en|mission kill}}
+* {{l|en|mobility kill}}
+* {{l|en|one-hit kill}}
+* {{l|en|polykill}}
+* {{l|en|thrill kill}}
 
-[[de:kill]]
-[[it:kill]]
-[[fi:Kill]]
+=====Derived terms=====
+* {{l|en|in for the kill}}
+* {{l|en|killshot}}
+* {{l|en|kill steal}}
+* {{l|en|killstreak}}
+* {{l|en|kill switch}}
+
+=====Translations=====
+{{trans-top|act of killing}}
+* Arabic: {{t|ar|قَتْلَة|f}}
+* Aramaic:
+*: Classical Syriac: {{t|syc|ܩܛܠ|tr=qṭal}}
+* Armenian: {{t+|hy|սպանություն}}
+* Asturian: {{t|ast|matanza|f}}
+* Bulgarian: {{t+|bg|убийство|n}}
+* Catalan: {{t+|ca|assassinat|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|殺害}}, {{t+|cmn|杀害|tr=shāhài}}
+* Czech: {{t+|cs|zabití|n}}
+* Danish: {{t+|da|drab|n}}, {{t+|da|mord|n}}, {{t|da|aflivning|c}}
+* Dutch: {{t+|nl|moorden}}, {{t+|nl|vermoorden}}
+* Finnish: {{t+|fi|tappo}}, {{qualifier|poetic}} {{t+|fi|surma}}
+* French: {{t+|fr|meurtre|m}}, {{t+|fr|assassinat|m}}, {{t+|fr|homicide|m}}
+* Galician: {{t+|gl|mata|f}}, {{t|gl|matanza|f}}, {{t+|gl|morte|f}}
+* German: {{t+|de|Tötung|f}}, {{t+|de|Ermordung|f}}, {{t+|de|Mord|m}}
+* Greek: {{t+|el|φόνος|m}}, {{t+|el|δολοφονία|f}}, {{t+|el|θανάτωση|f}}
+* Hebrew: {{t+|he|הֶרֶג|m}}, {{t+|he|הֲרִיגָה|f}}
+* Icelandic: {{t+|is|dráp}}, {{t+|is|morð}}
+{{trans-mid}}
+* Italian: {{t+|it|uccisione|f}}
+* Japanese: {{t+|ja|殺す|tr=korosu}}, {{t+|ja|殺害|tr=さつがい, satsugai}}
+* Korean: {{t+|ko|죽이다}}
+* Malay: {{t+|ms|pembunuhan}}
+* Norwegian: {{t|no|drap|m}}
+* Old English: {{t|ang|ofsléan}}
+* Polish: {{t+|pl|zabójstwo|n}}
+* Portuguese: {{t+|pt|morte}}
+* Russian: {{t+|ru|уби́йство|n}}, {{t+|ru|убие́ние|n}}, {{t+|ru|убо́й|m}}
+* Slovak: {{t|sk|zabitie}}
+* Swedish: {{t+|sv|dödande|n}}, {{t+|sv|dräpande|n}}
+* Tibetan: {{t|bo|གསོད་པ}}
+* Turkish: {{t+|tr|öldürme}}
+* Vietnamese: {{t+|vi|giết}}
+* West Frisian: {{t|fy|fermoardzje}}, {{t|fy|moardzje}}, {{t|fy|deadzje}}
+* Zazaki: {{t|zza|kıştış}}
+{{trans-bottom}}
+
+{{trans-top|death blow}}
+* Danish: {{t|da|dødeligt slag|n}}
+* Finnish: {{t+|fi|kuolinisku}}
+* French: {{t+|fr|mort|f}}, {{t+|fr|mise à mort|f}}
+* German: {{t+|de|Gnadenschuss|m}}
+{{trans-mid}}
+* Greek: {{t|el|θανατηφόρο πλήγμα|n}}
+* Italian: {{t|it|[[colpo]] [[fatale]]|m}}
+* Russian: {{t|ru|[[смерте́льный]] [[уда́р]]|m}}
+{{trans-bottom}}
+
+{{trans-top|result of killing}}
+* Catalan: {{t+|ca|assassinat}}, {{t+|ca|mort}}
+* Chinese:
+*: Mandarin: {{t+|cmn|死屍}}, {{t+|cmn|死尸|tr=sǐshī}}, {{t+|cmn|屍體}}, {{t+|cmn|尸体|tr=shītǐ}}
+* Danish: {{t+|da|bytte|n}} {{qualifier|fresh body of a killed animal}}, {{t+|da|offer|n}} {{qualifier|victim}}
+* Dutch: {{t+|nl|moord|m}}, {{qualifier|animal}} {{t+|nl|prooi|m}}
+* Finnish: {{t+|fi|saalis}}
+* French: {{t+|fr|victime|f}}, {{t+|fr|cadavre|m}}
+* German: {{t+|de|Opfer|n}}, {{t+|de|Beute|f}}
+{{trans-mid}}
+* Greek: {{t+|el|θύμα|n}}, {{qualifier|game animal}} {{t+|el|θήραμα|n}}
+* Italian: {{t|it|preda uccisa}}, {{t+|it|spoglia|f}}, {{t+|it|preda|f}}
+* Japanese: {{t+|ja|死体|tr=shitai}}, {{t+|ja|屍|tr=kabane}}
+* Norwegian: {{t|no|drap|m}}
+*: Bokmål: {{t+|nb|bytte}}
+* Portuguese: {{t+|pt|presa|f}}
+* Russian: {{t+|ru|убо́й|m}}, {{t+|ru|добы́ча|f}} {{qualifier|booty}}, {{t+|ru|же́ртва|f}} {{qualifier|victim}}, {{t+|ru|ту́ша|f}} {{qualifier|fresh body of a killed animal}}, {{t+|ru|ту́шка|f}} {{qualifier|smaller}}
+* Serbo-Croatian: {{t+|sh|ulov|m}}
+* Slovak: {{t|sk|korisť}}, {{t|sk|úlovok}}
+* West Frisian: {{t|fy|moard}}, {{t|fy|dea}}
+* Zazaki: {{t|zza|kıştena}}
+{{trans-bottom}}
+
+===Etymology 2===
+Borrowing from {{der|en|nl|kil}}, from {{der|en|dum|kille}}. {{doublet|en|chill}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|north-east US}} A [[creek]]; a body of water; a channel or arm of the sea.
+#: {{ux|en|The channel beyond Staten Island, which connects Newark Bay with Bergen Neck is the '''Kill''' van Kull, or the '''Kills'''.}}
+#: {{ux|en|Schuyl'''kill''', Cats'''kill''', etc.}}
+
+=====Translations=====
+{{trans-top|body of water}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 3===
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|rare}} {{alt form|en|kiln}}
+#* {{quote-book|en|year=1878| title=The Ceramic Art of Great Britain from Pre-historic Times Down to the Present Day|author=Llewellynn Frederick William Jewitt | page=39| passage=This very curious and valuable record is as follows, in the handwriting of Conyers and the accompanying engraving is carefully reduced (see Fig. 138 ) from Conyers' own drawing:—“This '''kill''' was full of the coarser sorts of potts or cullings, so that few were saved whole, viz., lamps, bottles, urnes, dishes.}}
+#* {{quote-book|en|year=1945| title=The Potters and Potteries of Chester County, Pennsylvania |author=Arthur Edwin James | page=34| passage=The stack of one of the pottery '''kills''' is still a visible land mark of this once thriving industry.}}
+#* {{quote-book|en|year=1951| title=Bulletin - Eastern States Archeological Federation|author=| page=11| passage=A funerary ceremony comparable to that reported from Kolomoki site is indicated, though no "pottery '''kill'''” was located. }}
+#* {{quote-book|en|year=2000| title=Argo - Volume 43, Issue 1 |author=| page=59| passage=We may indeed assume that cracked and broken ware was discarded in the immediate vicinity of the pottery '''kills''', that is, if it was not thrown in to the Krka.}}
+[[Category:en:Death]]
+[[Category:en:Landforms]]
+[[Category:en:Murder]]
+[[Category:en:Violence]]
+
+----
+
+==Cahuilla==
+
+===Adverb===
+{{head|chl|adverb|head=kíll}}
+
+# Not
+
+----
+
+==German==
+
+===Pronunciation===
+* {{audio|de|De-kill.ogg|Audio}}
+
+===Verb===
+{{head|de|verb form}}
+
+# {{verb form of|de|killen||s|imp}}
+# {{lb|de|colloquial}} {{verb form of|de|killen||1|s|pres}}
+
+----
+
+==Livonian==
+
+===Etymology 1===
+Related to Finnish {{m|fi|kylvää}}.
+
+====Alternative forms====
+* {{qual|Courland}} [[killõ]]
+
+====Verb====
+{{head|liv|verb}}
+
+# [[sow]]
+
+===Etymology 2===
+Related to Estonian {{m|et|kõlama}}.
+
+====Alternative forms====
+* {{qual|Courland}} [[ki'llõ]]
+
+====Verb====
+{{head|liv|verb}}
+
+# [[ring]]
+# [[make]] [[noise]]
+
+----
+
+==Luxembourgish==
+
+===Pronunciation===
+* {{IPA|lb|/kil/}}
+* {{rhymes|lb|il|s=1}}
+
+===Etymology 1===
+From {{der|lb|goh|kuoli}}, from {{der|lb|gmw-pro|*kōl(ī)}}, from {{der|lb|gem-pro|*kōlaz}}. Cognate with {{cog|de|kühl}}, {{cog|en|cool}}, {{cog|nl|koel}}, {{cog|nds|kool}}.
+
+====Adjective====
+{{lb-adj}}
+
+# [[cool]]
+
+=====Declension=====
+{{lb-decl-adj}}
+
+=====Related terms=====
+* {{l|lb|kal}}
+
+===Etymology 2===
+
+====Verb====
+{{head|lb|verb form}}
+
+# {{inflection of|lb|killen||2|s|imp}}
+
+----
+
+==Ter Sami==
+
+===Etymology===
+From {{inh|sjt|smi-pro|*kielë}}.
+
+===Noun===
+{{head|sjt|noun}}
+
+# [[language]]
+
+====Derived terms====
+* {{l|sjt|samekill}}
+
+====Further reading====
+* {{R:Álgu|69758}}
+
+----
+
+==Westrobothnian==
+
+===Etymology===
+From {{der|gmq-bot|non|kið}}
+
+===Noun===
+{{head|gmq-bot|noun|g=f}}
+
+# [[female]] [[kid]] (young goat)
+
+[[Category:gmq-bot:Baby animals]]
+[[Category:gmq-bot:Goats]]
