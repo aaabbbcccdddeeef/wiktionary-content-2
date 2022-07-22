@@ -343,10 +343,10 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 
 ==Chinese==
 
-===Etymology===
+===Etymology 1===
 {{rfe|zh}}
 
-===Pronunciation===
+====Pronunciation====
 {{attention|zh}}<!-- source code (uses too much Lua memory):
 {{zh-pron
 |m=yī,yì
@@ -379,12 +379,31 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 *** <small><i>[[w:Guangdong Romanization|Guangdong Romanization]]</i></small>: <span style="font-family: Consolas, monospace;">yi<sup>1</sup></span>
 *** <small>[[Wiktionary:International Phonetic Alphabet|IPA]] <sup>([[w:Cantonese phonology|key]])</sup></small>: <span class="IPA">/jiː<span style="cursor:help" title="or 53">⁵⁵</span>/</span></div></div>
 
-===Prefix===
+====Prefix====
 {{head-lite|zh|prefixes|langname=Chinese}}
 
 # [[e-]] {{gloss|electronic}}
 
-{{cln|zh|terms written in foreign scripts}}
+===Etymology 2===
+From clipping of {{m|zh|email}}, borrowed from {{bor|yue|en|email}}.
+
+====Pronunciation====
+<div class="toccolours mw-collapsible mw-collapsed zhpron" style="width:500px; font-size:100%; overflow: hidden">
+* [[w:Cantonese|Cantonese]] <small>(<i>[[w:Jyutping|Jyutping]]</i>)</small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+<div class="mw-collapsible-content zhpron">
+** <small>(<i>[[w:Standard Cantonese|Standard Cantonese]], [[w:Guangzhou Cantonese|Guangzhou]]</i>)</small><sup><small><abbr title="Add Cantonese homophones (click on this if and only if you know what you are doing!)"><span class="plainlinks">[//en.wiktionary.org/w/index.php?title=Module%3Ayue-pron%2Fhom&action=edit +]</span></abbr></small></sup>
+*** <small><i>[[w:Jyutping|Jyutping]]</i></small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+*** <small><i>[[w:Yale romanization of Cantonese|Yale]]</i></small>: <span style="font-family: Consolas, monospace;">y<span style="cursor:help" title="or ì">ī</span></span>
+*** <small><i>[[w:Cantonese Pinyin|Cantonese Pinyin]]</i></small>: <span style="font-family: Consolas, monospace;">ji<sup>1</sup></span>
+*** <small><i>[[w:Guangdong Romanization|Guangdong Romanization]]</i></small>: <span style="font-family: Consolas, monospace;">yi<sup>1</sup></span>
+*** <small>[[Wiktionary:International Phonetic Alphabet|IPA]] <sup>([[w:Cantonese phonology|key]])</sup></small>: <span class="IPA">/jiː<span style="cursor:help" title="or 53">⁵⁵</span>/</span></div></div>
+
+====Verb====
+{{head-lite|zh|verbs|langname=Chinese}}
+
+# {{lb|zh|Hong Kong Cantonese}} to [[email]]
+
+[[Category:Chinese terms written in foreign scripts]]
 
 ----
 
