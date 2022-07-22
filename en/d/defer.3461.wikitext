@@ -1,10 +1,11 @@
 ==English==
 
 ===Pronunciation===
-* {{IPA|en|/dɪˈfɜː(ɹ)/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-defer.wav|Audio (UK)}}
-* {{rhymes|en|ɜː(r)}}
-* {{hyphenation|en|de|fer}}
+* {{a|RP}} {{IPA|en|/dɪˈfɜː(ɹ)/}}
+* {{a|GA}} {{IPA|en|/dɪˈfɝ/}}
+* {{rhymes|en|ɜː(ɹ)|s=2}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-defer.wav|Audio (UK)}}
+* {{hyph|en|de|fer}}
 
 ===Etymology 1===
 {{root|en|ine-pro|*bʰer-}}
@@ -20,7 +21,7 @@ Originally a variant of (and hence a doublet of) {{doublet|en|differ|notext=1}};
 ## {{lb|en|especially|more common|historically}} to postpone [[induction]] into military service.
 # {{lb|en|American football}} After winning the opening [[coin toss]], to [[postpone]] until the start of the second half a team's choice of whether to [[kick off]] or [[receive]] (and to allow the opposing team to make this choice at the start of the first half).
 # {{lb|en|intransitive}} To [[delay]], to [[wait]].
-#* {{RQ:Milton Paradise Regained|Samson Agonistes|34|lines=474–476|passage=God {{...}} will not long '''defer''' / To vindicate the glory of his name}}
+#* {{RQ:Milton Paradise Regained|book=Samson Agonistes|34|lines=474–476|passage=God {{...}} will not long '''defer''' / To vindicate the glory of his name}}
 
 =====Derived terms=====
 * {{l|en|deferral}}
@@ -39,7 +40,7 @@ Originally a variant of (and hence a doublet of) {{doublet|en|differ|notext=1}};
 * Dutch: {{t+|nl|uitstellen}}
 * Finnish: {{t+|fi|lykätä}}, {{t|fi|myöhentää}}
 * French: {{t+|fr|différer}}, {{t+|fr|reporter}}, {{t+|fr|remettre}}
-* German: {{t+|de|aufschieben}}, {{t+|de|aufheben}}, {{t+|de|verzögern}}, {{t+|de|vertagen}}, {{t+|de|verschieben}}, {{t|de|zurückstellen}}, {{t|de|hinausschieben}}, {{t+|de|stunden}}, {{t+|de|aussetzen}}, {{t|de|den Vortritt lassen}}
+* German: {{t+|de|aufschieben}}, {{t+|de|aufheben}}, {{t+|de|verzögern}}, {{t+|de|vertagen}}, {{t+|de|verschieben}}, {{t+|de|zurückstellen}}, {{t|de|hinausschieben}}, {{t+|de|stunden}}, {{t+|de|aussetzen}}, {{t|de|den Vortritt lassen}}
 * Greek:
 *: Ancient: {{t|grc|ἀναβάλλω}}
 * Hungarian: {{t+|hu|elhalaszt}}
@@ -47,7 +48,7 @@ Originally a variant of (and hence a doublet of) {{doublet|en|differ|notext=1}};
 * Japanese: {{t+|ja|延期|tr=えんきする, enki suru|alt=延期する|sc=Jpan}}
 * Maori: {{t|mi|tinaku}}, {{t|mi|whakatārewa}}
 * Middle English: {{t|enm|differren}}
-* Polish: {{t+|pl|odraczać}}, {{t+|pl|odroczyć}}
+* Polish: {{t+|pl|odraczać|impf}}, {{t+|pl|odroczyć|pf}}, {{t+|pl|odkładać|impf}}, {{t+|pl|odłożyć|pf}}
 * Portuguese: {{t+|pt|adiar}}, {{t|pt|pospor}}
 * Russian: {{t+|ru|откла́дывать|impf}}, {{t+|ru|отложи́ть|pf}}, {{t+|ru|отсро́чивать|impf}}, {{t+|ru|отсро́чить|pf}}
 * Serbo-Croatian:
@@ -63,8 +64,9 @@ Originally a variant of (and hence a doublet of) {{doublet|en|differ|notext=1}};
 * Dutch: {{t+|nl|talmen}},{{t+|nl|dralen}},
 * Finnish: {{t+|fi|viivytellä}}
 {{trans-mid}}
-* German: {{t+|de|abwarten}}, {{t|de|zuwarten}}, {{t+|de|zögern}}
+* German: {{t+|de|abwarten}}, {{t+|de|zuwarten}}, {{t+|de|zögern}}
 * Middle English: {{t|enm|differren}}
+* Polish: {{t+|pl|zwlekać|impf}}
 * Turkish: {{t+|tr|gecikmek}}
 {{trans-bottom}}
 
@@ -74,7 +76,7 @@ From late {{inh|en|enm|differren|t=to refer for judgement|id=to refer for judgem
 ====Verb====
 {{en-verb|++}}
 
-# {{lb|en|legal|intransitive}} To [[submit]] to the opinion or desire of another in respect to their judgment or authority.
+# {{lb|en|ambitransitive}} To [[submit]] to the opinion or desire of others in respect to their judgment or authority.
 #*{{quote-book |1=en |author=Francis Bacon |authorlink=Francis Bacon |title=[[w:History of the Reign of King Henry VII|History of the Reign of King Henry VII]] |year=1622 |text=Hereupon the commissioners {{...}} '''deferred''' the matter to the Earl of Northumberland.}}
 #* {{RQ:Conrad Heart of Darkness|part=II|passage="Well, I must '''defer''' to your judgment. You are captain," he said with marked civility.}}
 # To [[render]], to [[offer]].
@@ -90,6 +92,7 @@ From late {{inh|en|enm|differren|t=to refer for judgement|id=to refer for judgem
 * Czech: {{t|cs|podrobit se|pf}}
 * Dutch: {{t|nl|zich voegen}}, {{t+|nl|conformeren}}, {{t+|nl|onderwerpen}}
 * Finnish: {{t+|fi|mukautua}}, {{t+|fi|myöntyä}}, {{t+|fi|taipua}}
+* French: {{t|fr|s'en remettre}}
 * German: {{t|de|sich fügen}}, {{t+|de|nachgeben}}, {{t|de|sich beugen}}, {{t|de|sich einlassen auf}}
 * Hungarian: {{t+|hu|enged}} (valaminek)
 {{trans-mid}}
