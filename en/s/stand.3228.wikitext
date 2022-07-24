@@ -1,88 +1,1396 @@
+{{also|Stand|stånd|štand}}
 ==English==
-=== Pronunciation ===
-*[[w:SAMPA|SAMPA]]: /'/
-*[[w:IPA|IPA]]: /'stænd/
+{{wikipedia|Stand}}
 
-=== Verb ===
-'''to stand''' ([[stood]], stood)
+===Pronunciation===
+* {{IPA|en|/stænd/}}
+* {{a|{{IPAchar|/æ/}} tensing}} {{IPA|en|[steənd]}}
+* {{audio|en|en-us-stand.ogg|Audio (US)}}
+* {{audio|en|en-au-stand.ogg|Audio (AU)}}
+* {{rhymes|en|ænd|s=1}}
 
-# to be upright, support oneself on the feet in an erect position
-#:''Here I stand, wondering what to do next.''
-# to rise to one's feet ([[stand up]])
-#:''Stand up, walk to the refrigerator, and get your own snack.''
-# to remain motionless
-#:''Do not leave your car standing in the road.''
+===Etymology 1===
+{{root|en|ine-pro|*steh₂-}}
+From {{inh|en|enm|standen}}, {{m|enm|stonden|pos=verb}} and {{m|enm|stand}}, {{m|enm|stond|pos=noun, from the verb}}, from {{inh|en|ang|standan||to stand, occupy a place, be valid, stand good, be, exist, take place, consist, be fixed, remain undisturbed, stand still, cease to move, remain without motion, stop, maintain one’s position, not yield to pressure, reside, abide, continue, remain, not to fall, be upheld}}, from {{inh|en|gem-pro|*standaną||to stand}}, from Pre-Germanic {{m|ine-pro|*sth₂-n-t-´}}, an innovative extended ''n''-infixed form of {{der|en|ine-pro|*steh₂-}}.
 
-==== Translations ====
-*Dutch: [[staan]], [[opstaan]]
-*Esperanto: [[starigi]]
-*Finnish: [[seisoa]] (1-3), [[seistä]] (1), [[nousta ylös]] (2), [[nousta seisomaan]] (2)
-*French: [[être debout]], [[se lever]]
-*German: [[stehen]] (1,3), [[aufstehen]] (2)
-*Hebrew:O mayd
-*[[Ido]]: [[stacar]]
-*Irish: [[seas]]
-*Indonesian: [[diri|berdiri]], [[tegak]]
-*Japanese: [[立つ]] ([[たつ]], tatsu)
-*Norwegian: [[stå]]
-*Romanian: [[sta în picioare]] (1), [[ridica]] (2)
-*Spanish: [[parar]], [[pararse]]
+{{rel-top|cognates}}
+Cognate with {{cog|sco|stand||to stand}}, {{cog|stq|stounde||to stand}}, {{cog|fy|stean||to stand}}, dialectal {{cog|de|standen||to stand}}, {{cog|da|stande||to stand}}, {{cog|sv|stånda||to stand}}, {{cog|no|standa||to stand}}, {{cog|fo|standa||to stand}}, {{cog|is|standa||to stand}}, {{cog|got|𐍃𐍄𐌰𐌽𐌳𐌰𐌽}}, {{cog|ru|стоя́ть||to stand}}. Also from {{m|ine-pro|*steh₂-}}: {{cog|ga|seas}}, {{cog|la|stare}}, {{cog|lt|stóti}}, {{cog|cu|стояти}}, {{cog|sq|shtoj||to increase}}, {{cog|grc|ἵστημι||to put}}, {{cog|ae|𐬵𐬌𐬱𐬙𐬀𐬌𐬙𐬌}}, {{cog|sa|तिष्ठति}}. From the related {{cog|gem-pro|*stāną||to stand}}: {{cog|fy|stean}}, {{cog|nl|staan}}, {{cog|de|stehen}}, {{cog|da|stå}}.
+{{rel-bottom}}
 
-===Transitive verb===
-'''to stand'''
+====Verb====
+{{en-verb|stands|standing|stood|past_ptc2=standen|past_ptc2_qual=obsolete|past_ptc3=stand|past_ptc3_qual=nonstandard}}
+[[File:Carl Larsson Brita as Iduna.jpg|thumb|right|A [[w:Carl Larsson|painting]] of a girl standing.]]
 
-# to [[undergo]]; [[withstand]]; [[hold up]]
-#:''The works of Shakespeare have stood the test of time.''
-# to [[tolerate]]
-#:''I can't stand when people don't read the instructions.''
-# to place in an upright or standing position
-#:''He stood the broom in a corner and took a break.''
+# {{n-g|To [[position#Verb|position]] or be positioned physically:}}
+## {{lb|en|intransitive|copulative}} To [[support]] oneself on the [[foot|feet]] in an [[erect]] position.
+##: {{ux|en|Here I '''stand''', wondering what to do next.}}
+##* {{RQ:Churchill Celebrity|chapter=5|passage=Then came a maid with hand-bag and shawls, and after her a tall young lady. She '''stood''' for a moment holding her skirt above the grimy steps,{{nb...}}, and the light of the reflector fell full upon her.}}
+##* {{quote-journal|en|year=1961|month=February|author=R. K. Evans|title=The role of research on British Railways|journal=Trains Illustrated|page=93|text=At one time a "standard test" for carriage riding was to stand a pencil on end on the compartment floor, or to measure how long it was possible to '''stand''' on one leg without touching the corridor walls; [...].}}
+## {{lb|en|intransitive}} To rise to one’s feet; to [[stand up]].
+##: {{ux|en|'''Stand''' up, walk to the refrigerator, and get your own snack.}}
+## {{lb|en|intransitive|copulative}} To [[remain]] motionless.
+##: {{ux|en|Do not leave your car '''standing''' in the road.}}
+##* {{RQ:KJV|Matthew|2|9|text=The star, which they saw in the east, went before them, till it came and '''stood''' over where the young child was.}}
+##* {{RQ:Maxwell Mirror and the Lamp|chapter=23|passage=The slightest effort made the patient cough. He would '''stand''' leaning on a stick and holding a hand to his side, and when the paroxysm had passed it left him shaking.}}
+##* {{RQ:Vance Nobody|III}}
+##*: Turning back, then, toward the basement staircase, she began to grope her way through blinding darkness, but had taken only a few uncertain steps when, of a sudden, she stopped short and for a little '''stood''' like a stricken thing, quite motionless save that she quaked to her very marrow in the grasp of a great and enervating fear.
+## {{lb|en|intransitive}} To be placed in an [[upright]] or [[vertical]] orientation.
+##* {{RQ:Jefferies Amateur Poacher|chapter=1|passage=They burned the old gun that used to '''stand''' in the dark corner up in the garret, close to the stuffed fox that always grinned so fiercely. Perhaps the reason why he seemed in such a ghastly rage was that he did not come by his death fairly. Otherwise his pelt would not have been so perfect.}}
+##* {{RQ:Orwell Animal Farm|1}}
+##*: He seized the gun which always '''stood''' in a corner of his bedroom{{nb...}}.
+## {{lb|en|transitive}} To [[place]] in an upright or standing position.
+##: {{ux|en|He '''stood''' the broom in a corner and took a break.}}
+##* {{quote-journal|en|year=1961|month=February|author=R. K. Evans|title=The role of research on British Railways|journal=Trains Illustrated|page=93|text=At one time a "standard test" for carriage riding was to '''stand''' a pencil on end on the compartment floor, or to measure how long it was possible to stand on one leg without touching the corridor walls; [...].}}
+## {{lb|en|intransitive}} To [[occupy]] or [[hold]] a [[place]]; to be [[set]], [[place]]d, [[fix]]ed, [[locate]]d, or [[situate]]d.
+##: {{ux|en|Paris '''stands''' on the Seine.}}
+##* '''1774''', {{w|Edward Long}}, ''The History of Jamaica. Or, General Survey of the Antient and Modern State of that Island'', volume 2, book 2, chapter 7, {{gbooks|xr0NAAAAQAAJ|6|stands}}:
+##*: The chapel '''ſtands''' on the South ſide of the ſquare, near the governor’s houſe.
+##* '''2017''' October 2, "[http://www.bbc.com/news/world-us-canada-41466116 Las Vegas shooting: At least 58 dead at Mandalay Bay Hotel]", in {{monospace|bbc.com}}, {{w|BBC}}:
+##*: Las Vegas police say the number of people injured now '''stands''' at 515.
+## {{lb|en|intransitive}} To [[measure]] when erect on the feet.
+##* '''1855''', {{w|Alfred, Lord Tennyson|Alfred Tennyson}}, ''Maud'', XIII, 1. in ''{{w|Maud, and Other Poems}}'', London: Edward Moxon, p. 44,<sup>[https://archive.org/details/maudotherpoems00tennrich]</sup>
+##*: His face, as I grant, in spite of spite,&nbsp;/ Has a broad-blown comeliness, red and white,&nbsp;/ And six feet two, as I think, he '''stands''';
+## {{lb|en|intransitive|of tears, sweat, etc.}} To be [[present]], to have [[well up|welled up]].
+##* {{RQ:Shakespeare Henry 6-3|V|6|text=many an orphan’s water-'''standing''' eye}}
+##* '''1651''', {{w|Francis Bacon}}, ''A True and Historical Relation of the Poysoning of Sir Thomas Overbury'', London: John Benson & John Playford, “Sir ''Jervas'' his Confession,” p. 71,<sup>[http://name.umdl.umich.edu/A28503.0001.001]</sup>
+##*: now my heart beginneth to melt within me being wounded (with that the tears '''stood''' in his eyes) to see the faces of some here present, whom J most earnestly love, and now must depart from with shame {{...}}
+##* {{RQ:Defoe Moll Flanders|page=222|url=http://name.umdl.umich.edu/004843555.0001.000|text=[he] pull’d me up again, and then giving me two or three Kisses again, thank’d me for my kind yielding to him; and was so overcome with the Satisfaction and Joy of it, that I saw Tears '''stand''' in his Eyes.}}
+##* {{RQ:Dickens Martin Chuzzlewit|32|page=380|url=https://archive.org/details/adventuresoflife00dickrich|text=He takes me half-price to the play, to an extent which I sometimes fear is beyond his means; and I see the tears a '''standing''' in his eyes during the whole performance {{...}}}}
+##* '''1902''', John Buchan, ''The Outgoing of the Tide''
+##*: How he escaped a broken neck in that dreadful place no human being will ever ken. The sweat, he has told me, '''stood''' in cold drops upon his forehead {{...}}
+# {{n-g|To [[position#Verb|position]] or be positioned mentally:}}
+## {{lb|en|intransitive|followed by ''to'' + infinitive}} To be positioned to gain or lose.
+##: {{ux|en|He '''stands''' to get a good price for the house.}}
+## {{lb|en|transitive|negative}} To [[tolerate]].
+##: {{ux|en|I can’t '''stand''' when people don’t read the instructions.}}
+##: {{ux|en|I can’t '''stand''' him.}}
+##* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}| chapter=7| title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]| passage=“[…] if you call my duds a ‘livery’ again there'll be trouble. It's bad enough to go around togged out like a life saver on a drill day, but I can '''stand''' that 'cause I'm paid for it. What I won't '''stand''' is to have them togs called a livery.{{nb...}}.”}}
+## {{lb|en|intransitive|copulative}} To maintain one's ground; to be acquitted; not to fail or yield; to be safe.
+##* '''February 2, 1712''', {{w|Joseph Addison}}, ''The Spectator'' No. 291
+##*: readers by whose judgment I would '''stand''' or fall
+## {{lb|en|intransitive|copulative}} To maintain an invincible or permanent attitude; to be fixed, steady, or firm; to take a position in resistance or opposition.
+##* {{RQ:KJV|Esther|8|11}}
+##*: The king granted the Jews{{...}}to gather themselves together, and to '''stand''' for their life.
+##* '''July 29, 1660''', {{w|Robert South}}, sermon preached at St. Mary's Church in Oxon
+##*: the '''standing''' pattern of their imitation
+## {{lb|en|intransitive|copulative|obsolete}} To be in some particular state; to have essence or being; to be; to consist.
+##* {{RQ:KJV|Hebrews|9|10}}
+##*: sacrifices{{...}}which '''stood''' only in meats and drinks
+##* {{RQ:Dryden Aeneis}}
+##*: Accomplish what your signs foreshow; / I '''stand''' resigned, and am prepared to go.
+##* {{RQ:Scott Woodstock|passage=Thou seest how it '''stands''' with me{{...}}, and that I may not tarry.}}
+# {{n-g|To [[position#Verb|position]] or be positioned socially:}}
+## {{lb|en|intransitive|cricket}} To act as an [[umpire]].
+## {{lb|en|transitive}} To [[undergo]]; [[withstand]]; [[hold up]].
+##: {{ux|en|The works of Shakespeare have '''stood''' the test of time.}}
+##* {{RQ:Dryden Fables|Theodore and Honoria}}
+##*: Love '''stood''' the siege.
+##* {{RQ:Addison Cato|2|1}}
+##*: Bid him disband his legions,{{...}}/ And '''stand''' the judgment of a Roman senate.
+##* {{RQ:Pope Arbuthnot|passage=He '''stood''' the furious foe.}}
+## {{lb|en|intransitive|British}} To be a [[candidate]] (in an election).
+##: {{ux|en|He is '''standing''' for election to the local council.}}
+##* '''1678''', {{w|Izaak Walton}}, ''The Life of Robert Sanderson''
+##*: He '''stood''' to be elected one of the proctors of the university.
+## {{lb|en|intransitive}} To be [[valid]].
+##: {{ux|en|What I said yesterday still '''stands'''.}}
+## {{lb|en|transitive}} To oppose, usually as a team, in competition.
+##* '''1957''', {{w|Matt Christopher}}, ''[http://books.google.com/books?id=_WYkg6VyRXIC&pg=PT22&dq=stand Basketball Sparkplug]'', Ch.7:
+##*: "Kim, Jack, and I will '''stand''' you guys," Jimmie Burdette said. ¶ "We'll smear you!" laughed Ron.
+##* {{circa|1973}} R. J. Childerhose, ''[http://books.google.com/books?id=Qqo_GB2hpPcC&q=%22will+stand+you%22 Hockey Fever in Goganne Falls]'', p.95:
+##*: The game stopped while sides were sorted out. Andy did the sorting. "Okay," he said. "Jimmy is coming out. He and Gaston and Ike and me will '''stand''' you guys."
+##* '''1978''', {{w|Louis Sachar}}, ''[http://books.google.com/books?id=Sd8CBkKmQ1UC&pg=PA86&dq=stand Sideways Stories from Wayside School]'', Ch.21:
+##*: "Hey, Louis," Dameon shouted. "Do you want to play kickball?" ¶ ""All right," said Louis. "Ron and I will both play."{{...}}¶ "Ron and I will '''stand''' everybody!" Louis announced.
+## {{lb|en|transitive}} To cover the expense of; to pay for.
+##: {{ux|en|to '''stand''' a round of drinks}}
+##: {{ux|en|to '''stand''' a treat}}
+##: {{ux|en|to '''stand''' bail (security in respect of an arrested person)}}
+##* {{RQ:Thackeray Newcomes|passage=I will either '''stand''' a glass of grog, or thou shalt pay the like for me, my lad}}
+## {{lb|en|intransitive}} To have or maintain a position, order, or rank; to be in a particular relation.
+##: {{ux|en|Christian charity, or love, '''stands''' first in the rank of gifts.}}
+## {{lb|en|intransitive}} To be consistent; to agree; to accord.
+##*  '''c. 1619''', {{w|Philip Massinger}} and {{w|Nathan Field}}, ''The Fatal Dowry''
+##*: Doubt me not; by heaven, I will do nothing / But what may '''stand''' with honour.
+## {{lb|en|intransitive}} To appear in [[court]].
+# {{lb|en|intransitive|nautical}} Of a ship or its captain, to [[steer]], [[sail]] (in a specified direction, for a specified destination etc.).
+#* '''1630''', John Smith, ''True Travels'', in Kupperman 1988, p.40:
+#*: To repaire his defects, hee '''stood''' for the coast of Calabria, but hearing there was six or seven Galleyes at Mesina hee departed thence for Malta{{nb...}}.
+# {{lb|en|intransitive|copulative}} To remain without ruin or injury.
+#* {{RQ:Dryden Cleo}}
+#*: My mind on its own centre '''stands''' unmov'd.
+#* {{RQ:Byron Childe Harold|canto=III|stanza=XXXII|passage=The ruin'd wall / Stands when its wind-worn battlements are gone.}}
+# {{lb|en|card games}} To stop asking for more cards; to keep one's [[hand]] as it has been dealt so far.
+#
 
-==== Translations ====
-*Finnish: [[kestää]] (1), [[sietää]] (2), [[asettaa]] (3)
-*Romanian: [[fi supus]] (1)
+=====Conjugation=====
+{{en-conj-simple|past=stood|past_2sg_old2=stoodest|past_ptc2=standen|past_ptc2_qual=archaic}}
+
+=====Usage notes=====
+* In older works, {{m|en|standen}} is found as a past participle of this verb; it is now archaic. The forms {{m|en|stooden}} and ''stand'' may also be found in dialectal speech; these are nonstandard.
+* {{sense|tolerate}} This is almost always found in a negative form such as ''can’t stand'', or ''No-one can stand…'' In this sense it is a [[catenative verb]] that takes the gerund {{m|en||-ing}} or infinitive {{m|en||to...}}. See [[Appendix:English catenative verbs]].
+
+=====Derived terms=====
+{{col4|en
+|a leg to stand on
+|astand
+|behind every successful man there stands a woman
+|bestand
+|forstand
+|gainstand
+|offstand
+|outstand
+|overstand
+|[[stand alone]], [[stand-alone]]
+|stand and be counted
+|stand aside
+|stand and deliver
+|stand back
+|stand by
+|stand corrected
+|stand down
+|stand easy
+|stand firm
+|stand for
+|stand from under
+|stand guard
+|[[stand off]], [[stand-off]]
+|stand on
+|stand on ceremony
+|stand one's ground
+|stand out
+|stand over
+|stand-in
+|stand in for
+|stand in someone's shoes
+|stand on end
+|stand on one's own two feet
+|stand pat
+|stand still
+|stand tall
+|stand treat
+|stand to reason
+|stand trial
+|stand watch
+|[[stand up]], [[stand-up]], [[standup]]
+|standee
+|understand
+|upstand
+|withstand
+}}
+
+=====Descendants=====
+* {{desc|io|standar|bor=1}}
+* {{desc|bor=1|nrf|stanner|sténer}}
+* {{desc|srn|tan}}
+
+=====Translations=====
+{{trans-top|to support oneself on the feet in an erect position}}{{multitrans|data=
+* Afrikaans: {{tt+|af|staan}}
+* Albanian: {{tt+|sq|rri}}
+* American Sign Language: {{tt|ase|V@Palm-FingerDown-OpenB@CenterTrunkhigh-PalmUp}}
+* Arabic: {{tt|ar|وَقَفَ}}
+*: Egyptian Arabic: {{tt|arz|وقف|tr=weʾef}}
+*: Hijazi Arabic: {{tt|acw|وقف|tr=wagaf, wigif}}, {{tt|acw|قام|tr=gām}}
+* Aramaic:
+*: Assyrian Neo-Aramaic: {{t|aii|ܩܵܝܹܡ|tr=qayem}}
+*: Classical Syriac: {{tt|syc|ܩܘܡ|tr=qom}}
+* Armenian: {{tt+|hy|կանգնել}}
+* Aromanian: {{tt|rup|stau}}
+* Assamese: {{tt|as|থিয় হোৱা}}
+* Azerbaijani: {{tt+|az|dayanmaq}}, {{tt+|az|durmaq}}
+* Bashkir: {{tt|ba|тороу}}
+* Basque: {{tt|eu|zutik egon}}
+* Belarusian: {{tt|be|стая́ць|impf}}, {{tt|be|пастая́ць|pf}}
+* Bengali: {{tt|bn|দাঁড়ানো}}
+* Bulgarian: {{tt+|bg|стоя́|impf}}
+* Burmese: {{tt+|my|ရပ်}}
+* Catalan: {{tt|ca|estar dret}}
+* Cebuano: {{t|ceb|tindog}}
+* Chechen: {{t|ce|латта}}
+* Cherokee: {{tt|chr|ᎦᏙᎦ}}
+* Chinese:
+*: Cantonese: {{tt+|yue|企|tr=kei2}}
+*: Dungan: {{tt|dng|зан}}, {{tt|dng|ли}}
+*: Mandarin: {{tt+|cmn|站|tr=zhàn}}, {{tt+|cmn|站立|tr=zhànlì}}, {{tt+|cmn|立|tr=lì}}
+*: Min Dong: {{tt|cdo|企|tr=kiê}}
+*: Min Nan: {{tt+|nan|徛|tr=khiā / khiǎ / khǎ}}
+*: Wu: {{tt|wuu|立|tr=liq}}
+* Crimean Tatar: {{tt|crh|turmaq}}
+* Czech: {{tt+|cs|stát|impf}}
+* Dalmatian: {{tt|dlm|stur}}
+* Danish: {{tt+|da|stå}}
+* Dolgan: {{t|dlg|тур}}
+* Dutch: {{tt+|nl|staan}}
+* Esperanto: {{tt+|eo|stari}}
+* Estonian: {{tt+|et|seisma}}
+* Even: {{t|eve|ил-}}
+* Evenki: {{t|evn|илми}}
+* Ewe: {{tt|ee|tsitrɛ|n}}
+* Finnish: {{tt+|fi|seisoa}}, {{tt+|fi|seistä}}
+* French: {{tt+|fr|être debout}}, {{tt|fr|se tenir debout}}
+* Friulian: {{tt|fur|stâ}}, {{tt|fur|stâ in pîs}}
+* Galician: {{tt+|gl|permanecer}}, {{tt+|gl|ficar}}, {{tt+|gl|estar}}, {{tt|gl|estar de pé}}, {{tt|gl|estar en pé}}
+* Ge'ez: {{tt|gez|ቆመ}}
+* Georgian: {{tt|ka|დგომა}}
+* German: {{tt+|de|stehen}}
+*: Alemannic German: {{tt|gsw|staa}}
+* Greek: {{tt+|el|στέκομαι}}
+*: Ancient Greek: {{t|grc|ἵστημι}}
+* Haitian Creole: {{tt|ht|kanpe}}
+* Hebrew: {{tt+|he|עַמד|tr=amad}}
+* Higaonon: {{t|mba|tintundog}}
+* Hindi: {{tt|hi|खड़ा होना}}
+* Hungarian: {{tt|hu|áll#Hungarian-to_stand}}
+* Icelandic: {{tt+|is|standa}}
+* Ido: {{tt+|io|stacar}}
+* Indonesian: {{tt+|id|berdiri}}
+* Ingush: {{t|inh|латта}}
+* Irish: {{tt|ga|seas}}
+* Istro-Romanian: {{tt|ruo|stå}}
+* Italian: {{tt|it|stare in piedi}}
+* Japanese: {{tt+|ja|立つ|tr=たつ, tatsu}}
+* Kannada: {{tt+|kn|ನಿಲ್ಲು}}
+* Karelian: {{tt|krl|seisuo}}
+* Kashubian: {{t|csb|stojec}}
+* Kazakh: {{tt+|kk|тұру}}
+* Khmer: {{tt+|km|ឈរ}}
+* Komi-Permyak: {{tt|koi|сулавны}}
+* Korean: {{tt+|ko|서다}}
+* Kumyk: {{tt|kum|турмакъ}}
+* Kurdish:
+*: Central Kurdish: {{tt+|ckb|وەستان}}, {{tt+|ckb|ھەڵسان}}
+* Kyrgyz: {{t|ky|тур-}}
+* Lao: {{tt|lo|ຍືນ}}
+* Latgalian: {{tt|ltg|stuoveit}}
+* Latin: {{tt+|la|stō}}
+{{trans-mid}}
+* Latvian: {{tt+|lv|stāvēt}}
+* Lithuanian: {{tt|lt|stovėti}}
+* Livvi: {{tt|olo|seižuo}}
+* Luxembourgish: {{tt|lb|stoen}}
+* Macedonian: {{tt|mk|стои|impf}}
+* Malay: {{tt+|ms|berdiri}}
+* Maltese: {{t-needed|mt}}
+* Manchu: {{t|mnc|ᡳᠯᡳᠮᠪᡳ}}
+* Maore Comorian: {{tt|swb|limbala|alt=ulimbala}}
+* Maori: {{tt|mi|tū}}
+* Maranao: {{t|mrw|tindeg}}
+* Marathi: {{tt|mr|उभं राहने}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|зогсох}}
+* Nanai: {{t|gld|или-}}
+* Navajo: {{tt|nv|sézį́}}
+* Ngazidja Comorian: {{tt|zdj|hima|alt=uhima}}
+* North Frisian:
+*: Mooring: {{tt|frr|stönje}}
+* Norwegian: {{tt+|no|stå}}
+* Old Church Slavonic:
+*: Cyrillic: {{tt|cu|стоꙗти|impf}}, {{tt|cu|стати|pf}}
+* Old East Slavic: {{tt|orv|стоꙗти|impf}}
+* Old English: {{tt+|ang|standan}}, {{tt|ang|ætstandan}}
+* Old Javanese: {{t|kaw|adĕg}}
+* Pashto: {{tt+|ps|درېدل|tr=darәdᶕl}}
+* Persian: {{tt+|fa|ایستادن|tr=istâdan}}, {{tt|fa|وایسادن|tr=vâysâdan}} {{qualifier|colloquial}}
+* Polish: {{tt+|pl|stać|impf}}
+* Portuguese: {{tt|pt|[[estar]] [[em pé]]}}
+* Quechua: {{tt|qu|sayay}}
+* Romanian: {{tt+|ro|sta}}, {{tt|ro|sta în picioare}}
+* Romansch: {{tt|rm|star en pes}}
+* Russian: {{tt+|ru|стоя́ть|impf}}
+* Sanskrit: {{tt+|sa|तिष्ठति|tr=tíṣṭhati}}
+* Scottish Gaelic: {{tt|gd|seas}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|ста̏јати|impf}}
+*: Roman: {{tt+|sh|stȁjati|impf}}
+* Sinhalese: {{tt|si|අමිශ්‍ර ගොන්න}}
+* Slovak: {{tt+|sk|stáť|impf}}
+* Slovene: {{tt|sl|stati|impf}}
+* Sorbian:
+*: Lower Sorbian: {{tt|dsb|stojaś}}
+* Sotho: {{tt+|st|ema}}
+* Spanish: {{tt+|es|estar de pie}}, {{tt|es|estar parado}}
+* Sundanese: {{tt+|su|adeg}}
+* Swahili: {{tt|sw|simama|alt=kusimama}}
+* Swedish: {{tt+|sv|stå}}
+* Sylheti: {{tt|syl|ꠃꠛꠣꠘꠤ}}
+* Tagalog: {{t+|tl|tindig}}
+* Tahitian: {{tt|ty|ti'a}}
+* Tajik: {{tt+|tg|истодан}}
+* Tamil: {{tt+|ta|நில்}}
+* Tatar: {{tt+|tt|торырга}}
+* Tausug: {{t|tsg|tindug}}
+* Telugu: {{tt+|te|నిలబడు}}
+* Tetum: {{t|tet|hamriik}}
+* Thai: {{tt+|th|ยืน}}
+* Turkish: {{tt+|tr|ayakta durmak}}, {{tt+|tr|durmak}}
+* Turkmen: {{tt|tk|durmak}}
+* Tuvan: {{tt|tyv|турар}}
+* Udmurt: {{tt|udm|сылыны}}
+* Ukrainian: {{tt+|uk|стоя́ти|impf}}
+* Urdu: {{tt|ur|کھڑا ہونا|tr=khaṛā honā}}
+* Uyghur: {{tt|ug|تۇرماق}}
+* Uzbek: {{tt+|uz|turmoq}}
+* Vietnamese: {{tt+|vi|đứng}}
+* Waray-Waray: {{tt|war|tukdaw}}, {{tt|war|tugbos}}
+* Welsh: {{tt+|cy|sefyll}}
+* West Frisian: {{tt+|fy|stean}}
+* Yagnobi: {{tt|yai|уштак}}
+* Yakut: {{tt|sah|тур}}
+* Yiddish: {{tt|yi|שטיין}}
+* Zealandic: {{tt|zea|stae}}
+}}
+{{trans-bottom}}
+
+{{trans-top|to rise to one’s feet}}{{multitrans|data=
+* Afrikaans: {{tt+|af|opstaan}}
+* Armenian: {{tt+|hy|կանգնել}}
+* Assamese: {{tt|as|থিয় হোৱা}}
+* Bashkir: {{tt|ba|тороу}}
+* Basque: {{tt|eu|zutitu}}
+* Belarusian: {{tt|be|устава́ць|impf}}, {{tt|be|ўстава́ць|impf}}, {{tt|be|уста́ць|pf}} {{tt|be|ўстаць|pf}}
+* Bengali: {{tt|bn|দাঁড়ানো}}
+* Bulgarian: {{tt+|bg|става́м|impf}}, {{tt+|bg|ста́на|pf}}
+* Catalan: {{tt|ca|posar-se dret}}
+* Chinese:
+*: Mandarin: {{tt+|cmn|站起來}}, {{tt+|cmn|站起来|tr=zhàn qǐlai}}
+* Crimean Tatar: {{tt|crh|turmaq}}
+* Czech: {{tt+|cs|postavit|pf|alt=postavit se}}, {{tt|cs|stoupnout|pf|alt=stoupnout si}}, {{tt+|cs|vstávat|impf}}, {{tt+|cs|vstát|pf}}
+* Danish: {{tt+|da|rejse}} sig
+* Drung: {{t|duu|rep}}
+* Dutch: {{tt+|nl|opstaan}}
+* Egyptian: {{t-egy|ꜥḥꜥ|h=aHa-a:D54}}
+* Esperanto: {{tt|eo|stariĝi}}
+* Ewe: {{tt|ee|tsitrɛ|n}}, {{tt|ee|tso|n}}
+* Finnish: {{tt+|fi|nousta}}, {{tt|fi|[[nousta]] [[ylös]]}}, {{tt|fi|[[nousta]] [[seisoa|seisomaan]]}}
+* French: {{tt+|fr|se lever}}
+* Galician: {{tt|gl|pórse de pé}}, {{tt|gl|poñerse de pé}}
+* German: {{tt+|de|aufstehen}}
+* Greek:
+*: Ancient Greek: {{t|grc|ἀνίστημι}}, {{t|grc|ανίσταμαι}}
+* Hungarian: {{tt+|hu|feláll}}
+* Ido: {{tt+|io|staceskar}}
+* Irish: {{tt|ga|seas}}
+* Italian: {{tt+|it|alzarsi}} (in piedi), {{tt+|it|ergersi}}, {{tt+|it|elevarsi}}
+{{trans-mid}}
+* Japanese: {{tt+|ja|立つ|tr=たつ, tatsu}}
+* Korean: {{tt+|ko|올라서다}}, {{tt+|ko|서다}}
+* Kurdish:
+*: Central Kurdish: {{tt+|ckb|ھەستان}}
+* Latin: {{tt+|la|surgo}}
+* Macedonian: {{tt|mk|станува|impf}}, {{tt|mk|застанува|impf}}
+* Norwegian: {{tt|no|reise seg}}, {{tt+|no|stå opp}}
+* Occitan: {{tt|oc|se levar}}
+* Old English: {{tt|ang|ætstandan}}
+* Persian: {{tt+|fa|ایستادن|tr=istâdan}}, {{tt+|fa|برخاستن|tr=barxâstan}}, {{tt|fa|پا شدن|tr=pâ šodan}}
+* Polish: {{tt+|pl|wstawać|impf}}, {{tt+|pl|wstać|pf}}
+* Portuguese: {{tt+|pt|levantar}}, {{tt|pt|[[ficar]] [[em pé]]}}
+* Romanian: {{tt+|ro|ridica}}
+* Romansch: {{tt|rm|star si}}
+* Russian: {{tt+|ru|встава́ть|impf}}, {{tt+|ru|встать|pf}}
+* Scottish Gaelic: {{tt|gd|seas}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|у̀стати|pf}}
+*: Roman: {{tt+|sh|ùstati|pf}}
+* Spanish: {{tt+|es|levantarse}}, {{tt+|es|pararse}}
+* Swahili: {{tt+|sw|msimamo}}
+* Swedish: {{tt|sv|ställa sig upp}}
+* Telugu: {{tt+|te|నిలబడు}}
+* Thai: {{tt+|th|ลุก}}
+* Ugaritic: {{tt|uga|𐎖𐎎}}
+* Ukrainian: {{tt|uk|встава́ти|impf}}, {{tt+|uk|ста́ти|pf}}
+}}
+{{trans-bottom}}
+
+{{trans-top|to remain motionless}}
+* Afrikaans: {{t+|af|staan}}
+* Armenian: {{t+|hy|կանգնել}}
+* Bashkir: {{t|ba|тороу}}
+* Bulgarian: {{t+|bg|стоя}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t+|cs|stát}}
+* Danish: {{t+|da|stå}}, {{t+|da|stå}} {{t+|da|stille}}
+* Dutch: {{t+|nl|staan}}
+* Finnish: {{t+|fi|seisoa}}, {{t+|fi|seistä}}
+* German: {{t+|de|stehen}}
+* Greek: {{t+|el|στέκομαι}}
+*: Ancient: {{t|grc|βέβηκα}}
+* Hungarian: {{t|hu|áll#Hungarian-to_stand}}
+* Irish: {{t|ga|seas}}
+* Italian: {{t|it|stare fermo}}, {{t+|it|sostare}}
+* Japanese: {{t|ja|突っ立つ|tr=つったつ, tsuttatsu}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|راوەستان}}, {{t+|ckb|وەستان}}
+* Macedonian: {{t|mk|стои|impf}}
+* Norwegian: {{t+|no|stå}}, {{t|no|bli stående}}
+* Old English: {{t|ang|ætstandan}}
+* Persian: {{t+|fa|ایست|tr=ist}}
+* Polish: {{t+|pl|stać}}
+* Portuguese: {{t|pt|[[ficar]] [[parado]]}}
+* Russian: {{t+|ru|стоя́ть|impf}}
+* Scottish Gaelic: {{t|gd|seas}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ста̏јати|impf}}
+*: Roman: {{t+|sh|stȁjati|impf}}
+* Spanish: {{t+|es|mantener}}, {{t+|es|permanecer}}
+* Swahili: {{t+|sw|msimamo}}
+* Swedish: {{t+|sv|stå}}
+* Ukrainian: {{t+|uk|стоя́ти|impf}}
+{{trans-bottom}}
+
+{{trans-top|to be positioned to gain or lose}}
+* Finnish: {{t|fi|[[olla]] [[mahdollisuus]]}} {{qualifier|gain}}, {{t|fi|[[olla]] [[vaarassa]]}} {{qualifier|lose}}
+{{trans-mid}}
+* French: {{t+|fr|attendre}}
+* Italian: {{t+|it|gareggiare}}, {{t|it|essere in lizza}}
+{{trans-bottom}}
+
+{{trans-top|to act as an umpire}}
+* Finnish: {{t+|fi|tuomita}}, {{t|fi|[[toimia]] [[tuomarina]]}}, {{t+|fi|tuomaroida}}
+* Italian: {{t+|it|arbitrare}}
+{{trans-mid}}
+* Macedonian: {{t|mk|суди|impf}}
+* Swahili: {{t+|sw|msimamo}}
+{{trans-bottom}}
+
+{{trans-top|to undergo; withstand; hold up}}
+* Armenian: {{t+|hy|դիմանալ}}
+* Bashkir: {{t|ba|түҙеү}}, {{t|ba|сыҙау}}, {{t|ba|бирешмәү}}
+* Bulgarian: {{t+|bg|понасям}}
+* Czech: {{t|cs|přestát}}
+* Danish: {{t+|da|klare}}, {{t+|da|holde|alt=holde til}}
+* Dutch: {{t+|nl|doorstaan}}, {{t+|nl|weerstaan}}
+* Esperanto: {{t|eo|elteni}}
+* Finnish: {{t+|fi|kestää}}, {{t+|fi|sietää}}
+* German: {{t+|de|bestehen}}, {{t+|de|durchstehen}}
+* Hungarian: {{t+|hu|kiáll}}
+* Irish: {{t|ga|seas}}
+* Italian: {{t+|it|resistere}}, {{t+|it|durare}}, {{t+|it|subire}}, {{t+|it|sostenere}}
+* Japanese: {{t+|ja|耐える|tr=たえる, taeru}}
+* Macedonian: {{t|mk|издржува|impf}}, {{t|mk|истрпува|impf}}
+* Norwegian:
+*: Bokmål: {{t|nb|motstå}}
+{{trans-mid}}
+* Old English: {{t|ang|ætstandan}}
+* Portuguese: {{t+|pt|aguentar}}, {{t|pt|passar por}}
+* Romanian: {{t|ro|fi supus}}
+* Russian: {{t+|ru|выде́рживать|impf}}, {{t+|ru|вы́держать|pf}}, {{t+|ru|вы́стоять|pf}}
+* Scottish Gaelic: {{t|gd|seas}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|издр̀жати|impf}}
+*: Roman: {{t+|sh|izdr̀žati|impf}}
+* Swahili: {{t+|sw|msimamo}}
+* Swedish: {{t+|sv|motstå}}
+* Ukrainian: {{t|uk|ви́стояти|pf}}, {{t|uk|ви́тримати|pf}}
+{{trans-bottom}}
+
+{{trans-top|to tolerate}}
+* Afrikaans: {{t|af|verdra}}
+* Armenian: {{t+|hy|դիմանալ}}
+* Bulgarian: {{t+|bg|търпя}}
+* Catalan: {{t+|ca|suportar}}
+* Czech: {{t|cs|vystát}}
+* Danish: {{t|da|udholde}}, {{t|da|udstå}}, {{t+|da|klare}}
+* Dutch: {{t+|nl|verdragen}}, {{t+|nl|uitstaan}}
+* Esperanto: {{t|eo|elteni}}
+* Finnish: {{t+|fi|sietää}}, {{t+|fi|kestää}}
+* German: {{t+|de|ausstehen}}, {{t+|de|aushalten}}, {{t+|de|ertragen}}
+* Hungarian: {{t+|hu|kiáll}}
+* Irish: {{t|ga|fulaing}}
+* Italian: {{t+|it|tollerare}}, {{t+|it|sopportare}}, {{t+|it|soffrire}}
+* Japanese: {{t+|ja|我慢|tr=がまんする, gaman suru|alt=我慢する}}, {{t+|ja|大目に見る|tr=おおめにみ, ōme ni miru}}
+* Latin: {{t|la|perpetior}}
+* Macedonian: {{t|mk|поднесува|impf}}, {{t|mk|трпи|impf}}, {{t|mk|издржува|impf}}
+{{trans-mid}}
+* Malay: {{t+|ms|tahan}}
+* Norman: {{t|nrf|sténer}}
+* Norwegian: {{t|no|motstå}}, {{t+|no|tåle}}
+* Polish: {{t+|pl|cierpieć}} {{qualifier|used only in the negative}}
+* Portuguese: {{t+|pt|tolerar}}, {{t+|pt|aguentar}}, {{t+|pt|suportar}}
+* Romanian: {{t+|ro|suporta}}
+* Russian: {{t+|ru|выноси́ть|impf}}, {{t+|ru|вы́нести|pf}}, {{t+|ru|выде́рживать|impf}}, {{t+|ru|вы́держать}}
+* Scottish Gaelic: {{t|gd|fuiling}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тр́пети|impf}}
+*: Roman: {{t+|sh|tŕpeti|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wucuś}}
+* Spanish: {{t+|es|soportar}}, {{t+|es|tolerar}}, {{t+|es|pasar}}
+* Swahili: {{t+|sw|msimamo}}
+* Swedish: {{t|sv|stå ut med}}, {{t+|sv|tolerera}}
+* Turkish: {{t+|tr|dayanmak}}, {{t+|tr|kaldırmak}}, {{t+|tr|katlanmak}}, {{t+|tr|tahammül etmek}} 
+* Ukrainian: {{t|uk|витри́мувати|impf}}, {{t|uk|ви́тримати|pf}}
+{{trans-bottom}}
+
+{{trans-top|to be placed in an upright or vertical orientation}}
+* Esperanto: {{t+|eo|stari}}
+* Finnish: {{t+|fi|seisoa}}, {{t+|fi|seistä}}
+{{trans-mid}}
+* Japanese: {{t|ja|立たす|tr=たたす, tatasu}}
+* Swedish: {{t+|sv|stå}}
+{{trans-bottom}}
+
+{{trans-top|to place in an upright or standing position}}
+* Armenian: {{t+|hy|կանգնեցնել}}
+* Bulgarian: {{t+|bg|поставям}}
+* Czech: {{t+|cs|postavit}}
+* Danish: {{t+|da|stille}}, {{t+|da|sætte}}
+* Dutch: {{t+|nl|stellen}}, {{t+|nl|neerzetten}}, {{t+|nl|overeind}} {{t+|nl|zetten}}
+* Esperanto: {{t|eo|starigi}}
+* Finnish: {{t|fi|[[asettaa]] [[pystyyn]]}}
+* German: {{t+|de|stellen}}, {{t+|de|abstellen}}, {{t+|de|hinstellen}}, {{t+|de|aufstellen}}
+* Hungarian: {{t+|hu|állít}}, {{t+|hu|felállít}}
+* Italian: {{t|it|mettere in piedi}}, {{t|it|mettere ritto}}, {{t+|it|appoggiare}}, {{t+|it|collocare}}
+* Japanese: {{t+|ja|立てる|tr=たてる, tateru}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|بە راوەستان}}, {{t|ckb|بە پێوە}}
+* Macedonian: {{t|mk|застанува|impf}}, {{t|mk|поставува|impf}}
+{{trans-mid}}
+* Norwegian: {{t|no|reise opp}}
+* Persian: {{t|fa|وایسوندن|tr=vâysundan}}
+* Portuguese: {{t+|pt|encostar}}, {{t+|pt|levantar}}, {{t+|pt|erguer}}
+* Russian: {{t+|ru|ста́вить|impf}}, {{t+|ru|поста́вить|pf}}
+* Scottish Gaelic: {{t|gd|seas}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ста̏вити|impf}}, {{t|sh|по̀ставити|pf}}
+*: Roman: {{t+|sh|stȁviti|impf}}, {{t+|sh|pòstaviti|pf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|stajaś}} {{qualifier|imperfective}}, {{t|dsb|stajiś}} {{qualifier|perfective}}
+* Spanish: {{t+|es|levantar}}, {{t+|es|poner}}
+* Swahili: {{t+|sw|msimamo}}
+* Swedish: {{t+|sv|ställa}}
+* Ukrainian: {{t+|uk|ста́вити|impf}}, {{t|uk|поста́вити|impf}}
+* Yiddish: {{t|yi|אַוועקשטעלן}}
+{{trans-bottom}}
+
+{{trans-top|to seek election}}
+* Bulgarian: {{t|bg|кандидатирам се}}
+* Finnish: {{t+|fi|pyrkiä}}, {{t|fi|[[olla]] [[ehdokkaana]]}}
+* German: {{t+|de|kandidieren}}
+* Hungarian: {{t|hu|jelölteti magát}}
+* Italian: {{t|it|candidarsi}}, {{t|it|entrare in lizza}}, {{t+|it|gareggiare}}
+* Japanese: {{t+|ja|立候補|tr=りっこうほする, rikkōho suru|alt=立候補する}}
+{{trans-mid}}
+* Macedonian: {{t|mk|кандидира|impf|pf|alt=се кандиди́ра}}
+* Portuguese: {{t|pt|[[candidatar]]-[[se]]}}
+* Russian: {{t+|ru|баллоти́роваться|impf}}
+* Swahili: {{t+|sw|msimamo}}
+* Swedish: {{t+|sv|ställa upp}}, {{t+|sv|kandidera}}
+{{trans-bottom}}
+
+{{trans-top|to steer in a specified direction or destination}}
+* Finnish: {{t+|fi|suunnata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to be valid}}
+* Esperanto: {{t|eo|validi}}
+* Finnish: {{t|fi|olla voimassa}}, {{t+|fi|päteä}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|áll}}
+* Swedish: {{t+|sv|gälla}}
+{{trans-bottom}}
+
+{{trans-top|to oppose, usually as a team, in competition}}
+* Finnish: {{t|fi|[[olla]] [[vastaan]]}}, {{t+|fi|vastustaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Arabic: {{t-check|ar|وَقَفَ}}
+* Esperanto: {{t-check|eo|starigi}}
+* Georgian: {{t-check|ka|დგას}}
+* Hebrew: {{t-check|he|להעמיד|tr=leha`amíd}}, {{t-check|he|לסבול|tr=lisból}}, {{t-check|he|לעמוד|tr=la`amód}}, {{t-check|he|להיעמד|tr=lehe`améd}}
+* Ido: {{t+check|io|stacar}}
+* Indonesian: {{t+check|id|diri|alt=berdiri}} <!-- was "[[diri|berdiri]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|tegak}}
+{{trans-mid}}
+* Norman: {{t-check|nrf|stanner}} {{qualifier|Jersey}}
+* Norwegian: {{t+check|no|stå}}
+* Persian: {{t+check|fa|ستادن|tr=setâdan}}, {{t+check|fa|ایستادن|tr=istâdan}}
+* Serbo-Croatian: {{t+check|sh|podnositi}}
+* Swahili: {{t-check|sw|kusimama}}
+* Tahitian: {{t-check|ty|ti’a}}
+{{trans-bottom}}
+
+====Noun====
+{{en-noun}}
+
+# The [[act]] of [[standing]].
+#* '''October 2, 1712''', {{w|Joseph Addison}}, ''The Spectator'' No. 499
+#*: I took my '''stand''' upon an eminence{{...}}to look into their several ladings.
+# A [[defensive]] position or [[effort]].
+#: {{ux|en|The Commander says we will make our '''stand''' here.}}
+# A [[resolute]], [[unwavering]] position; [[firm]] [[opinion]]; action for a purpose in the face of [[opposition]].
+#: {{ux|en|They took a firm '''stand''' against copyright infringement.}}
+# A period of performance in a given location or [[venue]].
+#: {{ux|en|They have a four-game '''stand''' at home against the Yankees.&emsp; {{nowrap|They spent the summer touring giving 4 one-night '''stands''' a week.}}}}
+# {{senseid|en|device to hold something upright or aloft}} A device to hold something upright or [[aloft]].
+#: {{ux|en|He set the music upon the '''stand''' and began to play.&emsp; {{nowrap|an umbrella '''stand''';}}&emsp; {{nowrap|a hat-'''stand'''}}}}
+#* {{RQ:Belloc Lowndes Lodger|II|0091}}
+#*: There was a neat hat-and-umbrella '''stand''', and the stranger's weary feet fell soft on a good, serviceable dark-red drugget, which matched in colour the flock-paper on the walls.
+# The platform on which a witness [[testifies]] in [[court]]; the [[witness stand]] or [[witness box]].
+#: {{ux|en|She took the '''stand''' and quietly answered questions.}}
+# {{lb|en|historical}} An area of raised seating for [[waiter]]s at the [[stock exchange]].
+#* '''1923''', Julius E. Day, ''The Stockbroker's Office: Organisation, Management and Accounts'' (page 99)
+#*: When a member has failed to comply with his bargains the fact is announced from one of the '''stands''', {{...}}
+#* '''1934''', Frances Cosgrove, ''Scenes for Student Actors: Dramatic Selections from New Plays'' (page 8)
+#*: Just as that clock is striking now, the two waiters appear on the '''stands''' and take off their hats, as if to a corpse.
+# A particular [[grove]] or other group of [[tree]]s or shrubs.
+#: {{ux|en|This '''stand''' of pines is older than the one next to it.}}
+# {{lb|en|forestry}} A contiguous group of trees sufficiently uniform in age-class distribution, composition, and structure, and growing on a site of sufficiently uniform quality, to be a distinguishable unit.
+# A [[standstill]], a motionless state, as of someone confused, or a hunting dog who has found game.
+#* '''1625''', {{w|Francis Bacon}}, “Of Truth”, ''Essays''
+#*: One of the later school of the Grecians, examineth the matter, and is at a '''stand''', to think what should be in it, that men should love lies; where neither they make for pleasure, as with poets, nor for advantage, as with the merchant; but for the lie’s sake.
+#* '''1819''', {{w|Lord Byron}}, ''{{w|Don Juan (Byron)|Don Juan}}'', I.168:
+#*: Antonia's patience now was at a '''stand'''—<br> "Come, come, 't is no time now for fooling there,"<br> She whispered{{...}}
+# A small building, [[booth]], or [[stage]], as in a [[bandstand]] or [[hamburger]] stand.
+# A designated spot where someone or something may stand or wait.
+#: {{ux|en|a [[taxi stand]]}}
+# {{lb|en|US|dated}} The situation of a shop, store, hotel, etc.
+#: {{ux|en|a good, bad, or convenient '''stand''' for business}}
+# {{senseid|en|grandstand}}{{lb|en|sports}} [[grandstand|Grandstand]]. {{qualifier|often in the plural}}
+#* {{quote-journal|en|date=November 11, 2011| author=Rory Houston| work=RTE Sport| title=[http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html Estonia 0-4 Republic of Ireland]| passage=The end of the opening period was relatively quite [sic] as Vassiljev's desperate shot from well outside the penalty area flew into the '''stand''' housing the Irish supporters and then Ward's ctoss [sic] was gathered by goalkeeper Pareiko.}}
+# {{lb|en|cricket}} A [[partnership]].
+#* {{quote-journal|en|date=May 21, 2012| author=Tom Fordyce| work=BBC Sport| title=[http://www.bbc.co.uk/sport/0/cricket/18148575 England v West Indies: Hosts cruise home in Lord's Test]| passage=England wrapped up a five-wicket victory in the first Test as a '''stand''' of 132 between Alastair Cook and Ian Bell saw off an early West Indies charge.}}
+# {{lb|en|military|plural often '''stand'''}} A single [[set]], ''as'' of [[arms]].
+#* '''1927''', Herbert Asbury, ''The Gangs of New York: An Informal History of the Underworld'', Paragon House (1990), {{ISBN|1-55778-348-9}}, p.170:
+#*: The police and troops captured eleven thousand '''stand''' of arms, including muskets and pistols, together with several thousand bludgeons and other weapons.
+# {{lb|en|obsolete}} Rank; post; station; standing.
+#* {{RQ:Daniel Civil Wars|passage=Father, since your fortune did attain / So high a '''stand''', I mean not to descend.}}
+# {{lb|en|dated}} A state of [[perplexity]] or [[embarrassment]].
+#: {{ux|en|to be at a '''stand''' what to do}}
+# A young [[tree]], usually reserved when other trees are cut; also, a tree growing or standing upon its own root, in distinction from one produced from a [[scion]] set in a [[stock]], either of the same or another kind of tree.
+# A location or position where one may stand.
+#* {{RQ:Shakespeare Measure|text=Come, I have found you out a '''stand''' most fit,&nbsp;/ Where you may have such vantage on the duke,&nbsp;/ He shall not pass you.}}
+# {{lb|en|advertising}} An [[advertisement]] filling an entire [[billboard]], comprising many sheets of paper.
+#* '''1900''', ''Marketing Communications'' (volume 30, page 12)
+#*: The cost of the printing alone will average $2 a ''''stand'''.' The sheets are about 28x42 inches and are in four colors, which means they must go through the process four times.
+#* '''1951''', February 24, ''Billboard'' (page 52)
+#*: Crew of 14 billers and a four-man brigade will be 10 days ahead and will use all special paper including new jungle and animal designs being prepared by Enquirer Printing Company.<br>New this season will be a 20-sheet poster depicting 21 K-M elephants parading to local Chevrolet agencies. Deal calls for use of the 20-sheet on poster panels where the auto agency has space allotment. Smaller versions of the same art also will be used.<br>Circulation of Kelly-Miller heralds, which last season averaged between 5,000 and 6,000 copies per '''stand''', will be in for one of the greatest boosts this year.
+# {{lb|en|fiction}} A type of supernatural ability from the anime and manga series [[wikipedia:JoJo's_Bizarre_Adventure|JoJo's Bizarre Adventure]], named for the fact that they appear to 'stand' next to their user.
+
+=====Derived terms=====
+{{der3|en|title=Terms derived from ''stand'' (noun)
+|at a stand
+|axle stand
+|bandstand
+|bicycle stand
+|blow this pop stand
+|bus stand
+|clamp stand
+|coat stand
+|concessions stand
+|cruet stand
+|dead stand
+|deer stand
+|dish stand
+|grandstand
+|home stand
+|hunting stand
+|inkstand
+|jack stand
+|kickstand
+|lemonade stand
+|music stand
+|one-night stand
+|outstanding
+|retort stand
+|ring stand
+|Sheffield stand
+|stable stand
+|standout
+|standpoint
+|standstill
+|take a firm stand
+|take a stand
+|take the stand
+|[[tank stand]], [[tankstand]]
+|taxi stand
+|track stand
+|tree stand
+|umbrella stand
+|upstanding
+|witness stand
+}}
+
+=====Descendants=====
+{{top3}}
+* {{desc|ca|estand|bor=1}}
+* {{desc|da|stand|sml=1}}
+* {{desc|nl|stand|bor=1}}
+* {{desctree|fr|stand|bor=1}}
+* {{desc|it|stand|bor=1}}
+* {{desc|ja|スタンド|tr=sutando|bor=1}}
+* {{desc|nb|stand|bor=1}}
+* {{desc|nn|stand|bor=1}}
+* {{desc|pt|estande|bor=1|alts=1}}
+* {{desctree|ru|стенд|bor=1}}
+* {{desc|nr|isitandi|bor=1}}
+* {{desc|bor=1|es|estand|stand}}
+* {{desc|sw|stendi|bor=1}}
+{{bottom}}
+
+=====Translations=====
+{{trans-top|act of standing}}
+* Esperanto: {{t|eo|staro}}, {{t|eo|starado}}
+* Finnish: {{t+|fi|seisominen}}
+* Hungarian: {{t+|hu|állás}}
+* Ido: {{t+|io|staco}}
+{{trans-mid}}
+* Italian: {{t|it|in piedi}}
+* Swedish: {{t+|sv|stående|n}}
+{{trans-bottom}}
+
+{{trans-top|defensive position or effort}}
+* Bulgarian: {{t+|bg|позиция|f}}
+* Dutch: {{t+|nl|positie|f}}
+* Georgian: {{t|ka|პოზიცია}}
+* Macedonian: {{t|mk|став|m}}
+* Portuguese: {{t+|pt|posto|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|пост|m}}, {{t+|ru|пози́ция|f}}
+* Spanish: {{t+|es|postura|f}}
+* Swedish: {{t+|sv|ställning|c}}
+* Ukrainian: {{t+|uk|пози́ція|f}}
+{{trans-bottom}}
+
+{{trans-top|resolute, unwavering position}}
+* Bulgarian: {{t+|bg|съпротива|f}}
+* Czech: {{t+|cs|pozice|f}}
+* Danish: {{t|da|standpunkt}}
+* Dutch: {{t+|nl|standplaats|c}}, {{t+|nl|standpunt|n}}
+* Finnish: {{t+|fi|kanta}}, {{t+|fi|kannanotto}}
+* Georgian: {{t|ka|პოზიცია}}
+* German: {{t+|de|Standpunkt|m}}
+* Hebrew: {{t+|he|עמדה|f|tr=emdá}}
+{{trans-mid}}
+* Japanese: {{t+|ja|立場|tr=tachiba}}
+* Macedonian: {{t|mk|став|m}}
+* Portuguese: {{t+|pt|posto|m}}, {{t+|pt|posição}}
+* Russian: {{t+|ru|пози́ция|f}}, {{t+|ru|сопротивле́ние|n}}
+* Spanish: {{t+|es|postura|f}}, {{t+|es|posición|f}}
+* Swahili: {{t+|sw|msimamo|3/4}}
+* Swedish: {{t+|sv|ställning}}, {{t+|sv|position}}
+* Ukrainian: {{t+|uk|пози́ція|f}}
+{{trans-bottom}}
+
+{{trans-top|period of performance in a given location or venue}}
+* Finnish: {{t+|fi|jakso}}
+{{trans-mid}}
+* Swedish: {{t+|sv|uppträdande|n}}
+{{trans-bottom}}
+
+{{trans-top|device to hold something upright or aloft}}
+* Bulgarian: {{t+|bg|стойка|f}}
+* Czech: {{t+|cs|stojan|m}}
+* Danish: {{t|da|tribune}}, {{t|da|estrade}}
+* Dutch: {{t+|nl|staander|m}}, {{t+|nl|statief|n}}, {{t+|nl|sokkel|m}}
+* Esperanto: {{t|eo|stativo}}
+* Finnish: {{t+|fi|tuki}}, {{t+|fi|teline}}, {{t+|fi|lava}}
+* French: {{t+|fr|socle|m}}, {{t+|fr|piédestal|m}} (of a statue), {{t+|fr|pupitre|m}} (music stand)
+* German: {{t+|de|Ständer|m}}, {{t+|de|Stativ|n}}
+* Hungarian: {{t+|hu|állvány}}
+* Ido: {{t+|io|stativo}}
+* Italian: {{t+|it|appoggio|m}}, {{t+|it|leggio|m}} {{q|music stand}}, {{t+|it|sostegno}}
+* Japanese: {{t|ja|スタンド|tr=sutando}}
+{{trans-mid}}
+* Macedonian: {{t|mk|сталак|m}}, {{t|mk|статив|m}}, {{t|mk|потпора|f}}
+* Maori: {{t|mi|porotēteke}}
+* Norwegian:
+*: Bokmål: {{t|nb|stativ|n}}
+*: Nynorsk: {{t|nn|stativ|n}}
+* Polish: {{t+|pl|stojak|m}}, {{t+|pl|trójnóg}} {{qualifier|three-legged one}}
+* Portuguese: {{t+|pt|apoio}}, {{t+|pt|amparo}}, {{t+|pt|encosto}}, {{t+|pt|pedestal|m}}
+* Russian: {{t+|ru|пьедеста́л|m}} {{qualifier|of a statue}}, {{t+|ru|подста́вка|f}}, {{t+|ru|этаже́рка|f}}, {{t+|ru|консо́ль|f}}, {{t+|ru|подпо́ра|f}}, {{t+|ru|сто́йка|f}}, {{t+|ru|штати́в|m}}, {{t+|ru|стелла́ж}}, {{t+|ru|стенд|m|tr=stɛnd}}
+* Slovak: {{t|sk|stojan|m}}
+* Spanish: {{t+|es|atril|m}} {{q|music stand}}
+* Swahili: {{t+|sw|msimamo|c3|c4}}
+* Swedish: {{t+|sv|ställ}}, {{t+|sv|stativ}}
+* Ukrainian: {{t|uk|підста́вка|f}}, {{t|uk|трибу́на|f}}, {{t|uk|сті́йка|f}}, {{t|uk|штати́в|m}}, {{t|uk|сто́лик|m}}, {{t|uk|стенд|m}}
+{{trans-bottom}}
+
+{{trans-top|platform on which a witness testifies in court}}
+* Danish: {{t|da|vidneskranke}}
+* Finnish: {{t+|fi|aitio}}, {{t|fi|todistajanaitio}}
+* German: {{t+|de|Zeugenstand|m}}
+* Italian: {{t|it|banco dei testimoni|m}}, {{t+|it|sbarra|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|証言台|tr=shōgendai}}
+* Manx: {{t-check|gv|ardan|m}}
+* Swahili: {{t+|sw|msimamo|3/4}}
+* Swedish: {{t|sv|vittnesbås}}
+* Turkish: {{t|tr|tanık kürsüsü}}
+{{trans-bottom}}
+
+{{trans-top|particular grove or other group of trees}}
+* Danish: {{t|da|bevoksning|c}}
+* Dutch: {{t+|nl|bosschage|f}}
+* Finnish: {{t+|fi|metsikkö}}
+* Japanese: {{t|ja|木立ち|tr=kodachi}}
+{{trans-mid}}
+* Maori: {{t|mi|uru}}
+* Swahili: {{t+|sw|msimamo|c3|c4}}
+* Swedish: {{t+|sv|bestånd|n}}, {{t+|sv|dunge|c}}
+{{trans-bottom}}
+
+{{trans-top|contiguous group of trees that may be considered a distinguishable unit}}
+* Finnish: {{t+|fi|metsikkö}}
+* Lithuanian: {{t|lt|medynas|m}}
+* Romanian: {{t+|ro|arboret|n}}
+{{trans-mid}}
+* Swedish: {{t+|sv|bestånd|n}}, {{t+|sv|dunge|c}}
+{{trans-bottom}}
+
+{{trans-top|standstill, motionless state}}
+* Bulgarian: {{t+|bg|застой|m}}
+* Finnish: {{t+|fi|seisonta}} {{qualifier|of dog}}
+* Macedonian: {{t|mk|застој|m}}
+{{trans-mid}}
+* Swedish: {{t+|sv|stillestånd|n}}, {{t+|sv|uppehåll|n}}
+{{trans-bottom}}
+
+{{trans-top|small building or booth}}
+* Armenian: {{t+|hy|կրպակ}}, {{t+|hy|տաղավար}}
+* Bulgarian: {{t+|bg|щанд|m}}
+* Burmese: {{t-needed|my}}
+* Catalan: {{t+|ca|estand|m}}, {{t+|ca|barraca|f}}, {{t+|ca|guingueta|f}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t+|cs|stánek|m}}
+* Danish: {{t|da|stade}}, {{t|da|stand}}
+* Dutch: {{t+|nl|stand|m}}, {{t+|nl|kraam|n|c}}
+* Esperanto: {{t+|eo|stando}}
+* Finnish: {{t+|fi|koju}}, {{t+|fi|koppi}}, {{t+|fi|tiski}}
+* French: {{t+|fr|étal}}, {{t+|fr|stand}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|Stand|m}}, {{t+|de|Kiosk|m}}
+* Greek: {{t+|el|κιόσκι|n}}
+* Hungarian: {{t+|hu|stand}}
+* Italian: {{t+|it|stand}}
+* Japanese: {{t+|ja|屋台|tr=yatai}}, {{t+|ja|売店|tr=baiten}}
+* Khmer: {{t+|km|តៀម}}
+* Korean: {{t-needed|ko}}
+{{trans-mid}}
+* Ladino: {{t|lad|kontuar}}
+* Lao: {{t-needed|lo}}
+* Macedonian: {{t|mk|штанд|m}}, {{t|mk|тезга|f}}
+* Malay: {{t-needed|ms}}
+* Norwegian:
+*: Bokmål: {{t+|nb|stand|m}}
+*: Nynorsk: {{t+|nn|stand|m}}
+* Polish: {{t+|pl|stoisko|n}}
+* Portuguese: {{t+|pt|estande|m}}, {{t+|pt|barraca|f}}, {{t|pt|barraquinha|f}}
+* Romanian: {{t+|ro|stand|n}}
+* Russian: {{t+|ru|ларёк|m}}, {{t+|ru|кио́ск|m}}, {{t+|ru|пала́тка|f}}, {{t+|ru|стенд|m}}
+* Serbo-Croatian: {{t-needed|sh}}
+* Spanish: {{t+|es|puesto|m}}
+* Swahili: {{t+|sw|msimamo|3/4}}
+* Swedish: {{t+|sv|stånd|n}}, {{t+|sv|bås|n}}, {{t+|sv|monter|c}}
+* Telugu: {{t-needed|te}}
+* Thai: {{t-needed|th}}
+* Tibetan: {{t|bo|བཀད་ས}} {{qualifier|for food}}, {{t|bo|བགྲོ་བའི་ཁག་པ}} {{qualifier|for music}}, {{t|bo|གླུ་དབྱངས་ཀྱི་ཁང}} {{qualifier|for singing, music}}
+* Ukrainian: {{t|uk|ларьо́к|m}}, {{t+|uk|кіо́ск|m}}, {{t+|uk|наме́т|m}}
+* Vietnamese: {{t-needed|vi}}
+{{trans-bottom}}
+
+{{trans-top|designated spot where someone or something may stand or wait}}
+* Bulgarian: {{t+|bg|стоянка|f}}
+* Czech: {{t+|cs|zastávka|f}}
+* Danish: {{t|da|holdeplads}}
+* Dutch: {{t+|nl|standplaats|c}}
+* Finnish: {{t+|fi|asema}}
+* Italian: {{t|it|sala d'aspetto|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|停留所|tr=teiryūjo}}
+* Macedonian: {{t|mk|стојалиште|n}}, {{t|mk|постојка|f}}
+* Russian: {{t+|ru|стоя́нка|f}}
+* Swahili: {{t+|sw|msimamo|3/4}}
+* Swedish: {{t+|sv|kur|c}}, {{t+|sv|ställ|n}}, {{t+|sv|stånd|n}}
+* Ukrainian: {{t|uk|стоя́нка|f}}
+{{trans-bottom}}
+
+{{trans-top|situation of a shop, store, hotel, etc.}}
+* Finnish: {{t+|fi|paikka}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|grandstand}}
+
+{{trans-top|cricket: partnership}}
+* Swahili: {{t+|sw|msimamo|c3|c4}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|military: single set, as of arms}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|rank; post; station; standing}}
+* Finnish: {{t+|fi|asema}}
+{{trans-mid}}
+* Swedish: {{t+|sv|stånd|n}}, {{t+|sv|ställning|c}}
+{{trans-bottom}}
+
+{{trans-top|state of perplexity or embarrassment}}
+* Finnish: {{t+|fi|ihmetys}}
+{{trans-mid}}
+* Swedish: {{t+|sv|tillstånd|n}}
+{{trans-bottom}}
+
+{{trans-top|young tree, reserved when other trees are cut}}
+* Finnish: {{t|fi|siemenpuu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|supernatural ability from JoJo's Bizarre Adventure}}
+* Japanese: {{t|ja|スタンド|tr=sutando|}}, {{t|ja|幽波紋|tr=yūhamon}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Related terms====
+* {{l|en|stance}}
+* {{l|en|stanza}}
+
+===Etymology 2===
+From {{inh|en|enm|stand}}, {{m|enm|stande}}, {{m|enm|stond}}, {{m|enm|stonde}}, {{m|enm|stoonde}}, probably from {{der|en|dum|stande}}; forms with ''-o-'' may show influence of {{m|enm|stonden|t=stand|pos=verb}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|obsolete}} {{rfdef|en}}
+#* {{quote-book|en|title=The Progresses and Public Processions of Queen Elizabeth. Among Which are Interspersed, Other Solemnities, Public Expenditures, and Remarkable Events, During the Reign of that Illustrious Princess.{{nb...|Now First Printed from Original MSS. of the Times; or Collected from Scarce Pamphlets, &c. Illustrated with Historical Notes, by John Nichols, F. S. A. Edinb. and Perth.}}|volume=I|publisher={{...|Printed by and for}}the Editor &#91;[[w:John Nichols (printer)|John Nichols]]&#93;,{{nb...|Printer to the Society of Antiquaries of London}}|year=1559|year_published=1788|page=45|passage=Item, for a '''ſtande''' of small ale - ii s.}}
+#* {{quote-book|en|title=Rural Economy in Yorkshire in 1641, Being the Farming and Account Books of Henry Best, of Elmswell, in the East Riding of the County of York|series=The Publications of the {{w|Surtees Society}}|seriesvolume=volume XXXIII|location=Durham|publisher={{...|Published}}for the Society by George Andrews,{{nb...|Sadler Street}}. London: Whittaker & Co.,{{nb...|13 Ave Maria Lane}}; T. & W. Boone,{{nb...|29 New Bond Street}}. Edinburgh: [[w:Blackwood (publishing house)|William Blackwood and Sons]]|year=1582|year_published=1857|page=172|passage={{...}}one gialfatte, 3 '''stannes''' 3''s''.,{{...}}}}
+#* {{quote-book|en|author=Martin Mar-prelate|authorlink=Martin Marprelate|title=An Epistle to the Terrible Priests of the Convocation House|location=London|publisher=John Petheram|year=1588|year_published=1842|page=54|passage=Therefore at length sir Iefferie bethought him of a feat whereby he might both visit the ale'''stond''', and also keepe his othe.}}
+#* {{quote-book|en|author=John Lyly|authorlink=John Lyly|chapter={{w|Mother Bombie}}|title=The Complete Works of John Lyly|year=1594|year_published=1902|page=193|passage=''Memp.'' Ile teach my wag-halter to know grapes from barley. ''Pris.'' And I mine to discerne a spigot from a faucet. ''Spe.'' And I mine, to iudge the difference between a blacke boule and a siluer goblet. ''Stel.'' And mine shall learne the oddes betweene a '''stand''' and a hogs-head; yet I cannot choose but laugh to see how my wag aunswered mee, when I stroke him for drinking sacke.}}
+#* {{quote-book|en|author=Thomas Dekker|authorlink=Thomas Dekker (writer)|chapter=[[w:The Wonderfull Yeare|The VVonderfull Yeare]]|title=The Non-Dramatic Works of Thomas Dekker|volume=I|year=1603|year_published=1884|pages=123–124|passage=As for the Tapſter, he fled into the Cellar, rapping out fiue or ſixe plaine Country oathes, that hée would drowne himſelfe in a moſt villanous '''Stand''' of Ale, if the ſicke Londoner ſtoode at the doore any longer.}}
+#* {{quote-book|en|author=Thomas Shadwell|authorlink=Thomas Shadwell|chapter=[[w:Epsom Wells|Epsom-Wells]]|title=The Works of Thomas Shadwell|volume=the second|location=London|publisher={{...|Printed for}}James Knapton,{{nb...|at the Crown in St. Paul’s Church-Yard}}; and Jacob Tonson,{{nb...|at Shakespear’s Head over-against Katharine-Street in the Strand}}|year=1672|year_published=1720|page=196|passage=I have the rareſt '''Stand''' of Ale to drink out in the Afternoon, with three or four honeſt Country-fellows;}}
+#* {{quote-book|en|title=A Letter from a Gentleman of the Romish Religion to His Brother, a Person of Quality of the Same Religion; Perswading Him to Go to Church, and Take Those Oaths the Law Directs, Proving the Lawfulness Thereof by Arguments Not Disagreeable to Doctrines of the Roman Church|location=London|publisher={{...|Printed for}}John Starkey|year=1674|page=28|passage={{...}}that he may have leave to meet ſome few Neighbours to duſt a '''ſtand''' of Ale{{...}}}}
+#* {{quote-book|en|author=James Adair|authorlink=James Adair (historian)|title=The History of The American Indians; Particularly Those Nations Adjoining to the Missisippi, East and West Florida, Georgia, South and North Carolina, and Virginia:{{nb...|Containing an Account of Their Origin, Language, Manners, Religious and Civil Customs, Laws, Form of Government, Punishments, Conduct in War and Domestic Life, Their Habits, Diet, Agriculture, Manufactures, Diseases and Method of Cure, and Other Particulars, Sufficient to Render it a Complete Indian System. With Observations on Former Historians, the Conduct of Our Colony Governors, Superintendents, Missionaries, &c. Also An Appendix, Containing a Description of the Floridas, and the Missisippi Lands, with Their Productions—The Benefits of Colonising Georgiana, and Civilizing the Indians—And the Way to Make All the Colonies More Valuable to the Mother Country. With a New Map of the Country Referred to in the History.}}|location=London|publisher={{...|Printed for}}Edward and Charles Dilly|year=1775|page=395|passage=All his war ſtore of proviſions conſiſted in three '''ſtands''' of barbicued veniſon, till he had an opportunity to revenge blood, and return home.}}
+#* {{quote-book|en|chapter={{w|Tam Lin}}|editor={{w|Francis James Child}}|title=[[w:Child Ballads|The English and Scottish Popular Ballads]]|others=part II|location=Boston, Mass.|publisher=[[w:Houghton Mifflin Harcourt|Houghton, Mifflin and Company]]; New York:{{nb...|11 East Seventeenth Street}}; The Riverside Press, Cambridge; London: Henry Stevens,{{nb...|4 Trafalgar Square}}|year=a. 1791|year_published=1884|page=344|passage=First dip me in a '''stand''' o milk, / And then a '''stand''' o water;}}
+# {{lb|en|obsolete}} A [[weight]] of from two hundred and fifty to three hundred pounds, used in weighing [[pitch]].
+
+=====Translations=====
+{{trans-top|weight of from two hundred and fifty to three hundred pounds}}
+{{trans-mid}}
+{{trans-bottom}}
+
+=====References=====
+* {{R:MED Online|stand(e|n|MED42630}}
+* {{R:OED2|entry=stand|pos=''n.''{{sup|2}}|noformat=1|id=00236067}}
+
+===Anagrams===
+* {{anagrams|en|a=adnst|Dants|Sandt|dasn't|tdnas}}
+
+[[Category:English class 6 strong verbs]]
+[[Category:English irregular verbs]]
+[[Category:English raising verbs]]
+
+{{topics|en|Japanese fiction}}
+
+----
+
+==Danish==
+
+===Etymology===
+From the verb {{m|da|stande}}, influenced by {{cog|gml|stant}}, {{cog|de|Stand}} and (in the sense "booth") {{cog|en|stand}}.
+
+===Pronunciation===
+* {{IPA|da|[ˈsd̥anˀ]}}
 
 ===Noun===
-'''stand'''
-# a device to hold something upright or [[aloft]]
-#: ''He set the music upon the stand and began to play.''
-# the platform on which a witness [[testifies]] in [[court]]
-#: ''She took the stand and quietly answered questions.''
-# a [[position]]; firm opinion; action for a purpose
-#: ''They took a firm stand against copyright infringement.''
-# a small group of [[trees]].
-#: ''He hid in a small stand of pines.''
+{{da-noun|en|stænder}}
 
-==== Translations ====
-*Finnish: [[tuki]] (1), [[teline]] (1), [[lava]] (1), [[aitio]] (2), [[asema]] (3), [[mielipide]] (3), [[näkemys]] (3)
-*Slovak: [[stojan]] ''m'' (1)
+# [[position]], [[social status]], [[station]]
+# [[class]], [[rank]]
+# [[occupation]], [[trade]], [[profession]]
+# [[estate]]
 
-=== Related terms ===
-*[[outstanding]]
-*[[stand back]]
-*[[stand by]]
-*[[stand-in]]
-*[[stand in for]]
-*[[stand out]]
-*[[standout]]
-*[[standpoint]] 
-*[[standstill]] 
-*[[stand up]]
-*[[upstanding]]
+====Inflection====
+{{da-decl|en|stænder|stænderne|||stænders|stændernes}}
+
+===Noun===
+{{da-noun|en|e}}
+
+# {{l|en|stand}} {{q|device to hold something upright or aloft}}
+# {{l|en|stand}} {{q|small building or booth}}
+# {{lb|da|uncountable}} [[condition]], [[repair]]
+
+====Inflection====
+{{da-decl|en|e}}
+
+====Related terms====
+* {{l|da|godt i stand}}
+* {{l|da|i stand til}}
+
+===References===
+* {{R:Den Danske Ordbog}}
+
 ----
 
 ==Dutch==
 
-===Noun===
-'''stand''' ''m'' (diminutive: [[standje]], plural: [[standen]], plural diminutive: [[standjes]])
+===Etymology 1===
+{{root|nl|ine-pro|*steh₂-}}
+From {{inh|nl|odt|*stand}}, from {{inh|nl|gem-pro|*standaz}}. Related to {{m|nl|staan}}.
+
+====Pronunciation====
+* {{IPA|nl|/stɑnt/}}
+* {{audio|nl|Nl-stand.ogg|Audio}}
+* {{hyphenation|nl|stand}}
+* {{rhymes|nl|ɑnt|s=1}}
+
+====Noun====
+{{nl-noun|m|-en|standje}}
 
 # [[posture]], [[position]], [[bearing]]
-# [[rank]], [[standing]], [[station]]
+# [[rank]], [[standing]], [[station]]; [[class]]
 # [[score]] (of a game, match)
-# (plural: stands) stand (e.g. on an exhibit)
 
-[[de:Stand]]
-[[es:stand]]
-[[pl:Stand]]
-[[fi:Stand]]
-[[sv:stand]]
+=====Synonyms=====
+* {{sense|posture}} {{l|nl|houding}}
+* {{sense|rank}} {{l|nl|rang}}, {{l|nl|klasse}}
+* {{sense|score}} {{l|nl|score}}
+
+=====Derived terms=====
+* {{l|nl|adelstand}}
+* {{l|nl|burgerstand}}
+* {{l|nl|slaapstand}}
+* {{l|nl|speelstand}}
+* {{l|nl|standenmaatschappij}}
+* {{l|nl|standje}}
+* {{l|nl|waterstand}}
+
+=====Descendants=====
+* {{desc|dcr|stand}}
+
+===Etymology 2===
+From {{der|nl|en|stand}}.
+
+====Pronunciation====
+* {{IPA|nl|/stɛnt/}}
+* {{audio|nl|Nl-stand1.ogg|Audio}}
+* {{hyphenation|nl|stand}}
+
+====Noun====
+{{nl-noun|m|-s|standje}}
+
+# [[#English|stand]] {{gloss|small building or booth}}
+
+=====Synonyms=====
+* {{l|nl|kraam}}
+
+===Anagrams===
+* {{l|nl|danst}}
+
+[[Category:Dutch heteronyms]]
+
+----
+
+==French==
+
+===Etymology===
+From {{bor|fr|en|stand}}.
+
+===Pronunciation===
+* {{fr-IPA|stande}}
+* {{audio|fr|Fr-stand.ogg|Audio}}
+
+===Noun===
+{{fr-noun|m}}
+
+# [[#English|stand]] (A small building, booth, or stage, as in a bandstand or hamburger stand.)
+
+====Derived terms====
+* {{l|fr|stand de tir}}
+
+====Descendants====
+* {{desc|km|ស្តង់|bor=1}}
+* {{desc|ro|stand|bor=1}}
+
+===Further reading===
+* {{R:TLFi}}
+
+----
+
+==German==
+
+===Pronunciation===
+* {{IPA|de|/ʃtant/}}
+* {{audio|de|De-stand.ogg|Audio}}
+* {{rhymes|de|ant|s=1}}
+
+===Verb===
+{{head|de|verb form}}
+
+# {{verb form of|de|stehen||1//3|s|pret}}
+
+----
+
+==Gothic==
+
+===Romanization===
+{{got-rom}}
+
+# {{romanization of|got|𐍃𐍄𐌰𐌽𐌳}}
+
+----
+
+==Hungarian==
+
+===Etymology===
+From {{bor|hu|de|Stand}}.<ref>{{R:TotfalusiEty 2005}}</ref>
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|stand}}
+* {{rhymes|hu|ɒnd|s=1}}
+
+===Noun===
+{{hu-noun}}
+
+# {{l|en|stand}}, [[booth]], [[stall]], [[kiosk]] {{gloss|a small enclosed structure, often freestanding, open on one side or with a window, used as a booth to sell newspapers, cigarettes, etc., on the street or in a market}}
+#: {{syn|hu|bódé}}
+#: {{ux|hu|szabadtéri '''stand'''|outdoor market '''stall'''|inline=1}}
+
+====Declension====
+{{hu-infl-nom|stando|o}}{{hu-pos-otok|stand|j|jai}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:ErtSz}}
+
+----
+
+==Italian==
+
+===Etymology===
+From {{bor|it|en|stand}}.
+
+===Pronunciation===
+{{it-pr|stènd<ref:{{R:it:DiPI}}>}}
+
+===Noun===
+{{it-noun|m|#}}
+
+# [[#English|stand]], [[booth]], [[stall]], [[pavilion]] {{gloss|at a fair}}
+# [[#English|stand]], [[gallery]] {{gloss|at a sporting event}}
+# [[#English|stand]], [[case]] {{gloss|in a store, supermarket}}
+# [[stall]] {{gloss|at a shooting range}}
+
+====Synonyms====
+* {{sense|at a fair, shooting range}} {{l|it|padiglione}}
+
+====Derived terms====
+* {{l|it|standista}}
+
+===References===
+<references />
+
+===Further reading===
+* {{R:it:Treccani}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+From the old verb {{m|nb|stande}} {{q|replaced by {{l|nb|stå}}}}, and {{der|nb|en|stand}} (sense 3)
+
+===Noun===
+{{nb-noun-m1}}
+
+# {{l|en|condition}}, {{l|en|order}}, {{l|en|state}}
+# {{l|en|height}}, {{l|en|level}}, {{l|en|reading}}
+# a {{l|en|stand}} {{q|e.g. at an exhibition}}
+
+====Derived terms====
+* {{l|nb|husstand}}
+* {{l|nb|i stand til}}
+* {{l|nb|standpunkt}}
+* {{l|nb|vannstand}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology 1===
+{{root|nn|ine-pro|*steh₂-}}
+From the old verb {{m|nn|stande}} {{q|replaced by {{l|nn|stå}}}}.
+
+====Pronunciation====
+* {{IPA|nn|/stɑnd/|/stɑnː/}} {{nn-pronu-note|s}}
+
+====Noun====
+{{nn-noun-m1}}
+
+# {{l|en|condition}}, {{l|en|order}}, {{l|en|state}}
+# {{l|en|height}}, {{l|en|level}}, {{l|en|reading}}
+
+=====Derived terms=====
+{{der3|nn
+|avstand
+|barometerstand
+|blomestand
+|blomsterstand
+|gjenstand
+|ektestand
+|fruktstand
+|frøkenstand
+|fråstand
+|husstand
+|i stand til
+|middelstand
+|motstand
+|oljestand
+|oppstand
+|påstand
+|sivilstand
+|standpunkt
+|stillstand
+|tilstand
+|ungkarsstand
+|ustand
+|vasstand
+|velstand
+}}
+
+=====Related terms=====
+{{rel3|nn
+|anstand
+|bestand
+|bistand
+|forstand
+}}
+
+===Etymology 2===
+{{root|nn|ine-pro|*steh₂-}}
+From {{der|nn|de|Stand}}. Doublet of Etymology 1.
+
+====Pronunciation====
+* {{IPA|nn|/stɑnd/|/stɑnː/}} {{nn-pronu-note|s}}
+
+====Noun====
+{{nn-noun|m|standen|stender|stendene}}
+
+# {{lb|nn|historical}} an {{l|en|estate}} {{q|social class}}
+
+=====Derived terms=====
+{{der3|nn
+|adelsstand
+|bondestand
+|borgarstand
+|embetsstand
+|fjerdestand
+|forretningsstand
+|handelsstand
+|legestand
+|lækjarstand
+|middelstand
+|prestestand
+|riddarstand
+|tredjestand
+|understand
+}}
+
+===Etymology 3===
+{{root|nn|ine-pro|*steh₂-}}
+From {{der|nn|en|stand}}. Doublet of Etymology 1.
+
+====Pronunciation====
+* {{IPA|nn|/stænd/|/stænː/}} {{nn-pronu-note}}
+
+====Noun====
+{{nn-noun-m1}}
+
+# a {{l|en|stand}} {{q|e.g. at an exhibition}}
+
+===References===
+* {{R:ND}}
+
+----
+
+==Old English==
+
+===Etymology===
+From {{inh|ang|gem-pro|*standaz}}.
+
+===Pronunciation===
+* {{ang-IPA|stand}}
+
+===Noun===
+{{ang-noun|m}}
+
+# {{lb|ang|rare}} [[delay]]
+
+====Declension====
+{{ang-decl-noun-a-m|stand}}
+
+----
+
+==Old High German==
+
+===Etymology===
+From {{inh|goh|gem-pro|*standaz}}, whence also {{cog|ang|stand}}.
+
+===Noun===
+{{goh-noun|m}}
+
+# [[#English|stand]] {{rfclarify|goh}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+{{ubor|pt|en|stand}}.
+
+===Pronunciation===
+{{pt-IPA|pt=sstande}}
+
+===Noun===
+{{pt-noun|m|s}}
+
+# {{alternative form of|pt|estande|from=Portugal}}
+
+----
+
+==Romanian==
+
+===Etymology===
+{{bor+|ro|fr|stand}}, from {{der|ro|en|stand}}.
+
+===Noun===
+{{ro-noun|n|standuri}}
+
+# {{l|en|stand}}
+
+====Declension====
+{{ro-noun-n-uri}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{bor|es|en|stand}}.
+
+===Pronunciation===
+{{es-IPA}}
+{{es-IPA|estand}}
+
+===Noun===
+{{es-noun|m}}
+
+# {{l|es|stand}} {{gloss|enclosed structure in the street}}
+
+====Related terms====
+* {{l|es|estande}}
+
+===Further reading===
+* {{R:DRAE}}
