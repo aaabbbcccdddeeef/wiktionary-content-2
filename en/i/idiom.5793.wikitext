@@ -1,42 +1,332 @@
-{{wikipedia}}
+{{also|idiomatic|Idiom|idióm}}
+{{selfref|For Wiktionary's handling of idioms, see [[Wiktionary:Idioms]]}}
 ==English==
+
+===Etymology===
+From {{der|en|frm|idiome}}, and its source, {{der|en|LL.|-}} {{m|la|idioma}}, from {{der|en|grc|ἰδίωμα||a peculiarity, property, a peculiar phraseology, idiom}}, from {{m|grc|ἰδιοῦσθαι||to make one's own, appropriate to oneself}}, from {{m|grc|ἴδιος||one's own, pertaining to oneself, private, personal, peculiar, separate}}.
+
 ===Pronunciation===
-*[[w:AHD|AHD]]: ĭd'ē-əm
-*[[w:IPA|IPA]]: /ˈɪdɪəm/
-*[[w:SAMPA|SAMPA]]: /"IdI@m/
+* {{a|UK}} {{IPA|en|/ˈɪdi.əm/}}
+* {{audio|en|en-uk-idiom.ogg|Audio (GB)}}
+* {{audio|en|En-us-idiom.ogg|Audio (US)}}
+* {{rhymes|en|ɪdi.əm|s=3}}
 
-=== Noun ===
-# A [[phrase]] that cannot be fully understood from the separate meanings of the individual words which form it, but instead must be learned as a whole unit of meaning.
-#: ''You can't translate that literally.  It's an idiom.''
-# A manner of speaking, a way of expressing one's self
-
-==== Translations ====
-*Dutch: [[idioom]] ''n''
-*[[Esperanto]]: [[idiotismo]]
-*French: [[locution]] ''f'', [[expression]] ''f''
-*German: Idiom ''n'', [[Redewendung]] ''f''
-*[[Interlingua]]: [[idiotismo]], [[expression]]; [[idioma]]
-*Korean: [[숙어]] [[熟語]] (suk-eo)
-*Polish: idiom
-*Portuguese: [[idiotismo]], [[idiomatismo]], [[expressão]]; [[idioma]]
-*[[Romanica]]: [[idiotismo]] ''m'', [[expression]] ''f''; [[idioma]] ''f''
-*[[Russian]]: [[идиома]] ''f'', [[идиоматический оборот]] ''m'', [[идиоматическое выражение]] ''n''
-*Spanish: [[frase hecha]] <!-- is frase hecha a frase hecha? :) -->
-*Swedish: idiom
-*Turkish: [[deyim]]
-
-=== Related terms ===
-*[[idiomatic]]
-
-===See also===
-*[[listeme]]
-*[[:Category:Idioms]] for examples
-
-==German==
 ===Noun===
-'''Idiom''' ''n''
+{{en-noun|s|idiomata}} {{q|sometimes used uncountably}}
+{{wikipedia|idiom (language structure)|mul=variety (linguistics)}}
 
-#idiom
+# {{senseid|en|language structure}} A [[manner]] of speaking, a mode of expression peculiar to a language, person, or group of people.
+#: {{ux|en|In English, '''idiom''' requires the indefinite article in a phrase such as "she's an engineer", whereas in Spanish, idiom forbids it.}}
+#: {{ux|en|Some of the usage prescriptions improved clarity and were kept; others that yielded discordant violations of '''idiom''' were eventually revised.}}
+#: {{synonyms|en|idiomaticness|idiomaticity}}
+## {{senseid|en|in programming}} {{lb|en|programming}} A programming construct or phraseology that is characteristic of the language.
+##* {{quote-book|en|2005|Magnus Lie Hetland|Beginning Python: From Novice to Professional|page=100|isbn=159059519X
+|passage=I have to use the same assignment and call to raw_input in two places. How can I avoid that? I can use the {{monospace|while True/break}} '''idiom''': {{...}}}}
+# {{senseid|en|language variety}} A [[language]] or [[language]] [[variety]]; specifically, a restricted dialect used in a given historical period, context etc.
+#: {{ux|en|In the '''idiom''' of the day, they were sutlers, although today they'd probably be called vendors.}}
+#* '''2010''', {{w|Christopher Hitchens}}, "The ''Other'' L-Word", ''Vanity Fair'', 13 Jan 2010:
+#*: Many parents and teachers have become irritated to the point of distraction at the way the weed-style growth of "like" has spread through the '''idiom''' of the young.
+# {{senseid|en|phrasal expression}} An established phrasal expression whose meaning may not be deducible from the literal meanings of its component words.
+#: {{ux|en|She often spoke in '''idioms''', pining for salad days and complaining about pots calling the kettle black.}}
+#* '''2008''', Patricia Hampl, “You’re History”, in Patricia Hampl and Elaine Tyler May (editors), ''Tell Me True: Memoir, History, and Writing a Life'', Minnesota Historical Society, {{ISBN|9780873516303}}, [http://books.google.com/books?id=ETz9LJZ5s64C&pg=PA134&dq=idiom page 134]:
+#*: ''You’re history'', we say {{...}}. Surely it is an American '''idiom'''. Impossible to imagine a postwar European saying, “You’re history. . . . That’s history,” meaning fuhgeddaboudit, pal.
+# {{senseid|en|artistic}} An artistic [[style]] (for example, in art, architecture, or music); an [[instance]] of such a style.
+#: {{ux|en|the '''idiom''' of the expressionists}}
 
-[[de:Idiom]]
-[[Category:Greek derivations]]
+====Synonyms====
+* {{sense|language variety}} {{l|en|dialect}} {{qualifier|loosely}}, {{l|en|language}} {{qualifier|loosely}}, {{l|en|languoid}}, {{l|en|lect}}, {{l|en|vernacular}} {{qualifier|loosely}}
+* {{sense|phrase}} {{l|en|expression}} {{qualifier|loosely}}, {{l|en|form of words}} {{qualifier|loosely}}, {{l|en|idiotism}}, {{l|en|locution}} {{qualifier|loosely}}, {{l|en|phrase}} {{qualifier|loosely}}
+
+====Derived terms====
+{{der-top}}
+* {{l|en|idiomacy}}
+* {{l|en|idiomatic}}
+* {{l|en|idiomatical}}
+{{der-mid}}
+* {{l|en|idiomatically}}
+* {{l|en|idiomaticize}}
+{{der-bottom}}
+
+====Related terms====
+* {{l|en|idiolect}}
+* {{l|en|idiosyncratic}}
+* {{l|en|idiot}}
+
+====Translations====
+{{trans-top|manner of speaking}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|puhetapa}}, {{t+|fi|puheenparsi}}, {{t+|fi|idiomi}}
+* French: {{t+|fr|idiome|m}}
+* German: {{t+|de|Idiom|n}}, {{t+|de|Dialekt|m}}, {{t+|de|Mundart|f}}, {{t+|de|Redeweise|f}}, {{t+|de|Sprechweise|f}}
+* Hungarian: {{t+|hu|kifejezésmód}}, {{t|hu|szólásmód}}, {{t+|hu|idióma}}
+{{trans-mid}}
+* Irish: {{t|ga|cor cainte|m}}
+* Italian: {{t+|it|idioma|m}}, {{t+|it|parlata|f}}
+* Maori: {{t|mi|kīwaha}}
+* Russian: {{t+|ru|идио́ма|f}}, {{t+|ru|оборо́т ре́чи|m}}
+* Scottish Gaelic: {{t|gd|gnàthas-cainnt|m}}
+* Walloon: {{t+|wa|pårler|m}}, {{t+|wa|cåzaedje|m}}
+{{trans-bottom}}
+
+{{trans-top|language variety}}
+* Catalan: {{t+|ca|idioma|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|方言|tr=fāngyán}}
+* Finnish: {{t|fi|kielimuunnos}}
+* French: {{t+|fr|idiome|m}}
+* German: {{t+|de|Idiom|m}}, {{t+|de|Sprache|f}}, {{t+|de|Ausdrucksweise|f}}
+* Hebrew: {{t+|he|נִיב|m|tr=niv}}
+* Hungarian: {{t+|hu|nyelvváltozat}}, {{t+|hu|idióma}}
+* Indonesian: {{t+|id|idiom}}
+{{trans-mid}}
+* Italian: {{t+|it|dialetto|m}}, {{t+|it|vernacolo|m}}
+* Japanese: {{t+|ja|方言|tr=ほうげん, hōgen}}, {{t+|ja|訛り|tr=なまり, namari}}
+* Korean: {{t+|ko|언어(言語)}}, {{t+|ko|어법(語法)}}
+* Polish: {{t+|pl|mowa|f}}, {{t+|pl|narzecze|n}}
+* Russian: {{t+|ru|идио́м}}
+* Serbo-Croatian: {{t+|sh|idiom|m}}
+* Slovak: {{t|sk|idióm}}
+* Spanish: {{t+|es|idioma|m}}
+* Walloon: {{t+|wa|pårler|m}}, {{t|wa|djårgon|m}}, {{t+|wa|patwès|m}} {{qualifier|pejorative}}
+{{trans-bottom}}
+
+{{trans-top|idiomatic expression}}
+* Albanian: {{t+|sq|idiomë|f}}
+* Arabic: {{t+|ar|اِصْطِلَاح|m}}, {{t|ar|مُصْطَلَح|m}}
+* Armenian: {{t+|hy|դարձված}}
+* Azerbaijani: {{t|az|deyim}}, {{t|az|idiom}}, {{t+|az|idioma}}
+* Belarusian: {{t|be|ідыёма|f}}
+* Bengali: {{t|bn|বাগ্ধারা}}, {{t+|bn|বাগধারা}}
+* Bulgarian: {{t+|bg|идио́м|m}}
+* Burmese: {{t|my|အီဒီယမ်}}
+* Catalan: {{t|ca|idiotisme|m}}
+* Chinese:
+*: Cantonese: {{t|yue|成語}}, {{t|yue|成语|tr=sing4 jyu5}}
+*: Mandarin: {{t+|cmn|成語}}, {{t+|cmn|成语|tr=chéngyǔ}}, {{t+|cmn|習慣用語}}, {{t+|cmn|习惯用语|tr=xíguàn yòngyǔ}}, {{t+|cmn|俗語}}, {{t+|cmn|俗语|tr=súyǔ}}, {{t+|cmn|習語}}, {{t+|cmn|习语|tr=xíyǔ}}
+* Czech: {{t+|cs|idiom|m}}
+* Danish: {{t+|da|idiom|n}}
+* Dutch: {{t+|nl|idioom|n}}, {{t+|nl|taaleigen|n}}
+* Esperanto: {{t+|eo|idiotismo}}
+* Estonian: {{t|et|idioom}}
+* Finnish: {{t+|fi|idiomi}}, {{t+|fi|sanonta}}
+* French: {{t+|fr|idiotisme|m}} <!--these mean the same as italian idiotismo and spanish idiotismo -->, {{t+|fr|idiome}}
+* Georgian: {{t|ka|იდიომი}}, {{t|ka|იდიომატური გამოთქმა}}
+* German: {{t+|de|Idiom|n}}, {{t+|de|Redewendung|f}}, {{t+|de|Redensart|f}}, {{t+|de|Ausdrucksweise|f}}, {{t|de|idiomatischer Ausdruck|m}}
+* Greek: {{t+|el|ιδίωμα|n}}
+* Hebrew: {{t+|he|מַטְבֵּעַ לָשׁוֹן|m|tr=matbéa' lashón}}, {{t+|he|נִיב|m|tr=niv|sc=Hebr}}
+* Hindi: {{t+|hi|मुहावरा|m}}
+* Hungarian: {{t+|hu|idióma}}, {{t+|hu|beszédfordulat}}, {{t+|hu|fordulat}}, {{t+|hu|kifejezés}}, {{t+|hu|állandósult szókapcsolat}}
+* Icelandic: {{t+|is|orðatiltæki|n}}
+* Ido: {{t+|io|idiotismo}}
+* Indonesian: {{t+|id|idiom}}
+* Interlingua: {{t-check|ia|idiotismo}} <!--this translates "phrase", "expression" rather than "idiom": [[expression#Interlingua|expression]]-->, {{t-check|ia|idioma}}
+* Italian: {{t+|it|espressione idiomatica|f}}, {{t+|it|idiotismo|m}}, {{t|it|idiomatismo|m}}, {{t+|it|locuzione|f}}
+* Japanese: {{t+|ja|熟語|tr=じゅくご, jukugo}}, {{t+|ja|成句|tr=せいく, seiku}}
+* Kazakh: {{t+|kk|идиома}}
+* Korean: {{t+|ko|관용구(慣用句)}}, {{t|ko|숙어(熟語)}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|زاراوە}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|идиома}}
+* Lao: {{t|lo|ສຳນວນ}}
+* Latvian: {{t|lv|idioma|f}}
+* Lithuanian: {{t+|lt|idioma|f}}
+* Macedonian: {{t|mk|идио́м|m}}
+* Manx: {{t|gv|corghlare|f}}
+* Maori: {{t|mi|kīrehu}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|хэлц үг}}
+* Norwegian:
+*: Bokmål: {{t+|nb|idiom|n}}
+* Old English: {{t|ang|āgensprǣċ|f}}, {{t|ang|ġecyndesprǣċ|f}}
+* Persian: {{t+|fa|اصطلاح|tr=estelâh}}
+* Polish: {{t+|pl|idiom|m}}
+* Portuguese: {{t+|pt|idioma|m}}, {{t|pt|[[expressão]] [[idiomático|idiomática]]|f}}
+* Romanian: {{t+|ro|idiom}}
+* Russian: {{t+|ru|идио́ма|f}}, {{t|ru|идиомати́ческий оборо́т|m}}, {{t|ru|идиомати́ческое выраже́ние|n}}, {{t+|ru|фразеологи́зм|m}}
+* Scottish Gaelic: {{t|gd|gnàthas-cainnt|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|идѝо̄м|m}}
+*: Roman: {{t+|sh|idìōm|m}}
+* Slovak: {{t|sk|idióm}}
+* Slovene: {{t|sl|idiom|m}}
+* Spanish: {{t+|es|idiotismo|m}}, {{t|es|idiomatismo|m}}, {{t+|es|modismo|m}}
+* Swedish: {{t+|sv|idiom|n}}, {{t|sv|idiomatiskt uttryck|n}}
+* Tagalog: {{t|tl|kawikaan}}
+* Tajik: {{t|tg|идиома}}, {{t|tg|истилоҳ}}
+* Telugu: {{t+|te|జాతీయము}}
+* Thai: {{t+|th|สำนวน}}
+* Turkish: {{t+|tr|deyim}}
+* Ukrainian: {{t|uk|ідіо́ма|f}}
+* Urdu: {{t+|ur|محاورہ|m|tr=muhāvra}}
+* Uzbek: {{t+|uz|idioma}}, {{t+|uz|istiloh}}
+* Vietnamese: {{t+|vi|thành ngữ}}, {{t+|vi|thổ ngữ}}
+* Walloon: {{t+|wa|ratourneure|f}}
+* Welsh: {{t+|cy|idiom}}
+{{trans-bottom}}
+
+{{trans-top|distinct style of art, etc}}
+* Bulgarian: {{t|bg|и́зразни сре́дства|n-p}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|käsiala}}
+{{trans-mid}}
+* German: {{t+|de|Stil|m}}, {{t+|de|Ausdrucksweise|f}}
+* Japanese: {{t+|ja|様式|tr=ようしき, yōshiki}}
+* Russian: {{t|ru|[[сре́дство]] [[выражение|выраже́ния]]|n}}
+{{trans-bottom}}
+
+{{trans-top|instance of such style}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t|fi|kädenjälki}}
+{{trans-mid}}
+* German: {{t+|de|Vertreter|m}}, {{t+|de|Ausdruck|m}}
+* Russian: {{t-needed|ru}}
+{{trans-bottom}}
+
+====See also====
+* [[:Category:Idioms by language]]
+
+====Further reading====
+* {{pedia}}
+* {{R:OneLook}}
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:SILGlossary}}
+
+===Anagrams===
+* {{anagrams|en|a=diimo|imido|imido-|modii}}
+
+{{C|en|Figures of speech}}
+
+----
+
+==Czech==
+
+===Pronunciation===
+* {{cs-IPA|idyjom}}
+* {{hyphenation|cs|idiom}}
+
+===Noun===
+{{cs-noun|g=m-in}}
+
+# {{l|en|idiom}} {{gloss|established expression whose meaning is not deducible from the literal meanings of its component words}}
+#* '''1972''', ''Nový orient'':
+#*: Před běžným „Nashledanou", které Peršané vyjadřují slovy „nechť je Bůh vaším opatrovníkem", dáme přednost idiomu „vaše laskavost nebo pozornost je (byla) nesmírná" nebo „nechť se vysoká laskavost nezmenší" ...
+#* '''1985''', ''Studie a práce linguistické'':
+#*: Stejně málo významné byly pro IF pokusy přiblížit význam idiomů ve vágních pojmech přenesenosti, obraznosti, průhlednosti apod.
+#* '''1996''', ''Časopis pro moderní filologii'':
+#*: Trochu konzervativní český uživatel Schemannova slovníku bude možná zpočátku postrádat u některých idiomů jejich vysvětlení, jak byl zvyklý kupříkladu z dosud (do r. 1993) nejobsažnějšího slovníku tohoto typu ...
+#* '''2005''', Zdeněk Stříbrný, ''Proud času'':
+#*: Vyjádřil to pěkným anglickým idiomem „They have added insult to your injury“.
+#* '''2014''', František Čermák, ''Jazyk a slovník. Vybrané lingvistické studie'':
+#*: U idiomů pak můžeme postulovat existenci především početných sekundárních symbolů (''otevřená hlava''), popř. ikonů (''kamenný obličej''), méně často však už sekundárních indexů (''co do'', ''kór když'').
+
+====Declension====
+{{cs-decl-noun
+|idiom|idiomu|idiomu|idiom|idiome|idiomu|idiomem
+|idiomy|idiomů|idiomům|idiomy|idiomy|idiomech|idiomy
+}}
+
+===Further reading===
+* {{R:PSJC}}
+* {{R:SSJC}}
+* {{R:ASCS}}
+* [https://www.czechency.org/slovnik/IDIOM idiom] in ''Nový encyklopedický slovník češtiny'', czechency.org
+* {{R:Nase rec|artno=6460|title=Česká frazeologie|year=1984}}
+
+----
+
+==Indonesian==
+
+===Etymology===
+From {{der|id|nl|idioom}}.
+
+===Noun===
+{{id-noun}}
+
+# {{l|en|idiom}} {{gloss|idiomatic expression}}
+# {{l|en|idiom}} {{gloss|artistic style}}
+# {{lb|id|rare|dated}} {{l|en|idiom}} {{gloss|language or language variety}}
+
+===Further reading===
+* {{R:KBBI Daring}}
+
+----
+
+==Polish==
+{{wp|lang=pl}}
+
+===Pronunciation===
+{{pl-p|a=Pl-idiom.ogg}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# {{l|en|idiom}} {{gl|idiomatic expression}}
+# {{l|en|idiom}} {{gl|artistic style}}
+# {{lb|pl|rare|dated}} {{l|en|idiom}} {{gl|language or language variety}}
+
+====Declension====
+{{pl-decl-noun
+|idiom|idiomy
+|idiomu|idiomów
+|idiomowi|idiomom
+|idiom|idiomy
+|idiomem|idiomami
+|idiomie|idiomach
+|idiomie|idiomy
+}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{bor|ro|fr|idiome}}.
+
+===Pronunciation===
+* {{IPA|ro|/i.diˈom/}}
+
+===Noun===
+{{ro-noun|n|idiomuri}}
+
+# {{l|en|idiom}}
+
+====Declension====
+{{ro-noun-n-uri}}
+
+===Further reading===
+* {{R:DEX}}
+
+----
+
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|sh|/idǐoːm/}}
+* {{hyphenation|sh|i|di|om}}
+
+===Noun===
+{{sh-noun|g=m|head=idìōm}}
+
+# {{l|en|idiom}} {{gloss|idiomatic expression}}
+# {{l|en|idiom}} {{gloss|artistic style}}
+# {{lb|sh|linguistics}} {{l|en|idiom}} {{gloss|language or language variety}}
+
+====Declension====
+{{sh-decl-noun
+|idìōm|idiomi
+|idióma|idioma
+|idiomu|idiomima
+|idiom|idiome
+|idiome|idiomi
+|idiomu|idiomima
+|idiomom|idiomima
+}}
