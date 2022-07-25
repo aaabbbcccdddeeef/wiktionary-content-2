@@ -1,71 +1,282 @@
+{{selfref|See also [[Wiktionary:Pronunciation]]}}
 ==English==
+
 ===Etymology===
-From Latin '''[[pronuntiatio]]''', noun of action from perfect passive participle '''[[pronuntiatus]]''', from verb ''[[pronuntiare]]'', ''[[proclaim]]'', from '''[[pro-]]''' ''for'' + '''[[nuntiare]]''' ''announce''.
+From {{inh|en|enm|pronunciacioun}}, from {{der|en|frm|prononciation}}, {{m|frm|pronunciation}}, from {{der|en|la|prōnūntiātiō}}, noun of action from perfect passive participle {{m|la|prōnūntiātus}}, from verb {{m|la|prōnūntiāre||proclaim}}, from {{m|la|prō-||for}} + {{m|la|nūntiāre||announce}}. {{doublet|en|pronuntiatio}}.
 
 ===Pronunciation===
-*[[IPA]]: /prəʊˌnʌnsɪˈeɪʃən/ ''or'' /p1rəˌnʌnsɪˈeɪʃən/
+* {{enPR|prə-nŭn'-sē-ā′-shən}}, {{IPA|en|/pɹəˌnʌn.siˈeɪ.ʃən/|[pʰɹəˌnʌn.siˈeɪ.ʃən]}}
+* {{enPR|prə-noun'-sē-ā′-shən}} {{IPA|en|/pɹəˌnaʊn.siˈeɪ.ʃən/}} {{q|common but proscribed, corresponding to the misspelling {{m|en|pronounciation}}}}
+* {{audio|en|En-us-pronunciation.ogg|Audio (US)}}
+* {{rhymes|en|eɪʃən|s=5}}
+* {{hyph|en|pro|nun|ci|a|tion}}
 
 ===Noun===
-'''pronunciation''' 
-#The way words are made to sound when spoken.
-#:''What is the correct pronunciation of "hiccough"?''
-#:''His Italian pronunciation is terrible.''
+{{en-noun|~}}
+
+# {{lb|en|countable}} The formal or informal way in which a word is made to sound when spoken.
+#: {{ux|en|What is the '''pronunciation''' of "hiccough"?}}
+#* {{RQ:Critical Pronouncing Dictionary|page=232|ppage=1|passage=☞ This word [{{m|en|earth}}] is liable to a coarſe vulgar '''pronunciation''', as if written ''Urth'';{{...}}}}
+# {{lb|en|uncountable}} The way in which the words of a language are made to sound when speaking.
+#: {{ux|en|His Italian '''pronunciation''' is terrible.}}
+# {{lb|en|countable}} The act of pronouncing or uttering a vocable.
+#* '''1831''', Thomas Oughton, James Thomas Law, ''Forms of Ecclesiastical Law'' (page 62)
+#*: The second part is the sentence, which is the judge's '''pronunciation''' upon a cause depending between two in controversy.
+
+====Antonyms====
+* {{l|en|mispronunciation}}
+
+====Hyponyms====
+* {{l|en|Received Pronunciation}}
+* {{l|en|spelling pronunciation}}
+
+====Derived terms====
+{{der3|en
+|pronunciation dictionary
+|pronunciation guide
+|pronunciation respelling
+|pronunciational
+}}
+
+====Related terms====
+* {{l|en|pronounce}}
+* {{l|en|mispronounce}}
 
 ====Translations====
+{{trans-top|sound of a word}}
+* Afrikaans: {{t+|af|uitspraak}}
+* Albanian: {{t+|sq|shqiptim|m}}
+* Amharic: {{t|am|አነጋገር}}
+* Arabic: {{t|ar|نُطْق|m}}, {{t+|ar|لَفْظ|m}}, {{t|ar|تَلَفُّظ|m}}
+*: Hijazi Arabic: {{t|acw|نُطق|m|tr=nuṭg}}
+* Armenian: {{t+|hy|արտասանություն}}
+* Asturian: {{t+|ast|pronunciación|f}}
+* Azerbaijani: {{t+|az|tələffüz}}
+* Bashkir: {{t|ba|әйтелеш}}
+* Belarusian: {{t|be|вымаўле́нне|n}}, {{t|be|вымо́ва|f}}
+* Bengali: {{t+|bn|উচ্চারণ}}
+* Bikol Central: {{t|bcl|sawod}}, {{t+|bcl|sayod}}
+* Breton: {{t+|br|distagadur|m}}
+* Bulgarian: {{t+|bg|произноше́ние|n}}, {{t+|bg|и́зговор|m}}
+* Burmese: {{t+|my|အသံထွက်}}
+* Catalan: {{t+|ca|pronunciació|f}}, {{t+|ca|pronúncia|f}}
+* Chinese:
+*: Cantonese: {{t|yue|發音}}, {{t|yue|发音|tr=faat3 jam1}}
+*: Dungan: {{t|dng|куйин}}
+*: Mandarin: {{t+|cmn|發音}}, {{t+|cmn|发音|tr=fāyīn}}
+*: Min Nan: {{t+|nan|發音}}, {{t|nan|发音|tr=hoat-im}}
+* Corsican: {{t+|co|prununzia|f}}, {{t+|co|prununcia|f}}
+* Czech: {{t+|cs|výslovnost|f}}
+* Danish: {{t+|da|udtale|c}}
+* Dutch: {{t+|nl|uitspraak|f}}
+* Esperanto: {{t|eo|elparolo}}
+* Estonian: {{t+|et|hääldus}}
+* Finnish: {{t+|fi|ääntämys}}
+* French: {{t+|fr|prononciation|f}}
+* Galician: {{t+|gl|pronunciación|f}}
+* Gamilaraay: {{t|kld|dhaalan}}
+* Georgian: {{t|ka|წარმოთქმა}}, {{t|ka|გამოთქმა}}
+* German: {{t+|de|Aussprache|f}}
+* Greek: {{t+|el|προφορά|f}}
+* Hebrew: {{t|he|הגייה|f|tr=hagiya|alt=הגייה \ הֲגִיָּה}}
+* Hindi: {{t+|hi|उच्चारण|m}}
+* Hungarian: {{t+|hu|kiejtés}}, {{t|hu|ejtés}}
+* Icelandic: {{t+|is|framburður|m}}
+* Indonesian: {{t|id|cara baca}}, {{t|id|pelafalan}}
+* Interlingua: {{t+|ia|pronunciation}}
+* Irish: {{t|ga|fuaimniú|m}}
+* Italian: {{t+|it|pronuncia|f}}, {{t+|it|pronunzia|f}}
+* Japanese: {{t+|ja|発音|tr=はつおん, hatsuon}}
+* Kapampangan: {{t|pam|agkas}}
+* Kashmiri: {{t+|ks|وۄشژار}}
+* Kazakh: {{t+|kk|айту}}
+* Khmer: {{t+|km|របៀបបន្លឺសូរ}}
+* Korean: {{t+|ko|발음(發音)}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|گۆ کردن}}
+*: Northern Kurdish: {{t+|kmr|bilêvkirin}}
+* Kyrgyz: {{t+|ky|айтуу}}
+* Lao: {{t|lo|ການອອກສຽງ}}
+* Latvian: {{t|lv|izruna|f}}
+* Lithuanian: {{t+|lt|tarimas|m}}
+* Macedonian: {{t|mk|изговор|m}}
+* Malay: {{t+|ms|sebutan}}
+* Malayalam: {{t+|ml|ഉച്ചാരണം}}
+* Maori: {{t|mi|whakahua}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|дуудлага}}, {{t|mn|дуудахуй}}
+* Northern Sami: {{t|se|báhkkodit}}
+* Norwegian: {{t+|no|uttale|m}}
+* Pashto: {{t+|ps|تلفظ|m|tr=talaffoz}}
+* Persian: {{t+|fa|تلفظ|tr=talaffoz}}
+* Polish: {{t+|pl|wymowa|f}}
+* Portuguese: {{t+|pt|pronúncia|f}}
+* Romanian: {{t+|ro|pronunție|f}}, {{t+|ro|pronunțare|f}}
+* Russian: {{t+|ru|произноше́ние|n}}
+* Rusyn: {{t|rue|высло́вность|f}}
+* Samogitian: {{t|sgs|tarėms}}
+* Sardinian: {{t|sc|pronuntzia|f}}
+* Scots: {{t|sco|pronunciation}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|и̏згово̄р|m}}
+*: Roman: {{t+|sh|ȉzgovōr|m}}
+* Sinhalese: {{t+|si|උච්චාරණය}}
+* Slovak: {{t|sk|výslovnosť|f}}
+* Slovene: {{t+|sl|izgovorjáva|f}}
+* Spanish: {{t+|es|pronunciación|f}}
+* Swahili: {{t+|sw|matamshi}}
+* Swedish: {{t+|sv|uttal|n}}, {{t-check|sv|frambörd}}
+* Tagalog: {{t+|tl|bigkas}}
+* Tajik: {{t+|tg|талаффуз}}
+* Tamil: {{t+|ta|உச்சரிப்பு}}, {{t+|ta|பலுக்கல்}}
+* Tatar: {{t+|tt|әйтелеш}}
+* Thai: {{t+|th|การออกเสียง}}
+* Turkish: {{t+|tr|telaffuz}}
+* Turkmen: {{t|tk|aýdylyş}}, {{t|tk|käýinç}}
+* Ukrainian: {{t+|uk|вимо́ва|f}}, {{t+|uk|вимовля́ння|n}}
+* Uyghur: {{t|ug|تەلەپپۇز}}
+* Uzbek: {{t+|uz|talaffuz}}, {{t+|uz|aytilish}}
+* Vietnamese: {{t+|vi|phát âm|alt=cách phát âm}} ({{t|vi|發音}}), {{t+|vi|đọc|alt=cách đọc}}
+* West Flemish: {{t|vls|uutsproake}}
+* West Frisian: {{t|fy|útspraak}}
+* Yiddish: {{t|yi|אַרויסרעד|m}}
+{{trans-bottom}}
 
-{| border=0 width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*Catalan: [[pronunciació]] ''f''
-*Chinese: [[发音]]/[[發音]](fā yīn)
-*Czech: [[výslovnost]] ''f''
-*Danish: [[udtale]]
-*Dutch: [[uitspraak]] ''f''
-*Esperanto: [[prononco]]
-*Finnish: [[ääntämys]]
-*French: [[prononciation]] ''f''
-*Frisian: [[útspraak]]
-*German: [[Aussprache]] ''f''
-*Hebrew: [[ביטוי]]
-*Indonesian: [[lafal]], [[cara]] [[baca]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*Interlingua: pronunciation
-*Italian: [[pronuncia]] ''f''
-*Japanese: [[発音]] (はつおん, hatsuon)
-*Korean: [[발음]] [發音] (baleum)
-*Latin: [[pronuntiatio]] (''nominative''), [[pronuntiationis]] (''genitive'')
-*Norwegian: [[uttale]] ''m''
-*Polish: [[wymowa]] ''f''
-*Portuguese: [[pronúncia]], [[pronunciação]], [[prolação]]
-*Russian: [[произношение]]
-*Spanish: [[pronunciación]] ''f''
-*Swedish: [[uttal]]
-|}
-|}
+{{trans-top|way in which words are pronounced}}
+* Afrikaans: {{t+|af|uitspraak}}
+* Albanian: {{t+|sq|shqiptim|m}}
+* Amharic: {{t|am|አነጋገር}}
+* Arabic: {{t+|ar|لَفْظ|m}}, {{t|ar|نُطْق|m}}, {{t|ar|تَلَفُّظ|m}}
+* Armenian: {{t+|hy|արտասանություն}}
+* Asturian: {{t+|ast|pronunciación|f}}
+* Azerbaijani: {{t+|az|tələffüz}}
+* Bashkir: {{t|ba|әйтелеш}}
+* Belarusian: {{t|be|вымаўле́нне|n}}, {{t|be|вымо́ва|f}}
+* Bengali: {{t+|bn|উচ্চারণ}}
+* Bikol Central: {{t|bcl|pagsayod}}
+* Bulgarian: {{t+|bg|произноше́ние|n}}, {{t+|bg|и́зговор|m}}
+* Catalan: {{t+|ca|pronunciació|f}}, {{t+|ca|pronúncia|f}}
+* Chinese:
+*: Cantonese: {{t|yue|發音}}, {{t|yue|发音|tr=faat3 jam1}}
+*: Mandarin: {{t+|cmn|發音}}, {{t+|cmn|发音|tr=fāyīn}}
+*: Min Nan: {{t+|nan|發音}}, {{t|nan|发音|tr=hoat-im}}
+* Czech: {{t+|cs|výslovnost|f}}
+* Danish: {{t+|da|udtale}}
+* Dutch: {{t+|nl|uitspraak|f}}
+* Esperanto: {{t+|eo|prononco}}
+* Estonian: {{t+|et|hääldus}}
+* Finnish: {{t+|fi|ääntämys}}, {{t+|fi|ääntäminen}}
+* French: {{t+|fr|prononciation|f}}
+* Georgian: {{t|ka|წარმოთქმა}}, {{t|ka|გამოთქმა}}, {{t|ka|აქცენტი}}
+* German: {{t+|de|Aussprache|f}}
+* Greek: {{t+|el|προφορά}}
+* Hebrew: {{t|he|ביטוי|m|tr=bitúi|alt=ביטוי \ בִּטּוּי}}, {{t|he|הגייה|f|tr=hagiya|alt=הגייה \ הֲגִיָּה}}
+* Hindi: {{t+|hi|उच्चारण|m}}, {{t|hi|अनुलेखन}}
+* Hungarian: {{t+|hu|kiejtés}}
+* Icelandic: {{t+|is|framburður|m}}
+* Indonesian: {{t+|id|lafal}}, {{t|id|cara baca}}, {{t+|id|ucapan}}, {{t+|id|pengucapan}}
+* Interlingua: {{t+|ia|pronunciation}}
+* Italian: {{t+|it|pronuncia|f}}
+* Japanese: {{t+|ja|発音|tr=はつおん, hatsuon}}
+* Kannada: {{t+|kn|ಉಚ್ಚಾರಣೆ}}
+* Kazakh: {{t+|kk|айту}}
+* Khmer: {{t+|km|របៀបបន្លឺសូរ}}
+* Korean: {{t+|ko|발음(發音)}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|bilêvkirin}}
+* Kyrgyz: {{t+|ky|айтуу}}
+* Lao: {{t|lo|ການອອກສຽງ}}
+{{trans-mid}}
+* Latin: {{t|la|prōnuntiātiō|f}}
+* Latvian: {{t|lv|izruna|f}}
+* Lithuanian: {{t+|lt|tarimas|m}}
+* Macedonian: {{t|mk|изговор|m}}
+* Malay: {{t+|ms|sebutan}}
+* Malayalam: {{t+|ml|ഉച്ചാരണം}}
+* Maltese: {{t+|mt|pronunzja|f}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|дуудлага}}, {{t|mn|дуудахуй}}
+* Norwegian: {{t+|no|uttale|m}}
+* Pashto: {{t+|ps|تلفظ|m|tr=talafóz}}
+* Persian: {{t+|fa|تلفظ|tr=talaffoz}}
+* Polish: {{t+|pl|wymowa|f}}
+* Portuguese: {{t+|pt|pronúncia}}, {{t+|pt|pronunciação|f}}, {{t+|pt|prolação|f}}
+* Romanian: {{t+|ro|pronunție|f}}, {{t+|ro|pronunțare|f}}
+* Russian: {{t+|ru|произноше́ние|n}}, {{t+|ru|вы́говор|m}}, {{t+|ru|акце́нт|m}}
+* Rusyn: {{t|rue|высло́вность}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|и̏згово̄р|m}}
+*: Roman: {{t+|sh|ȉzgovōr|m}}
+* Sinhalese: {{t+|si|උච්චාරණය}}
+* Slovak: {{t|sk|výslovnosť|f}}
+* Slovene: {{t+|sl|izgovorjáva|f}}
+* Spanish: {{t+|es|pronunciación|f}}
+* Swedish: {{t+|sv|uttal|n}}
+* Tagalog: {{t+|tl|pagbigkas}}
+* Tajik: {{t+|tg|талаффуз}}
+* Tamil: {{t+|ta|உச்சரிப்பு}}
+* Tatar: {{t+|tt|әйтелеш}}
+* Telugu: {{t|te|ఉచ్ఛారణ}}
+* Thai: {{t|th|เสียงอ่าน}}, {{t+|th|การออกเสียง}}
+* Tibetan: {{t|bo|སྒྲ}}
+* Turkish: {{t+|tr|söyleyiş}}, {{t+|tr|telaffuz}}
+* Turkmen: {{t|tk|aýdylyş}}, {{t|tk|käýinç}}
+* Ukrainian: {{t+|uk|вимо́ва|f}}, {{t+|uk|вимовля́ння|n}}
+* Urdu: {{t|ur|تلفظ|tr=talaffoz}}
+* Uyghur: {{t|ug|تەلەپپۇز}}
+* Uzbek: {{t+|uz|talaffuz}}
+* Vietnamese: {{t+|vi|phát âm|alt=cách phát âm}} ({{t|vi|發音}})
+* Welsh: {{t+|cy|cynaniad}}
+* Yiddish: {{t|yi|אויסשפּראַך|f}}, {{t|yi|אַרויסרעד|m}}
+* Zhuang: {{t|za|fatyaem}}
+{{trans-bottom}}
+
+{{ttbc-top}}
+* Volapük {{t+check|vo|pronimag}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===See also===
-*[[SAMPA]]
-*[[w:pronunciation|Wikipedia article on pronunciation]]
-*[[phoneme]]
-*[[Wiktionary:Pronunciation key|Wiktionary's pronunciation key]]
+* {{l|en|orthoepy}}
+* {{l|en|phoneme}}
+* {{l|en|Wiktionary:Pronunciation}}
+
+===Further reading===
+* {{pedia}}
+
+{{c|en|Talking}}
 
 ----
+
 ==Interlingua==
+
 ===Pronunciation===
-*[[IPA]]: /pronuntsja'tsjon/
+* {{IPA|ia|/pronuntsjaˈtsjon/}}
 
 ===Noun===
-'''pronunciation'''
+{{ia-noun|es}}
 
-#pronunciation
-#pronunciation, [[proclamation]], [[manifest]]
+# {{l|en|pronunciation}}
+# {{l|en|pronunciation}} [[proclamation]], [[manifest]]
 
 ====Synonyms====
-*(''proclamation'') [[pronunciamento]]
+* {{sense|proclamation}} {{l|ia|pronunciamento}}
 
-[[nl:pronunciation]]
-[[pt:Pronunciation]]
+----
+
+==Middle French==
+
+===Alternative forms===
+* {{alter|frm|prononciation}}
+
+===Noun===
+{{frm-noun|f}}
+
+# [[oration]]; [[speech]]; [[talk]] (act of expressing a message verbally)
+# {{l|en|pronunciation}}; [[pronouncement]] (of a verdict)
+# {{l|en|pronunciation}}
+
+====Descendants====
+* {{desc|fr|prononciation}}
+* {{desctree|bor=1|enm|pronunciacioun}}
