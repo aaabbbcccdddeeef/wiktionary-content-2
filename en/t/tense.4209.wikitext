@@ -1,21 +1,233 @@
-===Noun===
-#(''[[grammar]]''): the form of a [[verb]] which depends upon when an action or state of being occurs or exists. The basic tenses in English are present, past and future. English also has [[perfect tense]]s ([[present tense|present]] perfect, [[past tense|past]] perfect and [[future tense|future]] perfect) and [[progressive tense]]s.
+{{also|tensé}}
+==English==
+{{wikipedia}}
 
-====Translations====
-*[[Dutch]]: [[tijd]] ''m''
-*Finnish: [[aikamuoto]]
-*French: [[temps]] ''m''
-*Italian: [[tempo]] ''m''
-*Japanese: [[時制]] (じせい)
+===Pronunciation===
+* {{enPR|tĕns}}, {{IPA|en|/tɛns/}}
+* {{audio|en|en-us-tense.ogg|Audio (US)}}
+* {{rhymes|en|ɛns|s=1}}
 
-===Adjective===
-#showing signs of stress or strain; not relaxed.
+===Etymology 1===
+{{root|en|ine-pro|*tend-|id=stretch}}
+From {{inh|en|enm|tens}}, from {{der|en|fro|tens}} (modern {{cog|fr|temps}}), from {{der|en|la|tempus}}. {{doublet|en|tempo|tempus}}.
 
-==== Translations ====
-*Dutch: [[gespannen]]
+====Noun====
+{{en-noun}}
+
+# {{senseid|en|grammar}}{{lb|en|grammar|countable}} Any of the forms of a [[verb]] which [[distinguish]] when an [[action]] or state of being [[occur]]s or [[exist]]s.
+#: ''The basic '''tenses''' in English are present, past{{,}} and future.''
+# {{lb|en|linguistics|grammar|countable}} An {{w|inflection|inflected}} form of a verb that indicates tense.
+#: ''English only has a present tense and a past tense; it has no future tense.''
+#* {{quote-book|en|url=https://gallica.bnf.fr/ark:/12148/bpt6k45595/f201.item|date=18 July 1530|author=Iohan Palſgrave|authorlink=John Palsgrave|title=Leſclarciſſement de la langue francoyſe{{...}}|publisher=Richard Pynſon, Iohan Haukyns|location=London|oclc=715474564|newversion=reprinted as|year2=1972|publisher2=Slatkine Reprints|location2=Genève|title2=Lesclarcissement de la langue françoyse|chapter=The Introduction|page=32|passage=In ſo moche that if any verbe be of the thyꝛde coniugation / I ſet out all his rotes and '''tenſes'''{{...}}}}
+# {{lb|en|linguistics|uncountable}} The property of indicating the point in time at which an action or state of being occurs or exists.
+#: ''Dyirbal verbs are not inflected for tense.''
+
+=====Usage notes=====
+* Some English-language authorities only consider inflected forms of verbs (i.e. the present and past tenses) as tenses, and not periphrastic forms such as the simple future with {{m|en|will}}.
+* Grammatically tense (the location of an event in time: past, present, future) is often distinguished from [[aspect]] (how an event occurs or is viewed by the speaker: finished, ongoing, habitual, etc.). So ''I am eating'' and ''I was eating'' have different tenses (present and past) but the same aspect (continuous), whereas ''I was eating'' and ''I had eaten'' have the same tense (past) and different aspects (continuous and perfect). However, it is common in English (especially in language teaching) to refer to aspects as tenses (e.g. ''the perfect tense'', ''the continuous tense'').
+
+=====Derived terms=====
+* {{l|en|tensal}}
+
+=====Related terms=====
+* ''See:'' [[:Category:en:Tenses]]
+
+=====Translations=====
+{{trans-top|verb forms distinguishing time}}
+* Afrikaans: {{t+|af|tyd}}, {{t|af|tempus}}
+* Albanian: {{t+|sq|kohë|f}}
+* Arabic: {{t|ar|صِيغَة|f}}, {{t|ar|صِيغَةُ الْفِعْل|f}}, {{t+|ar|زَمَن|m}}
+* Armenian: {{t+|hy|ժամանակ}}
+* Azerbaijani: {{t+|az|zaman}}
+* Belarusian: {{t|be|час|m}}
+* Bulgarian: {{t+|bg|вре́ме|n}}
+* Catalan: {{t+|ca|temps}}
+* Chinese:
+*: Mandarin: {{t+|cmn|時態|sc=Hani}}, {{t+|cmn|时态|tr=shítài|sc=Hani}}, {{t+|cmn|時制|sc=Hani}}, {{t+|cmn|时制|tr=shízhì|sc=Hani}}
+* Chuvash: {{t|cv|вӑхӑт}}
+* Czech: {{t+|cs|čas|m}}, {{t|cs|slovesný čas|m}}
+* Danish: {{t+|da|tempus|n}}
+* Dutch: {{t+|nl|tijd|m}}, {{t+|nl|tempus|n}}
+* Estonian: {{t|et|ajavorm}}, {{t+|et|aeg}}, {{t+|et|tempus}}
+* Faroese: {{t+|fo|tíð|f}}
+* Finnish: {{t+|fi|aikaluokka}}, {{t+|fi|aikamuoto}}, {{t+|fi|tempus}}
+* French: {{t+|fr|temps|m}}, {{t|fr|[[temps]] [[verbal]]|m}}
+* Georgian: {{t+|ka|დრო}}
+* German: {{t+|de|Zeit|f}}, {{t+|de|Tempus|n}}
+* Greek: {{t+|el|χρόνος|m}}
+*: Ancient: {{t|grc|χρόνος|m}}
+* Hebrew: {{t+|he|זְמַן|m|tr=z'man}}
+* Hindi: {{t+|hi|काल|m}}
+* Hungarian: {{t+|hu|igeidő}}
+* Icelandic: {{t+|is|tíð|f}}
+* Irish: {{t|ga|aimsir|f}}
+* Italian: {{t+|it|tempo|m}}
+* Japanese: {{t+|ja|時制|tr=じせい, jisei}}
+* Kazakh: {{t|kk|шақ}}
+* Korean: {{t+|ko|시제}}
+* Kyrgyz: {{t+|ky|чак}}
+{{trans-mid}}
+* Latin: {{t+|la|tempus|n}}
+* Latvian: {{t|lv|laiks|m}}
+* Lithuanian: {{t+|lt|laikas|m}}
+* Macedonian: {{t|mk|време|n}}
+* Malayalam: {{t+|ml|കാലം}}
+* Maori: {{t|mi|wā}}, {{t|mi|wātū}} {{qualifier|present tense}}, {{t|mi|wāheke}} {{qualifier|Future tense}}, {{t|mi|wāmua}} {{qualifier|Past tense}}
+* Middle English: {{t|enm|tens}}
+* Norman: {{t|nrf|temps du vèrbe|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|tempus}}
+* Persian: {{t+|fa|زمان|tr=zamân}}
+* Polish: {{t+|pl|czas|m-in}}
+* Portuguese: {{t+|pt|tempo|m}}
+* Romanian: {{t+|ro|timp|n}}
+* Russian: {{t+|ru|вре́мя|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|време|n}}, {{t|sh|вријеме|n}}
+*: Roman: {{t+|sh|vreme|n}}, {{t+|sh|vrijeme|n}}
+* Slovak: {{t+|sk|čas|m}}
+* Slovene: {{t+|sl|čas|m}}
+* Spanish: {{t+|es|tiempo|m}}, {{t|es|tiempo gramatical|m}}
+* Swahili: {{t+|sw|wakati}}
+* Swedish: {{t+|sv|tempus|n}}
+* Tajik: {{t+|tg|замон}}
+* Telugu: {{t+|te|కాలము}}
+* Thai: {{t+|th|กาล}}
+* Tibetan: {{t|bo|དུས་གསུམ}}
+* Turkish: {{t+|tr|zaman}}
+* Ukrainian: {{t+|uk|час|m}}
+* Uyghur: {{t|ug|زامان}}
+* Uzbek: {{t+|uz|zamon}}
+* Vietnamese: {{t+|vi|thì}}
+* Welsh: {{t+|cy|amser|m}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|grammar|transitive}} To apply a tense to.
+#: '''''tensing''' a verb''
+
+===Etymology 2===
+{{root|en|ine-pro|*tend-|id=stretch}}
+Borrowed from {{bor|en|la|tēnsus}}, one form of the past participle of {{m|la|tendō|t=stretch}}. Ultimately identical to Etymology 1.
+
+====Adjective====
+{{en-adj|er}}
+
+# [[show|Showing]] [[sign]]s of [[stress]] or [[strain]]; not [[relax]]ed.
+#: {{syn|en|stressed|unrelaxed}}
+#: {{ux|en|You need to relax, all this overtime and stress is making you '''tense'''.}}
+# Pulled [[taut]], without any [[slack]].
+
+=====Derived terms=====
+* {{l|en|hypertense}}
+
+=====Related terms=====
+* {{l|en|tend}}
+* {{l|en|tension}}
+* {{l|en|tent}}
+* {{l|en|intense}}
+
+=====Translations=====
+{{trans-top|showing stress or strain}}
+* Afrikaans: {{t|af|gespanne}}, {{t|af|styf}}
+* Bulgarian: {{t+|bg|напрегнат}}
+* Catalan: {{t+|ca|tens}}
+* Chinese:
+*: Mandarin: {{t+|cmn|緊|sc=Hani}}, {{t+|cmn|紧|tr=jǐn|sc=Hani}}, {{t+|cmn|緊張|sc=Hani}}, {{t+|cmn|紧张|tr=jǐnzhāng|sc=Hani}}
+* Czech: {{t|cs|napjatý|m}}
+* Dutch: {{t+|nl|gespannen}}, {{t+|nl|strak}}
+* Estonian: {{t|et|pingne}}, {{t|et|pinev}}
+* Finnish: {{t+|fi|kireä}}, {{t+|fi|jännittynyt}}, {{t+|fi|hermostunut}}
+* French: {{t+|fr|tendu}}
+* German: {{t+|de|gespannt}}, {{t+|de|angespannt}}, {{t+|de|verkrampft}} {{qualifier|figurative}}
+{{trans-mid}}
+* Greek: {{t+|el|τεταμένος|m}}
+* Hungarian: {{t+|hu|feszült}}
+* Icelandic: {{t|is|upptrekktur}}, {{t+|is|órólegur}}
+* Japanese: {{t+|ja|緊張|tr=きんちょうした, kinchō shita|alt=緊張した|sc=Jpan}}
+* Macedonian: {{t|mk|напнат}}
+* Maori: {{t|mi|āmaimai}}
+* Plautdietsch: {{t|pdt|stiew}}
+* Portuguese: {{t+|pt|tenso}}
+* Russian: {{t+|ru|напряжённый}}
+* Spanish: {{t+|es|tenso}}
+* Swedish: {{t+|sv|spänd}}
+* Turkish: {{t+|tr|gergin}}
+* Ukrainian: {{t|uk|напружений}}
+{{trans-bottom}}
+
+{{trans-top|pulled taut}}
+* Bulgarian: {{t+|bg|опънат}}, {{t+|bg|обтегнат}}
+* Estonian: {{t|et|pinguletõmmatud}}
+* Finnish: {{t+|fi|kireä}}, {{t+|fi|jännitetty}}
+* German: {{t+|de|gespannt}}, {{t+|de|straff}}
+* Greek: {{t+|el|τεντωμένος|m}}
+* Portuguese: {{t+|pt|estendido}}
+{{trans-mid}}
+* Russian: {{t+|ru|туго́й}}, {{t+|ru|натя́нутый}}
+* Spanish: {{t+|es|tenso}}
+* Swedish: {{t+|sv|spänd}}
+* Ukrainian: {{t|uk|тугий}}, {{t|uk|натя́гнутий}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Georgian: {{t-check|ka|დაძაბული}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{senseid|en|make tense}}{{lb|en|transitive}} To [[make]] tense.
+# {{senseid|en|become tense}}{{lb|en|intransitive}} To [[become]] tense.
+
+=====Translations=====
+{{trans-top|make tense}}
+* Bulgarian: {{t+|bg|опъвам}}, {{t|bg|напрягам}}
+* Catalan: {{t+|ca|tesar}}
+* Czech: {{t|cs|napnout}}
+* Dutch: {{t+|nl|spannen}}, {{t+|nl|opspannen}}
+* Estonian: {{t|et|pinguldama}}, {{t|et|pingulduma}}
+* Finnish: {{t+|fi|jännittää}}
+* French: {{t+|fr|tendre}}
+{{trans-mid}}
+* German: {{t+|de|spannen}}
+* Polish: {{t|pl|naprężać|impf}}, {{t|pl|naprężyć|pf}}
+* Portuguese: {{t+|pt|tensionar}}
+* Spanish: {{t+|es|tensar}}
+* Ukrainian: {{t|uk|напру́жувати|impf}}, {{t|uk|напру́жити|pf}}
+{{trans-bottom}}
+
+{{trans-top|become tense}}
+* Bulgarian: {{t|bg|напрягам се}}
+* Finnish: {{t|fi|jännittyä}}
+* French: {{t+|fr|tendre|alt=se tendre}}
+* German: {{t+|de|spannen|alt=sich spannen}}, {{t+|de|anspannen|alt=sich anspannen}}
+{{trans-mid}}
+* Polish: {{t|pl|naprężać|alt=naprężać się|impf}}, {{t|pl|naprężyć|alt=naprężyć się|pf}}
+* Spanish: {{t|es|tensarse}}
+* Ukrainian: {{t|uk|напру́жуватися|impf}}, {{t|uk|напру́житися|pf}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=eenst|ESnet|Enets|NEETs|Stene|Tenes|enset|neets|seent|senet|sente|steen|teens}}
+
+----
+
+==Latin==
+
+===Participle===
+{{la-part-form|tēnse}}
+
+# {{inflection of|la|tēnsus||voc|m|s}}
+
+----
+
+==Spanish==
 
 ===Verb===
-'''tense''' (tensed, tensed)
-#to make or become tense.
+{{head|es|verb form}}
 
-[[pl:Tense]]
+# {{es-verb form of|tensar}}
