@@ -49,7 +49,7 @@ From {{inh|ja|ojp|sort=さくら|-}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref
 Originally derived from {{com|ja|sort=さくら|咲く|tr1=saku|t1=to [[bloom]], [[burst]] [[open]]|等|tr2=-ra|pos2=nominalizing and pluralizing suffix}}. {{rfv-etym|ja|sort=さくら}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|さくら|acc=0|acc2=1|acc1_note={{q|general}}|acc2_note={{q|modern given name}}|acc_ref=DJR}}
+{{ja-pron|さくら|acc=0|acc_ref=DJR|acc1_note={{q|general}}|acc2=1|acc2_note={{q|modern given name}}}}
 
 ====Noun====
 {{ja-noun|kyu=櫻|さくら|サクラ}}
@@ -265,6 +265,9 @@ Originally derived from {{com|ja|sort=さくら|咲く|tr1=saku|t1=to [[bloom]],
 {{IPAchar|/au/}} → {{IPAchar|/ɔː/}} → {{IPAchar|/oː/}}
 
 From {{der|ja|ltc|sort=おう|-}} {{ltc-l|櫻}}.
+
+====Pronunciation====
+{{ja-pron|おう}}
 
 ====Affix====
 {{ja-pos|affix|kyu=櫻|おう|hhira=あう}}
