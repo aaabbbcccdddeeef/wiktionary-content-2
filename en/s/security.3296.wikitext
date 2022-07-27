@@ -1,26 +1,283 @@
 ==English==
+
+===Alternative forms===
+* {{l|en|secuerity}} {{qualifier|mostly obsolete}}
+
+===Etymology===
+{{suffix|en|secure|ity}}, from {{inh|en|enm|securite}}, from {{der|en|frm|securité}} (modern {{m|fr|sécurité}}), from {{der|en|la|sēcūritās}}, from {{der|en|la|sēcūrus|t=[[safe]], [[secure]]}}, from {{affix|la|se-|gloss1=without|cura|gloss2=care|nocat=1}}; see {{m|en|cure}}. Similar to Latin {{m|la|sine cura||without care, carefree}}, which led to English {{m|en|sinecure}}. {{doublet|en|surety}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/sɪˈkjʊəɹəti/|/sɪˈkjɔːɹəti/}}
+* {{a|US}} {{IPA|en|/səˈkjɔɹ.ɪˌti/|[səˈkjɔɹ.ɪˌɾi]|/səˈkjʊɹ.ɪˌti/|[səˈkjʊɹ.ɪˌɾi]}}
+* {{audio|en|En-us-security.ogg|Audio (US)}}
+
 ===Noun===
-'''security'''
-#The condition of being physically, psychologically, emotionally, financially [[not]] [[threaten]]ed
-#[[Personnel]] responsible for enforcing laws, rules, and regulations as well as maintaining order. Typically employed by a Security or Private Police agency such as [http://www.metropatrol.org/ Metro Patrol]
-#Proof of ownership of [[stock]]s, [[bond]]s or other [[investment]] instruments
-#[[Property]] temporarily [[relinquish]]ed to [[guarantee]] repayment of a [[loan]]
+{{en-noun|~}}
 
-===Translations===
-*Chinese: [[安全]] (ān quán)
-*[[Czech]]: [[bezpečnost]], [[zajištění]], [[ostraha]] (2)
-*[[Dutch]]: [[veiligheid]] (1), [[beveiliging]] (2), [[aandeel]] (3), [[onderpand]] (4)
-*[[Finnish]]: [[turvallisuus]] (1), [[järjestyksenvalvoja]] (2), [[vartija]] (2), [[omistustodistus]] (3???)
-*[[French]]: [[sécurité]] ''f''
-*[[German]]: [[Sicherheit]] ''f''
-*[[Hebrew]]: [[ביטחון]] ''m''
-*[[Indonesian]]: [[keamanan]] (1), [[sekuritas]] (3???), [[jaminan]] (4)
-*[[Norwegian]]: [[sikkerhet]] ''m'' (1,4), [[sikkerhetstjeneste]] ''m'' (2), [[obligasjon]] ''m'' (3), [[gjeldsbrev]] ''n'' (3)
-*[[Spanish]]: [[securidad]] ''f''
+# {{lb|en|uncountable}} The condition of not being [[threaten]]ed, especially physically, psychologically, emotionally, or financially.
+#: {{ux|en|Chad always carries a gun for his own '''security'''.}}
+#: {{ux|en|The pink blanket gives little Mary lots of '''security'''.}}
+#* {{RQ:Shakespeare Antony and Cleopatra|III|vii|passage=Give up yourself merely to chance and hazard, / From firm '''security'''.}}
+#* {{RQ:Swift Conduct of the Allies|pages=73–74|pageref=74|passage=Was there no way to provide for the Safety of ''Britain'', or the '''Security''' for its Trade, but by the ''French'' Kings turning his own Arms to beat his Grandſon out of ''Spain''?}}
+# {{lb|en|countable}} Something that secures.
+# An [[organization]] or [[department]] responsible for providing security by enforcing [[laws]], [[rules]], and [[regulations]] as well as maintaining [[order]].
+#: {{ux|en|Pamela works in '''security'''.}}
+#* {{quote-journal|en|date=2012-12-14|author={{w|Simon Jenkins}}| volume=188| issue=2| page=23| magazine={{w|The Guardian Weekly}}| title=[http://www.guardian.co.uk/commentisfree/2012/dec/14/north-korea-boys-toys-threat-reaction We mustn't overreact to North Korea boys' toys]| passage=The threat of terrorism to the British lies in the overreaction to it of British governments. Each one in turn clicks up the ratchet of surveillance, intrusion and '''security'''. Each one diminishes liberty.}}
+#* {{quote-journal|en|date=2013-06-08|volume=407|issue=8839|page=52| magazine={{w|The Economist}}| title=[http://www.economist.com/news/international/21579039-chinas-growing-empire-ports-abroad-mainly-about-trade-not-aggression-new-masters The new masters and commanders]| passage=From the ground, Colombo’s port does not look like much. Those entering it are greeted by wire fences, walls dating back to colonial times and '''security''' posts. For mariners leaving the port after lonely nights on the high seas, the delights of the B52 Night Club and Stallion Pub lie a stumble away.}}
+# {{lb|en|legal}} Something that secures the fulfillment of an obligation or law.
+# {{lb|en|legal}} Freedom from [[apprehension]].
+# {{senseid|en|financial asset}} {{lb|en|finance|often|in plural}} A [[tradeable]] [[financial]] [[asset]], such as a share of [[stock]].<sup>[[W:Security (finance)|W]]</sup>
+# {{lb|en|finance}} Proof of ownership of [[stock]]s, [[bond]]s or other [[investment]] instruments.
+# {{lb|en|finance}} [[property|Property]] etc. temporarily [[relinquish]]ed to [[guarantee]] repayment of a [[loan]].
+# A [[guarantee]].
+#* {{RQ:Macaulay History of England|chapter=12|passage=Those who lent him money lent it on no '''security''' but his bare word.}}
+# {{lb|en|obsolete}} [[carelessness|Carelessness]]; [[negligence]].
+#* {{RQ:Shakespeare Richard 2|III|ii|passage=He means, my lord, that we are too remiss,<br>Whilst Bolingbroke, through our '''security''',<br>Grows strong and great in substance and in power.}}
 
-===Related words===
+====Synonyms====
+* {{sense|condition of not being threatened}} {{l|en|safety}}
+* {{sense|something that secures}} {{l|en|protection}}
+* {{sense|something that secures the fulfillment of an obligation}} {{l|en|guarantee}}, {{l|en|surety}}
+* See also [[Thesaurus:security]]
 
-*[[Security Council]]
+====Antonyms====
+* {{l|en|insecurity}} (''condition of being threatened'')
 
-[[hu:security]]
-[[ru:Security]]
+====Hyponyms====
+{{col4
+|en|asset-backed security
+|computer security
+|information security
+|mortgage-backed security
+|social security
+}}
+
+====Derived terms====
+{{rel4
+|en|security blanket
+|Security Council
+|security by design
+|security guard
+|security hole
+|security procedure
+|security theater
+|security through obscurity
+}}
+
+====Descendants====
+* {{desc|id|bor=1|sekuriti}}
+* {{desc|id|sml=1|sekuritas}}
+* {{desc|ja|セキュリティ|tr=sekyuriti|bor=1}}
+
+====Translations====
+{{trans-top|condition of not being threatened}}
+* Afrikaans: {{t|af|sekuriteit}}
+* Albanian: {{t+|sq|siguri|f}}
+* Arabic: {{t|ar|أَمْن|m}}, {{t|ar|أَمَان|f}}, {{t|ar|سَلَامَة|f}}
+* Armenian: {{t+|hy|ապահովություն|sc=Armn}}
+* Asturian: {{t|ast|seguridá|f}}
+* Azerbaijani: {{t+|az|təhlükəsizlik}}
+* Belarusian: {{t|be|бяспе́ка|f|sc=Cyrl}}
+* Bengali: {{t|bn|নিরাপত্তা}}
+* Bulgarian: {{t+|bg|безопа́сност|f|sc=Cyrl}}
+* Burmese: {{t+|my|လုံခြုံရေး}}, {{t+|my|ဘေးဆီးရန်ကာ}}
+* Catalan: {{t+|ca|seguretat|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|安全|tr=ānquán|sc=Hani}}
+* Czech: {{t+|cs|bezpečí|n}}, {{t+|cs|bezpečnost|f}}, {{t+|cs|jistota|f}}, {{t+|cs|zajištění|n}}
+* Danish: {{t|da|sikkerhed|c}}
+* Dutch: {{t+|nl|veiligheid|f}}, {{t+|nl|zekerheid|f}}
+* Estonian: {{t|et|ohutus}}, {{t|et|turvalisus}}
+* Faroese: {{t|fo|trygd|f}}
+* Finnish: {{t+|fi|turvallisuus}}, {{t+|fi|turva}}
+* French: {{t+|fr|sécurité|f}}
+* Friulian: {{t|fur|sigurece|f}}
+* Georgian: {{t|ka|დაცულობა|sc=Geor}}, {{t|ka|უსაფრთხოება|sc=Geor}}, {{t|ka|უშიშროება|sc=Geor}}
+* German: {{t+|de|Sicherheit|f}}
+* Gothic: {{t|got|𐍄𐌿𐌻𐌲𐌹𐌸𐌰|f}}
+* Greek: {{t+|el|ασφάλεια|f}}
+*: Ancient: {{t|grc|ἀσφάλεια|f}}
+* Hebrew: {{t+|he|בִּטָחוֹן|m|tr=bitakhón}}
+* Hindi: {{t+|hi|सुरक्षा|f}}, {{t|hi|ज़ामिन}}
+* Hungarian: {{t+|hu|biztonság}}
+* Icelandic: {{t+|is|öryggi|n}}
+* Indonesian: {{t+|id|keselamatan}}, {{t+|id|keamanan}}
+* Irish: {{t|ga|slándáil|f}}, {{t|ga|tearmann|m}}, {{t|ga|sábháilteacht|f}}
+* Italian: {{t+|it|sicurezza|f}}
+* Japanese: {{t+|ja|安全|tr=あんぜん, anzen}}, {{t+|ja|セキュリティー|tr=sekyuritī|sc=Jpan}}
+* Kazakh: {{t|kk|қауіпсіздік|sc=Cyrl}}
+* Khmer: {{t+|km|និរន្តរាយ}}, {{t+|km|សន្តិសុខ}}
+* Korean: {{t+|ko|안전}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ئەمانەت}}, {{t+|ckb|ئاشتی}}
+* Kyrgyz: {{t+|ky|коопсуздук|sc=Cyrl}}
+{{trans-mid}}
+* Lao: {{t|lo|ຄວາມປອດໄພ}}, {{t|lo|ປອດໄພ}}
+* Latin: {{t+|la|securitas}}
+* Latvian: {{t|lv|drošība|f}}
+* Lithuanian: {{t|lt|saugumas|m}}
+* Macedonian: {{t|mk|безбедност|f}}, {{t|mk|сигурност|f}}
+* Malay: {{t+|ms|keselamatan}}
+* Maltese: {{t|mt|sigurtà|f}}
+* Maori: {{t|mi|haumarutanga}}
+* Mongolian: {{t|mn|аюулгүй байдал|sc=Cyrl}}
+* Norwegian:
+*: Bokmål: {{t+|nb|sikkerhet|m|f}}
+* Occitan: {{t+|oc|seguretat|f}}
+* Persian: {{t+|fa|امنیت|tr=amniyyat}}
+* Plautdietsch: {{t|pdt|Sechaheit|f}}, {{t|pdt|Schutz|m}}
+* Polish: {{t+|pl|bezpieczeństwo|n}}
+* Portuguese: {{t+|pt|segurança|f}}
+* Romanian: {{t+|ro|securitate|f}}
+* Russian: {{t+|ru|безопа́сность|f}}, {{t+|ru|надёжность|f}}
+* Sanskrit: {{t|sa|सुरक्षा|f}}
+* Scottish Gaelic: {{t|gd|tèarainteachd|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сигурност|f}}
+*: Roman: {{t+|sh|sigurnost|f}}
+* Slovak: {{t|sk|bezpečie|n}}, {{t|sk|bezpečnosť|f}}
+* Slovene: {{t|sl|varnost|f}}
+* Spanish: {{t+|es|seguridad|f}}, {{t+|es|confianza}}
+* Swahili: {{t+|sw|usalama|c14}}
+* Swedish: {{t+|sv|säkerhet|c}}, {{t+|sv|trygghet|c}}, {{t+|sv|trygghetskänsla|c}}
+* Tagalog: {{t|tl|kapanatagan}}
+* Tajik: {{t+|tg|амният|sc=Cyrl}}
+* Telugu: {{t+|te|భద్రత}}
+* Thai: {{t+|th|ความปลอดภัย}}
+* Turkish: {{t+|tr|güvenlilik}}
+* Turkmen: {{t|tk|ygtybarlylyk}}
+* Ukrainian: {{t+|uk|безпе́ка|f|sc=Cyrl}}
+* Urdu: {{t|ur|زامن|tr=zāman|sc=ur-Arab}}
+* Uzbek: {{t+|uz|xavfsizlik}}, {{t+|uz|bexatarlik}}
+* Vietnamese: {{t+|vi|an toàn}}
+* Walloon: {{t+|wa|såvrité|f}}
+* Welsh: {{t+|cy|diogelwch|m}}
+* Yiddish: {{t|yi|זיכערהייט|f}}
+{{trans-bottom}}
+
+{{trans-top|something that secures}}
+* Arabic: {{t|ar|حِمَايَة|f}}
+* Bulgarian: {{t+|bg|охрана|f}}, {{t+|bg|защита|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|保護|sc=Hani}}, {{t+|cmn|保护|tr=bǎohù|sc=Hani}}, {{t+|cmn|保衛|sc=Hani}}, {{t+|cmn|保卫|tr=bǎowèi|sc=Hani}}
+* Dutch: {{t+|nl|beveiliging|f}}
+* Finnish: {{t+|fi|turva}}, {{t|fi|turvatoimi}}
+* French: {{t+|fr|sécurité|f}}, {{t+|fr|sécurisant|m}}
+* German: {{t+|de|Sicherheit|f}}, {{t+|de|Schutz|m}}
+* Greek: {{t+|el|ασφάλεια|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|保護|tr=ほご, hogo}}, {{t+|ja|セキュリティー|tr=sekyuritī|sc=Jpan}}
+* Latvian: {{t|lv|drošība|f}}
+* Portuguese: {{t+|pt|segurança|f}}
+* Russian: {{t+|ru|защи́та|f}}, {{t+|ru|гара́нтия|f}}
+* Serbo-Croatian: {{t+|sh|zaštita|f}}
+* Spanish: {{t+|es|seguridad|f}}, {{t+|es|garantía}}
+* Swedish: {{t+|sv|skydd|n}}, {{t+|sv|säkerhetsåtgärd|c}}
+* Turkish: {{t+|tr|güvenlilik}}
+{{trans-bottom}}
+
+{{trans-top|organization or department responsible for providing security}}
+* Bulgarian: {{t+|bg|охрана|f}}
+* Czech: {{t|cs|ostraha|f}}
+* Dutch: {{t+|nl|veiligheidsdienst|m}}
+* Finnish: {{t+|fi|turvallisuuspalvelu}}, {{t|fi|turvallisuusosasto}}; {{t+|fi|vartijat|p}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|Sicherheitsdienst|m}}
+* Greek: {{t+|el|ασφάλεια|f|sc=Grek}}
+* Hebrew: {{t+|he|ביטחון|m|tr=bitakhón}}
+* Irish: {{t|ga|lucht slándála|m}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ئاسایش}}
+{{trans-mid}}
+* Macedonian: {{t|mk|обезбедување|n}}
+* Polish: {{t+|pl|ochrona|f}}
+* Portuguese: {{t+|pt|segurança|f}}
+* Romanian: {{t+|ro|siguranță}}, {{t+|ro|securitate}}
+* Russian: {{t|ru|[[слу́жба]] [[безопасность|безопа́сности]]|f}}
+* Serbo-Croatian: {{t+|sh|obezbeđenje|n}}
+* Spanish: {{t+|es|seguridad|f}}
+* Swedish: {{t+|sv|säkerhetstjänst|c}}, {{t+|sv|vaktbolag|c}}
+* Turkish: {{t|tr|güvenlik güçleri}}, {{t+|tr|emniyet}}
+{{trans-bottom}}
+
+{{trans-top|something that secures the fulfillment of an obligation}}
+* Azerbaijani: {{t+|az|girov}}
+* Bulgarian: {{t+|bg|гаранция|f}}
+* Finnish: {{t+|fi|takaus}}, {{t+|fi|takuu}}, {{t+|fi|vakuus}}
+* German: {{t+|de|Sicherheit|f}}
+* Greek: {{t+|el|εχέγγυο|n}}, {{t+|el|εγγύηση|f}}
+* Latvian: {{t|lv|drošība|f}}
+{{trans-mid}}
+* Persian: {{t+|fa|وثیقه|tr=vasiqe|sc=fa-Arab}}
+* Russian: {{t+|ru|гара́нтия|f}}
+* Serbo-Croatian: {{t+|sh|jamstvo|n}}, {{t+|sh|garancija|f}}
+* Spanish: {{t+|es|garantía}}, {{t+|es|prenda}}, {{t+|es|respaldo}}
+* Swedish: {{t+|sv|borgen|c}}, {{t+|sv|garanti|c}}, {{t+|sv|säkerhet|c}}
+{{trans-bottom}}
+
+{{trans-top|legal: freedom from apprehension}}
+* Finnish: {{t+|fi|turva}}, {{t+|fi|turvallisuus}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|finance: tradeable financial asset}}
+* Bulgarian: {{t|bg|ценна книга|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|證券}}, {{t+|cmn|证券|tr=zhèngquàn}}
+* Czech: {{t+|cs|cenný papír|m}}
+* Danish: {{t|da|værdipapir|n}}
+* Dutch: {{t+|nl|waardepapier|n}}
+* Esperanto: {{t|eo|valorpapero}}
+* Finnish: {{t+|fi|arvopaperi}}
+* French: {{t|fr|titre négociable|m}}, {{t|fr|papier-valeur|m}} (Luxembourg, Switzerland)
+* German: {{t+|de|Wertpapier|m}}
+* Greek: {{t+|el|αξιόγραφο|n}}, {{t+|el|αξία|f}}, {{t+|el|χρηματόγραφο|n}}
+* Hindi: {{t|hi|प्रतिभूति}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|értékpapír}}
+* Italian: {{t+|it|cartevalori|f-p}}
+* Japanese: {{t+|ja|担保|tr=tanpo}}, {{t+|ja|抵当|tr=teitō}}, {{t+|ja|保証|tr=hoshō}}, {{t+|ja|有価証券|tr=yūka shōken}}
+* Polish: {{t+|pl|papier wartościowy}}
+* Portuguese: {{t+|pt|garantia|f}}
+* Russian: {{t+|ru|поручи́тельство|n}}, {{t+|ru|це́нная бума́га|f}}
+* Serbo-Croatian: {{t|sh|vrijednosni papir|m}}
+* Slovene: {{t|sl|vrednostni papir|m}}
+* Spanish: {{t|es|título valor|m}}
+* Swedish: {{t+|sv|värdepapper|n}}
+* Ukrainian: {{t|uk|ці́нний папі́р|m}}
+{{trans-bottom}}
+
+{{trans-top|finance: proof of ownership of investment instruments}}
+* Finnish: {{t+|fi|arvopaperi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|finance: property temporarily relinquished}}
+* Azerbaijani: {{t+|az|girov}}
+* Czech: {{t|cs|zástava|f}}, {{t+|cs|záruka|f}}
+* Dutch: {{t+|nl|onderpand|n}}
+* Finnish: {{t+|fi|pantti}}, {{t+|fi|vakuus}}
+* German: {{t+|de|Sicherheit|f}}
+{{trans-mid}}
+* Greek:
+*: Ancient Greek: {{t|grc|ἐγγύη|f}}
+* Japanese: {{t+|ja|証券|tr=shōken}}, {{t+|ja|有価証券|tr=yūka shōken}}
+* Scottish Gaelic: {{t|gd|urras|m}}
+* Spanish: {{t+|es|prenda|f}}
+* Swedish: {{t+|sv|säkerhet|c}}
+{{trans-bottom}}
+
+{{trans-see|guarantee}}
+
+{{checktrans-top}}
+* Indonesian: {{qualifier|1}} {{t+check|id|keamanan}}, {{qualifier|3???}} {{t+check|id|sekuritas}}, {{qualifier|4}} {{t+check|id|jaminan}}
+{{trans-mid}}
+* Italian: {{t+check|it|sicurezza|f}}
+* Norwegian: {{qualifier|1,4}} {{t+check|no|sikkerhet|m}}, {{qualifier|2}} {{t-check|no|sikkerhetstjeneste|m}}, {{qualifier|3}} {{t-check|no|obligasjon|m}}, {{qualifier|3}} {{t-check|no|gjeldsbrev|n}}
+{{trans-bottom}}
+
+===References===
+* {{R:OneLook}}
+* {{R:Keywords 21st}}
+* {{R:Century 1911}}
+* {{pedia}}
