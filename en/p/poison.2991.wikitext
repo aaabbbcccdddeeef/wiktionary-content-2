@@ -1,90 +1,444 @@
 ==English==
+{{wikipedia}}
+
+===Etymology===
+{{root|en|ine-pro|*peh₃-}}
+From {{inh|en|enm|poisoun}}, {{m|enm|poyson}}, {{m|enm|poysone}}, {{m|enm|puyson}}, {{m|enm|puisun}}, from {{der|en|fro|puison}}, {{m|fro|poison}}, from {{der|en|la|pōtio|pōtio, pōtiōnis|t=drink, a draught, a poisonous draught, a potion}}, from {{m|la|pōtō|t=I drink}}. Displaced native {{noncog|ang|ātor}}. See also {{doublet|en|potion|notext=1}} and {{m|en|potable}}.
 
 ===Pronunciation===
-*[[w:AHD|AHD]]: poi'zən
-*[[w:IPA|IPA]]: /ˈpɔɪz(ə)n/
-*[[w:SAMPA|SAMPA]]: /"pOIz(@)n/
+* {{enPR|poi'zən}}, {{IPA|en|/ˈpɔɪz(ə)n/}}
+* {{audio|en|en-us-poison.ogg|Audio (US)}}
+* {{rhymes|en|ɔɪzən|s=2}}
+* {{hyphenation|en|poi|son}}
 
 ===Noun===
-'''poison'''
+{{en-noun|~}}
 
-# a [[substance]] that is harmful/[[lethal]] even in small quantities
+# A [[substance]] that is [[harmful]] or [[lethal]] to a living organism when ingested.
+#: {{ux|en|We used a '''poison''' to kill the weeds.}}
+# Something that [[harm]]s a person or thing.
+#: {{ux|en|Gossip is a malicious '''poison'''.}}
+#* {{RQ:Jack Straw|IV|87|Awaie with the Rebels ſuffer them not to ſpeake,<br>His words are '''poyſon''' in the eares of the people, {{...}}}}
+# {{lb|en|informal}} An intoxicating [[drink]]; a [[liquor]]. (note: this sense is chiefly encountered in the phrases "name your poison" and "what's your poison ?")
+#: ''— What's your '''poison'''?''
+#: ''— I'll have a glass of whisky.''
+# {{lb|en|chemistry}} Any substance that [[inhibit]]s [[catalytic]] [[activity]].
+#* '''2013''', Huazhang Liu, ''Ammonia Synthesis Catalysts: Innovation and Practice'' (page 693)
+#*: The temperature effect of '''poisons'''. The influence of '''poison''' on the catalyst can be different with the change of reaction conditions.
+
+====Usage notes====
+* ''Not to be confused with [[venom#Noun|venom]]''
+
+====Synonyms====
+* {{sense|substance that is harmful}} {{l|en|atter}}, {{l|en|bane}}, {{l|en|contaminant}}, {{l|en|pollutant}}, {{l|en|toxin}}
+
+====Derived terms====
+{{rel4|en|poison at the box office|poison gas|poison hemlock|poison ivy|poison message|poison oak|poison queue|poison-pen letter|poison pill|poison sumac|poisoner|poisoning|poisonous|poisonwood|rat poison|what's your poison}}
 
 ====Translations====
+{{trans-top|substance harmful to a living organism}}
+* Abkhaz: {{t|ab|ашҳам}}
+* Acehnese: {{t-needed|ace}}
+* Adyghe: {{t|ady|щынаут}}
+* Afrikaans: {{t+|af|gif}}
+* Ainu: {{t|ain|スㇽク|tr=surku}}
+* Albanian: {{t+|sq|helm|m}}
+* Amharic: {{t|am|መርዝ}}
+* Arabic: {{t|ar|سُمّ|m}}
+*: Moroccan Arabic: {{t|ary|سَمّ|tr=samm}}
+* Armenian: {{t+|hy|թույն}}
+*: Old Armenian: {{t|xcl|թոյն}}, {{t|xcl|ժահր}}
+* Aromanian: {{t+|rup|virin}}
+* Ashkun: {{t|ask|ios}}
+* Assamese: {{t|as|বিহ}}
+* Asturian: {{t|ast|venenu|m}}
+* Avar: {{t|av|загрьу}}
+* Azerbaijani: {{t+|az|zəhər}}, {{t|az|ağı}}
+* Bashkir: {{t|ba|ағыу}}
+* Basque: {{t|eu|pozoi}}
+* Belarusian: {{t|be|атру́та|f}}
+* Bengali: {{t|bn|বিষ}}, {{t|bn|জহর|tr=zôhôr}}
+* Bikol Central: {{t|bcl|hudong}}, {{t|bcl|hilo}} {{qualifier|Naga}}
+* Breton: {{t+|br|ampoezon|m}}
+* Bulgarian: {{t+|bg|отро́ва|f}}
+* Burmese: {{t+|my|အဆိပ်}}
+* Catalan: {{t+|ca|verí|m}}, {{t+|ca|metzina|f}}
+* Cebuano: {{t|ceb|hilo}}
+* Chakma: {{t-needed|ccp}}
+* Chechen: {{t|ce|дӏовш}}
+* Chinese:
+*: Mandarin: {{t+|cmn|毒|tr=dú}}, {{t+|cmn|毒物|tr=dúwù}}, {{t+|cmn|毒藥}}, {{t+|cmn|毒药|tr=dúyào}}
+* Chuvash: {{t|cv|наркӑмӑш}}
+* Classical Nahuatl: {{t|nci|tlapahhuilōni}}
+* Cornish: {{t|kw|venym}}, {{t|kw|poyson}}, {{t|kw|gwenyn|m}}
+* Corsican: {{t|co|velenu}}
+* Czech: {{t+|cs|jed|m}}
+* Danish: {{t+|da|gift}}
+* Dhivehi: {{t|dv|ވިހަ}}
+* Dutch: {{t+|nl|gif|n}}, {{t+|nl|vergif|n}}, {{t+|nl|vergift|n}}
+* Eastern Mari: {{t|chm|яд}}, {{t|chm|аяр}}
+* Elfdalian: {{t|ovd|djipt|n}}
+* Erzya: {{t|myv|яд}}
+* Esperanto: {{t+|eo|veneno}}
+* Estonian: {{t+|et|mürk}}
+* Faroese: {{t|fo|gift|f}}, {{t|fo|eitur|n}}
+* Finnish: {{t+|fi|myrkky}}
+* French: {{t+|fr|poison|m}}
+* Friulian: {{t|fur|velen|m}}, {{t|fur|tuessin}}
+* Gagauz: {{t|gag|zihir}}
+* Galician: {{t|gl|veleno|m}}, {{t|gl|pezoña|f}}, {{t|gl|pezoia|f}}
+* Georgian: {{t|ka|შხამი}}, {{t|ka|საწამლავი}}
+* German: {{t+|de|Gift|n}}, {{t+|de|Giftstoff|m}}
+* Gothic: {{t|got|𐌹𐌽𐌲𐌹𐍆|n}}
+* Greek: {{t+|el|δηλητήριο|n}}, {{qualifier|colloquial}} {{t+|el|φαρμάκι|n}}
+*: Ancient: {{t|grc|ἰός|m}}
+* Greenlandic: {{t|kl|toqunartoq}}
+* Gujarati: {{t|gu|ઝેર}}
+* Hebrew: {{t+|he|רַעַל|m|tr=ra'àl}}, {{t+|he|סַם|m|tr=sam}}
+* Hindi: {{t+|hi|बिस|m}}, {{t+|hi|विष|m}}, {{t|hi|ज़हर|m}}, {{t+|hi|हलाहल}}
+* Hungarian: {{t+|hu|méreg}}
+* Icelandic: {{t+|is|eitur|n}}
+* Ido: {{t+|io|toxiko}}, {{t+|io|veneno}}
+* Indonesian: {{t+|id|racun}}, {{t+|id|bisa}} {{qualifier|of snake}}
+* Ingrian: {{t|izh|mürkkü}}
+* Interlingua: {{t|ia|veneno}}, {{t|ia|toxico}}
+* Iranun: {{t-needed|ill}}
+* Irish: {{t+|ga|nimh|f}}
+* Istriot: {{t|ist|vanen|m}}
+* Italian: {{t+|it|veleno|m}}
+* Japanese: {{t+|ja|毒|tr=どく, doku}}
+* Javanese: {{t|jv|wisa}}, {{t+|jv|racun}}
+* Kamkata-viri: {{t|bsh|viš}}
+* Kannada: {{t+|kn|ನಂಜು}}
+* Karaim: {{t|kdr|ahu}}
+* Kashubian: {{t-needed|csb}}
+* Kazakh: {{t+|kk|у}}, {{t|kk|зәр}}
+* Khakas: {{t|kjh|оо}}
+* Khmer: {{t|km|ថ្នាំពុល}}
+* Komi-Permyak: {{t-needed|koi}}
+* Korean: {{t+|ko|독}}
+* Kunigami: {{t|xug|酔|tr=うい, ui}}, {{t|xug|毒|tr=どぅく, duku}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|دەرمانخوارد}}, {{t+|ckb|ژەھر}}
+*: Northern Kurdish: {{t+|kmr|jehr|f}}, {{t+|kmr|jar|f}}
+* Kyrgyz: {{t+|ky|уу}}
+* Lao: {{t+|lo|ຢາພິດ}}
+* Ladin: {{t|lld|tuesse|m}}
+* Ladino: {{t|lad|veneno}}, {{t|lad|tosigo}}, {{t|lad|intusedju}} {{qualifier|Monastir}}
+* Latin: {{t+|la|venēnum|n}}, {{t|la|toxicum|n}}
+* Latvian: {{t|lv|inde|f}}
+* Laz: {{t|lzz|ჩხამი}}
+* Lithuanian: {{t|lt|nuodai|n}}
+* Livonian: {{t|liv|vijā }}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|Gëft}}
+* Macedonian: {{t|mk|отров|m}}
+* Maguindanao: {{t-needed|mdh}}
+* Malagasy: {{t+|mg|poizina}}
+* Malay: {{t+|ms|racun}}
+* Malayalam: {{t+|ml|വിഷം}}
+* Maltese: {{t|mt|velenu}}, {{t|mt|semm|m}}
+* Mansaka: {{t|msk|gamot}}
+* Manx: {{t|gv|pyshoon|m}}, {{t|gv|nieu|f}}
+* Maori: {{t|mi|huarua}}, {{t|mi|paitini}}
+* Maranao: {{t|mrw|gamot}}
+* Mingrelian: {{t|xmf|შხამი}}, {{t|xmf|ჟღამი}}
+* Miyako: {{t|mvi|酔|tr=びゔ, bivu}}, {{t|mvi|毒|tr=どぅく, duku}}
+* Mon: {{t-needed|mnw}}
+* Mongolian: {{t+|mn|хор}}
+* Nanai: {{t|gld|гу}}
+* Northern Sami: {{t|se|mirko}}
+* Norwegian: {{t+|no|gift|m|f}}
+* Occitan: {{t+|oc|poison}}
+* Ojibwe: {{t|oj|bichibowin}}
+* Okinawan: {{t|ryu|毒|tr=どぅく, duku}}
+* Old East Slavic: {{t|orv|ядъ|m}}
+* Old English: {{t|ang|ātor|n}}
+* Old Javanese: {{t|kaw|wisa}}
+* Ossetian: {{t|os|марг}}
+* Pali: {{t|pi|visa|n}}
+* Persian: {{t+|fa|زهر|tr=zahr}}
+* Plautdietsch: {{t|pdt|Jeft|n}}
+* Polish: {{t+|pl|trucizna|f}}, {{t+|pl|jad|m-in}}
+* Portuguese: {{t+|pt|veneno|m}}, {{t+|pt|tóxico|m}}
+* Prasuni: {{t|prn|ūšu}}
+* Quechua: {{t|qu|miyu}}
+* Rakhine: {{t-needed|rki}}
+* Rohingya: {{t-needed|rhg}}
+* Romagnol: {{t-needed|rgn}}
+* Romanian: {{t+|ro|otravă|f}}, {{t+|ro|venin|n}}
+* Romansch: {{t|rm|tissi|m}}, {{t|rm|teissa|m}}, {{t|rm|tössi|m}}
+* Russian: {{t+|ru|яд|m}}, {{t+|ru|отра́ва|f}}
+* Saanich: {{t|str|T̸EXTEN}}
+* Sanskrit: {{t+|sa|विष|tr=viṣá|n}}
+* Scots: {{t|sco|pushion}}
+* Scottish Gaelic: {{t|gd|nimh|m}}, {{t|gd|puinnsean|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|о̀тров|m}}
+*: Roman: {{t+|sh|òtrov|m}}
+* Sherpa: {{t|xsr|དུག|tr=thuk}}
+* Shor: {{t|cjs|оо|tr=oo}}
+* Sicilian: {{t|scn|vilenu|m}}
+* Sinhalese: {{t|si|වස}}, {{t+|si|විෂ}}, {{t|si|විස}}, {{t|si|වහ}}
+* Slovak: {{t|sk|jed|m}}
+* Slovene: {{t+|sl|strup|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|gad|m}}
+*: Upper Sorbian: {{t|hsb|jěd}}
+* Southern Altai: {{t|alt|корон}}
+* Spanish: {{t+|es|veneno|m}}, {{t+|es|ponzoña|f}}
+* Svan: {{t|sva|შხა̈მ}}
+* Swahili: {{t+|sw|sumu|c9/10}}
+* Swedish: {{t+|sv|gift|n}}
+* Sylheti: {{t|syl|ꠛꠤꠡ}}
+* Tabasaran: {{t|tab|зегьер}}
+* Tagalog: {{t-needed|tl}}
+* Tajik: {{t|tg|заҳр}}
+* Tangut: {{t|txg|𗀀|tr=do<sup>1</sup>, <sup>1</sup>do<sub>1</sub>, ndo}}
+* Taos: {{t|twf|benę̀nu’úne}}
+* Tatar: {{t+|tt|агу}}
+* Tausug: {{t-needed|tsg}}
+* Telugu: {{t+|te|విషము}}
+* Thai: {{t+|th|พิษ}}, {{t+|th|ยาพิษ}}, {{t+|th|ยาเบื่อ}}
+* Tibetan: {{t|bo|དུག}}
+* Tocharian A: {{t|xto|wäs}}
+* Tocharian B: {{t|txb|wase}}
+* Turkish: {{t+|tr|zehir}}, {{t+|tr|ağı}}, {{t+|tr|düğü}}
+* Turkmen: {{t+|tk|zäher}}
+* Tuvan: {{t-needed|tyv}}
+* Udmurt: {{t|udm|яд}}
+* Ukrainian: {{t|uk|отру́та|f}}, {{t|uk|отру́я|f}}
+* Urdu: {{t|ur|زہر|m|tr=zahr}}, {{t|ur|ہلاہل|tr=halāhal}}
+* Uyghur: {{t|ug|زەھەر}}
+* Uzbek: {{t+|uz|ogʻu}}, {{t+|uz|zahar}}
+* Venetian: {{t|vec|tòssego}}
+* Vietnamese: {{t+|vi|chất độc}}, {{t+|vi|thuốc độc}}
+* Volapük: {{t+|vo|venen}}
+* Votic: {{t|vot|mürttšu}}
+* Waigali: {{t|wbk|viš}}
+* Walloon: {{t+|wa|pwezon}}
+* Welsh: {{t+|cy|gwenwyn|m}}
+* West Frisian: {{t|fy|fergif|n}}
+* Yaeyama: {{t|rys|酔|tr=びゅーりぃ, byūrï}}, {{t|rys|毒|tr=どぅく, duku}}
+* Yakan: {{t-needed|yka}}
+* Yakut: {{t-needed|sah}}
+* Yiddish: {{t|yi|סם|tr=sam}}, {{t|yi|גיפֿט|m}}
+* Zulu: {{t|zu|isihlungu|c7|c8}}, {{t|zu|ubuthi|c14}}
+* ǃXóõ: {{t|nmn|ǁāã}}, {{t|nmn|sòo}}
+{{trans-bottom}}
 
-*Bulgarian: [[отрова]] ''f''
-*[[Catalan]]: [[Verí]] ''m'', [[metzina]] ''f''
-*Chinese Characters: [[毒]]
-*Chinese: [[毒物]]
-*[[Czech]]: [[jed]]  ''m''
-*Dutch: [[gif]] ''n'', [[vergif]] ''n'', [[vergift]] ''n''
-*Estonian: [[mürk]]
-*Faroese: [[gift]] ''f'', [[eitur]] ''n''
-*Finnish: [[myrkky]]
-*French: poison ''m''
-*German: [[Gift]] ''n''
-*Hebrew: [[סם|סַם]] ''m''
-*Indonesian: [[racun]], [[bisa]] (of [[snake]])
-*[[Interlingua]]: [[veneno]], [[toxico]]
-*Italian: [[veleno]] ''m''
-*Japanese: [[毒]] (どく, doku)
-*Korean: [[독]] (dok)
-*Latin: [[venenum]] ''n'', [[toxicum]] ''n''
-*Norwegian: [[gift]] ''c''
-*Polish: [[trucizna]] ''f''
-*Portuguese: [[veneno]] ''m'', [[peçonha]] ''f'', [[tóxico]] ''m''
-*Russian: [[яд]] (yad)
-*[[Slovak]]: jed  ''m''
-*Spanish: [[veneno]] ''m''
-*Swedish: [[gift#Swedish|gift]] ''n''
+{{trans-top|something that harms}}
+* Catalan: {{t+|ca|verí|m}}, {{t+|ca|metzina|f}}
+* Czech: {{t+|cs|jed|m}}
+* Greek: {{t+|el|δηλητήριο|n}}
+* Norwegian: {{t+|no|gift}}
+{{trans-mid}}
+* Sanskrit: {{t+|sa|विष|tr=viṣá|n}}
+* Scottish Gaelic: {{t|gd|nimh|m}}
+* Turkish: {{t+|tr|zıkkım}}
+{{trans-bottom}}
+
+{{trans-top|liquor}}
+* Greek: {{t+|el|ποτό|n}}
+* Slovak: {{t|sk|jed|m}}
+{{trans-mid}}
+* Turkish: {{t+|tr|zıkkım}}
+{{trans-bottom}}
 
 ===Verb===
-'''to poison''' (transitive)
+{{en-verb}}
 
-# to use poison to kill/paralyse somebody/something
+# {{lb|en|transitive}} To use poison to [[kill]] or [[paralyse]] (somebody).
+#: {{ux|en|The assassin '''poisoned''' the king.}}
+# {{lb|en|transitive}} To [[pollute]]; to cause to become [[poisonous]].
+#: {{ux|en|That factory is '''poisoning''' the river.}}
+# {{lb|en|transitive}} To cause to become much [[worse]].
+#: {{ux|en|Suspicion will '''poison''' their relationship.}}
+#: {{ux|en|He '''poisoned''' the mood in the room with his non-stop criticism.}}
+# {{lb|en|transitive}} To cause (someone) to [[hate]] or to have [[unfair]] [[negative]] [[opinion]]s.
+#: {{ux|en|She's '''poisoned''' him against all his old friends.}}
+# {{lb|en|chemistry}} To [[inhibit]] the [[catalytic]] [[activity]] of.
+# {{lb|en|transitive|computing}} To place [[false]] [[information]] into (a [[cache]]) as part of an [[exploit]].
+#* '''2013''', Ronald L. Mendell, ''Investigating Information-based Crimes'' (page 93)
+#*: In this technique, the hacker '''poisons''' the cache to launch malware into Web pages.
+
+====Usage notes====
+* ''Not to be confused with [[envenomate]]''
+
+====Synonyms====
+* {{sense|to pollute}} {{l|en|contaminate}}, {{l|en|pollute}}, {{l|en|taint}}
+* {{sense|to cause to become worse}} {{l|en|corrupt}}, {{l|en|taint}}
+
+====Derived terms====
+{{der3|en|lead poisoning|poisoned chalice|radiation poisoning}}
 
 ====Translations====
+{{trans-top|to use poison to kill or paralyse}}
+* Albanian: {{t-needed|sq}}
+* Arabic: {{t|ar|سَمَّمَ}}, {{t|ar|سَمَّ}}
+* Armenian: {{t+|hy|թունավորել}}
+* Aromanian: {{t|rup|nvirinedz}}, {{t|rup|virinedz}}, {{t|rup|nfarmãc}}, {{t|rup|ncioamir}}
+* Bashkir: {{t|ba|ағыулау}}
+* Belarusian: {{t|be|атру́чваць|impf}}, {{t|be|атру́ціць|pf}}
+* Bikol Central: {{t|bcl|hudong}}
+* Breton: {{t+|br|ampoezoniñ}}
+* Bulgarian: {{t+|bg|тровя|impf}}, {{t+|bg|отравям|pf}}
+* Catalan: {{t+|ca|emmetzinar}}, {{t+|ca|enverinar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|毒害|tr=dúhài}}, {{t+|cmn|毒死|tr=dúsǐ}} {{qualifier|kill with poison}}, {{t+|cmn|毒殺}}, {{t+|cmn|毒杀|tr=dúshā}}
+* Classical Nahuatl: {{t|nci|pahmictiā}}
+* Cornish: {{t|kw|posnya}}, {{t|kw|venyma}}, {{t|kw|gwenyna}}
+* Crimean Tatar: {{t|crh|zeerlemek}}
+* Czech: {{t+|cs|otrávit|pf}}, {{t+|cs|trávit|impf}}
+* Danish: {{t|da|forgifte}}
+* Dutch: {{t+|nl|vergiftigen}}
+* Esperanto: {{t-needed|eo}}
+* Estonian: {{t|et|mürgitama}}
+* Faroese: {{t|fo|eitra}}
+* Finnish: {{t+|fi|myrkyttää}}
+* French: {{t+|fr|empoisonner}}
+* Friulian: {{t|fur|velenâ}}, {{t|fur|intosseâ}}
+* Georgian: {{t|ka|წამლავს}}
+* German: {{t+|de|vergiften}}
+* Greek: {{t+|el|δηλητηριάζω}}, {{t+|el|φαρμακώνω}} {{qualifier|colloquial}}
+* Hungarian: {{t+|hu|megmérgez}}
+* Icelandic: {{t+|is|eitra}}
+* Ido: {{t+|io|venenagar}}
+* Indonesian: {{t+|id|racun|alt=meracuni}}
+* Interlingua: {{t|ia|invenenar}}, {{t|ia|intoxicar}}
+* Irish: {{t|ga|nimhigh}}
+{{trans-mid}}
+* Italian: {{t+|it|avvelenare}}, {{t+|it|intossicare}}
+* Japanese: {{t+|ja|毒殺|alt=毒殺する|tr=どくさつする, dokusatsu suru}}, {{t+|ja|毒害|alt=毒害する|tr=どくがいする, dokugai suru}}
+* Kazakh: {{t|kk|заһарлау}}
+* Korean: {{t+|ko|독살하다}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|jehr kirin}}, {{t+|kmr|jehr dan}}
+* Latin: {{t+|la|venēnō}}
+* Latvian: {{t|lv|noindēt|impf}}
+* Lithuanian: {{t|lt|nuodyti|impf}}
+* Maori: {{t|mi|paitini}}
+* Mongolian: {{t|mn|хордуулах}}
+* Occitan: {{t|oc|verenar}}, {{t|oc|verinejar}}
+* Old English: {{t|ang|ǣtrian}}
+* Polish: {{t+|pl|truć|impf}}, {{t+|pl|zatruwać}}, {{t+|pl|otruć|pf}}
+* Portuguese: {{t+|pt|envenenar}}, {{t|pt|empeçonhar}}, {{t+|pt|intoxicar}}
+* Quechua: {{t|qu|miyuy}}
+* Romanian: {{t+|ro|otrăvi}}, {{t+|ro|învenina}}, {{t+|ro|intoxica}}
+* Russian: {{t+|ru|отравля́ть|impf}}, {{t+|ru|трави́ть|impf}}, {{t+|ru|отрави́ть|pf}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тровати|impf}}, {{t|sh|отровати|pf}}
+*: Roman: {{t+|sh|trovati|impf}}, {{t+|sh|otrovati|pf}}
+* Scots: {{t|sco|pushion}}
+* Sicilian: {{t+|scn|avvilinari}}, {{t+|scn|abbilinari}}
+* Slovak: {{t|sk|otráviť|pf}}
+* Spanish: {{t+|es|envenenar}}, {{t+|es|emponzoñar}}
+* Swedish: {{t+|sv|förgifta}}
+* Thai: {{t+|th|วางยา}}, {{t+|th|เบื่อ}}
+* Turkish: {{t+|tr|zehirlemek}}, {{t+|tr|ağılamak}}
+* Ukrainian: {{t|uk|отру́ювати|impf}}, {{t|uk|тру́їти|impf}}, {{t|uk|отру́їти|pf}}
+* Venetian: {{t|vec|invełenar}}, {{t|vec|inverinar}}, {{t|vec|intosegar}}, {{t|vec|tosegar}}
+* Volapük: {{t+|vo|venenön}}
+* Yiddish: {{t|yi|פֿאַרסמען|tr=farsamen}}, {{t|yi|פֿאַרגיפֿטן}}, {{t|yi|סמען|tr=samen}}
+{{trans-bottom}}
 
-*Bulgarian: [[тровя]], [[отравям]]
-*[[Catalan]]: [[emmetzinar]], [[enverinar]]
-*Czech: [[otrávit]]
-*Dutch: [[vergiftigen]]
-*Faroese: [[eitra]]
-*French: [[empoisoner]]
-*Estonian: [[mürgitama]]
-*Finnish: [[myrkyttää]]
-*French: [[empoisoner]]
-*German: [[vergiften]]
-*Hungarian: [[méreg]]
-*Indonesian: [[racun|meracuni]]
-*[[Interlingua]]: [[invenenar]], [[intoxicar]]
-*Japanese: [[毒]]を[[混入]]する (doku wo konnyuu-suru) (mix with poison), etc
-*Latin: [[veneno]]
-*Polish: [[truć]], [[zatruwać]], [[otruć]]
-*Portuguese: [[envenenar]], [[empeçonhar]], [[intoxicar]]
-*[[Slovak]]: otráviť
-*[[Swedish]]: [[förgifta]]
+{{trans-top|pollute}}
+* Bashkir: {{t|ba|ағыулау}}
+* Catalan: {{t+|ca|emmetzinar}}, {{t+|ca|enverinar}}
+* Czech: {{t+|cs|otrávit}}
+* Faroese: {{t|fo|dálka}}
+* Greek: {{t+|el|μολύνω}}
+* Hungarian: {{t+|hu|mérgez}}, {{t+|hu|károsít}}
+{{trans-mid}}
+* Latvian: {{t|lv|saindēt}}
+* Maori: {{t|mi|whakaparu}}
+* Russian: {{t+|ru|отравля́ть|impf}}, {{t+|ru|трави́ть|impf}}, {{t+|ru|отрави́ть|pf}}
+* Scots: {{t|sco|pushion}}
+* Slovak: {{t|sk|otráviť}}
+{{trans-bottom}}
 
-===Related terms===
-*[[poisonous]]
-*[[poison pen]]
+{{trans-top|make worse}}
+* Bulgarian: {{t+|bg|развалям}}
+* Catalan: {{t+|ca|emmetzinar}}, {{t+|ca|enverinar}}
+* Czech: {{t+|cs|otrávit}}
+* Greek: {{t+|el|δηλητηριάζω}}
+* Hungarian: {{t+|hu|mérgez}}, {{t+|hu|megmérgez}}, {{t+|hu|árt}}, {{t+|hu|elmérgesít}}, {{t+|hu|károsít}}, {{t+|hu|megmételyez}}, {{t+|hu|megfertőz}}, {{t+|hu|megront}}
+{{trans-mid}}
+* Latvian: {{t|lv|samaitāt}}
+* Russian: {{t+|ru|отравля́ть|impf}}, {{t+|ru|отрави́ть|pf}}
+* Scots: {{t|sco|pushion}}
+* Slovak: {{t|sk|otráviť}}
+* Turkish: {{t+|tr|zehirlemek}}
+{{trans-bottom}}
 
-===External link===
-*[[w:poison|Wikipedia article on poison]]
+===References===
+* {{R:Online Etymology Dictionary}}
+* {{R:Webster 1913}}
+
+[[Category:en:Poisons]]
+[[Category:en:Toxicology]]
 
 ----
 
 ==French==
+
+===Etymology===
+From {{inh|fr|fro|-}}, inherited from {{inh|fr|la|pōtio}}, {{m|la|pōtiōnem}}. {{doublet|fr|potion}}, a borrowing.
+
 ===Pronunciation===
-*[[w:IPA|IPA]]: /pwazɔ̃ /
-*[[w:SAMPA|SAMPA]]: /pwazO~/
+* {{fr-IPA}}
+* {{audio|fr|Fr-poison.ogg|audio}}
 
 ===Noun===
-'''poison''' ''m''
+{{fr-noun|m}}
 
-#poison.
+# [[#English|poison]]
+#: {{uxi|fr|Poisson sans boisson est '''poison'''.|Fish without drink is '''poison'''.}}
 
-[[Category:1000 English basic words]]
+====Derived terms====
+* {{l|fr|empoisonner}}
+** {{l|fr|empoisonnement}}
+* {{l|fr|poisonneux}}
 
-[[et:Poison]]
-[[fi:Poison]]
+===Further reading===
+* {{R:TLFi}}
+
+----
+
+==Middle English==
+
+===Noun===
+{{head|enm|noun}}
+
+# {{alternative form of|enm|poisoun}}
+
+----
+
+==Old French==
+
+===Etymology===
+From {{inh|fro|la|pōtiōnem}}, accusative singular of {{m|la|pōtio}}.
+
+===Noun===
+{{fro-noun|f}}
+
+# [[#English|poison]]
+#* {{quote-book|fro|year=circa 1176|author=[[w:Chrétien de Troyes|Chrétien de Troyes]]|title=''Cligès''|passage=Thessala tranpre sa '''poison'''|translation=Thessala mixed her poison}}
+# [[potion]]
+
+====Descendants====
+* {{desc|enm|poisoun|bor=1}}
+** {{desc|en|poison}}
+* {{desc|fr|poison}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{bor|es|fr|poison}}. {{doublet|es|poción}}.
+
+===Noun===
+{{es-noun|m}}
+
+# {{lb|es|Louisiana}} [[poison]]
