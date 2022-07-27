@@ -1,31 +1,273 @@
+{{also|dérivative}}
+==English==
+{{wikipedia|Derivative (disambiguation)|mul=Derivative}}
+
 ===Etymology===
-Middle English from French ''dérivatif'' and Latin ''derivatus''. See [[derive]].
+From {{der|en|frm|dérivatif}}, from {{der|en|la|dērīvātus}}, perfect passive participle of {{m|la|dērīvō||I derive}}. Related with {{m|en|derive}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/dɪˈɹɪvətɪv/}}
+* {{audio|en|en-us-derivative.ogg|Audio (US)}}
 
 ===Adjective===
-'''derivative'''
+{{en-adj}}
 
-#Imitative of someone else's work
-#''(Copyright Law):'' Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions
-#Having a value that depends on an underlying asset of variable value
-#Lacking originality
-
-===Noun===
-'''derivative'''
-
-#Something based on another source
-#A word that derives from another one.
-#A financial instrument whose value depends on the value of something else, such as warrants, options etc.
-#A chemical derived from another
-#(''mathematics'') The function whose value is the instantaneous rate of change of the given function.
-#: ''The derivative of <math>f(x) = x^2</math> is <math>f'(x) = 2x</math>''
+# Obtained by [[derivation]]; not radical, original, or fundamental.
+#: {{ux|en|a '''derivative''' conveyance}}
+#: {{ux|en|a '''derivative''' word}}
+# [[imitative|Imitative]] of the work of someone else.
+#* {{quote-av|en|year=1979|title=Manhattan|writer=Woody Allen|role=Mary|actor=Diane Keaton|passage=No, I really felt it was very '''derivative'''. To me it it looked like it was straight out of Diane Arbus, but it had none of the wit.}}
+# {{lb|en|legal|copyright}} Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions.
+# {{lb|en|finance}} Having a value that depends on an underlying asset of variable value.
+# Lacking [[originality]].
+#* {{quote-journal|en|author=Amanda Hess|title=Inject the Vaccine Fan Fiction Directly Into My Veins|work=The New York Times|date=2021-04-27|url=https://www.nytimes.com/2021/04/27/arts/covid-vaccine-tiktok-content.html|issn=0362-4331|passage=People started talking about the pandemic as if it were itself a television show; as the second wave hit last fall, they griped about the '''derivative''' writing on Covid Season 2.}}
 
 ====Translations====
-*Chinese: [[衍生物]] (yán shēng wù)
-*Dutch: [[afgeleide]] ''f'' (1), [[afleiding]] ''f'' (2)
-*German: [[Ableitung]] ''f'' (5)
-*Polish: [[derywat]] ''m'' (1, 2), [[pochodna]] ''f'' (3, 4)
-*Spanish: [[derivativo]] ''m'' (1-4), [[derivada]] ''f'' (5)
+{{trans-top|obtained by derivation}}
+* Bulgarian: {{t+|bg|произво́ден}}
+* Chinese:
+*: Mandarin: {{t+|cmn|派生|tr=páishēng de|alt=派生的}}, {{t+|cmn|衍生|tr=yánshēng de|alt=衍生的}}
+* Danish: {{t|da|afledt}}
+* Finnish: {{t+|fi|johdettu}}
+* French: {{t+|fr|dérivé|m}}
+* German: {{t+|de|nachahmend}}, {{t+|de|kopierend}}
+* Greek:
+*: Ancient: {{t|grc|παρώνυμος}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|származtatott}}, {{q|in linguistics}} {{t+|hu|képzett}}
+* Maori: {{t|mi|mino}}
+* Polish: {{t+|pl|pochodny}}, {{t+|pl|wtórny}}
+* Portuguese: {{t|pt|derivativo}}
+* Russian: {{t+|ru|произво́дный}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
 
-[[it:derivative]]
-[[pl:Derivative]]
-[[sv:derivative]]
+{{trans-top|imitative of the work of someone else}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Danish: {{t|da|imiterende}}
+{{trans-mid}}
+* Finnish: {{t|fi|mukaileva}}, {{t|fi|mukailtu}}
+* Maori: {{t|mi|tāwhaiwhai}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
+
+{{trans-top|(copyright) referring to a work based on another work}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Danish: {{t|da|afledt}}
+{{trans-mid}}
+* Finnish: {{t|fi|muunneltu}}
+* French: {{t+|fr|dérivé}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
+
+{{trans-top|(finance) having a value that depends on an underlying asset}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Finnish: {{t+|fi|johdannainen}}
+{{trans-mid}}
+* French: {{t+|fr|dérivé|m}}
+* Hungarian: {{t+|hu|másodlagos}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
+
+{{trans-top|lacking originality}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Danish: {{t|da|uoriginal}}
+{{trans-mid}}
+* Finnish: {{t+|fi|tavanomainen}}
+* Spanish: {{t-needed|es}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# Something [[derive|derived]].
+# {{lb|en|linguistics}} A word that derives from another one.
+#: {{syn|en|reflex|descendant}}
+#: {{ant|en|etymon}}
+#: {{cot|en|cognate}}
+# {{lb|en|finance}} A [[financial instrument]] whose value depends on the valuation of an [[underlying]] [[asset]]; such as a [[warrant]], an [[option]] etc.
+# {{lb|en|chemistry}} A [[chemical]] derived from another.
+# {{lb|en|calculus}} The [[derived function]] of a [[function]] (the [[slope]] at a [[certain]] [[point]] on some [[curve]] <math>f(x)</math>) [[Category:en:Functions]]
+#: ''The derivative of <math>f:f(x) = x^2</math> is <math>f':f'(x) = 2x</math>''
+# {{lb|en|calculus}} The value of this function for a given value of its independent variable.
+#: ''The derivative of <math>f(x) = x^2</math> at x = 3 is <math>f'(3) = 2 * 3 = 6</math>.''
+
+====Synonyms====
+* {{sense|something derived}} {{l|en|derivate}}, {{l|en|offshoot}}, {{l|en|spinoff}}
+* {{sense|linguistics}} {{l|en|derivate}}, {{l|en|derived}} [[word]]
+* {{sense|finance}} {{l|en|contingent claim}}
+* {{sense|in analysis: function}} {{l|en|derived function}}
+
+====Antonyms====
+* {{l|en|coincidental}}
+
+====Hyponyms====
+* {{sense|finance}} {{l|en|option}}, {{l|en|warrant}}, {{l|en|swap}}, {{l|en|convertible security}}, {{l|en|convertible}}, {{l|en|convertible bond}}, {{l|en|credit default swap}}, {{l|en|credit line note}}, {{l|en|financial futures contract}}, {{l|en|financial future}}, {{l|en|total return swap}}.
+
+====Derived terms====
+{{derived terms|lang=en
+| arithmetic derivative
+| directional derivative
+| exterior derivative
+| Gâteaux derivative
+| partial derivative
+|symmetric derivative
+|time derivative
+|total derivative
+|weak derivative
+}}
+
+====Translations====
+{{trans-top|something derived}}
+* Armenian: {{t+|hy|ածանցյալ}}
+* Bulgarian: {{t+|bg|произво́дно|n}}
+* Chinese:
+*: Mandarin: {{t+|cmn|衍生物|tr=yánshēngwù|sc=Hani}}
+* Czech: {{t|cs|derivát|m}}, {{t|cs|odvozenina|f}}
+* Danish: {{t|da|afledning|c}}
+* Dutch: {{t+|nl|afgeleide|f}}, {{t+|nl|derivaat|n}}
+* Esperanto: {{t+|eo|derivaĵo}}
+* Estonian: {{t|et|tuletis}}
+* Finnish: {{t+|fi|johdannainen}}, {{t+|fi|johdos}}, {{t|fi|derivaatti}}
+{{trans-mid}}
+* French: {{t+|fr|dérivé|m}}
+* German: {{t+|de|Ableitung|f}}
+* Hungarian: {{t+|hu|származék}}
+* Italian: {{t+|it|derivato|m}}, {{t+|it|derivata|f}}
+* Japanese: {{t+|ja|派生|tr=はせい, hasei}}
+* Polish: {{t+|pl|pochodny}}, {{t+|pl|wtórny}}
+* Portuguese: {{t+|pt|derivado|m}}
+* Romanian: {{t+|ro|derivat|m}}, {{t+|ro|derivată|f}}
+* Russian: {{t+|ru|произво́дное|n}}
+* Spanish: {{t+|es|derivado|m}}
+{{trans-bottom}}
+
+{{trans-top|word that derives from another}}
+* Breton: {{t|br|deverad|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|派生詞|sc=Hani}}, {{t+|cmn|派生词|tr=páishēngcí|sc=Hani}}
+* Czech: {{t|cs|odvozenina|f}}
+* Danish: {{t-needed|da}}
+* Dutch: {{t+|nl|afleiding|f}}
+* Esperanto: {{t+|eo|derivaĵo}}
+* Estonian: {{t|et|tuletis}}
+* Finnish: {{t+|fi|johdos}}
+* French: {{t+|fr|dérivé|m}}
+* German: {{t+|de|Ableitung|f}}, {{t+|de|Derivatum}}, {{t|de|Derivativum}}
+* Greek: {{t+|el|παράγωγο|n}}
+* Hungarian: {{t|hu|származékszó}}
+* Italian: {{t+|it|derivato|m}}, {{t+|it|derivata|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|派生語|tr=はせいご, haseigo}}
+* Korean: {{t+|ko|파생어}}
+* Maori: {{t|mi|takenga}}
+* Norwegian:
+*: Bokmål: {{t|nb|avledning|m|f}}
+* Polish: {{t+|pl|derywat|m-in}}
+* Portuguese: {{t+|pt|derivado|m}}
+* Romanian: {{t+|ro|derivat|n}}
+* Russian: {{t+|ru|дерива́т|m}}, {{t|ru|[[производный|произво́дное]] [[сло́во]]|n}}
+* Spanish: {{t+|es|derivado|m}}
+* Swedish: {{t+|sv|avledning|c}}
+* Thai: {{t+|th|ลูกคำ}}
+* Welsh: {{t+|cy|tarddair|m}}
+{{trans-bottom}}
+
+{{trans-top|financial instrument whose value depends on the valuation of an underlying instrument}}
+* Armenian: {{t+|hy|ածանցյալ}}
+* Chinese:
+*: Mandarin: {{t|cmn|衍生品|tr=yánshēngpǐn}}, {{t+|cmn|衍生產品}}, {{t+|cmn|衍生产品|tr=yǎnshēng chǎnpǐn}}
+* Czech: {{t|cs|derivát|m}}
+* Finnish: {{t+|fi|johdannainen}}
+* German: {{t+|de|Derivat|n}}
+{{trans-mid}}
+* Hungarian: {{t|hu|derivatíva}}
+* Japanese: {{t+|ja|デリバティブ|tr=deribatibu}}
+* Polish: {{t|pl|instrument pochodny|m-in}}, {{t+|pl|derywat|m-in}}
+* Russian: {{t+|ru|деривати́в|m}}
+* Spanish: {{t+|es|derivado|m}}
+{{trans-bottom}}
+
+{{trans-top|chemical derived from another}}
+* Armenian: {{t+|hy|ածանցյալ}}
+* Bulgarian: {{t+|bg|производно}}
+* Chinese:
+*: Mandarin: {{t+|cmn|衍生物|tr=yánshēngwù|sc=Hani}}
+* Danish: {{t|da|derivat|n}}
+* Finnish: {{t+|fi|johdos}}, {{t+|fi|johdannainen}}
+* German: {{t+|de|Abkömmling|m}}, {{t+|de|Derivat|n}}
+* Hungarian: {{t+|hu|származék}}
+* Italian: {{t+|it|derivato|m}}, {{t+|it|derivata|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|誘導体|tr=ゆうどうたい, yūdotai}}
+* Persian: {{t+|fa|اشتقاقی|tr=ešteqāqī}}
+* Polish: {{t+|pl|pochodna|f}}
+* Portuguese: {{t+|pt|derivado|m}}, {{t|pt|derivativo|m}}
+* Romanian: {{t+|ro|derivat|n}}
+* Russian: {{t+|ru|произво́дное|n}}, {{t+|ru|дерива́т|m}}
+* Spanish: {{t+|es|derivado|m}}
+* Swedish: {{t+|sv|derivat|n}}
+{{trans-bottom}}
+
+{{trans-see|in analysis: function|derived function}}
+
+{{trans-top|in analysis: value}}
+* Armenian: {{t+|hy|ածանցյալ}}
+* Bulgarian: {{t+|bg|произво́дна|f}}
+* Chinese:
+*: Cantonese: {{t|yue|導數}}, {{t|yue|导数|tr=dou6 sou3}}
+*: Mandarin: {{t+|cmn|導數}}, {{t+|cmn|导数|tr=dǎoshù}}
+* Czech: {{t+|cs|derivace|f}}
+* Danish: {{t|da|differentialkvotient|c}}
+* Estonian: {{t|et|tuletis}}
+* Finnish: {{t+|fi|derivaatta}}
+* French: {{t+|fr|dérivée|f}}
+* German: {{t+|de|Ableitung|f}}
+* Hebrew: {{t+|he|נגזרת|f|tr=nigzéret}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|derivált}}
+* Italian: {{t+|it|derivata|f}}
+* Maori: {{t|mi|pārōnaki}}
+* Polish: {{t+|pl|pochodna|f}}
+* Portuguese: {{t+|pt|derivada|f}}
+* Russian: {{t+|ru|произво́дная|f}}
+* Slovene: {{t|sl|odvod|m}}
+* Spanish: {{t+|es|derivada|f}}
+* Swedish: {{t+|sv|derivata|c}}
+* Tagalog: {{t|tl|hango}}
+* Turkish: {{t+|tr|türev}}
+{{trans-bottom}}
+
+----
+
+==German==
+
+===Pronunciation===
+* {{audio|de|De-derivative.ogg|Audio}}
+
+===Adjective===
+{{head|de|adjective form}}
+
+# {{de-adj form of|derivativ}}
+
+----
+
+==Italian==
+
+===Adjective===
+{{head|it|adjective form}}
+
+# {{feminine plural of|it|derivativo}}
+
+----
+
+==Latin==
+
+===Adjective===
+{{la-adj-form|dērīvātīve}}
+
+# {{inflection of|la|dērīvātīvus||voc|m|s}}
