@@ -1,227 +1,614 @@
-{{Wikipedia}}
+{{also|Plum|plüm}}
 ==English==
-=== Etymology ===
-From German ''prūme'', originally from the Latin ''prunum'', from the Greek ''prounon'', a variant form of ''proumnon'' meaning '''[[plum]]'''.
+{{slim-wikipedia}}
 
 ===Pronunciation===
-*[[w:AHD|AHD]]: plŭm
-*[[w:IPA|IPA]]: /plʌm/
-*[[w:SAMPA|SAMPA]]: /<tt>plVm</tt>/
+* {{enPR|plŭm}}, {{IPA|en|/plʌm/}}
+* {{audio|en|en-us-plum.ogg|Audio (US)}}
+* {{rhymes|en|ʌm|s=1}}
+* {{homophones|en|plumb}}
 
-====Homophones====
-*[[plumb]]
+===Etymology 1===
+From {{inh|en|enm|plomme}}, {{m|enm|ploume}}, from {{inh|en|ang|plūme}}, from {{inh|en|gmw-pro|*plūmā}}, borrowed from {{der|en|la|prūnum}}. {{doublet|en|prune}}.
+
+====Noun====
+[[Image:Plum on tree.jpg|thumb|A plum growing on a plum tree.]]
+{{en-noun}}
+
+# ''The fruit and its tree.''
+## The edible, fleshy [[stone fruit]] of ''[[Prunus domestica]]'', often of a dark red or purple colour. {{defdate|from 8th c.}}
+## The [[stone-fruit]] tree which bears this fruit, ''[[Prunus domestica]]''. {{defdate|from 8th c.}}
+## The edible, fleshy stone fruit of several species resembling the plum, or the tree from which they grow. {{defdate|from 16th c.}}
+### {{taxlink|Prunus sect. Prunus|section|ver=161009}}
+#### ''[[Prunus cerasifera]]'', the [[cherry plum]] or [[myrobalan]]
+#### {{taxlink|Prunus salicina|species|ver=161009}} the [[Chinese plum]] or [[Japanese plum]]
+#### ''[[Prunus spinosa]]'', the [[sloe]]
+#### {{taxlink|Prunus ursina|species|ver=161009}} the {{vern|bear's plum}}
+### {{taxlink|Prunus sect. Prunocerasus|section|ver=161009}} North American plums
+#### {{taxlink|Prunus americana|species|ver=161009}}, the {{vern|American plum}}
+#### ''[[Prunus angustifolia]]'', the {{vern|Chickasaw plum}} or {{vern|sand plum}}
+#### {{taxlink|Prunus hortulana|species|ver=161009}}, the {{vern|hortulan plum}}
+#### {{taxlink|Prunus nigra|species|ver=161009}}, the {{vern|Canadian plum}} or {{vern|black plum}}
+#### {{taxlink|Prunus rivularis|species|ver=161009}}, the {{vern|creek plum}} or [[hog plum]]
+#### ''[[Prunus subcordata]]'', the [[Klamath plum]] or [[Oregon plum]]
+### {{taxlink|Prunus sect. Armeniaca|section|ver=161009}} (better known as [[apricot]]s)
+#### ''[[Prunus mume]]'', an Asian fruit more closely related to the [[apricot]] than the plum, usually consumed pickled, dried, or as a juice or wine; [[ume]].
+## {{lb|en|now|rare}} A dried grape or [[raisin]], as used in a pudding or cake. {{defdate|from 17th c.}}
+# ''Extended senses.''
+## {{lb|en|now|rare|archaic}} One hundred thousand [[pound]]s; {{i|generally}} a [[fortune]]. {{defdate|from 18th c.}}
+##* {{RQ:Smollett Peregrine Pickle|volume=I|1|text=He {{...}} acquired a plentiful fortune, tho', to his infinite regret, he died before it amounted to a '''Plum''' {{...}}.}}
+## A [[desirable]] or choice thing of its kind; a prize selection; a choice appointment, assignment etc. {{defdate|from 19th c.}}
+##: {{ux|en|The mayor rewarded his cronies with cushy '''plums''', requiring little work for handsome pay.}}
+##* {{quote-book|1=en|year=1880|title= The Enemies of Books|author=William Blades|authorlink=William Blades|page=52|text=Such chances as this do not fall to a man's lot twice; but Edmond Werdet relates a story very similar indeed, and where also the "'''plums'''" fell into the lap of a London dealer.}}
+## A dark [[bluish]]-[[red]] [[color]]/[[colour]], the colour of some plums. {{defdate|from 19th c.}}
+##: {{color panel|5F4951}}
+##: {{color panel|web plum|CC99CC}}
+## {{lb|en|slang|usually|in the plural}} A [[testicle]]. {{defdate|from 20th c.}}
+## {{lb|en|pejorative|chiefly|UK}} A [[fool]], an [[idiot]].
+
+=====Synonyms=====
+* {{sense|tree}} {{l|en|plum tree}}, {{l|en|plumtree}}
+* {{sense|edible fleshy fruit of ''Prunus mume''}} {{l|en|ume}}
+
+=====Derived terms=====
+{{rel-top4|derived terms (types of fruit trees associated with places)}}
+* {{vern|American black plum}}
+* {{l|en|American wild plum}} ({{taxlink|Prunus americana|species|ver=181106}})
+* {{vern|Assyrian plum}} ({{taxlink|Cordia myxa|species|ver=181106}})
+* {{vern|Australian plum}} ({{taxlink|Cargillia arborea|species|ver=181106}}, {{taxlink|Cargillia australis|species|ver=181106}})
+* {{vern|Brazilian plum}}
+* {{vern|Canada plum}} ({{taxlink|Prunus nigra|species|ver=181106}})
+* {{l|en|Chinese plum}} (''[[Prunus mume]]'', {{taxlink|Prunus salicina|species|ver=181106}}, ''[[Eriobotrya japonica]]'')
+* {{vern|Darling plum}} ({{taxlink|Reynosia septentrionalis|species|ver=181106}})
+{{rel-mid4}}
+* {{vern|East Indian plum}}
+* {{vern|Florida sand plum}} (''[[Prunus angustifolia]]'')
+* {{l|en|Guinea plum}} ({{taxlink|Parinarium excelsum|species|ver=181106}})
+* {{l|en|Indian plum}} (''[[Flacourtia]]'' spp, esp {{taxlink|Flacourtia indica|species|ver=181106}}; {{taxlink|Osmaronia cerasiformis|species|ver=181106}})
+* {{vern|Jamaica plum}} ({{taxlink|Spondias mombin|species|ver=181106}})
+* {{l|en|Japanese plum}} (''[[Prunus mume]]'', {{taxlink|Prunus salicina|species|ver=181106}})
+* {{vern|Japan plum}} (''{{ll|mul|Diospyros kaki}}'', ''[[Eriobotrya japonica]]'')
+{{rel-mid4}}
+* {{vern|Morocco plum}}
+* {{l|en|Natal plum}} ({{taxlink|Carissa bispinosa|species|ver=181106}}, {{taxlink|Carissa grandiflora|species|ver=181106}})
+* {{vern|Orleans plum}}
+* {{vern|Port Arthur plum}}
+* {{vern|Queensland plum}}
+* {{vern|Satsuma plum}}
+{{rel-mid4}}
+* {{l|en|Sierra plum}} (''[[Prunus subcordata]]'')
+* {{vern|Spanish plum}} ({{taxlink|Spondias purpurea|species|ver=181106}}, ''[[Ximenia americana]]'')
+* {{vern|Tasmanian plum}}
+* {{vern|yellow Spanish plum}}
+{{rel-bottom}}
+{{rel-top4|other derived terms}}
+* {{l|en|apple-plum}}
+* {{l|en|beach plum}}, {{vern|beach-plum}} ({{taxlink|Prunus maritima|species|ver=181106}})
+* {{vern|big-tree plum}} ({{taxlink|Prunus mexicana|species|ver=181106}})
+* {{l|en|black plum of Illawarra}}
+* {{vern|blood plum}}
+* {{vern|bullace plum}} ({{taxlink|Prunus institia|species|ver=181106}})
+* {{vern|burdekin plum}} ({{taxlink|Pleiogynium solandri|species|ver=181106}})
+* {{vern|carissa plum}} (''[[Carissa]]'' spp.)
+* {{l|en|cherry plum}} (''[[Prunus cerasifera]]'')
+* {{vern|Cherokee plum}} (''[[Prunus angustifolia]]'')
+* {{vern|Chickasaw plum}} (''[[Prunus angustifolia]]'')
+* {{l|en|cocoa plum}}, {{vern|coco plum}}, {{l|en|cocoplum}} ({{taxlink|Chrysobalanus icaco|species|ver=181106}})
+* {{vern|common plum}} (''[[Prunus domestica]]'')
+* {{l|en|damascene plum}}, {{l|en|damask plum}}, {{l|en|damson plum}} ({{taxlink|Prunus insititia|species|ver=181106}})
+* {{l|en|date plum}}, {{l|en|date-plum}} (''[[Diospyros]]'' spp., esp. ''[[Diospyros lotus]]'')
+* {{l|en|doveplum}}
+* {{l|en|dried plum}}<!--US advertisers' term for "prune", used with the intention of avoiding the negative connotations of that word-->
+* {{l|en|gingerbread plum}}
+* {{l|en|golden plum}}
+* {{vern|gopher plum}} ({{taxlink|Nyssa ogeche|species|ver=181106}}, {{taxlink|Chrysobalanus icaco|species|ver=181106}}, {{taxlink|Chrysobalanus oblongifolius|species|ver=181106}})
+* {{vern|governor's plum}}, {{vern|governor plum}} ({{taxlink|Flacourtia indica|species|ver=181106}})
+* {{vern|gray plum}}, {{vern|grey plum}} ({{taxlink|Parinarium excelsum|species|ver=181106}})
+* {{vern|green plum}} (''[[Prunus mume]]'')
+* {{vern|greengage plum}} ({{taxlink|Prunus italica|species|ver=181106}}, syn. {{taxlink|Prunus domestica subsp. italica|subspecies|ver=181106}})
+* {{vern|ground plum}} (''[[Astragalus]]'' spp., especially {{taxlink|Astragalus caryocarpus|species|ver=181106}})
+* [[hog plum]], [[hogplum]] (''[[Spondias]]'' spp., {{taxlink|Metopium toxiferum|species|ver=181106}}, ''[[Prunus angustifolia]]'', ''[[Ximenia americana]]'')
+* {{vern|horse plum}} ({{taxlink|Prunus americana|species|ver=210915}}, {{taxlink|Prunus nigra|species|ver=181106}})
+* {{vern|leaf-curling plum aphid}}
+{{rel-mid4}}
+* {{l|en|maiden plum}}
+* {{vern|marmalade plum}} ({{taxlink|Calocarpum zapota|species|ver=181106}}, {{taxlink|Mammea americana|species|ver=181106}})
+* {{vern|mealy plum aphid}} ({{taxlink|Hyalopterus pruni|species|ver=181106}})
+* {{l|en|mirabelle plum}} (''[[Prunus cerasifera]]'')
+* {{l|en|mobola plum}} ({{taxlink|Parinari curatellifolia|species}})
+* [[mountain plum]] (''[[Ximenia americana]]'')
+* {{vern|moxie plum}} ({{taxlink|Gaultheria hispidula|species|ver=181106}})
+* {{l|en|muscle plum}}
+* {{l|en|mussel plum}}
+* {{vern|myrobalan plum}}, {{l|en|myrobella plum}} (''[[Prunus cerasifera]]'')
+* {{vern|olive plum}} ({{taxlink|Elaeodendron|genus|ver=181106}} spp.)
+* {{l|en|nectaplum}}
+* {{l|en|partridge plum}}
+* {{l|en|pear-plum}}
+* {{l|en|persimmon-plum}}
+* {{vern|pigeon plum}} (''[[Coccoloba]]'' spp., {{taxlink|Chrysobalanus ellipticus|species|ver=181106}})
+* {{vern|plum bird}} (''[[Pyrrhula pyrrhula]]'')
+* {{vern|plum bladder}} ({{taxlink|Taphrina|genus|ver=181106}} spp.)
+* {{l|en|plum blossom}}
+* {{vern|plum blotch}} ({{taxlink|Phyllosticha congesta|species|ver=181106}})
+* {{l|en|plum brandy}}
+* {{vern|plum budder}} (''[[Pyrrhula pyrrhula]]'')
+* {{vern|plum-colored starling}} ({{taxlink|Cinnyricinclus leucogaster|species|ver=181106}})
+* {{l|en|plum curculio}} ({{taxlink|Conotrachelus nenuphar|species|ver=181106}})
+* {{vern|plum fir}} ({{taxlink|Prumnopitys andina|species|ver=181106}})
+* {{vern|plum fruit moth}}
+* {{vern|plum-fruited yew}} ({{taxlink|Prumnopitys andina|species|ver=181106}})
+* {{l|en|plum gouger}} ({{taxlink|Anthonomus scutellaris|species|ver=181105}})
+* {{vern|plum grape}}
+* {{vern|plum-headed finch}} ({{taxlink|Neochmia modesta|species|ver=181106}})
+* {{vern|plum-headed parakeet}} (''[[Psittacula cyanocephala]]'')
+* {{l|en|plum peach}}
+* {{l|en|plum pine}} ({{taxlink|Podocarpus elatus|species|ver=181106}})
+* {{vern|plum pocket}} ({{taxlink|Taphrina pruni|species|ver=181106}}, {{taxlink|Taphrina communis|species|ver=181106}})
+* {{l|en|plum pox}}
+* {{taxlink|Plum pox virus|species|ver=181106}}
+* {{l|en|plum pudding}}, {{l|en|plum-pudding}}
+* {{l|en|plum rains}}
+* {{l|en|plum sauce}}
+* {{vern|plum scab}} ({{taxlink|Cladosporium carpophilum|species|ver=181106}})
+{{rel-mid4}}
+* {{vern|plum thrips}} ({{taxlink|Taeniothrips inconsequens|species|ver=181106}})
+* {{vern|plum-throated cotinga}} ({{taxlink|Cotinga maynana|species|ver=181106}})
+* {{l|en|plum tomato}}
+* {{l|en|plum tree}}
+* {{vern|plum weevil}} ({{taxlink|Conotrachelus nenuphar|species|ver=181106}})
+* {{l|en|plum wine}}
+* {{l|en|plum yew}}, {{vern|plum-yew}} (''[[Cephalotaxus]]'')
+* {{l|en|plum-blossom}}
+* {{l|en|plum-broth}}
+* {{l|en|plum-cake}}
+* {{l|en|plum-color}}, {{l|en|plum-colour}}
+* {{l|en|plum-colored}}, {{l|en|plum-coloured}}
+* {{l|en|plumcot}}
+* {{l|en|plum-damas}}, {{l|en|plumdamas}}, {{l|en|plum-damis}}
+* {{l|en|plum-dough}}, {{l|en|plum-duff}}
+* {{l|en|plum in one's mouth}}
+* {{vern|plum juniper}} ({{taxlink|Juniperus macrocarpa|species|ver=191106}}, {{taxlink|Juniperus drupacea|species|ver=181106}})
+* {{vern|plum leafhopper}} ({{taxlink|Macropsis trimaculata|species|ver=181106}})
+* {{l|en|plumless}}
+* {{l|en|plummy}}
+{{rel-mid4}}
+* {{l|en|plum-pie}}
+* {{l|en|plum pine}} ({{taxlink|Podocarpus elatus|species|ver=181106}})
+* {{l|en|plum-porridge}}
+* {{l|en|plum-pottage}}
+* {{l|en|plumrock}}
+* {{l|en|plum-stone}}
+* {{l|en|pluot}}
+* {{vern|prairie plum}} (''[[Prunus angustifolia]]'')
+* {{vern|purple-leaved plum}} ({{taxlink|Prunus cerasifera subsp. pissardi|subspecies|ver=181106}})
+* {{vern|red plum}} ({{taxlink|Prunus americana|species|ver=181106}}, {{taxlink|Prunus nigra|species|ver=181106}})
+* {{vern|rough-skin plum}} ({{taxlink|Parinarium excelsum|species|ver=181106}})
+* {{vern|saffron plum}} ({{taxlink|Bumelia angustifolia|species|ver=181106}})
+* {{vern|sand plum}} ({{taxlink|Prunus angustifolia subsp. watsonii|subspecies|ver=181106}})
+* {{vern|sandhill plum}} (''[[Prunus angustifolia]]'')
+* {{l|en|sapodilla plum}}
+* {{vern|seaside plum}} (''[[Ximenia americana]]'', {{taxlink|Coccoloba uvifera|species|ver=181106}})
+* {{vern|sebesten plum}} ({{taxlink|Cordia myxa|species|ver=181106}})
+* {{vern|seeded plum}} (''[[Diospyros]]'' spp.)
+* {{l|en|shore plum}}
+* {{l|en|slugplum}}
+* {{vern|sour plum}} ({{taxlink|Owenia acidula|species|ver=181106}}, ''[[Ximenia]]'' spp.)
+* {{vern|star plum}} (''[[Chrysophyllum cainito]]'')
+* {{l|en|sugar plum}}, {{l|en|sugar-plum}}, {{l|en|sugarplum}}
+* {{vern|sweet plum}} ({{taxlink|Pleiogynium solandri|species|ver=181106}})
+* {{vern|tamarind plum}}
+* {{vern|thorn plum}} (''[[Crataegus]]'' spp., ''[[Datura stramonium]]'')
+* {{l|en|urucuri plum}}
+* {{l|en|Victoria plum}}
+* {{l|en|western plum}} (''[[Prunus subcordata]]'')
+* {{l|en|wheat-plum}}
+* {{vern|wild-goose plum}} ({{taxlink|Prunus hortulana|species|ver=181106}}, {{taxlink|Prunus munsoniana|species|ver=181106}})
+* [[wild plum]]
+* {{vern|winter plum}} (''[[Diospyros]]'' spp)
+* {{vern|yellow plum}} ({{taxlink|Prunus americana|species|ver=181106}})
+* {{l|en|yellowgage plum}}
+{{rel-bottom}}
+
+=====Descendants=====
+* {{desc|bor=1|kw|ploum}}
+* {{desc|bor=1|gv|plumbis}}
+* {{desc|bor=1|ja|プラム|tr=puramu}}
+* {{desc|bor=1|gd|plumas}}
+* {{desc|bor=1|th|พลัม}}
+
+=====Translations=====
+{{trans-top|fruit of ''Prunus domestica''}}
+* Afrikaans: {{t+|af|pruim}}
+* Ainu: {{t|ain|モマ|tr=moma}}
+* Albanian: {{t+|sq|kumbull|f}}
+* Arabic: {{t|ar|بَرْقُوق|m}}
+*: Egyptian Arabic: {{t|arz|برقوق|m|tr=barʾūʾ}} {{qualifier|collective}}, {{t|arz|برقوقة|f|tr=barʾūʾa}} {{qualifier|singulative}}
+*: Hijazi Arabic: {{t|acw|بخارى|f|tr=buḵāra}}, {{t|acw|بخارة|f|tr=buḵāra}}
+*: Moroccan Arabic:  {{t|ary|برقوق|tr=barqūq}} {{qualifier|collective}}, {{t|ary|برقوقة|f|tr=barqūqa}} {{qualifier|singulative}}
+*: South Levantine Arabic: {{t|ajp|خوخ|m|tr=xox}}
+* Aragonese: {{t|an|zirgüello}}
+* Armenian: {{t+|hy|սալոր}}, {{qualifier|dialectal}} {{t+|hy|շլոր}}
+* Aromanian: {{t|rup|damaschinã|f}}, {{t|rup|dhamaskinã|f}}
+* Assyrian Neo-Aramaic: {{t|aii|ܒܲܪܩܘܿܩܵܐ|tr=bārqoqa|m}}
+* Asturian: {{t+|ast|ciruela|f}}, {{t|ast|cirigüeyu|m}}, {{t+|ast|nisu|m}}, {{t+|ast|ñisu|m}}
+* Azerbaijani: {{t+|az|gavalı}}
+* Basque: {{t+|eu|aran}}
+* Belarusian: {{t|be|слі́ва|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|сли́ва|f}}
+* Burmese: {{t|my|ဇီးသီ}}
+* Catalan: {{t+|ca|pruna|f}}
+* Cherokee: {{t|chr|ᏆᏄᎾᏍᏗᎢ|sc=Cher}}
+* Chinese:
+*: Cantonese: {{t+|yue|李|tr=lei5-2|sc=Hani}}, {{t|yue|李子|tr=lei5 zi2|sc=Hani}},{{t|yue|布冧|tr=bou3 lam1|sc=Hani}}
+*: Mandarin: {{t+|cmn|李子|tr=lǐzi|sc=Hani}}
+*: Min Nan: {{t+|nan|李仔|tr=lí-á|sc=Hans}}, {{t+|nan|李|tr=lí|sc=Hani}}
+* Crimean Tatar: {{t|crh|erik}}
+* Czech: {{t+|cs|švestka|f}}, {{t|cs|slíva|f}}
+* Dalmatian: {{t|dlm|susana|f}}
+* Danish: {{t+|da|blomme}}
+* Dutch: {{t+|nl|pruim|c}}
+* Esperanto: {{t|eo|pruno}}
+* Estonian: {{t+|et|ploom}}
+* Faroese: {{t|fo|blomma|f}}
+* Finnish: {{t+|fi|luumu}}
+* French: {{t+|fr|prune|f}}
+* Friulian: {{t|fur|ciespe|f}}, {{t|fur|emul}}, {{t|fur|bromb|m}}, {{t|fur|brugnul|m}}, {{t|fur|siespe|f}}
+* Galician: {{t+|gl|ameixa|f}}, {{t+|gl|cirola|f}}; {{t+|gl|fatón|m}}, {{t|gl|ambruíña|f}}, {{t+|gl|abruño|m}}, {{t+|gl|agruño|m}}, {{t|gl|cerollo|m}}
+* Georgian: {{t|ka|ქლიავი}}
+* German: {{t+|de|Pflaume|f}}, {{t+|de|Zwetschge|f}}
+*: Alemannic German: {{t|gsw|Fluume|f}}
+* Greek: {{t+|el|δαμάσκηνο|n}}
+*: Ancient: {{t|grc|προῦμνον|n}}
+* Hebrew: {{t+|he|שְׁזִיף|m|tr=sh'zíf|sc=Hebr}}
+* Hindi: {{t+|hi|आलूचा|sc=Deva}}, {{t+|hi|आलूबुखारा|sc=Deva}}, {{t+|hi|बेर|sc=Deva}}
+* Hungarian: {{t+|hu|szilva}}
+* Icelandic: {{t|is|plóma|f}}
+* Ido: {{t+|io|pruno}}
+* Interlingua: {{t|ia|pruna}}
+* Irish: {{t|ga|pluma|m}}
+* Italian: {{t+|it|prugna|f}}, {{t+|it|susina|f}}
+* Japanese: {{t+|ja|セイヨウスモモ|tr=seiyōsumomo}}, {{t+|ja|プラム|tr=puramu}}
+* Kannada: {{t-needed|kn}}
+* Kazakh: {{t|kk|алхоры}}, {{t|kk|қараөрік}}
+* Khmer: {{t|km|ម៉ាក់ប្រាង|tr=makpraang|sc=Khmr}}
+* Korean: {{t+|ko|자두}}, {{t|ko|서양자두}}, {{t|ko|오얏}}
+* Kyrgyz: {{t+|ky|кайналы}}, {{t|ky|кара өрүк}}
+* Ladin: {{t|lld|sunjin|m}}
+* Lao: {{t|lo|ໝາກໝັ້ນ}}
+* Latin: {{t|la|prūnum|n}}
+* Latvian: {{t+|lv|plūme|f}}
+* Lithuanian: {{t+|lt|slyva}}
+* Livonian: {{t|liv|plūm}}, {{t|liv|plūmõz}}
+* Lombard: {{t+|lmo|brugna|f}}, {{t|lmo|brügna|f}}
+* Low German: {{t|nds|Pluum|f}}
+{{trans-mid}}
+* Luxembourgish: {{t|lb|Promm|f}}, {{t|lb|Praum|f}}
+* Macedonian: {{t|mk|слива|f}}
+* Malagasy: {{t|mg|pesombazaha}}
+* Malayalam: {{t|ml|പ്ലം}}, {{t|ml|ആലുചാ}}
+* Maltese: {{t|mt|għanbaqar}}
+* Manx: {{t|gv|plumbis|m}}
+* Maori: {{t|mi|paramu}}
+* Middle English: {{t|enm|plomme}}, {{t|enm|prune}}
+* Middle High German: {{t|gmh|pflūme}}, {{t|gmh|pfrūme}}
+* Navajo: {{t|nv|chʼil naʼatłʼoʼiitsoh}}
+* Norman: {{t|nrf|preune|f}}
+* Northern Thai: {{t-needed|nod}}
+* Norwegian:
+*: Bokmål: {{t+|nb|plomme|m|f}}
+*: Nynorsk: {{t|nn|plomme|f}}
+* Occitan: {{t+|oc|pruna|f}}
+* Ojibwe: {{t|oj|bagesaan}}
+* Old English: {{t|ang|plūme|f}}
+* Old High German: {{t|goh|pfrūma}}
+* Papiamentu: {{t|pap|preimu}}
+* Persian: {{t+|fa|آلو|tr=âlu|sc=fa-Arab}}
+* Punjabi: {{t|pa|ਆਲੂਬੁਖ਼ਾਰਾ|m}}, {{t+|pa|ਅਲੂਚਾ|m}}
+* Plautdietsch: {{t|pdt|Plum|f}}
+* Polish: {{t+|pl|śliwka|f}}
+* Portuguese: {{t+|pt|ameixa|f}}, {{t+|pt|amêixoa}}
+* Romanian: {{t+|ro|prună|f}}
+* Romansch: {{t|rm|primbla|f}}, {{t|rm|prema|f}}, {{t|rm|prem|m}}, {{t|rm|zuesca|f}}, {{t|rm|zvetga|f}}, {{t|rm|paloja|f}}, {{t|rm|paloga|f}}, {{t|rm|prüna|f}}, {{t|rm|brümbla|f}}
+* Russian: {{t+|ru|сли́ва|f}}
+* Scots: {{t|sco|ploom}}, {{t|sco|ploum}}
+* Scottish Gaelic: {{t|gd|plumas|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|шљива|f}}
+*: Roman: {{t+|sh|šljiva|f}}
+* Shan: {{t-needed|shn}}
+* Sicilian: {{t+|scn|prunu|m}}, {{t+|scn|pruna|m}}
+* Slovak: {{t+|sk|slivka|f}}
+* Slovene: {{t+|sl|sliva|f}}, {{t|sl|češplja|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|slěwka|f}}
+* Southern Thai: {{t-needed|sou}}
+* Spanish: {{t+|es|ciruela|f}}, {{t+|es|pruna|f}}
+* Swahili: {{t+|sw|mzambarau}}
+* Swedish: {{t+|sv|plommon|n}}
+* Tagalog: {{t|tl|sirwelas}}
+* Tamil: {{t-needed|ta}}
+* Taos: {{t|twf|pùlulúna}}
+* Telugu: {{t-needed|te}}
+* Thai: {{t|th|พลัม}}, {{t|th|พรุน}}
+* Tibetan: {{t|bo|ཤིང་ཏོག་པ་ལམ}}
+* Tigrinya: {{t|ti|በርቁቕ}}, {{t|ti|ፕሩኞ}}
+* Turkish: {{t+|tr|erik}}
+* Turkmen: {{t|tk|erik}}
+* Udi: {{t|udi|дампӏул}}
+* Ukrainian: {{t|uk|сли́ва|f|sc=Cyrl}}
+* Urdu: {{t|ur|بیر|tr=ber|sc=ur-Arab}}
+* Uzbek: {{t+|uz|olxoʻri}}
+* Venetian: {{t|vec|brónba|f}}, {{t|vec|brógna|f}}, {{t|vec|àmoło|m}}, {{t|vec|amolo|m}}, {{t|vec|çiéspa|f}}
+* Vietnamese: {{t+|vi|mận}}, {{t|vi|quả mận}}, {{t|vi|trái mận}}
+* Vilamovian: {{t|wym|fłaojm|f}}
+* Volapük: {{t+|vo|plöm}}
+* Walloon: {{t+|wa|pronne|f}}, {{t+|wa|biyoke|f}} {{qualifier|big variety}}
+* Welsh: {{t+|cy|eirinen}}
+* West Frisian: {{t|fy|prom}}
+* Yiddish: {{t|yi|פֿלוים|f|sc=Hebr}}
+* Zhuang: {{t|za|makmaenj}}
+{{trans-bottom}}
+
+{{trans-top|tree}}
+* Afrikaans: {{t+|af|pruim}}
+* Ainu: {{t|ain|モマニ|tr=momani}}
+* Armenian: {{t+|hy|սալորենի}}
+* Aromanian: {{t|rup|damaschin|m}}, {{t|rup|dhamaskin|m}}
+* Asturian: {{t+|ast|cirolal|f}}, {{t|ast|ciroleru|m}}, {{t+|ast|nisal|m|f}}
+* Basque: {{t|eu|aranondo}}
+* Catalan: {{t|ca|pruner|m}}, {{t|ca|prunera|f}}
+* Cheyenne: {{t|chy|ma'xemenó'e}}
+* Chinese:
+*: Mandarin: {{t+|cmn|李|sc=Hani}}
+* Czech: {{t+|cs|švestka|f}}, {{t|cs|slíva|f}}
+* Danish: {{t+|da|blomme}}, {{t+|da|blommetræ}}
+* Dutch: {{t+|nl|pruimenboom|m}}, {{t+|nl|pruim|m}}
+* Estonian: {{t|et|ploomipuu}}
+* Finnish: {{t+|fi|luumupuu}}
+* French: {{t+|fr|prunier|m}}
+* Friulian: {{t|fur|emolâr}}, {{t|fur|sespâr|m}}, {{t|fur|cespâr|m}}, {{t|fur|brugnulâr|m}}
+* Galician: {{t+|gl|ameixeira|f}}, {{t+|gl|fatoeiro|m}}, {{t+|gl|abruñeiro|m}}, {{t|gl|gruñeiro|m}}, {{t|gl|agruñeiro|m}}, {{t|gl|cerolleiro|m}}
+* German: {{t+|de|Pflaumenbaum|m}}
+* Greek: {{t+|el|δαμασκηνιά|f}}
+*: Ancient: {{t|grc|προύμνη|f}}
+* Hungarian: {{t+|hu|szilvafa}}
+* Icelandic: {{t|is|plómutré|f}}
+* Ido: {{t+|io|pruniero}}
+* Irish: {{t|ga|crann plumaí|m}}
+* Italian: {{t+|it|prugno|m}}, {{t+|it|susino|m}}
+* Japanese: {{t+|ja|セイヨウスモモ|tr=seiyō sumomo}}
+* Korean: {{t|ko|자두나무}}
+{{trans-mid}}
+* Lao: {{t|lo|ໝາກພຼຳ}}
+* Latin: {{t|la|prūnus|f}}
+* Latvian: {{t+|lv|plūme|f}}
+* Livonian: {{t|liv|plūmpū}}, {{t|liv|plūmõpū}}
+* Luxembourgish: {{t|lb|Prommebam|m}}, {{t|lb|Praumebam|m}}
+* Macedonian: {{t|mk|слива|f}}
+* Manx: {{t|gv|billey plumbis|m}}
+* Maori: {{t|mi|paramu}}
+* Middle English: {{t|enm|plomme}}, {{t|enm|plumtre}}
+* Norman: {{t|nrf|preunyi|m}}
+* Old English: {{t|ang|plūme|f}}, {{t|ang|plūmtrēow|n}}
+* Papiamentu: {{t|pap|preimu}}
+* Polish: {{t+|pl|śliwa|f}}
+* Portuguese: {{t+|pt|ameixeira|f}}
+* Romanian: {{t+|ro|prun|m}}
+* Russian: {{t+|ru|сли́ва|f}}
+* Sardinian: {{t|sc|pruna|f}}
+* Scots: {{t|sco|ploom}}, {{t|sco|ploum}}
+* Scottish Gaelic: {{t|gd|plumas|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|шљива|f}}
+*: Roman: {{t+|sh|šljiva|f}}
+* Slovene: {{t+|sl|sliva|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|slěwka|f}}
+* Spanish: {{t+|es|ciruelo|m}}
+* Swahili: {{t+|sw|mzambarau}}
+* Swedish: {{t+|sv|plommonträd|n}}
+* Vietnamese: {{t|vi|cây mận}}
+* Volapük: {{t+|vo|plömabim}}
+{{trans-bottom}}
+
+{{trans-top|colour}}
+* Afrikaans: {{t+|af|pers}}
+* Catalan: {{t|ca|color pruna}}
+* Danish: {{t+|da|blomme}}farve
+* Dutch: {{t+|nl|donkerrood|n}}
+* Esperanto: {{t|eo|prunkoloro}}
+* Finnish: {{t|fi|luumunpunainen}}
+* Greek: {{t+|el|δαμασκηνί|n}}
+* Icelandic: {{t|is|plómublár|f}}
+{{trans-mid}}
+* Ido: {{t|io|pruneo}}, {{t|io|prunekoloro}}
+* Irish: {{t|ga|plumachorcra}}
+* Japanese: {{t|ja|暗紫色|tr=あんししょく, anshishoku}}
+* Spanish: {{t|es|color ciruela}}, {{t+|es|ciruela}}
+* Swahili: {{t+|sw|zambarau}}
+* Vietnamese: {{t|vi|màu mận}}
+{{trans-bottom}}
+
+{{trans-top|desirable thing}}
+* Danish: {{t|da|lækkerbisken|c}}
+* Finnish: {{t|fi|herkkupala}}
+* French: {{t|fr|meilleur morceau|m}}
+{{trans-mid}}
+* German: {{t+|de|Leckerbissen|m}}
+* Swahili: {{t+|sw|mzambarau}}
+* Vietnamese: (noun +) [[chọn lọc]], {{t|vi|món bở}}
+{{trans-bottom}}
+
+{{trans-top|handsome fortune or property}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|good or choice thing of its kind}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|raisin when used in pudding or cake|raisin}}
+
+{{trans-top|fool, idiot}}
+* Spanish: {{t+|es|pelotudo}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|slang: testicle}}
+* Bulgarian: {{t+|bg|топка|f}}
+* Catalan: {{t+|ca|pilotes|m-p}}, {{t+|ca|ous|m-p}}
+* Finnish: {{t+|fi|palli}}
+* Portuguese: {{t+|pt|bolas|f-p}}
+{{trans-mid}}
+* Romanian: {{t+|ro|ouă|n-p}}
+* Spanish: {{t+|es|huevos|m-p}}
+* Swahili: {{t+|sw|mzambarau}}
+{{trans-bottom}}
+
+{{trans-see|fruit of ''Prunus mume''|ume}}
+
+{{checktrans-top}}
+* Latin: {{t-check|la|prunum|n}}
+* Lithuanian: {{t+check|lt|slyva|f}} (1, 2), {{t-check|lt|slyvinis|m}} (3)
+* Norwegian: {{t+check|no|plomme}}
+* Old English: {{t-check|ang|plūme|f|sc=Latinx}}
+* Sanskrit: {{t+check|sa|कर्कन्धुः|sc=Deva}}
+{{trans-mid}}
+* Thai: {{t-check|th|ลูกพุทราฝรั่ง|sc=Thai}}
+* Volapük: {{t+check|vo|plöm}}
+* Welsh: {{t+check|cy|eirinen|f}}
+* Zulu: {{t-check|zu|iplamu}}, {{t-check|zu|ithungulu}}
+{{trans-bottom}}
+
+====Adjective====
+{{en-adj|more}}
+
+# {{lb|en|comparable}} Of a dark bluish-red colour.
+# {{lb|en|not comparable}} [[choice|Choice]]; especially [[lavish]] or [[preferred]].
+#: {{ux|en|She landed a '''plum''' position as an executive for the firm.}}
+#* {{quote-journal|en|year=1960|month=March|author=G. Freeman Allen|title=Europe's most luxurious express - the "Settebello"|journal=Trains Illustrated|page=146|text=It is obviously a "'''plum'''" job, one distinction being that its motormen are granted an allowance of about 6s. <small>[six shillings]</small> towards the cost of Wagons-Lits food in the crew quarters of the train, [...]. Additionally, by the way, each man is allowed a quarter of a bottle of wine "on the house" per trip!}}
+
+=====Translations=====
+{{trans-top|colour}}
+* Catalan: {{t+|ca|pruna}}
+* Danish: {{t|da|blommefarvet}}
+* Dutch: {{t+|nl|donkerrood}}, {{t+|nl|donkerrode}}
+* Finnish: {{t|fi|luumunpunainen}}
+* French: {{t+|fr|prune}}
+* Ido: {{t|io|prunea}}
+{{trans-mid}}
+* Irish: {{t|ga|plumachorcra}}
+* Japanese: [[暗紫色]]の (あんししょくの, anshishoku no)
+* Romanian: {{t+|ro|prună|f}}
+* Swahili: {{t+|sw|zambarau}}
+* Vietnamese: [[màu]] [[mận]]
+{{trans-bottom}}
+
+{{trans-top|choice}}
+* Finnish: {{t|fi|[[huippu|huippu-]]}}
+* German: {{t+|de|begehrt}}
+* Spanish: {{t+|es|selecto}}, {{t+|es|escogido}}
+{{trans-mid}}
+* Swahili: {{t+|sw|zambarau}}
+* Vietnamese: {{t+|vi|chọn lọc}}
+{{trans-bottom}}
+
+====See also====
+{{top3}}
+* {{l|en|briolette}}
+* {{l|en|damson}}
+* {{l|en|greengage}}
+* {{l|en|mirabelle}}
+{{mid3}}
+* {{l|en|myrobalan}}
+* {{l|en|prune}}
+<!--"raisin": a dried grape; nothing to do with plums-->
+* {{l|en|sapote}}
+* {{l|en|slivovitz}}
+{{mid3}}
+* {{l|en|sloe}}
+* {{l|en|umeboshi}}
+* {{l|en|umesu}}
+* [[Appendix:Colors]]
+{{bottom}}
+
+===Etymology 2===
+Phonetically based spelling of {{m|en|plumb}}.
+
+====Adjective====
+{{en-adj}}
+
+# [[plumb|Plumb]]
+
+====Adverb====
+{{en-adv|-}}
+
+# [[completely|Completely]]; [[utterly]].
+#: ''You're going to think I'm '''plum''' crazy for this, but I want to adopt all seven kittens.''
+
+=====Translations=====
+{{trans-top|completely; utterly}}
+* Finnish: {{t+|fi|umpi-}}
+{{trans-mid}}
+* Vietnamese: [[quá sức]] ([[tưởng tượng]])
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|mining}} To [[plumb]].
+
+===Anagrams===
+* {{anagrams|en|a=lmpu|lump}}
+
+[[Category:English degree adverbs]]
+[[Category:English intensifiers]]
+[[Category:en:Colors]]
+[[Category:en:Fruits]]
+[[Category:en:Prunus genus plants]]
+[[Category:en:Purples]]
+[[Category:en:Trees]]
+
+----
+
+==Middle English==
 
 ===Noun===
-'''plum''' (''plural'' '''[[plums]]''')
+{{head|enm|noun}}
 
-#(''also'' '''plum tree''') A [[stone-fruit]] tree of the ''[[Prunus]]'' family.
-#The [[fruit]] of the plum tree.
-#(colour) A dark [[bluish]]-[[red]] [[color]]/[[colour]], the colour of some plums.
-#:<table><tr><td>plum colour: &nbsp;</td><td bgcolor="#5F4951" width="80">&nbsp; </td></tr></table>
-#A desirable thing.
-#A [[raisin]], when used in a pudding or cake.
-#(''slang''; ''usually in plural'') A [[testicle]].
+# {{alternative form of|enm|plomme}}
 
+----
 
-====Translations====
+==Rade==
 
-'''tree'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*Finnish: [[luumupuu]]
-*Italian: [[prugno]] ''m''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Japanese: [[セイヨウスモモ]] (seiyō sumomo)
-*Swedish: [[plommonträd]] ''n''
-|}
-|}
+===Etymology===
+From {{der|rad|cmc-pro|*plum}}, from {{der|rad|aav}}.
 
-'''fruit'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*Finnish: [[luumu]]
-*French: [[prune]] ''f''
-*Italian: [[prugna]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Japanese: [[セイヨウスモモ]] (seiyōsumomo), [[プラム]] (puramu)
-*Swedish: [[plommon]] ''n''
-|}
-|}
+===Noun===
+{{head|rad|noun}}
 
-'''colour'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*Finnish: [[luumunpunainen]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Japanese: [[暗紫色]] (あんししょく, anshishoku)
-|}
-|}
+# [[land-leech]]
 
-'''desirable thing'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-|}
-|}
+===References===
+* {{cite book|author=James A. Tharp|last=Tharp|first=James A.|author2=Y-Bhăm Ƀuôn-yǎ|year=1980|title=A Rhade-English Dictionary with English-Rhade Finderlist|url=https://core.ac.uk/download/pdf/159464818.pdf|series=Pacific Linguistics. Series C-58|location=Canberra|publisher=Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University|page=107|isbn=0 85883 217 8|titel=Archived copy|accessdate=22 December 2021|archiveurl=https://web.archive.org/web/20211101060933/https://core.ac.uk/download/pdf/159464818.pdf|archivedate=1 November 2021}}
 
-'''raisin'''
-''See'' '''[[raisin]]'''
+----
 
-'''slang: testicle'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-|}
-|}
+==Romansch==
 
-=====Translations to be checked=====
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
+===Alternative forms===
+* {{qualifier|Sutsilvan}} {{l|rm|plùn}}, {{l|rm|plùm}}
+* {{qualifier|Surmiran|Puter|Vallader}} {{l|rm|plom}}
 
-The translations below need to be checked by native speakers and inserted into the appropriate table(s) above, removing the numbers.  The numbering is unreliable.
+===Etymology===
+From {{inh|rm|la|plumbum||lead}}.
 
-*Arabic: [[برقوق]] (barqūq), [[خوخ]] (khaukh)
-*[[Binisayâ]]: [[sirwelas]]
-*Bosnian: [[šljiva]] ''f''
-*Bulgarian: [[слива]] (sliva) ''f'' (2)
-*[[Burmese]]: [[မက္မန္းသီး]] (makmansii)
-*Chinese: [[李子]] (lǐzi)
-*Croatian: [[šljiva]] ''f'' (2, 1)
-*Czech: [[švestka]] ''f'', [[slíva]] ''f''
-*Dutch: [[pruimenboom]] (1), [[pruim]] (2), [[donkerrood]] (3), [[rozijn]] (5)
-*[[Old English]]: [[plūme]] ''f''
-*[[Esperanto]]: [[pruno]]
-*Estonian: [[ploom]]
-*[[Farsi]]: [[آلو]] (alu), [[گوجه]] (gujah)
-*[[Frisian]]: [[prom]] (2), [[rezyn]] (5)
-*Galician: [[ameixeira]] ''f'' (1), [[ameixa]] ''f'' (2)
-*German: [[Pflaume]] ''f''
-*[[Middle High German|German, Middle High]]: [[pflūme]], [[pfrūme]]
-*[[Old High German|German, Old High]]: [[pfrūma]]
-*Greek: [[δαμασκηνιά]] (dhamaskiniá) ''f'' (1), [[δαμάσκηνο]] (dhamáskino) ''n'' (2)
-*Hebrew: [[שזיף]] (shozif) ''m''
-*Hindi: [[आलूचा]] (ālūcā)
-*Hungarian: [[szilva]]
-*Icelandic: [[plóma]] ''f''
-*Irish: [[pluma]] ''m'', [[prúna]] ''m''
-*Latin: [[prunum]] ''n''
-*Latvian: [[plūme]] ''f''
-*Lithuanian: [[slyva]] ''f'' (1, 2), [[slyvinis]] ''m'' (3)
-*Luxembourgish: [[Praum]] ''f'', [[Promm]] ''f''
-*Norwegian: [[plomme]]
-*Polish: [[śliwka]] ''f'' (2), [[rodzynka]] ''f'' (5)
-*Portuguese: [[ameixa]] ''f'' (2)
-*Russian: [[слива]] (sliva) ''f'' (2)
-*[[Sanskrit]]: [[कर्कन्धुः]] (karkandhuḥ)
-*Serbian: [[шљива]] (šljiva) ''f'' (2,1)
-*Slovakian: [[slivka]] ''f'' (2)
-*Spanish: [[ciruela]] ''f''
-*Thai: [[ลูกพุทราฝรั่ง]] (luukphutrafrang)
-*Turkish: [[erik]]
-*Vietnamese: [[quả mận]], [[trái mơ]]
-*[[Volapük]]: [[plöm]]
-*Welsh: [[eirinen]] ''f''
-*[[Zulu]]: [[iplamu]], [[ithungulu]]
+===Noun===
+{{head|rm|noun|g=m}}
 
-===Adjective===
-'''plum'''
+# {{lb|rm|Rumantsch Grischun|Sursilvan}} [[lead]] {{qualifier|metal}}
 
-#(colour) Of a dark bluish-red colour.
-
-====Translations====
-*Dutch: [[donkerrood]]
-*Finnish: [[luumunpunainen]]
-*Japanese: [[暗紫色]]の (あんししょくの, anshishoku no)
-*Romanian: [[prună]] ''f''
-
-====Derived terms====
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*[[beach plum]]
-*[[cherry plum]]
-*[[coco plum]]
-*[[ground plum]]
-*[[marmalade plum]]
-*[[plum cake]]
-*[[plum peach]]
-*[[plum pudding]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*[[plum sauce]]
-*[[plum tomato]]
-*[[plum tree]]
-*[[plummy]]
-*[[Sugar Plum Fairy]]
-*[[victoria plum]]
-|}
-|}
-
-===Related terms===
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*[[briolette]]
-*[[damson]]
-*[[greengage]]
-*[[myrobalan]]
-*[[prune]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-*[[sapote]]
-*[[slivovitz]]
-*[[sloe]]
-*[[umeboshi]]
-*[[umesu]]
-|}
-|}
-
-===See also===
-*[[Wiktionary_Appendix:Colours|Wiktionary appendix of colours]]
-*[[w:plum|Wikipedia article on the plum]]
-
-[[Category:Check_translations]]
-[[Category:English colors]]
-
-[[hu:plum]]
-[[pl:Plum]]
+[[Category:rm:Chemical elements]]
+[[Category:rm:Metals]]
