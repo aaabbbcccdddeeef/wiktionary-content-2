@@ -1,48 +1,614 @@
+{{also|regulär}}
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-From Old French ''reguler'', from Late Latin ''regularis'' "continuing rules for guidance," from Latin ''regula'' "rule," from Proto-Indo-European ''*reg-'' "move in a straight line"
+From {{inh|en|enm|reguler}}, from {{der|en|xno|reguler}}, {{der|en|frm|reguler}}, {{m|frm|regulier}}, and their source, {{der|en|la|rēgulāris|t=continuing rules for guidance}}, from {{m|la|rēgula|t=rule}}, ultimately from {{der|en|ine-pro|*reg-|t=move in a straight line}}.
+
+===Pronunciation===
+* {{a|UK}} {{enPR|regʹyo͝olər}} {{IPA|en|/ˈɹɛɡ.jʊ.lə/}}
+* {{a|US}} {{enPR|regʹyələr|regʹlər}}, {{IPA|en|/ˈɹɛɡ.jə.lɚ/|/ˈɹɛɡ.l̩ɚ/|[ˈɹɛɡ.jɪ̈.lɚ]|[ˈɹɛɡ.l̩ɚ]}}
+* {{audio|en|En-us-regular.ogg|Audio (US)}}
+* {{rhymes|en|ɛɡjʊlə(ɹ)|ɛɡjələ(ɹ)|ɛɡələ(ɹ)}}
+* {{a|US}} {{hyphenation|en|reg|u|lar}}
 
 ===Adjective===
-'''regular''' (more regular, most regular)
-# with constant [[frequency]] or [[pattern]]
-# [[normal]]; [[ordinary]]
-# obeying rules
-# (''Grammar'') (''of a verb, plural, etc'') following a set or common pattern
+{{en-adj}}
 
-====Synonyms====
-*(1): [[uniform]]
-*(2): [[normal]]
-*(4): [[weak]]
+# {{lb|en|Christianity}} Bound by [[religious]] rule; belonging to a monastic or religious [[order]] (often as opposed to {{m|en|secular}}). {{defdate|from 14th c.}}
+#: {{ux|en|'''regular''' clergy, in distinction from the secular clergy}}
+#* {{quote-book|en|year=2002|authorlink=Colin Jones (historian)|first=Colin|last=Jones|title=The Great Nation|publisher=Penguin|year_published=2003|page=201|passage=A quarter of a million strong in 1680, the clergy was only half as large in 1789. The unpopular '''regular''' clergy were the worst affected.}}
+# Having a constant [[pattern]]; showing [[evenness]] of form or appearance. {{defdate|from 15th c.}}
+#: {{syn|en|equable|uniform|unvarying|Thesaurus:steady}}
+#: {{ant|en|chaotic|irregular|Thesaurus:unsteady}}
+# {{lb|en|geometry|of a [[polygon]]}} Both [[equilateral]] and [[equiangular]]; having all sides of the same length, and all (corresponding) angles of the same size {{defdate|from 16th c.}}
+# {{lb|en|geometry|of a [[polyhedron]]}} Whose [[face]]s are all congruent regular polygons, equally inclined to each other.
+# Demonstrating a consistent set of [[rule]]s; showing order, evenness of operation or occurrence. {{defdate|from 16th c.}}
+#: {{syn|en|in order|ruly|tidy|Thesaurus:orderly}}
+#: {{ant|en|chaotic|tumultuous|Thesaurus:disorderly}}
+#* {{quote-journal|en|date=2011-04-12|authorlink=A. L. Kennedy|first=A[lison] L[ouise]|last=Kennedy|journal=The Guardian|passage=April may be the cruellest month, but I am planning to render it civilised and to take my antibiotics in a '''regular''' manner.}}
+# {{lb|en|astronomy}} Of a [[moon]] or other [[satellite]]: following a relatively close and [[prograde]] [[orbit]] with little [[inclination]] or [[eccentricity]].
+# {{lb|en|now|rare}} [[well-behaved|Well-behaved]], [[orderly]]; [[restrained]] (of a lifestyle etc.). {{defdate|from 16th c.}}
+#: {{syn|en|decent|seemly|well-mannered}}
+#: {{ant|en|degenerate|irregular}}
+# Happening at constant (especially short) [[interval]]s. {{defdate|from 17th c.}}
+#: {{syn|en|cyclical|frequent|Thesaurus:periodic}}
+#: {{ant|en|irregular|noncyclic}}
+#: {{ux|en|He made '''regular''' visits to go see his mother.}}
+# {{lb|en|grammar|of a verb, plural, etc}} Following a set or common pattern; according to the normal rules of a given language. {{defdate|from 17th c.}}
+#: {{syn|en|weak|q=verbs}}
+#: {{ant|en|irregular|strong|q2=verbs}}
+#: {{ux|en|"Walked" is the past tense of the '''regular''' verb "to walk".}}
+# {{lb|en|chiefly|US}} Having the expected characteristics or appearances; [[normal]], [[ordinary]], [[standard]]. {{defdate|from 17th c.}}
+#: {{syn|en|basic|common|unremarkable|Thesaurus:normal|Thesaurus:common}}
+#: {{ant|en|irregular|outlandish|weird|Thesaurus:strange}}
+#* {{quote-book|en|year=1913|authorlink=Joseph C. Lincoln|first=Joseph C[rosby]|last=Lincoln|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]|chapter=1|passage=For a spell we done pretty well. Then there came a '''reg'lar''' terror of a sou'wester same as you don't get one summer in a thousand, and blowed the shanty flat and ripped about half of the weir poles out of the sand.}}
+# {{lb|en|chiefly|military}} Permanently organised; being part of a set professional body of troops. {{defdate|from 17th c.}}
+#: {{ant|en|irregular}}
+# Having [[bowel movements]] or menstrual [[period]]s at constant intervals in the expected way. {{defdate|from 18th c.}}
+#: {{ux|en|Maintaining a high-fibre diet keeps you '''regular'''.}}
+#* {{quote-book|en|year=2015|authorlink=Bill Bryson|first=Bill|last=Bryson|title=The Road to Little Dribbling: More Notes from a Small Island|page=206|passage=Gulls cawed and wheeled overhead, dropping splatty white cluster bombs on rooftops and pavements. Goodness knows what those gulls eat, but it certainly keeps them '''regular'''.}}
+# {{lb|en|colloquial}} [[exemplary|Exemplary]]; excellent [[example]] of; [[utter]], [[downright]]. {{defdate|from 18th c.}}
+#: {{syn|en|absolute|thorough|unalloyed|Thesaurus:total}}
+#: {{ux|en|a '''regular''' genius; a '''regular''' John Bull}}
+#* {{quote-av|en|date=1997-02-16|title={{w|Homer's Phobia}}|series={{w|The Simpsons}}|season=8|number=15|writer={{w|Ron Hauge}}|actor={{w|Dan Castellaneta}}|role={{w|Homer Simpson}}|passage=Don't worry, boy.  We're gonna set you straight.  By tomorrow morning, you'll be a '''regular''' Burt Reynolds.}}
+# {{lb|en|botany|zoology}} Having all the parts of the same kind alike in size and shape.
+#: {{ux|en|a '''regular''' flower; a '''regular''' sea urchin}}
+# {{lb|en|crystallography}} [[isometric|Isometric]].
+# {{lb|en|snowboarding}} Riding with the [[left]] foot forward.
+#: {{ant|en|goofy}}
+# {{lb|en|analysis|not comparable|of a Borel measure}} Such that every set in its [[domain]] is both [[outer regular]] and [[inner regular]].
 
 ====Antonyms====
-*(1, 2, 3) [[irregular]]
-*(4) irregular, [[strong]]
+* {{l|en|irregular}}
+* {{l|en|non-regular}}, {{l|en|nonregular}}
+
+====Coordinate terms====
+* {{sense|snowboarding}} {{l|en|switch}}
+
+====Related terms====
+{{rel4|en
+|nap the regulars
+|quasiregular
+|rail
+|régime
+|regimen
+|regulate
+|regulation
+|regularity
+|regularly
+|rule
+|semiregular
+}}
 
 ====Translations====
-*Dutch: [[regelmatig]]
-*Finnish: [[säännöllinen]] (1, 2, 3)
-*French: [[regulier]] (1, 4)
-*German: [[regulär]], [[regelmäßig]]
-*Hebrew: [[רגיל]]
-*Indonesian: [[atur|beraturan]]
-*Italian: [[regolare]] (1)
-*Japanese: [[規則]] ([[きそく]], kisoku), [[規則]][[動詞]] ([[きそく]][[どうし]], kisoku-dōshi)
+{{trans-top|bound by religious rule}}
+* Bulgarian: {{t+|bg|монашески}}
+* Finnish: {{t+|fi|säännöllinen}}
+{{trans-mid}}
+* Galician: {{t+|gl|regular}}
+* Irish: {{t|ga|rialta}}
+{{trans-bottom}}
+
+{{trans-top|having a constant pattern}}
+* Arabic: {{t|ar|عَادِيّ}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Assamese: {{t|as|নিয়মীয়া|tr=niomia}}
+* Azerbaijani: {{t|az|mütəmadi}}, {{t|az|müntəzəm}}
+* Belarusian: {{t|be|рэгуля́рны}}
+* Burmese: {{t+|my|မှန်}}
+* Chinese:
+*: Mandarin: {{t+|cmn|常|tr=cháng}}, {{t+|cmn|頻繁}}, {{t+|cmn|频繁|tr=pínfán}}
+* Czech: {{t+|cs|pravidelný|m}}
+* Danish: {{t|da|regelmæssig}}
+* Dutch: {{t+|nl|regelmatig}}
+* Esperanto: {{t+|eo|regula}}
+* Finnish: {{t+|fi|säännönmukainen}}, {{t+|fi|säännöllinen}}
+* French: {{t+|fr|régulier}}
+* Galician: {{t+|gl|regular}}
+* German: {{t+|de|regulär}}, {{t+|de|regelmäßig}}, {{t|de|Gleichmäßig}}
+* Greek: {{t+|el|συχνός|m}}, {{t+|el|συχνή|f}}, {{t+|el|συχνό|n}}
+* Hebrew: {{t+|he|רגיל|tr=ragíl}}, {{t|he|סָדִיר|tr=sadír}}
+* Hungarian: {{t+|hu|szabályos}}, {{t+|hu|szabályszerű}}, {{t+|hu|állandó}}, {{t+|hu|megszokott}}, {{t+|hu|reguláris}}
+{{trans-mid}}
+* Indonesian: {{t+|id|atur|alt=beraturan}}
+* Irish: {{t|ga|rialta}}
+* Italian: {{t+|it|regolare}}
+* Japanese: {{t+|ja|規則|tr=[[きそく]], kisoku}}, {{t|ja|[[規則]][[動詞]]|tr=[[きそく]][[どうし]], kisoku-dōshi}}
+* Korean: {{t|ko|정식의}}
+* Latin: {{t|la|rectus}}
+* Norman: {{t|nrf|rédgulyi}}
+* Norwegian: {{t+|no|regelmessig}}
+* Polish: {{t+|pl|regularny}}
+* Portuguese: {{t+|pt|regular}}
+* Romanian: {{t+|ro|regulat}}
+* Russian: {{t+|ru|регуля́рный}}
+* Scottish Gaelic: {{t|gd|cunbhalach}}
+* Spanish: {{t+|es|regular}}
+* Swedish: {{t+|sv|regelbunden}}
+* Turkish: {{t+|tr|düzenli}}
+* Ukrainian: {{t|uk|регуля́рний}}
+{{trans-bottom}}
+
+{{trans-top|of a polygon: having all sides and corresponding angles equal}}
+* Arabic: {{t|ar|مُنْتَظِمٌ}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Bulgarian: {{t+|bg|правилен}}
+* Finnish: {{t+|fi|säännöllinen}}
+{{trans-mid}}
+* Galician: {{t+|gl|regular}}
+* Hungarian: {{t+|hu|szabályos}}, {{t|hu|egyenlő oldalú}}
+* Russian: {{t+|ru|правильный}}
+{{trans-bottom}}
+
+{{trans-top|of a polyhedron: whose faces are all congruent regular polygons}}
+* Bulgarian: {{t+|bg|правилен}}
+* Finnish: {{t+|fi|säännöllinen}}
+* Hungarian: {{t+|hu|szabályos}}
+{{trans-mid}}
+* Russian: {{t+|ru|правильный}}
+{{trans-bottom}}
+
+{{trans-top|demonstrating consistent set of rules}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Bulgarian: {{t+|bg|официален}}, {{t+|bg|формален}}
+* Chinese:
+*: Mandarin: {{t+|cmn|規律|alt=有規律的}}, {{t+|cmn|规律|alt=有规律的|tr=yǒu guīlǜ de}}
+* Danish: {{t|da|regelmæssig}}
+* Dutch: {{t+|nl|regelmatig}}
+* Finnish: {{t+|fi|säännönmukainen}}, {{t+|fi|säännöllinen}}
+* Galician: {{t+|gl|regular}}
+* Hungarian: {{t+|hu|szabályos}}, {{t+|hu|szabályszerű}}
+{{trans-mid}}
+* Irish: {{t|ga|rialta}}
+* Italian: {{t+|it|regolare}}
+* Latin: {{t+|la|legitimus}}, {{t|la|legitima}}
+* Persian: {{t+|fa|باقاعده|tr=bā qāʿede}}
+* Portuguese: {{t+|pt|regular}}
+* Russian: {{t+|ru|пра́вильный}}
+* Ukrainian: {{t+|uk|пра́вильний}}
+{{trans-bottom}}
+
+{{trans-top|well-behaved, orderly; restrained}}
+* Finnish: {{t+|fi|säännöllinen}}
+* Hebrew: {{t|he|סָדִיר|tr=sadír}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|happening at constant intervals}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Azerbaijani: {{t|az|mütəmadi}}, {{t|az|müntəzəm}}
+* Bulgarian: {{t|bg|регулярен}}
+* Chinese:
+*: Mandarin: {{t+|cmn|經常|alt=經常的}}, {{t+|cmn|经常|alt=经常的|tr=jīngcháng de}}
+* Danish: {{t+|da|fast}}, {{t|da|regelmæssig}}
+* Dutch: {{t+|nl|vast}}
+* Esperanto: {{t+|eo|regula}}
+* Finnish: {{t+|fi|säännöllinen}}
+* Galician: {{t+|gl|regular}}
+* Greek: {{t+|el|συχνός|m}}, {{t+|el|συχνή|f}}, {{t+|el|συχνό|n}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|rendszeres}}
+* Irish: {{t|ga|rialta}}
+* Italian: {{t+|it|periodico}}
+* Polish: {{t+|pl|regularny}}
+* Portuguese: {{t+|pt|regular}}
+* Russian: {{t+|ru|регуля́рный}}, {{t+|ru|ча́стый}}, {{t+|ru|постоя́нный}}
+* Scottish Gaelic: {{t|gd|cunbhalach}}
+* Ukrainian: {{t|uk|пості́йний}}, {{t|uk|системати́чний}}, {{t|uk|черго́вий}}
+{{trans-bottom}}
+
+{{trans-top|grammar}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Belarusian: {{t|be|пра́вільны}}
+* Bulgarian: {{t+|bg|правилен}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[規則]][[變化]][[的]]|tr=guīzé biànhuà de}}, {{t|cmn|[[规则]][[变化]][[的]]|tr=guīzé biànhuà de}}
+* Czech: {{t+|cs|pravidelný|m}}
+* Danish: {{t|da|regelmæssig}}
+* Dutch: {{t+|nl|regelmatig}}
+* Finnish: {{t+|fi|säännöllinen}}, {{t+|fi|heikko}}
+* French: {{t+|fr|régulier}}
+* Galician: {{t+|gl|regular}}
+* German: {{t+|de|regelmäßig}}
+* Greek: {{t+|el|ομαλός}}
+* Hungarian: {{t+|hu|szabályos}}
+{{trans-mid}}
+* Irish: {{t|ga|rialta}}
+* Japanese: {{t+|ja|規則|tr=きそくな, kisoku na|alt=規則な}}
+* Latin: {{t+|la|legitimus}}
+* Luxembourgish: {{t|lb|regelméisseg}}
+* Polish: {{t+|pl|regularny}}
+* Portuguese: {{t+|pt|regular}}
+* Russian: {{t+|ru|пра́вильный}}
+* Scottish Gaelic: {{t|gd|riaghailteach}}
+* Spanish: {{t+|es|regular}}
+* Turkish: {{t+|tr|düzenli}}
+* Ukrainian: {{t+|uk|пра́вильний}}
+{{trans-bottom}}
+
+{{trans-top|having expected characteristics}}
+* Arabic: {{t|ar|عَادِيّ}}
+* Armenian: {{t+|hy|կանոնավոր}}
+* Bulgarian: {{t+|bg|обичаен}}
+* Chinese:
+*: Mandarin: {{t+|cmn|平常|tr=píngcháng}}
+* Czech: {{t+|cs|normální}}, {{t+|cs|obyčejný}}
+* Danish: {{t+|da|almindelig}}, {{t+|da|normal}}
+* Dutch: {{t+|nl|gewoon}}
+* Finnish: {{t+|fi|tavanomainen}}, {{t+|fi|normaali}}
+{{trans-mid}}
+* Galician: {{t+|gl|regular}}
+* German: {{t+|de|normal}}, {{t+|de|gewöhnlich}}
+* Greek: {{t+|el|κανονικός|m}}, {{t+|el|κανονική|f}}, {{t+|el|κανονικό|n}}, {{t+|el|κοινός|m}}, {{t+|el|κοινή|f}}, {{t+|el|κοινό|n}}, {{t+|el|συνηθισμένος|m}}, {{t|el|συνηθισμένη|f}}, {{t|el|συνηθισμένο|n}}
+* Hungarian: {{t+|hu|rendes}}, {{t+|hu|szokványos}}, {{t+|hu|szokásos}}
+* Korean: {{t+|ko|일반}}
+* Portuguese: {{t+|pt|regular}}
+* Russian: {{t+|ru|обы́чный}}, {{t+|ru|норма́льный}}
+* Spanish: {{t+|es|regular}}
+* Ukrainian: {{t|uk|звича́йний}}, {{t|uk|норма́льний}}
+{{trans-bottom}}
+
+{{trans-top|permanently organised}}
+* Bulgarian: {{t+|bg|систематичен}}
+* Finnish: {{t+|fi|pysyvä}}
+{{trans-mid}}
+* Galician: {{t+|gl|regular}}
+* Hungarian: {{t+|hu|állandó}}
+* Italian: {{t+|it|abituale}}, {{t+|it|regolare}}, {{t+|it|usuale}}
+* Russian: {{t+|ru|регуля́рный}}
+{{trans-bottom}}
+
+{{trans-top|having bowel movements or menstrual periods in the expected way}}
+* Finnish: {{t+|fi|säännöllinen}}
+{{trans-mid}}
+* Galician: {{t+|gl|regular}}
+* Hungarian: {{t|hu|[[szabályosan]] [verb] [[-ó]]/[[-ő]]}}, {{t|hu|[[szabályos]] [noun] [[-ú]]/[[-ű]]}}
+{{trans-bottom}}
+
+{{trans-top|exemplary; utter, downright}}
+* Bulgarian: {{t+|bg|нормален}}
+* Finnish: {{t+|fi|tavallinen}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szabályos}}, {{t+|hu|valódi}}, {{t+|hu|valóságos}}
+{{trans-bottom}}
+
+{{trans-top|botany, zoology: having all the parts of the same kind alike in size and shape}}
+* Finnish: {{t+|fi|säännöllinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|crystallography: isometric|isometric}}
+
+{{trans-top|snowboarding: riding with the left foot forward}}
+* Finnish: {{t+|fi|tavallinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|analysis: of a Borel measure, such that every set in its domain is both outer and inner regular}}
+* Finnish: {{t+|fi|säännöllinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Adverb===
+{{en-adv|-}}
+
+# {{lb|en|archaic|dialect|nonstandard}} [[regularly|Regularly]], on a regular basis.
+#* {{quote-book|en|author=George Eliot|authorlink=George Eliot|title=Silas Marner|location=London|publisher=Penguin Books|year=1861|year_published=1967|page=131|passage='And if the knowledge wasn'y well come by, why, you might ha' made up for it by coming to church '''reg'lar'''.'}}
+#* '''1902''', John Buchan, ''The Outgoing of the Tide''
+#*: Though no minister would visit the Skerburnfoot, or, if he went, departed quicker than he came, the girl Ailie attended '''regular''' at the catechising at the mains of Sker.
+#* {{quote-book|1=en|year=1961|author=Colin Thiele|authorlink=Colin Thiele|title=The Sun on the Stubble|publisher=Rigby Limited|location=Melbourne|page=113|passage="Drain her every thousand, '''regular'''. Don't do it myself, o' course; just drop her in at the lubritorium."}}
 
 ===Noun===
-'''regular'''
-#A member of the British Army as opposed to a member of the [[Territorial Army]] or [[Reserve]].
-#A [[frequent]], [[routine]] visitor to an establishment.
+{{en-noun}}
+
+# A member of the British Army (as opposed to a member of the [[Territorial Army]] or [[reserve|Reserve]]).
+# A [[frequent]], [[routine]] visitor to an establishment.
+#: {{ux|en|Bartenders usually know their '''regulars''' by name.}}
+# A member of an armed forces or police force.
+# A frequent [[customer]], [[client]] or [[business]] [[partner]].
+#: {{ux|en|This gentleman was one of the architect's '''regulars'''.}}
+# {{lb|en|Canada}} A coffee with one cream and one sugar.
+# Anything that is [[normal]] or [[standard]].
+#* '''2011''', Jamie MacLennan, ZhaoHui Tang, Bogdan Crivat, ''Data Mining with Microsoft SQL Server 2008''
+#*: You separate the marbles by color until you have four groups, but then you notice that some of the marbles are '''regulars''', some are shooters, and some are peewees.
+# A member of a [[religious]] [[order]] who has taken the three ordinary vows.
+# A number for each year, giving, added to the [[concurrent]]s, the number of the day of the week on which the [[Paschal]] [[full moon]] falls.
+# A fixed number for each month serving to ascertain the day of the week, or the age of the moon, on the first day of any month.
+
+====Synonyms====
+* {{sense|routine visitor}} {{l|en|frequenter}}, {{l|en|habitué}}, {{l|en|patron}}, {{l|en|usual suspects}}
+
+====Antonyms====
+* {{l|en|non-regular}}, {{l|en|nonregular}}
 
 ====Translations====
-*Finnish: [[vakioasiakas]] (2)
+{{trans-top|member of the British Army}}
+{{trans-mid}}
+{{trans-bottom}}
 
-===Related terms===
-*[[regulate]]
-*[[regulation]]
-*[[irregular]]
-*[[rule]]
-*[[regularly]]
+{{trans-top|routine visitor}}
+* Bulgarian: {{t|bg|редовен посетител}}
+* Catalan: {{t+|ca|parroquià|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|常客|tr=chángkè}}
+* Dutch: {{t+|nl|stamgast|m}}
+* Finnish: {{t+|fi|vakioasiakas}}, {{t+|fi|kanta-asiakas}}
+* French: {{t+|fr|habitué|m}}, {{t+|fr|habituée|f}}, {{t+|fr|habitués|m-p}}, {{t+|fr|habituées|f-p}}
+* German: {{t+|de|Stammgast|m}}, {{t|de|Stammgästin|f}}
+* Hungarian: {{t+|hu|törzsvendég}}
+{{trans-mid}}
+* Italian: {{t+|it|cliente|m|f}}
+* Polish: {{t+|pl|bywalec|m}}, {{t+|pl|bywalczyni|f}}
+* Russian: {{t+|ru|клие́нт|m}}, {{t+|ru|клие́нтка|f}}, {{t+|ru|завсегда́тай|m}}
+* Spanish: {{t+|es|parroquiano}}
+* Swedish: {{t+|sv|stamgäst|c}}
+* Welsh: {{t+|cy|ffyddlon|m}}
+{{trans-bottom}}
 
-[[gl:Regular]]
-[[Category:1000 English basic words]]
+{{trans-top|frequent customer}}
+* Chinese:
+*: Mandarin: {{t+|cmn|常客|tr=chángkè}}, {{t+|cmn|老主顧|tr=lǎozhǔgù}}
+* Czech: {{t+|cs|štamgast|m}}
+* Finnish: {{t+|fi|vakioasiakas}}
+* French: {{t+|fr|habitué}}
+* German: {{t+|de|Stammkunde|m}}
+{{trans-mid}}
+* Hungarian: {{t|hu|[[rendszeres]]/[[visszatérő]] [[ügyfél]]}}
+* Polish: {{t|pl|stały klient|m}}, {{t|pl|stała klientka|f}}
+* Swedish: {{t+|sv|stamkund|c}}
+* Ukrainian: {{t|uk|постійний клієнт|m}}, {{t|uk|постійна клієнтка|f}}
+{{trans-bottom}}
+
+===References===
+<references/>
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+----
+
+==Asturian==
+
+===Etymology 1===
+Borrowed from {{bor|ast|LL.|rēgulāris}}.
+
+====Adjective====
+{{ast-adj-mf|pl=regulares}}
+
+# {{l|en|regular}}
+# [[fine]], [[OK]], [[average]]
+
+=====Related terms=====
+* {{l|ast|regularidá}}
+
+===Etymology 2===
+Borrowed from {{bor|ast|la|rēgulāre}}, present active infinitive of {{m|la|rēgulō}}. Compare the doublet {{doublet|ast|notext=1|reglar}}, borrowed earlier from the same source.
+
+====Verb====
+{{ast-verb-ar|regul}}
+
+# to [[regulate]]
+
+=====Conjugation=====
+{{ast-conj-ar|regul}}
+
+----
+
+==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|a(ɾ)|s=3}}
+
+===Etymology 1===
+Borrowed from {{bor|ca|LL.|rēgulāris}}.
+
+====Adjective====
+{{ca-adj|mf}}
+
+# {{l|en|regular}} {{gloss|having a constant pattern}}
+#: {{ant|ca|irregular}}
+# [[normal]], [[average]]
+# {{lb|ca|geometry}} {{l|en|regular}} {{gloss|both equilateral and equiangular}}
+#: {{ant|ca|irregular}}
+
+=====Derived terms=====
+* {{l|ca|regularitat}}
+* {{l|ca|regularitzar}}
+* {{l|ca|regularment}}
+
+=====Related terms=====
+* {{l|ca|irregular}}
+* {{l|ca|regla}}
+
+===Etymology 2===
+Borrowed from {{bor|ca|la|rēgulāre}}, present active infinitive of {{m|la|rēgulō}}.
+
+====Verb====
+{{ca-verb}}
+
+# {{lb|ca|transitive}} to [[regulate]]
+
+=====Conjugation=====
+{{ca-conj-ar|regul}}
+
+=====Derived terms=====
+* {{l|ca|regulador}}
+
+=====Related terms=====
+* {{l|ca|regulació}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
+----
+
+==Galician==
+
+===Pronunciation===
+* {{IPA|gl|[reɣuˈlaɾ]}}
+
+===Etymology 1===
+Attested since circa 1300. Borrowed from {{bor|gl|LL.|rēgulāris}}.
+
+====Adjective====
+{{gl-adj|m-f|pl=regulares}}
+
+# [[#English|regular]]
+# [[average]]
+
+=====Derived terms=====
+{{der2|gl|irregular|regularmente}}
+
+===Etymology 2===
+Borrowed from {{bor|gl|la|rēgulō}}.
+
+====Verb====
+{{gl-verb|regul|ar}}
+
+# to [[regulate]]
+# to [[tune]] (an engine)
+
+=====Conjugation=====
+{{gl-conj-ar|regul}}
+
+===References===
+* {{R:DDGM}}
+* {{R:gl:CX}}
+* {{R:DDLG}}
+* {{R:TILG}}
+* {{R:TLPGP}}
+
+----
+
+==Portuguese==
+
+===Pronunciation===
+* {{a|PT}} {{IPA|pt|/ʁɨɣuˈlaɾ/}}
+* {{a|Brazil}} {{IPA|pt|/ʁeɡuˈla(ʁ)/}}
+
+===Etymology 1===
+Borrowed from {{bor|pt|LL.|rēgulāris}}.
+
+====Adjective====
+{{pt-adj|regul|ar}}
+
+# [[#English|regular]]
+# [[average]]
+
+=====Declension=====
+{{pt-adj-infl|regul|ar}}
+
+=====Derived terms=====
+* {{l|pt|irregular}}
+* {{l|pt|regularmente}}
+
+===Etymology 2===
+Borrowed from {{bor|pt|la|rēgulō}}. Compare the doublet {{doublet|pt|notext=1|regrar}}, borrowed earlier from the same source.
+
+====Verb====
+{{pt-verb|regul|ar}}
+
+# to [[regulate]]
+# to [[tune]] (an engine)
+# to [[set]] (a watch, clock)
+
+=====Conjugation=====
+{{pt-conj|regul|ar}}
+
+=====Related terms=====
+{{rel3
+|pt|regulação
+|regulagem
+|regularização
+|regularizar
+|regulador
+|regra
+|régua
+|regularidade
+|regulamento
+}}
+
+----
+
+==Spanish==
+
+===Pronunciation===
+{{es-IPA}}
+
+===Etymology 1===
+Borrowed from {{bor|es|LL.|rēgulāris}}.
+
+====Adjective====
+{{es-adj}}
+
+# [[#English|regular]], [[steady]], [[even]]
+# [[fair]], [[fairly]] good, [[average]]
+# [[common]], [[ordinary]], [[middling]], [[so-so]]
+# {{lb|es|grammar}} [[#English|regular]]
+
+=====Derived terms=====
+* {{l|es|regularmente}}
+* {{l|es|verbo regular}}
+
+===Etymology 2===
+Borrowed from {{bor|es|la|rēgulāre}}, present active infinitive of {{m|la|rēgulō}}.
+
+====Verb====
+{{es-verb}}
+
+# to [[regulate]]
+# to [[control]]
+# to [[adjust]]
+# to [[put]] in [[order]]
+
+=====Conjugation=====
+{{es-conj}}
+
+=====Related terms=====
+{{rel4
+|es|regla
+|regulable
+|regulación
+|regulador
+|regularidad
+|regularización
+|regularizar
+|regulativo
+}}
+
+===Further reading===
+* {{R:DRAE}}
+
+----
+
+==Tagalog==
+
+===Etymology===
+Borrowed from {{bor|tl|es|regular}}.
+
+===Pronunciation===
+* {{hyph|tl|re|gu|lar}}
+* {{tl-IPA|regulár}}
+
+===Adjective===
+{{tl-adj|regulár}}
+
+# {{l|en|regular}}; [[usual]]; [[ordinary]]
+#: {{syn|tl|karaniwan|pangkaraniwan}}
+# [[habitual]]; [[steady]]; [[permanent]]
+#: {{syn|tl|pirmihan|palagian}}
+# [[uniform]]; not [[changing]]
+# [[customary]]; [[usual]]
+#: {{syn|tl|katamtaman|kainaman}}
+
+====Derived terms====
+{{der3|tl|karegularan|pagkaregular}}
+
+====Related terms====
+* {{l|tl|regulasyon}}
+* {{l|tl|regulador}}
+* {{l|tl|regularidad}}
