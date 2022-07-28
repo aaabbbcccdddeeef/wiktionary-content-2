@@ -1,149 +1,549 @@
-{{Wikipedia}}
-
+{{also|Island|Ísland|Īsland|Island'}}
 ==English==
+{{wikipedia|lang=en}}
+[[Image:Island_near_Fiji.jpg|thumb|right|An island.]]
+[[Image:CyprusFromTheISS.jpg|thumb|right|[[Cyprus]] island from space.]]
 
-====Etymology====
-From Old English ''[[iland]]''.  The S was added by confusion with French ''[[isle]]'', which is not related but is instead from Latin ''[[insula]]''. Anglo-Saxon ''[[&#299;egland]]'', pleonastic for ''[[&#299;eg]]'', "island", "watery land". Cognate with German ''[[Aue]]'', "meadow", and Latin ''[[aqua]]''. Confer German ''[[Eiland]]'', Old Norse ''[[eyland]]'', and English ''[[ey]]'' as in [[Anglesey]], [[Bardsey]], [[Ely]].
+===Alternative forms===
+* {{alt|en|iland||obsolete}}
+* {{alt|en|ylond|ylelond|yland||obsolete}}<!-- These look rather like Middle English -->
+
+===Etymology===
+From earlier {{m|en|iland}}, from {{inh|en|enm|iland}}, {{m|enm|yland}}, {{m|enm|ylond}}, from {{inh|en|ang|īeġland}}, from {{inh|en|gmw-pro|*auwjuland}}, from {{inh|en|gem-pro|*awjōlandą}} (from {{der|en|gem-pro|*awjō|t=island, waterland, meadow}}, from {{der|en|ine-pro|*h₂ekʷeh₂}}) + {{m|gem-pro|*landą|t=land}}, equivalent to {{af|en|ey|land}}.
+
+Cognate with {{cog|sco|island}}, {{m|sco|iland}}, {{m|sco|yland||island}}, {{cog|fy|eilân||island}}, {{cog|stq|Ailound||island}}, {{cog|nl|eiland||island}}, {{cog|nds|Eiland||island}}, {{cog|de|Eiland||island}}, {{cog|sv|ö||island}}, {{m|sv|Öland||Sweden's second largest island}}, {{cog|da|ø||island}}, {{cog|no|øy||island}}, {{cog|is|eyland||island}}.
+
+The insertion of ⟨s⟩—a 16th century spelling modification—is due to a change in spelling to the unrelated term {{m|en|isle}}, which previously lacked ''s'' (cf. {{noncog|enm|ile}}, {{m|enm|yle}}). The re-addition was mistakingly carried over to include ''iland'' as well. Related also to {{cog|de|Aue||water-meadow}}, {{cog|la|aqua||water}}. More at {{l|en|ea}}.
+
+===Pronunciation===
+* {{a|UK|US}} {{IPA|en|/ˈaɪ̯lənd/}}
+* {{audio|en|En-uk-island.ogg|Audio (UK)}}
+* {{audio|en|en-us-island.ogg|Audio (US)}}
 
 ===Noun===
-'''island'''  (''plural:'' [[islands]])
-# An [[area]] of [[land]] totally [[surround]]ed by [[water]].
-# An [[entity]] [[surround]]ed by other entities that are very [[different]] from itself: ''an island of tranquility'', a calm place surrounded by a noisy environment.
+{{en-noun}}
+
+# A [[contiguous]] [[area]] of [[land]], smaller than a [[continent]], totally [[surround]]ed by [[water]].
+#* {{RQ:Donne Devotions|chapter=17. Meditation|page=98|lines=2–3|passage=No man is an '''''Iland''''', intire of it selfe; every man is a peece of the ''Continent'', a part of the ''maine''; {{...}}}}
+#* {{quote-book|en|year=2002|author=Gordon L. Rottman|title=World War 2 Pacific island guide|passage=Sumatra is the second largest '''island''' in the East Indies and the fourth largest in the world covering 182,859 square miles.}}
+# (by extension, in place names) A [[contiguous]] [[area]] of [[land]], smaller than a [[continent]], partially [[surround]]ed by [[water]]; A [[peninsula]]; A [[half-island]].
+#: {{ux|en|Despite its name, Barry '''Island''' is actually a peninsula}}
+# An [[entity]] [[surround]]ed by other entities that are very [[different]] from itself.
+#: {{ux|en|an '''island''' of tranquility}} (a calm place surrounded by a noisy environment)
+#: {{ux|en|an '''island''' of colors on a butterfly's wing}}
+#* {{quote-journal|en|author=Daniel Taylor|title=Liverpool go through after Mohamed Salah stops Manchester City fightback|work={{w|The Guardian}} (London)|date=10 April 2018|url=https://www.theguardian.com/football/2018/apr/10/manchester-city-liverpool-champions-league-match-report
+|passage= He was on the ball in a flash, swerving to the left of City’s goalkeeper, Ederson, before shaping his body for a tricky angled finish. He was an '''island''' of composure, floating in his 39th goal of the season with a delicate chip into the corner.}}
+#* '''1939''', Deseret News, October 27 1939, ''Roosevelt Reaffirms American Neutrality''
+#*: King Leopold, speaking in fluent English during his six minute broadcast, said Belgium stood side by side with Holland "an '''Island''' of peace in the interests of all"
+# A [[superstructure]] on an [[aircraft carrier]]'s [[deck]].
+# A [[traffic island]].
+#: {{ux|en|the '''island''' in the middle of a roundabout}}
+# (by extension, West Midlands dialect) A [[roundabout]]; A [[traffic circle]].
+#: {{ux|en|Dunton '''island''', near Birmingham, is one of the most confusingly labelled '''islands''' in the U.K.}}
+#: {{ux|en|In Coventry, you will often hear people say: “Turn right at the '''island'''”.}}
+# A bench, counter, etc., that is not connected to a wall or other furniture and which can be used from any side.
+#* {{quote-book|en|year=1936|author=F.J. Thwaites|authorlink=F.J. Thwaites|title={{w|The Redemption (novel)|The Redemption}}|publisher=H. John Edwards|location=Sydney|year_published=1940|chapter=XXII|page=216|text=A short, rather studious young woman on noticing him moved from behind an '''island''' counter.}}
+# {{lb|en|government}} An [[unincorporated]] area wholly surrounded by one or more incorporated areas.
+# {{lb|en|grammar}} A [[phrase]] from which a [[wh-word]] cannot be [[extract]]ed without yielding invalid grammar.
+#:''Adverbial subordinate clauses are '''island'''s for extraction: "They have a billion dollars of inventory that they don't know where *(it) is".''
+
+
+====Synonyms====
+* {{sense|land surrounded by water}} {{l|en|ait}}, {{l|en|holm}}
+* {{sense|an entity surrounded by other very different entities}} {{l|en|oasis}}
+
+====Derived terms====
+{{der3|en
+|Barry Island|Cape Clear Island|coney island|Deer Island|desert island|Farne Islands|floating island
+|French Island|Gough Island|Grand Island|Great Barrier Island
+|Green Island|half-island|Hayling Island|heat island|high island|Holy Island
+|interisland|Island County
+|islander|island dispenser|island display|island-hop|island maze|island platform|island position|island site|island state|island universe|islandwide|islandy|Kangaroo Island
+|kitchen island|Little Island|Long Island|low island|Merritt Island|Mersea Island|no man is an island
+|Norfolk Island|North Island|Puget Island|Rhode Island|Rock Island
+|safety island|security island|Island|sea-island|South Island|Stewart Island|St. Lawrence Island
+|tidal island|traffic island|Valentia Island|Vancouver Island|Wake Island|Wake's Island
+|Wallasea Island|White Island}}
 
 ====Related terms====
-*[[islander]]
-*[[isle]]
-*[[islet]]
-*[[desert island]]
+* {{l|en|insular}}
+* {{l|en|isle}}
+* {{l|en|islet}}
+* {{l|en|archipelago}}
 
 ====Translations====
-*Arabic: [[جزيرة|جَزِيرَة]] {{IPAchar|(ʤazíːra)}} ''f'', [[جزائر|جَزَائِر]] {{IPAchar|(ʤazáː’ir)}} ''pl''
-*Catalan: [[illa]] ''f''
-*Chinese: [[島]] (dǎo)
-*Czech: [[ostrov]] ''m''
-*Danish: [[ø]], (''of sand'') [[holm]], (''of rock'') [[skær]]
-*Dutch: [[eiland]] ''n'', -en ''pl''
-*Estonian: [[saar]], [[saared]] ''pl''
-*[[Faroese]]: [[oyggj]] ''f'', (small island) [[hólmur]] ''m'', (''of rock'') [[sker]] ''n''
-*Fijian: [[yanuyanu]]
-*Finnish: [[saari]] (1), [[koroke]] (2)
-*French: [[île]] ''f'', -s ''pl''
-*German: [[Insel]] ''f'', -n ''pl''
-*Greek: [[νησί]] (nīsí) ''n'', νησιά ''pl'' ([[:el:νησί|el]])
-*Hebrew: [[אי]] (i) ''m''
-*Ido: [[insulo]]
-*Indonesian: [[pulau]]
-*[[Interlingua]]: [[insula]]
-*{{ga}}: [[oileán]] ''m1''
-*Italian: [[isola]] ''f''
-*Japanese: [[島]] ([[しま]], shimá)
-*Korean: [[섬]] (seom)
-*[[Kurdish]]: [[girav]], [[dûrge]]
-*Latin: [[insula]] ''f'', -ae, ''pl''
-*Latvian: [[sala]] ''f''
-*Lithuanian: [[sala]] ''f''
-*Malay: [[pulau]]
-*Norwegian: [[øy]]
-*Polish: [[wyspa]] ''f''
-*Portuguese: [[ilha]] ''f'', -s ''pl''
-*Russian: [[остров]] (óstrov) ''m'', [[острова]] (ostrová) ''pl''
-*Slovak: [[ostrov]] ''m''
-*Slovenian: [[otok]] ''m''
-*Spanish: [[isla]] ''f'', -s ''pl''
-*Swedish: [[ö]] ''c''
-*[[Turkish]]: [[ada]]
-*Volapük: [[nisul]]
+{{trans-top|area of land completely surrounded by water}}
+{{multitrans|data=
+* Abkhaz: {{tt|ab|адгьылбжьаха}}
+* Acehnese: {{tt|ace|pulo}}
+* Adyghe: {{tt|ady|хыгъэхъун}}, {{tt|ady|псыгу}}
+* Afrikaans: {{tt+|af|eiland}}
+* Ainu: {{tt|ain|モシㇼ|tr=mosir}}
+* Aklanon: {{tt|akl|pueo'}}
+* Albanian: {{tt+|sq|ishull|m}}, {{tt+|sq|ujdhesë|f}}, {{tt+|sq|cekë|f}}, {{tt|sq|ansujë|f}}
+* Amharic: {{tt|am|ደሴት|f|sc=Ethi}}
+* Antillean Creole: {{tt|gcf|zil}}
+* Arabic: {{tt|ar|جَزِيرَة|f}}
+*: Egyptian Arabic: {{tt|arz|جزيرة|f|tr=gezīra|sc=Arab}}
+*: Hijazi Arabic: {{t|acw|جزيرة|f|tr=jazīra}}
+* Aragonese: {{tt|an|isla|f}}
+* Aramaic:
+*: Syriac: {{tt|arc|ܓܙܪܬܐ|f|tr=gāzartā’|sc=Syrc}}
+* Armenian: {{tt+|hy|կղզի}}
+* Assamese: {{tt|as|দ্বীপ}}
+* Asturian: {{tt+|ast|islla|f}}
+* Aymara: {{tt|ay|wat’a}}
+* Azerbaijani: {{tt+|az|ada}}
+* Baba Malay: {{tt|mbf|pulo}}
+* Baekje: {{tt|pkc|斯麻|tr=*syema or *sjema}}, {{tt|pkc|セマ|tr=*syema or *sjema}}
+* Balinese: {{tt|ban|pulo}}, {{tt|ban|nusa}}
+* Bashkir: {{tt|ba|утрау}}
+* Basque: {{tt+|eu|irla}}, {{tt+|eu|uharte}}
+* Bats: {{tt|bbl|გუბ}}, {{tt|bbl|კუნძულ}}
+* Belarusian: {{tt|be|во́страў|m}}, {{tt|be|вы́спа|f}}
+* Bengali: {{tt|bn|দ্বীপ|sc=Beng|tr=dip}}, {{tt|bn|জিঞ্জিরা|tr=jinjira}}
+* Bhojpuri: {{tt|bho|द्वीप}}
+* Bislama: {{tt|bi|aelan}}
+* Breton: {{tt+|br|enez|f}}
+* Brunei Malay: {{tt|kxd|pulau}}
+* Bulgarian: {{tt+|bg|о́стров|m}}
+* Burmese: {{tt+|my|ကျွန်း}}
+* Buryat: {{tt|bua|арал}}
+* Catalan: {{tt+|ca|illa|f}}
+* Cebuano: {{tt|ceb|pulo}}
+* Central Dusun: {{tt|dtp|pulou}}
+* Central Melanau: {{tt|mel|pulau}}
+* Chamicuro: {{tt|ccc|yishla}}
+* Chechen: {{tt|ce|гӏайре}}
+* Cherokee: {{tt|chr|ᎠᎽᏰᎵ|sc=Cher}}
+* Chichewa: {{tt|ny|chilumba}}
+* Chinese:
+*: Cantonese: {{tt|yue|島}}, {{tt+|yue|岛|tr=dou2|sc=Hani}}, {{tt|yue|島嶼}}, {{tt|yue|岛屿|tr=dou2 zeoi6}}, {{tt|yue|海島}}, {{tt|yue|海岛|tr=hoi2 dou2}}
+*: Dungan: {{tt|dng|до}}, {{tt|dng|хэдо}}
+*: Gan: {{tt|gan|島}}, {{tt|gan|岛|tr=dau3}}
+*: Hakka: {{tt|hak|島|sc=Hani}}, {{tt|hak|岛|tr=táu|sc=Hani}}
+*: Jin: {{tt|cjy|島}}, {{tt|cjy|岛|tr=dau2}}
+*: Mandarin: {{tt+|cmn|島|sc=Hani}}, {{tt+|cmn|岛|tr=dǎo|sc=Hani}}, {{tt+|cmn|島嶼|sc=Hani}}, {{tt+|cmn|岛屿|tr=dǎoyǔ|sc=Hani}}, {{tt+|cmn|海島}}, {{tt+|cmn|海岛|tr=hǎidǎo}}
+*: Min Bei: {{tt|mnp|島}}, {{tt|mnp|岛|tr=dǒ̤}}
+*: Min Dong: {{tt|cdo|島|sc=Hani}}, {{tt|cdo|岛|tr=dō̤|sc=Hani}}
+*: Min Nan: {{tt+|nan|島嶼|sc=Hani}}, {{tt|nan|岛屿|tr=tó-sū, tó͘-sū|sc=Hani}}, {{tt|nan|島|sc=Hani}}, {{tt|nan|岛|tr=tó, tó͘|sc=Hani}}, {{tt+|nan|海島}}, {{tt|nan|海岛|tr=hái-tó͘ / hái-tó}}
+*: Wu: {{tt|wuu|島|sc=Hani}}, {{tt|wuu|岛|tr=tau|sc=Hani}}, {{tt|wuu|島嶼}}, {{tt|wuu|岛屿|tr=tau hhy}}
+*: Xiang: {{tt|hsn|島}}, {{tt|hsn|岛|tr=dau3}}
+* Chukchi: {{tt|ckt|иԓир|tr=iḷir}}
+* Chuvash: {{tt|cv|утрав}}
+* Coptic:
+*: Bohairic: {{tt|cop|ⲙⲟⲩⲓ|f}}, {{tt|cop|ⲛⲏⲥⲟⲥ|f}}
+*: Sahidic: {{tt|cop|ⲙⲟⲩⲉ|f}}, {{tt|cop|ⲛⲏⲥⲟⲥ|f}}
+* Cornish: {{tt|kw|enys}}
+* Corsican: {{tt+|co|isula|f}}
+* Cree: {{tt|cr|ᒥᓂᔥᑎᒄ}}
+* Crimean Tatar: {{tt|crh|ada}}
+* Czech: {{tt+|cs|ostrov|m}}
+* Danish: {{tt+|da|ø|c}}, {{qualifier|of sand}} {{tt+|da|holm|c}}, {{qualifier|of rock}} {{tt|da|skær|c}}
+* Dhivehi: {{tt|dv|ޖަޒާ|sc=Thaa}}
+* Dogrib: {{tt|dgr|dı}}
+* Dutch: {{tt+|nl|eiland|n}}
+* Early Modern Korean: {{tt|ko-ear|셤|tr=syem}}
+* Egyptian: {{t-egy|jw|m|h=N18:N23*Z1}}, {{t-egy|mꜣwt|f|h=mA-A-W:t-N23:Z1}}
+* Elfdalian: {{tt|ovd|ö|m}}
+* Emilian: {{tt|egl|îsla|f}}
+* Esperanto: {{tt+|eo|insulo}}
+* Estonian: {{tt+|et|saar}}
+* Even: {{tt|eve|букчан}}
+* Ewe: {{tt|ee|ƒukpo}}
+* Extremaduran: {{t-needed|ext}}
+* Faroese: {{tt+|fo|oyggj|f}}, {{qualifier|small island, or river-island}} {{tt|fo|hólmur|m}}
+* Fijian: {{tt+|fj|yanuyanu}}
+* Finnish: {{tt+|fi|saari}}
+* French: {{tt+|fr|île|f}}, {{tt+|fr|ile|f}} {{qualifier|alternative spelling}}
+*: Old French: {{tt|fro|isle|f}}
+* Friulian: {{tt|fur|isule|f}}, {{tt|fur|ìsule|f}}
+* Galician: {{tt+|gl|illa|f}}, {{tt+|gl|insua|f}}, {{tt|gl|ieste|m}}
+* Georgian: {{tt|ka|კუნძული}}
+* German: {{tt+|de|Insel|f}}, {{qualifier|poetic}} {{tt+|de|Eiland|n}}
+*: Alemannic German: {{tt|gsw|Insle|f}}
+*: Bavarian: {{tt|bar|Insl|f}}
+* Greek: {{qualifier|formal}} {{tt+|el|νήσος|f}}, {{tt+|el|νησί|n}}
+*: Ancient: {{tt|grc|νῆσος|f}}
+* Greenlandic: {{tt|kl|qeqertaq}}
+* Guaraní: {{tt|gn|ypa'ũ}}
+* Gujarati: {{tt|gu|દ્વીપ|m}}, {{tt+|gu|ટાપુ}}
+* Haitian Creole: {{tt|ht|zile}}, {{tt|ht|zil}}
+* Hausa: {{tt+|ha|tsibiri}}
+* Hawaiian: {{tt|haw|moku}}
+* Hebrew: {{tt+|he|אִי|m|tr=i}}
+* Hindi: {{tt+|hi|द्वीप|m|sc=Deva}}, {{tt+|hi|टापू|m|sc=Deva}}, {{tt|hi|जज़ीरा|m}} {{qualifier|poetic}}, {{tt|hi|उपद्वीप}}
+* Hungarian: {{tt+|hu|sziget}}
+* Hunsrik: {{tt|hrx|Insel|f}}
+* Icelandic: {{tt+|is|ey|f}}, {{tt+|is|eyja}}, {{tt|is|eyland|n}}
+* Ido: {{tt+|io|insulo}}
+* Igbo: {{tt|ig|àgwè}}, {{tt|ig|àgwà}}
+* Ilocano: {{tt|ilo|puro}}
+* Indonesian: {{tt+|id|pulau}}, {{tt|id|nusa}}
+* Interlingua: {{tt|ia|insula}}
+* Iranun: {{tt|ill|pulu}}
+* Irish: {{tt+|ga|oileán|m}}, {{tt|ga|inis|f}}
+* Isnag: {{tt|isd|puxo}}
+* Italian: {{tt+|it|isola|f}}
+* Japanese: {{tt+|ja|島|tr=しま, shima}}, {{t+|ja|島|tr=とう, tō}} {{qualifier|suffix, also}}
+* Javanese: {{tt|jv|pulo}}
+* Jeju: {{tt|jje|섬}}
+* Kabuverdianu: {{tt|kea|ilha}}
+* Kalmyk: {{tt|xal|арл|sc=Cyrl}}
+* Kannada: {{tt+|kn|ದ್ವೀಪ|sc=Knda}}
+* Karachay-Balkar: {{tt|krc|айрымкан|tr=ayrımkan|sc=Cyrl}}, {{qualifier|Balkar}} {{tt|krc|айрыкам|tr=ayrıkam|sc=Cyrl}}
+* Kashubian: {{tt|csb|òstrow|m}}
+* Kazakh: {{tt+|kk|арал|sc=Cyrl}}, {{tt|kk|атау|sc=Cyrl}}
+* Khakas: {{tt|kjh|олтырых}}
+* Khmer: {{tt+|km|កោះ}}
+* Komi-Permyak: {{tt|koi|ди}}
+* Komi-Zyrian: {{tt|kpv|ді}}
+* Korean: {{tt+|ko|섬}}, {{tt+|ko|도(島)}} {{qualifier|as a component}}
+* Kumyk: {{tt|kum|атав|tr=ataw|sc=Cyrl}}
+* Kuna: {{tt|cuk|dupu}}
+* Kunigami: {{tt|xug|島|tr=しまー, shimā}}
+* Kurdish:
+*: Central Kurdish: {{tt+|ckb|گراڤ|f}}
+*: Northern Kurdish: {{tt+|kmr|girav|f}}
+* Kyrgyz: {{tt+|ky|арал}}
+* Ladin: {{t-needed|lld}}
+* Ladino: {{tt|lad|adá|f}}, {{tt|lad|isola|f}}, {{tt|lad|izla|f}}
+* Lakota: {{tt|lkt|wíta}}
+* Lao: {{tt|lo|ດອນ}}, {{tt+|lo|ເກາະ}}
+* Latgalian: {{qualifier|ocean, sea}} {{tt|ltg|jiursola}}, {{qualifier|lake}} {{tt|ltg|azarsola}}, {{qualifier|river}} {{tt|ltg|upsola}}
+* Latin: {{tt+|la|insula|f}}
+* Latvian: {{tt+|lv|sala|f}}
+* Laz: {{tt|lzz|ადა}}
+* Lingala: {{tt|ln|esanga|c7|c8}}
+* Lithuanian: {{tt+|lt|sala|f}}
+* Livonian: {{tt|liv|sǭr}}
+* Livvi: {{tt|olo|suari}}
+* Lombard: {{tt|lmo|isula|f}}
+* Low German: {{tt|nds|Insel|f}}, {{tt|nds|Ailand|n}}
+*: Dutch Low Saxon: {{tt+|nds-nl|eilaand|n}}
+* Ludian: {{tt|lud|suar'}}
+* Luganda: {{tt|lg|ekizinga}}
+* Luxembourgish: {{tt|lb|Insel|f}}
+* Lü: {{tt|khb|ᦓᧄᧉᦂᦸᦰ}}, {{tt|khb|ᦂᦸᦰ}}, {{tt|khb|ᦂᦸᦰᦡᦸᧃ}}
+{{trans-mid}}
+* Macedonian: {{tt|mk|остров|m}}
+* Malagasy: {{tt+|mg|nosy}}
+* Malay: {{tt+|ms|pulau}}, {{tt|ms|nusa}}
+*: Jawi: {{tt|ms|ڤولاو}}, {{tt|ms|نوسا}}
+* Malayalam: {{tt+|ml|ദ്വീപ്}}
+* Maltese: {{tt+|mt|gżira|f}}, {{tt|mt|ġzira|f}}
+* Manchu: {{tt|mnc|ᡨᡠᠨ}}
+* Mansaka: {{tt|msk|poro}}
+* Manx: {{tt|gv|ellan|m|f}}, {{tt|gv|innis|f}}, {{tt|gv|innys|f}}, {{tt|gv|insh|f}}
+* Maori: {{tt|mi|motu}}
+* Mapudungun: {{tt|arn|wapi}}
+* Maranao: {{tt|mrw|polo}}, {{tt|mrw|molopolo}}
+* Marathi: {{tt|mr|बेट|sc=Deva}}
+* Mari:
+*: Eastern Mari: {{tt|chm|отро}}
+*: Western Mari: {{tt|mrj|ошмаоты}}
+* Middle Korean: {{tt|okm|셤〯|tr=syěm}}
+* Mingrelian: {{tt|xmf|კოკი}}
+* Mirandese: {{tt|mwl|ilha|f}}
+* Miyako: {{tt|mvi|島|tr=すま, suma}}
+* Mizo: {{tt|lus|thliarkar}}
+* Moksha: {{tt|mdf|цёнга}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|арал}}
+*: Uyghurjin: {{tt|mn|ᠠᠷᠠᠯ}}
+* Mwani: {{tt|wmw|kisirwa}}
+* Nahuatl: {{tt|nah|tlālhuāctli}}
+* Nanai: {{tt|gld|боачан}}
+* Nepali: {{tt|ne|द्वीप|m}}, {{tt|ne|टापू}}
+* Ngazidja Comorian: {{tt|zdj|siwa|c5|c6}}
+* Niuean: {{tt|niu|motu}}
+* Nivkh: {{tt|niv|ур̌}}
+* Norman: {{tt|nrf|île|f}}
+* North Frisian:
+*: Föhr-Amrum: {{tt|frr|eilun|n}}
+*: Helgoland: {{tt|frr|Ailun|n}}, {{tt|frr|Eelun|n}}
+*: Mooring: {{tt|frr|ailönj|n}}
+*: Sylt: {{tt|frr|Ailön|n}}
+* Northern Sami: {{tt|se|suolu}}
+* Northern Sotho: {{tt|nso|sehlakehlake}}
+* Northern Thai: {{t-needed|nod}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|øy|m|f}}
+*: Nynorsk: {{tt|nn|øy|f}}
+* Nottoway-Meherrin: {{tt|nwy|eohtessieh}}
+* Occitan: {{tt+|oc|illa|f}}, {{tt+|oc|iscla|f}}
+* Ojibwe: {{tt|oj|minis}}
+* Okinawan: {{tt|ryu|島|tr=しま, shima}}
+* Old Church Slavonic:
+*: Cyrillic: {{tt|cu|островъ|m}}, {{tt|cu|отокъ|m}}
+* Old East Slavic: {{tt|orv|островъ|m}}
+* Old English: {{tt|ang|īeġland|n}}
+* Old French: {{tt|fro|isle|f}}
+* Old Japanese: {{tt|ojp|島|tr=しま, sima}}
+* Oriya: {{tt+|or|ଟାପୁ}}, {{tt|or|ଦ୍ଵୀପ}}
+* Ossetian: {{tt|os|сакъадах}}
+* Ottoman Turkish: {{tt|ota|جزیره|tr=cezîre}}, {{tt|ota|آدا|tr=ada}}, {{tt|ota|جزائر|p|tr=cezâir}}
+* Palauan: {{tt|pau|iungs}}
+* Pashto: {{tt+|ps|ټاپو|m|tr=ṭâpú|sc=ps-Arab}}, {{tt+|ps|جزيره|f|tr=ǰazirá}}
+* Persian: {{tt+|fa|جزیره|tr=jazire}}, {{tt+|fa|گنگ|tr=gang}}
+* Phoenician: {{tt|phn|𐤀𐤉}}
+* Pijin: {{tt|pis|aelan}}
+* Pitcairn-Norfolk: {{tt|pih|ailen}}
+* Plautdietsch: {{tt|pdt|Insel|f}}
+* Poitevin-Saintongese: {{tt|roa-poi|ilâte|f}}, {{tt|roa-poi|ile|f}}
+* Polabian: {{tt|pox|våstrüv|m}}
+* Polish: {{tt+|pl|wyspa|f}}
+*: Old Polish: {{tt|zlw-opl|ostrów|m}}
+* Portuguese: {{tt+|pt|ilha|f}}
+* Punjabi: {{tt+|pa|ਟਾਪੂ|m}}
+* Quechua: {{tt|qu|wat'a}}
+* Rajasthani: {{t-needed|raj}}
+* Rapa Nui: {{tt|rap|motu}}
+* Romani: {{tt|rom|dvip|m}}
+* Romanian: {{tt+|ro|insulă|f}}
+* Romansch: {{tt|rm|insla|f}}
+* Russian: {{tt+|ru|о́стров|m}}
+* Rusyn: {{tt|rue|о́стров|m}}
+* S'gaw Karen: {{tt|ksw|ကီး}}
+* Samoan: {{tt+|sm|motu}}
+* Sango: {{tt+|sg|zûa}}
+* Sanskrit: {{tt|sa|जलवेष्टितभूमि}}
+* Sardinian: {{tt|sc|isula|f}}
+* Saterland Frisian: {{tt|stq|Ailound|n}}
+* Scots: {{tt|sco|island}}
+* Scottish Gaelic: {{tt|gd|eilean|m}}, {{tt|gd|innis|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|о̏стрво|n|sc=Cyrl}}, {{tt|sh|о̀ток|m|sc=Cyrl}}
+*: Roman: {{tt+|sh|ȍstrvo|n}}, {{tt+|sh|òtok|m}}
+* Shona: {{tt|sn|chitsuwa}}
+* Sicilian: {{tt+|scn|ìsula|f}}
+* Sindhi: {{tt|sd|ٻيٽ|m|tr=ḇetu|alt=ٻيٽُ|sc=sd-Arab}}
+* Sinhalese: {{tt|si|දිවයින|sc=Sinh}}
+* Slovak: {{tt+|sk|ostrov|m}}
+* Slovene: {{tt+|sl|ôtok|m}}
+* Slovincian: {{tt|zlw-slv|u̯ostrȯw|m}}
+* Somali: {{tt+|so|jasiirad|f}}
+* Sorbian:
+*: Lower Sorbian: {{tt|dsb|kupa|f}}, {{tt|dsb|kupka|f}}
+*: Upper Sorbian: {{tt|hsb|kupa|f}}
+* Sotho: {{tt|st|sehlekehleke}}
+* Southern Altai: {{tt|alt|ортолык}}
+* Southern Thai: {{t-needed|sou}}
+* Spanish: {{tt+|es|isla|f}}, {{tt|es|ínsula|f}}
+* Sundanese: {{tt|su|pulo}}
+* Swahili: {{tt+|sw|kisiwa}}
+* Swedish: {{tt+|sv|ö|c}}, {{tt+|sv|holme|c}}, {{tt+|sv|kobbe|c}}, {{tt+|sv|skär|n}}
+* Tagalog: {{tt+|tl|pulo}}
+* Tahitian: {{tt|ty|motu}}
+* Tajik: {{tt+|tg|ҷазира}}
+* Tamil: {{tt+|ta|தீவு}}
+* Tatar: {{tt+|tt|утрау}}
+* Telugu: {{tt+|te|దీవి}}, {{tt+|te|ద్వీపము}}
+* Tetum: {{t-needed|tet}}
+* Thai: {{tt+|th|เกาะ}}
+* Tibetan: {{tt|bo|མཚོ་གླིང|sc=Tibt}}, {{tt|bo|གླིང་ཕྲན|sc=Tibt}}
+* Tigrinya: {{tt|ti|ደሴት|f|sc=Ethi}}
+* Tlingit: {{tt|tli|x'áat'}}
+* Tocharian B: {{tt|txb|prenke}}
+* Tok Pisin: {{tt|tpi|ailan}}
+* Tongan: {{tt|to|motu}}
+* Torres Strait Creole: {{tt|tcs|ailan}}
+* Tuamotuan: {{tt|pmt|motu}}
+* Turkish: {{tt+|tr|ada}}, {{tt+|tr|aral}}, {{tt+|tr|cezire}}
+* Turkmen: {{tt+|tk|ada}}
+* Tuvan: {{tt|tyv|ортулук}}
+* Udmurt: {{tt|udm|остров}}
+* Ukrainian: {{tt+|uk|о́стрів|m}}
+* Urdu: {{tt|ur|ٹاپو|m|tr=ṭāpū|sc=ur-Arab}}, {{tt|ur|جزیرہ|f|tr=jazīrā}}
+* Uyghur: {{tt|ug|ئارال|sc=ug-Arab}}, {{tt|ug|جەزىرە}}
+* Uzbek: {{tt+|uz|orol}}, {{tt+|uz|jazira}}
+* Venetian: {{tt|vec|ixoła|f}}
+* Veps: {{tt|vep|sar'}}
+* Vietnamese: {{tt+|vi|đảo}} ({{tt|vi|島}}), {{tt+|vi|hòn đảo}}
+* Volapük: {{tt+|vo|nisul}}
+* Voro: {{tt|vor|saar'}}
+* Votic: {{tt|vot|saari}}
+* Walloon: {{tt+|wa|iye}}
+* Waray-Waray: {{tt|war|purô}}
+* Welsh: {{tt+|cy|ynys|f}}
+* West Coast Bajau: {{tt|bdr|pulou}}
+* West Frisian: {{tt+|fy|eilân|n}}
+* Western Panjabi: {{tt|pnb|ٹاپو|m|tr=ṭāpv}}
+* Wolof: {{tt|wo|dun}}
+* Xhosa: {{tt|xh|isiqithi|c7|c8}}
+* Yaeyama: {{tt|rys|島|tr=しぃま, sïma}}
+* Yakut: {{tt|sah|арыы}}
+* Yiddish: {{tt|yi|אינדזל|m}}
+* Yonaguni: {{tt|yoi|ダマ|tr=dama}}, {{tt|yoi|島|tr=ちま, chima}}
+* Yoruba: {{tt|yo|erékùṣù}}
+* Yup'ik: {{tt|esu|qikertaq}}
+* Yámana: {{tt|yag|yeška}}
+* Zazaki: {{tt|zza|ada|f}}, {{tt|zza|aleng|f}}
+* Zhuang: {{tt|za|dauj}}
+* Zulu: {{tt|zu|isiqhingi|c7|c8}}
+{{trans-bottom}}
+
+{{trans-top|entity surrounded by other entities that are very different from itself}}
+* Albanian: {{tt+|sq|ishull|m}}
+* Bulgarian: {{tt+|bg|остров|m}}
+* Catalan: {{tt+|ca|illa|f}}
+* Czech: {{tt+|cs|ostrov|m}}
+* Danish: {{tt+|da|ø|c}}
+* Dutch: {{tt+|nl|eiland|n}}, {{tt+|nl|enclave}}
+* Estonian: {{tt+|et|saar}}
+* Faroese: {{tt+|fo|oyggj|f}}
+* Finnish: {{tt+|fi|saareke}}
+* French: {{tt+|fr|île|f}}
+* German: {{tt+|de|Insel|f}}, {{tt+|de|Enklave|f}}
+* Greek: {{tt+|el|νησί|n}}, {{tt+|el|νησίδα|f}}
+*: Ancient: {{tt|grc|νῆσος|f}}
+* Hebrew: {{tt+|he|אִי|tr=i|m|sc=Hebr}}
+* Hungarian: {{tt+|hu|sziget}}
+* Icelandic: {{tt+|is|eyja|f}}, {{tt|is|eyland|n}}
+* Igbo: {{tt|ig|mgbà}}
+* Indonesian: {{t-needed|id}}
+* Irish: {{t-needed|ga}}
+* Italian: {{tt+|it|isola|f}}
+* Ladin: {{t-needed|lld}}
+* Ladino: {{t-needed|lad}}
+{{trans-mid}}
+* Latgalian: {{qualifier|village}} {{tt|ltg|sola}}
+* Latin: {{t-needed|la}}
+* Latvian: {{tt+|lv|sala|f}}
+* Lithuanian: {{tt+|lt|sala|f}}
+* Macedonian: {{tt|mk|остров|m}}
+* Maltese: {{t-needed|mt}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|øy|m|f}}
+*: Nynorsk: {{tt|nn|øy|m}}
+* Polish: {{tt+|pl|wyspa|f}}
+* Portuguese: {{tt+|pt|ilha|f}}
+* Romanian: {{tt+|ro|insulă|f}}
+* Russian: {{tt+|ru|о́стров|m}}
+* Scots: {{tt|sco|island}}
+* Slovak: {{tt+|sk|ostrov|m}}
+* Slovene: {{tt+|sl|otok|m}}
+* Spanish: {{tt+|es|oasis|m}}
+* Swahili: {{tt+|sw|kisiwa}}
+* Swedish: {{tt+|sv|ö|c}}
+* Veps: {{t-needed|vep}}
+* Volapük: {{t-needed|vo}}
+* Votic: {{t-needed|vot}}
+* Võro: {{t-needed|vro}}
+}}<!-- close {{multitrans}} -->
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Fijian: {{t+check|fj|yanuyanu}}
+* Interlingua: {{t-check|ia|insula}}
+* Kurdish:
+*: Central Kurdish: {{t-check|ckb|دوورگە}}
+*: Northern Kurdish: {{t+check|kmr|girav}}
+* Maori: {{t-check|mi|motu}}
+* Persian: {{t+check|fa|جَزِیرَه|tr=jazire|sc=fa-Arab}}
+* Sardinian: {{t-check|sc|isula|f}}
+{{trans-mid}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-check|sh|острво|n|sc=Cyrl}}
+*: Roman: {{t+check|sh|ostrvo|n}}
+* Slovak: {{t+check|sk|ostrov|m}}
+* Telugu: {{t+check|te|దీవి}}, {{t+check|te|ద్వీపం}}
+* Volapük: {{t+check|vo|nisul}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|transitive}} To surround with water; make into an island.
+#* '''1933''', Harriet Monroe, Poetry: Volume 42
+#*: We paused at little river cities along the way and walked upon their bushy dikes, and heard tales of overflows in flood seasons, when four feet or more of water '''islanded''' the houses.
+#* {{quote-book|1=en|year=1956|year_published=1972|author=Anthony Burgess|authorlink=Anthony Burgess|title=Time for a Tiger|series=The Malayan Trilogy|page=138|passage=The car soon seemed '''islanded''' in water.}}
+# {{lb|en|transitive}} To set, dot (as if) with islands.
+#*: {{quote-book|en|year=1842|author=T.H.Chivers|title=Magnolia; Or Southern Appalachian - Vol. II - No.1|chapter=The Song of Seralim: A Celestial Melologue|page=52|passage=God dwells in light! Before the ocean of unmeasured space, was '''islanded''' with stars serenely bright, reflecting back the radiance of his face - he dwelt above in heaven’s immortal bliss, thinking into existence that which is.}}
+#*: {{quote-book|en|year=1915|author=Edward Hutton|authorlink=Edward Hutton (writer)|title=Naples and Southern Italy|page=22|passage=This Apulia is a land of vast pastures and cornfields and olive gardens, '''islanded''' with many rich cities, notable if only for the splendour of their churches,[…]}}
+#*: {{quote-book|en|year=1930|author=Rupert Hughes|authorlink=Rupert Hughes|title=Ladies’ Man|page=143|passage=She knew that the town was '''islanded''' with many waters - the Hudson, the Harlem and the East rivers, and the Bay - but the rivers were hard to find in the universal velvetiness.}}
+# {{lb|en|transitive}} To [[isolate]].
+#* '''1896''', {{w|A. E. Housman}}, {{w|A Shropshire Lad}}, XXVII, lines 1-2
+#*: ''High the vanes of {{w|Shrewsbury}} gleam''
+#*: '''Islanded''' in Severn stream.
+
+====Synonyms====
+* {{l|en|isle}}
+
+====Translations====
+{{trans-top|make into an island}}
+{{multitrans|data=
+* Finnish: {{tt|fi|[[tehdä]] [[saari]]}} {{qualifier|+ elative}}, {{tt+|fi|saartaa}}
+* German: {{tt+|de|einschließen}}, {{tt+|de|umströmen}}
+* Greek: {{t-needed|el}}
+*: Ancient: {{t-needed|grc}}
+{{trans-mid}}
+* Italian: {{tt|it|[[trasformare]] [[in]] [[un]] [[isola]]}}
+* Norwegian:
+*: Bokmål: {{t-needed|nb}}
+*: Nynorsk: {{t-needed|nn}}
+* Portuguese: {{tt+|pt|ilhar}}
+{{trans-bottom}}
+
+{{trans-top|set, dot (as if) with islands}}
+* Finnish: {{tt|fi|[[koristella]] [[saari]]lla|lit=decorate with islands}}
+* German: {{tt+|de|beflecken}}, {{tt|de|mit Inseln [[versehen]]}}
+* Greek:
+*: Ancient: {{t-needed|grc}}
+* Italian: {{t-needed|it}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t-needed|nb}}
+*: Nynorsk: {{t-needed|nn}}
+* Russian: {{tt+|ru|покрыва́ть|impf}}, {{tt+|ru|покры́ть|pf}} (''островками''), {{tt+|ru|усе́ивать|impf}}, {{tt+|ru|усе́ять|pf}} (''островками'')
+{{trans-bottom}}
+
+{{trans-top|isolate}}
+* Bulgarian: {{tt+|bg|изолирам}}
+* Dutch: {{tt+|nl|afsluiten}}, {{tt+|nl|afzonderen}}, {{tt+|nl|isoleren}}
+* Finnish: {{tt+|fi|eristää}}
+* German: {{tt+|de|vereinzeln}}, {{tt+|de|isolieren}}
+* Greek: {{tt+|el|απομονώνω|sc=Grek}}
+*: Ancient: {{t-needed|grc}}
+* Italian: {{tt+|it|isolare}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t-needed|nb}}
+*: Nynorsk: {{t-needed|nn}}
+* Portuguese: {{tt+|pt|isolar}}
+* Russian: {{tt+|ru|изоли́ровать}}, {{tt+|ru|отделя́ть|impf}}, {{tt+|ru|отдели́ть|pf}}, {{tt+|ru|обособля́ть|impf}}, {{tt+|ru|обосо́бить|pf}}
+* Sicilian: {{tt|scn|isulari}}
+}}<!-- close {{multitrans}} -->
+{{trans-bottom}}
 
 ===See also===
-*[[archipelago]]
-*[[atoll]]
-*[[cay]]
-*[[continent]]
-*[[key]]
+* {{l|en|archipelago}}
+* {{l|en|atoll}}
+* {{l|en|cay}}, {{l|en|key}}
+* {{l|en|continent}}
+* {{l|en|peninsula}}
 
+===Anagrams===
+* {{anagrams|en|a=adilns|Ladins|Landis|ilands}}
 
-----
-==Breton==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-----
-
-==Czech==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-----
-
-==Danish==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-----
-
-==Estonian==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-----
-
-==German==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-----
-
-==Icelandic==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
+[[Category:en:Landforms]]
 
 ----
 
-==Norwegian==
-===Proper noun===
-'''Island'''
+==Scots==
+{{wikipedia|lang=sco}}
 
-#[[Iceland]]
-----
+===Alternative forms===
+* {{l|sco|iland}}
+* {{l|sco|yland}}
 
-== Slovak ==
-=== Proper Noun ===
-'''Island''' ''m'', '''Islandy''' ''pl''
+===Etymology===
+From {{inh|sco|ang|īġland}}.
 
-==== Singular ====
-* ''[[nominative|nom]]'' '''Island'''
-* ''[[genitive|gen]]'' '''Islandu'''
-* ''[[dative|dat]]'' '''Islandu'''
-* ''[[accusative|acc]]'' '''Island'''
-* ''[[vocative|voc]]'' '''Island'''
-* ''[[locative|loc]]'' '''Islande'''
-* ''[[instrumental|ins]]'' '''Islandom'''
+===Pronunciation===
+{{rfp|sco}}
 
-==== Plural ====
-* ''[[nominative|nom]]'' '''Islandy'''
-* ''[[genitive|gen]]'' '''Islandov'''
-* ''[[dative|dat]]'' '''Islandom'''
-* ''[[accusative|acc]]'' '''Islandy'''
-* ''[[vocative|voc]]'' '''Islandy'''
-* ''[[locative|loc]]'' '''Islandoch'''
-* ''[[instrumental|ins]]'' '''Islandami'''
+===Noun===
+{{sco-noun}}
 
-=== Derived Words ===
-* [[Islanďan]]
-* [[islandčina]]
-* [[islandský#Slovak|islandský]], [[islandský#Slovak|islandská]], [[islandský#Slovak|islandské]]
-
-----
-==Swedish==
-===Proper noun===
-'''Island'''
-
-#[[Iceland]]
-[[Category:1000 English basic words]]
+# An {{l|en|island}}.
