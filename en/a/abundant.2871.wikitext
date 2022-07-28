@@ -1,26 +1,204 @@
+==English==
+
+===Alternative forms===
+* {{alter|en|aboundant|abundaunt|habundaunt|habundant||obsolete}}
+
 ===Etymology===
-Old English ''(h)abundant'', ''aboundant'', French ''[[abondant]]'', from Latin ''abudans'', present participle of ''[[abundare]]''. See [[Abound]]
+First attested about 1380. From {{inh|en|enm|abundaunt}},<ref name=AHD>{{R:American Heritage Dictionary|edition=1971|page=6}}</ref> {{m|enm|habundaunt}},<ref name=WI3>{{R:MW3 1976|page=8}}</ref> {{m|enm|aboundant}}, from {{der|en|xno|abundant}}, from {{der|en|fro|abondant}}, from {{der|en|la|abundāns}}, present participle of {{m|la|abundo||to overflow, to abound}}. Compare {{m|en|abound}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/əˈbʌn.dn̩t/}}
+* {{a|US}} {{IPA|en|/əˈbʌn.dn̩t/|/əˈbn̩.dn̩t/}}
+* {{audio|en|en-us-abundant.ogg|Audio (US)}}
+
 ===Adjective===
-#Fully sufficient; [[plentiful]]; in [[copious]] supply; in great quantity; richly supplied -- followed by ''in'', rarely by ''with''.
-#:'''Quotations'''
-#:*''Abundant'' in goodness and truth. ''Exodus, 34:6''
+{{en-adj}}
 
-===Synonyms===
-*[[Ample]]; plentiful; [[copious]]; [[plenteous]]; [[exuberant]]; [[overflowing]]; rich; [[teeming]]; [[profuse]]; [[bountiful]]; liberal. 
-*See [[Ample]] for explanation of distinctions.
+# Fully sufficient; found in [[copious]] supply; in great quantity; overflowing. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED>{{R:SOED5|page=10}}</ref>
+#: {{ux|en|Blackberries are '''abundant''' in this part of the country in October, so we always make lots of jam.}}
+#: {{ux|en|an '''abundant''' selection of carpets to choose from}}
+#* '''a. 1859''', {{w|Leigh Hunt}}, ''On the Realities of Imagination''
+#*:[W]ith their magical words they [poets] bring forth to our eyesight the '''abundant''' images and beauties of creation.
+#*{{quote-video game|en||developer={{w|BioWare}}|title={{w|Mass Effect: Andromeda}}|genre=[[science fiction|Science Fiction]]|location=Redwood City|publisher=Electronic Arts|year=2017|platform=PC|scene=Kadara|oclc=1261299044|text=Kadara was of great interest to the Andromeda Initiative after it appeared on long-range surveys. Seemingly '''abundant''' liquid water and an oxygen-mix atmosphere made it a strong candidate for settlement, earning it the designation Habitat 4. Closer range surveys now reveal that Kadara's water sources are tainted and unpotable.}}
+#: {{ant|en|rare|scarce}}
+# Richly [[supplied]]; [[wealthy]]; possessing in great quantity. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED/>
+#* {{RQ:KJV|Exodus|34|6|passage='''Abundant''' in goodness and truth.}}
+# {{lb|en|mathematics}} Being an [[abundant number]], i.e. less than the sum of all of its [[divisor]]s except itself. {{defdate|First attested in the mid 16<sup>th</sup> century.}}<ref name=SOED/>
+#: {{ant|en|deficient}}
 
-===Translations===
-*[[Dutch]]: [[overvloedig]], [[rijkelijk voorhanden]]
-*[[French]]: [[abondant]]
-*[[German]]: [[reichlich vorhanden]]
-*[[Interlingua]]: [[abundante]]
-*[[Italian]]: [[abbondante]]
-*[[Norwegian]]: [[rikelig]]
-*[[Portuguese]]: [[abundante]]
-*[[Romanian]]: [[abundent]]
-*[[Spanish]]: [[abundante]]
+====Usage notes====
+* {{sense|richly supplied}} Normally followed by the word '''in''' or {{qualifier|obsolete}} '''of'''.
 
-===Derived expressions===
-*[[Abundant number]]
+====Synonyms====
+* {{l|en|ample}} (see here for explanation of distinctions)
+* {{l|en|bountiful}}
+* {{l|en|copious}}
+* {{l|en|exuberant}}
+* {{l|en|liberal}}
+* {{l|en|overflowing}}
+* {{l|en|plenteous}}
+* {{l|en|plentiful}}
+* {{l|en|profuse}}
+* {{l|en|rich}}
+* {{l|en|teeming}}
+* See also [[Thesaurus:abundant]]
 
-[[gl:Abundant]]
+====Derived terms====
+{{der3|en
+|abundant number
+|abundant year
+|abundantly
+|superabundant}}
+
+====Related terms====
+* {{l|en|abound}}
+
+====Translations====
+{{trans-top|fully sufficient; plentiful}}
+* Arabic: {{t+|ar|وافِر}}
+*: Moroccan Arabic: {{t|ary|وافْر|tr=wāfr}}
+* Armenian: {{t+|hy|առատ}}
+* Azerbaijani: {{t+|az|bol}}
+* Belarusian: {{t+|be|бага́ты}}
+* Bengali: {{t|bn|বহুল}}
+* Bulgarian: {{t+|bg|оби́лен}}, {{t+|bg|изоби́лен}}
+* Catalan: {{t+|ca|abundant}}
+* Chamicuro: {{t|ccc|icheeki}}
+* Chinese:
+*: Mandarin: {{t+|cmn|豐富}}, {{t+|cmn|丰富|tr=fēngfù}}
+* Cornish: {{t|kw|pals}}
+* Czech: {{t+|cs|hojný|m}}
+* Danish: {{t|da|rigelig}}
+* Dutch: {{t+|nl|overvloedig}}, {{t|nl|rijkelijk voorhanden}}, {{t+|nl|abondant}}
+* Esperanto: {{t+|eo|abunda}}
+* Finnish: {{t+|fi|runsas}}, {{t+|fi|yltäkylläinen}}
+* French: {{t+|fr|abondant}}
+* Galician: {{t+|gl|abundante}}, {{t|gl|abondoso}}
+* Georgian: {{t|ka|უხვი}}, {{t|ka|სავსე}}, {{t|ka|დოვლათიანი}}
+* German: {{t+|de|reichlich}}, {{t+|de|wohlhabend}}
+* Gothic: {{t|got|𐌲𐌰𐌽𐍉𐌷𐍃}}
+* Greek:
+*: Ancient: {{t|grc|περισσός}}, {{t|grc|δαψιλής}}
+* Hungarian: {{t+|hu|bőséges}}, {{t+|hu|kiadós}}
+* Ido: {{t+|io|abundanta}}
+* Interlingua: {{t|ia|abundante}}
+{{trans-mid}}
+* Irish: {{t|ga|líonmhar}}, {{t|ga|raidhsiúil}}, {{t|ga|fairsing}}
+* Italian: {{t+|it|abbondante}}
+* Japanese: {{t+|ja|豊か|tr=yutaka}}, {{t+|ja|多い|alt=量の多い|tr=ryō no ōi}}
+* Latin: {{t|la|abundans}}, {{t+|la|amplus}}, {{t|la|largus}}
+* Latvian: {{t|lv|bagatīgs}}
+* Lithuanian: {{t|lt|gausus}}
+* Maori: {{t|mi|ranea}}, {{t|mi|makuru}}
+* Norwegian:
+*: Bokmål: {{t+|nb|rikelig}}, {{t+|nb|rik}}
+* Plautdietsch: {{t|pdt|riew}}
+* Polish: {{t+|pl|obfity}}
+* Portuguese: {{t+|pt|abundante}}
+* Quechua: {{t|qu|yupa}}
+* Romanian: {{t+|ro|abundent}}
+* Russian: {{t+|ru|оби́льный}}, {{t+|ru|изоби́лующий}}
+* Sanskrit: {{t+|sa|बहु}}
+* Scots: {{t|sco|roch}}
+* Scottish Gaelic: {{t|gd|pailt}}
+* Spanish: {{t+|es|abundante}}, {{t+|es|copioso}}, {{t+|es|cuantioso}}
+* Swedish: {{t+|sv|riklig}}, {{t+|sv|ymnig}}
+* Telugu: {{t+|te|మిక్కిలి}}
+* Tocharian B: {{t|txb|īte}}
+* Turkish: {{t+|tr|bol}}
+* Ukrainian: {{t+|uk|бага́тий}}
+* Vietnamese: {{t+|vi|dồi dào}}
+* Volapük: {{t+|vo|bundanik}}
+* Welsh: {{t+|cy|helaeth}}
+* Zazaki: {{t|zza|zaf}}
+{{trans-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|abundans}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|ant|s=3}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|abundant}}; [[plentiful]]
+
+====Derived terms====
+* {{l|ca|abundantment}}
+
+====Related terms====
+* {{l|ca|abundància}}
+* {{l|ca|abundar}}
+
+===Further reading===
+* {{R:IEC2}}
+
+----
+
+==Dutch==
+
+===Alternative forms===
+* {{l|nl|abondant}}
+
+===Etymology===
+Borrowed from {{bor|nl|frm|abundant}}.
+
+===Pronunciation===
+* {{IPA|nl|/aː.bʏnˈdɑnt/}}
+* {{audio|nl|Nl-abundant.ogg|Audio}}
+* {{hyphenation|nl|abun|dant}}
+* {{rhyme|nl|ɑnt}}
+
+===Adjective===
+{{nl-adj|abundanter}}
+
+# {{l|en|abundant}}
+
+====Inflection====
+{{nl-decl-adj|abundante}}
+
+----
+
+==German==
+
+===Pronunciation===
+* {{IPA|de|/abʊnˈdant/}}
+* {{audio|de|De-abundant.ogg|Audio}}
+
+===Adjective===
+{{de-adj|comp}}
+
+# [[#English|abundant]]
+
+====Declension====
+{{de-adecl|comp}}
+
+===Further reading===
+* {{R:DWDS}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|abundant}}
+
+# {{inflection of|la|abundō||3|p|pres|actv|indc}}
+
+----
+
+==Old French==
+
+===Verb===
+{{head|fro|verb form}}
+
+# {{lb|fro|Anglo-Norman}} {{alternative form of|fro|2=abondant}}
