@@ -1,101 +1,547 @@
+{{also|Room|rõõm}}
 ==English==
-===Noun===
-'''room''' (''[[countable]] and [[uncountable]]''; ''plural'' '''rooms''')
 
-#Space for something or to carry out an activity.
-#:''Give me some room, I can't breathe.''
-#A division in a building, enclosed by walls, a floor and a ceiling.
-#:''He went to the adjacent room.''
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ɹʊm/|/ɹuːm/}}
+* {{a|GA}} {{IPA|en|/ɹum/}}
+* {{a|New England|Tidewater}} {{IPA|en|/ɹʊm/}}
+* {{audio|en|en-us-room.ogg|Audio (US with /u/)}}
+* {{audio|en|En-uk-room.ogg|Audio (UK with /ʊ/)}}
+* {{rhymes|en|uːm|ʊm|s=1}}
+* {{homophone|en|rheum|rum|q2=accents with foot–strut split}}
 
-====Synonyms====
-*(''space''): [[elbow room]], [[legroom]], [[place]], [[space]]
-*(''division in a building''): [[chamber]] <!--??? :[[ward]], [[quarters]]-->
+===Etymology 1===
+From {{inh|en|enm|roum}}, from {{inh|en|ang|rūm||room, space}}, from {{inh|en|gmw-pro|*rūm||room}}, from {{inh|en|gem-pro|*rūmą||room}}, from {{inh|en|ine-pro|*rowə-||free space}}. 
 
-====Translations====
+Cognate with {{cog|nds|Ruum}}, {{cog|nl|ruimte||space}} and {{cog|nl|ruim||cargo load}}, {{cog|de|Raum||space, interior space}}, {{cog|da|rum||space, locality}}, {{cog|no|rom||space}}, {{cog|sv|rum||space, location}}, and also with {{cog|la|rūs||country, field, farm}} through Indo-European. More at {{l|en|rural}}.
 
-'''space'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*Chinese: (k&#333;ngji&#257;an)
-*Dutch: [[ruimte]] ''f''
-*Farsi: [[جا]]  (ja)
-*French: [[espace]] ''f''
-*German: [[Raum]] ''m'' [[Platz]] ''m''
-*Indonesian: [[ruang]]
-*[[Interlingua]]: [[spatio]]
-*Italian: [[spazio]] ''m''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Japanese: [[空間]] (くうかん, kūkan)
-*Korean: [[공간]][[:ko:공간|ko]] (gonggan)
-*Portuguese: [[espaço]] ''m''
-*Romanian: [[spaţiu]]
-*Spanish: [[espacio]]
-*Swedish: [[plats]] ''c'', [[utrymme]] ''n'', [[rum]] ''n''
-|}
-|}
+It is ostensibly an exception to the [[w:Great Vowel Shift|Great Vowel Shift]], which otherwise would have produced the pronunciation {{IPAchar|/ɹaʊm/}}, but {{IPAchar|/aʊ/}} does not occur before noncoronal consonants in Modern English native vocabulary.
 
-'''division in a building'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from A to I here-->
-*Chinese: (fángji&#257;n)
-*Dutch: [[ruimte]] ''f'', [[kamer]] ''f'', [[zaal]] ''m''
-*Farsi: [[اتاق]] (otagh)
-*French: [[pièce]] ''f'', [[salle]] ''f'', [[chambre]] ''f'' (''a bedroom'')
-*German: [[Raum]] ''m'', [[Zimmer]] ''n''
-*Indonesian: [[ruang]], [[kamar]]
-*[[Ido]]: Chambro
-*[[Interlingua]]: [[camera#Interlingua|camera]]
-*Italian: [[stanza]] ''f'', [[camera#Italian|camera]] ''f'' (''a bedroom''), [[sala]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Japanese: [[部屋]] ([[へや]], heya)
-*Korean: [[방]][[:ko:방|ko]] (bang)
-*Polish: [[pokój]] ''m''
-*Portuguese: [[sala]] ''m'', [[aposento]] ''m'', [[quarto]] ''m'' (''especially a bedroom''), [[câmara]] ''f''
-*Romanian: [[cameră]] ''f'', [[odaie]] ''f''
-*Spanish: [[cuarto]] ''m'', [[habitación]] ''f''
-*Swedish: [[rum]] ''n''
-*Turkish: [[oda]]
-|}
-|}
+[[File:Imperial_Hotel_Osaka_regular_floor_standard_twin_room_20120630-001.jpg|thumb|A '''room''' (part of a building) in a [[hotel]].]]
 
-===Derived terms===
-*[[backroom]]
-*[[ballroom]]
-*[[bedroom]]
-*[[box-room]]
-*[[darkroom]]
-*[[dining room]]
-*[[front room]]
-*[[guest room]]
-*[[legroom]]
-*[[living room]]
-*[[roommate]]
-*[[roomy]]
-*[[spare room]]
+====Noun====
+{{en-noun|~}}
+
+# {{lb|en|now|rare}} [[opportunity|Opportunity]] or [[scope]] (to do something). {{defdate|from 9th c.}}
+#* '''1526''', {{w|William Tyndale}}, trans. ''Bible'', {{w|Acts of the Apostles|Acts}} I:
+#*: Thou lorde whiche knowest the hertes of all men, shewe whether thou hast chosen of these two, that the one maye take the '''roume''' of this ministracion, and apostleshippe from the which Judas by transgression fell, that he myght goo to his awne place.
+#* {{RQ:Richardson Clarissa|text=Nor shalt thou give me '''room''' to doubt whether it be necessity or love, that inspires this condescending impulse.}}
+# {{lb|en|uncountable}} Space ''for'' something, or ''to'' carry out an activity. {{defdate|from 10th c.}}
+#* '''2010''', Jonathan Franklin, ''The Guardian'', 27 Aug 2010:
+#*: He explains they have enough '''room''' to stand and lie down, points out the "little cup to brush our teeth", and the place where they pray.
+# {{lb|en|archaic}} A particular [[portion]] of [[space]]. {{defdate|from 11th c.}}
+#* '''1614''', {{w|Thomas Overbury}}, ''Characters''
+#*: If he have but twelve pence in his purse, he will give it for the best '''room''' in a playhouse.
+#* {{RQ:KJV|Luke|14|8}}
+#*: When thou art bidden of any man to a wedding, sit not down in the highest '''room'''.
+# {{lb|en|uncountable|figuratively}} Sufficient space {{m|en|for}} or {{m|en|to}} ''do'' something. {{defdate|from 15th c.}}
+#* {{RQ:Addison Freeholder|issue=21|date=March 2, 1716|passage=There was no prince in the empire who had '''room''' for such an alliance.}}
+#* '''2010''', Roger Bootle, ''The Telegraph'', 12 Sep 2010:
+#*: There are major disagreements within the Coalition and politicians always want to retain '''room''' for manoeuvre.
+# {{lb|en|nautical}} A [[space]] between the timbers of a ship's frame. {{defdate|from 15th c.}}
+# {{lb|en|obsolete}} [[place|Place]]; [[stead]].
+#* {{quote-book|en|year=1749|author=Henry Fielding| title=The History of Tom Jones, a Foundling| passage=For this purpose I have shown that no acquisitions of guilt can compensate the loss of that solid inward comfort of mind, which is the sure companion of innocence and virtue; nor can in the least balance the evil of that horror and anxiety which, in their '''room''', guilt introduces into our bosoms.}}
+# {{lb|en|countable}} A separate part of a building, enclosed by walls, a floor and a ceiling. {{defdate|from 15th c.}}
+#* {{RQ:Austen Pride and Prejudice|text=Miss Bingley made no answer, and soon afterwards she got up and walked about the '''room'''.}}
+#* {{RQ:Maxwell Mirror and the Lamp|chapter=10|passage=He looked round the poor '''room''', at the distempered walls, and the bad engravings in meretricious frames, the crinkly paper and wax flowers on the chiffonier; and he thought of a '''room''' like Father Bryan's, with panelling, with cut glass, with tulips in silver pots, such a '''room''' as he had hoped to have for his own.}}
+# {{lb|en|countable|with possessive pronoun}} (One's) [[bedroom]].
+#: {{ux|en|Go to your '''room'''!}}
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=6| title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]| passage=She was so mad she wouldn't speak to me for quite a spell, but at last I coaxed her into going up to Miss Emmeline's '''room''' and fetching down a tintype of the missing Deacon man.}}
+#* {{quote-book|en|year=1963|author={{w|Margery Allingham}}| title={{w|The China Governess}}| chapter=20| url=http://openlibrary.org/works/OL2004261W| passage=&lsquo;No. I only opened the door a foot and put my head in. The street lamps shine into that '''room'''. I could see him. He was all right. Sleeping like a great grampus. Poor, poor chap.’}}
+# {{lb|en|in the plural}} A set of rooms inhabited by someone; one's [[lodgings]]. {{defdate|from 17th c.}}
+# {{lb|en|usually|_|in the singular|metonymy}} The people in a room. {{defdate|from 17th c.}}
+#: {{ux|en|The '''room''' was on its feet.}}
+#: ''He was good at reading '''rooms'''.''
+#: ''It was fun to watch her work the '''room'''.''
+# {{lb|en|mining}} An area for working in a [[coal mine]]. {{defdate|from 17th c.}}
+# {{lb|en|caving}} A portion of a cave that is wider than a [[passage]]. {{defdate|from 17th c.}}
+# {{lb|en|Internet|countable}} An [[IRC]] or [[chat room]]. {{defdate|from 20th c.}}
+#: {{ux|en|Some users may not be able to access the AOL '''room'''.}}
+# Place or position in [[society]]; [[office]]; [[rank]]; [[post]], sometimes when [[vacated]] by its former [[occupant]].
+#* {{RQ:Marlowe Tamburlaine|1|II|iii|page=34|When ſhee that rules in ''Rhamnis'' golden gates, {{...}}<br>Shall make me ſolely Emperour of ''Aſia'',<br>Then ſhall your meeds and vallours be aduaunſt<br>To '''roomes''' of honour and Nobilitie.}}
+#* {{RQ:Shakespeare Taming of the Shrew|act=III|scene=ii|passage=Let Bianca take her sister's '''room'''.}}
+#* {{RQ:KJV|Matthew|2|22|text=When he heard that Archelaus did reign in Judea in the '''room''' of his father Herod.}}
+#* '''1848''', {{w|Henry Walter}} (editor), {{w|William Tyndale}} (original author), ''Doctrinal Treatises and Introductions to Different Portions of the Holy Scriptures''
+#*: Neither that I look for a higher '''room''' in heaven.
+# A quantity of [[furniture]] sufficient to furnish one room.
+#* '''1985''', {{w|August Wilson}}, ''{{w|Fences (play)|Fences}}''
+#*: “I understand you need some furniture and can’t get no credit.” I liked to fell over. He say, “I’ll give you all the credit you want, but you got to pay the interest on it.” I told him, “Give me three '''rooms''' worth and charge whatever you want.”
+
+=====Quotations=====
+* {{seeCites|en}}
+
+=====Synonyms=====
+* {{sense|space}} [[elbow room]], [[legroom]], [[space]]
+* {{sense|part of a building}} [[chamber]], [[quarters]]
+* {{sense|part of a cave}} [[chamber]]
+* {{l|en|rm}}
+* See also [[Thesaurus:room]]
+
+=====Hyponyms=====
+* See [[:Category:en:Rooms]]
+
+=====Meronyms=====
+* {{l|en|walls}}
+* {{l|en|windows}}
+* {{l|en|doors}}
+* {{l|en|furniture}}
+* {{l|en|wall sockets}}
+* {{l|en|switches}}
+* {{l|en|light fixtures}}
+* {{l|en|appliances}}
+
+=====Holonyms=====
+* {{l|en|house}}
+* {{l|en|building}}
+* {{l|en|structure}}
+* {{l|en|apartment}}
+* {{l|en|home}}
+* {{l|en|flat}}
+* {{l|en|hotel}}
+* {{l|en|hospital}}
+
+=====Derived terms=====
+{{der4|en|anteroom|Arizona room|art room|AV room|backroom|ballroom|barroom|bathroom|bathroomette|bedroom|billiard room|boardroom|blue room|boiler room|bookroom|boxroom|breakroom|bunkroom|by-room|cardroom|changing room|chartroom|chatroom|checkroom|classroom|cleanroom|cloakroom|coatroom|coffeeroom|cold room|collaboration room|combination room|comfort room|common room|computer room|control room|cookroom|coolroom|copy room|courtroom|crush room|cutting room|darkroom|dayroom|delivery room|dining room|discussion room|display room|dormroom|double room|drawing room|dressing room|embalming room|emergency room|engine room|escape room|examination room|family room|fitting room|Florida room|front room|fuckroom|game room|gentlemen's room|giftwrapping room|greatroom|green room|guardroom|guestroom|half bathroom|headroom|homeroom|inner room|keeping room|ladies' room|lamp room|laundry room|legroom|lightroom|little boys' room|little girls' room|living room|locker room|locking room|lounge room|lumberroom|lunchroom|machine room|mailroom|man's room|map room|master bedroom|meditation room|meeting room|men's room|messroom|mudroom|music room|newsroom|operating room
+|other room|padded room|panic room|plant room|playroom|poolroom|powder room|prep room
+|press room|private room|pump room|raying room|reading room|ready room|rec room|reception room
+|recording room|recreation room|refreshment room|reptile room|romper room
+|roomette|roomful|roommate|roomie|roomsome|roomth|roomy|rubber room|rumpus room|safe room
+|sailroom|sale room|save room|school room|science room|screening room|sewing room
+|showroom|sickroom|single room|sinkroom|sitting room|situation room|small room|smallest room
+|smoke-filled room|smoking room|sound room|spare room|staffroom|standing room|stateroom
+|steam room|stillroom|storeroom|strongroom|study room|sunroom|tack room|tally room|tearoom
+|three-quarter bathroom|throneroom|tiring-room|toilet room|toolroom|twin room|upper room
+|upstairs room|utility room|viewing room|waiting room|war room
+|wardroom|wareroom|washroom|weightroom|well room|wet room|wiggle room|wireroom|withdrawing room
+|woman's room|women's room|workroom|writ-room|writers' room}}
+
+=====Related terms=====
+{{rel4|en|clean my room|elbow room|elephant in the room|get a room|in the room|need a room|no room at the inn|room and board|room at the top|room by room|room for abuse|room for apology|room for dessert|room for error|room for improvement|room service|room to breathe|room to grow|room to roam|room with a view|standing room only|work the room}}
+
+=====Descendants=====
+* {{desc|ja|ルーム|tr=rūmu|bor=1}}
+* {{desc|ki|rumu|bor=1}}
+
+=====Translations=====
+{{trans-top|opportunity or scope}}
+* Bulgarian: {{t+|bg|възможност|f}}
+* Finnish: {{t+|fi|tila}}, {{t+|fi|tilaisuus}}
+* Italian: {{t+|it|motivo|m}}, {{t+|it|opportunità|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|возмо́жность|f}}
+* Slovak: {{t+|sk|priestor}}
+{{trans-bottom}}
+
+{{trans-top|space}}
+* Afrikaans: {{t|af|ruimte}}
+* Albanian: {{t+|sq|hapësirë|f}}
+* Arabic: {{t+|ar|فَضاء|m}}
+* Armenian: {{t+|hy|տարածություն}}
+* Ashkun: {{t|ask|āmā}}
+* Assyrian Neo-Aramaic: {{t|aii|ܕܘܼܟܬܵܐ|tr=dukta}}
+* Asturian: {{t+|ast|espaciu|m}}
+* Bashkir: {{t|ba|урын}}
+* Belarusian: {{t+|be|ме́сца|n}}, {{t|be|прасто́ра|f}}
+* Bengali: {{t|bn|জায়গা}}
+* Bulgarian: {{t+|bg|простра́нство|n}}, {{t+|bg|мя́сто|n}}
+* Catalan: {{t+|ca|espai|m}}, {{t+|ca|lloc|m}}
+* Chechen: {{t|ce|чоь}}
+* Chinese:
+*: Mandarin: {{t+|cmn|空間}}, {{t+|cmn|空间|tr=kōngjiān}}
+* Czech: {{t+|cs|prostor|m}}, {{t+|cs|místo|n}}
+* Danish: {{t+|da|rum|n}}
+* Dutch: {{t+|nl|ruimte|f}}, {{t+|nl|kamer|f}}, {{t+|nl|vertrek|n}}
+* Esperanto: {{t+|eo|ĉambro}}
+* Finnish: {{t+|fi|tila}}
+* French: {{t+|fr|espace|f}}, {{t+|fr|place|f}}
+* Georgian: {{t+|ka|ადგილი}}
+* German: {{t+|de|Raum|m}}, {{t+|de|Platz|m}}
+* Gothic: {{t|got|𐍂𐌿𐌼|n}}
+* Greek: {{t+|el|χώρος|m}}
+*: Ancient: {{t|grc|χῶρος|m}}
+* Hungarian: {{t+|hu|tér}}, {{t+|hu|hely}}
+* Icelandic: {{t+|is|rúm}}
+* Indonesian: {{t+|id|ruang}}
+* Ingush: {{t|inh|че}}
+* Interlingua: {{t+|ia|spatio}}
+* Irish: {{t|ga|spás}}
+* Italian: {{t+|it|spazio|m}}
+* Japanese: {{t+|ja|空間|tr=くうかん, kūkan}}, {{t+|ja|間|tr=ま, ma}}
+* Kamkata-viri: {{t|bsh|āmo}}
+* Korean: {{t+|ko|공간(空間)}}, {{t+|ko|자리}}, {{t+|ko|겨를}}, {{t+|ko|틈}}, {{t+|ko|짬}}, {{t+|ko|여유(餘裕)}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ژوور}}
+* Latin: {{t+|la|spatium|n}}
+* Luxembourgish: {{t|lb|Raum|m}}, {{t|lb|Plaz|f}}
+* Macedonian: {{t|mk|простор|m}}
+* Maori: {{t|mi|taiwhanga}}
+* Norwegian: {{t+|no|rom|n}}, {{t+|no|plass|m}}
+* Old English: {{t|ang|rūm}}
+* Ossetian: {{t|os|уат}}
+* Pashto: {{t+|ps|ځای|m|tr=zāy}}
+* Persian: {{t+|fa|جا|tr=jâ}}
+* Polish: {{t+|pl|miejsce}}, {{t+|pl|przestrzeń}}
+* Portuguese: {{t+|pt|lugar|m}}
+* Prasuni: {{t|prn|umu}}
+* Romanian: {{t+|ro|spațiu}}, {{t+|ro|loc|n}}
+* Russian: {{t+|ru|ме́сто|n}}, {{t+|ru|простра́нство|n}}
+* Scottish Gaelic: {{t|gd|rùm|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|про́стор|m}}
+*: Roman: {{t+|sh|próstor|m}}
+* Slovak: {{t+|sk|priestor|m}}, {{t+|sk|miesto|n}}
+* Slovene: {{t|sl|prostor|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|rumnosć|f}}
+* Spanish: {{t+|es|espacio}}, {{t+|es|lugar|m}}, {{t+|es|cabida|f}}
+* Swedish: {{t+|sv|plats|c}}, {{t+|sv|utrymme|n}}, {{t+|sv|rum|n}}
+* Tagalog: {{t|tl|silid}}, {{t|tl|kuwarto}}
+* Tajik: {{t+|tg|ҷо}}
+* Telugu: {{t+|te|చోటు}}
+* Tregami: {{t|trm|amā}}
+* Turkish: {{t+|tr|yer}}, {{t+|tr|oda}}
+* Ukrainian: {{t+|uk|мі́сце|n}}, {{t+|uk|про́стір|m}}
+* Vietnamese: {{t+|vi|không gian}}, {{t+|vi|chỗ}}
+* Waigali: {{t|wbk|amā}}
+* Zazaki: {{t+|zza|ban}}, {{t+|zza|ca}}
+{{trans-bottom}}
+
+{{trans-top|specific area of space}}
+* Finnish: {{t+|fi|tila}}
+* Italian: {{t+|it|posto|m}}
+{{trans-mid}}
+* Zazaki: {{t+|zza|ca}}
+{{trans-bottom}}
+
+{{trans-top|sufficient space to do something}}
+* Bengali: {{t|bn|জায়গা}}
+* Bulgarian: {{t+|bg|пространство|n}}
+* Finnish: {{t+|fi|tila}}
+{{trans-mid}}
+* Slovak: {{t+|sk|priestor}}, {{t+|sk|miesto}}
+* Spanish: {{t+|es|cabida|f}}
+* Zazaki: {{t|zza|cayek}}
+{{trans-bottom}}
+
+{{trans-top|nautical: space between timbers}}
+* Finnish: {{t|fi|kaariväli}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|division in a building}}
+* Afrikaans: {{t+|af|kamer}}, {{t+|af|vertrek}}
+* Ahom: {{t|aho|𑜍𑜨𑜂𑜫}}, {{t|aho|𑜑𑜨𑜂𑜫}}
+* Ainu: {{t|ain|ツ゚ンプ|tr=tunpu}}
+* Albanian: {{t+|sq|dhomë}}, {{t+|sq|kthinë|f}}
+* American Sign Language: {{t|ase|FlatB@InsideChesthigh-PalmAcross-FlatB@InsideChesthigh-PalmAcross FlatB@InsideTrunkhigh-FlatB@InsideTrunkhigh FlatB@DistalCenterChesthigh-PalmBack-FlatB@NearCenterChesthigh-PalmBack FlatB@DistalCenterTrunkhigh-PalmBack-FlatB@NearCenterTrunkhigh-PalmBack|alt=''BOX''}}, {{t|ase|R@InsideChesthigh-PalmAcross-R@InsideChesthigh-PalmAcross R@InsideTrunkhigh-R@InsideTrunkhigh R@DistalCenterChesthigh-PalmBack-R@NearCenterChesthigh-PalmBack R@DistalCenterTrunkhigh-PalmBack-R@NearCenterTrunkhigh-PalmBack}}
+* Amharic: {{t|am|ክፍል}}
+* Arabic: {{t|ar|غُرْفَة|f}}, {{t|ar|حُجْرَة|f}}, {{t|ar|قَمَرَة|f}}, {{t|ar|قَمْرَة|f}}, {{t|ar|صَالَة|f}}, {{t+|ar|بَيْت|m}}
+*: Egyptian Arabic: {{t|arz|أوضة|f|tr=ʾōḍa}}
+*: Gulf Arabic: {{t|afb|غرفة|f|tr=ḡurfa}}
+*: Hijazi Arabic: {{t|acw|غرفة|f|tr=ḡurfa}}, {{t|acw|أوضة|f|tr=ʾōḍa}} {{qualifier|archaic}}
+*: Moroccan Arabic: {{t|ary|بيت|tr=bīt}}
+*: North Levantine Arabic: {{t|apc|أوضة|f|tr=ʾūḍa}}
+* Armenian: {{t+|hy|սենյակ}}
+* Assamese: {{t|as|কোঠা}}
+* Assyrian Neo-Aramaic: {{t|aii|ܬܵܘܵܢܵܐ|tr=tawana|m}}, {{t|aii|ܐܵܘܬܵܓ݂|tr=awtaḡ}}
+* Asturian: {{t+|ast|cuartu|m}}
+* Azerbaijani: {{t+|az|otaq}}
+* Bashkir: {{t|ba|бүлмә}}
+* Belarusian: {{t|be|пако́й|m}}, {{t|be|ну́мар|m}}
+* Bengali: {{t|bn|কোঠা}}, {{t|bn|কামরা}}, {{t+|bn|ঘর}} {{t+|bn|কক্ষ}}
+* Berawan: {{t|lod|ukuk}} {{qualifier|Central}}
+* Berber:
+*: Tashelhit: {{t|shi|tizqqi|f}}
+* Bulgarian: {{t+|bg|ста́я|f}}
+* Burmese: {{t+|my|အခန်း}}
+* Catalan: {{t+|ca|cambra|f}}, {{t+|ca|sala|f}}, {{t+|ca|habitació|f}}, {{t+|ca|peça|f}}, {{qualifier|Algherese}} {{t+|ca|aposento}}
+* Central Melanau: {{t|mel|bilit}}
+* Chamicuro: {{t|ccc|c̈hupune}}
+* Chechen: {{t|ce|чоь}}
+* Cherokee: {{t|chr|ᎧᏅᏑᎸ}}
+* Chinese:
+*: Cantonese: {{t|yue|房|tr=fong4}}, {{t|yue|房間}}, {{t|yue|房间|tr=fong4 gaan1}}
+*: Dungan: {{t|dng|фонзы}}
+*: Mandarin: {{t+|cmn|房間}}, {{t+|cmn|房间|tr=fángjiān}}, {{t+|cmn|屋子|tr=wūzi}}
+*: Min Nan: {{t+|nan|房間}}, {{t|nan|房间|tr=pâng-keng}}
+*: Wu: {{t|wuu|房間}}, {{t|wuu|房间|tr=vaan ji}}
+* Czech: {{t+|cs|pokoj|m}}, {{t+|cs|místnost|f}}
+* Danish: {{t+|da|rum|n}}
+* Dutch: {{t+|nl|ruimte|f}}, {{t+|nl|kamer|f}}, {{t+|nl|zaal|m}}, {{t+|nl|vertrek|n}}
+* Embaloh: {{t|emb|tinduan}}
+* Esperanto: {{t+|eo|ĉambro}}
+* Estonian: {{t|et|tuba}}
+* Faroese: {{t|fo|kamar|n}}
+* Finnish: {{t+|fi|huone}}, {{t+|fi|kammio}}
+* French: {{t+|fr|pièce|f}}, {{t+|fr|salle|f}}, {{t+|fr|chambre|f}} {{gloss|a bedroom}}
+* Friulian: {{t|fur|cjamare|f}}
+* Gallurese: {{t|sdn|cambara}}
+* Georgian: {{t+|ka|ოთახი}}
+* German: {{t+|de|Raum|m}}, {{t+|de|Zimmer|n}}, {{t+|de|Kammer}} {{gloss|especially a storeroom or bedroom}}, {{t+|de|Gemach|n}} {{qualifier|dated or high}}
+* Gothic: {{t|got|𐍂𐌿𐌼|n}}
+* Greek: {{t+|el|δωμάτιο|n}}
+*: Ancient: {{t|grc|θάλαμος|m}}
+* Greenlandic: {{t|kl|ini}}
+* Haitian Creole: {{t|ht|chanm}}
+* Hawaiian: {{t|haw|lumi}}
+* Hebrew: {{t+|he|חֶדֶר|tr=khéder}}
+* Hindi: {{t+|hi|कमरा|m}}
+* Hungarian: {{t+|hu|szoba}}
+* Iban: {{t|iba|bilik}}, {{t|iba|bilik}}
+* Icelandic: {{t+|is|herbergi|n}}
+* Ido: {{t+|io|chambro}}
+* Indonesian: {{t+|id|bilik}}, {{t+|id|kamar}}
+* Interlingua: {{t|ia|camera}}
+* Irish: {{t+|ga|seomra|m}}
+* Italian: {{t+|it|stanza|f}}, {{t+|it|camera|f}} {{gloss|a bedroom}}, {{t+|it|sala|f}}
+* Japanese: {{t+|ja|部屋|tr=へや, heya}}
+* Javanese: {{t|jv|senthong}}, {{t|jv|kamar}}
+* Kazakh: {{t+|kk|бөлме}}
+* Khmer: {{t+|km|បន្ទប់}}
+* Korean: {{t+|ko|방(房)}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ژوور}}, {{t+|ckb|دیو}}, {{t+|ckb|ھۆدە}}, {{t+|ckb|وەتاغ}}
+* Kyrgyz: {{t+|ky|бөлмө}}
+{{trans-mid}}
+* Ladino: {{t|lad|kamareta|f}}
+* Lao: {{t+|lo|ຫ້ອງ|tr=hǭng}}
+* Latgalian: {{t|ltg|ustoba|f}}
+* Latin: {{t|la|camera|f}}, {{t|la|conclave|n}}, {{t|la|cella|f}}, {{t|la|aula|f}}, {{t|la|aedis|f}}, {{t+|la|aedes|f}}, {{t|la|membrum|n}}, {{t+|la|aedicula|f}}, {{t|la|zotheca|f}}
+* Latvian: {{t|lv|istaba|f}}
+* Lithuanian: {{t|lt|kambarys|m}}
+* Livonian: {{t|liv|tubā }}
+* Luhya: {{t|luy|erumu}}
+* Luxembourgish: {{t|lb|Raum|m}}
+* Macedonian: {{t|mk|соба|f}}
+* Malay: {{t+|ms|bilik}}, {{t+|ms|ruang}}, {{t|ms|kamar}}
+* Maltese: {{t+|mt|kamra|f}}
+* Maori: {{t|mi|rūma}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|өрөө}}
+* Mòcheno: {{t|mhn|kòmmer|f}}
+* Ngazidja Comorian: {{t|zdj|fuko|c5|c6}}
+* North Frisian: {{qualifier|Mooring}} {{t|frr|dörnsch|m}}, {{qualifier|Föhr-Amrum}} {{t|frr|dörnsk|m}}, {{qualifier|Mooring and Föhr-Amrum}} {{t|frr|rüm}}
+* Northern Sami: {{t|se|latnja}}
+* Northern Thai: {{t|nod|ᩉᩬ᩶ᨦ}}
+* Norwegian: {{t+|no|rom|n}}, {{t|no|værelse|n}}
+* Occitan: {{t+|oc|cambra|f}}, {{t+|oc|chambra|f}}, {{t+|oc|abitacion|f}}, {{t+|oc|pèça|f}}
+* Old East Slavic: {{t|orv|покои|m}}
+* Old English: {{t|ang|rūm}}
+* Oriya: {{t+|or|ରୁମ୍}}
+* Pashto: {{t+|ps|خونه|f|tr=xuna}}, {{t+|ps|کوټه|f|tr=kotta}}
+* Persian: {{t+|fa|اتاق|tr=otâq}}
+* Plautdietsch: {{t|pdt|Stow|f}}
+* Polish: {{t+|pl|pokój|m-in}}, {{t+|pl|izba|f}}, {{t+|pl|komnata|f}}, {{t+|pl|pomieszczenie|n}}, {{t+|pl|komora|f}} {{qualifier|larder, chamber or small one}}
+* Portuguese: {{t+|pt|cômodo|m}}, {{t+|pt|sala|f}}, {{t+|pt|quarto|m}} {{gloss|especially a bedroom}}
+* Punjabi: {{t|pa|ਕੋਠਾ|m}}, {{t|pa|ਕਮਰਾ|m}}
+* Romanian: {{t+|ro|cameră|f}}, {{t+|ro|odaie|f}}, {{t+|ro|încăpere|f}}
+* Russian: {{t+|ru|ко́мната|f}}, {{t+|ru|но́мер|m}}, {{t+|ru|ка́мера|f}}, {{t+|ru|поко́й|m}}
+* Samoan: {{t+|sm|potu}}
+* Sardinian:
+*: Campidanese: {{t|sc|apposentu}}
+*: Logudorese: {{t|sc|apposentu}}
+* Sassarese: {{t|sdc|camara}}
+* Scots: {{t|sco|chaumer}}
+* Scottish Gaelic: {{t|gd|seòmar|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|со̏ба|f}}, {{t|sh|просто̀рија|f}}, {{t|sh|о̀даја|f}}
+*: Roman: {{t+|sh|sȍba|f}}, {{t+|sh|prostòrija|f}}, {{t+|sh|òdaja|f}}
+* Shan: {{t+|shn|ႁွင်ႈ}}
+* Sinhalese: {{t|si|කාමරය}}
+* Slovak: {{t+|sk|izba|f}}, {{t|sk|miestnosť|f}}
+* Slovene: {{t+|sl|soba|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|śpa|f}}, {{t|dsb|rumnosć|f}}, {{t|dsb|komora|f}} {{qualifier|small}}
+* Spanish: {{t+|es|cuarto|m}}, {{t+|es|habitación|f}}, {{t+|es|pieza|f}}, {{t+|es|sala|f}}, {{qualifier|Mexico}} {{t|es|recámara|f}} {{gloss|a bedroom}}
+* Sranan Tongo: {{t|srn|kamra}}
+* Sundanese: {{t-needed|su}}
+* Swahili: {{t+|sw|chumba}}
+* Swedish: {{t+|sv|rum|n}}
+* Tai Nüa: {{t|tdd|ᥞᥩᥒᥲ}}
+* Tajik: {{t+|tg|утоқ}}
+* Tatar: {{t+|tt|бүлмә}}
+* Telugu: {{t+|te|గది}}
+* Thai: {{t+|th|ห้อง}}
+* Tibetan: {{t|bo|ཁང་པ}}, {{t|bo|ཁང་མིག}}
+* Turkish: {{t+|tr|oda}}
+* Turkmen: {{t|tk|otag}}
+* Ukrainian: {{t+|uk|кімна́та|f}}, {{t|uk|покі́й|m}}, {{qualifier|colloquially}} {{t+|uk|ха́та|f}}, {{t|uk|світли́ця|f}}
+* Urdu: {{t|ur|کمرا|m|tr=kamrā}}
+* Uyghur: {{t+|ug|ئۆي}}, {{t|ug|ھۇجرا}}
+* Uzbek: {{t|uz|hona}}, {{t+|uz|uy}}
+* Venetian: {{t|vec|canbra|f}}, {{t+|vec|càmara|f}}, {{t|vec|cànbera|f}}
+* Vietnamese: {{t+|vi|buồng}}, {{t+|vi|phòng}}
+* Volapük: {{t+|vo|cem}}
+* Welsh: {{t+|cy|ystafell|f}}
+* West Frisian: {{t|fy|keamer}}
+* Yakut: {{t|sah|хос}}
+* Yiddish: {{t|yi|צימער|m}}
+* Zazaki: {{t+|zza|ban}}
+* Zhuang: {{t|za|fuengz}}
+{{trans-bottom}}
+
+{{trans-top|one's bedroom}}
+* Bengali: {{t+|bn|ঘর}}
+* Danish: {{t+|da|soveværelse|c}}, {{t+|da|værelse}}
+* Finnish: {{t+|fi|huone}}, {{t+|fi|makuuhuone}}
+{{trans-mid}}
+* Greek: {{t+|el|δωμάτιο|n}}, {{t+|el|κρεβατοκάμαρα|f}}
+* Slovak: {{t+|sk|izba}}
+{{trans-bottom}}
+
+{{trans-top|set of rooms inhabited by someone}}
+* Bulgarian: {{t+|bg|квартира|f}}, {{t+|bg|апартамент|m}}
+* Finnish: {{t+|fi|asunto}}, {{t+|fi|huoneisto}}, {{t+|fi|tilat}}
+{{trans-mid}}
+* Zazaki: {{t|zza|herun}}
+{{trans-bottom}}
+
+{{trans-top|people in a room}}
+* Finnish: {{t+|fi|huone}}
+* Greek: {{t+|el|αίθουσα|f}}
+{{trans-mid}}
+* Slovak: {{t|sk|miestnosť|f}}
+* Zazaki: {{t|zza|merdumê bani}}
+{{trans-bottom}}
+
+{{trans-top|mining: area for working in a coal mine}}
+* Finnish: {{t+|fi|luola}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|spelunking: portion of a cave wider than a passage}}
+* Finnish: {{t+|fi|huone}}
+{{trans-mid}}
+* Zazaki: {{t|zza|bano gırd}}
+{{trans-bottom}}
+
+{{trans-top|internet: IRC or chat room}}
+* Bulgarian: {{t+|bg|стая|f}}
+* Finnish: {{t+|fi|huone}}
+{{trans-mid}}
+* Polish: {{t+|pl|pokój|m}}
+* Zazaki: {{t|zza|bano peyên}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Danish: {{t+check|da|værelse}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|intransitive}} To [[reside]], especially as a [[boarder]] or [[tenant]].
+#: {{ux|en|Doctor Watson '''roomed''' with Sherlock Holmes at Baker Street.}}
+#* {{quote-journal|en|author=Paul Goldberger|title=On the Champs — Elysees: ‘Hey, Aren't You the Girl Who Sits Across From Me in Abnormal Psych?’|work=The New York Times|date=1971-06-13|url=https://www.nytimes.com/1971/06/13/archives/on-the-champselysees-hey-arent-you-the-girl-who-sits-across-from-me.html|issn=0362-4331|passage=But, then, running into the guy who '''rooms''' across the hall from me—in the Paris Metro?}}
+# {{lb|en|transitive}} To assign to a room; to allocate a room to.
+#* {{quote-book|en|year=1988|author=Arthur Frederick Ide|title=AIDS hysteria|page=12|passage={{...}} convinced (with no scientific evidence) that they would contract the dread disease by breathing the same air in which the patient was '''roomed''', by touching the patient or even by changing the sheets of a patient's bed.}}
+
+=====Translations=====
+{{trans-top|to reside}}
+* Bulgarian: {{t|bg|квартирувам}}
+* Finnish: {{t+|fi|vuokrata}}, {{t+|fi|asua}}
+* Italian: {{t+|it|alloggiare}}
+{{trans-mid}}
+* Slovak: {{t|sk|bývať}}
+{{trans-bottom}}
+
+=====Derived terms=====
+{{rel-top3|Terms derived from the ''room'' (verb)}}
+* {{l|en|roomer}}
+{{rel-mid3}}
+* {{l|en|room together}}
+{{rel-mid3}}
+* {{l|en|roomy}}
+{{rel-bottom}}
+
+===Etymology 2===
+From {{inh|en|enm|roum}}, {{m|enm|rom}}, {{m|enm|rum}}, from {{inh|en|ang|rūm||roomy, spacious, ample, extensive, large, open, unencumbered, unoccupied, temporal, long, extended, great, liberal, unrestricted, unfettered, clear, loose, free from conditions, free from occupation, not restrained within due limits, lax, far-reaching, abundant, noble, august}}, from {{inh|en|gem-pro|*rūmaz||roomy, spacious}}, from {{der|en|ine-pro|*rewh₁-||free space}}. Cognate with {{cog|sco|roum||spacious, roomy}}, {{cog|nl|ruim||roomy, spacious, wide}}, {{cog|da|rum||wide, spacious}}, {{cog|de|raum||wide}}, {{cog|is|rúmur||spacious}}.
+
+====Adjective====
+{{en-adj}}
+
+# {{lb|en|dialectal|or|obsolete}} [[wide|Wide]]; [[spacious]]; [[roomy]].
+
+===Etymology 3===
+From {{inh|en|enm|rome}}, from {{inh|en|ang|rūme||widely, spaciously, roomily, far and wide, so as to extend over a wide space, liberally, extensively, amply, abundantly, in a high degree, without restriction or encumbrance, without the pressure of care, light-heartedly, without obstruction, plainly, clearly, in detail}}. Cognate with {{cog|nl|ruim||amply|pos=adverb}}.
+
+====Adverb====
+{{en-adv}}
+
+# {{lb|en|dialectal|or|obsolete}} [[far|Far]]; at a distance; [[wide]] in space or extent.
+# {{lb|en|nautical}} Off from the [[wind]].
+
+===Etymology 4===
+
+====Noun====
+{{en-noun|-}}
+
+# {{alt form|en|roum||deep blue dye}}
+
+===Further reading===
+* {{R:Britannica 1911|Room}}
+* {{pedia}}
+* {{R:OneLook}}
+* {{R:Century 1911}}
+
+===Anagrams===
+* {{anagrams|en|a=moor|Moor|Moro|Romo|moor}}
+
+[[Category:en:Rooms]]
 
 ----
+
+==Afrikaans==
+
+===Etymology===
+From {{inh|af|nl|room}}, from {{inh|af|dum|rôme}}, from {{inh|af|odt|*rōm}}, from {{inh|af|gem-pro|*raumaz}}.
+
+===Pronunciation===
+* {{IPA|af|/rʊə̯m/}}
+* {{audio|af|LL-Q14196 (afr)-Oesjaar-room.wav|Audio}}
+
+===Noun===
+{{af-noun|-}}
+
+# {{l|en|cream}}
+
+[[Category:af:Dairy products]]
+
+----
+
 ==Dutch==
-'''room''' ''m''
+{{wikipedia|lang=nl}}
 
-#[[cream]] (''of milk'')
+===Etymology===
+From {{inh|nl|dum|rôme}}, from {{inh|nl|odt|*rōm}}, from {{inh|nl|gmw-pro|*raum}}, from {{inh|nl|gem-pro|*raumaz}}.
 
-[[Category:1000 English basic words]]
+===Pronunciation===
+* {{IPA|nl|/roːm/}}
+* {{audio|nl|Nl-room.ogg|audio}}
+* {{hyphenation|nl|room}}
+* {{rhymes|nl|oːm|s=1}}
 
-[[es:room]]
-[[nl:room]]
-[[ro:Room]]
-[[fi:Room]]
+===Noun===
+{{nl-noun|m|-|-}}
+
+# [[cream]] (''of milk'')
+
+====Derived terms====
+* {{l|nl|afromen}}
+* {{l|nl|ontromen}}
+* {{l|nl|roomboter}}
+* {{l|nl|roomijs}}
+* {{l|nl|roomsaus}}
+* {{l|nl|slagroom}}
+
+====Descendants====
+* {{desc|af|room}}
+* {{desc|dcr|room}}
+* {{desc|bor=1|pap|rom|room}}
+
+===Anagrams===
+* {{l|nl|moor}}
+
+[[Category:nl:Dairy products]]
