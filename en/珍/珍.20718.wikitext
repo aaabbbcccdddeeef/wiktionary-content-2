@@ -69,7 +69,7 @@ Compare {{cog|bo|རིན||price; value}} ({{zh-ref|Schuessler, 2007}}).
 |goon=ちん
 |kanon=ちん
 |kun=めずら-し.い, うず-
-|nanori=たから, じん
+|nanori=たから, じん, めずらし
 }}
 
 ====Compounds====
@@ -78,11 +78,12 @@ Compare {{cog|bo|རིན||price; value}} ({{zh-ref|Schuessler, 2007}}).
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=o|ちん}}
-From {{der|ja|ltc|-|sort=ちん}} {{m|zh|珍|tr=trin||treasure, precious thing}}.
+{{ja-kanjitab|yomi=goon|ちん}}
+
+From {{der|ja|ltc|sort=ちん|-}} {{ltc-l|珍|treasure, precious thing}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=goon|ちん|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|ちん|acc=1|acc_ref=DJR,NHK}}
 
 ====Adjective====
 {{ja-adj|infl=na|ちん}}
@@ -98,7 +99,11 @@ From {{der|ja|ltc|-|sort=ちん}} {{m|zh|珍|tr=trin||treasure, precious thing}}
 # [[rarity]]
 
 ===Etymology 2===
-{{ja-kanjitab|めずらし}}
+{{ja-kanjitab|yomi=nanori|めずらし}}
+
+From the {{cog|ojp|-}} and classical Japanese {{m|ja|終止形|tr=shūshikei||terminal or sentence-ending form}} of modern adjective {{m|ja|珍しい|tr=mesurashii||[[novel]], [[curious]], [[rare]]}}.
+
+Perhaps fittingly, the name itself is unusual.
 
 ====Pronunciation====
 {{ja-pron|めずらし}}
