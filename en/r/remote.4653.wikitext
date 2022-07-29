@@ -1,24 +1,202 @@
-=== Adjective ===
-'''remote''' (more remote, most remote)
+==English==
 
-#from a [[distance]]
+===Etymology===
+{{root|en|ine-pro|*mew-}}
+From {{inh|en|enm|remote}}, from {{der|en|fro|remot}}, masculine, {{m|fro|remote}}, feminine, from {{der|en|la|remotus}}, past participle of {{m|la|removere||to remove}}, from {{m|la|re-}} + {{m|la|movere||to move}}.
 
-====Antonyms====
-*[[near]]
+===Pronunciation===
+* {{a|UK}} {{IPA|en|[ɹɪˈməʊt]|[ˌɹiːˈməʊt]|[ɹəˈməʊt]}}
+* {{a|US}} {{IPA|en|[ɹɪˈmoʊt]}}
+* {{audio|en|en-us-remote.ogg|Audio (US)}}
+* {{rhymes|en|əʊt|s=2}}
 
-====Related terms====
-*[[remote control]]
+===Adjective===
+{{en-adj|more|er}}
 
-==== Translations ====
-*Dutch: [[verwijderd]], [[van op afstand]], [[veraf]]
-*Finnish: [[etäinen]], [[kaukainen]]
-*Indonesian: [[jarak]] [[jauh]], remote
-*Japanese: [[遠隔]] (えんかく, enkaku)
-
-===Noun===
-'''remote''' ([[remotes]])
-
-# short for ''remote control''.
+# At a [[distance]]; [[disconnected]].
+#: {{ux|en|A '''remote''' operator may control the vehicle with a wireless handset.}}
+#: {{ux|en|'''remote''' workers}}
+# [[distant|Distant]] or otherwise [[inaccessible]].
+#: {{ux|en|After his fall from the emperor's favor, the general was posted to a '''remote''' outpost.}}
+# {{lb|en|especially with respect to [[likelihood]]}} [[slight|Slight]].
+#: {{ux|en|There was only a '''remote''' possibility that we would be rescued as we were far outside of the regular shipping lanes.}}
+#: {{ux|en|They have a very '''remote''' chance of winning.}}
+#: {{ux|en|You have a '''remote''' resemblance to my grandmother.}}
+# [[emotion|Emotionally]] [[detach]]ed.
+#: {{ux|en|After her mother's death, my friend grew '''remote''' for a time while she dealt with her grief.}}
 
 ====Synonyms====
-*[[remote control]]
+* {{sense|at a distance}} {{l|en|disconnected}}, {{l|en|hands-free}}, {{l|en|wireless}}
+* {{sense|distant or otherwise inaccessible}} {{l|en|far}}, {{l|en|hidden}}, {{l|en|outlying}}; see also [[Thesaurus:distant]]
+* {{sense|slight}} {{l|en|faint}}
+* {{sense|emotionally detached}} {{l|en|aloof}}, {{l|en|dispassionate}}, {{l|en|distant}}, {{l|en|removed}}, {{l|en|withdrawn}}
+
+====Antonyms====
+* {{sense|at a distance}} {{l|en|attached}}, {{l|en|connected}}, {{l|en|contiguous}}, {{l|en|direct}}; {{l|en|presential}}
+* {{sense|distant or otherwise inaccessible}} {{l|en|close}}, {{l|en|near}}, {{l|en|proximate}}; see also [[Thesaurus:near]]
+* {{sense|slight}} {{l|en|considerable}}, {{l|en|great}}, {{l|en|reasonable}}, {{l|en|sure}}
+* {{sense|emotionally detached}} {{l|en|companionable}}, {{l|en|intimate}}, {{l|en|involved}}, {{l|en|passionate}}
+
+====Derived terms====
+{{der3|en
+| remote control
+| remote froglet
+| remotely
+| remoteness
+| remote sensing
+| remote surgery
+}}
+
+====Related terms====
+{{rootsee|en|mew}}
+
+====Translations====
+{{trans-top|at a distance}}
+* Afrikaans: {{t|af|afgeleë}}
+* Arabic: {{t+|ar|بَعِيد}}
+*: Egyptian Arabic: {{t|arz|بعيد|m|tr=beʿīd|sc=Arab}}, {{t|arz|بعيدة|f|tr=beʿīda|sc=Arab}}, {{t|arz|بعاد|p|tr=buʿād|sc=Arab}}
+* Azerbaijani: {{t+|az|uzaq}}, {{t|az|əlçatmaz}}, {{t|az|iraq}}, {{t|az|ucqar}}
+* Bashkir: {{t|ba|алыҫ|sc=Cyrl}}, {{t|ba|йыраҡ|sc=Cyrl}}
+* Belarusian: {{t|be|далёкі}}
+* Bulgarian: {{t+|bg|дале́чен}}
+* Catalan: {{t+|ca|remot}}
+* Chinese:
+*: Cantonese: {{t|yue|遠|sc=Hani}}, {{t|yue|远|tr=jyun5|sc=Hani}}
+*: Mandarin: {{t+|cmn|遠|sc=Hani}}, {{t+|cmn|远|tr=yuǎn|sc=Hani}}, {{t+|cmn|遙遠|sc=Hani}}, {{t+|cmn|遥远|tr=yáoyuǎn|sc=Hani}}
+* Czech: {{t+|cs|daleký}}, {{t+|cs|vzdálený}}, {{t|cs|nepřístupný}}
+* Dutch: {{t+|nl|verwijderd}}, {{t+|nl|afgelegen}}, {{t|nl|van op afstand}}, {{t+|nl|veraf}}
+* Finnish: {{t+|fi|etäinen}}, {{t+|fi|kaukainen}}, {{t+|fi|etä-}}, {{t+|fi|kauko-}}
+* French: {{t+|fr|distant}}
+* German: {{t+|de|fern}}, {{t+|de|entfernt}}, {{t+|de|abgelegen}}, {{t|de|fernbetrieb}}
+* Hebrew: {{t|he|מרוחק|tr=merukhaq|sc=Hebr}}
+* Higaonon: {{t|mba|madiyo}}
+* Hindi: {{t+|hi|दूर}}
+* Hungarian: {{t+|hu|távoli}}
+* Icelandic: {{t|is|afskekktur}}
+* Indonesian: [[jarak]] [[jauh]], [[#Indonesian|remote]]
+* Italian: {{t+|it|remoto}}
+* Japanese: {{t+|ja|遠い|tr=とおい, tōi|sc=Jpan}}, {{t+|ja|遠隔|tr=えんかくな, enkaku na|alt=遠隔な|sc=Jpan}}, {{t+|ja|辺鄙|tr=へんぴな, henpi na|alt=辺鄙な|sc=Jpan}}, {{t+|ja|遥か|tr=はるかな, haruka na|alt=遥かな|sc=Jpan}}
+{{trans-mid}}
+* Korean: {{t+|ko|원격}}, {{t+|ko|먼}}
+* Latin: {{t+|la|remōtus}}, {{t|la|reductus}}
+* Macedonian: {{t|mk|далечен}}
+* Norwegian: {{t+|no|fjern}}
+* Persian: {{t+|fa|دور|tr=dur|sc=fa-Arab}}
+* Polish: {{t+|pl|zdalny}}, {{t+|pl|daleki}}
+* Portuguese: {{t+|pt|remoto}}, {{t+|pt|longínquo|m}}, {{t+|pt|distante}}
+* Romanian: {{t+|ro|depărtat}}, {{t+|ro|îndepărtat}}
+* Russian: {{t+|ru|далёкий}}, {{t+|ru|да́льний}}, {{t+|ru|отдалённый}}, {{t+|ru|удалённый}}
+* Sanskrit: {{t+|sa|दूर}}
+* Scottish Gaelic: {{t|gd|cian}}, {{t|gd|cèin}}, {{t|gd|fad às}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|да̀лек}}
+*: Roman: {{t+|sh|dàlek}}
+* Slovak: {{t|sk|ďaleký}}
+* Slovene: {{t|sl|oddaljen}}, {{t+|sl|dáleč}}
+* Spanish: {{t+|es|remoto}}
+* Swedish: {{t+|sv|avlägsen}}, {{t+|sv|fjärr-}}
+* Tocharian B: {{t|txb|akañce}}
+* Turkish: {{t+|tr|uzak}}, {{t|tr|uzaktan kontrol}}
+* Ukrainian: {{t|uk|дале́кий}}
+* Urdu: {{t|ur|دور|tr=dūr|sc=ur-Arab}}
+* Vietnamese: {{t+|vi|xa}}
+{{trans-bottom}}
+
+{{trans-top|distant or otherwise unaccessible}}
+* Afrikaans: {{t|af|afgeleë}}
+* Azerbaijani: {{t|az|əlçatmaz}}
+* Bulgarian: {{t+|bg|отдалечен}}
+* Catalan: {{t+|ca|remot}}
+* Chinese:
+*: Mandarin: {{t|cmn|偏僻的}}
+* Esperanto: {{t|eo|izolita}}
+* French: {{t+|fr|éloigné}}
+* Italian: {{t+|it|remoto}}
+* Latin: {{t+|la|remōtus}}, {{t|la|repositus}}
+{{trans-mid}}
+* Latvian: {{t|lv|nomaļš}}, {{t|lv|attāls}}, {{t|lv|tāls}}
+* Malay: {{t|ms|terpencil}}
+* Norman: {{t|nrf|êlouongni}}
+* Polish: {{t+|pl|daleki}}, {{t+|pl|oddalony}}, {{t+|pl|odległy}}
+* Portuguese: {{t+|pt|isolado}}, {{t+|pt|inacessível}}
+* Scottish Gaelic: {{t|gd|fad às}}, {{t|gd|iomallach}}
+* Slovene: {{t|sl|odročen}}, {{t|sl|oddaljen}}
+* Spanish: {{t+|es|remoto}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{ellipsis of|en|remote control}}
+#: {{ux|en|I hate it when my uncle comes over to visit; he always sits in the best chair and hogs the '''remote'''.}}
+# {{lb|en|broadcasting}} An element of broadcast programming originating away from the station's or show's control room.
+
+====Synonyms====
+* {{sense|remote control}} {{l|en|buttons}}, {{l|en|clicker}}, {{l|en|zapper}}
+
+====Translations====
+{{trans-top|remote control}}
+* Arabic:
+*: Hijazi Arabic: {{t|acw|رموت|m|tr=rimōt, rumūt}}, {{t|acw|ريموت|m|tr=rīmōt}}
+* Bulgarian: {{t+|bg|дистанционно|n}}
+* Czech: {{t|cs|dálkový ovladač|m}}
+* Finnish: {{t+|fi|kaukosäädin}}
+* French: {{t+|fr|télécommande|f}}
+* German: {{t+|de|Fernbedienung|f}}
+* Greek: {{t+|el|τηλεχειριστήριο|n}}
+* Hebrew: {{t+|he|שַׁלָּט|m|tr=shalát}}
+* Marathi: {{t|mr|रिमोट|n}}
+{{trans-mid}}
+* Norwegian: {{t+|no|fjernkontroll|m}}
+* Polish: {{t+|pl|pilot|m}}
+* Portuguese: {{t+|pt|controle}}, {{t|pt|controlo remoto}}
+* Romanian: {{t+|ro|telecomandă|f}}
+* Russian: {{t|ru|ПДТ|m}}, {{t+|ru|пульт|m}}, {{t+|ru|дистанцио́нка|m}}
+* Slovene: {{t|sl|daljinec|m}}
+* Spanish: {{t|es|control remoto|m}} {{qualifier|Americas}}, {{t|es|mando a distancia|m}} {{qualifier|Spain}}, {{t+|es|control|m}} {{qualifier|Americas}}, {{t+|es|mando|m}} {{qualifier|Spain}}
+* Turkish: {{t+|tr|kumanda}}
+* Vietnamese: {{t|vi|điều khiển từ xa}}, {{t+|vi|remote}}, {{t|vi|rì-mốt}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|computing}} To connect to a computer from a remote location.
+#* {{quote-book|en|year=2010|title=Microsoft Sharepoint 2010: Administrator's Companion|author=Bill English|passage=These requirements are applicable whether you are '''remoting''' into a server or locally executing SharePoint cmdlets.}}
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+===Anagrams===
+* {{anagrams|en|a=eemort|-ometer|emoter|meteor|ometer}}
+
+----
+
+==Italian==
+
+===Pronunciation===
+{{it-pr|remòte}}
+
+===Adjective===
+{{head|it|adjective form|g=f-p}}
+
+# {{feminine plural of|it|remoto}}
+
+===Anagrams===
+* {{anagrams|it|a=eemort|temerò|temore}}
+
+----
+
+==Latin==
+
+===Adjective===
+{{la-adj-form|remōte}}
+
+# {{inflection of|la|remōtus||voc|m|s}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:Gaffiot}}
