@@ -1,92 +1,684 @@
+{{also|Tongue}}
 ==English==
-[[Category:English nouns]]
-===Etymology===
-From {{enm}}, from {{ang}} [[tunge]]. Cognates include {{la}} [[lingua]]. [[Category:Indo-European root *dn̥ghū-]]
 
-===Pronunciation=== 
-*tŭng, /tʌŋ/, /<tt>tVN</tt>/
-*:[[Rhymes:English:-ʌŋ|Rhymes: -ʌŋ]]
+===Alternative forms===
+* {{l|en|tounge}} (''obsolete, now considered a misspelling''); [[tung]] (''obsolete or informal/eye dialect''); [[tong]], [[tonge]], [[toong]], [[toongue]], [[toung]], [[toungue]], [[tunge]] (''all obsolete'')
+
+===Etymology===
+From {{inh|en|enm|tonge|id=tongue}}, {{m|enm|tunge}}, {{m|enm|tung}}, from {{inh|en|ang|tunge}}, from {{inh|en|gmw-pro|*tungā}}, from {{inh|en|gem-pro|*tungǭ||tongue}} (compare {{cog|fy|tonge}}, {{cog|nl|tong}}, {{cog|lb|Zong}}, {{cog|zza|Zon}}, {{cog|de|Zunge}}, {{cog|yi|צונג}}, {{cog|da|tunge}}, {{cog|nb|tunge}}, {{cog|sv|tunga}}, {{cog|got|𐍄𐌿𐌲𐌲𐍉}}), from {{inh|en|ine-pro|*dn̥ǵʰwéh₂s}}.
+
+See also {{cog|sga|tengae}}, {{cog|la|lingua}}, {{cog|xto|käntu}}, {{cog|txb|kantwo}}, {{cog|lt|liežùvis}}, {{cog|ru|язык}}, {{cog|pl|język}}, {{cog|xcl|լեզու}}, {{cog|ae|𐬵𐬌𐬰𐬎𐬎𐬁}}, {{cog|ask|žū}}, {{cog|bsh|dić}}, {{cog|sa|जिह्वा|tr=jihvā́}}. {{doublet|en|langue|lingua}}.
+
+===Pronunciation===
+* {{a|RP|US|Canada}} {{IPA|en|/tʌŋ/}}
+* {{a|UK, Northern}} {{IPA|en|/tʊŋ/}}
+* {{a|UK, Manchester, Liverpool}} {{IPA|en|/tɒŋɡ/|/tʊŋɡ/}}
+* {{audio|en|en-us-tongue.ogg|Audio (US)}}
+* {{audio|en|En-uk-tongue.ogg|Audio (UK)}}
+* {{rhymes|en|ʌŋ|s=1}}
 
 ===Noun===
-'''tongue''' (''plural'' '''tongues''')
+{{en-noun}}
 
-#The flexible muscular [[organ]] in the [[mouth]] that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the [[lung]]s in order to produce different sounds in [[speech]].
-#A [[language]].
-#:''He was speaking in his native '''tongue'''.''
-
-===Synonyms===
-*(''language''): [[language]], [[lingo]] (''colloquial'')
+# The flexible muscular [[organ]] in the [[mouth]] that is used to [[move]] [[food]] around, for [[tasting]] and that is moved into various positions to modify the [[flow]] of [[air]] from the [[lung]]s in order to produce different sounds in [[speech]].
+#: {{syn|en|glossa|lingua}}
+#* {{c.|1515–1516}} published 1568, {{w|John Skelton}}, ''Againſt venemous tongues enpoyſoned with ſclaunder and falſe detractions &c.'':
+#*: But lering and lurking here and there like ſpies,<br>The devil tere their '''tunges''' and pike out their ies!
+# {{lb|en|countable|uncountable}} This organ, as taken from animals used for food (especially cows).
+#: {{ux|en|cold '''tongue''' with mustard}}
+#* '''1902''', {{w|E. Nesbit}}, ''{{w|Five Children and It}},'' New York: Dodd, Mead, 1905, Chapter{{nbsp}}4, p.{{nbsp}}136,<sup>[http://www.gutenberg.org/files/17314/17314-h/17314-h.htm]</sup>
+#*: However you eat them, '''tongue''' and chicken and new bread are very good things, and no one minds being sprinkled a little with soda-water on a really fine hot day.
+# Any similar organ, such as the [[lingual]] [[ribbon]], or [[odontophore]], of a [[mollusk]]; the [[proboscis]] of a [[moth]] or [[butterfly]]; or the [[lingua]] of an [[insect]].
+# {{lb|en|metonym}} A [[language]].
+#: {{syn|en|idiom|language|lingo}} {{qualifier|colloquial}}
+#: {{ux|en|He was speaking in his native '''tongue'''.}}
+#* {{RQ:Spenser Complaints|The Ruines of Time|url=http://name.umdl.umich.edu/A12774.0001.001|text={{...}} {{w|Tower of Babel|that great Towre}}, which is so much renownd<br>For '''tongues''' confusion in [[Holy Writ|holie writ]],}}
+#* {{RQ:Swift Gulliver's Travels|volume=1|part=2|chapter=2|page=178|url=https://archive.org/details/travelsintosever01swif|text=When I pointed to any thing, she told me the Name of it in her own '''Tongue''', so that in a few Days I was able to call for whatever I had a mind to.}}
+#* {{RQ:Hardy Return of the Native|I|7|url=http://www.gutenberg.org/files/17500/17500-h/17500-h.htm|text=To dwell on a [[heath]] without studying its meanings was like wedding a foreigner without learning his '''tongue'''.}}
+#* '''1958''', {{w|Chinua Achebe}}, ''{{w|Things Fall Apart}},'' New York: Knopf, 1992, Chapter{{nbsp}}23, p.{{nbsp}}166,<sup>[https://archive.org/details/thingsfallapart00ache_0]</sup>
+#*: Many of them come from distant places and although they speak your '''tongue''' they are ignorant of your customs.
+#* '''2002''', {{w|Jeffrey Eugenides}}, ''{{w|Middlesex (novel)|Middlesex}},'' New York: Picador, Book 2, p.{{nbsp}}99,<sup>[https://archive.org/details/middlesex00euge_1]</sup>
+#*: My grandfather, accustomed to the multifarious conjugations of ancient Greek verbs, had found English, for all its incoherence, a relatively simple '''tongue''' to master.
+# {{lb|en|obsolete}} [[speaker|Speakers]] of a language, collectively.
+#* {{RQ:KJV|Isaiah|66|18|text=I will gather all nations and '''tongues'''; and they shall come, and see my glory.}}
+# {{lb|en|obsolete}} [[voice|Voice]] {{gloss|the distinctive sound of a person's speech}}; [[accent]] {{gloss|distinctive manner of pronouncing a language}}.
+#* {{RQ:Shakespeare Merchant of Venice|II|6|text=Who are you? Tell me, for more certainty,<br>Albeit I’ll swear that I do know your '''tongue'''.}}
+#* {{RQ:Smollett Roderick Random|volume=1|chapter=21|page=173|url=http://name.umdl.umich.edu/004833141.0001.001|text=[...] one of [the prisoners], whom by his '''tongue''' I knew to be a Scotchman, lamented most piteously [...]}}
+# Manner of speaking, often [[habitually]].
+#* {{c.|1515–1516}} published 1568, {{w|John Skelton}}, ''Againſt venemous tongues enpoyſoned with ſclaunder and falſe detractions &c.'':
+#*: Al maters wel pondred and wel to be regarded,<br>How ſhuld a fals lying '''tung''' then be rewarded?
+#* '''1715''', {{w|Daniel Defoe}}, ''The Family Instructor,'' London: Eman. Matthews, Volume 1, Part 2, Dialogue 2, p.{{nbsp}}211,<sup>[http://name.umdl.umich.edu/004844748.0001.001]</sup>
+#*: [...] his wicked way of Living, his prophane '''Tongue''', and his Contempt of Religion, had made him not very well receiv’d [...]
+#* {{RQ:Stevenson Kidnapped|chapter=The Death of the Red Fox|page=162|passage="Well," said he, at last, "your '''tongue''' is bold; but I am no unfriend to plainness [...]"}}
+#* '''1935''', {{w|Dorothy L. Sayers}}, ''{{w|Gaudy Night}},'' London: New English Library, 1970, Chapter{{nbsp}}8, p.{{nbsp}}205,<sup>[https://www.fadedpage.com/books/20140201/html.php]</sup>
+#*: I’m afraid I’ve inherited my uncle’s '''tongue''' and my mother’s want of tact.
+#* '''1952''', {{w|John Steinbeck}}, ''{{w|East of Eden (novel)|East of Eden}},'' London: Heinemann, Part 1, Chapter{{nbsp}}2, p.{{nbsp}}8,<sup>[https://archive.org/details/in.ernet.dli.2015.458774]</sup>
+#*: Samuel had no equal for soothing hysteria and bringing quiet to a frightened child. It was the sweetness of his '''tongue''' and the tenderness of his soul.
+#* '''1972''', {{w|Hortense Calisher}}, ''Herself,'' New York: Arbor House, Part 4, p.{{nbsp}}369,<sup>[https://archive.org/details/herself00hort]</sup>
+#*: [...] {{w|Frank Marcus}}’ ''{{w|The Killing of Sister George|Sister George}},'' technically a quite ordinary comedy in the old style [...] was remarkable [...] for the frank '''tongue''' of its Lesbians [...]
+# {{lb|en|metonym}} A person speaking in a specified manner (''most often plural'').
+#* '''1860''', {{w|George Eliot}}, ''{{w|The Mill on the Floss}},'' Book 7, Chapter{{nbsp}}3,<sup>[http://www.gutenberg.org/files/6688/6688-h/6688-h.htm]</sup>
+#*: I know that we must keep apart for a long while; cruel '''tongues''' would force us apart, if nothing else did.
+#* '''1936''', {{w|Margaret Mitchell}}, ''{{w|Gone with the Wind (novel)|Gone with the Wind}},'' Part 3, Chapter{{nbsp}}30,<sup>[https://www.fadedpage.com/books/20160920/html.php]</sup>
+#*: [...] it was obvious to his listeners that Pittypat, in his mind, was still a plump and charming miss of sixteen who must be sheltered against evil '''tongues'''.
+#* '''2007''', {{w|Ngũgĩ wa Thiong'o}}, ''{{w|Wizard of the Crow}},'' New York: Knopf Doubleday, Book 4, p.{{nbsp}}592,<sup>[https://books.google.ca/books?id=k5snFSTVhOsC&printsec=frontcover#v=onepage&q&f=false]</sup>
+#*: [...] the drunk, who had been a permanent fixture in that bar, changed location and thereafter moved from bar to bar, saying to inquisitive '''tongues''', Too long a stay in one seat tires the buttocks.
+# The power of articulate [[utterance]]; [[speech]] generally.
+#* '''1717''', {{w|John Dryden}} (translator), ''{{w|Ovid}}’s {{w|Metamorphoses}} in fifteen books,'' London: Jacob Tonson, “The Story of Pygmalion and the Statue,” p.{{nbsp}}344,<sup>[http://name.umdl.umich.edu/004871123.0001.000]</sup>
+#*: Parrots imitating Human '''Tongue'''
+# {{lb|en|obsolete}} [[discourse|Discourse]]; [[fluency]] of speech or expression.
+# {{lb|en|obsolete|uncountable}} [[discourse|Discourse]]; [[fluency]] of speech or expression.
+#* {{RQ:Shakespeare Henry 4-1|V|2|text=[...] fellows, soldiers, friends,<br>Better consider what you have to do<br>Than I, that have not well the gift of '''tongue''',<br>Can lift your blood up with persuasion.}}
+#* {{RQ:L'Estrange Fables of Aesop|url=http://name.umdl.umich.edu/A26505.0001.001|text=Much '''Tongue''', and much Judgment seldom go together, for Talking and Thinking are Two Quite Differing Faculties,}}
+#* {{RQ:Eliot Daniel Deronda|31|url=http://www.gutenberg.org/files/7469/7469-h/7469-h.htm|text=“[...] this Mr. Grandcourt has wonderful little '''tongue'''. Everything must be done dummy-like without his ordering.”<br>“Then he’s the more whip, I doubt,” said Mrs. Girdle. “''She’s'' got '''tongue''' enough, I warrant her [...]”}}
+# {{lb|en|obsolete}} Honourable discourse; eulogy.
+#* {{RQ:Beaumont Fletcher Comedies and Tragedies|Thierry and Theodoret|V|text=She was born noble; let that title find her<br>A private grave, but neither '''tongue''' nor honour!}}
+# {{lb|en|religion|often in the plural}} [[glossolalia|Glossolalia]].
+#: {{syn|en|speaking in tongues}}
+#* {{RQ:KJV|1 Corinthians|13|8|url=https://www.biblegateway.com/passage/?search=1%20Corinthians+13&version=KJV|text=Charity never faileth: but whether there be prophecies, they shall fail; whether there be '''tongues''', they shall cease; whether there be knowledge, it shall vanish away.}}
+# In a [[shoe]], the [[flap]] of [[material]] that goes between the [[laces]] and the [[foot]] (''so called because it resembles a tongue in the [[mouth]]'').
+#* '''1990''', {{w|J. M. Coetzee}}, ''{{w|Age of Iron}},'' New York: Random House, Chapter 3, p.{{nbsp}}96,<sup>[https://archive.org/details/ageofiron00coet]</sup>
+#*: I caught a glimpse of a brown boot, the '''tongue''' flapping, the sole tied on with string.
+#* '''2006''', {{w|Sarah Waters}}, ''{{w|The Night Watch (Waters novel)|The Night Watch}},'' London: Virago, Chapter{{nbsp}}2, p.{{nbsp}}53,<sup>[https://archive.org/details/nightwatch00wate_0]</sup>
+#*: [...] her low-heeled shoes had flat fringed '''tongues''' to them—the kind of shoes you expected to see on a golf-course, or a Scottish highland, somewhere expensively hearty like that.
+# {{senseid|en|protrusion}}[[any|Any]] [[large]] or long physical [[protrusion]] on an automotive or machine part or any other part that fits into a long [[groove]] on another part.
+# A [[projection]], or slender [[appendage]] or [[fixture]].
+#: {{ux|en|the '''tongue''' of a [[buckle]], or of a [[balance]]}}
+# A [[long]], narrow [[strip]] of [[land]], projecting from the mainland into a sea or lake.
+#* {{quote-book
+|en
+|year=1851
+|author={{w|Herman Melville}}
+|title={{w|Moby-Dick}}
+|section=Chapter 12
+|passage=On one side was a coral reef; on the other a low '''tongue''' of land, covered with mangrove thickets that grew out into the water.}}
+# The pole of a vehicle; especially, the [[pole]] of an [[ox]] [[cart]], to the end of which the oxen are yoked.
+#* '''1986''', {{w|Hortense Calisher}}, ''The Bobby-Soxer,'' Garden City, NY: Doubleday, p.{{nbsp}}91,<sup>[https://archive.org/details/bobbysoxer00cali]</sup>
+#*: Far to the right, where the main pile sloped out, his cart reared '''tongue''' upward, like a plow.
+# The [[clapper]] of a [[bell]].
+#* {{RQ:Shakespeare Midsummer|V|1|text=The iron '''tongue''' of midnight hath told twelve:}}
+#* '''1940''', {{w|Richard Wright (author)|Richard Wright}}, ''{{w|Native Son}},'' London: Jonathan Cape, Book{{nbsp}}2, p.{{nbsp}}156,<sup>[https://archive.org/details/in.ernet.dli.2015.499539]</sup>
+#*: [...] the bell clanged so loud that he could hear the iron '''tongue''' clapping against the metal sides each time it swung to and fro [...]
+# {{lb|en|figuratively}} An individual [[point]] of [[flame]] from a [[fire]].
+#* '''1818''', {{w|Percy Bysshe Shelley}}, ''{{w|The Revolt of Islam}},'' London: C. and J. Ollier, Canto 3, stanza 13, p.{{nbsp}}63,<sup>[https://archive.org/details/revoltofislam00shel]</sup>
+#*: Then up a steep and dark and narrow stair
+#*: We wound, until the torches’ fiery '''tongue'''
+#*: Amid the gushing day beamless and pallid hung.
+#* {{quote-text|en|year=1895|author=H. G. Wells|title=The Time Machine|chapter=XI|passage=Now, in this decadent age the art of fire-making had been altogether forgotten on the earth. The red '''tongues''' that went licking up my heap of wood were an altogether new and strange thing to Weena.}}
+# A small [[sole]] (type of [[fish]]).
+# {{lb|en|nautical}} A short [[piece]] of [[rope]] [[splice]]d into the upper part of standing [[backstays]], etc.; also, the upper main piece of a [[mast]] composed of several pieces.
+# {{lb|en|music}} A [[reed]].
+# {{lb|en|geology}} A division of formation; A layer or member of a formation that pinches out in one direction.
 
 ====Translations====
+{{trans-top|organ}}
+* Abkhaz: {{t|ab|абз}}
+* Afrikaans: {{t+|af|tong}}
+* Ahom: {{t|aho|𑜎𑜢𑜃𑜫}}
+* Ainu: {{t|ain|チャルㇺペ|tr=carumpe}}, {{t|ain|パルㇺペ|tr=parumpe}}
+* Aklanon: {{t|akl|dila'}}
+* Albanian: {{t+|sq|gjuhë|f}}
+* Alviri-Vidari: {{t|avd|زووان|tr=zuvān}} {{qualifier|Vidari}}
+* Ama: {{t|amm|isauno}}
+* Amharic: {{t|am|ልሳን|sc=Ethi}}
+* Andi: {{t|ani|мицӏцӏи}}
+* Arabic: {{t|ar|لِسَان|m|f}}
+*: Egyptian Arabic: {{t|arz|لسان|m|tr=lesān}}
+*: Hijazi Arabic: {{t|acw|لسان|m|tr=lisān}}
+*: Moroccan Arabic: {{t|ary|لسان|m|tr=lsān}}
+* Aragonese: {{t|an|luenga}}
+* Aramaic:
+*: Classical Syriac: {{t|syc|ܠܫܢܐ|m|tr=leššānā}}
+*: Jewish Babylonian Aramaic: {{t|arc|לִשָּׁנָא|m|tr=liššānā|sc=Hebr}}
+* Archi: {{t|aqc|мац|tr=mac|sc=Cyrl}}
+* Arin: {{t|xrn|elep}}
+* Armenian: {{t+|hy|լեզու}}
+* Aromanian: {{t+|rup|limbã}}
+* Ashkun: {{t|ask|žū}}
+* Asi: {{t|bno|rila}}
+* Assamese: {{t|as|জিভা|n|sc=Beng}}
+* Asturian: {{t+|ast|llingua|f}}
+* Avar: {{t|av|мацӏ|sc=Cyrl}}
+* Azerbaijani: {{t+|az|dil}}
+* Balantak: {{t|blz|sila'}}
+* Baluchi: {{t|bal|زبان|tr=zaban}}, {{t|bal|زوان|tr=zawán}}
+* Bashkir: {{t|ba|тел}}
+* Basque: {{t|eu|mihi}}
+* Belarusian: {{t|be|язы́к|m}}
+* Bella Coola: {{t|blc|tixca}}
+* Bemba: {{t|bem|ululimi}}
+* Bengali: {{t+|bn|জিহ্বা|sc=Beng}}, {{t|bn|জিভ|sc=Beng}}, {{t|bn|জিব|sc=Beng}}, {{t|bn|জবান|tr=zôban}}
+* Bezhta: {{t|kap|миц}}
+* Bouyei: {{t|pcc|linx}}
+* Breton: {{t+|br|teod|m}}, {{t+|br|teodoù|p}}
+* Budukh: {{t|bdk|мез}}
+* Bulgarian: {{t+|bg|ези́к|m}}
+* Burmese: {{t+|my|လျှာ}}
+* Buryat: {{t|bua|хэлэн}}
+* Car Nicobarese: {{t|caq|litāk}}
+* Catalan: {{t+|ca|llengua|f}}
+* Cebuano: {{t|ceb|dila}}
+* Central Atlas Tamazight: {{t|tzm|ⵉⵍⵙ}}
+* Central Nahuatl: {{t|nhn|nenepilli}}
+* Chamicuro: {{t|ccc|menu}}
+* Chavacano: {{t|cbk|lenggwa}}
+* Chechen: {{t|ce|мотт}}
+* Chepang: {{t|cdm|ले}}
+* Chichewa: {{t|ny|lilime}}
+* Chinese:
+*: Cantonese: {{t|yue|舌頭|sc=Hant}}, {{t|yue|舌头|tr=sit6 tau4, sit3 tau4|sc=Hant}}, {{t|yue|舌|tr=sit6, sit3|sc=Hant}}, {{t+|yue|脷|tr=lei6|sc=Hant}}
+*: Dungan: {{t|dng|шәту}}
+*: Hakka: {{t|hak|舌嫲|tr=sa̍t-mà}}
+*: Mandarin: {{t+|cmn|舌頭|sc=Hani}}, {{t+|cmn|舌头|tr=shétou|sc=Hani}}, {{t+|cmn|舌|tr=shé|sc=Hani}}
+*: Min Dong: {{t|cdo|喙舌|tr=chói-siĕk / ché̤ṳ-siĕk}}
+*: Min Nan: {{t|nan|舌頭|sc=Hans}}, {{t|nan|舌头|tr=chi̍h-thâu|sc=Hans}}, {{t|nan|舌|tr=chi̍h|sc=Hans}}, {{t+|nan|喙舌|tr=chhùi-chi̍h}}
+*: Wu: {{t|wuu|舌頭}}, {{t|wuu|舌头|tr=zeq deu}}
+* Chinook Jargon: {{t|chn|lalang}}
+* Chukchi: {{t|ckt|йиԓыйиԓ|tr=jiḷyjiḷ}}, {{t|ckt|йиԓииԓ|tr=jiḷiiḷ}}
+* Classical Nahuatl: {{t|nci|nenepilli}}
+* Coptic: {{t|cop|ⲗⲁⲥ|sc=Copt}}
+* Crimean Tatar: {{t|crh|til}}
+* Czech: {{t+|cs|jazyk|m}}
+* Dalmatian: {{t|dlm|langa|f}}
+* Danish: {{t+|da|tunge|c}}
+* Dargwa: {{t|dar|лезми}}
+* Darkinjung: {{t|xda|dhallung}}
+* Dhivehi: {{t|dv|ދޫ|sc=Thaa}}
+* Dolgan: {{t|dlg|тыл}}
+* Dongxiang: {{t|sce|kielien}}
+* Drung: {{t|duu|pvlai}}
+* Dutch: {{t+|nl|tong|f}}
+* Eastern Arrernte: {{t|aer|alenye}}
+* Eastern Mari: {{t|chm|йылме|sc=Cyrl}}
+* Egyptian: {{t-egy|ns|m|h=ns:Z1*F51}}
+* Emilian: {{t|egl|längua|f}}
+* Erzya: {{t|myv|кель}}
+* Esperanto: {{t+|eo|lango}}
+* Estonian: {{t+|et|keel}}
+* Evenki: {{t|evn|инни}}, {{t|evn|чолӣ}}
+* Ewe: {{t|ee|aɖe|n}}
+* Extremaduran: {{t|ext|luenga|f}}
+* Faroese: {{t+|fo|tunga|f}}
+* Finnish: {{t+|fi|kieli}}
+* French: {{t+|fr|langue|f}}
+* Friulian: {{t|fur|lenghe|f}}
+* Galician: {{t+|gl|lingua|f}}
+* Gamilaraay: {{t|kld|thalay}}
+* Ge'ez: {{t|gez|ልስሳን|sc=Ethi}}
+* Georgian: {{t+|ka|ენა}}
+* German: {{t+|de|Zunge|f}}
+* Gilaki: {{t|glk|زوون|tr=zevan}}
+* Godoberi: {{t|gdo|мицци}}
+* Gothic: {{t|got|𐍄𐌿𐌲𐌲𐍉|f}}
+* Greek: {{t+|el|γλώσσα|f}}
+*: Ancient: {{t|grc|γλῶσσα|f}}, {{t|grc|γλῶττα|f}}
+* Greenlandic: {{t|kl|oqaq}}
+* Guaraní: {{t|gn|kũ}}
+* Gujarati: {{t|gu|જીભ|f|sc=Gujr}}
+* Guugu Yimidhirr: {{t|kky|nganhdhaar}}
+* Haitian Creole: {{t|ht|lang}}
+* Harsusi: {{t-needed|hss}}
+* Hausa: {{t+|ha|harshe}}
+* Hawaiian: {{t|haw|alelo}}
+* Hebrew: {{t+|he|לָשׁוֹן|f|tr=lashón}}
+* Higaonon: {{t|mba|dila}}
+* Hiligaynon: {{t|hil|dila}}
+* Hindi: {{t+|hi|जीभ|f}}, {{t|hi|ज़बान|f}}, {{t+|hi|जिह्वा|f}}, {{t+|hi|लिसान|f}}, {{t+|hi|रसना|f}}
+* Hinukh: {{t|gin|мец}}
+* Hungarian: {{t+|hu|nyelv}}
+* Hunsrik: {{t|hrx|Zung|f}}
+* Icelandic: {{t+|is|tunga|f}}
+* Ido: {{t+|io|lango}}
+* Ilocano: {{t|ilo|dila}}
+* Indonesian: {{t+|id|lidah}}
+* Ingush: {{t|inh|мотт}}
+* Interlingua: {{t+|ia|lingua}}
+* Inuktitut: {{t|iu|ᐅᖃᖅ|sc=Cans}}, {{t|iu|ᐅᖃᒃ|sc=Cans}}, {{t|iu|ᐊᓕᑦᑑᑦ|sc=Cans}}
+* Irish: {{t+|ga|teanga|f}}, {{t|ga|cailín dearg|m}}
+* Istriot: {{t|ist|lèngua|f}}, {{t|ist|laèngua|f}}, {{t|ist|lengua|f}}
+* Istro-Romanian: {{t|ruo|limbĕ|f}}
+* Italian: {{t+|it|lingua|f}}
+* Iu Mien: {{t|ium|mbietc}}
+* Japanese: {{t+|ja|舌|tr=した, shita}}, {{t|ja|べろ|tr=bero}} {{q|informal}}
+* Javanese: {{t+|jv|ilat}}
+* Jirel: {{t|jul|च्‍येला}}
+* Kaingang: {{t|kgp|nũnẽ}}
+* Kalmyk: {{t|xal|келн}}
+* Kamkata-viri: {{t|bsh|dić}}
+* Kamta: {{t|rkt|জিভা|tr=zibha}}
+* K'iche': {{t|quc|aaq'}}
+* Kanakanabu: {{t|xnb|'avasʉ}}
+* Kannada: {{t+|kn|ನಾಲಿಗೆ|sc=Knda}}
+* Karelian: {{t|krl|kieli}}
+* Karok: {{t|kyh|ápriih}}
+* Kashubian: {{t|csb|jãzëk}}
+* Kaurna: {{t|zku|tadlanya}}
+* Kazakh: {{t+|kk|тіл}}
+* Ket: {{t|ket|qo}}
+* Khaling: {{t|klr|लेम}}
+* Khinalug: {{t|kjj|мицӏ}}
+* Khmer: {{t+|km|អណ្ដាត}}
+* Khvarshi: {{t|khv|мец}}
+* Kikai: {{t|kzg|唇|tr=すば, suba}}
+* Korean: {{t+|ko|혀}}
+* Kriol: {{t|rop|tang}}
+* Kumyk: {{t|kum|тил}}
+* Kunigami: {{t|xug|舌|tr=しちゃー, shichā}}, {{t|xug|唇|tr=すばー, subā, しばー, shibā}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|زمان}}
+*: Northern Kurdish: {{t+|kmr|ziman}}
+* Kwak'wala: {{t|kwk|k̓a̱la̱m}}
+* Kyrgyz: {{t+|ky|тил}}
+* Ladino:
+*: Hebrew: {{t|lad|לינגוה|f}}
+*: Latin: {{t|lad|lengua|f}}
+* Lak: {{t|lbe|маз}}
+* Laki: {{t+|lki|زوان}}
+* Lao: {{t+|lo|ລີ້ນ}}
+* Latgalian: {{t|ltg|mēle|f}}
+* Latin: {{t+|la|lingua|f}}
+* Latvian: {{t+|lv|mēle|f}}
+* Lezgi: {{t|lez|мез|sc=Cyrl}}
+* Ligurian: {{t|lij|léngoa|f}}
+* Lingala: {{t|ln|lolemu}}
+* Lithuanian: {{t+|lt|liežuvis|m}}
+* Lombard: {{t|lmo|lingua|f}}, {{t+|lmo|lengua|f}}
+{{trans-mid}}
+* Luhya: {{t|luy|olurimi}}
+* Luo: {{t|luo|lep}}
+* Luxembourgish: {{t|lb|Zong|f}}
+* Lü: {{t|khb|ᦟᦲᧃᧉ}}
+* Macanese: {{t|mzs|língu}}
+* Macedonian: {{t+|mk|јазик|m}}
+* Maguindanao: {{t|mdh|dila}}
+* Malay: {{t+|ms|lidah}}, {{t+|ms|lisan}}
+* Malayalam: {{t+|ml|നാക്ക്}}
+* Maltese: {{t|mt|lsien|m}}
+* Manchu: {{t|mnc|ᡳᠯᡝᠩᡤᡠ}}
+* Mansaka: {{t|msk|dila}}
+* Mansi: {{t|mns|не̄лум}}
+* Manx: {{t|gv|çhengey|f}}
+* Maori: {{t|mi|arero}}
+* Mapudungun: {{t|arn|dungun}}
+* Maranao: {{t|mrw|dila'}}
+* Mari:
+*: Eastern Mari: {{t|chm|йылме}}
+* Mazanderani: {{t|mzn|زوون|tr=zavun}}
+* Mbabaram: {{t|vmb|jalnggulay}}
+* Mehri: {{t-needed|gdq}}
+* Middle English: {{t|enm|tonge}}
+* Mirandese: {{t|mwl|lhéngua|f}}
+* Miyako: {{t|mvi|舌|tr=すだ, suda}}
+* Mongolian: {{t+|mn|хэл}}
+* Muong: {{t|mtq|lãi}}
+* Nahuatl: {{t+|nah|nenepilli}}
+* Nanai: {{t|gld|сиӈму}}
+* Navajo: {{t|nv|atsooʼ}}
+* Neapolitan: {{t|nap|lengua|f}}
+* Nepali: {{t|ne|जिब्रो}}
+* Ngarrindjeri: {{t|nay|tallanggi}}
+* Ngazidja Comorian: {{t|zdj|ulime}}, {{t|zdj|louha}}
+* Nkonya: {{t|nko|ɔdandʋ}}
+* Norman: {{t|nrf|langue|f}}
+* North Frisian: {{t|frr|Tunge|c}} {{qualifier|Sylt}}
+* Northern Amami-Oshima: {{t|ryn|唇|tr=すぃば, sïba}}
+* Northern Yukaghir: {{t|ykg|wanar|tr=wanar}}
+* Norwegian: {{t+|no|tunge|f|m}}
+* Nottoway-Meherrin: {{t|nwy|darsunke}}
+* Nuer: {{t|nus|lɛp}}
+* Occitan: {{t+|oc|lenga|f}}
+* Ojibwe: {{q|my tongue}} {{t|oj|indenaniw}}
+* Okinawan: {{t|ryu|舌|tr=しちゃ, shicha}}, {{t|ryu|唇|tr=しば, shiba}}
+* Oki-No-Erabu: {{t|okn|舌|tr=しゃー, shā}}, {{t|okn|唇|tr=しば, shiba}}
+* Old Church Slavonic: {{t|cu|ѩзꙑкъ|m}}
+* Old English: {{t|ang|tunge|f}}
+* Old Javanese: {{t|kaw|ilat}}
+* Oriya: {{t+|or|ଜିଭ}}
+* Orok: {{t|oaa|сину}}
+* Oromo: {{t|om|qoonqoo}}
+* Oroqen: {{t|orh|iŋi}}
+* Ossetian: {{t|os|ӕвзаг}}
+* Ot Danum: {{t|otd|jola}}
+* Pa'o Karen: {{t|blk|ဖြေ}}
+* Pacoh: {{t|pac|ntaq}}
+* Paiwan: {{t|pwn|sema}}
+* Pashto: {{t+|ps|ژبه|tr=žëba}}
+* Pela: {{t|bxd|ʃa⁵⁵}}
+* Pennsylvania German: {{t|pdc|Zung|f}}
+* Persian: {{t+|fa|زبان|tr=zabân}}
+* Plautdietsch: {{t+|pdt|Tung|f}}
+* Polabian: {{t|pox|jǫzĕk|m}}
+* Polish: {{t+|pl|język|m}}, {{t+|pl|ozór|m}}
+* Portuguese: {{t+|pt|língua|f}}
+* Prasuni: {{t|prn|luzuk}}
+* Punjabi: {{t|pa|ਜੀਭ|f|sc=Guru}}
+* Quechua: {{t|qu|qallu}}, {{t|qu|gallu}}
+* Rapa Nui: {{t|rap|'arero}}
+* Romagnol: {{t|rgn|lèngva|f}}
+* Romani: {{t|rom|ćhib|f}}
+* Romanian: {{t+|ro|limbă|f}}
+* Romansch: {{t|rm|lieunga|f}}
+* Russian: {{t+|ru|язы́к|m}}
+* Rusyn: {{t|rue|язы́к|m}}
+* S'gaw Karen: {{t|ksw|ပျ့ၤ}}
+* Saek: {{t|skb|ลีน}}
+* Saho: {{t|ssy|anrab}}
+* Sami:
+*: Inari: {{t|smn|njuovčâ}}
+*: Northern: {{t|se|njuovčča}}
+*: Skolt: {{t|sms|njuuč}}
+*: Southern: {{t|sma|njoektjeme}}
+* Samogitian: {{t|sgs|lėižovis|m}}
+* Sango: {{t+|sg|mëngä}}
+* Sanskrit: {{t+|sa|जिह्वा|tr=jihvā́|f}}, {{t+|sa|लोला|f}}, {{t+|sa|रसना|f}}, {{t+|sa|जुहू|f}}
+* Santali: {{t|sat|ᱟᱞᱟᱝ}}
+* Sardinian: {{t|sc|limba|f}}
+* Saterland Frisian: {{t|stq|Tunge|f}}
+* Scots: {{t|sco|tung}}
+* Scottish Gaelic: {{t|gd|teanga|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|језик|m}}
+*: Roman: {{t+|sh|jezik|m}}
+* Shan: {{t+|shn|လိၼ်ႉ}}
+* Sherpa: {{t|xsr|ལྕེ་ལ|tr=chela}}
+* Shoshone: {{t|shh|a͟ikon}}, {{t|shh|ai'go}}
+* Sichuan Yi: {{t|ii|ꉐꆂ}}
+* Sicilian: {{t+|scn|lingua|f}}
+* Silesian: {{t-needed|szl}}
+* Sinhalese: {{t+|si|දිව}}
+* Slovak: {{t+|sk|jazyk|m}}
+* Slovene: {{t+|sl|jêzik|m}}
+* Somali: {{t|so|carab|m}}
+* Soqotri: {{t-needed|sqt}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|jězyk|m}}
+*: Upper Sorbian: {{t|hsb|jazyk|m}}
+* Sotho: {{t|st|leleme}}
+* Southern Amami-Oshima: {{t|ams|唇|tr=すぃび, sïba}}
+* Spanish: {{t+|es|lengua|f}}, {{t|es|sinhueso|f}} {{qualifier|colloquial}}
+* Sranan Tongo: {{t-check|srn|tongo}}
+* Sundanese: {{t+|su|ilat}}, {{t|su|ᮜᮦᮒᮂ}}
+* Swahili: {{t+|sw|ulimi}}
+* Swedish: {{t+|sv|tunga|c}}
+* Sylheti: {{t|syl|ꠎꠤꠙ꠆ꠞꠣ}}
+* Tabasaran: {{t|tab|мелз}}
+* Tagalog: {{t+|tl|dila}}
+* Tajik: {{t+|tg|забон}}
+* Talysh: {{t|tly|zıvon}}
+* Tamil: {{t+|ta|நாக்கு|sc=Taml}}, {{t+|ta|நாவு|sc=Taml}}
+* Tangut: {{t|txg|𗢯|tr=ldwa:1}}
+* Tatar: {{t+|tt|тел}}
+* Tausug: {{t|tsg|dila}}
+* Tedim Chin: {{t|ctd|leii}}
+* Telugu: {{t+|te|నాలుక}}, {{t+|te|జిహ్వ|f}}
+* Tetum: {{t|tet|nanal}}
+* Thai: {{t+|th|ลิ้น}}, {{t+|th|ชิวหา}}
+* Tibetan: {{t|bo|ལྕེ}}, {{t|bo|ལྗགས}} {{qualifier|polite}}
+* Tigre: {{t|tig|ልሳን|sc=Ethi}}
+* Tigrinya: {{t|ti|ልሳን|sc=Ethi}}
+* Tocharian A: {{t|xto|käntu}}
+* Tocharian B: {{t|txb|kantwo}}
+* Tok Pisin: {{t|tpi|tang}}
+* Toku-No-Shima: {{t|tkn|唇|tr=すぃび, sïba}}
+* Torres Strait Creole: {{t|tcs|tang}}
+* Tregami: {{t|trm|ǰip}}
+* Tulu: {{t|tcy|ಜಿಹ್ವೆ}}
+* Turkish: {{t+|tr|dil}}
+* Turkmen: {{t+|tk|dil}}
+* Tuvan: {{t|tyv|дыл}}
+* Udi: {{t|udi|муз}}
+* Ugaritic: {{t|uga|𐎍𐎌𐎐}}
+* Ukrainian: {{t+|uk|язи́к|m}}
+* Urdu: {{t|ur|جیبھ|f|tr=jībh|sc=ur-Arab}}, {{t+|ur|زبان|f|tr=zabān|sc=ur-Arab}}
+* Uyghur: {{t+|ug|تىل}}
+* Uzbek: {{t+|uz|til}}
+* Venetian: {{t|vec|łéngua|f}}
+* Veps: {{t|vep|kel'}}
+* Vietnamese: {{t+|vi|lưỡi}}
+* Vilamovian: {{t|wym|cung|f}}
+* Volapük: {{t+|vo|lineg}}
+* Voro: {{t|vor|kiil'}}
+* Votic: {{t|vot|tšeeli}}
+* Waigali: {{t|trm|ǰip}}
+* Walloon: {{t+|wa|linwe|f}}
+* Welsh: {{t+|cy|tafod|m}}
+* West Frisian: {{t|fy|tonge|c}}
+* White Hmong: {{t|mww|nplaig}}
+* Wolof: {{t|wo|làmmiñ}}
+* Yaeyama: {{t|rys|舌|tr=しぃた, sïta}}
+* Yagnobi: {{t|yai|зивок|tr=zivok}}
+* Yakkha: {{t|ybh|लेम}}
+* Yakut: {{t|sah|тыл}}
+* Yiddish: {{t|yi|צונג|f}}
+* Yonaguni: {{t|yoi|舌|tr=った, tta}}
+* Yoron: {{t|yox|舌|tr=しちゃ, shicha}}, {{t|yox|唇|tr=しば, shiba}}
+* Yucatec Maya: {{t|yua|aak’}}
+* Yámana: {{t|yag|lan}}
+* Zazaki: {{t+|zza|zıwan}}
+* Zealandic: {{t|zea|tonge|f}}
+* Zhuang: {{t|za|linx}}
+* Zou: {{t|zom|lei}}
+* Zulu: {{t+|zu|ulimi|c11|c10}}
+* ǃKung: {{t|khi-kun|tɛni}}, {{t|khi-kun|tɛri}}
+{{trans-bottom}}
 
-'''organ'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--left column-->
-* Arabic: [[لسان]]
-*Bosnian: [[jezik]] ''m''
-*Bulgarian: [[език]] ''m'' (ezik)
-*[[Breton]]: [[teod]] ''m'' -où ''pl''
-*Chinese: [[舌]] (she), [[舌頭]]/[[舌头]] (shetou)
-*Danish: [[tunge]] ''c''
-*Dutch: [[tong]] ''f''
-*Esperanto: [[lango]]
-*Estonian: [[keel]]
-*Filipino (Tagalog): [[dila]]
-*Finnish: [[kieli]]
-*French: [[langue#French|langue]] ''f''
-*[[Frisian]]: [[tonge]]
-*German: [[Zunge]] ''f''
-*Greek
-**Ancient: [[γλῶσσα]] (glōssa)
-**Modern: [[γλώσσα]] ''f'' (glossa or glosa)
-*[[Guarani]]: [[kũ]]
-*Hebrew: [[לשון]] ''f'' (lashon)
-* {{io}} : [[lango]]
-*Indonesian: [[lidah]]
-*[[Interlingua]]: [[lingua#Interlingua|lingua]]
-*Italian: [[lingua#Italian|lingua]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--right column-->
-*Japanese: [[舌]] ([[した]], shita), [[べろ]] (bero, ''informal'')
-* Kabyle: [[iles]]
-*Korean: [[혀]] (hyeo)
-*Latin: [[lingua]]
-*Maori: [[arero]]
-*[[Mbabaram]]: [[jalnggulay]]
-*[[Mirandese]]: [[llengua]]
-*Northern Sami: [[njuovčča]]
-*Norwegian: [[tunge]]
-*Polish: [[jezyk]] ''m''
-*Portuguese: [[língua]] ''f''
-*Romanian: [[limbă]] ''f''
-*Russian: [[язык]] ''m'' (yaz'ik)
-*Slovene: [[jezik]] ''m''
-*Spanish: [[lengua]] ''f''
-*Swedish: [[tunga]] ''c''
-*Turkish: [[dil]]
-*[[Urdu]]: [[زبان]] (Zubaan)
-|}
-|}
+{{trans-see|language}}
 
-'''language'''
-''See'' '''[[language]]'''
+{{trans-top|flap in a shoe}}
+* Armenian: {{t+|hy|լեզվակ}}
+* Bulgarian: {{t+|bg|език}}
+* Cebuano: {{t|ceb|dila}}, {{t|ceb|diladila}}
+* Chinese:
+*: Mandarin: {{t+|cmn|鞋拔}}
+* Czech: {{t+|cs|jazyk|m}}
+* Dutch: {{t+|nl|tong|c}}
+* Faroese: {{t+|fo|tunga|f}}
+* Finnish: {{t+|fi|kieli}}, {{t+|fi|iltti}}
+* French: {{t+|fr|languette|f}}
+* German: {{t+|de|Zunge|f}}, {{t+|de|Lasche|f}}
+* Greek: {{t+|el|γλώσσα|f}}
+* Icelandic: {{t+|is|tunga|f}}, {{t|is|tunga á skó|f}}, {{t|is|skótunga|f}}
+* Ido: {{t+|io|langeto}}
+* Italian: {{t+|it|linguetta|f}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|زمان}}
+* Malay: {{t|ms|lidah kasut}}
+* Norwegian: {{t+|no|tunge|c}}
+* Polish: {{t+|pl|język|m}}
+* Portuguese: {{t+|pt|língua|f}}
+* Romanian: {{t+|ro|limbă|f}}
+* Russian: {{t+|ru|язычо́к|m}}
+* Scottish Gaelic: {{t|gd|teanga|f}}
+* Slovak: {{t+|sk|jazyk}}
+* Spanish: {{t+|es|lengüeta|f}}
+* Swahili: {{t+|sw|ulimi}}
+* Swedish: {{t+|sv|plös|c}}, {{t+|sv|tunga|c}}
+* Turkish: {{t+|tr|dil}}
+* Welsh: {{t+|cy|clust|f}}
+{{trans-bottom}}
 
-===Related terms===
-*[[mother tongue]]
-*[[speak in tongues]]
-*[[tongue depressor]]
-*[[tongue sandwich]]<!--slang for a kiss in which the tongue is inserted into one's partner's mouth; synonym: French kiss-->
-*[[tongue-tied]]
-*[[tongue twister]]
-*[[tongue and groove]]
-<!-- move this to "tongue and groove if found to be legitimate: *[[tongue-and-groove merchant]] = a 
+{{trans-top|a projection that fits into a slot}}
+* Maori: {{t|mi|teremū}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Descendants====
+* {{desc|bi|tang}}
+* {{desc|rop|tang}}
+* {{desc|srn|tongo}}
+* {{desc|tpi|tang}}
+* {{desc|tcs|tang}}
+
+====See also====
+* [[👅]]
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|music|ambitransitive}} On a [[wind]] instrument, to [[articulate]] a [[note]] by starting the air with a tap of the tongue, as though by speaking a 'd' or 't' sound ([[alveolar]] [[plosive]]).
+#: {{ux|en|Playing wind instruments involves '''tonguing''' on the reed or mouthpiece.}}
+# {{lb|en|slang}} To manipulate with the tongue, as in [[kiss]]ing or [[oral sex]].
+# To [[protrude]] in relatively long, narrow sections.
+#: {{ux|en|a soil horizon that '''tongues''' into clay}}
+# To join by means of a [[tongue and groove]].
+#: {{ux|en|to '''tongue''' boards together}}
+# {{lb|en|intransitive|obsolete}} To [[talk]]; to [[prate]].
+# {{lb|en|transitive|obsolete}} To speak; to utter.
+#* {{RQ:Shakespeare Cymbeline|V|4|text=’Tis still a dream, or else such stuff as madmen<br>'''Tongue''' and brain not;}}
+# {{lb|en|transitive|obsolete}} To chide; to scold.
+#* {{RQ:Shakespeare Measure|IV|4|text=How might she '''tongue''' me!}}
+
+===Derived terms===
+{{col4|en|title=Terms derived from the noun or verb ''tongue''
+|acid-tongued
+|adder's tongue
+|beardtongue
+|beef tongue
+|betongue
+|bird's-tongue
+|bite one's tongue
+|blabtongue
+|bluetongue
+|blue-tongued skink
+|blue-tongue lizard
+|bonytongue
+|bridle one's tongue
+|cat got someone's tongue
+|[[cat tongue]], [[cat's tongue]]
+|civil tongue
+|click one's tongue
+|cluck one's tongue
+|deer's tongue
+|disc-tongued frog
+|dog's tongue
+|double-tonguing
+|double-tongued
+|earth tongue
+|father tongue
+|find one's tongue
+|flamingo tongue
+|foreign tongue
+|forked tongue
+|geographic tongue
+|gift of tongues
+|give tongue
+|goosetongue
+|guard one's tongue
+|hart's tongue
+|have something on the tip of one's tongue
+|hold one's tongue
+|honey-tongued
+|hound's tongue
+|ice tongue
+|intertongue
+|keep a civil tongue in one's head
+|keep a quiet tongue
+|law of the tongue
+|lay one's tongue to
+|long-tongued
+|loosen someone's tongue
+|milk tongue
+|mother-in-law's tongue
+|mother tongue
+|native tongue
+|on one's tongue
+|on the tip of one's tongue
+|oxtongue
+|outtongue
+|put one's tongue out
+|retracted tongue root
+|roll off the tongue
+|root of the tongue
+|sharp tongue
+|sharp-tongued
+|silver tongue
+|silver-tongued
+|slip of the tongue
+|smooth-tongued
+|speak in tongues
+|speaking in tongues
+|speak with a forked tongue
+|stick one's tongue out
+|the rough side of one's tongue
+|the tongue of scandal
+|the tongue wounds more than a lance
+|thick tongue
+|thick-tongued
+|tongue and groove
+|tonguage
+|tongue bath
+|tongue bone
+|tongue-boring
+|tongue clacker
+|tongue clacking
+|tongue depressor
+|tonguedness
+|tonguedom
+|tonguefish
+|tonguefuck
+|tongue-in-cheek
+|tongue-in-chic
+|tongue kiss
+|tonguelet
+|tonguelike
+|tongue-lolling bit
+|tongue ring
+|tongues-speaker
+|tonguester
+|tonguing
+|tonguejob
+|tongue-lash
+|tongue lashing
+|tongueless
+|tonguely
+|tongueman
+|tongue map
+|tongueness
+|tongue-pad
+|tongue punch
+|tongue run away with one
+|[[tongue sandwich]], [[tongue sarnie]]<!--slang for a kiss in which the tongue is inserted into one's partner's mouth; synonym: French kiss-->
+|tongue-shaped
+|tongue-shell
+|tongueship
+|tongue sole
+|tonguesore
+|tongue stone
+|tongue thrust
+|tongue-tie
+|tongue-tied
+|tongue toast
+|tongue twister
+|tonguey
+|tonguework
+|tongueworm
+|twi-tongued
+|two-tongued
+|untongue
+|vaper's tongue
+|venomous-tongued
+|wag one's tongue
+|watch one's tongue
+|whet one's tongue
+|wicked tongue
+|woman's tongue tree
+<!-- move this to "tongue and groove if found to be legitimate: *[[tongue-and-groove merchant]] = a
 lesbian, with reference to cunnilingus-->
+}}
 
-[[la:Tongue]]
-[[Category:1000 English basic words]]
+===See also===
+* {{l|en|gloss-}}
+* {{l|en|glossal}}
+* {{l|en|lingual}}
+* {{l|en|linguiform}}
+* {{l|en|linguo-}}
+
+===References===
+* {{pedia}}
+
+===Anagrams===
+* {{anagrams|en|a=egnotu|tounge}}
+
+[[Category:en:Anatomy]]
+[[Category:en:Footwear]]
