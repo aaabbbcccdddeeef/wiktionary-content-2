@@ -1,11 +1,75 @@
-===[[Noun]]===
-#Ability to produce a desired effect; [[effectiveness]].
+==English==
 
-===[[Translation]]s===
-*[[Catalan]]: [[eficàcia]] ''f''
-*[[Dutch]]: [[doeltreffendheid]]
-*[[German]]: [[Wirksamkeit]] ''f''
-*[[Indonesian]]: [[khasiat]], [[manjur|kemanjuran]], [[ampuh|keampuhan]]
-*[[Interlingua]]: [[efficacia]]
-*[[Portuguese]]: [[eficácia]] ''f''
-*[[Spanish]]: [[eficacia]] ''f''
+===Etymology===
+From {{der|en|fro|efficace}}, from {{der|en|LL.|efficācia||efficacy}}, from {{m|la|efficāx||efficacious}}; see {{m|en|efficacious}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈɛf.ɪ.kə.si/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-efficacy.wav|Audio (UK)}}
+
+===Noun===
+{{en-noun|-|+}}
+
+# Ability to produce a desired [[effect]] under ideal testing conditions.
+#* {{quote-book|en|year=1642|author=Sir {{w|Thomas Browne}}|chapter={{w|Religio Medici}}|trans-chapter=The Religion of a Doctor|title=The Works Of the Learned Sr Thomas Brown, Kt.|location=London|publisher=Tho. Basset et al.|year_published=1686|page=15|pageurl=https://archive.org/stream/workslearned00browrich#page/n380|passage={{...}}and this hath even made me ſuſpect the '''efficacy''' of reliques, to examine the bones, queſtion the habits and appurtenances of Saints, and even of Chriſt himſelf.}}
+#* {{quote-book|en|title=Science and Revelation|chapter=Prayer in Relation to Natural Law|author=Rev. Professor Wallace|page=43|year=1875|location=Belfast|publisher=William Mullan|pageurl=https://books.google.com/books?id=ZLUvAAAAYAAJ&dq=%22the%20efficacy%22&hl=es&pg=RA5-PA43#v=onepage&q&f=false|isbn=978-0-8370-5187-1|passage=No method of verification known to science is applicable to the '''efficacy''' of prayer. {{...}} If, then, the '''efficacy''' of prayer eludes the test of science, and if even uncertainty may rest upon the connection between an event asked in prayer, and the prayer that sought it, is there any evidence by which the '''efficacy''' of prayer may be tested and known?}}
+#* '''2005''', Flay et al. ''Standards of Evidence: Criteria for Efficacy, Effectiveness and Dissemination'' DOI: 10.1007/s11121-005-5553-y
+#*: '''Efficacy''' refers to the beneficial effects of a program or policy under optimal conditions of delivery, whereas effectiveness refers to effects of a program or policy under more real-world conditions.
+# Degree of ability to produce a desired effect; effectiveness.
+#* '''1996''', Moskovich, Patent application PCT/US1996/003658
+#*: Toothbrush with improved '''efficacy'''
+
+====Synonyms====
+* {{l|en|efficacity}}
+
+====Related terms====
+{{rel4|en
+|effect
+|effective
+|effectiveness
+|effectivity
+|effector
+|effectual
+|effectuate
+|efficacious
+|efficaciously
+|efficacity
+|efficiency
+|efficient
+}}
+
+====Translations====
+{{trans-top|ability to produce effect}}
+* Arabic: {{t-needed|ar}}
+* Azerbaijani: {{t|az|səmərə}}, {{t|az|təsirlilik}}
+* Bulgarian: {{t+|bg|де́йственост|f}}
+* Catalan: {{t+|ca|eficàcia|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|功效|tr=gōngxiào|sc=Hani}}, {{t+|cmn|效力|tr=xiàolì|sc=Hani}}, {{t+|cmn|效能|tr=xiàonéng|sc=Hani}}, {{t+|cmn|效驗|sc=Hani}}, {{t+|cmn|效验|tr=xiàoyàn|sc=Hani}}, {{qualifier|of medicine}} {{t+|cmn|藥效|sc=Hani}}, {{t+|cmn|药效|tr=yàoxiào|sc=Hani}}, {{qualifier|of therapy or treatment}} {{t+|cmn|療效|sc=Hani}}, {{t+|cmn|疗效|tr=liáoxiào|sc=Hani}}
+* Czech: {{t|cs|efektivnost|f}}, {{t+|cs|účinnost|f}}
+* Dutch: {{t+|nl|doeltreffendheid}}
+* Esperanto: {{t|eo|efikeco}}
+* Finnish: {{t+|fi|tehokkuus}}
+* French: {{t+|fr|efficience|f}}, {{t+|fr|efficacité|f}}
+* German: {{t+|de|Wirksamkeit|f}}
+{{trans-mid}}
+* Greek:
+*: Ancient: {{t|grc|δρᾶσις|f}}
+* Hungarian: {{t+|hu|hatékonyság}}
+* Indonesian: {{t+|id|khasiat}}, {{t+|id|manjur|alt=kemanjuran}}, {{t+|id|ampuh|alt=keampuhan}}, {{t|id|efikasi}}
+* Interlingua: {{t|ia|efficacia}}
+* Italian: {{t+|it|efficacia|f}}
+* Japanese: {{t|ja|有効性|tr=ゆうこうせい, yūkōsei|sc=Jpan}}
+* Latin: {{t|la|efficacitas|f}}
+* Polish: {{t+|pl|efektywność|f}}, {{t+|pl|skuteczność|f}}
+* Portuguese: {{t+|pt|eficácia|f}}
+* Romanian: {{t+|ro|eficacitate|f}}
+* Russian: {{t+|ru|эффекти́вность|f}}, {{t+|ru|де́йственность|f}}
+* Slovak: {{t+|sk|efektívnosť|f}}
+* Spanish: {{t+|es|eficacia|f}}
+* Swedish: {{t+|sv|effektivitet|f}}
+{{trans-bottom}}
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
