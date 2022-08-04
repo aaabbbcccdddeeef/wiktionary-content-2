@@ -1,72 +1,447 @@
+==English==
+{{wikipedia}}
+
 ===Etymology===
-From Latin '''[[futurus]]''', irregular future participle of '''[[esse]]''', ''be''.
+{{root|en|ine-pro|*bʰuH-}}
+From {{inh|en|enm|future}}, {{m|enm|futur}}, from {{der|en|fro|futur}}, from {{der|en|la|futūrus}}, irregular future active participle of {{m|la|sum||I am}}, from {{der|en|ine-pro|*bʰuH-||to become, be}}. Cognate with {{cog|ang|bēo||I become, I will be, I am}}. More at {{l|en|be}}. Displaced native {{cog|ang|tōweard}} and {{noncog|enm|afterhede|t=future|lit=afterhood}} in the given sense.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈfjuːt͡ʃə/}}
+* {{a|US}} {{enPR|fyo͞o'chər}}, {{IPA|en|/ˈfjuːt͡ʃɚ/}}
+* {{audio|en|en-us-future.ogg|Audio (US)}}
+* {{rhymes|en|uːtʃə(ɹ)|s=2}}
 
 ===Noun===
-'''future''' ([[uncountable]] and [[countable]]; plural: [[futures]])
+{{en-noun|~}}
 
-#The [[time]] [[ahead]]; those [[moment]]s [[yet]] to be [[experience]]d.
-#Something that will happen in moments yet to come.
-#:''There is no future in [[dwelling]] on the [[past]].
-#(''grammatical terminology''): verb tense used to talk about events that will happen in the future. [[future tense]]
-#(''finance'') ''(plural)'' [[commodities|Commodities]] or [[stocks]] [[bought]] or [[sold]] with the [[understanding]] that they will be delivered at a [[date]] [[beyond]] the [[current]] one.
+# The [[time]] [[ahead]]; those [[moment]]s [[yet]] to be [[experience]]d.
+#*{{quote-video game|en||developer={{w|BioWare}}|title={{w|Mass Effect (video game)|Mass Effect}}|location=Redwood City|publisher=Electronic Arts|year=2008|platform=PC|scene=Krogan: Culture Codex entry|isbn=9780784546642|oclc=246633669|text=This solitary attitude stems in part from a deep sense of fatalism and futility, a profound social effect of the genophage that caused krogan numbers to dwindle to a relative handful. Not only are they angry that the entire galaxy seems out to get them, the krogan are also generally pessimistic about their race's chances of survival. The surviving krogan see no point to building for the '''future'''; there will be no '''future'''. The krogan live with an attitude of "kill, pillage, and be selfish, for tomorrow we die."}}
+# Something that will happen in moments yet to come.
+# Goodness in what is yet to come. Something to look forward to.
+#* {{quote-journal|en|date=2013-08-03|volume=408|issue=8847|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/finance-and-economics/21582512-explosion-start-ups-changing-finance-better-revenge-nerds Revenge of the nerds]
+|passage=Think of banking today and the image is of grey-suited men in towering skyscrapers. Its '''future''', however, is being shaped in converted warehouses and funky offices in San Francisco, New York and London, where bright young things in jeans and T-shirts huddle around laptops, sipping lattes or munching on free food.}}
+#: {{ux|en|There is no '''future''' in dwelling on the past.}}
+# The likely prospects for or fate of someone or something in time to come.
+#* {{quote-journal|en|date=2020 May 20|author=John Crosse|title=Soon to be gone... but never forgotten|journal=Rail|page=63|text=Again, it's unlikely they will return to traffic, but '''futures''' have been secured for four that will be heading to heritage railways [...].}}
+# {{lb|en|grammar}} Verb tense used to talk about events that will happen in the future; [[future tense]].
+# {{lb|en|finance}} {{alternative form of|en|futures}}
+# {{lb|en|computing|programming}} An [[object]] that retrieves the value of a [[promise]].
+# {{lb|en|sports}} A [[minor-league]] [[prospect]].
+
+====Usage notes====
+* {{sense|finance}} The one who agrees to, at a future date, sell the commodity is considered to be selling the future; the other buys it.
+* {{sense|finance}} A non-standardized contract to buy and sell in the future is called [[forward]] or [[forward contract]].
+
+====Synonyms====
+* {{sense|time or moments yet to be experienced}} {{l|en|to-come}}, {{l|en|toward}} {{q|obsolete}}; see also [[Thesaurus:the future]]
+
+====Derived terms====
+{{der3|en
+|Back to the Future Day
+|cyberfuture
+|futurable
+|futural
+|futurama
+|future continuous
+|futured
+|future history
+|future interest
+|futureless
+|futurelessness
+|futurely
+|futureness
+|future participle
+|future perfect
+|future perfect continuous
+|future perfect progressive
+|futurepop
+|future progressive
+|[[future-proof]], [[futureproof]], [[future proof]]
+|futurescape
+|future shock
+|future simple
+|future tense
+|[[futureward]], [[futurewards]]
+|futureworld
+|futurey
+|futurism
+|futurist
+|futuritial
+|futurition
+|futurity
+|futurization
+|futurize
+|futurology
+|Ghost of Christmas Future
+|idea future
+|in future
+|in the future
+|neofuturism
+|nonfuture
+|nonfuturistic
+|[[retrofuture]], [[retro future]]
+|retrofuturism
+|retrofuturistic
+|telefuture
+|timetable future
+|unfutured
+|unfuturistic
+}}
+
+====Coordinate terms====
+* {{sense|finance}} {{l|en|forward}}
 
 ====Translations====
-*[[Basque]]: [[gero]], [[etorkizun]]
-*Bulgarian: [[бъдеще]] ''n'' (1), [[бъдеще време]] ''n'' (2)
-*[[Catalan]]: [[futur]] ''m'', [[futura]] ''f''
-*Dutch: [[toekomst]] ''f'' (1), [[onvoltooid toekomende tijd]] ''m'' (abbreviated as [[O.Tk.T.]]) (2)
-*[[Esperanto]]: [[estonteco]] (1), [[estonto]] (1), [[futuro]] (2)
-*Finnish: [[tulevaisuus]] (1), [[futuuri]] (4)
-*French: [[avenir]] ''m'' (1), [[futur]] ''m'' (1, 2)
-*German: [[Zukunft]] ''f'' (1), [[Futur]] ''n'' (2)
-*Greek: [[μέλλον]] ''n'' (1), [[μέλλων]] ''m'' (2), [[μέλλοντας]] ''m'' (2)
-*Hebrew: [[עתיד|עָתִיד]] ''m''
-*Hungarian: [[jövő]] (1), [[jövő idő]] (2)
-*Indonesian: [[masa]] [[depan]]
-*[[Interlingua]]: [[futuro]]
-*Italian: [[avvenire]] ''?'', [[futuro]] ''m''
-*Japanese: [[未来]] (みらい, mirai), [[将来]] (しょうらい, shōrai)
-*Polish: [[przyszlość]] ''m'', [[czas przyszły]] ''m''
-*Romanian: [[viitor]] (1,2)
-*Sasxsek: [[futemut]] (1,3), [[fi]] (2)
-*Spanish: [[futuro]] ''m''
-*Swedish: [[framtid]] (1)
-*Turkish: [[gelecek]]
-*[[Volapük]]: [[fütür]]
+{{trans-top|the time ahead}}
+* Afrikaans: {{t+|af|toekoms}}
+* Albanian: {{t|sq|e ardhme|f}}
+* Arabic: {{t|ar|مُسْتَقْبَل|m}}
+*: Egyptian Arabic: {{t|arz|مستقبل|m|tr=mustaʾbal}}
+*: Hijazi Arabic: {{t|acw|مُسْتَقْبَل|m|tr=mustagbal}}
+* Armenian: {{t+|hy|ապագա}}
+* Assamese: {{t|as|ভবিষ্যৎ}}
+* Asturian: {{t|ast|futuru|m}}
+* Azerbaijani: {{t+|az|gələcək}}
+* Bashkir: {{t|ba|киләсәк|sc=Cyrl}}
+* Belarusian: {{t|be|бу́дучыня|n|sc=Cyrl}}
+* Bengali: {{t|bn|আয়েন্দা}}, {{t|bn|ভবিষ্যৎ|sc=Beng}}
+* Breton: {{t+|br|amzer-da-zont|f}}, {{t+|br|dazont|m}}
+* Bulgarian: {{t+|bg|бъ́деще|n}}
+* Burmese: {{t+|my|အနာဂတ်}}
+* Catalan: {{t+|ca|avenir|m}}, {{t+|ca|futur|m}}
+* Central Mazahua: {{t|maz|xønrꞹ}}
+* Cherokee: {{t|chr|ᎤᏩᎫᏗᏗᏒ|sc=Cher}}
+* Chinese:
+*: Mandarin: {{t+|cmn|未來|sc=Hani}}, {{t+|cmn|未来|tr=wèilái|sc=Hani}}, {{t+|cmn|將來|sc=Hani}}, {{t+|cmn|将来|tr=jiānglái|sc=Hani}}
+* Czech: {{t+|cs|budoucnost|f}}
+* Danish: {{t+|da|fremtid|c}}
+* Dutch: {{t+|nl|toekomst|f}}
+* Elfdalian: {{t|ovd|framtið|f}}
+* Esperanto: {{t|eo|estonteco}}, {{t|eo|estonto}}
+* Estonian: {{t+|et|tulevik}}
+* Faroese: {{t|fo|framtíð|f}}
+* Finnish: {{t+|fi|tulevaisuus}}
+* French: {{t+|fr|avenir|m}}, {{t+|fr|futur|m}}
+* Galician: {{t+|gl|futuro|m}}
+* Georgian: {{t|ka|მომავალი}}
+* German: {{t+|de|Zukunft|f}}
+* Greek: {{t+|el|μέλλον|n}}
+*: Ancient: {{t|grc|μέλλον|n}}
+* Greenlandic: {{t|kl|siunissaq}}
+* Gujarati: {{t|gu|ભવિષ્યકાળ}}
+* Hebrew: {{t+|he|עָתִיד|m|tr='atíd}}
+* Hindi: {{t+|hi|भविष्य|m}}, {{t|hi|भविष्यकाल|m}}, {{t+|hi|मुस्तकबिल|m}}, {{t|hi|मुस्तक़बिल}}
+* Hungarian: {{t+|hu|jövő}}
+* Icelandic: {{t+|is|framtíð|f}}
+* Ido: {{t+|io|futuro}}
+* Interlingua: {{t|ia|futuro}}
+* Irish: {{t+|ga|todhchaí|f}}
+* Italian: {{t+|it|futuro|m}}, {{t+|it|avvenire|m}}
+* Japanese: {{t+|ja|未来|tr=みらい, mirai}}, {{t+|ja|将来|tr=しょうらい, shōrai}}
+* Kannada: {{t+|kn|ಭವಿಷ್ಯತ್ಕಾಲ|sc=Knda}}
+* Kazakh: {{t|kk|келешек|sc=Cyrl}}, {{t+|kk|болашақ|sc=Cyrl}}
+* Khmer: {{t+|km|អនាគត}}
+* Korean: {{t+|ko|미래(未來)}}, {{t+|ko|장래(將來)}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|دواڕۆژ}}, {{t+|ckb|پاشەڕۆژ}}
+* Kyrgyz: {{t+|ky|келечек|sc=Cyrl}}
+* Ladino: {{t|lad|avenir|m}}
+* Lao: {{t+|lo|ອະນາຄົດ}}
+* Latin: {{t+|la|futūrum|n}}
+* Latvian: {{t+|lv|nākotne}}
+{{trans-mid}}
+* Lithuanian: {{t|lt|ateitis|f}}
+* Low German: {{t|nds|Tokummst}}, {{t|gml|Tokunft}}, {{t|gml|Taukunft}} {{q|(also) Mecklenburgisch-Vorpommersch}}, {{t|gml|Teokunft}} {{q|from Enger}}
+*: Middle Low German: {{t|gml|tokumst}}
+* Luxembourgish: {{t|lb|Zukunft|f}}
+* Macedonian: {{t|mk|иднина|f|sc=Cyrl}}
+* Malay: {{t+|ms|masa depan}}, {{t+|ms|masa hadapan}}
+*: Indonesian: {{t|id|masa depan}}
+* Maltese: {{t|mt|futur}}, {{t|mt|ġejjieni|m}}
+* Maori: {{t|mi|muri}}, {{t|mi|āmua}}, {{t|mi|anamata}}
+* Mirandese: {{t|mwl|feturo|m}}
+* Mongolian: {{t+|mn|ирээдүй|sc=Cyrl}}
+* Navajo: {{t|nv|neeʼnijįʼ}}, {{t|nv|náásgóó}}
+* Norman: {{t|nrf|futur|m}}
+* Northern Ohlone: {{t|cst|huššištak}}
+* Northern Sami: {{t|se|boahttevuohta}}, {{t|se|boahtteáigi}}
+* Norwegian: {{t+|no|framtid|m|f}}
+* Occitan: {{t+|oc|futur|m}}
+* Old English: {{t|ang|tōweardnes|f}}
+* Old Prussian: {{t|prg|perejīngisku|f}}
+* Oriya: {{t+|or|ଭବିଷ୍ୟତ}}
+* Persian: {{t+|fa|آینده|tr=âyande|sc=fa-Arab}}, {{t+|fa|آتیه|tr=âtiye|sc=fa-Arab}}
+* Polish: {{t+|pl|przyszłość|f}}
+* Portuguese: {{t+|pt|futuro|m}}
+* Quechua: {{t|qu|qhipan pacha}}
+* Romanian: {{t+|ro|viitor}}
+* Romansch: {{t|rm|avegnir|m}} {{qualifier|Rumantsch Grischun, Sursilvan, Puter, Vallader}}, {{t|rm|avagnir|m}} {{qualifier|Sutsilvan}}, {{t|rm|avigneir|m}} {{qualifier|Surmiran}}, {{t|rm|futur|m}}
+* Russian: {{t+|ru|бу́дущее|n}}, {{t+|ru|гряду́щее|n}} {{qualifier|dated or poetic}}
+* Sanskrit: {{t+|sa|भविष्य|n}}
+* Scottish Gaelic: {{t|gd|àm ri teachd|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|будућност|f}}
+*: Roman: {{t+|sh|budućnost|f}}
+* Sicilian: {{t|scn|futuru|m}}
+* Sinhalese: {{t|si|ඉදිරිය|sc=Sinh}}
+* Slovak: {{t+|sk|budúcnosť|f}}
+* Slovene: {{t+|sl|prihodnost|f}}, {{t|sl|bodočnost|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|pśichod|m}}
+*: Upper Sorbian: {{t+|hsb|přichod|m}}
+* Spanish: {{t+|es|futuro|m}}, {{t+|es|porvenir|m}}
+* Swedish: {{t+|sv|framtid|c}}
+* Tagalog: {{t|tl|hinaharap}}, {{t|tl|kinabukasan}}
+* Tajik: {{t+|tg|оянда|sc=Cyrl}}
+* Tamil: {{t+|ta|எதிர்காலம்|sc=Taml}}
+* Tatar: {{t|tt|киләчәк|sc=Cyrl}}
+* Telugu: {{t+|te|భవిష్యత్తు|sc=Telu}}
+* Thai: {{t+|th|อนาคต}}
+* Turkish: {{t+|tr|gelecek}}
+* Turkmen: {{t|tk|geljek}}, {{t|tk|ýeneki}}
+* Ukrainian: {{t|uk|майбу́тнє|n|sc=Cyrl}}
+* Urdu: {{t|ur|مستقبل|tr=mustaqbil|m|sc=ur-Arab}}
+* Uzbek: {{t+|uz|kelajak}}
+* Vietnamese: {{t+|vi|tương lai}} ({{t|vi|將來|sc=Hani}})
+* Volapük: {{t+|vo|fütür}}
+* Welsh: {{t+|cy|dyfodol}}
+* Yiddish: {{t|yi|צוקונפֿט|f|sc=Hebr}}
+* Yup'ik: {{t|esu|ciunerkaq}}
+{{trans-bottom}}
+
+{{trans-top|something that will happen in moments yet to come}}
+* Afrikaans: {{t+|af|toekoms}}
+* Armenian: {{t+|hy|ապագա}}, {{t+|hy|գալիք}}
+* Bashkir: {{t|ba|киләсәк|sc=Cyrl}}, {{t|ba|буласаҡ|sc=Cyrl}}
+* Bulgarian: {{t+|bg|бъ́деще|n}}, {{t|bg|бъ́деще вре́ме|n}}
+* Catalan: {{t+|ca|futur|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|未來|sc=Hani}}, {{t+|cmn|未来|tr=wèilái|sc=Hani}}, {{t+|cmn|將來|sc=Hani}}, {{t+|cmn|将来|tr=jiānglái|sc=Hani}}
+* Czech: {{t+|cs|budoucnost|f}}
+* Danish: {{t+|da|fremtid|c}}
+* Dutch: {{t+|nl|toekomst|f}}
+* Esperanto: {{t+|eo|futuro}}
+* Finnish: {{t+|fi|tulevaisuus}}
+* French: {{t+|fr|futur|m}}
+* German: {{t+|de|Futur|n}}, {{t+|de|Zukunft|f}}
+* Greek: {{t+|el|μέλλον|n}}
+{{trans-mid}}
+* Hebrew: {{t+|he|עתיד|m|tr=atíd}}
+* Hungarian: {{t+|hu|jövő idő}}
+* Italian: {{t+|it|futuro|m}}
+* Latvian: {{t+|lv|nākotne|f}}
+* Norman: {{t|nrf|futur|m}}
+* Norwegian: {{t+|no|framtid|m|f}}
+* Polish: {{t+|pl|przyszłość|f}}
+* Portuguese: {{t+|pt|futuro|m}}
+* Romanian: {{t+|ro|viitor}}
+* Romansch: {{t|rm|futur|m}}
+* Russian: {{t+|ru|бу́дущее|n}}
+* Scottish Gaelic: {{t|gd|àm ri teachd|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|будућност|f}}
+*: Roman: {{t+|sh|budućnost|f}}
+* Slovene: {{t+|sl|prihodnost|f}}
+{{trans-bottom}}
+
+{{trans-top|goodness in what is yet to come}}
+* Bulgarian: {{t+|bg|бъ́деще|n}}
+{{trans-mid}}
+* Finnish: {{t+|fi|tulevaisuus}}
+{{trans-bottom}}
+
+{{trans-see|grammar|future tense}}
+
+{{trans-top|finance: agreement to sell}}
+* Bulgarian: {{t|bg|фю́чърс|m}}
+* Finnish: {{t+|fi|futuuri}}
+{{trans-mid}}
+* German: {{t+|de|Future|m}}
+* Russian: {{t+|ru|фью́черс|m}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Basque: {{t-check|eu|gero}}, {{t+check|eu|etorkizun}}
+* Ido: {{t+check|io|futuro}}
+* Indonesian: {{t-check|id|[[masa]] [[depan]]}} <!-- was "[[masa]] [[depan]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Interlingua: {{t-check|ia|futuro}}
+{{trans-mid}}
+* Spanish: {{t+check|es|futuro|m}}
+* Telugu: {{t+check|te|భవిష్యత్తు|sc=Telu}}
+* Turkish: {{t+check|tr|gelecek}}
+* Volapük: {{t+check|vo|fütür}}
+{{trans-bottom}}
 
 ===Adjective===
+{{en-adj|-}}
 
 # Having to do with or [[occur]]ring in the future.
-#:''Future [[generation]]s will either [[laugh]] or [[cry]] at our [[stupidity]].''
+#: {{ux|en|'''Future''' generations will either laugh or cry at our stupidity.}}
+#* {{RQ:Ferguson Zollenstein|IV}}
+#*: So this was my '''future''' home, I thought! Certainly it made a brave picture. I had seen similar ones fired-in on many a Heidelberg stein. Backed by towering hills,{{...}}a sky of palest Gobelin flecked with fat, fleecy little clouds, it in truth looked a dear little city; the city of one's dreams.
+#* {{quote-web|en|title=UN Study: China, US, Japan Lead World AI Development|url=https://learningenglish.voanews.com/a/un-study-china-us-japan-lead-world-ai-development/4769094.html|archiveurl=https://web.archive.org/web/20190207184548/https://learningenglish.voanews.com/a/un-study-china-us-japan-lead-world-ai-development/4769094.html|archivedate=7 February 2019|work={{w|Voice of America}}|date=3 February 2019|passage=It[The study] also attempts to predict the '''future''' progression of AI as it relates to new inventions.}}
+#*:: {{audio|en|It also attempts to predict the future progression of AI as it relates to new inventions.ogg|Audio (US)}}
 
+====Synonyms====
+* {{l|en|unborn}}; see also [[Thesaurus:future]]
 
 ====Translations====
-*[[Basque]]: [[geroko]]
-*Bulgarian: [[бъдещ]]
-*Catalan: [[futur]] ''m'', [[futura]] ''f''
-*Dutch: [[toekomstig]]
-*[[Esperanto]]: [[estonta]], [[futura]]?
-*Finnish: [[tuleva]]
-*French: [[futur]] ''m'', future ''f''
-*German: [[zukünftig]]
-*Greek: [[μελλοντικός]]
-*[[Interlingua]]: [[futur]]
-*Italian: [[futuro]]
-*Romanian: [[viitor]]
-*Sasxsek: [[fi]], [[futemi]]
-*Spanish: [[futuro]]
-*Turkish: [[gelecek]]
-*[[Volapük]]: [[fütürik]]
+{{trans-top|having to do with or occurring in the future}}
+* Afrikaans: {{t|af|toekomstig}}
+* Arabic: {{t|ar|مُسْتَقْبَلِيّ}}, {{t|ar|مُسْتَقْبَل}}
+* Armenian: {{t+|hy|ապագա}}
+* Basque: {{t|eu|geroko}}
+* Belarusian: {{t|be|бу́дучы}}
+* Bulgarian: {{t+|bg|бъ́дещ}}
+* Catalan: {{t+|ca|futur}}
+* Czech: {{t+|cs|budoucí}}
+* Danish: {{t|da|fremtidig}}
+* Dutch: {{t+|nl|toekomstig}}
+* Esperanto: {{t-check|eo|estonta}}, {{t+check|eo|futura}}
+* Finnish: {{t+|fi|tuleva}}; {{t|fi|tulevaisuuden}}
+* French: {{t+|fr|futur}}
+* Georgian: {{t|ka|მომავალი}}, {{t|ka|სამომავლო}}
+* German: {{t+|de|zukünftig}}, {{t+|de|künftig}}
+* Gothic: {{t|got|𐌰𐌽𐌰𐍅𐌰𐌹𐍂𐌸𐍃}}
+* Greek: {{t+|el|μελλοντικός}}, {{t+|el|μέλλων}}
+*: Ancient: {{t|grc|μέλλων}}
+* Hebrew: {{t|he|עֲתִידִי|tr=atidí}}
+* Hindi: {{t+|hi|भविष्य|m}}
+* Hungarian: {{t+|hu|jövőbeli}}, {{t+|hu|leendő}}, {{t|hu|majdani}}
+* Ido: {{t+|io|futura}}
+* Interlingua: {{t|ia|futur}}
+* Irish: {{t|ga|fáistineach}}
+* Italian: {{t+|it|futuro}}
+{{trans-mid}}
+* Latin: {{t+|la|futūrus}}
+* Latvian: {{t|lv|nākotnes}}
+* Lithuanian: {{t+|lt|būsimas}}
+* Macedonian: {{t|mk|иден}}
+* Norman: {{t|nrf|futur}}
+* Norwegian:
+*: Bokmål: {{t|nb|framtidig}}, {{t|nb|fremtidig}}, {{t|nb|tilkommende}}
+*: Nynorsk: {{t|nn|framtidig}}
+* Old English: {{t|ang|tōweard}}
+* Polish: {{t+|pl|przyszły}}
+* Portuguese: {{t+|pt|futuro}}, {{t+|pt|vindouro}}
+* Romanian: {{t+|ro|viitor}}
+* Russian: {{t+|ru|бу́дущий}}, {{t+|ru|гряду́щий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|будући}}
+*: Roman: {{t+|sh|budući}}
+* Slovak: {{t|sk|budúci}}
+* Slovene: {{t|sl|prihodnji}}
+* Spanish: {{t+|es|futuro}}, {{t+|es|venidero}}
+* Swedish: {{t+|sv|framtida}}
+* Telugu: {{t|te|భవిష్య}}, {{t+|te|భావి}}
+* Tocharian B: {{t|txb|ekamätte}}
+* Turkish: {{t+|tr|gelecek}}
+* Ukrainian: {{t|uk|майбу́тній}}
+* Volapük: {{t+|vo|fütürik}}
+{{trans-bottom}}
 
-===Derived terms===
-*[[futurism]]
-*[[futurist]]
-*[[futuristic]]
-*[[retro future]]
+====Derived terms====
+{{der3|en
+|futureness|future perfect|[[future simple]], [[simple future]]
+|futurism|futurist|futuristic|futurity
+|retro future
+}}
 
-[[Category:1000 English basic words]]
+[[Category:en:Future]]
+[[Category:en:Time]]
 
-[[de:Future]]
-[[et:Future]]
-[[it:future]]
-[[fi:Future]]
+----
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|Fr-futur.ogg|audio}}
+* {{audio|fr|LL-Q150 (fra)-Pamputt-future.wav|Audio}}
+* {{homophones|fr|futur|futurs|futures}}
+
+===Adjective===
+{{head|fr|adjective form}}
+
+# {{feminine singular of|fr|futur}}
+
+----
+
+==Italian==
+
+===Pronunciation===
+{{it-pr|futùre}}
+
+===Adjective===
+{{head|it|adjective form|f-p}}
+
+# {{adj form of|it|futuro||f|p}}
+
+----
+
+==Latin==
+
+===Participle===
+{{la-part-form|futūre}}
+
+# {{inflection of|la|futūrus||voc|m|s}}
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|futur|ffutur|futire}}
+
+===Etymology===
+Borrowed from {{bor|enm|fro|futur}}, from {{der|enm|la|futūrus}}, past participle of {{m|la|sum}} (cognate to {{cog|enm|been}}).
+
+===Pronunciation===
+* {{IPA|enm|/fiu̯ˈtiu̯r/|/ˈfiu̯tur/|/ˈfiu̯tir/}}
+
+===Noun===
+{{enm-noun|futures}}
+
+# {{lb|enm|rare}} A {{l|en|future}} action or doing; that which happens in the future.
+# {{lb|enm|rare}} The future; the time beyond the {{l|en|present}}.
+
+====Descendants====
+* {{desc|en|future}}
+* {{desc|sco|futur}}
+
+====References====
+* {{R:MED Online|entry=fūtūr(e |pos=n |id=MED24830 |accessdate=2018-07-20}}
+
+===Adjective===
+{{enm-adj}}
+
+# Occurring after the present; {{l|en|future}} or [[upcoming]].
+# {{lb|enm|rare|grammar}} Having the [[future tense]]; grammatically marking [[futureness]].
+
+====Descendants====
+* {{desc|en|future}}
+* {{desc|sco|futur}}
+
+====References====
+* {{R:MED Online|entry=fūtūr(e |pos=adj |id=MED24831 |accessdate=2018-07-20}}
+
+[[Category:enm:Time]]
+
+----
+
+==Norman==
+
+===Adjective===
+{{head|nrf|adjective form}}
+
+# {{feminine singular of|nrf|futur}}
+
+----
+
+==Old French==
+
+===Noun===
+{{fro-noun|m}}
+
+# {{lb|fro|grammar}} {{l|en|future}} (tense)
