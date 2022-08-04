@@ -93,28 +93,95 @@
 ===Kanji===
 {{ja-kanji|grade=6|rs=寸00}}
 
-# [[measurement]]
-
 ====Readings====
 {{ja-readings
 |goon=すん
 |kanon=そん
-|kun=はか-る, とき, き
+|kun=き
 |nanori=す, みき
 }}
-{{attention|ja|Okurigana はか-る needs verification.}}
 
 ====Compounds====
-* {{ja-r|五%寸%釘|ご%すん%くぎ}}: [[nail]] that is 5 ''sun'' ([[寸]]) long (approximately 15 cm)
+{{der-top3}}
+* {{ja-r|寸寸|ずたずた}}
+* {{ja-r|寸胴|ずんどう}}
+* {{ja-r|一寸|ちょっと}}
+* {{ja-r|燐寸|マッチ}}
+{{der-bottom}}
 
-===Noun===
+===Etymology 1===
+{{ja-kanjitab|yomi=goon|すん}}
+
+From {{der|ja|ltc|sort=すん|-}} {{ltc-l|寸}}.
+
+====Pronunciation====
+{{ja-pron|すん|acc=1|acc_ref=DJR}}
+
+====Noun====
 {{ja-noun|すん}}
 
-# ''sun'' (a Japanese length measurement equivalent to 10 ''bu'' ([[分]]) or approximately 3.03 [[cm]])
+# a Japanese measurement of length [[equivalent]] to 10 {{m|ja|分|tr=bu}} or [[approximate]]ly 3.03 [[cm]]
+# {{lb|ja|by extension}} a [[length]], [[measurement]]
+# [[shortness]], [[fewness]]
+# {{rfdef|ja|sort=すん}}
 
-====Coordinate terms====
-* Previous: [[分]]
-* Next: [[尺]]
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|一%寸|いっ%すん}}
+* {{ja-r|二%寸|に%すん}}
+* {{ja-r|三%寸|さん%ずん}}
+* {{ja-r|四%寸|し%すん}}
+* {{ja-r|五%寸|ご%すん}}
+* {{ja-r|八%寸|はっ%すん}}
+{{der-bottom}}
+
+=====Coordinate terms=====
+* {{ja-r|分|ぶ}}
+* {{ja-r|尺|しゃく}}
+
+=====Descendants=====
+* {{desc|en|sun}}
+
+====Affix====
+{{ja-pos|affix|すん}}
+
+# [[sun]] {{gl|measurement of length}}
+# {{lb|ja|by extension}} [[length]], [[measurement]]
+# [[minimal]], [[negligible]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|寸%寸|すん%ずん}}
+* {{ja-r|寸%陰|すん%いん}}
+* {{ja-r|寸%暇|すん%か}}
+* {{ja-r|寸%志|すん%し}}
+* {{ja-r|寸%時|すん%じ}}
+* {{ja-r|寸%借|すん%しゃく}}
+* {{ja-r|寸%尺|すん%しゃく}}
+* {{ja-r|寸%前|すん%ぜん}}
+* {{ja-r|寸%断|すん%だん}}
+* {{ja-r|寸%評|すん%ぴょう}}
+* {{ja-r|寸%法|すん%ぽう}}
+* {{ja-r|原%寸|げん%すん}}
+* {{ja-r|同%寸|どう%すん}}
+* {{ja-r|方%寸|ほう%すん}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|き}}
+
+From {{inh|ja|ojp|sort=き|-}}.
+
+====Suffix====
+{{ja-pos|suffix|き}}
+
+# {{lb|ja|sort=き|archaic}} {{n-g|[[unit]] [[use]]d in [[ancient]] [[time]]s to [[measure]] [[length]]s of [[horse]]s}}
+
+=====Derived terms=====
+* {{ja-r|八%寸|や%き}}
+
+===References===
+<references/>
 
 ----
 
@@ -150,6 +217,58 @@ From {{der|ko|ltc|sort=촌|-}} {{ltc-l|寸}}.
 
 ===References===
 * {{R:hanjadoc|2609}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{ryu-kanji}}
+
+====Readings====
+{{ryu-readings
+|on=すぃん
+}}
+
+===Etymology===
+{{ryu-kanjitab|yomi=o|すぃん}}
+
+Cognate with mainland {{cog|ja|寸|tr=sun}}.
+
+===Pronunciation===
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} {{ja-accent/down|すぃ}}ん {{monospace|[síꜜn]}} ({{ll|ja|下降型|Kakō}} - [1])
+* {{IPA|ryu|[siɴ]|sort=すいん}}
+
+===Noun===
+{{ryu-noun|すぃん}}
+
+# a [[measurement]] of [[length]] [[equivalent]] to 10 {{m|ryu|分|tr=bu}} or [[approximate]]ly 3.03 [[cm]]
+
+====Derived terms====
+{{der-top3}}
+* {{ryu-r|一%寸|いっ%すぃん}}
+* {{ryu-r|六%寸|るく%すぃん}}
+* {{ryu-r|八%寸|はっ%すぃん}}
+{{der-bottom}}
+
+====Coordinate terms====
+* {{ryu-r|分|ぶ}}
+* {{ryu-r|尺|しゃく}}
+
+----
+
+==Old Japanese==
+
+===Etymology===
+{{rfe|ojp|sort=き}}
+
+====Suffix====
+{{head|ojp|suffix|tr=-ki<sub>(?)</sub>|kana|き}}
+
+# {{n-g|[[ancient]] [[measurement]] of [[length]] [[equivalent]] to the [[modern]] Japanese ''[[sun]]'' or [[approximate]]ly 3.03 [[cm]]}}
+
+====Descendants====
+* {{desc|ja|寸|tr=-ki}}
 
 ----
 
