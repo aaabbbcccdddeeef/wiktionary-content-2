@@ -1,72 +1,548 @@
 ==English==
-=== Pronunciation ===
-*[[w:IPA|IPA]]: /smel/
 
-=== Noun ===
-[[Category:English nouns]]
-'''smell''' (''countable''; ''plural:'' [[smells]])
+===Etymology===
+{{root|en|ine-pro|*(s)meld-}}
+From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smullen}}, from {{inh|en|ang|*smyllan}}, {{m|ang|*smiellan|t=to smell, emit fumes}}, from {{inh|en|gmw-pro|*smallijan|t=to glow, burn, smoulder}}, from {{der|en|ine-pro|*smel-|t=to burn, smoke, smoulder; tar, pitch}}. The noun is from {{inh|en|enm|smel}}, {{m|enm|smil}}, {{m|enm|smul||smell, odour}}. Related to {{cog|stq|smeele|t=to smoulder}}, {{cog|dum|smolen|smōlen|to burn, smoulder}} (whence {{cog|nl|smeulen||to smoulder}}), {{cog|gml|smölen||to be hazy, be dusty}} (whence {{cog|nds|smölen||smoulder}}), {{cog|nds|smullen||emit smoke}}, {{cog|vls|smoel||stuffy, muggy, hazy}}, {{cog|da|smul||dust, powder}}, {{cog|lt|smilkyti||to incense, fumigate}}, {{cog|lt|smilkti||to smudge, smolder, fume, reek}}, {{cog|lt|smalkinti||to fume}}, {{cog|mga|smál}}, {{m|mga|smól}}, {{m|mga|smúal||fire, gleed, embers, ashes}}, {{cog|ru|смола́||resin, tar}}. Compare {{l|en|smoulder}}, {{l|en|smother}}.
 
-#The [[scent]] [[give off|given off]] by something.
-#:''I love the smell of fresh bread.''
+===Pronunciation===
+* {{a|RP|GA}} {{enPR|smĕl}}, {{IPA|en|/smɛl/}}
+* {{audio|en|En-us-smell.ogg|Audio (GA)}}
+* {{rhymes|en|ɛl|s=1}}
+
+===Noun===
+{{en-noun|~}}
+
+# A [[sensation]], pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying [[airborne]] [[molecule]]s of a substance.
+#: {{ux|en|I love the '''smell''' of fresh bread.}}
+#* {{RQ:Grahame Wind in the Willows|passage=The penetrating '''smell''' of cabbage reached the nose of Toad as he lay [[prostrate]] in his misery on the floor, and gave him the idea for a moment that perhaps life was not such a blank and desperate thing as he had imagined. But still he wailed, and kicked with his legs, and refused to be comforted. So the wise girl retired for the time, but, of course, a good deal of the '''smell''' of hot cabbage remained behind, as it will do, and Toad, between his sobs, sniffed and reflected, and gradually began to think new and inspiring thoughts: of [[chivalry]], and poetry{{...}}}}
+# {{lb|en|physiology}} The [[sense]] that detects [[odour]]s.
+#A conclusion or intuition that a situation is wrong, more complex than it seems, or otherwise inappropriate.
+#* '''2018''' {{cite-book|last=Schroers|first=Carl|date=February 8, 2018|title=Wrestling with Time Lost |publisher=Lulu Press|chapter=Chapter&nbsp;8}}
+#*: “I’m just saying, this has a bad smell to it.”
+
+====Usage notes====
+* Adjectives often applied to "smell": {{l|en|acrid}}, {{l|en|awful}}, {{l|en|bad}}, {{l|en|disgusting}}, {{l|en|fishy}}, {{l|en|foul}}, {{l|en|fragrant}}, {{l|en|fresh}}, {{l|en|funny}}, {{l|en|funky}}, {{l|en|good}}, {{l|en|great}}, {{l|en|horrible}}, {{l|en|metallic}}, {{l|en|musty}}, {{l|en|nasty}}, {{l|en|nice}}, {{l|en|odd}}, {{l|en|pervasive}}, {{l|en|penetrating}}, {{l|en|pleasant}}, {{l|en|powerful}}, {{l|en|pungent}}, {{l|en|putrid}}, {{l|en|rancid}}, {{l|en|rank}}, {{l|en|rotten}}, {{l|en|sour}}, {{l|en|spoilt}}, {{l|en|salty}}, {{l|en|strange}}, {{l|en|stinky}}, {{l|en|strong}}, {{l|en|sweet}}, {{l|en|terrible}}, {{l|en|unpleasant}}.
 
 ====Synonyms====
-*[[aroma]] (1)
-*[[odour]] (1)
-*[[scent]] (1)
+* {{sense|sensation}} ''see'' [[Thesaurus:smell]]
+** {{sense|pleasant}} {{l|en|aroma}}, {{l|en|fragrance}}, {{l|en|odor}}/{{l|en|odour}}, {{l|en|scent}}; ''see also'' [[Thesaurus:aroma]]
+** {{sense|unpleasant}} {{l|en|niff}} {{qualifier|informal}}, {{l|en|pong}} {{qualifier|informal}}, {{l|en|reek}}, {{l|en|stench}}, {{l|en|stink}}; ''see also'' [[Thesaurus:stench]]
+* {{sense|sense}} {{l|en|olfaction}} {{qualifier|in technical use}}, {{l|en|sense of smell}}
 
-==== Translations ====
-*Dutch: [[geur]] ''m'', [[reuk]] ''m'', [[stank]] ''m'' (unpleasant)
-*Finnish: [[haju]]
-*German: [[Geruch]] ''m'' (1)
-*Hebrew: [[ריח]] ''m''
-*Indonesian: [[bau]], [[aroma]]
-*Kazakh: [[Кетшi]]
-*Romanian: [[miros]] ''n''
-*Russian: [[пахнуть]]
-*Swedish: [[lukt]] ''c''
+====Hyponyms====
+{{col3|en
+|bad smell
+|code smell
+|good smell
+}}
 
-=== Verb === 
-{{en-infl-reg-consonant|smell||}}
+====Derived terms====
+{{col3|en|code smell}}
 
-{{en-infl-irreg|smell|smells|smelling|smelt|smelt}}
-====Transitive====
-[[Category:English transitive verbs]]
-# to [[sense]] substances in the air with the nose  
-#:''I can smell the fresh bread.''
-#:''Smell the milk, and tell me if it's gone off.''
+====Translations====
+{{trans-top|sensation}}
+* Aklanon: {{t|akl|baho'}}
+* Albanian: {{t+|sq|erë|f}}
+* Arabic: {{t+|ar|رَائِحَة|f}}, {{t|ar|رِيحة|f}}
+*: Egyptian Arabic: {{t|arz|ريحة|f|tr=rīḥa}}
+*: Hijazi Arabic: {{t|acw|ريحة|f|tr=rīḥa}}
+*: Moroccan Arabic: {{t|ary|ريحة|f|tr=rīḥa}}
+* Aramaic: {{t|arc|ריחא|m|tr=rikha}}
+* Archi: {{t|aqc|ди}}
+* Armenian: {{t+|hy|հոտ}}
+* Aromanian: {{t|rup|njurizmã|f}}, {{t|rup|anjurizmã|f}}, {{t|rup|aromã|f}}
+* Asturian: {{t+|ast|golor|m}}
+* Azerbaijani: {{t+|az|qoxu}}, {{t+|az|iy}}
+* Bakhtiari: {{t|bqi|بو|tr=bu|sc=fa-Arab}}
+* Bashkir: {{t|ba|еҫ}}
+* Basque: {{t|eu|usain}}
+* Belarusian: {{t|be|пах|m}}
+* Bengali: {{t+|bn|গন্ধ|sc=Beng}}
+* Brunei Malay: {{t|kxd|bau}}
+* Bulgarian: {{t+|bg|миризма́|f}}, {{t+|bg|ми́рис|m}}
+* Burmese: {{t+|my|အနံ့}}
+* Catalan: {{t+|ca|olor|f}}, {{t+|ca|flaire|f}}
+* Chechen: {{t|ce|хьожа}}
+* Cherokee: {{t-needed|chr}}
+* Chinese:
+*: Cantonese: {{t|yue|味道|tr=mei6 dou6}}
+*: Dungan: {{t|dng|видо}}
+*: Mandarin: {{t+|cmn|味道|tr=wèidao|sc=Hani}}, {{t+|cmn|味兒|sc=Hani}}, {{t+|cmn|味儿|tr=wèir|sc=Hani}}, {{t+|cmn|氣味|sc=Hani}}, {{t+|cmn|气味|tr=qìwèi|sc=Hani}}
+* Czech: {{t+|cs|vůně|f}}, {{t+|cs|zápach|m}} {{qualifier|unpleasant}}, {{t+|cs|pach|m}}
+* Danish: {{t+|da|lugt|c}}
+* Dutch: {{t+|nl|geur|m}}, {{t+|nl|reuk|m}}, {{t+|nl|stank|m}} {{qualifier|unpleasant}}
+* Egyptian: {{t-egy|sṯ|h=s-T:Aa2}}
+* Esperanto: {{t+|eo|odoro}}
+* Estonian: {{t|et|lõhn}}
+* Even: {{t|eve|унҥэ}}; {{t|eve|ҥо}} {{qualifier|unpleasant}}
+* Evenki: {{t|evn|унңу}}; {{t|evn|ңо}} {{qualifier|unpleasant}}
+* Fataluku: {{t|ddg|horon}}
+* Finnish: {{t+|fi|tuoksu}} {{q|pleasant}}, {{t+|fi|haju}} {{q|usually unpleasant}}, {{t|fi|katku}} {{q|unpleasant smell of burning}}, {{t+|fi|käry}} {{q|smell of burning}}, {{t|fi|kitku}}  {{q|unpleasant smell of burning}}, {{t+|fi|lemu}} {{q|unpleasant}}, {{t|fi|dunkkis}} {{q|slang}}, {{t+|fi|döfis}} {{q|slang}}, {{t+|fi|löyhkä}} {{q|very unpleasant}}, {{t+|fi|haisu}}, {{t+|fi|aromi}} {{q|pleasant smell of food}}
+* French: {{t+|fr|odeur|f}}, {{t+|fr|parfum|m}}, {{t+|fr|goût|m}}
+* Galician: {{t+|gl|cheiro|m}}, {{t|gl|cheirume|m}}
+* Georgian: {{t|ka|სუნი}}
+* German: {{t+|de|Geruch|m}}
+* Gothic: {{t|got|𐌳𐌰𐌿𐌽𐍃|f}}
+* Greek: {{t+|el|μυρωδιά|f}}
+*: Ancient: {{t|grc|ὀσμή|f}}, {{t|grc|ὀδμή|f}}
+* Gujarati: {{t|gu|ગંધ}}
+* Hausa: {{t-needed|ha}}
+* Hebrew: {{t+|he|רֵיחַ|m|tr=réakh}}
+* Hindi: {{t+|hi|गंध|f}}, {{t+|hi|बू|f}}
+* Hungarian: {{t+|hu|szag}}, {{t+|hu|illat}} {{qualifier|pleasant}}, {{t+|hu|bűz}} {{qualifier|unpleasant}}
+* Icelandic: {{t+|is|lykt|f}}
+* Indonesian: {{t+|id|bau}}, {{t+|id|aroma}}
+* Ingush: {{t|inh|хьаж}}
+* Irish: {{t|ga|boladh|m}}, {{t|ga|bolaithe|p}}
+* Italian: {{t+|it|odore}}
+* Japanese: {{t+|ja|匂い|tr=におい, nioi}}
+* Javanese: {{t|jv|ambu}}
+* Kabuverdianu: {{t|kea|txeru}}, {{t|kea|txere}}
+* Kannada: {{t+|kn|ಕಂಪು}}
+* Kazakh: {{t+|kk|иіс}}
+* Khmer: {{t+|km|ក្លិន|tr=klən|sc=Khmr}}
+* Korean: {{t+|ko|냄새}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|بۆن}}
+* Kyrgyz: {{t+|ky|жыт}}
+* Lao: {{t+|lo|ກິ່ນ}}
+* Latgalian: {{t|ltg|smuords|m}}
+* Latin: {{t|la|odor}}
+{{trans-mid}}
+* Latvian: {{t|lv|smarža|f}}
+* Lezgi: {{t|lez|ни}}
+* Lithuanian: {{t|lt|kvapas|m}}
+* Lombard: {{t+|lmo|odor}}
+* Macedonian: {{t|mk|мирис|m}}, {{t|mk|миризба|f}}
+* Malay: {{t+|ms|bau}}
+* Malayalam: {{t+|ml|മണം|sc=Mlym}}, {{t+|ml|ഗന്ധം|sc=Mlym}}, {{t+|ml|വാസന|sc=Mlym}}
+* Maltese: {{t|mt|riħa|f}}
+* Manchu: {{t|mnc|ᠸᠠ}}
+* Mansaka: {{t|msk|bao}}
+* Maori: {{t|mi|kakara}}, {{t|mi|mōtuhi}} {{qualifier|unpleasant }}, {{t|mi|konakona}}
+* Maranao: {{t|mrw|baw}}
+* Marathi: {{t|mr|वास|m|sc=Deva}}
+* Mirandese: {{t-needed|mwl}}
+* Mongolian: {{t+|mn|үнэр}}
+* Nepali: {{t+|ne|गन्ध}}
+* Norwegian:
+*: Bokmål: {{t+|nb|lukt|m|f}}
+*: Nynorsk: {{t|nn|lukt|f}}
+* Occitan: {{t|oc|olor|f}}
+* Old English: {{t|ang|stenċ|m}}
+* Old Javanese: {{t|kaw|wangi}}
+* Oriya: {{t+|or|ଗନ୍ଧ}}
+* Pali: {{t|pi|gandha}}
+* Pashto: {{t|ps|بوى|m|tr=buy}}
+* Persian: {{t+|fa|بو|tr=bu}}, {{t+|fa|بوی|tr=būy}}
+* Plautdietsch: {{t|pdt|Jeroch|n}}
+* Polish: {{t+|pl|zapach|m}}, {{t+|pl|woń|f}}, {{t+|pl|pach|m}} {{qualifier|dated}}
+* Portuguese: {{t+|pt|cheiro|m}}
+* Romanian: {{t+|ro|miros|n}}
+* Russian: {{t+|ru|за́пах|m}}, {{t+|ru|вонь|f}} {{qualifier|unpleasant}}, {{t+|ru|амбре́|n|tr=ambrɛ́}} {{qualifier|dated}}
+* Sanskrit: {{t+|sa|गन्ध|m}}
+* Santali: {{t|sat|ᱥᱳ|sc=Olck}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ми̏рӣс|m}}
+*: Roman: {{t+|sh|mȉrīs|m}}
+* Sicilian: {{t+|scn|ciauru|m}}
+* Sinhalese: {{t|si|සුවඳ}}
+* Slovak: {{t|sk|vôňa|f}}, {{t|sk|pach|m}}
+* Slovene: {{t+|sl|vonj|f}}
+* Spanish: {{t+|es|olor|m}}
+* Swahili: {{t+|sw|harufu}}
+* Swedish: {{t+|sv|lukt|c}}
+* Tabasaran: {{t|tab|ниъ}}
+* Tajik: {{t+|tg|бӯй}}
+* Tamil: {{t+|ta|வாசனை}}
+* Tatar: {{t+|tt|ис}}
+* Tausug: {{t|tsg|hamut}}, {{t|tsg|bahu}}
+* Telugu: {{t+|te|వాసన}}
+* Tetum: {{t|tet|horon}}
+* Thai: {{t+|th|กลิ่น}}
+* Tibetan: {{t|bo|དྲི་མ}}
+* Tocharian B: {{t|txb|were}}
+* Tok Pisin: {{t|tpi|smel}}
+* Turkish: {{t+|tr|koku}}
+* Turkmen: {{t|tk|ys}}
+* Udi: {{t|udi|ад}}
+* Ukrainian: {{t|uk|за́пах|m}}, {{t|uk|пах|m}} {{qualifier|dialectal}}
+* Urdu: {{t|ur|بو|f|tr=bū}}
+* Uyghur: {{t|ug|پۇراق}}
+* Uzbek: {{t+|uz|hid}}, {{t+|uz|boʻy}}
+* Vietnamese: {{t+|vi|mùi}}, {{t+|vi|hơi}}
+* Volapük: {{t-needed|vo}}
+* Wakhi: {{t|wbl|vui}}
+* Yagnobi: {{t|yai|вуд}}
+* Yiddish: {{t|yi|שמעק|m}}
+* Zazaki: {{t+|zza|boy}}
+* Zhuang: {{t|za|feihdauh}}
+{{trans-bottom}}
 
-=====Translations=====
-*Dutch: [[ruiken]] (1)
-*Finnish: [[haistaa]] (1)
-*German: [[riechen]] (1)
-*Romanian: [[mirosi]] (1)
-*Swedish: [[lukta]] (1)
-*Spanish:[[oler]] (1)
-====Intransitive====
-[[Category:English intransitive verbs]]
-# to disperse substances that can be smelled 
-#:''The roses smell lovely.''
+{{trans-top|sense of smell}}
+* Albanian: {{t+|sq|erë}}
+* Arabic: {{t|ar|شَمّ|m}}
+* Armenian: {{t+|hy|հոտառություն}}
+* Asturian: {{t|ast|olfatu|m}}, {{t|ast|agüeldu|m}}
+* Basque: {{t+|eu|usaimen}}
+* Belarusian: {{t|be|нюх|m}}
+* Bulgarian: {{t+|bg|обоня́ние|n}}, {{t+|bg|нюх|m}}, {{t+|bg|ми́рис|m}}
+* Burmese: {{t|my|ဂန္ဒါရုံ}}
+* Catalan: {{t+|ca|olfacte|m}}
+* Chinese:
+*: Cantonese: {{t|yue|嗅覺|sc=Hani}}, {{t|yue|嗅觉|tr=cau3 kok3|sc=Hani}}
+*: Mandarin: {{t+|cmn|嗅覺|sc=Hani}}, {{t+|cmn|嗅觉|tr=xiùjué|sc=Hani}}
+* Czech: {{t+|cs|čich|m}}
+* Danish: {{t+|da|lugtesans|c}}
+* Dutch: {{t+|nl|reukzin|m}}
+* Esperanto: {{t|eo|flarsenso}}
+* Estonian: {{t-needed|et}}
+* Finnish: {{t+|fi|hajuaisti}}
+* French: {{t+|fr|odorat|m}}
+* Galician: {{t+|gl|olfacto|m}}
+* Georgian: {{t|ka|ყნოსვა}}
+* German: {{t+|de|Geruchssinn|m}}, {{t+|de|Riechen|n}}
+* Greek: {{t+|el|όσφρηση|f}}
+*: Ancient Greek: {{t|grc|ὀσμή|f}}, {{t|grc|ὀδμή|f}}
+* Hebrew: {{t|he|חוש הריח|m|tr=khush ha-reykha|sc=Hebr}}
+* Hungarian: {{t+|hu|szaglás}}
+* Icelandic: {{t+|is|lyktarskyn|f}}
+* Italian: {{t+|it|olfatto}}, {{t+|it|odorato}}
+* Japanese: {{t+|ja|嗅覚|tr=きゅうかく, kyūkaku}}
+* Kabuverdianu: {{t|kea|txeru}}, {{t|kea|txere}}
+* Korean: {{t+|ko|후각}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|بۆن}}
+* Latgalian: {{t|ltg|ūža}}, {{t|ltg|paūsšona}}
+* Latvian: {{t|lv|oža|f}}
+* Lithuanian: {{t|lt|uoslė|f}}
+* Macedonian: {{t|mk|мирис|m}}, {{t|mk|[[сетило]] за [[мирис]]|n}}
+* Malayalam: {{t|ml|ഘ്രാണശക്തി|sc=Mlym}}
+* Mongolian: {{t|mn|үнэрлэх чадвар}}
+* Norwegian:
+*: Bokmål: {{t|nb|luktesans|m}}
+*: Nynorsk: {{t|nn|luktesans|m}}
+* Old English: {{t|ang|stenċ|m}}
+* Pashto: {{t|ps|بوى|m|tr=buy|sc=ps-Arab}}
+* Persian: {{t+|fa|بوی|tr=buy}}, {{t+|fa|بویایی}}
+* Polish: {{t+|pl|węch|m}}, {{t|pl|zmysł powonienia|m}}
+* Portuguese: {{t+|pt|olfato|m}}
+* Romanian: {{t+|ro|miros|n}}
+* Russian: {{t+|ru|обоня́ние|n}}, {{t+|ru|нюх|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|њу̑х|m}}
+*: Roman: {{t+|sh|njȗh|m}}
+* Slovak: {{t+|sk|čuch|m}}
+* Slovene: {{t|sl|voh|m}}
+* Spanish: {{t+|es|olfato|m}}
+* Swedish: {{t+|sv|luktsinne|n}}
+* Tajik: {{t|tg|шомма}}
+* Telugu: {{t+|te|వాసన}}
+* Ukrainian: {{t|uk|нюх|m}}
+* Vietnamese: {{t+|vi|khứu giác}}
+* Volapük: {{t+|vo|smeilasien}}
+* Walloon: {{t+|wa|oda}}
+{{trans-bottom}}
 
-=====Translations=====
-*Dutch: [[ruiken]] (1), [[geuren]] (1), [[stinken]] (1) (unpleasant)
-*Finnish: [[haista]] (1)
-*German: [[riechen]] (1), [[stinken]] (1 ''unpleasant'')
-*Romanian: [[mirosi]] (1)
-*Swedish: [[lukta]] (1)
+===Verb===
+{{en-verb|past2=smelt}}
 
-====Translations to be checked====
-*Esperanto: [[flari]]
-*Indonesian: [[cium|mencium]], [[bau|membaui]]
+# {{lb|en|transitive}} To [[sense]] a smell or smells.
+#: {{synonyms|en|detect|sense}}
+#: {{ux|en|I can '''smell''' fresh bread.}}
+#: {{ux|en|'''Smell''' the milk and tell me whether it's gone off.}}
+# {{lb|en|intransitive|copulative}} ''Followed by'' '''{{l|en|like}}''' ''or'' '''{{l|en|of}}''' ''if descriptive'': to have a particular smell, whether good or bad.
+#: {{synonyms|en|pong|q1=informal|reek|stink|whiff|q4=informal; these words refer to unpleasant smells}}
+#: {{ux|en|The roses '''smell''' lovely.}}
+#: {{ux|en|Her feet '''smell''' of cheese.}}
+#: {{ux|en|The drunkard '''smelt''' like a brewery.}}
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=8
+|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
+|passage=Philander went into the next room[...]and came back with a salt mackerel[...]. Next he put the mackerel in a fry-pan, and the shanty began to '''smell''' like a Banks boat just in from a v'yage.}}
+# {{lb|en|intransitive|without a modifier}} To smell bad; to [[stink]].
+#: {{ux|en|Ew, this stuff '''smells'''.}}
+# {{lb|en|intransitive|figurative}} To have a particular tincture or smack of any quality; to savour.
+#: {{ux|en|A report '''smells''' of calumny.}}
+#* {{RQ:Milton Eikonoklastes|passage=Praises in an enemy are superfluous, or '''smell''' of craft.}}
+# To detect or perceive; often with ''out''.
+#* {{RQ:Shakespeare Twelfth Night|act=II|scene=iii|passage=I '''smell''' a device.}}
+# {{lb|en|obsolete}} To give heed to.
+#* {{RQ:Latimer Lords Prayer|chapter=[The First Sermon]|folio=5|verso=1|passage=So from that tyme forwarde I began to '''ſmell''' the word of god, and forſoke the ſchole doctors and ſuch foolries.}}
+# {{lb|en|transitive}} To smell of; to have a smell of
+#* {{RQ:Shakespeare Tempest|act=IV|scene=i|passage=I do '''smell''' all horse-piss}}
 
-===Related terms===
-*[[smelly]]
-*[[sense of smell]]
-*[[smell a rat]]
+====Usage notes====
+* The sense “to smell bad, stink” is considered by some to be an incorrect (euphemistic) substitute for {{m|en|stink}}.
 
-===See also===
-*[[anosmia]]
-*[[sense]]
-*[[taste]]
+====Derived terms====
+{{col3|en
+|besmell
+|[[sense of smell]] (see [[olfaction]])
+|smell a rat
+|smell blood
+|smell like a rose
+|smell of an oily rag
+|smell test
+|smell the barn
+|smelly
+|[[smell ya later]], [[smell you later]]
+|wake up and smell the ashes
+|wake up and smell the coffee
+|wake up and smell the roses
+}}
 
-[[ru:Smell]]
-[[Category:1000 English basic words]]
+====Translations====
+{{trans-top|sense with nose}}
+* Arabic: {{t|ar|شَمَّ}}, {{t+|ar|اِشْتَمَّ}}
+*: Egyptian Arabic: {{t|arz|شم|tr=šamm}}
+* Armenian: {{t+|hy|հոտ քաշել}}, {{t+|hy|հոտ առնել}}, {{t+|hy|հոտոտել}} {{qualifier|intensively and repeatedly}}
+* Aromanian: {{t|rup|anjurdzescu}}, {{t|rup|njurzescu}}, {{t|rup|anjurzescu}}
+* Assamese: {{t|as|শুঙা}}
+* Asturian: {{t|ast|goliflar}}, {{t+|ast|goler}}, {{t|ast|goliquiar}}
+* Azerbaijani: {{t+|az|iyləmək}}
+* Basque: {{t|eu|usaindu}}
+* Belarusian: {{t|be|[[адчува́ць]] [[пах]]|impf}}, {{t|be|чуць|impf}}, {{t|be|ню́хаць|impf}}
+* Bengali: {{t|bn|গন্ধ পাওয়া|sc=Beng}}
+* Bulgarian: {{t+|bg|ду́ша|impf}}, {{t+|bg|мири́ша|impf}}
+* Burmese: {{t+|my|နမ်း|sc=Mymr}}
+* Catalan: {{t+|ca|olorar}}, {{t+|ca|odorar}}, {{t+|ca|ensumar}}, {{t+|ca|flairar}}
+* Chinese:
+*: Cantonese: {{t|yue|聞|sc=Hani}}, {{t|yue|闻|tr=man4|sc=Hani}}
+*: Mandarin: {{t+|cmn|聞|sc=Hani}}, {{t+|cmn|闻|tr=wén|sc=Hani}}, {{t+|cmn|嗅|tr=xiù|sc=Hani}}
+*: Min Dong: {{t|cdo|鼻|tr=bei|sc=Hani}}
+*: Min Nan: {{t+|nan|鼻|tr=phīⁿ|sc=Hani}}
+* Czech: {{t+|cs|cítit|impf}}, {{t|cs|čichat|impf}}
+* Danish: {{t|da|lugte}}
+* Dutch: {{t+|nl|ruiken}}
+* Esperanto: {{t+|eo|flari}}
+* Estonian: {{t+|et|haistma}}
+* Faroese: {{t+|fo|lukta}}
+* Finnish: {{t+|fi|haistaa}}
+* French: {{t+|fr|sentir}}, {{t+|fr|humer}}, {{t+|fr|flairer}}, {{t+|fr|odorer}}
+* Friulian: {{t|fur|sintî}}
+* Galician: {{t+|gl|cheirar}}
+* Georgian: {{t|ka|ყნოსვა}}
+* German: {{t+|de|riechen}}
+* Greek: {{t+|el|μυρίζω}}
+* Haitian Creole: {{t|ht|santi}}
+* Hebrew: {{t+|he|הריח|tr=heríakh}}
+* Hungarian: {{t+|hu|szagol}}, {{t+|hu|megszagol}}, {{t+|hu|érez}}
+* Icelandic: {{t+|is|lykt|alt=finna lykt(ina) af}}
+* Ido: {{t+|io|flarar}}
+* Indonesian: {{t+|id|mencium}}
+* Irish: {{t|ga|bolaigh}}
+* Italian: {{t+|it|sentire}} l'odore, {{t+|it|fiutare}}
+* Japanese: {{t+|ja|嗅ぐ|tr=かぐ, kagu}}, {{t|ja|[[匂い]]を[[感じる]]|tr=においをかんじる, nioi o kanjiru}}
+* Javanese: {{t+|jv|ngambu}}
+* Kabuverdianu: {{t|kea|txerá}}, {{t|kea|txera}}
+* Korean: {{t|ko|[[냄새]]를 [[맡다]]}}, {{t+|ko|맡다}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|بۆنکردن}}
+* Lao: {{t|lo|ດົມ}}
+* Latin: {{t|la|olefaciō}}, {{t|la|olfaciō}}
+* Latvian: {{t|lv|ost}}
+* Lithuanian: {{t+|lt|uosti}}
+* Macedonian: {{t|mk|намирисува|impf}}, {{t|mk|мириса|impf}}
+* Malay: {{t+|ms|hidu|alt=menghidu}}
+* Manx: {{t|gv|soar}}
+* Maori: {{t|mi|hongi}}, {{t|mi|hongihongi}}, {{t|mi|whakamono}}
+* Marathi: {{t|mr|वास घेणे}}
+* Mongolian: {{t+|mn|үнэрлэх}}
+* Nahuatl: {{t|nci|ihnecui}}
+* Navajo: {{t|nv|yishchin}}
+* Norwegian: {{t+|no|lukte}}
+* Occitan: {{t|oc|flairar}}
+* Old English: {{t|ang|ġestincan}}
+* Persian: {{t+|fa|بوییدن|tr=buyidan|sc=fa-Arab}}, {{t+|fa|انبوییدن|tr=anbuyidan|sc=fa-Arab}}, {{t+|fa|شنفتن|tr=šenoftan|sc=fa-Arab}}
+* Polish: {{t+|pl|wąchać|impf}}, {{t|pl|powąchać|pf}}
+* Portuguese: {{t+|pt|cheirar}}
+* Quechua: {{t|qu|mutkhiy}}
+* Rapa Nui: {{t|rap|hongi}}
+* Romanian: {{t+|ro|mirosi}}
+* Romansch: {{t|rm|odurar}}
+* Russian: {{t|ru|[[чу́вствовать]] [[за́пах]]|impf}}, {{t|ru|[[ощуща́ть]] [[за́пах]]|impf}}, {{t+|ru|обоня́ть|impf}}, {{t+|ru|чу́ять|impf}}, {{t+|ru|ню́хать|impf}}
+* Sanskrit: {{t+|sa|जिघ्रति}}
+* Santali: {{t|sat|ᱥᱳ}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мирѝсати|impf}}, {{t|sh|њу̏шити|impf}}
+*: Roman: {{t+|sh|mirìsati|impf}}, {{t+|sh|njȕšiti|impf}}
+* Sicilian: {{t+|scn|ciaurari}}
+* Slovak: {{t|sk|cítiť|impf}}, {{t|sk|čuchať|impf}}
+* Slovene: {{t|sl|vohati|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|cuś|impf}}
+* Spanish: {{t+|es|oler}}, {{t+|es|husmear}}
+* Sundanese: {{t+|su|ambung}}
+* Swedish: {{t+|sv|lukta}}
+* Tetum: {{t|tet|horon}}
+* Thai: {{t+|th|ดม}}
+* Tocharian B: {{t|txb|wär-sk-}}
+* Turkish: {{t+|tr|koklamak}}, {{t|tr|koku almak}}
+* Ukrainian: {{t|uk|ню́хати|impf}}, {{t|uk|чу́яти|impf}}, {{t+|uk|чу́ти|impf}} (но́сом)
+* Vietnamese: {{t+|vi|ngửi}}
+* White Hmong: {{t|mww|hnia}}
+* Yiddish: {{t|yi|שמעקן}}
+* Zazaki: {{t|zza|boy kerden}}
+* Zealandic: {{t|zea|ruke}}
+* ǃXóõ: {{t|nmn|ta̰ã}}
+{{trans-bottom}}
+
+{{trans-top|to have a particular smell, whether good or bad; if descriptive, followed by "like" or "of"}}
+* Arabic: {{t|ar|شَمَّمَ}}
+* Armenian: {{t|hy|[[հոտ]] [[արձակել]]}}, {{t|hy|[[հոտ]] [[ունենալ]]}}, {{t+|hy|բուրել}} {{qualifier|pleasant}}
+* Azerbaijani: {{t|az|qoxumaq}}, {{t|az|[[iyi]] [[gəlmək]]}}, {{t|az|qoxulanmaq}}
+* Belarusian: {{t|be|па́хнуць|impf}}
+* Bulgarian: {{t+|bg|мири́ша|impf}}
+* Catalan: {{t+|ca|flairar}}, {{t|ca|fer olor a}}
+* Cherokee: {{t|chr|ᎠᏒᎦ}}
+* Chinese:
+*: Mandarin: {{t|cmn|[[發出]][[氣味]]|sc=Hani}}, {{t|cmn|[[发出]][[气味]]|tr=fāchū qìwèi|sc=Hani}}
+* Czech: {{t+|cs|vonět|impf}}, {{t|cs|[[být]] [[cítit]]}}, {{t+|cs|páchnout|impf}}
+* Danish: {{t|da|lugte}}, {{t|da|dufte}} {{qualifier|pleasant}}, {{t|da|stinke}} {{qualifier|unpleasant}}
+* Dutch: {{t+|nl|ruiken}}, {{t+|nl|geuren}}, {{t+|nl|stinken}} {{qualifier|unpleasant}}
+* Esperanto: {{t+|eo|odori}}
+* Estonian: {{t|et|lõhnama}}
+* Finnish: {{t+|fi|tuoksua}} {{qualifier|pleasant}}, {{t+|fi|haista}} {{qualifier|usually unpleasant}}, {{t+|fi|löyhkätä}} {{qualifier|unpleasant}}, {{t+|fi|lemuta}} {{qualifier|unpleasant}}, {{t|fi|döfätä}} {{qualifier|slang}}
+* French: {{t+|fr|sentir}}, {{t+|fr|exhaler}}, {{t+|fr|fleurer}}
+* Galician: {{t+|gl|cheirar}}
+* Georgian: {{t|ka|[[სუნის]] [[დენა]]}}
+* German: {{t+|de|riechen}}, {{t+|de|stinken}} {{gloss|unpleasant smell}}
+* Greek: {{t+|el|μυρίζω}}
+*: Ancient: {{t|grc|ὄζω}}
+*: Doric: {{t|grc|ὄσδω}}
+* Hungarian: {{t+|hu|illatozik}} {{qualifier|pleasant}}, {{t+|hu|bűzlik}} {{qualifier|unpleasant}}, {{t+|hu|szagú}}, {{t|hu|illatú}}, {{t|hu|… [[szaga]] [[van]]}}, {{t|hu|… [[illata]] [[van]]}}
+* Icelandic: {{t+|is|lykta}}
+* Ido: {{t+|io|odorar}}
+* Indonesian: {{t+|id|berbau}}
+* Italian: {{t+|it|odorare}}
+* Japanese: {{t+|ja|匂う|tr=におう, niou}}
+* Javanese: {{t+|jv|mambu}}
+* Kazakh: {{t|kk|аңку}}, {{t|kk|иістену}}, {{t|kk|[[иіс]] [[шығу]]}}
+* Khmer: {{t|km|ក្លិនល្អ|tr=klən l’ɑɑ|sc=Khmr}} {{qualifier|smell nice}}, {{t|km|ក្លិនក្រអូប|tr=klən krɑ’oop|sc=Khmr}} {{qualifier|smell nice}}, {{t|km|ក្លិនមិនល្អ|tr=klən mɨn l’ɑɑ|sc=Khmr}} {{qualifier|smell bad}}, {{t|km|ក្លិនអាក្រក់|tr=klən aakrɑk|sc=Khmr}} {{qualifier|smell bad}}, {{t+|km|ធុំ}}
+* Korean: {{t|ko|[[냄새]]가 [[나다]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|بۆن}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|жыттануу}}
+* Latin: {{t|la|oleō}}, {{t|la|fragrō}}
+* Latvian: {{t|lv|ost}}
+* Lithuanian: {{t+|lt|uosti}}
+* Macedonian: {{t|mk|мириса|impf}}
+* Manx: {{t|gv|soar}}
+* Maori: {{t|mi|konakona}}
+* Navajo: {{t|nv|honishchin}}
+* Norwegian: {{t+|no|lukte}}, {{t|no|stinke}} {{qualifier|unpleasant}}
+* Old English: {{t|ang|stincan}}
+* Persian: {{t|fa|بو داشتن|tr=bu dâštan|sc=fa-Arab}}
+* Polish: {{t+|pl|pachnieć|impf}}, {{t|pl|wonieć|impf}}
+* Portuguese: {{t+|pt|cheirar}}
+* Quechua: {{t|qu|q'apay}}
+* Romanian: {{t+|ro|mirosi}}
+* Romansch: {{t|rm|odurar}}, {{t|rm|savurar|alt=savurar da}}
+* Russian: {{t+|ru|па́хнуть|impf}}
+* Santali: {{t|sat|ᱥᱳ}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мирѝсати|impf}}, {{t|sh|дишати|impf}} {{qualifier|Kajkavian}}
+*: Roman: {{t+|sh|mirìsati|impf}}, {{t|sh|dišati|impf}} {{qualifier|Kajkavian}}
+* Slovak: {{t|sk|voňať|impf}}, {{t|sk|páchnuť|impf}}
+* Slovene: {{t|sl|vonjati|impf}}, {{t|sl|dišati|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wónjaś|impf}}
+*: Upper Sorbian: {{t+|hsb|wonjeć|impf}}
+* Spanish: {{t+|es|oler}} a
+* Swedish: {{t+|sv|lukta}}, {{t+|sv|dofta}} {{qualifier|pleasant}}, {{t+|sv|stinka}} {{qualifier|unpleasant}}
+* Tajik: {{t|tg|бӯй додан}}
+* Thai: {{t|th|[[มี]][[กลิ่น]]|tr=mii glìn}}
+* Tocharian B: {{t|txb|wär-sk-}}
+* Turkish: {{t+|tr|kokmak}}
+* Turkmen: {{t|tk|yslamak}}
+* Ukrainian: {{t|uk|па́хнути|impf}}
+* Uzbek: {{t|uz|[[hid]] [[chiqarmoq]]}}, {{t|uz|[[is]] [[chiqarmoq]]}}
+* Vietnamese: {{t|vi|[[có]] [[mùi]]}}
+* Zazaki: {{t|zza|boy amayen}}
+* Zealandic: {{t|zea|stienke}} {{q|bad}}
+{{trans-bottom}}
+
+{{trans-top|detect or perceive}}
+{{trans-mid}}
+* Finnish: {{t+|fi|haistaa}}, {{t+|fi|aavistaa}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{t+check|eo|flari}}
+{{trans-mid}}
+* Indonesian: {{t+check|id|cium|alt=mencium}}, {{t+check|id|bau|alt=membaui}}
+{{trans-bottom}}
+
+====See also====
+*{{l|en|anosmia}}
+*{{l|en|sense}}
+
+===References===
+* {{R:Century 1911}}
+* {{R:Webster 1913}}
+
+===Anagrams===
+* {{anagrams|en|a=ellms|Mells|Mlles|mells}}
+
+[[Category:English irregular verbs]]
+[[Category:en:Smell]]
+
+----
+
+==Icelandic==
+
+===Verb===
+{{head|is|verb form}} {{qualifier|strong}}
+
+# {{verb form of|is|smella||1s|pres|ind}}
+# {{verb form of|is|smella||2s|imp}}
+
+===Verb===
+{{head|is|verb form}} {{qualifier|weak}}
+
+# {{verb form of|is|smella||2s|imp}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+From the verb {{m|nb|smelle}}.
+
+===Noun===
+{{nb-noun-n1}} {{-}}
+{{head|nb|noun|g=m|definite singular|smellen|indefinite plural|smell|or|smeller|definite plural|smellene}}
+
+# a {{l|en|bang}} {{qualifier|sudden loud noise}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{IPA|no|/smɛlː/}}
+
+===Etymology 1===
+From the verb {{m|nn|smelle}}.
+
+====Noun====
+{{nn-noun-n1}} {{-}}
+{{nn-noun-m1}}
+
+# a {{l|en|bang}} {{qualifier|sudden loud noise}}
+
+===Etymology 2===
+
+====Noun====
+{{nn-noun-m1}}
+
+# a {{l|en|knock}}, an {{l|en|impact}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
