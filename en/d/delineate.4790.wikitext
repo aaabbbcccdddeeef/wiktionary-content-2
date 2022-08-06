@@ -1,23 +1,103 @@
-=== Etymology ===
-From Latin prefix '''[[de-]]''' + '''[[linea]]''', ''line'', ''thread''.
+==English==
+
+===Etymology===
+From {{uder|en|la|dēlīneātus}}, past participle of {{m|la|dēlīneo||to sketch out, to delineate}}, from {{m|la|de-|}} + {{m|la|līnea||line}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|en|/dɪˈlɪniːeɪt/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-delineate.wav|Audio (UK)}}
 
 ===Verb===
-'''to delineate'''
+{{en-verb}}
 
-# sketch out, draw or trace an outline. 
-# depict, represent with pictures. 
-# describe or depict with words or gestures.
-# outline or markout.
+# To [[sketch out]], [[draw]] or [[trace]] an outline.
+# To [[depict]], [[represent]] with pictures.
+# To [[describe]] or depict with words or gestures.
+# To [[outline]] or [[mark out]].
 
-==== Translations ====
-*Dutch: [[aflijnen]], [[uittekenen]]
-*[[Interlingua]]: [[delinear]]
-*Italian: [[delineare]]
-*Spanish: [[delinear]]
+====Synonyms====
+* {{sense|to mark the limits or boundaries}} {{l|en|demark}}, {{l|en|demarcate}}, {{l|en|delimit}}
 
-=== See also ===
-*[[delineation]]
-*[[delineative]]
-*[[delineator]]
+====Derived terms====
+* {{l|en|delineation}}
+* {{l|en|delineative}}
+* {{l|en|delineator}}
 
-[[it:delineate]]
+====Translations====
+{{trans-top|sketch out, draw or trace an outline}}
+* Bulgarian: {{t+|bg|очертавам}}
+* Dutch: {{t+|nl|afbakenen}}
+* Finnish: {{t+|fi|hahmotella}}
+* French: {{t+|fr|délinéer}}
+{{trans-mid}}
+* German: {{t+|de|umreißen}}
+* Romanian: {{t+|ro|schița}}, {{t+|ro|contura}}
+* Spanish: {{t+|es|delinear}}
+* Swedish: {{t+|sv|skissera}}
+{{trans-bottom}}
+
+{{trans-top|depict, represent with pictures}}
+* Bulgarian: {{t+|bg|скицирам}}
+* Finnish: {{t+|fi|kuvata}}
+* German: {{t+|de|skizzieren}}
+{{trans-mid}}
+* Irish: {{t|ga|dreach}}
+* Turkish: {{t+|tr|resmetmek}}
+{{trans-bottom}}
+
+{{trans-top|describe or depict with words or gestures}}
+* Bulgarian: {{t+|bg|обрисувам}}
+* Dutch: {{t+|nl|uiteenzetten}}, {{t+|nl|schilderen}}
+* Finnish: {{t+|fi|kuvailla}}
+{{trans-mid}}
+* French: {{t+|fr|décrire}}
+* German: {{t+|de|schildern}}
+* Irish: {{t|ga|ríomh}}
+* Turkish: {{t+|tr|betimlemek}}, {{t+|tr|tasvir etmek}}, {{t+|tr|tarif etmek}}
+{{trans-bottom}}
+
+{{trans-top|outline or mark out}}
+* Finnish: {{t+|fi|rajata}}
+{{trans-mid}}
+* German: {{t+|de|abgrenzen}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{t+|nl|aflijnen}}, {{t+|nl|uittekenen}}
+* French: {{t+|fr|délimiter}}
+* Interlingua: {{t|ia|delinear}}
+{{trans-mid}}
+* Italian: {{t+|it|delineare}}
+* Spanish: {{t+|es|delinear}}
+{{trans-bottom}}
+
+====Further reading====
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+----
+
+==Italian==
+
+===Etymology 1===
+
+====Verb====
+{{head|it|verb form}}
+
+# {{inflection of|it|delineare||2|p|pres|indc|;|2|p|impr}}
+
+===Etymology 2===
+
+====Participle====
+{{head|it|past participle form|g=f-p}}
+
+# {{feminine plural of|it|delineato}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|dēlīneāte}}
+
+# {{inflection of|la|dēlīneō||2|p|pres|actv|impr}}
