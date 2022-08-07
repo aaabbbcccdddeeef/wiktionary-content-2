@@ -136,7 +136,7 @@ Compare {{cog|ryu|心|tr=kukuru}}.
 #: {{ja-usex-inline|'''心'''がない|'''こころ''' が ない|lacking sympathy and consideration}}
 # a [[meaning]], [[essence]]
 #: {{ja-usex-inline|その'''心'''が分かっていない|その '''こころ''' が わかっていない|not understanding what it really means}}
-# an [[answer]] {{gl|for example, to a [[riddle]]}}
+# an [[answer]] {{gl|to a [[riddle]], etc.}}
 #: {{ja-usex-inline|その'''心'''は|その '''こころ''' は|the answer is}}
 # the [[heart]] as an [[organ]] in the [[body]]
 #: {{syn|ja|心臓|tr=shinzō}}
@@ -167,17 +167,13 @@ Cognate with {{m|ja|裏|tr=ura||[[inside]]}} and {{m|ja|浦|tr=ura||[[inlet]]}}.
 
 # a [[heart]], [[inner]] [[feeling]]s
 
-=====Derived terms=====
-* {{ja-r|占|うら|rom=-}}, {{ja-r|卜|うら|[[divination]], [[fortunetelling]]}}
-* {{ja-r|心もなし|うら も なし}}
-
 ====Prefix====
 {{ja-pos|prefix|うら}}
 
-# ''expresses [[heartfelt]] [[feeling]]''
+# {{n-g|expresses [[heartfelt]] [[feeling]]}}
 
 =====Derived terms=====
-* {{ja-r|心%寂しい|うら%さびし.い|rom=-}}, {{ja-r|心%淋しい|うら%さびし.い}}
+* {{see derivation subpage|Ura}}
 
 ===Etymology 3===
 {{ja-kanjitab|しん|yomi=o|alt=芯:center}}
@@ -278,26 +274,52 @@ From {{der|ko|ltc|sort=심|-}} {{ltc-l|心}}.
 |kun=くくる-
 }}
 
-===Etymology===
-{{ryu-kanjitab|くくる|yomi=kun}}
+===Etymology 1===
+{{ryu-kanjitab|くくる|yomi=k}}
+
+From {{inh|ryu|jpx-ryu-pro|sort=くくる|*kokoro}}.
 
 Cognate with mainland {{cog|ja|心|tr=kokoro}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} く{{ja-accent/high|くる}} {{monospace|[kùkúrú]}} ({{ll|ja|平板型|Heiban}} - [0])
 * {{IPA|ryu|[kukuɾu]|sort=くくる}}
 
-===Noun===
+====Noun====
 {{ryu-noun|くくる}}
 
 # a [[heart]], [[mind]], [[spirit]]
+#: {{syn|ryu|肝|tr=chimu}}
 
-====Derived terms====
+=====Derived terms=====
 * {{see derivation subpage|Kukuru}}
+
+===Etymology 2===
+{{ryu-kanjitab|しん|yomi=o|alt=芯}}
+
+From {{der|ryu|ltc|sort=しん|-}} {{ltc-l|心}}.
+
+====Pronunciation====
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} し{{ja-accent/high|ん}} {{monospace|[shìn]}} ({{ll|ja|平板型|Heiban}} - [0])
+* {{IPA|ryu|[ɕiɴ]|sort=しん}}
+
+====Noun====
+{{ryu-noun|しん}}
+
+# the [[center]]
+# {{ja-def|心|芯}} the [[core]]
+# {{ja-def|芯}} a [[wick]]
+# a [[heart]], [[mind]], [[spirit]]
+
+=====Derived terms=====
+* {{see derivation subpage|Shin 2}}
 
 ----
 
 ==Old Japanese==
+
+===Compounds===
+* {{m|ojp|田心姫|tr=Tago<sub>2</sub>ri-pi<sub>1</sub>me<sub>1</sub>}}
 
 ===Etymology 1===
 From {{inh|ojp|jpx-pro|*kəkərə|sort=こころ}}.
@@ -311,34 +333,31 @@ From {{inh|ojp|jpx-pro|*kəkərə|sort=こころ}}.
 #*: {{ux|ojp|麻可奈思美奴禮婆許登爾豆佐禰奈敝波'''己許呂'''乃緖呂爾能里弖可奈思母|tr=ma-kanasimi<sub>1</sub> nureba ko<sub>2</sub>to<sub>2</sub> ni du sanenape<sub>1</sub>ba '''ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>''' no<sub>2</sub> woro<sub>2</sub> ni no<sub>2</sub>rite kanasi mo}}
 
 =====Derived terms=====
-* {{m|ojp|吾が心|tr=aga ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>}}
+* {{see derivation subpage|Ko2ko2ro2}}
 
 =====Descendants=====
 * {{desc|ja|心|tr=kokoro}}
 
 ===Etymology 2===
-{{rfe|ojp|sort=ここり}}
+Possibly the eastern dialect form or a misreading of ''ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>'' above.
 
 ====Noun====
 {{head|ojp|noun|tr=ko<sub>2</sub>ko<sub>2</sub>ri|kana|ここり|sort=ここり}}
 
-# {{lb|ojp|sort=ここり|regional|Eastern Old Japanese}} a[[heart]], [[mind]], [[spirit]]
-# {{lb|ojp|sort=ここり|regional|Eastern Old Japanese}} a [[emotion]], [[feeling]]
+# {{lb|ojp|sort=ここり|regional|Southern Eastern Old Japanese}} {{n-g|Same as {{m|ojp||コ<sup>乙</sup>コ<sup>乙</sup>ロ<sup>乙</sup>|tr=ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>}} above}}
+#* {{RQ:Man'yōshū|20|4390}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man20Yo.html#4390 here]
+#*: {{ux|ojp|[[群玉の|牟浪他麻乃]]久留爾久枳作之加多米等之以母加'''去去里'''波阿用久奈米加母|tr=muratama no<sub>2</sub> kuru ni kugi<sub>1</sub> sasi katame<sub>2</sub>to<sub>2</sub>si imo ka '''ko<sub>2</sub>ko<sub>2</sub>ri''' pa ayo<sub>1</sub>ku name<sub>2</sub> ka mo}}
 
-=====Derived terms=====
-* {{m|ojp|田心姫|tr=Tago<sub>2</sub>ri-pi<sub>1</sub>me<sub>1</sub>}}
+=====Usage notes=====
+Given this Eastern reflex, some scholars interpret the {{m|ojp||里}} as {{IPAfont|⟨ro<sub>2</sub>⟩}} rather than {{IPAfont|⟨ri⟩}}, thus giving the impression that the term is the same ''ko<sub>2</sub>ko<sub>2</sub>ro<sub>2</sub>'' used in other attestations. {{rfv-etym|ojp|sort=ここり}}
 
 ===Etymology 3===
-Cognate with {{m|ojp|裏|tr=ura|t=inside}} and {{m|ojp|浦|tr=ura|t=inlet}}.
+Cognate with {{m|ojp|裏|tr=ura||[[inside]]}} and {{m|ojp|浦|tr=ura||[[inlet]]}}.
 
 ====Noun====
 {{head|ojp|noun|tr=ura|kana|うら|sort=うら}}
 
 # [[heart]], [[inner]] [[feeling]]s
-
-=====Derived terms=====
-* {{m|ojp|[[占]], [[卜]]|tr=ura||[[divination]], [[fortunetelling]]}}
-* {{m|ojp|心もなし|tr=ura mo nasi}}
 
 =====Descendants=====
 * {{desc|ja|心|tr=ura}}
@@ -346,7 +365,7 @@ Cognate with {{m|ojp|裏|tr=ura|t=inside}} and {{m|ojp|浦|tr=ura|t=inlet}}.
 ====Prefix====
 {{head|ojp|prefix|tr=ura-|kana|うら|sort=うら}}
 
-# {{n-g|prefixed to terms to express a [[heartfelt]] [[feeling]]}}
+# {{n-g|expresses [[heartfelt]] [[feeling]]}}
 
 ===References===
 <references/>
