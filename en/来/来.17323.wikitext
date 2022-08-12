@@ -30,75 +30,134 @@ Variant of {{l|mul|來}}.
 ===Kanji===
 {{ja-kanji|grade=2|rs=木03|kyu=來}}
 
-# to [[come]]
-
 ====Readings====
 {{ja-readings
 |goon=らい
 |kanon=らい
-|kun=く-る, きた-る, きた-す, き-たる, き-たす
-|nanori=き
+|kun=く-る, きた-る, きた-す
+|nanori=き, こ, な, ゆき
 }}
 
 ====Compounds====
-{{attention|ja|Compounds need substantial expansion.}}
-{{der-top|Compounds}}
-* {{ja-r|外来%語|がいらい%ご}}
-* {{ja-r|招%来|しょう%らい}}
-* {{ja-r|当来|とうらい|[[afterlife]]}}
-* {{ja-r|到来|とうらい|[[arrival]]; [[beginning]], [[start]]}}
-* {{ja-r|淘来|とうらい|[[washing]] [[near]]}}
-* {{ja-r|未%来|み%らい|[[future]]}}
-* {{ja-r|来月|らいげつ}}
-{{der-mid}}
-* {{ja-r|来迎|らいごう}}
-* {{ja-r|来日|らいじつ}}
-* {{ja-r|来週|らいしゅう}}
-* {{ja-r|来%世|らい%せ}}
-* {{ja-r|来年|らいねん}}
-* {{ja-r|来賓|らいひん}}
-* {{ja-r|来歴|らいれき}}
-{{der-bottom}}
+* {{ja-r|再来|さらい-}}
+* {{ja-r|出来|しゅったい}}
 
 ===Etymology 1===
 {{ja-kanjitab|らい|yomi=on}}
-From {{bor|ja|ltc|來|tr=*ləi|sort=らい}}. Compare modern {{cog|cmn|-}} {{zh-m|來}}.
+From {{der|ja|ltc|sort=らい|-}} {{ltc-l|來}}.
+
+Compare modern {{cog|cmn|-}} {{zh-m|來}}.
 
 ====Pronunciation====
-{{ja-pron|らい|y=on}}
+{{rfv-pron|ja|sort=らい}}
+{{ja-pron|らい|acc=1}}
 
 ====Prefix====
-{{ja-pos|prefix|らい|kyu=來}}
+{{ja-pos|prefix|らい}}
 
-# [[next]], [[coming]] (week, year, etc.)
-#*: {{ja-usex|'''来'''年、 '''来'''週|'''らい'''ねん、 '''らい'''しゅう|'''next''' year, '''next''' week}}
-#*: {{ja-usex|'''来'''週 月%曜%日 に 会いましょう。|'''らい'''しゅう げつ%よう%び に あいましょう。|Let's meet Monday '''next'''. / Let's meet this '''coming''' Monday.}}
+# [[next]]..., [[coming]]...
 
-====Proper noun====
-{{ja-pos|proper|らい|kyu=來}}
-
-# {{surname|ja|sort=らい}}
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|来%夏|らい%か}}
+* {{ja-r|来%月|らい%げつ}}
+* {{ja-r|来%日|らい%じつ}}
+* {{ja-r|来%秋|らい%しゅう}}
+* {{ja-r|来%週|らい%しゅう}}
+* {{ja-r|来%春|らい%しゅん}}
+* {{ja-r|来%冬|らい%とう}}
+* {{ja-r|来%年|らい%ねん}}
+* {{ja-r|来%春|らい%はる}}
+{{der-bottom}}
 
 ====Suffix====
-{{ja-pos|suffix|らい|kyu=來}}
+{{ja-pos|suffix|らい}}
 
-# [[since]], [[in]] (a span of time)
-#*: {{ja-usex|この 二、 三年'''来'''、 私 は 青森%市 へ 二、 三度 行った が、...|^この に、 さんねん-'''らい'''、 わたし は ^あおもり-%し へ に、 さんど いった が、...|I went to Aomori two or three times '''in''' the past two or three years, ...}}<ref>'''1944''', Osamu Dazai, 「津軽」(''Tsugaru''), republished 2006, Gutenberg 21 (http://www.gutenberg21.co.jp/ - website in Japanese)</ref>
+# [[since]]..., [[in]]...
+#* '''1944''', {{w|Osamu Dazai}}, ''[[w:ja:津軽 (小説)|Tsugaru]]''
+#*: {{ja-usex|この 二、 三%年'''来'''、 私 は 青%森%市 へ 二、 三%度 行った が...|^この に、 さん%ねん-'''らい'''、 わたし は ^あお%もり-%し へ に、 さん%ど いった が...|I went to Aomori two or three times '''in''' the past two or three years...}}
+
+====Affix====
+{{ja-pos|affix|らい}}
+
+# [[come|coming]], [[arrive|arriving]]
+# coming, [[approach]]ing, [[pass]]ing
+# from (some [[point]] in the) [[past]] to [[present]]
+# coming [[in time]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|来%意|らい%い}}
+* {{ja-r|来%客|らい%きゃく}}
+* {{ja-r|来%迎|らい%ごう}}
+* {{ja-r|来%書|らい%しょ}}
+* {{ja-r|来%状|らい%じょう}}
+* {{ja-r|来%信|らい%しん}}
+* {{ja-r|来%世|らい%せ}}
+* {{ja-r|来%日|らい%にち}}
+* {{ja-r|来%賓|らい%ひん}}
+* {{ja-r|来%訪|らい%ほう}}
+* {{ja-r|来%由|らい%ゆ}}
+* {{ja-r|来%歴|らい%れき}}
+* {{ja-r|以%来|い%らい}}
+* {{ja-r|遠%来|えん%らい}}
+* {{ja-r|往%来|おう%らい}}
+* {{ja-r|外%来|がい%らい}}
+* {{ja-r|元%来|がん%らい}}
+* {{ja-r|近%来|きん%らい}}
+* {{ja-r|古%来|こ%らい}}
+* {{ja-r|再%来|さい%らい}}
+* {{ja-r|在%来|ざい%らい}}
+* {{ja-r|爾%来|じ%らい}}
+* {{ja-r|襲%来|しゅう%らい}}
+* {{ja-r|従%来|じゅう%らい}}
+* {{ja-r|招%来|しょう%らい}}
+* {{ja-r|将%来|しょう%らい}}
+* {{ja-r|新%来|しん%らい}}
+* {{ja-r|生%来|せい%らい}}
+* {{ja-r|帰%来|き%らい}}
+* {{ja-r|去%来|きょ%らい}}
+* {{ja-r|光%来|こう%らい|rom=-}}, {{ja-r|高%来|こう%らい}}
+* {{ja-r|伝%来|でん%らい}}
+* {{ja-r|渡%来|と%らい}}
+* {{ja-r|当%来|とう%らい}}
+* {{ja-r|到%来|とう%らい}}
+* {{ja-r|淘%来|とう%らい}}
+* {{ja-r|年%来|ねん%らい}}
+* {{ja-r|舶%来|はく%らい}}
+* {{ja-r|飛%来|ひ%らい}}
+* {{ja-r|本%来|ほん%らい}}
+* {{ja-r|未%来|み%らい}}
+* {{ja-r|夜%来|や%らい}}
+* {{ja-r|由%来|ゆ%らい}}
+* {{ja-r|帰%去%来|き%きょ%らい}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|らい}}
+
+# {{surname|ja|sort=らい}}, ''especially'' of those [[descend]]ed from [[swordsmith]]s arriving from [[Goryeo]] around the mid-[[Kamakura]] [[period]]
 
 ===Etymology 2===
 {{ja-kanjitab|く|yomi=kun}}
-From {{inh|ja|ojp|-|sort=く}}. The verb ''ku'' is one of the few [[monosyllabic]] verb roots in Japanese. This developed into [[来る|''kuru'']] in modern Japanese.
 
-====Pronunciation====
-{{ja-pron|く|y=kun}}
+From {{inh|ja|ojp|sort=く|來|tr=ku}}.
 
 ====Verb====
-{{ja-verb|く|kyu=來}}
+{{ja-verb|く|tr=intrans|type=kahen}}
 
-# {{lb|ja|sort=く|obsolete}} to approach one's position from a remote location: to [[come]]
-#: Developed into {{ja-l|来る|くる|kuru}} in modern Japanese.
+# {{lb|ja|sort=く|archaic|obsolete}} to [[come]] {{gl|[[approach]] one’s [[position]] from a [[remote]] [[location]], ''specifically'' [[toward]]s the [[speaker]]}}
+# {{lb|ja|archaic|obsolete}} to [[go]] {{gl|to a [[direction]] or [[place]] far from the speaker but near the [[listener]]}}
+# {{lb|ja|archaic|[[suffix]]ed to the {{m|ja|連用形|tr=ren'yōkei||stem form}} of a verb}} to [[gradually]] [[begin]] to [verb]
 
-===References===
-<references/>
-* {{R:Kokugo Dai Jiten}}
-* {{R:Daijirin}}
+=====Conjugation=====
+{{ja-conj-bungo||irreg-k|sik=来}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|来る|くる|pos=modern form}}
+* {{ja-r|来す|きたす|linkto=きたす}}
+* {{ja-r|来る|きたる}}
+* {{ja-r|来%訪ふ|き%とぶらふ|rom=kitoburau}}
+* {{ja-r|帰り来|かえりく}}
+{{der-bottom}}
