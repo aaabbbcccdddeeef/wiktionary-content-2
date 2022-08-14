@@ -28,7 +28,9 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 {{Han etym}}
 {{Han compound|七|刀|ls=psc|c1=p|c2=s|t2=knife}}.
 
-===Pronunciation 1===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=qiē
 |m-s=qie2
@@ -58,10 +60,12 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 #: {{zh-syn|切換}}
 #: {{zh-x|輸入法 '''切{qiē}---來 切{qiē}---去''' 很 麻煩。|'''Switching back and forth''' between [[IME]]s all the time is so annoying.}}
 
-====Compounds====
+=====Compounds=====
 {{zh-der|fold=1|一刀切|互切互磋|公切線|公切面|刀切斧砍|刀切豆腐|切入|切分法|切分音|切削|切割|切口|切接法|切換|切斷|切片|切片檢查|切球|切碎|切磋|切磋琢磨|切線|切腹自殺|切除|切麵|割切|外公切線|外切多邊形|如切如磋|如砍瓜切菜一般|弦切角|橫切|熟切店|病理切片|白切肉|砍瓜切菜|縱切面|薄批細切|餘切|馬蹄刀瓢裡切菜}}
 
-===Pronunciation 2===
+===Etymology 2===
+
+====Pronunciation====
 {{zh-pron
 |m=qiè
 |c=cit3
@@ -74,7 +78,7 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 |w=4qiq
 |mc=2
 |oc=1,2
-|cat=a,v,adv,n,intj
+|cat=a,v,adv,n
 }}
 
 ====Definitions====
@@ -89,12 +93,13 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 # [[must]]; [[by all means]]
 # [[main]] [[point]]
 # {{lb|zh|phonetics}} {{zh-short|反切|[[fanqie]]}}
-# {{lb|zh|mostly|women's speech|colloquial}} {{n-g|An [[interjection]] [[convey]]ing a [[slight]] [[sense]] of [[disdain]] or [[dissatisfaction]].}}
 
-====Compounds====
+=====Compounds=====
 {{zh-der|不切實際|不真切|仁波切|令人切齒|倍感親切|切中|切中時弊|切切|切切實實|切切私語|切勿|切口|切合|切囑|切圓|切實|切對|切峻|切己|切心|切忌|切意|切愛|切末|切當|切盼|切結|切結書|切肩|切脈|切腳|切膚|切膚之痛|切至|切莫|切要|切角|切記|切診|切諫|切責|切身|切近|切鄰|切雲|切面|切音|切韻|切題|切骨|切骨之仇|切點|切齒|切齒咬牙|切齒拊心|切齒腐心|剛切|剴切|反切|咬牙切齒|嚴切|妥切|密切|密切追隨|密密切切|峻切|律切|心切|怒目切齒|急切|恨之切骨|悲切|悲喜交切|悲悲切切|悽切|情切|情詞懇切|意切言盡|意切辭盡|慘切|憤切|懇切|拊膺切齒|操切|攘袂切齒|明義理，切世用|會文切理|望聞問切|極切瞻韓|正切|殷切|求好心切|浮聲切響|淒切|深切|清切|激切|熱切|痛切|痛切心骨|痛心切齒|相切|真切|瞋目切齒|確切|私言切語|種切|端切|精切|緊切|義切中抱|苛切|要切|親切|診切|貼切|較切|迫切|迫切性|適切|關切|關切補詞|飢凍交切|飢寒交切}}
 
-===Pronunciation 3===
+===Etymology 3===
+
+====Pronunciation====
 {{zh-pron
 |m=qiè
 |dg=че2
@@ -111,10 +116,26 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 
 # {{zh-used|一切|[[all]]; [[every]]; [[everything]]; [[anything]]}}
 
-====Compounds====
+=====Compounds=====
 {{zh-der|一切|一切從簡|一切眾生|不顧一切|目空一切}}
 
-===Pronunciation 4===
+===Etymology 4===
+{{onomatopoeic|zh}}.
+
+====Pronunciation====
+{{zh-pron
+|m=qiè
+|cat=intj
+}}
+
+====Definitions====
+{{head|zh|hanzi}}
+
+# {{lb|zh|mostly|women's speech|colloquial}} {{n-g|An [[interjection]] [[convey]]ing a [[slight]] [[sense]] of [[disdain]] or [[dissatisfaction]].}}
+
+===Etymology 5===
+
+====Pronunciation====
 {{zh-pron
 |c=cit3
 |cat=adv
@@ -123,7 +144,7 @@ Note that in Chinese scripts (simplified/traditional), the left component is wri
 {{head|zh|hanzi}}
 
 # {{lb|zh|Cantonese}} to be [[in time]] for; in time
-#: {{zh-co|嚟得切|to {be able to) make it|C}}
+#: {{zh-co|嚟得切{cit3}|to (be able to) make it|C}}
 
 ===References===
 * {{R:yue:Hanzi}}
