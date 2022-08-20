@@ -14,18 +14,19 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
-===Etymology===
+===Etymology 1===
+{{zh-forms}}
 Compare {{cog|za|maz||what}}.
 
 {{rfe|zh|from {{zh-l|物|tr=-}}?}}
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=miē
 |c=mat1
 |c-t=mot2
+|mn=xm,qz,tw:mih
 |mn-t=mih4
 |ca=LL-Q9186-Justinrleung-乜.wav
 |cat=pron
@@ -34,7 +35,7 @@ Compare {{cog|za|maz||what}}.
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|Cantonese|Teochew|Hainanese}} [[what]]
+# {{lb|zh|Cantonese|Min Nan}} [[what]]
 #: {{zh-x|要 啲 乜？|'''What''' do you want?|C}}
 #: {{zh-x|愛 乜個？|tr=ain3 '''mih4''' gai5?|'''What''' do you want?|MN-T}}
 # {{lb|zh|Cantonese}} anything; everything
@@ -44,23 +45,25 @@ Compare {{cog|za|maz||what}}.
 # {{lb|zh|Cantonese}} {{n-g|Used at the beginning of a question to give a rhetorical effect.}}
 #: {{zh-x|乜 你 未 食飯 㗎{gaa4}？|So you haven't eaten yet?|C}}
 #: {{zh-x|乜 仲 未 有 佢 嘅 消息 咩？|So we still don't have any news about him?|C}}
-# {{lb|zh|dialectal Mandarin}} [[that]] <!--see https://books.google.com.hk/books?id=rIlVDwAAQBAJ&pg=PT137&dq=%E4%B9%9C%E9%92%B1&hl=zh-CN&sa=X&redir_esc=y&sourceid=cndr#v=onepage&q=%E4%B9%9C%E9%92%B1&f=false-->
-<!--see also 汪化云. 方言远指代词“乜、兀”的词源[J]. 汉字文化, 2007(4):50-52.-->
 
 =====Usage notes=====
-When used to mean "what", this word should always be immediately followed by a noun in Teochew. Otherwise, use 乜個.
+In Teochew, when used to mean "what", this word should always be immediately followed by a noun. Otherwise, use {{zh-l|乜個}}.
 
 =====Synonyms=====
 {{zh-dial|什麼}}
 {{zh-dial|為什麼}}
 
-===Pronunciation 2===
+====Compounds====
+{{zh-der|乜個|某乜人|何乜苦|乜嘢|乜誰|乜鬼|乜人|乜代|乜使}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
 |m=miē
 |c=me1,me2,me5
 |mn-t=mi1
-|mc=y
-|oc=y
 |cat=v
 }}
 
@@ -72,12 +75,17 @@ When used to mean "what", this word should always be immediately followed by a n
 ====Compounds====
 {{zh-der|乜乜屑屑|乜乜斜斜|乜乜踅踅|乜斜|乜斜眼|乜斜纏帳}}
 
-===Pronunciation 3===
+===Etymology 3===
+{{zh-forms}}
 {{zh-wp|zh:乜姓|yue:乜氏}}
+
+====Pronunciation====
 {{zh-pron
-|m=Niè
+|m=Niè,Miě
 |c=ne6
 |mn-t=nian7
+|mc=y
+|oc=y
 |cat=pn
 }}
 
@@ -85,6 +93,41 @@ When used to mean "what", this word should always be immediately followed by a n
 {{zh-hanzi}}
 
 # {{surname|zh}}, listed 388th in the ''[[w:Baijiaxing|Baijiaxing]]''.
+
+===Etymology 4===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{rfp|zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal Mandarin}} [[that]] <!--see https://books.google.com.hk/books?id=rIlVDwAAQBAJ&pg=PT137&dq=%E4%B9%9C%E9%92%B1&hl=zh-CN&sa=X&redir_esc=y&sourceid=cndr#v=onepage&q=%E4%B9%9C%E9%92%B1&f=false-->
+<!--see also 汪化云. 方言远指代词“乜、兀”的词源[J]. 汉字文化, 2007(4):50-52.-->
+
+=====Synonyms=====
+{{zh-dial|那}}
+
+===Etymology 5===
+{{zh-forms}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=me
+|cat=adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hakka}} [[also]]
+#* {{zh-x|無{mò}限 滿足 快樂 湧 自 心田　危險 中 乜{me} 毋 改變||H|ref={{lang|zh|客家聖樂團}}, [https://www.youtube.com/watch?v=2R-TliP64Eo {{lang|zh|上帝就係愛}}]}}
+
+=====Synonyms=====
+{{zh-dial|也}}
 
 ----
 
