@@ -12,7 +12,7 @@
 ----
 
 ==German==
-{{cardinalbox|de|4|5|6|vier|sechs|ord=fünfte}}
+{{number box|de}}
 
 ===Etymology===
 {{dercat|de|gmw-pro|gem-pro|ine-pro|inh=3}}
@@ -26,7 +26,7 @@ From {{inh|de|gmh|vünf}}, from {{inh|de|goh|fimf}}.  Formal cognates include {{
 ===Numeral===
 {{head|de|numeral}}
 
-# [[five]] {{gloss|numerical value represented by the Arabic numeral 5; or ''describing a set with five elements''}}
+# {{lb|de|cardinal}} [[five]] {{gloss|numerical value represented by the Arabic numeral 5; or ''describing a set with five elements''}}
 
 ====Coordinate terms====
 {{de-cardinals}}
@@ -43,5 +43,3 @@ From {{inh|de|gmh|vünf}}, from {{inh|de|goh|fimf}}.  Formal cognates include {{
 * {{R:UniLeipzig}}
 * {{R:Duden}}
 * {{pedia|lang=de}}
-
-{{cln|de|cardinal numbers|words ending in -nf}}
