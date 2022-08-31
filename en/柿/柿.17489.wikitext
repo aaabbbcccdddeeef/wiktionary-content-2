@@ -76,7 +76,7 @@ The current form is {{Han compound|木|市|c1=s|c2=p|ls=psc|nocap=1}}.
 }}
 
 ====Usage notes====
-* Not to be confused with {{m|ja|杮|tr=kokera||[[wood chip]]s}}
+* Not to be confused with {{m|ja|杮|tr=kokera||[[wood chip]]s}}.  Note that this kanji {{m|ja|柿|tr=kaki}} uses the character <span style="font-size:200%;">{{m|zh|市}}</span> as the right-hand portion, which consists of five strokes with two separate strokes for the central vertical.  Meanwhile, {{m|ja|杮|tr=kokera}} uses the character <span style="font-size:200%;">{{m|zh|巿}}</span> as the right-hand portion, which consists of four strokes with a single stroke for the central vertical.
 
 ===Etymology===
 <div style="float:right;">
@@ -85,19 +85,30 @@ The current form is {{Han compound|木|市|c1=s|c2=p|ls=psc|nocap=1}}.
 [[Image:Kaki2.jpg|thumb]]
 </div>
 {{ja-kanjitab|かき|yomi=k}}
-{{IPAfont|/kakayaki/}} → *{{IPAchar|/kakyaki/}} → *{{IPAchar|/kakaki/}} → *{{IPAchar|/kakki/}} → {{IPAchar|/kaki/}}
 
-Thought to be derived from {{m|ja|輝き|tr=kakayaki}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{w|Early Modern Japanese}} verb {{m|ja|輝く|tr=kakayaku||to [[shine]] [[dazzle|dazzingly]]|pos=obsolete}}, modern ''kagayaku''. {{rfv-etym|ja|sort=かき}}
+From {{inh|ja|ojp|sort=かき|-}}.  First cited in a text from 770.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+Further derivation uncertain.  Possibilities include:
+: {{IPAfont|/kakayaki/}} → *{{IPAchar|/kakyaki/}} → *{{IPAchar|/kakaki/}} → *{{IPAchar|/kakki/}} → {{IPAchar|/kaki/}}
+:* From {{m|ja|輝き|tr=kakayaki}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of {{w|Early Modern Japanese}} verb {{m|ja|輝く|tr=kakayaku||to [[shine]] [[dazzle|dazzingly]]|pos=obsolete}}, modern ''kagayaku''.<ref name="GYJ">[https://gogen-yurai.jp/kaki/ Entry in ''Gogen Yurai Jiten''] ("Etymology Derivation Dictionary"; in Japanese)</ref><ref name="NJ">[http://www.nihonjiten.com/data/45993.html Entry in ''Nihon Jiten''] (in Japanese)</ref>
+: {{IPAfont|/kataki/}} → {{IPAchar|/kaki/}}
+:* From {{m|ja|硬き|tr=kataki}}, the classical {{m|ja|連体形|tr=rentaikei||attributive form}} of modern {{m|ja|硬い|tr=katai||hard (not soft)}}, from the hardness of the unripened fruit.<ref name="GYJ"/>
+: {{IPAfont|/akaki/}} → {{IPAchar|/kaki/}}
+:* From {{m|ja|赤き|tr=akaki}}, the classical {{m|ja|連体形|tr=rentaikei||attributive form}} of modern {{m|ja|赤い|tr=akai||red}}, from the color of the ripened fruit.<ref name="GYJ"/><ref name="NJ"/>
+:* From {{m|ja|赤黄|tr=akaki||red-yellow}}, from the color of the ripened fruit.<ref name="GYJ"/>
+:* From {{m|ja|赤木|tr=akaki||red tree}}, from the color of the foliage in autumn.<ref name="GYJ"/><ref name="NJ"/>
+
+While at least one reference considers the ''akaki'' derivation more likely,<ref name="GYJ"/> this kind of phonological shift, wherein the first vowel disappears, is not a common pattern in attested Japanese.  That said, the ''kakayaki'' and ''kataki'' derivations are also problematic, considering the lack of any evidence for intermediary forms.
 
 ===Pronunciation===
-{{ja-pron|yomi=k|かき|acc=0|acc_ref=DJR,SMK2,NHK}}
+{{ja-pron|かき|acc=0|acc_ref=DJR,SMK5,NHK}}
 
 ===Noun===
 {{ja-noun|かき|カキ}}
 
-# a [[persimmon]], especially the [[Japanese persimmon]] (''{{ll|mul|Diospyros kaki}}'')
-# {{short for|ja|柿色|tr=kakiiro}} a [[yellow]]ish-[[red]] [[color]], like the [[fruit]] of the Japanese persimmon
-# a {{m|ja|布子|tr=nunoko||[[cotton]]-[[pad]]ed [[clothing]]}} [[dye]]d in ''kakiiro''
+# {{defdate|from 770}} a [[persimmon]], especially the [[Japanese persimmon]] (''{{ll|mul|Diospyros kaki}}'')
+# {{defdate|from 1170}} {{short for|ja|柿色|tr=kakiiro}} a [[yellow]]ish-[[red]] [[color]], like the [[fruit]] of the Japanese persimmon
+# {{defdate|from 1819}} a {{m|ja|布子|tr=nunoko||[[cotton]]-[[pad]]ed [[clothing]]}} [[dye]]d in ''kakiiro''
 #: {{synonyms|ja|柿衣|tr=kakiso}}
 
 ====Usage notes====
