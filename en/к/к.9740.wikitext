@@ -261,14 +261,14 @@ Although both {{m|sh|к}} and {{m|sh|ка}} can be used synonymously, {{m|sh|к}
 
 ==Ukrainian==
 
-====Etymology 1====
-
 ===Pronunciation===
 * {{qualifier|phoneme}} {{IPA|uk|/k/}}
 * {{qualifier|letter name}} {{uk-IPA|ка}}
 
+===Etymology 1===
+
 ====Letter====
-{{head|uk|letter|upper case|К}}
+{{head|uk|letter|lower case||upper case|К}}
 
 # {{Cyrl-def|uk|letter|15}}
 
@@ -277,10 +277,6 @@ Although both {{m|sh|к}} and {{m|sh|ка}} can be used synonymously, {{m|sh|к}
 
 ===Etymology 2===
 {{inh+|uk|sla-pro|*kъ(n)}}.
-
-====Alternative forms====
-* {{alter|uk|ік}}
-* {{alter|uk|ґ}}
 
 ====Pronunciation====
 * {{uk-IPA|к}}
@@ -292,6 +288,10 @@ Although both {{m|sh|к}} and {{m|sh|ка}} can be used synonymously, {{m|sh|к}
 # [[by]], [[for]] {{i|of time}}
 # [[against]] {{i|change of position}}
 
+====Alternative forms====
+* {{alter|uk|ік}}
+* {{alter|uk|ґ}}
+
 =====Synonyms=====
 * {{l|uk|до}}
 
@@ -299,5 +299,3 @@ Although both {{m|sh|к}} and {{m|sh|ка}} can be used synonymously, {{m|sh|к}
 * {{R:uk:SUJa|к}}
 * {{R:uk:SUM-11}}
 * {{R:uk:SUM-20}}
-
-[[Category:Ukrainian letters]]
