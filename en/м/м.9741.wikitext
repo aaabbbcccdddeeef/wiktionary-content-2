@@ -246,24 +246,28 @@ Italic Cyrillic letter Em - uppercase and lowercase.svg|Italics.
 
 ==Serbo-Croatian==
 
-===Alternative forms===
-* {{sense|uppercase}} {{l|sh|sc=Cyrl|М}}
+===Etymology 1===
 
-===Pronunciation===
+====Pronunciation====
 * {{qualifier|phoneme}} {{IPA|sh|/m/}}
 
-===Letter===
-{{sh-letter}}
+====Letter====
+{{sh-letter|upper=М}}
 
-# The 15th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|љ|sc=Cyrl}} and followed by {{l|sh|н|sc=Cyrl}}.
+# {{Cyrl-def|sh|letter|15}}
 
-===Noun===
+====See also====
+* {{list:Cyrillic script letters/sh}}
+
+===Etymology 2===
+
+====Noun====
 {{sh-noun}}
 
 # {{lb|sh|grammar}} [[masculine]] [[gender]]
 # [[meter]] (unit of length)
 
-[[Category:sh:Units of measure]]
+{{C|sh|Units of measure}}
 
 ----
 
