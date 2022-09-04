@@ -253,16 +253,16 @@ The phoneme {{IPAchar|/k/}} becomes {{IPAchar|/q/}} when adjacent to back vowels
 
 ===Etymology 1===
 
-====Alternative forms====
-* (''uppercase''): {{l|sh|К}}
-
 ====Pronunciation====
 * {{q|phoneme}} {{IPA|sh|/k/}}
 
 ====Letter====
-{{sh-letter}}
+{{sh-letter|upper=К}}
 
-# The 12th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|ј|sc=Cyrl}} and followed by {{l|sh|л|sc=Cyrl}}.
+# {{Cyrl-def|sh|letter|12}}
+
+====See also====
+* {{list:Cyrillic script letters/sh}}
 
 ===Etymology 2===
 From {{inh|sh|sla-pro|*kъ(n)}}, from {{der|sh|ine-pro|*kom}}.
