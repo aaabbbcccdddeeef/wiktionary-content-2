@@ -26,7 +26,7 @@
 * {{qualifier|phoneme}} {{IPA|be|/u/}}
 
 ====Letter====
-{{head|be|letter|upper case|У}}
+{{head|be|letter|lower case||upper case|У}}
 
 # {{Cyrl-def|be|letter|21}}
 
@@ -34,17 +34,7 @@
 * {{list:Cyrillic script letters/be}}
 
 ===Etymology 2===
-
-====Alternative forms====
-* {{l|be|ў}} {{qualifier|after vowels}}
-* {{l|be|ва}} {{qualifier|when the next word starts in ў, also before мне}}
-* {{l|be|ува}} {{qualifier|alternative form before мне, ўсіх, ўсім; according to the Taraškievica standard, may be used before any word starting with ў and is mandatory before мне, ўсё, ўсіх, ўсім, ўсенькім}}
-* {{l|be|ўва}} {{qualifier|according to the Taraškievica standard, is used after vowels before мне, ўсё, ўсіх, ўсім, ўсенькім}}
-
-===Etymology===
-Meanings 1 and 2: from {{inh|be|zle-obe|въ}}, from {{inh|be|orv|въ}}, from {{inh|be|sla-pro|*vъ(n)}}.
-
-Meaning 3: from {{inh|be|zle-obe|у}}, from {{inh+|ru|orv|у}}, from {{inh|ru|sla-pro|*u}}.
+From {{inh|be|zle-obe|въ}}, from {{inh|be|orv|въ}}, from {{inh|be|sla-pro|*vъ(n)}}.
 
 ====Pronunciation====
 * {{be-IPA}}
@@ -54,6 +44,22 @@ Meaning 3: from {{inh|be|zle-obe|у}}, from {{inh+|ru|orv|у}}, from {{inh|ru|sl
 
 # [[in]] (''+ [[locative case]]'')
 # [[to]], [[into]] (''+ [[accusative case]]'')
+
+=====Usage notes=====
+* {{U:be:у-ў|у}}
+
+=====Alternative forms=====
+* {{l|be|ў}} {{qualifier|after vowels}}
+* {{l|be|ва}} {{qualifier|when the next word starts in ў; also before мне}}
+* {{l|be|ува}} {{qualifier|before мне, ўсіх, ўсім; according to the Taraškievica standard, may be used before any word starting with ў and is mandatory before мне, ўсё, ўсіх, ўсім, ўсенькім}}
+* {{l|be|ўва}} {{qualifier|according to the Taraškievica standard, is used after vowels before мне, ўсё, ўсіх, ўсім, ўсенькім}}
+
+===Etymology 3===
+From {{inh|be|zle-obe|у}}, from {{inh+|ru|orv|у}}, from {{inh|ru|sla-pro|*u}}.
+
+====Preposition====
+{{head|be|preposition}}
+
 # [[at]], [[by]], [[near]], in the [[possession]] of (''+ [[genitive case]]'')
 
 =====Usage notes=====
