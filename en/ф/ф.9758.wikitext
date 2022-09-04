@@ -133,9 +133,9 @@ Italic Cyrillic letter Ef - uppercase and lowercase.svg|Italics.
 * {{s|letter name}} {{mk-IPA|ф}}
 
 ===Letter===
-{{head|mk|letter|upper case|Ф}}
+{{head|mk|letter|lower case||upper case|Ф}}
 
-# {{Cyrl-def|mk|letter|26}}
+# {{Cyrl-def|mk|letter|26|еф}}
 
 ===See also===
 * {{list:Cyrillic script letters/mk}}
