@@ -518,9 +518,12 @@ From {{bor|ru|cmn|彝|tr=yí}}.
 * {{q|phoneme}} {{IPA|sh|/i/}}
 
 ====Letter====
-{{sh-letter}}
+{{sh-letter|upper=И}}
 
-# The 10th letter of the Serbo-Croatian Cyrillic alphabet, preceded by {{l|sh|з|sc=Cyrl}} and followed by {{l|sh|ј|sc=Cyrl}}.
+# {{Cyrl-def|sh|letter|10}}
+
+====See also====
+* {{list:Cyrillic script letters/sh}}
 
 ===Etymology 2===
 From {{inh|sh|sla-pro|*i}}, from {{der|sh|ine-pro|*éy}}.
@@ -547,7 +550,6 @@ From {{inh|sh|sla-pro|*i}}, from {{der|sh|ine-pro|*éy}}.
 #: {{ux|sh|уморио сам се и нисам могао више играти кошарку|I grew tired, so I couldn't play basketball anymore|inline=1}}
 
 {{attention|sh|tone?}}
-<!--should be in Translingual section, when there is one-->
 
 ----
 
