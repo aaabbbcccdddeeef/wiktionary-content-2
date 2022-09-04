@@ -35,9 +35,12 @@ Italic Cyrillic letter Tse - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|ba|/t͡s/}}
 
 ===Letter===
-{{head|ba|letter|upper case|Ц}}
+{{head|ba|letter|lower case||upper case|Ц}}
 
-# ''The thirty-second letter of the [[Bashkir]] alphabet, used only in Russian borowings''
+# {{Cyrl-def|ba|letter|32}}
+
+====Usage notes====
+Only used in Russian borrowings.
 
 ===See also===
 * {{list:Cyrillic script letters/ba}}
