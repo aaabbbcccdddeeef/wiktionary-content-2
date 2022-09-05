@@ -222,9 +222,9 @@ Italic Cyrillic letter Ef - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/f/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Ф}}
+{{head|os|letter|lower case||upper case|Ф}}
 
-# ''The twenty-seventh letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|29}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
