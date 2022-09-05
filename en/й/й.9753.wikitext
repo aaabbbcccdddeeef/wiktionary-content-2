@@ -193,9 +193,9 @@ Italic Cyrillic letter short I - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/j/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Й}}
+{{head|os|letter|lower case||upper case|Й}}
 
-# ''The thirteenth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|15}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
