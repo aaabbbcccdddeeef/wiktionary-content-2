@@ -258,9 +258,9 @@ Italic Cyrillic letter El - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/l/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Л}}
+{{head|os|letter|lower case||upper case|Л}}
 
-# ''The sixteenth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|18}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
