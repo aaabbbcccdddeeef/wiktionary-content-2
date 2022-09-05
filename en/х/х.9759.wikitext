@@ -222,9 +222,9 @@ Italic Cyrillic letter Kha - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/χ/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Х}}
+{{head|os|letter|lower case||upper case|Х}}
 
-# ''The twenty-eighth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|30}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
