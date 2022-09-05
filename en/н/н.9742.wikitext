@@ -226,9 +226,9 @@ Italic Cyrillic letter En - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/n/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Н}}
+{{head|os|letter|lower case||upper case|Н}}
 
-# ''The eighteenth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|20}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
