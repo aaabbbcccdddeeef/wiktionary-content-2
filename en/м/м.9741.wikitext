@@ -241,9 +241,9 @@ Italic Cyrillic letter Em - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/m/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|М}}
+{{head|os|letter|lower case||upper case|М}}
 
-# ''The seventeenth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|19}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
