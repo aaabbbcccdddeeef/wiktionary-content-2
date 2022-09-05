@@ -243,9 +243,9 @@ Italic Cyrillic letter Ze - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/z~ʒ/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|З}}
+{{head|os|letter|lower case||upper case|З}}
 
-# ''The eleventh letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|13}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
