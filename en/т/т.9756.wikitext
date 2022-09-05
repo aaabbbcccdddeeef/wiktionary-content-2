@@ -241,9 +241,9 @@ Italic Cyrillic letter Te - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/t/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Т}}
+{{head|os|letter|lower case||upper case|Т}}
 
-# ''The twenty-fourth letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|26}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
