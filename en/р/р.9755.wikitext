@@ -226,9 +226,9 @@ Italic Cyrillic letter Er - uppercase and lowercase.svg|Italics.
 * {{qualifier|phoneme}} {{IPA|os|/r/}}
 
 ===Letter===
-{{head|os|letter|sc=Cyrl|upper case|Р}}
+{{head|os|letter|lower case||upper case|Р}}
 
-# ''The twenty-second letter of the [[Ossetian]] alphabet''
+# {{Cyrl-def|os|letter|24}}
 
 ===See also===
 * {{list:Cyrillic script letters/os}}
