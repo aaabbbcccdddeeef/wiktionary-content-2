@@ -88,7 +88,7 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 ==Bashkir==
 
 ===Pronunciation===
-* {{sense|phoneme}} {{IPA|ba|/ɑ/}}
+* {{sense|phoneme}} {{IPA|ba|/ɑ/|/ä/}}
 
 ===Letter===
 {{head|ba|letter|lower case||upper case|А}}
@@ -502,10 +502,10 @@ From {{inh|zle-ono|sla-pro|*a}}.
 ==Russian==
 
 ===Etymology 1===
-See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
-* {{ru-IPA}}
+* {{ru-IPA|а}} {{q|stressed}}
+* {{ru-IPA|ə}} {{q|unstressed}}
 * {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ====Letter====
@@ -597,7 +597,6 @@ Compare {{cog|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, 
 * {{IPA|sh|/a/}}
 
 ===Etymology 1===
-See [[#Translingual|Translingual section]].
 
 ====Letter====
 {{sh-letter|upper=А}}
