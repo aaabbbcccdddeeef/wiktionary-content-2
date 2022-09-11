@@ -659,15 +659,15 @@ Letter name: {{q|{{l|pt|esse}}}}
 ===Etymology 3===
 
 ====Noun====
-{{head|pt|noun}}
+{{pt-noun|m|-}}
 
 # {{abbreviation of|pt|segundo}}
 ## Used to indicate any sequence of time in seconds
-##: {{ux|pt|O atleta completou a corrida em 1{{l|pt|h}}20{{l|pt|min}}45'''s'''|The athlete completed the race in 1 hour, 21 minutes and 45 seconds}}
+##: {{ux|pt|O atleta completou a corrida em 1[[h]]20[[min]]45'''s'''|The athlete completed the race in 1 hour, 21 minutes and 45 seconds}}
 
 =====Usage notes=====
 * This abbreviation uses no spaces or points and must always follow a number.
-* This abbreviation is often preceded by a number followed by '''{{l|pt|m}}''', used to represent minutes, which can be in turn preceded by '''{{l|pt|h}}''', to represent hours.
+* This abbreviation is often preceded by a number followed by {{m|pt|m}}, used to represent minutes, which can be in turn preceded by {{m|pt|h}}, to represent hours.
 ** Example: ''20h43min08s''
 
 ----
