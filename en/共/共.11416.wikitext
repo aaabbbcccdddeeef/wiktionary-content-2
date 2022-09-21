@@ -235,7 +235,9 @@ Etymology not clear. An OC medial *r should be assumed if related to {{zh-l|*恭
 #: {{ja-usex|送%料%共|そう%りょう%-とも|including shipping fees, including postage}}
 
 ====Synonyms====
-* {{ja-r|込|こみ}}
+{{ja-r/multi|data=
+* {{ja-r/args|込|こみ}}
+}}
 
 ===Suffix===
 {{ja-pos|suffix|ども}}
@@ -243,16 +245,20 @@ Etymology not clear. An OC medial *r should be assumed if related to {{zh-l|*恭
 # indicates [[plural]]
 
 ====Synonyms====
-* {{ja-r|達|たち}}
+{{ja-r/multi|data=
+* {{ja-r/args|達|たち}}
+}}
 
 ====Usage notes====
 Affixing 共 to oneself indicates humbleness. Affixing 共 to other people is disrespectful compared to 達 (たち, -tachi).
 
 ===Related terms===
-* {{ja-r|其れ共|それとも}}
-* {{ja-r|共%食い|とも%ぐい}}
-* {{ja-r|共に|とも に}}
-* {{ja-r|共%稼ぎ|とも%かせぎ}}
+{{ja-r/multi|data=
+* {{ja-r/args|其れ共|それとも}}
+* {{ja-r/args|共%食い|とも%ぐい}}
+* {{ja-r/args|共に|とも に}}
+* {{ja-r/args|共%稼ぎ|とも%かせぎ}}
+}}
 
 ===References===
 <references/>
@@ -267,11 +273,13 @@ Affixing 共 to oneself indicates humbleness. Affixing 共 to other people is di
 # {{hanja form of|공|[[common]]; [[together]]}}
 
 ====Compounds====
-* {{ko-l|공산주의|共産主義}}
-* {{ko-l|공산주의자|共産主義者}}
-* {{ko-l|공동체|共同體}}
-* {{ko-l|공통점|共通點}}
-* {{ko-l|반공|反共}}
+{{ko-l/multi|data=
+* {{ko-l/args|공산주의|共産主義}}
+* {{ko-l/args|공산주의자|共産主義者}}
+* {{ko-l/args|공동체|共同體}}
+* {{ko-l/args|공통점|共通點}}
+* {{ko-l/args|반공|反共}}
+}}
 
 [[Category:CJKV radicals| ]]
 
