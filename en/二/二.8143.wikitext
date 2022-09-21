@@ -170,8 +170,10 @@ See [[兩#Usage notes|兩 - Usage notes]].
 }}
 
 ====Derived terms====
-* {{ja-r|二つ|ふたつ}}: ''noun'': [[two]], [[2]] (counting); two years old
-* {{ja-r|二けた|ふたけた}} ''noun'': two digits, double figures
+{{ja-r/multi|data=
+* {{ja-r/args|二つ|ふたつ}}: ''noun'': [[two]], [[2]] (counting); two years old
+* {{ja-r/args|二けた|ふたけた}} ''noun'': two digits, double figures
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|に|yomi=o}}
@@ -240,14 +242,16 @@ From {{der|ko|ltc|sort=이|-}} {{ltc-l|二}}.
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ko-l|이심|二心}}
-* {{ko-l|이십|二十}}
-* {{ko-l|이월|二月}}
-* {{ko-l|이중|二重}}
-* {{ko-l|십이|十二}}
-* {{ko-l|십이지장|十二指腸}}
-* {{ko-l|일구이언|一口二言}}
-* {{ko-l|일석이조|一石二鳥}}
+{{ko-l/multi|data=
+* {{ko-l/args|이심|二心}}
+* {{ko-l/args|이십|二十}}
+* {{ko-l/args|이월|二月}}
+* {{ko-l/args|이중|二重}}
+* {{ko-l/args|십이|十二}}
+* {{ko-l/args|십이지장|十二指腸}}
+* {{ko-l/args|일구이언|一口二言}}
+* {{ko-l/args|일석이조|一石二鳥}}
+}}
 {{der-bottom}}
 
 ===References===
