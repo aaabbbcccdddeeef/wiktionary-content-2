@@ -108,10 +108,12 @@ Alternatively, {{zh-ref|Sagart (2004)}} relates this word to Old Chinese *''nɨm
 
 ====Compounds====
 {{der-top3|Compounds}}
-* {{ja-r|南無|なむ}}, {{ja-r|南無|なも}}
-* {{ja-r|南瓜|カボチャ}}
-* {{ja-r|南風|はえ}}
-* {{ja-r|南%方|^みな%かた}}
+{{ja-r/multi|data=
+* {{ja-r/args|南無|なむ}}, {{ja-r/args|南無|なも}}
+* {{ja-r/args|南瓜|カボチャ}}
+* {{ja-r/args|南風|はえ}}
+* {{ja-r/args|南%方|^みな%かた}}
+}}
 {{der-bottom}}
 
 ===Etymology 1===
@@ -144,13 +146,15 @@ From {{inh|ja|ojp|sort=みなみ|-}}.
 
 =====Derived terms=====
 {{der-top3}}
-* {{ja-r|南%風|みなみ%かぜ}}
-* {{ja-r|南%側|みなみ%がわ}}
-* {{ja-r|南%殿|みなみ%どの}}
-* {{ja-r|南 鮪|ミナミ マグロ}}
-* {{ja-r|東%南|ひがし%-みなみ}}
-* {{ja-r|西%南|にし%-みなみ}}
-* {{ja-r|真%南|ま%-みなみ}}
+{{ja-r/multi|data=
+* {{ja-r/args|南%風|みなみ%かぜ}}
+* {{ja-r/args|南%側|みなみ%がわ}}
+* {{ja-r/args|南%殿|みなみ%どの}}
+* {{ja-r/args|南 鮪|ミナミ マグロ}}
+* {{ja-r/args|東%南|ひがし%-みなみ}}
+* {{ja-r/args|西%南|にし%-みなみ}}
+* {{ja-r/args|真%南|ま%-みなみ}}
+}}
 {{der-bottom}}
 
 ====Proper noun====
@@ -208,8 +212,10 @@ From {{der|ja|ltc|sort=なん|-}} {{ltc-l|南|id=1}}.
 # {{short for|ja|南鐐|tr=nanryō|nodot=1|sort=なん}}: [[beautiful]] [[silver]]; a type of silver [[coin]] in the {{w|Edo period}}
 
 =====Derived terms=====
-* {{ja-r|南%南%西|なん-%なん%せい}}
-* {{ja-r|南%南%東|なん-%なん%とう}}
+{{ja-r/multi|data=
+* {{ja-r/args|南%南%西|なん-%なん%せい}}
+* {{ja-r/args|南%南%東|なん-%なん%とう}}
+}}
 
 ====Affix====
 {{ja-pos|なん|affix}}
@@ -219,27 +225,29 @@ From {{der|ja|ltc|sort=なん|-}} {{ltc-l|南|id=1}}.
 
 =====Derived terms=====
 {{der-top3}}
-* {{ja-r|南%下|なん%か}}
-* {{ja-r|南%柯|なん%か}}
-* {{ja-r|南%極|なん%きょく}}
-* {{ja-r|南%国|なん%こく}}, {{ja-r|南%国|なん%ごく}}
-* {{ja-r|南%端|なん%たん}}
-* {{ja-r|南%挺|なん%てい|rom=-}}, {{ja-r|南%廷|なん%てい|rom=-}}, {{ja-r|南%庭|なん%てい}}
-* {{ja-r|南%殿|なん%でん}}, {{ja-r|南%殿|な%でん}}
-* {{ja-r|南蛮|なんばん}}
-* {{ja-r|南%部|なん%ぶ}}
-* {{ja-r|南%風|なん%ぷう}}
-* {{ja-r|南%方|なん%ぽう}}
-* {{ja-r|南%北|なん%ぼく}}
-* {{ja-r|南%洋|なん%よう}}
-* {{ja-r|南%鐐|なん%りょう}}
-* {{ja-r|以%南|い%なん}}
-* {{ja-r|江%南|こう%なん}}
-* {{ja-r|指%南|し%なん}}
-* {{ja-r|周%南|^しゅう%なん}}
-* {{ja-r|西%南|せい%なん}}
-* {{ja-r|東%南|とう%なん}}
-* {{ja-r|洛%南|らく%なん}}
+{{ja-r/multi|data=
+* {{ja-r/args|南%下|なん%か}}
+* {{ja-r/args|南%柯|なん%か}}
+* {{ja-r/args|南%極|なん%きょく}}
+* {{ja-r/args|南%国|なん%こく}}, {{ja-r/args|南%国|なん%ごく}}
+* {{ja-r/args|南%端|なん%たん}}
+* {{ja-r/args|南%挺|なん%てい|rom=-}}, {{ja-r/args|南%廷|なん%てい|rom=-}}, {{ja-r/args|南%庭|なん%てい}}
+* {{ja-r/args|南%殿|なん%でん}}, {{ja-r/args|南%殿|な%でん}}
+* {{ja-r/args|南蛮|なんばん}}
+* {{ja-r/args|南%部|なん%ぶ}}
+* {{ja-r/args|南%風|なん%ぷう}}
+* {{ja-r/args|南%方|なん%ぽう}}
+* {{ja-r/args|南%北|なん%ぼく}}
+* {{ja-r/args|南%洋|なん%よう}}
+* {{ja-r/args|南%鐐|なん%りょう}}
+* {{ja-r/args|以%南|い%なん}}
+* {{ja-r/args|江%南|こう%なん}}
+* {{ja-r/args|指%南|し%なん}}
+* {{ja-r/args|周%南|^しゅう%なん}}
+* {{ja-r/args|西%南|せい%なん}}
+* {{ja-r/args|東%南|とう%なん}}
+* {{ja-r/args|洛%南|らく%なん}}
+}}
 {{der-bottom}}
 
 ====Proper noun====
@@ -262,7 +270,9 @@ From {{bor|ja|cmn|sort=なん|南|tr=nán}}.
 #: {{hyper|ja|役牌|tr=yakuhai, yaku-pai}}
 
 =====Coordinate terms=====
-* {{ja-r|風%牌|かぜ%ハイ|[[wind]] [[tile]]s}}: {{ja-r|東|トン|[[east wind]]}}, {{ja-r|南|ナン|south wind}}, {{ja-r|西|シャー|[[west wind]]}}, {{ja-r|北|ペー|[[north wind]]}}
+{{ja-r/multi|data=
+* {{ja-r/args|風%牌|かぜ%ハイ|[[wind]] [[tile]]s}}: {{ja-r/args|東|トン|[[east wind]]}}, {{ja-r/args|南|ナン|south wind}}, {{ja-r/args|西|シャー|[[west wind]]}}, {{ja-r/args|北|ペー|[[north wind]]}}
+}}
 
 ===Etymology 5===
 {{ja-kanjitab|みなん|yomi=irr}}
@@ -310,13 +320,15 @@ From {{der|ko|ltc|sort=남|-}} {{ltc-l|南}}.
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ko-l|^강남|江南}}
-* {{ko-l|남극|南極}}
-* {{ko-l|^남반구|南半球}}
-* {{ko-l|남부|南部}}
-* {{ko-l|^남한|南韓}}
-* {{ko-l|^월남|越南}}
-* {{ko-l|통미봉남|通美封南}}
+{{ko-l/multi|data=
+* {{ko-l/args|^강남|江南}}
+* {{ko-l/args|남극|南極}}
+* {{ko-l/args|^남반구|南半球}}
+* {{ko-l/args|남부|南部}}
+* {{ko-l/args|^남한|南韓}}
+* {{ko-l/args|^월남|越南}}
+* {{ko-l/args|통미봉남|通美封南}}
+}}
 {{der-bottom}}
 
 ===Etymology 2===
