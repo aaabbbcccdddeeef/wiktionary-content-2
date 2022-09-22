@@ -310,7 +310,7 @@ From {{der|ko|ltc|sort=목|-}} {{ltc-l|木}}.
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|Han characters}}
+{{head-lite|ryu|sc=Jpan|langname=Okinawan|Han characters}}
 
 ====Readings====
 {{ryu-readings
@@ -318,15 +318,15 @@ From {{der|ko|ltc|sort=목|-}} {{ltc-l|木}}.
 }}
 
 ===Etymology===
-{{IPAchar|/ki/}} → {{IPAchar|/kiː/}}
+{{IPAchar-lite|/ki/}} → {{IPAchar-lite|/kiː/}}
 
 From {{inh|ryu|jpx-ryu-pro|*ke}}, from {{der|ryu|jpx-pro|*kəy}}.
 
 ====Pronunciation====
-* {{IPA|ryu|[kʲiː]|sort=きー}}
+* {{IPA-lite|ryu|[kʲiː]|sort=きー}}
 
 ====Noun====
-{{head|ryu|noun|hiragana|きー|rōmaji|kī|sort=きー}}
+{{head-lite|ryu|sc=Jpan|langname=Okinawan|nouns|hiragana|きー|rōmaji|kī|sort=きー}}
 
 # a [[tree]]
 
@@ -344,7 +344,7 @@ From {{inh|ojp|jpx-pro|sort=き|*kəy}}. Compare {{cog|ltc|-}} {{ltc-l|紀}}.
 Likely developed from fusion of older form {{m|ojp||木|tr=ko<sub>2</sub>|pos=see below}} + {{m|ojp|い|tr=i<sub>(2)</sub>|pos=emphatic nominative particle}}, similar to the sound changes at work in {{m|ojp|神|tr=[[kami|kamu → kami<sub>2</sub>]]||[[Shinto]] [[deity]]}}.<ref name="Perard 2012">{{cite-web|first=Thomas|last=Pellard|title=日琉祖語の分岐年代|work=琉球諸語と古代日本語に関する比較言語学的研究」ワークショップ|year=2012|url=http://kikigengo.jp/nishihara/lib/exe/fetch.php?media=library:references:rkoj-pellard.pdf|page=6}}</ref>
 
 ====Noun====
-{{head|ojp|noun|tr=ki<sub>2</sub>|kana|き|sort=き}}
+{{head-lite|ojp|sc=Jpan|langname=Old Japanese|nouns|tr=ki<sub>2</sub>|kana|き|sort=き}}
 
 # a [[tree]] or [[shrub]]
 # [[wood]], [[timber]], [[lumber]]
@@ -358,13 +358,13 @@ From {{inh|ojp|jpx-pro|*kə|sort=こ}}. Compare {{cog|ltc|-}} {{ltc-l|許|id=1}}
 Likely the original form of {{IPAfont|⟨ki<sub>2</sub>⟩}} above. Never found in isolation.<ref name="Perard 2012"/>
 
 ====Noun====
-{{head|ojp|noun|tr=ko<sub>2</sub>|kana|こ|sort=こ}}
+{{head-lite|ojp|sc=Jpan|langname=Old Japanese|nouns|tr=ko<sub>2</sub>|kana|こ|sort=こ}}
 
 # {{n-g-lite|Combining form of {{m|ojp||キ<sup>乙</sup>|tr=ki<sub>2</sub>}} above}}
 
 =====Derived terms=====
-* {{m|ojp|木の葉|tr=ko<sub>2</sub>no<sub>2</sub>pa}}
-* {{m|ojp|木の花|tr=ko<sub>2</sub>no<sub>2</sub>pana}}
+* {{m-lite|ojp|sc=Jpan|木の葉|tr=ko<sub>2</sub>no<sub>2</sub>pa}}
+* {{m-lite|ojp|sc=Jpan|木の花|tr=ko<sub>2</sub>no<sub>2</sub>pana}}
 
 =====Descendants=====
 * {{desc|ja|木|tr=ko}}
@@ -373,15 +373,15 @@ Likely the original form of {{IPAfont|⟨ki<sub>2</sub>⟩}} above. Never found 
 Analysis in the ''{{w|Nihon Shoki}}'' (720 {{CE}}) shows that this variation of {{IPAfont|⟨ki<sub>2</sub>⟩}} is not limited to Eastern dialects.
 
 ====Noun====
-{{head|ojp|noun|tr=ke<sub>2</sub>|kana|け|sort=け}}
+{{head-lite|ojp|sc=Jpan|langname=Old Japanese|nouns|tr=ke<sub>2</sub>|kana|け|sort=け}}
 
 # {{lb|ojp|sort=け|regional|Northern Eastern {{cog|ojp|-}}|Southern Eastern Old Japanese}} {{n-g-lite|Same as {{m|ojp||キ<sup>乙</sup>|tr=ki<sub>2</sub>}} above}}
 #* {{RQ:Manyoshu|20|4375}}, [http://etext.virginia.edu/japanese/manyoshu/Man20Yo.html#4375 text here]
 #*: {{ux|ojp|麻都能'''氣'''乃奈美多流美礼波伊波妣等乃和例乎美於久流等多多理之母己呂|tr=matu no<sub>2</sub> '''ke<sub>2</sub>''' no<sub>2</sub> nami<sub>1</sub>taru mi<sub>1</sub>reba ipabi<sub>1</sub>to<sub>2</sub> no<sub>2</sub> ware wo mi<sub>1</sub>okuru to<sub>2</sub> tatari si moko<sub>2</sub>ro<sub>2</sub>|t=Looking at the pine '''trees''' all in a row, they were just like the people from the household standing to see me off}}
 
 =====Derived terms=====
-* {{m|ojp|眞木|tr=make<sub>2</sub>}}
-* {{m|ojp|御木|tr=Mi<sub>1</sub>ke<sub>2</sub>|pos=a placename}}
+* {{m-lite|sc=Jpan|ojp|眞木|tr=make<sub>2</sub>}}
+* {{m-lite|sc=Jpan|ojp|御木|tr=Mi<sub>1</sub>ke<sub>2</sub>|pos=a placename}}
 
 ===References===
 <references/>
