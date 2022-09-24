@@ -56,7 +56,14 @@ Note that Japanese uses 舎 (土口), while Chinese uses 舍 (干口).
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U6368-kyu.svg
+|ref={{R:Kanjipedia|0002977700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=手08}}
@@ -65,7 +72,8 @@ Note that Japanese uses 舎 (土口), while Chinese uses 舍 (干口).
 
 ====Readings====
 {{ja-readings
-|on=しゃ
+|goon=しゃ
+|kanon=しゃ
 |kun=す-てる
 |nanori=いえ, えだ, すて
 }}
@@ -73,6 +81,9 @@ Note that Japanese uses 舎 (土口), while Chinese uses 舍 (干口).
 ====Compounds====
 * {{ja-r|喜%捨|き%しゃ}}
 * {{ja-r|四%捨%五%入|し%しゃ%ご%にゅう}}
+
+===References===
+<references/>
 
 ----
 
