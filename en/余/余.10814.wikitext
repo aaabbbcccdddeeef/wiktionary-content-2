@@ -126,17 +126,33 @@
 ----
 
 ==Japanese==
-{{rfc|ja}}
-{{ja-kanji forms|余|餘}}
-
 ===Kanji===
-{{ja-kanji|grade=5|rs=人05|kyu=餘}}
+{{ja-kanji|grade=5|rs=人05}}
+# {{non-gloss|a personal pronoun}}
 
 ====Readings====
 {{ja-readings
 |goon=よ
 |kanon=よ
-|kun=あま-る, あま-す, われ-, あま-り
+|kun=われ-
+}}
+
+===Kanji===
+{{ja-kanji forms|余|餘}}
+
+====Glyph origin====
+Simplified from [[餘]] (elimination of [[𩙿]]).
+
+{{ja-kanji|grade=5|rs=人05|kyu=餘}}
+
+# [[over]], [[too much]]
+# [[extraneous]], [[remainder]]
+
+====Readings====
+{{ja-readings
+|goon=よ
+|kanon=よ
+|kun=あま-る, あま-す, あま-り
 }}
 
 ====Compounds====
