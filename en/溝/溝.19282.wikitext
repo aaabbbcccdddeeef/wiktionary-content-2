@@ -129,7 +129,14 @@ Possibly the k-prefix noun of {{och-l|漏|to leak}} ({{zh-ref|Schuessler, 2007}}
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U6e9d-kyu.svg
+|ref={{R:Kanjipedia|0002288700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=水10}}
@@ -160,6 +167,9 @@ From {{inh|ja|jpx-pro|*minsə}}.
 {{ja-pos|numeral symbol|こう}}
 
 # A number of "[[hundred]] [[nonillion]]" in modern Japanese since 17th century.
+
+===References===
+<references/>
 
 {{c|ja|Water|sort=みぞ}}
 
