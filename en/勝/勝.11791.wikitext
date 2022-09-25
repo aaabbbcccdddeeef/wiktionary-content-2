@@ -101,7 +101,14 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U52dd-kyu.svg
+|ref={{R:Kanjipedia|0003404400}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=力10}}
@@ -113,8 +120,8 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 {{ja-readings
 |goon=しょう
 |kanon=しょう
-|kun=か-つ, すぐ-れる, た-える, まさ-る
-|nanori=すぐる, すぐろ, とう, のり, ます, よし
+|kun=か-つ, か-ち, すぐ-れる, た-える, た-う, まさ-る, あ-げて
+|nanori=かち, かつ, すぐる, すぐれ, すぐろ, とう, のり, まさ, まさる, ます, よし
 }}
 
 ====Compounds====
@@ -190,6 +197,9 @@ Graphically, the character decomposes as {{Han compound|月|劵}} (which gives r
 {{ja-pos|まさる|proper}}
 
 # {{given name|ja|male|sort=まさる}}
+
+===References===
+<references/>
 
 ----
 
