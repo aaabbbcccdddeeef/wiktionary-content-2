@@ -84,7 +84,14 @@ Note different composition due to different forms of [[戶]], namely [[户]] (in
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U6240-kyu.svg
+|ref={{R:Kanjipedia|0003281600}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=戶04}}
@@ -93,7 +100,8 @@ Note different composition due to different forms of [[戶]], namely [[户]] (in
 {{ja-readings
 |goon=しょ<しよ
 |kanon=そ
-|kun=ところ-, とこ-, と, く
+|kun=ところ-, とこ-, と, く, れ-る, ら-れる, ばか-り
+|nanori=ところ, ど, のぶ
 }}
 
 ====Compounds====
