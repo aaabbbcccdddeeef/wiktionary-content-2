@@ -48,7 +48,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U5bb5-kyu.svg
+|ref={{R:Kanjipedia|0003373700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=宀07}}
@@ -57,7 +64,8 @@
 {{ja-readings
 |goon=しょう<せう
 |kanon=しょう<せう
-|kun=よい-<よひ-
+|kun=よい-<よひ-, よる-, よ-
+|nanori=よい
 }}
 
 ====Compounds====
