@@ -145,7 +145,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U9020-kyu.svg
+|ref={{R:Kanjipedia|0004315000}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=辵07}}
@@ -156,13 +163,17 @@
 {{ja-readings
 |goon=ぞう<ざう, そう<さう
 |kanon=そう<さう
-|kun=いた-る, つく, つく-る, つく-り, な-る, みやつこ-
+|kanyoon=ぞう<ざう
+|kun=いた-る, つく, つく-る, つく-り, な-す, な-る, みやつこ-
 |nanori=いたる, なり, なる, はじめ, みやつこ
 }}
 
 ====Compounds====
 * {{ja-r|創造|そうぞう}}
 * {{ja-r|構造|こうぞう}}
+
+===References===
+<references/>
 
 ----
 
