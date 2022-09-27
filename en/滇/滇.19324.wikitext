@@ -106,10 +106,27 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=水10}}
 
-# {{rfdef|ja|sort=水10}}
+# [[Lake Dian]]
 
 ====Readings====
-* {{ja-readings|on=[[てん]] (ten), [[しん]] (shin)|kun=}}
+{{ja-readings
+|on=てん, しん
+}}
+
+====Compounds====
+* {{ja-r|滇池|^てんち}}
+
+===Etymology===
+{{ja-kanjitab|てん|yomi=o}}
+From {{der|ja|ltc|sort=てん|-}} {{ltc-l|滇|id=2}}.
+
+===Pronunciation===
+{{ja-pron|てん}}
+
+===Proper noun===
+{{ja-pos|proper|てん}}
+
+# {{lb|ja|historical|sort=てん}} {{w|Dian Kingdom}}
 
 ----
 
