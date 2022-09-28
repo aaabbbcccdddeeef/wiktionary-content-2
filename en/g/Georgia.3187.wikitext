@@ -3,24 +3,25 @@
 {{wikipedia}}
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈdʒɔː.dʒə/|lang=en}}
-* {{a|GenAm}} {{IPA|/ˈdʒɔɹ.dʒə/|lang=en}} {{audio|en-us-Georgia.ogg|lang=en}} <!-- Audio (GenAm) -->
-* {{a|Southern US}} {{IPA|/ˈdʒɔʊ.dʒə/|lang=en}} {{audio|en-us-Georgia-2.ogg|lang=en}} <!-- Audio (Southern US) --> <!-- Audios grouped with the IPAs for the section to be less intrusive. -->
-* {{rhymes|ɔː(r)dʒə|lang=en}}
+* {{a|UK}} {{IPA|en|/ˈdʒɔː.dʒə/}}
+* {{a|GenAm}} {{IPA|en|/ˈd͡ʒɔɹ.d͡ʒə/}}, {{enPR|jôrʹjə}} {{audio|en|en-us-Georgia.ogg}}<!-- Audio (GenAm) -->
+* {{a|Southern US}} {{IPA|en|/ˈdʒɔʊ.dʒə/}} {{audio|en|en-us-Georgia-2.ogg}} <!-- Audio (Southern US) --> <!-- Audios grouped with the IPAs for the section to be less intrusive. -->
+* {{rhymes|en|ɔː(ɹ)dʒə|s=2}}
 
 ===Etymology 1===
-[[Image:Europe Georgia.svg|thumb|right|250 px|Location of Georgia]]
+[[File:Georgia (orthographic projection with inset).svg|thumb|Location of Georgia]]
 
-Unclear etymology. Early medieval sources explain Georgia's name by the popularity of [[w:Saint George|Saint George]], Georgia's Patron Saint, among Georgians. Later European accounts trace the origin to {{der|en|la|Georgius}}, itself derived from {{der|en|grc|Γεώργιος||farmer}}. Supporters of this explanation relied on classical authors [[Pliny]] and {{w|lang=en|Pomponius Mela}}, who mentioned agricultural tribes called "Georgi", (Pliny, IV.26, VI.14; Mela, De Sita Orb. i.2, &50;) so named to distinguish them from their unsettled and pastoral neighbors.
+A borrowing from {{bor|en|ML.|Geōrgia}}, itself a borrowing from {{der|en|fa|گرج|tr=Gorj}} (with influence from ({{m|la|sānctus}}) {{m|la|Geōrgius|t=Saint George}}, alluding to the saint's popularity in the country), from {{der|en|pal|𐭥𐭫𐭥𐭰𐭠𐭭|tr=Wiruz-ān|t=[[Iberian]]s, Georgians|g=p}}. The term's further history is unknown; it may ultimately be a derivation from {{cog|pal|𐭢𐭥𐭫𐭢|tr=gurg|t=wolf}}, though that would be phonologically challenging; compare {{cog|xpr|𐭅𐭉𐭓𐭔𐭍|tr=Wiruž-ān|g=p}}, {{cog|xcl|վիրք|վիր-ք}}, {{cog|orv|гурзи}}. Replaced earlier {{m|en|Georgie}}, from the same source via a [[Middle French]] intermediary.
 
-Some 20th-century scholars have speculated that Georgia could have the same origin as {{cog|ru|грузи́н}}. This origin is {{m|fa|گرج|tr=Gorj}}, from {{der|en|pal|𐭥𐭫𐭥𐭰𐭠𐭭|tr=Wiruz-ān|t=[[Iberian]]s, Georgians|g=p}}. Compare {{cog|xpr|𐭅𐭉𐭓𐭔𐭍|tr=Wiruž-ān|g=p}}, {{cog|pal|tr=wrwcʾn|sc=Mani|g=p}}, {{cog|xcl|վիրք|վիր-ք}}.
-
-According to others it should be related to {{cog|fa|گرگ|tr=gorg|t=wolf}}, the country being a “wolfland” since mountainous forests of the north would seem like a forbidding place to ancient Persians.
+Early medieval sources hypothesize that the country was named after [[w:Saint George|Saint George]], while later European accounts connect the name with agricultural tribes called "Georgi" (from {{noncog|grc|γεωργός|t=farmer}}) mentioned by classical authors ([[Pliny]], IV.26, VI.14; {{w|lang=en|Pomponius Mela|Mela}}, De Sita Orb. i.2); neither of these etymologies is accepted today.
 
 ====Proper noun====
 {{en-proper noun}}
 
-# {{senseid|en|Q230}}A [[country]] in [[Eastern Europe]], on the coast of the Black Sea
+# {{senseid|en|Q230}}{{place|en|country|{{,}} in the <<r/South Caucasus>> region of <<cont/Europe>> and <<cont/Asia>>}}, on the coast of the [[Black Sea]].
+#* {{RQ:Marlowe Tamburlaine|part=2|act=V|scene=i|page=140|passage=Though this be held his laſt daies dꝛeadfull ſiege, / Wherein he ſpareth neither man noꝛ childe, / Yet are there Chꝛiſtians of '''''Georgia''''' here, / Whoſe ſtate who euer pitied and relieu'd:}}
+#* {{RQ:Gibbon Roman Empire|volume=I|chapter=III|page=619|passage=The practice of raiſing ſlaves to the great offices of ſtate is ſtill more common among the Turks than among the Perſians. The miſerable countries of '''Georgia''' and Circaſſia fupply rulers to the greateſt part of the eaſt.}}
+#* {{quote-book|en|year=1948|chapter=7|title={{w|A Russian Journal}}|author={{w|John Steinbeck}}|isbn=9780141905839|oclc=715891|publisher=The Viking Press|location=New York|passage=During our stay in '''Georgia''' Mr. Chmarsky's gremlin hardly operated at all, and that made us feel better toward him, and made him feel better toward us.}}
 
 =====Synonyms=====
 * {{l|en|Gruzia}}, {{l|en|Sakartvelo}}
@@ -28,149 +29,180 @@ According to others it should be related to {{cog|fa|گرگ|tr=gorg|t=wolf}}, th
 =====Derived terms=====
 * {{l|en|Georgian}}
 
+=====Descendants=====
+* {{desc|my|ဂျော်ဂျီယာ|bor=1}}
+* {{desc|zh|-|der=1}}
+*: {{desc|cmn|-}} {{zh-l|喬治亞}}
+* {{desc|hi|जॉर्जिया|bor=1}}
+* {{desc|ja|ジョージア|tr=Jōjia|bor=1}}
+* {{desc|ko|^조지아|bor=1}}
+* {{desc|mi|Hōria|bor=1}}
+* {{desc|nv|Jóojah|bor=1}}
+* {{desc|th|จอร์เจีย|bor=1}}
+
 =====Translations=====
 {{trans-top|id=Q230|country}}
-* Abkhaz: {{t|ab|Қырҭтәыла}}
-* Adyghe: {{t|ady|Хъырцые}}
-* Afrikaans: {{t+|af|Georgië}}
-* Albanian: {{t+|sq|Gjeorgji|f}}
-* Arabic: {{t|ar|جُورْجِيَا|f|tr=jorjiyā}}
-* Aragonese: {{t|an|Cheorchia}}
-* Armenian: {{t|hy|Վրաստան}}, {{t|hy|Վիրք}}
-* Asturian: {{t+|ast|Xeorxa}}
-* Avar: {{t|av|Гуржи}}
-* Azerbaijani: {{t+|az|Gürcüstan}}
-* Bashkir: {{t|ba|Грузия|sc=Cyrl}}
-* Basque: {{t+|eu|Georgia}}
-* Belarusian: {{t|be|Гру́зія|f}}
-* Bengali: {{t|bn|জর্জিয়া}}
-* Breton: {{t|br|Jorjia}}
-* Bulgarian: {{t+|bg|Гру́зия|f}}
-* Burmese: {{t|my|ဂျော်ဂျီယာ|sc=Mymr}}
-* Catalan: {{t+|ca|Geòrgia|f}}
+{{multitrans|data=
+* Abkhaz: {{tt|ab|Қырҭтәыла}}
+* Adyghe: {{tt|ady|Хъырцые}}
+* Afrikaans: {{tt+|af|Georgië}}
+* Albanian: {{tt+|sq|Gjeorgji|f}}
+* Amharic: {{tt|am|ጂዮርጂያ}}
+* Arabic: {{tt|ar|جُورْجِيَا|f|tr=jorjiyā}}
+*: Hijazi Arabic: {{tt|acw|جُورْجِيَا|f|tr=jōrjiya}}
+* Aragonese: {{tt|an|Cheorchia}}
+* Armenian: {{tt|hy|Վրաստան}}, {{tt|hy|Վիրք}}
+* Assyrian Neo-Aramaic: {{t|aii|ܓܘܿܪܓ̰ܵܐ|tr=gorja|f}}
+* Asturian: {{tt+|ast|Xeorxa}}
+* Avar: {{tt|av|Гуржи}}
+* Azerbaijani: {{tt+|az|Gürcüstan}}
+* Bashkir: {{tt|ba|Грузия}}
+* Basque: {{tt+|eu|Georgia}}
+* Belarusian: {{tt|be|Гру́зія|f}}
+* Bengali: {{tt+|bn|জর্জিয়া}}, {{t|bn|গর্জেস্তান}}
+* Breton: {{tt|br|Jorjia}}
+* Bulgarian: {{tt+|bg|Гру́зия|f}}
+* Burmese: {{tt|my|ဂျော်ဂျီယာ}}
+* Catalan: {{tt+|ca|Geòrgia|f}}
+* Chechen: {{tt|ce|Гуьржийчоь}}
 * Chinese:
-*: Mandarin: {{t+|cmn|格魯吉亞|sc=Hani}}, {{t+|cmn|格鲁吉亚|tr=Gélǔjíyà|sc=Hani}}, {{t+|cmn|喬治亞|sc=Hani}}, {{t+|cmn|乔治亚|tr=Qiáozhìyà|sc=Hani}} {{qualifier|Taiwan also}}
-* Crimean Tatar: {{t|crh|Gürcistan}}
-* Czech: {{t+|cs|Gruzie|f}}
-* Danish: {{t|da|Georgien}}
-* Dutch: {{t+|nl|Georgië}}
-* Esperanto: {{t|eo|Kartvelio}}, {{t|eo|Kartvelujo}}
-* Estonian: {{t+|et|Gruusia}}, {{t+|et|Georgia}}
-* Faroese: {{t|fo|Georgia|n}}
-* Finnish: {{t+|fi|Georgia}}
-* French: {{t+|fr|Géorgie|f}}
-* Galician: {{t+|gl|Xeorxia|f}}, {{t|gl|Grucia|f}}
-* Georgian: {{t+|ka|საქართველო|sc=Geor}}
-* German: {{t+|de|Georgien|n}}, {{t|de|Grusien|n}}
-* Greek: {{t+|el|Γεωργία|f}}
-*: Pontic Greek: {{t|pnt|Γρουζία}}
-* Gujarati: {{t|gu|ગુર્જિયા}}, {{t|gu|ગુર્જિસ્તાન|sc=Gujr}}
-* Hausa: {{t|ha|Georgiya}}
-* Hawaiian: {{t|haw|Keokia}}
-* Hebrew: {{t+|he|גֵּאוֹרְגְּיָה|f|tr=ge'orgia|sc=Hebr}}, {{t|he|גְּרוּזְיָה|f|tr=grúzia}}, {{t|he|הָרֶפּוּבְּלִיקָה שֶׁל גֵּאוֹרְגִיָה|tr=ha-Repubeliqah shel Ge'orgia}}
-* Hindi: {{t+|hi|जॉर्जिया|sc=Deva}}, {{t|hi|गुर्जिस्तान|sc=Deva}}
-* Hungarian: {{t+|hu|Grúzia}}
-* Icelandic: {{t+|is|Georgía|f}}
-* Ido: {{t+|io|Gruzia}}
-* Indonesian: {{t+|id|Georgia}}
-* Interlingua: {{t+|ia|Georgia}}
-* Irish: {{t|ga|Seoirsia|f|alt=an tSeoirsia}}
-* Italian: {{t+|it|Georgia|f}}
-* Japanese: {{t+|ja|ジョージア|tr=Jōjia}}, {{t+|ja|グルジア|tr=Gurujia}}
-* Kalenjin: {{t|kln|jojia}}
-* Kamba: {{t|kam|jojia}}
-* Kazakh: {{t|kk|Гүржістан}}
-* Khmer: {{t|km|ហ្សកហ្ស៊ី}}
-* Kikuyu: {{t|ki|Jojia}}
-* Korean: {{t|ko|^조지아}}, {{t|ko|^그루지야}}
+*: Mandarin: {{tt+|cmn|格魯吉亞}}, {{tt+|cmn|格鲁吉亚|tr=Gélǔjíyà}}, {{tt+|cmn|喬治亞}}, {{tt+|cmn|乔治亚|tr=Qiáozhìyà}} {{qualifier|Taiwan also}}
+* Corsican: {{tt|co|Georgia|f}}
+* Crimean Tatar: {{tt|crh|Gürcistan}}
+* Czech: {{tt+|cs|Gruzie|f}}
+* Danish: {{tt|da|Georgien|n}}
+* Dutch: {{tt+|nl|Georgië|n}}
+* Esperanto: {{tt|eo|Kartvelio}}, {{tt|eo|Kartvelujo}}
+* Estonian: {{tt+|et|Gruusia}}, {{tt+|et|Georgia}}
+* Farefare: {{t|gur|Guruzigo}}
+* Faroese: {{tt|fo|Georgia|n}}
+* Finnish: {{tt+|fi|Georgia}}
+* French: {{tt+|fr|Géorgie|f}}
+* Galician: {{tt+|gl|Xeorxia|f}}, {{tt|gl|Grucia|f}}
+* Georgian: {{tt+|ka|საქართველო}}
+* German: {{tt+|de|Georgien|n}}, {{tt|de|Grusien|n}}
+* Greek: {{tt+|el|Γεωργία|f}}
+*: Pontic Greek: {{tt|pnt|Γρουζία}}
+* Gujarati: {{tt|gu|ગુર્જિયા}}, {{tt|gu|ગુર્જિસ્તાન}}
+* Hausa: {{tt|ha|Georgiya}}
+* Hawaiian: {{tt|haw|Keokia}}
+* Hebrew: {{tt+|he|גֵּאוֹרְגְּיָה|f|tr=ge'orgia}}, {{tt|he|גְּרוּזְיָה|f|tr=grúzia}}
+* Hindi: {{tt+|hi|जॉर्जिया|m}}, {{tt|hi|गुर्जिस्तान|m}}, {{tt|hi|जोर्जिया|m}}
+* Hungarian: {{tt+|hu|Grúzia}}
+* Icelandic: {{tt+|is|Georgía|f}}
+* Ido: {{tt+|io|Gruzia}}
+* Indonesian: {{tt+|id|Georgia}}
+* Interlingua: {{tt+|ia|Georgia}}
+* Irish: {{tt|ga|Seoirsia|f|alt=an tSeoirsia}}
+* Italian: {{tt+|it|Georgia|f}}
+* Japanese: {{tt+|ja|ジョージア|tr=Jōjia}}, {{tt+|ja|グルジア|tr=Gurujia}}
+* Kalenjin: {{tt|kln|jojia}}
+* Kamba: {{tt|kam|jojia}}
+* Kazakh: {{tt|kk|Гүржістан}}
+* Khmer: {{tt|km|ហ្សកហ្ស៊ី}}
+* Kikuyu: {{tt|ki|Jojia}}
+* Korean: {{tt+|ko|^조지아}}, {{tt+|ko|^그루지야}}
 * Kurdish:
-*: Kurmanji: {{t+|kmr|Гӧрщстан}}
-* Kyrgyz: {{t|ky|Грузия}}
-* Lao: {{t|lo|ຈໍເຈຍ}}, {{t|lo|ເຊອ້ອກເຊຍ}}
-* Latin: {{t|la|Georgia|f}}
-* Latvian: {{t+|lv|Gruzija|f}}
-* Laz: {{t|lzz|საქორთუო}}
+*: Northern Kurdish: {{tt+|kmr|Gurcistan}}
+* Kyrgyz: {{tt|ky|Гүржистан}}
+* Lao: {{tt|lo|ຈໍເຈຍ}}, {{tt|lo|ເຊອ້ອກເຊຍ}}
+* Latin: {{tt|la|Georgia|f}}
+* Latvian: {{tt+|lv|Gruzija|f}}
 {{trans-mid}}
+* Laz: {{tt|lzz|ოქორთურა}}, {{tt|lzz|ქორთოლონა}}, {{tt|lzz|ოქორთუე}}
 * Limburgish: {{t-check|li|Georgije}}
-* Lithuanian: {{t+|lt|Gruzija|f}}, {{t|lt|Georgija|f}}
-* Luhya: {{t|luy|Jojia}}
-* Luo: {{t|luo|Jojia}}
-* Macedonian: {{t+|mk|Грузија|f}}
-* Malay: {{t|ms|Georgia}}
-* Maltese: {{t-check|mt|il-Ġeorġja}} <!-- originally the il- was outside the link -->
-* Maori: {{t|mi|Hōria}}
-* Marathi: {{t|mr|गुर्जिस्तान|sc=Deva}}
-* Meru: {{t|mer|jojia}}
-* Mingrelian: {{t|xmf|საქორთუო|sc=Geor}}
-* Mongolian: {{t|mn|Гүрж|sc=Cyrl}}
-* Navajo: {{t|nv|Jóojah}}
-* Nepali: {{t|ne|गुर्जिस्तान|sc=Deva}}
-* Norman: {{t|nrf|Georgie|f}}
-* Norwegian: {{t+|no|Georgia}}
-* Ossetian: {{t|os|Гуырдзыстон|sc=Cyrl}}
-* Pashto: {{t|ps|ګرجستان|m|tr=gorǰestãn}}
-* Persian: {{t+|fa|گرجستان|tr=gorjestân}}
-* Polish: {{t+|pl|Gruzja|f}}
-* Portuguese: {{t+|pt|Geórgia|f}}
-* Quechua: {{t|qu|Kartulsuyu}}
-* Romanian: {{t+|ro|Georgia|f}}
-* Russian: {{t+|ru|Гру́зия|f}}, {{qualifier|rare}} {{t|ru|Сакартве́ло|f|tr=Sakartvɛ́lo}}
-* Scots: {{t|sco|Georgie}}
-* Scottish Gaelic: {{t|gd|a' Chairtbheil}}
+* Lithuanian: {{tt+|lt|Gruzija|f}}, {{tt|lt|Georgija|f}}, {{tt|lt|Sakartvelas|m}}
+* Luhya: {{tt|luy|Jojia}}
+* Luo: {{tt|luo|Jojia}}
+* Macedonian: {{tt+|mk|Грузија|f}}
+* Malay: {{tt|ms|Georgia}}
+* Maltese: {{tt|mt|Ġeorġja|f|alt=il-Ġeorġja}}
+* Maori: {{tt|mi|Hōria}}
+* Marathi: {{tt|mr|गुर्जिस्तान}}
+* Meru: {{tt|mer|jojia}}
+* Middle English: {{tt|enm|Georgie}}
+* Mingrelian: {{tt|xmf|საქორთუო}}
+* Mongolian:
+*: Cyrillic: {{tt|mn|Гүрж}}
+* Navajo: {{tt|nv|Jóojah}}
+* Nepali: {{tt|ne|गुर्जिस्तान}}
+* Norman: {{tt|nrf|Georgie|f}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|Georgia}}
+*: Nynorsk: {{tt+|nn|Georgia}}
+* Ossetian: {{tt|os|Гуырдзыстон}}
+* Pashto: {{tt|ps|ګرجستان|m|tr=gorǰestãn}}
+* Persian: {{tt+|fa|گرجستان|tr=gorjestân}}
+* Polish: {{tt+|pl|Gruzja|f}}
+* Portuguese: {{tt+|pt|Geórgia|f}}
+* Quechua: {{tt|qu|Kartulsuyu}}
+* Romanian: {{tt+|ro|Georgia|f}}
+*: Cyrillic: {{tt+|ro|Грузия|f}} {{q|Moldova|dated}}
+* Russian: {{tt+|ru|Гру́зия|f}}, {{tt|ru|Сакартве́ло|f|tr=Sakartvɛ́lo}} {{qualifier|rare|poetic or endonym}}, {{tt+|ru|Джо́рджия|f}} {{qualifier|rare|colloquial|sometimes ironically}}
+* Rusyn: {{tt|rue|Ґру́зія|f}}
+* Scots: {{tt|sco|Georgie}}
+* Scottish Gaelic: {{tt|gd|a' Chairtbheil}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Гру̑зија|f|sc=Cyrl}}
-*: Roman: {{t+|sh|Grȗzija|f}}
-* Silesian: {{t|szl|Gruzyjo|f}}
-* Sinhalese: {{t|si|ජෝර්ජියාව|sc=Sinh}}
-* Slovak: {{t|sk|Gruzínsko|n}}
-* Slovene: {{t+|sl|Grúzija|f}}
-* Somali: {{t|so|Saqartaweelo}} {{qualifier|Transliteration}}
-* Spanish: {{t+|es|Georgia|f}}
+*: Cyrillic: {{tt|sh|Гру̑зија|f}}
+*: Roman: {{tt+|sh|Grȗzija|f}}
+* Silesian: {{tt|szl|Gruzyjo|f}}
+* Sinhalese: {{tt|si|ජෝර්ජියාව}}
+* Slovak: {{tt|sk|Gruzínsko|n}}
+* Slovene: {{tt+|sl|Grúzija|f}}
+* Somali: {{tt|so|Saqartaweelo}} {{qualifier|transliteration}}
+* Spanish: {{tt+|es|Georgia|f}}
 * Svan: {{t-needed|sva}}
-* Swahili: {{t+|sw|Jojia}}
-* Swedish: {{t+|sv|Georgien}}
-* Tagalog: {{t|tl|Heyorhiya}}
-* Tajik: {{t+|tg|Гурҷистон}}
-* Tamil: {{t|ta|ஜோர்ஜியா}}
-* Tatar: {{t|tt|Грузия}}
-* Thai: {{t+|th|จอร์เจีย}}
-* Tibetan: {{t|bo|འཇོར་ཇི་ཡ}}
-* Turkish: {{t+|tr|Gürcistan}}
-* Turkmen: {{t|tk|Gruziýa}}
-* Udmurt: {{t|udm|Грузия}}
-* Ukrainian: {{t+|uk|Гру́зія|f}}
-* Urdu: {{t|ur|جورجیا|tr=jorjiyā|sc=ur-Arab}}, {{t|ur|جارجیا|tr=jārjiyā|sc=ur-Arab}}
-* Uyghur: {{t|ug|گرۇزىيە|sc=ug-Arab}}
-* Uzbek: {{t+|uz|Gurjiston}}
-* Vietnamese: {{t|vi|Giê-óc-gi-a}}, {{t|vi|Gru-di-a}}, {{t|vi|Giê-óoc-gi-a}}, {{t|vi|Gruzia}}
-* Volapük: {{t+|vo|Grusiyän}}
-* Yakut: {{t|sah|Грузия}}
-* Yiddish: {{t|yi|גרוזיע|n|sc=Hebr}}
-* Yoruba: {{t|yo|Gọgia}}
-* Zazaki: {{qualifier|Southern Zazaki}} {{t|zza|Gurcıstan}}
-* Zealandic: {{t|zea|Georhië}}
-* Zhuang: {{t|za|Gwzlujgizya}}
+* Swahili: {{tt+|sw|Jojia}}
+* Swedish: {{tt+|sv|Georgien|n}}
+* Tagalog: {{tt|tl|Heyorhiya}}
+* Tajik: {{tt+|tg|Гурҷистон}}
+* Tamil: {{tt|ta|ஜோர்ஜியா}}
+* Tatar: {{tt|tt|Грузия}}
+* Thai: {{tt+|th|จอร์เจีย}}
+* Tibetan: {{tt|bo|འཇོར་ཇི་ཡ}}
+* Tigrinya: {{tt|ti|ጆርጂያ}}
+* Turkish: {{tt+|tr|Gürcistan}}
+* Turkmen: {{tt|tk|Gruziýa}}
+* Udmurt: {{tt|udm|Грузия}}
+* Ukrainian: {{tt+|uk|Гру́зія|f}}, {{tt|uk|Ґру́зія|f}}
+* Urdu: {{tt|ur|جورجیا|m|tr=jorjiyā}}, {{tt|ur|جارجیا|m|tr=jārjiyā}}
+* Uyghur: {{tt|ug|گرۇزىيە}}
+* Uzbek: {{tt|uz|Gruziya}}
+* Vietnamese: {{tt|vi|Giê-óc-gi-a}}, {{tt|vi|Gru-di-a}}, {{tt|vi|Giê-óoc-gi-a}}
+* Volapük: {{tt+|vo|Grusiyän}}
+* Yakut: {{tt|sah|Грузия}}
+* Yiddish: {{tt|yi|גרוזיע|n}}
+* Yoruba: {{tt|yo|Gọgia}}
+* Zazaki: {{qualifier|Southern Zazaki}} {{tt+|zza|Gurcıstan}}
+* Zealandic: {{tt|zea|Georhië}}
+* Zhuang: {{tt|za|Gwzlujgizya}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 =====See also=====
-* {{list:countries of Europe/en}}{{topics|en|Countries in Europe}}
+* {{list:countries of Asia/en}}
+* {{list:countries of Europe/en}}
 * {{l|en|Tbilisi}}
 * {{l|en|Georgian SSR}}
 
 ===Etymology 2===
-[[Image:Map of USA highlighting Georgia.png|thumb|right|Map of US highlighting the State of Georgia.]]
-Named for [[w:George II of Great Britain|King George II]] of [[Great Britain]].
+[[File:Map of USA GA.svg|thumb|right|Map of the US highlighting the State of Georgia.]]
+{{af|en|George|pos1=male given name|-ia|pos2=place-name suffix}}.
 
 ====Proper noun====
 {{en-proper noun}}
 
-# {{senseid|en|Q1428}}A state within the [[United States of America]].
+# {{senseid|en|Q1428}}{{place|en|state|in the Southern|c/United States|capital=Atlanta|named for {{w|George II of Great Britain}} (1683–1760)}}.
+#: {{syn|en|Jawjuh}}
+#* {{quote-song|en|year=1930|lyricist={{w|Stuart Gorrell}}|composer={{w|Hoagy Carmichael}}|title={{w|Georgia on My Mind}}|passage=I said, '''Georgia''', oh, '''Georgia''' / No peace I find / Just an old, sweet song / Keeps '''Georgia''' on my mind}}
+# Several places in the [[United States]].
+## {{place|en|town|co/Franklin County|s/Vermont|named for {{w|George III of the United Kingdom}} (1738–1820)}}.
+## {{place|en|unincorporated community|co/Lawrence County|s/Indiana|named for the state}}.
+## {{place|en|unincorporated community|co/Cherry County|s/Nebraska|named for a local carpenter}}.
+## {{place|en|unincorporated community|co/Monmouth County|s/New Jersey}}.
+# {{place|en|hamlet|parish/Towednack|co/Cornwall|c/England}}.
 # {{senseid|en|Q246141}}A [[w:Georgia (typeface)|transitional serif typeface]] named after the state, designed by Matthew Carter in 1993.
 # {{w|University of Georgia}}.
-{{c|en|Universities}}
-
-=====Synonyms=====
-* {{l|en|Jawjuh}}
 
 =====Derived terms=====
 * {{l|en|GA}}
@@ -178,60 +210,67 @@ Named for [[w:George II of Great Britain|King George II]] of [[Great Britain]].
 
 =====Translations=====
 {{trans-top|id=Q1428|state of the USA}}
-* Arabic: {{t|ar|جُورْجِيَا|f|tr=jōrjiyā}}
-* Armenian: {{t|hy|Ջորջիա}}
-* Azerbaijani: {{t+|az|Corciya}}
-* Basque: {{t+|eu|Georgia}}
-* Bulgarian: {{t|bg|Джо́рджия|f}}, {{t|bg|Джо́рджия|f}}
-* Catalan: {{t+|ca|Geòrgia|f}}
+{{multitrans|data=
+* Arabic: {{tt|ar|جُورْجِيَا|f|tr=jōrjiyā}}
+* Armenian: {{tt|hy|Ջորջիա}}
+* Assyrian Neo-Aramaic: {{t|aii|ܓܘܿܪܓ̰ܵܐ|tr=gorja|f}}
+* Azerbaijani: {{tt+|az|Corciya}}
+* Basque: {{tt+|eu|Georgia}}
+* Bulgarian: {{tt|bg|Джо́рджия|f}}, {{tt|bg|Джо́рджия|f}}
+* Catalan: {{tt+|ca|Geòrgia|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|喬治亞州|sc=Hani}}, {{t|cmn|乔治亚州|tr=Qiáozhìyà-zhōu|sc=Hani}}
-* Czech: {{t+|cs|Georgie|f}}
-* Danish: {{t|da|Georgia}}
-* Dutch: {{t+|nl|Georgia}}
-* Esperanto: {{t|eo|Georgio}}
-* Estonian: {{t+|et|Georgia}}
-* Finnish: {{t+|fi|Georgia}}
-* French: {{t+|fr|Géorgie|f}}
-* Galician: {{t+|gl|Xeorxia}}
-* Georgian: {{t|ka|ჯორჯია|sc=Geor}}
-* German: {{t+|de|Georgia}}
-* Greek: {{t+|el|Τζόρτζια|f}}
-* Hawaiian: {{t|haw|Keokia}}
-* Hindi: {{t+|hi|जॉर्जिया|sc=Deva}}
-* Hungarian: {{t+|hu|Georgia}}
-* Icelandic: {{t+|is|Georgía|f}}
-* Irish: {{t|ga|Georgia}}
-* Japanese: {{t|ja|ジョージア州|tr=Jōjia-shū}}
+*: Mandarin: {{tt|cmn|喬治亞州|sc=Hani}}, {{tt|cmn|乔治亚州|tr=Qiáozhìyà-zhōu|sc=Hani}}
+* Czech: {{tt+|cs|Georgie|f}}
+* Danish: {{tt|da|Georgia}}
+* Dutch: {{tt+|nl|Georgia}}
+* Esperanto: {{tt|eo|Georgio}}
+* Estonian: {{tt+|et|Georgia}}
+* Finnish: {{tt+|fi|Georgia}}
+* French: {{tt+|fr|Géorgie|f}}
+* Galician: {{tt+|gl|Xeorxia}}
+* Georgian: {{tt|ka|ჯორჯია|sc=Geor}}
+* German: {{tt+|de|Georgia}}
+* Greek: {{tt+|el|Τζόρτζια|f}}
+* Hawaiian: {{tt|haw|Keokia}}
+* Hindi: {{tt+|hi|जॉर्जिया|sc=Deva}}
+* Hebrew: {{tt+|he|ג'ורג'יה|f|tr=jōrjiyā}}
+* Hungarian: {{tt+|hu|Georgia}}
+* Icelandic: {{tt+|is|Georgía|f}}
+* Irish: {{tt|ga|Georgia}}
+* Italian: {{tt+|it|Georgia|f}}
 {{trans-mid}}
-* Korean: {{t+|ko|조지아 주}}
-* Latvian: {{t|lv|Džordžija|f}}
-* Lithuanian: {{t|lt|Džordžija}}
-* Macedonian: {{t|mk|Џорџија|f}}
-* Maltese: {{t|mt|Ġorġja}}
-* Navajo: {{t|nv|Jóojah hahoodzo}}
-* Norman: {{t|nrf|Georgie|f}}
-* Norwegian: {{t+|no|Georgia}}
-* Persian: {{t|fa|جورجیا|tr=Jorjiyâ|sc=fa-Arab}}
-* Polish: {{t+|pl|Georgia|f}}
-* Portuguese: {{t+|pt|Geórgia|f}}
-* Romanian: {{t+|ro|Georgia|f}}
-* Russian: {{t+|ru|Джо́рджия|f}}
-* Scots: {{t|sco|Georgie}}
+* Japanese: {{tt|ja|ジョージア州|tr=Jōjia-shū}}
+* Korean: {{tt+|ko|^조지아}}
+* Latvian: {{tt|lv|Džordžija|f}}
+* Lithuanian: {{tt|lt|Džordžija}}
+* Macedonian: {{tt|mk|Џорџија|f}}
+* Maltese: {{tt|mt|Ġorġja}}
+* Navajo: {{tt|nv|Jóojah hahoodzo}}
+* Norman: {{tt|nrf|Georgie|f}}
+* Norwegian: {{tt+|no|Georgia}}
+* Persian: {{tt|fa|جورجیا|tr=Jorjiyâ|sc=fa-Arab}}
+* Polish: {{tt+|pl|Georgia|f}}
+* Portuguese: {{tt+|pt|Geórgia|f}}
+* Romanian: {{tt+|ro|Georgia|f}}
+* Russian: {{tt+|ru|Джо́рджия|f}}
+* Sardinian: {{tt|sc|Geòrgia|f}}
+* Scots: {{tt|sco|Georgie}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Џорџија|f|sc=Cyrl}}
-*: Roman: {{t|sh|Džordžija|f}}
-* Somali: {{t|so|Joorjiya}}
-* Spanish: {{t+|es|Georgia|f}}
-* Swahili: {{t+|sw|Jojia}}
-* Swedish: {{t+|sv|Georgia}}
-* Turkish: {{t+|tr|Georgia}}
-* Volapük: {{t+|vo|Georgän}}
-* Yiddish: {{t|yi|דזשאָרדזשיע}}
+*: Cyrillic: {{tt|sh|Џорџија|f|sc=Cyrl}}
+*: Roman: {{tt|sh|Džordžija|f}}
+* Somali: {{tt|so|Joorjiya}}
+* Spanish: {{tt+|es|Georgia|f}}
+* Swahili: {{tt+|sw|Jojia}}
+* Swedish: {{tt+|sv|Georgia|n}}
+* Turkish: {{tt+|tr|Georgia}}
+* Vietnamese: {{t|vi|Gioóc-gia}}, {{t|vi|Georgia}}
+* Volapük: {{tt+|vo|Georgän}}
+* Yiddish: {{tt|yi|דזשאָרדזשיע}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
-=====See also=====
-* {{l|en|Appendix:Place names in Georgia (USA)}}
+===See also===
+{{table:USA/en}}
 
 ===Etymology 3===
 Latinate feminine form of [[George]], from {{der|en|grc|Γεώργιος|t=farmer}}.
@@ -239,7 +278,7 @@ Latinate feminine form of [[George]], from {{der|en|grc|Γεώργιος|t=farme
 ====Proper noun====
 {{en-proper noun}}
 
-# {{given name|lang=en|female|from=Ancient Greek}}.
+# {{given name|en|female|from=Ancient Greek}}.
 #* '''1949''' [[w:Jessamyn West (writer)|Jessamyn West]], ''Except for Me and Thee'', Macmillan (1969), page 9:
 #*: "'''Georgia'''?" his mother said. "Why in the world would a mother want to give her daughter such an outlandish name?" "It's no more outlandish than Jesse Griffith." "Why, Jesse G., thee's named for thy two grandfathers." "'''Georgia''''s named for a whole state."
 
@@ -250,44 +289,58 @@ Latinate feminine form of [[George]], from {{der|en|grc|Γεώργιος|t=farme
 
 =====Translations=====
 {{trans-top|female given name}}
-* Czech: {{t+|cs|Jiřina|f}}
-* Greek: {{t+|el|Γεωργία|f}}
-* Hindi: {{t+|hi|जॉर्जिया|sc=Deva}}
-* Hungarian: {{t+|hu|Györgyi}}
-* Italian: {{t+|it|Giorgia|f}}
-* Latvian: {{t|lv|Džordžija|f}}
+{{multitrans|data=
+* Czech: {{tt+|cs|Jiřina|f}}
+* Greek: {{tt+|el|Γεωργία|f}}
+* Hindi: {{tt+|hi|जॉर्जिया|sc=Deva}}
+* Hungarian: {{tt+|hu|Györgyi}}
+* Italian: {{tt+|it|Giorgia|f}}
+* Latvian: {{tt|lv|Džordžija|f}}
 {{trans-mid}}
-* Macedonian: {{t|mk|Ѓурѓа|f}}
-* Maltese: {{t|mt|Ġorġa}}
-* Romanian: {{t+|ro|Georgia|f}}, {{t|ro|Georgeta|f}}
-* Russian: {{t|ru|Георгия|f}}
-* Somali: {{t|so|Joorjiya}}
+* Macedonian: {{tt|mk|Ѓурѓа|f}}
+* Maltese: {{tt|mt|Ġorġa}}
+* Romanian: {{tt+|ro|Georgia|f}}, {{tt|ro|Georgeta|f}}
+* Russian: {{tt|ru|Георгия|f}}
+* Somali: {{tt|so|Joorjiya}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
-{{cln|en|words suffixed with -ia}}
-{{topics|en|Countries in Asia|Exonyms|Georgia|Georgia, USA|States of the United States}}
+{{cln|en|terms suffixed with -ia}}
+{{c|en|Universities}}
+{{topics|en|Exonyms|Georgia|Georgia, USA}}
 
 ----
 
 ==Basque==
 {{wikipedia|lang=eu}}
 
-===Proper noun===
-{{head|eu|proper noun}}
+===Pronunciation===
+{{eu-IPA}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+===Proper noun===
+{{eu-proper noun|in}}
+
+# {{place|eu|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|eu|state|c/United States|t1=Georgia}}
 
 ====Declension====
-{{eu-decl-prop inanim noun-a|AWW=Georgi|a=1}}
+{{eu-decl-proper-inanim}}
 
-====Related terms====
+====Derived terms====
 * {{l|eu|georgiera}}
 * {{l|eu|georgiar}}
 
-[[Category:eu:Countries]]
-[[Category:eu:Exonyms]]
-[[Category:eu:States of the United States]]
+{{topics|eu|Exonyms}}
+
+----
+
+==Central Nahuatl==
+
+===Proper noun===
+{{head|nhn|proper noun}}
+
+# {{place|nhn|country|cont/Asia|t=Georgia}}
+# {{place|nhn|state|c/United States|t=Georgia}}
 
 ----
 
@@ -300,12 +353,10 @@ Borrowed from {{bor|da|en|Georgia}}.
 ===Proper noun===
 {{head|da|proper noun|genitive|Georgias}}
 
-# {{l|en|Georgia}} (US state)
+# {{place|da|state|c/United States|t1=Georgia}}
 
 ===See also===
 * Not to be confused with {{l|da|Georgien}} in Danish, which means Georgia the country.
-
-[[Category:da:States of the United States]]
 
 ----
 
@@ -313,14 +364,12 @@ Borrowed from {{bor|da|en|Georgia}}.
 {{wikipedia|lang=nl}}
 
 ===Pronunciation===
-* {{audio|Nl-Georgia.ogg|Audio|lang=nl}}
+* {{audio|nl|Nl-Georgia.ogg|Audio}}
 
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{l|en|Georgia}} {{gloss|US state}}
-
-[[Category:nl:States of the United States]]
+# {{place|nl|state|c/United States|t1=Georgia}}
 
 ----
 
@@ -333,16 +382,14 @@ Borrowed from {{bor|da|en|Georgia}}.
 ===Proper noun===
 {{et-proper noun}}
 
-# {{lb|et|country}} {{l|en|Georgia}}
+# {{place|et|country|cont/Europe|and|cont/Asia|t1=Georgia}}
 #: {{syn|et|Gruusia}}
-# {{lb|et|{{l|en|[[United States of America|US]]}} state}} {{l|en|Georgia}}
+# {{place|et|state|c/United States|t1=Georgia}}
 
-===Declension===
+====Declension====
 {{et-decl-ohutu|Georgia}}
 
-[[Category:et:Countries]]
 [[Category:et:Exonyms]]
-[[Category:et:States of the United States]]
 
 ----
 
@@ -350,15 +397,13 @@ Borrowed from {{bor|da|en|Georgia}}.
 {{wikipedia|lang=fi}}
 
 ===Pronunciation===
-* {{fi-IPA}}
-* {{fi-IPA|džoodža}} {{q|only of US state}}
-* {{fi-IPA|džoodžia}} {{q|only of US state}}
+{{fi-p||džoodž(i)a|q2=only of US state}}
 
 ===Proper noun===
 {{fi-proper noun}}
 
-# {{lb|fi|country}} {{l|en|Georgia}}
-# {{lb|fi|{{l|en|[[United States of America|US]]}} state}} {{l|en|Georgia}}
+# {{place|fi|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|fi|state|c/United States|t1=Georgia}}
 
 ====Declension====
 {{fi-decl-kulkija|n=sg|Georgi|a}}
@@ -369,9 +414,7 @@ Borrowed from {{bor|da|en|Georgia}}.
 ====Related terms====
 * {{l|fi|georgialainen}}
 
-[[Category:fi:Countries]]
 [[Category:fi:Exonyms]]
-[[Category:fi:States of the United States]]
 
 ----
 
@@ -379,56 +422,97 @@ Borrowed from {{bor|da|en|Georgia}}.
 {{wikipedia|lang=de}}
 
 ===Pronunciation===
-* {{audio|De-Georgia.ogg|Audio|lang=de}}
+* {{audio|de|De-Georgia.ogg|Audio}}
 
 ===Proper noun===
-{{head|de|proper noun|g=n}}
+{{de-proper noun|toponym}}
 
-# {{l|en|Georgia}} {{gloss|US state}}
+# {{place|de|state|c/United States|t1=Georgia}}
 
 ====See also====
 * {{l|de|Georgien}}
 
-[[Category:de:States of the United States]]
-
 ----
 
+==Indonesian==
+{{wikipedia|lang=id}}
+
+===Etymology===
+{{lbor|id|ML.|Geōrgia}}.
+
+===Pronunciation===
+* {{IPA|id|/ɡeɔrˈɡia/|qual1=}}
+* {{rhymes|id|a|s=4}}
+* {{hyphenation|id|Gé|or|gi|a}}
+
+===Proper noun===
+{{head|id|proper noun|head=Géorgia}}
+
+# {{place|id|country|cont/Europe|t=Georgia}}
+
+===Adjective===
+{{id-adj|head=Géorgia}}
+
+# [[Georgian]]
+
+===See also===
+* {{list:countries of Europe/id}}
+
+===Further reading===
+* {{R:KBBI Daring}}
+
+----
 ==Italian==
 {{wikipedia|lang=it}}
 
 ===Pronunciation===
-* {{IPA|/d͡ʒeˈɔr.d͡ʒa/|[ˈd͡ʒe̯ɔr̺d͡ʒä]|nocount=1|lang=it}}
-* {{rhymes|ɔrdʒa|lang=it}}
-* {{hyph|Geòr|gia|lang=it}}
+{{it-pr|Geòrgia}}
 
 ===Proper noun===
 {{it-proper noun|f}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+# {{place|it|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|it|state|c/United States|t1=Georgia}}
 
 ====Related terms====
 * {{l|it|georgiano}}
 
-[[Category:it:Countries in Asia]]
-[[Category:it:Countries in Europe]]
-[[Category:it:Exonyms]]
-[[Category:it:States of the United States]]
+{{C|it|Exonyms}}
 
 ----
 
 ==Latin==
 {{wikipedia|lang=la}}
 
-===Proper noun===
-{{la-proper noun|Geōrgia|Geōrgiae|f|first}}
+===Etymology===
+A borrowing from {{bor|la|fa|گرج|tr=Gorj}}, from {{der|en|pal|𐭥𐭫𐭥𐭰𐭠𐭭|tr=Wiruz-ān|t=[[Iberian]]s, Georgians|g=p}}, of unknown origin. The Latin form was influenced by ({{m|la|sānctus}}) {{m|la|Geōrgius|t=Saint George}} due to the saint's popularity in the country.
 
-# {{lb|la|New Latin}} {{l|en|Georgia}}
+===Pronunciation===
+* {{la-IPA|eccl=1}}
+
+===Proper noun===
+{{la-proper noun|Geōrgia<1.loc>}}
+
+# {{lb|la|Medieval Latin|New Latin}} {{place|la|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{lb|la|New Latin}} {{place|la|state|c/United States|t1=Georgia}}
 
 ====Declension====
-{{la-decl-1st|num=sg|Geōrgi}}
+{{la-ndecl|Geōrgia<1.loc>}}
 
-[[Category:la:Countries in Europe]]
+====Derived terms====
+* {{l|la|geōrgiānus}}
+
+====Descendants====
+* {{desc|en|Georgia|bor=1}} {{see desc}}
+* {{desc|frm|Georgie|bor=1}}
+** {{desc|fr|Géorgie}}
+** {{desc|enm|Georgie|bor=1}}
+*** {{desc|en|Georgie}} {{q|obsolete}}
+* {{desc|it|Georgia|bor=1}}
+* {{desc|nb|Georgia|bor=1}}
+* {{desc|ro|Georgia|bor=1}}
+* {{desc|es|Georgia|bor=1}}
+
 [[Category:la:Exonyms]]
 
 ----
@@ -439,17 +523,14 @@ Borrowed from {{bor|da|en|Georgia}}.
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+# {{place|nb|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|nb|state|c/United States|t1=Georgia}}
 
 ====Related terms====
 * {{l|nb|georgier}}
 * {{l|nb|georgisk}}
 
 [[Category:no:Exonyms]]
-
-[[Category:nb:Countries]]
-[[Category:nb:States of the United States]]
 
 ----
 
@@ -459,68 +540,95 @@ Borrowed from {{bor|da|en|Georgia}}.
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+# {{place|nn|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|nn|state|c/United States|t1=Georgia}}
 
 ====Related terms====
 * {{l|nn|georgiar}}
 * {{l|nn|georgisk}}
 
-[[Category:nn:Countries]]
-[[Category:nn:States of the United States]]
-
 ----
 
 ==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+{{bor+|pl|en|Georgia}}.
+
+===Pronunciation===
+{{pl-p|dżordżja|a=LL-Q809 (pol)-Poemat-Georgia.wav|h=Geor.gia}}
 
 ===Proper noun===
-{{head|pl|proper noun|g=f}}
+{{pl-proper noun|f}}
 
-# {{l|en|Georgia}} {{gloss|US state}}
+# {{place|pl|state|c/United States|t1=Georgia}}
 
 ====Declension====
-{{pl-decl-noun-sing
-|Georgia
-|Georgii
-|Georgii
-|Georgię
-|Georgią
-|Georgii
-|Georgio
-}}
+{{pl-decl-noun-f|tantum=s}}
 
-[[Category:pl:States of the United States]]
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{C|pl|Exonyms}}
 
 ----
 
 ==Romanian==
 
+===Pronunciation===
+* {{audio|ro|LL-Q7913 (ron)-KlaudiuMihaila-Georgia.wav|Audio}}
+
 ===Proper noun===
 {{head|ro|proper noun|g=f}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+# {{place|ro|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|ro|state|c/United States|t1=Georgia}}
 
-[[Category:ro:Countries]]
-[[Category:ro:States of the United States]]
+----
+
+==Slovak==
+{{wp|lang=sk}}
+
+===Pronunciation===
+* {{sk-IPA|džórdža}}
+
+===Proper noun===
+{{sk-proper noun|f|gen=Georgie|decl=ulica}}
+
+# {{place|sk|state|c/US|t=Georgia}}
+
+===References===
+* {{R:SDK}}
 
 ----
 
 ==Spanish==
 {{wikipedia|lang=es}}
 
+===Etymology===
+{{bor|es|ML.|Geōrgia}}.
+
 ===Pronunciation===
-* {{es-IPA}}
+{{es-IPA}}
+* {{audio|es|LL-Q1321 (spa)-Rodelar-Georgia.wav|Audio}}
 
 ===Proper noun===
 {{es-proper noun|f}}
 
-# {{l|en|Georgia}} {{gloss|a country in [[Eastern Europe]]}}
-# {{l|en|Georgia}} {{gloss|a [[United States of America|US]] state}}
+# {{place|es|country|cont/Europe|and|cont/Asia|t1=Georgia}}
+# {{place|es|state|c/United States|t1=Georgia}}
 
 ====Related terms====
 * {{l|es|georgiano}}
 
-[[Category:es:Countries in Asia]]
-[[Category:es:Exonyms]]
-[[Category:es:States of the United States]]
+{{C|es|Eurasia|Exonyms}}
+
+----
+
+==Swedish==
+
+===Proper noun===
+{{sv-proper noun|n}}
+
+# {{place|sv|state|c/United States|t1=Georgia}}
