@@ -72,7 +72,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U6696-kyu.svg
+|ref={{R:Kanjipedia|0004650700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=日09}}
@@ -83,9 +90,9 @@
 {{ja-readings
 |goon=なん
 |kanon=だん
-|kanyoon=のん
+|toon=のん
 |kun=あたた-か, あたた-かい, あたた-める, あたた-まる
-|nanori=ぬく
+|nanori=あつ, ぬく, はる, やす
 }}
 
 ====Compounds====
