@@ -157,7 +157,14 @@ See [[Template:table:Chinese tones/zh|the table of tones in Chinese]].
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U5e73-kyu.svg
+|ref={{R:Kanjipedia|0006192900}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=干02}}
@@ -168,8 +175,8 @@ See [[Template:table:Chinese tones/zh|the table of tones in Chinese]].
 |kanon=へい
 |toon=ひん
 |kanyoon=ひょう<ひやう
-|kun=たい-ら<たひ-ら, ひら-
-|nanori=おさむ, さね, たか, つね, とし, なり, なる, はかる, ひとし, まさる, もち, よし
+|kun=たい-ら<たひ-ら, たいら-, たい-らか, たい-らぐ, たい-らげる, ひら-, ひら-に
+|nanori=おさむ, さね, たいら, たか, つね, とし, なり, なる, はかる, ひとし, まさる, もち, よし
 }}
 
 As an alternative form for {{ja-l|弁}}:
