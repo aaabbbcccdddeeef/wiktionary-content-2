@@ -53,7 +53,14 @@ Cognate with {{och-l|道|road}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U5c0e-kyu.svg
+|ref={{R:Kanjipedia|0005282100}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=寸12}}
@@ -62,14 +69,18 @@ Cognate with {{och-l|道|road}}.
 
 ====Readings====
 {{ja-readings
-|goon=どう
-|kanon=とう
+|goon=どう<だう
+|kanon=とう<たう
 |kun=みちび-く, しるべ-
+|nanori=おさ, みち
 }}
 
 ===Etymology===
 {{ja-kanjitab|しるべ|yomi=k}}
 {{ja-see|しるべ}}
+
+===References===
+<references/>
 
 ----
 
