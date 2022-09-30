@@ -60,12 +60,12 @@
 ----
 
 ==Japanese==
-{{rfc|ja|more definitions than just frickin martial arts}}
 
 ===Kanji===
 {{ja-kanji|rs=土06}}
 
-# {{rfdef|ja|sort=土06}}
+# [[mold]], [[pattern]]
+# [[type]], [[model]], [[style]]
 
 ====Readings====
 {{ja-readings
@@ -78,10 +78,28 @@
 ====Compounds====
 * {{ja-r|模%型|も%けい}}
 
-===Noun===
+===Etymology===
+{{ja-kanjitab|かた|yomi=k}}
+
+====Noun====
 {{ja-noun|かた}}
 
+# a [[style]], a [[type]]
+# a [[mold]], a [[pattern]], a [[template]]
 # {{lb|ja|martial arts}} [[kata]] {{gloss|choreographed training exercises}}
+# {{lb|ja|noh|kabuki}} a particular style of stage [[movement]] or [[choreography]]
+# a [[convention]], a standardized form or style
+# screen size (of a television, computer monitor, etc.) in [[inch]]es
+#: {{ja-usex-inline|32'''型'''テレビ|32 '''かた''' テレビ|a 32-inch television}}
+
+====Suffix====
+{{ja-pos|suffix|がた}}
+
+# [[type]]
+#: {{ja-usex-inline|血液'''型'''|けつえき'''-がた'''|blood '''type'''}}
+# [[shape]], [[pattern]], [[likeness]]
+#: {{ja-usex-inline|ハート'''型'''|ハート'''-がた'''|heart-shaped}}
+#: {{syn|ja|形|tr=-gata}}
 
 ====See also====
 * {{pedia|lang=ja}}
