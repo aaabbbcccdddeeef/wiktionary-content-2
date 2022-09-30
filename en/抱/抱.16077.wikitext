@@ -64,7 +64,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U62b1-kyu.svg
+|ref={{R:Kanjipedia|0006351800}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=手05}}
@@ -76,8 +83,12 @@
 {{ja-readings
 |goon=ぼう
 |kanon=ほう
-|kun=いだ-く, だ-く, かか-える
+|kun=いだ-く, かか-える, だ-く
+|nanori=もち
 }}
+
+===References===
+<references/>
 
 ----
 
