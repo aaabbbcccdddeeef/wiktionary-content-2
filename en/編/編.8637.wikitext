@@ -56,6 +56,14 @@ From {{inh|zh|sit-pro|*p(r)an/t ~ b(r)an/t||to braid; to plait; to interweave}}.
 ----
 
 ==Japanese==
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-vs1=U7de8-kyu.svg
+|ref={{R:Kanjipedia|0006275500}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=糸09}}
@@ -68,7 +76,8 @@ From {{inh|zh|sit-pro|*p(r)an/t ~ b(r)an/t||to braid; to plait; to interweave}}.
 {{ja-readings
 |goon=へん
 |kanon=へん
-|kun=あ-む, とじいと-, ふみ-
+|kun=あ-む, あ-み, とじいと-, ふみ-
+|nanori=つら, よし
 }}
 
 ====Compounds====
@@ -81,7 +90,7 @@ From {{inh|zh|sit-pro|*p(r)an/t ~ b(r)an/t||to braid; to plait; to interweave}}.
 
 ===Etymology===
 {{ja-kanjitab|へん|yomi=o}}
-From {{der|ja|sort=へん|ltc|編|tr=pen}}.
+From {{der|ja|sort=へん|ltc|-|tr=pen}} {{ltc-l|編}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}
