@@ -78,7 +78,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64067;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA43
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa43.svg
+|ref={{R:Kanjipedia|0003296400}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=日08|kyu=&#64067;}}
@@ -89,7 +97,8 @@
 {{ja-readings
 |goon=しょ<しよ
 |kanon=しょ<しよ
-|kun=あつ-い
+|kun=あつ-い<あつ-し, あつ-さ
+|nanori=あつ, なつ
 }}
 
 ====Compounds====
@@ -100,6 +109,9 @@
 ====See also====
 * {{l|ja|暑い}}
 * {{l|ja|暑さ}}
+
+===References===
+<references/>
 
 ----
 
