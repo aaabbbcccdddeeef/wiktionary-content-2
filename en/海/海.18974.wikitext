@@ -98,7 +98,15 @@ STEDT compares {{och-l|海}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64069;|c=y}} <!-- Note: Kyūjitai form of 海 is U+FA45 (CJK compatibility ideograph) -->
+{{ja-kanji forms-IVS
+|code=FA45
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa45.svg
+|ref={{R:Kanjipedia|0000784700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=水06|kyu=&#64069;}}
@@ -112,7 +120,7 @@ STEDT compares {{och-l|海}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 |goon=かい
 |kanon=かい
 |kun=うみ-, わた-, わだ-
-|nanori=あ, あま, うな, うん, え, か, た, ひろ, ひろし, ぶ, まち, まま, み, め, わたる
+|nanori=あ, あま, うな, うみ, うん, え, か, た, ひろ, ひろし, ぶ, まち, まま, み, め, わたる
 }}
 
 ====Compounds====
