@@ -98,7 +98,15 @@ Possibly an {{liushu|ic|nocap=1}}: a {{zh-l|*犬|dog}} guarding four {{zh-l|*口
 ----
 
 ==Japanese==
-{{ja-kanji forms|'''&#64056;'''|c=y}}
+{{ja-kanji forms-IVS
+|code=FA38
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa38.svg
+|ref={{R:Kanjipedia|0001271700}}
+}}
 <div style="float:right;">
 [[File:RYAKUJI ki.png|thumb|right|100px|{{w|Ryakuji}} for 器.]]
 </div>
@@ -110,7 +118,8 @@ Possibly an {{liushu|ic|nocap=1}}: a {{zh-l|*犬|dog}} guarding four {{zh-l|*口
 {{ja-readings
 |goon=き
 |kanon=き
-|kun=うつわ-
+|kun=うつわ-<うつは-
+|nanori=かた
 }}
 
 ===Etymology 1===
