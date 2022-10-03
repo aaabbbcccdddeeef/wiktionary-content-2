@@ -82,7 +82,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64052;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA34
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa34.svg
+|ref={{R:Kanjipedia|0001621200}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=力11}}
@@ -93,7 +101,8 @@
 {{ja-readings
 |goon=ごん
 |kanon=きん
-|kun=つと-める, つと-まる, つと-め
+|kun=つと-める<つと-む, つと-まる, いそ-う<いそ-ふ, いそ-し, いそ-しむ, つと-め
+|nanori=いそ, いそし, すすむ, つとむ, とし, のり, ゆき
 }}
 
 ====Compounds====
@@ -121,6 +130,9 @@
 {{ja-pos|proper|つとむ}}
 
 # {{given name|ja|male|sort=つとむ}}
+
+===References===
+<references/>
 
 ----
 
