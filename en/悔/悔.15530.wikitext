@@ -47,7 +47,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64061;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA3D
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa3d.svg
+|ref={{R:Kanjipedia|0000782100}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=心07|kyu=&#64061;}}
@@ -56,7 +64,7 @@
 {{ja-readings
 |goon=け<け<くゑ
 |kanon=かい<くわい
-|kun=く-いる, くや-し.い, く-やむ
+|kun=く-いる<く-ゆ, くや-し.い, く-やむ, く-い, く-やみ
 }}
 
 ===Etymology 1===
@@ -78,6 +86,9 @@ From {{der|ja|ltc|sort=かい|-}} {{ltc-l|悔}}.
 ===Etymology 3===
 {{ja-kanjitab|くやみ|yomi=k}}
 {{ja-see|くやみ}}
+
+===References===
+<references/>
 
 ----
 
