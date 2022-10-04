@@ -64,7 +64,15 @@ Note difference between Chinese form, which uses {{lang|und|sc=Hani|[[曾]]}}, a
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64049;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA31
+|vs1=01
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa31.svg
+|ref={{R:Kanjipedia|0004260800}}
+}}
 
 ===Glyph origin===
 Japanese shinjitai form: {{Han simp||f=曾|t=曽}}.
@@ -79,8 +87,9 @@ Japanese shinjitai form: {{Han simp||f=曾|t=曽}}.
 {{ja-readings
 |goon=そう
 |kanon=そう
-|kun=ぼうず
+|kun=ぼうず-
 }}
+{{-}}
 
 ====Compounds====
 {{der4|ja
@@ -121,7 +130,10 @@ Japanese shinjitai form: {{Han simp||f=曾|t=曽}}.
 
 # a (Buddhist) [[priest]], [[bonze]]
 
-[[Category:ja:Monasticism]]
+===References===
+<references/>
+
+[[Category:ja:Monasticism|そう]]
 
 ----
 
