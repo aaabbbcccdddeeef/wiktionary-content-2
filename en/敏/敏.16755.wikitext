@@ -53,7 +53,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64065;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA41
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa41.svg
+|ref={{R:Kanjipedia|0005989500}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=攴07|kyu=&#64065;}}
@@ -66,7 +74,8 @@
 {{ja-readings
 |goon=みん
 |kanon=びん
-|kun=と-し, さと-い
+|kun=さと-い<さと-し, と-し
+|nanori=あきら, さと, さとし, すすむ, つとむ, と, とし, はや, はやし, はる, みぬ, ゆき, よし
 }}
 
 ====Compounds====
