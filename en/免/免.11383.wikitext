@@ -90,7 +90,15 @@ There is another variant, in which the left-handed stroke [[㇓]] is written as 
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64050;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA32
+|vs1=01
+|vs2=04
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa32.svg
+|ref={{R:Kanjipedia|0006704000}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=儿06}}
@@ -106,7 +114,7 @@ There is another variant, in which the left-handed stroke [[㇓]] is written as 
 {{ja-readings
 |goon=めん
 |kanon=べん
-|kun=まぬか-れる, ゆる-す
+|kun=まぬか-れる<まぬか-る, まぬが-れる<まぬ-かる, ぬ-ぐ, ゆる-す
 }}
 
 ====Compounds====
@@ -120,6 +128,9 @@ There is another variant, in which the left-handed stroke [[㇓]] is written as 
 {{ja-noun|めん}}
 
 # [[dismissal]], being made to [[quit]]
+
+===References===
+<references/>
 
 ----
 
