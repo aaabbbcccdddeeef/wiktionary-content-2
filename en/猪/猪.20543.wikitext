@@ -30,7 +30,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64022;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA16
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa16.svg
+|ref={{R:Kanjipedia|0004764800}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=犬08|kyu=&#64022;}}
@@ -41,9 +49,10 @@
 {{ja-readings
 |goon=ちょ
 |kanon=ちょ
-|kun=い-<ゐ-, いのしし-<ゐのしし-
-|nanori=しし
+|kun=い-<ゐ-, いのしし-<ゐのしし-, いのこ-<ゐのこ-, しし-
+|nanori=い, しし
 }}
+{{-}}
 
 ====Compounds====
 {{der-top|Compounds}}
