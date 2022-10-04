@@ -64,7 +64,15 @@ The [[Kangxi]] dictionary lists 塚 as the [[unorthodox]] form ([[俗字]]) of [
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64016;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA10
+|vs1=01
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa10.svg
+|ref={{R:Kanjipedia|0004896800}}
+}}
 
 ===Kanji===
 {{ja-kanji|rs=土10|kyu=&#64016;}}
@@ -76,7 +84,9 @@ The [[Kangxi]] dictionary lists 塚 as the [[unorthodox]] form ([[俗字]]) of [
 |goon=ちゅう
 |kanon=ちょう
 |kun=つか-
+|nanori=つか
 }}
+{{-}}
 
 ===Etymology===
 <div style="float:right;">
