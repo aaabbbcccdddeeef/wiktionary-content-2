@@ -72,7 +72,15 @@ Alternatively, it is perhaps derived from {{och-l|星|star}}: "become starry" > 
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64018;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA12
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa12.svg
+|ref={{R:Kanjipedia|0003900400}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=日08|kyu=&#64018;}}
@@ -81,16 +89,19 @@ Alternatively, it is perhaps derived from {{och-l|星|star}}: "become starry" > 
 
 ====Readings====
 {{ja-readings
-|goon=しょう
+|goon=しょう, じょう<じやう
 |kanon=せい
-|kun=は-れる, はれ-, は-らす
-|nanori=はる
+|kun=は-らす, は-れる<は-る, はれ-
+|nanori=きよし, てる, なり, はる, はれ
 }}
 
 ===Noun===
 {{ja-noun|はれ}}
 
 # {{alternative form of|ja|晴れ}}
+
+===References===
+<references/>
 
 ----
 
