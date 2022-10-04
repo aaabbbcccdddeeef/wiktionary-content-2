@@ -89,7 +89,15 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#xfa44;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA44
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa44.svg
+|ref={{R:Kanjipedia|0005591500}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=木07|kyu=&#xfa44;}}
@@ -99,7 +107,9 @@ mainstream Taiwan: môe/m̂ - vernacular; mûi - literary
 |goon=まい, め
 |kanon=ばい
 |kun=うめ-
+|nanori=うめ, め
 }}
+{{-}}
 
 ====Compounds====
 {{der-top3|Compounds}}
