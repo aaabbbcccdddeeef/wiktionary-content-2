@@ -82,7 +82,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64055;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA37
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa37.svg
+|ref={{R:Kanjipedia|0004614300}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=口11|kyu=&#64055;}}
@@ -96,8 +104,9 @@
 {{ja-readings
 |goon=たん
 |kanon=たん
-|kun=なげ-く, なげ-かわし.い
+|kun=なげ-く, なげ-かわし.い<なげ-かはし, なげ-かう<なげ-かふ
 }}
+{{-}}
 
 ===Etymology===
 {{ja-kanjitab|たん|yomi=o|alt=歎}}
