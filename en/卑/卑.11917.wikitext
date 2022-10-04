@@ -51,7 +51,16 @@ Note that in Japanese [[shinjitai]], the top left handed stroke [[㇓]] is writt
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64053;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA35
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-shin=U2f82d.svg
+|pic-kyu=Ufa35.svg
+|ref={{R:Kanjipedia|0005812700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=十06|kyu=&#64053;}}
@@ -62,8 +71,12 @@ Note that in Japanese [[shinjitai]], the top left handed stroke [[㇓]] is writt
 {{ja-readings
 |goon=ひ
 |kanon=ひ
-|kun=いや-し.い, いや-しめる, いや-しむ, ひく-い
+|kun=いや-し.い<いや-し, いや-しむ, いや-しめる, ひく-い<ひく-し
 }}
+
+===References===
+<references/>
+{{-}}
 
 ----
 
