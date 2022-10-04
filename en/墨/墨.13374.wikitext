@@ -111,7 +111,15 @@ From {{inh|zh|sit-pro|*s-maŋ ~ s-mak}}. Cognate with {{och-l|黑|black}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64058;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA3A
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa3a.svg
+|ref={{R:Kanjipedia|0006485700}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=土11|kyu=&#64058;}}
@@ -123,17 +131,22 @@ From {{inh|zh|sit-pro|*s-maŋ ~ s-mak}}. Cognate with {{och-l|黑|black}}.
 {{ja-readings
 |goon=もく
 |kanon=ぼく
-|kun=すみ-
+|kun=すみ-, くろ-い<くろ-し
+|nanori=すみ
 }}
 
 ====Compounds====
 * {{ja-l|墨客}}
 * {{ja-r|墨%汁|ぼく%じゅう}}
 * {{ja-r|墨%絵|すみ%え}}
+{{-}}
 
 ===Etymology===
 {{ja-kanjitab|すみ|yomi=k}}
 {{ja-see|すみ}}
+
+===References===
+<references/>
 
 ----
 
