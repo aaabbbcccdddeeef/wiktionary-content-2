@@ -57,7 +57,15 @@ From Proto-Sinitic *''lian''.
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#63773;|c=y}}
+{{ja-kanji forms-IVS
+|code=F91D
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Uf91d.svg
+|ref={{R:Kanjipedia|0007063400}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=木17|kyu=&#63773;}}
@@ -68,9 +76,9 @@ From Proto-Sinitic *''lian''.
 
 ====Readings====
 {{ja-readings
-|goon=らん
-|kanon=らん
-|kun=てすり-, おばしま-
+|goon=らん, れん
+|kanon=らん, れん
+|kun=おばしま-, おり-, てすり-, わく-
 }}
 
 ===Noun===
@@ -78,6 +86,9 @@ From Proto-Sinitic *''lian''.
 
 # [[column]] in a newspaper
 # [[field]] in a form etc.
+
+===References===
+<references/>
 
 ----
 
