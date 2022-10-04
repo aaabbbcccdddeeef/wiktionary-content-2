@@ -44,7 +44,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#xfa46;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA46
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa46.svg
+|ref={{R:Kanjipedia|0003294900}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=n|rs=水08|kyu=&#xfa46;}}
@@ -56,8 +64,9 @@
 |goon=しょ<しよ
 |kanon=しょ<しよ
 |kun=なぎさ-, みぎわ-<みぎは-
-|nanori=すか, なぎ
+|nanori=すか, なぎ, なぎさ
 }}
+{{-}}
 
 ====Compounds====
 {{der-top|Compounds}}
