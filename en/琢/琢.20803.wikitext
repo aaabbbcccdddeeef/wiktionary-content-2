@@ -56,18 +56,37 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#64074;|c=y}}
+{{ja-kanji forms-IVS
+|code=FA4A
+|vs1=00
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Ufa4a.svg
+|ref={{R:Kanjipedia|0004533600}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=玉07|kyu=&#64074;}}
 
-# {{rfdef|ja|sort=玉07}}
+# to [[polish]]
+#: {{syn|ja|磨}}
+# to [[cultivate]] one's skill
+#: {{syn|ja|磨}}
+# to [[select]]
+#: {{syn|ja|択}}
 
 ====Readings====
 {{ja-readings
-|on=たく
-|kun=あや,たか
+|goon=たく
+|kanon=たく
+|kun=う-つ, えら-ぶ, みが-く, たた-く
+|nanori=あや, たか, みがく
 }}
+
+===References===
+<references/>
+{{-}}
 
 ----
 
