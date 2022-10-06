@@ -120,7 +120,16 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#63753;|c=y}}
+{{ja-kanji forms-IVS
+|code=F909
+|vs1=01
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Uf909.svg
+|ref={{R:Kanjipedia|0001765100}}
+}}
+
 ===Kanji===
 {{ja-kanji|grade=c|rs=大06}}
 
@@ -132,7 +141,8 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 {{ja-readings
 |goon=け, けち, せち
 |kanon=けい, けつ, せつ
-|kun=ちぎ-る, きざ-む, わりふ-
+|kun=ちぎ-る, あ-う<あ-ふ, ちぎ-り, きざ-む, わりふ-
+|nanori=ちぎり, ちぎる, ひさ
 }}
 
 ====Compounds====
@@ -142,6 +152,9 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 {{ja-pos|proper|ひさし}}
 
 # {{given name|ja|male}}
+
+===References===
+<references/>
 
 [[Category:Japanese male given names|ひさし]]
 
