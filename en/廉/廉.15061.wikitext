@@ -63,7 +63,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#63906;|c=y}}
+{{ja-kanji forms-IVS
+|code=F9A2
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Uf9a2.svg
+|ref={{R:Kanjipedia|0007301600}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=广10|kyu=&#63906;}}
@@ -72,9 +80,9 @@
 {{ja-readings
 |goon=れん<れん<れむ
 |kanon=れん<れん<れむ
-|kun=きよ-い, やす-い
+|kun=いさぎよ-い<いさぎよ-し, かど-, きよ-い, やす-い<やす-し
+|nanori=おさ, かど, きよ, きよし, すが, すなお, ただし, やす, ゆき
 }}
-{{attn|ja|kun also かど?}}
 
 ===Noun===
 {{ja-noun|かど}}
@@ -85,6 +93,9 @@
 {{ja-pos|proper|れん}}
 
 # {{given name|ja|male|or=female|sort=れん}}
+
+===References===
+<references/>
 
 ----
 
