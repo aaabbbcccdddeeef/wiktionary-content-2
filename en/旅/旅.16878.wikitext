@@ -69,9 +69,17 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms-IVS
+|code=F983
+|svs=0
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=Uf983.svg
+}}
 
 ===Kanji===
-{{ja-kanji forms|&#63875;|c=y}}
 {{ja-kanji|grade=3|kyu=&#63875;|rs=方06}}
 
 # [[trip]]
@@ -81,7 +89,8 @@
 {{ja-readings
 |goon=ろ
 |kanon=りょ
-|kun=たび-
+|kun=たび-, つら-ねる, なら-ぶ
+|nanori=たか, たび, もろ
 }}
 
 ====Compounds====
@@ -102,10 +111,10 @@
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|りょ}}
-From {{der|ja|ltc|-|sort=りょ}} {{m|zh|旅|tr=ljo{{sup|X}}||a military unit of 500 men; to go [on a sortie; on a trip or journey]}}.
+From {{der|ja|ltc|-|sort=りょ}} {{ltc-l|旅|a military unit of 500 men; to go [on a sortie; on a trip or journey]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|りょ}}
+{{ja-pron|yomi=kanon|りょ|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|りょ}}
