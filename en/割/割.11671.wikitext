@@ -96,7 +96,15 @@ On the other hand, STEDT compares it to {{inh|zh|sit-pro|*d-ra-t||cut; slash}}, 
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F822;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F822
+|svs=0
+|vs1=00
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f822.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|kyu=&#x2F822;|rs=刀10}}
@@ -108,7 +116,8 @@ On the other hand, STEDT compares it to {{inh|zh|sit-pro|*d-ra-t||cut; slash}}, 
 {{ja-readings
 |goon=かち<かち
 |kanon=かつ<かつ
-|kun=さ-く, わ-る, わ-れる, わり-
+|kun=さ-く, わ-る, わ-れる<わ-る, わり-, き-る
+|nanori=さき
 }}
 
 ====Compounds====
