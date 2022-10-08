@@ -67,7 +67,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F903;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F903
+|svs=0
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f903.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=|kyu=&#x2F903;|rs=水07}}
@@ -78,7 +86,8 @@
 {{ja-readings
 |goon=ごう<がう
 |kanon=こう<かう
-|kun=ひろ-い, おお-き.い
+|kun=ひろ-い<ひろ-し, おお-い<おほ-し, おお-き.い
+|nanori=いさむ, おおい, きよし, はる, ひろ, ひろし, ゆたか, よう
 }}
 
 ====Compounds====
