@@ -57,7 +57,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F8AC;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F8AC
+|svs=0
+|vs1=01
+|vs2=06
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f8ac.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|kyu=&#x2F8AC;|rs=心12}}
@@ -68,7 +76,8 @@
 {{ja-readings
 |goon=こん
 |kanon=けん
-|kun=のり-, おきて
+|kun=おきて-, のり-
+|nanori=あきら, かず, さだ, ただし, ただす, とし, のり
 }}
 
 ====Compounds====
