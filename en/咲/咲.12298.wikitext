@@ -19,7 +19,13 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|pic2=U54b2-kyu.svg|c=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U54b2-kyu.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=口06}}
@@ -30,7 +36,8 @@
 {{ja-readings
 |goon=しょう<せう
 |kanon=しょう<せう
-|kun=さ-く, わら-う<わら-ふ
+|kun=さ-く, え-む, わら-う<わら-ふ
+|nanori=さき
 }}
 
 ===Etymology===
