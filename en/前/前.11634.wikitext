@@ -106,7 +106,13 @@ In the current form, {{zh-l|*止}} is simplified to {{zh-l|*䒑}} and {{zh-l|*�
 ----
 
 ==Japanese==
-{{ja-kanji forms|pic2=U524d-kyu.svg|c=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U524d-kyu.svg
+}}
 {{attention|ja|shouldn't one of these senses cover English [[ago]]?}}
 
 ===Kanji===
@@ -119,8 +125,8 @@ In the current form, {{zh-l|*止}} is simplified to {{zh-l|*䒑}} and {{zh-l|*�
 {{ja-readings
 |goon=ぜん
 |kanon=せん
-|kun=まえ-<まへ-, さき-
-|nanori=さき, さと, まい
+|kun=まえ-<まへ-, さき-, すす-む
+|nanori=くま, さき, さと, すすむ, ちか, まい
 }}
 
 ====Compounds====
