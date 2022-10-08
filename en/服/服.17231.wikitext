@@ -81,7 +81,13 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|pic2=U670d-kyu.svg|c=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U670d-kyu.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=月04}}
@@ -94,8 +100,9 @@
 {{ja-readings
 |goon=ぶ, ぶく
 |kanon=ふう, ふく
-|kun=まつら-う, まつろ-う
-|nanori=はつ, はら
+|kanyoon=ふく
+|kun=まつら-う, まつろ-う<まつろ-ふ
+|nanori=こと, はつ, はとり, はら, もと, ゆき, よ
 }}
 
 ===Counter===
