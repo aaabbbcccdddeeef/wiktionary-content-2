@@ -109,7 +109,15 @@ This variant form is the name of the second [[tetragram]] of the [[Taixuanjing]]
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F83F;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F83F
+|svs=0
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f83f.svg
+}}
 
 ===Kanji===
 {{ja-kanji|grade=4|kyu=&#x2F83F;|rs=口05}}
@@ -122,7 +130,8 @@ This variant form is the name of the second [[tetragram]] of the [[Taixuanjing]]
 {{ja-readings
 |goon=しゅ<しゆ, す
 |kanon=しゅう<しう
-|kun=まわ-り, あまね-し, あまね-く, めぐ-る
+|kun=まわ-り<まは-り, あまね-く, あまね-し, めぐ-る
+|nanori=あまね, あまねし, いたる, かた, かぬ, かね, ただ, ちか, ちかし, なり, のり, ひろし, まこと
 }}
 
 ====Compounds====
@@ -131,7 +140,7 @@ This variant form is the name of the second [[tetragram]] of the [[Taixuanjing]]
 
 ===Etymology===
 {{ja-kanjitab|しゅう|yomi=o}}
-From {{bor|ja|ltc|周|sort=しゅう}}.
+From {{bor|ja|ltc|-|sort=しゅう}} {{ltc-l|周}}.
 
 ===Pronunciation===
 {{ja-pron|yomi=kanon|しゅう|acc=1|acc_ref=DJR,NHK}}
