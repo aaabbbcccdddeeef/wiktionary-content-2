@@ -55,7 +55,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=02
+|vs2=04
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U6715-kyu.svg
+|ref={{R:ja:KDJ|1091|596}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=月06}}
@@ -66,16 +73,19 @@
 {{ja-readings
 |goon=じん<じん<ぢむ
 |kanon=ちん<ちん<ちむ
-|kun=われ-, わ-れ, きざ-し
+|kun=きざ-し, わ-が, われ-, わ-れ
 }}
 
-===Etymology===
-{{ja-kanjitab|ちん|yomi=o}}
+===Pronunciation===
+{{ja-pron|ちん|y=kanon|acc=1|acc_ref=SMK7,DJR}}
 
-====Pronoun====
+===Pronoun===
 {{ja-pos|pronoun|ちん}}
 
 # {{lb|ja|imperial}} [[I]], [[me]] {{gloss|similar to the [[royal we]]}}
+
+===References===
+<references/>
 
 ----
 
