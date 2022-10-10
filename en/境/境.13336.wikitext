@@ -54,6 +54,12 @@ An allofam of {{och-l|疆|boundary}}. Cognate with {{och-l|竟|to end}} ({{zh-re
 ----
 
 ==Japanese==
+{{ja-kanji forms-IVS
+|vs1=02
+|col-vs1=hdmj
+|pic-kyu=U5883-kyu.svg
+|ref={{R:ja:KDJ|548|324}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=5|rs=土11}}
@@ -62,7 +68,8 @@ An allofam of {{och-l|疆|boundary}}. Cognate with {{och-l|竟|to end}} ({{zh-re
 {{ja-readings
 |goon=きょう<きやう
 |kanon=けい
-|kun=さかい-<さかひ-
+|kun=さかい-<さかひ-, お-わる<を-はる, さか-, さか-う<さか-ふ
+|nanori=さかい
 }}
 
 ====Compounds====
@@ -78,7 +85,7 @@ An allofam of {{och-l|疆|boundary}}. Cognate with {{och-l|竟|to end}} ({{zh-re
 ===Etymology 1===
 {{ja-kanjitab|きょう|yomi=o}}
 
-From {{bor|ja|ltc|-|sort=きょう}} {{m|zh|境|tr=kjæng<sup>X</sup>}}.
+From {{bor|ja|ltc|-|sort=きょう}} {{ltc-l|境}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|きょう|acc=1|acc_ref=DJR}}
