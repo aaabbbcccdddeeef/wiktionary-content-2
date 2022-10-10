@@ -1,15 +1,133 @@
-== [[verb]] == 
-# to encourage into action
-# to arouse an organism to functional activity
+==English==
 
-=== Translations === 
-*[[Dutch]]: [[Stimuleren]]
-*[[Esperanto]]: [[stimuli]]
-*[[French]]: [[stimuler]] 
-*[[Indonesian]]: [[rangsang|merangsang]] 
-*[[Interlingua]]: [[stimular]] 
-*[[Italian]]: [[stimolare]] 
-*[[Japanese]]: [[刺激]]する ([[しげき]]する, shigeki-suru) 
-*[[Portuguese]]: [[estimular]], [[incentivar]]
-*[[Spanish]]: [[estimular]]
-*[[Swedish]]: [[stimulera]]
+===Etymology===
+Borrowed from {{bor|en|la|stimulātus}}, perfect passive participle of {{m|la|stimulō||goad on}}, from {{uder|en|la|stimulus||goad}}.
+
+===Pronunciation===
+* {{IPA|en|/ˈstɪmjʊleɪt/}}
+* {{audio|en|En-us-stimulate.ogg|Audio (US)}}
+
+===Verb===
+{{en-verb}}
+
+# To [[encourage]] into action.
+#: {{ux|en|'''stimulate''' the economy}}
+#* {{quote-book|en|year=1842|author={{w|Letitia Elizabeth Landon}}|title=Lady Anne Granard|volume=1|page=18|text=To most others Lord Allerton's obvious preference for Mary would have been an insuperable obstacle; it only served to '''stimulate''' her ladyship.}}
+# To [[arouse]] an organism to functional activity.
+#: {{ux|en|'''stimulate''' my mind}}
+#: {{ux|en|He was sexually '''stimulated''' by the dancer's moves.}}
+
+====Synonyms====
+* {{sense|encourage}} {{l|en|encourage}}, {{l|en|induce}}, {{l|en|incite}}, {{l|en|provoke}}; see also [[Thesaurus:incite]]
+* {{sense|arouse}} {{l|en|animate}}, {{l|en|arouse}}, {{l|en|energize}}, {{l|en|energise}}, {{l|en|excite}}, {{l|en|perk up}}; see also [[Thesaurus:enliven]]
+
+====Antonyms====
+* {{sense|arouse}} {{l|en|de-energize}}, {{l|en|sedate}}, {{l|en|stifle}}
+
+====Derived terms====
+{{der2|en
+|overstimulate
+|restimulate
+|hyperstimulate
+|understimulate
+|destimulate
+|instimulate
+|costimulate
+|biostimulate
+|superstimulate
+|electrostimulate
+|microstimulate}}
+
+====Related terms====
+{{rel3|en|stimulant|stimulation|stimulator|stimulatory|stimulus}}
+
+====Translations====
+{{trans-top|to encourage into action}}
+* Armenian: {{t+|hy|գրգռել|sc=Armn}}
+* Belarusian: {{t|be|стымулява́ць|impf|pf}}
+* Bulgarian: {{t+|bg|подбуждам}}
+* Catalan: {{t+|ca|estimular}}
+* Chinese:
+*: Mandarin: {{t+|cmn|刺激|tr=cìjī|sc=Hani}}
+* Czech: {{t|cs|podnítit}}
+* Dutch: {{t+|nl|stimuleren}}, {{t+|nl|aansporen}}, {{t+|nl|prikkelen}}
+* Esperanto: {{t|eo|stimuli}}
+* Finnish: {{t+|fi|piristää}}, {{t+|fi|yllyttää}}, {{t+|fi|ärsyttää}}, {{t+|fi|elvyttää}} {{q|the economy, etc.}}, {{t+|fi|stimuloida}}
+* French: {{t+|fr|stimuler}}
+* Galician: {{t+|gl|estimular}}
+* German: {{t+|de|stimulieren}}
+* Greek: {{t+|el|παρακινώ|sc=Grek}}, {{t+|el|παροτρύνω|sc=Grek}}
+*: Ancient: {{t|grc|ἐρεθίζω}}
+* Hungarian: {{t+|hu|elősegít}}
+* Italian: {{t+|it|stimolare}}
+{{trans-mid}}
+* Japanese: {{t+|ja|刺激|tr=しげきする, shigeki suru|alt=刺激する}}
+* Kurdish:
+*: Northern Kurdish: {{t|kmr|hander kirin|f}}
+* Latin: {{t+|la|commoveō}}
+* Maltese: {{t|mt|ħeġġeġ}}
+* Maori: {{t|mi|whakahohe}}, {{t|mi|whakaihiihi}}, {{t|mi|whakahihiko}}, {{t|mi|whakamanawa}}
+* Norman: {{t|nrf|stînmuler}}
+* Occitan: {{t+|oc|estimular}}
+* Persian: {{t+|fa|انگیختن}}, {{t+|fa|برانگیختن}}
+* Polish: {{t+|pl|stymulować|impf}}
+* Portuguese: {{t+|pt|estimular}}, {{t+|pt|incentivar}}
+* Romanian: {{t+|ro|stimula}}
+* Russian: {{t+|ru|стимули́ровать}}
+* Spanish: {{t+|es|estimular}}
+* Swedish: {{t+|sv|egga}}, {{t+|sv|reta}}, {{t+|sv|sporra}}
+* Ukrainian: {{t|uk|стимулюва́ти|impf|pf}}
+{{trans-bottom}}
+
+{{trans-top|to arouse an organism to functional activity}}
+* Albanian: {{t+|sq|stimuloj}}
+* Armenian: {{t+|hy|գրգռել|sc=Armn}}
+* Bulgarian: {{t+|bg|стимулирам}}
+* Catalan: {{t+|ca|estimular}}
+* Chinese:
+*: Mandarin: {{t+|cmn|刺激|tr=cìjī|sc=Hani}}
+* Dutch: {{t+|nl|stimuleren}}, {{t+|nl|prikkelen}}
+* Esperanto: {{t|eo|stimuli}}
+* Finnish: {{t+|fi|kiihottaa}}, {{t+|fi|elvyttää}}, {{t+|fi|stimuloida}}
+* French: {{t+|fr|stimuler}}
+* German: {{t+|de|stimulieren}}
+{{trans-mid}}
+* Greek: {{t+|el|διεγείρω|sc=Grek}}
+* Italian: {{t+|it|stimolare}}
+* Japanese: {{t+|ja|刺激|tr=しげきする, shigeki suru|alt=刺激する}}
+* Norman: {{t|nrf|stînmuler}}
+* Persian: {{t+|fa|تحریکیدن}}
+* Portuguese: {{t+|pt|estimular}}
+* Romanian: {{t+|ro|stimula}}
+* Russian: {{t+|ru|стимули́ровать}}
+* Spanish: {{t+|es|estimular}}
+* Swedish: {{t|sv|ge näring åt}}, {{t+|sv|pigga upp}}, {{t+|sv|stimulera}}, {{t+|sv|väcka}}
+* Ukrainian: {{t|uk|збу́джувати|impf}}, {{t|uk|збуди́ти|pf}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Indonesian: {{t+check|id|rangsang|alt=merangsang}}
+{{trans-mid}}
+* Interlingua: {{t-check|ia|stimular}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=aeilmsttu|multiseat|mutilates|ultimates}}
+
+----
+
+==Esperanto==
+
+===Adverb===
+{{eo-part}}
+
+# {{eo-form of|stimul|ate}}
+
+----
+
+==Latin==
+
+===Verb===
+{{la-verb-form|stimulāte}}
+
+# {{inflection of|la|stimulō||2|p|pres|actv|impr}}
