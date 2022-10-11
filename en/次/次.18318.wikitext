@@ -115,7 +115,15 @@ Probably from ''*s-'' + {{och-l|二|gloss=two}}, from {{inh|zh|sit-pro|*g/s-ni-s
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=04
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-shin=U6b21-j.svg
+|pic-kyu=U6b21-kyu.svg
+|ref={{R:ja:KDJ|1185|643}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=3|rs=欠02}}
@@ -125,8 +133,8 @@ Probably from ''*s-'' + {{och-l|二|gloss=two}}, from {{inh|zh|sit-pro|*g/s-ni-s
 |goon=し
 |kanon=し
 |kanyoon=じ
-|kun=す-く, す-き, つ-いで, つ-ぐ, つぎ-
-|nanori=き, すき, よし
+|kun=つぎ-, つ-ぐ, すが-い<すが-ひ, すが-う<すが-ふ, す-き, す-く, つ-いで, と-まる, やど-る
+|nanori=き, すき, ちか, つぎ, つぐ, ひで, やどる,  よし
 }}
 
 ====Compounds====
@@ -135,7 +143,7 @@ Probably from ''*s-'' + {{och-l|二|gloss=two}}, from {{inh|zh|sit-pro|*g/s-ni-s
 ===Etymology 1===
 {{ja-kanjitab|yomi=o|し}}
 
-From {{bor|ja|ltc|-|sort=し}} {{m|zh|次|tr=tshij<sup>H</sup>||in order; second}}.
+From {{bor|ja|ltc|-|sort=し}} {{ltc-l|次|in order; second}}.
 
 Less common reading in modern Japanese. [[supersede|Superseded]] in most cases by ''ji''; see below.
 
