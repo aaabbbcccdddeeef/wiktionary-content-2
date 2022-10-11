@@ -84,7 +84,16 @@ Derived from {{och-l|朝|morning}}. Compare {{och-l|汐|evening tide; ebb}} < {{
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F90F;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F90F
+|svs=0
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f90f.svg
+|ref={{R:ja:KDJ|1331|716}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|kyu=&#x2F90F;|rs=水12}}
@@ -97,8 +106,8 @@ Derived from {{och-l|朝|morning}}. Compare {{och-l|汐|evening tide; ebb}} < {{
 {{ja-readings
 |goon=じょう<でう
 |kanon=ちょう<てう
-|kun=うしお-<うしほ-, しお-<しほ-
-|nanori=いた, しおい, しおり
+|kun=しお-<しほ-, あさしお-<あさしほ-, うしお-<うしほ-
+|nanori=いた, うしお, しお, しおい, しおり
 }}
 
 ====Usage notes====
