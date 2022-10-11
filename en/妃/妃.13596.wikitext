@@ -78,7 +78,6 @@ Related to {{och-l|配|to match}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|pic2=U5983-kyu.svg|c=y}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=女03}}
@@ -90,7 +89,8 @@ Related to {{och-l|配|to match}}.
 {{ja-readings
 |kanon=ひ,はい
 |goon=ひ,へ
-|kun=きさき-
+|kun=きさい-, きさき-, つれあい-<つれあひ-
+|nanori=き, ひめ
 }}
 
 ===Etymology 1===
@@ -106,7 +106,7 @@ Related to {{och-l|配|to match}}.
 #*: ''Regina, æ . reina .'' '''qisàqi''' .
 
 ===Etymology 2===
-[[御-]] ''mi-'' (honorific prefix) + [[女]] ''me'' "woman"
+{{ja-compound|御-|み-|pos1=honorific prefix|女|め|t2=woman}}.
 
 ====Alternative forms====
 * {{ja-l|御妻}}
@@ -117,7 +117,7 @@ Related to {{och-l|配|to match}}.
 # A [[noble]]'s wife.
 
 ===Etymology 3===
-From {{der|ja|ltc|sort=ひ|妃|tr=pʰʉi}}.
+From {{der|ja|ltc|-|sort=ひ}} {{ltc-l|妃|id=1}}.
 
 ====Noun====
 {{ja-noun|ひ}}
