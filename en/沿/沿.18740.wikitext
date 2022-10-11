@@ -61,7 +61,16 @@ Possibly related to {{w|Proto-Tai language|Proto-Tai}}, compare {{cog|th|เล�
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F8FC;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F8FC
+|svs=0
+|vs1=00
+|vs2=04
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f8fc.svg
+|ref={{R:ja:KDJ|1258|680}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|kyu=&#x2F8FC;|rs=水05}}
@@ -70,7 +79,7 @@ Possibly related to {{w|Proto-Tai language|Proto-Tai}}, compare {{cog|th|เล�
 {{ja-readings
 |goon=えん
 |kanon=えん
-|kun=そ-う<そ-ふ
+|kun=そ-う<そ-ふ, ぞ-い
 }}
 
 ===Etymology===
@@ -87,6 +96,9 @@ From {{der|ja|ltc|sort=えん|-}} {{ltc-l|沿}}.
 
 ====Derived terms====
 * {{ja-r|沿%岸|えん%がん}}: {{l|en|coast}}, {{l|en|shore}}
+
+===References===
+<references/>
 
 ----
 
