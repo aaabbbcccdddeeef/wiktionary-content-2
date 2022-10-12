@@ -78,7 +78,14 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U74b0-kyu.svg
+|ref={{R:ja:KDJ|1441|771}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=玉17}}
@@ -89,9 +96,11 @@
 {{ja-readings
 |goon=げん<げん<ぐゑん
 |kanon=かん<くわん
-|kun=わ-, たまき-, ゆびまき-
-|nanori=たま
+|kun=たまき-, まわ-る, めぐ-らす, めぐ-る, ゆびまき-, わ-
+|nanori=たま, たまき, わ
 }}
+
+たまき，わ，名付
 
 ====Compounds====
 {{der-top|Compounds}}
