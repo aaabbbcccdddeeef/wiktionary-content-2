@@ -182,6 +182,7 @@ From {{och-l|衰|to diminish; to decay}} + final ''*-t'' ({{zh-ref|Schuessler, 2
 |col-vs2=hdmj
 |pic-kyu=Uf970.svg
 |ref={{R:Kanjipedia|0002596600}}
+|ref2={{R:ja:KDJ|1220|661}}
 }}
 
 ===Kanji===
@@ -190,9 +191,19 @@ From {{och-l|衰|to diminish; to decay}} + final ''*-t'' ({{zh-ref|Schuessler, 2
 # to [[kill]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|殺|id=2}}:
 {{ja-readings
-|goon=せい, せち, せつ
-|kanon=さい, さつ
+|goon=せち, せつ
+|kanon=さつ
+}}
+From {{der|ja|ltc|-}} {{ltc-l|殺|id=1}}:
+{{ja-readings
+|goon=せい
+|kanon=さい
+|kanyoon=さつ
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=ころ-す, あや-める, そ-ぐ, へ-らす
 }}
 
