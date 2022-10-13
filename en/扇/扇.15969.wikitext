@@ -102,15 +102,25 @@
 |col-vs2=hdmj
 |pic-vs1=U6247-kyu.svg
 |ref={{R:Kanjipedia|0004066300}}
+|ref2={{R:ja:KDJ|922|511}}
 }}
 
 ===Kanji===
 {{ja-kanji|grade=7|rs=戶06}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|扇|id=2}}; compare {{cog|cmn|扇|tr=shàn}}:
 {{ja-readings
 |goon=せん
 |kanon=せん
+}}
+From {{der|ja|ltc|-}} {{ltc-l|扇|id=1}}; compare {{cog|cmn|扇|tr=shān}}:
+{{ja-readings
+|goon=せん
+|kanon=せん
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=おうぎ-<あふぎ-, とびら-, あお-ぐ, あお-る
 |nanori=み
 }}
