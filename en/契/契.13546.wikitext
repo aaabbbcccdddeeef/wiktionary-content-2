@@ -125,10 +125,18 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 |svs=0
 |vs1=01
 |vs2=05
+|vs3=02
+|vs4=04
 |col-vs1=aj
 |col-vs2=hdmj
-|pic-kyu=Uf909.svg
+|col-vs3=aj
+|col-vs4=hdmj
+|pic-vs1=Uf909.svg
+|rowspan-vs1=2
+|pic-vs3=U5951-kyu.svg
+|rowspan-vs3=2
 |ref={{R:Kanjipedia|0001765100}}
+|ref2={{R:ja:KDJ|606|353}}
 }}
 
 ===Kanji===
@@ -139,9 +147,23 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 # [[promise]] ([[loyalty]])
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|契|id=1}}:
 {{ja-readings
-|goon=け, けち, せち
-|kanon=けい, けつ, せつ
+|goon=け
+|kanon=けい
+}}
+From {{der|ja|ltc|-}} {{ltc-l|契|id=3}}:
+{{ja-readings
+|goon=けち
+|kanon=けつ
+}}
+From {{der|ja|ltc|-}}; compare {{cog|cmn|契|tr=xiè}}:
+{{ja-readings
+|goon=せち
+|kanon=せつ
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=ちぎ-る, あ-う<あ-ふ, ちぎ-り, きざ-む, わりふ-
 |nanori=ちぎり, ちぎる, ひさ
 }}
