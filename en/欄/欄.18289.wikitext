@@ -66,6 +66,7 @@ From Proto-Sinitic *''lian''.
 |col-vs2=hdmj
 |pic-kyu=Uf91d.svg
 |ref={{R:Kanjipedia|0007063400}}
+|ref2={{R:ja:KDJ|1182|642}}
 }}
 
 ===Kanji===
@@ -76,9 +77,18 @@ From Proto-Sinitic *''lian''.
 # [[blank]], [[space]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|欄}}:
 {{ja-readings
-|goon=らん, れん
-|kanon=らん, れん
+|goon=らん
+|kanon=らん
+}}
+From {{der|ja|ltc|-}}; compare {{cog|cmn|欄|tr=liàn}}:
+{{ja-readings
+|goon=れん
+|kanon=れん
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=おばしま-, おり-, てすり-, わく-
 }}
 
