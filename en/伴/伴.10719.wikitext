@@ -72,17 +72,27 @@
 |col-vs2=hdmj
 |pic-vs1=U4f34-kyu.svg
 |ref={{R:Kanjipedia|0005736600}}
+|ref2={{R:ja:KDJ|132|116}}
 }}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=人05}}
 
-# consort
+# [[consort]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|伴|id=1}}; compare {{cog|cmn|伴|tr=bàn}}:
 {{ja-readings
 |goon=ばん
 |kanon=はん
+}}
+From {{der|ja|ltc|-}} {{ltc-l|伴|id=2}}; compare {{cog|cmn|伴|tr=pàn}}:
+{{ja-readings
+|goon=ばん
+|kanon=はん
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=ともな-う<ともな-ふ, とも-
 |nanori=すけ, とも
 }}
