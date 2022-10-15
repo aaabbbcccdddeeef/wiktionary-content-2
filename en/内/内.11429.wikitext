@@ -27,16 +27,26 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|内|內}}
 
 ===Kanji===
-{{ja-kanji|grade=2|rs=冂02}} <!-- Without kyūjitai form since 內 (U+5167) not found in JIS X 0208 -->
+{{ja-kanji|grade=2|kyu=內|rs=冂02}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|內|id=1}}; compare {{cog|cmn|內|tr=nèi}}:
 {{ja-readings
 |goon=ない
 |kanon=だい
-|kun=うち-
-|nanori=いと, ただ, ち, のち, うつ
+}}
+From {{der|ja|ltc|-}} {{ltc-l|內|tr=nʌp̚}}<!--納-->; compare {{cog|cmn|內|tr=nà}}:
+{{ja-readings
+|goon=のう<なふ, のう<のふ
+|kanon=どう<だふ
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=うち-, い-れる
+|nanori=いと, うち, うつ, ただ, ち, ちか, のち, のぶ, はる, まさ, みつ
 }}
 
 ====Antonyms====
@@ -292,7 +302,7 @@
 From {{inh|ja|ojp|sort=うち|-}}.
 
 ====Pronunciation 1====
-{{ja-pron|yomi=k|うち|acc=0}}
+{{ja-pron|yomi=k|うち|acc=0|acc_ref=SMK7,DJR}}
 
 =====Noun=====
 {{ja-noun|うち}}
@@ -343,7 +353,7 @@ From {{inh|ja|ojp|sort=うち|-}}.
 ===Etymology 2===
 {{etymid|ja|ない}}
 {{ja-kanjitab|ない}}
-From {{der|ja|ltc|-}} {{ltc-l|内}}.
+From {{der|ja|ltc|-}} {{ltc-l|內}}.
 
 =====Pronunciation=====
 {{ja-pron|ない}}
@@ -353,6 +363,9 @@ From {{der|ja|ltc|-}} {{ltc-l|内}}.
 
 # [[inside]]
 # {{C|ja|Japan}} {{lb|ja|Empire of Japan}} mainland Japan, as opposed to colonies
+
+===References===
+<references/>
 
 ----
 
