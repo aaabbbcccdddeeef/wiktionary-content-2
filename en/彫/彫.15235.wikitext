@@ -23,7 +23,16 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F89A;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F89A
+|svs=0
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f89a.svg
+|ref={{R:ja:KDJ|819|459}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|kyu=&#x2F89A;|rs=彡08}}
@@ -34,13 +43,16 @@
 
 ====Readings====
 {{ja-readings
-|goon=ちょう
-|kanon=ちょう
-|kun=ほ-る, ぼ-り
+|goon=ちょう<てう
+|kanon=ちょう<てう
+|kun=ほ-る, え-り<ゑ-り, え-る<ゑ-る, きざ-む, しぼ-む, な-える, ほ-り, ぼ-り
 }}
 
 ====Compounds====
 * {{ja-r|彫%刻|ちょう%こく}}
+
+===References===
+<references/>
 
 ----
 
