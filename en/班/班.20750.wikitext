@@ -71,25 +71,40 @@ Possibly the same etymon as {{och-l|斑|variegated}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-shin=U73ed-j.svg
+|pic-kyu=U73ed-kyu.svg
+|ref={{R:ja:KDJ|1431|766}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=玉06}}
 
-# group, party, section
+# [[group]], [[party]], [[section]]
 
 ====Readings====
 {{ja-readings
 |goon=へん
 |kanon=はん
-|kun=わ-ける
+|kun=かえ-す, し-く, わか-つ, わ-ける
+|nanori=つら, なか, ひとし
 }}
+
+===Pronunciation===
+{{ja-pron|はん|y=kanon|acc=1|acc_ref=SMK7,DJR}}
 
 ===Suffix===
 {{ja-pos|suffix|はん}}
 
 # [[group]], party
 # {{lb|ja|military|sort=はん}} [[section]]
+
+===References===
+<references/>
 
 ----
 
