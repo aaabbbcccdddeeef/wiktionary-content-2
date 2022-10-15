@@ -42,12 +42,17 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U6813-kyu.svg
+|ref={{R:ja:KDJ|1123|612}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=木06}}
-
-# {{rfdef|ja|sort=木06}}
 
 ====Readings====
 {{ja-readings
@@ -61,14 +66,20 @@
 * {{ja-r|消火栓|しょうかせん}}: (firefighting) [[fire hydrant]]
 
 ===Etymology===
-{{wikipedia|lang=ja}}
 {{ja-kanjitab|せん|yomi=o}}
+{{swp|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|せん|y=o|acc=1|acc_ref=SMK7,DJR}}
 
 ====Noun====
 {{ja-noun|せん}}
 
 # [[stopper]]; [[cork]]; [[bung]]; [[plug]]
 #: {{ja-usex|'''栓'''抜き|'''せん'''ぬき|corkscrew; bottle opener}}
+
+===References===
+<references/>
 
 ----
 
