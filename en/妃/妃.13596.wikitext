@@ -78,6 +78,12 @@ Related to {{och-l|配|to match}}.
 ----
 
 ==Japanese==
+{{ja-kanji forms-IVS
+|vs1=02
+|col-vs1=hdmj
+|pic-kyu=U5983-kyu.svg
+|ref={{R:ja:SKJ|393|209}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=女03}}
@@ -86,12 +92,12 @@ Related to {{och-l|配|to match}}.
 # [[princess]]
 
 ====Readings====
-From {{der|ja|ltc|-}} {{ltc-l|妃|id=1}}:
+From {{der|ja|ltc|-}} {{ltc-l|妃|id=1}}; compare {{cog|cmn|妃|tr=fēi}}:
 {{ja-readings
 |kanon=ひ
 |goon=ひ
 }}
-From {{der|ja|ltc|-}} {{ltc-l|妃|id=2}}:
+From {{der|ja|ltc|-}} {{ltc-l|妃|id=2}}; compare {{cog|cmn|妃|tr=pèi}}:
 {{ja-readings
 |kanon=はい
 |goon=へ
@@ -106,6 +112,10 @@ From native {{w|Japanese_language|Japanese}} roots:
 
 ====Alternative forms====
 * {{ja-l|后}}
+
+====Pronunciation====
+{{ja-pron|きさき|y=k|acc=2|acc2=0|acc_ref=SMK7,DJR|acc2_ref=SMK7,DJR}}
+{{ja-pron|きさい|y=k|acc=0|acc_ref=SMK7}}
 
 ====Noun====
 {{ja-noun|きさき|きさい}}
@@ -128,15 +138,21 @@ From native {{w|Japanese_language|Japanese}} roots:
 ===Etymology 3===
 From {{der|ja|ltc|-|sort=ひ}} {{ltc-l|妃|id=1}}.
 
+====Pronunciation====
+{{ja-pron|ひ|y=o|acc=1|acc_ref=DJR}}
+
 ====Noun====
 {{ja-noun|ひ}}
 
 # a [[queen consort]] or [[princess consort]]
-#:{{ja-x|お妃|お-ひ|the queen}}
-#:{{ja-x|聖%剣を抱く王%妃ギネヴィア|^せい%けん を ^いだく ^おう%ひ ^ギネヴィア|Guinevere, the Queen Who Bears the Holy Sword}}
-#:{{ja-x|妃%殿%下|^ひ%でん%か|Her Highness the Princess}}
-#:{{ja-x|文%仁 親%王%妃 紀%子|^ふみ%ひと ^しん%のう%ひ ^き%こ|Kiko, Princess Fumihito|lit=Kiko, Consort of Prince Fumihito}}
-#:{{ja-x|ウェールズ公%妃ダイアナ|^ウェールズ ^こう%ひ ^ダイアナ|Diana, Princess of Wales|lit=Diana, Consort of the Prince of Wales}}
+#:{{ja-x|お'''妃'''|お-'''ひ'''|the queen}}
+#:{{ja-x|聖%剣を抱く王%'''妃'''ギネヴィア|^せい%けん を ^いだく ^おう%'''ひ''' ^ギネヴィア|Guinevere, the Queen Who Bears the Holy Sword}}
+#:{{ja-x|'''妃'''%殿%下|^'''ひ'''%でん%か|Her Highness the Princess}}
+#:{{ja-x|文%仁 親%王%'''妃''' 紀%子|^ふみ%ひと ^しん%のう%'''ひ''' ^き%こ|Kiko, Princess Fumihito|lit=Kiko, Consort of Prince Fumihito}}
+#:{{ja-x|ウェールズ公%'''妃'''ダイアナ|^ウェールズ ^こう%'''ひ''' ^ダイアナ|Diana, Princess of Wales|lit=Diana, Consort of the Prince of Wales}}
+
+===References===
+<references/>
 
 {{C|ja|Female people|sort=ひ}}
 
