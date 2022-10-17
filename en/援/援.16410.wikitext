@@ -77,16 +77,28 @@
 |col-vs2=hdmj
 |pic-vs1=U63f4-kyu.svg
 |ref={{R:Kanjipedia|0000459000}}
+|ref2={{R:ja:KDJ|971|535}}
+|ref3={{R:ja:SKJ|595|310}}
 }}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=手09}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|援|id=1}}; compare {{cog|cmn|援|tr=yuán}}:
 {{ja-readings
-|goon=えん, おん
-|kanon=えん
-|kun=たす-ける, ひ-く, たすけ
+|goon=おん<をん
+|kanon=えん<ゑん
+}}
+From {{der|ja|ltc|-}} {{ltc-l|援|id=2}}; compare {{cog|cmn|援|tr=yuàn}}:
+{{ja-readings
+|goon=えん<ゑん
+|kanon=えん<ゑん
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=すく-い<すく-ひ, すく-う<すく-ふ, たすけ-, たす-ける, ひ-く
+|nanori=すけ
 }}
 
 ===Etymology===
