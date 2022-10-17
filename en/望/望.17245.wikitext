@@ -107,7 +107,17 @@ From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=05
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-shin=U671b-j.svg
+|pic-vs1=U671b-kyu.svg
+|pic-vs2=U671b-kyu2.svg
+|ref={{R:ja:SKJ|659|342}}
+|ref2={{R:ja:KDJ|1092|597}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=4|rs=月07}}
@@ -118,9 +128,10 @@ From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
 
 ====Readings====
 {{ja-readings
-|goon=もう
-|kanon=ぼう
-|kun=のぞ-む, のぞみ, もち-
+|goon=もう<まう
+|kanon=ぼう<ばう
+|kun=のぞ-む, のぞ-ましい, のぞみ, もち-
+|nanori=のぞみ, のぞむ, み, もち
 }}
 
 ====Compounds====
@@ -137,6 +148,9 @@ From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
 {{ja-pos|のぞみ|proper}}
 
 # {{given name|ja|female|sort=のぞみ}}
+
+===References===
+<references/>
 
 ----
 
