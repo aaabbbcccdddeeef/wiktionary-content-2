@@ -65,7 +65,15 @@ Possibly {{der|zh|sit}}; compare {{cog|my|လျှော်|tr=hlyo|t=to wash (
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U6fef-kyu.svg
+|ref={{R:ja:KDJ|1341|721}}
+|ref2={{R:ja:SKJ|784|405}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=水14}}
@@ -76,12 +84,15 @@ Possibly {{der|zh|sit}}; compare {{cog|my|လျှော်|tr=hlyo|t=to wash (
 {{ja-readings
 |goon=だく
 |kanon=たく
-|kun=あら-う
+|kun=あら-う<あら-ふ, すす-ぎ, すす-ぐ, そそ-ぐ, ゆす-ぐ
 }}
 
 ====Compounds====
 * {{ja-r|洗濯|せんたく}}: [[washing]]; [[laundry]]
 * {{ja-r|洗濯機|せんたっき}}: [[washing machine]]
+
+===References===
+<references/>
 
 ----
 
