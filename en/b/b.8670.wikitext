@@ -646,27 +646,40 @@ Modification of the capital letter [[B]] by dropping its upper loop, from {{der|
 
 ==Slovene==
 
+===Etymology===
+Modification of capital letter {{m|mul|B}} by dropping its upper loop, which is derived from the {{der|mul|ett|-}} letter {{m|ett|𐌁||be}}, from the {{der|mul|grc|-}} letter {{m|grc|Β||beta}}, derived from the {{der|mul|phn|-}} letter {{m|phn|𐤁||[[bet]]}}, from the {{der|mul|egy|-}} hieroglyph {{m|egy|𓉐}}. Pronunciation as {{IPA|sl|/bə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|B}}.
+
 ===Pronunciation===
-* {{sl-IPA|bə̏|bẹ̑}}
+* {{qualifier|phoneme}}: {{IPA|sl|/b/}}, {{IPA|sl|[p]}}
+* {{qualifier|letter name}}: {{sl-IPA|bə̏|bẹ̄}}
+* {{audio|sl|Sl-nt-bə.ogg|Audio (letter name, non-tonal)}}
+* {{rhymes|sl|ə|eː}}
 
 ===Letter===
 {{sl-letter|upper=B|lower=b}}
 
-# {{Latn-def|sl|letter|2|b|be}}
+# {{Latn-def-lite|sl|letter|2|langname=Slovene}}
+# {{Latn-def-lite|sl|letter|3|langname=Resian}}
+# {{Latn-def-lite|sl|letter|2|langname=Natisone Valley dialect}}
+# {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|SNPT]]|usually not in upper case}} ''[[phonetic|Phonetic]] [[transcription]] of sound'' [{{IPAlink|b|b}}].
+
+==== Inflection ====
+
+* Overall more common
+{{sl-decl-noun-m|b|b-j}}
+
+* More common when with a definite adjective
+{{sl-decl-noun-table2|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|title=Masculine inan., no endings}}
+
+====Derived terms====
+{{der4|sl|če si rekel a, reci tudi b|ƀ}}
 
 ====See also====
 * {{list:Latin script letters/sl}}
+* {{l|sl|ƀ}}
 
-===Noun===
-{{sl-noun|-|m-in}}
-
-# {{Latn-def|sl|name|B|b}}
-
-====Inflection====
-{{sl-decl-noun-m|b|b-j|noacc=1}}
-
-====Synonyms====
-* {{l|sl|bé}}
+====Further reading====
+* {{R:sl:Fran}}
 
 ----
 
