@@ -46,7 +46,15 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U66dc-kyu.svg
+|ref={{R:ja:KDJ|1077|589}}
+|ref2={{R:ja:SKJ|651|338}}
+}}
 
 ===Kanji===
 {{ja-kanji|rs=日18|grade=2}}
@@ -59,7 +67,7 @@
 {{ja-readings
 |goon=よう<えう<𛀁う
 |kanon=よう<えう<𛀁う
-|kun=ひか-る, かがや-く
+|kun=かがや-く, ひかり-, ひか-る
 |nanori=あき, あきら, かぐや, てらす, てる, ひかり
 }}
 
@@ -108,6 +116,9 @@ Used for the days of the week, for example {{m|ja|日曜|tr=nichiyō}} or {{m|ja
 {{ja-pos|proper|よう|hhira=えう}}
 
 # {{given name|ja|female|sort=よう}}
+
+===References===
+<references/>
 
 ----
 
