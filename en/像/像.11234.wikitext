@@ -72,16 +72,24 @@ Cognate with {{zh-l|佯|to feign}} and {{zh-l|樣|appearance}}
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#x2F80B;|c=y}}
+{{ja-kanji forms-IVS
+|code=<!--2F80B-->
+|svs=<!--0-->
+|vs1=03
+|col-vs1=hdmj
+|pic-kyu=U2f80b.svg
+|ref={{R:ja:KDJ|199|149}}
+}}
 
 ===Kanji===
-{{ja-kanji|grade=5|kyu=&#x2F80B;|rs=人12}}
+{{ja-kanji|grade=5|kyu=<!--&#x2F80B;-->|rs=人12}}
 
 ====Readings====
 {{ja-readings
 |goon=ぞう<ざう
 |kanon=しょう<しやう
-|kun=かたち-, かたど-る
+|kun=かた-, かたち-, かたど-る, に-る
+|nanori=かた, すえ, のり, み
 }}
 
 ====Compounds====
@@ -108,11 +116,17 @@ Cognate with {{zh-l|佯|to feign}} and {{zh-l|樣|appearance}}
 * {{ja-r|木像|もくぞう}}
 {{bottom}}
 
+===Pronunciation===
+{{ja-pron|ぞう|y=goon|acc=1|acc_ref=SMK7,DJR}}
+
 ===Noun===
 {{ja-noun|ぞう|hhira=ざう}}
 
 # a form of a thing, including god; a [[figure]]; a [[statue]]; an [[idol]]
 # an [[image]]
+
+===References===
+<references/>
 
 ----
 
