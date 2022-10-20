@@ -119,9 +119,11 @@ mainstream Taiwan: lí - vernacular; jú/lú - literary
 }}
 
 ====Compounds====
-* {{ja-r|汝%南|^じょ%なん}}
-* {{ja-r|汝%窯|^じょ%よう}}
-* {{ja-r|爾%汝|じ%じょ}}
+{{ja-r/multi|data=
+* {{ja-r/args|汝%南|^じょ%なん}}
+* {{ja-r/args|汝%窯|^じょ%よう}}
+* {{ja-r/args|爾%汝|じ%じょ}}
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|なんじ|alt=爾}}
@@ -144,19 +146,25 @@ Also written as {{ja-r|なむぢ}} in older texts, since the ''namuchi'', ''namu
 {{seeCites|ja}}
 
 =====Derived terms=====
-* {{ja-r|汝奴|なんめ}}
-* {{ja-r|今%汝は画れり|いま% なんじ は かぎれり}}
-* {{ja-r|大%汝 小%汝|^おお%なんじ ^こ%なんじ}}
+{{ja-r/multi|data=
+* {{ja-r/args|汝奴|なんめ}}
+* {{ja-r/args|今%汝は画れり|いま% なんじ は かぎれり}}
+* {{ja-r/args|大%汝 小%汝|^おお%なんじ ^こ%なんじ}}
+}}
 
 =====Idioms=====
-* {{ja-r|艱%難%汝を玉にす|かん%なん %なんじ を たま に す}}
+{{ja-r/multi|data=
+* {{ja-r/args|艱%難%汝を玉にす|かん%なん %なんじ を たま に す}}
+}}
 
 =====Proverbs=====
 {{der-top3|Proverbs}}
-* {{ja-r|汝%自%身を知れ|なんじ% じ%しん を しれ}}
-* {{ja-r|汝の敵を愛せよ|なんじ の てき を あいせよ}}
-* {{ja-r|汝%自らを知れ|なんじ% みずから を しれ}}
-* {{ja-r|弱き者よ汝の名は女なり|よわきもの よ なんじ の な は おんな なり}}
+{{ja-r/multi|data=
+* {{ja-r/args|汝%自%身を知れ|なんじ% じ%しん を しれ}}
+* {{ja-r/args|汝の敵を愛せよ|なんじ の てき を あいせよ}}
+* {{ja-r/args|汝%自らを知れ|なんじ% みずから を しれ}}
+* {{ja-r/args|弱き者よ汝の名は女なり|よわきもの よ なんじ の な は おんな なり}}
+}}
 {{der-bottom}}
 
 ===Etymology 2===
@@ -190,9 +198,11 @@ Possibly cognate with second-person singular informal pronoun {{cog|ko|너}}.
 {{seeCites|ja}}
 
 =====Derived terms=====
-* {{ja-r|汝|なれ}}
-* {{ja-r|汝|なんじ}}
-* {{ja-r|汝等|なむだち}}
+{{ja-r/multi|data=
+* {{ja-r/args|汝|なれ}}
+* {{ja-r/args|汝|なんじ}}
+* {{ja-r/args|汝等|なむだち}}
+}}
 
 ===Etymology 4===
 {{ja-kanjitab|yomi=i|うぬ|alt=己}}
@@ -211,8 +221,10 @@ Sound shift from [[reflexive pronoun]] {{m|ja|己|tr=ono}}, {{inh|ja|ojp|己|tr=
 #: {{syn|ja|自分自身|tr=jibun-jishin}}
 
 =====Derived terms=====
-* {{ja-r|汝%等|うぬ%ら}}
-* {{ja-r|うなうな}}
+{{ja-r/multi|data=
+* {{ja-r/args|汝%等|うぬ%ら}}
+* {{ja-r/args|うなうな}}
+}}
 
 ====Interjection====
 {{ja-pos|interjection|うぬ}}
