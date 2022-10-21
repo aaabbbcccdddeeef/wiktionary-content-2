@@ -89,21 +89,34 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=木09}}
 
-# {{rfdef|ja|sort=木09}}
+# ''[[species:Pistacia chinensis|Pistacia chinensis]]''
+# [[model]]; [[pattern]]
+# [[regular script]]
+# {{surname|ja}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|楷|id=1}}; compare {{cog|cmn|楷|tr=jiē}}:
 {{ja-readings
 |goon=け
 |kanon=かい
-|kun=かた, のっと-る, ただしい
+}}
+From {{der|ja|ltc|-}} {{ltc-l|楷|id=2}}; compare {{cog|cmn|楷|tr=kǎi}}:
+{{ja-readings
+|goon=け
+|kanon=かい
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=かた, ただし.い, のっと-る
+|nanori=のり
 }}
 
 ===Etymology===
-{{ja-kanjitab|かい|yomi=o}}
-From {{der|ja|ltc|sort=かい|-}} {{ltc-l|楷}}.
+{{ja-kanjitab|かい|yomi=kanon}}
+From {{der|ja|ltc|sort=かい|-}} {{ltc-l|楷|id=2}}.
 
 ===Pronunciation===
-{{ja-pron|かい|y=o}}
+{{ja-pron|かい|y=kanon|acc=1|acc_ref=SMK7,DJR}}
 
 ===Affix===
 {{ja-pos|affix|かい}}
@@ -113,6 +126,9 @@ From {{der|ja|ltc|sort=かい|-}} {{ltc-l|楷}}.
 
 ====Derived terms====
 * {{ja-r|楷書|かいしょ}}
+
+===References===
+<references/>
 
 ----
 
