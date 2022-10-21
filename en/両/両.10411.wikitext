@@ -23,9 +23,9 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|両|兩}}
 
 ===Kanji===
-{{ja-kanji forms|両|兩}}
 {{ja-kanji|grade=3|rs=一05|kyu=兩}}
 
 # [[both]]
@@ -34,11 +34,22 @@
 # counter for [[carriage]]s
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|兩|id=1}}; compare {{cog|cmn|兩|tr=liǎng}}:
 {{ja-readings
 |goon=りょう<りやう
 |kanon=りょう<りやう
 |toon=りゃん
-|kun=ころ-, ふた-つ, もろ-
+}}
+From {{der|ja|ltc|-}} {{ltc-l|兩|id=2}}; compare {{cog|cmn|兩|tr=liàng}}:
+{{ja-readings
+|goon=りょう<りやう
+|kanon=りょう<りやう
+|toon=りゃん
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=ころ-, ふたた-び, ふた-つ, もろ-
+|nanori=ふた, ふる, もろ
 }}
 
 ====Compounds====
@@ -51,7 +62,7 @@
 {{wikipedia|Tael|Tael (''ryō'' or ''koro'' as a unit of weight)}}
 </div>
 {{ja-kanjitab|yomi=o|りょう}}
-From {{der|ja|ltc|sort=りょう|兩|tr=lɨɐŋ<sup>H</sup>||two, both}}.
+From {{der|ja|ltc|sort=りょう|-}} {{ltc-l|兩|id=1|two, both}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|りょう|acc=1|acc_ref=DJR}}
@@ -101,7 +112,7 @@ The ''koro'' reading appears to be obsolete, [[supersede]]d by ''ryō'' above.
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=o|りょう|alt=輛,輌}}
-Probably from {{der|ja|ltc|sort=りょう|輛|tr=lɨɐŋ<sup>H</sup>?|pos=counter for vehicles}}.
+Probably from {{der|ja|ltc|sort=りょう|-}} {{ltc-l|輛|tr=lɨɐŋ<sup>H</sup>?|counter for vehicles}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|りょう}}
