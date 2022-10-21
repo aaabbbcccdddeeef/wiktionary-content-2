@@ -175,18 +175,36 @@ Many of the senses are now written with the specialised character {{zh-l|份}}.
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U5206-kyu.svg
+|ref={{R:ja:KDJ|282|191}}
+|ref2={{R:ja:SKJ|208|116}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=刀02}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|分|id=1}}; compare {{cog|cmn|分|tr=fēn}}:
 {{ja-readings
-|goon=ぶん, ふん
+|goon=ふん
 |kanon=ふん
 |kanyoon=ぶ
-|kun=わ-かる, わ-かれる, わ-ける, わ-かつ
-|nanori=いた, わけ
+}}
+From {{der|ja|ltc|-}} {{ltc-l|分|id=2}}; compare {{cog|cmn|分|tr=fèn}}:
+{{ja-readings
+|goon=ぶん
+|kanon=ふん
+|kanyoon=ぶ
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=わ-かる, わ-かれる, わ-ける, わ-かつ, けじめ-
+|nanori=いた, くまり, ちか, わか, わけ
 }}
 
 ====Compounds====
