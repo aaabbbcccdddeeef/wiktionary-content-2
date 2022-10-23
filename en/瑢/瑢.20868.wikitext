@@ -9,12 +9,25 @@
 
 ----
 
-==Cantonese==
+==Chinese==
+{{zh-forms}}
 
-===Hanzi===
-{{yue-hanzi|jyut=|y=yung4}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|玉|容|ls=psc|c1=s|c2=p|t1=jade}}
 
-# {{rfdef|yue|sort=玉10}}
+====Pronunciation====
+{{zh-pron
+|m=róng
+|c=jung4
+|mc=y
+|oc=y
+}}
+
+===Definitions===
+{{zh-hanzi}}
+<!--kangxi defines this character as 玉行 two times-->
+# {{rfdef|zh}}
 
 ----
 
@@ -38,10 +51,3 @@
 # {{rfdef|ko|sort=玉10}}
 
 ----
-
-==Mandarin==
-
-===Hanzi===
-{{cmn-hanzi|pin=[[róng]] ([[rong2]])|wg=jung<sup>2</sup>}}
-
-# {{rfdef|cmn|sort=玉10}}
