@@ -137,6 +137,7 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 |rowspan-vs3=2
 |ref={{R:Kanjipedia|0001765100}}
 |ref2={{R:ja:KDJ|606|353}}
+|ref3={{R:ja:SKJ|386|206}}
 }}
 
 ===Kanji===
@@ -147,17 +148,17 @@ Exopassive of {{och-l|鍥|to cut}}: "what has been cut" ({{zh-ref|Schuessler, 20
 # [[promise]] ([[loyalty]])
 
 ====Readings====
-From {{der|ja|ltc|-}} {{ltc-l|契|id=1}}:
+From {{der|ja|ltc|-}} {{ltc-l|契|id=1}}; compare {{cog|cmn|契|tr=qì}}:
 {{ja-readings
 |goon=け
 |kanon=けい
 }}
-From {{der|ja|ltc|-}} {{ltc-l|契|id=3}}:
+From {{der|ja|ltc|-}} {{ltc-l|契|id=3}}; compare {{cog|cmn|契|tr=qiè}}:
 {{ja-readings
 |goon=けち
 |kanon=けつ
 }}
-From {{der|ja|ltc|-}}; compare {{cog|cmn|契|tr=xiè}}:
+From {{der|ja|ltc|-}} {{ltc-l|契|tr=set̚}}<!--偰-->; compare {{cog|cmn|契|tr=xiè}}:
 {{ja-readings
 |goon=せち
 |kanon=せつ
@@ -169,7 +170,27 @@ From native {{w|Japanese_language|Japanese}} roots:
 }}
 
 ====Compounds====
-* {{ja-r|契約|けいやく}}: contract, agreement
+{{der-top|Compounds}}
+* {{ja-r|契丹|^きたい}}
+* {{ja-r|契%丹|^きっ%たん}}
+* {{ja-r|契%印|けい%いん}}
+* {{ja-r|契%闊|けい%かつ}}
+* {{ja-r|契%機|けい%き}}
+* {{ja-r|契%契|けい%けい}}
+* {{ja-r|契%券|けい%けん}}
+* {{ja-r|契%合|けい%ごう}}
+* {{ja-r|契%情|けい%せい}}
+* {{ja-r|契%刀|けい%とう}}
+* {{ja-r|契%文|けい%ぶん}}
+* {{ja-r|契%約|けい%やく}}: contract, agreement
+* {{ja-r|契%闊|けっ%かつ}}
+* {{ja-r|契%契|けつ%けつ}}
+* {{ja-r|印%契|いん%げい}}
+* {{ja-r|交%契|こう%けい}}
+* {{ja-r|心%契|しん%けい}}
+* {{ja-r|符%契|ふ%けい}}
+* {{ja-r|黙%契|もっ%けい}}
+{{der-bottom}}
 
 ===Proper noun===
 {{ja-pos|proper|ひさし}}
