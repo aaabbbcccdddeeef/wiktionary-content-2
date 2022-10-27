@@ -28,7 +28,11 @@
 {{ja-kanji|grade=|rs=士09}}
 
 ====Readings====
-* {{ja-readings|goon=[[さい]] (sai)|kanon=[[せい]] (sei)|kun=[[むこ]] (muko)}}
+{{ja-readings
+|goon=さい
+|kanon=せい
+|kun=むこ-
+}}
 
 ===Noun===
 {{ja-noun|むこ}}
@@ -39,10 +43,19 @@
 
 ==Korean==
 
-===Hanja===
-{{ko-hanja|hangeul=서|rv=seo|mr=sŏ}}
+===Pronunciation===
+{{ko-hanja-pron|서}}
 
-# {{rfdef|ko|sort=士09}}
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|사위|서}}
+
+# {{hanja form of|서|[[son-in-law]]}}
+
+====Compounds====
+* {{ko-l|壻郞|서랑}}
+* {{ko-l|壻甥|서생}}
+* {{ko-l|壻養子|서양자}}
 
 ----
 
