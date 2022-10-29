@@ -111,7 +111,7 @@ Likely a glottalized variant of {{ltc-l|把|to hold; to give (dialectal)}} ({{zh
 ----
 
 ==Japanese==
-{{ja-kanji forms|𫝼|撥}}
+{{ja-kanji forms|𫝼|撥|ex=y}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=手12|shin=𫝼}}
@@ -123,12 +123,34 @@ Likely a glottalized variant of {{ltc-l|把|to hold; to give (dialectal)}} ({{zh
 |goon=はち
 |kanon=はつ
 |kanyoon=ばち
-|kun=は-ねる, おさ-める
+|kun=おさ-める, かか-げる, は-ねる, はら-う<はら-ふ, ひら-く
+}}
+
+====Usage notes====
+{{ja-toyo-depre|発}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|撥%音|はつ%おん}}
+|{{ja-r|撥%開|はっ%かい}}
+|{{ja-r|撥%棄|はっ%き}}
+|{{ja-r|撥%弓|はっ%きゅう}}
+|{{ja-r|撥%去|はっ%きょ}}
+|{{ja-r|撥%条|はつ%じょう}} ({{ja-r|発%条|はつ%じょう|rom=-}})
+|{{ja-r|撥%剌|はつ%らつ}} ({{ja-r|発%剌|はつ%らつ|rom=-}}, {{ja-r|潑%剌|はつ%らつ|rom=-}})
+|{{ja-r|撥%簾|はつ%れん}}
+|{{ja-r|挑%撥|ちょう%はつ}} ({{ja-r|挑%発|ちょう%はつ|rom=-}})
+|{{ja-r|調%撥|ちょう%はつ}}
+|{{ja-r|反%撥|はん%ぱつ}} ({{ja-r|反%発|はん%ぱつ|rom=-}})
 }}
 
 ===Etymology===
 {{wikipedia|lang=ja}}
 {{ja-kanjitab|ばち|yomi=o}}
+From {{der|ja|ltc|sort=ばち|-}} {{ltc-l|撥}}.
+
+===Pronunciation===
+{{ja-pron|ばち|y=kanyo|acc=2|acc_ref=SMK7,DJR}}
 
 ====Noun====
 {{ja-noun|ばち|バチ|shin=𫝼}}
@@ -137,6 +159,9 @@ Likely a glottalized variant of {{ltc-l|把|to hold; to give (dialectal)}} ({{zh
 
 ====Related terms====
 * {{ja-r|桴|ばち|rom=-}}, {{ja-r|枹|ばち}}
+
+===References===
+<references/>
 
 ----
 
