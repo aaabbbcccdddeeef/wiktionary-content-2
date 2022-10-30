@@ -26,19 +26,40 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|唖|啞}}
+{{ja-kanji forms|唖|啞|ex=y}}
 
 ===Kanji===
 {{ja-kanji|grade=9|rs=口07|kyu=啞}}
 
-# mute, dumb
+# {{ja-ex shin|啞|sort=口07}}: [[mute]], [[dumb]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|啞|id=1}}; compare {{cog|cmn|啞|tr=yǎ}}:
 {{ja-readings
-|goon=え, やく
-|kanon=あ, あく
+|goon=え
+|kanon=あ
+}}
+From {{der|ja|ltc|-}} {{ltc-l|啞|id=2}}; compare {{cog|cmn|啞|tr=yā}}:
+{{ja-readings
+|goon=え
+|kanon=あ
+}}
+From {{der|ja|ltc|-}} {{ltc-l|啞|id=4}}; compare {{cog|cmn|啞|tr=è}}:
+{{ja-readings
+|goon=やく
+|kanon=あく
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=おし-
 }}
+
+====Usage notes====
+This is one of the 22 widely used extended shinjitai ({{ja-r|簡%易%慣%用%字%体|かん%い% かん%よう% じ%たい}}).
+
+====Compounds====
+* {{ja-r|唖%唖|あく%あく}}
+* {{ja-r|唖%然|あく%ぜん}}
 
 ===Etymology 1===
 {{ja-kanjitab|あ|yomi=kanon}}
@@ -61,11 +82,16 @@ The ''{{ll|ja|漢音|kan'on}}'' reading, so likely a later borrowing.
 
 =====Derived terms=====
 {{der-top|mute, dumb}}
-* {{ja-r|唖者|あしゃ|a [[mute]] person}}
-* {{ja-r|唖然|あぜん|[[dumbfounded]], [[speechless]]}}
-* {{ja-r|唖鈴|あれい|[[dumbbell]]}}
-* {{ja-r|盲唖|もうあ|[[blind]] and [[deaf-mute]]}}
-* {{ja-r|聾唖|ろうあ|[[deafness]], [[deaf-mute]]}}
+* {{ja-r|唖%唖|あ%あ}}
+* {{ja-r|唖%咽|あ%えつ}}
+* {{ja-r|唖%呕|あ%おう}}
+* {{ja-r|唖%子|あ%し}}
+* {{ja-r|唖%者|あ%しゃ|a [[mute]] person}}
+* {{ja-r|唖%然|あ%ぜん|[[dumbfounded]], [[speechless]]}}
+* {{ja-r|唖%咤|あ%た}}
+* {{ja-r|唖%鈴|あ%れい|[[dumbbell]]}}
+* {{ja-r|盲%唖|もう%あ|[[blind]] and [[deaf-mute]]}}
+* {{ja-r|聾%唖|ろう%あ|[[deafness]], [[deaf-mute]]}}
 {{der-bottom}}
 
 ===Etymology 2===
