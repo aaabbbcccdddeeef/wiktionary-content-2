@@ -616,14 +616,47 @@ See {{m|ro|G}} for pronunciation notes.
 From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}}, from Latin {{m|la|g}}. Pronunciation as {{IPAchar|/ɡə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|g}}.
 
 ===Pronunciation===
-* {{qualifier|phoneme}}: {{IPA|sl|/ɡ/|[k]}}
-* {{qualifier|phoneme|colloquial}}: {{IPA|sl|/ɡ/|[k]|[x]}}
-* {{qualifier|phoneme|dialectal, especially Littoral dialects}}: {{IPA|sl|/ɣ/|[x]}}
-* {{qualifier|letter name}}: {{sl-IPA|gə̏|gẹ̄}}
-* {{audio|sl|Sl-nt-g.ogg|Audio (letter name, non-tonal)}}
-* {{audio|sl|Sl-nt-g-dialectal.ogg|Audio (letter name, non-tonal, dialectal, especially Littoral dialects)}}
-* {{rhymes|sl|ə|eː}}
-* {{homophones|sl|G}}
+* Phoneme
+{{sl-pronounce
+|IPAt={{IPA|sl|/g/|[k]}}
+|SNPTt=/g/, [k]
+|IPAnt={{IPA|sl|/g/|[k]}}
+|SNPTnt=/g/, [k]
+|IPAg={{IPA|sl|/ɣ/|[x]}}
+|SNPTg=/ɣ/, [h]
+|IPAcoll={{IPA|sl|/g/|[k]|[x]}}
+|SNPTcoll=/g/, [k], [h]
+}}
+
+* Letter name
+{{sl-pronounce
+|nt=g
+|phonetic=gə̀, gé
+|tonal=ə̏, ẹ̄
+|IPAt={{IPA|sl|[ˈgə̂]|[ˈgêː]|[ˈgěː]}}
+|SNPTt=[gə̏], [gẹ̄]
+|IPAnt={{IPA|sl|[ˈgə]|[ˈgeː]}}
+|SNPTnt=[gə̀], [gé]
+|audiont={{audio|sl|Sl-nt-g.ogg|Audio:}}
+|IPAg={{IPA|sl|[ˈɣə̂]|[ˈɣêː]|[ˈɣěː]}}
+|SNPTg=[ɣə̏], [ɣẹ̄]
+|audiog={{audio|sl|Sl-nt-g-dialectal.ogg|Audio:}}
+}}
+{{sl-pronounce-other
+|rhymes={{rhymes|sl|ə|eː}}
+|hyphenation={{hyphenation|sl|g}}
+|homophonest={{homophones|sl|G}}
+|homophonesnt={{homophones|sl|G}}
+|alp=*gə̀
+|car=*gə̏
+|vk=*gə̏
+|si=*gə̏
+|lc=*gə̏
+|uc=*gə̏
+|ss=*gə̏
+|ns=*gə̏
+|pan=*gə̏
+}}
 
 ====Letter====
 {{sl-letter|upper=G|lower=g}}
