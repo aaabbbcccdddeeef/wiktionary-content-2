@@ -1,4 +1,4 @@
-{{also|㐬}}
+{{also|㐬|旈}}
 {{character info}}
 ==Translingual==
 
@@ -26,7 +26,7 @@
 |md=
 |mn=liû
 |w=
-|mc=
+|mc=y
 |oc=y
 |cat=
 }}
@@ -47,15 +47,41 @@
 
 ====Readings====
 {{ja-readings
-|on=りゅう-<りう
-|kun=はたあし-
+|goon=る
+|kanon=りゅう<りう
+|kun=はたあし-, ふきながし-
 }}
+
+====Compounds====
+* {{ja-r|旒%旗|りゅう%き}}
+* {{ja-r|旒%冕|りゅう%べん}}
+* {{ja-r|綴%旒|てい%りゅう}}
+* {{ja-r|冕%旒|べん%りゅう}}
 
 ----
 
 ==Korean==
 
+===Etymology===
+From {{der|ko|ltc|sort=류|-}} {{ltc-l|旒}}.
+
+===Pronunciation===
+{{ko-hanja-pron|류|유}}
+
 ===Hanja===
-{{ko-hanja|hangeul=[[류]]>[[유]]|eumhun=|rv=ryu>yu|mr=ryu>yu|y=lyu>yu}}
+{{ko-hanja-search}}
+{{ko-hanja|깃발|류||유}}
 
 # {{rfdef|ko|sort=方09}}
+
+====Compounds====
+* {{ko-l|旒旗|유기}}
+* {{ko-l|旒冕|유면}}
+* {{ko-l|旒㫌|유정}}
+* {{ko-l|旒綴|유철}}
+* {{ko-l|旗旒|기류}}
+* {{ko-l|長旒|장류}}
+
+===References===
+* {{R:hanjadoc|4524}}
+* {{R:zonmal|26066}}
