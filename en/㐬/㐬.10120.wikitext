@@ -50,9 +50,52 @@
 
 ----
 
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=亠05}}
+
+# {{rfdef|ja|sort=亠05}}
+
+====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|㐬|tr=lɨu}}<!--流-->; compare {{cog|cmn|㐬|tr=liú}}:
+{{ja-readings
+|goon=る
+|kanon=りゅう<りう
+}}
+From {{der|ja|ltc|-}} {{ltc-l|㐬|tr=duət̚, tʰuət̚}}<!--突-->; compare {{cog|cmn|㐬|tr=tū}}:
+{{ja-readings
+|goon=とち
+|kanon=とつ
+}}
+
+----
+
 ==Korean==
 
-===Hanja===
-{{ko-hanja|깃발|류}}
+===Etymology 1===
+From {{der|ko|ltc|sort=류|-}} {{ltc-l|㐬|tr=lɨu}}<!--流-->.
+
+====Pronunciation====
+{{ko-hanja-pron|류|유}}
+
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|깃발|류||유}}
 
 # {{rfdef|ko|sort=亠05}}
+
+===Etymology 2===
+From {{der|ko|ltc|sort=황|-}} {{ltc-l|㐬|tr=hwɑŋ, hwɑŋH}}<!--荒-->.
+
+====Pronunciation====
+{{ko-hanja-pron|황}}
+
+====Hanja====
+{{ko-hanja-search}}
+{{ko-hanja|거칠다|거칠|황}}
+
+# {{rfdef|ko|sort=亠05}}
+
+===References===
+* {{R:zonmal|13356}}
