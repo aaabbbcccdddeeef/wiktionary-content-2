@@ -16,16 +16,43 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|呕|嘔}}
+{{ja-kanji forms|呕|嘔|ex=y}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=口04|kyu=嘔}}
 
-# {{rfdef|ja|sort=口04}}
+# {{ja-ex shin|嘔|sort=口04}}: [[vomit]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|嘔|id=2}}; compare {{cog|cmn|嘔|tr=ǒu}}:
 {{ja-readings
 |goon=う, く
 |kanon=おう, く
+}}
+From {{der|ja|ltc|-}} {{ltc-l|嘔|id=1}}; compare {{cog|cmn|嘔|tr=òu}}:
+{{ja-readings
+|goon=う, く
+|kanon=おう, く
+}}
+From {{der|ja|ltc|-}}; compare {{cog|cmn|嘔|tr=xū}}:
+{{ja-readings
+|goon=う, く
+|kanon=おう, く
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
 |kun=うた-う<うた-ふ, は-く
+}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|呕%唖|おう%あ}}
+|{{ja-r|呕%軋|おう%あつ}}
+|{{ja-r|呕%呕%唖%唖|おう%おう%あ%あ}}
+|{{ja-r|呕%吟|おう%ぎん}} ({{ja-r|𧦅%吟|おう%ぎん|rom=-}})
+|{{ja-r|呕%血|おう%けつ}}
+|{{ja-r|呕%泻|おう%しゃ}}
+|{{ja-r|呕%泄|おう%せつ}}
+|{{ja-r|呕%吐|おう%と}}
+|{{ja-r|呕%呕|く%く}}
 }}
