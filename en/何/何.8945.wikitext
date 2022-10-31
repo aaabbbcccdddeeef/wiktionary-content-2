@@ -131,26 +131,25 @@ STEDT, on the other hand, compares {{och-l|何|id=2}} to {{inh|zh|sit-pro|*ka||w
 }}
 
 ===Etymology===
+{{ja-kanjitab|なに|yomi=k}}
+
 From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*n-anuy}}.<ref>{{cite-book|author=Alexander Vovin|title=A Descriptive and Comparative Grammar of Western Old Japanese|series=Handbook of Oriental Studies. Section 5 Japan|seriesvolume=16|url=https://brill.com/view/title/56720|edition=Revised, Updated and Enlarged Second Edition|year=2020|volume=1|pages=291-298|isbn=978-90-04-42211-7|isbn2=978-90-04-42281-0}}</ref>
 
 Cognate with {{cog|jpx-ryu-pro|*nau}}; → {{cog|xug|何|tr=nū}}, {{cog|mvi|何|tr=nō}}, {{cog|ryu|何|tr=nū}}, {{cog|rys|何|tr=nō}}, and {{cog|yoi|何|tr=nū}}.
 
 ===Pronunciation===
-{{ja-pron|y=k|なに|acc=1|acc_ref=SMK2|a=Ja-nani-anglonative.oga}}
-{{ja-pron|y=k|なん|acc=1|acc_ref=SMK2}}
+{{ja-pron|なに|acc=1|acc_ref=SMK2|a=Ja-nani-anglonative.oga}}
+{{ja-pron|なん|acc=1|acc_ref=SMK2}}
 
 ====Compounds====
 * {{see derivation subpage|Japanese}}
 
 ===Interjection===
-{{ja-kanjitab|なに|yomi=k}}
 {{ja-pos|interjection|なに}}
 
 # What?, Huh?
-<br clear="both" />
 
 ===Pronoun===
-{{ja-kanjitab|なに|yomi=k}}
 {{ja-pos|pronoun|なに}} {{ja-altread|hira=なん}}
 
 # [[what]]
@@ -172,12 +171,12 @@ Cognate with {{cog|jpx-ryu-pro|*nau}}; → {{cog|xug|何|tr=nū}}, {{cog|mvi|何
 * {{ja-r|如何|どう}} in what manner?
 
 ====See also====
-{{Japanese demonstratives}}
-{{Classical Japanese pronouns and demonstratives}}
+* {{Japanese demonstratives}}
+* {{Classical Japanese pronouns and demonstratives}}
 
 ===Prefix===
-{{ja-kanjitab|なん|yomi=k}}
 {{ja-pos|prefix|なん}}
+
 # what number, [[how many]] (used with a [[counter]])
 # (used with も) many (used with a [[counter]])
 #: {{ja-usex|[[この]][[広%告]]を'''何'''%[[回]][[も]]見た|この こう%こく を '''なん'''%かい も みた|I've seen this ad '''many''' times}}
