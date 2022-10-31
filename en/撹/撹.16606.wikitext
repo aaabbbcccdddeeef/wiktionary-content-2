@@ -22,17 +22,31 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|撹|攪}}
+{{ja-kanji forms|撹|攪|ex=y}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=手12|kyu=攪}}
 
-# {{rfdef|ja|sort=手12}}
+# {{ja-ex shin|攪|sort=手12}}: to [[disturb]]
 
 ====Readings====
 {{ja-readings
-|goon=きょう
-|kanon=こう
+|goon=きょう<けう
+|kanon=こう<かう
 |kanyoon=かく
-|kun=みだ-す
+|kun=ほだ-てる, みだ-す
+}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|撹%起|かく%き|rom=-}}／{{ja-r|攪%起|かく%き}}
+|{{ja-r|撹%擾|かく%じゅう|rom=-}}／{{ja-r|攪%擾|かく%じゅう}}
+|{{ja-r|撹%撓|かく%どう|rom=-}}／{{ja-r|攪%撓|かく%どう}}
+|{{ja-r|撹%破|かく%は|rom=-}}／{{ja-r|攪%破|かく%は}}
+|{{ja-r|撹%拌|かく%はん|rom=-}}／{{ja-r|攪%拌|かく%はん}}
+|{{ja-r|撹%乱|かく%らん|rom=-}}／{{ja-r|攪%乱|かく%らん}}
+|{{ja-r|撹%擾|こう%じゅう|rom=-}}／{{ja-r|攪%擾|こう%じゅう}}
+|{{ja-r|撹%撓|こう%どう|rom=-}}／{{ja-r|攪%撓|こう%どう}}
+|{{ja-r|撹%拌|こう%はん|rom=-}}／{{ja-r|攪%拌|こう%はん}}
+|{{ja-r|撹%乱|こう%らん|rom=-}}／{{ja-r|攪%乱|こう%らん}}
 }}
