@@ -619,34 +619,35 @@ From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}},
 * Phoneme
 {{sl-pronounce
 |IPAt={{IPA|sl|/ɡ/|[k]}}
-|SNPTt=/g/, [k]
+|SNPTt={{SNPT|/g/|[k]}}
 |IPAnt={{IPA|sl|/ɡ/|[k]}}
-|SNPTnt=/g/, [k]
+|SNPTnt={{SNPT|/g/|[k]}}
 |IPAg={{IPA|sl|/ɣ/|[x]}}
-|SNPTg=/ɣ/, [h]
+|SNPTg={{SNPT|/ɣ/|[h]}}
 |IPAcoll={{IPA|sl|/ɡ/|[k]|[x]}}
-|SNPTcoll=/g/, [k], [h]
+|SNPTcoll={{SNPT|/g/|[k]|[h]}}
 }}
 
 * Letter name
 {{sl-pronounce
-|nt=G
+|nt=g
 |phonetic=gə̀, gé
 |tonal=ə̏, ẹ̄
 |IPAt={{IPA|sl|[ˈɡə̂]|[ˈɡêː]|[ˈɡěː]}}
-|SNPTt=[gə̏], [gẹ̄]
+|SNPTt={{SNPT|[gə̏]|[gẹ̄]}}
 |IPAnt={{IPA|sl|[ˈɡə]|[ˈɡeː]}}
-|SNPTnt=[gə̀], [gé]
+|SNPTnt={{SNPT|[gə̀]|[gé]}}
 |audiont={{audio|sl|Sl-nt-g.ogg|Audio:}}
 |IPAg={{IPA|sl|[ˈɣə̂]|[ˈɣêː]|[ˈɣěː]}}
-|SNPTg=[ɣə̏], [ɣẹ̄]
+|SNPTg={{SNPT|[ɣə̏]|[ɣẹ̄]}}
 |audiog={{audio|sl|Sl-nt-g-dialectal.ogg|Audio:}}
 }}
 {{sl-pronounce-other
 |rhymes={{rhymes|sl|ə|eː}}
-|hyphenation={{hyphenation|sl|G}}
-|homophonest={{homophones|sl|g}}
-|homophonesnt={{homophones|sl|g}}
+|rhymesSNPT={{SNPTchar|ə̀|é}}
+|hyphenation={{hyphenation|sl|g}}
+|homophonest={{homophones|sl|G}}
+|homophonesnt={{homophones|sl|G}}
 |alp=*gə̀
 |car=*gə̏
 |vk=*gə̏
