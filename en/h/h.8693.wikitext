@@ -718,6 +718,95 @@ Letter:
 
 ----
 
+==Slovene==
+{{wikipedia|lang=sl}}
+
+===Alternative forms===
+''See usage notes.''
+
+===Etymology===
+From Gaj's Latin alphabet {{m|sh|h}}, from {{der|mul|cs|-}} alphabet {{m|cs|h}}, from Latin {{m|la|h}}. Pronunciation as {{IPAchar|/xə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|h}}.
+
+====Pronunciation====
+* Phoneme
+{{sl-pronounce
+|IPAt={{IPA|sl|/x/|[ɣ]}}
+|SNPTt={{SNPT|/h/|[ɣ]}}
+|IPAnt={{IPA|sl|/x/|[ɣ]}}
+|SNPTnt={{SNPT|/h/|[ɣ]}}
+}}
+
+* Letter name
+{{sl-pronounce
+|nt=h
+|phonetic=hə̀, há
+|tonal=ə̏, ā
+|IPAt={{IPA|sl|[ˈxə̂]|[ˈxâː]|[ˈxǎː]}}
+|SNPTt={{SNPT|[hə̏]|[hā]}}
+|IPAnt={{IPA|sl|[ˈxə]|[ˈxaː]}}
+|SNPTnt={{SNPT|[hə̀]|[hā]}}
+|audiont={{audio|sl|Sl-nt-h.ogg|Audio:}}
+}}
+{{sl-pronounce-other
+|rhymes={{rhymes|sl|ə|aː}}
+|rhymesSNPT=[ə̀], [á]
+|hyphenation={{hyphenation|sl|h}}
+|homophonest={{homophones|sl|H|ha}}
+|alp=*hə̀
+|car=*hə̏
+|vk=*hə̏
+|si=*hə̏
+|lc=*hə̏
+|uc=*hə̏
+|ss=*hə̏
+|ns=*hə̏
+|pan=*hə̏
+}}
+
+====Letter====
+{{sl-letter|upper=H|lower=h}}
+
+# {{Latn-def-lite|sl|langname=Slovene|letter|9}}
+# {{Latn-def-lite|sl|langname=Resian|letter|14}}
+# {{Latn-def-lite|sl|langname=Natisone Valley dialect|letter|10}}
+
+====Usage notes====
+In Metelko alphabet, the phoneme was written by two different letters whether it was pronounced as velar {{IPAchar|/x/}} or glottal {{IPAchar|/h/}}, a distinction irrelevant to nowadays standard and the distinction was also not used by all writers. Phoneme {{IPAchar|/h/}} was written with 〈h〉, while {{IPAchar|/x/}} was written with a yet to be encoded character [[File:Metelko h.gif|frameless]].
+
+====Symbol====
+{{head-lite|sl|symbols|langname=Slovene}}
+
+# {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|SNPT for Standard Slovene]]}} ''[[phonetic|Phonetic]] [[transcription]] of sound'' [{{IPAlink|x}}].
+# {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|dialectal SNPT]]}} ''[[phonetic|Phonetic]] [[transcription]] of sounds'' [{{IPAlink|h}}, {{IPAlink|ħ}}].
+
+====Noun====
+{{sl-noun|h|m-in}}
+
+# {{n-g-lite|The name of the [[Appendix:Latin script|Latin script]] letter '''''[[H]]''''' / '''''[[h]]'''''.}}
+# {{q|linguistics}} {{n-g-lite|The name of the [[phoneme]] ''/{{IPAlink|x}}/''.}}
+
+====Inflection====
+* Overall more common
+{{sl-decl-noun-table3|h|h-ja|[[h-ju]], ''[[h-ji]]''|h|[[h-ju]], ''[[h-ji]]''|h-jem|h|h-ja|h-jev|h-jema|h-ja|h-jih|h-jema|h-ja|h-ji|h-jev|h-jem|h-je|h-jih|h-ji|h-ji|decl=m-in-1-s|infix=j-|accent=1}}
+
+* More common when with a definite adjective
+{{sl-decl-noun-table3|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|decl=m-3|accent=1}}
+
+* Dialectal, in common written language used till 19th century 
+{{sl-decl-noun-table3|h|h-ja|[[h-ju]], ''[[h-ji]]''|h|[[h-ju]], ''[[h-ji]]''|h-jom|h|h-ja|h-jov|h-joma|h-ja|h-jih|h-joma|h-ja|h-ji|h-jov|h-jom|h-je|h-jih|h-ji|h-ji|decl=m-in-1|infix=j-}}
+
+===See also===
+* {{list:Latin script letters/sl/simple}}
+
+===References===
+* {{Cite book|last=Kenda-Jež |first=Karmen |date=February 27, 2017 |title=Fonetična trankripcija |trans-title=Phonetic transcription |url=https://fran.si/150/sla-slovenski-lingvisticni-atlas-1/datoteke/SLA1_Foneticna-transkripcija.pdf |url-status=live |archive-url=https://web.archive.org/web/20220122221458/https://www.fran.si/150/sla-slovenski-lingvisticni-atlas-1/datoteke/SLA1_Foneticna-transkripcija.pdf |archive-date=January 22, 2022 |access-date=March 19, 2022 |website=Slovenski lingvistični atlas |publisher=Znanstvenoraziskovalni center [[SAZU]], Inštitut za slovenski jezik Frana Ramovša |pages=27–30 |language=sl}}
+
+===Further reading===
+* {{R:sl:Fran}}
+
+
+----
+
 ==Spanish==
 
 ===Pronunciation===
