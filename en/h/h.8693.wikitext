@@ -722,22 +722,21 @@ Letter:
 {{wikipedia|lang=sl}}
 
 ===Alternative forms===
-''See usage notes.''
+''See usage notes for both etymologies.''
 
-===Etymology===
+===Etymology 1===
 From Gaj's Latin alphabet {{m|sh|h}}, from {{der|mul|cs|-}} alphabet {{m|cs|h}}, from Latin {{m|la|h}}. Pronunciation as {{IPAchar|/xə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|h}}.
 
 ====Pronunciation====
-* Phoneme
 {{sl-pronounce
+|q=phoneme
 |IPAt={{IPA|sl|/x/|[ɣ]}}
 |SNPTt={{SNPT|/h/|[ɣ]}}
 |IPAnt={{IPA|sl|/x/|[ɣ]}}
 |SNPTnt={{SNPT|/h/|[ɣ]}}
 }}
-
-* Letter name
 {{sl-pronounce
+|q=letter name
 |nt=h
 |phonetic=hə̀, há
 |tonal=ə̏, ā
@@ -751,7 +750,7 @@ From Gaj's Latin alphabet {{m|sh|h}}, from {{der|mul|cs|-}} alphabet {{m|cs|h}},
 |rhymes={{rhymes|sl|ə|aː}}
 |rhymesSNPT=[ə̀], [á]
 |hyphenation={{hyphenation|sl|h}}
-|homophonest={{homophones|sl|H|ha}}
+|homophonest={{homophones|sl|H|h|ha}}
 |alp=*hə̀
 |car=*hə̏
 |vk=*hə̏
@@ -762,7 +761,6 @@ From Gaj's Latin alphabet {{m|sh|h}}, from {{der|mul|cs|-}} alphabet {{m|cs|h}},
 |ns=*hə̏
 |pan=*hə̏
 }}
-
 ====Letter====
 {{sl-letter|upper=H|lower=h}}
 
@@ -780,7 +778,7 @@ In Metelko alphabet, the phoneme was written by two different letters whether it
 # {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|dialectal SNPT]]}} ''[[phonetic|Phonetic]] [[transcription]] of sounds'' [{{IPAlink|h}}, {{IPAlink|ħ}}].
 
 ====Noun====
-{{sl-noun|h|m-in}}
+{{sl-noun|h|m-in|g2=f}}
 
 # {{n-g-lite|The name of the [[Appendix:Latin script|Latin script]] letter '''''[[H]]''''' / '''''[[h]]'''''.}}
 # {{q|linguistics}} {{n-g-lite|The name of the [[phoneme]] ''/{{IPAlink|x}}/''.}}
@@ -794,6 +792,64 @@ In Metelko alphabet, the phoneme was written by two different letters whether it
 
 * Dialectal, in common written language used till 19th century 
 {{sl-decl-noun-table3|h|h-ja|[[h-ju]], ''[[h-ji]]''|h|[[h-ju]], ''[[h-ji]]''|h-jom|h|h-ja|h-jov|h-joma|h-ja|h-jih|h-joma|h-ja|h-ji|h-jov|h-jom|h-je|h-jih|h-ji|h-ji|decl=m-in-1|infix=j-}}
+
+* Rare
+{{sl-decl-noun-table3|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|h|decl=f-3|accent=1}}
+
+===Etymology 2===
+From {{der|sl|sla-pro|*kъ}} 'to', which is itself probably from {{der|sl|ine-pro|*ku̯u|*k<sup>u̯</sup>u}} 'where'. This form is a [[spirantization]] of {{l|sl|k}}, which appeared to ease the pronunciation.
+
+===Pronunciation===
+{{sl-pronounce
+|q=usually
+|IPAt={{IPA|sl|[x]|[ɣ]}}
+|SNPTt={{SNPT|[h]|[ɣ]}}
+|reft=&nbsp;{{q|see also usage notes}}
+|IPAnt={{IPA|sl|[x]|[ɣ]}}
+|SNPTnt={{SNPT|[h]|[ɣ]}}
+|refnt=&nbsp;{{q|see also usage notes}}
+}}
+{{sl-pronounce
+|q=often colloquially or when trying to stress it, considered incorrect by Slovenski pravopis
+|phonetic=hə
+|IPAt={{IPA|sl|[xə]}}
+|SNPTt={{SNPT|[hə]}}
+|IPAnt={{IPA|sl|[xə]}}
+|SNPTnt={{SNPT|[hə]}}
+}}
+{{sl-pronounce
+|q= outside of original context
+|nt=h
+|t=ə̏
+|phonetic=hə̀
+|IPAt={{IPA|sl|[ˈxə́]}}
+|SNPTt={{SNPT|[hə̏]}}
+|IPAnt={{IPA|sl|[ˈxə]}}
+|SNPTnt={{SNPT|[hə̀]}}
+}}
+{{sl-pronounce-other
+|rhymes= {{rhymes|sl|ə}}
+|rhymesSNPT= {{SNPTchar|[-ə̀]}}
+|hyphenation={{hyphenation|sl|h}}
+|homophonest={{homophones|sl|h|H}}
+|alp=*k
+|car=*k
+|vk==*k
+|si=*k
+|ss=*k
+|uc=*k
+|lc=*k
+|ns=*k
+|pan=*k
+}}
+
+====Preposition====
+{{sl-prep|-}}
+
+# {{q|with dative|see usage notes}} [[to]], [[for]]
+
+====Usage notes====
+Preposition ''h'' is a form of preposition {{l|sl|k}} that appears before words that start with {{IPAchar|/k/}} or {{IPAchar|/ɡ/}} while other form is used for all other words. In "correct" pronunciation, the preposition does not form its own syllable, but binds to the first syllable of the next word and has therefore two pronunciations: {{IPAchar|[x]}} if word starts with {{IPAchar|[k]}} and {{IPAchar|[ɣ]}} if word starts with {{IPAchar|[ɡ]}}. In colloquial speech, this form (or at least its pronunciation) are also used with words starting with other letters.
 
 ===See also===
 * {{list:Latin script letters/sl/simple}}
