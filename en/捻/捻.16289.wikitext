@@ -117,13 +117,32 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=手08}}
 
-# {{rfdef|ja|sort=手08}}
+# to [[twist]]
+#: {{syn|ja|拈|撚}}
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|捻}}; compare {{cog|cmn|捻|tr=niē}}:
 {{ja-readings
-|goon=にょう<ねふ, ねん<ねん<ねむ
-|kanon=じょう<でふ, でん<でん<でむ
-|kun=ひね-る, ねじ-る<ねぢ-る, よじる
+|goon=にょう<ねふ
+|kanon=じょう<でふ
+}}
+From {{der|ja|ltc|-}}; compare {{cog|cmn|捻|tr=niǎn}}:
+{{ja-readings
+|goon=ねん<ねん<ねむ
+|kanon=でん<でん<でむ
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=ねじ-る<ねぢ-る, ねじ-れ<ねぢ-れ, ひね-くる, ひね-くれる, ひね-り, ひね-る, よじる
+}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|捻%挫|ねん%ざ}}
+|{{ja-r|捻%出|ねん%しゅつ}} ({{ja-r|拈%出|ねん%しゅつ|rom=-}})
+|{{ja-r|捻%転|ねん%てん}}
+|{{ja-r|捻%匪|ねん%ぴ}}
+|{{ja-r|紙%捻|し%ねん}}
 }}
 
 ----
