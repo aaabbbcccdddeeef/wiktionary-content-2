@@ -155,6 +155,8 @@
 |col-vs2=hdmj
 |pic-vs1=U9020-kyu.svg
 |ref={{R:Kanjipedia|0004315000}}
+|ref2={{R:ja:KDJ|2107|1105}}
+|ref3={{R:ja:SKJ|1214|620}}
 }}
 
 ===Kanji===
@@ -163,12 +165,12 @@
 # [[create]], [[make]], [[physique]], [[structure]]
 
 ====Readings====
-From {{der|ja|ltc|-}} {{ltc-l|造|id=1}}:
+From {{der|ja|ltc|-}} {{ltc-l|造|id=1}}; compare {{cog|cmn|造|tr=zào}}:
 {{ja-readings
 |goon=ぞう<ざう
 |kanon=そう<さう
 }}
-From {{der|ja|ltc|-}} {{ltc-l|造|id=2}}:
+From {{der|ja|ltc|-}} {{ltc-l|造|id=2}}; compare {{cog|cmn|造|tr=zào, cào}}:
 {{ja-readings
 |goon=そう<さう
 |kanyoon=ぞう<ざう
@@ -180,8 +182,95 @@ From native {{w|Japanese_language|Japanese}} roots:
 }}
 
 ====Compounds====
-* {{ja-r|創造|そうぞう}}
-* {{ja-r|構造|こうぞう}}
+{{der-top|Compounds}}
+{{ja-r/multi|data=
+* {{ja-r/args|造%悪|ぞう%あく}}
+* {{ja-r/args|造%意|ぞう%い}}
+* {{ja-r/args|造%為|ぞう%い}}
+* {{ja-r/args|造%営|ぞう%えい}}
+* {{ja-r/args|造%園|ぞう%えん}}
+* {{ja-r/args|造%化|ぞう%か}}
+* {{ja-r/args|造%花|ぞう%か}}
+* {{ja-r/args|造%艦|ぞう%かん}}
+* {{ja-r/args|造%機|ぞう%き}}
+* {{ja-r/args|造%鈞|ぞう%きん}}
+* {{ja-r/args|造%宮|ぞう%ぐう}}
+* {{ja-r/args|造%形|ぞう%けい|rom=-}}, {{ja-r|造%型|ぞう%けい}}
+* {{ja-r/args|造%詣|ぞう%けい}}
+* {{ja-r/args|造%血|ぞう%けつ}}
+* {{ja-r/args|造%孼|ぞう%げつ}}
+* {{ja-r/args|造%言|ぞう%げん}}
+* {{ja-r/args|造%語|ぞう%ご}}
+* {{ja-r/args|造%構|ぞう%こう}}
+* {{ja-r/args|造%石|ぞう%こく}}
+* {{ja-r/args|造%国|ぞう%こく}}
+* {{ja-r/args|造%作|ぞう%さ}}
+* {{ja-r/args|造%材|ぞう%ざい}}
+* {{ja-r/args|造%作|ぞう%さく}}
+* {{ja-r/args|造%士|ぞう%し}}
+* {{ja-r/args|造%次|ぞう%じ}}
+* {{ja-r/args|造%寺|ぞう%じ}}
+* {{ja-r/args|造%酒|ぞう%しゅ}}
+* {{ja-r/args|造%就|ぞう%しゅう}}
+* {{ja-r/args|造%出|ぞう%しゅつ}}
+* {{ja-r/args|造%醸|ぞう%じょう}}
+* {{ja-r/args|造%進|ぞう%しん}}
+* {{ja-r/args|造%成|ぞう%せい}}
+* {{ja-r/args|造%請|ぞう%せい}}
+* {{ja-r/args|造%設|ぞう%せつ}}
+* {{ja-r/args|造%説|ぞう%せつ}}
+* {{ja-r/args|造%船|ぞう%せん}}
+* {{ja-r/args|造%像|ぞう%ぞう}}
+* {{ja-r/args|造%猝|ぞう%そつ}}
+* {{ja-r/args|造%替|ぞう%たい}}
+* {{ja-r/args|造%端|ぞう%たん}}
+* {{ja-r/args|造%築|ぞう%ちく}}
+* {{ja-r/args|造%注|ぞう%ちゅう}}
+* {{ja-r/args|造%第|ぞう%てい}}
+* {{ja-r/args|造%反|ぞう%はん}}
+* {{ja-r/args|造%畢|ぞう%ひつ}}
+* {{ja-r/args|造%仏|ぞう%ぶつ}}
+* {{ja-r/args|造%物|ぞう%ぶつ}}
+* {{ja-r/args|造%兵|ぞう%へい}}
+* {{ja-r/args|造%幣|ぞう%へい}}
+* {{ja-r/args|造%訪|ぞう%ほう}}
+* {{ja-r/args|造%本|ぞう%ほん}}
+* {{ja-r/args|造%昧|ぞう%まい}}
+* {{ja-r/args|造%命|ぞう%めい}}
+* {{ja-r/args|造%面|ぞう%めん}} ({{ja-r|蔵%面|ぞう%めん|rom=-}})
+* {{ja-r/args|造%謡|ぞう%よう}}
+* {{ja-r/args|造%立|ぞう%りゅう}}
+* {{ja-r/args|造%粒|ぞう%りゅう}}
+* {{ja-r/args|造%林|ぞう%りん}}
+* {{ja-r/args|造%暦|ぞう%れき}}
+* {{ja-r/args|営%造|えい%ぞう}}
+* {{ja-r/args|改%造|かい%ぞう}}
+* {{ja-r/args|偽%造|ぎ%ぞう}}
+* {{ja-r/args|構%造|こう%ぞう}}
+* {{ja-r/args|興%造|こう%ぞう}}
+* {{ja-r/args|国造|くに の みやつこ}}
+* {{ja-r/args|再%造|さい%ぞう}}
+* {{ja-r/args|修%造|しゅう%ぞう}}
+* {{ja-r/args|新%造|しん%ぞ}}
+* {{ja-r/args|新%造|しん%ぞう}}
+* {{ja-r/args|深%造|しん%ぞう}}
+* {{ja-r/args|製%造|せい%ぞう}}
+* {{ja-r/args|創%造|そう%ぞう}}
+* {{ja-r/args|大%造|たい%ぞう}}
+* {{ja-r/args|築%造|ちく%ぞう}}
+* {{ja-r/args|鋳%造|ちゅう%ぞう}}
+* {{ja-r/args|肇%造|ちゅう%ぞう}}
+* {{ja-r/args|捏%造|でつ%ぞう}}
+* {{ja-r/args|捏%造|ねつ%ぞう}}
+* {{ja-r/args|末%造|ばつ%ぞう}}
+* {{ja-r/args|仿%造|ほう%ぞう}}
+* {{ja-r/args|末%造|まつ%ぞう}}
+* {{ja-r/args|木%造|もく%ぞう}}
+* {{ja-r/args|模%造|も%ぞう|rom=-}}, {{ja-r|摸%造|も%ぞう}}
+* {{ja-r/args|乱%造|らん%ぞう}}
+* {{ja-r/args|両%造|りょう%ぞう}}
+}}
+{{der-bottom}}
 
 ===References===
 <references/>
