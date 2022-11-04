@@ -27,12 +27,41 @@
 
 ====Readings====
 {{ja-readings
-|on=くん
-|kun=いさお-
+|goon=くん
+|kanon=くん
+|kun=いさお-<いさを-
 }}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|勲位|くんい}}
+* {{ja-r|勲記|くんき}}
+* {{ja-r|勲業|くんぎょう}}
+* {{ja-r|勲功|くんこう}}
+* {{ja-r|勲爵|くんしゃく}}
+* {{ja-r|勲章|くんしょう}}
+* {{ja-r|勲状|くんじょう}}
+* {{ja-r|勲績|くんせき}}
+* {{ja-r|勲等|くんとう}}
+* {{ja-r|勲労|くんろう}}
+* {{ja-r|偉勲|いくん}}
+* {{ja-r|位勲|いくん}}
+* {{ja-r|元勲|げんくん}}
+* {{ja-r|功勲|こうくん}}
+* {{ja-r|殊勲|しゅくん}}
+* {{ja-r|受勲|じゅくん}}
+* {{ja-r|賞勲|しょうくん}}
+* {{ja-r|叙勲|じょくん}}
+* {{ja-r|戦勲|せんくん}}
+* {{ja-r|大勲|たいくん}}
+* {{ja-r|帯勲|たいくん}}
+* {{ja-r|武勲|ぶくん}}
+* {{ja-r|文勲|ぶんくん}}
+{{der-bottom}}
 
 ===Etymology 1===
 {{ja-kanjitab|くん|yomi=o}}
+From {{der|ja|ltc|sort=くん|-}} {{ltc-l|勲}}. {{attention|ja|should probably link to 勳 but {{ltc-l|勳}} doesn't fetch the MC}}
 
 ====Pronunciation====
 {{ja-pron|くん|acc=1|acc_ref=DJR}}
@@ -41,18 +70,12 @@
 {{ja-noun|くん|hhira=くん}}
 
 # [[merit]]
+# the [[class]] of an [[order]] of [[merit]]
+#: {{ja-usex|'''勲'''一等旭日大綬章|'''くん''' いっとう きょくじつ だいじゅしょう|Grand Cordon of the Order of the Rising Sun, first class}}
 
 ===Etymology 2===
 {{ja-kanjitab|いさお|yomi=k}}
 {{ja-see|いさお}}
-
-===Etymology 3===
-{{ja-kanjitab|いさお|yomi=k}}
-
-===Proper noun===
-{{ja-pos|いさお|proper|hhira=いさを}}
-
-# {{given name|ja|male|sort=いさお}}
 
 ===References===
 <references />
