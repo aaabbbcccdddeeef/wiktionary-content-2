@@ -1424,19 +1424,110 @@ From {{inh|sh|sla-pro|*u}}.
 
 ==Sicilian==
 
-===Alternative forms===
-* {{alter|scn|lu}}
+===Etymology 1===
+From the lenition of {{m|scn|lu}}, from the apheresis of {{inh|scn|VL.||*illu}}, from {{inh|scn|la|illum}}, from {{m|la|ille}}.
 
-===Etymology===
-From {{inh|scn|VL.||*illu}}, from {{inh|scn|la|illum}}, from {{m|la|ille}}.
+====Pronunciation====
+* {{IPA|scn|/u/}} {{qual|stressed}}
+* {{IPA|scn|/ʊ/}} {{qual|unstressed}}
 
-===Article===
+====Article====
 {{head|scn|article|g=m-s|f|a|plural|i}}
 
-# {{lb|scn|definite article}} [[the]]
+# {{lb|scn|masculine singular definite article}} [[the]]
+#: {{syn|scn|lu}}
 
-====Related terms====
-{{scn-article}}
+=====Usage notes=====
+* As for other Romance languages, such as Neapolitan or Portuguese, Sicilian definite articles have undergone a consonant lenition that has led to the phonetic fall of the initial ''l''. The use of this illiquid variant has not yet made the use of liquid variants disappear, but today it is still the prevalent use in speech and writing.
+* In the case of the production of literary texts, such as singing or poetry, or of formal and institutional texts, resorting to "liquid articles" and "liquid articulated prepositions" confers greater euphony to the text, although it may sound a form of courtly recovery.
+* Illiquid definite articles can be phonetically absorbed by the following noun. I.e: ''l'arancinu'' (liquid) and ''ârancinu'' (illiquid).
+
+====Inflection====
+{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="5" rules="all"
+! colspan=5 align="center" bgcolor="#BBBBBB" | Sicilian [[article]]s
+|-
+! width="65" bgcolor="#F4F4F4" |
+! bgcolor="#EEEEB0" | Masculine singular definite article
+! bgcolor="#EEEEB0" | Feminine singular definite article
+! bgcolor="#CEEEB0" | Masculine and feminine plural definite article
+|-
+| bgcolor="#DDDDFF" | '''Definite articles''' (liquid)
+| align="center" | {{l-self|scn|lu}}
+| align="center" | {{l-self|scn|la}}
+| align="center" | {{l-self|scn|li}}
+|-
+| bgcolor="#DDDDFF" | '''Definite articles''' (illiquid)
+| align="center" | {{l-self|scn|u}}
+| align="center" | {{l-self|scn|a}}
+| align="center" | {{l-self|scn|i}}
+|-
+| bgcolor="#DDDDFF" | '''Definite articles'''
+| align="center" | {{l-self|scn|nu}}<br />(also: {{l-self|scn|un}},{{l-self|scn|'n}})
+| align="center" | {{l-self|scn|na}}
+|}
+
+===Etymology 2===
+From the lenition of {{m|scn|lu}}, from the apheresis of {{inh|scn|VL.||*illu}}, from {{inh|scn|la|illum}}, from {{m|la|ille}}.
+
+====Alternative forms====
+* {{alter|scn|lu||liquid form}}
+
+====Pronunciation====
+* {{IPA|scn|/u/}} {{qual|stressed}}
+* {{IPA|scn|/ʊ/}} {{qual|unstressed}}
+
+====Pronoun====
+{{head|scn|pronoun|g=m-s|plural|i|female|a}}
+
+# {{lb|scn|accusative}} [[him]]
+#: {{uxi|scn|'''U''' canusci?|Do you know '''him'''?}}
+#: {{syn|scn|lu}}
+# {{lb|scn|accusative}} [[it]], [[this]] or [[that]] thing
+#: {{syn|scn|lu}}
+#: {{uxi|scn|Quannu '''tû''' desi.|When I gave '''it''' to you.}}
+
+=====Usage notes=====
+* This pronoun can blend in contracted forms with other particles, especially other personal pronominal particles.
+
+====Inflection====
+{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="5" rules="all"
+! colspan=5 align="center" bgcolor="#BBBBBB" | Sicilian [[pronominal particle]]s
+|-
+! width="65" bgcolor="#F4F4F4" |
+! bgcolor="#EEEEB0" | Masculine singular pronominal particles
+! bgcolor="#EEEEB0" | Feminine singular pronominal particles
+! bgcolor="#CEEEB0" | Masculine and feminine plural pronominal particles
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|mi}}'''
+| align="center" | {{l-self|scn|mû}}
+| align="center" | {{l-self|scn|mâ}}
+| align="center" | {{l-self|scn|mî}}
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|ti}}'''
+| align="center" | {{l-self|scn|tû}}
+| align="center" | {{l-self|scn|tâ}}
+| align="center" | {{l-self|scn|tî}}
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|ci}}'''
+| align="center" | {{l-self|scn|ci u}}
+| align="center" | {{l-self|scn|ci a}}
+| align="center" | {{l-self|scn|cî}}
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|ni}}'''
+| align="center" | {{l-self|scn|nû}}
+| align="center" | {{l-self|scn|nâ}}
+| align="center" | {{l-self|scn|nî}}
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|vi}}'''
+| align="center" | {{l-self|scn|vû}}
+| align="center" | {{l-self|scn|vâ}}
+| align="center" | {{l-self|scn|vî}}
+|-
+| bgcolor="#DDDDFF" | '''{{l-self|scn|ci}}'''
+| align="center" | {{l-self|scn|ci u}}
+| align="center" | {{l-self|scn|ci a}}
+| align="center" | {{l-self|scn|cî}}
+|}
 
 ----
 
