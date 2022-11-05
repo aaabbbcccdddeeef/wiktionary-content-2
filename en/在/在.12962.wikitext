@@ -139,44 +139,58 @@ Meixian: cai4 - literary; coi1 - colloquial; hoi1/hoi4 - colloquial (preposition
 {{ja-readings
 |goon=ざい
 |kanon=さい
-|kun= あ-る,あ-り, あり-, ま-す, いま-す
-|nanori= あ, あん
+|kun= あ-る, あ-り, あり-, ま-す, いま-す
+|nanori= あきら, ひさし, あき, あり, ありふく, ある, たもつ, ちえぼく, みつる
 }}
 
 ====Compounds====
-{{top3}}
+{{der-top|Compounds}}
 * {{ja-r|在%位|ざい%い}}
 * {{ja-r|在%家|ざい%け}}
 * {{ja-r|在%庫|ざい%こ}}
 * {{ja-r|在%校|ざい%こう}}
 * {{ja-r|在%住|ざい%じゅう}}
-{{mid3}}
 * {{ja-r|在%職|ざい%しょく}}
 * {{ja-r|在%世|ざい%せ}}
 * {{ja-r|在%籍|ざい%せき}}
 * {{ja-r|在%宅|ざい%たく}}
 * {{ja-r|在%任|ざい%にん}}
-{{mid3}}
 * {{ja-r|在%来|ざい%らい}}
 * {{ja-r|在%留|ざい%りゅう}}
 * {{ja-r|存%在|そん%ざい}}
 * {{ja-r|在%日|ざい%にち}}
+* {{ja-r|現%在|げん%ざい}}
 * {{ja-r|現%在%地|げん%ざい%ち}}
-{{bottom}}
+{{der-bottom}}
 
-===Verb===
-{{ja-kanjitab|yomi=nanori|あ|alt=有}}
-{{ja-see|あ}}
+===Etymology 1===
+{{ja-kanjitab|yomi=goon|ざい}}
 
-===Noun===
+From {{der|ja|ltc|sort=さい'|-}} {{ltc-l|在}}.  Attested in compounds since at least the 900s.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+====Pronunciation====
+{{ja-pron|ざい|acc=1|acc_ref=DJR|acc_note=— ''pitch is specific to use as a standalone noun''}}
+
+====Affix====
+{{ja-pos|affix|ざい}}
+
+# {{defdate|from at least 900s}} {{q|as used in compounds}} [[at]], [[in]], [[located]]
+
+====Noun====
 {{ja-noun|ざい}}
 
-# {{clipping of|ja|在郷|tr=zaigō|dot=:}} [[countryside]] or [[outskirts]]
+# {{defdate|from 1569}} {{clipping of|ja|在郷|tr=zaigō|dot=:}} [[countryside]] or [[outskirts]]
 
-===Prefix===
-{{ja-pos|ざい|prefix}}
+===Etymology 2===
+{{ja-kanjitab|yomi=k|あ|o1=り|alt=有:common}}
 
-# residing in
+Alternative spelling for {{m|ja|有り|tr=ari}}, the Classical and Old Japanese [[copula]].
+
+====Definitions====
+{{ja-see|有り}}
+
+===References===
+<references/>
 
 ----
 
