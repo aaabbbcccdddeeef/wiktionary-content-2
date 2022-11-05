@@ -89,18 +89,36 @@
 {{ja-kanji|grade=|rs=彐08}}
 
 # [[comet]]
+# [[broom]]
+#: {{syn|ja|篲}}
+# to [[sweep]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|彗|id=1}}; compare {{cog|cmn|彗|tr=suì, huì}}:
 {{ja-readings
-|goon=ずい, ぜい
-|kanon=すい, せい
-|kun=ほうき-
+|goon=ずい<ずい
+|kanon=すい<すい
+}}
+From {{der|ja|ltc|-}} {{ltc-l|彗|id=3}}:
+{{ja-readings
+|goon=ぜい<ぜい
+|kanon=せい<せい
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=は-く, ほうき-
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|彗星|すいせい}}: [[comet]]
-{{der-bottom}}
+{{col2-u|ja
+|{{ja-r|彗%星|すい%せい}}: [[comet]]
+|{{ja-r|彗%掃|すい%そう}}
+|{{ja-r|彗%孛|すい%はい}}
+|{{ja-r|王%彗|おう%すい}}
+|{{ja-r|孛%彗|はい%すい}}
+|{{ja-r|擁%彗|よう%すい}}
+|{{ja-r|妖%彗|よう%すい}}
+}}
 
 ----
 
