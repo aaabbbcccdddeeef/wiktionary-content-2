@@ -159,15 +159,45 @@
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=|rs=大04}} <!-- Note: This character is not simplified to 夹 in Japanese -->
+{{ja-kanji|grade=|rs=大04}}
 
 # insert between
+#: {{syn|ja|挟}}
+# [[cramped]]
+#: {{syn|ja|狭}}
 
 ====Readings====
-* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō)|kun=[[はさむ]] (hasamu)}}
+{{ja-readings
+|goon=きょう<けふ
+|kanon=こう<かふ
+|kun=あわせ-<あはせ-, はさ-む, わきばさ-む
+}}
 
 ====Usage notes====
-Only used as a component form of {{l|ja|挾}}/{{l|ja|狹}}/{{l|ja|峽}} which has been {{w|Shinjitai|simplified}} to {{l|ja|挟}}/{{l|ja|狭}}/{{l|ja|峡}}.
+* Only used as a component form of {{l|ja|挾}}/{{l|ja|狹}}/{{l|ja|峽}} which has been {{w|Shinjitai|simplified}} to {{l|ja|挟}}/{{l|ja|狭}}/{{l|ja|峡}}.
+* This character is not simplified to {{l|ja|夹}} in Japanese.
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|夾%衣|きょう%い}}
+|{{ja-r|夾%客|きょう%かく}}
+|{{ja-r|夾%角|きょう%かく}}
+|{{ja-r|夾%撃|きょう%げき}} ({{ja-r|挟%撃|きょう%げき|rom=-}})
+|{{ja-r|夾%纈|きょう%けち|rom=-}}, {{ja-r|夾%結|きょう%けち}}
+|{{ja-r|夾%攻|きょう%こう}} ({{ja-r|挟%攻|きょう%こう|rom=-}})
+|{{ja-r|夾%雑|きょう%ざつ}}
+|{{ja-r|夾%笇|きょう%さん|rom=-}}, {{ja-r|夾%算|きょう%さん}}
+|{{ja-r|夾%侍|きょう%じ}} ({{ja-r|挟%侍|きょう%じ|rom=-}})
+|{{ja-r|夾%鐘|きょう%しょう|rom=-}}, {{ja-r|夾%鍾|きょう%しょう}}
+|{{ja-r|夾%帯|きょう%たい}}
+|{{ja-r|夾%炭%層|きょう%たん%そう}}
+|{{ja-r|夾%竹%桃|きょう%ちく%とう}}
+|{{ja-r|夾%紵|きょう%ちょ|rom=-}}, {{ja-r|夾%貯|きょう%ちょ}} ({{ja-r|挟%紵|きょう%ちょ|rom=-}})
+|{{ja-r|夾%輔|きょう%ほ}} ({{ja-r|挟%輔|きょう%ほ|rom=-}})
+|{{ja-r|夾%翼|きょう%よく}}
+|{{ja-r|夾%立|きょう%りつ}}
+|{{ja-r|剣%夾|けん%きょう}} ({{ja-r|剣%鋏|けん%きょう|rom=-}})
+}}
 
 ----
 
