@@ -47,13 +47,50 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=人08}}
 
-# {{rfdef|ja|sort=人08}}
+# to [[lean on]]; to [[lean]] [[against]]
+#: {{syn|ja|寄}}
+# to [[rely on]]; to [[depend]] [[on]]
+# {{alt form of|ja|椅}}: [[chair]]
+# {{alt form of|ja|[[踦]], [[畸]]}}: [[lame]], [[crippled]]; [[unbalanced]]
 
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|倚|id=1}}; compare {{cog|cmn|倚|tr=yǐ}}:
 {{ja-readings
-|on=い, き
-|kun=よる, たのむ
+|goon=い<い
+|kanon=い<い
+}}
+From {{der|ja|ltc|-}} {{ltc-l|倚|tr=kˠiᴇ}}<!--畸-->; compare {{cog|cmn|倚|tr=jī}}:
+{{ja-readings
+|goon=き<き
+|kanon=き<き
+}}
+From native {{w|Japanese_language|Japanese}} roots:
+{{ja-readings
+|kun=たのむ, よ-る
 |nanori=より
+}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|倚%音|い%おん}}
+|{{ja-r|倚%几|い%き}}
+|{{ja-r|倚%子|い%し}}
+|{{ja-r|倚%藉|い%しゃ}}
+|{{ja-r|倚%信|い%しん}}
+|{{ja-r|倚%像|い%ぞう}}
+|{{ja-r|倚%重|い%ちょう}}
+|{{ja-r|倚%伏|い%ふく}}
+|{{ja-r|倚%門|い%もん}}
+|{{ja-r|倚%閭|い%りょ}}
+|{{ja-r|倚%廬|い%ろ}}
+|{{ja-r|倚%魁|き%かい}} ({{ja-r|畸%魁|き%かい|rom=-}})
+|{{ja-r|倚%人|き%じん}} ({{ja-r|畸%人|き%じん|rom=-}})
+|{{ja-r|依%倚|い%い}}
+|{{ja-r|徙%倚|し%い}}
+|{{ja-r|跛%倚|ひ%い}}
+|{{ja-r|付%倚|ふ%い|rom=-}}, {{ja-r|附%倚|ふ%い}}
+|{{ja-r|偏%倚|へん%い}}
+|{{ja-r|邐%倚|り%い}}
 }}
 
 ----
