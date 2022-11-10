@@ -108,11 +108,20 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=尸18|shin=属}}
 
-# {{rfdef|ja|sort=尸18}}
+# {{ja-kyu sp|ja|属|sort=尸18}}
 # {{lb|ja|taxonomy}} [[genus]]
 
 ====Readings====
-* {{ja-readings|on=[[ぞく]] (zoku), [[しょく]] (shoku), [[しゅ]] (shu)|kun=[[やから]] (yakara), [[つく]] (tsuku), [[さかん]] (sakan)}}
+{{ja-readings
+|goon=しょく<しよく, ぞく<ぞく
+|kanon=しょく<しよく
+|kanyoon=ぞく
+|kun=さかん-, つ-く, つ-ける, つづ-く, つづ-ける, つづ-る, やから-
+|nanori=つら, まさ, やす
+}}
+
+===Definitions===
+{{ja-gv|属}}
 
 =====Related terms=====
 * {{list:taxonomy/ja}}
