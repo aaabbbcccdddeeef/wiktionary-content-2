@@ -20,7 +20,6 @@
 ----
 
 ==Chinese==
-{{zh-forms|s=学|alt=斆,斅,斈,𢻯,𡕕,𣁃,𫝯,𭓕,𭓘}}
 
 ===Glyph origin===
 {{Han etym}}
@@ -30,10 +29,11 @@ In the modern form, 宀 has corrupted to {{zh-l|*冖|[[cover]]}}, and the hands 
 
 The earliest oracle bone script forms may be a {{Han compound|爻|六|c1=s|c2=p|ls=psc|nocap=y}}.
 
-===Etymology===
+===Etymology 1===
+{{zh-forms|s=学|alt=斈,𢻯,𡕕,𣁃,𫝯,𭓕,𭓘}}
 May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]] [[insight]]}}. Ultimately from {{inh|zh|sit-pro|*kruk||to [[rouse]]; to [[awaken]]; to [[disturb]]}}.
 
-===Pronunciation 1===
+====Pronunciation====
 {{zh-pron
 |m=xué,xiáo,1nb=literary,1nc=standard in Mainland and Taiwan,2nb=colloquial,2nc=rare or dialectal variant,2nd=used in xiangsheng
 |m-s=xuo2
@@ -100,10 +100,12 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 ====Descendants====
 {{CJKV||s=学|がく|j2=かく|학|học}}
 
-===Pronunciation 2===
+===Etymology 2===
+{{zh-forms|s=学}}
+
+====Pronunciation====
 {{zh-pron
 |m=xiào
-|m_note=Retroactive Mandarin reading based on historical literature. No longer in common use
 |dial=n
 |cat=v
 }}
@@ -115,6 +117,21 @@ May be an endopassive derivation of {{och-l|覺|to [[awake#Verb|awake]], [[get]]
 #* {{zh-x|魯 人 有 因 ^子 ^墨子 而 '''學'''{xiào} 其 子 者，其 子 戰 而 死，其 父 讓 ^子 ^墨子。^子 ^墨子 曰：「子 欲 '''學'''{xiào} 子 之 子，今 學{xué}-成 矣，戰 而 死，而 子 慍。」|There was a man in Lu who '''sent''' his son to Mozi '''to study'''. The son perished in a battle. The father blamed Mozi for it. Mozi said: "You wanted '''to have''' your son '''trained'''. Now he had completed his training and died in battle. And you become sore."|ref=Mozi-M}}
 #* {{zh-x|凡 學{xiào} 世子 及 學{xiào} 士，必 時。|In '''teaching''' the heir-sons and young men, the subjects were different at different seasons.|ref=Liji-L}}
 #* {{zh-x|《^兌{yuè}-命》 曰：「'''學'''{xiào} 學 半。」|It is said in the {{w|Book of Documents|Charge to Yue}}, "'''Teaching''' is the half of learning."|ref=Liji-L}}
+
+===Etymology 3===
+{{zh-forms|s=学}}
+
+====Pronunciation====
+{{zh-pron
+|m=huá,xué
+|dial=n
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-used|學鳩}}
 
 ===References===
 * {{R:twedu|A01001}}
