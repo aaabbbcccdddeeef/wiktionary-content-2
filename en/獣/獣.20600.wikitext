@@ -26,11 +26,13 @@
 }}
 
 ===Etymology 1===
+{{etymid|ja|kedamono}}
 {{ja-kanjitab|けだもの|yomi=k}}
+
 Literally "thing of hair". Compound of {{compound|ja|sort=けだもの|毛|tr1=ke|t1=hair|だ|tr2=da|pos2=genitive marker|物|tr3=mono|t3=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Medial ''-da-'' is a very rare genitive marker found in compounds, also seen in {{m|ja|果物||tr=kudamono|fruit}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|けだもの|acc=0|acc_ref=NHK,DJR}}
+{{ja-pron|けだもの|acc=0|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|kyu=獸|けだもの}}
@@ -40,11 +42,13 @@ Literally "thing of hair". Compound of {{compound|ja|sort=けだもの|毛|tr1=k
 #*: {{quote|ja|獸 '''ケタモノ'''}}
 
 ===Etymology 2===
+{{etymid|ja|kemono}}
 {{ja-kanjitab|けもの|yomi=k}}
+
 Literally "hair thing". Compound of {{compound|ja|sort=けもの|毛|tr1=ke|t1=hair|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|けもの|acc=0|acc_ref=NHK,DJR}}
+{{ja-pron|けもの|acc=0|acc_ref=NHK,DJR}}
 
 ====Noun====
 {{ja-noun|kyu=獸|けもの}}
@@ -72,14 +76,13 @@ Literally "hair thing". Compound of {{compound|ja|sort=けもの|毛|tr1=ke|t1=h
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|しし|yomi=irr}}
+{{etymid|ja|shishi}}
+{{ja-kanjitab|しし|yomi=irr|alt=鹿,猪}}
+
 From {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|鹿}}, {{ja-l|猪}}
+{{ja-pron|しし|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|しし}}
@@ -96,7 +99,7 @@ From {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}<
 From {{der|ja|ltc|-|sort=じゅう}} {{m|zh|獸|tr=syuw<sup>H</sup>||(wild) animal}}. Compare modern {{cog|cmn|-}} reading ''shòu'', {{cog|nan|-}} ''siù''.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanyoon|じゅう|acc=1|acc_ref=DJR}}
+{{ja-pron|じゅう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|kyu=獸|じゅう|hhira=じう}}
