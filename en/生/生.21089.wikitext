@@ -35,7 +35,7 @@
 {{Han etym}}
 {{Han compound|屮|一|ls=ic|t1=bud|t2=ground}} – [[sprouting]] from the ground.
 
-===Etymology===
+===Etymology 1===
 From {{inh|zh|sit-pro|*s-riŋ ~ s-r(j)aŋ||to live; to be alive; to give birth; raw; green}}. Cognate with {{cog|my|ရှင်||to live; alive}}, {{cog|lus|hring||to bear; to bring forth; to give birth to; green}}.
 
 {{zh-ref|Schuessler (2007)}} proposes that {{cog|sit-pro||*sriŋ}} is derived from the root {{m|sit-pro|*sri||to exist}} (whence possibly Chinese {{och-l|體|body; shape; form}}) + {{m|sit-pro|*-ŋ||''terminative suffix''}}.
@@ -46,7 +46,7 @@ Related to {{och-l|青|blue-green}}, {{och-l|蒼|dark blue; deep green}}.
 
 Derivatives: {{och-l|性|nature; character; personality; quality}}, {{och-l|姓|family name}}.
 
-===Pronunciation===
+====Pronunciation====
 {{zh-pron
 |m=shēng,shēn,2nb=shangkouzi pronunciation
 |m-s=sen1/sen4
@@ -79,7 +79,7 @@ Meixian: sang1 - colloquial; sên1 - literary
 |cat=v,n,a,adv
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # to [[live]]; to [[subsist]]; to [[exist]]
@@ -148,11 +148,30 @@ Meixian: sang1 - colloquial; sên1 - literary
 {{zh-dial}}
 {{zh-dial|活}}
 
+===Etymology 2===
+Borrowed from {{bor|zh|ja|-}} {{m|ja|さん|tr=-san}}.
+
+====Pronunciation====
+{{zh-pron
+|m=sāng
+|c=saang1-4
+|dial=n
+|ma=
+|cat=suffix
+}}
+
+====Definitions====
+{{zh-hanzi}}
+# {{lb|zh|Hong|_|Kong|honorific}} [[-san]]
+
 ===Compounds===
-* {{see derivation subpage|Shēng/shēn}}
+* {{see derivation subpage|Chinese}}
 
 ===Descendants===
 {{CJKV||しょう|j2=せい|생|sinh|v2=sanh}}
+
+===References===
+* {{R:yue:mfccd}}
 
 {{zh-cat|Elementary|Intermediate}}
 
