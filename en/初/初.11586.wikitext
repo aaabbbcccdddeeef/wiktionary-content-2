@@ -138,12 +138,20 @@ Possible cognates include {{m|ja|始め|tr=hajime||[[beginning]]}} and {{m|ja|�
 {{der-bottom}}
 
 ===Etymology 2===
+{{etymid|ja|ui}}
 {{ja-kanjitab|うい|yomi=k}}
+
 {{IPAchar|/uɸi/}} → {{IPAchar|/uwi/}} → {{IPAchar|/ui/}}
 
-From {{inh|ja|ojp|-|sort=うい}}. First attested in the {{w|Kokin Wakashū}}, around 905-914 {{CE}}.<ref>{{R:Nihon Kokugo Daijiten 2|初}}</ref> Possibly a fusion of {{com|ja|生む|tr1=umu|t1=make born|日|tr2=hi|t2=day|lit=birthday}}.<ref>{{R:ja:Martin 1987}}</ref>
+First attested in the {{w|Kokin Wakashū}} of roughly 905-914 {{CE}},<ref>{{R:Nihon Kokugo Daijiten 2}}</ref> and assumed to be inherited from {{inh|ja|ojp|-|sort=うい}}. 
 
-Possibly cognate with {{m|ja|上|tr=ue||[[above]]}} or classical verb {{m|ja|生ふ|tr=ou||to [[grow]]}}.
+There is an apparently related term {{m|ja|[[初#Japanese:_ubu|初]]|tr=ubu}} of overlapping synonymous meaning, first attested in the early 1000s.  It is unclear how these two terms are related: one might be a derivation of the other, or the two might derive separately via other processes.
+
+Both ''ui'' and ''ubu'' appear to be related to verb {{m|ja|生む|tr=umu||to [[birth]]}}, from the sense of "first of something since one has been born".
+
+Martin suggests that this might be a fusion of {{com|ja|生む|tr1=umu|t1=to [[birth]]|日|tr2=hi|t2=[[day]]|lit=birthday}}.<ref>{{R:ja:Martin 1987}}</ref>  However, the meaning of any such compound would be the noun {{m|en|birthday}} with a sense of "the day a woman gives birth" rather than "the day someone is born".  Also, phonologically, this would be expected to result in ''ubi'': {{IPAchar|/umu/}} + {{IPAchar|/pi/}} → {{IPAchar|/umupi/}} → {{IPAchar|/umpi/}} → {{IPAchar|/ubi/}}.
+
+Possibly cognate with {{m|ja|上|tr=ue||[[above]]|pos=possibly via the sense of "upstream → earlier"}} or classical verb {{m|ja|生ふ|pos=ancient ''opu'', classical ''ofu'', modern ''ou'', “to [[grow]]”}}.
 
 ====Pronunciation====
 {{ja-pron|うい|acc=1|acc_ref=DJR}}
@@ -151,7 +159,7 @@ Possibly cognate with {{m|ja|上|tr=ue||[[above]]}} or classical verb {{m|ja|生
 ====Noun====
 {{ja-noun|うい|hhira=うひ}}
 
-# a [[first#Noun|first]], [[start#Noun|start]]
+# {{defdate|from early 900s}} a [[first#Noun|first]], [[start#Noun|start]]
 
 =====Derived terms=====
 * {{ja-r|初%々しい|うい%ういし.い}}
@@ -160,7 +168,7 @@ Possibly cognate with {{m|ja|上|tr=ue||[[above]]}} or classical verb {{m|ja|生
 ====Prefix====
 {{ja-pos|prefix|うい|hhira=うひ}}
 
-# the [[first#Adjective|first]]...
+# {{defdate|from early 900s}} the [[first#Adjective|first]] of something
 
 =====Derived terms=====
 {{der-top3}}
