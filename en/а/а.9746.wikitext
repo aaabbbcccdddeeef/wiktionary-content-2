@@ -64,11 +64,11 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 * {{alter|ady|ӏа}}
 
 ====Pronunciation====
-* {{IPA|ady|[ʔaː]}}
+* {{IPA-lite|ady|[ʔaː]}}
 * {{audio|ady|AdygheА.ogg|Audio}}
 
 ====Determiner====
-{{head|ady|determiner}}
+{{head-lite|ady|determiners|tr=a|sc=Cyrl|langname=Adyghe}}
 
 # [[that]], Calling article (o) {{attention|ady|What does this mean? Maybe [[vocative]]? But that doesn't seem to make sense in the example sentences . . .}}
 #: {{ux|ady|'''а''' бэнанэ|'''that''' banana|inline=1}}
@@ -140,7 +140,7 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 ==Bashkir==
 
 ===Pronunciation===
-* {{sense|phoneme}} {{IPA|ba|/ɑ/|/ä/}}
+* {{sense|phoneme}} {{IPA-lite|ba|/ɑ/|/ä/}}
 
 ===Letter===
 {{head|ba|letter|lower case||upper case|А}}
@@ -188,7 +188,7 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 * {{bg-IPA|а}}
 
 ====Particle====
-{{head|bg|particle}}
+{{head-lite|bg|particles|tr=a|sc=Cyrl|langname=Bulgarian}}
 
 # {{ngd|used in orders for emphasis}}: [[let’s]], [[just]]
 #: {{ux|bg|'''А''' върви де!|Come on, go ahead!}}
@@ -199,7 +199,7 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 #: {{ux|bg|разперила криле, '''а'''-'''а''' да хвръкне|with wings spread out, about to fly off}}
 
 ====Interjection====
-{{head|bg|interjection}}
+{{head-lite|bg|interjections|tr=a|sc=Cyrl|langname=Bulgarian}}
 
 # {{ngd|used to express surprise or wonder}}: {{l|en|ah}}, {{l|en|oh}}, {{l|en|ha}}, [[why]]
 #: {{ux|bg|'''А''', ето къде си бил!|'''Ah''', there you are!}}
@@ -231,10 +231,10 @@ Italic Cyrillic letter A - uppercase and lowercase.svg|Italics.
 From {{inh|bg|sla-pro|*a||and, but}}.
 
 ====Pronunciation====
-* {{IPA|bg|[a]|qual1=stressed|[ɐ]|[ə]|qual2=unstressed}}
+* {{IPA-lite|bg|[a]|qual1=stressed|[ɐ]|[ə]|qual2=unstressed}}
 
 ====Conjunction====
-{{head|bg|conjunction}}
+{{head-lite|bg|conjunctions|tr=a|sc=Cyrl|langname=Bulgarian}}
 
 # {{ngd|used to describe how two facts are different}}: [[whereas]], [[while]]
 #: {{ux|bg|Мислехме си, че е арогантна, '''а''' всъщност просто беше много срамежлива.|We thought she was arrogant, '''whereas''' in fact she was just very shy.}}
@@ -286,7 +286,7 @@ From {{inh|bg|sla-pro|*a||and, but}}.
 Compare {{cog|inh|а}}.
 
 ====Conjunction====
-{{head|ce|conjunction}}
+{{head-lite|ce|conjunctions|tr=a|sc=Cyrl|langname=Chechen}}
 
 # [[and]]
 
@@ -407,7 +407,7 @@ Compare {{cog|inh|а}}.
 Compare {{cog|ce|а}}.
 
 ====Conjunction====
-{{head|inh|conjunction}}
+{{head-lite|inh|conjunctions|tr=a|sc=Cyrl|langname=Ingush}}
 
 # [[and]]
 
@@ -455,7 +455,7 @@ Compare {{cog|ce|а}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|kk|/ɑ/}}
+* {{sense|phoneme}} {{IPA-lite|kk|/ɑ/}}
 
 ====Letter====
 {{head|kk|letter|lower case||upper case|А}}
@@ -468,10 +468,10 @@ Compare {{cog|ce|а}}.
 ===Etymology 2===
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|kk|/ɑ/}}
+* {{sense|phoneme}} {{IPA-lite|kk|/ɑ/}}
 
 ====Interjection====
-{{head|kk|interjection}}
+{{head-lite|kk|interjections|tr=a|sc=Cyrl|langname=Kazakh}}
 
 # [[ah]] {{gloss|expression of surprise}}
 
@@ -504,8 +504,8 @@ Compare {{cog|ce|а}}.
 ==Kyrgyz==
 
 ===Pronunciation===
-* {{sense|phoneme}} {{IPA|ky|/ɑ/}}
-* {{sense|dialectal, some loanwords}} {{IPA|ky|/a/}}
+* {{sense|phoneme}} {{IPA-lite|ky|/ɑ/}}
+* {{sense|dialectal, some loanwords}} {{IPA-lite|ky|/a/}}
 
 ===Letter===
 {{ky-letter|lower=а|upper=А}}
@@ -543,7 +543,7 @@ The pronunciation of the phoneme as {{IPAchar|/a/}} only occurs in Persian loanw
 ===Etymology 1===
 
 ====Pronunciation====
-* {{s|phoneme}} {{IPA|mk|/a/}}
+* {{s|phoneme}} {{IPA-lite|mk|/a/}}
 * {{s|letter name}} {{mk-IPA|а}}
 * {{audio|mk|LL-Q9296 (mkd)-Bjankuloski06-{{PAGENAME}}.wav|Audio}}
 
@@ -562,18 +562,18 @@ From {{inh|mk|sla-pro|*a}}.
 * {{mk-IPA}}
 
 ====Conjunction====
-{{head|mk|conjunction}}
+{{head-lite|mk|conjunctions|tr=a|sc=Cyrl|langname=Macedonian}}
 
 # [[and]], [[whereas]]
 
 ====Interjection====
-{{head|mk|interjection}}
+{{head-lite|mk|interjections|tr=a|sc=Cyrl|langname=Macedonian}}
 
 # [[oh]]
 # [[huh]]?
 
 ====Particle====
-{{head|mk|particle}}
+{{head-lite|mk|particles|tr=a|sc=Cyrl|langname=Macedonian}}
 
 # what about
 #: {{uxi|mk|'''А''' јас?|'''What about''' me?}}
@@ -631,10 +631,10 @@ From {{inh|mk|sla-pro|*a}}.
 ===Etymology 2===
 
 ====Pronunciation====
-* {{IPA|niv|/a/}}
+* {{IPA-lite|niv|/a/}}
 
 ====Noun====
-{{head|niv|noun}}
+{{head-lite|niv|nouns|tr=a|sc=Cyrl|langname=Nivkh}}
 
 # {{lb|niv|Amur|Sakhalin}} [[armspan]]
 
@@ -673,7 +673,7 @@ From {{inh|orv|sla-pro|*a}}. Cognates include {{cog|cu|а}} and {{cog|zlw-opl|a}
 * {{hyph|orv|а}}
 
 ===Conjunction===
-{{head|orv|conjunction}}
+{{head-lite|orv|conjunctions|tr=a|sc=Cyrl|langname=Old East Slavic}}
 
 # [[but]], [[and]]
 
@@ -695,7 +695,7 @@ From {{inh|orv|sla-pro|*a}}. Cognates include {{cog|cu|а}} and {{cog|zlw-opl|a}
 From {{inh|zle-ono|sla-pro|*a}}.
 
 ===Conjunction===
-{{head|zle-ono|conjunction}}
+{{head-lite|zle-ono|conjunctions|tr=a|sc=Cyrl|langname=Old Novgorodian}}
 
 # [[but]], [[and]]
 
@@ -720,7 +720,7 @@ From {{inh|zle-ono|sla-pro|*a}}.
 ==Ossetian==
 
 ===Pronunciation===
-* {{sense|phoneme}} {{IPA|os|/a/}}
+* {{sense|phoneme}} {{IPA-lite|os|/a/}}
 
 ===Letter===
 {{head|os|letter|lower case||upper case|А}}
@@ -813,7 +813,7 @@ Compare {{cog|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, 
 # [[oh]]! {{gloss|expressing surprise or realization}}
 
 ====Particle====
-{{head|ru|particle}}
+{{head-lite|ru|particles|tr=a|sc=Cyrl|langname=Russian}}
 
 # {{ngd|colloquial particle used to seek confirmation}}: [[eh]]
 #: {{uxi|ru|[[ты|Ты]] [[слышать|слы́шишь]] [[я|меня́]], '''а'''?|Do you hear me, eh?}}
@@ -840,7 +840,7 @@ Compare {{cog|lt|à}}, {{m|lt|õ}}, {{m|lt|oà||expression of pain, surprise}}, 
 ==Serbo-Croatian==
 
 ===Pronunciation===
-* {{IPA|sh|/a/}}
+* {{IPA-lite|sh|/a/}}
 
 ===Etymology 1===
 
@@ -996,7 +996,7 @@ See [[#Translingual|Translingual section]].
 ===Etymology 2===
 
 ====Conjunction====
-{{head|uk|conjunction}}
+{{head-lite|uk|conjunctions|tr=a|sc=Cyrl|langname=Ukrainian}}
 
 # [[and]], and yet, [[but]]
 #: {{uxi|uk|[[не|Не]] [[він]], а [[вона]]|Not he, but she.}}
@@ -1013,7 +1013,7 @@ See [[#Translingual|Translingual section]].
 ===Etymology 4===
 
 ====Interjection====
-{{head|uk|interjection}}!
+{{head-lite|uk|interjections|tr=a|sc=Cyrl|langname=Ukrainian}}!
 
 # [[ah]]!, [[oh]]!, [[oh well]]
 
