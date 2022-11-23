@@ -105,23 +105,62 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|&#194600;|c=y}}
+{{ja-kanji forms-IVS
+|code=2F828
+|svs=1
+|vs1=00
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-kyu=U2f828.svg
+|ref={{R:Jitsu}}
+|ref2={{R:ja:KDJ|334|217}}
+|ref3={{R:ja:SKJ|245|134}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=n|rs=勹01|kyu=&#194600;}}
 
 ====Readings====
 {{ja-readings
-|goon=じゃく
-|kanon=しゃく
-|kun=くむ
+|goon=じゃく<じやく
+|kanon=しゃく<しやく
+|kun=く-む, せき-
 }}
 
 ====Usage notes====
 Removed from the daily use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.<ref>{{cite-web|title=Get set for next year's overhaul of joyo kanji|author=The Japan Times|url=https://www.kanjiclinic.com/kc99final.htm|work=www.kanjiclinic.com|date=October 21, 2009|accessdate=February 23, 2010}}</ref>
 
+====Compounds====
+{{col2-u|ja
+|{{ja-r|勺%飲|しゃく%いん}}
+|{{ja-r|勺%子|しゃく%し}}
+|{{ja-r|勺%觶|しゃく%し}}
+|{{ja-r|勺%水|しゃく%すい}}
+|{{ja-r|勺%薬|しゃく%やく}} ({{ja-r|芍%薬|しゃく%やく|rom=-}})
+|{{ja-r|加%勺|か%しゃく}}
+|{{ja-l|実勺}}
+|{{ja-l|爵勺}}
+|{{ja-r|升%勺|しょう%しゃく}}
+|{{ja-r|簫%勺|しょう%しゃく}}
+|{{ja-l|拭勺}}
+|{{ja-l|盛勺}}
+|{{ja-l|洗勺}}
+|{{ja-l|長勺}}
+|{{ja-r|舞%勺|ぶ%しゃく}}
+|{{ja-l|羃勺}}
+|{{ja-l|用勺}}
+|{{ja-l|罍勺}}
+}}
+
+===Etymology===
+{{ja-kanjitab|しゃく|yomi=kanon|alt=夕}}
+{{ja-kanjitab|せき|yomi=kun|clearright=y}}
+From {{der|ja|ltc|sort=しゃく|-}} {{ltc-l|勺}}.
+
 ===Pronunciation===
 {{ja-pron|しゃく|acc=1|acc_ref=DJR}}
+{{ja-pron|せき|acc=1|acc_ref=DJR}}
 
 ===Noun===
 {{ja-noun|しゃく}}
@@ -129,8 +168,9 @@ Removed from the daily use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese gover
 # 18 [[millimeter]]s (a tenth of a {{ja-r|合|ごう}})
 # 0.033 square meters (a hundredth of a [[tsubo]])
 
-====Alternative forms====
-* {{l|ja|せき|tr=seki}}
+{{ja-noun|せき}}
+
+# {{n-g|same as above}}
 
 ===References===
 <references/>
