@@ -70,7 +70,17 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=mj
+|pic-shin=U4e08-j.svg
+|pic-kyu=U4e08-kyu.svg
+|ref={{R:Jitsu}}
+|ref2={{R:ja:KDJ|23|61}}
+|ref3={{R:ja:SKJ|20|22}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=一02}}
@@ -79,11 +89,45 @@
 {{ja-readings
 |goon=じょう<ぢやう
 |kanon=ちょう<ちやう
-|kun=たけ-
+|kun=たけ-, たき-, だけ-, はか-る
+|nanori=たけ, とも, ひろ, ます
+}}
+
+====Alternative forms====
+* {{ja-l|𠀋}}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|丈%器|じょう%き}}
+|{{ja-r|丈%冊|じょう%さつ}}
+|{{ja-r|丈%室|じょう%しつ}}
+|{{ja-r|丈%尺|じょう%しゃく}}
+|{{ja-r|丈%丈|じょう%じょう}}
+|{{ja-r|丈%人|じょう%じん}}
+|{{ja-r|丈%席|じょう%せき}}
+|{{ja-r|丈%度|じょう%ど}}
+|{{ja-r|丈%匹|じょう%ひつ}}
+|{{ja-r|丈%夫|じょう%ぶ}}
+|{{ja-r|丈%量|じょう%りょう}}
+|{{ja-r|丈%六|じょう%ろく}}
+|{{ja-l|盈丈|}}
+|{{ja-r|岳%丈|がく%じょう}}
+|{{ja-r|函%丈|かん%じょう}}
+|{{ja-r|気%丈|き%じょう}}
+|{{ja-l|称丈|}}
+|{{ja-r|尋%丈|じん%じょう}}
+|{{ja-r|千%丈|せん%じょう}}
+|{{ja-r|万%丈|ばん%じょう}}
+|{{ja-r|方%丈|ほう%じょう}}
+|{{ja-l|袤丈|}}
+|{{ja-r|老%丈|ろう%じょう}}
 }}
 
 ===Etymology 1===
-From {{bor|ja|zh|丈|tr=zhang}}.
+From {{bor|ja|ltc|-|sort=じょう}} {{ltc-l|丈}}.
+
+====Pronunciation====
+{{ja-pron|じょう|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|じょう|hhira=ぢやう}}
@@ -91,14 +135,14 @@ From {{bor|ja|zh|丈|tr=zhang}}.
 # [[jō]], a [[traditional]] [[Japanese]] [[unit]] of [[length]] [[based]] on 10 [[shaku]], [[standardize]]d as [[equal]] to {{frac|3|1|33}} [[meter]]s.
 
 ===Etymology 2===
-{{ja-kanjitab|たけ|yomi=k}}
+{{ja-kanjitab|たけ|yomi=k|alt=長}}
 
 {{IPAfont|⟨take<sub>2</sub>⟩}} → {{IPAchar|/takje/}} → {{IPAchar|/take/}}
 
 Cognate with {{m|ja|高|tr=taka||height}}, {{m|ja|高い|tr=takai||high}}, and {{m|ja|長ける|tr=takeru||to be high}}.
 
-====Alternative forms====
-* {{l|ja|長}}
+====Pronunciation====
+{{ja-pron|たけ|acc=2|acc_ref=SMK7,DJR}}
 
 ====Noun====
 {{ja-noun|たけ}}
@@ -126,6 +170,7 @@ Cognate with {{m|ja|高|tr=taka||height}}, {{m|ja|高い|tr=takai||high}}, and {
 
 ===References===
 * {{R:Utsubo Monogatari 1}}
+<references/>
 
 ----
 
