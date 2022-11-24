@@ -123,8 +123,6 @@ Borrowed from {{bor|zh|en|ball}}.
 ===Kanji===
 {{ja-kanji|grade=3|rs=水05}}
 
-# [[wave]]
-
 ====Readings====
 {{ja-readings
 |goon=は
@@ -134,25 +132,16 @@ Borrowed from {{bor|zh|en|ball}}.
 }}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|孤%立%波|こ%りつ%は}}: [[solitary]] [[wave]]
-* {{ja-r|波%束|は%そく}}: [[wave packet]]
-* {{ja-r|波%形|は%けい}}, {{ja-r|波形|なみがた|[[ripple]] [[mark]]}}
-* {{ja-r|波%線|なみ%せん}}, {{ja-r|波%線|は%せん|[[wavy]] [[line]]}}
-* {{ja-r|波%動|は%どう|[[surge]]}}
-* {{ja-r|波%長|は%ちょう|[[wavelength]]}}
-* {{ja-r|波%乱%万%丈|は%らん%ばん%じょう}}, {{ja-r|波%瀾%万%丈|は%らん%ばん%じょう|[[eventfulness]]}}
-* {{ja-r|波%浪|は%ろう|waves}}
-* {{ja-r|津%波|つ%なみ|[[tsunami]], [[tidal]] wave}}
-* {{ja-r|波蘭|^ポーランド|[[Poland]]}}
-{{der-bottom}}
+* {{ja-r|波蘭|^ポーランド}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|なみ|alt=浪:uncommon,濤:rare}}
 
-{{IPAfont|/nami<sub>1</sub>/}} → {{IPAchar|/nami/}}
+{{IPAfont|⟨nami<sub>1</sub>⟩}} → {{IPAchar|/namʲi/}} → {{IPAchar|/nami/}}
 
-From {{inh|ja|ojp|なみ|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}. Noun form of {{ja-r|並む|なむ|to line up, to be strung out}}.
+From {{inh|ja|ojp|浪|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}.
+
+Cognate with {{m|ja|並|tr=nami||[[row]] or [[line]] of something}}, the nominalized {{m|ja|連用形|tr=ren’yōkei||stem or continuative form}} of Old Japanese verb {{m|ojp|竝む|tr=namu|並む|to [[line up]], to [[be]] [[strung out]]}}.
 
 ====Pronunciation====
 {{ja-pron|なみ|acc=2|acc_ref=DJR,NHK}}
@@ -160,8 +149,13 @@ From {{inh|ja|ojp|なみ|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}. N
 ====Noun====
 {{ja-noun|なみ}}
 
-# [[wave]]
-#: {{ja-x|その サーファー は 一番 大きな 波 に 乗った。|その サーファー は いちばん おおきな なみ に のった。|That surfer rode the biggest wave.}}
+# a [[wave]]
+#: {{ja-x|その サーファー は 一番 大きな '''波''' に 乗った。|その サーファー は いちばん おおきな '''なみ''' に のった。|That surfer rode the biggest '''wave'''.}}
+
+=====Derived terms=====
+* {{ja-r|波%形|なみ%がた}}
+* {{ja-r|波%線|なみ%せん}}
+* {{ja-r|津%波|つ%なみ|rom=[[tsunami]]}}
 
 ====Proper noun====
 {{ja-pos|proper|なみ}}
@@ -169,17 +163,38 @@ From {{inh|ja|ojp|なみ|tr=nami<sub>1</sub>}}, from {{inh|ja|jpx-pro|*nami}}. N
 # {{given name|ja|sort=なみ|female}}
 
 ===Etymology 2===
+{{ja-kanjitab|yomi=o|は}}
+
+{{IPAchar|/pa/}} → {{IPAchar|/ɸa/}} → {{IPAchar|/ha/}}
+
+From {{der|ja|ltc|sort=|-}} {{ltc-l|波}}.
+
+====Affix====
+{{ja-pos|affix|は}}
+
+# [[wave]]
+
+=====Derived terms=====
+{{der-top3|Compounds}}
+* {{ja-r|波%形|は%けい}}
+* {{ja-r|波%線|は%せん}}
+* {{ja-r|波%束|は%そく}}
+* {{ja-r|波%動|は%どう}}
+* {{ja-r|波%長|は%ちょう}}
+* {{ja-r|波%乱%万%丈|は%らん%ばん%じょう|rom=-}}, {{ja-r|波%瀾%万%丈|は%らん%ばん%じょう}}
+* {{ja-r|波%浪|は%ろう}}
+* {{ja-r|孤%立%波|こ%りつ%は}}
+{{der-bottom}}
+
+===Etymology 3===
 {{ja-kanjitab|yomi=irr|ぽ}}
 
-Shortening of {{m|ja|波蘭|tr=Pōrando}}, with the spelling borrowed from {{der|ja|zh|sort=ほ''|-}} {{zh-l|波蘭}}.
-
-====Pronunciation====
-{{ja-pron|ぽ}}
+Short form of {{ja-ateji|sortほ''=}} spelling {{m|ja|波蘭|tr=Pōrando}}.
 
 ====Proper noun====
 {{ja-pos|proper|ぽ}}
 
-# {{lb|ja|sort=ほ''|abbreviation}} short notation of [[Poland]]
+# {{short for|ja|ポーランド|tr=Pōrando|dot=:|sort=ほ''}} [[Poland]]
 
 ===References===
 <references/>
