@@ -132,17 +132,14 @@ Originally an extension of {{m|ja|跡|tr=ato||footprint; leftover}}, itself a co
 #: {{ja-usex|'''あと'''は[[頼む|頼ん]]だぞ。|'''あと''' は たのんだ ぞ。|I leave '''the rest''' to you.}}
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=k|うしろ}}
+{{ja-kanjitab|yomi=k|うしろ|alt=後ろ:common}}
 
-Probably from {{inh|ja|ojp|sort=うしろ|-}}.  Usage examples appear in texts from at least the 900s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+From {{inh|ja|ojp|sort=うしろ|-}}.  First cited to a portion of the ''{{w|Shoku Nihongi}}'' dated to 781, with the phonetic spelling {{m|ja||宇志呂|tr=usiro<sub>2</sub>}}.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
 
-Ultimate derivation {{unk|ja|sort=うしろ|nocap=1}}.  Might be from stem ''ushi'' ("lost; gone, out of sight", as in {{m|ja|失う|tr=ushinau||to lose}}, older verb {{m|ja|失す|tr=usu||to lose; to go away}}) + locative suffix ''-ro'' indicating an interior (as in {{m|ja|所|tr=tokoro||place}}, {{m|ja|[[空ろ]]・[[虚ろ]]|tr=utsuro||[[emptiness]], a [[hollow]]}}, {{m|ja|[[洞]]・[[空]]・[[虚]]|tr=uro||a [[hollow]] space in something}}, {{m|ja|室|tr=muro||[[room]]; [[cave]]}}, possibly {{m|ja|心|tr=kokoro||heart}}).
+Ultimate derivation {{unk|ja|sort=うしろ|nocap=1}}.  Might be from stem ''ushi'' ("lost; gone, out of sight", as in {{m|ja|失う|tr=ushinau||to lose}}, older verb {{m|ja|失す|tr=usu||to lose; to go away}}) + locative suffix ''-ro<sub>2</sub>'' indicating an interior (as in {{m|ja|所|tr=tokoro||place}}, {{m|ja|[[空ろ]]・[[虚ろ]]|tr=utsuro||[[emptiness]], a [[hollow]]}}, {{m|ja|[[洞]]・[[空]]・[[虚]]|tr=uro||a [[hollow]] space in something}}, {{m|ja|室|tr=muro||[[room]]; [[cave]]}}, possibly {{m|ja|心|tr=kokoro||heart}}).
 
 ====Pronunciation====
-{{ja-pron|うしろ|acc=0|acc_ref=DJR,SMK5}}
-
-====Alternative forms====
-* {{ja-l|後ろ}} {{qualifier|more common}}
+{{ja-pron|うしろ|acc=0|acc_ref=DJR,SMK5,NHK}}
 
 ====Noun====
 {{ja-noun|うしろ}}
