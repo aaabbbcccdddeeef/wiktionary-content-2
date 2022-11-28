@@ -8,7 +8,7 @@
 
 ===Etymology===
 [[Image:Uncial e.png|Approximate form of upper case letter E that was the source for lower case e]]
-Modification of capital letter {{m|mul|E}} in [[uncial]] script, from {{der|mul|grc|Ε|t=Epsilon}}.
+Modification of capital letter {{m-lite|mul|E}} in [[uncial]] script, from {{der|mul|grc|Ε|t=Epsilon}}.
 
 ===Pronunciation===
 * {{audio|mul|Close-mid front unrounded vowel.ogg|IPA}}
@@ -77,11 +77,11 @@ From {{inh-lite|en|enm|-}} and {{inh-lite|en|ang|-}} lower case letter {{m-lite|
 * [[Image:Rune-Eðel.png|15px|Anglo-Saxon Futhorc ᛟ (œ)]] {{inh-lite|en|ang|-}} lower case letter {{m-lite|ang|œ}} from replacement by Latin ligature {{m-lite|la|œ}} of the Anglo-Saxon Futhorc letter {{m|ang|ᛟ|tr=œ}}.
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|en|/iː/}}
+* {{sense|letter name}} {{IPA-lite|en|/iː/}}
 ** {{audio|en|En-uk-e.ogg|Audio (UK)}}
 ** {{audio|en|en-us-e.ogg|Audio (US)}}
 ** {{rhymes|en|iː|s=1}}
-* {{sense|phoneme}} {{IPA|en|/ɛ/|/iː/|/ɪ/|/ə/|/eɪ/}}
+* {{sense|phoneme}} {{IPA-lite|en|/ɛ/|/iː/|/ɪ/|/ə/|/eɪ/}}
 ** In addition to the phonemes noted above, "e" can also be silent, representing no sound itself but indicating which phoneme another letter in the word represents. See the article "[[w:Silent e|Silent e]]" on Wikipedia.
 
 ===Letter===
@@ -150,7 +150,7 @@ From {{inh-lite|en|enm|-}} and {{inh-lite|en|ang|-}} lower case letter {{m-lite|
 ==Ainu==
 
 ===Pronunciation===
-* {{IPA|ain|/e̞/}}
+* {{IPA-lite|ain|/e̞/}}
 
 ===Verb===
 {{ain-verb|l|エ}}
@@ -171,11 +171,11 @@ From {{inh-lite|en|enm|-}} and {{inh-lite|en|ang|-}} lower case letter {{m-lite|
 * {{alter|sq|edhe}}, {{alter|sq|dhe}} {{i|conjunction}}
 
 ===Etymology===
-{{rfe|sq}}
-* Conjunction {{l|sq|e||and, also}}: according to Orel from {{inh|sq|sqj-pro|*ō(d)}}, from {{uder|sq|ine-pro|*ēd||}} ~ {{m|ine-pro|*ōd}} (ablative sg. stem of {{uder|sq|ine-pro|*ē-}} ~ {{m|ine-pro|*ō-}}).<ref>{{R:sq:Orel|Conjunction '''e (and also)'''|page=85}}</ref>
+{{rfe-lite|sq}}
+* Conjunction {{l-lite|sq|e||and, also}}: according to Orel from {{inh|sq|sqj-pro|*ō(d)}}, from {{uder|sq|ine-pro|*ēd||}} ~ {{m|ine-pro|*ōd}} (ablative sg. stem of {{uder|sq|ine-pro|*ē-}} ~ {{m|ine-pro|*ō-}}).<ref>{{R:sq:Orel|Conjunction '''e (and also)'''|page=85}}</ref>
 
 ===Pronunciation===
-* {{IPA|sq|[ɛ]}}
+* {{IPA-lite|sq|[ɛ]}}
 
 ===Conjunction===
 {{head-lite|sq|conjunctions|langname=Albanian}}
@@ -228,7 +228,7 @@ From {{inh-lite|en|enm|-}} and {{inh-lite|en|ang|-}} lower case letter {{m-lite|
 {{rfe-lite|gsw}}
 
 ===Pronunciation===
-* {{IPA|gsw|/ə/}}
+* {{IPA-lite|gsw|/ə/}}
 
 ===Article===
 {{head-lite|gsw|articles|g=f|langname=Alemannic German}}
@@ -273,7 +273,7 @@ From {{inh-lite|rup|la|et}}.
 ==Azerbaijani==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|az|/e/}}
+* {{qualifier|phoneme}} {{IPA-lite|az|/e/}}
 
 ===Letter===
 {{az-letter|upper=E|lower=e}}
@@ -417,7 +417,7 @@ From clipping of {{m-lite|zh|email}}, borrowed from {{bor-lite|yue|en|email}}.
 From the earlier {{m-lite|co|le}}.
 
 ===Pronunciation===
-* {{IPA|co|/ˈɛ/}}
+* {{IPA-lite|co|/ˈɛ/}}
 * {{homophones|co|è|hè}}
 
 ===Article===
@@ -426,7 +426,7 @@ From the earlier {{m-lite|co|le}}.
 # [[the]] {{qualifier|feminine plural}}
 
 ====Usage notes====
-* Before a vowel, '''e''' turns into {{m|co|l'}}.
+* Before a vowel, '''e''' turns into {{m-lite|co|l'}}.
 
 ===Pronoun===
 {{head-lite|co|pronouns|g=f-p|cat2=personal pronouns|langname=Corsican}}
@@ -434,7 +434,7 @@ From the earlier {{m-lite|co|le}}.
 # [[them]] {{qualifier|feminine direct object}}
 
 ====Usage notes====
-* Before a vowel, '''e''' turns into {{m|co|l'}}.
+* Before a vowel, '''e''' turns into {{m-lite|co|l'}}.
 
 ====See also====
 {{co-personal pronouns}}
@@ -461,7 +461,7 @@ From {{inh-lite|dlm|la|et}}.
 ===Pronunciation===
 * {{audio|nl|Nl-e.ogg|Audio}}
 * {{rhymes|nl|eː|s=1}}
-* {{sense|letter name}} {{IPA|nl|/eː/}}
+* {{sense|letter name}} {{IPA-lite|nl|/eː/}}
 
 ===Letter===
 {{head-lite|nl|letters|lower case||upper case|E|langname=Dutch}}
@@ -480,7 +480,7 @@ From {{inh-lite|dlm|la|et}}.
 From {{inh-lite|egl|la|et}}, ultimately from {{der|egl|ine-pro|*éti}}.
 
 ===Pronunciation===
-* {{IPA|egl|/e/}}
+* {{IPA-lite|egl|/e/}}
 
 ===Conjunction===
 {{head-lite|egl|conjunctions|langname=Emilian}}
@@ -492,8 +492,8 @@ From {{inh-lite|egl|la|et}}, ultimately from {{der|egl|ine-pro|*éti}}.
 ==Esperanto==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|eo|/e/}}
-* {{sense|phoneme}} {{IPA|eo|/e/}}
+* {{sense|letter name}} {{IPA-lite|eo|/e/}}
+* {{sense|phoneme}} {{IPA-lite|eo|/e/}}
 * {{audio|eo|Eo-e.ogg|Audio}}
 
 ===Letter===
@@ -547,7 +547,7 @@ From {{inh-lite|egl|la|et}}, ultimately from {{der|egl|ine-pro|*éti}}.
 ==Faroese==
 
 ===Pronunciation===
-* {{IPA|fo|/eː/}}
+* {{IPA-lite|fo|/eː/}}
 * {{rhymes|fo|eː|s=1}}
 
 ===Letter===
@@ -662,7 +662,7 @@ See [[#Translingual|Translingual section]].
 From {{inh-lite|gl|la|et}}.
 
 ===Pronunciation===
-* {{IPA|gl|/ɪ/}}
+* {{IPA-lite|gl|/ɪ/}}
 
 ===Conjunction===
 {{head-lite|gl|conjunctions|langname=Galician}}
@@ -701,7 +701,7 @@ From {{der-lite|pov|pt|e}}. Cognate with {{cog|kea|e}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{IPA|guw|/é/}}
+* {{IPA-lite|guw|/é/}}
 
 ====Pronoun====
 {{head-lite|guw|pronouns|head=é|langname=Gun}}
@@ -711,7 +711,7 @@ From {{der-lite|pov|pt|e}}. Cognate with {{cog|kea|e}}.
 ===Etymology 2===
 
 ====Pronunciation====
-* {{IPA|guw|/e/}}
+* {{IPA-lite|guw|/e/}}
 
 ====Pronoun====
 {{head-lite|guw|pronouns|head=e|langname=Gun}}
@@ -751,7 +751,7 @@ From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}
 ====Determiner====
 {{head-lite|hu|determiners|demonstrative|langname=Hungarian}}
 
-# {{lb|hu|chiefly|archaic|except before consonant-initial words, as a counterpart of {{m|hu|ez}}}} [[this]]
+# {{lb|hu|chiefly|archaic|except before consonant-initial words, as a counterpart of {{m-lite|hu|ez}}}} [[this]]
 #: {{syn-lite|hu|eme|ezen|q2=only determiners; both are archaic or formal}}
 #: {{ux-lite|inline=1|hu|az '''e''' heti hírek|'''this''' week’s news}}
 #: {{ux-lite|inline=1|hu|'''e''' világi|of '''this''' world, worldly, mundane}}
@@ -771,10 +771,10 @@ From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}
 
 =====Usage notes=====
 A rarer substitute of {{m-lite|hu|ez}}, but unlike {{m-lite|hu||ez}}, it does not take the case of the noun it is attached to, and no definite article is used:
-: {{uxi|hu|ez'''en a''' hely'''en''' ― e hely'''en'''|'''at''' this place|lit='''on''' this place}}
-: {{uxi|hu|eb'''ben a''' ház'''ban''' ― e ház'''ban'''|'''in''' this house}}
+: {{ux-lite|inline=1|hu|ez'''en a''' hely'''en''' ― e hely'''en'''|'''at''' this place|lit='''on''' this place}}
+: {{ux-lite|inline=1|hu|eb'''ben a''' ház'''ban''' ― e ház'''ban'''|'''in''' this house}}
 
-Most consonant-initial postpositions can take {{m|hu||e}}, e.g. {{m|hu||e nélkül, e helyett}}, see ''[[Template:hu-comp-postp|Pronominal adverbs from postpositions]],'' in the column “that&nbsp;one, this&nbsp;one”. On the other hand, vowel-initial postpositions take {{m|hu||ez}} (e.g. {{m|hu||ez alatt, ez iránt}}).
+Most consonant-initial postpositions can take {{m-lite|hu||e}}, e.g. {{m-lite|hu||e nélkül, e helyett}}, see ''[[Template:hu-comp-postp|Pronominal adverbs from postpositions]],'' in the column “that&nbsp;one, this&nbsp;one”. On the other hand, vowel-initial postpositions take {{m-lite|hu||ez}} (e.g. {{m-lite|hu||ez alatt, ez iránt}}).
 
 ====Interjection====
 {{head-lite|hu|interjections|langname=Hungarian}}
@@ -833,7 +833,7 @@ See [[#Translingual|Translingual section]].
 ==Icelandic==
 
 ===Pronunciation===
-* {{IPA|is|/ɛː/}}
+* {{IPA-lite|is|/ɛː/}}
 
 ===Letter===
 {{head-lite|is|letters|upper case|E|langname=Icelandic}}
@@ -848,7 +848,7 @@ See [[#Translingual|Translingual section]].
 ==Ido==
 
 ===Pronunciation===
-* {{IPA|io|/e/}}
+* {{IPA-lite|io|/e/}}
 
 ===Letter===
 {{head-lite|io|letters|upper case|E|langname=Ido}}
@@ -882,7 +882,7 @@ See [[#Translingual|Translingual section]].
 * [[a#Igbo|a]] (''retracted tongue position'')
 
 ===Pronunciation===
-* {{IPA|ig|/e/}}
+* {{IPA-lite|ig|/e/}}
 
 ===Pronoun===
 {{ig-pos|pronoun|e}}
@@ -913,9 +913,9 @@ From {{der-lite|idb|pt|e||and}}.
 ==Indonesian==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|id|/e/}}
-* {{sense|phoneme}} {{IPA|id|/e/|/ɛ/}}
-* {{sense|phoneme}} {{IPA|id|/ə/}}
+* {{sense|letter name}} {{IPA-lite|id|/e/}}
+* {{sense|phoneme}} {{IPA-lite|id|/e/|/ɛ/}}
+* {{sense|phoneme}} {{IPA-lite|id|/ə/}}
 
 ===Letter===
 {{id-letter|upper=E|lower=e}}
@@ -1020,7 +1020,7 @@ From {{der-lite|kea|pt|e}}.
 ==Kaingang==
 
 ===Pronunciation===
-* {{IPA|kgp|/e/}}
+* {{IPA-lite|kgp|/e/}}
 
 ===Verb===
 {{head-lite|kgp|verbs|langname=Kaingang}}
@@ -1038,7 +1038,7 @@ From {{der-lite|kea|pt|e}}.
 From {{inh|kos|poz-oce-pro|*api}}, from {{inh|kos|poz-pro|*hapuy}}, from {{inh|kos|map-pro|*Sapuy}}. Compare {{cog|ms|api}}, {{cog|mg|afo}}, {{cog|huq|pui³³}}, {{cog|pau|ngau}}, {{cog|chk|ááf}}, {{cog|to|afi}}, {{cog|sm|afi}} and {{cog|haw|ahi}}.
 
 ===Pronunciation===
-* {{IPA|kos|/e/}}
+* {{IPA-lite|kos|/e/}}
 
 ===Noun===
 {{head-lite|kos|nouns|langname=Kosraean}}
@@ -1066,7 +1066,7 @@ From {{inh|kos|poz-oce-pro|*api}}, from {{inh|kos|poz-pro|*hapuy}}, from {{inh|k
 ====Noun====
 {{la-noun|ē|g=f|indecl=y}}
 
-# {{n-g-lite|The name of the letter ''{{l|la|E}}''.}}
+# {{n-g-lite|The name of the letter ''{{l-lite|la|E}}''.}}
 
 =====Coordinate terms=====
 * {{Latin letter names of the Roman alphabet}}
@@ -1143,7 +1143,7 @@ The letter '''''E'''''/'''''e''''' (like its long counterpart '''''Ē'''''/'''''
 ==Ligurian==
 
 ===Pronunciation===
-* {{IPA|lij|/e/}}
+* {{IPA-lite|lij|/e/}}
 
 ===Etymology 1===
 From {{inh-lite|lij|la|et}}, from {{inh|lij|ine-pro|*éti||beyond, over}}.
@@ -1207,9 +1207,9 @@ From {{inh-lite|lij|la|illae}}.
 ==Maltese==
 
 ===Pronunciation===
-* {{IPA|mt|/ɛ/}} {{q|short phoneme}}
-* {{IPA|mt|/a/}} {{q|some speakers; when following {{m-lite|mt|għ}} in an unstressed final syllable}}
-* {{IPA|mt|/ɛː/}} {{q|long phoneme}}
+* {{IPA-lite|mt|/ɛ/}} {{q|short phoneme}}
+* {{IPA-lite|mt|/a/}} {{q|some speakers; when following {{m-lite|mt|għ}} in an unstressed final syllable}}
+* {{IPA-lite|mt|/ɛː/}} {{q|long phoneme}}
 * In inherited words, long ''e'' occurs only next to vowelised {{m-lite|mt||għ}} or {{m-lite|mt|h}}. In Romance words, it can be long on its own.
 
 ===Letter===
@@ -1250,7 +1250,7 @@ From {{inh-lite|lij|la|illae}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{IPA|mfe|[ø]|[e]}}
+* {{IPA-lite|mfe|[ø]|[e]}}
 
 ====Letter====
 {{head-lite|mfe|letters|langname=Mauritian Creole}}
@@ -1261,7 +1261,7 @@ From {{inh-lite|lij|la|illae}}.
 From {{der-lite|mfe|fr|et}}.
 
 ====Pronunciation====
-* {{IPA|mfe|[e]}}
+* {{IPA-lite|mfe|[e]}}
 
 ====Alternative forms====
 * {{alter|mfe|ek}}
@@ -1356,7 +1356,7 @@ From {{inh|gml|gem-pro|*aiwaz}}, whence also Old Norse {{m-lite|non|ei}}.
 ==Neapolitan==
 
 ===Pronunciation===
-* {{IPA|nap|/e/}}
+* {{IPA-lite|nap|/e/}}
 
 ===Etymology 1===
 From {{der-lite|nap|la|de}}.
@@ -1385,8 +1385,8 @@ From {{inh-lite|nap|la|et}}.
 See [[#Translingual|Translingual section]].
 
 ===Pronunciation===
-* {{s|letter name}} {{IPA|no|/eː/}}
-* {{s|phoneme}} {{IPA|no|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+* {{s|letter name}} {{IPA-lite|no|/eː/}}
+* {{s|phoneme}} {{IPA-lite|no|/eː/|/e/|/ɛ/|/ə/|/æ/}}
 
 ===Letter===
 {{head-lite|no|letters|langname=Norwegian}}
@@ -1418,7 +1418,7 @@ See [[#Translingual|Translingual section]].
 From {{inh-lite|nn|non|er}}.
 
 ====Pronunciation====
-* {{IPA|nn|/eː/|/e/|/ɛ/|/ə/|/æ/}}
+* {{IPA-lite|nn|/eː/|/e/|/ɛ/|/ə/|/æ/}}
 
 ====Verb====
 {{head-lite|nn|verb forms|langname=Norwegian Nynorsk}}
@@ -1439,7 +1439,7 @@ From {{inh-lite|nn|non|er}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|nup|/e/}}
+* {{sense|phoneme}} {{IPA-lite|nup|/e/}}
 
 ====Letter====
 {{nup-letter|upper=E|lower=e}}
@@ -1452,7 +1452,7 @@ From {{inh-lite|nn|non|er}}.
 ===Etymology 2===
 
 ====Pronunciation====
-* {{IPA|nup|/è/}}
+* {{IPA-lite|nup|/è/}}
 
 ====Particle====
 {{nup-pos|particle|è}}
@@ -1530,7 +1530,7 @@ From {{inh-lite|roa-opt|la|et}}, from {{inh|roa-opt|ine-pro|*éti}}.
 * {{alter|mul|⁊}}
 
 ====Pronunciation====
-* {{IPA|roa-opt|/e/}}
+* {{IPA-lite|roa-opt|/e/}}
 
 ====Conjunction====
 {{head-lite|roa-opt|conjunctions|langname=Old Portuguese}}
@@ -1566,7 +1566,7 @@ Alternative form of {{m-lite|roa-opt|é}}
 From {{inh-lite|osp|la|et}}, from {{der|osp|ine-pro|*éti}}.
 
 ===Pronunciation===
-* {{IPA|osp|/e/}}
+* {{IPA-lite|osp|/e/}}
 
 ===Conjunction===
 {{head-lite|osp|conjunctions|langname=Old Spanish}}
@@ -1720,12 +1720,12 @@ See [[#Translingual|Translingual section]].
 * {{hyphenation|pt|e}}
 
 '''Letter''':
-* {{a|Portugal|Brazil}} {{IPA|pt|/ˈɛ/|/ˈe/}}
+* {{a|Portugal|Brazil}} {{IPA-lite|pt|/ˈɛ/|/ˈe/}}
 * {{audio|pt|Pt-br-e.ogg|Audio}}
 * {{homophones|pt|é}}
 
 '''Noun''':
-* {{a|BR}} {{IPA|pt|/ˈe/}}
+* {{a|BR}} {{IPA-lite|pt|/ˈe/}}
 
 ====Letter====
 {{pt-letter|upper=E|lower=e}}
@@ -1757,7 +1757,7 @@ Abbreviation of {{m-lite|pt|este}}
 ==Rapa Nui==
 
 ===Pronunciation===
-* {{IPA|rap|/ˈe/}}
+* {{IPA-lite|rap|/ˈe/}}
 * {{hyph|rap|e}}
 
 ===Etymology 1===
@@ -1793,7 +1793,7 @@ From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|mi|e}}
 ==Rawang==
 
 ===Pronunciation===
-* {{IPA|raw|/ɛ/}}
+* {{IPA-lite|raw|/ɛ/}}
 
 ===Verb===
 {{head-lite|raw|verbs|langname=Rawang}}
@@ -1824,7 +1824,7 @@ From an earlier {{m-lite|rgn|ei}}, from {{m-lite|rgn|el}}.
 ==Romani==
 
 ===Pronunciation===
-* {{IPA|rom|/e/}}
+* {{IPA-lite|rom|/e/}}
 
 ===Letter===
 {{head-lite|rom|letters|lower case||upper case|E|langname=Romani}}
@@ -1843,8 +1843,8 @@ From an earlier {{m-lite|rgn|ei}}, from {{m-lite|rgn|el}}.
 See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
-* {{qualifier|letter name}} {{IPA|ro|/e/}}
-* {{qualifier|phoneme}} {{IPA|ro|/e/|/je/}}
+* {{qualifier|letter name}} {{IPA-lite|ro|/e/}}
+* {{qualifier|phoneme}} {{IPA-lite|ro|/e/|/je/}}
 
 ====Letter====
 {{ro-letter|lower=e|upper=E}}
@@ -1879,7 +1879,7 @@ See {{m-lite|ro|E}} for pronunciation notes.
 From {{inh-lite|ro|la|est}}.
 
 ====Pronunciation====
-* {{IPA|ro|/je/}}
+* {{IPA-lite|ro|/je/}}
 * {{audio|ro|Ro-e.ogg|Audio}}
 
 ====Verb====
@@ -1920,7 +1920,7 @@ From {{inh-lite|ro|la|et}}.
 From {{inh-lite|sc|la|et}}, ultimately from {{der|sc|ine-pro|*éti}}.
 
 ===Pronunciation===
-* {{IPA|sc|/e/}}
+* {{IPA-lite|sc|/e/}}
 
 ===Conjunction===
 {{head-lite|sc|conjunctions|langname=Sardinian}}
@@ -1935,7 +1935,7 @@ From {{inh-lite|sc|la|et}}, ultimately from {{der|sc|ine-pro|*éti}}.
 From {{inh-lite|sdc|la|et}}, ultimately from {{inh|sdc|ine-pro|*éti}} or {{m|ine-pro|*h₁eti}}.
 
 ===Pronunciation===
-* {{IPA|sdc|/e/}}
+* {{IPA-lite|sdc|/e/}}
 
 ===Conjunction===
 {{head-lite|sdc|conjunctions|langname=Sassarese}}
@@ -1951,7 +1951,7 @@ From {{inh-lite|sdc|la|et}}, ultimately from {{inh|sdc|ine-pro|*éti}} or {{m|in
 From {{inh-lite|gd|sga|é}}. Cognates include {{cog|ga|é}} and {{cog|gv|eh}}.
 
 ===Pronunciation===
-* {{IPA|gd|/ˈɛ/}}
+* {{IPA-lite|gd|/ˈɛ/}}
 
 ===Pronoun===
 {{head-lite|gd|pronouns|cat2=personal pronouns|langname=Scottish Gaelic}}
@@ -1976,7 +1976,7 @@ See [[#Translingual|Translingual section]].
 * (''uppercase''): {{l-lite|sh|E}}
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|sh|/e/}}
+* {{qualifier|phoneme}} {{IPA-lite|sh|/e/}}
 
 ====Letter====
 {{sh-letter}}
@@ -2009,7 +2009,7 @@ Variant of {{m-lite|sh|ej}} or {{m-lite|sh|hej}}
 From {{inh-lite|scn|la|et}}, ultimately from {{der|scn|ine-pro|*éti}}.
 
 ===Pronunciation===
-* {{IPA|scn|/e/}}
+* {{IPA-lite|scn|/e/}}
 
 ===Conjunction===
 {{head-lite|scn|conjunctions|langname=Sicilian}}
@@ -2021,7 +2021,7 @@ From {{inh-lite|scn|la|et}}, ultimately from {{der|scn|ine-pro|*éti}}.
 ==Skolt Sami==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|sms|/e/|/ɛ/}}
+* {{qualifier|phoneme}} {{IPA-lite|sms|/e/|/ɛ/}}
 
 ===Letter===
 {{head-lite|sms|letters|upper case|E|langname=Skolt Sami}}
@@ -2044,9 +2044,9 @@ From {{inh-lite|scn|la|et}}, ultimately from {{der|scn|ine-pro|*éti}}.
 From Gaj's Latin alphabet {{m-lite|sh|e}}, from {{der-lite|mul|cs|-}} alphabet {{m-lite|cs|e}}, from Latin {{m-lite|la|e}}, which is a modification of capital letter {{m-lite|mul|E}} in [[uncial]] script, from {{der|mul|grc|Ε|t=Epsilon}}.
 
 ====Pronunciation====
-* {{qualifier|phoneme|Standard Slovene}}: {{IPA|sl|/éː/|/èː/|/ɛ́/|/ɛ́ː/|/ɛ̀ː/|/ə́/|/ə̀/|/e/|/ɛ/|[ɪ́]|[ɪ̀]|[é̞]|[è̞]}}
-* {{qualifier|phoneme|Resian}}: {{IPA|sl|/ɛ/}}
-* {{qualifier|phoneme|Natisone Valley dialect}}: {{IPA|sl|/ɛː/|/ɛ/|/ɛ̆/}}
+* {{qualifier|phoneme|Standard Slovene}}: {{IPA-lite|sl|/éː/|/èː/|/ɛ́/|/ɛ́ː/|/ɛ̀ː/|/ə́/|/ə̀/|/e/|/ɛ/|[ɪ́]|[ɪ̀]|[é̞]|[è̞]}}
+* {{qualifier|phoneme|Resian}}: {{IPA-lite|sl|/ɛ/}}
+* {{qualifier|phoneme|Natisone Valley dialect}}: {{IPA-lite|sl|/ɛː/|/ɛ/|/ɛ̆/}}
 * {{qualifier|letter name}}: {{sl-IPA|ẹ̄}}
 * {{qualifier|letter name|archaic}}: {{sl-IPA|ē}}
 * {{audio|sl|Sl-nt-e.ogg|Audio (letter name, non-tonal)}}
@@ -2067,7 +2067,7 @@ From Gaj's Latin alphabet {{m-lite|sh|e}}, from {{der-lite|mul|cs|-}} alphabet {
 {{head-lite|sl|symbols|langname=Slovene}}
 
 # {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|Logar transcription, transcription for standard Slovene]]}} ''[[phonetic|Phonetic]] [[transcription]] of sound ''[{{IPAlink|ɛ}}].
-#: {{synonyms|sl|ȩ|ɛ}}
+#: {{syn-lite|sl|ȩ|ɛ}}
 
 ====Noun====
 {{sl-noun|e|m-in|g2=n}}
@@ -2092,7 +2092,7 @@ Variant of {{m-lite|sl|ej}} or {{m-lite|sl|hej}}
 
 ====Pronunciation====
 * {{sl-IPA|ẹ̄}}
-* {{q|third definition also}}: {{IPA|sl|[ẽ́ː]|[ẽ̀ː]}}
+* {{q|third definition also}}: {{IPA-lite|sl|[ẽ́ː]|[ẽ̀ː]}}
 * {{audio|sl|Sl-nt-e.ogg|Audio}}
 * {{rhymes|sl|eː|ẽː}}
 * {{homophones|sl|e|E}}
@@ -2221,8 +2221,8 @@ Reduced form of {{m-lite|srn|de||to be}}
 See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
-* letter name: {{IPA|sv|/eː/}}
-* phoneme: {{IPA|sv|/eː/|/ɛ/|/ɛː/}}
+* letter name: {{IPA-lite|sv|/eː/}}
+* phoneme: {{IPA-lite|sv|/eː/|/ɛ/|/ɛː/}}
 
 ====Letter====
 {{sv-letter|upper=E|lower=e}}
@@ -2291,7 +2291,7 @@ From {{inh-lite|sv|non|æ}}, {{m-lite|non|ei}}, {{m-lite|non|ey}}, from {{inh|sv
 ==Tokelauan==
 
 ===Pronunciation===
-* {{IPA|tkl|/ˈe/}}
+* {{IPA-lite|tkl|/ˈe/}}
 * {{hyph|tkl|e}}
 
 ===Etymology 1===
@@ -2336,7 +2336,7 @@ From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|sm|e}}
 ==Turkish==
 
 ===Pronunciation===
-* {{IPA|tr|/e/|/æ/}}
+* {{IPA-lite|tr|/e/|/æ/}}
 
 ===Letter===
 {{tr-letter|upper=E|lower=e}}
@@ -2359,7 +2359,7 @@ From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|sm|e}}
 ==Turkmen==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|tk|/e/}}
+* {{qualifier|phoneme}} {{IPA-lite|tk|/e/}}
 
 ===Letter===
 {{head-lite|tk|letters|upper case|E|langname=Turkmen}}
@@ -2442,7 +2442,7 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 ==Volapük==
 
 ===Alternative forms===
-* {{qualifier|before a vowel}} {{l|vo|ed}}
+* {{qualifier|before a vowel}} {{l-lite|vo|ed}}
 
 ===Etymology===
 {{rfe-lite|vo}}
@@ -2468,7 +2468,7 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 * {{i|with [[diaeresis]] to indicate disyllabicity}}: {{l-lite|cy|ë}}
 
 ====Pronunciation====
-* {{IPA|cy|/eː/}}
+* {{IPA-lite|cy|/eː/}}
 * {{rhymes|cy|eː|s=1}}
 
 ====Letter====
@@ -2503,7 +2503,7 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 Reduction of literary {{m-lite|cy|ef}}
 
 ====Pronunciation====
-* {{IPA|cy|/eː/|/ɛ/}}
+* {{IPA-lite|cy|/eː/|/ɛ/}}
 
 ====Pronoun====
 {{head-lite|cy|pronouns|cat2=personal pronouns|langname=Welsh}}
@@ -2518,7 +2518,7 @@ Reduction of literary {{m-lite|cy|ef}}
 ==West Makian==
 
 ===Pronunciation===
-* {{IPA|mqs|/e/}}
+* {{IPA-lite|mqs|/e/}}
 
 ===Verb===
 {{head-lite|mqs|verbs|langname=West Makian}}
