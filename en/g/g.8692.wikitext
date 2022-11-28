@@ -400,6 +400,8 @@ Abbreviation.
 ==Japanese==
 {{ja-see|グラム}}
 
+----
+
 ==Latvian==
 {{wikipedia|lang=lv}}
 
@@ -615,7 +617,7 @@ See {{m|ro|G}} for pronunciation notes.
 ===Etymology===
 From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}}, from Latin {{m|la|g}}. Pronunciation as {{IPAchar|/ɡə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|g}}.
 
-====Pronunciation====
+===Pronunciation===
 * Phoneme
 {{sl-pronounce
 |IPAt={{IPA|sl|/ɡ/|[k]}}
@@ -659,25 +661,25 @@ From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}},
 |pan=*gə̏
 }}
 
-====Letter====
+===Letter===
 {{sl-letter|upper=G|lower=g}}
 
 # {{Latn-def-lite|sl|langname=Slovene|letter|8}}
 # {{Latn-def-lite|sl|langname=Resian|letter|11}}
 # {{Latn-def-lite|sl|langname=Natisone Valley dialect|letter|8}}
 
-====Symbol====
+===Symbol===
 {{head-lite|sl|symbols|langname=Slovene}}
 
 # {{qualifier|[[wikipedia:Slovene_national_phonetic_transcription|SNPT]]}} ''[[phonetic|Phonetic]] [[transcription]] of sound'' [{{IPAlink|ɡ}}].
 
-====Noun====
+===Noun===
 {{sl-noun|g|m-in}}
 
 # {{n-g-lite|The name of the [[Appendix:Latin script|Latin script]] letter '''''[[G]]''''' / '''''[[g]]'''''.}}
 # {{q|linguistics}} {{n-g-lite|The name of the [[phoneme]] ''/{{IPAlink|ɡ}}/''.}}
 
-====Inflection====
+===Inflection===
 * Overall more common
 {{sl-decl-noun-table3|g|g-ja|[[g-ju]], ''[[g-ji]]''|g|[[g-ju]], ''[[g-ji]]''|g-jem|g|g-ja|g-jev|g-jema|g-ja|g-jih|g-jema|g-ja|g-ji|g-jev|g-jem|g-je|g-jih|g-ji|g-ji|decl=m-in-1-s|infix=j-|accent=1}}
 
@@ -698,7 +700,6 @@ From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}},
 
 ===Further reading===
 * {{R:sl:Fran}}
-
 
 ----
 
@@ -800,7 +801,7 @@ From Gaj's Latin alphabet {{m|sh|g}}, from {{der|mul|cs|-}} alphabet {{m|cs|g}},
 * G at the beginning of words is omitted in a {{l|en|soft mutation}}, mutates to {{l|cy|Ng}} in a {{l|en|nasal mutation}} and is unchanged by {{l|en|aspirate mutation}}, for example with the word {{m|cy|gorsaf||station}}:
 {{cy-mut|gorsaf}}
 
-====See also====
+===See also===
 * {{list:Latin script letters/cy}}
 
 ===Further reading===
