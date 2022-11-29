@@ -70,7 +70,7 @@ From {{inh|zh|sit-pro|*ja-n||night}} (STEDT); cognate with {{cog|lus|zân||night
 {{zh-dial}}
 
 ====Compounds====
-* {{see derivation subpage|Night (Chinese)}}
+* {{see derivation subpage|Yè}}
 
 ===References===
 * {{R:yue:Hanzi}}
@@ -98,8 +98,6 @@ From {{inh|zh|sit-pro|*ja-n||night}} (STEDT); cognate with {{cog|lus|zân||night
 ===Kanji===
 {{ja-kanji|grade=2|rs=夕05}}
 
-# [[night]], [[nighttime]]
-
 ====Readings====
 {{ja-readings
 |goon=や
@@ -123,12 +121,12 @@ Derived from ''yo'' below, suffixed with an element ''ru'' of unclear meaning.<r
 Now the most common term for {{m|en|night}} in modern {{cog|ja|-}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|よる|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|よる|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|よる}}
 
-# [[night]], [[evening]]
+# the [[night]], [[evening]]
 #: {{ja-usex|[[東%京]]の'''夜'''|^とう%きょう の '''よる'''|Tokyo '''nights'''}}
 #: {{ja-usex|'''夜'''の[[街]]を[[歩く]]|'''よる''' の まち を あるく|to walk the streets at night|lit=to walk the '''night''' streets}}
 #: {{ja-usex|[[不%安]]な'''夜'''を[[過ごす]]|ふ%あん な '''よる''' を すごす|to endure a '''night''' of anxiety|lit=to pass an uneasy '''night'''}}
@@ -137,10 +135,7 @@ Now the most common term for {{m|en|night}} in modern {{cog|ja|-}}.
 #: {{ant|ja|昼|tr=hiru}}
 
 =====Derived terms=====
-* {{see derivation subpage|Night (Japanese)}}
-
-=====Idioms=====
-* {{ja-r|夜の衣を返す|よる の ころも を かえす}}
+* {{see derivation subpage|Yoru}}
 
 ====Proper noun====
 {{ja-pos|proper|よる}}
@@ -157,16 +152,16 @@ From {{inh|ja|ojp|-|sort=よ}}, from {{inh|ja|jpx-pro|*yo|sort=よ}}.
 In modern development, this term has taken on a more [[literary]] sense.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|よ|acc=1|acc_ref=DJR,NHK}}
+{{ja-pron|よ|acc=1|acc_ref=DJR,NHK}}
 
 ====Noun====
 {{ja-noun|よ}}
 
 # {{lb|ja|literary}} [[night]], [[evening]]
-#: {{ja-usex|『{{w|真夏の夜の夢|lang=ja|真%夏の'''夜'''の夢}}』|『^ま%なつ の '''^よ''' の ^ゆめ』|''{{w|A Midsummer Night's Dream|A Midsummer '''Night'''{{'}}s Dream}}''}}
+#: {{ja-usex-inline|『[[w:ja:真夏の夜の夢|真%夏の'''夜'''の夢]]』|『^ま%なつ の '''^よ''' の ^ゆめ』|''[[w:A Midsummer Night's Dream|A Midsummer '''Night'''’s Dream]]''}}
 
 =====Derived terms=====
-* {{see derivation subpage|Night (2) (Japanese)}}
+* {{see derivation subpage|Yo}}
 
 ===See also===
 * {{ja-r|夕|ゆう}}, {{ja-r|夕べ|ゆうべ}}
@@ -199,7 +194,7 @@ From {{der|ko|ltc|sort=야|-}} {{ltc-l|夜}}.
 # {{hanja form of|야|[[night]]}}
 
 ====Compounds====
-* {{see derivation subpage|Night (Korean)}}
+* {{see derivation subpage|Ya}}
 
 ===References===
 * {{R:hanjadoc|2072}}
@@ -212,14 +207,16 @@ From {{der|ko|ltc|sort=야|-}} {{ltc-l|夜}}.
 {{head|okn|Han characters|kun'yomi|いぃーる|romaji|yīru}}
 
 ===Etymology===
-From {{inh|okn|jpx-ryu-pro|*yoru|sort=いぃいる}}, from {{inh|okn|jpx-pro|*yoru|sort=いぃいる}}. Cognate with {{cog|ja|夜|tr=よる, yoru||night}}.
+From {{inh|okn|jpx-ryu-pro|*yoru|sort=いいいる}}, from {{inh|okn|jpx-pro|*yoru|sort=いいいる}}.
+
+Cognate with mainland {{cog|ja|夜|tr=yoru}}.
 
 ===Noun===
-{{head|okn|noun|hiragana|いぃーる|romaji|yīru|sort=いぃいる}}
+{{head|okn|noun|hiragana|いぃーる|romaji|yīru|sort=いいいる}}
 
 # [[night]]
 
-{{C|okn|Time|Times of day|sort=いぃいる}}
+{{C|okn|Time|Times of day|sort=いいいる}}
 
 ----
 
@@ -236,7 +233,21 @@ From {{inh|okn|jpx-ryu-pro|*yoru|sort=いぃいる}}, from {{inh|okn|jpx-pro|*yo
 
 ===Etymology 1===
 {{ryu-kanjitab|ゆる|yomi=k}}
-From {{inh|ryu|jpx-ryu-pro|*yoru|sort=ゆる}}, from {{inh|ryu|jpx-pro|*yoru|sort=ゆる}}. Cognate with {{cog|ja|夜|tr=yoru|t=night}}.
+From {{inh|ryu|jpx-ryu-pro|*yoru|sort=ゆる}}, from {{inh|ryu|jpx-pro|*yoru|sort=ゆる}}.
+
+Cognate with mainland {{cog|ja|夜|tr=yoru|t=night}}.
+
+====Pronunciation====
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} ゆ{{ja-accent/high|る}} {{monospace|[yúrù]}} ({{ll|ja|平板型|Heiban}} - [0])
+* {{IPA|ryu|[juɾu]}}
+
+====Noun====
+{{ryu-noun|ゆる|sort=ゆる}}
+
+# the [[night]]
+
+=====Derived terms=====
+* {{see derivation subpage|Yuru}}
 
 ====Counter====
 {{ryu-pos|counter|ゆる}}
@@ -245,19 +256,23 @@ From {{inh|ryu|jpx-ryu-pro|*yoru|sort=ゆる}}, from {{inh|ryu|jpx-pro|*yoru|sor
 #: {{ja-usex-inline|一%夜|ちゅ%ゆる|[[one]] night}}
 #: {{ja-usex-inline|二%夜|た%ゆる|[[two]] nights}}
 
-====Noun====
-{{ryu-noun|ゆる|sort=ゆる}}
-
-# [[night]]
-
 ===Etymology 2===
 {{ryu-kanjitab|ゆー|yomi=k}}
-From {{inh|ryu|jpx-ryu-pro|*yo|sort=ゆう}}, from {{inh|ryu|jpx-pro|*yo|sort=ゆう}}. Cognate with {{cog|ja|夜|tr=yo|t=night}}.
+From {{inh|ryu|jpx-ryu-pro|*yo|sort=ゆう}}, from {{inh|ryu|jpx-pro|*yo|sort=ゆう}}.
+
+Cognate with mainland {{cog|ja|夜|tr=yo}}.
+
+====Pronunciation====
+* {{a|{{ll|ja|首里|Shuri}}-{{ll|ja|那覇|Naha}}}} ゆ{{ja-accent/high|う}} {{monospace|[yúù]}} ({{ll|ja|平板型|Heiban}} - [0])
+* {{IPA|ryu|[juː]}}
 
 ====Noun====
 {{ryu-noun|ゆー}}
 
-# [[night]]
+# the [[night]]
+
+=====Derived terms=====
+* {{see derivation subpage|Yū}}
 
 ===References===
 * {{R:Haisai|ユル|04704}}
@@ -274,38 +289,40 @@ From {{inh|ryu|jpx-ryu-pro|*yo|sort=ゆう}}, from {{inh|ryu|jpx-pro|*yo|sort=�
 ==Old Japanese==
 
 ===Etymology 1===
-From {{inh|ojp|jpx-pro|*yoru|sort=よる}}. Derived from ''yo<sub>1</sub>'' below, suffixed with an element ''ru'' of unclear meaning.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare {{m|ojp|日||tr=pi<sub>1</sub>|[[day]]}} → {{m|ojp|晝||tr=pi<sub>1</sub>ru|[[daytime]]}}, which seems to use this same ''ru'' element.
+From {{inh|ojp|jpx-pro|*yoru|sort=よる}}.
+
+Derived from ''yo<sub>1</sub>'' below, suffixed with an element ''ru'' of unclear meaning.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare {{m|ojp|日||tr=pi<sub>1</sub>|[[day]]}} → {{m|ojp|晝||tr=pi<sub>1</sub>ru|[[daytime]]}}, which seems to use this same ''ru'' element.
 
 Used as a standalone noun but not in compounds.
 
 ====Noun====
 {{head|ojp|noun|tr=yo<sub>1</sub>ru|kana|よる|sort=よる}}
 
-# [[night]], [[evening]]
+# the [[night]], [[evening]]
 #* {{RQ:Manyoshu|5|807}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#807 here]
 #*: {{ux|ojp|宇豆&#64038;仁波安布余志勿奈子奴婆多麻能'''用流'''能伊昧仁越&#64038;伎提美延許曾|tr=ututu ni pa apu yo<sub>2</sub>si mo nasi nubatama no<sub>2</sub> '''yo<sub>1</sub>ru''' no<sub>2</sub> ime<sub>2</sub> ni wo tugi<sub>1</sub>te miye ko<sub>2</sub>so<sub>2</sub>|There is no way to see you in reality. ''Please'' continue to appear in dreams of the '''night'''!<ref>{{cite-book|2005|Haruo Shirane|Classical Japanese: A Grammar|edition=illustrated|publisher=Columbia University Press|isbn=0-231-13524-6|page=320}}</ref>}}
-#: {{ant|ojp|昼|tr=pi<sub>1</sub>ru}}
+#: {{ant|ojp|晝|tr=pi<sub>1</sub>ru}}
 
 =====Derived terms=====
-* {{m|ojp|夜昼|tr=yo<sub>1</sub>rupi<sub>1</sub>ru}}
+* {{see derivation subpage|Yworu}}
 
 =====Descendants=====
 * {{desc|ja|夜|tr=yoru}}
 
 ===Etymology 2===
-From {{inh|ojp|jpx-pro|*yo|sort=よ}}. First attested in the ''{{w|Kojiki}}'' (712 {{CE}}).<ref name="KDJ"/>
+From {{inh|ojp|jpx-pro|*yo|sort=よ}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).<ref name="KDJ"/>
 
 Used as both a standalone noun and in compounds.
 
 ====Noun====
 {{head|ojp|noun|tr=yo<sub>1</sub>|kana|よ|sort=よ}}
 
-# [[night]], [[evening]]
+# the [[night]], [[evening]]
 #* {{RQ:Kojiki|poem 3}}
 #*: {{ux|ojp|...阿遠夜麻邇比賀迦久良婆[[射干玉の|奴婆多麻能]]'''用'''波伊傅那牟...|tr=...awoyama ni pi<sub>1</sub> ga kakuraba nubatama no<sub>2</sub> '''yo<sub>1</sub>''' pa idenamu...|As soon as the sun hides behind the verdant mountains, then jet-black '''night''' will come.<ref>{{cite-book|2015|Donald L. Philippi|''{{w|Kojiki}}''|series=Volume 2255 of Princeton Legacy Library|publisher=Princeton University Press|isbn=1400878004|pages=106-7}}</ref>}}
 
 =====Derived terms=====
-* {{see derivation subpage|Night (Old Japanese)}}
+* {{see derivation subpage|Ywo}}
 
 =====Descendants=====
 * {{desc|ja|夜|tr=yo}}
@@ -316,7 +333,7 @@ Attested in the ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (''c.'
 ====Noun====
 {{head|ojp|noun|tr=yu|kana|ゆ|sort=ゆ}}
 
-# {{lb|ojp|sort=ゆ|regional|Eastern Old Japanese}} [[night]], [[evening]]
+# {{lb|ojp|sort=ゆ|regional|Eastern Old Japanese}} the [[night]], [[evening]]
 #* ''c.'' '''732'''-'''739''', ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (poem 1)
 #*: {{ux|ojp|志努波羅能意登比賣能古袁佐比登'''由'''母爲禰弖牟志太夜伊幣爾久太佐牟
 |tr=sino<sub>1</sub>para no<sub>2</sub> oto<sub>2</sub>pi<sub>1</sub>me<sub>1</sub> no<sub>2</sub> ko<sub>1</sub> wo sa-pi<sub>1</sub>to<sub>2</sub>'''yu''' mo inetemu sida ya ipe<sub>1</sub> ni kudasamu|Once I've taken her, slept with her a single '''night'''―that little lady, the girl from the bamboo brakes―I'll send her down to her home.<ref>{{cite-book|1997|Helen Craig McCullough|chapter=Combinations of Poetry and Prose in Classical Japanese Narrative|editors=Joseph Harris, Ph.D., Joseph Harris, Karl Reichl|Prosimetrum: Crosscultural Perspectives on Narrative in Prose and Verse|edition=illustrated|publisher=Boydell & Brewer|isbn=0-85991-475-5|page=416}}</ref>}}
@@ -347,11 +364,13 @@ Attested in the ''{{w|lang=ja|肥前国風土記|Hizen-no-kuni Fudoki}}'' (''c.'
 {{head|yoi|Han characters|kun'yomi|どぅる|romaji|duru}}
 
 ===Etymology===
-From {{inh|yoi|jpx-ryu-pro|*yoru|sort=とぅる'}}, from {{inh|yoi|jpx-pro|*yoru|sort=とぅる'}}. Cognate with {{cog|ja|夜|tr=よる, yoru||night}}.
+From {{inh|yoi|jpx-ryu-pro|*yoru|sort=とうる'}}, from {{inh|yoi|jpx-pro|*yoru|sort=とうる'}}.
+
+Cognate with mainland {{cog|ja|夜|tr=yoru}}.
 
 ===Noun===
-{{head|yoi|noun|hiragana|どぅる|romaji|duru|sort=とぅる'}}
+{{head|yoi|noun|hiragana|どぅる|romaji|duru|sort=とうる'}}
 
 # [[night]]
 
-{{C|yoi|Time|Times of day|sort=とぅる'}}
+{{C|yoi|Time|Times of day|sort=とうる'}}
