@@ -218,9 +218,9 @@ Meixian: kêu3 - literary; hêu3 - vernacular
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|くつ}}
 
-{{IPAchar|/kutu/}} → {{IPAchar|/kut͡su/}}
+{{IPAchar-lite|/kutu/}} → {{IPAchar-lite|/kut͡su/}}
 
-From {{inh|ja|ojp|sort=くつ|-}}. Appears in compound terms listed in the ''{{w|Wamyō Ruijushō}}'' of 938 CE.
+From {{inh-lite|ja|ojp|sort=くつ|-}}. Appears in compound terms listed in the ''{{w|Wamyō Ruijushō}}'' of 938 CE.
 
 The ancient combining form of modern reading ''kuchi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Likely the original form.
 
@@ -250,7 +250,7 @@ There are interesting potential phonetic and semantic overlaps with {{cog|ltc|-}
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|くち}}
 
-&#42;{{IPAchar|/kutu i/}} → {{IPAchar|/kuti/}} → {{IPAchar|/kut͡ɕi/}}
+&#42;{{IPAchar-lite|/kutu i/}} → {{IPAchar-lite|/kuti/}} → {{IPAchar-lite|/kut͡ɕi/}}
 
 From {{inh|ja|ojp|-}}, ultimately from {{inh|ja|jpx-pro|*kutuy}}. Appears in the ''{{w|Man'yōshū}}'', completed some time after 759 CE.<ref name="MYS">{{RQ:Manyoshu|14|3532}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man14Yo.html#3532 here]</ref>
 
@@ -402,7 +402,7 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 ==Kunigami==
 
 ===Kanji===
-{{head|xug|Han characters}}
+{{head-lite|xug|Han characters|langname=Kunigami|sc=Jpan}}
 
 ====Readings====
 {{ja-readings
@@ -410,24 +410,26 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 }}
 
 ===Pronunciation===
-* {{IPA|xug|/kʰut͡ɕiː/|sort=くちい}}
+* {{IPA-lite|xug|/kʰut͡ɕiː/|sort=くちい}}
 
 ===Noun===
-{{head|xug|noun|hiragana|くちー|rōmaji|khuchī|sort=くちい}}
+{{head-lite|xug|nouns|hiragana|くちー|rōmaji|khuchī|sort=くちい|langname=Kunigami|sc=Jpan}}
 
 # [[mouth]]
 # [[language]]
 # [[dialect]]
 # [[speech]]
 
-{{c|xug|Anatomy|Linguistics|Talking|sort=くちい}}
+[[Category:xug:Anatomy|くちい]]
+[[Category:xug:Linguistics|くちい]]
+[[Category:xug:Talking|くちい]]
 
 ----
 
 ==Miyako==
 
 ===Kanji===
-{{head|mvi|Han characters}}
+{{head-lite|mvi|Han characters|langname=Miyako|sc=Jpan}}
 
 ====Readings====
 {{ja-readings
@@ -435,11 +437,11 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 }}
 
 ===Pronunciation===
-* {{a|Tarama}}: {{IPA|mvi|[ɸɨtˢɨ]|[ɸs̩.tˢɨ]}}
-* {{a|Ōgami}}: {{IPA|mvi|[ɸkɨ]|[ɸks̩ ~ ɸkɯ]|sort=ふィちィ}}
+* {{a|Tarama}}: {{IPA-lite|mvi|[ɸɨtˢɨ]|[ɸs̩.tˢɨ]}}
+* {{a|Ōgami}}: {{IPA-lite|mvi|[ɸkɨ]|[ɸks̩ ~ ɸkɯ]|sort=ふィちィ}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|ふつ|rōmaji|futsu|alternative reading|ふィちィ|rōmaji|fïchï|sort=ふつ}}
+{{head-lite|mvi|nouns|hiragana|ふつ|rōmaji|futsu|alternative reading|ふィちィ|rōmaji|fïchï|sort=ふつ|langname=Miyako|sc=Jpan}}
 
 # [[mouth]]
 # [[language]]
@@ -451,7 +453,9 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 * {{R:Miyako Dialect Dictionary|フツ|MY06009}}
 * {{R:Online Miyako Dictionary|ふつ}}
 
-{{c|mvi|Anatomy|Linguistics|Talking|sort=ふつ}}
+[[Category:mvi:Anatomy|ふつ]]
+[[Category:mvi:Linguistics|ふつ]]
+[[Category:mvi:Talking|ふつ]]
 
 ----
 
@@ -466,7 +470,7 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 }}
 
 ===Pronunciation===
-* {{IPA|ryu|/kut͡ɕi/|sort=くち}}
+* {{IPA-lite|ryu|/kut͡ɕi/|sort=くち}}
 
 ===Noun===
 {{ryu-noun|くち}}
@@ -493,7 +497,9 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 * {{R:JLect|ぐち【口】|1174|guchi}}
 * {{R:Shuri-Naha Dialect Dictionary|クチ|SN11384}}
 
-{{c|ryu|Anatomy|Linguistics|Talking|sort=くち}}
+[[Category:ryu:Anatomy|くち]]
+[[Category:ryu:Linguistics|くち]]
+[[Category:ryu:Talking|くち]]
 
 ----
 
@@ -516,7 +522,7 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 ==Yaeyama==
 
 ===Kanji===
-{{head|rys|Han characters}}
+{{head-lite|rys|Han characters|langname=Yaeyama|sc=Jpan}}
 
 ====Readings====
 {{ja-readings
@@ -524,24 +530,26 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 }}
 
 ===Pronunciation===
-* {{IPA|rys|/fu̻t͡sɨ/|sort=ふつぃ}}
+* {{IPA-lite|rys|/fu̻t͡sɨ/|sort=ふつぃ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|ふつぃ|rōmaji|futsï|sort=ふつぃ}}
+{{head-lite|rys|nouns|hiragana|ふつぃ|rōmaji|futsï|sort=ふつぃ|langname=Yaeyama|sc=Jpan}}
 
 # [[mouth]]
 # [[language]]
 # [[dialect]]
 # [[speech]]
 
-{{c|rys|Anatomy|Linguistics|Talking|sort=ふつぃ}}
+[[Category:rys:Anatomy|ふつぃ]]
+[[Category:rys:Linguistics|ふつぃ]]
+[[Category:rys:Talking|ふつぃ]]
 
 ----
 
 ==Yonaguni==
 
 ===Kanji===
-{{head|yoi|Han characters}}
+{{head-lite|yoi|Han characters|langname=Yonaguni|sc=Jpan}}
 
 ====Readings====
 {{ja-readings
@@ -549,14 +557,16 @@ From {{der|ko|ltc|-}} {{ltc-l|口}}.
 }}
 
 ===Pronunciation===
-* {{IPA|yoi|/tˀi/|sort=ってぃ}}
+* {{IPA-lite|yoi|/tˀi/|sort=ってぃ}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|ってぃ|rōmaji|tti|sort=ってぃ}}
+{{head-lite|yoi|nouns|hiragana|ってぃ|rōmaji|tti|sort=ってぃ|langname=Yonaguni|sc=Jpan}}
 
 # [[mouth]]
 # [[language]]
 # [[dialect]]
 # [[speech]]
 
-{{c|yoi|Anatomy|Linguistics|Talking|sort=ってぃ}}
+[[Category:yoi:Anatomy|ってぃ]]
+[[Category:yoi:Linguistics|ってぃ]]
+[[Category:yoi:Talking|ってぃ]]
