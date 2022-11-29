@@ -123,23 +123,29 @@ Etymology not certain; perhaps related to {{cog|bo|ར་བ||enclosure; fence; 
 |kun=ば-
 }}
 
-====Compounds====
-* {{ja-r|弓場|ゆば}}
-
 ===Etymology 1===
+{{etymid|ja|ba}}
 {{ja-kanjitab|yomi=k|ば}}
+
 {{IPAchar|/nipa/}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">*{{IPAchar|/niba/}}</span><span style="float:left;clear:both;">*{{IPAchar|/ⁿba/}}</span></span> → {{IPAchar|/ba/}}
 
-An alteration from {{inh|ja|ojp|sort=は'|庭|tr=nipa}}, modern {{m|ja|庭|tr=niwa||[[garden]], [[yard]]}}.
+An alteration from {{inh|ja|ojp|sort=は'|庭|tr=nipa}}, modern {{m|ja|庭|tr=niwa||[[garden]], [[yard]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><!-- The NKD copy at Kotobank is missing any etymology since their site "upgrade" in 2020 or so. ☹ --><ref name="K">{{R:Kojien}}</ref><ref name="DJR"/><ref name="SMK5"/>
+
+First cited to a text from 1275.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
 
 ====Pronunciation====
-{{ja-pron|ば|acc=1}}
+{{ja-pron|ば|acc=0|acc_ref=DJR,SMK5,NHK}}
 
 ====Noun====
 {{ja-noun|ば}}
 
-# a [[place]]
-# {{lb|ja|sort=は'|physics}} a [[field]]
+# {{defdate|from 1275}} a [[place]]
+# {{defdate|from 1701}} a [[situation]], the [[circumstances]] of a particular [[place]] and [[time]]
+#: {{synonyms|ja|状況|tr1=jōkyō|q1=[[circumstances]] more generally}}
+# {{defdate|from 1825}} an [[act]], a [[section]] of a [[play]]
+# {{defdate|from 1888}} {{lb|ja|sort=は'|physics}} a [[field]]
+# {{defdate|from 1893}} a [[trading floor]], as in a [[market]] or [[exchange]]
+#: {{synonyms|ja|立会場|tr1=tachiaijō}}
 
 =====Derived terms=====
 {{der-top3}}
@@ -148,18 +154,21 @@ An alteration from {{inh|ja|ojp|sort=は'|庭|tr=nipa}}, modern {{m|ja|庭|tr=ni
 * {{ja-r|市%場|いち%ば}}
 * {{ja-r|修%羅%場|しゅ%ら%ば}}
 * {{ja-r|本%場|ほん%ば}}
+* {{ja-r|弓場|ゆば}}
 {{der-bottom}}
 
 ====Counter====
 {{ja-pos|ば|counter}}
 
-# [[act]]s, [[section]]s of a [[play]]
+# {{defdate|from 1825}} an [[act]], a [[section]] of a [[play]]
 
 ===Etymology 2===
+{{etymid|ja|jou}}
 {{ja-kanjitab|yomi=goon|じょう}}
+
 {{IPAchar|/diou/}} → {{IPAchar|/d͡ʑoː/}} ↔ {{IPAchar|/ʑoː/}}
 
-From {{bor|ja|ltc|-|sort=しょう'}} {{ltc-l|場}}.
+From {{bor|ja|ltc|-|sort=しょう'}} {{ltc-l|場}}.  Appears as a suffixing element in compounds since the early 700s.<ref name="KDJ2-jō">{{R:Nihon Kokugo Daijiten 2|道場}}</ref>  First cited as a standalone noun in the {{m|ja|太平記|tr={{w|Taiheiki}}}} of the late 1300s.<ref name="KDJ2"/>
 
 ====Pronunciation====
 {{ja-pron|じょう|acc=1}}
@@ -167,19 +176,22 @@ From {{bor|ja|ltc|-|sort=しょう'}} {{ltc-l|場}}.
 ====Noun====
 {{ja-noun|じょう|hhira=ぢやう}}
 
-# a [[flattened]] [[area]] [[use]]d for [[festival]]s or [[ceremony|ceremonies]]
-# a [[place]] where [[event]]s are [[hold#Verb|held]]
+# {{defdate|date uncertain}} a [[flattened]] [[area]] [[use]]d for [[festival]]s or [[ceremony|ceremonies]]
+# {{defdate|from late 1300s}} a [[place]] where [[event]]s are [[hold#Verb|held]]
 
 ====Suffix====
 {{ja-pos|じょう|suffix|hhira=ぢやう}}
 
-# [[place]], [[arena]], [[course]]
-# [[while]], [[period]]
+# {{defdate|from early 700s}} [[place]], [[arena]], [[course]]
+# {{defdate|date uncertain}} [[while]], [[period]]
 
 =====Derived terms=====
 * {{ja-r|工%場|こう%じょう}}
 * {{ja-r|登%場|とう%じょう}}
 * {{ja-r|道%場|どう%じょう}}
+
+===References===
+<references/>
 
 ----
 
