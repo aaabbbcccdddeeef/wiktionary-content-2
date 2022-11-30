@@ -117,30 +117,30 @@ This letter creates several irregular ligatures.
 
 ==Sanskrit==
 
-===Etymology 1===
-From {{inh|sa|inc-pro|*kás}}, from {{inh|sa|iir-pro|*kás}}, from {{inh|sa|ine-pro|*kʷós}}. Cognate with {{cog|ae|𐬐𐬀}}, {{cog|grc|ποῖος}}, {{cog|la|quis}}, {{cog|ang|hwā}} (whence {{cog|en|who}}).
-
 ===Pronunciation===
 {{sa-IPA}}
 {{sa-IPA|a=1}}
 
-===Pronoun===
+===Etymology 1===
+From {{inh|sa|inc-pro|*kás}}, from {{inh|sa|iir-pro|*kás}}, from {{inh|sa|ine-pro|*kʷós}}. Cognate with {{cog|ae|𐬐𐬀}}, {{cog|grc|ποῖος}}, {{cog|la|quis}}, {{cog|ang|hwā}} (whence {{cog|en|who}}).
+
+====Pronoun====
 {{head|sa|tr=ká|pronoun}}
 
 # {{n-g|interrogative pronoun}}; [[who]], [[what]], [[which]]
 #: {{ux|sa|सः '''कः'''?|'''Who''' is he?|inline=y}}
 #: {{ux|sa|एषः '''कः'''?|'''What''' is this?|inline=y}}
 
-====Usage notes====
+=====Usage notes=====
 Sentences beginning with {{m|sa|क}} are often terminated with {{m|sa|इति}}.
 
-====Declension====
+=====Declension=====
 See {{m|sa|किम्}}.
 
 ===Etymology 2===
 {{rfe|sa}}
 
-===Noun===
+====Noun====
 {{sa-noun|g=m}}
 
 # {{n-g|a name}}
@@ -167,7 +167,7 @@ See {{m|sa|किम्}}.
 ===Etymology 3===
 {{rfe|sa}}
 
-===Noun===
+====Noun====
 {{sa-noun|g=n}}
 
 # [[happiness]], [[joy]], [[pleasure]]
