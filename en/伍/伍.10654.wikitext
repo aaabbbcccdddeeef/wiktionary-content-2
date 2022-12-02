@@ -11,13 +11,15 @@
 ----
 
 ==Chinese==
-{{zh-forms}}
 
 ===Glyph origin===
 {{Han etym}}
 {{Han compound|亻|五|ls=psc|c1=s|c2=p}}. Also {{liushu|ic|nocap=1}}.
 
-===Pronunciation===
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
 {{zh-pron
 |m=wǔ
 |m-s=
@@ -41,7 +43,7 @@
 |cat=n,pn
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[troop]] of five [[soldiers]]
@@ -55,14 +57,30 @@
 ====See also====
 {{Chinese-numbers}}
 
-===Compounds===
+====Compounds====
 {{zh-der|入伍|伍伯|士伍|伍子胥|伍員抉目|伍長|參伍|伍員鞭屍|伍員乘潮|卒伍|噲伍|火伍|歸伍|砥兵礪伍|燕雀伍|本伍|為伍|退伍|部伍|老行伍|落伍|羞與為伍|簿伍|配伍|超伍|與噲為伍|隊伍|黨伍|鄰伍|隊伍行列|行伍出身|行伍|羞與噲伍|閭伍|伍山|伍家崗|伍家|伍洛|伍相廟|恥與為伍|伍茲}}
 
-===Descendants===
+====Descendants====
 {{CJKV||ご|오}}
 ''Others:''
 * {{q|Hokkien dialect}} Tagalog: {{l|tl|Go}}
 * {{q|Mandarin}} Tagalog: {{l|tl|Wu}}
+
+===Etymology 2===
+{{zh-forms}}
+From {{zh-l|*亻}} (denoting one octave higher in [[Kunqu]]) + {{zh-l|五}}.
+
+====Pronunciation====
+{{zh-pron
+|m=wǔ
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|music}} {{ng|[[Kunqu]] [[gongche]] [[notation]] for the [[note]] [[high la]] (6̇).}}
+#: {{zh-syn|鿉|q1=Cantonese opera}}
 
 {{zh-cat|Five}}
 {{cln|zh|numeral symbols|numerals}}
