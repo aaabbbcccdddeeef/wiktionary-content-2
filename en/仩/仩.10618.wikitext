@@ -13,21 +13,33 @@
 {{zh-forms}}
 
 ===Etymology 1===
+From {{zh-l|*亻}} (denoting one octave higher in [[Kunqu]]) + {{zh-l|上}}.
 
 ====Pronunciation====
 {{zh-pron
 |m=shàng
-|c=saang3
 |cat=n
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{lb|zh|music}} {{n-g|Kunqu [[gongche]] [[notation]] of high [[do]] (1̇).}}
-# {{lb|zh|music}} {{n-g|Cantonese opera [[gongche]] [[notation]] of low [[do]] (1̣).}}
+# {{lb|zh|music}} {{ng|[[Kunqu]] [[gongche]] [[notation]] for the [[note]] [[high do]] (1̇).}}
+#: {{zh-syn|生|q1=Cantonese opera}}
 
 ===Etymology 2===
+From {{zh-l|*亻}} (denoting one octave lower in [[Cantonese opera]]) + {{zh-l|上|tr=saang<sup>3</sup>}}.
+
+====Pronunciation====
+{{zh-pron
+|c=saang3
+|cat=n
+}}
+
+# {{lb|zh|music}} {{ng|[[Cantonese opera]] [[gongche]] [[notation]] for the [[note]] [[low do]] (1̣).}}
+#: {{zh-syn|𪛚|q1=Kunqu}}
+
+===Etymology 3===
 {{zh-see|長|v}}
 
 ===References===
