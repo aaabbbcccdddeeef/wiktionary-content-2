@@ -18,7 +18,9 @@
 ===Glyph origin===
 {{Han etym}}
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 {{zh-pron
 |m=hóng
 |c=hung4
@@ -28,7 +30,7 @@
 |cat=n,a
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
 # [[big]] [[belly]]; [[potbellied]]
@@ -36,8 +38,37 @@
 # {{zh-alt-form|龓}}
 # {{zh-alt-form|肛}}
 
+===Etymology 2===
+From {{zh-l|*亻}} (denoting one octave higher in [[Kunqu]]) + {{zh-l|工}}.
+
+====Pronunciation====
+{{zh-pron
+|m=gōng
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|music}} {{ng|[[Kunqu]] [[gongche]] [[notation]] for the [[note]] [[high mi]] (3̇).}}
+#: {{zh-syn|𢓁|q1=Cantonese opera}}
+
+===Etymology 3===
+From {{zh-l|*亻}} (denoting one octave lower in [[Cantonese opera]]) + {{zh-l|工|tr=gung<sup>1</sup>}}.
+
+====Pronunciation====
+{{zh-pron
+|c=gung1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|music}} {{ng|[[Cantonese opera]] [[gongche]] [[notation]] for the [[note]] [[low mi]] (3̣).}}
+#: {{zh-syn|𪛜|q1=Kunqu}}
+
 ===References===
-* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]
 * {{R:DKJ}}
 
 ----
