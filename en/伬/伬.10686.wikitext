@@ -13,21 +13,32 @@
 ==Chinese==
 {{zh-forms}}
 
-===Pronunciation===
+===Etymology 1===
+From {{zh-l|*亻}} (denoting one octave higher in [[Kunqu]]) + {{zh-l|尺|chě}}.
+
+====Pronunciation====
 {{zh-pron
-|m=chǐ,ze
-|c=cek3
-|mc=
-|oc=
-|ma=
+|m=chě
 |cat=n
 }}
 
-===Definitions===
+====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|zh}}
+# {{lb|zh|music}} {{ng|[[Kunqu]] [[gongche]] [[notation]] for the [[note]] [[high re]] (2̇).}}
+#: {{zh-syn|鿈|q1=Cantonese opera}}
 
-====References====
-* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 63]
-* [http://www.cns11643.gov.tw/AIDB/query_general_view.do?page=2&code=216C Chinese National Standards (Master Ideographs Seeker for CNS 11643)]
+===Etymology 2===
+From {{zh-l|*亻}} (denoting one octave lower in [[Cantonese opera]]) + {{zh-l|尺|tr=ce<sup>2</sup>, ce<sup>1</sup>}}.
+
+====Pronunciation====
+{{zh-pron
+|c=ce2,ce1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|music}} {{ng|[[Cantonese opera]] [[gongche]] [[notation]] for the [[note]] [[low re]] (2̣).}}
+#: {{zh-syn|𪛛|q1=Kunqu}}
