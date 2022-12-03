@@ -35,19 +35,50 @@
 ----
 
 ==Japanese==
-{{ja-kanji forms|k=y}}
+{{ja-kanji forms-IVS
+|vs1=01
+|vs2=03
+|col-vs1=aj
+|col-vs2=hdmj
+|pic-shin=U71ff-j.svg
+|pic-kyu=U71ff-kyu.svg
+|ref={{R:ja:KDJ|1383|742}}
+}}
 
 ===Kanji===
 {{ja-kanji|grade=|rs=火14}}
 
-# {{rfdef|ja|sort=火14}}
+# [[shine]]
+#: {{syn|ja|曜}}
+# [[sparkle]]
+#: {{syn|ja|曜}}
 
 ====Readings====
 {{ja-readings
 |goon=よう<えう
 |kanon=よう<えう
-|kun=かがや-く
+|kun=かがや-く, ひかり-
+|nanori=てる
 }}
+
+====Compounds====
+{{col2-u|ja
+|{{ja-r|燿%日|よう%じつ}}
+|{{ja-r|燿%爍|よう%しゃく}}
+|{{ja-r|燿%徳|よう%とく}}
+|{{ja-r|燿%燿|よう%よう}} ({{ja-r|耀%耀|よう%よう|rom=-}}, {{ja-r|曜%曜|よう%よう|rom=-}})
+|{{ja-r|燿%霊|よう%れい}} ({{ja-r|耀%霊|よう%れい|rom=-}}, {{ja-r|曜%霊|よう%れい|rom=-}})
+|{{ja-r|赫%燿|かく%やく}} ({{ja-r|赫%耀|かく%やく|rom=-}})
+|{{ja-r|輝%燿|き%よう}}
+|{{ja-r|玄%燿|げん%よう}}
+|{{ja-r|炫%燿|げん%よう}} ({{ja-r|炫%耀|げん%よう|rom=-}})
+|{{ja-r|眩%燿|げん%よう}} ({{ja-r|眩%耀|げん%よう|rom=-}})
+|{{ja-r|焜%燿|こん%よう}}
+|{{ja-r|流%燿|りゅう%よう}}
+}}
+
+===References===
+<references/>
 
 ----
 
