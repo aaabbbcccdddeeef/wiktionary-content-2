@@ -30,7 +30,7 @@ In Chinese, the bottom right component is {{l|mul|母}} with 2 dots, yielding <s
 {{Han compound|水|每|c1=s|c2=p|alt1=氵|t1=water|ls=psc}}.
 
 ===Etymology===
-Probably related to {{och-l|晦|dark}}; in numerous [[Zhou]] texts {{lang|zh|海}} is described as {{lang|zh|晦}} ({{zh-ref|Schuessler, 2007}}). Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
+Probably related to {{och-l|晦|dark}}; in numerous [[Zhou]] texts {{lang-lite|zh|sc=Hani|海}} is described as {{lang-lite|zh|sc=Hani|晦}} ({{zh-ref|Schuessler, 2007}}). Compare the parallelism in Chinese: {{och-l|溟|ocean}} < {{och-l|冥|dark}}.
 
 STEDT compares {{och-l|海}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dark; sullen; menacing; thunder}}.
 
@@ -185,12 +185,12 @@ STEDT compares {{och-l|海}} to {{inh|zh|sit-pro|*muːŋ ~ r/s-muːk||foggy; dar
 {{wp|Ocean}}
 {{IPAfont|⟨umi<sub>1</sub>⟩}} → *{{IPAchar|/umij/}} → {{IPAchar|/umi/}}
 
-From {{inh|ja|ojp|sort=うみ|-}}, theorized as descending from {{inh|ja|jpx-pro|*omi}}.
+From {{inh-lite|ja|ojp|sort=うみ|-}}, theorized as descending from {{inh|ja|jpx-pro|*omi}}.
 
 Has been thought to have been derived from a compound. There are two leading theories regarding the ultimate derivation:
-* Shift from {{m|ja|大|tr=ō-||[[big]], [[great]]}} + {{m|ja|水|tr=mi||[[water]]|pos=combining form}}.<ref>{{R:Nipponica}}</ref>
-: This is problematic phonetically because there is no known term having a related shift from {{IPAchar|/opo/}} → {{IPAchar|/oː/}} → {{IPAchar|/o/}} → {{IPAchar|/u/}}, and semantically as there already exists a compound {{m|ja|大水|tr=ōmizu||[[flood]]}}.
-* From {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|水|tr=mi||water|pos=combining form}}. The ''u-'' stem is evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}, and in the {{m|ja|海|tr=una}} element in various ancient terms (see below).
+* Shift from {{m-lite|ja|大|sc=Jpan|tr=ō-||[[big]], [[great]]}} + {{m-lite|ja|水|sc=Jpan|tr=mi||[[water]]|pos=combining form}}.<ref>{{R:Nipponica}}</ref>
+: This is problematic phonetically because there is no known term having a related shift from {{IPAfont|/opo/}} → {{IPAfont|/oː/}} → {{IPAfont|/o/}} → {{IPAfont|/u/}}, and semantically as there already exists a compound {{m-lite|ja|大水|sc=Jpan|tr=ōmizu||[[flood]]}}.
+* From {{m-lite|ja|う|sc=Jpan|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m-lite|ja|水|sc=Jpan|tr=mi||water|pos=combining form}}. The ''u-'' stem is evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m-lite|ja|潮|sc=Jpan|tr=ushio||[[salt water]]; [[tide]]}}, and in the {{m-lite|ja|海|sc=Jpan|tr=una}} element in various ancient terms (see below).
 
 ====Pronunciation====
 {{ja-pron|うみ|acc=1|acc_ref=NHK,DJR}}
@@ -206,11 +206,11 @@ Has been thought to have been derived from a compound. There are two leading the
 #: {{synonyms|ja|湖|tr=mizuumi}}
 # {{lb|ja|sort=うみ|figurative}} an [[object]] [[cover]]ing over a [[large]] [[area]], as in {{m|ja|血の海|tr=chi no umi||pool of [[blood]]}} or {{m|ja|火の海|tr=hi no umi||sea of [[fire]]}}
 # {{lb|ja|sort=うみ|planetology}} a [[mare]] {{gloss|[[dark]] [[surface]] of a [[celestial]] [[body]], thought to appear like a sea}}
-# {{lb|ja|sort=うみ|calligraphy}} in a {{m|ja|硯|tr=suzuri||[[inkstone]]}}, a [[reservoir]] where [[water]] is [[store]]d
+# {{lb|ja|sort=うみ|calligraphy}} in a {{m-lite|ja|硯|sc=Jpan|tr=suzuri||[[inkstone]]}}, a [[reservoir]] where [[water]] is [[store]]d
 #: {{synonyms|ja|池|tr=ike}}
 
 =====Usage notes=====
-This is the most common general term in modern Japanese for ''{{m|en|sea}}'' or ''{{m|en|ocean}}''.
+This is the most common general term in modern Japanese for ''{{m-lite|en|sea}}'' or ''{{m-lite|en|ocean}}''.
 
 =====Derived terms=====
 {{der-top}}
@@ -252,7 +252,7 @@ This is the most common general term in modern Japanese for ''{{m|en|sea}}'' or 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|うな}}
 
-From {{inh|ja|ojp|sort=うな|-}}.  Thought to be comprised of {{m|ja|う|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m|ja|な|tr=na|pos=ancient alternative form of possessive particle {{ja-r|の}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The ''u-'' stem is also evident in {{m|ja|魚|tr=uo||[[fish]]}} and {{m|ja|潮|tr=ushio||[[salt water]]; [[tide]]}}.
+From {{inh|ja|ojp|sort=うな|-}}.  Thought to be comprised of {{m-lite|ja|う|sc=Jpan|tr=u-|pos=stem indicating “[[ocean]]”}} + {{m-lite|ja|な|sc=Jpan|tr=na|pos=ancient alternative form of possessive particle {{ja-r|の}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The ''u-'' stem is also evident in {{m-lite|ja|魚|sc=Jpan|tr=uo||[[fish]]}} and {{m-lite|ja|潮|sc=Jpan|tr=ushio||[[salt water]]; [[tide]]}}.
 
 First cited to the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref name="KDJ"/>
 
@@ -315,7 +315,7 @@ Either cognate with {{m|ja|水|tr=mi||[[water]]}}, or an abbreviation of ''umi''
 ===Etymology 5===
 {{ja-kanjitab|かい|yomi=on}}
 
-From {{der|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
+From {{der-lite|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
 
 ====Pronunciation====
 {{ja-pron|かい}}
@@ -333,7 +333,7 @@ From {{der|ja|ltc|sort=かい|-}} {{ltc-l|海}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=해|-}} {{ltc-l|海}}.
+From {{der-lite|ko|ltc|sort=해|-}} {{ltc-l|海}}.
 {{hanja-ety
 |dk={{okm-l|ᄒᆡᆼ〯|hǒy|link=no}}
 |m={{okm-l|ᄒᆡ〯|hǒy}}
