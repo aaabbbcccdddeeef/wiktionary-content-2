@@ -14,7 +14,7 @@ Note that in simplified Chinese and Vietnamese scripts, [[亡]] is written with 
 {{Han char|rn=74|rad=月|as=07|sn=11|four=07104|canj=YBHG,YBMG|ids=⿱⿰亡月王(GJKV),⿱⿰亡⿴𠂊⺀𡈼(HT)}}
 
 ====Derived characters====
-*{{l|mul|[[𥊛]], [[𠻾]], [[𧫢]], [[𦹑]], [[𥲠]], [[𭩌]]}}
+*{{lang-lite|sc=Hani|mul|[[𥊛]], [[𠻾]], [[𧫢]], [[𦹑]], [[𥲠]], [[𭩌]]}}
 
 ====References====
 {{Han ref|kx=0505.290|dkj=14368|dj=0884.230|hdz=32080.020|uh=671B|ud=26395|bh=B1E6|bd=45542}}
@@ -33,7 +33,7 @@ Originally written {{zh-l|*𦣠}}, an {{Han compound|臣|𡈼|ls=ic|t1=eye|t2=pe
 The {{zh-l|*臣}} component is now written {{zh-l|*亡}}, making the current form a {{Han compound|亡|月|𡈼|ls=psc|c1=p|c2=s|c3=s|t2=|t3=|nocap=y}}.
 
 ===Etymology===
-From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
+From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog-lite|my|မြင်|sc=Mymr|tr=mrang}}.
 
 ===Pronunciation===
 {{zh-pron
@@ -88,7 +88,7 @@ From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
 #: {{zh-x|地望|geographical location; geography}}
 # {{lb|zh|Chinese astronomy}} the day or night of the [[full moon]]
 #: {{zh-x|朔望月|synodic month}}
-#* {{zh-x|壬戌 之 秋，七月 既-望，^蘇-子 與 客 泛舟 遊 於 ^赤壁 之 下。|In the year 1081, the seventh moon just on the wane, I went with a friend on a boat excursion to the Red Wall.|CL|ref=1082, {{w|Su Shi}} ({{lw|zh|蘇軾}}), ''[[s:Gems of Chinese Literature/Su Tung-P‘o-The Red Wall: Summer|The Red Wall: Summer]]'' ({{lang|zh|《[[s:zh:前赤壁賦|前赤壁賦]]》}}). English translation by {{w|Herbert Allen Giles}}.}}
+#* {{zh-x|壬戌 之 秋，七月 既-望，^蘇-子 與 客 泛舟 遊 於 ^赤壁 之 下。|In the year 1081, the seventh moon just on the wane, I went with a friend on a boat excursion to the Red Wall.|CL|ref=1082, {{w|Su Shi}} ({{lw|zh|蘇軾}}), ''[[s:Gems of Chinese Literature/Su Tung-P‘o-The Red Wall: Summer|The Red Wall: Summer]]'' ({{lang-lite|zh|sc=Hani|《[[s:zh:前赤壁賦|前赤壁賦]]》}}). English translation by {{w|Herbert Allen Giles}}.}}
 
 ====Synonyms====
 {{zh-dial|看}}
@@ -157,7 +157,7 @@ From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog|my|မြင်}}.
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|sort=망|-}} {{ltc-l|望|id=2}}. {{hanja-hunmong|마ᇰ〯|mǎng|天文#상02A}}
+From {{der-lite|ko|ltc|sort=망|-}} {{ltc-l|望|id=2}}. {{hanja-hunmong|마ᇰ〯|mǎng|天文#상02A}}
 
 ===Pronunciation===
 {{ko-hanja-pron|망|l=y}}
