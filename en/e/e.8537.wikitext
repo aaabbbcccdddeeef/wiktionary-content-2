@@ -21,7 +21,7 @@ Modification of capital letter {{m-lite|mul|E}} in [[uncial]] script, from {{der
 ====See also====
 {{Latn-script}}
 * {{qualifier|select similar letters and symbols}} [[ɘ]] [[ǝ]] [[Ə]] [[Ɛ]] [[Æ]] [[Œ]]
-* {{qualifier|other scripts}} {{m|mul|sc=Grek|ε|tr=e||[[epsilon]]}} {{m|mul|sc=Cyrl|е|tr=je}}
+* {{qualifier|other scripts}} {{m-lite|mul|sc=Grek|ε|tr=e||[[epsilon]]}} {{m-lite|mul|sc=Cyrl|е|tr=je}}
 * See [[Appendix:Variations of "e"]]
 
 ===Symbol===
@@ -80,7 +80,7 @@ From {{inh-lite|en|enm|-}} and {{inh-lite|en|ang|-}} lower case letter {{m-lite|
 * {{sense|letter name}} {{IPA-lite|en|/iː/}}
 ** {{audio|en|En-uk-e.ogg|Audio (UK)}}
 ** {{audio|en|en-us-e.ogg|Audio (US)}}
-** {{rhymes|en|iː|s=1}}
+** {{rhymes-lite|en|iː|s=1}}
 * {{sense|phoneme}} {{IPA-lite|en|/ɛ/|/iː/|/ɪ/|/ə/|/eɪ/}}
 ** In addition to the phonemes noted above, "e" can also be silent, representing no sound itself but indicating which phoneme another letter in the word represents. See the article "[[w:Silent e|Silent e]]" on Wikipedia.
 
@@ -334,7 +334,7 @@ It contracts with the articles, see [[el#Breton|el]], [[en#Breton|en]] and [[er#
 ==Catalan==
 
 ===Pronunciation===
-* {{rhymes|ca|e|s=1}}
+* {{rhymes-lite|ca|e|s=1}}
 
 ===Noun===
 {{ca-noun|f}}
@@ -460,7 +460,7 @@ From {{inh-lite|dlm|la|et}}.
 
 ===Pronunciation===
 * {{audio|nl|Nl-e.ogg|Audio}}
-* {{rhymes|nl|eː|s=1}}
+* {{rhymes-lite|nl|eː|s=1}}
 * {{sense|letter name}} {{IPA-lite|nl|/eː/}}
 
 ===Letter===
@@ -548,7 +548,7 @@ From {{inh-lite|egl|la|et}}, ultimately from {{der|egl|ine-pro|*éti}}.
 
 ===Pronunciation===
 * {{IPA-lite|fo|/eː/}}
-* {{rhymes|fo|eː|s=1}}
+* {{rhymes-lite|fo|eː|s=1}}
 
 ===Letter===
 {{head-lite|fo|letters|upper case|E|langname=Faroese}}
@@ -687,7 +687,7 @@ From {{inh-lite|gl|la|et}}.
 ==Guinea-Bissau Creole==
 
 ===Etymology===
-From {{der-lite|pov|pt|e}}. Cognate with {{cog|kea|e}}.
+From {{der-lite|pov|pt|e}}. Cognate with {{cog-lite|kea|e}}.
 
 ===Conjunction===
 {{head-lite|pov|conjunctions|langname=Guinea-Bissau Creole}}
@@ -741,12 +741,12 @@ From {{der-lite|pov|pt|e}}. Cognate with {{cog|kea|e}}.
 ==Hungarian==
 
 ===Etymology 1===
-From {{der|hu|urj-pro|*e-}}. Cognates include {{cog|fi|että}} and {{cog|et|et}}.<ref>{{R:Uralonet|125}}</ref>
+From {{der|hu|urj-pro|*e-}}. Cognates include {{cog-lite|fi|että}} and {{cog-lite|et|et}}.<ref>{{R:Uralonet|125}}</ref>
 
 ====Pronunciation====
 * {{hu-IPA}}
 * {{audio|hu|Hu-e.ogg|Audio}}
-* {{rhymes|hu|ɛ|s=1}}
+* {{rhymes-lite|hu|ɛ|s=1}}
 
 ====Determiner====
 {{head-lite|hu|determiners|demonstrative|langname=Hungarian}}
@@ -1027,14 +1027,14 @@ From {{der-lite|kea|pt|e}}.
 
 # there are [[many]], there is [[much]]
 # to [[be]] [[a lot]] (for someone); to [[displease]]; to [[surprise]]
-#: {{ux|kgp|{{l|kgp|ag|Ag}} mỹ tóg '''e''' {{l|kgp|tĩ}}.|t=They '''were surprised'''.|lit=it was a lot for them.}}
+#: {{ux-lite|kgp|{{l-lite|kgp|ag|Ag}} mỹ tóg '''e''' {{l-lite|kgp|tĩ}}.|t=They '''were surprised'''.|lit=it was a lot for them.}}
 
 ----
 
 ==Kosraean==
 
 ===Etymology===
-From {{inh|kos|poz-oce-pro|*api}}, from {{inh|kos|poz-pro|*hapuy}}, from {{inh|kos|map-pro|*Sapuy}}. Compare {{cog|ms|api}}, {{cog|mg|afo}}, {{cog|huq|pui³³}}, {{cog|pau|ngau}}, {{cog|chk|ááf}}, {{cog|to|afi}}, {{cog|sm|afi}} and {{cog|haw|ahi}}.
+From {{inh|kos|poz-oce-pro|*api}}, from {{inh|kos|poz-pro|*hapuy}}, from {{inh|kos|map-pro|*Sapuy}}. Compare {{cog-lite|ms|api}}, {{cog-lite|mg|afo}}, {{cog|huq|pui³³}}, {{cog-lite|pau|ngau}}, {{cog|chk|ááf}}, {{cog-lite|to|afi}}, {{cog-lite|sm|afi}} and {{cog-lite|haw|ahi}}.
 
 ===Pronunciation===
 * {{IPA-lite|kos|/e/}}
@@ -1716,7 +1716,7 @@ From {{inh-lite|pt|roa-opt|e||and}}, from {{inh-lite|pt|la|et||and}}, from {{inh
 See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
-* {{hyphenation|pt|e}}
+* {{hyph-lite|pt|e}}
 
 '''Letter''':
 * {{a|Portugal|Brazil}} {{IPA-lite|pt|/ˈɛ/|/ˈe/}}
@@ -1757,10 +1757,10 @@ Abbreviation of {{m-lite|pt|este}}
 
 ===Pronunciation===
 * {{IPA-lite|rap|/ˈe/}}
-* {{hyph|rap|e}}
+* {{hyph-lite|rap|e}}
 
 ===Etymology 1===
-From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|mi|e}}.
+From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog-lite|haw|e}} and {{cog-lite|mi|e}}.
 
 ====Particle====
 {{head-lite|rap|particles|langname=Rapa Nui}}
@@ -1774,7 +1774,7 @@ From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|mi|e}}
 * With other verbs, '''''e''''' has an emphatic undertone.
 
 ===Etymology 2===
-From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|mi|e}}.
+From {{inh|rap|poz-pol-pro|*e}}. Cognates include {{cog-lite|haw|e}} and {{cog-lite|mi|e}}.
 
 ====Particle====
 {{head-lite|rap|particles|langname=Rapa Nui}}
@@ -1947,7 +1947,7 @@ From {{inh-lite|sdc|la|et}}, ultimately from {{inh|sdc|ine-pro|*éti}} or {{m|in
 
 ===Etymology===
 {{dercat|gd|cel-pro|ine-pro|inh=2}}
-From {{inh-lite|gd|sga|é}}. Cognates include {{cog|ga|é}} and {{cog|gv|eh}}.
+From {{inh-lite|gd|sga|é}}. Cognates include {{cog|ga|é}} and {{cog-lite|gv|eh}}.
 
 ===Pronunciation===
 * {{IPA-lite|gd|/ˈɛ/}}
@@ -2050,7 +2050,7 @@ From Gaj's Latin alphabet {{m-lite|sh|e}}, from {{der-lite|mul|cs|-}} alphabet {
 * {{qualifier|letter name}}: {{sl-IPA|ẹ̄}}
 * {{qualifier|letter name|archaic}}: {{sl-IPA|ē}}
 * {{audio|sl|Sl-nt-e.ogg|Audio (letter name, non-tonal)}}
-* {{rhymes|sl|eː|ɛː}}
+* {{rhymes-lite|sl|eː|ɛː}}
 * {{homophones|sl|e|E}}
 
 ====Letter====
@@ -2094,7 +2094,7 @@ Variant of {{m-lite|sl|ej}} or {{m-lite|sl|hej}}
 * {{sl-IPA|ẹ̄}}
 * {{q|third definition also}}: {{IPA-lite|sl|[ẽ́ː]|[ẽ̀ː]}}
 * {{audio|sl|Sl-nt-e.ogg|Audio}}
-* {{rhymes|sl|eː|ẽː}}
+* {{rhymes-lite|sl|eː|ẽː}}
 * {{homophones|sl|e|E}}
 
 ====Interjection====
@@ -2113,7 +2113,7 @@ Variant of {{m-lite|sl|ej}} or {{m-lite|sl|hej}}
 
 ====Pronunciation====
 * {{sl-IPA|ȅ}}
-* {{rhymes|sl|ɛ}}
+* {{rhymes-lite|sl|ɛ}}
 * {{homophones|sl|e|E}}
 
 ====Interjection====
@@ -2155,7 +2155,7 @@ Variant of {{m-lite|sl|ej}} or {{m-lite|sl|hej}}
 {{es-IPA}}
 * {{audio|es|letter e es es.flac|Audio (Spain)}}
 * {{homophones|es|he|hé}}
-* {{rhymes|es|e|s=1}}
+* {{rhymes-lite|es|e|s=1}}
 
 ===Etymology 1===
 See [[#Translingual|Translingual section]].
@@ -2291,10 +2291,10 @@ From {{inh-lite|sv|non|æ}}, {{m-lite|non|ei}}, {{m-lite|non|ey}}, from {{inh|sv
 
 ===Pronunciation===
 * {{IPA-lite|tkl|/ˈe/}}
-* {{hyph|tkl|e}}
+* {{hyph-lite|tkl|e}}
 
 ===Etymology 1===
-From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|sm|e}}.
+From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog-lite|haw|e}} and {{cog-lite|sm|e}}.
 
 ====Preposition====
 {{head-lite|tkl|prepositions|langname=Tokelauan}}
@@ -2303,7 +2303,7 @@ From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|sm|e}}
 
 ===Etymology 2===
 {{dercat|tkl|poz-oce-pro|inh=1}}
-From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog|haw|e}} and {{cog|sm|e}}.
+From {{inh|tkl|poz-pol-pro|*e}}. Cognates include {{cog-lite|haw|e}} and {{cog-lite|sm|e}}.
 
 ====Particle====
 {{head-lite|tkl|particles|langname=Tokelauan}}
@@ -2396,7 +2396,7 @@ Borrowed from {{bor-lite|vi|pt|é}}.
 # {{Latn-def-lite|vi|name|E|e|langname=Vietnamese}}
 
 ===Etymology 2===
-Compare {{cog|pac|e||to guard, to watch over}}.
+Compare {{cog-lite|pac|e||to guard, to watch over}}.
 
 ====Verb====
 {{vi-verb|{{vi-l|衣}}, {{vi-l|㥋}}, {{vi-l|𢙬}}, {{vi-l|𠵱}}, {{vi-l|𠲖}}, {{vi-l|依}}}}
@@ -2468,7 +2468,7 @@ Compare {{cog|pac|e||to guard, to watch over}}.
 
 ====Pronunciation====
 * {{IPA-lite|cy|/eː/}}
-* {{rhymes|cy|eː|s=1}}
+* {{rhymes-lite|cy|eː|s=1}}
 
 ====Letter====
 {{cy-letter|upper=E|lower=e}}
