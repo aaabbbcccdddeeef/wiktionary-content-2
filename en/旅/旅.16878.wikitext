@@ -78,9 +78,11 @@
 |vs2=03
 |col-vs1=aj
 |col-vs2=hdmj
+|pic-shin=U65c5-j.svg
 |pic-kyu=Uf983.svg
-|ref={{R:ja:KDJ|1042|572}}
-|ref2={{R:ja:SKJ|632|329}}
+|ref={{R:Jitsu}}
+|ref2={{R:ja:KDJ|1042|572}}
+|ref3={{R:ja:SKJ|632|329}}
 }}
 
 ===Kanji===
@@ -89,31 +91,42 @@
 # [[trip]]
 # [[travel]]
 
+====Alternative forms====
+* {{ja-l|捛}}
+
 ====Readings====
 {{ja-readings
-|goon=ろ
-|kanon=りょ
+|goon=ろ<ろ
+|kanon=りょ<りよ
 |kun=たび-, つら-ねる, なら-ぶ
-|nanori=たか, たび, もろ
+|nanori=たか, もろ
 }}
 
 ====Compounds====
-{{col2|ja|sort=0
+{{col2-u|ja
 |{{ja-r|旅%先|たび%さき|[[destination]]}}
 |{{ja-r|旅%路|たび%じ|[[route]], [[itinerary]]; [[journey]]}}
 |{{ja-r|旅%立ち|たび%だち|[[departure]] {{qualifier|on a trip}}}}
 |{{ja-r|旅%人|たび%びと|[[traveller]]}}
+|{{ja-r|旅%衣|りょ%い}}
+|{{ja-r|旅%逸|りょ%いつ}}
+|{{ja-r|旅%飲|りょ%いん}}
 |{{ja-r|旅%鬱|りょ%うつ}}
 |{{ja-r|旅%懐|りょ%かい}}
 |{{ja-r|旅%客|りょ%かく|[[passenger]]}}
+|{{ja-r|旅%宦|りょ%かん}}
 |{{ja-r|旅%館|りょ%かん|[[inn]]}}
 |{{ja-r|旅%雁|りょ%がん}}
 |{{ja-r|旅%客|りょ%きゃく}}
+|{{ja-r|旅%況|りょ%きょう}}
 |{{ja-r|旅%銀|りょ%ぎん}}
 |{{ja-r|旅%具|りょ%ぐ}}
 |{{ja-r|旅%寓|りょ%ぐう}}
+|{{ja-r|旅%見|りょ%けん}}
 |{{ja-r|旅%券|りょ%けん|[[passport]]}}
 |{{ja-r|旅%行|りょ%こう|trip, travel, [[voyage]]}}
+|{{ja-r|旅%魂|りょ%こん}}
+|{{ja-r|旅%恨|りょ%こん}}
 |{{ja-r|旅%祭|りょ%さい}}
 |{{ja-r|旅%思|りょ%し}}
 |{{ja-r|旅%次|りょ%じ}}
@@ -127,6 +140,7 @@
 |{{ja-r|旅%食|りょ%しょく}}
 |{{ja-r|旅%信|りょ%しん}}
 |{{ja-r|旅%人|りょ%じん}}
+|{{ja-r|旅%炊|りょ%すい}}
 |{{ja-r|旅%帥|りょ%すい}}
 |{{ja-r|旅%生|りょ%せい}}
 |{{ja-r|旅%荘|りょ%そう}}
@@ -136,40 +150,57 @@
 |{{ja-r|旅%団|りょ%だん|[[brigade]]}}
 |{{ja-r|旅%中|りょ%ちゅう}}
 |{{ja-r|旅%鳥|りょ%ちょう}}
+|{{ja-r|旅%枕|りょ%ちん}}
 |{{ja-r|旅%陳|りょ%ちん}}
 |{{ja-r|旅%程|りょ%てい}}
 |{{ja-r|旅%亭|りょ%てい}}
 |{{ja-r|旅%店|りょ%てん}}
+|{{ja-r|旅%途|りょ%と}}
 |{{ja-r|旅%囊|りょ%のう}}
 |{{ja-r|旅%泊|りょ%はく}}
+|{{ja-r|旅%伴|りょ%はん}}
 |{{ja-r|旅%費|りょ%ひ|travel [[expense]]s}}
+|{{ja-r|旅%夢|りょ%む}}
+|{{ja-r|旅%夜|りょ%や}}
 |{{ja-r|旅%用|りょ%よう}}
+|{{ja-r|旅%路|りょ%りょ}}
 |{{ja-r|旅%力|りょ%りょく}} ({{ja-r|膂%力|りょ%りょく|rom=-}})
+|{{ja-r|亜%旅|あ%りょ}}
+|{{ja-r|逸%旅|いつ%りょ}}
+|{{ja-r|客%旅|かく%りょ}}
 |{{ja-r|羇%旅|き%りょ|rom=-}}, {{ja-r|羈%旅|き%りょ}}
+|{{ja-r|彊%旅|きょう%りょ}}
 |{{ja-r|軍%旅|ぐん%りょ}}
 |{{ja-r|逆%旅|げき%りょ}}
 |{{ja-r|行%旅|こう%りょ}}
 |{{ja-r|戎%旅|じゅう%りょ}}
 |{{ja-r|師%旅|し%りょ}}
+|{{ja-r|商%旅|しょう%りょ}}
+|{{ja-r|振%旅|しん%りょ}}
+|{{ja-r|晨%旅|しん%りょ}}
 |{{ja-r|征%旅|せい%りょ}}
+|{{ja-l|儔旅}}
+|{{ja-r|賓%旅|ひん%りょ}}
 |{{ja-r|船%旅|ふな%たび|traveling by boat; [[cruise]]}}
+|{{ja-r|遊%旅|ゆう%りょ}}
+|{{ja-r|盧%旅|ろ%りょ}}
 }}
 
 ===Etymology 1===
-{{ja-kanjitab|yomi=o|りょ}}
+{{ja-kanjitab|yomi=kanon|りょ}}
 From {{der|ja|ltc|-|sort=りょ}} {{ltc-l|旅|a military unit of 500 men; to go [on a sortie; on a trip or journey]}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanon|りょ|acc=1|acc_ref=DJR}}
+{{ja-pron|りょ|acc=1|acc_ref=DJR}}
 
 ====Noun====
-{{ja-noun|りょ}}
+{{ja-noun|りょ|hhira=りよ}}
 
 # in ancient China, a [[military]] [[unit]] of 500 [[soldier]]s
 # one of the [[I Ching]] [[hexagram]]s: [[sojourning]] ([[w:List_of_hexagrams_of_the_I_Ching#Hexagram_56|''I Ching hexagram interpretation on Wikipedia here'']])
 
 ====Prefix====
-{{ja-pos|prefix|りょ}}
+{{ja-pos|prefix|りょ|hhira=りよ}}
 
 # a [[trip]], a [[journey]], [[travel]]
 
@@ -185,20 +216,20 @@ From {{inh|ja|ojp|-|sort=たび}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> A
 May be cognate with {{m|ja|度|tr=tabi||the time when something happens}}; both terms have the same pitch accent, the same ancient vowel values, and some semantic overlap.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|たび|acc=2|acc_ref=DJR}}
+{{ja-pron|たび|acc=2|acc_ref=DJR,SMK7}}
 
 ====Noun====
-{{ja-noun|たび}}
+{{ja-noun|たび|hhira=たび}}
 
 # a [[journey]]; [[travel]]
 #* '''1694''', 松尾芭蕉 [[w:Matsuo Bashō|Matsuo Bashō]]
-#*: {{ja-usex|'''旅'''に病んで夢は枯野をかけ廻る。|'''たび''' に やんで ゆめ は かれの を かけめぐる。|Anxious to go '''journeying''', my dreams run through the desolate fields.}}
-#*: {{ja-usex|不思議な'''旅'''が始まるぜ！|ふしぎ な '''たび''' が はじまる ぜ！|A strange '''journey''' is about to begin!}}
+#*: {{ja-usex|'''旅'''に[[病む|病ん]]で[[夢]]は[[枯%野]]を[[かけ廻る]]。|'''たび''' に やんで ゆめ は かれ%の を かけめぐる。|Anxious to go '''journeying''', my dreams run through the desolate fields.}}
+#: {{ja-usex|[[不%思%議]]な'''旅'''が[[始まる]]ぜ！|ふ%し%ぎ な '''たび''' が はじまる ぜ！|A strange '''journey''' is about to begin!}}
 # {{lb|ja|sort=たび|archaic}} a [[temporary]] [[time]] spent in a place
 # {{qualifier|more specifically}} a [[place]] where a {{m|ja|神輿|tr=mikoshi||portable shrine}} spends a [[temporary]] [[time]] outside of the {{m|ja|本宮|tr=hongū||main shrine building}} during a {{m|ja|祭り|tr=matsuri||festival}}
 
 ====Verb====
-{{ja-verb-suru|たび|tr=intrans}}
+{{ja-verb-suru|たび|hhira=たび|tr=intrans}}
 
 # to [[travel]], to [[go]] on a [[journey]] or [[trip]]
 
