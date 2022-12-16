@@ -111,13 +111,14 @@ Starostin compares it with {{cog|pdu||sʰôn|mountain}}.
 * {{see derivation subpage|Japanese}}
 
 ===Etymology 1===
-<div style="float:right;">
+{{etymid|ja|yama}}
+{{ja-kanjitab|やま|yomi=k}}
 {{wp|lang=ja}}
 {{wp|Mountain}}
-</div>
-{{ja-kanjitab|やま|yomi=k}}
 
-From {{inh|ja|ojp|sort=やま|-}}.
+From {{inh|ja|ojp|sort=やま|-}}.  First cited in the ''{{w|Kojiki}}'' of 712.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+Reconstructed as deriving in turn from {{inh|jpx-ryu-pro|jpx-pro|*yama||forest; mountain}}.
 
 ====Pronunciation====
 {{ja-pron|やま|acc=2|acc_ref=DJR,NHK}}
@@ -181,10 +182,15 @@ From {{inh|ja|ojp|sort=やま|-}}.
 # {{surname|ja|sort=やま}}
 
 ===Etymology 2===
+{{etymid|ja|san}}
 {{ja-kanjitab|さん|yomi=kanon}}
 From {{der|ja|ltc|sort=さん|-}} {{ltc-l|山}}.
 
 Sometimes spelled with {{rendaku|sort=さん}}, as ''-zan''.
+
+====Pronunciation====
+{{ja-pron|さん}}
+{{ja-pron|ざん|acc_note=suffix with [[rendaku]]}}
 
 ====Suffix====
 {{ja-pos|suffix|さん}}
@@ -205,11 +211,15 @@ Sometimes spelled with {{rendaku|sort=さん}}, as ''-zan''.
 # {{short for|ja|比叡山|tr=Hieizan|nodot=1|sort=さん}}: {{w|Mount Hiei}}
 
 ===Etymology 3===
+{{etymid|ja|mure}}
 {{ja-kanjitab|むれ|yomi=i|alt=牟礼}}
 
-From {{inh|ja|ojp|-}}, itself apparently a borrowing from {{bor|ja|oko|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR"/><ref>{{R:Daijisen}}</ref> See {{cog|ko|뫼}} for more.
+From {{inh|ja|ojp|-}}, itself apparently a borrowing from {{bor|ja|oko|-}}.<ref name="DJR"/><ref name="KDJ2-mure">{{R:Nihon Kokugo Daijiten 2|牟礼・山}}</ref><ref name="DDJS">{{R:Digital-Daijisen}}</ref> See {{cog|ko|뫼}} for more.
 
-The phonetic {{w|man'yōgana}} spelling {{m|ja|牟礼}} for ''mure'' appears first in the ''{{w|Kojiki}}'' of 720, but instead for the stem of verb {{m|ja|群れる|tr=mureru||to group together}}.<ref name="KDJ-mureru">{{R:Kokugo Dai Jiten}}, entry online [https://kotobank.jp/word/%E7%BE%A4-58284#E7.B2.BE.E9.81.B8.E7.89.88.20.E6.97.A5.E6.9C.AC.E5.9B.BD.E8.AA.9E.E5.A4.A7.E8.BE.9E.E5.85.B8 here]</ref>  The first instance of this spelling for the {{m|en|mountain}} sense is in the {{w|Heian period}}, in different {{w|lang=ja|日本書紀私記}} (''Nihon Shoki Shiki'') versions, themselves [[recompilation]]s of the ''{{w|Nihon Shoki}}''.<ref name="KDJ"/>  This reading with this sense apparently arises from the traditional {{m|ja|訓読|tr=kundoku}} of a particular section of the ''{{w|Nihon Shoki}}'', where the written word {{m|ja|山}} is read as ''mure'' with an apparent meaning of {{m|en|mountain}} or {{m|en|hill}}.<ref name="DJR-mure">{{R:Daijirin}}, entry online [https://web.archive.org/web/20201024122313/https://kotobank.jp/word/%E5%B1%B1%E3%83%BB%E7%89%9F%E7%A4%BC-395079 here]</ref><ref name="KDJ-mure">{{R:Kokugo Dai Jiten}}, entry online [https://kotobank.jp/word/%E7%89%9F%E7%A4%BC%E3%83%BB%E5%B1%B1-2086830 here]</ref>
+The phonetic {{w|man'yōgana}} spelling {{m|ja|牟礼}} for ''mure'' appears first in the ''{{w|Kojiki}}'' of 720, but instead for the stem of verb {{m|ja|群れる|tr=mureru||to group together}}.<ref name="KDJ2-mureru">{{R:Nihon Kokugo Daijiten 2|群}}</ref>  The first instance of this spelling for the {{m|en|mountain}} sense is in the {{w|Heian period}}, in different {{m|ja||{{w|lang=ja|日本書紀私記}}|tr=Nihon Shoki Shiki}} versions, themselves [[recompilation]]s of the ''{{w|Nihon Shoki}}''.<ref name="KDJ2-mure"/>  This reading with this sense apparently arises from the traditional {{m|ja|訓読|tr=kundoku}} of a particular section of the ''{{w|Nihon Shoki}}'', where the written word {{m|ja|山}} is read as ''mure'' with an apparent meaning of {{m|en|mountain}} or {{m|en|hill}}.<ref name="KDJ2-mure"/><ref name="DJR-mure">{{R:Daijirin}}, entry online [https://web.archive.org/web/20201024122313/https://kotobank.jp/word/%E5%B1%B1%E3%83%BB%E7%89%9F%E7%A4%BC-395079 here]</ref>
+
+====Pronunciation====
+{{ja-pron|むれ}}
 
 ====Noun====
 {{ja-noun|むれ}}
