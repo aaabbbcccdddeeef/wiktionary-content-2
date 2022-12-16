@@ -28,9 +28,11 @@ Note that in simplified Chinese and Vietnamese scripts, [[亡]] is written with 
 
 ===Glyph origin===
 {{Han etym}}
-Originally written {{zh-l|*𦣠}}, an {{Han compound|臣|𡈼|ls=ic|t1=eye|t2=person standing on the ground|nocap=y}} – a person standing up and looking off into the distance. Later {{zh-l|*月|moon}} was added to produce {{zh-l|*朢}}.
+<!--Originally written {{zh-l|*𦣠}}, an {{Han compound|臣|𡈼|ls=ic|t1=eye|t2=person standing on the ground|nocap=y}} – a person standing up and looking off into the distance. Later {{zh-l|*月|moon}} was added to produce {{zh-l|*朢}}.-->
+Originally written {{l-lite|zh|𦣠|sc=Hani}}, an ideogrammic compound ({{m-lite|zh|會意|sc=Hani}}): {{m-lite|zh|臣|sc=Hani|t=eye}} + {{m-lite|zh|𡈼|sc=Hani|t=person standing on the ground}} – a person standing up and looking off into the distance. Later {{l-lite|zh|月|sc=Hani|t=moon}} was added to produce {{l-lite|zh|朢|sc=Hani}}. [[Category:Han ideogrammic compounds|月07]]
 
-The {{zh-l|*臣}} component is now written {{zh-l|*亡}}, making the current form a {{Han compound|亡|月|𡈼|ls=psc|c1=p|c2=s|c3=s|t2=|t3=|nocap=y}}.
+<!--The {{zh-l|*臣}} component is now written {{zh-l|*亡}}, making the current form a {{Han compound|亡|月|𡈼|ls=psc|c1=p|c2=s|c3=s|t2=|t3=|nocap=y}}.-->
+The {{l-lite|zh|臣|sc=Hani}} component is now written {{l-lite|zh|亡|sc=Hani}}, making the current form a [[phono-semantic]] compound ({{m-lite|zh|形聲|sc=Hani}}, {{IPAfont|{{abbr|OC|Old Chinese}} *maŋ, *maŋs}}): phonetic {{m-lite|zh|亡|sc=Hani|tr={{abbr|OC|Old Chinese}} *maŋ}} + semantic {{m-lite|zh|月|sc=Hani}} + semantic {{m-lite|zh|𡈼|sc=Hani}}. [[Category:Han phono-semantic compounds|月07]]
 
 ===Etymology===
 From {{inh|zh|sit-pro|*mraŋ||to see}}. Cognate with {{cog-lite|my|မြင်|sc=Mymr|tr=mrang}}.
