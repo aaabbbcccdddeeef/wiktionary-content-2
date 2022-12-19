@@ -45,10 +45,35 @@
 ===Kanji===
 {{ja-kanji|grade=|rs=山17}}
 
-# {{rfdef|ja|sort=山17}}
+# [[rugged]], [[steep]], [[jagged]] {{q|as of a [[mountain range]]}}
 
 ====Readings====
-* {{ja-readings|on=[[さん]] (san), [[ざん]] (zan)|kun=}}
+{{ja-readings
+|goon=ぜん<ぜむ
+|kanon=さん<さむ
+|kanyoon=ざん
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=kanyoon|ざん}}
+
+Ultimately from {{der|ja|ltc|sort=さん'|-}} {{ltc-l|巉}}.
+
+===Pronunciation===
+{{ja-pron|ざん}}
+
+===Affix===
+{{ja-pos|affix|ざん}}
+
+# {{lb|ja|sort=さん'|rare}} [[rugged]], [[steep]], [[jagged]] {{q|as of a [[mountain range]]}}
+
+====Derived terms====
+* {{ja-r|巉巌|ざんがん|jagged and steep|pos=said of a mountain}}
+*: Listed as a ''-na'' adjective,<ref name="KDJ2-巉巖">{{R:Nihon Kokugo Daijiten 2|巉巖}}</ref> but only observed in use as an adverb using particle {{ja-r|に}}.
+* {{ja-r|巉岸|ざんがん|a jagged and steep [[bank]] or [[shore]]}}
+
+===References===
+<references/>
 
 ----
 
