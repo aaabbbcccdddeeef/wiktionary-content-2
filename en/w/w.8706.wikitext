@@ -570,10 +570,11 @@ Used chiefly in recent loanwords and foreign proper nouns.
 ==Spanish==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|es|/w/|/ɡw/|/β/}}
-{{es-IPA|uve doble|pre={{qualifier|letter name}}}}
-{{es-IPA|dóble vè|pre={{qualifier|letter name}}}}
-** {{audio|es|letter w es es.flac|Audio (Spain)}}
+{{es-pr
+|raw:/w/<q:phoneme>,raw:/gw/,raw:/β/
+|uve doble<q:letter name>
+|dóble vè<q:letter name><audio:letter w es es.flac;Audio (Spain)>
+}}
 
 ===Letter===
 {{head|es|letter|lower case||upper case|W}}
