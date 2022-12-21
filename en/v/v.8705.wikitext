@@ -676,15 +676,16 @@ From {{inh|sl|sla-pro|*vъ(n)}}.
 ==Spanish==
 
 ===Pronunciation===
-* {{sense|phoneme}} {{IPA|es|/b/}}
-* {{sense|letter name}}
-{{es-IPA|ve|pre={{qualifier|traditional}}|bullets=2}} (spelled {{m|es|ve}})
-{{es-IPA|uve|pre={{qualifier|common in most countries}}}} (spelled {{m|es|uve}}) {{audio|es|Letter v es es.flac|Audio (Spain)|bullets=2}}
-** {{qualifier|common in some countries}}:
-{{es-IPA|ve corta|post=({{m|es|ve corta}});|bullets=3}}
-{{es-IPA|ve baja|post=({{m|es|ve baja}});|bullets=3}}
-{{es-IPA|ve pequeña|post=({{m|es|ve pequeña}}); or|bullets=3}}
-{{es-IPA|ve chica|post=({{m|es|ve chica}})|bullets=3}}
+{{es-pr
+|raw:/b/<q:phoneme>
+|ve<q:letter name><qq:traditional, spelled {{m|es|ve}}>,uve<qq:common in most countries, spelled {{m|es|uve}}><audio:Letter v es es.flac;Audio (Spain)>
+}}
+* {{q|common in some countries}}{{es-pr
+|ve corta<qq:spelled {{m|es|ve corta}}><bullets:2>
+|ve baja<qq:spelled {{m|es|ve baja}}><bullets:2>
+|ve pequeña<qq:spelled {{m|es|ve pequeña}}><bullets:2>
+|ve chica<qq:spelled {{m|es|ve chica}}><bullets:2>
+}}
 
 ===Letter===
 {{head|es|letter|lower case||upper case|V}}
