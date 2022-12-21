@@ -453,12 +453,10 @@ From similarity pronunciation of {{m|en|q}} in English and {{m|id|-ku}} in Indon
 
 ==Spanish==
 
-===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|es|/k/}}
-{{es-IPA|cu|pre={{qualifier|letter name}}}}
-** {{audio|es|letter q es es.flac|Audio (Spain)}}
-
 ===Etymology 1===
+
+====Pronunciation====
+{{es-pr|raw:/k/<q:phoneme>|cu<q:letter name><audio:letter q es es.flac<a:Spain>>}}
 
 ====Letter====
 {{head|es|letter|lower case||upper case|Q}}
@@ -466,6 +464,9 @@ From similarity pronunciation of {{m|en|q}} in English and {{m|id|-ku}} in Indon
 # {{Latn-def|es|letter|18}}
 
 ===Etymology 2===
+
+====Pronunciation====
+{{es-pr|que}}
 
 ====Pronoun====
 {{head|es|pronoun}}
