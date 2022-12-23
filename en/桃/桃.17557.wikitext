@@ -95,24 +95,31 @@ Possibly borrowed from the linguistic ancestor of {{cog|hmx-pro|*glaau³ᴬ}} ({
 
 ===Etymology===
 {{ja-kanjitab|yomi=k|もも}}
-From {{inh|ja|ojp|sort=もも}}. Brought to Japan in antiquity, with pits found in prehistoric sites from the {{w|Yayoi period}}, 300 BCE - 300 CE. Mentioned as a [[food]] in documents from the {{w|Nara period|Nara}} and {{w|Heian period|Heian}} periods.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+From {{inh|ja|ojp|sort=もも|-}}.  Mentioned in the ''{{w|Nihon Shoki}}'' of 720.<ref name="KDJ2">{{R:Nihon Kokugo Daijiten 2}}</ref>
+
+Brought to Japan in antiquity, with pits found in prehistoric sites from the {{w|Yayoi period}}, 300 BCE - 300 CE. Mentioned as a [[food]] in documents from the {{w|Nara period|Nara}} and {{w|Heian period|Heian}} periods.<ref name="KDJ2"/>
 
 Ultimate derivation unknown. Theories include the following.
 * Possibly derived originally from a reduplication of {{m|ja|実|tr={{upright|Old Japanese}} mu, {{upright|modern Japanese}} mi||fruit}}, from the way that peaches often grow in clusters. However, the vowel shift seems unlikely given regular Japanese phonetic shifts. In addition, most reduplicated terms in Japanese have the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern, starting high and falling, which differs from the {{m|ja|平板型|tr=heiban-gata}} pitch accent pattern of this term.
-* Possibly cognate with {{cog|ojp|-}} {{m|ja|百|tr=momo||hundred; lots}}. However, this also has the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern.
-* Possibly a reduplication of {{m|ja|毛|tr=mo||hair}}, from the way that peaches are [[hairy]]. The term is spelled as {{lang|ja|毛毛}} in some ancient documents. However, {{m|ja|毛}} was commonly used as [[man'yōgana]] for its phonetic value, in which cases its original Chinese meaning of {{m|en|hair}} is usually ignored.
+* Possibly cognate with {{cog|ojp|百|tr=momo||hundred; lots}}. However, this also has the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern.
+* Possibly a reduplication of {{m|ja|毛|tr=mo||hair}}, from the way that peaches are [[hairy]]. The term is spelled as {{m|ja|毛毛}} in some ancient documents. However, {{m|ja|毛}} was commonly used as [[man'yōgana]] for its phonetic value, in which cases its original Chinese meaning of {{m|en|hair}} is usually ignored.
+
 None of the above possibilities seems very compelling. Given the archaeological evidence, this term probably originated before the Japanese ancestor population migrated to the Japanese [[archipelago]].
 
 Possibly related to {{m|ja|梅|tr={{upright|ancient}} mume, {{upright|modern}} ume||Japanese apricot, Japanese plum}}.
 
 ===Pronunciation===
-{{ja-pron|yomi=k|もも|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|もも|acc=0|acc_ref=DJR,NHK}}
 
 ===Noun===
 {{ja-noun|もも|モモ}}
 
-# [[peach]]
-# [[peach]] [[tree]]
+# {{defdate|from 720}} [[peach]]
+# {{defdate|from 720}} [[peach]] [[tree]]
+
+====Usage notes====
+{{U:ja:biology|モモ}}
 
 ====Derived terms====
 {{der-top}}
@@ -122,7 +129,7 @@ Possibly related to {{m|ja|梅|tr={{upright|ancient}} mume, {{upright|modern}} u
 * {{ja-r|桃%尻|もも%じり}}: “peach butt” → from the way that the end of a peach is often pointy, and thus difficult to place stably: somebody who is bad at horse-riding; a fidgety, restless person
 * {{ja-r|桃%園|もも%ぞの}}: a peach orchard
 * {{ja-r|桃 割れ|もも われ}}: “split peach” → a hairstyle of Meiji and Taisho era, featuring a bun resembling a halved peach
-* {{l|ja|桃の花の香り}} ([[もものはなのかおり]], [[momo no hana no kaori]]); fragrance of peach blossom
+* {{ja-r|桃の花の香り|もも の はな の かおり}}: the fragrance of peach blossoms
 {{der-bottom}}
 
 ====Idioms====
@@ -136,12 +143,12 @@ Possibly related to {{m|ja|梅|tr={{upright|ancient}} mume, {{upright|modern}} u
 ===Proper noun===
 {{ja-pos|proper|もも}}
 
-# {{given name|ja|female|sort=もも}}
+# {{given name|ja|sort=もも|female}}
 
 ===References===
 <references/>
 
-{{c|ja|Fruits|Madder family plants|Stone fruits|sort=もも}}
+{{c|ja|sort=もも|Fruits|Madder family plants|Stone fruits}}
 
 ----
 
