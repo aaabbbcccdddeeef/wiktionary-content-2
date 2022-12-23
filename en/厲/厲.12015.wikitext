@@ -68,9 +68,10 @@
 ----
 
 ==Japanese==
+{{ja-kanji forms|厉|厲|ex=y}}
 
 ===Kanji===
-{{ja-kanji|grade=|rs=厂12｜shin=厉}}
+{{ja-kanji|grade=|rs=厂12|shin=厉}}
 
 # [[whetstone]]
 #: {{syn|ja|礪}}
@@ -82,22 +83,11 @@
 #: {{syn|ja|癩}}
 
 ====Readings====
-From {{der|ja|ltc|-}} {{ltc-l|厲|id=1}}; compare {{cog|cmn|厲|tr=lì}}:
+{{rfv-pron|ja}}<!--れち, れつ?-->
 {{ja-readings
-|goon=らい<らい
-|kanon=れい<れい
-}}
-From {{der|ja|ltc|-}} {{ltc-l|厲|tr=lɑi<sup>H</sup>}}<!--癩-->; compare {{cog|cmn|厲|tr=lài}}:
-{{ja-readings
-|goon=らい<らい
-|kanon=らい<らい
-}}
-Unknown: {{rfv-pron|ja|sort=厂12}}
-{{ja-readings
+|goon=らい<らい<!--liᴇiH, lɑiH-->
+|kanon=らい<らい<!--lɑiH-->, れい<れい<!--liᴇiH-->
 |on=れち, れつ
-}}
-From native {{w|Japanese_language|Japanese}} roots:
-{{ja-readings
 |kun=きつい, こする, と-, といし-, と-ぐ, はげ-しい, はげ-ます, はげ-む
 }}
 
