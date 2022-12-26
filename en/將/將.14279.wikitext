@@ -24,18 +24,18 @@
 {{Han etym}}
 {{Han compound|爿|肉|alt2=⺼|t1=bed; small table|t2=meat|寸|t3=hand|ls=ic|c1=s|c2=s|c3=s}} – to offer meat as tribute by putting it on the table.
 
-The {{lang|zh|⺼}} component is on its side, hence resembles {{zh-l|*夕}} with an added dot; compare {{zh-l|*祭}}, {{zh-l|*然}}.
+The {{lang-lite|zh|sc=Hani|⺼}} component is on its side, hence resembles {{zh-l|*夕}} with an added dot; compare {{zh-l|*祭}}, {{zh-l|*然}}.
 
-[[w:Shuowen Jiezi|''Shuowen'']] erroneously considers the phonetic component of {{lang|zh|將}} to be {{och-l|醬|sauce}} (abbreviated).
+[[w:Shuowen Jiezi|''Shuowen'']] erroneously considers the phonetic component of {{lang-lite|zh|sc=Hani|將}} to be {{och-l|醬|sauce}} (abbreviated).
 
 ===Etymology===
 A conflation of two roots: “to take; to hold” and “will; be going to; near”.
 
 ; “to take; to hold” (Pronunciations 1, 2 and 3)
-: {{der|zh|sit}}: compare {{cog|bo|འཆང||to hold, to keep, to carry}}.
+: {{der|zh|sit}}: compare {{cog-lite|bo|འཆང|t=to hold, to keep, to carry|sc=Tibt|tr=<nowiki/>'chang}}.
 
 ; “will; be going to; near” (Pronunciation 1)
-: {{der|zh|aav}}: compare {{cog|km|ចង់||to want, to wish; to approach, to draw near; about to (do something), on the point of}} < {{cog|okz|caṅa||to wish, to want}}. Cognate with {{och-l|且|about to; on the point of; moreover; also}} ({{zh-ref|Wu, 2015}}).
+: {{der|zh|aav}}: compare {{cog-lite|km|t=to want, to wish; to approach, to draw near; about to (do something), on the point of|sc=Khmr|tr=cɑng}} < {{cog|okz|caṅa||to wish, to want}}. Cognate with {{och-l|且|about to; on the point of; moreover; also}} ({{zh-ref|Wu, 2015}}).
 
 ===Pronunciation 1===
 {{zh-pron
@@ -79,7 +79,7 @@ A conflation of two roots: “to take; to hold” and “will; be going to; near
 # {{n-g|Particle introducing the object of the verb, used in the same fashion as {{zh-l|*把}} but more formal.}}
 #: {{zh-x|將 飯 做 好|to make the food ready}}
 #: {{zh-x|將 醫生 請 來|to send for a doctor}}
-#* {{zh-x|恨{hūn} 你 絕情 將{chiong} 阮{gún} 放{pàng}|I resented that you heartlessly let me go|ref={{lw|zh|黃敏}} (lyricist), {{lang|zh|碎心戀}}|MN}}
+#* {{zh-x|恨{hūn} 你 絕情 將{chiong} 阮{gún} 放{pàng}|I resented that you heartlessly let me go|ref={{lw|zh|黃敏}} (lyricist), {{lang-lite|zh|sc=Hani|碎心戀}}|MN}}
 # {{†}} to [[support]]; to [[assist]]
 # {{†}} to [[advance]]; to [[go]]
 # {{†}} to [[take]] [[orders]]; to [[follow]]
@@ -216,7 +216,7 @@ Nominalization of verb {{m|ja|勝る|tr=masaru||to [[excel]], [[rival#Verb|rival
 * {{alt|ko|将}}
 
 ===Etymology 1===
-From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|[[commander]]}}.
+From {{der-lite|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|[[commander]]}}.
 {{hanja-ety
 |dk={{okm-l|쟈ᇰ〮|cyáng|link=no}}
 |m={{okm-l|쟈ᇰ〯|cyǎng}}
@@ -274,7 +274,7 @@ From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=2|[[commander]]}}.
 {{der-bottom}}
 
 ===Etymology 2===
-From {{der|ko|ltc|sort=장|-}} {{ltc-l|將|id=1|to [[take]]; to [[hold]]}}.
+From {{der-lite|ko|ltc|sort=장|-}} {{ltc-l|將|id=1|to [[take]]; to [[hold]]}}.
 {{hanja-ety
 |dk={{okm-l|쟈ᇰ|cyàng|link=no}}
 |m={{okm-l|쟈ᇰ|cyàng}}
@@ -339,7 +339,7 @@ From {{inh|ojp|jpx-pro|*pata}}.
 {{head-lite|vi|nouns|langname=Vietnamese|sort=寸08}} ({{l-lite|vi|tương}})
 
 # {{han tu form of|tướng|{{lb|vi|military}} [[general#Noun|general]]; [[commander]]}}
-# {{han tu form of|tướng|{{lb|vi|Chinese chess}} a [[piece]] [[label]]ed with the [[character]] {{lang|vi|將}} in [[black]]}}
+# {{han tu form of|tướng|{{lb|vi|Chinese chess}} a [[piece]] [[label]]ed with the [[character]] {{lang-lite|vi|sc=Hani|將}} in [[black]]}}
 
 =====Derived terms=====
 {{der-top3}}
