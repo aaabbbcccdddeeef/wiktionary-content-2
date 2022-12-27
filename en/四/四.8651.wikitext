@@ -24,9 +24,9 @@
 
 ===Glyph origin===
 {{Han etym}}
-The word "four" was written as {{zh-l|*亖}} before {{w|Western Zhou}} and {{zh-l|*四}} appeared in late {{w|Spring and Autumn period}}. This alternative form was used to prevent confusion of {{zh-l|*亖}} and {{zh-l|*二}} or {{zh-l|*三}} in vertical writing. It was standardized in {{w|Qin dynasty}}.
+The word "four" was written as {{l-lite|zh|sc=Hani|亖}} before {{w|Western Zhou}} and {{l-lite|zh|sc=Hani|四}} appeared in late {{w|Spring and Autumn period}}. This alternative form was used to prevent confusion of {{l-lite|zh|sc=Hani|亖}} and {{l-lite|zh|sc=Hani|二}} or {{l-lite|zh|sc=Hani|三}} in vertical writing. It was standardized in {{w|Qin dynasty}}.
 
-The bronzeware style of the character featured a repositioning of those four lines inside {{zh-l|*口}}; this later evolved into the combination used today of {{zh-l|*口|mouth}} and {{zh-l|*八|divide}} which meant ''a dispersal of breath''. It could thus be said that [[four]] is a borrowed meaning for this character. The original sense is preserved in {{och-l|呬}}, by adding an extra {{lang|zh|口}}.
+The bronzeware style of the character featured a repositioning of those four lines inside {{l-lite|zh|sc=Hani|口}}; this later evolved into the combination used today of {{l-lite|zh|sc=Hani|口|t=mouth}} and {{l-lite|zh|sc=Hani|八|t=divide}} which meant ''a dispersal of breath''. It could thus be said that [[four]] is a borrowed meaning for this character. The original sense is preserved in {{och-l|呬}}, by adding an extra {{lang-lite|zh|sc=Hani|口}}.
 
 ===Etymology 1===
 {{zh-forms|alt=肆-financial,亖,皿,龱,𠁤,𠃢,𦉭}}
@@ -65,7 +65,7 @@ Jinjiang, Philippines: sì - vernacular and literary
 # [[four]]
 # {{lb|zh|literary}} [[four]] [[direction]]s; all directions {{attn|zh|request for another quote, to be sure that i'm not wrong}}
 #: {{zh-syn|四方}}
-#* {{quote-book|zh|year=1853|author={{lw|zh|陳逢衡|陳逢𢖍}} [{{smc|Chen}} Fengheng; {{smc|Chin}} Hōkō]|chapter={{lang|zh|𠸄咭唎紀略序}}|editor={{lang|zh|荒木謇}}|title={{lang|zh|𠸄咭唎紀略}} [Yingjili jilüe; Egeresu kiryaku]|trans-title=|url=https://books.google.com/books?id=N0RjAAAAcAAJ|edition=|publisher=|pageurl=|page=}}
+#* {{quote-book|zh|year=1853|author={{lw|zh|陳逢衡|陳逢𢖍}} [{{smc|Chen}} Fengheng; {{smc|Chin}} Hōkō]|chapter={{lang-lite|zh|sc=Hani|𠸄咭唎紀略序}}|editor={{lang-lite|zh|sc=Hani|荒木謇}}|title={{lang-lite|zh|sc=Hani|𠸄咭唎紀略}} [Yingjili jilüe; Egeresu kiryaku]|trans-title=|url=https://books.google.com/books?id=N0RjAAAAcAAJ|edition=|publisher=|pageurl=|page=}}
 #*: {{zh-x|三 個 月 水路、四 無 所見、唯 天 與 水 耳|3 months at sea, naught in '''the four directions''', but sky and water|CL}}
 # {{lb|zh|music}} [[la]] (''musical note'')
 # {{lb|zh|printing}} [[English]]; The [[size]] of [[type]] between [[小四]] ([[little]] [[4]]) and [[小三]] ([[little]] [[3]]), [[standardize]]d as 14 [[point]].
@@ -158,7 +158,7 @@ In modern Japanese, Japonic {{ja-r|よ}} is more common than Sinitic {{ja-r|し|
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|よん}}
 
-Shift from ''yo'' above,<ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref> influenced by analogy by the final sound of preceding number {{m|ja|三|tr=san||[[three]]}}. The most common form as a stand-alone number.
+Shift from ''yo'' above,<ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref> influenced by analogy by the final sound of preceding number {{m-lite|ja|sc=Jpan|三|tr=san||[[three]]}}. The most common form as a stand-alone number.
 
 ====Pronunciation====
 {{ja-pron|y=k|よん|acc=1|acc_ref=DJR|a=Ja-4-yon.ogg}}
@@ -176,7 +176,7 @@ Shift from ''yo'' above,<ref name="DJR"/><ref name="DJS">{{R:Daijisen}}</ref> in
 {{ja-kanjitab|yomi=o|し}}
 {{IPAchar|/si/}} → {{IPAchar|/ɕi/}}
 
-From {{der|ja|ltc|sort=し|-}} {{ltc-l|四}}.
+From {{der-lite|ja|ltc|sort=し|-}} {{ltc-l|四}}.
 
 Compare modern {{cog|hak|四|tr=si}}.
 
@@ -192,7 +192,7 @@ Compare modern {{cog|hak|四|tr=si}}.
 # [[four]], [[4]]
 
 =====Usage notes=====
-Due to Chinese influence, {{m|ja||四|tr=shi}} is sometimes avoided as it is homonymous to {{m|ja|死|tr=shi||[[death]]}}.
+Due to Chinese influence, {{m-lite|ja|sc=Jpan||四|tr=shi}} is sometimes avoided as it is homonymous to {{m-lite|ja|sc=Jpan|死|tr=shi||[[death]]}}.
 
 =====Derived terms=====
 {{der-top3}}
@@ -273,7 +273,7 @@ From {{bor|ja|cmn|sort=すう|四|tr=sì}}.<ref name="DJR"/><ref name="DJS"/><re
 
 [[Category:Japanese numeral symbols|4]]
 [[Category:Japanese numerals|4]]
-{{top|ja|Four}}
+[[Category:ja:Four]]
 
 ----
 
@@ -281,7 +281,7 @@ From {{bor|ja|cmn|sort=すう|四|tr=sì}}.<ref name="DJR"/><ref name="DJS"/><re
 {{number box|ko|4}}
 
 ===Etymology===
-From {{der|ko|ltc|sort=사|-}} {{ltc-l|四}}.
+From {{der-lite|ko|ltc|sort=사|-}} {{ltc-l|四}}.
 
 {{collapse|
 * {{hanja-dongguk|ᄉᆞᆼ〮|só}}
@@ -339,7 +339,7 @@ From {{der|ko|ltc|sort=사|-}} {{ltc-l|四}}.
 ===Etymology===
 From {{inh|ojp|jpx-pro|sort=よ|*yə}}.
 
-Also used as {{m|ja|借訓|tr=shakkun}} ''kana'' for {{IPAfont|⟨yo<sub>2</sub>⟩}}.
+Also used as {{m-lite|ja|sc=Jpan|借訓|tr=shakkun}} ''kana'' for {{IPAfont|⟨yo<sub>2</sub>⟩}}.
 
 ===Numeral===
 {{head|ojp|numeral|tr=yo<sub>2</sub>|kana|よ|sort=よ}}
@@ -347,7 +347,7 @@ Also used as {{m|ja|借訓|tr=shakkun}} ''kana'' for {{IPAfont|⟨yo<sub>2</sub>
 # [[four]], [[4]]
 
 ====Derived terms====
-* {{m|ojp|四人|tr=yo<sub>2</sub>tari}}
+* {{m-lite|ojp|sc=Jpan|四人|tr=yo<sub>2</sub>tari}}
 
 ====Descendants====
 * {{desc|ja|四|tr=yo, yon}}
