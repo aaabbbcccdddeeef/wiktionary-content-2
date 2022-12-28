@@ -52,7 +52,7 @@ Which section does these pronunciations belong to?-->{{attention|zh}}
 
 ===Etymology 3===
 
-====Pronunciation====
+====Pronunciation 1====
 {{zh-pron
 |m=ō
 |c=o1,ou3
@@ -65,8 +65,20 @@ Which section does these pronunciations belong to?-->{{attention|zh}}
 {{zh-hanzi}}
 
 # {{non-gloss definition|interjection for [[pain]], [[sadness]]; [[realization]]}}: "[[Oh]]!"
-# {{lb|zh|Shanghainese Wu}} {{n-g|Used to indicate a monishing tone}}
+
+
+====Pronunciation 2====
+{{zh-pron
+|w=0au
+|cat=interj
+}}
+
+=====Definitions=====
+{{zh-hanzi}} {{lb|zh|Shanghainese Wu}}
+# {{n-g|Sentence-final particle used to indicate a monishing tone.}}
 #: {{zh-x|當心 眼 噢！|tr=1taan xin nge au|Be careful!|SH}}
+# {{n-g|Sentence-final particle used to indicate an informative tone.}}
+#: {{zh-x|馬上 就 好 了 噢！|tr=3mo zaan+3xxieu+2hau leq au|It'd be done soon!|SH}}
 
 ===References===
 * {{R:yue:Hanzi}}
