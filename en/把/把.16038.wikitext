@@ -34,7 +34,7 @@
 |md=bā/bá
 |md_note=bā - “to hold; handle; classifier”; bá - “handle”
 |mn=xm,qz,jj,tw:pé/zz:pée/ml,jj,tw:pá/tw:pà
-|mn_note=pé/pée - vernacular; pá - literary; pà - used in {{zh-l|*遏手把}}
+|mn_note=pé/pée - vernacular; pá - literary; pà - used in {{l-lite|zh|sc=Hani|遏手把}}
 |mn-t=bê2/ba2
 |mn-t_note=bê2 - vernacular; ba2 - literary
 |w=2po,2pa
@@ -47,11 +47,11 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{zh-hanzi-lite|sort=手04}}
 
 # to [[hold]]; to [[grasp]]; to [[take]]
 #: {{zh-x|媽媽 手把手 教 我 寫字。|My mom held my hand and taught me to write.}}
-#* {{zh-x|縱 有 健婦 把 鋤犁，禾 生 隴畝 無 東西。|Even though there are sturdy wives to '''hold''' the hoe and plow, the grain grows on the field boundary slopes and one can’t tell east from west.|CL|ref=8th century, {{lw|zh|杜甫}} ({{w|Du Fu}}), {{lang|zh|《兵車行》}} (''The Army Wagons: A Ballad''); translated by {{w|Stephen Owen (sinologist)|Stephen Owen}}}}
+#* {{zh-x|縱 有 健婦 把 鋤犁，禾 生 隴畝 無 東西。|Even though there are sturdy wives to '''hold''' the hoe and plow, the grain grows on the field boundary slopes and one can’t tell east from west.|CL|ref=8th century, {{lw|zh|杜甫}} ({{w|Du Fu}}), {{lang-lite|zh|sc=Hani|《兵車行》}} (''The Army Wagons: A Ballad''); translated by {{w|Stephen Owen (sinologist)|Stephen Owen}}}}
 # to [[control]]; to [[dominate]]
 #: {{zh-x|把控|to control}}
 # to [[guard]]; to have [[control]] over
@@ -121,12 +121,12 @@
 }}
 
 ====Definitions====
-{{zh-hanzi}}
+{{zh-hanzi-lite|sort=手04}}
 
 # {{†}} {{zh-alt-form|爬|to scratch}}
 # {{surname|zh}}
 
-{{zh-cat|Beginning|Intermediate}}
+[[Category:Beginning Mandarin|手04]][[Category:Intermediate Mandarin|手04]] <!-- {{zh-cat|Beginning|Intermediate}} -->
 
 ----
 
@@ -175,7 +175,7 @@
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|把}}.
+From {{der-lite|ko|ltc|-}} {{ltc-l|把}}.
 
 {{collapse|
 * {{hanja-dongguk|방〯|pǎ}}
@@ -190,7 +190,7 @@ From {{der|ko|ltc|-}} {{ltc-l|把}}.
 {{ko-hanja-search}}
 {{ko-hanja|잡다|잡을|파}}
 
-# {{hanja form of|파|to [[take]]; to [[hold]]}}
+# {{hanja form of-lite|파|to [[take]]; to [[hold]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
