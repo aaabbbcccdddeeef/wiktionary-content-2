@@ -19,7 +19,7 @@
 
 ===Glyph origin===
 {{Han etym}}
-{{liushu|i}}: a tree ({{zh-l|*木}}) with its bottom highlighted with an extra stroke, accentuating the roots; contrast {{zh-l|*末|}}, {{zh-l|*朱}}.
+{{liushu|i}}: a tree ({{l-lite|zh|sc=Hani|木}}) with its bottom highlighted with an extra stroke, accentuating the roots; contrast {{l-lite|zh|sc=Hani|末|}}, {{l-lite|zh|sc=Hani|朱}}.
 
 ===Etymology===
 From {{inh|zh|sit-pro|*(b/p)ul||root; stump; tree}} (STEDT). Cognate with {{cog|lus|bul||cause; beginning; root; stump}}, {{cog|kac|phun||tree; bush; stalk; wood}}, {{cog|grt|bol||tree}}, {{cog|my|ပင်||tree, plant}} and {{cog|my|ပင်ရင်း||source, origin, basic}}.
@@ -81,7 +81,7 @@ From {{inh|zh|sit-pro|*(b/p)ul||root; stump; tree}} (STEDT). Cognate with {{cog|
 * {{s|classifier for books, periodicals, files}} {{q|Min Nan}} {{zh-l|卷}}
 
 ====Antonyms====
-* {{l|mul|末}}
+* {{l-lite|mul|sc=Hani|末}}
 
 ====Descendants====
 {{CJKV||ほん|본|bổn|v2=bản|ふん}}
@@ -170,7 +170,7 @@ From {{inh|zh|sit-pro|*(b/p)ul||root; stump; tree}} (STEDT). Cognate with {{cog|
 ====Noun====
 {{ja-noun|もと|count=個}}
 
-# {{alternative form of|ja|元}}
+# {{alt form-lite|ja|sc=Jpan|元}}
 
 ===Etymology 2===
 {{ja-kanjitab|ほん|yomi=o}}
@@ -210,21 +210,21 @@ From {{inh|zh|sit-pro|*(b/p)ul||root; stump; tree}} (STEDT). Cognate with {{cog|
 ==Korean==
 
 ===Etymology===
-From {{der|ko|ltc|-}} {{ltc-l|本}}. {{hanja-sinjeung|본|pwon}}
+From {{der-lite|ko|ltc|-}} {{ltc-l|本}}. {{hanja-sinjeung|본|pwon}}
 
 ===Hanja===
 {{ko-hanja-search}}
 {{ko-hanja|근본|본}}
 
-# {{hanja form of|본|[[root]]; [[basis]]; [[foundation]]; [[stem]]}}
-# {{hanja form of|본|[[source]]; [[origin]]}}
-# {{hanja form of|본|[[main]]; [[primary]]; [[principal]]}}
-# {{hanja form of|본|[[mind]]; [[nature]]; [[essence]]; [[true]] [[self]]}}
-# {{hanja form of|본|[[ancestor]]; [[fatherland]]; [[hometown]]}}
-# {{hanja form of|본|[[counter]] for [[book]]s; [[book]]; [[publication]]}}
-# {{hanja form of|본|[[model]]; [[version]]}}
-# {{hanja form of|본|[[this]]; this [[very]]}}
-# {{hanja form of|본|{{lb|ko|finance}} [[principal]]}}
+# {{hanja form of-lite|본|[[root]]; [[basis]]; [[foundation]]; [[stem]]}}
+# {{hanja form of-lite|본|[[source]]; [[origin]]}}
+# {{hanja form of-lite|본|[[main]]; [[primary]]; [[principal]]}}
+# {{hanja form of-lite|본|[[mind]]; [[nature]]; [[essence]]; [[true]] [[self]]}}
+# {{hanja form of-lite|본|[[ancestor]]; [[fatherland]]; [[hometown]]}}
+# {{hanja form of-lite|본|[[counter]] for [[book]]s; [[book]]; [[publication]]}}
+# {{hanja form of-lite|본|[[model]]; [[version]]}}
+# {{hanja form of-lite|본|[[this]]; this [[very]]}}
+# {{hanja form of-lite|본|{{lb|ko|finance}} [[principal]]}}
 
 ====Compounds====
 {{der-top|Compounds}}
@@ -305,7 +305,7 @@ From {{der|ko|ltc|-}} {{ltc-l|本}}. {{hanja-sinjeung|본|pwon}}
 ====Noun====
 {{ryu-noun|むとぅ|count=個}}
 
-# {{alternative form of|ryu|元}}
+# {{alt form-lite|ryu|sc=Jpan|元}}
 
 ===Etymology 2===
 {{ryu-kanjitab|ふん|yomi=o}}
@@ -334,11 +334,11 @@ From {{der|ko|ltc|-}} {{ltc-l|本}}. {{hanja-sinjeung|본|pwon}}
 |nom=vốn-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd, bộn-tdcndg;gdhn;btcn;bonet;genibrel;taberd, bổn-tdcntd;gdhn;bonet;taberd, bủn-btcn;bonet;genibrel;taberd, bốn-tdcndg;tdcntd;gdhn, vỏn-gdhn;btcn;bonet, bỏn-gdhn;genibrel;taberd, bản-tdcndg;tdcntd, vón-tdcndg, bọn-genibrel
 }}
 
-# {{han tu form of|bản|[[basis]]; [[origin]]}}
-# {{han tu form of|bổn|[[basis]]; [[origin]]}}
-# {{Nom form of|bốn|[[four]]}}
-# {{Nom form of|vón|to [[clot]]}}
-# {{Nom form of|vốn|[[capital]]; [[bond]]; [[fund]]}}
+# {{han tu form of-lite|bản|[[basis]]; [[origin]]}}
+# {{han tu form of-lite|bổn|[[basis]]; [[origin]]}}
+# {{Nom form of-lite|bốn|[[four]]}}
+# {{Nom form of-lite|vón|to [[clot]]}}
+# {{Nom form of-lite|vốn|[[capital]]; [[bond]]; [[fund]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
